@@ -1,0 +1,73 @@
+---
+title: TableElement
+second_title: Aspose.PDF for .NET API 参考
+description: 表示逻辑结构中的表结构元素
+type: docs
+weight: 4610
+url: /zh/net/aspose.pdf.logicalstructure/tableelement/
+---
+## TableElement class
+
+表示逻辑结构中的表结构元素。
+
+```csharp
+public sealed class TableElement : BLSElement
+```
+
+## 特性
+
+| 姓名 | 描述 |
+| --- | --- |
+| [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext) { get; set; } | 获取或设置结构元素的实际文本。 |
+| [Alignment](../../aspose.pdf.logicalstructure/tableelement/alignment) { get; set; } | 获取或设置表格对齐方式。 |
+| [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext) { get; set; } | 获取或设置结构元素的替代文本。 |
+| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | 获取StructureAttributeCollection对象。 |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/tableelement/backgroundcolor) { get; set; } | 获取或设置表格背景颜色。 |
+| [Border](../../aspose.pdf.logicalstructure/tableelement/border) { get; set; } | 获取或设置表格边框。 |
+| [Broken](../../aspose.pdf.logicalstructure/tableelement/broken) { get; set; } | 获取或设置表垂直损坏； |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | 获取Element对象的子集合。 |
+| [ColumnAdjustment](../../aspose.pdf.logicalstructure/tableelement/columnadjustment) { get; set; } | 获取或设置表格列调整。 |
+| [ColumnWidths](../../aspose.pdf.logicalstructure/tableelement/columnwidths) { get; set; } | 获取表格的列宽。 |
+| [CornerStyle](../../aspose.pdf.logicalstructure/tableelement/cornerstyle) { get; set; } | 获取或设置边框角的样式 |
+| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | 获取AttributeOwnerStandard对象。 |
+| [DefaultCellBorder](../../aspose.pdf.logicalstructure/tableelement/defaultcellborder) { get; set; } | 获取默认单元格边框。 |
+| [DefaultCellPadding](../../aspose.pdf.logicalstructure/tableelement/defaultcellpadding) { get; set; } | 获取或设置默认单元格填充。 |
+| [DefaultCellTextState](../../aspose.pdf.logicalstructure/tableelement/defaultcelltextstate) { get; set; } | 获取或设置默认单元格文本状态。 |
+| [DefaultColumnWidth](../../aspose.pdf.logicalstructure/tableelement/defaultcolumnwidth) { get; set; } | 获取或设置默认列宽。 |
+| [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext) { get; set; } | 获取或设置结构元素的扩展文本。 |
+| [ID](../../aspose.pdf.logicalstructure/structureelement/id) { get; } | 获取结构元素的 ID。 |
+| [IsBordersIncluded](../../aspose.pdf.logicalstructure/tableelement/isbordersincluded) { get; set; } | 获取或设置包含在列宽中的边框。 |
+| [IsBroken](../../aspose.pdf.logicalstructure/tableelement/isbroken) { get; set; } | 获取或设置表已损坏 - 将被截断以用于下一页。 |
+| [Language](../../aspose.pdf.logicalstructure/structureelement/language) { get; set; } | 获取或设置结构元素的语言。 |
+| [Left](../../aspose.pdf.logicalstructure/tableelement/left) { get; set; } | 获取或设置表格左坐标。 |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | 获取父元素。 |
+| [RepeatingColumnsCount](../../aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount) { get; set; } | 获取或设置表的最大列数。 |
+| [RepeatingRowsCount](../../aspose.pdf.logicalstructure/tableelement/repeatingrowscount) { get; set; } | 获取重复数页的第一行计数。 |
+| [RepeatingRowsStyle](../../aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle) { get; set; } | 获取重复行的样式。 |
+| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype) { get; } | 获取结构元素的类型。 |
+| [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | 获取或设置结构元素的标题。 |
+| [Top](../../aspose.pdf.logicalstructure/tableelement/top) { get; set; } | 获取或设置桌面坐标。 |
+
+## 方法
+
+| 姓名 | 描述 |
+| --- | --- |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | 附加Element到子集合。 |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | 更改当前结构元素的父元素 |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid)() | 清除结构元素的 ID。 |
+| [CreateTBody](../../aspose.pdf.logicalstructure/tableelement/createtbody)() | 创建[`TableTHeadElement`](../tabletheadelement)并将其添加到当前表中。 |
+| [CreateTFoot](../../aspose.pdf.logicalstructure/tableelement/createtfoot)() | 创建[`TableTFootElement`](../tabletfootelement)并将其添加到当前表中。 |
+| [CreateTHead](../../aspose.pdf.logicalstructure/tableelement/createthead)() | 创建[`TableTHeadElement`](../tabletheadelement)并将其添加到当前表中。 |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | 查找给定类型的元素 |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | 为结构元素生成 ID。 |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | 设置结构元素的 ID。 |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag)(string) | 为结构元素设置自定义标签。 |
+| override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring)() | 返回代表当前对象的字符串。 |
+
+### 也可以看看
+
+* class [BLSElement](../blselement)
+* 命名空间 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure)
+* 部件 [Aspose.PDF](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
