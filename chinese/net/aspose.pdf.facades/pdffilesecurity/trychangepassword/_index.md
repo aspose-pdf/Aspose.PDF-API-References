@@ -34,8 +34,8 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
  bool result = fileSecurity.TryChangePassword("owner","newuser","newowner");
 
 [Visual Basic]
- Dim inFile As String = ".D:\\input.pdf"  'The TestPath may be re-assigned.'
- Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
+ Dim inFile As String = ".D:\\input.pdf"  'TestPath 可能会被重新分配。'
+ Dim outFile As String = "D:\\output.pdf"  'TestPath 可能会被重新分配。'
  Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
  Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner")	
 ```
@@ -79,8 +79,8 @@ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
 bool result = fileSecurity.TryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256);
 
 [Visual Basic] 
-Dim inFile As String =  ".D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim inFile As String =  ".D:\\input.pdf"  'TestPath 可能会被重新分配。'
+Dim outFile As String =  "D:\\output.pdf"  'TestPath 可能会被重新分配。'
 Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
 Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
@@ -127,8 +127,8 @@ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
 bool result = fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);
 
 [Visual Basic] 
-Dim inFile As String =  ".D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim inFile As String =  ".D:\\input.pdf"  'TestPath 可能会被重新分配。'
+Dim outFile As String =  "D:\\output.pdf"  'TestPath 可能会被重新分配。'
 Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
 Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```

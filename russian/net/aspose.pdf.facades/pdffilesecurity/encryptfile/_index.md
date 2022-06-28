@@ -36,8 +36,8 @@ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
+Dim inFile As String = "D:\\input.pdf"  'TestPath может быть переназначен.
+Dim outFile As String = "D:\\output.pdf"   'TestPath может быть переназначен.
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
@@ -83,8 +83,8 @@ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
+Dim inFile As String = "D:\\input.pdf"  'TestPath может быть переназначен.
+Dim outFile As String = "D:\\output.pdf"   'TestPath может быть переназначен.
 Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```

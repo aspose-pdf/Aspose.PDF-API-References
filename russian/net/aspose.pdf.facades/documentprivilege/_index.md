@@ -69,20 +69,20 @@ privilege.ChangeAllowLevel = 1;
 privilege.AllowPrint = true;
 
 [Visual Basic]
-'Way1: Using predefined privilege directly.
+'Способ 1: прямое использование предопределенной привилегии.
 Dim privilege As DocumentPrivilege =  DocumentPrivilege.Print 
 
-'Way2: Based on a predefined privilege and change some specifical permissions.
+'Способ 2: на основе предопределенной привилегии и изменения некоторых конкретных разрешений.
 Dim privilege As DocumentPrivilege =  DocumentPrivilege.AllowAll 
 privilege.AllowPrint = False
 privilege.AllowModifyContents = False
 
-'Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
+'Способ 3: на основе предопределенной привилегии и изменения определенной комбинации разрешений Adobe Professional.
 Dim privilege As DocumentPrivilege =  DocumentPrivilege.ForbidAll 
 privilege.ChangeAllowLevel = 1
 privilege.PrintAllowLevel = 2
 
-'Way4: Mixes the way2 and way3
+'Way4: смешивает way2 и way3
 Dim privilege As DocumentPrivilege =  DocumentPrivilege.ForbidAll 
 privilege.ChangeAllowLevel = 1
 privilege.AllowPrint = True
