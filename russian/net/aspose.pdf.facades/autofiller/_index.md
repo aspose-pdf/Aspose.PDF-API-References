@@ -113,8 +113,8 @@ autoFiller.ImportDataTable(mDataTable);
 autoFiller.Save();
 
 [Visual Basic]
-'Note: mail.pdf is a template pdf which has seven text fields. NorthWind.mdb is the microsoft access db.
-'Common part: Get the data from the database NorthWind.mdb fill it into the DataTable. 
+'Примечание: mail.pdf — это шаблон pdf с семью текстовыми полями. NorthWind.mdb — это база данных Microsoft Access.
+   'Общая часть: Получить данные из базы данных NorthWind.mdb и заполнить их в DataTable.
 mQueryCommand As OleDbCommand = Nothing
 mDbDataAdapter As OleDbDataAdapter = Nothing
 mDbConnection As OleDbConnection = Nothing
@@ -124,11 +124,11 @@ mDataTable As DataTable = Nothing
 mPath As String = Nothing
 mTemplatePdf As String = Nothing
 
-'Construct the data table.
+'Построить таблицу данных.
 mDataTable = New DataTable("MailMerge")
 Dim columns As DataColumnCollection = mDataTable.Columns
-'Create columns for the datatable. 
-'Every column's  name should be the same as one field's name of the templatePdf.
+'Создайте столбцы для таблицы данных.
+   'Имя каждого столбца должно совпадать с именем одного поля в файле templatePdf.
 columns.Add("CompanyName", Type.GetType("System.String"))
 
 columns.Add("ContactName", Type.GetType("System.String"))
@@ -139,19 +139,19 @@ columns.Add("Country", Type.GetType("System.String"))
 columns.Add("Heading", Type.GetType("System.String"))
 
 
-'Connect to the database source and query the data.
+'Подключитесь к источнику базы данных и запросите данные.
 mDbConnection = New OleDbConnection
 mDbConnection.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + DbPath + "NorthWind.mdb"
 mQueryCommand = New OleDbCommand
 mQueryCommand.Connection = mDbConnection
 mDbConnection.Open()
 
-'Query the data and insert into the datatable.
+'Запросить данные и вставить в таблицу данных.
 mQueryCommand.CommandText = "select CompanyName, ContactName, Address, PostalCode, City, Country from Customers;"
 mDbDataAdapter = New OleDbDataAdapter(mQueryCommand)
 mDbDataAdapter.Fill(mDataTable)
 
-'Construct the last column  of the Datatable.
+'Создайте последний столбец таблицы данных.
 Dim i As Integer
 For i = 0 To mDataTable.Rows.Count - 1 Step i + 1
 	mDataTable.Rows(i)(mDataTable.Columns.Count - 1) = "Dear " + mDataTable.Rows(i)(0).ToString() + ","
@@ -163,8 +163,8 @@ mDbDataAdapter.Dispose()
 mDbConnection.Close()
 'End of Common part.
 
-'case one:
-'Input template pdf is a pdf file and output is a big merged stream.
+'случай первый:
+   'Входной шаблон pdf — это файл pdf, а вывод — большой объединенный поток.
 Dim autoFiller As AutoFiller = New AutoFiller
 
 autoFiller.InputFileName = "mail.pdf"
@@ -173,8 +173,8 @@ autoFiller.OutputStream = Response.OutputStream
 autoFiller.ImportDataTable(mDataTable)
 autoFiller.Save()
 
-'case two:
-'Input template pdf is a pdf file and output is a lot of small files.
+'случай второй:
+   'Входной шаблон pdf представляет собой файл pdf, а вывод — множество небольших файлов.
 Dim autoFiller As AutoFiller = New AutoFiller
 
 autoFiller.InputFileName = "mail.pdf"

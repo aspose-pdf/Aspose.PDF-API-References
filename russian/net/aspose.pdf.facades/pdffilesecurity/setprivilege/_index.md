@@ -32,8 +32,8 @@ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
 fileSecurity.SetPrivilege(DocumentPrivilege.Print);
 
 [Visual Basic]
-Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim inFile As String =  "D:\\input.pdf"  'TestPath может быть переназначен.
+Dim outFile As String =  "D:\\output.pdf"  'TestPath может быть переназначен.
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
@@ -75,8 +75,8 @@ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
 
 [Visual Basic]
-Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim inFile As String =  "D:\\input.pdf"  'TestPath может быть переназначен.
+Dim outFile As String =  "D:\\output.pdf"  'TestPath может быть переназначен.
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```

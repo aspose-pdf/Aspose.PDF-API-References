@@ -32,8 +32,8 @@ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
 fileSecurity.DecryptFile("ownerpass");
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim inFile As String = "D:\\input.pdf"  'TestPath 可能会被重新分配。'
+Dim outFile As String = "D:\\output.pdf"  'TestPath 可能会被重新分配。'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.DecryptFile("ownerpass")
 ```

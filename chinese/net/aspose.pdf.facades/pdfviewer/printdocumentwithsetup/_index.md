@@ -30,9 +30,9 @@ iewer.ClosePdfFile();
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")   
-iewer.AutoResize = true          'print the file with adjusted size
-iewer.AutoRotate = true          'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//打印时不产生页码对话框
+iewer.AutoResize = true          '打印调整大小的文件
+iewer.AutoRotate = true          '打印调整rotation
+iewer.PrintPageDialog=false;     '打印时不产生页码对话框
 iewer.PrintDocumentWithSetup()
 iewer.ClosePdfFile()
 ```

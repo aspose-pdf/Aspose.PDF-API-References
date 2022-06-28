@@ -113,8 +113,8 @@ autoFiller.ImportDataTable(mDataTable);
 autoFiller.Save();
 
 [Visual Basic]
-'Note: mail.pdf is a template pdf which has seven text fields. NorthWind.mdb is the microsoft access db.
-'Common part: Get the data from the database NorthWind.mdb fill it into the DataTable. 
+'注意：mail.pdf 是一个模板 pdf，它有七个文本字段。 NorthWind.mdb 是 microsoft access db.
+   '通用部分：从数据库NorthWind.mdb中获取数据填入DataTable.
 mQueryCommand As OleDbCommand = Nothing
 mDbDataAdapter As OleDbDataAdapter = Nothing
 mDbConnection As OleDbConnection = Nothing
@@ -124,11 +124,11 @@ mDataTable As DataTable = Nothing
 mPath As String = Nothing
 mTemplatePdf As String = Nothing
 
-'Construct the data table.
+'构建数据表。
 mDataTable = New DataTable("MailMerge")
 Dim columns As DataColumnCollection = mDataTable.Columns
-'Create columns for the datatable. 
-'Every column's  name should be the same as one field's name of the templatePdf.
+'为数据表创建列。
+   '每一列的名称都应该与模板PDF的一个字段的名称相同。
 columns.Add("CompanyName", Type.GetType("System.String"))
 
 columns.Add("ContactName", Type.GetType("System.String"))
@@ -139,19 +139,19 @@ columns.Add("Country", Type.GetType("System.String"))
 columns.Add("Heading", Type.GetType("System.String"))
 
 
-'Connect to the database source and query the data.
+'连接数据库源并查询数据。
 mDbConnection = New OleDbConnection
 mDbConnection.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + DbPath + "NorthWind.mdb"
 mQueryCommand = New OleDbCommand
 mQueryCommand.Connection = mDbConnection
 mDbConnection.Open()
 
-'Query the data and insert into the datatable.
+'查询数据并插入数据表。
 mQueryCommand.CommandText = "select CompanyName, ContactName, Address, PostalCode, City, Country from Customers;"
 mDbDataAdapter = New OleDbDataAdapter(mQueryCommand)
 mDbDataAdapter.Fill(mDataTable)
 
-'Construct the last column  of the Datatable.
+'构造数据表的最后一列。
 Dim i As Integer
 For i = 0 To mDataTable.Rows.Count - 1 Step i + 1
 	mDataTable.Rows(i)(mDataTable.Columns.Count - 1) = "Dear " + mDataTable.Rows(i)(0).ToString() + ","
@@ -161,10 +161,10 @@ Next
 
 mDbDataAdapter.Dispose()
 mDbConnection.Close()
-'End of Common part.
+'公共部分结束。
 
-'case one:
-'Input template pdf is a pdf file and output is a big merged stream.
+'案例一：
+   '输入模板 pdf 是一个 pdf 文件，输出是一个大的合并流。
 Dim autoFiller As AutoFiller = New AutoFiller
 
 autoFiller.InputFileName = "mail.pdf"
@@ -173,8 +173,8 @@ autoFiller.OutputStream = Response.OutputStream
 autoFiller.ImportDataTable(mDataTable)
 autoFiller.Save()
 
-'case two:
-'Input template pdf is a pdf file and output is a lot of small files.
+'案例二：
+  '输入模板pdf是一个pdf文件，输出是很多小文件。
 Dim autoFiller As AutoFiller = New AutoFiller
 
 autoFiller.InputFileName = "mail.pdf"

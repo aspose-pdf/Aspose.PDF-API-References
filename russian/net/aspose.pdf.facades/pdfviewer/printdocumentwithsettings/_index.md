@@ -42,9 +42,9 @@ iewer.ClosePdfFile();
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;           'print the file with adjusted size
-iewer.AutoRotate = true;           'print the file with adjusted rotation
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;           'печатать файл с измененным размером
+iewer.AutoRotate = true;           'печатаем файл с настроенным rotate
+iewer.PrintPageDialog=false;       'не создавать диалоговое окно номера страницы при печати
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -93,9 +93,9 @@ iewer.ClosePdfFile();
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;        'print the file with adjusted size
-iewer.AutoRotate = true;        'print the file with adjusted rotation
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;        'печатать файл с измененным размером
+iewer.AutoRotate = true;        'печатаем файл с настроенным rotate
+iewer.PrintPageDialog=false;    'не создавать диалоговое окно номера страницы при печати
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
