@@ -196,7 +196,7 @@ public bool TryResizeContents(string source, string destination, int[] pages,
 
 ### Return Value
 
-trure if resize was successful.
+true if resize was successful.
 
 ### Remarks
 

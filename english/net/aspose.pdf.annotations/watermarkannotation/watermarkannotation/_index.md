@@ -1,14 +1,14 @@
 ---
 title: WatermarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Constuctore for Watermark annotation class.
+description: Constructor for Watermark annotation class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/
 ---
 ## WatermarkAnnotation constructor
 
-Constuctore for Watermark annotation class.
+Constructor for Watermark annotation class.
 
 ```csharp
 public WatermarkAnnotation(Page page, Rectangle rect)

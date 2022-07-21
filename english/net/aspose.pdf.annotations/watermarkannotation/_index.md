@@ -18,7 +18,7 @@ public class WatermarkAnnotation : Annotation
 
 | Name | Description |
 | --- | --- |
-| [WatermarkAnnotation](watermarkannotation)(Page, Rectangle) | Constuctore for Watermark annotation class. |
+| [WatermarkAnnotation](watermarkannotation)(Page, Rectangle) | Constructor for Watermark annotation class. |
 
 ## Properties
 
