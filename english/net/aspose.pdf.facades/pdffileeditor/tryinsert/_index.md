@@ -35,10 +35,7 @@ The TryInsert method is like the Insert method, except the TryInsert method does
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
-Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
-Stream insertedStream = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
-Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
-bool result = pfe.TryInsert(sourceStream, 1, insertedStream, 2, 6, outStream);
+bool result = pfe.TryInsert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
 ### See Also

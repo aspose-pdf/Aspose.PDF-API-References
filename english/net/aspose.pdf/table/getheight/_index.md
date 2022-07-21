@@ -11,15 +11,20 @@ url: /net/aspose.pdf/table/getheight/
 Get height.
 
 ```csharp
-public double GetHeight()
+public double GetHeight(Page parentPage = null)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| parentPage | Page | The table's parent page (optional). |
 
 ### Return Value
 
-The table height
+The table height.
 
 ### See Also
 
+* class [Page](../../page)
 * class [Table](../../table)
 * namespace [Aspose.Pdf](../../table)
 * assembly [Aspose.PDF](../../../)

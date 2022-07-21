@@ -1,14 +1,14 @@
 ---
 title: Concatenate
 second_title: Aspose.PDF for .NET API Reference
-description: Concatentates two files.
+description: Concatenates two files.
 type: docs
 weight: 290
 url: /net/aspose.pdf.facades/pdffileeditor/concatenate/
 ---
 ## Concatenate(string, string, string) {#concatenate_5}
 
-Concatentates two files.
+Concatenates two files.
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string outputFile)
@@ -218,7 +218,7 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 | --- | --- | --- |
 | firstInputStream | Stream | The first Pdf Stream. |
 | secInputStream | Stream | The second Pdf Stream. |
-| blankPageStream | Stream | The Pdf Stream with blank page |
+| blankPageStream | Stream | The Pdf Stream with blank page. |
 | outputStream | Stream | Output Pdf Stream. |
 
 ### Return Value

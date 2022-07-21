@@ -343,7 +343,7 @@ public bool TryMakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 | --- | --- | --- |
 | inputFiles | String[] | Input Pdf files. |
 | outputFile | String | Output pdf file path and name. |
-| isSidewise | Boolean | Piled up way, true for horizontally and flase for vertically. |
+| isSidewise | Boolean | Piled up way, true for horizontally and false for vertically. |
 
 ### Return Value
 
@@ -376,10 +376,11 @@ Makes N-Up document from the multi input PDF streams to outputStream. Each page 
 public bool TryMakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 ```
 
-| Parameter | Description |
-| --- | --- |
-| inputStreams | Input Pdf streams. |
-| outputStream | Output pdf stream. Piled up way, true for horizontally and flase for vertically |
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStreams | Stream[] | Input Pdf streams. |
+| outputStream | Stream | Output pdf stream. |
+| isSidewise | Boolean | Piled up way, true for horizontally and false for vertically. |
 
 ### Return Value
 

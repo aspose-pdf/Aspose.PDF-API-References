@@ -59,7 +59,7 @@ public sealed class Table : BaseParagraph
 | Name | Description |
 | --- | --- |
 | override [Clone](../../aspose.pdf/table/clone)() | Clone the table. |
-| [GetHeight](../../aspose.pdf/table/getheight)() | Get height. |
+| [GetHeight](../../aspose.pdf/table/getheight)(Page) | Get height. |
 | [GetWidth](../../aspose.pdf/table/getwidth)() | Get width. |
 | [ImportArray](../../aspose.pdf/table/importarray)(object[], int, int, bool) | Imports one-dimensional array of data into table. Import goes one cell per each array's item and starts from row and column defined in parameters. During import, if detected that necessary rows are still absent(i.e. target table is too small to absorb all data), necessary rows will be created |
 | [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable_1)(DataTable, bool, int, int) | Imports data from System.Data.DataTable into Aspose.Pdf.Table |
