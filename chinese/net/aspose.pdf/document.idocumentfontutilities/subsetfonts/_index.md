@@ -16,7 +16,7 @@ public void SubsetFonts(FontSubsetStrategy subsetStrategy)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| subsetStrategy | FontSubsetStrategy | strategy |
+| subsetStrategy | FontSubsetStrategy | 战略 |
 
 ### 也可以看看
 

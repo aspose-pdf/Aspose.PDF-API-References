@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет параметры замены текста
+description: Представляет варианты замены текста
 type: docs
 weight: 7170
 url: /ru/net/aspose.pdf.text/textreplaceoptions/
 ---
 ## TextReplaceOptions class
 
-Представляет параметры замены текста
+Представляет варианты замены текста
 
 ```csharp
 public sealed class TextReplaceOptions : TextOptions
@@ -18,14 +18,14 @@ public sealed class TextReplaceOptions : TextOptions
 
 | Имя | Описание |
 | --- | --- |
-| [TextReplaceOptions](textreplaceoptions#constructor)(ReplaceAdjustment) | Инициализирует новый экземпляр объекта[`TextReplaceOptions`](../textreplaceoptions)для указанного действия после замены. |
-| [TextReplaceOptions](textreplaceoptions#constructor_1)(Scope) | Инициализирует новый экземпляр объекта[`TextReplaceOptions`](../textreplaceoptions)для указанной области. |
+| [TextReplaceOptions](textreplaceoptions#constructor)(ReplaceAdjustment) | Инициализирует новый экземпляр[`TextReplaceOptions`](../textreplaceoptions) объект для указанного действия после замены. |
+| [TextReplaceOptions](textreplaceoptions#constructor_1)(Scope) | Инициализирует новый экземпляр[`TextReplaceOptions`](../textreplaceoptions) объект для указанной области. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing) { get; set; } | Получает или задает значение межстрочного интервала, которое используется, если корректировка замены принудительно создает новую строку текста. Ожидаемое значение является множителем размера шрифта заменяемого текста. По умолчанию 1.2. |
+| [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing) { get; set; } | Получает или задает значение междустрочного интервала, которое используется, если корректировка замены принудительно создает новую строку текста. Ожидаемое значение является множителем размера шрифта заменяемого текста. По умолчанию 1.2. |
 | [ReplaceAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/replaceadjustmentaction) { get; set; } | Получает или задает действие, которое будет выполнено после замены фрагмента текста на более короткий. |
 | [ReplaceScope](../../aspose.pdf.text/textreplaceoptions/replacescope) { get; set; } | Получает или задает область, в которой применяется операция замены текста |
 

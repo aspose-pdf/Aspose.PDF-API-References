@@ -1,14 +1,14 @@
 ---
 title: UnderlineAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Создает новую аннотацию Underline на указанной странице.
+description: Создает новую аннотацию с подчеркиванием на указанной странице.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/underlineannotation/underlineannotation/
 ---
 ## UnderlineAnnotation constructor
 
-Создает новую аннотацию Underline на указанной странице.
+Создает новую аннотацию с подчеркиванием на указанной странице.
 
 ```csharp
 public UnderlineAnnotation(Page page, Rectangle rect)

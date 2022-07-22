@@ -16,7 +16,7 @@ public virtual double MeasureString(string str)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| str | String | Строка. |
+| str | String | Струна. |
 
 ### Возвращаемое значение
 

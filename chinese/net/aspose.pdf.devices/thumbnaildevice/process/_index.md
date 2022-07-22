@@ -1,14 +1,14 @@
 ---
 title: Process
 second_title: Aspose.PDF for .NET API 参考
-description: 将页面转换为缩略图png并保存在输出流中
+description: 将页面转换为缩略图 png 并保存在输出流中
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.devices/thumbnaildevice/process/
 ---
 ## ThumbnailDevice.Process method
 
-将页面转换为缩略图png并保存在输出流中。
+将页面转换为缩略图 png 并保存在输出流中。
 
 ```csharp
 public override void Process(Page page, Stream output)

@@ -16,7 +16,7 @@ public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя поля, флаги которого должны быть обновлено. |
+| fieldName | String | Имя поля, флаги которого необходимо обновить. |
 | flags | AnnotationFlags | Флаг поля. |
 
 ### Возвращаемое значение

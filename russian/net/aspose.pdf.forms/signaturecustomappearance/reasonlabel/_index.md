@@ -1,14 +1,14 @@
 ---
 title: ReasonLabel
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает метку причины. Значение по умолчаниюПричина.
+description: Получает/устанавливает метку причины. Значение по умолчанию Причина.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
 ## SignatureCustomAppearance.ReasonLabel property
 
-Получает/устанавливает метку причины. Значение по умолчанию:«Причина».
+Получает/устанавливает метку причины. Значение по умолчанию: «Причина».
 
 ```csharp
 public string ReasonLabel { get; set; }

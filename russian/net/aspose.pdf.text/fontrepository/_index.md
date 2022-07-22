@@ -33,8 +33,8 @@ public sealed class FontRepository
 | --- | --- |
 | static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont)(string) | Ищет и возвращает шрифт с указанным именем шрифта. |
 | static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_3)(string, bool) | Ищет и возвращает шрифт с указанным именем шрифта, игнорируя или учитывая чувствительность к регистру. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_1)(string, FontStyles) | Ищет и возвращает шрифт с указанным именем шрифта и стилем шрифта. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | Ищет и возвращает шрифт с указанным именем и стилем шрифта игнорируя или учитывая чувствительность к регистру. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_1)(string, FontStyles) | Ищет и возвращает шрифт с указанным именем и стилем шрифта. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | Ищет и возвращает шрифт с указанным именем шрифта и стилем шрифта игнорируя или учитывая чувствительность к регистру. |
 | static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts)() | Загружает установленные системой шрифты и стандартные шрифты Pdf. Этот метод был разработан для ускорения процесса загрузки шрифтов. По умолчанию шрифты загружаются по первому запросу для любого шрифта. Использование этого метода загружает системные и стандартные шрифты Pdf непосредственно перед открытием любого документа Pdf. |
 | static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_1)(string) | Открывает шрифт с указанным путем к файлу шрифта. |
 | static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont)(Stream, FontTypes) | Открывает шрифт с указанным потоком шрифтов. |
@@ -46,23 +46,23 @@ public sealed class FontRepository
 В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
 
 ```csharp
-// Находим font
-ont font = FontRepository.FindFont("Arial");
+// Найти шрифт
+Font font = FontRepository.FindFont("Arial");
 
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить шрифт первого текста вхождения
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также

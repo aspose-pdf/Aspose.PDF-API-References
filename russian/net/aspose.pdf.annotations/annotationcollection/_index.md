@@ -21,14 +21,14 @@ public sealed class AnnotationCollection : ICollection<Annotation>
 | [Count](../../aspose.pdf.annotations/annotationcollection/count) { get; } | Получает количество аннотаций в коллекции. |
 | [IsReadOnly](../../aspose.pdf.annotations/annotationcollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения. |
 | [IsSynchronized](../../aspose.pdf.annotations/annotationcollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к Aspose.Pdf.Annotations.AnnotationCollection синхронизированным (потокобезопасным). |
-| [Item](../../aspose.pdf.annotations/annotationcollection/item) { get; } | Индекс получаемого элемента. |
+| [Item](../../aspose.pdf.annotations/annotationcollection/item) { get; } | Индекс элемента, который нужно получить. |
 | [SyncRoot](../../aspose.pdf.annotations/annotationcollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к Aspose.Pdf.Annotations.AnnotationCollection. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Accept](../../aspose.pdf.annotations/annotationcollection/accept)(AnnotationSelector) | Допускает посетителя для обработки аннотации. |
+| [Accept](../../aspose.pdf.annotations/annotationcollection/accept)(AnnotationSelector) | Разрешает посетителю обрабатывать аннотацию. |
 | [Add](../../aspose.pdf.annotations/annotationcollection/add#add)(Annotation) | Добавляет аннотацию к коллекции. |
 | [Add](../../aspose.pdf.annotations/annotationcollection/add#add_1)(Annotation, bool) | Добавляет аннотацию к коллекции. Если страница повернута, прямоугольник аннотации будет пересчитан соответствующим образом. |
 | [Clear](../../aspose.pdf.annotations/annotationcollection/clear)() | Удаляет все аннотации из коллекции. |

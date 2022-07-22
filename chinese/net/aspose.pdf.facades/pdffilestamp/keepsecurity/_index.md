@@ -1,14 +1,14 @@
 ---
 title: KeepSecurity
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则保持安全性 此功能将在下一个版本中实现
+description: 如果为真则保持安全性 此功能将在下一个版本中实现.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/pdffilestamp/keepsecurity/
 ---
 ## PdfFileStamp.KeepSecurity property
 
-如果为真，则保持安全性。 （此功能将在下一个版本中实现）。
+如果为真，则保持安全性。 （此功能将在下一个版本中实现）.
 
 ```csharp
 public bool KeepSecurity { get; set; }

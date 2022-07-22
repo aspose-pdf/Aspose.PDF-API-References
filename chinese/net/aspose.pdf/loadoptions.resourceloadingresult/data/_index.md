@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Aspose.PDF for .NET API 参考
-description: 使用自定义加载器加载的二进制数据 - 加载后必须设置
+description: 使用自定义加载器加载的二进制数据 - 必须在加载后设置
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/loadoptions.resourceloadingresult/data/
 ---
 ## LoadOptions.ResourceLoadingResult.Data property
 
-使用自定义加载器加载的二进制数据 - 加载后必须设置
+使用自定义加载器加载的二进制数据 - 必须在加载后设置
 
 ```csharp
 public byte[] Data { get; }

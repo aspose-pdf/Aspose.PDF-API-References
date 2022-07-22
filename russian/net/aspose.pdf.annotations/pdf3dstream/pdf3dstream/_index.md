@@ -1,14 +1,14 @@
 ---
 title: PDF3DStream
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DStreamaspose.pdf.annotations/pdf3dstream.
+description: Инициализирует новый экземплярPDF3DStreamaspose.pdf.annotations/pdf3dstream класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dstream/pdf3dstream/
 ---
 ## PDF3DStream constructor
 
-Инициализирует новый экземпляр класса[`PDF3DStream`](../../pdf3dstream).
+Инициализирует новый экземпляр[`PDF3DStream`](../../pdf3dstream) класс.
 
 ```csharp
 public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
@@ -17,7 +17,7 @@ public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ. |
-| pdf3DArtwork | PDF3DArtwork | 3D-иллюстрация. |
+| pdf3DArtwork | PDF3DArtwork | 3D-произведение искусства. |
 
 ### Смотрите также
 

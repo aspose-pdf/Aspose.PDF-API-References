@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆一个新的FloatingBoxaspose.pdf/floatingbox对象浮动框中的段落不会被克隆
+description: 克隆一个新的FloatingBoxaspose.pdf/floatingbox目的浮动框中的段落没有被克隆
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/floatingbox/clone/
 ---
 ## FloatingBox.Clone method
 
-克隆一个新的[`FloatingBox`](../../floatingbox)对象。浮动框中的段落不会被克隆。
+克隆一个新的[`FloatingBox`](../../floatingbox)目的。浮动框中的段落没有被克隆。
 
 ```csharp
 public override object Clone()
@@ -16,7 +16,7 @@ public override object Clone()
 
 ### 返回值
 
-新[`FloatingBox`](../../floatingbox)对象。
+新的[`FloatingBox`](../../floatingbox)目的。
 
 ### 也可以看看
 

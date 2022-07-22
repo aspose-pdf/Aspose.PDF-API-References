@@ -24,7 +24,7 @@ public PdfFileSignature()
 
 ## PdfFileSignature(Document) {#constructor_1}
 
-Инициализирует новый[`PdfFileSignature`](../../pdffilesignature)объект на основе*document*.
+Инициализирует новый[`PdfFileSignature`](../../pdffilesignature) объект на базе*document* .
 
 ```csharp
 public PdfFileSignature(Document document)
@@ -32,7 +32,7 @@ public PdfFileSignature(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

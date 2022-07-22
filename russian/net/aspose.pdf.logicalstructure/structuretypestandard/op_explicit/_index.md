@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF для справочника API .NET
-description: Выполняет явное преобразование изStringвStructureTypeStandardaspose.pdf.logicalstructure/structuretypestandard.
+description: Выполняет явное преобразование изString кStructureTypeStandardaspose.pdf.logicalstructure/structuretypestandard .
 type: docs
 weight: 530
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/
 ---
 ## StructureTypeStandard Explicit operator
 
-Выполняет явное преобразование изStringв[`StructureTypeStandard`](../../structuretypestandard).
+Выполняет явное преобразование изString к[`StructureTypeStandard`](../../structuretypestandard) .
 
 ```csharp
 public static explicit operator StructureTypeStandard(string tag)

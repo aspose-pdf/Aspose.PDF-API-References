@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF for .NET API 参考
-description: 执行从String到 AttributeKeyaspose.pdf.logicalstructure/attributekey的显式转换.
+description: 执行显式转换String至AttributeKeyaspose.pdf.logicalstructure/attributekey.
 type: docs
 weight: 450
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
 ## AttributeKey Explicit operator
 
-执行从String到 [`AttributeKey`](../../attributekey)的显式转换.
+执行显式转换String至[`AttributeKey`](../../attributekey).
 
 ```csharp
 public static explicit operator AttributeKey(string key)

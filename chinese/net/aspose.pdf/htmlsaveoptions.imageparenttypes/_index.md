@@ -18,8 +18,8 @@ public enum ImageParentTypes
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| HtmlPage | `0` | 图像属于 HTML 页面本身 |
-| SvgImage | `1` | 图像嵌入 SVG 图像 |
+| HtmlPage | `0` | 图片属于 HTML 页面本身 |
+| SvgImage | `1` | 图像嵌入在 SVG 图像中 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ContentStream
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливается конвертером. Представляет двоичное содержимое сохраненного CSS
+description: Устанавливается преобразователем. Представляет двоичное содержимое сохраненного CSS
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream/
 ---
 ## HtmlSaveOptions.CssSavingInfo.ContentStream field
 
-Устанавливается конвертером. Представляет двоичное содержимое сохраненного CSS
+Устанавливается преобразователем. Представляет двоичное содержимое сохраненного CSS
 
 ```csharp
 public Stream ContentStream;

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает элемент структуры из коллекции используя индекс.
+description: Получает элемент структуры из коллекции используя index.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/outlineitemcollection/item/
 ---
 ## OutlineItemCollection indexer
 
-Получает элемент структуры из коллекции, используя индекс.
+Получает элемент структуры из коллекции, используя index.
 
 ```csharp
 public OutlineItemCollection this[int index] { get; }
@@ -16,7 +16,7 @@ public OutlineItemCollection this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс в коллекции. |
+| index | Указатель в коллекции. |
 
 ### Возвращаемое значение
 

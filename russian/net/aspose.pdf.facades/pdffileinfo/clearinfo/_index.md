@@ -1,14 +1,14 @@
 ---
 title: ClearInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Очищает всю метаинформацию документа PDF.
+description: Удаляет всю метаинформацию документа PDF.
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/pdffileinfo/clearinfo/
 ---
 ## PdfFileInfo.ClearInfo method
 
-Очищает всю метаинформацию документа PDF.
+Удаляет всю метаинформацию документа PDF.
 
 ```csharp
 public void ClearInfo()

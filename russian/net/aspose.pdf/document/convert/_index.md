@@ -72,7 +72,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 | srcFileName | String | Имя исходного файла. |
 | loadOptions | LoadOptions | Формат исходного файла. |
 | dstStream | Stream | Целевой поток. |
-| saveOptions | SaveOptions | Формат конечного потока. |
+| saveOptions | SaveOptions | Формат целевого потока. |
 
 ### Смотрите также
 
@@ -112,7 +112,7 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dst
 
 ## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_7}
 
-Преобразование документа и сохранение ошибок в указанный файл.
+Преобразовать документ и сохранить ошибки в указанный файл.
 
 ```csharp
 public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action, 
@@ -122,8 +122,8 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputLogFileName | String | Путь к файлу, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| format | PdfFormat | Формат пдф. |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 | transparencyAction | ConvertTransparencyAction | Действие для объектов, замаскированных изображением |
 
 ### Возвращаемое значение
@@ -143,7 +143,7 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 ## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_5}
 
-Преобразование документа и сохранение ошибок в указанный файл.
+Преобразовать документ и сохранить ошибки в указанный файл.
 
 ```csharp
 public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action, 
@@ -152,9 +152,9 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogStream | Stream | Поток, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| outputLogStream | Stream | Поток, где будут храниться комментарии. |
+| format | PdfFormat | Формат пдф. |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 | transparencyAction | ConvertTransparencyAction | Действие для объектов, замаскированных изображением |
 
 ### Возвращаемое значение
@@ -174,7 +174,7 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 ## Convert(string, PdfFormat, ConvertErrorAction) {#convert_6}
 
-Преобразование документа и сохранение ошибок в указанный файл.
+Преобразовать документ и сохранить ошибки в указанный файл.
 
 ```csharp
 public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action)
@@ -183,8 +183,8 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputLogFileName | String | Путь к файлу, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| format | PdfFormat | Формат пдф. |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 
 ### Возвращаемое значение
 
@@ -210,7 +210,7 @@ public bool Convert(PdfFormatConversionOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | набор опций для конвертировать PDF-документ |
+| options | PdfFormatConversionOptions | набор опций для преобразования документа PDF |
 
 ### Возвращаемое значение
 
@@ -227,7 +227,7 @@ public bool Convert(PdfFormatConversionOptions options)
 
 ## Convert(CallBackGetHocr) {#convert_3}
 
-Преобразование документа и сохранение ошибок в указанный файл.
+Преобразовать документ и сохранить ошибки в указанный файл.
 
 ```csharp
 public bool Convert(CallBackGetHocr callback)
@@ -235,11 +235,11 @@ public bool Convert(CallBackGetHocr callback)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| callback | CallBackGetHocr | Действие для объектов, которые не могут быть преобразованы |
+| callback | CallBackGetHocr | Действие для объектов, которые нельзя конвертировать |
 
 ### Возвращаемое значение
 
-результат операции
+Результат операции
 
 ### Смотрите также
 
@@ -252,7 +252,7 @@ public bool Convert(CallBackGetHocr callback)
 
 ## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_4}
 
-Конвертировать документ и сохранять ошибки в указанный поток.
+Преобразование документа и сохранение ошибок в указанный поток.
 
 ```csharp
 public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action)
@@ -260,9 +260,9 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogStream | Stream | Поток, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат PDF. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| outputLogStream | Stream | Поток, где будут храниться комментарии. |
+| format | PdfFormat | Формат пдф. |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 
 ### Возвращаемое значение
 
@@ -280,7 +280,7 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 ## Convert(Fixup, Stream, bool, object[]) {#convert}
 
-Конвертируйте документ, применив Fixup.
+Преобразовать документ, применив Fixup.
 
 ```csharp
 public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
@@ -291,8 +291,8 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
 | --- | --- | --- |
 | fixup | Fixup | Тип исправления. |
 | outputLog | Stream | Журнал процесса. |
-| onlyValidation | Boolean | Только проверка документа. |
-| parameters | Object[] | Свойства для Fixup, которые нельзя установить. |
+| onlyValidation | Boolean | Только проверка документов. |
+| parameters | Object[] | Свойства Fixup, которые нельзя задать. |
 
 ### Возвращаемое значение
 
@@ -309,7 +309,7 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
 
 ## Convert(Fixup, string, bool, object[]) {#convert_1}
 
-Конвертируйте документ, применив Fixup.
+Преобразовать документ, применив Fixup.
 
 ```csharp
 public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
@@ -320,8 +320,8 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
 | --- | --- | --- |
 | fixup | Fixup | Тип исправления. |
 | outputLog | String | Журнал процесса. |
-| onlyValidation | Boolean | Только проверка документа. |
-| parameters | Object[] | Свойства для Fixup, которые нельзя установить. |
+| onlyValidation | Boolean | Только проверка документов. |
+| parameters | Object[] | Свойства Fixup, которые нельзя задать. |
 
 ### Возвращаемое значение
 

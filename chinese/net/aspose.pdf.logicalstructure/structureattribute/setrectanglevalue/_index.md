@@ -16,7 +16,7 @@ public void SetRectangleValue(Rectangle rectangle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 矩形。 |
+| rectangle | Rectangle | 长方形。 |
 
 ### 也可以看看
 

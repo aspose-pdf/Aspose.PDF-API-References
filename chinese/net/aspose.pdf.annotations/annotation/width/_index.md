@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置注释的宽度
+description: 获取或设置注解的宽度
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.annotations/annotation/width/
 ---
 ## Annotation.Width property
 
-获取或设置注释的宽度。
+获取或设置注解的宽度。
 
 ```csharp
 public virtual double Width { get; set; }

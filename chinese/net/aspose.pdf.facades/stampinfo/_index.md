@@ -1,14 +1,14 @@
 ---
 title: StampInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 表示戳信息的类
+description: 代表邮票信息的类
 type: docs
 weight: 2730
 url: /zh/net/aspose.pdf.facades/stampinfo/
 ---
 ## StampInfo class
 
-表示戳信息的类。
+代表邮票信息的类。
 
 ```csharp
 public sealed class StampInfo
@@ -19,13 +19,13 @@ public sealed class StampInfo
 | 姓名 | 描述 |
 | --- | --- |
 | [Form](../../aspose.pdf.facades/stampinfo/form) { get; } | 获取图章的 XForm。 |
-| [Image](../../aspose.pdf.facades/stampinfo/image) { get; } | 获取邮票图像。如果戳记不包含图像（例如文本戳记），则可能为空。 |
-| [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage) { get; } | 获取页面上的戳记索引。 |
-| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle) { get; } | 获取放置戳记的矩形。 |
+| [Image](../../aspose.pdf.facades/stampinfo/image) { get; } | 获取印章的图像。如果戳记不包含图像（例如文本戳记），则可能为空。 |
+| [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage) { get; } | 获取页面上的戳索引。 |
+| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle) { get; } | 获取放置图章的矩形。 |
 | [StampId](../../aspose.pdf.facades/stampinfo/stampid) { get; } | 获取戳记的标识符。 |
-| [StampType](../../aspose.pdf.facades/stampinfo/stamptype) { get; } | 获取戳记类型（图像/表格）。 |
-| [Text](../../aspose.pdf.facades/stampinfo/text) { get; } | 获取戳记中的文本。 |
-| [Visible](../../aspose.pdf.facades/stampinfo/visible) { get; } | 获取戳记的可见性。如果为 false，则隐藏标记（使用 HideStampById）。 ShowStampById 可以恢复隐藏的图章。 |
+| [StampType](../../aspose.pdf.facades/stampinfo/stamptype) { get; } | 获取印章类型（图像/表格）。 |
+| [Text](../../aspose.pdf.facades/stampinfo/text) { get; } | 获取图章中的文本。 |
+| [Visible](../../aspose.pdf.facades/stampinfo/visible) { get; } | 获取戳记的可见性。如果为 false，则隐藏标记（使用 HideStampById）。 ShowStampById. 可以恢复隐藏的图章 |
 
 ### 也可以看看
 

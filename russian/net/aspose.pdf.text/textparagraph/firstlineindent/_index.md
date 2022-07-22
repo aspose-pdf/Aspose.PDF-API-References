@@ -1,14 +1,14 @@
 ---
 title: FirstLineIndent
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение отступа последующих строк. Если установлено ненулевое значение оно имеет преимущество перед значением FormattingOptions.SubsequentLinesIndent.
+description: Получает или задает значение отступа последующих строк. Если задано ненулевое значение оно имеет преимущество перед значением FormattingOptions.SubsequentLinesIndent.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textparagraph/firstlineindent/
 ---
 ## TextParagraph.FirstLineIndent property
 
-Получает или задает значение отступа последующих строк. Если установлено ненулевое значение, оно имеет преимущество перед значением FormattingOptions.SubsequentLinesIndent.
+Получает или задает значение отступа последующих строк. Если задано ненулевое значение, оно имеет преимущество перед значением FormattingOptions.SubsequentLinesIndent.
 
 ```csharp
 public float FirstLineIndent { get; set; }

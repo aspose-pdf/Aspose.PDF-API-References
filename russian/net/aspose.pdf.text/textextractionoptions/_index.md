@@ -18,14 +18,14 @@ public sealed class TextExtractionOptions : TextOptions
 
 | Имя | Описание |
 | --- | --- |
-| [TextExtractionOptions](textextractionoptions)(TextFormattingMode) | Инициализирует новый экземпляр объекта[`TextExtractionOptions`](../textextractionoptions)для указанного режима форматирования текста. |
+| [TextExtractionOptions](textextractionoptions)(TextFormattingMode) | Инициализирует новый экземпляр[`TextExtractionOptions`](../textextractionoptions) объект для указанного режима форматирования текста. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FormattingMode](../../aspose.pdf.text/textextractionoptions/formattingmode) { get; set; } | Получает режим форматирования. |
-| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor) { get; set; } | Получает или задает коэффициент, который будет применяться для масштабирования размера шрифта при извлечении в чистом режиме. Установка меньшего значения приводит к увеличению пробелов в извлеченном тексте. Значение по умолчанию 1 - без масштабирования; Установка значения в ноль позволяет алгоритму автоматически выбирать масштабирование. |
+| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor) { get; set; } | Получает или задает коэффициент, который будет применяться для масштабирования размера шрифта во время извлечения в чистом режиме. Установка меньшего значения приводит к большему количеству пробелов в извлеченном тексте. Значение по умолчанию: 1 — без масштабирования; Установка нулевого значения позволяет выбирать алгоритм масштабирование автоматически. |
 
 ### Смотрите также
 

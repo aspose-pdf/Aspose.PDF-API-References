@@ -17,7 +17,7 @@ public void CopyTo(XForm[] array, int index)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | array | XForm[] | Массив XForm для копирования |
-| index | Int32 | Index куда будет скопирован XFormCollection |
+| index | Int32 | Индекс, в который будет скопирован XFormCollection |
 
 ### Смотрите также
 

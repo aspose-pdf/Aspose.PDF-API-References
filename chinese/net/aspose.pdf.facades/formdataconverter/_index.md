@@ -1,14 +1,14 @@
 ---
 title: FormDataConverter
 second_title: Aspose.PDF for .NET API 参考
-description: 表示将数据从一种格式转换为另一种格式的类 可以将fdf/xml/pdf/xfdf中的数据转换成OLEDB/OdbcDB 也可以将OLEDB/OdbcDB中的数据转换为fdf/xml/xfdf中的数据 它可以将 fdf 转换为带有硬命名标签的 xml
+description: 表示一个类用于将数据从一种格式转换为另一种格式 可以将fdf/xml/pdf/xfdf 中的数据转换为OLEDB/OdbcDB 也可以将OLEDB/OdbcDB 中的数据转换为fdf/xml/xfdf. 它可以将fdf转换为带有硬命名标签的xml
 type: docs
 weight: 2330
 url: /zh/net/aspose.pdf.facades/formdataconverter/
 ---
 ## FormDataConverter class
 
-表示将数据从一种格式转换为另一种格式的类。 可以将fdf/xml/pdf/xfdf中的数据转换成OLEDB/OdbcDB。 也可以将OLEDB/OdbcDB中的数据转换为fdf/xml/xfdf中的数据。 它可以将 fdf 转换为带有“硬命名”标签的 xml。
+表示一个类，用于将数据从一种格式转换为另一种格式。 可以将fdf/xml/pdf/xfdf 中的数据转换为OLEDB/OdbcDB。 也可以将OLEDB/OdbcDB 中的数据转换为fdf/xml/xfdf. 它可以将fdf转换为带有“硬命名”标签的xml。
 
 ```csharp
 public sealed class FormDataConverter
@@ -24,22 +24,22 @@ public sealed class FormDataConverter
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClearTableBeforeExport](../../aspose.pdf.facades/formdataconverter/cleartablebeforeexport) { get; set; } | ExportFromData 将在数据导出前清除表。 |
+| [ClearTableBeforeExport](../../aspose.pdf.facades/formdataconverter/cleartablebeforeexport) { get; set; } | ExportFromData 将在数据导出之前清除表。 |
 | [CreateMissingField](../../aspose.pdf.facades/formdataconverter/createmissingfield) { get; set; } | ConvertToDataTable 将创建必填字段，如果它在表中不存在。 |
-| [CreateMissingTable](../../aspose.pdf.facades/formdataconverter/createmissingtable) { get; set; } | 如果表不存在，ImportIntoDatabase 将创建表。 |
-| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable) { get; set; } | 如果此属性设置为 true，则 ImportIntoDatabase 将删除现有表并创建新表。 |
-| [Table](../../aspose.pdf.facades/formdataconverter/table) { get; set; } | 获取或设置中间数据容器，一个DataTable。 必须在将数据从一种格式转换为另一种格式之前定义。 应该定义 DataTable 的 Columns 和 TableName。 TableName 是数据库中表的名称。 每列的 ColumnName 是 pdf 的限定字段名称。每列的 Caption 是数据库中表的列名。如果字段名称与表列 名称相同，则不需要指定 Caption。 |
+| [CreateMissingTable](../../aspose.pdf.facades/formdataconverter/createmissingtable) { get; set; } | ImportIntoDatabase 将创建表，如果它不存在。 |
+| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable) { get; set; } | 如果此属性设置为 true，ImportIntoDatabase 将删除现有表并创建新表。 |
+| [Table](../../aspose.pdf.facades/formdataconverter/table) { get; set; } | 获取或设置中间数据容器，一个DataTable。 必须在将数据从一种格式转换为另一种格式之前定义。 要定义DataTable的Columns和TableName。 TableName是表中的表名database. 每列的 ColumnName 是 pdf 的限定字段名称。每列的 Caption 是数据库中表的列名。如果字段名与表column name相同，Caption就不用指定 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ConverToStreams](../../aspose.pdf.facades/formdataconverter/convertostreams)(Stream[], DataType) | 此方法已过时。请改用 ConvertToStreams()。 |
-| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable)(Stream[], DataType) | 将 strems 文件转换成表格。 |
+| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable)(Stream[], DataType) | 将 strems 文件转换为 table. |
 | [ConvertToStreams](../../aspose.pdf.facades/formdataconverter/converttostreams)(Stream[], DataType) | 将表中的数据转换为流。 |
 | [ExportFromDataBase](../../aspose.pdf.facades/formdataconverter/exportfromdatabase)(string, DataType) | 将数据从数据库导出到表中。 |
-| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase)(string, DataType) | 将数据从表导入数据库。 |
-| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml)(Stream, Stream) | 将 FDF 文件转换为 XML。 |
+| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase)(string, DataType) | 将表中的数据导入数据库。 |
+| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml)(Stream, Stream) | 将 FDF 文件转换为 XML. |
 | static [ConvertXmlToFdf](../../aspose.pdf.facades/formdataconverter/convertxmltofdf)(Stream, Stream) | 将 XML 导入/导出表单数据文件转换为 FDF 格式。 |
 
 ### 也可以看看

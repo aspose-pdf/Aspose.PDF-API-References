@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектColoraspose.pdf/color указывающий цвет фона плавающего блока.
+description: Получает или задаетColoraspose.pdf/color объект который указывает цвет фона плавающей коробки.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/floatingbox/backgroundcolor/
 ---
 ## FloatingBox.BackgroundColor property
 
-Получает или задает объект[`Color`](../../color), указывающий цвет фона плавающего блока.
+Получает или задает[`Color`](../../color) объект, который указывает цвет фона плавающей коробки.
 
 ```csharp
 public Color BackgroundColor { get; set; }

@@ -16,7 +16,7 @@ public void SendTo(DocumentDevice device, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | DocumentDevice | Устройство документа, которое используется для обработки документа. |
+| device | DocumentDevice | Устройство документа, используемое для обработки документа. |
 | output | Stream | Выходной поток содержит результаты обработки документа на данном устройстве. |
 
 ### Смотрите также
@@ -38,7 +38,7 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream outpu
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | DocumentDevice | Устройство документа, которое используется для обработки документа. |
+| device | DocumentDevice | Устройство документа, используемое для обработки документа. |
 | fromPage | Int32 | Первая страница для обработки. |
 | toPage | Int32 | Последняя страница для обработки. |
 | output | Stream | Выходной поток содержит результаты обработки страниц документа на данном устройстве. |
@@ -62,7 +62,7 @@ public void SendTo(DocumentDevice device, string outputFileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | DocumentDevice | Устройство документа, которое используется для обработки документа. |
+| device | DocumentDevice | Устройство документа, используемое для обработки документа. |
 | outputFileName | String | Имя выходного файла с результатами обработки. |
 
 ### Смотрите также
@@ -84,7 +84,7 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, string outpu
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| device | DocumentDevice | Устройство документа, которое используется для обработки документа. |
+| device | DocumentDevice | Устройство документа, используемое для обработки документа. |
 | fromPage | Int32 | Первая страница для обработки. |
 | toPage | Int32 | Последняя страница для обработки. |
 | outputFileName | String | Имя выходного файла с результатами обработки. |

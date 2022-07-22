@@ -18,7 +18,7 @@ public class Layer
 
 | Имя | Описание |
 | --- | --- |
-| [Layer](layer)(string, string) | Инициализирует новый экземпляр класса[`Layer`](../layer). |
+| [Layer](layer)(string, string) | Инициализирует новый экземпляр[`Layer`](../layer) класс. |
 
 ## Характеристики
 

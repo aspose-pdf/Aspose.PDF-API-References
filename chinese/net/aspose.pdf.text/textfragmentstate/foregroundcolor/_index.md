@@ -1,14 +1,14 @@
 ---
 title: ForegroundColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的前景色由TextFragmentaspose.pdf.text/textfragmentobject 表示
+description: 获取或设置文本的前景色由TextFragmentaspose.pdf.text/textfragmentobject
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.text/textfragmentstate/foregroundcolor/
 ---
 ## TextFragmentState.ForegroundColor property
 
-获取或设置文本的前景色，由[`TextFragment`](../../textfragment)object 表示
+获取或设置文本的前景色，由[`TextFragment`](../../textfragment)object
 
 ```csharp
 public override Color ForegroundColor { get; set; }

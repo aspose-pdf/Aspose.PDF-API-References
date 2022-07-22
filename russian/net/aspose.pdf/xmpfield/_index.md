@@ -22,7 +22,7 @@ public class XmpField
 | static [Lang](../../aspose.pdf/xmpfield/lang) { get; } | Получает квалификатор xml:lang. |
 | [FieldType](../../aspose.pdf/xmpfield/fieldtype) { get; } | Получает тип поля. |
 | [IsEmpty](../../aspose.pdf/xmpfield/isempty) { get; } | Получает значение, указывающее, является ли этот экземпляр пустым. |
-| [LocalName](../../aspose.pdf/xmpfield/localname) { get; set; } | Получает или задает имя локального объекта. |
+| [LocalName](../../aspose.pdf/xmpfield/localname) { get; set; } | Получает или задает имя локального. |
 | [Name](../../aspose.pdf/xmpfield/name) { get; } | Получает имя. |
 | [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri) { get; set; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.pdf/xmpfield/prefix) { get; set; } | Получает префикс. |
@@ -32,10 +32,10 @@ public class XmpField
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.pdf/xmpfield/equals)(object) | Указывает, равны ли этот экземпляр и указанный объект. |
+| override [Equals](../../aspose.pdf/xmpfield/equals)(object) | Указывает, равны ли данный экземпляр и указанный объект. |
 | override [GetHashCode](../../aspose.pdf/xmpfield/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
 | [ToArray](../../aspose.pdf/xmpfield/toarray)() | Получает значение в виде массива. |
-| [ToStructure](../../aspose.pdf/xmpfield/tostructure)() | Получает значение как структуру. |
+| [ToStructure](../../aspose.pdf/xmpfield/tostructure)() | Получает значение в виде структуры. |
 | [operator ==](../../aspose.pdf/xmpfield/op_equality) | Реализует оператор ==. |
 | [operator !=](../../aspose.pdf/xmpfield/op_inequality) | Реализует оператор !=. |
 

@@ -1,14 +1,14 @@
 ---
 title: PdfAction
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 PDF 文档中的动作
+description: 代表 PDF 文档中的动作
 type: docs
 weight: 880
 url: /zh/net/aspose.pdf.annotations/pdfaction/
 ---
 ## PdfAction class
 
-表示 PDF 文档中的动作
+代表 PDF 文档中的动作
 
 ```csharp
 public abstract class PdfAction : IAppointment

@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF для справочника API .NET
-description: ПринимаетAnnotationSelectoraspose.pdf.annotations/annotationselectorобъект посетителя предоставляющий функциональные возможности для работы с аннотациями.
+description: принимаетAnnotationSelectoraspose.pdf.annotations/annotationselector объект посетителя предоставляющий функциональные возможности для работы с аннотациями.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/pagecollection/accept/
 ---
 ## Accept(AnnotationSelector) {#accept}
 
-Принимает[`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector)объект посетителя, предоставляющий функциональные возможности для работы с аннотациями.
+принимает[`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector) объект посетителя, предоставляющий функциональные возможности для работы с аннотациями.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
@@ -29,7 +29,7 @@ public void Accept(AnnotationSelector visitor)
 
 ## Accept(ImagePlacementAbsorber) {#accept_1}
 
-Принимает[`ImagePlacementAbsorber`](../../imageplacementabsorber)объект посетителя, предоставляющий функциональные возможности для работы с объектами размещения изображения.
+принимает[`ImagePlacementAbsorber`](../../imageplacementabsorber) объект посетителя, предоставляющий функциональные возможности для работы с объектами размещения изображений.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -50,7 +50,7 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
-Принимает[`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber)объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами.
+принимает[`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber) объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами.
 
 ```csharp
 public void Accept(TextFragmentAbsorber visitor)
@@ -71,7 +71,7 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ## Accept(TextAbsorber) {#accept_2}
 
-Принимает[`TextAbsorber`](../../../aspose.pdf.text/textabsorber)объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами.
+принимает[`TextAbsorber`](../../../aspose.pdf.text/textabsorber) объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами.
 
 ```csharp
 public void Accept(TextAbsorber visitor)

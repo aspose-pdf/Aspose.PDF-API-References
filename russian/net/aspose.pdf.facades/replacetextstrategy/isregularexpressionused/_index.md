@@ -1,14 +1,14 @@
 ---
 title: IsRegularExpressionUsed
 second_title: Aspose.PDF для справочника API .NET
-description: Если false искомая строка является простым текстом. Если true искомая строка является регулярным выражением.
+description: Если false искомая строка представляет собой простой текст. Если true искомая строка является регулярным выражением.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/replacetextstrategy/isregularexpressionused/
 ---
 ## ReplaceTextStrategy.IsRegularExpressionUsed property
 
-Если false, искомая строка является простым текстом. Если true, искомая строка является регулярным выражением.
+Если false, искомая строка представляет собой простой текст. Если true, искомая строка является регулярным выражением.
 
 ```csharp
 public bool IsRegularExpressionUsed { get; set; }

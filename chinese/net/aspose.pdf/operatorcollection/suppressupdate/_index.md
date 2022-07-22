@@ -1,14 +1,14 @@
 ---
 title: SuppressUpdate
 second_title: Aspose.PDF for .NET API 参考
-description: 禁止更新内容数据 内容流在调用 ResumeUpdate 之前不会更新
+description: 禁止更新内容数据 直到调用 ResumeUpdate 才更新内容流
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/operatorcollection/suppressupdate/
 ---
 ## OperatorCollection.SuppressUpdate method
 
-禁止更新内容数据。 内容流在调用 ResumeUpdate 之前不会更新。
+禁止更新内容数据。 直到调用 ResumeUpdate 才更新内容流。
 
 ```csharp
 public override void SuppressUpdate()

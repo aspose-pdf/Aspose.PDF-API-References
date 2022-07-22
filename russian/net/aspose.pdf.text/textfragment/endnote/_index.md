@@ -1,14 +1,14 @@
 ---
 title: EndNote
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает примечание в конце абзаца. только для создания pdf
+description: Получает или задает примечание в конце абзаца. только для создания PDF-файлов
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textfragment/endnote/
 ---
 ## TextFragment.EndNote property
 
-Получает или задает примечание в конце абзаца. (только для создания pdf)
+Получает или задает примечание в конце абзаца. (только для создания PDF-файлов)
 
 ```csharp
 public Note EndNote { get; set; }

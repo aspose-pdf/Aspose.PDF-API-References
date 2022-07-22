@@ -18,7 +18,7 @@ public sealed class ImagePlacement
 
 | Имя | Описание |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters) { get; } | Получает активные параметры композитинга состояния графики для изображения, размещенного на странице. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters) { get; } | Получает параметры компоновки графического состояния, активного для изображения, размещенного на странице. |
 | [Image](../../aspose.pdf/imageplacement/image) { get; } | Получает связанный объект ресурса XImage. |
 | [Matrix](../../aspose.pdf/imageplacement/matrix) { get; } | Текущая матрица преобразования для этого изображения. |
 | [Operator](../../aspose.pdf/imageplacement/operator) { get; } | Оператор, используемый для отображения изображения. |
@@ -33,40 +33,40 @@ public sealed class ImagePlacement
 | --- | --- |
 | [Hide](../../aspose.pdf/imageplacement/hide)() | Удалить изображение со страницы. |
 | [Replace](../../aspose.pdf/imageplacement/replace)(Stream) | Заменить изображение в коллекции другим изображением. |
-| [Save](../../aspose.pdf/imageplacement/save#save)(Stream) | Сохраняет изображение с соответствующими преобразованиями:масштабированием, поворотом и разрешением. |
-| [Save](../../aspose.pdf/imageplacement/save#save_1)(Stream, ImageFormat) | Сохраняет изображение с соответствующими преобразованиями:масштабированием, поворотом и разрешением. |
+| [Save](../../aspose.pdf/imageplacement/save#save)(Stream) | Сохраняет изображение с соответствующими преобразованиями: масштабирование, поворот и разрешение. |
+| [Save](../../aspose.pdf/imageplacement/save#save_1)(Stream, ImageFormat) | Сохраняет изображение с соответствующими преобразованиями: масштабирование, поворот и разрешение. |
 
 ### Примечания
 
-Когда изображение помещается на страницу, оно может иметь размеры, отличные от физических размеров, определенных в[`Resources`](../resources). Объект[`ImagePlacement`](../imageplacement)предназначен для предоставления такой информации, как размеры, разрешение и так далее.
+Когда изображение помещается на страницу, оно может иметь размеры, отличные от физических размеров, определенных в[`Resources`](../resources) . Объект[`ImagePlacement`](../imageplacement) предназначен для предоставления такой информации, как размеры, разрешение и т. д.
 
 ### Примеры
 
-Пример демонстрирует, как найти изображения на первой странице документа PDF и получить изображения в виде растровых изображений с видимыми Габаритные размеры.
+Пример демонстрирует, как найти изображения на первой странице документа PDF и получить изображения в виде растровых изображений с видимыми размерами.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект ImagePlacementAbsorber для размещения изображения search
-magePlacementAbsorber abs = new ImagePlacementAbsorber();
+// Создаем объект ImagePlacementAbsorber для выполнения поиска размещения изображения
+ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(abs);
+doc.Pages[1].Accept(abs);
 
-// Получение изображений с видимыми размерами
-oreach (ImagePlacement imagePlacement in abs.ImagePlacements)
-
-   Bitmap scaledImage;
-   using (MemoryStream imageStream = new MemoryStream())
-   {
-        // Получить изображение из resources
-       imagePlacement.Image.Save(imageStream, ImageFormat.Png);
-       Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
+// Получаем изображения с видимыми размерами
+foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
+{
+    Bitmap scaledImage;
+    using (MemoryStream imageStream = new MemoryStream())
+    {
+        // Получить изображение из ресурсов
+        imagePlacement.Image.Save(imageStream, ImageFormat.Png);
+        Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
         // Создаем новое растровое изображение с реальными размерами
-       scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
-   }
- 
+        scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
+    }
+} 
 ```
 
 ### Смотрите также

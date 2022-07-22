@@ -26,7 +26,7 @@ public sealed class AttributeKey
 | 姓名 | 描述 |
 | --- | --- |
 | override [ToString](../../aspose.pdf.logicalstructure/attributekey/tostring)() | 返回代表当前对象的字符串。 |
-| [explicit operator](../../aspose.pdf.logicalstructure/attributekey/op_explicit) | 执行从String到 [`AttributeKey`](../attributekey)的显式转换. |
+| [explicit operator](../../aspose.pdf.logicalstructure/attributekey/op_explicit) | 执行显式转换String至[`AttributeKey`](../attributekey). |
 
 ## 字段
 
@@ -48,7 +48,7 @@ public sealed class AttributeKey
 | static readonly [Desc](../../aspose.pdf.logicalstructure/attributekey/desc) | Desc 属性（PrintField 属性所有者）。 |
 | static readonly [EndIndent](../../aspose.pdf.logicalstructure/attributekey/endindent) | EndIndent 属性（布局属性所有者）。 |
 | static readonly [GlyphOrientationVertical](../../aspose.pdf.logicalstructure/attributekey/glyphorientationvertical) | GlyphOrientationVertical 属性（布局属性所有者）。 |
-| static readonly [Headers](../../aspose.pdf.logicalstructure/attributekey/headers) | Headers 属性（表属性所有者）。 |
+| static readonly [Headers](../../aspose.pdf.logicalstructure/attributekey/headers) | 标题属性（表属性所有者）。 |
 | static readonly [Height](../../aspose.pdf.logicalstructure/attributekey/height) | 高度属性（布局属性所有者）。 |
 | static readonly [InlineAlign](../../aspose.pdf.logicalstructure/attributekey/inlinealign) | InlineAlign 属性（布局属性所有者）。 |
 | static readonly [LineHeight](../../aspose.pdf.logicalstructure/attributekey/lineheight) | LineHeight 属性（布局属性所有者）。 |

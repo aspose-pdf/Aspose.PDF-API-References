@@ -1,14 +1,14 @@
 ---
 title: FitRExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 创建本地显式目的地
+description: 创建本地显式目标
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
 ---
 ## FitRExplicitDestination(Page, double, double, double, double) {#constructor_1}
 
-创建本地显式目的地。
+创建本地显式目标。
 
 ```csharp
 public FitRExplicitDestination(Page page, double left, double bottom, double right, double top)
@@ -19,7 +19,7 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 | page | Page | 目标页面对象。 |
 | left | Double | 可见矩形的左水平坐标。 |
 | bottom | Double | 可见矩形的底部垂直坐标。 |
-| right | Double | 可见矩形的右横坐标。 |
+| right | Double | 可见矩形的右水平坐标。 |
 | top | Double | 可见矩形的顶部垂直坐标。 |
 
 ### 也可以看看
@@ -44,7 +44,7 @@ public FitRExplicitDestination(int pageNumber, double left, double bottom, doubl
 | pageNumber | Int32 | 远程文档的目标页码。 |
 | left | Double | 可见矩形的左水平坐标。 |
 | bottom | Double | 可见矩形的底部垂直坐标。 |
-| right | Double | 可见矩形的右横坐标。 |
+| right | Double | 可见矩形的右水平坐标。 |
 | top | Double | 可见矩形的顶部垂直坐标。 |
 
 ### 也可以看看

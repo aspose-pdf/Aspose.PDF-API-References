@@ -1,14 +1,14 @@
 ---
 title: Selected
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает выбранный статус опции. Возвращает true если опция выбрана.
+description: Получает или устанавливает выбранный статус опции. Возвращает true если выбран параметр.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/option/selected/
 ---
 ## Option.Selected property
 
-Получает или устанавливает выбранный статус опции. Возвращает true, если опция выбрана.
+Получает или устанавливает выбранный статус опции. Возвращает true, если выбран параметр.
 
 ```csharp
 public bool Selected { get; set; }

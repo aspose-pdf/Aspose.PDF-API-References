@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF для справочника API .NET
-description: Копирует записи структуры в System.Array начиная с определенного индекса System.Array.
+description: Копирует элементы схемы в System.Array начиная с определенного индекса System.Array.
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf/outlineitemcollection/copyto/
 ---
 ## OutlineItemCollection.CopyTo method
 
-Копирует записи структуры в System.Array, начиная с определенного индекса System.Array.
+Копирует элементы схемы в System.Array, начиная с определенного индекса System.Array.
 
 ```csharp
 public override void CopyTo(OutlineItemCollection[] array, int index)

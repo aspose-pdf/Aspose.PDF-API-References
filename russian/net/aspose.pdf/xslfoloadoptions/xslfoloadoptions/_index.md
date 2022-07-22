@@ -1,14 +1,14 @@
 ---
 title: XslFoLoadOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Создает объектXslFoLoadOptionsaspose.pdf/xslfoloadoptionsбез данных xsl.
+description: СоздаетXslFoLoadOptionsaspose.pdf/xslfoloadoptions объект без данных xsl.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
 ---
 ## XslFoLoadOptions() {#constructor}
 
-Создает объект[`XslFoLoadOptions`](../../xslfoloadoptions)без данных xsl.
+Создает[`XslFoLoadOptions`](../../xslfoloadoptions) объект без данных xsl.
 
 ```csharp
 public XslFoLoadOptions()
@@ -24,7 +24,7 @@ public XslFoLoadOptions()
 
 ## XslFoLoadOptions(string) {#constructor_2}
 
-Создает объект[`XslFoLoadOptions`](../../xslfoloadoptions)с данными xsl.
+Создает[`XslFoLoadOptions`](../../xslfoloadoptions) объект с данными xsl.
 
 ```csharp
 public XslFoLoadOptions(string xslFile)
@@ -32,7 +32,7 @@ public XslFoLoadOptions(string xslFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xslFile | String | Xsl-файл для преобразования документа XSL-FO в документ pdf. |
+| xslFile | String | Xsl-файл для преобразования документа XSL-FO в документ PDF. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public XslFoLoadOptions(string xslFile)
 
 ## XslFoLoadOptions(Stream) {#constructor_1}
 
-Создает объект[`XslFoLoadOptions`](../../xslfoloadoptions)с данными xsl.
+Создает[`XslFoLoadOptions`](../../xslfoloadoptions) объект с данными xsl.
 
 ```csharp
 public XslFoLoadOptions(Stream xslStream)
@@ -52,7 +52,7 @@ public XslFoLoadOptions(Stream xslStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xslStream | Stream | Поток Xsl для преобразования документа XSL-FO в документ pdf. |
+| xslStream | Stream | Поток Xsl для преобразования документа XSL-FO в документ PDF. |
 
 ### Смотрите также
 

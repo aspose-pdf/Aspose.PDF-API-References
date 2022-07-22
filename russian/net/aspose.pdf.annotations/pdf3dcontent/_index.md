@@ -1,14 +1,14 @@
 ---
 title: PDF3DContent
 second_title: Aspose.PDF для справочника API .NET
-description: Класс PDF3DContent.
+description: Класс PDF3DCContent.
 type: docs
 weight: 790
 url: /ru/net/aspose.pdf.annotations/pdf3dcontent/
 ---
 ## PDF3DContent class
 
-Класс PDF3DContent.
+Класс PDF3DCContent.
 
 ```csharp
 public class PDF3DContent
@@ -18,8 +18,8 @@ public class PDF3DContent
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DContent](pdf3dcontent#constructor)() | Инициализирует новый экземпляр класса[`PDF3DContent`](../pdf3dcontent). |
-| [PDF3DContent](pdf3dcontent#constructor_1)(string) | Инициализирует новый экземпляр класса[`PDF3DContent`](../pdf3dcontent). |
+| [PDF3DContent](pdf3dcontent#constructor)() | Инициализирует новый экземпляр[`PDF3DContent`](../pdf3dcontent) класс. |
+| [PDF3DContent](pdf3dcontent#constructor_1)(string) | Инициализирует новый экземпляр[`PDF3DContent`](../pdf3dcontent) класс. |
 
 ## Характеристики
 
@@ -37,7 +37,7 @@ public class PDF3DContent
 | [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc)(byte[]) | Загружает 3D-контент из массива байтов в формате PRC. |
 | [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc_1)(Stream) | Загружает 3D-контент из потока в формате PRC. |
 | [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc_2)(string) | Загружает 3D-контент с указанным именем файла в формате PRC. |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d)(byte[]) | Загружает 3D-контент из байтового массива в формате U3D. |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d)(byte[]) | Загружает 3D-контент из массива байтов в формате U3D. |
 | [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d_1)(Stream) | Загружает 3D-контент из потока в формате U3D. |
 | [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d_2)(string) | Загружает 3D-контент с указанным именем файла в формате U3D. |
 | [SaveToFile](../../aspose.pdf.annotations/pdf3dcontent/savetofile)(string) | Сохраняет 3D-контент в файл. |

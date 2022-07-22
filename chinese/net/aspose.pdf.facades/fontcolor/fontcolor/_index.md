@@ -17,8 +17,8 @@ public FontColor(int r, int g, int b)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | r | Int32 | 红色组件。 |
-| g | Int32 | 绿色分量。 |
-| b | Int32 | 蓝色分量。 |
+| g | Int32 | 绿色组件。 |
+| b | Int32 | 蓝色组件。 |
 
 ### 也可以看看
 

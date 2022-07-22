@@ -25,7 +25,7 @@ public class NumberFormatList
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/numberformatlist/count) { get; } | Подсчет элементов в списке. |
-| [Item](../../aspose.pdf.annotations/numberformatlist/item) { get; set; } | Получает или задает формат числа в списке по его индексу. |
+| [Item](../../aspose.pdf.annotations/numberformatlist/item) { get; set; } | Получает или задает числовой формат в списке по его индексу. |
 
 ## Методы
 

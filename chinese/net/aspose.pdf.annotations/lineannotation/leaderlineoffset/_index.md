@@ -1,14 +1,14 @@
 ---
 title: LeaderLineOffset
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置引导线偏移
+description: 获取或设置引导线偏移量
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/lineannotation/leaderlineoffset/
 ---
 ## LineAnnotation.LeaderLineOffset property
 
-获取或设置引导线偏移。
+获取或设置引导线偏移量。
 
 ```csharp
 public double LeaderLineOffset { get; set; }

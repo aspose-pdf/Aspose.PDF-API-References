@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 返回操作符的文本表示
+description: 返回运算符的文本表示形式
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf/operatorcollection/tostring/
 ---
 ## OperatorCollection.ToString method
 
-返回操作符的文本表示。
+返回运算符的文本表示形式。
 
 ```csharp
 public override string ToString()

@@ -1,14 +1,14 @@
 ---
 title: ExcludeFontsStrategy
 second_title: Aspose.PDF для справочника API .NET
-description: Стратегии исключения лишних шрифтов и уменьшения размера файла документа. Этот параметр имеет смысл только когда флагOptimizeFileSizeaspose.pdf/pdfformatconversionoptions/optimizefilesizeустановлен в true. По умолчанию комбинация стратегийSubsetFontsи ИспользуетсяRemoveDuplicatedFonts.
+description: Стратегии исключения лишних шрифтов и уменьшения размера файла документа. Этот параметр имеет смысл только при флагеOptimizeFileSizeaspose.pdf/pdfformatconversionoptions/optimizefilesize установлено значение true. По умолчанию комбинация стратегийSubsetFonts и RemoveDuplicatedFonts используется.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/excludefontsstrategy/
 ---
 ## PdfFormatConversionOptions.ExcludeFontsStrategy property
 
-Стратегии исключения лишних шрифтов и уменьшения размера файла документа. Этот параметр имеет смысл, только когда флаг[`OptimizeFileSize`](../optimizefilesize)установлен в true. По умолчанию комбинация стратегийSubsetFontsи ИспользуетсяRemoveDuplicatedFonts.
+Стратегии исключения лишних шрифтов и уменьшения размера файла документа. Этот параметр имеет смысл только при флаге[`OptimizeFileSize`](../optimizefilesize) установлено значение true. По умолчанию комбинация стратегийSubsetFonts и RemoveDuplicatedFonts используется.
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }

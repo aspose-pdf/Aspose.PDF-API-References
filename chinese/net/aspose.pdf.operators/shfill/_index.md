@@ -1,14 +1,14 @@
 ---
 title: ShFill
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 sh 运算符的类使用阴影图案绘制区域
+description: 代表 sh 运算符的类使用阴影图案绘制区域
 type: docs
 weight: 5630
 url: /zh/net/aspose.pdf.operators/shfill/
 ---
 ## ShFill class
 
-表示 sh 运算符的类（使用阴影图案绘制区域）。
+代表 sh 运算符的类（使用阴影图案绘制区域）。
 
 ```csharp
 public class ShFill : Operator
@@ -18,7 +18,7 @@ public class ShFill : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ShFill](shfill)(string) | 初始化运算符。 |
+| [ShFill](shfill)(string) | 初始化操作符。 |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: DefaultBufferSize
 second_title: Aspose.PDF for .NET API 参考
-description: 默认缓冲区大小值以字节为单位
+description: 以字节为单位的默认缓冲区大小值
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/
 ---
 ## OptimizedMemoryStream.DefaultBufferSize field
 
-默认缓冲区大小值（以字节为单位）。
+以字节为单位的默认缓冲区大小值。
 
 ```csharp
 public const int DefaultBufferSize;

@@ -1,14 +1,14 @@
 ---
 title: Visibility
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个值该值指示切割平面交点的可见性
+description: 获取或设置一个表示切割面交点可见性的值
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
 ---
 ## PDF3DCrossSection.Visibility property
 
-获取或设置一个值，该值指示切割平面交点的可见性。
+获取或设置一个表示切割面交点可见性的值。
 
 ```csharp
 public bool Visibility { get; set; }
@@ -16,7 +16,7 @@ public bool Visibility { get; set; }
 
 ### 适当的价值
 
-` true` 如果可见；否则，` false` 。
+`真的`如果可见；否则，`错误的`.
 
 ### 也可以看看
 

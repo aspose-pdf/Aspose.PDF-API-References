@@ -17,9 +17,9 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | xmlOutputStream | Stream | 输出 XFDF 流。 |
-| start | Int32 | 导出文档注释的起始页。 |
-| end | Int32 | 文档注释将被导出到的结束页面。 |
-| annotTypes | String[] | 需要导出注解类型数组。 |
+| start | Int32 | 将导出文档注释的起始页。 |
+| end | Int32 | 文档注释将导出到的结束页面。 |
+| annotTypes | String[] | 需要导出注释类型数组。 |
 
 ### 例子
 
@@ -53,9 +53,9 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | xmlOutputStream | Stream | 输出 XFDF 流。 |
-| start | Int32 | 导出文档注释的起始页。 |
-| end | Int32 | 文档注释将被导出到的结束页面。 |
-| annotTypes | AnnotationType[] | 需要导出注解类型数组。 |
+| start | Int32 | 将导出文档注释的起始页。 |
+| end | Int32 | 文档注释将导出到的结束页面。 |
+| annotTypes | AnnotationType[] | 需要导出注释类型数组。 |
 
 ### 例子
 

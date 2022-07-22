@@ -17,7 +17,7 @@ public void AddOption(string optionName, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | optionName | String | Имя новой опции. |
-| rect | Rectangle | Новый прямоугольник элемента. |
+| rect | Rectangle | Прямоугольник нового элемента. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public void AddOption(string optionName, Rectangle rect)
 
 ## AddOption(string) {#addoption}
 
-Добавить опцию к кнопке радио.
+Добавить опцию к радиокнопке.
 
 ```csharp
 public override void AddOption(string optionName)

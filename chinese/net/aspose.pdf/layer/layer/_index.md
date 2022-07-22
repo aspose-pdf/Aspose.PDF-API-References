@@ -1,14 +1,14 @@
 ---
 title: Layer
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Layeraspose.pdf/layer类的新实例
+description: 初始化Layeraspose.pdf/layer类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/layer/layer/
 ---
 ## Layer constructor
 
-初始化[`Layer`](../../layer)类的新实例。
+初始化[`Layer`](../../layer)类.
 
 ```csharp
 public Layer(string id, string name)
@@ -16,8 +16,8 @@ public Layer(string id, string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| id | String | 层 id |
-| name | String | 层名 |
+| id | String | 图层编号 |
+| name | String | 图层名称 |
 
 ### 也可以看看
 

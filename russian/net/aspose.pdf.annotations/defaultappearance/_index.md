@@ -1,14 +1,14 @@
 ---
 title: DefaultAppearance
 second_title: Aspose.PDF для справочника API .NET
-description: Описывает внешний вид поля по умолчанию шрифт размер текста и цвет.
+description: Описывает внешний вид поля по умолчанию шрифт размер и цвет текста.
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.annotations/defaultappearance/
 ---
 ## DefaultAppearance class
 
-Описывает внешний вид поля по умолчанию (шрифт, размер текста и цвет).
+Описывает внешний вид поля по умолчанию (шрифт, размер и цвет текста).
 
 ```csharp
 public sealed class DefaultAppearance
@@ -26,11 +26,11 @@ public sealed class DefaultAppearance
 
 | Имя | Описание |
 | --- | --- |
-| [Font](../../aspose.pdf.annotations/defaultappearance/font) { get; } | Получает шрифт по умолчанию для текста. |
+| [Font](../../aspose.pdf.annotations/defaultappearance/font) { get; } | Получает шрифт, указанный по умолчанию для текста. |
 | [FontName](../../aspose.pdf.annotations/defaultappearance/fontname) { get; set; } | Получает имя шрифта в виде по умолчанию. |
 | [FontResourceName](../../aspose.pdf.annotations/defaultappearance/fontresourcename) { get; set; } | Получает имя шрифта в виде по умолчанию. |
 | [FontSize](../../aspose.pdf.annotations/defaultappearance/fontsize) { get; set; } | Получает размер шрифта по умолчанию. |
-| [Text](../../aspose.pdf.annotations/defaultappearance/text) { get; } | Получает список операторов PDF, представляющих внешний вид. |
+| [Text](../../aspose.pdf.annotations/defaultappearance/text) { get; } | Получает список операторов PDF, которые представляют внешний вид. |
 | [TextColor](../../aspose.pdf.annotations/defaultappearance/textcolor) { get; set; } | Получает или задает цвет текста по умолчанию. |
 
 ### Смотрите также

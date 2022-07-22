@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API 参考
-description: 获取文本的文本位置用TextSegmentaspose.pdf.text/textsegment对象表示
+description: 获取文本的文本位置用TextSegmentaspose.pdf.text/textsegment对象.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/textsegment/position/
 ---
 ## TextSegment.Position property
 
-获取文本的文本位置，用[`TextSegment`](../../textsegment)对象表示。
+获取文本的文本位置，用[`TextSegment`](../../textsegment)对象.
 
 ```csharp
 public Position Position { get; set; }

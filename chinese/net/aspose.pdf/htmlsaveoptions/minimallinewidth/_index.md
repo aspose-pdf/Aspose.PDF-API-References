@@ -1,14 +1,14 @@
 ---
 title: MinimalLineWidth
 second_title: Aspose.PDF for .NET API 参考
-description: 此属性设置图形路径线的最小宽度 如果线条粗细小于 1px Adobe Acrobat 会将其四舍五入为该值所以这个属性可以 用于模拟 HTML 浏览器的这种行为
+description: 此属性设置图形路径线的最小宽度 如果线的粗细小于 1 像素Adobe Acrobat 会将其四舍五入到此值所以这个属性可以 用来模拟HTML浏览器的这种行为
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/htmlsaveoptions/minimallinewidth/
 ---
 ## HtmlSaveOptions.MinimalLineWidth property
 
-此属性设置图形路径线的最小宽度。 如果线条粗细小于 1px Adobe Acrobat 会将其四舍五入为该值。所以这个属性可以 用于模拟 HTML 浏览器的这种行为。
+此属性设置图形路径线的最小宽度。 如果线的粗细小于 1 像素，Adobe Acrobat 会将其四舍五入到此值。所以这个属性可以 用来模拟HTML浏览器的这种行为。
 
 ```csharp
 public float MinimalLineWidth { get; set; }

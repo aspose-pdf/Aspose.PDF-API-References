@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_Before
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyPositionBefore  содержимое RT должно быть выровнено по переднему краю элемента.
+description: Атрибут RubyPosition Before  содержимое RT должно быть выровнено по переднему краю элемента.
 type: docs
 weight: 490
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyposition_before/
 ---
 ## AttributeName.RubyPosition_Before field
 
-Атрибут RubyPosition:Before — содержимое RT должно быть выровнено по переднему краю элемента.
+Атрибут RubyPosition: Before — содержимое RT должно быть выровнено по переднему краю элемента.
 
 ```csharp
 public static readonly AttributeName RubyPosition_Before;

@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет элемент из коллекции выдает NotImplementedException .
+description: Удаляет предмет из коллекции выбрасываетНереализованное исключение .
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/ximagecollection/remove/
 ---
 ## XImageCollection.Remove method
 
-Удаляет элемент из коллекции, выдает NotImplementedException .
+Удаляет предмет из коллекции, выбрасываетНереализованное исключение .
 
 ```csharp
 public bool Remove(XImage item)
@@ -20,7 +20,7 @@ public bool Remove(XImage item)
 
 ### Возвращаемое значение
 
-NotImplementedException
+Нереализованное исключение
 
 ### Смотрите также
 

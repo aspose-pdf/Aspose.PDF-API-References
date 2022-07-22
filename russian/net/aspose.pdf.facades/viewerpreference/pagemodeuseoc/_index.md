@@ -1,14 +1,14 @@
 ---
 title: PageModeUseOC
 second_title: Aspose.PDF для справочника API .NET
-description: Видна дополнительная панель группы содержимого.
+description: Видна панель дополнительной группы контента.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/
 ---
 ## ViewerPreference.PageModeUseOC field
 
-Видна дополнительная панель группы содержимого.
+Видна панель дополнительной группы контента.
 
 ```csharp
 public const int PageModeUseOC;

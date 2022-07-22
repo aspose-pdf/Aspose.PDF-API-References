@@ -1,14 +1,14 @@
 ---
 title: IncludeContents
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则文件内容将包含在文件规范中
+description: 如果为真文件内容将包含在文件规范中
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/filespecification/includecontents/
 ---
 ## FileSpecification.IncludeContents property
 
-如果为真，则文件内容将包含在文件规范中。
+如果为真，文件内容将包含在文件规范中。
 
 ```csharp
 public bool IncludeContents { get; set; }

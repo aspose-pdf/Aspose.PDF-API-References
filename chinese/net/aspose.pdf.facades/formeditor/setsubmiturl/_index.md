@@ -21,7 +21,7 @@ public bool SetSubmitUrl(string fieldName, string url)
 
 ### 返回值
 
-如果成功设置按钮的 URL，则为 true。
+如果按钮的 URL 已成功设置，则为 true。
 
 ### 例子
 

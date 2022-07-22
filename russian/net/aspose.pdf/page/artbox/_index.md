@@ -1,14 +1,14 @@
 ---
 title: ArtBox
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает художественное поле страницы.
+description: Получает или задает художественное поле страницы.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/page/artbox/
 ---
 ## Page.ArtBox property
 
-Получает или устанавливает художественное поле страницы.
+Получает или задает художественное поле страницы.
 
 ```csharp
 public Rectangle ArtBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle ArtBox { get; set; }
 
 ### Примеры
 
-Пример демонстрирует, как получить артбокс страницы:
+Пример демонстрирует, как получить арт-бокс страницы:
 
 ```csharp
 Document document = new Document("sample.pdf");

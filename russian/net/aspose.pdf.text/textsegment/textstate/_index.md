@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает состояние текста для текста который представляет объектTextSegmentaspose.pdf.text/textsegment.
+description: Получает или задает состояние текста для текстаTextSegmentaspose.pdf.text/textsegment объект представляет.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textsegment/textstate/
 ---
 ## TextSegment.TextState property
 
-Получает или задает состояние текста для текста, который представляет объект[`TextSegment`](../../textsegment).
+Получает или задает состояние текста для текста,[`TextSegment`](../../textsegment) объект представляет.
 
 ```csharp
 public TextState TextState { get; set; }
@@ -16,7 +16,7 @@ public TextState TextState { get; set; }
 
 ### Примечания
 
-Позволяет изменить следующие свойства текста: Шрифт FontSize FontStyle ForegroundColor BackgroundColor
+Позволяет изменить следующие свойства текста: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ### Смотрите также
 

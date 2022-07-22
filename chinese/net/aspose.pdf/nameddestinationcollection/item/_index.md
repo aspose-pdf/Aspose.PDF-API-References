@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 按名称获取或设置约会
+description: 按其名称获取或设置约会
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/nameddestinationcollection/item/
 ---
 ## NamedDestinationCollection indexer
 
-按名称获取或设置约会。
+按其名称获取或设置约会。
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,11 +16,11 @@ public IAppointment this[string name] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| name | 约会名称。 |
+| name | 约会的名称。 |
 
 ### 返回值
 
-Appoitnemt
+预约
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Flags
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает флаги действия отправки
+description: Получает или устанавливает флаги отправки action
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/submitformaction/flags/
 ---
 ## SubmitFormAction.Flags property
 
-Получает или устанавливает флаги действия отправки
+Получает или устанавливает флаги отправки action
 
 ```csharp
 public int Flags { get; set; }

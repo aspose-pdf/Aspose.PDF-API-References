@@ -68,7 +68,7 @@ public ComboBoxField(Page page, Rectangle rect)
 
 ## ComboBoxField(Document, Rectangle) {#constructor_2}
 
-Конструктор поля Combobox.
+Конструктор для поля Combobox.
 
 ```csharp
 public ComboBoxField(Document doc, Rectangle rect)

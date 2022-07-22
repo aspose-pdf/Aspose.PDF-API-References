@@ -16,7 +16,7 @@ public BaseParagraph this[int index] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс абзаца. |
+| index | Указатель абзаца. |
 
 ### Смотрите также
 

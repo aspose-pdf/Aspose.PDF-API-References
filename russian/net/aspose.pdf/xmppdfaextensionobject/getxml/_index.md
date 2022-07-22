@@ -16,11 +16,11 @@ public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Исходный XML-документ. |
+| xmlDocument | XmlDocument | Исходный xml-документ. |
 
 ### Возвращаемое значение
 
-&gt;Список элементов xml.
+&gt; Список элементов xml.
 
 ### Смотрите также
 

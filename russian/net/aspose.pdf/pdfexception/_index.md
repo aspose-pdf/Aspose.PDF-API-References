@@ -18,10 +18,10 @@ public class PdfException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [PdfException](pdfexception#constructor)() | Инициализирует новый экземпляр класса[`PdfException`](../pdfexception). |
-| [PdfException](pdfexception#constructor_1)(Exception) | Инициализирует новый экземпляр класса[`PdfException`](../pdfexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [PdfException](pdfexception#constructor_2)(string) | Инициализирует новый экземпляр класса[`PdfException`](../pdfexception). |
-| [PdfException](pdfexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса[`PdfException`](../pdfexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [PdfException](pdfexception#constructor)() | Инициализирует новый экземпляр[`PdfException`](../pdfexception) класс. |
+| [PdfException](pdfexception#constructor_1)(Exception) | Инициализирует новый экземпляр[`PdfException`](../pdfexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [PdfException](pdfexception#constructor_2)(string) | Инициализирует новый экземпляр[`PdfException`](../pdfexception) класс. |
+| [PdfException](pdfexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр[`PdfException`](../pdfexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

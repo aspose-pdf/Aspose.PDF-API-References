@@ -20,7 +20,7 @@ public float GetPageHeight(int pageNum)
 
 ### 返回值
 
-页面高度。
+页面的高度。
 
 ### 也可以看看
 

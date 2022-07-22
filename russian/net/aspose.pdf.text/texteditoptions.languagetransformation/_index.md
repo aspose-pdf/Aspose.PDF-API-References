@@ -1,14 +1,14 @@
 ---
 title: TextEditOptions.LanguageTransformation
 second_title: Aspose.PDF для справочника API .NET
-description: Режимы трансформации языка
+description: Режимы преобразования языка
 type: docs
 weight: 7010
 url: /ru/net/aspose.pdf.text/texteditoptions.languagetransformation/
 ---
 ## TextEditOptions.LanguageTransformation enumeration
 
-Режимы трансформации языка
+Режимы преобразования языка
 
 ```csharp
 public enum LanguageTransformation
@@ -20,7 +20,7 @@ public enum LanguageTransformation
 | --- | --- | --- |
 | Default | `0` | Выполняется преобразование языка по умолчанию. |
 | ExactlyAsISee | `1` | Преобразование языка выполняется так же, как и в текстовом редакторе. Обычно это означает, что текст будет выглядеть в документе точно так же, как вы видите его в коде. Но никаких гарантий. |
-| None | `2` | Преобразование языка не выполняется. |
+| None | `2` | Преобразование языка не выполнено. |
 
 ### Смотрите также
 

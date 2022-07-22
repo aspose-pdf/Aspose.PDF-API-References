@@ -1,14 +1,14 @@
 ---
 title: InlineAlign_Center
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 InlineAlignCenter - 每个子元素在表格单元格中居中子分配矩形的起始边缘与表格单元格的内容矩形之间的距离应与它们的结束边缘之间的距离相同
+description: 属性 InlineAlign Center - 每个子元素在表格单元格中居中子分配矩形的起始边缘与表格单元格的内容矩形之间的距离应与它们的结束边缘之间的距离相同
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.logicalstructure/attributename/inlinealign_center/
 ---
 ## AttributeName.InlineAlign_Center field
 
-属性 InlineAlign:Center - 每个子元素在表格单元格中居中。子分配矩形的起始边缘与表格单元格的内容矩形之间的距离应与它们的结束边缘之间的距离相同。
+属性 InlineAlign: Center - 每个子元素在表格单元格中居中。子分配矩形的起始边缘与表格单元格的内容矩形之间的距离应与它们的结束边缘之间的距离相同。
 
 ```csharp
 public static readonly AttributeName InlineAlign_Center;

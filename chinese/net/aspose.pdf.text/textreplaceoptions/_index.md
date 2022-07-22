@@ -18,15 +18,15 @@ public sealed class TextReplaceOptions : TextOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextReplaceOptions](textreplaceoptions#constructor)(ReplaceAdjustment) | 为指定的替换操作后初始化[`TextReplaceOptions`](../textreplaceoptions)对象的新实例。 |
-| [TextReplaceOptions](textreplaceoptions#constructor_1)(Scope) | 为指定范围初始化[`TextReplaceOptions`](../textreplaceoptions)对象的新实例。 |
+| [TextReplaceOptions](textreplaceoptions#constructor)(ReplaceAdjustment) | 初始化[`TextReplaceOptions`](../textreplaceoptions)替换操作后指定的对象。 |
+| [TextReplaceOptions](textreplaceoptions#constructor_1)(Scope) | 初始化[`TextReplaceOptions`](../textreplaceoptions)指定范围的对象。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing) { get; set; } | 获取或设置在强制替换调整创建新文本行时使用的行距值。 预期值是替换文本字体大小的乘数。默认值为 1.2。 |
-| [ReplaceAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/replaceadjustmentaction) { get; set; } | 获取或设置将在将文本片段替换为更短后执行的操作。 |
+| [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing) { get; set; } | 获取或设置在强制替换调整创建新文本行时使用的行距值。 预期值是被替换文本字体大小的乘数。默认为 1.2. |
+| [ReplaceAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/replaceadjustmentaction) { get; set; } | 获取或设置在将文本片段替换为更短后将执行的操作。 |
 | [ReplaceScope](../../aspose.pdf.text/textreplaceoptions/replacescope) { get; set; } | 获取或设置应用替换文本操作的范围 |
 
 ### 也可以看看

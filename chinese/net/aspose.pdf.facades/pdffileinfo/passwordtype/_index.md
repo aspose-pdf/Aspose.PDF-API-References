@@ -1,14 +1,14 @@
 ---
 title: PasswordType
 second_title: Aspose.PDF for .NET API 参考
-description: 返回用于创建 PdfFileInfo 实例的密码类型查看PasswordTypeaspose.pdf.facades/pdffileinfo/passwordtype中的可能值 请注意可以使用用户或打开密码和所有者或权限编辑密码打开 pdf 文档
+description: 返回为创建 PdfFileInfo 实例而传递的密码类型查看可能的值PasswordTypeaspose.pdf.facades/pdffileinfo/passwordtype. 注意pdf文档可以使用用户或打开密码和所有者或权限编辑密码打开
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdffileinfo/passwordtype/
 ---
 ## PdfFileInfo.PasswordType property
 
-返回用于创建 PdfFileInfo 实例的密码类型。查看`PasswordType`中的可能值。 请注意，可以使用用户（或打开）密码和所有者（或权限，编辑）密码打开 pdf 文档。
+返回为创建 PdfFileInfo 实例而传递的密码类型。查看可能的值`PasswordType`. 注意pdf文档可以使用用户（或打开）密码和所有者（或权限，编辑）密码打开。
 
 ```csharp
 public PasswordType PasswordType { get; }

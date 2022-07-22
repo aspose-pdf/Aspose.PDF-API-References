@@ -1,14 +1,14 @@
 ---
 title: IsChangePosition
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置流程段落后更改当前位置默认为真
+description: 获取或设置进程段落后更改当前位置默认为真
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.drawing/graph/ischangeposition/
 ---
 ## Graph.IsChangePosition property
 
-获取或设置流程段落后更改当前位置。（默认为真）
+获取或设置进程段落后更改当前位置。（默认为真）
 
 ```csharp
 public bool IsChangePosition { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FontSubstitution
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет базовый класс для стратегий замены шрифта.
+description: Представляет базовый класс для стратегий замены шрифтов.
 type: docs
 weight: 6760
 url: /ru/net/aspose.pdf.text/fontsubstitution/
 ---
 ## FontSubstitution class
 
-Представляет базовый класс для стратегий замены шрифта.
+Представляет базовый класс для стратегий замены шрифтов.
 
 ```csharp
 public class FontSubstitution

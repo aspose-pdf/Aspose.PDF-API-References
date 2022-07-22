@@ -1,14 +1,14 @@
 ---
 title: OperatorIndex
 second_title: Aspose.PDF for .NET API 参考
-description: 内容流运算符集合中显示运算符的文本索引导致文本提取错误
+description: 显示内容流运算符集合中导致文本提取错误的运算符的文本索引
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/
 ---
 ## TextExtractionErrorLocation.OperatorIndex property
 
-内容流（运算符集合）中显示运算符的文本索引，导致文本提取错误。
+显示内容流（运算符集合）中导致文本提取错误的运算符的文本索引。
 
 ```csharp
 public int OperatorIndex { get; }

@@ -1,14 +1,14 @@
 ---
 title: Lines
 second_title: Aspose.PDF for .NET API 参考
-description: 段落行数每行由文本片段列表表示
+description: 段落的行数每行由文本片段列表表示
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/markupparagraph/lines/
 ---
 ## MarkupParagraph.Lines property
 
-段落行数。每行由文本片段列表表示。
+段落的行数。每行由文本片段列表表示。
 
 ```csharp
 public List<List<TextFragment>> Lines { get; }
@@ -16,7 +16,7 @@ public List<List<TextFragment>> Lines { get; }
 
 ### 评论
 
-[`TextFragment`](../../textfragment)对象提供访问搜索出现的文本、文本属性，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
+的[`TextFragment`](../../textfragment)对象提供对搜索出现文本、文本属性的访问，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
 
 ### 也可以看看
 

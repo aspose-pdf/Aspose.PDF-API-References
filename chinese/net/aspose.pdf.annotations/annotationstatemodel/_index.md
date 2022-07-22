@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.annotations/annotationstatemodel/
 ---
 ## AnnotationStateModel enumeration
 
-注解状态对应的状态模型。
+注解状态对应的状态模型
 
 ```csharp
 public enum AnnotationStateModel

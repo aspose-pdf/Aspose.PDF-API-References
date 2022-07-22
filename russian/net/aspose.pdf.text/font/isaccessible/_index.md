@@ -20,21 +20,21 @@ public bool IsAccessible { get; }
 
 ### Примеры
 
-Пример демонстрирует, как выполнить поиск текста на первой странице и получить значение, указывающее, является ли шрифт установлен в системе.
+В примере показано, как выполнить поиск текста на первой странице и получить значение, указывающее, установлен ли шрифт в системе.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Просмотр значения IsSubset шрифта для первого текста вхождения
-f(absorber.TextFragments[1].TextState.Font.IsAccessible)
-  Console.Out.WriteLine("the font is installed in the system");
+// Просмотр значения IsSubset шрифта для первого вхождения текста
+if(absorber.TextFragments[1].TextState.Font.IsAccessible)
+   Console.Out.WriteLine("the font is installed in the system");
 ```
 
 ### Смотрите также

@@ -16,7 +16,7 @@ public SetColorRenderingIntent(string intentName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| intentName | String | 显色意图。 |
+| intentName | String | 颜色渲染意图。 |
 
 ### 也可以看看
 

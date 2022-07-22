@@ -1,14 +1,14 @@
 ---
 title: Summary
 second_title: Aspose.PDF для справочника API .NET
-description: Сводный атрибут владелец атрибута таблицы.
+description: Атрибут сводки владелец атрибута таблицы.
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
 ## AttributeKey.Summary field
 
-Сводный атрибут (владелец атрибута таблицы).
+Атрибут сводки (владелец атрибута таблицы).
 
 ```csharp
 public static readonly AttributeKey Summary;

@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.GroupProcessor.Creators
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.GroupProcessor.Creators 命名空间提供用于创建 GroupProcessor 类实例的类.
+description: 这 Aspose.Pdf.GroupProcessor.Creators命名空间提供用于创建 GroupProcessor 类实例的类
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.groupprocessor.creators/
 ---
-**Aspose.Pdf.GroupProcessor.Creators** 命名空间提供用于创建 GroupProcessor 类实例的类.
+这 **Aspose.Pdf.GroupProcessor.Creators**命名空间提供用于创建 GroupProcessor 类实例的类。
 
 ## 课程
 

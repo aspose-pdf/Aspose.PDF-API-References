@@ -1,14 +1,14 @@
 ---
 title: AllowScreenReaders
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает разрешение разрешающее или запрещающее чтение с экрана. true разрешает false запрещает.
+description: Устанавливает разрешение разрешающее или запрещающее чтение с экрана. true  разрешено false  запрещено.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowscreenreaders/
 ---
 ## DocumentPrivilege.AllowScreenReaders property
 
-Устанавливает разрешение, разрешающее или запрещающее чтение с экрана. true разрешает, false запрещает.
+Устанавливает разрешение, разрешающее или запрещающее чтение с экрана. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowScreenReaders { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个Paragraphsaspose.pdf/floatingbox/paragraphs集合该集合指示单元格中的所有段落
+description: 获取或设置一个Paragraphsaspose.pdf/floatingbox/paragraphs表示单元格中所有段落的集合
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/floatingbox/paragraphs/
 ---
 ## FloatingBox.Paragraphs property
 
-获取或设置一个`Paragraphs`集合，该集合指示单元格中的所有段落。
+获取或设置一个`Paragraphs`表示单元格中所有段落的集合。
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }

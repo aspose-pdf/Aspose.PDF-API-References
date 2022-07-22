@@ -1,14 +1,14 @@
 ---
 title: KeepActions
 second_title: Aspose.PDF для справочника API .NET
-description: Если true действия будут скопированы из исходных документов. Значение по умолчаниюправда.
+description: Если true действия будут скопированы из исходных документов. Значение по умолчанию true.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
 ## PdfFileEditor.KeepActions property
 
-Если true действия будут скопированы из исходных документов. Значение по умолчанию:правда.
+Если true действия будут скопированы из исходных документов. Значение по умолчанию: true.
 
 ```csharp
 public bool KeepActions { get; set; }

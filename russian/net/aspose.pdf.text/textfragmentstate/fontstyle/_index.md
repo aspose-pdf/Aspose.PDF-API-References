@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает стиль шрифта текста представленного объектомTextFragmentaspose.pdf.text/textfragment
+description: Устанавливает стиль шрифта текста представленногоTextFragmentaspose.pdf.text/textfragment объект
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textfragmentstate/fontstyle/
 ---
 ## TextFragmentState.FontStyle property
 
-Устанавливает стиль шрифта текста, представленного объектом[`TextFragment`](../../textfragment)
+Устанавливает стиль шрифта текста, представленного[`TextFragment`](../../textfragment) объект
 
 ```csharp
 public override FontStyles FontStyle { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API 参考
-description: 释放实例
+description: 处理实例
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/texmemoryoutputdirectory/dispose/
 ---
 ## TeXMemoryOutputDirectory.Dispose method
 
-释放实例。
+处理实例。
 
 ```csharp
 public virtual void Dispose()

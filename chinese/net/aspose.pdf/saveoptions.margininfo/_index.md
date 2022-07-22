@@ -1,14 +1,14 @@
 ---
 title: SaveOptions.MarginInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 此类的实例表示有关页边距的信息 这可能会淹没在某些结果文档中
+description: 此类的实例表示有关页边距的信息 可以淹没在某些结果文档中
 type: docs
 weight: 6330
 url: /zh/net/aspose.pdf/saveoptions.margininfo/
 ---
 ## SaveOptions.MarginInfo class
 
-此类的实例表示有关页边距的信息 这可能会淹没在某些结果文档中。
+此类的实例表示有关页边距的信息 可以淹没在某些结果文档中。
 
 ```csharp
 public class MarginInfo
@@ -19,15 +19,15 @@ public class MarginInfo
 | 姓名 | 描述 |
 | --- | --- |
 | [MarginInfo](margininfo#constructor)() | 创建 MarginInfo 的实例 |
-| [MarginInfo](margininfo#constructor_1)(MarginPartStyle) | 创建 MarginInfo 类的实例并初始化 页边距的所有元素（上、左、右、下） 具有从提供的边距样式复制的属性 |
+| [MarginInfo](margininfo#constructor_1)(MarginPartStyle) | 创建 MarginInfo 类的实例并初始化 页边距（上、左、右、下） 的所有元素，其属性从提供的边距样式 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
 | [BottomMarginIfAny](../../aspose.pdf/margininfo/bottommarginifany) | 表示底部页边距（如果有） |
-| [LeftMarginIfAny](../../aspose.pdf/margininfo/leftmarginifany) | 表示左页边距（如果有） |
-| [RightMarginIfAny](../../aspose.pdf/margininfo/rightmarginifany) | 表示右页边距（如果有） |
+| [LeftMarginIfAny](../../aspose.pdf/margininfo/leftmarginifany) | 表示页面左边距（如果有） |
+| [RightMarginIfAny](../../aspose.pdf/margininfo/rightmarginifany) | 代表右页边距（如果有） |
 | [TopMarginIfAny](../../aspose.pdf/margininfo/topmarginifany) | 表示首页边距（如果有） |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: OutDirectoryPath
 second_title: Aspose.PDF для справочника API .NET
-description: Свойство для параметра_outDirectoryPath.
+description: Свойство для_outDirectoryPath параметр.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/texsaveoptions/outdirectorypath/
 ---
 ## TeXSaveOptions.OutDirectoryPath property
 
-Свойство для параметра_outDirectoryPath.
+Свойство для_outDirectoryPath параметр.
 
 ```csharp
 public string OutDirectoryPath { get; set; }

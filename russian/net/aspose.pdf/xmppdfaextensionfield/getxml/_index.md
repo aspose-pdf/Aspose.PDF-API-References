@@ -1,14 +1,14 @@
 ---
 title: GetXml
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает список элементов xml представляющих поле в xml-дереве.
+description: Возвращает список элементов xml представляющих поле в дереве xml.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xmppdfaextensionfield/getxml/
 ---
 ## XmpPdfAExtensionField.GetXml method
 
-Возвращает список элементов xml, представляющих поле в xml-дереве.
+Возвращает список элементов xml, представляющих поле в дереве xml.
 
 ```csharp
 public override List<XmlElement> GetXml(XmlDocument xmlDocument)
@@ -16,7 +16,7 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Исходный XML-документ. |
+| xmlDocument | XmlDocument | Исходный xml-документ. |
 
 ### Возвращаемое значение
 

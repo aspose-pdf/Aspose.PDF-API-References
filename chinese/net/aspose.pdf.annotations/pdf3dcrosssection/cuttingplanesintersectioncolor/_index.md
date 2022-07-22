@@ -16,7 +16,7 @@ public Color CuttingPlanesIntersectionColor { get; set; }
 
 ### 适当的价值
 
-切割平面交点的颜色。
+切割面相交的颜色。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: IsAsyncImageStreamsConversionMode
 second_title: Aspose.PDF for .NET API 参考
-description: 在异步模式下获取/设置图像流的运行
+description: 以异步模式获取/设置图像流的运行
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/isasyncimagestreamsconversionmode/
 ---
 ## PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode property
 
-在异步模式下获取/设置图像流的运行。
+以异步模式获取/设置图像流的运行。
 
 ```csharp
 public bool IsAsyncImageStreamsConversionMode { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: HtmlFragment
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет фрагмент html.
+description: Представляет HTML-фрагмент.
 type: docs
 weight: 3390
 url: /ru/net/aspose.pdf/htmlfragment/
 ---
 ## HtmlFragment class
 
-Представляет фрагмент html.
+Представляет HTML-фрагмент.
 
 ```csharp
 public sealed class HtmlFragment : FormattedFragment
@@ -25,17 +25,17 @@ public sealed class HtmlFragment : FormattedFragment
 | Имя | Описание |
 | --- | --- |
 | virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | Получает или задает горизонтальное выравнивание абзаца |
-| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions) { get; set; } | Получает или задает HtmlLoadOptions, которые будут использоваться для загрузки (и рендеринга) HTML в этот экземпляр класса. Пожалуйста, используйте его, когда необходимо использовать определенные настройки для импорта HTML для того или иного экземпляра (например, когда тот или иной экземпляр должен использовать определенный BasePath для импортируемого HTML или должен использовать определенный загрузчик внешних ресурсов) Если параметр по умолчанию (null), то будут использоваться стандартные параметры загрузки HTML. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Получает или устанавливает гиперссылку фрагмента (для генератора pdf). |
-| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords) { get; set; } | Получает или устанавливает разрыв слов |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Получает или задает логическое значение, указывающее, будет ли этот абзац в следующем столбце. По умолчанию false. (для генерации pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Получает или задает встроенный абзац. По умолчанию false. (для генерации pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Получает или устанавливает логическое значение, которое принудительно генерирует этот абзац на новой странице. По умолчанию false. (для генерации pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Получает или задает логическое значение, указывающее, остается ли текущий абзац на той же странице, что и следующий абзац. По умолчанию false. (для генерации pdf) |
+| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions) { get; set; } | Получает или задает HtmlLoadOptions, которые будут использоваться для загрузки (и рендеринга) HTML в этот экземпляр класса. использовать определенный BasePath для импортируемого HTML или следует использовать определенный загрузчик внешних ресурсов) Если параметр установлен по умолчанию (нулевой), то будут использоваться стандартные параметры загрузки HTML. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Получает или устанавливает гиперссылку на фрагмент (для генератора pdf). |
+| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords) { get; set; } | Получает или задает слова break |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Получает или задает логическое значение, указывающее, будет ли этот абзац находиться в следующем столбце. Значение по умолчанию — false. |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Получает или задает встроенный абзац. Значение по умолчанию — false. (для создания pdf) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Получает или задает логическое значение, которое заставляет этот абзац создаваться на новой странице. Значение по умолчанию — false. |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Получает или задает логическое значение, указывающее, остается ли текущий абзац на той же странице вместе со следующим абзацем. Значение по умолчанию — false. (для создания PDF) |
 | [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin) { get; set; } | Получает или устанавливает, имеет ли абзац поле по умолчанию, в противном случае поле равно 0 |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Получает или задает внешнее поле для абзаца (для создания pdf) |
+| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Получает или задает внешнее поле для абзаца (для создания PDF-файла) |
 | [Rectangle](../../aspose.pdf/htmlfragment/rectangle) { get; } | Получает прямоугольник HtmlFragment |
-| [TextState](../../aspose.pdf/htmlfragment/textstate) { get; set; } | Получает или устанавливает шрифт |
+| [TextState](../../aspose.pdf/htmlfragment/textstate) { get; set; } | Получает или устанавливает font |
 | virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | Получает или задает вертикальное выравнивание абзаца |
 | [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Получает или задает значение int, указывающее Z-порядок графика. График с большим ZIndex будет размещен над графиком с меньшим ZIndex. ZIndex может быть отрицательным. График с отрицательным ZIndex будет размещен за текстом на странице. |
 

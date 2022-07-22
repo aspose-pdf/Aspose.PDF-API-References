@@ -1,14 +1,14 @@
 ---
 title: TextExtractionError
 second_title: Aspose.PDF для справочника API .NET
-description: Описывает ошибку извлечения текста возникшую в документе PDF.
+description: Описывает ошибку извлечения текста появившуюся в документе PDF.
 type: docs
 weight: 7030
 url: /ru/net/aspose.pdf.text/textextractionerror/
 ---
 ## TextExtractionError class
 
-Описывает ошибку извлечения текста, возникшую в документе PDF.
+Описывает ошибку извлечения текста, появившуюся в документе PDF.
 
 ```csharp
 public sealed class TextExtractionError
@@ -19,7 +19,7 @@ public sealed class TextExtractionError
 | Имя | Описание |
 | --- | --- |
 | [Description](../../aspose.pdf.text/textextractionerror/description) { get; } | Расширенное описание ошибки. |
-| [ExtractedText](../../aspose.pdf.text/textextractionerror/extractedtext) { get; } | Фактически извлеченный текст. |
+| [ExtractedText](../../aspose.pdf.text/textextractionerror/extractedtext) { get; } | Текст, который был фактически извлечен. |
 | [FontKey](../../aspose.pdf.text/textextractionerror/fontkey) { get; } | Ключ (имя PDF) объекта Font, который используется для отображения текста, вызывающего ошибку извлечения. |
 | [FontName](../../aspose.pdf.text/textextractionerror/fontname) { get; } | Читаемое (внутреннее) имя объекта Font, который используется для отображения текста, вызывающего ошибку извлечения. |
 | [Location](../../aspose.pdf.text/textextractionerror/location) { get; } | Расположение ошибки. |

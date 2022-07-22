@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf.annotations/markupannotation/inreplyto/
 ---
 ## MarkupAnnotation.InReplyTo property
 
-Ссылка на аннотацию, на которую эта аннотация является "ответом". Обе аннотации должны быть на одной странице документа.
+Ссылка на аннотацию, на которую эта аннотация является «ответом». Обе аннотации должны быть на одной странице документа.
 
 ```csharp
 public Annotation InReplyTo { get; set; }

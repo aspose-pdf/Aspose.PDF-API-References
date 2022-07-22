@@ -16,11 +16,11 @@ public string GetButtonOptionCurrentValue(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 字段名 |
+| fieldName | String | 字段名称 |
 
 ### 返回值
 
-当前单选组的字符串值奥提诺。另请参见[`GetButtonOptionValues`](../getbuttonoptionvalues)
+当前无线电组 optino 的字符串值。也可以看看[`GetButtonOptionValues`](../getbuttonoptionvalues)
 
 ### 例子
 

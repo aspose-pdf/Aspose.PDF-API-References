@@ -1,14 +1,14 @@
 ---
 title: Signed
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此属性为真则将使用 xfa 表单流如果存在转换文档 如果为假则 xfa 表单流将被忽略 引入此属性是因为不清楚如何计算用于检查 sygnature 的校验和
+description: 如果此属性为真则文档将使用 xfa 表单流如果存在进行转换 如果为假则 xfa 表单流将被忽略 引入此属性是因为不清楚如何计算校验和用于检查 sygnature.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.xfaconverter/xfaparseroptions/signed/
 ---
 ## XfaParserOptions.Signed property
 
-如果此属性为真，则将使用 xfa 表单流（如果存在）转换文档。 如果为假，则 xfa 表单流将被忽略。 引入此属性是因为不清楚如何计算用于检查 sygnature 的校验和。
+如果此属性为真，则文档将使用 xfa 表单流（如果存在）进行转换。 如果为假，则 xfa 表单流将被忽略。 引入此属性是因为不清楚如何计算校验和用于检查 sygnature.
 
 ```csharp
 public bool Signed { get; set; }

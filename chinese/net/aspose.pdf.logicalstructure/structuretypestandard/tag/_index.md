@@ -1,14 +1,14 @@
 ---
 title: Tag
 second_title: Aspose.PDF for .NET API 参考
-description: 获取StructureElementaspose.pdf.logicalstructure/structureelement的标签名称
+description: 获取标签名称StructureElementaspose.pdf.logicalstructure/structureelement.
 type: docs
 weight: 510
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/tag/
 ---
 ## StructureTypeStandard.Tag property
 
-获取[`StructureElement`](../../structureelement)的标签名称。
+获取标签名称[`StructureElement`](../../structureelement).
 
 ```csharp
 public string Tag { get; }
@@ -16,7 +16,7 @@ public string Tag { get; }
 
 ### 适当的价值
 
-[`StructureElement`](../../structureelement)的标签名称。
+标签名称[`StructureElement`](../../structureelement).
 
 ### 也可以看看
 

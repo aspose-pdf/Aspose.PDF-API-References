@@ -36,7 +36,7 @@ fileStamp.Close();
 
 ## AddPageNumber(FormattedText) {#addpagenumber}
 
-将页码添加到页面。页码可能包含 # 符号，该符号将替换为页码。 页码放置在页面底部水平居中。
+将页码添加到页面。页码可能包含 # 符号，将被替换为页码。 页码放置在页面底部水平居中。
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText)
@@ -65,7 +65,7 @@ fileStamp.Close();
 
 ## AddPageNumber(string, int, float, float, float, float) {#addpagenumber_6}
 
-将页码添加到文档页面。
+将页码添加到文档的页面。
 
 ```csharp
 public void AddPageNumber(string formatString, int position, float leftMargin, float rightMargin, 
@@ -75,10 +75,10 @@ public void AddPageNumber(string formatString, int position, float leftMargin, f
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | formatString | String | 页码的格式字符串。 |
-| position | Int32 | 将在页面上放置页码的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| position | Int32 | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量： PosBottomMiddle = 0，PosBottomRight = 1，PosUpperRight = 2，PosSidesRight = 3， PosUpperMiddle，PosBottomLeft = 5，PosSidesLeft，PosUpperLeft |
 | leftMargin | Single | 页面左边缘的边距。 |
 | rightMargin | Single | 页面右边缘的边距。 |
-| topMargin | Single | 页面上边缘的边距。 |
+| topMargin | Single | 页面顶部边缘的边距。 |
 | bottomMargin | Single | 页面底部边缘的边距。 |
 
 ### 例子
@@ -107,8 +107,8 @@ public void AddPageNumber(string formatString, float x, float y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatString | String | 格式字符串。格式字符串可以包含 # 符号，该符号将替换为页码。 |
-| x | Single | 页码X坐标。 |
+| formatString | String | 格式化字符串。格式字符串可以包含 # 符号，该符号将替换为页码。 |
+| x | Single | 页码的 X 坐标。 |
 | y | Single | 页码的 Y 坐标。 |
 
 ### 例子
@@ -129,7 +129,7 @@ fileStamp.Close();
 
 ## AddPageNumber(FormattedText, int, float, float, float, float) {#addpagenumber_2}
 
-将页码添加到文档页面。
+将页码添加到文档的页面。
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText, int position, float leftMargin, 
@@ -138,11 +138,11 @@ public void AddPageNumber(FormattedText formattedText, int position, float leftM
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText 对象，表示页码格式和文本的属性。 |
-| position | Int32 | 将在页面上放置页码的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | FormattedText | FormattedText 对象，代表文本的页码格式和属性。 |
+| position | Int32 | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量： PosBottomMiddle = 0，PosBottomRight = 1，PosUpperRight = 2，PosSidesRight = 3， PosUpperMiddle，PosBottomLeft = 5，PosSidesLeft，PosUpperLeft |
 | leftMargin | Single | 页面左边缘的边距。 |
 | rightMargin | Single | 页面右边缘的边距。 |
-| topMargin | Single | 页面上边缘的边距。 |
+| topMargin | Single | 页面顶部边缘的边距。 |
 | bottomMargin | Single | 页面底部边缘的边距。 |
 
 ### 例子
@@ -172,8 +172,8 @@ public void AddPageNumber(FormattedText formattedText, float x, float y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | 表示页码格式和文本属性的格式化文本。 格式字符串可以包含#号，将替换为页码。 |
-| x | Single | 页码X坐标。 |
+| formattedText | FormattedText | 表示页码格式和文本属性的格式化文本。 格式字符串可以包含将替换为页码的# 符号。 |
+| x | Single | 页码的 X 坐标。 |
 | y | Single | 页码的 Y 坐标。 |
 
 ### 例子
@@ -203,8 +203,8 @@ public void AddPageNumber(string formatString, int position)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatString | String | 页码格式。此文本可能包含 # 将替换为页码。 |
-| position | Int32 | 将在页面上放置页码的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formatString | String | 页码的格式。此文本可能包含 # 将替换为页码。 |
+| position | Int32 | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量： PosBottomMiddle = 0，PosBottomRight = 1，PosUpperRight = 2，PosSidesRight = 3， PosUpperMiddle，PosBottomLeft = 5，PosSidesLeft，PosUpperLeft |
 
 ### 例子
 
@@ -232,8 +232,8 @@ public void AddPageNumber(FormattedText formattedText, int position)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText 对象，其中包含页码格式和文本属性。 此文本可能包含 # 将替换为页码。 |
-| position | Int32 | 将在页面上放置页码的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | FormattedText | 包含页码格式和文本属性的 FormattedText 对象。 此文本可能包含将替换为页码的#。 |
+| position | Int32 | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上， 3 - 右侧，4 - 上中，5 - 左下，6 - 左侧，7 - 左上。 您可以使用以下常量： PosBottomMiddle = 0，PosBottomRight = 1，PosUpperRight = 2，PosSidesRight = 3， PosUpperMiddle，PosBottomLeft = 5，PosSidesLeft，PosUpperLeft |
 
 ### 例子
 

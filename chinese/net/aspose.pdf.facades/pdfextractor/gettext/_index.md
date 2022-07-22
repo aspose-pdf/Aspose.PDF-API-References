@@ -1,14 +1,14 @@
 ---
 title: GetText
 second_title: Aspose.PDF for .NET API 参考
-description: 将文本保存到文件另见ExtractTextaspose.pdf.facades/pdfextractor/extracttext
+description: 将文本保存到文件也可以看看ExtractTextaspose.pdf.facades/pdfextractor/extracttext
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.facades/pdfextractor/gettext/
 ---
 ## GetText(string) {#gettext_2}
 
-将文本保存到文件。另见:[`ExtractText`](../extracttext)
+将文本保存到文件。也可以看看：[`ExtractText`](../extracttext)
 
 ```csharp
 public void GetText(string outputFile)
@@ -28,7 +28,7 @@ public void GetText(string outputFile)
 
 ## GetText(Stream) {#gettext}
 
-将文本保存到流。另见:[`ExtractText`](../extracttext)
+将文本保存到流中。也可以看看：[`ExtractText`](../extracttext)
 
 ```csharp
 public void GetText(Stream outputStream)
@@ -36,7 +36,7 @@ public void GetText(Stream outputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存文本的流。 |
+| outputStream | Stream | 用于保存文本的流。 |
 
 ### 也可以看看
 
@@ -48,7 +48,7 @@ public void GetText(Stream outputStream)
 
 ## GetText(Stream, bool) {#gettext_1}
 
-将文本保存到流。另见:[`ExtractText`](../extracttext)
+将文本保存到流中。也可以看看：[`ExtractText`](../extracttext)
 
 ```csharp
 public void GetText(Stream outputStream, bool filterNotAscii)
@@ -56,7 +56,7 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存文本的流。 |
+| outputStream | Stream | 用于保存文本的流。 |
 | filterNotAscii | Boolean | 如果此参数为真，所有非 ASCII 符号将被删除 |
 
 ### 也可以看看

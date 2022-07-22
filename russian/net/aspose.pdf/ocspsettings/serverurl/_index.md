@@ -1,14 +1,14 @@
 ---
 title: ServerUrl
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает URL-адрес сервера ocsp.
+description: Получает/задает URL-адрес сервера ocsp.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/ocspsettings/serverurl/
 ---
 ## OcspSettings.ServerUrl property
 
-Получает/устанавливает URL-адрес сервера ocsp.
+Получает/задает URL-адрес сервера ocsp.
 
 ```csharp
 public string ServerUrl { get; set; }

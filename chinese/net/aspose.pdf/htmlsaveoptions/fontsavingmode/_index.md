@@ -1,14 +1,14 @@
 ---
 title: FontSavingMode
 second_title: Aspose.PDF for .NET API 参考
-description: 定义将 PDF 保存为所需格式时使用的字体保存模式
+description: 定义在将 PDF 保存为所需格式期间将使用的字体保存模式
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf/htmlsaveoptions/fontsavingmode/
 ---
 ## HtmlSaveOptions.FontSavingMode field
 
-定义将 PDF 保存为所需格式时使用的字体保存模式
+定义在将 PDF 保存为所需格式期间将使用的字体保存模式
 
 ```csharp
 public FontSavingModes FontSavingMode;

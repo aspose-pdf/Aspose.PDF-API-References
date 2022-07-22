@@ -16,7 +16,7 @@ public SetMiterLimit(double miterLimit)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| miterLimit | Double | Предел Mitel. |
+| miterLimit | Double | Предел Мителя. |
 
 ### Смотрите также
 

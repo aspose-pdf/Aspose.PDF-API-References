@@ -25,15 +25,15 @@ public class ExternalSignature : Signature
 | Имя | Описание |
 | --- | --- |
 | [Authority](../../aspose.pdf.forms/signature/authority) { get; set; } | Имя лица или органа, подписавшего документ. |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange) { get; } | Массив пар целых чисел (начальное смещение в байтах, длина в байтах) который должен описывать точный диапазон байтов для вычисления дайджеста. |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange) { get; } | Массив пар целых чисел (начальное смещение в байтах, длина в байтах) , который должен описывать точный диапазон байтов для вычисления дайджеста. |
 | [Certificate](../../aspose.pdf.forms/externalsignature/certificate) { get; } | Сертификат с закрытым ключом. |
 | [ContactInfo](../../aspose.pdf.forms/signature/contactinfo) { get; set; } | Информация, предоставленная подписывающей стороной, чтобы получатель мог связаться с подписывающей стороной для проверки подписи, например номер телефона. |
-| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance) { get; set; } | Получает/устанавливает пользовательский внешний вид. |
+| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance) { get; set; } | Получает/задает пользовательский внешний вид. |
 | [Date](../../aspose.pdf.forms/signature/date) { get; set; } | Время подписания. |
 | [Location](../../aspose.pdf.forms/signature/location) { get; set; } | Имя хоста ЦП или физическое расположение подписи. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings) { get; set; } | Получает/устанавливает настройки ocsp. |
-| [Reason](../../aspose.pdf.forms/signature/reason) { get; set; } | Причина подписания, например (согласен). |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties) { get; set; } | Принудительно показать/скрыть свойства подписи. В случае, если ShowProperties имеет значение true, поле подписи имеет предопределенный формат отображения (строки для представления): ------------------ ------------------------- Цифровая подпись {субъект сертификата} Дата:{подпись .Date} Reason:{signature.Reason} Location:{signature.Location} ------------ ------------------------------- где {X} - заполнитель для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию имеет значение true. |
+| [Reason](../../aspose.pdf.forms/signature/reason) { get; set; } | Причина подписания, типа (согласен). |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties) { get; set; } | Принудительно показать/скрыть свойства подписи. В случае, если ShowProperties имеет значение true, поле подписи имеет предопределенный формат отображения (строки для представления): --------------------- ---------------------- Цифровая подпись {субъект сертификата} Дата: {signature.Date} Причина: {signature.Reason} Местоположение: { подпись.Расположение} ---------------------------------------------------------- где {X} является заполнителем для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию имеет значение true. |
 | [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings) { get; set; } | Получает/устанавливает настройки метки времени. |
 | [UseLtv](../../aspose.pdf.forms/signature/useltv) { get; set; } | Получает/устанавливает флаг проверки LTV. |
 

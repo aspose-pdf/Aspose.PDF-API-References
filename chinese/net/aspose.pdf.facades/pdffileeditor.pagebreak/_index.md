@@ -18,7 +18,7 @@ public class PageBreak
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PageBreak](pagebreak)(int, double) | 构造函数来创建 PageBreak 对象。 |
+| [PageBreak](pagebreak)(int, double) | 创建 PageBreak 对象的构造函数。 |
 
 ## 特性
 

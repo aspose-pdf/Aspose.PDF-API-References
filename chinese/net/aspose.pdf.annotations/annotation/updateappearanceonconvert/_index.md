@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/
 ---
 ## Annotation.UpdateAppearanceOnConvert property
 
-如果为真，注释外观将在将 PF 文档转换为图像之前更新。这允许正确转换字段，但可能需要更多时间。
+如果为真，注释外观将在将 PF 文档转换为图像之前更新。这允许正确转换字段但可能需要更多时间。
 
 ```csharp
 public static bool UpdateAppearanceOnConvert { get; set; }

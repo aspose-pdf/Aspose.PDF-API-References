@@ -1,14 +1,14 @@
 ---
 title: StrokingColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置TextFragmentaspose.pdf.text/textfragment渲染描边文本矩形边框的颜色描边操作
+description: 获取或设置颜色描边操作TextFragmentaspose.pdf.text/textfragment渲染描边文本矩形边框
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.text/textfragmentstate/strokingcolor/
 ---
 ## TextFragmentState.StrokingColor property
 
-获取或设置[`TextFragment`](../../textfragment)渲染（描边文本，矩形边框）的颜色描边操作
+获取或设置颜色描边操作[`TextFragment`](../../textfragment)渲染（描边文本，矩形边框）
 
 ```csharp
 public override Color StrokingColor { get; set; }

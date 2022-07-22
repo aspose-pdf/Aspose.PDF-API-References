@@ -1,14 +1,14 @@
 ---
 title: PdfBookmarkEditor
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый объектPdfBookmarkEditoraspose.pdf.facades/pdfbookmarkeditor.
+description: Инициализирует новыйPdfBookmarkEditoraspose.pdf.facades/pdfbookmarkeditor объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
 ---
 ## PdfBookmarkEditor() {#constructor}
 
-Инициализирует новый объект[`PdfBookmarkEditor`](../../pdfbookmarkeditor).
+Инициализирует новый[`PdfBookmarkEditor`](../../pdfbookmarkeditor) объект.
 
 ```csharp
 public PdfBookmarkEditor()
@@ -24,7 +24,7 @@ public PdfBookmarkEditor()
 
 ## PdfBookmarkEditor(Document) {#constructor_1}
 
-Инициализирует новый[`PdfBookmarkEditor`](../../pdfbookmarkeditor)объект на основе*document*.
+Инициализирует новый[`PdfBookmarkEditor`](../../pdfbookmarkeditor) объект на базе*document* .
 
 ```csharp
 public PdfBookmarkEditor(Document document)
@@ -32,7 +32,7 @@ public PdfBookmarkEditor(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

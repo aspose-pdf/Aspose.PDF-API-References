@@ -1,14 +1,14 @@
 ---
 title: Modified
 second_title: Aspose.PDF for .NET API 参考
-description: 根据上次更新时的文档内容更改标识符
+description: 根据文档上次更新时的内容更改标识符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/id/modified/
 ---
 ## Id.Modified property
 
-根据上次更新时的文档内容更改标识符。
+根据文档上次更新时的内容更改标识符。
 
 ```csharp
 public string Modified { get; }

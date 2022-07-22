@@ -1,14 +1,14 @@
 ---
 title: CaretAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор для использования в генераторе.
+description: Конструктор для использования в Generator.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/caretannotation/caretannotation/
 ---
 ## CaretAnnotation(Document) {#constructor}
 
-Конструктор для использования в генераторе.
+Конструктор для использования в Generator.
 
 ```csharp
 public CaretAnnotation(Document document)

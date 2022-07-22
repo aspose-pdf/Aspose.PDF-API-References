@@ -1,14 +1,14 @@
 ---
 title: BlockTextOperator
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/blocktextoperator/blocktextoperator/
 ---
 ## BlockTextOperator() {#constructor}
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public BlockTextOperator()
@@ -24,7 +24,7 @@ public BlockTextOperator()
 
 ## BlockTextOperator(TextProperties) {#constructor_1}
 
-初始化接受 TextProperties 的 BlockTextOperator。
+初始化接受 TextProperties. 的 BlockTextOperator
 
 ```csharp
 public BlockTextOperator(TextProperties textProperties)

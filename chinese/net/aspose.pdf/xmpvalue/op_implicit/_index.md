@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Aspose.PDF for .NET API 参考
-description: 将字符串转换为 XmpValue
+description: 将字符串转换为 XmpValue.
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf/xmpvalue/op_implicit/
 ---
 ## implicit operator {#op_implicit_4}
 
-将字符串转换为 XmpValue。
+将字符串转换为 XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(string value)
@@ -20,7 +20,7 @@ public static implicit operator XmpValue(string value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ XmlValue。
 
 ## implicit operator {#op_implicit_1}
 
-将整数转换为 XmpValue。
+将整数转换为 XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(int value)
@@ -44,7 +44,7 @@ public static implicit operator XmpValue(int value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 
@@ -56,7 +56,7 @@ XmlValue。
 
 ## implicit operator {#op_implicit}
 
-将双精度转换为 XmpValue。
+将 double 转换为 XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(double value)
@@ -68,7 +68,7 @@ public static implicit operator XmpValue(double value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 
@@ -80,7 +80,7 @@ XmlValue。
 
 ## implicit operator {#op_implicit_2}
 
-将 DateTime 转换为 XmpValue。
+将 DateTime 转换为 XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(DateTime value)
@@ -92,7 +92,7 @@ public static implicit operator XmpValue(DateTime value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 
@@ -104,7 +104,7 @@ XmlValue。
 
 ## implicit operator {#op_implicit_3}
 
-将数组转换为 XmpValue。
+将数组转换为 XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(object[] value)
@@ -116,7 +116,7 @@ public static implicit operator XmpValue(object[] value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 

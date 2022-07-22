@@ -16,7 +16,7 @@ public void DelListItem(string fieldName, string itemName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 字段名称。 |
+| fieldName | String | 字段的名称。 |
 | itemName | String | 必须删除的项目的名称。 |
 
 ### 例子

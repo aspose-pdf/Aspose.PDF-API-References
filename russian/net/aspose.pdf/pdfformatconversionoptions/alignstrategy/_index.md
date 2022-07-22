@@ -1,14 +1,14 @@
 ---
 title: AlignStrategy
 second_title: Aspose.PDF для справочника API .NET
-description: Стратегия выравнивания текста. Этот параметр имеет смысл только тогда когда для флагаAlignTextaspose.pdf/pdfformatconversionoptions/aligntextустановлено значение true.
+description: Стратегия выравнивания текста. Этот параметр имеет смысл только при флагеAlignTextaspose.pdf/pdfformatconversionoptions/aligntext установлено значение true.
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
 ---
 ## PdfFormatConversionOptions.AlignStrategy field
 
-Стратегия выравнивания текста. Этот параметр имеет смысл только тогда, когда для флага[`AlignText`](../aligntext)установлено значение true.
+Стратегия выравнивания текста. Этот параметр имеет смысл только при флаге[`AlignText`](../aligntext) установлено значение true.
 
 ```csharp
 public SegmentAlignStrategy AlignStrategy;

@@ -16,7 +16,7 @@ public bool Strip(string inputFile, string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 包含文档的文件。 |
+| inputFile | String | 文件包含文件。 |
 | outputFile | String | 将存储文档的文件。 |
 
 ### 返回值
@@ -42,7 +42,7 @@ public bool Strip(Stream inStream, Stream outStream)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inStream | Stream | 包含文档的流。 |
-| outStream | Stream | 存储文档的流。 |
+| outStream | Stream | 将存储文档的流。 |
 
 ### 返回值
 

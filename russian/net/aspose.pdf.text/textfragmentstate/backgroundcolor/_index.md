@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает цвет фона текста представленного объектомTextFragmentaspose.pdf.text/textfragment
+description: Устанавливает цвет фона текста представленногоTextFragmentaspose.pdf.text/textfragment объект
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textfragmentstate/backgroundcolor/
 ---
 ## TextFragmentState.BackgroundColor property
 
-Устанавливает цвет фона текста, представленного объектом[`TextFragment`](../../textfragment)
+Устанавливает цвет фона текста, представленного[`TextFragment`](../../textfragment) объект
 
 ```csharp
 public override Color BackgroundColor { get; set; }

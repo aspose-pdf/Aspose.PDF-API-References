@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет равен ли указанный объект текущему объектуPositionaspose.pdf.text/position.
+description: Определяет равен ли указанный объект текущемуPositionaspose.pdf.text/position объект.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/position/equals/
 ---
 ## Position.Equals method
 
-Определяет, равен ли указанный объект текущему объекту[`Position`](../../position).
+Определяет, равен ли указанный объект текущему[`Position`](../../position) объект.
 
 ```csharp
 public override bool Equals(object obj)

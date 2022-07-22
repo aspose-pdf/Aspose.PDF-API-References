@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_Warichu
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 RubyPositionWarichu - RT 和相关的 RP 元素应格式化为 warichu紧跟 RB 元素
+description: 属性 RubyPosition Warichu - RT 和相关的 RP 元素应格式化为 warichu在 RB 元素之后
 type: docs
 weight: 510
 url: /zh/net/aspose.pdf.logicalstructure/attributename/rubyposition_warichu/
 ---
 ## AttributeName.RubyPosition_Warichu field
 
-属性 RubyPosition:Warichu - RT 和相关的 RP 元素应格式化为 warichu，紧跟 RB 元素。
+属性 RubyPosition: Warichu - RT 和相关的 RP 元素应格式化为 warichu，在 RB 元素之后。
 
 ```csharp
 public static readonly AttributeName RubyPosition_Warichu;

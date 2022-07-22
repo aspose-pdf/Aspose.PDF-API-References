@@ -1,14 +1,14 @@
 ---
 title: ITextElement
 second_title: Aspose.PDF for .NET API 参考
-description: 用于呈现文本结构元素的接口
+description: 呈现文本结构元素的接口
 type: docs
 weight: 4240
 url: /zh/net/aspose.pdf.logicalstructure/itextelement/
 ---
 ## ITextElement interface
 
-用于呈现文本结构元素的接口。
+呈现文本结构元素的接口。
 
 ```csharp
 public interface ITextElement
@@ -18,7 +18,7 @@ public interface ITextElement
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate) { get; } | 获取StructureTextState文本结构元素的对象。 |
+| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate) { get; } | 获取StructureTextState文本结构元素的对象. |
 
 ## 方法
 

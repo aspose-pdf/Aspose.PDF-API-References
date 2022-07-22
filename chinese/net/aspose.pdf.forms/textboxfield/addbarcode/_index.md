@@ -16,7 +16,7 @@ public void AddBarcode(string code)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| code | String | 生成条形码的文本 128. |
+| code | String | 生成条码的文本 128. |
 
 ### 也可以看看
 

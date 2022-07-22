@@ -1,14 +1,14 @@
 ---
 title: CrossSectionsArray
 second_title: Aspose.PDF для справочника API .NET
-description: Получает массив поперечных сечений вида.
+description: Получает массив поперечных сечений представления.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/
 ---
 ## PDF3DView.CrossSectionsArray property
 
-Получает массив поперечных сечений вида.
+Получает массив поперечных сечений представления.
 
 ```csharp
 public PDF3DCrossSectionArray CrossSectionsArray { get; }
@@ -16,7 +16,7 @@ public PDF3DCrossSectionArray CrossSectionsArray { get; }
 
 ### Стоимость имущества
 
-Массив сечений вида.
+Массив поперечных сечений.
 
 ### Смотрите также
 

@@ -18,7 +18,7 @@ public sealed class Point
 
 | Имя | Описание |
 | --- | --- |
-| [Point](point)(double, double) | Инициализирует новый экземпляр[`Point`](../point). |
+| [Point](point)(double, double) | Инициализирует новый экземпляр[`Point`](../point) . |
 
 ## Характеристики
 

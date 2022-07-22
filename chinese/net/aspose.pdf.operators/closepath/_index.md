@@ -18,7 +18,7 @@ public class ClosePath : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClosePath](closepath)() | 初始化运算符。 |
+| [ClosePath](closepath)() | 初始化操作符。 |
 
 ## 特性
 

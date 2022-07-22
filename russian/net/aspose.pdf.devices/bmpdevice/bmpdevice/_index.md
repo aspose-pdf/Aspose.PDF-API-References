@@ -1,14 +1,14 @@
 ---
 title: BmpDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаBmpDeviceaspose.pdf.devices/bmpdeviceс разрешением по умолчанию.
+description: Инициализирует новый экземплярBmpDeviceaspose.pdf.devices/bmpdevice класс с разрешением по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 ---
 ## BmpDevice() {#constructor}
 
-Инициализирует новый экземпляр класса[`BmpDevice`](../../bmpdevice)с разрешением по умолчанию.
+Инициализирует новый экземпляр[`BmpDevice`](../../bmpdevice) класс с разрешением по умолчанию.
 
 ```csharp
 public BmpDevice()
@@ -24,7 +24,7 @@ public BmpDevice()
 
 ## BmpDevice(Resolution) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`BmpDevice`](../../bmpdevice).  Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)class .
+Инициализирует новый экземпляр[`BmpDevice`](../../bmpdevice) класс.  Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс.
 
 ```csharp
 public BmpDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public BmpDevice(Resolution resolution)
 
 ## BmpDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`BmpDevice`](../../bmpdevice)с предоставленными размерами изображения и разрешающая способность.
+Инициализирует новый экземпляр[`BmpDevice`](../../bmpdevice) класс с предоставленными размерами изображения и разрешением .
 
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
@@ -51,7 +51,7 @@ public BmpDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 
@@ -64,7 +64,7 @@ public BmpDevice(int width, int height, Resolution resolution)
 
 ## BmpDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`BmpDevice`](../../bmpdevice)с указанным размером страницы и разрешающая способность.
+Инициализирует новый экземпляр[`BmpDevice`](../../bmpdevice)класс с предоставленным размером страницы и разрешением .
 
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
@@ -73,7 +73,7 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 
@@ -87,7 +87,7 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 
 ## BmpDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`BmpDevice`](../../bmpdevice)с предоставленными размерами изображения, разрешение по умолчанию (=150).
+Инициализирует новый экземпляр[`BmpDevice`](../../bmpdevice) класс с предоставленными размерами изображения, разрешение по умолчанию (= 150).
 
 ```csharp
 public BmpDevice(int width, int height)
@@ -108,7 +108,7 @@ public BmpDevice(int width, int height)
 
 ## BmpDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`BmpDevice`](../../bmpdevice)с заданным размером страницы, разрешение по умолчанию (=150).
+Инициализирует новый экземпляр[`BmpDevice`](../../bmpdevice) class с предоставленным размером страницы, разрешением по умолчанию (=150).
 
 ```csharp
 public BmpDevice(PageSize pageSize)

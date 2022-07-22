@@ -1,14 +1,14 @@
 ---
 title: EffectIntensity
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает интенсивность эффекта. Допустимый диапазон значений0..2.
+description: Получает или задает интенсивность эффекта. Допустимый диапазон значений 0..2.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/border/effectintensity/
 ---
 ## Border.EffectIntensity property
 
-Получает или устанавливает интенсивность эффекта. Допустимый диапазон значений:[0..2].
+Получает или задает интенсивность эффекта. Допустимый диапазон значений: [0..2].
 
 ```csharp
 public int EffectIntensity { get; set; }

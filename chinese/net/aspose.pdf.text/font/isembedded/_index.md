@@ -1,14 +1,14 @@
 ---
 title: IsEmbedded
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示是否嵌入字体的值
+description: 获取或设置一个指示字体是否嵌入的值
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/font/isembedded/
 ---
 ## Font.IsEmbedded property
 
-获取或设置指示是否嵌入字体的值。
+获取或设置一个指示字体是否嵌入的值。
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,26 +16,26 @@ public bool IsEmbedded { get; set; }
 
 ### 例子
 
-以下示例演示如何查找字体，将其标记为嵌入，在文档的页面并替换文本字体。
+以下示例演示如何查找字体、将其标记为嵌入、在文档页面上搜索文本并替换文本字体。
 
 ```csharp
-// 创建字体并将其标记为embedded
-nt font = FontRepository.FindFont("Arial");
-nt.IsEmbedded = true;
+// 创建字体并将其标记为嵌入
+Font font = FontRepository.FindFont("Arial");
+font.IsEmbedded = true;
 
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
- 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 更改第一个文本出现的字体
-sorber.TextFragments[1].TextState.Font = font;
+absorber.TextFragments[1].TextState.Font = font;
 
- 保存文档
-c.Save(@"D:\Tests\output.pdf"); 
+// 保存文档
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### 也可以看看

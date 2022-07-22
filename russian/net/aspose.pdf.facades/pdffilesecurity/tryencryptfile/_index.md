@@ -1,14 +1,14 @@
 ---
 title: TryEncryptFile
 second_title: Aspose.PDF для справочника API .NET
-description: Шифрует Pdf-файл с помощью пароля пользователя и владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой если введенный пароль владельца нулевой или пустой. Не генерирует исключение в случае сбоя процесса.
+description: Шифрует файл Pdf с помощью пароля пользователя и пароля владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен на случайной строкой если введенный пароль владельца пуст или пуст.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 ---
 ## PdfFileSecurity.TryEncryptFile method
 
-Шифрует Pdf-файл с помощью пароля пользователя и владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если введенный пароль владельца нулевой или пустой. Не генерирует исключение в случае сбоя процесса.
+Шифрует файл Pdf с помощью пароля пользователя и пароля владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен на случайной строкой, если введенный пароль владельца пуст или пуст.
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -17,27 +17,27 @@ public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пароль пользователя. |
+| userPassword | String | Пользовательский пароль. |
 | ownerPassword | String | Пароль владельца. |
-| привилегия | DocumentPrivilege | Установить привилегию. |
+| privilege | DocumentPrivilege | Установить привилегию. |
 | keySize | KeySize | KeySize.x40 для 40-битного шифрования, KeySize.x128 для 128-битного шифрования и KeySize.x256 для 256-битного шифрования. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";  // TestPath может быть переназначен.
-string outFile = "D:\\output.pdf"; // TestPath может быть переназначен. 
+string inFile = "D:\\input.pdf"; // TestPath может быть переназначен.
+string outFile = "D:\\output.pdf"; // TestPath может быть переназначен.	
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 bool result = fileSecurity.TryEncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'TestPath может быть переназначен.
-Dim outFile As String = "D:\\output.pdf"   'TestPath может быть переназначен. 
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```

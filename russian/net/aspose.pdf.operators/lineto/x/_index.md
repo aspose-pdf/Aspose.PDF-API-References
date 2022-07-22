@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.PDF для справочника API .NET
-description: Координата X точки линии.
+description: X координата точки линии.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/lineto/x/
 ---
 ## LineTo.X property
 
-Координата X точки линии.
+X координата точки линии.
 
 ```csharp
 public double X { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Matrix
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表格的矩阵
+description: 获取或设置形式的矩阵
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/xform/matrix/
 ---
 ## XForm.Matrix property
 
-获取或设置表格的矩阵。
+获取或设置形式的矩阵。
 
 ```csharp
 public Matrix Matrix { get; set; }

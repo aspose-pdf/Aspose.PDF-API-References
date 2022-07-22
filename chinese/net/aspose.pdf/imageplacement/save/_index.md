@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/imageplacement/save/
 ---
 ## Save(Stream) {#save}
 
-保存带有相应变换的图像:缩放、旋转和分辨率。
+保存带有相应变换的图像：缩放、旋转和分辨率。
 
 ```csharp
 public void Save(Stream stream)
@@ -28,7 +28,7 @@ public void Save(Stream stream)
 
 ## Save(Stream, ImageFormat) {#save_1}
 
-保存带有相应变换的图像:缩放、旋转和分辨率。
+保存带有相应变换的图像：缩放、旋转和分辨率。
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
@@ -37,7 +37,7 @@ public void Save(Stream stream, ImageFormat format)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 将保存图像的流 |
-| format | ImageFormat | 格式这将用于图像编码。ImageFormat |
+| format | ImageFormat | 将用于图像编码的格式。ImageFormat |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Role_cb
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут Рольcb - Флажок.
+description: Роль атрибута cb  флажок.
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.logicalstructure/attributename/role_cb/
 ---
 ## AttributeName.Role_cb field
 
-Атрибут Роль:cb - Флажок.
+Роль атрибута: cb — флажок.
 
 ```csharp
 public static readonly AttributeName Role_cb;

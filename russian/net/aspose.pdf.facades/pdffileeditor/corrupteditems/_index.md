@@ -1,14 +1,27 @@
 ---
 title: CorruptedItems
 second_title: Aspose.PDF для справочника API .NET
-description: Массив проблем возникших при выполнении конкатенации. Для каждого поврежденного документа из переданного в функцию Concatenate создается новая запись CorruptedItem. Это свойство можно использовать только если CorruptedFileAction имеет значение ConcatenateIgnoringCorrupted.  ltкодgt //объединить документы и показать информацию о поврежденных документах PdfFileEditor pfe  new PdfFileEditor pfe.CorruptedFileAction  PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted if pfe.CorruptedItems.Length gt0  foreach элемент PdfFileEditor.CorruptedItem в pfe.CorruptedItems  Console.WriteLineitem.Index  причина  item.Exception   lt/codegt
+description: Массив проблем возникших при выполнении конкатенации. Для каждого поврежденного документа из переданного в функцию Concatenate создается новая запись CorruptedItem. Это свойство может использоваться только в том случае если CorruptedFileAction имеет значение ConcatenateIgnoringCorrupted.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffileeditor/corrupteditems/
 ---
 ## PdfFileEditor.CorruptedItems property
 
-Массив проблем, возникших при выполнении конкатенации. Для каждого поврежденного документа из переданного в функцию Concatenate() создается новая запись CorruptedItem. Это свойство можно использовать, только если CorruptedFileAction имеет значение ConcatenateIgnoringCorrupted.  &lt;код&gt; //объединить документы и показать информацию о поврежденных документах PdfFileEditor pfe = new PdfFileEditor(); pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted; if (pfe.CorruptedItems.Length &gt;0) { foreach (элемент PdfFileEditor.CorruptedItem в pfe.CorruptedItems) { Console.WriteLine(item.Index + "причина:" + item.Exception); } } &lt;/code&gt;
+Массив проблем, возникших при выполнении конкатенации. Для каждого поврежденного документа из переданного в функцию Concatenate() создается новая запись CorruptedItem. Это свойство может использоваться только в том случае, если CorruptedFileAction имеет значение ConcatenateIgnoringCorrupted.
+
+```csharp
+//объединить документы и показать информацию о поврежденных документах
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted;
+if (pfe.CorruptedItems.Length >0)
+{
+  foreach(PdfFileEditor.CorruptedItem item in pfe.CorruptedItems)
+  {
+     Console.WriteLine(item.Index + " reason: " + item.Exception);
+  }
+}
+```
 
 ```csharp
 public CorruptedItem[] CorruptedItems { get; }

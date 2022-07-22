@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTabStopaspose.pdf.text/tabstopс указанной позицией и добавьте его в коллекцию TabStops.
+description: Инициализирует новый экземплярTabStopaspose.pdf.text/tabstop класс с указанной позицией и добавить его в коллекцию TabStops.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/tabstops/count/
 ---
 ## TabStops.Count property
 
-Инициализирует новый экземпляр класса[`TabStop`](../../tabstop)с указанной позицией и добавьте его в коллекцию TabStops.
+Инициализирует новый экземпляр[`TabStop`](../../tabstop) класс с указанной позицией и добавить его в коллекцию TabStops.
 
 ```csharp
 public int Count { get; }
@@ -16,11 +16,11 @@ public int Count { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| position | Позиция позиции табуляции. |
+| position | Положение табуляции. |
 
 ### Возвращаемое значение
 
-Новый объект[`TabStop`](../../tabstop).
+Новый[`TabStop`](../../tabstop) объект.
 
 ### Смотрите также
 

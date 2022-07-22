@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: 获取集合的枚举器
+description: 获取集合的枚举数
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/rows/getenumerator/
 ---
 ## Rows.GetEnumerator method
 
-获取集合的枚举器
+获取集合的枚举数
 
 ```csharp
 public IEnumerator<Row> GetEnumerator()

@@ -1,14 +1,14 @@
 ---
 title: InvalidFileFormatException
 second_title: Aspose.PDF для справочника API .NET
-description: Исключение возникающее когда файл недействителен.
+description: Исключение которое возникает когда файл недействителен.
 type: docs
 weight: 3850
 url: /ru/net/aspose.pdf/invalidfileformatexception/
 ---
 ## InvalidFileFormatException class
 
-Исключение, возникающее, когда файл недействителен.
+Исключение, которое возникает, когда файл недействителен.
 
 ```csharp
 public class InvalidFileFormatException : PdfException
@@ -18,10 +18,10 @@ public class InvalidFileFormatException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidFileFormatException](invalidfileformatexception#constructor)() | Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../invalidfileformatexception). |
-| [InvalidFileFormatException](invalidfileformatexception#constructor_1)(Exception) | Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../invalidfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [InvalidFileFormatException](invalidfileformatexception#constructor_2)(string) | Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../invalidfileformatexception). |
-| [InvalidFileFormatException](invalidfileformatexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../invalidfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidFileFormatException](invalidfileformatexception#constructor)() | Инициализирует новый экземпляр[`InvalidFileFormatException`](../invalidfileformatexception) класс. |
+| [InvalidFileFormatException](invalidfileformatexception#constructor_1)(Exception) | Инициализирует новый экземпляр[`InvalidFileFormatException`](../invalidfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidFileFormatException](invalidfileformatexception#constructor_2)(string) | Инициализирует новый экземпляр[`InvalidFileFormatException`](../invalidfileformatexception) класс. |
+| [InvalidFileFormatException](invalidfileformatexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр[`InvalidFileFormatException`](../invalidfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

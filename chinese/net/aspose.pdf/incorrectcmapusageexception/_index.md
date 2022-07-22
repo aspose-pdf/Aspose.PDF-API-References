@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/incorrectcmapusageexception/
 ---
 ## IncorrectCMapUsageException class
 
-字体使用不正确时抛出的异常。
+字体使用不正确时抛出的异常
 
 ```csharp
 public sealed class IncorrectCMapUsageException : Exception
@@ -18,7 +18,7 @@ public sealed class IncorrectCMapUsageException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IncorrectCMapUsageException](incorrectcmapusageexception)(string) | 初始化[`IncorrectCMapUsageException`](../incorrectcmapusageexception)类的新实例。 |
+| [IncorrectCMapUsageException](incorrectcmapusageexception)(string) | 初始化[`IncorrectCMapUsageException`](../incorrectcmapusageexception)类. |
 
 ### 也可以看看
 

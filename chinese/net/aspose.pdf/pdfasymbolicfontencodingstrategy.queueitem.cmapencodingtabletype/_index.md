@@ -18,10 +18,10 @@ public enum CMapEncodingTableType : short
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| WindowsUnicodeTable | `0` | 指定 windows unicode table(3,1) - Unicode BMP-only (UCS-2) |
+| WindowsUnicodeTable | `0` | 指定 windows unicode 表 (3,1) - Unicode BMP-only (UCS-2) |
 | WindowsSymbolicTable | `1` | 指定 windows 符号表 - (3,0) |
 | MacTable | `2` | 指定mac表(1,0) |
-| UnicodeTable | `3` | 指定 unicode 表 (0,3) |
+| UnicodeTable | `3` | 指定 unicode 表(0,3) |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: FitIntoRectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则字体大小将减小以使文本适合指定的矩形
+description: 如果为 true则字体大小将减小以使文本适合指定的矩形
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.forms/field/fitintorectangle/
 ---
 ## Field.FitIntoRectangle property
 
-如果为真，则字体大小将减小以使文本适合指定的矩形。
+如果为 true，则字体大小将减小以使文本适合指定的矩形。
 
 ```csharp
 public static bool FitIntoRectangle { get; set; }

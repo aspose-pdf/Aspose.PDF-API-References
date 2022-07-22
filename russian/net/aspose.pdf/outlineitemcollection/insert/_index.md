@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Aspose.PDF для справочника API .NET
-description: Вставляет элемент структуры в коллекцию в указанном месте.
+description: Вставляет элемент схемы в коллекцию в указанном месте.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf/outlineitemcollection/insert/
 ---
 ## OutlineItemCollection.Insert method
 
-Вставляет элемент структуры в коллекцию в указанном месте.
+Вставляет элемент схемы в коллекцию в указанном месте.
 
 ```csharp
 public void Insert(int index, OutlineItemCollection outline)

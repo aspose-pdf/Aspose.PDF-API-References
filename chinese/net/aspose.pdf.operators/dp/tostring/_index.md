@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 返回运算符的文本表示
+description: 返回运算符的文本表示形式
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.operators/dp/tostring/
 ---
 ## DP.ToString method
 
-返回运算符的文本表示。
+返回运算符的文本表示形式。
 
 ```csharp
 public override string ToString()

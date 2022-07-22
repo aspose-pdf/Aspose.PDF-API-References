@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализировать новый экземпляр документа из потокаinput.
+description: Инициализировать новый экземпляр документа изinput поток.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/document/document/
 ---
 ## Document(Stream) {#constructor_1}
 
-Инициализировать новый экземпляр документа из потока*input*.
+Инициализировать новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document(Stream input)
@@ -16,7 +16,7 @@ public Document(Stream input)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf-документом. |
+| input | Stream | Поток с документом PDF. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public Document(Stream input)
 
 ## Document(Stream, string, bool) {#constructor_5}
 
-Инициализировать новый экземпляр документа из потока*input*.
+Инициализировать новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document(Stream input, string password, bool isManagedStream)
@@ -36,9 +36,9 @@ public Document(Stream input, string password, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf-документом. |
-| пароль | String | Пароль пользователя или владельца. |
-| isManagedStream | Boolean | если установлено в` true` внутренний поток закрывается перед выходом; в противном случае нет. |
+| input | Stream | Поток с документом PDF. |
+| password | String | Пароль пользователя или владельца. |
+| isManagedStream | Boolean | если установлено`истинный` внутренний поток закрывается перед выходом; в противном случае нет. |
 
 ### Смотрите также
 
@@ -50,7 +50,7 @@ public Document(Stream input, string password, bool isManagedStream)
 
 ## Document(Stream, bool) {#constructor_3}
 
-Инициализировать новый экземпляр документа из потока*input*.
+Инициализировать новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
@@ -58,8 +58,8 @@ public Document(Stream input, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf-документом. |
-| isManagedStream | Boolean | если установлено в` true` внутренний поток закрывается перед выходом; в противном случае нет. |
+| input | Stream | Поток с документом PDF. |
+| isManagedStream | Boolean | если установлено`истинный` внутренний поток закрывается перед выходом; в противном случае нет. |
 
 ### Смотрите также
 
@@ -71,7 +71,7 @@ public Document(Stream input, bool isManagedStream)
 
 ## Document(string) {#constructor_6}
 
-Просто запустите документ, используя*filename*. То же, что[`Document`](../document).
+Просто запустите документ, используя*filename* . Такой же как[`Document`](../document) .
 
 ```csharp
 public Document(string filename)
@@ -91,7 +91,7 @@ public Document(string filename)
 
 ## Document(Stream, string) {#constructor_4}
 
-Инициализировать новый экземпляр документа из потока*input*.
+Инициализировать новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document(Stream input, string password)
@@ -99,8 +99,8 @@ public Document(Stream input, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Объект входного потока, соответствующий pdf защищен паролем. |
-| пароль | String | Пароль пользователя или владельца. |
+| input | Stream | Объект входного потока, соответствующий PDF-файл защищен паролем. |
+| password | String | Пароль пользователя или владельца. |
 
 ### Смотрите также
 
@@ -137,7 +137,7 @@ public Document(string filename, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filename | String | Входной файл для преобразования в документ PDF. |
-| options | LoadOptions | Представляет свойства для преобразования*имяфайла*в документ PDF. |
+| options | LoadOptions | Представляет свойства для преобразования*filename* в pdf-документ. |
 
 ### Смотрите также
 
@@ -159,7 +159,7 @@ public Document(Stream input, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | input | Stream | Входной поток для преобразования в документ PDF. |
-| options | LoadOptions | Представляет свойства для преобразования*input*в документ PDF. |
+| options | LoadOptions | Представляет свойства для преобразования*input* в pdf-документ. |
 
 ### Смотрите также
 
@@ -172,7 +172,7 @@ public Document(Stream input, LoadOptions options)
 
 ## Document(string, string) {#constructor_8}
 
-Инициализирует новый экземпляр класса[`Document`](../../document)для работы с зашифрованным документом.
+Инициализирует новый экземпляр[`Document`](../../document) класс для работы с зашифрованным документом.
 
 ```csharp
 public Document(string filename, string password)
@@ -181,7 +181,7 @@ public Document(string filename, string password)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filename | String | Имя файла документа. |
-| пароль | String | Пароль пользователя или владельца. |
+| password | String | Пароль пользователя или владельца. |
 
 ### Смотрите также
 
@@ -193,7 +193,7 @@ public Document(string filename, string password)
 
 ## Document(string, string, bool) {#constructor_9}
 
-Инициализирует новый экземпляр класса[`Document`](../../document)для работы с зашифрованным документом.
+Инициализирует новый экземпляр[`Document`](../../document) класс для работы с зашифрованным документом.
 
 ```csharp
 public Document(string filename, string password, bool isManagedStream)
@@ -202,8 +202,8 @@ public Document(string filename, string password, bool isManagedStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filename | String | Имя файла документа. |
-| пароль | String | Пароль пользователя или владельца. |
-| isManagedStream | Boolean | если установлено в` true` внутренний поток закрывается перед выходом; в противном случае нет. |
+| password | String | Пароль пользователя или владельца. |
+| isManagedStream | Boolean | если установлено`истинный` внутренний поток закрывается перед выходом; в противном случае нет. |
 
 ### Смотрите также
 

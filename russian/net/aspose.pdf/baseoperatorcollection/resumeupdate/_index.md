@@ -1,14 +1,14 @@
 ---
 title: ResumeUpdate
 second_title: Aspose.PDF для справочника API .NET
-description: Возобновление обновления документа. Обновляет поток содержимого в случае наличия ожидающих изменений.
+description: Возобновляет обновление документа. Обновляет поток содержимого при наличии ожидающих изменений.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/baseoperatorcollection/resumeupdate/
 ---
 ## BaseOperatorCollection.ResumeUpdate method
 
-Возобновление обновления документа. Обновляет поток содержимого в случае наличия ожидающих изменений.
+Возобновляет обновление документа. Обновляет поток содержимого при наличии ожидающих изменений.
 
 ```csharp
 public abstract void ResumeUpdate()

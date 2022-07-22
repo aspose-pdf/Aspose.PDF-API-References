@@ -1,14 +1,14 @@
 ---
 title: ImportDataView
 second_title: Aspose.PDF для справочника API .NET
-description: Импортирует данные объектаDataViewв таблицу.
+description: ИмпортируетDataView данные объекта в таблицу.
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf/table/importdataview/
 ---
 ## Table.ImportDataView method
 
-Импортирует данные объектаDataViewв таблицу.
+ИмпортируетDataView данные объекта в таблицу.
 
 ```csharp
 public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, int firstFilledRow, 
@@ -17,11 +17,11 @@ public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceDataView | DataView | Импортируемый объектDataView. |
+| sourceDataView | DataView | DataView объект для импорта. |
 | isColumnNamesImported | Boolean | Указывает, будут ли имена столбцов импортированы как первая строка. |
 | firstFilledRow | Int32 | Отсчитываемый от нуля номер строки первой ячейки в целевой таблице, с которой начнется импорт. Если целевая таблица не содержит этой строки, она (и все предыдущие, если необходимо) будет создана |
-| firstFilledColumn | Int32 | Номер столбца, начинающийся с нуля первой ячейки в целевой таблице, с которой начнется импорт. Целевая таблица должна содержать этот столбец до начала импорта, иначе будет выдано исключение. |
-| maxRows | Int32 | Максимальное количество строк, импортируемых из исходного представления данных. |
+| firstFilledColumn | Int32 | Отсчитываемый от нуля номер столбца первой ячейки в целевой таблице, с которой начнется импорт. Целевая таблица должна содержать этот столбец до начала импорта, иначе будет выдано исключение. |
+| maxRows | Int32 | Максимальное количество строк для импорта из исходного представления данных. |
 | maxColumns | Int32 | Максимальное количество столбцов, импортируемых из исходного представления данных. |
 
 ### Смотрите также

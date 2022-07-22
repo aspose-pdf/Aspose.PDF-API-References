@@ -16,7 +16,7 @@ public void Update(Artifact artifact)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| artifact | Artifact | Артефакт для обновления. |
+| artifact | Artifact | Артефакт требует обновления. |
 
 ### Смотрите также
 

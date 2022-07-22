@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置行宽
+description: 获取或设置线条的宽度
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/setlinewidth/width/
 ---
 ## SetLineWidth.Width property
 
-获取或设置行宽。
+获取或设置线条的宽度。
 
 ```csharp
 public double Width { get; set; }

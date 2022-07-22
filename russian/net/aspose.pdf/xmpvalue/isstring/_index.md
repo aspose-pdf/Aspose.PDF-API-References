@@ -1,14 +1,14 @@
 ---
 title: IsString
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает true если значением является строка.
+description: Возвращает true если значение является строкой.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/xmpvalue/isstring/
 ---
 ## XmpValue.IsString property
 
-Возвращает true, если значением является строка.
+Возвращает true, если значение является строкой.
 
 ```csharp
 public bool IsString { get; }

@@ -1,14 +1,14 @@
 ---
 title: FormType
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисление возможных типов Acro Form.
+description: Перечень возможных типов Acro Form.
 type: docs
 weight: 3050
 url: /ru/net/aspose.pdf.forms/formtype/
 ---
 ## FormType enumeration
 
-Перечисление возможных типов Acro Form.
+Перечень возможных типов Acro Form.
 
 ```csharp
 public enum FormType
@@ -18,7 +18,7 @@ public enum FormType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Standard | `0` | Стандартный AcroForm. |
+| Standard | `0` | Стандартная акроформа. |
 | Static | `1` | Статическая форма XFA. |
 | Dynamic | `2` | Динамическая форма XFA. |
 

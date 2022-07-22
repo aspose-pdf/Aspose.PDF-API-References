@@ -1,14 +1,14 @@
 ---
 title: LinkAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Создает новую аннотацию Link на указанной странице.
+description: Создает новую аннотацию ссылки на указанной странице.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/linkannotation/linkannotation/
 ---
 ## LinkAnnotation constructor
 
-Создает новую аннотацию Link на указанной странице.
+Создает новую аннотацию ссылки на указанной странице.
 
 ```csharp
 public LinkAnnotation(Page page, Rectangle rect)

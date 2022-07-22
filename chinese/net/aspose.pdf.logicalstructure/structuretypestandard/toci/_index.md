@@ -1,34 +1,34 @@
 ---
 title: TOCI
 second_title: Aspose.PDF for .NET API 参考
-description: 目录项目录的单个成员该条目的子项可能是以下任何结构类型
+description: 目录项目录的单个成员此条目的子项可能是以下任何结构类型
 type: docs
 weight: 450
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
 ## StructureTypeStandard.TOCI field
 
-（目录项）目录的单个成员。该条目的子项可能是以下任何结构类型:
+（目录项）目录的单个成员。此条目的子项可能是以下任何结构类型：
 
-&lt;term&gt;Lbl&lt;/term&gt;
+**磅数**
 
-标签
+一个标签
 
-&lt;term&gt;参考&lt;/term&gt;
+**参考**
 
 对标题和页码的引用
 
-&lt;term&gt;NonStruct&lt; /term&gt;
+**非结构**
 
 用于包装领导工件的非结构元素
 
-&lt;term&gt;P&lt;/ term&gt;
+**磷**
 
 描述性文本
 
-&lt;term&gt;TOC&lt;/term&gt;
+**目录**
 
-分层目录的目录元素，如 TOC 条目
+分层目录的目录元素，如 TOC 条目所述
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;

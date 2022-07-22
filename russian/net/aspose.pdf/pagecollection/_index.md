@@ -19,7 +19,7 @@ public sealed class PageCollection : ICollection<Page>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf/pagecollection/count) { get; } | Получает количество страниц в документе. |
-| [IsReadOnly](../../aspose.pdf/pagecollection/isreadonly) { get; } | Получает значение, указывающее, что коллекция доступна только для чтения. Всегда возвращает ложь. |
+| [IsReadOnly](../../aspose.pdf/pagecollection/isreadonly) { get; } | Получает значение, указывающее, что коллекция доступна только для чтения. Всегда возвращает false. |
 | [IsSynchronized](../../aspose.pdf/pagecollection/issynchronized) { get; } | Возвращает истину о том, что объект синхронизирован. |
 | [Item](../../aspose.pdf/pagecollection/item) { get; } | Получает страницу по индексу. |
 | [SyncRoot](../../aspose.pdf/pagecollection/syncroot) { get; } | Получает объект синхронизации коллекции. |
@@ -28,16 +28,16 @@ public sealed class PageCollection : ICollection<Page>
 
 | Имя | Описание |
 | --- | --- |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept)(AnnotationSelector) | Принимает[`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector)объект посетителя, предоставляющий функциональные возможности для работы с аннотациями. |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_1)(ImagePlacementAbsorber) | Принимает[`ImagePlacementAbsorber`](../imageplacementabsorber)объект посетителя, предоставляющий функциональные возможности для работы с объектами размещения изображения. |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_2)(TextAbsorber) | Принимает[`TextAbsorber`](../../aspose.pdf.text/textabsorber)объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами. |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_3)(TextFragmentAbsorber) | Принимает[`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber)объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами. |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept)(AnnotationSelector) | принимает[`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector) объект посетителя, предоставляющий функциональные возможности для работы с аннотациями. |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_1)(ImagePlacementAbsorber) | принимает[`ImagePlacementAbsorber`](../imageplacementabsorber) объект посетителя, предоставляющий функциональные возможности для работы с объектами размещения изображений. |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_2)(TextAbsorber) | принимает[`TextAbsorber`](../../aspose.pdf.text/textabsorber) объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами. |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_3)(TextFragmentAbsorber) | принимает[`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber) объект посетителя, предоставляющий функциональные возможности для работы с текстовыми объектами. |
 | [Add](../../aspose.pdf/pagecollection/add#add)() | Добавляет пустую страницу |
 | [Add](../../aspose.pdf/pagecollection/add#add_3)(ICollection&lt;Page&gt;) | Добавляет в коллекцию все страницы из списка. |
 | [Add](../../aspose.pdf/pagecollection/add#add_1)(Page) | Добавляет страницу в коллекцию. |
 | [Add](../../aspose.pdf/pagecollection/add#add_2)(Page[]) | Добавляет в коллекцию все страницы из массива. |
 | [Clear](../../aspose.pdf/pagecollection/clear)() | Очистить коллекцию страниц. |
-| [Contains](../../aspose.pdf/pagecollection/contains)(Page) | Определяет, содержит ли данный экземпляр объект. |
+| [Contains](../../aspose.pdf/pagecollection/contains)(Page) | Определяет, содержит ли этот экземпляр объект. |
 | [CopyTo](../../aspose.pdf/pagecollection/copyto)(Page[], int) | Копирует страницы в документ. |
 | [Delete](../../aspose.pdf/pagecollection/delete#delete)() | Удаляет все страницы из коллекции. |
 | [Delete](../../aspose.pdf/pagecollection/delete#delete_1)(int) | Удалить указанную страницу. |
@@ -50,7 +50,7 @@ public sealed class PageCollection : ICollection<Page>
 | [Insert](../../aspose.pdf/pagecollection/insert#insert_3)(int, ICollection&lt;Page&gt;) | Вставляет страницы из коллекции в документ. |
 | [Insert](../../aspose.pdf/pagecollection/insert#insert_1)(int, Page) | Вставляет страницу в коллекцию страниц в указанном месте. |
 | [Insert](../../aspose.pdf/pagecollection/insert#insert_2)(int, Page[]) | Вставляет страницы массива в документ. |
-| [Remove](../../aspose.pdf/pagecollection/remove)(Page) | Удаляет указанный элемент, выдает NotSupportedException . |
+| [Remove](../../aspose.pdf/pagecollection/remove)(Page) | Удаляет указанный предмет, выбрасываетNotSupportedException . |
 
 ### Смотрите также
 

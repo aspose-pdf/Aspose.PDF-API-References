@@ -1,14 +1,14 @@
 ---
 title: XImage
 second_title: Aspose.PDF for .NET API 参考
-description: 表示图像 X-Object 的类
+description: 代表图像 X-Object 的类
 type: docs
 weight: 7400
 url: /zh/net/aspose.pdf/ximage/
 ---
 ## XImage class
 
-表示图像 X-Object 的类。
+代表图像 X-Object 的类。
 
 ```csharp
 public sealed class XImage
@@ -23,7 +23,7 @@ public sealed class XImage
 | [Grayscaled](../../aspose.pdf/ximage/grayscaled) { get; } | 获取图像的灰度版本。 |
 | [Height](../../aspose.pdf/ximage/height) { get; } | 获取图像的高度。 |
 | [Metadata](../../aspose.pdf/ximage/metadata) { get; } | 图像的元数据。 |
-| [Name](../../aspose.pdf/ximage/name) { get; set; } | 获取或设置图像名称。请注意，如果您更改在页面内容中有引用的图像的名称，文档可能会变得不正确。在这种情况下，请使用 XImage.Rename 方法。 |
+| [Name](../../aspose.pdf/ximage/name) { get; set; } | 获取或设置图像名称。请注意，如果您更改在页面内容中有引用的图像的名称，文档可能会变得不正确。在这种情况下请使用 XImage.Rename 方法。 |
 | [Width](../../aspose.pdf/ximage/width) { get; } | 获取图像的宽度。 |
 
 ## 方法
@@ -36,8 +36,8 @@ public sealed class XImage
 | [Rename](../../aspose.pdf/ximage/rename)(string) | 重命名图像并将对图像的所有引用替换为新名称 |
 | [Save](../../aspose.pdf/ximage/save#save)(Stream) | 将图像数据作为 JPEG 图像保存到流中。 |
 | [Save](../../aspose.pdf/ximage/save#save_2)(Stream, ImageFormat) | 以请求的格式将图像保存到流中。 |
-| [Save](../../aspose.pdf/ximage/save#save_1)(Stream, int) | 将图像数据以指定分辨率的 JPEG 图像形式保存到流中。 |
-| [Save](../../aspose.pdf/ximage/save#save_3)(Stream, ImageFormat, int) | 以指定分辨率的请求格式将图像保存到流中。 |
+| [Save](../../aspose.pdf/ximage/save#save_1)(Stream, int) | 将图像数据以指定分辨率的 JPEG 图像格式保存到流中。 |
+| [Save](../../aspose.pdf/ximage/save#save_3)(Stream, ImageFormat, int) | 将图像以指定分辨率的请求格式保存到流中。 |
 | [ToStream](../../aspose.pdf/ximage/tostream)() | 返回原始图像流。 |
 | static [DetectColorType](../../aspose.pdf/ximage/detectcolortype)(Bitmap) | 返回图像的颜色类型。 |
 

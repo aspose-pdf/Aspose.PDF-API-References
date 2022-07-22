@@ -1,14 +1,14 @@
 ---
 title: BTWIPE
 second_title: Aspose.PDF для справочника API .NET
-description: Стирание снизу-вверх
+description: Нижняя-верхняя салфетка
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
 ## PdfPageEditor.BTWIPE field
 
-Стирание снизу-вверх
+Нижняя-верхняя салфетка
 
 ```csharp
 public const int BTWIPE;

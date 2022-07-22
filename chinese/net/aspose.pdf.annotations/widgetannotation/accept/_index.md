@@ -16,7 +16,7 @@ public override void Accept(AnnotationSelector visitor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | 要接受的访客。 |
+| visitor | AnnotationSelector | 接待来访者。 |
 
 ### 也可以看看
 

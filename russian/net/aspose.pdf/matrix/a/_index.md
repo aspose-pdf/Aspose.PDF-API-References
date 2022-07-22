@@ -1,14 +1,14 @@
 ---
 title: A
 second_title: Aspose.PDF для справочника API .NET
-description: Элемент матрицы преобразования.
+description: Член матрицы преобразования.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/matrix/a/
 ---
 ## Matrix.A property
 
-Элемент матрицы преобразования.
+Член матрицы преобразования.
 
 ```csharp
 public double A { get; set; }

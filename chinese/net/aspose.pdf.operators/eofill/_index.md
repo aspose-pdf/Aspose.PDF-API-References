@@ -18,7 +18,7 @@ public class EOFill : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EOFill](eofill)() | 初始化运算符。 |
+| [EOFill](eofill)() | 初始化操作符。 |
 
 ## 特性
 

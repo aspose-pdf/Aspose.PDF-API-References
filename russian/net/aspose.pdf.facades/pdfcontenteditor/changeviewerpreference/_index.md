@@ -1,14 +1,14 @@
 ---
 title: ChangeViewerPreference
 second_title: Aspose.PDF для справочника API .NET
-description: Изменяет параметры просмотра.
+description: Изменяет настройки просмотра.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/
 ---
 ## PdfContentEditor.ChangeViewerPreference method
 
-Изменяет параметры просмотра.
+Изменяет настройки просмотра.
 
 ```csharp
 public void ChangeViewerPreference(int viewerAttribution)

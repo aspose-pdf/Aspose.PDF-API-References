@@ -1,14 +1,14 @@
 ---
 title: FormattedText
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化 FormattedText
+description: 初始化 FormattedText.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/formattedtext/formattedtext/
 ---
 ## FormattedText() {#constructor}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText()
@@ -24,7 +24,7 @@ public FormattedText()
 
 ## FormattedText(string) {#constructor_1}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text)
@@ -32,7 +32,7 @@ public FormattedText(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 包含在 FormattedText 中的文本。 |
+| text | String | FormattedText 中包含的文本。 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public FormattedText(string text)
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float) {#constructor_4}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle fontStyle, 
@@ -56,7 +56,7 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 | text | String | 字符串的文本内容。 |
 | fontColor | FontColor | 文本的颜色。 |
 | fontStyle | FontStyle | 文本的样式。 |
-| encodingType | EncodingType | 编码类型（EncodingType 枚举值）。 |
+| encodingType | EncodingType | 编码类型（EncodingType 枚举的值）。 |
 | embedded | Boolean | 如果字体将被嵌入，则为真。 |
 | textSize | Single | 文本的大小。 |
 
@@ -73,7 +73,7 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -85,10 +85,10 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 | text | String | 字符串的文本内容。 |
 | fontColor | FontColor | 文本的颜色。 |
 | textFont | FontStyle | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
+| textEncoding | EncodingType | 文本的编码。 |
 | embedded | Boolean | 如果将嵌入文本，则为真。 |
 | textSize | Single | 文本的大小。 |
-| lineSpacing | Single | 附加间距。 |
+| lineSpacing | Single | 额外的间距。 |
 
 ### 也可以看看
 
@@ -103,7 +103,7 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 ## FormattedText(string, Color, FontStyle, EncodingType, bool, float) {#constructor_6}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, Color color, FontStyle textFont, EncodingType textEncoding, 
@@ -115,7 +115,7 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 | text | String | 字符串的文本内容。 |
 | color | Color | 文本的颜色。 |
 | textFont | FontStyle | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
+| textEncoding | EncodingType | 文本的编码。 |
 | embedded | Boolean | 如果将嵌入文本，则为真。 |
 | textSize | Single | 文本的大小。 |
 
@@ -131,7 +131,7 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 ## FormattedText(string, Color, FontStyle, EncodingType, bool, float, float) {#constructor_7}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, FontStyle textFont, EncodingType textEncoding, 
@@ -143,10 +143,10 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 | text | String | 字符串的文本内容。 |
 | textColor | Color | 文本的颜色。 |
 | textFont | FontStyle | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
-| embedded | Boolean | 如果真字体将被嵌入。 |
+| textEncoding | EncodingType | 文本的编码。 |
+| embedded | Boolean | 如果将嵌入真正的字体。 |
 | textSize | Single | 文本的大小。 |
-| lineSpacing | Single | 附加间距。 |
+| lineSpacing | Single | 额外的间距。 |
 
 ### 也可以看看
 
@@ -160,7 +160,7 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 ## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) {#constructor_2}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
@@ -173,8 +173,8 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 | textColor | FontColor | 文本的颜色。 |
 | backColor | FontColor | 背景颜色。 |
 | textFont | FontStyle | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
-| embedded | Boolean | 如果真字体将被嵌入。 |
+| textEncoding | EncodingType | 文本的编码。 |
+| embedded | Boolean | 如果将嵌入真正的字体。 |
 | textSize | Single | 文本的大小。 |
 
 ### 也可以看看
@@ -190,7 +190,7 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ## FormattedText(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_3}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor textColor, FontColor backColor, FontStyle textFont, 
@@ -199,14 +199,14 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本内容。 |
+| text | String | 文字内容。 |
 | textColor | FontColor | 文本的颜色。 |
 | backColor | FontColor | 背景颜色。 |
 | textFont | FontStyle | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
-| embedded | Boolean | 如果真字体将被嵌入。 |
+| textEncoding | EncodingType | 文本的编码。 |
+| embedded | Boolean | 如果将嵌入真正的字体。 |
 | textSize | Single | 文本的大小。 |
-| lineSpacing | Single | 附加间距。 |
+| lineSpacing | Single | 额外的间距。 |
 
 ### 也可以看看
 
@@ -221,7 +221,7 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float) {#constructor_9}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
@@ -234,8 +234,8 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 | textColor | Color | 文本的颜色。 |
 | backColor | Color | 背景颜色。 |
 | textFont | FontStyle | 文本的字体。 |
-| encoding | EncodingType | 文本编码。 |
-| embedded | Boolean | 如果要嵌入字体则为真。 |
+| encoding | EncodingType | 文本的编码。 |
+| embedded | Boolean | 如果字体将被嵌入，则为真。 |
 | textSize | Single | 文本的大小。 |
 
 ### 也可以看看
@@ -250,7 +250,7 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 ## FormattedText(string, Color, Color, FontStyle, EncodingType, bool, float, float) {#constructor_10}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, FontStyle textFont, 
@@ -261,12 +261,12 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 | --- | --- | --- |
 | text | String | 字符串的文本内容。 |
 | textColor | Color | 文本的颜色。 |
-| backColor | Color | 背景颜色。 |
+| backColor | Color | 背景的颜色。 |
 | textFont | FontStyle | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
-| embedded | Boolean | 如果嵌入了真字体。 |
+| textEncoding | EncodingType | 文本的编码。 |
+| embedded | Boolean | 如果嵌入了真正的字体。 |
 | textSize | Single | 文本的大小。 |
-| lineSpacing | Single | 附加间距。 |
+| lineSpacing | Single | 额外的间距。 |
 
 ### 也可以看看
 
@@ -280,7 +280,7 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 ## FormattedText(string, Color, Color, string, EncodingType, bool, float) {#constructor_11}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor, string fontName, 
@@ -289,13 +289,13 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本内容。 |
+| text | String | 文字内容。 |
 | textColor | Color | 文本的颜色。 |
 | backColor | Color | 背景颜色。 |
 | fontName | String | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
-| embedded | Boolean | 如果真字体将被嵌入。 |
-| fontSize | Single | 文本大小。 |
+| textEncoding | EncodingType | 文本的编码。 |
+| embedded | Boolean | 如果将嵌入真正的字体。 |
+| fontSize | Single | 文本的大小。 |
 
 ### 也可以看看
 
@@ -308,7 +308,7 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 ## FormattedText(string, Color, Color) {#constructor_8}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, Color backColor)
@@ -316,7 +316,7 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本内容。 |
+| text | String | 文字内容。 |
 | textColor | Color | 文本的颜色。 |
 | backColor | Color | 背景颜色。 |
 
@@ -330,7 +330,7 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 ## FormattedText(string, Color, string, EncodingType, bool, float) {#constructor_12}
 
-初始化 FormattedText。
+初始化 FormattedText.
 
 ```csharp
 public FormattedText(string text, Color textColor, string fontName, EncodingType textEncoding, 
@@ -339,12 +339,12 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本内容。 |
+| text | String | 文字内容。 |
 | textColor | Color | 文本的颜色。 |
 | fontName | String | 文本的字体。 |
-| textEncoding | EncodingType | 文本编码。 |
-| embedded | Boolean | 如果真字体将被嵌入。 |
-| fontSize | Single | 文本大小。 |
+| textEncoding | EncodingType | 文本的编码。 |
+| embedded | Boolean | 如果将嵌入真正的字体。 |
+| fontSize | Single | 文本的大小。 |
 
 ### 也可以看看
 

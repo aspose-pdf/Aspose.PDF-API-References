@@ -1,14 +1,14 @@
 ---
 title: TextExtractionOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 为指定的文本格式化模式初始化TextExtractionOptionsaspose.pdf.text/textextractionoptions对象的新实例
+description: 初始化TextExtractionOptionsaspose.pdf.text/textextractionoptions指定文本格式模式的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textextractionoptions/textextractionoptions/
 ---
 ## TextExtractionOptions constructor
 
-为指定的文本格式化模式初始化[`TextExtractionOptions`](../../textextractionoptions)对象的新实例。
+初始化[`TextExtractionOptions`](../../textextractionoptions)指定文本格式模式的对象。
 
 ```csharp
 public TextExtractionOptions(TextFormattingMode formattingMode)

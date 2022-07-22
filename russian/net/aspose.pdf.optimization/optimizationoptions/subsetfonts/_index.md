@@ -1,14 +1,14 @@
 ---
 title: SubsetFonts
 second_title: Aspose.PDF для справочника API .NET
-description: Шрифты будут преобразованы в поднаборы если установлено значение true.
+description: Шрифты будут преобразованы в подмножества если установлено значение true.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/subsetfonts/
 ---
 ## OptimizationOptions.SubsetFonts property
 
-Шрифты будут преобразованы в поднаборы, если установлено значение true.
+Шрифты будут преобразованы в подмножества, если установлено значение true.
 
 ```csharp
 public bool SubsetFonts { get; set; }

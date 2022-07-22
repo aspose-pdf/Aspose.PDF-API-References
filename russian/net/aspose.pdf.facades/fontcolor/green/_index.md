@@ -1,14 +1,14 @@
 ---
 title: Green
 second_title: Aspose.PDF для справочника API .NET
-description: Зеленая составляющая цвета.
+description: Зеленый компонент цвета.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/fontcolor/green/
 ---
 ## FontColor.Green property
 
-Зеленая составляющая цвета.
+Зеленый компонент цвета.
 
 ```csharp
 public int Green { get; set; }

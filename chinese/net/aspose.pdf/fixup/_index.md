@@ -22,8 +22,8 @@ public enum Fixup
 | ConvertFontsToOutlines | `1` | 不支持。 |
 | DerivePageGeometryBoxesFromCropMarks | `2` | 不支持。 |
 | EmbedMissingFonts | `3` | 不支持。 |
-| RotatePagesToLandscape | `4` | 如果是纵向，则将所有页面旋转为横向 90 度。 |
-| RotatePagesToPortrait | `5` | 如果是横向，则将所有页面旋转为纵向 90 度。 |
+| RotatePagesToLandscape | `4` | 如果纵向将所有页面旋转 90 度。 |
+| RotatePagesToPortrait | `5` | 如果横向将所有页面旋转 90 度。 |
 
 ### 也可以看看
 

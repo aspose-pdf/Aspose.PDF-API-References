@@ -1,14 +1,14 @@
 ---
 title: Placement_Block
 second_title: Aspose.PDF для справочника API .NET
-description: Размещение атрибутаБлок  складывается в направлении последовательности блоков в охватывающей эталонной области или родительском BLSE.
+description: Размещение атрибута Блок  Стек в направлении последовательности блоков внутри окружающей эталонной области или родительского BLSE.
 type: docs
 weight: 350
 url: /ru/net/aspose.pdf.logicalstructure/attributename/placement_block/
 ---
 ## AttributeName.Placement_Block field
 
-Размещение атрибута:Блок — складывается в направлении последовательности блоков в охватывающей эталонной области или родительском BLSE.
+Размещение атрибута: Блок — Стек в направлении последовательности блоков внутри окружающей эталонной области или родительского BLSE.
 
 ```csharp
 public static readonly AttributeName Placement_Block;

@@ -18,16 +18,16 @@ public sealed class TextBuilder
 
 | Имя | Описание |
 | --- | --- |
-| [TextBuilder](textbuilder#constructor)(Page) | Инициализирует новый экземпляр класса[`TextBuilder`](../textbuilder)для страницы Pdf. |
-| [TextBuilder](textbuilder#constructor_1)(Page, BaseOperatorCollection) | Инициализирует новый экземпляр класса[`TextBuilder`](../textbuilder)для страницы Pdf. |
+| [TextBuilder](textbuilder#constructor)(Page) | Инициализирует новый экземпляр[`TextBuilder`](../textbuilder) класс для страницы PDF. |
+| [TextBuilder](textbuilder#constructor_1)(Page, BaseOperatorCollection) | Инициализирует новый экземпляр[`TextBuilder`](../textbuilder) класс для страницы PDF. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph)(TextParagraph) | Добавляет текстовый абзац на страницу Pdf. |
+| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph)(TextParagraph) | Добавляет текстовый абзац к странице Pdf. |
 | [AppendText](../../aspose.pdf.text/textbuilder/appendtext#appendtext_1)(List&lt;TextFragment&gt;) | Добавляет список текстовых фрагментов на страницу Pdf. |
-| [AppendText](../../aspose.pdf.text/textbuilder/appendtext#appendtext)(TextFragment) | Добавляет фрагмент текста на страницу Pdf |
+| [AppendText](../../aspose.pdf.text/textbuilder/appendtext#appendtext)(TextFragment) | Добавляет текстовый фрагмент к странице Pdf |
 
 ### Смотрите также
 

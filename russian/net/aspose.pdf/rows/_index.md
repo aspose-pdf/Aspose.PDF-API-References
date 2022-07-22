@@ -1,14 +1,14 @@
 ---
 title: Rows
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет коллекцию строк таблицы.
+description: Представляет набор строк таблицы.
 type: docs
 weight: 6260
 url: /ru/net/aspose.pdf/rows/
 ---
 ## Rows class
 
-Представляет коллекцию строк таблицы.
+Представляет набор строк таблицы.
 
 ```csharp
 public sealed class Rows : IEnumerable<Row>
@@ -25,14 +25,14 @@ public sealed class Rows : IEnumerable<Row>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf/rows/count) { get; } | Количество предметов. |
-| [Item](../../aspose.pdf/rows/item) { get; set; } | Получает или устанавливает строку. |
+| [Item](../../aspose.pdf/rows/item) { get; set; } | Получает или задает строку. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.pdf/rows/add#add)() | Добавить строку в коллекцию. |
-| [Add](../../aspose.pdf/rows/add#add_1)(Row) | Добавить строку в выделение. |
+| [Add](../../aspose.pdf/rows/add#add_1)(Row) | Добавить строку в выборку. |
 | [Dispose](../../aspose.pdf/rows/dispose)() | Утилизировать. |
 | [GetEnumerator](../../aspose.pdf/rows/getenumerator)() | Получает перечислитель коллекции |
 | [IndexOf](../../aspose.pdf/rows/indexof)(Row) | Возвращает индекс строки в коллекции. |

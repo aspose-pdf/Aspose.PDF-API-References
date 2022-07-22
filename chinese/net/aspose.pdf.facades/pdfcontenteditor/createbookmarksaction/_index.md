@@ -1,14 +1,14 @@
 ---
 title: CreateBookmarksAction
 second_title: Aspose.PDF for .NET API 参考
-description: 创建具有指定操作的书签
+description: 使用指定的操作创建书签
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
 ## PdfContentEditor.CreateBookmarksAction method
 
-创建具有指定操作的书签。
+使用指定的操作创建书签。
 
 ```csharp
 public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool italicFlag, 
@@ -19,11 +19,11 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 | --- | --- | --- |
 | title | String | 书签的标题。 |
 | color | Color | 书签标题的颜色。 |
-| boldFlag | Boolean | 加粗归属标志。 |
+| boldFlag | Boolean | 大胆归因的旗帜。 |
 | italicFlag | Boolean | 斜体归属标志。 |
 | file | String | 当操作类型为“GoToR”或“Launch”时需要另一个文件或应用程序。 |
-| actionType | String | 动作类型。该值可以是:“GoToR”、“Launch”、“GoTo”、“URI”。 |
-| destination | String | 本地目标或远程目标或 URL。 |
+| actionType | String | 动作类型。该值可以是：“GoToR”、“Launch”、“GoTo”、“URI”。 |
+| destination | String | 本地目的地或远程目的地或 URL。 |
 
 ### 例子
 

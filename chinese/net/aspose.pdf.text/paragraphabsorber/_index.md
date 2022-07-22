@@ -1,14 +1,14 @@
 ---
 title: ParagraphAbsorber
 second_title: Aspose.PDF for .NET API 参考
-description: 表示节和段落等页面结构对象的吸收器对象 搜索文本的部分和段落并提供对在文本坐标空间中描述它的矩形和多边形的访问 还执行文本段搜索并通过TextFragments按结构元素分组的集合提供对搜索结果的访问
+description: 表示页面结构对象例如部分和段落的吸收器对象 执行对文本部分和段落的搜索并提供对在文本坐标空间中描述它的矩形和多边形的访问 还执行文本段搜索并通过以下方式提供对搜索结果的访问TextFragments按结构元素分组的集合
 type: docs
 weight: 6850
 url: /zh/net/aspose.pdf.text/paragraphabsorber/
 ---
 ## ParagraphAbsorber class
 
-表示节和段落等页面结构对象的吸收器对象。 搜索文本的部分和段落，并提供对在文本坐标空间中描述它的矩形和多边形的访问。 还执行文本段搜索，并通过!:TextFragments按结构元素分组的集合提供对搜索结果的访问。
+表示页面结构对象（例如部分和段落）的吸收器对象。 执行对文本部分和段落的搜索，并提供对在文本坐标空间中描述它的矩形和多边形的访问。 还执行文本段搜索并通过以下方式提供对搜索结果的访问!:TextFragments按结构元素分组的集合。
 
 ```csharp
 public class ParagraphAbsorber
@@ -18,58 +18,58 @@ public class ParagraphAbsorber
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ParagraphAbsorber](paragraphabsorber#constructor)() | 初始化[`ParagraphAbsorber`](../paragraphabsorber)的新实例，执行文档或页面的部分/段落搜索. |
-| [ParagraphAbsorber](paragraphabsorber#constructor_1)(int) | 初始化[`ParagraphAbsorber`](../paragraphabsorber)的新实例，执行文档或页面的部分/段落搜索. |
+| [ParagraphAbsorber](paragraphabsorber#constructor)() | 初始化[`ParagraphAbsorber`](../paragraphabsorber)执行搜索文档或页面的部分/段落。 |
+| [ParagraphAbsorber](paragraphabsorber#constructor_1)(int) | 初始化[`ParagraphAbsorber`](../paragraphabsorber)执行搜索文档或页面的部分/段落。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed) { get; set; } | 获取或设置指示下一节的起始文本行是否可以视为上一节最后一段的延续的值。 |
-| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups) { get; } | 获取被吸收的[`PageMarkup`](../pagemarkup)集合。 |
-| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth) { get; set; } | 获取或设置值，该值指示将执行多少次顺序搜索更精细的结构元素。 默认搜索深度为 3。 表示对水平分割的部分（标题、段落等）进行三次搜索，对垂直分割的部分（列）进行三次搜索。 |
+| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed) { get; set; } | 获取或设置值，该值指示下一节的起始文本行是否可以视为上一节最后一段的延续。 |
+| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups) { get; } | 获取集合[`PageMarkup`](../pagemarkup)被吸收了。 |
+| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth) { get; set; } | 获取或设置值，该值指示将执行多少次顺序搜索更精细的结构元素。 默认搜索深度为 3。 这意味着对水平划分的部分（标题、段落等）进行三次搜索，对垂直划分进行三次搜索那些（列）. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit)(Document) | 在指定的[`Document`](../../aspose.pdf/document)上执行节和段落的搜索。 |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit_1)(Page) | 对指定的[`Page`](../../aspose.pdf/page)执行搜索。 |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit)(Document) | 搜索指定的节和段落[`Document`](../../aspose.pdf/document). |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit_1)(Page) | 对指定的执行搜索[`Page`](../../aspose.pdf/page). |
 
 ### 评论
 
-当搜索完成时[`PageMarkups`](./pagemarkups)集合将包含[`PageMarkup`](../pagemarkup)对象，这些对象通过[`MarkupSection`](../markupsection)的集合表示页面结构和[`MarkupParagraph`](../markupparagraph)。 [`TextFragment`](../textfragment)对象提供对搜索出现文本、文本属性的访问，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
+搜索完成后[`PageMarkups`](./pagemarkups)集合将包含[`PageMarkup`](../pagemarkup)通过集合表示页面结构的对象[`MarkupSection`](../markupsection)和[`MarkupParagraph`](../markupparagraph). 的[`TextFragment`](../textfragment)对象提供对搜索出现文本、文本属性的访问，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
 
 ### 例子
 
-该示例演示如何在第一个 PDF 文档页面上查找每个段落的第一个文本段并突出显示它。
+该示例演示如何在第一个 PDF 文档页面上找到每个段落的第一个文本段并突出显示它。
 
 ```csharp
 // 打开文档
-cument doc = new Document("input.pdf");
+Document doc = new Document("input.pdf");
 
-// 创建段落吸收器 object
-ragraphAbsorber absorber = new ParagraphAbsorber();
+// 创建 ParagraphAbsorber 对象
+ParagraphAbsorber absorber = new ParagraphAbsorber();
 
 // 接受第一页的吸收器
-sorber.Visit(doc.Pages[1]);
+absorber.Visit(doc.Pages[1]);
 
 // 获取第一页的标记对象
-geMarkup markup = absorber.PageMarkups[0];
+PageMarkup markup = absorber.PageMarkups[0];
 
 // 遍历页面文本的结构元素，找到每个段落的第一个文本片段
-reach (MarkupSection section in markup.Sections)
-
-  foreach (MarkupParagraph paragraph in section.Paragraphs)
-  {
-      TextFragment fragment = paragraph.Fragments[0];
+foreach (MarkupSection section in markup.Sections)
+{
+    foreach (MarkupParagraph paragraph in section.Paragraphs)
+    {
+        TextFragment fragment = paragraph.Fragments[0];
         // 更新文本属性
-      fragment.TextState.BackgroundColor = Color.LightBlue;
-  }
-
+        fragment.TextState.BackgroundColor = Color.LightBlue;
+    }
+}
 
 // 保存文档
-c.Save(GetOutputPath("output.pdf"));
+doc.Save(GetOutputPath("output.pdf"));
 ```
 
 ### 也可以看看

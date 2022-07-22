@@ -1,14 +1,14 @@
 ---
 title: PDF3DArtwork
 second_title: Aspose.PDF для справочника API .NET
-description: Class PDF3DArtwork.
+description: Класс PDF3DArtwork.
 type: docs
 weight: 780
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/
 ---
 ## PDF3DArtwork class
 
-Class PDF3DArtwork.
+Класс PDF3DArtwork.
 
 ```csharp
 public class PDF3DArtwork
@@ -18,14 +18,14 @@ public class PDF3DArtwork
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DArtwork](pdf3dartwork#constructor)(Document, PDF3DContent) | Инициализирует новый экземпляр класса[`PDF3DArtwork`](../pdf3dartwork). |
-| [PDF3DArtwork](pdf3dartwork#constructor_1)(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) | Инициализирует новый экземпляр класса[`PDF3DArtwork`](../pdf3dartwork). |
+| [PDF3DArtwork](pdf3dartwork#constructor)(Document, PDF3DContent) | Инициализирует новый экземпляр[`PDF3DArtwork`](../pdf3dartwork) класс. |
+| [PDF3DArtwork](pdf3dartwork#constructor_1)(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) | Инициализирует новый экземпляр[`PDF3DArtwork`](../pdf3dartwork) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme) { get; set; } | Получает или устанавливает схему освещения. |
+| [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme) { get; set; } | Получает или задает схему освещения. |
 | [RenderMode](../../aspose.pdf.annotations/pdf3dartwork/rendermode) { get; set; } | Получает или задает режим рендеринга. |
 | [ViewArray](../../aspose.pdf.annotations/pdf3dartwork/viewarray) { get; } | Получает массив представлений. |
 

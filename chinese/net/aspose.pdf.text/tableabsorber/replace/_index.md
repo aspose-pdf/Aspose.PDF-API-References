@@ -1,14 +1,14 @@
 ---
 title: Replace
 second_title: Aspose.PDF for .NET API 参考
-description: 将AbsorbedTableaspose.pdf.text/absorbedtable替换为Tableaspose.pdf/table在页面上
+description: 替换一个AbsorbedTableaspose.pdf.text/absorbedtable和Tableaspose.pdf/table在页面上
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/tableabsorber/replace/
 ---
 ## TableAbsorber.Replace method
 
-将[`AbsorbedTable`](../../absorbedtable)替换为[`Table`](../../../aspose.pdf/table)在页面上。
+替换一个[`AbsorbedTable`](../../absorbedtable)和[`Table`](../../../aspose.pdf/table)在页面上。
 
 ```csharp
 public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
@@ -17,12 +17,12 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | Pdf pocument 页面对象。 |
-| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable)被替换。 |
+| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable)将被替代。 |
 | newTable | Table | [`Table`](../../../aspose.pdf/table)替换旧表。 |
 
 ### 评论
 
-请注意它会更改 TableList 集合。如果在循环中删除/替换表，请使用 TableList 集合的副本。
+请考虑它会更改 TableList 集合。如果在循环中删除/替换表，请使用 TableList 集合的副本。
 
 ### 也可以看看
 

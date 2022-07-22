@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает строку.
+description: Получает или задает строку.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/rows/item/
 ---
 ## Rows indexer
 
-Получает или устанавливает строку.
+Получает или задает строку.
 
 ```csharp
 public Row this[int index] { get; set; }

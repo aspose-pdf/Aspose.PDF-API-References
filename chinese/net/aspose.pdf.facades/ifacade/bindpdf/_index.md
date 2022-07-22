@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF for .NET API 参考
-description: 绑定 PDF 文档进行编辑
+description: 绑定 PDF 文档以进行编辑
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/ifacade/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-绑定 PDF 文档进行编辑。
+绑定 PDF 文档以进行编辑。
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -16,7 +16,7 @@ public void BindPdf(string srcFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcFile | String | 输入PDF文档的路径。 |
+| srcFile | String | 输入 PDF 文档的路径。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-绑定 PDF 文档进行编辑。
+绑定 PDF 文档以进行编辑。
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -48,7 +48,7 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-绑定 PDF 文档进行编辑。
+绑定 PDF 文档以进行编辑。
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -56,7 +56,7 @@ public void BindPdf(Document srcDoc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcDoc | Document | 输入 PDF 文档。 |
+| srcDoc | Document | 输入 PDF 文件。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Image
 second_title: Aspose.PDF for .NET API 参考
-description: 表示图像
+description: 代表图像
 type: docs
 weight: 3720
 url: /zh/net/aspose.pdf/image/
 ---
 ## Image class
 
-表示图像。
+代表图像。
 
 ```csharp
 public sealed class Image : BaseParagraph
@@ -28,20 +28,20 @@ public sealed class Image : BaseParagraph
 | [FileType](../../aspose.pdf/image/filetype) { get; set; } | 获取或设置图像文件类型。 |
 | [FixHeight](../../aspose.pdf/image/fixheight) { get; set; } | 获取或设置图像高度。 |
 | [FixWidth](../../aspose.pdf/image/fixwidth) { get; set; } | 获取或设置图像宽度。 |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | 获取或设置段落的水平对齐方式 |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | 获取或设置片段超链接（用于 pdf 生成器）。 |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | 获取或设置段落 的水平对齐方式 |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | 获取或设置片段超链接（用于pdf生成器）。 |
 | [ImageScale](../../aspose.pdf/image/imagescale) { get; set; } | 获取或设置图像比例。 |
 | [ImageStream](../../aspose.pdf/image/imagestream) { get; set; } | 获取或设置图像流。 |
-| [IsApplyResolution](../../aspose.pdf/image/isapplyresolution) { get; set; } | 获取或设置一个布尔值，指示图像生成时是否使用分辨率 |
+| [IsApplyResolution](../../aspose.pdf/image/isapplyresolution) { get; set; } | 获取或设置一个布尔值，指示图像在生成期间是否使用分辨率 |
 | [IsBlackWhite](../../aspose.pdf/image/isblackwhite) { get; set; } | 获取或设置一个布尔值，指示图像是否强制为黑白。如果使用 CCITT 子格式的 TIFF 图像，则该属性必须设置为 true。 |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示该段落是否位于下一列。 默认为 false。（用于 pdf 生成） |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示此段落是否将在下一列。 默认为 false。（用于 pdf 生成） |
 | [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | 获取或设置段落是内联的。 默认为 false。（用于 pdf 生成） |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置强制此段落在新页面生成的布尔值。 默认为 false。（用于 pdf 生成） |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一段保持在同一页面中。 默认为 false。（用于 pdf 生成） |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置一个 bool 值，强制此段落在新页面生成。 默认为 false。（用于 pdf 生成） |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一个段落保持在同一页面中。 默认为 false。（用于 pdf 生成） |
 | [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | 获取或设置段落的外边距（用于生成 pdf） |
-| [Title](../../aspose.pdf/image/title) { get; set; } | 获取或设置表示图像标题的字符串值。 |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | 获取或设置段落的垂直对齐方式 |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个表示图形 Z 顺序的 int 值。具有较大 ZIndex 的图形将放置在具有较小 ZIndex 的图形上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中文本的后面。 |
+| [Title](../../aspose.pdf/image/title) { get; set; } | 获取或设置表示图片标题的字符串值。 |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | 获取或设置段落 的垂直对齐方式 |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个 int 值，指示图形的 Z 顺序。 ZIndex 较大的图将放置在 ZIndex 较小的图上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中的文本后面。 |
 
 ## 方法
 

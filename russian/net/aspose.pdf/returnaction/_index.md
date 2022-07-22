@@ -1,14 +1,14 @@
 ---
 title: ReturnAction
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисление представляет собой действие рабочего процесса программы в случае вызова функции Warning./iwarningcallback/warningметод.
+description: Enum представляет собой действие рабочего процесса программы в случае вызова the Warning./iwarningcallback/warning метод.
 type: docs
 weight: 6220
 url: /ru/net/aspose.pdf/returnaction/
 ---
 ## ReturnAction enumeration
 
-Перечисление представляет собой действие рабочего процесса программы в случае вызова функции [`Warning`](../iwarningcallback/warning)метод.
+Enum представляет собой действие рабочего процесса программы в случае вызова the [`Warning`](../iwarningcallback/warning) метод.
 
 ```csharp
 public enum ReturnAction

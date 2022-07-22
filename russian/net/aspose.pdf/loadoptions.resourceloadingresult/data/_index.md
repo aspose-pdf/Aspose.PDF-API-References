@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Aspose.PDF для справочника API .NET
-description: Бинарные данные загруженные кастомным загрузчиком - необходимо установить после загрузки
+description: Бинарные данные загруженные с помощью пользовательского загрузчика - должны быть установлены после загрузки
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/loadoptions.resourceloadingresult/data/
 ---
 ## LoadOptions.ResourceLoadingResult.Data property
 
-Бинарные данные, загруженные кастомным загрузчиком - необходимо установить после загрузки
+Бинарные данные, загруженные с помощью пользовательского загрузчика - должны быть установлены после загрузки
 
 ```csharp
 public byte[] Data { get; }

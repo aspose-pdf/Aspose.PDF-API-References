@@ -18,16 +18,16 @@ public class XmlLoadOptions : LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmlLoadOptions](xmlloadoptions#constructor)() | 创建没有 xsl 数据的[`XmlLoadOptions`](../xmlloadoptions)对象。 |
-| [XmlLoadOptions](xmlloadoptions#constructor_1)(Stream) | 使用 xsl 数据创建[`XmlLoadOptions`](../xmlloadoptions)对象。 |
-| [XmlLoadOptions](xmlloadoptions#constructor_2)(string) | 使用 xsl 数据创建[`XmlLoadOptions`](../xmlloadoptions)对象。 |
+| [XmlLoadOptions](xmlloadoptions#constructor)() | 创建[`XmlLoadOptions`](../xmlloadoptions)没有 xsl 数据的对象。 |
+| [XmlLoadOptions](xmlloadoptions#constructor_1)(Stream) | 创建[`XmlLoadOptions`](../xmlloadoptions)带有 xsl 数据的对象。 |
+| [XmlLoadOptions](xmlloadoptions#constructor_2)(string) | 创建[`XmlLoadOptions`](../xmlloadoptions)带有 xsl 数据的对象。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 | [XslStream](../../aspose.pdf/xmlloadoptions/xslstream) { get; } | 获取用于将 xml 转换为 pdf 文档的 xsl 数据。 |
 
 ### 也可以看看

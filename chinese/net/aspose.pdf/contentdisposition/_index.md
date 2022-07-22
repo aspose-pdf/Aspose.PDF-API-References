@@ -18,7 +18,7 @@ public enum ContentDisposition
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Inline | `0` | 结果内联显示。 |
+| Inline | `0` | 结果显示在行内。 |
 | Attachment | `1` | 结果保存为附件。 |
 
 ### 也可以看看

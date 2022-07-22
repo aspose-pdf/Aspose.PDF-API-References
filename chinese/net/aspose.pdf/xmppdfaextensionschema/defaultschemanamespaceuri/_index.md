@@ -1,14 +1,14 @@
 ---
 title: DefaultSchemaNamespaceUri
 second_title: Aspose.PDF for .NET API 参考
-description: 默认模式命名空间 uri
+description: 默认模式命名空间 uri.
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/
 ---
 ## XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri field
 
-默认模式命名空间 uri。
+默认模式命名空间 uri.
 
 ```csharp
 public const string DefaultSchemaNamespaceUri;

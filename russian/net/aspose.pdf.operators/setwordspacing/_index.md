@@ -1,14 +1,14 @@
 ---
 title: SetWordSpacing
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор Tw заданный интервал между словами.
+description: Класс представляющий оператор Tw установленный интервал между словами.
 type: docs
 weight: 5620
 url: /ru/net/aspose.pdf.operators/setwordspacing/
 ---
 ## SetWordSpacing class
 
-Класс, представляющий оператор Tw (заданный интервал между словами).
+Класс, представляющий оператор Tw (установленный интервал между словами).
 
 ```csharp
 public class SetWordSpacing : TextStateOperator
@@ -31,7 +31,7 @@ public class SetWordSpacing : TextStateOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setwordspacing/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setwordspacing/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

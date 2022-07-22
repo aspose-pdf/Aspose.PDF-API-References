@@ -1,14 +1,14 @@
 ---
 title: UserUnit
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置 UserUnit 值一个正数表示默认用户空间单位的大小以 1  72 英寸的倍数表示 默认值为1请设置零或负值以清除页面中的此条目
+description: 获取或设置 UserUnit 值一个正数表示默认用户空间单位的大小以 1  72 英寸的倍数表示 默认值为 1请设置零或负值以清除页面中的此条目
 type: docs
 weight: 300
 url: /zh/net/aspose.pdf/page/userunit/
 ---
 ## Page.UserUnit property
 
-获取或设置 UserUnit 值。一个正数，表示默认用户空间单位的大小，以 1 ⁄ 72 英寸的倍数表示。 默认值为1。请设置零或负值以清除页面中的此条目。
+获取或设置 UserUnit 值。一个正数，表示默认用户空间单位的大小，以 1 ⁄ 72 英寸的倍数表示。 默认值为 1。请设置零或负值以清除页面中的此条目。
 
 ```csharp
 public double UserUnit { get; set; }

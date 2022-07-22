@@ -1,14 +1,14 @@
 ---
 title: PolyIntent
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисляет цели полигональной или полилинейной аннотации.
+description: Перечисляет назначение аннотации полигона или полилинии.
 type: docs
 weight: 910
 url: /ru/net/aspose.pdf.annotations/polyintent/
 ---
 ## PolyIntent enumeration
 
-Перечисляет цели полигональной или полилинейной аннотации.
+Перечисляет назначение аннотации полигона или полилинии.
 
 ```csharp
 public enum PolyIntent

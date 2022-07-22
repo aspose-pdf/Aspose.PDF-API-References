@@ -1,14 +1,14 @@
 ---
 title: TaggedException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TaggedExceptionaspose.pdf.tagged/taggedexception类的新实例
+description: 初始化TaggedExceptionaspose.pdf.tagged/taggedexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.tagged/taggedexception/taggedexception/
 ---
 ## TaggedException constructor
 
-初始化[`TaggedException`](../../taggedexception)类的新实例。
+初始化[`TaggedException`](../../taggedexception)类.
 
 ```csharp
 public TaggedException()

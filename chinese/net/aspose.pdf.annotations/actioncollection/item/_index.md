@@ -16,11 +16,11 @@ public PdfAction this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 行动索引。 |
+| index | 行动指数。 |
 
 ### 返回值
 
-检索到的操作。
+收回行动。
 
 ### 也可以看看
 

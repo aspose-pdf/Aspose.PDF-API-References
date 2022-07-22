@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Aspose.PDF for .NET API 参考
-description: 表示用于保存图像分辨率的类
+description: 表示保存图像分辨率的类
 type: docs
 weight: 1760
 url: /zh/net/aspose.pdf.devices/resolution/
 ---
 ## Resolution class
 
-表示用于保存图像分辨率的类。
+表示保存图像分辨率的类。
 
 ```csharp
 public sealed class Resolution
@@ -18,8 +18,8 @@ public sealed class Resolution
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Resolution](resolution#constructor)(int) | 初始化[`Resolution`](../resolution)类的新实例。 |
-| [Resolution](resolution#constructor_1)(int, int) | 初始化[`Resolution`](../resolution)类的新实例。 |
+| [Resolution](resolution#constructor)(int) | 初始化[`Resolution`](../resolution)类. |
+| [Resolution](resolution#constructor_1)(int, int) | 初始化[`Resolution`](../resolution)类. |
 
 ## 特性
 

@@ -18,18 +18,18 @@ public sealed class Ellipse : Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Ellipse](ellipse)(double, double, double, double) | 初始化[`Ellipse`](../ellipse)类的新实例。 |
+| [Ellipse](ellipse)(double, double, double, double) | 初始化[`Ellipse`](../ellipse)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Bottom](../../aspose.pdf.drawing/ellipse/bottom) { get; set; } | 获取或设置指示椭圆底部位置的浮点值。 |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)对象，表示图形信息，例如颜色， 线宽等 |
-| [Height](../../aspose.pdf.drawing/ellipse/height) { get; set; } | 获取或设置表示椭圆高度的浮点值。 |
-| [Left](../../aspose.pdf.drawing/ellipse/left) { get; set; } | 获取或设置指示椭圆左侧位置的浮点值。 |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置形状的文本 |
-| [Width](../../aspose.pdf.drawing/ellipse/width) { get; set; } | 获取或设置表示椭圆宽度的浮点值。 |
+| [Bottom](../../aspose.pdf.drawing/ellipse/bottom) { get; set; } | 获取或设置一个表示椭圆底部位置的浮点值。 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)表示图形信息的对象，例如颜色， 线宽等 |
+| [Height](../../aspose.pdf.drawing/ellipse/height) { get; set; } | 获取或设置一个表示椭圆高度的浮点值。 |
+| [Left](../../aspose.pdf.drawing/ellipse/left) { get; set; } | 获取或设置一个表示椭圆左侧位置的浮点值。 |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置 shape 的文本 |
+| [Width](../../aspose.pdf.drawing/ellipse/width) { get; set; } | 获取或设置一个浮点值，表示椭圆的宽度。 |
 
 ### 也可以看看
 

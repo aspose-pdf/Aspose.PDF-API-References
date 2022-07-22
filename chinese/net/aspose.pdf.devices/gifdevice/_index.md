@@ -1,14 +1,14 @@
 ---
 title: GifDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 表示帮助将 pdf 文档页面保存为 gif 的图像设备
+description: 表示有助于将 pdf 文档页面保存为 gif 的图像设备
 type: docs
 weight: 1700
 url: /zh/net/aspose.pdf.devices/gifdevice/
 ---
 ## GifDevice class
 
-表示帮助将 pdf 文档页面保存为 gif 的图像设备。
+表示有助于将 pdf 文档页面保存为 gif 的图像设备。
 
 ```csharp
 public sealed class GifDevice : ImageDevice
@@ -18,12 +18,12 @@ public sealed class GifDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GifDevice](gifdevice#constructor)() | 使用默认分辨率初始化[`GifDevice`](../gifdevice)类的新实例。 |
-| [GifDevice](gifdevice#constructor_2)(PageSize) | 使用提供的页面大小 初始化[`GifDevice`](../gifdevice)类的新实例默认分辨率（=150）。 |
-| [GifDevice](gifdevice#constructor_1)(Resolution) | 初始化[`GifDevice`](../gifdevice)类的新实例。  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
-| [GifDevice](gifdevice#constructor_4)(int, int) | 使用提供的图像尺寸 初始化[`GifDevice`](../gifdevice)类的新实例默认分辨率（=150）。 |
-| [GifDevice](gifdevice#constructor_3)(PageSize, Resolution) | 使用提供的页面大小和 初始化[`GifDevice`](../gifdevice)类的新实例解析度。 |
-| [GifDevice](gifdevice#constructor_5)(int, int, Resolution) | 使用提供的图像尺寸和 初始化[`GifDevice`](../gifdevice)类的新实例解析度。 |
+| [GifDevice](gifdevice#constructor)() | 初始化[`GifDevice`](../gifdevice)具有默认分辨率的类。 |
+| [GifDevice](gifdevice#constructor_2)(PageSize) | 初始化[`GifDevice`](../gifdevice)具有提供页面大小的类， 默认分辨率 (=150). |
+| [GifDevice](gifdevice#constructor_1)(Resolution) | 初始化[`GifDevice`](../gifdevice)类.  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
+| [GifDevice](gifdevice#constructor_4)(int, int) | 初始化[`GifDevice`](../gifdevice)具有提供图像尺寸的类， 默认分辨率 (=150). |
+| [GifDevice](gifdevice#constructor_3)(PageSize, Resolution) | 初始化[`GifDevice`](../gifdevice)提供页面大小和 分辨率的类。 |
+| [GifDevice](gifdevice#constructor_5)(int, int, Resolution) | 初始化[`GifDevice`](../gifdevice)具有提供图像尺寸和 分辨率的类。 |
 
 ## 特性
 

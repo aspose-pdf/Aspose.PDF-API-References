@@ -1,14 +1,14 @@
 ---
 title: CompressSvgGraphicsIfAny
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает флаг указывающий будет ли найденная графика SVG если есть сжата заархивирована в формат SVGZ при сохранении
+description: Получает или устанавливает флаг указывающий будет ли найденная графика SVG если есть сжата заархивирована в формат SVGZ во время сохранения
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/
 ---
 ## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
-Получает или устанавливает флаг, указывающий, будет ли найденная графика SVG (если есть) сжата (заархивирована) в формат SVGZ при сохранении
+Получает или устанавливает флаг, указывающий, будет ли найденная графика SVG (если есть) сжата (заархивирована) в формат SVGZ во время сохранения
 
 ```csharp
 public bool CompressSvgGraphicsIfAny { get; set; }
@@ -16,7 +16,7 @@ public bool CompressSvgGraphicsIfAny { get; set; }
 
 ### Стоимость имущества
 
-The[`HtmlDocumentType`](../../htmldocumenttype).
+[`HtmlDocumentType`](../../htmldocumenttype) .
 
 ### Смотрите также
 

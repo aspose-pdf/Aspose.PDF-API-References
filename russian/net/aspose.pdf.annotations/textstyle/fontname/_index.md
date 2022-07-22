@@ -1,14 +1,14 @@
 ---
 title: FontName
 second_title: Aspose.PDF для справочника API .NET
-description: Имя шрифта.
+description: Название шрифта.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/textstyle/fontname/
 ---
 ## TextStyle.FontName property
 
-Имя шрифта.
+Название шрифта.
 
 ```csharp
 public string FontName { get; set; }

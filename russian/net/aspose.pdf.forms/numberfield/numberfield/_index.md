@@ -1,14 +1,14 @@
 ---
 title: NumberField
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаNumberFieldaspose.pdf.forms/numberfield.
+description: Инициализирует новый экземплярNumberFieldaspose.pdf.forms/numberfield класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/numberfield/numberfield/
 ---
 ## NumberField() {#constructor}
 
-Инициализирует новый экземпляр класса[`NumberField`](../../numberfield).
+Инициализирует новый экземпляр[`NumberField`](../../numberfield) класс.
 
 ```csharp
 public NumberField()
@@ -24,7 +24,7 @@ public NumberField()
 
 ## NumberField(Page, Rectangle) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`NumberField`](../../numberfield).
+Инициализирует новый экземпляр[`NumberField`](../../numberfield) класс.
 
 ```csharp
 public NumberField(Page page, Rectangle rect)
@@ -47,7 +47,7 @@ public NumberField(Page page, Rectangle rect)
 
 ## NumberField(Document, Rectangle) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`NumberField`](../../numberfield).
+Инициализирует новый экземпляр[`NumberField`](../../numberfield) класс.
 
 ```csharp
 public NumberField(Document doc, Rectangle rect)

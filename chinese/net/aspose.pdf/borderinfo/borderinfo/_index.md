@@ -1,14 +1,14 @@
 ---
 title: BorderInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化BorderInfoaspose.pdf/borderinfo类的新实例
+description: 初始化BorderInfoaspose.pdf/borderinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-初始化[`BorderInfo`](../../borderinfo)类的新实例。
+初始化[`BorderInfo`](../../borderinfo)类.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
@@ -16,7 +16,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 表示边框边信息。例如:(int)(BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderSide | BorderSide | 表示边框边信息。例如：(int)(BorderSide.Left &#x7C; BorderSide.Top)。 |
 | borderColor | Color | 边框颜色。 |
 
 ### 也可以看看
@@ -31,7 +31,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ## BorderInfo() {#constructor}
 
-初始化[`BorderInfo`](../../borderinfo)类的新实例。
+初始化[`BorderInfo`](../../borderinfo)类.
 
 ```csharp
 public BorderInfo()
@@ -47,7 +47,7 @@ public BorderInfo()
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-初始化[`BorderInfo`](../../borderinfo)类的新实例。
+初始化[`BorderInfo`](../../borderinfo)类.
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
@@ -55,7 +55,7 @@ public BorderInfo(BorderSide borderSide)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 表示边框边信息。例如:（BorderSide.Left &#x7C; BorderSide.Top）。 |
+| borderSide | BorderSide | 表示边框边信息。例如：（BorderSide.Left &#x7C; BorderSide.Top）。 |
 
 ### 也可以看看
 
@@ -68,7 +68,7 @@ public BorderInfo(BorderSide borderSide)
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-初始化[`BorderInfo`](../../borderinfo)类的新实例。
+初始化[`BorderInfo`](../../borderinfo)类.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
@@ -76,7 +76,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 表示边框边信息。例如:（BorderSide.Left &#x7C; BorderSide.Top）。 |
+| borderSide | BorderSide | 表示边框边信息。例如：（BorderSide.Left &#x7C; BorderSide.Top）。 |
 | borderWidth | Single | 边框的宽度。 |
 
 ### 也可以看看
@@ -90,7 +90,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-初始化[`BorderInfo`](../../borderinfo)类的新实例。
+初始化[`BorderInfo`](../../borderinfo)类.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
@@ -98,7 +98,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 表示边框边信息。例如:（BorderSide.Left &#x7C; BorderSide.Top）。 |
+| borderSide | BorderSide | 表示边框边信息。例如：（BorderSide.Left &#x7C; BorderSide.Top）。 |
 | borderWidth | Single | 边框的宽度。 |
 | borderColor | Color | 边框颜色。 |
 
@@ -114,7 +114,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-初始化[`BorderInfo`](../../borderinfo)类的新实例。
+初始化[`BorderInfo`](../../borderinfo)类.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
@@ -122,8 +122,8 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| borderSide | BorderSide | 表示边框边信息。例如:（BorderSide.Left &#x7C; BorderSide.Top）。 |
-| info | GraphInfo | 边界信息。 |
+| borderSide | BorderSide | 表示边框边信息。例如：（BorderSide.Left &#x7C; BorderSide.Top）。 |
+| info | GraphInfo | 边境信息。 |
 
 ### 也可以看看
 

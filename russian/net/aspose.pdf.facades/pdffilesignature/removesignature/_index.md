@@ -1,14 +1,14 @@
 ---
 title: RemoveSignature
 second_title: Aspose.PDF для справочника API .NET
-description: Удалить подпись по имени подписи.
+description: Удалить подпись по названию подписи.
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## RemoveSignature(string) {#removesignature}
 
-Удалить подпись по имени подписи.
+Удалить подпись по названию подписи.
 
 ```csharp
 public void RemoveSignature(string signName)
@@ -16,7 +16,7 @@ public void RemoveSignature(string signName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signName | String | Имя подписи. |
+| signName | String | Название подписи. |
 
 ### Примеры
 
@@ -60,8 +60,8 @@ public void RemoveSignature(string signName, bool removeField)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signName | String | Имя подписи. |
-| removeField | Boolean | Если установлено в true, то удаляется и подпись, и поле из документа; в противном случае только подпись. |
+| signName | String | Название подписи. |
+| removeField | Boolean | Если установлено значение true, то из документа удаляются и подпись, и поле; в противном случае только подпись. |
 
 ### Примеры
 

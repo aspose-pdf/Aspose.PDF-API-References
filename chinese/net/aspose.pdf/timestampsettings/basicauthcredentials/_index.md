@@ -1,14 +1,14 @@
 ---
 title: BasicAuthCredentials
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置基本身份验证凭据用户名和密码组合成字符串用户名密码
+description: 获取/设置基本身份验证凭据用户名和密码组合成一个字符串用户名密码
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/timestampsettings/basicauthcredentials/
 ---
 ## TimestampSettings.BasicAuthCredentials property
 
-获取/设置基本身份验证凭据，用户名和密码组合成字符串“用户名:密码”。
+获取/设置基本身份验证凭据，用户名和密码组合成一个字符串“用户名：密码”。
 
 ```csharp
 public string BasicAuthCredentials { get; set; }

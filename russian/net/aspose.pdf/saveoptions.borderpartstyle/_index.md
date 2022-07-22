@@ -30,8 +30,8 @@ public class BorderPartStyle
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.pdf/borderpartstyle/color) | Представляет цвет линии границы |
-| [LineType](../../aspose.pdf/borderpartstyle/linetype) | Представляет тип линии границы - например, пунктирная или сплошная |
+| [Color](../../aspose.pdf/borderpartstyle/color) | Представляет линию границы color |
+| [LineType](../../aspose.pdf/borderpartstyle/linetype) | Представляет тип линии границы — например, пунктирная или сплошная |
 
 ### Смотрите также
 

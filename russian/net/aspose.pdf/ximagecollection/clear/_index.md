@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет все предметы из коллекции.
+description: Удаляет все элементы из коллекции.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/ximagecollection/clear/
 ---
 ## XImageCollection.Clear method
 
-Удаляет все предметы из коллекции.
+Удаляет все элементы из коллекции.
 
 ```csharp
 public void Clear()

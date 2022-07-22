@@ -1,14 +1,14 @@
 ---
 title: ShowLocation
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置位置可见性默认值真
+description: 获取/设置位置可见性默认值true.
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/showlocation/
 ---
 ## SignatureCustomAppearance.ShowLocation property
 
-获取/设置位置可见性。默认值:真。
+获取/设置位置可见性。默认值：true.
 
 ```csharp
 public bool ShowLocation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: IsShowPageNumbers
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置在 Toc 处显示的页码
+description: 获取或设置在 Toc. 处显示页码
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/tocinfo/isshowpagenumbers/
 ---
 ## TocInfo.IsShowPageNumbers property
 
-获取或设置在 Toc 处显示的页码。
+获取或设置在 Toc. 处显示页码
 
 ```csharp
 public bool IsShowPageNumbers { get; set; }

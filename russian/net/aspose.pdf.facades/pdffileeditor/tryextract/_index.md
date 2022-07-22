@@ -1,14 +1,14 @@
 ---
 title: TryExtract
 second_title: Aspose.PDF для справочника API .NET
-description: Извлекает страницы из входного файла сохраняет как новый файл Pdf.
+description: Извлекает страницы из входного файла сохраняет как новый файл PDF.
 type: docs
 weight: 440
 url: /ru/net/aspose.pdf.facades/pdffileeditor/tryextract/
 ---
 ## TryExtract(string, int, int, string) {#tryextract_2}
 
-Извлекает страницы из входного файла, сохраняет как новый файл Pdf.
+Извлекает страницы из входного файла, сохраняет как новый файл PDF.
 
 ```csharp
 public bool TryExtract(string inputFile, int startPage, int endPage, string outputFile)
@@ -16,18 +16,18 @@ public bool TryExtract(string inputFile, int startPage, int endPage, string outp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите путь к файлу Pdf. |
-| startPage | Int32 | Номер начальной страницы. |
-| endPage | Int32 | Номер конечной страницы. |
-| outputFile | String | Путь к выходному файлу Pdf. |
+| inputFile | String | Введите путь к файлу PDF. |
+| startPage | Int32 | Номер стартовой страницы. |
+| endPage | Int32 | Конечный номер страницы. |
+| outputFile | String | Выходной путь к файлу Pdf. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение, если операция не удалась.
+Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -54,7 +54,7 @@ public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите путь к файлу. |
+| inputFile | String | Путь к входному файлу. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputFile | String | Путь к выходному файлу. |
 
@@ -64,7 +64,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение, если операция не удалась.
+Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -91,17 +91,17 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входного файла. |
+| inputStream | Stream | Входной файл Поток. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputStream | Stream | Выходной файловый поток. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение, если операция не удалась.
+Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -140,7 +140,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение, если операция не удалась.
+Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -170,7 +170,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение, если операция не удалась.
+Метод TryExtract аналогичен методу Extract, за исключением того, что метод TryExtract не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 

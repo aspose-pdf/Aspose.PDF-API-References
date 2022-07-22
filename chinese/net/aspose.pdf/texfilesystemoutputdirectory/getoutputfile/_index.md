@@ -17,7 +17,7 @@ public Stream GetOutputFile(string fileName, out string fullName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fileName | String | 文件名。 |
-| fullName | String& | 完整文件名。 |
+| fullName | String& | 完整的文件名。 |
 
 ### 返回值
 

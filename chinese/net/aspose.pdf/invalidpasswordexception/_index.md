@@ -1,14 +1,14 @@
 ---
 title: InvalidPasswordException
 second_title: Aspose.PDF for .NET API 参考
-description: 用户输入无效密码时抛出的异常
+description: 用户提供无效密码时抛出的异常
 type: docs
 weight: 3870
 url: /zh/net/aspose.pdf/invalidpasswordexception/
 ---
 ## InvalidPasswordException class
 
-用户输入无效密码时抛出的异常。
+用户提供无效密码时抛出的异常。
 
 ```csharp
 public sealed class InvalidPasswordException : PdfException
@@ -18,9 +18,9 @@ public sealed class InvalidPasswordException : PdfException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvalidPasswordException](invalidpasswordexception#constructor)(Exception) | 使用指定的错误消息初始化[`InvalidPasswordException`](../invalidpasswordexception) 类的新实例以及对导致此异常的内部异常的引用。 |
-| [InvalidPasswordException](invalidpasswordexception#constructor_1)(string) | 初始化[`InvalidPasswordException`](../invalidpasswordexception)类的新实例。 |
-| [InvalidPasswordException](invalidpasswordexception#constructor_2)(string, Exception) | 使用指定的错误消息初始化[`InvalidPasswordException`](../invalidpasswordexception) 类的新实例以及对导致此异常的内部异常的引用。 |
+| [InvalidPasswordException](invalidpasswordexception#constructor)(Exception) | 初始化[`InvalidPasswordException`](../invalidpasswordexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
+| [InvalidPasswordException](invalidpasswordexception#constructor_1)(string) | 初始化[`InvalidPasswordException`](../invalidpasswordexception)类. |
+| [InvalidPasswordException](invalidpasswordexception#constructor_2)(string, Exception) | 初始化[`InvalidPasswordException`](../invalidpasswordexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

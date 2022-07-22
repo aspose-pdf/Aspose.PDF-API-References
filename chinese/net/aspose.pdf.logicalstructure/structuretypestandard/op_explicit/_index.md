@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF for .NET API 参考
-description: 执行从String到StructureTypeStandardaspose.pdf.logicalstructure/structuretypestandard的显式转换.
+description: 执行显式转换String至StructureTypeStandardaspose.pdf.logicalstructure/structuretypestandard.
 type: docs
 weight: 530
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/
 ---
 ## StructureTypeStandard Explicit operator
 
-执行从String到[`StructureTypeStandard`](../../structuretypestandard)的显式转换.
+执行显式转换String至[`StructureTypeStandard`](../../structuretypestandard).
 
 ```csharp
 public static explicit operator StructureTypeStandard(string tag)

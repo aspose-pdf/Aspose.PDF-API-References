@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.annotations/soundsampledata/encodingformat/
 ---
 ## SoundSampleData.EncodingFormat property
 
-获取或设置编码格式。
+获取或设置编码格式
 
 ```csharp
 public SoundSampleDataEncodingFormat EncodingFormat { get; set; }

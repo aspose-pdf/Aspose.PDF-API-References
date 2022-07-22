@@ -19,11 +19,11 @@ public enum NumberingStyle
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | NumeralsArabic | `0` | 阿拉伯十进制数字。 |
-| NumeralsRomanUppercase | `1` | 大写罗马数字（I, II, III...）。 |
-| NumeralsRomanLowercase | `2` | 小写罗马数字（i, ii, iii...）。 |
-| LettersUppercase | `3` | 大写拉丁字母（A、B、C...）。 |
-| LettersLowercase | `4` | 小写拉丁字母（a、b、c...）。 |
-| None | `5` | 无编号。 |
+| NumeralsRomanUppercase | `1` | 大写罗马数字 (I, II, III...). |
+| NumeralsRomanLowercase | `2` | 小写罗马数字 (i, ii, iii...). |
+| LettersUppercase | `3` | 大写拉丁字母（A、B、C...）. |
+| LettersLowercase | `4` | 小写拉丁字母 (a, b, c...). |
+| None | `5` | 没有编号。 |
 
 ### 也可以看看
 

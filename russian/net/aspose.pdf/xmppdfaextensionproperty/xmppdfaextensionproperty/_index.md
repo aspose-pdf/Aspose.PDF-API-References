@@ -18,9 +18,9 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя свойства. |
-| value | String | Значение свойства. |
+| value | String | Стоимость свойства. |
 | valueType | String | Тип значения свойства. |
-| category | XmpPdfAExtensionCategoryType | Категория свойства. |
+| category | XmpPdfAExtensionCategoryType | Категория имущества. |
 | description | String | Описание свойства. |
 
 ### Смотрите также

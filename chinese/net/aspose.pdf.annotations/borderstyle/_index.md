@@ -18,7 +18,7 @@ public enum BorderStyle
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Solid | `0` | 实心边框。 |
+| Solid | `0` | 实线边框。 |
 | Dashed | `1` | 虚线边框。 |
 | Beveled | `2` | 斜边边框。 |
 | Inset | `3` | 插入边框。 |

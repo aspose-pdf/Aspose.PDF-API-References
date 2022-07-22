@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает перечислитель для коллекции
+description: Возвращает перечислитель для collection
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/baseoperatorcollection/getenumerator/
 ---
 ## BaseOperatorCollection.GetEnumerator method
 
-Возвращает перечислитель для коллекции
+Возвращает перечислитель для collection
 
 ```csharp
 public abstract IEnumerator<Operator> GetEnumerator()
@@ -16,7 +16,7 @@ public abstract IEnumerator<Operator> GetEnumerator()
 
 ### Возвращаемое значение
 
-Перечислитель коллекции
+Перечислитель коллекций
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: PdfFileMend
 second_title: Aspose.PDF for .NET API 参考
-description: 构造函数
+description: 构造函数.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdffilemend/pdffilemend/
 ---
 ## PdfFileMend() {#constructor}
 
-构造函数。
+构造函数.
 
 ```csharp
 public PdfFileMend()
@@ -24,7 +24,7 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`PdfFileMend`](../../pdffilemend)对象。
+初始化新的[`PdfFileMend`](../../pdffilemend)对象基于*document*.
 
 ```csharp
 public PdfFileMend(Document document)
@@ -32,7 +32,7 @@ public PdfFileMend(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | Pdf 文档. |
 
 ### 也可以看看
 

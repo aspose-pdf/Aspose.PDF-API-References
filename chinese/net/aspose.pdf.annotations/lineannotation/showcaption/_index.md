@@ -1,14 +1,14 @@
 ---
 title: ShowCaption
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置布尔标志确定内容必须显示为标题
+description: 获取或设置确定内容的布尔标志必须显示为标题
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.annotations/lineannotation/showcaption/
 ---
 ## LineAnnotation.ShowCaption property
 
-获取或设置布尔标志，确定内容必须显示为标题。
+获取或设置确定内容的布尔标志必须显示为标题。
 
 ```csharp
 public bool ShowCaption { get; set; }

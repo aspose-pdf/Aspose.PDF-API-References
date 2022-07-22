@@ -1,14 +1,14 @@
 ---
 title: PositionArray
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示位置数组的PositionArrayaspose.pdf.drawing/line/positionarray对象数组为 由线的每个控制点的坐标组成 直接
+description: 获取或设置一个PositionArrayaspose.pdf.drawing/line/positionarray表示位置数组的对象数组是 由线的每个控制点的坐标组成 直接
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.drawing/line/positionarray/
 ---
 ## Line.PositionArray property
 
-获取或设置表示位置数组的`PositionArray`对象。数组为 由线的每个控制点的坐标组成。 直接。
+获取或设置一个`PositionArray`表示位置数组的对象。数组是 ，由线的每个控制点的坐标组成。 直接。
 
 ```csharp
 public float[] PositionArray { get; set; }

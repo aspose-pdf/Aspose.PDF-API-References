@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.XfaConverter
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.XfaConverter 命名空间提供了允许转换 XFA 的类
+description: 的 Aspose.Pdf.XfaConverter命名空间提供允许转换 XFA. 的类
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.xfaconverter/
 ---
-**Aspose.Pdf.XfaConverter** 命名空间提供了允许转换 XFA 的类。
+的 **Aspose.Pdf.XfaConverter**命名空间提供允许转换 XFA. 的类
 
 ## 课程
 

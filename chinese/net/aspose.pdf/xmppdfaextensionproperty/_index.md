@@ -1,14 +1,14 @@
 ---
 title: XmpPdfAExtensionProperty
 second_title: Aspose.PDF for .NET API 参考
-description: 描述单个属性架构命名空间 URIhttp//www.aiim.org/pdfa/ns/property 必需的架构命名空间前缀pdfaProperty
+description: 描述单个属性架构命名空间 URIhttp//www.aiim.org/pdfa/ns/property 所需架构命名空间前缀pdfaProperty
 type: docs
 weight: 7510
 url: /zh/net/aspose.pdf/xmppdfaextensionproperty/
 ---
 ## XmpPdfAExtensionProperty class
 
-描述单个属性。架构命名空间 URI:http://www.aiim.org/pdfa/ns/property# 必需的架构命名空间前缀:pdfaProperty
+描述单个属性。架构命名空间 URI：http://www.aiim.org/pdfa/ns/property# 所需架构命名空间前缀：pdfaProperty
 
 ```csharp
 public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
@@ -28,7 +28,7 @@ public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description) { get; } | 获取描述。 |
 | [Name](../../aspose.pdf/xmppdfaextensionfield/name) { get; } | 字段名称。字段名称必须是有效的 XML 元素名称。 |
 | [Value](../../aspose.pdf/xmppdfaextensionobject/value) { get; set; } | 获取或设置值。 |
-| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype) { get; } | 字段值类型，取自 XMP 规范 2004，或嵌入的 PDF/A 值类型扩展 模式。预定义的 XMP 类型名称或自定义类型的名称。 |
+| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype) { get; } | 字段值类型，取自 XMP 规范 2004，或嵌入的 PDF/A 值类型 extension 架构。预定义的 XMP 类型名称或自定义类型的名称。 |
 
 ## 方法
 

@@ -1,14 +1,14 @@
 ---
 title: SetTitle
 second_title: Aspose.PDF для справочника API .NET
-description: Установить заголовок для документа Pdf
+description: Установить заголовок для PDF-документа
 type: docs
 weight: 750
 url: /ru/net/aspose.pdf/document/settitle/
 ---
 ## Document.SetTitle method
 
-Установить заголовок для документа Pdf
+Установить заголовок для PDF-документа
 
 ```csharp
 public void SetTitle(string title)

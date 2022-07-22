@@ -1,14 +1,14 @@
 ---
 title: RemoveSpacesFromCMapNames
 second_title: Aspose.PDF for .NET API 参考
-description: 某些字体的 ToUnicode 字符代码映射在名称中带有空格这些空格可以使用 unicode 文本映射调用错误 此标志命令从 ToUnicode 字符代码映射的名称中删除空格 默认为假
+description: 某些字体的 ToUnicode 字符代码映射在名称中带有空格这些空格可以使用 unicode 文本映射调用 errors 此标志命令从 ToUnicode 字符代码映射的名称中删除空格 默认为 false
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames/
 ---
 ## ToUnicodeProcessingRules.RemoveSpacesFromCMapNames property
 
-某些字体的 ToUnicode 字符代码映射在名称中带有空格。这些空格可以使用 unicode 文本映射调用错误 。此标志命令从 ToUnicode 字符代码映射的名称中删除空格。 默认为假。
+某些字体的 ToUnicode 字符代码映射在名称中带有空格。这些空格可以使用 unicode 文本映射调用 errors 。此标志命令从 ToUnicode 字符代码映射的名称中删除空格。 默认为 false。
 
 ```csharp
 public bool RemoveSpacesFromCMapNames { get; set; }

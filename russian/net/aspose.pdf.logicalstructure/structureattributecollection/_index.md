@@ -18,8 +18,8 @@ public class StructureAttributeCollection
 
 | Имя | Описание |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes)(AttributeOwnerStandard) | Создание и возврат[`StructureAttributes`](../structureattributes)элемента структуры стандартным владельцем атрибута. |
-| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes)(AttributeOwnerStandard) | Возврат[`StructureAttributes`](../structureattributes)элемента структуры по стандартному владельцу атрибута. |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes)(AttributeOwnerStandard) | Создать и вернуть[`StructureAttributes`](../structureattributes) элемента структуры по стандартному владельцу атрибута. |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes)(AttributeOwnerStandard) | Возврат[`StructureAttributes`](../structureattributes) элемента структуры по стандартному владельцу атрибута. |
 
 ### Смотрите также
 

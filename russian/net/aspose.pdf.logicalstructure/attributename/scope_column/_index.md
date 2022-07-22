@@ -1,14 +1,14 @@
 ---
 title: Scope_Column
 second_title: Aspose.PDF для справочника API .NET
-description: Область действия атрибутастолбец.
+description: Область действия атрибута Столбец.
 type: docs
 weight: 530
 url: /ru/net/aspose.pdf.logicalstructure/attributename/scope_column/
 ---
 ## AttributeName.Scope_Column field
 
-Область действия атрибута:столбец.
+Область действия атрибута: Столбец.
 
 ```csharp
 public static readonly AttributeName Scope_Column;

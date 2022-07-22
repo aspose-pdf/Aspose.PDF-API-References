@@ -1,14 +1,14 @@
 ---
 title: BreakText
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает текст разрыва для таблицы
+description: Получает или задает текст разрыва для table
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/table/breaktext/
 ---
 ## Table.BreakText property
 
-Получает или задает текст разрыва для таблицы
+Получает или задает текст разрыва для table
 
 ```csharp
 public TextFragment BreakText { get; set; }

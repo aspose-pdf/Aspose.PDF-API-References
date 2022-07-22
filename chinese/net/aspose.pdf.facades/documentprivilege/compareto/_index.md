@@ -1,14 +1,14 @@
 ---
 title: CompareTo
 second_title: Aspose.PDF for .NET API 参考
-description: 比较两个DocumentPrivilegeaspose.pdf.facades/documentprivilege对象  要与之比较的对象  一个有符号整数表示此实例和值的相对值小于零此实例小于值 零这个实例等于值大于零此实例大于值
+description: 比较两个DocumentPrivilegeaspose.pdf.facades/documentprivilege对象.  要与之比较的对象 一个有符号整数指示此实例和值的相对值小于零此实例小于值 零这个实例等于值大于零此实例大于值
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.facades/documentprivilege/compareto/
 ---
 ## DocumentPrivilege.CompareTo method
 
-比较两个[`DocumentPrivilege`](../../documentprivilege)对象。  要与之比较的对象。  一个有符号整数，表示此实例和值的相对值。小于零此实例小于值。 零这个实例等于值。大于零此实例大于值。
+比较两个[`DocumentPrivilege`](../../documentprivilege)对象.  要与之比较的对象。 一个有符号整数，指示此实例和值的相对值。小于零此实例小于值。 零这个实例等于值。大于零此实例大于值。
 
 ```csharp
 public int CompareTo(object obj)

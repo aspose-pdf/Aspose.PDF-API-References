@@ -16,11 +16,11 @@ public bool Single2Multiple(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 限定字段名。 |
+| fieldName | String | 限定的字段名称。 |
 
 ### 返回值
 
-如果成功，返回真；否则返回假。
+如果成功，则返回 true；否则返回 false。
 
 ### 例子
 

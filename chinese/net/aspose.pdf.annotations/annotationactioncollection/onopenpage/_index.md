@@ -1,14 +1,14 @@
 ---
 title: OnOpenPage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置打开包含注释的页面时要执行的操作
+description: 获取或设置在打开包含注释的页面时要执行的操作
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/annotationactioncollection/onopenpage/
 ---
 ## AnnotationActionCollection.OnOpenPage property
 
-获取或设置打开包含注释的页面时要执行的操作。
+获取或设置在打开包含注释的页面时要执行的操作。
 
 ```csharp
 public PdfAction OnOpenPage { get; set; }

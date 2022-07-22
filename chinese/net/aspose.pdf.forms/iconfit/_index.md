@@ -18,7 +18,7 @@ public sealed class IconFit
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LeftoverBottom](../../aspose.pdf.forms/iconfit/leftoverbottom) { get; set; } | 获取或设置要在图标底部分配的空间。 |
+| [LeftoverBottom](../../aspose.pdf.forms/iconfit/leftoverbottom) { get; set; } | 获取或设置在图标底部分配的空间。 |
 | [LeftoverLeft](../../aspose.pdf.forms/iconfit/leftoverleft) { get; set; } | 获取或设置要在图标左侧分配的空间。 |
 | [ScalingMode](../../aspose.pdf.forms/iconfit/scalingmode) { get; set; } | 应使用的缩放类型。 /// |
 | [ScalingReason](../../aspose.pdf.forms/iconfit/scalingreason) { get; set; } | 获取或设置缩放原因。 |

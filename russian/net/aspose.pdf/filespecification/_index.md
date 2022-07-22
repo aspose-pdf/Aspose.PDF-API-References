@@ -29,10 +29,10 @@ public sealed class FileSpecification : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [AFRelationship](../../aspose.pdf/filespecification/afrelationship) { get; set; } | Связанный файл Связь. |
-| [Contents](../../aspose.pdf/filespecification/contents) { get; set; } | Получает или устанавливает файл содержимого. Это свойство возвращает данные, загруженные в память, что может вызвать исключение нехватки памяти для больших данных. Чтобы уменьшить использование памяти, используйте StreamContents. |
+| [AFRelationship](../../aspose.pdf/filespecification/afrelationship) { get; set; } | Связанный файл Отношения. |
+| [Contents](../../aspose.pdf/filespecification/contents) { get; set; } | Получает или задает файл содержимого. Это свойство возвращает данные, загруженные в память, что может вызвать исключение Out of memory для больших данных. Чтобы уменьшить использование памяти, используйте StreamContents. |
 | [Description](../../aspose.pdf/filespecification/description) { get; set; } | Получает или задает текст, связанный со спецификацией файла. |
-| [Encoding](../../aspose.pdf/filespecification/encoding) { get; set; } | Получает или задает формат кодировки. Возможные значения:Zip - файл сжат ZIP, None - файл не сжат. |
+| [Encoding](../../aspose.pdf/filespecification/encoding) { get; set; } | Получает или задает формат кодирования. Возможные значения: Zip — файл сжат с помощью ZIP, None — файл не сжат. |
 | [EncryptedPayload](../../aspose.pdf/filespecification/encryptedpayload) { get; } | Получает зашифрованную полезную нагрузку. |
 | [FileSystem](../../aspose.pdf/filespecification/filesystem) { get; set; } | Получает или задает имя файловой системы. |
 | [IncludeContents](../../aspose.pdf/filespecification/includecontents) { get; set; } | Если true, содержимое файла будет включено в спецификацию файла. |
@@ -40,15 +40,15 @@ public sealed class FileSpecification : IDisposable
 | [Name](../../aspose.pdf/filespecification/name) { get; set; } | Получает или задает имя спецификации файла. |
 | [Params](../../aspose.pdf/filespecification/params) { get; set; } | Получает параметры файла. |
 | [StreamContents](../../aspose.pdf/filespecification/streamcontents) { get; } | Получает содержимое файла в виде потока. Содержимое не загружается в память, что позволяет уменьшить использование памяти. Но этот поток не поддерживает позиционирование и свойство Length. Если вам нужны эти функции, используйте свойство Contents. |
-| [UnicodeName](../../aspose.pdf/filespecification/unicodename) { get; set; } | Получает или задает имя Unicode спецификации файла. |
+| [UnicodeName](../../aspose.pdf/filespecification/unicodename) { get; set; } | Получает или задает юникодное имя спецификации файла. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [Dispose](../../aspose.pdf/filespecification/dispose)() | Утилизировать содержимое. |
-| [GetValue](../../aspose.pdf/filespecification/getvalue)(string) | Получает параметр, зависящий от приложения. |
-| [SetValue](../../aspose.pdf/filespecification/setvalue)(string, string) | Устанавливает параметр, зависящий от приложения. |
+| [GetValue](../../aspose.pdf/filespecification/getvalue)(string) | Получает параметр приложения. |
+| [SetValue](../../aspose.pdf/filespecification/setvalue)(string, string) | Устанавливает параметр приложения. |
 
 ### Смотрите также
 

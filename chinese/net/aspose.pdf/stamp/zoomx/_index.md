@@ -1,14 +1,14 @@
 ---
 title: ZoomX
 second_title: Aspose.PDF for .NET API 参考
-description: 标记的水平缩放系数允许水平缩放邮票
+description: 印章的水平缩放系数允许水平缩放邮票
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf/stamp/zoomx/
 ---
 ## Stamp.ZoomX property
 
-标记的水平缩放系数。允许水平缩放邮票。
+印章的水平缩放系数。允许水平缩放邮票。
 
 ```csharp
 public double ZoomX { get; set; }

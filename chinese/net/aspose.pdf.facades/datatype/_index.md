@@ -22,7 +22,7 @@ public enum DataType
 | XML | `1` | XML 流。 |
 | XFDF | `2` | XFDF 流。 |
 | PDF | `3` | PDF 流。 |
-| OLEDB | `4` | OLEDB 数据库，例如 MS Access。 |
+| OLEDB | `4` | OLEDB 数据库，如 MS Access. |
 | ODBC | `5` | ODBC 数据库，例如 MS SQL Server。 |
 
 ### 也可以看看

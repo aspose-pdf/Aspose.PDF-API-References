@@ -18,10 +18,10 @@ public sealed class TextDevice : PageDevice
 
 | Имя | Описание |
 | --- | --- |
-| [TextDevice](textdevice#constructor)() | Инициализирует новый экземпляр[`TextDevice`](../textdevice)с режимом форматирования текста Raw и кодировкой текста Unicode. |
-| [TextDevice](textdevice#constructor_3)(Encoding) | Инициализирует новый экземпляр[`TextDevice`](../textdevice)для указанной кодировки. |
-| [TextDevice](textdevice#constructor_1)(TextExtractionOptions) | Инициализирует новый экземпляр[`TextDevice`](../textdevice)с параметрами извлечения текста. |
-| [TextDevice](textdevice#constructor_2)(TextExtractionOptions, Encoding) | Инициализирует новый экземпляр[`TextDevice`](../textdevice)для указанной кодировки с параметрами извлечения текста. |
+| [TextDevice](textdevice#constructor)() | Инициализирует новый экземпляр[`TextDevice`](../textdevice) с режимом форматирования текста Raw и кодировкой текста Unicode. |
+| [TextDevice](textdevice#constructor_3)(Encoding) | Инициализирует новый экземпляр[`TextDevice`](../textdevice) для указанной кодировки. |
+| [TextDevice](textdevice#constructor_1)(TextExtractionOptions) | Инициализирует новый экземпляр[`TextDevice`](../textdevice) с опциями извлечения текста. |
+| [TextDevice](textdevice#constructor_2)(TextExtractionOptions, Encoding) | Инициализирует новый экземпляр[`TextDevice`](../textdevice) для указанной кодировки с параметрами извлечения текста. |
 
 ## Характеристики
 
@@ -35,11 +35,11 @@ public sealed class TextDevice : PageDevice
 | Имя | Описание |
 | --- | --- |
 | override [Process](../../aspose.pdf.devices/textdevice/process#process)(Page, Stream) | Конвертировать страницу и сохранить ее как текстовый поток. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Выполняет некоторую операцию на данной странице и сохраняет результат в файл. |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Выполняет некоторую операцию на данной странице и сохраняет результаты в файл. |
 
 ### Примечания
 
-Объект[`TextDevice`](../textdevice)в основном используется для извлечения текста из страницы PDF.
+[`TextDevice`](../textdevice) Объект в основном используется для извлечения текста из страницы PDF.
 
 ### Примеры
 
@@ -51,13 +51,13 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-     // создаем текст device
+    // создать текстовое устройство
     TextDevice device = new TextDevice();
 
-     // конвертируем страницу и сохраняем текст в stream
+    // конвертируем страницу и сохраняем текст в поток
     device.Process(doc.Pages[1], ms);
 
-     // используем извлеченный text
+    // используем извлеченный текст
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }

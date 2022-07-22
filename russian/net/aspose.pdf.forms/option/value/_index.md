@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает значение экспорта опции.
+description: Получает или задает значение экспорта опции.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/option/value/
 ---
 ## Option.Value property
 
-Получает или устанавливает значение экспорта опции.
+Получает или задает значение экспорта опции.
 
 ```csharp
 public string Value { get; set; }

@@ -19,7 +19,7 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 | --- | --- | --- |
 | page | Page | 目标页面的对象。 |
 | type | ExplicitDestinationType | 显式目的地的类型。 |
-| values | Double[] | 双值数组。 |
+| values | Double[] | 双精度值数组。 |
 
 ### 返回值
 
@@ -48,7 +48,7 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
 | --- | --- | --- |
 | pageNumber | Int32 | 目标页码。 |
 | type | ExplicitDestinationType | 显式目的地的类型。 |
-| values | Double[] | 双值数组。 |
+| values | Double[] | 双精度值数组。 |
 
 ### 返回值
 

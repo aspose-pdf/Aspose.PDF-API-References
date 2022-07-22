@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API 参考
-description: 获取戳记的文本属性有关详细信息请参见TextStateaspose.pdf/textstamp/textstate
+description: 获取图章的文本属性看TextStateaspose.pdf/textstamp/textstate有关详细信息
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/textstamp/textstate/
 ---
 ## TextStamp.TextState property
 
-获取戳记的文本属性。有关详细信息，请参见`TextState`。
+获取图章的文本属性。看`TextState`有关详细信息。
 
 ```csharp
 public TextState TextState { get; }

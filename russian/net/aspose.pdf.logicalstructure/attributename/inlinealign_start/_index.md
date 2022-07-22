@@ -1,14 +1,14 @@
 ---
 title: InlineAlign_Start
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут InlineAlignStart  начальный край прямоугольника распределения каждого дочернего элемента выровненный с краем прямоугольника содержимого ячейки таблицы.
+description: Атрибут InlineAlign Start  начальный край прямоугольника распределения каждого дочернего элемента выровненный с краем прямоугольника содержимого ячейки таблицы.
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.logicalstructure/attributename/inlinealign_start/
 ---
 ## AttributeName.InlineAlign_Start field
 
-Атрибут InlineAlign:Start — начальный край прямоугольника распределения каждого дочернего элемента, выровненный с краем прямоугольника содержимого ячейки таблицы.
+Атрибут InlineAlign: Start — начальный край прямоугольника распределения каждого дочернего элемента, выровненный с краем прямоугольника содержимого ячейки таблицы.
 
 ```csharp
 public static readonly AttributeName InlineAlign_Start;

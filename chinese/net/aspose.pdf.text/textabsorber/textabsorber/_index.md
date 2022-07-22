@@ -1,14 +1,14 @@
 ---
 title: TextAbsorber
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TextAbsorberaspose.pdf.text/textabsorber的新实例
+description: 初始化TextAbsorberaspose.pdf.text/textabsorber.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textabsorber/textabsorber/
 ---
 ## TextAbsorber() {#constructor}
 
-初始化[`TextAbsorber`](../../textabsorber)的新实例。
+初始化[`TextAbsorber`](../../textabsorber).
 
 ```csharp
 public TextAbsorber()
@@ -16,7 +16,7 @@ public TextAbsorber()
 
 ### 评论
 
-执行文本提取并通过Text对象。
+执行文本提取并通过以下方式提供对提取文本的访问权限[`Text`](../text)对象.
 
 ### 例子
 
@@ -24,17 +24,16 @@ public TextAbsorber()
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// 创建 TextAbsorber 对象以提取 text
-xtAbsorber absorber = new TextAbsorber();
+// 创建 TextAbsorber 对象以提取文本
+TextAbsorber absorber = new TextAbsorber();
 
-// 接受所有文档 pages
+// 接受所有文档页面的吸收器
+doc.Pages.Accept(absorber);
 
-c.Pages.Accept(absorber);
-
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 
 ```
 
@@ -48,7 +47,7 @@ ring extractedText = absorber.Text;
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-使用提取选项初始化[`TextAbsorber`](../../textabsorber)的新实例。
+初始化[`TextAbsorber`](../../textabsorber)带有提取选项。
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
@@ -60,7 +59,7 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ### 评论
 
-执行文本提取并通过Text对象。
+执行文本提取并通过以下方式提供对提取文本的访问权限[`Text`](../text)对象.
 
 ### 例子
 
@@ -68,18 +67,16 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
- 创建 TextAbsorber 对象以提取带有formatting
+// 创建 TextAbsorber 对象以提取带有格式的文本
+TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-xtAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
+// 接受所有文档页面的吸收器
+doc.Pages.Accept(absorber);
 
-// 接受所有文档 pages
-
-c.Pages.Accept(absorber);
-
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 
 ```
 
@@ -94,7 +91,7 @@ ring extractedText = absorber.Text;
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-使用提取和文本搜索选项初始化[`TextAbsorber`](../../textabsorber)的新实例。
+初始化[`TextAbsorber`](../../textabsorber)带有提取和文本搜索选项。
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
@@ -107,7 +104,7 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 ### 评论
 
-执行文本提取并通过Text对象。
+执行文本提取并通过以下方式提供对提取文本的访问权限[`Text`](../text)对象.
 
 ### 也可以看看
 
@@ -121,7 +118,7 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-使用文本搜索选项初始化[`TextAbsorber`](../../textabsorber)的新实例。
+初始化[`TextAbsorber`](../../textabsorber)带有文本搜索选项。
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
@@ -133,7 +130,7 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 
 ### 评论
 
-执行文本提取并通过Text对象。
+执行文本提取并通过以下方式提供对提取文本的访问权限[`Text`](../text)对象.
 
 ### 也可以看看
 

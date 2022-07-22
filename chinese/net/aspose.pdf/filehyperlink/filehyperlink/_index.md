@@ -1,14 +1,14 @@
 ---
 title: FileHyperlink
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化FileHyperlinkaspose.pdf/filehyperlink类的新实例
+description: 初始化FileHyperlinkaspose.pdf/filehyperlink类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/filehyperlink/filehyperlink/
 ---
 ## FileHyperlink() {#constructor}
 
-初始化[`FileHyperlink`](../../filehyperlink)类的新实例。
+初始化[`FileHyperlink`](../../filehyperlink)类.
 
 ```csharp
 public FileHyperlink()
@@ -24,7 +24,7 @@ public FileHyperlink()
 
 ## FileHyperlink(string) {#constructor_1}
 
-初始化[`FileHyperlink`](../../filehyperlink)类的新实例。
+初始化[`FileHyperlink`](../../filehyperlink)类.
 
 ```csharp
 public FileHyperlink(string path)

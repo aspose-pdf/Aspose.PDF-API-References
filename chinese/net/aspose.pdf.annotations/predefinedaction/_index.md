@@ -18,14 +18,14 @@ public enum PredefinedAction
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| FirstPage | `0` | 转到第一页的命名操作。 |
-| LastPage | `1` | 转到最后一页的命名操作。 |
+| FirstPage | `0` | 转到第一页的命名动作。 |
+| LastPage | `1` | 到最后一页的命名动作。 |
 | NextPage | `2` | 转到下一页的命名操作。 |
-| PrevPage | `3` | 转到上一页的命名操作。 |
-| PrintDialog | `4` | 打开打印对话框 (JavaScript) 的命名操作。 |
+| PrevPage | `3` | 转到上一页的命名动作。 |
+| PrintDialog | `4` | 用于打开打印对话框 (JavaScript) 的命名操作。 |
 | Print | `5` | 打开打印对话框的命名操作。 |
 | Bookmarks_ExpanCurrentBookmark | `6` | 用于查找当前书签的命名操作。 |
-| Bookmarks_HightlightCurrentBookmark | `7` | 突出当前书签的命名操作。 |
+| Bookmarks_HightlightCurrentBookmark | `7` | 突出显示当前书签的命名操作。 |
 | Document_AttachFile | `8` | 添加文件附件的命名操作。 |
 | Document_CropPages | `9` | 裁剪文档页面的命名操作。 |
 | Document_DeletePages | `10` | 删除文档页面的命名操作。 |
@@ -33,26 +33,26 @@ public enum PredefinedAction
 | Document_InsertPages | `12` | 从文档中插入页面的命名操作。 |
 | Document_ReplacePages | `13` | 替换文档页面的命名操作。 |
 | Document_RotatePages | `14` | 旋转文档页面的命名操作。 |
-| Edit_CheckSpelling_InComFieldEdit | `15` | 检查注释拼写的命名操作。 |
+| Edit_CheckSpelling_InComFieldEdit | `15` | 用于检查评论拼写的命名操作。 |
 | Edit_Find | `16` | 要查找的命名操作。 |
 | Edit_Preferences | `17` | 用于编辑首选项的命名操作。 |
 | Edit_Search | `18` | 用于搜索的命名操作。 |
-| File_AttachToEmail | `19` | 用于将当前 pdf 文档附加到电子邮件消息中的命名操作。 |
+| File_AttachToEmail | `19` | 将当前 pdf 文档附加到电子邮件中的命名操作。 |
 | File_Close | `20` | 关闭文档的命名操作。 |
 | File_CreatePDF_FromScanner | `21` | 从扫描仪创建 pdf 文档的命名操作。 |
 | File_CreatePDF_FromWebPage | `22` | 从网页创建 pdf 文档的命名操作。 |
 | File_Exit | `23` | 退出 pdf 阅读器的命名操作。 |
 | File_Organizer_OpenOrganizer | `24` | 打开管理器的命名操作。 |
-| File_Print | `25` | 用于打印文档的命名操作。 |
+| File_Print | `25` | 打印文档的命名操作。 |
 | File_Properties | `26` | 打开文档属性的命名操作。 |
-| File_SaveAs | `27` | 用另一个名称保存文档的命名操作。 |
-| Miscellaneous_ZoomIn | `28` | 用于放大文档的命名操作。 |
+| File_SaveAs | `27` | 使用另一个名称保存文档的命名操作。 |
+| Miscellaneous_ZoomIn | `28` | 放大文档的命名操作。 |
 | Miscellaneous_ZoomOut | `29` | 缩小文档的命名操作。 |
-| PageImages_PrintPages | `30` | 用于打印文档页面的命名操作。 |
-| View_GoTo_NextView | `31` | 进入下一个视图的命名动作。 |
-| View_GoTo_Page | `32` | 用于转到特定页面的命名操作。 |
-| View_GoTo_PreDocument | `33` | 一个命名的动作去上一个文档。 |
-| View_GoTo_PreView | `34` | 一个命名的动作去上一个视图。 |
+| PageImages_PrintPages | `30` | 打印文档页面的命名操作。 |
+| View_GoTo_NextView | `31` | 一个命名的动作去下一个视图。 |
+| View_GoTo_Page | `32` | 前往特定页面的命名动作。 |
+| View_GoTo_PreDocument | `33` | 转到上一个文档的命名操作。 |
+| View_GoTo_PreView | `34` | 转到上一个视图的命名操作。 |
 | View_NavigationPanels_Articles | `35` | 显示/隐藏文章面板的命名操作。 |
 | View_NavigationPanels_Attachments | `36` | 显示/隐藏附件面板的命名操作。 |
 | View_NavigationPanels_Boomarks | `37` | 显示/隐藏书签面板的命名操作。 |
@@ -79,15 +79,15 @@ public enum PredefinedAction
 | View_Toolbars_PrintProduction | `58` | 显示/隐藏打印生产工具栏的命名操作。 |
 | View_Toolbars_PropertiesBar | `59` | 显示/隐藏属性工具栏的命名操作。 |
 | View_Toolbars_Redaction | `60` | 显示/隐藏编辑工具栏的命名操作。 |
-| View_Toolbars_SelectZoom | `61` | 显示/隐藏选择和隐藏的命名操作缩放工具栏。 |
+| View_Toolbars_SelectZoom | `61` | 显示/隐藏选择和缩放工具栏的命名操作。 |
 | View_Toolbars_Tasks | `62` | 显示/隐藏任务工具栏的命名操作。 |
 | View_Toolbars_Typewriter | `63` | 显示/隐藏打字机工具栏的命名操作。 |
 | View_Zoom_ActualSize | `64` | 以实际大小查看页面的命名操作。 |
-| View_Zoom_FitHeight | `65` | 一个命名动作以适应页面高度。 |
+| View_Zoom_FitHeight | `65` | 一个命名的动作，以适应高度的页面。 |
 | View_Zoom_FitPage | `66` | 适合页面的命名操作。 |
 | View_Zoom_FitVisible | `67` | 适合页面可见性的命名操作。 |
-| View_Zoom_FitWidth | `68` | 一个命名动作以适应页面宽度。 |
-| View_Zoom_ZoomTo | `69` | 用于进行缩放的命名操作。 |
+| View_Zoom_FitWidth | `68` | 一个命名动作，以适应页面宽度。 |
+| View_Zoom_ZoomTo | `69` | 进行缩放的命名动作。 |
 | Window_FullScreenMode | `70` | 以全屏模式查看文档的命名操作。 |
 
 ### 也可以看看

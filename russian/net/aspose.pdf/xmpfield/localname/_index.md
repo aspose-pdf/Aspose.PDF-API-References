@@ -1,14 +1,14 @@
 ---
 title: LocalName
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает имя локального объекта.
+description: Получает или задает имя локального.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/xmpfield/localname/
 ---
 ## XmpField.LocalName property
 
-Получает или задает имя локального объекта.
+Получает или задает имя локального.
 
 ```csharp
 public string LocalName { get; set; }
@@ -16,7 +16,7 @@ public string LocalName { get; set; }
 
 ### Стоимость имущества
 
-Имя локального.
+Имя местного.
 
 ### Смотрите также
 

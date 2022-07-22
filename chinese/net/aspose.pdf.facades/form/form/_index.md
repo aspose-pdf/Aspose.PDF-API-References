@@ -1,14 +1,19 @@
 ---
 title: Form
 second_title: Aspose.PDF for .NET API 参考
-description: 无参数表单的构造函数  ltcodegt Form form  new Aspose.Pdf.Facades.Form form.SrcFileName  file.pdf lt/codegt
+description: 无参数表单的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/form/form/
 ---
 ## Form() {#constructor}
 
-无参数表单的构造函数。  &lt;code&gt; Form form = new Aspose.Pdf.Facades.Form(); form.SrcFileName = "file.pdf"; &lt;/code&gt;
+无参数表单的构造函数。
+
+```csharp
+Form form = new Aspose.Pdf.Facades.Form();
+form.SrcFileName = "file.pdf";
+```
 
 ```csharp
 public Form()
@@ -24,7 +29,7 @@ public Form()
 
 ## Form(string) {#constructor_8}
 
-表单的构造函数。
+Form. 的构造函数
 
 ```csharp
 public Form(string srcFileName)
@@ -50,7 +55,7 @@ Form form = new Form("PdfForm.pdf");
 
 ## Form(Stream) {#constructor_4}
 
-表单的构造函数。
+表单的构造函数.
 
 ```csharp
 public Form(Stream srcStream)
@@ -76,7 +81,7 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ## Form(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`Form`](../../form)对象。
+初始化新的[`Form`](../../form)对象基于*document*.
 
 ```csharp
 public Form(Document document)
@@ -84,7 +89,7 @@ public Form(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | Pdf 文档. |
 
 ### 也可以看看
 

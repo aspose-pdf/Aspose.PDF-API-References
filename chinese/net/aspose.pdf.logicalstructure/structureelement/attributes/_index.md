@@ -1,14 +1,14 @@
 ---
 title: Attributes
 second_title: Aspose.PDF for .NET API 参考
-description: 获取StructureAttributeCollection对象
+description: 获取StructureAttributeCollection对象.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
 ## StructureElement.Attributes property
 
-获取StructureAttributeCollection对象。
+获取StructureAttributeCollection对象.
 
 ```csharp
 public StructureAttributeCollection Attributes { get; }
@@ -16,7 +16,7 @@ public StructureAttributeCollection Attributes { get; }
 
 ### 适当的价值
 
-StructureAttributeCollection对象。
+StructureAttributeCollection目的。
 
 ### 也可以看看
 

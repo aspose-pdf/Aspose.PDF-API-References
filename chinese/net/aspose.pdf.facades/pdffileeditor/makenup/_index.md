@@ -1,14 +1,14 @@
 ---
 title: MakeNUp
 second_title: Aspose.PDF for .NET API 参考
-description: 将 N-Up 文档从 firstInputFile 转换为 outputFile
+description: 使 N-Up 文档从 firstInputFile 到 outputFile.
 type: docs
 weight: 340
 url: /zh/net/aspose.pdf.facades/pdffileeditor/makenup/
 ---
 ## MakeNUp(string, string, int, int) {#makenup_8}
 
-将 N-Up 文档从 firstInputFile 转换为 outputFile。
+使 N-Up 文档从 firstInputFile 到 outputFile.
 
 ```csharp
 public bool MakeNUp(string inputFile, string outputFile, int x, int y)
@@ -16,9 +16,9 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入pdf文件路径和名称。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
-| x | Int32 | 列数。 |
+| inputFile | String | 输入pdf文件路径和名称. |
+| outputFile | String | 输出pdf文件路径和名称. |
+| x | Int32 | 列数. |
 | y | Int32 | 行数。 |
 
 ### 返回值
@@ -50,9 +50,9 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 pdf 流。 |
-| outputStream | Stream | 输出 pdf 流。 |
-| x | Int32 | 列数。 |
+| inputStream | Stream | 输入pdf流. |
+| outputStream | Stream | 输出pdf流. |
+| x | Int32 | 列数. |
 | y | Int32 | 行数。 |
 
 ### 返回值
@@ -86,11 +86,11 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageS
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 pdf 流。 |
-| outputStream | Stream | 输出 pdf 流。 |
-| x | Int32 | 列数。 |
+| inputStream | Stream | 输入pdf流. |
+| outputStream | Stream | 输出pdf流. |
+| x | Int32 | 列数. |
 | y | Int32 | 行数。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| pageSize | PageSize | 输出pdf文件的页面大小. |
 
 ### 返回值
 
@@ -116,7 +116,7 @@ pfe.MakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ## MakeNUp(string, string, string) {#makenup_10}
 
-从两个输入 PDF 文件生成 N-Up 文档到 outputFile。 outputFile 的每一页将包含两页，一页来自第一个输入文件 另一页来自第二个输入文件。这两页是水平堆积的。
+将两个输入 PDF 文件中的 N-Up 文档制作成 outputFile。 outputFile 的每一页将包含两页，一页来自第一个输入文件 ，另一页来自第二个输入文件。这两页是水平堆积的。
 
 ```csharp
 public bool MakeNUp(string firstInputFile, string secondInputFile, string outputFile)
@@ -124,9 +124,9 @@ public bool MakeNUp(string firstInputFile, string secondInputFile, string output
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| firstInputFile | String | 第一个输入文件。 |
-| secondInputFile | String | 第二个输入文件。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
+| firstInputFile | String | 第一个输入文件. |
+| secondInputFile | String | 第二个输入文件. |
+| outputFile | String | 输出pdf文件路径和名称. |
 
 ### 返回值
 
@@ -149,7 +149,7 @@ pfe.MakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 
 ## MakeNUp(Stream, Stream, Stream) {#makenup_4}
 
-从两个输入 PDF 流生成 N-Up 文档到 outputStream。
+从两个输入 PDF 流生成 N-Up 文档到 outputStream.
 
 ```csharp
 public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream outputStream)
@@ -157,9 +157,9 @@ public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream ou
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| firstInputStream | Stream | 第一个输入流。 |
-| secondInputStream | Stream | 第二个输入流。 |
-| outputStream | Stream | 输出 pdf 流。 |
+| firstInputStream | Stream | 第一个输入流. |
+| secondInputStream | Stream | 第二个输入流. |
+| outputStream | Stream | 输出pdf流. |
 
 ### 返回值
 
@@ -185,7 +185,7 @@ pfe.MakeNUp(input1, input2, output);
 
 ## MakeNUp(string[], string, bool) {#makenup_11}
 
-将多输入 PDF 文件中的 N-Up 文档制作成 outputFile。 outputFile 的每一页将包含多个页面，这些页面与相同页码的输入文件中的页面 组合在一起。如果 isSidewise 为真，则水平堆积的多页 ；如果 isSidewise 为假，则垂直堆积。
+从多输入 PDF 文件制作 N-Up 文档到 outputFile。 outputFile 的每一页将包含多页，这些页与相同页码的输入文件中的 页组合。如果 isSidewise 为 true，则多页水平堆积 ，如果 isSidewise 为 false，则垂直堆积。
 
 ```csharp
 public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
@@ -193,9 +193,9 @@ public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFiles | String[] | 输入 Pdf 文件。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
-| isSidewise | Boolean | 堆积方式，水平为真，垂直为flase。 |
+| inputFiles | String[] | 输入 PDF 文件。 |
+| outputFile | String | 输出pdf文件路径和名称. |
+| isSidewise | Boolean | 堆积方式，水平为真，垂直为假。 |
 
 ### 返回值
 
@@ -218,20 +218,21 @@ pfe.MakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.p
 
 ## MakeNUp(Stream[], Stream, bool) {#makenup_5}
 
-将多输入 PDF 流生成 N-Up 文档到 outputStream。 outputStream 的每一页将包含多个页面，这些页面与相同页码的输入流中的页面 组合。如果 isSidewise 为真，则水平堆积的多页 ；如果 isSidewise 为假，则垂直堆积。
+将多输入 PDF 流中的 N-Up 文档制作成 outputStream。 outputStream 的每一页将包含多个页面，这些页面与相同页码的输入流中的页面 组合。如果isSidewise为真，多页横向堆积 ，如果isSidewise为假，多页垂直堆积。
 
 ```csharp
 public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 ```
 
-| 范围 | 描述 |
-| --- | --- |
-| inputStreams | 输入 Pdf 流。 |
-| outputStream | 输出 pdf 流。  堆积方式，水平为真，垂直为flase |
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| inputStreams | Stream[] | 输入 PDF 流。 |
+| outputStream | Stream | 输出pdf流。 |
+| isSidewise | Boolean | 堆积方式，水平为真，垂直为假。 |
 
 ### 返回值
 
-boolean - 成功则为真，否则为假。
+boolean - True 表示成功，或 false。
 
 ### 例子
 
@@ -254,7 +255,7 @@ pfe.MakeNUp(new Stream[] { stream1, stream2, stream3 }, output, false);
 
 ## MakeNUp(string, string, int, int, PageSize) {#makenup_9}
 
-将 N-Up 文档从输入文件转换为 outputFile。
+将输入文件中的 N-Up 文档制作为 outputFile.
 
 ```csharp
 public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize pageSize)
@@ -262,11 +263,11 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入pdf文件路径和名称。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
-| x | Int32 | 列数。 |
+| inputFile | String | 输入pdf文件路径和名称. |
+| outputFile | String | 输出pdf文件路径和名称. |
+| x | Int32 | 列数. |
 | y | Int32 | 行数。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| pageSize | PageSize | 输出pdf文件的页面大小. |
 
 ### 返回值
 
@@ -302,7 +303,7 @@ public bool MakeNUp(Stream inputStream, int x, int y, PageSize pageSize, HttpRes
 | x | Int32 | 列数。 |
 | y | Int32 | 行数。 |
 | pageSize | PageSize | 结果文件中的页面大小。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
@@ -331,7 +332,7 @@ public bool MakeNUp(string inputFile, int x, int y, PageSize pageSize, HttpRespo
 | x | Int32 | 列数。 |
 | y | Int32 | 行数。 |
 | pageSize | PageSize | 结果文件中的页面大小。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
@@ -348,7 +349,7 @@ public bool MakeNUp(string inputFile, int x, int y, PageSize pageSize, HttpRespo
 
 ## MakeNUp(string, int, int, HttpResponse) {#makenup_7}
 
-制作 N-up 文档并将结果存储到 HttpResponse。
+制作 N-up 文档并将结果存储到 HttpResponse.
 
 ```csharp
 public bool MakeNUp(string inputFile, int x, int y, HttpResponse response)
@@ -359,7 +360,7 @@ public bool MakeNUp(string inputFile, int x, int y, HttpResponse response)
 | inputFile | String | 源文件名。 |
 | x | Int32 | 列数。 |
 | y | Int32 | 行数。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
@@ -386,7 +387,7 @@ public bool MakeNUp(Stream inputStream, int x, int y, HttpResponse response)
 | inputStream | Stream | 输入文档流。 |
 | x | Int32 | 列数。 |
 | y | Int32 | 行数。 |
-| response | HttpResponse | HttpResponse 将存储结果的位置。 |
+| response | HttpResponse | 将存储结果的 HttpResponse。 |
 
 ### 返回值
 

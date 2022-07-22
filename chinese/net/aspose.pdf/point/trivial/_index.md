@@ -1,14 +1,14 @@
 ---
 title: Trivial
 second_title: Aspose.PDF for .NET API 参考
-description: 获取零坐标的点
+description: 获取零坐标点
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/point/trivial/
 ---
 ## Point.Trivial property
 
-获取零坐标的点。
+获取零坐标点。
 
 ```csharp
 public static Point Trivial { get; }

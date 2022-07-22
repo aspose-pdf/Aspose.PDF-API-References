@@ -19,9 +19,9 @@ public class GoToAction : PdfAction
 | Имя | Описание |
 | --- | --- |
 | [GoToAction](gotoaction#constructor_1)(ExplicitDestination) | Конструктор. |
-| [GoToAction](gotoaction#constructor_3)(Page) | Конструктор класса GoToAction. |
+| [GoToAction](gotoaction#constructor_3)(Page) | Конструктор для класса GoToAction. |
 | [GoToAction](gotoaction#constructor_2)(Document, string) | Действие, связанное с Named Destination. |
-| [GoToAction](gotoaction#constructor_4)(Page, ExplicitDestinationType, params double[]) | Конструктор класса GoToAction. |
+| [GoToAction](gotoaction#constructor_4)(Page, ExplicitDestinationType, params double[]) | Конструктор для класса GoToAction. |
 
 ## Характеристики
 

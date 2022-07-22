@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置用作页面标记的字符串值
+description: 获取或设置作为页面标记的字符串值
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/textstamp/value/
 ---
 ## TextStamp.Value property
 
-获取或设置用作页面标记的字符串值。
+获取或设置作为页面标记的字符串值。
 
 ```csharp
 public string Value { get; set; }

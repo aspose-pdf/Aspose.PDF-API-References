@@ -1,14 +1,14 @@
 ---
 title: TextEditOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает параметры редактирования текста.
+description: Получает или задает параметры редактирования текста.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/texteditoptions/
 ---
 ## PdfContentEditor.TextEditOptions property
 
-Получает или устанавливает параметры редактирования текста.
+Получает или задает параметры редактирования текста.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }

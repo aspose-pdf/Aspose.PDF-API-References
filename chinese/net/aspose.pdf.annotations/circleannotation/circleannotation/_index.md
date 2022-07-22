@@ -29,7 +29,7 @@ public CircleAnnotation(Document document)
 
 ## CircleAnnotation(Page, Rectangle) {#constructor_1}
 
-在指定页面上创建新的圆形注解。
+在指定页面上创建新的圆形注释。
 
 ```csharp
 public CircleAnnotation(Page page, Rectangle rect)

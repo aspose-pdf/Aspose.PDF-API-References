@@ -16,7 +16,7 @@ public Dictionary<string, XmpValue> ToDictionary()
 
 ### Возвращаемое значение
 
-Значение словаря.
+Словарное значение.
 
 ### Смотрите также
 

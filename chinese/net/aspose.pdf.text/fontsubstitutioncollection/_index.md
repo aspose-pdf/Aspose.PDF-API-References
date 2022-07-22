@@ -1,14 +1,14 @@
 ---
 title: FontSubstitutionCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 表示字体替换策略集合
+description: 代表字体替换策略集合
 type: docs
 weight: 6770
 url: /zh/net/aspose.pdf.text/fontsubstitutioncollection/
 ---
 ## FontSubstitutionCollection class
 
-表示字体替换策略集合。
+代表字体替换策略集合。
 
 ```csharp
 public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
@@ -18,7 +18,7 @@ public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontsubstitutioncollection/count) { get; } | 获取集合中实际包含的[`Font`](../font)对象元素的数量。 |
+| [Count](../../aspose.pdf.text/fontsubstitutioncollection/count) { get; } | 获取数量[`Font`](../font)集合中实际包含的对象元素。 |
 | [IsSynchronized](../../aspose.pdf.text/fontsubstitutioncollection/issynchronized) { get; } | 获取一个值，该值指示对集合的访问是否同步（线程安全）。 |
 | [Item](../../aspose.pdf.text/fontsubstitutioncollection/item) { get; } | 获取指定索引处的字体元素。 |
 | [SyncRoot](../../aspose.pdf.text/fontsubstitutioncollection/syncroot) { get; } | 获取可用于同步访问集合的对象。 |
@@ -29,8 +29,8 @@ public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 | --- | --- |
 | [Add](../../aspose.pdf.text/fontsubstitutioncollection/add)(FontSubstitution) | 将新的字体替换对象添加到集合中。 |
 | [Clear](../../aspose.pdf.text/fontsubstitutioncollection/clear)() | 清除字体替换集合。 |
-| [Contains](../../aspose.pdf.text/fontsubstitutioncollection/contains)(FontSubstitution) | 确定元素是否在集合中。 |
-| [CopyTo](../../aspose.pdf.text/fontsubstitutioncollection/copyto)(FontSubstitution[], int) | 将整个集合复制到兼容的一维数组，从目标数组的指定索引开始 |
+| [Contains](../../aspose.pdf.text/fontsubstitutioncollection/contains)(FontSubstitution) | 确定一个元素是否在集合中。 |
+| [CopyTo](../../aspose.pdf.text/fontsubstitutioncollection/copyto)(FontSubstitution[], int) | 将整个集合复制到一个兼容的一维数组中，从目标数组的指定索引开始 |
 | [GetEnumerator](../../aspose.pdf.text/fontsubstitutioncollection/getenumerator)() | 返回整个集合的枚举数。 |
 | [Remove](../../aspose.pdf.text/fontsubstitutioncollection/remove)(FontSubstitution) | 删除字体替换元素。 |
 

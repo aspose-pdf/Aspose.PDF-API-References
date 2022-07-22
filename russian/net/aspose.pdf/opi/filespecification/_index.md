@@ -1,14 +1,14 @@
 ---
 title: FileSpecification
 second_title: Aspose.PDF для справочника API .NET
-description: Получает внешний файл содержащий прокси-образ с низким разрешением.
+description: Получает внешний файл содержащий прокси-изображение с низким разрешением.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/opi/filespecification/
 ---
 ## Opi.FileSpecification property
 
-Получает внешний файл, содержащий прокси-образ с низким разрешением.
+Получает внешний файл, содержащий прокси-изображение с низким разрешением.
 
 ```csharp
 public string FileSpecification { get; }

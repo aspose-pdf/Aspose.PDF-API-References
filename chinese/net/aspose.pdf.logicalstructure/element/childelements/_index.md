@@ -1,14 +1,14 @@
 ---
 title: ChildElements
 second_title: Aspose.PDF for .NET API 参考
-description: 获取Element对象的子集合
+description: 获取子集合Element对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/element/childelements/
 ---
 ## Element.ChildElements property
 
-获取Element对象的子集合。
+获取子集合Element对象.
 
 ```csharp
 public ElementList ChildElements { get; }
@@ -16,7 +16,7 @@ public ElementList ChildElements { get; }
 
 ### 适当的价值
 
-的儿童集合Element 对象。
+孩子的集合Element对象.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CustomAppearance
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает пользовательский внешний вид.
+description: Получает/задает пользовательский внешний вид.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/signature/customappearance/
 ---
 ## Signature.CustomAppearance property
 
-Получает/устанавливает пользовательский внешний вид.
+Получает/задает пользовательский внешний вид.
 
 ```csharp
 public SignatureCustomAppearance CustomAppearance { get; set; }

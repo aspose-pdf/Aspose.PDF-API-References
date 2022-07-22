@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 获取页面上哪个运算符的文本
+description: 获取操作符在页面上的文本
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/textshowoperator/text/
 ---
 ## TextShowOperator.Text property
 
-获取页面上哪个运算符的文本。
+获取操作符在页面上的文本。
 
 ```csharp
 public virtual string Text { get; set; }

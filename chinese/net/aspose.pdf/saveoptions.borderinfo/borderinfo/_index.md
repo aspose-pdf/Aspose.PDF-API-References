@@ -24,7 +24,7 @@ public BorderInfo()
 
 ## BorderInfo(BorderPartStyle) {#constructor_1}
 
-创建 BorderInfo 类的实例并初始化 边框的所有元素（上、左、右、下） 与从提供的边框样式
+创建 BorderInfo 类的实例并使用从提供的边框样式复制的属性初始化 边框（上、左、右、下） 的所有元素
 
 ```csharp
 public BorderInfo(BorderPartStyle commonStyle)
@@ -32,7 +32,7 @@ public BorderInfo(BorderPartStyle commonStyle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| commonStyle | BorderPartStyle | 边框部分样式复制的属性将用于边框的所有元素（左，右，上, 底部) |
+| commonStyle | BorderPartStyle | 将用于边框的所有元素的边框部分样式（左、右、上、下） |
 
 ### 也可以看看
 

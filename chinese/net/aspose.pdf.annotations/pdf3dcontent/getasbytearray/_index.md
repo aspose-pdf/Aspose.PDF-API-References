@@ -16,7 +16,7 @@ public byte[] GetAsByteArray()
 
 ### 返回值
 
-System.Byte[]。
+系统.字节[]。
 
 ### 也可以看看
 

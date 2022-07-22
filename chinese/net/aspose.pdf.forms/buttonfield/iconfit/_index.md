@@ -1,14 +1,14 @@
 ---
 title: IconFit
 second_title: Aspose.PDF for .NET API 参考
-description: 获取图标适合对象指定小部件注释的图标应如何在其注释矩形中显示
+description: 获取图标适合对象指定小部件注释的图标应如何显示在其注释矩形中
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/buttonfield/iconfit/
 ---
 ## ButtonField.IconFit property
 
-获取图标适合对象，指定小部件注释的图标应如何在其注释矩形中显示。
+获取图标适合对象，指定小部件注释的图标应如何显示在其注释矩形中。
 
 ```csharp
 public IconFit IconFit { get; }

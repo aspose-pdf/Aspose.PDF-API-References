@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示椭圆底部位置的浮点值
+description: 获取或设置一个表示椭圆底部位置的浮点值
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.drawing/ellipse/bottom/
 ---
 ## Ellipse.Bottom property
 
-获取或设置指示椭圆底部位置的浮点值。
+获取或设置一个表示椭圆底部位置的浮点值。
 
 ```csharp
 public double Bottom { get; set; }

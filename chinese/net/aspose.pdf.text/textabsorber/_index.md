@@ -1,14 +1,14 @@
 ---
 title: TextAbsorber
 second_title: Aspose.PDF for .NET API 参考
-description: 表示文本的吸收器对象 执行文本提取并通过Text./textabsorber/text对象提供对结果的访问
+description: 表示文本的吸收器对象 执行文本提取并通过以下方式访问结果Text./textabsorber/text对象.
 type: docs
 weight: 6960
 url: /zh/net/aspose.pdf.text/textabsorber/
 ---
 ## TextAbsorber class
 
-表示文本的吸收器对象。 执行文本提取并通过[`Text`](./text)对象提供对结果的访问。
+表示文本的吸收器对象。 执行文本提取并通过以下方式访问结果[`Text`](./text)对象.
 
 ```csharp
 public class TextAbsorber
@@ -18,19 +18,19 @@ public class TextAbsorber
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextAbsorber](textabsorber#constructor)() | 初始化[`TextAbsorber`](../textabsorber)的新实例。 |
-| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | 使用提取选项初始化[`TextAbsorber`](../textabsorber)的新实例。 |
-| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | 使用文本搜索选项初始化[`TextAbsorber`](../textabsorber)的新实例。 |
-| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | 使用提取和文本搜索选项初始化[`TextAbsorber`](../textabsorber)的新实例。 |
+| [TextAbsorber](textabsorber#constructor)() | 初始化[`TextAbsorber`](../textabsorber). |
+| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | 初始化[`TextAbsorber`](../textabsorber)带有提取选项。 |
+| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | 初始化[`TextAbsorber`](../textabsorber)带有文本搜索选项。 |
+| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | 初始化[`TextAbsorber`](../textabsorber)带有提取和文本搜索选项。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | [`TextExtractionError`](../textextractionerror)对象列表。它包含有关在文本提取期间发现的错误的信息。 仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。 |
+| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | 列表[`TextExtractionError`](../textextractionerror)对象。它包含有关在文本提取期间发现错误的信息。 仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。 |
 | virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions) { get; set; } | 获取或设置文本提取选项。 |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | 值表示在文本提取过程中是否发现错误。 仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。 |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | 获取[`TextAbsorber`](../textabsorber)在 PDF 文档或页面上提取的提取文本。 |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | 值表示在文本提取过程中是否发现错误。 只有在 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。 |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | 获取提取的文本[`TextAbsorber`](../textabsorber)在 PDF 文档或页面上提取。 |
 | virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions) { get; set; } | 获取或设置文本搜索选项。 |
 
 ## 方法
@@ -43,24 +43,24 @@ public class TextAbsorber
 
 ### 评论
 
-[`TextAbsorber`](../textabsorber)对象是用于从 Pdf 文档或文档页面中提取文本。
+的[`TextAbsorber`](../textabsorber)对象用于从 Pdf 文档或文档页面中提取文本。
 
 ### 例子
 
-该示例演示了如何在第一个 PDF 文档页面上提取文本。
+该示例演示了如何在 PDF 文档的第一个页面上提取文本。
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// 创建 TextAbsorber 对象以提取 text
-xtAbsorber absorber = new TextAbsorber();
+// 创建 TextAbsorber 对象以提取文本
+TextAbsorber absorber = new TextAbsorber();
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 
 ```
 

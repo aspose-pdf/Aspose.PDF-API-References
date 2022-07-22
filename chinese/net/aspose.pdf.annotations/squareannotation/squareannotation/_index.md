@@ -1,14 +1,14 @@
 ---
 title: SquareAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 用于生成器的构造函数
+description: 与 Generator. 一起使用的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/squareannotation/squareannotation/
 ---
 ## SquareAnnotation(Document) {#constructor}
 
-用于生成器的构造函数。
+与 Generator. 一起使用的构造函数
 
 ```csharp
 public SquareAnnotation(Document document)
@@ -16,7 +16,7 @@ public SquareAnnotation(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 将创建注释的文档。 |
+| document | Document | 将在其中创建注释的文档。 |
 
 ### 也可以看看
 
@@ -38,7 +38,7 @@ public SquareAnnotation(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 应创建注释的文档页面。 |
-| rect | Rectangle | 标注矩形，定义标注在页面上的位置。 |
+| rect | Rectangle | 注释矩形，定义页面上注释的位置。 |
 
 ### 也可以看看
 

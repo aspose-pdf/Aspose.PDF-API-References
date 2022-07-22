@@ -18,7 +18,7 @@ public enum SubstitutionFontCategories
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` | 与系统字体同名的字体。 这些字体大部分都可以安全地替换为相同命名的系统字体。 |
+| TheSameNamedEmbeddedFonts | `0` | 与系统字体命名相同的字体。 这些字体大部分可以安全地替换为相同命名的系统字体。 |
 | AllEmbeddedFonts | `1` | 替换所有嵌入字体。 |
 
 ### 也可以看看

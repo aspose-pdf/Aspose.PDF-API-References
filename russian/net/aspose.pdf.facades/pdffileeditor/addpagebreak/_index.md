@@ -17,7 +17,7 @@ public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | src | Document | Исходный документ. |
-| dest | Document | Целевой документ. |
+| dest | Document | Документ назначения. |
 | pageBreaks | PageBreak[] | Массив объектов PageBreak, описывающих места разрывов страниц. |
 
 ### Смотрите также
@@ -42,7 +42,7 @@ public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 | --- | --- | --- |
 | src | String | Путь к исходному документу. |
 | dest | String | Путь к целевому документу. |
-| pageBreaks | PageBreak[] | Массив объектов PageBreak, описывающих страницы и места, где будет добавлен разрыв страницы. |
+| pageBreaks | PageBreak[] | Массив объекта PageBreak, описывающего страницы и места, где будет добавлен разрыв страницы. |
 
 ### Смотрите также
 
@@ -63,9 +63,9 @@ public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | Stream | Источник, содержащий исходный документ. |
+| src | Stream | Источник, который содержит исходный документ. |
 | dest | Stream | Источник, в котором будет сохранен целевой документ. |
-| pageBreaks | PageBreak[] | Массив объектов PageBreak, описывающих страницы и места, где будет добавлен разрыв страницы. |
+| pageBreaks | PageBreak[] | Массив объекта PageBreak, описывающего страницы и места, где будет добавлен разрыв страницы. |
 
 ### Смотрите также
 

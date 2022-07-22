@@ -1,14 +1,14 @@
 ---
 title: StampType
 second_title: Aspose.PDF for .NET API 参考
-description: 描述戳记类型
+description: 描述邮票类型
 type: docs
 weight: 2740
 url: /zh/net/aspose.pdf.facades/stamptype/
 ---
 ## StampType enumeration
 
-描述戳记类型。
+描述邮票类型。
 
 ```csharp
 public enum StampType
@@ -18,7 +18,7 @@ public enum StampType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Form | `0` | 邮票如果表格。 |
+| Form | `0` | 印章如果表格. |
 | Image | `1` | 邮票是图像。 |
 
 ### 也可以看看

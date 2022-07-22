@@ -1,14 +1,14 @@
 ---
 title: Phase
 second_title: Aspose.PDF for .NET API 参考
-description: 冲刺阶段在开始描画路径之前应循环遍历虚线数组将虚线和间隙的长度相加 当累积长度等于 dash 阶段指定的值时将开始描边路径 并且从该点开始循环使用 dash 数组
+description: 冲刺阶段在开始描画路径之前应循环遍历虚线数组将虚线和间隙的长度相加 当累积长度等于短划线阶段指定的值时路径的描边应开始 和短划线阵列应从该点开始循环使用
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.operators/setdash/phase/
 ---
 ## SetDash.Phase property
 
-冲刺阶段。在开始描画路径之前，应循环遍历虚线数组，将虚线和间隙的长度相加。 当累积长度等于 dash 阶段指定的值时，将开始描边路径， 并且从该点开始循环使用 dash 数组。
+冲刺阶段。在开始描画路径之前，应循环遍历虚线数组，将虚线和间隙的长度相加。 当累积长度等于短划线阶段指定的值时，路径的描边应开始， 和短划线阵列应从该点开始循环使用。
 
 ```csharp
 public int Phase { get; set; }

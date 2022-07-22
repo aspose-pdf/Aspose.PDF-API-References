@@ -17,9 +17,9 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 将创建注释的原始页数。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | annotRect | Rectangle | 定义页面上注释位置的注释矩形。 |
-| icon | String | 在显示注释时使用图标。默认值:'草稿'。" |
+| icon | String | 一个图标将用于显示注释。默认值：‘草稿’。” |
 | annotContents | String | 注释的内容。 |
 | color | Color | 注释的颜色。 |
 
@@ -52,11 +52,11 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 将创建注释的原始页数。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | annotRect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | annotContents | String | 注释的内容。 |
 | color | Color | 注释的颜色。 |
-| appearanceFile | String | 外观文件路径。 |
+| appearanceFile | String | 外观文件的路径。 |
 
 ### 例子
 
@@ -87,7 +87,7 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 将创建注释的原始页数。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | annotRect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | annotContents | String | 注释的内容。 |
 | color | Color | 注释的颜色。 |

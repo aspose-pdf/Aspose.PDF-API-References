@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API 参考
-description: 处置方法
+description: 处理方法
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/cells/dispose/
 ---
 ## Cells.Dispose method
 
-处置方法
+处理方法
 
 ```csharp
 public void Dispose()

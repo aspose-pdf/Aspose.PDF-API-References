@@ -18,16 +18,16 @@ public sealed class CgmLoadOptions : LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CgmLoadOptions](cgmloadoptions#constructor)() | 创建用于将 CGM 文件转换为 pdf 文档的默认加载选项。 默认 pdf 页面大小 - A4 300dpi 2480 X 3508。 |
-| [CgmLoadOptions](cgmloadoptions#constructor_1)(SizeF) | 使用定义的!:pageSize创建加载选项。 |
+| [CgmLoadOptions](cgmloadoptions#constructor)() | 创建用于将 CGM 文件转换为 pdf 文档的默认加载选项。 默认 pdf 页面大小 - A4 300dpi 2480 X 3508. |
+| [CgmLoadOptions](cgmloadoptions#constructor_1)(SizeF) | 创建带有定义的加载选项!:pageSize. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
-| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize) { get; } | 获取或设置用于导入的输出页面大小。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
+| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize) { get; } | 获取或设置导入的输出页面大小。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ### 也可以看看
 

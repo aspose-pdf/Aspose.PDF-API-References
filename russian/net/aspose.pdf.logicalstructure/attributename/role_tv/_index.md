@@ -1,14 +1,14 @@
 ---
 title: Role_tv
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут Рольtv - Текстовое поле.
+description: Роль атрибута tv  поле текстового значения.
 type: docs
 weight: 420
 url: /ru/net/aspose.pdf.logicalstructure/attributename/role_tv/
 ---
 ## AttributeName.Role_tv field
 
-Атрибут Роль:tv - Текстовое поле.
+Роль атрибута: tv — поле текстового значения.
 
 ```csharp
 public static readonly AttributeName Role_tv;

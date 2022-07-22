@@ -1,14 +1,14 @@
 ---
 title: MoveTo
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化新的Operators.m移动到运算符
+description: 初始化新的Operators.m移至操作员.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/moveto/moveto/
 ---
 ## MoveTo constructor
 
-初始化新的!:Operators.m（移动到）运算符。
+初始化新的!:Operators.m（移至）操作员.
 
 ```csharp
 public MoveTo(double x, double y)

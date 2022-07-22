@@ -16,7 +16,7 @@ public void Add(FileSpecification file)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| file | FileSpecification | FileSpecification 应该添加到colleciton中。 |
+| file | FileSpecification | FileSpecification 应该添加到 colleciton 中。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Add(FileSpecification file)
 
 ## Add(string, FileSpecification) {#add_1}
 
-使用指定键将文件添加到嵌入文件。
+将文件添加到具有指定键的嵌入文件中。
 
 ```csharp
 public void Add(string key, FileSpecification file)
@@ -37,7 +37,7 @@ public void Add(string key, FileSpecification file)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 键入嵌入文件。 |
+| key | String | 键入嵌入的文件。 |
 | file | FileSpecification | 文件规范。 |
 
 ### 也可以看看

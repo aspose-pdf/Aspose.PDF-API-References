@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_Circle
 second_title: Aspose.PDF для справочника API .NET
-description: Список атрибутов НумерацияКруг - Открытая круглая пуля.
+description: Нумерация списка атрибутов Круг  открытый круговой маркер.
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_circle/
 ---
 ## AttributeName.ListNumbering_Circle field
 
-Список атрибутов Нумерация:Круг - Открытая круглая пуля.
+Нумерация списка атрибутов: Круг — открытый круговой маркер.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Circle;

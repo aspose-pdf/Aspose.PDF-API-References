@@ -18,9 +18,9 @@ public class ProgressEventHandlerInfo
 
 | Имя | Описание |
 | --- | --- |
-| [EventType](../../aspose.pdf/progresseventhandlerinfo/eventtype) | Тип произошедшего события прогресса |
-| [MaxValue](../../aspose.pdf/progresseventhandlerinfo/maxvalue) | максимально возможное значение значения прогресса |
-| [Value](../../aspose.pdf/progresseventhandlerinfo/value) | текущее значение значения прогресса |
+| [EventType](../../aspose.pdf/progresseventhandlerinfo/eventtype) | Тип события выполнения, которое произошло |
+| [MaxValue](../../aspose.pdf/progresseventhandlerinfo/maxvalue) | максимально возможное значение прогресса value |
+| [Value](../../aspose.pdf/progresseventhandlerinfo/value) | текущее значение прогресса value |
 
 ### Смотрите также
 

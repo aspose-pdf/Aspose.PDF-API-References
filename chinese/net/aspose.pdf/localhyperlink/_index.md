@@ -18,15 +18,15 @@ public sealed class LocalHyperlink : Hyperlink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LocalHyperlink](localhyperlink#constructor)() | 初始化[`LocalHyperlink`](../localhyperlink)类的新实例。 |
-| [LocalHyperlink](localhyperlink#constructor_1)(BaseParagraph) | 初始化[`LocalHyperlink`](../localhyperlink)类的新实例。 |
+| [LocalHyperlink](localhyperlink#constructor)() | 初始化[`LocalHyperlink`](../localhyperlink)类. |
+| [LocalHyperlink](localhyperlink#constructor_1)(BaseParagraph) | 初始化[`LocalHyperlink`](../localhyperlink)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Target](../../aspose.pdf/localhyperlink/target) { get; set; } | 获取或设置目标段落。 |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber) { get; set; } | 获取或设置目标页码。 |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber) { get; set; } | 获取或设置目标页码 |
 
 ### 也可以看看
 

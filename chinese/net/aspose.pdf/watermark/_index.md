@@ -1,14 +1,14 @@
 ---
 title: Watermark
 second_title: Aspose.PDF for .NET API 参考
-description: 表示页面的水印
+description: 代表页面的水印
 type: docs
 weight: 7350
 url: /zh/net/aspose.pdf/watermark/
 ---
 ## Watermark class
 
-表示页面的水印。
+代表页面的水印。
 
 ```csharp
 public class Watermark
@@ -18,8 +18,8 @@ public class Watermark
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Watermark](watermark#constructor)(Image) | 用图像初始化水印对象。 |
-| [Watermark](watermark#constructor_1)(Image, Rectangle) | 使用图像和它在页面上的位置初始化水印对象。 |
+| [Watermark](watermark#constructor)(Image) | 使用图像初始化水印对象。 |
+| [Watermark](watermark#constructor_1)(Image, Rectangle) | 使用图像初始化水印对象及其在页面上的位置。 |
 
 ## 特性
 

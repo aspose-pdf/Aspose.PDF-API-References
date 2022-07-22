@@ -1,14 +1,14 @@
 ---
 title: InvalidFormTypeOperationException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаInvalidFormTypeOperationExceptionaspose.pdf/invalidformtypeoperationexception.
+description: Инициализирует новый экземплярInvalidFormTypeOperationExceptionaspose.pdf/invalidformtypeoperationexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
 ---
 ## InvalidFormTypeOperationException() {#constructor}
 
-Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception).
+Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) класс.
 
 ```csharp
 public InvalidFormTypeOperationException()
@@ -24,7 +24,7 @@ public InvalidFormTypeOperationException()
 
 ## InvalidFormTypeOperationException(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception).
+Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) класс.
 
 ```csharp
 public InvalidFormTypeOperationException(string message)
@@ -44,7 +44,7 @@ public InvalidFormTypeOperationException(string message)
 
 ## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../../invalidformtypeoperationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)
@@ -73,7 +73,7 @@ public InvalidFormTypeOperationException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

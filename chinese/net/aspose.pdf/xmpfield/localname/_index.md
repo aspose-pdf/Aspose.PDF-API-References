@@ -16,7 +16,7 @@ public string LocalName { get; set; }
 
 ### 适当的价值
 
-本地名称。
+当地人的名字。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ActionCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Набор действий
+description: Коллекция действий
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/actioncollection/
 ---
 ## ActionCollection class
 
-Набор действий
+Коллекция действий
 
 ```csharp
 public sealed class ActionCollection : ICollection<PdfAction>
@@ -30,7 +30,7 @@ public sealed class ActionCollection : ICollection<PdfAction>
 | --- | --- |
 | [Add](../../aspose.pdf.annotations/actioncollection/add)(PdfAction) | Добавляет новое действие в коллекцию. |
 | [Clear](../../aspose.pdf.annotations/actioncollection/clear)() | Очистить коллекцию. |
-| [Contains](../../aspose.pdf.annotations/actioncollection/contains)(PdfAction) | Возвращает истину, если данный предмет присутствует в коллекции. |
+| [Contains](../../aspose.pdf.annotations/actioncollection/contains)(PdfAction) | Возвращает true, если данный элемент присутствует в коллекции. |
 | [CopyTo](../../aspose.pdf.annotations/actioncollection/copyto)(PdfAction[], int) | Копирует массив действий в коллекцию. |
 | [Delete](../../aspose.pdf.annotations/actioncollection/delete#delete)() | Удалить все действия. |
 | [Delete](../../aspose.pdf.annotations/actioncollection/delete#delete_1)(int) | Удаляет действие из коллекции по индексу. |

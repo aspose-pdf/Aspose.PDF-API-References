@@ -16,7 +16,7 @@ public double? AngleY { get; set; }
 
 ### 适当的价值
 
-Y 轴角度。
+角度 Y 轴。
 
 ### 也可以看看
 

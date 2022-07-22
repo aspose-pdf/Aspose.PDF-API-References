@@ -19,11 +19,11 @@ public sealed class MarkupParagraph
 | 姓名 | 描述 |
 | --- | --- |
 | [ContinuationPageNumbers](../../aspose.pdf.text/markupparagraph/continuationpagenumbers) { get; } | 段落继续的页码列表。如果它在同一页面的下一列中继续，它将与该段落开始的页面匹配。 |
-| [Fragments](../../aspose.pdf.text/markupparagraph/fragments) { get; } | 非空集合[`TextFragment`](../textfragment)段落的对象。 |
-| [Lines](../../aspose.pdf.text/markupparagraph/lines) { get; } | 段落行数。每行由文本片段列表表示。 |
-| [Points](../../aspose.pdf.text/markupparagraph/points) { get; } | 描述段落的多边形点。 起点是段落的左下角。接下来的点按逆时针顺序排列。 |
-| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints) { get; } | 次级多边形的点描述了段落的延续。如果该段落在下一列或下一页中继续，则它不会为空。 起点是段落的左下角。接下来的点按逆时针顺序排列。 |
-| [Text](../../aspose.pdf.text/markupparagraph/text) { get; } | 获取[`MarkupParagraph`](../markupparagraph)的String文本对象对象代表。 |
+| [Fragments](../../aspose.pdf.text/markupparagraph/fragments) { get; } | 集合不为空[`TextFragment`](../textfragment)段落的对象. |
+| [Lines](../../aspose.pdf.text/markupparagraph/lines) { get; } | 段落的行数。每行由文本片段列表表示。 |
+| [Points](../../aspose.pdf.text/markupparagraph/points) { get; } | 描述段落的多边形点。 起点是段落的左下角。接下来的点是逆时针顺序。 |
+| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints) { get; } | 次多边形的点描述了段落的延续。如果该段落在下一列或下一页继续，则它不会为空。 起点是段落的左下角。接下来的点是逆时针顺序。 |
+| [Text](../../aspose.pdf.text/markupparagraph/text) { get; } | 获取String文本对象[`MarkupParagraph`](../markupparagraph)对象代表. |
 
 ### 也可以看看
 

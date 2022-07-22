@@ -1,14 +1,14 @@
 ---
 title: BottomMargin
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает нижнее поле результирующей страницы.
+description: Получает или задает нижнее поле результирующей страницы.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.BottomMargin property
 
-Получает или устанавливает нижнее поле результирующей страницы.
+Получает или задает нижнее поле результирующей страницы.
 
 ```csharp
 public ContentsResizeValue BottomMargin { get; set; }

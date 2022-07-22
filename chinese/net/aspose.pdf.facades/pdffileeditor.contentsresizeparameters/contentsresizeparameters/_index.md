@@ -1,14 +1,14 @@
 ---
 title: ContentsResizeParameters
 second_title: Aspose.PDF for .NET API 参考
-description: 创建调整大小参数其中所有值都设置为auto如果需要可以指定以后的边距和内容大小
+description: 创建所有值设置为自动的调整大小参数如果需要可以指定以后的边距和内容大小
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/
 ---
 ## ContentsResizeParameters() {#constructor}
 
-创建调整大小参数，其中所有值都设置为“auto”。如果需要，可以指定以后的边距和内容大小。
+创建所有值设置为“自动”的调整大小参数。如果需要，可以指定以后的边距和内容大小。
 
 ```csharp
 public ContentsResizeParameters()
@@ -39,7 +39,7 @@ public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeVa
 | rightMargin | ContentsResizeValue | 右边距。 |
 | topMargin | ContentsResizeValue | 上边距。 |
 | contentsHeight | ContentsResizeValue | 内容高度。 |
-| bottomMargin | ContentsResizeValue | 底部边距。 |
+| bottomMargin | ContentsResizeValue | 下边距。 |
 
 ### 也可以看看
 

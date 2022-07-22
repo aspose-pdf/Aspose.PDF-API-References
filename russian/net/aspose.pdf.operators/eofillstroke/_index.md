@@ -1,14 +1,14 @@
 ---
 title: EOFillStroke
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор B заливка и обводка по правилу чет-нечет.
+description: Класс представляющий оператор B путь заливки и обводки соответствует правилу четного-нечетного.
 type: docs
 weight: 5110
 url: /ru/net/aspose.pdf.operators/eofillstroke/
 ---
 ## EOFillStroke class
 
-Класс, представляющий оператор B* (заливка и обводка по правилу чет-нечет).
+Класс, представляющий оператор B* (путь заливки и обводки соответствует правилу четного-нечетного).
 
 ```csharp
 public class EOFillStroke : Operator
@@ -24,7 +24,7 @@ public class EOFillStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eofillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/eofillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

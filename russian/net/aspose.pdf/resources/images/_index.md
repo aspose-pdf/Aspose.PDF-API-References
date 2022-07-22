@@ -1,14 +1,14 @@
 ---
 title: Images
 second_title: Aspose.PDF для справочника API .NET
-description: ПолучаетImagesaspose.pdf/resources/imagesколлекция изображений
+description: получаетImagesaspose.pdf/resources/images коллекция изображений
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/resources/images/
 ---
 ## Resources.Images property
 
-Получает`Images`коллекция изображений
+получает`Images` коллекция изображений
 
 ```csharp
 public XImageCollection Images { get; }

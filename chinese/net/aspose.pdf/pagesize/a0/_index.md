@@ -1,14 +1,14 @@
 ---
 title: A0
 second_title: Aspose.PDF for .NET API 参考
-description: A0 尺寸1189x840 毫米
+description: A0 尺寸1189x840 毫米.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pagesize/a0/
 ---
 ## PageSize.A0 property
 
-A0 尺寸（1189x840 毫米）。
+A0 尺寸（1189x840 毫米）.
 
 ```csharp
 public static PageSize A0 { get; }

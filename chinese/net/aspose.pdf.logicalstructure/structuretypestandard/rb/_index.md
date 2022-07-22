@@ -1,14 +1,14 @@
 ---
 title: RB
 second_title: Aspose.PDF for .NET API 参考
-description: Ruby 基本文本应用了 ruby 注释的全尺寸文本 RB 可能包含文本其他内联元素或两者的混合它可能具有 RubyAlign 属性
+description: Ruby 基本文本应用了 ruby 注释的全尺寸文本 RB 可能包含文本其他内联元素或两者的混合它可能有 RubyAlignattribute.
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/rb/
 ---
 ## StructureTypeStandard.RB field
 
-（Ruby 基本文本）应用了 ruby 注释的全尺寸文本。 RB 可能包含文本、其他内联元素或两者的混合。它可能具有 RubyAlign 属性。
+（Ruby 基本文本）应用了 ruby 注释的全尺寸文本。 RB 可能包含文本、其他内联元素或两者的混合。它可能有 RubyAlignattribute.
 
 ```csharp
 public static readonly StructureTypeStandard RB;

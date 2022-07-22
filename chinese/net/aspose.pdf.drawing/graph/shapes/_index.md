@@ -1,14 +1,14 @@
 ---
 title: Shapes
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示图形中所有形状的Shapesaspose.pdf.drawing/graph/shapes集合
+description: 获取或设置一个Shapesaspose.pdf.drawing/graph/shapes表示图中所有形状的集合
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.drawing/graph/shapes/
 ---
 ## Graph.Shapes property
 
-获取或设置表示图形中所有形状的`Shapes`集合。
+获取或设置一个`Shapes`表示图中所有形状的集合。
 
 ```csharp
 public List<Shape> Shapes { get; set; }

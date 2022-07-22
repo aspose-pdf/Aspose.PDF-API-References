@@ -1,14 +1,14 @@
 ---
 title: OnReleaseMouseBtn
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает действие которое будет выполняться при отпускании кнопки мыши внутри активной области аннотации.
+description: Получает или задает действие которое должно выполняться при отпускании кнопки мыши внутри активной области аннотации.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn/
 ---
 ## AnnotationActionCollection.OnReleaseMouseBtn property
 
-Получает или задает действие, которое будет выполняться при отпускании кнопки мыши внутри активной области аннотации.
+Получает или задает действие, которое должно выполняться при отпускании кнопки мыши внутри активной области аннотации.
 
 ```csharp
 public PdfAction OnReleaseMouseBtn { get; set; }

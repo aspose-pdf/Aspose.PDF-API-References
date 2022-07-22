@@ -1,14 +1,14 @@
 ---
 title: ColumnInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает информацию о столбце
+description: Получает или задает столбец info
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/floatingbox/columninfo/
 ---
 ## FloatingBox.ColumnInfo property
 
-Получает или устанавливает информацию о столбце
+Получает или задает столбец info
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }

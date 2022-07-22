@@ -1,14 +1,14 @@
 ---
 title: CreateAttributes
 second_title: Aspose.PDF для справочника API .NET
-description: Создание и возвратStructureAttributesaspose.pdf.logicalstructure/structureattributesэлемента структуры стандартным владельцем атрибута.
+description: Создать и вернутьStructureAttributesaspose.pdf.logicalstructure/structureattributes элемента структуры по стандартному владельцу атрибута.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
 ## StructureAttributeCollection.CreateAttributes method
 
-Создание и возврат[`StructureAttributes`](../../structureattributes)элемента структуры стандартным владельцем атрибута.
+Создать и вернуть[`StructureAttributes`](../../structureattributes) элемента структуры по стандартному владельцу атрибута.
 
 ```csharp
 public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard)

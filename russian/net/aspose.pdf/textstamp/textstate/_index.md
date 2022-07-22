@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF для справочника API .NET
-description: Получает текстовые свойства штампа. Подробнее см.TextStateaspose.pdf/textstamp/textstate.
+description: Получает текстовые свойства штампа. ВидетьTextStateaspose.pdf/textstamp/textstate подробнее.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/textstamp/textstate/
 ---
 ## TextStamp.TextState property
 
-Получает текстовые свойства штампа. Подробнее см.`TextState`.
+Получает текстовые свойства штампа. Видеть`TextState` подробнее.
 
 ```csharp
 public TextState TextState { get; }

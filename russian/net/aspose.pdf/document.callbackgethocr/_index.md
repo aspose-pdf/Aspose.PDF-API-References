@@ -16,7 +16,7 @@ public delegate string CallBackGetHocr(Image img);
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| img | Image | Изображение hocr. |
+| img | Image | Хокр изображение. |
 
 ### Возвращаемое значение
 

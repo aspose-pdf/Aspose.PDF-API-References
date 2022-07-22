@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/incorrectfontusageexception/
 ---
 ## IncorrectFontUsageException class
 
-字体使用不正确时抛出的异常。
+字体使用不正确时抛出的异常
 
 ```csharp
 public sealed class IncorrectFontUsageException : InvalidFileFormatException
@@ -18,9 +18,9 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor)(Exception) | 使用指定的错误消息初始化[`IncorrectFontUsageException`](../incorrectfontusageexception) 类的新实例以及对导致此异常的内部异常的引用。 |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor_1)(string) | 初始化[`IncorrectFontUsageException`](../incorrectfontusageexception)类的新实例。 |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor_2)(string, Exception) | 使用指定的错误消息初始化[`IncorrectFontUsageException`](../incorrectfontusageexception) 类的新实例以及对导致此异常的内部异常的引用。 |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor)(Exception) | 初始化[`IncorrectFontUsageException`](../incorrectfontusageexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor_1)(string) | 初始化[`IncorrectFontUsageException`](../incorrectfontusageexception)类. |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor_2)(string, Exception) | 初始化[`IncorrectFontUsageException`](../incorrectfontusageexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

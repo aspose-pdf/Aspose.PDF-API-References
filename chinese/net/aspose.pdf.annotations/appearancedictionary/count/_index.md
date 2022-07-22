@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 获取字典中包含的元素个数
+description: 获取字典中包含的元素数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/count/
 ---
 ## AppearanceDictionary.Count property
 
-获取字典中包含的元素个数。
+获取字典中包含的元素数。
 
 ```csharp
 public int Count { get; }

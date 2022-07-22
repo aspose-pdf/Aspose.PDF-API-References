@@ -17,7 +17,7 @@ public override void OnEndPage(PrintDocument document, PrintPageEventArgs e)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | document | PrintDocument | Документ для печати. |
-| e | PrintPageEventArgs | Аргументы события. |
+| e | PrintPageEventArgs | Аргументы событий. |
 
 ### Смотрите также
 

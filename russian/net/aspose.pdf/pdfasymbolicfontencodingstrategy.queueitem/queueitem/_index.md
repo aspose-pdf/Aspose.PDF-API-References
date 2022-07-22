@@ -1,14 +1,14 @@
 ---
 title: QueueItem
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор по умолчанию указывает подтаблицу mac10
+description: Конструктор указывает подтаблицу mac10 по умолчанию
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
 ---
 ## QueueItem() {#constructor}
 
-Конструктор, по умолчанию указывает подтаблицу mac(1,0)
+Конструктор, указывает подтаблицу mac(1,0) по умолчанию
 
 ```csharp
 public QueueItem()

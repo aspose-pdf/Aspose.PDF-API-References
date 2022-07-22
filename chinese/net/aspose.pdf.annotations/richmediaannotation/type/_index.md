@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.annotations/richmediaannotation/type/
 ---
 ## RichMediaAnnotation.Type property
 
-获取或设置内容类型。可能的值:音频、视频。
+获取或设置内容类型。可能的值：音频、视频。
 
 ```csharp
 public ContentType Type { get; set; }

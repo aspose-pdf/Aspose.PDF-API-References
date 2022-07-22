@@ -1,14 +1,14 @@
 ---
 title: SetMetaInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает пользовательскую информацию PDF-документа.
+description: Устанавливает пользовательскую информацию документа PDF.
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdffileinfo/setmetainfo/
 ---
 ## PdfFileInfo.SetMetaInfo method
 
-Устанавливает пользовательскую информацию PDF-документа.
+Устанавливает пользовательскую информацию документа PDF.
 
 ```csharp
 public void SetMetaInfo(string name, string value)
@@ -17,7 +17,7 @@ public void SetMetaInfo(string name, string value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Ключ пользовательского мета-свойства. |
-| value | String | Значение пользовательского мета-свойства. |
+| value | String | Пользовательское значение мета-свойства. |
 
 ### Смотрите также
 

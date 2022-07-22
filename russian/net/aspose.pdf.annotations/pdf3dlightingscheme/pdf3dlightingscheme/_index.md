@@ -1,14 +1,14 @@
 ---
 title: PDF3DLightingScheme
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DLightingSchemeaspose.pdf.annotations/pdf3dlightingscheme.
+description: Инициализирует новый экземплярPDF3DLightingSchemeaspose.pdf.annotations/pdf3dlightingscheme класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/
 ---
 ## PDF3DLightingScheme(LightingSchemeType) {#constructor}
 
-Инициализирует новый экземпляр класса[`PDF3DLightingScheme`](../../pdf3dlightingscheme).
+Инициализирует новый экземпляр[`PDF3DLightingScheme`](../../pdf3dlightingscheme) класс.
 
 ```csharp
 public PDF3DLightingScheme(LightingSchemeType type)
@@ -29,7 +29,7 @@ public PDF3DLightingScheme(LightingSchemeType type)
 
 ## PDF3DLightingScheme(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PDF3DLightingScheme`](../../pdf3dlightingscheme).
+Инициализирует новый экземпляр[`PDF3DLightingScheme`](../../pdf3dlightingscheme) класс.
 
 ```csharp
 public PDF3DLightingScheme(string typeName)
@@ -37,7 +37,7 @@ public PDF3DLightingScheme(string typeName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| typeName | String | Имя типа схемы освещения. |
+| typeName | String | Название типа схемы освещения. |
 
 ### Исключения
 

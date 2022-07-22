@@ -1,14 +1,14 @@
 ---
 title: LineInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет информацию строки.
+description: Представляет информацию о строке.
 type: docs
 weight: 2410
 url: /ru/net/aspose.pdf.facades/lineinfo/
 ---
 ## LineInfo class
 
-Представляет информацию строки.
+Представляет информацию о строке.
 
 ```csharp
 public sealed class LineInfo
@@ -24,7 +24,7 @@ public sealed class LineInfo
 
 | Имя | Описание |
 | --- | --- |
-| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle) { get; set; } | Получает или задает стиль границы линии, 0 представляет собой сплошную линию, 1 представляет собой пунктирную линию, 2 представляет собой выпуклость, 3 представляет собой вставку, 4 представляет собой подчеркивание. |
+| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle) { get; set; } | Получает или задает стиль границы линии, 0 — сплошная, 1 — пунктирная, 2 — выпуклая, 3 — вставка, 4 — подчеркивание. |
 | [LineColor](../../aspose.pdf.facades/lineinfo/linecolor) { get; set; } | Получает или задает цвет линии. |
 | [LineDashPattern](../../aspose.pdf.facades/lineinfo/linedashpattern) { get; set; } | Получает или задает шаблон пунктирной линии. |
 | [LineWidth](../../aspose.pdf.facades/lineinfo/linewidth) { get; set; } | Получает или задает ширину линии. |

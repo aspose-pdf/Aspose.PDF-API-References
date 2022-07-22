@@ -1,14 +1,14 @@
 ---
 title: ColumnSpacing
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置包含列间距的字符串 每个间距的值应该用空格隔开默认单位是磅 但也支持厘米和英寸例如120 2.5cm 1.5inch
+description: 获取或设置包含列间距的字符串 每个间距的值应该用空格隔开默认单位是磅 但也支持厘米和英寸例如120 2.5cm 1.5inch.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/columninfo/columnspacing/
 ---
 ## ColumnInfo.ColumnSpacing property
 
-获取或设置包含列间距的字符串。 每个间距的值应该用空格隔开。默认单位是磅， 但也支持厘米和英寸。例如，“120 2.5cm 1.5inch”。
+获取或设置包含列间距的字符串。 每个间距的值应该用空格隔开。默认单位是磅， ，但也支持厘米和英寸。例如，“120 2.5cm 1.5inch”.
 
 ```csharp
 public string ColumnSpacing { get; set; }

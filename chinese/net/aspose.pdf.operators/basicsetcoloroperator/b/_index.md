@@ -1,14 +1,14 @@
 ---
 title: B
 second_title: Aspose.PDF for .NET API 参考
-description: 获取颜色的红色分量
+description: 获取 color 的红色分量
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/basicsetcoloroperator/b/
 ---
 ## BasicSetColorOperator.B property
 
-获取颜色的红色分量
+获取 color 的红色分量
 
 ```csharp
 public double B { get; }

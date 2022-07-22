@@ -1,14 +1,14 @@
 ---
 title: Resources
 second_title: Aspose.PDF for .NET API 参考
-description: 获取页面资源资源对象包含图像表格和字体的集合 Resourcesaspose.pdf/page/resources
+description: 获取页面资源资源对象包含图像表单和字体的集合 Resourcesaspose.pdf/page/resources
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf/page/resources/
 ---
 ## Page.Resources property
 
-获取页面资源。资源对象包含图像、表格和字体的集合。 `Resources`
+获取页面资源。资源对象包含图像、表单和字体的集合。 `Resources`
 
 ```csharp
 public Resources Resources { get; }
@@ -16,7 +16,7 @@ public Resources Resources { get; }
 
 ### 例子
 
-示例演示扫描通过页面图像:
+示例演示扫描页面图像：
 
 ```csharp
 Document document = new Document("sample.pdf");

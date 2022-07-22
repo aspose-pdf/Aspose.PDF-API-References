@@ -1,14 +1,14 @@
 ---
 title: RenderingMode
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает режим рендеринга текста.
+description: Получает или задает режим рендеринга текста.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.text/textfragmentstate/renderingmode/
 ---
 ## TextFragmentState.RenderingMode property
 
-Получает или устанавливает режим рендеринга текста.
+Получает или задает режим рендеринга текста.
 
 ```csharp
 public override TextRenderingMode RenderingMode { get; set; }

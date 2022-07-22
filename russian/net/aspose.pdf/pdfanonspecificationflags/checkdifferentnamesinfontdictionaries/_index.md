@@ -1,14 +1,14 @@
 ---
 title: CheckDifferentNamesInFontDictionaries
 second_title: Aspose.PDF для справочника API .NET
-description: Некоторые документы PDF содержат шрифты которые имеют разные имена во внутренних данных. Использование этого флага обеспечивает специальную логику обработки для случаев когда поля BaseFont и FontDescriptor.FontName различаются.
+description: Некоторые документы PDF содержат шрифты которые имеют разные имена во внутренних данных. Использование этого флага обеспечивает выполнение специальной логики обработки для случаев когда поля BaseFont и FontDescriptor.FontName различаются.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries/
 ---
 ## PdfANonSpecificationFlags.CheckDifferentNamesInFontDictionaries property
 
-Некоторые документы PDF содержат шрифты, которые имеют разные имена во внутренних данных. Использование этого флага обеспечивает специальную логику обработки для случаев, когда поля BaseFont и FontDescriptor.FontName различаются.
+Некоторые документы PDF содержат шрифты, которые имеют разные имена во внутренних данных. Использование этого флага обеспечивает выполнение специальной логики обработки для случаев, когда поля BaseFont и FontDescriptor.FontName различаются.
 
 ```csharp
 public bool CheckDifferentNamesInFontDictionaries { get; set; }

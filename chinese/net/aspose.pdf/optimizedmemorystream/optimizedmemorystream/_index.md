@@ -1,14 +1,14 @@
 ---
 title: OptimizedMemoryStream
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化OptimizedMemoryStreamaspose.pdf/optimizedmemorystream类的新实例
+description: 初始化OptimizedMemoryStreamaspose.pdf/optimizedmemorystream类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
 ---
 ## OptimizedMemoryStream() {#constructor}
 
-初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)类的新实例。
+初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)类.
 
 ```csharp
 public OptimizedMemoryStream()
@@ -24,7 +24,7 @@ public OptimizedMemoryStream()
 
 ## OptimizedMemoryStream(int, byte[]) {#constructor_3}
 
-根据指定的字节数组初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)类的新实例。
+初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)基于指定字节数组的类。
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize, byte[] buffer)
@@ -33,7 +33,7 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | bufferSize | Int32 | 底层缓冲区的大小。 |
-| buffer | Byte[] | 创建当前流的无符号字节数组。 |
+| buffer | Byte[] | 从中创建当前流的无符号字节数组。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 
 ## OptimizedMemoryStream(int) {#constructor_2}
 
-初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)类的新实例。
+初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)类.
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize)
@@ -65,7 +65,7 @@ public OptimizedMemoryStream(int bufferSize)
 
 ## OptimizedMemoryStream(byte[]) {#constructor_1}
 
-根据指定的字节数组初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)类的新实例。
+初始化[`OptimizedMemoryStream`](../../optimizedmemorystream)基于指定字节数组的类。
 
 ```csharp
 public OptimizedMemoryStream(byte[] buffer)
@@ -73,7 +73,7 @@ public OptimizedMemoryStream(byte[] buffer)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| buffer | Byte[] | 创建当前流的无符号字节数组。 |
+| buffer | Byte[] | 从中创建当前流的无符号字节数组。 |
 
 ### 也可以看看
 

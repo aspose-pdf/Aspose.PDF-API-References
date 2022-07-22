@@ -17,9 +17,9 @@ public static ContentsResizeParameters Margins(double left, double right, double
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | left | Double | Левое поле. |
-| right | Double | Правое поле. |
+| right | Double | Правая маржа. |
 | top | Double | Верхнее поле. |
-| bottom | Double | Нижнее поле. |
+| bottom | Double | Нижний край. |
 
 ### Возвращаемое значение
 

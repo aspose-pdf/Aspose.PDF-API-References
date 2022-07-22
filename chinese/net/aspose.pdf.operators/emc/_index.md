@@ -1,14 +1,14 @@
 ---
 title: EMC
 second_title: Aspose.PDF for .NET API 参考
-description: 代表 EMC 操作者的类标记内容序列的结尾
+description: 代表 EMC 操作者的类标记内容序列结束
 type: docs
 weight: 5080
 url: /zh/net/aspose.pdf.operators/emc/
 ---
 ## EMC class
 
-代表 EMC 操作者的类（标记内容序列的结尾）。
+代表 EMC 操作者的类（标记内容序列结束）。
 
 ```csharp
 public class EMC : Operator
@@ -18,7 +18,7 @@ public class EMC : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EMC](emc)() | 初始化运算符。 |
+| [EMC](emc)() | 初始化操作符。 |
 
 ## 特性
 
@@ -31,7 +31,7 @@ public class EMC : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/emc/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/emc/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/emc/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

@@ -51,7 +51,7 @@ public override void Save(Stream outputStream)
 
 ### Примеры
 
-В следующем примере показано, как сохранить измененный документ PDF в поток.
+В следующем примере показано, как сохранить измененный PDF-документ в поток.
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

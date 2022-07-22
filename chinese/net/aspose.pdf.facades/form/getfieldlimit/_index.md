@@ -16,11 +16,11 @@ public int GetFieldLimit(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 限定字段名。 |
+| fieldName | String | 限定的字段名称。 |
 
 ### 返回值
 
-返回文本字段可以填写的字符限制数。未设置，返回 0。
+返回文本字段可以填充的字符数限制。未设置，返回 0。
 
 ### 例子
 

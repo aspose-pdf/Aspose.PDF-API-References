@@ -1,14 +1,14 @@
 ---
 title: HtmlMediaType
 second_title: Aspose.PDF для справочника API .NET
-description: Указывает возможные типы мультимедиа используемые во время рендеринга.
+description: Определяет возможные типы мультимедиа используемые во время рендеринга.
 type: docs
 weight: 3410
 url: /ru/net/aspose.pdf/htmlmediatype/
 ---
 ## HtmlMediaType enumeration
 
-Указывает возможные типы мультимедиа, используемые во время рендеринга.
+Определяет возможные типы мультимедиа, используемые во время рендеринга.
 
 ```csharp
 public enum HtmlMediaType

@@ -30,7 +30,7 @@ public class SetGrayStroke : SetColorOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setgraystroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setgraystroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor)() | Возвращает цвет, указанный оператором. |
 | override [ToString](../../aspose.pdf.operators/setgraystroke/tostring)() | Возвращает текстовое представление оператора. |
 

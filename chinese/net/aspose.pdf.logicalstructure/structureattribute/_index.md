@@ -31,7 +31,7 @@ public class StructureAttribute
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue)() | 获取数值数字数组。 |
+| [GetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue)() | 获取数值数组。 |
 | [GetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/getarrayvalue)() | 获取值名称数组。 |
 | [GetNameValue](../../aspose.pdf.logicalstructure/structureattribute/getnamevalue)() | 获取值名称。 |
 | [GetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getnumbervalue)() | 获取数值编号。 |

@@ -1,14 +1,14 @@
 ---
 title: CreateQuoteElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建QuoteElementaspose.pdf.logicalstructure/quoteelement
+description: 创建QuoteElementaspose.pdf.logicalstructure/quoteelement.
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 ---
 ## ITaggedContent.CreateQuoteElement method
 
-创建[`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement)。
+创建[`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement).
 
 ```csharp
 public QuoteElement CreateQuoteElement()
@@ -16,7 +16,7 @@ public QuoteElement CreateQuoteElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

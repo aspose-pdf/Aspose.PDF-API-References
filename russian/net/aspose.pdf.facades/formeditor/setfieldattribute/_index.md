@@ -21,7 +21,7 @@ public bool SetFieldAttribute(string fieldName, PropertyFlag flag)
 
 ### Возвращаемое значение
 
-true, если атрибут был установлен успешно.
+true, если атрибут был успешно установлен.
 
 ### Примеры
 

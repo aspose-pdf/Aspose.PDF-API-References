@@ -18,7 +18,7 @@ public enum TextIcon
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Note | `0` | 注意图标。 |
+| Note | `0` | 注释图标。 |
 | Comment | `1` | 评论图标。 |
 | Key | `2` | 钥匙图标。 |
 | Help | `3` | 帮助图标。 |
@@ -27,7 +27,7 @@ public enum TextIcon
 | Insert | `6` | 插入图标。 |
 | Check | `7` | 检查图标。 |
 | Cross | `8` | 十字图标。 |
-| Circle | `9` | 圆形图标。 |
+| Circle | `9` | 圆圈图标。 |
 | Star | `10` | 星形图标。 |
 
 ### 也可以看看

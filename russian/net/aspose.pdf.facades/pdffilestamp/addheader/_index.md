@@ -17,7 +17,7 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formattedText | FormattedText | Текст для заголовка и свойства текста. |
-| topMargin | Single | Поле вверху страницы. |
+| topMargin | Single | Поля вверху страницы. |
 
 ### Примеры
 
@@ -47,10 +47,10 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Форматированный текстовый объект, содержащий текст страницы и его свойства. |
-| topMargin | Single | Отступ вверху страницы. |
+| formattedText | FormattedText | Форматированный текстовый объект, который содержит текст страницы и его свойства. |
+| topMargin | Single | Поля вверху страницы. |
 | leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поле справа страницы. |
+| rightMargin | Single | Поля в правой части страницы. |
 
 ### Примеры
 
@@ -110,8 +110,8 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 | --- | --- | --- |
 | imageFile | String | Путь к файлу изображения. |
 | topMargin | Single | Поле вверху страницы. |
-| leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поле в правой части страницы. |
+| leftMargin | Single | Поля в левой части страницы. |
+| rightMargin | Single | Поля в правой части страницы. |
 
 ### Примеры
 
@@ -172,8 +172,8 @@ public void AddHeader(Stream inputStream, float topMargin, float leftMargin, flo
 | --- | --- | --- |
 | inputStream | Stream | Поток, содержащий данные изображения. |
 | topMargin | Single | Поле вверху страницы. |
-| leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поле в правой части страницы. |
+| leftMargin | Single | Поля в левой части страницы. |
+| rightMargin | Single | Поля в правой части страницы. |
 
 ### Примеры
 

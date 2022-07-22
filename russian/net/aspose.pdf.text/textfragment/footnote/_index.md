@@ -1,14 +1,14 @@
 ---
 title: FootNote
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает сноску к абзацу. только для генерации PDF
+description: Получает или задает примечание к абзацу только для создания PDF-файлов
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textfragment/footnote/
 ---
 ## TextFragment.FootNote property
 
-Получает или устанавливает сноску к абзацу. (только для генерации PDF)
+Получает или задает примечание к абзацу (только для создания PDF-файлов)
 
 ```csharp
 public Note FootNote { get; set; }

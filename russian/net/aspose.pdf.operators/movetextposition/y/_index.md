@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.PDF для справочника API .NET
-description: Координата Y позиции текста.
+description: Y-координата позиции текста.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/movetextposition/y/
 ---
 ## MoveTextPosition.Y property
 
-Координата Y позиции текста.
+Y-координата позиции текста.
 
 ```csharp
 public double Y { get; set; }

@@ -16,7 +16,7 @@ public override void Process(Page page, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Конвертируемая страница. |
+| page | Page | Страница для преобразования. |
 | output | Stream | Поток результатов. |
 
 ### Примеры
@@ -29,13 +29,13 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-     // создаем текст device
+    // создать текстовое устройство
     TextDevice device = new TextDevice();
 
-     // конвертируем страницу и сохраняем текст в stream
+    // конвертируем страницу и сохраняем текст в поток
     device.Process(doc.Pages[1], ms);
 
-     // используем извлеченный text
+    // используем извлеченный текст
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }

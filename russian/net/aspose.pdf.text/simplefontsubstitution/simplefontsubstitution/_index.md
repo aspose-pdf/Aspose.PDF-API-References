@@ -1,14 +1,14 @@
 ---
 title: SimpleFontSubstitution
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаSimpleFontSubstitutionaspose.pdf.text/simplefontsubstitution.
+description: Инициализирует новый экземплярSimpleFontSubstitutionaspose.pdf.text/simplefontsubstitution класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
 ---
 ## SimpleFontSubstitution constructor
 
-Инициализирует новый экземпляр класса[`SimpleFontSubstitution`](../../simplefontsubstitution).
+Инициализирует новый экземпляр[`SimpleFontSubstitution`](../../simplefontsubstitution) класс.
 
 ```csharp
 public SimpleFontSubstitution(string originalFontName, string substitutionFontName, 
@@ -17,9 +17,9 @@ public SimpleFontSubstitution(string originalFontName, string substitutionFontNa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| originalFontName | String | Имя исходного шрифта. |
-| substitutionFontName | String | Имя подстановочного шрифта. |
-| isForcedBySaveOption | Boolean | Замена, принудительная параметром сохранения DefaultFontName. |
+| originalFontName | String | Оригинальное название шрифта. |
+| substitutionFontName | String | Замена имени шрифта. |
+| isForcedBySaveOption | Boolean | Замена, вызванная параметром сохранения DefaultFontName. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF for .NET API 参考
-description: 描述水平对齐
+description: 描述水平对齐方式
 type: docs
 weight: 3370
 url: /zh/net/aspose.pdf/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration
 
-描述水平对齐。
+描述水平对齐方式。
 
 ```csharp
 public enum HorizontalAlignment
@@ -21,9 +21,9 @@ public enum HorizontalAlignment
 | None | `0` | 没有对齐。 |
 | Left | `1` | 左对齐。 |
 | Center | `2` | 居中对齐。 |
-| Right | `3` | 右对齐。 |
+| Right | `3` | 向右对齐。 |
 | Justify | `4` | 对齐对齐。文本将在左右边距上对齐。 |
-| FullJustify | `5` | 类似于 'Justify' 对齐，除了最后一行在 'Justify' 模式下将仅是 左对齐，而在 ' FullJustify' 模式所有行将是 左对齐和右对齐。 |
+| FullJustify | `5` | 类似于“对齐”对齐，除了最后一行在“对齐”模式下仅 左对齐，而在“完全对齐”模式下，所有行都将 左对齐和右对齐。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: FromRect
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый прямоугольник из заданного экземпляра System.Drawing.Rectangle.
+description: Инициализирует новый прямоугольник из данного экземпляра System.Drawing.Rectangle.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/rectangle/fromrect/
 ---
 ## Rectangle.FromRect method
 
-Инициализирует новый прямоугольник из заданного экземпляра System.Drawing.Rectangle.
+Инициализирует новый прямоугольник из данного экземпляра System.Drawing.Rectangle.
 
 ```csharp
 public static Rectangle FromRect(Rectangle src)
@@ -16,7 +16,7 @@ public static Rectangle FromRect(Rectangle src)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | Rectangle | Исходный прямоугольник, позиция и размер которого будут установлены в новый прямоугольник. |
+| src | Rectangle | Исходный прямоугольник, положение и размер которого будут установлены в новый прямоугольник. |
 
 ### Возвращаемое значение
 

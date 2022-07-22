@@ -1,14 +1,14 @@
 ---
 title: PngDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPngDeviceaspose.pdf.devices/pngdeviceс разрешением по умолчанию.
+description: Инициализирует новый экземплярPngDeviceaspose.pdf.devices/pngdevice класс с разрешением по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/pngdevice/pngdevice/
 ---
 ## PngDevice() {#constructor}
 
-Инициализирует новый экземпляр класса[`PngDevice`](../../pngdevice)с разрешением по умолчанию.
+Инициализирует новый экземпляр[`PngDevice`](../../pngdevice) класс с разрешением по умолчанию.
 
 ```csharp
 public PngDevice()
@@ -24,7 +24,7 @@ public PngDevice()
 
 ## PngDevice(Resolution) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PngDevice`](../../pngdevice).  Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)class .
+Инициализирует новый экземпляр[`PngDevice`](../../pngdevice) класс.  Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс.
 
 ```csharp
 public PngDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public PngDevice(Resolution resolution)
 
 ## PngDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`PngDevice`](../../pngdevice)с предоставленными размерами изображения и разрешающая способность.
+Инициализирует новый экземпляр[`PngDevice`](../../pngdevice) класс с предоставленными размерами изображения и разрешением .
 
 ```csharp
 public PngDevice(int width, int height, Resolution resolution)
@@ -51,7 +51,7 @@ public PngDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 
@@ -64,7 +64,7 @@ public PngDevice(int width, int height, Resolution resolution)
 
 ## PngDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`PngDevice`](../../pngdevice)с указанным размером страницы и разрешающая способность.
+Инициализирует новый экземпляр[`PngDevice`](../../pngdevice)класс с предоставленным размером страницы и разрешением .
 
 ```csharp
 public PngDevice(PageSize pageSize, Resolution resolution)
@@ -73,7 +73,7 @@ public PngDevice(PageSize pageSize, Resolution resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 
@@ -87,7 +87,7 @@ public PngDevice(PageSize pageSize, Resolution resolution)
 
 ## PngDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`PngDevice`](../../pngdevice)с предоставленными размерами изображения, разрешение по умолчанию (=150).
+Инициализирует новый экземпляр[`PngDevice`](../../pngdevice) класс с предоставленными размерами изображения, разрешение по умолчанию (= 150).
 
 ```csharp
 public PngDevice(int width, int height)
@@ -108,7 +108,7 @@ public PngDevice(int width, int height)
 
 ## PngDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PngDevice`](../../pngdevice)с заданным размером страницы, разрешение по умолчанию (=150).
+Инициализирует новый экземпляр[`PngDevice`](../../pngdevice) class с предоставленным размером страницы, разрешением по умолчанию (=150).
 
 ```csharp
 public PngDevice(PageSize pageSize)

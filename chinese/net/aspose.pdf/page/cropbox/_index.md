@@ -16,7 +16,7 @@ public Rectangle CropBox { get; set; }
 
 ### 例子
 
-示例演示如何获取页面的裁剪框:
+示例演示如何获取页面的裁剪框：
 
 ```csharp
 Document document = new Document("sample.pdf");

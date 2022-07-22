@@ -33,7 +33,7 @@ public SetAdvancedColor(double g, string patternName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | g | Double | Значение цвета. |
-| patternName | String | Имя шаблона. |
+| patternName | String | Название шаблона. |
 
 ### Смотрите также
 
@@ -74,9 +74,9 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | r | Double | Красная составляющая цвета. |
-| g | Double | Зеленый компонент цвета. |
+| g | Double | Зеленая составляющая цвета. |
 | b | Double | Синяя составляющая цвета. |
-| patternName | String | Имя шаблона. |
+| patternName | String | Название шаблона. |
 
 ### Смотрите также
 
@@ -96,11 +96,11 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| c | Double | Голубой компонент цвета. |
+| c | Double | Голубая составляющая цвета. |
 | m | Double | Пурпурный компонент цвета. |
-| y | Double | Желтый компонент цвета. |
-| k | Double | Черный компонент цвета. |
-| patternName | String | Имя шаблона. |
+| y | Double | Желтая составляющая цвета. |
+| k | Double | Черная составляющая цвета. |
+| patternName | String | Название шаблона. |
 
 ### Смотрите также
 

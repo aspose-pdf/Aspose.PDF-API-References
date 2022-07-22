@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает внешнее поле для абзаца для создания pdf
+description: Получает или задает внешнее поле для абзаца для создания PDF-файла
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/baseparagraph/margin/
 ---
 ## BaseParagraph.Margin property
 
-Получает или задает внешнее поле для абзаца (для создания pdf)
+Получает или задает внешнее поле для абзаца (для создания PDF-файла)
 
 ```csharp
 public MarginInfo Margin { get; set; }

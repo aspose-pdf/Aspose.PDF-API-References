@@ -1,14 +1,14 @@
 ---
 title: EncodingType
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举使用的文本的编码类型
+description: 枚举使用文本的编码类型
 type: docs
 weight: 2250
 url: /zh/net/aspose.pdf.facades/encodingtype/
 ---
 ## EncodingType enumeration
 
-枚举使用的文本的编码类型。
+枚举使用文本的编码类型。
 
 ```csharp
 public enum EncodingType
@@ -18,13 +18,13 @@ public enum EncodingType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Identity_h | `0` | 横向书写的 Unicode 编码。 |
+| Identity_h | `0` | 横向书写的Unicode编码。 |
 | Identity_v | `1` | 垂直书写的 Unicode 编码。 |
 | Cp1250 | `2` | Windows 文本编码名称。 |
 | Cp1252 | `3` | Windows 文本编码名称。 |
 | Cp1257 | `4` | Windows 文本编码名称。 |
 | Winansi | `5` | Windows ansi 编码。 |
-| Macroman | `6` | Mac os 拉丁文本的标准编码。 |
+| Macroman | `6` | 拉丁文本的 Mac os 标准编码。 |
 
 ### 也可以看看
 

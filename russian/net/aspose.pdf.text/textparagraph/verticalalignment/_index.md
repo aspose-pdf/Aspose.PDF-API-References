@@ -1,14 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает вертикальное выравнивание текста внутри абзацаRectangleaspose.pdf.text/textparagraph/rectangle.
+description: Получает или задает вертикальное выравнивание текста внутри абзаца.Rectangleaspose.pdf.text/textparagraph/rectangle .
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.text/textparagraph/verticalalignment/
 ---
 ## TextParagraph.VerticalAlignment property
 
-Получает или задает вертикальное выравнивание текста внутри абзаца[`Rectangle`](../rectangle).
+Получает или задает вертикальное выравнивание текста внутри абзаца.[`Rectangle`](../rectangle) .
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }

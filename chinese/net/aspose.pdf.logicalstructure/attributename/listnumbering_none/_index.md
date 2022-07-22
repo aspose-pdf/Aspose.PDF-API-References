@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/
 ---
 ## AttributeName.ListNumbering_None field
 
-属性列表编号:无 - 无自动编号； Lbl 元素（如果存在）包含不受任何编号方案约束的任意文本。
+属性列表编号：无 - 无自动编号； Lbl 元素（如果存在）包含不受任何编号方案约束的任意文本。
 
 ```csharp
 public static readonly AttributeName ListNumbering_None;

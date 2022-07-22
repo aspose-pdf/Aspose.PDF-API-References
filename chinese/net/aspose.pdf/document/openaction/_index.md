@@ -1,14 +1,14 @@
 ---
 title: OpenAction
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置在文档打开时执行的操作
+description: 获取或设置文档打开时执行的操作
 type: docs
 weight: 380
 url: /zh/net/aspose.pdf/document/openaction/
 ---
 ## Document.OpenAction property
 
-获取或设置在文档打开时执行的操作。
+获取或设置文档打开时执行的操作。
 
 ```csharp
 public IAppointment OpenAction { get; set; }
@@ -16,7 +16,7 @@ public IAppointment OpenAction { get; set; }
 
 ### 例子
 
-示例演示如何获取 CenterWindow 标志:
+示例演示如何获取 CenterWindow 标志：
 
 ```csharp
 Document document = new Document("sample.pdf");

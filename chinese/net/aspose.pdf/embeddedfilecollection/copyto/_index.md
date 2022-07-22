@@ -17,7 +17,7 @@ public void CopyTo(FileSpecification[] array, int index)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | array | FileSpecification[] | 将被复制的对象数组。 |
-| index | Int32 | 开始复制的起始索引。 |
+| index | Int32 | 将从其开始复制的起始索引。 |
 
 ### 也可以看看
 

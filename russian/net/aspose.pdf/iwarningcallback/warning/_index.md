@@ -16,7 +16,7 @@ public ReturnAction Warning(WarningInfo warning)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| warning | WarningInfo | предупреждающая информация о некоторых событиях warning |
+| warning | WarningInfo | информация о предупреждении о некоторых событиях warning |
 
 ### Возвращаемое значение
 

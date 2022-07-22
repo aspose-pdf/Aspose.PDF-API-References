@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Aspose.PDF для справочника API .NET
-description: Размер текстового поля.
+description: Размер поля text.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
 ## FormFieldFacade.FontSize property
 
-Размер текстового поля.
+Размер поля text.
 
 ```csharp
 public float FontSize { get; set; }

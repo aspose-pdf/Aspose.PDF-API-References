@@ -16,9 +16,9 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект Pdf документа. |
-| startPage | Int32 | Начальная страница документа Pdf. |
-| pageCount | Int32 | Количество страниц документа Pdf |
+| pdf | Document | Pdf объект документа. |
+| startPage | Int32 | Стартовая страница документа Pdf. |
+| pageCount | Int32 | количество страниц в PDF-документе |
 
 ### Смотрите также
 
@@ -39,7 +39,7 @@ public virtual void Visit(Document pdf)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект Pdf документа. |
+| pdf | Document | Pdf объект документа. |
 
 ### Смотрите также
 

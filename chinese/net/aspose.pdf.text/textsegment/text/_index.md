@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置String文本对象TextSegmentaspose.pdf.text/textsegment对象代表
+description: 获取或设置String文本对象TextSegmentaspose.pdf.text/textsegment对象代表.
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/textsegment/text/
 ---
 ## TextSegment.Text property
 
-获取或设置String文本对象[`TextSegment`](../../textsegment)对象代表。
+获取或设置String文本对象[`TextSegment`](../../textsegment)对象代表.
 
 ```csharp
 public string Text { get; set; }

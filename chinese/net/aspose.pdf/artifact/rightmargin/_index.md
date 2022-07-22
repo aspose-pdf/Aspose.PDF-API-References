@@ -1,14 +1,14 @@
 ---
 title: RightMargin
 second_title: Aspose.PDF for .NET API 参考
-description: 工件的右边距 如果显式指定位置在 Position 属性中则忽略此值
+description: 工件的右边距 如果显式指定位置在位置属性中则忽略此值
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/artifact/rightmargin/
 ---
 ## Artifact.RightMargin property
 
-工件的右边距。 如果显式指定位置（在 Position 属性中），则忽略此值。
+工件的右边距。 如果显式指定位置（在位置属性中），则忽略此值。
 
 ```csharp
 public double RightMargin { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: GSave
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор q сохранение состояния графики.
+description: Класс представляющий оператор q сохранить графическое состояние.
 type: docs
 weight: 5190
 url: /ru/net/aspose.pdf.operators/gsave/
 ---
 ## GSave class
 
-Класс, представляющий оператор q (сохранение состояния графики).
+Класс, представляющий оператор q (сохранить графическое состояние).
 
 ```csharp
 public class GSave : Operator
@@ -30,7 +30,7 @@ public class GSave : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/gsave/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/gsave/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/gsave/tostring)() | Возвращает текст оператора. |
 
 ### Смотрите также

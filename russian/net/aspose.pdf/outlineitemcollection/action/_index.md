@@ -1,14 +1,14 @@
 ---
 title: Action
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает действие для этого элемента структуры.
+description: Получает или задает действие для этого элемента схемы.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/outlineitemcollection/action/
 ---
 ## OutlineItemCollection.Action property
 
-Получает или задает действие для этого элемента структуры.
+Получает или задает действие для этого элемента схемы.
 
 ```csharp
 public PdfAction Action { get; set; }

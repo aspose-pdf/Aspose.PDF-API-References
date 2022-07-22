@@ -18,7 +18,7 @@ public class PageActionCollection : BaseActionCollection
 
 | Имя | Описание |
 | --- | --- |
-| [OnClose](../../aspose.pdf/pageactioncollection/onclose) { get; set; } | Действие, которое должно выполняться при закрытии страницы. |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose) { get; set; } | Действие, которое должно быть выполнено при закрытии страницы. |
 | [OnOpen](../../aspose.pdf/pageactioncollection/onopen) { get; set; } | Действие, которое должно выполняться при открытии страницы. |
 
 ## Методы

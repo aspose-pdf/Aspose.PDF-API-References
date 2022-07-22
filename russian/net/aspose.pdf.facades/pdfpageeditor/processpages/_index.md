@@ -1,14 +1,14 @@
 ---
 title: ProcessPages
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает номера редактируемых страниц. По умолчанию каждая страница будет редактироваться.
+description: Получает или задает номера редактируемых страниц. По умолчанию редактируется каждая страница.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/processpages/
 ---
 ## PdfPageEditor.ProcessPages property
 
-Получает или задает номера редактируемых страниц. По умолчанию каждая страница будет редактироваться.
+Получает или задает номера редактируемых страниц. По умолчанию редактируется каждая страница.
 
 ```csharp
 public int[] ProcessPages { get; set; }

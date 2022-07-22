@@ -28,7 +28,7 @@ public override void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-将 PDF 文档保存到指定的流。
+将 PDF 文档保存到指定的流中。
 
 ```csharp
 public override void Save(Stream destStream)

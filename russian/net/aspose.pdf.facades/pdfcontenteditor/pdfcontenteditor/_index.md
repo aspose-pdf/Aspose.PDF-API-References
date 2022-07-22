@@ -24,7 +24,7 @@ public PdfContentEditor()
 
 ## PdfContentEditor(Document) {#constructor_1}
 
-Инициализирует новый[`PdfContentEditor`](../../pdfcontenteditor)объект на основе*document*.
+Инициализирует новый[`PdfContentEditor`](../../pdfcontenteditor) объект на базе*document* .
 
 ```csharp
 public PdfContentEditor(Document document)
@@ -32,7 +32,7 @@ public PdfContentEditor(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

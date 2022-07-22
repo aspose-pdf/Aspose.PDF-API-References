@@ -1,14 +1,14 @@
 ---
 title: Measure.NumberFormat.FractionStyle
 second_title: Aspose.PDF для справочника API .NET
-description: Значение указывающее способ отображения дробных значений.
+description: Значение указывающее способ отображения значений дробей.
 type: docs
 weight: 670
 url: /ru/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
 ---
 ## Measure.NumberFormat.FractionStyle enumeration
 
-Значение, указывающее способ отображения дробных значений.
+Значение, указывающее способ отображения значений дробей.
 
 ```csharp
 public enum FractionStyle
@@ -18,9 +18,9 @@ public enum FractionStyle
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| ShowAsDecimal | `0` | Показывать дробные значения в виде десятичной дроби. |
+| ShowAsDecimal | `0` | Показать дробные значения в виде десятичной дроби. |
 | ShowAsFraction | `1` | Показать дробное значение как дробь. |
-| Round | `2` | Округляйте дробные значения до ближайшего целого числа. |
+| Round | `2` | Округление дробных значений до ближайшего целого числа. |
 | Truncate | `3` | Обрезать, чтобы получить целые единицы. |
 
 ### Смотрите также

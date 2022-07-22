@@ -16,7 +16,7 @@ public string this[string key] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| key | 键值。 |
+| key | 核心价值。 |
 
 ### 返回值
 

@@ -22,28 +22,28 @@ public class SetColor : BasicSetColorOperator
 | [SetColor](setcolor#constructor_1)(double) | Установить цвет для обводки операторов для цветовых пространств DeviceGrey, CalGrey и Indexed. |
 | [SetColor](setcolor#constructor_4)(double[]) | Конструктор, позволяющий задавать компоненты цвета. |
 | [SetColor](setcolor#constructor_2)(double, double, double) | Установить цвет для обводки оператора для цветовых пространств DeviceRGB, CalRGB и Lab |
-| [SetColor](setcolor#constructor_3)(double, double, double, double) | Установить цвет для оператора без штриха для цветового пространства CMYK |
+| [SetColor](setcolor#constructor_3)(double, double, double, double) | Установить цвет оператора без штриха для цветового пространства CMYK |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Получает красную составляющую цвета |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Получает красный компонент color |
 | [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Получает голубой компонент цвета CMYK. |
 | virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Получает массив компонентов цвета. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Получает зеленую составляющую цвета |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Получает зеленый компонент цвета |
 | [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Получает черную составляющую серого цвета. |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
 | [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Получает черный компонент цвета CMYK. |
 | [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Получает пурпурный компонент цвета CMYK. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Получает красную составляющую цвета |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Получает красный компонент color |
 | [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Получает желтый компонент цвета CMYK. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | Возвращает цвет, указанный оператором. |
 | override [ToString](../../aspose.pdf.operators/setcolor/tostring)() | Возвращает строковое представление цвета. |
 

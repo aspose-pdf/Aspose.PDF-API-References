@@ -1,14 +1,14 @@
 ---
 title: TextDecorationType_Overline
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 TextDecorationTypeOverline - 文本上方的一行
+description: 属性 TextDecorationType Overline - 文本上方的一行
 type: docs
 weight: 610
 url: /zh/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 ---
 ## AttributeName.TextDecorationType_Overline field
 
-属性 TextDecorationType:Overline - 文本上方的一行。
+属性 TextDecorationType: Overline - 文本上方的一行。
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Overline;

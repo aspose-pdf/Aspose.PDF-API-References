@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает цвет фона текста.
+description: Получает или задает цвет фона текста.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/
 ---
 ## StructureTextState.BackgroundColor property
 
-Получает или устанавливает цвет фона текста.
+Получает или задает цвет фона текста.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,7 @@ public Color BackgroundColor { get; set; }
 
 ### Примечания
 
-Может быть нулевым. Используйте null для наследования свойства` BackgroundColor` от родительского элемента структуры.
+Может быть нулевым. Используйте null для наследования`Фоновый цвет` свойство из родительского элемента структуры.
 
 ### Смотрите также
 

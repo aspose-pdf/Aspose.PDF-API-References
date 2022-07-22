@@ -1,14 +1,14 @@
 ---
 title: EncryptFile
 second_title: Aspose.PDF for .NET API 参考
-description: 使用用户密码和所有者密码加密 Pdf 文件并设置文档的访问权限 用户密码和所有者密码可以为空或空如果输入的所有者密码为空或为空则所有者密码将被替换为 随机字符串 如果进程失败则抛出异常
+description: 使用userpassword 和ownerpassword 加密Pdf 文件并设置文档的访问权限 用户密码和所有者密码可以为空或空如果输入的所有者密码为空或为空所有者密码将被替换为随机字符串  如果进程失败则抛出异常
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-使用用户密码和所有者密码加密 Pdf 文件并设置文档的访问权限。 用户密码和所有者密码可以为空或空。如果输入的所有者密码为空或为空，则所有者密码将被替换为 随机字符串。 如果进程失败则抛出异常。
+使用userpassword 和ownerpassword 加密Pdf 文件，并设置文档的访问权限。 用户密码和所有者密码可以为空或空。如果输入的所有者密码为空或为空，所有者密码将被替换为随机字符串 。 如果进程失败则抛出异常。
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -20,24 +20,24 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
 | privilege | DocumentPrivilege | 设置权限。 |
-| keySize | KeySize | KeySize.x40 用于 40 位加密， KeySize.x128 用于 128 位加密， KeySize.x256 用于 256 位加密。 |
+| keySize | KeySize | KeySize.x40 用于 40 位加密，KeySize.x128 用于 128 位加密， KeySize.x256 用于 256 位加密。 |
 
 ### 返回值
 
-成功为真。
+真正的成功。
 
 ### 例子
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";   //TestPath可能会被重新分配
-string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。 
+string inFile = "D:\\input.pdf"; //TestPath 可能会被重新分配。
+string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。	
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'TestPath可能会被重新分配'
-Dim outFile As String = "D:\\output.pdf"   'TestPath 可能会被重新分配。'
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
@@ -54,7 +54,7 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-使用用户密码和所有者密码加密 Pdf 文件并设置文档的访问权限。 用户密码和所有者密码可以为空或空。如果输入的所有者密码为空或为空，则所有者密码将被替换为 随机字符串。 KeySize 和 Algorithm 值有 6 种可能的组合。 但是 (KeySize.x40, Algorithm.AES) 和 (KeySize.x256, Algorithm.RC4) 无效，如果 kit 遇到这种组合，将引发相应的 异常。 如果进程失败则抛出异常。
+使用userpassword 和ownerpassword 加密Pdf 文件，并设置文档的访问权限。 用户密码和所有者密码可以为空或空。如果输入的所有者密码为空或为空，则所有者密码将被替换为随机字符串 。 KeySize 和 Algorithm 值有 6 种可能的组合。 但是 (KeySize.x40, Algorithm.AES) 和 (KeySize.x256, Algorithm.RC4) 无效，如果 kit 遇到这种组合，将引发相应的 异常。 如果处理失败则引发异常。
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -66,25 +66,25 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
 | privilege | DocumentPrivilege | 设置权限。 |
-| keySize | KeySize | KeySize.x40 用于 40 位加密， KeySize.x128 用于 128 位加密， KeySize.x256 用于 256 位加密。 |
-| cipher | Algorithm | Algorithm.AES 使用 AES 算法进行加密，或者 Algorithm.RC4 用于 RC4 加密。 |
+| keySize | KeySize | KeySize.x40 用于 40 位加密，KeySize.x128 用于 128 位加密， KeySize.x256 用于 256 位加密。 |
+| cipher | Algorithm | 使用 AES 算法进行加密的 Algorithm.AES 或用于 RC4 加密的 Algorithm.RC4。 |
 
 ### 返回值
 
-成功为真。
+真正的成功。
 
 ### 例子
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";   //TestPath可能会被重新分配
-string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。 
+string inFile = "D:\\input.pdf"; //TestPath 可能会被重新分配。
+string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。	
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'TestPath 可能会被重新分配。'
-Dim outFile As String = "D:\\output.pdf"   'TestPath 可能会被重新分配。'
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```

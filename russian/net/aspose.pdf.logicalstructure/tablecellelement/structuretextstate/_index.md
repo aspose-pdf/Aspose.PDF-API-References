@@ -1,14 +1,14 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF для справочника API .NET
-description: Получает объектStructureTextStateдля текущего элемента.
+description: получаетStructureTextState объект для текущего элемента.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/
 ---
 ## TableCellElement.StructureTextState property
 
-Получает объектStructureTextStateдля текущего элемента.
+получаетStructureTextState объект для текущего элемента.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
@@ -16,7 +16,7 @@ public StructureTextState StructureTextState { get; }
 
 ### Стоимость имущества
 
-StructureTextStateобъект для текущего элемента.
+StructureTextState объект для текущего элемента.
 
 ### Смотрите также
 

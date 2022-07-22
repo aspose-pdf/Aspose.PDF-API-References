@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API 参考
-description: 进度值的当前值
+description: 当前进度值
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.Value field
 
-进度值的当前值
+当前进度值
 
 ```csharp
 public int Value;

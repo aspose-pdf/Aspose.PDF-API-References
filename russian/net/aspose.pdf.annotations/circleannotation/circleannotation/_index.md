@@ -1,14 +1,14 @@
 ---
 title: CircleAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор круговой аннотации.
+description: Конструктор для круговой аннотации.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/circleannotation/circleannotation/
 ---
 ## CircleAnnotation(Document) {#constructor}
 
-Конструктор круговой аннотации.
+Конструктор для круговой аннотации.
 
 ```csharp
 public CircleAnnotation(Document document)

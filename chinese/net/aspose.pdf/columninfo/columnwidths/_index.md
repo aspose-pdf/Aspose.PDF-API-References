@@ -1,14 +1,14 @@
 ---
 title: ColumnWidths
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置包含列宽的字符串 每一列的值用空格隔开默认单位是磅 但也支持厘米英寸和可用宽度的百分比 例如120 2.5cm 1.5inch
+description: 获取或设置包含列宽的字符串 每列的值用空格隔开默认单位是磅 但也支持厘米英寸和可用宽度的百分比 例如120 2.5cm 1.5inch
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/columninfo/columnwidths/
 ---
 ## ColumnInfo.ColumnWidths property
 
-获取或设置包含列宽的字符串。 每一列的值用空格隔开。默认单位是磅， 但也支持厘米、英寸和可用宽度的百分比。 例如，“120 2.5cm 1.5inch”
+获取或设置包含列宽的字符串。 每列的值用空格隔开。默认单位是磅， 但也支持厘米、英寸和可用宽度的百分比。 例如，“120 2.5cm 1.5inch”
 
 ```csharp
 public string ColumnWidths { get; set; }

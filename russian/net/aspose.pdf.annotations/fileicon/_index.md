@@ -1,14 +1,14 @@
 ---
 title: FileIcon
 second_title: Aspose.PDF для справочника API .NET
-description: Значок используемый для отображения аннотации.
+description: Значок который будет использоваться для отображения аннотации.
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.annotations/fileicon/
 ---
 ## FileIcon enumeration
 
-Значок, используемый для отображения аннотации.
+Значок, который будет использоваться для отображения аннотации.
 
 ```csharp
 public enum FileIcon

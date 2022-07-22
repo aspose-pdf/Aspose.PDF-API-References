@@ -1,14 +1,14 @@
 ---
 title: NonFullScreenPageModeUseThumbs
 second_title: Aspose.PDF для справочника API .NET
-description: Видны миниатюры
+description: Эскизы изображений visible
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 ---
 ## ViewerPreference.NonFullScreenPageModeUseThumbs field
 
-Видны миниатюры
+Эскизы изображений visible
 
 ```csharp
 public const int NonFullScreenPageModeUseThumbs;

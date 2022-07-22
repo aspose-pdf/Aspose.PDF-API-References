@@ -1,14 +1,14 @@
 ---
 title: OnExit
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置当光标退出注释活动区域时要执行的操作
+description: 获取或设置当光标退出注解活动区域时要执行的动作
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/annotationactioncollection/onexit/
 ---
 ## AnnotationActionCollection.OnExit property
 
-获取或设置当光标退出注释活动区域时要执行的操作。
+获取或设置当光标退出注解活动区域时要执行的动作。
 
 ```csharp
 public PdfAction OnExit { get; set; }

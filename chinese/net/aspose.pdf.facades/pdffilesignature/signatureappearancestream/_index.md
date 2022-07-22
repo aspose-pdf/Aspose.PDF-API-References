@@ -1,14 +1,14 @@
 ---
 title: SignatureAppearanceStream
 second_title: Aspose.PDF for .NET API 参考
-description: 设置或获取签名的图形外观属性值表示图像流
+description: 设置或获取签名的图形外观属性值代表图像流
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/pdffilesignature/signatureappearancestream/
 ---
 ## PdfFileSignature.SignatureAppearanceStream property
 
-设置或获取签名的图形外观。属性值表示图像流。
+设置或获取签名的图形外观。属性值代表图像流。
 
 ```csharp
 public Stream SignatureAppearanceStream { get; set; }

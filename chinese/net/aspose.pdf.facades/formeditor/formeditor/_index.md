@@ -1,14 +1,14 @@
 ---
 title: FormEditor
 second_title: Aspose.PDF for .NET API 参考
-description: FormEditor 的构造函数
+description: FormEditor. 的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/formeditor/formeditor/
 ---
 ## FormEditor() {#constructor}
 
-FormEditor 的构造函数。
+FormEditor. 的构造函数
 
 ```csharp
 public FormEditor()
@@ -30,7 +30,7 @@ FormEditor formEditor = new FormEditor();
 
 ## FormEditor(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`FormEditor`](../../formeditor)对象。
+初始化新的[`FormEditor`](../../formeditor)对象基于*document*.
 
 ```csharp
 public FormEditor(Document document)
@@ -38,7 +38,7 @@ public FormEditor(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | pdf文档。 |
 
 ### 也可以看看
 

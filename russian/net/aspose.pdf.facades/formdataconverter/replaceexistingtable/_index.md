@@ -1,14 +1,14 @@
 ---
 title: ReplaceExistingTable
 second_title: Aspose.PDF для справочника API .NET
-description: ImportIntoDatabase удалит существующую таблицу и создаст новую если для этого свойства установлено значение true.
+description: ImportIntoDatabase удалит существующую таблицу и создаст новую таблицу если для этого свойства установлено значение true.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/formdataconverter/replaceexistingtable/
 ---
 ## FormDataConverter.ReplaceExistingTable property
 
-ImportIntoDatabase удалит существующую таблицу и создаст новую, если для этого свойства установлено значение true.
+ImportIntoDatabase удалит существующую таблицу и создаст новую таблицу, если для этого свойства установлено значение true.
 
 ```csharp
 public bool ReplaceExistingTable { get; set; }

@@ -20,7 +20,7 @@ public enum HtmlPageLayoutOption
 | --- | --- | --- |
 | None | `0` | 默认值，表示 HtmlPageLayoutOption 不会影响页面的大小和布局。 |
 | FitToWidestContentWidth | `3` | 表示页面的宽度由内容大小本身决定，而不是由指定的页面宽度决定。 |
-| ScaleToPageWidth | `256` | 表示将缩放文档的内容以适应页面。 |
+| ScaleToPageWidth | `256` | 表示文档的内容将被缩放以适应页面。 |
 
 ### 也可以看看
 

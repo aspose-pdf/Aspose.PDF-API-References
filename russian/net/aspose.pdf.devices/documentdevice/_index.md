@@ -21,7 +21,7 @@ public abstract class DocumentDevice : Device
 | [BinarizeBradley](../../aspose.pdf.devices/documentdevice/binarizebradley)(Stream, Stream, double) | Выполнить бинаризацию Брэдли для входного потока. |
 | [Process](../../aspose.pdf.devices/documentdevice/process#process_2)(Document, Stream) | Обрабатывает весь документ и сохраняет результаты в поток. |
 | [Process](../../aspose.pdf.devices/documentdevice/process#process_3)(Document, string) | Обрабатывает весь документ и сохраняет результаты в файл. |
-| abstract [Process](../../aspose.pdf.devices/documentdevice/process#process)(Document, int, int, Stream) | Каждое устройство представляет некоторую операцию над документом, например, мы можем преобразовать документ pdf в другой формат. |
+| abstract [Process](../../aspose.pdf.devices/documentdevice/process#process)(Document, int, int, Stream) | Каждое устройство представляет некоторую операцию над документом, например, мы можем преобразовать документ PDF в другой формат. |
 | [Process](../../aspose.pdf.devices/documentdevice/process#process_1)(Document, int, int, string) | Обрабатывает определенные страницы документа и сохраняет результаты в файл. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает позицию абзаца.
+description: Получает или задает положение абзаца.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textparagraph/position/
 ---
 ## TextParagraph.Position property
 
-Получает или устанавливает позицию абзаца.
+Получает или задает положение абзаца.
 
 ```csharp
 public Position Position { get; set; }

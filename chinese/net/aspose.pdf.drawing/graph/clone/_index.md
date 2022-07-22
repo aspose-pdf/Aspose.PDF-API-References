@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆图形
+description: 克隆图
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.drawing/graph/clone/
 ---
 ## Graph.Clone method
 
-克隆图形。
+克隆图。
 
 ```csharp
 public override object Clone()
@@ -16,7 +16,7 @@ public override object Clone()
 
 ### 返回值
 
-克隆对象
+克隆的对象
 
 ### 也可以看看
 

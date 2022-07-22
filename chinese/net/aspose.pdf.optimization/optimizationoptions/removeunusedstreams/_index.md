@@ -1,14 +1,14 @@
 ---
 title: RemoveUnusedStreams
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此标志设置为 true则检查每个资源的使用情况如果从未使用过资源则移除资源 这可能会减小文档大小例如从文档中提取页面时
+description: 如果此标志设置为 true则检查每个资源的使用情况如果从不使用资源则删除资源 这可能会减小文档大小例如从文档中提取页面时
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/removeunusedstreams/
 ---
 ## OptimizationOptions.RemoveUnusedStreams property
 
-如果此标志设置为 true，则检查每个资源的使用情况。如果从未使用过资源，则移除资源。 这可能会减小文档大小，例如从文档中提取页面时。
+如果此标志设置为 true，则检查每个资源的使用情况。如果从不使用资源，则删除资源。 这可能会减小文档大小，例如从文档中提取页面时。
 
 ```csharp
 public bool RemoveUnusedStreams { get; set; }

@@ -16,7 +16,7 @@ public override void Accept(IOperatorSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Объект-посетитель |
+| visitor | IOperatorSelector | Объект посетителя |
 
 ### Смотрите также
 

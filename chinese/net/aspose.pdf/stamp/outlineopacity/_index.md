@@ -1,14 +1,14 @@
 ---
 title: OutlineOpacity
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个值以指示印章轮廓不透明度该值从 0.0 到 1.0 默认值为 1.0
+description: 获取或设置一个值来指示印章轮廓的不透明度值从 0.0 到 1.0. 默认值为 1.0.
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/stamp/outlineopacity/
 ---
 ## Stamp.OutlineOpacity property
 
-获取或设置一个值以指示印章轮廓不透明度。该值从 0.0 到 1.0。 默认值为 1.0。
+获取或设置一个值来指示印章轮廓的不透明度。值从 0.0 到 1.0. 默认值为 1.0.
 
 ```csharp
 public double OutlineOpacity { get; set; }

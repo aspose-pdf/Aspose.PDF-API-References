@@ -1,14 +1,14 @@
 ---
 title: End
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置结束圆的中心点
+description: 获取或设置结束圆中心点
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.drawing/gradientradialshading/end/
 ---
 ## GradientRadialShading.End property
 
-获取或设置结束圆的中心点。
+获取或设置结束圆中心点。
 
 ```csharp
 public Point End { get; set; }

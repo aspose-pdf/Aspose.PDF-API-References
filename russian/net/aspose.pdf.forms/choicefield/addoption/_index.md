@@ -36,7 +36,7 @@ public virtual void AddOption(string export, string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| export | String | Экспортировать значение. |
+| export | String | Экспорт стоимости. |
 | name | String | Имя новой опции. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: ImportDataTable
 second_title: Aspose.PDF for .NET API 参考
-description: 导入DataTable类型的数据 dataTable的每一列的名称必须与 模板pdf的一个字段名称相同区分大小写
+description: 导入DataTable 类型的数据数据表每一列的名称必须与 模板pdf的一个字段名称相同区分大小写
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/autofiller/importdatatable/
 ---
 ## AutoFiller.ImportDataTable method
 
-导入DataTable类型的数据。 dataTable的每一列的名称必须与 模板pdf的一个字段名称相同，区分大小写。
+导入DataTable 类型的数据。数据表每一列的名称必须与 模板pdf的一个字段名称相同，区分大小写。
 
 ```csharp
 public void ImportDataTable(DataTable dataTable)

@@ -1,14 +1,14 @@
 ---
 title: Errors
 second_title: Aspose.PDF для справочника API .NET
-description: Список объектовTextExtractionErroraspose.pdf.text/textextractionerror. Он содержит информацию об ошибках обнаруженных при извлечении текста. Поиск ошибок будет производиться только если TextSearchOptions.LogTextExtractionErrors  true И это может снизить производительность.
+description: СписокTextExtractionErroraspose.pdf.text/textextractionerror объекты. Содержит информацию об ошибках обнаруженных при извлечении текста. Поиск ошибок будет производиться только если TextSearchOptions.LogTextExtractionErrors  true И это может снизить производительность.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/errors/
 ---
 ## TextFragmentAbsorber.Errors property
 
-Список объектов[`TextExtractionError`](../../textextractionerror). Он содержит информацию об ошибках, обнаруженных при извлечении текста. Поиск ошибок будет производиться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность.
+Список[`TextExtractionError`](../../textextractionerror) объекты. Содержит информацию об ошибках, обнаруженных при извлечении текста. Поиск ошибок будет производиться, только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность.
 
 ```csharp
 public List<TextExtractionError> Errors { get; }

@@ -1,14 +1,14 @@
 ---
 title: LanguageTransformationBehavior
 second_title: Aspose.PDF для справочника API .NET
-description: Получает режим который определяет поведение для сценариев преобразования языка.
+description: Получает режим определяющий поведение для сценариев преобразования языка.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/
 ---
 ## TextEditOptions.LanguageTransformationBehavior property
 
-Получает режим, который определяет поведение для сценариев преобразования языка.
+Получает режим, определяющий поведение для сценариев преобразования языка.
 
 ```csharp
 public LanguageTransformation LanguageTransformationBehavior { get; set; }

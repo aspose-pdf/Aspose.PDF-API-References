@@ -1,14 +1,14 @@
 ---
 title: TeXMemoryOutputDirectory
 second_title: Aspose.PDF for .NET API 参考
-description: 实现从内存中获取输出流您可以使用它例如 当您不希望将随附的输出如日志文件写入 磁盘但您想阅读它时后来凭记忆
+description: 实现从内存中获取输出流例如当您不希望将随附的输出如日志文件写入 磁盘但您想事后从内存中读取它时可以使用它例如 
 type: docs
 weight: 6580
 url: /zh/net/aspose.pdf/texmemoryoutputdirectory/
 ---
 ## TeXMemoryOutputDirectory class
 
-实现从内存中获取输出流。您可以使用它，例如 当您不希望将随附的输出（如日志文件）写入 磁盘但您想阅读它时后来凭记忆。
+实现从内存中获取输出流。例如，当您不希望将随附的输出（如日志文件）写入 磁盘但您想事后从内存中读取它时，可以使用它，例如 。
 
 ```csharp
 public class TeXMemoryOutputDirectory : ITeXOutputDirectory
@@ -24,7 +24,7 @@ public class TeXMemoryOutputDirectory : ITeXOutputDirectory
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose)() | 释放实例。 |
+| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose)() | 处理实例。 |
 | [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile)(string, out string, bool) | 返回要读取的流。 |
 | [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile)(string, out string) | 返回要写入的流。 |
 

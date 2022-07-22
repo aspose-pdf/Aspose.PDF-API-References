@@ -1,14 +1,14 @@
 ---
 title: SetColorSpace
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор cs устанавливает цветовое пространство для операций без обводки
+description: Класс представляющий оператор cs устанавливает цветовое пространство для операций без штриха
 type: docs
 weight: 5420
 url: /ru/net/aspose.pdf.operators/setcolorspace/
 ---
 ## SetColorSpace class
 
-Класс, представляющий оператор cs (устанавливает цветовое пространство для операций без обводки)
+Класс, представляющий оператор cs (устанавливает цветовое пространство для операций без штриха)
 
 ```csharp
 public class SetColorSpace : Operator
@@ -31,7 +31,7 @@ public class SetColorSpace : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorspace/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcolorspace/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

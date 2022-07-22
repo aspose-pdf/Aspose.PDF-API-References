@@ -16,7 +16,7 @@ public SetTextLeading(double leading)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| leading | Double | 文本前导。 |
+| leading | Double | 文字前导。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CreateAnnotElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建AnnotElementaspose.pdf.logicalstructure/annotelement
+description: 创建AnnotElementaspose.pdf.logicalstructure/annotelement.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createannotelement/
 ---
 ## ITaggedContent.CreateAnnotElement method
 
-创建[`AnnotElement`](../../../aspose.pdf.logicalstructure/annotelement)。
+创建[`AnnotElement`](../../../aspose.pdf.logicalstructure/annotelement).
 
 ```csharp
 public AnnotElement CreateAnnotElement()
@@ -16,7 +16,7 @@ public AnnotElement CreateAnnotElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

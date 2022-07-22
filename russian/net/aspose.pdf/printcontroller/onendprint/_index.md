@@ -1,14 +1,14 @@
 ---
 title: OnEndPrint
 second_title: Aspose.PDF для справочника API .NET
-description: Срабатывает при начале печати страницы.
+description: Загорается при начале печати страницы.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/printcontroller/onendprint/
 ---
 ## PrintController.OnEndPrint method
 
-Срабатывает при начале печати страницы.
+Загорается при начале печати страницы.
 
 ```csharp
 public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
@@ -17,7 +17,7 @@ public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | document | PrintDocument | Документ для печати. |
-| e | PrintEventArgs | Аргументы события. |
+| e | PrintEventArgs | Аргументы событий. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ComboBoxField
 second_title: Aspose.PDF for .NET API 参考
-description: 用于生成器的 ComboBoxField 的构造函数
+description: 要在生成器中使用的 ComboBoxField 的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/comboboxfield/comboboxfield/
 ---
 ## ComboBoxField() {#constructor}
 
-用于生成器的 ComboBoxField 的构造函数。
+要在生成器中使用的 ComboBoxField 的构造函数。
 
 ```csharp
 public ComboBoxField()
@@ -24,7 +24,7 @@ public ComboBoxField()
 
 ## ComboBoxField(Document) {#constructor_1}
 
-创建组合框字段以使用生成器。
+创建组合框字段以使用 Generator.
 
 ```csharp
 public ComboBoxField(Document doc)
@@ -32,7 +32,7 @@ public ComboBoxField(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 
 ### 也可以看看
 
@@ -54,7 +54,7 @@ public ComboBoxField(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 将放置字段的页面。 |
-| rect | Rectangle | 定义页面上字段大小和位置的矩形。 |
+| rect | Rectangle | 定义页面上字段的大小和位置的矩形。 |
 
 ### 也可以看看
 
@@ -76,7 +76,7 @@ public ComboBoxField(Document doc, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 应该在哪里创建字段的文档。 |
+| doc | Document | 记录应在何处创建字段。 |
 | rect | Rectangle | 定义字段大小和位置的矩形。 |
 
 ### 也可以看看

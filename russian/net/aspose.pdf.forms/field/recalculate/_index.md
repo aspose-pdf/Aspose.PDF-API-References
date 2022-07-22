@@ -1,14 +1,14 @@
 ---
 title: Recalculate
 second_title: Aspose.PDF для справочника API .NET
-description: Повторно вычисляет все вычисляемые поля в форме.
+description: Повторно вычисляет все вычисляемые поля формы.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.forms/field/recalculate/
 ---
 ## Field.Recalculate method
 
-Повторно вычисляет все вычисляемые поля в форме.
+Повторно вычисляет все вычисляемые поля формы.
 
 ```csharp
 public bool Recalculate()
@@ -16,7 +16,7 @@ public bool Recalculate()
 
 ### Возвращаемое значение
 
-true, если значение поля было изменено при пересчете.
+true, если значение поля было изменено во время пересчета.
 
 ### Смотрите также
 

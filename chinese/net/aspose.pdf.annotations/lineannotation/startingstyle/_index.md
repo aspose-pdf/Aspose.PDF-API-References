@@ -1,14 +1,14 @@
 ---
 title: StartingStyle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置行起点的行结束样式
+description: 获取或设置线起点的线结束样式
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.annotations/lineannotation/startingstyle/
 ---
 ## LineAnnotation.StartingStyle property
 
-获取或设置行起点的行结束样式。
+获取或设置线起点的线结束样式。
 
 ```csharp
 public LineEnding StartingStyle { get; set; }

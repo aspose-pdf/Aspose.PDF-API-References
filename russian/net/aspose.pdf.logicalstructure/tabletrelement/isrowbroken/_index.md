@@ -1,14 +1,14 @@
 ---
 title: IsRowBroken
 second_title: Aspose.PDF для справочника API .NET
-description: Получает строку которая может быть разбита между двумя страницами.
+description: Получает что строка может быть разбита между двумя страницами.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 ---
 ## TableTRElement.IsRowBroken property
 
-Получает строку, которая может быть разбита между двумя страницами.
+Получает, что строка может быть разбита между двумя страницами.
 
 ```csharp
 public bool IsRowBroken { get; set; }

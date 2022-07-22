@@ -1,14 +1,14 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API 参考
-description: 如果 AnnotationSelector 使用 LinkAnnotation 对象初始化则选择链接注释
+description: 如果 AnnotationSelector 是用 LinkAnnotation 对象初始化的则选择链接注释
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/annotationselector/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_7}
 
-如果 AnnotationSelector 使用 LinkAnnotation 对象初始化，则选择链接注释。
+如果 AnnotationSelector 是用 LinkAnnotation 对象初始化的，则选择链接注释。
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -16,7 +16,7 @@ public void Visit(LinkAnnotation link)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation 对象用于选择。 |
+| link | LinkAnnotation | 用于选择的 LinkAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_2}
 
-如果 AnnotationSelector 使用 FileAttachmentAnnotation 对象初始化，则选择附件注释。
+如果 AnnotationSelector 已使用 FileAttachmentAnnotation 对象初始化，则选择附件注释。
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -37,7 +37,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation 对象用于选择。 |
+| attachment | FileAttachmentAnnotation | 用于选择的 FileAttachmentAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ## Visit(TextAnnotation) {#visit_20}
 
-如果 AnnotationSelector 使用 TextAnnotation 对象初始化，则选择文本注释。
+如果 AnnotationSelector 是用 TextAnnotation 对象初始化的，则选择文本注释。
 
 ```csharp
 public void Visit(TextAnnotation text)
@@ -58,7 +58,7 @@ public void Visit(TextAnnotation text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | TextAnnotation | TextAnnotation 选择对象。 |
+| text | TextAnnotation | 用于选择的 TextAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -71,7 +71,7 @@ public void Visit(TextAnnotation text)
 
 ## Visit(RedactionAnnotation) {#visit_13}
 
-如果 AnnotationSelector 使用 RedactAnnotation 对象初始化，则选择编辑注释。
+如果 AnnotationSelector 已使用 RedactAnnotation 对象初始化，则选择编辑注释。
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
@@ -79,7 +79,7 @@ public void Visit(RedactionAnnotation redact)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| redact | RedactionAnnotation | RedactAnnotation 选择对象。 |
+| redact | RedactionAnnotation | 用于选择的 RedactAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -100,7 +100,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation 对象用于选择。 |
+| freetext | FreeTextAnnotation | 用于选择的 FreeTextAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -121,7 +121,7 @@ public void Visit(HighlightAnnotation highlight)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation 选择对象。 |
+| highlight | HighlightAnnotation | HighlightAnnotation 对象用于选择。 |
 
 ### 也可以看看
 
@@ -176,7 +176,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_17}
 
-如果 AnnotationSelector 使用 SquigglyAnnotation 对象初始化，则选择 squiggly 注释。
+如果 AnnotationSelector 是用 SquigglyAnnotation 对象初始化的，则选择 squiggly 注释。
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
@@ -205,7 +205,7 @@ public void Visit(PopupAnnotation popup)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation 对象用于选择。 |
+| popup | PopupAnnotation | 用于选择的 PopupAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -218,7 +218,7 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_6}
 
-如果 AnnotationSelector 使用 LineAnnotation 对象初始化，则选择行注释。
+如果 AnnotationSelector 已使用 LineAnnotation 对象初始化，则选择行注释。
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -226,7 +226,7 @@ public void Visit(LineAnnotation line)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| line | LineAnnotation | LineAnnotation 选择对象。 |
+| line | LineAnnotation | 用于选择的 LineAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -247,7 +247,7 @@ public void Visit(CircleAnnotation circle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation 对象用于选择。 |
+| circle | CircleAnnotation | 用于选择的CircleAnnotation对象。 |
 
 ### 也可以看看
 
@@ -268,7 +268,7 @@ public void Visit(SquareAnnotation square)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation 对象用于选择。 |
+| square | SquareAnnotation | 用于选择的 SquareAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -289,7 +289,7 @@ public void Visit(InkAnnotation ink)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation 选择对象。 |
+| ink | InkAnnotation | 用于选择的 InkAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -310,7 +310,7 @@ public void Visit(PolylineAnnotation polyline)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineAnnotation 选择对象。 |
+| polyline | PolylineAnnotation | 用于选择的 PolylineAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -323,7 +323,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_10}
 
-如果 AnnotationSelector 使用 PolygonAnnotation 对象初始化，则选择多边形注释。
+如果 AnnotationSelector 已使用 PolygonAnnotation 对象初始化，则选择多边形注释。
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -331,7 +331,7 @@ public void Visit(PolygonAnnotation polygon)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation 选择对象。 |
+| polygon | PolygonAnnotation | 用于选择的 PolygonAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -352,7 +352,7 @@ public void Visit(CaretAnnotation caret)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation 对象用于选择。 |
+| caret | CaretAnnotation | 用于选择的 CaretAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -365,7 +365,7 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_18}
 
-如果 AnnotationSelector 使用 StampAnnotation 对象初始化，则选择戳记注释。
+如果 AnnotationSelector 已使用 StampAnnotation 对象初始化，则选择戳记注释。
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -386,7 +386,7 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_23}
 
-如果 AnnotationSelector 使用 WidgetAnnotation 对象初始化，则选择小部件注释。
+如果 AnnotationSelector 已使用 WidgetAnnotation 对象初始化，则选择小部件注释。
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
@@ -407,7 +407,7 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(WatermarkAnnotation) {#visit_22}
 
-如果 AnnotationSelector 使用 WatermarkAnnotation 对象初始化，则选择水印注释。
+如果 AnnotationSelector 已使用 WatermarkAnnotation 对象初始化，则选择水印注释。
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
@@ -436,7 +436,7 @@ public void Visit(MovieAnnotation movie)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation 选择对象。 |
+| movie | MovieAnnotation | 用于选择的 MovieAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -457,7 +457,7 @@ public void Visit(RichMediaAnnotation richMedia)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | RichMedia 注释。 |
+| richMedia | RichMediaAnnotation | 富媒体注释。 |
 
 ### 也可以看看
 
@@ -478,7 +478,7 @@ public void Visit(ScreenAnnotation screen)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| screen | ScreenAnnotation | ScreenAnnotation 对象用于选择。 |
+| screen | ScreenAnnotation | 用于选择的 ScreenAnnotation 对象。 |
 
 ### 也可以看看
 
@@ -499,7 +499,7 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | PDF3DAnnotation 对象用于选择。 |
+| pdf3D | PDF3DAnnotation | 用于选择的 PDF3DAnnotation 对象。 |
 
 ### 也可以看看
 

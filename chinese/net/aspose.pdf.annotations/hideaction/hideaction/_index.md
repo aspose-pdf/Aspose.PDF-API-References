@@ -1,14 +1,14 @@
 ---
 title: HideAction
 second_title: Aspose.PDF for .NET API 参考
-description: 为指定注释初始化HideActionaspose.pdf.annotations/hideaction类的新实例
+description: 初始化HideActionaspose.pdf.annotations/hideaction指定注释的类
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/hideaction/hideaction/
 ---
 ## HideAction(Annotation) {#constructor}
 
-为指定注释初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定注释的类。
 
 ```csharp
 public HideAction(Annotation annotation)
@@ -29,7 +29,7 @@ public HideAction(Annotation annotation)
 
 ## HideAction(Annotation, bool) {#constructor_1}
 
-为指定的注释和不可见标志初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定注释和不可见标志的类。
 
 ```csharp
 public HideAction(Annotation annotation, bool isHidden)
@@ -38,7 +38,7 @@ public HideAction(Annotation annotation, bool isHidden)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | annotation | Annotation | 要隐藏或显示的注释。 |
-| isHidden | Boolean | 指示是隐藏注释（true）还是显示注释（false）的标志。 |
+| isHidden | Boolean | 指示是隐藏注释 (true) 还是显示注释 (false) 的标志。 |
 
 ### 也可以看看
 
@@ -51,7 +51,7 @@ public HideAction(Annotation annotation, bool isHidden)
 
 ## HideAction(string) {#constructor_4}
 
-为指定的字段名初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定字段名称的类。
 
 ```csharp
 public HideAction(string fieldName)
@@ -71,7 +71,7 @@ public HideAction(string fieldName)
 
 ## HideAction(string, bool) {#constructor_5}
 
-为指定的字段名称和不可见标志初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定字段名称和不可见标志的类。
 
 ```csharp
 public HideAction(string fieldName, bool isHidden)
@@ -80,7 +80,7 @@ public HideAction(string fieldName, bool isHidden)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | String | 给出交互式表单字段的完全限定字段名称的文本字符串。 |
-| isHidden | Boolean | 指示是隐藏字段（真）还是显示（假）的标志。 |
+| isHidden | Boolean | 指示是隐藏字段 (true) 还是显示字段 (false) 的标志。 |
 
 ### 也可以看看
 
@@ -92,7 +92,7 @@ public HideAction(string fieldName, bool isHidden)
 
 ## HideAction(Annotation[]) {#constructor_2}
 
-为指定的注释初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定注释的类。
 
 ```csharp
 public HideAction(Annotation[] annotations)
@@ -113,7 +113,7 @@ public HideAction(Annotation[] annotations)
 
 ## HideAction(Annotation[], bool) {#constructor_3}
 
-为指定的注释和不可见标志初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定注释和不可见标志的类。
 
 ```csharp
 public HideAction(Annotation[] annotations, bool isHidden)
@@ -122,7 +122,7 @@ public HideAction(Annotation[] annotations, bool isHidden)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | annotations | Annotation[] | 要隐藏或显示的注释数组。 |
-| isHidden | Boolean | 指示是隐藏注释（true）还是显示注释（false）的标志。 |
+| isHidden | Boolean | 指示是隐藏注释 (true) 还是显示注释 (false) 的标志。 |
 
 ### 也可以看看
 
@@ -135,7 +135,7 @@ public HideAction(Annotation[] annotations, bool isHidden)
 
 ## HideAction(string[]) {#constructor_6}
 
-为指定的字段名称初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定字段名称的类。
 
 ```csharp
 public HideAction(string[] names)
@@ -155,7 +155,7 @@ public HideAction(string[] names)
 
 ## HideAction(string[], bool) {#constructor_7}
 
-为指定的字段名称和不可见标志初始化[`HideAction`](../../hideaction)类的新实例。
+初始化[`HideAction`](../../hideaction)指定字段名称和不可见标志的类。
 
 ```csharp
 public HideAction(string[] names, bool isHidden)
@@ -164,7 +164,7 @@ public HideAction(string[] names, bool isHidden)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | names | String[] | 一个字符串数组，给出交互式表单字段的完全限定字段名称。 |
-| isHidden | Boolean | 指示是隐藏字段（真）还是显示（假）的标志。 |
+| isHidden | Boolean | 指示是隐藏字段 (true) 还是显示字段 (false) 的标志。 |
 
 ### 也可以看看
 

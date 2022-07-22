@@ -1,14 +1,14 @@
 ---
 title: FontEmbeddingOptions
 second_title: Aspose.PDF for .NET API 参考
-description: PDF/A 标准要求所有字体必须嵌入到文档中 此类包括无法嵌入某些字体的情况下的标志因为该字体在目标 PC 上不存在 
+description: PDF/A 标准要求所有字体都必须嵌入到文档中 此类包括在无法嵌入某些字体的情况下的标志因为目标 PC 上缺少此字体 
 type: docs
 weight: 5960
 url: /zh/net/aspose.pdf.pdfaoptionclasses/fontembeddingoptions/
 ---
 ## FontEmbeddingOptions class
 
-PDF/A 标准要求所有字体必须嵌入到文档中。 此类包括无法嵌入某些字体的情况下的标志，因为该字体在目标 PC 上不存在 。
+PDF/A 标准要求，所有字体都必须嵌入到文档中。 此类包括在无法嵌入某些字体的情况下的标志，因为目标 PC 上缺少此字体 。
 
 ```csharp
 public class FontEmbeddingOptions
@@ -24,7 +24,7 @@ public class FontEmbeddingOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UseDefaultSubstitution](../../aspose.pdf.pdfaoptionclasses/fontembeddingoptions/usedefaultsubstitution) { get; set; } | 声明使用默认字体替换策略替换非嵌入字体。默认为假； |
+| [UseDefaultSubstitution](../../aspose.pdf.pdfaoptionclasses/fontembeddingoptions/usedefaultsubstitution) { get; set; } | 声明使用默认字体替换策略替换非嵌入字体。默认为 false; |
 
 ### 也可以看看
 

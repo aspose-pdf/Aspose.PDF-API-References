@@ -1,14 +1,14 @@
 ---
 title: BX
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор BX начало раздела совместимости.
+description: Класс представляющий оператора BX начало раздела совместимости.
 type: docs
 weight: 4920
 url: /ru/net/aspose.pdf.operators/bx/
 ---
 ## BX class
 
-Класс, представляющий оператор BX (начало раздела совместимости).
+Класс, представляющий оператора BX (начало раздела совместимости).
 
 ```csharp
 public class BX : Operator
@@ -30,7 +30,7 @@ public class BX : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bx/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/bx/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/bx/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

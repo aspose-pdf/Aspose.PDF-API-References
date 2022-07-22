@@ -1,14 +1,14 @@
 ---
 title: Fragments
 second_title: Aspose.PDF for .NET API 参考
-description: 非空TextFragmentaspose.pdf.text/textfragment部分内对象的集合
+description: 集合不为空TextFragmentaspose.pdf.text/textfragment section. 内的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/markupsection/fragments/
 ---
 ## MarkupSection.Fragments property
 
-非空[`TextFragment`](../../textfragment)部分内对象的集合。
+集合不为空[`TextFragment`](../../textfragment) section. 内的对象
 
 ```csharp
 public List<TextFragment> Fragments { get; }
@@ -16,7 +16,7 @@ public List<TextFragment> Fragments { get; }
 
 ### 评论
 
-[`TextFragment`](../../textfragment)对象提供访问搜索出现的文本、文本属性，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
+的[`TextFragment`](../../textfragment)对象提供对搜索出现文本、文本属性的访问，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RosyBrown
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FFBC8F8F 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FFBC8F8F.
 type: docs
 weight: 1160
 url: /zh/net/aspose.pdf/color/rosybrown/
 ---
 ## Color.RosyBrown property
 
-获取 ARGB 值为 #FFBC8F8F 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FFBC8F8F.
 
 ```csharp
 public static Color RosyBrown { get; }
@@ -16,7 +16,7 @@ public static Color RosyBrown { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

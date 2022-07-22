@@ -18,8 +18,8 @@ public bool ResizeContents(string source, string destination, int[] pages,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | String | Путь к исходному документу. |
-| destination | String | Путь документа назначения. |
-| pages | Int32[] | Массив индексов страниц (индекс страниц начинается с 1). |
+| destination | String | Путь к целевому документу. |
+| pages | Int32[] | Массив индексов страниц (индекс страницы начинается с 1). |
 | parameters | ContentsResizeParameters | Параметры изменения размера страницы. |
 
 ### Возвращаемое значение
@@ -33,15 +33,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //левое поле = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
+    // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
     null,
-     //правое поле 10% страницы 
+    //правое поле 10% страницы 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //верхнее поле = 10% от height
+    //верхнее поле = 10% от высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //высота нового содержимого рассчитывается автоматически (аналогично ширине)
+    // высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-     //нижнее поле 10%
+    //нижнее поле 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
@@ -68,7 +68,7 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 | --- | --- | --- |
 | source | Document | Исходный документ. |
 | pages | Int32[] | Список индексов страниц. |
-| parameters | ContentsResizeParameters | Изменить размер параметров. |
+| parameters | ContentsResizeParameters | Параметры изменения размера. |
 
 ### Примеры
 
@@ -78,15 +78,15 @@ Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //левое поле = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
+    // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
     null,
-     //правое поле 10% страницы 
+    //правое поле 10% страницы 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //верхнее поле = 10% от height
+    //верхнее поле = 10% от высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //высота нового содержимого рассчитывается автоматически (аналогично ширине)
+    // высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-     //нижнее поле 10%
+    //нижнее поле 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
@@ -114,7 +114,7 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | Document | Исходный документ. |
-| parameters | ContentsResizeParameters | Изменить размер параметров. |
+| parameters | ContentsResizeParameters | Параметры изменения размера. |
 
 ### Примеры
 
@@ -124,15 +124,15 @@ Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //левое поле = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
+    // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
     null,
-     //правое поле 10% страницы 
+    //правое поле 10% страницы 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //верхнее поле = 10% от height
+    //верхнее поле = 10% от высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //высота нового содержимого рассчитывается автоматически (аналогично ширине)
+    // высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-     //нижнее поле 10%
+    //нижнее поле 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, parameters);
@@ -151,7 +151,7 @@ doc.Save("output.pdf");
 
 ## ResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#resizecontents_1}
 
-Изменяет размер содержимого страниц документа.
+Изменяет размеры содержимого страниц документа.
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, 
@@ -161,13 +161,13 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | Stream | Поток с исходным документом. |
-| destination | Stream | Поток с целевым документом. |
+| destination | Stream | Потоковая передача с целевым документом. |
 | pages | Int32[] | Массив индексов страниц. |
-| parameters | ContentsResizeParameters | Изменить размер параметров. |
+| parameters | ContentsResizeParameters | Параметры изменения размера. |
 
 ### Возвращаемое значение
 
-В случае успеха возвращает true.
+Возвращает true в случае успеха.
 
 ### Примеры
 
@@ -178,15 +178,15 @@ Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //левое поле = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
+    // ширина нового содержимого рассчитывается автоматически как ширина - левое поле - правое поле (100% - 10% - 10% = 80%)
     null,
-     //правое поле 10% страницы 
+    //правое поле 10% страницы 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //верхнее поле = 10% от height
+    //верхнее поле = 10% от высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-     //высота нового содержимого рассчитывается автоматически (аналогично ширине)
+    // высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-     //нижнее поле 10%
+    //нижнее поле 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
@@ -204,7 +204,7 @@ dest.Close();
 
 ## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_2}
 
-Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указан в пространственных единицах по умолчанию.
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в пространственных единицах по умолчанию.
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -214,7 +214,7 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | Stream | Поток, содержащий исходный документ. |
-| destination | Stream | Поток, в котором будет сохранен результирующий документ. |
+| destination | Stream | Поток, где результирующий документ будет сохранен. |
 | pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
 | newWidth | Double | Новая ширина содержимого страницы в пространственных единицах по умолчанию. |
 | newHeight | Double | Новая высота содержимого страницы в пространственных единицах по умолчанию. |
@@ -230,13 +230,13 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
- //изменить размер всех страниц document
+//изменить размер всех страниц документа
 null, 
- // ширина нового содержимого = 200
+//ширина нового содержимого = 200
 200, 
- //высота нового содержимого = 300
+// высота нового содержимого = 300
 300);
- // остальная часть страницы будет пустой
+// остальная часть страницы будет пустой
 ```
 
 ### Смотрите также
@@ -249,7 +249,7 @@ null,
 
 ## ResizeContents(string, string, int[], double, double) {#resizecontents_5}
 
-Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указан в пространственных единицах по умолчанию.
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в пространственных единицах по умолчанию.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, double newWidth, 
@@ -273,13 +273,13 @@ true, если изменение размера прошло успешно.
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
- //изменить размер всех страниц document
+//изменить размер всех страниц документа
 null, 
- // ширина нового содержимого = 200
+//ширина нового содержимого = 200
 200, 
- //высота нового содержимого = 300
+// высота нового содержимого = 300
 300);
- // остальная часть страницы будет пустой
+// остальная часть страницы будет пустой
 ```
 
 ### Смотрите также
@@ -302,8 +302,8 @@ public bool ResizeContents(string source, int[] pages, ContentsResizeParameters 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | String | Путь к исходному файлу. |
-| pages | Int32[] | Массив страниц для изменения размера. |
-| parameters | ContentsResizeParameters | Изменить размер параметров. |
+| pages | Int32[] | Массив страниц, размер которых нужно изменить. |
+| parameters | ContentsResizeParameters | Параметры изменения размера. |
 | response | HttpResponse | Объект HttpResponse, в котором сохраняется результат. |
 
 ### Возвращаемое значение
@@ -331,8 +331,8 @@ public bool ResizeContents(Stream source, int[] pages, ContentsResizeParameters 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | Stream | Поток исходного файла. |
-| pages | Int32[] | Массив страниц для изменения размера. |
-| parameters | ContentsResizeParameters | Изменить размер параметров. |
+| pages | Int32[] | Массив страниц, размер которых нужно изменить. |
+| parameters | ContentsResizeParameters | Параметры изменения размера. |
 | response | HttpResponse | Объект HttpResponse, в котором сохраняется результат. |
 
 ### Возвращаемое значение

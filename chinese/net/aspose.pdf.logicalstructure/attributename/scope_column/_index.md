@@ -1,14 +1,14 @@
 ---
 title: Scope_Column
 second_title: Aspose.PDF for .NET API 参考
-description: 属性范围列
+description: 属性范围列.
 type: docs
 weight: 530
 url: /zh/net/aspose.pdf.logicalstructure/attributename/scope_column/
 ---
 ## AttributeName.Scope_Column field
 
-属性范围:列。
+属性范围：列.
 
 ```csharp
 public static readonly AttributeName Scope_Column;

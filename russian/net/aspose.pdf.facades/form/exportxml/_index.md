@@ -16,7 +16,7 @@ public void ExportXml(Stream outputXmlStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputXmlStream | Stream | Вывод XML-потока. |
+| outputXmlStream | Stream | Выходной XML-поток. |
 
 ### Примеры
 

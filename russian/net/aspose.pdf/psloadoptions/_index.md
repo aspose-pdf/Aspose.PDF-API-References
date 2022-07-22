@@ -1,14 +1,14 @@
 ---
 title: PsLoadOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет опции загрузки/импорта .mht-файла в pdf-документ.
+description: Представляет параметры для загрузки/импорта .mht-файла в документ pdf.
 type: docs
 weight: 6180
 url: /ru/net/aspose.pdf/psloadoptions/
 ---
 ## PsLoadOptions class
 
-Представляет опции загрузки/импорта .mht-файла в pdf-документ.
+Представляет параметры для загрузки/импорта .mht-файла в документ pdf.
 
 ```csharp
 public sealed class PsLoadOptions : LoadOptions
@@ -25,7 +25,7 @@ public sealed class PsLoadOptions : LoadOptions
 | Имя | Описание |
 | --- | --- |
 | [FontsFolders](../../aspose.pdf/psloadoptions/fontsfolders) { get; set; } | Получает или задает пути к папкам со шрифтами. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions)описывает. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions) описывает. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Продолжить, либо Прервать. Продолжить — это действие по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, и в этом случае операция загрузки должна быть прекращена. |
 
 ### Смотрите также

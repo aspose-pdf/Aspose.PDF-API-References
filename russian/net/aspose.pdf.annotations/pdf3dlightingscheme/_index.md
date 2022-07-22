@@ -18,8 +18,8 @@ public class PDF3DLightingScheme
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DLightingScheme](pdf3dlightingscheme#constructor)(LightingSchemeType) | Инициализирует новый экземпляр класса[`PDF3DLightingScheme`](../pdf3dlightingscheme). |
-| [PDF3DLightingScheme](pdf3dlightingscheme#constructor_1)(string) | Инициализирует новый экземпляр класса[`PDF3DLightingScheme`](../pdf3dlightingscheme). |
+| [PDF3DLightingScheme](pdf3dlightingscheme#constructor)(LightingSchemeType) | Инициализирует новый экземпляр[`PDF3DLightingScheme`](../pdf3dlightingscheme) класс. |
+| [PDF3DLightingScheme](pdf3dlightingscheme#constructor_1)(string) | Инициализирует новый экземпляр[`PDF3DLightingScheme`](../pdf3dlightingscheme) класс. |
 
 ## Характеристики
 
@@ -33,16 +33,16 @@ public class PDF3DLightingScheme
 | --- | --- |
 | static [Artwork](../../aspose.pdf.annotations/pdf3dlightingscheme/artwork) | Схема освещения "Artwork". |
 | static [Blue](../../aspose.pdf.annotations/pdf3dlightingscheme/blue) | Схема освещения "Синяя". |
-| static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad) | Схема освещения "Cad". |
+| static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad) | Схема освещения "Кад". |
 | static [Cube](../../aspose.pdf.annotations/pdf3dlightingscheme/cube) | Схема освещения "Куб". |
 | static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day) | Схема освещения "День". |
-| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard) | "Жесткая" схема освещения. |
+| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard) | Схема освещения "Жесткая". |
 | static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp) | Схема освещения "Налобный фонарь". |
 | static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night) | Схема освещения "Ночь". |
 | static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none) | Схема освещения "Нет". |
 | static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary) | "Основная" схема освещения. |
-| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red) | "Красная" схема освещения. |
-| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white) | "Белая" схема освещения. |
+| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red) | Схема освещения "Красная". |
+| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white) | Схема освещения "Белая". |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: OptimizationOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 描述文档优化算法的类 此类的实例可以用作 OptimizeResources 方法的参数
+description: 描述文档优化算法的类 该类的实例可以用作 OptimizeResources 方法的参数
 type: docs
 weight: 5740
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/
 ---
 ## OptimizationOptions class
 
-描述文档优化算法的类。 此类的实例可以用作 OptimizeResources() 方法的参数。
+描述文档优化算法的类。 该类的实例可以用作 OptimizeResources() 方法的参数。
 
 ```csharp
 public class OptimizationOptions
@@ -24,14 +24,14 @@ public class OptimizationOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent) { get; set; } | 如果文档为等页优化时，将重用页面内容。 |
+| [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent) { get; set; } | 如果文档为等页优化时将重用真实的页面内容。 |
 | [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions) { get; } | 描述将压缩文档中的图像和压缩参数的选项集。 |
-| [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding) { get; set; } | 将使用的图像编码。 |
-| [LinkDuplcateStreams](../../aspose.pdf.optimization/optimizationoptions/linkduplcatestreams) { get; set; } | 如果此标志设置为 true，则将分析资源流。如果发现重复流（即如果流内容相等），则这些流将作为一个对象存储。 这允许在某些情况下减小文档大小（例如，当同一文档被连接多次时）。 |
+| [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding) { get; set; } | 将使用的图像编码器。 |
+| [LinkDuplcateStreams](../../aspose.pdf.optimization/optimizationoptions/linkduplcatestreams) { get; set; } | 如果此标志设置为 true，将分析资源流。如果发现重复流（即如果流内容相等），则这些流将作为一个对象存储。 这允许在某些情况下减小文档大小（例如，当同一文档被连接多次时）。 |
 | [MaxResoultion](../../aspose.pdf.optimization/optimizationoptions/maxresoultion) { get; set; } | 指定图像的最大分辨率。如果图像具有更高的分辨率，它将被缩放 |
-| [RemovePrivateInfo](../../aspose.pdf.optimization/optimizationoptions/removeprivateinfo) { get; set; } | 删除私人信息（页面片断信息）。 |
+| [RemovePrivateInfo](../../aspose.pdf.optimization/optimizationoptions/removeprivateinfo) { get; set; } | 删除私人信息（页片信息）。 |
 | [RemoveUnusedObjects](../../aspose.pdf.optimization/optimizationoptions/removeunusedobjects) { get; set; } | 如果此标志设置为 true，则将检查所有文档对象并从文档中删除未使用的对象（即没有任何引用的对象）。 |
-| [RemoveUnusedStreams](../../aspose.pdf.optimization/optimizationoptions/removeunusedstreams) { get; set; } | 如果此标志设置为 true，则检查每个资源的使用情况。如果从未使用过资源，则移除资源。 这可能会减小文档大小，例如从文档中提取页面时。 |
+| [RemoveUnusedStreams](../../aspose.pdf.optimization/optimizationoptions/removeunusedstreams) { get; set; } | 如果此标志设置为 true，则检查每个资源的使用情况。如果从不使用资源，则删除资源。 这可能会减小文档大小，例如从文档中提取页面时。 |
 | [SubsetFonts](../../aspose.pdf.optimization/optimizationoptions/subsetfonts) { get; set; } | 如果设置为 true，字体将被转换为子集。 |
 | [UnembedFonts](../../aspose.pdf.optimization/optimizationoptions/unembedfonts) { get; set; } | 如果设置为 true，则不嵌入字体。 |
 
@@ -39,7 +39,7 @@ public class OptimizationOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [All](../../aspose.pdf.optimization/optimizationoptions/all)() | 创建优化策略将激活所有选项。 请注意，仅激活选项不会改变文件的任何功能。 即图像压缩和字体取消嵌入将不会启用（并且可以手动嵌入）。 |
+| static [All](../../aspose.pdf.optimization/optimizationoptions/all)() | 创建优化策略将激活所有选项。 请注意，仅激活不会更改文档任何功能的选项。 即不会启用图像压缩和字体取消嵌入（并且可以手动嵌入）。 |
 
 ### 也可以看看
 

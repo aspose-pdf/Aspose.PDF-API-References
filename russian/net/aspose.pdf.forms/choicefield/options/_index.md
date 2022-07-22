@@ -1,14 +1,14 @@
 ---
 title: Options
 second_title: Aspose.PDF для справочника API .NET
-description: Получает набор вариантов выбора.
+description: Получает коллекцию вариантов выбора.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/choicefield/options/
 ---
 ## ChoiceField.Options property
 
-Получает набор вариантов выбора.
+Получает коллекцию вариантов выбора.
 
 ```csharp
 public virtual OptionCollection Options { get; }

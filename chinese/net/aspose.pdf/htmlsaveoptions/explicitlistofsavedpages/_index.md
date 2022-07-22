@@ -1,14 +1,14 @@
 ---
 title: ExplicitListOfSavedPages
 second_title: Aspose.PDF for .NET API 参考
-description: 使用此属性您可以明确定义 应转换哪些文档页面 此列表中的页面必须有从 1 开始的数字即 有效页数必须取自范围 1...NumberOfPagesInConvertedDocument 此列表中页面出现的顺序不会影响它们的 结果 HTML 页面中的顺序 - 结果页面始终按照它们在源 PDF 中的 顺序排列 如果此列表为空默认情况下所有页面都将被转换 如果此列表的任何页码超出当前页面的范围1-amountOfPagesInDocument 将引发异常
+description: 使用此属性您可以明确定义 应转换哪些文档页面 此列表中的页面必须具有从1 开始的数字即 有效页数必须取自范围 1...NumberOfPagesInConvertedDocument 此列表中页面出现的顺序不会影响 their 结果 HTML 页面中的顺序 - 结果页面中的所有内容都会按顺序排列其中 出现在源 PDF 中 如果此列表为空默认情况下所有页面都将被转换 如果此列表的任何页码超出当前页面的范围1- amountOfPagesInDocument 异常将被抛出
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/htmlsaveoptions/explicitlistofsavedpages/
 ---
 ## HtmlSaveOptions.ExplicitListOfSavedPages property
 
-使用此属性您可以明确定义 应转换哪些文档页面。 此列表中的页面必须有从 1 开始的数字。即 有效页数必须取自范围 (1...[NumberOfPagesInConvertedDocument]) 此列表中页面出现的顺序不会影响它们的 结果 HTML 页面中的顺序 - 结果页面始终按照它们在源 PDF 中的 顺序排列。 如果此列表为空（默认情况下），所有页面都将被转换。 如果此列表的任何页码超出当前页面的范围(1-[amountOfPagesInDocument]) 将引发异常。
+使用此属性您可以明确定义 应转换哪些文档页面。 此列表中的页面必须具有从1 开始的数字。即 有效页数必须取自范围 (1...[NumberOfPagesInConvertedDocument]) 此列表中页面出现的顺序不会影响 their 结果 HTML 页面中的顺序 - 结果页面中的所有内容都会按顺序排列其中 出现在源 PDF 中。 如果此列表为空（默认情况下），所有页面都将被转换。 如果此列表的任何页码超出当前页面的范围（1-[ amountOfPagesInDocument]) 异常将被抛出。
 
 ```csharp
 public int[] ExplicitListOfSavedPages { get; set; }

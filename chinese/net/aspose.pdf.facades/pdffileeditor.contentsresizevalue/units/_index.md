@@ -16,7 +16,7 @@ public static ContentsResizeValue Units(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 以单位为单位的值。 |
+| value | Double | 单位价值。 |
 
 ### 返回值
 

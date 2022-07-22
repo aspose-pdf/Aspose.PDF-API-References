@@ -1,14 +1,14 @@
 ---
 title: GoToURIAction
 second_title: Aspose.PDF for .NET API 参考
-description: 构造函数
+description: 构造函数.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/gotouriaction/gotouriaction/
 ---
 ## GoToURIAction constructor
 
-构造函数。
+构造函数.
 
 ```csharp
 public GoToURIAction(string uri)

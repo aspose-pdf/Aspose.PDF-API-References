@@ -1,14 +1,14 @@
 ---
 title: ContactInfoLabel
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает метку контактной информации. Значение по умолчаниюКонтакт.
+description: Получает/устанавливает метку контактной информации. Значение по умолчанию Контакт.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/contactinfolabel/
 ---
 ## SignatureCustomAppearance.ContactInfoLabel property
 
-Получает/устанавливает метку контактной информации. Значение по умолчанию:«Контакт».
+Получает/устанавливает метку контактной информации. Значение по умолчанию: «Контакт».
 
 ```csharp
 public string ContactInfoLabel { get; set; }

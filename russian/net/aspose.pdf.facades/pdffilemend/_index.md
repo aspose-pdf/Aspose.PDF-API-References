@@ -19,7 +19,7 @@ public sealed class PdfFileMend : SaveableFacade
 | Имя | Описание |
 | --- | --- |
 | [PdfFileMend](pdffilemend#constructor)() | Конструктор. |
-| [PdfFileMend](pdffilemend#constructor_1)(Document) | Инициализирует новый[`PdfFileMend`](../pdffilemend)объект на основе*document*. |
+| [PdfFileMend](pdffilemend#constructor_1)(Document) | Инициализирует новый[`PdfFileMend`](../pdffilemend) объект на базе*document* . |
 
 ## Характеристики
 
@@ -27,21 +27,21 @@ public sealed class PdfFileMend : SaveableFacade
 | --- | --- |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | Получает фасад документа, над которым работает. |
 | [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap) { set; } | Устанавливает логическое значение, указывающее перенос слов в методах AddText. Если значение равно true, текст в FormattedText будет переноситься по словам. По умолчанию значение равно false. |
-| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode) { get; set; } | Устанавливает или получает стратегию позиционирования текста.[`PositioningMode`](../positioningmode) Режим по умолчанию — Legacy. |
-| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode) { get; set; } | Устанавливает или получает алгоритм переноса слов. См. WordWrapMode и IsWordWrap. |
+| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode) { get; set; } | Задает или получает стратегию позиционирования текста.[`PositioningMode`](../positioningmode) Режим по умолчанию — Legacy. |
+| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode) { get; set; } | Задает или получает алгоритм переноса слов. См. WordWrapMode и IsWordWrap. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage)(Stream, int, float, float, float, float) | Добавляет изображение на указанную страницу документа PDF по указанным координатам. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_2)(Stream, int[], float, float, float, float) | Добавляет изображение на указанные страницы документа PDF по указанным координатам. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_4)(string, int, float, float, float, float) | Добавляет изображение на указанную страницу документа PDF по указанным координатам. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_6)(string, int[], float, float, float, float) | Добавляет изображение на указанные страницы документа PDF по указанным координатам. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_1)(Stream, int, float, float, float, float, CompositingParameters) | Добавляет изображение на указанную страницу документа PDF по указанным координатам. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_3)(Stream, int[], float, float, float, float, CompositingParameters) | Добавляет изображение на указанные страницы документа PDF по указанным координатам. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_5)(string, int, float, float, float, float, CompositingParameters) | Добавляет изображение на указанную страницу документа PDF по указанным координатам. |
-| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_7)(string, int[], float, float, float, float, CompositingParameters) | Добавляет изображение на указанные страницы документа PDF по указанным координатам. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage)(Stream, int, float, float, float, float) | Добавляет изображение на указанную страницу документа PDF с указанными координатами. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_2)(Stream, int[], float, float, float, float) | Добавляет изображение на указанные страницы документа PDF с указанными координатами. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_4)(string, int, float, float, float, float) | Добавляет изображение на указанную страницу документа PDF с указанными координатами. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_6)(string, int[], float, float, float, float) | Добавляет изображение на указанные страницы документа PDF с указанными координатами. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_1)(Stream, int, float, float, float, float, CompositingParameters) | Добавляет изображение на указанную страницу документа PDF с указанными координатами. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_3)(Stream, int[], float, float, float, float, CompositingParameters) | Добавляет изображение на указанные страницы документа PDF с указанными координатами. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_5)(string, int, float, float, float, float, CompositingParameters) | Добавляет изображение на указанную страницу документа PDF с указанными координатами. |
+| [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_7)(string, int[], float, float, float, float, CompositingParameters) | Добавляет изображение на указанные страницы документа PDF с указанными координатами. |
 | [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext)(FormattedText, int, float, float) | Не реализовано. |
 | [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_1)(FormattedText, int, float, float, float, float) | Не реализовано. |
 | [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_2)(FormattedText, int[], float, float, float, float) | Не реализовано. |

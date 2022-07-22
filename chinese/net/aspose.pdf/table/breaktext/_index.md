@@ -1,14 +1,14 @@
 ---
 title: BreakText
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表
+description: 获取或设置 table 的中断文本
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/table/breaktext/
 ---
 ## Table.BreakText property
 
-获取或设置表
+获取或设置 table 的中断文本
 
 ```csharp
 public TextFragment BreakText { get; set; }

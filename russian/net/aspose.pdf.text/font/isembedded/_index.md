@@ -1,14 +1,14 @@
 ---
 title: IsEmbedded
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение указывающее внедрен ли шрифт.
+description: Получает или задает значение указывающее встроен ли шрифт.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/font/isembedded/
 ---
 ## Font.IsEmbedded property
 
-Получает или задает значение, указывающее, внедрен ли шрифт.
+Получает или задает значение, указывающее, встроен ли шрифт.
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,26 +16,26 @@ public bool IsEmbedded { get; set; }
 
 ### Примеры
 
-В следующем примере показано, как найти шрифт, пометить его как встроенный, выполнить поиск текста в документах. страницу и заменить шрифт текста.
+В следующем примере показано, как найти шрифт, пометить его как встроенный, выполнить поиск текста на странице документа и заменить текстовый шрифт.
 
 ```csharp
-// Создаем шрифт и помечаем его как embedded
-ont font = FontRepository.FindFont("Arial");
-ont.IsEmbedded = true;
+// Создаем шрифт и помечаем его для встраивания
+Font font = FontRepository.FindFont("Arial");
+font.IsEmbedded = true;
 
 // открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-/ создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 // принимаем поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// изменить шрифт для первого текста вхождения
-bsorber.TextFragments[1].TextState.Font = font;
+// меняем шрифт для первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также

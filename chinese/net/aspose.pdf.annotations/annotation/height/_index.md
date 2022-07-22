@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置注释的高度
+description: 获取或设置注解的高度
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/annotation/height/
 ---
 ## Annotation.Height property
 
-获取或设置注释的高度。
+获取或设置注解的高度。
 
 ```csharp
 public virtual double Height { get; set; }

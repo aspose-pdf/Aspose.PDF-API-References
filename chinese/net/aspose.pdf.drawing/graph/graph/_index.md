@@ -1,14 +1,14 @@
 ---
 title: Graph
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Graphaspose.pdf.drawing/graph类的新实例
+description: 初始化Graphaspose.pdf.drawing/graph类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/graph/graph/
 ---
 ## Graph constructor
 
-初始化[`Graph`](../../graph)类的新实例。
+初始化[`Graph`](../../graph)类.
 
 ```csharp
 public Graph(float width, float height)
@@ -16,8 +16,8 @@ public Graph(float width, float height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Single | 图形的宽度。 |
-| height | Single | 图形的高度。 |
+| width | Single | 图表的宽度。 |
+| height | Single | 图表的高度。 |
 
 ### 也可以看看
 

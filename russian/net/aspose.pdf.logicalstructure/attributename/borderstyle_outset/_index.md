@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Outset
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleOutset  граница заставляет весь блок выглядеть так как будто он выходит из холста противоположность Inset.
+description: Атрибут BorderStyle Outset  граница заставляет весь блок выглядеть так как будто он выходит из холста противоположность Inset.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_outset/
 ---
 ## AttributeName.BorderStyle_Outset field
 
-Атрибут BorderStyle:Outset — граница заставляет весь блок выглядеть так, как будто он выходит из холста (противоположность Inset).
+Атрибут BorderStyle: Outset — граница заставляет весь блок выглядеть так, как будто он выходит из холста (противоположность Inset).
 
 ```csharp
 public static readonly AttributeName BorderStyle_Outset;

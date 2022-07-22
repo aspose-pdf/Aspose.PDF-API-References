@@ -20,7 +20,7 @@ public Page Insert(int pageNumber)
 
 ### 返回值
 
-已插入页面。
+插入的页面。
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public Page Insert(int pageNumber)
 
 ## Insert(int, Page) {#insert_1}
 
-在指定位置将页面插入页面集合。
+将页面插入到指定位置的页面集合中。
 
 ```csharp
 public Page Insert(int pageNumber, Page entity)
@@ -46,7 +46,7 @@ public Page Insert(int pageNumber, Page entity)
 
 ### 返回值
 
-已插入页面。
+插入的页面。
 
 ### 也可以看看
 
@@ -89,8 +89,8 @@ public void Insert(int pageNumber, Page[] pages)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | Int32 | 新页面的起始编号。 |
-| pages | Page[] | 将被插入的页面数组。 |
+| pageNumber | Int32 | 新页面的起始数量。 |
+| pages | Page[] | 将插入的页面数组。 |
 
 ### 也可以看看
 

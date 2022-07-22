@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf.optimization/optimizationoptions/imagecompressionoptions
 ---
 ## OptimizationOptions.ImageCompressionOptions property
 
-Набор опций, описывающих будут ли сжиматься изображения в документе и параметры сжатия.
+Набор опций, описывающих, будут ли сжиматься изображения в документе и параметры сжатия.
 
 ```csharp
 public ImageCompressionOptions ImageCompressionOptions { get; }

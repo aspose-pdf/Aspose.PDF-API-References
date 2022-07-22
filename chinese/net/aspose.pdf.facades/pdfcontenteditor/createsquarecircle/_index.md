@@ -20,8 +20,8 @@ public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool 
 | rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | contents | String | 注释的内容。 |
 | clr | Color | 正方形或圆形的颜色。 |
-| square | Boolean | 真（正方形），假（圆环）。 |
-| page | Int32 | 将创建注释的原始页数。 |
+| square | Boolean | 真（方形），假（圆形）。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | borderWidth | Int32 | 正方形或圆形的边框宽度。 |
 
 ### 例子

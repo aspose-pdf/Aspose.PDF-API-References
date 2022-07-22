@@ -1,14 +1,14 @@
 ---
 title: PDF3DActivation
 second_title: Aspose.PDF для справочника API .NET
-description: Enum PDF3DActivationнабор режимов активации 3D-аннотаций.
+description: Enum PDF3DActivation набор режимов активации 3D-аннотаций.
 type: docs
 weight: 760
 url: /ru/net/aspose.pdf.annotations/pdf3dactivation/
 ---
 ## PDF3DActivation enumeration
 
-Enum PDF3DActivation:набор режимов активации 3D-аннотаций.
+Enum PDF3DActivation: набор режимов активации 3D-аннотаций.
 
 ```csharp
 public enum PDF3DActivation
@@ -20,7 +20,7 @@ public enum PDF3DActivation
 | --- | --- | --- |
 | activeWhenOpen | `0` | Активен при открытии |
 | activeWhenVisible | `1` | Активен, когда виден |
-| activatedUserOrScriptAction | `2` | Активируемое пользователем или скриптом действие |
+| activatedUserOrScriptAction | `2` | Активированное пользователем или скриптом action |
 
 ### Смотрите также
 

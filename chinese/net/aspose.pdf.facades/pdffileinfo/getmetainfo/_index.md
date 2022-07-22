@@ -1,14 +1,14 @@
 ---
 title: GetMetaInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 获取带有属性名称的PDF文档的自定义信息如果没有与名称匹配的属性它将返回一个空白字符串
+description: 获取带有属性名称的 PDF 文档的自定义信息如果没有与名称匹配的属性它将返回一个空白字符串
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf.facades/pdffileinfo/getmetainfo/
 ---
 ## PdfFileInfo.GetMetaInfo method
 
-获取带有属性名称的PDF文档的自定义信息。如果没有与名称匹配的属性，它将返回一个空白字符串。
+获取带有属性名称的 PDF 文档的自定义信息。如果没有与名称匹配的属性，它将返回一个空白字符串。
 
 ```csharp
 public string GetMetaInfo(string name)

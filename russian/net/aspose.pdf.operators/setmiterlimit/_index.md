@@ -1,14 +1,14 @@
 ---
 title: SetMiterLimit
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий M-оператор установить предел митры.
+description: Класс представляющий оператор M установить ограничение на угол.
 type: docs
 weight: 5540
 url: /ru/net/aspose.pdf.operators/setmiterlimit/
 ---
 ## SetMiterLimit class
 
-Класс, представляющий M-оператор (установить предел митры).
+Класс, представляющий оператор M (установить ограничение на угол).
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -31,7 +31,7 @@ public class SetMiterLimit : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

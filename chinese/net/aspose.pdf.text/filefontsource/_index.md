@@ -18,7 +18,7 @@ public sealed class FileFontSource : FontSource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FileFontSource](filefontsource)(string) | 初始化[`FileFontSource`](../filefontsource)类的新实例。 |
+| [FileFontSource](filefontsource)(string) | 初始化一个新的实例[`FileFontSource`](../filefontsource)类. |
 
 ## 特性
 

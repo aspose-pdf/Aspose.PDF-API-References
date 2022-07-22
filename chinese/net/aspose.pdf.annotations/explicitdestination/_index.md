@@ -1,14 +1,14 @@
 ---
 title: ExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 PDF 文档中显式目的地的基类
+description: 表示 PDF 文档中显式目标的基类
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf.annotations/explicitdestination/
 ---
 ## ExplicitDestination class
 
-表示 PDF 文档中显式目的地的基类。
+表示 PDF 文档中显式目标的基类。
 
 ```csharp
 public abstract class ExplicitDestination : IAppointment

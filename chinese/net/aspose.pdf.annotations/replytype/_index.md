@@ -1,14 +1,14 @@
 ---
 title: ReplyType
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举注解与 InReplyTo 指定的关系回复类型的种类
+description: 枚举注解与 InReplyTo 指定的关系类型回复类型
 type: docs
 weight: 1020
 url: /zh/net/aspose.pdf.annotations/replytype/
 ---
 ## ReplyType enumeration
 
-枚举注解与 InReplyTo 指定的关系（“回复类型”）的种类。
+枚举注解与 InReplyTo 指定的关系类型（“回复类型”）。
 
 ```csharp
 public enum ReplyType
@@ -19,8 +19,8 @@ public enum ReplyType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Undefined | `0` | 未定义的关系。 |
-| Reply | `1` | 注释被认为是对 InReplyTo 指定的注释的回复。查看器应用程序不应单独显示对注释的回复，而应以串连评论的形式一起显示。 |
-| Group | `2` | 注释与 InReplyTo 指定的注释分组。 |
+| Reply | `1` | 注释被认为是对 InReplyTo 指定的注释的回复。查看器应用程序不应单独显示对注释的回复，而是以线程评论的形式一起显示。 |
+| Group | `2` | 注解与InReplyTo指定的注解分组。 |
 
 ### 也可以看看
 

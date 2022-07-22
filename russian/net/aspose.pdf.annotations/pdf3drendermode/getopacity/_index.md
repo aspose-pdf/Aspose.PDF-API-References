@@ -16,7 +16,7 @@ public double GetOpacity()
 
 ### Возвращаемое значение
 
-System.Double.
+Система.Двойной.
 
 ### Смотрите также
 

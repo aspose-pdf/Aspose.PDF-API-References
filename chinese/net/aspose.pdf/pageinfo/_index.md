@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 表示页面信息
+description: 代表页面信息
 type: docs
 weight: 5840
 url: /zh/net/aspose.pdf/pageinfo/
 ---
 ## PageInfo class
 
-表示页面信息。
+代表页面信息。
 
 ```csharp
 public sealed class PageInfo : ICloneable

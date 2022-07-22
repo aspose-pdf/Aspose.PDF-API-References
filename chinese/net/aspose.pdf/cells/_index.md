@@ -24,7 +24,7 @@ public sealed class Cells : IEnumerable<Cell>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf/cells/count) { get; } | 项目计数。 |
+| [Count](../../aspose.pdf/cells/count) { get; } | 项目数。 |
 | [Item](../../aspose.pdf/cells/item) { get; set; } | 获取或设置单元格。 |
 
 ## 方法
@@ -35,8 +35,8 @@ public sealed class Cells : IEnumerable<Cell>
 | [Add](../../aspose.pdf/cells/add#add_3)(Cell) | 将单元格添加到集合中。 |
 | [Add](../../aspose.pdf/cells/add#add_1)(string) | 将单元格添加到集合中。 |
 | [Add](../../aspose.pdf/cells/add#add_2)(string, TextState) | 将单元格添加到集合中。 |
-| [Dispose](../../aspose.pdf/cells/dispose)() | 处置方法 |
-| [GetEnumerator](../../aspose.pdf/cells/getenumerator)() | 获取集合的枚举数。 |
+| [Dispose](../../aspose.pdf/cells/dispose)() | 处理方法 |
+| [GetEnumerator](../../aspose.pdf/cells/getenumerator)() | 获取集合的枚举器。 |
 | [Insert](../../aspose.pdf/cells/insert)(int, Cell) | 将单元格插入集合。 |
 | [Remove](../../aspose.pdf/cells/remove#remove)(Cell) | 从集合中删除单元集。 |
 | [RemoveRange](../../aspose.pdf/cells/removerange)(int, int) | 从集合中删除单元集。 |

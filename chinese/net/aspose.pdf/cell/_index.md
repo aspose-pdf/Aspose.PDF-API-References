@@ -44,7 +44,7 @@ public sealed class Cell : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.pdf/cell/clone)() | 克隆单元格。 |
+| [Clone](../../aspose.pdf/cell/clone)() | 克隆细胞。 |
 
 ### 也可以看看
 

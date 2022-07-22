@@ -16,7 +16,7 @@ public OutlineItemCollection(OutlineCollection outlines)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outlines | OutlineCollection | Коллекция Outlune. |
+| outlines | OutlineCollection | Сборник аутлунов. |
 
 ### Смотрите также
 

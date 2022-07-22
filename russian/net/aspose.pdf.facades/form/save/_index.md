@@ -36,7 +36,7 @@ public override void Save(Stream destStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destStream | Stream | Поток, в котором будет сохранен документ. |
+| destStream | Stream | Поток, где документ будет сохранен. |
 
 ### Смотрите также
 

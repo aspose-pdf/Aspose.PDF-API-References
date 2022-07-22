@@ -20,10 +20,10 @@ public enum IconCaptionPosition
 | --- | --- | --- |
 | NoIcon | `0` | Значок не отображается. |
 | NoCaption | `1` | Заголовок не отображается. |
-| CaptionBelowIcon | `2` | Надпись под иконкой. |
+| CaptionBelowIcon | `2` | Заголовок находится под значком. |
 | CaptionAboveIcon | `3` | Надпись над иконкой. |
-| CaptionToTheRight | `4` | Надпись справа. |
-| CaptionToTheLeft | `5` | Надпись слева. |
+| CaptionToTheRight | `4` | Подпись справа. |
+| CaptionToTheLeft | `5` | Подпись слева. |
 | CaptionOverlaid | `6` | Надпись наложена. |
 
 ### Смотрите также

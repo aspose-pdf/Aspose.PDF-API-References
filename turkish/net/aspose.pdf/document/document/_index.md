@@ -1,0 +1,214 @@
+---
+title: Document
+second_title: Aspose.PDF for .NET API Referansı
+description: Yeni Belge örneğiniinput akış.
+type: docs
+weight: 10
+url: /tr/net/aspose.pdf/document/document/
+---
+## Document(Stream) {#constructor_1}
+
+Yeni Belge örneğini*input* akış.
+
+```csharp
+public Document(Stream input)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| input | Stream | Pdf belgesi ile akış. |
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, bool) {#constructor_5}
+
+Yeni Belge örneğini*input* akış.
+
+```csharp
+public Document(Stream input, string password, bool isManagedStream)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| input | Stream | Pdf belgesi ile akış. |
+| password | String | Kullanıcı veya sahip parolası. |
+| isManagedStream | Boolean | ayarlanırsa`doğru` çıkıştan önce iç akış kapatılır; aksi halde değildir. |
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, bool) {#constructor_3}
+
+Yeni Belge örneğini*input* akış.
+
+```csharp
+public Document(Stream input, bool isManagedStream)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| input | Stream | Pdf belgesi ile akış. |
+| isManagedStream | Boolean | ayarlanırsa`doğru` çıkıştan önce iç akış kapatılır; aksi halde değildir. |
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(string) {#constructor_6}
+
+Sadece kullanarak Belgeyi başlat*filename* . Aynı[`Document`](../document) .
+
+```csharp
+public Document(string filename)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| filename | String | Pdf belge dosyasının adı. |
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string) {#constructor_4}
+
+Yeni Belge örneğini*input* akış.
+
+```csharp
+public Document(Stream input, string password)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| input | Stream | Giriş akışı nesnesi, karşılık gelen pdf parola korumalıdır. |
+| password | String | Kullanıcı veya sahip parolası. |
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document() {#constructor}
+
+Boş belgeyi başlatır.
+
+```csharp
+public Document()
+```
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(string, LoadOptions) {#constructor_7}
+
+pdf belgesi almak için gerekli dönüştürme seçeneklerini sağlayan bir dosyadan mevcut bir belgeyi açar.
+
+```csharp
+public Document(string filename, LoadOptions options)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| filename | String | Pdf belgesine dönüştürülecek giriş dosyası. |
+| options | LoadOptions | Dönüştürme özelliklerini temsil eder*filename* pdf belgesine. |
+
+### Ayrıca bakınız
+
+* class [LoadOptions](../../loadoptions)
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, LoadOptions) {#constructor_2}
+
+PDF belgesi almak için gerekli dönüştürmeyi sağlayan bir akıştan mevcut bir belgeyi açar.
+
+```csharp
+public Document(Stream input, LoadOptions options)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| input | Stream | PDF belgesine dönüştürülecek giriş akışı. |
+| options | LoadOptions | Dönüştürme özelliklerini temsil eder*input* pdf belgesine. |
+
+### Ayrıca bakınız
+
+* class [LoadOptions](../../loadoptions)
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string) {#constructor_8}
+
+Yeni örneğini başlatır[`Document`](../../document) şifreli belgeyle çalışmak için sınıf.
+
+```csharp
+public Document(string filename, string password)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| filename | String | Belge dosya adı. |
+| password | String | Kullanıcı veya sahip parolası. |
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string, bool) {#constructor_9}
+
+Yeni örneğini başlatır[`Document`](../../document) şifreli belgeyle çalışmak için sınıf.
+
+```csharp
+public Document(string filename, string password, bool isManagedStream)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| filename | String | Belge dosya adı. |
+| password | String | Kullanıcı veya sahip parolası. |
+| isManagedStream | Boolean | ayarlanırsa`doğru` çıkıştan önce iç akış kapatılır; aksi halde değildir. |
+
+### Ayrıca bakınız
+
+* class [Document](../../document)
+* ad alanı [Aspose.Pdf](../../document)
+* toplantı [Aspose.PDF](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

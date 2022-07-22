@@ -1,14 +1,14 @@
 ---
 title: TextSearchOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TextSearchOptionsaspose.pdf.text/textsearchoptions对象的新实例 指定正则表达式使用模式
+description: 初始化TextSearchOptionsaspose.pdf.text/textsearchoptions object. 指定正则表达式使用模式
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textsearchoptions/textsearchoptions/
 ---
 ## TextSearchOptions(bool) {#constructor_2}
 
-初始化[`TextSearchOptions`](../../textsearchoptions)对象的新实例。 指定正则表达式使用模式。
+初始化[`TextSearchOptions`](../../textsearchoptions) object. 指定正则表达式使用模式。
 
 ```csharp
 public TextSearchOptions(bool isRegularExpressionUsed)
@@ -16,7 +16,7 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| isRegularExpressionUsed | Boolean | 表示使用正则表达式的值。 |
+| isRegularExpressionUsed | Boolean | 指示使用正则表达式的值。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 ## TextSearchOptions(Rectangle) {#constructor}
 
-初始化[`TextSearchOptions`](../../textsearchoptions)对象的新实例。 指定分隔搜索文本的矩形。
+初始化[`TextSearchOptions`](../../textsearchoptions)object. 指定分隔搜索文本的矩形。
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle)
@@ -49,7 +49,7 @@ public TextSearchOptions(Rectangle rectangle)
 
 ## TextSearchOptions(Rectangle, bool) {#constructor_1}
 
-初始化[`TextSearchOptions`](../../textsearchoptions)对象的新实例。 指定分隔搜索文本和正则表达式使用模式的矩形。
+初始化[`TextSearchOptions`](../../textsearchoptions) object. 指定分隔搜索文本和正则表达式使用模式的矩形。
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
@@ -58,7 +58,7 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | rectangle | Rectangle | 包含提取文本的矩形。 |
-| isRegularExpressionUsed | Boolean | 表示使用正则表达式的值。 |
+| isRegularExpressionUsed | Boolean | 指示使用正则表达式的值。 |
 
 ### 也可以看看
 

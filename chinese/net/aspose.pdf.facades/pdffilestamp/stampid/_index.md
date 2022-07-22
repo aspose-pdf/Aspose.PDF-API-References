@@ -1,14 +1,14 @@
 ---
 title: StampId
 second_title: Aspose.PDF for .NET API 参考
-description: 下一个添加戳记的戳记 ID包括页眉/猫头鹰/页码
+description: 下一个添加的邮票的邮票ID包括页眉/猫头鹰/页码
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.facades/pdffilestamp/stampid/
 ---
 ## PdfFileStamp.StampId property
 
-下一个添加戳记的戳记 ID（包括页眉/猫头鹰/页码）。
+下一个添加的邮票的邮票ID（包括页眉/猫头鹰/页码）。
 
 ```csharp
 public int StampId { get; set; }

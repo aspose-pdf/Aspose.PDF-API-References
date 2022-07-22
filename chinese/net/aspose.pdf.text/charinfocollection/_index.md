@@ -18,7 +18,7 @@ public sealed class CharInfoCollection : ICollection<CharInfo>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.text/charinfocollection/count) { get; } | 获取集合中实际包含的[`CharInfo`](../charinfo)对象元素的数量。 |
+| [Count](../../aspose.pdf.text/charinfocollection/count) { get; } | 获取数量[`CharInfo`](../charinfo)集合中实际包含的对象元素。 |
 | [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly) { get; } | 获取表示集合是否为只读的值 |
 | [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized) { get; } | 获取一个值，该值指示对集合的访问是否同步（线程安全）。 |
 | [Item](../../aspose.pdf.text/charinfocollection/item) { get; } | 获取指定索引处的 CharInfo 元素。 |
@@ -28,45 +28,43 @@ public sealed class CharInfoCollection : ICollection<CharInfo>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf.text/charinfocollection/add)(CharInfo) | 集合是只读的，抛出 NotImplementedException 。 |
-| [Clear](../../aspose.pdf.text/charinfocollection/clear)() | 集合是只读的。总是抛出 NotImplementedException。 |
+| [Add](../../aspose.pdf.text/charinfocollection/add)(CharInfo) | 集合是只读的，抛出未实现异常. |
+| [Clear](../../aspose.pdf.text/charinfocollection/clear)() | 集合是只读的。总是抛出 NotImplementedException. |
 | [Contains](../../aspose.pdf.text/charinfocollection/contains)(CharInfo) | 确定集合是否包含特定值。 |
-| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto)(CharInfo[], int) | 将整个集合复制到兼容的一维数组，从目标数组的指定索引开始 |
+| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto)(CharInfo[], int) | 将整个集合复制到一个兼容的一维数组中，从目标数组的指定索引开始 |
 | [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator)() | 返回整个集合的枚举数。 |
-| [Remove](../../aspose.pdf.text/charinfocollection/remove)(CharInfo) | 集合是只读的，抛出 NotImplementedException 。 |
+| [Remove](../../aspose.pdf.text/charinfocollection/remove)(CharInfo) | 集合是只读的，抛出未实现异常. |
 
 ### 评论
 
-提供对文本段字符定位信息的访问。
+提供对文本段字符的定位信息的访问。
 
 ### 例子
 
-该示例演示了如何遍历所有字符并检索字符
+该示例演示了如何遍历所有字符并检索 charact
 
 ```csharp
 //打开文档
 Document pdfDocument = new Document(inFile);
-  //创建TextFragmentAbsorber对象来收集page
-
+//创建TextFragmentAbsorber对象，收集页面的所有文本对象
 TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
-//接受所有pages
-
+//接受所有页面的吸收器
 pdfDocument.Pages[1].Accept(textFragmentAbsorber);
 //获取提取的文本片段
 TextFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
             
-  //循环通过fragments
+//循环遍历片段
 foreach (TextFragment textFragment in textFragmentCollection)
 {
-      //循环通过segments
+    //循环遍历段
     foreach (TextSegment textSegment in textFragment.Segments)
     {
-          //循环遍历characters
+        //循环遍历字符
         for (int i = 1; i <= textSegment.Text.Length; i++)
         {
             CharInfo charInfo = textSegment.Characters[i];
 
-              // 打印字符位置和矩形 info
+            // 打印字符位置和矩形信息
             Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
             Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
             Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);

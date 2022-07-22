@@ -30,9 +30,9 @@ public sealed class Color
 | static [Aquamarine](../../aspose.pdf/color/aquamarine) { get; } | Получает определяемый системой цвет со значением ARGB #FF7FFFD4. |
 | static [Azure](../../aspose.pdf/color/azure) { get; } | Получает определяемый системой цвет со значением ARGB #FFF0FFFF. |
 | static [Beige](../../aspose.pdf/color/beige) { get; } | Получает определяемый системой цвет со значением ARGB #FFF5F5DC. |
-| static [Bisque](../../aspose.pdf/color/bisque) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFE4C4. |
+| static [Bisque](../../aspose.pdf/color/bisque) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFE4C4. |
 | static [Black](../../aspose.pdf/color/black) { get; } | Получает определяемый системой цвет со значением ARGB #FF000000. |
-| static [BlanchedAlmond](../../aspose.pdf/color/blanchedalmond) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFEBCD. |
+| static [BlanchedAlmond](../../aspose.pdf/color/blanchedalmond) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFEBCD. |
 | static [Blue](../../aspose.pdf/color/blue) { get; } | Получает определяемый системой цвет со значением ARGB #FF0000FF. |
 | static [BlueViolet](../../aspose.pdf/color/blueviolet) { get; } | Получает определяемый системой цвет со значением ARGB #FF8A2BE2. |
 | static [Brown](../../aspose.pdf/color/brown) { get; } | Получает определяемый системой цвет со значением ARGB #FFA52A2A. |
@@ -63,7 +63,7 @@ public sealed class Color
 | static [DarkTurquoise](../../aspose.pdf/color/darkturquoise) { get; } | Получает определяемый системой цвет со значением ARGB #FF00CED1. |
 | static [DarkViolet](../../aspose.pdf/color/darkviolet) { get; } | Получает определяемый системой цвет со значением ARGB #FF9400D3. |
 | static [DeepPink](../../aspose.pdf/color/deeppink) { get; } | Получает определяемый системой цвет со значением ARGB #FFFF1493. |
-| static [DeepSkyBlue](../../aspose.pdf/color/deepskyblue) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FF00BFFF. |
+| static [DeepSkyBlue](../../aspose.pdf/color/deepskyblue) { get; } | Получает определяемый системой цвет со значением ARGB #FF00BFFF. |
 | static [DimGray](../../aspose.pdf/color/dimgray) { get; } | Получает определяемый системой цвет со значением ARGB #FF696969. |
 | static [DodgerBlue](../../aspose.pdf/color/dodgerblue) { get; } | Получает определяемый системой цвет со значением ARGB #FF1E90FF. |
 | static [Firebrick](../../aspose.pdf/color/firebrick) { get; } | Получает определяемый системой цвет со значением ARGB #FFB22222. |
@@ -77,20 +77,20 @@ public sealed class Color
 | static [Gray](../../aspose.pdf/color/gray) { get; } | Получает определяемый системой цвет со значением ARGB #FF808080. |
 | static [Green](../../aspose.pdf/color/green) { get; } | Получает определяемый системой цвет со значением ARGB #FF008000. |
 | static [GreenYellow](../../aspose.pdf/color/greenyellow) { get; } | Получает определяемый системой цвет со значением ARGB #FFADFF2F. |
-| static [Honeydew](../../aspose.pdf/color/honeydew) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFF0FFF0. |
+| static [Honeydew](../../aspose.pdf/color/honeydew) { get; } | Получает определяемый системой цвет со значением ARGB #FFF0FFF0. |
 | static [HotPink](../../aspose.pdf/color/hotpink) { get; } | Получает определяемый системой цвет со значением ARGB #FFFF69B4. |
 | static [IndianRed](../../aspose.pdf/color/indianred) { get; } | Получает определяемый системой цвет со значением ARGB #FFCD5C5C. |
 | static [Indigo](../../aspose.pdf/color/indigo) { get; } | Получает определяемый системой цвет со значением ARGB #FF4B0082. |
-| static [Ivory](../../aspose.pdf/color/ivory) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFFFFF0. |
+| static [Ivory](../../aspose.pdf/color/ivory) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFFFFF0. |
 | static [Khaki](../../aspose.pdf/color/khaki) { get; } | Получает определяемый системой цвет со значением ARGB #FFF0E68C. |
 | static [Lavender](../../aspose.pdf/color/lavender) { get; } | Получает определяемый системой цвет со значением ARGB #FFE6E6FA. |
 | static [LavenderBlush](../../aspose.pdf/color/lavenderblush) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFF0F5. |
 | static [LawnGreen](../../aspose.pdf/color/lawngreen) { get; } | Получает определяемый системой цвет со значением ARGB #FF7CFC00. |
-| static [LemonChiffon](../../aspose.pdf/color/lemonchiffon) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFFACD. |
+| static [LemonChiffon](../../aspose.pdf/color/lemonchiffon) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFFACD. |
 | static [LightBlue](../../aspose.pdf/color/lightblue) { get; } | Получает определяемый системой цвет со значением ARGB #FFADD8E6. |
 | static [LightCoral](../../aspose.pdf/color/lightcoral) { get; } | Получает определяемый системой цвет со значением ARGB #FFF08080. |
 | static [LightCyan](../../aspose.pdf/color/lightcyan) { get; } | Получает определяемый системой цвет со значением ARGB #FFE0FFFF. |
-| static [LightGoldenrodYellow](../../aspose.pdf/color/lightgoldenrodyellow) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFAFAD2. |
+| static [LightGoldenrodYellow](../../aspose.pdf/color/lightgoldenrodyellow) { get; } | Получает определяемый системой цвет со значением ARGB #FFFAFAD2. |
 | static [LightGray](../../aspose.pdf/color/lightgray) { get; } | Получает определяемый системой цвет со значением ARGB #FFD3D3D3. |
 | static [LightGreen](../../aspose.pdf/color/lightgreen) { get; } | Получает определяемый системой цвет со значением ARGB #FF90EE90. |
 | static [LightPink](../../aspose.pdf/color/lightpink) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFB6C1. |
@@ -102,7 +102,7 @@ public sealed class Color
 | static [LightYellow](../../aspose.pdf/color/lightyellow) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFFFFE0. |
 | static [Lime](../../aspose.pdf/color/lime) { get; } | Получает определяемый системой цвет со значением ARGB #FF00FF00. |
 | static [LimeGreen](../../aspose.pdf/color/limegreen) { get; } | Получает определяемый системой цвет со значением ARGB #FF32CD32. |
-| static [Linen](../../aspose.pdf/color/linen) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFAF0E6. |
+| static [Linen](../../aspose.pdf/color/linen) { get; } | Получает определяемый системой цвет со значением ARGB #FFFAF0E6. |
 | static [Magenta](../../aspose.pdf/color/magenta) { get; } | Получает определяемый системой цвет со значением ARGB #FFFF00FF. |
 | static [Maroon](../../aspose.pdf/color/maroon) { get; } | Получает определяемый системой цвет со значением ARGB #FF800000. |
 | static [MediumAquamarine](../../aspose.pdf/color/mediumaquamarine) { get; } | Получает определяемый системой цвет со значением ARGB #FF66CDAA. |
@@ -117,7 +117,7 @@ public sealed class Color
 | static [MidnightBlue](../../aspose.pdf/color/midnightblue) { get; } | Получает определяемый системой цвет со значением ARGB #FF191970. |
 | static [MintCream](../../aspose.pdf/color/mintcream) { get; } | Получает определяемый системой цвет со значением ARGB #FFF5FFFA. |
 | static [MistyRose](../../aspose.pdf/color/mistyrose) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFE4E1. |
-| static [Moccasin](../../aspose.pdf/color/moccasin) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFE4B5. |
+| static [Moccasin](../../aspose.pdf/color/moccasin) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFE4B5. |
 | static [NavajoWhite](../../aspose.pdf/color/navajowhite) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFDEAD. |
 | static [Navy](../../aspose.pdf/color/navy) { get; } | Получает определяемый системой цвет со значением ARGB #FF000080. |
 | static [OldLace](../../aspose.pdf/color/oldlace) { get; } | Получает определяемый системой цвет со значением ARGB #FFFDF5E6. |
@@ -130,10 +130,10 @@ public sealed class Color
 | static [PaleGreen](../../aspose.pdf/color/palegreen) { get; } | Получает определяемый системой цвет со значением ARGB #FF98FB98. |
 | static [PaleTurquoise](../../aspose.pdf/color/paleturquoise) { get; } | Получает определяемый системой цвет со значением ARGB #FFAFEEEE. |
 | static [PaleVioletRed](../../aspose.pdf/color/palevioletred) { get; } | Получает определяемый системой цвет со значением ARGB #FFDB7093. |
-| static [PapayaWhip](../../aspose.pdf/color/papayawhip) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFEFD5. |
+| static [PapayaWhip](../../aspose.pdf/color/papayawhip) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFEFD5. |
 | static [PeachPuff](../../aspose.pdf/color/peachpuff) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFDAB9. |
 | static [Peru](../../aspose.pdf/color/peru) { get; } | Получает определяемый системой цвет со значением ARGB #FFCD853F. |
-| static [Pink](../../aspose.pdf/color/pink) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFC0CB. |
+| static [Pink](../../aspose.pdf/color/pink) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFC0CB. |
 | static [Plum](../../aspose.pdf/color/plum) { get; } | Получает определяемый системой цвет со значением ARGB #FFDDA0DD. |
 | static [PowderBlue](../../aspose.pdf/color/powderblue) { get; } | Получает определяемый системой цвет со значением ARGB #FFB0E0E6. |
 | static [Purple](../../aspose.pdf/color/purple) { get; } | Получает определяемый системой цвет со значением ARGB #FF800080. |
@@ -161,7 +161,7 @@ public sealed class Color
 | static [Turquoise](../../aspose.pdf/color/turquoise) { get; } | Получает определяемый системой цвет со значением ARGB #FF40E0D0. |
 | static [Violet](../../aspose.pdf/color/violet) { get; } | Получает определяемый системой цвет со значением ARGB #FFEE82EE. |
 | static [Wheat](../../aspose.pdf/color/wheat) { get; } | Получает определяемый системой цвет со значением ARGB #FFF5DEB3. |
-| static [White](../../aspose.pdf/color/white) { get; } | Получает определяемый системой цвет со значением ARGB, равным #FFFFFFFF. |
+| static [White](../../aspose.pdf/color/white) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFFFFF. |
 | static [WhiteSmoke](../../aspose.pdf/color/whitesmoke) { get; } | Получает определяемый системой цвет со значением ARGB #FFF5F5F5. |
 | static [Yellow](../../aspose.pdf/color/yellow) { get; } | Получает определяемый системой цвет со значением ARGB #FFFFFF00. |
 | static [YellowGreen](../../aspose.pdf/color/yellowgreen) { get; } | Получает определяемый системой цвет со значением ARGB #FF9ACD32. |
@@ -177,8 +177,8 @@ public sealed class Color
 | static [FromArgb](../../aspose.pdf/color/fromargb#fromargb)(int, int, int) | Получает действительный объект pdf Color из цветовых компонентов RGB. |
 | static [FromArgb](../../aspose.pdf/color/fromargb#fromargb_1)(int, int, int, int) | Получает действительный объект pdf Color из цветовых компонентов RGB. |
 | static [FromCmyk](../../aspose.pdf/color/fromcmyk)(double, double, double, double) | Получает действительный объект pdf Color из цветовых компонентов RGB. |
-| static [FromGray](../../aspose.pdf/color/fromgray)(double) | Получает действительный объект цвета pdf из компонента серого цвета. |
-| static [FromRgb](../../aspose.pdf/color/fromrgb#fromrgb_1)(Color) | Получает действительный объект pdf Color из значения System.Drawing.Color. |
+| static [FromGray](../../aspose.pdf/color/fromgray)(double) | Получает допустимый объект цвета pdf из компонента серого цвета. |
+| static [FromRgb](../../aspose.pdf/color/fromrgb#fromrgb_1)(Color) | Получает действительный объект цвета PDF из значения System.Drawing.Color. |
 | static [FromRgb](../../aspose.pdf/color/fromrgb#fromrgb)(double, double, double) | Получает действительный объект pdf Color из цветовых компонентов RGB. |
 | static [Parse](../../aspose.pdf/color/parse)(string) | Извлекает компоненты цвета из строки. |
 | override [Equals](../../aspose.pdf/color/equals)(object) | Возвращает true, если два цвета равны. |

@@ -1,14 +1,14 @@
 ---
 title: Close
 second_title: Aspose.PDF для справочника API .NET
-description: Освобождает любые ресурсы связанные с текущим фасадом.
+description: Освобождает все ресурсы связанные с текущим фасадом.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/ifacade/close/
 ---
 ## IFacade.Close method
 
-Освобождает любые ресурсы, связанные с текущим фасадом.
+Освобождает все ресурсы, связанные с текущим фасадом.
 
 ```csharp
 public void Close()

@@ -1,14 +1,14 @@
 ---
 title: A1
 second_title: Aspose.PDF for .NET API 参考
-description: A1 尺寸840x594 毫米
+description: A1 尺寸840x594 毫米.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pagesize/a1/
 ---
 ## PageSize.A1 property
 
-A1 尺寸（840x594 毫米）。
+A1 尺寸（840x594 毫米）.
 
 ```csharp
 public static PageSize A1 { get; }

@@ -1,14 +1,14 @@
 ---
 title: ToArray
 second_title: Aspose.PDF for .NET API 参考
-description: 以数组形式获取值
+description: 以数组的形式获取值
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/xmpfield/toarray/
 ---
 ## XmpField.ToArray method
 
-以数组形式获取值。
+以数组的形式获取值。
 
 ```csharp
 public XmpValue[] ToArray()

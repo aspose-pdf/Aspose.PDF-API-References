@@ -18,8 +18,8 @@ public class SetTextMatrix : TextPlaceOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetTextMatrix](settextmatrix#constructor)(Matrix) | 通过矩阵初始化运算符。 |
-| [SetTextMatrix](settextmatrix#constructor_1)(double, double, double, double, double, double) | 初始化运算符。 |
+| [SetTextMatrix](settextmatrix#constructor)(Matrix) | 用矩阵初始化算子。 |
+| [SetTextMatrix](settextmatrix#constructor_1)(double, double, double, double, double, double) | 初始化操作符。 |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public class SetTextMatrix : TextPlaceOperator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/settextmatrix/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/settextmatrix/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/settextmatrix/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

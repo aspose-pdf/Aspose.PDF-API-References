@@ -1,14 +1,14 @@
 ---
 title: HorizontalTranslation
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает горизонтальное смещение.
+description: Получает или задает горизонтальное смещение.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/fixedprint/horizontaltranslation/
 ---
 ## FixedPrint.HorizontalTranslation property
 
-Получает или устанавливает горизонтальное смещение.
+Получает или задает горизонтальное смещение.
 
 ```csharp
 public double HorizontalTranslation { get; set; }

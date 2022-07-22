@@ -1,14 +1,14 @@
 ---
 title: PDF3DCrossSection
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssection类的新实例
+description: 初始化PDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssection类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/
 ---
 ## PDF3DCrossSection constructor
 
-初始化[`PDF3DCrossSection`](../../pdf3dcrosssection)类的新实例。
+初始化[`PDF3DCrossSection`](../../pdf3dcrosssection)类.
 
 ```csharp
 public PDF3DCrossSection(Document doc)
@@ -16,7 +16,7 @@ public PDF3DCrossSection(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 文档。 |
+| doc | Document | 文件。 |
 
 ### 也可以看看
 

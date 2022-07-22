@@ -1,14 +1,14 @@
 ---
 title: SetText
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает текст артефакта.
+description: Задает текст артефакта.
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf/artifact/settext/
 ---
 ## Artifact.SetText method
 
-Устанавливает текст артефакта.
+Задает текст артефакта.
 
 ```csharp
 public void SetText(FormattedText formattedText)

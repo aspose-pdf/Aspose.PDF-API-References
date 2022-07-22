@@ -1,14 +1,14 @@
 ---
 title: LimitToPageBounds
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置在页面范围内搜索文本的指示
+description: 获取或设置在页面边界内搜索文本的指示
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/textsearchoptions/limittopagebounds/
 ---
 ## TextSearchOptions.LimitToPageBounds property
 
-获取或设置在页面范围内搜索文本的指示。
+获取或设置在页面边界内搜索文本的指示。
 
 ```csharp
 public bool LimitToPageBounds { get; set; }

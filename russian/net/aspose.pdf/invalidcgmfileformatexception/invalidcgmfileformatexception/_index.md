@@ -1,14 +1,14 @@
 ---
 title: InvalidCgmFileFormatException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаInvalidCgmFileFormatExceptionaspose.pdf/invalidcgmfileformatexception.
+description: Инициализирует новый экземплярInvalidCgmFileFormatExceptionaspose.pdf/invalidcgmfileformatexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException() {#constructor}
 
-Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception).
+Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) класс.
 
 ```csharp
 public InvalidCgmFileFormatException()
@@ -24,7 +24,7 @@ public InvalidCgmFileFormatException()
 
 ## InvalidCgmFileFormatException(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception).
+Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) класс.
 
 ```csharp
 public InvalidCgmFileFormatException(string message)
@@ -44,7 +44,7 @@ public InvalidCgmFileFormatException(string message)
 
 ## InvalidCgmFileFormatException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidCgmFileFormatException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public InvalidCgmFileFormatException(string message, Exception innerException)
 
 ## InvalidCgmFileFormatException(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidCgmFileFormatException(Exception innerException)
@@ -73,7 +73,7 @@ public InvalidCgmFileFormatException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

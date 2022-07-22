@@ -1,14 +1,14 @@
 ---
 title: TabStops
 second_title: Aspose.PDF for .NET API 参考
-description: 表示TabStop./tabstop对象的集合
+description: 代表一个集合TabStop./tabstop对象.
 type: docs
 weight: 6940
 url: /zh/net/aspose.pdf.text/tabstops/
 ---
 ## TabStops class
 
-表示[`TabStop`](../tabstop)对象的集合。
+代表一个集合[`TabStop`](../tabstop)对象.
 
 ```csharp
 public class TabStops : ICloneable
@@ -24,19 +24,19 @@ public class TabStops : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.text/tabstops/count) { get; } | 用指定的位置和 初始化[`TabStop`](../tabstop)类的新实例将其添加到 TabStops 集合。 |
-| [IsReadOnly](../../aspose.pdf.text/tabstops/isreadonly) { get; } | 获取指示此[`TabStops`](../tabstops)实例已附加到TextFragment并变为只读。 |
-| [Item](../../aspose.pdf.text/tabstops/item) { get; set; } | 根据 TabStop 索引从集合中获取或设置[`TabStop`](../tabstop)对象。 |
+| [Count](../../aspose.pdf.text/tabstops/count) { get; } | 初始化[`TabStop`](../tabstop)具有指定位置和 的类将其添加到 TabStops 集合中。 |
+| [IsReadOnly](../../aspose.pdf.text/tabstops/isreadonly) { get; } | 获取值表明这个[`TabStops`](../tabstops)实例已附加到[`TextFragment`](../textfragment)并成为只读的。 |
+| [Item](../../aspose.pdf.text/tabstops/item) { get; set; } | 获取或设置一个[`TabStop`](../tabstop)根据 TabStop index. 从集合中获取对象 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf.text/tabstops/add#add)() | 初始化[`TabStop`](../tabstop)类的新实例并将其添加到 TabStops 集合。 |
-| [Add](../../aspose.pdf.text/tabstops/add#add_1)(float) | 用指定的位置和 初始化[`TabStop`](../tabstop)类的新实例将其添加到 TabStops 集合。 |
-| [Add](../../aspose.pdf.text/tabstops/add#add_3)(TabStop) | 将[`TabStop`](../tabstop)类的实例添加到 TabStops 集合中。 |
-| [Add](../../aspose.pdf.text/tabstops/add#add_2)(float, TabLeaderType) | 初始化[`TabStop`](../tabstop)类的新实例，指定位置和领导 键入并将其添加到 TabStops 集合中。 |
-| [Clone](../../aspose.pdf.text/tabstops/clone)() | 克隆一个新的[`TabStops`](../tabstops)对象。 |
+| [Add](../../aspose.pdf.text/tabstops/add#add)() | 初始化[`TabStop`](../tabstop)类并将其添加到 TabStops 集合中。 |
+| [Add](../../aspose.pdf.text/tabstops/add#add_1)(float) | 初始化[`TabStop`](../tabstop)具有指定位置和 的类将其添加到 TabStops 集合中。 |
+| [Add](../../aspose.pdf.text/tabstops/add#add_3)(TabStop) | 添加实例[`TabStop`](../tabstop)类到 TabStops 集合。 |
+| [Add](../../aspose.pdf.text/tabstops/add#add_2)(float, TabLeaderType) | 初始化[`TabStop`](../tabstop)具有指定位置和领导者 类型的类并将其添加到 TabStops 集合中。 |
+| [Clone](../../aspose.pdf.text/tabstops/clone)() | 克隆一个新的[`TabStops`](../tabstops)对象. |
 
 ### 也可以看看
 

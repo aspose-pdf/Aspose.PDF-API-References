@@ -1,14 +1,14 @@
 ---
 title: MIMETypeIfKnown
 second_title: Aspose.PDF for .NET API 参考
-description: 有时了解加载资源的 MIME 类型对转换器很有用 您可以在此提供 MIME 类型如果加载后已知范围请 当 MIME 类型未知或不需要提供它时请让参数等于 null
+description: 有时了解加载资源的 MIME 类型对转换器很有用 您可以在此参数中提供 MIME 类型如果加载后已知 Please 当 MIME 类型未知或不需要提供它时请让参数等于 null
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown/
 ---
 ## LoadOptions.ResourceLoadingResult.MIMETypeIfKnown field
 
-有时了解加载资源的 MIME 类型对转换器很有用 您可以在此提供 MIME 类型（如果加载后已知）范围。请 当 MIME 类型未知或不需要提供它时，请让参数等于 null。
+有时了解加载资源的 MIME 类型对转换器很有用 您可以在此参数中提供 MIME 类型（如果加载后已知）。 Please 当 MIME 类型未知或不需要提供它时，请让参数等于 null。
 
 ```csharp
 public string MIMETypeIfKnown;

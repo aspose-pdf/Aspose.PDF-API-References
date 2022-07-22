@@ -1,14 +1,14 @@
 ---
 title: ServerUrl
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置 ocsp 服务器 url
+description: 获取/设置 ocsp 服务器 url.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/ocspsettings/serverurl/
 ---
 ## OcspSettings.ServerUrl property
 
-获取/设置 ocsp 服务器 url。
+获取/设置 ocsp 服务器 url.
 
 ```csharp
 public string ServerUrl { get; set; }

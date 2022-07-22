@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: УдаляетAbsorbedTableaspose.pdf.text/absorbedtableсо страницы.
+description: УдаляетAbsorbedTableaspose.pdf.text/absorbedtable со страницы.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/tableabsorber/remove/
 ---
 ## TableAbsorber.Remove method
 
-Удаляет[`AbsorbedTable`](../../absorbedtable)со страницы.
+Удаляет[`AbsorbedTable`](../../absorbedtable) со страницы.
 
 ```csharp
 public void Remove(AbsorbedTable table)
@@ -16,7 +16,7 @@ public void Remove(AbsorbedTable table)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable)удалить. |
+| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable) удалять. |
 
 ### Примечания
 

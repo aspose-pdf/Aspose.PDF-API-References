@@ -1,14 +1,14 @@
 ---
 title: VisibleCount
 second_title: Aspose.PDF for .NET API 参考
-description: 获取文档大纲层次结构中所有级别的大纲项的总数
+description: 获取文档大纲层次结构中所有级别的大纲项总数
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf/outlineitemcollection/visiblecount/
 ---
 ## OutlineItemCollection.VisibleCount property
 
-获取文档大纲层次结构中所有级别的大纲项的总数。
+获取文档大纲层次结构中所有级别的大纲项总数。
 
 ```csharp
 public override int VisibleCount { get; }

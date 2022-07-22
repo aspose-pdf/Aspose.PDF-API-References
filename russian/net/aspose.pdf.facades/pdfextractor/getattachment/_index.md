@@ -28,7 +28,7 @@ public void GetAttachment(string outputPath)
 
 ## GetAttachment() {#getattachment}
 
-Сохраняет все прикрепленные файлы в потоки.
+Сохраняет все вложенные файлы в потоки.
 
 ```csharp
 public MemoryStream[] GetAttachment()
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### Возвращаемое значение
 
-Массив потоков файла вложения в pdf-документе.
+Потоковый массив вложенного файла в pdf-документе.
 
 ### Примеры
 

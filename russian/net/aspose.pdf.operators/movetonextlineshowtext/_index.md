@@ -1,14 +1,14 @@
 ---
 title: MoveToNextLineShowText
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий  оператор перейти к следующей строке и показать текст.
+description: Класс представляющий оператор  перейти к следующей строке и показать текст.
 type: docs
 weight: 5280
 url: /ru/net/aspose.pdf.operators/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText class
 
-Класс, представляющий ' оператор (перейти к следующей строке и показать текст).
+Класс, представляющий оператор ' (перейти к следующей строке и показать текст).
 
 ```csharp
 public class MoveToNextLineShowText : TextShowOperator
@@ -31,7 +31,7 @@ public class MoveToNextLineShowText : TextShowOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

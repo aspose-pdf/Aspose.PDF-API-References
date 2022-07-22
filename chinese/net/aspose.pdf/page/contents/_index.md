@@ -16,7 +16,7 @@ public OperatorCollection Contents { get; }
 
 ### 例子
 
-示例演示如何扫描运营商页面流。
+示例演示如何扫描页面的操作符流。
 
 ```csharp
 Document document = new Document("sample.pdf");

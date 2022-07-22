@@ -1,14 +1,14 @@
 ---
 title: Selected
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает индекс выбранного элемента. Нумерация позиций начинается с 1.
+description: Получает или задает индекс выбранного элемента. Нумерация позиций начинается с 1.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/selected/
 ---
 ## RadioButtonField.Selected property
 
-Получает или устанавливает индекс выбранного элемента. Нумерация позиций начинается с 1.
+Получает или задает индекс выбранного элемента. Нумерация позиций начинается с 1.
 
 ```csharp
 public override int Selected { get; set; }

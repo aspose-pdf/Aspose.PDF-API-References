@@ -1,14 +1,14 @@
 ---
 title: IsAutoSequence
 second_title: Aspose.PDF for .NET API 参考
-description: 获取标题应自动编号
+description: 获取标题应该自动编号
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/heading/isautosequence/
 ---
 ## Heading.IsAutoSequence property
 
-获取标题应自动编号。
+获取标题应该自动编号。
 
 ```csharp
 public bool IsAutoSequence { get; set; }

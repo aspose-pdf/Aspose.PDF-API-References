@@ -1,14 +1,14 @@
 ---
 title: XYZExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 创建本地显式目的地
+description: 创建本地显式目标
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/
 ---
 ## XYZExplicitDestination(Page, double, double, double) {#constructor_1}
 
-创建本地显式目的地。
+创建本地显式目标。
 
 ```csharp
 public XYZExplicitDestination(Page page, double left, double top, double zoom)
@@ -17,7 +17,7 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 目标页面对象。 |
-| left | Double | 窗口左上角的左横坐标。 |
+| left | Double | 窗口左上角的左水平坐标。 |
 | top | Double | 窗口左上角的顶部垂直坐标。 |
 | zoom | Double | 缩放系数。 |
 
@@ -41,7 +41,7 @@ public XYZExplicitDestination(int pageNumber, double left, double top, double zo
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumber | Int32 | 远程文档的目标页码。 |
-| left | Double | 窗口左上角的左横坐标。 |
+| left | Double | 窗口左上角的左水平坐标。 |
 | top | Double | 窗口左上角的顶部垂直坐标。 |
 | zoom | Double | 缩放系数。 |
 

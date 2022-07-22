@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF for .NET API 参考
-description: 执行从String到AttributeOwnerStandardaspose.pdf.logicalstructure/attributeownerstandard 的显式转换.
+description: 执行显式转换String至AttributeOwnerStandardaspose.pdf.logicalstructure/attributeownerstandard.
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/
 ---
 ## AttributeOwnerStandard Explicit operator
 
-执行从String到[`AttributeOwnerStandard`](../../attributeownerstandard) 的显式转换.
+执行显式转换String至[`AttributeOwnerStandard`](../../attributeownerstandard).
 
 ```csharp
 public static explicit operator AttributeOwnerStandard(string owner)
@@ -16,7 +16,7 @@ public static explicit operator AttributeOwnerStandard(string owner)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| owner | String | 所有者。 |
+| owner | String | 主人。 |
 
 ### 返回值
 

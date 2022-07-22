@@ -1,14 +1,14 @@
 ---
 title: RenditionType
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举描述了可能的渲染类型
+description: 枚举描述了可能的 Rendition 类型
 type: docs
 weight: 1010
 url: /zh/net/aspose.pdf.annotations/renditiontype/
 ---
 ## RenditionType enumeration
 
-枚举描述了可能的渲染类型。
+枚举描述了可能的 Rendition 类型。
 
 ```csharp
 public enum RenditionType
@@ -20,7 +20,7 @@ public enum RenditionType
 | --- | --- | --- |
 | Media | `0` | 媒体再现对象。 |
 | Selector | `1` | 选择器再现对象。 |
-| Undefined | `2` | 渲染类型未定义。 |
+| Undefined | `2` | 再现类型未定义。 |
 
 ### 也可以看看
 

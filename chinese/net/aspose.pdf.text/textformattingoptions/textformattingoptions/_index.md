@@ -1,14 +1,14 @@
 ---
 title: TextFormattingOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 为指定的自动换行模式初始化TextFormattingOptionsaspose.pdf.text/textformattingoptions对象的新实例
+description: 初始化TextFormattingOptionsaspose.pdf.text/textformattingoptions指定自动换行模式的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textformattingoptions/textformattingoptions/
 ---
 ## TextFormattingOptions(WordWrapMode) {#constructor_1}
 
-为指定的自动换行模式初始化[`TextFormattingOptions`](../../textformattingoptions)对象的新实例。
+初始化[`TextFormattingOptions`](../../textformattingoptions)指定自动换行模式的对象。
 
 ```csharp
 public TextFormattingOptions(WordWrapMode wrapMode)
@@ -29,7 +29,7 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 ## TextFormattingOptions() {#constructor}
 
-使用未定义的自动换行模式初始化[`TextFormattingOptions`](../../textformattingoptions)对象的新实例。
+初始化[`TextFormattingOptions`](../../textformattingoptions)具有未定义自动换行模式的对象。
 
 ```csharp
 public TextFormattingOptions()

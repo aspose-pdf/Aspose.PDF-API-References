@@ -18,10 +18,10 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 属性名称。 |
-| value | String | 属性值。 |
+| value | String | 财产价值。 |
 | valueType | String | 属性值类型。 |
 | category | XmpPdfAExtensionCategoryType | 属性类别。 |
-| description | String | 属性描述。 |
+| description | String | 属性说明。 |
 
 ### 也可以看看
 

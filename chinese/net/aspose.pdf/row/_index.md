@@ -1,14 +1,14 @@
 ---
 title: Row
 second_title: Aspose.PDF for .NET API 参考
-description: 表示表的一行
+description: 代表表的一行
 type: docs
 weight: 6250
 url: /zh/net/aspose.pdf/row/
 ---
 ## Row class
 
-表示表的一行。
+代表表的一行。
 
 ```csharp
 public sealed class Row : ICloneable
@@ -31,8 +31,8 @@ public sealed class Row : ICloneable
 | [DefaultCellPadding](../../aspose.pdf/row/defaultcellpadding) { get; set; } | 获取或设置行单元格的默认边距 |
 | [DefaultCellTextState](../../aspose.pdf/row/defaultcelltextstate) { get; set; } | 获取或设置行单元格的默认文本状态 |
 | [FixedRowHeight](../../aspose.pdf/row/fixedrowheight) { get; set; } | 获取固定的行高 - 行可能有固定的高度； |
-| [IsInNewPage](../../aspose.pdf/row/isinnewpage) { get; set; } | 获取固定行在新页面中 - 具有此属性的页面应打印到下一页 默认 false； |
-| [IsRowBroken](../../aspose.pdf/row/isrowbroken) { get; set; } | Gets is row 可以在两页之间断开 |
+| [IsInNewPage](../../aspose.pdf/row/isinnewpage) { get; set; } | 获取固定行在新页面中 - 具有此属性的页面应打印到下一页 默认 false; |
+| [IsRowBroken](../../aspose.pdf/row/isrowbroken) { get; set; } | 获取的是行可以在两个页面之间被打破 |
 | [MinRowHeight](../../aspose.pdf/row/minrowheight) { get; set; } | 获取行的高度； |
 | [VerticalAlignment](../../aspose.pdf/row/verticalalignment) { get; set; } | 获取或设置垂直对齐方式。 |
 

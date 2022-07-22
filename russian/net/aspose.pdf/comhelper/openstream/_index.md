@@ -1,14 +1,14 @@
 ---
 title: OpenStream
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализировать и вернуть новый экземпляр документа из потокаinput.
+description: Инициализировать и вернуть новый экземпляр документа изinput поток.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-Инициализировать и вернуть новый экземпляр документа из потока*input*.
+Инициализировать и вернуть новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document OpenStream(Stream input)
@@ -16,7 +16,7 @@ public Document OpenStream(Stream input)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf-документом. |
+| input | Stream | Поток с документом PDF. |
 
 ### Возвращаемое значение
 
@@ -33,7 +33,7 @@ public Document OpenStream(Stream input)
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-Инициализировать и вернуть новый экземпляр документа из потока*input*.
+Инициализировать и вернуть новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
@@ -41,8 +41,8 @@ public Document OpenStream(Stream input, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Объект входного потока, соответствующий pdf защищен паролем. |
-| пароль | String | Пароль пользователя или владельца. |
+| input | Stream | Объект входного потока, соответствующий PDF-файл защищен паролем. |
+| password | String | Пароль пользователя или владельца. |
 
 ### Возвращаемое значение
 
@@ -59,7 +59,7 @@ public Document OpenStream(Stream input, string password)
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-Инициализировать и вернуть новый экземпляр документа из потока*input*.
+Инициализировать и вернуть новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
@@ -67,8 +67,8 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf-документом. |
-| isManagedStream | Boolean | если установлено в` true` внутренний поток закрывается перед выходом; в противном случае нет. |
+| input | Stream | Поток с документом PDF. |
+| isManagedStream | Boolean | если установлено`истинный` внутренний поток закрывается перед выходом; в противном случае нет. |
 
 ### Возвращаемое значение
 
@@ -85,7 +85,7 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-Инициализировать и вернуть новый экземпляр документа из потока*input*.
+Инициализировать и вернуть новый экземпляр документа из*input* поток.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
@@ -93,9 +93,9 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf-документом. |
-| пароль | String | Пароль пользователя или владельца. |
-| isManagedStream | Boolean | если установлено в` true` внутренний поток закрывается перед выходом; в противном случае нет. |
+| input | Stream | Поток с документом PDF. |
+| password | String | Пароль пользователя или владельца. |
+| isManagedStream | Boolean | если установлено`истинный` внутренний поток закрывается перед выходом; в противном случае нет. |
 
 ### Возвращаемое значение
 
@@ -121,7 +121,7 @@ public Document OpenStream(Stream input, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | input | Stream | Входной поток для преобразования в документ PDF. |
-| options | LoadOptions | Представляет свойства для преобразования*input*в документ PDF. |
+| options | LoadOptions | Представляет свойства для преобразования*input* в pdf-документ. |
 
 ### Возвращаемое значение
 

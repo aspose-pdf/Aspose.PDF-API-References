@@ -18,24 +18,24 @@ public sealed class EpubLoadOptions : LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EpubLoadOptions](epubloadoptions#constructor)() | 创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项。 默认 pdf 页面大小 - A4 300dpi 2480 X 3508。 |
+| [EpubLoadOptions](epubloadoptions#constructor)() | 创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项。 默认 pdf 页面大小 - A4 300dpi 2480 X 3508. |
 | [EpubLoadOptions](epubloadoptions#constructor_1)(SizeF) | 创建具有指定页面大小的加载选项。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
 | [Margin](../../aspose.pdf/epubloadoptions/margin) { get; set; } | 获取代表边距信息的对象的引用。 |
-| [PageSize](../../aspose.pdf/epubloadoptions/pagesize) { get; } | 获取或设置用于导入的输出页面大小。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [PageSize](../../aspose.pdf/epubloadoptions/pagesize) { get; } | 获取或设置导入的输出页面大小。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode) | 表示边距区域的使用方式 - 定义导入文档的 CSS 指令（如果有）的处理 与保证金的使用有关。 |
-| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode) | 注意！该功能已实现但尚未发布到公共 API，因为 OSHARED 层中的阻止程序问题已针对示例文档显示。 表示转换时页面大小的使用方式。 格式（如 HTML、EPUB 等）通常具有浮动设计，因此，它允许适应所需的 页面大小。但有时内容指定的水平位置或大小 不允许将内容放入所需的页面大小。 在这种情况下，我们可以定义在这种情况下应该做什么（即，当内容的大小不适合 结果 PDF 文档所需的初始页面大小时）。 |
+| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode) | 表示边距区域的使用模式 - 定义与边距使用相关的导入文档 的 CSS 指令（如果有）的处理 。 |
+| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode) | 注意！该功能已实现但尚未发布到公共 API，因为 OSHARED 层中的阻止程序问题针对示例文档显示。 表示转换期间页面大小的使用模式。 格式（如 HTML、EPUB 等），通常具有浮动设计，因此，它允许适合 required pagesize。但有时内容已指定 不允许将内容放入所需页面大小的水平位置或大小。 在这种情况下，我们可以定义在这种情况下应该做什么（即当内容大小不适合 所需的初始页面大小时结果 PDF 文档). |
 
 ### 也可以看看
 

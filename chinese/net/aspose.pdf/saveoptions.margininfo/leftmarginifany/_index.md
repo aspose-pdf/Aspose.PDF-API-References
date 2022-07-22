@@ -1,14 +1,14 @@
 ---
 title: LeftMarginIfAny
 second_title: Aspose.PDF for .NET API 参考
-description: 表示左页边距如果有
+description: 表示页面左边距如果有
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/saveoptions.margininfo/leftmarginifany/
 ---
 ## SaveOptions.MarginInfo.LeftMarginIfAny field
 
-表示左页边距（如果有）
+表示页面左边距（如果有）
 
 ```csharp
 public MarginPartStyle LeftMarginIfAny;

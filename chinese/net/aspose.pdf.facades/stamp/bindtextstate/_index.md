@@ -1,14 +1,14 @@
 ---
 title: BindTextState
 second_title: Aspose.PDF for .NET API 参考
-description: 设置标记文本的文本状态
+description: 设置图章文本的文本状态
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.facades/stamp/bindtextstate/
 ---
 ## Stamp.BindTextState method
 
-设置标记文本的文本状态。
+设置图章文本的文本状态。
 
 ```csharp
 public void BindTextState(TextState textState)

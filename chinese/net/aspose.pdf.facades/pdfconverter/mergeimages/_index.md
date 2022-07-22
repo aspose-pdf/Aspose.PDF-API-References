@@ -20,8 +20,8 @@ public static Stream MergeImages(List<Stream> inputImagesStreams, ImageFormat ou
 | inputImagesStreams | List`1 | 要合并的图像流列表。 |
 | outputImageFormat | ImageFormat | 合并流的图像输出格式。 |
 | mergeMode | ImageMergeMode | 合并模式。用于 Png/Jpg 格式。 |
-| horizontal | Nullable`1 | 设置输出图像流的画布宽度的水平比例。仅用于带有 ImageMergeMode.Center 的 Png/Jpg 格式。 |
-| vertical | Nullable`1 | 设置输出图像流的画布高度的垂直比例。仅用于带有 ImageMergeMode.Center 的 Png/Jpg 格式。 |
+| horizontal | Nullable`1 | 水平比例设置输出图像流的画布宽度。仅用于带有 ImageMergeMode.Center 的 Png/Jpg 格式。 |
+| vertical | Nullable`1 | 为输出图像流设置画布高度的垂直比例。仅用于带有 ImageMergeMode.Center 的 Png/Jpg 格式。 |
 
 ### 返回值
 

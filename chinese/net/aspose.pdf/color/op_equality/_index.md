@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Aspose.PDF for .NET API 参考
-description: 如果两个颜色相等则返回真
+description: 如果两种颜色相等则返回真
 type: docs
 weight: 1560
 url: /zh/net/aspose.pdf/color/op_equality/
 ---
 ## Color Equality operator
 
-如果两个颜色相等则返回真。
+如果两种颜色相等则返回真。
 
 ```csharp
 public static bool operator ==(Color x, Color y)
@@ -17,11 +17,11 @@ public static bool operator ==(Color x, Color y)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Color | 第一个颜色对象。 |
-| y | Color | 第二颜色对象。 |
+| y | Color | 第二个颜色对象。 |
 
 ### 返回值
 
-如果颜色对象相等，则为真。
+如果 Color 对象相等，则为真。
 
 ### 也可以看看
 

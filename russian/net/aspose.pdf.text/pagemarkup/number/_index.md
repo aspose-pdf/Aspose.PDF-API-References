@@ -1,14 +1,14 @@
 ---
 title: Number
 second_title: Aspose.PDF для справочника API .NET
-description: Получает номер обработанной страницы.
+description: Получает номер обрабатываемой страницы.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/pagemarkup/number/
 ---
 ## PageMarkup.Number property
 
-Получает номер обработанной страницы.
+Получает номер обрабатываемой страницы.
 
 ```csharp
 public int Number { get; }

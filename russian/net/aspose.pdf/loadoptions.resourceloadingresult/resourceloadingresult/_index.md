@@ -1,14 +1,14 @@
 ---
 title: ResourceLoadingResult
 second_title: Aspose.PDF для справочника API .NET
-description: Создает экземпляр результата загрузки
+description: Создает экземпляр загрузки result
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/
 ---
 ## LoadOptions.ResourceLoadingResult constructor
 
-Создает экземпляр результата загрузки
+Создает экземпляр загрузки result
 
 ```csharp
 public ResourceLoadingResult(byte[] data)
@@ -16,7 +16,7 @@ public ResourceLoadingResult(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | результат пользовательской загрузки должен быть всегда предоставленным, это может быть массив нулевой длины, если невозможно получить какой-либо результат |
+| data | Byte[] | результат пользовательской загрузки должен быть всегда предоставлен, это может быть массив нулевой длины, если невозможно получить какой-либо результат |
 
 ### Смотрите также
 

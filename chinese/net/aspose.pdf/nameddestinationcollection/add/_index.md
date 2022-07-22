@@ -16,7 +16,7 @@ public void Add(string name, IAppointment appointment)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 目标名称。 |
+| name | String | 目的地名称。 |
 | appointment | IAppointment | 预约添加。 |
 
 ### 也可以看看

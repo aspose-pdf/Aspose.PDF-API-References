@@ -19,8 +19,8 @@ public enum FractionStyle
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | ShowAsDecimal | `0` | 以小数形式显示小数值。 |
-| ShowAsFraction | `1` | 将小数值显示为小数。 |
-| Round | `2` | 将小数值舍入到最接近的整数。 |
+| ShowAsFraction | `1` | 将小数值显示为分数。 |
+| Round | `2` | 将小数值四舍五入到最接近的整数。 |
 | Truncate | `3` | 截断以实现整个单位。 |
 
 ### 也可以看看

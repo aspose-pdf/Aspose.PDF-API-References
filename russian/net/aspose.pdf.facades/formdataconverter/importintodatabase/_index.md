@@ -1,14 +1,14 @@
 ---
 title: ImportIntoDataBase
 second_title: Aspose.PDF для справочника API .NET
-description: Импорт данных из таблицы в базу данных.
+description: Импортирует данные из таблицы в базу данных.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/formdataconverter/importintodatabase/
 ---
 ## FormDataConverter.ImportIntoDataBase method
 
-Импорт данных из таблицы в базу данных.
+Импортирует данные из таблицы в базу данных.
 
 ```csharp
 public void ImportIntoDataBase(string connectString, DataType dbType)
@@ -17,7 +17,7 @@ public void ImportIntoDataBase(string connectString, DataType dbType)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | connectString | String | Строка подключения к базе данных. |
-| dbType | DataType | Тип подключения к базе данных:OLEDB или ODBC. |
+| dbType | DataType | Тип подключения к базе данных: OLEDB или ODBC. |
 
 ### Примеры
 

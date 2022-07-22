@@ -24,10 +24,10 @@ public class Collection : EmbeddedFileCollection
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf/embeddedfilecollection/count) { get; } | Получает количество встроенных файлов в коллекции. |
+| [Count](../../aspose.pdf/embeddedfilecollection/count) { get; } | Получает количество встроенных файлов в коллекцию. |
 | [DefaultEntry](../../aspose.pdf/collection/defaultentry) { get; } | Имя встроенного файла по умолчанию. |
 | [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к этой коллекции синхронизированным (потокобезопасным). |
-| [Item](../../aspose.pdf/embeddedfilecollection/item) { get; } | Получает внедренный файл по его индексу. (2 indexers) |
+| [Item](../../aspose.pdf/embeddedfilecollection/item) { get; } | Получить встроенный файл по его индексу. (2 indexers) |
 | [Keys](../../aspose.pdf/embeddedfilecollection/keys) { get; } | Возвращает список ключей прикрепленных файлов. |
 | [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к этой коллекции. |
 
@@ -41,7 +41,7 @@ public class Collection : EmbeddedFileCollection
 | [Delete](../../aspose.pdf/embeddedfilecollection/delete)() | Удалить все встроенные файлы из документа. |
 | [Delete](../../aspose.pdf/embeddedfilecollection/delete)(string) | Удалить встроенный файл по имени. |
 | [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey)(string) | Удаляет файл из коллекции по его ключу в коллекции. |
-| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname)(string) | Возвращает внедренный файл по его имени. |
+| [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname)(string) | Возвращает встроенный файл по его имени. |
 | [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator)() | Возвращает перечислитель коллекций. |
 
 ### Смотрите также

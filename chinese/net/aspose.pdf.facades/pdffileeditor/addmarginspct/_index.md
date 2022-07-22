@@ -18,31 +18,31 @@ public bool AddMarginsPct(string source, string destination, int[] pages, double
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | source | String | 源文档的路径。 |
-| destination | String | 保存结果文档的路径。 |
+| destination | String | 将保存结果文档的路径。 |
 | pages | Int32[] | 页面索引数组。如果为 null，则将处理所有文档页面。 |
 | leftMargin | Double | 以初始页面大小百分比表示的左边距。 |
 | rightMargin | Double | 以初始页面大小百分比表示的右边距。 |
-| topMargin | Double | 初始页面大小百分比的上边距。 |
-| bottomMargin | Double | 以初始页面大小百分比表示的底部边距。 |
+| topMargin | Double | 以初始页面大小百分比表示的上边距。 |
+| bottomMargin | Double | 以初始页面大小百分比表示的下边距。 |
 
 ### 返回值
 
-如果调整大小成功则为真
+如果调整大小成功，则为 true
 
 ### 例子
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-      //处理第1、2、3页
+    //处理第1、2、3页
     new int[] { 1, 2, 3}, 
-    //左边距是页面宽度的 15% 
+    //左边距是页面宽度的15% 
     15, 
-      //右边距是页面宽度的10%
+    //右边距是页面宽度的10%
     10, 
-      //上边距是页面宽度的20%
+    //上边距为页面宽度的20%
     20, 
-      //下边距是页面宽度的5%
+    //下边距为页面宽度的5%
     5);
 ```
 
@@ -70,12 +70,12 @@ public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double
 | pages | Int32[] | 页面索引数组。如果为 null，则将处理所有文档页面。 |
 | leftMargin | Double | 以初始页面大小百分比表示的左边距。 |
 | rightMargin | Double | 以初始页面大小百分比表示的右边距。 |
-| topMargin | Double | 初始页面大小百分比的上边距。 |
-| bottomMargin | Double | 以初始页面大小百分比表示的底部边距。 |
+| topMargin | Double | 以初始页面大小百分比表示的上边距。 |
+| bottomMargin | Double | 以初始页面大小百分比表示的下边距。 |
 
 ### 返回值
 
-如果操作成功执行，则为真。
+如果操作成功执行，则为 true。
 
 ### 例子
 
@@ -84,15 +84,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-      //处理第1、2、3页
+    //处理第1、2、3页
     new int[] { 1, 2, 3}, 
-    //左边距是页面宽度的 15% 
+    //左边距是页面宽度的15% 
     15, 
-      //右边距是页面宽度的10%
+    //右边距是页面宽度的10%
     10, 
-      //上边距是页面宽度的20%
+    //上边距为页面宽度的20%
     20, 
-      //下边距是页面宽度的5%
+    //下边距为页面宽度的5%
     5);
     dest.Close();
 ```

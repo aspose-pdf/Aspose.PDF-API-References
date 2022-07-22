@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/fileencoding/
 ---
 ## FileEncoding enumeration
 
-附件的编码。可能的值:Zip - 使用 ZIP 压缩文件，None - 文件未压缩。
+附件的编码。可能的值：Zip - 使用 ZIP 压缩文件，None - 文件未压缩。
 
 ```csharp
 public enum FileEncoding

@@ -1,14 +1,14 @@
 ---
 title: PdfViewer
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化新的PdfVieweraspose.pdf.facades/pdfviewer对象
+description: 初始化新的PdfVieweraspose.pdf.facades/pdfviewer对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdfviewer/pdfviewer/
 ---
 ## PdfViewer() {#constructor}
 
-初始化新的[`PdfViewer`](../../pdfviewer)对象。
+初始化新的[`PdfViewer`](../../pdfviewer)对象.
 
 ```csharp
 public PdfViewer()
@@ -24,7 +24,7 @@ public PdfViewer()
 
 ## PdfViewer(Document) {#constructor_1}
 
-初始化新的[`PdfViewer`](../../pdfviewer)对象。
+初始化新的[`PdfViewer`](../../pdfviewer)对象.
 
 ```csharp
 public PdfViewer(Document document)

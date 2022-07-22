@@ -1,14 +1,14 @@
 ---
 title: RemovePermission
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此属性为真则在将 动态文档转换为标准后Perms字典将从 pdf 文档中删除 Perms字典可能包含干扰在 Adobe Acrobat 阅读器中显示选择 必填字段的规则 默认为假
+description: 如果此属性为真Perms字典将从 动态文档转换为标准后的 pdf 文档中删除 Perms字典可能包含干扰显示 Adobe Acrobat 阅读器中 必填字段选择的规则 默认情况下为 false
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.forms/form/removepermission/
 ---
 ## Form.RemovePermission property
 
-如果此属性为真，则在将 动态文档转换为标准后，“Perms”字典将从 pdf 文档中删除。 “Perms”字典可能包含干扰在 Adobe Acrobat 阅读器中显示选择 必填字段的规则。 默认为假。
+如果此属性为真，“Perms”字典将从 动态文档转换为标准后的 pdf 文档中删除。 “Perms”字典可能包含干扰显示 Adobe Acrobat 阅读器中 必填字段选择的规则。 默认情况下为 false。
 
 ```csharp
 public bool RemovePermission { get; set; }

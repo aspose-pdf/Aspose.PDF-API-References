@@ -1,14 +1,14 @@
 ---
 title: LightingScheme
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置照明方案
+description: 获取或设置光照方案
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdf3dartwork/lightingscheme/
 ---
 ## PDF3DArtwork.LightingScheme property
 
-获取或设置照明方案。
+获取或设置光照方案。
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }

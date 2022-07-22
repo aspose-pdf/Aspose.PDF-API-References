@@ -16,7 +16,7 @@ public SelectFont(string resName, double size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resName | String | Имя ресурса шрифта, например, F1, F2 и т. д. |
+| resName | String | Имя ресурса шрифта, например F1, F2 и т. д. |
 | size | Double | Размер шрифта. |
 
 ### Смотрите также

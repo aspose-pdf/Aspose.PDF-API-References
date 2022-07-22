@@ -16,7 +16,7 @@ public override void Accept(AnnotationSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Посетитель будет принят. |
+| visitor | AnnotationSelector | Посетитель должен быть принят. |
 
 ### Смотрите также
 

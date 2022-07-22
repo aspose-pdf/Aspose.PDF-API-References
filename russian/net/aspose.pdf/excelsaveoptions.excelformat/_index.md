@@ -18,7 +18,7 @@ public enum ExcelFormat
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| XMLSpreadSheet2003 | `0` | Формат Excel 2003 XML |
+| XMLSpreadSheet2003 | `0` | XML-формат Excel 2003 |
 | XLSX | `1` | Формат файла Office Open XML (.xlsx) |
 | CSV | `2` | Значения, разделенные запятыми (CSV) Формат файла |
 | XLSM | `3` | Формат файла Office Open XML (.xlsm) с поддержкой макросов |

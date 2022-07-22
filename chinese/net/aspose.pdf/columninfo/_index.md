@@ -1,14 +1,14 @@
 ---
 title: ColumnInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示列信息
+description: 这个类代表一个列信息
 type: docs
 weight: 1530
 url: /zh/net/aspose.pdf/columninfo/
 ---
 ## ColumnInfo class
 
-此类表示列信息。
+这个类代表一个列信息。
 
 ```csharp
 public sealed class ColumnInfo
@@ -25,8 +25,8 @@ public sealed class ColumnInfo
 | 姓名 | 描述 |
 | --- | --- |
 | [ColumnCount](../../aspose.pdf/columninfo/columncount) { get; set; } | 获取或设置一个表示列数的 int 值。 |
-| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing) { get; set; } | 获取或设置包含列间距的字符串。 每个间距的值应该用空格隔开。默认单位是磅， 但也支持厘米和英寸。例如，“120 2.5cm 1.5inch”。 |
-| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths) { get; set; } | 获取或设置包含列宽的字符串。 每一列的值用空格隔开。默认单位是磅， 但也支持厘米、英寸和可用宽度的百分比。 例如，“120 2.5cm 1.5inch” |
+| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing) { get; set; } | 获取或设置包含列间距的字符串。 每个间距的值应该用空格隔开。默认单位是磅， ，但也支持厘米和英寸。例如，“120 2.5cm 1.5inch”. |
+| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths) { get; set; } | 获取或设置包含列宽的字符串。 每列的值用空格隔开。默认单位是磅， 但也支持厘米、英寸和可用宽度的百分比。 例如，“120 2.5cm 1.5inch” |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: LineType
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет тип линии границы - например пунктирная или сплошная
+description: Представляет тип линии границы  например пунктирная или сплошная
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/saveoptions.borderpartstyle/linetype/
 ---
 ## SaveOptions.BorderPartStyle.LineType field
 
-Представляет тип линии границы - например, пунктирная или сплошная
+Представляет тип линии границы — например, пунктирная или сплошная
 
 ```csharp
 public HtmlBorderLineType LineType;

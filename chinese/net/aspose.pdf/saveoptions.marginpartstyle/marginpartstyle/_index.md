@@ -28,7 +28,7 @@ public MarginPartStyle(int valueInPoints)
 
 ## MarginPartStyle(bool) {#constructor}
 
-创建 MarginPartStyle 类 的实例并以点为单位初始化其值
+创建 MarginPartStyle 类 的实例并以点 初始化其值
 
 ```csharp
 public MarginPartStyle(bool isAuto)

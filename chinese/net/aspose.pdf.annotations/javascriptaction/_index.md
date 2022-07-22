@@ -18,14 +18,14 @@ public sealed class JavascriptAction : PdfAction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JavascriptAction](javascriptaction)(string) | 构造函数。 |
+| [JavascriptAction](javascriptaction)(string) | 构造函数. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | 按顺序执行下一步操作。 |
-| [Script](../../aspose.pdf.annotations/javascriptaction/script) { get; set; } | 获取或设置 JavaScript 代码。 |
+| [Script](../../aspose.pdf.annotations/javascriptaction/script) { get; set; } | 获取或设置 javascript 代码。 |
 
 ### 也可以看看
 

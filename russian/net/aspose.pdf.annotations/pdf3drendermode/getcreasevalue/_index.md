@@ -16,7 +16,7 @@ public double GetCreaseValue()
 
 ### Возвращаемое значение
 
-System.Double.
+Система.Двойной.
 
 ### Смотрите также
 

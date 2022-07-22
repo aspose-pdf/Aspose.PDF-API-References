@@ -1,14 +1,14 @@
 ---
 title: PlatformId
 second_title: Aspose.PDF для справочника API .NET
-description: Идентификатор платформы для подтаблицы кодирования
+description: Идентификатор платформы для кодирования subtable
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformId property
 
-Идентификатор платформы для подтаблицы кодирования
+Идентификатор платформы для кодирования subtable
 
 ```csharp
 public ushort PlatformId { get; set; }

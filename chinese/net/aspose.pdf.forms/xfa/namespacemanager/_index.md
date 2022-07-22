@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.forms/xfa/namespacemanager/
 ---
 ## XFA.NamespaceManager property
 
-获取 XFA 表单的命名空间。定义了以下命名空间:“data”用于表单数据，“tpl”用于表单模板。
+获取 XFA 表单的命名空间。定义了以下命名空间：“data”用于表单数据，“tpl”用于表单模板。
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }

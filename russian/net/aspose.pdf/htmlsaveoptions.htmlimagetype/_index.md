@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.HtmlImageType
 second_title: Aspose.PDF для справочника API .NET
-description: перечисляет возможные типы файлов изображений которые можно сохранить как внешние ресурсы во время преобразования Pdf в Html
+description: перечисляет возможные типы файлов изображений  которые можно сохранить как внешние ресурсы во время преобразования Pdf в HTML
 type: docs
 weight: 3520
 url: /ru/net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
 ## HtmlSaveOptions.HtmlImageType enumeration
 
-перечисляет возможные типы файлов изображений которые можно сохранить как внешние ресурсы во время преобразования Pdf в Html
+перечисляет возможные типы файлов изображений , которые можно сохранить как внешние ресурсы во время преобразования Pdf в HTML
 
 ```csharp
 public enum HtmlImageType
@@ -18,14 +18,14 @@ public enum HtmlImageType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Jpeg | `0` | Формат Jpeg |
-| Png | `1` | Формат Png |
-| Bmp | `2` | Формат Bmp |
+| Jpeg | `0` | Формат JPEG |
+| Png | `1` | Формат PNG |
+| Bmp | `2` | Формат BMP |
 | Gif | `3` | Формат GIF |
 | Tiff | `4` | Формат Tiff |
-| Svg | `5` | Формат Svg |
-| ZippedSvg | `6` | Сжатый формат Svg |
-| Unknown | `7` | Unknown - означает, что конвертер не может сам определить тип содержимого |
+| Svg | `5` | Формат SVG |
+| ZippedSvg | `6` | Заархивированный формат SVG |
+| Unknown | `7` | Неизвестно - означает, что конвертер сам не может определить тип контента |
 
 ### Смотрите также
 

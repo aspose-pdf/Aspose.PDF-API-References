@@ -16,7 +16,7 @@ public double GetWidth()
 
 ### 返回值
 
-表格宽度
+桌子宽度
 
 ### 也可以看看
 

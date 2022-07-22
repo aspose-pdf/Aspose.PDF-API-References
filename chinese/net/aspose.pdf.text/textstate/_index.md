@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API 参考
-description: 表示文本的文本状态
+description: 表示一个文本的文本状态
 type: docs
 weight: 7230
 url: /zh/net/aspose.pdf.text/textstate/
 ---
 ## TextState class
 
-表示文本的文本状态
+表示一个文本的文本状态
 
 ```csharp
 public class TextState
@@ -23,7 +23,7 @@ public class TextState
 | [TextState](textstate#constructor_1)(double) | 创建具有字体大小规范的文本状态对象。 |
 | [TextState](textstate#constructor_4)(string) | 使用字体系列规范创建文本状态对象。 |
 | [TextState](textstate#constructor_3)(Color, double) | 创建具有前景色和字体大小规范的文本状态对象。 |
-| [TextState](textstate#constructor_6)(string, double) | 创建具有字体系列和字体大小规范的文本状态对象。 |
+| [TextState](textstate#constructor_6)(string, double) | 使用字体系列和字体大小规范创建文本状态对象。 |
 | [TextState](textstate#constructor_5)(string, bool, bool) | 使用字体系列和字体样式规范创建文本状态对象。 |
 
 ## 特性
@@ -38,14 +38,14 @@ public class TextState
 | virtual [ForegroundColor](../../aspose.pdf.text/textstate/foregroundcolor) { get; set; } | 获取或设置文本的前景色。 |
 | virtual [HorizontalAlignment](../../aspose.pdf.text/textstate/horizontalalignment) { get; set; } | 获取或设置文本的水平对齐方式。 |
 | virtual [HorizontalScaling](../../aspose.pdf.text/textstate/horizontalscaling) { get; set; } | 获取或设置文本的水平缩放。 |
-| virtual [Invisible](../../aspose.pdf.text/textstate/invisible) { get; set; } | 获取或设置文本的不可见性。这基本上反映了[`RenderingMode`](./renderingmode)状态，除了一些特殊情况（如剪裁）。 |
+| virtual [Invisible](../../aspose.pdf.text/textstate/invisible) { get; set; } | 获取或设置文本的不可见性。这基本反映了[`RenderingMode`](./renderingmode)状态，除了一些特殊情况（如剪裁）。 |
 | virtual [LineSpacing](../../aspose.pdf.text/textstate/linespacing) { get; set; } | 获取或设置文本的行距。 |
 | virtual [RenderingMode](../../aspose.pdf.text/textstate/renderingmode) { get; set; } | 获取或设置文本的渲染模式。 |
-| virtual [StrikeOut](../../aspose.pdf.text/textstate/strikeout) { get; set; } | 为文本设置删除线，由[`TextFragment`](../textfragment)object 表示 |
+| virtual [StrikeOut](../../aspose.pdf.text/textstate/strikeout) { get; set; } | 为文本设置删除线，由[`TextFragment`](../textfragment)object |
 | virtual [StrokingColor](../../aspose.pdf.text/textstate/strokingcolor) { get; set; } | 获取或设置文本的前景色。 |
 | virtual [Subscript](../../aspose.pdf.text/textstate/subscript) { get; set; } | 获取或设置文本的下标。 |
 | virtual [Superscript](../../aspose.pdf.text/textstate/superscript) { get; set; } | 获取或设置文本的上标。 |
-| virtual [Underline](../../aspose.pdf.text/textstate/underline) { get; set; } | 获取或设置文本的下划线，由[`TextFragment`](../textfragment)object 表示 |
+| virtual [Underline](../../aspose.pdf.text/textstate/underline) { get; set; } | 获取或设置文本的下划线，由[`TextFragment`](../textfragment)object |
 | virtual [WordSpacing](../../aspose.pdf.text/textstate/wordspacing) { get; set; } | 获取或设置文本的字间距。 |
 
 ## 方法
@@ -60,7 +60,7 @@ public class TextState
 | 姓名 | 描述 |
 | --- | --- |
 | readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue) | 默认字体的空格字符宽度制表的默认值。 |
-| readonly [TabTag](../../aspose.pdf.text/textstate/tabtag) | 您可以将此标签放在文本中以声明制表。 |
+| readonly [TabTag](../../aspose.pdf.text/textstate/tabtag) | 您可以将此标记放在文本中以声明制表。 |
 
 ### 也可以看看
 

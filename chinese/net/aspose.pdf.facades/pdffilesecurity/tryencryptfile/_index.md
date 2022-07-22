@@ -1,14 +1,14 @@
 ---
 title: TryEncryptFile
 second_title: Aspose.PDF for .NET API 参考
-description: 使用用户密码和所有者密码加密 Pdf 文件并设置文档的访问权限 用户密码和所有者密码可以为空或空如果输入的所有者密码为空或为空则所有者密码将被替换为 随机字符串 如果进程失败不抛出异常
+description: 使用userpassword 和ownerpassword 加密Pdf 文件并设置文档的访问权限 用户密码和所有者密码可以为空或空如果输入的所有者密码为空或为空所有者密码将被替换为随机字符串  如果处理失败不抛出异常
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 ---
 ## PdfFileSecurity.TryEncryptFile method
 
-使用用户密码和所有者密码加密 Pdf 文件并设置文档的访问权限。 用户密码和所有者密码可以为空或空。如果输入的所有者密码为空或为空，则所有者密码将被替换为 随机字符串。 如果进程失败不抛出异常。
+使用userpassword 和ownerpassword 加密Pdf 文件，并设置文档的访问权限。 用户密码和所有者密码可以为空或空。如果输入的所有者密码为空或为空，所有者密码将被替换为随机字符串 。 如果处理失败不抛出异常。
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -20,24 +20,24 @@ public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPr
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
 | privilege | DocumentPrivilege | 设置权限。 |
-| keySize | KeySize | KeySize.x40 用于 40 位加密， KeySize.x128 用于 128 位加密， KeySize.x256 用于 256 位加密。 |
+| keySize | KeySize | KeySize.x40 用于 40 位加密，KeySize.x128 用于 128 位加密， KeySize.x256 用于 256 位加密。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";   //TestPath可能会被重新分配
-string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。 
+string inFile = "D:\\input.pdf"; //TestPath 可能会被重新分配。
+string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。	
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 bool result = fileSecurity.TryEncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'TestPath 可能会被重新分配。'
-Dim outFile As String = "D:\\output.pdf"   'TestPath 可能会被重新分配。'
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```

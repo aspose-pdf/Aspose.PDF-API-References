@@ -1,14 +1,14 @@
 ---
 title: CenterWindow
 second_title: Aspose.PDF for .NET API 参考
-description: 指定是否将文档窗口定位在屏幕中央的标志
+description: 指定是否将文档的窗口定位在屏幕中心的标志
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/viewerpreference/centerwindow/
 ---
 ## ViewerPreference.CenterWindow field
 
-指定是否将文档窗口定位在屏幕中央的标志。
+指定是否将文档的窗口定位在屏幕中心的标志。
 
 ```csharp
 public const int CenterWindow;

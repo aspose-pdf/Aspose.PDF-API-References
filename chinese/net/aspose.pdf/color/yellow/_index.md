@@ -1,14 +1,14 @@
 ---
 title: Yellow
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FFFFFF00 的系统定义颜色
+description: 获取 ARGB 值为 FFFFFF00. 的系统定义颜色
 type: docs
 weight: 1410
 url: /zh/net/aspose.pdf/color/yellow/
 ---
 ## Color.Yellow property
 
-获取 ARGB 值为 #FFFFFF00 的系统定义颜色。
+获取 ARGB 值为 #FFFFFF00. 的系统定义颜色
 
 ```csharp
 public static Color Yellow { get; }
@@ -16,7 +16,7 @@ public static Color Yellow { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

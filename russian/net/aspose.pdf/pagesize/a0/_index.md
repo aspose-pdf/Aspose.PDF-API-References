@@ -1,14 +1,14 @@
 ---
 title: A0
 second_title: Aspose.PDF для справочника API .NET
-description: Размер A0 1189x840 мм.
+description: Формат A0 1189x840 мм.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pagesize/a0/
 ---
 ## PageSize.A0 property
 
-Размер A0 (1189x840 мм).
+Формат A0 (1189x840 мм).
 
 ```csharp
 public static PageSize A0 { get; }

@@ -20,7 +20,7 @@ public override bool Contains(OutlineItemCollection item)
 
 ### 返回值
 
-True -如果找到项目；否则为假。
+True - 如果找到项目；否则为假。
 
 ### 也可以看看
 

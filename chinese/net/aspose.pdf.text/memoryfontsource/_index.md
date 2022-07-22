@@ -18,7 +18,7 @@ public sealed class MemoryFontSource : FontSource, IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MemoryFontSource](memoryfontsource)(byte[]) | 初始化[`MemoryFontSource`](../memoryfontsource)类的新实例。 |
+| [MemoryFontSource](memoryfontsource)(byte[]) | 初始化一个新的实例[`MemoryFontSource`](../memoryfontsource)类. |
 
 ## 特性
 

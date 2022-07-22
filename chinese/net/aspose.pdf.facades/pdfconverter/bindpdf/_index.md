@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF for .NET API 参考
-description: 绑定PDF文件进行转换
+description: 绑定一个 Pdf 文件进行转换
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdfconverter/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-绑定PDF文件进行转换。
+绑定一个 Pdf 文件进行转换。
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -28,7 +28,7 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-绑定 PDF 流以进行转换。
+为转换绑定一个 Pdf 流。
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -36,7 +36,7 @@ public override void BindPdf(Stream inputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | pdf 流。 |
+| inputStream | Stream | pdf流。 |
 
 ### 也可以看看
 

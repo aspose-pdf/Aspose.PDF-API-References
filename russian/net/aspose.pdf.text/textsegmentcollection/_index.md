@@ -1,14 +1,14 @@
 ---
 title: TextSegmentCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет коллекцию текстовых сегментов
+description: Представляет собой коллекцию текстовых сегментов
 type: docs
 weight: 7220
 url: /ru/net/aspose.pdf.text/textsegmentcollection/
 ---
 ## TextSegmentCollection class
 
-Представляет коллекцию текстовых сегментов
+Представляет собой коллекцию текстовых сегментов
 
 ```csharp
 public sealed class TextSegmentCollection : ICollection<TextSegment>
@@ -18,7 +18,7 @@ public sealed class TextSegmentCollection : ICollection<TextSegment>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf.text/textsegmentcollection/count) { get; } | Получает количество элементов объекта[`TextSegment`](../textsegment), фактически содержащихся в коллекции. |
+| [Count](../../aspose.pdf.text/textsegmentcollection/count) { get; } | Получает количество[`TextSegment`](../textsegment) элементы объекта, фактически содержащиеся в коллекции. |
 | [IsReadOnly](../../aspose.pdf.text/textsegmentcollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения |
 | [IsSynchronized](../../aspose.pdf.text/textsegmentcollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к коллекции синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf.text/textsegmentcollection/item) { get; } | Получает элемент текстового сегмента по указанному индексу. |
@@ -29,7 +29,7 @@ public sealed class TextSegmentCollection : ICollection<TextSegment>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.pdf.text/textsegmentcollection/add)(TextSegment) | Добавляет элемент текстового сегмента по указанному индексу. |
-| [Clear](../../aspose.pdf.text/textsegmentcollection/clear)() | Удаляет все предметы из коллекции. |
+| [Clear](../../aspose.pdf.text/textsegmentcollection/clear)() | Удаляет все элементы из коллекции. |
 | [Contains](../../aspose.pdf.text/textsegmentcollection/contains)(TextSegment) | Определяет, содержит ли коллекция определенное значение. |
 | [CopyTo](../../aspose.pdf.text/textsegmentcollection/copyto)(TextSegment[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |
 | [GetEnumerator](../../aspose.pdf.text/textsegmentcollection/getenumerator)() | Возвращает перечислитель для всей коллекции. |

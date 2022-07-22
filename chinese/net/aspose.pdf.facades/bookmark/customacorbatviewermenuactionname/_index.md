@@ -1,14 +1,14 @@
 ---
 title: CustomAcorbatViewerMenuActionName
 second_title: Aspose.PDF for .NET API 参考
-description: 对应于在 Acrobat 查看器中执行菜单项的操作名称
+description: 在 Acrobat 查看器中执行菜单项对应的操作名称
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/
 ---
 ## Bookmark.CustomAcorbatViewerMenuActionName property
 
-对应于在 Acrobat 查看器中执行菜单项的操作名称。
+在 Acrobat 查看器中执行菜单项对应的操作名称。
 
 ```csharp
 public Enum[] CustomAcorbatViewerMenuActionName { get; set; }

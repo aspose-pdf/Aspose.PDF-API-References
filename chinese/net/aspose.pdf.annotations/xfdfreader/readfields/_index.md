@@ -1,14 +1,14 @@
 ---
 title: ReadFields
 second_title: Aspose.PDF for .NET API 参考
-description: 从 XFDF 文件导入字段值
+description: 从 XFDF 文件中导入字段值
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/xfdfreader/readfields/
 ---
 ## XfdfReader.ReadFields method
 
-从 XFDF 文件导入字段值。
+从 XFDF 文件中导入字段值。
 
 ```csharp
 public static void ReadFields(Stream stream, Document document)

@@ -1,14 +1,14 @@
 ---
 title: Fill
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор f правило заполнения пути с ненулевым номером обмотки.
+description: Класс представляющий оператор f заполнить путь правилом с ненулевым номером обмотки.
 type: docs
 weight: 5150
 url: /ru/net/aspose.pdf.operators/fill/
 ---
 ## Fill class
 
-Класс, представляющий оператор f (правило заполнения пути с ненулевым номером обмотки).
+Класс, представляющий оператор f (заполнить путь правилом с ненулевым номером обмотки).
 
 ```csharp
 public class Fill : Operator
@@ -30,7 +30,7 @@ public class Fill : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/fill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/fill/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

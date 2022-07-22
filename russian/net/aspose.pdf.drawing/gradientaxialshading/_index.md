@@ -18,17 +18,17 @@ public class GradientAxialShading : PatternColorSpace
 
 | Имя | Описание |
 | --- | --- |
-| [GradientAxialShading](gradientaxialshading#constructor)() | Инициализирует новый экземпляр класса[`GradientAxialShading`](../gradientaxialshading). |
-| [GradientAxialShading](gradientaxialshading#constructor_1)(Color, Color) | Инициализирует новый экземпляр класса[`GradientAxialShading`](../gradientaxialshading). |
+| [GradientAxialShading](gradientaxialshading#constructor)() | Инициализирует новый экземпляр[`GradientAxialShading`](../gradientaxialshading) класс. |
+| [GradientAxialShading](gradientaxialshading#constructor_1)(Color, Color) | Инициализирует новый экземпляр[`GradientAxialShading`](../gradientaxialshading) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [End](../../aspose.pdf.drawing/gradientaxialshading/end) { get; set; } | Получает или задает конечную точку. |
-| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor) { get; set; } | Получает или устанавливает конечный цвет. |
-| [Start](../../aspose.pdf.drawing/gradientaxialshading/start) { get; set; } | Получает или устанавливает начальную точку. |
-| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor) { get; set; } | Получает или устанавливает начальный цвет. |
+| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor) { get; set; } | Получает или задает конечный цвет. |
+| [Start](../../aspose.pdf.drawing/gradientaxialshading/start) { get; set; } | Получает или задает начальную точку. |
+| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor) { get; set; } | Получает или задает начальный цвет. |
 
 ### Смотрите также
 

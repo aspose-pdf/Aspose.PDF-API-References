@@ -20,7 +20,7 @@ public bool HasNextPageText()
 
 ### Примеры
 
-Пример демонстрирует`HasNextPageText`использование свойства в сценарии извлечения текста. &lt;code lang="VB.NET"&gt; Dim Extractor As PdfExtractor = New PdfExtractor() Extractor.BindPdf(TestPath + "Aspose.Pdf .Kit.Pdf") Extractor.ExtractText(Encoding.Unicode) префикс Dim As String = TestPath + "Aspose.Pdf.Kit" Dim suffix As String = ".txt" Dim pageCount As Integer = 1 While Extractor.HasNextPageText() Extractor.GetNextPageText (префикс + pageCount + суффикс ) pageCount = pageCount + 1 End While &lt;/code&gt;
+Пример демонстрирует`HasNextPageText` использование свойства в сценарии извлечения текста.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -34,6 +34,19 @@ while (extractor.HasNextPageText())
     extractor.GetNextPageText(prefix + pageCount + suffix);
     pageCount++;
 }
+```
+
+```csharp
+Dim extractor As PdfExtractor =  New PdfExtractor() 
+extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
+extractor.ExtractText(Encoding.Unicode)
+Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
+Dim suffix As String =  ".txt" 
+Dim pageCount As Integer =  1 
+While extractor.HasNextPageText()
+    extractor.GetNextPageText(prefix + pageCount + suffix)
+    pageCount = pageCount + 1
+End While
 ```
 
 ### Смотрите также

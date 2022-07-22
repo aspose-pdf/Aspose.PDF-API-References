@@ -16,7 +16,7 @@ public Resources Resources { get; }
 
 ### Примеры
 
-Пример демонстрирует сканирование через изображения страниц:
+Пример демонстрирует сканирование изображений страниц:
 
 ```csharp
 Document document = new Document("sample.pdf");

@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/placement_end/
 ---
 ## AttributeName.Placement_End field
 
-属性放置:结束 - 放置元素的分配矩形的末端边缘与最近的封闭参考区域的末端边缘重合。
+属性放置：结束 - 放置元素的分配矩形的末端边缘与最近的封闭参考区域的末端边缘重合。
 
 ```csharp
 public static readonly AttributeName Placement_End;

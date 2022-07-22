@@ -1,14 +1,14 @@
 ---
 title: ColorType
 second_title: Aspose.PDF for .NET API 参考
-description: 指定页面元素的颜色类型
+description: 指定页面上元素的颜色类型
 type: docs
 weight: 1510
 url: /zh/net/aspose.pdf/colortype/
 ---
 ## ColorType enumeration
 
-指定页面元素的颜色类型。
+指定页面上元素的颜色类型。
 
 ```csharp
 public enum ColorType

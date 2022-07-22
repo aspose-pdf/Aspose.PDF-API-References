@@ -1,14 +1,14 @@
 ---
 title: Re
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 re 运算符的类将矩形添加到路径中
+description: 表示 re 运算符的类将矩形添加到路径
 type: docs
 weight: 5300
 url: /zh/net/aspose.pdf.operators/re/
 ---
 ## Re class
 
-表示 re 运算符的类（将矩形添加到路径中）。
+表示 re 运算符的类（将矩形添加到路径）。
 
 ```csharp
 public class Re : Operator
@@ -18,8 +18,8 @@ public class Re : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Re](re#constructor)() | 初始化运算符。 |
-| [Re](re#constructor_1)(double, double, double, double) | 初始化运算符。 |
+| [Re](re#constructor)() | 初始化操作符。 |
+| [Re](re#constructor_1)(double, double, double, double) | 初始化操作符。 |
 
 ## 特性
 
@@ -36,7 +36,7 @@ public class Re : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/re/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/re/tostring)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/re/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

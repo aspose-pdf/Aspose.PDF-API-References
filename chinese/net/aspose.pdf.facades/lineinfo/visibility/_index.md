@@ -1,14 +1,14 @@
 ---
 title: Visibility
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置行的可见性
+description: 获取或设置线条的可见性
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/lineinfo/visibility/
 ---
 ## LineInfo.Visibility property
 
-获取或设置行的可见性。
+获取或设置线条的可见性。
 
 ```csharp
 public bool Visibility { get; set; }

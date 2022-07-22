@@ -16,7 +16,7 @@ public void SetTag(string newTag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newTag | String | Имя тега |
+| newTag | String | Название тэга |
 
 ### Смотрите также
 

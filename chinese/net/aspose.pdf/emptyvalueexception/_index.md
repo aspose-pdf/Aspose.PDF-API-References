@@ -1,14 +1,14 @@
 ---
 title: EmptyValueException
 second_title: Aspose.PDF for .NET API 参考
-description: 所需值不存在时抛出的异常
+description: 所需值不存在时引发的异常
 type: docs
 weight: 2070
 url: /zh/net/aspose.pdf/emptyvalueexception/
 ---
 ## EmptyValueException class
 
-所需值不存在时抛出的异常。
+所需值不存在时引发的异常。
 
 ```csharp
 public class EmptyValueException : PdfException
@@ -18,8 +18,8 @@ public class EmptyValueException : PdfException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmptyValueException](emptyvalueexception#constructor)() | 初始化[`EmptyValueException`](../emptyvalueexception)类的新实例。 |
-| [EmptyValueException](emptyvalueexception#constructor_1)(string) | 构造函数。 |
+| [EmptyValueException](emptyvalueexception#constructor)() | 初始化[`EmptyValueException`](../emptyvalueexception)类. |
+| [EmptyValueException](emptyvalueexception#constructor_1)(string) | 构造函数. |
 
 ### 也可以看看
 

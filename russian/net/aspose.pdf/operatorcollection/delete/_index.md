@@ -20,7 +20,7 @@ public void Delete(int index)
 
 ### Примеры
 
-В примере показано, как удалить оператор по его индексу.
+Пример демонстрирует удаление оператора по его индексу.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -38,7 +38,7 @@ oc.Delete(3);
 
 ## Delete(Operator[]) {#delete}
 
-Удаляет операторы из коллекции.
+Удаляет операторов из коллекции.
 
 ```csharp
 public void Delete(Operator[] ops)
@@ -69,7 +69,7 @@ oc.Delete(new Operator[] { oc[1] } );
 
 ## Delete(IList&lt;Operator&gt;) {#delete_2}
 
-Удаляет операторы из коллекции.
+Удаляет операторов из коллекции.
 
 ```csharp
 public void Delete(IList<Operator> list)

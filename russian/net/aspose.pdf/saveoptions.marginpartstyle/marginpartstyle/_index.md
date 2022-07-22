@@ -1,14 +1,14 @@
 ---
 title: MarginPartStyle
 second_title: Aspose.PDF для справочника API .NET
-description: Создает экземпляр класса MarginPartStyle и устанавливает его значение в пунктах
+description: Создает экземпляр MarginPartStyle class и устанавливает его значение в пунктах
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
 ---
 ## MarginPartStyle(int) {#constructor_1}
 
-Создает экземпляр класса MarginPartStyle и устанавливает его значение в пунктах
+Создает экземпляр MarginPartStyle class и устанавливает его значение в пунктах
 
 ```csharp
 public MarginPartStyle(int valueInPoints)
@@ -16,7 +16,7 @@ public MarginPartStyle(int valueInPoints)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| valueInPoints | Int32 | Целочисленное значение в пунктах |
+| valueInPoints | Int32 | Целое значение в баллах |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public MarginPartStyle(int valueInPoints)
 
 ## MarginPartStyle(bool) {#constructor}
 
-Создает экземпляр класса MarginPartStyle и инициализирует его значение в пунктах
+Создает экземпляр MarginPartStyle class и инициализирует его значение в пунктах
 
 ```csharp
 public MarginPartStyle(bool isAuto)
@@ -36,7 +36,7 @@ public MarginPartStyle(bool isAuto)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| isAuto | Boolean | Пометить поля автоматически |
+| isAuto | Boolean | Отметить поля автоматически |
 
 ### Смотрите также
 

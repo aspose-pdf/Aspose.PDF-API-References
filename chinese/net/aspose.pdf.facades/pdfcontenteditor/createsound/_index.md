@@ -18,9 +18,9 @@ public void CreateSound(Rectangle rect, string filePath, string name, int page, 
 | --- | --- | --- |
 | rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | filePath | String | 声音文件的文件路径。 |
-| name | String | 用于显示注释的图标名称，包括:扬声器和麦克风。 |
+| name | String | 用于显示注释的图标名称，包括：扬声器和麦克风。 |
 | page | Int32 | 创建声音注释的页面。 |
-| rate | String | 采样率，以每秒采样数为单位。 |
+| rate | String | 采样率，以每秒样本数为单位。 |
 
 ### 也可以看看
 

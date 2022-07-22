@@ -17,7 +17,7 @@ public override void Process(Page page, Stream output)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 要转换的页面。 |
-| output | Stream | 带 emf 图像的输出流。 |
+| output | Stream | 带有 emf 图像的输出流。 |
 
 ### 也可以看看
 

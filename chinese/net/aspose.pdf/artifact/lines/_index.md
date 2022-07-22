@@ -1,14 +1,14 @@
 ---
 title: Lines
 second_title: Aspose.PDF for .NET API 参考
-description: 多行文本工件的行
+description: 多行文本工件的行数
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/artifact/lines/
 ---
 ## Artifact.Lines property
 
-多行文本工件的行。
+多行文本工件的行数。
 
 ```csharp
 public List<string> Lines { get; }

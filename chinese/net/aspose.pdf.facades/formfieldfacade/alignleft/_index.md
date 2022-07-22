@@ -1,14 +1,14 @@
 ---
 title: AlignLeft
 second_title: Aspose.PDF for .NET API 参考
-description: 定义对齐到左侧样式
+description: 定义对齐到左样式
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.facades/formfieldfacade/alignleft/
 ---
 ## FormFieldFacade.AlignLeft field
 
-定义对齐到左侧样式。
+定义对齐到左样式。
 
 ```csharp
 public const int AlignLeft;

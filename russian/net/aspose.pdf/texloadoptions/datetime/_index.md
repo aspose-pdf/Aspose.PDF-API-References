@@ -1,14 +1,14 @@
 ---
 title: DateTime
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает определенное значение для примитивов даты/времени таких как год месяц день и время.
+description: Получает/устанавливает определенное значение для примитивов даты/времени таких как year month day и time.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/texloadoptions/datetime/
 ---
 ## TeXLoadOptions.DateTime property
 
-Получает/устанавливает определенное значение для примитивов даты/времени, таких как \год, \месяц, \день и \время.
+Получает/устанавливает определенное значение для примитивов даты/времени, таких как \year, \month, \day и \time.
 
 ```csharp
 public DateTime DateTime { get; set; }

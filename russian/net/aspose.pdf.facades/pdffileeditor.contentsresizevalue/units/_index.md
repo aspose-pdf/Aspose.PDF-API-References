@@ -20,7 +20,7 @@ public static ContentsResizeValue Units(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр значения.
+Экземпляр нового значения.
 
 ### Смотрите также
 

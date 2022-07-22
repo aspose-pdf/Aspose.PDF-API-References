@@ -1,14 +1,14 @@
 ---
 title: Flatten
 second_title: Aspose.PDF for .NET API 参考
-description: 删除所有表单字段并将其值直接放在页面上
+description: 删除所有表单字段并将它们的值直接放在页面上
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.forms/form/flatten/
 ---
 ## Form.Flatten method
 
-删除所有表单字段并将其值直接放在页面上。
+删除所有表单字段并将它们的值直接放在页面上。
 
 ```csharp
 public void Flatten()

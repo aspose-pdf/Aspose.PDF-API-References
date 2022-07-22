@@ -16,7 +16,7 @@ public static int RotationToInt(Rotation rotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rotation | Rotation | Элемент перечисления Rotation. |
+| rotation | Rotation | Элемент перечисления вращения. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: UseIntermidiateImage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置在文件模式下打印过程中将pdf页面转换为中间png文件的使用当输出文件的大小很重要时使用它
+description: 获取/设置在文件模式下打印期间将pdf页面转换为中间png文件的使用当输出文件的大小很重要时使用它
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.facades/pdfviewer/useintermidiateimage/
 ---
 ## PdfViewer.UseIntermidiateImage property
 
-获取/设置在文件模式下打印过程中将pdf页面转换为中间png文件的使用。当输出文件的大小很重要时使用它。
+获取/设置在文件模式下打印期间将pdf页面转换为中间png文件的使用。当输出文件的大小很重要时使用它。
 
 ```csharp
 public bool UseIntermidiateImage { get; set; }

@@ -16,7 +16,7 @@ public void AddImage(Image image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Image | 图片不能添加到文本字段中。 |
+| image | Image | 图像未添加到文本字段中。 |
 
 ### 也可以看看
 

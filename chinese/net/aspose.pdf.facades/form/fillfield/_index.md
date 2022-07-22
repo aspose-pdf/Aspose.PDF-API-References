@@ -17,12 +17,12 @@ public bool FillField(string fieldName, string value, bool fitFontSize)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | String | 字段名称 |
-| value | String | 的新值字段 |
+| value | String | 字段的新值 |
 | fitFontSize | Boolean | 如果为真，编辑框中的字体大小将被适配。 |
 
 ### 返回值
 
-如果找到并成功填写字段，则为真。
+如果找到并成功填写字段，则为 true。
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public bool FillField(string fieldName, string value, bool fitFontSize)
 
 ## FillField(string, string) {#fillfield_2}
 
-根据完全限定的字段名称用有效值填充字段。 在填写字段之前，必须知道每个字段的名称及其对应的有效值。 字段的名称和值都区分大小写。 请注意，Aspose.Pdf.Facades 仅支持完整的字段名称，并且与 Aspose.Pdf.Kit 相比，不适用于部分 字段名称； 例如，如果字段具有全名“Form.Subform.TextField”，则应指定全名而不是“TextField”。 您可以使用 FieldNames 属性来探索现有字段名称并通过其部分名称搜索所需字段。
+根据完全限定的字段名称用有效值填充字段。 在填充字段之前，必须知道每个字段的名称及其对应的有效值。 字段的名称和值都区分大小写。 请注意Aspose.Pdf.Facades 仅支持完整的字段名称，并且与 Aspose.Pdf.Kit 相比，不适用于部分 字段名称； 例如，如果字段具有全名“Form.Subform.TextField”，则应指定全名而不是“文本域”。 您可以使用 FieldNames 属性来探索现有字段名称并按其部分名称搜索所需字段。
 
 ```csharp
 public bool FillField(string fieldName, string fieldValue)
@@ -47,16 +47,26 @@ public bool FillField(string fieldName, string fieldValue)
 
 ### 返回值
 
-如果字段找到并成功填写，则为真。
+如果找到并成功填写字段，则为 true。
 
 ### 例子
-
-&lt;code&gt; //如何通过部分名称搜索字段: Form form = new Form( “输入.pdf”，“输出.pdf”）； foreach(form.FieldNames 中的字符串字段名) { if (fieldName.EndsWith("TextField")) { Console.WriteLine("全名是:" + fieldName); } } &lt;/code&gt;
 
 ```csharp
 Form form = new Form(TestSettings.GetInputFile("PdfForm.pdf"));
 form.FillField("FirstName", "John");
 form.FillField("LastName",  "Smith");
+```
+
+```csharp
+//如何通过部分名称搜索字段：
+Form form = new Form("input.pdf", "output.pdf"); 
+foreach(string fieldName in form.FieldNames)
+{
+  if (fieldName.EndsWith("TextField"))
+  {
+    Console.WriteLine("Full name is: " + fieldName);
+  }
+}
 ```
 
 ### 也可以看看
@@ -69,7 +79,7 @@ form.FillField("LastName",  "Smith");
 
 ## FillField(string, int) {#fillfield_1}
 
-根据完全限定的字段名称，用有效的索引值填充单选框字段。 在填写字段之前，只需要知道字段的名称。而该值可以由其索引指定。 注意:仅适用于单选框、组合框和列表框字段。 请注意，Aspose.Pdf.Facades 仅支持完整的字段名称，并且与 Aspose.Pdf.Kit 相比，不适用于部分 字段名称； 例如，如果字段具有全名“Form.Subform.ListBoxField”，则应指定全名而不是“ListBoxField”。 您可以使用 FieldNames 属性来探索现有字段名称并通过其部分名称搜索所需字段。
+根据完全限定的字段名称，用有效的索引值填充单选框字段。 在填充字段之前，只需知道字段的名称。虽然可以通过其索引指定值。 注意：仅适用于 Radio Box、Combo Box 和 List Box 字段。 请注意 Aspose.Pdf.Facades 仅支持完整字段名称，不适用于部分字段名称 与 Aspose.Pdf.Kit 相比； 例如，如果字段具有全名“Form.Subform.ListBoxField”，则应指定全名而不是“ListBoxField”。 您可以使用 FieldNames 属性来探索现有字段名称并按其部分名称搜索所需字段。
 
 ```csharp
 public bool FillField(string fieldName, int index)
@@ -82,17 +92,27 @@ public bool FillField(string fieldName, int index)
 
 ### 返回值
 
-如果找到并成功填写字段，则为真。
+如果找到并成功填写字段，则为 true。
 
 ### 例子
-
-&lt;code&gt; //如何通过部分名称搜索字段: Form form = new Form( “输入.pdf”，“输出.pdf”）； foreach(form.FieldNames 中的字符串字段名) { if (fieldName.EndsWith("ListBoxField")) { Console.WriteLine("全名是:" + fieldName); } } &lt;/code&gt;
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
 form.FillField("listboxField", 2);
 form.FillField("comboboxField", 2);
 form.FillField("radiobuttonField", 2);
+```
+
+```csharp
+//如何通过部分名称搜索字段：
+Form form = new Form("input.pdf", "output.pdf"); 
+foreach(string fieldName in form.FieldNames)
+{
+  if (fieldName.EndsWith("ListBoxField"))
+  {
+    Console.WriteLine("Full name is: " + fieldName);
+  }
+}
 ```
 
 ### 也可以看看
@@ -105,7 +125,7 @@ form.FillField("radiobuttonField", 2);
 
 ## FillField(string, bool) {#fillfield}
 
-用布尔值填充复选框字段。 注意:仅适用于复选框。 请注意，Aspose.Pdf.Facades 仅支持完整的字段名称，并且与 Aspose.Pdf.Kit 相比，不适用于部分 字段名称； 例如，如果字段具有全名“Form.Subform.CheckBoxField”，则应指定全名而不是“CheckBoxField”。 您可以使用 FieldNames 属性来探索现有字段名称并通过其部分名称搜索所需字段。
+用布尔值填充复选框字段。 注意：仅适用于复选框。 请注意 Aspose.Pdf.Facades 仅支持完整字段名称，并且与 Aspose.Pdf 相比，不适用于部分 字段名称.Kit; 例如，如果字段具有全名“Form.Subform.CheckBoxField”，则应指定全名而不是“CheckBoxField”。 您可以使用 FieldNames 属性来探索现有字段名称并按其部分名称搜索所需字段。
 
 ```csharp
 public bool FillField(string fieldName, bool beChecked)
@@ -113,20 +133,30 @@ public bool FillField(string fieldName, bool beChecked)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 字段名填充。 |
-| beChecked | Boolean | 布尔标志:true 表示选中该框，而 false 表示取消选中。 |
+| fieldName | String | 要填写的字段名称。 |
+| beChecked | Boolean | 布尔标志：true 表示选中该框，而 false 表示取消选中它。 |
 
 ### 返回值
 
-如果找到并成功填写字段，则为真。
+如果找到并成功填写字段，则为 true。
 
 ### 例子
-
-&lt;code&gt; //如何通过部分名称搜索字段: 表单 form = new Form("input.pdf", "output.pdf"); foreach(string fieldName in form.FieldNames) { if (fieldName.EndsWith("CheckBoxField")) { Console.WriteLine("全名是:" + fieldName); } } &lt;/code&gt;
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
 form.FillField("checkboxField", true);
+```
+
+```csharp
+//如何通过部分名称搜索字段：
+Form form = new Form("input.pdf", "output.pdf"); 
+foreach(string fieldName in form.FieldNames)
+{
+  if (fieldName.EndsWith("CheckBoxField"))
+  {
+    Console.WriteLine("Full name is: " + fieldName);
+  }
+}
 ```
 
 ### 也可以看看
@@ -139,7 +169,7 @@ form.FillField("checkboxField", true);
 
 ## FillField(string, string[]) {#fillfield_4}
 
-用多个选择填充字段。注意:仅适用于 AcroForm 列表框字段。
+用多个选项填写一个字段。注意：仅适用于 AcroForm 列表框字段。
 
 ```csharp
 public void FillField(string fieldName, string[] fieldValues)

@@ -19,7 +19,7 @@ public sealed class PdfFileSignature : SaveableFacade
 | Имя | Описание |
 | --- | --- |
 | [PdfFileSignature](pdffilesignature#constructor)() | Конструктор класса PdfFileSignature. |
-| [PdfFileSignature](pdffilesignature#constructor_1)(Document) | Инициализирует новый[`PdfFileSignature`](../pdffilesignature)объект на основе*document*. |
+| [PdfFileSignature](pdffilesignature#constructor_1)(Document) | Инициализирует новый[`PdfFileSignature`](../pdffilesignature) объект на базе*document* . |
 
 ## Характеристики
 
@@ -29,20 +29,20 @@ public sealed class PdfFileSignature : SaveableFacade
 | [IsCertified](../../aspose.pdf.facades/pdffilesignature/iscertified) { get; } | Получает флаг, определяющий, сертифицирован документ или нет. |
 | [IsLtvEnabled](../../aspose.pdf.facades/pdffilesignature/isltvenabled) { get; } | Получает флаг включения LTV. |
 | [SignatureAppearance](../../aspose.pdf.facades/pdffilesignature/signatureappearance) { get; set; } | Задает или получает графический вид подписи. Значение свойства представляет имя файла изображения. |
-| [SignatureAppearanceStream](../../aspose.pdf.facades/pdffilesignature/signatureappearancestream) { get; set; } | Задает или получает графический вид подписи. Значение свойства представляет поток изображения. |
+| [SignatureAppearanceStream](../../aspose.pdf.facades/pdffilesignature/signatureappearancestream) { get; set; } | Задает или получает графический вид подписи. Значение свойства представляет поток изображений. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Инициализирует фасад. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf#bindpdf_1)(Stream) | Связывает поток Pdf для редактирования. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf#bindpdf_2)(string) | Связывает файл Pdf для редактирования. |
-| [Certify](../../aspose.pdf.facades/pdffilesignature/certify#certify_1)(string, DocMDPSignature) | Заверить документ подписью MDP, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле для подписи, место для проставления подписи указывать не нужно, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр сигнаме). |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf#bindpdf_1)(Stream) | Привязывает поток PDF для редактирования. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesignature/bindpdf#bindpdf_2)(string) | Привязывает файл PDF для редактирования. |
+| [Certify](../../aspose.pdf.facades/pdffilesignature/certify#certify_1)(string, DocMDPSignature) | Заверить документ подписью MDP, которая ставится в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле подписи, место для подписи указывать не нужно. штамп подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр sigName). |
 | [Certify](../../aspose.pdf.facades/pdffilesignature/certify#certify)(int, string, string, string, bool, Rectangle, DocMDPSignature) | Заверить документ подписью MDP. Такие данные, как причина подписи, контакт и местонахождение, должны быть предоставлены соответствующими свойствами объекта Signature sig. |
 | override [Close](../../aspose.pdf.facades/pdffilesignature/close)() | Закрывает фасад. |
 | [ContainsSignature](../../aspose.pdf.facades/pdffilesignature/containssignature)() | Проверяет, есть ли у pdf цифровая подпись или нет. |
-| [ContainsUsageRights](../../aspose.pdf.facades/pdffilesignature/containsusagerights)() | Проверяет, есть ли у pdf права на использование или нет. |
+| [ContainsUsageRights](../../aspose.pdf.facades/pdffilesignature/containsusagerights)() | Проверяет, есть ли у pdf права на использование. |
 | [CoversWholeDocument](../../aspose.pdf.facades/pdffilesignature/coverswholedocument)(string) | Проверяет, охватывает ли подпись весь документ. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose)() | Удаляет фасад. |
 | [ExtractCertificate](../../aspose.pdf.facades/pdffilesignature/extractcertificate)(string) | Извлекает единственный сертификат X.509 подписи в виде потока. |
@@ -56,19 +56,19 @@ public sealed class PdfFileSignature : SaveableFacade
 | [GetRevision](../../aspose.pdf.facades/pdffilesignature/getrevision)(string) | Получает версию подписи. |
 | [GetSignerName](../../aspose.pdf.facades/pdffilesignature/getsignername)(string) | Получает имя человека или организации, подписавших PDF-документ. |
 | [GetSignNames](../../aspose.pdf.facades/pdffilesignature/getsignnames)(bool) | Получает имена всех непустых подписей. |
-| [GetTotalRevision](../../aspose.pdf.facades/pdffilesignature/gettotalrevision)() | Получает полную версию. |
-| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature#removesignature)(string) | Удалить подпись по имени подписи. |
+| [GetTotalRevision](../../aspose.pdf.facades/pdffilesignature/gettotalrevision)() | Получает общую версию. |
+| [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature#removesignature)(string) | Удалить подпись по названию подписи. |
 | [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature#removesignature_1)(string, bool) | Удаляет подпись по имени подписи. |
-| [RemoveUsageRights](../../aspose.pdf.facades/pdffilesignature/removeusagerights)() | Удаляет запись прав использования. |
-| override [Save](../../aspose.pdf.facades/pdffilesignature/save#save_1)(Stream) | Сохраняет результат PDF в поток. |
+| [RemoveUsageRights](../../aspose.pdf.facades/pdffilesignature/removeusagerights)() | Удаляет запись о правах использования. |
+| override [Save](../../aspose.pdf.facades/pdffilesignature/save#save_1)(Stream) | Сохраняет полученный PDF-файл в поток. |
 | override [Save](../../aspose.pdf.facades/pdffilesignature/save#save_2)(string) | Сохраняет результат PDF в файл. |
 | [SetCertificate](../../aspose.pdf.facades/pdffilesignature/setcertificate)(string, string) | Установить файл сертификата и пароль для процедуры подписи. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_4)(string, Signature) | Подпишите документ подписью данного типа, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле для подписи, место для проставления подписи указывать не нужно, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName). Такие данные, как причина подписи, контакт и местонахождение, должны быть предоставлены соответствующими свойствами объекта Signature sig. |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_4)(string, Signature) | Подпишите документ данным типом подписи, которая ставится в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле подписи, место указывать не нужно для печати подписи берется соответствующая страница и прямоугольник из поля подписи, которое находится по имени подписи (см. параметр SigName). Такие данные, как причина подписи, контакт и местонахождение, должны быть предоставлены соответствующими свойствами объекта Signature sig. |
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign)(int, bool, Rectangle, Signature) | Подпишите документ с заданным типом подписи. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_5)(string, string, string, string, Signature) | Подпишите документ подписью данного типа, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле для подписи, место для проставления подписи указывать не нужно, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName). |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_1)(int, string, string, string, bool, Rectangle) | Сделать подпись в pdf документе. |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_5)(string, string, string, string, Signature) | Подпишите документ данным типом подписи, которая ставится в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле подписи, место указывать не нужно для печати подписи берется соответствующая страница и прямоугольник из поля подписи, которое находится по имени подписи (см. параметр SigName). |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_1)(int, string, string, string, bool, Rectangle) | Сделайте подпись в pdf-документе. |
 | [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_2)(int, string, string, string, bool, Rectangle, Signature) | Подпишите документ с заданным типом подписи. |
-| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_3)(int, string, string, string, string, bool, Rectangle, Signature) | Подпишите документ подписью данного типа, которая размещена в уже представленном поле подписи. Перед подписанием в pdf-документе уже должно быть поле для подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName). |
+| [Sign](../../aspose.pdf.facades/pdffilesignature/sign#sign_3)(int, string, string, string, string, bool, Rectangle, Signature) | Подпишите документ подписью данного типа, которая ставится в уже представленное поле подписи. Перед подписанием в pdf-документе уже должно быть поле подписи, соответствующая страница и прямоугольник берутся из поля подписи , которое находится по имени подписи (см. параметр SigName) . |
 | [VerifySignature](../../aspose.pdf.facades/pdffilesignature/verifysignature)(string) | Проверяет действительность подписи. |
 | [VerifySigned](../../aspose.pdf.facades/pdffilesignature/verifysigned)(string) | Проверяет действительность подписи. |
 

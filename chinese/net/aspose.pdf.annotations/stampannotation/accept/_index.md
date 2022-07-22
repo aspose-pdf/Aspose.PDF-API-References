@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API 参考
-description: AceptsAnnotationSelectoraspose.pdf.annotations/annotationselector浏览注释集合时的访问者
+description: 接受AnnotationSelectoraspose.pdf.annotations/annotationselector浏览注释集合时的访问者
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/stampannotation/accept/
 ---
 ## StampAnnotation.Accept method
 
-Acepts[`AnnotationSelector`](../../annotationselector)浏览注释集合时的访问者。
+接受[`AnnotationSelector`](../../annotationselector)浏览注释集合时的访问者。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)

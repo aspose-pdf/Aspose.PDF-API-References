@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает коллекцию указывающую все абзацы в сноске.
+description: Получает или задает коллекцию которая указывает все абзацы в FootNote.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/note/paragraphs/
 ---
 ## Note.Paragraphs property
 
-Получает или задает коллекцию, указывающую все абзацы в сноске.
+Получает или задает коллекцию, которая указывает все абзацы в FootNote.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }

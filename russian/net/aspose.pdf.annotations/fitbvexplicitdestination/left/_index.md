@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PDF для справочника API .NET
-description: Получает горизонтальную координату расположенную слева от левого края окна.
+description: Получает горизонтальную координату слева от левого края окна.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/fitbvexplicitdestination/left/
 ---
 ## FitBVExplicitDestination.Left property
 
-Получает горизонтальную координату, расположенную слева от левого края окна.
+Получает горизонтальную координату слева от левого края окна.
 
 ```csharp
 public double Left { get; }

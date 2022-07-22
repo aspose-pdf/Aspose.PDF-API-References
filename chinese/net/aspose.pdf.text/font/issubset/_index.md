@@ -1,14 +1,14 @@
 ---
 title: IsSubset
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示字体是否为子集的值
+description: 获取或设置一个表示字体是否为子集的值
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/font/issubset/
 ---
 ## Font.IsSubset property
 
-获取或设置指示字体是否为子集的值。
+获取或设置一个表示字体是否为子集的值。
 
 ```csharp
 public bool IsSubset { get; set; }
@@ -16,21 +16,21 @@ public bool IsSubset { get; set; }
 
 ### 例子
 
-该示例演示了如何在第一页上搜索文本并获取指示字体是否为一个子集。
+该示例演示如何在第一页搜索文本并获取指示字体是否为子集的值。
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 查看第一个文本出现的字体的 IsSubset 值
-(absorber.TextFragments[1].TextState.Font.IsSubset)
- Console.Out.WriteLine("the font is a subset");
+if(absorber.TextFragments[1].TextState.Font.IsSubset)
+   Console.Out.WriteLine("the font is a subset");
 ```
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: SubstitutionFontName
 second_title: Aspose.PDF for .NET API 参考
-description: 获取应该替换OriginalFontNameaspose.pdf.text/simplefontsubstitution/originalfontname
+description: 获取应该替换的字体名称OriginalFontNameaspose.pdf.text/simplefontsubstitution/originalfontname
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/
 ---
 ## SimpleFontSubstitution.SubstitutionFontName property
 
-获取应该替换[`OriginalFontName`](../originalfontname)
+获取应该替换的字体名称[`OriginalFontName`](../originalfontname)
 
 ```csharp
 public string SubstitutionFontName { get; }

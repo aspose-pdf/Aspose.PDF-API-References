@@ -1,14 +1,14 @@
 ---
 title: ISaveableFacade
 second_title: Aspose.PDF for .NET API 参考
-description: 外观接口定义了所有可保存外观的通用方法
+description: 定义所有可保存外观的通用方法的外观接口
 type: docs
 weight: 2380
 url: /zh/net/aspose.pdf.facades/isaveablefacade/
 ---
 ## ISaveableFacade interface
 
-外观接口，定义了所有可保存外观的通用方法。
+定义所有可保存外观的通用方法的外观接口。
 
 ```csharp
 public interface ISaveableFacade : IFacade
@@ -18,7 +18,7 @@ public interface ISaveableFacade : IFacade
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save#save)(Stream) | 将结果 PDF 文档保存到流。 |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save#save)(Stream) | 将结果 PDF 文档保存到流中。 |
 | [Save](../../aspose.pdf.facades/isaveablefacade/save#save_1)(string) | 将结果 PDF 文档保存到文件中。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: FormattingOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает параметры форматирования. Настройка параметров будет эффективна только в сценариях с генератором.
+description: Получает или задает параметры форматирования. Установка параметров будет эффективна только в сценариях генератора.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/textfragmentstate/formattingoptions/
 ---
 ## TextFragmentState.FormattingOptions property
 
-Получает или задает параметры форматирования. Настройка параметров будет эффективна только в сценариях с генератором.
+Получает или задает параметры форматирования. Установка параметров будет эффективна только в сценариях генератора.
 
 ```csharp
 public TextFormattingOptions FormattingOptions { get; set; }

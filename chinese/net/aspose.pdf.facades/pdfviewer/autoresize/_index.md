@@ -1,14 +1,14 @@
 ---
 title: AutoResize
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个布尔值指示文件是否以优化大小打印  如果假打印页面不进行页面缩放 如果是真正的打印页面缩放以适合可打印区域
+description: 获取或设置一个布尔值指示文件是否以优化大小打印  如果是错误的打印页面没有页面缩放 如果是正确的打印页面可以缩放以适合可打印区域
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/pdfviewer/autoresize/
 ---
 ## PdfViewer.AutoResize property
 
-获取或设置一个布尔值，指示文件是否以优化大小打印。  如果假打印页面不进行页面缩放。 如果是真正的打印页面，缩放以适合可打印区域。
+获取或设置一个布尔值，指示文件是否以优化大小打印。  如果是错误的打印页面，没有页面缩放。 如果是正确的打印页面，可以缩放以适合可打印区域。
 
 ```csharp
 public bool AutoResize { get; set; }

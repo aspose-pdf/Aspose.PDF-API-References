@@ -1,14 +1,14 @@
 ---
 title: ReplaceText
 second_title: Aspose.PDF для справочника API .NET
-description: Заменяет текст в файле PDF на указанной странице.TextStateaspose.pdf.text/textstateобъект семейство шрифтов цвет может быть указан для замещаемого текста.
+description: Заменяет текст в файле PDF на указанной странице.TextStateaspose.pdf.text/textstate объект семейство шрифтов цвет может быть указан для заменяемого текста.
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/replacetext/
 ---
 ## ReplaceText(string, int, string, TextState) {#replacetext_1}
 
-Заменяет текст в файле PDF на указанной странице.[`TextState`](../../../aspose.pdf.text/textstate)объект (семейство шрифтов, цвет) может быть указан для замещаемого текста.
+Заменяет текст в файле PDF на указанной странице.[`TextState`](../../../aspose.pdf.text/textstate) объект (семейство шрифтов, цвет) может быть указан для заменяемого текста.
 
 ```csharp
 public bool ReplaceText(string srcString, int thePage, string destString, TextState textState)
@@ -17,42 +17,42 @@ public bool ReplaceText(string srcString, int thePage, string destString, TextSt
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | srcString | String | Заменяемая строка. |
-| thePage | Int32 | Номер страницы (0 означает "все страницы"). |
+| thePage | Int32 | Номер страницы (0 означает «все страницы»). |
 | destString | String | Заменяемая строка. |
 | textState | TextState | Состояние текста (цвет текста, шрифт и т. д.). |
 
 ### Возвращаемое значение
 
-Возвращает true, если была произведена замена.
+Возвращает true, если замена была произведена.
 
 ### Примеры
 
-Пример демонстрирует, как заменить текст на первой странице документа PDF и установить[`TextState`](../../../aspose.pdf.text/textstate)свойства текста для нового текста.
+В примере показано, как заменить текст на первой странице документа PDF и установить[`TextState`](../../../aspose.pdf.text/textstate) свойства текста для нового текста.
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// Создаем шрифт и помечаем его как embedded
-spose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
-ont.IsEmbedded = true;
+// Создаем шрифт и помечаем его для встраивания
+Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
+font.IsEmbedded = true;
 
-// создаем объект PdfContentEditor для редактирования text
-dfContentEditor editor = new PdfContentEditor();
-ditor.BindPdf(doc);
+// создаем объект PdfContentEditor для редактирования текста
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf(doc);
 
-// создать textState object
-extState textState = new TextState();
-extState.Font = font;
-extState.FontSize = 17;
-extState.FontStyle = FontStyle.Bold | FontStyle.Italic;
-extState.ForegroundColor = Color.Red;
+// создать объект textState
+TextState textState = new TextState();
+textState.Font = font;
+textState.FontSize = 17;
+textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
+textState.ForegroundColor = Color.Red;
 
-// изменить текст с указанным font
-ditor.ReplaceText("hello world", 1, "hi world", textState);
+// изменить текст указанным шрифтом
+editor.ReplaceText("hello world", 1, "hi world", textState);
 
 // сохранить документ
-oc.Save(outFile);
+doc.Save(outFile);
 ```
 
 ### Смотрите также
@@ -79,7 +79,7 @@ public bool ReplaceText(string srcString, string destString)
 
 ### Возвращаемое значение
 
-Возвращает true, если была произведена замена.
+Возвращает true, если замена была произведена.
 
 ### Примеры
 
@@ -87,17 +87,17 @@ public bool ReplaceText(string srcString, string destString)
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект PdfContentEditor для редактирования text
-dfContentEditor editor = new PdfContentEditor();
-ditor.BindPdf(doc);
+// создаем объект PdfContentEditor для редактирования текста
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf(doc);
 
 // изменить текст 
-ditor.ReplaceText("hello world", "hi world");
+editor.ReplaceText("hello world", "hi world");
 
 // сохранить документ
-oc.Save(outFile);
+doc.Save(outFile);
 ```
 
 ### Смотрите также
@@ -118,13 +118,13 @@ public bool ReplaceText(string srcString, int thePage, string destString)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcString | String | Заменяемое жало. |
+| srcString | String | Жало подлежит замене. |
 | thePage | Int32 | Номер страницы (0 для всех страниц) |
 | destString | String | Замена строки. |
 
 ### Возвращаемое значение
 
-Возвращает true, если была произведена замена.
+Возвращает true, если замена была произведена.
 
 ### Примеры
 
@@ -132,17 +132,17 @@ public bool ReplaceText(string srcString, int thePage, string destString)
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект PdfContentEditor для редактирования text
-dfContentEditor editor = new PdfContentEditor();
-ditor.BindPdf(doc);
+// создаем объект PdfContentEditor для редактирования текста
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf(doc);
 
 // изменить текст 
-ditor.ReplaceText("hello world", 1, "hi world");
+editor.ReplaceText("hello world", 1, "hi world");
 
 // сохранить документ
-oc.Save(outFile);
+doc.Save(outFile);
 ```
 
 ### Смотрите также
@@ -155,7 +155,7 @@ oc.Save(outFile);
 
 ## ReplaceText(string, string, TextState) {#replacetext_3}
 
-Заменяет текст в файле PDF, используя указанный объект[`TextState`](../../../aspose.pdf.text/textstate).
+Заменяет текст в файле PDF, используя указанный[`TextState`](../../../aspose.pdf.text/textstate) объект.
 
 ```csharp
 public bool ReplaceText(string srcString, string destString, TextState textState)
@@ -164,39 +164,39 @@ public bool ReplaceText(string srcString, string destString, TextState textState
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | srcString | String | Строка для замены |
-| destString | String | Замещающая строка |
-| textState | TextState | Состояние текста (цвет текста, шрифт и т.д.) |
+| destString | String | Замена строки |
+| textState | TextState | Состояние текста (цвет текста, шрифт и т. д.) |
 
 ### Возвращаемое значение
 
-Возвращает true, если была произведена замена.
+Возвращает true, если замена была произведена.
 
 ### Примеры
 
-Пример демонстрирует, как заменить текст и установить[`TextState`](../../../aspose.pdf.text/textstate)свойства текста для нового текста.
+Пример демонстрирует, как заменить текст и установить[`TextState`](../../../aspose.pdf.text/textstate) свойства текста для нового текста.
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// Создаем шрифт и помечаем его как embedded
-spose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
-ont.IsEmbedded = true;
+// Создаем шрифт и помечаем его для встраивания
+Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
+font.IsEmbedded = true;
 
-// создаем объект PdfContentEditor для редактирования text
-dfContentEditor editor = new PdfContentEditor();
-ditor.BindPdf(doc);
+// создаем объект PdfContentEditor для редактирования текста
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf(doc);
 
-// создать textState object
-extState textState = new TextState();
-extState.Font = font;
-extState.FontStyle = FontStyle.Bold | FontStyle.Italic;
+// создать объект textState
+TextState textState = new TextState();
+textState.Font = font;
+textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 
-// изменить текст с указанным font
-ditor.ReplaceText("hello world", "hi world", textState);
+// изменить текст указанным шрифтом
+editor.ReplaceText("hello world", "hi world", textState);
 
 // сохранить документ
-oc.Save(outFile);
+doc.Save(outFile);
 ```
 
 ### Смотрите также
@@ -224,7 +224,7 @@ public bool ReplaceText(string srcString, string destString, int fontSize)
 
 ### Возвращаемое значение
 
-Возвращает true, если была произведена замена.
+Возвращает true, если замена была произведена.
 
 ### Примеры
 
@@ -232,21 +232,21 @@ public bool ReplaceText(string srcString, string destString, int fontSize)
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// Создаем шрифт и помечаем его как embedded
-spose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
-ont.IsEmbedded = true;
+// Создаем шрифт и помечаем его для встраивания
+Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
+font.IsEmbedded = true;
 
-// создаем объект PdfContentEditor для редактирования text
-dfContentEditor editor = new PdfContentEditor();
-ditor.BindPdf(doc);
+// создаем объект PdfContentEditor для редактирования текста
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf(doc);
 
-// изменить текст с указанным font
-ditor.ReplaceText("hello world", "hi world", 14);
+// изменить текст указанным шрифтом
+editor.ReplaceText("hello world", "hi world", 14);
 
 // сохранить документ
-oc.Save(outFile);
+doc.Save(outFile);
 ```
 
 ### Смотрите также

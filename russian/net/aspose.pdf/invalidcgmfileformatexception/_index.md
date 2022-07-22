@@ -1,14 +1,14 @@
 ---
 title: InvalidCgmFileFormatException
 second_title: Aspose.PDF для справочника API .NET
-description: Исключение возникающее когда файл Cgm недействителен.
+description: Исключение которое возникает когда файл Cgm недействителен.
 type: docs
 weight: 3840
 url: /ru/net/aspose.pdf/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException class
 
-Исключение, возникающее, когда файл Cgm недействителен.
+Исключение, которое возникает, когда файл Cgm недействителен.
 
 ```csharp
 public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
@@ -18,10 +18,10 @@ public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor)() | Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception). |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor_1)(Exception) | Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor_2)(string) | Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception). |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor)() | Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception) класс. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor_1)(Exception) | Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor_2)(string) | Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception) класс. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр[`InvalidCgmFileFormatException`](../invalidcgmfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

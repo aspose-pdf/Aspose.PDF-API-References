@@ -1,14 +1,14 @@
 ---
 title: FileEncoding
 second_title: Aspose.PDF для справочника API .NET
-description: Кодировка прикрепленного файла. Возможные значенияZip  файл сжат с помощью ZIP None  файл не сжат.
+description: Кодировка прикрепленного файла. Возможные значения Zip  файл сжат ZIP None  файл несжатый.
 type: docs
 weight: 2790
 url: /ru/net/aspose.pdf/fileencoding/
 ---
 ## FileEncoding enumeration
 
-Кодировка прикрепленного файла. Возможные значения:Zip — файл сжат с помощью ZIP, None — файл не сжат.
+Кодировка прикрепленного файла. Возможные значения: Zip — файл сжат ZIP, None — файл несжатый.
 
 ```csharp
 public enum FileEncoding

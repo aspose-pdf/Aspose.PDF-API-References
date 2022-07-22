@@ -1,14 +1,14 @@
 ---
 title: CreatePolygon
 second_title: Aspose.PDF для справочника API .NET
-description: Создает аннотацию полигона.
+description: Создает полигональную аннотацию.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 ---
 ## PdfContentEditor.CreatePolygon method
 
-Создает аннотацию полигона.
+Создает полигональную аннотацию.
 
 ```csharp
 public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -19,7 +19,7 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 | lineInfo | LineInfo | Экземпляр класса LineInfo. |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| annotContents | String | Содержимое аннотации. |
+| annotContents | String | Содержание аннотации. |
 
 ### Примеры
 

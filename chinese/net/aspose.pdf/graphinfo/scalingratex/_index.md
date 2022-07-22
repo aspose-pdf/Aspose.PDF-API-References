@@ -1,14 +1,14 @@
 ---
 title: ScalingRateX
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值表示转换坐标系时x坐标的缩放率
+description: 获取或设置一个浮点值表示坐标系变换时x坐标的缩放比例
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/graphinfo/scalingratex/
 ---
 ## GraphInfo.ScalingRateX property
 
-获取或设置一个浮点值，表示转换坐标系时x坐标的缩放率。
+获取或设置一个浮点值，表示坐标系变换时x坐标的缩放比例。
 
 ```csharp
 public double ScalingRateX { get; set; }

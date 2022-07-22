@@ -1,14 +1,14 @@
 ---
 title: MaxSymbolsCacheSize
 second_title: Aspose.PDF for .NET API 参考
-description: 符号缓存中的最大符号数默认值为 100
+description: 符号缓存中的最大符号数默认值为 100.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/renderingoptions/maxsymbolscachesize/
 ---
 ## RenderingOptions.MaxSymbolsCacheSize property
 
-符号缓存中的最大符号数。默认值为 100。
+符号缓存中的最大符号数。默认值为 100.
 
 ```csharp
 public int MaxSymbolsCacheSize { get; set; }

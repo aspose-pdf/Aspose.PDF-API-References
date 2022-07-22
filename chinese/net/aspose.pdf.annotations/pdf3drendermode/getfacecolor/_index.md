@@ -1,14 +1,14 @@
 ---
 title: GetFaceColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取人脸颜色
+description: 获取人脸的颜色
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 ---
 ## PDF3DRenderMode.GetFaceColor method
 
-获取人脸颜色。
+获取人脸的颜色。
 
 ```csharp
 public object GetFaceColor()
@@ -16,7 +16,7 @@ public object GetFaceColor()
 
 ### 返回值
 
-对象。
+目的。
 
 ### 也可以看看
 

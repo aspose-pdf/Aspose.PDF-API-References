@@ -16,7 +16,7 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inPdfFile | String | 输入要导出书签的 PDF 文件。 |
+| inPdfFile | String | 输入将导出书签的 PDF 文件。 |
 | outHtmlFile | String | 输出 HTML 文件 |
 
 ### 例子

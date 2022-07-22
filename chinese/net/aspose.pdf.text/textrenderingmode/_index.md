@@ -19,13 +19,13 @@ public enum TextRenderingMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | FillText | `0` | 填充文本。 |
-| StrokeText | `1` | 笔划文本。 |
+| StrokeText | `1` | 描边文字. |
 | FillThenStrokeText | `2` | 填充，然后描边文本。 |
 | Invisible | `3` | 既不填充也不描边文本（不可见）。 |
 | FillTextAndAddPathToClipping | `4` | 填充文本并添加到剪切路径（参见 9.3.6，“文本渲染模式”）。 |
-| StrokeTextAndAddPathToClipping | `5` | 描边文本并添加到路径以进行剪切。 |
-| FillThenStrokeTextAndAddPathToClipping | `6` | 填充，然后描边文本并添加到路径以进行剪切。 |
-| AddPathToClipping | `7` | 将文本添加到路径以进行剪切。 |
+| StrokeTextAndAddPathToClipping | `5` | 描边文本并添加到剪切路径。 |
+| FillThenStrokeTextAndAddPathToClipping | `6` | 填充，然后描边文本并添加到剪切路径。 |
+| AddPathToClipping | `7` | 将文本添加到剪切路径。 |
 
 ### 也可以看看
 

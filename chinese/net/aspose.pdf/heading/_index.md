@@ -24,44 +24,44 @@ public sealed class Heading : TextFragment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BaselinePosition](../../aspose.pdf.text/textfragment/baselineposition) { get; set; } | 获取文本的文本位置，用[`TextFragment`](../../aspose.pdf.text/textfragment)对象表示。 Position 结构的 YIndent 表示文本片段的基线坐标。 |
+| [BaselinePosition](../../aspose.pdf.text/textfragment/baselineposition) { get; set; } | 获取文本的文本位置，用[`TextFragment`](../../aspose.pdf.text/textfragment)object. Position 结构的 YIndent 表示文本片段的基线坐标。 |
 | [DestinationPage](../../aspose.pdf/heading/destinationpage) { get; set; } | 获取目标页面。 |
 | [EndNote](../../aspose.pdf.text/textfragment/endnote) { get; set; } | 获取或设置段落尾注。（仅用于 pdf 生成） |
 | [FootNote](../../aspose.pdf.text/textfragment/footnote) { get; set; } | 获取或设置段落脚注。（仅用于 pdf 生成） |
 | [Form](../../aspose.pdf.text/textfragment/form) { get; } | 获取包含 TextFragment 的表单对象 |
 | override [HorizontalAlignment](../../aspose.pdf.text/textfragment/horizontalalignment) { get; set; } | 获取或设置文本片段的水平对齐方式。 |
 | override [Hyperlink](../../aspose.pdf.text/textfragment/hyperlink) { set; } | 设置片段超链接 |
-| [IsAutoSequence](../../aspose.pdf/heading/isautosequence) { get; set; } | 获取标题应自动编号。 |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示该段落是否位于下一列。 默认为 false。（用于 pdf 生成） |
+| [IsAutoSequence](../../aspose.pdf/heading/isautosequence) { get; set; } | 获取标题应该自动编号。 |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示此段落是否将在下一列。 默认为 false。（用于 pdf 生成） |
 | [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | 获取或设置段落是内联的。 默认为 false。（用于 pdf 生成） |
 | [IsInList](../../aspose.pdf/heading/isinlist) { get; set; } | 获取标题应该在目录列表中。 |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置强制此段落在新页面生成的布尔值。 默认为 false。（用于 pdf 生成） |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一段保持在同一页面中。 默认为 false。（用于 pdf 生成） |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置一个 bool 值，强制此段落在新页面生成。 默认为 false。（用于 pdf 生成） |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一个段落保持在同一页面中。 默认为 false。（用于 pdf 生成） |
 | [Level](../../aspose.pdf/heading/level) { get; set; } | 获取关卡。 |
 | [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | 获取或设置段落的外边距（用于生成 pdf） |
 | [Page](../../aspose.pdf.text/textfragment/page) { get; } | 获取包含 TextFragment 的页面 |
-| [Position](../../aspose.pdf.text/textfragment/position) { get; set; } | 获取或设置文本的文本位置，用[`TextFragment`](../../aspose.pdf.text/textfragment)对象表示。 |
+| [Position](../../aspose.pdf.text/textfragment/position) { get; set; } | 获取或设置文本的文本位置，用[`TextFragment`](../../aspose.pdf.text/textfragment)对象. |
 | [Rectangle](../../aspose.pdf.text/textfragment/rectangle) { get; } | 获取 TextFragment 的矩形 |
-| [ReplaceOptions](../../aspose.pdf.text/textfragment/replaceoptions) { get; } | 获取文本替换选项。这些选项定义了片段文本被替换为更短/更长时的行为。 |
-| [Segments](../../aspose.pdf.text/textfragment/segments) { get; set; } | 获取当前[`TextFragment`](../../aspose.pdf.text/textfragment)的文本段。 |
+| [ReplaceOptions](../../aspose.pdf.text/textfragment/replaceoptions) { get; } | 获取文本替换选项。选项定义片段文本替换为更短/更长时的行为。 |
+| [Segments](../../aspose.pdf.text/textfragment/segments) { get; set; } | 获取当前文本段[`TextFragment`](../../aspose.pdf.text/textfragment). |
 | [StartNumber](../../aspose.pdf/heading/startnumber) { get; set; } | 获取航向起始编号。 |
 | [Style](../../aspose.pdf/heading/style) { get; set; } | 获取或设置样式。 |
-| [Text](../../aspose.pdf.text/textfragment/text) { get; set; } | 获取或设置String文本对象[`TextFragment`](../../aspose.pdf.text/textfragment)对象代表。 |
-| [TextState](../../aspose.pdf.text/textfragment/textstate) { get; } | 获取或设置[`TextFragment`](../../aspose.pdf.text/textfragment)对象所代表的文本的文本状态。 |
+| [Text](../../aspose.pdf.text/textfragment/text) { get; set; } | 获取或设置String文本对象[`TextFragment`](../../aspose.pdf.text/textfragment)对象代表. |
+| [TextState](../../aspose.pdf.text/textfragment/textstate) { get; } | 获取或设置文本的文本状态[`TextFragment`](../../aspose.pdf.text/textfragment)对象代表. |
 | [TocPage](../../aspose.pdf/heading/tocpage) { get; set; } | 获取包含此标题的页面。 |
 | [Top](../../aspose.pdf/heading/top) { get; set; } | 获取此标题的顶部 Y。 |
 | [UserLabel](../../aspose.pdf/heading/userlabel) { get; set; } | 获取或设置用户标签。 |
 | override [VerticalAlignment](../../aspose.pdf.text/textfragment/verticalalignment) { get; set; } | 获取或设置文本片段的垂直对齐方式。 |
 | [WrapLinesCount](../../aspose.pdf.text/textfragment/wraplinescount) { get; set; } | 获取或设置此段落的换行数（仅用于 pdf 生成） |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个表示图形 Z 顺序的 int 值。具有较大 ZIndex 的图形将放置在具有较小 ZIndex 的图形上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中文本的后面。 |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个 int 值，指示图形的 Z 顺序。 ZIndex 较大的图将放置在 ZIndex 较小的图上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中的文本后面。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | override [Clone](../../aspose.pdf/heading/clone)() | 克隆标题。 |
-| override [CloneWithSegments](../../aspose.pdf/heading/clonewithsegments)() | 克隆包含所有段的标题。 |
-| [IsolateTextSegments](../../aspose.pdf.text/textfragment/isolatetextsegments)(int, int) | 获取[`TextSegment`](../../aspose.pdf.text/textsegment)(s) 表示TextFragment文本。 |
+| override [CloneWithSegments](../../aspose.pdf/heading/clonewithsegments)() | 克隆所有段的标题。 |
+| [IsolateTextSegments](../../aspose.pdf.text/textfragment/isolatetextsegments)(int, int) | 获取[`TextSegment`](../../aspose.pdf.text/textsegment)(s) 代表指定部分[`TextFragment`](../../aspose.pdf.text/textfragment)文本. |
 
 ### 也可以看看
 

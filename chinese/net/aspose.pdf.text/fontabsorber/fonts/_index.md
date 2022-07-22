@@ -1,14 +1,14 @@
 ---
 title: Fonts
 second_title: Aspose.PDF for .NET API 参考
-description: 获取与Fontaspose.pdf.text/font对象一起呈现的搜索事件的集合
+description: 获取出现的搜索事件的集合Fontaspose.pdf.text/font对象.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/fontabsorber/fonts/
 ---
 ## FontAbsorber.Fonts property
 
-获取与[`Font`](../../font)对象一起呈现的搜索事件的集合。
+获取出现的搜索事件的集合[`Font`](../../font)对象.
 
 ```csharp
 public FontCollection Fonts { get; }

@@ -1,14 +1,14 @@
 ---
 title: ExtractOcrSublayerOnly
 second_title: Aspose.PDF for .NET API 参考
-description: 此属性开启了提取图像或文本的功能 用于具有 OCR 子层的 PDF 文档
+description: 这个属性开启了为带有 OCR 子层的 PDF 文档提取图像或文本 的功能
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/
 ---
 ## UnifiedSaveOptions.ExtractOcrSublayerOnly property
 
-此属性开启了提取图像或文本的功能 用于具有 OCR 子层的 PDF 文档。
+这个属性开启了为带有 OCR 子层的 PDF 文档提取图像或文本 的功能。
 
 ```csharp
 public bool ExtractOcrSublayerOnly { get; set; }
@@ -16,7 +16,7 @@ public bool ExtractOcrSublayerOnly { get; set; }
 
 ### 适当的价值
 
-` true` 文本将被提取到结果文档中；否则，` false` 。
+`真的`文本将被提取到结果文档中；否则，`错误的`.
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public static string ScalingModeToName(ScalingMode mode)
 
 ### Возвращаемое значение
 
-Имя режима масштабирования.
+Название режима масштабирования.
 
 ### Смотрите также
 

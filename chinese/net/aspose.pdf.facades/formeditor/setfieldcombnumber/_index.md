@@ -1,14 +1,14 @@
 ---
 title: SetFieldCombNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 设置常规单行文本字段的梳数该字段为 自动划分为尽可能多的等间距位置或梳 作为 combNumber 参数的值
+description: 设置常规单行文本字段的梳数字段为 自动划分为等间距位置或梳子 作为 combNumber 参数的值
 type: docs
 weight: 340
 url: /zh/net/aspose.pdf.facades/formeditor/setfieldcombnumber/
 ---
 ## FormEditor.SetFieldCombNumber method
 
-设置常规单行文本字段的梳数（该字段为 自动划分为尽可能多的等间距位置或梳， 作为 combNumber 参数的值）。
+设置常规单行文本字段的梳数（字段为 自动划分为等间距位置或梳子， 作为 combNumber 参数的值）。
 
 ```csharp
 public bool SetFieldCombNumber(string fieldName, int combNumber)
@@ -16,12 +16,12 @@ public bool SetFieldCombNumber(string fieldName, int combNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 限定字段名。 |
-| combNumber | Int32 | 将字段划分为的梳数。 |
+| fieldName | String | 限定的字段名称。 |
+| combNumber | Int32 | 要将字段划分为的梳数。 |
 
 ### 返回值
 
-如果成功，返回真；否则返回假。
+如果成功，则返回 true；否则返回 false。
 
 ### 例子
 

@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Aspose.PDF for .NET API 参考
-description: 在转换过程中获取或设置分辨率分辨率越高转换速度越慢默认值为 150
+description: 在转换过程中获取或设置分辨率分辨率越高转换速度越慢默认值为 150.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdfconverter/resolution/
 ---
 ## PdfConverter.Resolution property
 
-在转换过程中获取或设置分辨率。分辨率越高，转换速度越慢。默认值为 150。
+在转换过程中获取或设置分辨率。分辨率越高，转换速度越慢。默认值为 150.
 
 ```csharp
 public Resolution Resolution { get; set; }

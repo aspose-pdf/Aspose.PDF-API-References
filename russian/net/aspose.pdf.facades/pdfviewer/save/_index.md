@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.PDF для справочника API .NET
-description: Сохраняет полученный PDF-документ в файл.
+description: Сохраняет результирующий PDF-документ в файл.
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdfviewer/save/
 ---
 ## Save(string) {#save_1}
 
-Сохраняет полученный PDF-документ в файл.
+Сохраняет результирующий PDF-документ в файл.
 
 ```csharp
 public void Save(string destFile)

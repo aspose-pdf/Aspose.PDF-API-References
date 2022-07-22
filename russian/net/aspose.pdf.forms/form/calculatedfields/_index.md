@@ -1,14 +1,14 @@
 ---
 title: CalculatedFields
 second_title: Aspose.PDF для справочника API .NET
-description: Позволяет установить порядок вычисления полей.
+description: Позволяет задать порядок расчета полей.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/form/calculatedfields/
 ---
 ## Form.CalculatedFields property
 
-Позволяет установить порядок вычисления полей.
+Позволяет задать порядок расчета полей.
 
 ```csharp
 public IEnumerable<Field> CalculatedFields { set; }

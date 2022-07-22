@@ -1,14 +1,14 @@
 ---
 title: DarkKhaki
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FFBDB76B 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FFBDB76B.
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf/color/darkkhaki/
 ---
 ## Color.DarkKhaki property
 
-获取 ARGB 值为 #FFBDB76B 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FFBDB76B.
 
 ```csharp
 public static Color DarkKhaki { get; }
@@ -16,7 +16,7 @@ public static Color DarkKhaki { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

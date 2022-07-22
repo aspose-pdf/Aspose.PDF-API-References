@@ -16,7 +16,7 @@ public void Replace(int index, Stream stream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 将被替换的收集项目的索引。 |
+| index | Int32 | 将被替换的集合项目的索引。 |
 | stream | Stream | 包含图像数据的流（JPEG 格式）。 |
 
 ### 也可以看看
@@ -37,10 +37,10 @@ public void Replace(int index, Stream stream, int quality, bool isBlackAndWhite)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 将被替换的收集项目的索引。 |
+| index | Int32 | 将被替换的集合项目的索引。 |
 | stream | Stream | 包含图像数据的流（JPEG 格式）。 |
 | quality | Int32 | JPEG 压缩质量，以百分比表示（有效值为 0..100）。 |
-| isBlackAndWhite | Boolean | 如果为真，则使用 CCITT 压缩方法压缩图像，该方法可为黑白图像提供更好的压缩。只能用于黑白图像。 |
+| isBlackAndWhite | Boolean | 如果为真，则使用 CCITT 压缩方法压缩图像，该方法为黑白图像提供更好的压缩。只能用于黑白图像。 |
 
 ### 也可以看看
 
@@ -60,7 +60,7 @@ public void Replace(int index, Stream stream, int quality)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 将被替换的收集项目的索引。 |
+| index | Int32 | 将被替换的集合项目的索引。 |
 | stream | Stream | 包含图像数据的流（JPEG 格式）。 |
 | quality | Int32 | JPEG 质量。 |
 

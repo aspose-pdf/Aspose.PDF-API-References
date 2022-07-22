@@ -1,14 +1,14 @@
 ---
 title: WrapMode
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает режим переноса слов. Значение по умолчаниюWordWrapMode.NoWrap
+description: Получает или задает режим переноса слов. Значение по умолчанию  WordWrapMode.NoWrap
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textformattingoptions/wrapmode/
 ---
 ## TextFormattingOptions.WrapMode property
 
-Получает или устанавливает режим переноса слов. Значение по умолчанию:WordWrapMode.NoWrap
+Получает или задает режим переноса слов. Значение по умолчанию — WordWrapMode.NoWrap
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }

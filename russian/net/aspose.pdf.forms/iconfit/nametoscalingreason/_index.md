@@ -16,7 +16,7 @@ public static ScalingReason NameToScalingReason(string reason)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| reason | String | Имя причины масштабирования. |
+| reason | String | Название причины масштабирования. |
 
 ### Возвращаемое значение
 

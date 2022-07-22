@@ -18,16 +18,16 @@ public sealed class ThumbnailDevice : ImageDevice
 
 | Имя | Описание |
 | --- | --- |
-| [ThumbnailDevice](thumbnaildevice#constructor)() | Инициализирует новый экземпляр класса[`ThumbnailDevice`](../thumbnaildevice) размером по умолчанию уменьшенное изображение (200x200 пикселей). |
-| [ThumbnailDevice](thumbnaildevice#constructor_1)(int, int) | Инициализирует новый экземпляр класса[`ThumbnailDevice`](../thumbnaildevice). |
+| [ThumbnailDevice](thumbnaildevice#constructor)() | Инициализирует новый экземпляр[`ThumbnailDevice`](../thumbnaildevice) class с размером миниатюры по умолчанию (200x200 пикселей). |
+| [ThumbnailDevice](thumbnaildevice#constructor_1)(int, int) | Инициализирует новый экземпляр[`ThumbnailDevice`](../thumbnaildevice) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Получает или задает тип координат страницы (поля Media/Crop). Значение CropBox используется по умолчанию. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Получает или задает тип координат страницы (поля мультимедиа/обрезки). Значение CropBox используется по умолчанию. |
 | [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Получает или задает режим представления формы. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Получает высоту выходного изображения. |
+| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Получает высоту вывода изображения. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Получает или задает параметры рендеринга. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Получает разрешение изображения. |
 | [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Получает ширину вывода изображения. |
@@ -37,7 +37,7 @@ public sealed class ThumbnailDevice : ImageDevice
 | Имя | Описание |
 | --- | --- |
 | override [Process](../../aspose.pdf.devices/thumbnaildevice/process#process)(Page, Stream) | Преобразует страницу в уменьшенное изображение png и сохраняет его в выходном потоке. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Выполняет некоторую операцию на данной странице и сохраняет результат в файл. |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Выполняет некоторую операцию на данной странице и сохраняет результаты в файл. |
 
 ### Смотрите также
 

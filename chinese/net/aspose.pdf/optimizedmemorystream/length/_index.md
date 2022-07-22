@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PDF for .NET API 参考
-description: 在派生类中重写时获取流的字节长度
+description: 在派生类中重写时获取流的长度以字节为单位
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/optimizedmemorystream/length/
 ---
 ## OptimizedMemoryStream.Length property
 
-在派生类中重写时，获取流的字节长度。
+在派生类中重写时，获取流的长度（以字节为单位）。
 
 ```csharp
 public override long Length { get; }
@@ -16,7 +16,7 @@ public override long Length { get; }
 
 ### 返回值
 
-长值表示流的长度（以字节为单位）。
+一个长值，表示流的长度（以字节为单位）。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API 参考
-description: 检查集合中是否存在项目抛出 NotImplementedException 
+description: 检查集合中是否存在项目抛出未实现异常.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.forms/optioncollection/contains/
 ---
 ## OptionCollection.Contains method
 
-检查集合中是否存在项目，抛出 NotImplementedException 。
+检查集合中是否存在项目，抛出未实现异常.
 
 ```csharp
 public bool Contains(Option item)
@@ -16,11 +16,11 @@ public bool Contains(Option item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Option | 要查找的操作符项目。 |
+| item | Option | 要查找的操作员项目。 |
 
 ### 返回值
 
-抛出 NotImplementedException
+投掷未实现异常
 
 ### 也可以看看
 

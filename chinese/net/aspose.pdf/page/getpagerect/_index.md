@@ -16,7 +16,7 @@ public Rectangle GetPageRect(bool considerRotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| considerRotation | Boolean | 如果为真，则在矩形计算中将考虑页面的旋转。 |
+| considerRotation | Boolean | 如果为 true，则在 rect 计算中将考虑页面的旋转。 |
 
 ### 返回值
 

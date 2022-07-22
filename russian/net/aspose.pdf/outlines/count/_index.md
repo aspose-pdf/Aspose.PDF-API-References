@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Получает количество.
+description: Получает счет.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/outlines/count/
 ---
 ## Outlines.Count property
 
-Получает количество.
+Получает счет.
 
 ```csharp
 public abstract int Count { get; }

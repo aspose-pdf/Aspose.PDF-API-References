@@ -1,14 +1,14 @@
 ---
 title: OnExit
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает действие которое будет выполняться когда курсор покидает активную область аннотации.
+description: Получает или задает действие которое должно быть выполнено когда курсор покидает активную область аннотации.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onexit/
 ---
 ## AnnotationActionCollection.OnExit property
 
-Получает или задает действие, которое будет выполняться, когда курсор покидает активную область аннотации.
+Получает или задает действие, которое должно быть выполнено, когда курсор покидает активную область аннотации.
 
 ```csharp
 public PdfAction OnExit { get; set; }

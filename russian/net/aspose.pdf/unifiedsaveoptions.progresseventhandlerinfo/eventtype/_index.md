@@ -1,14 +1,14 @@
 ---
 title: EventType
 second_title: Aspose.PDF для справочника API .NET
-description: Тип произошедшего события прогресса
+description: Тип события выполнения которое произошло
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.EventType field
 
-Тип произошедшего события прогресса
+Тип события выполнения, которое произошло
 
 ```csharp
 public ProgressEventType EventType;

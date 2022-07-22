@@ -1,14 +1,14 @@
 ---
 title: FontName
 second_title: Aspose.PDF for .NET API 参考
-description: 获取Fontaspose.pdf.text/font对象的字体名称
+description: 获取字体名称Fontaspose.pdf.text/font对象.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/font/fontname/
 ---
 ## Font.FontName property
 
-获取[`Font`](../../font)对象的字体名称。
+获取字体名称[`Font`](../../font)对象.
 
 ```csharp
 public string FontName { get; }
@@ -20,16 +20,16 @@ public string FontName { get; }
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 查看第一个文本出现的字体名称
-nsole.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
+Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
 ```
 
 ### 也可以看看

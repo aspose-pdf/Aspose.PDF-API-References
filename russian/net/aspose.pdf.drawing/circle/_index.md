@@ -18,17 +18,17 @@ public sealed class Circle : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Circle](circle)(float, float, float) | Инициализирует новый экземпляр класса[`Circle`](../circle). |
+| [Circle](circle)(float, float, float) | Инициализирует новый экземпляр[`Circle`](../circle) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает объект[`GraphInfo`](../shape/graphinfo), который указывает информацию о графике, такую как цвет ширина строки и т.д. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает[`GraphInfo`](../shape/graphinfo) объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д. |
 | [PosX](../../aspose.pdf.drawing/circle/posx) { get; set; } | Получает или задает значение с плавающей запятой, указывающее координату x центра круга. |
-| [PosY](../../aspose.pdf.drawing/circle/posy) { get; set; } | Получает или задает значение с плавающей запятой, указывающее координату Y центра круга. |
-| [Radius](../../aspose.pdf.drawing/circle/radius) { get; set; } | Получает или задает значение с плавающей запятой, указывающее радиус окружности. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для фигуры |
+| [PosY](../../aspose.pdf.drawing/circle/posy) { get; set; } | Получает или задает значение с плавающей запятой, указывающее координату y центра круга. |
+| [Radius](../../aspose.pdf.drawing/circle/radius) { get; set; } | Получает или задает значение с плавающей запятой, указывающее радиус круга. |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для shape |
 
 ### Смотрите также
 

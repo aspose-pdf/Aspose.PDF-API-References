@@ -1,0 +1,65 @@
+---
+title: PdfBookmarkEditor
+second_title: Aspose.PDF per .NET API Reference
+description: Rappresenta una classe per lavorare con i segnalibri del file PDF inclusa la creazione la modifica lesportazione limportazione e leliminazione.
+type: docs
+weight: 2430
+url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/
+---
+## PdfBookmarkEditor class
+
+Rappresenta una classe per lavorare con i segnalibri del file PDF, inclusa la creazione, la modifica, l'esportazione, l'importazione e l'eliminazione.
+
+```csharp
+public sealed class PdfBookmarkEditor : SaveableFacade
+```
+
+## Costruttori
+
+| Nome | Descrizione |
+| --- | --- |
+| [PdfBookmarkEditor](pdfbookmarkeditor#constructor)() | Inizializza nuovo[`PdfBookmarkEditor`](../pdfbookmarkeditor) oggetto. |
+| [PdfBookmarkEditor](pdfbookmarkeditor#constructor_1)(Document) | Inizializza nuovo[`PdfBookmarkEditor`](../pdfbookmarkeditor) oggetto sulla base del*document* . |
+
+## Proprietà
+
+| Nome | Descrizione |
+| --- | --- |
+| [Document](../../aspose.pdf.facades/facade/document) { get; } | Ottiene la facciata del documento su cui sta lavorando. |
+
+## Metodi
+
+| Nome | Descrizione |
+| --- | --- |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Inizializza la facciata. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Inizializza la facciata. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Inizializza la facciata. |
+| virtual [Close](../../aspose.pdf.facades/facade/close)() | Dispose Aspose.Pdf.Document rilegato con una facciata. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage)(string, int) | Crea segnalibro per la pagina specificata. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage_1)(string[], int[]) | Crea segnalibri per le pagine specificate. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks)() | Crea segnalibri per tutte le pagine. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_1)(Bookmark) | Crea il segnalibro specificato nel documento. Il metodo può essere utilizzato per formare una gerarchia di segnalibri nidificati. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_2)(Color, bool, bool) | Crea segnalibri per tutte le pagine con il colore e lo stile specificati (grassetto, corsivo). |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks)() | Elimina tutti i segnalibri del documento PDF. |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks_1)(string) | Elimina il segnalibro del documento PDF. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Elimina la facciata. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml)(Stream) | Esporta i segnalibri nel flusso XML. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml_1)(string) | Esporta i segnalibri in un file XML. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks)() | Estrae i segnalibri di tutti i livelli dal documento. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_1)(Bookmark) | Estrae i figli di un segnalibro con un titolo come in bookamrk specificato. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_2)(bool) | Estrae i segnalibri di tutti i livelli dal documento. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_3)(string) | Estrae i segnalibri con il titolo specificato. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml)(Stream) | Importa i segnalibri nel documento dal file XML. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml_1)(string) | Importa i segnalibri nel documento dal file XML. |
+| [ModifyBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks)(string, string) | Modifica il titolo del segnalibro in base al titolo del segnalibro specificato. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | Salva il documento PDF nel flusso specificato. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | Salva il documento PDF nel file specificato. |
+| static [ExportBookmarksToHtml](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml)(string, string) | Esporta i segnalibri in un file HTML. |
+
+### Guarda anche
+
+* class [SaveableFacade](../saveablefacade)
+* spazio dei nomi [Aspose.Pdf.Facades](../../aspose.pdf.facades)
+* assemblea [Aspose.PDF](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

@@ -1,14 +1,14 @@
 ---
 title: IsTransferInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает следует ли передавать данные из информации в метаданные при преобразовании в PDF 2.0. Верно по умолчанию.
+description: Получает или задает следует ли передавать данные из информации в метаданные при преобразовании в PDF 2.0. Истинно по умолчанию.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/istransferinfo/
 ---
 ## PdfFormatConversionOptions.IsTransferInfo property
 
-Получает или задает, следует ли передавать данные из информации в метаданные при преобразовании в PDF 2.0. Верно по умолчанию.
+Получает или задает, следует ли передавать данные из информации в метаданные при преобразовании в PDF 2.0. Истинно по умолчанию.
 
 ```csharp
 public bool IsTransferInfo { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RemoveAllText
 second_title: Aspose.PDF for .NET API 参考
-description: 从指定页面中删除所有文本
+description: 删除指定页面中的所有文本
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/removealltext/
 ---
 ## RemoveAllText(Page) {#removealltext_1}
 
-从指定页面中删除所有文本。
+删除指定页面中的所有文本。
 
 ```csharp
 public void RemoveAllText(Page page)
@@ -38,7 +38,7 @@ public void RemoveAllText(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | PDF 文档页面对象。 |
-| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle)删除里面的文本。 |
+| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle)删除里面的文字。 |
 
 ### 也可以看看
 

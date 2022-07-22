@@ -18,7 +18,7 @@ public class SetGrayStroke : SetColorOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetGrayStroke](setgraystroke)(double) | 用指定的颜色初始化操作符。 |
+| [SetGrayStroke](setgraystroke)(double) | 用指定的颜色初始化算子。 |
 
 ## 特性
 
@@ -31,8 +31,8 @@ public class SetGrayStroke : SetColorOperator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setgraystroke/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor)() | 返回运算符指定的颜色。 |
-| override [ToString](../../aspose.pdf.operators/setgraystroke/tostring)() | 返回运算符的文本表示。 |
+| override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor)() | 返回操作员指定的颜色。 |
+| override [ToString](../../aspose.pdf.operators/setgraystroke/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

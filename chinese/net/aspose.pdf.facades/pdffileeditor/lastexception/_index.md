@@ -1,14 +1,14 @@
 ---
 title: LastException
 second_title: Aspose.PDF for .NET API 参考
-description: 获取上次发生的异常可用于检查失败的原因
+description: 获取最后发生的异常可用于检查失败原因
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.facades/pdffileeditor/lastexception/
 ---
 ## PdfFileEditor.LastException property
 
-获取上次发生的异常。可用于检查失败的原因。
+获取最后发生的异常。可用于检查失败原因。
 
 ```csharp
 public Exception LastException { get; }

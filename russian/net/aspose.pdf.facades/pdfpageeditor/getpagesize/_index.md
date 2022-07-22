@@ -24,7 +24,7 @@ public PageSize GetPageSize(int page)
 
 ### Примеры
 
-Следующий пример демонстрирует использование метода GetPageSize:
+В следующем примере демонстрируется использование метода GetPageSize:
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

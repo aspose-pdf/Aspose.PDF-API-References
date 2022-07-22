@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает заголовок документа.
+description: Получает или задает заголовок документа.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/documentinfo/title/
 ---
 ## DocumentInfo.Title property
 
-Получает или устанавливает заголовок документа.
+Получает или задает заголовок документа.
 
 ```csharp
 public string Title { get; set; }

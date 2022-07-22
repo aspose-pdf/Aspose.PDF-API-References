@@ -1,14 +1,14 @@
 ---
 title: MaxFontsCacheSize
 second_title: Aspose.PDF for .NET API 参考
-description: 字体缓存中字体的最大数量默认值为 10
+description: 字体缓存中字体的最大计数默认值为 10.
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/renderingoptions/maxfontscachesize/
 ---
 ## RenderingOptions.MaxFontsCacheSize property
 
-字体缓存中字体的最大数量。默认值为 10。
+字体缓存中字体的最大计数。默认值为 10.
 
 ```csharp
 public int MaxFontsCacheSize { get; set; }

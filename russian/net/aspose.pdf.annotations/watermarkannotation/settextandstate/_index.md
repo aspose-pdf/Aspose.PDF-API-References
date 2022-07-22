@@ -17,7 +17,7 @@ public void SetTextAndState(string[] text, TextState textState)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | text | String[] | Текстовое значение. |
-| textState | TextState | Состояние текста. |
+| textState | TextState | Текстовое состояние. |
 
 ### Смотрите также
 

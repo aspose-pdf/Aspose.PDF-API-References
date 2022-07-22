@@ -16,7 +16,7 @@ public ExtractImageMode ExtractImageMode { get; set; }
 
 ### Примечания
 
-Значение по умолчанию — ExtractImageMode.DefinedInResources, которое извлекает все изображения, определенные в ресурсах. Для извлечения реально отображаемых изображений следует использовать режим ExtractImageMode.ActuallyUsed.
+Значение по умолчанию — ExtractImageMode.DefinedInResources, при котором извлекаются все изображения, определенные в ресурсах. Для извлечения фактически отображаемых изображений следует использовать режим ExtractImageMode.ActuallyUsed.
 
 ### Смотрите также
 

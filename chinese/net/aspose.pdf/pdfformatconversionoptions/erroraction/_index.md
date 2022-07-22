@@ -1,14 +1,14 @@
 ---
 title: ErrorAction
 second_title: Aspose.PDF for .NET API 参考
-description: 对无法转换的对象的操作
+description: 无法转换的对象的操作
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/erroraction/
 ---
 ## PdfFormatConversionOptions.ErrorAction property
 
-对无法转换的对象的操作
+无法转换的对象的操作
 
 ```csharp
 public ConvertErrorAction ErrorAction { get; set; }

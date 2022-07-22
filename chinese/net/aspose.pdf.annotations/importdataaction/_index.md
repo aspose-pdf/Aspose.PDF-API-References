@@ -1,14 +1,14 @@
 ---
 title: ImportDataAction
 second_title: Aspose.PDF for .NET API 参考
-description: 在调用导入数据操作时表单数据格式 FDF 数据应从指定文件导入文档的交互式表单
+description: 在调用导入数据操作时表单数据格式 FDF 数据应从指定文件导入到文档的交互式表单中
 type: docs
 weight: 530
 url: /zh/net/aspose.pdf.annotations/importdataaction/
 ---
 ## ImportDataAction class
 
-在调用导入数据操作时，表单数据格式 (FDF) 数据应从指定文件导入文档的交互式表单。
+在调用导入数据操作时，表单数据格式 (FDF) 数据应从指定文件导入到文档的交互式表单中。
 
 ```csharp
 public class ImportDataAction : PdfAction

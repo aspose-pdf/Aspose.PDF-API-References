@@ -1,14 +1,14 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF для справочника API .NET
-description: ПолучитьStructureTextStateaspose.pdf.logicalstructure/structuretextstateнастройки для всего документа.
+description: ПолучитьStructureTextStateaspose.pdf.logicalstructure/structuretextstate настройки для всего документа.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
 ## ITaggedContent.StructureTextState property
 
-Получить[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate)настройки для всего документа.
+Получить[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate) настройки для всего документа.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
@@ -16,7 +16,7 @@ public StructureTextState StructureTextState { get; }
 
 ### Стоимость имущества
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate)настройки для всего документа.
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate) настройки для всего документа.
 
 ### Смотрите также
 

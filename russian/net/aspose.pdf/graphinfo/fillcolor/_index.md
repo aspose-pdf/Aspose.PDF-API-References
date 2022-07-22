@@ -1,14 +1,14 @@
 ---
 title: FillColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектColoraspose.pdf/graphinfo/color указывающий цвет заливки графика.
+description: Получает или задаетColoraspose.pdf/graphinfo/color объект указывающий цвет заливки графика.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/graphinfo/fillcolor/
 ---
 ## GraphInfo.FillColor property
 
-Получает или задает объект[`Color`](../color), указывающий цвет заливки графика.
+Получает или задает[`Color`](../color) объект, указывающий цвет заливки графика.
 
 ```csharp
 public Color FillColor { get; set; }

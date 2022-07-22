@@ -18,15 +18,15 @@ public sealed class Margins
 
 | Имя | Описание |
 | --- | --- |
-| [Margins](margins#constructor)() | Инициализирует новый экземпляр класса[`Margins`](../margins) . |
-| [Margins](margins#constructor_1)(int, int, int, int) | Инициализирует новый экземпляр класса[`Margins`](../margins) . |
+| [Margins](margins#constructor)() | Инициализирует новый экземпляр[`Margins`](../margins) класс. |
+| [Margins](margins#constructor_1)(int, int, int, int) | Инициализирует новый экземпляр[`Margins`](../margins) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.pdf.devices/margins/bottom) { get; set; } | Получает или устанавливает нижнюю часть. |
-| [Left](../../aspose.pdf.devices/margins/left) { get; set; } | Получает или устанавливает значение слева. |
+| [Bottom](../../aspose.pdf.devices/margins/bottom) { get; set; } | Получает или задает нижнюю часть. |
+| [Left](../../aspose.pdf.devices/margins/left) { get; set; } | Получает или задает значение слева. |
 | [Right](../../aspose.pdf.devices/margins/right) { get; set; } | Получает или устанавливает право. |
 | [Top](../../aspose.pdf.devices/margins/top) { get; set; } | Получает или устанавливает верхнюю часть. |
 

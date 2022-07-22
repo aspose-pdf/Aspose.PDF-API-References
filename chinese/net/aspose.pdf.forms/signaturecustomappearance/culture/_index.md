@@ -1,14 +1,14 @@
 ---
 title: Culture
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置文化信息值默认值不变文化
+description: 获取/设置文化信息值默认值InvariantCulture.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/culture/
 ---
 ## SignatureCustomAppearance.Culture property
 
-获取/设置文化信息值。默认值:不变文化。
+获取/设置文化信息值。默认值：InvariantCulture.
 
 ```csharp
 public CultureInfo Culture { get; set; }

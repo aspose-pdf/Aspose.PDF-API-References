@@ -1,14 +1,14 @@
 ---
 title: Append
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет страницы выбранные из массива документов в portStreams. Результирующий документ включает страницы firstInputFile и всех документов portStreams в диапазоне от startPage до endPage.
+description: Добавляет страницы выбранные из массива документов в portStreams. Результирующий документ включает firstInputFile и все страницы документов portStreams в диапазоне от startPage до endPage.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/pdffileeditor/append/
 ---
 ## Append(Stream, Stream[], int, int, Stream) {#append_1}
 
-Добавляет страницы, выбранные из массива документов в portStreams. Результирующий документ включает страницы firstInputFile и всех документов portStreams в диапазоне от startPage до endPage.
+Добавляет страницы, выбранные из массива документов в portStreams. Результирующий документ включает firstInputFile и все страницы документов portStreams в диапазоне от startPage до endPage.
 
 ```csharp
 public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -17,15 +17,15 @@ public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной поток Pdf. |
-| portStreams | Stream[] | Документы для копирования страниц. |
+| inputStream | Stream | Входной поток PDF. |
+| portStreams | Stream[] | Документы, из которых нужно скопировать страницы. |
 | startPage | Int32 | Страница начинается в документах portStreams. |
 | endPage | Int32 | Страница заканчивается в документах portStreams. |
-| outputStream | Stream | Вывод потока Pdf. |
+| outputStream | Stream | Выходной поток PDF. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -48,7 +48,7 @@ fileEditor.Append(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 
 ## Append(string, string[], int, int, string) {#append_4}
 
-Добавляет страницы, выбранные из документов portFiles. Результирующий документ включает страницы документов firstInputFile и всех portFiles в диапазоне от startPage до endPage.
+Добавляет страницы, выбранные из документов portFiles. Результирующий документ включает firstInputFile и все страницы документов portFiles в диапазоне от startPage до endPage.
 
 ```csharp
 public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
@@ -57,11 +57,11 @@ public bool Append(string inputFile, string[] portFiles, int startPage, int endP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Входной файл Pdf. |
-| portFiles | String[] | Документы для копирования страниц. |
+| inputFile | String | Входной файл PDF. |
+| portFiles | String[] | Документы, из которых нужно скопировать страницы. |
 | startPage | Int32 | Страница начинается в документах portFiles. |
-| endPage | Int32 | Страница заканчивается в документах portFiles . |
-| outputFile | String | Вывод PDF-документа. |
+| endPage | Int32 | Страница заканчивается в документах portFiles. |
+| outputFile | String | Выходной PDF-документ. |
 
 ### Возвращаемое значение
 
@@ -92,11 +92,11 @@ public bool Append(string inputFile, string portFile, int startPage, int endPage
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Входной файл Pdf. |
+| inputFile | String | Входной файл PDF. |
 | portFile | String | Страницы из файла PDF. |
-| startPage | Int32 | Страница начинается в файле порта. |
+| startPage | Int32 | Страница начинается в portFile. |
 | endPage | Int32 | Страница заканчивается в portFile. |
-| outputFile | String | Вывод PDF-документа. |
+| outputFile | String | Выходной PDF-документ. |
 
 ### Возвращаемое значение
 
@@ -128,15 +128,15 @@ public bool Append(Stream inputStream, Stream portStream, int startPage, int end
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входного файла. |
+| inputStream | Stream | Входной файл Поток. |
 | portStream | Stream | Страницы из файла Pdf Stream. |
-| startPage | Int32 | Страница начинается в потоке portFile. |
-| endPage | Int32 | Страница заканчивается в потоке portFile. |
-| outputStream | Stream | Выходной файл Pdf Поток. |
+| startPage | Int32 | Страница начинается в порту File Stream. |
+| endPage | Int32 | Страница заканчивается в portFile Stream. |
+| outputStream | Stream | Выходной файл Pdf Stream. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -158,7 +158,7 @@ fileEditor.Append(instream, stream1,  3, 5, "outfile.pdf");
 
 ## Append(Stream, Stream[], int, int, HttpResponse) {#append_2}
 
-Добавляет документы в исходный документ и сохраняет результат в объект ответа.
+Добавляет документы в исходный документ и сохраняет результат в объекте ответа.
 
 ```csharp
 public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -169,7 +169,7 @@ public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int 
 | --- | --- | --- |
 | inputStream | Stream | Поток, содержащий исходный документ. |
 | portStreams | Stream[] | Массив потоков с добавляемыми документами. |
-| startPage | Int32 | Начальная страница добавленной страницы. |
+| startPage | Int32 | Стартовая страница добавленной страницы. |
 | endPage | Int32 | Конечная страница добавленных страниц. |
 | response | HttpResponse | Объект ответа, в котором будет сохранен документ. |
 
@@ -187,7 +187,7 @@ true, если операция прошла успешно.
 
 ## Append(string, string[], int, int, HttpResponse) {#append_5}
 
-Добавляет документы в исходный документ и сохраняет результат в объект HttpResponse.
+Добавляет документы в исходный документ и сохраняет результат в объекте HttpResponse.
 
 ```csharp
 public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
@@ -198,7 +198,7 @@ public bool Append(string inputFile, string[] portFiles, int startPage, int endP
 | --- | --- | --- |
 | inputFile | String | Имя файла, содержащего исходный документ. |
 | portFiles | String[] | Массив имен файлов, содержащих присоединенные документы. |
-| startPage | Int32 | Начальная страница добавленных страниц. |
+| startPage | Int32 | Стартовая страница добавленных страниц. |
 | endPage | Int32 | Конечная страница добавленных страниц. |
 | response | HttpResponse | Объект ответа, в котором будет сохранен документ. |
 

@@ -1,14 +1,14 @@
 ---
 title: Process
 second_title: Aspose.PDF для справочника API .NET
-description: Выполняет некоторую операцию над данной страницей например конвертирует страницу в графическое изображение.
+description: Выполняет какую-либо операцию на данной странице например конвертирует страницу в графическое изображение.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/pagedevice/process/
 ---
 ## Process(Page, Stream) {#process}
 
-Выполняет некоторую операцию над данной страницей, например, конвертирует страницу в графическое изображение.
+Выполняет какую-либо операцию на данной странице, например, конвертирует страницу в графическое изображение.
 
 ```csharp
 public abstract void Process(Page page, Stream output)
@@ -30,7 +30,7 @@ public abstract void Process(Page page, Stream output)
 
 ## Process(Page, string) {#process_1}
 
-Выполняет некоторую операцию на данной странице и сохраняет результат в файл.
+Выполняет некоторую операцию на данной странице и сохраняет результаты в файл.
 
 ```csharp
 public void Process(Page page, string outputFileName)

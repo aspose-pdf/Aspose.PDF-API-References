@@ -1,14 +1,14 @@
 ---
 title: IsDouble
 second_title: Aspose.PDF for .NET API 参考
-description: 如果 value 是浮点值则返回 true
+description: 如果值为浮点值则返回 true
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/xmpvalue/isdouble/
 ---
 ## XmpValue.IsDouble property
 
-如果 value 是浮点值，则返回 true。
+如果值为浮点值，则返回 true。
 
 ```csharp
 public bool IsDouble { get; }

@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 从集合中移除运算符
+description: 从集合中删除运算符
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/operatorcollection/remove/
 ---
 ## OperatorCollection.Remove method
 
-从集合中移除运算符。
+从集合中删除运算符。
 
 ```csharp
 public override bool Remove(Operator op)

@@ -24,29 +24,29 @@ public sealed class TextParagraph
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent) { get; set; } | 获取或设置后续行的缩进值。 如果设置为非零值，则它优于 FormattingOptions.SubsequentLinesIndent 值。 |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent) { get; set; } | 获取或设置后续行缩进值。 如果设置为非零值，则比 FormattingOptions.SubsequentLinesIndent 值具有优势。 |
 | [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions) { get; set; } | 获取或设置格式选项。 |
-| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment) { get; set; } | 获取或设置段落[`Rectangle`](./rectangle)内文本的水平对齐方式。 |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment) { get; set; } | 获取或设置段落内文本的水平对齐方式[`Rectangle`](./rectangle) |
 | [Justify](../../aspose.pdf.text/textparagraph/justify) { get; set; } | 获取或设置文本是否对齐的值。 |
 | [Margin](../../aspose.pdf.text/textparagraph/margin) { get; set; } | 获取或设置填充。 |
 | [Position](../../aspose.pdf.text/textparagraph/position) { get; set; } | 获取或设置段落的位置。 |
 | [Rectangle](../../aspose.pdf.text/textparagraph/rectangle) { get; set; } | 获取或设置段落的矩形。 |
-| [Rotation](../../aspose.pdf.text/textparagraph/rotation) { get; set; } | 获取或设置旋转角度（以度为单位）。 |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent) { get; set; } | 获取或设置后续行的缩进值。 如果设置为非零值，则它优于 FormattingOptions.SubsequentLinesIndent 值。 |
+| [Rotation](../../aspose.pdf.text/textparagraph/rotation) { get; set; } | 获取或设置以度为单位的旋转角度。 |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent) { get; set; } | 获取或设置后续行缩进值。 如果设置为非零值，则比 FormattingOptions.SubsequentLinesIndent 值具有优势。 |
 | [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle) { get; } | 获取放置在段落中的文本的矩形。 |
-| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment) { get; set; } | 获取或设置段落[`Rectangle`](./rectangle)内文本的垂直对齐方式。 |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment) { get; set; } | 获取或设置段落内文本的垂直对齐方式[`Rectangle`](./rectangle) |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_3)(string) | 追加文本行 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline)(TextFragment) | 附加带有文本状态参数的文本行。 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_3)(string) | 附加文本行 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline)(TextFragment) | 使用文本状态参数附加文本行。 |
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_6)(string, float) | 追加文本行。 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_4)(string, TextState) | 附加带有文本状态参数的文本行。 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_1)(TextFragment, TextState) | 附加带有文本状态参数的文本行。 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_5)(string, TextState, float) | 附加文本行和文本状态参数 |
-| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_2)(TextFragment, TextState, float) | 附加文本行和文本状态参数 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_4)(string, TextState) | 使用文本状态参数附加文本行。 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_1)(TextFragment, TextState) | 使用文本状态参数附加文本行。 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_5)(string, TextState, float) | 附加带有文本状态参数的文本行 |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline#appendline_2)(TextFragment, TextState, float) | 附加带有文本状态参数的文本行 |
 | [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit)() | 开始编辑 TextParagraph。 |
 | [EndEdit](../../aspose.pdf.text/textparagraph/endedit)() | 结束 TextParagraph 的编辑。 |
 
@@ -59,26 +59,25 @@ Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-  // 创建文本段落
+// 创建文本段落
 TextParagraph paragraph = new TextParagraph();
            
-  // 设置段落 rectangle
+// 设置段落矩形
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-  // 设置自动换行选项
+// 设置自动换行选项
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-  // 追加字符串lines
+// 追加字符串行
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-  // 使用 TextBuilder
-页面
+// 使用 TextBuilder 将段落附加到 Pdf 页面
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// 保存 Pdf 文档
+//保存PDF文档
 doc.Save(outFile);
 ```
 

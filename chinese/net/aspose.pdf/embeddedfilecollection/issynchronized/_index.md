@@ -1,14 +1,14 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API 参考
-description: 获取一个值该值指示对该集合的访问是否同步线程安全
+description: 获取一个值该值指示对该集合的访问是否是同步的线程安全的
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/embeddedfilecollection/issynchronized/
 ---
 ## EmbeddedFileCollection.IsSynchronized property
 
-获取一个值，该值指示对该集合的访问是否同步（线程安全）。
+获取一个值，该值指示对该集合的访问是否是同步的（线程安全的）。
 
 ```csharp
 public bool IsSynchronized { get; }

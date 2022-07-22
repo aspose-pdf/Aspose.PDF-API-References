@@ -18,8 +18,8 @@ public sealed class PdfBookmarkEditor : SaveableFacade
 
 | Имя | Описание |
 | --- | --- |
-| [PdfBookmarkEditor](pdfbookmarkeditor#constructor)() | Инициализирует новый объект[`PdfBookmarkEditor`](../pdfbookmarkeditor). |
-| [PdfBookmarkEditor](pdfbookmarkeditor#constructor_1)(Document) | Инициализирует новый[`PdfBookmarkEditor`](../pdfbookmarkeditor)объект на основе*document*. |
+| [PdfBookmarkEditor](pdfbookmarkeditor#constructor)() | Инициализирует новый[`PdfBookmarkEditor`](../pdfbookmarkeditor) объект. |
+| [PdfBookmarkEditor](pdfbookmarkeditor#constructor_1)(Document) | Инициализирует новый[`PdfBookmarkEditor`](../pdfbookmarkeditor) объект на базе*document* . |
 
 ## Характеристики
 
@@ -38,16 +38,16 @@ public sealed class PdfBookmarkEditor : SaveableFacade
 | [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage)(string, int) | Создает закладку для указанной страницы. |
 | [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage_1)(string[], int[]) | Создает закладки для указанных страниц. |
 | [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks)() | Создает закладки для всех страниц. |
-| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_1)(Bookmark) | Создает указанную закладку в документе. Метод может быть использован для формирования иерархии вложенных закладок. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_1)(Bookmark) | Создает указанную закладку в документе. Метод можно использовать для формирования иерархии вложенных закладок. |
 | [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_2)(Color, bool, bool) | Создать закладки для всех страниц с заданным цветом и стилем (жирный, курсив). |
 | [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks)() | Удаляет все закладки документа PDF. |
 | [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks_1)(string) | Удаляет закладку документа PDF. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose)() | Удаляет фасад. |
 | [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml)(Stream) | Экспортирует закладки в поток XML. |
 | [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml_1)(string) | Экспортирует закладки в файл XML. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks)() | Извлекает из документа закладки всех уровней. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks)() | Извлекает закладки всех уровней из документа. |
 | [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_1)(Bookmark) | Извлекает дочерние элементы закладки с заголовком, как в указанной bookamrk. |
-| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_2)(bool) | Извлекает из документа закладки всех уровней. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_2)(bool) | Извлекает закладки всех уровней из документа. |
 | [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_3)(string) | Извлекает закладки с указанным заголовком. |
 | [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml)(Stream) | Импортирует закладки в документ из файла XML. |
 | [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml_1)(string) | Импортирует закладки в документ из файла XML. |

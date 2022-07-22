@@ -18,10 +18,10 @@ public enum SoundSampleDataEncodingFormat
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Raw | `0` | 0 到 2B 范围内的未指定或无符号值 - 1。 |
+| Raw | `0` | 0 到 2B 范围内的未指定或无符号值 - 1. |
 | Signed | `1` | 二进制补码值。 |
 | muLaw | `2` | μ-law 编码样本。 |
-| ALaw | `3` | A-law 编码样本。 |
+| ALaw | `3` | A 律编码样本。 |
 
 ### 也可以看看
 

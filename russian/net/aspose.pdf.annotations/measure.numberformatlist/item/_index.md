@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает формат числа в списке по его индексу.
+description: Получает или задает числовой формат в списке по его индексу.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/measure.numberformatlist/item/
 ---
 ## Measure.NumberFormatList indexer
 
-Получает или задает формат числа в списке по его индексу.
+Получает или задает числовой формат в списке по его индексу.
 
 ```csharp
 public NumberFormat this[int index] { get; set; }
@@ -16,11 +16,11 @@ public NumberFormat this[int index] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс извлекаемого элемента. |
+| index | Индекс элемента, который необходимо получить. |
 
 ### Возвращаемое значение
 
-Полученный элемент измерения.
+Получен элемент измерения.
 
 ### Смотрите также
 

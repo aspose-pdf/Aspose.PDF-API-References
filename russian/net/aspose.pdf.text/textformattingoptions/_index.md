@@ -18,8 +18,8 @@ public sealed class TextFormattingOptions : TextOptions
 
 | Имя | Описание |
 | --- | --- |
-| [TextFormattingOptions](textformattingoptions#constructor)() | Инициализирует новый экземпляр объекта[`TextFormattingOptions`](../textformattingoptions)с неопределенным режимом переноса слов. |
-| [TextFormattingOptions](textformattingoptions#constructor_1)(WordWrapMode) | Инициализирует новый экземпляр объекта[`TextFormattingOptions`](../textformattingoptions)для указанного режима переноса слов. |
+| [TextFormattingOptions](textformattingoptions#constructor)() | Инициализирует новый экземпляр[`TextFormattingOptions`](../textformattingoptions) объект с неопределенным режимом переноса слов. |
+| [TextFormattingOptions](textformattingoptions#constructor_1)(WordWrapMode) | Инициализирует новый экземпляр[`TextFormattingOptions`](../textformattingoptions) объект для указанного режима переноса слов. |
 
 ## Характеристики
 
@@ -27,9 +27,9 @@ public sealed class TextFormattingOptions : TextOptions
 | --- | --- |
 | [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent) { get; set; } | Получает или задает значение отступа первой строки. |
 | [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol) { get; set; } | Получает или задает символ дефиса, который используется в процессе расстановки переносов. |
-| [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing) { get; set; } | Получает или задает режим межстрочного интервала. Значение по умолчанию:LineSpacingMode.FontSize |
+| [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing) { get; set; } | Получает или задает режим межстрочного интервала. Значение по умолчанию — LineSpacingMode.FontSize |
 | [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent) { get; set; } | Получает или задает значение отступа последующих строк. |
-| [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode) { get; set; } | Получает или устанавливает режим переноса слов. Значение по умолчанию:WordWrapMode.NoWrap |
+| [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode) { get; set; } | Получает или задает режим переноса слов. Значение по умолчанию — WordWrapMode.NoWrap |
 
 ### Смотрите также
 

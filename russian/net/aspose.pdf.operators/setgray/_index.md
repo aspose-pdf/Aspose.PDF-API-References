@@ -1,14 +1,14 @@
 ---
 title: SetGray
 second_title: Aspose.PDF для справочника API .NET
-description: Установите уровень серого для операций без штриховки.
+description: Установить уровень серого для операций без штриха.
 type: docs
 weight: 5480
 url: /ru/net/aspose.pdf.operators/setgray/
 ---
 ## SetGray class
 
-Установите уровень серого для операций без штриховки.
+Установить уровень серого для операций без штриха.
 
 ```csharp
 public class SetGray : SetColorOperator
@@ -30,7 +30,7 @@ public class SetGray : SetColorOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setgray/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setgray/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [getColor](../../aspose.pdf.operators/setgray/getcolor)() | Возвращает цвет, указанный оператором. |
 | override [ToString](../../aspose.pdf.operators/setgray/tostring)() | Возвращает строковое представление оператора. |
 

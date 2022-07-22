@@ -18,7 +18,7 @@ public class SetWordSpacing : TextStateOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetWordSpacing](setwordspacing)(double) | 初始化运算符。 |
+| [SetWordSpacing](setwordspacing)(double) | 初始化操作符。 |
 
 ## 特性
 

@@ -16,7 +16,7 @@ public HtmlFragment(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 片段文本 |
+| text | String | 片段文字 |
 
 ### 也可以看看
 

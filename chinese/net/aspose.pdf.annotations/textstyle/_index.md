@@ -1,14 +1,14 @@
 ---
 title: TextStyle
 second_title: Aspose.PDF for .NET API 参考
-description: 类表示注释中文本的样式
+description: 类表示注释中的文本样式
 type: docs
 weight: 1230
 url: /zh/net/aspose.pdf.annotations/textstyle/
 ---
 ## TextStyle class
 
-类表示注释中文本的样式
+类表示注释中的文本样式
 
 ```csharp
 public class TextStyle
@@ -18,16 +18,16 @@ public class TextStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.pdf.annotations/textstyle/color) { get; set; } | 文本颜色。 |
-| [FontName](../../aspose.pdf.annotations/textstyle/fontname) { get; set; } | 字体名称。 |
+| [Color](../../aspose.pdf.annotations/textstyle/color) { get; set; } | 文本的颜色。 |
+| [FontName](../../aspose.pdf.annotations/textstyle/fontname) { get; set; } | 字体的名称。 |
 | [FontSize](../../aspose.pdf.annotations/textstyle/fontsize) { get; set; } | 字体大小。 |
-| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment) { get; set; } | 文本对齐。有效值为:左、中、右。 |
+| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment) { get; set; } | 文本对齐。有效值为：左、中、右。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/textstyle/tostring)() | TextStyle 的字符串表示。 |
+| override [ToString](../../aspose.pdf.annotations/textstyle/tostring)() | TextStyle. 的字符串表示 |
 
 ### 也可以看看
 

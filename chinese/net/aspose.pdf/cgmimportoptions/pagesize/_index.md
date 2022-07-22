@@ -1,14 +1,14 @@
 ---
 title: PageSize
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置用于导入的输出页面大小 默认页面大小 - A4 300dpi 2480 X 3508
+description: 获取或设置用于导入的输出页面大小 默认页面大小 - A4 300dpi 2480 X 3508.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/cgmimportoptions/pagesize/
 ---
 ## CgmImportOptions.PageSize property
 
-获取或设置用于导入的输出页面大小。 默认页面大小 - A4 300dpi 2480 X 3508。
+获取或设置用于导入的输出页面大小。 默认页面大小 - A4 300dpi 2480 X 3508.
 
 ```csharp
 public SizeF PageSize { get; set; }

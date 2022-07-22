@@ -1,14 +1,14 @@
 ---
 title: Red
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FFFF0000 的系统定义颜色
+description: 获取 ARGB 值为 FFFF0000. 的系统定义颜色
 type: docs
 weight: 1150
 url: /zh/net/aspose.pdf/color/red/
 ---
 ## Color.Red property
 
-获取 ARGB 值为 #FFFF0000 的系统定义颜色。
+获取 ARGB 值为 #FFFF0000. 的系统定义颜色
 
 ```csharp
 public static Color Red { get; }
@@ -16,7 +16,7 @@ public static Color Red { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

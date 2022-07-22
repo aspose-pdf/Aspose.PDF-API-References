@@ -1,14 +1,14 @@
 ---
 title: PDF3DAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DAnnotationaspose.pdf.annotations/pdf3dannotation类的新实例
+description: 初始化PDF3DAnnotationaspose.pdf.annotations/pdf3dannotation类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/
 ---
 ## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork) {#constructor}
 
-初始化[`PDF3DAnnotation`](../../pdf3dannotation)类的新实例。
+初始化[`PDF3DAnnotation`](../../pdf3dannotation)类.
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
@@ -16,7 +16,7 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 页面。 |
+| page | Page | 这页纸。 |
 | rect | Rectangle | 矩形。 |
 | pdf3DArtwork | PDF3DArtwork | 3D 艺术品。 |
 
@@ -33,7 +33,7 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 
 ## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork, PDF3DActivation) {#constructor_1}
 
-初始化[`PDF3DAnnotation`](../../pdf3dannotation)类的新实例。
+初始化[`PDF3DAnnotation`](../../pdf3dannotation)类.
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork, 
@@ -42,7 +42,7 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 页面。 |
+| page | Page | 这页纸。 |
 | rect | Rectangle | 矩形。 |
 | pdf3DArtwork | PDF3DArtwork | 3D 艺术品。 |
 | activation | PDF3DActivation | 激活模式。 |
@@ -51,7 +51,7 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork,
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| Exception | 3D 流已添加到当前 3D 图稿 |
+| Exception | 3D Stream 已添加到当前的 3D 艺术品中 |
 
 ### 也可以看看
 

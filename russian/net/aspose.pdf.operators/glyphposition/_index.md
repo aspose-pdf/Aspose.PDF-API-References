@@ -19,13 +19,13 @@ public class GlyphPosition
 | Имя | Описание |
 | --- | --- |
 | [GlyphPosition](glyphposition#constructor)(string) | Конструктор позиции глифа. |
-| [GlyphPosition](glyphposition#constructor_1)(string, double) | Создает позицию глифа. |
+| [GlyphPosition](glyphposition#constructor_1)(string, double) | Создает положение глифа. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Position](../../aspose.pdf.operators/glyphposition/position) { get; } | Позиция выключения текста в операторе. |
+| [Position](../../aspose.pdf.operators/glyphposition/position) { get; } | Позиция вне текста в операторе. |
 | [Text](../../aspose.pdf.operators/glyphposition/text) { get; } | Текст оператора. |
 
 ### Смотрите также

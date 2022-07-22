@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: Aspose.PDF for .NET API 参考
-description: 获取表单的运算符
+description: 获取形式的运算符
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/xform/contents/
 ---
 ## XForm.Contents property
 
-获取表单的运算符。
+获取形式的运算符。
 
 ```csharp
 public OperatorCollection Contents { get; }

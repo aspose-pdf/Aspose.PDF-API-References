@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/listnumbering_decimal/
 ---
 ## AttributeName.ListNumbering_Decimal field
 
-属性列表编号:十进制 - 十进制阿拉伯数字（1-9、10-99、...）。
+属性列表编号：十进制 - 十进制阿拉伯数字（1-9、10-99、...）。
 
 ```csharp
 public static readonly AttributeName ListNumbering_Decimal;

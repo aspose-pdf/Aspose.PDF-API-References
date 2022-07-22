@@ -1,14 +1,14 @@
 ---
 title: StrikeOut
 second_title: Aspose.PDF for .NET API 参考
-description: 为文本设置删除线由TextFragmentaspose.pdf.text/textfragmentobject 表示
+description: 为文本设置删除线由TextFragmentaspose.pdf.text/textfragmentobject
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.text/textfragmentstate/strikeout/
 ---
 ## TextFragmentState.StrikeOut property
 
-为文本设置删除线，由[`TextFragment`](../../textfragment)object 表示
+为文本设置删除线，由[`TextFragment`](../../textfragment)object
 
 ```csharp
 public override bool StrikeOut { set; }

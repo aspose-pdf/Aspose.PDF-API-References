@@ -20,7 +20,7 @@ public int ExtractTextMode { get; set; }
 
 ### 例子
 
-该示例演示`ExtractTextMode`文本提取场景中的属性使用。
+这个例子展示了`ExtractTextMode`文本提取场景中的属性使用。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();

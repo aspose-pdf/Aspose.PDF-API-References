@@ -1,14 +1,14 @@
 ---
 title: ContactInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 签名者提供的信息使接收者能够联系签名者 以验证签名例如电话号码
+description: 签名者提供的信息使收件人能够联系签名者 以验证签名例如电话号码
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/signature/contactinfo/
 ---
 ## Signature.ContactInfo property
 
-签名者提供的信息，使接收者能够联系签名者 以验证签名，例如电话号码。
+签名者提供的信息，使收件人能够联系签名者 以验证签名，例如电话号码。
 
 ```csharp
 public string ContactInfo { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示图形宽度的浮点值 单位是点
+description: 获取或设置表示图形宽度的浮点值 单位为点
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.drawing/graph/width/
 ---
 ## Graph.Width property
 
-获取或设置表示图形宽度的浮点值。 单位是点。
+获取或设置表示图形宽度的浮点值。 单位为点。
 
 ```csharp
 public double Width { get; set; }

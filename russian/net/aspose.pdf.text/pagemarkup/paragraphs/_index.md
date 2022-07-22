@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекциюMarkupParagraphaspose.pdf.text/markupparagraph которая была найдена на странице.
+description: Получает коллекциюMarkupParagraphaspose.pdf.text/markupparagraph что было найдено на странице.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/pagemarkup/paragraphs/
 ---
 ## PageMarkup.Paragraphs property
 
-Получает коллекцию[`MarkupParagraph`](../../markupparagraph), которая была найдена на странице.
+Получает коллекцию[`MarkupParagraph`](../../markupparagraph) что было найдено на странице.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }

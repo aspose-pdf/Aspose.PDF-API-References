@@ -1,14 +1,14 @@
 ---
 title: GetMarkedTextFragments
 second_title: Aspose.PDF for .NET API 参考
-description: 获取标记注释下的文本为TextFragmentCollectionaspose.pdf.text/textfragmentcollection
+description: 获取标记注释下的文本为TextFragmentCollectionaspose.pdf.text/textfragmentcollection.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
 ## TextMarkupAnnotation.GetMarkedTextFragments method
 
-获取标记注释下的文本为[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection)。
+获取标记注释下的文本为[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection).
 
 ```csharp
 public TextFragmentCollection GetMarkedTextFragments()
@@ -16,7 +16,7 @@ public TextFragmentCollection GetMarkedTextFragments()
 
 ### 返回值
 
-[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection)包含TextFragments。
+[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection)包含[`TextFragment`](../../../aspose.pdf.text/textfragment)在标记注释下。
 
 ### 也可以看看
 

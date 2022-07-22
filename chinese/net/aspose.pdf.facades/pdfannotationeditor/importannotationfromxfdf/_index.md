@@ -1,14 +1,14 @@
 ---
 title: ImportAnnotationFromXfdf
 second_title: Aspose.PDF for .NET API 参考
-description: 从 XFDF 文件导入指定的注释
+description: 从 XFDF 文件中导入指定的注释
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/
 ---
 ## ImportAnnotationFromXfdf(string, AnnotationType[]) {#importannotationfromxfdf_3}
 
-从 XFDF 文件导入指定的注释。
+从 XFDF 文件中导入指定的注释。
 
 ```csharp
 public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType)
@@ -16,8 +16,8 @@ public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xfdfFile | String | 输入的 XFDF 文件。 |
-| annotType | AnnotationType[] | 要导入的注解数组。 |
+| xfdfFile | String | 输入 XFDF 文件。 |
+| annotType | AnnotationType[] | 要导入的注释数组。 |
 
 ### 例子
 
@@ -40,7 +40,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotationFromXfdf(Stream, AnnotationType[]) {#importannotationfromxfdf_1}
 
-从 XFDF 数据流中导入指定的注释。
+从 XFDF 数据流中导入指定的注解。
 
 ```csharp
 public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotType)
@@ -49,7 +49,7 @@ public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotTy
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | xfdfStream | Stream | 输入 XFDF 数据流。 |
-| annotType | AnnotationType[] | 要导入的注解类型数组。 |
+| annotType | AnnotationType[] | 要导入的注释类型数组。 |
 
 ### 例子
 

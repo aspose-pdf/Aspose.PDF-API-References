@@ -1,14 +1,14 @@
 ---
 title: InkAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор рукописной аннотации для Генератора.
+description: Конструктор рукописной аннотации для генератора.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/inkannotation/inkannotation/
 ---
 ## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
 
-Конструктор рукописной аннотации для Генератора.
+Конструктор рукописной аннотации для генератора.
 
 ```csharp
 public InkAnnotation(Document document, IList<Point[]> inkList)
@@ -17,7 +17,7 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | document | Document | Документ, в котором будет создана рукописная аннотация. |
-| inkList | IList`1 | Массив массивов Point[], каждый из которых представляет заштрихованный путь. |
+| inkList | IList`1 | Массив массивов Point[], каждый из которых представляет обведенный путь. |
 
 ### Смотрите также
 
@@ -41,7 +41,7 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 | --- | --- | --- |
 | page | Page | Страница документа, на которой должна быть создана аннотация. |
 | rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| inkList | IList`1 | Массив массивов Point[], каждый из которых представляет заштрихованный путь. |
+| inkList | IList`1 | Массив массивов Point[], каждый из которых представляет обведенный путь. |
 
 ### Смотрите также
 

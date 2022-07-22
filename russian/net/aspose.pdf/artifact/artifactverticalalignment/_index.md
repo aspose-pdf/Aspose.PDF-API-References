@@ -1,14 +1,14 @@
 ---
 title: ArtifactVerticalAlignment
 second_title: Aspose.PDF для справочника API .NET
-description: Выравнивание артефакта по вертикали. Если позиция указана явно в свойстве Position это значение игнорируется.
+description: Вертикальное выравнивание артефакта. Если позиция указана явно в свойстве Position это значение игнорируется.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/artifact/artifactverticalalignment/
 ---
 ## Artifact.ArtifactVerticalAlignment property
 
-Выравнивание артефакта по вертикали. Если позиция указана явно (в свойстве Position), это значение игнорируется.
+Вертикальное выравнивание артефакта. Если позиция указана явно (в свойстве Position), это значение игнорируется.
 
 ```csharp
 public VerticalAlignment ArtifactVerticalAlignment { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: OptimizedMemoryStream
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаOptimizedMemoryStreamaspose.pdf/optimizedmemorystream.
+description: Инициализирует новый экземплярOptimizedMemoryStreamaspose.pdf/optimizedmemorystream класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
 ---
 ## OptimizedMemoryStream() {#constructor}
 
-Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../../optimizedmemorystream).
+Инициализирует новый экземпляр[`OptimizedMemoryStream`](../../optimizedmemorystream) класс.
 
 ```csharp
 public OptimizedMemoryStream()
@@ -24,7 +24,7 @@ public OptimizedMemoryStream()
 
 ## OptimizedMemoryStream(int, byte[]) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../../optimizedmemorystream)на основе указанного массива байтов.
+Инициализирует новый экземпляр[`OptimizedMemoryStream`](../../optimizedmemorystream) класс на основе указанного массива байтов.
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize, byte[] buffer)
@@ -45,7 +45,7 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 
 ## OptimizedMemoryStream(int) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../../optimizedmemorystream).
+Инициализирует новый экземпляр[`OptimizedMemoryStream`](../../optimizedmemorystream) класс.
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize)
@@ -65,7 +65,7 @@ public OptimizedMemoryStream(int bufferSize)
 
 ## OptimizedMemoryStream(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../../optimizedmemorystream)на основе указанного массива байтов.
+Инициализирует новый экземпляр[`OptimizedMemoryStream`](../../optimizedmemorystream) класс на основе указанного массива байтов.
 
 ```csharp
 public OptimizedMemoryStream(byte[] buffer)

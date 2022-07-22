@@ -1,14 +1,14 @@
 ---
 title: Circle
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаCircleaspose.pdf.drawing/circle.
+description: Инициализирует новый экземплярCircleaspose.pdf.drawing/circle класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/circle/circle/
 ---
 ## Circle constructor
 
-Инициализирует новый экземпляр класса[`Circle`](../../circle).
+Инициализирует новый экземпляр[`Circle`](../../circle) класс.
 
 ```csharp
 public Circle(float posX, float posY, float radius)
@@ -16,9 +16,9 @@ public Circle(float posX, float posY, float radius)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| posX | Single | X-координата центра круга. |
-| posY | Single | Y-координата центра круга. |
-| radius | Single | Радиус окружности. |
+| posX | Single | Координата x центра окружности. |
+| posY | Single | Y-координата центра окружности. |
+| radius | Single | Радиус круга. |
 
 ### Смотрите также
 

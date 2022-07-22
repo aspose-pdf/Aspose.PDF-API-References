@@ -1,14 +1,14 @@
 ---
 title: ImportArray
 second_title: Aspose.PDF for .NET API 参考
-description: 将一维数据数组导入表中每个数组的项目导入一个单元格并且 从参数中定义的行和列开始在导入过程中如果检测到必要的行 仍然不存在即目标表太小无法吸收所有数据则将创建必要的行
+description: 将一维数据数组导入表中每个数组的项导入一个单元格并且 从参数中定义的行和列开始在导入过程中如果检测到必要的rows 仍然不存在即目标表太小无法吸收所有数据将创建必要的行
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf/table/importarray/
 ---
 ## Table.ImportArray method
 
-将一维数据数组导入表中。每个数组的项目导入一个单元格，并且 从参数中定义的行和列开始。在导入过程中，如果检测到必要的行 仍然不存在（即目标表太小，无法吸收所有数据），则将创建必要的行
+将一维数据数组导入表中。每个数组的项导入一个单元格，并且 从参数中定义的行和列开始。在导入过程中，如果检测到必要的rows 仍然不存在（即目标表太小，无法吸收所有数据），将创建必要的行
 
 ```csharp
 public void ImportArray(object[] importedArray, int firstFilledRow, int firstFilledColumn, 
@@ -17,10 +17,10 @@ public void ImportArray(object[] importedArray, int firstFilledRow, int firstFil
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| importedArray | Object[] | 导入数据，空值将作为空字符串导入 |
-| firstFilledRow | Int32 | 定义目标表中第一个目标行的数量导入将开始。 如果目标表中的行数少于所需的行数，将首先创建缺失的行。 |
+| importedArray | Object[] | 导入的数据，空值将作为空字符串导入 |
+| firstFilledRow | Int32 | 定义目标表中第一个目标行的数量，从导入将开始。 如果目标表中的行数少于所需的行数，将首先创建缺失的行。 |
 | firstFilledColumn | Int32 | 指定目标表中第一个目标列的数量，在开始导入之前列必须存在于目标表中 |
-| isLeftColumnsFilled | Boolean | 如果 'isLeftColumnsFilled'=false，则在第二个和所有后续填充的行中，从 firstFilledColumn 左侧的单元格将被跳过 |
+| isLeftColumnsFilled | Boolean | 如果 'isLeftColumnsFilled'=false，则在第二个和所有后续填充的行中位于 from firstFilledColumn 左侧的单元格将被跳过 |
 
 ### 也可以看看
 

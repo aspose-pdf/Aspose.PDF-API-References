@@ -1,14 +1,14 @@
 ---
 title: WP
 second_title: Aspose.PDF for .NET API 参考
-description: Warichu 标点符号围绕 WT 文本的标点符号它包含文本通常是单个左括号或右括号或类似的括号字符根据 JIS X 4051-1995warichu 周围的括号可以根据格式化程序的判断转换为 SPACE通常为 1/4 EM 宽度
+description: Warichu 标点符号围绕 WT 文本的标点符号它包含文本通常是单个左括号或右括号或类似的括号字符根据 JIS X 4051-1995warichu 周围的括号可以根据格式化程序的判断转换为 SPACE通常宽度为 1/4 EM
 type: docs
 weight: 480
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/wp/
 ---
 ## StructureTypeStandard.WP field
 
-（Warichu 标点符号）围绕 WT 文本的标点符号。它包含文本（通常是单个左括号或右括号或类似的括号字符）。根据 JIS X 4051-1995，warichu 周围的括号可以根据格式化程序的判断转换为 SPACE（通常为 1/4 EM 宽度）。
+（Warichu 标点符号）围绕 WT 文本的标点符号。它包含文本（通常是单个左括号或右括号或类似的括号字符）。根据 JIS X 4051-1995，warichu 周围的括号可以根据格式化程序的判断转换为 SPACE（通常宽度为 1/4 EM）。
 
 ```csharp
 public static readonly StructureTypeStandard WP;

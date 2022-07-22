@@ -16,7 +16,7 @@ public static ContentsResizeValue Percents(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 百分比值。 |
+| value | Double | 以百分比表示的值。 |
 
 ### 返回值
 

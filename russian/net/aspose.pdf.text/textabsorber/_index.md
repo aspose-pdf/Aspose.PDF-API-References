@@ -1,14 +1,14 @@
 ---
 title: TextAbsorber
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет объект-поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату через объектText./textabsorber/text.
+description: Представляет объект-поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату черезText./textabsorber/text объект.
 type: docs
 weight: 6960
 url: /ru/net/aspose.pdf.text/textabsorber/
 ---
 ## TextAbsorber class
 
-Представляет объект-поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату через объект[`Text`](./text).
+Представляет объект-поглотитель текста. Выполняет извлечение текста и предоставляет доступ к результату через[`Text`](./text) объект.
 
 ```csharp
 public class TextAbsorber
@@ -18,19 +18,19 @@ public class TextAbsorber
 
 | Имя | Описание |
 | --- | --- |
-| [TextAbsorber](textabsorber#constructor)() | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber). |
-| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber)с параметрами извлечения. |
-| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber)с параметрами текстового поиска. |
-| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber)с параметрами извлечения и поиска текста. |
+| [TextAbsorber](textabsorber#constructor)() | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) . |
+| [TextAbsorber](textabsorber#constructor_1)(TextExtractionOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) с опциями извлечения. |
+| [TextAbsorber](textabsorber#constructor_3)(TextSearchOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) с параметрами текстового поиска. |
+| [TextAbsorber](textabsorber#constructor_2)(TextExtractionOptions, TextSearchOptions) | Инициализирует новый экземпляр[`TextAbsorber`](../textabsorber) с возможностью извлечения и текстового поиска. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | Список объектов[`TextExtractionError`](../textextractionerror). Он содержит информацию об ошибках, обнаруженных при извлечении текста. Поиск ошибок будет производиться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors) { get; } | Список[`TextExtractionError`](../textextractionerror) объекты. Содержит информацию об ошибках, обнаруженных при извлечении текста. Поиск ошибок будет производиться, только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
 | virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions) { get; set; } | Получает или задает параметры извлечения текста. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | Значение указывает, были ли обнаружены ошибки при извлечении текста. Поиск ошибок будет производиться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | Получает извлеченный текст, который[`TextAbsorber`](../textabsorber)извлекает из документа или страницы PDF. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors) { get; } | Значение указывает, были ли обнаружены ошибки при извлечении текста. Поиск ошибок будет выполняться, только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text) { get; } | Получает извлеченный текст,[`TextAbsorber`](../textabsorber) выдержки из документа PDF или страницы. |
 | virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions) { get; set; } | Получает или задает параметры текстового поиска. |
 
 ## Методы
@@ -43,7 +43,7 @@ public class TextAbsorber
 
 ### Примечания
 
-Объект[`TextAbsorber`](../textabsorber)используется для извлечения текста из документа Pdf или страницы документа.
+[`TextAbsorber`](../textabsorber) объект используется для извлечения текста из документа Pdf или страницы документа.
 
 ### Примеры
 
@@ -51,16 +51,16 @@ public class TextAbsorber
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения text
-extAbsorber absorber = new TextAbsorber();
+// создаем объект TextAbsorber для извлечения текста
+TextAbsorber absorber = new TextAbsorber();
 
 // принимаем поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 
 ```
 

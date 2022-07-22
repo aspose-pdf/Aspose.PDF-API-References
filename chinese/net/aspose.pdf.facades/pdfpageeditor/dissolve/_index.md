@@ -1,14 +1,14 @@
 ---
 title: DISSOLVE
 second_title: Aspose.PDF for .NET API 参考
-description: 旧页面解散
+description: 旧页面消失
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/dissolve/
 ---
 ## PdfPageEditor.DISSOLVE field
 
-旧页面解散
+旧页面消失
 
 ```csharp
 public const int DISSOLVE;

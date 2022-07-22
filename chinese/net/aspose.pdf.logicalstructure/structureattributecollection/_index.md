@@ -18,7 +18,7 @@ public class StructureAttributeCollection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes)(AttributeOwnerStandard) | 由标准属性所有者创建并返回结构元素的[`StructureAttributes`](../structureattributes)。 |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes)(AttributeOwnerStandard) | 创建并返回[`StructureAttributes`](../structureattributes)标准属性所有者的结构元素。 |
 | [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes)(AttributeOwnerStandard) | 返回[`StructureAttributes`](../structureattributes)标准属性所有者的结构元素。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: FontSavingMode
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет режим сохранения шрифта который будет использоваться при сохранении PDF в нужный формат
+description: Определяет режим сохранения шрифта который будет использоваться при сохранении PDF в желаемом формате
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf/htmlsaveoptions/fontsavingmode/
 ---
 ## HtmlSaveOptions.FontSavingMode field
 
-Определяет режим сохранения шрифта, который будет использоваться при сохранении PDF в нужный формат
+Определяет режим сохранения шрифта, который будет использоваться при сохранении PDF в желаемом формате
 
 ```csharp
 public FontSavingModes FontSavingMode;

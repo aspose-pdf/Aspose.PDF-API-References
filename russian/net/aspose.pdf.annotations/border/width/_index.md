@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает ширину границы.
+description: Получает или задает ширину границы.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/border/width/
 ---
 ## Border.Width property
 
-Получает или устанавливает ширину границы.
+Получает или задает ширину границы.
 
 ```csharp
 public int Width { get; set; }

@@ -45,7 +45,7 @@ public void DeleteStampByIds(int pageNumber, int[] stampIds)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Номер страницы, на которой будут удалены штампы. |
+| pageNumber | Int32 | Номер страницы, на которой штампы будут удалены. |
 | stampIds | Int32[] | Массив идентификаторов штампов. |
 
 ### Примеры

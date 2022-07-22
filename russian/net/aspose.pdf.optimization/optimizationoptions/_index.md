@@ -24,22 +24,22 @@ public class OptimizationOptions
 
 | Имя | Описание |
 | --- | --- |
-| [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent) { get; set; } | Если истинно, содержимое страницы будет повторно использоваться, когда документ оптимизируется для одинаковых страниц. |
-| [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions) { get; } | Набор опций, описывающих будут ли сжиматься изображения в документе и параметры сжатия. |
+| [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent) { get; set; } | Если истинное содержимое страницы будет повторно использоваться при оптимизации документа для одинаковых страниц. |
+| [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions) { get; } | Набор опций, описывающих, будут ли сжиматься изображения в документе и параметры сжатия. |
 | [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding) { get; set; } | Кодировка изображения, которая будет использоваться. |
 | [LinkDuplcateStreams](../../aspose.pdf.optimization/optimizationoptions/linkduplcatestreams) { get; set; } | Если для этого флага установлено значение true, будут проанализированы потоки ресурсов. Если будут найдены повторяющиеся потоки (т.е. если содержимое потоков одинаковое), то эти потоки будут сохранены как один объект. Это позволяет уменьшить размер документа в некоторых случаях (например, когда один и тот же документ был объединен несколько раз). |
-| [MaxResoultion](../../aspose.pdf.optimization/optimizationoptions/maxresoultion) { get; set; } | Задает максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабировано |
-| [RemovePrivateInfo](../../aspose.pdf.optimization/optimizationoptions/removeprivateinfo) { get; set; } | Удалить приватную информацию (информацию о части страницы). |
-| [RemoveUnusedObjects](../../aspose.pdf.optimization/optimizationoptions/removeunusedobjects) { get; set; } | Если этот флаг установлен в true, все объекты документа будут проверены, а неиспользуемые объекты (т.е. объекты, на которые нет ссылки) будут удалены из документа. |
-| [RemoveUnusedStreams](../../aspose.pdf.optimization/optimizationoptions/removeunusedstreams) { get; set; } | Если этот флаг установлен в true, каждый ресурс проверяется на его использование. Если ресурс никогда не используется, то ресурсы удаляются. Это может уменьшить размер документа, например, когда страницы были извлечены из документа. |
-| [SubsetFonts](../../aspose.pdf.optimization/optimizationoptions/subsetfonts) { get; set; } | Шрифты будут преобразованы в поднаборы, если установлено значение true. |
+| [MaxResoultion](../../aspose.pdf.optimization/optimizationoptions/maxresoultion) { get; set; } | Определяет максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабировано |
+| [RemovePrivateInfo](../../aspose.pdf.optimization/optimizationoptions/removeprivateinfo) { get; set; } | Удалить личную информацию (информация о части страницы). |
+| [RemoveUnusedObjects](../../aspose.pdf.optimization/optimizationoptions/removeunusedobjects) { get; set; } | Если для этого флага установлено значение true, все объекты документа будут проверены, а неиспользуемые объекты (т.е. объекты, на которые нет ссылок) будут удалены из документа. |
+| [RemoveUnusedStreams](../../aspose.pdf.optimization/optimizationoptions/removeunusedstreams) { get; set; } | Если для этого флага установлено значение true, каждый ресурс проверяется на его использование. Если ресурс никогда не используется, то ресурсы удаляются. Это может уменьшить размер документа, например, когда страницы были извлечены из документа. |
+| [SubsetFonts](../../aspose.pdf.optimization/optimizationoptions/subsetfonts) { get; set; } | Шрифты будут преобразованы в подмножества, если установлено значение true. |
 | [UnembedFonts](../../aspose.pdf.optimization/optimizationoptions/unembedfonts) { get; set; } | Сделать шрифты не встроенными, если установлено значение true. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [All](../../aspose.pdf.optimization/optimizationoptions/all)() | Создает стратегию оптимизации, активируя все опции. Обратите внимание, что активированы только опции, не меняющие никакой функциональности документа. Т.е. сжатие изображений и извлечение шрифтов не будут включены (и могут быть встроены вручную). |
+| static [All](../../aspose.pdf.optimization/optimizationoptions/all)() | Создает стратегию оптимизации, при этом будут активированы все опции. Обратите внимание, что активированы только опции, которые не изменяют никакой функциональности документа. Т.е. сжатие изображений и извлечение шрифтов не будут включены (и могут быть встроены вручную). |
 
 ### Смотрите также
 

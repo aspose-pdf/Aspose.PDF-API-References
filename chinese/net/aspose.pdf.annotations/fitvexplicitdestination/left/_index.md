@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PDF for .NET API 参考
-description: 获取位于窗口左边缘的左侧水平坐标
+description: 获取位于窗口左边缘左侧的水平坐标
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/fitvexplicitdestination/left/
 ---
 ## FitVExplicitDestination.Left property
 
-获取位于窗口左边缘的左侧水平坐标。
+获取位于窗口左边缘左侧的水平坐标。
 
 ```csharp
 public double Left { get; }

@@ -1,14 +1,14 @@
 ---
 title: EncodingType
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисляет типы кодировки используемого текста.
+description: Перечисляет типы кодирования текста используя.
 type: docs
 weight: 2250
 url: /ru/net/aspose.pdf.facades/encodingtype/
 ---
 ## EncodingType enumeration
 
-Перечисляет типы кодировки используемого текста.
+Перечисляет типы кодирования текста, используя.
 
 ```csharp
 public enum EncodingType
@@ -19,7 +19,7 @@ public enum EncodingType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Identity_h | `0` | Кодировка Unicode с горизонтальным письмом. |
-| Identity_v | `1` | Кодировка Unicode с вертикальной записью. |
+| Identity_v | `1` | Кодировка Unicode с вертикальным написанием. |
 | Cp1250 | `2` | Имя кодировки текста Windows. |
 | Cp1252 | `3` | Имя кодировки текста Windows. |
 | Cp1257 | `4` | Имя кодировки текста Windows. |

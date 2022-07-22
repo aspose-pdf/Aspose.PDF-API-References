@@ -17,7 +17,7 @@ public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | xfdfFile | String | Входной файл XFDF. |
-| annotType | AnnotationType[] | Массив аннотаций для импорта. |
+| annotType | AnnotationType[] | Импортируемый массив аннотаций. |
 
 ### Примеры
 
@@ -49,7 +49,7 @@ public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotTy
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | xfdfStream | Stream | Входной поток данных XFDF. |
-| annotType | AnnotationType[] | Массив импортируемых типов аннотаций. |
+| annotType | AnnotationType[] | Массив типов аннотаций для импорта. |
 
 ### Примеры
 

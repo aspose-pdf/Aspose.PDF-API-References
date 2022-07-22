@@ -1,14 +1,14 @@
 ---
 title: Url
 second_title: Aspose.PDF для справочника API .NET
-description: Целевой URL.
+description: URL-адрес назначения.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/submitformaction/url/
 ---
 ## SubmitFormAction.Url property
 
-Целевой URL.
+URL-адрес назначения.
 
 ```csharp
 public FileSpecification Url { get; set; }

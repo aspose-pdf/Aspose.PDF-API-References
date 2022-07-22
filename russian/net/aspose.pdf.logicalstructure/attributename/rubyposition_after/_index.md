@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_After
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyPositionAfter  Содержимое RT должно быть выровнено по краю после элемента.
+description: Атрибут RubyPosition After  содержимое RT должно быть выровнено по краю после элемента.
 type: docs
 weight: 480
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyposition_after/
 ---
 ## AttributeName.RubyPosition_After field
 
-Атрибут RubyPosition:After — Содержимое RT должно быть выровнено по краю после элемента.
+Атрибут RubyPosition: After — содержимое RT должно быть выровнено по краю после элемента.
 
 ```csharp
 public static readonly AttributeName RubyPosition_After;

@@ -1,14 +1,14 @@
 ---
 title: PdfFileSanitization
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет API очистки и восстановления. Используйте его если вы не можете создавать/открывать документы другим способом.
+description: Представляет API очистки и восстановления. Используйте его если вы не можете создавать/открывать документы каким-либо другим способом.
 type: docs
 weight: 2550
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/
 ---
 ## PdfFileSanitization class
 
-Представляет API очистки и восстановления. Используйте его, если вы не можете создавать/открывать документы другим способом.
+Представляет API очистки и восстановления. Используйте его, если вы не можете создавать/открывать документы каким-либо другим способом.
 
 ```csharp
 public sealed class PdfFileSanitization : SaveableFacade
@@ -26,7 +26,7 @@ public sealed class PdfFileSanitization : SaveableFacade
 | --- | --- |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | Получает фасад документа, над которым работает. |
 | [Log](../../aspose.pdf.facades/pdffilesanitization/log) { get; } | После сохранения файла вы можете проверить, что было сделано с файлом. |
-| [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom) { get; set; } | Позволяет удалить данные после данных pdf |
+| [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom) { get; set; } | Позволяет удалить данные после pdf data |
 | [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop) { get; set; } | Позволяет удалить данные перед данными pdf. |
 
 ## Методы
@@ -34,12 +34,12 @@ public sealed class PdfFileSanitization : SaveableFacade
 | Имя | Описание |
 | --- | --- |
 | override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf)(Document) | Инициализирует фасад. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_1)(Stream) | Связывает поток Pdf для Sanitize. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_2)(string) | Связывает файл Pdf для Sanitize. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_1)(Stream) | Связывает поток PDF для Sanitize. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_2)(string) | Связывает файл PDF для Sanitize. |
 | override [Close](../../aspose.pdf.facades/pdffilesanitization/close)() | Закрывает фасад. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose)() | Удаляет фасад. |
-| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover)() | Восстанавливает документ. Используйте свойства для настройки. |
-| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save)(Stream) | Сохраняет результат PDF в поток. |
+| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover)() | Восстанавливает документ. Использование свойств для настройки. |
+| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save)(Stream) | Сохраняет полученный PDF-файл в поток. |
 | override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save_1)(string) | Сохраняет результат PDF в файл. |
 | [TrimBottom](../../aspose.pdf.facades/pdffilesanitization/trimbottom)() | Удаляет данные после последнего %%EOF. |
 | [TrimTop](../../aspose.pdf.facades/pdffilesanitization/trimtop)() | Удаляет данные до %PDF. |

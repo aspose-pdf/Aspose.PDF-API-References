@@ -1,14 +1,14 @@
 ---
 title: MarginInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化MarginInfoaspose.pdf/margininfo类的新实例
+description: 初始化MarginInfoaspose.pdf/margininfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-初始化[`MarginInfo`](../../margininfo)类的新实例。
+初始化[`MarginInfo`](../../margininfo)类.
 
 ```csharp
 public MarginInfo()
@@ -24,7 +24,7 @@ public MarginInfo()
 
 ## MarginInfo(double, double, double, double) {#constructor_1}
 
-矩形的构造函数。
+矩形的构造函数.
 
 ```csharp
 public MarginInfo(double left, double bottom, double right, double top)

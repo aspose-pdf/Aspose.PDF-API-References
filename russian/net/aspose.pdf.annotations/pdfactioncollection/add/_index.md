@@ -16,7 +16,7 @@ public void Add(PdfAction action)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| action | PdfAction | Действие будет добавлено. |
+| action | PdfAction | Действие, которое нужно добавить. |
 
 ### Смотрите также
 

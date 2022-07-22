@@ -1,14 +1,14 @@
 ---
 title: Path
 second_title: Aspose.PDF for .NET API 参考
-description: PDF 文档出现文本提取错误的位置
+description: 出现文本提取错误的 PDF 文档的位置
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/path/
 ---
 ## TextExtractionErrorLocation.Path property
 
-PDF 文档出现文本提取错误的位置。
+出现文本提取错误的 PDF 文档的位置。
 
 ```csharp
 public string Path { get; }

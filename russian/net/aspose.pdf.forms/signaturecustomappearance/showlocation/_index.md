@@ -1,14 +1,14 @@
 ---
 title: ShowLocation
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает видимость местоположения. Значение по умолчаниюправда.
+description: Получает/устанавливает видимость местоположения. Значение по умолчанию true.
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/showlocation/
 ---
 ## SignatureCustomAppearance.ShowLocation property
 
-Получает/устанавливает видимость местоположения. Значение по умолчанию:правда.
+Получает/устанавливает видимость местоположения. Значение по умолчанию: true.
 
 ```csharp
 public bool ShowLocation { get; set; }

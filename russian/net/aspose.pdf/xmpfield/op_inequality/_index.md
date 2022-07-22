@@ -16,8 +16,8 @@ public static bool operator !=(XmpField field1, XmpField field2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| поле1 | XmpField | Поле1. |
-| поле2 | XmpField | Поле2. |
+| field1 | XmpField | Поле1. |
+| field2 | XmpField | Поле2. |
 
 ### Возвращаемое значение
 

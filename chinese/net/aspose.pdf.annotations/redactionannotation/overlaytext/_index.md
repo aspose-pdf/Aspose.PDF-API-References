@@ -1,14 +1,14 @@
 ---
 title: OverlayText
 second_title: Aspose.PDF for .NET API 参考
-description: 要在编辑注释上打印的文本
+description: 在编辑注释上打印的文本
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/redactionannotation/overlaytext/
 ---
 ## RedactionAnnotation.OverlayText property
 
-要在编辑注释上打印的文本。
+在编辑注释上打印的文本。
 
 ```csharp
 public string OverlayText { get; set; }

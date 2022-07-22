@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 集合是只读的抛出 NotImplementedException 
+description: 集合是只读的抛出未实现异常.
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.text/charinfocollection/remove/
 ---
 ## CharInfoCollection.Remove method
 
-集合是只读的，抛出 NotImplementedException 。
+集合是只读的，抛出未实现异常.
 
 ```csharp
 public bool Remove(CharInfo item)
@@ -20,7 +20,7 @@ public bool Remove(CharInfo item)
 
 ### 返回值
 
-NotImplementedException
+未实现异常
 
 ### 也可以看看
 

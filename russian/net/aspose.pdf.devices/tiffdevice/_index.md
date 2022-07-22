@@ -1,14 +1,14 @@
 ---
 title: TiffDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Этот класс помогает сохранять pdf-документ страницу за страницей в одно изображение TIFF.
+description: Этот класс помогает сохранять PDF-документ страницу за страницей в одно изображение в формате TIFF.
 type: docs
 weight: 1800
 url: /ru/net/aspose.pdf.devices/tiffdevice/
 ---
 ## TiffDevice class
 
-Этот класс помогает сохранять pdf-документ страницу за страницей в одно изображение TIFF.
+Этот класс помогает сохранять PDF-документ страницу за страницей в одно изображение в формате TIFF.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -18,31 +18,31 @@ public sealed class TiffDevice : DocumentDevice
 
 | Имя | Описание |
 | --- | --- |
-| [TiffDevice](tiffdevice#constructor)() | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice)с настройками по умолчанию. |
-| [TiffDevice](tiffdevice#constructor_6)(PageSize) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_1)(Resolution) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_4)(TiffSettings) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_12)(int, int) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_7)(PageSize, Resolution) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_10)(PageSize, TiffSettings) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_2)(Resolution, TiffSettings) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_5)(TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_13)(int, int, Resolution) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_16)(int, int, TiffSettings) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_8)(PageSize, Resolution, TiffSettings) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_14)(int, int, Resolution, TiffSettings) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
-| [TiffDevice](tiffdevice#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр класса[`TiffDevice`](../tiffdevice). |
+| [TiffDevice](tiffdevice#constructor)() | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс с настройками по умолчанию. |
+| [TiffDevice](tiffdevice#constructor_6)(PageSize) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_1)(Resolution) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_4)(TiffSettings) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_12)(int, int) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_7)(PageSize, Resolution) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_10)(PageSize, TiffSettings) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_2)(Resolution, TiffSettings) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_5)(TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_13)(int, int, Resolution) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_16)(int, int, TiffSettings) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_8)(PageSize, Resolution, TiffSettings) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_14)(int, int, Resolution, TiffSettings) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
+| [TiffDevice](tiffdevice#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | Инициализирует новый экземпляр[`TiffDevice`](../tiffdevice) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode) { get; set; } | Получает или задает режим представления формы. |
-| [Height](../../aspose.pdf.devices/tiffdevice/height) { get; } | Получает высоту выходного изображения. |
+| [Height](../../aspose.pdf.devices/tiffdevice/height) { get; } | Получает высоту вывода изображения. |
 | [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions) { get; set; } | Получает или задает параметры рендеринга. |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution) { get; } | Получает разрешение изображения. |
 | [Settings](../../aspose.pdf.devices/tiffdevice/settings) { get; } | Получает настройки для преобразования pdf в изображение tiff. |
@@ -55,7 +55,7 @@ public sealed class TiffDevice : DocumentDevice
 | [BinarizeBradley](../../aspose.pdf.devices/documentdevice/binarizebradley)(Stream, Stream, double) | Выполнить бинаризацию Брэдли для входного потока. |
 | [Process](../../aspose.pdf.devices/documentdevice/process)(Document, Stream) | Обрабатывает весь документ и сохраняет результаты в поток. |
 | [Process](../../aspose.pdf.devices/documentdevice/process)(Document, string) | Обрабатывает весь документ и сохраняет результаты в файл. |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process#process)(Document, int, int, Stream) | Преобразует определенные страницы документа в tiff и сохраняет их в выходной поток. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process#process)(Document, int, int, Stream) | Преобразует определенные страницы документа в формат tiff и сохраняет их в выходном потоке. |
 | [Process](../../aspose.pdf.devices/documentdevice/process)(Document, int, int, string) | Обрабатывает определенные страницы документа и сохраняет результаты в файл. |
 
 ### Смотрите также

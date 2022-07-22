@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: Aspose.PDF для справочника API .NET
-description: Получает номер страницы назначения
+description: Получает номер целевой страницы
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
 ## ExplicitDestination.PageNumber property
 
-Получает номер страницы назначения
+Получает номер целевой страницы
 
 ```csharp
 public int PageNumber { get; }

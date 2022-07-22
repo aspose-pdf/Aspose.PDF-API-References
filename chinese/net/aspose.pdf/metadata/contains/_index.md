@@ -16,11 +16,11 @@ public bool Contains(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 要查找的入口键。 |
+| key | String | 进入的关键找到。 |
 
 ### 返回值
 
-如果密钥包含在元数据中，则为真。
+如果键包含在元数据中，则为真。
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 ### 返回值
 
-如果找到此 pauir 则为真。
+如果这个 pauir 被发现，则为真。
 
 ### 也可以看看
 

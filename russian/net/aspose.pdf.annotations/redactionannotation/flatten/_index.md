@@ -1,14 +1,14 @@
 ---
 title: Flatten
 second_title: Aspose.PDF для справочника API .NET
-description: Выравнивает аннотацию т.е. удаляет аннотацию и добавляет свою
+description: Сглаживает аннотацию т.е. удаляет аннотацию и добавляет ее
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/redactionannotation/flatten/
 ---
 ## RedactionAnnotation.Flatten method
 
-Выравнивает аннотацию, т.е. удаляет аннотацию и добавляет свою
+Сглаживает аннотацию, т.е. удаляет аннотацию и добавляет ее
 
 ```csharp
 public override void Flatten()

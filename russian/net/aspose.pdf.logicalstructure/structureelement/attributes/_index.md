@@ -1,14 +1,14 @@
 ---
 title: Attributes
 second_title: Aspose.PDF для справочника API .NET
-description: Получает объектStructureAttributeCollection.
+description: получаетStructureAttributeCollection объект.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
 ## StructureElement.Attributes property
 
-Получает объектStructureAttributeCollection.
+получаетStructureAttributeCollection объект.
 
 ```csharp
 public StructureAttributeCollection Attributes { get; }
@@ -16,7 +16,7 @@ public StructureAttributeCollection Attributes { get; }
 
 ### Стоимость имущества
 
-StructureAttributeCollectionобъект.
+StructureAttributeCollection объект.
 
 ### Смотрите также
 

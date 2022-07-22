@@ -20,7 +20,7 @@ public FileSpecification this[int index] { get; }
 
 ### 返回值
 
-检索嵌入文件规范
+检索到的嵌入文件规范
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public FileSpecification this[string name] { get; }
 
 ### 返回值
 
-检索到嵌入文件规范。
+检索嵌入式文件规范。
 
 ### 也可以看看
 

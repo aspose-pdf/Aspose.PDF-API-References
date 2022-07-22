@@ -18,12 +18,12 @@ public abstract class ImageDevice : PageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageDevice](imagedevice#constructor)() | [`ImageDevice`](../imagedevice)后代的抽象初始化器，将分辨率设置为 150x150。 |
-| [ImageDevice](imagedevice#constructor_2)(PageSize) | 使用提供的图像尺寸和默认分辨率 (=150) 初始化[`JpegDevice`](../jpegdevice)类的新实例. |
-| [ImageDevice](imagedevice#constructor_1)(Resolution) | [`ImageDevice`](../imagedevice)后代的抽象初始化程序。  结果图像文件的分辨率，请参见[`Resolution`](./resolution)班级。 |
-| [ImageDevice](imagedevice#constructor_4)(int, int) | 使用提供的图像尺寸和默认分辨率 (=150) 初始化[`JpegDevice`](../jpegdevice)类的新实例. |
-| [ImageDevice](imagedevice#constructor_3)(PageSize, Resolution) | 使用提供的图像尺寸和分辨率初始化[`JpegDevice`](../jpegdevice)类的新实例。 |
-| [ImageDevice](imagedevice#constructor_5)(int, int, Resolution) | 使用提供的图像尺寸和分辨率初始化[`JpegDevice`](../jpegdevice)类的新实例。 |
+| [ImageDevice](imagedevice#constructor)() | 的抽象初始化器[`ImageDevice`](../imagedevice)后代，将分辨率设置为 150x150. |
+| [ImageDevice](imagedevice#constructor_2)(PageSize) | 初始化[`JpegDevice`](../jpegdevice)具有提供的图像尺寸和默认分辨率 (=150). 的类 |
+| [ImageDevice](imagedevice#constructor_1)(Resolution) | 的抽象初始化器[`ImageDevice`](../imagedevice)后代.  结果图像文件的分辨率，请参见[`Resolution`](./resolution)类. |
+| [ImageDevice](imagedevice#constructor_4)(int, int) | 初始化[`JpegDevice`](../jpegdevice)具有提供的图像尺寸和默认分辨率 (=150). 的类 |
+| [ImageDevice](imagedevice#constructor_3)(PageSize, Resolution) | 初始化[`JpegDevice`](../jpegdevice)具有提供的图像尺寸和分辨率的类。 |
+| [ImageDevice](imagedevice#constructor_5)(int, int, Resolution) | 初始化[`JpegDevice`](../jpegdevice)具有提供的图像尺寸和分辨率的类。 |
 
 ## 特性
 

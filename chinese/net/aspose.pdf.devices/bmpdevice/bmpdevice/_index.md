@@ -1,14 +1,14 @@
 ---
 title: BmpDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 使用默认分辨率初始化BmpDeviceaspose.pdf.devices/bmpdevice类的新实例
+description: 初始化BmpDeviceaspose.pdf.devices/bmpdevice具有默认分辨率的类
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 ---
 ## BmpDevice() {#constructor}
 
-使用默认分辨率初始化[`BmpDevice`](../../bmpdevice)类的新实例。
+初始化[`BmpDevice`](../../bmpdevice)具有默认分辨率的类。
 
 ```csharp
 public BmpDevice()
@@ -24,7 +24,7 @@ public BmpDevice()
 
 ## BmpDevice(Resolution) {#constructor_1}
 
-初始化[`BmpDevice`](../../bmpdevice)类的新实例。  结果图像文件的分辨率，请参见[`Resolution`](../../resolution)类.
+初始化[`BmpDevice`](../../bmpdevice)类.  结果图像文件的分辨率，请参见[`Resolution`](../../resolution)类.
 
 ```csharp
 public BmpDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public BmpDevice(Resolution resolution)
 
 ## BmpDevice(int, int, Resolution) {#constructor_5}
 
-使用提供的图像尺寸和 初始化[`BmpDevice`](../../bmpdevice)类的新实例解析度。
+初始化[`BmpDevice`](../../bmpdevice)具有提供图像尺寸和 分辨率的类。
 
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
@@ -51,7 +51,7 @@ public BmpDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
-| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../../resolution)类。 |
+| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../../resolution)类. |
 
 ### 也可以看看
 
@@ -64,7 +64,7 @@ public BmpDevice(int width, int height, Resolution resolution)
 
 ## BmpDevice(PageSize, Resolution) {#constructor_3}
 
-使用提供的页面大小和 初始化[`BmpDevice`](../../bmpdevice)类的新实例解析度。
+初始化[`BmpDevice`](../../bmpdevice)提供页面大小和 分辨率的类。
 
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
@@ -73,7 +73,7 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageSize | PageSize | 输出图像的页面大小。 |
-| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../../resolution)类。 |
+| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../../resolution)类. |
 
 ### 也可以看看
 
@@ -87,7 +87,7 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 
 ## BmpDevice(int, int) {#constructor_4}
 
-使用提供的图像尺寸 初始化[`BmpDevice`](../../bmpdevice)类的新实例默认分辨率（=150）。
+初始化[`BmpDevice`](../../bmpdevice)具有提供图像尺寸的类， 默认分辨率 (=150).
 
 ```csharp
 public BmpDevice(int width, int height)
@@ -108,7 +108,7 @@ public BmpDevice(int width, int height)
 
 ## BmpDevice(PageSize) {#constructor_2}
 
-使用提供的页面大小 初始化[`BmpDevice`](../../bmpdevice)类的新实例默认分辨率（=150）。
+初始化[`BmpDevice`](../../bmpdevice)具有提供页面大小的类， 默认分辨率 (=150).
 
 ```csharp
 public BmpDevice(PageSize pageSize)

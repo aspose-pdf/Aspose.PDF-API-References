@@ -16,7 +16,7 @@ public Measure(Annotation annotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 将绑定度量的注释。 |
+| annotation | Annotation | 将绑定哪个度量的注释。 |
 
 ### 也可以看看
 

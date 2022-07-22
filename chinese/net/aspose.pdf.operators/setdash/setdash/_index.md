@@ -17,7 +17,7 @@ public SetDash(int[] pattern, int phase)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pattern | Int32[] | 定义破折号模式的数组。 |
-| phase | Int32 | Dash 阶段。 |
+| phase | Int32 | 冲刺阶段。 |
 
 ### 也可以看看
 

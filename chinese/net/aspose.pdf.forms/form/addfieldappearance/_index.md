@@ -16,7 +16,7 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| field | Field | 应该在表单上添加外观的字段。 |
+| field | Field | 应在表单上添加外观的字段。 |
 | pageNumber | Int32 | 必须放置字段的页码。 |
 | rect | Rectangle | 放置字段的矩形。 |
 

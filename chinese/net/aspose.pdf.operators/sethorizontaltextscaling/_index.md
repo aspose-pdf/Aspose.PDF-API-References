@@ -18,7 +18,7 @@ public class SetHorizontalTextScaling : TextStateOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetHorizontalTextScaling](sethorizontaltextscaling)(double) | 初始化运算符。 |
+| [SetHorizontalTextScaling](sethorizontaltextscaling)(double) | 初始化操作符。 |
 
 ## 特性
 

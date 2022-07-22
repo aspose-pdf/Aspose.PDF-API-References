@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF для справочника API .NET
-description: Принимает объект посетителя для обработки оператора.
+description: Принимает объект посетителя для обработки оператором.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setrgbcolorstroke/accept/
 ---
 ## SetRGBColorStroke.Accept method
 
-Принимает объект посетителя для обработки оператора.
+Принимает объект посетителя для обработки оператором.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)

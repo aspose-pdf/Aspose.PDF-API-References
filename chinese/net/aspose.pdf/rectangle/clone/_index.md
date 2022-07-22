@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆 Rectangle 对象
+description: 克隆矩形对象
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/rectangle/clone/
 ---
 ## Rectangle.Clone method
 
-克隆 Rectangle 对象。
+克隆矩形对象。
 
 ```csharp
 public object Clone()

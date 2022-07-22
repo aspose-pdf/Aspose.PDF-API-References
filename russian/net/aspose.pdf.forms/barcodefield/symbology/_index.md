@@ -1,14 +1,14 @@
 ---
 title: Symbology
 second_title: Aspose.PDF для справочника API .NET
-description: Указывает какая технология штрих-кода или глифа должна использоваться в этой аннотации см.Symbologyaspose.pdf.forms/barcodefield/symbologyподробнее.
+description: Указывает какая технология штрих-кода или глифа должна использоваться в этой аннотации см.Symbologyaspose.pdf.forms/barcodefield/symbology подробнее.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/barcodefield/symbology/
 ---
 ## BarcodeField.Symbology property
 
-Указывает, какая технология штрих-кода или глифа должна использоваться в этой аннотации, см.`Symbology`подробнее.
+Указывает, какая технология штрих-кода или глифа должна использоваться в этой аннотации, см.`Symbology` подробнее.
 
 ```csharp
 public Symbology Symbology { get; }

@@ -18,7 +18,7 @@ public class ContentsResizeValue
 
 | Имя | Описание |
 | --- | --- |
-| [IsPercent](../../aspose.pdf.facades/contentsresizevalue/ispercent) { get; } | Получает значение true, если значение выражено в процентах; False, если значение выражено в единицах измерения по умолчанию. |
+| [IsPercent](../../aspose.pdf.facades/contentsresizevalue/ispercent) { get; } | становится истинным, если значение выражено в процентах; False, если значение выражено в единицах измерения по умолчанию. |
 | [PercentValue](../../aspose.pdf.facades/contentsresizevalue/percentvalue) { set; } | Устанавливает значение в процентах от размера страницы. |
 | [UnitValue](../../aspose.pdf.facades/contentsresizevalue/unitvalue) { set; } | Устанавливает значение в пространственных единицах по умолчанию. |
 | [Value](../../aspose.pdf.facades/contentsresizevalue/value) { get; } | Получает указанное значение. Используйте свойство Unit для получения единиц стоимости. |

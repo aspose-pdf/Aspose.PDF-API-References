@@ -24,10 +24,10 @@ public class PdfTypeObjectCreator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor)(Stream, int, bool) | 创建 IPdfTypeExtractor 对象。 |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_2)(string, int, bool) | 创建 IPdfTypeExtractor 对象。 |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_1)(Stream, string, int, bool) | 创建 IPdfTypeExtractor 对象。 |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_3)(string, string, int, bool) | 创建 IPdfTypeExtractor 对象。 |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor)(Stream, int, bool) | 创建 IdfTypeExtractor 对象。 |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_2)(string, int, bool) | 创建 IdfTypeExtractor 对象。 |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_1)(Stream, string, int, bool) | 创建 IdfTypeExtractor 对象。 |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_3)(string, string, int, bool) | 创建 IdfTypeExtractor 对象。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: EmfDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 使用写入 emf 的光栅图像的默认分辨率初始化EmfDeviceaspose.pdf.devices/emfdevice类的新实例
+description: 初始化EmfDeviceaspose.pdf.devices/emfdevice具有写入 emf. 的光栅图像默认分辨率的类
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/emfdevice/emfdevice/
 ---
 ## EmfDevice() {#constructor}
 
-使用写入 emf 的光栅图像的默认分辨率初始化[`EmfDevice`](../../emfdevice)类的新实例。
+初始化[`EmfDevice`](../../emfdevice)具有写入 emf. 的光栅图像默认分辨率的类
 
 ```csharp
 public EmfDevice()
@@ -24,7 +24,7 @@ public EmfDevice()
 
 ## EmfDevice(Resolution) {#constructor_1}
 
-初始化[`EmfDevice`](../../emfdevice)类的新实例。  写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../../resolution)班级。
+初始化[`EmfDevice`](../../emfdevice)类.  写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../../resolution)类.
 
 ```csharp
 public EmfDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public EmfDevice(Resolution resolution)
 
 ## EmfDevice(int, int) {#constructor_4}
 
-使用提供的图像尺寸 初始化[`EmfDevice`](../../emfdevice)类的新实例和写入 emf 的光栅图像的默认分辨率 (=150)
+初始化[`EmfDevice`](../../emfdevice)具有提供的图像尺寸、 和写入 emf (=150) 的光栅图像的默认分辨率的类
 
 ```csharp
 public EmfDevice(int width, int height)
@@ -49,7 +49,7 @@ public EmfDevice(int width, int height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 图像输出宽度. |
+| width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
 
 ### 也可以看看
@@ -62,7 +62,7 @@ public EmfDevice(int width, int height)
 
 ## EmfDevice(PageSize) {#constructor_2}
 
-使用提供的页面大小 初始化[`EmfDevice`](../../emfdevice)类的新实例和写入 emf 的光栅图像的默认分辨率 (=150)
+初始化[`EmfDevice`](../../emfdevice)具有提供的页面大小、 和写入 emf (=150) 的光栅图像的默认分辨率的类
 
 ```csharp
 public EmfDevice(PageSize pageSize)
@@ -70,7 +70,7 @@ public EmfDevice(PageSize pageSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSize | PageSize | 页面大小输出图像。 |
+| pageSize | PageSize | 输出图像的页面大小。 |
 
 ### 也可以看看
 
@@ -83,7 +83,7 @@ public EmfDevice(PageSize pageSize)
 
 ## EmfDevice(int, int, Resolution) {#constructor_5}
 
-使用提供的图像尺寸 初始化[`JpegDevice`](../../jpegdevice)类的新实例和写入 emf 的光栅图像的分辨率。
+初始化[`JpegDevice`](../../jpegdevice)类具有提供的图像尺寸、 和写入 emf. 的光栅图像的分辨率
 
 ```csharp
 public EmfDevice(int width, int height, Resolution resolution)
@@ -93,7 +93,7 @@ public EmfDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
-| resolution | Resolution | 写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../../resolution)类。 |
+| resolution | Resolution | 写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../../resolution)类. |
 
 ### 也可以看看
 
@@ -106,7 +106,7 @@ public EmfDevice(int width, int height, Resolution resolution)
 
 ## EmfDevice(PageSize, Resolution) {#constructor_3}
 
-使用提供的页面大小 初始化[`JpegDevice`](../../jpegdevice)类的新实例和写入 emf 的光栅图像的分辨率。
+初始化[`JpegDevice`](../../jpegdevice)类具有提供的页面大小、 和写入 emf. 的光栅图像的分辨率
 
 ```csharp
 public EmfDevice(PageSize pageSize, Resolution resolution)
@@ -115,7 +115,7 @@ public EmfDevice(PageSize pageSize, Resolution resolution)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageSize | PageSize | 输出图像的页面大小。 |
-| resolution | Resolution | 写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../../resolution)类。 |
+| resolution | Resolution | 写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../../resolution)类. |
 
 ### 也可以看看
 

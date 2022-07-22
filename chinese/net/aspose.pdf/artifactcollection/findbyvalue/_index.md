@@ -17,7 +17,7 @@ public List<Artifact> FindByValue(string name, string expectedValue)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | name | String | 自定义值的名称。 |
-| expectedValue | String | 要查找的值。 |
+| expectedValue | String | 寻找的价值。 |
 
 ### 返回值
 

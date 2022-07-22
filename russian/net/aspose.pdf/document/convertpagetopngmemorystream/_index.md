@@ -20,7 +20,7 @@ public MemoryStream ConvertPageToPNGMemoryStream(Page page)
 
 ### Возвращаемое значение
 
-Поток изображений.
+Поток изображения.
 
 ### Смотрите также
 

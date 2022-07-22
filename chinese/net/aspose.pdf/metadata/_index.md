@@ -19,9 +19,9 @@ public sealed class Metadata : IDictionary<string, XmpValue>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.pdf/metadata/count) { get; } | 获取集合中元素的计数。 |
-| [ExtensionFields](../../aspose.pdf/metadata/extensionfields) { get; } | 获取扩展字段字典。 |
-| [IsFixedSize](../../aspose.pdf/metadata/isfixedsize) { get; } | 检查colleciton是否有固定大小。 |
-| [IsReadOnly](../../aspose.pdf/metadata/isreadonly) { get; } | 检查集合是否为只读。 |
+| [ExtensionFields](../../aspose.pdf/metadata/extensionfields) { get; } | 获取扩展字段的字典。 |
+| [IsFixedSize](../../aspose.pdf/metadata/isfixedsize) { get; } | 检查colleciton 是否有固定大小。 |
+| [IsReadOnly](../../aspose.pdf/metadata/isreadonly) { get; } | 检查集合是否是只读的。 |
 | [IsSynchronized](../../aspose.pdf/metadata/issynchronized) { get; } | 检查收集是否同步。 |
 | [Item](../../aspose.pdf/metadata/item) { get; set; } | 从元数据中获取或设置数据。 |
 | [Keys](../../aspose.pdf/metadata/keys) { get; } | 获取元数据键的集合。 |
@@ -35,7 +35,7 @@ public sealed class Metadata : IDictionary<string, XmpValue>
 | --- | --- |
 | [Add](../../aspose.pdf/metadata/add#add)(KeyValuePair&lt;string, XmpValue&gt;) | 将键和值对添加到字典中。 |
 | [Add](../../aspose.pdf/metadata/add#add_3)(string, object) | 为元数据增加价值。 |
-| [Add](../../aspose.pdf/metadata/add#add_1)(string, XmpPdfAExtensionObject) | 将 pdf 扩展名添加到元数据。 |
+| [Add](../../aspose.pdf/metadata/add#add_1)(string, XmpPdfAExtensionObject) | 为元数据添加 pdf 扩展名。 |
 | [Add](../../aspose.pdf/metadata/add#add_2)(string, XmpValue) | 为元数据增加价值。 |
 | [Clear](../../aspose.pdf/metadata/clear)() | 清除元数据。 |
 | [Contains](../../aspose.pdf/metadata/contains#contains)(KeyValuePair&lt;string, XmpValue&gt;) | 检查指定的键值对是否包含在字典中。 |
@@ -45,8 +45,8 @@ public sealed class Metadata : IDictionary<string, XmpValue>
 | [GetEnumerator](../../aspose.pdf/metadata/getenumerator)() | 返回字典枚举器。 |
 | [GetNamespaceUriByPrefix](../../aspose.pdf/metadata/getnamespaceuribyprefix)(string) | 按前缀返回命名空间 URI。 |
 | [GetPrefixByNamespaceUri](../../aspose.pdf/metadata/getprefixbynamespaceuri)(string) | 按命名空间 URI 返回前缀。 |
-| [RegisterNamespaceUri](../../aspose.pdf/metadata/registernamespaceuri#registernamespaceuri)(string, string) | 注册命名空间 URI。 |
-| [RegisterNamespaceUri](../../aspose.pdf/metadata/registernamespaceuri#registernamespaceuri_1)(string, string, string) | 注册命名空间 URI。 |
+| [RegisterNamespaceUri](../../aspose.pdf/metadata/registernamespaceuri#registernamespaceuri)(string, string) | 注册命名空间 URI. |
+| [RegisterNamespaceUri](../../aspose.pdf/metadata/registernamespaceuri#registernamespaceuri_1)(string, string, string) | 注册命名空间 URI. |
 | [Remove](../../aspose.pdf/metadata/remove#remove)(KeyValuePair&lt;string, XmpValue&gt;) | 从集合中删除键/值对。 |
 | [Remove](../../aspose.pdf/metadata/remove#remove_1)(string) | 从元数据中删除条目。 |
 | [TryGetValue](../../aspose.pdf/metadata/trygetvalue)(string, out XmpValue) | 尝试在字典中查找键，如果找到则检索值。 |

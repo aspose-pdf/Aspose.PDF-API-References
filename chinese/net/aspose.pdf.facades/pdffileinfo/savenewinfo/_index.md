@@ -1,14 +1,14 @@
 ---
 title: SaveNewInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 将更新的 PDF 文档保存到指定文件中
+description: 将更新后的 PDF 文档保存到指定文件中
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf.facades/pdffileinfo/savenewinfo/
 ---
 ## PdfFileInfo.SaveNewInfo method
 
-将更新的 PDF 文档保存到指定文件中。
+将更新后的 PDF 文档保存到指定文件中。
 
 ```csharp
 public bool SaveNewInfo(string outputFile)

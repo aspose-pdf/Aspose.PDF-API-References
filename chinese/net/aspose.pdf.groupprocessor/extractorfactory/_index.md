@@ -1,14 +1,14 @@
 ---
 title: ExtractorFactory
 second_title: Aspose.PDF for .NET API 参考
-description: 表示用于创建 IPdfTypeExtractor 对象的工厂
+description: 表示创建 IPdfTypeExtractor 对象的工厂
 type: docs
 weight: 3300
 url: /zh/net/aspose.pdf.groupprocessor/extractorfactory/
 ---
 ## ExtractorFactory class
 
-表示用于创建 IPdfTypeExtractor 对象的工厂。
+表示创建 IPdfTypeExtractor 对象的工厂。
 
 ```csharp
 public static class ExtractorFactory
@@ -18,7 +18,7 @@ public static class ExtractorFactory
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Pdf](../../aspose.pdf.groupprocessor/extractorfactory/pdf) | Conains IPdfTypeExtractor 对象的创建者。 |
+| static [Pdf](../../aspose.pdf.groupprocessor/extractorfactory/pdf) | 包含 IPdfTypeExtractor 对象的创建者。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PDF для справочника API .NET
-description: Указывает равны ли этот экземпляр и указанный объект.
+description: Указывает равны ли данный экземпляр и указанный объект.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/xmpfield/equals/
 ---
 ## XmpField.Equals method
 
-Указывает, равны ли этот экземпляр и указанный объект.
+Указывает, равны ли данный экземпляр и указанный объект.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Возвращаемое значение
 
-true, если obj и этот экземпляр одного типа и представляют одно и то же значение; в противном случае ложно.
+true, если obj и этот экземпляр имеют один и тот же тип и представляют одно и то же значение; в противном случае false.
 
 ### Смотрите также
 

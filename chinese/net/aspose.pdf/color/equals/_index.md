@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PDF for .NET API 参考
-description: 如果两个颜色相等则返回真
+description: 如果两种颜色相等则返回真
 type: docs
 weight: 1530
 url: /zh/net/aspose.pdf/color/equals/
 ---
 ## Color.Equals method
 
-如果两个颜色相等则返回真。
+如果两种颜色相等则返回真。
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果颜色对象相等，则为真。
+如果 Color 对象相等，则为真。
 
 ### 也可以看看
 

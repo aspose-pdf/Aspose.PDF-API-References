@@ -1,14 +1,14 @@
 ---
 title: RadioGap
 second_title: Aspose.PDF for .NET API 参考
-description: 记录两个相邻单选按钮间距的成员以像素为单位默认为 50
+description: 记录两个相邻单选按钮之间的间距的成员以像素为单位默认为 50.
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/formeditor/radiogap/
 ---
 ## FormEditor.RadioGap property
 
-记录两个相邻单选按钮间距的成员，以像素为单位，默认为 50。
+记录两个相邻单选按钮之间的间距的成员，以像素为单位，默认为 50.
 
 ```csharp
 public float RadioGap { get; set; }

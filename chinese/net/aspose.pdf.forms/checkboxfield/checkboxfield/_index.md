@@ -39,7 +39,7 @@ public CheckboxField(Document doc, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将在哪里创建新字段的文档。 |
+| doc | Document | 记录将在哪里创建新字段。 |
 | rect | Rectangle | 将在其中创建新字段的矩形。 |
 
 ### 也可以看看
@@ -54,7 +54,7 @@ public CheckboxField(Document doc, Rectangle rect)
 
 ## CheckboxField() {#constructor}
 
-创建 CheckboxField 实例。
+创建 CheckboxField 的实例。
 
 ```csharp
 public CheckboxField()
@@ -70,7 +70,7 @@ public CheckboxField()
 
 ## CheckboxField(Document) {#constructor_1}
 
-与生成器一起使用的构造函数。
+与 Generator. 一起使用的构造函数
 
 ```csharp
 public CheckboxField(Document doc)
@@ -78,7 +78,7 @@ public CheckboxField(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Start
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置起始圆中心点
+description: 获取或设置起始圆心点
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.drawing/gradientradialshading/start/
 ---
 ## GradientRadialShading.Start property
 
-获取或设置起始圆中心点。
+获取或设置起始圆心点。
 
 ```csharp
 public Point Start { get; set; }

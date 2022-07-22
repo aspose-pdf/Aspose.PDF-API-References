@@ -18,7 +18,7 @@ public class ObsoleteFill : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ObsoleteFill](obsoletefill)() | 初始化运算符。 |
+| [ObsoleteFill](obsoletefill)() | 初始化操作符。 |
 
 ## 特性
 

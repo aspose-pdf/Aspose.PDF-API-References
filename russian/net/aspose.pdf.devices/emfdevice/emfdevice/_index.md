@@ -1,14 +1,14 @@
 ---
 title: EmfDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаEmfDeviceaspose.pdf.devices/emfdeviceс разрешением по умолчанию растрового изображения записанного в emf.
+description: Инициализирует новый экземплярEmfDeviceaspose.pdf.devices/emfdevice класс с разрешением по умолчанию для растрового изображения записанного в emf.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/emfdevice/emfdevice/
 ---
 ## EmfDevice() {#constructor}
 
-Инициализирует новый экземпляр класса[`EmfDevice`](../../emfdevice)с разрешением по умолчанию растрового изображения, записанного в emf.
+Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) класс с разрешением по умолчанию для растрового изображения, записанного в emf.
 
 ```csharp
 public EmfDevice()
@@ -24,7 +24,7 @@ public EmfDevice()
 
 ## EmfDevice(Resolution) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`EmfDevice`](../../emfdevice).  Разрешение растрового изображения, записанного в emf, см.[`Resolution`](../../resolution)учебный класс.
+Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) класс.  Разрешение растрового изображения, записанного в emf, см.[`Resolution`](../../resolution) класс.
 
 ```csharp
 public EmfDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public EmfDevice(Resolution resolution)
 
 ## EmfDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`EmfDevice`](../../emfdevice)с предоставленными размерами изображения, и разрешение по умолчанию для растрового изображения, записанного в emf (=150)
+Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) класс с предоставленными размерами изображения, и разрешением по умолчанию для растрового изображения, записанного в emf (=150)
 
 ```csharp
 public EmfDevice(int width, int height)
@@ -49,7 +49,7 @@ public EmfDevice(int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Int32 | Ширина вывода изображения . |
+| width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
 
 ### Смотрите также
@@ -62,7 +62,7 @@ public EmfDevice(int width, int height)
 
 ## EmfDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`EmfDevice`](../../emfdevice)с заданным размером страницы, и разрешение по умолчанию для растрового изображения, записанного в emf (=150)
+Инициализирует новый экземпляр[`EmfDevice`](../../emfdevice) class с заданным размером страницы, и разрешением по умолчанию для растрового изображения, записанного в emf (=150)
 
 ```csharp
 public EmfDevice(PageSize pageSize)
@@ -70,7 +70,7 @@ public EmfDevice(PageSize pageSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageSize | PageSize | Размер страницы выходное изображение. |
+| pageSize | PageSize | Размер страницы выходного изображения. |
 
 ### Смотрите также
 
@@ -83,7 +83,7 @@ public EmfDevice(PageSize pageSize)
 
 ## EmfDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`JpegDevice`](../../jpegdevice)с предоставленными размерами изображения, и разрешение для растрового изображения, записанного в emf.
+Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice) класс с предоставленными размерами изображения, и разрешением для растрового изображения, записанного в emf.
 
 ```csharp
 public EmfDevice(int width, int height, Resolution resolution)
@@ -93,7 +93,7 @@ public EmfDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение растрового изображения, записанного в emf, см.[`Resolution`](../../resolution)class. |
+| resolution | Resolution | Разрешение для растрового изображения, записанного в emf, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 
@@ -106,7 +106,7 @@ public EmfDevice(int width, int height, Resolution resolution)
 
 ## EmfDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`JpegDevice`](../../jpegdevice)с заданным размером страницы, и разрешение для растрового изображения, записанного в emf.
+Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice)класс с предоставленным размером страницы, и разрешением для растрового изображения, записанного в emf.
 
 ```csharp
 public EmfDevice(PageSize pageSize, Resolution resolution)
@@ -115,7 +115,7 @@ public EmfDevice(PageSize pageSize, Resolution resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение растрового изображения, записанного в emf, см.[`Resolution`](../../resolution)class. |
+| resolution | Resolution | Разрешение для растрового изображения, записанного в emf, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 

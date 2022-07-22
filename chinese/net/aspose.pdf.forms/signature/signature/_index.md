@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Signatureaspose.pdf.forms/signature类的新实例
+description: 初始化Signatureaspose.pdf.forms/signature类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/signature/signature/
 ---
 ## Signature() {#constructor}
 
-初始化[`Signature`](../../signature)类的新实例。
+初始化[`Signature`](../../signature)类.
 
 ```csharp
 public Signature()
@@ -24,7 +24,7 @@ public Signature()
 
 ## Signature(string, string) {#constructor_2}
 
-初始化[`Signature`](../../signature)类的新实例。
+初始化[`Signature`](../../signature)类.
 
 ```csharp
 public Signature(string pfx, string password)
@@ -32,7 +32,7 @@ public Signature(string pfx, string password)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pfx | String | Pfx 文件，其中包含用于签名的证书。 |
+| pfx | String | 包含签名证书的 Pfx 文件。 |
 | password | String | 访问证书中私钥的密码。 |
 
 ### 也可以看看
@@ -45,7 +45,7 @@ public Signature(string pfx, string password)
 
 ## Signature(Stream, string) {#constructor_1}
 
-初始化[`Signature`](../../signature)类的新实例。
+初始化[`Signature`](../../signature)类.
 
 ```csharp
 public Signature(Stream pfx, string password)
@@ -53,7 +53,7 @@ public Signature(Stream pfx, string password)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pfx | Stream | 将证书数据组织为 pfx 的流。 |
+| pfx | Stream | 以 pfx. 形式组织的证书数据流 |
 | password | String | 访问证书中私钥的密码。 |
 
 ### 也可以看看

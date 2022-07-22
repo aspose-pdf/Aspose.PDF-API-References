@@ -17,7 +17,7 @@ public void CopyTo(Annotation[] array, int index)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | array | Annotation[] | 要复制到集合中的数组。 |
-| index | Int32 | 将复制集合的起始索引。 |
+| index | Int32 | 将在其中复制集合的起始索引。 |
 
 ### 也可以看看
 

@@ -17,7 +17,7 @@ public List<Artifact> FindByValue(string name, string expectedValue)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя пользовательского значения. |
-| expectedValue | String | Значение для поиска. |
+| expectedValue | String | Значение, которое нужно найти. |
 
 ### Возвращаемое значение
 

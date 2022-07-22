@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает стиль флажка.
+description: Получает или задает стиль флажка.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/radiobuttonoptionfield/style/
 ---
 ## RadioButtonOptionField.Style property
 
-Получает или устанавливает стиль флажка.
+Получает или задает стиль флажка.
 
 ```csharp
 public BoxStyle Style { get; set; }

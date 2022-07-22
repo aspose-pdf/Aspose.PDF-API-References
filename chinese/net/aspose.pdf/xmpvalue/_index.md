@@ -19,7 +19,7 @@ public class XmpValue
 | 姓名 | 描述 |
 | --- | --- |
 | [XmpValue](xmpvalue#constructor_3)(DateTime) | 日期时间值的构造函数。 |
-| [XmpValue](xmpvalue#constructor_1)(double) | 浮点值的构造函数。 |
+| [XmpValue](xmpvalue#constructor_1)(double) | 浮点 Value. 的构造函数 |
 | [XmpValue](xmpvalue#constructor_2)(int) | 整数值的构造函数。 |
 | [XmpValue](xmpvalue#constructor_4)(string) | 字符串值的构造函数。 |
 | [XmpValue](xmpvalue#constructor)(XmpValue[]) | 数组值的构造函数。 |
@@ -30,10 +30,10 @@ public class XmpValue
 | --- | --- |
 | [IsArray](../../aspose.pdf/xmpvalue/isarray) { get; } | 返回 true 是 XmpValue 是数组。 |
 | [IsDateTime](../../aspose.pdf/xmpvalue/isdatetime) { get; } | 如果值为 DateTime，则返回 true。 |
-| [IsDouble](../../aspose.pdf/xmpvalue/isdouble) { get; } | 如果 value 是浮点值，则返回 true。 |
+| [IsDouble](../../aspose.pdf/xmpvalue/isdouble) { get; } | 如果值为浮点值，则返回 true。 |
 | [IsField](../../aspose.pdf/xmpvalue/isfield) { get; } | 如果 XmpValue 是字段，则返回 true。 |
 | [IsInteger](../../aspose.pdf/xmpvalue/isinteger) { get; } | 如果值为整数，则返回 true。 |
-| [IsNamedValue](../../aspose.pdf/xmpvalue/isnamedvalue) { get; } | 如果 XmpValue 被命名为值，则返回 true。 |
+| [IsNamedValue](../../aspose.pdf/xmpvalue/isnamedvalue) { get; } | 如果 XmpValue 被命名为 value，则返回 true。 |
 | [IsNamedValues](../../aspose.pdf/xmpvalue/isnamedvalues) { get; } | 返回 true 是 XmpValue 表示命名值。 |
 | [IsRaw](../../aspose.pdf/xmpvalue/israw) { get; } | 值不受支持/未知，并且提供了原始 XML 代码。 |
 | [IsString](../../aspose.pdf/xmpvalue/isstring) { get; } | 如果值为字符串，则返回 true。 |
@@ -53,11 +53,11 @@ public class XmpValue
 | [ToNamedValues](../../aspose.pdf/xmpvalue/tonamedvalues)() | 将 XMP 值作为命名值集合返回。 |
 | [ToRaw](../../aspose.pdf/xmpvalue/toraw)() | 未知/不支持值的原始 XML 代码。 |
 | override [ToString](../../aspose.pdf/xmpvalue/tostring#tostring)() | 返回 XmpValue 的字符串表示形式。 |
-| [ToString](../../aspose.pdf/xmpvalue/tostring#tostring_1)(IFormatProvider) | 返回字符串表示。 |
+| [ToString](../../aspose.pdf/xmpvalue/tostring#tostring_1)(IFormatProvider) | 返回字符串表示形式。 |
 | [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue)() | 转换为字符串。 |
 | [ToStructure](../../aspose.pdf/xmpvalue/tostructure)() | 将 XMP 值作为结构（字段集）返回。 |
 | [explicit operator](../../aspose.pdf/xmpvalue/op_explicit#op_explicit) | 将 XmpValue 转换为数组。 (5 operators) |
-| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit#op_implicit_4) | 将字符串转换为 XmpValue。 (5 operators) |
+| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit#op_implicit_4) | 将字符串转换为 XmpValue. (5 operators) |
 
 ### 也可以看看
 

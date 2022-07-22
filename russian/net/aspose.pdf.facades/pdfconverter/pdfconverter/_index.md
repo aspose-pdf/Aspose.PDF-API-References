@@ -1,14 +1,14 @@
 ---
 title: PdfConverter
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новыйPdfConverteraspose.pdf.facades/pdfconverterобъект.
+description: Инициализирует новыйPdfConverteraspose.pdf.facades/pdfconverter объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfconverter/pdfconverter/
 ---
 ## PdfConverter() {#constructor}
 
-Инициализирует новый[`PdfConverter`](../../pdfconverter)объект.
+Инициализирует новый[`PdfConverter`](../../pdfconverter) объект.
 
 ```csharp
 public PdfConverter()
@@ -24,7 +24,7 @@ public PdfConverter()
 
 ## PdfConverter(Document) {#constructor_1}
 
-Инициализирует новый[`PdfConverter`](../../pdfconverter)объект на основе*document*.
+Инициализирует новый[`PdfConverter`](../../pdfconverter) объект на базе*document* .
 
 ```csharp
 public PdfConverter(Document document)
@@ -32,7 +32,7 @@ public PdfConverter(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

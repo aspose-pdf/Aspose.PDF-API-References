@@ -25,8 +25,8 @@ public class XmlSaveOptions : SaveOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | 获取或设置布尔值，指示在文档保存到响应后将关闭响应对象。 |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | 数据保存格式。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，Save 操作会继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。 |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | 数据保存的格式。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Save 操作继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。 |
 
 ### 也可以看看
 

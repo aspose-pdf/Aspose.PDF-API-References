@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF для справочника API .NET
-description: Выравнивание текста. Допустимые значенияслева по центру справа.
+description: Выравнивание текста. Допустимые значения слева по центру справа.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
 ## TextStyle.HorizontalAlignment property
 
-Выравнивание текста. Допустимые значения:слева, по центру, справа.
+Выравнивание текста. Допустимые значения: слева, по центру, справа.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

@@ -20,7 +20,7 @@ public MemoryStream[] SplitToPages(string inputFile)
 
 ### Возвращаемое значение
 
-Вывод PDF-потоков, каждый поток буферизует одностраничный PDF-документ.
+Выходные потоки PDF, каждый поток буферизует одностраничный документ PDF.
 
 ### Смотрите также
 
@@ -40,7 +40,7 @@ public MemoryStream[] SplitToPages(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной поток Pdf. |
+| inputStream | Stream | Входной поток PDF. |
 
 ### Возвращаемое значение
 
@@ -56,7 +56,7 @@ public MemoryStream[] SplitToPages(Stream inputStream)
 
 ## SplitToPages(string, string) {#splittopages_3}
 
-Разделить файл Pdf на одностраничные документы и сохранить его по указанному пути. Путь задается полем имени поля шаблона.
+Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. Путь задается полем имени поля temaplate.
 
 ```csharp
 public void SplitToPages(string inputFile, string fileNameTemplate)
@@ -65,7 +65,7 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Введите имя файла. |
-| fileNameTemplate | String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указан c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена:c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |
+| fileNameTemplate | String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указано c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |
 
 ### Смотрите также
 
@@ -77,7 +77,7 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 
 ## SplitToPages(Stream, string) {#splittopages_2}
 
-Разделить файл Pdf на одностраничные документы и сохранить его по указанному пути. Путь задается полем имени поля шаблона.
+Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. Путь задается полем имени поля temaplate.
 
 ```csharp
 public void SplitToPages(Stream inputStream, string fileNameTemplate)
@@ -86,7 +86,7 @@ public void SplitToPages(Stream inputStream, string fileNameTemplate)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Поток исходного документа. |
-| fileNameTemplate | String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указан c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена:c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |
+| fileNameTemplate | String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указано c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |
 
 ### Смотрите также
 

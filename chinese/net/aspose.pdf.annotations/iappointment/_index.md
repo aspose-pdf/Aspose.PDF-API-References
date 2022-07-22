@@ -1,14 +1,14 @@
 ---
 title: IAppointment
 second_title: Aspose.PDF for .NET API 参考
-description: 表示动作和目的地的通用接口
+description: 表示操作和目的地的通用接口
 type: docs
 weight: 520
 url: /zh/net/aspose.pdf.annotations/iappointment/
 ---
 ## IAppointment interface
 
-表示动作和目的地的通用接口。
+表示操作和目的地的通用接口。
 
 ```csharp
 public interface IAppointment
@@ -18,7 +18,7 @@ public interface IAppointment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring)() | 返回字符串表示 |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring)() | 返回字符串表示形式 |
 
 ### 也可以看看
 

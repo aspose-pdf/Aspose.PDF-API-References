@@ -21,15 +21,14 @@ public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings
 
 ### 例子
 
-打印机设置对象用于打印文档。 pageSettings.PrinterSettings 对象被忽略。
+printerSettings 对象用于打印文档。 pageSettings.PrinterSettings 对象被忽略。
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;           //打印调整大小的文件
-iewer.AutoRotate = true;           //打印调整rotation
-
+iewer.AutoResize = true;         //打印调整大小的文件
+iewer.AutoRotate = true;         //打印调整旋转的文件
 iewer.PrintPageDialog=false;//打印时不产生页码对话框
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
@@ -44,8 +43,8 @@ VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
 iewer.AutoResize = true;           '打印调整大小的文件
-iewer.AutoRotate = true;           '打印调整rotation
-iewer.PrintPageDialog=false;       '打印时不产生页码对话框
+iewer.AutoRotate = true;           '使用调整后的旋转打印文件
+iewer.PrintPageDialog=false;//打印时不产生页码对话框
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -82,9 +81,8 @@ public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;           //打印调整大小的文件
-iewer.AutoRotate = true;           //打印调整rotation
-
+iewer.AutoResize = true;         //打印调整大小的文件
+iewer.AutoRotate = true;         //打印调整旋转的文件
 iewer.PrintPageDialog=false;//打印时不产生页码对话框
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
@@ -96,8 +94,8 @@ VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
 iewer.AutoResize = true;        '打印调整大小的文件
-iewer.AutoRotate = true;        '打印调整rotation
-iewer.PrintPageDialog=false;    '打印时不产生页码对话框
+iewer.AutoRotate = true;        '使用调整后的旋转打印文件
+iewer.PrintPageDialog=false;//打印时不产生页码对话框
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName

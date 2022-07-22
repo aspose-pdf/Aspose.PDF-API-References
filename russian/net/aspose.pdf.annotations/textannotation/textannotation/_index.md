@@ -1,14 +1,14 @@
 ---
 title: TextAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор для аннотации при использовании в генераторе.
+description: Конструктор для аннотаций при использовании в Генераторе.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/textannotation/textannotation/
 ---
 ## TextAnnotation(Document) {#constructor}
 
-Конструктор для аннотации при использовании в генераторе.
+Конструктор для аннотаций при использовании в Генераторе.
 
 ```csharp
 public TextAnnotation(Document document)

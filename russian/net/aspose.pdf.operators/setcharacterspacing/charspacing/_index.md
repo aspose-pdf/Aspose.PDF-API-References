@@ -1,14 +1,14 @@
 ---
 title: CharSpacing
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает интервал между символами.
+description: Получает или задает межсимвольный интервал.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setcharacterspacing/charspacing/
 ---
 ## SetCharacterSpacing.CharSpacing property
 
-Получает или задает интервал между символами.
+Получает или задает межсимвольный интервал.
 
 ```csharp
 public double CharSpacing { get; set; }

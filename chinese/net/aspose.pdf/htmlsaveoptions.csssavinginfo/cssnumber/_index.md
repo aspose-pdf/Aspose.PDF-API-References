@@ -1,14 +1,14 @@
 ---
 title: CssNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 由转换器设置 在转换过程中会创建几个 CSS 文件此属性显示转换期间保存的 CSS 文件的序号  可用于自定义代码的逻辑来决定如何处理或保存 CSS 内容
+description: 由转换器设置 在转换过程中会创建几个 CSS 文件此属性显示转换期间保存的 CSS 文件的序数  可用于自定义代码的逻辑来决定如何处理或保存 CSS 内容
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/htmlsaveoptions.csssavinginfo/cssnumber/
 ---
 ## HtmlSaveOptions.CssSavingInfo.CssNumber field
 
-由转换器设置。 在转换过程中会创建几个 CSS 文件。此属性显示转换期间保存的 CSS 文件的序号 。 可用于自定义代码的逻辑来决定如何处理或保存 CSS 内容
+由转换器设置。 在转换过程中会创建几个 CSS 文件。此属性显示转换期间保存的 CSS 文件的序数 。 可用于自定义代码的逻辑来决定如何处理或保存 CSS 内容
 
 ```csharp
 public int CssNumber;

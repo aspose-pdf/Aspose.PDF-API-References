@@ -16,11 +16,11 @@ public ReturnAction Warning(WarningInfo warning)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| warning | WarningInfo | 一些发生警告的警告信息 |
+| warning | WarningInfo | 一些发生的警告信息warning |
 
 ### 返回值
 
-进一步程序工作流程的结果
+进一步程序工作流的结果
 
 ### 也可以看看
 

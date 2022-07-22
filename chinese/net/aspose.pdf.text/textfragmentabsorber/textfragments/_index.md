@@ -1,14 +1,14 @@
 ---
 title: TextFragments
 second_title: Aspose.PDF for .NET API 参考
-description: 获取与TextFragmentaspose.pdf.text/textfragment对象一起呈现的搜索事件的集合
+description: 获取出现的搜索事件的集合TextFragmentaspose.pdf.text/textfragment对象.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/textfragments/
 ---
 ## TextFragmentAbsorber.TextFragments property
 
-获取与[`TextFragment`](../../textfragment)对象一起呈现的搜索事件的集合。
+获取出现的搜索事件的集合[`TextFragment`](../../textfragment)对象.
 
 ```csharp
 public TextFragmentCollection TextFragments { get; set; }
@@ -16,29 +16,29 @@ public TextFragmentCollection TextFragments { get; set; }
 
 ### 例子
 
-该示例演示如何在第一个 PDF 文档页面上查找文本并将所有搜索结果替换为新的文本。
+该示例演示了如何在第一个 PDF 文档页面上查找文本并将所有搜索结果替换为新文本。
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// 查找将用于更改文档文本的字体 font
-pose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+// 查找将用于更改文档文本字体的字体
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 更改所有搜索事件的文本
-reach (TextFragment textFragment in absorber.TextFragments)
-
-  textFragment.Text = "hi world";
-
+foreach (TextFragment textFragment in absorber.TextFragments)
+{
+    textFragment.Text = "hi world";
+}
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### 也可以看看

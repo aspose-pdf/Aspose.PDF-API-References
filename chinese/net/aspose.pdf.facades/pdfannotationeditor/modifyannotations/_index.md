@@ -1,14 +1,14 @@
 ---
 title: ModifyAnnotations
 second_title: Aspose.PDF for .NET API 参考
-description: 修改指定页面范围内指定类型的注解 支持修改下一个注解属性ModifiedTitleContentsColorSubject和Open
+description: 在指定页面范围内修改指定类型的注解 支持修改下一个注解属性ModifiedTitleContentsColorSubject和Open
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
 ## PdfAnnotationEditor.ModifyAnnotations method
 
-修改指定页面范围内指定类型的注解。 支持修改下一个注解属性:Modified、Title、Contents、Color、Subject和Open。
+在指定页面范围内修改指定类型的注解。 支持修改下一个注解属性：Modified、Title、Contents、Color、Subject和Open。
 
 ```csharp
 public void ModifyAnnotations(int start, int end, Annotation annotation)

@@ -18,9 +18,9 @@ public interface ITaggedContent
 
 | Имя | Описание |
 | --- | --- |
-| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement) { get; } | Получает корень[`StructureElement`](../../aspose.pdf.logicalstructure/structureelement)логической структуры документа PDF. |
-| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement) { get; } | Получает[`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement)документа PDF. |
-| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate) { get; } | Получить[`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate)настройки для всего документа. |
+| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement) { get; } | Получает root[`StructureElement`](../../aspose.pdf.logicalstructure/structureelement) логической структуры документа PDF. |
+| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement) { get; } | Получает[`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement) документа PDF. |
+| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate) { get; } | Получить[`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate) настройки для всего документа. |
 
 ## Методы
 
@@ -37,7 +37,7 @@ public interface ITaggedContent
 | [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement)() | Создает[`FormElement`](../../aspose.pdf.logicalstructure/formelement). |
 | [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement)() | Создает[`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement). |
 | [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement)() | Создает[`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement). |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement_1)(int) | Создает[`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement)с уровнем. |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement_1)(int) | Создает[`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement) с уровнем. |
 | [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement)() | Создает[`IndexElement`](../../aspose.pdf.logicalstructure/indexelement). |
 | [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement)() | Создает[`LinkElement`](../../aspose.pdf.logicalstructure/linkelement). |
 | [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement)() | Создает[`ListElement`](../../aspose.pdf.logicalstructure/listelement). |
@@ -61,8 +61,8 @@ public interface ITaggedContent
 | [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement)() | Создает[`TOCElement`](../../aspose.pdf.logicalstructure/tocelement). |
 | [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement)() | Создает[`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement). |
 | [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement)() | Создает[`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement). |
-| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage)(string) | Устанавливает естественный язык для pdf-документа. |
-| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle)(string) | Устанавливает заголовок PDF-документа. |
+| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage)(string) | Устанавливает естественный язык для документа PDF. |
+| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle)(string) | Устанавливает заголовок для PDF-документа. |
 
 ### Смотрите также
 

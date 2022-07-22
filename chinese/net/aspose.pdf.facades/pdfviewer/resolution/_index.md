@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Aspose.PDF for .NET API 参考
-description: 在查看和打印期间获取或设置分辨率分辨率越高速度越慢默认值为 150
+description: 在查看和打印期间获取或设置分辨率分辨率越高速度越慢默认值为 150.
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.facades/pdfviewer/resolution/
 ---
 ## PdfViewer.Resolution property
 
-在查看和打印期间获取或设置分辨率。分辨率越高，速度越慢。默认值为 150。
+在查看和打印期间获取或设置分辨率。分辨率越高，速度越慢。默认值为 150.
 
 ```csharp
 public int Resolution { get; set; }

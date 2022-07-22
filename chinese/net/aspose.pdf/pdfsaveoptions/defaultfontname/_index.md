@@ -1,14 +1,14 @@
 ---
 title: DefaultFontName
 second_title: Aspose.PDF for .NET API 参考
-description: 计算机上不存在的字体默认使用的字体名称 当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的 字体时API 会将此字体替换为 默认字体如果在设备上找到带有DefaultFontNameaspose.pdf/pdfsaveoptions/defaultfontname的字体
+description: 计算机上不存在的字体默认使用的字体名称 当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的 字体时API 会将此字体替换为 默认字体如果字体与DefaultFontNameaspose.pdf/pdfsaveoptions/defaultfontname在设备上找到
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pdfsaveoptions/defaultfontname/
 ---
 ## PdfSaveOptions.DefaultFontName property
 
-计算机上不存在的字体默认使用的字体名称。 当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的 字体时，API 会将此字体替换为 默认字体（如果在设备上找到带有`DefaultFontName`的字体）
+计算机上不存在的字体默认使用的字体名称。 当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的 字体时，API 会将此字体替换为 默认字体（如果字体与`DefaultFontName`在设备上找到）
 
 ```csharp
 public string DefaultFontName { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CheckboxField
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор класса CheckboxField.
+description: Конструктор для класса CheckboxField.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/checkboxfield/checkboxfield/
 ---
 ## CheckboxField(Page, Rectangle) {#constructor_3}
 
-Конструктор класса CheckboxField.
+Конструктор для класса CheckboxField.
 
 ```csharp
 public CheckboxField(Page page, Rectangle rect)
@@ -31,7 +31,7 @@ public CheckboxField(Page page, Rectangle rect)
 
 ## CheckboxField(Document, Rectangle) {#constructor_2}
 
-Конструктор класса CheckboxField.
+Конструктор для класса CheckboxField.
 
 ```csharp
 public CheckboxField(Document doc, Rectangle rect)

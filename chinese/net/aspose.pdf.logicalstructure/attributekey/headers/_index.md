@@ -1,14 +1,14 @@
 ---
 title: Headers
 second_title: Aspose.PDF for .NET API 参考
-description: Headers 属性表属性所有者
+description: 标题属性表属性所有者
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/headers/
 ---
 ## AttributeKey.Headers field
 
-Headers 属性（表属性所有者）。
+标题属性（表属性所有者）。
 
 ```csharp
 public static readonly AttributeKey Headers;

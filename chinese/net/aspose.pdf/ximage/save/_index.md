@@ -37,7 +37,7 @@ public void Save(Stream stream, ImageFormat format)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 将保存图像的流 |
-| format | ImageFormat | 格式这将用于图像编码。ImageFormat |
+| format | ImageFormat | 将用于图像编码的格式。ImageFormat |
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public void Save(Stream stream, ImageFormat format)
 
 ## Save(Stream, int) {#save_1}
 
-将图像数据以指定分辨率的 JPEG 图像形式保存到流中。
+将图像数据以指定分辨率的 JPEG 图像格式保存到流中。
 
 ```csharp
 public void Save(Stream stream, int resolution)
@@ -70,7 +70,7 @@ public void Save(Stream stream, int resolution)
 
 ## Save(Stream, ImageFormat, int) {#save_3}
 
-以指定分辨率的请求格式将图像保存到流中。
+将图像以指定分辨率的请求格式保存到流中。
 
 ```csharp
 public void Save(Stream stream, ImageFormat format, int resolution)
@@ -79,7 +79,7 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 将保存图像的流 |
-| format | ImageFormat | 格式这将用于图像编码。ImageFormat |
+| format | ImageFormat | 将用于图像编码的格式。ImageFormat |
 | resolution | Int32 | 图像分辨率 |
 
 ### 也可以看看

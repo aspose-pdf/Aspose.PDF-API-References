@@ -17,7 +17,7 @@ public void ShowStampById(int pageNumber, int stampId)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumber | Int32 | 页码。 |
-| stampId | Int32 | 应显示的戳记标识符。 |
+| stampId | Int32 | 应显示的邮票标识符。 |
 
 ### 也可以看看
 

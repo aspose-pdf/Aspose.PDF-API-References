@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекцию ключей метаданных.
+description: Получает набор ключей метаданных.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/metadata/keys/
 ---
 ## Metadata.Keys property
 
-Получает коллекцию ключей метаданных.
+Получает набор ключей метаданных.
 
 ```csharp
 public ICollection<string> Keys { get; }

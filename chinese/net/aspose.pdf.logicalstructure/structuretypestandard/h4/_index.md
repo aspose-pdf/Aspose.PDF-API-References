@@ -1,14 +1,14 @@
 ---
 title: H4
 second_title: Aspose.PDF for .NET API 参考
-description: 4 级标题用于不能分层嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器
+description: 4 级标题用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/h4/
 ---
 ## StructureTypeStandard.H4 field
 
-4 级标题，用于不能分层嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器。
+4 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器。
 
 ```csharp
 public static readonly StructureTypeStandard H4;

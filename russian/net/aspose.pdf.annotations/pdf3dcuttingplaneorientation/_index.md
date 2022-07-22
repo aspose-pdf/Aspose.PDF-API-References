@@ -18,22 +18,22 @@ public class PDF3DCuttingPlaneOrientation
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor)() | Инициализирует новый экземпляр класса[`PDF3DCuttingPlaneOrientation`](../pdf3dcuttingplaneorientation). |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor_1)(double?, double?, double?) | Инициализирует новый экземпляр класса[`PDF3DCuttingPlaneOrientation`](../pdf3dcuttingplaneorientation). |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor)() | Инициализирует новый экземпляр[`PDF3DCuttingPlaneOrientation`](../pdf3dcuttingplaneorientation) класс. |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor_1)(double?, double?, double?) | Инициализирует новый экземпляр[`PDF3DCuttingPlaneOrientation`](../pdf3dcuttingplaneorientation) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex) { get; set; } | Получает или задает угол по оси X. |
-| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley) { get; set; } | Получает или задает угол по оси Y. |
-| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez) { get; set; } | Получает или задает угол относительно оси Z. |
+| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex) { get; set; } | Получает или задает угол оси X. |
+| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley) { get; set; } | Получает или задает угол оси Y. |
+| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez) { get; set; } | Получает или задает угол по оси Z. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

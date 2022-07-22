@@ -1,14 +1,14 @@
 ---
 title: LineType
 second_title: Aspose.PDF for .NET API 参考
-description: 表示边界线的类型 - fe 虚线或实线
+description: 表示边界线的类型 - fe Dashed 或 Solid
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/saveoptions.borderpartstyle/linetype/
 ---
 ## SaveOptions.BorderPartStyle.LineType field
 
-表示边界线的类型 - fe 虚线或实线
+表示边界线的类型 - fe Dashed 或 Solid
 
 ```csharp
 public HtmlBorderLineType LineType;

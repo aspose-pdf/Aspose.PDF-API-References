@@ -1,14 +1,14 @@
 ---
 title: Phrase
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает фразу которуюTextFragmentAbsorberaspose.pdf.text/textfragmentabsorberищет в документе или странице PDF.
+description: Получает или задает фразу которуюTextFragmentAbsorberaspose.pdf.text/textfragmentabsorber поиск в документе PDF или на странице.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/phrase/
 ---
 ## TextFragmentAbsorber.Phrase property
 
-Получает или задает фразу, которую[`TextFragmentAbsorber`](../../textfragmentabsorber)ищет в документе или странице PDF.
+Получает или задает фразу, которую[`TextFragmentAbsorber`](../../textfragmentabsorber) поиск в документе PDF или на странице.
 
 ```csharp
 public string Phrase { get; set; }
@@ -16,26 +16,26 @@ public string Phrase { get; set; }
 
 ### Примеры
 
-В примере показано, как выполнять поиск текста несколько раз и выполнять замену текста.
+В примере показано, как выполнить поиск текста несколько раз и выполнить замену текста.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «привет»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
 
-oc.Pages[1].Accept(absorber);
-bsorber.TextFragments[1].Text = "Hi";
+doc.Pages[1].Accept(absorber);
+absorber.TextFragments[1].Text = "Hi";
 
 // ищем другое слово и заменяем его
-bsorber.Phrase = "world";
+absorber.Phrase = "world";
 
-oc.Pages[1].Accept(absorber);
-bsorber.TextFragments[1].Text = "John";
+doc.Pages[1].Accept(absorber);
+absorber.TextFragments[1].Text = "John";
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Смотрите также

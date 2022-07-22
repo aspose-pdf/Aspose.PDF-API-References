@@ -1,14 +1,14 @@
 ---
 title: CreateReferenceElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建ReferenceElementaspose.pdf.logicalstructure/referenceelement
+description: 创建ReferenceElementaspose.pdf.logicalstructure/referenceelement.
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
 ## ITaggedContent.CreateReferenceElement method
 
-创建[`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement)。
+创建[`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement).
 
 ```csharp
 public ReferenceElement CreateReferenceElement()
@@ -16,7 +16,7 @@ public ReferenceElement CreateReferenceElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

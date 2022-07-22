@@ -1,14 +1,14 @@
 ---
 title: DashArray
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个破折号数组
+description: 获取或设置一个虚线数组
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/graphinfo/dasharray/
 ---
 ## GraphInfo.DashArray property
 
-获取或设置一个破折号数组。
+获取或设置一个虚线数组。
 
 ```csharp
 public int[] DashArray { get; set; }

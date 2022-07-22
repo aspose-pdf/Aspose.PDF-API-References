@@ -1,14 +1,14 @@
 ---
 title: DrawTextRectangleBorder
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает флаг если граница текстового прямоугольника нарисована.
+description: Получает или задает флаг нарисованной границы текстового прямоугольника.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textfragmentstate/drawtextrectangleborder/
 ---
 ## TextFragmentState.DrawTextRectangleBorder property
 
-Получает или устанавливает флаг, если граница текстового прямоугольника нарисована.
+Получает или задает флаг нарисованной границы текстового прямоугольника.
 
 ```csharp
 public bool DrawTextRectangleBorder { get; set; }

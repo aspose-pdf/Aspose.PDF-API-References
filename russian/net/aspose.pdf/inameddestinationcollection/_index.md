@@ -1,14 +1,14 @@
 ---
 title: INamedDestinationCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Коллекция именованных пунктов назначения.
+description: Коллекция названных пунктов назначения.
 type: docs
 weight: 3640
 url: /ru/net/aspose.pdf/inameddestinationcollection/
 ---
 ## INamedDestinationCollection interface
 
-Коллекция именованных пунктов назначения.
+Коллекция названных пунктов назначения.
 
 ```csharp
 public interface INamedDestinationCollection

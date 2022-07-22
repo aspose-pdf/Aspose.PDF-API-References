@@ -19,9 +19,9 @@ public enum PropertyFlag
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | ReadOnly | `0` | 字段是只读的。 |
-| Required | `1` | 必填字段。 |
+| Required | `1` | 字段为必填项。 |
 | NoExport | `2` | 字段不可导出。 |
-| InvalidFlag | `3` | 无效字段标志。 |
+| InvalidFlag | `3` | 无效的字段标志。 |
 
 ### 也可以看看
 

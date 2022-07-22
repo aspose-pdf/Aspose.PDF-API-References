@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API 参考
-description: 文本字符串指定用于用户界面和 JavaScript 操作的名称树查找的再现名称
+description: 指定再现名称的文本字符串用于用户界面和 JavaScript 操作的名称树查找
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/rendition/name/
 ---
 ## Rendition.Name property
 
-文本字符串，指定用于用户界面和 JavaScript 操作的名称树查找的再现名称。
+指定再现名称的文本字符串，用于用户界面和 JavaScript 操作的名称树查找。
 
 ```csharp
 public string Name { get; set; }

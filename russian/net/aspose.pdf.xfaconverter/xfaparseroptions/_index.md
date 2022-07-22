@@ -1,14 +1,14 @@
 ---
 title: XfaParserOptions
 second_title: Aspose.PDF для справочника API .NET
-description: класс для обработки связанной инкапсуляции данных
+description: класс для обработки связанных данных incapsulation
 type: docs
 weight: 7420
 url: /ru/net/aspose.pdf.xfaconverter/xfaparseroptions/
 ---
 ## XfaParserOptions class
 
-класс для обработки связанной инкапсуляции данных
+класс для обработки связанных данных incapsulation
 
 ```csharp
 public class XfaParserOptions
@@ -18,16 +18,16 @@ public class XfaParserOptions
 
 | Имя | Описание |
 | --- | --- |
-| [XfaParserOptions](xfaparseroptions)(SizeF) | Инициализирует новый экземпляр класса[`XfaParserOptions`](../xfaparseroptions). |
+| [XfaParserOptions](xfaparseroptions)(SizeF) | Инициализирует новый экземпляр[`XfaParserOptions`](../xfaparseroptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BasePath](../../aspose.pdf.xfaconverter/xfaparseroptions/basepath) { get; set; } | Получает или задает базовый путь. |
-| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups) { get; set; } | Если это свойство истинно, то для требуемых Xfa "исключенных групп" будут нарисованы дополнительные красные прямоугольники Это свойство введено из-за отсутствия аналогов исключенные группы при преобразовании Xfa представления форм в стандартное. По умолчанию это ложь. |
+| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups) { get; set; } | Если это свойство истинно, то для требуемых Xfa "исключенных групп" будут отрисовываться дополнительные красные прямоугольники Это свойство введено из-за отсутствия аналогов исключаемых групп при преобразовании Xfa представления форм в стандартное. По умолчанию false. |
 | [PageSize](../../aspose.pdf.xfaconverter/xfaparseroptions/pagesize) { get; set; } | Получает или задает размер страницы. |
-| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed) { get; set; } | Если это свойство истинно, то документ будет преобразован с использованием потока формы xfa (если он существует). Если ложно, то поток форм xfa будет игнорироваться. Это свойство было введено, потому что неясно, как вычислить контрольную сумму, используемую для проверки подписи. |
+| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed) { get; set; } | Если это свойство имеет значение true, то документ будет преобразован с использованием потока формы xfa (если он существует). Если значение равно false, то поток формы xfa будет игнорироваться. который использовался для проверки подписи. |
 | [UriResolver](../../aspose.pdf.xfaconverter/xfaparseroptions/uriresolver) { get; set; } | Получает или задает преобразователь URI. |
 
 ### Смотрите также

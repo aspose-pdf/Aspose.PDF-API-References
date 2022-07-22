@@ -24,12 +24,12 @@ public class ImageCompressionOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages) { get; set; } | 如果此标志设置为 true，图像将在文档中压缩。压缩级别由 ImageQuality 属性指定。 |
+| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages) { get; set; } | 如果此标志设置为 true，图像将被压缩到文档中。压缩级别由 ImageQuality 属性指定。 |
 | [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding) { get; set; } | 获取或设置用于存储图像的编码。 |
 | [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality) { get; set; } | 指定使用 CompressIamges 标志时的图像压缩级别。 |
 | [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution) { get; set; } | 指定图像的最大分辨率。如果图像具有更高的分辨率，它将被缩放 |
-| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages) { get; set; } | 如果此标志设置为 true 并且 CompressImages 为 true 如果图像分辨率大于指定的 MaxResolution 参数，则图像将调整大小。 |
-| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version) { get; set; } | 压缩算法版本。可能的值是:1. 标准压缩，2. 快速（改进的压缩比标准更快，但可能不适用于所有图像），3. 混合（标准压缩应用于无法通过更快算法压缩的图像，这可能会提供最佳压缩，但比“快速”算法更慢。“快速”版本不适用于调整图像大小（将使用标准方法）。默认为“标准”。 |
+| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages) { get; set; } | 如果此标志设置为 true 并且 CompressImages 为 true，如果图像分辨率大于指定的 MaxResolution 参数，图像将调整大小。 |
+| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version) { get; set; } | 压缩算法的版本。可能的值是：1. 标准压缩，2. 快速（改进的压缩比标准更快，但可能不适用于所有图像），3. 混合（标准压缩应用于无法通过更快算法压缩的图像，这可能会提供最佳压缩，但比“快速”算法更慢。“快速”版本不适用于调整图像大小（将使用标准方法）。默认为“标准”。 |
 
 ### 也可以看看
 

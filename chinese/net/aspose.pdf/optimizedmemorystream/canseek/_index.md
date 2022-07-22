@@ -1,14 +1,14 @@
 ---
 title: CanSeek
 second_title: Aspose.PDF for .NET API 参考
-description: 在派生类中重写时获取一个值指示当前流是否支持查找
+description: 在派生类中重写时获取一个值指示当前流是否支持搜索
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/optimizedmemorystream/canseek/
 ---
 ## OptimizedMemoryStream.CanSeek property
 
-在派生类中重写时，获取一个值，指示当前流是否支持查找。
+在派生类中重写时，获取一个值，指示当前流是否支持搜索。
 
 ```csharp
 public override bool CanSeek { get; }

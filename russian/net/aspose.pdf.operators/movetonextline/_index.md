@@ -30,7 +30,7 @@ public class MoveToNextLine : TextPlaceOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextline/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/movetonextline/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/movetonextline/tostring)() | Возвращает текст оператора. |
 
 ### Смотрите также

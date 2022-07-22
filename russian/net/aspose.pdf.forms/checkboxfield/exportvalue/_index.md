@@ -1,14 +1,14 @@
 ---
 title: ExportValue
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает экспортное значение поля CheckBox.
+description: Получает или задает экспортное значение поля CheckBox.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/checkboxfield/exportvalue/
 ---
 ## CheckboxField.ExportValue property
 
-Получает или устанавливает экспортное значение поля CheckBox.
+Получает или задает экспортное значение поля CheckBox.
 
 ```csharp
 public string ExportValue { get; set; }

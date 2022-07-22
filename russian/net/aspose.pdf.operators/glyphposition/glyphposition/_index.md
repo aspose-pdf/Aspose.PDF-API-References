@@ -1,14 +1,14 @@
 ---
 title: GlyphPosition
 second_title: Aspose.PDF для справочника API .NET
-description: Создает позицию глифа.
+description: Создает положение глифа.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/glyphposition/glyphposition/
 ---
 ## GlyphPosition(string, double) {#constructor_1}
 
-Создает позицию глифа.
+Создает положение глифа.
 
 ```csharp
 public GlyphPosition(string text, double position)
@@ -37,7 +37,7 @@ public GlyphPosition(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое вычисление. |
+| text | String | Текстовый кал. |
 
 ### Смотрите также
 

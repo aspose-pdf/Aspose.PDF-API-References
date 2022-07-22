@@ -1,14 +1,14 @@
 ---
 title: IsFirstParagraphInColumn
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个布尔值指示该段落是否位于下一列 默认为 false用于 pdf 生成
+description: 获取或设置一个布尔值指示此段落是否将在下一列 默认为 false用于 pdf 生成
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/
 ---
 ## BaseParagraph.IsFirstParagraphInColumn property
 
-获取或设置一个布尔值，指示该段落是否位于下一列。 默认为 false。（用于 pdf 生成）
+获取或设置一个布尔值，指示此段落是否将在下一列。 默认为 false。（用于 pdf 生成）
 
 ```csharp
 public bool IsFirstParagraphInColumn { get; set; }

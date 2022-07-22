@@ -1,14 +1,14 @@
 ---
 title: BlockAlign_Justify
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BlockAlignJustify - 子元素与表格单元格内容矩形的前后边缘对齐第一个孩子应按照之前的描述放置最后一个孩子按照之后的描述放置孩子之间的间距相等如果只有一个孩子它应该只与前边缘对齐就像之前一样
+description: 属性 BlockAlign Justify - 子元素与表格单元格内容矩形的前后边缘对齐第一个孩子应按照之前的描述放置最后一个孩子按照之后的描述放置孩子之间的间距相等如果只有一个孩子则只与前边对齐如Before.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.logicalstructure/attributename/blockalign_justify/
 ---
 ## AttributeName.BlockAlign_Justify field
 
-属性 BlockAlign:Justify - 子元素与表格单元格内容矩形的前后边缘对齐。第一个孩子应按照之前的描述放置，最后一个孩子按照之后的描述放置，孩子之间的间距相等。如果只有一个孩子，它应该只与前边缘对齐，就像之前一样。
+属性 BlockAlign: Justify - 子元素与表格单元格内容矩形的前后边缘对齐。第一个孩子应按照之前的描述放置，最后一个孩子按照之后的描述放置，孩子之间的间距相等。如果只有一个孩子，则只与前边对齐，如Before.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Justify;

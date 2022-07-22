@@ -1,14 +1,14 @@
 ---
 title: Line
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Lineaspose.pdf.drawing/line类的新实例
+description: 初始化Lineaspose.pdf.drawing/line类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/line/line/
 ---
 ## Line constructor
 
-初始化[`Line`](../../line)类的新实例。
+初始化[`Line`](../../line)类.
 
 ```csharp
 public Line(float[] positionArray)

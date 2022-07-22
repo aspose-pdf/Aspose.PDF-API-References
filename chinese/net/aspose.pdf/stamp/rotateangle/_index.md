@@ -1,14 +1,14 @@
 ---
 title: RotateAngle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置戳记的旋转角度以度为单位 此属性允许设置任意旋转角度
+description: 获取或设置邮票的旋转角度以度为单位 该属性允许设置任意旋转角度
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/stamp/rotateangle/
 ---
 ## Stamp.RotateAngle property
 
-获取或设置戳记的旋转角度，以度为单位。 此属性允许设置任意旋转角度。
+获取或设置邮票的旋转角度，以度为单位。 该属性允许设置任意旋转角度。
 
 ```csharp
 public double RotateAngle { get; set; }

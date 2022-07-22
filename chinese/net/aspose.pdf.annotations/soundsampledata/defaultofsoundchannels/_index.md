@@ -1,14 +1,14 @@
 ---
 title: DefaultOfSoundChannels
 second_title: Aspose.PDF for .NET API 参考
-description: Channels 参数的默认值
+description: 通道参数的默认值
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/
 ---
 ## SoundSampleData.DefaultOfSoundChannels field
 
-Channels 参数的默认值。
+通道参数的默认值。
 
 ```csharp
 public const int DefaultOfSoundChannels;

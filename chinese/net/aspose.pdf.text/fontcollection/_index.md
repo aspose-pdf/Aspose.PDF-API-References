@@ -1,14 +1,14 @@
 ---
 title: FontCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 表示字体集合
+description: 代表字体集合
 type: docs
 weight: 6710
 url: /zh/net/aspose.pdf.text/fontcollection/
 ---
 ## FontCollection class
 
-表示字体集合。
+代表字体集合。
 
 ```csharp
 public sealed class FontCollection : ICollection<Font>
@@ -18,7 +18,7 @@ public sealed class FontCollection : ICollection<Font>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontcollection/count) { get; } | 获取集合中实际包含的[`Font`](../font)对象元素的数量。 |
+| [Count](../../aspose.pdf.text/fontcollection/count) { get; } | 获取数量[`Font`](../font)集合中实际包含的对象元素。 |
 | [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly) { get; } | 获取表示集合是否为只读的值 |
 | [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized) { get; } | 获取一个值，该值指示对集合的访问是否同步（线程安全）。 |
 | [Item](../../aspose.pdf.text/fontcollection/item) { get; } | 获取指定索引处的字体元素。 (2 indexers) |
@@ -31,13 +31,13 @@ public sealed class FontCollection : ICollection<Font>
 | [Add](../../aspose.pdf.text/fontcollection/add)(Font, out string) | 将新字体添加到字体资源并返回自动分配的字体资源名称。 |
 | [Contains](../../aspose.pdf.text/fontcollection/contains#contains)(Font) | 确定集合是否包含特定值。 |
 | [Contains](../../aspose.pdf.text/fontcollection/contains#contains_1)(string) | 检查字体集合中是否存在字体。 |
-| [CopyTo](../../aspose.pdf.text/fontcollection/copyto)(Font[], int) | 将整个集合复制到兼容的一维数组，从目标数组的指定索引开始 |
+| [CopyTo](../../aspose.pdf.text/fontcollection/copyto)(Font[], int) | 将整个集合复制到一个兼容的一维数组中，从目标数组的指定索引开始 |
 | [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator)() | 返回整个集合的枚举数。 |
-| [Remove](../../aspose.pdf.text/fontcollection/remove)(Font) | 从集合中删除指定项目。 |
+| [Remove](../../aspose.pdf.text/fontcollection/remove)(Font) | 从集合中删除指定的项目。 |
 
 ### 评论
 
-表示的字体集合[`FontCollection`](../fontcollection) 类用于多种场景。 例如，在具有[`Fonts`](../../aspose.pdf/resources/fonts)属性的资源中。
+表示的字体集合[`FontCollection`](../fontcollection)类用于多种场景。 例如，在具有[`Fonts`](../../aspose.pdf/resources/fonts)财产。
 
 ### 例子
 
@@ -45,18 +45,17 @@ public sealed class FontCollection : ICollection<Font>
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// 确保页面资源上声明的所有字体都是embedded
-// 请注意，如果在表单资源上声明了字体，则无法从页面资源
+// 确保嵌入页面资源上声明的所有字体
+// 请注意，如果在表单资源上声明了字体，则无法从页面资源中访问它们
+foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
+{
+    if(!font.IsEmbedded)
+        font.IsEmbedded = true;
+}
 
-reach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
-
-  if(!font.IsEmbedded)
-      font.IsEmbedded = true;
-
-
-c.Save(@"D:\Tests\input.pdf");
+doc.Save(@"D:\Tests\input.pdf");
 ```
 
 ### 也可以看看

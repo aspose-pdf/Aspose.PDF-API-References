@@ -1,14 +1,14 @@
 ---
 title: EncryptFile
 second_title: Aspose.PDF для справочника API .NET
-description: Шифрует Pdf-файл с помощью пароля пользователя и владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой если введенный пароль владельца нулевой или пустой. Выдает исключение если процесс завершился неудачно.
+description: Шифрует файл Pdf с помощью пароля пользователя и пароля владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой если введенный пароль владельца недействителен или пуст. Выдает исключение если процесс не выполнен.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-Шифрует Pdf-файл с помощью пароля пользователя и владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если введенный пароль владельца нулевой или пустой. Выдает исключение, если процесс завершился неудачно.
+Шифрует файл Pdf с помощью пароля пользователя и пароля владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если введенный пароль владельца недействителен или пуст. Выдает исключение, если процесс не выполнен.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -17,27 +17,27 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пароль пользователя. |
+| userPassword | String | Пользовательский пароль. |
 | ownerPassword | String | Пароль владельца. |
-| привилегия | DocumentPrivilege | Установить привилегию. |
+| privilege | DocumentPrivilege | Установить привилегию. |
 | keySize | KeySize | KeySize.x40 для 40-битного шифрования, KeySize.x128 для 128-битного шифрования и KeySize.x256 для 256-битного шифрования. |
 
 ### Возвращаемое значение
 
-True для успеха.
+Верно для успеха.
 
 ### Примеры
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";  // TestPath может быть переназначен.
-string outFile = "D:\\output.pdf"; // TestPath может быть переназначен. 
+string inFile = "D:\\input.pdf"; // TestPath может быть переназначен.
+string outFile = "D:\\output.pdf"; // TestPath может быть переназначен.	
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'TestPath может быть переназначен.
-Dim outFile As String = "D:\\output.pdf"   'TestPath может быть переназначен.
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
@@ -54,7 +54,7 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-Шифрует Pdf-файл с помощью пароля пользователя и владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если введенный пароль владельца нулевой или пустой. Существует 6 возможных комбинаций значений KeySize и Algorithm. Однако (KeySize.x40, Algorithm.AES) и (KeySize.x256, Algorithm.RC4) недействительны и соответствующее исключение будет вызвано, если набор встретит эту комбинацию. Выдает исключение, если процесс завершился неудачно.
+Шифрует файл Pdf с помощью пароля пользователя и пароля владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если введенный пароль владельца пуст или пуст. Существует 6 возможных комбинаций значений KeySize и Algorithm. Однако (KeySize.x40, Algorithm.AES) и (KeySize.x256, Algorithm.RC4) недействительны, и соответствующее исключение будет вызвано, если комплект встретит эту комбинацию. Выдает исключение, если процесс завершился неудачно.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -63,28 +63,28 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пароль пользователя. |
+| userPassword | String | Пользовательский пароль. |
 | ownerPassword | String | Пароль владельца. |
-| привилегия | DocumentPrivilege | Установить привилегию. |
+| privilege | DocumentPrivilege | Установить привилегию. |
 | keySize | KeySize | KeySize.x40 для 40-битного шифрования, KeySize.x128 для 128-битного шифрования и KeySize.x256 для 256-битного шифрования. |
 | cipher | Algorithm | Algorithm.AES для шифрования с использованием алгоритма AES или Algorithm.RC4 для шифрования RC4. |
 
 ### Возвращаемое значение
 
-True для успеха.
+Верно для успеха.
 
 ### Примеры
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";  // TestPath может быть переназначен.
-string outFile = "D:\\output.pdf"; // TestPath может быть переназначен. 
+string inFile = "D:\\input.pdf"; // TestPath может быть переназначен.
+string outFile = "D:\\output.pdf"; // TestPath может быть переназначен.	
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);	
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'TestPath может быть переназначен.
-Dim outFile As String = "D:\\output.pdf"   'TestPath может быть переназначен.
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"   'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```

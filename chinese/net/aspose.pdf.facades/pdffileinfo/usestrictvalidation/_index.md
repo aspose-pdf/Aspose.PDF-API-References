@@ -1,14 +1,14 @@
 ---
 title: UseStrictValidation
 second_title: Aspose.PDF for .NET API 参考
-description: 通过使用IsPdfFileaspose.pdf.facades/pdffileinfo/ispdffile属性使用严格的验证规则
+description: 通过 using 使用严格的验证规则IsPdfFileaspose.pdf.facades/pdffileinfo/ispdffile属性.
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/
 ---
 ## PdfFileInfo.UseStrictValidation property
 
-通过使用[`IsPdfFile`](../ispdffile)属性使用严格的验证规则。
+通过 using 使用严格的验证规则[`IsPdfFile`](../ispdffile)属性.
 
 ```csharp
 public bool UseStrictValidation { get; set; }

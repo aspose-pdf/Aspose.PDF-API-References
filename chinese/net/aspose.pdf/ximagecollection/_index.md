@@ -1,14 +1,14 @@
 ---
 title: XImageCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 XImage 集合的类
+description: 代表 XImage 集合的类
 type: docs
 weight: 7410
 url: /zh/net/aspose.pdf/ximagecollection/
 ---
 ## XImageCollection class
 
-表示 XImage 集合的类。
+代表 XImage 集合的类。
 
 ```csharp
 public sealed class XImageCollection : ICollection<XImage>
@@ -43,7 +43,7 @@ public sealed class XImageCollection : ICollection<XImage>
 | [Delete](../../aspose.pdf/ximagecollection/delete#delete_4)(string, ImageDeleteAction) | 按名称从集合中删除项目。 |
 | [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator)() | 返回集合枚举器。 |
 | [GetImageName](../../aspose.pdf/ximagecollection/getimagename)(XImage) | 返回图像列表中的名称，它是给定图像的键。 |
-| [Remove](../../aspose.pdf/ximagecollection/remove)(XImage) | 从集合中删除项目，抛出 NotImplementedException 。 |
+| [Remove](../../aspose.pdf/ximagecollection/remove)(XImage) | 从集合中移除项目，抛出未实现异常. |
 | [Replace](../../aspose.pdf/ximagecollection/replace#replace)(int, Stream) | 用另一个图像替换集合中的图像。 |
 | [Replace](../../aspose.pdf/ximagecollection/replace#replace_1)(int, Stream, int) | 用另一个图像替换集合中的图像。 |
 | [Replace](../../aspose.pdf/ximagecollection/replace#replace_2)(int, Stream, int, bool) | 用另一个图像替换集合中的图像。 |

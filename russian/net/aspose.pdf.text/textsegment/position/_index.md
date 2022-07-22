@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF для справочника API .NET
-description: Получает текстовую позицию для текста представленного с помощью объектаTextSegmentaspose.pdf.text/textsegment.
+description: Получает текстовую позицию для текста представленного с помощьюTextSegmentaspose.pdf.text/textsegment объект.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textsegment/position/
 ---
 ## TextSegment.Position property
 
-Получает текстовую позицию для текста, представленного с помощью объекта[`TextSegment`](../../textsegment).
+Получает текстовую позицию для текста, представленного с помощью[`TextSegment`](../../textsegment) объект.
 
 ```csharp
 public Position Position { get; set; }

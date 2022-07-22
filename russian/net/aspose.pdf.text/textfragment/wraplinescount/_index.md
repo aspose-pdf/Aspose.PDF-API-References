@@ -1,14 +1,14 @@
 ---
 title: WrapLinesCount
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает количество строк переноса для этого абзаца только для генерации PDF
+description: Получает или задает количество строк переноса для этого абзаца только для создания PDF
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.text/textfragment/wraplinescount/
 ---
 ## TextFragment.WrapLinesCount property
 
-Получает или устанавливает количество строк переноса для этого абзаца (только для генерации PDF)
+Получает или задает количество строк переноса для этого абзаца (только для создания PDF)
 
 ```csharp
 public int WrapLinesCount { get; set; }

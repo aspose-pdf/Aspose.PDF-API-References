@@ -1,14 +1,14 @@
 ---
 title: C
 second_title: Aspose.PDF for .NET API 参考
-description: 转换矩阵的 C 成员
+description: 变换矩阵的 C 成员
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/matrix/c/
 ---
 ## Matrix.C property
 
-转换矩阵的 C 成员。
+变换矩阵的 C 成员。
 
 ```csharp
 public double C { get; set; }

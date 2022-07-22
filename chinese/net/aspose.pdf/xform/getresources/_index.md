@@ -1,14 +1,14 @@
 ---
 title: GetResources
 second_title: Aspose.PDF for .NET API 参考
-description: 返回 Form X-Object 的资源
+description: 返回Form X-Object 的资源
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/xform/getresources/
 ---
 ## GetResources(bool) {#getresources_1}
 
-返回 Form X-Object 的资源
+返回Form X-Object 的资源
 
 ```csharp
 public Resources GetResources(bool allowCreate)
@@ -16,7 +16,7 @@ public Resources GetResources(bool allowCreate)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| allowCreate | Boolean | If For没有资源并且allowCreate为真，资源会自动为表单创建。 |
+| allowCreate | Boolean | 如果 For 没有资源且 allowCreate 为 true，则会自动为表单创建 Resources。 |
 
 ### 返回值
 
@@ -33,7 +33,7 @@ public Resources GetResources(bool allowCreate)
 
 ## GetResources() {#getresources}
 
-返回Form X-Object的资源。如果 For 没有资源且 allowCreate 为 true，则会自动为表单创建 Resources。
+返回 Form X-Object 的资源。如果 For 没有资源且 allowCreate 为 true，则会自动为表单创建 Resources.
 
 ```csharp
 public Resources GetResources()

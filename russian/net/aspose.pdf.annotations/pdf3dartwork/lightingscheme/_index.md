@@ -1,14 +1,14 @@
 ---
 title: LightingScheme
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает схему освещения.
+description: Получает или задает схему освещения.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/lightingscheme/
 ---
 ## PDF3DArtwork.LightingScheme property
 
-Получает или устанавливает схему освещения.
+Получает или задает схему освещения.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }

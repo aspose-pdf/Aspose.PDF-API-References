@@ -16,7 +16,7 @@ public byte[] AsByteArray(Resolution resolution)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| resolution | Resolution | 分辨率。 |
+| resolution | Resolution | 决议。 |
 
 ### 返回值
 

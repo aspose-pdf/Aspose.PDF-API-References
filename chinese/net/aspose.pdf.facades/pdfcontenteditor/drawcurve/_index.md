@@ -17,7 +17,7 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lineInfo | LineInfo | LineInfo 类的实例。 |
-| page | Int32 | 将创建注释的原始页数。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | annotRect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | annotContents | String | 注释的内容。 |
 
@@ -27,7 +27,7 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 PdfContentEditor editor = new PdfContentEditor();
 newApiEditor.BindPdf("example.pdf");
 LineInfo lineInfo = new LineInfo();
-lineInfo.VerticeCoordinate = new float[] { 0, 0, 100, 100 };    //x1, y1, x2, y2, .. xn, yn
+lineInfo.VerticeCoordinate = new float[] { 0, 0, 100, 100 };  //x1, y1, x2, y2, .. xn, yn
 lineInfo.Visibility = true;
 editor.DrawCurve(lineInfo, 1, new System.Drawing.Rectangle(0, 0, 0, 0), "Welcome to Aspose");
 editor.Save("example_out.pdf");

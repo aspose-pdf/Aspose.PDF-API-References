@@ -16,7 +16,7 @@ public PDF3DRenderMode SetCreaseValue(double creaseValue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| creaseValue | Double | Значение сгиба. |
+| creaseValue | Double | Значение складки. |
 
 ### Возвращаемое значение
 

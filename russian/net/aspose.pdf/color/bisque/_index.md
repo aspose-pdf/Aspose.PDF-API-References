@@ -1,14 +1,14 @@
 ---
 title: Bisque
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFFE4C4.
+description: Получает определяемый системой цвет со значением ARGB FFFFE4C4.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/color/bisque/
 ---
 ## Color.Bisque property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFFE4C4.
+Получает определяемый системой цвет со значением ARGB #FFFFE4C4.
 
 ```csharp
 public static Color Bisque { get; }

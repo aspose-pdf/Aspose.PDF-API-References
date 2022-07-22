@@ -1,14 +1,14 @@
 ---
 title: AbsorbedTable
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет таблицу которая существует на странице
+description: Представляет таблицу существующую на странице
 type: docs
 weight: 6620
 url: /ru/net/aspose.pdf.text/absorbedtable/
 ---
 ## AbsorbedTable class
 
-Представляет таблицу, которая существует на странице
+Представляет таблицу, существующую на странице
 
 ```csharp
 public class AbsorbedTable : ITableElement

@@ -1,14 +1,14 @@
 ---
 title: NotifyAboutFontEmbeddingError
 second_title: Aspose.PDF for .NET API 参考
-description: 有时无法将所需的字体嵌入到文档中有很多原因例如 许可证限制或在目标计算机上找不到所需的字体 当这种情况出现时并不是简单地检测因为所需的字体是通过属性标志的 set Font.IsEmbedded  true 嵌入的当然可以在设置后立即读取此属性但 这不是方便的方法标志 NotifyAboutFontEmbeddingError 强制异常机制 用于尝试嵌入字体失败的情况如果设置了此标志则将抛出 FontEmbeddingExceptionaspose.pdf/fontembeddingexception类型的异常默认为假
+description: 有时无法将所需的字体嵌入到文档中原因有很多例如 许可证限制或目标计算机上未找到所需字体 出现这种情况时并非简单地检测到因为所需字体是通过属性标志Font.IsEmbedded  true的设置 嵌入的当然可以在设置后立即读取此属性但是 这不是方便的方法标志 NotifyAboutFontEmbeddingError 在尝试嵌入字体失败的情况下强制执行异常机制 如果设置了此标志则 type 的异常FontEmbeddingExceptionaspose.pdf/fontembeddingexception将被抛出默认为 false.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/
 ---
 ## IFontOptions.NotifyAboutFontEmbeddingError property
 
-有时无法将所需的字体嵌入到文档中。有很多原因，例如 许可证限制或在目标计算机上找不到所需的字体。 当这种情况出现时，并不是简单地检测，因为所需的字体是通过属性标志的 set Font.IsEmbedded = true; 嵌入的。当然可以在设置后立即读取此属性，但 这不是方便的方法。标志 NotifyAboutFontEmbeddingError 强制异常机制 用于尝试嵌入字体失败的情况。如果设置了此标志，则将抛出 [`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception)类型的异常。默认为假。
+有时无法将所需的字体嵌入到文档中。原因有很多，例如 许可证限制或目标计算机上未找到所需字体。 出现这种情况时，并非简单地检测到，因为所需字体是通过属性标志Font.IsEmbedded = true的设置 嵌入的；当然，可以在设置后立即读取此属性，但是 这不是方便的方法。标志 NotifyAboutFontEmbeddingError 在尝试嵌入字体失败的情况下强制执行异常机制 。如果设置了此标志，则 type 的异常[`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception)将被抛出。默认为 false.
 
 ```csharp
 public bool NotifyAboutFontEmbeddingError { get; set; }

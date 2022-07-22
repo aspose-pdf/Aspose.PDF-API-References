@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет новый объект подстановки шрифта в коллекцию.
+description: Добавляет в коллекцию новый объект замены шрифта.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/fontsubstitutioncollection/add/
 ---
 ## FontSubstitutionCollection.Add method
 
-Добавляет новый объект подстановки шрифта в коллекцию.
+Добавляет в коллекцию новый объект замены шрифта.
 
 ```csharp
 public void Add(FontSubstitution fontSubstitution)

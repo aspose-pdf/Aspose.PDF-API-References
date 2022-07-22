@@ -1,14 +1,14 @@
 ---
 title: RemoveAt
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет сечение из массива по указанному индексу.
+description: Удаляет поперечное сечение из массива по указанному индексу.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/
 ---
 ## PDF3DCrossSectionArray.RemoveAt method
 
-Удаляет сечение из массива по указанному индексу.
+Удаляет поперечное сечение из массива по указанному индексу.
 
 ```csharp
 public void RemoveAt(int index)
@@ -16,13 +16,13 @@ public void RemoveAt(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс удаляемого сечения в массиве. |
+| index | Int32 | Индекс удаленного сечения в массиве. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| IndexOutOfRangeException | Недопустимый индекс:индекс должен находиться в диапазоне [1..n], где n равно количеству сечений. |
+| IndexOutOfRangeException | Недопустимый индекс: индекс должен находиться в диапазоне [1..n], где n равно количеству сечений. |
 
 ### Смотрите также
 

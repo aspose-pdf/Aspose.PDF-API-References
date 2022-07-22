@@ -17,7 +17,7 @@ public static ContentsResizeParameters ContentSize(double width, double height)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Double | Новая ширина содержимого. |
-| height | Double | Новая высота содержимого. |
+| height | Double | Новая высота содержания. |
 
 ### Возвращаемое значение
 

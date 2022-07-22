@@ -1,14 +1,14 @@
 ---
 title: AngleX
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает угол по оси X.
+description: Получает или задает угол оси X.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/
 ---
 ## PDF3DCuttingPlaneOrientation.AngleX property
 
-Получает или задает угол по оси X.
+Получает или задает угол оси X.
 
 ```csharp
 public double? AngleX { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SignatureCustomAppearance
 second_title: Aspose.PDF для справочника API .NET
-description: Абстрактный класс который представляет объект внешнего вида подписи.
+description: Абстрактный класс представляющий объект внешнего вида подписи.
 type: docs
 weight: 3220
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/
 ---
 ## SignatureCustomAppearance class
 
-Абстрактный класс, который представляет объект внешнего вида подписи.
+Абстрактный класс, представляющий объект внешнего вида подписи.
 
 ```csharp
 public sealed class SignatureCustomAppearance
@@ -24,22 +24,22 @@ public sealed class SignatureCustomAppearance
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.forms/signaturecustomappearance/backgroundcolor) { get; set; } | Получает/устанавливает цвет фона. Значение по умолчанию:Прозрачный. |
-| [ContactInfoLabel](../../aspose.pdf.forms/signaturecustomappearance/contactinfolabel) { get; set; } | Получает/устанавливает метку контактной информации. Значение по умолчанию:«Контакт». |
-| [Culture](../../aspose.pdf.forms/signaturecustomappearance/culture) { get; set; } | Получает/устанавливает значение информации о культуре. Значение по умолчанию:инварианткультуре. |
-| [DateSignedAtLabel](../../aspose.pdf.forms/signaturecustomappearance/datesignedatlabel) { get; set; } | Получает/устанавливает метку с датой подписания. Значение по умолчанию:«Дата». |
-| [DateTimeFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimeformat) { get; set; } | Получает/устанавливает формат даты и времени. Значение по умолчанию:"гггг.ММ.дд ЧЧ:мм:сс". |
-| [DateTimeLocalFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimelocalformat) { get; set; } | Получает/устанавливает локальный формат даты и времени. Значение по умолчанию:"гггг.ММ.дд ЧЧ:мм:сс ззз". |
-| [DigitalSignedLabel](../../aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel) { get; set; } | Получает/устанавливает метку с цифровой подписью. Значение по умолчанию:«С цифровой подписью». |
-| [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname) { get; set; } | Получает/устанавливает имя семейства шрифтов. Он должен быть в документе. Значение по умолчанию:Ариал. |
-| [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize) { get; set; } | Получает/устанавливает размер шрифта. Значение по умолчанию:10. |
-| [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor) { get; set; } | Получает/устанавливает цвет переднего плана (цвет текста). Значение по умолчанию:Синий. |
-| [LocationLabel](../../aspose.pdf.forms/signaturecustomappearance/locationlabel) { get; set; } | Получает/устанавливает метку местоположения. Значение по умолчанию:«Местоположение». |
-| [ReasonLabel](../../aspose.pdf.forms/signaturecustomappearance/reasonlabel) { get; set; } | Получает/устанавливает метку причины. Значение по умолчанию:«Причина». |
+| [BackgroundColor](../../aspose.pdf.forms/signaturecustomappearance/backgroundcolor) { get; set; } | Получает/устанавливает цвет фона. Значение по умолчанию: Прозрачный. |
+| [ContactInfoLabel](../../aspose.pdf.forms/signaturecustomappearance/contactinfolabel) { get; set; } | Получает/устанавливает метку контактной информации. Значение по умолчанию: «Контакт». |
+| [Culture](../../aspose.pdf.forms/signaturecustomappearance/culture) { get; set; } | Получает/устанавливает значение информации о культуре. Значение по умолчанию: InvariantCulture. |
+| [DateSignedAtLabel](../../aspose.pdf.forms/signaturecustomappearance/datesignedatlabel) { get; set; } | Получает/устанавливает метку с датой подписания. Значение по умолчанию: «Дата». |
+| [DateTimeFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimeformat) { get; set; } | Получает/устанавливает формат даты и времени. Значение по умолчанию: "гггг.ММ.дд ЧЧ:мм:сс". |
+| [DateTimeLocalFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimelocalformat) { get; set; } | Получает/устанавливает локальный формат даты и времени. Значение по умолчанию: "гггг.ММ.дд ЧЧ:мм:сс zzz". |
+| [DigitalSignedLabel](../../aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel) { get; set; } | Получает/устанавливает метку с цифровой подписью. Значение по умолчанию: «С цифровой подписью». |
+| [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname) { get; set; } | Получает/устанавливает имя семейства шрифтов. Он должен быть в документе. Значение по умолчанию: Arial. |
+| [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize) { get; set; } | Получает/устанавливает размер шрифта. Значение по умолчанию: 10. |
+| [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor) { get; set; } | Получает/устанавливает цвет переднего плана (цвет текста). Значение по умолчанию: Синий. |
+| [LocationLabel](../../aspose.pdf.forms/signaturecustomappearance/locationlabel) { get; set; } | Получает/устанавливает метку местоположения. Значение по умолчанию: "Местоположение". |
+| [ReasonLabel](../../aspose.pdf.forms/signaturecustomappearance/reasonlabel) { get; set; } | Получает/устанавливает метку причины. Значение по умолчанию: «Причина». |
 | [Rotation](../../aspose.pdf.forms/signaturecustomappearance/rotation) { get; set; } | Получает или задает ротацию подписи. |
-| [ShowContactInfo](../../aspose.pdf.forms/signaturecustomappearance/showcontactinfo) { get; set; } | Получает/устанавливает видимость контактной информации. Значение по умолчанию:правда. |
-| [ShowLocation](../../aspose.pdf.forms/signaturecustomappearance/showlocation) { get; set; } | Получает/устанавливает видимость местоположения. Значение по умолчанию:правда. |
-| [ShowReason](../../aspose.pdf.forms/signaturecustomappearance/showreason) { get; set; } | Получает/устанавливает видимость причины. Значение по умолчанию:правда. |
+| [ShowContactInfo](../../aspose.pdf.forms/signaturecustomappearance/showcontactinfo) { get; set; } | Получает/устанавливает видимость контактной информации. Значение по умолчанию: true. |
+| [ShowLocation](../../aspose.pdf.forms/signaturecustomappearance/showlocation) { get; set; } | Получает/устанавливает видимость местоположения. Значение по умолчанию: true. |
+| [ShowReason](../../aspose.pdf.forms/signaturecustomappearance/showreason) { get; set; } | Получает/устанавливает видимость причины. Значение по умолчанию: true. |
 
 ### Смотрите также
 

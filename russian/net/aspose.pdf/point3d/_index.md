@@ -18,7 +18,7 @@ public sealed class Point3D
 
 | Имя | Описание |
 | --- | --- |
-| [Point3D](point3d)(double, double, double) | Инициализирует новый экземпляр[`Point3D`](../point3d). |
+| [Point3D](point3d)(double, double, double) | Инициализирует новый экземпляр[`Point3D`](../point3d) . |
 
 ## Характеристики
 

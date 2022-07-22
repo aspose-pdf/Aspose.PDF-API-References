@@ -1,14 +1,14 @@
 ---
 title: SpellCheck
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает статус активности проверки правописания.
+description: Получает или задает статус активности проверки правописания.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/comboboxfield/spellcheck/
 ---
 ## ComboBoxField.SpellCheck property
 
-Получает или устанавливает статус активности проверки правописания.
+Получает или задает статус активности проверки правописания.
 
 ```csharp
 public bool SpellCheck { get; set; }

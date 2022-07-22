@@ -1,14 +1,14 @@
 ---
 title: ContentDisposition
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置将操作结果存储到 HttpResponse 对象中时内容的存储方式可能的值内联/附件 默认值内联
+description: 获取或设置在将操作结果存储到 HttpResponse 对象时如何存储内容可能的值inline / attachment. 默认值inline.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/formeditor/contentdisposition/
 ---
 ## FormEditor.ContentDisposition property
 
-获取或设置将操作结果存储到 HttpResponse 对象中时内容的存储方式。可能的值:内联/附件。 默认值:内联。
+获取或设置在将操作结果存储到 HttpResponse 对象时如何存储内容。可能的值：inline / attachment. 默认值：inline.
 
 ```csharp
 public ContentDisposition ContentDisposition { get; set; }

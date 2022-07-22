@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаResolutionaspose.pdf.devices/resolution.
+description: Инициализирует новый экземплярResolutionaspose.pdf.devices/resolution класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/resolution/resolution/
 ---
 ## Resolution(int) {#constructor}
 
-Инициализирует новый экземпляр класса[`Resolution`](../../resolution).
+Инициализирует новый экземпляр[`Resolution`](../../resolution) класс.
 
 ```csharp
 public Resolution(int value)
@@ -28,7 +28,7 @@ public Resolution(int value)
 
 ## Resolution(int, int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Resolution`](../../resolution).
+Инициализирует новый экземпляр[`Resolution`](../../resolution) класс.
 
 ```csharp
 public Resolution(int valueX, int valueY)

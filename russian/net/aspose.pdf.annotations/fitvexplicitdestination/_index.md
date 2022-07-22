@@ -1,14 +1,14 @@
 ---
 title: FitVExplicitDestination
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет явный пункт назначения который отображает страницу с горизонтальной координатой расположенной слева от левого края окна и содержимое страницы увеличивается настолько чтобы соответствовать всей высоте окна. страницу в окне. Нулевое значение для левого указывает что текущее значение этого параметра должно быть сохранено без изменений.
+description: Представляет явный пункт назначения который отображает страницу с горизонтальной координатой слева расположенной на левом краю окна а содержимое страницы увеличивается настолько чтобы соответствовать всей высоте страницы в окне. Нулевое значение для левого указывает что текущее значение этого параметра должно быть сохранено без изменений.
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf.annotations/fitvexplicitdestination/
 ---
 ## FitVExplicitDestination class
 
-Представляет явный пункт назначения, который отображает страницу с горизонтальной координатой, расположенной слева от левого края окна, и содержимое страницы увеличивается настолько, чтобы соответствовать всей высоте окна. страницу в окне. Нулевое значение для левого указывает, что текущее значение этого параметра должно быть сохранено без изменений.
+Представляет явный пункт назначения, который отображает страницу с горизонтальной координатой слева, расположенной на левом краю окна, а содержимое страницы увеличивается настолько, чтобы соответствовать всей высоте страницы в окне. Нулевое значение для левого указывает, что текущее значение этого параметра должно быть сохранено без изменений.
 
 ```csharp
 public sealed class FitVExplicitDestination : ExplicitDestination
@@ -18,22 +18,22 @@ public sealed class FitVExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [FitVExplicitDestination](fitvexplicitdestination#constructor_2)(int, double) | Создает явный удаленный пункт назначения. |
+| [FitVExplicitDestination](fitvexplicitdestination#constructor_2)(int, double) | Создает удаленный явный пункт назначения. |
 | [FitVExplicitDestination](fitvexplicitdestination#constructor_1)(Page, double) | Создает локальный явный пункт назначения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/fitvexplicitdestination/left) { get; } | Получает горизонтальную координату, расположенную слева от левого края окна. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает объект целевой страницы |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер страницы назначения |
+| [Left](../../aspose.pdf.annotations/fitvexplicitdestination/left) { get; } | Получает горизонтальную координату слева от левого края окна. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает целевую страницу object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер целевой страницы |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitvexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример:«1 FitV 100». |
+| override [ToString](../../aspose.pdf.annotations/fitvexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример: "1 FitV 100". |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Aspose.PDF for .NET API 参考
-description: 将运算符插入集合
+description: 将运算符插入集合中
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/operatorcollection/insert/
 ---
 ## Insert(int, Operator) {#insert}
 
-将运算符插入集合。
+将运算符插入集合中。
 
 ```csharp
 public override void Insert(int index, Operator op)
@@ -17,7 +17,7 @@ public override void Insert(int index, Operator op)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | index | Int32 | 必须添加新运算符的索引 |
-| op | Operator | 将插入的运算符 |
+| op | Operator | 将被插入的运算符 |
 
 ### 例子
 
@@ -50,7 +50,7 @@ public void Insert(int at, Operator[] ops)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | at | Int32 | 开始插入操作符的索引。 |
-| ops | Operator[] | 要插入的运算符数组。每个运算符可以有任何索引（默认为 -1），因为它们的索引从*at*开始自动调整。 |
+| ops | Operator[] | 要插入的运算符数组。每个运算符可以有任何索引（默认为 -1），因为它们的索引会自动调整从*at*. |
 
 ### 例子
 

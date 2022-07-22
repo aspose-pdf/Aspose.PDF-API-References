@@ -1,14 +1,14 @@
 ---
 title: SetPrivilege
 second_title: Aspose.PDF for .NET API 参考
-description: 使用空用户/所有者密码设置 Pdf 文件安全性 所有者密码将由随机字符串添加 如果进程失败则抛出异常
+description: 使用空的用户/所有者密码设置 Pdf 文件安全性 所有者密码将由随机字符串添加 如果进程失败则抛出异常
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-使用空用户/所有者密码设置 Pdf 文件安全性。 所有者密码将由随机字符串添加。 如果进程失败则抛出异常。
+使用空的用户/所有者密码设置 Pdf 文件安全性。 所有者密码将由随机字符串添加。 如果进程失败则抛出异常。
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
@@ -20,20 +20,20 @@ public bool SetPrivilege(DocumentPrivilege privilege)
 
 ### 返回值
 
-成功为真。
+真正的成功。
 
 ### 例子
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";    //TestPath可能会被重新分配
-string outFile = "D:\\output.pdf";    //TestPath可能会被重新分配
+string inFile = "D:\\input.pdf"; //TestPath 可能会被重新分配。
+string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 fileSecurity.SetPrivilege(DocumentPrivilege.Print);
 
 [Visual Basic]
-Dim inFile As String =  "D:\\input.pdf"  'TestPath 可能会被重新分配。'
-Dim outFile As String =  "D:\\output.pdf"  'TestPath 可能会被重新分配。'
+Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
@@ -49,7 +49,7 @@ fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-使用原始密码设置 Pdf 文件安全性。 如果进程失败则抛出异常。
+使用原始密码设置 Pdf 文件安全性。 如果处理失败，则抛出异常。
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -63,20 +63,20 @@ public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPriv
 
 ### 返回值
 
-成功为真。
+真正的成功。
 
 ### 例子
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";    //TestPath可能会被重新分配
-string outFile = "D:\\output.pdf";    //TestPath可能会被重新分配
+string inFile = "D:\\input.pdf"; //TestPath 可能会被重新分配。
+string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
 
 [Visual Basic]
-Dim inFile As String =  "D:\\input.pdf"  'TestPath 可能会被重新分配。'
-Dim outFile As String =  "D:\\output.pdf"  'TestPath 可能会被重新分配。'
+Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```

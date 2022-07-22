@@ -1,14 +1,14 @@
 ---
 title: FontAbsorber
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет объект-поглотитель шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска через коллекциюFonts./fontabsorber/fonts.
+description: Представляет объект-поглотитель шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска черезFonts./fontabsorber/fonts коллекция.
 type: docs
 weight: 6700
 url: /ru/net/aspose.pdf.text/fontabsorber/
 ---
 ## FontAbsorber class
 
-Представляет объект-поглотитель шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска через коллекцию[`Fonts`](./fonts).
+Представляет объект-поглотитель шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска через[`Fonts`](./fonts) коллекция.
 
 ```csharp
 public class FontAbsorber
@@ -24,7 +24,7 @@ public class FontAbsorber
 
 | Имя | Описание |
 | --- | --- |
-| [Fonts](../../aspose.pdf.text/fontabsorber/fonts) { get; } | Получает коллекцию вхождений поиска, представленных объектами[`Font`](../font). |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts) { get; } | Получает коллекцию вхождений поиска, представленных[`Font`](../font) объекты. |
 
 ## Методы
 

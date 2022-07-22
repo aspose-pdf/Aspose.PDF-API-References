@@ -1,14 +1,14 @@
 ---
 title: TryAppend
 second_title: Aspose.PDF for .NET API 参考
-description: 附加页面这些页面是从 portStreams 中的文档数组中选择的 结果文档包括 firstInputFile 和所有 portStreams 文档页面在 startPage 到 endPage 范围内
+description: 追加页面这些页面是从 portStreams 中的文档数组中选择的 结果文档包括 firstInputFile 和 startPage 到 endPage 范围内的所有 portStreams 文档页面
 type: docs
 weight: 410
 url: /zh/net/aspose.pdf.facades/pdffileeditor/tryappend/
 ---
 ## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
 
-附加页面，这些页面是从 portStreams 中的文档数组中选择的。 结果文档包括 firstInputFile 和所有 portStreams 文档页面在 startPage 到 endPage 范围内。
+追加页面，这些页面是从 portStreams 中的文档数组中选择的。 结果文档包括 firstInputFile 和 startPage 到 endPage 范围内的所有 portStreams 文档页面。
 
 ```csharp
 public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -17,19 +17,19 @@ public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, i
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 Pdf 流。 |
+| inputStream | Stream | 输入 PDF 流。 |
 | portStreams | Stream[] | 要从中复制页面的文档。 |
-| startPage | Int32 | 页面在 portStreams 文档中开始。 |
-| endPage | Int32 | 页面以 portStreams 文档结尾。 |
-| outputStream | Stream | 输出 Pdf 流。 |
+| startPage | Int32 | 页面从 portStreams 文档开始。 |
+| endPage | Int32 | 页面以 portStreams 文件结尾。 |
+| outputStream | Stream | 输出 PDF 流。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-TryAppend 方法类似于 Append 方法，除了 TryAppend 方法不会抛出异常，如果操作失败。
+TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -61,19 +61,19 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 Pdf 文件。 |
+| inputFile | String | 输入PDF文件。 |
 | portFiles | String[] | 要从中复制页面的文档。 |
-| startPage | Int32 | 页面在 portFiles 文档中开始。 |
-| endPage | Int32 | 页面以 portFiles 文档结尾。 |
-| outputFile | String | 输出 Pdf 文档。 |
+| startPage | Int32 | 页面从 portFiles 文档开始。 |
+| endPage | Int32 | 页面以 portFiles 文件结尾。 |
+| outputFile | String | 输出 PDF 文档。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryAppend 方法类似于 Append 方法，除了 TryAppend 方法不会抛出异常，如果操作失败。
+TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -102,18 +102,18 @@ public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, i
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 包含源文档的流。 |
-| portStreams | Stream[] | 要附加文档的流数组。 |
+| portStreams | Stream[] | 带有要附加的文档的流数组。 |
 | startPage | Int32 | 附加页的起始页。 |
 | endPage | Int32 | 附加页的结束页。 |
 | response | HttpResponse | 将保存文档的响应对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryAppend 方法类似于 Append 方法，除了 TryAppend 方法不会抛出异常，如果操作失败。
+TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -142,11 +142,11 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryAppend 方法类似于 Append 方法，除了 TryAppend 方法不会抛出异常，如果操作失败。
+TryAppend 方法与 Append 方法类似，只是 TryAppend 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 

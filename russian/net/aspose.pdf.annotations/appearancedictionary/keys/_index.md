@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Aspose.PDF для справочника API .NET
-description: Получает ключи словаря. Если словарь внешнего вида имеет подвиды тоKeysaspose.pdf.annotations/appearancedictionary/keysсодержит Nx7CRx7CD.state значений где N - нормальный внешний вид  R - вид ролловера D - вид вниз и состояние - название состояния например On Off для флажков.
+description: Получает ключи словаря. Если словарь внешнего вида имеет подчиненные слова тоKeysaspose.pdf.annotations/appearancedictionary/keysсодержит Nx7CRx7CD.state values  где N  обычный вид R  внешний вид при наведении курсора D  внешний вид и состояние  название состояния например On Off для флажков.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/keys/
 ---
 ## AppearanceDictionary.Keys property
 
-Получает ключи словаря. Если словарь внешнего вида имеет подвиды, то`Keys`содержит (N&#x7C;R&#x7C;D).state значений, где N - нормальный внешний вид , R - вид ролловера, D - вид вниз и состояние - название состояния (например, On, Off для флажков).
+Получает ключи словаря. Если словарь внешнего вида имеет подчиненные слова, то`Keys`содержит (N&#x7C;R&#x7C;D).state values, , где N — обычный вид, R — внешний вид при наведении курсора, D — внешний вид и состояние — название состояния (например, On, Off для флажков).
 
 ```csharp
 public ICollection<string> Keys { get; }

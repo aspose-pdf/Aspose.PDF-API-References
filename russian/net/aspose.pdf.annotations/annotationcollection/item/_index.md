@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Индекс получаемого элемента.
+description: Индекс элемента который нужно получить.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/annotationcollection/item/
 ---
 ## AnnotationCollection indexer
 
-Индекс получаемого элемента.
+Индекс элемента, который нужно получить.
 
 ```csharp
 public Annotation this[int index] { get; }
@@ -16,7 +16,7 @@ public Annotation this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Значение индекса начинается с единицы. |
+| index | Значение индекса начиналось с единицы. |
 
 ### Возвращаемое значение
 

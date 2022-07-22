@@ -16,7 +16,7 @@ public Annotation FindByName(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя аннотации |
+| name | String | Название аннотации |
 
 ### Возвращаемое значение
 

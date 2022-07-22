@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает параметры сохранения когда результат сохраняется как HttpResponse. Значение по умолчаниюPdfSaveOptions.
+description: Получает или задает параметры сохранения когда результат сохраняется как HttpResponse. Значение по умолчанию PdfSaveOptions.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/form/saveoptions/
 ---
 ## Form.SaveOptions property
 
-Получает или задает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию:PdfSaveOptions.
+Получает или задает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию: PdfSaveOptions.
 
 ```csharp
 public SaveOptions SaveOptions { get; set; }

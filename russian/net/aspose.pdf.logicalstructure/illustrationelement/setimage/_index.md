@@ -17,7 +17,7 @@ public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageSrc | String | Источник изображения. |
-| imageResolution | Double | (необязательно) Разрешение изображения. По умолчанию:300 точек на дюйм. |
+| imageResolution | Double | (Необязательно) Разрешение изображения. По умолчанию: 300 точек на дюйм. |
 
 ### Смотрите также
 

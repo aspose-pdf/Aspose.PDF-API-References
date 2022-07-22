@@ -16,7 +16,7 @@ public void ExtractXfaData(Stream outputXmlStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputXmlStream | Stream | XML 数据所在的流存储。 |
+| outputXmlStream | Stream | 将存储 XML 数据的流。 |
 
 ### 也可以看看
 

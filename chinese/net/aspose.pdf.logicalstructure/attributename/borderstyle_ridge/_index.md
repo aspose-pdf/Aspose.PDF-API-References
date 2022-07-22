@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Ridge
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BorderStyleRidge - 边框看起来好像从画布中出来与 Groove 相对
+description: 属性 BorderStyle Ridge - 边框看起来好像从画布中出来与凹槽相反
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/
 ---
 ## AttributeName.BorderStyle_Ridge field
 
-属性 BorderStyle:Ridge - 边框看起来好像从画布中出来（与 Groove 相对）。
+属性 BorderStyle: Ridge - 边框看起来好像从画布中出来（与凹槽相反）。
 
 ```csharp
 public static readonly AttributeName BorderStyle_Ridge;

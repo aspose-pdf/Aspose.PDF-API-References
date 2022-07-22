@@ -1,14 +1,14 @@
 ---
 title: XmpValue
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор строкового значения.
+description: Конструктор для строкового значения.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmpvalue/xmpvalue/
 ---
 ## XmpValue(string) {#constructor_4}
 
-Конструктор строкового значения.
+Конструктор для строкового значения.
 
 ```csharp
 public XmpValue(string value)

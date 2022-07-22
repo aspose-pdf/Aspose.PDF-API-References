@@ -1,14 +1,14 @@
 ---
 title: CreateCustomActionLink
 second_title: Aspose.PDF for .NET API 参考
-description: 创建指向 PDF 文档中自定义操作的链接
+description: 在 PDF 文档中创建指向自定义操作的链接
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/
 ---
 ## PdfContentEditor.CreateCustomActionLink method
 
-创建指向 PDF 文档中自定义操作的链接。
+在 PDF 文档中创建指向自定义操作的链接。
 
 ```csharp
 public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color, Enum[] actionName)

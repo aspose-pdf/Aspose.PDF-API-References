@@ -1,14 +1,14 @@
 ---
 title: CaretAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 生成器中使用的构造函数
+description: 生成器中使用的构造函数.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/caretannotation/caretannotation/
 ---
 ## CaretAnnotation(Document) {#constructor}
 
-生成器中使用的构造函数。
+生成器中使用的构造函数.
 
 ```csharp
 public CaretAnnotation(Document document)

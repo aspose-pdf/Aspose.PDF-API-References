@@ -1,14 +1,14 @@
 ---
 title: GeneratingPath
 second_title: Aspose.PDF for .NET API 参考
-description: 如果要生成许多小pdf文件获取或设置小pdf文件的生成路径它适用于另一个属性BasicFileNameaspose.pdf.facades/autofiller/basicfilenameBasicFileName 四种输出模式之一
+description: 如果要生成许多小pdf文件获取或设置小pdf文件的生成路径它适用于另一个属性BasicFileNameaspose.pdf.facades/autofiller/basicfilenameBasicFileName. 四种输出模式之一
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/autofiller/generatingpath/
 ---
 ## AutoFiller.GeneratingPath property
 
-如果要生成许多小pdf文件，获取或设置小pdf文件的生成路径。它适用于另一个属性[`BasicFileName`](../basicfilename)BasicFileName。 四种输出模式之一。
+如果要生成许多小pdf文件，获取或设置小pdf文件的生成路径。它适用于另一个属性[`BasicFileName`](../basicfilename)BasicFileName. 四种输出模式之一。
 
 ```csharp
 public string GeneratingPath { get; set; }

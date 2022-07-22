@@ -1,14 +1,14 @@
 ---
 title: SetColorSpaceStroke
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператора CS устанавливает цвет для операций обводки.
+description: Класс представляющий оператора CS установите цвет для операций поглаживания.
 type: docs
 weight: 5430
 url: /ru/net/aspose.pdf.operators/setcolorspacestroke/
 ---
 ## SetColorSpaceStroke class
 
-Класс, представляющий оператора CS (устанавливает цвет для операций обводки).
+Класс, представляющий оператора CS (установите цвет для операций поглаживания).
 
 ```csharp
 public class SetColorSpaceStroke : Operator
@@ -31,7 +31,7 @@ public class SetColorSpaceStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

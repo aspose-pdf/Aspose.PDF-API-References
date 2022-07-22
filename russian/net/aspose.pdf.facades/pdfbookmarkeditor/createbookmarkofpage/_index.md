@@ -17,7 +17,7 @@ public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | bookmarkName | String | Указанное имя закладки. |
-| pageNumber | Int32 | Указанная страница назначения. |
+| pageNumber | Int32 | Указанная целевая страница. |
 
 ### Примеры
 
@@ -47,7 +47,7 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | bookmarkName | String[] | Массив заголовков закладок. |
-| pageNumber | Int32[] | Массив страниц назначения закладок. |
+| pageNumber | Int32[] | Массив целевых страниц закладок. |
 
 ### Примеры
 

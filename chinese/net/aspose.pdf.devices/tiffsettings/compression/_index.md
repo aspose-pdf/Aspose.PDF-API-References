@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置压缩类型
+description: 获取或设置压缩的类型
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.devices/tiffsettings/compression/
 ---
 ## TiffSettings.Compression property
 
-获取或设置压缩类型。
+获取或设置压缩的类型。
 
 ```csharp
 public CompressionType Compression { get; set; }
@@ -16,7 +16,7 @@ public CompressionType Compression { get; set; }
 
 ### 适当的价值
 
-压缩类型。
+压缩的类型。
 
 ### 评论
 

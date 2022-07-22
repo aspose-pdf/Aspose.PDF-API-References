@@ -19,8 +19,8 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 | --- | --- | --- |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| icon | String | Иконка должна использоваться для отображения аннотации. Значение по умолчанию:«Черновик». |
-| annotContents | String | Содержимое аннотации. |
+| icon | String | Значок должен использоваться для отображения аннотации. Значение по умолчанию: «Черновик». |
+| annotContents | String | Содержание аннотации. |
 | color | Color | Цвет аннотации. |
 
 ### Примеры
@@ -54,7 +54,7 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 | --- | --- | --- |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| annotContents | String | Содержимое аннотации. |
+| annotContents | String | Содержание аннотации. |
 | color | Color | Цвет аннотации. |
 | appearanceFile | String | Путь к файлу внешнего вида. |
 
@@ -89,7 +89,7 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 | --- | --- | --- |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| annotContents | String | Содержимое аннотации. |
+| annotContents | String | Содержание аннотации. |
 | color | Color | Цвет аннотации. |
 | appearanceStream | Stream | Поток файла внешнего вида. |
 

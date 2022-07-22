@@ -1,14 +1,14 @@
 ---
 title: ReturnAction
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举表示在调用 Warning./iwarningcallback/warning方法
+description: 枚举表示调用 时的程序工作流动作Warning./iwarningcallback/warning方法.
 type: docs
 weight: 6220
 url: /zh/net/aspose.pdf/returnaction/
 ---
 ## ReturnAction enumeration
 
-枚举表示在调用 [`Warning`](../iwarningcallback/warning)方法。
+枚举表示调用 时的程序工作流动作[`Warning`](../iwarningcallback/warning)方法.
 
 ```csharp
 public enum ReturnAction
@@ -18,7 +18,7 @@ public enum ReturnAction
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Continue | `0` | 用于继续流。 |
+| Continue | `0` | 用于继续流程。 |
 | Abort | `1` | 用于中止流程。 |
 
 ### 也可以看看

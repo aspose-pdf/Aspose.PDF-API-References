@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.Sanitization
 second_title: Aspose.PDF для справочника API .NET
-description: Aspose.Pdf.Sanitization  это пространство имен для операций очистки.
+description: Aspose.Pdf.Санитизация  это пространство имен для операций очистки.
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.sanitization/
 ---
-**Aspose.Pdf.Sanitization** — это пространство имен для операций очистки.
+**Aspose.Pdf.Санитизация** — это пространство имен для операций очистки.
 
 ## Классы
 

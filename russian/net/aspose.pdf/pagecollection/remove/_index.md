@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет указанный элемент выдает NotSupportedException .
+description: Удаляет указанный предмет выбрасываетNotSupportedException .
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/pagecollection/remove/
 ---
 ## PageCollection.Remove method
 
-Удаляет указанный элемент, выдает NotSupportedException .
+Удаляет указанный предмет, выбрасываетNotSupportedException .
 
 ```csharp
 public bool Remove(Page item)
@@ -16,7 +16,7 @@ public bool Remove(Page item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | Page | Элемент. |
+| item | Page | Предмет. |
 
 ### Возвращаемое значение
 

@@ -18,16 +18,16 @@ public sealed class Path : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Path](path#constructor)() | Инициализирует новый экземпляр класса[`Path`](../path). |
-| [Path](path#constructor_1)(Shape[]) | Инициализирует новый экземпляр класса[`Path`](../path). |
+| [Path](path#constructor)() | Инициализирует новый экземпляр[`Path`](../path) класс. |
+| [Path](path#constructor_1)(Shape[]) | Инициализирует новый экземпляр[`Path`](../path) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает объект[`GraphInfo`](../shape/graphinfo), который указывает информацию о графике, такую как цвет ширина строки и т.д. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает[`GraphInfo`](../shape/graphinfo) объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д. |
 | [Shapes](../../aspose.pdf.drawing/path/shapes) { get; } | Получает или задает коллекцию фигур. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для фигуры |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для shape |
 
 ### Смотрите также
 

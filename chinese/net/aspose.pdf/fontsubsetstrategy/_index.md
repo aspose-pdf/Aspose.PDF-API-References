@@ -1,14 +1,14 @@
 ---
 title: FontSubsetStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举字体子集化策略
+description: 枚举字体子集的策略
 type: docs
 weight: 2870
 url: /zh/net/aspose.pdf/fontsubsetstrategy/
 ---
 ## FontSubsetStrategy enumeration
 
-枚举字体子集化策略
+枚举字体子集的策略
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -19,7 +19,7 @@ public enum FontSubsetStrategy : byte
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | SubsetEmbeddedFontsOnly | `0` | 声明仅对已嵌入文档中的字体进行子集 |
-| SubsetAllFonts | `1` | 声明所有字体的子集，非嵌入和嵌入 |
+| SubsetAllFonts | `1` | 声明所有字体的子集，非嵌入和嵌入都 |
 
 ### 也可以看看
 

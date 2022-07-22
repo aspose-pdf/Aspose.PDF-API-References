@@ -20,7 +20,7 @@ public ColorDepth Depth { get; set; }
 
 ### 评论
 
-默认值为 ColorDepth。默认
+默认值为 ColorDepth.Default
 
 ### 也可以看看
 

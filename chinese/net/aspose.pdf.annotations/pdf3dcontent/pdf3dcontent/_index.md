@@ -1,14 +1,14 @@
 ---
 title: PDF3DContent
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DContentaspose.pdf.annotations/pdf3dcontent类的新实例
+description: 初始化PDF3DContentaspose.pdf.annotations/pdf3dcontent类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
 ---
 ## PDF3DContent() {#constructor}
 
-初始化[`PDF3DContent`](../../pdf3dcontent)类的新实例。
+初始化[`PDF3DContent`](../../pdf3dcontent)类.
 
 ```csharp
 public PDF3DContent()
@@ -24,7 +24,7 @@ public PDF3DContent()
 
 ## PDF3DContent(string) {#constructor_1}
 
-初始化[`PDF3DContent`](../../pdf3dcontent)类的新实例。
+初始化[`PDF3DContent`](../../pdf3dcontent)类.
 
 ```csharp
 public PDF3DContent(string filename)
@@ -38,7 +38,7 @@ public PDF3DContent(string filename)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 未知 3D 图稿类型 |
+| ArgumentException | 未知的 3D 艺术品类型 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Pdf
 second_title: Aspose.PDF for .NET API 参考
-description: Conains IPdfTypeExtractor 对象的创建者
+description: 包含 IPdfTypeExtractor 对象的创建者
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.groupprocessor/extractorfactory/pdf/
 ---
 ## ExtractorFactory.Pdf field
 
-Conains IPdfTypeExtractor 对象的创建者。
+包含 IPdfTypeExtractor 对象的创建者。
 
 ```csharp
 public static PdfTypeObjectCreator Pdf;

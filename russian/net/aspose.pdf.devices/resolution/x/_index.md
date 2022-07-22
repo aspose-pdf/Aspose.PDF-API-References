@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает горизонтальное разрешение изображения.
+description: Получает или задает разрешение изображения по горизонтали.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/resolution/x/
 ---
 ## Resolution.X property
 
-Получает или задает горизонтальное разрешение изображения.
+Получает или задает разрешение изображения по горизонтали.
 
 ```csharp
 public int X { get; set; }

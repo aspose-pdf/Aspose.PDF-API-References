@@ -21,7 +21,7 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | application | String | Путь запускаемого приложения. |
 | page | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
 | clr | Color | Цвет прямоугольника для активного клика. |
-| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в программе просмотра Acrobat. |
+| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в средстве просмотра Acrobat. |
 
 ### Примеры
 

@@ -1,18 +1,18 @@
 ---
 title: Aspose.Pdf.Tagged
 second_title: Aspose.PDF для справочника API .NET
-description: The Aspose.Pdf.Tagged  это пространство имен для классов для поддержки документов PDF с тегами.
+description: Aspose.Pdf.Tagged это пространство имен для классов для поддержки документов PDF с тегами.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.tagged/
 ---
-The **Aspose.Pdf.Tagged** — это пространство имен для классов для поддержки документов PDF с тегами.
+**Aspose.Pdf.Tagged** это пространство имен для классов для поддержки документов PDF с тегами.
 
 ## Классы
 
 | Учебный класс | Описание |
 | --- | --- |
-| [TaggedException](./taggedexception) | Представляет исключение для содержимого документа TaggedPDF. |
+| [TaggedException](./taggedexception) | Представляет исключение для содержимого TaggedPDF документа. |
 ## Интерфейсы
 
 | Интерфейс | Описание |

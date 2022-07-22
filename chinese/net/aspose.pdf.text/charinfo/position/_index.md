@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API 参考
-description: 获取字符的位置
+description: 获取角色的位置
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/charinfo/position/
 ---
 ## CharInfo.Position property
 
-获取字符的位置。
+获取角色的位置。
 
 ```csharp
 public Position Position { get; }

@@ -1,14 +1,14 @@
 ---
 title: StartingNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置起始页数的值其他页面将从该值开始编号
+description: 获取或设置起始页数的值其他页面将从这个值开始编号
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/pagenumberstamp/startingnumber/
 ---
 ## PageNumberStamp.StartingNumber property
 
-获取或设置起始页数的值。其他页面将从该值开始编号。
+获取或设置起始页数的值。其他页面将从这个值开始编号。
 
 ```csharp
 public int StartingNumber { get; set; }

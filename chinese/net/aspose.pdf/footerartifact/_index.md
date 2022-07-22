@@ -1,14 +1,14 @@
 ---
 title: FooterArtifact
 second_title: Aspose.PDF for .NET API 参考
-description: 描述页脚工件这可用于设置页面的页脚
+description: 描述页脚工件这可以用来设置页面的页脚
 type: docs
 weight: 2880
 url: /zh/net/aspose.pdf/footerartifact/
 ---
 ## FooterArtifact class
 
-描述页脚工件。这可用于设置页面的页脚。
+描述页脚工件。这可以用来设置页面的页脚。
 
 ```csharp
 public class FooterArtifact : Artifact
@@ -24,37 +24,37 @@ public class FooterArtifact : Artifact
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment) { get; set; } | 工件的水平对齐。 如果显式指定位置（在 Position 属性中），则忽略此值。 |
-| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment) { get; set; } | 工件的垂直对齐。 如果显式指定位置（在 Position 属性中），则忽略此值。 |
-| [BottomMargin](../../aspose.pdf/artifact/bottommargin) { get; set; } | 工件的底部边距。 如果显式指定位置（在 Position 属性中），则忽略此值。 |
+| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment) { get; set; } | 工件的水平对齐。 如果显式指定位置（在位置属性中），则忽略此值。 |
+| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment) { get; set; } | 工件的垂直对齐。 如果显式指定位置（在位置属性中），则忽略此值。 |
+| [BottomMargin](../../aspose.pdf/artifact/bottommargin) { get; set; } | 工件的底部边距。 如果显式指定位置（在位置属性中），则忽略此值。 |
 | [Contents](../../aspose.pdf/artifact/contents) { get; } | 获取工件内部运算符的集合。 |
 | [CustomSubtype](../../aspose.pdf/artifact/customsubtype) { get; set; } | 获取工件子类型的名称。如果工件子类型不是标准子类型，则可以使用。 |
-| [CustomType](../../aspose.pdf/artifact/customtype) { get; set; } | 获取工件类型的名称。如果工件类型是非标准的，则可以使用。 |
+| [CustomType](../../aspose.pdf/artifact/customtype) { get; set; } | 获取工件类型的名称。如果工件类型是非标准的，可以使用。 |
 | [Form](../../aspose.pdf/artifact/form) { get; } | 获取工件的 XForm（如果使用 XForm）。 |
 | [Image](../../aspose.pdf/artifact/image) { get; } | 获取工件的图像（如果存在）。 |
-| [IsBackground](../../aspose.pdf/artifact/isbackground) { get; set; } | 如果为真 工件放置在页面内容的后面。 |
-| [LeftMargin](../../aspose.pdf/artifact/leftmargin) { get; set; } | 工件的左边距。 如果显式指定位置（在 Position 属性中），则忽略此值。 |
-| [Lines](../../aspose.pdf/artifact/lines) { get; } | 多行文本工件的行。 |
-| [Opacity](../../aspose.pdf/artifact/opacity) { get; set; } | 获取或设置工件的不透明度。可能的值在 0..1 范围内。 |
+| [IsBackground](../../aspose.pdf/artifact/isbackground) { get; set; } | 如果为真 工件被放置在页面内容的后面。 |
+| [LeftMargin](../../aspose.pdf/artifact/leftmargin) { get; set; } | 工件的左边距。 如果显式指定位置（在位置属性中），则忽略此值。 |
+| [Lines](../../aspose.pdf/artifact/lines) { get; } | 多行文本工件的行数。 |
+| [Opacity](../../aspose.pdf/artifact/opacity) { get; set; } | 获取或设置工件的不透明度。可能的值在 0..1. 范围内 |
 | [Position](../../aspose.pdf/artifact/position) { get; set; } | 获取或设置工件位置。 如果指定了此属性，则忽略边距和对齐方式。 |
 | [Rectangle](../../aspose.pdf/artifact/rectangle) { get; } | 获取工件的矩形。 |
-| [RightMargin](../../aspose.pdf/artifact/rightmargin) { get; set; } | 工件的右边距。 如果显式指定位置（在 Position 属性中），则忽略此值。 |
+| [RightMargin](../../aspose.pdf/artifact/rightmargin) { get; set; } | 工件的右边距。 如果显式指定位置（在位置属性中），则忽略此值。 |
 | [Rotation](../../aspose.pdf/artifact/rotation) { get; set; } | 获取或设置工件旋转角度。 |
-| [Subtype](../../aspose.pdf/artifact/subtype) { get; set; } | 获取工件子类型。如果工件具有非标准子类型，则可以通过 CustomSubtype 读取子类型的名称。 |
+| [Subtype](../../aspose.pdf/artifact/subtype) { get; set; } | 获取工件子类型。如果工件具有非标准子类型，则可以通过 CustomSubtype. 读取子类型的名称 |
 | [Text](../../aspose.pdf/artifact/text) { get; set; } | 获取工件的文本。 |
 | [TextState](../../aspose.pdf/artifact/textstate) { get; set; } | 工件文本的文本状态。 |
-| [TopMargin](../../aspose.pdf/artifact/topmargin) { get; set; } | 工件的上边距。 如果显式指定位置（在 Position 属性中），则忽略此值。 |
+| [TopMargin](../../aspose.pdf/artifact/topmargin) { get; set; } | 工件的上边距。 如果显式指定位置（在位置属性中），则忽略此值。 |
 | [Type](../../aspose.pdf/artifact/type) { get; set; } | 获取工件类型。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BeginUpdates](../../aspose.pdf/artifact/beginupdates)() | 开始延迟更新。如果您需要对同一工件进行多次更改以提高性能，请使用此功能。 通常，当工件属性更改时，工件运算符会随时更改。这会导致每次更改工件时都会更改页面内容 。为了避免这种影响，请将所有工件更新放在 StartUpdates/SaveUpdates 调用之间。 这允许只更改一次页面内容。 |
+| [BeginUpdates](../../aspose.pdf/artifact/beginupdates)() | 开始延迟更新。如果您需要对同一工件进行多次更改以提高性能，请使用此功能。 通常，当工件属性更改时，工件运算符会随时更改。这会导致每次更改工件时都会更改页面内容 。为了避免这种影响，将所有工件更新放在 StartUpdates/SaveUpdates 调用之间。 这允许只更改一次页面内容。 |
 | [Dispose](../../aspose.pdf/artifact/dispose)() | 处理工件。 |
 | [GetValue](../../aspose.pdf/artifact/getvalue)(string) | 获取工件的自定义值。 |
 | [RemoveValue](../../aspose.pdf/artifact/removevalue)(string) | 从工件中删除自定义值。 |
-| [SaveUpdates](../../aspose.pdf/artifact/saveupdates)() | 在 BeginUpdates() 调用之后保存工件中的所有更新。 |
+| [SaveUpdates](../../aspose.pdf/artifact/saveupdates)() | 保存在 BeginUpdates() 调用之后进行的工件中的所有更新。 |
 | [SetImage](../../aspose.pdf/artifact/setimage)(Stream) | 设置工件的图像。 |
 | [SetImage](../../aspose.pdf/artifact/setimage)(string) | 设置工件的图像。 |
 | [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate)(string[], TextState) | 设置工件的文本和文本属性。允许指定多行。 |

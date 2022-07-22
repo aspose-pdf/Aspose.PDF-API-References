@@ -1,14 +1,14 @@
 ---
 title: XYZExplicitDestination
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет явный пункт назначения который отображает страницу с координатами слева сверху расположенными в верхнем левом углу окна и содержимое страницы увеличенное в множителе зум. Нулевое значение для любого из параметров left top или zoom указывает что текущее значение этого параметра должно быть сохранено без изменений. Значение масштабирования 0 имеет то же значение что и нулевое значение.
+description: Представляет явный пункт назначения который отображает страницу с координатами слева сверху расположенными в верхнем левом углу окна и содержимым страницы увеличенным с коэффициентом масштабирования. Нулевое значение для любого из параметров left top или zoom указывает что текущее значение этого параметра должно быть сохранено без изменений. Значение масштабирования 0 имеет то же значение что и нулевое значение.
 type: docs
 weight: 1270
 url: /ru/net/aspose.pdf.annotations/xyzexplicitdestination/
 ---
 ## XYZExplicitDestination class
 
-Представляет явный пункт назначения, который отображает страницу с координатами (слева, сверху), расположенными в верхнем левом углу окна, и содержимое страницы, увеличенное в множителе зум. Нулевое значение для любого из параметров left, top или zoom указывает, что текущее значение этого параметра должно быть сохранено без изменений. Значение масштабирования 0 имеет то же значение, что и нулевое значение.
+Представляет явный пункт назначения, который отображает страницу с координатами (слева, сверху), расположенными в верхнем левом углу окна, и содержимым страницы, увеличенным с коэффициентом масштабирования. Нулевое значение для любого из параметров left, top или zoom указывает, что текущее значение этого параметра должно быть сохранено без изменений. Значение масштабирования 0 имеет то же значение, что и нулевое значение.
 
 ```csharp
 public sealed class XYZExplicitDestination : ExplicitDestination
@@ -18,7 +18,7 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [XYZExplicitDestination](xyzexplicitdestination#constructor_2)(int, double, double, double) | Создает явный удаленный пункт назначения. |
+| [XYZExplicitDestination](xyzexplicitdestination#constructor_2)(int, double, double, double) | Создает удаленный явный пункт назначения. |
 | [XYZExplicitDestination](xyzexplicitdestination#constructor_1)(Page, double, double, double) | Создает локальный явный пункт назначения. |
 
 ## Характеристики
@@ -26,8 +26,8 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 | Имя | Описание |
 | --- | --- |
 | [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left) { get; } | Получает левую горизонтальную координату левого верхнего угла окна. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает объект целевой страницы |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер страницы назначения |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает целевую страницу object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер целевой страницы |
 | [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top) { get; } | Получает верхнюю вертикальную координату левого верхнего угла окна. |
 | [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom) { get; } | Получает коэффициент масштабирования. |
 
@@ -38,7 +38,7 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 | static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination)(Page, double, double, double, bool) | Создать пункт назначения в указанном месте страницы с учетом поворота страницы, если это необходимо. |
 | static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner)(Page) | Создать пункт назначения на указанной странице. |
 | static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner_1)(Page, double) | Создать пункт назначения в верхнем левом углу указанной страницы. |
-| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример:«1 XYZ 100 200 3». |
+| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример: "1 XYZ 100 200 3". |
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает спецификацию файла которая содержит фактические медиаданные.
+description: Спецификация возвращаемого файла которая содержит фактические медиаданные .
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/mediaclipdata/data/
 ---
 ## MediaClipData.Data property
 
-Возвращает спецификацию файла, которая содержит фактические медиаданные.
+Спецификация возвращаемого файла, которая содержит фактические медиаданные .
 
 ```csharp
 public FileSpecification Data { get; }

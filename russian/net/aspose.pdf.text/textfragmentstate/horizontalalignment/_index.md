@@ -16,7 +16,7 @@ public override HorizontalAlignment HorizontalAlignment { get; set; }
 
 ### Примечания
 
-HorizontalAlignment.None равно HorizontalAlignment.Left. Обратите внимание, что свойство TextFragmentState.VerticalAlignment работает только в новых сценариях генерации документов.
+HorizontalAlignment.None равно HorizontalAlignment.Left. Обратите внимание, что свойство TextFragmentState.VerticalAlignment работает только в сценариях создания новых документов.
 
 ### Смотрите также
 

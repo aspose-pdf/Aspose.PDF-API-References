@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置在加载文档期间应应用的页面信息 注意此参数仅在 ConversionEngine  ConversionEngines.NewEngine
+description: 获取或设置在加载文档期间应应用的页面信息 注意此参数仅在 ConversionEngine  ConversionEngines.NewEngine 时有效
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/svgloadoptions/pageinfo/
 ---
 ## SvgLoadOptions.PageInfo property
 
-获取或设置在加载文档期间应应用的页面信息。 注意此参数仅在 ConversionEngine == ConversionEngines.NewEngine
+获取或设置在加载文档期间应应用的页面信息。 注意此参数仅在 ConversionEngine == ConversionEngines.NewEngine 时有效
 
 ```csharp
 public PageInfo PageInfo { get; set; }

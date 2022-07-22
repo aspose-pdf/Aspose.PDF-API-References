@@ -1,14 +1,14 @@
 ---
 title: Sections
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекциюMarkupSectionaspose.pdf.text/markupsection которая была найдена на странице.
+description: Получает коллекциюMarkupSectionaspose.pdf.text/markupsection что было найдено на странице.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/pagemarkup/sections/
 ---
 ## PageMarkup.Sections property
 
-Получает коллекцию[`MarkupSection`](../../markupsection), которая была найдена на странице.
+Получает коллекцию[`MarkupSection`](../../markupsection) что было найдено на странице.
 
 ```csharp
 public List<MarkupSection> Sections { get; }

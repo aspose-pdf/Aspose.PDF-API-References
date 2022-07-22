@@ -18,13 +18,13 @@ public sealed class SystemFontsSubstitution : FontSubstitution
 
 | Имя | Описание |
 | --- | --- |
-| [SystemFontsSubstitution](systemfontssubstitution)(SubstitutionFontCategories) | Инициализирует новый экземпляр класса[`SystemFontsSubstitution`](../systemfontssubstitution). |
+| [SystemFontsSubstitution](systemfontssubstitution)(SubstitutionFontCategories) | Инициализирует новый экземпляр[`SystemFontsSubstitution`](../systemfontssubstitution) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию. Шрифт используется, когда не найдено никакой другой допустимой замены, но исходный шрифт принадлежит к целевой категории замены ([`FontCategories`](./fontcategories)). |
+| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию. Шрифт используется, когда не найдено никакой другой допустимой замены, но исходный шрифт принадлежит целевой категории замены ([`FontCategories`](./fontcategories) ). |
 | [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories) { get; set; } | Получает или задает категории замещающих шрифтов, которые должны быть заменены системными шрифтами. |
 
 ### Смотрите также

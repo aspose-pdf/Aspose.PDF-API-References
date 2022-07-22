@@ -1,14 +1,14 @@
 ---
 title: ExtractCertificate
 second_title: Aspose.PDF для справочника API .NET
-description: Извлекает единственный сертификат X.509 в формате DER в виде потока.
+description: Извлекает один сертификат X.509 в формате DER в виде потока.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/signaturefield/extractcertificate/
 ---
 ## SignatureField.ExtractCertificate method
 
-Извлекает единственный сертификат X.509 в формате DER в виде потока.
+Извлекает один сертификат X.509 в формате DER в виде потока.
 
 ```csharp
 public Stream ExtractCertificate()
@@ -16,7 +16,7 @@ public Stream ExtractCertificate()
 
 ### Возвращаемое значение
 
-Если сертификат найден, возвращает один сертификат X.509; в противном случае ноль.
+Если сертификат найден, возвращается одиночный сертификат X.509; в противном случае ноль.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ISaveableFacade
 second_title: Aspose.PDF для справочника API .NET
-description: Фасадный интерфейс определяющий методы общие для всех сохраняемых фасадов.
+description: Интерфейс фасада определяющий методы общие для всех сохраняемых фасадов.
 type: docs
 weight: 2380
 url: /ru/net/aspose.pdf.facades/isaveablefacade/
 ---
 ## ISaveableFacade interface
 
-Фасадный интерфейс, определяющий методы, общие для всех сохраняемых фасадов.
+Интерфейс фасада, определяющий методы, общие для всех сохраняемых фасадов.
 
 ```csharp
 public interface ISaveableFacade : IFacade
@@ -19,7 +19,7 @@ public interface ISaveableFacade : IFacade
 | Имя | Описание |
 | --- | --- |
 | [Save](../../aspose.pdf.facades/isaveablefacade/save#save)(Stream) | Сохраняет полученный PDF-документ в поток. |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save#save_1)(string) | Сохраняет полученный PDF-документ в файл. |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save#save_1)(string) | Сохраняет результирующий PDF-документ в файл. |
 
 ### Смотрите также
 

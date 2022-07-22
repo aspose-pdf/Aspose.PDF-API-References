@@ -1,14 +1,14 @@
 ---
 title: E
 second_title: Aspose.PDF для справочника API .NET
-description: Необязательно PDF 1.5 Расширенная форма аббревиатуры.
+description: необязательно PDF 1.5 Расширенная форма аббревиатуры.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.structure/element/e/
 ---
 ## Element.E property
 
-(Необязательно; PDF 1.5) Расширенная форма аббревиатуры.
+(необязательно; PDF 1.5) Расширенная форма аббревиатуры.
 
 ```csharp
 public virtual string E { get; set; }

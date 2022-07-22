@@ -1,14 +1,14 @@
 ---
 title: Destination
 second_title: Aspose.PDF для справочника API .NET
-description: Пункт назначения отображаемый при активации аннотации.
+description: Пункт назначения который будет отображаться при активации аннотации.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/linkannotation/destination/
 ---
 ## LinkAnnotation.Destination property
 
-Пункт назначения, отображаемый при активации аннотации.
+Пункт назначения, который будет отображаться при активации аннотации.
 
 ```csharp
 public IAppointment Destination { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PdfFileEditor.CorruptedItem
 second_title: Aspose.PDF для справочника API .NET
-description: Класс предоставляющий информацию о поврежденных файлах во время конкатенации.
+description: Класс предоставляющий информацию о поврежденных файлах во время объединения.
 type: docs
 weight: 2510
 url: /ru/net/aspose.pdf.facades/pdffileeditor.corrupteditem/
 ---
 ## PdfFileEditor.CorruptedItem class
 
-Класс, предоставляющий информацию о поврежденных файлах во время конкатенации.
+Класс, предоставляющий информацию о поврежденных файлах во время объединения.
 
 ```csharp
 public class CorruptedItem

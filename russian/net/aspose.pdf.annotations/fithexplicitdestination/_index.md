@@ -1,14 +1,14 @@
 ---
 title: FitHExplicitDestination
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет явный пункт назначения который отображает страницу с вертикальной координатой top расположенной на верхнем краю окна а содержимое страницы увеличивается настолько чтобы соответствовать всей ширине окна. страницу в окне. Нулевое значение для top указывает что текущее значение этого параметра должно быть сохранено без изменений.
+description: Представляет явное назначение которое отображает страницу с вертикальной координатой top расположенной на верхнем краю окна и содержимое страницы увеличенное настолько чтобы заполнить всю ширину страницы в окне. Нулевое значение для top указывает что текущее значение этого параметра должно быть сохранено без изменений.
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.annotations/fithexplicitdestination/
 ---
 ## FitHExplicitDestination class
 
-Представляет явный пункт назначения, который отображает страницу с вертикальной координатой top, расположенной на верхнем краю окна, а содержимое страницы увеличивается настолько, чтобы соответствовать всей ширине окна. страницу в окне. Нулевое значение для top указывает, что текущее значение этого параметра должно быть сохранено без изменений.
+Представляет явное назначение, которое отображает страницу с вертикальной координатой top, расположенной на верхнем краю окна, и содержимое страницы, увеличенное настолько, чтобы заполнить всю ширину страницы в окне. Нулевое значение для top указывает, что текущее значение этого параметра должно быть сохранено без изменений.
 
 ```csharp
 public sealed class FitHExplicitDestination : ExplicitDestination
@@ -18,22 +18,22 @@ public sealed class FitHExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [FitHExplicitDestination](fithexplicitdestination#constructor_2)(int, double) | Создает явный удаленный пункт назначения. |
+| [FitHExplicitDestination](fithexplicitdestination#constructor_2)(int, double) | Создает удаленный явный пункт назначения. |
 | [FitHExplicitDestination](fithexplicitdestination#constructor_1)(Page, double) | Создает локальный явный пункт назначения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает объект целевой страницы |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер страницы назначения |
-| [Top](../../aspose.pdf.annotations/fithexplicitdestination/top) { get; } | Получает вертикальную координату top, расположенную на верхнем краю окна. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает целевую страницу object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер целевой страницы |
+| [Top](../../aspose.pdf.annotations/fithexplicitdestination/top) { get; } | Получает верхнюю вертикальную координату, расположенную на верхнем краю окна. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fithexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример:«1 FitH 100». |
+| override [ToString](../../aspose.pdf.annotations/fithexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример: "1 FitH 100". |
 
 ### Смотрите также
 

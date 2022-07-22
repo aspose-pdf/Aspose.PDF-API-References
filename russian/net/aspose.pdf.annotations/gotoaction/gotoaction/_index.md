@@ -1,14 +1,14 @@
 ---
 title: GoToAction
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор класса GoToAction.
+description: Конструктор для класса GoToAction.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/gotoaction/gotoaction/
 ---
 ## GoToAction(Page) {#constructor_3}
 
-Конструктор класса GoToAction.
+Конструктор для класса GoToAction.
 
 ```csharp
 public GoToAction(Page page)
@@ -16,7 +16,7 @@ public GoToAction(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Aspose.Pdf.Page Целевой объект для перехода. |
+| page | Page | Объект назначения Aspose.Pdf.Page для перехода. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public GoToAction(Page page)
 
 ## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_4}
 
-Конструктор класса GoToAction.
+Конструктор для класса GoToAction.
 
 ```csharp
 public GoToAction(Page page, ExplicitDestinationType type, params double[] values)
@@ -61,7 +61,7 @@ public GoToAction(ExplicitDestination destination)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destination | ExplicitDestination | Явный пункт назначения. |
+| destination | ExplicitDestination | Явное назначение. |
 
 ### Смотрите также
 
@@ -83,7 +83,7 @@ public GoToAction(Document doc, string name)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ, в котором будет создано действие. |
-| name | String | Имя пункта назначения. |
+| name | String | Название пункта назначения. |
 
 ### Смотрите также
 

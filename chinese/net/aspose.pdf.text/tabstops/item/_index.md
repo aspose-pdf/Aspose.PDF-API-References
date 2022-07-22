@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 根据 TabStop 索引从集合中获取或设置TabStopaspose.pdf.text/tabstop对象
+description: 获取或设置一个TabStopaspose.pdf.text/tabstop根据 TabStop index. 从集合中获取对象
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/tabstops/item/
 ---
 ## TabStops indexer
 
-根据 TabStop 索引从集合中获取或设置[`TabStop`](../../tabstop)对象。
+获取或设置一个[`TabStop`](../../tabstop)根据 TabStop index. 从集合中获取对象
 
 ```csharp
 public TabStop this[int index] { get; set; }
@@ -16,11 +16,11 @@ public TabStop this[int index] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | [`TabStops`](../../tabstops)集合中元素的从零开始的索引. |
+| index | 元素的从零开始的索引[`TabStops`](../../tabstops)收藏。 |
 
 ### 返回值
 
-[`TabStop`](../../tabstop)对象。
+[`TabStop`](../../tabstop)目的。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает информацию о странице. только для генератора
+description: Получает или устанавливает информацию о странице только для генератора
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf/document/pageinfo/
 ---
 ## Document.PageInfo property
 
-Получает или устанавливает информацию о странице. (только для генератора)
+Получает или устанавливает информацию о странице (только для генератора)
 
 ```csharp
 public PageInfo PageInfo { get; set; }

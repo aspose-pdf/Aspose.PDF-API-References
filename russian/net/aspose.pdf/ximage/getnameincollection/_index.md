@@ -1,14 +1,14 @@
 ---
 title: GetNameInCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает имя изображения в коллекции целых чисел.
+description: Возвращает имя изображения в коллекции ints.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/ximage/getnameincollection/
 ---
 ## XImage.GetNameInCollection method
 
-Возвращает имя изображения в коллекции целых чисел.
+Возвращает имя изображения в коллекции ints.
 
 ```csharp
 public string GetNameInCollection()

@@ -1,14 +1,14 @@
 ---
 title: DigestHashAlgorithm
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает алгоритм дайджеста для внутренних хеш-функций.
+description: Получает/задает алгоритм дайджеста для внутренних хеш-функций.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/timestampsettings/digesthashalgorithm/
 ---
 ## TimestampSettings.DigestHashAlgorithm property
 
-Получает/устанавливает алгоритм дайджеста для внутренних хеш-функций.
+Получает/задает алгоритм дайджеста для внутренних хеш-функций.
 
 ```csharp
 public DigestHashAlgorithm DigestHashAlgorithm { get; set; }

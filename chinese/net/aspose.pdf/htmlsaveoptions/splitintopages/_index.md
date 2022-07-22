@@ -1,14 +1,14 @@
 ---
 title: SplitIntoPages
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示源 文档的每个页面是否将转换为它自己的目标 HTML 文档的标志 即结果 HTML 是否会被拆分为多个 HTML 页面
+description: 获取或设置标志指示是否将源 文档的每一页转换为它自己的目标HTML文档 即是否将结果HTML拆分为多个HTML页面
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/htmlsaveoptions/splitintopages/
 ---
 ## HtmlSaveOptions.SplitIntoPages property
 
-获取或设置指示源 文档的每个页面是否将转换为它自己的目标 HTML 文档的标志, 即结果 HTML 是否会被拆分为多个 HTML 页面。
+获取或设置标志，指示是否将源 文档的每一页转换为它自己的目标HTML文档， 即是否将结果HTML拆分为多个HTML页面。
 
 ```csharp
 public bool SplitIntoPages { get; set; }

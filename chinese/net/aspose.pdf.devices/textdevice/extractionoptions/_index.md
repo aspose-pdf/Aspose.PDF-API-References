@@ -22,13 +22,13 @@ public TextExtractionOptions ExtractionOptions { get; set; }
 Document doc = new Document(inFile);
 string extractedText;
 
-  // 创建文本 device
+// 创建文本设备
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-  // 转换页面并将文本保存到 stream
+// 转换页面并将文本保存到流中
 device.Process(doc.Pages[1], outFile);
 
-  // 使用提取的 text
+// 使用提取的文本
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 

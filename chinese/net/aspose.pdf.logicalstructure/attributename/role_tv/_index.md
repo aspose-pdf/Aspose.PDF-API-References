@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/role_tv/
 ---
 ## AttributeName.Role_tv field
 
-属性角色:tv - 文本值字段。
+属性角色：tv - 文本值字段。
 
 ```csharp
 public static readonly AttributeName Role_tv;

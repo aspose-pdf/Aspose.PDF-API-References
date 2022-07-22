@@ -23,7 +23,7 @@ public void RegisterNamespaceURI(string prefix, string namespaceURI)
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
-xmp.RegisterNamespaceURI("xmp", "http: //ns.adobe.com/xap/1.0/");
+xmp.RegisterNamespaceURI("xmp", "http://ns.adobe.com/xap/1.0/");
 ```
 
 ### Смотрите также

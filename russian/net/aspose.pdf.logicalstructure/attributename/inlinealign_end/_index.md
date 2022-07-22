@@ -1,14 +1,14 @@
 ---
 title: InlineAlign_End
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут InlineAlignEnd  конечная кромка прямоугольника выделения каждого дочернего элемента выровненная с кромкой прямоугольника содержимого ячейки таблицы.
+description: Атрибут InlineAlign End  конечная кромка прямоугольника выделения каждого дочернего элемента выровненная с кромкой прямоугольника содержимого ячейки таблицы.
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.logicalstructure/attributename/inlinealign_end/
 ---
 ## AttributeName.InlineAlign_End field
 
-Атрибут InlineAlign:End — конечная кромка прямоугольника выделения каждого дочернего элемента, выровненная с кромкой прямоугольника содержимого ячейки таблицы.
+Атрибут InlineAlign: End — конечная кромка прямоугольника выделения каждого дочернего элемента, выровненная с кромкой прямоугольника содержимого ячейки таблицы.
 
 ```csharp
 public static readonly AttributeName InlineAlign_End;

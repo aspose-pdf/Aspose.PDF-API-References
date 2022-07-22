@@ -32,7 +32,7 @@ public PdfFileInfo(Stream inputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入文件所在的流。 |
+| inputStream | Stream | 放置输入文件的流。 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public PdfFileInfo(Stream inputStream, string password)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入文件所在的流。 |
+| inputStream | Stream | 放置输入文件的流。 |
 | password | String | 访问文件的密码。 |
 
 ### 也可以看看
@@ -106,7 +106,7 @@ public PdfFileInfo(string inputFile, string password)
 
 ## PdfFileInfo(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`PdfFileInfo`](../../pdffileinfo)对象。
+初始化新的[`PdfFileInfo`](../../pdffileinfo)对象基于*document*.
 
 ```csharp
 public PdfFileInfo(Document document)
@@ -114,7 +114,7 @@ public PdfFileInfo(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | pdf文档。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PdfPageStamp
 second_title: Aspose.PDF for .NET API 参考
-description: PdfPageStamp 的构造函数
+description: PdfPageStamp. 的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pdfpagestamp/pdfpagestamp/
 ---
 ## PdfPageStamp(Page) {#constructor}
 
-PdfPageStamp 的构造函数。
+PdfPageStamp. 的构造函数
 
 ```csharp
 public PdfPageStamp(Page pdfPage)
@@ -37,8 +37,8 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fileName | String | PDF 文件的名称和页面。 |
-| pageIndex | Int32 | 页面索引。 |
+| fileName | String | PDF 文件的名称和页码。 |
+| pageIndex | Int32 | 页面的索引。 |
 
 ### 也可以看看
 
@@ -59,7 +59,7 @@ public PdfPageStamp(Stream stream, int pageIndex)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 包含 PDF 的流 |
-| pageIndex | Int32 | 的索引页。 |
+| pageIndex | Int32 | 页面的索引。 |
 
 ### 也可以看看
 

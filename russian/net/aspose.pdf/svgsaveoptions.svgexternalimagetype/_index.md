@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf/svgsaveoptions.svgexternalimagetype/
 ---
 ## SvgSaveOptions.SvgExternalImageType enumeration
 
-перечисляет возможные типы файлов изображений которые можно сохранить как внешние ресурсы во время во время преобразования Pdf в SVG
+перечисляет возможные типы файлов изображений, которые можно сохранить как внешние ресурсы во время во время преобразования Pdf в SVG
 
 ```csharp
 public enum SvgExternalImageType
@@ -18,12 +18,12 @@ public enum SvgExternalImageType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Jpeg | `0` | Формат Jpeg |
-| Png | `1` | Формат Png |
-| Bmp | `2` | Формат Bmp |
+| Jpeg | `0` | Формат JPEG |
+| Png | `1` | Формат PNG |
+| Bmp | `2` | Формат BMP |
 | Gif | `3` | Формат GIF |
 | Tiff | `4` | Формат Tiff |
-| Unknown | `5` | Unknown - означает, что конвертер не может сам определить тип содержимого |
+| Unknown | `5` | Неизвестно - означает, что конвертер сам не может определить тип контента |
 
 ### Смотрите также
 

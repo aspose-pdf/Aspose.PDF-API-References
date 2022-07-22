@@ -1,14 +1,14 @@
 ---
 title: GetRichText
 second_title: Aspose.PDF for .NET API 参考
-description: 获取富文本字段的值包括每个字符的格式信息
+description: 获取一个富文本字段的值包括每个字符的格式信息
 type: docs
 weight: 290
 url: /zh/net/aspose.pdf.facades/form/getrichtext/
 ---
 ## Form.GetRichText method
 
-获取富文本字段的值，包括每个字符的格式信息。
+获取一个富文本字段的值，包括每个字符的格式信息。
 
 ```csharp
 public string GetRichText(string fieldName)

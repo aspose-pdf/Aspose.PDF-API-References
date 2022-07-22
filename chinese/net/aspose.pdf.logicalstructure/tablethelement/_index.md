@@ -21,12 +21,12 @@ public sealed class TableTHElement : TableCellElement
 | [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext) { get; set; } | 获取或设置结构元素的实际文本。 |
 | [Alignment](../../aspose.pdf.logicalstructure/tablecellelement/alignment) { get; set; } | 获取或设置单元格对齐方式。 |
 | [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext) { get; set; } | 获取或设置结构元素的替代文本。 |
-| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | 获取StructureAttributeCollection对象。 |
+| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | 获取StructureAttributeCollection对象. |
 | [BackgroundColor](../../aspose.pdf.logicalstructure/tablecellelement/backgroundcolor) { get; set; } | 获取或设置单元格背景颜色。 |
 | [Border](../../aspose.pdf.logicalstructure/tablecellelement/border) { get; set; } | 获取或设置单元格边框。 |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | 获取Element对象的子集合。 |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | 获取子集合Element对象. |
 | [ColSpan](../../aspose.pdf.logicalstructure/tablecellelement/colspan) { get; set; } | 获取或设置列跨度。 |
-| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | 获取AttributeOwnerStandard对象。 |
+| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | 获取AttributeOwnerStandard对象. |
 | [DefaultCellTextState](../../aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate) { get; set; } | 获取或设置默认单元格文本状态。 |
 | [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext) { get; set; } | 获取或设置结构元素的扩展文本。 |
 | [ID](../../aspose.pdf.logicalstructure/structureelement/id) { get; } | 获取结构元素的 ID。 |
@@ -36,7 +36,7 @@ public sealed class TableTHElement : TableCellElement
 | [Margin](../../aspose.pdf.logicalstructure/tablecellelement/margin) { get; set; } | 获取或设置填充。 |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | 获取父元素。 |
 | [RowSpan](../../aspose.pdf.logicalstructure/tablecellelement/rowspan) { get; set; } | 获取或设置行跨度。 |
-| [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate) { get; } | 获取当前元素的StructureTextState对象。 |
+| [StructureTextState](../../aspose.pdf.logicalstructure/tablecellelement/structuretextstate) { get; } | 获取StructureTextState当前元素的对象。 |
 | [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype) { get; } | 获取结构元素的类型。 |
 | [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | 获取或设置结构元素的标题。 |
 | [VerticalAlignment](../../aspose.pdf.logicalstructure/tablecellelement/verticalalignment) { get; set; } | 获取或设置垂直对齐方式。 |
@@ -45,12 +45,12 @@ public sealed class TableTHElement : TableCellElement
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | 附加Element到子集合。 |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | 追加Element收集儿童。 |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | 更改当前结构元素的父元素 |
 | [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid)() | 清除结构元素的 ID。 |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | 查找给定类型的元素 |
 | [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | 为结构元素生成 ID。 |
-| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | 设置结构元素的 ID。 |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | 为结构元素设置 ID。 |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag)(string) | 为结构元素设置自定义标签。 |
 | [SetText](../../aspose.pdf.logicalstructure/tablecellelement/settext)(string) | 将文本内容附加到当前文本元素。 |
 | override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring)() | 返回代表当前对象的字符串。 |

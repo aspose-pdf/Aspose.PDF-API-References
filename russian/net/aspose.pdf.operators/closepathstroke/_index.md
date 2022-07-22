@@ -30,7 +30,7 @@ public class ClosePathStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/closepathstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/closepathstroke/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

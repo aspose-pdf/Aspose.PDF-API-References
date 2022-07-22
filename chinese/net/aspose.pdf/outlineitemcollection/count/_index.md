@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/outlineitemcollection/count/
 ---
 ## OutlineItemCollection.Count property
 
-收集项目的计数。请不要与 VisibleCount 混淆:VisibleCount 获取所有级别上可见大纲项目的数量。
+收集项目的计数。请不要与 VisibleCount 混淆：VisibleCount 获取所有级别上可见大纲项目的数量。
 
 ```csharp
 public override int Count { get; }

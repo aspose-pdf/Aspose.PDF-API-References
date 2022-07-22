@@ -1,14 +1,14 @@
 ---
 title: PageNum
 second_title: Aspose.PDF for .NET API 参考
-description: 获取包含该表的页面编号
+description: 获取包含此表的页数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/absorbedtable/pagenum/
 ---
 ## AbsorbedTable.PageNum property
 
-获取包含该表的页面编号
+获取包含此表的页数
 
 ```csharp
 public int PageNum { get; }

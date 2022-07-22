@@ -16,9 +16,9 @@ public void Sign(Signature signature, Stream pfx, string pass)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| signature | Signature | 签名对象，参见[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7),[`PKCS7Detached`](../../pkcs7detached)。 |
-| pfx | Stream | 带证书的流。 |
-| pass | String | 访问*pfx*中私有的密码。 |
+| signature | Signature | 签名对象，见[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7),[`PKCS7Detached`](../../pkcs7detached). |
+| pfx | Stream | 带有证书的流。 |
+| pass | String | 访问私有的密码*pfx*. |
 
 ### 也可以看看
 
@@ -39,7 +39,7 @@ public void Sign(Signature signature)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| signature | Signature | 签名对象，参见[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7)和[`PKCS7Detached`](../../pkcs7detached)。 |
+| signature | Signature | 签名对象，见[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7)和[`PKCS7Detached`](../../pkcs7detached). |
 
 ### 也可以看看
 

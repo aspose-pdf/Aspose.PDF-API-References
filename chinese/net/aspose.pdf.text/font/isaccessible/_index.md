@@ -20,21 +20,21 @@ public bool IsAccessible { get; }
 
 ### 例子
 
-该示例演示如何在第一页上搜索文本并获取指示字体是否为安装在系统中。
+该示例演示如何在第一页搜索文本并获取指示系统中是否安装字体的值。
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 查看第一个文本出现的字体的 IsSubset 值
-(absorber.TextFragments[1].TextState.Font.IsAccessible)
- Console.Out.WriteLine("the font is installed in the system");
+if(absorber.TextFragments[1].TextState.Font.IsAccessible)
+   Console.Out.WriteLine("the font is installed in the system");
 ```
 
 ### 也可以看看

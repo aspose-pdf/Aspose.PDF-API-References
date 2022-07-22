@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: 获取枚举数
+description: 获取枚举器
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/paragraphs/getenumerator/
 ---
 ## Paragraphs.GetEnumerator method
 
-获取枚举数。
+获取枚举器。
 
 ```csharp
 public IEnumerator<BaseParagraph> GetEnumerator()

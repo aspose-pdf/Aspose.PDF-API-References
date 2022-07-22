@@ -33,7 +33,7 @@ public RadioButtonOptionField(Page page, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Страница, на которой будет размещен RadioButton; |
-| rect | Rectangle | Recangle of RadioButton. |
+| rect | Rectangle | Повторение RadioButton. |
 
 ### Смотрите также
 

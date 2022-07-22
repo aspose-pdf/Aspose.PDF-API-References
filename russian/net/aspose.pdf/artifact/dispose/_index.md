@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.PDF для справочника API .NET
-description: Утилизируйте артефакт.
+description: Утилизировать артефакт.
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf/artifact/dispose/
 ---
 ## Artifact.Dispose method
 
-Утилизируйте артефакт.
+Утилизировать артефакт.
 
 ```csharp
 public void Dispose()

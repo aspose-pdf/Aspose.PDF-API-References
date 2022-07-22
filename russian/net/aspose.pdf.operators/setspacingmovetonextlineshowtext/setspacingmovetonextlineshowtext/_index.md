@@ -17,7 +17,7 @@ public SetSpacingMoveToNextLineShowText(double aw, double ac, string text)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | aw | Double | Расстояние между словами. |
-| ac | Double | Межсимвольный интервал. |
+| ac | Double | Расстояние между символами. |
 | text | String | Текстовое значение. |
 
 ### Смотрите также

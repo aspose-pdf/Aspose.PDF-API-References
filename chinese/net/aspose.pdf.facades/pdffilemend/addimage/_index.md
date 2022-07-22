@@ -19,10 +19,10 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | --- | --- | --- |
 | imageStream | Stream | 输入图像流。 |
 | pageNum | Int32 | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 
 ### 返回值
 
@@ -60,10 +60,10 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | --- | --- | --- |
 | imageStream | Stream | 输入图像流。 |
 | pageNum | Int32 | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 | compositingParameters | CompositingParameters | 图像的图形合成参数。 |
 
 ### 返回值
@@ -103,10 +103,10 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | --- | --- | --- |
 | imageStream | Stream | 输入图像流。 |
 | pageNums | Int32[] | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 
 ### 返回值
 
@@ -144,10 +144,10 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | --- | --- | --- |
 | imageStream | Stream | 输入图像流。 |
 | pageNums | Int32[] | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 | compositingParameters | CompositingParameters | 图像的图形合成参数。 |
 
 ### 返回值
@@ -187,10 +187,10 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | --- | --- | --- |
 | imageName | String | 输入图像文件的路径。 |
 | pageNum | Int32 | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 
 ### 返回值
 
@@ -225,10 +225,10 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | --- | --- | --- |
 | imageName | String | 输入图像文件的路径。 |
 | pageNum | Int32 | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 | compositingParameters | CompositingParameters | 图像的图形合成参数。 |
 
 ### 返回值
@@ -265,10 +265,10 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | --- | --- | --- |
 | imageName | String | 输入图像文件的路径。 |
 | pageNums | Int32[] | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 
 ### 返回值
 
@@ -303,10 +303,10 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | --- | --- | --- |
 | imageName | String | 输入图像文件的路径。 |
 | pageNums | Int32[] | 将接收图像的页数。 |
-| lowerLeftX | Single | 图像矩形的左下角x。 |
-| lowerLeftY | Single | 图像矩形的左下y。 |
-| upperRightX | Single | 图像矩形的右上角x。 |
-| upperRightY | Single | 图像矩形的右上角y。 |
+| lowerLeftX | Single | 图像矩形的左下角 x。 |
+| lowerLeftY | Single | 图像矩形的左下 y。 |
+| upperRightX | Single | 图像矩形的右上角 x。 |
+| upperRightY | Single | 图像矩形的右上角 y。 |
 | compositingParameters | CompositingParameters | 图像的图形合成参数。 |
 
 ### 返回值

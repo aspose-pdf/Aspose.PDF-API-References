@@ -1,14 +1,14 @@
 ---
 title: SoundSampleDataEncodingFormat
 second_title: Aspose.PDF для справочника API .NET
-description: Формат кодирования данных звуковых семплов.
+description: Формат кодирования данных звукового образца.
 type: docs
 weight: 1130
 url: /ru/net/aspose.pdf.annotations/soundsampledataencodingformat/
 ---
 ## SoundSampleDataEncodingFormat enumeration
 
-Формат кодирования данных звуковых семплов.
+Формат кодирования данных звукового образца.
 
 ```csharp
 public enum SoundSampleDataEncodingFormat
@@ -18,9 +18,9 @@ public enum SoundSampleDataEncodingFormat
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Raw | `0` | Неуказанные или беззнаковые значения в диапазоне от 0 до 2B − 1. |
+| Raw | `0` | Неуказанные или беззнаковые значения в диапазоне от 0 до 2B — 1. |
 | Signed | `1` | Значения с дополнением до двух. |
-| muLaw | `2` | Образцы, закодированные по закону μ. |
+| muLaw | `2` | выборки, закодированные по закону μ. |
 | ALaw | `3` | Образцы, закодированные по закону A. |
 
 ### Смотрите также

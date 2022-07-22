@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表单名称表单名称是用于在页面资源中引用 XObejct 教程中的表单的名称
+description: 获取或设置表单名称表单名称是用于在页面资源中的 XObejct 教程中引用表单的名称
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/xform/name/
 ---
 ## XForm.Name property
 
-获取或设置表单名称。表单名称是用于在页面资源中引用 XObejct 教程中的表单的名称。
+获取或设置表单名称。表单名称是用于在页面资源中的 XObejct 教程中引用表单的名称。
 
 ```csharp
 public string Name { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Path
 second_title: Aspose.PDF for .NET API 参考
-description: 表示圆弧
+description: 代表弧线
 type: docs
 weight: 2020
 url: /zh/net/aspose.pdf.drawing/path/
 ---
 ## Path class
 
-表示圆弧。
+代表弧线。
 
 ```csharp
 public sealed class Path : Shape
@@ -18,16 +18,16 @@ public sealed class Path : Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Path](path#constructor)() | 初始化[`Path`](../path)类的新实例。 |
-| [Path](path#constructor_1)(Shape[]) | 初始化[`Path`](../path)类的新实例。 |
+| [Path](path#constructor)() | 初始化[`Path`](../path)类. |
+| [Path](path#constructor_1)(Shape[]) | 初始化[`Path`](../path)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)对象，表示图形信息，例如颜色， 线宽等 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)表示图形信息的对象，例如颜色， 线宽等 |
 | [Shapes](../../aspose.pdf.drawing/path/shapes) { get; } | 获取或设置形状集合。 |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置形状的文本 |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置 shape 的文本 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Rows
 second_title: Aspose.PDF for .NET API 参考
-description: 获取表的行
+description: 获取表的行数
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/table/rows/
 ---
 ## Table.Rows property
 
-获取表的行。
+获取表的行数。
 
 ```csharp
 public Rows Rows { get; }

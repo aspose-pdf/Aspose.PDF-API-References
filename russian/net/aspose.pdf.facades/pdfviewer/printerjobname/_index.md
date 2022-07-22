@@ -1,14 +1,14 @@
 ---
 title: PrinterJobName
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает имя документа в очереди печати при печати документа. Значение по умолчанию  имя файла.
+description: Получает или задает имя документа в очереди печати при печати документа. Значение по умолчанию  имя файла.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdfviewer/printerjobname/
 ---
 ## PdfViewer.PrinterJobName property
 
-Получает или устанавливает имя документа в очереди печати при печати документа. Значение по умолчанию — имя файла.
+Получает или задает имя документа в очереди печати при печати документа. Значение по умолчанию — имя файла.
 
 ```csharp
 public string PrinterJobName { get; set; }

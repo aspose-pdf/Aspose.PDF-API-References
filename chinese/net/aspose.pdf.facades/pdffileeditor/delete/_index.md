@@ -1,14 +1,14 @@
 ---
 title: Delete
 second_title: Aspose.PDF for .NET API 参考
-description: 从输入文件中删除数字数组指定的页面另存为新的 Pdf 文件
+description: 从输入文件中删除由数字数组指定的页面另存为新的 Pdf 文件
 type: docs
 weight: 300
 url: /zh/net/aspose.pdf.facades/pdffileeditor/delete/
 ---
 ## Delete(string, int[], string) {#delete_2}
 
-从输入文件中删除数字数组指定的页面，另存为新的 Pdf 文件。
+从输入文件中删除由数字数组指定的页面，另存为新的 Pdf 文件。
 
 ```csharp
 public bool Delete(string inputFile, int[] pageNumber, string outputFile)
@@ -41,7 +41,7 @@ pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## Delete(Stream, int[], Stream) {#delete}
 
-从输入文件中删除数字数组指定的页面，另存为新的 Pdf 文件。
+从输入文件中删除由数字数组指定的页面，另存为新的 Pdf 文件。
 
 ```csharp
 public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -55,7 +55,7 @@ public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -116,7 +116,7 @@ public bool Delete(Stream inputStream, int[] pageNumber, HttpResponse response)
 
 ### 返回值
 
-如果操作成功，则为真。
+如果操作成功则为真。
 
 ### 也可以看看
 

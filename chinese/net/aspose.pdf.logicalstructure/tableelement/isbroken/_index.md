@@ -1,14 +1,14 @@
 ---
 title: IsBroken
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表已损坏 - 将被截断以用于下一页
+description: 获取或设置表已损坏 - 将在下一页截断
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.logicalstructure/tableelement/isbroken/
 ---
 ## TableElement.IsBroken property
 
-获取或设置表已损坏 - 将被截断以用于下一页。
+获取或设置表已损坏 - 将在下一页截断。
 
 ```csharp
 public bool IsBroken { get; set; }

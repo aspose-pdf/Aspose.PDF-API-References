@@ -1,14 +1,14 @@
 ---
 title: SaveOptions.NodeLevelResourceType
 second_title: Aspose.PDF для справочника API .NET
-description: перечисляет возможные типы сохраняемых внешних ресурсов
+description: перечисляет возможные типы сохраненных внешних ресурсов
 type: docs
 weight: 6350
 url: /ru/net/aspose.pdf/saveoptions.nodelevelresourcetype/
 ---
 ## SaveOptions.NodeLevelResourceType enumeration
 
-перечисляет возможные типы сохраняемых внешних ресурсов
+перечисляет возможные типы сохраненных внешних ресурсов
 
 ```csharp
 public enum NodeLevelResourceType
@@ -18,8 +18,8 @@ public enum NodeLevelResourceType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Image | `0` | Означает, что предоставленный ресурс является изображением |
-| Font | `1` | Означает, что предоставленным ресурсом является шрифт |
+| Image | `0` | Означает, что предоставленный ресурс — image |
+| Font | `1` | Означает, что предоставленный ресурс font |
 
 ### Смотрите также
 

@@ -1,14 +1,20 @@
 ---
 title: GetFieldFacade
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает объект FrofmFieldFacade содержащий все атрибуты внешнего вида.  ltcodegt Aspose.Pdf.Facades.Form form  new Aspose.Pdf.Facades.Formform.pdf FormFieldFacade field  form.GetFieldFacadefield1 Console.WriteLineЦвет границы поля  field.BorderColor lt/codegt
+description: Возвращает объект FrofmFieldFacade содержащий все атрибуты внешнего вида.
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.facades/form/getfieldfacade/
 ---
 ## Form.GetFieldFacade method
 
-Возвращает объект FrofmFieldFacade, содержащий все атрибуты внешнего вида.  &lt;code&gt; Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("form.pdf"); FormFieldFacade field = form.GetFieldFacade("field1"); Console.WriteLine("Цвет границы поля:" + field.BorderColor); &lt;/code&gt;
+Возвращает объект FrofmFieldFacade, содержащий все атрибуты внешнего вида.
+
+```csharp
+Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("form.pdf");
+FormFieldFacade field = form.GetFieldFacade("field1");
+Console.WriteLine("Color of field border: " + field.BorderColor);
+```
 
 ```csharp
 public FormFieldFacade GetFieldFacade(string fieldName)

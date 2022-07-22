@@ -1,14 +1,14 @@
 ---
 title: CreateBibEntryElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建BibEntryElementaspose.pdf.logicalstructure/bibentryelement
+description: 创建BibEntryElementaspose.pdf.logicalstructure/bibentryelement.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 ---
 ## ITaggedContent.CreateBibEntryElement method
 
-创建[`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement)。
+创建[`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement).
 
 ```csharp
 public BibEntryElement CreateBibEntryElement()
@@ -16,7 +16,7 @@ public BibEntryElement CreateBibEntryElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

@@ -18,13 +18,13 @@ public class OcspSettings
 
 | Имя | Описание |
 | --- | --- |
-| [OcspSettings](ocspsettings)(string) | Инициализирует новый экземпляр класса[`OcspSettings`](../ocspsettings). |
+| [OcspSettings](ocspsettings)(string) | Инициализирует новый экземпляр[`OcspSettings`](../ocspsettings) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl) { get; set; } | Получает/устанавливает URL-адрес сервера ocsp. |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl) { get; set; } | Получает/задает URL-адрес сервера ocsp. |
 
 ### Смотрите также
 

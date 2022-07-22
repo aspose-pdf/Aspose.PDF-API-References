@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Double
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleDouble  граница представляет собой две сплошные линии. Сумма двух линий и пространства между ними равна значению BorderThickness.
+description: Атрибут BorderStyle Double  граница представляет собой две сплошные линии. Сумма двух строк и пространства между ними равна значению BorderThickness.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_double/
 ---
 ## AttributeName.BorderStyle_Double field
 
-Атрибут BorderStyle:Double — граница представляет собой две сплошные линии. Сумма двух линий и пространства между ними равна значению BorderThickness.
+Атрибут BorderStyle: Double — граница представляет собой две сплошные линии. Сумма двух строк и пространства между ними равна значению BorderThickness.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Double;

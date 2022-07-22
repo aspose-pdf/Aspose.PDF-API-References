@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектTabStopaspose.pdf.text/tabstopиз коллекции в соответствии с индексом TabStop.
+description: Получает или задаетTabStopaspose.pdf.text/tabstop объект из коллекции по TabStop index.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/tabstops/item/
 ---
 ## TabStops indexer
 
-Получает или задает объект[`TabStop`](../../tabstop)из коллекции в соответствии с индексом TabStop.
+Получает или задает[`TabStop`](../../tabstop) объект из коллекции по TabStop index.
 
 ```csharp
 public TabStop this[int index] { get; set; }
@@ -16,11 +16,11 @@ public TabStop this[int index] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Отсчитываемый от нуля индекс элемента в коллекции[`TabStops`](../../tabstops). |
+| index | Отсчитываемый от нуля индекс элемента в[`TabStops`](../../tabstops) коллекция. |
 
 ### Возвращаемое значение
 
-[`TabStop`](../../tabstop)объект.
+[`TabStop`](../../tabstop) объект.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 文本提取错误所在的文档页号
+description: 文本提取错误所在的文档页数
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/pagenumber/
 ---
 ## TextExtractionErrorLocation.PageNumber property
 
-文本提取错误所在的文档页号。
+文本提取错误所在的文档页数。
 
 ```csharp
 public int PageNumber { get; }

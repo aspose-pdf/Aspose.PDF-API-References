@@ -18,7 +18,7 @@ public class PageActionCollection : BaseActionCollection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OnClose](../../aspose.pdf/pageactioncollection/onclose) { get; set; } | 关闭页面时应执行的操作。 |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose) { get; set; } | 页面关闭时应执行的操作。 |
 | [OnOpen](../../aspose.pdf/pageactioncollection/onopen) { get; set; } | 打开页面时应执行的操作。 |
 
 ## 方法

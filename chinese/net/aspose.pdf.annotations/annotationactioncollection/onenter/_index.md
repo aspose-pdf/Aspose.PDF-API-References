@@ -1,14 +1,14 @@
 ---
 title: OnEnter
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置当光标进入注释活动区域时要执行的操作
+description: 获取或设置当光标进入注解的活动区域时要执行的动作
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/annotationactioncollection/onenter/
 ---
 ## AnnotationActionCollection.OnEnter property
 
-获取或设置当光标进入注释活动区域时要执行的操作。
+获取或设置当光标进入注解的活动区域时要执行的动作。
 
 ```csharp
 public PdfAction OnEnter { get; set; }

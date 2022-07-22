@@ -16,7 +16,7 @@ public void UpdateLabel(int pageIndex, PageLabel pageLabel)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageIndex | Int32 | 更改页面标签的页面索引。 |
+| pageIndex | Int32 | 用于更改页面标签的页面索引。 |
 | pageLabel | PageLabel | 页面的新标签。 |
 
 ### 也可以看看

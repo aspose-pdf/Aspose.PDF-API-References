@@ -1,14 +1,14 @@
 ---
 title: Thistle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为FFD8BFD8 的系统定义颜色
+description: 获取 ARGB 值为 FFD8BFD8. 的系统定义颜色
 type: docs
 weight: 1330
 url: /zh/net/aspose.pdf/color/thistle/
 ---
 ## Color.Thistle property
 
-获取 ARGB 值为#FFD8BFD8 的系统定义颜色。
+获取 ARGB 值为 #FFD8BFD8. 的系统定义颜色
 
 ```csharp
 public static Color Thistle { get; }
@@ -16,7 +16,7 @@ public static Color Thistle { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

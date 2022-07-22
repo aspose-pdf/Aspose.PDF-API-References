@@ -18,7 +18,7 @@ public class EndPath : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EndPath](endpath)() | 初始化运算符。 |
+| [EndPath](endpath)() | 初始化操作符。 |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: SimpleTextboxModeGrouping
 second_title: Aspose.PDF for .NET API 参考
-description: 此属性指定字形和单词的顺序分组为字符串 例如标签和单词在转换的 HTML 中具有不同的顺序您希望它们匹配 只有当 FixedLayout 属性的值为 true 时此参数才会应用于文档
+description: 此属性指定字形和单词的顺序分组为字符串 例如标签和单词在转换后的 HTML 中具有不同的顺序您希望它们匹配 只有当 FixedLayout 属性的值为 true 时此参数才会应用于文档
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/
 ---
 ## HtmlSaveOptions.SimpleTextboxModeGrouping property
 
-此属性指定字形和单词的顺序分组为字符串 例如标签和单词在转换的 HTML 中具有不同的顺序，您希望它们匹配。 只有当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。
+此属性指定字形和单词的顺序分组为字符串 例如标签和单词在转换后的 HTML 中具有不同的顺序，您希望它们匹配。 只有当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。
 
 ```csharp
 public bool SimpleTextboxModeGrouping { get; set; }

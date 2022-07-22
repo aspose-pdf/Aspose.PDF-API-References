@@ -18,7 +18,7 @@ public class SetTextRise : TextStateOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetTextRise](settextrise)(double) | 初始化运算符。 |
+| [SetTextRise](settextrise)(double) | 初始化操作符。 |
 
 ## 特性
 

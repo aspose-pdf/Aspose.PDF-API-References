@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает размер шрифта текста представленного объектомTextFragmentaspose.pdf.text/textfragment
+description: Получает или задает размер шрифта текста представленногоTextFragmentaspose.pdf.text/textfragment объект
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textfragmentstate/fontsize/
 ---
 ## TextFragmentState.FontSize property
 
-Получает или задает размер шрифта текста, представленного объектом[`TextFragment`](../../textfragment)
+Получает или задает размер шрифта текста, представленного[`TextFragment`](../../textfragment) объект
 
 ```csharp
 public override float FontSize { get; set; }

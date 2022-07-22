@@ -16,7 +16,7 @@ public object GetCatalogValue(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ элемента. |
+| key | String | Ключ предмета. |
 
 ### Возвращаемое значение
 

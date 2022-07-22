@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示图形颜色的Coloraspose.pdf/graphinfo/color对象
+description: 获取或设置一个Coloraspose.pdf/graphinfo/color表示图形颜色的对象
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/graphinfo/color/
 ---
 ## GraphInfo.Color property
 
-获取或设置指示图形颜色的`Color`对象。
+获取或设置一个`Color`表示图形颜色的对象。
 
 ```csharp
 public Color Color { get; set; }

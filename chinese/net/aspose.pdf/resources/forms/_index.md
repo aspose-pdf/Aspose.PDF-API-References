@@ -1,14 +1,14 @@
 ---
 title: Forms
 second_title: Aspose.PDF for .NET API 参考
-description: 获取Formsaspose.pdf/resources/forms表单集合
+description: 获取Formsaspose.pdf/resources/forms表格collection
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/resources/forms/
 ---
 ## Resources.Forms property
 
-获取`Forms`表单集合
+获取`Forms`表格collection
 
 ```csharp
 public XFormCollection Forms { get; }

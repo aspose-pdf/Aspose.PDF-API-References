@@ -1,14 +1,14 @@
 ---
 title: PrintStatus
 second_title: Aspose.PDF для справочника API .NET
-description: Получает результат задания печати. Если успех чем ноль в противном случае объект исключения.
+description: Получает результат задания на печать. Если успех чем ноль в противном случае объект исключения.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdfviewer/printstatus/
 ---
 ## PdfViewer.PrintStatus property
 
-Получает результат задания печати. Если успех, чем ноль; в противном случае объект исключения.
+Получает результат задания на печать. Если успех, чем ноль; в противном случае объект исключения.
 
 ```csharp
 public object PrintStatus { get; }

@@ -1,14 +1,14 @@
 ---
 title: AllowCopy
 second_title: Aspose.PDF for .NET API 参考
-description: 设置是否允许复制 true 是允许false 是禁止
+description: 设置是否允许复制的权限 true 为允许false 为禁止
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/documentprivilege/allowcopy/
 ---
 ## DocumentPrivilege.AllowCopy property
 
-设置是否允许复制。 true 是允许，false 是禁止。
+设置是否允许复制的权限。 true 为允许，false 为禁止。
 
 ```csharp
 public bool AllowCopy { get; set; }

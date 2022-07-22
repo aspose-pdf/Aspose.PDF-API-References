@@ -19,7 +19,7 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 | page | Page | Объект целевой страницы. |
 | left | Double | Левая горизонтальная координата левого верхнего угла окна. |
 | top | Double | Верхняя вертикальная координата левого верхнего угла окна. |
-| zoom | Double | Масштаб. |
+| zoom | Double | Коэффициент масштабирования. |
 
 ### Смотрите также
 
@@ -32,7 +32,7 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 
 ## XYZExplicitDestination(int, double, double, double) {#constructor_2}
 
-Создает явный удаленный пункт назначения.
+Создает удаленный явный пункт назначения.
 
 ```csharp
 public XYZExplicitDestination(int pageNumber, double left, double top, double zoom)
@@ -43,7 +43,7 @@ public XYZExplicitDestination(int pageNumber, double left, double top, double zo
 | pageNumber | Int32 | Номер целевой страницы удаленного документа. |
 | left | Double | Левая горизонтальная координата левого верхнего угла окна. |
 | top | Double | Верхняя вертикальная координата левого верхнего угла окна. |
-| zoom | Double | Масштаб. |
+| zoom | Double | Коэффициент масштабирования. |
 
 ### Смотрите также
 

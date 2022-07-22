@@ -1,14 +1,14 @@
 ---
 title: Brown
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为FFA52A2A 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FFA52A2A.
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/color/brown/
 ---
 ## Color.Brown property
 
-获取 ARGB 值为#FFA52A2A 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FFA52A2A.
 
 ```csharp
 public static Color Brown { get; }
@@ -16,7 +16,7 @@ public static Color Brown { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

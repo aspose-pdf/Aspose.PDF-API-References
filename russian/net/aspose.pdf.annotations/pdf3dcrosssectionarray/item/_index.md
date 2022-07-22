@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задаетPDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssectionпо указанному индексу.
+description: Получает или задаетPDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssection по указанному индексу.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/
 ---
 ## PDF3DCrossSectionArray indexer
 
-Получает или задает[`PDF3DCrossSection`](../../pdf3dcrosssection)по указанному индексу.
+Получает или задает[`PDF3DCrossSection`](../../pdf3dcrosssection) по указанному индексу.
 
 ```csharp
 public PDF3DCrossSection this[int index] { get; set; }
@@ -20,13 +20,13 @@ public PDF3DCrossSection this[int index] { get; set; }
 
 ### Возвращаемое значение
 
-Сечение.
+Поперечное сечение.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| IndexOutOfRangeException | Неверный индекс:индекс должен быть в диапазоне [1..n], где n равно кресту количество секций. |
+| IndexOutOfRangeException | Недопустимый индекс: индекс должен быть в диапазоне [1..n], где n равно количеству поперечных сечений. |
 
 ### Смотрите также
 

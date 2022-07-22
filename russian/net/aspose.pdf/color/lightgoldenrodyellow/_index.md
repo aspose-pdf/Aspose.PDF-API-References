@@ -1,14 +1,14 @@
 ---
 title: LightGoldenrodYellow
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFAFAD2.
+description: Получает определяемый системой цвет со значением ARGB FFFAFAD2.
 type: docs
 weight: 680
 url: /ru/net/aspose.pdf/color/lightgoldenrodyellow/
 ---
 ## Color.LightGoldenrodYellow property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFAFAD2.
+Получает определяемый системой цвет со значением ARGB #FFFAFAD2.
 
 ```csharp
 public static Color LightGoldenrodYellow { get; }

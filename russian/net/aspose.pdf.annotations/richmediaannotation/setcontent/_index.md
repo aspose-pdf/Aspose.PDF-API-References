@@ -17,7 +17,7 @@ public void SetContent(string fileName, Stream audio)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String | Имя потока. |
-| аудио | Stream | Поток данных. |
+| audio | Stream | Поток данных. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API 参考
-description: 获取在页面上找到的MarkupParagraphaspose.pdf.text/markupparagraph集合
+description: 获取集合MarkupParagraphaspose.pdf.text/markupparagraph这是在页面上找到的
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/pagemarkup/paragraphs/
 ---
 ## PageMarkup.Paragraphs property
 
-获取在页面上找到的[`MarkupParagraph`](../../markupparagraph)集合。
+获取集合[`MarkupParagraph`](../../markupparagraph)这是在页面上找到的。
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }

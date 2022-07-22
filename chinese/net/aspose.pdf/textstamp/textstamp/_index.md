@@ -1,14 +1,14 @@
 ---
 title: TextStamp
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TextStampaspose.pdf/textstamp类的新实例
+description: 初始化TextStampaspose.pdf/textstamp类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/textstamp/textstamp/
 ---
 ## TextStamp(string) {#constructor_1}
 
-初始化[`TextStamp`](../../textstamp)类的新实例。
+初始化[`TextStamp`](../../textstamp)类.
 
 ```csharp
 public TextStamp(string value)
@@ -16,7 +16,7 @@ public TextStamp(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 邮票值。 |
+| value | String | 印章值。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public TextStamp(string value)
 
 ## TextStamp(string, TextState) {#constructor_2}
 
-初始化[`TextStamp`](../../textstamp)类的新实例。
+初始化[`TextStamp`](../../textstamp)类.
 
 ```csharp
 public TextStamp(string value, TextState textState)
@@ -36,8 +36,8 @@ public TextStamp(string value, TextState textState)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 标记值。 |
-| textState | TextState | 标记文本状态。 |
+| value | String | 邮票价值。 |
+| textState | TextState | 戳文本状态。 |
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public TextStamp(string value, TextState textState)
 
 ## TextStamp(FormattedText) {#constructor}
 
-使用 formattedText 对象初始化[`TextStamp`](../../textstamp)类的新实例
+初始化[`TextStamp`](../../textstamp)带有 formattedText object 的类
 
 ```csharp
 public TextStamp(FormattedText formattedText)
@@ -58,7 +58,7 @@ public TextStamp(FormattedText formattedText)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText 对象，其中包含戳记的文本。 |
+| formattedText | FormattedText | 包含图章文本的 FormattedText 对象。 |
 
 ### 也可以看看
 

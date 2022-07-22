@@ -1,14 +1,14 @@
 ---
 title: CustomProgressHandler
 second_title: Aspose.PDF for .NET API 参考
-description: 此处理程序可用于处理转换进度事件 fe 它可用于显示进度条或有关当前金额的消息 已处理页面在控制台上显示进度的处理程序代码示例是
+description: 此处理程序可用于处理转换进度事件 fe 它可用于显示进度条或有关当前已处理页面数量 的消息在控制台上显示进度的处理程序代码示例是
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pptxsaveoptions/customprogresshandler/
 ---
 ## PptxSaveOptions.CustomProgressHandler property
 
-此处理程序可用于处理转换进度事件 fe 它可用于显示进度条或有关当前金额的消息 已处理页面，在控制台上显示进度的处理程序代码示例是:
+此处理程序可用于处理转换进度事件 fe 它可用于显示进度条或有关当前已处理页面数量 的消息，在控制台上显示进度的处理程序代码示例是：
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }

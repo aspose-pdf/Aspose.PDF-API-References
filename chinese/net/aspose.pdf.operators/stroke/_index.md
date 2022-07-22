@@ -1,14 +1,14 @@
 ---
 title: Stroke
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 S 运算符笔划路径的类
+description: 代表 S 运算符笔划路径的类
 type: docs
 weight: 5650
 url: /zh/net/aspose.pdf.operators/stroke/
 ---
 ## Stroke class
 
-表示 S 运算符（笔划路径）的类。
+代表 S 运算符（笔划路径）的类。
 
 ```csharp
 public class Stroke : Operator
@@ -18,7 +18,7 @@ public class Stroke : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Stroke](stroke)() | 初始化运算符。 |
+| [Stroke](stroke)() | 初始化操作符。 |
 
 ## 特性
 
@@ -31,7 +31,7 @@ public class Stroke : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/stroke/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/stroke/tostring)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/stroke/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

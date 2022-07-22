@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 矩形的构造函数
+description: 矩形的构造函数.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/rectangle/rectangle/
 ---
 ## Rectangle constructor
 
-矩形的构造函数。
+矩形的构造函数.
 
 ```csharp
 public Rectangle(double llx, double lly, double urx, double ury)
@@ -16,7 +16,7 @@ public Rectangle(double llx, double lly, double urx, double ury)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| llx | Double | 左下角 X。 |
+| llx | Double | 左下角的 X。 |
 | lly | Double | 左下角的 Y。 |
 | urx | Double | 右上角的 X。 |
 | ury | Double | 右上角的 Y。 |

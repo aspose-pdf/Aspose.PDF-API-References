@@ -16,7 +16,7 @@ public LaunchAction(string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| file | String | Запускаемый файл. |
+| file | String | Файл, который нужно запустить. |
 
 ### Смотрите также
 
@@ -37,7 +37,7 @@ public LaunchAction(Document document, string file)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | document | Document | Документ, в котором будет создано действие. |
-| file | String | Запускаемый файл. |
+| file | String | Файл, который нужно запустить. |
 
 ### Смотрите также
 

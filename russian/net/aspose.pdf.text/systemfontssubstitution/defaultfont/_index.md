@@ -1,14 +1,14 @@
 ---
 title: DefaultFont
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает шрифт замены по умолчанию. Шрифт используется когда не найдено никакой другой допустимой замены но исходный шрифт принадлежит к целевой категории замены FontCategoriesaspose.pdf.text/systemfontssubstitution/fontcategories.
+description: Получает или устанавливает шрифт замены по умолчанию. Шрифт используется когда не найдено никакой другой допустимой замены но исходный шрифт принадлежит целевой категории замены FontCategoriesaspose.pdf.text/systemfontssubstitution/fontcategories .
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/systemfontssubstitution/defaultfont/
 ---
 ## SystemFontsSubstitution.DefaultFont property
 
-Получает или устанавливает шрифт замены по умолчанию. Шрифт используется, когда не найдено никакой другой допустимой замены, но исходный шрифт принадлежит к целевой категории замены ([`FontCategories`](../fontcategories)).
+Получает или устанавливает шрифт замены по умолчанию. Шрифт используется, когда не найдено никакой другой допустимой замены, но исходный шрифт принадлежит целевой категории замены ([`FontCategories`](../fontcategories) ).
 
 ```csharp
 public Font DefaultFont { get; set; }

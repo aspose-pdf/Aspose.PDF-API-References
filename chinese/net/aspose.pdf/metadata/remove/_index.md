@@ -20,7 +20,7 @@ public bool Remove(string key)
 
 ### 返回值
 
-True - 如果密钥被移除；否则为假。
+True - 如果键被移除；否则为假。
 
 ### 也可以看看
 

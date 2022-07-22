@@ -19,9 +19,9 @@ public enum PageMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | UseNone | `0` | 不要使用任何组件。 |
-| UseOutlines | `1` | 文档轮廓可见。 |
+| UseOutlines | `1` | 文档大纲可见。 |
 | UseThumbs | `2` | 缩略图可见。 |
-| FullScreen | `3` | FullScreen 全屏模式，没有菜单栏、窗口控件或任何其他可见窗口。 |
+| FullScreen | `3` | FullScreen全屏模式，没有菜单栏、窗口控件或任何其他可见窗口。 |
 | UseOC | `4` | 可选内容组面板可见。 |
 | UseAttachments | `5` | 附件面板可见。 |
 

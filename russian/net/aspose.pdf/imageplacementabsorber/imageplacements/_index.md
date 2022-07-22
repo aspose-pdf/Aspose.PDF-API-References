@@ -1,14 +1,14 @@
 ---
 title: ImagePlacements
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекцию вхождений размещения изображений представленных объектамиImagePlacementaspose.pdf/imageplacement.
+description: Получает коллекцию вхождений размещения изображений представленныхImagePlacementaspose.pdf/imageplacement объекты.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/imageplacementabsorber/imageplacements/
 ---
 ## ImagePlacementAbsorber.ImagePlacements property
 
-Получает коллекцию вхождений размещения изображений, представленных объектами[`ImagePlacement`](../../imageplacement).
+Получает коллекцию вхождений размещения изображений, представленных[`ImagePlacement`](../../imageplacement) объекты.
 
 ```csharp
 public ImagePlacementCollection ImagePlacements { get; }

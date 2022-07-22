@@ -18,28 +18,28 @@ public sealed class OutlineCollection : Outlines
 
 | Имя | Описание |
 | --- | --- |
-| override [Count](../../aspose.pdf/outlinecollection/count) { get; } | Количество предметов коллекции. Пожалуйста, не путайте с VisibleCount:VisibleCount получает количество видимых элементов контура на всех уровнях. |
-| [First](../../aspose.pdf/outlinecollection/first) { get; } | Получает элемент структуры, представляющий первый элемент верхнего уровня структуры. |
+| override [Count](../../aspose.pdf/outlinecollection/count) { get; } | Количество предметов коллекции. Пожалуйста, не путайте с VisibleCount: VisibleCount получает количество видимых элементов схемы на всех уровнях. |
+| [First](../../aspose.pdf/outlinecollection/first) { get; } | Получает элемент структуры, представляющий первый элемент верхнего уровня в структуре. |
 | override [IsReadOnly](../../aspose.pdf/outlinecollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения. |
 | [IsSynchronized](../../aspose.pdf/outlinecollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к этой коллекции синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf/outlinecollection/item) { get; } | Получает элемент схемы из коллекции по индексу. |
-| [Last](../../aspose.pdf/outlinecollection/last) { get; } | Получает элемент структуры, представляющий последний элемент верхнего уровня структуры. |
+| [Last](../../aspose.pdf/outlinecollection/last) { get; } | Получает элемент схемы, представляющий последний элемент верхнего уровня в структуре. |
 | [SyncRoot](../../aspose.pdf/outlinecollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к этой коллекции. |
-| override [VisibleCount](../../aspose.pdf/outlinecollection/visiblecount) { get; } | Количество - это сумма количества видимых элементов структуры потомков на всех уровнях. Примечание:пожалуйста, не путайте с Count, который является числом предметов в коллекции. |
+| override [VisibleCount](../../aspose.pdf/outlinecollection/visiblecount) { get; } | Count — это сумма количества видимых дочерних элементов структуры на всех уровнях. Примечание: пожалуйста, не путайте с Count, который является числом, если предметы в коллекции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Add](../../aspose.pdf/outlinecollection/add)(OutlineItemCollection) | Добавляет элемент схемы в коллекцию. |
-| override [Clear](../../aspose.pdf/outlinecollection/clear)() | Удаляет все предметы из коллекции. |
+| override [Clear](../../aspose.pdf/outlinecollection/clear)() | Удаляет все элементы из коллекции. |
 | override [Contains](../../aspose.pdf/outlinecollection/contains)(OutlineItemCollection) | Проверяет, содержит ли коллекция данный элемент. |
-| override [CopyTo](../../aspose.pdf/outlinecollection/copyto)(OutlineItemCollection[], int) | Копирует элементы структуры в System.Array, начиная с определенного индекса System.Array. |
-| [Delete](../../aspose.pdf/outlinecollection/delete#delete)() | Удаляет все элементы структуры из структуры документа. |
+| override [CopyTo](../../aspose.pdf/outlinecollection/copyto)(OutlineItemCollection[], int) | Копирует элементы схемы в System.Array, начиная с определенного индекса System.Array. |
+| [Delete](../../aspose.pdf/outlinecollection/delete#delete)() | Удаляет все элементы схемы из структуры документа. |
 | [Delete](../../aspose.pdf/outlinecollection/delete#delete_1)(string) | Удаляет элемент структуры с указанным заголовком из структуры документа. |
-| override [GetEnumerator](../../aspose.pdf/outlinecollection/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| override [GetEnumerator](../../aspose.pdf/outlinecollection/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | [Remove](../../aspose.pdf/outlinecollection/remove#remove_1)(int) | Удалить элемент по индексу. |
-| override [Remove](../../aspose.pdf/outlinecollection/remove#remove)(OutlineItemCollection) | Всегда выдает NotImplementedException |
+| override [Remove](../../aspose.pdf/outlinecollection/remove#remove)(OutlineItemCollection) | Всегда выбрасываетНереализованное исключение |
 
 ### Смотрите также
 

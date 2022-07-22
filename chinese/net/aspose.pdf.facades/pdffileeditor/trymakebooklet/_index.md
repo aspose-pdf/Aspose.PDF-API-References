@@ -21,15 +21,15 @@ public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages,
 | pageSize | PageSize | 所需的页面大小。 |
 | leftPages | Int32[] | 要放置在左侧的页码数组。 |
 | rightPages | Int32[] | 要放置在右侧的页码数组。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -42,7 +42,7 @@ TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法
 
 ## TryMakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#trymakebooklet}
 
-从 PDF 文件制作小册子并将其存储到 HttpResponse 中。
+从 PDF 文件制作小册子并将其存储到 HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
@@ -54,16 +54,16 @@ public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPage
 | inputStream | Stream | 输入文档流。 |
 | pageSize | PageSize | 所需的页面大小。 |
 | leftPages | Int32[] | 将放置在左侧的页码数组。 |
-| rightPages | Int32[] | 将被放在右边的页码数组。 |
+| rightPages | Int32[] | 将在右侧替换的页码数组。 |
 | response | HttpResponse | HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -86,7 +86,7 @@ public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse res
 | --- | --- | --- |
 | inputFile | String | 源文件路径。 |
 | pageSize | PageSize | 输出文件中所需的页面大小。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
@@ -94,7 +94,7 @@ public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse res
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -107,7 +107,7 @@ TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法
 
 ## TryMakeBooklet(Stream, PageSize, HttpResponse) {#trymakebooklet_1}
 
-从源文件制作小册子并将结果存储到 HttpResponse。
+从源文件制作小册子并将结果存储到 HttpResponse.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
@@ -117,15 +117,15 @@ public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse r
 | --- | --- | --- |
 | inputStream | Stream | 输入文档流。 |
 | pageSize | PageSize | 输出文件中所需的页面大小。 |
-| response | HttpResponse | Respose 对象将保存resut。 |
+| response | HttpResponse | 响应将保存结果的对象。 |
 
 ### 返回值
 
-如果小册子构建成功，则为 true。
+如果小册子已成功构建，则为 true。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -138,7 +138,7 @@ TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法
 
 ## TryMakeBooklet(string, string) {#trymakebooklet_8}
 
-从输入文件到输出文件制作小册子。
+制作从输入文件到输出文件的小册子。
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile)
@@ -146,16 +146,16 @@ public bool TryMakeBooklet(string inputFile, string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入pdf文件路径和名称。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
+| inputFile | String | 输入pdf文件路径和名称. |
+| outputFile | String | 输出pdf文件路径和名称. |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -174,7 +174,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 
 ## TryMakeBooklet(Stream, Stream) {#trymakebooklet_2}
 
-制作从 InputStream 到 outputStream 的小册子。
+制作从 InputStream 到 outputStream. 的小册子
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
@@ -182,16 +182,16 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 pdf 流。 |
-| outputStream | Stream | 输出pdf流。 |
+| inputStream | Stream | 输入pdf流. |
+| outputStream | Stream | 输出pdf流. |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -212,7 +212,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 
 ## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_9}
 
-制作从 inputFile 到 outputFile 的小册子。
+制作从 inputFile 到 outputFile. 的小册子
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -220,17 +220,17 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入pdf文件路径和名称。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| inputFile | String | 输入pdf文件路径和名称. |
+| outputFile | String | 输出pdf文件路径和名称. |
+| pageSize | PageSize | 输出pdf文件的页面大小. |
 
 ### 返回值
 
-如果操作成功，则为真。
+如果操作成功则为真。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -258,17 +258,17 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 PDF 流。 |
-| outputStream | Stream | 输出pdf流。 |
-| pageSize | PageSize | 输出 pdf 文件的页面大小。 |
+| inputStream | Stream | 输入 PDF 流. |
+| outputStream | Stream | 输出pdf流. |
+| pageSize | PageSize | 输出pdf文件的页面大小. |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -299,17 +299,17 @@ public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 输入文件。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
+| outputFile | String | 输出 pdf 文件路径和名称。 |
 | leftPages | Int32[] | 小册子的左页。 |
 | rightPages | Int32[] | 小册子的右页。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -338,17 +338,17 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPa
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 输入流。 |
-| outputStream | Stream | 输出 pdf 流。 |
-| leftPages | Int32[] | 左侧页面。 |
+| outputStream | Stream | 输出pdf流。 |
+| leftPages | Int32[] | 左页。 |
 | rightPages | Int32[] | 正确的页面。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -379,18 +379,18 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 输入文件。 |
-| outputFile | String | 输出pdf文件路径和名称。 |
+| outputFile | String | 输出 pdf 文件路径和名称。 |
 | pageSize | PageSize | 输出 pdf 文件的页面大小。 |
-| leftPages | Int32[] | 左侧页面。 |
+| leftPages | Int32[] | 左页。 |
 | rightPages | Int32[] | 正确的页面。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -410,7 +410,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int
 
 ## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_4}
 
-制作从 firstInputStream 到 outputStream 的小册子。
+制作从 firstInputStream 到 outputStream. 的小册子
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
@@ -420,18 +420,18 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 输入流。 |
-| outputStream | Stream | 输出 pdf 流。 |
+| outputStream | Stream | 输出pdf流。 |
 | pageSize | PageSize | 输出 pdf 文件的页面大小。 |
-| leftPages | Int32[] | 左侧页面。 |
+| leftPages | Int32[] | 左页。 |
 | rightPages | Int32[] | 正确的页面。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryMakeBooklet 方法类似于 MakeBooklet 方法，除了 TryMakeBooklet 方法不会抛出异常，如果操作失败。
+TryMakeBooklet 方法与 MakeBooklet 方法类似，只是 TryMakeBooklet 方法在操作失败时不会抛出异常。
 
 ### 例子
 

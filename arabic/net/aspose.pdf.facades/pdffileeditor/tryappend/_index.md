@@ -1,0 +1,157 @@
+---
+title: TryAppend
+second_title: Aspose.PDF لمرجع .NET API
+description: لإلحاق الصفحات  التي يتم اختيارها من مجموعة من المستندات في portStreams. يتضمن مستند النتيجة firstInputFile وجميع صفحات مستندات portStreams في النطاق من صفحة البداية إلى الصفحة النهائية.
+type: docs
+weight: 410
+url: /ar/net/aspose.pdf.facades/pdffileeditor/tryappend/
+---
+## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
+
+لإلحاق الصفحات ، التي يتم اختيارها من مجموعة من المستندات في portStreams. يتضمن مستند النتيجة firstInputFile وجميع صفحات مستندات portStreams في النطاق من صفحة البداية إلى الصفحة النهائية.
+
+```csharp
+public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
+    Stream outputStream)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputStream | Stream | إدخال دفق PDF. |
+| portStreams | Stream[] | مستندات لنسخ صفحات منها. |
+| startPage | Int32 | تبدأ الصفحة في مستندات portStreams. |
+| endPage | Int32 | تنتهي الصفحة في مستندات portStreams. |
+| outputStream | Stream | إخراج دفق PDF. |
+
+### قيمة الإرجاع
+
+صحيح للنجاح أو خطأ.
+
+### ملاحظات
+
+تشبه طريقة TryAppend طريقة الإلحاق ، باستثناء أن طريقة TryAppend لا تطرح استثناءً إذا فشلت العملية.
+
+### أمثلة
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream instream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream stream1 = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream stream2 = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Write);
+bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
+```
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## TryAppend(string, string[], int, int, string) {#tryappend_2}
+
+لإلحاق الصفحات التي يتم اختيارها من مستندات portFiles. يتضمن المستند الناتج firstInputFile وجميع صفحات مستندات portFiles الموجودة في نطاق بدء الصفحة حتى نهاية الصفحة.
+
+```csharp
+public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
+    string outputFile)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputFile | String | إدخال ملف PDF. |
+| portFiles | String[] | مستندات لنسخ صفحات منها. |
+| startPage | Int32 | تبدأ الصفحة في مستندات portFiles. |
+| endPage | Int32 | تنتهي الصفحة في مستندات portFiles. |
+| outputFile | String | إخراج وثيقة PDF. |
+
+### قيمة الإرجاع
+
+صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+
+### ملاحظات
+
+تشبه طريقة TryAppend طريقة الإلحاق ، باستثناء أن طريقة TryAppend لا تطرح استثناءً إذا فشلت العملية.
+
+### أمثلة
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+bool result = fileEditor.TryAppend("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "outfile.pdf");
+```
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## TryAppend(Stream, Stream[], int, int, HttpResponse) {#tryappend_1}
+
+إلحاق مستندات بالمستند المصدر وحفظ النتيجة في كائن الاستجابة.
+
+```csharp
+public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
+    HttpResponse response)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputStream | Stream | الدفق الذي يحتوي على وثيقة المصدر. |
+| portStreams | Stream[] | صفيف من التدفقات مع المستندات المطلوب إلحاقها. |
+| startPage | Int32 | صفحة البداية للصفحة الملحقة. |
+| endPage | Int32 | صفحة نهاية الصفحات الملحقة. |
+| response | HttpResponse | كائن الاستجابة حيث سيتم حفظ المستند. |
+
+### قيمة الإرجاع
+
+صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+
+### ملاحظات
+
+تشبه طريقة TryAppend طريقة الإلحاق ، باستثناء أن طريقة TryAppend لا تطرح استثناءً إذا فشلت العملية.
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## TryAppend(string, string[], int, int, HttpResponse) {#tryappend_3}
+
+إلحاق مستندات بالمستند المصدر وحفظ النتيجة في كائن HttpResponse .
+
+```csharp
+public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
+    HttpResponse response)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputFile | String | اسم الملف الذي يحتوي على وثيقة المصدر. |
+| portFiles | String[] | مصفوفة أسماء الملفات التي تحتوي على مستندات ملحقة. |
+| startPage | Int32 | صفحة البداية للصفحات الملحقة. |
+| endPage | Int32 | صفحة نهاية الصفحات الملحقة. |
+| response | HttpResponse | كائن الاستجابة حيث سيتم حفظ المستند. |
+
+### قيمة الإرجاع
+
+صحيح إذا اكتملت العملية بنجاح خلاف ذلك ، خطأ.
+
+### ملاحظات
+
+تشبه طريقة TryAppend طريقة الإلحاق ، باستثناء أن طريقة TryAppend لا تطرح استثناءً إذا فشلت العملية.
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

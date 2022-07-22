@@ -1,14 +1,14 @@
 ---
 title: RenditionOperation
 second_title: Aspose.PDF for .NET API 参考
-description: 触发动作时执行的操作
+description: 触发动作时要执行的操作
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/renditionaction/renditionoperation/
 ---
 ## RenditionAction.RenditionOperation property
 
-触发动作时执行的操作。
+触发动作时要执行的操作。
 
 ```csharp
 public RenditionOperation RenditionOperation { get; set; }

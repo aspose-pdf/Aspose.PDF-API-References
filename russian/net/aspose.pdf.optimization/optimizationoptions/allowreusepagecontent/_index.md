@@ -1,14 +1,14 @@
 ---
 title: AllowReusePageContent
 second_title: Aspose.PDF для справочника API .NET
-description: Если истинно содержимое страницы будет повторно использоваться когда документ оптимизируется для одинаковых страниц.
+description: Если истинное содержимое страницы будет повторно использоваться при оптимизации документа для одинаковых страниц.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/
 ---
 ## OptimizationOptions.AllowReusePageContent property
 
-Если истинно, содержимое страницы будет повторно использоваться, когда документ оптимизируется для одинаковых страниц.
+Если истинное содержимое страницы будет повторно использоваться при оптимизации документа для одинаковых страниц.
 
 ```csharp
 public bool AllowReusePageContent { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_Inline
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyPositionвстроенный  RT и связанные с ним элементы RP должны быть отформатированы как комментарий в скобках следующий за элементом RB.
+description: Атрибут RubyPosition встроенный  RT и связанные с ним элементы RP должны быть отформатированы как комментарий в скобках после элемента RB.
 type: docs
 weight: 500
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyposition_inline/
 ---
 ## AttributeName.RubyPosition_Inline field
 
-Атрибут RubyPosition:встроенный — RT и связанные с ним элементы RP должны быть отформатированы как комментарий в скобках, следующий за элементом RB.
+Атрибут RubyPosition: встроенный — RT и связанные с ним элементы RP должны быть отформатированы как комментарий в скобках после элемента RB.
 
 ```csharp
 public static readonly AttributeName RubyPosition_Inline;

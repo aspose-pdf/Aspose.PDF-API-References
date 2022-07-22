@@ -1,14 +1,14 @@
 ---
 title: OpenFile
 second_title: Aspose.PDF for .NET API 参考
-description: 只需使用filename创建并返回 Document 与Documentaspose.pdf/document/document相同
+description: 只需创建并返回 Document 使用filename.一样Documentaspose.pdf/document/document.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/comhelper/openfile/
 ---
 ## OpenFile(string) {#openfile}
 
-只需使用*filename*创建并返回 Document 。与[`Document`](../../document/document)相同。
+只需创建并返回 Document 使用*filename*.一样[`Document`](../../document/document).
 
 ```csharp
 public Document OpenFile(string filename)
@@ -33,7 +33,7 @@ public Document OpenFile(string filename)
 
 ## OpenFile(string, string) {#openfile_2}
 
-初始化并返回[`Document`](../../document)类的新实例，用于处理加密文档。
+初始化并返回[`Document`](../../document)用于处理加密文档的类。
 
 ```csharp
 public Document OpenFile(string filename, string password)
@@ -59,7 +59,7 @@ public Document OpenFile(string filename, string password)
 
 ## OpenFile(string, string, bool) {#openfile_3}
 
-初始化[`Document`](../../document)类的新实例，用于处理加密文档。
+初始化新实例[`Document`](../../document)用于处理加密文档的类。
 
 ```csharp
 public Document OpenFile(string filename, string password, bool isManagedStream)
@@ -69,7 +69,7 @@ public Document OpenFile(string filename, string password, bool isManagedStream)
 | --- | --- | --- |
 | filename | String | 文档文件名。 |
 | password | String | 用户或所有者密码。 |
-| isManagedStream | Boolean | 如果设置为` true` 在退出前关闭内部流；否则，不是。 |
+| isManagedStream | Boolean | 如果设置为`真的`退出前关闭内部流；否则，不是。 |
 
 ### 返回值
 
@@ -94,8 +94,8 @@ public Document OpenFile(string filename, LoadOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filename | String | 输入文件转换成pdf文件。 |
-| options | LoadOptions | 表示将*filename*转换为 pdf 文档的属性。 |
+| filename | String | 输入要转换成pdf文件的文件。 |
+| options | LoadOptions | 表示用于转换的属性*filename*成pdf文档. |
 
 ### 返回值
 

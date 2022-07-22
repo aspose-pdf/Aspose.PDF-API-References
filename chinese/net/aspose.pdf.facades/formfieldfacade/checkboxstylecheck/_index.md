@@ -1,14 +1,14 @@
 ---
 title: CheckBoxStyleCheck
 second_title: Aspose.PDF for .NET API 参考
-description: 定义选中时复选框字段的形状
+description: 定义复选框字段选中时的形状
 type: docs
 weight: 390
 url: /zh/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 ---
 ## FormFieldFacade.CheckBoxStyleCheck field
 
-定义选中时复选框字段的形状。
+定义复选框字段选中时的形状。
 
 ```csharp
 public const int CheckBoxStyleCheck;

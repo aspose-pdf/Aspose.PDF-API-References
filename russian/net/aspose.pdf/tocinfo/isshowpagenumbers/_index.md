@@ -1,14 +1,14 @@
 ---
 title: IsShowPageNumbers
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает номера страниц для отображения в оглавлении.
+description: Получает или задает номера страниц для отображения в Toc.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/tocinfo/isshowpagenumbers/
 ---
 ## TocInfo.IsShowPageNumbers property
 
-Получает или устанавливает номера страниц для отображения в оглавлении.
+Получает или задает номера страниц для отображения в Toc.
 
 ```csharp
 public bool IsShowPageNumbers { get; set; }

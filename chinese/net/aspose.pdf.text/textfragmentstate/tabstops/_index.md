@@ -16,7 +16,7 @@ public TabStops TabStops { get; }
 
 ### 评论
 
-请注意，Tabstops 属性仅适用于新的文档生成场景。 可以在[`TextFragment`](../../textfragment)初始化期间添加制表位。制表位必须在文本之前构建。
+请注意，Tabstops 属性仅适用于新文档生成方案。 可以在期间添加 Tabstops[`TextFragment`](../../textfragment)初始化。制表位必须在 text. 之前构建
 
 ### 也可以看看
 

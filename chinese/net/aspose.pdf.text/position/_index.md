@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API 参考
-description: 表示一个位置对象
+description: 代表一个位置对象
 type: docs
 weight: 6860
 url: /zh/net/aspose.pdf.text/position/
 ---
 ## Position class
 
-表示一个位置对象
+代表一个位置对象
 
 ```csharp
 public sealed class Position
@@ -18,7 +18,7 @@ public sealed class Position
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Position](position)(double, double) | 初始化[`Position`](../position)类的新实例 |
+| [Position](position)(double, double) | 初始化一个新的实例[`Position`](../position)class |
 
 ## 特性
 
@@ -31,8 +31,8 @@ public sealed class Position
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/position/equals)(object) | 判断指定对象是否等于当前[`Position`](../position)对象。 |
-| override [ToString](../../aspose.pdf.text/position/tostring)() | 获取当前[`Position`](../position)对象的字符串表示形式。 |
+| override [Equals](../../aspose.pdf.text/position/equals)(object) | 判断指定对象是否等于当前[`Position`](../position)目的。 |
+| override [ToString](../../aspose.pdf.text/position/tostring)() | 获取当前字符串的表示形式[`Position`](../position)目的。 |
 
 ### 也可以看看
 

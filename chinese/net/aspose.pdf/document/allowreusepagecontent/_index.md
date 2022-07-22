@@ -1,14 +1,14 @@
 ---
 title: AllowReusePageContent
 second_title: Aspose.PDF for .NET API 参考
-description: 允许合并页面内容以优化文档大小如果使用则不同但重复的页面可能会引用 相同的内容对象请注意此模式可能会在更改其他页面时产生副作用例如更改页面内容
+description: 允许合并页面内容以优化文档大小如果使用则不同但重复的页面可能会引用 相同的内容对象请注意此模式可能会导致在更改其他页面时更改页面内容等副作用
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/document/allowreusepagecontent/
 ---
 ## Document.AllowReusePageContent property
 
-允许合并页面内容以优化文档大小。如果使用，则不同但重复的页面可能会引用 相同的内容对象。请注意，此模式可能会在更改其他页面时产生副作用，例如更改页面内容。
+允许合并页面内容以优化文档大小。如果使用，则不同但重复的页面可能会引用 相同的内容对象。请注意，此模式可能会导致在更改其他页面时更改页面内容等副作用。
 
 ```csharp
 public bool AllowReusePageContent { get; set; }

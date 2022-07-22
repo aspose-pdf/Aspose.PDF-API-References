@@ -1,14 +1,14 @@
 ---
 title: TaggedException
 second_title: Aspose.PDF for .NET API 参考
-description: 表示文档的 TaggedPDF 内容异常
+description: 表示文档的 TaggedPDF 内容例外
 type: docs
 weight: 6530
 url: /zh/net/aspose.pdf.tagged/taggedexception/
 ---
 ## TaggedException class
 
-表示文档的 TaggedPDF 内容异常。
+表示文档的 TaggedPDF 内容例外。
 
 ```csharp
 public class TaggedException : PdfException
@@ -18,7 +18,7 @@ public class TaggedException : PdfException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TaggedException](taggedexception)() | 初始化[`TaggedException`](../taggedexception)类的新实例。 |
+| [TaggedException](taggedexception)() | 初始化[`TaggedException`](../taggedexception)类. |
 
 ### 也可以看看
 

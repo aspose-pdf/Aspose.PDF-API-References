@@ -1,14 +1,14 @@
 ---
 title: WritingMode_LrTb
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 WritingModeLrTb - 从左到右的内联进程阻止从上到下的进展这是西方书写系统的典型书写模式
+description: 属性 WritingMode LrTb - 从左到右的内联进程阻止从上到下的进展这是西方书写系统的典型书写模式
 type: docs
 weight: 640
 url: /zh/net/aspose.pdf.logicalstructure/attributename/writingmode_lrtb/
 ---
 ## AttributeName.WritingMode_LrTb field
 
-属性 WritingMode:LrTb - 从左到右的内联进程；阻止从上到下的进展。这是西方书写系统的典型书写模式。
+属性 WritingMode: LrTb - 从左到右的内联进程；阻止从上到下的进展。这是西方书写系统的典型书写模式。
 
 ```csharp
 public static readonly AttributeName WritingMode_LrTb;

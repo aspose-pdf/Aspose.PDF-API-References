@@ -48,7 +48,7 @@ public XmpValue(int value)
 
 ## XmpValue(double) {#constructor_1}
 
-浮点值的构造函数。
+浮点 Value. 的构造函数
 
 ```csharp
 public XmpValue(double value)
@@ -56,7 +56,7 @@ public XmpValue(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 双精度值。 |
+| value | Double | 双重价值。 |
 
 ### 也可以看看
 

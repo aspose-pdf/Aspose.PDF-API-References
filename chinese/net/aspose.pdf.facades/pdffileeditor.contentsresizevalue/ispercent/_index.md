@@ -1,14 +1,14 @@
 ---
 title: IsPercent
 second_title: Aspose.PDF for .NET API 参考
-description: 如果值以百分比表示则为真 如果值以默认单位表示则为 False
+description: 如果值以百分比表示则为真 如果值以默认单位表示则为假
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/
 ---
 ## PdfFileEditor.ContentsResizeValue.IsPercent property
 
-如果值以百分比表示，则为真； 如果值以默认单位表示，则为 False。
+如果值以百分比表示，则为真； 如果值以默认单位表示，则为假。
 
 ```csharp
 public bool IsPercent { get; }

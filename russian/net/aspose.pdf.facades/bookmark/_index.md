@@ -24,14 +24,14 @@ public sealed class Bookmark
 
 | Имя | Описание |
 | --- | --- |
-| [Action](../../aspose.pdf.facades/bookmark/action) { get; set; } | Получает или задает действие, связанное с закладкой. Если PageNumber представлен, действие не может быть указано. Тип действия включает:"Перейти", "Перейти", "Запустить", "Именовано". |
+| [Action](../../aspose.pdf.facades/bookmark/action) { get; set; } | Получает или задает действие, связанное с закладкой. Если указан PageNumber, действие не может быть указано. Тип действия включает: "GoTo", "GoToR", "Launch", "Named". |
 | [BoldFlag](../../aspose.pdf.facades/bookmark/boldflag) { get; set; } | Получает или устанавливает жирный флаг заголовка закладки. |
 | [ChildItems](../../aspose.pdf.facades/bookmark/childitems) { get; set; } | Получает или устанавливает дочерние элементы закладки. |
 | [CustomAcorbatViewerMenuActionName](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname) { get; set; } | Имя действия, соответствующее выполнению пункта меню в программе просмотра Acrobat. |
-| [Destination](../../aspose.pdf.facades/bookmark/destination) { get; set; } | Получает или устанавливает целевую страницу закладки. Требуется, если действие установлено как string.Empty. |
+| [Destination](../../aspose.pdf.facades/bookmark/destination) { get; set; } | Получает или задает целевую страницу закладки. Требуется, если действие установлено как string.Empty. |
 | [ItalicFlag](../../aspose.pdf.facades/bookmark/italicflag) { get; set; } | Получает или устанавливает курсивный флаг заголовка закладки. |
-| [Level](../../aspose.pdf.facades/bookmark/level) { get; set; } | Получает или устанавливает уровень иерархии закладок. |
-| [Open](../../aspose.pdf.facades/bookmark/open) { get; set; } | Получает или устанавливает состояние закладки (открыто, закрыто). |
+| [Level](../../aspose.pdf.facades/bookmark/level) { get; set; } | Получает или задает уровень иерархии закладок. |
+| [Open](../../aspose.pdf.facades/bookmark/open) { get; set; } | Получает или задает состояние закладки (открыто, закрыто). |
 | [PageDisplay](../../aspose.pdf.facades/bookmark/pagedisplay) { get; set; } | Получает или задает тип страницы назначения отображаемой закладки. |
 | [PageDisplay_Bottom](../../aspose.pdf.facades/bookmark/pagedisplay_bottom) { get; set; } | Получает или задает нижнюю координату отображения страницы. |
 | [PageDisplay_Left](../../aspose.pdf.facades/bookmark/pagedisplay_left) { get; set; } | Получает или задает левую координату отображения страницы. |

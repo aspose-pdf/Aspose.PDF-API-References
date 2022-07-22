@@ -46,7 +46,7 @@ public static Matrix Rotation(Rotation rotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rotation | Rotation | 旋转。有效值为:无、on90、on180、on270 |
+| rotation | Rotation | 回转。有效值为：无、on90、on180、on270 |
 
 ### 返回值
 

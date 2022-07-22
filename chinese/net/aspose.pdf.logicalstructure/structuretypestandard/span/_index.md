@@ -1,14 +1,14 @@
 ---
 title: Span
 second_title: Aspose.PDF for .NET API 参考
-description: Span 文本的通用内联部分没有特定的固有特征例如它可以用于用一组给定的样式属性来划分文本范围
+description: 跨度文本的通用内联部分没有特定的固有特征例如它可以用于用一组给定的样式属性分隔文本范围
 type: docs
 weight: 370
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/span/
 ---
 ## StructureTypeStandard.Span field
 
-(Span) 文本的通用内联部分，没有特定的固有特征。例如，它可以用于用一组给定的样式属性来划分文本范围。
+（跨度）文本的通用内联部分，没有特定的固有特征。例如，它可以用于用一组给定的样式属性分隔文本范围。
 
 ```csharp
 public static readonly StructureTypeStandard Span;

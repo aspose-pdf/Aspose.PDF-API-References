@@ -1,14 +1,14 @@
 ---
 title: FractionDisplayment
 second_title: Aspose.PDF for .NET API 参考
-description: 以何种方式显示小数值
+description: 以什么方式显示小数值
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/
 ---
 ## Measure.NumberFormat.FractionDisplayment property
 
-以何种方式显示小数值。
+以什么方式显示小数值。
 
 ```csharp
 public FractionStyle FractionDisplayment { get; set; }

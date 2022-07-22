@@ -1,14 +1,14 @@
 ---
 title: OcspSettings
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化OcspSettingsaspose.pdf/ocspsettings类的新实例
+description: 初始化OcspSettingsaspose.pdf/ocspsettings类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/ocspsettings/ocspsettings/
 ---
 ## OcspSettings constructor
 
-初始化[`OcspSettings`](../../ocspsettings)类的新实例。
+初始化[`OcspSettings`](../../ocspsettings)类.
 
 ```csharp
 public OcspSettings(string serverUrl)
@@ -16,7 +16,7 @@ public OcspSettings(string serverUrl)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| serverUrl | String | ocsp 服务器 url。 |
+| serverUrl | String | ocsp 服务器网址。 |
 
 ### 也可以看看
 

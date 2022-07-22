@@ -1,14 +1,14 @@
 ---
 title: Box
 second_title: Aspose.PDF for .NET API 参考
-description: 保存字段位置的矩形对象
+description: 一个矩形对象保存字段的位置
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/formfieldfacade/box/
 ---
 ## FormFieldFacade.Box property
 
-保存字段位置的矩形对象。
+一个矩形对象保存字段的位置。
 
 ```csharp
 public Rectangle Box { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: AllowCopy
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает разрешение разрешающее или запрещающее копирование. true разрешает false запрещает.
+description: Устанавливает разрешение разрешающее или запрещающее копирование. true  разрешено false  запрещено.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowcopy/
 ---
 ## DocumentPrivilege.AllowCopy property
 
-Устанавливает разрешение, разрешающее или запрещающее копирование. true разрешает, false запрещает.
+Устанавливает разрешение, разрешающее или запрещающее копирование. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowCopy { get; set; }

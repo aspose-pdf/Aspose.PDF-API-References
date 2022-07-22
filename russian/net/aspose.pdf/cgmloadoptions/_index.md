@@ -18,14 +18,14 @@ public sealed class CgmLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CgmLoadOptions](cgmloadoptions#constructor)() | Создает параметры загрузки по умолчанию для преобразования файла CGM в документ PDF. Размер страницы PDF по умолчанию - A4 300dpi 2480 X 3508. |
-| [CgmLoadOptions](cgmloadoptions#constructor_1)(SizeF) | Создает параметры загрузки с определенным!:pageSize. |
+| [CgmLoadOptions](cgmloadoptions#constructor)() | Создает параметры загрузки по умолчанию для преобразования файла CGM в документ PDF. Размер страницы PDF по умолчанию — A4 300 dpi 2480 X 3508. |
+| [CgmLoadOptions](cgmloadoptions#constructor_1)(SizeF) | Создает параметры загрузки с определенными!:pageSize . |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions)описывает. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions) описывает. |
 | [PageSize](../../aspose.pdf/cgmloadoptions/pagesize) { get; } | Получает или задает размер выходной страницы для импорта. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Продолжить, либо Прервать. Продолжить — это действие по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, и в этом случае операция загрузки должна быть прекращена. |
 

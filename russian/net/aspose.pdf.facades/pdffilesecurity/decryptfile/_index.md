@@ -20,20 +20,20 @@ public bool DecryptFile(string ownerPassword)
 
 ### Возвращаемое значение
 
-True для успеха.
+Верно для успеха.
 
 ### Примеры
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";  // TestPath может быть переназначен.
-string outFile = "D:\\output.pdf"; // TestPath может быть переназначен. 
+string inFile = "D:\\input.pdf"; // TestPath может быть переназначен.
+string outFile = "D:\\output.pdf"; // TestPath может быть переназначен.	
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 fileSecurity.DecryptFile("ownerpass");
 
 [Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'TestPath может быть переназначен.
-Dim outFile As String = "D:\\output.pdf"  'TestPath может быть переназначен.
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
 fileSecurity.DecryptFile("ownerpass")
 ```

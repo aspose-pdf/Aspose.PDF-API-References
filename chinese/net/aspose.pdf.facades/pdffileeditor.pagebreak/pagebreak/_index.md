@@ -1,14 +1,14 @@
 ---
 title: PageBreak
 second_title: Aspose.PDF for .NET API 参考
-description: 构造函数来创建 PageBreak 对象
+description: 创建 PageBreak 对象的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/
 ---
 ## PdfFileEditor.PageBreak constructor
 
-构造函数来创建 PageBreak 对象。
+创建 PageBreak 对象的构造函数。
 
 ```csharp
 public PageBreak(int pageNumber, double position)
@@ -16,7 +16,7 @@ public PageBreak(int pageNumber, double position)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | Int32 | 放置分页符的页码。 |
+| pageNumber | Int32 | 放置分页符的页数。 |
 | position | Double | 分页符的垂直位置。 |
 
 ### 也可以看看

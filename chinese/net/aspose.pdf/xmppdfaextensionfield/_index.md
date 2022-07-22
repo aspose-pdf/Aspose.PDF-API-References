@@ -1,14 +1,14 @@
 ---
 title: XmpPdfAExtensionField
 second_title: Aspose.PDF for .NET API 参考
-description: 此模式描述结构化类型中的字段它与 PDF/A 属性值类型 模式非常相似但在结构中定义了一个字段而不是属性 模式命名空间 URIhttp//www.aiim.org/pdfa/ns/field 必需的模式命名空间前缀pdfaField
+description: 此模式描述结构化类型中的字段它与 PDF/A 属性值类型 架构非常相似但在结构中定义字段而不是属性 架构命名空间 URIhttp//www.aiim.org/pdfa/ns/field 必需架构命名空间前缀pdfaField.
 type: docs
 weight: 7490
 url: /zh/net/aspose.pdf/xmppdfaextensionfield/
 ---
 ## XmpPdfAExtensionField class
 
-此模式描述结构化类型中的字段。它与 PDF/A 属性值类型 模式非常相似，但在结构中定义了一个字段而不是属性。 模式命名空间 URI:http://www.aiim.org/pdfa/ns/field# 必需的模式命名空间前缀:pdfaField。
+此模式描述结构化类型中的字段。它与 PDF/A 属性值类型 架构非常相似，但在结构中定义字段而不是属性。 架构命名空间 URI：http://www.aiim.org/pdfa/ns/field# 必需架构命名空间前缀：pdfaField.
 
 ```csharp
 public class XmpPdfAExtensionField : XmpPdfAExtensionObject
@@ -27,7 +27,7 @@ public class XmpPdfAExtensionField : XmpPdfAExtensionObject
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description) { get; } | 获取描述。 |
 | [Name](../../aspose.pdf/xmppdfaextensionfield/name) { get; } | 字段名称。字段名称必须是有效的 XML 元素名称。 |
 | [Value](../../aspose.pdf/xmppdfaextensionobject/value) { get; set; } | 获取或设置值。 |
-| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype) { get; } | 字段值类型，取自 XMP 规范 2004，或嵌入的 PDF/A 值类型扩展 模式。预定义的 XMP 类型名称或自定义类型的名称。 |
+| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype) { get; } | 字段值类型，取自 XMP 规范 2004，或嵌入的 PDF/A 值类型 extension 架构。预定义的 XMP 类型名称或自定义类型的名称。 |
 
 ## 方法
 

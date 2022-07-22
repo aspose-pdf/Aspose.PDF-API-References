@@ -25,12 +25,12 @@ public sealed class RenderingOptions
 | Имя | Описание |
 | --- | --- |
 | [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization) { get; set; } | Получает или задает режим оптимизации штрих-кода. |
-| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf) { get; set; } | Указывает, что все шрифты будут преобразованы в версии TTF Unicode. Это полезно для совместимости и для оптимизации использования шрифта, потому что каждый новый шрифт TTF будет иметь не все символы из исходного шрифта, а только символы, которые используются в тексте. |
+| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf) { get; set; } | Указывает, что все шрифты будут преобразованы в версии Unicode TTF. Это полезно для совместимости и для оптимизации использования шрифта, потому что каждый новый шрифт TTF будет содержать не все символы из исходного шрифта, а только символы, которые используются в тексте. |
 | [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname) { get; set; } | Получает/устанавливает имя шрифта по умолчанию, используемое для замены отсутствующих шрифтов. |
 | [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits) { get; set; } | Получает или задает значение, используемое для увеличения или уменьшения ширины прямоугольника для оператора AppendRectangle. |
 | [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality) { get; set; } | Получает или устанавливает режим высокого качества для интерполяции. |
-| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | Максимальное количество шрифтов в кеше шрифтов. Значение по умолчанию:10. |
-| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | Максимальное количество символов в кэше символов. Значение по умолчанию:100. |
+| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | Максимальное количество шрифтов в кеше шрифтов. Значение по умолчанию: 10. . |
+| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | Максимальное количество символов в кэше символов. Значение по умолчанию: 100. . |
 | [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } | Получает или задает режим оптимизации размеров. |
 | [ScaleImagesToFitPageWidth](../../aspose.pdf/renderingoptions/scaleimagestofitpagewidth) { get; set; } | Получает или задает значения, используемые для масштабирования всех изображений на странице по ширине страницы. |
 | [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } | Получает или задает режим, в котором системные шрифты отображаются изначально. |

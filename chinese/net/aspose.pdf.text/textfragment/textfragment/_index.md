@@ -1,14 +1,14 @@
 ---
 title: TextFragment
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TextFragmentaspose.pdf.text/textfragment对象的新实例
+description: 初始化TextFragmentaspose.pdf.text/textfragment对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textfragment/textfragment/
 ---
 ## TextFragment() {#constructor}
 
-初始化[`TextFragment`](../../textfragment)对象的新实例。
+初始化[`TextFragment`](../../textfragment)对象.
 
 ```csharp
 public TextFragment()
@@ -24,7 +24,7 @@ public TextFragment()
 
 ## TextFragment(TabStops) {#constructor_1}
 
-初始化的新实例[`TextFragment`](../../textfragment) 对象的新实例 [`TabStops`](../../tabstops) 位置。
+初始化[`TextFragment`](../../textfragment)具有预定义的对象[`TabStops`](../../tabstops)位置.
 
 ```csharp
 public TextFragment(TabStops tabStops)
@@ -45,7 +45,7 @@ public TextFragment(TabStops tabStops)
 
 ## TextFragment(string) {#constructor_2}
 
-创建 Aspose.Pdf.Text.TextFragment 对象使用单个 [`TextSegment`](../../textsegment) 里面的对象。 指定段内的文本字符串。
+创建[`TextFragment`](../../textfragment)对象单[`TextSegment`](../../textsegment)里面的对象。 指定段内的文本字符串。
 
 ```csharp
 public TextFragment(string text)
@@ -65,7 +65,7 @@ public TextFragment(string text)
 
 ## TextFragment(string, TabStops) {#constructor_3}
 
-使用单个TextSegment创建 对象 [`TextFragment`](../../textfragment) 对象内部和预定义的[`TabStops`](../../tabstops)位置。
+创建[`TextFragment`](../../textfragment)对象单[`TextSegment`](../../textsegment)内部和预定义的对象[`TabStops`](../../tabstops)位置.
 
 ```csharp
 public TextFragment(string text, TabStops tabStops)

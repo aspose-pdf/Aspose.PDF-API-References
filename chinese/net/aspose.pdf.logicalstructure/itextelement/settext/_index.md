@@ -16,7 +16,7 @@ public void SetText(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本内容 |
+| text | String | 文字内容 |
 
 ### 也可以看看
 

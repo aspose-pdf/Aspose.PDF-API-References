@@ -1,14 +1,14 @@
 ---
 title: IsColorSpecified
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение указывающее указано ли свойствоColoraspose.pdf.facades/textproperties/color.
+description: Получает или задает значение указывающееColoraspose.pdf.facades/textproperties/color указано свойство.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/textproperties/iscolorspecified/
 ---
 ## TextProperties.IsColorSpecified property
 
-Получает или задает значение, указывающее, указано ли свойство[`Color`](../color).
+Получает или задает значение, указывающее,[`Color`](../color) указано свойство.
 
 ```csharp
 public bool IsColorSpecified { get; }

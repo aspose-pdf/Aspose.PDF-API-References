@@ -220,8 +220,8 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 | --- | --- | --- |
 | outputFile | String | Путь и имя файла для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
 
 ### Примеры
@@ -263,7 +263,7 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-Сохраняет изображение в поток с заданным форматом изображения, размерами и качеством.
+Сохраняет изображение в поток с заданным форматом, размерами и качеством изображения.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
@@ -274,8 +274,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
 
 ### Смотрите также
@@ -288,7 +288,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
 
-Сохраняет изображение в файл с заданным форматом, размером и качеством изображения.
+Сохраняет изображение в файл с заданным форматом изображения, размером и качеством изображения.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
@@ -299,9 +299,9 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 | --- | --- | --- |
 | outputFile | String | Путь и имя файла для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Double | Ширина изображения в пикселях. |
-| imageHeight | Double | Высота изображения в пикселях.. |
-| quality | Int32 | Качество файла Jpeg (0~100), 0 — самый низкий, а 100 — самый высокий |
+| imageWidth | Double | Ширина изображения, единица измерения — пиксели. |
+| imageHeight | Double | Высота изображения, единица измерения — пиксели. |
+| quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
 
 ### Примеры
 
@@ -357,8 +357,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Double | Ширина изображения в пикселях. |
-| imageHeight | Double | Высота изображения в пикселях. |
+| imageWidth | Double | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Double | Высота изображения, единица измерения — пиксель. |
 | quality | Int32 | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
 
 ### Смотрите также
@@ -371,7 +371,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 
 ## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
 
-Сохраняет изображение в файл с указанным форматом и размером изображения.
+Сохраняет изображение в файл с указанным форматом и размерами изображения.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight)
@@ -381,8 +381,8 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 | --- | --- | --- |
 | outputFile | String | Путь и имя файла для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 
 ### Примеры
 
@@ -433,8 +433,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения. |
 | format | ImageFormat | Формат изображения. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 
 ### Смотрите также
 

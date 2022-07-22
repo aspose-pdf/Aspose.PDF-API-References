@@ -1,14 +1,14 @@
 ---
 title: PrintStatus
 second_title: Aspose.PDF for .NET API 参考
-description: 获取打印作业的结果如果成功则为空否则异常对象
+description: 获取打印作业的结果如果成功则为空否则异常对象.
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdfviewer/printstatus/
 ---
 ## PdfViewer.PrintStatus property
 
-获取打印作业的结果。如果成功则为空；否则，异常对象。
+获取打印作业的结果。如果成功则为空；否则，异常对象.
 
 ```csharp
 public object PrintStatus { get; }

@@ -16,7 +16,7 @@ public override void Save(string destFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destFile | String | Целевой файл. |
+| destFile | String | Файл назначения. |
 
 ### Смотрите также
 

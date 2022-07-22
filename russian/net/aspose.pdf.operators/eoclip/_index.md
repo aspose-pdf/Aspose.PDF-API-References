@@ -1,14 +1,14 @@
 ---
 title: EOClip
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор W устанавливает путь отсечения по правилу чет-нечет.
+description: Класс представляющий оператор W установите путь отсечения используя правило четности-нечетности.
 type: docs
 weight: 5090
 url: /ru/net/aspose.pdf.operators/eoclip/
 ---
 ## EOClip class
 
-Класс, представляющий оператор W* (устанавливает путь отсечения по правилу чет-нечет).
+Класс, представляющий оператор W* (установите путь отсечения, используя правило четности-нечетности).
 
 ```csharp
 public class EOClip : Operator
@@ -24,7 +24,7 @@ public class EOClip : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

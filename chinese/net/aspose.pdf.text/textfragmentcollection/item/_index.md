@@ -20,7 +20,7 @@ public TextFragment this[int index] { get; }
 
 ### 返回值
 
-TextFragment 对象。
+文本片段对象。
 
 ### 也可以看看
 

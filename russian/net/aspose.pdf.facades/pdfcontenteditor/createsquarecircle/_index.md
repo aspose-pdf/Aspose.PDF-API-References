@@ -18,9 +18,9 @@ public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| contents | String | Содержимое аннотации. |
+| contents | String | Содержание аннотации. |
 | clr | Color | Цвет квадрата или круга. |
-| квадрат | Boolean | True (квадрат), false (круг). |
+| square | Boolean | Правда (квадрат), ложь (круг). |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | borderWidth | Int32 | Ширина границы квадрата или круга. |
 

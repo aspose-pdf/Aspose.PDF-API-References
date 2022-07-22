@@ -16,7 +16,7 @@ public bool Check(bool doRepair)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doRepair | Boolean | 如果为真，将修复发现的问题。 |
+| doRepair | Boolean | 如果真的发现问题将被修复。 |
 
 ### 返回值
 

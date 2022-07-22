@@ -1,14 +1,14 @@
 ---
 title: SoundData
 second_title: Aspose.PDF for .NET API 参考
-description: 获取定义激活注释时要播放的声音的声音对象
+description: 获取一个声音对象定义激活注解时要播放的声音
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/soundannotation/sounddata/
 ---
 ## SoundAnnotation.SoundData property
 
-获取定义激活注释时要播放的声音的声音对象。
+获取一个声音对象，定义激活注解时要播放的声音。
 
 ```csharp
 public SoundData SoundData { get; }

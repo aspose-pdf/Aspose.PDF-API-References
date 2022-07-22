@@ -1,14 +1,14 @@
 ---
 title: Icon
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает значок который будет использоваться при отображении аннотации.
+description: Получает или задает значок который будет использоваться при отображении аннотации.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/fileattachmentannotation/icon/
 ---
 ## FileAttachmentAnnotation.Icon property
 
-Получает или устанавливает значок, который будет использоваться при отображении аннотации.
+Получает или задает значок, который будет использоваться при отображении аннотации.
 
 ```csharp
 public FileIcon Icon { get; set; }

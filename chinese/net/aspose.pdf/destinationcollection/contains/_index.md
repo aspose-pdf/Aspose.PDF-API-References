@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API 参考
-description: 确定此实例是否包含该对象
+description: 确定此实例是否包含对象
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/destinationcollection/contains/
 ---
 ## DestinationCollection.Contains method
 
-确定此实例是否包含该对象。
+确定此实例是否包含对象。
 
 ```csharp
 public bool Contains(KeyValuePair<string, object> value)
@@ -16,11 +16,11 @@ public bool Contains(KeyValuePair<string, object> value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | KeyValuePair`2 | 值。 |
+| value | KeyValuePair`2 | 价值。 |
 
 ### 返回值
 
-` true` if [包含] [指定值]；否则，` false` 。
+`真的` if [包含] [指定值]；否则，`错误的`.
 
 ### 也可以看看
 

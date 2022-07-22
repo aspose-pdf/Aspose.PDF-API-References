@@ -18,7 +18,7 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 | --- | --- | --- |
 | prefix | String | Префикс. |
 | namespaceURI | String | URI пространства имен. |
-| описание | String | Необязательное описание. |
+| description | String | Необязательное описание. |
 
 ### Смотрите также
 

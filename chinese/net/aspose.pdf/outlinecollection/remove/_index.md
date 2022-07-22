@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 总是抛出 NotImplementedException
+description: 总是抛出未实现异常
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/outlinecollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-总是抛出 NotImplementedException
+总是抛出未实现异常
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -20,7 +20,7 @@ public override bool Remove(OutlineItemCollection item)
 
 ### 返回值
 
-NotImplementedException
+未实现异常
 
 ### 也可以看看
 

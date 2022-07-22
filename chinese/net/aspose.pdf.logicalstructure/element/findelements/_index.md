@@ -17,8 +17,8 @@ public List<T> FindElements<T>(bool recursiveSearch = false)
 
 | 范围 | 描述 |
 | --- | --- |
-| T | 结构元素的类型用于搜索 |
-| recursiveSearch | （可选）递归搜索（默认为 false，仅从直接子代搜索） |
+| T | 用于搜索的结构元素类型 |
+| recursiveSearch | （可选）递归搜索（默认为 false，仅从直接子级搜索） |
 
 ### 返回值
 

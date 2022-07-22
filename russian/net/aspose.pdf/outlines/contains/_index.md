@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF для справочника API .NET
-description: Всегда генерирует исключение NotImplementedException.
+description: Всегда выдает NotImplementedException.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/outlines/contains/
 ---
 ## Outlines.Contains method
 
-Всегда генерирует исключение NotImplementedException.
+Всегда выдает NotImplementedException.
 
 ```csharp
 public abstract bool Contains(OutlineItemCollection item)
@@ -16,11 +16,11 @@ public abstract bool Contains(OutlineItemCollection item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | OutlineItemCollection | Объект для поиска в коллекции |
+| item | OutlineItemCollection | Объект, который нужно найти в коллекции |
 
 ### Возвращаемое значение
 
-NotImplementedException
+Нереализованное исключение
 
 ### Смотрите также
 

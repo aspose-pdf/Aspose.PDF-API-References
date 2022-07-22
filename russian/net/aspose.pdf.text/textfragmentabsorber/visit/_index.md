@@ -20,29 +20,29 @@ public override void Visit(Page page)
 
 ### Примеры
 
-Пример демонстрирует, как найти текст на первой странице документа PDF и заменить текст.
+В примере показано, как найти текст на первой странице документа PDF и заменить текст.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Находим шрифт, который будет использоваться для изменения текста документа font
-spose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+// Находим шрифт, который будет использоваться для изменения шрифта текста документа
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-bsorber.Visit(doc.Pages[1]);
+absorber.Visit(doc.Pages[1]);
 
-// Изменить текст всех поисковых вхождений
-oreach (TextFragment textFragment in absorber.TextFragments)
-
-   textFragment.Text = "hi world";
-
+// Изменить текст всех вхождений поиска
+foreach (TextFragment textFragment in absorber.TextFragments)
+{
+    textFragment.Text = "hi world";
+}
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Смотрите также
@@ -64,7 +64,7 @@ public override void Visit(Document pdf)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект документа PDF. |
+| pdf | Document | Объект PDF-документа. |
 
 ### Примеры
 
@@ -72,22 +72,22 @@ public override void Visit(Document pdf)
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Находим шрифт, который будет использоваться для изменения текста документа font
-spose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+// Находим шрифт, который будет использоваться для изменения шрифта текста документа
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-bsorber.Visit(doc);
+absorber.Visit(doc);
 
-// Изменить текст первого текста вхождения
-bsorber.TextFragments[1].Text = "hi world";
+// Изменяем текст первого вхождения текста
+absorber.TextFragments[1].Text = "hi world";
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Смотрите также
@@ -109,7 +109,7 @@ public void Visit(XForm xForm)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xForm | XForm | Объект формы Pdf. |
+| xForm | XForm | Объект формы PDF. |
 
 ### Смотрите также
 

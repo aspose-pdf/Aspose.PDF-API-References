@@ -1,14 +1,14 @@
 ---
 title: PdfFormat
 second_title: Aspose.PDF для справочника API .NET
-description: Этот класс представляет формат pdf.
+description: Этот класс представляет формат PDF.
 type: docs
 weight: 6020
 url: /ru/net/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enumeration
 
-Этот класс представляет формат pdf.
+Этот класс представляет формат PDF.
 
 ```csharp
 public enum PdfFormat

@@ -16,24 +16,24 @@ public virtual void Visit(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Pdf объект страницы документа. |
+| page | Page | Объект страницы документа Pdf. |
 
 ### Примеры
 
-пример демонстрирует, как извлечь текст на первой странице документа PDF.
+В примере показано, как извлечь текст на первой странице документа PDF.
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения text
-extAbsorber absorber = new TextAbsorber();
+// создаем объект TextAbsorber для извлечения текста
+TextAbsorber absorber = new TextAbsorber();
 
-// принимаем поглотитель для всех страниц документа pages
-bsorber.Visit(doc.Pages[1]);
+// принимаем поглотитель для всех страниц документа
+absorber.Visit(doc.Pages[1]);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 ```
 
 ### Смотрите также
@@ -55,7 +55,7 @@ public virtual void Visit(XForm form)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| form | XForm | Объект формы Pdf. |
+| form | XForm | Объект формы PDF. |
 
 ### Примеры
 
@@ -63,16 +63,16 @@ public virtual void Visit(XForm form)
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения text
-extAbsorber absorber = new TextAbsorber();
+// создаем объект TextAbsorber для извлечения текста
+TextAbsorber absorber = new TextAbsorber();
 
-// принимаем поглотитель для всех страниц документа pages
-bsorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
+// принимаем поглотитель для всех страниц документа
+absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 ```
 
 ### Смотрите также
@@ -94,24 +94,24 @@ public virtual void Visit(Document pdf)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект Pdf документа. |
+| pdf | Document | Pdf объект документа. |
 
 ### Примеры
 
-пример демонстрирует, как извлечь текст из документа PDF.
+Пример демонстрирует, как извлечь текст из документа PDF.
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения text
-extAbsorber absorber = new TextAbsorber();
+// создаем объект TextAbsorber для извлечения текста
+TextAbsorber absorber = new TextAbsorber();
 
-// принимаем поглотитель для всех страниц документа pages
-bsorber.Visit(doc);
+// принимаем поглотитель для всех страниц документа
+absorber.Visit(doc);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 ```
 
 ### Смотрите также

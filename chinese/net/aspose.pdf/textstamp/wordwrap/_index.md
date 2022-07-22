@@ -1,14 +1,14 @@
 ---
 title: WordWrap
 second_title: Aspose.PDF for .NET API 参考
-description: 定义自动换行如果此属性设置为 true 并指定 Width 值则文本将分成几行以适应指定的宽度默认值假
+description: 定义自动换行如果此属性设置为 true 并指定 Width 值则文本将分成几行以适应指定的宽度默认值false.
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/textstamp/wordwrap/
 ---
 ## TextStamp.WordWrap property
 
-定义自动换行。如果此属性设置为 true 并指定 Width 值，则文本将分成几行以适应指定的宽度。默认值:假。
+定义自动换行。如果此属性设置为 true 并指定 Width 值，则文本将分成几行以适应指定的宽度。默认值：false.
 
 ```csharp
 public bool WordWrap { get; set; }

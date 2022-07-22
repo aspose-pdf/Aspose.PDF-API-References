@@ -1,14 +1,14 @@
 ---
 title: SaveFormat
 second_title: Aspose.PDF for .NET API 参考
-description: 数据保存格式
+description: 数据保存的格式
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/saveoptions/saveformat/
 ---
 ## SaveOptions.SaveFormat property
 
-数据保存格式。
+数据保存的格式。
 
 ```csharp
 public SaveFormat SaveFormat { get; }

@@ -25,15 +25,15 @@ public sealed class SvgLoadOptions : LoadOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [AdjustPageSize](../../aspose.pdf/svgloadoptions/adjustpagesize) { get; set; } | Adust pdf 页面大小到 svg 大小 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
-| [PageInfo](../../aspose.pdf/svgloadoptions/pageinfo) { get; set; } | 获取或设置在加载文档期间应应用的页面信息。 注意此参数仅在 ConversionEngine == ConversionEngines.NewEngine |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
+| [PageInfo](../../aspose.pdf/svgloadoptions/pageinfo) { get; set; } | 获取或设置在加载文档期间应应用的页面信息。 注意此参数仅在 ConversionEngine == ConversionEngines.NewEngine 时有效 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ConversionEngine](../../aspose.pdf/svgloadoptions/conversionengine) | 允许选择将在转换期间使用的转换引擎。 目前新引擎处于B-testing阶段，所以这个值默认设置为 ConversionEngines.LegacyEngine |
+| [ConversionEngine](../../aspose.pdf/svgloadoptions/conversionengine) | 允许选择将在转换期间使用的转换引擎。 目前新引擎处于 B 测试阶段，因此默认设置为 ConversionEngines.LegacyEngine |
 
 ### 也可以看看
 

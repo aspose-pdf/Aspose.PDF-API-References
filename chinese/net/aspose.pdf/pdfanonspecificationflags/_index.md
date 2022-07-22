@@ -1,14 +1,14 @@
 ---
 title: PdfANonSpecificationFlags
 second_title: Aspose.PDF for .NET API 参考
-description: 当源 PDF 文档不符合 PDF 规范 时此类包含用于控制 PDF/A 转换的标志如果使用了这个类的标志它会降低性能 但是当源 PDF 文档不能以通常的方式转换为 PDF/A 格式时是必要的 默认情况下所有标志都设置为 false
+description: 当源 PDF 文档不 对应于 PDF 规范时此类包含用于控制 PDF/A 转换的标志如果使用这个类的标志它会降低性能 但是当源PDF文档不能通过通常的方式转换成PDF/A格式时它是必要的 默认情况下所有标志都设置为 false
 type: docs
 weight: 5950
 url: /zh/net/aspose.pdf/pdfanonspecificationflags/
 ---
 ## PdfANonSpecificationFlags class
 
-当源 PDF 文档不符合 PDF 规范 时，此类包含用于控制 PDF/A 转换的标志。如果使用了这个类的标志，它会降低性能 但是当源 PDF 文档不能以通常的方式转换为 PDF/A 格式时是必要的。 默认情况下，所有标志都设置为 false。
+当源 PDF 文档不 对应于 PDF 规范时，此类包含用于控制 PDF/A 转换的标志。如果使用这个类的标志，它会降低性能 ，但是当源PDF文档不能通过通常的方式转换成PDF/A格式时，它是必要的。 默认情况下，所有标志都设置为 false。
 
 ```csharp
 public class PdfANonSpecificationFlags
@@ -24,7 +24,7 @@ public class PdfANonSpecificationFlags
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CheckDifferentNamesInFontDictionaries](../../aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries) { get; set; } | 一些 PDF 文档包含在内部数据中具有不同名称的字体。 当字段 BaseFont 和 FontDescriptor.FontName 不同时，使用此标志强制执行特殊处理逻辑。 |
+| [CheckDifferentNamesInFontDictionaries](../../aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries) { get; set; } | 某些 PDF 文档包含在内部数据中具有不同名称的字体。 当字段 BaseFont 和 FontDescriptor.FontName 不同时，使用此标志强制执行特殊处理逻辑。 |
 
 ### 也可以看看
 

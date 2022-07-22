@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 获取戳记中的文本
+description: 获取图章中的文本
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/stampinfo/text/
 ---
 ## StampInfo.Text property
 
-获取戳记中的文本。
+获取图章中的文本。
 
 ```csharp
 public string Text { get; }

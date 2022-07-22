@@ -1,14 +1,14 @@
 ---
 title: CreationDate
 second_title: Aspose.PDF для справочника API .NET
-description: Дата и время создания внедренного файла.
+description: Дата и время создания встроенного файла.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/fileparams/creationdate/
 ---
 ## FileParams.CreationDate property
 
-Дата и время создания внедренного файла.
+Дата и время создания встроенного файла.
 
 ```csharp
 public DateTime CreationDate { get; set; }

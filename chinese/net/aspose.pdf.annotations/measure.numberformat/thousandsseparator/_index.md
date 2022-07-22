@@ -1,14 +1,14 @@
 ---
 title: ThousandsSeparator
 second_title: Aspose.PDF for .NET API 参考
-description: 数值显示中应在数千个数量级之间使用的文本空字符串表示不应添加任何文本默认为逗号
+description: 在显示数值时应在数千个数量级之间使用的文本空字符串表示不应添加任何文本默认为逗号
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.annotations/measure.numberformat/thousandsseparator/
 ---
 ## Measure.NumberFormat.ThousandsSeparator property
 
-数值显示中应在数千个数量级之间使用的文本。空字符串表示不应添加任何文本。默认为逗号。
+在显示数值时应在数千个数量级之间使用的文本。空字符串表示不应添加任何文本。默认为逗号。
 
 ```csharp
 public string ThousandsSeparator { get; set; }

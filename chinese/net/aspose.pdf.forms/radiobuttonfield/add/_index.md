@@ -16,7 +16,7 @@ public void Add(RadioButtonOptionField newItem)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newItem | RadioButtonOptionField | 应该被添加。 |
+| newItem | RadioButtonOptionField | 应该添加的项目。 |
 
 ### 也可以看看
 

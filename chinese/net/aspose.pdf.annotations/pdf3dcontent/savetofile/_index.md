@@ -1,14 +1,14 @@
 ---
 title: SaveToFile
 second_title: Aspose.PDF for .NET API 参考
-description: 将 3D 内容保存到文件
+description: 将 3D 内容保存到文件中
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/savetofile/
 ---
 ## PDF3DContent.SaveToFile method
 
-将 3D 内容保存到文件。
+将 3D 内容保存到文件中。
 
 ```csharp
 public void SaveToFile(string filename)
@@ -22,7 +22,7 @@ public void SaveToFile(string filename)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 3DArtwork 内容格式为 PRC 或 U3D。 |
+| ArgumentException | 3DArtwork 内容格式为PRC 或U3D。 |
 
 ### 也可以看看
 

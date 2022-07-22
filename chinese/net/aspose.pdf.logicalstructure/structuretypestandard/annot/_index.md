@@ -1,14 +1,14 @@
 ---
 title: Annot
 second_title: Aspose.PDF for .NET API 参考
-description: 注释PDF 1.5ILSE 的一部分内容与相应的 PDF 注释之间的关联 Annot 应用于除链接注释和小部件注释之外的所有 PDF 注释
+description: 注释PDF 1.5ILSE 的部分内容与相应的 PDF 注释之间的关联 Annot 应用于除链接注释和小部件注释之外的所有 PDF 注释
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/annot/
 ---
 ## StructureTypeStandard.Annot field
 
-（注释；PDF 1.5）ILSE 的一部分内容与相应的 PDF 注释之间的关联。 Annot 应用于除链接注释和小部件注释之外的所有 PDF 注释。
+（注释；PDF 1.5）ILSE 的部分内容与相应的 PDF 注释之间的关联。 Annot 应用于除链接注释和小部件注释之外的所有 PDF 注释。
 
 ```csharp
 public static readonly StructureTypeStandard Annot;

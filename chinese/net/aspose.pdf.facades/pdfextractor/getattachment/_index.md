@@ -16,7 +16,7 @@ public void GetAttachment(string outputPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputPath | String | 将存储附件的目录路径。 Null 或空字符串意味着附件将被放置在应用程序目录中。 |
+| outputPath | String | 将存储附件的目录路径。 Null 或空字符串表示附件将放置在应用程序目录中。 |
 
 ### 也可以看看
 
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### 返回值
 
-pdf文档中附件文件的流数组。
+pdf 文档中附件文件的流数组。
 
 ### 例子
 

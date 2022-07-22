@@ -18,20 +18,20 @@ public sealed class TocInfo
 
 | Имя | Описание |
 | --- | --- |
-| [TocInfo](tocinfo)() | Инициализирует новый экземпляр класса[`TocInfo`](../tocinfo). |
+| [TocInfo](tocinfo)() | Инициализирует новый экземпляр[`TocInfo`](../tocinfo) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [ColumnInfo](../../aspose.pdf/tocinfo/columninfo) { get; set; } | Получает или задает информацию о столбце. |
-| [FormatArray](../../aspose.pdf/tocinfo/formatarray) { get; set; } | Получает или задает массив формата для оглавления. |
-| [FormatArrayLength](../../aspose.pdf/tocinfo/formatarraylength) { get; set; } | Получает или устанавливает длину массива формата |
+| [FormatArray](../../aspose.pdf/tocinfo/formatarray) { get; set; } | Получает или задает массив форматов для оглавления. |
+| [FormatArrayLength](../../aspose.pdf/tocinfo/formatarraylength) { get; set; } | Получает или задает формат массива length |
 | [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages) { get; set; } | Получает или устанавливает количество или количество переданных страниц оглавления. |
-| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers) { get; set; } | Получает или устанавливает номера страниц для отображения в оглавлении. |
+| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers) { get; set; } | Получает или задает номера страниц для отображения в Toc. |
 | [LineDash](../../aspose.pdf/tocinfo/linedash) { get; set; } | Получает или задает дефис строки TOC. |
 | [PageNumbersPrefix](../../aspose.pdf/tocinfo/pagenumbersprefix) { get; set; } | Получает или устанавливает префикс перед номером страницы. |
-| [Title](../../aspose.pdf/tocinfo/title) { get; set; } | Получает или устанавливает заголовок оглавления. |
+| [Title](../../aspose.pdf/tocinfo/title) { get; set; } | Получает или задает заголовок оглавления. |
 
 ### Смотрите также
 

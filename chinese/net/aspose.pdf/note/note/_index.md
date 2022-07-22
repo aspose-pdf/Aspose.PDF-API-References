@@ -1,14 +1,14 @@
 ---
 title: Note
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Noteaspose.pdf/note类的新实例
+description: 初始化Noteaspose.pdf/note类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/note/note/
 ---
 ## Note() {#constructor}
 
-初始化[`Note`](../../note)类的新实例。
+初始化[`Note`](../../note)类.
 
 ```csharp
 public Note()
@@ -24,7 +24,7 @@ public Note()
 
 ## Note(string) {#constructor_1}
 
-初始化[`Note`](../../note)类的新实例。
+初始化[`Note`](../../note)类.
 
 ```csharp
 public Note(string content)

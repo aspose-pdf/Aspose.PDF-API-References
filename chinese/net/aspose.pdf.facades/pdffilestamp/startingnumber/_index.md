@@ -1,14 +1,14 @@
 ---
 title: StartingNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置输入文件第一页的起始编号下一页将从该值开始编号 例如如果 StartingNumber 设置为 100则文档页面将具有编号 100101102...
+description: 获取或设置输入文件第一页的起始编号下一页将从该值开始编号 例如如果 StartingNumber 设置为 100文档页面的编号将为 100101102...
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdffilestamp/startingnumber/
 ---
 ## PdfFileStamp.StartingNumber property
 
-获取或设置输入文件第一页的起始编号。下一页将从该值开始编号。 例如，如果 StartingNumber 设置为 100，则文档页面将具有编号 100、101、102...
+获取或设置输入文件第一页的起始编号。下一页将从该值开始编号。 例如，如果 StartingNumber 设置为 100，文档页面的编号将为 100、101、102...
 
 ```csharp
 public int StartingNumber { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: YellowGreen
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FF9ACD32 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FF9ACD32.
 type: docs
 weight: 1420
 url: /zh/net/aspose.pdf/color/yellowgreen/
 ---
 ## Color.YellowGreen property
 
-获取 ARGB 值为 #FF9ACD32 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FF9ACD32.
 
 ```csharp
 public static Color YellowGreen { get; }
@@ -16,7 +16,7 @@ public static Color YellowGreen { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

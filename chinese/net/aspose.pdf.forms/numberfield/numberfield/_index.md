@@ -1,14 +1,14 @@
 ---
 title: NumberField
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化NumberFieldaspose.pdf.forms/numberfield类的新实例
+description: 初始化NumberFieldaspose.pdf.forms/numberfield类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/numberfield/numberfield/
 ---
 ## NumberField() {#constructor}
 
-初始化[`NumberField`](../../numberfield)类的新实例。
+初始化[`NumberField`](../../numberfield)类.
 
 ```csharp
 public NumberField()
@@ -24,7 +24,7 @@ public NumberField()
 
 ## NumberField(Page, Rectangle) {#constructor_2}
 
-初始化[`NumberField`](../../numberfield)类的新实例。
+初始化[`NumberField`](../../numberfield)类.
 
 ```csharp
 public NumberField(Page page, Rectangle rect)
@@ -47,7 +47,7 @@ public NumberField(Page page, Rectangle rect)
 
 ## NumberField(Document, Rectangle) {#constructor_1}
 
-初始化[`NumberField`](../../numberfield)类的新实例。
+初始化[`NumberField`](../../numberfield)类.
 
 ```csharp
 public NumberField(Document doc, Rectangle rect)
@@ -55,7 +55,7 @@ public NumberField(Document doc, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 | rect | Rectangle | 字段的矩形。 |
 
 ### 也可以看看

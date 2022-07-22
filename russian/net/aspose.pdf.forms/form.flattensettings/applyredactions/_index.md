@@ -1,14 +1,14 @@
 ---
 title: ApplyRedactions
 second_title: Aspose.PDF для справочника API .NET
-description: Если установлено значение true будет применена аннотация редактирования
+description: Если true указанная редакция Будет применена аннотация редактуры
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
 ## Form.FlattenSettings.ApplyRedactions property
 
-Если установлено значение true, будет применена аннотация редактирования
+Если true, указанная редакция Будет применена аннотация редактуры
 
 ```csharp
 public bool ApplyRedactions { get; set; }

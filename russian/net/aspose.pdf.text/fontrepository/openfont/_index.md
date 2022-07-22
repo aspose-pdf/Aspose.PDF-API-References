@@ -28,26 +28,26 @@ public static Font OpenFont(Stream fontStream, FontTypes fontType)
 В примере показано, как открыть шрифт и заменить шрифт текста первой страницы.
 
 ```csharp
-// Открыть font
-sing (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
-
-   Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
+// Открыть шрифт
+using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
+{
+    Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
     // Открыть документ
-   Document doc = new Document(@"D:\Tests\input.pdf");
+    Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+    // Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+    TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
     // Принять поглотитель для первой страницы
-   doc.Pages[1].Accept(absorber);
+    doc.Pages[1].Accept(absorber);
 
-    // Изменить шрифт первого текста вхождения
-   absorber.TextFragments[1].TextState.Font = font;
+    // Изменяем шрифт первого вхождения текста
+    absorber.TextFragments[1].TextState.Font = font;
 
     // Сохранить документ
-   doc.Save(@"D:\Tests\output.pdf"); 
-
+    doc.Save(@"D:\Tests\output.pdf"); 
+}
 ```
 
 ### Смотрите также
@@ -81,23 +81,23 @@ public static Font OpenFont(string fontFilePath)
 В примере показано, как открыть шрифт и заменить шрифт текста первой страницы.
 
 ```csharp
-// Открыть font
-ont font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
+// Открыть шрифт
+Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить шрифт первого текста вхождения
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также
@@ -131,23 +131,23 @@ public static Font OpenFont(string fontFilePath, string metricsFilePath)
 В примере показано, как открыть шрифт Type1 с метриками и заменить шрифт текста первой страницы.
 
 ```csharp
-// Открыть font
-ont font = FontRepository.OpenFont("courier.pfb", "courier.afm");
+// Открыть шрифт
+Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить шрифт первого текста вхождения
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также

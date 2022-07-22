@@ -1,14 +1,14 @@
 ---
 title: VisibleCount
 second_title: Aspose.PDF for .NET API 参考
-description: Count 是所有级别可见的后代大纲项目数的总和注意如果集合中的项目请不要与 Count 混淆后者是数字
+description: Count 是所有级别可见的后代大纲项目数的总和注意如果集合中的项目请不要与 Count 混淆
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/outlinecollection/visiblecount/
 ---
 ## OutlineCollection.VisibleCount property
 
-Count 是所有级别可见的后代大纲项目数的总和。注意:如果集合中的项目，请不要与 Count 混淆，后者是数字。
+Count 是所有级别可见的后代大纲项目数的总和。注意：如果集合中的项目，请不要与 Count 混淆。
 
 ```csharp
 public override int VisibleCount { get; }

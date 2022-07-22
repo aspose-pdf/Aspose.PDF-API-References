@@ -1,14 +1,14 @@
 ---
 title: UseTrimBottom
 second_title: Aspose.PDF for .NET API 参考
-description: 允许删除 pdf 数据后的数据
+description: 允许删除 pdf data 之后的数据
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdffilesanitization/usetrimbottom/
 ---
 ## PdfFileSanitization.UseTrimBottom property
 
-允许删除 pdf 数据后的数据
+允许删除 pdf data 之后的数据
 
 ```csharp
 public bool UseTrimBottom { get; set; }

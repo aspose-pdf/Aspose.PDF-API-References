@@ -16,11 +16,11 @@ public override bool Contains(OutlineItemCollection item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | OutlineItemCollection | Объект для поиска в коллекции |
+| item | OutlineItemCollection | Объект, который нужно найти в коллекции |
 
 ### Возвращаемое значение
 
-True - если предмет найден; в противном случае ложно.
+True - если элемент найден; в противном случае ложно.
 
 ### Смотрите также
 

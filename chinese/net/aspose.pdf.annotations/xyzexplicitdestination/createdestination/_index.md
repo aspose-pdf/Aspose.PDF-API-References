@@ -21,7 +21,7 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 | left | Double | 页面左侧位置。 |
 | top | Double | 页面顶部位置。 |
 | zoom | Double | 缩放系数（默认为 0）。 |
-| considerRotation | Boolean | 如果为真则根据页面旋转重新计算位置。 |
+| considerRotation | Boolean | 如果是真实的位置将根据页面旋转重新计算。 |
 
 ### 返回值
 

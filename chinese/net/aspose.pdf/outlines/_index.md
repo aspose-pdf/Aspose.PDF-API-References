@@ -20,18 +20,18 @@ public abstract class Outlines : ICollection<OutlineItemCollection>
 | --- | --- |
 | abstract [Count](../../aspose.pdf/outlines/count) { get; } | 获取计数。 |
 | abstract [IsReadOnly](../../aspose.pdf/outlines/isreadonly) { get; } | 获取一个值，该值指示该集合是否为只读。 |
-| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount) { get; } | 获取文档大纲层次结构中所有级别的大纲项的总数。 |
+| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount) { get; } | 获取文档大纲层次结构中所有级别的大纲项总数。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Add](../../aspose.pdf/outlines/add)(OutlineItemCollection) | 将大纲项目添加到集合中。 |
+| abstract [Add](../../aspose.pdf/outlines/add)(OutlineItemCollection) | 将大纲项添加到集合中。 |
 | abstract [Clear](../../aspose.pdf/outlines/clear)() | 清除集合中的所有项目。 |
-| abstract [Contains](../../aspose.pdf/outlines/contains)(OutlineItemCollection) | 总是抛出 NotImplementedException。 |
+| abstract [Contains](../../aspose.pdf/outlines/contains)(OutlineItemCollection) | 总是抛出 NotImplementedException. |
 | abstract [CopyTo](../../aspose.pdf/outlines/copyto)(OutlineItemCollection[], int) | 将大纲条目复制到 System.Array，从特定的 System.Array 索引开始。 |
 | abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator)() | 返回一个遍历集合的枚举器。 |
-| abstract [Remove](../../aspose.pdf/outlines/remove)(OutlineItemCollection) | 移除大纲集合项。 |
+| abstract [Remove](../../aspose.pdf/outlines/remove)(OutlineItemCollection) | 删除大纲集合项。 |
 
 ### 也可以看看
 

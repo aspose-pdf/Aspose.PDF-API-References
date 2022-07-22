@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задаетPDF3DViewaspose.pdf.annotations/pdf3dviewдля просмотра массива по указанному индексу.
+description: Получает или задаетPDF3DViewaspose.pdf.annotations/pdf3dview для просмотра массива по указанному индексу.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
 ## PDF3DViewArray indexer
 
-Получает или задает[`PDF3DView`](../../pdf3dview)для просмотра массива по указанному индексу.
+Получает или задает[`PDF3DView`](../../pdf3dview) для просмотра массива по указанному индексу.
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -20,13 +20,13 @@ public PDF3DView this[int index] { get; set; }
 
 ### Возвращаемое значение
 
-PDF3DView.
+PDF3DПросмотр.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| IndexOutOfRangeException | Недопустимый индекс:индекс должен быть в диапазоне [1..n], где n равно представлениям считать. |
+| IndexOutOfRangeException | Недопустимый индекс: индекс должен быть в диапазоне [1..n], где n равно количеству просмотров. |
 
 ### Смотрите также
 

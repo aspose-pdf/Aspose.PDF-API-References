@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取放置戳记的矩形
+description: 获取放置图章的矩形
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/stampinfo/rectangle/
 ---
 ## StampInfo.Rectangle property
 
-获取放置戳记的矩形。
+获取放置图章的矩形。
 
 ```csharp
 public Rectangle Rectangle { get; }

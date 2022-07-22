@@ -34,7 +34,7 @@ public class ShowText : TextShowOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/showtext/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/showtext/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/showtext/tostring)() | Выводит текстовый код оператора. |
 
 ### Смотрите также

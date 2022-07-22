@@ -1,14 +1,14 @@
 ---
 title: FontEmbeddingException
 second_title: Aspose.PDF for .NET API 参考
-description: 尝试嵌入字体失败时抛出的异常
+description: 尝试嵌入字体失败时引发的异常
 type: docs
 weight: 2850
 url: /zh/net/aspose.pdf/fontembeddingexception/
 ---
 ## FontEmbeddingException class
 
-尝试嵌入字体失败时抛出的异常
+尝试嵌入字体失败时引发的异常
 
 ```csharp
 public sealed class FontEmbeddingException : ApplicationException
@@ -18,9 +18,9 @@ public sealed class FontEmbeddingException : ApplicationException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontEmbeddingException](fontembeddingexception#constructor)(Exception) | 使用指定的错误消息初始化[`FontEmbeddingException`](../fontembeddingexception) 类的新实例以及对导致此异常的内部异常的引用。 |
-| [FontEmbeddingException](fontembeddingexception#constructor_1)(string) | 初始化[`FontEmbeddingException`](../fontembeddingexception)类的新实例。 |
-| [FontEmbeddingException](fontembeddingexception#constructor_2)(string, Exception) | 使用指定的错误消息初始化[`FontEmbeddingException`](../fontembeddingexception) 类的新实例以及对导致此异常的内部异常的引用。 |
+| [FontEmbeddingException](fontembeddingexception#constructor)(Exception) | 初始化[`FontEmbeddingException`](../fontembeddingexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
+| [FontEmbeddingException](fontembeddingexception#constructor_1)(string) | 初始化[`FontEmbeddingException`](../fontembeddingexception)类. |
+| [FontEmbeddingException](fontembeddingexception#constructor_2)(string, Exception) | 初始化[`FontEmbeddingException`](../fontembeddingexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

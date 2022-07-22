@@ -1,14 +1,14 @@
 ---
 title: PageBorderIfAny
 second_title: Aspose.PDF for .NET API 参考
-description: 此属性表示用于在表示源 PDF 页面的区域周围的结果 HTML 文档中绘制边框如果有 的设置集 本质上它涉及显示页面的纸张边缘 不是PDF页面本身引用的页面边框
+description: 此属性表示用于在代表源 PDF 页面的区域周围绘制结果 HTML 文档中的边框如果有 的设置集 本质上它涉及显示页面的纸张边缘 不是 PDF 页面本身引用的页面边框
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf/htmlsaveoptions/pageborderifany/
 ---
 ## HtmlSaveOptions.PageBorderIfAny field
 
-此属性表示用于在表示源 PDF 页面的区域周围的结果 HTML 文档中绘制边框（如果有） 的设置集。 本质上它涉及显示页面的纸张边缘， 不是PDF页面本身引用的页面边框。
+此属性表示用于在代表源 PDF 页面的区域周围绘制结果 HTML 文档中的边框（如果有） 的设置集。 本质上它涉及显示页面的纸张边缘， 不是 PDF 页面本身引用的页面边框。
 
 ```csharp
 public BorderInfo PageBorderIfAny;

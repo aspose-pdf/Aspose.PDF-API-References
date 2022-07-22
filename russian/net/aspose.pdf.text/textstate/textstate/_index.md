@@ -44,7 +44,7 @@ public TextState(double fontSize)
 
 ## TextState(Color) {#constructor_2}
 
-Создает объект состояния текста с указанием цвета переднего плана.
+Создает объект состояния текста со спецификацией цвета переднего плана.
 
 ```csharp
 public TextState(Color foregroundColor)
@@ -114,8 +114,8 @@ public TextState(string fontFamily, bool bold, bool italic)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontFamily | String | Семейство шрифтов. |
-| bold | Boolean | Стиль шрифта Bold. |
-| italic | Boolean | Курсив. |
+| bold | Boolean | Жирный стиль шрифта. |
+| italic | Boolean | Курсивный стиль шрифта. |
 
 ### Смотрите также
 

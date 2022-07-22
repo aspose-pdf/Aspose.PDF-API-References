@@ -1,14 +1,14 @@
 ---
 title: Repeat
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真覆盖文本将在注释上重复
+description: 如果为真则将在注释上重复覆盖文本
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/redactionannotation/repeat/
 ---
 ## RedactionAnnotation.Repeat property
 
-如果为真覆盖文本将在注释上重复。
+如果为真，则将在注释上重复覆盖文本。
 
 ```csharp
 public bool Repeat { get; set; }

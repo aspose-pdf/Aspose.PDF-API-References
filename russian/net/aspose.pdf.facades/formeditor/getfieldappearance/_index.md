@@ -20,7 +20,7 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 
 ### Возвращаемое значение
 
-Набор флагов полей
+Набор полевых флагов
 
 ### Смотрите также
 

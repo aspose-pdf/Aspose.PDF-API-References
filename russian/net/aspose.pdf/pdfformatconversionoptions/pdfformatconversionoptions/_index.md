@@ -18,8 +18,8 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputLogFileName | String | Путь к файлу, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
+| format | PdfFormat | Формат пдф. |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 
 ### Смотрите также
 
@@ -42,7 +42,7 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputLogFileName | String | Путь к файлу, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
+| format | PdfFormat | Формат пдф. |
 
 ### Смотрите также
 
@@ -63,7 +63,7 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | PdfFormat | Формат pdf. |
+| format | PdfFormat | Формат пдф. |
 
 ### Смотрите также
 
@@ -84,8 +84,8 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
+| format | PdfFormat | Формат пдф. |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 
 ### Смотрите также
 
@@ -109,8 +109,8 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputLogFileName | String | Путь к файлу, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| format | PdfFormat | Формат пдф. |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 | transparencyAction | ConvertTransparencyAction | Действие для объектов, замаскированных изображением |
 
 ### Смотрите также
@@ -135,9 +135,9 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogStream | Stream | Поток, в котором будут храниться комментарии |
-| format | PdfFormat | Формат pdf |
-| action | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
+| outputLogStream | Stream | Поток, где будут храниться комментарии |
+| format | PdfFormat | Формат PDF |
+| action | ConvertErrorAction | Действие для объектов, которые нельзя конвертировать |
 
 ### Смотрите также
 

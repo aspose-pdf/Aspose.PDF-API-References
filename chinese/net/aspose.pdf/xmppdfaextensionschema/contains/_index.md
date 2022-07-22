@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API 参考
-description: 判断 obj 是否存在于 schema 中
+description: 判断 obj 是否存在于 schema.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/contains/
 ---
 ## XmpPdfAExtensionSchema.Contains method
 
-判断 obj 是否存在于 schema 中。
+判断 obj 是否存在于 schema.
 
 ```csharp
 public bool Contains(XmpPdfAExtensionObject obj)

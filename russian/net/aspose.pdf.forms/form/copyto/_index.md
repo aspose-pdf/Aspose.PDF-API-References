@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF для справочника API .NET
-description: Копирует поля размещенные на форме в массив.
+description: Копирует поля формы в массив.
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.forms/form/copyto/
 ---
 ## Form.CopyTo method
 
-Копирует поля, размещенные на форме, в массив.
+Копирует поля формы в массив.
 
 ```csharp
 public void CopyTo(Field[] array, int index)
@@ -16,7 +16,7 @@ public void CopyTo(Field[] array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | Field[] | Массив, в который должны быть помещены поля. |
+| array | Field[] | Массив, в котором должны быть размещены поля. |
 | index | Int32 | Начальный индекс. |
 
 ### Смотрите также

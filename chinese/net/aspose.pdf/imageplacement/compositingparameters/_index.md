@@ -1,14 +1,14 @@
 ---
 title: CompositingParameters
 second_title: Aspose.PDF for .NET API 参考
-description: 获取放置到页面的图像的活动图形状态的合成参数
+description: 获取放置到页面上的图像的活动图形状态的合成参数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/imageplacement/compositingparameters/
 ---
 ## ImagePlacement.CompositingParameters property
 
-获取放置到页面的图像的活动图形状态的合成参数。
+获取放置到页面上的图像的活动图形状态的合成参数。
 
 ```csharp
 public CompositingParameters CompositingParameters { get; }

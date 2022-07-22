@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.LettersPositioningMethods
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举结果 HTML
+description: 它枚举结果 HTML 中单词中字母的可能定位模式
 type: docs
 weight: 3570
 url: /zh/net/aspose.pdf/htmlsaveoptions.letterspositioningmethods/
 ---
 ## HtmlSaveOptions.LettersPositioningMethods enumeration
 
-枚举结果 HTML
+它枚举结果 HTML 中单词中字母的可能定位模式
 
 ```csharp
 public enum LettersPositioningMethods
@@ -18,8 +18,8 @@ public enum LettersPositioningMethods
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | 这是默认方法。它使用 EM 单位和补偿舍入误差的特殊算法 更适合在 IE10.0 和更多新版本中使用，并在需要缩放时提供更好的字幕缩放 |
-| UsePixelUnitsInCssLetterSpacingForIE | `1` | 它允许在旧 IE 浏览器版本中获得有时更精确的结果 |
+| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | 这是默认方法。它使用 EM 单位和特殊的舍入误差补偿算法 更适合在 IE10.0 和更多新版本中使用，并在需要缩放时提供更好的字幕缩放 |
+| UsePixelUnitsInCssLetterSpacingForIE | `1` | 它允许在旧的 IE 浏览器版本中获得有时更精确的结果 |
 
 ### 也可以看看
 

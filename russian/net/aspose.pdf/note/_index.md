@@ -18,14 +18,14 @@ public sealed class Note
 
 | Имя | Описание |
 | --- | --- |
-| [Note](note#constructor)() | Инициализирует новый экземпляр класса[`Note`](../note). |
-| [Note](note#constructor_1)(string) | Инициализирует новый экземпляр класса[`Note`](../note). |
+| [Note](note#constructor)() | Инициализирует новый экземпляр[`Note`](../note) класс. |
+| [Note](note#constructor_1)(string) | Инициализирует новый экземпляр[`Note`](../note) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs) { get; set; } | Получает или задает коллекцию, указывающую все абзацы в сноске. |
+| [Paragraphs](../../aspose.pdf/note/paragraphs) { get; set; } | Получает или задает коллекцию, которая указывает все абзацы в FootNote. |
 | [Text](../../aspose.pdf/note/text) { get; set; } | Получает или задает текст заметки. |
 | [TextState](../../aspose.pdf/note/textstate) { get; set; } | Получает или задает состояние текста заметки. |
 

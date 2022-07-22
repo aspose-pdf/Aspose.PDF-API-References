@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 从集合中删除指定项目
+description: 从集合中删除指定的项目
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.text/textsegmentcollection/remove/
 ---
 ## TextSegmentCollection.Remove method
 
-从集合中删除指定项目。
+从集合中删除指定的项目。
 
 ```csharp
 public bool Remove(TextSegment item)
@@ -20,7 +20,7 @@ public bool Remove(TextSegment item)
 
 ### 返回值
 
-如果项目被删除，则为 true来自收藏；否则为假。
+如果项目已从集合中删除，则为 true；否则为假。
 
 ### 也可以看看
 

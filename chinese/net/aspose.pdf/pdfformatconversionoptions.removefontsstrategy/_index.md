@@ -1,14 +1,14 @@
 ---
 title: PdfFormatConversionOptions.RemoveFontsStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 某些文档在转换为 PDF/A 格式后尺寸较大为了减少这些 文档的文件大小有必要定义字体删除策略 这个枚举声明了一个可以用来优化字体使用的策略 此枚举中的每个策略仅在设置标志OptimizeFileSize./pdfformatconversionoptions/optimizefilesize时才有意义
+description: 一些文档在转换成 PDF/A 格式后尺寸较大为了减少这些 文档的文件大小有必要定义字体删除策略 此枚举声明了一个可用于优化字体使用的策略 此枚举中的每个策略仅在标记时才有意义OptimizeFileSize./pdfformatconversionoptions/optimizefilesize已设置
 type: docs
 weight: 6050
 url: /zh/net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/
 ---
 ## PdfFormatConversionOptions.RemoveFontsStrategy enumeration
 
-某些文档在转换为 PDF/A 格式后尺寸较大。为了减少这些 文档的文件大小，有必要定义字体删除策略。 这个枚举声明了一个可以用来优化字体使用的策略。 此枚举中的每个策略仅在设置标志[`OptimizeFileSize`](../pdfformatconversionoptions/optimizefilesize)时才有意义。
+一些文档在转换成 PDF/A 格式后尺寸较大。为了减少这些 文档的文件大小，有必要定义字体删除策略。 此枚举声明了一个可用于优化字体使用的策略。 此枚举中的每个策略仅在标记时才有意义[`OptimizeFileSize`](../pdfformatconversionoptions/optimizefilesize)已设置。
 
 ```csharp
 [Flags]
@@ -20,8 +20,8 @@ public enum RemoveFontsStrategy : byte
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | RemoveDuplicatedFonts | `4` | 此策略会删除文档中所有重复的字体。如果文档 包含一组重复字体，则只有该组中的一种字体嵌入到文档中。 该组中的所有其他字体都从文档中删除，每个删除的字体 都替换为已经嵌入的模拟字体。 |
-| RemoveSimilarFontsWithDifferentWidths | `1` | 这个策略看起来像RemoveDuplicatedFonts但它没有完全删除 重复的字体，但字体彼此相似，仅通过参数“宽度”不同。 此参数包含一组指定字体符号的宽度。此“宽度”集中的每个宽度 值都不是符号（字形）的实际宽度，该符号的实际宽度已经 在字体的二进制数据中定义。 “Widths”设置中的宽度值表示此 符号的视觉宽度 - PDF 查看器软件在显示符号时必须设置的宽度，而不是字体中定义的实际宽度 。更准确的规范告诉: Acrobat 5.0 和更高版本的查看器使用存储在字体字典中的字形宽度来覆盖字体程序本身中的 字形宽度，这提高了字体的一致性文件的显示和 打印。 此策略比RemoveDuplicatedFonts更有效，但在某些情况下使用此 策略理论上可能会损坏转换后的文档的视觉呈现。 这个缺陷是可能的，因为对于同一个 符号，声明的字体宽度可能不同，在这种情况下，这个符号的宽度将在字体之后更改为新的宽度 替换 - 删除时，文档中的字体将被替换为已经嵌入的字体。 如果符号的视觉宽度将被更改 - 它将显示不正确，并且此 区别可能会导致视觉缺陷，例如文本重叠或其他问题。 但是描述的视觉缺陷是非常罕见的情况，这种策略更有效地减小了 文档的大小。 |
-| SubsetFonts | `2` | 这是减小文档大小的最有效策略。它采用完全嵌入的字体集 并将它们修剪为仅使用的子集。建议将此策略结合使用 与RemoveDuplicatedFonts或RemoveSimilarFontsWithDifferentWidthsto 获得文件大小的多重压缩效果。同时使用所有三种策略 没有意义，并且策略RemoveSimilarFontsWithDifferentWidths不会在此使用 案子。 |
+| RemoveSimilarFontsWithDifferentWidths | `1` | 这个策略看起来像RemoveDuplicatedFonts但它不会完全删除 重复的字体，而是删除彼此相似且仅因参数“宽度”不同而不同的字体。 此参数包含指定字体符号的一些宽度集。此“宽度”集中的每个宽度值 都不是符号（字形）的实际宽度，此符号的实际宽度已经在字体的二进制数据中定义为 。 “宽度”设置中的宽度值表示此 符号的视觉宽度 - PDF 查看器软件在显示符号时必须设置的宽度，而不是字体中定义的实际宽度 。更准确的规范告诉： Acrobat 5.0 及更高版本的查看器使用存储在字体字典中的字形宽度来覆盖字体程序本身中字形的 宽度，从而提高了显示和 打印文档的一致性。 这种策略比更有效RemoveDuplicatedFonts但是在某些情况下使用这种 策略理论上可能会损坏转换文档的视觉呈现。 这个缺陷是可能的，因为对于相同的 符号，声明的字体宽度可能不同，在这种情况下，此符号的宽度将在字体 替换后更改为新的宽度 - 当移除字体时，将在文档中替换已嵌入的字体one. 如果符号的视觉宽度发生变化 - 它将显示不正确，这种 区别可能会导致视觉缺陷，例如文本重叠或其他问题。 但所描述的视觉缺陷是一种非常罕见的情况，这种策略更有效地减少了 文档的大小。 |
+| SubsetFonts | `2` | 这是减小文档大小的最有效策略。它采用完全嵌入的字体集 并将它们修剪为仅使用的子集。建议将此策略与组合 一起使用RemoveDuplicatedFonts或者RemoveSimilarFontsWithDifferentWidthsto 获得文件大小的多重压缩效果。同时使用所有三种策略 没有意义和策略RemoveSimilarFontsWithDifferentWidths在这种情况下不会使用 。 |
 
 ### 也可以看看
 

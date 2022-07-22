@@ -1,14 +1,14 @@
 ---
 title: Checked
 second_title: Aspose.PDF для справочника API .NET
-description: Проверенный атрибут владелец атрибута PrintField.
+description: Проверяемый атрибут владелец атрибута PrintField.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/checked/
 ---
 ## AttributeKey.Checked field
 
-Проверенный атрибут (владелец атрибута PrintField).
+Проверяемый атрибут (владелец атрибута PrintField).
 
 ```csharp
 public static readonly AttributeKey Checked;

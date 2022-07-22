@@ -16,7 +16,7 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### 返回值
 
-枚举数。
+枚举器。
 
 ### 也可以看看
 

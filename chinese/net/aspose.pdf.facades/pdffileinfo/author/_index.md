@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/pdffileinfo/author/
 ---
 ## PdfFileInfo.Author property
 
-获取或设置PDF文档的作者信息。
+获取或设置PDF文档的作者信息
 
 ```csharp
 public string Author { get; set; }

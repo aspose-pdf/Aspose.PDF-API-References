@@ -1,14 +1,14 @@
 ---
 title: Checked_on
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут проверенOn  состояние переключателя или поля флажка.
+description: Атрибут проверен Включено  состояние переключателя или поля флажка.
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.logicalstructure/attributename/checked_on/
 ---
 ## AttributeName.Checked_on field
 
-Атрибут проверен:On — состояние переключателя или поля флажка.
+Атрибут проверен: Включено — состояние переключателя или поля флажка.
 
 ```csharp
 public static readonly AttributeName Checked_on;

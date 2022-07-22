@@ -16,7 +16,7 @@ public void RedactArea(int pageIndex, Rectangle rect, Color color)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageIndex | Int32 | 页面索引。 |
+| pageIndex | Int32 | 页面的索引。 |
 | rect | Rectangle | 区域矩形。 |
 | color | Color | 填充颜色。 |
 

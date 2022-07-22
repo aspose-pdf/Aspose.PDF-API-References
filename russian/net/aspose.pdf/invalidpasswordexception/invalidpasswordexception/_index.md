@@ -1,14 +1,14 @@
 ---
 title: InvalidPasswordException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаInvalidPasswordExceptionaspose.pdf/invalidpasswordexception.
+description: Инициализирует новый экземплярInvalidPasswordExceptionaspose.pdf/invalidpasswordexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidpasswordexception/invalidpasswordexception/
 ---
 ## InvalidPasswordException(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`InvalidPasswordException`](../../invalidpasswordexception).
+Инициализирует новый экземпляр[`InvalidPasswordException`](../../invalidpasswordexception) класс.
 
 ```csharp
 public InvalidPasswordException(string message)
@@ -28,7 +28,7 @@ public InvalidPasswordException(string message)
 
 ## InvalidPasswordException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`InvalidPasswordException`](../../invalidpasswordexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidPasswordException`](../../invalidpasswordexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidPasswordException(string message, Exception innerException)
@@ -49,7 +49,7 @@ public InvalidPasswordException(string message, Exception innerException)
 
 ## InvalidPasswordException(Exception) {#constructor}
 
-Инициализирует новый экземпляр класса[`InvalidPasswordException`](../../invalidpasswordexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidPasswordException`](../../invalidpasswordexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidPasswordException(Exception innerException)
@@ -57,7 +57,7 @@ public InvalidPasswordException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置TextFragmentaspose.pdf.text/textfragment对象所代表的文本的文本状态
+description: 获取或设置文本的文本状态TextFragmentaspose.pdf.text/textfragment对象代表.
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.text/textfragment/textstate/
 ---
 ## TextFragment.TextState property
 
-获取或设置[`TextFragment`](../../textfragment)对象所代表的文本的文本状态。
+获取或设置文本的文本状态[`TextFragment`](../../textfragment)对象代表.
 
 ```csharp
 public TextFragmentState TextState { get; }
@@ -16,30 +16,30 @@ public TextFragmentState TextState { get; }
 
 ### 评论
 
-提供一种更改文本以下属性的方法: 字体 FontSize FontStyle ForegroundColor BackgroundColor
+提供更改文本以下属性的方法： Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ### 例子
 
-该示例演示了如何使用`TextState`对象更改文本的颜色和字体大小。
+该示例演示了如何更改文本的颜色和字体大小`TextState`对象.
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// 改变第一个文本出现的前景色
-sorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
+// 更改第一个文本出现的前景色
+absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
 
 // 更改第一个文本出现的字体大小
-sorber.TextFragments[1].TextState.FontSize = 15;
+absorber.TextFragments[1].TextState.FontSize = 15;
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: LimitToPageBounds
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает указание на то что текст ищется в пределах страницы.
+description: Получает или задает индикацию поиска текста в пределах страницы.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textsearchoptions/limittopagebounds/
 ---
 ## TextSearchOptions.LimitToPageBounds property
 
-Получает или задает указание на то, что текст ищется в пределах страницы.
+Получает или задает индикацию поиска текста в пределах страницы.
 
 ```csharp
 public bool LimitToPageBounds { get; set; }

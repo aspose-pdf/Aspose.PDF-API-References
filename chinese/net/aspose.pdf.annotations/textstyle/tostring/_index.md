@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: TextStyle 的字符串表示
+description: TextStyle. 的字符串表示
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/textstyle/tostring/
 ---
 ## TextStyle.ToString method
 
-TextStyle 的字符串表示。
+TextStyle. 的字符串表示
 
 ```csharp
 public override string ToString()

@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает цвет фона таблицы
+description: Получает или задает цвет фона таблицы
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/table/backgroundcolor/
 ---
 ## Table.BackgroundColor property
 
-Получает или устанавливает цвет фона таблицы
+Получает или задает цвет фона таблицы
 
 ```csharp
 public Color BackgroundColor { get; set; }

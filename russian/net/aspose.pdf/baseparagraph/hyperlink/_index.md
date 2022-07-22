@@ -1,14 +1,14 @@
 ---
 title: Hyperlink
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает гиперссылку фрагмента для генератора pdf.
+description: Получает или устанавливает гиперссылку на фрагмент для генератора pdf.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/baseparagraph/hyperlink/
 ---
 ## BaseParagraph.Hyperlink property
 
-Получает или устанавливает гиперссылку фрагмента (для генератора pdf).
+Получает или устанавливает гиперссылку на фрагмент (для генератора pdf).
 
 ```csharp
 public virtual Hyperlink Hyperlink { get; set; }

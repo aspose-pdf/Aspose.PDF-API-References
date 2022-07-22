@@ -1,14 +1,14 @@
 ---
 title: TextShowOperator
 second_title: Aspose.PDF для справочника API .NET
-description: Абстрактный базовый класс для всех операторов которые использовались для вывода текста Tj TJ и т.д..
+description: Абстрактный базовый класс для всех операторов которые использовались для вывода текста Tj TJ и т. д..
 type: docs
 weight: 5680
 url: /ru/net/aspose.pdf.operators/textshowoperator/
 ---
 ## TextShowOperator class
 
-Абстрактный базовый класс для всех операторов, которые использовались для вывода текста (Tj, TJ и т.д.).
+Абстрактный базовый класс для всех операторов, которые использовались для вывода текста (Tj, TJ и т. д.).
 
 ```csharp
 public class TextShowOperator : TextOperator
@@ -26,13 +26,13 @@ public class TextShowOperator : TextOperator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| virtual [Text](../../aspose.pdf.operators/textshowoperator/text) { get; set; } | Получает текст, который оператор выводит на страницу. |
+| virtual [Text](../../aspose.pdf.operators/textshowoperator/text) { get; set; } | Получает текст, который оператор находится на странице. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

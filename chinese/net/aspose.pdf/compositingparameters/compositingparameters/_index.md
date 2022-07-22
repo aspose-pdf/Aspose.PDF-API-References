@@ -1,14 +1,14 @@
 ---
 title: CompositingParameters
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化CompositingParametersaspose.pdf/compositingparameters对象的新实例
+description: 初始化CompositingParametersaspose.pdf/compositingparameters对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/compositingparameters/compositingparameters/
 ---
 ## CompositingParameters(BlendMode) {#constructor}
 
-初始化[`CompositingParameters`](../../compositingparameters)对象的新实例。
+初始化[`CompositingParameters`](../../compositingparameters)对象.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode)
@@ -29,7 +29,7 @@ public CompositingParameters(BlendMode blendMode)
 
 ## CompositingParameters(BlendMode, ImageFilterType) {#constructor_1}
 
-初始化[`CompositingParameters`](../../compositingparameters)对象的新实例。
+初始化[`CompositingParameters`](../../compositingparameters)对象.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
@@ -52,7 +52,7 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 ## CompositingParameters(BlendMode, ImageFilterType, bool) {#constructor_2}
 
-初始化[`CompositingParameters`](../../compositingparameters)对象的新实例。
+初始化[`CompositingParameters`](../../compositingparameters)对象.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bool isMasked)

@@ -1,14 +1,14 @@
 ---
 title: GetNotifications
 second_title: Aspose.PDF for .NET API 参考
-description: 返回有关页面内容内部操作的通知 现在仅支持文本添加场景中有关段落事件的通知
+description: 返回有关页面内容内部操作的通知 现在只支持文本添加场景中的段落事件通知
 type: docs
 weight: 430
 url: /zh/net/aspose.pdf/page/getnotifications/
 ---
 ## Page.GetNotifications method
 
-返回有关页面内容内部操作的通知。 （现在仅支持文本添加场景中有关段落事件的通知。）
+返回有关页面内容内部操作的通知。 （现在只支持文本添加场景中的段落事件通知。）
 
 ```csharp
 public string GetNotifications()

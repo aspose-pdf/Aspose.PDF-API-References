@@ -1,14 +1,14 @@
 ---
 title: FormattingOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置格式选项 选项的设置仅在生成器场景中有效
+description: 获取或设置格式化选项 选项的设置仅在生成器场景中有效
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/textfragmentstate/formattingoptions/
 ---
 ## TextFragmentState.FormattingOptions property
 
-获取或设置格式选项。 选项的设置仅在生成器场景中有效。
+获取或设置格式化选项。 选项的设置仅在生成器场景中有效。
 
 ```csharp
 public TextFormattingOptions FormattingOptions { get; set; }

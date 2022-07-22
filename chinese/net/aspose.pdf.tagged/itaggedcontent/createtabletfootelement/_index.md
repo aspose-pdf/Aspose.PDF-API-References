@@ -1,14 +1,14 @@
 ---
 title: CreateTableTFootElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建TableTFootElementaspose.pdf.logicalstructure/tabletfootelement
+description: 创建TableTFootElementaspose.pdf.logicalstructure/tabletfootelement.
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
 ## ITaggedContent.CreateTableTFootElement method
 
-创建[`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement)。
+创建[`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement).
 
 ```csharp
 public TableTFootElement CreateTableTFootElement()
@@ -16,7 +16,7 @@ public TableTFootElement CreateTableTFootElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

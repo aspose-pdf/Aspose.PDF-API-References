@@ -18,7 +18,7 @@ public class CurveTo1 : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CurveTo1](curveto1)(double, double, double, double) | 初始化曲线操作符。 |
+| [CurveTo1](curveto1)(double, double, double, double) | 初始化曲线算子。 |
 
 ## 特性
 

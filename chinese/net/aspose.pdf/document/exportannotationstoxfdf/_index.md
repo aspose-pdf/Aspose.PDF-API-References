@@ -36,7 +36,7 @@ public void ExportAnnotationsToXfdf(Stream stream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流存储 XFDF 的位置。 |
+| stream | Stream | 流存储 XFDF。 |
 
 ### 也可以看看
 

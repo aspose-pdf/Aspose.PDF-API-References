@@ -1,14 +1,14 @@
 ---
 title: GetTotalRevision
 second_title: Aspose.PDF для справочника API .NET
-description: Получает полную версию.
+description: Получает общую версию.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdffilesignature/gettotalrevision/
 ---
 ## PdfFileSignature.GetTotalRevision method
 
-Получает полную версию.
+Получает общую версию.
 
 ```csharp
 public int GetTotalRevision()

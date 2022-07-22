@@ -1,14 +1,14 @@
 ---
 title: BarcodeField
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化BarcodeFieldaspose.pdf.forms/barcodefield类的新实例
+description: 初始化BarcodeFieldaspose.pdf.forms/barcodefield类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/barcodefield/barcodefield/
 ---
 ## BarcodeField(Page, Rectangle) {#constructor_1}
 
-初始化[`BarcodeField`](../../barcodefield)类的新实例。
+初始化[`BarcodeField`](../../barcodefield)类.
 
 ```csharp
 public BarcodeField(Page page, Rectangle rect)
@@ -16,8 +16,8 @@ public BarcodeField(Page page, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 放置新条形码的页面。 |
-| rect | Rectangle | 条码尺寸以矩形给出。 |
+| page | Page | 放置新条码的页面。 |
+| rect | Rectangle | 以矩形给出的条码尺寸。 |
 
 ### 也可以看看
 
@@ -31,7 +31,7 @@ public BarcodeField(Page page, Rectangle rect)
 
 ## BarcodeField(Document, Rectangle) {#constructor}
 
-初始化[`BarcodeField`](../../barcodefield)类的新实例。
+初始化[`BarcodeField`](../../barcodefield)类.
 
 ```csharp
 public BarcodeField(Document doc, Rectangle rect)
@@ -39,8 +39,8 @@ public BarcodeField(Document doc, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
-| rect | Rectangle | 矩形字段将放置在页面上的位置。 |
+| doc | Document | 记录将在何处创建字段。 |
+| rect | Rectangle | 将在页面上放置字段的矩形。 |
 
 ### 也可以看看
 

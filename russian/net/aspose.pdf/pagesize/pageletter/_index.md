@@ -1,14 +1,14 @@
 ---
 title: PageLetter
 second_title: Aspose.PDF для справочника API .NET
-description: Размер Letter 279x216 мм.
+description: Размер письма 279x216 мм.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/pagesize/pageletter/
 ---
 ## PageSize.PageLetter property
 
-Размер Letter (279x216 мм).
+Размер письма (279x216 мм).
 
 ```csharp
 public static PageSize PageLetter { get; }

@@ -1,14 +1,14 @@
 ---
 title: EmulateRequierdGroups
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此属性为真则将为所需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形 引入此属性是因为缺少类似物将 Xfa 表示形式 转换为标准期间的 exclGroup 默认为假
+description: 如果此属性为真则将为所需的 Xfa exclGroup 元素绘制额外的红色边界矩形 container 引入此属性是因为在将表单 的 Xfa 表示形式转换为标准时缺少 exclGroup 的类似物 默认情况下为假
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.forms/form/emulaterequierdgroups/
 ---
 ## Form.EmulateRequierdGroups property
 
-如果此属性为真，则将为所需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形 引入此属性是因为缺少类似物将 Xfa 表示形式 转换为标准期间的 exclGroup。 默认为假。
+如果此属性为真，则将为所需的 Xfa exclGroup 元素绘制额外的红色边界矩形 container 引入此属性是因为在将表单 的 Xfa 表示形式转换为标准时缺少 exclGroup 的类似物。 默认情况下为假。
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }

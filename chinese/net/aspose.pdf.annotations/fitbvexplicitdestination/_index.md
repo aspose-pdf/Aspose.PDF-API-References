@@ -1,14 +1,14 @@
 ---
 title: FitBVExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 表示显示页面的显式目标该页面的水平坐标位于窗口的左边缘并且页面的内容被放大到刚好适合整个高度它在窗口内的边界框 left 的空值指定该参数的当前值将保持不变
+description: 表示显示页面的显式目标该页面的水平坐标位于窗口的左边缘页面的内容被放大到刚好适合窗口内边界框的整个高度 left 的空值指定该参数的当前值保持不变
 type: docs
 weight: 370
 url: /zh/net/aspose.pdf.annotations/fitbvexplicitdestination/
 ---
 ## FitBVExplicitDestination class
 
-表示显示页面的显式目标，该页面的水平坐标位于窗口的左边缘，并且页面的内容被放大到刚好适合整个高度它在窗口内的边界框。 left 的空值指定该参数的当前值将保持不变。
+表示显示页面的显式目标，该页面的水平坐标位于窗口的左边缘，页面的内容被放大到刚好适合窗口内边界框的整个高度。 left 的空值指定该参数的当前值保持不变。
 
 ```csharp
 public sealed class FitBVExplicitDestination : ExplicitDestination
@@ -19,13 +19,13 @@ public sealed class FitBVExplicitDestination : ExplicitDestination
 | 姓名 | 描述 |
 | --- | --- |
 | [FitBVExplicitDestination](fitbvexplicitdestination#constructor_2)(int, double) | 创建远程显式目标。 |
-| [FitBVExplicitDestination](fitbvexplicitdestination#constructor_1)(Page, double) | 创建本地显式目的地。 |
+| [FitBVExplicitDestination](fitbvexplicitdestination#constructor_1)(Page, double) | 创建本地显式目标。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/fitbvexplicitdestination/left) { get; } | 获取位于窗口左边缘的左侧水平坐标。 |
+| [Left](../../aspose.pdf.annotations/fitbvexplicitdestination/left) { get; } | 获取位于窗口左边缘左侧的水平坐标。 |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | 获取目标页面对象 |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | 获取目标页码 |
 
@@ -33,7 +33,7 @@ public sealed class FitBVExplicitDestination : ExplicitDestination
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例:“1 FitBV 100”。 |
+| override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例：“1 FitBV 100”. |
 
 ### 也可以看看
 

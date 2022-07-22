@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API 参考
-description: 总是抛出 NotImplementedException
+description: 总是抛出 NotImplementedException.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/outlines/contains/
 ---
 ## Outlines.Contains method
 
-总是抛出 NotImplementedException。
+总是抛出 NotImplementedException.
 
 ```csharp
 public abstract bool Contains(OutlineItemCollection item)
@@ -20,7 +20,7 @@ public abstract bool Contains(OutlineItemCollection item)
 
 ### 返回值
 
-NotImplementedException
+未实现异常
 
 ### 也可以看看
 

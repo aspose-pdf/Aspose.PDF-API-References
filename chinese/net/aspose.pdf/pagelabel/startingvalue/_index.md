@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/pagelabel/startingvalue/
 ---
 ## PageLabel.StartingValue property
 
-获取或设置页码范围的起始值。
+获取或设置页码范围的起始值
 
 ```csharp
 public int StartingValue { get; set; }

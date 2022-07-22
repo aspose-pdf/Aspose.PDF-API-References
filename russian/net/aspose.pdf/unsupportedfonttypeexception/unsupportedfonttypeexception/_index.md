@@ -1,14 +1,14 @@
 ---
 title: UnsupportedFontTypeException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаUnsupportedFontTypeExceptionaspose.pdf/unsupportedfonttypeexception.
+description: Инициализирует новый экземплярUnsupportedFontTypeExceptionaspose.pdf/unsupportedfonttypeexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/unsupportedfonttypeexception/unsupportedfonttypeexception/
 ---
 ## UnsupportedFontTypeException(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`UnsupportedFontTypeException`](../../unsupportedfonttypeexception).
+Инициализирует новый экземпляр[`UnsupportedFontTypeException`](../../unsupportedfonttypeexception) класс.
 
 ```csharp
 public UnsupportedFontTypeException(string message)
@@ -28,7 +28,7 @@ public UnsupportedFontTypeException(string message)
 
 ## UnsupportedFontTypeException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`UnsupportedFontTypeException`](../../unsupportedfonttypeexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`UnsupportedFontTypeException`](../../unsupportedfonttypeexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public UnsupportedFontTypeException(string message, Exception innerException)
@@ -49,7 +49,7 @@ public UnsupportedFontTypeException(string message, Exception innerException)
 
 ## UnsupportedFontTypeException(Exception) {#constructor}
 
-Инициализирует новый экземпляр класса[`UnsupportedFontTypeException`](../../unsupportedfonttypeexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`UnsupportedFontTypeException`](../../unsupportedfonttypeexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public UnsupportedFontTypeException(Exception innerException)
@@ -57,7 +57,7 @@ public UnsupportedFontTypeException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

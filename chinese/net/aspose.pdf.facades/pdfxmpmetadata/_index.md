@@ -1,14 +1,14 @@
 ---
 title: PdfXmpMetadata
 second_title: Aspose.PDF for .NET API 参考
-description: 用于处理 XMP 元数据的类
+description: 使用 XMP 元数据进行操作的类
 type: docs
 weight: 2650
 url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/
 ---
 ## PdfXmpMetadata class
 
-用于处理 XMP 元数据的类。
+使用 XMP 元数据进行操作的类。
 
 ```csharp
 public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValue>
@@ -18,8 +18,8 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfXmpMetadata](pdfxmpmetadata#constructor)() | PdfXmpMetadata 的构造函数。 |
-| [PdfXmpMetadata](pdfxmpmetadata#constructor_1)(Document) | 在*document*的基础上初始化新的[`PdfXmpMetadata`](../pdfxmpmetadata)对象。 |
+| [PdfXmpMetadata](pdfxmpmetadata#constructor)() | PdfXmpMetadata. 的构造函数 |
+| [PdfXmpMetadata](pdfxmpmetadata#constructor_1)(Document) | 初始化新的[`PdfXmpMetadata`](../pdfxmpmetadata)对象基于*document*. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 | --- | --- |
 | [Count](../../aspose.pdf.facades/pdfxmpmetadata/count) { get; } | 如果集合中有项目，则获取计数。 |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | 获取正在处理的文档外观。 |
-| [ExtensionFields](../../aspose.pdf.facades/pdfxmpmetadata/extensionfields) { get; } | 获取扩展字段字典。 |
+| [ExtensionFields](../../aspose.pdf.facades/pdfxmpmetadata/extensionfields) { get; } | 获取扩展字段的字典。 |
 | [IsFixedSize](../../aspose.pdf.facades/pdfxmpmetadata/isfixedsize) { get; } | 如果集合具有固定大小，则返回 true。 |
 | [IsReadOnly](../../aspose.pdf.facades/pdfxmpmetadata/isreadonly) { get; } | 如果集合是只读的，则返回 true。 |
 | [IsSynchronized](../../aspose.pdf.facades/pdfxmpmetadata/issynchronized) { get; } | 如果集合已同步，则返回 true。 |
@@ -42,8 +42,8 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 | --- | --- |
 | [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_2)(KeyValuePair&lt;string, XmpValue&gt;) | 将键和值对添加到字典中。 |
 | [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add)(DefaultMetadataProperties, XmpValue) | 为 XMP 元数据添加价值。 |
-| [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_4)(string, object) | 将新元素添加到字典对象。 |
-| [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_3)(string, XmpValue) | 将新元素添加到字典对象。 |
+| [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_4)(string, object) | 向字典对象添加新元素。 |
+| [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_3)(string, XmpValue) | 向字典对象添加新元素。 |
 | [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_1)(XmpPdfAExtensionObject, string, string, string) | 将扩展字段添加到元数据中。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | 初始化外观。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | 初始化外观。 |
@@ -55,17 +55,17 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 | [Contains](../../aspose.pdf.facades/pdfxmpmetadata/contains#contains_2)(string) | 检查字典是否包含指定的键。 |
 | [ContainsKey](../../aspose.pdf.facades/pdfxmpmetadata/containskey)(string) | 确定此字典是否包含指定的键。 |
 | [CopyTo](../../aspose.pdf.facades/pdfxmpmetadata/copyto)(KeyValuePair&lt;string, XmpValue&gt;[], int) |  |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 配置外观。 |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 处理外观。 |
 | [GetEnumerator](../../aspose.pdf.facades/pdfxmpmetadata/getenumerator)() | 获取字典的枚举器对象。 |
 | [GetNamespaceURIByPrefix](../../aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix)(string) | 通过前缀获取命名空间 URI。 |
 | [GetPrefixByNamespaceURI](../../aspose.pdf.facades/pdfxmpmetadata/getprefixbynamespaceuri)(string) | 通过命名空间 URI 获取前缀。 |
 | [GetXmpMetadata](../../aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata#getxmpmetadata)() | 以xml格式获取输入pdf的XmpMetadata。 |
-| [GetXmpMetadata](../../aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata#getxmpmetadata_1)(string) | 根据元名称获取输入pdf的一部分XmpMetadata。 |
+| [GetXmpMetadata](../../aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata#getxmpmetadata_1)(string) | 根据一个元名称获取输入pdf的XmpMetadata的一部分。 |
 | [RegisterNamespaceURI](../../aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri)(string, string) | 注册命名空间 URI。 |
 | [Remove](../../aspose.pdf.facades/pdfxmpmetadata/remove#remove_2)(DefaultMetadataProperties) | 删除具有指定键的元素。 |
 | [Remove](../../aspose.pdf.facades/pdfxmpmetadata/remove#remove)(KeyValuePair&lt;string, XmpValue&gt;) | 从集合中删除键/值对。 |
 | [Remove](../../aspose.pdf.facades/pdfxmpmetadata/remove#remove_1)(string) | 从字典中删除键。 |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | 将 PDF 文档保存到指定的流。 |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | 将 PDF 文档保存到指定的流中。 |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | 将 PDF 文档保存到指定文件。 |
 | [TryGetValue](../../aspose.pdf.facades/pdfxmpmetadata/trygetvalue)(string, out XmpValue) | 尝试在字典中查找键，如果找到则检索值。 |
 

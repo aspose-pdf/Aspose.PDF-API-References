@@ -18,8 +18,8 @@ public sealed class MCRElement : Element
 
 | Имя | Описание |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Получает дочернюю коллекцию объектовElement. |
-| [Content](../../aspose.pdf.logicalstructure/mcrelement/content) { get; } | Получает текстовое содержимое для элемента ссылки на отмеченное содержимое. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Получает дочернюю коллекциюElement объекты. |
+| [Content](../../aspose.pdf.logicalstructure/mcrelement/content) { get; } | Получает текстовое содержимое для элемента ссылки с отмеченным содержимым. |
 | [ImageSrc](../../aspose.pdf.logicalstructure/mcrelement/imagesrc) { get; } | Получает источник изображения для элемента ссылки на отмеченное содержимое. |
 | [MCID](../../aspose.pdf.logicalstructure/mcrelement/mcid) { get; } | Получает MCID объекта ссылки на отмеченное содержимое. |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Получить родительский элемент. |
@@ -28,7 +28,7 @@ public sealed class MCRElement : Element
 
 | Имя | Описание |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | ДобавитьElementк коллекции дочерних элементов. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | ДобавитьElement в коллекцию детей. |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Найти элементы заданного типа |
 | override [ToString](../../aspose.pdf.logicalstructure/mcrelement/tostring)() | Возвращает строку, представляющую текущий объект. |
 

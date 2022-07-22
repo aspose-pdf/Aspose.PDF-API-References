@@ -1,14 +1,14 @@
 ---
 title: NearEquals
 second_title: Aspose.PDF for .NET API 参考
-description: 检查矩形是否接近相等即具有接近相同直到增量的位置和大小
+description: 检查矩形是否接近相等即具有接近相同最多 delta的位置和大小
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/rectangle/nearequals/
 ---
 ## Rectangle.NearEquals method
 
-检查矩形是否接近相等，即具有接近相同（直到增量）的位置和大小。
+检查矩形是否接近相等，即具有接近相同（最多 delta）的位置和大小。
 
 ```csharp
 public bool NearEquals(Rectangle other, double delta)
@@ -21,7 +21,7 @@ public bool NearEquals(Rectangle other, double delta)
 
 ### 返回值
 
-如果矩形相等则为真，否则为假。
+如果矩形等于，则为真，否则为假。
 
 ### 也可以看看
 

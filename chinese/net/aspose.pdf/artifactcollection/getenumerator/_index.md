@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: 获取集合的枚举数
+description: 获取集合的枚举器
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/artifactcollection/getenumerator/
 ---
 ## ArtifactCollection.GetEnumerator method
 
-获取集合的枚举数。
+获取集合的枚举器。
 
 ```csharp
 public IEnumerator<Artifact> GetEnumerator()

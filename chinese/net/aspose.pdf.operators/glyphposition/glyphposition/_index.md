@@ -37,7 +37,7 @@ public GlyphPosition(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
+| text | String | 文本计算。 |
 
 ### 也可以看看
 

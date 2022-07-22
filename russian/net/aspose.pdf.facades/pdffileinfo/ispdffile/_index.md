@@ -1,14 +1,14 @@
 ---
 title: IsPdfFile
 second_title: Aspose.PDF для справочника API .NET
-description: Проверяет является ли исходный ввод допустимым файлом PDF.
+description: Проверяет является ли исходный вход допустимым файлом PDF.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdffileinfo/ispdffile/
 ---
 ## PdfFileInfo.IsPdfFile property
 
-Проверяет, является ли исходный ввод допустимым файлом PDF.
+Проверяет, является ли исходный вход допустимым файлом PDF.
 
 ```csharp
 public bool IsPdfFile { get; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-从 PDF 文档中检索下一个图像。注意:ExtractImage 必须在使用此方法之前调用。
+从 PDF 文档中检索下一个图像。注意：ExtractImage 必须在使用此方法之前调用。
 
 ```csharp
 public bool GetNextImage(string outputFile)
@@ -20,7 +20,7 @@ public bool GetNextImage(string outputFile)
 
 ### 返回值
 
-真为图像已成功提取
+True 是图像被成功提取
 
 ### 例子
 
@@ -45,7 +45,7 @@ while (extractor.HasNextImage())
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-从 PDF 文档中检索具有给定图像格式的下一个图像。注意:ExtractImage 必须在使用此方法之前调用。
+从 PDF 文档中检索具有给定图像格式的下一个图像。注意：ExtractImage 必须在使用此方法之前调用。
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
@@ -58,7 +58,7 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 
 ### 返回值
 
-True 是成功提取图像
+True 是图像被成功提取
 
 ### 也可以看看
 
@@ -107,7 +107,7 @@ public bool GetNextImage(Stream outputStream)
 
 ### 返回值
 
-True in如果图像被成功提取。
+如果图像被成功提取，则为真。
 
 ### 也可以看看
 

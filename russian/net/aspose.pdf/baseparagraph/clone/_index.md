@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF для справочника API .NET
-description: Клонирует этот экземпляр. Виртуальный метод. Всегда возвращайте ноль.
+description: Клонирует этот экземпляр. Виртуальный метод. Всегда возвращайте null.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/baseparagraph/clone/
 ---
 ## BaseParagraph.Clone method
 
-Клонирует этот экземпляр. Виртуальный метод. Всегда возвращайте ноль.
+Клонирует этот экземпляр. Виртуальный метод. Всегда возвращайте null.
 
 ```csharp
 public virtual object Clone()
@@ -16,7 +16,7 @@ public virtual object Clone()
 
 ### Возвращаемое значение
 
-Нуль.
+Нулевой.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ExcludeFontNameList
 second_title: Aspose.PDF для справочника API .NET
-description: Список имен шрифтов встроенных в PDF которые не могут быть встроены в HTML.
+description: Список названий встроенных шрифтов PDF которые не могут быть встроены в HTML.
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf/htmlsaveoptions/excludefontnamelist/
 ---
 ## HtmlSaveOptions.ExcludeFontNameList field
 
-Список имен шрифтов, встроенных в PDF, которые не могут быть встроены в HTML.
+Список названий встроенных шрифтов PDF, которые не могут быть встроены в HTML.
 
 ```csharp
 public string[] ExcludeFontNameList;

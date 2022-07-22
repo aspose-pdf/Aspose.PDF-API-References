@@ -1,14 +1,14 @@
 ---
 title: ExportFdf
 second_title: Aspose.PDF for .NET API 参考
-description: 将 pdf 字段的内容导出到 fdf 流中
+description: 将pdf的字段内容导出到fdf流中
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/form/exportfdf/
 ---
 ## Form.ExportFdf method
 
-将 pdf 字段的内容导出到 fdf 流中。
+将pdf的字段内容导出到fdf流中。
 
 ```csharp
 public void ExportFdf(Stream outputFdfStream)

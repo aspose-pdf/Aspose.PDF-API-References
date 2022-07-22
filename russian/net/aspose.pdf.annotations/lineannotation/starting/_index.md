@@ -1,14 +1,14 @@
 ---
 title: Starting
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает начальную точку линии.
+description: Получает или задает начальную точку линии.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.annotations/lineannotation/starting/
 ---
 ## LineAnnotation.Starting property
 
-Получает или устанавливает начальную точку линии.
+Получает или задает начальную точку линии.
 
 ```csharp
 public Point Starting { get; set; }

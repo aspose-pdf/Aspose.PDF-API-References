@@ -1,14 +1,14 @@
 ---
 title: DefaultAttributeOwner
 second_title: Aspose.PDF для справочника API .NET
-description: Получает объектAttributeOwnerStandard.
+description: получаетAttributeOwnerStandard объект.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/
 ---
 ## StructureElement.DefaultAttributeOwner property
 
-Получает объектAttributeOwnerStandard.
+получаетAttributeOwnerStandard объект.
 
 ```csharp
 public AttributeOwnerStandard DefaultAttributeOwner { get; }
@@ -16,7 +16,7 @@ public AttributeOwnerStandard DefaultAttributeOwner { get; }
 
 ### Стоимость имущества
 
-AttributeOwnerStandardobject.
+AttributeOwnerStandard объект.
 
 ### Смотрите также
 

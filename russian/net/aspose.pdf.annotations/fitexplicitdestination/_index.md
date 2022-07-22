@@ -1,14 +1,14 @@
 ---
 title: FitExplicitDestination
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет явное назначение которое отображает страницу с ее содержимым увеличенным настолько чтобы вся страница поместилась в окне как по горизонтали так и по вертикали. Если требуемые коэффициенты увеличения по горизонтали и вертикали различаются используйте меньший из двух центрируя страницу в окне в другом измерении.
+description: Представляет явный пункт назначения который отображает страницу с ее содержимым увеличенным настолько чтобы вся страница поместилась в окне как по горизонтали так и по вертикали. Если требуемые коэффициенты увеличения по горизонтали и вертикали различаются используйте меньший из двух центрируя страницу в окне в другом измерении.
 type: docs
 weight: 380
 url: /ru/net/aspose.pdf.annotations/fitexplicitdestination/
 ---
 ## FitExplicitDestination class
 
-Представляет явное назначение, которое отображает страницу с ее содержимым, увеличенным настолько, чтобы вся страница поместилась в окне как по горизонтали, так и по вертикали. Если требуемые коэффициенты увеличения по горизонтали и вертикали различаются, используйте меньший из двух, центрируя страницу в окне в другом измерении.
+Представляет явный пункт назначения, который отображает страницу с ее содержимым, увеличенным настолько, чтобы вся страница поместилась в окне как по горизонтали, так и по вертикали. Если требуемые коэффициенты увеличения по горизонтали и вертикали различаются, используйте меньший из двух, центрируя страницу в окне в другом измерении.
 
 ```csharp
 public sealed class FitExplicitDestination : ExplicitDestination
@@ -18,21 +18,21 @@ public sealed class FitExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [FitExplicitDestination](fitexplicitdestination#constructor_2)(int) | Создает явный удаленный пункт назначения. |
+| [FitExplicitDestination](fitexplicitdestination#constructor_2)(int) | Создает удаленный явный пункт назначения. |
 | [FitExplicitDestination](fitexplicitdestination#constructor_1)(Page) | Создает локальный явный пункт назначения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает объект целевой страницы |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер страницы назначения |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает целевую страницу object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер целевой страницы |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример:"1 Fit". |
+| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring)() | Преобразует состояние объекта в строковое значение. Пример: "1 Fit". |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SplitToEnd
 second_title: Aspose.PDF для справочника API .NET
-description: Отделяется от местоположения и сохраняет заднюю часть как новый файл.
+description: Разделяет локацию и сохраняет заднюю часть как новый файл.
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
 ## SplitToEnd(string, int, string) {#splittoend_2}
 
-Отделяется от местоположения и сохраняет заднюю часть как новый файл.
+Разделяет локацию и сохраняет заднюю часть как новый файл.
 
 ```csharp
 public bool SplitToEnd(string inputFile, int location, string outputFile)
@@ -16,13 +16,13 @@ public bool SplitToEnd(string inputFile, int location, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Исходный файл Pdf. |
+| inputFile | String | Исходный PDF-файл. |
 | location | Int32 | Позиция разделения. |
-| outputFile | String | Путь к выходному файлу Pdf. |
+| outputFile | String | Выходной путь к файлу Pdf. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -41,7 +41,7 @@ pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 
 ## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-Разбивается из указанного места и сохраняет заднюю часть как новый файловый поток.
+Разделяет из указанного места и сохраняет заднюю часть как новый файл Stream.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -49,13 +49,13 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный файл Pdf Поток. |
+| inputStream | Stream | Исходный файл Pdf Stream. |
 | location | Int32 | Позиция разделения. |
-| outputStream | Stream | Выходной файл Pdf Поток. |
+| outputStream | Stream | Выходной файл Pdf Stream. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 

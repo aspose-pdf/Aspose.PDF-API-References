@@ -1,14 +1,14 @@
 ---
 title: FillImageField
 second_title: Aspose.PDF для справочника API .NET
-description: Вставляет изображение в существующее поле кнопки как его внешний вид в соответствии с его полным именем поля.
+description: Вставляет изображение в существующее поле кнопки в качестве внешнего вида в соответствии с его полным именем поля.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/form/fillimagefield/
 ---
 ## FillImageField(string, string) {#fillimagefield_1}
 
-Вставляет изображение в существующее поле кнопки как его внешний вид в соответствии с его полным именем поля.
+Вставляет изображение в существующее поле кнопки в качестве внешнего вида в соответствии с его полным именем поля.
 
 ```csharp
 public void FillImageField(string fieldName, string imageFileName)
@@ -17,7 +17,7 @@ public void FillImageField(string fieldName, string imageFileName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fieldName | String | Полное имя поля кнопки изображения. |
-| imageFileName | String | Путь к файлу изображения, относительный и абсолютный, оба в порядке. |
+| imageFileName | String | Путь к файлу изображения, относительный и абсолютный, в порядке. |
 
 ### Примеры
 
@@ -37,7 +37,7 @@ form.Save();
 
 ## FillImageField(string, Stream) {#fillimagefield}
 
-Перегружает функцию FillImageField. Вход представляет собой поток изображения.
+Перегружает функцию FillImageField. Ввод представляет собой поток изображений.
 
 ```csharp
 public void FillImageField(string fieldName, Stream imageStream)

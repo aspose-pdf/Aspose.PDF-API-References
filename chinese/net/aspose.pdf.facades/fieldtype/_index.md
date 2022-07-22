@@ -23,12 +23,12 @@ public enum FieldType
 | ListBox | `2` | 列表框字段。 |
 | Radio | `3` | 单选按钮字段。 |
 | CheckBox | `4` | 复选框字段。 |
-| PushButton | `5` | 按钮字段。 |
+| PushButton | `5` | 按钮字段. |
 | MultiLineText | `6` | 多行文本字段。 |
-| Barcode | `7` | 条形码字段。 |
+| Barcode | `7` | 条形码字段. |
 | InvalidNameOrType | `8` | 无效的字段类型。 |
-| Signature | `9` | 签名字段。 |
-| Image | `10` | 图像字段。 |
+| Signature | `9` | 签名字段. |
+| Image | `10` | 图像字段. |
 | Numeric | `11` | 数字字段 |
 | DateTime | `12` | 日期/时间字段 |
 

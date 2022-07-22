@@ -1,14 +1,14 @@
 ---
 title: DefaultFont
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置默认替换字体 当没有找到其他有效替换但初始字体属于目标替换类别时使用该字体FontCategoriesaspose.pdf.text/systemfontssubstitution/fontcategories
+description: 获取或设置默认替换字体 当没有找到其他有效替换但初始字体属于目标替换类别时使用该字体FontCategoriesaspose.pdf.text/systemfontssubstitution/fontcategories .
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/systemfontssubstitution/defaultfont/
 ---
 ## SystemFontsSubstitution.DefaultFont property
 
-获取或设置默认替换字体。 当没有找到其他有效替换但初始字体属于目标替换类别时使用该字体（[`FontCategories`](../fontcategories)）。
+获取或设置默认替换字体。 当没有找到其他有效替换但初始字体属于目标替换类别时使用该字体（[`FontCategories`](../fontcategories) ).
 
 ```csharp
 public Font DefaultFont { get; set; }

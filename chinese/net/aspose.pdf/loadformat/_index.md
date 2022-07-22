@@ -25,11 +25,11 @@ public enum LoadFormat
 | XSLFO | `4` | 表示以 XSLFO 格式加载文档 |
 | PCL | `5` | 表示以 PCL 格式加载文档 |
 | XPS | `6` | 表示以 XPS 格式加载文档 |
-| TEX | `7` | 表示以 TEX 格式加载文档 - Latex 文本编辑器的格式 |
+| TEX | `7` | 表示加载 TEX 格式的文档 - Latex 文本编辑器的格式 |
 | SVG | `8` | 表示以 SVG 格式加载文档 - Latex 文本编辑器的格式 |
 | MHT | `9` | 表示以 MHT 格式（即打包的 HTML 格式）加载文档 |
-| PS | `10` | 表示以 PS 格式（PostScript 文档格式）加载文档 |
-| MD | `11` | 表示加载文档为MD格式（markdown）。 |
+| PS | `10` | 表示以 PS 格式加载文档（PostScript 文档的格式） |
+| MD | `11` | 表示加载文档是MD格式（markdown）。 |
 | TXT | `12` | 表示加载文档为TXT格式。 |
 | APS | `13` | 表示以 APS 格式加载文档。 |
 | PDFXML | `14` | XML 格式的内部 PDF 文档结构。 |

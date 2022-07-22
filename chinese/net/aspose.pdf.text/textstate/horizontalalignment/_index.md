@@ -16,7 +16,7 @@ public virtual HorizontalAlignment HorizontalAlignment { get; set; }
 
 ### 评论
 
-HorizontalAlignment.None 等于 HorizontalAlignment.Left。 请注意，TextState.HorizontalAlignment 属性仅适用于新文档生成方案。
+HorizontalAlignment.None 等于 HorizontalAlignment.Left. 请注意，TextState.HorizontalAlignment 属性仅适用于新的文档生成方案。
 
 ### 也可以看看
 

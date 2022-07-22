@@ -1,14 +1,14 @@
 ---
 title: ChangeAfterResize
 second_title: Aspose.PDF для справочника API .NET
-description: Обновляет точки в вершинах в соответствии с преобразованием матрицы.
+description: Обновляет точки в вершинах в соответствии с матричным преобразованием.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/polyannotation/changeafterresize/
 ---
 ## PolyAnnotation.ChangeAfterResize method
 
-Обновляет точки в вершинах в соответствии с преобразованием матрицы.
+Обновляет точки в вершинах в соответствии с матричным преобразованием.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)

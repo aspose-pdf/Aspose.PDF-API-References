@@ -16,7 +16,7 @@ public void Add(FontSource fontSource)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontSource | FontSource | 字体源。 |
+| fontSource | FontSource | 字体来源。 |
 
 ### 也可以看看
 

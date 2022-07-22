@@ -1,14 +1,14 @@
 ---
 title: ExtensionFields
 second_title: Aspose.PDF for .NET API 参考
-description: 获取扩展字段字典
+description: 获取扩展字段的字典
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/metadata/extensionfields/
 ---
 ## Metadata.ExtensionFields property
 
-获取扩展字段字典。
+获取扩展字段的字典。
 
 ```csharp
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }

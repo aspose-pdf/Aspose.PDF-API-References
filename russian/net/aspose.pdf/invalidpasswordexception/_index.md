@@ -18,9 +18,9 @@ public sealed class InvalidPasswordException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidPasswordException](invalidpasswordexception#constructor)(Exception) | Инициализирует новый экземпляр класса[`InvalidPasswordException`](../invalidpasswordexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [InvalidPasswordException](invalidpasswordexception#constructor_1)(string) | Инициализирует новый экземпляр класса[`InvalidPasswordException`](../invalidpasswordexception). |
-| [InvalidPasswordException](invalidpasswordexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`InvalidPasswordException`](../invalidpasswordexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPasswordException](invalidpasswordexception#constructor)(Exception) | Инициализирует новый экземпляр[`InvalidPasswordException`](../invalidpasswordexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPasswordException](invalidpasswordexception#constructor_1)(string) | Инициализирует новый экземпляр[`InvalidPasswordException`](../invalidpasswordexception) класс. |
+| [InvalidPasswordException](invalidpasswordexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`InvalidPasswordException`](../invalidpasswordexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

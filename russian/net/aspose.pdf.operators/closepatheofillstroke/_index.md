@@ -1,14 +1,14 @@
 ---
 title: ClosePathEOFillStroke
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор b закрытие заполнение и обводка пути по правилу чет-нечет.
+description: Класс представляющий оператор b закрытие заполнение и обводка контура по правилу чет-нечет.
 type: docs
 weight: 4980
 url: /ru/net/aspose.pdf.operators/closepatheofillstroke/
 ---
 ## ClosePathEOFillStroke class
 
-Класс, представляющий оператор b* (закрытие, заполнение и обводка пути по правилу чет-нечет).
+Класс, представляющий оператор b* (закрытие, заполнение и обводка контура по правилу чет-нечет).
 
 ```csharp
 public class ClosePathEOFillStroke : Operator
@@ -30,7 +30,7 @@ public class ClosePathEOFillStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

@@ -38,7 +38,7 @@ public void RemoveAllText(Page page, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Объект страницы документа PDF. |
-| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle)для удаления текста внутри. |
+| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle) чтобы удалить текст внутри. |
 
 ### Смотрите также
 
@@ -60,7 +60,7 @@ public void RemoveAllText(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Объект документа PDF. |
+| document | Document | Объект PDF-документа. |
 
 ### Смотрите также
 

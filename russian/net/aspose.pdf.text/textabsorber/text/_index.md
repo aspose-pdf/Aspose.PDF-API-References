@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF для справочника API .NET
-description: Получает извлеченный текст которыйTextAbsorberaspose.pdf.text/textabsorberизвлекает из документа или страницы PDF.
+description: Получает извлеченный текстTextAbsorberaspose.pdf.text/textabsorber выдержки из документа PDF или страницы.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textabsorber/text/
 ---
 ## TextAbsorber.Text property
 
-Получает извлеченный текст, который[`TextAbsorber`](../../textabsorber)извлекает из документа или страницы PDF.
+Получает извлеченный текст,[`TextAbsorber`](../../textabsorber) выдержки из документа PDF или страницы.
 
 ```csharp
 public virtual string Text { get; }
@@ -20,16 +20,16 @@ public virtual string Text { get; }
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения text
-extAbsorber absorber = new TextAbsorber();
+// создаем объект TextAbsorber для извлечения текста
+TextAbsorber absorber = new TextAbsorber();
 
-// принимаем поглотитель для всех страниц документа pages
-oc.Pages.Accept(absorber);
+// принимаем поглотитель для всех страниц документа
+doc.Pages.Accept(absorber);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 
 ```
 

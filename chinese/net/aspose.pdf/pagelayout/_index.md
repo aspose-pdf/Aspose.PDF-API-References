@@ -23,7 +23,7 @@ public enum PageLayout
 | TwoColumnLeft | `2` | 分两列显示页面，奇数页在左边。 |
 | TwoColumnRight | `3` | 分两列显示页面，奇数页在右边。 |
 | TwoPageLeft | `4` | 一次显示两页，奇数页在左边。 |
-| TwoPageRight | `5` | 一次显示两页，奇数页在右边。 |
+| TwoPageRight | `5` | 一次显示两页，右边是奇数页。 |
 | Default | `6` | 默认布局。 |
 
 ### 也可以看看

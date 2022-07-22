@@ -1,14 +1,14 @@
 ---
 title: EmfDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 表示有助于将 pdf 文档页面保存到 emf 中的图像设备
+description: 表示有助于将 pdf 文档页面保存到 emf 的图像设备
 type: docs
 weight: 1680
 url: /zh/net/aspose.pdf.devices/emfdevice/
 ---
 ## EmfDevice class
 
-表示有助于将 pdf 文档页面保存到 emf 中的图像设备。
+表示有助于将 pdf 文档页面保存到 emf 的图像设备。
 
 ```csharp
 public sealed class EmfDevice : ImageDevice
@@ -18,12 +18,12 @@ public sealed class EmfDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EmfDevice](emfdevice#constructor)() | 使用写入 emf 的光栅图像的默认分辨率初始化[`EmfDevice`](../emfdevice)类的新实例。 |
-| [EmfDevice](emfdevice#constructor_2)(PageSize) | 使用提供的页面大小 初始化[`EmfDevice`](../emfdevice)类的新实例和写入 emf 的光栅图像的默认分辨率 (=150) |
-| [EmfDevice](emfdevice#constructor_1)(Resolution) | 初始化[`EmfDevice`](../emfdevice)类的新实例。  写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../resolution)班级。 |
-| [EmfDevice](emfdevice#constructor_4)(int, int) | 使用提供的图像尺寸 初始化[`EmfDevice`](../emfdevice)类的新实例和写入 emf 的光栅图像的默认分辨率 (=150) |
-| [EmfDevice](emfdevice#constructor_3)(PageSize, Resolution) | 使用提供的页面大小 初始化[`JpegDevice`](../jpegdevice)类的新实例和写入 emf 的光栅图像的分辨率。 |
-| [EmfDevice](emfdevice#constructor_5)(int, int, Resolution) | 使用提供的图像尺寸 初始化[`JpegDevice`](../jpegdevice)类的新实例和写入 emf 的光栅图像的分辨率。 |
+| [EmfDevice](emfdevice#constructor)() | 初始化[`EmfDevice`](../emfdevice)具有写入 emf. 的光栅图像默认分辨率的类 |
+| [EmfDevice](emfdevice#constructor_2)(PageSize) | 初始化[`EmfDevice`](../emfdevice)具有提供的页面大小、 和写入 emf (=150) 的光栅图像的默认分辨率的类 |
+| [EmfDevice](emfdevice#constructor_1)(Resolution) | 初始化[`EmfDevice`](../emfdevice)类.  写入 emf 的光栅图像的分辨率，请参见[`Resolution`](../resolution)类. |
+| [EmfDevice](emfdevice#constructor_4)(int, int) | 初始化[`EmfDevice`](../emfdevice)具有提供的图像尺寸、 和写入 emf (=150) 的光栅图像的默认分辨率的类 |
+| [EmfDevice](emfdevice#constructor_3)(PageSize, Resolution) | 初始化[`JpegDevice`](../jpegdevice)类具有提供的页面大小、 和写入 emf. 的光栅图像的分辨率 |
+| [EmfDevice](emfdevice#constructor_5)(int, int, Resolution) | 初始化[`JpegDevice`](../jpegdevice)类具有提供的图像尺寸、 和写入 emf. 的光栅图像的分辨率 |
 
 ## 特性
 

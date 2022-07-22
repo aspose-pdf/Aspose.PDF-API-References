@@ -1,14 +1,14 @@
 ---
 title: G
 second_title: Aspose.PDF for .NET API 参考
-description: G 变换矩阵的成员
+description: 变换矩阵的 G 成员
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/matrix3d/g/
 ---
 ## Matrix3D.G property
 
-G 变换矩阵的成员。
+变换矩阵的 G 成员。
 
 ```csharp
 public double G { get; set; }

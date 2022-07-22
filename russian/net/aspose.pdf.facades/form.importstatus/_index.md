@@ -1,14 +1,14 @@
 ---
 title: Form.ImportStatus
 second_title: Aspose.PDF для справочника API .NET
-description: Состояние импортированного поля
+description: Статус импортированного поля
 type: docs
 weight: 2320
 url: /ru/net/aspose.pdf.facades/form.importstatus/
 ---
 ## Form.ImportStatus enumeration
 
-Состояние импортированного поля
+Статус импортированного поля
 
 ```csharp
 public enum ImportStatus

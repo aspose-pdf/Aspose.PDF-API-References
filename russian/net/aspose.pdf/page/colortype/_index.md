@@ -1,14 +1,14 @@
 ---
 title: ColorType
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает цветотип страниц на основании информации полученной от операторов SetColor изображений и форм.
+description: Задает цветотип страниц на основании информации полученной от операторов SetColor изображений и форм.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/page/colortype/
 ---
 ## Page.ColorType property
 
-Устанавливает цветотип страниц на основании информации, полученной от операторов SetColor, изображений и форм.
+Задает цветотип страниц на основании информации, полученной от операторов SetColor, изображений и форм.
 
 ```csharp
 public ColorType ColorType { get; }

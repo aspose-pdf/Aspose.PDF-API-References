@@ -16,7 +16,7 @@ public XmpValue this[string key] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| key | 密钥名称。 |
+| key | 键名。 |
 
 ### 返回值
 

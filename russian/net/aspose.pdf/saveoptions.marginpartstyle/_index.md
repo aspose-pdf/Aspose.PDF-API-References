@@ -18,8 +18,8 @@ public class MarginPartStyle
 
 | Имя | Описание |
 | --- | --- |
-| [MarginPartStyle](marginpartstyle#constructor)(bool) | Создает экземпляр класса MarginPartStyle и инициализирует его значение в пунктах |
-| [MarginPartStyle](marginpartstyle#constructor_1)(int) | Создает экземпляр класса MarginPartStyle и устанавливает его значение в пунктах |
+| [MarginPartStyle](marginpartstyle#constructor)(bool) | Создает экземпляр MarginPartStyle class и инициализирует его значение в пунктах |
+| [MarginPartStyle](marginpartstyle#constructor_1)(int) | Создает экземпляр MarginPartStyle class и устанавливает его значение в пунктах |
 
 ## Характеристики
 

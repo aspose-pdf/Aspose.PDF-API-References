@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает истину если данный предмет присутствует в коллекции.
+description: Возвращает true если данный элемент присутствует в коллекции.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/actioncollection/contains/
 ---
 ## ActionCollection.Contains method
 
-Возвращает истину, если данный предмет присутствует в коллекции.
+Возвращает true, если данный элемент присутствует в коллекции.
 
 ```csharp
 public bool Contains(PdfAction item)
@@ -20,7 +20,7 @@ public bool Contains(PdfAction item)
 
 ### Возвращаемое значение
 
-Не реализовано.
+Не реализованы.
 
 ### Смотрите также
 

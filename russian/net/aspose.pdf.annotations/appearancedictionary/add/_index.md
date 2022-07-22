@@ -30,7 +30,7 @@ public void Add(string key, XForm value)
 
 ## Add(KeyValuePair&lt;string, XForm&gt;) {#add}
 
-Добавляет в словарь пару с ключом и значением.
+Добавляет пару с ключом и значением в словарь.
 
 ```csharp
 public void Add(KeyValuePair<string, XForm> item)
@@ -38,7 +38,7 @@ public void Add(KeyValuePair<string, XForm> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Добавляемый элемент. |
+| item | KeyValuePair`2 | Товар, который нужно добавить. |
 
 ### Смотрите также
 

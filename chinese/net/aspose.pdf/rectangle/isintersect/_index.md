@@ -16,7 +16,7 @@ public bool IsIntersect(Rectangle otherRect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| otherRect | Rectangle | 将使用指定的矩形测试交点。 |
+| otherRect | Rectangle | 交叉点将使用指定的矩形进行测试。 |
 
 ### 返回值
 

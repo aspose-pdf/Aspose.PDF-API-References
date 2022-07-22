@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Всегда выдает NotImplementedException
+description: Всегда выбрасываетНереализованное исключение
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/outlinecollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Всегда выдает NotImplementedException
+Всегда выбрасываетНереализованное исключение
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -16,11 +16,11 @@ public override bool Remove(OutlineItemCollection item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | OutlineItemCollection | Объект для поиска в коллекции |
+| item | OutlineItemCollection | Объект, который нужно найти в коллекции |
 
 ### Возвращаемое значение
 
-NotImplementedException
+Нереализованное исключение
 
 ### Смотрите также
 

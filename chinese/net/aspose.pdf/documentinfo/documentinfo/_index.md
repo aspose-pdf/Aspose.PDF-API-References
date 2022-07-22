@@ -16,7 +16,7 @@ public DocumentInfo(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 该文档的信息将用于初始化。 |
+| document | Document | 本文档的信息将用于初始化。 |
 
 ### 也可以看看
 

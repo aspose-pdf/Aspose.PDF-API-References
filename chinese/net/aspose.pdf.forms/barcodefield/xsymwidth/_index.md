@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.forms/barcodefield/xsymwidth/
 ---
 ## BarcodeField.XSymWidth property
 
-获取两个条码模块之间的水平距离（以像素为单位）。
+获取两个条码模块之间的水平距离，以像素为单位。
 
 ```csharp
 public int XSymWidth { get; }

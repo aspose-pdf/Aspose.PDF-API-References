@@ -1,14 +1,14 @@
 ---
 title: Cells
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет набор ячеек строки.
+description: Представляет набор ячеек row.
 type: docs
 weight: 1450
 url: /ru/net/aspose.pdf/cells/
 ---
 ## Cells class
 
-Представляет набор ячеек строки.
+Представляет набор ячеек row.
 
 ```csharp
 public sealed class Cells : IEnumerable<Cell>
@@ -35,7 +35,7 @@ public sealed class Cells : IEnumerable<Cell>
 | [Add](../../aspose.pdf/cells/add#add_3)(Cell) | Добавить ячейку в коллекцию. |
 | [Add](../../aspose.pdf/cells/add#add_1)(string) | Добавить ячейку в коллекцию. |
 | [Add](../../aspose.pdf/cells/add#add_2)(string, TextState) | Добавить ячейку в коллекцию. |
-| [Dispose](../../aspose.pdf/cells/dispose)() | Метод удаления |
+| [Dispose](../../aspose.pdf/cells/dispose)() | Метод утилизации |
 | [GetEnumerator](../../aspose.pdf/cells/getenumerator)() | Получает перечислитель коллекции. |
 | [Insert](../../aspose.pdf/cells/insert)(int, Cell) | Вставить ячейку в коллекцию. |
 | [Remove](../../aspose.pdf/cells/remove#remove)(Cell) | Удалить набор ячеек из коллекции. |

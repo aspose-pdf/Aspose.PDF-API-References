@@ -1,14 +1,14 @@
 ---
 title: FillStroke
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор B заполнение и обводка пути с использованием ненулевого правила намотки
+description: Класс представляющий оператор B путь заполнения и обводки с использованием ненулевого правила намотки
 type: docs
 weight: 5160
 url: /ru/net/aspose.pdf.operators/fillstroke/
 ---
 ## FillStroke class
 
-Класс, представляющий оператор B (заполнение и обводка пути с использованием ненулевого правила намотки)
+Класс, представляющий оператор B (путь заполнения и обводки с использованием ненулевого правила намотки)
 
 ```csharp
 public class FillStroke : Operator
@@ -30,7 +30,7 @@ public class FillStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/fillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/fillstroke/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

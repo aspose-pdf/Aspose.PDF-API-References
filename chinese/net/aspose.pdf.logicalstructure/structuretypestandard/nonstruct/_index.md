@@ -1,14 +1,14 @@
 ---
 title: NonStruct
 second_title: Aspose.PDF for .NET API 参考
-description: 非结构元素没有内在结构意义的分组元素它仅用于分组目的这种类型的元素与分区结构类型 Div的不同之处在于它不应被解释或导出为其他文档格式但是它的后代应该被正常处理
+description: 非结构元素没有内在结构意义的分组元素它仅用于分组目的这种类型的元素与分区结构类型 Div的不同之处在于它不应被解释或导出为其他文档格式但是它的后代应正常处理
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/nonstruct/
 ---
 ## StructureTypeStandard.NonStruct field
 
-（非结构元素）没有内在结构意义的分组元素；它仅用于分组目的。这种类型的元素与分区（结构类型 Div）的不同之处在于它不应被解释或导出为其他文档格式；但是，它的后代应该被正常处理。
+（非结构元素）没有内在结构意义的分组元素；它仅用于分组目的。这种类型的元素与分区（结构类型 Div）的不同之处在于它不应被解释或导出为其他文档格式；但是，它的后代应正常处理。
 
 ```csharp
 public static readonly StructureTypeStandard NonStruct;

@@ -18,8 +18,8 @@ public enum ExtractImageMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| DefinedInResources | `0` | 定义图像提取模式，在该模式中提取特定页面资源中定义的所有图像。 |
-| ActuallyUsed | `1` | 定义图像提取模式，其中仅提取实际显示在页面上的图像。 |
+| DefinedInResources | `0` | 定义图像提取模式，其中提取特定页面资源中定义的所有图像。 |
+| ActuallyUsed | `1` | 定义图像提取模式，其中仅提取页面上实际显示的图像。 |
 
 ### 也可以看看
 

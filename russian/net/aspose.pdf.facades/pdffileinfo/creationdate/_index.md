@@ -1,14 +1,14 @@
 ---
 title: CreationDate
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает информацию о дате создания PDF-документа.
+description: Получает или задает информацию о дате создания документа PDF.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdffileinfo/creationdate/
 ---
 ## PdfFileInfo.CreationDate property
 
-Получает или задает информацию о дате создания PDF-документа.
+Получает или задает информацию о дате создания документа PDF.
 
 ```csharp
 public string CreationDate { get; set; }

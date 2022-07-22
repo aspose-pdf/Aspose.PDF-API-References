@@ -22,7 +22,7 @@ public void RemoveAt(int index)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| IndexOutOfRangeException | 无效索引:索引应在 [1..n] 范围内，其中 n 等于查看次数。 |
+| IndexOutOfRangeException | 无效索引：索引应在 [1..n] 范围内，其中 n 等于查看次数。 |
 
 ### 也可以看看
 

@@ -16,11 +16,11 @@ public XForm this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс XFormCollection. Нумерация XForm начинается с 1 |
+| index | Индекс XFormCollection. Нумерация XForms начинается с 1 |
 
 ### Возвращаемое значение
 
-Retreived XForm
+Полученная XForm
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ Retreived XForm
 
 ## XFormCollection indexer (2 of 2)
 
-Возвращает XForm по его имени. Исключение выдается, если форма XForm с указанным именем не найдена.
+Возвращает XForm по имени. Исключение выдается, если форма XForm с указанным именем не найдена.
 
 ```csharp
 public XForm this[string name] { get; }
@@ -41,7 +41,7 @@ public XForm this[string name] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя XForm |
+| name | Имя X-формы |
 
 ### Смотрите также
 

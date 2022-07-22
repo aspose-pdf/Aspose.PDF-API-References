@@ -18,7 +18,7 @@ public sealed class DocMDPSignature
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DocMDPSignature](docmdpsignature)(Signature, DocMDPAccessPermissions) | 初始化[`DocMDPSignature`](../docmdpsignature)类的新实例。 |
+| [DocMDPSignature](docmdpsignature)(Signature, DocMDPAccessPermissions) | 初始化[`DocMDPSignature`](../docmdpsignature)类. |
 
 ## 特性
 

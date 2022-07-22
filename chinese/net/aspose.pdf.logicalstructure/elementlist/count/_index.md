@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ElementList 中元素的数量
+description: 获取 ElementList 中的元素个数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/elementlist/count/
 ---
 ## ElementList.Count property
 
-获取 ElementList 中元素的数量。
+获取 ElementList 中的元素个数。
 
 ```csharp
 public abstract int Count { get; }

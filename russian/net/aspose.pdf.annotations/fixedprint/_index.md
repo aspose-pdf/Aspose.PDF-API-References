@@ -18,9 +18,9 @@ public class FixedPrint
 
 | Имя | Описание |
 | --- | --- |
-| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation) { get; set; } | Получает или устанавливает горизонтальное смещение. |
+| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation) { get; set; } | Получает или задает горизонтальное смещение. |
 | [Matrix](../../aspose.pdf.annotations/fixedprint/matrix) { get; set; } | Получает или задает значение матрицы. |
-| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation) { get; set; } | Получает или задает вертикальное смещение. |
+| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation) { get; set; } | Получает или задает вертикальный перевод. |
 
 ### Смотрите также
 

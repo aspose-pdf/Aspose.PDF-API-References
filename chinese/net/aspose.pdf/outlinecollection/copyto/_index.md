@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API 参考
-description: 将大纲项复制到 System.Array从特定的 System.Array 索引开始
+description: 将大纲项复制到 System.Array从特定 System.Array 索引开始
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/outlinecollection/copyto/
 ---
 ## OutlineCollection.CopyTo method
 
-将大纲项复制到 System.Array，从特定的 System.Array 索引开始。
+将大纲项复制到 System.Array，从特定 System.Array 索引开始。
 
 ```csharp
 public override void CopyTo(OutlineItemCollection[] array, int index)

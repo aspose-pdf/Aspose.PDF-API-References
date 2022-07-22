@@ -1,14 +1,14 @@
 ---
 title: LineHeight_Auto
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут LineHeightAuto  корректировка значения BaselineShift не производится.
+description: Атрибут LineHeight Auto  корректировка значения BaselineShift не должна выполняться.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.logicalstructure/attributename/lineheight_auto/
 ---
 ## AttributeName.LineHeight_Auto field
 
-Атрибут LineHeight:Auto — корректировка значения BaselineShift не производится.
+Атрибут LineHeight: Auto — корректировка значения BaselineShift не должна выполняться.
 
 ```csharp
 public static readonly AttributeName LineHeight_Auto;

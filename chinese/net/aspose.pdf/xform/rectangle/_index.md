@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置窗体的矩形
+description: 获取或设置表格的矩形
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/xform/rectangle/
 ---
 ## XForm.Rectangle property
 
-获取或设置窗体的矩形。
+获取或设置表格的矩形。
 
 ```csharp
 public Rectangle Rectangle { get; }

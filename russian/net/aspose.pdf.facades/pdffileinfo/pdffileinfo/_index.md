@@ -53,7 +53,7 @@ public PdfFileInfo(Stream inputStream, string password)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Поток, в который помещается входной файл. |
-| пароль | String | Пароль для доступа к файлу. |
+| password | String | Пароль для доступа к файлу. |
 
 ### Смотрите также
 
@@ -94,7 +94,7 @@ public PdfFileInfo(string inputFile, string password)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Имя файла, содержащего входной файл. |
-| пароль | String | Пароль для доступа к файлу. |
+| password | String | Пароль для доступа к файлу. |
 
 ### Смотрите также
 
@@ -106,7 +106,7 @@ public PdfFileInfo(string inputFile, string password)
 
 ## PdfFileInfo(Document) {#constructor_1}
 
-Инициализирует новый[`PdfFileInfo`](../../pdffileinfo)объект на основе*document*.
+Инициализирует новый[`PdfFileInfo`](../../pdffileinfo) объект на базе*document* .
 
 ```csharp
 public PdfFileInfo(Document document)
@@ -114,7 +114,7 @@ public PdfFileInfo(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ в формате PDF. |
+| document | Document | Документ пдф. |
 
 ### Смотрите также
 

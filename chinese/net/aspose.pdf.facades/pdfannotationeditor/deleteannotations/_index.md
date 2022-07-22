@@ -33,7 +33,7 @@ editor.Save("example_out.pdf");
 
 ## DeleteAnnotations(string) {#deleteannotations_1}
 
-删除文档中所有指定类型的注解。
+删除文档中指定类型的所有注解。
 
 ```csharp
 public void DeleteAnnotations(string annotType)
@@ -41,7 +41,7 @@ public void DeleteAnnotations(string annotType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotType | String | 注释的类型将被删除。 |
+| annotType | String | 注释类型将被删除。 |
 
 ### 例子
 

@@ -1,14 +1,14 @@
 ---
 title: CharacterSpacing
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает межсимвольный интервал в тексте представленном объектомTextFragmentaspose.pdf.text/textfragment.
+description: Получает или задает межсимвольный интервал в тексте представленномTextFragmentaspose.pdf.text/textfragment объект.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textfragmentstate/characterspacing/
 ---
 ## TextFragmentState.CharacterSpacing property
 
-Получает или задает межсимвольный интервал в тексте, представленном объектом[`TextFragment`](../../textfragment).
+Получает или задает межсимвольный интервал в тексте, представленном[`TextFragment`](../../textfragment) объект.
 
 ```csharp
 public override float CharacterSpacing { get; set; }

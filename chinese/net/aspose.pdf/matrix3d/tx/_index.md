@@ -1,14 +1,14 @@
 ---
 title: Tx
 second_title: Aspose.PDF for .NET API 参考
-description: 转换矩阵的 Tx 成员
+description: 变换矩阵的 Tx 成员
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/matrix3d/tx/
 ---
 ## Matrix3D.Tx property
 
-转换矩阵的 Tx 成员。
+变换矩阵的 Tx 成员。
 
 ```csharp
 public double Tx { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Action
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置激活注释时要执行的操作
+description: 获取或设置激活注解时要执行的操作
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/screenannotation/action/
 ---
 ## ScreenAnnotation.Action property
 
-获取或设置激活注释时要执行的操作。
+获取或设置激活注解时要执行的操作。
 
 ```csharp
 public PdfAction Action { get; }

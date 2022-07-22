@@ -34,8 +34,8 @@ public sealed class ActionCollection : ICollection<PdfAction>
 | [CopyTo](../../aspose.pdf.annotations/actioncollection/copyto)(PdfAction[], int) | 将操作数组复制到集合中。 |
 | [Delete](../../aspose.pdf.annotations/actioncollection/delete#delete)() | 删除所有动作。 |
 | [Delete](../../aspose.pdf.annotations/actioncollection/delete#delete_1)(int) | 按索引从集合中删除操作。 |
-| [GetEnumerator](../../aspose.pdf.annotations/actioncollection/getenumerator)() | 返回收集的枚举数。 |
-| [Remove](../../aspose.pdf.annotations/actioncollection/remove)(PdfAction) | 从集合中移除项目。 |
+| [GetEnumerator](../../aspose.pdf.annotations/actioncollection/getenumerator)() | 返回集合的枚举数。 |
+| [Remove](../../aspose.pdf.annotations/actioncollection/remove)(PdfAction) | 从集合中删除项目。 |
 
 ### 也可以看看
 

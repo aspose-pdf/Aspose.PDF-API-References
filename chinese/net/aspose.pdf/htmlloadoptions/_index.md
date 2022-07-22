@@ -19,7 +19,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [HtmlLoadOptions](htmlloadoptions#constructor)() | 创建用于将 html 转换为具有空基本路径的 pdf 文档的加载选项。 |
-| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) | 创建用于将 html 转换为具有已定义基本路径的 pdf 文档的加载选项。 |
+| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) | 创建用于将 html 转换为具有定义的基本路径的 pdf 文档的加载选项。 |
 
 ## 特性
 
@@ -27,20 +27,20 @@ public sealed class HtmlLoadOptions : LoadOptions
 | --- | --- |
 | [BasePath](../../aspose.pdf/htmlloadoptions/basepath) { get; } | html 文件的基本路径/url。 |
 | [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype) { get; set; } | 获取或设置渲染期间可能使用的媒体类型。 |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | 获取或设置指定在解析时用于此文档的编码的属性。如果此属性为 null，则编码将根据文档字符集属性确定。 |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | 获取或设置在解析时指定用于此文档的编码的属性。如果此属性为空，则编码将根据文档字符集属性确定。 |
 | [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } | 获取或设置嵌入结果文档的字体 |
 | [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage) { get; set; } | 获取或设置将所有文档呈现为单页 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
 | [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo) { get; set; } | 获取或设置文档页面信息 |
 | [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption) { get; set; } | 获取或设置布局选项。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | 有时有必要避免使用外部资源（如图像或 CSS）的内部加载器 并提供自定义方法来获取请求的资源某处。例如，在 cloude 中使用 Aspose.PDF 的 时，无法直接访问引用的文件:在这种情况下，应使用一些自定义代码将 放入特殊方法中，并委托引用该方法应分配给该属性。 |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | 如果加载 HTML 中引用的外部数据需要凭据，您可以将它们放入此参数 - 它们将被使用 在加载外部资源时 |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | 有时有必要避免使用外部资源（如图像或 CSSes）的内部加载器 并提供从某处获取请求资源的自定义方法。例如，在 cloude 中使用 Aspose.PDF 的 时，不可能直接访问引用的文件：在这种情况下，应该使用一些自定义代码 put 到特殊方法中，并且应该将引用该方法的委托分配给该属性。 |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | 如果加载 HTML 中引用的外部数据 需要凭据，您可以将它们放入此参数 - 它们将在加载外部资源时使用 |
 
 ### 也可以看看
 

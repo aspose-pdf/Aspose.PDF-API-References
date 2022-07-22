@@ -1,14 +1,14 @@
 ---
 title: PDF3DArtwork
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DArtworkaspose.pdf.annotations/pdf3dartwork.
+description: Инициализирует новый экземплярPDF3DArtworkaspose.pdf.annotations/pdf3dartwork класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/pdf3dartwork/
 ---
 ## PDF3DArtwork(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PDF3DArtwork`](../../pdf3dartwork).
+Инициализирует новый экземпляр[`PDF3DArtwork`](../../pdf3dartwork) класс.
 
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme lightingScheme, 
@@ -18,9 +18,9 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ. |
-| content | PDF3DContent | Содержимое. |
+| content | PDF3DContent | Контент. |
 | lightingScheme | PDF3DLightingScheme | Схема освещения. |
-| renderMode | PDF3DRenderMode | Режим рендеринга. |
+| renderMode | PDF3DRenderMode | Режим рендера. |
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 
 ## PDF3DArtwork(Document, PDF3DContent) {#constructor}
 
-Инициализирует новый экземпляр класса[`PDF3DArtwork`](../../pdf3dartwork).
+Инициализирует новый экземпляр[`PDF3DArtwork`](../../pdf3dartwork) класс.
 
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content)
@@ -45,7 +45,7 @@ public PDF3DArtwork(Document doc, PDF3DContent content)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ. |
-| content | PDF3DContent | Содержимое. |
+| content | PDF3DContent | Контент. |
 
 ### Смотрите также
 

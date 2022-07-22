@@ -1,14 +1,14 @@
 ---
 title: OpenFile
 second_title: Aspose.PDF для справочника API .NET
-description: Просто создайте и верните Document с помощьюfilename. То же чтоDocumentaspose.pdf/document/document.
+description: Просто создайте и верните документ используяfilename . Такой же какDocumentaspose.pdf/document/document .
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/comhelper/openfile/
 ---
 ## OpenFile(string) {#openfile}
 
-Просто создайте и верните Document с помощью*filename*. То же, что[`Document`](../../document/document).
+Просто создайте и верните документ, используя*filename* . Такой же как[`Document`](../../document/document) .
 
 ```csharp
 public Document OpenFile(string filename)
@@ -33,7 +33,7 @@ public Document OpenFile(string filename)
 
 ## OpenFile(string, string) {#openfile_2}
 
-Инициализировать и вернуть новый экземпляр класса[`Document`](../../document)для работы с зашифрованным документом.
+Инициализировать и вернуть новый экземпляр[`Document`](../../document) класс для работы с зашифрованным документом.
 
 ```csharp
 public Document OpenFile(string filename, string password)
@@ -42,7 +42,7 @@ public Document OpenFile(string filename, string password)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filename | String | Имя файла документа. |
-| пароль | String | Пароль пользователя или владельца. |
+| password | String | Пароль пользователя или владельца. |
 
 ### Возвращаемое значение
 
@@ -59,7 +59,7 @@ public Document OpenFile(string filename, string password)
 
 ## OpenFile(string, string, bool) {#openfile_3}
 
-Инициализировать новый экземпляр класса[`Document`](../../document)для работы с зашифрованным документом.
+Инициализировать новый экземпляр[`Document`](../../document) класс для работы с зашифрованным документом.
 
 ```csharp
 public Document OpenFile(string filename, string password, bool isManagedStream)
@@ -68,8 +68,8 @@ public Document OpenFile(string filename, string password, bool isManagedStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filename | String | Имя файла документа. |
-| пароль | String | Пароль пользователя или владельца. |
-| isManagedStream | Boolean | если установлено в` true` внутренний поток закрывается перед выходом; в противном случае нет. |
+| password | String | Пароль пользователя или владельца. |
+| isManagedStream | Boolean | если установлено`истинный` внутренний поток закрывается перед выходом; в противном случае нет. |
 
 ### Возвращаемое значение
 
@@ -86,7 +86,7 @@ public Document OpenFile(string filename, string password, bool isManagedStream)
 
 ## OpenFile(string, LoadOptions) {#openfile_1}
 
-Откройте существующий документ из файла, предоставив необходимые параметры преобразования для получения документа в формате pdf.
+Открытие существующего документа из файла с необходимыми параметрами преобразования для получения документа в формате pdf.
 
 ```csharp
 public Document OpenFile(string filename, LoadOptions options)
@@ -95,7 +95,7 @@ public Document OpenFile(string filename, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filename | String | Входной файл для преобразования в документ PDF. |
-| options | LoadOptions | Представляет свойства для преобразования*имяфайла*в документ PDF. |
+| options | LoadOptions | Представляет свойства для преобразования*filename* в pdf-документ. |
 
 ### Возвращаемое значение
 

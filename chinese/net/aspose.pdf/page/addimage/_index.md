@@ -16,7 +16,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | Stream | 图像流。 |
+| imageStream | Stream | 图像的流。 |
 | imageRect | Rectangle | 图像的位置。 |
 
 ### 也可以看看
@@ -30,7 +30,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect)
 
 ## AddImage(string, Stream, Rectangle) {#addimage_3}
 
-将可搜索图像添加到页面上，并将其定位在指定矩形保存图像比例的中间。
+将可搜索的图像添加到页面上，并将其定位在指定矩形保存图像比例的中间。
 
 ```csharp
 public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
@@ -39,7 +39,7 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | hocr | String | 图像的 hocr。 |
-| imageStream | Stream | 图像流。 |
+| imageStream | Stream | 图像的流。 |
 | imageRect | Rectangle | 图像的位置。 |
 
 ### 也可以看看
@@ -62,11 +62,11 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | Stream | 图像流。 |
+| imageStream | Stream | 图像的流。 |
 | imageRect | Rectangle | 图片在页面上的默认位置。 |
 | imageWidth | Int32 | 图像的宽度。 |
 | imageHeight | Int32 | 图像的高度。 |
-| saveImageProportions | Boolean | 如果标志设置为真，则图像放置在矩形位置；否则，矩形的大小变得等于图像大小。 |
+| saveImageProportions | Boolean | 如果标志设置为真而不是图像放置在矩形位置；否则，矩形的大小变得等于图像大小。 |
 
 ### 也可以看看
 

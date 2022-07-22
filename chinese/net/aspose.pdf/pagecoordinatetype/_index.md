@@ -18,8 +18,8 @@ public enum PageCoordinateType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| MediaBox | `0` | MediaBox 用于指定页面的宽度和高度。 对于普通用户来说，这可能等于实际的页面大小。 MediaBox 是 PDF 中最大的页面框。其他页面框可以等于 MediaBox 的 大小，但它们不能更大。 |
-| CropBox | `1` | CropBox 定义了页面内容将被裁剪到的区域。 Acrobat 使用此尺寸进行屏幕显示和打印。 |
+| MediaBox | `0` | MediaBox 用于指定页面的宽度和高度。 对于普通用户，这可能等于实际页面大小。 MediaBox 是 PDF 中最大的页面框。其他页面框可以等于 MediaBox 的 大小，但不能更大。 |
+| CropBox | `1` | CropBox 定义页面内容将被剪切到的区域。 Acrobat 使用此尺寸进行屏幕显示和打印。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: DeepSkyBlue
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FF00BFFF 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FF00BFFF.
 type: docs
 weight: 410
 url: /zh/net/aspose.pdf/color/deepskyblue/
 ---
 ## Color.DeepSkyBlue property
 
-获取 ARGB 值为 #FF00BFFF 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FF00BFFF.
 
 ```csharp
 public static Color DeepSkyBlue { get; }
@@ -16,7 +16,7 @@ public static Color DeepSkyBlue { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: IsEncrypted
 second_title: Aspose.PDF для справочника API .NET
-description: Проверяет зашифрован ли PDF-документ.
+description: Проверяет зашифрован ли документ PDF.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdffileinfo/isencrypted/
 ---
 ## PdfFileInfo.IsEncrypted property
 
-Проверяет, зашифрован ли PDF-документ.
+Проверяет, зашифрован ли документ PDF.
 
 ```csharp
 public bool IsEncrypted { get; }

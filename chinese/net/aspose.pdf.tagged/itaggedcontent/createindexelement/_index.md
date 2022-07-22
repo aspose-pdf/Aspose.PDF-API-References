@@ -1,14 +1,14 @@
 ---
 title: CreateIndexElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建IndexElementaspose.pdf.logicalstructure/indexelement
+description: 创建IndexElementaspose.pdf.logicalstructure/indexelement.
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createindexelement/
 ---
 ## ITaggedContent.CreateIndexElement method
 
-创建[`IndexElement`](../../../aspose.pdf.logicalstructure/indexelement)。
+创建[`IndexElement`](../../../aspose.pdf.logicalstructure/indexelement).
 
 ```csharp
 public IndexElement CreateIndexElement()
@@ -16,7 +16,7 @@ public IndexElement CreateIndexElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает Горизонтальное выравнивание штампа на странице.
+description: Получает или задает горизонтальное выравнивание штампа на странице.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/stamp/horizontalalignment/
 ---
 ## Stamp.HorizontalAlignment property
 
-Получает или задает Горизонтальное выравнивание штампа на странице.
+Получает или задает горизонтальное выравнивание штампа на странице.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

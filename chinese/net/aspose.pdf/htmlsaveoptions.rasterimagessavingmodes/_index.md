@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.RasterImagesSavingModes
 second_title: Aspose.PDF for .NET API 参考
-description: 转换后的 PDF 可以包含光栅图像.png.jpeg 等 这个枚举定义了如何处理光栅图像的方法 在 PDF 转换为 HTML 期间
+description: 转换后的 PDF 可以包含光栅图像.png.jpeg 等 此枚举定义了在将 PDF 转换为 HTML 期间如何处理光栅图像的方法
 type: docs
 weight: 3590
 url: /zh/net/aspose.pdf/htmlsaveoptions.rasterimagessavingmodes/
 ---
 ## HtmlSaveOptions.RasterImagesSavingModes enumeration
 
-转换后的 PDF 可以包含光栅图像（.png、*.jpeg 等） 这个枚举定义了如何处理光栅图像的方法 在 PDF 转换为 HTML 期间
+转换后的 PDF 可以包含光栅图像（.png、*.jpeg 等） 此枚举定义了在将 PDF 转换为 HTML 期间如何处理光栅图像的方法
 
 ```csharp
 public enum RasterImagesSavingModes
@@ -18,9 +18,9 @@ public enum RasterImagesSavingModes
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| AsPngImagesEmbeddedIntoSvg | `0` | 将为每个不同的光栅文件生成包装 SVG 图像， 并且光栅图像将嵌入为 Base64 编码字符串 进入该 SVG 图像 |
-| AsExternalPngFilesReferencedViaSvg | `1` | 不同的光栅图像将作为 PNG 文件分开，但将通过包装 SVG 图像进行引用， 即将生成一个 PNG 文件和一个每个光栅图像的 SVG， 并且每个此类 SVG 都将包含指向相关 PNG 文件 |
-| AsEmbeddedPartsOfPngPageBackground | `2` | 将为每个结果页面生成一个大的PNG背景文件。 光栅图像将嵌入该文件并呈现为该图像的区域。 不会为每个图像生成外部 PNG 文件， 每页只有一个 PNG 文件将出现在文件转换结果集中。 |
+| AsPngImagesEmbeddedIntoSvg | `0` | 将为每个不同的光栅文件生成包装 SVG 图像， 并且光栅图像将作为 Base64 编码字符串 嵌入到该 SVG 图像中 |
+| AsExternalPngFilesReferencedViaSvg | `1` | 不同的光栅图像将作为 PNG 文件分开，但将通过包装 SVG 图像进行引用， 即将为每个光栅图像生成一个 PNG 文件和一个 SVG， 并且每个此类 SVG 都将包含指向相关 PNG 文件的链接 |
+| AsEmbeddedPartsOfPngPageBackground | `2` | 将为每个结果页面生成一个大的 PNG 背景文件。 光栅图像将嵌入该文件并呈现为该图像的区域。 不会为每个图像生成外部 PNG 文件， 每页仅一个 PNG 文件将出现在文件的转换结果集中。 |
 
 ### 也可以看看
 

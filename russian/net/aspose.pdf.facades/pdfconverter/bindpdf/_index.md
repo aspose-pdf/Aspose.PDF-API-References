@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF для справочника API .NET
-description: Связывает файл Pdf для преобразования.
+description: Привязывает файл PDF для конвертации.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfconverter/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Связывает файл Pdf для преобразования.
+Привязывает файл PDF для конвертации.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -28,7 +28,7 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Связывает поток Pdf для преобразования.
+Привязывает поток PDF для конвертации.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -36,7 +36,7 @@ public override void BindPdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток pdf. |
+| inputStream | Stream | Поток PDF. |
 
 ### Смотрите также
 

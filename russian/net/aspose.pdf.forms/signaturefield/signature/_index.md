@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Aspose.PDF для справочника API .NET
-description: Получает объект подписи. Этот объект содержит данные подписи относительно криптографических стандартов с открытым ключом. КлассыPKCS1aspose.pdf.forms/pkcs1PKCS7aspose.pdf.forms/pkcs7иPKCS7Detachedaspose.pdf.forms/pkcs7detached представляют все поддерживаемые типы объектов подписи.
+description: Получает объект подписи. Этот объект содержит данные подписи относительно криптографических стандартов с открытым ключом. КлассыPKCS1aspose.pdf.forms/pkcs1 PKCS7aspose.pdf.forms/pkcs7 а такжеPKCS7Detachedaspose.pdf.forms/pkcs7detached представляют все поддерживаемые типы объектов подписи.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/signaturefield/signature/
 ---
 ## SignatureField.Signature property
 
-Получает объект подписи. Этот объект содержит данные подписи относительно криптографических стандартов с открытым ключом. Классы[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7)и[`PKCS7Detached`](../../pkcs7detached) представляют все поддерживаемые типы объектов подписи.
+Получает объект подписи. Этот объект содержит данные подписи относительно криптографических стандартов с открытым ключом. Классы[`PKCS1`](../../pkcs1) ,[`PKCS7`](../../pkcs7) а также[`PKCS7Detached`](../../pkcs7detached) представляют все поддерживаемые типы объектов подписи.
 
 ```csharp
 public Signature Signature { get; }

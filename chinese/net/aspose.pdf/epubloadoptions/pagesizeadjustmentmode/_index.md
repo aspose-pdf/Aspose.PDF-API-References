@@ -1,14 +1,14 @@
 ---
 title: PageSizeAdjustmentMode
 second_title: Aspose.PDF for .NET API 参考
-description: 注意该功能已实现但尚未发布到公共 API因为 OSHARED 层中的阻止程序问题已针对示例文档显示 表示转换时页面大小的使用方式 格式如 HTMLEPUB 等通常具有浮动设计因此它允许适应所需的 页面大小但有时内容指定的水平位置或大小 不允许将内容放入所需的页面大小 在这种情况下我们可以定义在这种情况下应该做什么即当内容的大小不适合 结果 PDF 文档所需的初始页面大小时
+description: 注意该功能已实现但尚未发布到公共 API因为 OSHARED 层中的阻止程序问题针对示例文档显示 表示转换期间页面大小的使用模式 格式如 HTMLEPUB 等通常具有浮动设计因此它允许适合 required pagesize但有时内容已指定 不允许将内容放入所需页面大小的水平位置或大小 在这种情况下我们可以定义在这种情况下应该做什么即当内容大小不适合 所需的初始页面大小时结果 PDF 文档.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/epubloadoptions/pagesizeadjustmentmode/
 ---
 ## EpubLoadOptions.PageSizeAdjustmentMode field
 
-注意！该功能已实现但尚未发布到公共 API，因为 OSHARED 层中的阻止程序问题已针对示例文档显示。 表示转换时页面大小的使用方式。 格式（如 HTML、EPUB 等）通常具有浮动设计，因此，它允许适应所需的 页面大小。但有时内容指定的水平位置或大小 不允许将内容放入所需的页面大小。 在这种情况下，我们可以定义在这种情况下应该做什么（即，当内容的大小不适合 结果 PDF 文档所需的初始页面大小时）。
+注意！该功能已实现但尚未发布到公共 API，因为 OSHARED 层中的阻止程序问题针对示例文档显示。 表示转换期间页面大小的使用模式。 格式（如 HTML、EPUB 等），通常具有浮动设计，因此，它允许适合 required pagesize。但有时内容已指定 不允许将内容放入所需页面大小的水平位置或大小。 在这种情况下，我们可以定义在这种情况下应该做什么（即当内容大小不适合 所需的初始页面大小时结果 PDF 文档).
 
 ```csharp
 public PageSizeAdjustmentModes PageSizeAdjustmentMode;

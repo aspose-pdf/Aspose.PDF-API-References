@@ -17,7 +17,7 @@ public Dash(int on, int off)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | on | Int32 | 破折号的长度。 |
-| off | Int32 | 间隙长度。 |
+| off | Int32 | 间隙的长度。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TryMergeAdjacentSameBackgroundImages
 second_title: Aspose.PDF for .NET API 参考
-description: 有时 PDF 包含页面或表格单元格的背景图像 由多个相同的平铺背景图像构成彼此相邻 在这种情况下目标格式的渲染器对于 DOCS 格式的 fe MsWord有时会在背景图像的各个部分之间生成 可见边界 会导致它们的图像技术边缘平滑抗锯齿与 Acrobat Reader 不同 如果导出的文档看起来在 相同背景图像的部分之间包含这样的可见边界请尝试使用此设置来消除 这种不需要的效果. 注意这种质量优化通常会减慢转换速度 所以请仅在真正需要时使用此选项
+description: 有时 PDF 包含页面或表格单元格的背景图像 由多个相同的平铺背景图像构成彼此相邻 在这种情况下目标格式的渲染器对于 DOCS 格式的 Fe MsWord有时会在部分背景图像之间生成 可见边界 因为他们的图像边缘平滑抗锯齿技术与 Acrobat Reader 不同 如果导出的文档看起来在相同背景图像的 部分之间包含这样的可见边界请尝试使用此设置来消除 不想要的效果 注意这种质量优化通常会减慢转换速度 所以请仅在真正需要时使用此选项
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/
 ---
 ## UnifiedSaveOptions.TryMergeAdjacentSameBackgroundImages field
 
-有时 PDF 包含（页面或表格单元格的）背景图像 由多个相同的平铺背景图像构成，彼此相邻。 在这种情况下，目标格式的渲染器（对于 DOCS 格式的 fe MsWord）有时会在背景图像的各个部分之间生成 可见边界， 会导致它们的图像技术边缘平滑（抗锯齿）与 Acrobat Reader 不同。 如果导出的文档看起来在 相同背景图像的部分之间包含这样的可见边界，请尝试使用此设置来消除 这种不需要的效果. 注意！这种质量优化通常会减慢转换速度， 所以，请仅在真正需要时使用此选项。
+有时 PDF 包含（页面或表格单元格的）背景图像 由多个相同的平铺背景图像构成，彼此相邻。 在这种情况下，目标格式的渲染器（对于 DOCS 格式的 Fe MsWord）有时会在部分背景图像之间生成 可见边界, 因为他们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。 如果导出的文档看起来在相同背景图像的 部分之间包含这样的可见边界，请尝试使用此设置来消除 不想要的效果。 注意！这种质量优化通常会减慢转换速度， 所以，请仅在真正需要时使用此选项。
 
 ```csharp
 public bool TryMergeAdjacentSameBackgroundImages;

@@ -1,14 +1,14 @@
 ---
 title: Hyperlink
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает гиперссылку сегмента для генератора pdf.
+description: Получает или задает гиперссылку сегмента для генератора pdf.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textsegment/hyperlink/
 ---
 ## TextSegment.Hyperlink property
 
-Получает или устанавливает гиперссылку сегмента (для генератора pdf).
+Получает или задает гиперссылку сегмента (для генератора pdf).
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }

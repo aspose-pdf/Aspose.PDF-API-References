@@ -1,14 +1,14 @@
 ---
 title: DeleteStampById
 second_title: Aspose.PDF for .NET API 参考
-description: 删除指定页面上的戳记 ID
+description: 按印章 ID 删除指定页上的印章
 type: docs
 weight: 340
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
 ---
 ## DeleteStampById(int, int) {#deletestampbyid_1}
 
-删除指定页面上的戳记 ID。
+按印章 ID 删除指定页上的印章。
 
 ```csharp
 public void DeleteStampById(int pageNumber, int stampId)
@@ -16,7 +16,7 @@ public void DeleteStampById(int pageNumber, int stampId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | Int32 | 将删除戳记的页码。 |
+| pageNumber | Int32 | 将删除印章的页码。 |
 | stampId | Int32 | 应删除的 stanp 标识符。 |
 
 ### 例子

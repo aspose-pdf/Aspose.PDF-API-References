@@ -1,14 +1,14 @@
 ---
 title: AddSubmitBtn
 second_title: Aspose.PDF для справочника API .NET
-description: Добавить кнопку отправки на форму.
+description: Добавить кнопку отправки в форму.
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/formeditor/addsubmitbtn/
 ---
 ## FormEditor.AddSubmitBtn method
 
-Добавить кнопку отправки на форму.
+Добавить кнопку отправки в форму.
 
 ```csharp
 public void AddSubmitBtn(string fieldName, int page, string label, string url, float llx, 
@@ -19,7 +19,7 @@ public void AddSubmitBtn(string fieldName, int page, string label, string url, f
 | --- | --- | --- |
 | fieldName | String | Имя новой кнопки. |
 | page | Int32 | Страница, на которой будет размещена кнопка. |
-| метка | String | Заголовок кнопки. |
+| label | String | Надпись на кнопке. |
 | url | String | URL кнопки отправки. |
 | llx | Single | Абсцисса нижнего левого угла. |
 | lly | Single | Ордината нижнего левого угла. |

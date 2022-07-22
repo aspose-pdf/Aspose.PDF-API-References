@@ -1,16 +1,16 @@
 ---
 title: Warichu
 second_title: Aspose.PDF for .NET API 参考
-description: Warichu PDF 1.5 较小文本大小的注释或注释并在包含文本行的高度内格式化为两个较小的行并放置在 inline  它所指的基本文本 Warichu 元素也可以包含 WT 和 WP 元素
+description: WarichuPDF 1.5较小文本大小的注释或注释并在包含文本行的高度内格式化为两个较小的行并放置在内联它所引用的基本文本之后 Warichu 元素也可以包含 WT 和 WP 元素
 type: docs
 weight: 470
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/warichu/
 ---
 ## StructureTypeStandard.Warichu field
 
-(Warichu; PDF 1.5) 较小文本大小的注释或注释，并在包含文本行的高度内格式化为两个较小的行，并放置在 (inline ) 它所指的基本文本。 Warichu 元素也可以包含 WT 和 WP 元素。
+（Warichu；PDF 1.5）较小文本大小的注释或注释，并在包含文本行的高度内格式化为两个较小的行，并放置在（内联）它所引用的基本文本之后。 Warichu 元素也可以包含 WT 和 WP 元素。
 
-(Warichu) 整个 warichu 程序集的包装。它可能包含由 WP、WT 和 WP 组成的三元素组。根据日本工业标准 (JIS) X 4051-1995 中描述的 Warichu 破坏规则，Warichu 元素（及其内容元素）可以跨越多行。
+(Warichu) 整个 warichu 组件的包装。它可能包含由 WP、WT 和 WP 组成的三元素组。根据日本工业标准 (JIS) X 4051-1995 中描述的 Warichu 破坏规则，Warichu 元素（及其内容元素）可以跨越多行。
 
 ```csharp
 public static readonly StructureTypeStandard Warichu;

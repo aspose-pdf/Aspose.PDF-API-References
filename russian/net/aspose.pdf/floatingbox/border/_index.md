@@ -1,14 +1,14 @@
 ---
 title: Border
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектBorderInfoaspose.pdf/borderinfo который указывает информацию о границе плавающего блока.
+description: Получает или задаетBorderInfoaspose.pdf/borderinfoобъект который указывает информацию о границе плавающего блока.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/floatingbox/border/
 ---
 ## FloatingBox.Border property
 
-Получает или задает объект[`BorderInfo`](../../borderinfo), который указывает информацию о границе плавающего блока.
+Получает или задает[`BorderInfo`](../../borderinfo)объект, который указывает информацию о границе плавающего блока.
 
 ```csharp
 public BorderInfo Border { get; set; }

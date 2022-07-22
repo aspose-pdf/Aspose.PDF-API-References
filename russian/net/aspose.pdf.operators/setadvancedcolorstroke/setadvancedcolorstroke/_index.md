@@ -53,7 +53,7 @@ public SetAdvancedColorStroke(double g, string patternName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | g | Double | Значение серого цвета. |
-| patternName | String | Имя шаблона. |
+| patternName | String | Название узора. |
 
 ### Смотрите также
 
@@ -73,10 +73,10 @@ public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| r | Double | Красный компонент цвета/ |
-| g | Double | Зеленый компонент цвета. |
+| r | Double | Красная составляющая цвета/ |
+| g | Double | Зеленая составляющая цвета. |
 | b | Double | Синяя составляющая цвета. |
-| patternName | String | Имя шаблона. |
+| patternName | String | Название узора. |
 
 ### Смотрите также
 
@@ -96,10 +96,10 @@ public SetAdvancedColorStroke(double c, double m, double y, double k, string pat
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| c | Double | Голубой компонент цвета. |
+| c | Double | Голубая составляющая цвета. |
 | m | Double | Пурпурный компонент цвета. |
-| y | Double | Желтый компонент цвета. |
-| k | Double | Черный компонент цвета |
+| y | Double | Желтая составляющая цвета. |
+| k | Double | Черная составляющая цвета |
 | patternName | String | Название узора. |
 
 ### Смотрите также

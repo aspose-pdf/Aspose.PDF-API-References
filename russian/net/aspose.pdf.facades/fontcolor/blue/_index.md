@@ -1,14 +1,14 @@
 ---
 title: Blue
 second_title: Aspose.PDF для справочника API .NET
-description: Синяя составляющая цвета.
+description: Синий компонент цвета.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/fontcolor/blue/
 ---
 ## FontColor.Blue property
 
-Синяя составляющая цвета.
+Синий компонент цвета.
 
 ```csharp
 public int Blue { get; set; }

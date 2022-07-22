@@ -1,14 +1,14 @@
 ---
 title: CreateAttributes
 second_title: Aspose.PDF for .NET API 参考
-description: 由标准属性所有者创建并返回结构元素的StructureAttributesaspose.pdf.logicalstructure/structureattributes
+description: 创建并返回StructureAttributesaspose.pdf.logicalstructure/structureattributes标准属性所有者的结构元素
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
 ## StructureAttributeCollection.CreateAttributes method
 
-由标准属性所有者创建并返回结构元素的[`StructureAttributes`](../../structureattributes)。
+创建并返回[`StructureAttributes`](../../structureattributes)标准属性所有者的结构元素。
 
 ```csharp
 public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard)
@@ -20,7 +20,7 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 ### 返回值
 
-[`StructureAttributes`](../../structureattributes)结构元素。如果需要，将创建结构属性。
+[`StructureAttributes`](../../structureattributes)的结构元素。如果需要，将创建结构属性。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SPLITVOUT
 second_title: Aspose.PDF for .NET API 参考
-description: 输出垂直分割
+description: 出垂直分割
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
 ## PdfPageEditor.SPLITVOUT field
 
-输出垂直分割
+出垂直分割
 
 ```csharp
 public const int SPLITVOUT;

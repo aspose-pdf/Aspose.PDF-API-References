@@ -19,7 +19,7 @@ public static ContentsResizeParameters Margins(double left, double right, double
 | left | Double | 左边距。 |
 | right | Double | 右边距。 |
 | top | Double | 上边距。 |
-| bottom | Double | 底部边距。 |
+| bottom | Double | 下边距。 |
 
 ### 返回值
 

@@ -18,7 +18,7 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MoveTextPositionSetLeading](movetextpositionsetleading)(double, double) | 初始化运算符。 |
+| [MoveTextPositionSetLeading](movetextpositionsetleading)(double, double) | 初始化操作符。 |
 
 ## 特性
 

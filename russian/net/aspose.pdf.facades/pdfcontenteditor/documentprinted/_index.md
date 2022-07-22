@@ -1,14 +1,14 @@
 ---
 title: DocumentPrinted
 second_title: Aspose.PDF для справочника API .NET
-description: Тип события документа. Выполнение действия после печати.
+description: Тип события документа. Выполнить действие после печати.
 type: docs
 weight: 490
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/documentprinted/
 ---
 ## PdfContentEditor.DocumentPrinted field
 
-Тип события документа. Выполнение действия после печати.
+Тип события документа. Выполнить действие после печати.
 
 ```csharp
 public const string DocumentPrinted;

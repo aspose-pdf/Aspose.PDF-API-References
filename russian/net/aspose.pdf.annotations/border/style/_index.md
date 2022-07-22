@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает стиль границы.
+description: Получает или задает стиль границы.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/border/style/
 ---
 ## Border.Style property
 
-Получает или устанавливает стиль границы.
+Получает или задает стиль границы.
 
 ```csharp
 public BorderStyle Style { get; set; }

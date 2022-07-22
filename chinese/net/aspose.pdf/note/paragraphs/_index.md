@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示脚注中所有段落的集合
+description: 获取或设置表示脚注中所有段落的集合
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/note/paragraphs/
 ---
 ## Note.Paragraphs property
 
-获取或设置指示脚注中所有段落的集合。
+获取或设置表示脚注中所有段落的集合。
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置标记的旋转度数
+description: 获取或设置戳记的旋转度数
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/stamp/rotation/
 ---
 ## Stamp.Rotation property
 
-获取或设置标记的旋转度数。
+获取或设置戳记的旋转度数。
 
 ```csharp
 public float Rotation { get; set; }

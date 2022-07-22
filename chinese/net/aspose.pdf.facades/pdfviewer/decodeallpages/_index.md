@@ -1,14 +1,14 @@
 ---
 title: DecodeAllPages
 second_title: Aspose.PDF for .NET API 参考
-description: 获取当前 pdf 文件的页面
+description: 获取当前pdf文件的页面
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.facades/pdfviewer/decodeallpages/
 ---
 ## PdfViewer.DecodeAllPages method
 
-获取当前 pdf 文件的页面。
+获取当前pdf文件的页面。
 
 ```csharp
 public Bitmap[] DecodeAllPages()

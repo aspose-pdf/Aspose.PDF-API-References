@@ -1,14 +1,14 @@
 ---
 title: ToStructure
 second_title: Aspose.PDF for .NET API 参考
-description: 获取值作为结构
+description: 以结构形式获取值
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/xmpfield/tostructure/
 ---
 ## XmpField.ToStructure method
 
-获取值作为结构。
+以结构形式获取值。
 
 ```csharp
 public XmpField[] ToStructure()

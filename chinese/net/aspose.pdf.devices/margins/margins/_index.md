@@ -1,14 +1,14 @@
 ---
 title: Margins
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Marginsaspose.pdf.devices/margins 类的新实例
+description: 初始化Marginsaspose.pdf.devices/margins类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/margins/margins/
 ---
 ## Margins(int, int, int, int) {#constructor_1}
 
-初始化[`Margins`](../../margins) 类的新实例。
+初始化[`Margins`](../../margins)类.
 
 ```csharp
 public Margins(int left, int right, int top, int bottom)
@@ -16,9 +16,9 @@ public Margins(int left, int right, int top, int bottom)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Int32 | 左坐标。 |
-| right | Int32 | 右坐标。 |
-| top | Int32 | 顶部坐标。 |
+| left | Int32 | 左侧坐标。 |
+| right | Int32 | 正确的坐标。 |
+| top | Int32 | 顶坐标。 |
 | bottom | Int32 | 底部坐标。 |
 
 ### 也可以看看
@@ -31,7 +31,7 @@ public Margins(int left, int right, int top, int bottom)
 
 ## Margins() {#constructor}
 
-初始化[`Margins`](../../margins) 类的新实例。
+初始化[`Margins`](../../margins)类.
 
 ```csharp
 public Margins()

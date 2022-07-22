@@ -1,14 +1,14 @@
 ---
 title: SetRGBColor
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 rg 运算符的类为非描边运算符设置 RGB 颜色
+description: 表示 rg 运算符的类为非笔划运算符设置 RGB 颜色
 type: docs
 weight: 5550
 url: /zh/net/aspose.pdf.operators/setrgbcolor/
 ---
 ## SetRGBColor class
 
-表示 rg 运算符的类（为非描边运算符设置 RGB 颜色）。
+表示 rg 运算符的类（为非笔划运算符设置 RGB 颜色）。
 
 ```csharp
 public class SetRGBColor : SetColorOperator
@@ -18,8 +18,8 @@ public class SetRGBColor : SetColorOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetRGBColor](setrgbcolor#constructor_1)(Color) | 用颜色初始化操作符。 |
-| [SetRGBColor](setrgbcolor#constructor)(double, double, double) | 初始化运算符。 |
+| [SetRGBColor](setrgbcolor#constructor_1)(Color) | 用颜色初始化运算符。 |
+| [SetRGBColor](setrgbcolor#constructor)(double, double, double) | 初始化操作符。 |
 
 ## 特性
 
@@ -32,8 +32,8 @@ public class SetRGBColor : SetColorOperator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setrgbcolor/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [getColor](../../aspose.pdf.operators/setrgbcolor/getcolor)() | 返回运算符指定的颜色。 |
-| override [ToString](../../aspose.pdf.operators/setrgbcolor/tostring)() | 返回操作符的文本表示。 |
+| override [getColor](../../aspose.pdf.operators/setrgbcolor/getcolor)() | 返回操作员指定的颜色。 |
+| override [ToString](../../aspose.pdf.operators/setrgbcolor/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

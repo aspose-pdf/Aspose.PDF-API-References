@@ -1,14 +1,14 @@
 ---
 title: GetMarkedText
 second_title: Aspose.PDF for .NET API 参考
-description: 获取标记注释下的文本作为字符串
+description: 以字符串形式获取标记注释下的文本
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 ---
 ## TextMarkupAnnotation.GetMarkedText method
 
-获取标记注释下的文本作为字符串。
+以字符串形式获取标记注释下的文本。
 
 ```csharp
 public string GetMarkedText()

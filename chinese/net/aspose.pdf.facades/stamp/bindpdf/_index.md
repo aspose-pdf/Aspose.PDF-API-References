@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF for .NET API 参考
-description: 设置 PDF 文件和将用作图章的页码
+description: 设置 PDF 文件和用作图章的页码
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/stamp/bindpdf/
 ---
 ## BindPdf(string, int) {#bindpdf_1}
 
-设置 PDF 文件和将用作图章的页码。
+设置 PDF 文件和用作图章的页码。
 
 ```csharp
 public void BindPdf(string pdfFile, int pageNumber)
@@ -24,7 +24,7 @@ public void BindPdf(string pdfFile, int pageNumber)
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
-  //第一页将用作印章。
+//第一页将用作印章。
 stamp.BindPdf("stamp.pdf", 1);
 stamp.IsBackground = true;
 fileStamp.AddStamp(stamp);
@@ -41,7 +41,7 @@ fileStamp.Close();
 
 ## BindPdf(Stream, int) {#bindpdf}
 
-设置 PDF 文件和将用作图章的页码。
+设置 PDF 文件和用作图章的页码。
 
 ```csharp
 public void BindPdf(Stream pdfStream, int pageNumber)
@@ -50,14 +50,14 @@ public void BindPdf(Stream pdfStream, int pageNumber)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pdfStream | Stream | 包含 PDF 文档的流。 |
-| pageNumber | Int32 | 将用作标记的文档的页面索引。 |
+| pageNumber | Int32 | 将用作图章的文档的页面索引。 |
 
 ### 例子
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
-  //第一页将用作印章。
+//第一页将用作印章。
 Stream stream = new FileStream("stamp.pdf", FileMode.Open, FileAccess.Read);
 stamp.BindPdf(stream, 1);
 fileStamp.AddStamp(stamp);

@@ -1,14 +1,14 @@
 ---
 title: ContentRecognitionMode
 second_title: Aspose.PDF for .NET API 参考
-description: 在转换PDF文件通常具有固定布局时 转换引擎尝试进行分组和多级分析以恢复 原始文档作者的意图和产生的结果流布局 这个属性调整转换为这个或那个 理想的内容识别方法
+description: 当PDF文件通常具有固定布局被转换时 转换引擎尝试执行分组和多级分析以恢复 原始文档作者的意图并产生流布局的结果 此属性为此调整转换或that 理想的内容识别方法
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/epubsaveoptions/contentrecognitionmode/
 ---
 ## EpubSaveOptions.ContentRecognitionMode field
 
-在转换PDF文件（通常具有固定布局）时， 转换引擎尝试进行分组和多级分析以恢复 原始文档作者的意图和产生的结果流布局。 这个属性调整转换为这个或那个 理想的内容识别方法。
+当PDF文件（通常具有固定布局）被转换时， 转换引擎尝试执行分组和多级分析以恢复 原始文档作者的意图并产生流布局的结果。 此属性为此调整转换或that 理想的内容识别方法。
 
 ```csharp
 public RecognitionMode ContentRecognitionMode;

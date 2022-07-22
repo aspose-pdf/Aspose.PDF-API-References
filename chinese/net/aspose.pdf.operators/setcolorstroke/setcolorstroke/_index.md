@@ -1,14 +1,14 @@
 ---
 title: SetColorStroke
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
 ---
 ## SetColorStroke() {#constructor}
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public SetColorStroke()
@@ -53,8 +53,8 @@ public SetColorStroke(double r, double g, double b)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | r | Double | 红色组件。 |
-| g | Double | 绿色分量。 |
-| b | Double | 蓝色分量。 |
+| g | Double | 绿色组件。 |
+| b | Double | 蓝色组件。 |
 
 ### 也可以看看
 
@@ -94,10 +94,10 @@ public SetColorStroke(double c, double m, double y, double k)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| c | Double | 青色零件。 |
-| m | Double | 洋红色组件。 |
+| c | Double | 青色成分。 |
+| m | Double | 洋红色成分。 |
 | y | Double | 黄色组件。 |
-| k | Double | 黑色组件。 |
+| k | Double | 黑色成分。 |
 
 ### 也可以看看
 

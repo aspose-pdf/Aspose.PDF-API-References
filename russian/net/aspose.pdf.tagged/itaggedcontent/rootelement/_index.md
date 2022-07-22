@@ -1,14 +1,14 @@
 ---
 title: RootElement
 second_title: Aspose.PDF для справочника API .NET
-description: Получает кореньStructureElementaspose.pdf.logicalstructure/structureelementлогической структуры документа PDF.
+description: Получает rootStructureElementaspose.pdf.logicalstructure/structureelement логической структуры документа PDF.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/rootelement/
 ---
 ## ITaggedContent.RootElement property
 
-Получает корень[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement)логической структуры документа PDF.
+Получает root[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement) логической структуры документа PDF.
 
 ```csharp
 public StructureElement RootElement { get; }
@@ -16,7 +16,7 @@ public StructureElement RootElement { get; }
 
 ### Стоимость имущества
 
-Root[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement)логической структуры документа PDF.
+Корень[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement) логической структуры документа PDF.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: G
 second_title: Aspose.PDF для справочника API .NET
-description: Получает зеленую составляющую цвета
+description: Получает зеленый компонент цвета
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/basicsetcoloroperator/g/
 ---
 ## BasicSetColorOperator.G property
 
-Получает зеленую составляющую цвета
+Получает зеленый компонент цвета
 
 ```csharp
 public double G { get; }

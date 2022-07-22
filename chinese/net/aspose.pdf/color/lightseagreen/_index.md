@@ -1,14 +1,14 @@
 ---
 title: LightSeaGreen
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为FF20B2AA 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FF20B2AA.
 type: docs
 weight: 730
 url: /zh/net/aspose.pdf/color/lightseagreen/
 ---
 ## Color.LightSeaGreen property
 
-获取 ARGB 值为#FF20B2AA 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FF20B2AA.
 
 ```csharp
 public static Color LightSeaGreen { get; }
@@ -16,7 +16,7 @@ public static Color LightSeaGreen { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

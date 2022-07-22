@@ -1,14 +1,14 @@
 ---
 title: SkewAngleX
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值表示转换坐标系时 x 坐标的倾斜角度
+description: 获取或设置一个浮点值表示变换坐标系时x坐标的倾斜角度
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/graphinfo/skewanglex/
 ---
 ## GraphInfo.SkewAngleX property
 
-获取或设置一个浮点值，表示转换坐标系时 x 坐标的倾斜角度。
+获取或设置一个浮点值，表示变换坐标系时x坐标的倾斜角度。
 
 ```csharp
 public double SkewAngleX { get; set; }

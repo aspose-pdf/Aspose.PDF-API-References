@@ -1,18 +1,18 @@
 ---
 title: Aspose.Pdf.GroupProcessor
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.GroupProcessor 命名空间提供用于处理文本和字体的类
+description: 这 Aspose.Pdf.GroupProcessor命名空间提供用于处理文本和字体的类
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.groupprocessor/
 ---
-**Aspose.Pdf.GroupProcessor** 命名空间提供用于处理文本和字体的类。
+这 **Aspose.Pdf.GroupProcessor**命名空间提供用于处理文本和字体的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [ExtractorFactory](./extractorfactory) | 表示用于创建 IPdfTypeExtractor 对象的工厂。 |
+| [ExtractorFactory](./extractorfactory) | 表示创建 IPdfTypeExtractor 对象的工厂。 |
 ## 接口
 
 | 界面 | 描述 |

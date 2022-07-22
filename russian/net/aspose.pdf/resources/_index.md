@@ -18,9 +18,9 @@ public sealed class Resources
 
 | Имя | Описание |
 | --- | --- |
-| [Fonts](../../aspose.pdf/resources/fonts) { get; } | Получает[`Fonts`](./fonts)коллекция ресурсов |
-| [Forms](../../aspose.pdf/resources/forms) { get; } | Получает[`Forms`](./forms)коллекция форм |
-| [Images](../../aspose.pdf/resources/images) { get; } | Получает[`Images`](./images)коллекция изображений |
+| [Fonts](../../aspose.pdf/resources/fonts) { get; } | получает[`Fonts`](./fonts) коллекция ресурсов |
+| [Forms](../../aspose.pdf/resources/forms) { get; } | получает[`Forms`](./forms) коллекция форм |
+| [Images](../../aspose.pdf/resources/images) { get; } | получает[`Images`](./images) коллекция изображений |
 
 ## Методы
 

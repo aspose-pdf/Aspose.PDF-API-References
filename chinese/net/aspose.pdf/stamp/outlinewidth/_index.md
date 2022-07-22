@@ -1,14 +1,14 @@
 ---
 title: OutlineWidth
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置印章轮廓宽度的值 默认值为 1.0
+description: 获取或设置印章轮廓宽度的值 默认值为1.0
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/stamp/outlinewidth/
 ---
 ## Stamp.OutlineWidth property
 
-获取或设置印章轮廓宽度的值。 默认值为 1.0。
+获取或设置印章轮廓宽度的值。 默认值为1.0。
 
 ```csharp
 public double OutlineWidth { get; set; }

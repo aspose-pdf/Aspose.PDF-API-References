@@ -1,14 +1,14 @@
 ---
 title: StrokingColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает операции обводки цветомTextFragmentaspose.pdf.text/textfragmentрендеринг обводка текста граница прямоугольника
+description: Получает или задает операции обводки цветомTextFragmentaspose.pdf.text/textfragment рендеринг обводка текста граница прямоугольника
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.text/textfragmentstate/strokingcolor/
 ---
 ## TextFragmentState.StrokingColor property
 
-Получает или задает операции обводки цветом[`TextFragment`](../../textfragment)рендеринг (обводка текста, граница прямоугольника)
+Получает или задает операции обводки цветом[`TextFragment`](../../textfragment) рендеринг (обводка текста, граница прямоугольника)
 
 ```csharp
 public override Color StrokingColor { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PageNumberRotation
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает поворот номера страницы. Вращение в градусах. По умолчанию 0.
+description: Получает или задает чередование номеров страниц. Вращение в градусах. По умолчанию 0.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdffilestamp/pagenumberrotation/
 ---
 ## PdfFileStamp.PageNumberRotation property
 
-Получает или задает поворот номера страницы. Вращение в градусах. По умолчанию 0.
+Получает или задает чередование номеров страниц. Вращение в градусах. По умолчанию 0.
 
 ```csharp
 public float PageNumberRotation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает поля уровня списка
+description: Получает или задает поле уровня списка
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/levelformat/margin/
 ---
 ## LevelFormat.Margin property
 
-Получает или задает поля уровня списка
+Получает или задает поле уровня списка
 
 ```csharp
 public MarginInfo Margin { get; set; }

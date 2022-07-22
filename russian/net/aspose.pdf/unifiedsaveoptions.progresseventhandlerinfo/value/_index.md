@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF для справочника API .NET
-description: текущее значение значения прогресса
+description: текущее значение прогресса value
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.Value field
 
-текущее значение значения прогресса
+текущее значение прогресса value
 
 ```csharp
 public int Value;

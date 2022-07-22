@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Aspose.PDF for .NET API 参考
-description: 实现运算符 
+description: 实现运算符 .
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/xmpfield/op_equality/
 ---
 ## XmpField Equality operator
 
-实现运算符 ==。
+实现运算符 ==.
 
 ```csharp
 public static bool operator ==(XmpField field1, XmpField field2)
@@ -16,8 +16,8 @@ public static bool operator ==(XmpField field1, XmpField field2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| field1 | XmpField | field1。 |
-| field2 | XmpField | field2。 |
+| field1 | XmpField | 领域1。 |
+| field2 | XmpField | 领域2。 |
 
 ### 返回值
 

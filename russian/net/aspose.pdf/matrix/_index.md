@@ -18,20 +18,20 @@ public sealed class Matrix
 
 | Имя | Описание |
 | --- | --- |
-| [Matrix](matrix#constructor)() | Конструктор создает стандартную матрицу 1 к 1: [ABCDEF] = [ 1, 0, 0, 1, 0, 0] |
-| [Matrix](matrix#constructor_3)(double[]) | Конструктор принимает матрицу со следующим представлением массива: [ ABCDEF ] |
-| [Matrix](matrix#constructor_4)(float[]) | Конструктор принимает матрицу со следующим представлением массива: [ ABCDEF ] |
-| [Matrix](matrix#constructor_1)(Matrix) | Конструктор принимает матрицу для создания копии |
+| [Matrix](matrix#constructor)() | Constructor создает стандартную матрицу 1 к 1: [ABCDEF] = [1, 0, 0, 1, 0, 0] |
+| [Matrix](matrix#constructor_3)(double[]) | Constructor принимает матрицу со следующим представлением массива: [ABCDEF] |
+| [Matrix](matrix#constructor_4)(float[]) | Constructor принимает матрицу со следующим представлением массива: [ABCDEF] |
+| [Matrix](matrix#constructor_1)(Matrix) | Constructor принимает матрицу для создания копии |
 | [Matrix](matrix#constructor_2)(double, double, double, double, double, double) | Инициализирует матрицу преобразования с указанными коэффициентами. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [A](../../aspose.pdf/matrix/a) { get; set; } | Элемент матрицы преобразования. |
+| [A](../../aspose.pdf/matrix/a) { get; set; } | Член матрицы преобразования. |
 | [B](../../aspose.pdf/matrix/b) { get; set; } | B элемент матрицы преобразования. |
-| [C](../../aspose.pdf/matrix/c) { get; set; } | C член матрицы преобразования. |
-| [D](../../aspose.pdf/matrix/d) { get; set; } | D член матрицы преобразования. |
+| [C](../../aspose.pdf/matrix/c) { get; set; } | C элемент матрицы преобразования. |
+| [D](../../aspose.pdf/matrix/d) { get; set; } | D элемент матрицы преобразования. |
 | [Data](../../aspose.pdf/matrix/data) { get; } | Получает данные Matrix в виде массива. |
 | [E](../../aspose.pdf/matrix/e) { get; set; } | E элемент матрицы преобразования. |
 | [Elements](../../aspose.pdf/matrix/elements) { get; } | Элементы матрицы. |
@@ -42,7 +42,7 @@ public sealed class Matrix
 | Имя | Описание |
 | --- | --- |
 | static [Rotation](../../aspose.pdf/matrix/rotation#rotation_1)(double) | Создает матрицу для заданного угла поворота. |
-| static [Rotation](../../aspose.pdf/matrix/rotation#rotation)(Rotation) | Создает матрицу для данного поворота. |
+| static [Rotation](../../aspose.pdf/matrix/rotation#rotation)(Rotation) | Создает матрицу для заданного поворота. |
 | static [Skew](../../aspose.pdf/matrix/skew)(double, double) | Создает матрицу для заданного угла поворота. |
 | [Add](../../aspose.pdf/matrix/add)(Matrix) | Добавляет матрицу к другой матрице. |
 | override [Equals](../../aspose.pdf/matrix/equals)(object) | Сравнивает матрицу с другим объектом. |
@@ -51,8 +51,8 @@ public sealed class Matrix
 | [Reverse](../../aspose.pdf/matrix/reverse)() | Вычисляет обратную матрицу. |
 | override [ToString](../../aspose.pdf/matrix/tostring)() | Возвращает текстовое представление матрицы. |
 | [Transform](../../aspose.pdf/matrix/transform#transform)(Point) | Преобразует точку, используя эту матрицу. |
-| [Transform](../../aspose.pdf/matrix/transform#transform_1)(Rectangle) | Преобразует прямоугольник. Если угол не равен 90 * N градусов, то возвращается ограничивающий прямоугольник. |
-| static [GetAngle](../../aspose.pdf/matrix/getangle)(Rotation) | Переводит вращение в угол (градусы) |
+| [Transform](../../aspose.pdf/matrix/transform#transform_1)(Rectangle) | Преобразует прямоугольник. Если угол не равен 90 * N градусов, возвращается ограничивающий прямоугольник. |
+| static [GetAngle](../../aspose.pdf/matrix/getangle)(Rotation) | Преобразует вращение в угол (градусы) |
 
 ### Смотрите также
 

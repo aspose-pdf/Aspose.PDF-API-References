@@ -1,14 +1,14 @@
 ---
 title: XslFoLoadOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 创建没有 xsl 数据的XslFoLoadOptionsaspose.pdf/xslfoloadoptions对象
+description: 创建XslFoLoadOptionsaspose.pdf/xslfoloadoptions没有 xsl 数据的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
 ---
 ## XslFoLoadOptions() {#constructor}
 
-创建没有 xsl 数据的[`XslFoLoadOptions`](../../xslfoloadoptions)对象。
+创建[`XslFoLoadOptions`](../../xslfoloadoptions)没有 xsl 数据的对象。
 
 ```csharp
 public XslFoLoadOptions()
@@ -24,7 +24,7 @@ public XslFoLoadOptions()
 
 ## XslFoLoadOptions(string) {#constructor_2}
 
-使用 xsl 数据创建[`XslFoLoadOptions`](../../xslfoloadoptions)对象。
+创建[`XslFoLoadOptions`](../../xslfoloadoptions)带有 xsl 数据的对象。
 
 ```csharp
 public XslFoLoadOptions(string xslFile)
@@ -32,7 +32,7 @@ public XslFoLoadOptions(string xslFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xslFile | String | Xsl 文件将 XSL-FO 文档转换为 pdf 文档。 |
+| xslFile | String | 用于将 XSL-FO 文档转换为 pdf 文档的 Xsl 文件。 |
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public XslFoLoadOptions(string xslFile)
 
 ## XslFoLoadOptions(Stream) {#constructor_1}
 
-使用 xsl 数据创建[`XslFoLoadOptions`](../../xslfoloadoptions)对象。
+创建[`XslFoLoadOptions`](../../xslfoloadoptions)带有 xsl 数据的对象。
 
 ```csharp
 public XslFoLoadOptions(Stream xslStream)

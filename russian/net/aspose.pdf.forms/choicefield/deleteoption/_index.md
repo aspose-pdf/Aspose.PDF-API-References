@@ -1,14 +1,14 @@
 ---
 title: DeleteOption
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет опцию по ее имени.
+description: Удаляет параметр по его имени.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/choicefield/deleteoption/
 ---
 ## ChoiceField.DeleteOption method
 
-Удаляет опцию по ее имени.
+Удаляет параметр по его имени.
 
 ```csharp
 public virtual void DeleteOption(string optionName)

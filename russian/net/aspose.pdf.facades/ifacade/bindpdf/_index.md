@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF для справочника API .NET
-description: Связывает PDF-документ для редактирования.
+description: Связывает документ PDF для редактирования.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/ifacade/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Связывает PDF-документ для редактирования.
+Связывает документ PDF для редактирования.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Связывает PDF-документ для редактирования.
+Связывает документ PDF для редактирования.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -48,7 +48,7 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-Связывает PDF-документ для редактирования.
+Связывает документ PDF для редактирования.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -56,7 +56,7 @@ public void BindPdf(Document srcDoc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcDoc | Document | Входной PDF-документ. |
+| srcDoc | Document | Введите PDF-документ. |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules class
 
-Этот класс описывает правила, которые можно использовать для устранения ошибки Adobe Preflight "Текст не может быть сопоставлен с Unicode".
+Этот класс описывает правила, которые можно использовать для устранения ошибки Adobe Preflight «Текст не может быть сопоставлен с Unicode».
 
 ```csharp
 public class ToUnicodeProcessingRules
@@ -26,8 +26,8 @@ public class ToUnicodeProcessingRules
 
 | Имя | Описание |
 | --- | --- |
-| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/mapnonlinkedsymbolsonspace) { get; set; } | Некоторые шрифты не предоставляют информацию об юникодах для некоторых текстовых символов. Это отсутствие информации вызывает ошибку "Текст не может быть сопоставлен с Unicode". Используйте этот флаг для сопоставления несвязанных символов с "пробелом" юникода (код 32). |
-| [RemoveSpacesFromCMapNames](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames) { get; set; } | Некоторые шрифты имеют карты кодов символов ToUnicode с пробелами в именах. Эти пробелы могут вызывать ошибки с отображением текста Unicode. Этот флаг указывает на удаление пробелов из имен карт кодов символов ToUnicode. По умолчанию false. |
+| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/mapnonlinkedsymbolsonspace) { get; set; } | Некоторые шрифты не предоставляют информацию об юникодах для некоторых текстовых символов. Это отсутствие информации вызывает ошибку «Текст не может быть сопоставлен с Unicode». Используйте этот флаг для сопоставления несвязанных символов с «пробелом» Unicode (код 32). |
+| [RemoveSpacesFromCMapNames](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames) { get; set; } | Некоторые шрифты имеют карты кодов символов ToUnicode с пробелами в именах. Эти пробелы могут вызывать error с отображением текста Unicode. Этот флаг указывает на удаление пробелов из имен карт кодов символов ToUnicode. По умолчанию false. |
 
 ### Смотрите также
 

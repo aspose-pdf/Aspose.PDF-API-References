@@ -1,14 +1,14 @@
 ---
 title: TextAlign_End
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 TextAlignEnd - 与结束边缘对齐
+description: 属性 TextAlign End - 与结束边缘对齐
 type: docs
 weight: 560
 url: /zh/net/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
 ## AttributeName.TextAlign_End field
 
-属性 TextAlign:End - 与结束边缘对齐。
+属性 TextAlign: End - 与结束边缘对齐。
 
 ```csharp
 public static readonly AttributeName TextAlign_End;

@@ -35,8 +35,8 @@ public sealed class XFormCollection : ICollection<XForm>
 | [Delete](../../aspose.pdf/xformcollection/delete#delete)() | 从集合中删除所有 XForms。 |
 | [Delete](../../aspose.pdf/xformcollection/delete#delete_1)(int) | 从 collectin 中删除 XForm |
 | [Delete](../../aspose.pdf/xformcollection/delete#delete_2)(string) | 按表单名称从集合中删除 XForm。 |
-| [GetEnumerator](../../aspose.pdf/xformcollection/getenumerator)() | Retunrs 集合枚举器。 |
-| [Remove](../../aspose.pdf/xformcollection/remove)(XForm) | 从集合中删除指定项目。 |
+| [GetEnumerator](../../aspose.pdf/xformcollection/getenumerator)() | 返回集合枚举器。 |
+| [Remove](../../aspose.pdf/xformcollection/remove)(XForm) | 从集合中删除指定的项目。 |
 
 ### 也可以看看
 

@@ -16,13 +16,47 @@ public void ExtractText()
 
 ### 例子
 
-第一个示例演示如何从 PDF 文件中提取所有文本。 &lt;code lang="VB.NET"&gt; Dim extractor As PdfExtractor = New PdfExtractor() extractor.BindPdf("D:\Text\ text.pdf") extractor.ExtractText() extractor.GetText("D:\Text\text.txt") &lt;/code&gt; 第二个示例演示了如何将每一页的文本提取到一个 txt 文件中。 &lt;code&gt; PdfExtractor extractor = new PdfExtractor(); extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf"); 提取器.ExtractText(); 字符串前缀 = TestPath + @"Aspose.Pdf.Kit"; 字符串后缀 = ".txt"; int pageCount = 1; while (extractor.HasNextPageText()) { extractor.GetNextPageText(prefix + pageCount + suffix); pageCount++; } &lt;/code&gt;&lt;code lang="VB.NET"&gt; Dim extractor As PdfExtractor = New PdfExtractor() extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf") extractor.ExtractText() Dim prefix As String = TestPath + "Aspose.Pdf.Kit " Dim suffix As String = ".txt" Dim pageCount As Integer = 1 While extractor.HasNextPageText() extractor.GetNextPageText(prefix + pageCount + suffix) pageCount = pageCount + 1 End While &lt;/code&gt;
+第一个示例演示如何从 PDF 文件中提取所有文本。 第二个示例演示如何将每一页的文本提取到一个 txt 文件中。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
 extractor.BindPdf(@"D:\Text\text.pdf");
 extractor.ExtractText();
 extractor.GetText(@"D:\Text\text.txt");
+```
+
+```csharp
+Dim extractor As PdfExtractor =  New PdfExtractor() 
+extractor.BindPdf("D:\Text\text.pdf")
+extractor.ExtractText()
+extractor.GetText("D:\Text\text.txt")
+```
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
+extractor.ExtractText();
+String prefix = TestPath + @"Aspose.Pdf.Kit";
+String suffix = ".txt";
+int pageCount = 1;
+while (extractor.HasNextPageText())
+{
+    extractor.GetNextPageText(prefix + pageCount + suffix);
+    pageCount++;
+}
+```
+
+```csharp
+Dim extractor As PdfExtractor =  New PdfExtractor() 
+extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
+extractor.ExtractText()
+Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
+Dim suffix As String =  ".txt" 
+Dim pageCount As Integer =  1 
+While extractor.HasNextPageText()
+    extractor.GetNextPageText(prefix + pageCount + suffix)
+    pageCount = pageCount + 1
+End While
 ```
 
 ### 也可以看看
@@ -47,13 +81,47 @@ public void ExtractText(Encoding encoding)
 
 ### 例子
 
-第一个示例演示如何从 PDF 文件中提取所有文本。 &lt;code lang="VB.NET"&gt; Dim extractor As PdfExtractor = New PdfExtractor() extractor.BindPdf("D:\Text\ text.pdf") extractor.ExtractText(Encoding.Unicode) extractor.GetText("D:\Text\text.txt") &lt; /code&gt; 第二个示例演示如何将每一页的文本提取到一个 txt 文件中。 &lt;code&gt; PdfExtractor extractor = new PdfExtractor(); extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf"); extractor.ExtractText(Encoding.Unicode); 字符串前缀 = TestPath + @"Aspose.Pdf.Kit"; 字符串后缀 = ".txt"; int pageCount = 1; while (extractor.HasNextPageText()) { extractor.GetNextPageText(prefix + pageCount + suffix); pageCount++; } &lt;/code&gt;&lt;code lang="VB.NET"&gt; Dim extractor As PdfExtractor = New PdfExtractor() extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf") extractor.ExtractText(Encoding.Unicode) Dim prefix As String = TestPath + "Aspose. Pdf.Kit" Dim suffix As String = ".txt" Dim pageCount As Integer = 1 While extractor.HasNextPageText() extractor.GetNextPageText(prefix + pageCount + suffix) pageCount = pageCount + 1 End While &lt;/code&gt;
+第一个示例演示如何从 PDF 文件中提取所有文本。 第二个示例演示如何将每一页的文本提取到一个 txt 文件中。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
 extractor.BindPdf(@"D:\Text\text.pdf");
 extractor.ExtractText(Encoding.Unicode);
 extractor.GetText(@"D:\Text\text.txt");
+```
+
+```csharp
+Dim extractor As PdfExtractor =  New PdfExtractor() 
+extractor.BindPdf("D:\Text\text.pdf")
+extractor.ExtractText(Encoding.Unicode)
+extractor.GetText("D:\Text\text.txt")
+```
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
+extractor.ExtractText(Encoding.Unicode);
+String prefix = TestPath + @"Aspose.Pdf.Kit";
+String suffix = ".txt";
+int pageCount = 1;
+while (extractor.HasNextPageText())
+{
+    extractor.GetNextPageText(prefix + pageCount + suffix);
+    pageCount++;
+}
+```
+
+```csharp
+Dim extractor As PdfExtractor =  New PdfExtractor() 
+extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
+extractor.ExtractText(Encoding.Unicode)
+Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
+Dim suffix As String =  ".txt" 
+Dim pageCount As Integer =  1 
+While extractor.HasNextPageText()
+    extractor.GetNextPageText(prefix + pageCount + suffix)
+    pageCount = pageCount + 1
+End While
 ```
 
 ### 也可以看看

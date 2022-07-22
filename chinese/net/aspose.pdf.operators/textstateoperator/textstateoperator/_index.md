@@ -1,14 +1,14 @@
 ---
 title: TextStateOperator
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化 TextStateOperator
+description: 初始化 TextStateOperator.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/textstateoperator/textstateoperator/
 ---
 ## TextStateOperator() {#constructor}
 
-初始化 TextStateOperator。
+初始化 TextStateOperator.
 
 ```csharp
 public TextStateOperator()

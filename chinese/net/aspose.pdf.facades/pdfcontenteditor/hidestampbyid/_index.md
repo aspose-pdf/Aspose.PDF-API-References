@@ -17,7 +17,7 @@ public void HideStampById(int pageNumber, int stampId)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumber | Int32 | 页码。 |
-| stampId | Int32 | 应隐藏的戳记标识符。 |
+| stampId | Int32 | 应隐藏的标记的标识符。 |
 
 ### 也可以看看
 

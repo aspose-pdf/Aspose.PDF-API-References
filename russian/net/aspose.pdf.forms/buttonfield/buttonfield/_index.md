@@ -1,14 +1,14 @@
 ---
 title: ButtonField
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор поля кнопки для Генератора.
+description: Конструктор полей кнопок для Генератора.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/buttonfield/buttonfield/
 ---
 ## ButtonField() {#constructor}
 
-Конструктор поля кнопки для Генератора.
+Конструктор полей кнопок для Генератора.
 
 ```csharp
 public ButtonField()
@@ -24,7 +24,7 @@ public ButtonField()
 
 ## ButtonField(Page, Rectangle) {#constructor_2}
 
-Конструктор ButtonField.
+Конструктор поля кнопок.
 
 ```csharp
 public ButtonField(Page page, Rectangle rect)
@@ -33,7 +33,7 @@ public ButtonField(Page page, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Страница, на которой будет размещена кнопка. |
-| rect | Rectangle | Прямоугольник, в котором размещается кнопка на странице. |
+| rect | Rectangle | Прямоугольник, в котором находится кнопка на странице. |
 
 ### Смотрите также
 
@@ -55,7 +55,7 @@ public ButtonField(Document doc, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано новое поле. |
+| doc | Document | Документируйте, где будет создано новое поле. |
 | rect | Rectangle | Прямоугольная кнопка размещена на странице. |
 
 ### Смотрите также

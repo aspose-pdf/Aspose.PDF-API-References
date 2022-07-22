@@ -1,14 +1,14 @@
 ---
 title: SetColorRenderingIntent
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор ri устанавливает цель цветопередачи.
+description: Класс представляющий оператор ri установка способа цветопередачи.
 type: docs
 weight: 5410
 url: /ru/net/aspose.pdf.operators/setcolorrenderingintent/
 ---
 ## SetColorRenderingIntent class
 
-Класс, представляющий оператор ri (устанавливает цель цветопередачи).
+Класс, представляющий оператор ri (установка способа цветопередачи).
 
 ```csharp
 public class SetColorRenderingIntent : Operator
@@ -31,7 +31,7 @@ public class SetColorRenderingIntent : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

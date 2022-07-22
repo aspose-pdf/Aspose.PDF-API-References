@@ -16,7 +16,7 @@ public void BindImage(string imageFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | String | Имя и путь к файлу изображения. |
+| imageFile | String | Имя файла изображения и путь. |
 
 ### Примеры
 

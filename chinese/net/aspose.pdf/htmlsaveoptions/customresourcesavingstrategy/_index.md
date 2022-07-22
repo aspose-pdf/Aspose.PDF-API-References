@@ -1,14 +1,14 @@
 ---
 title: CustomResourceSavingStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 此字段可以包含保存策略 在转换期间必须使用如果存在 用于自定义处理创建引用的资源 与保存的 HTML 节点相关的文件如图像和字体 该策略必须处理资源 并返回字符串该字符串表示生成的 HTML 中保存的资源 的所需 URL
+description: 此字段可以包含保存策略 必须在转换期间使用如果存在表示在生成的 HTML 中保存的资源 的理想 URL
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf/htmlsaveoptions/customresourcesavingstrategy/
 ---
 ## HtmlSaveOptions.CustomResourceSavingStrategy field
 
-此字段可以包含保存策略 在转换期间必须使用（如果存在） 用于自定义处理创建引用的资源 与保存的 HTML 节点相关的文件（如图像和字体）。 该策略必须处理资源 并返回字符串，该字符串表示生成的 HTML 中保存的资源 的所需 URL。
+此字段可以包含保存策略 必须在转换期间使用（如果存在）表示在生成的 HTML 中保存的资源 的理想 URL。
 
 ```csharp
 public ResourceSavingStrategy CustomResourceSavingStrategy;

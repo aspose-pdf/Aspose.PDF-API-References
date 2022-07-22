@@ -20,7 +20,7 @@ public IList<string> GetSignNames(bool onlyActive = true)
 
 ### 返回值
 
-返回一个 IList&lt;字符串&gt;。
+返回一个 IList&lt;string&gt;。
 
 ### 例子
 

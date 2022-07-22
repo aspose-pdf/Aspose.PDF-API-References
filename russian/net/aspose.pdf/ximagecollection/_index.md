@@ -33,17 +33,17 @@ public sealed class XImageCollection : ICollection<XImage>
 | [Add](../../aspose.pdf/ximagecollection/add#add)(XImage) | Добавляет новое изображение в список изображений. Этот метод добавляет изображение как ссылку на тот же PdfObject (что позволяет уменьшить размер файла) |
 | [Add](../../aspose.pdf/ximagecollection/add#add_2)(Stream, ImageFilterType) | Добавляет объект в конец коллекции, чтобы объект был доступен по последнему индексу. |
 | [Add](../../aspose.pdf/ximagecollection/add#add_3)(Stream, int) | Добавляет объект в конец коллекции, чтобы объект был доступен по последнему индексу. |
-| [Clear](../../aspose.pdf/ximagecollection/clear)() | Удаляет все предметы из коллекции. |
+| [Clear](../../aspose.pdf/ximagecollection/clear)() | Удаляет все элементы из коллекции. |
 | [Contains](../../aspose.pdf/ximagecollection/contains)(XImage) | Определяет, содержит ли коллекция определенное значение. |
 | [CopyTo](../../aspose.pdf/ximagecollection/copyto)(XImage[], int) | Копирует массив изображений в коллекцию. |
 | [Delete](../../aspose.pdf/ximagecollection/delete#delete)() | Удаляет изображения из коллекции. |
 | [Delete](../../aspose.pdf/ximagecollection/delete#delete_1)(int) | Удаляет индекс из коллекции по индексу. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_3)(string) | Удаляет предмет из коллекции по имени. |
+| [Delete](../../aspose.pdf/ximagecollection/delete#delete_3)(string) | Удаляет элемент из коллекции по имени. |
 | [Delete](../../aspose.pdf/ximagecollection/delete#delete_2)(int, ImageDeleteAction) | Удаляет изображение из коллекции по индексу, выполняя действие, указанное параметром действия. |
-| [Delete](../../aspose.pdf/ximagecollection/delete#delete_4)(string, ImageDeleteAction) | Удаляет предмет из коллекции по имени. |
+| [Delete](../../aspose.pdf/ximagecollection/delete#delete_4)(string, ImageDeleteAction) | Удаляет элемент из коллекции по имени. |
 | [GetEnumerator](../../aspose.pdf/ximagecollection/getenumerator)() | Возвращает перечислитель коллекции. |
 | [GetImageName](../../aspose.pdf/ximagecollection/getimagename)(XImage) | Возвращает имя в списке изображений, которое является ключом данного изображения. |
-| [Remove](../../aspose.pdf/ximagecollection/remove)(XImage) | Удаляет элемент из коллекции, выдает NotImplementedException . |
+| [Remove](../../aspose.pdf/ximagecollection/remove)(XImage) | Удаляет предмет из коллекции, выбрасываетНереализованное исключение . |
 | [Replace](../../aspose.pdf/ximagecollection/replace#replace)(int, Stream) | Заменить изображение в коллекции другим изображением. |
 | [Replace](../../aspose.pdf/ximagecollection/replace#replace_1)(int, Stream, int) | Заменить изображение в коллекции другим изображением. |
 | [Replace](../../aspose.pdf/ximagecollection/replace#replace_2)(int, Stream, int, bool) | Заменить изображение в коллекции другим изображением. |

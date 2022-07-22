@@ -28,24 +28,24 @@ public class OperatorCollection : BaseOperatorCollection
 | Имя | Описание |
 | --- | --- |
 | [Accept](../../aspose.pdf/operatorcollection/accept)(IOperatorSelector) | Принимает объект посетителя IOperatorSelector для обработки операторов. |
-| [Add](../../aspose.pdf/operatorcollection/add#add_2)(ICollection&lt;Operator&gt;) | Добавляет в коллекцию все операторы из другой коллекции. |
-| override [Add](../../aspose.pdf/operatorcollection/add#add)(Operator) | Добавляет новый оператор в коллекцию. |
-| [Add](../../aspose.pdf/operatorcollection/add#add_1)(Operator[]) | Добавить операторы в конце операторов содержимого. |
+| [Add](../../aspose.pdf/operatorcollection/add#add_2)(ICollection&lt;Operator&gt;) | Добавляет в коллекцию всех операторов из другой коллекции. |
+| override [Add](../../aspose.pdf/operatorcollection/add#add)(Operator) | Добавляет в коллекцию нового оператора. |
+| [Add](../../aspose.pdf/operatorcollection/add#add_1)(Operator[]) | Добавить операторы в конце содержимого operator. |
 | override [CancelUpdate](../../aspose.pdf/operatorcollection/cancelupdate)() | Отменяет последнее обновление. Этот метод может быть вызван, когда изменение не должно вызывать обновление содержимого. |
-| override [Clear](../../aspose.pdf/operatorcollection/clear)() | Удаляет все операторы из списка. |
+| override [Clear](../../aspose.pdf/operatorcollection/clear)() | Удаляет всех операторов из списка. |
 | override [Contains](../../aspose.pdf/operatorcollection/contains)(Operator) | Возвращает true, если коллекция содержит данный оператор. |
-| override [CopyTo](../../aspose.pdf/operatorcollection/copyto)(Operator[], int) | Копирует операторы в список операторов. |
-| [Delete](../../aspose.pdf/operatorcollection/delete#delete_2)(IList&lt;Operator&gt;) | Удаляет операторы из коллекции. |
+| override [CopyTo](../../aspose.pdf/operatorcollection/copyto)(Operator[], int) | Копирует операторов в список операторов. |
+| [Delete](../../aspose.pdf/operatorcollection/delete#delete_2)(IList&lt;Operator&gt;) | Удаляет операторов из коллекции. |
 | [Delete](../../aspose.pdf/operatorcollection/delete#delete_1)(int) | Удаляет оператора из коллекции. |
-| [Delete](../../aspose.pdf/operatorcollection/delete#delete)(Operator[]) | Удаляет операторы из коллекции. |
-| override [GetEnumerator](../../aspose.pdf/operatorcollection/getenumerator)() | Возвращает перечислитель для коллекции |
+| [Delete](../../aspose.pdf/operatorcollection/delete#delete)(Operator[]) | Удаляет операторов из коллекции. |
+| override [GetEnumerator](../../aspose.pdf/operatorcollection/getenumerator)() | Возвращает перечислитель для collection |
 | [Insert](../../aspose.pdf/operatorcollection/insert#insert_2)(int, IList&lt;Operator&gt;) | Вставить операторы в указанную позицию. |
 | override [Insert](../../aspose.pdf/operatorcollection/insert#insert)(int, Operator) | Вставляет оператор в коллекцию. |
 | [Insert](../../aspose.pdf/operatorcollection/insert#insert_1)(int, Operator[]) | Вставить операторы в указанную позицию. |
-| override [Remove](../../aspose.pdf/operatorcollection/remove)(Operator) | Удалить оператор из коллекции. |
-| [Replace](../../aspose.pdf/operatorcollection/replace)(IList&lt;Operator&gt;) | Заменить операторы в наборе другими операторами. |
-| override [ResumeUpdate](../../aspose.pdf/operatorcollection/resumeupdate)() | Возобновление обновления документа. Обновляет поток содержимого в случае наличия ожидающих изменений. |
-| override [SuppressUpdate](../../aspose.pdf/operatorcollection/suppressupdate)() | Подавляет данные обновления содержимого. Поток содержимого не обновляется до вызова ResumeUpdate. |
+| override [Remove](../../aspose.pdf/operatorcollection/remove)(Operator) | Удалить оператора из коллекции. |
+| [Replace](../../aspose.pdf/operatorcollection/replace)(IList&lt;Operator&gt;) | Заменить операторов в коллекции другими операторами. |
+| override [ResumeUpdate](../../aspose.pdf/operatorcollection/resumeupdate)() | Возобновляет обновление документа. Обновляет поток содержимого при наличии ожидающих изменений. |
+| override [SuppressUpdate](../../aspose.pdf/operatorcollection/suppressupdate)() | Подавляет данные обновления содержимого. Поток содержимого не обновляется до тех пор, пока не будет вызвано ResumeUpdate. |
 | override [ToString](../../aspose.pdf/operatorcollection/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

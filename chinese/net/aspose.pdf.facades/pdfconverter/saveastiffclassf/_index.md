@@ -1,14 +1,14 @@
 ---
 title: SaveAsTIFFClassF
 second_title: Aspose.PDF for .NET API 参考
-description: 将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF ClassF 文件
+description: 将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF ClassF 文件中
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
 ---
 ## SaveAsTIFFClassF(string, int, int) {#saveastiffclassf_5}
 
-将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF ClassF 文件。
+将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF ClassF 文件中。
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
@@ -16,7 +16,7 @@ public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | String | 保存 TIFF 图像的流。 |
+| outputFile | String | 用于保存 TIFF 图像的流。 |
 | imageWidth | Int32 | 图像宽度，单位是像素。 |
 | imageHeight | Int32 | 图像高度，单位是像素。 |
 
@@ -46,7 +46,7 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 
 ## SaveAsTIFFClassF(string, PageSize) {#saveastiffclassf_4}
 
-将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF ClassF 文件。
+将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF ClassF 文件中。
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
@@ -54,8 +54,8 @@ public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | String | 保存 TIFF 图像的流。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| outputFile | String | 用于保存 TIFF 图像的流。 |
+| pageSize | PageSize | 图片的页面大小。 |
 
 ### 也可以看看
 
@@ -76,7 +76,7 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 | imageWidth | Int32 | 图像宽度，单位是像素。 |
 | imageHeight | Int32 | 图像高度，单位是像素。 |
 
@@ -98,8 +98,8 @@ public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
+| pageSize | PageSize | 图片的页面大小。 |
 
 ### 也可以看看
 
@@ -112,7 +112,7 @@ public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 
 ## SaveAsTIFFClassF(string) {#saveastiffclassf_3}
 
-将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF ClassF 文件。
+将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF ClassF 文件中。
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile)
@@ -120,7 +120,7 @@ public void SaveAsTIFFClassF(string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | String | 保存 TIFF 图像的流。 |
+| outputFile | String | 用于保存 TIFF 图像的流。 |
 
 ### 例子
 
@@ -156,7 +156,7 @@ public void SaveAsTIFFClassF(Stream outputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 
 ### 也可以看看
 

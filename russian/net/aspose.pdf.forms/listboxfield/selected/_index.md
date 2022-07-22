@@ -1,14 +1,14 @@
 ---
 title: Selected
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает индекс выбранного элемента. Элементы нумеруются с 1.
+description: Получает или задает индекс выбранного элемента. Элементы нумеруются с 1.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/listboxfield/selected/
 ---
 ## ListBoxField.Selected property
 
-Получает или устанавливает индекс выбранного элемента. Элементы нумеруются с 1.
+Получает или задает индекс выбранного элемента. Элементы нумеруются с 1.
 
 ```csharp
 public override int Selected { set; }

@@ -1,14 +1,14 @@
 ---
 title: LeftMargin
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置结果页面的左边距
+description: 获取或设置结果页的左边距
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.LeftMargin property
 
-获取或设置结果页面的左边距。
+获取或设置结果页的左边距。
 
 ```csharp
 public ContentsResizeValue LeftMargin { get; set; }

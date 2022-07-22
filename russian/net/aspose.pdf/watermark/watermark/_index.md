@@ -30,7 +30,7 @@ public Watermark(Image image, Rectangle rect)
 
 ## Watermark(Image) {#constructor}
 
-Инициализирует объект водяного знака изображением.
+Инициализирует объект водяного знака с изображением.
 
 ```csharp
 public Watermark(Image image)

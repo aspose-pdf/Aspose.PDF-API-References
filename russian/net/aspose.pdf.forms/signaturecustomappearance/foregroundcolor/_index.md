@@ -1,14 +1,14 @@
 ---
 title: ForegroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает цвет переднего плана цвет текста. Значение по умолчаниюСиний.
+description: Получает/устанавливает цвет переднего плана цвет текста. Значение по умолчанию Синий.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/
 ---
 ## SignatureCustomAppearance.ForegroundColor property
 
-Получает/устанавливает цвет переднего плана (цвет текста). Значение по умолчанию:Синий.
+Получает/устанавливает цвет переднего плана (цвет текста). Значение по умолчанию: Синий.
 
 ```csharp
 public Color ForegroundColor { get; set; }

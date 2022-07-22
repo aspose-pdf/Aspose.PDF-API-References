@@ -1,14 +1,14 @@
 ---
 title: InteriorColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置注释的内部颜色
+description: 获取或设置注解的内部颜色
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/lineannotation/interiorcolor/
 ---
 ## LineAnnotation.InteriorColor property
 
-获取或设置注释的内部颜色。
+获取或设置注解的内部颜色。
 
 ```csharp
 public Color InteriorColor { get; set; }

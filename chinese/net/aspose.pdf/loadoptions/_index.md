@@ -1,14 +1,14 @@
 ---
 title: LoadOptions
 second_title: Aspose.PDF for .NET API 参考
-description: LoadOptions 类型保存单个加载选项的抽象级别
+description: LoadOptions 类型包含各个加载选项的抽象级别
 type: docs
 weight: 3950
 url: /zh/net/aspose.pdf/loadoptions/
 ---
 ## LoadOptions class
 
-LoadOptions 类型保存单个加载选项的抽象级别
+LoadOptions 类型包含各个加载选项的抽象级别
 
 ```csharp
 public abstract class LoadOptions
@@ -18,8 +18,8 @@ public abstract class LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ### 也可以看看
 

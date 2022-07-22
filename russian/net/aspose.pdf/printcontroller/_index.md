@@ -32,9 +32,9 @@ public sealed class PrintController : PrintController, IDisposable
 | --- | --- |
 | [Dispose](../../aspose.pdf/printcontroller/dispose)() | Утилизировать. |
 | override [OnEndPage](../../aspose.pdf/printcontroller/onendpage)(PrintDocument, PrintPageEventArgs) | Срабатывает при печати в конце страницы. |
-| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint)(PrintDocument, PrintEventArgs) | Срабатывает при начале печати страницы. |
-| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage)(PrintDocument, PrintPageEventArgs) | Срабатывает при начале печати страницы. |
-| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint)(PrintDocument, PrintEventArgs) | Срабатывает при начале печати страницы. |
+| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint)(PrintDocument, PrintEventArgs) | Загорается при начале печати страницы. |
+| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage)(PrintDocument, PrintPageEventArgs) | Загорается при начале печати страницы. |
+| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint)(PrintDocument, PrintEventArgs) | Загорается при начале печати страницы. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: OnActivated
 second_title: Aspose.PDF для справочника API .NET
-description: Действие которое должно выполняться при активации аннотации.
+description: Действие которое должно быть выполнено при активации аннотации.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/widgetannotation/onactivated/
 ---
 ## WidgetAnnotation.OnActivated property
 
-Действие, которое должно выполняться при активации аннотации.
+Действие, которое должно быть выполнено при активации аннотации.
 
 ```csharp
 public PdfAction OnActivated { get; set; }

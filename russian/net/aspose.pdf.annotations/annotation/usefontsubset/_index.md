@@ -1,14 +1,14 @@
 ---
 title: UseFontSubset
 second_title: Aspose.PDF для справочника API .NET
-description: Если для этого свойства установлено значение true шрифты будут добавляться в документ как подмножества. Значение по умолчанию  истина.
+description: Если для этого свойства установлено значение true шрифты будут добавляться в документ как поднаборы. Значение по умолчанию  true.
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.annotations/annotation/usefontsubset/
 ---
 ## Annotation.UseFontSubset property
 
-Если для этого свойства установлено значение true, шрифты будут добавляться в документ как подмножества. Значение по умолчанию — истина.
+Если для этого свойства установлено значение true, шрифты будут добавляться в документ как поднаборы. Значение по умолчанию — true.
 
 ```csharp
 public static bool UseFontSubset { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Form.FlattenSettings
 second_title: Aspose.PDF for .NET API 参考
-description: 描述表单展平过程设置的类
+description: 描述表格展平过程设置的类
 type: docs
 weight: 3030
 url: /zh/net/aspose.pdf.forms/form.flattensettings/
 ---
 ## Form.FlattenSettings class
 
-描述表单展平过程设置的类。
+描述表格展平过程设置的类。
 
 ```csharp
 public class FlattenSettings
@@ -24,10 +24,10 @@ public class FlattenSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ApplyRedactions](../../aspose.pdf.forms/flattensettings/applyredactions) { get; set; } | 如果为真，则指定编辑 将应用编辑注释 |
-| [CallEvents](../../aspose.pdf.forms/flattensettings/callevents) { get; set; } | 如果设置，格式化和其他 JavaScript 事件将被调用。默认为真。 |
+| [ApplyRedactions](../../aspose.pdf.forms/flattensettings/applyredactions) { get; set; } | 如果为真，则指定密文 密文注释将被应用 |
+| [CallEvents](../../aspose.pdf.forms/flattensettings/callevents) { get; set; } | 如果设置，将调用格式化和其他 JavaScript 事件。默认为真。 |
 | [HideButtons](../../aspose.pdf.forms/flattensettings/hidebuttons) { get; set; } | 如果设置，按钮将从展平文档中删除。默认为假。 |
-| [UpdateAppearances](../../aspose.pdf.forms/flattensettings/updateappearances) { get; set; } | 如果设置，所有字段外观将在展平前重新生成。如果字段未正确展平，此选项可能会有所帮助。 此选项可能会降低性能。默认设置为假。 |
+| [UpdateAppearances](../../aspose.pdf.forms/flattensettings/updateappearances) { get; set; } | 如果设置，所有字段外观将在展平前重新生成。如果字段未正确展平，此选项可能会有所帮助。 此选项可能会降低性能。默认设置为 false. |
 
 ### 也可以看看
 

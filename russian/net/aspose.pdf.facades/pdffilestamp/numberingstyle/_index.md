@@ -1,14 +1,14 @@
 ---
 title: NumberingStyle
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает стиль нумерации страниц. Возможные значенияNumeralsArabic NumeralsRomanUppercase NumeralsRomanLowercase LettersAppercase LettersLowercase
+description: Получает или задает стиль нумерации страниц. Возможные значения NumeralsArabic NumeralsRomanUppercase NumeralsRomanLowercase LettersAppercase LettersLowercase
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffilestamp/numberingstyle/
 ---
 ## PdfFileStamp.NumberingStyle property
 
-Получает или задает стиль нумерации страниц. Возможные значения:NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+Получает или задает стиль нумерации страниц. Возможные значения: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Image
 second_title: Aspose.PDF for .NET API 参考
-description: 获取邮票图像如果戳记不包含图像例如文本戳记则可能为空
+description: 获取印章的图像如果戳记不包含图像例如文本戳记则可能为空
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/stampinfo/image/
 ---
 ## StampInfo.Image property
 
-获取邮票图像。如果戳记不包含图像（例如文本戳记），则可能为空。
+获取印章的图像。如果戳记不包含图像（例如文本戳记），则可能为空。
 
 ```csharp
 public Image Image { get; }

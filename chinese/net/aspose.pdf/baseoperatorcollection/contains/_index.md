@@ -16,7 +16,7 @@ public abstract bool Contains(Operator item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Operator | 要查找的操作符项目。 |
+| item | Operator | 要查找的操作员项目。 |
 
 ### 返回值
 

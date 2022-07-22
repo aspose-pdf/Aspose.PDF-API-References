@@ -1,14 +1,14 @@
 ---
 title: SupposedURL
 second_title: Aspose.PDF for .NET API 参考
-description: 由转换器设置 从转换器到自定义方法代码的假定文件名 可用于自定义代码来决定如何处理或保存内容的位置
+description: 由转换器设置 从转换器到自定义方法代码的假定文件名 可在自定义代码中用于决定如何处理或保存内容的位置
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl/
 ---
 ## HtmlSaveOptions.CssSavingInfo.SupposedURL field
 
-由转换器设置。 从转换器到自定义方法代码的假定文件名 可用于自定义代码来决定如何处理或保存内容的位置
+由转换器设置。 从转换器到自定义方法代码的假定文件名 可在自定义代码中用于决定如何处理或保存内容的位置
 
 ```csharp
 public string SupposedURL;

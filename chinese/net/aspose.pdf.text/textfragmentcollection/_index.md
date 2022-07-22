@@ -18,7 +18,7 @@ public sealed class TextFragmentCollection : ICollection<TextFragment>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.text/textfragmentcollection/count) { get; } | 获取集合中实际包含的[`TextFragment`](../textfragment)对象元素的数量。 |
+| [Count](../../aspose.pdf.text/textfragmentcollection/count) { get; } | 获取数量[`TextFragment`](../textfragment)集合中实际包含的对象元素。 |
 | [IsReadOnly](../../aspose.pdf.text/textfragmentcollection/isreadonly) { get; } | 获取表示集合是否为只读的值 |
 | [IsSynchronized](../../aspose.pdf.text/textfragmentcollection/issynchronized) { get; } | 获取一个值，该值指示对集合的访问是否同步（线程安全）。 |
 | [Item](../../aspose.pdf.text/textfragmentcollection/item) { get; } | 获取指定索引处的文本片段元素。 |
@@ -31,9 +31,9 @@ public sealed class TextFragmentCollection : ICollection<TextFragment>
 | [Add](../../aspose.pdf.text/textfragmentcollection/add)(TextFragment) | 在指定索引处添加文本片段元素。 |
 | [Clear](../../aspose.pdf.text/textfragmentcollection/clear)() | 清除集合中的所有项目。 |
 | [Contains](../../aspose.pdf.text/textfragmentcollection/contains)(TextFragment) | 确定集合是否包含特定值。 |
-| [CopyTo](../../aspose.pdf.text/textfragmentcollection/copyto)(TextFragment[], int) | 将整个集合复制到兼容的一维数组，从目标数组的指定索引开始 |
+| [CopyTo](../../aspose.pdf.text/textfragmentcollection/copyto)(TextFragment[], int) | 将整个集合复制到一个兼容的一维数组中，从目标数组的指定索引开始 |
 | [GetEnumerator](../../aspose.pdf.text/textfragmentcollection/getenumerator)() | 返回整个集合的枚举数。 |
-| [Remove](../../aspose.pdf.text/textfragmentcollection/remove)(TextFragment) | 从集合中删除指定项目。 |
+| [Remove](../../aspose.pdf.text/textfragmentcollection/remove)(TextFragment) | 从集合中删除指定的项目。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TextFragments
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекциюTextFragmentaspose.pdf.text/textfragment которая была найдена на странице.
+description: Получает коллекциюTextFragmentaspose.pdf.text/textfragment что было найдено на странице.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/pagemarkup/textfragments/
 ---
 ## PageMarkup.TextFragments property
 
-Получает коллекцию[`TextFragment`](../../textfragment), которая была найдена на странице.
+Получает коллекцию[`TextFragment`](../../textfragment) что было найдено на странице.
 
 ```csharp
 public List<TextFragment> TextFragments { get; }
@@ -16,7 +16,7 @@ public List<TextFragment> TextFragments { get; }
 
 ### Примечания
 
-Объект[`TextFragment`](../../textfragment)обеспечивает доступ к тексту вхождения поиска, свойствам текста, а также позволяет редактировать текст и изменять состояние текста (шрифт, размер шрифта, цвет и т. д.).
+[`TextFragment`](../../textfragment) Объект предоставляет доступ к тексту вхождения поиска, свойствам текста, а также позволяет редактировать текст и изменять его состояние (шрифт, размер шрифта, цвет и т. д.).
 
 ### Смотрите также
 

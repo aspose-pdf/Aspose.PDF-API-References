@@ -22,7 +22,7 @@ public sealed class AnnotationCollection : ICollection<Annotation>
 | [IsReadOnly](../../aspose.pdf.annotations/annotationcollection/isreadonly) { get; } | 获取一个值，该值指示集合是否为只读。 |
 | [IsSynchronized](../../aspose.pdf.annotations/annotationcollection/issynchronized) { get; } | 获取一个值，该值指示对 Aspose.Pdf.Annotations.AnnotationCollection 的访问是否同步（线程安全）。 |
 | [Item](../../aspose.pdf.annotations/annotationcollection/item) { get; } | 要获取的元素的索引。 |
-| [SyncRoot](../../aspose.pdf.annotations/annotationcollection/syncroot) { get; } | 获取可用于同步访问 Aspose.Pdf.Annotations.AnnotationCollection 的对象。 |
+| [SyncRoot](../../aspose.pdf.annotations/annotationcollection/syncroot) { get; } | 获取可用于同步访问 Aspose.Pdf.Annotations.AnnotationCollection. 的对象 |
 
 ## 方法
 

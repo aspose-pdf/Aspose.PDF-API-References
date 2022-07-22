@@ -1,14 +1,14 @@
 ---
 title: PDF3DLightingScheme
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DLightingSchemeaspose.pdf.annotations/pdf3dlightingscheme类的新实例
+description: 初始化PDF3DLightingSchemeaspose.pdf.annotations/pdf3dlightingscheme类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/
 ---
 ## PDF3DLightingScheme(LightingSchemeType) {#constructor}
 
-初始化[`PDF3DLightingScheme`](../../pdf3dlightingscheme)类的新实例。
+初始化[`PDF3DLightingScheme`](../../pdf3dlightingscheme)类.
 
 ```csharp
 public PDF3DLightingScheme(LightingSchemeType type)
@@ -29,7 +29,7 @@ public PDF3DLightingScheme(LightingSchemeType type)
 
 ## PDF3DLightingScheme(string) {#constructor_1}
 
-初始化[`PDF3DLightingScheme`](../../pdf3dlightingscheme)类的新实例。
+初始化[`PDF3DLightingScheme`](../../pdf3dlightingscheme)类.
 
 ```csharp
 public PDF3DLightingScheme(string typeName)
@@ -43,7 +43,7 @@ public PDF3DLightingScheme(string typeName)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 未知照明方案类型参数 |
+| ArgumentException | 未知的照明方案类型参数 |
 
 ### 也可以看看
 

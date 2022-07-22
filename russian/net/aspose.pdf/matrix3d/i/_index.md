@@ -1,14 +1,14 @@
 ---
 title: I
 second_title: Aspose.PDF для справочника API .NET
-description: Я член матрицы трансформации.
+description: I член матрицы преобразования.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/matrix3d/i/
 ---
 ## Matrix3D.I property
 
-Я член матрицы трансформации.
+I член матрицы преобразования.
 
 ```csharp
 public double I { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PageMarkup
 second_title: Aspose.PDF for .NET API 参考
-description: 页面标记由MarkupSection./markupsection和MarkupParagraph
+description: 由以下集合表示的页面标记MarkupSection./markupsection和MarkupParagraph./markupparagraph.
 type: docs
 weight: 6840
 url: /zh/net/aspose.pdf.text/pagemarkup/
 ---
 ## PageMarkup class
 
-页面标记由[`MarkupSection`](../markupsection)和MarkupParagraph。
+由以下集合表示的页面标记[`MarkupSection`](../markupsection)和[`MarkupParagraph`](../markupparagraph).
 
 ```csharp
 public sealed class PageMarkup
@@ -18,12 +18,12 @@ public sealed class PageMarkup
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/pagemarkup/ismulticolumnparagraphsallowed) { get; set; } | 获取或设置指示下一节的起始文本行是否可以视为上一节最后一段的延续的值。 |
+| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/pagemarkup/ismulticolumnparagraphsallowed) { get; set; } | 获取或设置值，该值指示下一节的起始文本行是否可以视为上一节最后一段的延续。 |
 | [Number](../../aspose.pdf.text/pagemarkup/number) { get; } | 获取已处理的页码。 |
-| [Paragraphs](../../aspose.pdf.text/pagemarkup/paragraphs) { get; } | 获取在页面上找到的[`MarkupParagraph`](../markupparagraph)集合。 |
+| [Paragraphs](../../aspose.pdf.text/pagemarkup/paragraphs) { get; } | 获取集合[`MarkupParagraph`](../markupparagraph)这是在页面上找到的。 |
 | [Rectangle](../../aspose.pdf.text/pagemarkup/rectangle) { get; } | 获取已处理的页面矩形。 |
-| [Sections](../../aspose.pdf.text/pagemarkup/sections) { get; } | 获取在页面上找到的[`MarkupSection`](../markupsection)集合。 |
-| [TextFragments](../../aspose.pdf.text/pagemarkup/textfragments) { get; } | 获取在页面上找到的[`TextFragment`](../textfragment)集合。 |
+| [Sections](../../aspose.pdf.text/pagemarkup/sections) { get; } | 获取集合[`MarkupSection`](../markupsection)这是在页面上找到的。 |
+| [TextFragments](../../aspose.pdf.text/pagemarkup/textfragments) { get; } | 获取集合[`TextFragment`](../textfragment)这是在页面上找到的。 |
 
 ### 也可以看看
 

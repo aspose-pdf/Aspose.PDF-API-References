@@ -1,14 +1,14 @@
 ---
 title: BlendingSpace
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置定义颜色空间 的 BlendingColorSpace 值该颜色空间用于在页面上执行透明度和混合操作
+description: 获取或设置一个定义颜色空间 的 BlendingColorSpace 值用于在页面上执行透明度和混合操作
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/stamp/blendingspace/
 ---
 ## Stamp.BlendingSpace property
 
-获取或设置定义颜色空间 的 BlendingColorSpace 值，该颜色空间用于在页面上执行透明度和混合操作。
+获取或设置一个定义颜色空间 的 BlendingColorSpace 值，用于在页面上执行透明度和混合操作。
 
 ```csharp
 public BlendingColorSpace BlendingSpace { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: IAnnotationVisitor
 second_title: Aspose.PDF for .NET API 参考
-description: 定义访问者用于访问不同的文档注释
+description: 定义访问者访问不同的文档注释
 type: docs
 weight: 510
 url: /zh/net/aspose.pdf.annotations/iannotationvisitor/
 ---
 ## IAnnotationVisitor interface
 
-定义访问者，用于访问不同的文档注释。
+定义访问者访问不同的文档注释。
 
 ```csharp
 public interface IAnnotationVisitor
@@ -33,8 +33,8 @@ public interface IAnnotationVisitor
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_12)(ScreenAnnotation) | 访问/选择屏幕注释。 |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_13)(SquareAnnotation) | 访问/选择方形注释。 |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_14)(SquigglyAnnotation) | 访问/选择波浪形注释。 |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_15)(StampAnnotation) | 访问/选择戳记注释。 |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_16)(StrikeOutAnnotation) | 访问/选择罢工注释。 |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_15)(StampAnnotation) | 访问/选择邮票注释。 |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_16)(StrikeOutAnnotation) | 访问/选择删除注释。 |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_17)(TextAnnotation) | 访问/选择文本注释。 |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_18)(UnderlineAnnotation) | 访问/选择下划线注释。 |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_19)(WidgetAnnotation) | 访问/选择小部件注释。 |

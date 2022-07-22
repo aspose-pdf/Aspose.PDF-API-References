@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает размер шрифта. Значение по умолчанию10.
+description: Получает/устанавливает размер шрифта. Значение по умолчанию 10.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
 ## SignatureCustomAppearance.FontSize property
 
-Получает/устанавливает размер шрифта. Значение по умолчанию:10.
+Получает/устанавливает размер шрифта. Значение по умолчанию: 10.
 
 ```csharp
 public double FontSize { get; set; }

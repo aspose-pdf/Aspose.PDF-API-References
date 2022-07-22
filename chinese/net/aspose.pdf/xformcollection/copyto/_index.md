@@ -17,7 +17,7 @@ public void CopyTo(XForm[] array, int index)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | array | XForm[] | 要复制的 XForm 数组 |
-| index | Int32 | 索引XFormCollection 将被复制到哪里 |
+| index | Int32 | XFormCollection 将被复制到的索引 |
 
 ### 也可以看看
 

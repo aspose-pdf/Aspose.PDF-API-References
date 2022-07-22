@@ -17,7 +17,7 @@ public RichTextBoxField(Page page, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Страница, на которой будет размещено поле. |
-| rect | Rectangle | Позиция поля на странице. |
+| rect | Rectangle | Положение поля на странице. |
 
 ### Смотрите также
 

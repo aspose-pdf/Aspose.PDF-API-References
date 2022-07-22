@@ -1,14 +1,14 @@
 ---
 title: Superscript
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает верхний индекс текста представленный объектомTextFragmentaspose.pdf.text/textfragment.
+description: Получает или задает верхний индекс текста представленногоTextFragmentaspose.pdf.text/textfragment объект.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.text/textfragmentstate/superscript/
 ---
 ## TextFragmentState.Superscript property
 
-Получает или задает верхний индекс текста, представленный объектом[`TextFragment`](../../textfragment).
+Получает или задает верхний индекс текста, представленного[`TextFragment`](../../textfragment) объект.
 
 ```csharp
 public override bool Superscript { get; set; }
