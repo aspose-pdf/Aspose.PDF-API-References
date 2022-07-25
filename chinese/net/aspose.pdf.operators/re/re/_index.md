@@ -1,14 +1,14 @@
 ---
 title: Re
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/re/re/
 ---
 ## Re() {#constructor}
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public Re()
@@ -24,7 +24,7 @@ public Re()
 
 ## Re(double, double, double, double) {#constructor_1}
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public Re(double x, double y, double width, double height)

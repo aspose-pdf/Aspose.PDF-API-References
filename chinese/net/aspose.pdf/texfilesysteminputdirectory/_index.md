@@ -24,7 +24,7 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose)() | 释放实例。 |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose)() | 处理实例。 |
 | [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile)(string, out string, bool) | 返回要读取的流。 |
 
 ### 也可以看看

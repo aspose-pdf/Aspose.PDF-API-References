@@ -1,14 +1,14 @@
 ---
 title: ComHelper
 second_title: Aspose.PDF для справочника API .NET
-description: Предоставляет методы для COM-клиентов для загрузки документа в Aspose.Pdf.
+description: Предоставляет COM-клиентам методы для загрузки документа в Aspose.Pdf.
 type: docs
 weight: 1540
 url: /ru/net/aspose.pdf/comhelper/
 ---
 ## ComHelper class
 
-Предоставляет методы для COM-клиентов для загрузки документа в Aspose.Pdf.
+Предоставляет COM-клиентам методы для загрузки документа в Aspose.Pdf.
 
 ```csharp
 public class ComHelper
@@ -24,19 +24,19 @@ public class ComHelper
 
 | Имя | Описание |
 | --- | --- |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile)(string) | Просто создайте и верните Document с помощью*filename*. То же, что[`Document`](../document/document). |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_1)(string, LoadOptions) | Откройте существующий документ из файла, предоставив необходимые параметры преобразования для получения документа в формате pdf. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_2)(string, string) | Инициализировать и вернуть новый экземпляр класса[`Document`](../document)для работы с зашифрованным документом. |
-| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_3)(string, string, bool) | Инициализировать новый экземпляр класса[`Document`](../document)для работы с зашифрованным документом. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream)(Stream) | Инициализировать и вернуть новый экземпляр документа из потока*input*. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_2)(Stream, bool) | Инициализировать и вернуть новый экземпляр документа из потока*input*. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile)(string) | Просто создайте и верните документ, используя*filename* . Такой же как[`Document`](../document/document) . |
+| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_1)(string, LoadOptions) | Открытие существующего документа из файла с необходимыми параметрами преобразования для получения документа в формате pdf. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_2)(string, string) | Инициализировать и вернуть новый экземпляр[`Document`](../document) класс для работы с зашифрованным документом. |
+| [OpenFile](../../aspose.pdf/comhelper/openfile#openfile_3)(string, string, bool) | Инициализировать новый экземпляр[`Document`](../document) класс для работы с зашифрованным документом. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream)(Stream) | Инициализировать и вернуть новый экземпляр документа из*input* поток. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_2)(Stream, bool) | Инициализировать и вернуть новый экземпляр документа из*input* поток. |
 | [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_1)(Stream, LoadOptions) | Открыть и вернуть существующий документ из потока, обеспечив необходимое преобразование для получения pdf-документа. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_3)(Stream, string) | Инициализировать и вернуть новый экземпляр документа из потока*input*. |
-| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_4)(Stream, string, bool) | Инициализировать и вернуть новый экземпляр документа из потока*input*. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_3)(Stream, string) | Инициализировать и вернуть новый экземпляр документа из*input* поток. |
+| [OpenStream](../../aspose.pdf/comhelper/openstream#openstream_4)(Stream, string, bool) | Инициализировать и вернуть новый экземпляр документа из*input* поток. |
 
 ### Примечания
 
-Используйте класс ComHelper для загрузки документа из файла или потока в объект Document в COM. заявление. Класс Document предоставляет конструктор по умолчанию для создания нового документа , а также предоставляет перегруженные конструкторы для загрузки документа из файла или потока. Если вы используете Aspose.Words из приложения .NET, вы можете напрямую использовать все конструкторы Document, но если вы используете Aspose.Pdf из COM-приложения, доступен только конструктор документа по умолчанию.
+Используйте класс ComHelper для загрузки документа из файла или потока в объект Document в приложении COM. Класс Document предоставляет конструктор по умолчанию для создания нового документа , а также предоставляет перегруженные конструкторы для загрузки документа из файла или потока . Если вы используете Aspose.Words из приложения .NET, вы можете напрямую использовать все конструкторы документов, но если вы используете Aspose.Pdf из приложения COM, доступен только конструктор документов по умолчанию.
 
 ### Смотрите также
 

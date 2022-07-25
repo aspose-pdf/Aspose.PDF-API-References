@@ -1,14 +1,14 @@
 ---
 title: ReplaceOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Получает параметры замены текста. Опции определяют поведение при замене текста фрагмента на более короткий/длинный.
+description: Получает параметры замены текста. Параметры определяют поведение при замене текста фрагмента на более короткий/длинный.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textfragment/replaceoptions/
 ---
 ## TextFragment.ReplaceOptions property
 
-Получает параметры замены текста. Опции определяют поведение при замене текста фрагмента на более короткий/длинный.
+Получает параметры замены текста. Параметры определяют поведение при замене текста фрагмента на более короткий/длинный.
 
 ```csharp
 public TextReplaceOptions ReplaceOptions { get; }

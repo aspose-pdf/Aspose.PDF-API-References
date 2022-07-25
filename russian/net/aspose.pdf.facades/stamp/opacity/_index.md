@@ -1,14 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает прозрачность штампа.
+description: Получает или задает непрозрачность штампа.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/stamp/opacity/
 ---
 ## Stamp.Opacity property
 
-Получает или задает прозрачность штампа.
+Получает или задает непрозрачность штампа.
 
 ```csharp
 public float Opacity { get; set; }

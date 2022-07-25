@@ -1,14 +1,14 @@
 ---
 title: SetCMYKColor
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setcmykcolor/setcmykcolor/
 ---
 ## SetCMYKColor constructor
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public SetCMYKColor(double c, double m, double y, double k)
@@ -16,9 +16,9 @@ public SetCMYKColor(double c, double m, double y, double k)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| c | Double | 青色水平从 0.0 到 1.0 |
-| m | Double | 洋红色级别从 0.0 到 1.0 |
-| y | Double | 黄色级别从 0.0 到 1.0 |
+| c | Double | 青色级别从 0.0 到 1.0 |
+| m | Double | 洋红色的级别从 0.0 到 1.0 |
+| y | Double | 黄色的级别从 0.0 到 1.0 |
 | k | Double | 黑色的等级从 0.0 到 1.0 |
 
 ### 也可以看看

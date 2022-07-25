@@ -1,14 +1,14 @@
 ---
 title: IsTextSizeSpecified
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个值该值指示是否指定TextSizeaspose.pdf.facades/textproperties/textsize属性
+description: 获取或设置一个值该值指示是否TextSizeaspose.pdf.facades/textproperties/textsize属性已指定
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/textproperties/istextsizespecified/
 ---
 ## TextProperties.IsTextSizeSpecified property
 
-获取或设置一个值，该值指示是否指定[`TextSize`](../textsize)属性。
+获取或设置一个值，该值指示是否[`TextSize`](../textsize)属性已指定。
 
 ```csharp
 public bool IsTextSizeSpecified { get; }

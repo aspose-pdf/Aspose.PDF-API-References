@@ -1,14 +1,14 @@
 ---
 title: Brightness
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение границы преобразования цветов в белый и черный. Этот параметр может применяться с EncoderValue.CompressionCCITT4 EncoderValue.CompressionCCITT3 EncoderValue.CompressionRle или ColorDepth.Format1bpp  1
+description: Получить или задать границу значения преобразования цветов в белый и черный. Этот параметр можно применять с EncoderValue.CompressionCCITT4 EncoderValue.CompressionCCITT3 EncoderValue.CompressionRle или ColorDepth.Format1bpp  1
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/tiffsettings/brightness/
 ---
 ## TiffSettings.Brightness property
 
-Получает или задает значение границы преобразования цветов в белый и черный. Этот параметр может применяться с EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle или ColorDepth.Format1bpp == 1
+Получить или задать границу значения преобразования цветов в белый и черный. Этот параметр можно применять с EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle или ColorDepth.Format1bpp == 1
 
 ```csharp
 public float Brightness { get; set; }

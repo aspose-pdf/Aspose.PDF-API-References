@@ -1,14 +1,14 @@
 ---
 title: DeprecatedFeatureException
 second_title: Aspose.PDF для справочника API .NET
-description: Исключение которое возникает когда функция устарела в текущей версии PDF.
+description: Исключение которое выдается когда функция устарела в текущей версии PDF.
 type: docs
 weight: 1610
 url: /ru/net/aspose.pdf/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException class
 
-Исключение, которое возникает, когда функция устарела в текущей версии PDF.
+Исключение, которое выдается, когда функция устарела в текущей версии PDF.
 
 ```csharp
 public sealed class DeprecatedFeatureException : PdfException
@@ -18,7 +18,7 @@ public sealed class DeprecatedFeatureException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [DeprecatedFeatureException](deprecatedfeatureexception#constructor)() | Инициализирует новый экземпляр класса[`DeprecatedFeatureException`](../deprecatedfeatureexception). |
+| [DeprecatedFeatureException](deprecatedfeatureexception#constructor)() | Инициализирует новый экземпляр[`DeprecatedFeatureException`](../deprecatedfeatureexception) класс. |
 | [DeprecatedFeatureException](deprecatedfeatureexception#constructor_1)(string) | Конструктор. |
 
 ### Смотрите также

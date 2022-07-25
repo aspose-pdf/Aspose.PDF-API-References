@@ -1,14 +1,14 @@
 ---
 title: Radius
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение с плавающей запятой указывающее радиус окружности.
+description: Получает или задает значение с плавающей запятой указывающее радиус круга.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.drawing/circle/radius/
 ---
 ## Circle.Radius property
 
-Получает или задает значение с плавающей запятой, указывающее радиус окружности.
+Получает или задает значение с плавающей запятой, указывающее радиус круга.
 
 ```csharp
 public double Radius { get; set; }

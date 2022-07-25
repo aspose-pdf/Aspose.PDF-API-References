@@ -1,14 +1,20 @@
 ---
 title: PdfFileStamp
 second_title: Aspose.PDF for .NET API 参考
-description: PdfFileStamp 的构造函数 输入文件和输出文件可以通过相应的属性来指定  ltcodegt PdfFileStamp fileStamp  new PdfFileStamp fileStamp.InputFile  input.pdf fileStamp.OutputFile  output.pdf lt/codegt
+description: PdfFileStamp 的构造函数 可以通过相应的属性指定输入文件和输出文件
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
 ---
 ## PdfFileStamp() {#constructor}
 
-PdfFileStamp 的构造函数。 输入文件和输出文件可以通过相应的属性来指定。  &lt;code&gt; PdfFileStamp fileStamp = new PdfFileStamp(); fileStamp.InputFile = "input.pdf"; fileStamp.OutputFile = "output.pdf"; &lt;/code&gt;
+PdfFileStamp 的构造函数。 可以通过相应的属性指定输入文件和输出文件。
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp();
+fileStamp.InputFile = "input.pdf";
+fileStamp.OutputFile = "output.pdf";
+```
 
 ```csharp
 public PdfFileStamp()
@@ -24,7 +30,7 @@ public PdfFileStamp()
 
 ## PdfFileStamp(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`PdfFileStamp`](../../pdffilestamp)对象。
+初始化新的[`PdfFileStamp`](../../pdffilestamp)对象基于*document*.
 
 ```csharp
 public PdfFileStamp(Document document)
@@ -32,7 +38,7 @@ public PdfFileStamp(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | Pdf 文档. |
 
 ### 也可以看看
 

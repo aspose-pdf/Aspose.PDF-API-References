@@ -1,14 +1,14 @@
 ---
 title: Rect
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置注释矩形
+description: 获取或设置标注矩形
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.annotations/annotation/rect/
 ---
 ## Annotation.Rect property
 
-获取或设置注释矩形。
+获取或设置标注矩形。
 
 ```csharp
 public virtual Rectangle Rect { get; set; }

@@ -24,7 +24,7 @@ public DateField()
 
 ## DateField(Document) {#constructor_1}
 
-构造函数，应该与生成器一起使用。
+应与 Generator. 一起使用的构造函数
 
 ```csharp
 public DateField(Document doc)
@@ -32,7 +32,7 @@ public DateField(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public DateField(Document doc)
 
 ## DateField(Page, Rectangle) {#constructor_3}
 
-初始化一个新的实例 [`DateField`](../../datefield)
+初始化[`DateField`](../../datefield)
 
 ```csharp
 public DateField(Page page, Rectangle rect)
@@ -68,7 +68,7 @@ public DateField(Page page, Rectangle rect)
 
 ## DateField(Document, Rectangle) {#constructor_2}
 
-初始化一个新的实例 [`DateField`](../../datefield)
+初始化[`DateField`](../../datefield)
 
 ```csharp
 public DateField(Document doc, Rectangle rect)

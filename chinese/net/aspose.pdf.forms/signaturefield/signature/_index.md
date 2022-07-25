@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Aspose.PDF for .NET API 参考
-description: 获取签名对象 该对象包含有关公钥加密标准的签名数据 类PKCS1aspose.pdf.forms/pkcs1PKCS7aspose.pdf.forms/pkcs7和PKCS7Detachedaspose.pdf.forms/pkcs7detached 表示所有支持的签名对象类型
+description: 获取签名对象 此对象包含有关公钥加密标准的签名数据 类PKCS1aspose.pdf.forms/pkcs1PKCS7aspose.pdf.forms/pkcs7和PKCS7Detachedaspose.pdf.forms/pkcs7detached 代表所有支持的签名对象类型
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/signaturefield/signature/
 ---
 ## SignatureField.Signature property
 
-获取签名对象。 该对象包含有关公钥加密标准的签名数据。 类[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7)和[`PKCS7Detached`](../../pkcs7detached) 表示所有支持的签名对象类型。
+获取签名对象。 此对象包含有关公钥加密标准的签名数据。 类[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7)和[`PKCS7Detached`](../../pkcs7detached) 代表所有支持的签名对象类型。
 
 ```csharp
 public Signature Signature { get; }

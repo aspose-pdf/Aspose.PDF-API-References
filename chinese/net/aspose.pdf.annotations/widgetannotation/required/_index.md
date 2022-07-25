@@ -1,14 +1,14 @@
 ---
 title: Required
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置字段的必需状态
+description: 获取或设置字段的所需状态
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.annotations/widgetannotation/required/
 ---
 ## WidgetAnnotation.Required property
 
-获取或设置字段的必需状态。
+获取或设置字段的所需状态。
 
 ```csharp
 public bool Required { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: HtmlHostPageNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 告诉自定义代码生成的 HTML 页面文件集的哪个页面与保存的图像有关 如果页面拆分关闭此值始终包含1因为在这种情况下 仅生成一个 HTML 页面
+description: 告诉自定义代码生成的一组 HTML 页面文件中的哪一页与保存的图像有关 如果关闭页面拆分此值始终包含1因为在这种情况下 仅生成一个 HTML 页面
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber/
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo.HtmlHostPageNumber field
 
-告诉自定义代码生成的 HTML 页面文件集的哪个页面与保存的图像有关。 如果页面拆分关闭，此值始终包含“1”，因为在这种情况下 仅生成一个 HTML 页面。
+告诉自定义代码生成的一组 HTML 页面文件中的哪一页与保存的图像有关。 如果关闭页面拆分，此值始终包含“1”，因为在这种情况下 仅生成一个 HTML 页面。
 
 ```csharp
 public int HtmlHostPageNumber;

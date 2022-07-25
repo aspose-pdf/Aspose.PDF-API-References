@@ -19,8 +19,8 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 | --- | --- | --- |
 | importedDataTable | DataTable | System.Data.DataTable 的源实例 |
 | isColumnNamesImported | Boolean | 指定是否将列名作为第一行导入 |
-| firstFilledRow | Int32 | 指定从零开始导入的目标表中第一行的编号，如果目标表中不存在具有该编号的行（和一些先前的行），它们将首先创建 |
-| firstFilledColumn | Int32 | 指定目标表中第一个目标列的编号，在开始导入之前，列必须存在于目标表中 |
+| firstFilledRow | Int32 | 指定从零开始导入的目标表中第一行的编号，如果目标表中不存在具有该编号的行（和一些先前的行），则将首先创建它们 |
+| firstFilledColumn | Int32 | 指定目标表中第一个目标列的数量，在开始导入之前列必须存在于目标表中 |
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 
 ## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
 
-将DataTable对象导入表中。
+导入一个DataTable对象放入表中。
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -42,10 +42,10 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| importedDataTable | DataTable | DataTable要导入的对象。 |
-| isColumnNamesShown | Boolean | 指定源数据表的列名是否将 作为第一行导入。 |
-| firstFilledRow | Int32 | 指定从零开始导入的目标表中第一行的编号，如果目标表中不存在具有该编号的行（以及之前的一些行） ，它们将首先创建 |
-| firstFilledColumn | Byte | 指定目标表中第一个目标列的数量，在导入开始之前，列必须存在于目标表中 |
+| importedDataTable | DataTable | 这DataTable要导入的对象。 |
+| isColumnNamesShown | Boolean | 指定是否将源数据表的列名 作为第一行导入。 |
+| firstFilledRow | Int32 | 指定从零开始导入的目标表中第一行的编号，如果目标表中不存在具有该编号的行（和一些先前的行），则将首先创建它们 |
+| firstFilledColumn | Byte | 指定目标表中第一个目标列的数量，在开始导入之前列必须存在于目标表中 |
 | maxRows | Int32 | 要从源表导入的最大行数。 |
 | maxColumns | Int32 | 要从源表导入的最大列数。 |
 | isHtmlSupported | Boolean | 指定文本是否为 html 字符串。 |
@@ -60,7 +60,7 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 ## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-导入DataTable对象，但不是作为整个实体。仅导入指定的行和列。
+导入一个DataTable对象，但不是整个实体。仅导入指定的行和列。
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -70,11 +70,11 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| importedDataTable | DataTable | DataTable要导入的对象。 |
-| sourceRowList | Int32[] | 必须导入的源DataTable对象中的行数数组。 List 不能为空，并且只能包含现有行数，否则将引发异常。 |
-| sourceColumnList | Int32[] | 必须导入的源DataTable对象中的列数数组。 List 不能为空，并且只能包含现有列的数量，否则将引发异常。 |
-| firstFilledRow | Int32 | 从零开始导入的目标表中第一个单元格的行号。 如果目标表不包含该行，则将创建它（以及所有以前的，如果需要） |
-| firstFilledColumn | Int32 | 从零开始的列号目标表中将开始导入的第一个单元格。在导入开始之前，目标表必须包含该列，否则将引发异常。 |
+| importedDataTable | DataTable | 这DataTable要导入的对象。 |
+| sourceRowList | Int32[] | 源中的行数数组DataTable必须导入的对象。 List 不能为空，并且只能包含现有行数，否则将引发异常。 |
+| sourceColumnList | Int32[] | 源中的列数数组DataTable必须导入的对象。 List 不能为空，并且只能包含现有列的数量，否则将引发异常。 |
+| firstFilledRow | Int32 | 从零开始导入的目标表中第一个单元格的行号。 如果目标表不包含该行，则将创建它（以及所有先前的行，如有必要） |
+| firstFilledColumn | Int32 | 从零开始导入的目标表中第一个单元格的列号。在导入开始之前，目标表必须包含该列，否则将引发异常。 |
 | showColumnNamesAsFirstRow | Boolean | 指定是否将源数据表的列名作为第一行导入。 |
 | isHtmlSupported | Boolean | 指定文本是否为 html 字符串。 |
 

@@ -1,14 +1,14 @@
 ---
 title: GetMimeType
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает MIME-тип изображения.
+description: Возвращает тип mime для изображения.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/image/getmimetype/
 ---
 ## Image.GetMimeType method
 
-Возвращает MIME-тип изображения.
+Возвращает тип mime для изображения.
 
 ```csharp
 public static string GetMimeType(Image i)
@@ -16,11 +16,11 @@ public static string GetMimeType(Image i)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| i | Image | Image object/ |
+| i | Image | Объект изображения/ |
 
 ### Возвращаемое значение
 
-Тип Mime как строка, если найден ; в противном случае — значение «изображение/неизвестно».
+Тип Mime в виде строки, если он найден; в противном случае — значение «изображение/неизвестно».
 
 ### Смотрите также
 

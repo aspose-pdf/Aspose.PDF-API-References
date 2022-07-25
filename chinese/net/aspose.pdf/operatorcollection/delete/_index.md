@@ -20,7 +20,7 @@ public void Delete(int index)
 
 ### 例子
 
-示例演示如何通过索引删除运算符。
+示例演示如何按索引删除运算符。
 
 ```csharp
 Document doc = new Document("input.pdf");

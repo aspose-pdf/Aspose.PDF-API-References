@@ -18,7 +18,7 @@ public void CreateMovie(Rectangle rect, string filePath, int page)
 | --- | --- | --- |
 | rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | filePath | String | 要播放的电影文件的路径。 |
-| page | Int32 | 创建 Line 注释的页面。 |
+| page | Int32 | 创建线注释的页面。 |
 
 ### 也可以看看
 

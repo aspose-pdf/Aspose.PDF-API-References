@@ -16,7 +16,7 @@ public void Insert(int index, Cell cell)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 选择的索引。 |
+| index | Int32 | 选定的索引。 |
 | cell | Cell | 选定的单元格。 |
 
 ### 也可以看看

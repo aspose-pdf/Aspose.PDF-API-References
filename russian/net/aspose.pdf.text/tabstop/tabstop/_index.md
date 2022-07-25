@@ -1,14 +1,14 @@
 ---
 title: TabStop
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTabStopaspose.pdf.text/tabstop.
+description: Инициализирует новый экземплярTabStopaspose.pdf.text/tabstop класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/tabstop/tabstop/
 ---
 ## TabStop() {#constructor}
 
-Инициализирует новый экземпляр класса[`TabStop`](../../tabstop).
+Инициализирует новый экземпляр[`TabStop`](../../tabstop) класс.
 
 ```csharp
 public TabStop()
@@ -24,7 +24,7 @@ public TabStop()
 
 ## TabStop(float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`TabStop`](../../tabstop)с указанной позицией.
+Инициализирует новый экземпляр[`TabStop`](../../tabstop) класс с указанной позицией.
 
 ```csharp
 public TabStop(float position)
@@ -32,7 +32,7 @@ public TabStop(float position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Single | Позиция позиции табуляции. |
+| position | Single | Положение табуляции. |
 
 ### Смотрите также
 

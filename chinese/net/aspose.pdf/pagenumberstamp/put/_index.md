@@ -16,7 +16,7 @@ public override void Put(Page page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 冲压页面。 |
+| page | Page | 用于冲压的页面。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Opi
 second_title: Aspose.PDF for .NET API 参考
-description: 表示开放式印前接口 OPI 是一种为此类高分辨率图像创建低分辨率占位符或代理的机制 
+description: 表示 Open Prepress Interface OPI 是一种用于创建低分辨率占位符或代理的机制 用于此类高分辨率图像
 type: docs
 weight: 5700
 url: /zh/net/aspose.pdf/opi/
 ---
 ## Opi class
 
-表示开放式印前接口 (OPI) 是一种为此类高分辨率图像创建低分辨率占位符或代理的机制 。
+表示 Open Prepress Interface (OPI) 是一种用于创建低分辨率占位符或代理的机制， 用于此类高分辨率图像。
 
 ```csharp
 public sealed class Opi
@@ -18,14 +18,14 @@ public sealed class Opi
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Opi](opi)(XForm) | 构造函数。 |
+| [Opi](opi)(XForm) | 构造函数. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FileSpecification](../../aspose.pdf/opi/filespecification) { get; } | 获取包含低分辨率代理图像的外部文件。 |
-| [Position](../../aspose.pdf/opi/position) { get; } | 获取一个由八个数字组成的数组，指定裁剪图像在页面上的位置。 |
+| [Position](../../aspose.pdf/opi/position) { get; } | 获取表格的八个数字组成的数组，指定裁剪图像在页面上的位置。 |
 | [Version](../../aspose.pdf/opi/version) { get; } | 获取此字典所引用的 OPI 版本。 |
 
 ### 也可以看看

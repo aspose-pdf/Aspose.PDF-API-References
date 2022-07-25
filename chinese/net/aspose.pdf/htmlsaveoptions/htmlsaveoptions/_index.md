@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化HtmlSaveOptionsaspose.pdf/htmlsaveoptions类的新实例
+description: 初始化HtmlSaveOptionsaspose.pdf/htmlsaveoptions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
 ---
 ## HtmlSaveOptions() {#constructor}
 
-初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类的新实例。
+初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类.
 
 ```csharp
 public HtmlSaveOptions()
@@ -24,7 +24,7 @@ public HtmlSaveOptions()
 
 ## HtmlSaveOptions(HtmlDocumentType) {#constructor_1}
 
-初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类的新实例。
+初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类.
 
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType)
@@ -32,7 +32,7 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| documentType | HtmlDocumentType | [`HtmlDocumentType`](../../htmldocumenttype)。 |
+| documentType | HtmlDocumentType | 这[`HtmlDocumentType`](../../htmldocumenttype). |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 
 ## HtmlSaveOptions(bool) {#constructor_3}
 
-初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类的新实例。
+初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类.
 
 ```csharp
 public HtmlSaveOptions(bool fixedLayout)
@@ -53,7 +53,7 @@ public HtmlSaveOptions(bool fixedLayout)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fixedLayout | Boolean | 如果设置为` true` HTML 创建为固定布局。 |
+| fixedLayout | Boolean | 如果设置为`真的`HTML 被创建为固定布局。 |
 
 ### 也可以看看
 
@@ -65,7 +65,7 @@ public HtmlSaveOptions(bool fixedLayout)
 
 ## HtmlSaveOptions(HtmlDocumentType, bool) {#constructor_2}
 
-初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类的新实例。
+初始化[`HtmlSaveOptions`](../../htmlsaveoptions)类.
 
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
@@ -73,8 +73,8 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| documentType | HtmlDocumentType | [`HtmlDocumentType`](../../htmldocumenttype)。 |
-| fixedLayout | Boolean | 如果设置为` true` HTML 被创建为固定布局。 |
+| documentType | HtmlDocumentType | 这[`HtmlDocumentType`](../../htmldocumenttype). |
+| fixedLayout | Boolean | 如果设置为`真的`HTML 被创建为固定布局。 |
 
 ### 也可以看看
 

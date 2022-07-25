@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API 参考
-description: 部分内的MarkupParagraphaspose.pdf.text/markupparagraph对象的集合
+description: 集合MarkupParagraphaspose.pdf.text/markupparagraph section. 内的对象
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/markupsection/paragraphs/
 ---
 ## MarkupSection.Paragraphs property
 
-部分内的[`MarkupParagraph`](../../markupparagraph)对象的集合。
+集合[`MarkupParagraph`](../../markupparagraph) section. 内的对象
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }

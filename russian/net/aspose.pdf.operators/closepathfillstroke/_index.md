@@ -1,14 +1,14 @@
 ---
 title: ClosePathFillStroke
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор b закрыть заполнить и обвести путь с ненулевым правилом намотки.
+description: Класс представляющий оператор b закрытие заполнение и обводка пути с ненулевым правилом намотки.
 type: docs
 weight: 4990
 url: /ru/net/aspose.pdf.operators/closepathfillstroke/
 ---
 ## ClosePathFillStroke class
 
-Класс, представляющий оператор b (закрыть, заполнить и обвести путь с ненулевым правилом намотки).
+Класс, представляющий оператор b (закрытие, заполнение и обводка пути с ненулевым правилом намотки).
 
 ```csharp
 public class ClosePathFillStroke : Operator
@@ -30,7 +30,7 @@ public class ClosePathFillStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring)() | Возвращает строковое представление оператора. |
 
 ### Смотрите также

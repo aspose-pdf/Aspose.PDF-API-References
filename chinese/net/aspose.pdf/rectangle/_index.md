@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 类表示矩形
+description: 类代表矩形
 type: docs
 weight: 6190
 url: /zh/net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
 
-类表示矩形。
+类代表矩形。
 
 ```csharp
 public sealed class Rectangle : ICloneable
@@ -18,7 +18,7 @@ public sealed class Rectangle : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Rectangle](rectangle)(double, double, double, double) | 矩形的构造函数。 |
+| [Rectangle](rectangle)(double, double, double, double) | 矩形的构造函数. |
 
 ## 特性
 
@@ -27,12 +27,12 @@ public sealed class Rectangle : ICloneable
 | static [Trivial](../../aspose.pdf/rectangle/trivial) { get; } | 初始化普通矩形，即位置和大小为零的矩形。 |
 | [Height](../../aspose.pdf/rectangle/height) { get; } | 矩形的高度。 |
 | [IsEmpty](../../aspose.pdf/rectangle/isempty) { get; } | 检查矩形是否为空。 |
-| [IsPoint](../../aspose.pdf/rectangle/ispoint) { get; } | 检查矩形是否为点，即 LLX 等于 URX 并且 LLY 等于 URY。 |
+| [IsPoint](../../aspose.pdf/rectangle/ispoint) { get; } | 检查矩形是否为点，即 LLX 等于 URX 并且 LLY 等于 URY. |
 | [IsTrivial](../../aspose.pdf/rectangle/istrivial) { get; } | 检查矩形是否微不足道，即大小和位置为零。 |
 | [LLX](../../aspose.pdf/rectangle/llx) { get; set; } | 左下角的 X 坐标。 |
 | [LLY](../../aspose.pdf/rectangle/lly) { get; set; } | Y - 左下角坐标。 |
-| [URX](../../aspose.pdf/rectangle/urx) { get; set; } | X - 右上角坐标。 |
-| [URY](../../aspose.pdf/rectangle/ury) { get; set; } | Y - 右上角坐标。 |
+| [URX](../../aspose.pdf/rectangle/urx) { get; set; } | X - 右上角的坐标。 |
+| [URY](../../aspose.pdf/rectangle/ury) { get; set; } | Y - 右上角的坐标。 |
 | [Width](../../aspose.pdf/rectangle/width) { get; } | 矩形的宽度。 |
 
 ## 方法
@@ -40,20 +40,20 @@ public sealed class Rectangle : ICloneable
 | 姓名 | 描述 |
 | --- | --- |
 | static [FromRect](../../aspose.pdf/rectangle/fromrect)(Rectangle) | 从给定的 System.Drawing.Rectangle 实例初始化新矩形。 |
-| static [Parse](../../aspose.pdf/rectangle/parse)(string) | 尝试解析字符串并从中提取矩形组件 llx、lly、urx、ury。 |
-| [Center](../../aspose.pdf/rectangle/center)() | 返回矩形中心的cs坐标。 |
-| [Clone](../../aspose.pdf/rectangle/clone)() | 克隆 Rectangle 对象。 |
+| static [Parse](../../aspose.pdf/rectangle/parse)(string) | 尝试解析字符串并从中提取矩形组件 llx、lly、urx、ury. |
+| [Center](../../aspose.pdf/rectangle/center)() | returncs 矩形中心坐标。 |
+| [Clone](../../aspose.pdf/rectangle/clone)() | 克隆矩形对象。 |
 | [Contains](../../aspose.pdf/rectangle/contains)(Point) | 确定给定点是否在矩形内。 |
 | [Equals](../../aspose.pdf/rectangle/equals#equals)(Rectangle) | 检查矩形是否相等，即具有相同的位置和大小。 |
 | [Intersect](../../aspose.pdf/rectangle/intersect)(Rectangle) | 与矩形相交。 |
 | [IsIntersect](../../aspose.pdf/rectangle/isintersect)(Rectangle) | 判断这个矩形是否与其他矩形相交。 |
 | [Join](../../aspose.pdf/rectangle/join)(Rectangle) | 连接矩形。 |
-| [NearEquals](../../aspose.pdf/rectangle/nearequals)(Rectangle, double) | 检查矩形是否接近相等，即具有接近相同（直到增量）的位置和大小。 |
+| [NearEquals](../../aspose.pdf/rectangle/nearequals)(Rectangle, double) | 检查矩形是否接近相等，即具有接近相同（最多 delta）的位置和大小。 |
 | [Rotate](../../aspose.pdf/rectangle/rotate#rotate_1)(int) | 将矩形旋转指定角度。 |
 | [Rotate](../../aspose.pdf/rectangle/rotate#rotate)(Rotation) | 将矩形旋转指定角度。 |
 | [ToPoints](../../aspose.pdf/rectangle/topoints)() | 将矩形转换为点数组（“QuadPoints”）。 |
 | [ToRect](../../aspose.pdf/rectangle/torect)() | 将矩形转换为 System.Drawing.Rectangle 的实例。浮点位置和大小被截断。 |
-| override [ToString](../../aspose.pdf/rectangle/tostring)() | 获取矩形字符串表示。 |
+| override [ToString](../../aspose.pdf/rectangle/tostring)() | 获取矩形字符串表示形式。 |
 
 ## 字段
 

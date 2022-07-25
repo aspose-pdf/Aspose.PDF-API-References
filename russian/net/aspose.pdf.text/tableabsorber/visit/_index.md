@@ -16,30 +16,30 @@ public virtual void Visit(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Pdf объект страницы документа. |
+| page | Page | Объект страницы документа Pdf. |
 
 ### Примеры
 
-пример демонстрирует, как извлечь таблицу на первой странице документа PDF.
+Пример демонстрирует, как извлечь таблицу на первой странице документа PDF.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TableAbsorber для поиска table
-ableAbsorber absorber = new TableAbsorber();
+// Создаем объект TableAbsorber для поиска таблиц
+TableAbsorber absorber = new TableAbsorber();
 
 // Посетить первую страницу с поглотителем
-bsorber.Visit(pdfDocument.Pages[1]);
+absorber.Visit(pdfDocument.Pages[1]);
 
-// Получаем доступ к первой таблице на странице, их первой ячейке и текстовым фрагментам в it
-extFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
+// Получаем доступ к первой таблице на странице, их первой ячейке и текстовым фрагментам в ней
+TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-/ Изменяем текст первого фрагмента текста в ячейке
-ragment.Text = "hi world";
+// Изменяем текст первого фрагмента текста в ячейке
+fragment.Text = "hi world";
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Смотрите также

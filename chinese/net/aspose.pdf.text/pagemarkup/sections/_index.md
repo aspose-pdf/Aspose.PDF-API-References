@@ -1,14 +1,14 @@
 ---
 title: Sections
 second_title: Aspose.PDF for .NET API 参考
-description: 获取在页面上找到的MarkupSectionaspose.pdf.text/markupsection集合
+description: 获取集合MarkupSectionaspose.pdf.text/markupsection这是在页面上找到的
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/pagemarkup/sections/
 ---
 ## PageMarkup.Sections property
 
-获取在页面上找到的[`MarkupSection`](../../markupsection)集合。
+获取集合[`MarkupSection`](../../markupsection)这是在页面上找到的。
 
 ```csharp
 public List<MarkupSection> Sections { get; }

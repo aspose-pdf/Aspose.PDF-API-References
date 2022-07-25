@@ -1,14 +1,14 @@
 ---
 title: RenderTextAsImage
 second_title: Aspose.PDF for .NET API 参考
-description: 如果属性 RenderTextAsImage 设置为 true则来自源的文本将变为 HTML 中的图像 可能有助于使文本无法选择 或 HTML 文本未正确呈现
+description: 如果属性 RenderTextAsImage 设置为 true则来自源的文本将变为 HTML 中的图像 可能有助于使文本无法选择 或 HTML 文本无法正确呈现
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/htmlsaveoptions/rendertextasimage/
 ---
 ## HtmlSaveOptions.RenderTextAsImage property
 
-如果属性 RenderTextAsImage 设置为 true，则来自源的文本将变为 HTML 中的图像。 可能有助于使文本无法选择 或 HTML 文本未正确呈现。
+如果属性 RenderTextAsImage 设置为 true，则来自源的文本将变为 HTML 中的图像。 可能有助于使文本无法选择 或 HTML 文本无法正确呈现。
 
 ```csharp
 public bool RenderTextAsImage { get; set; }

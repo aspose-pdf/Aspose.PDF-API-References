@@ -1,14 +1,14 @@
 ---
 title: DocMDPAccessPermissions
 second_title: Aspose.PDF for .NET API 参考
-description: 授予此文档的访问权限 有效值为 1 - 不允许更改文档对文档的任何更改都会使签名无效 2 - 允许的更改是填写表单实例化页面模板和签名其他更改使签名无效 3 - 允许的更改与 2 相同以及注释的创建删除和修改其他更改使签名无效
+description: 授予此文档的访问权限 有效值为 1 - 不允许更改文档对文档的任何更改都会使签名无效 2 - 允许的更改是填写表单实例化页面模板和签名其他更改使签名无效 3 - 允许的更改与 2 相同以及注释创建删除和修改其他更改使签名无效
 type: docs
 weight: 2970
 url: /zh/net/aspose.pdf.forms/docmdpaccesspermissions/
 ---
 ## DocMDPAccessPermissions enumeration
 
-授予此文档的访问权限。 有效值为: 1 - 不允许更改文档；对文档的任何更改都会使签名无效。 2 - 允许的更改是填写表单、实例化页面模板和签名；其他更改使签名无效。 3 - 允许的更改与 2 相同，以及注释的创建、删除和修改；其他更改使签名无效。
+授予此文档的访问权限。 有效值为： 1 - 不允许更改文档；对文档的任何更改都会使签名无效。 2 - 允许的更改是填写表单、实例化页面模板和签名；其他更改使签名无效。 3 - 允许的更改与 2 相同，以及注释创建、删除和修改；其他更改使签名无效。
 
 ```csharp
 public enum DocMDPAccessPermissions
@@ -19,7 +19,7 @@ public enum DocMDPAccessPermissions
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | NoChanges | `1` | 1 - 不允许更改文档；对文档的任何更改都会使签名无效。 |
-| FillingInForms | `2` | 2 - 允许的更改是填写表单、实例化页面模板和签名；其他更改使签名无效。 |
+| FillingInForms | `2` | 2 - 允许的更改是填写表格、实例化页面模板和签名；其他更改使签名无效。 |
 | AnnotationModification | `3` | 3 - 允许的更改与 2 相同，以及注释的创建、删除和修改；其他更改使签名无效。 |
 
 ### 也可以看看

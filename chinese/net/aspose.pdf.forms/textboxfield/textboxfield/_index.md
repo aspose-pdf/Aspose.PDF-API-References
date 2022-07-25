@@ -1,14 +1,14 @@
 ---
 title: TextBoxField
 second_title: Aspose.PDF for .NET API 参考
-description: 构造函数应该与生成器一起使用
+description: 应与 Generator. 一起使用的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/textboxfield/textboxfield/
 ---
 ## TextBoxField(Document) {#constructor_1}
 
-构造函数，应该与生成器一起使用。
+应与 Generator. 一起使用的构造函数
 
 ```csharp
 public TextBoxField(Document doc)
@@ -16,7 +16,7 @@ public TextBoxField(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 
 ### 也可以看看
 
@@ -54,7 +54,7 @@ public TextBoxField(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 放置文本字段的页面。 |
-| rect | Rectangle | 文本字段将放置在页面上的矩形。 |
+| rect | Rectangle | 文本字段将在页面上放置的矩形。 |
 
 ### 也可以看看
 
@@ -76,7 +76,7 @@ public TextBoxField(Document doc, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 | rect | Rectangle | 字段的矩形。 |
 
 ### 也可以看看

@@ -1,0 +1,52 @@
+---
+title: PdfFileEditor.ContentsResizeParameters
+second_title: Aspose.PDF für .NET-API-Referenz
+description: Klasse zum Festlegen von Parametern zur Größenänderung von Seiten. Ermöglicht das Setzen der folgenden Parameter Größe der Ergebnisseite Breite Höhe in Standard-Platzeinheiten oder in Prozent der ursprünglichen Seitengröße Linker oberer unterer und rechter Rand in Standardabstandseinheiten oder in Prozent der anfänglichen Seitengröße Einige Werte können für die automatische Berechnung null bleiben. Diese Werte werden aus dem Rest der Seitengröße nach der Berechnung explizit angegebener Werte berechnet. Beispiel Wenn die Seitenbreite  100 und die neue Seitenbreite 60 Einheiten angegeben sind dann werden linke und rechte Ränder automatisch berechnet 100 - 60 / 2  15. Diese Klasse wird in der ResizeContents-Methode verwendet.
+type: docs
+weight: 2490
+url: /de/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
+---
+## PdfFileEditor.ContentsResizeParameters class
+
+Klasse zum Festlegen von Parametern zur Größenänderung von Seiten. Ermöglicht das Setzen der folgenden Parameter: Größe der Ergebnisseite (Breite, Höhe) in Standard-Platzeinheiten oder in Prozent der ursprünglichen Seitengröße; Linker, oberer, unterer und rechter Rand in Standardabstandseinheiten oder in Prozent der anfänglichen Seitengröße; Einige Werte können für die automatische Berechnung null bleiben. Diese Werte werden aus dem Rest der Seitengröße nach der Berechnung explizit angegebener Werte berechnet. Beispiel: Wenn die Seitenbreite = 100 und die neue Seitenbreite 60 Einheiten angegeben sind, dann werden linke und rechte Ränder automatisch berechnet: (100 - 60) / 2 = 15. Diese Klasse wird in der ResizeContents-Methode verwendet.
+
+```csharp
+public class ContentsResizeParameters
+```
+
+## Konstrukteure
+
+| Name | Beschreibung |
+| --- | --- |
+| [ContentsResizeParameters](contentsresizeparameters#constructor)() | Erstellt Größenänderungsparameter, bei denen alle Werte auf "auto" gesetzt sind. Spätere Ränder und Inhaltsgröße können bei Bedarf angegeben werden. |
+| [ContentsResizeParameters](contentsresizeparameters#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Erstellt Größenänderungsparameter mit angegebenen Randwerten und Inhaltsgröße. |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| [BottomMargin](../../aspose.pdf.facades/contentsresizeparameters/bottommargin) { get; set; } | Ruft den unteren Rand auf der resultierenden Seite ab oder legt ihn fest. |
+| [ContentsHeight](../../aspose.pdf.facades/contentsresizeparameters/contentsheight) { get; set; } | Ruft die Höhe des Inhalts der Quellseite auf der Ergebnisseite ab oder legt sie fest. |
+| [ContentsWidth](../../aspose.pdf.facades/contentsresizeparameters/contentswidth) { get; set; } | Ruft die Breite des Inhalts der Quellseite auf der Ergebnisseite ab oder legt sie fest. |
+| [LeftMargin](../../aspose.pdf.facades/contentsresizeparameters/leftmargin) { get; set; } | Ruft den linken Rand auf der Ergebnisseite ab oder legt ihn fest. |
+| [RightMargin](../../aspose.pdf.facades/contentsresizeparameters/rightmargin) { get; set; } | Ruft den rechten Rand auf der Ergebnisseite ab oder legt ihn fest. |
+| [TopMargin](../../aspose.pdf.facades/contentsresizeparameters/topmargin) { get; set; } | Ruft den oberen Rand auf der Ergebnisseite ab oder legt ihn fest. |
+
+## Methoden
+
+| Name | Beschreibung |
+| --- | --- |
+| static [ContentSize](../../aspose.pdf.facades/contentsresizeparameters/contentsize)(double, double) | Erstellt Größenänderungsparameter mit angegebener Inhaltsgröße. |
+| static [ContentSizePercent](../../aspose.pdf.facades/contentsresizeparameters/contentsizepercent)(double, double) | Erstellt Größenänderungsparameter mit angegebener Inhaltsgröße in Prozent der anfänglichen Seitengröße. Ränder werden automatisch berechnet. |
+| static [Margins](../../aspose.pdf.facades/contentsresizeparameters/margins)(double, double, double, double) | Erstellt Größenänderungsparameter mit angegebenen Randwerten. Inhaltsgröße wird automatisch berechnet. |
+| static [MarginsPercent](../../aspose.pdf.facades/contentsresizeparameters/marginspercent)(double, double, double, double) | Erstellt Größenänderungsparameter. Ränder werden in Prozent der anfänglichen Seitengröße angegeben. |
+| static [PageResize](../../aspose.pdf.facades/contentsresizeparameters/pageresize)(double, double) | Erstellt Größenänderungsparameter für die Seitengrößenänderung. |
+| static [PageResizePct](../../aspose.pdf.facades/contentsresizeparameters/pageresizepct)(double, double) | Erstellt Größenänderungsparameter für die Seitengrößenänderung. Neue Größen werden in Prozent angegeben. |
+
+### Siehe auch
+
+* class [PdfFileEditor](../pdffileeditor)
+* namensraum [Aspose.Pdf.Facades](../../aspose.pdf.facades)
+* Montage [Aspose.PDF](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

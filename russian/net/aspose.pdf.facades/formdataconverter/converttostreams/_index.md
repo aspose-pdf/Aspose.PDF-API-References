@@ -17,7 +17,7 @@ public void ConvertToStreams(Stream[] destStream, DataType destType)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | destStream | Stream[] | Потоки, в которых будут храниться данные. |
-| destType | DataType | Тип сохраняемых данных. Допустимые значения:XML, FDF, XFDF. |
+| destType | DataType | Тип хранимых данных. Допустимые значения: XML, FDF, XFDF. |
 
 ### Примеры
 

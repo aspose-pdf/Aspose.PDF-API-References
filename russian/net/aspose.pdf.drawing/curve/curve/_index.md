@@ -1,14 +1,14 @@
 ---
 title: Curve
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаCurveaspose.pdf.drawing/curve.
+description: Инициализирует новый экземплярCurveaspose.pdf.drawing/curve класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/curve/curve/
 ---
 ## Curve constructor
 
-Инициализирует новый экземпляр класса[`Curve`](../../curve).
+Инициализирует новый экземпляр[`Curve`](../../curve) класс.
 
 ```csharp
 public Curve(float[] positionArray)
@@ -16,7 +16,7 @@ public Curve(float[] positionArray)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| positionArray | Single[] | Массив позиций контрольных точек кривой. Должно быть четыре контрольных точек, поэтому длина массива должна быть восемь. |
+| positionArray | Single[] | Массив положений контрольных точек кривой. Контрольных точек должно быть четыре, поэтому длина массива должна быть восемь. |
 
 ### Смотрите также
 

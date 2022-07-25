@@ -1,14 +1,14 @@
 ---
 title: White
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFFFFFF.
+description: Получает определяемый системой цвет со значением ARGB FFFFFFFF.
 type: docs
 weight: 1390
 url: /ru/net/aspose.pdf/color/white/
 ---
 ## Color.White property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFFFFFF.
+Получает определяемый системой цвет со значением ARGB #FFFFFFFF.
 
 ```csharp
 public static Color White { get; }

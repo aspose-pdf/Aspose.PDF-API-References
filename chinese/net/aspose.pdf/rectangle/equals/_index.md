@@ -20,7 +20,7 @@ public bool Equals(Rectangle other)
 
 ### 返回值
 
-如果矩形相等则为真，否则为假。
+如果矩形等于，则为真，否则为假。
 
 ### 也可以看看
 

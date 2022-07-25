@@ -1,14 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个值以指示戳记不透明度该值从 0.0 到 1.0 默认值为 1.0
+description: 获取或设置一个值以指示戳记不透明度值从 0.0 到 1.0. 默认值为 1.0.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/stamp/opacity/
 ---
 ## Stamp.Opacity property
 
-获取或设置一个值以指示戳记不透明度。该值从 0.0 到 1.0。 默认值为 1.0。
+获取或设置一个值以指示戳记不透明度。值从 0.0 到 1.0. 默认值为 1.0.
 
 ```csharp
 public double Opacity { get; set; }

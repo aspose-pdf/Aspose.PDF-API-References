@@ -1,14 +1,14 @@
 ---
 title: TextFormattingOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаTextFormattingOptionsaspose.pdf.text/textformattingoptionsдля указанного режима переноса слов.
+description: Инициализирует новый экземплярTextFormattingOptionsaspose.pdf.text/textformattingoptions объект для указанного режима переноса слов.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textformattingoptions/textformattingoptions/
 ---
 ## TextFormattingOptions(WordWrapMode) {#constructor_1}
 
-Инициализирует новый экземпляр объекта[`TextFormattingOptions`](../../textformattingoptions)для указанного режима переноса слов.
+Инициализирует новый экземпляр[`TextFormattingOptions`](../../textformattingoptions) объект для указанного режима переноса слов.
 
 ```csharp
 public TextFormattingOptions(WordWrapMode wrapMode)
@@ -29,7 +29,7 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 ## TextFormattingOptions() {#constructor}
 
-Инициализирует новый экземпляр объекта[`TextFormattingOptions`](../../textformattingoptions)с неопределенным режимом переноса слов.
+Инициализирует новый экземпляр[`TextFormattingOptions`](../../textformattingoptions) объект с неопределенным режимом переноса слов.
 
 ```csharp
 public TextFormattingOptions()

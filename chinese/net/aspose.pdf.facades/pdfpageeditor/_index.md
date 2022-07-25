@@ -27,15 +27,15 @@ public sealed class PdfPageEditor : SaveableFacade
 | --- | --- |
 | [DisplayDuration](../../aspose.pdf.facades/pdfpageeditor/displayduration) { get; set; } | 获取或设置页面的显示持续时间。 |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | 获取正在处理的文档外观。 |
-| [HorizontalAlignment](../../aspose.pdf.facades/pdfpageeditor/horizontalalignment) { get; set; } | 获取或设置PDF原始内容在结果页上的水平对齐方式，默认为AlignmentType.Left。 |
-| [PageRotations](../../aspose.pdf.facades/pdfpageeditor/pagerotations) { get; set; } | 哈希表包含页码和旋转度数， key 表示页码，key 的值表示旋转度数。 |
+| [HorizontalAlignment](../../aspose.pdf.facades/pdfpageeditor/horizontalalignment) { get; set; } | 获取或设置PDF原始内容在结果页的水平对齐方式，默认为AlignmentType.Left. |
+| [PageRotations](../../aspose.pdf.facades/pdfpageeditor/pagerotations) { get; set; } | 一个哈希表包含页码和旋转度数， key代表页码，key的值代表旋转度数。 |
 | [PageSize](../../aspose.pdf.facades/pdfpageeditor/pagesize) { get; set; } | 获取或设置输出文件的页面大小。 |
 | [ProcessPages](../../aspose.pdf.facades/pdfpageeditor/processpages) { get; set; } | 获取或设置要编辑的页码。默认情况下，每个页面都会被编辑。 |
-| [Rotation](../../aspose.pdf.facades/pdfpageeditor/rotation) { get; set; } | 获取或设置页面的旋转度，旋转度必须为 0、90、180 或 270。 默认值为 0。 |
+| [Rotation](../../aspose.pdf.facades/pdfpageeditor/rotation) { get; set; } | 获取或设置页面的旋转，旋转必须为0、90、180或270。 默认值为0。 |
 | [TransitionDuration](../../aspose.pdf.facades/pdfpageeditor/transitionduration) { get; set; } | 获取或设置过渡效果的持续时间。 |
 | [TransitionType](../../aspose.pdf.facades/pdfpageeditor/transitiontype) { get; set; } | 获取或设置在演示期间从另一个页面移动到此页面时使用的过渡样式。 |
-| [VerticalAlignmentType](../../aspose.pdf.facades/pdfpageeditor/verticalalignmenttype) { get; set; } | 获取或设置结果页面上原始 PDF 内容的垂直对齐方式，默认为 VerticalAlignmentType.Bottom。 |
-| [Zoom](../../aspose.pdf.facades/pdfpageeditor/zoom) { get; set; } | 获取或设置缩放系数。值 1.0 对应于 100%。 默认值为 1.0。  以下示例演示如何更改文档页面的缩放。 &lt;code&gt; PdfPageEditor editor = new PdfPageEditor(); editor.BindPdf("sample.pdf"); editor.Zoom = 0.5f; &lt;/code&gt; |
+| [VerticalAlignmentType](../../aspose.pdf.facades/pdfpageeditor/verticalalignmenttype) { get; set; } | 获取或设置PDF原始内容在结果页上的垂直对齐方式，默认为VerticalAlignmentType.Bottom. |
+| [Zoom](../../aspose.pdf.facades/pdfpageeditor/zoom) { get; set; } | 获取或设置缩放系数。值 1.0 对应 100%. 默认值为 1.0.  以下示例演示如何更改文档页面的缩放。 |
 
 ## 方法
 
@@ -46,7 +46,7 @@ public sealed class PdfPageEditor : SaveableFacade
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | 初始化外观。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | 初始化外观。 |
 | virtual [Close](../../aspose.pdf.facades/facade/close)() | 处理与外观绑定的 Aspose.Pdf.Document。 |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 配置外观。 |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 处理外观。 |
 | [GetPageBoxSize](../../aspose.pdf.facades/pdfpageeditor/getpageboxsize)(int, string) | 返回文档中指定框的大小。 |
 | [GetPageRotation](../../aspose.pdf.facades/pdfpageeditor/getpagerotation)(int) | 返回指定页面的旋转。 |
 | [GetPages](../../aspose.pdf.facades/pdfpageeditor/getpages)() | 返回总页数。 |
@@ -61,20 +61,20 @@ public sealed class PdfPageEditor : SaveableFacade
 | --- | --- |
 | const [BLINDH](../../aspose.pdf.facades/pdfpageeditor/blindh) | 垂直百叶窗 |
 | const [BLINDV](../../aspose.pdf.facades/pdfpageeditor/blindv) | 垂直百叶窗 |
-| const [BTWIPE](../../aspose.pdf.facades/pdfpageeditor/btwipe) | 自下而上擦除 |
+| const [BTWIPE](../../aspose.pdf.facades/pdfpageeditor/btwipe) | 自下而上擦拭 |
 | const [DGLITTER](../../aspose.pdf.facades/pdfpageeditor/dglitter) | 对角闪光 |
-| const [DISSOLVE](../../aspose.pdf.facades/pdfpageeditor/dissolve) | 旧页面解散 |
-| const [INBOX](../../aspose.pdf.facades/pdfpageeditor/inbox) | 收件箱 |
+| const [DISSOLVE](../../aspose.pdf.facades/pdfpageeditor/dissolve) | 旧页面消失 |
+| const [INBOX](../../aspose.pdf.facades/pdfpageeditor/inbox) | 向内盒 |
 | const [LRGLITTER](../../aspose.pdf.facades/pdfpageeditor/lrglitter) | 左右闪光 |
-| const [LRWIPE](../../aspose.pdf.facades/pdfpageeditor/lrwipe) | 左右擦除 |
+| const [LRWIPE](../../aspose.pdf.facades/pdfpageeditor/lrwipe) | 左右擦拭 |
 | const [OUTBOX](../../aspose.pdf.facades/pdfpageeditor/outbox) | 外箱 |
-| const [RLWIPE](../../aspose.pdf.facades/pdfpageeditor/rlwipe) | 左右擦除 |
+| const [RLWIPE](../../aspose.pdf.facades/pdfpageeditor/rlwipe) | 左右擦拭 |
 | const [SPLITHIN](../../aspose.pdf.facades/pdfpageeditor/splithin) | IN 水平分割 |
-| const [SPLITHOUT](../../aspose.pdf.facades/pdfpageeditor/splithout) | 输出水平分割 |
+| const [SPLITHOUT](../../aspose.pdf.facades/pdfpageeditor/splithout) | 出水平分割 |
 | const [SPLITVIN](../../aspose.pdf.facades/pdfpageeditor/splitvin) | 在垂直分割中 |
-| const [SPLITVOUT](../../aspose.pdf.facades/pdfpageeditor/splitvout) | 输出垂直分割 |
+| const [SPLITVOUT](../../aspose.pdf.facades/pdfpageeditor/splitvout) | 出垂直分割 |
 | const [TBGLITTER](../../aspose.pdf.facades/pdfpageeditor/tbglitter) | 上下闪光 |
-| const [TBWIPE](../../aspose.pdf.facades/pdfpageeditor/tbwipe) | 上下擦拭 |
+| const [TBWIPE](../../aspose.pdf.facades/pdfpageeditor/tbwipe) | 自上而下擦拭 |
 
 ### 也可以看看
 

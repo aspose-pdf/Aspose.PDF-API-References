@@ -16,7 +16,7 @@ public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Исходный XML-документ. |
+| xmlDocument | XmlDocument | Исходный xml-документ. |
 | rootElement | XmlElement | Корневой узел списка значений свойств. |
 
 ### Смотрите также

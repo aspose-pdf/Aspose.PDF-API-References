@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает значение слева.
+description: Получает или задает значение слева.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.devices/margins/left/
 ---
 ## Margins.Left property
 
-Получает или устанавливает значение слева.
+Получает или задает значение слева.
 
 ```csharp
 public int Left { get; set; }
@@ -16,7 +16,7 @@ public int Left { get; set; }
 
 ### Стоимость имущества
 
-Левый.
+Слева.
 
 ### Смотрите также
 

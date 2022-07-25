@@ -16,11 +16,11 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 字段名 |
+| fieldName | String | 字段名称 |
 
 ### 返回值
 
-属性标志（只读/必需/ NoExport
+属性标志（只读/必需/NoExport
 
 ### 例子
 

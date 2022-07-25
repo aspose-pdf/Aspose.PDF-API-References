@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-true 如果 obj 和这个实例是相同的类型并且代表相同的值；否则为假。
+如果 obj 和这个实例是相同的类型并且表示相同的值，则为 true；否则为假。
 
 ### 也可以看看
 

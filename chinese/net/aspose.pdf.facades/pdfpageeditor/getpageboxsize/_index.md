@@ -16,8 +16,8 @@ public Rectangle GetPageBoxSize(int page, string pageBoxName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 页面索引。文档页面从 1 开始编号。 |
-| pageBoxName | String | 框类型名称。有效值为:“art”、“bleed”、“crop”、“media”、“trim”。 |
+| page | Int32 | 页面索引。文档页从 1 开始编号。 |
+| pageBoxName | String | 框类型名称。有效值为：“art”、“bleed”、“crop”、“media”、“trim”。 |
 
 ### 返回值
 
@@ -25,7 +25,7 @@ public Rectangle GetPageBoxSize(int page, string pageBoxName)
 
 ### 例子
 
-以下示例演示如何获取第 1 页的媒体框:
+下面的例子演示了如何获取第一页的媒体框：
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

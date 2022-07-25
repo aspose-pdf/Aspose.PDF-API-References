@@ -1,14 +1,14 @@
 ---
 title: TextFragments
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекцию вхождений поиска представленных объектамиTextFragmentaspose.pdf.text/textfragment.
+description: Получает коллекцию вхождений поиска представленныхTextFragmentaspose.pdf.text/textfragment объекты.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/textfragments/
 ---
 ## TextFragmentAbsorber.TextFragments property
 
-Получает коллекцию вхождений поиска, представленных объектами[`TextFragment`](../../textfragment).
+Получает коллекцию вхождений поиска, представленных[`TextFragment`](../../textfragment) объекты.
 
 ```csharp
 public TextFragmentCollection TextFragments { get; set; }
@@ -16,29 +16,29 @@ public TextFragmentCollection TextFragments { get; set; }
 
 ### Примеры
 
-В примере показано, как найти текст на первой странице документа PDF и заменить все поисковые вхождения новыми текст.
+В примере показано, как найти текст на первой странице документа PDF и заменить все поисковые запросы новым текстом.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Находим шрифт, который будет использоваться для изменения текста документа font
-spose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+// Находим шрифт, который будет использоваться для изменения шрифта текста документа
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить текст всех поисковых вхождений
-oreach (TextFragment textFragment in absorber.TextFragments)
-
-   textFragment.Text = "hi world";
-
+// Изменить текст всех вхождений поиска
+foreach (TextFragment textFragment in absorber.TextFragments)
+{
+    textFragment.Text = "hi world";
+}
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: TextAlign_Center
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут TextAlignCenter  по центру между начальным и конечным краями.
+description: Атрибут TextAlign Center  Центрируется между начальным и конечным краями.
 type: docs
 weight: 550
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textalign_center/
 ---
 ## AttributeName.TextAlign_Center field
 
-Атрибут TextAlign:Center — по центру между начальным и конечным краями.
+Атрибут TextAlign: Center — Центрируется между начальным и конечным краями.
 
 ```csharp
 public static readonly AttributeName TextAlign_Center;

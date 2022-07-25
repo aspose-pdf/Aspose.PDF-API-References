@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API 参考
-description: 获取照明方案类型
+description: 获取光照方案类型
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
 ## PDF3DLightingScheme.Type property
 
-获取照明方案类型。
+获取光照方案类型。
 
 ```csharp
 public LightingSchemeType Type { get; }

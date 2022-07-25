@@ -18,8 +18,8 @@ public class TextPlaceOperator : TextOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextPlaceOperator](textplaceoperator#constructor)() | 初始化 TextPlaceOperator。 |
-| [TextPlaceOperator](textplaceoperator#constructor_1)(TextProperties) | 初始化接受 TextProperties 的 TextPlaceOperator。 |
+| [TextPlaceOperator](textplaceoperator#constructor)() | 初始化 TextPlaceOperator. |
+| [TextPlaceOperator](textplaceoperator#constructor_1)(TextProperties) | 初始化接受 TextProperties. 的 TextPlaceOperator |
 
 ## 特性
 

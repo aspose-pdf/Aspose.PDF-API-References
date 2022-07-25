@@ -17,7 +17,7 @@ public FitHExplicitDestination(Page page, double top)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Объект целевой страницы. |
-| top | Double | Вертикальная координата вершины, расположенная на верхнем краю окна. |
+| top | Double | Вертикальная координата top расположена на верхнем краю окна. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public FitHExplicitDestination(Page page, double top)
 
 ## FitHExplicitDestination(int, double) {#constructor_2}
 
-Создает явный удаленный пункт назначения.
+Создает удаленный явный пункт назначения.
 
 ```csharp
 public FitHExplicitDestination(int pageNumber, double top)
@@ -39,7 +39,7 @@ public FitHExplicitDestination(int pageNumber, double top)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageNumber | Int32 | Номер целевой страницы удаленного документа. |
-| top | Double | Вертикальная координата вершины, расположенная на верхнем краю окна. |
+| top | Double | Вертикальная координата top расположена на верхнем краю окна. |
 
 ### Смотрите также
 

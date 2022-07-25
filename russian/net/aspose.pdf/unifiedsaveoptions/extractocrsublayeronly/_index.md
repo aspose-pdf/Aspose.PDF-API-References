@@ -1,14 +1,14 @@
 ---
 title: ExtractOcrSublayerOnly
 second_title: Aspose.PDF для справочника API .NET
-description: Этот атрибут включает функциональность для извлечения изображения или текста для документов PDF с подслоем OCR.
+description: Этот атрибут включает функцию извлечения изображения или текста для документов PDF с подслоем OCR.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/
 ---
 ## UnifiedSaveOptions.ExtractOcrSublayerOnly property
 
-Этот атрибут включает функциональность для извлечения изображения или текста для документов PDF с подслоем OCR.
+Этот атрибут включает функцию извлечения изображения или текста для документов PDF с подслоем OCR.
 
 ```csharp
 public bool ExtractOcrSublayerOnly { get; set; }
@@ -16,7 +16,7 @@ public bool ExtractOcrSublayerOnly { get; set; }
 
 ### Стоимость имущества
 
-` true` текст будет извлечен в результирующий документ; в противном случае` false` .
+`истинный`текст будет извлечен в результирующий документ; в противном случае,`ЛОЖЬ`.
 
 ### Смотрите также
 

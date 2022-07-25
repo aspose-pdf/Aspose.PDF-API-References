@@ -19,7 +19,7 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 | name | String | 字段名称。 |
 | value | String | 字段值。 |
 | valueType | String | 字段值类型。 |
-| description | String | 字段描述。 |
+| description | String | 字段说明。 |
 
 ### 也可以看看
 

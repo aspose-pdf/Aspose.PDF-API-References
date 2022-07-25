@@ -1,14 +1,14 @@
 ---
 title: Delete
 second_title: Aspose.PDF для справочника API .NET
-description: Удалить XForm из коллекции
+description: Удалить XForm из collectin
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/xformcollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Удалить XForm из коллекции
+Удалить XForm из collectin
 
 ```csharp
 public void Delete(int index)
@@ -16,7 +16,7 @@ public void Delete(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс XForm, который должен быть удалено |
+| index | Int32 | Индекс XForm, который необходимо удалить |
 
 ### Смотрите также
 

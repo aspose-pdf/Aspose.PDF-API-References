@@ -1,14 +1,14 @@
 ---
 title: IsolateTextSegments
 second_title: Aspose.PDF for .NET API 参考
-description: 获取TextSegmentaspose.pdf.text/textsegments 表示TextFragment文本
+description: 获取TextSegmentaspose.pdf.text/textsegments 代表指定部分TextFragmentaspose.pdf.text/textfragment文本.
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.text/textfragment/isolatetextsegments/
 ---
 ## TextFragment.IsolateTextSegments method
 
-获取[`TextSegment`](../../textsegment)(s) 表示TextFragment文本。
+获取[`TextSegment`](../../textsegment)(s) 代表指定部分[`TextFragment`](../../textfragment)文本.
 
 ```csharp
 public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
@@ -16,12 +16,12 @@ public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| startIndex | Int32 | 在文本中的新位置[`TextSegment`](../../textsegment)(s ) 将开始。 |
-| length | Int32 | 将被隔离为[`TextSegment`](../../textsegment)(s) 的文本长度。 |
+| startIndex | Int32 | 新文本中的位置[`TextSegment`](../../textsegment)(s) 将开始。 |
+| length | Int32 | 将被隔离成的文本长度[`TextSegment`](../../textsegment)(s)。 |
 
 ### 返回值
 
-[`TextSegmentCollection`](../../textsegmentcollection)包含表示从指定位置开始并具有指定长度的文本子字符串的文本段。
+[`TextSegmentCollection`](../../textsegmentcollection)包含文本段，表示从指定位置开始并具有指定长度的文本子字符串。
 
 ### 也可以看看
 

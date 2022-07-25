@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/form/importxml/
 ---
 ## ImportXml(Stream, bool) {#importxml_1}
 
-从 xml 文件中导入字段的内容并将它们放入新的 pdf 中。
+从 xml 文件中导入字段的内容，并将它们放入新的 pdf 中。
 
 ```csharp
 public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
@@ -29,7 +29,7 @@ public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
 
 ## ImportXml(Stream) {#importxml}
 
-从 xml 文件中导入字段的内容并将它们放入新的 pdf 中。
+从 xml 文件中导入字段的内容，并将它们放入新的 pdf 中。
 
 ```csharp
 public void ImportXml(Stream inputXmlStream)
@@ -37,7 +37,7 @@ public void ImportXml(Stream inputXmlStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputXmlStream | Stream | 从中读取用于导入的 XML 的流。 |
+| inputXmlStream | Stream | 从中读取要导入的 XML 的流。 |
 
 ### 例子
 

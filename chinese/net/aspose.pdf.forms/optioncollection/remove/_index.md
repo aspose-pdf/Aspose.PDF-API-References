@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 从集合中删除项目抛出 NotImplementedException 
+description: 从集合中移除项目抛出未实现异常.
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.forms/optioncollection/remove/
 ---
 ## OptionCollection.Remove method
 
-从集合中删除项目，抛出 NotImplementedException 。
+从集合中移除项目，抛出未实现异常.
 
 ```csharp
 public bool Remove(Option item)
@@ -16,11 +16,11 @@ public bool Remove(Option item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Option | 要删除的操作符项目。 |
+| item | Option | 要删除的操作员项目。 |
 
 ### 返回值
 
-抛出 NotImplementedException
+投掷未实现异常
 
 ### 也可以看看
 

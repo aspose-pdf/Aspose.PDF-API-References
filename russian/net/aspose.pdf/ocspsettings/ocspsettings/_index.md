@@ -1,14 +1,14 @@
 ---
 title: OcspSettings
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаOcspSettingsaspose.pdf/ocspsettings.
+description: Инициализирует новый экземплярOcspSettingsaspose.pdf/ocspsettings класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/ocspsettings/ocspsettings/
 ---
 ## OcspSettings constructor
 
-Инициализирует новый экземпляр класса[`OcspSettings`](../../ocspsettings).
+Инициализирует новый экземпляр[`OcspSettings`](../../ocspsettings) класс.
 
 ```csharp
 public OcspSettings(string serverUrl)

@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.PDF для справочника API .NET
-description: Сохранить документ инкрементно т. е. используя технику инкрементного обновления.
+description: Сохранить документ инкрементно т. е. используя метод инкрементного обновления.
 type: docs
 weight: 720
 url: /ru/net/aspose.pdf/document/save/
 ---
 ## Save() {#save}
 
-Сохранить документ инкрементно (т. е. используя технику инкрементного обновления).
+Сохранить документ инкрементно (т. е. используя метод инкрементного обновления).
 
 ```csharp
 public void Save()
@@ -16,7 +16,7 @@ public void Save()
 
 ### Примечания
 
-Для того, чтобы сохранить документ инкрементно, мы должны открыть файл документа для записи. Следовательно, Document должен быть инициализирован потоком, доступным для записи, как в следующем фрагменте кода: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess. Читай пиши)); // вносим некоторые изменения и постепенно сохраняем документ doc.Save();
+Чтобы сохранить документ постепенно, мы должны открыть файл документа для записи. Следовательно, Document должен быть инициализирован потоком, доступным для записи, как в следующем фрагменте кода: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // внесите некоторые изменения и сохраните документ incrementally doc.Save();
 
 ### Смотрите также
 
@@ -49,7 +49,7 @@ public void Save(SaveOptions options)
 
 ## Save(string, SaveFormat) {#save_6}
 
-Сохраняет документ с новым именем вместе с форматом файла.
+Сохраняет документ под новым именем вместе с форматом файла.
 
 ```csharp
 public void Save(string outputFileName, SaveFormat format)
@@ -71,7 +71,7 @@ public void Save(string outputFileName, SaveFormat format)
 
 ## Save(Stream, SaveFormat) {#save_3}
 
-Сохраняет документ с новым именем вместе с форматом файла.
+Сохраняет документ под новым именем вместе с форматом файла.
 
 ```csharp
 public void Save(Stream outputStream, SaveFormat format)
@@ -79,14 +79,14 @@ public void Save(Stream outputStream, SaveFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток, в котором будет храниться документ. |
+| outputStream | Stream | Поток, где документ будет храниться. |
 | format | SaveFormat | Параметры формата. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | ArgumentExceptionкогда[`HtmlSaveOptions`](../../htmlsaveoptions)передается методу. Сохранение документа в поток html не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
+| ArgumentException | ArgumentException когда[`HtmlSaveOptions`](../../htmlsaveoptions) передается методу. Сохранение документа в поток html не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
 
 ### Смотрите также
 
@@ -129,14 +129,14 @@ public void Save(Stream outputStream, SaveOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток, в котором будет храниться документ. |
+| outputStream | Stream | Поток, где документ будет храниться. |
 | options | SaveOptions | Сохранить параметры. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | ArgumentExceptionкогда[`HtmlSaveOptions`](../../htmlsaveoptions)передается методу. Сохранение документа в поток html не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
+| ArgumentException | ArgumentException когда[`HtmlSaveOptions`](../../htmlsaveoptions) передается методу. Сохранение документа в поток html не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
 
 ### Смотрите также
 
@@ -175,7 +175,7 @@ public void Save(HttpResponse response, string outputFileName, ContentDispositio
 
 ## Save(Stream) {#save_2}
 
-Сохраняет документ в поток.
+Сохраняет документ в потоке.
 
 ```csharp
 public void Save(Stream output)
@@ -183,7 +183,7 @@ public void Save(Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| output | Stream | Поток, в котором хранится оболочка документа. |
+| output | Stream | Поток, где будет храниться оболочка документа. |
 
 ### Смотрите также
 

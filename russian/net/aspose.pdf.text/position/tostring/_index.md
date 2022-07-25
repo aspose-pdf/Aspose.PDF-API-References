@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF для справочника API .NET
-description: Получает строковое представление для текущегоPositionaspose.pdf.text/positionобъекта.
+description: Получает строковое представление для текущегоPositionaspose.pdf.text/position объект.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/position/tostring/
 ---
 ## Position.ToString method
 
-Получает строковое представление для текущего[`Position`](../../position)объекта.
+Получает строковое представление для текущего[`Position`](../../position) объект.
 
 ```csharp
 public override string ToString()

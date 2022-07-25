@@ -1,14 +1,14 @@
 ---
 title: EOFill
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор f заполнение пути по четно-нечетному правилу.
+description: Класс представляющий оператор f заполнение пути по правилу чет-нечет.
 type: docs
 weight: 5100
 url: /ru/net/aspose.pdf.operators/eofill/
 ---
 ## EOFill class
 
-Класс, представляющий оператор f* (заполнение пути по четно-нечетному правилу).
+Класс, представляющий оператор f* (заполнение пути по правилу чет-нечет).
 
 ```csharp
 public class EOFill : Operator
@@ -30,7 +30,7 @@ public class EOFill : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eofill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/eofill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

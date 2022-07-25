@@ -21,12 +21,12 @@ public enum HtmlBorderLineType
 | None | `0` | 不会显示任何行 |
 | Dotted | `1` | 将显示虚线 |
 | Dashed | `2` | 将显示虚线 |
-| Solid | `3` | 实线将显示 |
+| Solid | `3` | 将显示实线 |
 | Double | `4` | 将显示双线 |
-| Groove | `5` | 格罗夫线将显示 |
-| Ridge | `6` | ridhe 行将显示 |
-| Inset | `7` | 插入行将显示 |
-| Outset | `8` | 开头行将显示 |
+| Groove | `5` | 将显示小树林线 |
+| Ridge | `6` | 将显示行车线 |
+| Inset | `7` | 将显示插入线 |
+| Outset | `8` | 将显示起始行 |
 
 ### 也可以看看
 

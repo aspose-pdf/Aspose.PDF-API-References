@@ -1,14 +1,14 @@
 ---
 title: UseDefaultSubstitution
 second_title: Aspose.PDF for .NET API 参考
-description: 声明使用默认字体替换策略替换非嵌入字体默认为假
+description: 声明使用默认字体替换策略替换非嵌入字体默认为 false
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.pdfaoptionclasses/fontembeddingoptions/usedefaultsubstitution/
 ---
 ## FontEmbeddingOptions.UseDefaultSubstitution property
 
-声明使用默认字体替换策略替换非嵌入字体。默认为假；
+声明使用默认字体替换策略替换非嵌入字体。默认为 false;
 
 ```csharp
 public bool UseDefaultSubstitution { get; set; }

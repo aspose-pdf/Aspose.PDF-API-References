@@ -31,7 +31,7 @@ xmp.BindPdf("input.pdf");
 
 ## PdfXmpMetadata(Document) {#constructor_1}
 
-Инициализирует новый[`PdfXmpMetadata`](../../pdfxmpmetadata)объект на основе*document*.
+Инициализирует новый[`PdfXmpMetadata`](../../pdfxmpmetadata) объект на базе*document* .
 
 ```csharp
 public PdfXmpMetadata(Document document)
@@ -39,7 +39,7 @@ public PdfXmpMetadata(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

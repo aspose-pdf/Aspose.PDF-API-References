@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF for .NET API 参考
-description: 表示边框线的线条颜色
+description: 代表边界线的线颜色
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/saveoptions.borderpartstyle/color/
 ---
 ## SaveOptions.BorderPartStyle.Color field
 
-表示边框线的线条颜色
+代表边界线的线颜色
 
 ```csharp
 public Color Color;

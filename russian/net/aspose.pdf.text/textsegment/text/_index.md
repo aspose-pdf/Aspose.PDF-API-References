@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливаетStringтекстовый объект которыйTextSegmentaspose.pdf.text/textsegmentобъект представляет.
+description: Получает или устанавливаетString текстовый объект которыйTextSegmentaspose.pdf.text/textsegment объект представляет.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/textsegment/text/
 ---
 ## TextSegment.Text property
 
-Получает или устанавливаетStringтекстовый объект, который[`TextSegment`](../../textsegment)объект представляет.
+Получает или устанавливаетString текстовый объект, который[`TextSegment`](../../textsegment) объект представляет.
 
 ```csharp
 public string Text { get; set; }

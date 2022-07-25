@@ -20,7 +20,7 @@ public virtual Element ElementOf[int index] { get; }
 
 ### 返回值
 
-Element与集合中的指定索引。如果 index 大于或等于列表中的元素数，则返回 null。
+这Element与集合中的指定索引。如果 index 大于或等于列表中的元素数，则返回 null。
 
 ### 也可以看看
 

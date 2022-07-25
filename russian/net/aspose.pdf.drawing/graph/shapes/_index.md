@@ -1,14 +1,14 @@
 ---
 title: Shapes
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает коллекциюShapesaspose.pdf.drawing/graph/shapes указывающую все фигуры на графике.
+description: Получает или задаетShapesaspose.pdf.drawing/graph/shapes коллекция которая указывает все фигуры на графике.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.drawing/graph/shapes/
 ---
 ## Graph.Shapes property
 
-Получает или задает коллекцию`Shapes`, указывающую все фигуры на графике.
+Получает или задает`Shapes` коллекция, которая указывает все фигуры на графике.
 
 ```csharp
 public List<Shape> Shapes { get; set; }

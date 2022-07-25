@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.Structure
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.Structure 命名空间提供有助于处理逻辑结构的类呈现 文档的章节和章节的组织或特殊元素的标识例如图形表格和脚注
+description: 的 Aspose.Pdf.Structure命名空间提供的类有助于处理文档的逻辑结构该结构将 文档组织成章节和部分或标识特殊元素如图形表格和脚注
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.structure/
 ---
-**Aspose.Pdf.Structure** 命名空间提供有助于处理逻辑结构的类呈现 文档的章节和章节的组织或特殊元素的标识，例如图形、表格和脚注。
+的 **Aspose.Pdf.Structure**命名空间提供的类有助于处理文档的逻辑结构，该结构将 文档组织成章节和部分或标识特殊元素，如图形、表格和脚注。
 
 ## 课程
 

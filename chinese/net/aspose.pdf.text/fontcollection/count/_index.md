@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 获取集合中实际包含的Fontaspose.pdf.text/font对象元素的数量
+description: 获取数量Fontaspose.pdf.text/font集合中实际包含的对象元素
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/fontcollection/count/
 ---
 ## FontCollection.Count property
 
-获取集合中实际包含的[`Font`](../../font)对象元素的数量。
+获取数量[`Font`](../../font)集合中实际包含的对象元素。
 
 ```csharp
 public int Count { get; }

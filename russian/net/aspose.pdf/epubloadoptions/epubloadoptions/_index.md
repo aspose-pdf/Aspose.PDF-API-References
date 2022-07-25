@@ -1,14 +1,14 @@
 ---
 title: EpubLoadOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Создает параметры загрузки по умолчанию для преобразования файла EPUB в документ PDF. Размер страницы PDF по умолчанию - A4 300dpi 2480 X 3508.
+description: Создает параметры загрузки по умолчанию для преобразования файла EPUB в документ PDF. Размер страницы PDF по умолчанию  A4 300 dpi 2480 X 3508.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/epubloadoptions/epubloadoptions/
 ---
 ## EpubLoadOptions() {#constructor}
 
-Создает параметры загрузки по умолчанию для преобразования файла EPUB в документ PDF. Размер страницы PDF по умолчанию - A4 300dpi 2480 X 3508.
+Создает параметры загрузки по умолчанию для преобразования файла EPUB в документ PDF. Размер страницы PDF по умолчанию — A4 300 dpi 2480 X 3508.
 
 ```csharp
 public EpubLoadOptions()

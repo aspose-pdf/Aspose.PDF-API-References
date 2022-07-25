@@ -1,14 +1,14 @@
 ---
 title: IsInList
 second_title: Aspose.PDF для справочника API .NET
-description: Получает что заголовок должен быть в оглавлении.
+description: Получает что заголовок должен быть в toc list.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/heading/isinlist/
 ---
 ## Heading.IsInList property
 
-Получает, что заголовок должен быть в оглавлении.
+Получает, что заголовок должен быть в toc list.
 
 ```csharp
 public bool IsInList { get; set; }

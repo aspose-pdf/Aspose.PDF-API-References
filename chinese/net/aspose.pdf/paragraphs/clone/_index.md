@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆一个新的Cloneaspose.pdf/paragraphs/clone对象
+description: 克隆一个新的Cloneaspose.pdf/paragraphs/clone对象.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/paragraphs/clone/
 ---
 ## Paragraphs.Clone method
 
-克隆一个新的`Clone`对象。
+克隆一个新的`Clone`对象.
 
 ```csharp
 public object Clone()
@@ -16,7 +16,7 @@ public object Clone()
 
 ### 返回值
 
-新`Clone`对象。
+新的`Clone`目的。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RecognizeBullets
 second_title: Aspose.PDF for .NET API 参考
-description: 开启子弹识别
+description: 开启子弹识别功能
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/docsaveoptions/recognizebullets/
 ---
 ## DocSaveOptions.RecognizeBullets property
 
-开启子弹识别
+开启子弹识别功能
 
 ```csharp
 public bool RecognizeBullets { get; set; }

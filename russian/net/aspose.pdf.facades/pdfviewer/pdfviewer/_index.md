@@ -1,14 +1,14 @@
 ---
 title: PdfViewer
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новыйPdfVieweraspose.pdf.facades/pdfviewerобъект.
+description: Инициализирует новыйPdfVieweraspose.pdf.facades/pdfviewer объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfviewer/pdfviewer/
 ---
 ## PdfViewer() {#constructor}
 
-Инициализирует новый[`PdfViewer`](../../pdfviewer)объект.
+Инициализирует новый[`PdfViewer`](../../pdfviewer) объект.
 
 ```csharp
 public PdfViewer()
@@ -24,7 +24,7 @@ public PdfViewer()
 
 ## PdfViewer(Document) {#constructor_1}
 
-Инициализирует новый[`PdfViewer`](../../pdfviewer)объект.
+Инициализирует новый[`PdfViewer`](../../pdfviewer) объект.
 
 ```csharp
 public PdfViewer(Document document)

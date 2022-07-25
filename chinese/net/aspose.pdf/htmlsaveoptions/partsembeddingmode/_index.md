@@ -1,14 +1,14 @@
 ---
 title: PartsEmbeddingMode
 second_title: Aspose.PDF for .NET API 参考
-description: 它定义了引用文件HTML字体图像CSSes 是嵌入到主 HTML 文件中还是生成为单独的二进制文件实体
+description: 它定义引用的文件HTML字体图像CSSes 是嵌入到主 HTML 文件中还是生成为单独的二进制实体
 type: docs
 weight: 340
 url: /zh/net/aspose.pdf/htmlsaveoptions/partsembeddingmode/
 ---
 ## HtmlSaveOptions.PartsEmbeddingMode field
 
-它定义了引用文件（HTML、字体、图像、CSSes） 是嵌入到主 HTML 文件中还是生成为单独的二进制文件实体
+它定义引用的文件（HTML、字体、图像、CSSes） 是嵌入到主 HTML 文件中还是生成为单独的二进制实体
 
 ```csharp
 public PartsEmbeddingModes PartsEmbeddingMode;

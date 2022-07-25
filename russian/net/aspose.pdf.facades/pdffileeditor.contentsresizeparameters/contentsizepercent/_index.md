@@ -16,8 +16,8 @@ public static ContentsResizeParameters ContentSizePercent(double width, double h
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Double | Новая ширина содержимого в процентах. |
-| height | Double | Новая высота содержимого в процентах. |
+| width | Double | Ширина нового контента в процентах. |
+| height | Double | Высота нового содержимого в процентах. |
 
 ### Возвращаемое значение
 

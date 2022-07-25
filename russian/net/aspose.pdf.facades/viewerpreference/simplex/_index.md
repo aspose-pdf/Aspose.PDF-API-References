@@ -1,14 +1,14 @@
 ---
 title: Simplex
 second_title: Aspose.PDF для справочника API .NET
-description: Печать односторонняя.
+description: Односторонняя печать.
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/viewerpreference/simplex/
 ---
 ## ViewerPreference.Simplex field
 
-Печать односторонняя.
+Односторонняя печать.
 
 ```csharp
 public const int Simplex;

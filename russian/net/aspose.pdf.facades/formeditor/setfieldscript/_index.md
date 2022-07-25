@@ -1,14 +1,14 @@
 ---
 title: SetFieldScript
 second_title: Aspose.PDF для справочника API .NET
-description: Установите JavaScript для поля PushButton. Если старый JavaScript существовал он будет заменен новым.
+description: Установить JavaScript для поля кнопки. Если существовал старый JavaScript он будет заменен новым.
 type: docs
 weight: 360
 url: /ru/net/aspose.pdf.facades/formeditor/setfieldscript/
 ---
 ## FormEditor.SetFieldScript method
 
-Установите JavaScript для поля PushButton. Если старый JavaScript существовал, он будет заменен новым.
+Установить JavaScript для поля кнопки. Если существовал старый JavaScript, он будет заменен новым.
 
 ```csharp
 public bool SetFieldScript(string fieldName, string script)
@@ -17,11 +17,11 @@ public bool SetFieldScript(string fieldName, string script)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fieldName | String | Полное имя поля. |
-| script | String | Java-скрипт, который будет добавлен/помещен в поле кнопки. |
+| script | String | Java-скрипт, который нужно добавить/поместить в поле кнопки. |
 
 ### Возвращаемое значение
 
-true, если сценарий поля был успешно установлен.
+true, если скрипт поля был успешно установлен.
 
 ### Смотрите также
 

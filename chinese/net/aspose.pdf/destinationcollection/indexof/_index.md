@@ -20,7 +20,7 @@ public int IndexOf(KeyValuePair<string, object> value)
 
 ### 返回值
 
-集合中的目标索引。
+集合中的目的地索引。
 
 ### 也可以看看
 

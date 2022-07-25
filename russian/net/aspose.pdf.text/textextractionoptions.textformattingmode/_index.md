@@ -1,14 +1,14 @@
 ---
 title: TextExtractionOptions.TextFormattingMode
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет различные режимы которые можно использовать при преобразовании документа PDF в текст. См.TextDeviceclass.
+description: Определяет различные режимы которые можно использовать при преобразовании документа PDF в текст. ВидетьTextDevice класс.
 type: docs
 weight: 7060
 url: /ru/net/aspose.pdf.text/textextractionoptions.textformattingmode/
 ---
 ## TextExtractionOptions.TextFormattingMode enumeration
 
-Определяет различные режимы, которые можно использовать при преобразовании документа PDF в текст. См.!:TextDeviceclass.
+Определяет различные режимы, которые можно использовать при преобразовании документа PDF в текст. Видеть!:TextDevice класс.
 
 ```csharp
 public enum TextFormattingMode

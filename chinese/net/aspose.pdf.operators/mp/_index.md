@@ -18,7 +18,7 @@ public class MP : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MP](mp)(string) | 初始化运算符。 |
+| [MP](mp)(string) | 初始化操作符。 |
 
 ## 特性
 

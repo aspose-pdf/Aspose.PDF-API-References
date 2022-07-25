@@ -18,7 +18,7 @@ public class EmptyValueException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [EmptyValueException](emptyvalueexception#constructor)() | Инициализирует новый экземпляр класса[`EmptyValueException`](../emptyvalueexception). |
+| [EmptyValueException](emptyvalueexception#constructor)() | Инициализирует новый экземпляр[`EmptyValueException`](../emptyvalueexception) класс. |
 | [EmptyValueException](emptyvalueexception#constructor_1)(string) | Конструктор. |
 
 ### Смотрите также

@@ -25,7 +25,7 @@ PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf("example.pdf");
 int prefValue = editor.GetViewerPreference();
 if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
-{  // ... }
+{ // ... }
 ```
 
 ### Смотрите также

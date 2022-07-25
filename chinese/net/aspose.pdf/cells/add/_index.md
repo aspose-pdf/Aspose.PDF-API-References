@@ -16,7 +16,7 @@ public Cell Add()
 
 ### 返回值
 
-新单元格
+新细胞
 
 ### 也可以看看
 
@@ -42,7 +42,7 @@ public Cell Add(string text, TextState ts)
 
 ### 返回值
 
-新单元格
+新细胞
 
 ### 也可以看看
 
@@ -68,7 +68,7 @@ public Cell Add(string text)
 
 ### 返回值
 
-新单元格
+新细胞
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 获取操作计数
+description: 获取动作计数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdfactioncollection/count/
 ---
 ## PdfActionCollection.Count property
 
-获取操作计数。
+获取动作计数。
 
 ```csharp
 public int Count { get; }

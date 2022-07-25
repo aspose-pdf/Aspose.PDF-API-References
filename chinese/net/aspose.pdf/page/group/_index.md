@@ -1,14 +1,14 @@
 ---
 title: Group
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个组属性类该类指定在透明成像模型中使用的页面的页面组的属性
+description: 获取或设置组属性类指定用于透明成像模型的页面的页面组的属性
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/page/group/
 ---
 ## Page.Group property
 
-获取或设置一个组属性类，该类指定在透明成像模型中使用的页面的页面组的属性。
+获取或设置组属性类，指定用于透明成像模型的页面的页面组的属性。
 
 ```csharp
 public Group Group { get; set; }

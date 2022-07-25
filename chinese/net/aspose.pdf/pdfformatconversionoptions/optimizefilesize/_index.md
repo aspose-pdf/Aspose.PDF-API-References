@@ -1,14 +1,14 @@
 ---
 title: OptimizeFileSize
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个标志该标志启用/禁用特殊转换模式以获取具有减小文件大小的 PDF/A 文档 现在这个标志会影响 PDF 文档中使用的字体的优化可能在将来这个标志 也将用于打开对其他数据结构的优化例如图形. 设置此标志和模式可以显着减小文件大小但同时它可能会 显着降低转换性能
+description: 获取或设置一个标志该标志启用/禁用特殊转换模式以获取具有减小文件大小的 PDF/A 文档 现在此标志会影响 PDF 文档中使用的字体的优化将来可能还会使用此标志 打开对其他数据结构的优化例如图形 设置此标志和模式可以显着减小文件大小但同时 会显着降低转换性能
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/optimizefilesize/
 ---
 ## PdfFormatConversionOptions.OptimizeFileSize property
 
-获取或设置一个标志，该标志启用/禁用特殊转换模式以获取具有减小文件大小的 PDF/A 文档。 现在这个标志会影响 PDF 文档中使用的字体的优化，可能在将来，这个标志 也将用于打开对其他数据结构的优化，例如图形. 设置此标志和模式可以显着减小文件大小，但同时它可能会 显着降低转换性能。
+获取或设置一个标志，该标志启用/禁用特殊转换模式以获取具有减小文件大小的 PDF/A 文档。 现在此标志会影响 PDF 文档中使用的字体的优化，将来可能还会使用此标志 打开对其他数据结构的优化，例如图形。 设置此标志和模式可以显着减小文件大小，但同时 会显着降低转换性能。
 
 ```csharp
 public bool OptimizeFileSize { get; set; }

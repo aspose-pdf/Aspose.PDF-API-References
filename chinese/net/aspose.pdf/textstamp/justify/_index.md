@@ -1,14 +1,14 @@
 ---
 title: Justify
 second_title: Aspose.PDF for .NET API 参考
-description: 定义文本对齐如果此属性设置为 true则文本的左右边缘都对齐默认值假
+description: 定义文本对齐如果此属性设置为 true则文本的左右边缘都对齐默认值false.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/textstamp/justify/
 ---
 ## TextStamp.Justify property
 
-定义文本对齐。如果此属性设置为 true，则文本的左右边缘都对齐。默认值:假。
+定义文本对齐。如果此属性设置为 true，则文本的左右边缘都对齐。默认值：false.
 
 ```csharp
 public bool Justify { get; set; }

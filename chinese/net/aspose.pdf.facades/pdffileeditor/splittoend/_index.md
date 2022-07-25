@@ -16,13 +16,13 @@ public bool SplitToEnd(string inputFile, int location, string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 源 Pdf 文件。 |
-| location | Int32 | 分割位置。 |
+| inputFile | String | 源 PDF 文件。 |
+| location | Int32 | 分裂位置。 |
 | outputFile | String | 输出 Pdf 文件路径。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -41,7 +41,7 @@ pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 
 ## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-从指定位置拆分，并将后面部分保存为新文件Stream。
+从指定位置拆分，并将后面部分保存为新文件 Stream.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -50,12 +50,12 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 源 Pdf 文件流。 |
-| location | Int32 | 分割位置。 |
-| outputStream | Stream | 输出 Pdf 文件流。 |
+| location | Int32 | 分裂位置。 |
+| outputStream | Stream | 输出 PDF 文件流。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
@@ -89,7 +89,7 @@ public bool SplitToEnd(Stream inputStream, int location, HttpResponse response)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 源文档流。 |
-| location | Int32 | 分割点。 |
+| location | Int32 | 分裂点。 |
 | response | HttpResponse | HttpResponse 对象。 |
 
 ### 返回值
@@ -115,7 +115,7 @@ public bool SplitToEnd(string inputFile, int location, HttpResponse response)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 源文件名。 |
-| location | Int32 | 分割点。 |
+| location | Int32 | 分裂点。 |
 | response | HttpResponse | HttpResponse 对象。 |
 
 ### 返回值

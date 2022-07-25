@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置PDF3DViewaspose.pdf.annotations/pdf3dview以查看指定索引处的数组
+description: 获取或设置PDF3DViewaspose.pdf.annotations/pdf3dview查看指定索引处的数组
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
 ## PDF3DViewArray indexer
 
-获取或设置[`PDF3DView`](../../pdf3dview)以查看指定索引处的数组。
+获取或设置[`PDF3DView`](../../pdf3dview)查看指定索引处的数组。
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -16,17 +16,17 @@ public PDF3DView this[int index] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 返回值
 
-PDF3DView。
+PDF3D 视图。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| IndexOutOfRangeException | 无效索引:索引应在 [1..n] 范围内，其中 n 等于视图数数。 |
+| IndexOutOfRangeException | 无效索引：索引应在 [1..n] 范围内，其中 n 等于查看次数。 |
 
 ### 也可以看看
 

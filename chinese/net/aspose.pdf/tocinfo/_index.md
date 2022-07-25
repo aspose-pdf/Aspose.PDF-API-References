@@ -18,17 +18,17 @@ public sealed class TocInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TocInfo](tocinfo)() | 初始化[`TocInfo`](../tocinfo)类的新实例。 |
+| [TocInfo](tocinfo)() | 初始化[`TocInfo`](../tocinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [ColumnInfo](../../aspose.pdf/tocinfo/columninfo) { get; set; } | 获取或设置列信息。 |
-| [FormatArray](../../aspose.pdf/tocinfo/formatarray) { get; set; } | 获取或设置目录格式数组。 |
+| [FormatArray](../../aspose.pdf/tocinfo/formatarray) { get; set; } | 获取或设置目录的格式数组。 |
 | [FormatArrayLength](../../aspose.pdf/tocinfo/formatarraylength) { get; set; } | 获取或设置格式数组长度 |
-| [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages) { get; set; } | 获取或设置计数或传递的目录页。 |
-| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers) { get; set; } | 获取或设置在 Toc 处显示的页码。 |
+| [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages) { get; set; } | 获取或设置被计数或传递的 toc pages。 |
+| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers) { get; set; } | 获取或设置在 Toc. 处显示页码 |
 | [LineDash](../../aspose.pdf/tocinfo/linedash) { get; set; } | 获取或设置 TOC 行破折号。 |
 | [PageNumbersPrefix](../../aspose.pdf/tocinfo/pagenumbersprefix) { get; set; } | 获取或设置页码前的前缀。 |
 | [Title](../../aspose.pdf/tocinfo/title) { get; set; } | 获取或设置目录标题。 |

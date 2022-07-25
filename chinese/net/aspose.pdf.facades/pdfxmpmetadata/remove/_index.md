@@ -16,7 +16,7 @@ public void Remove(DefaultMetadataProperties key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | 要删除的元素的键。 |
+| key | DefaultMetadataProperties | 将被删除的元素的键。 |
 
 ### 例子
 
@@ -49,7 +49,7 @@ public bool Remove(string key)
 
 ### 返回值
 
-True - 如果删除了密钥；否则为假。
+True - 如果键被移除；否则为假。
 
 ### 例子
 

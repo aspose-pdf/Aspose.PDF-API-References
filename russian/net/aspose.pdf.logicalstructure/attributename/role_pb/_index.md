@@ -1,14 +1,14 @@
 ---
 title: Role_pb
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут Рольpb - Кнопка.
+description: Роль атрибута pb  кнопка.
 type: docs
 weight: 400
 url: /ru/net/aspose.pdf.logicalstructure/attributename/role_pb/
 ---
 ## AttributeName.Role_pb field
 
-Атрибут Роль:pb - Кнопка.
+Роль атрибута: pb — кнопка.
 
 ```csharp
 public static readonly AttributeName Role_pb;

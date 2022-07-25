@@ -1,14 +1,14 @@
 ---
 title: GetViewsList
 second_title: Aspose.PDF for .NET API 参考
-description: 获取视图作为列表
+description: 以列表形式获取视图
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 ---
 ## PDF3DArtwork.GetViewsList method
 
-获取视图作为列表。
+以列表形式获取视图。
 
 ```csharp
 public ReadOnlyCollection<PDF3DView> GetViewsList()

@@ -18,7 +18,7 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Имя | Описание |
 | --- | --- |
-| [SimpleFontSubstitution](simplefontsubstitution)(string, string, bool) | Инициализирует новый экземпляр класса[`SimpleFontSubstitution`](../simplefontsubstitution). |
+| [SimpleFontSubstitution](simplefontsubstitution)(string, string, bool) | Инициализирует новый экземпляр[`SimpleFontSubstitution`](../simplefontsubstitution) класс. |
 
 ## Характеристики
 

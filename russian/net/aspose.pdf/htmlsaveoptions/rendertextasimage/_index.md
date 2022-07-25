@@ -1,14 +1,14 @@
 ---
 title: RenderTextAsImage
 second_title: Aspose.PDF для справочника API .NET
-description: Если для атрибута RenderTextAsImage установлено значение true текст из источника становится изображением в HTML. Может быть полезно сделать текст недоступным для выделения или текст HTML отображается неправильно.
+description: Если для атрибута RenderTextAsImage задано значение true текст из источника становится изображением в HTML. Может быть полезно чтобы сделать текст недоступным для выбора или текст HTML отображается неправильно.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/htmlsaveoptions/rendertextasimage/
 ---
 ## HtmlSaveOptions.RenderTextAsImage property
 
-Если для атрибута RenderTextAsImage установлено значение true, текст из источника становится изображением в HTML. Может быть полезно сделать текст недоступным для выделения или текст HTML отображается неправильно.
+Если для атрибута RenderTextAsImage задано значение true, текст из источника становится изображением в HTML. Может быть полезно, чтобы сделать текст недоступным для выбора или текст HTML отображается неправильно.
 
 ```csharp
 public bool RenderTextAsImage { get; set; }

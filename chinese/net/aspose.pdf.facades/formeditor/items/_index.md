@@ -1,14 +1,21 @@
 ---
 title: Items
 second_title: Aspose.PDF for .NET API 参考
-description: 设置将添加到单独创建的列表框或组合框的项目  ltcodegt formEditor  new Aspose.Pdf.Facades.FormEditorinput.pdf output.pdf formEditor.Items  new string  AAA BBB CCC  formEditor.AddFieldFieldType.ListBox AddedListBoxField BBB 1 10 30 110 130 formEditor.Save lt/codegt
+description: 设置将添加到单独创建的列表框或组合框的项目
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/formeditor/items/
 ---
 ## FormEditor.Items property
 
-设置将添加到单独创建的列表框或组合框的项目。  &lt;code&gt; formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf"); formEditor.Items = new string[] { "AAA", "BBB", "CCC" }; formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "BBB", 1, 10, 30, 110, 130); formEditor.Save(); &lt;/code&gt;
+设置将添加到单独创建的列表框或组合框的项目。
+
+```csharp
+formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
+formEditor.Items = new string[] { "AAA", "BBB", "CCC" };
+formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "BBB", 1, 10, 30, 110, 130);
+formEditor.Save();
+```
 
 ```csharp
 public string[] Items { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: AlignmentType
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个AlignmentTypeaspose.pdf.text/tabstop/alignmenttype枚举指示制表符对齐类型
+description: 获取或设置一个AlignmentTypeaspose.pdf.text/tabstop/alignmenttype指示选项卡选项卡对齐类型的枚举
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
 ## TabStop.AlignmentType property
 
-获取或设置一个`AlignmentType`枚举，指示制表符对齐类型。
+获取或设置一个`AlignmentType`指示选项卡选项卡对齐类型的枚举。
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }

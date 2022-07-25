@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/page/number/
 ---
 ## Page.Number property
 
-获取页码。
+获取页码
 
 ```csharp
 public int Number { get; }

@@ -1,14 +1,14 @@
 ---
 title: AppendChild
 second_title: Aspose.PDF для справочника API .NET
-description: ДобавитьElementк коллекции дочерних элементов.
+description: ДобавитьElement в коллекцию детей.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
 ## Element.AppendChild method
 
-ДобавитьElementк коллекции дочерних элементов.
+ДобавитьElement в коллекцию детей.
 
 ```csharp
 public Element AppendChild(Element element)
@@ -16,11 +16,11 @@ public Element AppendChild(Element element)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | Elementобъект для добавления. |
+| element | Element | Element объект для добавления. |
 
 ### Возвращаемое значение
 
-Elementкоторый был добавлен.
+Element который был добавлен.
 
 ### Смотрите также
 

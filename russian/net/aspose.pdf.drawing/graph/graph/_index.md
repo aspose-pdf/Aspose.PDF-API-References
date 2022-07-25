@@ -1,14 +1,14 @@
 ---
 title: Graph
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаGraphaspose.pdf.drawing/graph.
+description: Инициализирует новый экземплярGraphaspose.pdf.drawing/graph класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/graph/graph/
 ---
 ## Graph constructor
 
-Инициализирует новый экземпляр класса[`Graph`](../../graph).
+Инициализирует новый экземпляр[`Graph`](../../graph) класс.
 
 ```csharp
 public Graph(float width, float height)

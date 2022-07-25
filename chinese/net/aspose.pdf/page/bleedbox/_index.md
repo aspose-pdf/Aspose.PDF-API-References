@@ -16,7 +16,7 @@ public Rectangle BleedBox { get; set; }
 
 ### 例子
 
-示例演示如何获取页面的出血框:
+示例演示如何获取页面的出血框：
 
 ```csharp
 Document document = new Document("sample.pdf");

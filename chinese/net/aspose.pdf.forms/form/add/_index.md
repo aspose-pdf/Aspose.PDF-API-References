@@ -65,7 +65,7 @@ public Field Add(Field field, string partialName, int pageNumber)
 
 ### 返回值
 
-返回添加的字段。如果创建了该字段的副本，它将被返回。
+添加的字段返回。如果创建了该字段的副本，它将被返回。
 
 ### 也可以看看
 

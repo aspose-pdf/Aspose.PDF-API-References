@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/form/importfdf/
 ---
 ## Form.ImportFdf method
 
-从 fdf 文件中导入字段的内容并将它们放入新的 pdf 中。
+从 fdf 文件中导入字段的内容，并将它们放入新的 pdf 中。
 
 ```csharp
 public void ImportFdf(Stream inputFdfStream)

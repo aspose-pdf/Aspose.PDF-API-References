@@ -20,7 +20,7 @@ public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 ### 返回值
 
-&gt;xml元素列表。
+&gt; xml 元素列表。
 
 ### 也可以看看
 

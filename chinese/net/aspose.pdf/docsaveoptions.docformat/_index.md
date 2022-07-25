@@ -18,7 +18,7 @@ public enum DocFormat
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Doc | `0` | [MS-DOC]:Word (.doc) 二进制文件格式 |
+| Doc | `0` | [MS-DOC]：Word (.doc) 二进制文件格式 |
 | DocX | `1` | Office Open XML (.docx) 文件格式 |
 
 ### 也可以看看

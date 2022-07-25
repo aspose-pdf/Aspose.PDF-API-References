@@ -16,7 +16,7 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 字段名称。 |
+| fieldName | String | 字段的名称。 |
 
 ### 返回值
 

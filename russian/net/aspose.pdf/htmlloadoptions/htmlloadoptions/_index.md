@@ -24,7 +24,7 @@ public HtmlLoadOptions()
 
 ## HtmlLoadOptions(string) {#constructor_1}
 
-Создает параметры загрузки для преобразования html в pdf-документ с заданным базовым путем.
+Создает параметры загрузки для преобразования html в документ pdf с заданным базовым путем.
 
 ```csharp
 public HtmlLoadOptions(string basePath)
@@ -32,7 +32,7 @@ public HtmlLoadOptions(string basePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| basePath | String | Базовый путь/URL для файла html. |
+| basePath | String | Базовый путь/URL для HTML-файла. |
 
 ### Смотрите также
 

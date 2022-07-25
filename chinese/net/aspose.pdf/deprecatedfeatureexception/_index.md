@@ -1,14 +1,14 @@
 ---
 title: DeprecatedFeatureException
 second_title: Aspose.PDF for .NET API 参考
-description: 当前 pdf 版本中弃用某个功能时引发的异常
+description: 在当前 pdf 版本中弃用某个功能时引发的异常
 type: docs
 weight: 1610
 url: /zh/net/aspose.pdf/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException class
 
-当前 pdf 版本中弃用某个功能时引发的异常。
+在当前 pdf 版本中弃用某个功能时引发的异常。
 
 ```csharp
 public sealed class DeprecatedFeatureException : PdfException
@@ -18,7 +18,7 @@ public sealed class DeprecatedFeatureException : PdfException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DeprecatedFeatureException](deprecatedfeatureexception#constructor)() | 初始化[`DeprecatedFeatureException`](../deprecatedfeatureexception)类的新实例。 |
+| [DeprecatedFeatureException](deprecatedfeatureexception#constructor)() | 初始化[`DeprecatedFeatureException`](../deprecatedfeatureexception)类. |
 | [DeprecatedFeatureException](deprecatedfeatureexception#constructor_1)(string) | 构造函数。 |
 
 ### 也可以看看

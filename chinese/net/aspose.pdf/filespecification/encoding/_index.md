@@ -1,14 +1,14 @@
 ---
 title: Encoding
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置编码格式 可能的值Zip - 使用 ZIP 压缩文件 None - 文件未压缩
+description: 获取或设置编码格式 可能的值Zip - 使用 ZIP 压缩文件 None - 不压缩文件
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/filespecification/encoding/
 ---
 ## FileSpecification.Encoding property
 
-获取或设置编码格式。 可能的值:Zip - 使用 ZIP 压缩文件， None - 文件未压缩。
+获取或设置编码格式。 可能的值：Zip - 使用 ZIP 压缩文件， None - 不压缩文件。
 
 ```csharp
 public FileEncoding Encoding { get; set; }

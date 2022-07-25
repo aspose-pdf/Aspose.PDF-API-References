@@ -1,14 +1,14 @@
 ---
 title: PageHeight
 second_title: Aspose.PDF for .NET API 参考
-description: 获取源文件首页的高度
+description: 获取源文件第一页的高度
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdffilestamp/pageheight/
 ---
 ## PdfFileStamp.PageHeight property
 
-获取源文件首页的高度。
+获取源文件第一页的高度。
 
 ```csharp
 public float PageHeight { get; }

@@ -1,14 +1,14 @@
 ---
 title: CompressImages
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此标志设置为 true图像将在文档中压缩压缩级别由 ImageQuality 属性指定
+description: 如果此标志设置为 true图像将被压缩到文档中压缩级别由 ImageQuality 属性指定
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.optimization/imagecompressionoptions/compressimages/
 ---
 ## ImageCompressionOptions.CompressImages property
 
-如果此标志设置为 true，图像将在文档中压缩。压缩级别由 ImageQuality 属性指定。
+如果此标志设置为 true，图像将被压缩到文档中。压缩级别由 ImageQuality 属性指定。
 
 ```csharp
 public bool CompressImages { get; set; }

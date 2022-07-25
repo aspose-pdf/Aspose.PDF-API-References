@@ -1,14 +1,14 @@
 ---
 title: PdfException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PdfExceptionaspose.pdf/pdfexception类的新实例
+description: 初始化PdfExceptionaspose.pdf/pdfexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pdfexception/pdfexception/
 ---
 ## PdfException() {#constructor}
 
-初始化[`PdfException`](../../pdfexception)类的新实例。
+初始化[`PdfException`](../../pdfexception)类.
 
 ```csharp
 public PdfException()
@@ -24,7 +24,7 @@ public PdfException()
 
 ## PdfException(string) {#constructor_2}
 
-初始化[`PdfException`](../../pdfexception)类的新实例。
+初始化[`PdfException`](../../pdfexception)类.
 
 ```csharp
 public PdfException(string message)
@@ -44,7 +44,7 @@ public PdfException(string message)
 
 ## PdfException(string, Exception) {#constructor_3}
 
-使用指定的错误消息初始化[`PdfException`](../../pdfexception) 类的新实例以及对导致此异常的内部异常的引用。
+初始化[`PdfException`](../../pdfexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public PdfException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public PdfException(string message, Exception innerException)
 
 ## PdfException(Exception) {#constructor_1}
 
-使用指定的错误消息初始化[`PdfException`](../../pdfexception) 类的新实例以及对导致此异常的内部异常的引用。
+初始化[`PdfException`](../../pdfexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public PdfException(Exception innerException)
@@ -73,7 +73,7 @@ public PdfException(Exception innerException)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| innerException | Exception | 导致当前异常的异常，如果没有内部异常，则为空引用（在 Visual Basic 中为空）被指定。 |
+| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

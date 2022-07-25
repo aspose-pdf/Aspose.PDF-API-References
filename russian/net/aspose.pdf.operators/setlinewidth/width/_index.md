@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает ширину линии.
+description: Получает или задает ширину линии.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setlinewidth/width/
 ---
 ## SetLineWidth.Width property
 
-Получает или устанавливает ширину линии.
+Получает или задает ширину линии.
 
 ```csharp
 public double Width { get; set; }

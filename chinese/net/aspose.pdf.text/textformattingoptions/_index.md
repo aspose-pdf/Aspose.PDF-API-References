@@ -18,8 +18,8 @@ public sealed class TextFormattingOptions : TextOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextFormattingOptions](textformattingoptions#constructor)() | 使用未定义的自动换行模式初始化[`TextFormattingOptions`](../textformattingoptions)对象的新实例。 |
-| [TextFormattingOptions](textformattingoptions#constructor_1)(WordWrapMode) | 为指定的自动换行模式初始化[`TextFormattingOptions`](../textformattingoptions)对象的新实例。 |
+| [TextFormattingOptions](textformattingoptions#constructor)() | 初始化[`TextFormattingOptions`](../textformattingoptions)具有未定义自动换行模式的对象。 |
+| [TextFormattingOptions](textformattingoptions#constructor_1)(WordWrapMode) | 初始化[`TextFormattingOptions`](../textformattingoptions)指定自动换行模式的对象。 |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public sealed class TextFormattingOptions : TextOptions
 | [FirstLineIndent](../../aspose.pdf.text/textformattingoptions/firstlineindent) { get; set; } | 获取或设置首行缩进值。 |
 | [HyphenSymbol](../../aspose.pdf.text/textformattingoptions/hyphensymbol) { get; set; } | 获取或设置在断字过程中使用的连字符。 |
 | [LineSpacing](../../aspose.pdf.text/textformattingoptions/linespacing) { get; set; } | 获取或设置行距模式。 默认值为 LineSpacingMode.FontSize |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent) { get; set; } | 获取或设置后续行的缩进值。 |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textformattingoptions/subsequentlinesindent) { get; set; } | 获取或设置后续行缩进值。 |
 | [WrapMode](../../aspose.pdf.text/textformattingoptions/wrapmode) { get; set; } | 获取或设置自动换行模式。 默认值为 WordWrapMode.NoWrap |
 
 ### 也可以看看

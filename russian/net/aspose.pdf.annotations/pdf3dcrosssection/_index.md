@@ -18,7 +18,7 @@ public class PDF3DCrossSection
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DCrossSection](pdf3dcrosssection)(Document) | Инициализирует новый экземпляр класса[`PDF3DCrossSection`](../pdf3dcrosssection). |
+| [PDF3DCrossSection](pdf3dcrosssection)(Document) | Инициализирует новый экземпляр[`PDF3DCrossSection`](../pdf3dcrosssection) класс. |
 
 ## Характеристики
 

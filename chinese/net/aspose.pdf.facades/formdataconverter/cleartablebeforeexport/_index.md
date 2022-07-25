@@ -1,14 +1,14 @@
 ---
 title: ClearTableBeforeExport
 second_title: Aspose.PDF for .NET API 参考
-description: ExportFromData 将在数据导出前清除表
+description: ExportFromData 将在数据导出之前清除表
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/
 ---
 ## FormDataConverter.ClearTableBeforeExport property
 
-ExportFromData 将在数据导出前清除表。
+ExportFromData 将在数据导出之前清除表。
 
 ```csharp
 public bool ClearTableBeforeExport { get; set; }

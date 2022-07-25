@@ -1,14 +1,14 @@
 ---
 title: Document.IDocumentFontUtilities
 second_title: Aspose.PDF для справочника API .NET
-description: Содержит функциональность для настройки шрифтов
+description: Содержит функциональность для настройки fonts
 type: docs
 weight: 1900
 url: /ru/net/aspose.pdf/document.idocumentfontutilities/
 ---
 ## Document.IDocumentFontUtilities interface
 
-Содержит функциональность для настройки шрифтов
+Содержит функциональность для настройки fonts
 
 ```csharp
 public interface IDocumentFontUtilities

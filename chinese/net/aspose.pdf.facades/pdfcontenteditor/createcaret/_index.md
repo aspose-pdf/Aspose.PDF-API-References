@@ -17,10 +17,10 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 将创建注释的原始页数。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | annotRect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | caretRect | Rectangle | 底层插入符号的实际边界。 |
-| symbol | String | 符号将与插入符号相关联。值可以是:“P”（段落）、“无”。 |
+| symbol | String | 符号将与插入符号相关联。值可以是：“P”（段落）、“无”。 |
 | annotContents | String | 注释的内容。 |
 | color | Color | 注释的颜色。 |
 

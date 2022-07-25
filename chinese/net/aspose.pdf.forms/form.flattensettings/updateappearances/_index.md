@@ -1,14 +1,14 @@
 ---
 title: UpdateAppearances
 second_title: Aspose.PDF for .NET API 参考
-description: 如果设置所有字段外观将在展平前重新生成如果字段未正确展平此选项可能会有所帮助 此选项可能会降低性能默认设置为假
+description: 如果设置所有字段外观将在展平前重新生成如果字段未正确展平此选项可能会有所帮助 此选项可能会降低性能默认设置为 false.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/form.flattensettings/updateappearances/
 ---
 ## Form.FlattenSettings.UpdateAppearances property
 
-如果设置，所有字段外观将在展平前重新生成。如果字段未正确展平，此选项可能会有所帮助。 此选项可能会降低性能。默认设置为假。
+如果设置，所有字段外观将在展平前重新生成。如果字段未正确展平，此选项可能会有所帮助。 此选项可能会降低性能。默认设置为 false.
 
 ```csharp
 public bool UpdateAppearances { get; set; }

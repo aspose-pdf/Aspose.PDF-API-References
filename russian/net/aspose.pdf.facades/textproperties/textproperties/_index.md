@@ -1,14 +1,14 @@
 ---
 title: TextProperties
 second_title: Aspose.PDF для справочника API .NET
-description: СоздаетTextPropertiesaspose.pdf.facades/textpropertiesобъект для указанного размера текста
+description: СоздаетTextPropertiesaspose.pdf.facades/textproperties объект для указанного текста size
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/textproperties/textproperties/
 ---
 ## TextProperties constructor
 
-Создает[`TextProperties`](../../textproperties)объект для указанного размера текста
+Создает[`TextProperties`](../../textproperties) объект для указанного текста size
 
 ```csharp
 public TextProperties(double textSize)

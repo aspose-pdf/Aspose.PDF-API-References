@@ -18,8 +18,8 @@ public class BlockTextOperator : TextOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BlockTextOperator](blocktextoperator#constructor)() | 初始化运算符。 |
-| [BlockTextOperator](blocktextoperator#constructor_1)(TextProperties) | 初始化接受 TextProperties 的 BlockTextOperator。 |
+| [BlockTextOperator](blocktextoperator#constructor)() | 初始化操作符。 |
+| [BlockTextOperator](blocktextoperator#constructor_1)(TextProperties) | 初始化接受 TextProperties. 的 BlockTextOperator |
 
 ## 特性
 

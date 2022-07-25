@@ -1,14 +1,14 @@
 ---
 title: OnClose
 second_title: Aspose.PDF для справочника API .NET
-description: Действие которое должно выполняться при закрытии страницы.
+description: Действие которое должно быть выполнено при закрытии страницы.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pageactioncollection/onclose/
 ---
 ## PageActionCollection.OnClose property
 
-Действие, которое должно выполняться при закрытии страницы.
+Действие, которое должно быть выполнено при закрытии страницы.
 
 ```csharp
 public PdfAction OnClose { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: SetAttribute
 second_title: Aspose.PDF for .NET API 参考
-description: 将 StructureAttribute 设置为 StructureAttributes
+description: 将 StructureAttribute 设置为 StructureAttributes.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.logicalstructure/structureattributes/setattribute/
 ---
 ## StructureAttributes.SetAttribute method
 
-将 StructureAttribute 设置为 StructureAttributes。
+将 StructureAttribute 设置为 StructureAttributes.
 
 ```csharp
 public void SetAttribute(StructureAttribute attribute)
@@ -16,7 +16,7 @@ public void SetAttribute(StructureAttribute attribute)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| attribute | StructureAttribute | StructureAttribute。 |
+| attribute | StructureAttribute | 结构属性。 |
 
 ### 也可以看看
 

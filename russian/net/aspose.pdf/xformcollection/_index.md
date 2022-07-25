@@ -29,11 +29,11 @@ public sealed class XFormCollection : ICollection<XForm>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.pdf/xformcollection/add)(XForm) | Добавляет новую XForm в коллекцию. |
-| [Clear](../../aspose.pdf/xformcollection/clear)() | Удаляет все предметы из коллекции. |
+| [Clear](../../aspose.pdf/xformcollection/clear)() | Удаляет все элементы из коллекции. |
 | [Contains](../../aspose.pdf/xformcollection/contains)(XForm) | Определяет, содержит ли коллекция определенное значение. |
 | [CopyTo](../../aspose.pdf/xformcollection/copyto)(XForm[], int) | Копирует XFormCollection в коллекцию. |
 | [Delete](../../aspose.pdf/xformcollection/delete#delete)() | Удаляет все XForms из коллекции. |
-| [Delete](../../aspose.pdf/xformcollection/delete#delete_1)(int) | Удалить XForm из коллекции |
+| [Delete](../../aspose.pdf/xformcollection/delete#delete_1)(int) | Удалить XForm из collectin |
 | [Delete](../../aspose.pdf/xformcollection/delete#delete_2)(string) | Удаляет XForm из коллекции по имени формы. |
 | [GetEnumerator](../../aspose.pdf/xformcollection/getenumerator)() | Возвращает перечислитель коллекций. |
 | [Remove](../../aspose.pdf/xformcollection/remove)(XForm) | Удаляет указанный элемент из коллекции. |

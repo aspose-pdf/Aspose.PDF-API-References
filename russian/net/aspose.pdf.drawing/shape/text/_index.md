@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает текст для фигуры
+description: Получает или задает текст для shape
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/shape/text/
 ---
 ## Shape.Text property
 
-Получает или задает текст для фигуры
+Получает или задает текст для shape
 
 ```csharp
 public TextFragment Text { get; set; }

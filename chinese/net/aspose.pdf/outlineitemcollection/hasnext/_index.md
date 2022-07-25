@@ -1,14 +1,14 @@
 ---
 title: HasNext
 second_title: Aspose.PDF for .NET API 参考
-description: 检查在大纲层次结构中代表下一个项目的大纲项目是否相对于该项目
+description: 检查大纲项目是否代表大纲层次结构中的下一个项目
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/outlineitemcollection/hasnext/
 ---
 ## OutlineItemCollection.HasNext property
 
-检查在大纲层次结构中代表下一个项目的大纲项目是否相对于该项目。
+检查大纲项目是否代表大纲层次结构中的下一个项目。
 
 ```csharp
 public bool HasNext { get; }

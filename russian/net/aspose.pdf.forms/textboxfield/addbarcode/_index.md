@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf.forms/textboxfield/addbarcode/
 ---
 ## TextBoxField.AddBarcode method
 
-Добавляет в поле штрих-код 128. Значение поля будет изменено на код и поле станет доступным только для чтения.
+Добавляет в поле штрих-код 128. Значение поля будет изменено на код, и поле станет доступным только для чтения.
 
 ```csharp
 public void AddBarcode(string code)

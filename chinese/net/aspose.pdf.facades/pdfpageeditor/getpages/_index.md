@@ -20,7 +20,7 @@ public int GetPages()
 
 ### 例子
 
-以下示例演示了 GetPages() 方法的使用:
+下面的例子演示了 GetPages() 方法的使用：
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

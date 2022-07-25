@@ -1,14 +1,14 @@
 ---
 title: RadioHoriz
 second_title: Aspose.PDF для справочника API .NET
-description: Флаг указывающий расположены ли радиостанции горизонтально или вертикально значение по умолчанию равно true.
+description: Флаг указывающий расположены ли радиостанции горизонтально или вертикально значение по умолчанию  true.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
 ## FormEditor.RadioHoriz property
 
-Флаг, указывающий, расположены ли радиостанции горизонтально или вертикально, значение по умолчанию равно true.
+Флаг, указывающий, расположены ли радиостанции горизонтально или вертикально, значение по умолчанию — true.
 
 ```csharp
 public bool RadioHoriz { get; set; }

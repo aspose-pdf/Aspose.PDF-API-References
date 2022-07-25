@@ -1,14 +1,14 @@
 ---
 title: MemorySaveModePath
 second_title: Aspose.PDF for .NET API 参考
-description: 定义在内存节省模式下转换时保存 临时数据的路径文件名或目录名
+description: 定义保存路径文件名或目录名 在内存节省模式下转换时的临时数据
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/docsaveoptions/memorysavemodepath/
 ---
 ## DocSaveOptions.MemorySaveModePath property
 
-定义在内存节省模式下转换时保存 临时数据的路径（文件名或目录名）。
+定义保存路径（文件名或目录名） 在内存节省模式下转换时的临时数据。
 
 ```csharp
 public string MemorySaveModePath { get; set; }

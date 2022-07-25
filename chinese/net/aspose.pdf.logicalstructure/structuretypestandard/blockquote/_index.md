@@ -1,14 +1,14 @@
 ---
 title: BlockQuote
 second_title: Aspose.PDF for .NET API 参考
-description: 块引用由一个或多个段落组成的文本部分归因于周围文本作者以外的人
+description: 块引用文本的一部分由一个或多个段落组成归因于周围文本作者以外的人
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/blockquote/
 ---
 ## StructureTypeStandard.BlockQuote field
 
-（块引用）由一个或多个段落组成的文本部分，归因于周围文本作者以外的人。
+（块引用）文本的一部分，由一个或多个段落组成，归因于周围文本作者以外的人。
 
 ```csharp
 public static readonly StructureTypeStandard BlockQuote;

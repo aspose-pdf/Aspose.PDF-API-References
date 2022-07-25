@@ -16,7 +16,7 @@ public SetColorRenderingIntent(string intentName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| intentName | String | Цветопередача. |
+| intentName | String | Цель цветопередачи. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示段落集合
+description: 这个类代表段落集合
 type: docs
 weight: 5910
 url: /zh/net/aspose.pdf/paragraphs/
 ---
 ## Paragraphs class
 
-此类表示段落集合。
+这个类代表段落集合。
 
 ```csharp
 public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
@@ -33,8 +33,8 @@ public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
 | --- | --- |
 | [Add](../../aspose.pdf/paragraphs/add)(BaseParagraph) | 将段落添加到集合中。 |
 | [Clear](../../aspose.pdf/paragraphs/clear)() | 清除段落。 |
-| [Clone](../../aspose.pdf/paragraphs/clone)() | 克隆一个新的[`Clone`](./clone)对象。 |
-| [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator)() | 获取枚举数。 |
+| [Clone](../../aspose.pdf/paragraphs/clone)() | 克隆一个新的[`Clone`](./clone)对象. |
+| [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator)() | 获取枚举器。 |
 | [GetRange](../../aspose.pdf/paragraphs/getrange)(int, int) | 删除段落范围。 |
 | [Insert](../../aspose.pdf/paragraphs/insert)(int, BaseParagraph) | 将段落插入集合。 |
 | [InsertRange](../../aspose.pdf/paragraphs/insertrange)(int, IEnumerable&lt;BaseParagraph&gt;) | 将集合的元素插入到列表中指定索引处。 |

@@ -1,14 +1,14 @@
 ---
 title: Operator
 second_title: Aspose.PDF for .NET API 参考
-description: 表示运算符的抽象类
+description: 表示操作符的抽象类
 type: docs
 weight: 4850
 url: /zh/net/aspose.pdf/operator/
 ---
 ## Operator class
 
-表示运算符的抽象类。
+表示操作符的抽象类。
 
 ```csharp
 public abstract class Operator
@@ -26,7 +26,7 @@ public abstract class Operator
 | --- | --- |
 | abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) | 接受提供操作符处理的访问者 IOperatorSelector。 |
 | override [ToString](../../aspose.pdf/operator/tostring)() | 返回运算符的文本及其参数。 |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator)(Operator) | 确定操作员是否是负责文本输出的操作员（Tj、TJ 等） |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator)(Operator) | 判断操作员是否是负责文本输出（Tj、TJ等）的操作员 |
 
 ### 也可以看看
 

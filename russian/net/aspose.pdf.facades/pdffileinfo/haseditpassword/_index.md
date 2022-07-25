@@ -1,14 +1,14 @@
 ---
 title: HasEditPassword
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает true если для изменения разрешений или свойств безопасности документа требуется пароль. Обратите внимание что это свойство можно прочитать только если в конструктореPdfFileInfoaspose.pdf.facades/pdffileinfoбыл указан правильный пароль. В случае если PasswordType имеет значение Inaccessible означает что был предоставлен неверный пароль чтение этого свойства завершится ошибкойInvalidPasswordExceptionaspose.pdf/invalidpasswordexception.
+description: Возвращает значение true если для изменения разрешений или свойств безопасности документа требуется пароль. Обратите внимание что это свойство можно прочитать только в том случае если вPdfFileInfoaspose.pdf.facades/pdffileinfo конструктор. В случае если PasswordType недоступен означает что был предоставлен неверный пароль чтение этого свойства завершится ошибкой сInvalidPasswordExceptionaspose.pdf/invalidpasswordexception .
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffileinfo/haseditpassword/
 ---
 ## PdfFileInfo.HasEditPassword property
 
-Возвращает true, если для изменения разрешений или свойств безопасности документа требуется пароль. Обратите внимание, что это свойство можно прочитать, только если в конструкторе[`PdfFileInfo`](../../pdffileinfo)был указан правильный пароль. В случае, если PasswordType имеет значение Inaccessible (означает, что был предоставлен неверный пароль), чтение этого свойства завершится ошибкой[`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception).
+Возвращает значение true, если для изменения разрешений или свойств безопасности документа требуется пароль. Обратите внимание, что это свойство можно прочитать только в том случае, если в[`PdfFileInfo`](../../pdffileinfo) конструктор. В случае, если PasswordType недоступен (означает, что был предоставлен неверный пароль), чтение этого свойства завершится ошибкой с[`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception) .
 
 ```csharp
 public bool HasEditPassword { get; }

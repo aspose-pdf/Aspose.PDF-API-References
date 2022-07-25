@@ -1,14 +1,14 @@
 ---
 title: DateSignedAtLabel
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置日期签名标签默认值日期
+description: 获取/设置日期签名标签默认值日期.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/
 ---
 ## SignatureCustomAppearance.DateSignedAtLabel property
 
-获取/设置日期签名标签。默认值:“日期”。
+获取/设置日期签名标签。默认值：“日期”.
 
 ```csharp
 public string DateSignedAtLabel { get; set; }

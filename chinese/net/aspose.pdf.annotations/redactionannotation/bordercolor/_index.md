@@ -1,14 +1,14 @@
 ---
 title: BorderColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置在未激活编辑时绘制的边框颜色
+description: 获取或设置未激活编辑时绘制的边框颜色
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/redactionannotation/bordercolor/
 ---
 ## RedactionAnnotation.BorderColor property
 
-获取或设置在未激活编辑时绘制的边框颜色。
+获取或设置未激活编辑时绘制的边框颜色。
 
 ```csharp
 public Color BorderColor { get; set; }

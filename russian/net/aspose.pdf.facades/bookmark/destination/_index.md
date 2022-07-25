@@ -1,14 +1,14 @@
 ---
 title: Destination
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает целевую страницу закладки. Требуется если действие установлено как string.Empty.
+description: Получает или задает целевую страницу закладки. Требуется если действие установлено как string.Empty.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/bookmark/destination/
 ---
 ## Bookmark.Destination property
 
-Получает или устанавливает целевую страницу закладки. Требуется, если действие установлено как string.Empty.
+Получает или задает целевую страницу закладки. Требуется, если действие установлено как string.Empty.
 
 ```csharp
 public string Destination { get; set; }

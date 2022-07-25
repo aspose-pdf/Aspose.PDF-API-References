@@ -1,14 +1,14 @@
 ---
 title: ImageStream
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает поток изображения.
+description: Получает или задает поток изображений.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/image/imagestream/
 ---
 ## Image.ImageStream property
 
-Получает или задает поток изображения.
+Получает или задает поток изображений.
 
 ```csharp
 public Stream ImageStream { get; set; }

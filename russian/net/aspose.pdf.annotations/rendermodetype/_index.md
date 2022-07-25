@@ -1,14 +1,14 @@
 ---
 title: RenderModeType
 second_title: Aspose.PDF для справочника API .NET
-description: Enum RenderModeTypeнабор типов режимов рендеринга
+description: Enum RenderModeType набор типов режимов рендеринга
 type: docs
 weight: 970
 url: /ru/net/aspose.pdf.annotations/rendermodetype/
 ---
 ## RenderModeType enumeration
 
-Enum RenderModeType:набор типов режимов рендеринга
+Enum RenderModeType: набор типов режимов рендеринга
 
 ```csharp
 public enum RenderModeType
@@ -21,7 +21,7 @@ public enum RenderModeType
 | Solid | `0` | Режим рендеринга "Solid". |
 | SolidWireframe | `1` | Режим рендеринга "SolidWireFrame". |
 | Transparent | `2` | Режим рендеринга "Прозрачный". |
-| TransparentWareFrame | `3` | Режим рендера "TransparentWareFrame". |
+| TransparentWareFrame | `3` | Режим рендеринга "TransparentWareFrame". |
 | BoundingBox | `4` | Режим рендеринга "BoundingBox". |
 | TransparentBoundingBox | `5` | Режим рендеринга "TransparentBoundingBox". |
 | TransparentBoundingBoxOutline | `6` | Режим рендеринга "TransparentBoundingBoxOutline". |

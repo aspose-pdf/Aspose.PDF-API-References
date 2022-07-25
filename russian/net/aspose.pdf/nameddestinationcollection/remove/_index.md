@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Удалить именованный пункт назначения.
+description: Удалить указанное место назначения.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/nameddestinationcollection/remove/
 ---
 ## NamedDestinationCollection.Remove method
 
-Удалить именованный пункт назначения.
+Удалить указанное место назначения.
 
 ```csharp
 public void Remove(string name)
@@ -16,7 +16,7 @@ public void Remove(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя пункта назначения для удаления. |
+| name | String | Имя адресата для удаления. |
 
 ### Смотрите также
 

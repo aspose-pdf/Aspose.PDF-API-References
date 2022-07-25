@@ -1,14 +1,14 @@
 ---
 title: TextStyle
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает стиль текста во внешнем виде. при изменении стиля текста обновляется внешний вид текста.
+description: Получает или задает стиль текста во внешнем виде. при изменении стиля текста внешний вид текста обновляется.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/freetextannotation/textstyle/
 ---
 ## FreeTextAnnotation.TextStyle property
 
-Получает или задает стиль текста во внешнем виде. при изменении стиля текста обновляется внешний вид текста.
+Получает или задает стиль текста во внешнем виде. при изменении стиля текста внешний вид текста обновляется.
 
 ```csharp
 public TextStyle TextStyle { get; set; }

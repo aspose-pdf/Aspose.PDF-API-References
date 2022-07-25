@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает перечислитель который перебирает коллекцию.
+description: Возвращает перечислитель который выполняет итерацию по коллекции.
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf/outlineitemcollection/getenumerator/
 ---
 ## OutlineItemCollection.GetEnumerator method
 
-Возвращает перечислитель, который перебирает коллекцию.
+Возвращает перечислитель, который выполняет итерацию по коллекции.
 
 ```csharp
 public override IEnumerator<OutlineItemCollection> GetEnumerator()

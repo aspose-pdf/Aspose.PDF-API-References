@@ -1,14 +1,14 @@
 ---
 title: Process
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразует определенные страницы документа в tiff и сохраняет их в выходной поток.
+description: Преобразует определенные страницы документа в формат tiff и сохраняет их в выходном потоке.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.devices/tiffdevice/process/
 ---
 ## TiffDevice.Process method
 
-Преобразует определенные страницы документа в tiff и сохраняет их в выходной поток.
+Преобразует определенные страницы документа в формат tiff и сохраняет их в выходном потоке.
 
 ```csharp
 public override void Process(Document document, int fromPage, int toPage, Stream output)
@@ -19,7 +19,7 @@ public override void Process(Document document, int fromPage, int toPage, Stream
 | document | Document | Документ для преобразования. |
 | fromPage | Int32 | Определяет номер страницы, с которой начнется конвертация. |
 | toPage | Int32 | Определяет номер страницы, на которой завершится преобразование. |
-| output | Stream | Выходной поток с изображением в формате tiff. |
+| output | Stream | Выходной поток с изображением в формате TIFF. |
 
 ### Смотрите также
 

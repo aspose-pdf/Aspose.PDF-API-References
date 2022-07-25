@@ -18,7 +18,7 @@ public sealed class MarginInfo : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [MarginInfo](margininfo#constructor)() | Инициализирует новый экземпляр класса[`MarginInfo`](../margininfo). |
+| [MarginInfo](margininfo#constructor)() | Инициализирует новый экземпляр[`MarginInfo`](../margininfo) класс. |
 | [MarginInfo](margininfo#constructor_1)(double, double, double, double) | Конструктор прямоугольника. |
 
 ## Характеристики
@@ -34,7 +34,7 @@ public sealed class MarginInfo : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.pdf/margininfo/clone)() | Клонирует новый[`MarginInfo`](../margininfo)объект. |
+| [Clone](../../aspose.pdf/margininfo/clone)() | Клонирует новый[`MarginInfo`](../margininfo) объект. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SetTextRenderingMode
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 Tr 运算符的类设置文本渲染模式
+description: 表示Tr算子的类设置文本渲染模式
 type: docs
 weight: 5600
 url: /zh/net/aspose.pdf.operators/settextrenderingmode/
 ---
 ## SetTextRenderingMode class
 
-表示 Tr 运算符的类（设置文本渲染模式）。
+表示Tr算子的类（设置文本渲染模式）。
 
 ```csharp
 public class SetTextRenderingMode : TextStateOperator

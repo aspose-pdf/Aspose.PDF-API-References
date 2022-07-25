@@ -24,7 +24,7 @@ public MarginInfo()
 
 ## MarginInfo(MarginPartStyle) {#constructor_1}
 
-创建 MarginInfo 类的实例并初始化 页边距的所有元素（上、左、右、下） 具有从提供的边距样式复制的属性
+创建 MarginInfo 类的实例并初始化 页边距（上、左、右、下） 的所有元素，其属性从提供的边距样式
 
 ```csharp
 public MarginInfo(MarginPartStyle commonMargin)
@@ -32,7 +32,7 @@ public MarginInfo(MarginPartStyle commonMargin)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| commonMargin | MarginPartStyle | 边距部分的样式，将用于边距的所有元素（左，右，顶部，底部） |
+| commonMargin | MarginPartStyle | 将用于所有边距元素的边距部分样式（左、右、上、下） |
 
 ### 也可以看看
 

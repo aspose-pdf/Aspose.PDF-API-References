@@ -20,7 +20,7 @@ public bool Contains(KeyValuePair<string, XForm> item)
 
 ### Возвращаемое значение
 
-true, если этот файл найден.
+верно, если этот пауир был найден.
 
 ### Смотрите также
 

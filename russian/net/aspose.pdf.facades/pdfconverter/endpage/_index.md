@@ -1,14 +1,14 @@
 ---
 title: EndPage
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает конечную позицию которую вы хотите преобразовать.
+description: Получает или задает конечную позицию которую вы хотите преобразовать.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdfconverter/endpage/
 ---
 ## PdfConverter.EndPage property
 
-Получает или устанавливает конечную позицию, которую вы хотите преобразовать.
+Получает или задает конечную позицию, которую вы хотите преобразовать.
 
 ```csharp
 public int EndPage { get; set; }

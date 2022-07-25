@@ -16,7 +16,7 @@ public DocMDPAccessPermissions GetAccessPermissions()
 
 ### 返回值
 
-如果文档正在被认证，则返回访问权限值；否则，&lt;exception cref="T:System.ApplicationException" /&gt; 被抛出。
+如果文档正在被认证，则返回访问权限值；否则，被抛出。
 
 ### 也可以看看
 

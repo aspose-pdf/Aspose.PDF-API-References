@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: Retunrs 集合枚举器
+description: 返回集合枚举器
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/xformcollection/getenumerator/
 ---
 ## XFormCollection.GetEnumerator method
 
-Retunrs 集合枚举器。
+返回集合枚举器。
 
 ```csharp
 public IEnumerator<XForm> GetEnumerator()

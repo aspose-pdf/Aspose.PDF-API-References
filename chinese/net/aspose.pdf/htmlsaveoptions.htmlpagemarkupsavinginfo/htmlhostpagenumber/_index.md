@@ -1,14 +1,14 @@
 ---
 title: HtmlHostPageNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 由转换器设置 如果设置 SplitToPages 属性则在转换 created 期间会创建多个 HTML 文件每个转换页面一个 HTML 文件 此属性包含已保存 HTML 页面文件的序号 该属性可用于自定义代码的逻辑 决定如何处理或保存 HTML 页面和 如果在页面上拆分关闭此value 总是包含 1 因为在这种情况下只生成一个大的 HTML 页面 用于整个源文档
+description: 由转换器设置 如果设置 SplitToPages 属性则在转换创建期间会创建多个 HTML 文件每个转换页面一个 HTML 文件 此属性包含已保存 HTML 页面文件的序号 该属性可用于自定义代码的逻辑 来决定如何处理或保存 HTML 页面和 如果关闭页面拆分此值始终包含 1 因为在在这种情况下整个源文档只生成一个大 HTML 页面 
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/htmlhostpagenumber/
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.HtmlHostPageNumber field
 
-由转换器设置。 如果设置 SplitToPages 属性，则在转换 created 期间会创建多个 HTML 文件（每个转换页面一个 HTML 文件） 。此属性包含已保存 HTML 页面文件的序号。 该属性可用于自定义代码的逻辑 决定如何处理或保存 HTML 页面和 如果在页面上拆分关闭此value 总是包含 '1' 因为在这种情况下只生成一个大的 HTML 页面 用于整个源文档。
+由转换器设置。 如果设置 SplitToPages 属性，则在转换创建期间会创建多个 HTML 文件（每个转换页面一个 HTML 文件） 。此属性包含已保存 HTML 页面文件的序号。 该属性可用于自定义代码的逻辑 来决定如何处理或保存 HTML 页面和 如果关闭页面拆分，此值始终包含 '1' 因为在在这种情况下，整个源文档只生成一个大 HTML 页面 。
 
 ```csharp
 public int HtmlHostPageNumber;

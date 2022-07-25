@@ -1,14 +1,14 @@
 ---
 title: ImageResolution
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置图像分辨率dpi默认为 192 dpi
+description: 获取或设置图像分辨率dpi默认为 192 dpi.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pptxsaveoptions/imageresolution/
 ---
 ## PptxSaveOptions.ImageResolution property
 
-获取或设置图像分辨率（dpi）。默认为 192 dpi。
+获取或设置图像分辨率（dpi）。默认为 192 dpi.
 
 ```csharp
 public int ImageResolution { get; set; }

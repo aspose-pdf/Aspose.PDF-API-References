@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 从模式中删除对象
+description: 从架构中删除对象
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/remove/
 ---
 ## XmpPdfAExtensionSchema.Remove method
 
-从模式中删除对象。
+从架构中删除对象。
 
 ```csharp
 public void Remove(XmpPdfAExtensionObject obj)

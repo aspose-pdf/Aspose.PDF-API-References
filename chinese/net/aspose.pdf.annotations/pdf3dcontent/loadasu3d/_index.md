@@ -28,7 +28,7 @@ public void LoadAsU3D(string filename)
 
 ## LoadAsU3D(Stream) {#loadasu3d_1}
 
-从流中加载 3D 内容为 U3D 格式。
+以 U3D 格式从流中加载 3D 内容。
 
 ```csharp
 public void LoadAsU3D(Stream stream)
@@ -48,7 +48,7 @@ public void LoadAsU3D(Stream stream)
 
 ## LoadAsU3D(byte[]) {#loadasu3d}
 
-从字节数组加载 3D 内容为 U3D 格式。
+将字节数组中的 3D 内容加载为 U3D 格式。
 
 ```csharp
 public void LoadAsU3D(byte[] stream)

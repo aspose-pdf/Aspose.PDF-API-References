@@ -1,14 +1,14 @@
 ---
 title: DeleteImage
 second_title: Aspose.PDF for .NET API 参考
-description: 删除指定页面上的指定图片
+description: 删除指定页面上的指定图像
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/deleteimage/
 ---
 ## DeleteImage(int, int[]) {#deleteimage_1}
 
-删除指定页面上的指定图片。
+删除指定页面上的指定图像。
 
 ```csharp
 public void DeleteImage(int pageNumber, int[] index)
@@ -17,7 +17,7 @@ public void DeleteImage(int pageNumber, int[] index)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumber | Int32 | 必须删除图像的页数。 |
-| index | Int32[] | 数组表示图像的索引。 |
+| index | Int32[] | 数组代表图像的索引。 |
 
 ### 例子
 

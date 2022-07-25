@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆一个新的TabStopsaspose.pdf.text/tabstops对象
+description: 克隆一个新的TabStopsaspose.pdf.text/tabstops对象.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/tabstops/clone/
 ---
 ## TabStops.Clone method
 
-克隆一个新的[`TabStops`](../../tabstops)对象。
+克隆一个新的[`TabStops`](../../tabstops)对象.
 
 ```csharp
 public object Clone()
@@ -16,7 +16,7 @@ public object Clone()
 
 ### 返回值
 
-新[`TabStops`](../../tabstops)对象。
+新的[`TabStops`](../../tabstops)目的。
 
 ### 也可以看看
 

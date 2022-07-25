@@ -16,7 +16,7 @@ public bool Remove(Annotation annotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 需要删除的注解。 |
+| annotation | Annotation | 应删除的注释。 |
 
 ### 返回值
 

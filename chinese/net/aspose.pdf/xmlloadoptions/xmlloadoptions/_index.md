@@ -1,14 +1,14 @@
 ---
 title: XmlLoadOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 创建没有 xsl 数据的XmlLoadOptionsaspose.pdf/xmlloadoptions对象
+description: 创建XmlLoadOptionsaspose.pdf/xmlloadoptions没有 xsl 数据的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/xmlloadoptions/xmlloadoptions/
 ---
 ## XmlLoadOptions() {#constructor}
 
-创建没有 xsl 数据的[`XmlLoadOptions`](../../xmlloadoptions)对象。
+创建[`XmlLoadOptions`](../../xmlloadoptions)没有 xsl 数据的对象。
 
 ```csharp
 public XmlLoadOptions()
@@ -24,7 +24,7 @@ public XmlLoadOptions()
 
 ## XmlLoadOptions(string) {#constructor_2}
 
-使用 xsl 数据创建[`XmlLoadOptions`](../../xmlloadoptions)对象。
+创建[`XmlLoadOptions`](../../xmlloadoptions)带有 xsl 数据的对象。
 
 ```csharp
 public XmlLoadOptions(string xslFile)
@@ -44,7 +44,7 @@ public XmlLoadOptions(string xslFile)
 
 ## XmlLoadOptions(Stream) {#constructor_1}
 
-使用 xsl 数据创建[`XmlLoadOptions`](../../xmlloadoptions)对象。
+创建[`XmlLoadOptions`](../../xmlloadoptions)带有 xsl 数据的对象。
 
 ```csharp
 public XmlLoadOptions(Stream xslStream)
@@ -52,7 +52,7 @@ public XmlLoadOptions(Stream xslStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xslStream | Stream | Xsl流将xml文档转换为pdf文档。 |
+| xslStream | Stream | Xsl 流将 xml 文档转换为 pdf 文档。 |
 
 ### 也可以看看
 

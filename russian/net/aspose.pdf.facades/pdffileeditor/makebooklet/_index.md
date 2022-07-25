@@ -1,14 +1,14 @@
 ---
 title: MakeBooklet
 second_title: Aspose.PDF для справочника API .NET
-description: Создает буклет из входного файла в выходной файл.
+description: Делает буклет из входного файла в выходной файл.
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
 ## MakeBooklet(string, string) {#makebooklet_8}
 
-Создает буклет из входного файла в выходной файл.
+Делает буклет из входного файла в выходной файл.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile)
@@ -21,7 +21,7 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -40,7 +40,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf");
 
 ## MakeBooklet(Stream, Stream) {#makebooklet_2}
 
-Создает буклет из InputStream в outputStream.
+Делает буклет из InputStream в outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream)
@@ -48,7 +48,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной поток pdf. |
+| inputStream | Stream | Входной поток PDF. |
 | outputStream | Stream | выходной поток PDF. |
 
 ### Возвращаемое значение
@@ -74,7 +74,7 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ## MakeBooklet(string, string, PageSize) {#makebooklet_9}
 
-Делает буклет из входного файла в выходной файл.
+Делает буклет из inputFile в outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -122,7 +122,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 ### Возвращаемое значение
 
-Истинно, если операция выполнена успешно.
+Истинно, если операция прошла успешно.
 
 ### Примеры
 
@@ -144,7 +144,7 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ## MakeBooklet(string, string, int[], int[]) {#makebooklet_11}
 
-Создает настраиваемый буклет из файла firstInputFile в файл output.
+Создает настраиваемый буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -153,13 +153,13 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного pdf-файла. |
+| outputFile | String | Выходной путь и имя файла PDF. |
 | leftPages | Int32[] | Левые страницы буклета. |
 | rightPages | Int32[] | Правые страницы буклета. |
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -187,13 +187,13 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | выходной поток PDF. |
+| outputStream | Stream | выходной pdf-поток. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правильные страницы. |
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -214,7 +214,7 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_10}
 
-Создает настраиваемый буклет из файла firstInputFile в файл output.
+Создает настраиваемый буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -224,14 +224,14 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного pdf-файла. |
+| outputFile | String | Выходной путь и имя файла PDF. |
 | pageSize | PageSize | Размер страницы выходного pdf-файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правильные страницы. |
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -261,14 +261,14 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | выходной поток PDF. |
+| outputStream | Stream | выходной pdf-поток. |
 | pageSize | PageSize | Размер страницы выходного pdf-файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правильные страницы. |
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -302,7 +302,7 @@ public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, in
 | inputFile | String | Путь к исходному файлу. |
 | pageSize | PageSize | Желаемый размер страницы. |
 | leftPages | Int32[] | Массив номеров страниц для размещения слева. |
-| rightPages | Int32[] | Массив номеров страниц для размещения справа. |
+| rightPages | Int32[] | Массив номеров страниц, которые должны быть размещены справа. |
 | response | HttpResponse | Объект HttpResponse, в котором будет храниться результат. |
 
 ### Возвращаемое значение
@@ -329,7 +329,7 @@ public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входных документов. |
+| inputStream | Stream | Входной поток документов. |
 | pageSize | PageSize | Желаемый размер страницы. |
 | leftPages | Int32[] | Массив номеров страниц, которые будут помещены слева. |
 | rightPages | Int32[] | Массив номеров страниц, которые будут заменены справа. |
@@ -385,13 +385,13 @@ public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse resp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входных документов. |
+| inputStream | Stream | Входной поток документов. |
 | pageSize | PageSize | Желаемый размер страницы в выходном файле. |
-| response | HttpResponse | Respose объект, в котором будут сохранены результаты. |
+| response | HttpResponse | Объект Respose, в котором будут сохранены результаты. |
 
 ### Возвращаемое значение
 
-true, если буклет построен успешно.
+true, если буклет был построен успешно.
 
 ### Смотрите также
 

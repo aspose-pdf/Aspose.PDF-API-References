@@ -16,7 +16,7 @@ public static Color Khaki { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

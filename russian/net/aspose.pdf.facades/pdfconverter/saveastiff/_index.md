@@ -90,8 +90,8 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 
 ### Смотрите также
 
@@ -159,8 +159,8 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | compressionType | CompressionType | Тип сжатия. |
 
 ### Смотрите также
@@ -183,8 +183,8 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
 
 ### Смотрите также
@@ -208,10 +208,10 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputFile | String | Имя файла для сохранения изображения TIFF |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -225,7 +225,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ## SaveAsTIFF(Stream) {#saveastiff}
 
-Преобразует каждую страницу pdf-документа в изображения и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream)
@@ -313,7 +313,7 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 ## SaveAsTIFF(Stream, int, int) {#saveastiff_6}
 
-Преобразует каждую страницу pdf-документа в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
@@ -322,8 +322,8 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 
 ### Смотрите также
 
@@ -335,7 +335,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 ## SaveAsTIFF(Stream, int, int, CompressionType) {#saveastiff_7}
 
-Преобразует каждую страницу pdf-документа в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, 
@@ -345,8 +345,8 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | compressionType | CompressionType | Тип сжатия. |
 
 ### Смотрите также
@@ -360,7 +360,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings) {#saveastiff_8}
 
-Преобразует каждую страницу pdf-документа в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings)
@@ -369,8 +369,8 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
 
 ### Смотрите также
@@ -384,7 +384,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_9}
 
-Преобразует каждую страницу pdf-документа в изображения с размерами и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу документа PDF в изображения с размерами и сохраняет изображения в один поток TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -394,10 +394,10 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 | settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -443,7 +443,7 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 | --- | --- | --- |
 | outputFile | String | Имя файла для сохранения изображения TIFF |
 | settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -457,7 +457,7 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 ## SaveAsTIFF(Stream, TiffSettings) {#saveastiff_2}
 
-Преобразует каждую страницу pdf-документа в изображения и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
@@ -479,7 +479,7 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 ## SaveAsTIFF(Stream, TiffSettings, IIndexBitmapConverter) {#saveastiff_3}
 
-Преобразует каждую страницу pdf-документа в изображения и сохраняет изображения в один поток TIFF.
+Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapConverter converter)
@@ -489,7 +489,7 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения TIFF. |
 | settings | TiffSettings | Объект настроек, определяющий параметры TIFF. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 

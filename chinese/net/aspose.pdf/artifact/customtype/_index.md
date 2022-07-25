@@ -1,14 +1,14 @@
 ---
 title: CustomType
 second_title: Aspose.PDF for .NET API 参考
-description: 获取工件类型的名称如果工件类型是非标准的则可以使用
+description: 获取工件类型的名称如果工件类型是非标准的可以使用
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/artifact/customtype/
 ---
 ## Artifact.CustomType property
 
-获取工件类型的名称。如果工件类型是非标准的，则可以使用。
+获取工件类型的名称。如果工件类型是非标准的，可以使用。
 
 ```csharp
 public string CustomType { get; set; }

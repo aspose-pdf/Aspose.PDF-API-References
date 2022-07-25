@@ -59,7 +59,7 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
- // украсить все текстовые поля.
+//украшаем все текстовые поля.
 fe.DecorateField(FieldType.Text);
 ```
 
@@ -89,7 +89,7 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
- //украсить все поля.
+//украшаем все поля.
 fe.DecorateField();
 ```
 

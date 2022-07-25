@@ -19,7 +19,7 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 | Имя | Описание |
 | --- | --- |
 | [PdfXmpMetadata](pdfxmpmetadata#constructor)() | Конструктор для PdfXmpMetadata. |
-| [PdfXmpMetadata](pdfxmpmetadata#constructor_1)(Document) | Инициализирует новый[`PdfXmpMetadata`](../pdfxmpmetadata)объект на основе*document*. |
+| [PdfXmpMetadata](pdfxmpmetadata#constructor_1)(Document) | Инициализирует новый[`PdfXmpMetadata`](../pdfxmpmetadata) объект на базе*document* . |
 
 ## Характеристики
 
@@ -40,7 +40,7 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_2)(KeyValuePair&lt;string, XmpValue&gt;) | Добавляет в словарь пару с ключом и значением. |
+| [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_2)(KeyValuePair&lt;string, XmpValue&gt;) | Добавляет пару с ключом и значением в словарь. |
 | [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add)(DefaultMetadataProperties, XmpValue) | Добавляет значение к метаданным XMP. |
 | [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_4)(string, object) | Добавляет новый элемент в объект словаря. |
 | [Add](../../aspose.pdf.facades/pdfxmpmetadata/add#add_3)(string, XmpValue) | Добавляет новый элемент в объект словаря. |
@@ -59,15 +59,15 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 | [GetEnumerator](../../aspose.pdf.facades/pdfxmpmetadata/getenumerator)() | Получает объект перечислителя словаря. |
 | [GetNamespaceURIByPrefix](../../aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix)(string) | Получает URI пространства имен по префиксу. |
 | [GetPrefixByNamespaceURI](../../aspose.pdf.facades/pdfxmpmetadata/getprefixbynamespaceuri)(string) | Получает префикс по URI пространства имен. |
-| [GetXmpMetadata](../../aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata#getxmpmetadata)() | Получите XmpMetadata входного PDF-файла в формате xml. |
-| [GetXmpMetadata](../../aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata#getxmpmetadata_1)(string) | Получить часть XmpMetadata входного pdf в соответствии с мета-именем. |
+| [GetXmpMetadata](../../aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata#getxmpmetadata)() | Получить метаданные Xmp входного PDF-файла в формате xml. |
+| [GetXmpMetadata](../../aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata#getxmpmetadata_1)(string) | Получить часть метаданных Xmp входного PDF-файла в соответствии с мета-именем. |
 | [RegisterNamespaceURI](../../aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri)(string, string) | Регистрирует URI пространства имен. |
 | [Remove](../../aspose.pdf.facades/pdfxmpmetadata/remove#remove_2)(DefaultMetadataProperties) | Удаляет элемент с указанным ключом. |
 | [Remove](../../aspose.pdf.facades/pdfxmpmetadata/remove#remove)(KeyValuePair&lt;string, XmpValue&gt;) | Удаляет пару ключ/значение из коллекции. |
 | [Remove](../../aspose.pdf.facades/pdfxmpmetadata/remove#remove_1)(string) | Удаляет ключ из словаря. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | Сохраняет документ PDF в указанный поток. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | Сохраняет документ PDF в указанный файл. |
-| [TryGetValue](../../aspose.pdf.facades/pdfxmpmetadata/trygetvalue)(string, out XmpValue) | Пытается найти ключ в словаре и возвращает значение, если оно найдено. |
+| [TryGetValue](../../aspose.pdf.facades/pdfxmpmetadata/trygetvalue)(string, out XmpValue) | Пытается найти ключ в словаре и извлекает значение, если оно найдено. |
 
 ### Смотрите также
 

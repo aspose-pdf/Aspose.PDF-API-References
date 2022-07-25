@@ -1,14 +1,14 @@
 ---
 title: ToUnicodeProcessingRules
 second_title: Aspose.PDF for .NET API 参考
-description: 此类描述可用于解决 Adobe Preflight 错误 文本无法映射到 Unicode的规则
+description: 此类描述可用于解决 Adobe Preflight 错误的规则 文本无法映射到 Unicode
 type: docs
 weight: 5970
 url: /zh/net/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules class
 
-此类描述可用于解决 Adobe Preflight 错误 “文本无法映射到 Unicode”的规则。
+此类描述可用于解决 Adobe Preflight 错误的规则 “文本无法映射到 Unicode”。
 
 ```csharp
 public class ToUnicodeProcessingRules
@@ -26,8 +26,8 @@ public class ToUnicodeProcessingRules
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/mapnonlinkedsymbolsonspace) { get; set; } | 某些字体不提供有关某些文本符号的 unicode 的信息。 缺少信息会导致错误“文本无法映射到 Unicode”。 使用此标志将非链接符号映射到 unicode“空间”（代码 32）上。 |
-| [RemoveSpacesFromCMapNames](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames) { get; set; } | 某些字体的 ToUnicode 字符代码映射在名称中带有空格。这些空格可以使用 unicode 文本映射调用错误 。此标志命令从 ToUnicode 字符代码映射的名称中删除空格。 默认为假。 |
+| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/mapnonlinkedsymbolsonspace) { get; set; } | 某些字体不提供有关某些文本符号的 unicode 的信息。 缺少信息会导致错误“文本无法映射到 Unicode”。 使用此标志将非链接符号映射到 unicode“空格”（代码 32）上。 |
+| [RemoveSpacesFromCMapNames](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames) { get; set; } | 某些字体的 ToUnicode 字符代码映射在名称中带有空格。这些空格可以使用 unicode 文本映射调用 errors 。此标志命令从 ToUnicode 字符代码映射的名称中删除空格。 默认为 false。 |
 
 ### 也可以看看
 

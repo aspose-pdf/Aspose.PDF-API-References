@@ -50,7 +50,7 @@ public void Delete(int index, ImageDeleteAction action)
 
 ## Delete(string) {#delete_3}
 
-Удаляет предмет из коллекции по имени.
+Удаляет элемент из коллекции по имени.
 
 ```csharp
 public void Delete(string name)
@@ -70,7 +70,7 @@ public void Delete(string name)
 
 ## Delete(string, ImageDeleteAction) {#delete_4}
 
-Удаляет предмет из коллекции по имени.
+Удаляет элемент из коллекции по имени.
 
 ```csharp
 public void Delete(string name, ImageDeleteAction action)
@@ -79,7 +79,7 @@ public void Delete(string name, ImageDeleteAction action)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя изображения, которое необходимо удалить. |
-| action | ImageDeleteAction | Действие, выполняемое с объектом изображения. |
+| action | ImageDeleteAction | Действие, которое необходимо выполнить с объектом изображения. |
 
 ### Смотрите также
 

@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
 ## SignatureCustomAppearance.BackgroundColor property
 
-获取/设置背景颜色。默认值:透明。
+获取/设置背景颜色。默认值：透明。
 
 ```csharp
 public Color BackgroundColor { get; set; }

@@ -20,7 +20,7 @@ public int[] Pages { get; set; }
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Aspose.Pdf.Facades.Stamp();
 stamp.BindLogo(new FormattedText(text));
- //ставить штамп только на 1, 4 и 6 странице.
+//ставить штамп только на 1, 4 и 6 странице.
 stamp.Pages = new int[] { 1, 4, 6 };
 fileStamp.AddStamp(stamp);
 fileStamp.Close();

@@ -1,14 +1,28 @@
 ---
 title: PdfProducer
 second_title: Aspose.PDF for .NET API 参考
-description: 表示从其他格式生成 PDF 的类  此示例展示了如何从 CGM 文件生成 Pdf 文件 ltcodegt string inputFile  myImage.cgm string outputFile  myPdf.pdf 尝试  PdfProducer.ProduceinputFile ImportFormat.Cgm outputFile // 成功生成pdf文件  catch InvalidCgmFileFormatException e  // 做点什么...  lt/codegt
+description: 表示从其他格式生成 PDF 的类 此示例显示如何从 CGM 文件生成 Pdf 文件
 type: docs
 weight: 2620
 url: /zh/net/aspose.pdf.facades/pdfproducer/
 ---
 ## PdfProducer class
 
-表示从其他格式生成 PDF 的类。  此示例展示了如何从 CGM 文件生成 Pdf 文件。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; 尝试 { PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile); // 成功生成pdf文件。 } catch (InvalidCgmFileFormatException e) { // 做点什么... } &lt;/code&gt;
+表示从其他格式生成 PDF 的类。 此示例显示如何从 CGM 文件生成 Pdf 文件。
+
+```csharp
+string inputFile = "myImage.cgm";
+string outputFile = "myPdf.pdf";
+try
+{
+    PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
+    // 成功生成pdf文件。
+}
+catch (InvalidCgmFileFormatException e)
+{
+    // 做一点事...
+}
+```
 
 ```csharp
 public abstract class PdfProducer
@@ -18,14 +32,14 @@ public abstract class PdfProducer
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce)(Stream, ImportFormat, Stream) | 使用指定的导入格式生成 PDF 流。  此示例展示了如何从 CGM 流生成 Pdf 流。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; using (FileStream inputStream = File.OpenRead(inputFile)) using (FileStream outputStream = File.Create(outputFile)) { PdfProducer.Produce(inputStream, ImportFormat.Cgm, outputStream); } &lt;/code&gt; |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_1)(Stream, ImportFormat, string) | 使用指定的导入格式生成 PDF 文件。  此示例显示如何从 CGM 流生成 Pdf 文件。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; using (FileStream inputStream = File.OpenRead(inputFile)) using (FileStream outputStream = File.Create(outputFile)) { PdfProducer.Produce(inputStream, ImportFormat.Cgm, outputStream); } &lt;/code&gt; |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_2)(Stream, ImportOptions, Stream) | 使用指定的导入选项生成 PDF 文件。  此示例展示了如何从 CGM 流生成 Pdf 流。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; ImportOptions importOptions = new CgmImportOptions(); using (FileStream inputStream = File.OpenRead(inputFile)) using (FileStream outputStream = File.Create(outputFile)) { PdfProducer.Produce(inputStream, importOptions, outputStream); } &lt;/code&gt; |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_3)(Stream, ImportOptions, string) | 使用指定的导入选项生成 PDF 文件。  此示例显示如何从 CGM 流生成 Pdf 文件。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; ImportOptions importOptions = new CgmImportOptions(); using (FileStream inputStream = File.OpenRead(inputFile)) { PdfProducer.Produce(inputStream, importOptions, outputFile); } &lt;/code&gt; |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_4)(string, ImportFormat, Stream) | 使用指定的导入格式生成 PDF 流。  此示例显示如何从 CGM 文件生成 Pdf 流。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; using (FileStream outputStream = File.Create(outputFile)) { PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputStream); } &lt;/code&gt; |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_5)(string, ImportFormat, string) | 使用指定的导入格式生成 PDF 文件。  此示例展示了如何从 CGM 文件生成 Pdf 文件。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile); &lt;/code&gt; |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_6)(string, ImportOptions, Stream) | 使用指定的导入选项生成 PDF 流。  此示例显示如何从 CGM 文件生成 Pdf 流。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; ImportOptions importOptions = new CgmImportOptions(); using (FileStream outputStream = File.Create(outputFile)) { PdfProducer.Produce(inputFile, importOptions, outputStream); } &lt;/code&gt; |
-| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_7)(string, ImportOptions, string) | 使用指定的导入选项生成 PDF 文件。  此示例展示了如何从 CGM 文件生成 Pdf 文件。 &lt;code&gt; string inputFile = "myImage.cgm"; string outputFile = "myPdf.pdf"; ImportOptions importOptions = new CgmImportOptions(); PdfProducer.Produce(inputStream, importOptions, outputStream); &lt;/code&gt; |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce)(Stream, ImportFormat, Stream) | 使用指定的导入格式生成 PDF 流。 此示例显示如何从 CGM 流生成 Pdf 流。 |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_1)(Stream, ImportFormat, string) | 使用指定的导入格式生成 PDF 文件。 此示例显示如何从 CGM 流生成 Pdf 文件。 |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_2)(Stream, ImportOptions, Stream) | 使用指定的导入选项生成 PDF 文件。 此示例显示如何从 CGM 流生成 Pdf 流。 |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_3)(Stream, ImportOptions, string) | 使用指定的导入选项生成 PDF 文件。 此示例显示如何从 CGM 流生成 Pdf 文件。 |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_4)(string, ImportFormat, Stream) | 使用指定的导入格式生成 PDF 流。 此示例显示如何从 CGM 文件生成 Pdf 流。 |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_5)(string, ImportFormat, string) | 使用指定的导入格式生成 PDF 文件。 此示例显示如何从 CGM 文件生成 Pdf 文件。 |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_6)(string, ImportOptions, Stream) | 使用指定的导入选项生成 PDF 流。 此示例显示如何从 CGM 文件生成 Pdf 流。 |
+| static [Produce](../../aspose.pdf.facades/pdfproducer/produce#produce_7)(string, ImportOptions, string) | 使用指定的导入选项生成 PDF 文件。 此示例显示如何从 CGM 文件生成 Pdf 文件。 |
 
 ### 也可以看看
 

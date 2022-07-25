@@ -16,7 +16,7 @@ public int IndexOf(KeyValuePair<string, object> value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | KeyValuePair`2 | Значение для поиска. |
+| value | KeyValuePair`2 | Значение, которое нужно найти. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: BleedBox
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает поле выхода за обрез страницы.
+description: Получает или задает поле выпуска страницы.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/page/bleedbox/
 ---
 ## Page.BleedBox property
 
-Получает или задает поле выхода за обрез страницы.
+Получает или задает поле выпуска страницы.
 
 ```csharp
 public Rectangle BleedBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle BleedBox { get; set; }
 
 ### Примеры
 
-Пример демонстрирует, как получить блок страницы:
+Пример демонстрирует, как получить поле за обрез на странице:
 
 ```csharp
 Document document = new Document("sample.pdf");

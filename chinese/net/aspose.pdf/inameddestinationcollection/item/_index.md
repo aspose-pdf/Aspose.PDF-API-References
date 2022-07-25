@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 通过名称获取或设置目的地
+description: 按名称获取或设置目的地
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/inameddestinationcollection/item/
 ---
 ## INamedDestinationCollection indexer
 
-通过名称获取或设置目的地。
+按名称获取或设置目的地。
 
 ```csharp
 public IAppointment this[string name] { get; set; }

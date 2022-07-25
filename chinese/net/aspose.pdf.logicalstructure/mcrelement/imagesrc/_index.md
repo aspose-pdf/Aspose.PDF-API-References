@@ -10,7 +10,7 @@ url: /zh/net/aspose.pdf.logicalstructure/mcrelement/imagesrc/
 
 获取标记内容参考元素的图像源。
 
-对于刚刚创建的[`IllustrationElement`](../../illustrationelement)。在其他情况下为 null。
+对于刚刚创建[`IllustrationElement`](../../illustrationelement).在其他情况下为 null。
 
 ```csharp
 public string ImageSrc { get; }

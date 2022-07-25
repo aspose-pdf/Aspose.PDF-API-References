@@ -1,14 +1,14 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API 参考
-description: 此对象是否同步
+description: 这个对象是否同步
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/artifactcollection/issynchronized/
 ---
 ## ArtifactCollection.IsSynchronized property
 
-此对象是否同步。
+这个对象是否同步。
 
 ```csharp
 public bool IsSynchronized { get; }

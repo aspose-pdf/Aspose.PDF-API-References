@@ -1,14 +1,14 @@
 ---
 title: TiffDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 此类有助于将 pdf 文档逐页保存到一个 tiff 图像中
+description: 这个类有助于将pdf文档逐页保存到一个tiff图像中
 type: docs
 weight: 1800
 url: /zh/net/aspose.pdf.devices/tiffdevice/
 ---
 ## TiffDevice class
 
-此类有助于将 pdf 文档逐页保存到一个 tiff 图像中。
+这个类有助于将pdf文档逐页保存到一个tiff图像中。
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -18,24 +18,24 @@ public sealed class TiffDevice : DocumentDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TiffDevice](tiffdevice#constructor)() | 使用默认设置初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_6)(PageSize) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_1)(Resolution) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_4)(TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_12)(int, int) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_7)(PageSize, Resolution) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_10)(PageSize, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_2)(Resolution, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_5)(TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_13)(int, int, Resolution) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_16)(int, int, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_8)(PageSize, Resolution, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_14)(int, int, Resolution, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
-| [TiffDevice](tiffdevice#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类的新实例。 |
+| [TiffDevice](tiffdevice#constructor)() | 初始化[`TiffDevice`](../tiffdevice)具有默认设置的类。 |
+| [TiffDevice](tiffdevice#constructor_6)(PageSize) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_1)(Resolution) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_4)(TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_12)(int, int) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_7)(PageSize, Resolution) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_10)(PageSize, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_2)(Resolution, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_5)(TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_13)(int, int, Resolution) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_16)(int, int, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_8)(PageSize, Resolution, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_14)(int, int, Resolution, TiffSettings) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类. |
+| [TiffDevice](tiffdevice#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | 初始化[`TiffDevice`](../tiffdevice)类. |
 
 ## 特性
 

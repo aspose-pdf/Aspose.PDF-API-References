@@ -1,14 +1,14 @@
 ---
 title: SplitCssIntoPages
 second_title: Aspose.PDF for .NET API 参考
-description: When multipage-mode selectedie SplitIntoPages is true then this attribute defines whether should be created separate CSS-file 对于每个结果 HTML 页面 默认情况下此属性为 false因此将创建 一个用于所有已创建页面的大型通用 CSS在此模式下生成的所有 CSS 的摘要大小每页一个 CSS通常 比一个大 CSS 文件的大小大得多因为在前一种情况下 在这种情况下CSS 类在每个页面的多个 CSS 文件中是重复的 所以这个设置只在你对以后独立处理每个 HTML 页面感兴趣时才使用这个设置更糟糕因此 CSS 的大小 拆开的每一页都是最关键的问题
+description: 选择多页模式时即 SplitIntoPages 为 true 则此属性定义是否应为每个结果 HTML 页面创建单独的 CSS-file  默认情况下此属性为 false因此将创建一个 所有创建页面的大通用 CSS在此模式下生成的所有 CSS 的摘要大小每页一个 CSS通常 比一个大 CSS 文件的大小大得多因为在前一种情况下 CSS 类在这种情况下在每个页面的多个 CSS 文件中是重复的 所以这设置更糟糕只有在您对以后单独处理每个 HTML 页面感兴趣 时才使用因此每个页面拆开的 CSS 的 size 是最关键的问题
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/htmlsaveoptions/splitcssintopages/
 ---
 ## HtmlSaveOptions.SplitCssIntoPages property
 
-When multipage-mode selected(ie 'SplitIntoPages' is 'true'), then this attribute defines whether should be created separate CSS-file 对于每个结果 HTML 页面。 默认情况下，此属性为 false，因此，将创建 一个用于所有已创建页面的大型通用 CSS。在此模式下生成的所有 CSS 的摘要大小（每页一个 CSS）通常 比一个大 CSS 文件的大小大得多，因为在前一种情况下 在这种情况下，CSS 类在每个页面的多个 CSS 文件中是重复的。 所以，这个设置只在你对以后独立处理每个 HTML 页面感兴趣时才使用这个设置更糟糕，因此 CSS 的大小 拆开的每一页都是最关键的问题。
+选择多页模式时（即 'SplitIntoPages' 为 'true'）， 则此属性定义是否应为每个结果 HTML 页面创建单独的 CSS-file 。 默认情况下此属性为 false，因此，将创建一个 所有创建页面的大通用 CSS。在此模式下生成的所有 CSS 的摘要大小（每页一个 CSS）通常 比一个大 CSS 文件的大小大得多，因为在前一种情况下， CSS 类在这种情况下在每个页面的多个 CSS 文件中是重复的。 所以，这设置更糟糕，只有在您对以后单独处理每个 HTML 页面感兴趣 时才使用，因此每个页面拆开的 CSS 的 size 是最关键的问题。
 
 ```csharp
 public bool SplitCssIntoPages { get; set; }

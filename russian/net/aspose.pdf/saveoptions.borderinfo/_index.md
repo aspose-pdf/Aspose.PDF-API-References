@@ -1,14 +1,14 @@
 ---
 title: SaveOptions.BorderInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Экземпляр этого класса представляет информацию о границе Которую можно утопить в каком-то результирующем документе.
+description: Экземпляр этого класса представляет информацию о границе  которую можно утопить в каком-либо результирующем документе.
 type: docs
 weight: 6300
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/
 ---
 ## SaveOptions.BorderInfo class
 
-Экземпляр этого класса представляет информацию о границе Которую можно утопить в каком-то результирующем документе.
+Экземпляр этого класса представляет информацию о границе , которую можно утопить в каком-либо результирующем документе.
 
 ```csharp
 public class BorderInfo
@@ -19,16 +19,16 @@ public class BorderInfo
 | Имя | Описание |
 | --- | --- |
 | [BorderInfo](borderinfo#constructor)() | Создает экземпляр класса BorderInfo |
-| [BorderInfo](borderinfo#constructor_1)(BorderPartStyle) | Создает экземпляр класса BorderInfo и инициализирует все элементы границы (сверху, слева, справа, снизу) с атрибуты, скопированные из предоставленного стиля границы |
+| [BorderInfo](borderinfo#constructor_1)(BorderPartStyle) | Создает экземпляр класса BorderInfo и инициализирует все элементы границы (верхняя, левая, правая, нижняя) с атрибутами, скопированными из предоставленной границы style |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| [BottomStyleIfAny](../../aspose.pdf/borderinfo/bottomstyleifany) | Представляет нижнюю часть (если есть) границы |
-| [LeftStyleIfAny](../../aspose.pdf/borderinfo/leftstyleifany) | Представляет левую часть (если есть) границы |
-| [RightStyleIfAny](../../aspose.pdf/borderinfo/rightstyleifany) | Представляет правую часть (если есть) границы |
-| [TopStyleIfAny](../../aspose.pdf/borderinfo/topstyleifany) | Представляет верхнюю часть (если есть) границы |
+| [BottomStyleIfAny](../../aspose.pdf/borderinfo/bottomstyleifany) | Представляет нижнюю часть (если есть) border |
+| [LeftStyleIfAny](../../aspose.pdf/borderinfo/leftstyleifany) | Представляет левую часть (если есть) border |
+| [RightStyleIfAny](../../aspose.pdf/borderinfo/rightstyleifany) | Представляет правую часть (если есть) border |
+| [TopStyleIfAny](../../aspose.pdf/borderinfo/topstyleifany) | Представляет верхнюю часть (если есть) border |
 
 ### Смотрите также
 

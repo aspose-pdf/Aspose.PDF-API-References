@@ -1,14 +1,14 @@
 ---
 title: MoveTextPosition
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор Td перемещение позиции текста.
+description: Класс представляющий оператор Td переместить позицию текста.
 type: docs
 weight: 5240
 url: /ru/net/aspose.pdf.operators/movetextposition/
 ---
 ## MoveTextPosition class
 
-Класс, представляющий оператор Td (перемещение позиции текста).
+Класс, представляющий оператор Td (переместить позицию текста).
 
 ```csharp
 public class MoveTextPosition : TextPlaceOperator
@@ -25,14 +25,14 @@ public class MoveTextPosition : TextPlaceOperator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [X](../../aspose.pdf.operators/movetextposition/x) { get; set; } | Координата X позиции текста. |
-| [Y](../../aspose.pdf.operators/movetextposition/y) { get; set; } | Координата Y позиции текста. |
+| [X](../../aspose.pdf.operators/movetextposition/x) { get; set; } | X-координата позиции текста. |
+| [Y](../../aspose.pdf.operators/movetextposition/y) { get; set; } | Y-координата позиции текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextposition/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/movetextposition/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/movetextposition/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

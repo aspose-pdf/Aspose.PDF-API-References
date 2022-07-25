@@ -18,8 +18,8 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает объект целевой страницы |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер страницы назначения |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Получает целевую страницу object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Получает номер целевой страницы |
 
 ## Методы
 

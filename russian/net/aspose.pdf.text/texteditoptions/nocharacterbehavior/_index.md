@@ -1,14 +1,14 @@
 ---
 title: NoCharacterBehavior
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает режим определяющий поведение в случае если шрифты не содержат запрошенных символов.
+description: Получает или задает режим определяющий поведение в случае если шрифты не содержат запрошенных символов.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/texteditoptions/nocharacterbehavior/
 ---
 ## TextEditOptions.NoCharacterBehavior property
 
-Получает или устанавливает режим, определяющий поведение в случае, если шрифты не содержат запрошенных символов.
+Получает или задает режим, определяющий поведение в случае, если шрифты не содержат запрошенных символов.
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }

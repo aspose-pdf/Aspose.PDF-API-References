@@ -29,12 +29,12 @@ public sealed class RenderingOptions
 | [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname) { get; set; } | 获取/设置用于替换缺失字体的默认字体名称。 |
 | [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits) { get; set; } | 获取或设置用于增加或减少 AppendRectangle 运算符的矩形宽度的值。 |
 | [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality) { get; set; } | 获取或设置插值的高品质模式。 |
-| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | 字体缓存中字体的最大数量。默认值为 10。 |
-| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | 符号缓存中的最大符号数。默认值为 100。 |
+| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | 字体缓存中字体的最大计数。默认值为 10. |
+| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | 符号缓存中的最大符号数。默认值为 100. |
 | [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } | 获取或设置优化尺寸模式。 |
 | [ScaleImagesToFitPageWidth](../../aspose.pdf/renderingoptions/scaleimagestofitpagewidth) { get; set; } | 获取或设置用于缩放页面上所有图像以适应页面宽度的值。 |
 | [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } | 获取或设置本机呈现系统字体的模式。 |
-| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } | 此标志的使用打开字体提示机制。字体提示是使用数学指令来调整轮廓字体的显示 。在某些情况下，打开此标志可能会解决文本易读性问题。 目前使用此标志只能对 TTF 字体生效，如果这些字体在源文档中使用的话。 |
+| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } | 这个标志的使用开启字体提示机制。字体提示是使用数学指令来调整轮廓字体的显示 。在某些情况下，打开此标志可能会解决文本易读性问题。 目前使用此标志只能对 TTF 字体生效，如果这些字体在源文档中使用。 |
 | [UseNewImagingEngine](../../aspose.pdf/renderingoptions/usenewimagingengine) { get; set; } | 获取或设置一个标志，确定是否使用新的成像引擎。 |
 | [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits) { get; set; } | 获取或设置用于增加或减少 AppendRectangle 运算符的矩形宽度的值。 |
 

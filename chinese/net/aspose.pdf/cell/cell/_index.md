@@ -16,7 +16,7 @@ public Cell(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 单元格在页面坐标中的矩形。 |
+| rect | Rectangle | 页面坐标中单元格的矩形。 |
 
 ### 也可以看看
 

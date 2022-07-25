@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 表示获取外观流的便捷形式
+description: 表示获取外观流的方便形式
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/item/
 ---
 ## AppearanceDictionary indexer
 
-表示获取外观流的便捷形式。
+表示获取外观流的方便形式。
 
 ```csharp
 public XForm this[string key] { get; set; }
@@ -16,7 +16,7 @@ public XForm this[string key] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| key | 表示外观流的路径。 如果外观字典有子字典，则路径必须包含 2 部分（[`Keys`](../keys)）， 否则路径只有一个部分。 |
+| key | 表示外观流的路径。 如果外观字典有子字典，那么路径必须包含 2 个部分（[`Keys`](../keys) ), 否则路径只有一部分。 |
 
 ### 返回值
 

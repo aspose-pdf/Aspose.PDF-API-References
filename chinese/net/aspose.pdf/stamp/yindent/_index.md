@@ -1,14 +1,14 @@
 ---
 title: YIndent
 second_title: Aspose.PDF for .NET API 参考
-description: 竖直戳坐标从底部开始
+description: 竖直印章坐标从底部开始
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/stamp/yindent/
 ---
 ## Stamp.YIndent property
 
-竖直戳坐标，从底部开始。
+竖直印章坐标，从底部开始。
 
 ```csharp
 public double YIndent { get; set; }

@@ -16,7 +16,7 @@ public abstract bool Remove(Operator item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Operator | 要删除的操作符项目。 |
+| item | Operator | 要删除的操作员项目。 |
 
 ### 返回值
 

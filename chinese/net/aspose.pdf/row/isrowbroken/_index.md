@@ -1,14 +1,14 @@
 ---
 title: IsRowBroken
 second_title: Aspose.PDF for .NET API 参考
-description: Gets is row 可以在两页之间断开
+description: 获取的是行可以在两个页面之间被打破
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/row/isrowbroken/
 ---
 ## Row.IsRowBroken property
 
-Gets is row 可以在两页之间断开
+获取的是行可以在两个页面之间被打破
 
 ```csharp
 public bool IsRowBroken { get; set; }

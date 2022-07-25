@@ -36,7 +36,7 @@ byte[] data = pxm.GetXmpMetadata();
 
 ## GetXmpMetadata(string) {#getxmpmetadata_1}
 
-根据元名称获取输入pdf的一部分XmpMetadata。
+根据一个元名称获取输入pdf的XmpMetadata的一部分。
 
 ```csharp
 public byte[] GetXmpMetadata(string name)

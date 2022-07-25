@@ -27,12 +27,12 @@ public class NumberFormat
 | [AfterText](../../aspose.pdf.annotations/numberformat/aftertext) { get; set; } | 标签后应连接的文本 |
 | [BeforeText](../../aspose.pdf.annotations/numberformat/beforetext) { get; set; } | 应连接到标签左侧的文本。 |
 | [ConvresionFactor](../../aspose.pdf.annotations/numberformat/convresionfactor) { get; set; } | 用于乘以前一个数字格式数组元素的部分单位的值以获得以该数字格式为单位的值的转换因子。 |
-| [Denominator](../../aspose.pdf.annotations/numberformat/denominator) { get; set; } | 如果 FractionDisplayment 为 ShowAsFraction，则此值为分数的分母。默认值为 16。 |
-| [ForceDenominator](../../aspose.pdf.annotations/numberformat/forcedenominator) { get; set; } | 如果 FractionDisplayment 为 ShowAsFraction，则该值决定是否减少分数。如果值为真，则分数可能不会减少。 |
-| [FractionDisplayment](../../aspose.pdf.annotations/numberformat/fractiondisplayment) { get; set; } | 以何种方式显示小数值。 |
+| [Denominator](../../aspose.pdf.annotations/numberformat/denominator) { get; set; } | 如果 FractionDisplayment 为 ShowAsFraction，则此值为分数的分母。默认值为 16. |
+| [ForceDenominator](../../aspose.pdf.annotations/numberformat/forcedenominator) { get; set; } | 如果 FractionDisplayment 为 ShowAsFraction，则该值决定是否减少分数。如果值为真，分数可能不会减少。 |
+| [FractionDisplayment](../../aspose.pdf.annotations/numberformat/fractiondisplayment) { get; set; } | 以什么方式显示小数值。 |
 | [FractionSeparator](../../aspose.pdf.annotations/numberformat/fractionseparator) { get; set; } | 在显示数值时用作小数位的文本。空字符串表示应使用默认值。默认为句点字符。 |
-| [Precision](../../aspose.pdf.annotations/numberformat/precision) { get; set; } | 如果 FractionDisplayment 为 ShowAsDecimal，则该值为小数值的精度；它应该是 10 的倍数。默认值为 100。 |
-| [ThousandsSeparator](../../aspose.pdf.annotations/numberformat/thousandsseparator) { get; set; } | 数值显示中应在数千个数量级之间使用的文本。空字符串表示不应添加任何文本。默认为逗号。 |
+| [Precision](../../aspose.pdf.annotations/numberformat/precision) { get; set; } | 如果 FractionDisplayment 为 ShowAsDecimal，则该值为小数值的精度；它应该是 10 的倍数。默认值为 100. |
+| [ThousandsSeparator](../../aspose.pdf.annotations/numberformat/thousandsseparator) { get; set; } | 在显示数值时应在数千个数量级之间使用的文本。空字符串表示不应添加任何文本。默认为逗号。 |
 | [UnitLabel](../../aspose.pdf.annotations/numberformat/unitlabel) { get; set; } | 指定用于显示单位的标签的文本字符串。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: Selected
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置所选项目的索引项目从 1 开始编号
+description: 获取或设置所选项目的索引项目编号从 1.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/listboxfield/selected/
 ---
 ## ListBoxField.Selected property
 
-获取或设置所选项目的索引。项目从 1 开始编号。
+获取或设置所选项目的索引。项目编号从 1.
 
 ```csharp
 public override int Selected { set; }

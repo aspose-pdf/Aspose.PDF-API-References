@@ -1,14 +1,14 @@
 ---
 title: Measure
 second_title: Aspose.PDF для справочника API .NET
-description: Класс который описывает систему координат измерения.
+description: Класс описывающий систему координат измерения.
 type: docs
 weight: 650
 url: /ru/net/aspose.pdf.annotations/measure/
 ---
 ## Measure class
 
-Класс, который описывает систему координат измерения.
+Класс, описывающий систему координат измерения.
 
 ```csharp
 public class Measure
@@ -27,11 +27,11 @@ public class Measure
 | [AngleFormat](../../aspose.pdf.annotations/measure/angleformat) { get; set; } | Массив числового формата для измерения углов. |
 | [AreaFormat](../../aspose.pdf.annotations/measure/areaformat) { get; set; } | Массив числового формата для измерения площади. |
 | [DistanceFormat](../../aspose.pdf.annotations/measure/distanceformat) { get; set; } | Массив числового формата для измерения расстояния в любом направлении. |
-| [Origin](../../aspose.pdf.annotations/measure/origin) { get; set; } | Точка, которая должна указывать начало системы координат измерения в пространственных координатах пользователя по умолчанию. |
-| [ScaleRatio](../../aspose.pdf.annotations/measure/scaleratio) { get; set; } | Текстовая строка, выражающая коэффициент масштаба чертежа. |
+| [Origin](../../aspose.pdf.annotations/measure/origin) { get; set; } | Точка, которая должна указывать начало системы координат измерения в координатах пространства пользователя по умолчанию. |
+| [ScaleRatio](../../aspose.pdf.annotations/measure/scaleratio) { get; set; } | Текстовая строка, выражающая масштаб чертежа. |
 | [SlopeFormat](../../aspose.pdf.annotations/measure/slopeformat) { get; set; } | Массив числового формата для измерения наклона линии. |
 | [XFormat](../../aspose.pdf.annotations/measure/xformat) { get; set; } | Массив числового формата для измерения изменения по оси x и, если Y отсутствует, также и по оси y |
-| [XYFactor](../../aspose.pdf.annotations/measure/xyfactor) { get; set; } | Коэффициент, который следует использовать для преобразования самых больших единиц по оси y в самые большие единицы по оси x. |
+| [XYFactor](../../aspose.pdf.annotations/measure/xyfactor) { get; set; } | Коэффициент, который следует использовать для преобразования самых больших единиц по оси Y в самые большие единицы по оси X. |
 | [YFormat](../../aspose.pdf.annotations/measure/yformat) { get; set; } | Массив числового формата для измерения изменения по оси Y. |
 
 ### Смотрите также

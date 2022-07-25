@@ -1,14 +1,14 @@
 ---
 title: SyncRoot
 second_title: Aspose.PDF for .NET API 参考
-description: 获取可用于同步访问 Aspose.Pdf.Annotations.AnnotationCollection 的对象
+description: 获取可用于同步访问 Aspose.Pdf.Annotations.AnnotationCollection. 的对象
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/annotationcollection/syncroot/
 ---
 ## AnnotationCollection.SyncRoot property
 
-获取可用于同步访问 Aspose.Pdf.Annotations.AnnotationCollection 的对象。
+获取可用于同步访问 Aspose.Pdf.Annotations.AnnotationCollection. 的对象
 
 ```csharp
 public object SyncRoot { get; }

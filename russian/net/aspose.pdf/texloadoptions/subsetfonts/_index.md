@@ -1,14 +1,14 @@
 ---
 title: SubsetFonts
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает флаг указывающий следует ли подмножать шрифты в выходном файле или нет.
+description: Получает/устанавливает флаг указывающий следует ли поднабор шрифтов в выходном файле или нет.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/texloadoptions/subsetfonts/
 ---
 ## TeXLoadOptions.SubsetFonts property
 
-Получает/устанавливает флаг, указывающий, следует ли подмножать шрифты в выходном файле или нет.
+Получает/устанавливает флаг, указывающий, следует ли поднабор шрифтов в выходном файле или нет.
 
 ```csharp
 public bool SubsetFonts { get; set; }

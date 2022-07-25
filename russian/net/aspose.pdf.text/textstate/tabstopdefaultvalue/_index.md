@@ -1,14 +1,14 @@
 ---
 title: TabstopDefaultValue
 second_title: Aspose.PDF для справочника API .NET
-description: Значение по умолчанию табуляции в ширине символа пробела шрифта по умолчанию.
+description: Значение по умолчанию табуляции в ширине пробела шрифта по умолчанию.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.text/textstate/tabstopdefaultvalue/
 ---
 ## TextState.TabstopDefaultValue field
 
-Значение по умолчанию табуляции в ширине символа пробела шрифта по умолчанию.
+Значение по умолчанию табуляции в ширине пробела шрифта по умолчанию.
 
 ```csharp
 public readonly float TabstopDefaultValue;

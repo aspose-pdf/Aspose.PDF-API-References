@@ -1,14 +1,14 @@
 ---
 title: PDF3DViewArray
 second_title: Aspose.PDF for .NET API 参考
-description: PDF3DViewArray 类
+description: 类 PDF3DViewArray.
 type: docs
 weight: 870
 url: /zh/net/aspose.pdf.annotations/pdf3dviewarray/
 ---
 ## PDF3DViewArray class
 
-PDF3DViewArray 类。
+类 PDF3DViewArray.
 
 ```csharp
 public class PDF3DViewArray
@@ -19,7 +19,7 @@ public class PDF3DViewArray
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dviewarray/count) { get; } | 获取观看次数。 |
-| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item) { get; set; } | 获取或设置[`PDF3DView`](../pdf3dview)以查看指定索引处的数组。 |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item) { get; set; } | 获取或设置[`PDF3DView`](../pdf3dview)查看指定索引处的数组。 |
 
 ## 方法
 

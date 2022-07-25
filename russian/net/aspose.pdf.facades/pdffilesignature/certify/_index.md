@@ -17,13 +17,13 @@ public void Certify(int page, string SigReason, string SigContact, string SigLoc
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Страница, на которой сделана подпись. |
+| page | Int32 | Страница, на которой делается подпись. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Расположение подписи. |
+| SigLocation | String | Место подписи. |
 | visible | Boolean | Видимость подписи. |
-| annotRect | Rectangle | Прямоугольник подписи. |
-| docMdpSignature | DocMDPSignature | Тип документа MDP подписи. |
+| annotRect | Rectangle | Право подписи. |
+| docMdpSignature | DocMDPSignature | Тип подписи документа MDP. |
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public void Certify(int page, string SigReason, string SigContact, string SigLoc
 
 ## Certify(string, DocMDPSignature) {#certify_1}
 
-Заверить документ подписью MDP, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле для подписи, место для проставления подписи указывать не нужно, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр сигнаме).
+Заверить документ подписью MDP, которая ставится в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле подписи, место для подписи указывать не нужно. штамп подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр sigName).
 
 ```csharp
 public void Certify(string sigName, DocMDPSignature docMdpSignature)
@@ -45,7 +45,7 @@ public void Certify(string sigName, DocMDPSignature docMdpSignature)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sigName | String | Имя поля подписи. |
-| docMdpSignature | DocMDPSignature | Тип подписи может быть &lt;PKCS1 cref="T:Aspose.Pdf.Forms.PKCS1" /&gt;, &lt;PKCS7 cref="T:Aspose.Pdf.Forms.PKCS7" /&gt; и &lt;PKCS7Detached cref="T:Aspose.Pdf.Forms.PKCS7Detached" /&gt; |
+| docMdpSignature | DocMDPSignature | Тип подписи может быть , а также |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Action
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает действие которое будет выполняться при активации аннотации.
+description: Получает или задает действие которое должно выполняться при активации аннотации.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/screenannotation/action/
 ---
 ## ScreenAnnotation.Action property
 
-Получает или задает действие, которое будет выполняться при активации аннотации.
+Получает или задает действие, которое должно выполняться при активации аннотации.
 
 ```csharp
 public PdfAction Action { get; }

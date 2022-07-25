@@ -1,14 +1,14 @@
 ---
 title: Wx
 second_title: Aspose.PDF для справочника API .NET
-description: Горизонтальное смещение координаты глифа.
+description: Горизонтальное смещение координат глифа.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setcharwidth/wx/
 ---
 ## SetCharWidth.Wx property
 
-Горизонтальное смещение координаты глифа.
+Горизонтальное смещение координат глифа.
 
 ```csharp
 public double Wx { get; }

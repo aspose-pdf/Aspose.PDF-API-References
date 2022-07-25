@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет в коллекцию элемент с указанным ключом и значением.
+description: Добавляет элемент с указанным ключом и значением в коллекцию.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/documentinfo/add/
 ---
 ## DocumentInfo.Add method
 
-Добавляет в коллекцию элемент с указанным ключом и значением.
+Добавляет элемент с указанным ключом и значением в коллекцию.
 
 ```csharp
 public void Add(string key, string value)

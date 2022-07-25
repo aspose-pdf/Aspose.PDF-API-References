@@ -1,14 +1,14 @@
 ---
 title: PosY
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值表示圆心的 y 坐标
+description: 获取或设置一个浮点值表示圆心的y坐标
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.drawing/circle/posy/
 ---
 ## Circle.PosY property
 
-获取或设置一个浮点值，表示圆心的 y 坐标。
+获取或设置一个浮点值，表示圆心的y坐标。
 
 ```csharp
 public double PosY { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Origin
 second_title: Aspose.PDF for .NET API 参考
-description: 在默认用户空间坐标中指定测量坐标系原点的点
+description: 应在默认用户空间坐标中指定测量坐标系原点的点
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/measure/origin/
 ---
 ## Measure.Origin property
 
-在默认用户空间坐标中指定测量坐标系原点的点。
+应在默认用户空间坐标中指定测量坐标系原点的点。
 
 ```csharp
 public Point Origin { get; set; }

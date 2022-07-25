@@ -16,35 +16,35 @@ public TextSegment()
 
 ### Примеры
 
-В примере показано, как создать объект фрагмента текста, добавить сегмент текста в коллекцию фрагментов текста и добавить его на страницу PDF.
+В примере показано, как создать объект текстового фрагмента, добавить текстовый сегмент в коллекцию текстовых фрагментов и добавить его на страницу Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
- // создаем текст фрагмент
+// создаем фрагмент текста
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// устанавливаем его текст properties
+// устанавливаем свойства текста
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
- // добавить еще один сегмент в Segments текстового фрагмента collection
+// добавляем еще один сегмент в коллекцию Segments фрагмента текста
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
- // создаем TextBuilder object
+// создаем объект TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
- // добавляем фрагмент текста в PDF page
+// добавляем фрагмент текста на страницу Pdf
 builder.AppendText(tf);
 
- //сохранить документ
+//сохраняем документ
 doc.Save(outFile);
 ```
 
@@ -66,38 +66,38 @@ public TextSegment(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст сегмента текста. |
+| text | String | Текст текстового сегмента. |
 
 ### Примеры
 
-В примере показано, как создать объект фрагмента текста, добавить сегмент текста в коллекцию фрагментов текста и добавить его на страницу PDF.
+В примере показано, как создать объект текстового фрагмента, добавить текстовый сегмент в коллекцию текстовых фрагментов и добавить его на страницу Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
- // создаем текст фрагмент
+// создаем фрагмент текста
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// устанавливаем его текст properties
+// устанавливаем свойства текста
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
- // добавить еще один сегмент в Segments текстового фрагмента collection
+// добавляем еще один сегмент в коллекцию Segments фрагмента текста
 TextSegment segment2 = new TextSegment("another segment");
 
 tf.Segments.Add(segment2);
 
- // создаем TextBuilder object
+// создаем объект TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
- // добавляем фрагмент текста в PDF page
+// добавляем фрагмент текста на страницу Pdf
 builder.AppendText(tf);
 
- //сохранить документ
+//сохраняем документ
 doc.Save(outFile);
 ```
 

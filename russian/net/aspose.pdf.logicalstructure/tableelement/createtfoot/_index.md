@@ -1,14 +1,14 @@
 ---
 title: CreateTFoot
 second_title: Aspose.PDF для справочника API .NET
-description: СоздаетTableTFootElementaspose.pdf.logicalstructure/tabletfootelementи добавляет его в текущую таблицу.
+description: СоздаетTableTFootElementaspose.pdf.logicalstructure/tabletfootelement и добавил его в текущую таблицу.
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.logicalstructure/tableelement/createtfoot/
 ---
 ## TableElement.CreateTFoot method
 
-Создает[`TableTFootElement`](../../tabletfootelement)и добавляет его в текущую таблицу.
+Создает[`TableTFootElement`](../../tabletfootelement) и добавил его в текущую таблицу.
 
 ```csharp
 public TableTFootElement CreateTFoot()
@@ -16,7 +16,7 @@ public TableTFootElement CreateTFoot()
 
 ### Возвращаемое значение
 
-Создан элемент структуры.
+Созданный элемент структуры.
 
 ### Смотрите также
 

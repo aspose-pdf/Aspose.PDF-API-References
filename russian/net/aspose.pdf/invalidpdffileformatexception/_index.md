@@ -1,14 +1,14 @@
 ---
 title: InvalidPdfFileFormatException
 second_title: Aspose.PDF для справочника API .NET
-description: Исключение возникающее когда файл PDF недействителен.
+description: Исключение которое выдается когда файл PDF недействителен.
 type: docs
 weight: 3880
 url: /ru/net/aspose.pdf/invalidpdffileformatexception/
 ---
 ## InvalidPdfFileFormatException class
 
-Исключение, возникающее, когда файл PDF недействителен.
+Исключение, которое выдается, когда файл PDF недействителен.
 
 ```csharp
 public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
@@ -18,9 +18,9 @@ public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor)(Exception) | Инициализирует новый экземпляр класса[`InvalidPdfFileFormatException`](../invalidpdffileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_1)(string) | Инициализирует новый экземпляр класса[`InvalidPdfFileFormatException`](../invalidpdffileformatexception). |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`InvalidPdfFileFormatException`](../invalidpdffileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor)(Exception) | Инициализирует новый экземпляр[`InvalidPdfFileFormatException`](../invalidpdffileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_1)(string) | Инициализирует новый экземпляр[`InvalidPdfFileFormatException`](../invalidpdffileformatexception) класс. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`InvalidPdfFileFormatException`](../invalidpdffileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

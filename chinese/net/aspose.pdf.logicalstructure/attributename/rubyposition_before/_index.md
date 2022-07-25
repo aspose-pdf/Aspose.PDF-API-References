@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_Before
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 RubyPositionBefore - RT 内容应沿元素的前边缘对齐
+description: 属性 RubyPosition Before - RT 内容应沿元素的前边缘对齐
 type: docs
 weight: 490
 url: /zh/net/aspose.pdf.logicalstructure/attributename/rubyposition_before/
 ---
 ## AttributeName.RubyPosition_Before field
 
-属性 RubyPosition:Before - RT 内容应沿元素的前边缘对齐。
+属性 RubyPosition: Before - RT 内容应沿元素的前边缘对齐。
 
 ```csharp
 public static readonly AttributeName RubyPosition_Before;

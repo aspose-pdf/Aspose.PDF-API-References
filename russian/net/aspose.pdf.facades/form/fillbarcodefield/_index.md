@@ -1,14 +1,14 @@
 ---
 title: FillBarcodeField
 second_title: Aspose.PDF для справочника API .NET
-description: Заполните поле штрих-кода в соответствии с его полным именем поля.
+description: Заполните поле штрих-кода в соответствии с полным именем поля.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
 ## Form.FillBarcodeField method
 
-Заполните поле штрих-кода в соответствии с его полным именем поля.
+Заполните поле штрих-кода в соответствии с полным именем поля.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)

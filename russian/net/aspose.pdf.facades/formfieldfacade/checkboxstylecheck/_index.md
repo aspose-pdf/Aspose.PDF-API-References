@@ -1,14 +1,14 @@
 ---
 title: CheckBoxStyleCheck
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет форму поля флажка когда оно установлено.
+description: Определяет форму поля флажка когда оно отмечено.
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 ---
 ## FormFieldFacade.CheckBoxStyleCheck field
 
-Определяет форму поля флажка, когда оно установлено.
+Определяет форму поля флажка, когда оно отмечено.
 
 ```csharp
 public const int CheckBoxStyleCheck;

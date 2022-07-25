@@ -1,14 +1,14 @@
 ---
 title: CreateNoteElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建NoteElementaspose.pdf.logicalstructure/noteelement
+description: 创建NoteElementaspose.pdf.logicalstructure/noteelement.
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
 ## ITaggedContent.CreateNoteElement method
 
-创建[`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement)。
+创建[`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement).
 
 ```csharp
 public NoteElement CreateNoteElement()
@@ -16,7 +16,7 @@ public NoteElement CreateNoteElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CreateNonStructElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建NonStructElementaspose.pdf.logicalstructure/nonstructelement
+description: 创建NonStructElementaspose.pdf.logicalstructure/nonstructelement.
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
 ## ITaggedContent.CreateNonStructElement method
 
-创建[`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement)。
+创建[`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement).
 
 ```csharp
 public NonStructElement CreateNonStructElement()
@@ -16,7 +16,7 @@ public NonStructElement CreateNonStructElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

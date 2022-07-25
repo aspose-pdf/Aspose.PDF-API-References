@@ -1,14 +1,14 @@
 ---
 title: AfterText
 second_title: Aspose.PDF для справочника API .NET
-description: Текст который должен быть объединен после метки
+description: Текст который должен быть объединен после label
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/aftertext/
 ---
 ## Measure.NumberFormat.AfterText property
 
-Текст, который должен быть объединен после метки
+Текст, который должен быть объединен после label
 
 ```csharp
 public string AfterText { get; set; }

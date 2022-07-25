@@ -20,7 +20,7 @@ public StampInfo[] GetStamps(int pageNumber)
 
 ### 返回值
 
-邮票数组。
+邮票阵列。
 
 ### 也可以看看
 

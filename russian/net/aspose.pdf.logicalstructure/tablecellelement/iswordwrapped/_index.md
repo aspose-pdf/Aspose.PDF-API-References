@@ -1,14 +1,14 @@
 ---
 title: IsWordWrapped
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает перенос слова в тексте ячейки.
+description: Получает или задает текстовое слово ячейки обернутое.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/
 ---
 ## TableCellElement.IsWordWrapped property
 
-Получает или задает перенос слова в тексте ячейки.
+Получает или задает текстовое слово ячейки, обернутое.
 
 ```csharp
 public bool IsWordWrapped { get; set; }

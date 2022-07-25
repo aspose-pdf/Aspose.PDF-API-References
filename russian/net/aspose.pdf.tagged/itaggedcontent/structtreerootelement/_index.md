@@ -1,14 +1,14 @@
 ---
 title: StructTreeRootElement
 second_title: Aspose.PDF для справочника API .NET
-description: ПолучаетStructTreeRootElementaspose.pdf.logicalstructure/structtreerootelementдокумента PDF.
+description: ПолучаетStructTreeRootElementaspose.pdf.logicalstructure/structtreerootelement документа PDF.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
 ## ITaggedContent.StructTreeRootElement property
 
-Получает[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement)документа PDF.
+Получает[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement) документа PDF.
 
 ```csharp
 public StructTreeRootElement StructTreeRootElement { get; }
@@ -16,7 +16,7 @@ public StructTreeRootElement StructTreeRootElement { get; }
 
 ### Стоимость имущества
 
-[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement)документа PDF.
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement) документа PDF.
 
 ### Смотрите также
 

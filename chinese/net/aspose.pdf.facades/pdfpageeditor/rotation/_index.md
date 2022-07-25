@@ -1,14 +1,14 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置页面的旋转度旋转度必须为 090180 或 270 默认值为 0
+description: 获取或设置页面的旋转旋转必须为090180或270 默认值为0
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/rotation/
 ---
 ## PdfPageEditor.Rotation property
 
-获取或设置页面的旋转度，旋转度必须为 0、90、180 或 270。 默认值为 0。
+获取或设置页面的旋转，旋转必须为0、90、180或270。 默认值为0。
 
 ```csharp
 public int Rotation { get; set; }

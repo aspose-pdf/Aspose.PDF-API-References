@@ -1,14 +1,14 @@
 ---
 title: DocMDPSignature
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化DocMDPSignatureaspose.pdf.forms/docmdpsignature类的新实例
+description: 初始化DocMDPSignatureaspose.pdf.forms/docmdpsignature类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 ---
 ## DocMDPSignature constructor
 
-初始化[`DocMDPSignature`](../../docmdpsignature)类的新实例。
+初始化[`DocMDPSignature`](../../docmdpsignature)类.
 
 ```csharp
 public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermissions)
@@ -16,7 +16,7 @@ public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermis
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| signature | Signature | 签名时使用的签名对象。 |
+| signature | Signature | 签名期间使用的签名对象。 |
 | accessPermissions | DocMDPAccessPermissions | 授予此文档的访问权限。 |
 
 ### 也可以看看

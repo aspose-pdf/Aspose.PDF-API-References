@@ -17,7 +17,7 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 应创建注释的文档页面。 |
-| rect | Rectangle | 标注矩形，定义标注在页面上的位置。 |
+| rect | Rectangle | 注释矩形，定义页面上注释的位置。 |
 | soundFile | String | 定义激活注释时要播放的声音的声音文件。 |
 
 ### 也可以看看
@@ -41,7 +41,7 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleD
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 应创建注释的文档页面。 |
-| rect | Rectangle | 标注矩形，定义标注在页面上的位置。 |
+| rect | Rectangle | 注释矩形，定义页面上注释的位置。 |
 | soundFile | String | 定义激活注释时要播放的声音的声音文件。 |
 | soundSampleData | SoundSampleData | 声音样本数据包含额外的声音参数，例如采样率、每个样本的位数等。 |
 

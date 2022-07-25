@@ -18,8 +18,8 @@ public sealed class LocalHyperlink : Hyperlink
 
 | Имя | Описание |
 | --- | --- |
-| [LocalHyperlink](localhyperlink#constructor)() | Инициализирует новый экземпляр класса[`LocalHyperlink`](../localhyperlink). |
-| [LocalHyperlink](localhyperlink#constructor_1)(BaseParagraph) | Инициализирует новый экземпляр класса[`LocalHyperlink`](../localhyperlink). |
+| [LocalHyperlink](localhyperlink#constructor)() | Инициализирует новый экземпляр[`LocalHyperlink`](../localhyperlink) класс. |
+| [LocalHyperlink](localhyperlink#constructor_1)(BaseParagraph) | Инициализирует новый экземпляр[`LocalHyperlink`](../localhyperlink) класс. |
 
 ## Характеристики
 

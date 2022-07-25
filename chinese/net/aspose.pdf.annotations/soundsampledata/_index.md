@@ -27,8 +27,8 @@ public class SoundSampleData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel) { get; set; } | 获取或设置每个通道每个样本值的位数。 |
-| [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat) { get; set; } | 获取或设置编码格式。 |
+| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel) { get; set; } | 获取或设置每个通道每个采样值的位数。 |
+| [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat) { get; set; } | 获取或设置编码格式 |
 | [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels) { get; set; } | 获取或设置声道数。 |
 | [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate) { get; set; } | 获取或设置采样率。 |
 
@@ -38,7 +38,7 @@ public class SoundSampleData
 | --- | --- |
 | const [DefaultEncodingFormat](../../aspose.pdf.annotations/soundsampledata/defaultencodingformat) | 编码格式的默认值。 |
 | const [DefaultOfBitsPerChannel](../../aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel) | BitsPerchannel 参数的默认值。 |
-| const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels) | Channels 参数的默认值。 |
+| const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels) | 通道参数的默认值。 |
 | const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate) | 采样率的默认值。 |
 
 ### 也可以看看

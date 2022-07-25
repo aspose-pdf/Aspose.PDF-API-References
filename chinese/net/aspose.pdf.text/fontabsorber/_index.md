@@ -1,14 +1,14 @@
 ---
 title: FontAbsorber
 second_title: Aspose.PDF for .NET API 参考
-description: 表示字体的吸收器对象 执行字体搜索并通过Fonts./fontabsorber/fonts集合访问搜索结果
+description: 表示字体的吸收器对象 执行字体搜索并通过以下方式访问搜索结果Fonts./fontabsorber/fonts集合.
 type: docs
 weight: 6700
 url: /zh/net/aspose.pdf.text/fontabsorber/
 ---
 ## FontAbsorber class
 
-表示字体的吸收器对象。 执行字体搜索并通过[`Fonts`](./fonts)集合访问搜索结果。
+表示字体的吸收器对象。 执行字体搜索并通过以下方式访问搜索结果[`Fonts`](./fonts)集合.
 
 ```csharp
 public class FontAbsorber
@@ -24,7 +24,7 @@ public class FontAbsorber
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Fonts](../../aspose.pdf.text/fontabsorber/fonts) { get; } | 获取与[`Font`](../font)对象一起呈现的搜索事件的集合。 |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts) { get; } | 获取出现的搜索事件的集合[`Font`](../font)对象. |
 
 ## 方法
 

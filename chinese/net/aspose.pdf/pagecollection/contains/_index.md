@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API 参考
-description: 确定此实例是否包含该对象
+description: 确定此实例是否包含对象
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/pagecollection/contains/
 ---
 ## PageCollection.Contains method
 
-确定此实例是否包含该对象。
+确定此实例是否包含对象。
 
 ```csharp
 public bool Contains(Page item)
@@ -16,11 +16,11 @@ public bool Contains(Page item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Page | 项目。 |
+| item | Page | 该项目。 |
 
 ### 返回值
 
-` true` if [包含] [指定项目]；否则，` false` 。
+`真的` if [包含] [指定项目]；否则，`错误的`.
 
 ### 例外
 

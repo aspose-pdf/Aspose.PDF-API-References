@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF для справочника API .NET
-description: Клонирует новыйFloatingBoxaspose.pdf/floatingboxобъект. Абзацы в плавающем окне не клонируются.
+description: Клонирует новыйFloatingBoxaspose.pdf/floatingbox объект. Абзацы в плавающем окне не клонируются.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/floatingbox/clone/
 ---
 ## FloatingBox.Clone method
 
-Клонирует новый[`FloatingBox`](../../floatingbox)объект. Абзацы в плавающем окне не клонируются.
+Клонирует новый[`FloatingBox`](../../floatingbox) объект. Абзацы в плавающем окне не клонируются.
 
 ```csharp
 public override object Clone()
@@ -16,7 +16,7 @@ public override object Clone()
 
 ### Возвращаемое значение
 
-Новый[`FloatingBox`](../../floatingbox)объект.
+Новый[`FloatingBox`](../../floatingbox) объект.
 
 ### Смотрите также
 

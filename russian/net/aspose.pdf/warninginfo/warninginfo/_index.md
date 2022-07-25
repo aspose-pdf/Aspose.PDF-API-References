@@ -16,8 +16,8 @@ public WarningInfo(WarningType type, string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | WarningType | тип предупреждения для установки |
-| message | String | предупреждающее сообщение для установки |
+| type | WarningType | тип предупреждения для set |
+| message | String | предупреждающее сообщение для set |
 
 ### Смотрите также
 

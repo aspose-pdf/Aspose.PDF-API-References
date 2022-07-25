@@ -1,14 +1,14 @@
 ---
 title: Metadata
 second_title: Aspose.PDF for .NET API 参考
-description: 文档元数据 PDF 文档可能包括一般信息 例如文档的标题作者以及创建和修改日期 关于文档的此类全局信息与其内容或结构相反称为元数据 旨在帮助编目和搜索外部数据库中的文档
+description: 文档元数据 PDF 文档可能包括一般信息 例如文档的标题作者以及创建和修改日期 关于文档与其内容或结构相反的此类全局信息称为元数据 并且是旨在帮助编目和搜索外部数据库中的文档
 type: docs
 weight: 350
 url: /zh/net/aspose.pdf/document/metadata/
 ---
 ## Document.Metadata property
 
-文档元数据。 (PDF 文档可能包括一般信息, 例如文档的标题、作者以及创建和修改日期。 关于文档的此类全局信息（与其内容或结构相反）称为元数据 ，旨在帮助编目和搜索外部数据库中的文档。）
+文档元数据。 （PDF 文档可能包括一般信息， ，例如文档的标题、作者以及创建和修改日期。 关于文档（与其内容或结构相反）的此类全局信息称为元数据 ，并且是旨在帮助编目和搜索外部数据库中的文档。）
 
 ```csharp
 public Metadata Metadata { get; }

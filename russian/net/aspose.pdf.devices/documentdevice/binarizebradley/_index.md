@@ -16,7 +16,7 @@ public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, d
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputImageStream | Stream | Входной поток изображения. |
+| inputImageStream | Stream | Входной поток изображений. |
 | outputImageStream | Stream | Выходной поток изображения. |
 | threshold | Double | Пороговое значение от 0,0 до 1,0. |
 

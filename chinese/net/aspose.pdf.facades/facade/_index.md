@@ -28,7 +28,7 @@ public abstract class Facade : IFacade
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf#bindpdf_1)(Stream) | 初始化外观。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf#bindpdf_2)(string) | 初始化外观。 |
 | virtual [Close](../../aspose.pdf.facades/facade/close)() | 处理与外观绑定的 Aspose.Pdf.Document。 |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 配置外观。 |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 处理外观。 |
 
 ### 也可以看看
 

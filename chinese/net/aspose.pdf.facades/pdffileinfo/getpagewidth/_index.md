@@ -20,7 +20,7 @@ public float GetPageWidth(int pageNum)
 
 ### 返回值
 
-页面宽度。
+页面的宽度。
 
 ### 也可以看看
 

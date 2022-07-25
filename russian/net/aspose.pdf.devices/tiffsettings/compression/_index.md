@@ -20,7 +20,7 @@ public CompressionType Compression { get; set; }
 
 ### Примечания
 
-Значение по умолчанию CompressionType.LZW
+Значение по умолчанию — CompressionType.LZW
 
 ### Смотрите также
 

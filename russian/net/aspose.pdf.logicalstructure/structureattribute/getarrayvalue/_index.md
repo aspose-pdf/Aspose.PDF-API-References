@@ -1,14 +1,14 @@
 ---
 title: GetArrayValue
 second_title: Aspose.PDF для справочника API .NET
-description: Получает массив имен значений.
+description: Получает массив имени значения.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/getarrayvalue/
 ---
 ## StructureAttribute.GetArrayValue method
 
-Получает массив имен значений.
+Получает массив имени значения.
 
 ```csharp
 public AttributeName[] GetArrayValue()

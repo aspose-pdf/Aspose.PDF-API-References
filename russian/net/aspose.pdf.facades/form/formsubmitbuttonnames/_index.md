@@ -1,14 +1,14 @@
 ---
 title: FormSubmitButtonNames
 second_title: Aspose.PDF для справочника API .NET
-description: Получает все имена кнопок отправки форм.
+description: Получает все имена кнопок отправки формы.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
 ## Form.FormSubmitButtonNames property
 
-Получает все имена кнопок отправки форм.
+Получает все имена кнопок отправки формы.
 
 ```csharp
 public string[] FormSubmitButtonNames { get; }

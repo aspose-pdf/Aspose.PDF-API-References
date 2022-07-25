@@ -1,14 +1,14 @@
 ---
 title: GS
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 gs 运算符的类从图形状态参数字典设置参数
+description: 表示 gs 运算符的类从图形状态参数字典中设置参数
 type: docs
 weight: 5180
 url: /zh/net/aspose.pdf.operators/gs/
 ---
 ## GS class
 
-表示 gs 运算符的类（从图形状态参数字典设置参数）。
+表示 gs 运算符的类（从图形状态参数字典中设置参数）。
 
 ```csharp
 public class GS : Operator

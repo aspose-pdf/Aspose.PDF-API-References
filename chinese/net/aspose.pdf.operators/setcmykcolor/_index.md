@@ -18,7 +18,7 @@ public class SetCMYKColor : SetColorOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetCMYKColor](setcmykcolor)(double, double, double, double) | 初始化运算符。 |
+| [SetCMYKColor](setcmykcolor)(double, double, double, double) | 初始化操作符。 |
 
 ## 特性
 

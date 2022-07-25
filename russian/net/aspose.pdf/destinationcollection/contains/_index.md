@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет содержит ли данный экземпляр объект.
+description: Определяет содержит ли этот экземпляр объект.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/destinationcollection/contains/
 ---
 ## DestinationCollection.Contains method
 
-Определяет, содержит ли данный экземпляр объект.
+Определяет, содержит ли этот экземпляр объект.
 
 ```csharp
 public bool Contains(KeyValuePair<string, object> value)
@@ -20,7 +20,7 @@ public bool Contains(KeyValuePair<string, object> value)
 
 ### Возвращаемое значение
 
-` true` if [содержит] [указанное значение]; в противном случае` false` .
+`истинный` если [содержит] [указанное значение]; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

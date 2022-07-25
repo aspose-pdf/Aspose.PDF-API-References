@@ -1,14 +1,14 @@
 ---
 title: Line
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаLineaspose.pdf.drawing/line.
+description: Инициализирует новый экземплярLineaspose.pdf.drawing/line класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/line/line/
 ---
 ## Line constructor
 
-Инициализирует новый экземпляр класса[`Line`](../../line).
+Инициализирует новый экземпляр[`Line`](../../line) класс.
 
 ```csharp
 public Line(float[] positionArray)
@@ -16,7 +16,7 @@ public Line(float[] positionArray)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| positionArray | Single[] | Массив строковых позиций. |
+| positionArray | Single[] | Массив позиций строки. |
 
 ### Смотрите также
 

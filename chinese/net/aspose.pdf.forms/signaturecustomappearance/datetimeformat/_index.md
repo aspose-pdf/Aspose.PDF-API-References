@@ -1,14 +1,14 @@
 ---
 title: DateTimeFormat
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置日期时间格式默认值yyyy.MM.dd HHmmss
+description: 获取/设置日期时间格式默认值yyyy.MM.dd HHmmss.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/datetimeformat/
 ---
 ## SignatureCustomAppearance.DateTimeFormat property
 
-获取/设置日期时间格式。默认值:“yyyy.MM.dd HH:mm:ss”。
+获取/设置日期时间格式。默认值：“yyyy.MM.dd HH:mm:ss”.
 
 ```csharp
 public string DateTimeFormat { get; set; }

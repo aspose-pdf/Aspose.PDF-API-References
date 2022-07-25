@@ -20,7 +20,7 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 ### Возвращаемое значение
 
-Флаг свойства (Только для чтения/Обязательный/ NoExport
+Флаг свойства (ReadOnly/Required/NoExport
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: IsWordWrap
 second_title: Aspose.PDF for .NET API 参考
-description: 设置一个布尔值表示 AddText 方法中的自动换行 如果值为 true则 FormattedText 中的文本将自动换行 默认为假
+description: 设置一个布尔值表示 AddText 方法中的自动换行 如果该值为 true则 FormattedText 中的文本将自动换行 默认情况下该值为 false
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/pdffilemend/iswordwrap/
 ---
 ## PdfFileMend.IsWordWrap property
 
-设置一个布尔值，表示 AddText 方法中的自动换行。 如果值为 true，则 FormattedText 中的文本将自动换行。 默认为假。
+设置一个布尔值，表示 AddText 方法中的自动换行。 如果该值为 true，则 FormattedText 中的文本将自动换行。 默认情况下，该值为 false。
 
 ```csharp
 public bool IsWordWrap { set; }

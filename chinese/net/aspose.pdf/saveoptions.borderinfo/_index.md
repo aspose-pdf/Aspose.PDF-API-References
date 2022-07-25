@@ -1,14 +1,14 @@
 ---
 title: SaveOptions.BorderInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 此类的实例表示有关边框的信息 可能会淹没在某些结果文档中
+description: 此类的实例表示有关边界的信息 可以淹没在某些结果文档中
 type: docs
 weight: 6300
 url: /zh/net/aspose.pdf/saveoptions.borderinfo/
 ---
 ## SaveOptions.BorderInfo class
 
-此类的实例表示有关边框的信息 可能会淹没在某些结果文档中。
+此类的实例表示有关边界的信息 可以淹没在某些结果文档中。
 
 ```csharp
 public class BorderInfo
@@ -19,7 +19,7 @@ public class BorderInfo
 | 姓名 | 描述 |
 | --- | --- |
 | [BorderInfo](borderinfo#constructor)() | 创建 BorderInfo 类的实例 |
-| [BorderInfo](borderinfo#constructor_1)(BorderPartStyle) | 创建 BorderInfo 类的实例并初始化 边框的所有元素（上、左、右、下） 与从提供的边框样式 |
+| [BorderInfo](borderinfo#constructor_1)(BorderPartStyle) | 创建 BorderInfo 类的实例并使用从提供的边框样式复制的属性初始化 边框（上、左、右、下） 的所有元素 |
 
 ## 字段
 
@@ -27,7 +27,7 @@ public class BorderInfo
 | --- | --- |
 | [BottomStyleIfAny](../../aspose.pdf/borderinfo/bottomstyleifany) | 表示边框的底部（如果有） |
 | [LeftStyleIfAny](../../aspose.pdf/borderinfo/leftstyleifany) | 表示边框的左侧部分（如果有） |
-| [RightStyleIfAny](../../aspose.pdf/borderinfo/rightstyleifany) | 表示边框的右侧部分（如果有） |
+| [RightStyleIfAny](../../aspose.pdf/borderinfo/rightstyleifany) | 表示border 的右侧部分（如果有） |
 | [TopStyleIfAny](../../aspose.pdf/borderinfo/topstyleifany) | 表示边框的顶部（如果有） |
 
 ### 也可以看看

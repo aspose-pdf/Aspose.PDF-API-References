@@ -18,7 +18,7 @@ public void ChangePasswords(string ownerPassword, string newUserPassword, string
 | --- | --- | --- |
 | ownerPassword | String | 所有者密码。 |
 | newUserPassword | String | 新用户密码。 |
-| newOwnerPassword | String | 新所有者密码。 |
+| newOwnerPassword | String | 新的所有者密码。 |
 
 ### 也可以看看
 

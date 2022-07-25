@@ -1,14 +1,14 @@
 ---
 title: RB
 second_title: Aspose.PDF для справочника API .NET
-description: базовый текст Ruby Полноразмерный текст к которому применяется аннотация ruby. RB может содержать текст другие встроенные элементы или их смесь. Он может иметь атрибут RubyAlign.
+description: базовый текст Ruby Полноразмерный текст к которому применяется аннотация ruby. RB может содержать текст другие встроенные элементы или их смесь. Он может иметь атрибут RubyAlignattribute.
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/rb/
 ---
 ## StructureTypeStandard.RB field
 
-(базовый текст Ruby) Полноразмерный текст, к которому применяется аннотация ruby. RB может содержать текст, другие встроенные элементы или их смесь. Он может иметь атрибут RubyAlign.
+(базовый текст Ruby) Полноразмерный текст, к которому применяется аннотация ruby. RB может содержать текст, другие встроенные элементы или их смесь. Он может иметь атрибут RubyAlignattribute.
 
 ```csharp
 public static readonly StructureTypeStandard RB;

@@ -1,14 +1,14 @@
 ---
 title: Log
 second_title: Aspose.PDF for .NET API 参考
-description: 文件保存后您可以检查对文件做了什么
+description: 文件保存后您可以检查文件的处理情况
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/pdffilesanitization/log/
 ---
 ## PdfFileSanitization.Log property
 
-文件保存后，您可以检查对文件做了什么。
+文件保存后，您可以检查文件的处理情况。
 
 ```csharp
 public List<string> Log { get; }

@@ -1,14 +1,14 @@
 ---
 title: Fragments
 second_title: Aspose.PDF для справочника API .NET
-description: Коллекция непустыхTextFragmentaspose.pdf.text/textfragmentобъектов абзаца.
+description: Коллекция не пустаяTextFragmentaspose.pdf.text/textfragment объекты абзаца.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/markupparagraph/fragments/
 ---
 ## MarkupParagraph.Fragments property
 
-Коллекция непустых[`TextFragment`](../../textfragment)объектов абзаца.
+Коллекция не пустая[`TextFragment`](../../textfragment) объекты абзаца.
 
 ```csharp
 public List<TextFragment> Fragments { get; }
@@ -16,7 +16,7 @@ public List<TextFragment> Fragments { get; }
 
 ### Примечания
 
-Объект[`TextFragment`](../../textfragment)обеспечивает доступ к тексту вхождения поиска, свойствам текста, а также позволяет редактировать текст и изменять состояние текста (шрифт, размер шрифта, цвет и т. д.).
+[`TextFragment`](../../textfragment) Объект предоставляет доступ к тексту вхождения поиска, свойствам текста, а также позволяет редактировать текст и изменять его состояние (шрифт, размер шрифта, цвет и т. д.).
 
 ### Смотрите также
 

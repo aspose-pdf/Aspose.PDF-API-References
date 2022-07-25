@@ -1,14 +1,14 @@
 ---
 title: TextAbsorber
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярTextAbsorberaspose.pdf.text/textabsorber.
+description: Инициализирует новый экземплярTextAbsorberaspose.pdf.text/textabsorber .
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textabsorber/textabsorber/
 ---
 ## TextAbsorber() {#constructor}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber).
+Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) .
 
 ```csharp
 public TextAbsorber()
@@ -16,7 +16,7 @@ public TextAbsorber()
 
 ### Примечания
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text)объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
 
 ### Примеры
 
@@ -24,16 +24,16 @@ public TextAbsorber()
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// создаем объект TextAbsorber для извлечения text
-extAbsorber absorber = new TextAbsorber();
+// создаем объект TextAbsorber для извлечения текста
+TextAbsorber absorber = new TextAbsorber();
 
-// принимаем поглотитель для всех страниц документа pages
-oc.Pages.Accept(absorber);
+// принимаем поглотитель для всех страниц документа
+doc.Pages.Accept(absorber);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 
 ```
 
@@ -47,7 +47,7 @@ tring extractedText = absorber.Text;
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber)с параметрами извлечения.
+Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) с опциями извлечения.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
@@ -59,7 +59,7 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ### Примечания
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text)объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
 
 ### Примеры
 
@@ -67,16 +67,16 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
 // создаем объект TextAbsorber для извлечения текста с форматированием
-extAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
+TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// принимаем поглотитель для всех страниц документа pages
-oc.Pages.Accept(absorber);
+// принимаем поглотитель для всех страниц документа
+doc.Pages.Accept(absorber);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 
 ```
 
@@ -91,7 +91,7 @@ tring extractedText = absorber.Text;
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber)с параметрами извлечения и поиска текста.
+Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) с возможностью извлечения и текстового поиска.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
@@ -100,11 +100,11 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Параметры извлечения текста |
-| textSearchOptions | TextSearchOptions | Параметры поиска текста |
+| textSearchOptions | TextSearchOptions | Параметры текстового поиска |
 
 ### Примечания
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text)объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
 
 ### Смотрите также
 
@@ -118,7 +118,7 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber)с параметрами текстового поиска.
+Инициализирует новый экземпляр[`TextAbsorber`](../../textabsorber) с параметрами текстового поиска.
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
@@ -130,7 +130,7 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 
 ### Примечания
 
-Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text)объект.
+Выполняет извлечение текста и предоставляет доступ к извлеченному тексту через[`Text`](../text) объект.
 
 ### Смотрите также
 

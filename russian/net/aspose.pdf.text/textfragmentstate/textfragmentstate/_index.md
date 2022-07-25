@@ -1,14 +1,14 @@
 ---
 title: TextFragmentState
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаTextFragmentStateaspose.pdf.text/textfragmentstateс указаннымTextFragmentaspose.pdf.text/textfragmentобъект. Эта инициализацияTextFragmentStateaspose.pdf.text/textfragmentstateне поддерживается. TextFragmentState доступен только со свойствомTextStateaspose.pdf.text/textfragment/textstate.
+description: Инициализирует новый экземплярTextFragmentStateaspose.pdf.text/textfragmentstate объект с указаннымTextFragmentaspose.pdf.text/textfragment object. ЭтоTextFragmentStateaspose.pdf.text/textfragmentstate инициализация не поддерживается. TextFragmentState доступен только сTextStateaspose.pdf.text/textfragment/textstate свойство.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textfragmentstate/textfragmentstate/
 ---
 ## TextFragmentState constructor
 
-Инициализирует новый экземпляр объекта[`TextFragmentState`](../../textfragmentstate)с указанным[`TextFragment`](../../textfragment)объект. Эта инициализация[`TextFragmentState`](../../textfragmentstate)не поддерживается. TextFragmentState доступен только со свойством[`TextState`](../../textfragment/textstate).
+Инициализирует новый экземпляр[`TextFragmentState`](../../textfragmentstate) объект с указанным[`TextFragment`](../../textfragment) object. Это[`TextFragmentState`](../../textfragmentstate) инициализация не поддерживается. TextFragmentState доступен только с[`TextState`](../../textfragment/textstate) свойство.
 
 ```csharp
 public TextFragmentState(TextFragment fragment)

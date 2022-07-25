@@ -28,7 +28,7 @@ public void LoadAsPRC(string filename)
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-从流中加载 3D 内容为 PRC 格式。
+以 PRC 格式从流中加载 3D 内容。
 
 ```csharp
 public void LoadAsPRC(Stream stream)
@@ -48,7 +48,7 @@ public void LoadAsPRC(Stream stream)
 
 ## LoadAsPRC(byte[]) {#loadasprc}
 
-从字节数组加载 3D 内容为 PRC 格式。
+从字节数组中加载 3D 内容为 PRC 格式。
 
 ```csharp
 public void LoadAsPRC(byte[] stream)

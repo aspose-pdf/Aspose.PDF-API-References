@@ -1,14 +1,14 @@
 ---
 title: WebHyperlink
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化WebHyperlinkaspose.pdf/webhyperlink类的新实例
+description: 初始化WebHyperlinkaspose.pdf/webhyperlink类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/webhyperlink/webhyperlink/
 ---
 ## WebHyperlink() {#constructor}
 
-初始化[`WebHyperlink`](../../webhyperlink)类的新实例。
+初始化[`WebHyperlink`](../../webhyperlink)类.
 
 ```csharp
 public WebHyperlink()
@@ -24,7 +24,7 @@ public WebHyperlink()
 
 ## WebHyperlink(string) {#constructor_1}
 
-初始化[`WebHyperlink`](../../webhyperlink)类的新实例。
+初始化[`WebHyperlink`](../../webhyperlink)类.
 
 ```csharp
 public WebHyperlink(string url)

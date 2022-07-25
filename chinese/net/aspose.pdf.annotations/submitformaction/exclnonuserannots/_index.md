@@ -1,14 +1,14 @@
 ---
 title: ExclNonUserAnnots
 second_title: Aspose.PDF for .NET API 参考
-description: 如果设置它应仅包括其 T 条目与当前用户名称匹配的那些标记注释
+description: 如果设置它应该只包括那些 T 条目与当前用户的名称匹配的标记注释
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/submitformaction/exclnonuserannots/
 ---
 ## SubmitFormAction.ExclNonUserAnnots field
 
-如果设置，它应仅包括其 T 条目与当前用户名称匹配的那些标记注释。
+如果设置，它应该只包括那些 T 条目与当前用户的名称匹配的标记注释。
 
 ```csharp
 public const int ExclNonUserAnnots;

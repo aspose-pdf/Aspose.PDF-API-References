@@ -17,12 +17,12 @@ public void CreateText(Rectangle rect, string title, string contents, bool open,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 注释矩形定义注释在页面上的位置。 |
+| rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | title | String | 注释的标题。 |
 | contents | String | 注释的内容。 |
-| open | Boolean | 指定注解最初是否应打开显示的标志。 |
-| icon | String | 图标的名称将用于显示注释。 该值可以是:“注释”、“键”、“注释”、“帮助”、“新建段落”、“段落”、“插入” |
-| page | Int32 | 将创建文本注释的原始页数。 |
+| open | Boolean | 一个标志，指定注释最初是否应打开显示。 |
+| icon | String | 图标的名称将用于显示注释。 这个值可以是：“注释”、“键”、“注释”、“帮助”、“新建段落”、“段落”、“插入” |
+| page | Int32 | 将在其中创建文本注释的原始页数。 |
 
 ### 例子
 

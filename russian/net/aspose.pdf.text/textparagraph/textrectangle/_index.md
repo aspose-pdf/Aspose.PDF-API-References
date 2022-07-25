@@ -1,14 +1,14 @@
 ---
 title: TextRectangle
 second_title: Aspose.PDF для справочника API .NET
-description: Получает прямоугольник текста помещенный в абзац.
+description: Получает прямоугольник текста помещенного в абзац.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textparagraph/textrectangle/
 ---
 ## TextParagraph.TextRectangle property
 
-Получает прямоугольник текста, помещенный в абзац.
+Получает прямоугольник текста, помещенного в абзац.
 
 ```csharp
 public Rectangle TextRectangle { get; }

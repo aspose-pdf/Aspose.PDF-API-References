@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 计算列表中的项目
+description: 计数列表中的项目
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/measure.numberformatlist/count/
 ---
 ## Measure.NumberFormatList.Count property
 
-计算列表中的项目。
+计数列表中的项目。
 
 ```csharp
 public int Count { get; }

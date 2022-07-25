@@ -1,14 +1,14 @@
 ---
 title: FullName
 second_title: Aspose.PDF for .NET API 参考
-description: 获取注解的完整限定名
+description: 获取注释的完整限定名
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.annotations/annotation/fullname/
 ---
 ## Annotation.FullName property
 
-获取注解的完整限定名。
+获取注释的完整限定名。
 
 ```csharp
 public string FullName { get; }

@@ -1,14 +1,14 @@
 ---
 title: TabOrder
 second_title: Aspose.PDF for .NET API 参考
-description: 页面上的跳位顺序
+description: 页面上的 Tab 键顺序
 type: docs
 weight: 6490
 url: /zh/net/aspose.pdf/taborder/
 ---
 ## TabOrder enumeration
 
-页面上的跳位顺序
+页面上的 Tab 键顺序
 
 ```csharp
 public enum TabOrder
@@ -18,10 +18,10 @@ public enum TabOrder
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 无跳位顺序。 |
+| None | `0` | 没有跳位顺序。 |
 | Row | `1` | 行顺序。 |
 | Column | `2` | 列顺序。 |
-| Default | `3` | 默认制表符顺序。 |
+| Default | `3` | 默认跳格顺序。 |
 | Manual | `4` | 手动跳格顺序。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: INBOX
 second_title: Aspose.PDF для справочника API .NET
-description: Внутренний ящик
+description: Внутренняя коробка
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
 ## PdfPageEditor.INBOX field
 
-Внутренний ящик
+Внутренняя коробка
 
 ```csharp
 public const int INBOX;

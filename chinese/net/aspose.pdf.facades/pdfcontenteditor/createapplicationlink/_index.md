@@ -1,14 +1,14 @@
 ---
 title: CreateApplicationLink
 second_title: Aspose.PDF for .NET API 参考
-description: 创建链接以启动 PDF 文档中的应用程序
+description: 创建一个链接以在 PDF 文档中启动应用程序
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
 ---
 ## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink_2}
 
-创建链接以启动 PDF 文档中的应用程序。
+创建一个链接以在 PDF 文档中启动应用程序。
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, 
@@ -44,7 +44,7 @@ editor.Save("example_out.pdf");
 
 ## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
 
-创建链接以启动 PDF 文档中的应用程序。
+创建一个链接以在 PDF 文档中启动应用程序。
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr)
@@ -77,7 +77,7 @@ editor.Save("example_out.pdf");
 
 ## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink}
 
-创建链接以启动 PDF 文档中的应用程序。
+创建一个链接以在 PDF 文档中启动应用程序。
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page)

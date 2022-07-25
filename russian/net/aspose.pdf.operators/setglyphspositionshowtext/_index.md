@@ -1,14 +1,14 @@
 ---
 title: SetGlyphsPositionShowText
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор TJ показать текст с позиционированием глифа.
+description: Класс представляющий оператора TJ показать текст с расположением глифа.
 type: docs
 weight: 5470
 url: /ru/net/aspose.pdf.operators/setglyphspositionshowtext/
 ---
 ## SetGlyphsPositionShowText class
 
-Класс, представляющий оператор TJ (показать текст с позиционированием глифа).
+Класс, представляющий оператора TJ (показать текст с расположением глифа).
 
 ```csharp
 public class SetGlyphsPositionShowText : TextShowOperator
@@ -32,7 +32,7 @@ public class SetGlyphsPositionShowText : TextShowOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/setglyphspositionshowtext/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

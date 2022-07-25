@@ -16,7 +16,7 @@ public void Add(Annotation annotation, bool considerRotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 需要添加的注解。 |
+| annotation | Annotation | 应添加的注释。 |
 | considerRotation | Boolean | 如果为 true 并且如果页面旋转，则注释位置将根据页面旋转重新计算。 |
 
 ### 也可以看看
@@ -38,7 +38,7 @@ public void Add(Annotation annotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 需要添加的注解。 |
+| annotation | Annotation | 应添加的注释。 |
 
 ### 也可以看看
 

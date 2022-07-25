@@ -17,7 +17,7 @@ public static XForm CreateNewForm(Page source, Document document)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | source | Page | 源页面 |
-| document | Document | 新 XForm 的文档被添加。 |
+| document | Document | 记录将添加新 XForm 的位置。 |
 
 ### 返回值
 

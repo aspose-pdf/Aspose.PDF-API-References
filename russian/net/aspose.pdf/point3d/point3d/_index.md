@@ -1,14 +1,14 @@
 ---
 title: Point3D
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярPoint3Daspose.pdf/point3d.
+description: Инициализирует новый экземплярPoint3Daspose.pdf/point3d .
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/point3d/point3d/
 ---
 ## Point3D constructor
 
-Инициализирует новый экземпляр[`Point3D`](../../point3d).
+Инициализирует новый экземпляр[`Point3D`](../../point3d) .
 
 ```csharp
 public Point3D(double x, double y, double z)
@@ -16,9 +16,9 @@ public Point3D(double x, double y, double z)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Значение координаты x. |
-| y | Double | Значение координаты y. |
-| z | Double | Значение координаты z. |
+| x | Double | x значение координаты. |
+| y | Double | значение координаты y. |
+| z | Double | значение координаты z. |
 
 ### Смотрите также
 

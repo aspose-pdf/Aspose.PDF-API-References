@@ -16,7 +16,7 @@ public void ExportBookmarksToXML(string xmlFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlFile | String | Выходной файл XML. |
+| xmlFile | String | Выходной XML-файл. |
 
 ### Примеры
 

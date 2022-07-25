@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Inset
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleInset  граница заставляет весь блок выглядеть так как будто он встроен в холст.
+description: Атрибут BorderStyle Inset  граница придает всему блоку вид будто он встроен в холст.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_inset/
 ---
 ## AttributeName.BorderStyle_Inset field
 
-Атрибут BorderStyle:Inset — граница заставляет весь блок выглядеть так, как будто он встроен в холст.
+Атрибут BorderStyle: Inset — граница придает всему блоку вид, будто он встроен в холст.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Inset;

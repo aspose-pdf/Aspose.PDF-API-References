@@ -18,8 +18,8 @@ public sealed class ThumbnailDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ThumbnailDevice](thumbnaildevice#constructor)() | 初始化[`ThumbnailDevice`](../thumbnaildevice)类 的新实例，默认大小为缩略图（200x200 像素）。 |
-| [ThumbnailDevice](thumbnaildevice#constructor_1)(int, int) | 初始化[`ThumbnailDevice`](../thumbnaildevice)类的新实例。 |
+| [ThumbnailDevice](thumbnaildevice#constructor)() | 初始化[`ThumbnailDevice`](../thumbnaildevice) class 具有缩略图的默认大小（200x200 像素）。 |
+| [ThumbnailDevice](thumbnaildevice#constructor_1)(int, int) | 初始化[`ThumbnailDevice`](../thumbnaildevice)类. |
 
 ## 特性
 
@@ -36,7 +36,7 @@ public sealed class ThumbnailDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/thumbnaildevice/process#process)(Page, Stream) | 将页面转换为缩略图png并保存在输出流中。 |
+| override [Process](../../aspose.pdf.devices/thumbnaildevice/process#process)(Page, Stream) | 将页面转换为缩略图 png 并保存在输出流中。 |
 | [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | 在给定页面上执行一些操作并将结果保存到文件中。 |
 
 ### 也可以看看

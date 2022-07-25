@@ -1,14 +1,14 @@
 ---
 title: PdfASymbolicFontEncodingStrategy.QueueItem
 second_title: Aspose.PDF для справочника API .NET
-description: Задает подтаблицу кодирования. Каждая подтаблица кодирования имеет уникальную комбинацию параметров PlatformID PlatformSpecificId. ПеречислениеCMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype и свойствоCMapEncodingTable./pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtableбыли реализованы для упрощения необходим набор подтаблиц кодирования.
+description: Определяет подтаблицу кодирования. Каждая подтаблица кодирования имеет уникальную комбинацию параметров PlatformID PlatformSpecificId. перечислениеCMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype и недвижимостьCMapEncodingTable./pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable были реализованы для упрощения необходимого набора подтаблиц кодирования.
 type: docs
 weight: 5990
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem class
 
-Задает подтаблицу кодирования. Каждая подтаблица кодирования имеет уникальную комбинацию параметров (PlatformID, PlatformSpecificId). Перечисление[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) и свойство[`CMapEncodingTable`](./cmapencodingtable)были реализованы для упрощения необходим набор подтаблиц кодирования.
+Определяет подтаблицу кодирования. Каждая подтаблица кодирования имеет уникальную комбинацию параметров (PlatformID, PlatformSpecificId). перечисление[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) и недвижимость[`CMapEncodingTable`](./cmapencodingtable) были реализованы для упрощения необходимого набора подтаблиц кодирования.
 
 ```csharp
 public class QueueItem
@@ -18,7 +18,7 @@ public class QueueItem
 
 | Имя | Описание |
 | --- | --- |
-| [QueueItem](queueitem#constructor)() | Конструктор, по умолчанию указывает подтаблицу mac(1,0) |
+| [QueueItem](queueitem#constructor)() | Конструктор, указывает подтаблицу mac(1,0) по умолчанию |
 | [QueueItem](queueitem#constructor_1)(CMapEncodingTableType) | Конструктор |
 | [QueueItem](queueitem#constructor_2)(ushort, ushort) | Конструктор |
 
@@ -26,9 +26,9 @@ public class QueueItem
 
 | Имя | Описание |
 | --- | --- |
-| [CMapEncodingTable](../../aspose.pdf/queueitem/cmapencodingtable) { get; set; } | Указывает подтаблицу кодирования через[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)enumeration |
-| [PlatformId](../../aspose.pdf/queueitem/platformid) { get; set; } | Идентификатор платформы для подтаблицы кодирования |
-| [PlatformSpecificId](../../aspose.pdf/queueitem/platformspecificid) { get; set; } | Идентификатор кодировки для конкретной платформы для подтаблицы кодирования |
+| [CMapEncodingTable](../../aspose.pdf/queueitem/cmapencodingtable) { get; set; } | Указывает подтаблицу кодирования через[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) перечисление |
+| [PlatformId](../../aspose.pdf/queueitem/platformid) { get; set; } | Идентификатор платформы для кодирования subtable |
+| [PlatformSpecificId](../../aspose.pdf/queueitem/platformspecificid) { get; set; } | Идентификатор кодировки для конкретной платформы для кодирования subtable |
 
 ### Смотрите также
 

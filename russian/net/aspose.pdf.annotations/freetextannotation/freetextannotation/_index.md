@@ -17,7 +17,7 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | document | Document | Документ, в котором будет создана аннотация. |
-| внешнийвид | DefaultAppearance | Внешний вид по умолчанию |
+| appearance | DefaultAppearance | Внешний вид по умолчанию |
 
 ### Смотрите также
 

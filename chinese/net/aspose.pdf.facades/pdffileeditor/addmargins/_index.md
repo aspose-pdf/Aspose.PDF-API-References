@@ -1,14 +1,14 @@
 ---
 title: AddMargins
 second_title: Aspose.PDF for .NET API 参考
-description: 调整页面内容的大小并添加指定的边距 边距以默认空间单位指定
+description: 调整页面内容的大小并添加指定的边距 以默认空间单位指定边距
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf.facades/pdffileeditor/addmargins/
 ---
 ## AddMargins(string, string, int[], double, double, double, double) {#addmargins_1}
 
-调整页面内容的大小并添加指定的边距。 边距以默认空间单位指定。
+调整页面内容的大小并添加指定的边距。 以默认空间单位指定边距。
 
 ```csharp
 public bool AddMargins(string source, string destination, int[] pages, double leftMargin, 
@@ -18,31 +18,31 @@ public bool AddMargins(string source, string destination, int[] pages, double le
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | source | String | 源文档的路径。 |
-| destination | String | 保存结果文档的路径。 |
+| destination | String | 将保存结果文档的路径。 |
 | pages | Int32[] | 页面索引数组。如果为 null，则将处理所有文档页面。 |
 | leftMargin | Double | 左边距。 |
 | rightMargin | Double | 右边距。 |
 | topMargin | Double | 上边距。 |
-| bottomMargin | Double | 底部边距。 |
+| bottomMargin | Double | 下边距。 |
 
 ### 返回值
 
-如果调整大小成功，则为真。
+如果调整大小成功，则为 true。
 
 ### 例子
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMargins("input.pdf", "output.pdf", 
-      //处理第1、2、3页
+    //处理第1、2、3页
     new int[] { 1, 2, 3}, 
-      //左边距为10个单位
+    //左边距为10个单位
     10, 
-      //右边距为5个单位
+    //右边距为5个单位
     5, 
-      //上边距为 5 个单位
+    //上边距为5个单位
     5, 
-      //下边距为5个单位
+    //下边距为5个单位
     5);
 ```
 
@@ -56,7 +56,7 @@ fileEditor.AddMargins("input.pdf", "output.pdf",
 
 ## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}
 
-调整页面内容的大小并添加指定的边距。 边距以默认空间单位指定。
+调整页面内容的大小并添加指定的边距。 以默认空间单位指定边距。
 
 ```csharp
 public bool AddMargins(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -71,11 +71,11 @@ public bool AddMargins(Stream source, Stream destination, int[] pages, double le
 | leftMargin | Double | 左边距。 |
 | rightMargin | Double | 右边距。 |
 | topMargin | Double | 上边距。 |
-| bottomMargin | Double | 底部边距。 |
+| bottomMargin | Double | 下边距。 |
 
 ### 返回值
 
-如果操作成功则为真。
+如果操作成功，则为 true。
 
 ### 例子
 
@@ -84,15 +84,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMargins(src, dest, 
-      //处理第1、2、3页
+    //处理第1、2、3页
     new int[] { 1, 2, 3}, 
-      //左边距为10个单位
+    //左边距为10个单位
     10, 
-      //右边距为5个单位
+    //右边距为5个单位
     5, 
-      //上边距为 5 个单位
+    //上边距为5个单位
     5, 
-      //下边距为5个单位
+    //下边距为5个单位
     5);
     dest.Close();
 ```

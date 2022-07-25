@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает файл PDF и номер страницы которая будет использоваться в качестве штампа.
+description: Устанавливает файл PDF и количество страниц которые будут использоваться в качестве штампа.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/stamp/bindpdf/
 ---
 ## BindPdf(string, int) {#bindpdf_1}
 
-Устанавливает файл PDF и номер страницы, которая будет использоваться в качестве штампа.
+Устанавливает файл PDF и количество страниц, которые будут использоваться в качестве штампа.
 
 ```csharp
 public void BindPdf(string pdfFile, int pageNumber)
@@ -17,14 +17,14 @@ public void BindPdf(string pdfFile, int pageNumber)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pdfFile | String | Путь к файлу PDF. |
-| pageNumber | Int32 | Номер страницы в файле PDF |
+| pageNumber | Int32 | Количество страниц в файле PDF |
 
 ### Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
- //Первая страница будет использоваться как штамп.
+//Первая страница будет использоваться как штамп.
 stamp.BindPdf("stamp.pdf", 1);
 stamp.IsBackground = true;
 fileStamp.AddStamp(stamp);
@@ -41,7 +41,7 @@ fileStamp.Close();
 
 ## BindPdf(Stream, int) {#bindpdf}
 
-Устанавливает файл PDF и номер страницы, которая будет использоваться в качестве штампа.
+Устанавливает файл PDF и количество страниц, которые будут использоваться в качестве штампа.
 
 ```csharp
 public void BindPdf(Stream pdfStream, int pageNumber)
@@ -50,14 +50,14 @@ public void BindPdf(Stream pdfStream, int pageNumber)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pdfStream | Stream | Поток, содержащий PDF-документ. |
-| pageNumber | Int32 | Индекс страницы документа, который будет использоваться в качестве штампа. |
+| pageNumber | Int32 | Индекс страниц документа, который будет использоваться в качестве штампа. |
 
 ### Примеры
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Stamp();
- //Первая страница будет использоваться как штамп.
+//Первая страница будет использоваться как штамп.
 Stream stream = new FileStream("stamp.pdf", FileMode.Open, FileAccess.Read);
 stamp.BindPdf(stream, 1);
 fileStamp.AddStamp(stamp);

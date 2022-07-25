@@ -1,14 +1,14 @@
 ---
 title: RemovePrivateInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Удалить приватную информацию информацию о части страницы.
+description: Удалить личную информацию информация о части страницы.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 ---
 ## OptimizationOptions.RemovePrivateInfo property
 
-Удалить приватную информацию (информацию о части страницы).
+Удалить личную информацию (информация о части страницы).
 
 ```csharp
 public bool RemovePrivateInfo { get; set; }

@@ -19,8 +19,8 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 | --- | --- | --- |
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
-| privileges | DocumentPrivilege | 文档权限，详见[`Permissions`](../permissions)。 |
-| cryptoAlgorithm | CryptoAlgorithm | 加密算法，详见[`CryptoAlgorithm`](../cryptoalgorithm)。 |
+| privileges | DocumentPrivilege | 文档权限，请参阅[`Permissions`](../permissions)详情。 |
+| cryptoAlgorithm | CryptoAlgorithm | 密码算法，见[`CryptoAlgorithm`](../cryptoalgorithm)详情。 |
 | usePdf20 | Boolean | 支持修订版 6（扩展 8）。 |
 
 ### 也可以看看
@@ -46,8 +46,8 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | --- | --- | --- |
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
-| permissions | Permissions | 文档权限，详见[`Permissions`](../permissions)。 |
-| cryptoAlgorithm | CryptoAlgorithm | 加密算法，详见[`CryptoAlgorithm`](../cryptoalgorithm)。 |
+| permissions | Permissions | 文档权限，请参阅[`Permissions`](../permissions)详情。 |
+| cryptoAlgorithm | CryptoAlgorithm | 密码算法，见[`CryptoAlgorithm`](../cryptoalgorithm)详情。 |
 
 ### 也可以看看
 
@@ -72,8 +72,8 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | --- | --- | --- |
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
-| permissions | Permissions | 文档权限，详见[`Permissions`](../permissions)。 |
-| cryptoAlgorithm | CryptoAlgorithm | 加密算法，详见[`CryptoAlgorithm`](../cryptoalgorithm)。 |
+| permissions | Permissions | 文档权限，请参阅[`Permissions`](../permissions)详情。 |
+| cryptoAlgorithm | CryptoAlgorithm | 密码算法，见[`CryptoAlgorithm`](../cryptoalgorithm)详情。 |
 | usePdf20 | Boolean | 支持修订版 6（扩展 8）。 |
 
 ### 也可以看看

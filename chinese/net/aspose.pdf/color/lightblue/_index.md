@@ -1,14 +1,14 @@
 ---
 title: LightBlue
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FFADD8E6 的系统定义颜色
+description: 获取 ARGB 值为 FFADD8E6. 的系统定义颜色
 type: docs
 weight: 650
 url: /zh/net/aspose.pdf/color/lightblue/
 ---
 ## Color.LightBlue property
 
-获取 ARGB 值为 #FFADD8E6 的系统定义颜色。
+获取 ARGB 值为 #FFADD8E6. 的系统定义颜色
 
 ```csharp
 public static Color LightBlue { get; }
@@ -16,7 +16,7 @@ public static Color LightBlue { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

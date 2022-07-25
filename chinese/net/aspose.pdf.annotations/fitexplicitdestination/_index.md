@@ -1,14 +1,14 @@
 ---
 title: FitExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 表示显示页面的显式目的地其内容被放大到足以在水平和垂直方向上适应窗口内的整个页面如果所需的水平和垂直放大系数不同请使用两者中较小的一个将页面在另一个维度的窗口中居中
+description: 表示显示页面的显式目标其内容被放大到足以在水平和垂直方向上适应窗口中的整个页面如果所需的水平和垂直放大倍数不同请使用两者中较小的一个将页面在另一个维度的窗口中居中
 type: docs
 weight: 380
 url: /zh/net/aspose.pdf.annotations/fitexplicitdestination/
 ---
 ## FitExplicitDestination class
 
-表示显示页面的显式目的地，其内容被放大到足以在水平和垂直方向上适应窗口内的整个页面。如果所需的水平和垂直放大系数不同，请使用两者中较小的一个，将页面在另一个维度的窗口中居中。
+表示显示页面的显式目标，其内容被放大到足以在水平和垂直方向上适应窗口中的整个页面。如果所需的水平和垂直放大倍数不同，请使用两者中较小的一个，将页面在另一个维度的窗口中居中。
 
 ```csharp
 public sealed class FitExplicitDestination : ExplicitDestination
@@ -19,7 +19,7 @@ public sealed class FitExplicitDestination : ExplicitDestination
 | 姓名 | 描述 |
 | --- | --- |
 | [FitExplicitDestination](fitexplicitdestination#constructor_2)(int) | 创建远程显式目标。 |
-| [FitExplicitDestination](fitexplicitdestination#constructor_1)(Page) | 创建本地显式目的地。 |
+| [FitExplicitDestination](fitexplicitdestination#constructor_1)(Page) | 创建本地显式目标。 |
 
 ## 特性
 
@@ -32,7 +32,7 @@ public sealed class FitExplicitDestination : ExplicitDestination
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例:“1 适合”。 |
+| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例：“1 适合”. |
 
 ### 也可以看看
 

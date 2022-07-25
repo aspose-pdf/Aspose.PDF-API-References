@@ -18,8 +18,8 @@ public enum ImageFilterType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Jpeg2000 | `0` | Jpeg 2000. |
-| Jpeg | `1` | Jpeg. |
+| Jpeg2000 | `0` | JPEG 2000. |
+| Jpeg | `1` | JPEG. |
 | Flate | `2` | Плоский. |
 | CCITTFax | `3` | Факс CCIT. |
 

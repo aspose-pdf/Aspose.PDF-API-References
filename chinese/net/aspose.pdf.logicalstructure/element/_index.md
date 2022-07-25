@@ -18,14 +18,14 @@ public abstract class Element
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | 获取Element对象的子集合。 |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | 获取子集合Element对象. |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | 获取父元素。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | 附加Element到子集合。 |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | 追加Element收集儿童。 |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | 查找给定类型的元素 |
 | override [ToString](../../aspose.pdf.logicalstructure/element/tostring)() | 返回代表当前对象的字符串。 |
 

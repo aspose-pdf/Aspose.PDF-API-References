@@ -1,14 +1,14 @@
 ---
 title: TimestampSettings
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TimestampSettingsaspose.pdf/timestampsettings类的新实例
+description: 初始化TimestampSettingsaspose.pdf/timestampsettings类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/timestampsettings/timestampsettings/
 ---
 ## TimestampSettings constructor
 
-初始化[`TimestampSettings`](../../timestampsettings)类的新实例。
+初始化[`TimestampSettings`](../../timestampsettings)类.
 
 ```csharp
 public TimestampSettings(string serverUrl, string basicAuthCredentials, 
@@ -18,7 +18,7 @@ public TimestampSettings(string serverUrl, string basicAuthCredentials,
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | serverUrl | String | 时间戳服务器 url。 |
-| basicAuthCredentials | String | 基本身份验证凭据、用户名和密码组合成一个字符串“用户名:密码”。 |
+| basicAuthCredentials | String | 基本身份验证凭据、用户名和密码组合成一个字符串“用户名：密码”。 |
 | digestHashAlgorithm | DigestHashAlgorithm | 哈希算法名称，如果省略则使用 sha1。 |
 
 ### 也可以看看

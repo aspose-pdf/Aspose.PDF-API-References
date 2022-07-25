@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: Aspose.PDF для справочника API .NET
-description: Получает набор операторов в потоке содержимого страницы. OperatorCollectionaspose.pdf/operatorcollection
+description: Получает набор операторов в потоке контента страницы. OperatorCollectionaspose.pdf/operatorcollection
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/page/contents/
 ---
 ## Page.Contents property
 
-Получает набор операторов в потоке содержимого страницы. [`OperatorCollection`](../../operatorcollection)
+Получает набор операторов в потоке контента страницы. [`OperatorCollection`](../../operatorcollection)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -16,7 +16,7 @@ public OperatorCollection Contents { get; }
 
 ### Примеры
 
-Пример демонстрирует, как операторы сканирования потока страницы.
+Пример демонстрирует, как сканировать поток операторов страницы.
 
 ```csharp
 Document document = new Document("sample.pdf");

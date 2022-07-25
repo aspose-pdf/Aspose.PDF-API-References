@@ -18,7 +18,7 @@ public sealed class WarningInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WarningInfo](warninginfo)(WarningType, string) | 构造用于收集信息的实例。 |
+| [WarningInfo](warninginfo)(WarningType, string) | 构造收集信息的实例。 |
 
 ## 特性
 

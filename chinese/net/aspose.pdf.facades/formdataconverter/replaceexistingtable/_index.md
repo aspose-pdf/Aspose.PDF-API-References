@@ -1,14 +1,14 @@
 ---
 title: ReplaceExistingTable
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此属性设置为 true则 ImportIntoDatabase 将删除现有表并创建新表
+description: 如果此属性设置为 trueImportIntoDatabase 将删除现有表并创建新表
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/formdataconverter/replaceexistingtable/
 ---
 ## FormDataConverter.ReplaceExistingTable property
 
-如果此属性设置为 true，则 ImportIntoDatabase 将删除现有表并创建新表。
+如果此属性设置为 true，ImportIntoDatabase 将删除现有表并创建新表。
 
 ```csharp
 public bool ReplaceExistingTable { get; set; }

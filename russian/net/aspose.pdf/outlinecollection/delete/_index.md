@@ -1,14 +1,14 @@
 ---
 title: Delete
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет все элементы структуры из структуры документа.
+description: Удаляет все элементы схемы из структуры документа.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/outlinecollection/delete/
 ---
 ## Delete() {#delete}
 
-Удаляет все элементы структуры из структуры документа.
+Удаляет все элементы схемы из структуры документа.
 
 ```csharp
 public void Delete()
@@ -32,7 +32,7 @@ public void Delete(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Название удаляемого элемента структуры |
+| name | String | Название элемента схемы, которое нужно удалить |
 
 ### Смотрите также
 

@@ -18,7 +18,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | --- | --- | --- |
 | fileName | String | Имя файла. |
 | fullName | String& | Полное имя файла. |
-| searchSubdirectories | Boolean | Указывает, следует ли искать файл в подкаталогах. |
+| searchSubdirectories | Boolean | Указывает, искать ли файл в подкаталогах. |
 
 ### Возвращаемое значение
 

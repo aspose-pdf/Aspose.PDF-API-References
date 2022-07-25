@@ -1,14 +1,14 @@
 ---
 title: TeXLoadOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет опции для загрузки/импорта файла TeX в документ PDF.
+description: Представляет параметры для загрузки/импорта файла TeX в документ PDF.
 type: docs
 weight: 6570
 url: /ru/net/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class
 
-Представляет опции для загрузки/импорта файла TeX в документ PDF.
+Представляет параметры для загрузки/импорта файла TeX в документ PDF.
 
 ```csharp
 public class TeXLoadOptions : LoadOptions
@@ -24,16 +24,16 @@ public class TeXLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } | Получает/устанавливает определенное значение для примитивов даты/времени, таких как \год, \месяц, \день и \время. |
+| [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } | Получает/устанавливает определенное значение для примитивов даты/времени, таких как \year, \month, \day и \time. |
 | [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory) { get; set; } | Получает/устанавливает входной каталог TeX. |
 | [JobName](../../aspose.pdf/texloadoptions/jobname) { get; set; } | Получает/устанавливает имя задания. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions)описывает. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions) описывает. |
 | [NoLigatures](../../aspose.pdf/texloadoptions/noligatures) { get; set; } | Получает/устанавливает флаг, который отменяет лигатуры во всех шрифтах. |
 | [OutputDirectory](../../aspose.pdf/texloadoptions/outputdirectory) { get; set; } | Получает/устанавливает выходной каталог TeX. |
 | [RasterizeFormulas](../../aspose.pdf/texloadoptions/rasterizeformulas) { get; set; } | Получает/устанавливает флаг, позволяющий растеризовать математические формулы. |
-| [Repeat](../../aspose.pdf/texloadoptions/repeat) { get; set; } | Возвращает/устанавливает флаг, указывающий, нужно ли дважды запускать задание TeX в случае, например, во входном TeX есть ссылки файл(ы). В общем, такое поведение полезно, когда движок собирает некоторые данные в процессе верстки и сохраняет их во вспомогательном файле, все при первом запуске. И при втором запуске движок каким-то образом использует эти данные. |
-| [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput) { get; set; } | Получает/устанавливает флаг, указывающий, показывать ли вывод терминала на консоли. |
-| [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts) { get; set; } | Получает/устанавливает флаг, указывающий, следует ли подмножать шрифты в выходном файле или нет. |
+| [Repeat](../../aspose.pdf/texloadoptions/repeat) { get; set; } | Получает/устанавливает флаг, указывающий, необходимо ли запускать задание TeX дважды в случае, например, , во входных файлах TeX есть ссылки. В общем, такое поведение полезно, когда движок собирает некоторые данные в процессе набора текста и сохраняет их во вспомогательном файле, все при первом запуске. И при втором запуске движок как-то использует эти данные. |
+| [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput) { get; set; } | Получает/устанавливает флаг, указывающий, следует ли отображать выходные данные терминала на консоли. |
+| [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts) { get; set; } | Получает/устанавливает флаг, указывающий, следует ли поднабор шрифтов в выходном файле или нет. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Продолжить, либо Прервать. Продолжить — это действие по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, и в этом случае операция загрузки должна быть прекращена. |
 
 ### Смотрите также

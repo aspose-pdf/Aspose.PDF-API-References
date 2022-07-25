@@ -18,7 +18,7 @@ public sealed class DocMDPSignature
 
 | Имя | Описание |
 | --- | --- |
-| [DocMDPSignature](docmdpsignature)(Signature, DocMDPAccessPermissions) | Инициализирует новый экземпляр класса[`DocMDPSignature`](../docmdpsignature). |
+| [DocMDPSignature](docmdpsignature)(Signature, DocMDPAccessPermissions) | Инициализирует новый экземпляр[`DocMDPSignature`](../docmdpsignature) класс. |
 
 ## Характеристики
 

@@ -1,14 +1,14 @@
 ---
 title: Validate
 second_title: Aspose.PDF for .NET API 参考
-description: 验证文档到指定文件
+description: 验证文档到指定文件中
 type: docs
 weight: 770
 url: /zh/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
 
-验证文档到指定文件。
+验证文档到指定文件中。
 
 ```csharp
 public bool Validate(string outputLogFileName, PdfFormat format)
@@ -16,12 +16,12 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | String | 存储注释的文件路径。 |
-| format | PdfFormat | pdf 格式。 |
+| outputLogFileName | String | 将存储评论的文件路径。 |
+| format | PdfFormat | pdf格式。 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -34,7 +34,7 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 ## Validate(Stream, PdfFormat) {#validate_1}
 
-验证文档到指定文件。
+验证文档到指定文件中。
 
 ```csharp
 public bool Validate(Stream outputLogStream, PdfFormat format)
@@ -43,11 +43,11 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputLogStream | Stream | 将存储评论的流。 |
-| format | PdfFormat | pdf 格式。 |
+| format | PdfFormat | pdf格式。 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -60,7 +60,7 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 ## Validate(PdfFormatConversionOptions) {#validate}
 
-验证文档到指定文件。
+验证文档到指定文件中。
 
 ```csharp
 public bool Validate(PdfFormatConversionOptions options)
@@ -68,11 +68,11 @@ public bool Validate(PdfFormatConversionOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | 转换 PDF 文档的选项集 |
+| options | PdfFormatConversionOptions | 用于转换 PDF 文档的选项集 |
 
 ### 返回值
 
-操作结果
+运行结果
 
 ### 也可以看看
 

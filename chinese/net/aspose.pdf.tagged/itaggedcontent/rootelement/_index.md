@@ -1,14 +1,14 @@
 ---
 title: RootElement
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 PDF 文档逻辑结构的根StructureElementaspose.pdf.logicalstructure/structureelement
+description: 获取根StructureElementaspose.pdf.logicalstructure/structureelementPDF文档的逻辑结构
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/rootelement/
 ---
 ## ITaggedContent.RootElement property
 
-获取 PDF 文档逻辑结构的根[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement)。
+获取根[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement)PDF文档的逻辑结构。
 
 ```csharp
 public StructureElement RootElement { get; }
@@ -16,7 +16,7 @@ public StructureElement RootElement { get; }
 
 ### 适当的价值
 
-Root[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement)PDF 文档的逻辑结构。
+根[`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement)PDF文档的逻辑结构。
 
 ### 也可以看看
 

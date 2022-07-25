@@ -1,14 +1,14 @@
 ---
 title: RemoveSignatures
 second_title: Aspose.PDF для справочника API .NET
-description: При значении true все подписи будут удалены с полей поля останутся в противном случае вы можете получить недействительные подписи.
+description: Если true все подписи будут удалены из полей поля останутся в противном случае вы можете получить недействительные подписи.
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdffileeditor/removesignatures/
 ---
 ## PdfFileEditor.RemoveSignatures property
 
-При значении true все подписи будут удалены с полей (поля останутся); в противном случае вы можете получить недействительные подписи.
+Если true, все подписи будут удалены из полей (поля останутся); в противном случае вы можете получить недействительные подписи.
 
 ```csharp
 public bool RemoveSignatures { get; set; }

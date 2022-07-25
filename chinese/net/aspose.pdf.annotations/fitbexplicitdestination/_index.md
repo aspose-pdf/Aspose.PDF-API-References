@@ -1,14 +1,14 @@
 ---
 title: FitBExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 表示显示页面的显式目标其内容被放大到足以使其边界框在水平和垂直方向上完全适应窗口如果所需的水平和垂直放大系数不同请使用两者中较小的一个使边界框在另一个维度的窗口内居中
+description: 表示显示页面的显式目标其内容被放大到足以使其边界框在水平和垂直方向上完全适应窗口如果所需的水平和垂直放大系数不同请使用两者中较小的一个将边界框在另一个维度的窗口内居中
 type: docs
 weight: 350
 url: /zh/net/aspose.pdf.annotations/fitbexplicitdestination/
 ---
 ## FitBExplicitDestination class
 
-表示显示页面的显式目标，其内容被放大到足以使其边界框在水平和垂直方向上完全适应窗口。如果所需的水平和垂直放大系数不同，请使用两者中较小的一个，使边界框在另一个维度的窗口内居中。
+表示显示页面的显式目标，其内容被放大到足以使其边界框在水平和垂直方向上完全适应窗口。如果所需的水平和垂直放大系数不同，请使用两者中较小的一个，将边界框在另一个维度的窗口内居中。
 
 ```csharp
 public sealed class FitBExplicitDestination : ExplicitDestination
@@ -19,7 +19,7 @@ public sealed class FitBExplicitDestination : ExplicitDestination
 | 姓名 | 描述 |
 | --- | --- |
 | [FitBExplicitDestination](fitbexplicitdestination#constructor_2)(int) | 创建远程显式目标。 |
-| [FitBExplicitDestination](fitbexplicitdestination#constructor_1)(Page) | 创建本地显式目的地。 |
+| [FitBExplicitDestination](fitbexplicitdestination#constructor_1)(Page) | 创建本地显式目标。 |
 
 ## 特性
 
@@ -32,7 +32,7 @@ public sealed class FitBExplicitDestination : ExplicitDestination
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitbexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例:“1 FitB”。 |
+| override [ToString](../../aspose.pdf.annotations/fitbexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例：“1 FitB”. |
 
 ### 也可以看看
 

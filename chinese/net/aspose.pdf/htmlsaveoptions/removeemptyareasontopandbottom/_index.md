@@ -1,14 +1,14 @@
 ---
 title: RemoveEmptyAreasOnTopAndBottom
 second_title: Aspose.PDF for .NET API 参考
-description: 定义是否在创建的 HTML 中删除顶部和底部的空白区域而没有任何内容如果有
+description: 定义是否在创建的 HTML 中删除顶部和底部的空白区域没有任何内容如果有
 type: docs
 weight: 360
 url: /zh/net/aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/
 ---
 ## HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom field
 
-定义是否在创建的 HTML 中删除顶部和底部的空白区域而没有任何内容（如果有）。
+定义是否在创建的 HTML 中删除顶部和底部的空白区域，没有任何内容（如果有）。
 
 ```csharp
 public bool RemoveEmptyAreasOnTopAndBottom;

@@ -1,14 +1,14 @@
 ---
 title: MarkupSection
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет собой раздел разметки  прямоугольную область страницы которая содержит текст и может быть визуально отделена от других текстовых блоков.
+description: Представляет раздел разметки  прямоугольную область страницы которая содержит текст и может быть визуально отделена от других текстовых блоков.
 type: docs
 weight: 6820
 url: /ru/net/aspose.pdf.text/markupsection/
 ---
 ## MarkupSection class
 
-Представляет собой раздел разметки — прямоугольную область страницы, которая содержит текст и может быть визуально отделена от других текстовых блоков.
+Представляет раздел разметки — прямоугольную область страницы, которая содержит текст и может быть визуально отделена от других текстовых блоков.
 
 ```csharp
 public sealed class MarkupSection
@@ -18,8 +18,8 @@ public sealed class MarkupSection
 
 | Имя | Описание |
 | --- | --- |
-| [Fragments](../../aspose.pdf.text/markupsection/fragments) { get; } | Коллекция непустых[`TextFragment`](../textfragment)объектов, находящихся внутри секции. |
-| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs) { get; } | Коллекция объектов[`MarkupParagraph`](../markupparagraph), находящихся внутри раздела. |
+| [Fragments](../../aspose.pdf.text/markupsection/fragments) { get; } | Коллекция не пустая[`TextFragment`](../textfragment) объекты, находящиеся внутри раздела. |
+| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs) { get; } | Коллекция[`MarkupParagraph`](../markupparagraph) объекты, находящиеся внутри раздела. |
 | [Rectangle](../../aspose.pdf.text/markupsection/rectangle) { get; } | Прямоугольник сечения |
 
 ### Смотрите также

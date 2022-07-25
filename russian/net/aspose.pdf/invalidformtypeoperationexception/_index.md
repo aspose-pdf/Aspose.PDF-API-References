@@ -18,10 +18,10 @@ public sealed class InvalidFormTypeOperationException : InvalidOperationExceptio
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor)() | Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception). |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_1)(Exception) | Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_2)(string) | Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception). |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor)() | Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) класс. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_1)(Exception) | Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_2)(string) | Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) класс. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

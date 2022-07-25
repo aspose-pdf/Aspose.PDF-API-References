@@ -16,7 +16,7 @@ public void SubsetFonts(FontSubsetStrategy subsetStrategy)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| subsetStrategy | FontSubsetStrategy | Strategy |
+| subsetStrategy | FontSubsetStrategy | стратегия |
 
 ### Смотрите также
 

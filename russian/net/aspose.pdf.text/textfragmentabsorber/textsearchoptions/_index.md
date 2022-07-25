@@ -16,25 +16,25 @@ public TextSearchOptions TextSearchOptions { get; set; }
 
 ### Примеры
 
-Пример демонстрирует выполнение поиска текста с использованием регулярного выражения.
+В примере показано, как выполнить поиск текста с использованием регулярного выражения.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создать TextFragmentAbsorber object
-extFragmentAbsorber absorber = new TextFragmentAbsorber();
+// Создаем объект TextFragmentAbsorber
+TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-/ заставить поглотитель искать все слова, начинающиеся с "h" и заканчивающиеся на "o", используя регулярное выражение.
-bsorber.Phrase = @"h\w*?o";
-bsorber.TextSearchOptions = new TextSearchOptions(true);
+// заставить поглотитель искать все слова, начинающиеся с «h» и заканчивающиеся на «o», используя регулярное выражение.
+absorber.Phrase = @"h\w*?o";
+absorber.TextSearchOptions = new TextSearchOptions(true);
 
-// нам нужно найти слово "hello" и заменить его на "Hi"
-oc.Pages[1].Accept(absorber);
-bsorber.TextFragments[1].Text = "Hi"; 
+// мы должны найти слово "hello" и заменить его на "Hi"
+doc.Pages[1].Accept(absorber);
+absorber.TextFragments[1].Text = "Hi"; 
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также

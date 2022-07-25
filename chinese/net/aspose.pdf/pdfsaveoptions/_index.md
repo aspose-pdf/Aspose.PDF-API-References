@@ -25,10 +25,10 @@ public class PdfSaveOptions : SaveOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | 获取或设置布尔值，指示在文档保存到响应后将关闭响应对象。 |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname) { get; set; } | 计算机上不存在的字体默认使用的字体名称。 当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的 字体时，API 会将此字体替换为 默认字体（如果在设备上找到带有[`DefaultFontName`](./defaultfontname)的字体） |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | 数据保存格式。 |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname) { get; set; } | 计算机上不存在的字体默认使用的字体名称。 当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的 字体时，API 会将此字体替换为 默认字体（如果字体与[`DefaultFontName`](./defaultfontname)在设备上找到） |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | 数据保存的格式。 |
 | [TempPath](../../aspose.pdf/pdfsaveoptions/temppath) { get; set; } | 临时文件的路径。 |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，Save 操作会继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。 |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Save 操作继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。 |
 
 ### 也可以看看
 

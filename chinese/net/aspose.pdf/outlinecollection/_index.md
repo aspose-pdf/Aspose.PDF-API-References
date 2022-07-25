@@ -18,28 +18,28 @@ public sealed class OutlineCollection : Outlines
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Count](../../aspose.pdf/outlinecollection/count) { get; } | 收集项目的计数。请不要与 VisibleCount 混淆:VisibleCount 获取所有级别上可见大纲项目的数量。 |
-| [First](../../aspose.pdf/outlinecollection/first) { get; } | 获取表示大纲中第一个顶级项的大纲项。 |
+| override [Count](../../aspose.pdf/outlinecollection/count) { get; } | 收集项目的计数。请不要与 VisibleCount 混淆：VisibleCount 获取所有级别上可见大纲项目的数量。 |
+| [First](../../aspose.pdf/outlinecollection/first) { get; } | 获取代表大纲中第一个顶级项的大纲项。 |
 | override [IsReadOnly](../../aspose.pdf/outlinecollection/isreadonly) { get; } | 获取一个值，该值指示该集合是否为只读。 |
-| [IsSynchronized](../../aspose.pdf/outlinecollection/issynchronized) { get; } | 获取一个值，该值指示对该集合的访问是否同步（线程安全）。 |
+| [IsSynchronized](../../aspose.pdf/outlinecollection/issynchronized) { get; } | 获取一个值，该值指示对该集合的访问是否是同步的（线程安全的）。 |
 | [Item](../../aspose.pdf/outlinecollection/item) { get; } | 按索引从集合中获取大纲项。 |
 | [Last](../../aspose.pdf/outlinecollection/last) { get; } | 获取代表大纲中最后一个顶级项的大纲项。 |
 | [SyncRoot](../../aspose.pdf/outlinecollection/syncroot) { get; } | 获取可用于同步访问此集合的对象。 |
-| override [VisibleCount](../../aspose.pdf/outlinecollection/visiblecount) { get; } | Count 是所有级别可见的后代大纲项目数的总和。注意:如果集合中的项目，请不要与 Count 混淆，后者是数字。 |
+| override [VisibleCount](../../aspose.pdf/outlinecollection/visiblecount) { get; } | Count 是所有级别可见的后代大纲项目数的总和。注意：如果集合中的项目，请不要与 Count 混淆。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Add](../../aspose.pdf/outlinecollection/add)(OutlineItemCollection) | 将大纲项目添加到集合中。 |
+| override [Add](../../aspose.pdf/outlinecollection/add)(OutlineItemCollection) | 将大纲项添加到集合中。 |
 | override [Clear](../../aspose.pdf/outlinecollection/clear)() | 清除集合中的所有项目。 |
 | override [Contains](../../aspose.pdf/outlinecollection/contains)(OutlineItemCollection) | 检查集合是否包含给定项目。 |
-| override [CopyTo](../../aspose.pdf/outlinecollection/copyto)(OutlineItemCollection[], int) | 将大纲项复制到 System.Array，从特定的 System.Array 索引开始。 |
+| override [CopyTo](../../aspose.pdf/outlinecollection/copyto)(OutlineItemCollection[], int) | 将大纲项复制到 System.Array，从特定 System.Array 索引开始。 |
 | [Delete](../../aspose.pdf/outlinecollection/delete#delete)() | 从文档大纲中删除所有大纲项。 |
 | [Delete](../../aspose.pdf/outlinecollection/delete#delete_1)(string) | 从文档大纲中删除具有指定标题的大纲项。 |
 | override [GetEnumerator](../../aspose.pdf/outlinecollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | [Remove](../../aspose.pdf/outlinecollection/remove#remove_1)(int) | 按索引删除项目。 |
-| override [Remove](../../aspose.pdf/outlinecollection/remove#remove)(OutlineItemCollection) | 总是抛出 NotImplementedException |
+| override [Remove](../../aspose.pdf/outlinecollection/remove#remove)(OutlineItemCollection) | 总是抛出未实现异常 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Note
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаNoteaspose.pdf/note.
+description: Инициализирует новый экземплярNoteaspose.pdf/note класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/note/note/
 ---
 ## Note() {#constructor}
 
-Инициализирует новый экземпляр класса[`Note`](../../note).
+Инициализирует новый экземпляр[`Note`](../../note) класс.
 
 ```csharp
 public Note()
@@ -24,7 +24,7 @@ public Note()
 
 ## Note(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Note`](../../note).
+Инициализирует новый экземпляр[`Note`](../../note) класс.
 
 ```csharp
 public Note(string content)

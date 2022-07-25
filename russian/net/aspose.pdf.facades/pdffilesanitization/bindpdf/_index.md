@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF для справочника API .NET
-description: Связывает файл Pdf для Sanitize.
+description: Связывает файл PDF для Sanitize.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Связывает файл Pdf для Sanitize.
+Связывает файл PDF для Sanitize.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -28,7 +28,7 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Связывает поток Pdf для Sanitize.
+Связывает поток PDF для Sanitize.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -36,7 +36,7 @@ public override void BindPdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Редактируемый поток PDF. |
+| inputStream | Stream | Поток PDF для редактирования. |
 
 ### Смотрите также
 

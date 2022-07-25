@@ -31,18 +31,18 @@ public class StructureAttribute
 
 | Имя | Описание |
 | --- | --- |
-| [GetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue)() | Получает массив значений. |
-| [GetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/getarrayvalue)() | Получает массив имен значений. |
+| [GetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue)() | Получает массив значений значений. |
+| [GetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/getarrayvalue)() | Получает массив имени значения. |
 | [GetNameValue](../../aspose.pdf.logicalstructure/structureattribute/getnamevalue)() | Получает имя значения. |
 | [GetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getnumbervalue)() | Получает номер значения. |
 | [GetStringValue](../../aspose.pdf.logicalstructure/structureattribute/getstringvalue)() | Получает строку значения. |
 | [SetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue)(double?[]) |  |
 | [SetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/setarrayvalue)(AttributeName[]) | Задает массив имени значения. |
-| [SetColorValue](../../aspose.pdf.logicalstructure/structureattribute/setcolorvalue)(Color) | Устанавливает цвет значения. |
+| [SetColorValue](../../aspose.pdf.logicalstructure/structureattribute/setcolorvalue)(Color) | Задает цвет значения. |
 | [SetNameValue](../../aspose.pdf.logicalstructure/structureattribute/setnamevalue)(AttributeName) | Задает имя значения. |
-| [SetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setnumbervalue)(double) | Устанавливает номер значения. |
-| [SetRectangleValue](../../aspose.pdf.logicalstructure/structureattribute/setrectanglevalue)(Rectangle) | Устанавливает значение прямоугольника. |
-| [SetStringValue](../../aspose.pdf.logicalstructure/structureattribute/setstringvalue)(string) | Устанавливает строку значения. |
+| [SetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setnumbervalue)(double) | Задает номер значения. |
+| [SetRectangleValue](../../aspose.pdf.logicalstructure/structureattribute/setrectanglevalue)(Rectangle) | Задает прямоугольник значений. |
+| [SetStringValue](../../aspose.pdf.logicalstructure/structureattribute/setstringvalue)(string) | Задает строку значения. |
 
 ### Смотрите также
 

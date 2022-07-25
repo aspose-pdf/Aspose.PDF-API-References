@@ -1,14 +1,14 @@
 ---
 title: OutlineItemCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 PDF 文档大纲层次结构中的大纲条目
+description: 代表 PDF 文档大纲层次结构中的大纲条目
 type: docs
 weight: 5770
 url: /zh/net/aspose.pdf/outlineitemcollection/
 ---
 ## OutlineItemCollection class
 
-表示 PDF 文档大纲层次结构中的大纲条目。
+代表 PDF 文档大纲层次结构中的大纲条目。
 
 ```csharp
 public sealed class OutlineItemCollection : Outlines
@@ -27,38 +27,38 @@ public sealed class OutlineItemCollection : Outlines
 | [Action](../../aspose.pdf/outlineitemcollection/action) { get; set; } | 获取或设置此大纲项的操作。 |
 | [Bold](../../aspose.pdf/outlineitemcollection/bold) { get; set; } | 获取或设置此大纲项的标题文本的粗体标志 |
 | [Color](../../aspose.pdf/outlineitemcollection/color) { get; set; } | 获取或设置此大纲项的标题文本的颜色。 |
-| override [Count](../../aspose.pdf/outlineitemcollection/count) { get; } | 收集项目的计数。请不要与 VisibleCount 混淆:VisibleCount 获取所有级别上可见大纲项目的数量。 |
+| override [Count](../../aspose.pdf/outlineitemcollection/count) { get; } | 收集项目的计数。请不要与 VisibleCount 混淆：VisibleCount 获取所有级别上可见大纲项目的数量。 |
 | [Destination](../../aspose.pdf/outlineitemcollection/destination) { get; set; } | 获取或设置此大纲项的目的地。 |
 | [First](../../aspose.pdf/outlineitemcollection/first) { get; } | 获取代表大纲层次结构中第一个顶级项目的大纲项目。 |
-| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext) { get; } | 检查在大纲层次结构中代表下一个项目的大纲项目是否相对于该项目。 |
+| [HasNext](../../aspose.pdf/outlineitemcollection/hasnext) { get; } | 检查大纲项目是否代表大纲层次结构中的下一个项目。 |
 | override [IsReadOnly](../../aspose.pdf/outlineitemcollection/isreadonly) { get; } | 获取一个值，该值指示该集合是否为只读。 |
-| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized) { get; } | 获取指示对该集合的访问是否同步（线程安全）的值。 |
+| [IsSynchronized](../../aspose.pdf/outlineitemcollection/issynchronized) { get; } | 获取表示对该集合的访问是否同步（线程安全）的值。 |
 | [Italic](../../aspose.pdf/outlineitemcollection/italic) { get; set; } | 获取或设置此大纲项的标题文本的斜体标志 |
 | [Item](../../aspose.pdf/outlineitemcollection/item) { get; } | 使用索引从集合中获取大纲项。 |
 | [Last](../../aspose.pdf/outlineitemcollection/last) { get; } | 获取代表大纲层次结构中最后一个顶级项目的大纲项目。 |
-| [Level](../../aspose.pdf/outlineitemcollection/level) { get; } | 获取大纲项目的层次结构级别。 |
-| [Next](../../aspose.pdf/outlineitemcollection/next) { get; } | 获取在大纲层次结构中代表下一个项目的大纲项目。 |
+| [Level](../../aspose.pdf/outlineitemcollection/level) { get; } | 获取大纲项目的层级。 |
+| [Next](../../aspose.pdf/outlineitemcollection/next) { get; } | 在大纲层次结构中获取代表下一个项目的大纲项目。 |
 | [Open](../../aspose.pdf/outlineitemcollection/open) { get; set; } | 获取或设置大纲项目的打开状态（真/假）。 |
 | [Parent](../../aspose.pdf/outlineitemcollection/parent) { get; } | 获取大纲层次结构中此大纲项的父对象。 |
-| [Prev](../../aspose.pdf/outlineitemcollection/prev) { get; } | 获取在大纲层次结构中表示前一项相对于本项的大纲项。 |
+| [Prev](../../aspose.pdf/outlineitemcollection/prev) { get; } | 获取在大纲层次结构中相对于本项表示前一项的大纲项。 |
 | [SyncRoot](../../aspose.pdf/outlineitemcollection/syncroot) { get; } | 获取可用于同步访问此集合的对象。 |
 | [Title](../../aspose.pdf/outlineitemcollection/title) { get; set; } | 获取或设置此大纲项的标题。 |
-| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount) { get; } | 获取文档大纲层次结构中所有级别的大纲项的总数。 |
+| override [VisibleCount](../../aspose.pdf/outlineitemcollection/visiblecount) { get; } | 获取文档大纲层次结构中所有级别的大纲项总数。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Add](../../aspose.pdf/outlineitemcollection/add)(OutlineItemCollection) | 将大纲项目添加到集合中。 |
+| override [Add](../../aspose.pdf/outlineitemcollection/add)(OutlineItemCollection) | 将大纲项添加到集合中。 |
 | override [Clear](../../aspose.pdf/outlineitemcollection/clear)() | 清除集合中的所有项目。 |
 | override [Contains](../../aspose.pdf/outlineitemcollection/contains)(OutlineItemCollection) | 检查集合是否包含给定项目。 |
 | override [CopyTo](../../aspose.pdf/outlineitemcollection/copyto)(OutlineItemCollection[], int) | 将大纲条目复制到 System.Array，从特定的 System.Array 索引开始。 |
 | [Delete](../../aspose.pdf/outlineitemcollection/delete#delete)() | 从文档大纲层次结构中删除此大纲项。 |
 | [Delete](../../aspose.pdf/outlineitemcollection/delete#delete_1)(string) | 从文档大纲层次结构中删除具有指定名称的大纲条目。 |
 | override [GetEnumerator](../../aspose.pdf/outlineitemcollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
-| [Insert](../../aspose.pdf/outlineitemcollection/insert)(int, OutlineItemCollection) | 将大纲项插入到指定位置的集合中。 |
+| [Insert](../../aspose.pdf/outlineitemcollection/insert)(int, OutlineItemCollection) | 将大纲项目插入到指定位置的集合中。 |
 | [Remove](../../aspose.pdf/outlineitemcollection/remove#remove_1)(int) | 按索引删除项目。 |
-| override [Remove](../../aspose.pdf/outlineitemcollection/remove#remove)(OutlineItemCollection) | 移除大纲集合项。 |
+| override [Remove](../../aspose.pdf/outlineitemcollection/remove#remove)(OutlineItemCollection) | 删除大纲集合项。 |
 
 ### 也可以看看
 

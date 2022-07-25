@@ -16,7 +16,7 @@ public double MeasureString(string str, float fontSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| str | String | Строка. |
+| str | String | Струна. |
 | fontSize | Single | Размер шрифта. |
 
 ### Возвращаемое значение

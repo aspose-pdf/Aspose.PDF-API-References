@@ -1,14 +1,22 @@
 ---
 title: EndPage
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает конечную страницу в диапазоне страниц где будет выполняться операция извлечения.  ltcodegt PdfExtractor ext  new PdfExtractor ext.BindBdfsample.pdf ext.StartPage  2 ext.EndPage  3 ext.ExtractText lt/codegt
+description: Получает или задает конечную страницу в диапазоне страниц где будет выполняться операция извлечения.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/pdfextractor/endpage/
 ---
 ## PdfExtractor.EndPage property
 
-Получает или задает конечную страницу в диапазоне страниц, где будет выполняться операция извлечения.  &lt;code&gt; PdfExtractor ext = new PdfExtractor(); ext.BindBdf("sample.pdf"); ext.StartPage = 2; ext.EndPage = 3; ext.ExtractText(); &lt;/code&gt;
+Получает или задает конечную страницу в диапазоне страниц, где будет выполняться операция извлечения.
+
+```csharp
+PdfExtractor ext = new PdfExtractor();
+ext.BindBdf("sample.pdf");
+ext.StartPage = 2;
+ext.EndPage = 3;
+ext.ExtractText();
+```
 
 ```csharp
 public int EndPage { get; set; }

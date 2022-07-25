@@ -32,7 +32,7 @@ public PdfPageEditor(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 应该处理的文档对象。 |
+| document | Document | 应处理的文档对象。 |
 
 ### 也可以看看
 

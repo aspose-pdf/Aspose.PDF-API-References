@@ -17,7 +17,7 @@ public void ExportFromDataBase(string connectString, DataType dbType)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | connectString | String | Строка подключения к базе данных. |
-| dbType | DataType | Тип подключения:OLEDB или ODBC. |
+| dbType | DataType | Тип подключения: OLEDB или ODBC. |
 
 ### Примеры
 

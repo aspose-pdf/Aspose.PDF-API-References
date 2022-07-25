@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает информацию о странице документа
+description: Получает или задает информацию о странице документа
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/mhtloadoptions/pageinfo/
 ---
 ## MhtLoadOptions.PageInfo property
 
-Получает или устанавливает информацию о странице документа
+Получает или задает информацию о странице документа
 
 ```csharp
 public PageInfo PageInfo { get; }

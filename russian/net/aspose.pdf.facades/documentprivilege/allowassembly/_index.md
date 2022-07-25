@@ -1,14 +1,14 @@
 ---
 title: AllowAssembly
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает разрешение разрешающее сборку или нет. true разрешает false запрещает.
+description: Устанавливает разрешение разрешающее сборку или нет. true  разрешено false  запрещено.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
 ## DocumentPrivilege.AllowAssembly property
 
-Устанавливает разрешение, разрешающее сборку или нет. true разрешает, false запрещает.
+Устанавливает разрешение, разрешающее сборку или нет. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowAssembly { get; set; }

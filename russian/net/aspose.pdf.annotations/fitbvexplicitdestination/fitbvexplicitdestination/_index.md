@@ -17,7 +17,7 @@ public FitBVExplicitDestination(Page page, double left)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Объект целевой страницы. |
-| left | Double | Горизонтальная координата слева от левого края окна. |
+| left | Double | Горизонтальная координата слева расположена на левом краю окна. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public FitBVExplicitDestination(Page page, double left)
 
 ## FitBVExplicitDestination(int, double) {#constructor_2}
 
-Создает явный удаленный пункт назначения.
+Создает удаленный явный пункт назначения.
 
 ```csharp
 public FitBVExplicitDestination(int pageNumber, double left)
@@ -39,7 +39,7 @@ public FitBVExplicitDestination(int pageNumber, double left)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageNumber | Int32 | Номер целевой страницы удаленного документа. |
-| left | Double | Горизонтальная координата слева от левого края окна. |
+| left | Double | Горизонтальная координата слева расположена на левом краю окна. |
 
 ### Смотрите также
 

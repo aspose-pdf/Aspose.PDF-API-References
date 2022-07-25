@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API 参考
-description: 接受 IOperatorSelector 访问者对象来处理操作符
+description: 接受 IOperatorSelector 访问者对象来处理操作员
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/operatorcollection/accept/
 ---
 ## OperatorCollection.Accept method
 
-接受 IOperatorSelector 访问者对象来处理操作符。
+接受 IOperatorSelector 访问者对象来处理操作员。
 
 ```csharp
 public void Accept(IOperatorSelector visitor)
@@ -16,7 +16,7 @@ public void Accept(IOperatorSelector visitor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | 访问者对象 |
+| visitor | IOperatorSelector | 访客对象 |
 
 ### 也可以看看
 

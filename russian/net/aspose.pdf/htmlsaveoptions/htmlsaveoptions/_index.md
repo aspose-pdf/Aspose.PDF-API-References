@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаHtmlSaveOptionsaspose.pdf/htmlsaveoptions.
+description: Инициализирует новый экземплярHtmlSaveOptionsaspose.pdf/htmlsaveoptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
 ---
 ## HtmlSaveOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`HtmlSaveOptions`](../../htmlsaveoptions).
+Инициализирует новый экземпляр[`HtmlSaveOptions`](../../htmlsaveoptions) класс.
 
 ```csharp
 public HtmlSaveOptions()
@@ -24,7 +24,7 @@ public HtmlSaveOptions()
 
 ## HtmlSaveOptions(HtmlDocumentType) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`HtmlSaveOptions`](../../htmlsaveoptions).
+Инициализирует новый экземпляр[`HtmlSaveOptions`](../../htmlsaveoptions) класс.
 
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType)
@@ -45,7 +45,7 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 
 ## HtmlSaveOptions(bool) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`HtmlSaveOptions`](../../htmlsaveoptions).
+Инициализирует новый экземпляр[`HtmlSaveOptions`](../../htmlsaveoptions) класс.
 
 ```csharp
 public HtmlSaveOptions(bool fixedLayout)
@@ -53,7 +53,7 @@ public HtmlSaveOptions(bool fixedLayout)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fixedLayout | Boolean | , если установлено значение` true` HTML создается как фиксированный макет. |
+| fixedLayout | Boolean | если установлено`истинный`HTML создается как фиксированный макет. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public HtmlSaveOptions(bool fixedLayout)
 
 ## HtmlSaveOptions(HtmlDocumentType, bool) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`HtmlSaveOptions`](../../htmlsaveoptions).
+Инициализирует новый экземпляр[`HtmlSaveOptions`](../../htmlsaveoptions) класс.
 
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
@@ -74,7 +74,7 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | documentType | HtmlDocumentType | [`HtmlDocumentType`](../../htmldocumenttype). |
-| fixedLayout | Boolean | , если установлено значение` true` HTML создается как фиксированный макет. |
+| fixedLayout | Boolean | если установлено`истинный`HTML создается как фиксированный макет. |
 
 ### Смотрите также
 

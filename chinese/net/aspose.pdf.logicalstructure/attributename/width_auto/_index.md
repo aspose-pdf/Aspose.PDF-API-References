@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/width_auto/
 ---
 ## AttributeName.Width_Auto field
 
-属性宽度:自动 - 元素的宽度应由其内容的固有宽度确定。
+属性宽度：自动 - 元素的宽度应由其内容的固有宽度确定。
 
 ```csharp
 public static readonly AttributeName Width_Auto;

@@ -1,14 +1,14 @@
 ---
 title: PDF3DCuttingPlaneOrientation
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DCuttingPlaneOrientationaspose.pdf.annotations/pdf3dcuttingplaneorientation.
+description: Инициализирует новый экземплярPDF3DCuttingPlaneOrientationaspose.pdf.annotations/pdf3dcuttingplaneorientation класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/
 ---
 ## PDF3DCuttingPlaneOrientation() {#constructor}
 
-Инициализирует новый экземпляр класса[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation).
+Инициализирует новый экземпляр[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation) класс.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation()
@@ -24,7 +24,7 @@ public PDF3DCuttingPlaneOrientation()
 
 ## PDF3DCuttingPlaneOrientation(double?, double?, double?) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation).
+Инициализирует новый экземпляр[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation) класс.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angleZ)
@@ -32,9 +32,9 @@ public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angleX | Nullable`1 | Угол x. |
-| angleY | Nullable`1 | Угол y. |
-| angleZ | Nullable`1 | Угол z. |
+| angleX | Nullable`1 | Угол х. |
+| angleY | Nullable`1 | Угол у. |
+| angleZ | Nullable`1 | Угол з. |
 
 ### Смотрите также
 

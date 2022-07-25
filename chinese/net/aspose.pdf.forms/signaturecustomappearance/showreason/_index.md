@@ -1,14 +1,14 @@
 ---
 title: ShowReason
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置原因可见性默认值真
+description: 获取/设置原因可见性默认值true.
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/showreason/
 ---
 ## SignatureCustomAppearance.ShowReason property
 
-获取/设置原因可见性。默认值:真。
+获取/设置原因可见性。默认值：true.
 
 ```csharp
 public bool ShowReason { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DashArray
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает массив тире.
+description: Получает или задает массив штрихов.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/graphinfo/dasharray/
 ---
 ## GraphInfo.DashArray property
 
-Получает или задает массив тире.
+Получает или задает массив штрихов.
 
 ```csharp
 public int[] DashArray { get; set; }

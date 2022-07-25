@@ -1,14 +1,14 @@
 ---
 title: Brightness
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置颜色转换为白色和黑色的值边界 此参数可与 EncoderValue.CompressionCCITT4EncoderValue.CompressionCCITT3EncoderValue.CompressionRle 或 ColorDepth.Format1bpp 一起应用  1
+description: 获取或设置颜色转换为白色和黑色的值边界 此参数可与 EncoderValue.CompressionCCITT4EncoderValue.CompressionCCITT3EncoderValue.CompressionRle 或 ColorDepth.Format1bpp  1 一起应用
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.devices/tiffsettings/brightness/
 ---
 ## TiffSettings.Brightness property
 
-获取或设置颜色转换为白色和黑色的值边界。 此参数可与 EncoderValue.CompressionCCITT4、EncoderValue.CompressionCCITT3、EncoderValue.CompressionRle 或 ColorDepth.Format1bpp 一起应用 == 1
+获取或设置颜色转换为白色和黑色的值边界。 此参数可与 EncoderValue.CompressionCCITT4、EncoderValue.CompressionCCITT3、EncoderValue.CompressionRle 或 ColorDepth.Format1bpp == 1 一起应用
 
 ```csharp
 public float Brightness { get; set; }

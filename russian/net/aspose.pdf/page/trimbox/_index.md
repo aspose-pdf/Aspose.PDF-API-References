@@ -1,14 +1,14 @@
 ---
 title: TrimBox
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает поле обрезки страницы.
+description: Получает или задает поле обрезки страницы.
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf/page/trimbox/
 ---
 ## Page.TrimBox property
 
-Получает или устанавливает поле обрезки страницы.
+Получает или задает поле обрезки страницы.
 
 ```csharp
 public Rectangle TrimBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle TrimBox { get; set; }
 
 ### Примеры
 
-Пример демонстрирует, как получить поле обрезки страницы:
+Пример демонстрирует, как получить блок обрезки страницы:
 
 ```csharp
 Document document = new Document("sample.pdf");

@@ -1,14 +1,14 @@
 ---
 title: LI
 second_title: Aspose.PDF for .NET API 参考
-description: 列表项列表的单个成员它的孩子可能是一个或多个标签列表体或两者兼有结构类型 Lbl 或 LBody
+description: 列表项列表的单个成员它的子元素可能是一个或多个标签列表体或两者兼有结构类型 Lbl 或 LBody
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/li/
 ---
 ## StructureTypeStandard.LI field
 
-（列表项）列表的单个成员。它的孩子可能是一个或多个标签、列表体，或两者兼有（结构类型 Lbl 或 LBody）。
+（列表项）列表的单个成员。它的子元素可能是一个或多个标签、列表体，或两者兼有（结构类型 Lbl 或 LBody）。
 
 ```csharp
 public static readonly StructureTypeStandard LI;

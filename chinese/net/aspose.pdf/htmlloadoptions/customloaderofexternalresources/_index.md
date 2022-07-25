@@ -1,14 +1,14 @@
 ---
 title: CustomLoaderOfExternalResources
 second_title: Aspose.PDF for .NET API 参考
-description: 有时有必要避免使用外部资源如图像或 CSS的内部加载器 并提供自定义方法来获取请求的资源某处例如在 cloude 中使用 Aspose.PDF 的 时无法直接访问引用的文件在这种情况下应使用一些自定义代码将 放入特殊方法中并委托引用该方法应分配给该属性
+description: 有时有必要避免使用外部资源如图像或 CSSes的内部加载器 并提供从某处获取请求资源的自定义方法例如在 cloude 中使用 Aspose.PDF 的 时不可能直接访问引用的文件在这种情况下应该使用一些自定义代码 put 到特殊方法中并且应该将引用该方法的委托分配给该属性
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/htmlloadoptions/customloaderofexternalresources/
 ---
 ## HtmlLoadOptions.CustomLoaderOfExternalResources field
 
-有时有必要避免使用外部资源（如图像或 CSS）的内部加载器 并提供自定义方法来获取请求的资源某处。例如，在 cloude 中使用 Aspose.PDF 的 时，无法直接访问引用的文件:在这种情况下，应使用一些自定义代码将 放入特殊方法中，并委托引用该方法应分配给该属性。
+有时有必要避免使用外部资源（如图像或 CSSes）的内部加载器 并提供从某处获取请求资源的自定义方法。例如，在 cloude 中使用 Aspose.PDF 的 时，不可能直接访问引用的文件：在这种情况下，应该使用一些自定义代码 put 到特殊方法中，并且应该将引用该方法的委托分配给该属性。
 
 ```csharp
 public ResourceLoadingStrategy CustomLoaderOfExternalResources;

@@ -18,7 +18,7 @@ public class SetTextMatrix : TextPlaceOperator
 
 | Имя | Описание |
 | --- | --- |
-| [SetTextMatrix](settextmatrix#constructor)(Matrix) | Инициализирует оператор матрицей. |
+| [SetTextMatrix](settextmatrix#constructor)(Matrix) | Инициализирует оператор по матрице. |
 | [SetTextMatrix](settextmatrix#constructor_1)(double, double, double, double, double, double) | Инициализирует оператор. |
 
 ## Характеристики
@@ -32,7 +32,7 @@ public class SetTextMatrix : TextPlaceOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextmatrix/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/settextmatrix/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/settextmatrix/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

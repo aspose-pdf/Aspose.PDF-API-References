@@ -16,7 +16,7 @@ public static ColorType DetectColorType(Bitmap bmp)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bmp | Bitmap | 图像。 |
+| bmp | Bitmap | 图片。 |
 
 ### 返回值
 

@@ -1,14 +1,14 @@
 ---
 title: RightMargin
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置结果页面的右边距
+description: 获取或设置结果页的右边距
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.RightMargin property
 
-获取或设置结果页面的右边距。
+获取或设置结果页的右边距。
 
 ```csharp
 public ContentsResizeValue RightMargin { get; set; }

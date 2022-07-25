@@ -1,14 +1,14 @@
 ---
 title: StampType
 second_title: Aspose.PDF for .NET API 参考
-description: 获取戳记类型图像/表格
+description: 获取印章类型图像/表格
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/stampinfo/stamptype/
 ---
 ## StampInfo.StampType property
 
-获取戳记类型（图像/表格）。
+获取印章类型（图像/表格）。
 
 ```csharp
 public StampType StampType { get; }

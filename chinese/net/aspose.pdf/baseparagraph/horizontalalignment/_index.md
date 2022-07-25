@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置段落的水平对齐方式
+description: 获取或设置段落 的水平对齐方式
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/baseparagraph/horizontalalignment/
 ---
 ## BaseParagraph.HorizontalAlignment property
 
-获取或设置段落的水平对齐方式
+获取或设置段落 的水平对齐方式
 
 ```csharp
 public virtual HorizontalAlignment HorizontalAlignment { get; set; }

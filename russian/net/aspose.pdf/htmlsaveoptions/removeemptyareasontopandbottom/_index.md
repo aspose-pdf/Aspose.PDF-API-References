@@ -1,14 +1,14 @@
 ---
 title: RemoveEmptyAreasOnTopAndBottom
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет будут ли в созданном HTML удаляться верхняя и нижняя пустые области без какого-либо содержимого если оно есть.
+description: Определяет будут ли в созданном HTML удаляться верхняя и нижняя пустые области без содержимого если оно есть.
 type: docs
 weight: 360
 url: /ru/net/aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/
 ---
 ## HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom field
 
-Определяет, будут ли в созданном HTML удаляться верхняя и нижняя пустые области без какого-либо содержимого (если оно есть).
+Определяет, будут ли в созданном HTML удаляться верхняя и нижняя пустые области без содержимого (если оно есть).
 
 ```csharp
 public bool RemoveEmptyAreasOnTopAndBottom;

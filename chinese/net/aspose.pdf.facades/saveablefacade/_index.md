@@ -28,8 +28,8 @@ public abstract class SaveableFacade : Facade, ISaveableFacade
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | 初始化外观。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | 初始化外观。 |
 | virtual [Close](../../aspose.pdf.facades/facade/close)() | 处理与外观绑定的 Aspose.Pdf.Document。 |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 配置外观。 |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save#save)(Stream) | 将 PDF 文档保存到指定的流。 |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 处理外观。 |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save#save)(Stream) | 将 PDF 文档保存到指定的流中。 |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save#save_1)(string) | 将 PDF 文档保存到指定文件。 |
 
 ### 也可以看看

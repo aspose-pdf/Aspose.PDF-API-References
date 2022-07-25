@@ -1,14 +1,14 @@
 ---
 title: AppendLine
 second_title: Aspose.PDF for .NET API 参考
-description: 追加文本行
+description: 附加文本行
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.text/textparagraph/appendline/
 ---
 ## AppendLine(string) {#appendline_3}
 
-追加文本行
+附加文本行
 
 ```csharp
 public void AppendLine(string line)
@@ -37,7 +37,7 @@ public void AppendLine(string line, float lineSpacing)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | line | String | 新行的文本。 |
-| lineSpacing | Single | 附加间距（0.0 是默认值，对应于默认文本行高）。 间距值被添加到特定行的默认行间距中，因此您可以指定 12.0 以在使用 12pt 字体绘制的文本行之后获得空行。 |
+| lineSpacing | Single | 附加间距（默认为 0.0，对应于默认文本行高）。 间距值添加到特定行的默认行间距，因此您可以指定 12.0 以在使用 12pt 字体绘制的文本行之后获得空行。 |
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public void AppendLine(string line, float lineSpacing)
 
 ## AppendLine(string, TextState) {#appendline_4}
 
-附加带有文本状态参数的文本行。
+使用文本状态参数附加文本行。
 
 ```csharp
 public void AppendLine(string line, TextState textState)
@@ -71,7 +71,7 @@ public void AppendLine(string line, TextState textState)
 
 ## AppendLine(string, TextState, float) {#appendline_5}
 
-附加文本行和文本状态参数
+附加带有文本状态参数的文本行
 
 ```csharp
 public void AppendLine(string line, TextState textState, float lineSpacing)
@@ -81,7 +81,7 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 | --- | --- | --- |
 | line | String | 新行的文本。 |
 | textState | TextState | 新行的文本状态。 |
-| lineSpacing | Single | 附加间距（0.0 是默认值，对应于默认文本行高）。 间距值被添加到特定行的默认行间距中，因此您可以指定 12.0 以在使用 12pt 字体绘制的文本行之后获得空行。 |
+| lineSpacing | Single | 附加间距（默认为 0.0，对应于默认文本行高）。 间距值添加到特定行的默认行间距，因此您可以指定 12.0 以在使用 12pt 字体绘制的文本行之后获得空行。 |
 
 ### 也可以看看
 
@@ -94,7 +94,7 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 
 ## AppendLine(TextFragment) {#appendline}
 
-附加带有文本状态参数的文本行。
+使用文本状态参数附加文本行。
 
 ```csharp
 public void AppendLine(TextFragment line)
@@ -115,7 +115,7 @@ public void AppendLine(TextFragment line)
 
 ## AppendLine(TextFragment, TextState) {#appendline_1}
 
-附加带有文本状态参数的文本行。
+使用文本状态参数附加文本行。
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState)
@@ -138,7 +138,7 @@ public void AppendLine(TextFragment line, TextState textState)
 
 ## AppendLine(TextFragment, TextState, float) {#appendline_2}
 
-附加文本行和文本状态参数
+附加带有文本状态参数的文本行
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState, float lineSpacing)
@@ -148,7 +148,7 @@ public void AppendLine(TextFragment line, TextState textState, float lineSpacing
 | --- | --- | --- |
 | line | TextFragment | 新行的文本。 |
 | textState | TextState | 新行的文本状态。 |
-| lineSpacing | Single | 附加间距（0.0 是默认值，对应于默认文本行高）。 间距值被添加到特定行的默认行间距中，因此您可以指定 12.0 以在使用 12pt 字体绘制的文本行之后获得空行。 |
+| lineSpacing | Single | 附加间距（默认为 0.0，对应于默认文本行高）。 间距值添加到特定行的默认行间距，因此您可以指定 12.0 以在使用 12pt 字体绘制的文本行之后获得空行。 |
 
 ### 也可以看看
 

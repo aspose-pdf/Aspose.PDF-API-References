@@ -1,14 +1,14 @@
 ---
 title: TopMargin
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置戳记的上边距
+description: 获取或设置邮票的上边距
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/stamp/topmargin/
 ---
 ## Stamp.TopMargin property
 
-获取或设置戳记的上边距。
+获取或设置邮票的上边距。
 
 ```csharp
 public double TopMargin { get; set; }

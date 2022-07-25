@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/scope_both/
 ---
 ## AttributeName.Scope_Both field
 
-属性范围:两者。
+属性范围：两者。
 
 ```csharp
 public static readonly AttributeName Scope_Both;

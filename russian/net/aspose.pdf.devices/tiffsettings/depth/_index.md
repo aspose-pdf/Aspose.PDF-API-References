@@ -20,7 +20,7 @@ public ColorDepth Depth { get; set; }
 
 ### Примечания
 
-Значение по умолчанию:ColorDepth.Default
+Значение по умолчанию — ColorDepth.Default
 
 ### Смотрите также
 

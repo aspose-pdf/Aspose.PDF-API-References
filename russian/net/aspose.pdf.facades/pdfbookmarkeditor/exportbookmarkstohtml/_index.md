@@ -17,7 +17,7 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inPdfFile | String | Введите PDF-файл, закладки которого будут экспортированы. |
-| outHtmlFile | String | Выходной файл HTML |
+| outHtmlFile | String | Выходной HTML-файл |
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Solid
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleSolid  граница представляет собой один сегмент линии.
+description: Атрибут BorderStyle Solid  граница представляет собой один сегмент линии.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_solid/
 ---
 ## AttributeName.BorderStyle_Solid field
 
-Атрибут BorderStyle:Solid — граница представляет собой один сегмент линии.
+Атрибут BorderStyle: Solid — граница представляет собой один сегмент линии.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Solid;

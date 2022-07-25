@@ -27,26 +27,25 @@ Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-  // 创建文本段落
+// 创建文本段落
 TextParagraph paragraph = new TextParagraph();
            
-  // 设置段落 rectangle
+// 设置段落矩形
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-  // 设置自动换行选项
+// 设置自动换行选项
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-  // 追加字符串lines
+// 追加字符串行
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-  // 使用 TextBuilder
-页面
+// 使用 TextBuilder 将段落附加到 Pdf 页面
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// 保存 Pdf 文档
+//保存PDF文档
 doc.Save(outFile);
 ```
 

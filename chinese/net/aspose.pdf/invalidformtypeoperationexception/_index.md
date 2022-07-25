@@ -18,10 +18,10 @@ public sealed class InvalidFormTypeOperationException : InvalidOperationExceptio
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor)() | 初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception)类的新实例。 |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_1)(Exception) | 使用指定的错误消息初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) 类的新实例以及对导致此异常的内部异常的引用。 |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_2)(string) | 初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception)类的新实例。 |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_3)(string, Exception) | 使用指定的错误消息初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception) 类的新实例以及对导致此异常的内部异常的引用。 |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor)() | 初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception)类. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_1)(Exception) | 初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_2)(string) | 初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception)类. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception#constructor_3)(string, Exception) | 初始化[`InvalidFormTypeOperationException`](../invalidformtypeoperationexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

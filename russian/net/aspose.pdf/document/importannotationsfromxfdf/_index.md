@@ -16,7 +16,7 @@ public void ImportAnnotationsFromXfdf(string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя файла XFDF |
+| fileName | String | Имя XFDF-файла |
 
 ### Смотрите также
 

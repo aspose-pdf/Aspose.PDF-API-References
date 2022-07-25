@@ -1,14 +1,14 @@
 ---
 title: CopyLogicalStructure
 second_title: Aspose.PDF для справочника API .NET
-description: Если true то при выполнении конкатенации копируется логическая структура файла.
+description: Если true то логическая структура файла копируется при выполнении конкатенации.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/
 ---
 ## PdfFileEditor.CopyLogicalStructure property
 
-Если true, то при выполнении конкатенации копируется логическая структура файла.
+Если true, то логическая структура файла копируется при выполнении конкатенации.
 
 ```csharp
 public bool CopyLogicalStructure { get; set; }

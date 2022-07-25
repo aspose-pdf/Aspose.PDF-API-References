@@ -17,7 +17,7 @@ public void AddCustomData(string name, Stream data)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | name | String | Имя данных. |
-| данные | Stream | Данные. |
+| data | Stream | Данные. |
 
 ### Смотрите также
 

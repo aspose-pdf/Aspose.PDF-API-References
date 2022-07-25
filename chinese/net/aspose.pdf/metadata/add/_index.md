@@ -16,7 +16,7 @@ public void Add(string key, XmpValue value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 要添加的密钥。 |
+| key | String | 要添加的关键。 |
 | value | XmpValue | 将被添加的值。 |
 
 ### 也可以看看
@@ -38,7 +38,7 @@ public void Add(string key, object value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 要添加的密钥。 |
+| key | String | 要添加的关键。 |
 | value | Object | 将被添加的值。 |
 
 ### 也可以看看
@@ -51,7 +51,7 @@ public void Add(string key, object value)
 
 ## Add(string, XmpPdfAExtensionObject) {#add_1}
 
-将 pdf 扩展名添加到元数据。
+为元数据添加 pdf 扩展名。
 
 ```csharp
 public void Add(string prefix, XmpPdfAExtensionObject value)

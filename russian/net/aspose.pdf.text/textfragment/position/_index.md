@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает позицию текста для текста представленного объектомTextFragmentaspose.pdf.text/textfragment.
+description: Получает или задает позицию текста для текста представленногоTextFragmentaspose.pdf.text/textfragment объект.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/textfragment/position/
 ---
 ## TextFragment.Position property
 
-Получает или задает позицию текста для текста, представленного объектом[`TextFragment`](../../textfragment).
+Получает или задает позицию текста для текста, представленного[`TextFragment`](../../textfragment) объект.
 
 ```csharp
 public Position Position { get; set; }
@@ -16,24 +16,24 @@ public Position Position { get; set; }
 
 ### Примеры
 
-В примере показано, как просмотреть размещение текста, представленного[`TextFragment`](../../textfragment)объект.
+В примере показано, как просмотреть размещение текста, представленного[`TextFragment`](../../textfragment) объект.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Просмотр текста и информации о размещении первого текста вхождения
-extFragment firstOccurrence = absorber.TextFragments[1];
+// Просмотр текста и информации о размещении первого вхождения текста
+TextFragment firstOccurrence = absorber.TextFragments[1];
 
-onsole.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
-onsole.Out.WriteLine(string.Format("fragment X indent: {0}", firstOccurrence.Position.XIndent));
-onsole.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Position.YIndent));
+Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
+Console.Out.WriteLine(string.Format("fragment X indent: {0}", firstOccurrence.Position.XIndent));
+Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Position.YIndent));
 
 ```
 

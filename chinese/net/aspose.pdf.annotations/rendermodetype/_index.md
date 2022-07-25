@@ -1,14 +1,14 @@
 ---
 title: RenderModeType
 second_title: Aspose.PDF for .NET API 参考
-description: Enum RenderModeType渲染模式类型集
+description: 枚举 RenderModeType渲染模式类型集
 type: docs
 weight: 970
 url: /zh/net/aspose.pdf.annotations/rendermodetype/
 ---
 ## RenderModeType enumeration
 
-Enum RenderModeType:渲染模式类型集
+枚举 RenderModeType：渲染模式类型集
 
 ```csharp
 public enum RenderModeType
@@ -25,7 +25,7 @@ public enum RenderModeType
 | BoundingBox | `4` | “边界框”渲染模式。 |
 | TransparentBoundingBox | `5` | “TransparentBoundingBox”渲染模式。 |
 | TransparentBoundingBoxOutline | `6` | “TransparentBoundingBoxOutline”渲染模式。 |
-| Wireframe | `7` | "WireFrame" 渲染模式。 |
+| Wireframe | `7` | “线框”渲染模式。 |
 | ShadedWireframe | `8` | “ShadedWireFrame”渲染模式。 |
 | Vertices | `9` | “顶点”渲染模式。 |
 | ShadedVertices | `10` | “ShadedVertices”渲染模式。 |

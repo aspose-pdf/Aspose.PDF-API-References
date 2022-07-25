@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示图形高度的浮点值 单位是点
+description: 获取或设置表示图形高度的浮点值 单位为点
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.drawing/graph/height/
 ---
 ## Graph.Height property
 
-获取或设置表示图形高度的浮点值。 单位是点。
+获取或设置表示图形高度的浮点值。 单位为点。
 
 ```csharp
 public double Height { get; set; }

@@ -20,22 +20,22 @@ public class ShowText : TextShowOperator
 | --- | --- |
 | [ShowText](showtext#constructor)() | 初始化 Tj 运算符。 |
 | [ShowText](showtext#constructor_2)(string) | 初始化 Tj 运算符。 |
-| [ShowText](showtext#constructor_1)(int, string) | 初始化 Tj opearor。 |
-| [ShowText](showtext#constructor_3)(string, Font) | 初始化 Tj opearor。 |
+| [ShowText](showtext#constructor_1)(int, string) | 初始化 Tj 操作符。 |
+| [ShowText](showtext#constructor_3)(string, Font) | 初始化 Tj opearor. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | 页面运算符列表中的运算符索引。 |
-| override [Text](../../aspose.pdf.operators/showtext/text) { get; set; } | 运算符文本。 |
+| override [Text](../../aspose.pdf.operators/showtext/text) { get; set; } | 运算符的文本。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/showtext/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/showtext/tostring)() | 生成运算符的文本代码。 |
+| override [ToString](../../aspose.pdf.operators/showtext/tostring)() | 产生运算符的文本代码。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Encoding
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает формат кодирования для демонстрационных данных.
+description: Получает или задает формат кодирования для данных выборки.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/sounddata/encoding/
 ---
 ## SoundData.Encoding property
 
-Получает или задает формат кодирования для демонстрационных данных.
+Получает или задает формат кодирования для данных выборки.
 
 ```csharp
 public SoundEncoding Encoding { get; set; }

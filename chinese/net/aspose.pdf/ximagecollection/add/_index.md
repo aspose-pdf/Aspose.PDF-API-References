@@ -16,11 +16,11 @@ public string Add(XImage image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | XImage | XImage 要添加。 |
+| image | XImage | 要添加的 XImage。 |
 
 ### 返回值
 
-添加图像的名称。
+添加的图像的名称。
 
 ### 也可以看看
 
@@ -41,11 +41,11 @@ public string Add(Stream image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Stream | 包含图像数据的流（JPEG格式）。 |
+| image | Stream | 包含图像数据的流（JPEG 格式）。 |
 
 ### 返回值
 
-添加图像的名称。
+添加的图像的名称。
 
 ### 也可以看看
 
@@ -87,7 +87,7 @@ public void Add(Stream image, int quality)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Stream | 包含图像数据的流（JPEG格式）。 |
+| image | Stream | 包含图像数据的流（JPEG 格式）。 |
 | quality | Int32 | JPEG 质量。 |
 
 ### 也可以看看

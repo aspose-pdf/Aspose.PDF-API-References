@@ -25,9 +25,9 @@ public sealed class FontColor
 
 | Имя | Описание |
 | --- | --- |
-| [Blue](../../aspose.pdf.facades/fontcolor/blue) { get; set; } | Синяя составляющая цвета. |
-| [Green](../../aspose.pdf.facades/fontcolor/green) { get; set; } | Зеленая составляющая цвета. |
-| [Red](../../aspose.pdf.facades/fontcolor/red) { get; set; } | Красная составляющая цвета. |
+| [Blue](../../aspose.pdf.facades/fontcolor/blue) { get; set; } | Синий компонент цвета. |
+| [Green](../../aspose.pdf.facades/fontcolor/green) { get; set; } | Зеленый компонент цвета. |
+| [Red](../../aspose.pdf.facades/fontcolor/red) { get; set; } | Красный компонент цвета. |
 
 ### Смотрите также
 

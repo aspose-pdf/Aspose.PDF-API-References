@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Aspose.PDF для справочника API .NET
-description: Получает разрешение в точках на дюйм dpi при котором отображается объект штрих-кода.
+description: Получает разрешение в точках на дюйм т/д при котором отображается объект штрих-кода.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/barcodefield/resolution/
 ---
 ## BarcodeField.Resolution property
 
-Получает разрешение в точках на дюйм (dpi), при котором отображается объект штрих-кода.
+Получает разрешение в точках на дюйм (т/д), при котором отображается объект штрих-кода.
 
 ```csharp
 public int Resolution { get; }

@@ -1,14 +1,14 @@
 ---
 title: Process
 second_title: Aspose.PDF для справочника API .NET
-description: Каждое устройство представляет некоторую операцию над документом например мы можем преобразовать документ pdf в другой формат.
+description: Каждое устройство представляет некоторую операцию над документом например мы можем преобразовать документ PDF в другой формат.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/documentdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-Каждое устройство представляет некоторую операцию над документом, например, мы можем преобразовать документ pdf в другой формат.
+Каждое устройство представляет некоторую операцию над документом, например, мы можем преобразовать документ PDF в другой формат.
 
 ```csharp
 public abstract void Process(Document document, int fromPage, int toPage, Stream output)
@@ -18,7 +18,7 @@ public abstract void Process(Document document, int fromPage, int toPage, Stream
 | --- | --- | --- |
 | document | Document | Документ для обработки. |
 | fromPage | Int32 | Определяет страницу, с которой следует начать обработку. |
-| toPage | Int32 | Определяет последнюю обрабатываемую страницу. |
+| toPage | Int32 | Определяет последнюю страницу для обработки. |
 | output | Stream | Определяет поток, в котором хранятся результаты обработки. |
 
 ### Смотрите также
@@ -63,7 +63,7 @@ public void Process(Document document, string outputFileName)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | document | Document | Документ для обработки. |
-| outputFileName | String | Определяет файл, в котором сохраняются результаты обработки. |
+| outputFileName | String | Определяет файл, в котором хранятся результаты обработки. |
 
 ### Смотрите также
 
@@ -87,7 +87,7 @@ public void Process(Document document, int fromPage, int toPage, string outputFi
 | document | Document | Документ для обработки. |
 | fromPage | Int32 | Первая страница для начала обработки. |
 | toPage | Int32 | Последняя страница обработки. |
-| outputFileName | String | Определяет файл, в котором сохраняются результаты обработки. |
+| outputFileName | String | Определяет файл, в котором хранятся результаты обработки. |
 
 ### Смотрите также
 

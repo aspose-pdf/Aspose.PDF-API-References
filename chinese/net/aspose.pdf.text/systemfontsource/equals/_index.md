@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果两个对象都是系统字体源，则为真，否则为假。
+如果两个对象都是系统字体源，则为 true，否则为 false。
 
 ### 也可以看看
 

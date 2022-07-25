@@ -1,14 +1,14 @@
 ---
 title: OnLostFocus
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置注释失去输入焦点时要执行的操作
+description: 获取或设置注解失去输入焦点时要执行的动作
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/annotationactioncollection/onlostfocus/
 ---
 ## AnnotationActionCollection.OnLostFocus property
 
-获取或设置注释失去输入焦点时要执行的操作。
+获取或设置注解失去输入焦点时要执行的动作。
 
 ```csharp
 public PdfAction OnLostFocus { get; set; }

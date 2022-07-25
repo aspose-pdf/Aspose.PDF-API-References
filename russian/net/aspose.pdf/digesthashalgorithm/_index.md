@@ -1,14 +1,14 @@
 ---
 title: DigestHashAlgorithm
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет тип алгоритма который сопоставляет данные с хэшем
+description: Представляет тип алгоритма который отображает данные в хэш
 type: docs
 weight: 1820
 url: /ru/net/aspose.pdf/digesthashalgorithm/
 ---
 ## DigestHashAlgorithm enumeration
 
-Представляет тип алгоритма, который сопоставляет данные с "хэшем"
+Представляет тип алгоритма, который отображает данные в «хэш»
 
 ```csharp
 public enum DigestHashAlgorithm
@@ -18,7 +18,7 @@ public enum DigestHashAlgorithm
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Sha1 | `0` | SHA-1. Алгоритм безопасного хэширования 1 |
+| Sha1 | `0` | SHA-1. Алгоритм безопасного хеширования 1 |
 | Sha256 | `1` | SHA-256. Алгоритм безопасного хеширования 2 |
 | Sha512 | `2` | SHA-512. Алгоритм безопасного хеширования 2 |
 

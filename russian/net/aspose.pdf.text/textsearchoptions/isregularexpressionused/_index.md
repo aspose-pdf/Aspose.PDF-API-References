@@ -1,14 +1,14 @@
 ---
 title: IsRegularExpressionUsed
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает указание на использование регулярного выражения.
+description: Получает или задает указание на использование регулярного выражения.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textsearchoptions/isregularexpressionused/
 ---
 ## TextSearchOptions.IsRegularExpressionUsed property
 
-Получает или устанавливает указание на использование регулярного выражения.
+Получает или задает указание на использование регулярного выражения.
 
 ```csharp
 public bool IsRegularExpressionUsed { get; set; }

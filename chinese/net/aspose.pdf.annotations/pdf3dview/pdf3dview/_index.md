@@ -1,14 +1,14 @@
 ---
 title: PDF3DView
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DViewaspose.pdf.annotations/pdf3dview类的新实例
+description: 初始化PDF3DViewaspose.pdf.annotations/pdf3dview类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dview/pdf3dview/
 ---
 ## PDF3DView(Document, Matrix3D, double, string) {#constructor_1}
 
-初始化[`PDF3DView`](../../pdf3dview)类的新实例。
+初始化[`PDF3DView`](../../pdf3dview)类.
 
 ```csharp
 public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, string viewName)
@@ -16,8 +16,8 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 文档。 |
-| cameraPosition | Matrix3D | 摄像机位置。 |
+| doc | Document | 文件。 |
+| cameraPosition | Matrix3D | 相机位置。 |
 | cameraOrbit | Double | 相机轨道。 |
 | viewName | String | 视图的名称。 |
 
@@ -33,7 +33,7 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 
 ## PDF3DView(Document, PDF3DView, string) {#constructor}
 
-初始化[`PDF3DView`](../../pdf3dview)类的新实例。
+初始化[`PDF3DView`](../../pdf3dview)类.
 
 ```csharp
 public PDF3DView(Document doc, PDF3DView view, string viewName)
@@ -41,8 +41,8 @@ public PDF3DView(Document doc, PDF3DView view, string viewName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 文档。 |
-| view | PDF3DView | 视图。 |
+| doc | Document | 文件。 |
+| view | PDF3DView | 风景。 |
 | viewName | String | 视图的名称。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: BDC
 second_title: Aspose.PDF для справочника API .NET
-description: класс представляющий оператор BDC начало последовательности маркированного содержимого
+description: класс представляющий оператор BDC начало последовательности размеченного содержимого
 type: docs
 weight: 4880
 url: /ru/net/aspose.pdf.operators/bdc/
 ---
 ## BDC class
 
-класс, представляющий оператор BDC (начало последовательности маркированного содержимого)
+класс, представляющий оператор BDC (начало последовательности размеченного содержимого)
 
 ```csharp
 public class BDC : Operator
@@ -25,13 +25,13 @@ public class BDC : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Tag](../../aspose.pdf.operators/bdc/tag) { get; set; } | Получает или устанавливает тег отмеченного содержимого |
+| [Tag](../../aspose.pdf.operators/bdc/tag) { get; set; } | Получает или задает отмеченный тег содержимого |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bdc/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/bdc/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/bdc/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

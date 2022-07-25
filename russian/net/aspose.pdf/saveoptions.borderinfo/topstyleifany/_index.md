@@ -1,14 +1,14 @@
 ---
 title: TopStyleIfAny
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет верхнюю часть если есть границы
+description: Представляет верхнюю часть если есть border
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
 ---
 ## SaveOptions.BorderInfo.TopStyleIfAny field
 
-Представляет верхнюю часть (если есть) границы
+Представляет верхнюю часть (если есть) border
 
 ```csharp
 public BorderPartStyle TopStyleIfAny;

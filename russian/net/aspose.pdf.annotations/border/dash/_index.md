@@ -1,14 +1,14 @@
 ---
 title: Dash
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает штрих-код.
+description: Получает или задает шаблон штриховки.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/border/dash/
 ---
 ## Border.Dash property
 
-Получает или задает штрих-код.
+Получает или задает шаблон штриховки.
 
 ```csharp
 public Dash Dash { get; set; }

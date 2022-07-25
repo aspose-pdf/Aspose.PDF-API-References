@@ -1,14 +1,14 @@
 ---
 title: Highlighting
 second_title: Aspose.PDF для справочника API .NET
-description: Визуальный эффект используемый при нажатии или удерживании кнопки мыши внутри ее активной области.
+description: Визуальный эффект используемый при нажатии или удержании кнопки мыши внутри ее активной области.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/linkannotation/highlighting/
 ---
 ## LinkAnnotation.Highlighting property
 
-Визуальный эффект, используемый при нажатии или удерживании кнопки мыши внутри ее активной области.
+Визуальный эффект, используемый при нажатии или удержании кнопки мыши внутри ее активной области.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }

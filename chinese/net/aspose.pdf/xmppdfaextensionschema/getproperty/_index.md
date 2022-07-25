@@ -20,7 +20,7 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 
 ### 返回值
 
-属性。
+该物业。
 
 ### 也可以看看
 

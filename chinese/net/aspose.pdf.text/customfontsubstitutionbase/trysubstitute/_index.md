@@ -26,7 +26,7 @@ public virtual bool TrySubstitute(OriginalFontSpecification originalFontSpecific
 
 ### 评论
 
-应该继承类 CustomFontSubstitutionBase 以实现自定义字体替换逻辑。 TrySubstitute 方法应该被正确覆盖: 如果需要替换，必须返回 true。替换字体必须设置为有效的字体对象。 如果不需要替换，则必须返回 false。替代字体可以设置为空。
+应继承类 CustomFontSubstitutionBase 以实现自定义字体替换逻辑。 应正确覆盖 TrySubstitute 方法： 必须返回 true 以防需要替换。替换字体必须设置为有效的字体对象。 如果不需要替换，则必须返回 false。替代字体可以设置为空。
 
 ### 也可以看看
 

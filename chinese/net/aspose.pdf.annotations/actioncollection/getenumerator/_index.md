@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: 返回收集的枚举数
+description: 返回集合的枚举数
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/actioncollection/getenumerator/
 ---
 ## ActionCollection.GetEnumerator method
 
-返回收集的枚举数。
+返回集合的枚举数。
 
 ```csharp
 public IEnumerator<PdfAction> GetEnumerator()

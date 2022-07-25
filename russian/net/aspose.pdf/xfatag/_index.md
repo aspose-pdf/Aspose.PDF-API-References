@@ -19,7 +19,7 @@ public enum XfaTag
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Template | `0` | Тег шаблона |
-| Datasets | `1` | Тег наборов данных |
+| Datasets | `1` | Наборы данных tag |
 | Config | `2` | Тег конфигурации |
 | Localset | `3` | Тег localset |
 | Form | `4` | Тег формы |

@@ -19,16 +19,16 @@ public sealed class AnnotationActionCollection : BaseActionCollection
 | 姓名 | 描述 |
 | --- | --- |
 | [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate) { get; set; } | 获取或设置用于计算字段值的操作。 |
-| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage) { get; set; } | 获取或设置关闭包含注释的页面时要执行的操作。 |
-| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter) { get; set; } | 获取或设置当光标进入注释活动区域时要执行的操作。 |
-| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit) { get; set; } | 获取或设置当光标退出注释活动区域时要执行的操作。 |
+| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage) { get; set; } | 获取或设置当包含注释的页面关闭时要执行的操作。 |
+| [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter) { get; set; } | 获取或设置当光标进入注解的活动区域时要执行的动作。 |
+| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit) { get; set; } | 获取或设置当光标退出注解活动区域时要执行的动作。 |
 | [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat) { get; set; } | 获取或设置要执行的操作以格式化字段值。 |
 | [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage) { get; set; } | 获取或设置当包含注释的页面在查看器应用程序的用户界面中不再可见时要执行的操作。 |
-| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus) { get; set; } | 获取或设置注释失去输入焦点时要执行的操作。 |
+| [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus) { get; set; } | 获取或设置注解失去输入焦点时要执行的动作。 |
 | [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter) { get; set; } | 获取或设置用户修改字段字符时要执行的操作。 |
-| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage) { get; set; } | 获取或设置打开包含注释的页面时要执行的操作。 |
+| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage) { get; set; } | 获取或设置在打开包含注释的页面时要执行的操作。 |
 | [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn) { get; set; } | 获取或设置在注释的活动区域内按下鼠标按钮时要执行的操作。 |
-| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus) { get; set; } | 获取或设置注解收到输入焦点时要执行的操作。 |
+| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus) { get; set; } | 获取或设置注解收到输入焦点时要执行的动作。 |
 | [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn) { get; set; } | 获取或设置在注释的活动区域内释放鼠标按钮时要执行的操作。 |
 | [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage) { get; set; } | 获取或设置当包含注释的页面在查看器应用程序的用户界面中可见时要执行的操作。 |
 | [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate) { get; set; } | 获取或设置用户更改字段内容时要执行的操作。 |

@@ -19,7 +19,7 @@ public class AbsorbedCell : ITableElement
 | 姓名 | 描述 |
 | --- | --- |
 | [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle) { get; } | 获取描述页面上单元格位置的矩形 |
-| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments) { get; } | 获取[`TextFragment`](../textfragment)对象的集合，这些对象描述单元格中包含的文本 |
+| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments) { get; } | 获取集合[`TextFragment`](../textfragment)描述 cell 中包含的文本的对象 |
 
 ### 也可以看看
 

@@ -19,7 +19,7 @@ public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, str
 | lineInfo | LineInfo | Экземпляр класса LineInfo. |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| annotContents | String | Содержимое аннотации. |
+| annotContents | String | Содержание аннотации. |
 
 ### Примеры
 

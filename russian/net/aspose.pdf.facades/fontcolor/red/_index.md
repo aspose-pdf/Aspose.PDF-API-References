@@ -1,14 +1,14 @@
 ---
 title: Red
 second_title: Aspose.PDF для справочника API .NET
-description: Красная составляющая цвета.
+description: Красный компонент цвета.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/fontcolor/red/
 ---
 ## FontColor.Red property
 
-Красная составляющая цвета.
+Красный компонент цвета.
 
 ```csharp
 public int Red { get; set; }

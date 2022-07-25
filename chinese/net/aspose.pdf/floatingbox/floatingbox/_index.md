@@ -1,14 +1,14 @@
 ---
 title: FloatingBox
 second_title: Aspose.PDF for .NET API 参考
-description: 用指定的宽度和高度初始化FloatingBoxaspose.pdf/floatingbox类的新实例
+description: 初始化FloatingBoxaspose.pdf/floatingbox具有指定宽度和高度的类
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/floatingbox/floatingbox/
 ---
 ## FloatingBox(float, float) {#constructor_1}
 
-用指定的宽度和高度初始化[`FloatingBox`](../../floatingbox)类的新实例。
+初始化[`FloatingBox`](../../floatingbox)具有指定宽度和高度的类。
 
 ```csharp
 public FloatingBox(float width, float height)
@@ -16,7 +16,7 @@ public FloatingBox(float width, float height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Single | 框的宽度。 |
+| width | Single | 盒子的宽度。 |
 | height | Single | 盒子的高度。 |
 
 ### 也可以看看
@@ -29,7 +29,7 @@ public FloatingBox(float width, float height)
 
 ## FloatingBox() {#constructor}
 
-初始化[`FloatingBox`](../../floatingbox)类的新实例。
+初始化[`FloatingBox`](../../floatingbox)类.
 
 ```csharp
 public FloatingBox()

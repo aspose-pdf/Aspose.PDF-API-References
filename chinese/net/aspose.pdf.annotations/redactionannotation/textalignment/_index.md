@@ -1,14 +1,14 @@
 ---
 title: TextAlignment
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置重叠文本的对齐方式
+description: 获取或设置覆盖文本的对齐方式.
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/redactionannotation/textalignment/
 ---
 ## RedactionAnnotation.TextAlignment property
 
-获取或设置。重叠文本的对齐方式。
+获取或设置。覆盖文本的对齐方式.
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }

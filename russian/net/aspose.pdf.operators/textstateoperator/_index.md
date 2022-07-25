@@ -1,14 +1,14 @@
 ---
 title: TextStateOperator
 second_title: Aspose.PDF для справочника API .NET
-description: Абстрактный базовый класс для операторов которые изменяют текущее состояние текста Tc Tf TL и т.д..
+description: Абстрактный базовый класс для операторов которые изменяют текущее состояние текста Tc Tf TL и т. д..
 type: docs
 weight: 5690
 url: /ru/net/aspose.pdf.operators/textstateoperator/
 ---
 ## TextStateOperator class
 
-Абстрактный базовый класс для операторов, которые изменяют текущее состояние текста (Tc, Tf, TL и т.д.).
+Абстрактный базовый класс для операторов, которые изменяют текущее состояние текста (Tc, Tf, TL и т. д.).
 
 ```csharp
 public class TextStateOperator : TextOperator
@@ -31,7 +31,7 @@ public class TextStateOperator : TextOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

@@ -23,7 +23,7 @@ public static Color FromCmyk(double c, double m, double y, double k)
 
 ### 返回值
 
-颜色对象，每个组件的值都在 [0..1] 范围内。
+每个分量值在 [0..1] 范围内的颜色对象。
 
 ### 也可以看看
 

@@ -24,7 +24,7 @@ public class PdfXmlLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions)описывает. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions) описывает. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Продолжить, либо Прервать. Продолжить — это действие по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, и в этом случае операция загрузки должна быть прекращена. |
 
 ### Смотрите также

@@ -28,7 +28,7 @@ public void Delete(string name)
 
 ## Delete() {#delete}
 
-从文档中删除所有嵌入的文件。
+从文档中删除所有嵌入文件。
 
 ```csharp
 public void Delete()

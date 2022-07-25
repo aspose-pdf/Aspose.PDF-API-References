@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆单元格
+description: 克隆细胞
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/cell/clone/
 ---
 ## Cell.Clone method
 
-克隆单元格。
+克隆细胞。
 
 ```csharp
 public object Clone()
@@ -16,7 +16,7 @@ public object Clone()
 
 ### 返回值
 
-克隆对象
+克隆的对象
 
 ### 也可以看看
 

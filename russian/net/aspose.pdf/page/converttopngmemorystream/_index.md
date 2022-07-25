@@ -16,7 +16,7 @@ public MemoryStream ConvertToPNGMemoryStream()
 
 ### Возвращаемое значение
 
-Поток изображений.
+Поток изображения.
 
 ### Смотрите также
 

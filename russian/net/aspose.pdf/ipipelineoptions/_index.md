@@ -18,7 +18,7 @@ public interface IPipelineOptions
 
 | Имя | Описание |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize) { get; set; } | Задает размер порции страниц для передачи от узла к узлу. |
+| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize) { get; set; } | Определяет размер части страниц для передачи от узла к узлу. |
 
 ### Смотрите также
 

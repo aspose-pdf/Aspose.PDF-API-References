@@ -1,14 +1,14 @@
 ---
 title: FormDataConverter
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет класс для преобразования данных из одного формата в другой. Он может преобразовывать данные в форматах fdf/xml/pdf/xfdf в OLEDB/OdbcDB. Он также может преобразовывать данные в OLEDB/OdbcDB в данные в fdf/xml/xfdf. Он может конвертировать fdf в xml с тегом hard-named.
+description: Представляет класс для преобразования данных из одного формата в другой формат. Он может преобразовывать данные в fdf/xml/pdf/xfdf в OLEDB/OdbcDB. Он также может преобразовывать данные в OLEDB/OdbcDB в данные в fdf/xml/xfdf. Он может конвертировать fdf в xml с тегом жесткое имя.
 type: docs
 weight: 2330
 url: /ru/net/aspose.pdf.facades/formdataconverter/
 ---
 ## FormDataConverter class
 
-Представляет класс для преобразования данных из одного формата в другой. Он может преобразовывать данные в форматах fdf/xml/pdf/xfdf в OLEDB/OdbcDB. Он также может преобразовывать данные в OLEDB/OdbcDB в данные в fdf/xml/xfdf. Он может конвертировать fdf в xml с тегом "hard-named".
+Представляет класс для преобразования данных из одного формата в другой формат. Он может преобразовывать данные в fdf/xml/pdf/xfdf в OLEDB/OdbcDB. Он также может преобразовывать данные в OLEDB/OdbcDB в данные в fdf/xml/xfdf. Он может конвертировать fdf в xml с тегом «жесткое имя».
 
 ```csharp
 public sealed class FormDataConverter
@@ -25,21 +25,21 @@ public sealed class FormDataConverter
 | Имя | Описание |
 | --- | --- |
 | [ClearTableBeforeExport](../../aspose.pdf.facades/formdataconverter/cleartablebeforeexport) { get; set; } | ExportFromData очистит таблицу перед экспортом данных. |
-| [CreateMissingField](../../aspose.pdf.facades/formdataconverter/createmissingfield) { get; set; } | ConvertToDataTable создаст необходимое поле, если его нет в таблице. |
+| [CreateMissingField](../../aspose.pdf.facades/formdataconverter/createmissingfield) { get; set; } | ConvertToDataTable создаст необходимое поле, если оно не существует в таблице. |
 | [CreateMissingTable](../../aspose.pdf.facades/formdataconverter/createmissingtable) { get; set; } | ImportIntoDatabase создаст таблицу, если она не существует. |
-| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable) { get; set; } | ImportIntoDatabase удалит существующую таблицу и создаст новую, если для этого свойства установлено значение true. |
-| [Table](../../aspose.pdf.facades/formdataconverter/table) { get; set; } | Получает или задает средний контейнер данных, один DataTable. Должен быть определен перед преобразованием данных из одного формата в другой. Должны быть определены столбцы и имя таблицы таблицы данных. TableName — это имя таблицы в базе данных. Каждый столбец ColumnName является полным именем поля PDF. Заголовок каждого столбца - это имя столбца таблицы в базе данных. Если имя поля совпадает с именем столбца таблицы name, Заголовок указывать не нужно. |
+| [ReplaceExistingTable](../../aspose.pdf.facades/formdataconverter/replaceexistingtable) { get; set; } | ImportIntoDatabase удалит существующую таблицу и создаст новую таблицу, если для этого свойства установлено значение true. |
+| [Table](../../aspose.pdf.facades/formdataconverter/table) { get; set; } | Получает или задает средний контейнер данных, один DataTable. Он должен быть определен перед преобразованием данных из одного формата в другой формат. Должны быть определены столбцы и TableName таблицы DataTable. database. Имя столбца каждого столбца — это полное имя поля PDF-файла. Caption каждого столбца — это имя столбца таблицы в базе данных. Если имя поля совпадает с именем таблицы column , заголовок указывать не нужно. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | [ConverToStreams](../../aspose.pdf.facades/formdataconverter/convertostreams)(Stream[], DataType) | Этот метод устарел. Вместо этого используйте ConvertToStreams(). |
-| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable)(Stream[], DataType) | Преобразование файлов стримов в табличные. |
+| [ConvertToDataTable](../../aspose.pdf.facades/formdataconverter/converttodatatable)(Stream[], DataType) | Преобразование файлов стримов в таблицу. |
 | [ConvertToStreams](../../aspose.pdf.facades/formdataconverter/converttostreams)(Stream[], DataType) | Преобразование данных в таблице в потоки. |
 | [ExportFromDataBase](../../aspose.pdf.facades/formdataconverter/exportfromdatabase)(string, DataType) | Экспорт данных из базы данных в таблицу. |
-| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase)(string, DataType) | Импорт данных из таблицы в базу данных. |
-| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml)(Stream, Stream) | Конвертировать файл FDF в XML. |
+| [ImportIntoDataBase](../../aspose.pdf.facades/formdataconverter/importintodatabase)(string, DataType) | Импортирует данные из таблицы в базу данных. |
+| static [ConvertFdfToXml](../../aspose.pdf.facades/formdataconverter/convertfdftoxml)(Stream, Stream) | Преобразование файла FDF в XML. |
 | static [ConvertXmlToFdf](../../aspose.pdf.facades/formdataconverter/convertxmltofdf)(Stream, Stream) | Преобразование файла данных формы импорта/экспорта XML в формат FDF. |
 
 ### Смотрите также

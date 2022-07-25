@@ -18,14 +18,14 @@ public sealed class TextExtractionOptions : TextOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextExtractionOptions](textextractionoptions)(TextFormattingMode) | 为指定的文本格式化模式初始化[`TextExtractionOptions`](../textextractionoptions)对象的新实例。 |
+| [TextExtractionOptions](textextractionoptions)(TextFormattingMode) | 初始化[`TextExtractionOptions`](../textextractionoptions)指定文本格式模式的对象。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FormattingMode](../../aspose.pdf.text/textextractionoptions/formattingmode) { get; set; } | 获取格式化模式。 |
-| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor) { get; set; } | 获取或设置将在纯模式提取期间用于缩放字体大小的因子。 设置较小的值会导致提取文本中的空格更多。 默认值为 1 - 无缩放； 将值设置为零允许算法自动选择缩放。 |
+| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor) { get; set; } | 获取或设置将在纯模式下提取期间用于缩放字体大小的因子。 设置较小的值会导致提取的文本中有更多的空格。 默认值为 1 - 不缩放； 将值设置为零允许算法选择自动缩放。 |
 
 ### 也可以看看
 

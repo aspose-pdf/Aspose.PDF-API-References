@@ -18,10 +18,10 @@ public sealed class Matrix
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Matrix](matrix#constructor)() | 构造函数 创建标准 1 到 1 矩阵: [ ABCDEF ] = [ 1, 0, 0, 1, 0, 0] |
-| [Matrix](matrix#constructor_3)(double[]) | 构造函数 接受具有以下数组表示的矩阵: [ ABCDEF ] |
-| [Matrix](matrix#constructor_4)(float[]) | 构造函数 接受具有以下数组表示的矩阵: [ ABCDEF ] |
-| [Matrix](matrix#constructor_1)(Matrix) | 构造函数 接受一个矩阵来创建一个副本 |
+| [Matrix](matrix#constructor)() | Constructor 创建标准 1 到 1 矩阵： [ ABCDEF ] = [ 1, 0, 0, 1, 0, 0] |
+| [Matrix](matrix#constructor_3)(double[]) | Constructor 接受具有以下数组表示的矩阵： [ ABCDEF ] |
+| [Matrix](matrix#constructor_4)(float[]) | Constructor 接受具有以下数组表示的矩阵： [ ABCDEF ] |
+| [Matrix](matrix#constructor_1)(Matrix) | Constructor 接受一个矩阵来创建一个副本 |
 | [Matrix](matrix#constructor_2)(double, double, double, double, double, double) | 用指定的系数初始化变换矩阵。 |
 
 ## 特性
@@ -30,12 +30,12 @@ public sealed class Matrix
 | --- | --- |
 | [A](../../aspose.pdf/matrix/a) { get; set; } | 变换矩阵的成员。 |
 | [B](../../aspose.pdf/matrix/b) { get; set; } | 变换矩阵的 B 成员。 |
-| [C](../../aspose.pdf/matrix/c) { get; set; } | 转换矩阵的 C 成员。 |
+| [C](../../aspose.pdf/matrix/c) { get; set; } | 变换矩阵的 C 成员。 |
 | [D](../../aspose.pdf/matrix/d) { get; set; } | 变换矩阵的 D 成员。 |
 | [Data](../../aspose.pdf/matrix/data) { get; } | 获取矩阵的数据作为数组。 |
-| [E](../../aspose.pdf/matrix/e) { get; set; } | E 变换矩阵的成员。 |
+| [E](../../aspose.pdf/matrix/e) { get; set; } | 变换矩阵的 E 成员。 |
 | [Elements](../../aspose.pdf/matrix/elements) { get; } | 矩阵的元素。 |
-| [F](../../aspose.pdf/matrix/f) { get; set; } | F 变换矩阵的成员。 |
+| [F](../../aspose.pdf/matrix/f) { get; set; } | 变换矩阵的 F 成员。 |
 
 ## 方法
 

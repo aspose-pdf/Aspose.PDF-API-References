@@ -16,7 +16,7 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | 密钥名称。 |
+| key | DefaultMetadataProperties | 键名。 |
 | value | XmpValue | 将被添加的值。 |
 
 ### 例子
@@ -51,8 +51,8 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 | --- | --- | --- |
 | xmpPdfAExtensionObject | XmpPdfAExtensionObject | 要添加的 pdf 扩展对象。 |
 | namespacePrefix | String | 架构的前缀。 |
-| namespaceUri | String | schema 的命名空间 uri。 |
-| schemaDescription | String | 模式的可选描述。 |
+| namespaceUri | String | 架构的命名空间 uri。 |
+| schemaDescription | String | 架构的可选描述。 |
 
 ### 也可以看看
 
@@ -65,7 +65,7 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 
 ## Add(string, XmpValue) {#add_3}
 
-将新元素添加到字典对象。
+向字典对象添加新元素。
 
 ```csharp
 public void Add(string key, XmpValue value)
@@ -73,7 +73,7 @@ public void Add(string key, XmpValue value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 新元素的键。 |
+| key | String | 新元素的关键。 |
 | value | XmpValue | 元素的值。 |
 
 ### 例子
@@ -95,7 +95,7 @@ xmp.Add("xmp:Nickname", "Nickname1");
 
 ## Add(string, object) {#add_4}
 
-将新元素添加到字典对象。
+向字典对象添加新元素。
 
 ```csharp
 public void Add(string key, object value)
@@ -103,7 +103,7 @@ public void Add(string key, object value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 新元素的键。 |
+| key | String | 新元素的关键。 |
 | value | Object | 元素的值。 |
 
 ### 也可以看看

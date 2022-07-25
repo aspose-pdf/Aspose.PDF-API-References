@@ -1,14 +1,14 @@
 ---
 title: SetFieldImage
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает изображение для поля XFA.
+description: Задает изображение для поля XFA.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.forms/xfa/setfieldimage/
 ---
 ## XFA.SetFieldImage method
 
-Устанавливает изображение для поля XFA.
+Задает изображение для поля XFA.
 
 ```csharp
 public void SetFieldImage(string fieldName, Stream image)

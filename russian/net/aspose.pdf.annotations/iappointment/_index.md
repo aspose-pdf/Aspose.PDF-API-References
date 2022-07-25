@@ -1,14 +1,14 @@
 ---
 title: IAppointment
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет общий интерфейс для действий и пунктов назначения.
+description: Представляет общий интерфейс для действий и мест назначения.
 type: docs
 weight: 520
 url: /ru/net/aspose.pdf.annotations/iappointment/
 ---
 ## IAppointment interface
 
-Представляет общий интерфейс для действий и пунктов назначения.
+Представляет общий интерфейс для действий и мест назначения.
 
 ```csharp
 public interface IAppointment

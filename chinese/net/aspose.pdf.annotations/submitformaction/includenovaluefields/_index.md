@@ -1,14 +1,14 @@
 ---
 title: IncludeNoValueFields
 second_title: Aspose.PDF for .NET API 参考
-description: 如果设置则应提交由 Fields 数组和包含/排除标志指定的所有字段
+description: 如果设置则应提交由字段数组和包含/排除标志指定的所有字段
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.annotations/submitformaction/includenovaluefields/
 ---
 ## SubmitFormAction.IncludeNoValueFields field
 
-如果设置，则应提交由 Fields 数组和包含/排除标志指定的所有字段。
+如果设置，则应提交由字段数组和包含/排除标志指定的所有字段。
 
 ```csharp
 public const int IncludeNoValueFields;

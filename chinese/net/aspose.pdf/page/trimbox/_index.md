@@ -16,7 +16,7 @@ public Rectangle TrimBox { get; set; }
 
 ### 例子
 
-示例演示如何获取页面的裁切框:
+示例演示如何获取页面的修剪框：
 
 ```csharp
 Document document = new Document("sample.pdf");

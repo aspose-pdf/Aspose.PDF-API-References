@@ -19,30 +19,30 @@ public sealed class LinkElement : AnnotationElement, ITextElement
 | Имя | Описание |
 | --- | --- |
 | [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext) { get; set; } | Получает или задает фактический текст для элемента структуры. |
-| [AlternateDescriptions](../../aspose.pdf.logicalstructure/annotationelement/alternatedescriptions) { get; set; } | Получает или задает альтернативные описания для аннотации. Текст, который должен отображаться для аннотации, или, если этот тип аннотации не отображает текст, альтернативное описание содержания аннотации в удобочитаемой форме. |
+| [AlternateDescriptions](../../aspose.pdf.logicalstructure/annotationelement/alternatedescriptions) { get; set; } | Получает или задает альтернативные описания для аннотации. Текст, который должен отображаться для аннотации, или, если этот тип аннотации не отображает текст, альтернативное описание содержимого аннотации в удобочитаемой форме. |
 | [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext) { get; set; } | Получает или задает альтернативный текст для элемента структуры. |
-| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | Получает объектStructureAttributeCollection. |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Получает дочернюю коллекцию объектовElement. |
-| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | Получает объектAttributeOwnerStandard. |
+| [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes) { get; } | получаетStructureAttributeCollection объект. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Получает дочернюю коллекциюElement объекты. |
+| [DefaultAttributeOwner](../../aspose.pdf.logicalstructure/structureelement/defaultattributeowner) { get; } | получаетAttributeOwnerStandard объект. |
 | [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext) { get; set; } | Получает или задает текст расширения для элемента структуры. |
 | [Hyperlink](../../aspose.pdf.logicalstructure/linkelement/hyperlink) { get; set; } | Получает или задает гиперссылку для элемента ссылки. |
 | [ID](../../aspose.pdf.logicalstructure/structureelement/id) { get; } | Получает идентификатор элемента структуры. |
 | [Language](../../aspose.pdf.logicalstructure/structureelement/language) { get; set; } | Получает или задает язык для элемента структуры. |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Получить родительский элемент. |
-| [StructureTextState](../../aspose.pdf.logicalstructure/linkelement/structuretextstate) { get; } | Получает объектStructureTextStateдля текущего элемента. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/linkelement/structuretextstate) { get; } | получаетStructureTextState объект для текущего элемента. |
 | [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype) { get; } | Получает тип элемента структуры. |
-| [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | Получает или устанавливает заголовок элемента структуры. |
+| [Title](../../aspose.pdf.logicalstructure/structureelement/title) { get; set; } | Получает или задает заголовок элемента структуры. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | ДобавитьElementк коллекции дочерних элементов. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | Изменить родительский элемент для текущего элемента структуры |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | ДобавитьElement в коллекцию детей. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement)(StructureElement) | Изменить родительский элемент для текущей структуры element |
 | [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid)() | Очистить идентификатор элемента структуры. |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Найти элементы заданного типа |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | Генерировать ID для элемента структуры. |
-| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | Устанавливает идентификатор элемента структуры. |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid)() | Создать идентификатор для элемента структуры. |
+| [SetId](../../aspose.pdf.logicalstructure/structureelement/setid)(string) | Устанавливает ID для элемента структуры. |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag)(string) | Устанавливает пользовательский тег для элемента структуры. |
 | [SetText](../../aspose.pdf.logicalstructure/linkelement/settext)(string) | Добавляет текстовое содержимое к текущему текстовому элементу. |
 | override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring)() | Возвращает строку, представляющую текущий объект. |

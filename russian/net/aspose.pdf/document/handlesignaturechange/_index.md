@@ -1,14 +1,14 @@
 ---
 title: HandleSignatureChange
 second_title: Aspose.PDF для справочника API .NET
-description: Выбросить исключение если документ сохранится с изменениями и будет иметь подпись
+description: Выдать исключение если документ сохранится с изменениями и будет иметь подпись
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/document/handlesignaturechange/
 ---
 ## Document.HandleSignatureChange property
 
-Выбросить исключение, если документ сохранится с изменениями и будет иметь подпись
+Выдать исключение, если документ сохранится с изменениями и будет иметь подпись
 
 ```csharp
 public bool HandleSignatureChange { get; set; }

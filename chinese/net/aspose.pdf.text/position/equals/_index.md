@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PDF for .NET API 参考
-description: 判断指定对象是否等于当前Positionaspose.pdf.text/position对象
+description: 判断指定对象是否等于当前Positionaspose.pdf.text/position目的
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/position/equals/
 ---
 ## Position.Equals method
 
-判断指定对象是否等于当前[`Position`](../../position)对象。
+判断指定对象是否等于当前[`Position`](../../position)目的。
 
 ```csharp
 public override bool Equals(object obj)

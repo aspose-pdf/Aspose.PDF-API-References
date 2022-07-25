@@ -1,14 +1,14 @@
 ---
 title: AddField
 second_title: Aspose.PDF для справочника API .NET
-description: Добавить на форму поле указанного типа.
+description: Добавить в форму поле указанного типа.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/formeditor/addfield/
 ---
 ## AddField(FieldType, string, int, float, float, float, float) {#addfield}
 
-Добавить на форму поле указанного типа.
+Добавить в форму поле указанного типа.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, int pageNum, float llx, float lly, 
@@ -48,7 +48,7 @@ formEditor.Save();
 
 ## AddField(FieldType, string, string, int, float, float, float, float) {#addfield_1}
 
-Добавить на форму поле указанного типа.
+Добавить в форму поле указанного типа.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, string initValue, int pageNum, 

@@ -10,7 +10,7 @@ url: /zh/net/aspose.pdf.tagged/itaggedcontent/setlanguage/
 
 为 pdf 文档设置自然语言。
 
-一个语言标识符，它应该为文档中的所有文本指定自然语言，除非结构元素或标记内容的语言规范被覆盖。
+一种语言标识符，应为文档中的所有文本指定自然语言，除非结构元素或标记内容的语言规范覆盖了该语言。
 
 ```csharp
 public void SetLanguage(string lang)
@@ -18,7 +18,7 @@ public void SetLanguage(string lang)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lang | String | 语言标识符应为空文本字符串，以指示语言未知，或为语言标签如 RFC 3066，语言标识标签中所定义。 |
+| lang | String | 语言标识符应该是空文本字符串，以指示该语言是未知的，或者是 RFC 3066 中定义的语言标签，用于标识语言的标签。 |
 
 ### 也可以看看
 

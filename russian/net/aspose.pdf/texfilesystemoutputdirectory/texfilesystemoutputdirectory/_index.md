@@ -16,7 +16,7 @@ public TeXFileSystemOutputDirectory(string basePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| basePath | String | Базовый путь к каталогу. |
+| basePath | String | Базовый путь каталога. |
 
 ### Смотрите также
 

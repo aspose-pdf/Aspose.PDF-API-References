@@ -1,14 +1,14 @@
 ---
 title: DocMDPSignature
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаDocMDPSignatureaspose.pdf.forms/docmdpsignature.
+description: Инициализирует новый экземплярDocMDPSignatureaspose.pdf.forms/docmdpsignature класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 ---
 ## DocMDPSignature constructor
 
-Инициализирует новый экземпляр класса[`DocMDPSignature`](../../docmdpsignature).
+Инициализирует новый экземпляр[`DocMDPSignature`](../../docmdpsignature) класс.
 
 ```csharp
 public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermissions)
@@ -16,7 +16,7 @@ public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermis
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signature | Signature | Объект подписи, использованный при подписании. |
+| signature | Signature | Объект подписи, который использовался во время подписания. |
 | accessPermissions | DocMDPAccessPermissions | Права доступа, предоставленные для этого документа. |
 
 ### Смотрите также

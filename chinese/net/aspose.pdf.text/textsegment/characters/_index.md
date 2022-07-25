@@ -1,14 +1,14 @@
 ---
 title: Characters
 second_title: Aspose.PDF for .NET API 参考
-description: 获取代表文本段中字符信息的 CharInfo 对象的集合
+description: 获取代表文本段中字符信息的 CharInfo 对象集合
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textsegment/characters/
 ---
 ## TextSegment.Characters property
 
-获取代表文本段中字符信息的 CharInfo 对象的集合。
+获取代表文本段中字符信息的 CharInfo 对象集合。
 
 ```csharp
 public CharInfoCollection Characters { get; }

@@ -1,14 +1,14 @@
 ---
 title: GetNextImage
 second_title: Aspose.PDF для справочника API .NET
-description: Извлекает следующее изображение из документа PDF. Примечание. Перед использованием этого метода необходимо вызвать ExtractImage.
+description: Получает следующее изображение из документа PDF. Примечание. Перед использованием этого метода необходимо вызвать ExtractImage.
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-Извлекает следующее изображение из документа PDF. Примечание. Перед использованием этого метода необходимо вызвать ExtractImage.
+Получает следующее изображение из документа PDF. Примечание. Перед использованием этого метода необходимо вызвать ExtractImage.
 
 ```csharp
 public bool GetNextImage(string outputFile)
@@ -20,7 +20,7 @@ public bool GetNextImage(string outputFile)
 
 ### Возвращаемое значение
 
-True is image успешно извлечен
+Правда, изображение успешно извлечено
 
 ### Примеры
 
@@ -45,7 +45,7 @@ while (extractor.HasNextImage())
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-Извлекает следующее изображение из документа PDF с заданным форматом изображения. Примечание. Перед использованием этого метода необходимо вызвать ExtractImage.
+Получает следующее изображение из документа PDF с заданным форматом изображения. Примечание. Перед использованием этого метода необходимо вызвать ExtractImage.
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
@@ -54,11 +54,11 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputFile | String | Файл, в котором будет храниться изображение |
-| format | ImageFormat | формат изображения. |
+| format | ImageFormat | Формат изображения. |
 
 ### Возвращаемое значение
 
-Правда, образ успешно извлечен
+Правда, изображение успешно извлечено
 
 ### Смотрите также
 
@@ -83,7 +83,7 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 
 ### Возвращаемое значение
 
-Истинно, если образ успешно извлечен.
+Истинно, если изображение успешно извлечено.
 
 ### Смотрите также
 
@@ -95,7 +95,7 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Получить следующее изображение из файла PDF и сохранить его в поток.
+Получить следующее изображение из файла PDF и сохранить его в потоке.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
@@ -107,7 +107,7 @@ public bool GetNextImage(Stream outputStream)
 
 ### Возвращаемое значение
 
-True in случае, если изображение успешно извлечено.
+Истинно, если изображение успешно извлечено.
 
 ### Смотрите также
 

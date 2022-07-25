@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置String文本对象TextFragmentaspose.pdf.text/textfragment对象代表
+description: 获取或设置String文本对象TextFragmentaspose.pdf.text/textfragment对象代表.
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.text/textfragment/text/
 ---
 ## TextFragment.Text property
 
-获取或设置String文本对象[`TextFragment`](../../textfragment)对象代表。
+获取或设置String文本对象[`TextFragment`](../../textfragment)对象代表.
 
 ```csharp
 public string Text { get; set; }
@@ -16,23 +16,23 @@ public string Text { get; set; }
 
 ### 例子
 
-该示例演示如何搜索文本并替换用T表示的第一个匹配项:Aspose.Pdf.Text.TextFragment对象。
+该示例演示了如何搜索文本并将第一次出现的地方替换为[`TextFragment`](../../textfragment)对象 .
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 更改第一个文本出现的字体
-sorber.TextFragments[1].Text = "hi world";
+absorber.TextFragments[1].Text = "hi world";
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### 也可以看看

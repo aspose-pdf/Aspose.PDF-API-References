@@ -1,14 +1,14 @@
 ---
 title: CreateCaptionElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建CaptionElementaspose.pdf.logicalstructure/captionelement
+description: 创建CaptionElementaspose.pdf.logicalstructure/captionelement.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
 ## ITaggedContent.CreateCaptionElement method
 
-创建[`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement)。
+创建[`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement).
 
 ```csharp
 public CaptionElement CreateCaptionElement()
@@ -16,7 +16,7 @@ public CaptionElement CreateCaptionElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

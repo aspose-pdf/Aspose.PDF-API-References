@@ -1,14 +1,14 @@
 ---
 title: Segments
 second_title: Aspose.PDF for .NET API 参考
-description: 获取当前TextFragmentaspose.pdf.text/textfragment的文本段
+description: 获取当前文本段TextFragmentaspose.pdf.text/textfragment.
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.text/textfragment/segments/
 ---
 ## TextFragment.Segments property
 
-获取当前[`TextFragment`](../../textfragment)的文本段。
+获取当前文本段[`TextFragment`](../../textfragment).
 
 ```csharp
 public TextSegmentCollection Segments { get; set; }
@@ -16,29 +16,29 @@ public TextSegmentCollection Segments { get; set; }
 
 ### 评论
 
-简而言之，[`TextSegment`](../../textsegment)对象是[`TextFragment`](../../textfragment)对象的子对象。 高级用户可以直接访问段以执行更复杂的文本编辑场景。 详情请看[`TextFragment`](../../textfragment)对象描述。
+简而言之，[`TextSegment`](../../textsegment)对象是[`TextFragment`](../../textfragment)object. 高级用户可以直接访问segments，进行更复杂的文本编辑场景。 详情请看[`TextFragment`](../../textfragment)对象描述.
 
 ### 例子
 
-该示例演示了如何导航所有Text。TextSegment内的对象[`TextFragment`](../../textfragment)。
+该示例演示如何导航所有[`TextSegment`](../../textsegment)里面的物体[`TextFragment`](../../textfragment).
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// 导航所有文本段并移出它们的文本和位置 info
-reach (TextSegment segment in absorber.TextFragments[1].Segments)
-
-  Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
-  Console.Out.WriteLine(string.Format("segment X indent: {0}", segment.Position.XIndent));
-  Console.Out.WriteLine(string.Format("segment Y indent: {0}", segment.Position.YIndent));
-
+// 导航所有文本段并找出它们的文本和位置信息
+foreach (TextSegment segment in absorber.TextFragments[1].Segments)
+{
+    Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
+    Console.Out.WriteLine(string.Format("segment X indent: {0}", segment.Position.XIndent));
+    Console.Out.WriteLine(string.Format("segment Y indent: {0}", segment.Position.YIndent));
+}
 
 ```
 

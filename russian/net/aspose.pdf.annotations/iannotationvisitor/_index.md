@@ -19,14 +19,14 @@ public interface IAnnotationVisitor
 | Имя | Описание |
 | --- | --- |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit)(CaretAnnotation) | Посетите/выберите аннотацию курсора. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_1)(CircleAnnotation) | Посетите/выберите круговую аннотацию. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_1)(CircleAnnotation) | Посетите/выберите аннотацию круга. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_2)(FileAttachmentAnnotation) | Посетите/выберите аннотацию вложения. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_3)(FreeTextAnnotation) | Посетите/выберите аннотацию произвольного текста. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_4)(HighlightAnnotation) | Посетите/выберите выделенную аннотацию. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_5)(InkAnnotation) | Посетите/выберите рукописную аннотацию. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_6)(LineAnnotation) | Посетите/выберите аннотацию строки. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_7)(LinkAnnotation) | Посетите/выберите аннотацию ссылки. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_8)(MovieAnnotation) | Посетите/выберите аннотацию фильма. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_8)(MovieAnnotation) | Посетите/выберите аннотацию к фильму. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_9)(PolygonAnnotation) | Посетите/выберите аннотацию полигона. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_10)(PolylineAnnotation) | Посетите/выберите аннотацию полилинии. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_11)(PopupAnnotation) | Посетите/выберите всплывающую аннотацию. |
@@ -34,7 +34,7 @@ public interface IAnnotationVisitor
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_13)(SquareAnnotation) | Посетите/выберите квадратную аннотацию. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_14)(SquigglyAnnotation) | Посетите/выберите волнистую аннотацию. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_15)(StampAnnotation) | Посетите/выберите аннотацию штампа. |
-| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_16)(StrikeOutAnnotation) | Посетите/выберите аннотацию strikeOut. |
+| [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_16)(StrikeOutAnnotation) | Посетите/выберите зачеркнутую аннотацию. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_17)(TextAnnotation) | Посетите/выберите текстовую аннотацию. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_18)(UnderlineAnnotation) | Посетите/выберите подчеркнутую аннотацию. |
 | [Visit](../../aspose.pdf.annotations/iannotationvisitor/visit#visit_19)(WidgetAnnotation) | Посетите/выберите аннотацию виджета. |

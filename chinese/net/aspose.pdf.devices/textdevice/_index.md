@@ -18,10 +18,10 @@ public sealed class TextDevice : PageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextDevice](textdevice#constructor)() | 使用原始文本格式化模式和 Unicode 文本编码初始化[`TextDevice`](../textdevice)的新实例。 |
-| [TextDevice](textdevice#constructor_3)(Encoding) | 为指定的编码初始化[`TextDevice`](../textdevice)的新实例。 |
-| [TextDevice](textdevice#constructor_1)(TextExtractionOptions) | 使用文本提取选项初始化[`TextDevice`](../textdevice)的新实例。 |
-| [TextDevice](textdevice#constructor_2)(TextExtractionOptions, Encoding) | 为具有文本提取选项的指定编码初始化[`TextDevice`](../textdevice)的新实例。 |
+| [TextDevice](textdevice#constructor)() | 初始化[`TextDevice`](../textdevice)使用原始文本格式化模式和 Unicode 文本编码。 |
+| [TextDevice](textdevice#constructor_3)(Encoding) | 初始化[`TextDevice`](../textdevice)对于指定的编码。 |
+| [TextDevice](textdevice#constructor_1)(TextExtractionOptions) | 初始化[`TextDevice`](../textdevice)带有文本提取选项。 |
+| [TextDevice](textdevice#constructor_2)(TextExtractionOptions, Encoding) | 初始化[`TextDevice`](../textdevice)对于带有文本提取选项的指定编码。 |
 
 ## 特性
 
@@ -34,16 +34,16 @@ public sealed class TextDevice : PageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/textdevice/process#process)(Page, Stream) | 转换页面并保存为文本流。 |
+| override [Process](../../aspose.pdf.devices/textdevice/process#process)(Page, Stream) | 转换页面并将其保存为文本流。 |
 | [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | 在给定页面上执行一些操作并将结果保存到文件中。 |
 
 ### 评论
 
-[`TextDevice`](../textdevice)对象是主要用于从 pdf 页面中提取文本。
+的[`TextDevice`](../textdevice)对象基本上用于从 pdf 页面中提取文本。
 
 ### 例子
 
-该示例演示了如何在第一个 PDF 文档页面上提取文本。
+该示例演示了如何在 PDF 文档的第一个页面上提取文本。
 
 ```csharp
 Document doc = new Document(inFile);
@@ -51,13 +51,13 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-      // 创建文本 device
+    // 创建文本设备
     TextDevice device = new TextDevice();
 
-      // 转换页面并将文本保存到 stream
+    // 转换页面并将文本保存到流中
     device.Process(doc.Pages[1], ms);
 
-      // 使用提取的 text
+    // 使用提取的文本
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }

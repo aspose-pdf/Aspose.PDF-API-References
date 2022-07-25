@@ -1,14 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.PDF for .NET API 参考
-description: 从 0 到 1 获取或设置图标的不透明度0 - 完全透明1 - 完全不透明
+description: 获取或设置图标的不透明度从 0 到 10 - 完全透明1 - 完全不透明
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/fileattachmentannotation/opacity/
 ---
 ## FileAttachmentAnnotation.Opacity property
 
-从 0 到 1 获取或设置图标的不透明度:0 - 完全透明，1 - 完全不透明。
+获取或设置图标的不透明度，从 0 到 1：0 - 完全透明，1 - 完全不透明。
 
 ```csharp
 public double Opacity { get; set; }

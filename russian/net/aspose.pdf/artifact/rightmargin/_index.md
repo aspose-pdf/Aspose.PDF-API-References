@@ -1,14 +1,14 @@
 ---
 title: RightMargin
 second_title: Aspose.PDF для справочника API .NET
-description: Правое поле артефакта. Если позиция указана явно в свойстве Position это значение игнорируется.
+description: Правый край артефакта. Если позиция указана явно в свойстве Position это значение игнорируется.
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/artifact/rightmargin/
 ---
 ## Artifact.RightMargin property
 
-Правое поле артефакта. Если позиция указана явно (в свойстве Position), это значение игнорируется.
+Правый край артефакта. Если позиция указана явно (в свойстве Position), это значение игнорируется.
 
 ```csharp
 public double RightMargin { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Process
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразует страницу в jpeg и сохраняет ее в выходной поток.
+description: Преобразует страницу в формат jpeg и сохраняет ее в выходном потоке.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/jpegdevice/process/
 ---
 ## JpegDevice.Process method
 
-Преобразует страницу в jpeg и сохраняет ее в выходной поток.
+Преобразует страницу в формат jpeg и сохраняет ее в выходном потоке.
 
 ```csharp
 public override void Process(Page page, Stream output)
@@ -16,7 +16,7 @@ public override void Process(Page page, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Конвертируемая страница. |
+| page | Page | Страница для преобразования. |
 | output | Stream | Выходной поток с изображением в формате jpeg. |
 
 ### Смотрите также

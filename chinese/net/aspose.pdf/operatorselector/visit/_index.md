@@ -1,14 +1,14 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API 参考
-description: 访问/选择 j 运算符
+description: 访问/选择 j 操作员
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
-访问/选择 j 运算符。
+访问/选择 j 操作员。
 
 ```csharp
 public void Visit(SetLineJoin j)
@@ -29,7 +29,7 @@ public void Visit(SetLineJoin j)
 
 ## Visit(EX) {#visit_23}
 
-访问/选择 EX 运算符。
+访问/选择EX运营商。
 
 ```csharp
 public void Visit(EX EX)
@@ -37,7 +37,7 @@ public void Visit(EX EX)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| EX | EX | 结束兼容性部分运算符。 |
+| EX | EX | 结束兼容性部分操作员。 |
 
 ### 也可以看看
 
@@ -58,7 +58,7 @@ public void Visit(ET ET)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| ET | ET | 结束文本对象运算符。 |
+| ET | ET | 结束文本对象操作符。 |
 
 ### 也可以看看
 
@@ -92,7 +92,7 @@ public void Visit(EMC EMC)
 
 ## Visit(EI) {#visit_16}
 
-访问/选择EI算子。
+访问/选择EI操作员。
 
 ```csharp
 public void Visit(EI EI)
@@ -100,7 +100,7 @@ public void Visit(EI EI)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| EI | EI | 结束内联图像对象运算符。 |
+| EI | EI | 结束内联图像对象操作符。 |
 
 ### 也可以看看
 
@@ -113,7 +113,7 @@ public void Visit(EI EI)
 
 ## Visit(DP) {#visit_15}
 
-访问/选择 DP 运算符。
+访问/选择 DP 操作员。
 
 ```csharp
 public void Visit(DP DP)
@@ -134,7 +134,7 @@ public void Visit(DP DP)
 
 ## Visit(Do) {#visit_14}
 
-访问/选择 Do 运算符。
+访问/选择执行操作员。
 
 ```csharp
 public void Visit(Do Do)
@@ -155,7 +155,7 @@ public void Visit(Do Do)
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-访问/选择 d1 运算符。
+访问/选择 d1 操作员。
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
@@ -176,7 +176,7 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 ## Visit(SetCharWidth) {#visit_43}
 
-访问/选择 d0 运算符。
+访问/选择 d0 操作员。
 
 ```csharp
 public void Visit(SetCharWidth d0)
@@ -197,7 +197,7 @@ public void Visit(SetCharWidth d0)
 
 ## Visit(SetDash) {#visit_52}
 
-访问/选择 d 运算符。
+访问/选择 d 操作员。
 
 ```csharp
 public void Visit(SetDash d)
@@ -205,7 +205,7 @@ public void Visit(SetDash d)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| d | SetDash | 设置折线模式运算符。 |
+| d | SetDash | 设置划线模式运算符。 |
 
 ### 也可以看看
 
@@ -218,7 +218,7 @@ public void Visit(SetDash d)
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-访问/选择 CS 运算符。
+访问/选择CS操作员。
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
@@ -226,7 +226,7 @@ public void Visit(SetColorSpaceStroke CS)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | 设置色彩空间运算符（用于描边操作）。 |
+| CS | SetColorSpaceStroke | 设置色彩空间操作符（用于描边操作）。 |
 
 ### 也可以看看
 
@@ -239,7 +239,7 @@ public void Visit(SetColorSpaceStroke CS)
 
 ## Visit(SetColorSpace) {#visit_49}
 
-访问/选择 cs 运算符。
+访问/选择cs操作员。
 
 ```csharp
 public void Visit(SetColorSpace cs)
@@ -260,7 +260,7 @@ public void Visit(SetColorSpace cs)
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-访问/选择 cm 运算符。
+访问/选择厘米操作员。
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
@@ -302,7 +302,7 @@ public void Visit(CurveTo c)
 
 ## Visit(BX) {#visit_4}
 
-访问/选择 BX 运算符。
+访问/选择BX运营商。
 
 ```csharp
 public void Visit(BX BX)
@@ -310,7 +310,7 @@ public void Visit(BX BX)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| BX | BX | 开始兼容性部分运算符。 |
+| BX | BX | 开始兼容性部分操作符。 |
 
 ### 也可以看看
 
@@ -331,7 +331,7 @@ public void Visit(BT BT)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| BT | BT | 开始文本对象运算符。 |
+| BT | BT | 开始文本对象操作符。 |
 
 ### 也可以看看
 
@@ -344,7 +344,7 @@ public void Visit(BT BT)
 
 ## Visit(BMC) {#visit_2}
 
-访问/选择 BMC 操作员。
+访问/选择 BMC 运营商。
 
 ```csharp
 public void Visit(BMC BMC)
@@ -365,7 +365,7 @@ public void Visit(BMC BMC)
 
 ## Visit(BI) {#visit_1}
 
-访问/选择 BI 运算符。
+访问/选择 BI 操作员。
 
 ```csharp
 public void Visit(BI BI)
@@ -386,7 +386,7 @@ public void Visit(BI BI)
 
 ## Visit(BDC) {#visit}
 
-访问/选择 BDC 运算符。
+访问/选择 BDC 运营商。
 
 ```csharp
 public void Visit(BDC BDC)
@@ -407,7 +407,7 @@ public void Visit(BDC BDC)
 
 ## Visit(FillStroke) {#visit_25}
 
-访问/选择 B 运算符。
+访问/选择B运营商。
 
 ```csharp
 public void Visit(FillStroke B)
@@ -428,7 +428,7 @@ public void Visit(FillStroke B)
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-访问/选择 b 运算符。
+访问/选择 b 运营商。
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
@@ -491,7 +491,7 @@ public void Visit(ClosePathEOFillStroke b_)
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-访问/选择 ' 运算符。
+访问/选择'操作员.
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
@@ -499,7 +499,7 @@ public void Visit(MoveToNextLineShowText _)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | 移动到下一行并显示文本运算符。 |
+| _ | MoveToNextLineShowText | 移动到下一行并显示文本操作符。 |
 
 ### 也可以看看
 
@@ -512,7 +512,7 @@ public void Visit(MoveToNextLineShowText _)
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-访问/选择 '' 运算符。
+访问/选择''运营商。
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
@@ -533,7 +533,7 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 ## Visit(EOFill) {#visit_20}
 
-访问/选择运算符 f*。
+访问/选择操作员 f*.
 
 ```csharp
 public void Visit(EOFill f_)
@@ -554,7 +554,7 @@ public void Visit(EOFill f_)
 
 ## Visit(Fill) {#visit_24}
 
-访问/选择 f 运算符。
+访问/选择 f 操作员。
 
 ```csharp
 public void Visit(Fill f)
@@ -562,7 +562,7 @@ public void Visit(Fill f)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| f | Fill | 填充路径运算符（非零缠绕数规则）。 |
+| f | Fill | 填充路径算子（非零绕组数规则）。 |
 
 ### 也可以看看
 
@@ -575,7 +575,7 @@ public void Visit(Fill f)
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-访问/选择 F 运算符。
+访问/选择F操作员。
 
 ```csharp
 public void Visit(ObsoleteFill F)
@@ -583,7 +583,7 @@ public void Visit(ObsoleteFill F)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| F | ObsoleteFill | 填充路径运算符（非零绕组数规则）。 |
+| F | ObsoleteFill | 填充路径算子（非零绕组数规则）。 |
 
 ### 也可以看看
 
@@ -596,7 +596,7 @@ public void Visit(ObsoleteFill F)
 
 ## Visit(SetGray) {#visit_55}
 
-访问/选择 g 运算符。
+访问/选择 g 操作员。
 
 ```csharp
 public void Visit(SetGray g)
@@ -617,7 +617,7 @@ public void Visit(SetGray g)
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-访问/选择 G 运算符。
+访问/选择G运营商。
 
 ```csharp
 public void Visit(SetGrayStroke G)
@@ -638,7 +638,7 @@ public void Visit(SetGrayStroke G)
 
 ## Visit(GS) {#visit_27}
 
-访问/选择 gs 运算符。
+访问/选择 gs 运营商。
 
 ```csharp
 public void Visit(GS gs)
@@ -646,7 +646,7 @@ public void Visit(GS gs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| gs | GS | 设置图形状态运算符。 |
+| gs | GS | 设置图形状态算子。 |
 
 ### 也可以看看
 
@@ -659,7 +659,7 @@ public void Visit(GS gs)
 
 ## Visit(ClosePath) {#visit_6}
 
-访问/选择 h 运算符。
+访问/选择 h 操作员。
 
 ```csharp
 public void Visit(ClosePath h)
@@ -667,7 +667,7 @@ public void Visit(ClosePath h)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| h | ClosePath | 关闭子路径运算符。 |
+| h | ClosePath | 关闭子路径操作符。 |
 
 ### 也可以看看
 
@@ -680,7 +680,7 @@ public void Visit(ClosePath h)
 
 ## Visit(SetFlat) {#visit_53}
 
-访问/选择 i 运算符。
+访问/选择 i 操作员。
 
 ```csharp
 public void Visit(SetFlat i)
@@ -688,7 +688,7 @@ public void Visit(SetFlat i)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| i | SetFlat | 设置平面度公差运算符。 |
+| i | SetFlat | 设置平面度公差算子。 |
 
 ### 也可以看看
 
@@ -701,7 +701,7 @@ public void Visit(SetFlat i)
 
 ## Visit(ID) {#visit_29}
 
-访问/选择 ID 运算符。
+访问/选择 ID 操作员。
 
 ```csharp
 public void Visit(ID ID)
@@ -722,7 +722,7 @@ public void Visit(ID ID)
 
 ## Visit(SetLineCap) {#visit_58}
 
-访问/选择 J 运算符。
+访问/选择J操作员。
 
 ```csharp
 public void Visit(SetLineCap J)
@@ -743,7 +743,7 @@ public void Visit(SetLineCap J)
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-访问/选择 k 运算符。
+访问/选择k运营商。
 
 ```csharp
 public void Visit(SetCMYKColor k)
@@ -751,7 +751,7 @@ public void Visit(SetCMYKColor k)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| k | SetCMYKColor | 设置 CMYK 颜色运算符（用于非描边操作）。 |
+| k | SetCMYKColor | 设置 CMYK 颜色操作符（用于非描边操作）。 |
 
 ### 也可以看看
 
@@ -764,7 +764,7 @@ public void Visit(SetCMYKColor k)
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-访问/选择 K 运算符。
+访问/选择K运营商。
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
@@ -785,7 +785,7 @@ public void Visit(SetCMYKColorStroke K)
 
 ## Visit(LineTo) {#visit_30}
 
-访问/选择 l 运算符。
+访问/选择 l 操作员。
 
 ```csharp
 public void Visit(LineTo l)
@@ -806,7 +806,7 @@ public void Visit(LineTo l)
 
 ## Visit(MoveTo) {#visit_33}
 
-访问/选择 m 运算符。
+访问/选择 m 操作员。
 
 ```csharp
 public void Visit(MoveTo m)
@@ -814,7 +814,7 @@ public void Visit(MoveTo m)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| m | MoveTo | 开始新的子路径运算符。 |
+| m | MoveTo | 开始新的子路径操作符。 |
 
 ### 也可以看看
 
@@ -827,7 +827,7 @@ public void Visit(MoveTo m)
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-访问/选择 M 运算符。
+访问/选择M运营商。
 
 ```csharp
 public void Visit(SetMiterLimit M)
@@ -848,7 +848,7 @@ public void Visit(SetMiterLimit M)
 
 ## Visit(MP) {#visit_36}
 
-访问/选择 MP 运算符。
+访问/选择 MP 操作员。
 
 ```csharp
 public void Visit(MP MP)
@@ -856,7 +856,7 @@ public void Visit(MP MP)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| MP | MP | 定义标记内容点运算符。 |
+| MP | MP | 定义标记内容点操作符。 |
 
 ### 也可以看看
 
@@ -869,7 +869,7 @@ public void Visit(MP MP)
 
 ## Visit(EndPath) {#visit_18}
 
-访问/选择 n 运算符。
+访问/选择n个操作员。
 
 ```csharp
 public void Visit(EndPath n)
@@ -877,7 +877,7 @@ public void Visit(EndPath n)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| n | EndPath | 结束路径运算符（没有填充或描边）。 |
+| n | EndPath | 结束路径运算符（不填充或描边）。 |
 
 ### 也可以看看
 
@@ -890,7 +890,7 @@ public void Visit(EndPath n)
 
 ## Visit(GSave) {#visit_28}
 
-访问/选择 q 运算符。
+访问/选择q操作员。
 
 ```csharp
 public void Visit(GSave q)
@@ -898,7 +898,7 @@ public void Visit(GSave q)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| q | GSave | 保存图形状态操作符。 |
+| q | GSave | 保存图形状态算子。 |
 
 ### 也可以看看
 
@@ -932,7 +932,7 @@ public void Visit(GRestore Q)
 
 ## Visit(Re) {#visit_38}
 
-访问/选择重新运算符。
+访问/选择重新操作员。
 
 ```csharp
 public void Visit(Re re)
@@ -953,7 +953,7 @@ public void Visit(Re re)
 
 ## Visit(SetRGBColor) {#visit_62}
 
-访问/选择 rg 运算符。
+访问/选择 rg 操作员。
 
 ```csharp
 public void Visit(SetRGBColor rg)
@@ -974,7 +974,7 @@ public void Visit(SetRGBColor rg)
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-访问/选择 RG 运算符。
+访问/选择 RG 操作员。
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
@@ -995,7 +995,7 @@ public void Visit(SetRGBColorStroke RG)
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-访问/选择 ri 运算符。
+访问/选择 ri 运营商。
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
@@ -1003,7 +1003,7 @@ public void Visit(SetColorRenderingIntent ri)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | 设置显色意图运算符。 |
+| ri | SetColorRenderingIntent | 设置显色意图算子。 |
 
 ### 也可以看看
 
@@ -1016,7 +1016,7 @@ public void Visit(SetColorRenderingIntent ri)
 
 ## Visit(ClosePathStroke) {#visit_9}
 
-访问/选择运算符。
+访问/选择运营商。
 
 ```csharp
 public void Visit(ClosePathStroke s)
@@ -1024,7 +1024,7 @@ public void Visit(ClosePathStroke s)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| s | ClosePathStroke | 闭合和描边路径运算符。 |
+| s | ClosePathStroke | 关闭和描边路径运算符。 |
 
 ### 也可以看看
 
@@ -1037,7 +1037,7 @@ public void Visit(ClosePathStroke s)
 
 ## Visit(Stroke) {#visit_72}
 
-访问/选择 S 运算符。
+访问/选择S运营商。
 
 ```csharp
 public void Visit(Stroke S)
@@ -1045,7 +1045,7 @@ public void Visit(Stroke S)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| S | Stroke | 笔划路径运算符。 |
+| S | Stroke | 笔划路径运算符. |
 
 ### 也可以看看
 
@@ -1058,7 +1058,7 @@ public void Visit(Stroke S)
 
 ## Visit(SetColor) {#visit_47}
 
-访问/选择 sc 运算符。
+访问/选择 sc 操作员。
 
 ```csharp
 public void Visit(SetColor sc)
@@ -1079,7 +1079,7 @@ public void Visit(SetColor sc)
 
 ## Visit(SetColorStroke) {#visit_51}
 
-访问/选择 SC 运算符。
+访问/选择 SC 操作员。
 
 ```csharp
 public void Visit(SetColorStroke SC)
@@ -1087,7 +1087,7 @@ public void Visit(SetColorStroke SC)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| SC | SetColorStroke | 设置颜色运算符（用于描边操作）。 |
+| SC | SetColorStroke | 设置颜色操作符（用于描边操作）。 |
 
 ### 也可以看看
 
@@ -1100,7 +1100,7 @@ public void Visit(SetColorStroke SC)
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-访问/选择 scn 运算符。
+访问/选择scn运营商。
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
@@ -1108,7 +1108,7 @@ public void Visit(SetAdvancedColor scn)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| scn | SetAdvancedColor | 设置颜色运算符（用于非描边操作、ICCBased 和特殊颜色空间）。 |
+| scn | SetAdvancedColor | 设置颜色操作符（用于非描边操作、ICCBased 和特殊颜色空间）。 |
 
 ### 也可以看看
 
@@ -1121,7 +1121,7 @@ public void Visit(SetAdvancedColor scn)
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-访问/选择 SCN 运算符。
+访问/选择SCN运营商。
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
@@ -1129,7 +1129,7 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | 设置颜色运算符（用于描边操作，ICCBased 和特殊颜色空间）。 |
+| SCN | SetAdvancedColorStroke | 设置颜色操作符（用于描边操作、ICCBased 和特殊颜色空间）。 |
 
 ### 也可以看看
 
@@ -1142,7 +1142,7 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 ## Visit(ShFill) {#visit_70}
 
-访问/选择 sh 运算符。
+访问/选择 sh 操作员。
 
 ```csharp
 public void Visit(ShFill sh)
@@ -1184,7 +1184,7 @@ public void Visit(MoveToNextLine T_)
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-访问/选择 Tc 运算符。
+访问/选择Tc运营商。
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
@@ -1205,7 +1205,7 @@ public void Visit(SetCharacterSpacing Tc)
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-访问/选择 Td 运算符。
+访问/选择 Td 运营商。
 
 ```csharp
 public void Visit(MoveTextPosition Td)
@@ -1213,7 +1213,7 @@ public void Visit(MoveTextPosition Td)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| Td | MoveTextPosition | 移动文本位置运算符。 |
+| Td | MoveTextPosition | 移动文本位置操作符. |
 
 ### 也可以看看
 
@@ -1226,7 +1226,7 @@ public void Visit(MoveTextPosition Td)
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-访问/选择 TD 运营商。
+访问/选择TD运营商。
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
@@ -1247,7 +1247,7 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 ## Visit(SelectFont) {#visit_39}
 
-访问/选择 Tf 运算符。
+访问/选择 Tf 操作员。
 
 ```csharp
 public void Visit(SelectFont Tf)
@@ -1255,7 +1255,7 @@ public void Visit(SelectFont Tf)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| Tf | SelectFont | 设置文本字体和大小运算符。 |
+| Tf | SelectFont | 设置文本字体和大小操作符。 |
 
 ### 也可以看看
 
@@ -1268,7 +1268,7 @@ public void Visit(SelectFont Tf)
 
 ## Visit(ShowText) {#visit_71}
 
-访问/选择 Tj 运算符。
+访问/选择Tj运营商。
 
 ```csharp
 public void Visit(ShowText Tj)
@@ -1289,7 +1289,7 @@ public void Visit(ShowText Tj)
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-访问/选择 TJ 运算符。
+访问/选择TJ运营商。
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
@@ -1310,7 +1310,7 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 ## Visit(SetTextLeading) {#visit_65}
 
-访问/选择 TL 运算符。
+访问/选择 TL 操作员。
 
 ```csharp
 public void Visit(SetTextLeading TL)
@@ -1331,7 +1331,7 @@ public void Visit(SetTextLeading TL)
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-访问/选择 Tm 运算符。
+访问/选择 Tm 操作员。
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
@@ -1352,7 +1352,7 @@ public void Visit(SetTextMatrix Tm)
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
-访问/选择 Tr 运算符。
+访问/选择 Tr 操作员。
 
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
@@ -1373,7 +1373,7 @@ public void Visit(SetTextRenderingMode Tr)
 
 ## Visit(SetTextRise) {#visit_68}
 
-访问/选择 Ts 运算符。
+访问/选择 Ts 算子。
 
 ```csharp
 public void Visit(SetTextRise Ts)
@@ -1394,7 +1394,7 @@ public void Visit(SetTextRise Ts)
 
 ## Visit(SetWordSpacing) {#visit_69}
 
-访问/选择 Tw 运算符。
+访问/选择 Tw 操作员。
 
 ```csharp
 public void Visit(SetWordSpacing Tw)
@@ -1415,7 +1415,7 @@ public void Visit(SetWordSpacing Tw)
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-访问/选择 Tz 运算符。
+访问/选择 Tz 运营商。
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
@@ -1423,7 +1423,7 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | 设置横向文本缩放运算符。 |
+| Tz | SetHorizontalTextScaling | 设置文本水平缩放算子。 |
 
 ### 也可以看看
 
@@ -1436,7 +1436,7 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 ## Visit(CurveTo1) {#visit_12}
 
-访问/选择 v 运算符。
+访问/选择 v 操作员。
 
 ```csharp
 public void Visit(CurveTo1 v)
@@ -1478,7 +1478,7 @@ public void Visit(EOClip W_)
 
 ## Visit(SetLineWidth) {#visit_60}
 
-访问/选择 w 运算符。
+访问/选择 w 操作员。
 
 ```csharp
 public void Visit(SetLineWidth w)
@@ -1499,7 +1499,7 @@ public void Visit(SetLineWidth w)
 
 ## Visit(Clip) {#visit_5}
 
-访问/选择 W 运算符。
+访问/选择W运营商。
 
 ```csharp
 public void Visit(Clip W)
@@ -1507,7 +1507,7 @@ public void Visit(Clip W)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| W | Clip | 设置剪切路径运算符（非零绕数规则）。 |
+| W | Clip | 设置剪切路径算子（非零绕组数规则）。 |
 
 ### 也可以看看
 
@@ -1520,7 +1520,7 @@ public void Visit(Clip W)
 
 ## Visit(CurveTo2) {#visit_13}
 
-访问/选择 y 运算符。
+访问/选择 y 运营商。
 
 ```csharp
 public void Visit(CurveTo2 y)
@@ -1528,7 +1528,7 @@ public void Visit(CurveTo2 y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| y | CurveTo2 | 将曲线段附加到路径运算符（已复制最终点）。 |
+| y | CurveTo2 | 将曲线段附加到路径运算符（复制的最终点）。 |
 
 ### 也可以看看
 
@@ -1541,7 +1541,7 @@ public void Visit(CurveTo2 y)
 
 ## Visit(TextOperator) {#visit_73}
 
-访问/选择任何文本运算符运算符。
+访问/选择任何文本运算符 operator.
 
 ```csharp
 public void Visit(TextOperator textOperator)

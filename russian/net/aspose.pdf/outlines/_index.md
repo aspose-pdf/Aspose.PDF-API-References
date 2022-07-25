@@ -18,19 +18,19 @@ public abstract class Outlines : ICollection<OutlineItemCollection>
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Count](../../aspose.pdf/outlines/count) { get; } | Получает количество. |
+| abstract [Count](../../aspose.pdf/outlines/count) { get; } | Получает счет. |
 | abstract [IsReadOnly](../../aspose.pdf/outlines/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения. |
-| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount) { get; } | Получает общее количество элементов структуры на всех уровнях иерархии структуры документа. |
+| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount) { get; } | Получает общее количество элементов схемы на всех уровнях иерархии структуры документа. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | abstract [Add](../../aspose.pdf/outlines/add)(OutlineItemCollection) | Добавляет элемент схемы в коллекцию. |
-| abstract [Clear](../../aspose.pdf/outlines/clear)() | Удаляет все предметы из коллекции. |
-| abstract [Contains](../../aspose.pdf/outlines/contains)(OutlineItemCollection) | Всегда генерирует исключение NotImplementedException. |
-| abstract [CopyTo](../../aspose.pdf/outlines/copyto)(OutlineItemCollection[], int) | Копирует записи структуры в System.Array, начиная с определенного индекса System.Array. |
-| abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| abstract [Clear](../../aspose.pdf/outlines/clear)() | Удаляет все элементы из коллекции. |
+| abstract [Contains](../../aspose.pdf/outlines/contains)(OutlineItemCollection) | Всегда выдает NotImplementedException. |
+| abstract [CopyTo](../../aspose.pdf/outlines/copyto)(OutlineItemCollection[], int) | Копирует элементы схемы в System.Array, начиная с определенного индекса System.Array. |
+| abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | abstract [Remove](../../aspose.pdf/outlines/remove)(OutlineItemCollection) | Удалить элемент коллекции контуров. |
 
 ### Смотрите также

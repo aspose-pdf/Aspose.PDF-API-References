@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API 参考
-description: 将运算符复制到运算符列表中
+description: 将操作符复制到操作符列表中
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/baseoperatorcollection/copyto/
 ---
 ## BaseOperatorCollection.CopyTo method
 
-将运算符复制到运算符列表中。
+将操作符复制到操作符列表中。
 
 ```csharp
 public abstract void CopyTo(Operator[] array, int index)

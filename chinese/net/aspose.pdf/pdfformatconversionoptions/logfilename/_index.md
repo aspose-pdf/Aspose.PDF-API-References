@@ -1,14 +1,14 @@
 ---
 title: LogFileName
 second_title: Aspose.PDF for .NET API 参考
-description: 存储注释的文件路径
+description: 将存储评论的文件路径
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/logfilename/
 ---
 ## PdfFormatConversionOptions.LogFileName property
 
-存储注释的文件路径。
+将存储评论的文件路径。
 
 ```csharp
 public string LogFileName { get; set; }

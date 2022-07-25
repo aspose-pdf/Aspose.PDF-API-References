@@ -1,14 +1,14 @@
 ---
 title: NamedAction
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет именованные действия которые должны поддерживать приложения для просмотра PDF.
+description: Представляет именованные действия которые как ожидается будут поддерживать приложения для просмотра PDF-файлов.
 type: docs
 weight: 740
 url: /ru/net/aspose.pdf.annotations/namedaction/
 ---
 ## NamedAction class
 
-Представляет именованные действия, которые должны поддерживать приложения для просмотра PDF.
+Представляет именованные действия, которые, как ожидается, будут поддерживать приложения для просмотра PDF-файлов.
 
 ```csharp
 public sealed class NamedAction : PdfAction
@@ -24,7 +24,7 @@ public sealed class NamedAction : PdfAction
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/namedaction/name) { get; set; } | Получает или задает действие, которое необходимо выполнить. |
+| [Name](../../aspose.pdf.annotations/namedaction/name) { get; set; } | Получает или задает выполняемое действие. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Следующие действия по порядку. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: Lang
 second_title: Aspose.PDF for .NET API 参考
-description: 可选PDF 1.4在结构元素中为所有文本 指定自然语言的语言嵌套结构的语言规范覆盖的情况除外 元素或标记的内容
+description: 可选PDF 1.4一种语言为结构元素中的所有 text 指定自然语言但嵌套结构 元素或标记内容的语言规范覆盖的除外
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.structure/element/lang/
 ---
 ## Element.Lang property
 
-（可选；PDF 1.4）在结构元素中为所有文本 指定自然语言的语言，嵌套结构的语言规范覆盖的情况除外 元素或标记的内容。
+（可选；PDF 1.4）一种语言，为结构元素中的所有 text 指定自然语言，但嵌套结构 元素或标记内容的语言规范覆盖的除外。
 
 ```csharp
 public virtual string Lang { get; set; }

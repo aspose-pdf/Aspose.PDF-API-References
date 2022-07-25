@@ -1,14 +1,14 @@
 ---
 title: ImportFormat
 second_title: Aspose.PDF для справочника API .NET
-description: Указывает формат импорта.
+description: Задает формат импорта.
 type: docs
 weight: 3800
 url: /ru/net/aspose.pdf/importformat/
 ---
 ## ImportFormat enumeration
 
-Указывает формат импорта.
+Задает формат импорта.
 
 ```csharp
 public enum ImportFormat

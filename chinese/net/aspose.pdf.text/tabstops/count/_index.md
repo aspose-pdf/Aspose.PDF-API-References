@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 用指定的位置和 初始化TabStopaspose.pdf.text/tabstop类的新实例将其添加到 TabStops 集合
+description: 初始化TabStopaspose.pdf.text/tabstop具有指定位置和 的类将其添加到 TabStops 集合中
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/tabstops/count/
 ---
 ## TabStops.Count property
 
-用指定的位置和 初始化[`TabStop`](../../tabstop)类的新实例将其添加到 TabStops 集合。
+初始化[`TabStop`](../../tabstop)具有指定位置和 的类将其添加到 TabStops 集合中。
 
 ```csharp
 public int Count { get; }
@@ -20,7 +20,7 @@ public int Count { get; }
 
 ### 返回值
 
-新[`TabStop`](../../tabstop)对象。
+新的[`TabStop`](../../tabstop)目的。
 
 ### 也可以看看
 

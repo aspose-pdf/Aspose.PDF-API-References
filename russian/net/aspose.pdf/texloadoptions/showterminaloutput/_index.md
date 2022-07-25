@@ -1,14 +1,14 @@
 ---
 title: ShowTerminalOutput
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает флаг указывающий показывать ли вывод терминала на консоли.
+description: Получает/устанавливает флаг указывающий следует ли отображать выходные данные терминала на консоли.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/texloadoptions/showterminaloutput/
 ---
 ## TeXLoadOptions.ShowTerminalOutput property
 
-Получает/устанавливает флаг, указывающий, показывать ли вывод терминала на консоли.
+Получает/устанавливает флаг, указывающий, следует ли отображать выходные данные терминала на консоли.
 
 ```csharp
 public bool ShowTerminalOutput { get; set; }

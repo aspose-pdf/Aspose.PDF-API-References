@@ -1,26 +1,26 @@
 ---
 title: Aspose.Pdf.Drawing
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.Drawing 命名空间提供描述图形基元如弧线圆等的类. 对应的对象可用于创建新文档
+description: 的 Aspose.Pdf.Drawing命名空间提供描述图形基元的类如弧线圆等 对应的对象可用于创建新文档
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.drawing/
 ---
-**Aspose.Pdf.Drawing** 命名空间提供描述图形基元（如弧、线、圆等）的类. 对应的对象可用于创建新文档。
+的 **Aspose.Pdf.Drawing**命名空间提供描述图形基元的类，如弧、线、圆等。 对应的对象可用于创建新文档。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [Arc](./arc) | 表示圆弧。 |
+| [Arc](./arc) | 代表弧线。 |
 | [Circle](./circle) | 代表圆。 |
-| [Curve](./curve) | 表示贝塞尔曲线。 |
+| [Curve](./curve) | 代表贝塞尔曲线。 |
 | [Ellipse](./ellipse) | 表示椭圆。 |
 | [GradientAxialShading](./gradientaxialshading) | 表示渐变轴向着色类。 |
 | [GradientRadialShading](./gradientradialshading) | 表示渐变径向着色类型。 |
 | [Graph](./graph) | 表示图形 - 图形生成器段落。 |
-| [Line](./line) | 代表行。 |
-| [Path](./path) | 表示圆弧。 |
+| [Line](./line) | 代表线。 |
+| [Path](./path) | 代表弧线。 |
 | [PatternColorSpace](./patterncolorspace) | 表示基本模式类。 |
 | [Rectangle](./rectangle) | 表示矩形。 |
 | [Shape](./shape) | 表示形状 - 基础图形对象。 |

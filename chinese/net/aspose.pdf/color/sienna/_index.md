@@ -1,14 +1,14 @@
 ---
 title: Sienna
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为FFA0522D 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FFA0522D.
 type: docs
 weight: 1230
 url: /zh/net/aspose.pdf/color/sienna/
 ---
 ## Color.Sienna property
 
-获取 ARGB 值为#FFA0522D 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FFA0522D.
 
 ```csharp
 public static Color Sienna { get; }
@@ -16,7 +16,7 @@ public static Color Sienna { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

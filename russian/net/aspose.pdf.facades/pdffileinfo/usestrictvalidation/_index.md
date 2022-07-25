@@ -1,14 +1,14 @@
 ---
 title: UseStrictValidation
 second_title: Aspose.PDF для справочника API .NET
-description: Использует строгие правила проверки с помощью свойстваIsPdfFileaspose.pdf.facades/pdffileinfo/ispdffile.
+description: Использует строгие правила проверки через использованиеIsPdfFileaspose.pdf.facades/pdffileinfo/ispdffile свойство.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/
 ---
 ## PdfFileInfo.UseStrictValidation property
 
-Использует строгие правила проверки с помощью свойства[`IsPdfFile`](../ispdffile).
+Использует строгие правила проверки через использование[`IsPdfFile`](../ispdffile) свойство.
 
 ```csharp
 public bool UseStrictValidation { get; set; }

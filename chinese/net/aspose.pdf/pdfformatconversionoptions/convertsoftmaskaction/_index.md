@@ -1,14 +1,14 @@
 ---
 title: ConvertSoftMaskAction
 second_title: Aspose.PDF for .NET API 参考
-description: 对带有软遮罩的图像的操作
+description: 对带有软掩码的图像的操作
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/convertsoftmaskaction/
 ---
 ## PdfFormatConversionOptions.ConvertSoftMaskAction property
 
-对带有软遮罩的图像的操作。
+对带有软掩码的图像的操作。
 
 ```csharp
 public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API 参考
-description: 确定元素是否在集合中
+description: 确定一个元素是否在集合中
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/fontsourcecollection/contains/
 ---
 ## FontSourceCollection.Contains method
 
-确定元素是否在集合中。
+确定一个元素是否在集合中。
 
 ```csharp
 public bool Contains(FontSource item)
@@ -16,7 +16,7 @@ public bool Contains(FontSource item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | FontSource | FontSource 对象进行搜索。 |
+| item | FontSource | 要搜索的 FontSource 对象。 |
 
 ### 返回值
 

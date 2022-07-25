@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает цвет текста.
+description: Получает или задает цвет текста.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/textproperties/color/
 ---
 ## TextProperties.Color property
 
-Получает или устанавливает цвет текста.
+Получает или задает цвет текста.
 
 ```csharp
 public Color Color { get; set; }

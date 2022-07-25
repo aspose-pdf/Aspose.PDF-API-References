@@ -1,14 +1,14 @@
 ---
 title: TextDecorationType_LineThrough
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 TextDecorationTypeLineThrough - 一条穿过文本中间的线
+description: 属性 TextDecorationType LineThrough - 一条穿过文本中间的线
 type: docs
 weight: 590
 url: /zh/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_linethrough/
 ---
 ## AttributeName.TextDecorationType_LineThrough field
 
-属性 TextDecorationType:LineThrough - 一条穿过文本中间的线。
+属性 TextDecorationType: LineThrough - 一条穿过文本中间的线。
 
 ```csharp
 public static readonly AttributeName TextDecorationType_LineThrough;

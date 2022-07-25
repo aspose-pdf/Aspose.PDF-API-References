@@ -17,11 +17,11 @@ public Document CreateDocument(Stream input, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | input | Stream | Входной поток. |
-| options | LoadOptions | Параметры загрузки документа. |
+| options | LoadOptions | Варианты загрузки документов. |
 
 ### Возвращаемое значение
 
-Создан документ.
+Созданный документ.
 
 ### Смотрите также
 
@@ -43,7 +43,7 @@ public Document CreateDocument()
 
 ### Возвращаемое значение
 
-Создан документ.
+Созданный документ.
 
 ### Смотрите также
 
@@ -68,7 +68,7 @@ public Document CreateDocument(Stream input)
 
 ### Возвращаемое значение
 
-Создан документ.
+Созданный документ.
 
 ### Смотрите также
 
@@ -94,7 +94,7 @@ public Document CreateDocument(Stream input, string password)
 
 ### Возвращаемое значение
 
-Создан документ.
+Созданный документ.
 
 ### Смотрите также
 
@@ -119,7 +119,7 @@ public Document CreateDocument(string fileName)
 
 ### Возвращаемое значение
 
-Создан документ.
+Созданный документ.
 
 ### Смотрите также
 

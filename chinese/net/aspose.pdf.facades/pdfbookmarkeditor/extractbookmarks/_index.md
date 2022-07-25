@@ -47,7 +47,7 @@ public Bookmarks ExtractBookmarks(bool upperLevel)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| upperLevel | Boolean | 如果为真，则仅提取上层书签。否则，递归提取所有书签。 |
+| upperLevel | Boolean | 如果为 true，则仅提取上层书签。否则，递归提取所有书签。 |
 
 ### 返回值
 
@@ -99,7 +99,7 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-提取具有指定 bookamrk 中标题的书签的子项。
+提取书签的子项，其标题类似于指定的 bookamrk.
 
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
@@ -107,7 +107,7 @@ public Bookmarks ExtractBookmarks(Bookmark bookmark)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bookmark | Bookmark | 指定的书签。 |
+| bookmark | Bookmark | 指定的 bookamrk。 |
 
 ### 返回值
 

@@ -1,14 +1,14 @@
 ---
 title: ContentsResizeParameters
 second_title: Aspose.PDF для справочника API .NET
-description: Создает параметры изменения размера где все значения установлены на авто. При необходимости можно указать поля и размер содержимого позже.
+description: Создает параметры изменения размера где для всех значений установлено значение авто. При необходимости можно указать более поздние поля и размер содержимого.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/
 ---
 ## ContentsResizeParameters() {#constructor}
 
-Создает параметры изменения размера, где все значения установлены на "авто". При необходимости можно указать поля и размер содержимого позже.
+Создает параметры изменения размера, где для всех значений установлено значение «авто». При необходимости можно указать более поздние поля и размер содержимого.
 
 ```csharp
 public ContentsResizeParameters()
@@ -24,7 +24,7 @@ public ContentsResizeParameters()
 
 ## ContentsResizeParameters(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) {#constructor_1}
 
-Создает параметры изменения размера с указанными значениями поля и размером содержимого.
+Создает параметры изменения размера с указанными значениями полей и размером содержимого.
 
 ```csharp
 public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeValue contentsWidth, 
@@ -36,10 +36,10 @@ public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeVa
 | --- | --- | --- |
 | leftMargin | ContentsResizeValue | Значение левого поля. |
 | contentsWidth | ContentsResizeValue | Ширина содержимого. |
-| rightMargin | ContentsResizeValue | Правое поле. |
+| rightMargin | ContentsResizeValue | Правая маржа. |
 | topMargin | ContentsResizeValue | Верхнее поле. |
 | contentsHeight | ContentsResizeValue | Высота содержимого. |
-| bottomMargin | ContentsResizeValue | Нижнее поле. |
+| bottomMargin | ContentsResizeValue | Нижний край. |
 
 ### Смотрите также
 

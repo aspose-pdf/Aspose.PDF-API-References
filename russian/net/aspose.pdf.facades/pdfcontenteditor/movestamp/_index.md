@@ -17,9 +17,9 @@ public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageNumber | Int32 | Номер страницы. |
-| stampIndex | Int32 | Индекс штампа на странице. |
+| stampIndex | Int32 | Указатель штампа на странице. |
 | x | Double | Новое горизонтальное положение штампа. |
-| y | Double | Новая вертикальная позиция штампа. |
+| y | Double | Новое вертикальное положение штампа. |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public void AddFontEncs(params string[] fontEncs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontEncs | String[] | шрифт encs. |
+| fontEncs | String[] | Шрифт включен. |
 
 ### Смотрите также
 

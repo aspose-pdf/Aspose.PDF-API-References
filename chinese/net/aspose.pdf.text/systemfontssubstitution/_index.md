@@ -1,14 +1,14 @@
 ---
 title: SystemFontsSubstitution
 second_title: Aspose.PDF for .NET API 参考
-description: 表示字体替换策略类用系统字体替换字体
+description: 表示字体替换策略的类用系统字体替换字体
 type: docs
 weight: 6900
 url: /zh/net/aspose.pdf.text/systemfontssubstitution/
 ---
 ## SystemFontsSubstitution class
 
-表示字体替换策略类，用系统字体替换字体。
+表示字体替换策略的类，用系统字体替换字体。
 
 ```csharp
 public sealed class SystemFontsSubstitution : FontSubstitution
@@ -18,13 +18,13 @@ public sealed class SystemFontsSubstitution : FontSubstitution
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SystemFontsSubstitution](systemfontssubstitution)(SubstitutionFontCategories) | 初始化[`SystemFontsSubstitution`](../systemfontssubstitution)类的新实例。 |
+| [SystemFontsSubstitution](systemfontssubstitution)(SubstitutionFontCategories) | 初始化一个新的实例[`SystemFontsSubstitution`](../systemfontssubstitution)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont) { get; set; } | 获取或设置默认替换字体。 当没有找到其他有效替换但初始字体属于目标替换类别时使用该字体（[`FontCategories`](./fontcategories)）。 |
+| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont) { get; set; } | 获取或设置默认替换字体。 当没有找到其他有效替换但初始字体属于目标替换类别时使用该字体（[`FontCategories`](./fontcategories) ). |
 | [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories) { get; set; } | 获取或设置应替换为系统字体的替换字体类别。 |
 
 ### 也可以看看

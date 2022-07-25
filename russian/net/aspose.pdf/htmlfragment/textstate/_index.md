@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает шрифт
+description: Получает или устанавливает font
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/htmlfragment/textstate/
 ---
 ## HtmlFragment.TextState property
 
-Получает или устанавливает шрифт
+Получает или устанавливает font
 
 ```csharp
 public TextState TextState { get; set; }

@@ -16,7 +16,7 @@ public XmlNode GetFieldTemplate(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 必须找到模板的字段路径。 |
+| fieldName | String | 必须找到模板的字段的路径。 |
 
 ### 返回值
 

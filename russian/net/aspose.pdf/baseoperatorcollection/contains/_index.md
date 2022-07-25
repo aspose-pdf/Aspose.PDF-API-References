@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF для справочника API .NET
-description: Проверяет существует ли оператор в коллекции.
+description: Проверяет наличие оператора в коллекции.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/baseoperatorcollection/contains/
 ---
 ## BaseOperatorCollection.Contains method
 
-Проверяет, существует ли оператор в коллекции.
+Проверяет наличие оператора в коллекции.
 
 ```csharp
 public abstract bool Contains(Operator item)
@@ -16,7 +16,7 @@ public abstract bool Contains(Operator item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | Operator | Искомый предмет оператора. |
+| item | Operator | Элемент оператора, который нужно найти. |
 
 ### Возвращаемое значение
 

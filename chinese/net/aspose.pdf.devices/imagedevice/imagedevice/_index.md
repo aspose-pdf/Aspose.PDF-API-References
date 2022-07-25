@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Aspose.PDF for .NET API 参考
-description: ImageDeviceaspose.pdf.devices/imagedevice后代的抽象初始化器将分辨率设置为 150x150
+description: 的抽象初始化器ImageDeviceaspose.pdf.devices/imagedevice后代将分辨率设置为 150x150.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-[`ImageDevice`](../../imagedevice)后代的抽象初始化器，将分辨率设置为 150x150。
+的抽象初始化器[`ImageDevice`](../../imagedevice)后代，将分辨率设置为 150x150.
 
 ```csharp
 public ImageDevice()
@@ -24,7 +24,7 @@ public ImageDevice()
 
 ## ImageDevice(Resolution) {#constructor_1}
 
-[`ImageDevice`](../../imagedevice)后代的抽象初始化程序。  结果图像文件的分辨率，请参见[`Resolution`](../resolution)班级。
+的抽象初始化器[`ImageDevice`](../../imagedevice)后代.  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类.
 
 ```csharp
 public ImageDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public ImageDevice(Resolution resolution)
 
 ## ImageDevice(int, int) {#constructor_4}
 
-使用提供的图像尺寸和默认分辨率 (=150) 初始化[`JpegDevice`](../../jpegdevice)类的新实例.
+初始化[`JpegDevice`](../../jpegdevice)具有提供的图像尺寸和默认分辨率 (=150). 的类
 
 ```csharp
 public ImageDevice(int width, int height)
@@ -62,7 +62,7 @@ public ImageDevice(int width, int height)
 
 ## ImageDevice(PageSize) {#constructor_2}
 
-使用提供的图像尺寸和默认分辨率 (=150) 初始化[`JpegDevice`](../../jpegdevice)类的新实例.
+初始化[`JpegDevice`](../../jpegdevice)具有提供的图像尺寸和默认分辨率 (=150). 的类
 
 ```csharp
 public ImageDevice(PageSize pageSize)
@@ -83,7 +83,7 @@ public ImageDevice(PageSize pageSize)
 
 ## ImageDevice(int, int, Resolution) {#constructor_5}
 
-使用提供的图像尺寸和分辨率初始化[`JpegDevice`](../../jpegdevice)类的新实例。
+初始化[`JpegDevice`](../../jpegdevice)具有提供的图像尺寸和分辨率的类。
 
 ```csharp
 public ImageDevice(int width, int height, Resolution resolution)
@@ -93,7 +93,7 @@ public ImageDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
-| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../resolution)类。 |
+| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
 
 ### 也可以看看
 
@@ -106,7 +106,7 @@ public ImageDevice(int width, int height, Resolution resolution)
 
 ## ImageDevice(PageSize, Resolution) {#constructor_3}
 
-使用提供的图像尺寸和分辨率初始化[`JpegDevice`](../../jpegdevice)类的新实例。
+初始化[`JpegDevice`](../../jpegdevice)具有提供的图像尺寸和分辨率的类。
 
 ```csharp
 public ImageDevice(PageSize pageSize, Resolution resolution)
@@ -115,7 +115,7 @@ public ImageDevice(PageSize pageSize, Resolution resolution)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageSize | PageSize | 输出图像的页面大小。 |
-| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../resolution)类。 |
+| resolution | Resolution | 结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
 
 ### 也可以看看
 

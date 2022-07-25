@@ -24,7 +24,7 @@ public PdfFileSignature()
 
 ## PdfFileSignature(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`PdfFileSignature`](../../pdffilesignature)对象。
+初始化新的[`PdfFileSignature`](../../pdffilesignature)对象基于*document*.
 
 ```csharp
 public PdfFileSignature(Document document)
@@ -32,7 +32,7 @@ public PdfFileSignature(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | Pdf 文档. |
 
 ### 也可以看看
 

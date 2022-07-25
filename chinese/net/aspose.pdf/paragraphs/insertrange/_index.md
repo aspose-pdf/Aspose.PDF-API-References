@@ -16,7 +16,7 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 索引值。 |
+| index | Int32 | 指数值。 |
 | collection | IEnumerable`1 | 收藏。 |
 
 ### 也可以看看

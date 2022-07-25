@@ -1,0 +1,67 @@
+---
+title: TiffDevice
+second_title: Aspose.PDF per .NET API Reference
+description: Questa classe aiuta a salvare il documento pdf pagina per pagina in ununica immagine tiff.
+type: docs
+weight: 1800
+url: /it/net/aspose.pdf.devices/tiffdevice/
+---
+## TiffDevice class
+
+Questa classe aiuta a salvare il documento pdf pagina per pagina in un'unica immagine tiff.
+
+```csharp
+public sealed class TiffDevice : DocumentDevice
+```
+
+## Costruttori
+
+| Nome | Descrizione |
+| --- | --- |
+| [TiffDevice](tiffdevice#constructor)() | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe con le impostazioni predefinite. |
+| [TiffDevice](tiffdevice#constructor_6)(PageSize) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_1)(Resolution) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_4)(TiffSettings) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_12)(int, int) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_7)(PageSize, Resolution) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_10)(PageSize, TiffSettings) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_2)(Resolution, TiffSettings) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_5)(TiffSettings, IIndexBitmapConverter) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_13)(int, int, Resolution) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_16)(int, int, TiffSettings) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_8)(PageSize, Resolution, TiffSettings) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_14)(int, int, Resolution, TiffSettings) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+| [TiffDevice](tiffdevice#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | Inizializza una nuova istanza di[`TiffDevice`](../tiffdevice) classe. |
+
+## Proprietà
+
+| Nome | Descrizione |
+| --- | --- |
+| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode) { get; set; } | Ottiene o imposta la modalità di presentazione del modulo. |
+| [Height](../../aspose.pdf.devices/tiffdevice/height) { get; } | Ottiene l'altezza di output dell'immagine. |
+| [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions) { get; set; } | Ottiene o imposta le opzioni di rendering. |
+| [Resolution](../../aspose.pdf.devices/tiffdevice/resolution) { get; } | Ottiene la risoluzione dell'immagine. |
+| [Settings](../../aspose.pdf.devices/tiffdevice/settings) { get; } | Ottiene le impostazioni per la mappatura del pdf nell'immagine tiff. |
+| [Width](../../aspose.pdf.devices/tiffdevice/width) { get; } | Ottiene la larghezza di output dell'immagine. |
+
+## Metodi
+
+| Nome | Descrizione |
+| --- | --- |
+| [BinarizeBradley](../../aspose.pdf.devices/documentdevice/binarizebradley)(Stream, Stream, double) | Esegui la binarizzazione Bradley per il flusso di input. |
+| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, Stream) | Elabora l'intero documento e salva i risultati nello stream. |
+| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, string) | Elabora l'intero documento e salva i risultati in un file. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process#process)(Document, int, int, Stream) | Converte determinate pagine del documento in tiff e le salva nel flusso di output. |
+| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, int, int, string) | Elabora determinate pagine del documento e salva i risultati in un file. |
+
+### Guarda anche
+
+* class [DocumentDevice](../documentdevice)
+* spazio dei nomi [Aspose.Pdf.Devices](../../aspose.pdf.devices)
+* assemblea [Aspose.PDF](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

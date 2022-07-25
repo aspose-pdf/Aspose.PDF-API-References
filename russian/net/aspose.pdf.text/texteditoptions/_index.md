@@ -1,14 +1,14 @@
 ---
 title: TextEditOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Декубирует опции операций редактирования текста.
+description: Декубирует параметры операций редактирования текста.
 type: docs
 weight: 6980
 url: /ru/net/aspose.pdf.text/texteditoptions/
 ---
 ## TextEditOptions class
 
-Декубирует опции операций редактирования текста.
+Декубирует параметры операций редактирования текста.
 
 ```csharp
 public sealed class TextEditOptions : TextOptions
@@ -18,20 +18,20 @@ public sealed class TextEditOptions : TextOptions
 
 | Имя | Описание |
 | --- | --- |
-| [TextEditOptions](texteditoptions#constructor)(bool) | Инициализирует новый экземпляр объекта[`TextEditOptions`](../texteditoptions)для указанного разрешения преобразования языка. |
-| [TextEditOptions](texteditoptions#constructor_1)(FontReplace) | Инициализирует новый экземпляр объекта[`TextEditOptions`](../texteditoptions)для указанного режима поведения замены шрифта. |
-| [TextEditOptions](texteditoptions#constructor_2)(LanguageTransformation) | Инициализирует новый экземпляр объекта[`TextEditOptions`](../texteditoptions)для указанного режима поведения преобразования языка. |
-| [TextEditOptions](texteditoptions#constructor_3)(NoCharacterAction) | Инициализирует новый экземпляр объекта[`TextEditOptions`](../texteditoptions)для указанного бессимвольного режима поведения. |
+| [TextEditOptions](texteditoptions#constructor)(bool) | Инициализирует новый экземпляр[`TextEditOptions`](../texteditoptions) объект для указанного разрешения на преобразование языка. |
+| [TextEditOptions](texteditoptions#constructor_1)(FontReplace) | Инициализирует новый экземпляр[`TextEditOptions`](../texteditoptions) объект для указанного режима поведения замены шрифта. |
+| [TextEditOptions](texteditoptions#constructor_2)(LanguageTransformation) | Инициализирует новый экземпляр[`TextEditOptions`](../texteditoptions) объект для указанного режима поведения преобразования языка. |
+| [TextEditOptions](texteditoptions#constructor_3)(NoCharacterAction) | Инициализирует новый экземпляр[`TextEditOptions`](../texteditoptions) объект для указанного бессимвольного режима поведения. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AllowLanguageTransformation](../../aspose.pdf.text/texteditoptions/allowlanguagetransformation) { get; set; } | Получает или задает значение, разрешающее использование преобразования языка при добавлении или редактировании текста. true - трансформация языка будет применена при необходимости (значение по умолчанию). false - преобразование языка НЕ будет применено. |
+| [AllowLanguageTransformation](../../aspose.pdf.text/texteditoptions/allowlanguagetransformation) { get; set; } | Получает или задает значение, разрешающее использование преобразования языка при добавлении или редактировании текста. true - преобразование языка будет применено при необходимости (значение по умолчанию). false - преобразование языка НЕ будет применено. |
 | [ClippingPathsProcessing](../../aspose.pdf.text/texteditoptions/clippingpathsprocessing) { get; set; } | Получает режим обработки обтравочного контура редактируемого текста. |
-| [FontReplaceBehavior](../../aspose.pdf.text/texteditoptions/fontreplacebehavior) { get; set; } | Получает режим, который определяет поведение для сценариев замены шрифтов. |
-| [LanguageTransformationBehavior](../../aspose.pdf.text/texteditoptions/languagetransformationbehavior) { get; set; } | Получает режим, который определяет поведение для сценариев преобразования языка. |
-| [NoCharacterBehavior](../../aspose.pdf.text/texteditoptions/nocharacterbehavior) { get; set; } | Получает или устанавливает режим, определяющий поведение в случае, если шрифты не содержат запрошенных символов. |
+| [FontReplaceBehavior](../../aspose.pdf.text/texteditoptions/fontreplacebehavior) { get; set; } | Получает режим, определяющий поведение сценариев замены шрифтов. |
+| [LanguageTransformationBehavior](../../aspose.pdf.text/texteditoptions/languagetransformationbehavior) { get; set; } | Получает режим, определяющий поведение для сценариев преобразования языка. |
+| [NoCharacterBehavior](../../aspose.pdf.text/texteditoptions/nocharacterbehavior) { get; set; } | Получает или задает режим, определяющий поведение в случае, если шрифты не содержат запрошенных символов. |
 | [ReplacementFont](../../aspose.pdf.text/texteditoptions/replacementfont) { get; set; } | Получает или задает шрифт, используемый для замены, если пользовательский шрифт не содержит требуемого символа |
 | [ToAttemptGetUnderlineFromSource](../../aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource) { get; set; } | Получает или задает значение, разрешающее поиск подчеркивания текста на странице исходного документа. (Устарело) Вместо этого используйте TextSearchOptions.SearchForTextRelatedGraphics. |
 

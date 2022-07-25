@@ -33,7 +33,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
-Создает указанную закладку в документе. Метод может быть использован для формирования иерархии вложенных закладок.
+Создает указанную закладку в документе. Метод можно использовать для формирования иерархии вложенных закладок.
 
 ```csharp
 public void CreateBookmarks(Bookmark bookmark)
@@ -86,7 +86,7 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | color | Color | Цвет заголовка. |
-| boldFlag | Boolean | Флаг выделения жирным шрифтом. |
+| boldFlag | Boolean | Флаг смелой атрибуции. |
 | italicFlag | Boolean | Флаг курсивной атрибуции. |
 
 ### Примеры

@@ -16,7 +16,7 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ### Примечания
 
-Позволяет определить режим форматирования текста[`TextExtractionOptions`](../../textextractionoptions)во время извлечения. Режим по умолчанию:Pure
+Позволяет определить режим форматирования текста[`TextExtractionOptions`](../../textextractionoptions) во время извлечения. Режим по умолчаниюPure
 
 ### Примеры
 
@@ -24,19 +24,19 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ```csharp
 // открыть документ
-ocument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
 // создаем объект TextAbsorber для извлечения текста с форматированием
-extAbsorber absorber = new TextAbsorber();
+TextAbsorber absorber = new TextAbsorber();
 
-// устанавливаем чисто текстовое форматирование mode
-bsorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
+// устанавливаем режим форматирования чистого текста
+absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
 
-// принимаем поглотитель для всех страниц документа pages
-oc.Pages.Accept(absorber);
+// принимаем поглотитель для всех страниц документа
+doc.Pages.Accept(absorber);
 
-// получаем извлеченный text
-tring extractedText = absorber.Text;
+// получаем извлеченный текст
+string extractedText = absorber.Text;
 ```
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: SubmitPdf
 second_title: Aspose.PDF для справочника API .NET
-description: Если установлено документ должен быть представлен в формате PDF с использованием типа содержимого MIME application/pdf.
+description: Если установлено документ должен быть отправлен в формате PDF с использованием типа содержимого MIME application/pdf.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.annotations/submitformaction/submitpdf/
 ---
 ## SubmitFormAction.SubmitPdf field
 
-Если установлено, документ должен быть представлен в формате PDF с использованием типа содержимого MIME application/pdf.
+Если установлено, документ должен быть отправлен в формате PDF с использованием типа содержимого MIME application/pdf.
 
 ```csharp
 public const int SubmitPdf;

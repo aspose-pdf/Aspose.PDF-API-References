@@ -1,14 +1,14 @@
 ---
 title: EncryptedPayload
 second_title: Aspose.PDF for .NET API 参考
-description: 获取加密的有效负载
+description: 获取加密的有效载荷
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/filespecification/encryptedpayload/
 ---
 ## FileSpecification.EncryptedPayload property
 
-获取加密的有效负载。
+获取加密的有效载荷。
 
 ```csharp
 public EncryptedPayload EncryptedPayload { get; }

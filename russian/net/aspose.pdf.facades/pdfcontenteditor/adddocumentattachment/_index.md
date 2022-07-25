@@ -1,14 +1,14 @@
 ---
 title: AddDocumentAttachment
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет вложение документа без аннотации.
+description: Добавляет вложение к документу без аннотации.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
 ---
 ## AddDocumentAttachment(string, string) {#adddocumentattachment_1}
 
-Добавляет вложение документа без аннотации.
+Добавляет вложение к документу без аннотации.
 
 ```csharp
 public void AddDocumentAttachment(string fileAttachmentPath, string description)
@@ -38,7 +38,7 @@ editor.Save("example_out.pdf");
 
 ## AddDocumentAttachment(Stream, string, string) {#adddocumentattachment}
 
-Добавляет вложение документа без аннотации.
+Добавляет вложение к документу без аннотации.
 
 ```csharp
 public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, 

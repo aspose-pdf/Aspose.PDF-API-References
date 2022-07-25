@@ -1,14 +1,14 @@
 ---
 title: Config
 second_title: Aspose.PDF for .NET API 参考
-description: XFA 表单的 XFA 配置组件
+description: XFA 表单的 XFA Config 组件
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/xfa/config/
 ---
 ## XFA.Config property
 
-XFA 表单的 XFA 配置组件。
+XFA 表单的 XFA Config 组件。
 
 ```csharp
 public XmlNode Config { get; }

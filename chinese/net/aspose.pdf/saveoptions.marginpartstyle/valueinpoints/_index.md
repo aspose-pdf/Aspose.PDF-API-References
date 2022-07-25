@@ -1,14 +1,14 @@
 ---
 title: ValueInPoints
 second_title: Aspose.PDF for .NET API 参考
-description: 以点为单位表示边距必须是大于零的数字
+description: 以点表示边距必须是大于零的数字
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/saveoptions.marginpartstyle/valueinpoints/
 ---
 ## SaveOptions.MarginPartStyle.ValueInPoints property
 
-以点为单位表示边距。必须是大于零的数字。
+以点表示边距。必须是大于零的数字。
 
 ```csharp
 public int ValueInPoints { get; set; }

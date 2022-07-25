@@ -18,20 +18,20 @@ public enum SaveFormat
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Pdf | `0` | 表示保存而不改变格式，即PDF 请使用它而不是'SaveFormat.None'，这是一个过时的 |
-| None | `0` | 表示保存不改变格式，即为PDF 已经过时了，最终会被删除， 请使用而是 'SaveFormat.Pdf' |
+| Pdf | `0` | 表示保存而不更改格式，即PDF 请使用它而不是'SaveFormat.None'，即已过时的one |
+| None | `0` | 表示保存不改变格式，即为PDF 已过时，终将被删除， 请改用'SaveFormat.Pdf' |
 | Doc | `1` | 表示以 DOC 格式保存 |
 | Xps | `2` | 表示保存为 XPS 格式 |
 | Html | `3` | 表示以 HTML 格式保存 |
 | Xml | `4` | 表示以 XML 格式保存 |
-| TeX | `5` | 表示以 TEX 格式保存，即适合 Latex 文本编辑器的格式 |
+| TeX | `5` | 表示保存为 TEX 格式，即适合 Latex 文本编辑器的格式 |
 | DocX | `6` | 表示以 DOCX 格式保存 |
 | Svg | `7` | 表示以 SVG 格式保存 |
 | MobiXml | `8` | 表示保存为 MobiXML 格式（电子书的特殊格式） |
 | Excel | `9` | 表示保存为 MsExcel 格式 |
 | Epub | `10` | 表示保存为 EPUB 格式（电子书的特殊格式） |
 | Pptx | `14` | 表示保存为 PPTX 格式 |
-| Aps | `15` | 保存为 APS XML 文件。 |
+| Aps | `15` | 另存为 APS XML 文件。 |
 | PdfXml | `16` | XML 格式的内部 PDF 文档结构 |
 
 ### 也可以看看

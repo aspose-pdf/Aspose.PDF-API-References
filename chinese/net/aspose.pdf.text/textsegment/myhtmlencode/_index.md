@@ -1,14 +1,14 @@
 ---
 title: MyHtmlEncode
 second_title: Aspose.PDF for .NET API 参考
-description: 将字符串编码为 html
+description: 将字符串编码为 html.
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.text/textsegment/myhtmlencode/
 ---
 ## TextSegment.MyHtmlEncode method
 
-将字符串编码为 html。
+将字符串编码为 html.
 
 ```csharp
 public static string MyHtmlEncode(string value)
@@ -20,7 +20,7 @@ public static string MyHtmlEncode(string value)
 
 ### 返回值
 
-Html 编码字符串。
+Html 编码的字符串。
 
 ### 也可以看看
 

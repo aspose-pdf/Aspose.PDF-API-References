@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置注释的旋转
+description: 获取或设置注解的旋转
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/characteristics/rotate/
 ---
 ## Characteristics.Rotate property
 
-获取或设置注释的旋转。
+获取或设置注解的旋转。
 
 ```csharp
 public Rotation Rotate { get; set; }

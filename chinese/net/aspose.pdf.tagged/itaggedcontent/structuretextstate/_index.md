@@ -1,14 +1,14 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF for .NET API 参考
-description: 获取StructureTextStateaspose.pdf.logicalstructure/structuretextstate整个文档的设置
+description: 得到StructureTextStateaspose.pdf.logicalstructure/structuretextstate整个文档的设置
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
 ## ITaggedContent.StructureTextState property
 
-获取[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate)整个文档的设置。
+得到[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate)整个文档的设置。
 
 ```csharp
 public StructureTextState StructureTextState { get; }

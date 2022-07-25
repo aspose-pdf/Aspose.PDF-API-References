@@ -1,14 +1,14 @@
 ---
 title: SPLITHIN
 second_title: Aspose.PDF для справочника API .NET
-description: IN Горизонтальное разделение
+description: В горизонтальном разделении
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/splithin/
 ---
 ## PdfPageEditor.SPLITHIN field
 
-IN Горизонтальное разделение
+В горизонтальном разделении
 
 ```csharp
 public const int SPLITHIN;

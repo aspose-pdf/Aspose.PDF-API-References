@@ -16,7 +16,7 @@ public void Add(Artifact artifact)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| artifact | Artifact | 应该添加到收藏中的工件。 |
+| artifact | Artifact | 应该添加到收藏中的神器。 |
 
 ### 也可以看看
 

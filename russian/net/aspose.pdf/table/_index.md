@@ -25,10 +25,10 @@ public sealed class Table : BaseParagraph
 | Имя | Описание |
 | --- | --- |
 | [Alignment](../../aspose.pdf/table/alignment) { get; set; } | Получает или задает выравнивание таблицы. |
-| [BackgroundColor](../../aspose.pdf/table/backgroundcolor) { get; set; } | Получает или устанавливает цвет фона таблицы |
+| [BackgroundColor](../../aspose.pdf/table/backgroundcolor) { get; set; } | Получает или задает цвет фона таблицы |
 | [Border](../../aspose.pdf/table/border) { get; set; } | Получает или устанавливает границу. |
-| [BreakText](../../aspose.pdf/table/breaktext) { get; set; } | Получает или задает текст разрыва для таблицы |
-| [Broken](../../aspose.pdf/table/broken) { get; set; } | Получает или устанавливает неработающую вертикаль таблицы; |
+| [BreakText](../../aspose.pdf/table/breaktext) { get; set; } | Получает или задает текст разрыва для table |
+| [Broken](../../aspose.pdf/table/broken) { get; set; } | Получает или задает неверную вертикаль таблицы; |
 | [ColumnAdjustment](../../aspose.pdf/table/columnadjustment) { get; set; } | Получает или задает настройку столбца таблицы. |
 | [ColumnWidths](../../aspose.pdf/table/columnwidths) { get; set; } | Получает ширину столбцов таблицы. |
 | [CornerStyle](../../aspose.pdf/table/cornerstyle) { get; set; } | Получает или задает стили углов границы |
@@ -37,16 +37,16 @@ public sealed class Table : BaseParagraph
 | [DefaultCellTextState](../../aspose.pdf/table/defaultcelltextstate) { get; set; } | Получает или задает состояние текста ячейки по умолчанию. |
 | [DefaultColumnWidth](../../aspose.pdf/table/defaultcolumnwidth) { get; set; } | Получает границу ячейки по умолчанию; |
 | virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | Получает или задает горизонтальное выравнивание абзаца |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Получает или устанавливает гиперссылку фрагмента (для генератора pdf). |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Получает или устанавливает гиперссылку на фрагмент (для генератора pdf). |
 | [IsBordersIncluded](../../aspose.pdf/table/isbordersincluded) { get; set; } | Получает или устанавливает границу, включенную в ширину столбца. |
-| [IsBroken](../../aspose.pdf/table/isbroken) { get; set; } | Получает или устанавливает, что таблица сломана - будет усечена для следующей страницы. |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Получает или задает логическое значение, указывающее, будет ли этот абзац в следующем столбце. По умолчанию false. (для генерации pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Получает или задает встроенный абзац. По умолчанию false. (для генерации pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Получает или устанавливает логическое значение, которое принудительно генерирует этот абзац на новой странице. По умолчанию false. (для генерации pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Получает или задает логическое значение, указывающее, остается ли текущий абзац на той же странице, что и следующий абзац. По умолчанию false. (для генерации pdf) |
-| [Left](../../aspose.pdf/table/left) { get; set; } | Получает или задает левую координату стола. |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Получает или задает внешнее поле для абзаца (для создания pdf) |
-| [RepeatingColumnsCount](../../aspose.pdf/table/repeatingcolumnscount) { get; set; } | Получает или задает максимальное количество столбцов для таблицы |
+| [IsBroken](../../aspose.pdf/table/isbroken) { get; set; } | Получает или задает, что таблица повреждена - будет усечена для следующей страницы. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Получает или задает логическое значение, указывающее, будет ли этот абзац находиться в следующем столбце. Значение по умолчанию — false. |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Получает или задает встроенный абзац. Значение по умолчанию — false. (для создания pdf) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Получает или задает логическое значение, которое заставляет этот абзац создаваться на новой странице. Значение по умолчанию — false. |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Получает или задает логическое значение, указывающее, остается ли текущий абзац на той же странице вместе со следующим абзацем. Значение по умолчанию — false. (для создания PDF) |
+| [Left](../../aspose.pdf/table/left) { get; set; } | Получает или задает левую координату таблицы. |
+| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Получает или задает внешнее поле для абзаца (для создания PDF-файла) |
+| [RepeatingColumnsCount](../../aspose.pdf/table/repeatingcolumnscount) { get; set; } | Получает или задает максимальное количество столбцов для table |
 | [RepeatingRowsCount](../../aspose.pdf/table/repeatingrowscount) { get; set; } | Получает количество первых строк, повторяющихся для нескольких страниц |
 | [RepeatingRowsStyle](../../aspose.pdf/table/repeatingrowsstyle) { get; set; } | Получает стиль для повторяющихся строк |
 | [Rows](../../aspose.pdf/table/rows) { get; } | Получает строки таблицы. |
@@ -59,13 +59,13 @@ public sealed class Table : BaseParagraph
 | Имя | Описание |
 | --- | --- |
 | override [Clone](../../aspose.pdf/table/clone)() | Клонировать таблицу. |
-| [GetHeight](../../aspose.pdf/table/getheight)() | Получить высоту. |
+| [GetHeight](../../aspose.pdf/table/getheight)(Page) | Получить высоту. |
 | [GetWidth](../../aspose.pdf/table/getwidth)() | Получить ширину. |
-| [ImportArray](../../aspose.pdf/table/importarray)(object[], int, int, bool) | Импортирует одномерный массив данных в таблицу. Импорт идет по одной ячейке на каждый элемент массива и начинается со строки и столбца, определенных в параметрах. Если во время импорта обнаруживается, что необходимые строки все еще отсутствуют (т.е. целевая таблица слишком мала, чтобы поглотить все данные), будут созданы необходимые строки |
-| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable_1)(DataTable, bool, int, int) | Импорт данных из System.Data.DataTable в Aspose.Pdf.Table |
-| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable)(DataTable, bool, int, byte, int, int, bool) | Импортирует объектDataTableв таблицу. |
-| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable_2)(DataTable, int[], int[], int, int, bool, bool) | Импортирует объектDataTable, но не целиком. Импортируются только указанные строки и столбцы. |
-| [ImportDataView](../../aspose.pdf/table/importdataview)(DataView, bool, int, int, int, int) | Импортирует данные объектаDataViewв таблицу. |
+| [ImportArray](../../aspose.pdf/table/importarray)(object[], int, int, bool) | Импортирует одномерный массив данных в таблицу. Импорт идет по одной ячейке на каждый элемент массива и начинается со строки и столбца, определенных в параметрах. Если во время импорта обнаружено, что нужные строки все еще отсутствуют (т.е. целевая таблица слишком мала, чтобы поглотить все данные), будут созданы необходимые строки |
+| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable_1)(DataTable, bool, int, int) | Импортирует данные из System.Data.DataTable в Aspose.Pdf.Table |
+| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable)(DataTable, bool, int, byte, int, int, bool) | ИмпортируетDataTable объект в таблицу. |
+| [ImportDataTable](../../aspose.pdf/table/importdatatable#importdatatable_2)(DataTable, int[], int[], int, int, bool, bool) | ИмпортируетDataTable объект, а не целое. Импортируются только указанные строки и столбцы. |
+| [ImportDataView](../../aspose.pdf/table/importdataview)(DataView, bool, int, int, int, int) | ИмпортируетDataView данные объекта в таблицу. |
 | [SetColumnTextState](../../aspose.pdf/table/setcolumntextstate)(int, TextState) | Установить высоту. |
 
 ### Смотрите также

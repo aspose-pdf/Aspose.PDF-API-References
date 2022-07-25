@@ -1,14 +1,14 @@
 ---
 title: TocInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTocInfoaspose.pdf/tocinfo.
+description: Инициализирует новый экземплярTocInfoaspose.pdf/tocinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/tocinfo/tocinfo/
 ---
 ## TocInfo constructor
 
-Инициализирует новый экземпляр класса[`TocInfo`](../../tocinfo).
+Инициализирует новый экземпляр[`TocInfo`](../../tocinfo) класс.
 
 ```csharp
 public TocInfo()

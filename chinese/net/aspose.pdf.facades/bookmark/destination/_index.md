@@ -1,14 +1,14 @@
 ---
 title: Destination
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置书签的目标页面如果操作设置为 string.Empty则为必需
+description: 获取或设置书签的目标页面如果操作设置为 string.Empty. 则为必需
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/bookmark/destination/
 ---
 ## Bookmark.Destination property
 
-获取或设置书签的目标页面。如果操作设置为 string.Empty，则为必需。
+获取或设置书签的目标页面。如果操作设置为 string.Empty. ，则为必需
 
 ```csharp
 public string Destination { get; set; }

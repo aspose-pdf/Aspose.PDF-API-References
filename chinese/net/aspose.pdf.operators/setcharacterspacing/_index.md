@@ -18,7 +18,7 @@ public class SetCharacterSpacing : TextStateOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetCharacterSpacing](setcharacterspacing)(double) | 初始化运算符。 |
+| [SetCharacterSpacing](setcharacterspacing)(double) | 初始化操作符。 |
 
 ## 特性
 

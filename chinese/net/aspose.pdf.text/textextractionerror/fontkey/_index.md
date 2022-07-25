@@ -1,14 +1,14 @@
 ---
 title: FontKey
 second_title: Aspose.PDF for .NET API 参考
-description: Font 对象的键PDF 名称用于显示导致提取错误的文本
+description: 用于显示导致提取错误的文本的字体对象的键PDF 名称
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textextractionerror/fontkey/
 ---
 ## TextExtractionError.FontKey property
 
-Font 对象的键（PDF 名称），用于显示导致提取错误的文本。
+用于显示导致提取错误的文本的字体对象的键（PDF 名称）。
 
 ```csharp
 public string FontKey { get; }

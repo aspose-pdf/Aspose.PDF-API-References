@@ -18,7 +18,7 @@ public class InvalidValueFormatException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [InvalidValueFormatException](invalidvalueformatexception#constructor)() | Инициализирует новый экземпляр класса[`InvalidValueFormatException`](../invalidvalueformatexception). |
+| [InvalidValueFormatException](invalidvalueformatexception#constructor)() | Инициализирует новый экземпляр[`InvalidValueFormatException`](../invalidvalueformatexception) класс. |
 | [InvalidValueFormatException](invalidvalueformatexception#constructor_1)(string) | Конструктор. |
 
 ### Смотрите также

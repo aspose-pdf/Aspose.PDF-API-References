@@ -18,18 +18,18 @@ public class GradientRadialShading : PatternColorSpace
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GradientRadialShading](gradientradialshading#constructor)() | 初始化[`GradientRadialShading`](../gradientradialshading)类的新实例。 |
-| [GradientRadialShading](gradientradialshading#constructor_1)(Color, Color) | 初始化[`GradientRadialShading`](../gradientradialshading)类的新实例。 |
+| [GradientRadialShading](gradientradialshading#constructor)() | 初始化[`GradientRadialShading`](../gradientradialshading)类. |
+| [GradientRadialShading](gradientradialshading#constructor_1)(Color, Color) | 初始化[`GradientRadialShading`](../gradientradialshading)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientradialshading/end) { get; set; } | 获取或设置结束圆的中心点。 |
+| [End](../../aspose.pdf.drawing/gradientradialshading/end) { get; set; } | 获取或设置结束圆中心点。 |
 | [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor) { get; set; } | 获取或设置结束颜色。 |
 | [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius) { get; set; } | 获取或设置结束圆半径。 |
-| [Start](../../aspose.pdf.drawing/gradientradialshading/start) { get; set; } | 获取或设置起始圆中心点。 |
-| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor) { get; set; } | 获取或设置起始颜色。 |
+| [Start](../../aspose.pdf.drawing/gradientradialshading/start) { get; set; } | 获取或设置起始圆心点。 |
+| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor) { get; set; } | 获取或设置开始颜色。 |
 | [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius) { get; set; } | 获取或设置起始圆半径。 |
 
 ### 也可以看看

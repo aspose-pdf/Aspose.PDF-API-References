@@ -16,7 +16,7 @@ public override void Save(string destFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| destFile | String | 保存文档的文件路径。 |
+| destFile | String | 将保存文档的文件路径。 |
 
 ### 也可以看看
 

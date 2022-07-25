@@ -1,14 +1,14 @@
 ---
 title: FontRepository
 second_title: Aspose.PDF for .NET API 参考
-description: 执行字体搜索搜索系统安装的字体和标准的 Pdf 字体 还提供打开自定义字体的功能
+description: 执行字体搜索在系统安装的字体和标准 Pdf 字体中搜索 还提供打开自定义字体的功能
 type: docs
 weight: 6720
 url: /zh/net/aspose.pdf.text/fontrepository/
 ---
 ## FontRepository class
 
-执行字体搜索。搜索系统安装的字体和标准的 Pdf 字体。 还提供打开自定义字体的功能。
+执行字体搜索。在系统安装的字体和标准 Pdf 字体中搜索。 还提供打开自定义字体的功能。
 
 ```csharp
 public sealed class FontRepository
@@ -31,14 +31,14 @@ public sealed class FontRepository
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont)(string) | 搜索并返回指定字体名称的字体。 |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_3)(string, bool) | 搜索并返回具有指定字体名称的字体，忽略或尊重区分大小写。 |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont)(string) | 搜索并返回具有指定字体名称的字体。 |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_3)(string, bool) | 搜索并返回具有指定字体名称的字体，忽略或遵守区分大小写。 |
 | static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_1)(string, FontStyles) | 搜索并返回具有指定字体名称和字体样式的字体。 |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | 搜索并返回具有指定字体名称和字体样式的字体 忽略或尊重区分大小写。 |
-| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts)() | 加载系统安装的字体和标准 Pdf 字体。此方法旨在加快字体加载过程。 默认情况下，首次请求任何字体时都会加载字体。使用此方法会在任何 Pdf 文档打开之前立即加载系统和标准 Pdf 字体 。 |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_1)(string) | 打开具有指定字体文件路径的字体。 |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont)(Stream, FontTypes) | 打开具有指定字体流的字体。 |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_2)(string, string) | 打开具有指定字体文件路径和度量文件路径的字体。 |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | 搜索并返回具有指定字体名称和字体样式的字体 忽略或尊重大小写敏感性。 |
+| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts)() | 加载系统安装的字体和标准的 Pdf 字体。此方法旨在加快字体加载过程。 默认情况下，首次请求任何字体时都会加载字体。使用此方法会在任何 Pdf 文档打开之前立即加载系统和标准 Pdf fonts 。 |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_1)(string) | 使用指定的字体文件路径打开字体。 |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont)(Stream, FontTypes) | 使用指定的字体流打开字体。 |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_2)(string, string) | 使用指定的字体文件路径和度量文件路径打开字体。 |
 | static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts)() | 重新加载属性指定的所有字体[`Sources`](./sources) |
 
 ### 例子
@@ -46,22 +46,22 @@ public sealed class FontRepository
 该示例演示如何查找字体并替换第一页文本的字体。
 
 ```csharp
-// 查找 font
+// 查找字体
 Font font = FontRepository.FindFont("Arial");
 
-  // 打开文档
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-  // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
+// 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-  // 接受第一页的吸收器
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-  // 更改第一个文本出现的字体
+// 更改第一个文本出现的字体
 absorber.TextFragments[1].TextState.Font = font;
 
-  // 保存文档
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 

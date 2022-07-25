@@ -28,7 +28,7 @@ public override string ToString()
 
 ## ToString(IFormatProvider) {#tostring_1}
 
-返回字符串表示。
+返回字符串表示形式。
 
 ```csharp
 public string ToString(IFormatProvider formatProvider)
@@ -36,7 +36,7 @@ public string ToString(IFormatProvider formatProvider)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatProvider | IFormatProvider | 格式提供程序。 |
+| formatProvider | IFormatProvider | 格式提供者。 |
 
 ### 返回值
 

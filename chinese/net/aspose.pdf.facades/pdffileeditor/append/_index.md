@@ -1,14 +1,14 @@
 ---
 title: Append
 second_title: Aspose.PDF for .NET API 参考
-description: 附加页面这些页面是从 portStreams 中的文档数组中选择的 结果文档包括 firstInputFile 和所有 portStreams 文档页面在 startPage 到 endPage 范围内
+description: 追加页面这些页面是从 portStreams 中的文档数组中选择的 结果文档包括 firstInputFile 和 startPage 到 endPage 范围内的所有 portStreams 文档页面
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf.facades/pdffileeditor/append/
 ---
 ## Append(Stream, Stream[], int, int, Stream) {#append_1}
 
-附加页面，这些页面是从 portStreams 中的文档数组中选择的。 结果文档包括 firstInputFile 和所有 portStreams 文档页面在 startPage 到 endPage 范围内。
+追加页面，这些页面是从 portStreams 中的文档数组中选择的。 结果文档包括 firstInputFile 和 startPage 到 endPage 范围内的所有 portStreams 文档页面。
 
 ```csharp
 public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -17,15 +17,15 @@ public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 Pdf 流。 |
+| inputStream | Stream | 输入 PDF 流。 |
 | portStreams | Stream[] | 要从中复制页面的文档。 |
-| startPage | Int32 | 页面在 portStreams 文档中开始。 |
-| endPage | Int32 | 页面以 portStreams 文档结尾。 |
-| outputStream | Stream | 输出 Pdf 流。 |
+| startPage | Int32 | 页面从 portStreams 文档开始。 |
+| endPage | Int32 | 页面以 portStreams 文件结尾。 |
+| outputStream | Stream | 输出 PDF 流。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -57,11 +57,11 @@ public bool Append(string inputFile, string[] portFiles, int startPage, int endP
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 Pdf 文件。 |
+| inputFile | String | 输入PDF文件。 |
 | portFiles | String[] | 要从中复制页面的文档。 |
-| startPage | Int32 | 页面在 portFiles 文档中开始。 |
-| endPage | Int32 | 页面以 portFiles 文档结尾。 |
-| outputFile | String | 输出 Pdf 文档。 |
+| startPage | Int32 | 页面从 portFiles 文档开始。 |
+| endPage | Int32 | 页面以 portFiles 文件结尾。 |
+| outputFile | String | 输出 PDF 文档。 |
 
 ### 返回值
 
@@ -84,7 +84,7 @@ fileEditor.Append("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "
 
 ## Append(string, string, int, int, string) {#append_3}
 
-将在 startPage 到 endPage 范围内从 portFile 中选择的页面附加到 portFile 中 firstInputFile 的末尾。
+在portFile 的firstInputFile 的末尾追加从startPage 到endPage 范围内从portFile 中选择的页面。
 
 ```csharp
 public bool Append(string inputFile, string portFile, int startPage, int endPage, string outputFile)
@@ -92,11 +92,11 @@ public bool Append(string inputFile, string portFile, int startPage, int endPage
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 Pdf 文件。 |
-| portFile | String | Pdf 文件中的页面。 |
+| inputFile | String | 输入PDF文件。 |
+| portFile | String | 来自 Pdf 文件的页面。 |
 | startPage | Int32 | 页面从 portFile 开始。 |
 | endPage | Int32 | 页面以 portFile 结尾。 |
-| outputFile | String | 输出 Pdf 文档。 |
+| outputFile | String | 输出 PDF 文档。 |
 
 ### 返回值
 
@@ -119,7 +119,7 @@ fileEditor.Append("input.pdf", "file1.pdf",  3, 5, "outfile.pdf");
 
 ## Append(Stream, Stream, int, int, Stream) {#append}
 
-在 firstInputStream 末尾的 portStream 中追加从 startPage 到 endPage 范围内的 portStream 的页面。
+在portStream 的firstInputStream 末尾追加从startPage 到endPage 范围内从portStream 中选择的页面。
 
 ```csharp
 public bool Append(Stream inputStream, Stream portStream, int startPage, int endPage, 
@@ -129,14 +129,14 @@ public bool Append(Stream inputStream, Stream portStream, int startPage, int end
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 输入文件流。 |
-| portStream | Stream | Pdf 文件流中的页面。 |
-| startPage | Int32 | 页面在 portFile 流中开始。 |
-| endPage | Int32 | 页面在 portFile 流中结束。 |
-| outputStream | Stream | 输出 Pdf 文件流。 |
+| portStream | Stream | 来自 Pdf 文件流的页面。 |
+| startPage | Int32 | 页面从 portFile Stream 开始。 |
+| endPage | Int32 | 页面以 portFile Stream 结束。 |
+| outputStream | Stream | 输出 PDF 文件流。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -168,14 +168,14 @@ public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 包含源文档的流。 |
-| portStreams | Stream[] | 要附加文档的流数组。 |
+| portStreams | Stream[] | 带有要附加的文档的流数组。 |
 | startPage | Int32 | 附加页的起始页。 |
 | endPage | Int32 | 附加页的结束页。 |
 | response | HttpResponse | 将保存文档的响应对象。 |
 
 ### 返回值
 
-如果操作成功则为真。
+如果操作成功，则为 true。
 
 ### 也可以看看
 
@@ -204,7 +204,7 @@ public bool Append(string inputFile, string[] portFiles, int startPage, int endP
 
 ### 返回值
 
-如果操作成功则为真。
+如果操作成功，则为 true。
 
 ### 也可以看看
 

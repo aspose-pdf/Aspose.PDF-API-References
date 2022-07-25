@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 根据path获取集合数据节点值
+description: 获取集合数据节点值根据path.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/xfa/item/
 ---
 ## XFA indexer
 
-根据*path*获取集合数据节点值。
+获取集合数据节点值根据*path*.
 
 ```csharp
 public string this[string path] { get; set; }
@@ -16,7 +16,7 @@ public string this[string path] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| path | 数据节点路径，例如form1[0].Subform1[0].Subform2[0 ].Subform3[0].TextField[0]。 确保包含索引，即使数据只包含每个节点的单个出现， 即写 node1[0].node2[0]... 而不是 node1.node2。 .. |
+| path | 数据节点路径，例如form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]。 确保包含索引，即使数据只包含每个节点的单个出现， 即写入 node1[0].node2[0]... 而不是 node1.node2... |
 
 ### 返回值
 

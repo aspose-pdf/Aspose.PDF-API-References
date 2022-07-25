@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions.Scope
 second_title: Aspose.PDF for .NET API 参考
-description: 应用替换文本操作的范围 REPLACE_FIRST 默认情况下 保留此过时选项以保持兼容性它对 PdfContentEditor 有影响对 TextFragmentAbsorber 没有影响
+description: 应用替换文本操作的范围 默认为 REPLACE_FIRST 保留此过时选项是为了兼容它对 PdfContentEditor 有影响对 TextFragmentAbsorber. 没有影响
 type: docs
 weight: 7190
 url: /zh/net/aspose.pdf.text/textreplaceoptions.scope/
 ---
 ## TextReplaceOptions.Scope enumeration
 
-应用替换文本操作的范围 REPLACE_FIRST 默认情况下 保留此过时选项以保持兼容性。它对 PdfContentEditor 有影响，对 TextFragmentAbsorber 没有影响。
+应用替换文本操作的范围 默认为 REPLACE_FIRST 保留此过时选项是为了兼容。它对 PdfContentEditor 有影响，对 TextFragmentAbsorber. 没有影响
 
 ```csharp
 public enum Scope

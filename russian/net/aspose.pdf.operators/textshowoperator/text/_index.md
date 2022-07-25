@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF для справочника API .NET
-description: Получает текст который оператор выводит на страницу.
+description: Получает текст который оператор находится на странице.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/textshowoperator/text/
 ---
 ## TextShowOperator.Text property
 
-Получает текст, который оператор выводит на страницу.
+Получает текст, который оператор находится на странице.
 
 ```csharp
 public virtual string Text { get; set; }

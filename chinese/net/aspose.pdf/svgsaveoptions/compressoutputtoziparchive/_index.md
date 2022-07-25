@@ -1,14 +1,14 @@
 ---
 title: CompressOutputToZipArchive
 second_title: Aspose.PDF for .NET API 参考
-description: 指定是否将输出创建为一个 zip 存档 请参考TreatTargetFileNameAsDirectory选项的注释以查看多页源文档页面的 svg 文件的命名规则 这些规则也适用于压缩的输出文件集
+description: 指定是否将输出创建为一个 zip-archive 请参阅TreatTargetFileNameAsDirectory选项的注释以查看多页源文档页面的 svg 文件的命名规则 这些规则也适用于压缩的输出文件集
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/svgsaveoptions/compressoutputtoziparchive/
 ---
 ## SvgSaveOptions.CompressOutputToZipArchive field
 
-指定是否将输出创建为一个 zip 存档。 请参考“TreatTargetFileNameAsDirectory”选项的注释，以查看多页源文档页面的 svg 文件的命名规则 ，这些规则也适用于压缩的输出文件集。
+指定是否将输出创建为一个 zip-archive。 请参阅“TreatTargetFileNameAsDirectory”选项的注释以查看多页源文档页面的 svg 文件的命名规则 ，这些规则也适用于压缩的输出文件集。
 
 ```csharp
 public bool CompressOutputToZipArchive;

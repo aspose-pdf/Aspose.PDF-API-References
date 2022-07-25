@@ -1,14 +1,14 @@
 ---
 title: PDF3DAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DAnnotationaspose.pdf.annotations/pdf3dannotation.
+description: Инициализирует новый экземплярPDF3DAnnotationaspose.pdf.annotations/pdf3dannotation класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/
 ---
 ## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork) {#constructor}
 
-Инициализирует новый экземпляр класса[`PDF3DAnnotation`](../../pdf3dannotation).
+Инициализирует новый экземпляр[`PDF3DAnnotation`](../../pdf3dannotation) класс.
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
@@ -18,7 +18,7 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 | --- | --- | --- |
 | page | Page | Страница. |
 | rect | Rectangle | Прямоугольник. |
-| pdf3DArtwork | PDF3DArtwork | 3D-иллюстрация. |
+| pdf3DArtwork | PDF3DArtwork | 3D-произведение искусства. |
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 
 ## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork, PDF3DActivation) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PDF3DAnnotation`](../../pdf3dannotation).
+Инициализирует новый экземпляр[`PDF3DAnnotation`](../../pdf3dannotation) класс.
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork, 
@@ -44,14 +44,14 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork,
 | --- | --- | --- |
 | page | Page | Страница. |
 | rect | Rectangle | Прямоугольник. |
-| pdf3DArtwork | PDF3DArtwork | 3D-иллюстрация. |
+| pdf3DArtwork | PDF3DArtwork | 3D-произведение искусства. |
 | activation | PDF3DActivation | Режим активации. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| Exception | 3D-поток уже добавлен в текущую 3D-графику |
+| Exception | 3D-поток уже добавлен в текущую 3D-графику. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SetCharWidthBoundingBox
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор d1 установить глиф и ограничивающую рамку.
+description: Класс представляющий оператор d1 установите глиф и ограничивающую рамку.
 type: docs
 weight: 5370
 url: /ru/net/aspose.pdf.operators/setcharwidthboundingbox/
 ---
 ## SetCharWidthBoundingBox class
 
-Класс, представляющий оператор d1 (установить глиф и ограничивающую рамку).
+Класс, представляющий оператор d1 (установите глиф и ограничивающую рамку).
 
 ```csharp
 public class SetCharWidthBoundingBox : Operator
@@ -30,7 +30,7 @@ public class SetCharWidthBoundingBox : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

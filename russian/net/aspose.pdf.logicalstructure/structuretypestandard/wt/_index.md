@@ -1,14 +1,14 @@
 ---
 title: WT
 second_title: Aspose.PDF для справочника API .NET
-description: Warichu text Текст комментария warichu меньшего размера отформатированный в две строки и помещенный между окружающими элементами WP.
+description: Текст варикю Текст комментария варикю меньшего размера отформатированный в две строки и помещенный между окружающими элементами WP.
 type: docs
 weight: 490
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
 ## StructureTypeStandard.WT field
 
-(Warichu text) Текст комментария warichu меньшего размера, отформатированный в две строки и помещенный между окружающими элементами WP.
+(Текст варикю) Текст комментария варикю меньшего размера, отформатированный в две строки и помещенный между окружающими элементами WP.
 
 ```csharp
 public static readonly StructureTypeStandard WT;

@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 返回字符串表示
+description: 返回字符串表示形式
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textextractionerror/tostring/
 ---
 ## TextExtractionError.ToString method
 
-返回字符串表示。
+返回字符串表示形式。
 
 ```csharp
 public override string ToString()

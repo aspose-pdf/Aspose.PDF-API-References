@@ -1,14 +1,14 @@
 ---
 title: TrimTop
 second_title: Aspose.PDF for .NET API 参考
-description: 删除 PDF 之前的数据
+description: 删除 PDF. 之前的数据
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdffilesanitization/trimtop/
 ---
 ## PdfFileSanitization.TrimTop method
 
-删除 %PDF 之前的数据。
+删除 %PDF. 之前的数据
 
 ```csharp
 public void TrimTop()

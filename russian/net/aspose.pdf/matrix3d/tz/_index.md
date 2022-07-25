@@ -1,14 +1,14 @@
 ---
 title: Tz
 second_title: Aspose.PDF для справочника API .NET
-description: Tz член матрицы преобразования.
+description: Tz элемент матрицы преобразования.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/matrix3d/tz/
 ---
 ## Matrix3D.Tz property
 
-Tz член матрицы преобразования.
+Tz элемент матрицы преобразования.
 
 ```csharp
 public double Tz { get; set; }

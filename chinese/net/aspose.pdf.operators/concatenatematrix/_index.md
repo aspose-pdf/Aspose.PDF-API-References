@@ -18,7 +18,7 @@ public class ConcatenateMatrix : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ConcatenateMatrix](concatenatematrix#constructor)(Matrix) | 通过矩阵初始化运算符。 |
+| [ConcatenateMatrix](concatenatematrix#constructor)(Matrix) | 用矩阵初始化算子。 |
 | [ConcatenateMatrix](concatenatematrix#constructor_1)(double, double, double, double, double, double) | 初始化运算符。 |
 
 ## 特性
@@ -33,7 +33,7 @@ public class ConcatenateMatrix : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/concatenatematrix/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/concatenatematrix/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/concatenatematrix/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

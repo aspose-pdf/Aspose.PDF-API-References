@@ -18,16 +18,16 @@ public class XfaParserOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XfaParserOptions](xfaparseroptions)(SizeF) | 初始化[`XfaParserOptions`](../xfaparseroptions)类的新实例。 |
+| [XfaParserOptions](xfaparseroptions)(SizeF) | 初始化[`XfaParserOptions`](../xfaparseroptions)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [BasePath](../../aspose.pdf.xfaconverter/xfaparseroptions/basepath) { get; set; } | 获取或设置基本路径。 |
-| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups) { get; set; } | 如果此属性为真，则将为所需的 Xfa“排除组”绘制额外的红色矩形 引入此属性是因为缺少类似的在将 Xfa 表示形式 转换为标准期间排除的组。 默认为假。 |
+| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups) { get; set; } | 如果此属性为真，则将为所需的 Xfa“排除组”绘制额外的红色矩形 引入此属性是因为在将表单 的 Xfa 表示形式转换为标准时缺少排除组的类似物。 默认情况下为假。 |
 | [PageSize](../../aspose.pdf.xfaconverter/xfaparseroptions/pagesize) { get; set; } | 获取或设置页面大小。 |
-| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed) { get; set; } | 如果此属性为真，则将使用 xfa 表单流（如果存在）转换文档。 如果为假，则 xfa 表单流将被忽略。 引入此属性是因为不清楚如何计算用于检查 sygnature 的校验和。 |
+| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed) { get; set; } | 如果此属性为真，则文档将使用 xfa 表单流（如果存在）进行转换。 如果为假，则 xfa 表单流将被忽略。 引入此属性是因为不清楚如何计算校验和用于检查 sygnature. |
 | [UriResolver](../../aspose.pdf.xfaconverter/xfaparseroptions/uriresolver) { get; set; } | 获取或设置 URI 解析器。 |
 
 ### 也可以看看

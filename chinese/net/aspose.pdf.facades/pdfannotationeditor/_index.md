@@ -18,8 +18,8 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfAnnotationEditor](pdfannotationeditor#constructor)() | 初始化新的[`PdfAnnotationEditor`](../pdfannotationeditor)对象。 |
-| [PdfAnnotationEditor](pdfannotationeditor#constructor_1)(Document) | 在*document*的基础上初始化新的[`PdfAnnotationEditor`](../pdfannotationeditor)对象。 |
+| [PdfAnnotationEditor](pdfannotationeditor#constructor)() | 初始化新的[`PdfAnnotationEditor`](../pdfannotationeditor)对象. |
+| [PdfAnnotationEditor](pdfannotationeditor#constructor_1)(Document) | 初始化新的[`PdfAnnotationEditor`](../pdfannotationeditor)对象基于*document*. |
 
 ## 特性
 
@@ -37,8 +37,8 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 | virtual [Close](../../aspose.pdf.facades/facade/close)() | 处理与外观绑定的 Aspose.Pdf.Document。 |
 | [DeleteAnnotation](../../aspose.pdf.facades/pdfannotationeditor/deleteannotation)(string) | 删除指定注解名称的注解。 |
 | [DeleteAnnotations](../../aspose.pdf.facades/pdfannotationeditor/deleteannotations#deleteannotations)() | 删除文档中的所有注释。 |
-| [DeleteAnnotations](../../aspose.pdf.facades/pdfannotationeditor/deleteannotations#deleteannotations_1)(string) | 删除文档中所有指定类型的注解。 |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 配置外观。 |
+| [DeleteAnnotations](../../aspose.pdf.facades/pdfannotationeditor/deleteannotations#deleteannotations_1)(string) | 删除文档中指定类型的所有注解。 |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 处理外观。 |
 | [ExportAnnotationsToXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf)(Stream) | 将注释导出到流。 |
 | [ExportAnnotationsXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf#exportannotationsxfdf)(Stream, int, int, AnnotationType[]) | 将指定注解类型的内容导出到 XFDF |
 | [ExportAnnotationsXfdf](../../aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf#exportannotationsxfdf_1)(Stream, int, int, string[]) | 将指定注解类型的内容导出到 XFDF |
@@ -47,18 +47,18 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 | [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations#flatteningannotations)() | 展平文档中的所有注释。 |
 | [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations#flatteningannotations_1)(FlattenSettings) | 展平文档中的所有注释。 |
 | [FlatteningAnnotations](../../aspose.pdf.facades/pdfannotationeditor/flatteningannotations#flatteningannotations_2)(int, int, AnnotationType[]) | 展平指定类型的注解。 |
-| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_1)(Stream, AnnotationType[]) | 从 XFDF 数据流中导入指定的注释。 |
-| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_3)(string, AnnotationType[]) | 从 XFDF 文件导入指定的注释。 |
+| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_1)(Stream, AnnotationType[]) | 从 XFDF 数据流中导入指定的注解。 |
+| [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_3)(string, AnnotationType[]) | 从 XFDF 文件中导入指定的注释。 |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations)(Stream[]) | 将注释从另一个 PDF 文档流的数组导入到文档中。 |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_2)(string[]) | 将注释从另一个 PDF 文档的数组中导入到文档中。 |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_1)(Stream[], AnnotationType[]) | 将指定的注释从另一个 PDF 文档流的数组中导入到文档中。 |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_3)(string[], AnnotationType[]) | 将指定的注释从另一个 PDF 文档的数组中导入到文档中。 |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf#importannotationsfromxfdf)(Stream) | 从 XFDF 数据流中导入所有注释。 |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf#importannotationsfromxfdf_1)(string) | 从 XFDF 文件中导入所有注释。 |
-| [ModifyAnnotations](../../aspose.pdf.facades/pdfannotationeditor/modifyannotations#modifyannotations)(int, int, Annotation) | 修改指定页面范围内指定类型的注解。 支持修改下一个注解属性:Modified、Title、Contents、Color、Subject和Open。 |
+| [ModifyAnnotations](../../aspose.pdf.facades/pdfannotationeditor/modifyannotations#modifyannotations)(int, int, Annotation) | 在指定页面范围内修改指定类型的注解。 支持修改下一个注解属性：Modified、Title、Contents、Color、Subject和Open。 |
 | [ModifyAnnotationsAuthor](../../aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor)(int, int, string, string) | 修改指定页面范围内注释的作者。 |
 | [RedactArea](../../aspose.pdf.facades/pdfannotationeditor/redactarea)(int, Rectangle, Color) | 编辑指定页面上的区域。所有内容都被删除。 |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | 将 PDF 文档保存到指定的流。 |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | 将 PDF 文档保存到指定的流中。 |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | 将 PDF 文档保存到指定文件。 |
 
 ### 也可以看看

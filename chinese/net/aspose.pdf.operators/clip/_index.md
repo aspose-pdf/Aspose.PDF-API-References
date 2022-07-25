@@ -1,14 +1,14 @@
 ---
 title: Clip
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 W 运算符的类使用非零缠绕规则设置剪切路径
+description: 表示 W 算子的类使用非零缠绕规则设置剪切路径
 type: docs
 weight: 4960
 url: /zh/net/aspose.pdf.operators/clip/
 ---
 ## Clip class
 
-表示 W 运算符的类（使用非零缠绕规则设置剪切路径）。
+表示 W 算子的类（使用非零缠绕规则设置剪切路径）。
 
 ```csharp
 public class Clip : Operator
@@ -18,7 +18,7 @@ public class Clip : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clip](clip)() | 初始化运算符。 |
+| [Clip](clip)() | 初始化操作符。 |
 
 ## 特性
 
@@ -31,7 +31,7 @@ public class Clip : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/clip/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/clip/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/clip/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

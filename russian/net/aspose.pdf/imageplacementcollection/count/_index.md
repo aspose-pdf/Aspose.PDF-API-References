@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Получает количество элементов объектаImagePlacementaspose.pdf/imageplacement фактически содержащихся в коллекции.
+description: Получает количествоImagePlacementaspose.pdf/imageplacement элементы объекта фактически содержащиеся в коллекции.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/imageplacementcollection/count/
 ---
 ## ImagePlacementCollection.Count property
 
-Получает количество элементов объекта[`ImagePlacement`](../../imageplacement), фактически содержащихся в коллекции.
+Получает количество[`ImagePlacement`](../../imageplacement) элементы объекта, фактически содержащиеся в коллекции.
 
 ```csharp
 public int Count { get; }

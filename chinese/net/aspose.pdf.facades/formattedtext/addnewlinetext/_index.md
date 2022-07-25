@@ -16,7 +16,7 @@ public void AddNewLineText(string newLineText)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newLineText | String | 新添加行的文本。 |
+| newLineText | String | 新添加的行的文本。 |
 
 ### 也可以看看
 
@@ -36,7 +36,7 @@ public void AddNewLineText(string newLineText, float lineSpacing)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newLineText | String | 新添加行的文本。 |
+| newLineText | String | 新添加的行的文本。 |
 | lineSpacing | Single | 行间距。 |
 
 ### 也可以看看

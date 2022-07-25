@@ -1,14 +1,14 @@
 ---
 title: SetFieldScript
 second_title: Aspose.PDF for .NET API 参考
-description: 为 PushButton 字段设置 JavaScript如果旧的 JavaScript 存在它将被新的 JavaScript 替换
+description: 为 PushButton 字段设置 JavaScript如果存在旧的 JavaScript它将被新的 JavaScript 替换
 type: docs
 weight: 360
 url: /zh/net/aspose.pdf.facades/formeditor/setfieldscript/
 ---
 ## FormEditor.SetFieldScript method
 
-为 PushButton 字段设置 JavaScript。如果旧的 JavaScript 存在，它将被新的 JavaScript 替换。
+为 PushButton 字段设置 JavaScript。如果存在旧的 JavaScript，它将被新的 JavaScript 替换。
 
 ```csharp
 public bool SetFieldScript(string fieldName, string script)

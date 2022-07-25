@@ -1,14 +1,14 @@
 ---
 title: ConvertTransparencyAction
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示用于转换透明度的操作
+description: 这个类代表透明度转换的动作
 type: docs
 weight: 1590
 url: /zh/net/aspose.pdf/converttransparencyaction/
 ---
 ## ConvertTransparencyAction enumeration
 
-此类表示用于转换透明度的操作。
+这个类代表透明度转换的动作。
 
 ```csharp
 public enum ConvertTransparencyAction
@@ -19,7 +19,7 @@ public enum ConvertTransparencyAction
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Default | `0` | 使用默认策略，不添加掩码。 |
-| Mask | `1` | 添加透明蒙版图像。 |
+| Mask | `1` | 添加透明蒙版图片。 |
 
 ### 也可以看看
 

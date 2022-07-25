@@ -16,7 +16,7 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Имя ключа. |
+| key | DefaultMetadataProperties | Ключевое имя. |
 | value | XmpValue | Значение, которое будет добавлено. |
 
 ### Примеры
@@ -49,7 +49,7 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | Объект расширения PDF для добавления. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | Объект расширения pdf для добавления. |
 | namespacePrefix | String | Префикс схемы. |
 | namespaceUri | String | URI пространства имен схемы. |
 | schemaDescription | String | Необязательное описание схемы. |
@@ -116,7 +116,7 @@ public void Add(string key, object value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-Добавляет в словарь пару с ключом и значением.
+Добавляет пару с ключом и значением в словарь.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
@@ -124,7 +124,7 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Добавляемый элемент. |
+| item | KeyValuePair`2 | Товар, который нужно добавить. |
 
 ### Смотрите также
 

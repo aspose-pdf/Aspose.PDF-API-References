@@ -1,14 +1,14 @@
 ---
 title: NumberFormat
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор класса NumberFormat.
+description: Конструктор для класса NumberFormat.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/numberformat/
 ---
 ## Measure.NumberFormat constructor
 
-Конструктор класса NumberFormat.
+Конструктор для класса NumberFormat.
 
 ```csharp
 public NumberFormat(Measure measure)
@@ -16,7 +16,7 @@ public NumberFormat(Measure measure)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| measure | Measure | Объект измерения, который содержит этот числовой формат. |
+| measure | Measure | Объект меры, который содержит этот числовой формат. |
 
 ### Смотрите также
 

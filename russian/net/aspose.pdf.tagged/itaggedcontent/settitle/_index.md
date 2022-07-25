@@ -1,14 +1,14 @@
 ---
 title: SetTitle
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает заголовок PDF-документа.
+description: Устанавливает заголовок для PDF-документа.
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
 ## ITaggedContent.SetTitle method
 
-Устанавливает заголовок PDF-документа.
+Устанавливает заголовок для PDF-документа.
 
 ```csharp
 public void SetTitle(string title)
@@ -16,7 +16,7 @@ public void SetTitle(string title)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | String | Название документа PDF. |
+| title | String | Название PDF-документа. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ExceptionOfLoadingIfAny
 second_title: Aspose.PDF for .NET API 参考
-description: 有时由于某种原因无法加载请求的资源 资源不可用通常不会导致转换崩溃并且 无论如何都可以创建结果文档但质量可能稍差没有图像等 如果加载过程中发生异常只需将其捕获并放入此参数 - 有时该信息对于转换器渲染结果很有用
+description: 有时由于某种原因无法加载请求的资源 资源不可用通常不会导致转换崩溃 无论如何都可以创建结果文档但质量可能稍差没有图像等 如果发生异常在加载过程中抓住它并输入这个参数 - 有时该信息对于转换器渲染结果很有用
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany/
 ---
 ## LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny field
 
-有时由于某种原因无法加载请求的资源。 资源不可用通常不会导致转换崩溃，并且 无论如何都可以创建结果文档（但质量可能稍差，没有图像等）。 如果加载过程中发生异常，只需将其捕获并放入此参数 - 有时该信息对于转换器渲染结果很有用。
+有时由于某种原因无法加载请求的资源。 资源不可用通常不会导致转换崩溃， 无论如何都可以创建结果文档（但质量可能稍差，没有图像等）。 如果发生异常在加载过程中，抓住它并输入这个参数 - 有时该信息对于转换器渲染结果很有用。
 
 ```csharp
 public Exception ExceptionOfLoadingIfAny;

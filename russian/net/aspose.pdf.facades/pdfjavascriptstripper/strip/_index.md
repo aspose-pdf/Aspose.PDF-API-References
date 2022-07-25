@@ -42,7 +42,7 @@ public bool Strip(Stream inStream, Stream outStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inStream | Stream | Поток, содержащий документ. |
-| outStream | Stream | Поток, в котором будет храниться документ. |
+| outStream | Stream | Поток, где документ будет храниться. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: ShowReason
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает видимость причины. Значение по умолчаниюправда.
+description: Получает/устанавливает видимость причины. Значение по умолчанию true.
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/showreason/
 ---
 ## SignatureCustomAppearance.ShowReason property
 
-Получает/устанавливает видимость причины. Значение по умолчанию:правда.
+Получает/устанавливает видимость причины. Значение по умолчанию: true.
 
 ```csharp
 public bool ShowReason { get; set; }

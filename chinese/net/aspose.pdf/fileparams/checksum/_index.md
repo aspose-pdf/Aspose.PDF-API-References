@@ -1,14 +1,14 @@
 ---
 title: CheckSum
 second_title: Aspose.PDF for .NET API 参考
-description: 一个 16 字节的字符串它是未压缩嵌入文件字节的校验和 校验和是通过将标准 MD5 消息摘要算法 应用于嵌入文件流的字节来计算的
+description: 一个 16 字节的字符串它是未压缩嵌入文件字节的校验和 通过将标准 MD5 消息摘要算法 应用于嵌入文件流的字节来计算校验和
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/fileparams/checksum/
 ---
 ## FileParams.CheckSum property
 
-一个 16 字节的字符串，它是未压缩嵌入文件字节的校验和。 校验和是通过将标准 MD5 消息摘要算法 应用于嵌入文件流的字节来计算的。
+一个 16 字节的字符串，它是未压缩嵌入文件字节的校验和。 通过将标准 MD5 消息摘要算法 应用于嵌入文件流的字节来计算校验和。
 
 ```csharp
 public string CheckSum { get; }

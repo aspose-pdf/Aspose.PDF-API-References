@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет текстовое состояние текста
+description: Представляет текстовое состояние text
 type: docs
 weight: 7230
 url: /ru/net/aspose.pdf.text/textstate/
 ---
 ## TextState class
 
-Представляет текстовое состояние текста
+Представляет текстовое состояние text
 
 ```csharp
 public class TextState
@@ -19,7 +19,7 @@ public class TextState
 | Имя | Описание |
 | --- | --- |
 | [TextState](textstate#constructor)() | Создает объект состояния текста. |
-| [TextState](textstate#constructor_2)(Color) | Создает объект состояния текста с указанием цвета переднего плана. |
+| [TextState](textstate#constructor_2)(Color) | Создает объект состояния текста со спецификацией цвета переднего плана. |
 | [TextState](textstate#constructor_1)(double) | Создает объект состояния текста с указанием размера шрифта. |
 | [TextState](textstate#constructor_4)(string) | Создает объект состояния текста со спецификацией семейства шрифтов. |
 | [TextState](textstate#constructor_3)(Color, double) | Создает объект состояния текста с указанием цвета переднего плана и размера шрифта. |
@@ -35,18 +35,18 @@ public class TextState
 | virtual [Font](../../aspose.pdf.text/textstate/font) { get; set; } | Получает или устанавливает шрифт текста. |
 | virtual [FontSize](../../aspose.pdf.text/textstate/fontsize) { get; set; } | Получает или устанавливает размер шрифта текста. |
 | virtual [FontStyle](../../aspose.pdf.text/textstate/fontstyle) { get; set; } | Устанавливает стиль шрифта текста. |
-| virtual [ForegroundColor](../../aspose.pdf.text/textstate/foregroundcolor) { get; set; } | Получает или устанавливает основной цвет текста. |
+| virtual [ForegroundColor](../../aspose.pdf.text/textstate/foregroundcolor) { get; set; } | Получает или задает цвет текста переднего плана. |
 | virtual [HorizontalAlignment](../../aspose.pdf.text/textstate/horizontalalignment) { get; set; } | Получает или задает горизонтальное выравнивание текста. |
 | virtual [HorizontalScaling](../../aspose.pdf.text/textstate/horizontalscaling) { get; set; } | Получает или задает горизонтальное масштабирование текста. |
-| virtual [Invisible](../../aspose.pdf.text/textstate/invisible) { get; set; } | Получает или задает невидимость текста. Это в основном отражает состояние[`RenderingMode`](./renderingmode), за исключением некоторых особых случаев (таких как отсечение). |
+| virtual [Invisible](../../aspose.pdf.text/textstate/invisible) { get; set; } | Получает или задает невидимость текста. Это в основном отражает[`RenderingMode`](./renderingmode) состояние, за исключением некоторых особых случаев (таких как отсечение). |
 | virtual [LineSpacing](../../aspose.pdf.text/textstate/linespacing) { get; set; } | Получает или задает межстрочный интервал текста. |
-| virtual [RenderingMode](../../aspose.pdf.text/textstate/renderingmode) { get; set; } | Получает или устанавливает режим рендеринга текста. |
-| virtual [StrikeOut](../../aspose.pdf.text/textstate/strikeout) { get; set; } | Устанавливает зачеркивание для текста, представленного объектом[`TextFragment`](../textfragment) |
-| virtual [StrokingColor](../../aspose.pdf.text/textstate/strokingcolor) { get; set; } | Получает или устанавливает основной цвет текста. |
+| virtual [RenderingMode](../../aspose.pdf.text/textstate/renderingmode) { get; set; } | Получает или задает режим рендеринга текста. |
+| virtual [StrikeOut](../../aspose.pdf.text/textstate/strikeout) { get; set; } | Зачеркивает текст, представленный[`TextFragment`](../textfragment) объект |
+| virtual [StrokingColor](../../aspose.pdf.text/textstate/strokingcolor) { get; set; } | Получает или задает цвет текста переднего плана. |
 | virtual [Subscript](../../aspose.pdf.text/textstate/subscript) { get; set; } | Получает или задает нижний индекс текста. |
 | virtual [Superscript](../../aspose.pdf.text/textstate/superscript) { get; set; } | Получает или задает верхний индекс текста. |
-| virtual [Underline](../../aspose.pdf.text/textstate/underline) { get; set; } | Получает или устанавливает подчеркивание для текста, представленного[`TextFragment`](../textfragment)объектом |
-| virtual [WordSpacing](../../aspose.pdf.text/textstate/wordspacing) { get; set; } | Получает или задает интервал между словами в тексте. |
+| virtual [Underline](../../aspose.pdf.text/textstate/underline) { get; set; } | Получает или задает подчеркивание текста, представленного[`TextFragment`](../textfragment) объект |
+| virtual [WordSpacing](../../aspose.pdf.text/textstate/wordspacing) { get; set; } | Получает или задает межсловный интервал в тексте. |
 
 ## Методы
 
@@ -59,7 +59,7 @@ public class TextState
 
 | Имя | Описание |
 | --- | --- |
-| readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue) | Значение по умолчанию табуляции в ширине символа пробела шрифта по умолчанию. |
+| readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue) | Значение по умолчанию табуляции в ширине пробела шрифта по умолчанию. |
 | readonly [TabTag](../../aspose.pdf.text/textstate/tabtag) | Вы можете поместить этот тег в текст, чтобы объявить табуляцию. |
 
 ### Смотрите также

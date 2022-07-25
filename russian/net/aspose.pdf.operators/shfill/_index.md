@@ -1,14 +1,14 @@
 ---
 title: ShFill
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор sh закрашивание области с затенением.
+description: Класс представляющий оператор sh область рисования с затенением.
 type: docs
 weight: 5630
 url: /ru/net/aspose.pdf.operators/shfill/
 ---
 ## ShFill class
 
-Класс, представляющий оператор sh (закрашивание области с затенением).
+Класс, представляющий оператор sh (область рисования с затенением).
 
 ```csharp
 public class ShFill : Operator
@@ -31,7 +31,7 @@ public class ShFill : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/shfill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/shfill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

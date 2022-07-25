@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.PDF для справочника API .NET
-description: Сохраняет все файлы PDF.
+description: Сохраняет все PDF-файлы.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/autofiller/save/
 ---
 ## Save(string) {#save_2}
 
-Сохраняет все файлы PDF.
+Сохраняет все PDF-файлы.
 
 ```csharp
 public void Save(string destFile)
@@ -28,7 +28,7 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save_1}
 
-Сохраняет все файлы PDF.
+Сохраняет все PDF-файлы.
 
 ```csharp
 public void Save(Stream destStream)

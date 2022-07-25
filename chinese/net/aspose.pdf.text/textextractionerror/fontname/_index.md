@@ -1,14 +1,14 @@
 ---
 title: FontName
 second_title: Aspose.PDF for .NET API 参考
-description: Font 对象的可读内部名称用于显示导致提取错误的文本
+description: 用于显示导致提取错误的文本的字体对象的可读内部名称
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textextractionerror/fontname/
 ---
 ## TextExtractionError.FontName property
 
-Font 对象的可读（内部）名称，用于显示导致提取错误的文本。
+用于显示导致提取错误的文本的字体对象的可读（内部）名称。
 
 ```csharp
 public string FontName { get; }

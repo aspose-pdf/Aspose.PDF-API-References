@@ -1,14 +1,14 @@
 ---
 title: IsHidden
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает статус аннотаций для скрытия/отображения.
+description: Получает или задает статус аннотаций для скрытия/отображения.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/hideaction/ishidden/
 ---
 ## HideAction.IsHidden property
 
-Получает или устанавливает статус аннотаций для скрытия/отображения.
+Получает или задает статус аннотаций для скрытия/отображения.
 
 ```csharp
 public bool IsHidden { get; set; }

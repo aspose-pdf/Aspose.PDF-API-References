@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает действие которое необходимо выполнить.
+description: Получает или задает выполняемое действие.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/namedaction/name/
 ---
 ## NamedAction.Name property
 
-Получает или задает действие, которое необходимо выполнить.
+Получает или задает выполняемое действие.
 
 ```csharp
 public string Name { get; set; }

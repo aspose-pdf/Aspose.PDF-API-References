@@ -1,14 +1,14 @@
 ---
 title: GetNextImage
 second_title: Aspose.PDF for .NET API 参考
-description: 以默认图像格式 - jpeg 将图像保存到文件中
+description: 以默认图像格式将图像保存到文件 - jpeg.
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdfconverter/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_9}
 
-以默认图像格式 - jpeg 将图像保存到文件中。
+以默认图像格式将图像保存到文件 - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile)
@@ -28,7 +28,7 @@ public void GetNextImage(string outputFile)
 
 ## GetNextImage(string, PageSize) {#getnextimage_10}
 
-将图像保存到具有给定页面大小和默认图像格式 - jpeg 的文件中。
+将图像保存到具有给定页面大小和默认图像格式的文件 - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize)
@@ -37,7 +37,7 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputFile | String | 保存图像的文件路径和名称。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 
 ### 也可以看看
 
@@ -109,7 +109,7 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputFile | String | 保存图像的文件路径和名称。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 | format | ImageFormat | 图像的格式。 |
 
 ### 也可以看看
@@ -123,7 +123,7 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 ## GetNextImage(Stream) {#getnextimage}
 
-使用默认图像格式 - jpeg 将图像保存到流中。
+以默认图像格式保存图像到流 - jpeg.
 
 ```csharp
 public void GetNextImage(Stream outputStream)
@@ -152,7 +152,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputStream | Stream | 保存图像的流。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 
 ### 也可以看看
 
@@ -195,7 +195,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputStream | Stream | 保存图像的流。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 | format | ImageFormat | 图像的格式。 |
 
 ### 也可以看看
@@ -263,7 +263,7 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-以 givin 图像格式、尺寸和质量将图像保存到流。
+使用给定的图像格式、尺寸和质量将图像保存到流中。
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
@@ -301,7 +301,7 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 | format | ImageFormat | 图像的格式。 |
 | imageWidth | Double | 图像宽度，单位是像素。 |
 | imageHeight | Double | 图片高度，单位是像素.. |
-| quality | Int32 | Jpeg文件的质量(0~100), 0 最低, 100 最高 |
+| quality | Int32 | Jpeg文件的质量（0~100），0最低，100最高 |
 
 ### 例子
 
@@ -346,7 +346,7 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
 
-以 givin 图像格式、大小和质量将图像保存到流中。
+使用给定的图像格式、大小和质量将图像保存到流中。
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
@@ -423,7 +423,7 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
 
-以 givin 图像格式、大小和质量将图像保存到流中。
+使用给定的图像格式、大小和质量将图像保存到流中。
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight)
@@ -477,7 +477,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputStream | Stream | 保存图像的流。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 | format | ImageFormat | 图像的格式。 |
 | quality | Int32 | Jpeg文件的质量（0~100），0最低，100最高 |
 
@@ -523,7 +523,7 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputFile | String | 保存图像的文件路径和名称。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 | format | ImageFormat | 图像的格式。 |
 | quality | Int32 | Jpeg文件的质量（0~100），0最低，100最高 |
 

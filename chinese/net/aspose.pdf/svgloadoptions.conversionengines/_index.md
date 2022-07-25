@@ -18,7 +18,7 @@ public enum ConversionEngines
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| LegacyEngine | `0` | 代表传统的 SVG 到 PDF 的转换引擎。 |
+| LegacyEngine | `0` | 表示旧版 SVG 到 PDF 的转换引擎。 |
 | NewEngine | `1` | 表示新的 SVG 到 PDF 转换引擎。 |
 
 ### 也可以看看

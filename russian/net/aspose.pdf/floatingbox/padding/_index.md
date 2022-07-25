@@ -1,14 +1,14 @@
 ---
 title: Padding
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектMarginInfoaspose.pdf/margininfo указывающий заполнение плавающего блока.
+description: Получает или задаетMarginInfoaspose.pdf/margininfo объект указывающий заполнение плавающего блока.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/floatingbox/padding/
 ---
 ## FloatingBox.Padding property
 
-Получает или задает объект[`MarginInfo`](../../margininfo), указывающий заполнение плавающего блока.
+Получает или задает[`MarginInfo`](../../margininfo) объект, указывающий заполнение плавающего блока.
 
 ```csharp
 public MarginInfo Padding { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Precision
 second_title: Aspose.PDF for .NET API 参考
-description: 如果 FractionDisplayment 为 ShowAsDecimal则该值为小数值的精度它应该是 10 的倍数默认值为 100
+description: 如果 FractionDisplayment 为 ShowAsDecimal则该值为小数值的精度它应该是 10 的倍数默认值为 100.
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/measure.numberformat/precision/
 ---
 ## Measure.NumberFormat.Precision property
 
-如果 FractionDisplayment 为 ShowAsDecimal，则该值为小数值的精度；它应该是 10 的倍数。默认值为 100。
+如果 FractionDisplayment 为 ShowAsDecimal，则该值为小数值的精度；它应该是 10 的倍数。默认值为 100.
 
 ```csharp
 public int Precision { get; set; }

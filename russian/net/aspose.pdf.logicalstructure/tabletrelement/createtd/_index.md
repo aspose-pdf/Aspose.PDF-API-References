@@ -1,14 +1,14 @@
 ---
 title: CreateTD
 second_title: Aspose.PDF для справочника API .NET
-description: СоздаетTableTHElementaspose.pdf.logicalstructure/tablethelementи добавляет его в текущую таблицу.
+description: СоздаетTableTHElementaspose.pdf.logicalstructure/tablethelement и добавил его в текущую таблицу.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/tabletrelement/createtd/
 ---
 ## TableTRElement.CreateTD method
 
-Создает[`TableTHElement`](../../tablethelement)и добавляет его в текущую таблицу.
+Создает[`TableTHElement`](../../tablethelement) и добавил его в текущую таблицу.
 
 ```csharp
 public TableTDElement CreateTD()
@@ -16,7 +16,7 @@ public TableTDElement CreateTD()
 
 ### Возвращаемое значение
 
-Создан элемент структуры.
+Созданный элемент структуры.
 
 ### Смотрите также
 

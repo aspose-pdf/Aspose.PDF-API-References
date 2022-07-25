@@ -18,9 +18,9 @@ public sealed class DefaultAppearance
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DefaultAppearance](defaultappearance#constructor)() | DefaultAppearance 的构造函数。 |
+| [DefaultAppearance](defaultappearance#constructor)() | DefaultAppearance. 的构造函数 |
 | [DefaultAppearance](defaultappearance#constructor_1)(Font, double, Color) | 默认外观的构造函数。以前创建的字体可以指定为默认字体。 |
-| [DefaultAppearance](defaultappearance#constructor_2)(string, double, Color) | DefaultAppearance 的构造函数。 |
+| [DefaultAppearance](defaultappearance#constructor_2)(string, double, Color) | DefaultAppearance. 的构造函数 |
 
 ## 特性
 

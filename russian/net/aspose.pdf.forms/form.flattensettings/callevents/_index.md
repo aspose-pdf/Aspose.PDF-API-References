@@ -1,14 +1,14 @@
 ---
 title: CallEvents
 second_title: Aspose.PDF для справочника API .NET
-description: Если установлено будут вызываться форматирование и другие события JavaScript. Верно по умолчанию.
+description: Если установлено будут вызываться форматирование и другие события JavaScript. Истинно по умолчанию.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/form.flattensettings/callevents/
 ---
 ## Form.FlattenSettings.CallEvents property
 
-Если установлено, будут вызываться форматирование и другие события JavaScript. Верно по умолчанию.
+Если установлено, будут вызываться форматирование и другие события JavaScript. Истинно по умолчанию.
 
 ```csharp
 public bool CallEvents { get; set; }

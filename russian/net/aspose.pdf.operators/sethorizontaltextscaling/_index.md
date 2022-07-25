@@ -1,14 +1,14 @@
 ---
 title: SetHorizontalTextScaling
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор Tz устанавливает горизонтальное масштабирование текста.
+description: Класс представляющий оператор Tz установить горизонтальное масштабирование текста.
 type: docs
 weight: 5500
 url: /ru/net/aspose.pdf.operators/sethorizontaltextscaling/
 ---
 ## SetHorizontalTextScaling class
 
-Класс, представляющий оператор Tz (устанавливает горизонтальное масштабирование текста).
+Класс, представляющий оператор Tz (установить горизонтальное масштабирование текста).
 
 ```csharp
 public class SetHorizontalTextScaling : TextStateOperator
@@ -31,7 +31,7 @@ public class SetHorizontalTextScaling : TextStateOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/sethorizontaltextscaling/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/sethorizontaltextscaling/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

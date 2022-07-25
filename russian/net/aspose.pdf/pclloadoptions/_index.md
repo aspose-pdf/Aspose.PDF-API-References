@@ -24,8 +24,8 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | Имя | Описание |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize) { get; set; } | Определяет размер пакета, если применимо пакетное преобразование в пару исходного и целевого форматов. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions)описывает. |
+| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize) { get; set; } | Определяет размер пакета, если пакетное преобразование применимо к паре исходного и целевого форматов. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions) описывает. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Продолжить, либо Прервать. Продолжить — это действие по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, и в этом случае операция загрузки должна быть прекращена. |
 
 ## Поля

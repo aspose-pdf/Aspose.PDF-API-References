@@ -1,14 +1,14 @@
 ---
 title: SetColorSpace
 second_title: Aspose.PDF for .NET API 参考
-description: 表示cs运算符的类为非笔划操作设置色彩空间
+description: 表示 cs 运算符的类为非描边操作设置颜色空间
 type: docs
 weight: 5420
 url: /zh/net/aspose.pdf.operators/setcolorspace/
 ---
 ## SetColorSpace class
 
-表示cs运算符的类（为非笔划操作设置色彩空间）
+表示 cs 运算符的类（为非描边操作设置颜色空间）
 
 ```csharp
 public class SetColorSpace : Operator
@@ -18,7 +18,7 @@ public class SetColorSpace : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetColorSpace](setcolorspace)(string) | 初始化运算符。 |
+| [SetColorSpace](setcolorspace)(string) | 初始化操作符。 |
 
 ## 特性
 

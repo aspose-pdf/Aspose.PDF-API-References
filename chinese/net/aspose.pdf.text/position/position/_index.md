@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Positionaspose.pdf.text/position类的新实例
+description: 初始化一个新的实例Positionaspose.pdf.text/positionclass
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/position/position/
 ---
 ## Position constructor
 
-初始化[`Position`](../../position)类的新实例
+初始化一个新的实例[`Position`](../../position)class
 
 ```csharp
 public Position(double xIndent, double yIndent)

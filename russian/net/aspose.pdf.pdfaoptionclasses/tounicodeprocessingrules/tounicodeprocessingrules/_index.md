@@ -32,7 +32,7 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| removeSpaces | Boolean | устанавливает[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames)флаг |
+| removeSpaces | Boolean | наборы[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames) флаг |
 
 ### Смотрите также
 
@@ -52,8 +52,8 @@ public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| removeSpaces | Boolean | устанавливает[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames)флаг |
-| mapNonLinkedUnicodesOnSpace | Boolean | устанавливаетMapNonLinkSpaceSymbolsOn флаг |
+| removeSpaces | Boolean | наборы[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames) флаг |
+| mapNonLinkedUnicodesOnSpace | Boolean | наборы[`MapNonLinkedSymbolsOnSpace`](../mapnonlinkedsymbolsonspace) флаг |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TabOrder
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置页面的tab顺序 可能的值行列默认手动
+description: 获取或设置页面的标签顺序 可能的值行列默认手动
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf/page/taborder/
 ---
 ## Page.TabOrder property
 
-获取或设置页面的tab顺序。 可能的值:行、列。默认，手动
+获取或设置页面的标签顺序。 可能的值：行、列。默认，手动
 
 ```csharp
 public TabOrder TabOrder { get; set; }

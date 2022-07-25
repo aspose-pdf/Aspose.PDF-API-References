@@ -18,7 +18,7 @@ public override void Close()
 
 ```csharp
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- //поработать... 
+//поработай немного... 
 stamp.Close();
 ```
 

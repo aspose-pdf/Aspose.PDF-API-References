@@ -1,14 +1,14 @@
 ---
 title: TryDelete
 second_title: Aspose.PDF for .NET API 参考
-description: 从输入文件中删除数字数组指定的页面另存为新的 Pdf 文件
+description: 从输入文件中删除由数字数组指定的页面另存为新的 Pdf 文件
 type: docs
 weight: 430
 url: /zh/net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
 ## TryDelete(string, int[], string) {#trydelete_2}
 
-从输入文件中删除数字数组指定的页面，另存为新的 Pdf 文件。
+从输入文件中删除由数字数组指定的页面，另存为新的 Pdf 文件。
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
@@ -22,11 +22,11 @@ public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryDelete 方法类似于 Delete 方法，除了 TryDelete 方法不会抛出异常，如果操作失败。
+TryDelete 方法与Delete 方法类似，只是TryDelete 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -45,7 +45,7 @@ bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## TryDelete(Stream, int[], Stream) {#trydelete}
 
-从输入文件中删除数字数组指定的页面，另存为新的 Pdf 文件。
+从输入文件中删除由数字数组指定的页面，另存为新的 Pdf 文件。
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -59,11 +59,11 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-TryDelete 方法类似于 Delete 方法，除了 TryDelete 方法不会抛出异常，如果操作失败。
+TryDelete 方法与Delete 方法类似，只是TryDelete 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -98,11 +98,11 @@ public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryDelete 方法类似于 Delete 方法，除了 TryDelete 方法不会抛出异常，如果操作失败。
+TryDelete 方法与Delete 方法类似，只是TryDelete 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -132,7 +132,7 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse respons
 
 ### 评论
 
-TryDelete 方法类似于 Delete 方法，除了 TryDelete 方法不会抛出异常，如果操作失败。
+TryDelete 方法与Delete 方法类似，只是TryDelete 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 

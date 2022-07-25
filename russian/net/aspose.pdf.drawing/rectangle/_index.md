@@ -18,18 +18,18 @@ public sealed class Rectangle : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Rectangle](rectangle)(float, float, float, float) | Инициализирует новый экземпляр класса[`Rectangle`](../rectangle). |
+| [Rectangle](rectangle)(float, float, float, float) | Инициализирует новый экземпляр[`Rectangle`](../rectangle) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Bottom](../../aspose.pdf.drawing/rectangle/bottom) { get; set; } | Получает или задает значение с плавающей запятой, указывающее нижнее положение прямоугольника. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает объект[`GraphInfo`](../shape/graphinfo), который указывает информацию о графике, такую как цвет ширина строки и т.д. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает[`GraphInfo`](../shape/graphinfo) объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д. |
 | [Height](../../aspose.pdf.drawing/rectangle/height) { get; set; } | Получает или задает значение с плавающей запятой, указывающее высоту прямоугольника. |
 | [Left](../../aspose.pdf.drawing/rectangle/left) { get; set; } | Получает или задает значение с плавающей запятой, указывающее левую позицию прямоугольника. |
 | [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius) { get; set; } | Получает или задает значение с плавающей запятой, указывающее радиус углов прямоугольника. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для фигуры |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для shape |
 | [Width](../../aspose.pdf.drawing/rectangle/width) { get; set; } | Получает или задает значение с плавающей запятой, указывающее ширину прямоугольника. |
 
 ### Смотрите также

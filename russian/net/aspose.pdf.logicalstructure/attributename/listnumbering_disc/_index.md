@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_Disc
 second_title: Aspose.PDF для справочника API .NET
-description: Список атрибутов НумерацияДиск - Сплошная круглая пуля.
+description: Нумерация списка атрибутов Диск  сплошная круглая пуля.
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_disc/
 ---
 ## AttributeName.ListNumbering_Disc field
 
-Список атрибутов Нумерация:Диск - Сплошная круглая пуля.
+Нумерация списка атрибутов: Диск — сплошная круглая пуля.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Disc;

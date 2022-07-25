@@ -1,14 +1,14 @@
 ---
 title: Wheat
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为FFF5DEB3 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FFF5DEB3.
 type: docs
 weight: 1380
 url: /zh/net/aspose.pdf/color/wheat/
 ---
 ## Color.Wheat property
 
-获取 ARGB 值为#FFF5DEB3 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FFF5DEB3.
 
 ```csharp
 public static Color Wheat { get; }
@@ -16,7 +16,7 @@ public static Color Wheat { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

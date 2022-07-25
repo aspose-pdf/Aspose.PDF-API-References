@@ -1,14 +1,14 @@
 ---
 title: ExtractAttachment
 second_title: Aspose.PDF для справочника API .NET
-description: Извлекает вложения из документа Pdf.
+description: Извлекает вложения из документа PDF.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfextractor/extractattachment/
 ---
 ## ExtractAttachment() {#extractattachment}
 
-Извлекает вложения из документа Pdf.
+Извлекает вложения из документа PDF.
 
 ```csharp
 public void ExtractAttachment()
@@ -32,7 +32,7 @@ public void ExtractAttachment(string attachmentFileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| attachmentFileName | String | Имя вложения для извлечения |
+| attachmentFileName | String | Название вложения для извлечения |
 
 ### Смотрите также
 

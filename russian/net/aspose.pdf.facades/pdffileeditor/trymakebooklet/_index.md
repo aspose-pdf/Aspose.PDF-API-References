@@ -20,7 +20,7 @@ public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages,
 | inputFile | String | Путь к исходному файлу. |
 | pageSize | PageSize | Желаемый размер страницы. |
 | leftPages | Int32[] | Массив номеров страниц для размещения слева. |
-| rightPages | Int32[] | Массив номеров страниц для размещения справа. |
+| rightPages | Int32[] | Массив номеров страниц, которые должны быть размещены справа. |
 | response | HttpResponse | Объект HttpResponse, в котором будет храниться результат. |
 
 ### Возвращаемое значение
@@ -29,7 +29,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -51,7 +51,7 @@ public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPage
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входных документов. |
+| inputStream | Stream | Входной поток документов. |
 | pageSize | PageSize | Желаемый размер страницы. |
 | leftPages | Int32[] | Массив номеров страниц, которые будут помещены слева. |
 | rightPages | Int32[] | Массив номеров страниц, которые будут заменены справа. |
@@ -63,7 +63,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -94,7 +94,7 @@ public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse res
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -115,17 +115,17 @@ public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse r
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входных документов. |
+| inputStream | Stream | Входной поток документов. |
 | pageSize | PageSize | Желаемый размер страницы в выходном файле. |
-| response | HttpResponse | Respose объект, в котором будут сохранены результаты. |
+| response | HttpResponse | Объект Respose, в котором будут сохранены результаты. |
 
 ### Возвращаемое значение
 
-true, если буклет построен успешно.
+true, если буклет был построен успешно.
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -138,7 +138,7 @@ true, если буклет построен успешно.
 
 ## TryMakeBooklet(string, string) {#trymakebooklet_8}
 
-Делает буклет из входного файла в выходной файл.
+Создает буклет из входного файла в выходной файл.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile)
@@ -155,7 +155,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -174,7 +174,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 
 ## TryMakeBooklet(Stream, Stream) {#trymakebooklet_2}
 
-Создает буклет из InputStream в outputStream.
+Делает буклет из InputStream в outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
@@ -182,7 +182,7 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной поток pdf. |
+| inputStream | Stream | Входной поток PDF. |
 | outputStream | Stream | выходной поток PDF. |
 
 ### Возвращаемое значение
@@ -191,7 +191,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -212,7 +212,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 
 ## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_9}
 
-Делает буклет из входного файла в выходной файл.
+Делает буклет из inputFile в outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -230,7 +230,7 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -268,7 +268,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -290,7 +290,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_11}
 
-Создает настраиваемый буклет из файла firstInputFile в файл output.
+Создает настраиваемый буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -299,7 +299,7 @@ public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного pdf-файла. |
+| outputFile | String | Выходной путь и имя файла PDF. |
 | leftPages | Int32[] | Левые страницы буклета. |
 | rightPages | Int32[] | Правые страницы буклета. |
 
@@ -309,7 +309,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -338,7 +338,7 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPa
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | выходной поток PDF. |
+| outputStream | Stream | выходной pdf-поток. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правильные страницы. |
 
@@ -348,7 +348,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -369,7 +369,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 
 
 ## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_10}
 
-Создает настраиваемый буклет из файла firstInputFile в файл output.
+Создает настраиваемый буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -379,7 +379,7 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного pdf-файла. |
+| outputFile | String | Выходной путь и имя файла PDF. |
 | pageSize | PageSize | Размер страницы выходного pdf-файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правильные страницы. |
@@ -390,7 +390,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -420,7 +420,7 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | выходной поток PDF. |
+| outputStream | Stream | выходной pdf-поток. |
 | pageSize | PageSize | Размер страницы выходного pdf-файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правильные страницы. |
@@ -431,7 +431,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция не удалась.
+Метод TryMakeBooklet подобен методу MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 

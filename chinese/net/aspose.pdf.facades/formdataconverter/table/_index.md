@@ -1,14 +1,14 @@
 ---
 title: Table
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置中间数据容器一个DataTable 必须在将数据从一种格式转换为另一种格式之前定义 应该定义 DataTable 的 Columns 和 TableName TableName 是数据库中表的名称 每列的 ColumnName 是 pdf 的限定字段名称每列的 Caption 是数据库中表的列名如果字段名称与表列 名称相同则不需要指定 Caption
+description: 获取或设置中间数据容器一个DataTable 必须在将数据从一种格式转换为另一种格式之前定义 要定义DataTable的Columns和TableName TableName是表中的表名database. 每列的 ColumnName 是 pdf 的限定字段名称每列的 Caption 是数据库中表的列名如果字段名与表column name相同Caption就不用指定
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/formdataconverter/table/
 ---
 ## FormDataConverter.Table property
 
-获取或设置中间数据容器，一个DataTable。 必须在将数据从一种格式转换为另一种格式之前定义。 应该定义 DataTable 的 Columns 和 TableName。 TableName 是数据库中表的名称。 每列的 ColumnName 是 pdf 的限定字段名称。每列的 Caption 是数据库中表的列名。如果字段名称与表列 名称相同，则不需要指定 Caption。
+获取或设置中间数据容器，一个DataTable。 必须在将数据从一种格式转换为另一种格式之前定义。 要定义DataTable的Columns和TableName。 TableName是表中的表名database. 每列的 ColumnName 是 pdf 的限定字段名称。每列的 Caption 是数据库中表的列名。如果字段名与表column name相同，Caption就不用指定
 
 ```csharp
 public DataTable Table { get; set; }

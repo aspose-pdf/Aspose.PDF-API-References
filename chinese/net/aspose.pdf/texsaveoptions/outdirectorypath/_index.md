@@ -1,14 +1,14 @@
 ---
 title: OutDirectoryPath
 second_title: Aspose.PDF for .NET API 参考
-description: _outDirectoryPath参数的属性
+description: 属性_outDirectoryPath参数.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/texsaveoptions/outdirectorypath/
 ---
 ## TeXSaveOptions.OutDirectoryPath property
 
-_outDirectoryPath参数的属性。
+属性_outDirectoryPath参数.
 
 ```csharp
 public string OutDirectoryPath { get; set; }

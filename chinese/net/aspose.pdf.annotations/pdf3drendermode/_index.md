@@ -1,14 +1,14 @@
 ---
 title: PDF3DRenderMode
 second_title: Aspose.PDF for .NET API 参考
-description: PDF3DRenderMode 类
+description: 类 PDF3DRenderMode.
 type: docs
 weight: 840
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/
 ---
 ## PDF3DRenderMode class
 
-PDF3DRenderMode 类。
+类 PDF3DRenderMode.
 
 ```csharp
 public class PDF3DRenderMode
@@ -18,8 +18,8 @@ public class PDF3DRenderMode
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PDF3DRenderMode](pdf3drendermode#constructor)(RenderModeType) | 初始化[`PDF3DRenderMode`](../pdf3drendermode)类的新实例。 |
-| [PDF3DRenderMode](pdf3drendermode#constructor_1)(string) | 初始化[`PDF3DRenderMode`](../pdf3drendermode)类的新实例。 |
+| [PDF3DRenderMode](pdf3drendermode#constructor)(RenderModeType) | 初始化[`PDF3DRenderMode`](../pdf3drendermode)类. |
+| [PDF3DRenderMode](pdf3drendermode#constructor_1)(string) | 初始化[`PDF3DRenderMode`](../pdf3drendermode)类. |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public class PDF3DRenderMode
 | --- | --- |
 | [GetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour)() | 获取辅助颜色。 |
 | [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue)() | 获取折痕值。 |
-| [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor)() | 获取人脸颜色。 |
+| [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor)() | 获取人脸的颜色。 |
 | [GetOpacity](../../aspose.pdf.annotations/pdf3drendermode/getopacity)() | 获取不透明度。 |
 | [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour)(Color) | 设置辅助颜色。 |
 | [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue)(double) | 设置折痕值。 |
@@ -57,7 +57,7 @@ public class PDF3DRenderMode
 | static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline) | “TransparentBoundingBoxOutline”渲染模式。 |
 | static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe) | “TransparentWareFrame”渲染模式。 |
 | static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices) | “顶点”渲染模式。 |
-| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe) | "WireFrame" 渲染模式。 |
+| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe) | “线框”渲染模式。 |
 
 ### 也可以看看
 

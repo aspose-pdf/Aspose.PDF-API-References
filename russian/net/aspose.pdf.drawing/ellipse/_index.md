@@ -1,14 +1,14 @@
 ---
 title: Ellipse
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет собой эллипс.
+description: Представляет эллипс.
 type: docs
 weight: 1960
 url: /ru/net/aspose.pdf.drawing/ellipse/
 ---
 ## Ellipse class
 
-Представляет собой эллипс.
+Представляет эллипс.
 
 ```csharp
 public sealed class Ellipse : Shape
@@ -18,17 +18,17 @@ public sealed class Ellipse : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Ellipse](ellipse)(double, double, double, double) | Инициализирует новый экземпляр класса[`Ellipse`](../ellipse). |
+| [Ellipse](ellipse)(double, double, double, double) | Инициализирует новый экземпляр[`Ellipse`](../ellipse) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Bottom](../../aspose.pdf.drawing/ellipse/bottom) { get; set; } | Получает или задает значение с плавающей запятой, указывающее нижнее положение эллипса. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает объект[`GraphInfo`](../shape/graphinfo), который указывает информацию о графике, такую как цвет ширина строки и т.д. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает[`GraphInfo`](../shape/graphinfo) объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д. |
 | [Height](../../aspose.pdf.drawing/ellipse/height) { get; set; } | Получает или задает значение с плавающей запятой, указывающее высоту эллипса. |
 | [Left](../../aspose.pdf.drawing/ellipse/left) { get; set; } | Получает или задает значение с плавающей запятой, указывающее левую позицию эллипса. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для фигуры |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для shape |
 | [Width](../../aspose.pdf.drawing/ellipse/width) { get; set; } | Получает или задает значение с плавающей запятой, указывающее ширину эллипса. |
 
 ### Смотрите также

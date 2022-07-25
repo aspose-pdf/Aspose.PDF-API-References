@@ -20,7 +20,7 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 ### 返回值
 
-[`StructureAttributes`](../../structureattributes)结构元素。如果没有找到，则返回 null。
+[`StructureAttributes`](../../structureattributes)的结构元素。如果没有找到，则返回 null。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API 参考
-description: 获取一个由八个数字组成的数组指定裁剪图像在页面上的位置
+description: 获取表格的八个数字组成的数组指定裁剪图像在页面上的位置
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/opi/position/
 ---
 ## Opi.Position property
 
-获取一个由八个数字组成的数组，指定裁剪图像在页面上的位置。
+获取表格的八个数字组成的数组，指定裁剪图像在页面上的位置。
 
 ```csharp
 public double[] Position { get; }

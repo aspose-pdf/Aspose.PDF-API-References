@@ -18,12 +18,12 @@ public sealed class MarkupParagraph
 
 | Имя | Описание |
 | --- | --- |
-| [ContinuationPageNumbers](../../aspose.pdf.text/markupparagraph/continuationpagenumbers) { get; } | Список номеров страниц, на которых продолжается абзац. Он будет соответствовать странице, на которой начался абзац, если он продолжается в следующем столбце на той же странице. |
-| [Fragments](../../aspose.pdf.text/markupparagraph/fragments) { get; } | Коллекция непустых[`TextFragment`](../textfragment)объектов абзаца. |
-| [Lines](../../aspose.pdf.text/markupparagraph/lines) { get; } | Строки абзаца. Каждая строка представлена списком текстовых фрагментов. |
-| [Points](../../aspose.pdf.text/markupparagraph/points) { get; } | Точки многоугольника, описывающего абзац. Начальная точка — нижний левый угол абзаца. И следующие точки в последовательности против часовой стрелки. |
-| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints) { get; } | Точки вторичного полигона описывают продолжение абзаца. Он не будет нулевым, если абзац будет продолжен в следующем столбце или на следующей странице. Начальная точка — нижний левый угол абзаца. И следующие точки в последовательности против часовой стрелки. |
-| [Text](../../aspose.pdf.text/markupparagraph/text) { get; } | ПолучаетStringтекстовый объект, который[`MarkupParagraph`](../markupparagraph)объект представляет. |
+| [ContinuationPageNumbers](../../aspose.pdf.text/markupparagraph/continuationpagenumbers) { get; } | Список номеров страниц, на которых абзац продолжается. Он будет соответствовать странице, на которой начался абзац, если он продолжается в следующем столбце на той же странице. |
+| [Fragments](../../aspose.pdf.text/markupparagraph/fragments) { get; } | Коллекция не пустая[`TextFragment`](../textfragment) объекты абзаца. |
+| [Lines](../../aspose.pdf.text/markupparagraph/lines) { get; } | Строк абзаца. Каждая строка представлена списком текстовых фрагментов. |
+| [Points](../../aspose.pdf.text/markupparagraph/points) { get; } | Точки многоугольника, описывающего абзац. Начальная точка — нижний левый угол абзаца. А следующие точки идут против часовой стрелки. |
+| [SecondaryPoints](../../aspose.pdf.text/markupparagraph/secondarypoints) { get; } | Точки вторичного полигона описывают продолжение абзаца. Он не будет нулевым, если абзац продолжается в следующем столбце или на следующей странице. Начальная точка — нижний левый угол абзаца. А следующие точки идут против часовой стрелки. |
+| [Text](../../aspose.pdf.text/markupparagraph/text) { get; } | получаетString текстовый объект, который[`MarkupParagraph`](../markupparagraph) объект представляет. |
 
 ### Смотрите также
 

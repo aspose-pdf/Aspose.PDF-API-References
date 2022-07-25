@@ -1,14 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置段落的垂直对齐方式
+description: 获取或设置段落 的垂直对齐方式
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/baseparagraph/verticalalignment/
 ---
 ## BaseParagraph.VerticalAlignment property
 
-获取或设置段落的垂直对齐方式
+获取或设置段落 的垂直对齐方式
 
 ```csharp
 public virtual VerticalAlignment VerticalAlignment { get; set; }

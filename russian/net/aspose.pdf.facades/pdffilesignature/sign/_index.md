@@ -1,14 +1,14 @@
 ---
 title: Sign
 second_title: Aspose.PDF для справочника API .NET
-description: Сделать подпись в pdf документе.
+description: Сделайте подпись в pdf-документе.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-Сделать подпись в pdf документе.
+Сделайте подпись в pdf-документе.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -17,12 +17,12 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой делается подпись. |
+| page | Int32 | Номер страницы, на которой ставится подпись. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Расположение подписи. |
+| SigLocation | String | Место подписи. |
 | visible | Boolean | Видимость подписи. |
-| annotRect | Rectangle | Прямоугольник подписи. |
+| annotRect | Rectangle | Право подписи. |
 
 ### Примеры
 
@@ -67,12 +67,12 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой делается подпись. |
+| page | Int32 | Номер страницы, на которой ставится подпись. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Расположение подписи. |
+| SigLocation | String | Место подписи. |
 | visible | Boolean | Видимость подписи. |
-| annotRect | Rectangle | Прямоугольник подписи. |
+| annotRect | Rectangle | Право подписи. |
 | sig | Signature | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. |
 
 ### Примеры
@@ -117,10 +117,10 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой делается подпись. |
+| page | Int32 | Номер страницы, на которой ставится подпись. |
 | visible | Boolean | Видимость подписи. |
-| annotRect | Rectangle | Прямоугольник подписи. |
-| sig | Signature | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. Такие данные, как причина подписи, контакт и местоположение должны уже присутствовать в этом объекте (см. соответствующие свойства). |
+| annotRect | Rectangle | Право подписи. |
+| sig | Signature | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. Такие данные, как причина подписи, контакт и местоположение, должны уже присутствовать в этом объекте (см. соответствующие свойства). |
 
 ### Примеры
 
@@ -163,7 +163,7 @@ pdfSign.Save()
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Подпишите документ подписью данного типа, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле для подписи, место для проставления подписи указывать не нужно, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName).
+Подпишите документ данным типом подписи, которая ставится в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле подписи, место указывать не нужно для печати подписи берется соответствующая страница и прямоугольник из поля подписи, которое находится по имени подписи (см. параметр SigName).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -175,7 +175,7 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 | SigName | String | Имя поля подписи. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Расположение подписи. |
+| SigLocation | String | Место подписи. |
 | sig | Signature | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. |
 
 ### Примеры
@@ -211,7 +211,7 @@ pdfSign.Save()
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Подпишите документ подписью данного типа, которая размещена в уже представленном поле подписи. Перед подписанием в pdf-документе уже должно быть поле для подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName).
+Подпишите документ подписью данного типа, которая ставится в уже представленное поле подписи. Перед подписанием в pdf-документе уже должно быть поле подписи, соответствующая страница и прямоугольник берутся из поля подписи , которое находится по имени подписи (см. параметр SigName) .
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,13 +220,13 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой делается подпись. |
+| page | Int32 | Номер страницы, на которой ставится подпись. |
 | SigName | String | Имя поля подписи. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Расположение подписи. |
+| SigLocation | String | Место подписи. |
 | visible | Boolean | Видимость подписи. |
-| annotRect | Rectangle | Прямоугольник подписи. |
+| annotRect | Rectangle | Право подписи. |
 | sig | Signature | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. |
 
 ### Примеры
@@ -263,7 +263,7 @@ pdfSign.Save(outFile)
 
 ## Sign(string, Signature) {#sign_4}
 
-Подпишите документ подписью данного типа, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле для подписи, место для проставления подписи указывать не нужно, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName). Такие данные, как причина подписи, контакт и местонахождение, должны быть предоставлены соответствующими свойствами объекта Signature sig.
+Подпишите документ данным типом подписи, которая ставится в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, в pdf документе уже есть поле подписи, место указывать не нужно для печати подписи берется соответствующая страница и прямоугольник из поля подписи, которое находится по имени подписи (см. параметр SigName). Такие данные, как причина подписи, контакт и местонахождение, должны быть предоставлены соответствующими свойствами объекта Signature sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -272,7 +272,7 @@ public void Sign(string SigName, Signature sig)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | SigName | String | Имя поля подписи. |
-| sig | Signature | Тип подписи может быть PKCS1 (объект Pkcs1Signature), PKCS7 и PKCS7 detached (объект Pkcs7Signature) |
+| sig | Signature | Тип подписи может быть PKCS1 (объект Pkcs1Signature), PKCS7 и PKCS7 detached (объект Pkcs7Signature). |
 
 ### Примеры
 

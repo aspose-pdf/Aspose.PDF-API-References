@@ -16,12 +16,12 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Double | A 系数 |
-| b | Double | B 系数 |
-| c | Double | C 系数 |
-| d | Double | D 系数 |
-| e | Double | E 系数 |
-| f | Double | F 系数 |
+| a | Double | 系数 |
+| b | Double | B系数 |
+| c | Double | C系数 |
+| d | Double | D系数 |
+| e | Double | E系数 |
+| f | Double | F系数 |
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 ## ConcatenateMatrix(Matrix) {#constructor}
 
-通过矩阵初始化运算符。
+用矩阵初始化算子。
 
 ```csharp
 public ConcatenateMatrix(Matrix m)

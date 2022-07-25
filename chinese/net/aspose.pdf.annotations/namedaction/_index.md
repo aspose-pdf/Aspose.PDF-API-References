@@ -24,7 +24,7 @@ public sealed class NamedAction : PdfAction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/namedaction/name) { get; set; } | 获取或设置要执行的操作。 |
+| [Name](../../aspose.pdf.annotations/namedaction/name) { get; set; } | 获取或设置要执行的动作。 |
 | [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | 按顺序执行下一步操作。 |
 
 ### 也可以看看

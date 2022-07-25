@@ -1,14 +1,14 @@
 ---
 title: InvalidPdfFileFormatException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаInvalidPdfFileFormatExceptionaspose.pdf/invalidpdffileformatexception.
+description: Инициализирует новый экземплярInvalidPdfFileFormatExceptionaspose.pdf/invalidpdffileformatexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidpdffileformatexception/invalidpdffileformatexception/
 ---
 ## InvalidPdfFileFormatException(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`InvalidPdfFileFormatException`](../../invalidpdffileformatexception).
+Инициализирует новый экземпляр[`InvalidPdfFileFormatException`](../../invalidpdffileformatexception) класс.
 
 ```csharp
 public InvalidPdfFileFormatException(string message)
@@ -28,7 +28,7 @@ public InvalidPdfFileFormatException(string message)
 
 ## InvalidPdfFileFormatException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`InvalidPdfFileFormatException`](../../invalidpdffileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidPdfFileFormatException`](../../invalidpdffileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidPdfFileFormatException(string message, Exception innerException)
@@ -49,7 +49,7 @@ public InvalidPdfFileFormatException(string message, Exception innerException)
 
 ## InvalidPdfFileFormatException(Exception) {#constructor}
 
-Инициализирует новый экземпляр класса[`InvalidPdfFileFormatException`](../../invalidpdffileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidPdfFileFormatException`](../../invalidpdffileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidPdfFileFormatException(Exception innerException)
@@ -57,7 +57,7 @@ public InvalidPdfFileFormatException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SeparateImages
 second_title: Aspose.PDF для справочника API .NET
-description: Если установлено значение true то изображения отделяются от всей остальной графики
+description: Если установлено значение true изображения отделяются от всей остальной графики
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/pptxsaveoptions/separateimages/
 ---
 ## PptxSaveOptions.SeparateImages property
 
-Если установлено значение true, то изображения отделяются от всей остальной графики
+Если установлено значение true, изображения отделяются от всей остальной графики
 
 ```csharp
 public bool SeparateImages { get; set; }

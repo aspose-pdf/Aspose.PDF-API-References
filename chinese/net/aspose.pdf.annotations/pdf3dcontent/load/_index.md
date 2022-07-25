@@ -22,7 +22,7 @@ public void Load(string filename)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 未知 3D 内容类型 |
+| ArgumentException | 未知的 3D 内容类型 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SaveAsTIFF
 second_title: Aspose.PDF for .NET API 参考
-description: 将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF 文件
+description: 将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF 文件中
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.facades/pdfconverter/saveastiff/
 ---
 ## SaveAsTIFF(string) {#saveastiff_10}
 
-将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile)
@@ -16,7 +16,7 @@ public void SaveAsTIFF(string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | String | 保存 TIFF 图像的文件。 |
+| outputFile | String | 用于保存 TIFF 图像的文件。 |
 
 ### 例子
 
@@ -44,7 +44,7 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFF(string, CompressionType) {#saveastiff_11}
 
-将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile, CompressionType compressionType)
@@ -81,7 +81,7 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFF(string, int, int) {#saveastiff_16}
 
-将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
@@ -103,7 +103,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 ## SaveAsTIFF(string, PageSize) {#saveastiff_14}
 
-将 pdf 文档的每一页转换为具有页面大小的图像，并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为具有页面大小的图像，并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize)
@@ -112,7 +112,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputFile | String | 保存 TIFF 图像的文件名 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 
 ### 也可以看看
 
@@ -125,7 +125,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 ## SaveAsTIFF(string, PageSize, TiffSettings) {#saveastiff_15}
 
-将 pdf 文档的每一页转换为具有页面大小的图像，并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为具有页面大小的图像，并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settings)
@@ -134,7 +134,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputFile | String | 保存 TIFF 图像的文件名 |
-| pageSize | PageSize | 图像的页面大小。 |
+| pageSize | PageSize | 图片的页面大小。 |
 | settings | TiffSettings | 定义 TIFF 参数的设置对象。 |
 
 ### 也可以看看
@@ -149,7 +149,7 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 ## SaveAsTIFF(string, int, int, CompressionType) {#saveastiff_17}
 
-将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, 
@@ -174,7 +174,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(string, int, int, TiffSettings) {#saveastiff_18}
 
-将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings)
@@ -198,7 +198,7 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ## SaveAsTIFF(string, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_19}
 
-将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为具有尺寸的图像，并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, 
@@ -233,7 +233,7 @@ public void SaveAsTIFF(Stream outputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 
 ### 也可以看看
 
@@ -245,7 +245,7 @@ public void SaveAsTIFF(Stream outputStream)
 
 ## SaveAsTIFF(Stream, CompressionType) {#saveastiff_1}
 
-将 pdf 文档的每一页转换为图像并将图像保存为单个 TIFF 文件。
+将 pdf 文档的每一页转换为图像并将图像保存到单个 TIFF 文件中。
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
@@ -275,8 +275,8 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
+| pageSize | PageSize | 图片的页面大小。 |
 
 ### 也可以看看
 
@@ -297,8 +297,8 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
-| pageSize | PageSize | 图像的页面大小。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
+| pageSize | PageSize | 图片的页面大小。 |
 | settings | TiffSettings | 定义 TIFF 参数的设置对象。 |
 
 ### 也可以看看
@@ -321,7 +321,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 | imageWidth | Int32 | 图像宽度，单位是像素。 |
 | imageHeight | Int32 | 图像高度，单位是像素。 |
 
@@ -344,7 +344,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 | imageWidth | Int32 | 图像宽度，单位是像素。 |
 | imageHeight | Int32 | 图像高度，单位是像素。 |
 | compressionType | CompressionType | 压缩类型。 |
@@ -368,7 +368,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 | imageWidth | Int32 | 图像宽度，单位是像素。 |
 | imageHeight | Int32 | 图像高度，单位是像素。 |
 | settings | TiffSettings | 定义 TIFF 参数的设置对象。 |
@@ -393,7 +393,7 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 | imageWidth | Int32 | 图像宽度，单位是像素。 |
 | imageHeight | Int32 | 图像高度，单位是像素。 |
 | settings | TiffSettings | 定义 TIFF 参数的设置对象。 |
@@ -465,7 +465,7 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 | settings | TiffSettings | 定义 TIFF 参数的设置对象。 |
 
 ### 也可以看看
@@ -487,7 +487,7 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存 TIFF 图像的流。 |
+| outputStream | Stream | 用于保存 TIFF 图像的流。 |
 | settings | TiffSettings | 定义 TIFF 参数的设置对象。 |
 | converter | IIndexBitmapConverter | 外部转换器 |
 

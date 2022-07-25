@@ -19,9 +19,9 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
 | url | String | Адрес веб-ссылки. |
-| originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный веб-ссылкой. |
+| originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, ограниченный веб-ссылкой. |
 | clr | Color | Цвет прямоугольника для активного клика. |
-| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в программе просмотра Acrobat. |
+| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в средстве просмотра Acrobat. |
 
 ### Примеры
 
@@ -29,7 +29,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf("example.pdf");
 editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
-    "http: //www.aspose.com", 1, System.Drawing.Color.Red,
+    "http://www.aspose.com", 1, System.Drawing.Color.Red,
     new Enum[] { PredefinedAction.FirstPage, PredefinedAction.PrintDialog });
 editor.Save("example_out.pdf");
 ```
@@ -63,7 +63,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf("example.pdf");
 editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
-    "http: //www.aspose.com", 1, System.Drawing.Color.Red });
+    "http://www.aspose.com", 1, System.Drawing.Color.Red });
 editor.Save("example_out.pdf");
 ```
 
@@ -94,7 +94,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage)
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf("example.pdf");
-editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http: //www.aspose.com", 1 });
+editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.aspose.com", 1 });
 editor.Save("example_out.pdf");
 ```
 

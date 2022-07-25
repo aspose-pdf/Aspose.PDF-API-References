@@ -1,14 +1,14 @@
 ---
 title: PagesFlowTypeDependsOnViewersScreenSize
 second_title: Aspose.PDF for .NET API 参考
-description: 如果属性SplitOnPagesfalse则表示所有输入 PDF 页面的整个 HTML 将被 放入一个大的结果 HTML 文件中 此标志定义结果 HTML 是否将以这样的方式生成 结果 HTML 中表示 PDF 页面的区域流将取决于 的屏幕分辨率观众 假设查看器一侧的屏幕宽度足够大可以在水平方向上将 2 个或更多页面放在 other 附近如果这个标志设置为真那么这个机会 将被使用尽可能多的页面将在水平方向上显示在另一个 附近然后下一个水平页面组将显示在第一个下 否则页面将以这种方式流动下一页总是在前一页之下
+description: 如果属性SplitOnPagesfalse那么代表所有输入 PDF 页面的整个 HTML 将被 放入一个大的结果 HTML 文件中 此标志定义结果 HTML 是否将以这样的方式生成 以使在结果 HTML 中表示 PDF 页面的区域流将取决于 查看器的屏幕分辨率 假设查看器一侧的屏幕宽度足够大可以在水平方向上放置 2 个或更多页面其中一个靠近 other如果这个标志设置为真那么这个机会 将被使用尽可能多的页面将在水平方向上显示在另一个 附近然后下一组水平页面将显示在第一个下方 否则页面将流入这样下一页总是在前一页之下
 type: docs
 weight: 330
 url: /zh/net/aspose.pdf/htmlsaveoptions/pagesflowtypedependsonviewersscreensize/
 ---
 ## HtmlSaveOptions.PagesFlowTypeDependsOnViewersScreenSize field
 
-如果属性“SplitOnPages=false”，则表示所有输入 PDF 页面的整个 HTML 将被 放入一个大的结果 HTML 文件中。 此标志定义结果 HTML 是否将以这样的方式生成 结果 HTML 中表示 PDF 页面的区域流将取决于 的屏幕分辨率观众。 假设查看器一侧的屏幕宽度足够大，可以在水平方向上将 2 个或更多页面放在 other 附近。如果这个标志设置为真，那么这个机会 将被使用（尽可能多的页面将在水平方向上显示在另一个 附近，然后下一个水平页面组将显示在第一个下）。 否则页面将以这种方式流动:下一页总是在前一页之下。
+如果属性“SplitOnPages=false”，那么代表所有输入 PDF 页面的整个 HTML 将被 放入一个大的结果 HTML 文件中。 此标志定义结果 HTML 是否将以这样的方式生成 以使在结果 HTML 中表示 PDF 页面的区域流将取决于 查看器的屏幕分辨率。 假设查看器一侧的屏幕宽度足够大，可以在水平方向上放置 2 个或更多页面，其中一个靠近 other。如果这个标志设置为真，那么这个机会 将被使用（尽可能多的页面将在水平方向上显示在另一个 附近，然后下一组水平页面将显示在第一个下方）。 否则页面将流入这样：下一页总是在前一页之下。
 
 ```csharp
 public bool PagesFlowTypeDependsOnViewersScreenSize;

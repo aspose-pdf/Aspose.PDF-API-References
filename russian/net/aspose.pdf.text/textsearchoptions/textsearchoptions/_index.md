@@ -1,14 +1,14 @@
 ---
 title: TextSearchOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаTextSearchOptionsaspose.pdf.text/textsearchoptions. Определяет режим использования регулярного выражения.
+description: Инициализирует новый экземплярTextSearchOptionsaspose.pdf.text/textsearchoptions object. Задает режим использования регулярного выражения.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textsearchoptions/textsearchoptions/
 ---
 ## TextSearchOptions(bool) {#constructor_2}
 
-Инициализирует новый экземпляр объекта[`TextSearchOptions`](../../textsearchoptions). Определяет режим использования регулярного выражения.
+Инициализирует новый экземпляр[`TextSearchOptions`](../../textsearchoptions) object. Задает режим использования регулярного выражения.
 
 ```csharp
 public TextSearchOptions(bool isRegularExpressionUsed)
@@ -28,7 +28,7 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 ## TextSearchOptions(Rectangle) {#constructor}
 
-Инициализирует новый экземпляр объекта[`TextSearchOptions`](../../textsearchoptions). Определяет прямоугольник, ограничивающий искомый текст.
+Инициализирует новый экземпляр[`TextSearchOptions`](../../textsearchoptions)object. Задает прямоугольник, ограничивающий искомый текст.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle)
@@ -49,7 +49,7 @@ public TextSearchOptions(Rectangle rectangle)
 
 ## TextSearchOptions(Rectangle, bool) {#constructor_1}
 
-Инициализирует новый экземпляр объекта[`TextSearchOptions`](../../textsearchoptions). Определяет прямоугольник, ограничивающий искомый текст, и режим использования регулярных выражений.
+Инициализирует новый экземпляр[`TextSearchOptions`](../../textsearchoptions) object. Задает прямоугольник, который ограничивает искомый текст и режим использования регулярного выражения.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)

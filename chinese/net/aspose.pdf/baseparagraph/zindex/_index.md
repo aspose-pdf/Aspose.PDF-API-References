@@ -1,14 +1,14 @@
 ---
 title: ZIndex
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个表示图形 Z 顺序的 int 值具有较大 ZIndex 的图形将放置在具有较小 ZIndex 的图形上 ZIndex 可以是负数带有负数 ZIndex 的图形将被放置在页面中文本的后面
+description: 获取或设置一个 int 值指示图形的 Z 顺序 ZIndex 较大的图将放置在 ZIndex 较小的图上 ZIndex 可以是负数带有负数 ZIndex 的图形将被放置在页面中的文本后面
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/baseparagraph/zindex/
 ---
 ## BaseParagraph.ZIndex property
 
-获取或设置一个表示图形 Z 顺序的 int 值。具有较大 ZIndex 的图形将放置在具有较小 ZIndex 的图形上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中文本的后面。
+获取或设置一个 int 值，指示图形的 Z 顺序。 ZIndex 较大的图将放置在 ZIndex 较小的图上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中的文本后面。
 
 ```csharp
 public int ZIndex { get; set; }

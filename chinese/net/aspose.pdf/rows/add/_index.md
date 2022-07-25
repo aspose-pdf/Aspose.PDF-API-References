@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API 参考
-description: 将行添加到集合
+description: 将行添加到集合中
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/rows/add/
 ---
 ## Add() {#add}
 
-将行添加到集合。
+将行添加到集合中。
 
 ```csharp
 public Row Add()
@@ -29,7 +29,7 @@ public Row Add()
 
 ## Add(Row) {#add_1}
 
-将行添加到单元格中。
+将行添加到单元格。
 
 ```csharp
 public void Add(Row row)

@@ -16,7 +16,7 @@ public void Update(Artifact artifact)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| artifact | Artifact | 要更新的工件。 |
+| artifact | Artifact | 工件待更新。 |
 
 ### 也可以看看
 

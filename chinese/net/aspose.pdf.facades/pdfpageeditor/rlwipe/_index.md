@@ -1,14 +1,14 @@
 ---
 title: RLWIPE
 second_title: Aspose.PDF for .NET API 参考
-description: 左右擦除
+description: 左右擦拭
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/rlwipe/
 ---
 ## PdfPageEditor.RLWIPE field
 
-左右擦除
+左右擦拭
 
 ```csharp
 public const int RLWIPE;

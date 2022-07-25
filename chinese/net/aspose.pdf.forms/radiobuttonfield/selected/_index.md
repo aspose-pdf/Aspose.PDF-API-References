@@ -1,14 +1,14 @@
 ---
 title: Selected
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置所选项目的索引项目编号从 1 开始
+description: 获取或设置所选项目的索引项目编号从 1. 开始
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/radiobuttonfield/selected/
 ---
 ## RadioButtonField.Selected property
 
-获取或设置所选项目的索引。项目编号从 1 开始。
+获取或设置所选项目的索引。项目编号从 1. 开始
 
 ```csharp
 public override int Selected { get; set; }

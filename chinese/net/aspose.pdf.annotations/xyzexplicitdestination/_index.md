@@ -1,14 +1,14 @@
 ---
 title: XYZExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 表示显示页面的显式目的地其坐标lefttop位于窗口的左上角页面内容被放大倍数飞涨任何参数 lefttop 或 zoom 的空值指定该参数的当前值将保持不变缩放值 0 与空值具有相同的含义
+description: 表示显示页面的显式目标该页面的坐标左上位于窗口的左上角页面内容被放大倍数放大任何参数 lefttop 或 zoom 的空值指定该参数的当前值将保持不变缩放值为 0 与空值具有相同的含义
 type: docs
 weight: 1270
 url: /zh/net/aspose.pdf.annotations/xyzexplicitdestination/
 ---
 ## XYZExplicitDestination class
 
-表示显示页面的显式目的地，其坐标（left，top）位于窗口的左上角，页面内容被放大倍数飞涨。任何参数 left、top 或 zoom 的空值指定该参数的当前值将保持不变。缩放值 0 与空值具有相同的含义。
+表示显示页面的显式目标，该页面的坐标（左，上）位于窗口的左上角，页面内容被放大倍数放大。任何参数 left、top 或 zoom 的空值指定该参数的当前值将保持不变。缩放值为 0 与空值具有相同的含义。
 
 ```csharp
 public sealed class XYZExplicitDestination : ExplicitDestination
@@ -19,7 +19,7 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 | 姓名 | 描述 |
 | --- | --- |
 | [XYZExplicitDestination](xyzexplicitdestination#constructor_2)(int, double, double, double) | 创建远程显式目标。 |
-| [XYZExplicitDestination](xyzexplicitdestination#constructor_1)(Page, double, double, double) | 创建本地显式目的地。 |
+| [XYZExplicitDestination](xyzexplicitdestination#constructor_1)(Page, double, double, double) | 创建本地显式目标。 |
 
 ## 特性
 
@@ -38,7 +38,7 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 | static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination)(Page, double, double, double, bool) | 如果需要，考虑页面旋转，创建到页面指定位置的目的地。 |
 | static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner)(Page) | 创建指定页面的目的地。 |
 | static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner#createdestinationtoupperleftcorner_1)(Page, double) | 在指定页面的左上角创建目标。 |
-| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例:“1 XYZ 100 200 3”。 |
+| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例：“1 XYZ 100 200 3”. |
 
 ### 例子
 

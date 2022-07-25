@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF для справочника API .NET
-description: ПолучаетStringтекстовый объект которыйMarkupParagraphaspose.pdf.text/markupparagraphобъект представляет.
+description: получаетString текстовый объект которыйMarkupParagraphaspose.pdf.text/markupparagraph объект представляет.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/markupparagraph/text/
 ---
 ## MarkupParagraph.Text property
 
-ПолучаетStringтекстовый объект, который[`MarkupParagraph`](../../markupparagraph)объект представляет.
+получаетString текстовый объект, который[`MarkupParagraph`](../../markupparagraph) объект представляет.
 
 ```csharp
 public string Text { get; }

@@ -1,14 +1,14 @@
 ---
 title: Form.SignDependentElementsRenderingModes
 second_title: Aspose.PDF for .NET API 参考
-description: 表单可以包含签名信息可以签名也可以不签名 有时在查看器中查看表单必须取决于表单是否已签名 这个枚举枚举了在表单类型转换过程中可能的渲染模式
+description: 表单可以包含签名信息可以签名或未签名 有时查看器中的表单视图必须取决于表单是否已签名 此枚举枚举在转换表单类型时可能的渲染模式
 type: docs
 weight: 3040
 url: /zh/net/aspose.pdf.forms/form.signdependentelementsrenderingmodes/
 ---
 ## Form.SignDependentElementsRenderingModes enumeration
 
-表单可以包含签名信息，可以签名也可以不签名。 有时在查看器中查看表单必须取决于表单是否已签名。 这个枚举枚举了在表单类型转换过程中可能的渲染模式。
+表单可以包含签名信息，可以签名或未签名。 有时查看器中的表单视图必须取决于表单是否已签名。 此枚举枚举在转换表单类型时可能的渲染模式。
 
 ```csharp
 public enum SignDependentElementsRenderingModes
@@ -19,7 +19,7 @@ public enum SignDependentElementsRenderingModes
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | RenderFormAsUnsigned | `0` | 将表单呈现为无符号。 |
-| RenderFormAsSigned | `1` | 将表单渲染为已签名。 |
+| RenderFormAsSigned | `1` | 将表单呈现为已签名。 |
 
 ### 也可以看看
 

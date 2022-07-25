@@ -23,7 +23,7 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -86,11 +86,11 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 | inputStream | Stream | 输入文件流。 |
 | startPage | Int32 | 起始页码。 |
 | endPage | Int32 | 结束页码。 |
-| outputStream | Stream | 输出 Pdf 文件流。 |
+| outputStream | Stream | 输出 PDF 文件流。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -125,7 +125,7 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -156,7 +156,7 @@ public bool Extract(Stream inputStream, int[] pageNumber, HttpResponse response)
 | --- | --- | --- |
 | inputStream | Stream | 源文档流。 |
 | pageNumber | Int32[] | 将被提取的页码数组。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
@@ -182,11 +182,11 @@ public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
 | --- | --- | --- |
 | inputFile | String | 源文件路径。 |
 | pageNumber | Int32[] | 将被提取的页码数组。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
-如果页面被成功提取，则为真。
+如果页面被成功提取，则为 true。
 
 ### 也可以看看
 

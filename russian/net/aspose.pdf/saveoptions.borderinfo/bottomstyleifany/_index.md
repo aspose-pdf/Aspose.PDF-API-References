@@ -1,14 +1,14 @@
 ---
 title: BottomStyleIfAny
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет нижнюю часть если есть границы
+description: Представляет нижнюю часть если есть border
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/bottomstyleifany/
 ---
 ## SaveOptions.BorderInfo.BottomStyleIfAny field
 
-Представляет нижнюю часть (если есть) границы
+Представляет нижнюю часть (если есть) border
 
 ```csharp
 public BorderPartStyle BottomStyleIfAny;

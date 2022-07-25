@@ -1,14 +1,14 @@
 ---
 title: VisibleCount
 second_title: Aspose.PDF для справочника API .NET
-description: Получает общее количество элементов структуры на всех уровнях иерархии структуры документа.
+description: Получает общее количество элементов схемы на всех уровнях иерархии структуры документа.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/outlines/visiblecount/
 ---
 ## Outlines.VisibleCount property
 
-Получает общее количество элементов структуры на всех уровнях иерархии структуры документа.
+Получает общее количество элементов схемы на всех уровнях иерархии структуры документа.
 
 ```csharp
 public abstract int VisibleCount { get; }

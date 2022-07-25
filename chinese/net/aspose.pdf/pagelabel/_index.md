@@ -26,7 +26,7 @@ public class PageLabel
 | --- | --- |
 | [NumberingStyle](../../aspose.pdf/pagelabel/numberingstyle) { get; set; } | 获取或设置编号样式。 |
 | [Prefix](../../aspose.pdf/pagelabel/prefix) { get; set; } | 获取或设置页码前缀。 |
-| [StartingValue](../../aspose.pdf/pagelabel/startingvalue) { get; set; } | 获取或设置页码范围的起始值。 |
+| [StartingValue](../../aspose.pdf/pagelabel/startingvalue) { get; set; } | 获取或设置页码范围的起始值 |
 
 ### 也可以看看
 

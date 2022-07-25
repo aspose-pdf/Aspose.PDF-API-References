@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_UpperAlpha
 second_title: Aspose.PDF для справочника API .NET
-description: Список атрибутов НумерацияUpperAlpha - Прописные буквы A B C ....
+description: Нумерация списка атрибутов UpperAlpha  буквы верхнего регистра A B C ....
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperalpha/
 ---
 ## AttributeName.ListNumbering_UpperAlpha field
 
-Список атрибутов Нумерация:UpperAlpha - Прописные буквы (A, B, C, ...).
+Нумерация списка атрибутов: UpperAlpha — буквы верхнего регистра (A, B, C, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_UpperAlpha;

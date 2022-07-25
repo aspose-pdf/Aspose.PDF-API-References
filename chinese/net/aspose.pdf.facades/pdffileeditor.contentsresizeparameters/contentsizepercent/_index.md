@@ -1,14 +1,14 @@
 ---
 title: ContentSizePercent
 second_title: Aspose.PDF for .NET API 参考
-description: 以初始页面大小的百分比创建具有指定内容大小的调整大小参数 边距是自动计算的
+description: 以初始页面大小的百分比创建具有指定内容大小的调整大小参数 边距自动计算
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/
 ---
 ## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
-以初始页面大小的百分比创建具有指定内容大小的调整大小参数。 边距是自动计算的。
+以初始页面大小的百分比创建具有指定内容大小的调整大小参数。 边距自动计算。
 
 ```csharp
 public static ContentsResizeParameters ContentSizePercent(double width, double height)
@@ -17,7 +17,7 @@ public static ContentsResizeParameters ContentSizePercent(double width, double h
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | width | Double | 以百分比表示的新内容宽度。 |
-| height | Double | 新内容高度（百分比）。 |
+| height | Double | 以百分比表示的新内容高度。 |
 
 ### 返回值
 

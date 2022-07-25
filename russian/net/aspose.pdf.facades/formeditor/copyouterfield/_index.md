@@ -1,14 +1,14 @@
 ---
 title: CopyOuterField
 second_title: Aspose.PDF для справочника API .NET
-description: Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и ординатами. ПримечаниеТолько для полей AcroForm за исключением переключателя.
+description: Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и ординатами. Примечание только для полей AcroForm за исключением переключателя.
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}
 
-Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и ординатами. Примечание:Только для полей AcroForm (за исключением переключателя).
+Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и ординатами. Примечание: только для полей AcroForm (за исключением переключателя).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
@@ -16,14 +16,14 @@ public void CopyOuterField(string srcFileName, string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя документа PDF, содержащего копируемое поле. |
+| srcFileName | String | Имя PDF-документа, содержащего копируемое поле. |
 | fieldName | String | Исходное полное имя поля. |
 
 ### Примеры
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
- //копирует текстовое поле из source.pdf в PdfForm.pdf
+//копирует текстовое поле из source.pdf в PdfForm.pdf
 formEditor.CopyOuterField("source.pdf", "textField");
 formEditor.Save();
 ```
@@ -38,7 +38,7 @@ formEditor.Save();
 
 ## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и исходными ординатами. Примечание:Только для полей AcroForm (за исключением переключателя).
+Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и исходными ординатами. Примечание: только для полей AcroForm (за исключением переключателя).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
@@ -46,7 +46,7 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя документа PDF, содержащего копируемое поле. |
+| srcFileName | String | Имя PDF-документа, содержащего копируемое поле. |
 | fieldName | String | Исходное полное имя поля. |
 | pageNum | Int32 | Номер страницы для хранения нового поля. Если -1, новое поле будет копировано на ту же страницу, что и старое. |
 
@@ -68,7 +68,7 @@ formEditor.Save();
 
 ## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и координатами. Примечание:Только для полей AcroForm (за исключением переключателя).
+Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и координатами. Примечание: Только для полей AcroForm (за исключением переключателя).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
@@ -77,11 +77,11 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum, fl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | String | Имя документа PDF, содержащего копируемое поле. |
+| srcFileName | String | Имя PDF-документа, содержащего копируемое поле. |
 | fieldName | String | Исходное полное имя поля. |
 | pageNum | Int32 | Номер страницы для хранения нового поля. Если -1, новое поле будет копировано на ту же страницу, что и старое. |
-| абсцисса | Single | Абсцисса нового поля. Если -1, абсцисса будет равна исходной. |
-| ордината | Single | Ордината нового поля. Если -1, ордината будет равна исходной. |
+| abscissa | Single | Абсцисса нового поля. Если -1, абсцисса будет равна исходной. |
+| ordinate | Single | Ордината нового поля. Если -1, ордината будет равна исходной. |
 
 ### Примеры
 

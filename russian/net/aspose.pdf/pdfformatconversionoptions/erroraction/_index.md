@@ -1,14 +1,14 @@
 ---
 title: ErrorAction
 second_title: Aspose.PDF для справочника API .NET
-description: Действие для объектов которые нельзя преобразовать
+description: Действие для объектов которые нельзя конвертировать
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/erroraction/
 ---
 ## PdfFormatConversionOptions.ErrorAction property
 
-Действие для объектов, которые нельзя преобразовать
+Действие для объектов, которые нельзя конвертировать
 
 ```csharp
 public ConvertErrorAction ErrorAction { get; set; }

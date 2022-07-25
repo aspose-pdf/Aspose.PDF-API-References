@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает фоновый цвет фонового артефакта
+description: Получает или задает фоновый цвет артефакта фона
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/backgroundartifact/backgroundcolor/
 ---
 ## BackgroundArtifact.BackgroundColor property
 
-Получает или устанавливает фоновый цвет фонового артефакта
+Получает или задает фоновый цвет артефакта фона
 
 ```csharp
 public Color BackgroundColor { get; set; }

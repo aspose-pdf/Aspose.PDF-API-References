@@ -1,14 +1,14 @@
 ---
 title: Verify
 second_title: Aspose.PDF for .NET API 参考
-description: 验证有关此签名的文档如果文档有效 则返回 true否则返回 false
+description: 验证有关此签名的文档如果文档有效则返回 true 否则返回 false.
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.forms/signature/verify/
 ---
 ## Signature.Verify method
 
-验证有关此签名的文档，如果文档有效 则返回 true，否则返回 false。
+验证有关此签名的文档，如果文档有效则返回 true 否则返回 false.
 
 ```csharp
 public bool Verify()
@@ -16,7 +16,7 @@ public bool Verify()
 
 ### 返回值
 
-如果文档有效，则为真。
+如果文档有效，则为 true。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: FormatArrayLength
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает длину массива формата
+description: Получает или задает формат массива length
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/tocinfo/formatarraylength/
 ---
 ## TocInfo.FormatArrayLength property
 
-Получает или устанавливает длину массива формата
+Получает или задает формат массива length
 
 ```csharp
 public int FormatArrayLength { get; set; }

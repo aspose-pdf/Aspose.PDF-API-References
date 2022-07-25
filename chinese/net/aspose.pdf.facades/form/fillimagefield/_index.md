@@ -17,7 +17,7 @@ public void FillImageField(string fieldName, string imageFileName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | String | 图像按钮字段的完全限定字段名称。 |
-| imageFileName | String | 图像文件的路径，相对和绝对都可以。 |
+| imageFileName | String | 图片文件的路径，相对路径和绝对路径都可以。 |
 
 ### 例子
 
@@ -37,7 +37,7 @@ form.Save();
 
 ## FillImageField(string, Stream) {#fillimagefield}
 
-重载 FillImageField 的函数。 输入是图像流。
+重载FillImageField的函数 输入的是图像流
 
 ```csharp
 public void FillImageField(string fieldName, Stream imageStream)

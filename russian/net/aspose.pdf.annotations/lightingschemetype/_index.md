@@ -1,14 +1,14 @@
 ---
 title: LightingSchemeType
 second_title: Aspose.PDF для справочника API .NET
-description: Enum LightingSchemeTypeнабор типов схемы освещения.
+description: Enum LightingSchemeType набор типов схемы освещения.
 type: docs
 weight: 590
 url: /ru/net/aspose.pdf.annotations/lightingschemetype/
 ---
 ## LightingSchemeType enumeration
 
-Enum LightingSchemeType:набор типов схемы освещения.
+Enum LightingSchemeType: набор типов схемы освещения.
 
 ```csharp
 public enum LightingSchemeType
@@ -20,15 +20,15 @@ public enum LightingSchemeType
 | --- | --- | --- |
 | Artwork | `0` | Схема освещения "Artwork". |
 | None | `1` | Схема освещения "Нет". |
-| White | `2` | "Белая" схема освещения. |
+| White | `2` | Схема освещения "Белая". |
 | Day | `3` | Схема освещения "День". |
 | Night | `4` | Схема освещения "Ночь". |
-| Hard | `5` | "Жесткая" схема освещения. |
+| Hard | `5` | Схема освещения "Жесткая". |
 | Primary | `6` | "Основная" схема освещения. |
 | Blue | `7` | Схема освещения "Синяя". |
-| Red | `8` | "Красная" схема освещения. |
+| Red | `8` | Схема освещения "Красная". |
 | Cube | `9` | Схема освещения "Куб". |
-| CAD | `10` | Схема освещения "Cad". |
+| CAD | `10` | Схема освещения "Кад". |
 | Headlamp | `11` | Схема освещения "Налобный фонарь". |
 
 ### Смотрите также

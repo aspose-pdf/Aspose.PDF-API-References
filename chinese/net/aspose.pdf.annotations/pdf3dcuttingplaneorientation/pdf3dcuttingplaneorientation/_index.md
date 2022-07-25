@@ -1,14 +1,14 @@
 ---
 title: PDF3DCuttingPlaneOrientation
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DCuttingPlaneOrientationaspose.pdf.annotations/pdf3dcuttingplaneorientation类的新实例
+description: 初始化PDF3DCuttingPlaneOrientationaspose.pdf.annotations/pdf3dcuttingplaneorientation类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/
 ---
 ## PDF3DCuttingPlaneOrientation() {#constructor}
 
-初始化[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation)类的新实例。
+初始化[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation)类.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation()
@@ -24,7 +24,7 @@ public PDF3DCuttingPlaneOrientation()
 
 ## PDF3DCuttingPlaneOrientation(double?, double?, double?) {#constructor_1}
 
-初始化[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation)类的新实例。
+初始化[`PDF3DCuttingPlaneOrientation`](../../pdf3dcuttingplaneorientation)类.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angleZ)

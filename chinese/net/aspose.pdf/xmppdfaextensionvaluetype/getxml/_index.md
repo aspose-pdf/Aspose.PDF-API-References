@@ -20,7 +20,7 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 ### 返回值
 
-xml 元素列表。
+xml 元素的列表。
 
 ### 也可以看看
 

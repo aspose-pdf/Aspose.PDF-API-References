@@ -20,8 +20,8 @@ public sealed class TextExtractionError
 | --- | --- |
 | [Description](../../aspose.pdf.text/textextractionerror/description) { get; } | 错误的扩展描述。 |
 | [ExtractedText](../../aspose.pdf.text/textextractionerror/extractedtext) { get; } | 实际提取的文本。 |
-| [FontKey](../../aspose.pdf.text/textextractionerror/fontkey) { get; } | Font 对象的键（PDF 名称），用于显示导致提取错误的文本。 |
-| [FontName](../../aspose.pdf.text/textextractionerror/fontname) { get; } | Font 对象的可读（内部）名称，用于显示导致提取错误的文本。 |
+| [FontKey](../../aspose.pdf.text/textextractionerror/fontkey) { get; } | 用于显示导致提取错误的文本的字体对象的键（PDF 名称）。 |
+| [FontName](../../aspose.pdf.text/textextractionerror/fontname) { get; } | 用于显示导致提取错误的文本的字体对象的可读（内部）名称。 |
 | [Location](../../aspose.pdf.text/textextractionerror/location) { get; } | 错误位置。 |
 | [Summary](../../aspose.pdf.text/textextractionerror/summary) { get; } | 错误的简要说明。 |
 
@@ -29,7 +29,7 @@ public sealed class TextExtractionError
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.text/textextractionerror/tostring)() | 返回字符串表示。 |
+| override [ToString](../../aspose.pdf.text/textextractionerror/tostring)() | 返回字符串表示形式。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SignatureField
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化SignatureFieldaspose.pdf.forms/signaturefield类的新实例
+description: 初始化SignatureFieldaspose.pdf.forms/signaturefield类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/signaturefield/signaturefield/
 ---
 ## SignatureField(Page, Rectangle) {#constructor_1}
 
-初始化[`SignatureField`](../../signaturefield)类的新实例。
+初始化[`SignatureField`](../../signaturefield)类.
 
 ```csharp
 public SignatureField(Page page, Rectangle rect)
@@ -31,7 +31,7 @@ public SignatureField(Page page, Rectangle rect)
 
 ## SignatureField(Document, Rectangle) {#constructor}
 
-初始化[`SignatureField`](../../signaturefield)类的新实例。
+初始化[`SignatureField`](../../signaturefield)类.
 
 ```csharp
 public SignatureField(Document doc, Rectangle rect)

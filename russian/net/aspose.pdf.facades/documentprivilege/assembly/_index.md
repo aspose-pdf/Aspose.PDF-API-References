@@ -1,14 +1,14 @@
 ---
 title: Assembly
 second_title: Aspose.PDF для справочника API .NET
-description: Позволяет собирать файл.
+description: Разрешает сборку файла.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/documentprivilege/assembly/
 ---
 ## DocumentPrivilege.Assembly property
 
-Позволяет собирать файл.
+Разрешает сборку файла.
 
 ```csharp
 public static DocumentPrivilege Assembly { get; }

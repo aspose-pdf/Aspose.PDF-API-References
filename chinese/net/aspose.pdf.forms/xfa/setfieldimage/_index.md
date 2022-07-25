@@ -1,14 +1,14 @@
 ---
 title: SetFieldImage
 second_title: Aspose.PDF for .NET API 参考
-description: 设置 XFA 字段的图像
+description: 为 XFA 字段设置图像
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.forms/xfa/setfieldimage/
 ---
 ## XFA.SetFieldImage method
 
-设置 XFA 字段的图像。
+为 XFA 字段设置图像。
 
 ```csharp
 public void SetFieldImage(string fieldName, Stream image)
@@ -16,7 +16,7 @@ public void SetFieldImage(string fieldName, Stream image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 字段名称。 |
+| fieldName | String | 字段的名称。 |
 | image | Stream | 包含图像的流。 |
 
 ### 也可以看看

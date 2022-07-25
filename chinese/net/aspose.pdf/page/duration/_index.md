@@ -1,14 +1,14 @@
 ---
 title: Duration
 second_title: Aspose.PDF for .NET API 参考
-description: 获取设置的页面显示持续时间这是在演示期间应显示页面的时间以秒为单位 如果没有定义持续时间则返回 -1
+description: 获取设置的页面显示持续时间这是在演示期间应显示页面的时间以秒为单位 如果未定义持续时间则返回 -1
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/page/duration/
 ---
 ## Page.Duration property
 
-获取设置的页面显示持续时间。这是在演示期间应显示页面的时间（以秒为单位）。 如果没有定义持续时间，则返回 -1。
+获取设置的页面显示持续时间。这是在演示期间应显示页面的时间（以秒为单位）。 如果未定义持续时间，则返回 -1。
 
 ```csharp
 public double Duration { get; set; }

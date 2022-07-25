@@ -1,14 +1,14 @@
 ---
 title: SystemFontsSubstitution
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаSystemFontsSubstitutionaspose.pdf.text/systemfontssubstitution.
+description: Инициализирует новый экземплярSystemFontsSubstitutionaspose.pdf.text/systemfontssubstitution класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
 ---
 ## SystemFontsSubstitution constructor
 
-Инициализирует новый экземпляр класса[`SystemFontsSubstitution`](../../systemfontssubstitution).
+Инициализирует новый экземпляр[`SystemFontsSubstitution`](../../systemfontssubstitution) класс.
 
 ```csharp
 public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)

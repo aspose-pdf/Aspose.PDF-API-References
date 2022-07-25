@@ -1,14 +1,14 @@
 ---
 title: Validate
 second_title: Aspose.PDF для справочника API .NET
-description: Подтвердить соответствие документа указанному файлу.
+description: Утвердить документ в указанном файле.
 type: docs
 weight: 770
 url: /ru/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
 
-Подтвердить соответствие документа указанному файлу.
+Утвердить документ в указанном файле.
 
 ```csharp
 public bool Validate(string outputLogFileName, PdfFormat format)
@@ -17,7 +17,7 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputLogFileName | String | Путь к файлу, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
+| format | PdfFormat | Формат пдф. |
 
 ### Возвращаемое значение
 
@@ -34,7 +34,7 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 ## Validate(Stream, PdfFormat) {#validate_1}
 
-Подтвердить соответствие документа указанному файлу.
+Утвердить документ в указанном файле.
 
 ```csharp
 public bool Validate(Stream outputLogStream, PdfFormat format)
@@ -42,8 +42,8 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogStream | Stream | Поток, в котором будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
+| outputLogStream | Stream | Поток, где будут храниться комментарии. |
+| format | PdfFormat | Формат пдф. |
 
 ### Возвращаемое значение
 
@@ -60,7 +60,7 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 ## Validate(PdfFormatConversionOptions) {#validate}
 
-Подтвердить соответствие документа указанному файлу.
+Утвердить документ в указанном файле.
 
 ```csharp
 public bool Validate(PdfFormatConversionOptions options)
@@ -72,7 +72,7 @@ public bool Validate(PdfFormatConversionOptions options)
 
 ### Возвращаемое значение
 
-Операция результат
+Результат операции
 
 ### Смотрите также
 

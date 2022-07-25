@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Получает количество встроенных файлов в коллекции.
+description: Получает количество встроенных файлов в коллекцию.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/embeddedfilecollection/count/
 ---
 ## EmbeddedFileCollection.Count property
 
-Получает количество встроенных файлов в коллекции.
+Получает количество встроенных файлов в коллекцию.
 
 ```csharp
 public int Count { get; }

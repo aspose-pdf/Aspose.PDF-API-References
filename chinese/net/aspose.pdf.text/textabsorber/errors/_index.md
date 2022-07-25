@@ -1,14 +1,14 @@
 ---
 title: Errors
 second_title: Aspose.PDF for .NET API 参考
-description: TextExtractionErroraspose.pdf.text/textextractionerror对象列表它包含有关在文本提取期间发现的错误的信息 仅当 TextSearchOptions.LogTextExtractionErrors  true 时才会执行错误搜索它可能会降低性能
+description: 列表TextExtractionErroraspose.pdf.text/textextractionerror对象它包含有关在文本提取期间发现错误的信息 仅当 TextSearchOptions.LogTextExtractionErrors  true 时才会执行错误搜索它可能会降低性能
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/textabsorber/errors/
 ---
 ## TextAbsorber.Errors property
 
-[`TextExtractionError`](../../textextractionerror)对象列表。它包含有关在文本提取期间发现的错误的信息。 仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。
+列表[`TextExtractionError`](../../textextractionerror)对象。它包含有关在文本提取期间发现错误的信息。 仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。
 
 ```csharp
 public List<TextExtractionError> Errors { get; }

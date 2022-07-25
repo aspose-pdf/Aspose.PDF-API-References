@@ -1,14 +1,14 @@
 ---
 title: BarcodeField
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаBarcodeFieldaspose.pdf.forms/barcodefield.
+description: Инициализирует новый экземплярBarcodeFieldaspose.pdf.forms/barcodefield класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/barcodefield/barcodefield/
 ---
 ## BarcodeField(Page, Rectangle) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`BarcodeField`](../../barcodefield).
+Инициализирует новый экземпляр[`BarcodeField`](../../barcodefield) класс.
 
 ```csharp
 public BarcodeField(Page page, Rectangle rect)
@@ -31,7 +31,7 @@ public BarcodeField(Page page, Rectangle rect)
 
 ## BarcodeField(Document, Rectangle) {#constructor}
 
-Инициализирует новый экземпляр класса[`BarcodeField`](../../barcodefield).
+Инициализирует новый экземпляр[`BarcodeField`](../../barcodefield) класс.
 
 ```csharp
 public BarcodeField(Document doc, Rectangle rect)
@@ -40,7 +40,7 @@ public BarcodeField(Document doc, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ, в котором будет создано поле. |
-| rect | Rectangle | Прямоугольник, в который будет помещено поле на странице. |
+| rect | Rectangle | Прямоугольник, в котором поле будет размещено на странице. |
 
 ### Смотрите также
 

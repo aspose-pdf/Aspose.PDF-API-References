@@ -1,14 +1,14 @@
 ---
 title: Superscript
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的上标由TextFragmentaspose.pdf.text/textfragment对象表示
+description: 获取或设置文本的上标由TextFragmentaspose.pdf.text/textfragment对象.
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.text/textfragmentstate/superscript/
 ---
 ## TextFragmentState.Superscript property
 
-获取或设置文本的上标，由[`TextFragment`](../../textfragment)对象表示。
+获取或设置文本的上标，由[`TextFragment`](../../textfragment)对象.
 
 ```csharp
 public override bool Superscript { get; set; }

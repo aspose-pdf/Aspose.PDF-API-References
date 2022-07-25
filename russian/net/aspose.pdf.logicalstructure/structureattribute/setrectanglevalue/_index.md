@@ -1,14 +1,14 @@
 ---
 title: SetRectangleValue
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает значение прямоугольника.
+description: Задает прямоугольник значений.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 ---
 ## StructureAttribute.SetRectangleValue method
 
-Устанавливает значение прямоугольника.
+Задает прямоугольник значений.
 
 ```csharp
 public void SetRectangleValue(Rectangle rectangle)
@@ -16,7 +16,7 @@ public void SetRectangleValue(Rectangle rectangle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| прямоугольник | Rectangle | Прямоугольник. |
+| rectangle | Rectangle | Прямоугольник. |
 
 ### Смотрите также
 

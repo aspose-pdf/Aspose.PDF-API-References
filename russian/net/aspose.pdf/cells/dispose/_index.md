@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.PDF для справочника API .NET
-description: Метод удаления
+description: Метод утилизации
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/cells/dispose/
 ---
 ## Cells.Dispose method
 
-Метод удаления
+Метод утилизации
 
 ```csharp
 public void Dispose()

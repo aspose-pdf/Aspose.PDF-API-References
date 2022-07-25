@@ -16,9 +16,9 @@ public void CreateFreeText(Rectangle rect, string contents, int page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 注释矩形定义注释在页面上的位置。 |
+| rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | contents | String | 注释的内容。 |
-| page | Int32 | 将创建文本注释的原始页数。 |
+| page | Int32 | 将在其中创建文本注释的原始页数。 |
 
 ### 例子
 

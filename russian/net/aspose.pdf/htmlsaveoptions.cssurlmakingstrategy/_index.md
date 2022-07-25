@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.CssUrlMakingStrategy
 second_title: Aspose.PDF для справочника API .NET
-description: Вы можете назначить этому свойству делегата созданного из пользовательского метода который реализует создание URL-адреса CSS на который ссылается в сгенерированном HTML-документе. Например если вы хотите чтобы CSS упоминался в HTML как otherPage.ASPXCssIDzjjkklj Тогда такая пользовательская стратегия должна возвращать otherPage.ASPXCssIDzjjkklj
+description: Вы можете назначить этому свойству делегата созданного из пользовательского метода который реализует создание URL-адреса CSS на который ссылается  в сгенерированном HTML-документе. Например если вы хотите чтобы CSS упоминался в HTML как otherPage.ASPXCssIDzjjkklj  тогда такая пользовательская стратегия должна возвращать otherPage.ASPXCssIDzjjkklj
 type: docs
 weight: 3470
 url: /ru/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/
 ---
 ## HtmlSaveOptions.CssUrlMakingStrategy delegate
 
-Вы можете назначить этому свойству делегата, созданного из пользовательского метода, который реализует создание URL-адреса CSS, на который ссылается в сгенерированном HTML-документе. Например, если вы хотите, чтобы CSS упоминался в HTML как «otherPage.ASPX?CssID=zjjkklj» Тогда такая пользовательская стратегия должна возвращать «otherPage.ASPX?CssID=zjjkklj»
+Вы можете назначить этому свойству делегата, созданного из пользовательского метода, который реализует создание URL-адреса CSS, на который ссылается , в сгенерированном HTML-документе. Например, если вы хотите, чтобы CSS упоминался в HTML как «otherPage.ASPX?CssID=zjjkklj» , тогда такая пользовательская стратегия должна возвращать «otherPage.ASPX?CssID=zjjkklj»
 
 ```csharp
 public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo);
@@ -16,11 +16,11 @@ public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cssUrlRequestInfo | CssUrlRequestInfo | представляет набор данных, которые можно использовать для генерации URL-адреса CSS |
+| cssUrlRequestInfo | CssUrlRequestInfo | представляет собой набор данных, которые можно использовать для генерации URL-адреса CSS. |
 
 ### Возвращаемое значение
 
-должен возвращать строка, представляющая URL-адрес CSS или шаблон URL-адреса
+должна возвращать строку, представляющую URL-адрес CSS или шаблон URL-адреса
 
 ### Смотрите также
 

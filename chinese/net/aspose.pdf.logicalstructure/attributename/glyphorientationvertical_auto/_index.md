@@ -1,14 +1,14 @@
 ---
 title: GlyphOrientationVertical_Auto
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 GlyphOrientationVerticalAuto - 指定文本的默认方向取决于它是否为全角与高一样宽
+description: 属性 GlyphOrientationVertical Auto - 指定文本的默认方向取决于它是否是全角与高一样宽
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/
 ---
 ## AttributeName.GlyphOrientationVertical_Auto field
 
-属性 GlyphOrientationVertical:Auto - 指定文本的默认方向，取决于它是否为全角（与高一样宽）。
+属性 GlyphOrientationVertical: Auto - 指定文本的默认方向，取决于它是否是全角（与高一样宽）。
 
 ```csharp
 public static readonly AttributeName GlyphOrientationVertical_Auto;

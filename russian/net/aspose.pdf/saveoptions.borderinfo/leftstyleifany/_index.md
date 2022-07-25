@@ -1,14 +1,14 @@
 ---
 title: LeftStyleIfAny
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет левую часть если есть границы
+description: Представляет левую часть если есть border
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/
 ---
 ## SaveOptions.BorderInfo.LeftStyleIfAny field
 
-Представляет левую часть (если есть) границы
+Представляет левую часть (если есть) border
 
 ```csharp
 public BorderPartStyle LeftStyleIfAny;

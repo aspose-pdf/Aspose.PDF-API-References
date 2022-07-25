@@ -1,14 +1,14 @@
 ---
 title: FormKey
 second_title: Aspose.PDF для справочника API .NET
-description: Ключ имя PDF Form XObject в котором находится ошибка извлечения текста потока содержимого. Не пусто если ObjectType  xForm.
+description: Ключ имя PDF Form XObject в котором находится ошибка извлечения текста из потока содержимого. Не пусто если ObjectType  xForm.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textextractionerrorlocation/formkey/
 ---
 ## TextExtractionErrorLocation.FormKey property
 
-Ключ (имя) PDF Form XObject, в котором находится ошибка извлечения текста потока содержимого. Не пусто, если ObjectType == 'xForm'.
+Ключ (имя) PDF Form XObject, в котором находится ошибка извлечения текста из потока содержимого. Не пусто, если ObjectType == 'xForm'.
 
 ```csharp
 public string FormKey { get; }

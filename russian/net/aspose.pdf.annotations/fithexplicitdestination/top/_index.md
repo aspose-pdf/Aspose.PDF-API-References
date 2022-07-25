@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Aspose.PDF для справочника API .NET
-description: Получает вертикальную координату top расположенную на верхнем краю окна.
+description: Получает верхнюю вертикальную координату расположенную на верхнем краю окна.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/fithexplicitdestination/top/
 ---
 ## FitHExplicitDestination.Top property
 
-Получает вертикальную координату top, расположенную на верхнем краю окна.
+Получает верхнюю вертикальную координату, расположенную на верхнем краю окна.
 
 ```csharp
 public double Top { get; }

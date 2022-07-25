@@ -16,7 +16,7 @@ public Rectangle GetRectangle(bool considerRotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| considerRotation | Boolean | При значении true учитывается поворот страницы. |
+| considerRotation | Boolean | При значении true учитывается ротация страниц. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: SelectedItems
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置多选列表中选定项目的数组对于单选列表返回包含单个项目的数组
+description: 获取或设置多选列表中选定项的数组对于单选列表返回带有单个项目的数组
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/listboxfield/selecteditems/
 ---
 ## ListBoxField.SelectedItems property
 
-获取或设置多选列表中选定项目的数组。对于单选列表，返回包含单个项目的数组。
+获取或设置多选列表中选定项的数组。对于单选列表返回带有单个项目的数组。
 
 ```csharp
 public override int[] SelectedItems { set; }

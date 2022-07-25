@@ -21,7 +21,7 @@ public sealed class RenditionAction : PdfAction
 | [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript) { get; set; } | 获取或设置与操作关联的 JavaScript 代码。 |
 | [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | 按顺序执行下一步操作。 |
 | [Rendition](../../aspose.pdf.annotations/renditionaction/rendition) { get; } | 获取或设置与操作关联的再现。 |
-| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation) { get; set; } | 触发动作时执行的操作。 |
+| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation) { get; set; } | 触发动作时要执行的操作。 |
 
 ### 也可以看看
 

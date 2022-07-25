@@ -1,14 +1,14 @@
 ---
 title: TextEditOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 为指定的无字符行为模式初始化TextEditOptionsaspose.pdf.text/texteditoptions对象的新实例
+description: 初始化TextEditOptionsaspose.pdf.text/texteditoptions指定无字符行为模式的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-为指定的无字符行为模式初始化[`TextEditOptions`](../../texteditoptions)对象的新实例。
+初始化[`TextEditOptions`](../../texteditoptions)指定无字符行为模式的对象。
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -29,7 +29,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-为指定的字体替换行为模式初始化[`TextEditOptions`](../../texteditoptions)对象的新实例。
+初始化[`TextEditOptions`](../../texteditoptions)指定字体替换行为模式的对象。
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
@@ -50,7 +50,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-为指定的语言转换权限初始化[`TextEditOptions`](../../texteditoptions)对象的新实例。
+初始化[`TextEditOptions`](../../texteditoptions)指定语言转换权限的对象。
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
@@ -70,7 +70,7 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 ## TextEditOptions(LanguageTransformation) {#constructor_2}
 
-为指定的语言转换行为模式初始化[`TextEditOptions`](../../texteditoptions)对象的新实例。
+初始化[`TextEditOptions`](../../texteditoptions)对象为指定的语言转换行为模式。
 
 ```csharp
 public TextEditOptions(LanguageTransformation languageTransformationBehavior)

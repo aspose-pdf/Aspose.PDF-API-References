@@ -26,7 +26,7 @@ public sealed class AttributeKey
 | Имя | Описание |
 | --- | --- |
 | override [ToString](../../aspose.pdf.logicalstructure/attributekey/tostring)() | Возвращает строку, представляющую текущий объект. |
-| [explicit operator](../../aspose.pdf.logicalstructure/attributekey/op_explicit) | Выполняет явное преобразование изStringв[`AttributeKey`](../attributekey). |
+| [explicit operator](../../aspose.pdf.logicalstructure/attributekey/op_explicit) | Выполняет явное преобразование изString к[`AttributeKey`](../attributekey) . |
 
 ## Поля
 
@@ -39,7 +39,7 @@ public sealed class AttributeKey
 | static readonly [BorderColor](../../aspose.pdf.logicalstructure/attributekey/bordercolor) | Атрибут BorderColor (владелец атрибута макета). |
 | static readonly [BorderStyle](../../aspose.pdf.logicalstructure/attributekey/borderstyle) | Атрибут BorderStyle (владелец атрибута макета). |
 | static readonly [BorderThickness](../../aspose.pdf.logicalstructure/attributekey/borderthickness) | Атрибут BorderThickness (владелец атрибута макета). |
-| static readonly [Checked](../../aspose.pdf.logicalstructure/attributekey/checked) | Проверенный атрибут (владелец атрибута PrintField). |
+| static readonly [Checked](../../aspose.pdf.logicalstructure/attributekey/checked) | Проверяемый атрибут (владелец атрибута PrintField). |
 | static readonly [Color](../../aspose.pdf.logicalstructure/attributekey/color) | Атрибут цвета (владелец атрибута макета). |
 | static readonly [ColSpan](../../aspose.pdf.logicalstructure/attributekey/colspan) | Атрибут ColSpan (владелец атрибута таблицы). |
 | static readonly [ColumnCount](../../aspose.pdf.logicalstructure/attributekey/columncount) | Атрибут ColumnCount (владелец атрибута макета). |
@@ -63,7 +63,7 @@ public sealed class AttributeKey
 | static readonly [SpaceAfter](../../aspose.pdf.logicalstructure/attributekey/spaceafter) | Атрибут SpaceAfter (владелец атрибута макета). |
 | static readonly [SpaceBefore](../../aspose.pdf.logicalstructure/attributekey/spacebefore) | Атрибут SpaceBefore (владелец атрибута макета). |
 | static readonly [StartIndent](../../aspose.pdf.logicalstructure/attributekey/startindent) | Атрибут StartIndent (владелец атрибута макета). |
-| static readonly [Summary](../../aspose.pdf.logicalstructure/attributekey/summary) | Сводный атрибут (владелец атрибута таблицы). |
+| static readonly [Summary](../../aspose.pdf.logicalstructure/attributekey/summary) | Атрибут сводки (владелец атрибута таблицы). |
 | static readonly [TBorderStyle](../../aspose.pdf.logicalstructure/attributekey/tborderstyle) | Атрибут TBorderStyle (владелец атрибута макета). |
 | static readonly [TextAlign](../../aspose.pdf.logicalstructure/attributekey/textalign) | Атрибут TextAlign (владелец атрибута макета). |
 | static readonly [TextDecorationColor](../../aspose.pdf.logicalstructure/attributekey/textdecorationcolor) | Атрибут TextDecorationColor (владелец атрибута макета). |

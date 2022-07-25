@@ -1,14 +1,14 @@
 ---
 title: MediaBox
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает медиа-бокс страницы.
+description: Получает или задает медиа-бокс страницы.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/page/mediabox/
 ---
 ## Page.MediaBox property
 
-Получает или устанавливает медиа-бокс страницы.
+Получает или задает медиа-бокс страницы.
 
 ```csharp
 public Rectangle MediaBox { get; set; }

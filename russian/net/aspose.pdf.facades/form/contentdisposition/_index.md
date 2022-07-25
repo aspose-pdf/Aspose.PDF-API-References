@@ -1,14 +1,14 @@
 ---
 title: ContentDisposition
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает способ сохранения содержимого при сохранении результата операции в объекте HttpResponse. Возможное значениеinline/attachment. По умолчаниювстроенный.
+description: Получает или задает способ хранения содержимого при сохранении результата операции в объекте HttpResponse. Возможное значение встроенный / вложение. По умолчанию встроенный.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/form/contentdisposition/
 ---
 ## Form.ContentDisposition property
 
-Получает или задает способ сохранения содержимого при сохранении результата операции в объекте HttpResponse. Возможное значение:inline/attachment. По умолчанию:встроенный.
+Получает или задает способ хранения содержимого при сохранении результата операции в объекте HttpResponse. Возможное значение: встроенный / вложение. По умолчанию: встроенный.
 
 ```csharp
 public ContentDisposition ContentDisposition { get; set; }

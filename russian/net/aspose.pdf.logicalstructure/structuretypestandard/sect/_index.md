@@ -1,14 +1,14 @@
 ---
 title: Sect
 second_title: Aspose.PDF для справочника API .NET
-description: Раздел Контейнер для группировки связанных элементов содержимого.
+description: Раздел Контейнер для группировки связанных элементов контента.
 type: docs
 weight: 360
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/sect/
 ---
 ## StructureTypeStandard.Sect field
 
-(Раздел) Контейнер для группировки связанных элементов содержимого.
+(Раздел) Контейнер для группировки связанных элементов контента.
 
 ```csharp
 public static readonly StructureTypeStandard Sect;

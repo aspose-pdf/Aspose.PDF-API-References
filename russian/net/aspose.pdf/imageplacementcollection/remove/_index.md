@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет указанный элемент из коллекции
+description: Удаляет указанный элемент из collection
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/imageplacementcollection/remove/
 ---
 ## ImagePlacementCollection.Remove method
 
-Удаляет указанный элемент из коллекции
+Удаляет указанный элемент из collection
 
 ```csharp
 public bool Remove(ImagePlacement item)

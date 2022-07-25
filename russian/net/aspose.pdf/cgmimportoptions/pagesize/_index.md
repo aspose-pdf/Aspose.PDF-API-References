@@ -1,14 +1,14 @@
 ---
 title: PageSize
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию - A4 300dpi 2480 X 3508.
+description: Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию  A4 300dpi 2480 X 3508.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/cgmimportoptions/pagesize/
 ---
 ## CgmImportOptions.PageSize property
 
-Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию - A4 300dpi 2480 X 3508.
+Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию — A4 300dpi 2480 X 3508.
 
 ```csharp
 public SizeF PageSize { get; set; }

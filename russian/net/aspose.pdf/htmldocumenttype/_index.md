@@ -1,14 +1,14 @@
 ---
 title: HtmlDocumentType
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет перечисление типов документов Html.
+description: Представляет перечисление типов документов HTML.
 type: docs
 weight: 3380
 url: /ru/net/aspose.pdf/htmldocumenttype/
 ---
 ## HtmlDocumentType enumeration
 
-Представляет перечисление типов документов Html.
+Представляет перечисление типов документов HTML.
 
 ```csharp
 public enum HtmlDocumentType

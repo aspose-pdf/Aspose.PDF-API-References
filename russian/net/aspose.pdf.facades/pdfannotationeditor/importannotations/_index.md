@@ -16,8 +16,8 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotFile | String[] | Массив путей PDF-документов, содержащих исходные аннотации. |
-| annotType | AnnotationType[] | Массив импортируемых типов аннотаций. |
+| annotFile | String[] | Массив путей к документам PDF, содержащим исходные аннотации. |
+| annotType | AnnotationType[] | Массив типов аннотаций для импорта. |
 
 ### Примеры
 
@@ -41,7 +41,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-Импортирует аннотации в документ из массива других PDF-документов.
+Импорт аннотаций в документ из массива других документов PDF.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
@@ -49,7 +49,7 @@ public void ImportAnnotations(string[] annotFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotFile | String[] | Массив путей PDF-документов, содержащих исходные аннотации. |
+| annotFile | String[] | Массив путей к документам PDF, содержащим исходные аннотации. |
 
 ### Примеры
 

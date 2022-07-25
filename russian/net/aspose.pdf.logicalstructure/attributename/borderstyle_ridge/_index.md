@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Ridge
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleRidge  граница выглядит так как будто она выходит из холста противоположность Groove.
+description: Атрибут BorderStyle Ridge  граница выглядит так как будто она выходит из холста противоположность Groove.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_ridge/
 ---
 ## AttributeName.BorderStyle_Ridge field
 
-Атрибут BorderStyle:Ridge — граница выглядит так, как будто она выходит из холста (противоположность Groove).
+Атрибут BorderStyle: Ridge — граница выглядит так, как будто она выходит из холста (противоположность Groove).
 
 ```csharp
 public static readonly AttributeName BorderStyle_Ridge;

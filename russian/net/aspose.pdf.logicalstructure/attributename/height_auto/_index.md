@@ -1,14 +1,14 @@
 ---
 title: Height_Auto
 second_title: Aspose.PDF для справочника API .NET
-description: Высота атрибутаАвто - Высота элемента определяется внутренней высотой его содержимого.
+description: Высота атрибута Авто  высота элемента должна определяться внутренней высотой его содержимого.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.logicalstructure/attributename/height_auto/
 ---
 ## AttributeName.Height_Auto field
 
-Высота атрибута:Авто - Высота элемента определяется внутренней высотой его содержимого.
+Высота атрибута: Авто — высота элемента должна определяться внутренней высотой его содержимого.
 
 ```csharp
 public static readonly AttributeName Height_Auto;

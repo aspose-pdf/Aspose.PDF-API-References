@@ -1,14 +1,14 @@
 ---
 title: BlockAlign_Before
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BlockAlignДо  перед краем прямоугольника распределения первого дочернего элемента выровненным с краем прямоугольника содержимого ячейки таблицы.
+description: Атрибут BlockAlign До  перед краем прямоугольника выделения первого дочернего элемента выровненного с краем прямоугольника содержимого ячейки таблицы.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/attributename/blockalign_before/
 ---
 ## AttributeName.BlockAlign_Before field
 
-Атрибут BlockAlign:До — перед краем прямоугольника распределения первого дочернего элемента, выровненным с краем прямоугольника содержимого ячейки таблицы.
+Атрибут BlockAlign: До — перед краем прямоугольника выделения первого дочернего элемента, выровненного с краем прямоугольника содержимого ячейки таблицы.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Before;

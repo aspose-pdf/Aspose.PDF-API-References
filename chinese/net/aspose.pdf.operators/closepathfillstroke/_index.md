@@ -1,14 +1,14 @@
 ---
 title: ClosePathFillStroke
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 b 运算符的类关闭填充和描边路径具有非对称缠绕规则
+description: 表示 b 运算符的类关闭填充和描边路径使用 nonzer 缠绕规则
 type: docs
 weight: 4990
 url: /zh/net/aspose.pdf.operators/closepathfillstroke/
 ---
 ## ClosePathFillStroke class
 
-表示 b 运算符的类（关闭、填充和描边路径，具有非对称缠绕规则）。
+表示 b 运算符的类（关闭、填充和描边路径，使用 nonzer 缠绕规则）。
 
 ```csharp
 public class ClosePathFillStroke : Operator
@@ -18,7 +18,7 @@ public class ClosePathFillStroke : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClosePathFillStroke](closepathfillstroke)() | 初始化运算符。 |
+| [ClosePathFillStroke](closepathfillstroke)() | 初始化操作符。 |
 
 ## 特性
 

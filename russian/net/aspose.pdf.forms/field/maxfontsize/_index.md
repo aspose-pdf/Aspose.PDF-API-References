@@ -1,14 +1,14 @@
 ---
 title: MaxFontSize
 second_title: Aspose.PDF для справочника API .NET
-description: Максимальный размер шрифта который можно использовать для содержимого поля. -1 чтобы не проверять размер.
+description: Размер шрифта Maximail который можно использовать для содержимого поля. -1 чтобы не проверять размер.
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.forms/field/maxfontsize/
 ---
 ## Field.MaxFontSize property
 
-Максимальный размер шрифта, который можно использовать для содержимого поля. -1, чтобы не проверять размер.
+Размер шрифта Maximail, который можно использовать для содержимого поля. -1, чтобы не проверять размер.
 
 ```csharp
 public static double MaxFontSize { get; set; }

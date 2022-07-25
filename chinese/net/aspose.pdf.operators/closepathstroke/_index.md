@@ -18,7 +18,7 @@ public class ClosePathStroke : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClosePathStroke](closepathstroke)() | 初始化运算符。 |
+| [ClosePathStroke](closepathstroke)() | 初始化操作符。 |
 
 ## 特性
 
@@ -31,7 +31,7 @@ public class ClosePathStroke : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/closepathstroke/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/closepathstroke/tostring)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/closepathstroke/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

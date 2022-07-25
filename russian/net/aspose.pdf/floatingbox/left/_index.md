@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает левую координату стола.
+description: Получает или задает левую координату таблицы.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/floatingbox/left/
 ---
 ## FloatingBox.Left property
 
-Получает или задает левую координату стола.
+Получает или задает левую координату таблицы.
 
 ```csharp
 public double Left { get; set; }

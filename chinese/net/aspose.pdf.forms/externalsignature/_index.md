@@ -24,16 +24,16 @@ public class ExternalSignature : Signature
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Authority](../../aspose.pdf.forms/signature/authority) { get; set; } | 签署文件的人或机构的名称。 |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange) { get; } | 整数对数组（起始字节偏移，字节长度） 应该描述摘要计算的确切字节范围。 |
+| [Authority](../../aspose.pdf.forms/signature/authority) { get; set; } | 签署文件的人或机构的姓名。 |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange) { get; } | 整数对数组（起始字节偏移量，字节长度） ，应描述摘要计算的确切字节范围。 |
 | [Certificate](../../aspose.pdf.forms/externalsignature/certificate) { get; } | 带有私钥的证书。 |
-| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo) { get; set; } | 签名者提供的信息，使接收者能够联系签名者 以验证签名，例如电话号码。 |
+| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo) { get; set; } | 签名者提供的信息，使收件人能够联系签名者 以验证签名，例如电话号码。 |
 | [CustomAppearance](../../aspose.pdf.forms/signature/customappearance) { get; set; } | 获取/设置自定义外观。 |
-| [Date](../../aspose.pdf.forms/signature/date) { get; set; } | 签名时间。 |
-| [Location](../../aspose.pdf.forms/signature/location) { get; set; } | CPU 主机名或签名的物理位置。 |
+| [Date](../../aspose.pdf.forms/signature/date) { get; set; } | 签署时间。 |
+| [Location](../../aspose.pdf.forms/signature/location) { get; set; } | 签名的 CPU 主机名或物理位置。 |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings) { get; set; } | 获取/设置 ocsp 设置。 |
 | [Reason](../../aspose.pdf.forms/signature/reason) { get; set; } | 签名的原因，如（我同意РІР‚В¦）。 |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties) { get; set; } | 强制显示/隐藏签名属性。 如果 ShowProperties 为真，则签名字段具有预定义的外观格式（要表示的字符串）: ------------------ ------------------------- 由 {certificate subject} 数字签名 Date:{signature .Date} 原因:{signature.Reason} 位置:{signature.Location} ------------ ------------------------------- 其中 {X} 是 X 值的占位符。签名也可以有图像，在这种情况下，列出的字符串放在图像上。 ShowProperties 默认为真。 |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties) { get; set; } | 强制显示/隐藏签名属性。 如果 ShowProperties 为真，签名字段具有预定义的外观格式（要表示的字符串）： --------- ---------------------- 由 {certificate subject} 数字签名 日期：{signature.Date} 原因：{signature.Reason} 位置：{签名.位置} ------------------------------------------- 哪里{X} 是 X 值的占位符。签名也可以有图像，在这种情况下，列出的字符串放在图像上。 ShowProperties 默认为真。 |
 | [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings) { get; set; } | 获取/设置时间戳设置。 |
 | [UseLtv](../../aspose.pdf.forms/signature/useltv) { get; set; } | 获取/设置 ltv 验证标志。 |
 
@@ -41,7 +41,7 @@ public class ExternalSignature : Signature
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Verify](../../aspose.pdf.forms/signature/verify)() | 验证有关此签名的文档，如果文档有效 则返回 true，否则返回 false。 |
+| [Verify](../../aspose.pdf.forms/signature/verify)() | 验证有关此签名的文档，如果文档有效则返回 true 否则返回 false. |
 
 ### 也可以看看
 

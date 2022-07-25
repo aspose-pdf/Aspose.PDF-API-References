@@ -1,14 +1,14 @@
 ---
 title: ConversionEngine
 second_title: Aspose.PDF for .NET API 参考
-description: 允许选择将在转换期间使用的转换引擎 目前新引擎处于B-testing阶段所以这个值默认设置为 ConversionEngines.LegacyEngine
+description: 允许选择将在转换期间使用的转换引擎 目前新引擎处于 B 测试阶段因此默认设置为 ConversionEngines.LegacyEngine
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/svgloadoptions/conversionengine/
 ---
 ## SvgLoadOptions.ConversionEngine field
 
-允许选择将在转换期间使用的转换引擎。 目前新引擎处于B-testing阶段，所以这个值默认设置为 ConversionEngines.LegacyEngine
+允许选择将在转换期间使用的转换引擎。 目前新引擎处于 B 测试阶段，因此默认设置为 ConversionEngines.LegacyEngine
 
 ```csharp
 public ConversionEngines ConversionEngine;

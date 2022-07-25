@@ -18,8 +18,8 @@ public sealed class TextBuilder
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextBuilder](textbuilder#constructor)(Page) | 为 Pdf 页面初始化[`TextBuilder`](../textbuilder)类的新实例。 |
-| [TextBuilder](textbuilder#constructor_1)(Page, BaseOperatorCollection) | 为 Pdf 页面初始化[`TextBuilder`](../textbuilder)类的新实例。 |
+| [TextBuilder](textbuilder#constructor)(Page) | 初始化一个新的实例[`TextBuilder`](../textbuilder) Pdf 页面的类. |
+| [TextBuilder](textbuilder#constructor_1)(Page, BaseOperatorCollection) | 初始化一个新的实例[`TextBuilder`](../textbuilder) Pdf 页面的类. |
 
 ## 方法
 

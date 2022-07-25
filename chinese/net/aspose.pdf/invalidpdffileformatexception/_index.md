@@ -18,9 +18,9 @@ public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor)(Exception) | 使用指定的错误消息初始化[`InvalidPdfFileFormatException`](../invalidpdffileformatexception) 类的新实例以及对导致此异常的内部异常的引用。 |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_1)(string) | 初始化[`InvalidPdfFileFormatException`](../invalidpdffileformatexception)类的新实例。 |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_2)(string, Exception) | 使用指定的错误消息初始化[`InvalidPdfFileFormatException`](../invalidpdffileformatexception) 类的新实例以及对导致此异常的内部异常的引用。 |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor)(Exception) | 初始化[`InvalidPdfFileFormatException`](../invalidpdffileformatexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_1)(string) | 初始化[`InvalidPdfFileFormatException`](../invalidpdffileformatexception)类. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_2)(string, Exception) | 初始化[`InvalidPdfFileFormatException`](../invalidpdffileformatexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Replace
 second_title: Aspose.PDF для справочника API .NET
-description: ЗаменяетAbsorbedTableaspose.pdf.text/absorbedtableнаTableaspose.pdf/tableна странице.
+description: ЗаменяетAbsorbedTableaspose.pdf.text/absorbedtable сTableaspose.pdf/table на странице.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/tableabsorber/replace/
 ---
 ## TableAbsorber.Replace method
 
-Заменяет[`AbsorbedTable`](../../absorbedtable)на[`Table`](../../../aspose.pdf/table)на странице.
+Заменяет[`AbsorbedTable`](../../absorbedtable) с[`Table`](../../../aspose.pdf/table) на странице.
 
 ```csharp
 public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
@@ -16,9 +16,9 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Pdf объект документа страницы. |
-| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable)заменить. |
-| newTable | Table | [`Table`](../../../aspose.pdf/table)для замены старой таблицы. |
+| page | Page | Объект страницы документа Pdf. |
+| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable) заменить. |
+| newTable | Table | [`Table`](../../../aspose.pdf/table) заменить старый стол. |
 
 ### Примечания
 

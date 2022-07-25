@@ -1,14 +1,14 @@
 ---
 title: FormKey
 second_title: Aspose.PDF for .NET API 参考
-description: 内容流文本提取错误所在的 PDF 表单 XObject 的键名称如果 ObjectType  xForm 则不为空
+description: 内容流文本提取错误所在的 PDF 表单 XObject 的键名称如果 ObjectType  xForm. 则不为空
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/formkey/
 ---
 ## TextExtractionErrorLocation.FormKey property
 
-内容流文本提取错误所在的 PDF 表单 XObject 的键（名称）。如果 ObjectType == 'xForm' 则不为空。
+内容流文本提取错误所在的 PDF 表单 XObject 的键（名称）。如果 ObjectType == 'xForm'. 则不为空
 
 ```csharp
 public string FormKey { get; }

@@ -1,14 +1,14 @@
 ---
 title: Linen
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB FFFFAF0E6.
+description: Получает определяемый системой цвет со значением ARGB FFFAF0E6.
 type: docs
 weight: 800
 url: /ru/net/aspose.pdf/color/linen/
 ---
 ## Color.Linen property
 
-Получает определяемый системой цвет со значением ARGB #FFFFAF0E6.
+Получает определяемый системой цвет со значением ARGB #FFFAF0E6.
 
 ```csharp
 public static Color Linen { get; }

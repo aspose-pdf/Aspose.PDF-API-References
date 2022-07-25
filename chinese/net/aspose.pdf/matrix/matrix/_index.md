@@ -1,14 +1,14 @@
 ---
 title: Matrix
 second_title: Aspose.PDF for .NET API 参考
-description: 构造函数 创建标准 1 到 1 矩阵  ABCDEF    1 0 0 1 0 0
+description: Constructor 创建标准 1 到 1 矩阵  ABCDEF    1 0 0 1 0 0
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/matrix/matrix/
 ---
 ## Matrix() {#constructor}
 
-构造函数 创建标准 1 到 1 矩阵: [ ABCDEF ] = [ 1, 0, 0, 1, 0, 0]
+Constructor 创建标准 1 到 1 矩阵： [ ABCDEF ] = [ 1, 0, 0, 1, 0, 0]
 
 ```csharp
 public Matrix()
@@ -30,7 +30,7 @@ Matrix m = new Matrix();
 
 ## Matrix(double[]) {#constructor_3}
 
-构造函数 接受具有以下数组表示的矩阵: [ ABCDEF ]
+Constructor 接受具有以下数组表示的矩阵： [ ABCDEF ]
 
 ```csharp
 public Matrix(double[] matrixArray)
@@ -57,7 +57,7 @@ Matrix m = new Matrix(c);
 
 ## Matrix(float[]) {#constructor_4}
 
-构造函数 接受具有以下数组表示的矩阵: [ ABCDEF ]
+Constructor 接受具有以下数组表示的矩阵： [ ABCDEF ]
 
 ```csharp
 public Matrix(float[] matrixArray)
@@ -77,7 +77,7 @@ public Matrix(float[] matrixArray)
 
 ## Matrix(Matrix) {#constructor_1}
 
-构造函数 接受一个矩阵来创建一个副本
+Constructor 接受一个矩阵来创建一个副本
 
 ```csharp
 public Matrix(Matrix matrix)
@@ -85,7 +85,7 @@ public Matrix(Matrix matrix)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| 矩阵 | Matrix | 矩阵对象。 |
+| matrix | Matrix | 矩阵对象。 |
 
 ### 也可以看看
 
@@ -105,7 +105,7 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Double | 矩阵值。 |
+| a | Double | 一个矩阵值。 |
 | b | Double | B 矩阵值。 |
 | c | Double | C 矩阵值。 |
 | d | Double | D 矩阵值。 |

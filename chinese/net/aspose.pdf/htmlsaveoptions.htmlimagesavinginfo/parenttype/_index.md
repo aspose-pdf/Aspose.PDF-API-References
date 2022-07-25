@@ -1,14 +1,14 @@
 ---
 title: ParentType
 second_title: Aspose.PDF for .NET API 参考
-description: 保存的图像可以属于 HTML 本身也可以被提取 从 SVG 嵌入到 HTML 这个属性可以告诉自定义代码处理图像的父级类型是什么 它由转换器设置可以在自定义代码中使用 来决定应该如何处理该图像 fe 自定义代码可以决定保存在哪里image 或它必须如何在父内容中引用
+description: 保存的图像可以属于 HTML 本身也可以提取 从嵌入到 HTML 的 SVG 中 这个属性可以告诉自定义代码处理图像的父类型是什么 它由转换器设置可用于自定义代码 来决定应该如何处理该图像 fe 自定义代码可以决定将 image 保存在哪里或必须如何在父内容中引用它
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype/
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo.ParentType field
 
-保存的图像可以属于 HTML 本身，也可以被提取。 从 SVG 嵌入到 HTML。 这个属性可以告诉自定义代码处理图像的父级类型是什么。 它由转换器设置，可以在自定义代码中使用 来决定应该如何处理该图像 (fe 自定义代码可以决定保存在哪里image 或它必须如何在父内容中引用）。
+保存的图像可以属于 HTML 本身，也可以提取。 从嵌入到 HTML 的 SVG 中。 这个属性可以告诉自定义代码处理图像的父类型是什么。 它由转换器设置，可用于自定义代码 来决定应该如何处理该图像 （fe 自定义代码可以决定将 image 保存在哪里或必须如何在父内容中引用它）。
 
 ```csharp
 public ImageParentTypes ParentType;

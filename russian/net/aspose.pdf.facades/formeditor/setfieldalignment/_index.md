@@ -21,7 +21,7 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 
 ### Возвращаемое значение
 
-true, если true, если поле найдено и установлено выравнивание.
+true, если true, если поле найдено и задано выравнивание.
 
 ### Примеры
 

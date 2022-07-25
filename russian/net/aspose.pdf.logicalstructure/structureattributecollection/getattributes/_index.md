@@ -1,14 +1,14 @@
 ---
 title: GetAttributes
 second_title: Aspose.PDF для справочника API .NET
-description: ВозвратStructureAttributesaspose.pdf.logicalstructure/structureattributesэлемента структуры по стандартному владельцу атрибута.
+description: ВозвратStructureAttributesaspose.pdf.logicalstructure/structureattributes элемента структуры по стандартному владельцу атрибута.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
 ## StructureAttributeCollection.GetAttributes method
 
-Возврат[`StructureAttributes`](../../structureattributes)элемента структуры по стандартному владельцу атрибута.
+Возврат[`StructureAttributes`](../../structureattributes) элемента структуры по стандартному владельцу атрибута.
 
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
@@ -20,7 +20,7 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 ### Возвращаемое значение
 
-[`StructureAttributes`](../../structureattributes)элемента структуры. Вернуть ноль, если не найдено.
+[`StructureAttributes`](../../structureattributes) элемента структуры. Вернуть ноль, если не найдено.
 
 ### Смотрите также
 

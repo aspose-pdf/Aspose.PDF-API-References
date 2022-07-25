@@ -24,7 +24,7 @@ public HtmlLoadOptions()
 
 ## HtmlLoadOptions(string) {#constructor_1}
 
-创建用于将 html 转换为具有已定义基本路径的 pdf 文档的加载选项。
+创建用于将 html 转换为具有定义的基本路径的 pdf 文档的加载选项。
 
 ```csharp
 public HtmlLoadOptions(string basePath)

@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: Aspose.PDF для справочника API .NET
-description: Получает операторы формы.
+description: Получает операторы вида.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/xform/contents/
 ---
 ## XForm.Contents property
 
-Получает операторы формы.
+Получает операторы вида.
 
 ```csharp
 public OperatorCollection Contents { get; }

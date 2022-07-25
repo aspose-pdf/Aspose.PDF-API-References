@@ -1,14 +1,14 @@
 ---
 title: Margin
 second_title: Aspose.PDF для справочника API .NET
-description: Получает ссылку на объект представляющий информацию о полях.
+description: Получает ссылку на объект который представляет информацию о полях.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/epubloadoptions/margin/
 ---
 ## EpubLoadOptions.Margin property
 
-Получает ссылку на объект, представляющий информацию о полях.
+Получает ссылку на объект, который представляет информацию о полях.
 
 ```csharp
 public MarginInfo Margin { get; set; }

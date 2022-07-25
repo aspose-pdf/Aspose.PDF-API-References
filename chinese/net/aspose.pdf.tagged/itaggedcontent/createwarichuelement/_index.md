@@ -1,14 +1,14 @@
 ---
 title: CreateWarichuElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建WarichuElementaspose.pdf.logicalstructure/warichuelement
+description: 创建WarichuElementaspose.pdf.logicalstructure/warichuelement.
 type: docs
 weight: 370
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
 ## ITaggedContent.CreateWarichuElement method
 
-创建[`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement)。
+创建[`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement).
 
 ```csharp
 public WarichuElement CreateWarichuElement()
@@ -16,7 +16,7 @@ public WarichuElement CreateWarichuElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

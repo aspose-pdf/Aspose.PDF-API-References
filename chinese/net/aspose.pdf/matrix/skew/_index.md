@@ -16,7 +16,7 @@ public static Matrix Skew(double alpha, double beta)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| alpha | Double | 以弧度为单位的倾斜 x 角。 |
+| alpha | Double | 以弧度为单位的倾斜 x 角度。 |
 | beta | Double | 以弧度为单位的倾斜 y 角。 |
 
 ### 返回值

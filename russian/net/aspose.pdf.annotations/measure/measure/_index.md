@@ -16,7 +16,7 @@ public Measure(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, к которой будет привязана мера. |
+| annotation | Annotation | Аннотация, для которой будет связана мера. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: IsBackground
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置背景状态如果为 true则标记将被放置为垃圾页面的背景 默认设置为 false
+description: 获取或设置后台状态如果为 true则标记将作为垃圾页面的背景 默认设置为 false
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/stamp/isbackground/
 ---
 ## Stamp.IsBackground property
 
-获取或设置背景状态。如果为 true，则标记将被放置为垃圾页面的背景。 默认设置为 false。
+获取或设置后台状态。如果为 true，则标记将作为垃圾页面的背景。 默认设置为 false。
 
 ```csharp
 public bool IsBackground { get; set; }

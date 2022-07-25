@@ -37,7 +37,7 @@ contentEditor.Save("outfile.pdf");
 
 ## DeleteStampByIds(int, int[]) {#deletestampbyids}
 
-删除指定页面上多个戳ID的戳。
+删除指定页面上的多个印章 ID 的印章。
 
 ```csharp
 public void DeleteStampByIds(int pageNumber, int[] stampIds)

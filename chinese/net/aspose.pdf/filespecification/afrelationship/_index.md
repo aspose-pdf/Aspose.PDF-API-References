@@ -1,14 +1,14 @@
 ---
 title: AFRelationship
 second_title: Aspose.PDF for .NET API 参考
-description: 关联文件关系
+description: 关联文件关系.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/filespecification/afrelationship/
 ---
 ## FileSpecification.AFRelationship property
 
-关联文件关系。
+关联文件关系.
 
 ```csharp
 public AFRelationship AFRelationship { get; set; }

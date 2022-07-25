@@ -41,7 +41,7 @@ public void DeleteBookmarks(string title)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| title | String | 书签标题已删除。 |
+| title | String | 书签的标题已删除。 |
 
 ### 例子
 

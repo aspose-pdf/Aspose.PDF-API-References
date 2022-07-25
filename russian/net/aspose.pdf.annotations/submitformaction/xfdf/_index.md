@@ -1,14 +1,14 @@
 ---
 title: Xfdf
 second_title: Aspose.PDF для справочника API .NET
-description: Если установлено имена полей и значения должны быть представлены в формате XFDF.
+description: Если установлено имена полей и значения должны быть представлены в виде XFDF.
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.annotations/submitformaction/xfdf/
 ---
 ## SubmitFormAction.Xfdf field
 
-Если установлено, имена полей и значения должны быть представлены в формате XFDF.
+Если установлено, имена полей и значения должны быть представлены в виде XFDF.
 
 ```csharp
 public const int Xfdf;

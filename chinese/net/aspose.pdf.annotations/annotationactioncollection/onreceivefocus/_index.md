@@ -1,14 +1,14 @@
 ---
 title: OnReceiveFocus
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置注解收到输入焦点时要执行的操作
+description: 获取或设置注解收到输入焦点时要执行的动作
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/annotationactioncollection/onreceivefocus/
 ---
 ## AnnotationActionCollection.OnReceiveFocus property
 
-获取或设置注解收到输入焦点时要执行的操作。
+获取或设置注解收到输入焦点时要执行的动作。
 
 ```csharp
 public PdfAction OnReceiveFocus { get; set; }

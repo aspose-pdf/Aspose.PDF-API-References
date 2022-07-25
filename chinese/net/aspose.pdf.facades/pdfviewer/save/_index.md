@@ -16,7 +16,7 @@ public void Save(string destFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| destFile | String | 输出PDF文档的路径。 |
+| destFile | String | 输出 PDF 文档的路径。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-将结果 PDF 文档保存到流。
+将结果 PDF 文档保存到流中。
 
 ```csharp
 public void Save(Stream destStream)
@@ -36,7 +36,7 @@ public void Save(Stream destStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| destStream | Stream | 输出PDF文档的流。 |
+| destStream | Stream | 输出 PDF 文档的流。 |
 
 ### 也可以看看
 

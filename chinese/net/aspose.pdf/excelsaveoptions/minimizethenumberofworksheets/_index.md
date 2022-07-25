@@ -1,14 +1,14 @@
 ---
 title: MinimizeTheNumberOfWorksheets
 second_title: Aspose.PDF for .NET API 参考
-description: 如果您需要最小化结果工作簿中的工作表数量请设置为 true 默认值为假这意味着将每个 PDF 页面保存为单独的工作表
+description: 如果需要最小化结果工作簿中的工作表数量则设置为 true 默认值为 false这意味着将每个 PDF 页面保存为单独的工作表
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/
 ---
 ## ExcelSaveOptions.MinimizeTheNumberOfWorksheets property
 
-如果您需要最小化结果工作簿中的工作表数量，请设置为 true。 默认值为假；这意味着将每个 PDF 页面保存为单独的工作表。
+如果需要最小化结果工作簿中的工作表数量，则设置为 true。 默认值为 false；这意味着将每个 PDF 页面保存为单独的工作表。
 
 ```csharp
 public bool MinimizeTheNumberOfWorksheets { get; set; }

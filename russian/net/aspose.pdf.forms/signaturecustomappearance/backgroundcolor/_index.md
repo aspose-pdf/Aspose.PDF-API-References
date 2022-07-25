@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает цвет фона. Значение по умолчаниюПрозрачный.
+description: Получает/устанавливает цвет фона. Значение по умолчанию Прозрачный.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
 ## SignatureCustomAppearance.BackgroundColor property
 
-Получает/устанавливает цвет фона. Значение по умолчанию:Прозрачный.
+Получает/устанавливает цвет фона. Значение по умолчанию: Прозрачный.
 
 ```csharp
 public Color BackgroundColor { get; set; }

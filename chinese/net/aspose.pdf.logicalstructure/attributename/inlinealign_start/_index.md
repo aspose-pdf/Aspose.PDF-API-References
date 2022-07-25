@@ -1,14 +1,14 @@
 ---
 title: InlineAlign_Start
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 InlineAlignStart - 每个子分配矩形的起始边缘与表格单元格的内容矩形的边缘对齐
+description: 属性 InlineAlign Start - 每个子分配矩形的起始边缘与表格单元格的内容矩形的边缘对齐
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.logicalstructure/attributename/inlinealign_start/
 ---
 ## AttributeName.InlineAlign_Start field
 
-属性 InlineAlign:Start - 每个子分配矩形的起始边缘与表格单元格的内容矩形的边缘对齐。
+属性 InlineAlign: Start - 每个子分配矩形的起始边缘与表格单元格的内容矩形的边缘对齐。
 
 ```csharp
 public static readonly AttributeName InlineAlign_Start;

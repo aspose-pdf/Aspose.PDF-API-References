@@ -1,14 +1,14 @@
 ---
 title: FolderFontSource
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаFolderFontSourceaspose.pdf.text/folderfontsource.
+description: Инициализирует новый экземплярFolderFontSourceaspose.pdf.text/folderfontsource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/folderfontsource/folderfontsource/
 ---
 ## FolderFontSource constructor
 
-Инициализирует новый экземпляр класса[`FolderFontSource`](../../folderfontsource).
+Инициализирует новый экземпляр[`FolderFontSource`](../../folderfontsource) класс.
 
 ```csharp
 public FolderFontSource(string folderPath)

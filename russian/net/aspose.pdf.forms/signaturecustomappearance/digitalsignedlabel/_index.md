@@ -1,14 +1,14 @@
 ---
 title: DigitalSignedLabel
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает метку с цифровой подписью. Значение по умолчаниюС цифровой подписью.
+description: Получает/устанавливает метку с цифровой подписью. Значение по умолчанию С цифровой подписью.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/
 ---
 ## SignatureCustomAppearance.DigitalSignedLabel property
 
-Получает/устанавливает метку с цифровой подписью. Значение по умолчанию:«С цифровой подписью».
+Получает/устанавливает метку с цифровой подписью. Значение по умолчанию: «С цифровой подписью».
 
 ```csharp
 public string DigitalSignedLabel { get; set; }

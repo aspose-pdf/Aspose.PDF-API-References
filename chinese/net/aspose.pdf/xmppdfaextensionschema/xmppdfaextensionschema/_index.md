@@ -16,7 +16,7 @@ public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| description | XmpPdfAExtensionSchemaDescription | 模式描述。 |
+| description | XmpPdfAExtensionSchemaDescription | 架构描述。 |
 
 ### 也可以看看
 

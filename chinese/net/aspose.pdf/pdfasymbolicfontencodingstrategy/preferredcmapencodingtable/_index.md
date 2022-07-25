@@ -1,14 +1,14 @@
 ---
 title: PreferredCmapEncodingTable
 second_title: Aspose.PDF for .NET API 参考
-description: 指定子表它将优先于 mac subtable10 使用来自 枚举CMapEncodingTableTypeaspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype的值MacTable在这种情况下没有意义
+description: 指定优先于 mac subtable10 使用的子表来自 枚举的值MacTableCMapEncodingTableTypeaspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype在这种情况下没有意义
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/
 ---
 ## PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable property
 
-指定子表，它将优先于 mac subtable(1,0) 使用。来自 枚举[`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)的值“MacTable”在这种情况下没有意义。
+指定优先于 mac subtable(1,0) 使用的子表。来自 枚举的值“MacTable”[`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)在这种情况下没有意义。
 
 ```csharp
 public CMapEncodingTableType PreferredCmapEncodingTable { get; set; }

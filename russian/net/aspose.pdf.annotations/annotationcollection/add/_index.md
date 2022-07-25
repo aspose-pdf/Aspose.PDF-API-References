@@ -16,8 +16,8 @@ public void Add(Annotation annotation, bool considerRotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, которая должна быть добавлена. |
-| considerRotation | Boolean | Если true и если страница повернута, то позиция аннотации будет пересчитана в соответствии с поворотом страницы. |
+| annotation | Annotation | Аннотация, которая будет добавлена. |
+| considerRotation | Boolean | Если true и страница повернута, то позиция аннотации будет пересчитываться в соответствии с поворотом страницы. |
 
 ### Смотрите также
 
@@ -38,7 +38,7 @@ public void Add(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, которая должна быть добавлена. |
+| annotation | Annotation | Аннотация, которая будет добавлена. |
 
 ### Смотрите также
 

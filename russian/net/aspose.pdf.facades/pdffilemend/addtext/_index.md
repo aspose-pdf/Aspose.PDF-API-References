@@ -16,7 +16,7 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | FormattedText | Объект FormattedText. |
+| text | FormattedText | Объект форматированного текста. |
 | pageNum | Int32 | Номер страницы. |
 | lowerLeftX | Single | Нижняя левая координата X. |
 | lowerLeftY | Single | Нижняя левая координата Y. |
@@ -45,7 +45,7 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | FormattedText | Объект FormattedText. |
+| text | FormattedText | Объект форматированного текста. |
 | pageNum | Int32 | Номер страницы. |
 | lowerLeftX | Single | Нижняя левая координата X. |
 | lowerLeftY | Single | Нижняя левая координата Y. |
@@ -76,7 +76,7 @@ public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | FormattedText | Объект FormattedText. |
+| text | FormattedText | Объект форматированного текста. |
 | pageNums | Int32[] | Массив номеров страниц. |
 | lowerLeftX | Single | Нижняя левая координата X. |
 | lowerLeftY | Single | Нижняя левая координата Y. |

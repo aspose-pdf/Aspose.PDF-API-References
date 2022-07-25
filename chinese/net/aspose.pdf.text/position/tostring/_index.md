@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 获取当前Positionaspose.pdf.text/position对象的字符串表示形式
+description: 获取当前字符串的表示形式Positionaspose.pdf.text/position目的
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/position/tostring/
 ---
 ## Position.ToString method
 
-获取当前[`Position`](../../position)对象的字符串表示形式。
+获取当前字符串的表示形式[`Position`](../../position)目的。
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-Position 对象的字符串表示。
+Position 对象的字符串表示形式。
 
 ### 也可以看看
 

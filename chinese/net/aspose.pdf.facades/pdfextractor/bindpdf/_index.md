@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | PDF 字段绑定 |
+| inputFile | String | 要绑定的 PDF 字段 |
 
 ### 例子
 

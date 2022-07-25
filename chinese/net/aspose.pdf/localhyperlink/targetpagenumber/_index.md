@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/localhyperlink/targetpagenumber/
 ---
 ## LocalHyperlink.TargetPageNumber property
 
-获取或设置目标页码。
+获取或设置目标页码
 
 ```csharp
 public int TargetPageNumber { get; set; }

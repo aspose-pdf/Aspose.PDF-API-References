@@ -1,14 +1,14 @@
 ---
 title: PDF3DRenderMode
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DRenderModeaspose.pdf.annotations/pdf3drendermode类的新实例
+description: 初始化PDF3DRenderModeaspose.pdf.annotations/pdf3drendermode类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
 ---
 ## PDF3DRenderMode(RenderModeType) {#constructor}
 
-初始化[`PDF3DRenderMode`](../../pdf3drendermode)类的新实例。
+初始化[`PDF3DRenderMode`](../../pdf3drendermode)类.
 
 ```csharp
 public PDF3DRenderMode(RenderModeType subtype)
@@ -29,7 +29,7 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ## PDF3DRenderMode(string) {#constructor_1}
 
-初始化[`PDF3DRenderMode`](../../pdf3drendermode)类的新实例。
+初始化[`PDF3DRenderMode`](../../pdf3drendermode)类.
 
 ```csharp
 public PDF3DRenderMode(string typeName)
@@ -43,7 +43,7 @@ public PDF3DRenderMode(string typeName)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 未知渲染模式类型参数 |
+| ArgumentException | 未知的渲染模式类型参数 |
 
 ### 也可以看看
 

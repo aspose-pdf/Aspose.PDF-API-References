@@ -1,14 +1,21 @@
 ---
 title: Items
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает элементы которые будут добавлены в только что созданный список или поле со списком.  ltcodegt formEditor  new Aspose.Pdf.Facades.FormEditorinput.pdf output.pdf formEditor.Items  new string  AAA BBB CCC  formEditor.AddFieldFieldType.ListBox AddedListBoxField BBB 1 10 30 110 130 formEditor.Save lt/codegt
+description: Устанавливает элементы которые будут добавлены в только что созданный список или поле со списком.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/formeditor/items/
 ---
 ## FormEditor.Items property
 
-Устанавливает элементы, которые будут добавлены в только что созданный список или поле со списком.  &lt;code&gt; formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf"); formEditor.Items = new string[] { "AAA", "BBB", "CCC" }; formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "BBB", 1, 10, 30, 110, 130); formEditor.Save(); &lt;/code&gt;
+Устанавливает элементы, которые будут добавлены в только что созданный список или поле со списком.
+
+```csharp
+formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
+formEditor.Items = new string[] { "AAA", "BBB", "CCC" };
+formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "BBB", 1, 10, 30, 110, 130);
+formEditor.Save();
+```
 
 ```csharp
 public string[] Items { get; set; }

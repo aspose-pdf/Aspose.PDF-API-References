@@ -18,10 +18,10 @@ public enum ColorDepth
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Default | `0` | Глубина цвета по умолчанию. По умолчанию используется глубина 32 бита. |
-| Format8bpp | `1` | 8 бит на пиксель. РавноFormat8bppIndexed |
-| Format4bpp | `2` | 4 бита на пиксель. РавноFormat4bppIndexed |
-| Format1bpp | `3` | 1 бит на пиксель. РавноFormat32bppRgb |
+| Default | `0` | Глубина цвета по умолчанию. По умолчанию используется глубина цвета 32 бита. |
+| Format8bpp | `1` | 8 бит на пиксель. РавныйFormat8bppIndexed |
+| Format4bpp | `2` | 4 бита на пиксель. РавныйFormat4bppIndexed |
+| Format1bpp | `3` | 1 бит на пиксель. РавныйFormat32bppRgb |
 
 ### Смотрите также
 

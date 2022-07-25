@@ -1,14 +1,14 @@
 ---
 title: TeXLoadOptionsOfInstance
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置用于将 LaTeX 加载和渲染到该类实例中的 TeXLoadOptions 请在必要时使用它 为这个或那个实例导入 LaTeX 使用特定设置 fe 当这个或那个实例应该为导入的 LaTeX 使用特定的 BasePath 或应该使用特定的外部资源加载器 如果参数为默认值 null则将使用标准 LaTeX 加载选项
+description: 获取或设置将用于将 LaTeX 加载和渲染到此类实例中的 TeXLoadOptions 请在必要时使用它 为这个或那个实例导入 LaTeX 使用特定设置 当这个或那个实例应该为导入的 LaTeX 使用特定的 BasePath 或应使用特定的外部资源加载器 如果参数为默认值空则将使用标准的 LaTeX 加载选项
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/texfragment/texloadoptionsofinstance/
 ---
 ## TeXFragment.TeXLoadOptionsOfInstance property
 
-获取或设置用于将 LaTeX 加载（和渲染）到该类实例中的 TeXLoadOptions。 请在必要时使用它 为这个或那个实例导入 LaTeX 使用特定设置 (fe 当这个或那个实例应该为导入的 LaTeX 使用特定的 BasePath 或应该使用特定的外部资源加载器) 如果参数为默认值 (null)，则将使用标准 LaTeX 加载选项。
+获取或设置将用于将 LaTeX 加载（和渲染）到此类实例中的 TeXLoadOptions。 请在必要时使用它 为这个或那个实例导入 LaTeX 使用特定设置 （当这个或那个实例应该为导入的 LaTeX 使用特定的 BasePath 或应使用特定的外部资源加载器） 如果参数为默认值（空），则将使用标准的 LaTeX 加载选项。
 
 ```csharp
 public TeXLoadOptions TeXLoadOptionsOfInstance { get; set; }

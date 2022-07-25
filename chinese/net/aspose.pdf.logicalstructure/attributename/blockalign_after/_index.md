@@ -1,14 +1,14 @@
 ---
 title: BlockAlign_After
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BlockAlignAfter - 最后一个子分配矩形的边缘与表格单元格的内容矩形的边缘对齐
+description: 属性 BlockAlign After - 最后一个子分配矩形的边缘与表格单元格的内容矩形的边缘对齐
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/attributename/blockalign_after/
 ---
 ## AttributeName.BlockAlign_After field
 
-属性 BlockAlign:After - 最后一个子分配矩形的边缘与表格单元格的内容矩形的边缘对齐。
+属性 BlockAlign: After - 最后一个子分配矩形的边缘与表格单元格的内容矩形的边缘对齐。
 
 ```csharp
 public static readonly AttributeName BlockAlign_After;

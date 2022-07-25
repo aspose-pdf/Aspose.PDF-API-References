@@ -1,14 +1,14 @@
 ---
 title: getStampId
 second_title: Aspose.PDF for .NET API 参考
-description: 返回戳记 ID
+description: 返回邮票 ID
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/stamp/getstampid/
 ---
 ## Stamp.getStampId method
 
-返回戳记 ID。
+返回邮票 ID。
 
 ```csharp
 public int getStampId()
@@ -16,7 +16,7 @@ public int getStampId()
 
 ### 返回值
 
-标记的标识符。
+邮票的标识符。
 
 ### 也可以看看
 

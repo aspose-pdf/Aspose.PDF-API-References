@@ -1,14 +1,14 @@
 ---
 title: CloneWithSegments
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆包含所有片段的片段
+description: 克隆所有片段的片段
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
 ## TextFragment.CloneWithSegments method
 
-克隆包含所有片段的片段。
+克隆所有片段的片段。
 
 ```csharp
 public virtual object CloneWithSegments()
@@ -16,7 +16,7 @@ public virtual object CloneWithSegments()
 
 ### 返回值
 
-克隆对象
+克隆的对象
 
 ### 也可以看看
 

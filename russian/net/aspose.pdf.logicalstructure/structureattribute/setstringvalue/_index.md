@@ -1,14 +1,14 @@
 ---
 title: SetStringValue
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает строку значения.
+description: Задает строку значения.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setstringvalue/
 ---
 ## StructureAttribute.SetStringValue method
 
-Устанавливает строку значения.
+Задает строку значения.
 
 ```csharp
 public void SetStringValue(string value)
@@ -16,7 +16,7 @@ public void SetStringValue(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение Строка. |
+| value | String | Строка значения. |
 
 ### Смотрите также
 

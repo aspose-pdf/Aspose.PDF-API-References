@@ -24,7 +24,7 @@ public class NumberFormatList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/numberformatlist/count) { get; } | 计算列表中的项目。 |
+| [Count](../../aspose.pdf.annotations/numberformatlist/count) { get; } | 计数列表中的项目。 |
 | [Item](../../aspose.pdf.annotations/numberformatlist/item) { get; set; } | 通过索引获取或设置列表中的数字格式。 |
 
 ## 方法

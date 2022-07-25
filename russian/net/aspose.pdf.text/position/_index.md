@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет объект позиции
+description: Представляет позицию object
 type: docs
 weight: 6860
 url: /ru/net/aspose.pdf.text/position/
 ---
 ## Position class
 
-Представляет объект позиции
+Представляет позицию object
 
 ```csharp
 public sealed class Position
@@ -18,7 +18,7 @@ public sealed class Position
 
 | Имя | Описание |
 | --- | --- |
-| [Position](position)(double, double) | Инициализирует новый экземпляр[`Position`](../position)class |
+| [Position](position)(double, double) | Инициализирует новый экземпляр[`Position`](../position) класс |
 
 ## Характеристики
 
@@ -31,8 +31,8 @@ public sealed class Position
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/position/equals)(object) | Определяет, равен ли указанный объект текущему объекту[`Position`](../position). |
-| override [ToString](../../aspose.pdf.text/position/tostring)() | Получает строковое представление для текущего[`Position`](../position)объекта. |
+| override [Equals](../../aspose.pdf.text/position/equals)(object) | Определяет, равен ли указанный объект текущему[`Position`](../position) объект. |
+| override [ToString](../../aspose.pdf.text/position/tostring)() | Получает строковое представление для текущего[`Position`](../position) объект. |
 
 ### Смотрите также
 

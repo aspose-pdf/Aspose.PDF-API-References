@@ -1,14 +1,14 @@
 ---
 title: SetTextRenderingMode
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор Tr устанавливает режим отображения текста.
+description: Класс представляющий оператор Tr установить режим рендеринга текста.
 type: docs
 weight: 5600
 url: /ru/net/aspose.pdf.operators/settextrenderingmode/
 ---
 ## SetTextRenderingMode class
 
-Класс, представляющий оператор Tr (устанавливает режим отображения текста).
+Класс, представляющий оператор Tr (установить режим рендеринга текста).
 
 ```csharp
 public class SetTextRenderingMode : TextStateOperator
@@ -24,7 +24,7 @@ public class SetTextRenderingMode : TextStateOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

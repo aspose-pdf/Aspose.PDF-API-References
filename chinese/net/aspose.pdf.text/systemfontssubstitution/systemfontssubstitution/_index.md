@@ -1,14 +1,14 @@
 ---
 title: SystemFontsSubstitution
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化SystemFontsSubstitutionaspose.pdf.text/systemfontssubstitution类的新实例
+description: 初始化一个新的实例SystemFontsSubstitutionaspose.pdf.text/systemfontssubstitution类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
 ---
 ## SystemFontsSubstitution constructor
 
-初始化[`SystemFontsSubstitution`](../../systemfontssubstitution)类的新实例。
+初始化一个新的实例[`SystemFontsSubstitution`](../../systemfontssubstitution)类.
 
 ```csharp
 public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)

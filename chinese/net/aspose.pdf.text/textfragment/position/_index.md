@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的文本位置用TextFragmentaspose.pdf.text/textfragment对象表示
+description: 获取或设置文本的文本位置用TextFragmentaspose.pdf.text/textfragment对象.
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/textfragment/position/
 ---
 ## TextFragment.Position property
 
-获取或设置文本的文本位置，用[`TextFragment`](../../textfragment)对象表示。
+获取或设置文本的文本位置，用[`TextFragment`](../../textfragment)对象.
 
 ```csharp
 public Position Position { get; set; }
@@ -16,24 +16,24 @@ public Position Position { get; set; }
 
 ### 例子
 
-该示例演示了如何查看文本的位置，由T表示:Aspose.Pdf.Text.TextFragment对象。
+该示例演示了如何查看文本的位置，表示为[`TextFragment`](../../textfragment)对象.
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 查看第一个文本出现的文本和位置信息
-xtFragment firstOccurrence = absorber.TextFragments[1];
+TextFragment firstOccurrence = absorber.TextFragments[1];
 
-nsole.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
-nsole.Out.WriteLine(string.Format("fragment X indent: {0}", firstOccurrence.Position.XIndent));
-nsole.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Position.YIndent));
+Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
+Console.Out.WriteLine(string.Format("fragment X indent: {0}", firstOccurrence.Position.XIndent));
+Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Position.YIndent));
 
 ```
 

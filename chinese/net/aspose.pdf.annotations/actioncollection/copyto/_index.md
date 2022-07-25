@@ -16,7 +16,7 @@ public void CopyTo(PdfAction[] array, int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| array | PdfAction[] | 必须复制到集合中的动作数组。 |
+| array | PdfAction[] | 必须复制到集合中的操作数组。 |
 | index | Int32 | 将从哪个数组开始复制的索引。 |
 
 ### 也可以看看

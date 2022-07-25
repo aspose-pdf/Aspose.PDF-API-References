@@ -1,14 +1,14 @@
 ---
 title: MoveTextPositionSetLeading
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор TD перемещение позиции и установка интерлиньяжа.
+description: Класс представляющий оператора TD перемещение позиции и установка интерлиньяжа.
 type: docs
 weight: 5250
 url: /ru/net/aspose.pdf.operators/movetextpositionsetleading/
 ---
 ## MoveTextPositionSetLeading class
 
-Класс, представляющий оператор TD (перемещение позиции и установка интерлиньяжа).
+Класс, представляющий оператора TD (перемещение позиции и установка интерлиньяжа).
 
 ```csharp
 public class MoveTextPositionSetLeading : TextPlaceOperator
@@ -25,14 +25,14 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [X](../../aspose.pdf.operators/movetextpositionsetleading/x) { get; set; } | Координата X позиции текста. |
-| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y) { get; set; } | Координата Y позиции текста. |
+| [X](../../aspose.pdf.operators/movetextpositionsetleading/x) { get; set; } | X-координата позиции текста. |
+| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y) { get; set; } | Y-координата позиции текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

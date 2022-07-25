@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF для справочника API .NET
-description: Связывает файл Pdf.
+description: Связывает файл PDF.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Связывает файл Pdf.
+Связывает файл PDF.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -16,7 +16,7 @@ public void BindPdf(string srcFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFile | String | Имя файла PDF. |
+| srcFile | String | Имя файла пдф. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Связывает файл Pdf.
+Связывает файл PDF.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -56,7 +56,7 @@ public void BindPdf(Document srcDoc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcDoc | Document | Документ в формате PDF. |
+| srcDoc | Document | Документ пдф. |
 
 ### Смотрите также
 

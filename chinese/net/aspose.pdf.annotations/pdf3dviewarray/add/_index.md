@@ -16,13 +16,13 @@ public void Add(PDF3DView view)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| view | PDF3DView | 视图。 |
+| view | PDF3DView | 风景。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 只允许一个 3D 视图条目 |
+| ArgumentException | 3D 视图只允许输入一项 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: All
 second_title: Aspose.PDF for .NET API 参考
-description: 创建优化策略将激活所有选项 请注意仅激活选项不会改变文件的任何功能 即图像压缩和字体取消嵌入将不会启用并且可以手动嵌入
+description: 创建优化策略将激活所有选项 请注意仅激活不会更改文档任何功能的选项 即不会启用图像压缩和字体取消嵌入并且可以手动嵌入
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/all/
 ---
 ## OptimizationOptions.All method
 
-创建优化策略将激活所有选项。 请注意，仅激活选项不会改变文件的任何功能。 即图像压缩和字体取消嵌入将不会启用（并且可以手动嵌入）。
+创建优化策略将激活所有选项。 请注意，仅激活不会更改文档任何功能的选项。 即不会启用图像压缩和字体取消嵌入（并且可以手动嵌入）。
 
 ```csharp
 public static OptimizationOptions All()
@@ -16,7 +16,7 @@ public static OptimizationOptions All()
 
 ### 返回值
 
-OptimizationOptions 对象。
+优化选项对象。
 
 ### 也可以看看
 

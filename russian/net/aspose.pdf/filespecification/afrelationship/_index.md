@@ -1,14 +1,14 @@
 ---
 title: AFRelationship
 second_title: Aspose.PDF для справочника API .NET
-description: Связанный файл Связь.
+description: Связанный файл Отношения.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/filespecification/afrelationship/
 ---
 ## FileSpecification.AFRelationship property
 
-Связанный файл Связь.
+Связанный файл Отношения.
 
 ```csharp
 public AFRelationship AFRelationship { get; set; }

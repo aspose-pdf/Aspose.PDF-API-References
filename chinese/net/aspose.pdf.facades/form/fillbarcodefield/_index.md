@@ -17,11 +17,11 @@ public bool FillBarcodeField(string fieldName, string data)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | String | 完全限定的字段名称。 |
-| data | String | 新条形码值。 |
+| data | String | 新的条形码值。 |
 
 ### 返回值
 
-如果填充成功，返回true；否则为假。
+如果填充成功，则返回true；否则为假。
 
 ### 例子
 

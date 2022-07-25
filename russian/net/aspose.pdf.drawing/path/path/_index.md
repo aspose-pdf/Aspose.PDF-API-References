@@ -1,14 +1,14 @@
 ---
 title: Path
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPathaspose.pdf.drawing/path.
+description: Инициализирует новый экземплярPathaspose.pdf.drawing/path класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/path/path/
 ---
 ## Path(Shape[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Path`](../../path).
+Инициализирует новый экземпляр[`Path`](../../path) класс.
 
 ```csharp
 public Path(Shape[] shapes)
@@ -16,7 +16,7 @@ public Path(Shape[] shapes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| shapes | Shape[] | Массив фигур содержит набор сегментов пути. |
+| shapes | Shape[] | Массив формы содержит набор сегментов пути. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public Path(Shape[] shapes)
 
 ## Path() {#constructor}
 
-Инициализирует новый экземпляр класса[`Path`](../../path).
+Инициализирует новый экземпляр[`Path`](../../path) класс.
 
 ```csharp
 public Path()

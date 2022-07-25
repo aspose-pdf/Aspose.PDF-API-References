@@ -1,14 +1,14 @@
 ---
 title: CreateExtractor
 second_title: Aspose.PDF for .NET API 参考
-description: 创建 IPdfTypeExtractor 对象
+description: 创建 IdfTypeExtractor 对象
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor/
 ---
 ## CreateExtractor(string, int, bool) {#createextractor_2}
 
-创建 IPdfTypeExtractor 对象。
+创建 IdfTypeExtractor 对象。
 
 ```csharp
 public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, int bufferSize, 
@@ -23,7 +23,7 @@ public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, int bufferSize,
 
 ### 返回值
 
-IPdfTypeExtractor 对象
+IpdfTypeExtractor 的对象
 
 ### 也可以看看
 
@@ -36,7 +36,7 @@ IPdfTypeExtractor 对象
 
 ## CreateExtractor(Stream, int, bool) {#createextractor}
 
-创建 IPdfTypeExtractor 对象。
+创建 IdfTypeExtractor 对象。
 
 ```csharp
 public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, int bufferSize, 
@@ -51,7 +51,7 @@ public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, int bufferSiz
 
 ### 返回值
 
-IPdfTypeExtractor 对象
+IpdfTypeExtractor 的对象
 
 ### 也可以看看
 
@@ -64,7 +64,7 @@ IPdfTypeExtractor 对象
 
 ## CreateExtractor(string, string, int, bool) {#createextractor_3}
 
-创建 IPdfTypeExtractor 对象。
+创建 IdfTypeExtractor 对象。
 
 ```csharp
 public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, string password, int bufferSize, 
@@ -74,13 +74,13 @@ public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, string password
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pdfDocumentPath | String | pdf 文档的路径。 |
-| password | String | 文档密码。 |
+| password | String | 文件密码。 |
 | bufferSize | Int32 | 可以保存在内存中的最大内容大小（以字节为单位）。 |
 | allowAsyncInitialization | Boolean | 允许资源的异步初始化。 |
 
 ### 返回值
 
-IPdfTypeExtractor 对象
+IpdfTypeExtractor 的对象
 
 ### 也可以看看
 
@@ -93,7 +93,7 @@ IPdfTypeExtractor 对象
 
 ## CreateExtractor(Stream, string, int, bool) {#createextractor_1}
 
-创建 IPdfTypeExtractor 对象。
+创建 IdfTypeExtractor 对象。
 
 ```csharp
 public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, string password, int bufferSize, 
@@ -103,13 +103,13 @@ public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, string passwo
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pdfDocumentStream | Stream | 包含 pdf 文档的流。 |
-| password | String | 文档密码。 |
+| password | String | 文件密码。 |
 | bufferSize | Int32 | 可以保存在内存中的最大内容大小（以字节为单位）。 |
 | allowAsyncInitialization | Boolean | 允许资源的异步初始化。 |
 
 ### 返回值
 
-IPdfTypeExtractor 对象
+IpdfTypeExtractor 的对象
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PosUpperRight
 second_title: Aspose.PDF для справочника API .NET
-description: Верхнее правое положение.
+description: Правое верхнее положение.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/pdffilestamp/posupperright/
 ---
 ## PdfFileStamp.PosUpperRight field
 
-Верхнее правое положение.
+Правое верхнее положение.
 
 ```csharp
 public const int PosUpperRight;

@@ -1,14 +1,14 @@
 ---
 title: Bookmarks
 second_title: Aspose.PDF for .NET API 参考
-description: 表示Bookmark./bookmark对象的集合
+description: 代表一个集合Bookmark./bookmark对象.
 type: docs
 weight: 2210
 url: /zh/net/aspose.pdf.facades/bookmarks/
 ---
 ## Bookmarks class
 
-表示[`Bookmark`](../bookmark)对象的集合。
+代表一个集合[`Bookmark`](../bookmark)对象.
 
 ```csharp
 public sealed class Bookmarks : List<Bookmark>

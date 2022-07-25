@@ -22,18 +22,18 @@ public sealed class Form : ICollection<WidgetAnnotation>
 | [AutoRestoreForm](../../aspose.pdf.forms/form/autorestoreform) { get; set; } | 如果设置，如果它们出现在注释中，将自动创建缺少的表单字段。 |
 | [CalculatedFields](../../aspose.pdf.forms/form/calculatedfields) { set; } | 允许设置字段计算的顺序。 |
 | [Count](../../aspose.pdf.forms/form/count) { get; } | 获取此表单上的字段数。 |
-| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance) { get; set; } | 获取或设置表单的默认外观（描述表单字段的默认字体、文本大小和颜色的对象）。 |
+| [DefaultAppearance](../../aspose.pdf.forms/form/defaultappearance) { get; set; } | 获取或设置表单的默认外观（描述表单上字段的默认字体、文本大小和颜色的对象）。 |
 | [DefaultResources](../../aspose.pdf.forms/form/defaultresources) { get; } | 获取放置在此表单上的默认资源。 |
-| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups) { get; set; } | 如果此属性为真，则将为所需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形 引入此属性是因为缺少类似物将 Xfa 表示形式 转换为标准期间的 exclGroup。 默认为假。 |
+| [EmulateRequierdGroups](../../aspose.pdf.forms/form/emulaterequierdgroups) { get; set; } | 如果此属性为真，则将为所需的 Xfa exclGroup 元素绘制额外的红色边界矩形 container 引入此属性是因为在将表单 的 Xfa 表示形式转换为标准时缺少 exclGroup 的类似物。 默认情况下为假。 |
 | [Fields](../../aspose.pdf.forms/form/fields) { get; } | 获取最低层次形式的所有字段的列表。 |
-| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering) { get; set; } | 如果此属性为真，则在将 XFA 形式转换为标准形式期间，NeedsRendering 键的值将被忽略。默认为假。 |
+| [IgnoreNeedsRendering](../../aspose.pdf.forms/form/ignoreneedsrendering) { get; set; } | 如果此属性为真，NeedsRendering 键的值将在转换 XFA 形式到标准形式期间被忽略。默认为假。 |
 | [IsSynchronized](../../aspose.pdf.forms/form/issynchronized) { get; } | 如果对象是线程安全的，则返回 true。 |
-| [Item](../../aspose.pdf.forms/form/item) { get; } | 通过字段名获取表单的字段。如果未找到该字段，则引发异常。 (2 indexers) |
-| [RemovePermission](../../aspose.pdf.forms/form/removepermission) { get; set; } | 如果此属性为真，则在将 动态文档转换为标准后，“Perms”字典将从 pdf 文档中删除。 “Perms”字典可能包含干扰在 Adobe Acrobat 阅读器中显示选择 必填字段的规则。 默认为假。 |
-| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly) { get; set; } | 如果设置，则文档包含签名，如果文件以更改其先前内容的方式保存（写入），则可能会失效， 而不是增量更新。 |
+| [Item](../../aspose.pdf.forms/form/item) { get; } | 通过字段名获取表单的字段。如果找不到该字段，则抛出异常。 (2 indexers) |
+| [RemovePermission](../../aspose.pdf.forms/form/removepermission) { get; set; } | 如果此属性为真，“Perms”字典将从 动态文档转换为标准后的 pdf 文档中删除。 “Perms”字典可能包含干扰显示 Adobe Acrobat 阅读器中 必填字段选择的规则。 默认情况下为 false。 |
+| [SignaturesAppendOnly](../../aspose.pdf.forms/form/signaturesappendonly) { get; set; } | 如果设置，则文档包含签名，如果文件以更改其先前内容的方式保存（写入） 而不是增量更新，则该签名可能会失效。 |
 | [SignaturesExist](../../aspose.pdf.forms/form/signaturesexist) { get; set; } | 如果设置，则文档包含至少一个签名字段。 |
 | [SyncRoot](../../aspose.pdf.forms/form/syncroot) { get; } | 返回同步对象。 |
-| [Type](../../aspose.pdf.forms/form/type) { get; set; } | 获取表单的类型。可能的值有:标准、静态、动态。 |
+| [Type](../../aspose.pdf.forms/form/type) { get; set; } | 获取表单的类型。可能的值为：标准、静态、动态。 |
 | [XFA](../../aspose.pdf.forms/form/xfa) { get; } | 获取表单的 XFA 数据（如果存在）。 |
 
 ## 方法
@@ -48,24 +48,24 @@ public sealed class Form : ICollection<WidgetAnnotation>
 | [CopyTo](../../aspose.pdf.forms/form/copyto)(Field[], int) | 将表单上的字段复制到数组中。 |
 | [Delete](../../aspose.pdf.forms/form/delete#delete)(Field) | 从表单中删除字段。 |
 | [Delete](../../aspose.pdf.forms/form/delete#delete_1)(string) | 按名称从表单中删除字段。 |
-| [Flatten](../../aspose.pdf.forms/form/flatten)() | 删除所有表单字段并将其值直接放在页面上。 |
+| [Flatten](../../aspose.pdf.forms/form/flatten)() | 删除所有表单字段并将它们的值直接放在页面上。 |
 | [GetEnumerator](../../aspose.pdf.forms/form/getenumerator)() | 获取表单字段的枚举。 |
 | [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect)(Rectangle) | 返回指定矩形内的字段。 |
-| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield)(Field) | 检查表单是否已经有指定字段。 |
+| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield)(Field) | 检查表单是否已指定字段。 |
 | [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_1)(string) | 确定具有指定名称的字段是否已添加到表单中。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted) | 表单可以包含签名信息，即可以签名或未签名。 表单的视图有时必须取决于表单是否已签名。 此属性告诉表单的转换器（在将 XFA 表单转换为标准表单期间） 结果表单是否必须呈现为有符号或无符号。 |
+| [SignDependentElementsRenderingModeWhenConverted](../../aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted) | 表单可以包含签名信息，即可以签名或未签名。 表单的视图有时必须取决于表单是否签名。 该属性告诉表单的转换器（在将XFA表单转换为标准表单时） 是否结果形式必须呈现为有符号或无符号。 |
 
 ## 其他成员
 
 | 姓名 | 描述 |
 | --- | --- |
-| class [FlattenSettings](form.flattensettings) | 描述表单展平过程设置的类。 |
-| enum [SignDependentElementsRenderingModes](form.signdependentelementsrenderingmodes) | 表单可以包含签名信息，可以签名也可以不签名。 有时在查看器中查看表单必须取决于表单是否已签名。 这个枚举枚举了在表单类型转换过程中可能的渲染模式。 |
+| class [FlattenSettings](form.flattensettings) | 描述表格展平过程设置的类。 |
+| enum [SignDependentElementsRenderingModes](form.signdependentelementsrenderingmodes) | 表单可以包含签名信息，可以签名或未签名。 有时查看器中的表单视图必须取决于表单是否已签名。 此枚举枚举在转换表单类型时可能的渲染模式。 |
 
 ### 也可以看看
 

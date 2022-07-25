@@ -1,14 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF для справочника API .NET
-description: Получает значение указывающее что этот экземплярTabStopsaspose.pdf.text/tabstopsуже подключен кTextFragmentaspose.pdf.text/textfragmentи стал доступен только для чтения.
+description: Получает значение указывающее что этоTabStopsaspose.pdf.text/tabstops экземпляр уже прикреплен кTextFragmentaspose.pdf.text/textfragment и стал доступен только для чтения.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/tabstops/isreadonly/
 ---
 ## TabStops.IsReadOnly property
 
-Получает значение, указывающее, что этот экземпляр[`TabStops`](../../tabstops)уже подключен к[`TextFragment`](../../textfragment)и стал доступен только для чтения.
+Получает значение, указывающее, что это[`TabStops`](../../tabstops) экземпляр уже прикреплен к[`TextFragment`](../../textfragment) и стал доступен только для чтения.
 
 ```csharp
 public bool IsReadOnly { get; }

@@ -20,7 +20,7 @@ public bool IsTheSameObject(XImage image)
 
 ### 返回值
 
-布尔值，如果图像引用同一对象，则为真。
+如果图像引用同一对象，则布尔值为真。
 
 ### 也可以看看
 

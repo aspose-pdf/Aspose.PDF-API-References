@@ -1,14 +1,14 @@
 ---
 title: ContainsUsageRights
 second_title: Aspose.PDF для справочника API .NET
-description: Проверяет есть ли у pdf права на использование или нет.
+description: Проверяет есть ли у pdf права на использование.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdffilesignature/containsusagerights/
 ---
 ## PdfFileSignature.ContainsUsageRights method
 
-Проверяет, есть ли у pdf права на использование или нет.
+Проверяет, есть ли у pdf права на использование.
 
 ```csharp
 public bool ContainsUsageRights()

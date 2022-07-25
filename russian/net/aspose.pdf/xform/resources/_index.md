@@ -1,14 +1,14 @@
 ---
 title: Resources
 second_title: Aspose.PDF для справочника API .NET
-description: Получает ресурсы XObject формы.
+description: Получает ресурсы формы XObject.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/xform/resources/
 ---
 ## XForm.Resources property
 
-Получает ресурсы XObject формы.
+Получает ресурсы формы XObject.
 
 ```csharp
 public Resources Resources { get; }

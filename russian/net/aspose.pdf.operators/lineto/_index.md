@@ -25,14 +25,14 @@ public class LineTo : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [X](../../aspose.pdf.operators/lineto/x) { get; set; } | Координата X точки линии. |
+| [X](../../aspose.pdf.operators/lineto/x) { get; set; } | X координата точки линии. |
 | [Y](../../aspose.pdf.operators/lineto/y) { get; set; } | Координата Y точки линии. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/lineto/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/lineto/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/lineto/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

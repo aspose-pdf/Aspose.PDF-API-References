@@ -1,14 +1,14 @@
 ---
 title: HasNextImage
 second_title: Aspose.PDF for .NET API 参考
-description: 检查 PDF 文档中是否可以访问更多图像注意ExtractImage 必须在使用此方法之前调用
+description: 检查是否可以在 PDF 文档中访问更多图像注意ExtractImage 必须在使用此方法之前调用
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/pdfextractor/hasnextimage/
 ---
 ## PdfExtractor.HasNextImage method
 
-检查 PDF 文档中是否可以访问更多图像。注意:ExtractImage 必须在使用此方法之前调用。
+检查是否可以在 PDF 文档中访问更多图像。注意：ExtractImage 必须在使用此方法之前调用。
 
 ```csharp
 public bool HasNextImage()
@@ -16,7 +16,7 @@ public bool HasNextImage()
 
 ### 返回值
 
-如果可以访问更多图像则为真
+如果可以访问更多图像，则为真
 
 ### 例子
 

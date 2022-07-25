@@ -1,14 +1,14 @@
 ---
 title: GetElements
 second_title: Aspose.PDF для справочника API .NET
-description: Анализирует файл XFDF и возвращает информацию в виде хеш-таблицы.
+description: Разбирает файл XFDF и возвращает информацию в виде хеш-таблицы.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/xfdfreader/getelements/
 ---
 ## XfdfReader.GetElements method
 
-Анализирует файл XFDF и возвращает информацию в виде хеш-таблицы.
+Разбирает файл XFDF и возвращает информацию в виде хеш-таблицы.
 
 ```csharp
 public static Dictionary<string, string> GetElements(XmlReader reader)

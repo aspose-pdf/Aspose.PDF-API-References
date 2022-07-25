@@ -1,14 +1,14 @@
 ---
 title: Get1BppImage
 second_title: Aspose.PDF for .NET API 参考
-description: 返回 1Bpp 位图表示
+description: 返回 1Bpp 位图表示形式
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/iindexbitmapconverter/get1bppimage/
 ---
 ## IIndexBitmapConverter.Get1BppImage method
 
-返回 1Bpp 位图表示
+返回 1Bpp 位图表示形式
 
 ```csharp
 public Bitmap Get1BppImage(Bitmap src)

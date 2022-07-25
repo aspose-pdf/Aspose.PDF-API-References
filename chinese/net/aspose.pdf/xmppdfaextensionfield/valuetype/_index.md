@@ -1,14 +1,14 @@
 ---
 title: ValueType
 second_title: Aspose.PDF for .NET API 参考
-description: 字段值类型取自 XMP 规范 2004或嵌入的 PDF/A 值类型扩展 模式预定义的 XMP 类型名称或自定义类型的名称
+description: 字段值类型取自 XMP 规范 2004或嵌入的 PDF/A 值类型 extension 架构预定义的 XMP 类型名称或自定义类型的名称
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/xmppdfaextensionfield/valuetype/
 ---
 ## XmpPdfAExtensionField.ValueType property
 
-字段值类型，取自 XMP 规范 2004，或嵌入的 PDF/A 值类型扩展 模式。预定义的 XMP 类型名称或自定义类型的名称。
+字段值类型，取自 XMP 规范 2004，或嵌入的 PDF/A 值类型 extension 架构。预定义的 XMP 类型名称或自定义类型的名称。
 
 ```csharp
 public string ValueType { get; }

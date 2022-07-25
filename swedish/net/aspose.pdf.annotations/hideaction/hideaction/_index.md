@@ -1,0 +1,175 @@
+---
+title: HideAction
+second_title: Aspose.PDF för .NET API Referens
+description: Initierar en ny instans avHideActionaspose.pdf.annotations/hideaction klass för den angivna anteckningen.
+type: docs
+weight: 10
+url: /sv/net/aspose.pdf.annotations/hideaction/hideaction/
+---
+## HideAction(Annotation) {#constructor}
+
+Initierar en ny instans av[`HideAction`](../../hideaction) klass för den angivna anteckningen.
+
+```csharp
+public HideAction(Annotation annotation)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| annotation | Annotation | En kommentar som ska döljas. |
+
+### Se även
+
+* class [Annotation](../../annotation)
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+---
+
+## HideAction(Annotation, bool) {#constructor_1}
+
+Initierar en ny instans av[`HideAction`](../../hideaction) klass för den angivna kommentaren och osynlighetsflaggan.
+
+```csharp
+public HideAction(Annotation annotation, bool isHidden)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| annotation | Annotation | En kommentar som ska döljas eller visas. |
+| isHidden | Boolean | En flagga som indikerar om anteckningen ska döljas (sant) eller visa den (falsk). |
+
+### Se även
+
+* class [Annotation](../../annotation)
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+---
+
+## HideAction(string) {#constructor_4}
+
+Initierar en ny instans av[`HideAction`](../../hideaction) klass för det angivna fältnamnet.
+
+```csharp
+public HideAction(string fieldName)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fieldName | String | En textsträng som ger det fullständiga fältnamnet för ett interaktivt formulärfält. |
+
+### Se även
+
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+---
+
+## HideAction(string, bool) {#constructor_5}
+
+Initierar en ny instans av[`HideAction`](../../hideaction)klass för det angivna fältnamnet och osynlighetsflaggan.
+
+```csharp
+public HideAction(string fieldName, bool isHidden)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| fieldName | String | En textsträng som ger det fullständiga fältnamnet för ett interaktivt formulärfält. |
+| isHidden | Boolean | En flagga som indikerar om fältet ska döljas (sant) eller visa det (falskt). |
+
+### Se även
+
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+---
+
+## HideAction(Annotation[]) {#constructor_2}
+
+Initierar en ny instans av[`HideAction`](../../hideaction) klass för de angivna anteckningarna.
+
+```csharp
+public HideAction(Annotation[] annotations)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| annotations | Annotation[] | En rad kommentarer som ska döljas. |
+
+### Se även
+
+* class [Annotation](../../annotation)
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+---
+
+## HideAction(Annotation[], bool) {#constructor_3}
+
+Initierar en ny instans av[`HideAction`](../../hideaction) klass för de angivna kommentarerna och för osynlighetsflagga.
+
+```csharp
+public HideAction(Annotation[] annotations, bool isHidden)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| annotations | Annotation[] | En rad kommentarer som ska döljas eller visas. |
+| isHidden | Boolean | En flagga som indikerar om anteckningarna ska döljas (sant) eller visa dem (falskt). |
+
+### Se även
+
+* class [Annotation](../../annotation)
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+---
+
+## HideAction(string[]) {#constructor_6}
+
+Initierar en ny instans av[`HideAction`](../../hideaction) klass för de angivna fältnamnen.
+
+```csharp
+public HideAction(string[] names)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| names | String[] | En rad strängar som ger de fullständigt kvalificerade fältnamnen på ett interaktivt formulärfält. |
+
+### Se även
+
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+---
+
+## HideAction(string[], bool) {#constructor_7}
+
+Initierar en ny instans av[`HideAction`](../../hideaction) klass för de angivna fältnamnen och för osynlighetsflagga.
+
+```csharp
+public HideAction(string[] names, bool isHidden)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| names | String[] | En rad strängar som ger de fullständigt kvalificerade fältnamnen på ett interaktivt formulärfält. |
+| isHidden | Boolean | En flagga som indikerar om fälten ska döljas (sant) eller visa det (falskt). |
+
+### Se även
+
+* class [HideAction](../../hideaction)
+* namnutrymme [Aspose.Pdf.Annotations](../../hideaction)
+* hopsättning [Aspose.PDF](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

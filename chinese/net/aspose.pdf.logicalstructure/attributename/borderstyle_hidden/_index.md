@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Hidden
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BorderStyleHidden - 与无相同除了表格元素的边界冲突解决方案
+description: 属性边框样式隐藏 - 与无相同除了表格元素的边框冲突解决方案
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.logicalstructure/attributename/borderstyle_hidden/
 ---
 ## AttributeName.BorderStyle_Hidden field
 
-属性 BorderStyle:Hidden - 与无相同，除了表格元素的边界冲突解决方案。
+属性边框样式：隐藏 - 与无相同，除了表格元素的边框冲突解决方案。
 
 ```csharp
 public static readonly AttributeName BorderStyle_Hidden;

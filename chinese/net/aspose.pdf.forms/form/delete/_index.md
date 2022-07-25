@@ -37,7 +37,7 @@ public void Delete(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 必须删除的字段名称。 |
+| fieldName | String | 必须删除的文件名。 |
 
 ### 也可以看看
 

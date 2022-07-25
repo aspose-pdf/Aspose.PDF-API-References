@@ -1,14 +1,14 @@
 ---
 title: SuppressUpdate
 second_title: Aspose.PDF для справочника API .NET
-description: Подавляет данные обновления содержимого. Поток содержимого не обновляется до вызова ResumeUpdate.
+description: Подавляет данные обновления содержимого. Поток содержимого не обновляется до тех пор пока не будет вызвано ResumeUpdate.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/baseoperatorcollection/suppressupdate/
 ---
 ## BaseOperatorCollection.SuppressUpdate method
 
-Подавляет данные обновления содержимого. Поток содержимого не обновляется до вызова ResumeUpdate.
+Подавляет данные обновления содержимого. Поток содержимого не обновляется до тех пор, пока не будет вызвано ResumeUpdate.
 
 ```csharp
 public abstract void SuppressUpdate()

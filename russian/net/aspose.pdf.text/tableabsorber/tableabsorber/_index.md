@@ -1,14 +1,14 @@
 ---
 title: TableAbsorber
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярTableAbsorberaspose.pdf.text/tableabsorberс параметрами текстового поиска.
+description: Инициализирует новый экземплярTableAbsorberaspose.pdf.text/tableabsorber с параметрами текстового поиска.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/tableabsorber/tableabsorber/
 ---
 ## TableAbsorber(TextSearchOptions) {#constructor_1}
 
-Инициализирует новый экземпляр[`TableAbsorber`](../../tableabsorber)с параметрами текстового поиска.
+Инициализирует новый экземпляр[`TableAbsorber`](../../tableabsorber) с параметрами текстового поиска.
 
 ```csharp
 public TableAbsorber(TextSearchOptions textSearchOptions)
@@ -20,7 +20,7 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ### Примечания
 
-Выполняет поиск таблиц и предоставляет доступ к таблицам через[`TableList`](../tablelist)объект.
+Выполняет поиск таблиц и предоставляет доступ к таблицам через[`TableList`](../tablelist) объект.
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ## TableAbsorber() {#constructor}
 
-Инициализирует новый экземпляр[`TableAbsorber`](../../tableabsorber).
+Инициализирует новый экземпляр[`TableAbsorber`](../../tableabsorber) .
 
 ```csharp
 public TableAbsorber()
@@ -41,7 +41,7 @@ public TableAbsorber()
 
 ### Примечания
 
-Выполняет поиск таблиц и предоставляет доступ к таблицам через[`TableList`](../tablelist)объект.
+Выполняет поиск таблиц и предоставляет доступ к таблицам через[`TableList`](../tablelist) объект.
 
 ### Смотрите также
 

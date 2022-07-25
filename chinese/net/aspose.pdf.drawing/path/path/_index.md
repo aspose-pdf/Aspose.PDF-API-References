@@ -1,14 +1,14 @@
 ---
 title: Path
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Pathaspose.pdf.drawing/path类的新实例
+description: 初始化Pathaspose.pdf.drawing/path类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/path/path/
 ---
 ## Path(Shape[]) {#constructor_1}
 
-初始化[`Path`](../../path)类的新实例。
+初始化[`Path`](../../path)类.
 
 ```csharp
 public Path(Shape[] shapes)
@@ -29,7 +29,7 @@ public Path(Shape[] shapes)
 
 ## Path() {#constructor}
 
-初始化[`Path`](../../path)类的新实例。
+初始化[`Path`](../../path)类.
 
 ```csharp
 public Path()

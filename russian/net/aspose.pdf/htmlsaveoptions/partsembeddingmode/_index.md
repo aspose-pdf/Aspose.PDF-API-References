@@ -1,14 +1,14 @@
 ---
 title: PartsEmbeddingMode
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет будут ли файлы ссылок HTML шрифты изображения CSS встроены в основной файл HTML или будут сгенерированы как отдельные двоичные файлы сущности
+description: Определяет будут ли файлы ссылок HTML шрифты изображения CSS встроены в основной файл HTML или будут сгенерированы как отдельные двоичные объекты
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf/htmlsaveoptions/partsembeddingmode/
 ---
 ## HtmlSaveOptions.PartsEmbeddingMode field
 
-Определяет, будут ли файлы ссылок (HTML, шрифты, изображения, CSS) встроены в основной файл HTML или будут сгенерированы как отдельные двоичные файлы сущности
+Определяет, будут ли файлы ссылок (HTML, шрифты, изображения, CSS) встроены в основной файл HTML или будут сгенерированы как отдельные двоичные объекты
 
 ```csharp
 public PartsEmbeddingModes PartsEmbeddingMode;

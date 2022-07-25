@@ -1,14 +1,14 @@
 ---
 title: BMC
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 BMC 运算符的类开始标记内容序列
+description: 代表 BMC 运算符的类开始标记内容序列
 type: docs
 weight: 4900
 url: /zh/net/aspose.pdf.operators/bmc/
 ---
 ## BMC class
 
-表示 BMC 运算符的类（开始标记内容序列）。
+代表 BMC 运算符的类（开始标记内容序列）。
 
 ```csharp
 public class BMC : Operator
@@ -18,7 +18,7 @@ public class BMC : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BMC](bmc)(string) | 初始化运算符。 |
+| [BMC](bmc)(string) | 初始化操作符。 |
 
 ## 特性
 
@@ -32,7 +32,7 @@ public class BMC : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/bmc/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/bmc/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/bmc/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

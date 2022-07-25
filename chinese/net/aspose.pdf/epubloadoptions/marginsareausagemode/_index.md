@@ -1,14 +1,14 @@
 ---
 title: MarginsAreaUsageMode
 second_title: Aspose.PDF for .NET API 参考
-description: 表示边距区域的使用方式 - 定义导入文档的 CSS 指令如果有的处理 与保证金的使用有关
+description: 表示边距区域的使用模式 - 定义与边距使用相关的导入文档 的 CSS 指令如果有的处理 
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/epubloadoptions/marginsareausagemode/
 ---
 ## EpubLoadOptions.MarginsAreaUsageMode field
 
-表示边距区域的使用方式 - 定义导入文档的 CSS 指令（如果有）的处理 与保证金的使用有关。
+表示边距区域的使用模式 - 定义与边距使用相关的导入文档 的 CSS 指令（如果有）的处理 。
 
 ```csharp
 public MarginsAreaUsageModes MarginsAreaUsageMode;

@@ -1,14 +1,14 @@
 ---
 title: I
 second_title: Aspose.PDF for .NET API 参考
-description: I 变换矩阵的成员
+description: 我是变换矩阵的成员
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/matrix3d/i/
 ---
 ## Matrix3D.I property
 
-I 变换矩阵的成员。
+我是变换矩阵的成员。
 
 ```csharp
 public double I { get; set; }

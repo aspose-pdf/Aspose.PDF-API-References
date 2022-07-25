@@ -1,14 +1,14 @@
 ---
 title: Arc
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаArcaspose.pdf.drawing/arc.
+description: Инициализирует новый экземплярArcaspose.pdf.drawing/arc класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/arc/arc/
 ---
 ## Arc constructor
 
-Инициализирует новый экземпляр класса[`Arc`](../../arc).
+Инициализирует новый экземпляр[`Arc`](../../arc) класс.
 
 ```csharp
 public Arc(float posX, float posY, float radius, float alpha, float beta)

@@ -1,14 +1,14 @@
 ---
 title: HtmlLoadOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置将用于将 HTML 加载和呈现到该类实例中的 HtmlLoadOptions 请在必要时使用它 为这个或那个实例导入 HTML 使用特定设置 fe 当这个或那个实例应该为导入的 HTML 使用特定的 BasePath 或应该使用特定的外部资源加载器 如果参数为默认值 null则将使用标准 HTML 加载选项
+description: 获取或设置将用于将 HTML 加载和呈现到该类实例中的 HtmlLoadOptions 请在必要时使用它 为这个或那个实例导入 HTML 使用特定设置 当这个或那个实例应该为导入的 HTML 使用特定的 BasePath 或应使用特定的外部资源加载器 如果参数为默认值空则将使用标准的 HTML 加载选项
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/htmlfragment/htmlloadoptions/
 ---
 ## HtmlFragment.HtmlLoadOptions property
 
-获取或设置将用于将 HTML 加载（和呈现）到该类实例中的 HtmlLoadOptions。 请在必要时使用它 为这个或那个实例导入 HTML 使用特定设置 (fe 当这个或那个实例应该为导入的 HTML 使用特定的 BasePath 或应该使用特定的外部资源加载器) 如果参数为默认值 (null)，则将使用标准 HTML 加载选项。
+获取或设置将用于将 HTML 加载（和呈现）到该类实例中的 HtmlLoadOptions。 请在必要时使用它 为这个或那个实例导入 HTML 使用特定设置 （当这个或那个实例应该为导入的 HTML 使用特定的 BasePath 或应使用特定的外部资源加载器） 如果参数为默认值（空），则将使用标准的 HTML 加载选项。
 
 ```csharp
 public HtmlLoadOptions HtmlLoadOptions { get; set; }

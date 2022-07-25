@@ -1,14 +1,14 @@
 ---
 title: RLWIPE
 second_title: Aspose.PDF для справочника API .NET
-description: Вытеснение вправо-влево
+description: Протрите вправо-влево
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/rlwipe/
 ---
 ## PdfPageEditor.RLWIPE field
 
-Вытеснение вправо-влево
+Протрите вправо-влево
 
 ```csharp
 public const int RLWIPE;

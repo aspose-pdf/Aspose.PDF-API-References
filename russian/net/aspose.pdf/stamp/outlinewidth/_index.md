@@ -1,14 +1,14 @@
 ---
 title: OutlineWidth
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение ширины контура штампа. По умолчанию значение равно 10.
+description: Получает или задает значение ширины контура штампа. По умолчанию значение равно 1.0.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/stamp/outlinewidth/
 ---
 ## Stamp.OutlineWidth property
 
-Получает или задает значение ширины контура штампа. По умолчанию значение равно 1,0.
+Получает или задает значение ширины контура штампа. По умолчанию значение равно 1.0.
 
 ```csharp
 public double OutlineWidth { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: GetButtonOptionValues
 second_title: Aspose.PDF for .NET API 参考
-description: 根据字段名称获取单选按钮选项字段和相关值 此方法对单选按钮组有意义
+description: 根据字段名获取单选按钮选项字段及相关值 该方法对单选按钮组有意义
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
 ## Form.GetButtonOptionValues method
 
-根据字段名称获取单选按钮选项字段和相关值。 此方法对单选按钮组有意义。
+根据字段名获取单选按钮选项字段及相关值。 该方法对单选按钮组有意义。
 
 ```csharp
 public Dictionary<string, string> GetButtonOptionValues(string fieldName)
@@ -16,11 +16,11 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 字段名 |
+| fieldName | String | 字段名称 |
 
 ### 返回值
 
-键控的选项值哈希表表单项名称
+由表单项名称键入的选项值哈希表
 
 ### 例子
 

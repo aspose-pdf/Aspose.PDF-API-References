@@ -1,14 +1,14 @@
 ---
 title: GetRichText
 second_title: Aspose.PDF для справочника API .NET
-description: Получить значение поля форматированного текста включая информацию о форматировании каждого символа.
+description: Получить значение поля Rich Text включая информацию о форматировании каждого символа.
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/form/getrichtext/
 ---
 ## Form.GetRichText method
 
-Получить значение поля форматированного текста, включая информацию о форматировании каждого символа.
+Получить значение поля Rich Text, включая информацию о форматировании каждого символа.
 
 ```csharp
 public string GetRichText(string fieldName)
@@ -16,7 +16,7 @@ public string GetRichText(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля форматированного текста. |
+| fieldName | String | Полное имя поля для поля Rich Text. |
 
 ### Возвращаемое значение
 

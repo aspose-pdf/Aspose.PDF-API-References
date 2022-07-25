@@ -1,14 +1,14 @@
 ---
 title: RubyAlign_End
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyAlignEnd  содержимое должно быть выровнено по конечному краю в направлении встроенной последовательности.
+description: Атрибут RubyAlign End  содержимое должно быть выровнено по конечному краю в направлении встроенной последовательности.
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyalign_end/
 ---
 ## AttributeName.RubyAlign_End field
 
-Атрибут RubyAlign:End — содержимое должно быть выровнено по конечному краю в направлении встроенной последовательности.
+Атрибут RubyAlign: End — содержимое должно быть выровнено по конечному краю в направлении встроенной последовательности.
 
 ```csharp
 public static readonly AttributeName RubyAlign_End;

@@ -16,11 +16,11 @@ public StructureAttribute GetAttribute(AttributeKey key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | AttributeKey | AttributeKey. |
+| key | AttributeKey | АтрибутКлюч. |
 
 ### Возвращаемое значение
 
-StructureAttribute
+СтруктураАтрибут
 
 ### Смотрите также
 

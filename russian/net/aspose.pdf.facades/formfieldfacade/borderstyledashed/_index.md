@@ -1,14 +1,14 @@
 ---
 title: BorderStyleDashed
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет пунктирную границу.
+description: Определяет стиль пунктирной границы.
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/
 ---
 ## FormFieldFacade.BorderStyleDashed field
 
-Определяет пунктирную границу.
+Определяет стиль пунктирной границы.
 
 ```csharp
 public const int BorderStyleDashed;

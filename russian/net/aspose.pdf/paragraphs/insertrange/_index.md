@@ -17,7 +17,7 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Значение индекса. |
-| коллекция | IEnumerable`1 | Коллекция. |
+| collection | IEnumerable`1 | Коллекция. |
 
 ### Смотрите также
 

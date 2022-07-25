@@ -18,10 +18,10 @@ public enum ColorDepth
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Default | `0` | 默认颜色深度。 默认使用 32 位深度。 |
-| Format8bpp | `1` | 每像素 8 位。等于Format8bppIndexed |
-| Format4bpp | `2` | 每像素 4 位。等于Format4bppIndexed |
-| Format1bpp | `3` | 每像素 1 位。等于Format32bppRgb |
+| Default | `0` | 默认颜色深度。 默认使用32位深度。 |
+| Format8bpp | `1` | 每像素 8 位。平等的Format8bppIndexed |
+| Format4bpp | `2` | 每像素 4 位。平等的Format4bppIndexed |
+| Format1bpp | `3` | 每像素 1 位。平等的Format32bppRgb |
 
 ### 也可以看看
 

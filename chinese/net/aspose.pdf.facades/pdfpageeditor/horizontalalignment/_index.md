@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置PDF原始内容在结果页上的水平对齐方式默认为AlignmentType.Left
+description: 获取或设置PDF原始内容在结果页的水平对齐方式默认为AlignmentType.Left.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/horizontalalignment/
 ---
 ## PdfPageEditor.HorizontalAlignment property
 
-获取或设置PDF原始内容在结果页上的水平对齐方式，默认为AlignmentType.Left。
+获取或设置PDF原始内容在结果页的水平对齐方式，默认为AlignmentType.Left.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

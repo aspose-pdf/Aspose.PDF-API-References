@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF для справочника API .NET
-description: Копирует операторы в список операторов.
+description: Копирует операторов в список операторов.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/baseoperatorcollection/copyto/
 ---
 ## BaseOperatorCollection.CopyTo method
 
-Копирует операторы в список операторов.
+Копирует операторов в список операторов.
 
 ```csharp
 public abstract void CopyTo(Operator[] array, int index)

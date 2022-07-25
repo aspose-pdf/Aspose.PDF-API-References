@@ -1,14 +1,14 @@
 ---
 title: PageLayoutTwoColumnLeft
 second_title: Aspose.PDF for .NET API 参考
-description: 分两列显示页面右侧奇数页
+description: 分两列显示页面右边是奇数页
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnleft/
 ---
 ## ViewerPreference.PageLayoutTwoColumnLeft field
 
-分两列显示页面，右侧奇数页
+分两列显示页面，右边是奇数页
 
 ```csharp
 public const int PageLayoutTwoColumnLeft;

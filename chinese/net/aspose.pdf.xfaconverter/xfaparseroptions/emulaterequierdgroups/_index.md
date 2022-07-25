@@ -1,14 +1,14 @@
 ---
 title: EmulateRequierdGroups
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此属性为真则将为所需的 Xfa排除组绘制额外的红色矩形 引入此属性是因为缺少类似的在将 Xfa 表示形式 转换为标准期间排除的组 默认为假
+description: 如果此属性为真则将为所需的 Xfa排除组绘制额外的红色矩形 引入此属性是因为在将表单 的 Xfa 表示形式转换为标准时缺少排除组的类似物 默认情况下为假
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/
 ---
 ## XfaParserOptions.EmulateRequierdGroups property
 
-如果此属性为真，则将为所需的 Xfa“排除组”绘制额外的红色矩形 引入此属性是因为缺少类似的在将 Xfa 表示形式 转换为标准期间排除的组。 默认为假。
+如果此属性为真，则将为所需的 Xfa“排除组”绘制额外的红色矩形 引入此属性是因为在将表单 的 Xfa 表示形式转换为标准时缺少排除组的类似物。 默认情况下为假。
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }

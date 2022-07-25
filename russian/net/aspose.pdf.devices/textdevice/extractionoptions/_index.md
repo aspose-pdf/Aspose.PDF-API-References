@@ -22,13 +22,13 @@ public TextExtractionOptions ExtractionOptions { get; set; }
 Document doc = new Document(inFile);
 string extractedText;
 
- // создаем текст device
+// создать текстовое устройство
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
- // конвертируем страницу и сохраняем текст в stream
+// конвертируем страницу и сохраняем текст в поток
 device.Process(doc.Pages[1], outFile);
 
- // используем извлеченный text
+// используем извлеченный текст
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 

@@ -1,14 +1,14 @@
 ---
 title: IsDoubled
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает удвоенную границу.
+description: Получает или устанавливает двойную границу.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/graphinfo/isdoubled/
 ---
 ## GraphInfo.IsDoubled property
 
-Получает или устанавливает удвоенную границу.
+Получает или устанавливает двойную границу.
 
 ```csharp
 public bool IsDoubled { get; set; }

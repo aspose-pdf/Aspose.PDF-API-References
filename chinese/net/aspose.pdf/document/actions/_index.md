@@ -16,7 +16,7 @@ public DocumentActionCollection Actions { get; }
 
 ### 例子
 
-此示例演示如何在打开文档后获取:
+这个例子演示了如何在打开文件后获取：
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("d:\\work\\aspose\\aspose.pdf.kit.net.new\\trunk\\testdata\\Aspose.Pdf\\PdfWithOpenAction.pdf");

@@ -1,14 +1,14 @@
 ---
 title: Clip
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор W установить путь отсечения используя правило ненулевого намотки.
+description: Класс представляющий оператор W установите путь отсечения используя правило ненулевого намотки.
 type: docs
 weight: 4960
 url: /ru/net/aspose.pdf.operators/clip/
 ---
 ## Clip class
 
-Класс, представляющий оператор W (установить путь отсечения, используя правило ненулевого намотки).
+Класс, представляющий оператор W (установите путь отсечения, используя правило ненулевого намотки).
 
 ```csharp
 public class Clip : Operator
@@ -30,7 +30,7 @@ public class Clip : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/clip/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/clip/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/clip/tostring)() | Возвращает текстовое представление операторов. |
 
 ### Смотрите также

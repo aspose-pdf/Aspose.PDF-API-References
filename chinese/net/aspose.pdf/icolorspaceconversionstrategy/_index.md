@@ -18,7 +18,7 @@ public interface IColorSpaceConversionStrategy
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert)(Page) | 转换文档页面。 |
+| [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert)(Page) | 转换文档的页面。 |
 
 ### 也可以看看
 

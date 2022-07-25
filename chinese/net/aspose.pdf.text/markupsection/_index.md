@@ -18,8 +18,8 @@ public sealed class MarkupSection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Fragments](../../aspose.pdf.text/markupsection/fragments) { get; } | 非空[`TextFragment`](../textfragment)部分内对象的集合。 |
-| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs) { get; } | 部分内的[`MarkupParagraph`](../markupparagraph)对象的集合。 |
+| [Fragments](../../aspose.pdf.text/markupsection/fragments) { get; } | 集合不为空[`TextFragment`](../textfragment) section. 内的对象 |
+| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs) { get; } | 集合[`MarkupParagraph`](../markupparagraph) section. 内的对象 |
 | [Rectangle](../../aspose.pdf.text/markupsection/rectangle) { get; } | 截面矩形 |
 
 ### 也可以看看

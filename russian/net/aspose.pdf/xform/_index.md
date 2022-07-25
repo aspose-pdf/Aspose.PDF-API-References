@@ -19,12 +19,12 @@ public sealed class XForm
 | Имя | Описание |
 | --- | --- |
 | [BBox](../../aspose.pdf/xform/bbox) { get; set; } | Получает или задает ограничивающую рамку формы. |
-| [Contents](../../aspose.pdf/xform/contents) { get; } | Получает операторы формы. |
+| [Contents](../../aspose.pdf/xform/contents) { get; } | Получает операторы вида. |
 | [Matrix](../../aspose.pdf/xform/matrix) { get; set; } | Получает или задает матрицу формы. |
 | [Name](../../aspose.pdf/xform/name) { get; set; } | Получает или задает имя формы. Имя формы — это имя, которое используется для ссылки на форму в XObejct ductary в ресурсах страницы. |
 | [Opi](../../aspose.pdf/xform/opi) { get; } | Получает открытый интерфейс допечатной подготовки (OPI). |
 | [Rectangle](../../aspose.pdf/xform/rectangle) { get; } | Получает или задает прямоугольник формы. |
-| [Resources](../../aspose.pdf/xform/resources) { get; } | Получает ресурсы XObject формы. |
+| [Resources](../../aspose.pdf/xform/resources) { get; } | Получает ресурсы формы XObject. |
 
 ## Методы
 
@@ -32,7 +32,7 @@ public sealed class XForm
 | --- | --- |
 | static [CreateNewForm](../../aspose.pdf/xform/createnewform)(Page, Document) | Создает XForm, который дублирует содержимое страницы. |
 | [FreeMemory](../../aspose.pdf/xform/freememory)() | Очищает кэшированные данные |
-| [GetResources](../../aspose.pdf/xform/getresources#getresources)() | Возвращает ресурсы формы X-Object. Если для For нет ресурсов и для параметра allowCreate установлено значение true, для формы будут автоматически созданы ресурсы. |
+| [GetResources](../../aspose.pdf/xform/getresources#getresources)() | Возвращает ресурсы формы X-Object. Если для For нет ресурсов и для параметра allowCreate установлено значение true, ресурсы будут автоматически созданы для формы. |
 | [GetResources](../../aspose.pdf/xform/getresources#getresources_1)(bool) | Возвращает ресурсы формы X-Object |
 
 ### Смотрите также

@@ -18,14 +18,14 @@ public sealed class Resolution
 
 | Имя | Описание |
 | --- | --- |
-| [Resolution](resolution#constructor)(int) | Инициализирует новый экземпляр класса[`Resolution`](../resolution). |
-| [Resolution](resolution#constructor_1)(int, int) | Инициализирует новый экземпляр класса[`Resolution`](../resolution). |
+| [Resolution](resolution#constructor)(int) | Инициализирует новый экземпляр[`Resolution`](../resolution) класс. |
+| [Resolution](resolution#constructor_1)(int, int) | Инициализирует новый экземпляр[`Resolution`](../resolution) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [X](../../aspose.pdf.devices/resolution/x) { get; set; } | Получает или задает горизонтальное разрешение изображения. |
+| [X](../../aspose.pdf.devices/resolution/x) { get; set; } | Получает или задает разрешение изображения по горизонтали. |
 | [Y](../../aspose.pdf.devices/resolution/y) { get; set; } | Получает или задает разрешение изображения по вертикали. |
 
 ### Смотрите также

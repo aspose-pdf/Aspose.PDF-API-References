@@ -1,14 +1,14 @@
 ---
 title: DestinationCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 类表示所有目的地的集合将名称字符串映射到目的地的名称树见 12.3.2.3命名目的地和见 7.7.4名称字典 在 pdf 文档中
+description: 类表示 pdf 文档中所有目的地的集合将名称字符串映射到目的地的名称树参见 12.3.2.3命名目的地和参见 7.7.4名称字典
 type: docs
 weight: 1620
 url: /zh/net/aspose.pdf/destinationcollection/
 ---
 ## DestinationCollection class
 
-类表示所有目的地的集合（将名称字符串映射到目的地的名称树（见 12.3.2.3，“命名目的地”）和（见 7.7.4，“名称字典")) 在 pdf 文档中。
+类表示 pdf 文档中所有目的地的集合（将名称字符串映射到目的地的名称树（参见 12.3.2.3，“命名目的地”）和（参见 7.7.4，“名称字典”））。
 
 ```csharp
 public sealed class DestinationCollection : ICollection<KeyValuePair<string, object>>
@@ -26,15 +26,15 @@ public sealed class DestinationCollection : ICollection<KeyValuePair<string, obj
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf/destinationcollection/add)(KeyValuePair&lt;string, object&gt;) | 添加指定项目。 集合是只读的。总是抛出 NotSupportedException 异常。 |
+| [Add](../../aspose.pdf/destinationcollection/add)(KeyValuePair&lt;string, object&gt;) | 添加指定的项目。 集合是只读的。总是抛出 NotSupportedException 异常。 |
 | [Clear](../../aspose.pdf/destinationcollection/clear)() | 集合是只读的。总是抛出 NotSupportedException 异常。 |
-| [Contains](../../aspose.pdf/destinationcollection/contains)(KeyValuePair&lt;string, object&gt;) | 确定此实例是否包含该对象。 |
+| [Contains](../../aspose.pdf/destinationcollection/contains)(KeyValuePair&lt;string, object&gt;) | 确定此实例是否包含对象。 |
 | [CopyTo](../../aspose.pdf/destinationcollection/copyto)(KeyValuePair&lt;string, object&gt;[], int) |  |
 | [GetEnumerator](../../aspose.pdf/destinationcollection/getenumerator)() | 返回枚举数。 |
 | [GetExplicitDestination](../../aspose.pdf/destinationcollection/getexplicitdestination)(string, bool) | 按名称返回显式目的地。 |
 | [GetPageNumber](../../aspose.pdf/destinationcollection/getpagenumber)(string, bool) | 按名称返回目的地的页码。 |
 | [IndexOf](../../aspose.pdf/destinationcollection/indexof)(KeyValuePair&lt;string, object&gt;) | 返回集合中目标的索引。 |
-| [Remove](../../aspose.pdf/destinationcollection/remove)(KeyValuePair&lt;string, object&gt;) | 删除指定项目。 集合是只读的。总是抛出 NotSupportedException 异常。 |
+| [Remove](../../aspose.pdf/destinationcollection/remove)(KeyValuePair&lt;string, object&gt;) | 删除指定的项目。 集合是只读的。总是抛出 NotSupportedException 异常。 |
 
 ### 也可以看看
 

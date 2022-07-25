@@ -1,14 +1,14 @@
 ---
 title: FontFamilyName
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置字体系列名称它应该存在于文档中默认值宋体
+description: 获取/设置字体系列名称它应该存在于文档中默认值Arial.
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/
 ---
 ## SignatureCustomAppearance.FontFamilyName property
 
-获取/设置字体系列名称。它应该存在于文档中。默认值:宋体。
+获取/设置字体系列名称。它应该存在于文档中。默认值：Arial.
 
 ```csharp
 public string FontFamilyName { get; set; }

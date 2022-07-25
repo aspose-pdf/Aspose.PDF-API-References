@@ -1,14 +1,14 @@
 ---
 title: CMapEncodingTable
 second_title: Aspose.PDF for .NET API 参考
-description: 通过CMapEncodingTableTypeaspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype枚举指定编码子表
+description: 通过指定编码子表CMapEncodingTableTypeaspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype枚举
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable property
 
-通过[`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)枚举指定编码子表
+通过指定编码子表[`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)枚举
 
 ```csharp
 public CMapEncodingTableType CMapEncodingTable { get; set; }

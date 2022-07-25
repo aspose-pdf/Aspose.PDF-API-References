@@ -1,14 +1,14 @@
 ---
 title: TextEditOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаTextEditOptionsaspose.pdf.text/texteditoptionsдля указанного бессимвольного режима поведения.
+description: Инициализирует новый экземплярTextEditOptionsaspose.pdf.text/texteditoptions объект для указанного бессимвольного режима поведения.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-Инициализирует новый экземпляр объекта[`TextEditOptions`](../../texteditoptions)для указанного бессимвольного режима поведения.
+Инициализирует новый экземпляр[`TextEditOptions`](../../texteditoptions) объект для указанного бессимвольного режима поведения.
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -16,7 +16,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| noCharacterBehavior | NoCharacterAction | Объект режима поведения без символов. |
+| noCharacterBehavior | NoCharacterAction | Объект режима бессимвольного поведения. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-Инициализирует новый экземпляр объекта[`TextEditOptions`](../../texteditoptions)для указанного режима поведения замены шрифта.
+Инициализирует новый экземпляр[`TextEditOptions`](../../texteditoptions) объект для указанного режима поведения замены шрифта.
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
@@ -37,7 +37,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontReplaceBehavior | FontReplace | Объект поведения замены шрифта. |
+| fontReplaceBehavior | FontReplace | Шрифт заменяет объект поведения. |
 
 ### Смотрите также
 
@@ -50,7 +50,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-Инициализирует новый экземпляр объекта[`TextEditOptions`](../../texteditoptions)для указанного разрешения преобразования языка.
+Инициализирует новый экземпляр[`TextEditOptions`](../../texteditoptions) объект для указанного разрешения на преобразование языка.
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
@@ -70,7 +70,7 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 ## TextEditOptions(LanguageTransformation) {#constructor_2}
 
-Инициализирует новый экземпляр объекта[`TextEditOptions`](../../texteditoptions)для указанного режима поведения преобразования языка.
+Инициализирует новый экземпляр[`TextEditOptions`](../../texteditoptions) объект для указанного режима поведения преобразования языка.
 
 ```csharp
 public TextEditOptions(LanguageTransformation languageTransformationBehavior)

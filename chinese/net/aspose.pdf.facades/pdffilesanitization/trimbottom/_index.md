@@ -1,14 +1,14 @@
 ---
 title: TrimBottom
 second_title: Aspose.PDF for .NET API 参考
-description: 删除最后一个 EOF 之后的数据
+description: 删除最后 EOF 之后的数据
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/pdffilesanitization/trimbottom/
 ---
 ## PdfFileSanitization.TrimBottom method
 
-删除最后一个 %%EOF 之后的数据。
+删除最后 %%EOF 之后的数据。
 
 ```csharp
 public void TrimBottom()

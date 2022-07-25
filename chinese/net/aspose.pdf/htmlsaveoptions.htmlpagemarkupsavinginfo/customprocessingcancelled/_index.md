@@ -1,14 +1,14 @@
 ---
 title: CustomProcessingCancelled
 second_title: Aspose.PDF for .NET API 参考
-description: 必要时应在自定义代码中设置 如果由于某些原因 提供的 html 标记不应该使用自定义代码而是 处理则该标志必须在自定义代码中设置为true转换器的代码本身是转换器方式的标准 因此如果在自定义代码中设置此标志意味着 自定义代码没有处理引用的文件并且 转换器必须自己处理它
+description: 应在必要时在自定义代码中设置 如果出于某些原因 提供的 html 标记不应使用自定义代码处理而是 使用转换器的代码本身以转换器方式的标准处理则此标志必须在自定义代码中设置为true 因此如果在自定义代码中设置此标志意味着 自定义代码没有处理引用的文件 转换器必须自己处理它
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/customprocessingcancelled/
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.CustomProcessingCancelled field
 
-必要时应在自定义代码中设置。 如果由于某些原因 提供的 html 标记不应该使用自定义代码而是 处理，则该标志必须在自定义代码中设置为“true”转换器的代码本身是转换器方式的标准。 因此，如果在自定义代码中设置此标志意味着 自定义代码没有处理引用的文件并且 转换器必须自己处理它
+应在必要时在自定义代码中设置。 如果出于某些原因 提供的 html 标记不应使用自定义代码处理，而是 使用转换器的代码本身以转换器方式的标准处理，则此标志必须在自定义代码中设置为“true”。 因此，如果在自定义代码中设置此标志意味着 自定义代码没有处理引用的文件， 转换器必须自己处理它
 
 ```csharp
 public bool CustomProcessingCancelled;

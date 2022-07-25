@@ -16,27 +16,27 @@ public void PrintLargePdf(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу Pdf. |
+| filePath | String | Путь к файлу PDF. |
 
 ### Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile( ) явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
 
 ### Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;      //печатать файл с измененным размером
-iewer.AutoRotate = true;      //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;     //печатать файл с измененным размером
+iewer.AutoRotate = true;     //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintLargePdf(@"d:\test.pdf");
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true      'печатать файл с измененным размером
-iewer.AutoRotate = true      'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; ' не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true      'распечатать файл с измененным размером
+iewer.AutoRotate = true      'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintLargePdf(@"d:\test.pdf")
 iewer.ClosePdfFile();
 ```
@@ -59,28 +59,28 @@ public void PrintLargePdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток PDF для открытия и печати.. |
+| inputStream | Stream | Поток pdf, который нужно открыть и распечатать. |
 
 ### Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile( ) явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
 
 ### Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;         //печатать файл с измененным размером
-iewer.AutoRotate = true;         //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;        //печатать файл с измененным размером
+iewer.AutoRotate = true;        //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")));
 iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true         'печатать файл с измененным размером
-iewer.AutoRotate = true         'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false;    'не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true         'распечатать файл с измененным размером
+iewer.AutoRotate = true         'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
 iewer.ClosePdfFile()
 ```
@@ -103,21 +103,21 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу Pdf. |
+| filePath | String | Путь к файлу PDF. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
 ### Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile( ) явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
 
 ### Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;        //печатать файл с измененным размером
-iewer.AutoRotate = true;        //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;       //печатать файл с измененным размером
+iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
@@ -126,9 +126,9 @@ iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'печатать файл с измененным размером
-iewer.AutoRotate = true        'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false;   'не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true        'распечатать файл с измененным размером
+iewer.AutoRotate = true        'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -154,21 +154,21 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток PDF для открытия и печати.. |
+| inputStream | Stream | Поток pdf, который нужно открыть и распечатать. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
 ### Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile( ) явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
 
 ### Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;        //печатать файл с измененным размером
-iewer.AutoRotate = true;        //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;       //печатать файл с измененным размером
+iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
@@ -177,9 +177,9 @@ iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'печатать файл с измененным размером
-iewer.AutoRotate = true        'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false;   'не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true        'распечатать файл с измененным размером
+iewer.AutoRotate = true        'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -197,7 +197,7 @@ iewer.ClosePdfFile()
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Открывает и печатает большой файл Pdf с указанными настройками страницы и настройками принтера. Если ваш файл Pdf содержит сотни страниц и более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности .
+Открывает и печатает большой файл Pdf с заданными настройками страницы и настройками принтера. Если ваш файл Pdf содержит сотни страниц или более или его размер превышает 3 МБ, рекомендуется использовать этот метод, чтобы повысить производительность.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -206,22 +206,22 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу Pdf. |
+| filePath | String | Путь к файлу PDF. |
 | pageSettings | PageSettings | Настройки страницы. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
 ### Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile( ) явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
 
 ### Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;        //печатать файл с измененным размером
-iewer.AutoRotate = true;        //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;       //печатать файл с измененным размером
+iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
@@ -233,9 +233,9 @@ iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'печатать файл с измененным размером
-iewer.AutoRotate = true       'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false;  'не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true       'распечатать файл с измененным размером
+iewer.AutoRotate = true       'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
@@ -271,16 +271,16 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 
 ### Примечания
 
-Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile( ) явно.
+Этот метод объединяет открытие и печать файла, и вам не нужно вызывать OpenPdfFile() явно.
 
 ### Примеры
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;        //печатать файл с измененным размером
-iewer.AutoRotate = true;        //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;       //печатать файл с измененным размером
+iewer.AutoRotate = true;       //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
@@ -292,9 +292,9 @@ iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'печатать файл с измененным размером
-iewer.AutoRotate = true       'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false;  'не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true       'распечатать файл с измененным размером
+iewer.AutoRotate = true       'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
 im prtdoc As PrintDocument = new PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName

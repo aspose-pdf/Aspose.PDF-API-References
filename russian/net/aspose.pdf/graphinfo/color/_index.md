@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектColoraspose.pdf/graphinfo/color указывающий цвет графика.
+description: Получает или задаетColoraspose.pdf/graphinfo/color объект указывающий цвет графика.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/graphinfo/color/
 ---
 ## GraphInfo.Color property
 
-Получает или задает объект`Color`, указывающий цвет графика.
+Получает или задает`Color` объект, указывающий цвет графика.
 
 ```csharp
 public Color Color { get; set; }

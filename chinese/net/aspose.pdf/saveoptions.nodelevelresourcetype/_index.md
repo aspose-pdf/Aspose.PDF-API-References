@@ -18,8 +18,8 @@ public enum NodeLevelResourceType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Image | `0` | 表示提供的资源是图像 |
-| Font | `1` | 表示提供的资源是字体 |
+| Image | `0` | 表示提供的资源是 image |
+| Font | `1` | 表示提供的资源是 font |
 
 ### 也可以看看
 

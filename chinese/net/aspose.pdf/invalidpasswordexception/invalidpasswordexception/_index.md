@@ -1,14 +1,14 @@
 ---
 title: InvalidPasswordException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化InvalidPasswordExceptionaspose.pdf/invalidpasswordexception类的新实例
+description: 初始化InvalidPasswordExceptionaspose.pdf/invalidpasswordexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/invalidpasswordexception/invalidpasswordexception/
 ---
 ## InvalidPasswordException(string) {#constructor_1}
 
-初始化[`InvalidPasswordException`](../../invalidpasswordexception)类的新实例。
+初始化[`InvalidPasswordException`](../../invalidpasswordexception)类.
 
 ```csharp
 public InvalidPasswordException(string message)
@@ -28,7 +28,7 @@ public InvalidPasswordException(string message)
 
 ## InvalidPasswordException(string, Exception) {#constructor_2}
 
-使用指定的错误消息初始化[`InvalidPasswordException`](../../invalidpasswordexception) 类的新实例以及对导致此异常的内部异常的引用。
+初始化[`InvalidPasswordException`](../../invalidpasswordexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public InvalidPasswordException(string message, Exception innerException)
@@ -49,7 +49,7 @@ public InvalidPasswordException(string message, Exception innerException)
 
 ## InvalidPasswordException(Exception) {#constructor}
 
-使用指定的错误消息初始化[`InvalidPasswordException`](../../invalidpasswordexception) 类的新实例以及对导致此异常的内部异常的引用。
+初始化[`InvalidPasswordException`](../../invalidpasswordexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public InvalidPasswordException(Exception innerException)
@@ -57,7 +57,7 @@ public InvalidPasswordException(Exception innerException)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| innerException | Exception | 导致当前异常的异常，如果没有内部异常，则为空引用（在 Visual Basic 中为空）被指定。 |
+| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

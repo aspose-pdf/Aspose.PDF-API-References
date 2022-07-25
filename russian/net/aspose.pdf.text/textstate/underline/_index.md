@@ -1,14 +1,14 @@
 ---
 title: Underline
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает подчеркивание для текста представленногоTextFragmentaspose.pdf.text/textfragmentобъектом
+description: Получает или задает подчеркивание текста представленногоTextFragmentaspose.pdf.text/textfragment объект
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.text/textstate/underline/
 ---
 ## TextState.Underline property
 
-Получает или устанавливает подчеркивание для текста, представленного[`TextFragment`](../../textfragment)объектом
+Получает или задает подчеркивание текста, представленного[`TextFragment`](../../textfragment) объект
 
 ```csharp
 public virtual bool Underline { get; set; }

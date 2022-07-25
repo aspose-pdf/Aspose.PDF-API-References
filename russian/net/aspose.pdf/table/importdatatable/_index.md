@@ -1,14 +1,14 @@
 ---
 title: ImportDataTable
 second_title: Aspose.PDF для справочника API .NET
-description: Импорт данных из System.Data.DataTable в Aspose.Pdf.Table
+description: Импортирует данные из System.Data.DataTable в Aspose.Pdf.Table
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf/table/importdatatable/
 ---
 ## ImportDataTable(DataTable, bool, int, int) {#importdatatable_1}
 
-Импорт данных из System.Data.DataTable в Aspose.Pdf.Table
+Импортирует данные из System.Data.DataTable в Aspose.Pdf.Table
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImported, 
@@ -18,8 +18,8 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | importedDataTable | DataTable | исходный экземпляр System.Data.DataTable |
-| isColumnNamesImported | Boolean | указывает, будут ли имена столбцов импортироваться как первая строка |
-| firstFilledRow | Int32 | указывает отсчитываемый от нуля номер первой строки в целевой таблице, с которой начнется импорт, если строки с таким номером (и некоторых предыдущих строк) в целевой таблице нет, они будут созданы первыми |
+| isColumnNamesImported | Boolean | указывает, будут ли импортированы имена столбцов в качестве первой строки |
+| firstFilledRow | Int32 | указывает отсчитываемый от нуля номер первой строки в целевой таблице, с которой начнется импорт, если строки с таким номером (и некоторые предыдущие строки) отсутствуют в целевой таблице, они будут созданы первыми |
 | firstFilledColumn | Int32 | указывает номер первого целевого столбца в целевой таблице, столбец должен присутствовать в целевой таблице перед началом импорта |
 
 ### Смотрите также
@@ -32,7 +32,7 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 
 ## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
 
-Импортирует объектDataTableв таблицу.
+ИмпортируетDataTable объект в таблицу.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -42,13 +42,13 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| importedDataTable | DataTable | Импортируемый объектDataTable. |
-| isColumnNamesShown | Boolean | Указывает, будут ли имена столбцов исходной таблицы данных импортироваться как первая строка. |
-| firstFilledRow | Int32 | указывает отсчитываемый от нуля номер первой строки в целевой таблице, с которой начнется импорт, если строка с таким номером (и некоторые предыдущие строки) отсутствуют в целевой таблице , они будут созданы первыми |
-| firstFilledColumn | Byte | указывает номер первого целевого столбца в целевой таблице, колонка должна присутствовать в целевой таблице перед началом импорта |
+| importedDataTable | DataTable | DataTable объект для импорта. |
+| isColumnNamesShown | Boolean | Указывает, будут ли имена столбцов исходной таблицы данных импортироваться в качестве первой строки. |
+| firstFilledRow | Int32 | указывает отсчитываемый от нуля номер первой строки в целевой таблице, с которой начнется импорт, если строки с таким номером (и некоторые предыдущие строки) отсутствуют в целевой таблице, они будут созданы первыми |
+| firstFilledColumn | Byte | указывает номер первого целевого столбца в целевой таблице, столбец должен присутствовать в целевой таблице перед началом импорта |
 | maxRows | Int32 | Максимальное количество строк для импорта из исходной таблицы. |
 | maxColumns | Int32 | Максимальное количество столбцов для импорта из исходной таблицы. |
-| isHtmlSupported | Boolean | Указывает, является ли текст строкой HTML. |
+| isHtmlSupported | Boolean | Указывает, является ли текст строкой html. |
 
 ### Смотрите также
 
@@ -60,7 +60,7 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 ## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-Импортирует объектDataTable, но не целиком. Импортируются только указанные строки и столбцы.
+ИмпортируетDataTable объект, а не целое. Импортируются только указанные строки и столбцы.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -70,13 +70,13 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| importedDataTable | DataTable | Импортируемый объектDataTable. |
-| sourceRowList | Int32[] | Массив номеров строк в исходном объектеDataTable, который необходимо импортировать. Список не должен быть нулевым и должен содержать только номера существующих строк, иначе будет выдано исключение. |
-| sourceColumnList | Int32[] | Массив номеров столбцов в исходном объектеDataTable, который необходимо импортировать. Список не должен быть нулевым и должен содержать только номера существующих столбцов, иначе будет выдано исключение. |
+| importedDataTable | DataTable | DataTable объект для импорта. |
+| sourceRowList | Int32[] | Массив номеров строк в исходникеDataTableобъект, который необходимо импортировать. Список не должен быть нулевым и должен содержать только номера существующих строк, иначе будет выдано исключение. |
+| sourceColumnList | Int32[] | Массив номеров столбцов в источникеDataTable объект, который необходимо импортировать. Список не должен быть нулевым и должен содержать только номера существующих столбцов, иначе будет выдано исключение. |
 | firstFilledRow | Int32 | Отсчитываемый от нуля номер строки первой ячейки в целевой таблице, с которой начнется импорт. Если целевая таблица не содержит этой строки, она (и все предыдущие, если необходимо) будет создана |
-| firstFilledColumn | Int32 | Номер столбца, начинающийся с нуля первой ячейки в целевой таблице, с которой начнется импорт. Целевая таблица должна содержать этот столбец до начала импорта, иначе будет выдано исключение. |
+| firstFilledColumn | Int32 | Отсчитываемый от нуля номер столбца первой ячейки в целевой таблице, с которой начнется импорт. Целевая таблица должна содержать этот столбец до начала импорта, иначе будет выдано исключение. |
 | showColumnNamesAsFirstRow | Boolean | Указывает, будут ли имена столбцов исходной таблицы данных импортироваться в качестве первой строки. |
-| isHtmlSupported | Boolean | Указывает, является ли текст строкой HTML. |
+| isHtmlSupported | Boolean | Указывает, является ли текст строкой html. |
 
 ### Смотрите также
 

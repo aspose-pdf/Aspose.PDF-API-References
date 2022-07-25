@@ -20,18 +20,18 @@ public void PrintDocumentWithSetup()
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;          //печатать файл с измененным размером
-iewer.AutoRotate = true;          //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;         //печатать файл с измененным размером
+iewer.AutoRotate = true;         //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintDocumentWithSetup();
 iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")   
-iewer.AutoResize = true          'печатать файл с измененным размером
-iewer.AutoRotate = true          'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false;     'не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true          'распечатать файл с измененным размером
+iewer.AutoRotate = true          'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintDocumentWithSetup()
 iewer.ClosePdfFile()
 ```

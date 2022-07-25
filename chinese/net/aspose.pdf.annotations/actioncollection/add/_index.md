@@ -16,7 +16,7 @@ public void Add(PdfAction action)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| action | PdfAction | 应该添加的动作。 |
+| action | PdfAction | 应该添加的操作。 |
 
 ### 也可以看看
 

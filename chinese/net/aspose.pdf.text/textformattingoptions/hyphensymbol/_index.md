@@ -16,7 +16,7 @@ public string HyphenSymbol { get; set; }
 
 ### 评论
 
-要消除连字符绘制（包装过程仍然存在），请设置空字符串 string.Empty 为连字符符号。
+要消除连字符的绘制（包装过程仍然存在），请设置空字符串 string.Empty 为 HyphenSymbol.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Ellipse
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаEllipseaspose.pdf.drawing/ellipse.
+description: Инициализирует новый экземплярEllipseaspose.pdf.drawing/ellipse класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/ellipse/ellipse/
 ---
 ## Ellipse constructor
 
-Инициализирует новый экземпляр класса[`Ellipse`](../../ellipse).
+Инициализирует новый экземпляр[`Ellipse`](../../ellipse) класс.
 
 ```csharp
 public Ellipse(double left, double bottom, double width, double height)
@@ -16,8 +16,8 @@ public Ellipse(double left, double bottom, double width, double height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Double | Левая позиция эллипса. |
-| bottom | Double | Нижняя позиция эллипса. |
+| left | Double | Левое положение эллипса. |
+| bottom | Double | Нижнее положение эллипса. |
 | width | Double | Ширина эллипса. |
 | height | Double | Высота эллипса. |
 

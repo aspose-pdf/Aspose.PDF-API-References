@@ -1,14 +1,14 @@
 ---
 title: AddFieldScript
 second_title: Aspose.PDF для справочника API .NET
-description: Добавить JavaScript для поля PushButton. Если старое событие существует новое событие добавляется после него.
+description: Добавить JavaScript для поля кнопки. Если старое событие существует новое событие добавляется после него.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/formeditor/addfieldscript/
 ---
 ## FormEditor.AddFieldScript method
 
-Добавить JavaScript для поля PushButton. Если старое событие существует, новое событие добавляется после него.
+Добавить JavaScript для поля кнопки. Если старое событие существует, новое событие добавляется после него.
 
 ```csharp
 public bool AddFieldScript(string fieldName, string script)
@@ -17,7 +17,7 @@ public bool AddFieldScript(string fieldName, string script)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fieldName | String | Полное имя поля. |
-| script | String | Java-скрипт, который будет добавлен/помещен в поле кнопки. |
+| script | String | Java-скрипт, который нужно добавить/поместить в поле кнопки. |
 
 ### Возвращаемое значение
 

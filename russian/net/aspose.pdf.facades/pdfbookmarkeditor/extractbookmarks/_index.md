@@ -1,14 +1,14 @@
 ---
 title: ExtractBookmarks
 second_title: Aspose.PDF для справочника API .NET
-description: Извлекает из документа закладки всех уровней.
+description: Извлекает закладки всех уровней из документа.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
 ---
 ## ExtractBookmarks() {#extractbookmarks}
 
-Извлекает из документа закладки всех уровней.
+Извлекает закладки всех уровней из документа.
 
 ```csharp
 public Bookmarks ExtractBookmarks()
@@ -16,7 +16,7 @@ public Bookmarks ExtractBookmarks()
 
 ### Возвращаемое значение
 
-Коллекция закладок всех существующих в документе закладок.
+Коллекция закладок всех закладок, существующих в документе.
 
 ### Примеры
 
@@ -39,7 +39,7 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(bool) {#extractbookmarks_2}
 
-Извлекает из документа закладки всех уровней.
+Извлекает закладки всех уровней из документа.
 
 ```csharp
 public Bookmarks ExtractBookmarks(bool upperLevel)
@@ -72,7 +72,7 @@ public Bookmarks ExtractBookmarks(string title)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | String | Извлечено название элемента. |
+| title | String | Извлеченное название элемента. |
 
 ### Возвращаемое значение
 
@@ -107,7 +107,7 @@ public Bookmarks ExtractBookmarks(Bookmark bookmark)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bookmark | Bookmark | Указанный bookamrk. |
+| bookmark | Bookmark | Указанный букамрк. |
 
 ### Возвращаемое значение
 

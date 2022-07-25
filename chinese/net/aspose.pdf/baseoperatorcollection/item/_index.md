@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 通过索引获取操作符
+description: 通过索引获取运算符
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/baseoperatorcollection/item/
 ---
 ## BaseOperatorCollection indexer
 
-通过索引获取操作符。
+通过索引获取运算符。
 
 ```csharp
 public abstract Operator this[int index] { get; set; }

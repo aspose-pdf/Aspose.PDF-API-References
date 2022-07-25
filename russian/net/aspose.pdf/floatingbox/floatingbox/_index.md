@@ -1,14 +1,14 @@
 ---
 title: FloatingBox
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаFloatingBoxaspose.pdf/floatingboxс указанной шириной и высотой.
+description: Инициализирует новый экземплярFloatingBoxaspose.pdf/floatingbox класс с указанной шириной и высотой.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/floatingbox/floatingbox/
 ---
 ## FloatingBox(float, float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FloatingBox`](../../floatingbox)с указанной шириной и высотой.
+Инициализирует новый экземпляр[`FloatingBox`](../../floatingbox) класс с указанной шириной и высотой.
 
 ```csharp
 public FloatingBox(float width, float height)
@@ -16,8 +16,8 @@ public FloatingBox(float width, float height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Single | Ширина блока. |
-| height | Single | Высота ящика. |
+| width | Single | Ширина коробки. |
+| height | Single | Высота коробки. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public FloatingBox(float width, float height)
 
 ## FloatingBox() {#constructor}
 
-Инициализирует новый экземпляр класса[`FloatingBox`](../../floatingbox).
+Инициализирует новый экземпляр[`FloatingBox`](../../floatingbox) класс.
 
 ```csharp
 public FloatingBox()

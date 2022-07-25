@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает цвет текста заголовка этого элемента структуры.
+description: Получает или задает цвет текста заголовка этого элемента схемы.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/outlineitemcollection/color/
 ---
 ## OutlineItemCollection.Color property
 
-Получает или задает цвет текста заголовка этого элемента структуры.
+Получает или задает цвет текста заголовка этого элемента схемы.
 
 ```csharp
 public Color Color { get; set; }

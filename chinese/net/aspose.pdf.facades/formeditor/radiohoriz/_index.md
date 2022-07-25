@@ -1,14 +1,14 @@
 ---
 title: RadioHoriz
 second_title: Aspose.PDF for .NET API 参考
-description: 无线电是水平排列还是垂直排列的标志默认值为true
+description: 指示无线电是水平排列还是垂直排列的标志默认值为true
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
 ## FormEditor.RadioHoriz property
 
-无线电是水平排列还是垂直排列的标志，默认值为true。
+指示无线电是水平排列还是垂直排列的标志，默认值为true。
 
 ```csharp
 public bool RadioHoriz { get; set; }

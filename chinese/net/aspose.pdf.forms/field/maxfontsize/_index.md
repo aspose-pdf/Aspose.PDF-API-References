@@ -1,14 +1,14 @@
 ---
 title: MaxFontSize
 second_title: Aspose.PDF for .NET API 参考
-description: Maximail 字体大小可用于字段内容 -1 不检查大小
+description: 可用于字段内容的Maximail 字体大小 -1 不检查大小
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.forms/field/maxfontsize/
 ---
 ## Field.MaxFontSize property
 
-Maximail 字体大小，可用于字段内容。 -1 不检查大小。
+可用于字段内容的Maximail 字体大小。 -1 不检查大小。
 
 ```csharp
 public static double MaxFontSize { get; set; }

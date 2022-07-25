@@ -1,14 +1,14 @@
 ---
 title: TextEditOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本编辑选项当请求的符号不能用字体书写时这些选项定义了特殊行为
+description: 获取或设置文本编辑选项当请求的符号不能用字体写入时选项定义特殊行为
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/texteditoptions/
 ---
 ## TextFragmentAbsorber.TextEditOptions property
 
-获取或设置文本编辑选项。当请求的符号不能用字体书写时，这些选项定义了特殊行为。
+获取或设置文本编辑选项。当请求的符号不能用字体写入时，选项定义特殊行为。
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TextStamp
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTextStampaspose.pdf/textstamp.
+description: Инициализирует новый экземплярTextStampaspose.pdf/textstamp класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/textstamp/textstamp/
 ---
 ## TextStamp(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`TextStamp`](../../textstamp).
+Инициализирует новый экземпляр[`TextStamp`](../../textstamp) класс.
 
 ```csharp
 public TextStamp(string value)
@@ -16,7 +16,7 @@ public TextStamp(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Отметить значение. |
+| value | String | Значение штампа. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public TextStamp(string value)
 
 ## TextStamp(string, TextState) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`TextStamp`](../../textstamp).
+Инициализирует новый экземпляр[`TextStamp`](../../textstamp) класс.
 
 ```csharp
 public TextStamp(string value, TextState textState)
@@ -36,8 +36,8 @@ public TextStamp(string value, TextState textState)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Штамп значения. |
-| textState | TextState | Штамп состояния текста. |
+| value | String | Стоимость штампа. |
+| textState | TextState | Состояние текста штампа. |
 
 ### Смотрите также
 
@@ -50,7 +50,7 @@ public TextStamp(string value, TextState textState)
 
 ## TextStamp(FormattedText) {#constructor}
 
-Инициализирует новый экземпляр класса[`TextStamp`](../../textstamp)с объектом formattedText
+Инициализирует новый экземпляр[`TextStamp`](../../textstamp) класс с форматированным текстом object
 
 ```csharp
 public TextStamp(FormattedText formattedText)

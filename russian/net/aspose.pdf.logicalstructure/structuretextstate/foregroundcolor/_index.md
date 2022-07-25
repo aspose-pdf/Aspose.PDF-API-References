@@ -1,14 +1,14 @@
 ---
 title: ForegroundColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает основной цвет текста.
+description: Получает или задает цвет текста переднего плана.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/
 ---
 ## StructureTextState.ForegroundColor property
 
-Получает или устанавливает основной цвет текста.
+Получает или задает цвет текста переднего плана.
 
 ```csharp
 public Color ForegroundColor { get; set; }
@@ -16,7 +16,7 @@ public Color ForegroundColor { get; set; }
 
 ### Примечания
 
-Может быть нулевым. Используйте null для наследования свойства` ForegroundColor` от родительского элемента структуры.
+Может быть нулевым. Используйте null для наследования`Цвет переднего плана` свойство из родительского элемента структуры.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: SetNumberValue
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает номер значения.
+description: Задает номер значения.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setnumbervalue/
 ---
 ## StructureAttribute.SetNumberValue method
 
-Устанавливает номер значения.
+Задает номер значения.
 
 ```csharp
 public void SetNumberValue(double number)
@@ -16,7 +16,7 @@ public void SetNumberValue(double number)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| number | Double | Значение Число. |
+| number | Double | Номер значения. |
 
 ### Смотрите также
 

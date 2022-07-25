@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API 参考
-description: 如果集合包含给定运算符则返回 true
+description: 如果集合包含给定的运算符则返回 true
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/operatorcollection/contains/
 ---
 ## OperatorCollection.Contains method
 
-如果集合包含给定运算符，则返回 true。
+如果集合包含给定的运算符，则返回 true。
 
 ```csharp
 public override bool Contains(Operator op)

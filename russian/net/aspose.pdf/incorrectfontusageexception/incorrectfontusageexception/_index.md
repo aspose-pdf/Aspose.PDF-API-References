@@ -1,14 +1,14 @@
 ---
 title: IncorrectFontUsageException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаIncorrectFontUsageExceptionaspose.pdf/incorrectfontusageexception.
+description: Инициализирует новый экземплярIncorrectFontUsageExceptionaspose.pdf/incorrectfontusageexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/incorrectfontusageexception/incorrectfontusageexception/
 ---
 ## IncorrectFontUsageException(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`IncorrectFontUsageException`](../../incorrectfontusageexception).
+Инициализирует новый экземпляр[`IncorrectFontUsageException`](../../incorrectfontusageexception) класс.
 
 ```csharp
 public IncorrectFontUsageException(string message)
@@ -28,7 +28,7 @@ public IncorrectFontUsageException(string message)
 
 ## IncorrectFontUsageException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`IncorrectFontUsageException`](../../incorrectfontusageexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`IncorrectFontUsageException`](../../incorrectfontusageexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public IncorrectFontUsageException(string message, Exception innerException)
@@ -49,7 +49,7 @@ public IncorrectFontUsageException(string message, Exception innerException)
 
 ## IncorrectFontUsageException(Exception) {#constructor}
 
-Инициализирует новый экземпляр класса[`IncorrectFontUsageException`](../../incorrectfontusageexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`IncorrectFontUsageException`](../../incorrectfontusageexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public IncorrectFontUsageException(Exception innerException)
@@ -57,7 +57,7 @@ public IncorrectFontUsageException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

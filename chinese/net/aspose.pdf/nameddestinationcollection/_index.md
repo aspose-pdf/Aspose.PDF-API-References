@@ -1,14 +1,14 @@
 ---
 title: NamedDestinationCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 类表示所有目的地的集合将名称字符串映射到目的地的名称树见 12.3.2.3命名目的地和见 7.7.4名称字典 在 pdf 文档中
+description: 类表示 pdf 文档中所有目的地的集合将名称字符串映射到目的地的名称树参见 12.3.2.3命名目的地和参见 7.7.4名称字典
 type: docs
 weight: 4810
 url: /zh/net/aspose.pdf/nameddestinationcollection/
 ---
 ## NamedDestinationCollection class
 
-类表示所有目的地的集合（将名称字符串映射到目的地的名称树（见 12.3.2.3，“命名目的地”）和（见 7.7.4，“名称字典")) 在 pdf 文档中。
+类表示 pdf 文档中所有目的地的集合（将名称字符串映射到目的地的名称树（参见 12.3.2.3，“命名目的地”）和（参见 7.7.4，“名称字典”））。
 
 ```csharp
 public class NamedDestinationCollection : INamedDestinationCollection
@@ -19,7 +19,7 @@ public class NamedDestinationCollection : INamedDestinationCollection
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.pdf/nameddestinationcollection/count) { get; } | 命名目的地的计数。 |
-| [Item](../../aspose.pdf/nameddestinationcollection/item) { get; set; } | 按名称获取或设置约会。 |
+| [Item](../../aspose.pdf/nameddestinationcollection/item) { get; set; } | 按其名称获取或设置约会。 |
 | [Names](../../aspose.pdf/nameddestinationcollection/names) { get; } | 目的地名称列表。 |
 
 ## 方法

@@ -27,16 +27,16 @@ public abstract class BaseOperatorCollection : ICollection<Operator>
 
 | Имя | Описание |
 | --- | --- |
-| abstract [Add](../../aspose.pdf/baseoperatorcollection/add)(Operator) | Добавляет новый оператор в коллекцию. |
+| abstract [Add](../../aspose.pdf/baseoperatorcollection/add)(Operator) | Добавляет в коллекцию нового оператора. |
 | abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate)() | Отменяет последнее обновление. Этот метод может быть вызван, когда изменение не должно вызывать обновление содержимого. |
 | abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear)() | Очищает коллекцию. |
-| abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains)(Operator) | Проверяет, существует ли оператор в коллекции. |
-| abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto)(Operator[], int) | Копирует операторы в список операторов. |
-| abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator)() | Возвращает перечислитель для коллекции |
+| abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains)(Operator) | Проверяет наличие оператора в коллекции. |
+| abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto)(Operator[], int) | Копирует операторов в список операторов. |
+| abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator)() | Возвращает перечислитель для collection |
 | abstract [Insert](../../aspose.pdf/baseoperatorcollection/insert)(int, Operator) | Вставляет оператор в коллекцию. |
 | abstract [Remove](../../aspose.pdf/baseoperatorcollection/remove)(Operator) | Удаляет оператора из коллекции. |
-| abstract [ResumeUpdate](../../aspose.pdf/baseoperatorcollection/resumeupdate)() | Возобновление обновления документа. Обновляет поток содержимого в случае наличия ожидающих изменений. |
-| abstract [SuppressUpdate](../../aspose.pdf/baseoperatorcollection/suppressupdate)() | Подавляет данные обновления содержимого. Поток содержимого не обновляется до вызова ResumeUpdate. |
+| abstract [ResumeUpdate](../../aspose.pdf/baseoperatorcollection/resumeupdate)() | Возобновляет обновление документа. Обновляет поток содержимого при наличии ожидающих изменений. |
+| abstract [SuppressUpdate](../../aspose.pdf/baseoperatorcollection/suppressupdate)() | Подавляет данные обновления содержимого. Поток содержимого не обновляется до тех пор, пока не будет вызвано ResumeUpdate. |
 
 ### Смотрите также
 

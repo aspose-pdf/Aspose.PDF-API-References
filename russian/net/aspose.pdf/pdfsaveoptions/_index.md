@@ -24,8 +24,8 @@ public class PdfSaveOptions : SaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения документа в ответ. |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname) { get; set; } | Имя шрифта, используемое по умолчанию для шрифтов, отсутствующих на компьютере. Когда документ PDF, сохраненный в формате PDF, содержит шрифты, недоступные в самом документе и на устройстве, API заменяет эти шрифты на шрифт по умолчанию (если на устройстве найден шрифт с[`DefaultFontName`](./defaultfontname)) |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения документа в response. |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname) { get; set; } | Имя шрифта, используемое по умолчанию для шрифтов, отсутствующих на компьютере. Когда документ PDF, сохраненный в формате PDF, содержит шрифты, недоступные в самом документе и на устройстве, API заменяет эти шрифты шрифтом по умолчанию (если шрифт с[`DefaultFontName`](./defaultfontname) находится на устройстве) |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Формат сохранения данных. |
 | [TempPath](../../aspose.pdf/pdfsaveoptions/temppath) { get; set; } | Путь для временных файлов. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Продолжить, либо Прервать. Продолжить — это действие по умолчанию, и операция сохранения продолжается, однако пользователь может также вернуть команду Прервать, и в этом случае операция сохранения должна быть прекращена. |

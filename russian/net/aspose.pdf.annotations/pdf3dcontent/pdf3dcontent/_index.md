@@ -1,14 +1,14 @@
 ---
 title: PDF3DContent
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DContentaspose.pdf.annotations/pdf3dcontent.
+description: Инициализирует новый экземплярPDF3DContentaspose.pdf.annotations/pdf3dcontent класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
 ---
 ## PDF3DContent() {#constructor}
 
-Инициализирует новый экземпляр класса[`PDF3DContent`](../../pdf3dcontent).
+Инициализирует новый экземпляр[`PDF3DContent`](../../pdf3dcontent) класс.
 
 ```csharp
 public PDF3DContent()
@@ -24,7 +24,7 @@ public PDF3DContent()
 
 ## PDF3DContent(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PDF3DContent`](../../pdf3dcontent).
+Инициализирует новый экземпляр[`PDF3DContent`](../../pdf3dcontent) класс.
 
 ```csharp
 public PDF3DContent(string filename)
@@ -32,13 +32,13 @@ public PDF3DContent(string filename)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя_файла | String | Имя файла. |
+| filename | String | Имя файла. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Неизвестный тип 3D-объекта |
+| ArgumentException | Неизвестный тип 3D-графики |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: DP
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор DP обозначенный отмеченный пункт содержимого.
+description: Класс представляющий оператор DP обозначает помеченную точку содержимого.
 type: docs
 weight: 5050
 url: /ru/net/aspose.pdf.operators/dp/
 ---
 ## DP class
 
-Класс, представляющий оператор DP (обозначенный отмеченный пункт содержимого).
+Класс, представляющий оператор DP (обозначает помеченную точку содержимого).
 
 ```csharp
 public class DP : Operator
@@ -25,13 +25,13 @@ public class DP : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Tag](../../aspose.pdf.operators/dp/tag) { get; set; } | Получает или устанавливает тег отмеченного содержимого |
+| [Tag](../../aspose.pdf.operators/dp/tag) { get; set; } | Получает или задает отмеченный тег содержимого |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/dp/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/dp/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/dp/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

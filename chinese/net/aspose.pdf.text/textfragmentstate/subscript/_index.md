@@ -1,14 +1,14 @@
 ---
 title: Subscript
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的下标由TextFragmentaspose.pdf.text/textfragment对象表示
+description: 获取或设置文本的下标由TextFragmentaspose.pdf.text/textfragment对象.
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.text/textfragmentstate/subscript/
 ---
 ## TextFragmentState.Subscript property
 
-获取或设置文本的下标，由[`TextFragment`](../../textfragment)对象表示。
+获取或设置文本的下标，由[`TextFragment`](../../textfragment)对象.
 
 ```csharp
 public override bool Subscript { get; set; }

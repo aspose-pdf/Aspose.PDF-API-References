@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Aspose.PDF for .NET API 参考
-description: 获取字典的键如果外观字典有子字典则Keysaspose.pdf.annotations/appearancedictionary/keys包含 Nx7CRx7CD.state 值 其中 N - 正常外观 R - 翻转外观D - 向下外观和 state - 状态名称 例如复选框的 OnOff
+description: 获取字典的键如果外观字典有子字典那么Keysaspose.pdf.annotations/appearancedictionary/keys包含 Nx7CRx7CD.state 值 其中 N - 正常外观R - 翻转外观D - 向下外观和 state - 状态的名称 例如复选框的 OnOff
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/keys/
 ---
 ## AppearanceDictionary.Keys property
 
-获取字典的键。如果外观字典有子字典，则`Keys`包含 (N&#x7C;R&#x7C;D).state 值， 其中 N - 正常外观, R - 翻转外观，D - 向下外观和 state - 状态名称 （例如，复选框的 On、Off）。
+获取字典的键。如果外观字典有子字典，那么`Keys`包含 (N&#x7C;R&#x7C;D).state 值， 其中 N - 正常外观，R - 翻转外观，D - 向下外观和 state - 状态的名称 （例如复选框的 On、Off）。
 
 ```csharp
 public ICollection<string> Keys { get; }

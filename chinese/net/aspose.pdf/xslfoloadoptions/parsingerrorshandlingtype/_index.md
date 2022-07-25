@@ -1,14 +1,14 @@
 ---
 title: ParsingErrorsHandlingType
 second_title: Aspose.PDF for .NET API 参考
-description: 源 XSLFO 文档可能包含格式错误此枚举列举了处理该错误的可能策略
+description: 源 XSLFO 文档可能包含格式错误这个枚举列举了错误处理的可能策略
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/
 ---
 ## XslFoLoadOptions.ParsingErrorsHandlingType field
 
-源 XSLFO 文档可能包含格式错误。此枚举列举了处理该错误的可能策略
+源 XSLFO 文档可能包含格式错误。这个枚举列举了错误处理的可能策略
 
 ```csharp
 public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;

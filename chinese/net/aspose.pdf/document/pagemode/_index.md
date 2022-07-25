@@ -1,14 +1,14 @@
 ---
 title: PageMode
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置页面模式指定文档打开时应如何显示
+description: 获取或设置页面模式指定文档在打开时应如何显示
 type: docs
 weight: 440
 url: /zh/net/aspose.pdf/document/pagemode/
 ---
 ## Document.PageMode property
 
-获取或设置页面模式，指定文档打开时应如何显示。
+获取或设置页面模式，指定文档在打开时应如何显示。
 
 ```csharp
 public PageMode PageMode { get; set; }

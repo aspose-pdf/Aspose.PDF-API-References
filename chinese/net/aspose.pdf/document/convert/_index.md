@@ -121,14 +121,14 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | String | 存储注释的文件路径。 |
-| format | PdfFormat | pdf 格式。 |
+| outputLogFileName | String | 将存储评论的文件路径。 |
+| format | PdfFormat | pdf格式。 |
 | action | ConvertErrorAction | 无法转换的对象的操作 |
 | transparencyAction | ConvertTransparencyAction | 图像蒙版对象的操作 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -153,13 +153,13 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputLogStream | Stream | 将存储评论的流。 |
-| format | PdfFormat | pdf 格式。 |
+| format | PdfFormat | pdf格式。 |
 | action | ConvertErrorAction | 无法转换的对象的操作 |
 | transparencyAction | ConvertTransparencyAction | 图像蒙版对象的操作 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -182,13 +182,13 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | String | 存储注释的文件路径。 |
-| format | PdfFormat | pdf 格式。 |
-| action | ConvertErrorAction | 无法转换的对象的动作 |
+| outputLogFileName | String | 将存储评论的文件路径。 |
+| format | PdfFormat | pdf格式。 |
+| action | ConvertErrorAction | 无法转换的对象的操作 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -210,11 +210,11 @@ public bool Convert(PdfFormatConversionOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | 选项集转换PDF文档 |
+| options | PdfFormatConversionOptions | 用于转换 PDF 文档的选项集 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -235,11 +235,11 @@ public bool Convert(CallBackGetHocr callback)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| callback | CallBackGetHocr | 对无法转换的对象的操作 |
+| callback | CallBackGetHocr | 无法转换的对象的操作 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -261,12 +261,12 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | outputLogStream | Stream | 将存储评论的流。 |
-| format | PdfFormat | Pdf 格式。 |
-| action | ConvertErrorAction | 无法转换的对象的动作 |
+| format | PdfFormat | pdf格式。 |
+| action | ConvertErrorAction | 无法转换的对象的操作 |
 
 ### 返回值
 
-运算结果
+运行结果
 
 ### 也可以看看
 
@@ -280,7 +280,7 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 ## Convert(Fixup, Stream, bool, object[]) {#convert}
 
-通过应用修复转换文档。
+通过应用 Fixup 转换文档。
 
 ```csharp
 public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
@@ -291,12 +291,12 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
 | --- | --- | --- |
 | fixup | Fixup | 修复类型。 |
 | outputLog | Stream | 进程日志。 |
-| onlyValidation | Boolean | 仅文档验证。 |
+| onlyValidation | Boolean | 仅文件验证。 |
 | parameters | Object[] | 无法设置的 Fixup 属性。 |
 
 ### 返回值
 
-运算结果。
+操作结果。
 
 ### 也可以看看
 
@@ -309,7 +309,7 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
 
 ## Convert(Fixup, string, bool, object[]) {#convert_1}
 
-通过应用修复转换文档。
+通过应用 Fixup 转换文档。
 
 ```csharp
 public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
@@ -320,12 +320,12 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
 | --- | --- | --- |
 | fixup | Fixup | 修复类型。 |
 | outputLog | String | 进程日志。 |
-| onlyValidation | Boolean | 仅文档验证。 |
+| onlyValidation | Boolean | 仅文件验证。 |
 | parameters | Object[] | 无法设置的 Fixup 属性。 |
 
 ### 返回值
 
-运算结果。
+操作结果。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Last
 second_title: Aspose.PDF для справочника API .NET
-description: Получает элемент структуры представляющий последний элемент верхнего уровня в иерархии структуры.
+description: Получает элемент схемы представляющий последний элемент верхнего уровня в иерархии структуры.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/outlineitemcollection/last/
 ---
 ## OutlineItemCollection.Last property
 
-Получает элемент структуры, представляющий последний элемент верхнего уровня в иерархии структуры.
+Получает элемент схемы, представляющий последний элемент верхнего уровня в иерархии структуры.
 
 ```csharp
 public OutlineItemCollection Last { get; }

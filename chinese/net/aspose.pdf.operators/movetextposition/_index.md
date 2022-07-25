@@ -18,7 +18,7 @@ public class MoveTextPosition : TextPlaceOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MoveTextPosition](movetextposition)(double, double) | 初始化运算符。 |
+| [MoveTextPosition](movetextposition)(double, double) | 初始化操作符。 |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public class MoveTextPosition : TextPlaceOperator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/movetextposition/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/movetextposition/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/movetextposition/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

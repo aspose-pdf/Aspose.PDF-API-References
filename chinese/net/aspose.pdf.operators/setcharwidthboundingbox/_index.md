@@ -1,14 +1,14 @@
 ---
 title: SetCharWidthBoundingBox
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 d1 运算符的类设置字形和边界框
+description: 代表 d1 运算符的类设置字形和边界框
 type: docs
 weight: 5370
 url: /zh/net/aspose.pdf.operators/setcharwidthboundingbox/
 ---
 ## SetCharWidthBoundingBox class
 
-表示 d1 运算符的类（设置字形和边界框）。
+代表 d1 运算符的类（设置字形和边界框）。
 
 ```csharp
 public class SetCharWidthBoundingBox : Operator
@@ -31,7 +31,7 @@ public class SetCharWidthBoundingBox : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

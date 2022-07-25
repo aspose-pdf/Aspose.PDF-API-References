@@ -24,7 +24,7 @@ public AnnotationSelector()
 
 ## AnnotationSelector(Annotation) {#constructor_1}
 
-初始化新的[`AnnotationSelector`](../../annotationselector)对象。
+初始化新的[`AnnotationSelector`](../../annotationselector)对象.
 
 ```csharp
 public AnnotationSelector(Annotation annotation)
@@ -32,7 +32,7 @@ public AnnotationSelector(Annotation annotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 要选择的注解。 这个对象只描述了我们希望找到的注解具有的一些特征，例如注解的类型。 |
+| annotation | Annotation | 要选择的注释。 这个对象只描述了我们希望找到的注解具有的一些特征，例如注解的类型。 |
 
 ### 也可以看看
 

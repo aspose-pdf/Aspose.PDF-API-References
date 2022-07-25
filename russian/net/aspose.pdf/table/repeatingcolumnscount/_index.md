@@ -1,14 +1,14 @@
 ---
 title: RepeatingColumnsCount
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает максимальное количество столбцов для таблицы
+description: Получает или задает максимальное количество столбцов для table
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/table/repeatingcolumnscount/
 ---
 ## Table.RepeatingColumnsCount property
 
-Получает или задает максимальное количество столбцов для таблицы
+Получает или задает максимальное количество столбцов для table
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }

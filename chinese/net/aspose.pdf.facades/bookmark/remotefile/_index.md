@@ -1,14 +1,14 @@
 ---
 title: RemoteFile
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置书签GoToR动作所需的文件路径
+description: 获取或设置书签的GoToR操作所需的文件路径
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.facades/bookmark/remotefile/
 ---
 ## Bookmark.RemoteFile property
 
-获取或设置书签“GoToR”动作所需的文件（路径）。
+获取或设置书签的“GoToR”操作所需的文件（路径）。
 
 ```csharp
 public string RemoteFile { get; set; }

@@ -17,7 +17,7 @@ public static void ReadAnnotations(Stream stream, Document document)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 包含 XFDF 文件的源流。 |
-| document | Document | 将添加注释的文档。 |
+| document | Document | 将在其中添加注释的文档。 |
 
 ### 也可以看看
 

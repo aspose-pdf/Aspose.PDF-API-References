@@ -16,7 +16,7 @@ public Rectangle ArtBox { get; set; }
 
 ### 例子
 
-示例演示如何获取页面的艺术框:
+示例演示如何获取页面的艺术框：
 
 ```csharp
 Document document = new Document("sample.pdf");

@@ -28,8 +28,8 @@ public sealed class Rectangle : ICloneable
 | [Height](../../aspose.pdf/rectangle/height) { get; } | Высота прямоугольника. |
 | [IsEmpty](../../aspose.pdf/rectangle/isempty) { get; } | Проверяет, пуст ли прямоугольник. |
 | [IsPoint](../../aspose.pdf/rectangle/ispoint) { get; } | Проверяет, является ли прямоугольник точкой, т.е. LLX равен URX, а LLY равен URY. |
-| [IsTrivial](../../aspose.pdf/rectangle/istrivial) { get; } | Проверяет, является ли прямоугольник тривиальным, т.е. имеет нулевой размер и позицию. |
-| [LLX](../../aspose.pdf/rectangle/llx) { get; set; } | X-координата нижнего - левого угла. |
+| [IsTrivial](../../aspose.pdf/rectangle/istrivial) { get; } | Проверяет, является ли прямоугольник тривиальным, т.е. имеет нулевой размер и положение. |
+| [LLX](../../aspose.pdf/rectangle/llx) { get; set; } | X-координата нижнего левого угла. |
 | [LLY](../../aspose.pdf/rectangle/lly) { get; set; } | Y - координата левого нижнего угла. |
 | [URX](../../aspose.pdf/rectangle/urx) { get; set; } | X - координата правого верхнего угла. |
 | [URY](../../aspose.pdf/rectangle/ury) { get; set; } | Y - координата правого верхнего угла. |
@@ -39,18 +39,18 @@ public sealed class Rectangle : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| static [FromRect](../../aspose.pdf/rectangle/fromrect)(Rectangle) | Инициализирует новый прямоугольник из заданного экземпляра System.Drawing.Rectangle. |
+| static [FromRect](../../aspose.pdf/rectangle/fromrect)(Rectangle) | Инициализирует новый прямоугольник из данного экземпляра System.Drawing.Rectangle. |
 | static [Parse](../../aspose.pdf/rectangle/parse)(string) | Попробуйте разобрать строку и извлечь из нее компоненты прямоугольника llx, lly, urx, ury. |
 | [Center](../../aspose.pdf/rectangle/center)() | Возвращает координаты центра прямоугольника. |
 | [Clone](../../aspose.pdf/rectangle/clone)() | Клонирует объект Rectangle. |
 | [Contains](../../aspose.pdf/rectangle/contains)(Point) | Определяет, находится ли заданная точка внутри прямоугольника. |
-| [Equals](../../aspose.pdf/rectangle/equals#equals)(Rectangle) | Проверяет, равны ли прямоугольники, т.е. имеют ли они одинаковое положение и размеры. |
+| [Equals](../../aspose.pdf/rectangle/equals#equals)(Rectangle) | Проверить, равны ли прямоугольники, т.е. имеют ли они одинаковое положение и размеры. |
 | [Intersect](../../aspose.pdf/rectangle/intersect)(Rectangle) | Пересекается с прямоугольниками. |
 | [IsIntersect](../../aspose.pdf/rectangle/isintersect)(Rectangle) | Определяет, пересекается ли этот прямоугольник с другим прямоугольником. |
 | [Join](../../aspose.pdf/rectangle/join)(Rectangle) | Соединяет прямоугольники. |
-| [NearEquals](../../aspose.pdf/rectangle/nearequals)(Rectangle, double) | Проверяет, что прямоугольники почти равны, т.е. имеют примерно одинаковое (с точностью до дельты) положение и размеры. |
-| [Rotate](../../aspose.pdf/rectangle/rotate#rotate_1)(int) | Повернуть прямоугольник на заданный угол. |
-| [Rotate](../../aspose.pdf/rectangle/rotate#rotate)(Rotation) | Повернуть прямоугольник на заданный угол. |
+| [NearEquals](../../aspose.pdf/rectangle/nearequals)(Rectangle, double) | Проверить, что прямоугольники почти равны, т.е. имеют почти одинаковое (с точностью до дельты) положение и размеры. |
+| [Rotate](../../aspose.pdf/rectangle/rotate#rotate_1)(int) | Повернуть прямоугольник на указанный угол. |
+| [Rotate](../../aspose.pdf/rectangle/rotate#rotate)(Rotation) | Повернуть прямоугольник на указанный угол. |
 | [ToPoints](../../aspose.pdf/rectangle/topoints)() | Преобразует прямоугольник в массив точек ("QuadPoints"). |
 | [ToRect](../../aspose.pdf/rectangle/torect)() | Преобразует прямоугольник в экземпляр System.Drawing.Rectangle. Позиции и размер с плавающей запятой усекаются. |
 | override [ToString](../../aspose.pdf/rectangle/tostring)() | Получает строковое представление прямоугольника. |

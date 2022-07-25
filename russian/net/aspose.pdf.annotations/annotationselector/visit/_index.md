@@ -1,14 +1,14 @@
 ---
 title: Visit
 second_title: Aspose.PDF для справочника API .NET
-description: Выбрать аннотацию ссылки если AnnotationSelector был инициализирован объектом LinkAnnotation.
+description: Выбрать аннотацию ссылки если AnnotationSelector был инициализирован с помощью объекта LinkAnnotation.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/annotationselector/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_7}
 
-Выбрать аннотацию ссылки, если AnnotationSelector был инициализирован объектом LinkAnnotation.
+Выбрать аннотацию ссылки, если AnnotationSelector был инициализирован с помощью объекта LinkAnnotation.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -29,7 +29,7 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_2}
 
-Выбрать аннотацию вложения, если AnnotationSelector был инициализирован объектом FileAttachmentAnnotation.
+Выбрать аннотацию вложения, если AnnotationSelector был инициализирован с помощью объекта FileAttachmentAnnotation.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -37,7 +37,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation Объект для выбора. |
+| attachment | FileAttachmentAnnotation | Объект FileAttachmentAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -71,7 +71,7 @@ public void Visit(TextAnnotation text)
 
 ## Visit(RedactionAnnotation) {#visit_13}
 
-Выбрать редактируемую аннотацию, если AnnotationSelector был инициализирован объектом RedactAnnotation.
+Выберите редактируемую аннотацию, если AnnotationSelector был инициализирован объектом RedactAnnotation.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
@@ -79,7 +79,7 @@ public void Visit(RedactionAnnotation redact)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| redact | RedactionAnnotation | RedactОбъект аннотации для выбора. |
+| redact | RedactionAnnotation | Объект RedactAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -113,7 +113,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_4}
 
-Выбрать аннотацию вложения, если AnnotationSelector был инициализирован объектом FreeTextAnnotation.
+Выберите аннотацию вложения, если AnnotationSelector был инициализирован объектом FreeTextAnnotation.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -134,7 +134,7 @@ public void Visit(HighlightAnnotation highlight)
 
 ## Visit(UnderlineAnnotation) {#visit_21}
 
-Выбрать аннотацию подчеркивания, если AnnotationSelector был инициализирован объектом UnderlineAnnotation.
+Выберите подчеркивание аннотации, если AnnotationSelector был инициализирован с помощью объекта UnderlineAnnotation.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
@@ -142,7 +142,7 @@ public void Visit(UnderlineAnnotation underline)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineАннотация объекта для выбора. |
+| underline | UnderlineAnnotation | Объект UnderlineAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -155,7 +155,7 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_19}
 
-Выбрать аннотацию strikeOut, если AnnotationSelector был инициализирован объектом StrikeOutAnnotation.
+Выбрать аннотацию strikeOut, если AnnotationSelector был инициализирован с помощью объекта StrikeOutAnnotation.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -163,7 +163,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation объект для выбора. |
+| strikeOut | StrikeOutAnnotation | Объект StrikeOutAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -184,7 +184,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyОбъект аннотации для выбора. |
+| squiggly | SquigglyAnnotation | Объект SquigglyAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -197,7 +197,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_12}
 
-Выбрать всплывающую аннотацию, если AnnotationSelector был инициализирован объектом PopupAnnotation.
+Выберите всплывающую аннотацию, если AnnotationSelector был инициализирован с помощью объекта PopupAnnotation.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -218,7 +218,7 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_6}
 
-Выбрать аннотацию строки, если AnnotationSelector был инициализирован объектом LineAnnotation.
+Выбрать аннотацию линии, если AnnotationSelector был инициализирован объектом LineAnnotation.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -239,7 +239,7 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_1}
 
-Выбрать круговую аннотацию, если AnnotationSelector был инициализирован объектом CircleAnnotation.
+Выберите круговую аннотацию, если AnnotationSelector был инициализирован объектом CircleAnnotation.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -247,7 +247,7 @@ public void Visit(CircleAnnotation circle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation объект для выбора. |
+| circle | CircleAnnotation | Объект CircleAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -281,7 +281,7 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_5}
 
-Выбрать рукописную аннотацию, если AnnotationSelector был инициализирован объектом InkAnnotation.
+Выберите рукописную аннотацию, если AnnotationSelector был инициализирован с помощью объекта InkAnnotation.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -289,7 +289,7 @@ public void Visit(InkAnnotation ink)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation Объект для выбора. |
+| ink | InkAnnotation | Объект InkAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -302,7 +302,7 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_11}
 
-Выбрать аннотацию полилинии, если AnnotationSelector был инициализирован объектом PolylineAnnotation.
+Выбрать аннотацию полилинии, если AnnotationSelector был инициализирован с помощью объекта PolylineAnnotation.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -310,7 +310,7 @@ public void Visit(PolylineAnnotation polyline)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineАннотация объекта для выбора. |
+| polyline | PolylineAnnotation | Объект PolylineAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -323,7 +323,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_10}
 
-Выбрать аннотацию полигона, если AnnotationSelector был инициализирован объектом PolygonAnnotation.
+Выбрать аннотацию многоугольника, если AnnotationSelector был инициализирован объектом PolygonAnnotation.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -331,7 +331,7 @@ public void Visit(PolygonAnnotation polygon)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation Объект для выбора. |
+| polygon | PolygonAnnotation | Объект PolygonAnnotation для выбора. |
 
 ### Смотрите также
 
@@ -365,7 +365,7 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_18}
 
-Выбрать аннотацию штампа, если AnnotationSelector был инициализирован объектом StampAnnotation.
+Выбрать аннотацию штампа, если AnnotationSelector был инициализирован с помощью объекта StampAnnotation.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -415,7 +415,7 @@ public void Visit(WatermarkAnnotation watermark)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | WatermarkАннотация для выбора. |
+| watermark | WatermarkAnnotation | Водяной знакАннотация для выбора. |
 
 ### Смотрите также
 
@@ -457,7 +457,7 @@ public void Visit(RichMediaAnnotation richMedia)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | RichMedia аннотация. |
+| richMedia | RichMediaAnnotation | Аннотация RichMedia. |
 
 ### Смотрите также
 
@@ -499,7 +499,7 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | PDF3DОбъект аннотации для выбора. |
+| pdf3D | PDF3DAnnotation | Объект PDF3DAnnotation для выбора. |
 
 ### Смотрите также
 

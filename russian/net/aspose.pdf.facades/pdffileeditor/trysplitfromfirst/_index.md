@@ -1,14 +1,14 @@
 ---
 title: TrySplitFromFirst
 second_title: Aspose.PDF для справочника API .NET
-description: Разбивает файл Pdf с первой страницы в указанное место и сохраняет лицевую часть как новый файл.
+description: Разбивает файл Pdf с первой страницы в указанное место и сохраняет переднюю часть как новый файл.
 type: docs
 weight: 490
 url: /ru/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
 ## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_2}
 
-Разбивает файл Pdf с первой страницы в указанное место и сохраняет лицевую часть как новый файл.
+Разбивает файл Pdf с первой страницы в указанное место и сохраняет переднюю часть как новый файл.
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
@@ -16,17 +16,17 @@ public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Исходный файл Pdf. |
+| inputFile | String | Исходный PDF-файл. |
 | location | Int32 | Точка разделения. |
-| outputFile | String | Выходной файл Pdf. |
+| outputFile | String | Выходной PDF-файл. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-Метод TrySplitFromFirst подобен методу SplitFromFirst , за исключением того, что метод TrySplitFromFirst не генерирует исключение, если операция не удалась.
+Метод TrySplitFromFirst аналогичен методу SplitFromFirst , за исключением того, что метод TrySplitFromFirst не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -53,17 +53,17 @@ public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный файл Pdf Поток. |
+| inputStream | Stream | Исходный файл Pdf Stream. |
 | location | Int32 | Точка разделения. |
-| outputStream | Stream | Выходной файловый поток. |
+| outputStream | Stream | Выходной файл Поток. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-После этой операции потоки НЕ закрываются. Метод TrySplitFromFirst аналогичен методу SplitFromFirst, за исключением того, что метод TrySplitFromFirst не генерирует исключение в случае сбоя операции.
+Потоки НЕ закрываются после этой операции. Метод TrySplitFromFirst аналогичен методу SplitFromFirst, за исключением того, что метод TrySplitFromFirst не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -84,7 +84,7 @@ pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 
 ## TrySplitFromFirst(string, int, HttpResponse) {#trysplitfromfirst_3}
 
-Разбивает документ с первой страницы на место и сохраняет результат в объектах HttpResponse.
+Разделяет документ с первой страницы на место и сохраняет результат в объектах HttpResponse.
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, HttpResponse response)
@@ -102,7 +102,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TrySplitFromFirst подобен методу SplitFromFirst, за исключением того, что метод TrySplitFromFirst не генерирует исключение, если операция не удалась.
+Метод TrySplitFromFirst подобен методу SplitFromFirst, за исключением того, что метод TrySplitFromFirst не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -132,7 +132,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TrySplitFromFirst подобен методу SplitFromFirst, за исключением того, что метод TrySplitFromFirst не генерирует исключение, если операция не удалась.
+Метод TrySplitFromFirst подобен методу SplitFromFirst, за исключением того, что метод TrySplitFromFirst не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 

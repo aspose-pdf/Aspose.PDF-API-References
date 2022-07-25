@@ -11,15 +11,20 @@ url: /zh/net/aspose.pdf/table/getheight/
 获取高度。
 
 ```csharp
-public double GetHeight()
+public double GetHeight(Page parentPage = null)
 ```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| parentPage | Page | 表的父页面（可选）。 |
 
 ### 返回值
 
-桌面高度
+桌子高度。
 
 ### 也可以看看
 
+* class [Page](../../page)
 * class [Table](../../table)
 * 命名空间 [Aspose.Pdf](../../table)
 * 部件 [Aspose.PDF](../../../)

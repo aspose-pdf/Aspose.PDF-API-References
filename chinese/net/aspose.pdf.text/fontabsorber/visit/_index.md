@@ -18,7 +18,7 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 | --- | --- | --- |
 | pdf | Document | Pdf pocument 对象。 |
 | startPage | Int32 | Pdf pocument 起始页。 |
-| pageCount | Int32 | Pdf 文档页数 |
+| pageCount | Int32 | pdf文档页数 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Artifact.ArtifactSubtype
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисление возможных подтипов артефактов.
+description: Перечисление подтипа возможных артефактов.
 type: docs
 weight: 1320
 url: /ru/net/aspose.pdf/artifact.artifactsubtype/
 ---
 ## Artifact.ArtifactSubtype enumeration
 
-Перечисление возможных подтипов артефактов.
+Перечисление подтипа возможных артефактов.
 
 ```csharp
 public enum ArtifactSubtype

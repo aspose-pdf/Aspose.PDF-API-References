@@ -1,14 +1,14 @@
 ---
 title: WrapMode
 second_title: Aspose.PDF for .NET API 参考
-description: 设置或获取自动换行算法请参阅 WordWrapMode 和 IsWordWrap
+description: 设置或获取自动换行算法请参阅 WordWrapMode 和 IsWordWrap.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdffilemend/wrapmode/
 ---
 ## PdfFileMend.WrapMode property
 
-设置或获取自动换行算法。请参阅 WordWrapMode 和 IsWordWrap。
+设置或获取自动换行算法。请参阅 WordWrapMode 和 IsWordWrap.
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }

@@ -18,15 +18,15 @@ public sealed class FileParams
 
 | Имя | Описание |
 | --- | --- |
-| [FileParams](fileparams)(FileSpecification) | Конструктор класса FileParams. |
+| [FileParams](fileparams)(FileSpecification) | Конструктор для класса FileParams. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CheckSum](../../aspose.pdf/fileparams/checksum) { get; } | 16-байтовая строка, представляющая собой контрольную сумму байтов несжатого встроенного файла. Контрольная сумма вычисляется путем применения стандартного алгоритма дайджеста сообщения MD5 к байтам встроенного файлового потока. |
-| [CreationDate](../../aspose.pdf/fileparams/creationdate) { get; set; } | Дата и время создания внедренного файла. |
-| [ModDate](../../aspose.pdf/fileparams/moddate) { get; set; } | Дата и время последнего изменения внедренного файла. |
+| [CheckSum](../../aspose.pdf/fileparams/checksum) { get; } | 16-байтовая строка, представляющая собой контрольную сумму байтов несжатого встроенного файла. Контрольная сумма вычисляется путем применения стандартного алгоритма дайджеста сообщений MD5 к байтам встроенного файлового потока. |
+| [CreationDate](../../aspose.pdf/fileparams/creationdate) { get; set; } | Дата и время создания встроенного файла. |
+| [ModDate](../../aspose.pdf/fileparams/moddate) { get; set; } | Дата и время последнего изменения встроенного файла. |
 | [Size](../../aspose.pdf/fileparams/size) { get; } | Размер несжатого встроенного файла в байтах. |
 
 ### Смотрите также

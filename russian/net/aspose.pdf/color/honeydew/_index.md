@@ -1,14 +1,14 @@
 ---
 title: Honeydew
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFF0FFF0.
+description: Получает определяемый системой цвет со значением ARGB FFF0FFF0.
 type: docs
 weight: 550
 url: /ru/net/aspose.pdf/color/honeydew/
 ---
 ## Color.Honeydew property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFF0FFF0.
+Получает определяемый системой цвет со значением ARGB #FFF0FFF0.
 
 ```csharp
 public static Color Honeydew { get; }

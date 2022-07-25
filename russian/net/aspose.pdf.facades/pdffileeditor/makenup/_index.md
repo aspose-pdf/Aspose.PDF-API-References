@@ -23,7 +23,7 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -42,7 +42,7 @@ pfe.MakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ## MakeNUp(Stream, Stream, int, int) {#makenup_2}
 
-Создает N-Up документ из входного потока и сохраняет результат в выходной поток.
+Создает документ N-Up из входного потока и сохраняет результат в выходной поток.
 
 ```csharp
 public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
@@ -50,14 +50,14 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной поток pdf. |
-| outputStream | Stream | Вывод pdf-потока. |
+| inputStream | Stream | Входной поток PDF. |
+| outputStream | Stream | Выходной поток PDF. |
 | x | Int32 | Количество столбцов. |
 | y | Int32 | Количество строк. |
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -86,8 +86,8 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageS
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной поток pdf. |
-| outputStream | Stream | Вывод pdf-потока. |
+| inputStream | Stream | Входной поток PDF. |
+| outputStream | Stream | Выходной поток PDF. |
 | x | Int32 | Количество столбцов. |
 | y | Int32 | Количество строк. |
 | pageSize | PageSize | Размер страницы выходного pdf-файла. |
@@ -130,7 +130,7 @@ public bool MakeNUp(string firstInputFile, string secondInputFile, string output
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -159,11 +159,11 @@ public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream ou
 | --- | --- | --- |
 | firstInputStream | Stream | первый входной поток. |
 | secondInputStream | Stream | второй входной поток. |
-| outputStream | Stream | Вывод pdf-потока. |
+| outputStream | Stream | Выходной поток PDF. |
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -193,13 +193,13 @@ public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFiles | String[] | Входные файлы Pdf. |
-| outputFile | String | Путь и имя выходного pdf-файла. |
-| isSidewise | Boolean | Нагроможденный путь, истинный для горизонтали и flase для вертикали. |
+| inputFiles | String[] | Входные PDF-файлы. |
+| outputFile | String | Выходной путь и имя файла PDF. |
+| isSidewise | Boolean | Нагроможденный путь, верный для горизонтали и ложный для вертикали. |
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -224,14 +224,15 @@ pfe.MakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.p
 public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 ```
 
-| Параметр | Описание |
-| --- | --- |
-| inputStreams | Входные потоки Pdf. |
-| outputStream | Вывод pdf-потока.  Сложенный путь, true для горизонтального и flase для вертикального |
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStreams | Stream[] | Входные потоки Pdf. |
+| outputStream | Stream | Выходной pdf-поток. |
+| isSidewise | Boolean | Нагроможденный путь, верный для горизонтали и ложный для вертикали. |
 
 ### Возвращаемое значение
 
-boolean — True в случае успеха или false.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -254,7 +255,7 @@ pfe.MakeNUp(new Stream[] { stream1, stream2, stream3 }, output, false);
 
 ## MakeNUp(string, string, int, int, PageSize) {#makenup_9}
 
-Создает N-Up документ из входного файла в outputFile.
+Создает документ N-Up из входного файла в outputFile.
 
 ```csharp
 public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize pageSize)
@@ -270,7 +271,7 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize 
 
 ### Возвращаемое значение
 
-boolean - Истинно в случае успеха или ложно.
+boolean - True для успеха или false.
 
 ### Примеры
 
@@ -299,8 +300,8 @@ public bool MakeNUp(Stream inputStream, int x, int y, PageSize pageSize, HttpRes
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Поток исходного документа. |
-| x | Int32 | Количество столбцов. |
-| y | Int32 | Количество строк. |
+| x | Int32 | Число столбцов. |
+| y | Int32 | Количество рядов. |
 | pageSize | PageSize | Размер страницы в файле результатов. |
 | response | HttpResponse | Объект HttpResponse, в котором будет храниться результат. |
 
@@ -328,8 +329,8 @@ public bool MakeNUp(string inputFile, int x, int y, PageSize pageSize, HttpRespo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Путь к исходному файлу. |
-| x | Int32 | Количество столбцов. |
-| y | Int32 | Количество строк. |
+| x | Int32 | Число столбцов. |
+| y | Int32 | Количество рядов. |
 | pageSize | PageSize | Размер страницы в файле результатов. |
 | response | HttpResponse | Объект HttpResponse, в котором будет храниться результат. |
 
@@ -357,8 +358,8 @@ public bool MakeNUp(string inputFile, int x, int y, HttpResponse response)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Имя исходного файла. |
-| x | Int32 | Количество столбцов. |
-| y | Int32 | Количество строк. |
+| x | Int32 | Число столбцов. |
+| y | Int32 | Количество рядов. |
 | response | HttpResponse | Объект HttpResponse, в котором будет храниться результат. |
 
 ### Возвращаемое значение
@@ -384,9 +385,9 @@ public bool MakeNUp(Stream inputStream, int x, int y, HttpResponse response)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Поток входного документа. |
-| x | Int32 | Количество столбцов. |
-| y | Int32 | Количество строк. |
-| response | HttpResponse | HttpResponse, где будет сохранен результат. |
+| x | Int32 | Число столбцов. |
+| y | Int32 | Количество рядов. |
+| response | HttpResponse | HttpResponse, где будет храниться результат. |
 
 ### Возвращаемое значение
 

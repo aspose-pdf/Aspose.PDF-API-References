@@ -1,14 +1,14 @@
 ---
 title: Point3D
 second_title: Aspose.PDF for .NET API 参考
-description: 用小数坐标表示点
+description: 用分数坐标表示点
 type: docs
 weight: 6130
 url: /zh/net/aspose.pdf/point3d/
 ---
 ## Point3D class
 
-用小数坐标表示点。
+用分数坐标表示点。
 
 ```csharp
 public sealed class Point3D
@@ -18,13 +18,13 @@ public sealed class Point3D
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Point3D](point3d)(double, double, double) | 初始化[`Point3D`](../point3d)的新实例。 |
+| [Point3D](point3d)(double, double, double) | 初始化[`Point3D`](../point3d). |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/point3d/trivial) { get; } | 获取零坐标的点。 |
+| static [Trivial](../../aspose.pdf/point3d/trivial) { get; } | 获取零坐标点。 |
 | [X](../../aspose.pdf/point3d/x) { get; set; } | X 坐标值。 |
 | [Y](../../aspose.pdf/point3d/y) { get; set; } | Y 坐标值。 |
 | [Z](../../aspose.pdf/point3d/z) { get; set; } | Z 坐标值。 |

@@ -20,7 +20,7 @@ public static string ScalingReasonToName(ScalingReason reason)
 
 ### 返回值
 
-缩放原因的名称。
+缩放推理的名称。
 
 ### 也可以看看
 

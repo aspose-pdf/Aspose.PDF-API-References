@@ -1,14 +1,14 @@
 ---
 title: HasField
 second_title: Aspose.PDF for .NET API 参考
-description: 检查表单是否已经有指定字段
+description: 检查表单是否已指定字段
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf.forms/form/hasfield/
 ---
 ## HasField(Field) {#hasfield}
 
-检查表单是否已经有指定字段。
+检查表单是否已指定字段。
 
 ```csharp
 public bool HasField(Field field)
@@ -20,7 +20,7 @@ public bool HasField(Field field)
 
 ### 返回值
 
-` true` 如果指定的字段名称添加到表单；否则，` false` 。
+`真的`如果指定的字段名称添加到Form；否则，`错误的`.
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public bool HasField(string fieldName)
 
 ### 返回值
 
-` true` 如果指定的字段名称添加到表单；否则，` false` 。
+`真的`如果指定的字段名称添加到Form；否则，`错误的`.
 
 ### 也可以看看
 

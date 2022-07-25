@@ -1,14 +1,14 @@
 ---
 title: Keywords
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置PDF文档的关键词信息
+description: 获取或设置PDF文档的关键字信息
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdffileinfo/keywords/
 ---
 ## PdfFileInfo.Keywords property
 
-获取或设置PDF文档的关键词信息。
+获取或设置PDF文档的关键字信息。
 
 ```csharp
 public string Keywords { get; set; }

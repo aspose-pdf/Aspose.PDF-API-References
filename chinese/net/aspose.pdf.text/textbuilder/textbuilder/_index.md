@@ -1,14 +1,14 @@
 ---
 title: TextBuilder
 second_title: Aspose.PDF for .NET API 参考
-description: 为 Pdf 页面初始化TextBuilderaspose.pdf.text/textbuilder类的新实例
+description: 初始化一个新的实例TextBuilderaspose.pdf.text/textbuilder Pdf 页面的类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textbuilder/textbuilder/
 ---
 ## TextBuilder(Page) {#constructor}
 
-为 Pdf 页面初始化[`TextBuilder`](../../textbuilder)类的新实例。
+初始化一个新的实例[`TextBuilder`](../../textbuilder) Pdf 页面的类.
 
 ```csharp
 public TextBuilder(Page page)
@@ -33,7 +33,7 @@ TextBuilder 允许将文本对象附加到 Pdf 页面。
 
 ## TextBuilder(Page, BaseOperatorCollection) {#constructor_1}
 
-为 Pdf 页面初始化[`TextBuilder`](../../textbuilder)类的新实例。
+初始化一个新的实例[`TextBuilder`](../../textbuilder) Pdf 页面的类.
 
 ```csharp
 public TextBuilder(Page page, BaseOperatorCollection operatorCollection)

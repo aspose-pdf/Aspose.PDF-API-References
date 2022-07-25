@@ -1,14 +1,14 @@
 ---
 title: IllustrationElements
 second_title: Aspose.PDF for .NET API 参考
-description: 插图元素是紧凑的内容序列按页面内容顺序排列在页面布局方面被视为单一对象插图可以被视为 BLSE 或 ILSE
+description: 插图元素是紧凑的内容序列按页面内容顺序排列在页面布局方面被视为单一对象插图可以被视为 BLSE 或 ILSE.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/
 ---
 ## StructureTypeCategory.IllustrationElements field
 
-插图元素是紧凑的内容序列，按页面内容顺序排列，在页面布局方面被视为单一对象。插图可以被视为 BLSE 或 ILSE。
+插图元素是紧凑的内容序列，按页面内容顺序排列，在页面布局方面被视为单一对象。插图可以被视为 BLSE 或 ILSE.
 
 ```csharp
 public static readonly StructureTypeCategory IllustrationElements;

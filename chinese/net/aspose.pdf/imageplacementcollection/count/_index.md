@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 获取集合中实际包含的ImagePlacementaspose.pdf/imageplacement对象元素的数量
+description: 获取数量ImagePlacementaspose.pdf/imageplacement集合中实际包含的对象元素
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/imageplacementcollection/count/
 ---
 ## ImagePlacementCollection.Count property
 
-获取集合中实际包含的[`ImagePlacement`](../../imageplacement)对象元素的数量。
+获取数量[`ImagePlacement`](../../imageplacement)集合中实际包含的对象元素。
 
 ```csharp
 public int Count { get; }

@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: Aspose.PDF для справочника API .NET
-description: Статус импорта полей.
+description: Статус импорта поля.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/form.formimportresult/status/
 ---
 ## Form.FormImportResult.Status property
 
-Статус импорта полей.
+Статус импорта поля.
 
 ```csharp
 public ImportStatus Status { get; }

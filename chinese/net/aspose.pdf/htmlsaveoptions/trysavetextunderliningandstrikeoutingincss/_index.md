@@ -1,14 +1,14 @@
 ---
 title: TrySaveTextUnderliningAndStrikeoutingInCss
 second_title: Aspose.PDF for .NET API 参考
-description: PDF 本身不包含文本的下划线标记它模拟了位于文本下方的行 此选项允许转换器尝试猜测这一行或那一行是文本的下划线 并将此信息放入 CSS 中而不是以图形方式绘制下划线
+description: PDF 本身不包含文本的下划线标记它使用位于 text. 下的行进行模拟
 type: docs
 weight: 420
 url: /zh/net/aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss/
 ---
 ## HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss field
 
-PDF 本身不包含文本的下划线标记。它模拟了位于文本下方的行。 此选项允许转换器尝试猜测这一行或那一行是文本的下划线 并将此信息放入 CSS 中，而不是以图形方式绘制下划线
+PDF 本身不包含文本的下划线标记。它使用位于 text. 下的行进行模拟
 
 ```csharp
 public bool TrySaveTextUnderliningAndStrikeoutingInCss;

@@ -1,14 +1,14 @@
 ---
 title: HasNextImage
 second_title: Aspose.PDF для справочника API .NET
-description: Указывает есть ли в pdf-файле больше изображений или нет.
+description: Указывает есть ли в файле PDF больше изображений или нет.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/pdfconverter/hasnextimage/
 ---
 ## PdfConverter.HasNextImage method
 
-Указывает, есть ли в pdf-файле больше изображений или нет.
+Указывает, есть ли в файле PDF больше изображений или нет.
 
 ```csharp
 public bool HasNextImage()
@@ -16,7 +16,7 @@ public bool HasNextImage()
 
 ### Возвращаемое значение
 
-Может получить больше изображений или нет, true, если может, или false.
+Может получить больше изображений или нет, правда, если может, или ложь.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: NonSpecificationCases
 second_title: Aspose.PDF for .NET API 参考
-description: 当源文档 不符合 PDF/A 规范时持有标志以控制 PDF/A 转换过程
+description: 在源文档 不符合 PDF/A 规范的情况下持有标志以控制 PDF/A 转换过程
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/nonspecificationcases/
 ---
 ## PdfFormatConversionOptions.NonSpecificationCases property
 
-当源文档 不符合 PDF/A 规范时，持有标志以控制 PDF/A 转换过程。
+在源文档 不符合 PDF/A 规范的情况下持有标志以控制 PDF/A 转换过程。
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationCases { get; }

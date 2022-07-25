@@ -16,7 +16,7 @@ public Rectangle Join(Rectangle otherRect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| otherRect | Rectangle | 此重新编排连接的矩形。 |
+| otherRect | Rectangle | 此重新编排连接到的矩形。 |
 
 ### 返回值
 

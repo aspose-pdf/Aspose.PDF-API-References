@@ -1,14 +1,14 @@
 ---
 title: PKCS7Detached
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PKCS7Detachedaspose.pdf.forms/pkcs7detached类的新实例
+description: 初始化PKCS7Detachedaspose.pdf.forms/pkcs7detached类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
 ---
 ## PKCS7Detached(Stream) {#constructor_1}
 
-初始化[`PKCS7Detached`](../../pkcs7detached)类的新实例。
+初始化[`PKCS7Detached`](../../pkcs7detached)类.
 
 ```csharp
 public PKCS7Detached(Stream image)
@@ -28,7 +28,7 @@ public PKCS7Detached(Stream image)
 
 ## PKCS7Detached() {#constructor}
 
-初始化[`PKCS7Detached`](../../pkcs7detached)类的新实例。
+初始化[`PKCS7Detached`](../../pkcs7detached)类.
 
 ```csharp
 public PKCS7Detached()
@@ -44,7 +44,7 @@ public PKCS7Detached()
 
 ## PKCS7Detached(string, string) {#constructor_3}
 
-初始化[`PKCS7Detached`](../../pkcs7detached)类的新实例。
+初始化[`PKCS7Detached`](../../pkcs7detached)类.
 
 ```csharp
 public PKCS7Detached(string pfx, string password)
@@ -52,7 +52,7 @@ public PKCS7Detached(string pfx, string password)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pfx | String | Pfx 文件，其中包含用于签名的证书。 |
+| pfx | String | 包含签名证书的 Pfx 文件。 |
 | password | String | 访问证书中私钥的密码。 |
 
 ### 也可以看看
@@ -65,7 +65,7 @@ public PKCS7Detached(string pfx, string password)
 
 ## PKCS7Detached(Stream, string) {#constructor_2}
 
-初始化[`PKCS7Detached`](../../pkcs7detached)类的新实例。
+初始化[`PKCS7Detached`](../../pkcs7detached)类.
 
 ```csharp
 public PKCS7Detached(Stream pfx, string password)
@@ -73,7 +73,7 @@ public PKCS7Detached(Stream pfx, string password)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pfx | Stream | 将证书数据组织为 pfx 的流。 |
+| pfx | Stream | 以 pfx. 形式组织的证书数据流 |
 | password | String | 访问证书中私钥的密码。 |
 
 ### 也可以看看

@@ -18,10 +18,10 @@ public class OptimizedMemoryStream : Stream
 
 | Имя | Описание |
 | --- | --- |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor)() | Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../optimizedmemorystream). |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../optimizedmemorystream)на основе указанного массива байтов. |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor_2)(int) | Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../optimizedmemorystream). |
-| [OptimizedMemoryStream](optimizedmemorystream#constructor_3)(int, byte[]) | Инициализирует новый экземпляр класса[`OptimizedMemoryStream`](../optimizedmemorystream)на основе указанного массива байтов. |
+| [OptimizedMemoryStream](optimizedmemorystream#constructor)() | Инициализирует новый экземпляр[`OptimizedMemoryStream`](../optimizedmemorystream) класс. |
+| [OptimizedMemoryStream](optimizedmemorystream#constructor_1)(byte[]) | Инициализирует новый экземпляр[`OptimizedMemoryStream`](../optimizedmemorystream) класс на основе указанного массива байтов. |
+| [OptimizedMemoryStream](optimizedmemorystream#constructor_2)(int) | Инициализирует новый экземпляр[`OptimizedMemoryStream`](../optimizedmemorystream) класс. |
+| [OptimizedMemoryStream](optimizedmemorystream#constructor_3)(int, byte[]) | Инициализирует новый экземпляр[`OptimizedMemoryStream`](../optimizedmemorystream) класс на основе указанного массива байтов. |
 
 ## Характеристики
 

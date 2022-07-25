@@ -1,14 +1,14 @@
 ---
 title: MP
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор MP определение точки маркированного содержимого.
+description: Класс представляющий оператора MP определить точку помеченного содержимого.
 type: docs
 weight: 5230
 url: /ru/net/aspose.pdf.operators/mp/
 ---
 ## MP class
 
-Класс, представляющий оператор MP (определение точки маркированного содержимого).
+Класс, представляющий оператора MP (определить точку помеченного содержимого).
 
 ```csharp
 public class MP : Operator
@@ -25,13 +25,13 @@ public class MP : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Tag](../../aspose.pdf.operators/mp/tag) { get; set; } | Получает или устанавливает тег отмеченного содержимого |
+| [Tag](../../aspose.pdf.operators/mp/tag) { get; set; } | Получает или задает отмеченный тег содержимого |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/mp/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/mp/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

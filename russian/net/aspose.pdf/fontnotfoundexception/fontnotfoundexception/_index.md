@@ -1,14 +1,14 @@
 ---
 title: FontNotFoundException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаFontNotFoundExceptionaspose.pdf/fontnotfoundexception.
+description: Инициализирует новый экземплярFontNotFoundExceptionaspose.pdf/fontnotfoundexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/fontnotfoundexception/fontnotfoundexception/
 ---
 ## FontNotFoundException(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FontNotFoundException`](../../fontnotfoundexception).
+Инициализирует новый экземпляр[`FontNotFoundException`](../../fontnotfoundexception) класс.
 
 ```csharp
 public FontNotFoundException(string message)
@@ -28,7 +28,7 @@ public FontNotFoundException(string message)
 
 ## FontNotFoundException(string, Exception) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`FontNotFoundException`](../../fontnotfoundexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`FontNotFoundException`](../../fontnotfoundexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public FontNotFoundException(string message, Exception innerException)
@@ -49,7 +49,7 @@ public FontNotFoundException(string message, Exception innerException)
 
 ## FontNotFoundException(Exception) {#constructor}
 
-Инициализирует новый экземпляр класса[`FontNotFoundException`](../../fontnotfoundexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`FontNotFoundException`](../../fontnotfoundexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public FontNotFoundException(Exception innerException)
@@ -57,7 +57,7 @@ public FontNotFoundException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

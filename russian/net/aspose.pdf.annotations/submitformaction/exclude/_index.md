@@ -1,14 +1,14 @@
 ---
 title: Exclude
 second_title: Aspose.PDF для справочника API .NET
-description: Если этот параметр не установлен массив Fields указывает какие поля включать в отправку.
+description: Если флажок не установлен массив Fields указывает какие поля следует включить в отправку.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/submitformaction/exclude/
 ---
 ## SubmitFormAction.Exclude field
 
-Если этот параметр не установлен, массив Fields указывает, какие поля включать в отправку.
+Если флажок не установлен, массив Fields указывает, какие поля следует включить в отправку.
 
 ```csharp
 public const int Exclude;

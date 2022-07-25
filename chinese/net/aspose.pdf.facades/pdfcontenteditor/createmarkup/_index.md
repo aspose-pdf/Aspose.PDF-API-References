@@ -19,7 +19,7 @@ public void CreateMarkup(Rectangle rect, string contents, int type, int page, Co
 | rect | Rectangle | 定义页面上注释位置的矩形。 |
 | contents | String | 注释的内容。 |
 | type | Int32 | 标记注释的类型。可以是 0（突出显示）、1（下划线）、2（删除线）、3（波浪线）。 |
-| page | Int32 | 将创建注释的原始页数。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | clr | Color | 标记的颜色。 |
 
 ### 例子

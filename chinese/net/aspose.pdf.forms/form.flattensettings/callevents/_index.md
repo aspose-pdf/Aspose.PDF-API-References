@@ -1,14 +1,14 @@
 ---
 title: CallEvents
 second_title: Aspose.PDF for .NET API 参考
-description: 如果设置格式化和其他 JavaScript 事件将被调用默认为真
+description: 如果设置将调用格式化和其他 JavaScript 事件默认为真
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/form.flattensettings/callevents/
 ---
 ## Form.FlattenSettings.CallEvents property
 
-如果设置，格式化和其他 JavaScript 事件将被调用。默认为真。
+如果设置，将调用格式化和其他 JavaScript 事件。默认为真。
 
 ```csharp
 public bool CallEvents { get; set; }

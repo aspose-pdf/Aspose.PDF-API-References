@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: Aspose.PDF for .NET API 参考
-description: 从input流初始化新的 Document 实例
+description: 从input流.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/document/document/
 ---
 ## Document(Stream) {#constructor_1}
 
-从*input*流初始化新的 Document 实例。
+从*input*流.
 
 ```csharp
 public Document(Stream input)
@@ -16,7 +16,7 @@ public Document(Stream input)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 流与 pdf 文档。 |
+| input | Stream | 使用 pdf 文档进行流式传输。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public Document(Stream input)
 
 ## Document(Stream, string, bool) {#constructor_5}
 
-从*input*流初始化新的 Document 实例。
+从*input*流.
 
 ```csharp
 public Document(Stream input, string password, bool isManagedStream)
@@ -36,9 +36,9 @@ public Document(Stream input, string password, bool isManagedStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 流与 pdf 文档。 |
+| input | Stream | 使用 pdf 文档进行流式传输。 |
 | password | String | 用户或所有者密码。 |
-| isManagedStream | Boolean | 如果设置为` true` 在退出前关闭内部流；否则，不是。 |
+| isManagedStream | Boolean | 如果设置为`真的`退出前关闭内部流；否则，不是。 |
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public Document(Stream input, string password, bool isManagedStream)
 
 ## Document(Stream, bool) {#constructor_3}
 
-从*input*流初始化新的 Document 实例。
+从*input*流.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
@@ -58,8 +58,8 @@ public Document(Stream input, bool isManagedStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 流与 pdf 文档。 |
-| isManagedStream | Boolean | 如果设置为` true` 在退出前关闭内部流；否则，不是。 |
+| input | Stream | 使用 pdf 文档进行流式传输。 |
+| isManagedStream | Boolean | 如果设置为`真的`退出前关闭内部流；否则，不是。 |
 
 ### 也可以看看
 
@@ -71,7 +71,7 @@ public Document(Stream input, bool isManagedStream)
 
 ## Document(string) {#constructor_6}
 
-只需使用*filename*初始化文档。与[`Document`](../document)相同。
+只需使用初始化文件*filename*.一样[`Document`](../document).
 
 ```csharp
 public Document(string filename)
@@ -91,7 +91,7 @@ public Document(string filename)
 
 ## Document(Stream, string) {#constructor_4}
 
-从*input*流初始化新的 Document 实例。
+从*input*流.
 
 ```csharp
 public Document(Stream input, string password)
@@ -136,8 +136,8 @@ public Document(string filename, LoadOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filename | String | 输入文件转换成pdf文件。 |
-| options | LoadOptions | 表示将*filename*转换为 pdf 文档的属性。 |
+| filename | String | 输入要转换成pdf文件的文件。 |
+| options | LoadOptions | 表示用于转换的属性*filename*成pdf文档. |
 
 ### 也可以看看
 
@@ -158,8 +158,8 @@ public Document(Stream input, LoadOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 输入流转换成pdf文档。 |
-| options | LoadOptions | 表示将*input*转换为 pdf 文档的属性。 |
+| input | Stream | 输入流转换成 pdf 文档。 |
+| options | LoadOptions | 表示用于转换的属性*input*成pdf文档. |
 
 ### 也可以看看
 
@@ -172,7 +172,7 @@ public Document(Stream input, LoadOptions options)
 
 ## Document(string, string) {#constructor_8}
 
-初始化[`Document`](../../document)类的新实例，用于处理加密文档。
+初始化[`Document`](../../document)用于处理加密文档的类。
 
 ```csharp
 public Document(string filename, string password)
@@ -193,7 +193,7 @@ public Document(string filename, string password)
 
 ## Document(string, string, bool) {#constructor_9}
 
-初始化[`Document`](../../document)类的新实例，用于处理加密文档。
+初始化[`Document`](../../document)用于处理加密文档的类。
 
 ```csharp
 public Document(string filename, string password, bool isManagedStream)
@@ -203,7 +203,7 @@ public Document(string filename, string password, bool isManagedStream)
 | --- | --- | --- |
 | filename | String | 文档文件名。 |
 | password | String | 用户或所有者密码。 |
-| isManagedStream | Boolean | 如果设置为` true` 在退出前关闭内部流；否则，不是。 |
+| isManagedStream | Boolean | 如果设置为`真的`退出前关闭内部流；否则，不是。 |
 
 ### 也可以看看
 

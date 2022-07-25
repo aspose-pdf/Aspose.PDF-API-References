@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: 返回集合枚举数
+description: 返回集合枚举器
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/embeddedfilecollection/getenumerator/
 ---
 ## EmbeddedFileCollection.GetEnumerator method
 
-返回集合枚举数。
+返回集合枚举器。
 
 ```csharp
 public IEnumerator<FileSpecification> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<FileSpecification> GetEnumerator()
 
 ### 返回值
 
-集合的枚举数。
+colleciton 的枚举器。
 
 ### 也可以看看
 

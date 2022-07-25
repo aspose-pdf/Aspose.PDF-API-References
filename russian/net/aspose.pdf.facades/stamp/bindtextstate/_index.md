@@ -16,7 +16,7 @@ public void BindTextState(TextState textState)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| textState | TextState | TextState Объект, определяющий свойства текста. |
+| textState | TextState | Объект TextState, определяющий свойства текста. |
 
 ### Смотрите также
 

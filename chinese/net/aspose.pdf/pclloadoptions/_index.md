@@ -24,9 +24,9 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize) { get; set; } | 如果批量转换适用，则定义批量大小 到源和目标格式对。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize) { get; set; } | 如果批量转换适用，则定义批量大小 到源格式和目标格式对。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ## 字段
 

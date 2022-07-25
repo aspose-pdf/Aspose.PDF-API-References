@@ -1,14 +1,14 @@
 ---
 title: Scope_Both
 second_title: Aspose.PDF для справочника API .NET
-description: Область действия атрибутаОба.
+description: Область действия атрибута Оба.
 type: docs
 weight: 520
 url: /ru/net/aspose.pdf.logicalstructure/attributename/scope_both/
 ---
 ## AttributeName.Scope_Both field
 
-Область действия атрибута:Оба.
+Область действия атрибута: Оба.
 
 ```csharp
 public static readonly AttributeName Scope_Both;

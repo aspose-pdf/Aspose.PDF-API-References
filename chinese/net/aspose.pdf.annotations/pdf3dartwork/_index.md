@@ -1,14 +1,14 @@
 ---
 title: PDF3DArtwork
 second_title: Aspose.PDF for .NET API 参考
-description: PDF3DArtwork 类
+description: 类 PDF3DArtwork.
 type: docs
 weight: 780
 url: /zh/net/aspose.pdf.annotations/pdf3dartwork/
 ---
 ## PDF3DArtwork class
 
-PDF3DArtwork 类。
+类 PDF3DArtwork.
 
 ```csharp
 public class PDF3DArtwork
@@ -18,14 +18,14 @@ public class PDF3DArtwork
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PDF3DArtwork](pdf3dartwork#constructor)(Document, PDF3DContent) | 初始化[`PDF3DArtwork`](../pdf3dartwork)类的新实例。 |
-| [PDF3DArtwork](pdf3dartwork#constructor_1)(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) | 初始化[`PDF3DArtwork`](../pdf3dartwork)类的新实例。 |
+| [PDF3DArtwork](pdf3dartwork#constructor)(Document, PDF3DContent) | 初始化[`PDF3DArtwork`](../pdf3dartwork)类. |
+| [PDF3DArtwork](pdf3dartwork#constructor_1)(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) | 初始化[`PDF3DArtwork`](../pdf3dartwork)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme) { get; set; } | 获取或设置照明方案。 |
+| [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme) { get; set; } | 获取或设置光照方案。 |
 | [RenderMode](../../aspose.pdf.annotations/pdf3dartwork/rendermode) { get; set; } | 获取或设置渲染模式。 |
 | [ViewArray](../../aspose.pdf.annotations/pdf3dartwork/viewarray) { get; } | 获取视图数组。 |
 
@@ -34,7 +34,7 @@ public class PDF3DArtwork
 | 姓名 | 描述 |
 | --- | --- |
 | [GetViewsArray](../../aspose.pdf.annotations/pdf3dartwork/getviewsarray)() | 获取视图数组。 |
-| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist)() | 获取视图作为列表。 |
+| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist)() | 以列表形式获取视图。 |
 
 ### 也可以看看
 

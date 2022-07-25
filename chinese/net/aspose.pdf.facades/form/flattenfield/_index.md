@@ -1,14 +1,14 @@
 ---
 title: FlattenField
 second_title: Aspose.PDF for .NET API 参考
-description: 使用完全限定的字段名称展平指定的字段 任何其他字段将保持不变如果 fieldName 无效 所有字段将保持不变
+description: 使用完全限定的字段名称展平指定字段 任何其他字段将保持不变如果 fieldName 无效 所有字段将保持不变
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/form/flattenfield/
 ---
 ## Form.FlattenField method
 
-使用完全限定的字段名称展平指定的字段。 任何其他字段将保持不变。如果 fieldName 无效， 所有字段将保持不变。
+使用完全限定的字段名称展平指定字段。 任何其他字段将保持不变。如果 fieldName 无效， 所有字段将保持不变。
 
 ```csharp
 public void FlattenField(string fieldName)

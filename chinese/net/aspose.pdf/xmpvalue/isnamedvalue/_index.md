@@ -1,14 +1,14 @@
 ---
 title: IsNamedValue
 second_title: Aspose.PDF for .NET API 参考
-description: 如果 XmpValue 被命名为值则返回 true
+description: 如果 XmpValue 被命名为 value则返回 true
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/xmpvalue/isnamedvalue/
 ---
 ## XmpValue.IsNamedValue property
 
-如果 XmpValue 被命名为值，则返回 true。
+如果 XmpValue 被命名为 value，则返回 true。
 
 ```csharp
 public bool IsNamedValue { get; }

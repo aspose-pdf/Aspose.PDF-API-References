@@ -1,14 +1,14 @@
 ---
 title: INamedDestinationCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 命名目的地集合
+description: 命名目的地的集合
 type: docs
 weight: 3640
 url: /zh/net/aspose.pdf/inameddestinationcollection/
 ---
 ## INamedDestinationCollection interface
 
-命名目的地集合。
+命名目的地的集合。
 
 ```csharp
 public interface INamedDestinationCollection
@@ -19,7 +19,7 @@ public interface INamedDestinationCollection
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.pdf/inameddestinationcollection/count) { get; } | 返回目的地的计数。 |
-| [Item](../../aspose.pdf/inameddestinationcollection/item) { get; set; } | 通过名称获取或设置目的地。 |
+| [Item](../../aspose.pdf/inameddestinationcollection/item) { get; set; } | 按名称获取或设置目的地。 |
 | [Names](../../aspose.pdf/inameddestinationcollection/names) { get; } | 获取目的地名称数组。 |
 
 ## 方法

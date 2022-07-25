@@ -1,14 +1,14 @@
 ---
 title: JavascriptAction
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий действие javascript.
+description: Класс представляющий действие JavaScript.
 type: docs
 weight: 550
 url: /ru/net/aspose.pdf.annotations/javascriptaction/
 ---
 ## JavascriptAction class
 
-Класс, представляющий действие javascript.
+Класс, представляющий действие JavaScript.
 
 ```csharp
 public sealed class JavascriptAction : PdfAction

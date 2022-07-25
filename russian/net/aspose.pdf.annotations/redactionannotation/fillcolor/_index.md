@@ -1,14 +1,14 @@
 ---
 title: FillColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает цвет для заполнения аннотации.
+description: Получает или задает цвет для заливки аннотации.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/redactionannotation/fillcolor/
 ---
 ## RedactionAnnotation.FillColor property
 
-Получает или задает цвет для заполнения аннотации.
+Получает или задает цвет для заливки аннотации.
 
 ```csharp
 public Color FillColor { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Destinations
 second_title: Aspose.PDF for .NET API 参考
-description: 获取目的地的集合 已过时请使用 NamedDestinations
+description: 获取目的地的集合 已过时请使用 NamedDestinations.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/document/destinations/
 ---
 ## Document.Destinations property
 
-获取目的地的集合。 已过时。请使用 NamedDestinations。
+获取目的地的集合。 已过时。请使用 NamedDestinations.
 
 ```csharp
 public DestinationCollection Destinations { get; }

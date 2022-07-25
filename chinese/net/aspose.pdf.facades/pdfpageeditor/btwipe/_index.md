@@ -1,14 +1,14 @@
 ---
 title: BTWIPE
 second_title: Aspose.PDF for .NET API 参考
-description: 自下而上擦除
+description: 自下而上擦拭
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
 ## PdfPageEditor.BTWIPE field
 
-自下而上擦除
+自下而上擦拭
 
 ```csharp
 public const int BTWIPE;

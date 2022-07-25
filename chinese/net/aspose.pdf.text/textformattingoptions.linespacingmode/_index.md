@@ -18,8 +18,8 @@ public enum LineSpacingMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| FontSize | `0` | 行距是字体大小 |
-| FullSize | `1` | 行距是下行和上行之间的完整空间 |
+| FontSize | `0` | 行距为字体大小 |
+| FullSize | `1` | 行距是下降器和上升器之间的完整空间 |
 
 ### 也可以看看
 

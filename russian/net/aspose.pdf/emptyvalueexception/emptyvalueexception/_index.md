@@ -1,14 +1,14 @@
 ---
 title: EmptyValueException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаEmptyValueExceptionaspose.pdf/emptyvalueexception.
+description: Инициализирует новый экземплярEmptyValueExceptionaspose.pdf/emptyvalueexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
 ---
 ## EmptyValueException() {#constructor}
 
-Инициализирует новый экземпляр класса[`EmptyValueException`](../../emptyvalueexception).
+Инициализирует новый экземпляр[`EmptyValueException`](../../emptyvalueexception) класс.
 
 ```csharp
 public EmptyValueException()

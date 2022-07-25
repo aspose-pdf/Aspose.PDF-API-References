@@ -1,14 +1,14 @@
 ---
 title: AppendChild
 second_title: Aspose.PDF for .NET API 参考
-description: 附加Element到子集合
+description: 追加Element收集儿童
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
 ## Element.AppendChild method
 
-附加Element到子集合。
+追加Element收集儿童。
 
 ```csharp
 public Element AppendChild(Element element)

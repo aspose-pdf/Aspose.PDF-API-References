@@ -1,14 +1,14 @@
 ---
 title: RenderMode
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает режим визуализации.
+description: Получает или задает режим рендеринга представления.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/pdf3dview/rendermode/
 ---
 ## PDF3DView.RenderMode property
 
-Получает или задает режим визуализации.
+Получает или задает режим рендеринга представления.
 
 ```csharp
 public PDF3DRenderMode RenderMode { get; set; }
@@ -16,7 +16,7 @@ public PDF3DRenderMode RenderMode { get; set; }
 
 ### Стоимость имущества
 
-Режим отображения.
+Рендерный режим просмотра.
 
 ### Смотрите также
 

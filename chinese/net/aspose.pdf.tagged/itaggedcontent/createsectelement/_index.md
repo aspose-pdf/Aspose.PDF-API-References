@@ -1,14 +1,14 @@
 ---
 title: CreateSectElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建SectElementaspose.pdf.logicalstructure/sectelement
+description: 创建SectElementaspose.pdf.logicalstructure/sectelement.
 type: docs
 weight: 260
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
 ## ITaggedContent.CreateSectElement method
 
-创建[`SectElement`](../../../aspose.pdf.logicalstructure/sectelement)。
+创建[`SectElement`](../../../aspose.pdf.logicalstructure/sectelement).
 
 ```csharp
 public SectElement CreateSectElement()
@@ -16,7 +16,7 @@ public SectElement CreateSectElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

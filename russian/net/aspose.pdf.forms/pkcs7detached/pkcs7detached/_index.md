@@ -1,14 +1,14 @@
 ---
 title: PKCS7Detached
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPKCS7Detachedaspose.pdf.forms/pkcs7detached.
+description: Инициализирует новый экземплярPKCS7Detachedaspose.pdf.forms/pkcs7detached класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
 ---
 ## PKCS7Detached(Stream) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PKCS7Detached`](../../pkcs7detached).
+Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
 
 ```csharp
 public PKCS7Detached(Stream image)
@@ -28,7 +28,7 @@ public PKCS7Detached(Stream image)
 
 ## PKCS7Detached() {#constructor}
 
-Инициализирует новый экземпляр класса[`PKCS7Detached`](../../pkcs7detached).
+Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
 
 ```csharp
 public PKCS7Detached()
@@ -44,7 +44,7 @@ public PKCS7Detached()
 
 ## PKCS7Detached(string, string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`PKCS7Detached`](../../pkcs7detached).
+Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
 
 ```csharp
 public PKCS7Detached(string pfx, string password)
@@ -52,8 +52,8 @@ public PKCS7Detached(string pfx, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
-| пароль | String | Пароль для доступа к закрытому ключу в сертификате. |
+| pfx | String | Pfx-файл, содержащий сертификат для подписи. |
+| password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public PKCS7Detached(string pfx, string password)
 
 ## PKCS7Detached(Stream, string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PKCS7Detached`](../../pkcs7detached).
+Инициализирует новый экземпляр[`PKCS7Detached`](../../pkcs7detached) класс.
 
 ```csharp
 public PKCS7Detached(Stream pfx, string password)
@@ -74,7 +74,7 @@ public PKCS7Detached(Stream pfx, string password)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pfx | Stream | Поток с данными сертификата, организованными как pfx. |
-| пароль | String | Пароль для доступа к закрытому ключу в сертификате. |
+| password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
 ### Смотрите также
 

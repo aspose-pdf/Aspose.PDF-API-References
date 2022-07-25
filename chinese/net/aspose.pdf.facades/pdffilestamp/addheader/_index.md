@@ -16,7 +16,7 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | 文本标题和文本属性。 |
+| formattedText | FormattedText | 标题的文本和文本的属性。 |
 | topMargin | Single | 页面顶部的边距。 |
 
 ### 例子
@@ -50,7 +50,7 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
 | formattedText | FormattedText | 包含页面文本及其属性的格式化文本对象。 |
 | topMargin | Single | 页面顶部的边距。 |
 | leftMargin | Single | 页面左侧的边距。 |
-| rightMargin | Single | 页面右侧边距。 |
+| rightMargin | Single | 页面右侧的边距。 |
 
 ### 例子
 

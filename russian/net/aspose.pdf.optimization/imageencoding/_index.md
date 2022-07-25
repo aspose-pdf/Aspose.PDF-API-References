@@ -1,14 +1,14 @@
 ---
 title: ImageEncoding
 second_title: Aspose.PDF для справочника API .NET
-description: Типы кодирования изображения.
+description: Типы кодирования изображений.
 type: docs
 weight: 5730
 url: /ru/net/aspose.pdf.optimization/imageencoding/
 ---
 ## ImageEncoding enumeration
 
-Типы кодирования изображения.
+Типы кодирования изображений.
 
 ```csharp
 public enum ImageEncoding
@@ -18,8 +18,8 @@ public enum ImageEncoding
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Unchanged | `0` | Кодировку не менять. |
-| Jpeg | `1` | Кодирование JPEG (DCT). |
+| Unchanged | `0` | Не менять кодировку. |
+| Jpeg | `1` | Кодировка JPEG (DCT). |
 | Flate | `2` | Кодировка Flate. |
 | Jpeg2000 | `3` | Кодировка JPEG2000 (JPX). |
 

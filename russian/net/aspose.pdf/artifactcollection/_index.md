@@ -19,8 +19,8 @@ public class ArtifactCollection : ICollection<Artifact>
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf/artifactcollection/count) { get; } | Получает количество артефактов в коллекции. |
-| [IsReadOnly](../../aspose.pdf/artifactcollection/isreadonly) { get; } | Получает, если коллекция доступна только для чтения. Всегда возвращает ложь. |
-| [IsSynchronized](../../aspose.pdf/artifactcollection/issynchronized) { get; } | Этот объект синхронизирован. |
+| [IsReadOnly](../../aspose.pdf/artifactcollection/isreadonly) { get; } | Получает, доступна ли коллекция только для чтения. Всегда возвращает false. |
+| [IsSynchronized](../../aspose.pdf/artifactcollection/issynchronized) { get; } | Синхронизирован ли этот объект. |
 | [Item](../../aspose.pdf/artifactcollection/item) { get; } | Получает артефакт по индексу. Индекс начинается с 1. |
 | [SyncRoot](../../aspose.pdf/artifactcollection/syncroot) { get; } | Получает объект синхронизации коллекции. |
 

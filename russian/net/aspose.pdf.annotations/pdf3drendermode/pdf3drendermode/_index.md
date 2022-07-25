@@ -1,14 +1,14 @@
 ---
 title: PDF3DRenderMode
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DRenderModeaspose.pdf.annotations/pdf3drendermode.
+description: Инициализирует новый экземплярPDF3DRenderModeaspose.pdf.annotations/pdf3drendermode класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
 ---
 ## PDF3DRenderMode(RenderModeType) {#constructor}
 
-Инициализирует новый экземпляр класса[`PDF3DRenderMode`](../../pdf3drendermode).
+Инициализирует новый экземпляр[`PDF3DRenderMode`](../../pdf3drendermode) класс.
 
 ```csharp
 public PDF3DRenderMode(RenderModeType subtype)
@@ -29,7 +29,7 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ## PDF3DRenderMode(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PDF3DRenderMode`](../../pdf3drendermode).
+Инициализирует новый экземпляр[`PDF3DRenderMode`](../../pdf3drendermode) класс.
 
 ```csharp
 public PDF3DRenderMode(string typeName)
@@ -37,7 +37,7 @@ public PDF3DRenderMode(string typeName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| typeName | String | Имя типа. |
+| typeName | String | Название типа. |
 
 ### Исключения
 

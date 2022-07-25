@@ -1,14 +1,14 @@
 ---
 title: DisplayDocTitle
 second_title: Aspose.PDF для справочника API .NET
-description: Флаг определяющий должен ли заголовок окна отображать заголовок документа
+description: Флаг определяющий должна ли строка заголовка окна отображать заголовок документа
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/viewerpreference/displaydoctitle/
 ---
 ## ViewerPreference.DisplayDocTitle field
 
-Флаг, определяющий, должен ли заголовок окна отображать заголовок документа
+Флаг, определяющий, должна ли строка заголовка окна отображать заголовок документа
 
 ```csharp
 public const int DisplayDocTitle;

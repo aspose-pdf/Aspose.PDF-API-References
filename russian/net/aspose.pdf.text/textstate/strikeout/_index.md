@@ -1,14 +1,14 @@
 ---
 title: StrikeOut
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает зачеркивание для текста представленного объектомTextFragmentaspose.pdf.text/textfragment
+description: Зачеркивает текст представленныйTextFragmentaspose.pdf.text/textfragment объект
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.text/textstate/strikeout/
 ---
 ## TextState.StrikeOut property
 
-Устанавливает зачеркивание для текста, представленного объектом[`TextFragment`](../../textfragment)
+Зачеркивает текст, представленный[`TextFragment`](../../textfragment) объект
 
 ```csharp
 public virtual bool StrikeOut { get; set; }

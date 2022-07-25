@@ -1,14 +1,14 @@
 ---
 title: SetTextRise
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор Ts установить подъем текста.
+description: Класс представляющий оператор Ts установить рост текста.
 type: docs
 weight: 5610
 url: /ru/net/aspose.pdf.operators/settextrise/
 ---
 ## SetTextRise class
 
-Класс, представляющий оператор Ts (установить подъем текста).
+Класс, представляющий оператор Ts (установить рост текста).
 
 ```csharp
 public class SetTextRise : TextStateOperator
@@ -25,13 +25,13 @@ public class SetTextRise : TextStateOperator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [TextRise](../../aspose.pdf.operators/settextrise/textrise) { get; set; } | Получает или задает увеличение текста. |
+| [TextRise](../../aspose.pdf.operators/settextrise/textrise) { get; set; } | Получает или задает рост текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrise/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

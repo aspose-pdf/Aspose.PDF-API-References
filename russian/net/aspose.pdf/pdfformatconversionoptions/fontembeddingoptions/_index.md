@@ -1,14 +1,14 @@
 ---
 title: FontEmbeddingOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Варианты для случаев когда невозможно встроить некоторые шрифты в документ PDF.
+description: Опции для случаев когда невозможно встроить некоторые шрифты в документ PDF.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
 ## PdfFormatConversionOptions.FontEmbeddingOptions property
 
-Варианты для случаев, когда невозможно встроить некоторые шрифты в документ PDF.
+Опции для случаев, когда невозможно встроить некоторые шрифты в документ PDF.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }

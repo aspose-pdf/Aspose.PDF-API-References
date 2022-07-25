@@ -1,14 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF for .NET API 参考
-description: 获取指示此TabStopsaspose.pdf.text/tabstops实例已附加到TextFragment并变为只读
+description: 获取值表明这个TabStopsaspose.pdf.text/tabstops实例已附加到TextFragmentaspose.pdf.text/textfragment并成为只读的
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/tabstops/isreadonly/
 ---
 ## TabStops.IsReadOnly property
 
-获取指示此[`TabStops`](../../tabstops)实例已附加到TextFragment并变为只读。
+获取值表明这个[`TabStops`](../../tabstops)实例已附加到[`TextFragment`](../../textfragment)并成为只读的。
 
 ```csharp
 public bool IsReadOnly { get; }

@@ -40,7 +40,7 @@ public MemoryStream[] SplitToPages(Stream inputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 输入 Pdf 流。 |
+| inputStream | Stream | 输入 PDF 流。 |
 
 ### 返回值
 
@@ -65,7 +65,7 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 输入文件名。 |
-| fileNameTemplate | String | 生成文件名的模板。必须包含替换为页码的 %NUM%。例如，如果指定了 c:/dir/page%NUM%.pdf，则生成的文件将具有以下名称:c:/dir/page1.pdf、c:/dir/page2.pdf 等 |
+| fileNameTemplate | String | 结果文件名的模板。必须包含替换为页码的 %NUM%。例如，如果指定了 c:/dir/page%NUM%.pdf，则生成的文件将具有以下名称：c:/dir/page1.pdf、c:/dir/page2.pdf 等。 |
 
 ### 也可以看看
 
@@ -86,7 +86,7 @@ public void SplitToPages(Stream inputStream, string fileNameTemplate)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 源文档的流。 |
-| fileNameTemplate | String | 生成文件名的模板。必须包含替换为页码的 %NUM%。例如，如果指定了 c:/dir/page%NUM%.pdf，则生成的文件将具有以下名称:c:/dir/page1.pdf、c:/dir/page2.pdf 等 |
+| fileNameTemplate | String | 结果文件名的模板。必须包含替换为页码的 %NUM%。例如，如果指定了 c:/dir/page%NUM%.pdf，则生成的文件将具有以下名称：c:/dir/page1.pdf、c:/dir/page2.pdf 等。 |
 
 ### 也可以看看
 

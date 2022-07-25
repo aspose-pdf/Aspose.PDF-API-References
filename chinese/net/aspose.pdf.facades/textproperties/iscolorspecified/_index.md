@@ -1,14 +1,14 @@
 ---
 title: IsColorSpecified
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个值该值指示是否指定了Coloraspose.pdf.facades/textproperties/color属性
+description: 获取或设置一个值该值指示是否Coloraspose.pdf.facades/textproperties/color属性已指定
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/textproperties/iscolorspecified/
 ---
 ## TextProperties.IsColorSpecified property
 
-获取或设置一个值，该值指示是否指定了[`Color`](../color)属性。
+获取或设置一个值，该值指示是否[`Color`](../color)属性已指定。
 
 ```csharp
 public bool IsColorSpecified { get; }

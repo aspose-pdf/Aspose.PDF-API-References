@@ -1,14 +1,14 @@
 ---
 title: Div
 second_title: Aspose.PDF for .NET API 参考
-description: Division 通用块级元素或元素组
+description: 分区通用块级元素或元素组
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/div/
 ---
 ## StructureTypeStandard.Div field
 
-(Division) 通用块级元素或元素组。
+（分区）通用块级元素或元素组。
 
 ```csharp
 public static readonly StructureTypeStandard Div;

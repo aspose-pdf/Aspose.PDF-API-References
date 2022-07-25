@@ -1,14 +1,14 @@
 ---
 title: Segments
 second_title: Aspose.PDF для справочника API .NET
-description: Получает текстовые сегменты для текущегоTextFragmentaspose.pdf.text/textfragment.
+description: Получает текстовые сегменты для текущегоTextFragmentaspose.pdf.text/textfragment .
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.text/textfragment/segments/
 ---
 ## TextFragment.Segments property
 
-Получает текстовые сегменты для текущего[`TextFragment`](../../textfragment).
+Получает текстовые сегменты для текущего[`TextFragment`](../../textfragment) .
 
 ```csharp
 public TextSegmentCollection Segments { get; set; }
@@ -16,29 +16,29 @@ public TextSegmentCollection Segments { get; set; }
 
 ### Примечания
 
-В двух словах,[`TextSegment`](../../textsegment)объекты являются дочерними объектами[`TextFragment`](../../textfragment)объекта. Опытные пользователи могут напрямую обращаться к сегментам для выполнения более сложных сценариев редактирования текста. Подробнее см. в описании объекта[`TextFragment`](../../textfragment).
+В двух словах,[`TextSegment`](../../textsegment) объекты являются детьми[`TextFragment`](../../textfragment) object. Опытные пользователи могут напрямую обращаться к сегментам для выполнения более сложных сценариев редактирования текста. Подробную информацию см.[`TextFragment`](../../textfragment) описание объекта.
 
 ### Примеры
 
-Пример демонстрирует, как перемещаться по всему[`TextSegment`](../../textsegment)объекты внутри[`TextFragment`](../../textfragment).
+Пример демонстрирует, как перемещаться по всем[`TextSegment`](../../textsegment) объекты внутри[`TextFragment`](../../textfragment) .
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Перемещаемся по всем текстовым сегментам и из их текста и размещения info
-oreach (TextSegment segment in absorber.TextFragments[1].Segments)
-
-   Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
-   Console.Out.WriteLine(string.Format("segment X indent: {0}", segment.Position.XIndent));
-   Console.Out.WriteLine(string.Format("segment Y indent: {0}", segment.Position.YIndent));
-
+// Перемещаемся по всем текстовым сегментам и получаем их текст и информацию о размещении
+foreach (TextSegment segment in absorber.TextFragments[1].Segments)
+{
+    Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
+    Console.Out.WriteLine(string.Format("segment X indent: {0}", segment.Position.XIndent));
+    Console.Out.WriteLine(string.Format("segment Y indent: {0}", segment.Position.YIndent));
+}
 
 ```
 

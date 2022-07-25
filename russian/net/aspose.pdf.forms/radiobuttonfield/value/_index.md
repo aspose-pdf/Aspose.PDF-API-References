@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает значение поля.
+description: Получает или задает значение поля.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/value/
 ---
 ## RadioButtonField.Value property
 
-Получает или устанавливает значение поля.
+Получает или задает значение поля.
 
 ```csharp
 public override string Value { get; set; }

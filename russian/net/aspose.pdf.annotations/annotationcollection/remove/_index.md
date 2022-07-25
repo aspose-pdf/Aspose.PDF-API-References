@@ -16,7 +16,7 @@ public bool Remove(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, которую необходимо удалить. |
+| annotation | Annotation | Аннотация, которую следует удалить. |
 
 ### Возвращаемое значение
 

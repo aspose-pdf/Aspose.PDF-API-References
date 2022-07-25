@@ -16,11 +16,11 @@ public PdfAction this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 动作索引值。 |
+| index | 行动指数值。 |
 
 ### 返回值
 
-动作索引（如果找到）；否则，抛出 IndexOutOfRangeException
+找到的行动索引；否则，抛出索引超出范围异常
 
 ### 也可以看看
 

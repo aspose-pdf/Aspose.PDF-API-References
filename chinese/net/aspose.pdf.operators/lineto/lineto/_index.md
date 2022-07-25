@@ -1,14 +1,14 @@
 ---
 title: LineTo
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化行运算符
+description: 初始化线路运算符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/lineto/lineto/
 ---
 ## LineTo constructor
 
-初始化行运算符。
+初始化线路运算符。
 
 ```csharp
 public LineTo(double x, double y)
@@ -17,7 +17,7 @@ public LineTo(double x, double y)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Double | X 坐标。 |
-| y | Double | Y 坐标。 |
+| y | Double | Y坐标。 |
 
 ### 也可以看看
 

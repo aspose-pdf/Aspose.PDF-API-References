@@ -18,9 +18,9 @@ public sealed class CompositingParameters
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CompositingParameters](compositingparameters#constructor)(BlendMode) | 初始化[`CompositingParameters`](../compositingparameters)对象的新实例。 |
-| [CompositingParameters](compositingparameters#constructor_1)(BlendMode, ImageFilterType) | 初始化[`CompositingParameters`](../compositingparameters)对象的新实例。 |
-| [CompositingParameters](compositingparameters#constructor_2)(BlendMode, ImageFilterType, bool) | 初始化[`CompositingParameters`](../compositingparameters)对象的新实例。 |
+| [CompositingParameters](compositingparameters#constructor)(BlendMode) | 初始化[`CompositingParameters`](../compositingparameters)对象. |
+| [CompositingParameters](compositingparameters#constructor_1)(BlendMode, ImageFilterType) | 初始化[`CompositingParameters`](../compositingparameters)对象. |
+| [CompositingParameters](compositingparameters#constructor_2)(BlendMode, ImageFilterType, bool) | 初始化[`CompositingParameters`](../compositingparameters)对象. |
 
 ## 特性
 

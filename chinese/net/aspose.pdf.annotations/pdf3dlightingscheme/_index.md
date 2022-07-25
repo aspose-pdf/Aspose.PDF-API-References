@@ -1,14 +1,14 @@
 ---
 title: PDF3DLightingScheme
 second_title: Aspose.PDF for .NET API 参考
-description: PDF3DLightingScheme 类
+description: 类 PDF3DLightingScheme.
 type: docs
 weight: 830
 url: /zh/net/aspose.pdf.annotations/pdf3dlightingscheme/
 ---
 ## PDF3DLightingScheme class
 
-PDF3DLightingScheme 类。
+类 PDF3DLightingScheme.
 
 ```csharp
 public class PDF3DLightingScheme
@@ -18,14 +18,14 @@ public class PDF3DLightingScheme
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PDF3DLightingScheme](pdf3dlightingscheme#constructor)(LightingSchemeType) | 初始化[`PDF3DLightingScheme`](../pdf3dlightingscheme)类的新实例。 |
-| [PDF3DLightingScheme](pdf3dlightingscheme#constructor_1)(string) | 初始化[`PDF3DLightingScheme`](../pdf3dlightingscheme)类的新实例。 |
+| [PDF3DLightingScheme](pdf3dlightingscheme#constructor)(LightingSchemeType) | 初始化[`PDF3DLightingScheme`](../pdf3dlightingscheme)类. |
+| [PDF3DLightingScheme](pdf3dlightingscheme#constructor_1)(string) | 初始化[`PDF3DLightingScheme`](../pdf3dlightingscheme)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Type](../../aspose.pdf.annotations/pdf3dlightingscheme/type) { get; } | 获取照明方案类型。 |
+| [Type](../../aspose.pdf.annotations/pdf3dlightingscheme/type) { get; } | 获取光照方案类型。 |
 
 ## 字段
 

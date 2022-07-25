@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf.text/paragraphabsorber/pagemarkups/
 ---
 ## ParagraphAbsorber.PageMarkups property
 
-Получает коллекцию[`PageMarkup`](../../pagemarkup), которые были поглощены.
+Получает коллекцию[`PageMarkup`](../../pagemarkup) которые были поглощены.
 
 ```csharp
 public List<PageMarkup> PageMarkups { get; }

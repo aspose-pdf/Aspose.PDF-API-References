@@ -10,7 +10,7 @@ url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/note/
 
 （注）从文档正文中引用的解释性文本项目，例如脚注或尾注。它可能有一个子标签（结构类型 Lbl）。注释可以作为结构元素的子元素包含在引用它的正文文本中，也可以包含在其他地方（例如尾注部分）并通过参考（结构类型参考）访问。
 
-带标签的 PDF 不规定脚注在页面内容顺序中的位置。它们可以是内联的，也可以是在页面的末尾，由合格的作者决定。
+带标签的 PDF 没有规定脚注在页面内容顺序中的位置。它们可以是内联的，也可以是在页面的末尾，由合格的作者决定。
 
 ```csharp
 public static readonly StructureTypeStandard Note;

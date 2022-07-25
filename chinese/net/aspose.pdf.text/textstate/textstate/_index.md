@@ -127,7 +127,7 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ## TextState(string, double) {#constructor_6}
 
-创建具有字体系列和字体大小规范的文本状态对象。
+使用字体系列和字体大小规范创建文本状态对象。
 
 ```csharp
 public TextState(string fontFamily, double fontSize)

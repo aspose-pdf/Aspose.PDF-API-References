@@ -1,14 +1,14 @@
 ---
 title: SetCharWidth
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор d0 устанавливает ширину глифа.
+description: Класс представляющий оператор d0 установить ширину глифа.
 type: docs
 weight: 5360
 url: /ru/net/aspose.pdf.operators/setcharwidth/
 ---
 ## SetCharWidth class
 
-Класс, представляющий оператор d0 (устанавливает ширину глифа).
+Класс, представляющий оператор d0 (установить ширину глифа).
 
 ```csharp
 public class SetCharWidth : Operator
@@ -19,14 +19,14 @@ public class SetCharWidth : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Wx](../../aspose.pdf.operators/setcharwidth/wx) { get; } | Горизонтальное смещение координаты глифа. |
+| [Wx](../../aspose.pdf.operators/setcharwidth/wx) { get; } | Горизонтальное смещение координат глифа. |
 | [Wy](../../aspose.pdf.operators/setcharwidth/wy) { get; } | Вертикальное смещение координат глифа. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidth/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcharwidth/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/setcharwidth/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

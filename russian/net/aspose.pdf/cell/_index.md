@@ -27,13 +27,13 @@ public sealed class Cell : ICloneable
 | --- | --- |
 | [Alignment](../../aspose.pdf/cell/alignment) { get; set; } | Получает или задает выравнивание. |
 | [BackgroundColor](../../aspose.pdf/cell/backgroundcolor) { get; set; } | Получает или задает цвет фона. |
-| [BackgroundImage](../../aspose.pdf/cell/backgroundimage) { get; set; } | Получает или устанавливает фоновое изображение |
+| [BackgroundImage](../../aspose.pdf/cell/backgroundimage) { get; set; } | Получает или задает фоновое изображение |
 | [Border](../../aspose.pdf/cell/border) { get; set; } | Получает или устанавливает границу. |
-| [ColSpan](../../aspose.pdf/cell/colspan) { get; set; } | Получает или задает диапазон столбцов. |
+| [ColSpan](../../aspose.pdf/cell/colspan) { get; set; } | Получает или задает диапазон столбца. |
 | [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate) { get; set; } | Получает или задает состояние текста ячейки по умолчанию. |
 | [IsNoBorder](../../aspose.pdf/cell/isnoborder) { get; set; } | Получает или устанавливает границу ячейки. |
 | [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment) { get; set; } | Устанавливает, что свойство TextState ячейки переопределяется свойством TextFragment TextState. |
-| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped) { get; set; } | Получает или задает перенос слова в тексте ячейки. |
+| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped) { get; set; } | Получает или задает текстовое слово ячейки, обернутое. |
 | [Margin](../../aspose.pdf/cell/margin) { get; set; } | Получает или задает заполнение. |
 | [Paragraphs](../../aspose.pdf/cell/paragraphs) { get; set; } | Получает или задает форматированный текст ячейки. |
 | [RowSpan](../../aspose.pdf/cell/rowspan) { get; set; } | Получает или задает диапазон строк. |

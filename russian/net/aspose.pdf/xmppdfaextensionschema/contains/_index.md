@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет существует ли obj в схеме.
+description: Определяет существует ли объект в схеме.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/contains/
 ---
 ## XmpPdfAExtensionSchema.Contains method
 
-Определяет, существует ли obj в схеме.
+Определяет, существует ли объект в схеме.
 
 ```csharp
 public bool Contains(XmpPdfAExtensionObject obj)
@@ -16,7 +16,7 @@ public bool Contains(XmpPdfAExtensionObject obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | XmpPdfAExtensionObject | Объект для поиска. |
+| obj | XmpPdfAExtensionObject | Объект, который нужно найти. |
 
 ### Возвращаемое значение
 

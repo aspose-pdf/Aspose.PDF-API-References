@@ -16,7 +16,7 @@ public void Delete(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | XForm 的索引，必须是已删除 |
+| index | Int32 | 必须删除的 XForm 索引 |
 
 ### 也可以看看
 

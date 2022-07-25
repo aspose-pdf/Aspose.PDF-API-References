@@ -50,7 +50,7 @@ public bool Contains(DefaultMetadataProperties property)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| property | DefaultMetadataProperties | Свойство, которое будет проверяться. |
+| property | DefaultMetadataProperties | Недвижимость, которая будет проверена. |
 
 ### Возвращаемое значение
 
@@ -79,7 +79,7 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 ### Возвращаемое значение
 
-true, если этот файл найден.
+верно, если этот пауир был найден.
 
 ### Смотрите также
 

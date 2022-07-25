@@ -1,14 +1,14 @@
 ---
 title: StartColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置起始颜色
+description: 获取或设置开始颜色
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.drawing/gradientradialshading/startcolor/
 ---
 ## GradientRadialShading.StartColor property
 
-获取或设置起始颜色。
+获取或设置开始颜色。
 
 ```csharp
 public Color StartColor { get; set; }

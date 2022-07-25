@@ -1,14 +1,14 @@
 ---
 title: Put
 second_title: Aspose.PDF for .NET API 参考
-description: 在指定的页面上放置图章
+description: 在指定页面上盖章
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pdfpagestamp/put/
 ---
 ## PdfPageStamp.Put method
 
-在指定的页面上放置图章。
+在指定页面上盖章。
 
 ```csharp
 public override void Put(Page page)
@@ -16,7 +16,7 @@ public override void Put(Page page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 将放置图章的页面。 |
+| page | Page | 将要放置印章的页面。 |
 
 ### 也可以看看
 

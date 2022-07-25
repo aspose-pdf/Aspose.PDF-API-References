@@ -1,14 +1,14 @@
 ---
 title: RenameField
 second_title: Aspose.PDF для справочника API .NET
-description: Переименовывает поле. Подойдет либо поле AcroForm либо поле XFA.
+description: Переименовывает поле. Либо поле AcroForm либо поле XFA в порядке.
 type: docs
 weight: 350
 url: /ru/net/aspose.pdf.facades/form/renamefield/
 ---
 ## Form.RenameField method
 
-Переименовывает поле. Подойдет либо поле AcroForm, либо поле XFA.
+Переименовывает поле. Либо поле AcroForm, либо поле XFA в порядке.
 
 ```csharp
 public void RenameField(string fieldName, string newFieldName)
@@ -16,8 +16,8 @@ public void RenameField(string fieldName, string newFieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | старое имя поля |
-| newFieldName | String | новое имя поля |
+| fieldName | String | старое поле name |
+| newFieldName | String | новое поле name |
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: ImagePlacementCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет коллекцию размещения изображений
+description: Представляет коллекцию мест размещения изображений
 type: docs
 weight: 3780
 url: /ru/net/aspose.pdf/imageplacementcollection/
 ---
 ## ImagePlacementCollection class
 
-Представляет коллекцию размещения изображений
+Представляет коллекцию мест размещения изображений
 
 ```csharp
 public sealed class ImagePlacementCollection : ICollection<ImagePlacement>
@@ -18,7 +18,7 @@ public sealed class ImagePlacementCollection : ICollection<ImagePlacement>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf/imageplacementcollection/count) { get; } | Получает количество элементов объекта[`ImagePlacement`](../imageplacement), фактически содержащихся в коллекции. |
+| [Count](../../aspose.pdf/imageplacementcollection/count) { get; } | Получает количество[`ImagePlacement`](../imageplacement) элементы объекта, фактически содержащиеся в коллекции. |
 | [IsReadOnly](../../aspose.pdf/imageplacementcollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения. |
 | [IsSynchronized](../../aspose.pdf/imageplacementcollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к коллекции синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf/imageplacementcollection/item) { get; } | Получает элемент текстового фрагмента по указанному индексу. |
@@ -29,11 +29,11 @@ public sealed class ImagePlacementCollection : ICollection<ImagePlacement>
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.pdf/imageplacementcollection/add)(ImagePlacement) | Добавляет элемент текстового фрагмента по указанному индексу. |
-| [Clear](../../aspose.pdf/imageplacementcollection/clear)() | Удаляет все предметы из коллекции. |
+| [Clear](../../aspose.pdf/imageplacementcollection/clear)() | Удаляет все элементы из коллекции. |
 | [Contains](../../aspose.pdf/imageplacementcollection/contains)(ImagePlacement) | Определяет, содержит ли коллекция определенное значение. |
 | [CopyTo](../../aspose.pdf/imageplacementcollection/copyto)(ImagePlacement[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |
 | [GetEnumerator](../../aspose.pdf/imageplacementcollection/getenumerator)() | Возвращает перечислитель для всей коллекции. |
-| [Remove](../../aspose.pdf/imageplacementcollection/remove)(ImagePlacement) | Удаляет указанный элемент из коллекции |
+| [Remove](../../aspose.pdf/imageplacementcollection/remove)(ImagePlacement) | Удаляет указанный элемент из collection |
 
 ### Смотрите также
 

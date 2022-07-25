@@ -1,14 +1,14 @@
 ---
 title: ButtonField
 second_title: Aspose.PDF for .NET API 参考
-description: Generator 的按钮字段构造函数
+description: 生成器的按钮字段构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/buttonfield/buttonfield/
 ---
 ## ButtonField() {#constructor}
 
-Generator 的按钮字段构造函数。
+生成器的按钮字段构造函数。
 
 ```csharp
 public ButtonField()
@@ -32,7 +32,7 @@ public ButtonField(Page page, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 按钮所在的页面。 |
+| page | Page | 将放置按钮的页面。 |
 | rect | Rectangle | 按钮放置在页面上的矩形。 |
 
 ### 也可以看看
@@ -55,8 +55,8 @@ public ButtonField(Document doc, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | Docuemtn 将在其中创建新字段。 |
-| rect | Rectangle | 矩形按钮放置在页面上。 |
+| doc | Document | 将在其中创建新字段的文档。 |
+| rect | Rectangle | 矩形 hwere 按钮放置在页面上。 |
 
 ### 也可以看看
 

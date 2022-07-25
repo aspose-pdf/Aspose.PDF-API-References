@@ -1,14 +1,14 @@
 ---
 title: FitBExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 创建本地显式目的地
+description: 创建本地显式目标
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/fitbexplicitdestination/fitbexplicitdestination/
 ---
 ## FitBExplicitDestination(Page) {#constructor_1}
 
-创建本地显式目的地。
+创建本地显式目标。
 
 ```csharp
 public FitBExplicitDestination(Page page)

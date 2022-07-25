@@ -16,7 +16,7 @@ public ShFill(string shadingName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| shadingName | String | Имя затенения. |
+| shadingName | String | Название тени. |
 
 ### Смотрите также
 

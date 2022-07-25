@@ -1,14 +1,14 @@
 ---
 title: RemoveSpacesFromCMapNames
 second_title: Aspose.PDF для справочника API .NET
-description: Некоторые шрифты имеют карты кодов символов ToUnicode с пробелами в именах. Эти пробелы могут вызывать ошибки с отображением текста Unicode. Этот флаг указывает на удаление пробелов из имен карт кодов символов ToUnicode. По умолчанию false.
+description: Некоторые шрифты имеют карты кодов символов ToUnicode с пробелами в именах. Эти пробелы могут вызывать error с отображением текста Unicode. Этот флаг указывает на удаление пробелов из имен карт кодов символов ToUnicode. По умолчанию false.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames/
 ---
 ## ToUnicodeProcessingRules.RemoveSpacesFromCMapNames property
 
-Некоторые шрифты имеют карты кодов символов ToUnicode с пробелами в именах. Эти пробелы могут вызывать ошибки с отображением текста Unicode. Этот флаг указывает на удаление пробелов из имен карт кодов символов ToUnicode. По умолчанию false.
+Некоторые шрифты имеют карты кодов символов ToUnicode с пробелами в именах. Эти пробелы могут вызывать error с отображением текста Unicode. Этот флаг указывает на удаление пробелов из имен карт кодов символов ToUnicode. По умолчанию false.
 
 ```csharp
 public bool RemoveSpacesFromCMapNames { get; set; }

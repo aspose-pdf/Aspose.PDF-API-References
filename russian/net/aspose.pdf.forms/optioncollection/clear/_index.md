@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет все элементы из коллекции выдает NotImplementedException .
+description: Удаляет все предметы из коллекции выбрасываетНереализованное исключение .
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/optioncollection/clear/
 ---
 ## OptionCollection.Clear method
 
-Удаляет все элементы из коллекции, выдает NotImplementedException .
+Удаляет все предметы из коллекции, выбрасываетНереализованное исключение .
 
 ```csharp
 public void Clear()

@@ -1,14 +1,14 @@
 ---
 title: BlockAlign_Before
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BlockAlignBefore - 第一个子分配矩形的边缘与表格单元格内容矩形的边缘对齐
+description: 属性 BlockAlign Before - 第一个子分配矩形的边缘与表格单元格的内容矩形的边缘对齐
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.logicalstructure/attributename/blockalign_before/
 ---
 ## AttributeName.BlockAlign_Before field
 
-属性 BlockAlign:Before - 第一个子分配矩形的边缘与表格单元格内容矩形的边缘对齐。
+属性 BlockAlign: Before - 第一个子分配矩形的边缘与表格单元格的内容矩形的边缘对齐。
 
 ```csharp
 public static readonly AttributeName BlockAlign_Before;

@@ -1,14 +1,14 @@
 ---
 title: Points
 second_title: Aspose.PDF for .NET API 参考
-description: 描述段落的多边形点 起点是段落的左下角接下来的点按逆时针顺序排列
+description: 描述段落的多边形点 起点是段落的左下角接下来的点是逆时针顺序
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/markupparagraph/points/
 ---
 ## MarkupParagraph.Points property
 
-描述段落的多边形点。 起点是段落的左下角。接下来的点按逆时针顺序排列。
+描述段落的多边形点。 起点是段落的左下角。接下来的点是逆时针顺序。
 
 ```csharp
 public Point[] Points { get; }

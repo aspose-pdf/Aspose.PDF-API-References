@@ -1,14 +1,14 @@
 ---
 title: Parse
 second_title: Aspose.PDF for .NET API 参考
-description: 尝试解析字符串并从中提取矩形组件 llxllyurxury
+description: 尝试解析字符串并从中提取矩形组件 llxllyurxury.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/rectangle/parse/
 ---
 ## Rectangle.Parse method
 
-尝试解析字符串并从中提取矩形组件 llx、lly、urx、ury。
+尝试解析字符串并从中提取矩形组件 llx、lly、urx、ury.
 
 ```csharp
 public static Rectangle Parse(string value)

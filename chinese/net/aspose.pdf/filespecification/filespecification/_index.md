@@ -1,14 +1,14 @@
 ---
 title: FileSpecification
 second_title: Aspose.PDF for .NET API 参考
-description: FileSpecification 的构造函数
+description: 文件规范的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/filespecification/filespecification/
 ---
 ## FileSpecification(string) {#constructor_3}
 
-FileSpecification 的构造函数
+文件规范的构造函数
 
 ```csharp
 public FileSpecification(string file)
@@ -49,7 +49,7 @@ public FileSpecification(Stream stream, string name)
 
 ## FileSpecification(string, string) {#constructor_5}
 
-FileSpecification 的构造函数。
+FileSpecification 的构造函数.
 
 ```csharp
 public FileSpecification(string file, string description)
@@ -70,7 +70,7 @@ public FileSpecification(string file, string description)
 
 ## FileSpecification(Stream, string, string) {#constructor_2}
 
-FileSpecification 的构造函数。
+FileSpecification 的构造函数.
 
 ```csharp
 public FileSpecification(Stream stream, string name, string description)
@@ -92,7 +92,7 @@ public FileSpecification(Stream stream, string name, string description)
 
 ## FileSpecification(string, Annotation) {#constructor_4}
 
-FileSpecification 的构造函数。
+FileSpecification 的构造函数.
 
 ```csharp
 public FileSpecification(string fileName, Annotation annot)

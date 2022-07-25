@@ -1,14 +1,14 @@
 ---
 title: H2
 second_title: Aspose.PDF for .NET API 参考
-description: 2 级标题用于无法分层嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器
+description: 2 级标题用于不能分层嵌套其部分并因此无法从其嵌套级别确定标题级别的符合编写者
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/h2/
 ---
 ## StructureTypeStandard.H2 field
 
-2 级标题，用于无法分层嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器。
+2 级标题，用于不能分层嵌套其部分并因此无法从其嵌套级别确定标题级别的符合编写者。
 
 ```csharp
 public static readonly StructureTypeStandard H2;

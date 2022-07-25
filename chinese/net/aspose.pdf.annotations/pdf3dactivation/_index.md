@@ -1,14 +1,14 @@
 ---
 title: PDF3DActivation
 second_title: Aspose.PDF for .NET API 参考
-description: Enum PDF3DActivation设置 3D 注释激活模式
+description: 枚举PDF3DActivation3D注释激活模式集
 type: docs
 weight: 760
 url: /zh/net/aspose.pdf.annotations/pdf3dactivation/
 ---
 ## PDF3DActivation enumeration
 
-Enum PDF3DActivation:设置 3D 注释激活模式。
+枚举PDF3DActivation：3D注释激活模式集。
 
 ```csharp
 public enum PDF3DActivation
@@ -18,9 +18,9 @@ public enum PDF3DActivation
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| activeWhenOpen | `0` | 打开时激活 |
+| activeWhenOpen | `0` | 开启时的活动 |
 | activeWhenVisible | `1` | 可见时的活动 |
-| activatedUserOrScriptAction | `2` | 由用户或脚本动作激活 |
+| activatedUserOrScriptAction | `2` | 由用户或脚本激活的动作 |
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public RadioButtonField(Page page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 单选按钮所在的页面. |
+| page | Page | 将放置单选按钮的页面。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public RadioButtonField(Page page)
 
 ## RadioButtonField(Document) {#constructor}
 
-RadioButtonField 的构造函数。
+RadioButtonField. 的构造函数
 
 ```csharp
 public RadioButtonField(Document doc)
@@ -37,7 +37,7 @@ public RadioButtonField(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建单选按钮的文档。 |
+| doc | Document | 记录将在何处创建单选按钮。 |
 
 ### 也可以看看
 

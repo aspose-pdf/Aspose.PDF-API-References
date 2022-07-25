@@ -1,14 +1,14 @@
 ---
 title: Insert
 second_title: Aspose.PDF for .NET API 参考
-description: 将其他文件中的页面插入到 Pdf 文件中的某个位置
+description: 将其他文件中的页面插入到 Pdf 文件的某个位置
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.facades/pdffileeditor/insert/
 ---
 ## Insert(string, int, string, int, int, string) {#insert_3}
 
-将其他文件中的页面插入到 Pdf 文件中的某个位置。
+将其他文件中的页面插入到 Pdf 文件的某个位置。
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, 
@@ -17,16 +17,16 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int st
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 Pdf 文件。 |
+| inputFile | String | 输入PDF文件。 |
 | insertLocation | Int32 | 在输入文件中的位置。 |
 | portFile | String | 移植的 Pdf 文件。 |
 | startPage | Int32 | portFile 中的起始位置。 |
 | endPage | Int32 | portFile 中的结束位置。 |
-| outputFile | String | 输出 Pdf 文件。 |
+| outputFile | String | 输出 PDF 文件。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -63,7 +63,7 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -94,24 +94,21 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 Pdf 文件。 |
+| inputFile | String | 输入PDF文件。 |
 | insertLocation | Int32 | 在输入文件中插入位置。 |
 | portFile | String | Pdf 文件中的页面。 |
 | pageNumber | Int32[] | portFile 中移植的页码。 |
-| outputFile | String | 输出 Pdf 文件。 |
+| outputFile | String | 输出 PDF 文件。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
-Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
-Stream insertedStream = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
-Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
-pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
+pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
 ### 也可以看看
@@ -174,7 +171,7 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
 | --- | --- | --- |
 | inputFile | String | 源文件名。 |
 | insertLocation | Int32 | 将插入第二个文件的页码。 |
-| portFile | String | 将被插入的文件的路径。 |
+| portFile | String | 将插入的文件的路径。 |
 | pageNumber | Int32[] | 将插入源文件中的页码数组。 |
 | response | HttpResponse | 将存储结果的响应对象。 |
 
@@ -201,8 +198,8 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 带有源文档的流 |
-| insertLocation | Int32 | 其他位置文档将被插入。 |
+| inputStream | Stream | 使用源文档流式传输 |
+| insertLocation | Int32 | 将插入其他文档的位置。 |
 | portStream | Stream | 要插入的文档。 |
 | pageNumber | Int32[] | 将插入的第二个文档中的页码数组。 |
 | response | HttpResponse | 将存储结果的响应对象。 |

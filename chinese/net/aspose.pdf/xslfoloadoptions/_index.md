@@ -18,25 +18,25 @@ public sealed class XslFoLoadOptions : XmlLoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XslFoLoadOptions](xslfoloadoptions#constructor)() | 创建没有 xsl 数据的[`XslFoLoadOptions`](../xslfoloadoptions)对象。 |
-| [XslFoLoadOptions](xslfoloadoptions#constructor_1)(Stream) | 使用 xsl 数据创建[`XslFoLoadOptions`](../xslfoloadoptions)对象。 |
-| [XslFoLoadOptions](xslfoloadoptions#constructor_2)(string) | 使用 xsl 数据创建[`XslFoLoadOptions`](../xslfoloadoptions)对象。 |
+| [XslFoLoadOptions](xslfoloadoptions#constructor)() | 创建[`XslFoLoadOptions`](../xslfoloadoptions)没有 xsl 数据的对象。 |
+| [XslFoLoadOptions](xslfoloadoptions#constructor_1)(Stream) | 创建[`XslFoLoadOptions`](../xslfoloadoptions)带有 xsl 数据的对象。 |
+| [XslFoLoadOptions](xslfoloadoptions#constructor_2)(string) | 创建[`XslFoLoadOptions`](../xslfoloadoptions)带有 xsl 数据的对象。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [BasePath](../../aspose.pdf/xslfoloadoptions/basepath) { get; set; } | 从中搜索到加载的 SVG 文件中引用的外部资源（如果有）的相对路径的基本路径/url。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 | [XslStream](../../aspose.pdf/xmlloadoptions/xslstream) { get; } | 获取用于将 xml 转换为 pdf 文档的 xsl 数据。 |
-| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist) { get; set; } | XsltArgumentList 用于将值插入现有 xls 参数  XLS 文件具有没有值的“动物”参数: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); 现在转换器假定在 XLS 文件中有一个值为“cat”的“动物”参数 。 |
+| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist) { get; set; } | XsltArgumentList 用于将值插入现有 xls 参数  XLS 文件有没有值的 'animal' 参数： XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); 现在转换器假定存在 'animal ' parameter 在 XLS 文件中的值为 'cat'。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype) | 源 XSLFO 文档可能包含格式错误。此枚举列举了处理该错误的可能策略 |
+| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype) | 源 XSLFO 文档可能包含格式错误。这个枚举列举了错误处理的可能策略 |
 
 ### 也可以看看
 

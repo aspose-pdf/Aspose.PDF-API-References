@@ -18,20 +18,20 @@ public sealed class TextExtractionErrorLocation
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontUsedKey](../../aspose.pdf.text/textextractionerrorlocation/fontusedkey) { get; } | PDF Font 对象的键（名称），用于显示导致文本提取错误的运算符。 |
-| [FormKey](../../aspose.pdf.text/textextractionerrorlocation/formkey) { get; } | 内容流文本提取错误所在的 PDF 表单 XObject 的键（名称）。如果 ObjectType == 'xForm' 则不为空。 |
+| [FontUsedKey](../../aspose.pdf.text/textextractionerrorlocation/fontusedkey) { get; } | 用于显示导致文本提取错误的运算符的 PDF 字体对象的键（名称）。 |
+| [FormKey](../../aspose.pdf.text/textextractionerrorlocation/formkey) { get; } | 内容流文本提取错误所在的 PDF 表单 XObject 的键（名称）。如果 ObjectType == 'xForm'. 则不为空 |
 | [ObjectType](../../aspose.pdf.text/textextractionerrorlocation/objecttype) { get; } | 内容流文本提取错误所在的 PDF 对象（Page 或 xForm）的类型。 |
-| [OperatorIndex](../../aspose.pdf.text/textextractionerrorlocation/operatorindex) { get; } | 内容流（运算符集合）中显示运算符的文本索引，导致文本提取错误。 |
+| [OperatorIndex](../../aspose.pdf.text/textextractionerrorlocation/operatorindex) { get; } | 显示内容流（运算符集合）中导致文本提取错误的运算符的文本索引。 |
 | [OperatorString](../../aspose.pdf.text/textextractionerrorlocation/operatorstring) { get; } | 显示导致文本提取错误的运算符的文本。 |
-| [PageNumber](../../aspose.pdf.text/textextractionerrorlocation/pagenumber) { get; } | 文本提取错误所在的文档页号。 |
-| [Path](../../aspose.pdf.text/textextractionerrorlocation/path) { get; } | PDF 文档出现文本提取错误的位置。 |
-| [TextStartPoint](../../aspose.pdf.text/textextractionerrorlocation/textstartpoint) { get; } | PDF Font 对象的键（名称），用于显示导致文本提取错误的运算符。 |
+| [PageNumber](../../aspose.pdf.text/textextractionerrorlocation/pagenumber) { get; } | 文本提取错误所在的文档页数。 |
+| [Path](../../aspose.pdf.text/textextractionerrorlocation/path) { get; } | 出现文本提取错误的 PDF 文档的位置。 |
+| [TextStartPoint](../../aspose.pdf.text/textextractionerrorlocation/textstartpoint) { get; } | 用于显示导致文本提取错误的运算符的 PDF 字体对象的键（名称）。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.text/textextractionerrorlocation/tostring)() | 返回字符串表示。 |
+| override [ToString](../../aspose.pdf.text/textextractionerrorlocation/tostring)() | 返回字符串表示形式。 |
 
 ### 也可以看看
 

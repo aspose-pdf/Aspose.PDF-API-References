@@ -16,7 +16,7 @@ public void Add(KeyValuePair<string, object> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Элемент. |
+| item | KeyValuePair`2 | Предмет. |
 
 ### Исключения
 

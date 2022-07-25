@@ -1,14 +1,14 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF for .NET API 参考
-description: 获取当前元素的StructureTextState对象
+description: 获取StructureTextState当前元素的对象
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.logicalstructure/linkelement/structuretextstate/
 ---
 ## LinkElement.StructureTextState property
 
-获取当前元素的StructureTextState对象。
+获取StructureTextState当前元素的对象。
 
 ```csharp
 public StructureTextState StructureTextState { get; }

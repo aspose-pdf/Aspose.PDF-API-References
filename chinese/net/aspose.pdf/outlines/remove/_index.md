@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 移除大纲集合项
+description: 删除大纲集合项
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/outlines/remove/
 ---
 ## Outlines.Remove method
 
-移除大纲集合项。
+删除大纲集合项。
 
 ```csharp
 public abstract bool Remove(OutlineItemCollection item)

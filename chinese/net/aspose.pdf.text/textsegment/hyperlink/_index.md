@@ -1,14 +1,14 @@
 ---
 title: Hyperlink
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置段超链接用于 pdf 生成器
+description: 获取或设置段超链接用于pdf生成器
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/textsegment/hyperlink/
 ---
 ## TextSegment.Hyperlink property
 
-获取或设置段超链接（用于 pdf 生成器）。
+获取或设置段超链接（用于pdf生成器）。
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }

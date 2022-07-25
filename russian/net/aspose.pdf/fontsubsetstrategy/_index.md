@@ -1,14 +1,14 @@
 ---
 title: FontSubsetStrategy
 second_title: Aspose.PDF для справочника API .NET
-description: перечисляет стратегии для подмножества шрифтов
+description: перечисляет стратегии для поднастройки шрифта
 type: docs
 weight: 2870
 url: /ru/net/aspose.pdf/fontsubsetstrategy/
 ---
 ## FontSubsetStrategy enumeration
 
-перечисляет стратегии для подмножества шрифтов
+перечисляет стратегии для поднастройки шрифта
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -19,7 +19,7 @@ public enum FontSubsetStrategy : byte
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | SubsetEmbeddedFontsOnly | `0` | Объявляет подмножество только тех шрифтов, которые уже встроены в документ |
-| SubsetAllFonts | `1` | Объявляет подмножествами все шрифты, как невстроенные, так и встроенные |
+| SubsetAllFonts | `1` | Объявляет подмножествами все шрифты, невстроенные и встроенные как |
 
 ### Смотрите также
 

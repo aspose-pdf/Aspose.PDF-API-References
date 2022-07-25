@@ -18,8 +18,8 @@ public abstract class Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](./graphinfo)对象，表示图形信息，例如颜色， 线宽等 |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置形状的文本 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](./graphinfo)表示图形信息的对象，例如颜色， 线宽等 |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置 shape 的文本 |
 
 ### 也可以看看
 

@@ -18,9 +18,9 @@ public sealed class Matrix3D
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Matrix3D](matrix3d#constructor)() | 构造函数 创建标准的 1 对 1 矩阵: [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0 , 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
-| [Matrix3D](matrix3d#constructor_3)(double[]) | 构造函数 接受具有以下数组表示的矩阵： [ A B C D E F G H I Tx Ty Tz] |
-| [Matrix3D](matrix3d#constructor_1)(Matrix3D) | 构造函数 接受一个矩阵来创建一个副本 |
+| [Matrix3D](matrix3d#constructor)() | Constructor 创建标准 1 对 1 矩阵： [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
+| [Matrix3D](matrix3d#constructor_3)(double[]) | Constructor 接受具有以下数组表示的矩阵： [ ABCDEFGHI Tx Ty Tz] |
+| [Matrix3D](matrix3d#constructor_1)(Matrix3D) | Constructor 接受一个矩阵来创建一个副本 |
 | [Matrix3D](matrix3d#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double) | 用指定的系数初始化变换矩阵。 |
 
 ## 特性
@@ -29,14 +29,14 @@ public sealed class Matrix3D
 | --- | --- |
 | [A](../../aspose.pdf/matrix3d/a) { get; set; } | 变换矩阵的成员。 |
 | [B](../../aspose.pdf/matrix3d/b) { get; set; } | 变换矩阵的 B 成员。 |
-| [C](../../aspose.pdf/matrix3d/c) { get; set; } | 转换矩阵的 C 成员。 |
+| [C](../../aspose.pdf/matrix3d/c) { get; set; } | 变换矩阵的 C 成员。 |
 | [D](../../aspose.pdf/matrix3d/d) { get; set; } | 变换矩阵的 D 成员。 |
-| [E](../../aspose.pdf/matrix3d/e) { get; set; } | E 变换矩阵的成员。 |
-| [F](../../aspose.pdf/matrix3d/f) { get; set; } | F 变换矩阵的成员。 |
-| [G](../../aspose.pdf/matrix3d/g) { get; set; } | G 变换矩阵的成员。 |
+| [E](../../aspose.pdf/matrix3d/e) { get; set; } | 变换矩阵的 E 成员。 |
+| [F](../../aspose.pdf/matrix3d/f) { get; set; } | 变换矩阵的 F 成员。 |
+| [G](../../aspose.pdf/matrix3d/g) { get; set; } | 变换矩阵的 G 成员。 |
 | [H](../../aspose.pdf/matrix3d/h) { get; set; } | 变换矩阵的 H 成员。 |
-| [I](../../aspose.pdf/matrix3d/i) { get; set; } | I 变换矩阵的成员。 |
-| [Tx](../../aspose.pdf/matrix3d/tx) { get; set; } | 转换矩阵的 Tx 成员。 |
+| [I](../../aspose.pdf/matrix3d/i) { get; set; } | 我是变换矩阵的成员。 |
+| [Tx](../../aspose.pdf/matrix3d/tx) { get; set; } | 变换矩阵的 Tx 成员。 |
 | [Ty](../../aspose.pdf/matrix3d/ty) { get; set; } | 变换矩阵的 Ty 成员。 |
 | [Tz](../../aspose.pdf/matrix3d/tz) { get; set; } | 变换矩阵的 Tz 成员。 |
 

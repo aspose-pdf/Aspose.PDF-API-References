@@ -18,9 +18,9 @@ public interface IFacade : IDisposable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf)(Document) | 绑定 PDF 文档进行编辑。 |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_1)(Stream) | 绑定 PDF 文档进行编辑。 |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_2)(string) | 绑定 PDF 文档进行编辑。 |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf)(Document) | 绑定 PDF 文档以进行编辑。 |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_1)(Stream) | 绑定 PDF 文档以进行编辑。 |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_2)(string) | 绑定 PDF 文档以进行编辑。 |
 | [Close](../../aspose.pdf.facades/ifacade/close)() | 释放与当前外观相关的所有资源。 |
 
 ### 也可以看看

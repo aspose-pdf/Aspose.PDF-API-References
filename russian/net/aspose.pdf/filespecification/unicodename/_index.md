@@ -1,14 +1,14 @@
 ---
 title: UnicodeName
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает имя Unicode спецификации файла.
+description: Получает или задает юникодное имя спецификации файла.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/filespecification/unicodename/
 ---
 ## FileSpecification.UnicodeName property
 
-Получает или задает имя Unicode спецификации файла.
+Получает или задает юникодное имя спецификации файла.
 
 ```csharp
 public string UnicodeName { get; set; }

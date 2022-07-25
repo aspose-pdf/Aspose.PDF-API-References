@@ -1,14 +1,14 @@
 ---
 title: WarningInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 构造用于收集信息的实例
+description: 构造收集信息的实例
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/warninginfo/warninginfo/
 ---
 ## WarningInfo constructor
 
-构造用于收集信息的实例。
+构造收集信息的实例。
 
 ```csharp
 public WarningInfo(WarningType type, string message)

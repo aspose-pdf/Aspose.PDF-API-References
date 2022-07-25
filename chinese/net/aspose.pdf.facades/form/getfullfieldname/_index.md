@@ -1,14 +1,14 @@
 ---
 title: GetFullFieldName
 second_title: Aspose.PDF for .NET API 参考
-description: 根据其短字段名称获取完整字段名称
+description: 根据其短字段名获取全字段名
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf.facades/form/getfullfieldname/
 ---
 ## Form.GetFullFieldName method
 
-根据其短字段名称获取完整字段名称。
+根据其短字段名获取全字段名。
 
 ```csharp
 public string GetFullFieldName(string fieldName)

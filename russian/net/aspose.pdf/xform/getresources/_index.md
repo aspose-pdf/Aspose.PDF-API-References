@@ -16,7 +16,7 @@ public Resources GetResources(bool allowCreate)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| allowCreate | Boolean | Если For делает not have resources и allowCreate имеет значение true, ресурсы будут автоматически созданы для формы. |
+| allowCreate | Boolean | Если для For нет ресурсов и для параметра allowCreate установлено значение true, для формы будут автоматически созданы ресурсы. |
 
 ### Возвращаемое значение
 
@@ -33,7 +33,7 @@ public Resources GetResources(bool allowCreate)
 
 ## GetResources() {#getresources}
 
-Возвращает ресурсы формы X-Object. Если для For нет ресурсов и для параметра allowCreate установлено значение true, для формы будут автоматически созданы ресурсы.
+Возвращает ресурсы формы X-Object. Если для For нет ресурсов и для параметра allowCreate установлено значение true, ресурсы будут автоматически созданы для формы.
 
 ```csharp
 public Resources GetResources()

@@ -1,14 +1,14 @@
 ---
 title: CloseResponse
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает логическое значение указывающее будет ли объект Response закрыт после сохранения документа в ответ.
+description: Получает или задает логическое значение указывающее будет ли объект Response закрыт после сохранения документа в response.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/saveoptions/closeresponse/
 ---
 ## SaveOptions.CloseResponse property
 
-Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения документа в ответ.
+Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения документа в response.
 
 ```csharp
 public bool CloseResponse { get; set; }

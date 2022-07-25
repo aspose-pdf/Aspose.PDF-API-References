@@ -1,14 +1,14 @@
 ---
 title: IsTextSizeSpecified
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение указывающее указано ли свойствоTextSizeaspose.pdf.facades/textproperties/textsize.
+description: Получает или задает значение указывающееTextSizeaspose.pdf.facades/textproperties/textsize указано свойство.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/textproperties/istextsizespecified/
 ---
 ## TextProperties.IsTextSizeSpecified property
 
-Получает или задает значение, указывающее, указано ли свойство[`TextSize`](../textsize).
+Получает или задает значение, указывающее,[`TextSize`](../textsize) указано свойство.
 
 ```csharp
 public bool IsTextSizeSpecified { get; }

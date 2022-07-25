@@ -1,14 +1,14 @@
 ---
 title: PdfAnnotationEditor
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый объектPdfAnnotationEditoraspose.pdf.facades/pdfannotationeditor.
+description: Инициализирует новыйPdfAnnotationEditoraspose.pdf.facades/pdfannotationeditor объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-Инициализирует новый объект[`PdfAnnotationEditor`](../../pdfannotationeditor).
+Инициализирует новый[`PdfAnnotationEditor`](../../pdfannotationeditor) объект.
 
 ```csharp
 public PdfAnnotationEditor()
@@ -24,7 +24,7 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor(Document) {#constructor_1}
 
-Инициализирует новый[`PdfAnnotationEditor`](../../pdfannotationeditor)объект на основе*document*.
+Инициализирует новый[`PdfAnnotationEditor`](../../pdfannotationeditor) объект на базе*document* .
 
 ```csharp
 public PdfAnnotationEditor(Document document)
@@ -32,7 +32,7 @@ public PdfAnnotationEditor(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

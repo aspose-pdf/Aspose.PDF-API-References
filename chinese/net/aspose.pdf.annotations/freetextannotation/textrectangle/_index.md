@@ -1,14 +1,14 @@
 ---
 title: TextRectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 描述两个矩形之间数值差异的矩形注释 的 Rect 条目和包含在该矩形中的矩形内部矩形是应显示注释文本的位置
+description: 描述两个矩形之间数值差异的矩形annotation 的 Rect 条目和包含在该矩形中的矩形内部矩形是应显示注释文本的位置
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.annotations/freetextannotation/textrectangle/
 ---
 ## FreeTextAnnotation.TextRectangle property
 
-描述两个矩形之间数值差异的矩形:注释 的 Rect 条目和包含在该矩形中的矩形。内部矩形是应显示注释文本的位置。
+描述两个矩形之间数值差异的矩形：annotation 的 Rect 条目和包含在该矩形中的矩形。内部矩形是应显示注释文本的位置。
 
 ```csharp
 public Rectangle TextRectangle { get; set; }

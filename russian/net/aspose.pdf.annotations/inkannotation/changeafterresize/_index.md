@@ -1,14 +1,14 @@
 ---
 title: ChangeAfterResize
 second_title: Aspose.PDF для справочника API .NET
-description: Обновляет точки в InkList в соответствии с преобразованием матрицы.
+description: Обновляет точки в InkList в соответствии с матричным преобразованием.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/inkannotation/changeafterresize/
 ---
 ## InkAnnotation.ChangeAfterResize method
 
-Обновляет точки в InkList в соответствии с преобразованием матрицы.
+Обновляет точки в InkList в соответствии с матричным преобразованием.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)

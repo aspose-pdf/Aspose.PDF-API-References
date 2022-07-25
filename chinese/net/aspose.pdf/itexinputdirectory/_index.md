@@ -1,14 +1,14 @@
 ---
 title: ITeXInputDirectory
 second_title: Aspose.PDF for .NET API 参考
-description: 通用TeX输入目录接口
+description: 广义TeX输入目录接口
 type: docs
 weight: 3680
 url: /zh/net/aspose.pdf/itexinputdirectory/
 ---
 ## ITeXInputDirectory interface
 
-通用TeX输入目录接口。
+广义TeX输入目录接口。
 
 ```csharp
 public interface ITeXInputDirectory : IDisposable

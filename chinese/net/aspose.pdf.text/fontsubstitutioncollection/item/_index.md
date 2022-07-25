@@ -20,7 +20,7 @@ public FontSubstitution this[int index] { get; }
 
 ### 返回值
 
-FontSubstitution 对象。
+字体替换对象。
 
 ### 也可以看看
 

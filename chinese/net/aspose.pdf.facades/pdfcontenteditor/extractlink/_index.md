@@ -16,7 +16,7 @@ public IList<Annotation> ExtractLink()
 
 ### 返回值
 
-Link 对象集合
+Link 对象的集合
 
 ### 例子
 
@@ -27,7 +27,7 @@ IList links = editor.ExtractLink();
 foreach (object obj in links)
 {
     Link link = (Link)obj;
-      // 使用链接 instance
+    // 使用 Link 实例
 }
 ```
 

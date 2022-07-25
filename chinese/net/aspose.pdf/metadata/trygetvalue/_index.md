@@ -17,7 +17,7 @@ public bool TryGetValue(string key, out XmpValue value)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | key | String | 在字典中搜索的键。 |
-| value | XmpValue& | 检索到的值。 |
+| value | XmpValue& | 检索值。 |
 
 ### 返回值
 

@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 获取集合中实际包含的TextSegmentaspose.pdf.text/textsegment对象元素的数量
+description: 获取数量TextSegmentaspose.pdf.text/textsegment集合中实际包含的对象元素
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textsegmentcollection/count/
 ---
 ## TextSegmentCollection.Count property
 
-获取集合中实际包含的[`TextSegment`](../../textsegment)对象元素的数量。
+获取数量[`TextSegment`](../../textsegment)集合中实际包含的对象元素。
 
 ```csharp
 public int Count { get; }

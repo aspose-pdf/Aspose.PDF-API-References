@@ -1,14 +1,14 @@
 ---
 title: HasErrors
 second_title: Aspose.PDF for .NET API 参考
-description: 值表示在文本提取过程中是否发现错误 仅当 TextSearchOptions.LogTextExtractionErrors  true 时才会执行错误搜索它可能会降低性能
+description: 值表示在文本提取过程中是否发现错误 只有在 TextSearchOptions.LogTextExtractionErrors  true 时才会执行错误搜索它可能会降低性能
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/haserrors/
 ---
 ## TextFragmentAbsorber.HasErrors property
 
-值表示在文本提取过程中是否发现错误。 仅当 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。
+值表示在文本提取过程中是否发现错误。 只有在 TextSearchOptions.LogTextExtractionErrors = true 时才会执行错误搜索；它可能会降低性能。
 
 ```csharp
 public bool HasErrors { get; }

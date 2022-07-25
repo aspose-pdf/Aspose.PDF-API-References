@@ -16,7 +16,7 @@ public MovieAnnotation(Document document, string movieFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана аннотация фильма. |
+| document | Document | Документ, в котором будет создана аннотация к фильму. |
 | movieFile | String | Имя файла фильма. |
 
 ### Смотрите также

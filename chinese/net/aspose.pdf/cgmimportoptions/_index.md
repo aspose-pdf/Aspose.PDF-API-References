@@ -1,14 +1,14 @@
 ---
 title: CgmImportOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 用于从计算机图形元文件 CGM 格式导入的导入选项
+description: 从计算机图形元文件 CGM 格式导入的导入选项
 type: docs
 weight: 1460
 url: /zh/net/aspose.pdf/cgmimportoptions/
 ---
 ## CgmImportOptions class
 
-用于从计算机图形元文件 (CGM) 格式导入的导入选项。
+从计算机图形元文件 (CGM) 格式导入的导入选项。
 
 ```csharp
 public class CgmImportOptions : ImportOptions
@@ -25,7 +25,7 @@ public class CgmImportOptions : ImportOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat) { get; } | 导入格式。 |
-| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize) { get; set; } | 获取或设置用于导入的输出页面大小。 默认页面大小 - A4 300dpi 2480 X 3508。 |
+| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize) { get; set; } | 获取或设置用于导入的输出页面大小。 默认页面大小 - A4 300dpi 2480 X 3508. |
 
 ### 也可以看看
 

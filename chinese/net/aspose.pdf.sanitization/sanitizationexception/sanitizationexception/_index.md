@@ -1,14 +1,14 @@
 ---
 title: SanitizationException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化SanitizationExceptionaspose.pdf.sanitization/sanitizationexception类的新实例
+description: 初始化SanitizationExceptionaspose.pdf.sanitization/sanitizationexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/
 ---
 ## SanitizationException() {#constructor}
 
-初始化[`SanitizationException`](../../sanitizationexception)类的新实例。
+初始化[`SanitizationException`](../../sanitizationexception)类.
 
 ```csharp
 public SanitizationException()
@@ -24,7 +24,7 @@ public SanitizationException()
 
 ## SanitizationException(string) {#constructor_2}
 
-初始化[`SanitizationException`](../../sanitizationexception)类的新实例。
+初始化[`SanitizationException`](../../sanitizationexception)类.
 
 ```csharp
 public SanitizationException(string message)
@@ -44,7 +44,7 @@ public SanitizationException(string message)
 
 ## SanitizationException(string, Exception) {#constructor_3}
 
-使用指定的初始化[`SanitizationException`](../../sanitizationexception) 类的新实例错误消息和对导致此异常的内部异常的引用。
+初始化[`SanitizationException`](../../sanitizationexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public SanitizationException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public SanitizationException(string message, Exception innerException)
 
 ## SanitizationException(Exception) {#constructor_1}
 
-使用指定的初始化[`SanitizationException`](../../sanitizationexception) 类的新实例错误消息和对导致此异常的内部异常的引用。
+初始化[`SanitizationException`](../../sanitizationexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public SanitizationException(Exception innerException)
@@ -73,7 +73,7 @@ public SanitizationException(Exception innerException)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| innerException | Exception | 导致当前异常的异常，如果没有内部异常，则为空引用（在 Visual Basic 中为空）被指定。 |
+| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

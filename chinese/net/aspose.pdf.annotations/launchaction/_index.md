@@ -18,8 +18,8 @@ public sealed class LaunchAction : PdfAction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LaunchAction](launchaction#constructor_1)(string) | 创建启动动作。 |
-| [LaunchAction](launchaction#constructor)(Document, string) | 创建启动动作。 |
+| [LaunchAction](launchaction#constructor_1)(string) | 创建一个启动动作。 |
+| [LaunchAction](launchaction#constructor)(Document, string) | 创建一个启动动作。 |
 
 ## 特性
 

@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.annotations/pdf3dcrosssection/center/
 ---
 ## PDF3DCrossSection.Center property
 
-获取或设置横截面旋转中心。
+获取或设置横截面旋转中心
 
 ```csharp
 public Point3D Center { get; set; }

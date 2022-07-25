@@ -1,14 +1,14 @@
 ---
 title: SetGray
 second_title: Aspose.PDF for .NET API 参考
-description: 设置非描边操作的灰度
+description: 为非描边操作设置灰度
 type: docs
 weight: 5480
 url: /zh/net/aspose.pdf.operators/setgray/
 ---
 ## SetGray class
 
-设置非描边操作的灰度。
+为非描边操作设置灰度。
 
 ```csharp
 public class SetGray : SetColorOperator
@@ -18,7 +18,7 @@ public class SetGray : SetColorOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetGray](setgray)(double) | 初始化运算符。 |
+| [SetGray](setgray)(double) | 初始化操作符。 |
 
 ## 特性
 
@@ -31,8 +31,8 @@ public class SetGray : SetColorOperator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setgray/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [getColor](../../aspose.pdf.operators/setgray/getcolor)() | 返回运算符指定的颜色。 |
-| override [ToString](../../aspose.pdf.operators/setgray/tostring)() | 返回运算符的字符串表示。 |
+| override [getColor](../../aspose.pdf.operators/setgray/getcolor)() | 返回操作员指定的颜色。 |
+| override [ToString](../../aspose.pdf.operators/setgray/tostring)() | 返回运算符的字符串表示形式。 |
 
 ### 也可以看看
 

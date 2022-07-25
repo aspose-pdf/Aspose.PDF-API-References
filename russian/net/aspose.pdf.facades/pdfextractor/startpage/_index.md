@@ -1,14 +1,22 @@
 ---
 title: StartPage
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает начальную страницу в диапазоне страниц где будет выполняться операция извлечения.  ltcodegt PdfExtractor ext  new PdfExtractor ext.BindBdfsample.pdf ext.StartPage  2 ext.EndPage  5 ext.ExtractText lt/codegt
+description: Получает или задает начальную страницу в диапазоне страниц где будет выполняться операция извлечения.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdfextractor/startpage/
 ---
 ## PdfExtractor.StartPage property
 
-Получает или задает начальную страницу в диапазоне страниц, где будет выполняться операция извлечения.  &lt;code&gt; PdfExtractor ext = new PdfExtractor(); ext.BindBdf("sample.pdf"); ext.StartPage = 2; ext.EndPage = 5; ext.ExtractText(); &lt;/code&gt;
+Получает или задает начальную страницу в диапазоне страниц, где будет выполняться операция извлечения.
+
+```csharp
+PdfExtractor ext = new PdfExtractor();
+ext.BindBdf("sample.pdf");
+ext.StartPage = 2;
+ext.EndPage = 5;
+ext.ExtractText();
+```
 
 ```csharp
 public int StartPage { get; set; }

@@ -16,7 +16,7 @@ public object GetObjectById(string id)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| id | String | 对象 ID。 |
+| id | String | 对象标识。 |
 
 ### 返回值
 

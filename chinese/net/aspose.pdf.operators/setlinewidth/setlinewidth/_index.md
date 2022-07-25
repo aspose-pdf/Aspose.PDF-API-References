@@ -16,7 +16,7 @@ public SetLineWidth(double width)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Double | 线宽。 |
+| width | Double | 行宽。 |
 
 ### 也可以看看
 

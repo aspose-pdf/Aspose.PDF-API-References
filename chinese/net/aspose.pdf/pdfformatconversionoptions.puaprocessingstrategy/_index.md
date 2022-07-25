@@ -1,14 +1,14 @@
 ---
 title: PdfFormatConversionOptions.PuaProcessingStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 一些 PDF 文档有特殊的 unicode 符号属于私人使用区 PUA 参见 https//en 的描述 wikipedia.org/wiki/Private_Use_Areas 此符号会导致 PDF/A 兼容错误例如文本已映射到 Unicode 私人使用区域但不存在 ActualText 条目 此枚举声明了一个可用于处理 PUA 符号的策略
+description: 一些 PDF 文档具有特殊的 unicode 符号属于私人使用区域 PUA 参见 https//en.wikipedia.org/wiki/Private_Use_Areas. 上的描述此符号会导致 PDF/A 兼容错误例如文本被映射到 Unicode Private Use Area 但没有 ActualText 条目存在 此枚举声明了可用于处理 PUA 符号的策略
 type: docs
 weight: 6040
 url: /zh/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/
 ---
 ## PdfFormatConversionOptions.PuaProcessingStrategy enumeration
 
-一些 PDF 文档有特殊的 unicode 符号，属于私人使用区 (PUA)， 参见 https://en 的描述。 wikipedia.org/wiki/Private_Use_Areas。 此符号会导致 PDF/A 兼容错误，例如“文本已映射到 Unicode 私人使用区域，但不存在 ActualText 条目”。 此枚举声明了一个可用于处理 PUA 符号的策略。
+一些 PDF 文档具有特殊的 unicode 符号，属于私人使用区域 (PUA)， 参见 https://en.wikipedia.org/wiki/Private_Use_Areas. 上的描述。此符号会导致 PDF/A 兼容错误，例如“文本被映射到 Unicode Private Use Area 但没有 ActualText 条目存在”。 此枚举声明了可用于处理 PUA 符号的策略。
 
 ```csharp
 public enum PuaProcessingStrategy
@@ -19,8 +19,8 @@ public enum PuaProcessingStrategy
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 禁用 PUA 符号处理。此策略默认用于符合 B 级标准的 PDF/A 文档。 |
-| SurroundPuaTextWithEmptyActualText | `1` | 插入带有包含空文本的 ActualText 条目的标记内容块。 这种策略对没有标记内容块的文档有很好的效果。默认情况下用于符合 A 级标准的 PDF/A 文档。 |
-| SubstitutePuaSymbols | `2` | 此策略的运行速度比“SurroundPuaTextWithEmptyActualText”慢，但它可以消除 SurroundPuaTextWithEmptyActualText 无法正确处理的文档的 PUA 兼容错误。 PUA 符号 替换为符号“空格”或特殊 unicode（某些 PUA 符号具有 unicode 类似物）。替换应用 不是文档的文本，而是字体的内部数据 ToUnicode，因此它不会影响符号的视觉，但它 会影响符号在复制/粘贴操作系统缓冲区中的表示。 |
+| SurroundPuaTextWithEmptyActualText | `1` | 使用包含空文本的 ActualText 条目插入标记的内容块。 此策略对没有标记内容块的文档提供了良好的结果。默认情况下用于符合 A 级标准的 PDF/A 文档。 |
+| SubstitutePuaSymbols | `2` | 此策略的运行速度比“SurroundPuaTextWithEmptyActualText”慢，但它可以消除 SurroundPuaTextWithEmptyActualText 无法正确处理的文档的 PUA 兼容错误。 PUA 符号 被符号“空格”或特殊 unicode 替换（某些 PUA 符号具有 unicode 类似物）。替换应用 不是文档的文本而是字体的内部数据ToUnicode，因此它不会影响符号的视觉，但it 会影响符号在复制/粘贴操作系统缓冲区中的呈现。 |
 
 ### 也可以看看
 

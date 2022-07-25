@@ -1,14 +1,14 @@
 ---
 title: GetAngle
 second_title: Aspose.PDF для справочника API .NET
-description: Переводит вращение в угол градусы
+description: Преобразует вращение в угол градусы
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/matrix/getangle/
 ---
 ## Matrix.GetAngle method
 
-Переводит вращение в угол (градусы)
+Преобразует вращение в угол (градусы)
 
 ```csharp
 public static double GetAngle(Rotation rotation)
@@ -16,7 +16,7 @@ public static double GetAngle(Rotation rotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rotation | Rotation | Значение поворота. |
+| rotation | Rotation | Значение вращения. |
 
 ### Возвращаемое значение
 

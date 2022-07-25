@@ -1,14 +1,14 @@
 ---
 title: CreateSpanElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建SpanElementaspose.pdf.logicalstructure/spanelement
+description: 创建SpanElementaspose.pdf.logicalstructure/spanelement.
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createspanelement/
 ---
 ## ITaggedContent.CreateSpanElement method
 
-创建[`SpanElement`](../../../aspose.pdf.logicalstructure/spanelement)。
+创建[`SpanElement`](../../../aspose.pdf.logicalstructure/spanelement).
 
 ```csharp
 public SpanElement CreateSpanElement()
@@ -16,7 +16,7 @@ public SpanElement CreateSpanElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

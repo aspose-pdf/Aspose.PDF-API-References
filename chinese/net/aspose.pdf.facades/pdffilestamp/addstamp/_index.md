@@ -1,14 +1,14 @@
 ---
 title: AddStamp
 second_title: Aspose.PDF for .NET API 参考
-description: 将戳记添加到文件中
+description: 在文件中添加标记
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
 ## PdfFileStamp.AddStamp method
 
-将戳记添加到文件中。
+在文件中添加标记。
 
 ```csharp
 public void AddStamp(Stamp stamp)
@@ -16,7 +16,7 @@ public void AddStamp(Stamp stamp)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stamp | Stamp | 邮票对象。 |
+| stamp | Stamp | 邮票对象其中。 |
 
 ### 例子
 

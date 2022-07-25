@@ -16,7 +16,7 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | 包含页脚文本和文本属性的 FormattedText 对象。 |
+| formattedText | FormattedText | FormattedText 对象，其中包含页脚文本和文本属性。 |
 | bottomMargin | Single | 页面顶部的边距。 |
 
 ### 例子
@@ -46,7 +46,7 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText 对象，其中包含页脚文本和文本属性。 |
+| formattedText | FormattedText | 包含页脚文本和文本属性的 FormattedText 对象。 |
 | bottomMargin | Single | 页面底部的边距。 |
 | leftMargin | Single | 页面左侧的边距。 |
 | rightMargin | Single | 页面右侧的边距。 |
@@ -107,7 +107,7 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageFile | String | Iamge 文件名和路径。 |
+| imageFile | String | 图片文件名和路径。 |
 | bottomMargin | Single | 页面底部的边距。 |
 | leftMargin | Single | 页面左侧的边距。 |
 | rightMargin | Single | 页面右侧的边距。 |

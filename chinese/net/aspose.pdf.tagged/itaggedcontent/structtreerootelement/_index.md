@@ -1,14 +1,14 @@
 ---
 title: StructTreeRootElement
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 PDF 文档的StructTreeRootElementaspose.pdf.logicalstructure/structtreerootelement
+description: 获取StructTreeRootElementaspose.pdf.logicalstructure/structtreerootelementPDF 文档
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
 ## ITaggedContent.StructTreeRootElement property
 
-获取 PDF 文档的[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement)。
+获取[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement)PDF 文档。
 
 ```csharp
 public StructTreeRootElement StructTreeRootElement { get; }

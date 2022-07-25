@@ -1,14 +1,14 @@
 ---
 title: LocationLabel
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置位置标签默认值位置
+description: 获取/设置位置标签默认值位置.
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
 ## SignatureCustomAppearance.LocationLabel property
 
-获取/设置位置标签。默认值:“位置”。
+获取/设置位置标签。默认值：“位置”.
 
 ```csharp
 public string LocationLabel { get; set; }

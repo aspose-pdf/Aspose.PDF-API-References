@@ -1,14 +1,14 @@
 ---
 title: Border
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示浮动框边框信息的BorderInfoaspose.pdf/borderinfo对象
+description: 获取或设置一个BorderInfoaspose.pdf/borderinfo表示浮动框边框信息的对象
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/floatingbox/border/
 ---
 ## FloatingBox.Border property
 
-获取或设置表示浮动框边框信息的[`BorderInfo`](../../borderinfo)对象。
+获取或设置一个[`BorderInfo`](../../borderinfo)表示浮动框边框信息的对象。
 
 ```csharp
 public BorderInfo Border { get; set; }

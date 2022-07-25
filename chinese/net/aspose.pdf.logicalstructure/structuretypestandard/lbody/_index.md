@@ -1,14 +1,14 @@
 ---
 title: LBody
 second_title: Aspose.PDF for .NET API 参考
-description: 列表正文列表项的描述性内容例如在字典列表中它包含术语的定义它可以直接包含内容也可以将其他 BLSE可能包括嵌套列表作为子级
+description: 列表正文列表项的描述性内容例如在字典列表中它包含术语的定义它可能直接包含内容或具有其他 BLSE可能包括嵌套列表作为子项
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/lbody/
 ---
 ## StructureTypeStandard.LBody field
 
-（列表正文）列表项的描述性内容。例如，在字典列表中，它包含术语的定义。它可以直接包含内容，也可以将其他 BLSE（可能包括嵌套列表）作为子级。
+（列表正文）列表项的描述性内容。例如，在字典列表中，它包含术语的定义。它可能直接包含内容或具有其他 BLSE，可能包括嵌套列表，作为子项。
 
 ```csharp
 public static readonly StructureTypeStandard LBody;

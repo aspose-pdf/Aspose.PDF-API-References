@@ -16,12 +16,12 @@ public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 标志应为的字段名称更新。 |
-| flags | AnnotationFlags | 字段的标志。 |
+| fieldName | String | 应更新其标志的字段的名称。 |
+| flags | AnnotationFlags | 领域的标志。 |
 
 ### 返回值
 
-如果标志更新成功，则为真。
+如果标志已成功更新，则为 true。
 
 ### 例子
 

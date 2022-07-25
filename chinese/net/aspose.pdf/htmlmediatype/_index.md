@@ -19,7 +19,7 @@ public enum HtmlMediaType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Print | `0` | 打印。 |
-| Screen | `1` | 屏幕。 |
+| Screen | `1` | 屏幕. |
 
 ### 也可以看看
 

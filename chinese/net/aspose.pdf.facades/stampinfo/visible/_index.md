@@ -1,14 +1,14 @@
 ---
 title: Visible
 second_title: Aspose.PDF for .NET API 参考
-description: 获取戳记的可见性如果为 false则隐藏标记使用 HideStampById ShowStampById 可以恢复隐藏的图章
+description: 获取戳记的可见性如果为 false则隐藏标记使用 HideStampById ShowStampById. 可以恢复隐藏的图章
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/stampinfo/visible/
 ---
 ## StampInfo.Visible property
 
-获取戳记的可见性。如果为 false，则隐藏标记（使用 HideStampById）。 ShowStampById 可以恢复隐藏的图章。
+获取戳记的可见性。如果为 false，则隐藏标记（使用 HideStampById）。 ShowStampById. 可以恢复隐藏的图章
 
 ```csharp
 public bool Visible { get; }

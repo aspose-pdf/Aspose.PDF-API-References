@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_None
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BorderStyleNone - 无边框强制 BorderThickness 的计算值为 0
+description: 属性边框样式无 - 无边框强制 BorderThickness 的计算值为 0.
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/
 ---
 ## AttributeName.BorderStyle_None field
 
-属性 BorderStyle:None - 无边框。强制 BorderThickness 的计算值为 0。
+属性边框样式：无 - 无边框。强制 BorderThickness 的计算值为 0.
 
 ```csharp
 public static readonly AttributeName BorderStyle_None;

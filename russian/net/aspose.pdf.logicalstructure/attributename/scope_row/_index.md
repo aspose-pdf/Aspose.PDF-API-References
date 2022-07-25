@@ -1,14 +1,14 @@
 ---
 title: Scope_Row
 second_title: Aspose.PDF для справочника API .NET
-description: Область действия атрибутаСтрока.
+description: Область действия атрибута Строка.
 type: docs
 weight: 540
 url: /ru/net/aspose.pdf.logicalstructure/attributename/scope_row/
 ---
 ## AttributeName.Scope_Row field
 
-Область действия атрибута:Строка.
+Область действия атрибута: Строка.
 
 ```csharp
 public static readonly AttributeName Scope_Row;

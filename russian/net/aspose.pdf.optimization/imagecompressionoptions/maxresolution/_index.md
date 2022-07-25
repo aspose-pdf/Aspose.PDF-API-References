@@ -1,14 +1,14 @@
 ---
 title: MaxResolution
 second_title: Aspose.PDF для справочника API .NET
-description: Задает максимальное разрешение изображений. Если разрешение изображения выше оно будет масштабировано
+description: Определяет максимальное разрешение изображений. Если изображение имеет более высокое разрешение оно будет масштабировано
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.optimization/imagecompressionoptions/maxresolution/
 ---
 ## ImageCompressionOptions.MaxResolution property
 
-Задает максимальное разрешение изображений. Если разрешение изображения выше, оно будет масштабировано
+Определяет максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабировано
 
 ```csharp
 public int MaxResolution { get; set; }

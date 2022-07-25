@@ -20,7 +20,7 @@ public bool Remove(string key)
 
 ### 返回值
 
-如果密钥被成功删除，则为真。
+如果密钥已成功删除，则为 true。
 
 ### 也可以看看
 

@@ -16,11 +16,11 @@ public StructureAttribute GetAttribute(AttributeKey key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | AttributeKey | AttributeKey。 |
+| key | AttributeKey | 属性键。 |
 
 ### 返回值
 
-StructureAttribute
+结构属性
 
 ### 也可以看看
 

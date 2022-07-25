@@ -1,14 +1,14 @@
 ---
 title: LemonChiffon
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFFFACD.
+description: Получает определяемый системой цвет со значением ARGB FFFFFACD.
 type: docs
 weight: 640
 url: /ru/net/aspose.pdf/color/lemonchiffon/
 ---
 ## Color.LemonChiffon property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFFFACD.
+Получает определяемый системой цвет со значением ARGB #FFFFFACD.
 
 ```csharp
 public static Color LemonChiffon { get; }

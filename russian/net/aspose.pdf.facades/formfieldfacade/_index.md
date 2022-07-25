@@ -32,10 +32,10 @@ public sealed class FormFieldFacade
 | [Box](../../aspose.pdf.facades/formfieldfacade/box) { get; set; } | Прямоугольный объект, содержащий местоположение поля. |
 | [ButtonStyle](../../aspose.pdf.facades/formfieldfacade/buttonstyle) { get; set; } | Стиль флажка или поля переключателя, определяемый FormFieldFacade.CheckBoxStyle*. |
 | [Caption](../../aspose.pdf.facades/formfieldfacade/caption) { get; set; } | Обычный заголовок поля формы. |
-| [CustomFont](../../aspose.pdf.facades/formfieldfacade/customfont) { get; set; } | Получает или устанавливает имя шрифта, если он нестандартный (отличный от 14 стандартных шрифтов). |
+| [CustomFont](../../aspose.pdf.facades/formfieldfacade/customfont) { get; set; } | Получает или задает имя шрифта, если он не является стандартным (кроме 14 стандартных шрифтов). |
 | [ExportItems](../../aspose.pdf.facades/formfieldfacade/exportitems) { get; set; } | Варианты добавления списка/комбо/переключателя |
 | [Font](../../aspose.pdf.facades/formfieldfacade/font) { get; set; } | Тип шрифта текста поля. |
-| [FontSize](../../aspose.pdf.facades/formfieldfacade/fontsize) { get; set; } | Размер текстового поля. |
+| [FontSize](../../aspose.pdf.facades/formfieldfacade/fontsize) { get; set; } | Размер поля text. |
 | [Items](../../aspose.pdf.facades/formfieldfacade/items) { get; set; } | Массив строк, каждая из которых представляет параметр поля со списком/списка/переключателя. |
 | [PageNumber](../../aspose.pdf.facades/formfieldfacade/pagenumber) { get; set; } | Целочисленное значение, содержащее номер страницы, на которой находится поле. |
 | [Position](../../aspose.pdf.facades/formfieldfacade/position) { get; set; } | Прямоугольный объект, содержащий местоположение поля. |
@@ -54,15 +54,15 @@ public sealed class FormFieldFacade
 | Имя | Описание |
 | --- | --- |
 | const [AlignBottom](../../aspose.pdf.facades/formfieldfacade/alignbottom) | Определяет выравнивание по вертикали как нижний стиль. |
-| const [AlignCenter](../../aspose.pdf.facades/formfieldfacade/aligncenter) | Определяет выравнивание по центру. |
+| const [AlignCenter](../../aspose.pdf.facades/formfieldfacade/aligncenter) | Определяет выравнивание по центру стиля. |
 | const [AlignJustified](../../aspose.pdf.facades/formfieldfacade/alignjustified) | Определяет стиль выравнивания текста по ширине. |
 | const [AlignLeft](../../aspose.pdf.facades/formfieldfacade/alignleft) | Определяет выравнивание по левому стилю. |
 | const [AlignMiddle](../../aspose.pdf.facades/formfieldfacade/alignmiddle) | Определяет выравнивание по вертикали как средний стиль. |
-| const [AlignRight](../../aspose.pdf.facades/formfieldfacade/alignright) | Определяет выравнивание к правому стилю. |
+| const [AlignRight](../../aspose.pdf.facades/formfieldfacade/alignright) | Определяет соответствие правому стилю. |
 | const [AlignTop](../../aspose.pdf.facades/formfieldfacade/aligntop) | Определяет выравнивание по вертикали как верхний стиль. |
 | const [AlignUndefined](../../aspose.pdf.facades/formfieldfacade/alignundefined) | Неопределенный стиль выравнивания. |
-| const [BorderStyleBeveled](../../aspose.pdf.facades/formfieldfacade/borderstylebeveled) | Определяет скошенный стиль границы. |
-| const [BorderStyleDashed](../../aspose.pdf.facades/formfieldfacade/borderstyledashed) | Определяет пунктирную границу. |
+| const [BorderStyleBeveled](../../aspose.pdf.facades/formfieldfacade/borderstylebeveled) | Определяет стиль скошенной границы. |
+| const [BorderStyleDashed](../../aspose.pdf.facades/formfieldfacade/borderstyledashed) | Определяет стиль пунктирной границы. |
 | const [BorderStyleInset](../../aspose.pdf.facades/formfieldfacade/borderstyleinset) | Определяет вставленный стиль границы. |
 | const [BorderStyleSolid](../../aspose.pdf.facades/formfieldfacade/borderstylesolid) | Определяет сплошной стиль границы. |
 | const [BorderStyleUndefined](../../aspose.pdf.facades/formfieldfacade/borderstyleundefined) | Неопределенный стиль границы. |
@@ -71,7 +71,7 @@ public sealed class FormFieldFacade
 | const [BorderWidthThick](../../aspose.pdf.facades/formfieldfacade/borderwidththick) | Определяет толщину границы. |
 | const [BorderWidthThin](../../aspose.pdf.facades/formfieldfacade/borderwidththin) | Определяет ширину тонкой границы. |
 | const [BorderWidthUndefined](../../aspose.pdf.facades/formfieldfacade/borderwidthundefined) | Неопределенная ширина границы. |
-| const [CheckBoxStyleCheck](../../aspose.pdf.facades/formfieldfacade/checkboxstylecheck) | Определяет форму поля флажка, когда оно установлено. |
+| const [CheckBoxStyleCheck](../../aspose.pdf.facades/formfieldfacade/checkboxstylecheck) | Определяет форму поля флажка, когда оно отмечено. |
 | const [CheckBoxStyleCircle](../../aspose.pdf.facades/formfieldfacade/checkboxstylecircle) | Определяет стиль кругового флажка. |
 | const [CheckBoxStyleCross](../../aspose.pdf.facades/formfieldfacade/checkboxstylecross) | Определяет стиль перекрестного флажка. |
 | const [CheckBoxStyleDiamond](../../aspose.pdf.facades/formfieldfacade/checkboxstylediamond) | Определяет стиль флажка в виде ромба. |

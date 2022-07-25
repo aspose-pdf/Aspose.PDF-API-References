@@ -18,7 +18,7 @@ public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, d
 | --- | --- | --- |
 | inputImageStream | Stream | 输入图像流。 |
 | outputImageStream | Stream | 输出图像流。 |
-| threshold | Double | 0.0 和 1.0 之间的阈值。 |
+| threshold | Double | 介于 0.0 和 1.0 之间的阈值。 |
 
 ### 也可以看看
 

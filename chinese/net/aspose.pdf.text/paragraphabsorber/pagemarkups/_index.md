@@ -1,14 +1,14 @@
 ---
 title: PageMarkups
 second_title: Aspose.PDF for .NET API 参考
-description: 获取被吸收的PageMarkupaspose.pdf.text/pagemarkup集合
+description: 获取集合PageMarkupaspose.pdf.text/pagemarkup被吸收了
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/paragraphabsorber/pagemarkups/
 ---
 ## ParagraphAbsorber.PageMarkups property
 
-获取被吸收的[`PageMarkup`](../../pagemarkup)集合。
+获取集合[`PageMarkup`](../../pagemarkup)被吸收了。
 
 ```csharp
 public List<PageMarkup> PageMarkups { get; }

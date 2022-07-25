@@ -24,15 +24,15 @@ public sealed class GraphInfo : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.pdf/graphinfo/color) { get; set; } | Получает или задает объект[`Color`](./color), указывающий цвет графика. |
-| [DashArray](../../aspose.pdf/graphinfo/dasharray) { get; set; } | Получает или задает массив тире. |
+| [Color](../../aspose.pdf/graphinfo/color) { get; set; } | Получает или задает[`Color`](./color) объект, указывающий цвет графика. |
+| [DashArray](../../aspose.pdf/graphinfo/dasharray) { get; set; } | Получает или задает массив штрихов. |
 | [DashPhase](../../aspose.pdf/graphinfo/dashphase) { get; set; } | Получает или задает фазу тире. |
-| [FillColor](../../aspose.pdf/graphinfo/fillcolor) { get; set; } | Получает или задает объект[`Color`](./color), указывающий цвет заливки графика. |
-| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled) { get; set; } | Получает или устанавливает удвоенную границу. |
+| [FillColor](../../aspose.pdf/graphinfo/fillcolor) { get; set; } | Получает или задает[`Color`](./color) объект, указывающий цвет заливки графика. |
+| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled) { get; set; } | Получает или устанавливает двойную границу. |
 | [LineWidth](../../aspose.pdf/graphinfo/linewidth) { get; set; } | Получает или задает значение с плавающей запятой, указывающее ширину линии графика. |
 | [RotationAngle](../../aspose.pdf/graphinfo/rotationangle) { get; set; } | Получает или задает значение с плавающей запятой, указывающее угол поворота системы координат при преобразовании системы координат. |
 | [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex) { get; set; } | Получает или задает значение с плавающей запятой, указывающее скорость масштабирования координаты x при преобразовании системы координат. |
-| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey) { get; set; } | Получает или задает значение с плавающей запятой, указывающее скорость масштабирования координаты Y при преобразовании системы координат. |
+| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey) { get; set; } | Получает или задает значение с плавающей запятой, указывающее коэффициент масштабирования координаты Y при преобразовании системы координат. |
 | [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex) { get; set; } | Получает или задает значение с плавающей запятой, указывающее угол наклона координаты x при преобразовании системы координат. |
 | [SkewAngleY](../../aspose.pdf/graphinfo/skewangley) { get; set; } | Получает или задает значение с плавающей запятой, указывающее угол наклона координаты Y при преобразовании системы координат. |
 

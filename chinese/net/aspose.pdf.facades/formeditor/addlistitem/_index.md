@@ -17,7 +17,7 @@ public void AddListItem(string fieldName, string itemName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | String | 将添加新项目的字段名称。 |
-| itemName | String | 名称如果是新项目。 |
+| itemName | String | 如果是新项目，请命名。 |
 
 ### 例子
 
@@ -44,7 +44,7 @@ public void AddListItem(string fieldName, string[] exportName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 将添加项目的字段名称。 |
+| fieldName | String | 将添加项目的字段的名称。 |
 | exportName | String[] | 一个字符串数组，表示具有导出值的新列表项，即（项目标签，导出值）。 |
 
 ### 例子

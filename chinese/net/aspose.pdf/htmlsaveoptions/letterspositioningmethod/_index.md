@@ -1,14 +1,14 @@
 ---
 title: LettersPositioningMethod
 second_title: Aspose.PDF for .NET API 参考
-description: 设置结果 HTML 中单词中字母的定位模式
+description: 在结果 HTML 中设置单词中字母的定位模式
 type: docs
 weight: 300
 url: /zh/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/
 ---
 ## HtmlSaveOptions.LettersPositioningMethod field
 
-设置结果 HTML 中单词中字母的定位模式
+在结果 HTML 中设置单词中字母的定位模式
 
 ```csharp
 public LettersPositioningMethods LettersPositioningMethod;

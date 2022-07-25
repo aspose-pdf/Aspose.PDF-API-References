@@ -1,14 +1,14 @@
 ---
 title: Visit
 second_title: Aspose.PDF для справочника API .NET
-description: Выполняет поиск разделов и абзацев по указанномуDocumentaspose.pdf/document.
+description: Выполняет поиск разделов и абзацев на указанномDocumentaspose.pdf/document .
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/paragraphabsorber/visit/
 ---
 ## Visit(Document) {#visit}
 
-Выполняет поиск разделов и абзацев по указанному[`Document`](../../../aspose.pdf/document).
+Выполняет поиск разделов и абзацев на указанном[`Document`](../../../aspose.pdf/document) .
 
 ```csharp
 public void Visit(Document doc)
@@ -29,7 +29,7 @@ public void Visit(Document doc)
 
 ## Visit(Page) {#visit_1}
 
-Выполняет поиск по указанной[`Page`](../../../aspose.pdf/page).
+Выполняет поиск по указанному[`Page`](../../../aspose.pdf/page) .
 
 ```csharp
 public void Visit(Page page)
@@ -37,7 +37,7 @@ public void Visit(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы документа Pdf. |
+| page | Page | Объект страницы документа PDF. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: KeepFieldsUnique
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则在连接表单时字段名称将是唯一的 后缀将添加到字段名称后缀模板可以在 UniqueSuffix 属性中指定
+description: 如果为 true则连接表单时字段名称将是唯一的 字段名称将添加后缀可以在 UniqueSuffix 属性中指定后缀模板
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdffileeditor/keepfieldsunique/
 ---
 ## PdfFileEditor.KeepFieldsUnique property
 
-如果为真，则在连接表单时字段名称将是唯一的。 后缀将添加到字段名称，后缀模板可以在 UniqueSuffix 属性中指定。
+如果为 true，则连接表单时字段名称将是唯一的。 字段名称将添加后缀，可以在 UniqueSuffix 属性中指定后缀模板。
 
 ```csharp
 public bool KeepFieldsUnique { get; set; }

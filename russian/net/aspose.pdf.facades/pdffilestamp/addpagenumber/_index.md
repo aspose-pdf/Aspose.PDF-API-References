@@ -1,14 +1,14 @@
 ---
 title: AddPageNumber
 second_title: Aspose.PDF для справочника API .NET
-description: Добавить номер страницы в файл. Текст номера страницы может содержать знак  который будет заменен номером страницы. Номер страницы помещается внизу страницы по центру по горизонтали.
+description: Добавить номер страницы в файл. Текст номера страницы может содержать знак  который будет заменен номером страницы. Номер страницы размещается внизу страницы по центру горизонтально.
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/pdffilestamp/addpagenumber/
 ---
 ## AddPageNumber(string) {#addpagenumber_4}
 
-Добавить номер страницы в файл. Текст номера страницы может содержать знак #, который будет заменен номером страницы. Номер страницы помещается внизу страницы по центру по горизонтали.
+Добавить номер страницы в файл. Текст номера страницы может содержать знак #, который будет заменен номером страницы. Номер страницы размещается внизу страницы по центру горизонтально.
 
 ```csharp
 public void AddPageNumber(string formatString)
@@ -44,7 +44,7 @@ public void AddPageNumber(FormattedText formattedText)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Строка формата для номера страницы представляется как FormattedText. |
+| formattedText | FormattedText | Строка формата для номера страницы представлена как FormattedText. |
 
 ### Примеры
 
@@ -75,10 +75,10 @@ public void AddPageNumber(string formatString, int position, float leftMargin, f
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formatString | String | Строка формата для номера страницы. |
-| position | Int32 | Позиция, в которой будет размещен номер страницы на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3 - боковые справа, 4 - верхний средний, 5 - нижний левый, 6 - боковые левые, 7 - верхний левый. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | Single | Поле на левом краю страницы. |
-| rightMargin | Single | Поле по правому краю страницы. |
-| topMargin | Single | Поле по верхнему краю страницы. |
+| position | Int32 | Позиция, в которой номер страницы будет размещен на странице. 0-внизу посередине, 1-внизу справа, 2-вверху справа, 3-боки справа, 4-вверху посередине,5-внизу слева,6-боки слева,7-вверху слева. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | Single | Поля по левому краю страницы. |
+| rightMargin | Single | Поля по правому краю страницы. |
+| topMargin | Single | Поля по верхнему краю страницы. |
 | bottomMargin | Single | Поле по нижнему краю страницы. |
 
 ### Примеры
@@ -99,7 +99,7 @@ fileStamp.Close();
 
 ## AddPageNumber(string, float, float) {#addpagenumber_7}
 
-Добавляет номер страницы в указанной позиции на странице.
+Добавляет номер страницы в указанную позицию на странице.
 
 ```csharp
 public void AddPageNumber(string formatString, float x, float y)
@@ -108,8 +108,8 @@ public void AddPageNumber(string formatString, float x, float y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formatString | String | Строка формата. Строка формата может содержать знак #, который будет заменен номером страницы. |
-| x | Single | X координата номера страницы. |
-| y | Single | Y координата номера страницы. |
+| x | Single | X-координата номера страницы. |
+| y | Single | Координата Y номера страницы. |
 
 ### Примеры
 
@@ -138,11 +138,11 @@ public void AddPageNumber(FormattedText formattedText, int position, float leftM
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText Объект, представляющий формат номера страницы и свойства текста. |
-| position | Int32 | Позиция, в которой будет размещен номер страницы на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3 - боковые справа, 4 - верхний средний, 5 - нижний левый, 6 - боковые левые, 7 - верхний левый. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | Single | Поле на левом краю страницы. |
-| rightMargin | Single | Поле по правому краю страницы. |
-| topMargin | Single | Поле по верхнему краю страницы. |
+| formattedText | FormattedText | Объект FormattedText, который представляет формат номера страницы и свойства текста. |
+| position | Int32 | Позиция, в которой номер страницы будет размещен на странице. 0-внизу посередине, 1-внизу справа, 2-вверху справа, 3-боки справа, 4-вверху посередине,5-внизу слева,6-боки слева,7-вверху слева. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | Single | Поля по левому краю страницы. |
+| rightMargin | Single | Поля по правому краю страницы. |
+| topMargin | Single | Поля по верхнему краю страницы. |
 | bottomMargin | Single | Поле по нижнему краю страницы. |
 
 ### Примеры
@@ -164,7 +164,7 @@ fileStamp.Close();
 
 ## AddPageNumber(FormattedText, float, float) {#addpagenumber_3}
 
-Добавляет номер страницы в указанной позиции на странице.
+Добавляет номер страницы в указанную позицию на странице.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText, float x, float y)
@@ -173,8 +173,8 @@ public void AddPageNumber(FormattedText formattedText, float x, float y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formattedText | FormattedText | Форматированный текст, который представляет формат номера страницы и свойства текста. Строка формата может содержать знак #, который будет заменен номером страницы. |
-| x | Single | X координата номера страницы. |
-| y | Single | Y координата номера страницы. |
+| x | Single | X-координата номера страницы. |
+| y | Single | Координата Y номера страницы. |
 
 ### Примеры
 
@@ -204,7 +204,7 @@ public void AddPageNumber(string formatString, int position)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formatString | String | Формат номера страницы. Этот текст может содержать #, который будет заменен номером страницы. |
-| position | Int32 | Позиция, в которой будет размещен номер страницы на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3 - боковые справа, 4 - верхний средний, 5 - нижний левый, 6 - боковые левые, 7 - верхний левый. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| position | Int32 | Позиция, в которой номер страницы будет размещен на странице. 0-внизу посередине, 1-внизу справа, 2-вверху справа, 3-боки справа, 4-вверху посередине,5-внизу слева,6-боки слева,7-вверху слева. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ### Примеры
 
@@ -232,8 +232,8 @@ public void AddPageNumber(FormattedText formattedText, int position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText Объект, содержащий формат номера страницы и свойства текста. Этот текст может содержать #, который будет заменен номером страницы. |
-| position | Int32 | Позиция, в которой будет размещен номер страницы на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3 - боковые справа, 4 - верхний средний, 5 - нижний левый, 6 - боковые левые, 7 - верхний левый. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | FormattedText | Объект FormattedText, который содержит формат номера страницы и свойства текста. Этот текст может содержать #, который будет заменен номером страницы. |
+| position | Int32 | Позиция, в которой номер страницы будет размещен на странице. 0-внизу посередине, 1-внизу справа, 2-вверху справа, 3-боки справа, 4-вверху посередине,5-внизу слева,6-боки слева,7-вверху слева. Можно использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ### Примеры
 

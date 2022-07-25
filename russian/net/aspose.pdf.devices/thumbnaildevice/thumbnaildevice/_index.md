@@ -1,14 +1,14 @@
 ---
 title: ThumbnailDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаThumbnailDeviceaspose.pdf.devices/thumbnaildevice размером по умолчанию уменьшенное изображение 200x200 пикселей.
+description: Инициализирует новый экземплярThumbnailDeviceaspose.pdf.devices/thumbnaildevice class с размером миниатюры по умолчанию 200x200 пикселей.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/
 ---
 ## ThumbnailDevice() {#constructor}
 
-Инициализирует новый экземпляр класса[`ThumbnailDevice`](../../thumbnaildevice) размером по умолчанию уменьшенное изображение (200x200 пикселей).
+Инициализирует новый экземпляр[`ThumbnailDevice`](../../thumbnaildevice) class с размером миниатюры по умолчанию (200x200 пикселей).
 
 ```csharp
 public ThumbnailDevice()
@@ -24,7 +24,7 @@ public ThumbnailDevice()
 
 ## ThumbnailDevice(int, int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ThumbnailDevice`](../../thumbnaildevice).
+Инициализирует новый экземпляр[`ThumbnailDevice`](../../thumbnaildevice) класс.
 
 ```csharp
 public ThumbnailDevice(int width, int height)
@@ -32,8 +32,8 @@ public ThumbnailDevice(int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Int32 | Ширина выходного изображения эскиза. |
-| height | Int32 | Высота вывода изображения миниатюры. |
+| width | Int32 | Ширина выходного изображения миниатюры. |
+| height | Int32 | Высота вывода миниатюры изображения. |
 
 ### Смотрите также
 

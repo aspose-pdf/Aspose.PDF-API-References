@@ -1,0 +1,197 @@
+---
+title: Extract
+second_title: Aspose.PDF لمرجع .NET API
+description: استخراج الصفحات من ملف الإدخال  وحفظها كملف Pdf جديد.
+type: docs
+weight: 310
+url: /ar/net/aspose.pdf.facades/pdffileeditor/extract/
+---
+## Extract(string, int, int, string) {#extract_3}
+
+استخراج الصفحات من ملف الإدخال ، وحفظها كملف Pdf جديد.
+
+```csharp
+public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputFile | String | إدخال مسار ملف Pdf. |
+| startPage | Int32 | رقم صفحة البداية. |
+| endPage | Int32 | رقم صفحة النهاية. |
+| outputFile | String | إخراج مسار ملف Pdf. |
+
+### قيمة الإرجاع
+
+صحيح للنجاح أو خطأ.
+
+### أمثلة
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.Extract("input.pdf", 3, 7, "output.pdf");
+```
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## Extract(string, int[], string) {#extract_4}
+
+لاستخراج الصفحات المحددة بواسطة مصفوفة الأرقام ، وحفظها كملف PDF جديد.
+
+```csharp
+public bool Extract(string inputFile, int[] pageNumber, string outputFile)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputFile | String | مسار ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة من ملف الإدخال. |
+| outputFile | String | مسار ملف الإخراج. |
+
+### قيمة الإرجاع
+
+صحيح إذا نجحت العملية.
+
+### أمثلة
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
+```
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## Extract(Stream, int, int, Stream) {#extract}
+
+استخراج الصفحات من ملف الإدخال ، وحفظها كملف Pdf جديد.
+
+```csharp
+public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputStream | Stream | دفق ملف الإدخال. |
+| startPage | Int32 | رقم صفحة البداية. |
+| endPage | Int32 | رقم صفحة النهاية. |
+| outputStream | Stream | إخراج ملف Pdf دفق. |
+
+### قيمة الإرجاع
+
+صحيح للنجاح أو خطأ.
+
+### أمثلة
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.Extract(sourceStream, 1, 3, 6, outStream);
+```
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## Extract(Stream, int[], Stream) {#extract_1}
+
+لاستخراج الصفحات المحددة بواسطة مصفوفة الأرقام ، وحفظها كملف Pdf جديد.
+
+```csharp
+public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputStream | Stream | دفق ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة من ملف الإدخال. |
+| outputStream | Stream | دفق ملف الإخراج. |
+
+### قيمة الإرجاع
+
+صحيح للنجاح أو خطأ.
+
+### أمثلة
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
+```
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## Extract(Stream, int[], HttpResponse) {#extract_2}
+
+استخراج الصفحات المحددة من الملف المصدر وتخزين النتائج في كائن HttpResponse.
+
+```csharp
+public bool Extract(Stream inputStream, int[] pageNumber, HttpResponse response)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputStream | Stream | دفق المستند المصدر. |
+| pageNumber | Int32[] | صفيف من أرقام الصفحات التي سيتم استخلاصها. |
+| response | HttpResponse | كائن HttpResponse حيث سيتم تخزين النتيجة. |
+
+### قيمة الإرجاع
+
+صحيح إذا نجحت العملية.
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## Extract(string, int[], HttpResponse) {#extract_5}
+
+استخراج الصفحات المحددة من الملف المصدر وتخزين النتائج في كائن HttpResponse .
+
+```csharp
+public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputFile | String | مسار الملف المصدر. |
+| pageNumber | Int32[] | صفيف من أرقام الصفحات التي سيتم استخلاصها. |
+| response | HttpResponse | كائن HttpResponse حيث سيتم تخزين النتيجة. |
+
+### قيمة الإرجاع
+
+صحيح إذا تم استخراج الصفحات بنجاح.
+
+### أنظر أيضا
+
+* class [PdfFileEditor](../../pdffileeditor)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffileeditor)
+* المجسم [Aspose.PDF](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

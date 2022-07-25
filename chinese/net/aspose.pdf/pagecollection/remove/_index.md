@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 删除指定项目抛出 NotSupportedException 
+description: 移除指定项目抛出不支持异常.
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/pagecollection/remove/
 ---
 ## PageCollection.Remove method
 
-删除指定项目，抛出 NotSupportedException 。
+移除指定项目，抛出不支持异常.
 
 ```csharp
 public bool Remove(Page item)
@@ -16,11 +16,11 @@ public bool Remove(Page item)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| item | Page | 项目。 |
+| item | Page | 该项目。 |
 
 ### 返回值
 
-NotSupportedException
+不支持异常
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: OperatorSelector
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Selector类的新实例
+description: 初始化Selector类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/operatorselector/operatorselector/
 ---
 ## OperatorSelector() {#constructor}
 
-初始化!:Selector类的新实例。
+初始化!:Selector类.
 
 ```csharp
 public OperatorSelector()
@@ -24,7 +24,7 @@ public OperatorSelector()
 
 ## OperatorSelector(Operator) {#constructor_1}
 
-初始化新的[`OperatorSelector`](../../operatorselector)。
+初始化新的[`OperatorSelector`](../../operatorselector).
 
 ```csharp
 public OperatorSelector(Operator op)
@@ -32,7 +32,7 @@ public OperatorSelector(Operator op)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| op | Operator | 要访问/选择的运算符。 |
+| op | Operator | 要访问/选择的操作员。 |
 
 ### 也可以看看
 

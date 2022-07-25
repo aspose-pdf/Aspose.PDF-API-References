@@ -1,14 +1,14 @@
 ---
 title: TextAlign_Start
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут TextAlignStart  Выровнено по начальному краю.
+description: Атрибут TextAlign Начало  Выровнено по начальному краю.
 type: docs
 weight: 580
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textalign_start/
 ---
 ## AttributeName.TextAlign_Start field
 
-Атрибут TextAlign:Start — Выровнено по начальному краю.
+Атрибут TextAlign: Начало — Выровнено по начальному краю.
 
 ```csharp
 public static readonly AttributeName TextAlign_Start;

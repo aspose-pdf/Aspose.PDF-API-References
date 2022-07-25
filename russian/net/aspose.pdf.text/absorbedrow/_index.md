@@ -18,7 +18,7 @@ public class AbsorbedRow : ITableElement
 
 | Имя | Описание |
 | --- | --- |
-| [CellList](../../aspose.pdf.text/absorbedrow/celllist) { get; } | Получает IList только для чтения, содержащий ячейки строки |
+| [CellList](../../aspose.pdf.text/absorbedrow/celllist) { get; } | Получает IList только для чтения, содержащий ячейки строки row |
 | [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle) { get; } | Получает прямоугольник, описывающий положение строки на странице |
 
 ### Смотрите также

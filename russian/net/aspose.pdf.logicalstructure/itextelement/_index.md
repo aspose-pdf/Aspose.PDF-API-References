@@ -1,14 +1,14 @@
 ---
 title: ITextElement
 second_title: Aspose.PDF для справочника API .NET
-description: Интерфейс для представления элементов структуры текста.
+description: Интерфейс для представления элементов текстовой структуры.
 type: docs
 weight: 4240
 url: /ru/net/aspose.pdf.logicalstructure/itextelement/
 ---
 ## ITextElement interface
 
-Интерфейс для представления элементов структуры текста.
+Интерфейс для представления элементов текстовой структуры.
 
 ```csharp
 public interface ITextElement
@@ -18,7 +18,7 @@ public interface ITextElement
 
 | Имя | Описание |
 | --- | --- |
-| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate) { get; } | Получает объектStructureTextStateдля элемента текстовой структуры. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate) { get; } | получаетStructureTextState объект для элемента текстовой структуры. |
 
 ## Методы
 

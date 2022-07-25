@@ -1,14 +1,14 @@
 ---
 title: TextDecorationType_Underline
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут TextDecorationTypeUnderline  строка под текстом.
+description: Атрибут TextDecorationType Underline  строка под текстом.
 type: docs
 weight: 620
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/
 ---
 ## AttributeName.TextDecorationType_Underline field
 
-Атрибут TextDecorationType:Underline — строка под текстом.
+Атрибут TextDecorationType: Underline — строка под текстом.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Underline;

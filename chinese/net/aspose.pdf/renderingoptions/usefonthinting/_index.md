@@ -1,14 +1,14 @@
 ---
 title: UseFontHinting
 second_title: Aspose.PDF for .NET API 参考
-description: 此标志的使用打开字体提示机制字体提示是使用数学指令来调整轮廓字体的显示 在某些情况下打开此标志可能会解决文本易读性问题 目前使用此标志只能对 TTF 字体生效如果这些字体在源文档中使用的话
+description: 这个标志的使用开启字体提示机制字体提示是使用数学指令来调整轮廓字体的显示 在某些情况下打开此标志可能会解决文本易读性问题 目前使用此标志只能对 TTF 字体生效如果这些字体在源文档中使用
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/renderingoptions/usefonthinting/
 ---
 ## RenderingOptions.UseFontHinting property
 
-此标志的使用打开字体提示机制。字体提示是使用数学指令来调整轮廓字体的显示 。在某些情况下，打开此标志可能会解决文本易读性问题。 目前使用此标志只能对 TTF 字体生效，如果这些字体在源文档中使用的话。
+这个标志的使用开启字体提示机制。字体提示是使用数学指令来调整轮廓字体的显示 。在某些情况下，打开此标志可能会解决文本易读性问题。 目前使用此标志只能对 TTF 字体生效，如果这些字体在源文档中使用。
 
 ```csharp
 public bool UseFontHinting { get; set; }

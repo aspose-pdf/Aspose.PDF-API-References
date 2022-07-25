@@ -1,14 +1,14 @@
 ---
 title: ShFill
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/shfill/shfill/
 ---
 ## ShFill constructor
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public ShFill(string shadingName)
@@ -16,7 +16,7 @@ public ShFill(string shadingName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| shadingName | String | 着色名称。 |
+| shadingName | String | 阴影名称。 |
 
 ### 也可以看看
 

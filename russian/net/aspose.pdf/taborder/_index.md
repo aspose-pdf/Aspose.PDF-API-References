@@ -1,14 +1,14 @@
 ---
 title: TabOrder
 second_title: Aspose.PDF для справочника API .NET
-description: Порядок табуляции на странице
+description: Табуляция на странице
 type: docs
 weight: 6490
 url: /ru/net/aspose.pdf/taborder/
 ---
 ## TabOrder enumeration
 
-Порядок табуляции на странице
+Табуляция на странице
 
 ```csharp
 public enum TabOrder
@@ -21,7 +21,7 @@ public enum TabOrder
 | None | `0` | Нет порядка табуляции. |
 | Row | `1` | Порядок строк. |
 | Column | `2` | Порядок столбцов. |
-| Default | `3` | Порядок табуляции по умолчанию. |
+| Default | `3` | Порядок вкладок по умолчанию. |
 | Manual | `4` | Порядок табуляции вручную. |
 
 ### Смотрите также

@@ -18,21 +18,21 @@ public sealed class BorderInfo : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BorderInfo](borderinfo#constructor)() | 初始化[`BorderInfo`](../borderinfo)类的新实例。 |
-| [BorderInfo](borderinfo#constructor_1)(BorderSide) | 初始化[`BorderInfo`](../borderinfo)类的新实例。 |
-| [BorderInfo](borderinfo#constructor_2)(BorderSide, Color) | 初始化[`BorderInfo`](../borderinfo)类的新实例。 |
-| [BorderInfo](borderinfo#constructor_4)(BorderSide, float) | 初始化[`BorderInfo`](../borderinfo)类的新实例。 |
-| [BorderInfo](borderinfo#constructor_3)(BorderSide, GraphInfo) | 初始化[`BorderInfo`](../borderinfo)类的新实例。 |
-| [BorderInfo](borderinfo#constructor_5)(BorderSide, float, Color) | 初始化[`BorderInfo`](../borderinfo)类的新实例。 |
+| [BorderInfo](borderinfo#constructor)() | 初始化[`BorderInfo`](../borderinfo)类. |
+| [BorderInfo](borderinfo#constructor_1)(BorderSide) | 初始化[`BorderInfo`](../borderinfo)类. |
+| [BorderInfo](borderinfo#constructor_2)(BorderSide, Color) | 初始化[`BorderInfo`](../borderinfo)类. |
+| [BorderInfo](borderinfo#constructor_4)(BorderSide, float) | 初始化[`BorderInfo`](../borderinfo)类. |
+| [BorderInfo](borderinfo#constructor_3)(BorderSide, GraphInfo) | 初始化[`BorderInfo`](../borderinfo)类. |
+| [BorderInfo](borderinfo#constructor_5)(BorderSide, float, Color) | 初始化[`BorderInfo`](../borderinfo)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Bottom](../../aspose.pdf/borderinfo/bottom) { get; set; } | 获取或设置指示边框底部的对象。 |
+| [Bottom](../../aspose.pdf/borderinfo/bottom) { get; set; } | 获取或设置一个表示边框底部的对象。 |
 | [Left](../../aspose.pdf/borderinfo/left) { get; set; } | 获取或设置一个指示边界左侧的对象。 |
 | [Right](../../aspose.pdf/borderinfo/right) { get; set; } | 获取或设置一个指示边界右侧的对象。 |
-| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius) { get; set; } | 获取或设置圆角边界半径 |
+| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius) { get; set; } | 获取或设置圆角边框半径 |
 | [Top](../../aspose.pdf/borderinfo/top) { get; set; } | 获取或设置一个表示上边框的对象。 |
 
 ## 方法

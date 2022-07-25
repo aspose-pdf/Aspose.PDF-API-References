@@ -1,14 +1,14 @@
 ---
 title: IndexOnPage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取页面上的戳记索引
+description: 获取页面上的戳索引
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/stampinfo/indexonpage/
 ---
 ## StampInfo.IndexOnPage property
 
-获取页面上的戳记索引。
+获取页面上的戳索引。
 
 ```csharp
 public int IndexOnPage { get; }

@@ -25,7 +25,7 @@ public class LevelFormat
 | Имя | Описание |
 | --- | --- |
 | [LineDash](../../aspose.pdf/levelformat/linedash) { get; set; } | Получает или задает дефис строки TOC. |
-| [Margin](../../aspose.pdf/levelformat/margin) { get; set; } | Получает или задает поля уровня списка |
+| [Margin](../../aspose.pdf/levelformat/margin) { get; set; } | Получает или задает поле уровня списка |
 | [SubsequentLinesIndent](../../aspose.pdf/levelformat/subsequentlinesindent) { get; set; } | Получает или задает отступ последующих строк |
 | [TextState](../../aspose.pdf/levelformat/textstate) { get; set; } | Получает или задает текстовое состояние уровня списка |
 

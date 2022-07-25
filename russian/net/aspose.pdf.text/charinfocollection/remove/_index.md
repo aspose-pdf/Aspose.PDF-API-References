@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Коллекция доступна только для чтения выдает NotImplementedException .
+description: Коллекция доступна только для чтения выдаетНереализованное исключение .
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/charinfocollection/remove/
 ---
 ## CharInfoCollection.Remove method
 
-Коллекция доступна только для чтения, выдает NotImplementedException .
+Коллекция доступна только для чтения, выдаетНереализованное исключение .
 
 ```csharp
 public bool Remove(CharInfo item)
@@ -20,7 +20,7 @@ public bool Remove(CharInfo item)
 
 ### Возвращаемое значение
 
-NotImplementedException
+Нереализованное исключение
 
 ### Смотрите также
 

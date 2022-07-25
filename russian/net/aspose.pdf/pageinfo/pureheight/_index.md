@@ -1,14 +1,14 @@
 ---
 title: PureHeight
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает чистую высоту страницы без полей.
+description: Получает или задает чистую высоту страницы без полей.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/pageinfo/pureheight/
 ---
 ## PageInfo.PureHeight property
 
-Получает или устанавливает чистую высоту страницы без полей.
+Получает или задает чистую высоту страницы без полей.
 
 ```csharp
 public double PureHeight { get; }

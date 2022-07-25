@@ -1,14 +1,14 @@
 ---
 title: TextPositioningMode
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает или получает стратегию позиционирования текста.PositioningModeaspose.pdf.facades/positioningmode Режим по умолчанию  Legacy.
+description: Задает или получает стратегию позиционирования текста.PositioningModeaspose.pdf.facades/positioningmode Режим по умолчанию  Legacy.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdffilemend/textpositioningmode/
 ---
 ## PdfFileMend.TextPositioningMode property
 
-Устанавливает или получает стратегию позиционирования текста.[`PositioningMode`](../../positioningmode) Режим по умолчанию — Legacy.
+Задает или получает стратегию позиционирования текста.[`PositioningMode`](../../positioningmode) Режим по умолчанию — Legacy.
 
 ```csharp
 public PositioningMode TextPositioningMode { get; set; }

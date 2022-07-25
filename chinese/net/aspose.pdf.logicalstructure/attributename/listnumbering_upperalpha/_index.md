@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperalpha/
 ---
 ## AttributeName.ListNumbering_UpperAlpha field
 
-属性列表编号:UpperAlpha - 大写字母（A、B、C、...）。
+属性列表编号：UpperAlpha - 大写字母（A、B、C、...）。
 
 ```csharp
 public static readonly AttributeName ListNumbering_UpperAlpha;

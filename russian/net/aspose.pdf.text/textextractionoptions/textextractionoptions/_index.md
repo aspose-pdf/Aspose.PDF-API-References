@@ -1,14 +1,14 @@
 ---
 title: TextExtractionOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаTextExtractionOptionsaspose.pdf.text/textextractionoptionsдля указанного режима форматирования текста.
+description: Инициализирует новый экземплярTextExtractionOptionsaspose.pdf.text/textextractionoptions объект для указанного режима форматирования текста.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textextractionoptions/textextractionoptions/
 ---
 ## TextExtractionOptions constructor
 
-Инициализирует новый экземпляр объекта[`TextExtractionOptions`](../../textextractionoptions)для указанного режима форматирования текста.
+Инициализирует новый экземпляр[`TextExtractionOptions`](../../textextractionoptions) объект для указанного режима форматирования текста.
 
 ```csharp
 public TextExtractionOptions(TextFormattingMode formattingMode)

@@ -18,7 +18,7 @@ public sealed class FontSourceCollection : ICollection<FontSource>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontsourcecollection/count) { get; } | Получает количество элементов объекта[`Font`](../font), фактически содержащихся в коллекции. |
+| [Count](../../aspose.pdf.text/fontsourcecollection/count) { get; } | Получает количество[`Font`](../font) элементы объекта, фактически содержащиеся в коллекции. |
 | [IsSynchronized](../../aspose.pdf.text/fontsourcecollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к коллекции синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf.text/fontsourcecollection/item) { get; } | Получает элемент шрифта по указанному индексу. |
 | [SyncRoot](../../aspose.pdf.text/fontsourcecollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к коллекции. |
@@ -27,7 +27,7 @@ public sealed class FontSourceCollection : ICollection<FontSource>
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.text/fontsourcecollection/add)(FontSource) | Добавляет в коллекцию новый исходный объект шрифта. |
+| [Add](../../aspose.pdf.text/fontsourcecollection/add)(FontSource) | Добавляет новый исходный объект шрифта в коллекцию. |
 | [Clear](../../aspose.pdf.text/fontsourcecollection/clear)() | Очищает коллекцию источников шрифтов. |
 | [Contains](../../aspose.pdf.text/fontsourcecollection/contains)(FontSource) | Определяет, находится ли элемент в коллекции. |
 | [CopyTo](../../aspose.pdf.text/fontsourcecollection/copyto)(FontSource[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |

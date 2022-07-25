@@ -1,14 +1,14 @@
 ---
 title: Part
 second_title: Aspose.PDF для справочника API .NET
-description: Часть Крупномасштабное разделение документа. Этот тип элемента подходит для группировки статей или разделов.
+description: Часть Крупномасштабная часть документа. Этот тип элемента подходит для группировки статей или разделов.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/part/
 ---
 ## StructureTypeStandard.Part field
 
-(Часть) Крупномасштабное разделение документа. Этот тип элемента подходит для группировки статей или разделов.
+(Часть) Крупномасштабная часть документа. Этот тип элемента подходит для группировки статей или разделов.
 
 ```csharp
 public static readonly StructureTypeStandard Part;

@@ -20,29 +20,29 @@ public override void Visit(Page page)
 
 ### 例子
 
-该示例演示了如何在第一个 PDF 文档页面上查找文本并替换该文本。
+该示例演示如何在第一个 PDF 文档页面上查找文本并替换文本。
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// 查找将用于更改文档文本的字体 font
-pose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+// 查找将用于更改文档文本字体的字体
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-sorber.Visit(doc.Pages[1]);
+absorber.Visit(doc.Pages[1]);
 
 // 更改所有搜索事件的文本
-reach (TextFragment textFragment in absorber.TextFragments)
-
-  textFragment.Text = "hi world";
-
+foreach (TextFragment textFragment in absorber.TextFragments)
+{
+    textFragment.Text = "hi world";
+}
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### 也可以看看
@@ -68,26 +68,26 @@ public override void Visit(Document pdf)
 
 ### 例子
 
-该示例演示了如何在 PDF 文档中查找文本并替换所有搜索出现的文本。
+该示例演示如何在 PDF 文档中查找文本并替换所有搜索出现的文本。
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// 查找将用于更改文档文本的字体 font
-pose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+// 查找将用于更改文档文本字体的字体
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-sorber.Visit(doc);
+absorber.Visit(doc);
 
 // 更改第一个文本出现的文本
-sorber.TextFragments[1].Text = "hi world";
+absorber.TextFragments[1].Text = "hi world";
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### 也可以看看

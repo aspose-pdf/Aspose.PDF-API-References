@@ -1,14 +1,14 @@
 ---
 title: Encrypt
 second_title: Aspose.PDF для справочника API .NET
-description: Шифрует документ. Позвоните затем Сохранить чтобы получить зашифрованную версию документа.
+description: Шифрует документ. Позвоните затем сохраните чтобы получить зашифрованную версию документа.
 type: docs
 weight: 570
 url: /ru/net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
 
-Шифрует документ. Позвоните, затем Сохранить, чтобы получить зашифрованную версию документа.
+Шифрует документ. Позвоните, затем сохраните, чтобы получить зашифрованную версию документа.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
@@ -17,11 +17,11 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пароль пользователя. |
+| userPassword | String | Пользовательский пароль. |
 | ownerPassword | String | Пароль владельца. |
-| привилегии | DocumentPrivilege | Разрешения для документов, подробности см. в[`Permissions`](../permissions). |
-| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, подробности см. в[`CryptoAlgorithm`](../cryptoalgorithm). |
-| usePdf20 | Boolean | Поддержка ревизии 6 (расширение 8). |
+| privileges | DocumentPrivilege | Документировать разрешения, см.[`Permissions`](../permissions) для деталей. |
+| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см.[`CryptoAlgorithm`](../cryptoalgorithm) для деталей. |
+| usePdf20 | Boolean | Поддержка версии 6 (расширение 8). |
 
 ### Смотрите также
 
@@ -35,7 +35,7 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
 
-Шифрует документ. Позвоните, затем Сохранить, чтобы получить зашифрованную версию документа.
+Шифрует документ. Позвоните, затем сохраните, чтобы получить зашифрованную версию документа.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -44,10 +44,10 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пароль пользователя. |
+| userPassword | String | Пользовательский пароль. |
 | ownerPassword | String | Пароль владельца. |
-| permissions | Permissions | Разрешения для документов, см.[`Permissions`](../permissions)для подробностей. |
-| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, подробности см. в[`CryptoAlgorithm`](../cryptoalgorithm). |
+| permissions | Permissions | Документировать разрешения, см.[`Permissions`](../permissions) для деталей. |
+| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см.[`CryptoAlgorithm`](../cryptoalgorithm) для деталей. |
 
 ### Смотрите также
 
@@ -61,7 +61,7 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
 
-Шифрует документ. Позвоните, затем Сохранить, чтобы получить зашифрованную версию документа.
+Шифрует документ. Позвоните, затем сохраните, чтобы получить зашифрованную версию документа.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -70,11 +70,11 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Пароль пользователя. |
+| userPassword | String | Пользовательский пароль. |
 | ownerPassword | String | Пароль владельца. |
-| permissions | Permissions | Разрешения для документов, см.[`Permissions`](../permissions)для подробностей. |
-| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, подробности см. в[`CryptoAlgorithm`](../cryptoalgorithm). |
-| usePdf20 | Boolean | Поддержка ревизии 6 (расширение 8). |
+| permissions | Permissions | Документировать разрешения, см.[`Permissions`](../permissions) для деталей. |
+| cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм, см.[`CryptoAlgorithm`](../cryptoalgorithm) для деталей. |
+| usePdf20 | Boolean | Поддержка версии 6 (расширение 8). |
 
 ### Смотрите также
 

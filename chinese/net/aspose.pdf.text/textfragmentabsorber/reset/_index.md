@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Aspose.PDF for .NET API 参考
-description: 清除此TextFragmentAbsorberaspose.pdf.text/textfragmentabsorber对象的 TextFragments 集合
+description: 清除此 TextFragments 集合TextFragmentAbsorberaspose.pdf.text/textfragmentabsorber对象.
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/reset/
 ---
 ## TextFragmentAbsorber.Reset method
 
-清除此[`TextFragmentAbsorber`](../../textfragmentabsorber)对象的 TextFragments 集合。
+清除此 TextFragments 集合[`TextFragmentAbsorber`](../../textfragmentabsorber)对象.
 
 ```csharp
 public void Reset()

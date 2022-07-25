@@ -1,14 +1,14 @@
 ---
 title: RemoveLabel
 second_title: Aspose.PDF for .NET API 参考
-description: 按页面索引删除标签页面索引从0开始
+description: 按页面索引删除标签页面索引从0开始.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pagelabelcollection/removelabel/
 ---
 ## PageLabelCollection.RemoveLabel method
 
-按页面索引删除标签（页面索引从0开始）。
+按页面索引删除标签（页面索引从0开始）.
 
 ```csharp
 public bool RemoveLabel(int pageIndex)
@@ -20,7 +20,7 @@ public bool RemoveLabel(int pageIndex)
 
 ### 返回值
 
-如果操作成功执行则为真。
+如果操作成功执行，则为 true。
 
 ### 也可以看看
 

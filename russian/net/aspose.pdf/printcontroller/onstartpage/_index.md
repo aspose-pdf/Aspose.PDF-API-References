@@ -1,14 +1,14 @@
 ---
 title: OnStartPage
 second_title: Aspose.PDF для справочника API .NET
-description: Срабатывает при начале печати страницы.
+description: Загорается при начале печати страницы.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/printcontroller/onstartpage/
 ---
 ## PrintController.OnStartPage method
 
-Срабатывает при начале печати страницы.
+Загорается при начале печати страницы.
 
 ```csharp
 public override Graphics OnStartPage(PrintDocument document, PrintPageEventArgs e)
@@ -17,11 +17,11 @@ public override Graphics OnStartPage(PrintDocument document, PrintPageEventArgs 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | document | PrintDocument | Документ для печати. |
-| e | PrintPageEventArgs | Аргументы события. |
+| e | PrintPageEventArgs | Аргументы событий. |
 
 ### Возвращаемое значение
 
-Графический объект с напечатанной страницей.
+Графический объект с печатной страницей.
 
 ### Смотрите также
 

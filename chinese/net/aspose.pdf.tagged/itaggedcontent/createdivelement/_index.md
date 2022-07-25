@@ -1,14 +1,14 @@
 ---
 title: CreateDivElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建DivElementaspose.pdf.logicalstructure/divelement
+description: 创建DivElementaspose.pdf.logicalstructure/divelement.
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createdivelement/
 ---
 ## ITaggedContent.CreateDivElement method
 
-创建[`DivElement`](../../../aspose.pdf.logicalstructure/divelement)。
+创建[`DivElement`](../../../aspose.pdf.logicalstructure/divelement).
 
 ```csharp
 public DivElement CreateDivElement()
@@ -16,7 +16,7 @@ public DivElement CreateDivElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

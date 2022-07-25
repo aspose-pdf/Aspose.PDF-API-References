@@ -18,19 +18,19 @@ public sealed class Rectangle : Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Rectangle](rectangle)(float, float, float, float) | 初始化[`Rectangle`](../rectangle)类的新实例。 |
+| [Rectangle](rectangle)(float, float, float, float) | 初始化[`Rectangle`](../rectangle)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Bottom](../../aspose.pdf.drawing/rectangle/bottom) { get; set; } | 获取或设置指示矩形底部位置的浮点值。 |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)对象，表示图形信息，例如颜色， 线宽等 |
-| [Height](../../aspose.pdf.drawing/rectangle/height) { get; set; } | 获取或设置表示矩形高度的浮点值。 |
-| [Left](../../aspose.pdf.drawing/rectangle/left) { get; set; } | 获取或设置指示矩形左侧位置的浮点值。 |
-| [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius) { get; set; } | 获取或设置一个浮点值，指示矩形角的半径。 |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置形状的文本 |
-| [Width](../../aspose.pdf.drawing/rectangle/width) { get; set; } | 获取或设置表示矩形宽度的浮点值。 |
+| [Bottom](../../aspose.pdf.drawing/rectangle/bottom) { get; set; } | 获取或设置一个浮点值，指示矩形的底部位置。 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)表示图形信息的对象，例如颜色， 线宽等 |
+| [Height](../../aspose.pdf.drawing/rectangle/height) { get; set; } | 获取或设置一个浮点值，表示矩形的高度。 |
+| [Left](../../aspose.pdf.drawing/rectangle/left) { get; set; } | 获取或设置一个浮点值，指示矩形的左侧位置。 |
+| [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius) { get; set; } | 获取或设置一个浮点值，表示矩形角的半径。 |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置 shape 的文本 |
+| [Width](../../aspose.pdf.drawing/rectangle/width) { get; set; } | 获取或设置一个表示矩形宽度的浮点值。 |
 
 ### 也可以看看
 

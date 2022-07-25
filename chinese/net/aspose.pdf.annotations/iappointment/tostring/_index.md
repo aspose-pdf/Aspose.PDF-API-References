@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 返回字符串表示
+description: 返回字符串表示形式
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/iappointment/tostring/
 ---
 ## IAppointment.ToString method
 
-返回字符串表示
+返回字符串表示形式
 
 ```csharp
 public string ToString()

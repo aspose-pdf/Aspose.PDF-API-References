@@ -1,14 +1,14 @@
 ---
 title: Dash
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий штрихпунктирную линию.
+description: Класс представляющий образец пунктирной линии.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.annotations/dash/
 ---
 ## Dash class
 
-Класс, представляющий штрихпунктирную линию.
+Класс, представляющий образец пунктирной линии.
 
 ```csharp
 public sealed class Dash

@@ -1,14 +1,14 @@
 ---
 title: ImagePlacementAbsorber
 second_title: Aspose.PDF for .NET API 参考
-description: 表示图像放置对象的吸收器对象 执行图像使用搜索并通过ImagePlacements./imageplacementabsorber/imageplacements集合访问搜索结果
+description: 表示图像放置对象的吸收器对象 执行图像使用搜索并通过以下方式访问搜索结果ImagePlacements./imageplacementabsorber/imageplacements集合.
 type: docs
 weight: 3770
 url: /zh/net/aspose.pdf/imageplacementabsorber/
 ---
 ## ImagePlacementAbsorber class
 
-表示图像放置对象的吸收器对象。 执行图像使用搜索并通过[`ImagePlacements`](./imageplacements)集合访问搜索结果。
+表示图像放置对象的吸收器对象。 执行图像使用搜索并通过以下方式访问搜索结果[`ImagePlacements`](./imageplacements)集合.
 
 ```csharp
 public sealed class ImagePlacementAbsorber
@@ -24,7 +24,7 @@ public sealed class ImagePlacementAbsorber
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements) { get; } | 获取与[`ImagePlacement`](../imageplacement)对象一起呈现的图像放置事件的集合。 |
+| [ImagePlacements](../../aspose.pdf/imageplacementabsorber/imageplacements) { get; } | 获取呈现的图像放置事件的集合[`ImagePlacement`](../imageplacement)对象. |
 | [IsReadOnlyMode](../../aspose.pdf/imageplacementabsorber/isreadonlymode) { get; set; } | 获取/设置解析操作集合的只读模式。它可能有助于防止内存不足 异常。 |
 
 ## 方法
@@ -36,7 +36,7 @@ public sealed class ImagePlacementAbsorber
 
 ### 评论
 
-[`ImagePlacementAbsorber`](../imageplacementabsorber)对象基本使用在图像搜索场景中。 搜索完成后，出现的事件用[`ImagePlacement`](../imageplacement)对象表示[`ImagePlacements`](./imageplacements)集合包含。 [`ImagePlacement`](../imageplacement)对象提供对图像放置属性的访问:尺寸、分辨率等
+的[`ImagePlacementAbsorber`](../imageplacementabsorber)对象基本上用于图像搜索场景。 搜索完成后，出现的次数用[`ImagePlacement`](../imageplacement)对象[`ImagePlacements`](./imageplacements)集合包含. [`ImagePlacement`](../imageplacement)对象提供对图像放置属性的访问：尺寸、分辨率等
 
 ### 例子
 
@@ -44,24 +44,24 @@ public sealed class ImagePlacementAbsorber
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// 创建 ImagePlacementAbsorber 对象来执行图像放置 search
-agePlacementAbsorber abs = new ImagePlacementAbsorber();
+// 创建 ImagePlacementAbsorber 对象以执行图像放置搜索
+ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(abs);
+doc.Pages[1].Accept(abs);
 
-// 显示所有位置的图像放置属性
-reach (ImagePlacement imagePlacement in abs.ImagePlacements)
-    
-  Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
-  Console.Out.WriteLine("image height:" + imagePlacement.Rectangle.Height);
-  Console.Out.WriteLine("image LLX:" + imagePlacement.Rectangle.LLX);
-  Console.Out.WriteLine("image LLY:" + imagePlacement.Rectangle.LLY);
-  Console.Out.WriteLine("image horizontal resolution:" + imagePlacement.Resolution.X);
-  Console.Out.WriteLine("image vertical resolution:" + imagePlacement.Resolution.Y);
-
+// 显示所有展示位置的图像展示位置属性
+foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
+{     
+    Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
+    Console.Out.WriteLine("image height:" + imagePlacement.Rectangle.Height);
+    Console.Out.WriteLine("image LLX:" + imagePlacement.Rectangle.LLX);
+    Console.Out.WriteLine("image LLY:" + imagePlacement.Rectangle.LLY);
+    Console.Out.WriteLine("image horizontal resolution:" + imagePlacement.Resolution.X);
+    Console.Out.WriteLine("image vertical resolution:" + imagePlacement.Resolution.Y);
+}
 ```
 
 ### 也可以看看

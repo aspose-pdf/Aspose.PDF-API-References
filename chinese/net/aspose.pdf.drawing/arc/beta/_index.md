@@ -1,14 +1,14 @@
 ---
 title: Beta
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值表示圆弧的结束角度
+description: 获取或设置表示圆弧结束角度度数的浮点值
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.drawing/arc/beta/
 ---
 ## Arc.Beta property
 
-获取或设置一个浮点值，表示圆弧的结束角度。
+获取或设置表示圆弧结束角度度数的浮点值。
 
 ```csharp
 public double Beta { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BackgroundImage
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает фоновое изображение фонового артефакта
+description: Получает или задает фоновое изображение фонового артефакта
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/backgroundartifact/backgroundimage/
 ---
 ## BackgroundArtifact.BackgroundImage property
 
-Получает или устанавливает фоновое изображение фонового артефакта
+Получает или задает фоновое изображение фонового артефакта
 
 ```csharp
 public Stream BackgroundImage { get; set; }

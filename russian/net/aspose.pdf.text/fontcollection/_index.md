@@ -18,7 +18,7 @@ public sealed class FontCollection : ICollection<Font>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontcollection/count) { get; } | Получает количество элементов объекта[`Font`](../font), фактически содержащихся в коллекции. |
+| [Count](../../aspose.pdf.text/fontcollection/count) { get; } | Получает количество[`Font`](../font) элементы объекта, фактически содержащиеся в коллекции. |
 | [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения |
 | [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к коллекции синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf.text/fontcollection/item) { get; } | Получает элемент шрифта по указанному индексу. (2 indexers) |
@@ -37,7 +37,7 @@ public sealed class FontCollection : ICollection<Font>
 
 ### Примечания
 
-Коллекции шрифтов, представленные[`FontCollection`](../fontcollection)class используются в нескольких сценариях. Например, в ресурсах со свойством[`Fonts`](../../aspose.pdf/resources/fonts).
+Коллекции шрифтов, представленные[`FontCollection`](../fontcollection) class используются в нескольких сценариях. Например, в ресурсах с[`Fonts`](../../aspose.pdf/resources/fonts) имущество.
 
 ### Примеры
 
@@ -45,17 +45,17 @@ public sealed class FontCollection : ICollection<Font>
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// убедиться, что все шрифты, объявленные на ресурсах страницы, встроены
-// обратите внимание, что если шрифты объявлены в ресурсах формы, они недоступны со страницы resources
-oreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
+// убедиться, что все шрифты, объявленные в ресурсах страницы, встроены
+// обратите внимание, что если шрифты объявлены в ресурсах формы, они недоступны из ресурсов страницы
+foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
+{
+    if(!font.IsEmbedded)
+        font.IsEmbedded = true;
+}
 
-   if(!font.IsEmbedded)
-       font.IsEmbedded = true;
-
-
-oc.Save(@"D:\Tests\input.pdf");
+doc.Save(@"D:\Tests\input.pdf");
 ```
 
 ### Смотрите также

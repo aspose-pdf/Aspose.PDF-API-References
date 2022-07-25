@@ -1,14 +1,14 @@
 ---
 title: ParagraphAbsorber
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化ParagraphAbsorberaspose.pdf.text/paragraphabsorber的新实例执行文档或页面的部分/段落搜索.
+description: 初始化ParagraphAbsorberaspose.pdf.text/paragraphabsorber执行搜索文档或页面的部分/段落
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 ---
 ## ParagraphAbsorber() {#constructor}
 
-初始化[`ParagraphAbsorber`](../../paragraphabsorber)的新实例，执行文档或页面的部分/段落搜索.
+初始化[`ParagraphAbsorber`](../../paragraphabsorber)执行搜索文档或页面的部分/段落。
 
 ```csharp
 public ParagraphAbsorber()
@@ -24,7 +24,7 @@ public ParagraphAbsorber()
 
 ## ParagraphAbsorber(int) {#constructor_1}
 
-初始化[`ParagraphAbsorber`](../../paragraphabsorber)的新实例，执行文档或页面的部分/段落搜索.
+初始化[`ParagraphAbsorber`](../../paragraphabsorber)执行搜索文档或页面的部分/段落。
 
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth)
@@ -32,7 +32,7 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | 将执行的对结构更精细元素的连续搜索次数。 |
+| sectionsSearchDepth | Int32 | 将执行的对更精细结构元素的顺序搜索次数。 |
 
 ### 评论
 

@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Удалить оператор из коллекции.
+description: Удалить оператора из коллекции.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/operatorcollection/remove/
 ---
 ## OperatorCollection.Remove method
 
-Удалить оператор из коллекции.
+Удалить оператора из коллекции.
 
 ```csharp
 public override bool Remove(Operator op)
@@ -16,11 +16,11 @@ public override bool Remove(Operator op)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| op | Operator | Оператор, который необходимо удалить. |
+| op | Operator | Оператор, которого нужно удалить. |
 
 ### Возвращаемое значение
 
-Истинно, если оператор найден и удален. False, если оператор не принадлежит коллекции.
+Истинно, если оператор был найден и удален. False, если оператор не принадлежит коллекции.
 
 ### Смотрите также
 

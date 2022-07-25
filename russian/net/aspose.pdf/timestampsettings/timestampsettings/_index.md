@@ -1,14 +1,14 @@
 ---
 title: TimestampSettings
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTimestampSettingsaspose.pdf/timestampsettings.
+description: Инициализирует новый экземплярTimestampSettingsaspose.pdf/timestampsettings класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/timestampsettings/timestampsettings/
 ---
 ## TimestampSettings constructor
 
-Инициализирует новый экземпляр класса[`TimestampSettings`](../../timestampsettings).
+Инициализирует новый экземпляр[`TimestampSettings`](../../timestampsettings) класс.
 
 ```csharp
 public TimestampSettings(string serverUrl, string basicAuthCredentials, 
@@ -18,8 +18,8 @@ public TimestampSettings(string serverUrl, string basicAuthCredentials,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | serverUrl | String | URL-адрес сервера меток времени. |
-| basicAuthCredentials | String | Учетные данные базовой аутентификации, имя пользователя и пароль объединяются в строку "имя пользователя:пароль". |
-| digestHashAlgorithm | DigestHashAlgorithm | Имя алгоритма хеширования, если оно опущено, то используется sha1. |
+| basicAuthCredentials | String | Учетные данные базовой аутентификации, имя пользователя и пароль объединяются в строку «имя пользователя: пароль». |
+| digestHashAlgorithm | DigestHashAlgorithm | Имя алгоритма хэширования, если оно не указано, используется sha1. |
 
 ### Смотрите также
 

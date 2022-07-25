@@ -18,8 +18,8 @@ public class GradientAxialShading : PatternColorSpace
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GradientAxialShading](gradientaxialshading#constructor)() | 初始化[`GradientAxialShading`](../gradientaxialshading)类的新实例。 |
-| [GradientAxialShading](gradientaxialshading#constructor_1)(Color, Color) | 初始化[`GradientAxialShading`](../gradientaxialshading)类的新实例。 |
+| [GradientAxialShading](gradientaxialshading#constructor)() | 初始化[`GradientAxialShading`](../gradientaxialshading)类. |
+| [GradientAxialShading](gradientaxialshading#constructor_1)(Color, Color) | 初始化[`GradientAxialShading`](../gradientaxialshading)类. |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public class GradientAxialShading : PatternColorSpace
 | [End](../../aspose.pdf.drawing/gradientaxialshading/end) { get; set; } | 获取或设置终点。 |
 | [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor) { get; set; } | 获取或设置结束颜色。 |
 | [Start](../../aspose.pdf.drawing/gradientaxialshading/start) { get; set; } | 获取或设置起点。 |
-| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor) { get; set; } | 获取或设置起始颜色。 |
+| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor) { get; set; } | 获取或设置开始颜色。 |
 
 ### 也可以看看
 

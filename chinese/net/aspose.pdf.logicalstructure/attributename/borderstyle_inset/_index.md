@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Inset
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BorderStyleInset - 边框使整个框看起来好像嵌入在画布中
+description: 属性 BorderStyle Inset - 边框使整个框看起来好像嵌入在画布中
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.logicalstructure/attributename/borderstyle_inset/
 ---
 ## AttributeName.BorderStyle_Inset field
 
-属性 BorderStyle:Inset - 边框使整个框看起来好像嵌入在画布中。
+属性 BorderStyle: Inset - 边框使整个框看起来好像嵌入在画布中。
 
 ```csharp
 public static readonly AttributeName BorderStyle_Inset;

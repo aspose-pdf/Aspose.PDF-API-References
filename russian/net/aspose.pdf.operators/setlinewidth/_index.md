@@ -1,14 +1,14 @@
 ---
 title: SetLineWidth
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор w установка ширины линии.
+description: Класс представляющий оператор w установить ширину строки.
 type: docs
 weight: 5530
 url: /ru/net/aspose.pdf.operators/setlinewidth/
 ---
 ## SetLineWidth class
 
-Класс, представляющий оператор w (установка ширины линии).
+Класс, представляющий оператор w (установить ширину строки).
 
 ```csharp
 public class SetLineWidth : Operator
@@ -18,20 +18,20 @@ public class SetLineWidth : Operator
 
 | Имя | Описание |
 | --- | --- |
-| [SetLineWidth](setlinewidth)(double) | Инициализирует оператор значением ширины. |
+| [SetLineWidth](setlinewidth)(double) | Инициализирует оператор со значением ширины. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Width](../../aspose.pdf.operators/setlinewidth/width) { get; set; } | Получает или устанавливает ширину линии. |
+| [Width](../../aspose.pdf.operators/setlinewidth/width) { get; set; } | Получает или задает ширину линии. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinewidth/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setlinewidth/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/setlinewidth/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

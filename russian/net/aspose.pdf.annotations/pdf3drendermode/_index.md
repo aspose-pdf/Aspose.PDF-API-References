@@ -18,8 +18,8 @@ public class PDF3DRenderMode
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DRenderMode](pdf3drendermode#constructor)(RenderModeType) | Инициализирует новый экземпляр класса[`PDF3DRenderMode`](../pdf3drendermode). |
-| [PDF3DRenderMode](pdf3drendermode#constructor_1)(string) | Инициализирует новый экземпляр класса[`PDF3DRenderMode`](../pdf3drendermode). |
+| [PDF3DRenderMode](pdf3drendermode#constructor)(RenderModeType) | Инициализирует новый экземпляр[`PDF3DRenderMode`](../pdf3drendermode) класс. |
+| [PDF3DRenderMode](pdf3drendermode#constructor_1)(string) | Инициализирует новый экземпляр[`PDF3DRenderMode`](../pdf3drendermode) класс. |
 
 ## Характеристики
 
@@ -55,7 +55,7 @@ public class PDF3DRenderMode
 | static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent) | Режим рендеринга "Прозрачный". |
 | static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox) | Режим рендеринга "TransparentBoundingBox". |
 | static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline) | Режим рендеринга "TransparentBoundingBoxOutline". |
-| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe) | Режим рендера "TransparentWareFrame". |
+| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe) | Режим рендеринга "TransparentWareFrame". |
 | static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices) | Режим рендеринга "Вершины". |
 | static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe) | Режим рендеринга "WireFrame". |
 

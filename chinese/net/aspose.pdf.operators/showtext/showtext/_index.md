@@ -1,14 +1,14 @@
 ---
 title: ShowText
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化 Tj opearor
+description: 初始化 Tj 操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/showtext/showtext/
 ---
 ## ShowText(int, string) {#constructor_1}
 
-初始化 Tj opearor。
+初始化 Tj 操作符。
 
 ```csharp
 public ShowText(int index, string text)
@@ -49,7 +49,7 @@ public ShowText(string text)
 
 ## ShowText(string, Font) {#constructor_3}
 
-初始化 Tj opearor。
+初始化 Tj opearor.
 
 ```csharp
 public ShowText(string text, Font font)

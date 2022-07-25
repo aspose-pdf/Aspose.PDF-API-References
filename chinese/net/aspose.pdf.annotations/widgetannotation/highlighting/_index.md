@@ -1,14 +1,14 @@
 ---
 title: Highlighting
 second_title: Aspose.PDF for .NET API 参考
-description: 注释高亮模式
+description: 注解高亮模式
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/widgetannotation/highlighting/
 ---
 ## WidgetAnnotation.Highlighting property
 
-注释高亮模式。
+注解高亮模式。
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }

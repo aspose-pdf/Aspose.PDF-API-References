@@ -1,14 +1,14 @@
 ---
 title: ReasonLabel
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置原因标签默认值原因
+description: 获取/设置原因标签默认值原因.
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
 ## SignatureCustomAppearance.ReasonLabel property
 
-获取/设置原因标签。默认值:“原因”。
+获取/设置原因标签。默认值：“原因”.
 
 ```csharp
 public string ReasonLabel { get; set; }

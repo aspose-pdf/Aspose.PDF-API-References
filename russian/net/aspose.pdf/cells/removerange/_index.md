@@ -17,7 +17,7 @@ public void RemoveRange(int index, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс коллекции. |
-| count | Int32 | Количество строк. |
+| count | Int32 | Ряды считаются. |
 
 ### Смотрите также
 

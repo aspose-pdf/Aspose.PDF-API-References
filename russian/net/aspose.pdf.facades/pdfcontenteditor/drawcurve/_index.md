@@ -19,7 +19,7 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 | lineInfo | LineInfo | Экземпляр класса LineInfo. |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| annotContents | String | Содержимое аннотации. |
+| annotContents | String | Содержание аннотации. |
 
 ### Примеры
 
@@ -27,7 +27,7 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 PdfContentEditor editor = new PdfContentEditor();
 newApiEditor.BindPdf("example.pdf");
 LineInfo lineInfo = new LineInfo();
-lineInfo.VerticeCoordinate = new float[] { 0, 0, 100, 100 };   //x1, y1, x2, y2, .. xn, yn
+lineInfo.VerticeCoordinate = new float[] { 0, 0, 100, 100 };  //x1, y1, x2, y2, .. xn, yn
 lineInfo.Visibility = true;
 editor.DrawCurve(lineInfo, 1, new System.Drawing.Rectangle(0, 0, 0, 0), "Welcome to Aspose");
 editor.Save("example_out.pdf");

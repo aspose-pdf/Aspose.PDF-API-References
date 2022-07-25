@@ -1,14 +1,14 @@
 ---
 title: ImageStamp
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化ImageStampaspose.pdf/imagestamp类的新实例
+description: 初始化ImageStampaspose.pdf/imagestamp类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/imagestamp/imagestamp/
 ---
 ## ImageStamp(Stream) {#constructor}
 
-初始化[`ImageStamp`](../../imagestamp)类的新实例。
+初始化[`ImageStamp`](../../imagestamp)类.
 
 ```csharp
 public ImageStamp(Stream image)
@@ -28,7 +28,7 @@ public ImageStamp(Stream image)
 
 ## ImageStamp(string) {#constructor_1}
 
-在指定文件中按图像创建图像标记。
+在指定文件中逐个创建图像标记。
 
 ```csharp
 public ImageStamp(string fileName)

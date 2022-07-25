@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 为指定范围初始化TextReplaceOptionsaspose.pdf.text/textreplaceoptions对象的新实例
+description: 初始化TextReplaceOptionsaspose.pdf.text/textreplaceoptions指定范围的对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/
 ---
 ## TextReplaceOptions(Scope) {#constructor_1}
 
-为指定范围初始化[`TextReplaceOptions`](../../textreplaceoptions)对象的新实例。
+初始化[`TextReplaceOptions`](../../textreplaceoptions)指定范围的对象。
 
 ```csharp
 public TextReplaceOptions(Scope scope)
@@ -29,7 +29,7 @@ public TextReplaceOptions(Scope scope)
 
 ## TextReplaceOptions(ReplaceAdjustment) {#constructor}
 
-为指定的替换操作后初始化[`TextReplaceOptions`](../../textreplaceoptions)对象的新实例。
+初始化[`TextReplaceOptions`](../../textreplaceoptions)替换操作后指定的对象。
 
 ```csharp
 public TextReplaceOptions(ReplaceAdjustment adjustment)
@@ -37,7 +37,7 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| adjustment | ReplaceAdjustment | ReplaceAdjustment 对象。 |
+| adjustment | ReplaceAdjustment | 替换调整对象。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: GlyphPosition
 second_title: Aspose.PDF for .NET API 参考
-description: 类描述与运算符 TJ 一起使用的文本和位置使用位置设置字形
+description: 类描述与操作符 TJ 一起使用的文本和位置使用位置设置字形
 type: docs
 weight: 5200
 url: /zh/net/aspose.pdf.operators/glyphposition/
 ---
 ## GlyphPosition class
 
-类描述与运算符 TJ 一起使用的文本和位置（使用位置设置字形）
+类描述与操作符 TJ 一起使用的文本和位置（使用位置设置字形）
 
 ```csharp
 public class GlyphPosition
@@ -26,7 +26,7 @@ public class GlyphPosition
 | 姓名 | 描述 |
 | --- | --- |
 | [Position](../../aspose.pdf.operators/glyphposition/position) { get; } | 在操作符中定位文本。 |
-| [Text](../../aspose.pdf.operators/glyphposition/text) { get; } | 运算符文本。 |
+| [Text](../../aspose.pdf.operators/glyphposition/text) { get; } | 运算符的文本。 |
 
 ### 也可以看看
 

@@ -18,27 +18,27 @@ public sealed class Matrix3D
 
 | Имя | Описание |
 | --- | --- |
-| [Matrix3D](matrix3d#constructor)() | Конструктор создает стандартную матрицу 1 к 1: [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0 , 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
-| [Matrix3D](matrix3d#constructor_3)(double[]) | Конструктор принимает матрицу со следующим представлением массива: [ ABCDEFGHI Tx Ty Tz] |
-| [Matrix3D](matrix3d#constructor_1)(Matrix3D) | Конструктор принимает матрицу для создания копии |
+| [Matrix3D](matrix3d#constructor)() | Constructor создает стандартную матрицу 1 к 1: [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
+| [Matrix3D](matrix3d#constructor_3)(double[]) | Constructor принимает матрицу со следующим представлением массива: [ABCDEFGHI Tx Ty Tz] |
+| [Matrix3D](matrix3d#constructor_1)(Matrix3D) | Constructor принимает матрицу для создания копии |
 | [Matrix3D](matrix3d#constructor_2)(double, double, double, double, double, double, double, double, double, double, double, double) | Инициализирует матрицу преобразования с указанными коэффициентами. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [A](../../aspose.pdf/matrix3d/a) { get; set; } | Элемент матрицы преобразования. |
+| [A](../../aspose.pdf/matrix3d/a) { get; set; } | Член матрицы преобразования. |
 | [B](../../aspose.pdf/matrix3d/b) { get; set; } | B элемент матрицы преобразования. |
-| [C](../../aspose.pdf/matrix3d/c) { get; set; } | C член матрицы преобразования. |
-| [D](../../aspose.pdf/matrix3d/d) { get; set; } | D член матрицы преобразования. |
+| [C](../../aspose.pdf/matrix3d/c) { get; set; } | C элемент матрицы преобразования. |
+| [D](../../aspose.pdf/matrix3d/d) { get; set; } | D элемент матрицы преобразования. |
 | [E](../../aspose.pdf/matrix3d/e) { get; set; } | E элемент матрицы преобразования. |
 | [F](../../aspose.pdf/matrix3d/f) { get; set; } | F элемент матрицы преобразования. |
 | [G](../../aspose.pdf/matrix3d/g) { get; set; } | G элемент матрицы преобразования. |
-| [H](../../aspose.pdf/matrix3d/h) { get; set; } | H член матрицы преобразования. |
-| [I](../../aspose.pdf/matrix3d/i) { get; set; } | Я член матрицы трансформации. |
+| [H](../../aspose.pdf/matrix3d/h) { get; set; } | H элемент матрицы преобразования. |
+| [I](../../aspose.pdf/matrix3d/i) { get; set; } | I член матрицы преобразования. |
 | [Tx](../../aspose.pdf/matrix3d/tx) { get; set; } | Tx элемент матрицы преобразования. |
 | [Ty](../../aspose.pdf/matrix3d/ty) { get; set; } | Ty член матрицы преобразования. |
-| [Tz](../../aspose.pdf/matrix3d/tz) { get; set; } | Tz член матрицы преобразования. |
+| [Tz](../../aspose.pdf/matrix3d/tz) { get; set; } | Tz элемент матрицы преобразования. |
 
 ## Методы
 
@@ -48,7 +48,7 @@ public sealed class Matrix3D
 | override [Equals](../../aspose.pdf/matrix3d/equals)(object) | Сравнивает матрицу с другим объектом. |
 | override [GetHashCode](../../aspose.pdf/matrix3d/gethashcode)() | Хэш-код объекта. |
 | override [ToString](../../aspose.pdf/matrix3d/tostring)() | Возвращает текстовое представление матрицы. |
-| static [GetAngle](../../aspose.pdf/matrix3d/getangle)(Rotation) | Переводит вращение в угол (градусы) |
+| static [GetAngle](../../aspose.pdf/matrix3d/getangle)(Rotation) | Преобразует вращение в угол (градусы) |
 
 ### Смотрите также
 

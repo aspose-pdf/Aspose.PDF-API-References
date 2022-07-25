@@ -1,14 +1,14 @@
 ---
 title: CurveTo
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 c 运算符的类将曲线附加到路径
+description: 代表 c 运算符的类将曲线附加到路径
 type: docs
 weight: 5020
 url: /zh/net/aspose.pdf.operators/curveto/
 ---
 ## CurveTo class
 
-表示 c 运算符的类（将曲线附加到路径）。
+代表 c 运算符的类（将曲线附加到路径）。
 
 ```csharp
 public class CurveTo : Operator
@@ -18,7 +18,7 @@ public class CurveTo : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CurveTo](curveto)(double, double, double, double, double, double) | 初始化曲线操作符。 |
+| [CurveTo](curveto)(double, double, double, double, double, double) | 初始化曲线算子。 |
 
 ## 特性
 
@@ -32,7 +32,7 @@ public class CurveTo : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/curveto/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/curveto/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/curveto/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

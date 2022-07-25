@@ -1,14 +1,14 @@
 ---
 title: Modified
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает дату и время последнего изменения аннотации.
+description: Получает или задает дату и время последнего изменения аннотации.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/annotation/modified/
 ---
 ## Annotation.Modified property
 
-Получает или устанавливает дату и время последнего изменения аннотации.
+Получает или задает дату и время последнего изменения аннотации.
 
 ```csharp
 public DateTime Modified { get; set; }

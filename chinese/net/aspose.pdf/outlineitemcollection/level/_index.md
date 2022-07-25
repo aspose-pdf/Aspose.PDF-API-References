@@ -1,14 +1,14 @@
 ---
 title: Level
 second_title: Aspose.PDF for .NET API 参考
-description: 获取大纲项目的层次结构级别
+description: 获取大纲项目的层级
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/outlineitemcollection/level/
 ---
 ## OutlineItemCollection.Level property
 
-获取大纲项目的层次结构级别。
+获取大纲项目的层级。
 
 ```csharp
 public int Level { get; }

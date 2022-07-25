@@ -1,14 +1,14 @@
 ---
 title: PdfFileEditor.CorruptedItem
 second_title: Aspose.PDF for .NET API 参考
-description: 类在连接时提供有关损坏文件的信息
+description: 在连接时提供有关损坏文件信息的类
 type: docs
 weight: 2510
 url: /zh/net/aspose.pdf.facades/pdffileeditor.corrupteditem/
 ---
 ## PdfFileEditor.CorruptedItem class
 
-类，在连接时提供有关损坏文件的信息。
+在连接时提供有关损坏文件信息的类。
 
 ```csharp
 public class CorruptedItem
@@ -18,7 +18,7 @@ public class CorruptedItem
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Exception](../../aspose.pdf.facades/corrupteditem/exception) { get; } | 此文件引发异常，表明文件存在问题。 |
+| [Exception](../../aspose.pdf.facades/corrupteditem/exception) { get; } | 此文件引发的异常表明文件存在问题。 |
 | [Index](../../aspose.pdf.facades/corrupteditem/index) { get; } | 损坏文件的索引。 |
 
 ### 也可以看看

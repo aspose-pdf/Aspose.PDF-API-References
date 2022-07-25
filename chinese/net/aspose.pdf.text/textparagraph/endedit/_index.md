@@ -16,7 +16,7 @@ public void EndEdit()
 
 ### 评论
 
-提高 TextParagraph 填充的性能。 任何布局计算都会暂停，直到调用 EndEdit 方法。 注意方法调用不能嵌套。
+提高 TextParagraph 填充的性能。 在调用 EndEdit 方法之前暂停任何布局计算。 请注意，方法调用不能嵌套。
 
 ### 也可以看看
 

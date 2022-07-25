@@ -1,14 +1,14 @@
 ---
 title: FontTypes
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисление поддерживаемых типов шрифтов.
+description: Перечень поддерживаемых типов шрифтов.
 type: docs
 weight: 6780
 url: /ru/net/aspose.pdf.text/fonttypes/
 ---
 ## FontTypes enumeration
 
-Перечисление поддерживаемых типов шрифтов.
+Перечень поддерживаемых типов шрифтов.
 
 ```csharp
 public enum FontTypes

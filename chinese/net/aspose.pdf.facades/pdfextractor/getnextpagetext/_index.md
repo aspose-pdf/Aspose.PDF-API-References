@@ -20,7 +20,7 @@ public void GetNextPageText(string outputFile)
 
 ### 例子
 
-该示例演示了 GetNextPageText 方法在文本提取场景中的用法。 &lt;code lang="VB.NET"&gt; Dim extractor As PdfExtractor = New PdfExtractor() extractor.BindPdf(TestPath + "Aspose.Pdf .Kit.Pdf") extractor.ExtractText(Encoding.Unicode) Dim 前缀 As String = TestPath + "Aspose.Pdf.Kit" Dim suffix As String = ".txt" Dim pageCount As Integer = 1 While extractor.HasNextPageText() extractor.GetNextPageText(prefix + pageCount + suffix ) pageCount = pageCount + 1 End While &lt;/code&gt;
+示例演示GetNextPageText方法在文本提取场景中的使用。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -34,6 +34,19 @@ while (extractor.HasNextPageText())
     extractor.GetNextPageText(prefix + pageCount + suffix);
     pageCount++;
 }
+```
+
+```csharp
+Dim extractor As PdfExtractor =  New PdfExtractor() 
+extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
+extractor.ExtractText(Encoding.Unicode)
+Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
+Dim suffix As String =  ".txt" 
+Dim pageCount As Integer =  1 
+While extractor.HasNextPageText()
+    extractor.GetNextPageText(prefix + pageCount + suffix)
+    pageCount = pageCount + 1
+End While
 ```
 
 ### 也可以看看
@@ -54,11 +67,11 @@ public void GetNextPageText(Stream outputStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 保存文本的流。 |
+| outputStream | Stream | 用于保存文本的流。 |
 
 ### 例子
 
-该示例演示[`GetNextPageText`](../getnextpagetext)文本提取场景中的方法使用。
+这个例子展示了[`GetNextPageText`](../getnextpagetext)文本提取场景中的方法使用.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();

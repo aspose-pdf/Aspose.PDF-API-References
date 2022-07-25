@@ -1,14 +1,14 @@
 ---
 title: List
 second_title: Aspose.PDF for .NET API 参考
-description: 列表属性所有者
+description: 列出属性所有者
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
 ## AttributeOwnerStandard.List field
 
-列表属性所有者。
+列出属性所有者。
 
 ```csharp
 public static readonly AttributeOwnerStandard List;

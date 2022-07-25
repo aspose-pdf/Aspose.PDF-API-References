@@ -1,14 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает вертикальное выравнивание фрагмента текста.
+description: Получает или задает вертикальное выравнивание текстового фрагмента.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.text/textfragment/verticalalignment/
 ---
 ## TextFragment.VerticalAlignment property
 
-Получает или задает вертикальное выравнивание фрагмента текста.
+Получает или задает вертикальное выравнивание текстового фрагмента.
 
 ```csharp
 public override VerticalAlignment VerticalAlignment { get; set; }

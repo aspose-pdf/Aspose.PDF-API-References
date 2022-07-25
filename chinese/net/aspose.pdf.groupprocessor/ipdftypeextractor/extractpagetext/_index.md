@@ -20,7 +20,7 @@ public string ExtractPageText(int pageNumber)
 
 ### 返回值
 
-页面文本。
+页面文字。
 
 ### 也可以看看
 

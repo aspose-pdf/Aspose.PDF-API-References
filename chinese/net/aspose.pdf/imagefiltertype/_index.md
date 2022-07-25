@@ -18,10 +18,10 @@ public enum ImageFilterType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Jpeg2000 | `0` | Jpeg 2000. |
-| Jpeg | `1` | JPEG。 |
-| Flate | `2` | 弗拉特。 |
-| CCITTFax | `3` | CCIT 传真。 |
+| Jpeg2000 | `0` | JPEG 2000. |
+| Jpeg | `1` | JPEG. |
+| Flate | `2` | 弗拉特. |
+| CCITTFax | `3` | CCIT 传真. |
 
 ### 也可以看看
 

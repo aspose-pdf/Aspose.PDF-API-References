@@ -1,14 +1,14 @@
 ---
 title: MaxFontsCacheSize
 second_title: Aspose.PDF для справочника API .NET
-description: Максимальное количество шрифтов в кеше шрифтов. Значение по умолчанию10.
+description: Максимальное количество шрифтов в кеше шрифтов. Значение по умолчанию 10. .
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/renderingoptions/maxfontscachesize/
 ---
 ## RenderingOptions.MaxFontsCacheSize property
 
-Максимальное количество шрифтов в кеше шрифтов. Значение по умолчанию:10.
+Максимальное количество шрифтов в кеше шрифтов. Значение по умолчанию: 10. .
 
 ```csharp
 public int MaxFontsCacheSize { get; set; }

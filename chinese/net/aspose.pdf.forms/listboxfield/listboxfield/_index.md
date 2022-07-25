@@ -1,14 +1,14 @@
 ---
 title: ListBoxField
 second_title: Aspose.PDF for .NET API 参考
-description: 用于生成器的 ListBoxField 的构造函数
+description: 要在 Generator. 中使用的 ListBoxField 的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/listboxfield/listboxfield/
 ---
 ## ListBoxField() {#constructor}
 
-用于生成器的 ListBoxField 的构造函数。
+要在 Generator. 中使用的 ListBoxField 的构造函数
 
 ```csharp
 public ListBoxField()
@@ -24,7 +24,7 @@ public ListBoxField()
 
 ## ListBoxField(Page, Rectangle) {#constructor_2}
 
-创建新的 ListBox 字段。
+创建新的列表框字段。
 
 ```csharp
 public ListBoxField(Page page, Rectangle rect)
@@ -33,7 +33,7 @@ public ListBoxField(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 将放置列表框的页面。 |
-| rect | Rectangle | 矩形列表框将放置在页面上的位置。 |
+| rect | Rectangle | 列表框将在页面上放置的矩形。 |
 
 ### 也可以看看
 

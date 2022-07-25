@@ -1,14 +1,14 @@
 ---
 title: ObjectType
 second_title: Aspose.PDF для справочника API .NET
-description: Тип объекта PDF Страница или xForm в котором находится ошибка извлечения текста потока содержимого.
+description: Тип объекта PDF страница или xForm в котором обнаружена ошибка извлечения текста потока содержимого.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textextractionerrorlocation/objecttype/
 ---
 ## TextExtractionErrorLocation.ObjectType property
 
-Тип объекта PDF (Страница или xForm), в котором находится ошибка извлечения текста потока содержимого.
+Тип объекта PDF (страница или xForm), в котором обнаружена ошибка извлечения текста потока содержимого.
 
 ```csharp
 public string ObjectType { get; }

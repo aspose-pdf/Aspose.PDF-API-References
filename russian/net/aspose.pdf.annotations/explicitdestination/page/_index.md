@@ -1,14 +1,14 @@
 ---
 title: Page
 second_title: Aspose.PDF для справочника API .NET
-description: Получает объект целевой страницы
+description: Получает целевую страницу object
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/explicitdestination/page/
 ---
 ## ExplicitDestination.Page property
 
-Получает объект целевой страницы
+Получает целевую страницу object
 
 ```csharp
 public Page Page { get; }

@@ -21,7 +21,7 @@ public static Matrix Skew(double alpha, double beta)
 
 ### Возвращаемое значение
 
-Матрица преобразования.
+Матрица трансформации.
 
 ### Примеры
 

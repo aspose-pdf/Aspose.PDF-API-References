@@ -1,14 +1,14 @@
 ---
 title: ClippingPathsProcessing
 second_title: Aspose.PDF for .NET API 参考
-description: 获取处理编辑文本剪切路径的模式
+description: 获取编辑文本的剪切路径处理模式
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/texteditoptions/clippingpathsprocessing/
 ---
 ## TextEditOptions.ClippingPathsProcessing property
 
-获取处理编辑文本剪切路径的模式。
+获取编辑文本的剪切路径处理模式。
 
 ```csharp
 public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Groove
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleGroove  граница выглядит так как будто она вырезана на холсте.
+description: Attribute BorderStyle Groove  граница выглядит так как будто она вырезана на холсте.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_groove/
 ---
 ## AttributeName.BorderStyle_Groove field
 
-Атрибут BorderStyle:Groove — граница выглядит так, как будто она вырезана на холсте.
+Attribute BorderStyle: Groove — граница выглядит так, как будто она вырезана на холсте.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Groove;

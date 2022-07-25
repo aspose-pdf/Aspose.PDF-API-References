@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions.Scope
 second_title: Aspose.PDF для справочника API .NET
-description: Область применения операции замены текста REPLACE_FIRST по умолчанию Эта устаревшая опция была сохранена для совместимости. Это влияет на PdfContentEditor и не влияет на TextFragmentAbsorber.
+description: Область применения операции замены текста REPLACE_FIRST по умолчанию Этот устаревший параметр был сохранен для совместимости. Это влияет на PdfContentEditor и не влияет на TextFragmentAbsorber.
 type: docs
 weight: 7190
 url: /ru/net/aspose.pdf.text/textreplaceoptions.scope/
 ---
 ## TextReplaceOptions.Scope enumeration
 
-Область применения операции замены текста REPLACE_FIRST по умолчанию Эта устаревшая опция была сохранена для совместимости. Это влияет на PdfContentEditor и не влияет на TextFragmentAbsorber.
+Область применения операции замены текста REPLACE_FIRST по умолчанию Этот устаревший параметр был сохранен для совместимости. Это влияет на PdfContentEditor и не влияет на TextFragmentAbsorber.
 
 ```csharp
 public enum Scope
@@ -18,7 +18,7 @@ public enum Scope
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| REPLACE_FIRST | `0` | Заменить только первое вхождение текста на каждой из затрагиваемых страниц |
+| REPLACE_FIRST | `0` | Заменить только первое вхождение текста на каждой из затронутых страниц |
 | REPLACE_ALL | `1` | Заменить все вхождения текста на всех затронутых страницах |
 
 ### Смотрите также

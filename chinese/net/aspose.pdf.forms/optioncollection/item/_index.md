@@ -16,7 +16,7 @@ public Option this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 选项的索引。 |
+| index | 期权的索引。 |
 
 ### 返回值
 
@@ -33,7 +33,7 @@ public Option this[int index] { get; }
 
 ## OptionCollection indexer (2 of 2)
 
-通过名称获取选项。
+按名称获取选项。
 
 ```csharp
 public Option this[string name] { get; }

@@ -1,14 +1,14 @@
 ---
 title: CommonFigureAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 在生成器中使用的构造函数
+description: 在 Generator. 中使用的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/
 ---
 ## CommonFigureAnnotation constructor
 
-在生成器中使用的构造函数。
+在 Generator. 中使用的构造函数
 
 ```csharp
 public CommonFigureAnnotation(Document document)

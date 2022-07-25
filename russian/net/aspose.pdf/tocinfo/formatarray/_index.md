@@ -1,14 +1,14 @@
 ---
 title: FormatArray
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает массив формата для оглавления.
+description: Получает или задает массив форматов для оглавления.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/tocinfo/formatarray/
 ---
 ## TocInfo.FormatArray property
 
-Получает или задает массив формата для оглавления.
+Получает или задает массив форматов для оглавления.
 
 ```csharp
 public LevelFormat[] FormatArray { get; set; }

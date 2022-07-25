@@ -1,14 +1,14 @@
 ---
 title: PDF3DCrossSection
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssection.
+description: Инициализирует новый экземплярPDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssection класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/
 ---
 ## PDF3DCrossSection constructor
 
-Инициализирует новый экземпляр класса[`PDF3DCrossSection`](../../pdf3dcrosssection).
+Инициализирует новый экземпляр[`PDF3DCrossSection`](../../pdf3dcrosssection) класс.
 
 ```csharp
 public PDF3DCrossSection(Document doc)

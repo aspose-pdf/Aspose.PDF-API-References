@@ -16,7 +16,7 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля . |
+| fieldName | String | Полное имя поля. |
 
 ### Возвращаемое значение
 

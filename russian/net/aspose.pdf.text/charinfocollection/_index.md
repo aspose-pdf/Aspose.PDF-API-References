@@ -18,7 +18,7 @@ public sealed class CharInfoCollection : ICollection<CharInfo>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf.text/charinfocollection/count) { get; } | Получает количество элементов объекта[`CharInfo`](../charinfo), фактически содержащихся в коллекции. |
+| [Count](../../aspose.pdf.text/charinfocollection/count) { get; } | Получает количество[`CharInfo`](../charinfo) элементы объекта, фактически содержащиеся в коллекции. |
 | [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly) { get; } | Получает значение, указывающее, доступна ли коллекция только для чтения |
 | [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к коллекции синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf.text/charinfocollection/item) { get; } | Получает элемент CharInfo по указанному индексу. |
@@ -28,12 +28,12 @@ public sealed class CharInfoCollection : ICollection<CharInfo>
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.text/charinfocollection/add)(CharInfo) | Коллекция доступна только для чтения, выдает NotImplementedException . |
+| [Add](../../aspose.pdf.text/charinfocollection/add)(CharInfo) | Коллекция доступна только для чтения, выдаетНереализованное исключение . |
 | [Clear](../../aspose.pdf.text/charinfocollection/clear)() | Коллекция доступна только для чтения. Всегда выдает NotImplementedException. |
 | [Contains](../../aspose.pdf.text/charinfocollection/contains)(CharInfo) | Определяет, содержит ли коллекция определенное значение. |
 | [CopyTo](../../aspose.pdf.text/charinfocollection/copyto)(CharInfo[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |
 | [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator)() | Возвращает перечислитель для всей коллекции. |
-| [Remove](../../aspose.pdf.text/charinfocollection/remove)(CharInfo) | Коллекция доступна только для чтения, выдает NotImplementedException . |
+| [Remove](../../aspose.pdf.text/charinfocollection/remove)(CharInfo) | Коллекция доступна только для чтения, выдаетНереализованное исключение . |
 
 ### Примечания
 
@@ -41,37 +41,37 @@ public sealed class CharInfoCollection : ICollection<CharInfo>
 
 ### Примеры
 
-Пример демонстрирует, как перебрать все символы и получить символ
+Пример демонстрирует, как пройтись по всем символам и получить charact
 
 ```csharp
 //открыть документ
-ocument pdfDocument = new Document(inFile);
-//создаем объект TextFragmentAbsorber для сбора всех текстовых объектов page
-extFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
+Document pdfDocument = new Document(inFile);
+//создаем объект TextFragmentAbsorber для сбора всех текстовых объектов страницы
+TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
 //принимаем поглотитель для всех страниц
-dfDocument.Pages[1].Accept(textFragmentAbsorber);
-//получаем извлеченный текст fragments
-extFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
-           
+pdfDocument.Pages[1].Accept(textFragmentAbsorber);
+//получаем извлеченные фрагменты текста
+TextFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
+            
 //перебираем фрагменты
-oreach (TextFragment textFragment in textFragmentCollection)
+foreach (TextFragment textFragment in textFragmentCollection)
+{
+    //перебираем сегменты
+    foreach (TextSegment textSegment in textFragment.Segments)
+    {
+        //проходим по символам
+        for (int i = 1; i <= textSegment.Text.Length; i++)
+        {
+            CharInfo charInfo = textSegment.Characters[i];
 
-    //цикл по сегментам
-   foreach (TextSegment textSegment in textFragment.Segments)
-   {
-        //перебираем символы
-       for (int i = 1; i <= textSegment.Text.Length; i++)
-       {
-           CharInfo charInfo = textSegment.Characters[i];
-
-            // вывести позицию символа и прямоугольник info
-           Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
-           Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
-           Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);
-           Console.WriteLine("Height : {0} ", charInfo.Rectangle.Height);
-       }
-   }
-
+            // вывести положение символа и информацию о прямоугольнике
+            Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
+            Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
+            Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);
+            Console.WriteLine("Height : {0} ", charInfo.Rectangle.Height);
+        }
+    }
+}
 ```
 
 ### Смотрите также

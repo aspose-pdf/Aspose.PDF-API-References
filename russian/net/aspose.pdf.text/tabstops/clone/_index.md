@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF для справочника API .NET
-description: Клонирует новый объектTabStopsaspose.pdf.text/tabstops.
+description: Клонирует новыйTabStopsaspose.pdf.text/tabstops объекты.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/tabstops/clone/
 ---
 ## TabStops.Clone method
 
-Клонирует новый объект[`TabStops`](../../tabstops).
+Клонирует новый[`TabStops`](../../tabstops) объекты.
 
 ```csharp
 public object Clone()
@@ -16,7 +16,7 @@ public object Clone()
 
 ### Возвращаемое значение
 
-Новый объект[`TabStops`](../../tabstops).
+Новый[`TabStops`](../../tabstops) объект.
 
 ### Смотрите также
 

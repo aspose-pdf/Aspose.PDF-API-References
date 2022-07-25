@@ -134,7 +134,7 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_16}
 
-访问/选择罢工注释。
+访问/选择删除注释。
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -344,7 +344,7 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_15}
 
-访问/选择戳记注释。
+访问/选择邮票注释。
 
 ```csharp
 public void Visit(StampAnnotation stamp)

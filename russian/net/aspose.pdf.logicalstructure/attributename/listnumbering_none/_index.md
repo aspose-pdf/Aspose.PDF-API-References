@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_None
 second_title: Aspose.PDF для справочника API .NET
-description: Attribute ListNumberingNone  нет автонумерации Элементы Lbl если они есть содержат произвольный текст не подпадающий под какую-либо схему нумерации.
+description: Attribute ListNumbering None  нет автонумерации Элементы Lbl если они есть содержат произвольный текст не подпадающий под какую-либо схему нумерации.
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/
 ---
 ## AttributeName.ListNumbering_None field
 
-Attribute ListNumbering:None — нет автонумерации; Элементы Lbl (если они есть) содержат произвольный текст, не подпадающий под какую-либо схему нумерации.
+Attribute ListNumbering: None — нет автонумерации; Элементы Lbl (если они есть) содержат произвольный текст, не подпадающий под какую-либо схему нумерации.
 
 ```csharp
 public static readonly AttributeName ListNumbering_None;

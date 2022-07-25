@@ -1,14 +1,14 @@
 ---
 title: PageLayoutTwoColumnLeft
 second_title: Aspose.PDF для справочника API .NET
-description: Показать страницы в два столбца нечетные страницы справа
+description: Отображение страниц в двух столбцах с нечетными номерами справа
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnleft/
 ---
 ## ViewerPreference.PageLayoutTwoColumnLeft field
 
-Показать страницы в два столбца, нечетные страницы справа
+Отображение страниц в двух столбцах с нечетными номерами справа
 
 ```csharp
 public const int PageLayoutTwoColumnLeft;

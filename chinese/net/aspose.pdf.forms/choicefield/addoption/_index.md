@@ -36,7 +36,7 @@ public virtual void AddOption(string export, string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| export | String | 导出值。 |
+| export | String | 出口价值。 |
 | name | String | 新选项的名称。 |
 
 ### 也可以看看

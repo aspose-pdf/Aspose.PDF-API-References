@@ -17,7 +17,7 @@ public void Insert(int index, BaseParagraph paragraph)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | index | Int32 | 段落的索引。 |
-| paragraph | BaseParagraph | 段落。 |
+| paragraph | BaseParagraph | 这段落。 |
 
 ### 也可以看看
 

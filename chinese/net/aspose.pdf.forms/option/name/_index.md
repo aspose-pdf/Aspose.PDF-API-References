@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置选项名称
+description: 获取或设置选项的名称
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/option/name/
 ---
 ## Option.Name property
 
-获取或设置选项名称。
+获取或设置选项的名称。
 
 ```csharp
 public string Name { get; set; }

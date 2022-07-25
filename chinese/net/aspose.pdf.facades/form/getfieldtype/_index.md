@@ -20,7 +20,7 @@ public FieldType GetFieldType(string fieldName)
 
 ### 返回值
 
-字段类型对应的 FileType 枚举元素。
+字段类型对应的 FileType 枚举的元素。
 
 ### 例子
 

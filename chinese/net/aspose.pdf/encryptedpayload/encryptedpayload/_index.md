@@ -1,14 +1,14 @@
 ---
 title: EncryptedPayload
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化加密负载实例
+description: 初始化加密的有效负载实例
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
 ## EncryptedPayload constructor
 
-初始化加密负载实例。
+初始化加密的有效负载实例。
 
 ```csharp
 public EncryptedPayload(FileSpecification fileSpecification)

@@ -1,14 +1,14 @@
 ---
 title: ButtonStyle
 second_title: Aspose.PDF for .NET API 参考
-description: 复选框或单选框字段的样式由 FormFieldFacade.CheckBoxStyle 定义
+description: 复选框或单选框字段的样式由 FormFieldFacade.CheckBoxStyle. 定义
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/formfieldfacade/buttonstyle/
 ---
 ## FormFieldFacade.ButtonStyle property
 
-复选框或单选框字段的样式，由 FormFieldFacade.CheckBoxStyle* 定义。
+复选框或单选框字段的样式，由 FormFieldFacade.CheckBoxStyle*. 定义
 
 ```csharp
 public int ButtonStyle { get; set; }

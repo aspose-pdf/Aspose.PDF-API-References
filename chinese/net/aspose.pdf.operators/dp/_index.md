@@ -1,14 +1,14 @@
 ---
 title: DP
 second_title: Aspose.PDF for .NET API 参考
-description: 类表示 DP 运算符指定标记的内容点
+description: 表示 DP 运算符的类指定标记的内容点
 type: docs
 weight: 5050
 url: /zh/net/aspose.pdf.operators/dp/
 ---
 ## DP class
 
-类表示 DP 运算符（指定标记的内容点）。
+表示 DP 运算符的类（指定标记的内容点）。
 
 ```csharp
 public class DP : Operator
@@ -18,7 +18,7 @@ public class DP : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DP](dp)(string) | 初始化运算符。 |
+| [DP](dp)(string) | 初始化操作符。 |
 
 ## 特性
 
@@ -32,7 +32,7 @@ public class DP : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/dp/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/dp/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/dp/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

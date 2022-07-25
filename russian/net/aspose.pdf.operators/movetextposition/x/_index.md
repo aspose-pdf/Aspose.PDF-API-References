@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.PDF для справочника API .NET
-description: Координата X позиции текста.
+description: X-координата позиции текста.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/movetextposition/x/
 ---
 ## MoveTextPosition.X property
 
-Координата X позиции текста.
+X-координата позиции текста.
 
 ```csharp
 public double X { get; set; }

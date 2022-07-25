@@ -1,14 +1,14 @@
 ---
 title: TextDecorationType_None
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут TextDecorationTypeNone - без оформления текста.
+description: Атрибут TextDecorationType None  без оформления текста.
 type: docs
 weight: 600
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/
 ---
 ## AttributeName.TextDecorationType_None field
 
-Атрибут TextDecorationType:None - без оформления текста.
+Атрибут TextDecorationType: None — без оформления текста.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_None;

@@ -18,7 +18,7 @@ public class LineTo : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LineTo](lineto)(double, double) | 初始化行运算符。 |
+| [LineTo](lineto)(double, double) | 初始化线路运算符。 |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public class LineTo : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/lineto/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/lineto/tostring)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/lineto/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

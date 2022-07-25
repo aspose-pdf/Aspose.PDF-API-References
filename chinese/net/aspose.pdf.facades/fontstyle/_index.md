@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举 14 种字体
+description: 枚举14种字体
 type: docs
 weight: 2290
 url: /zh/net/aspose.pdf.facades/fontstyle/
 ---
 ## FontStyle enumeration
 
-枚举 14 种字体。
+枚举14种字体。
 
 ```csharp
 public enum FontStyle
@@ -18,22 +18,22 @@ public enum FontStyle
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Courier | `0` | Courier 字体。 |
-| CourierBold | `1` | Bold Courier 字体。 |
-| CourierOblique | `2` | Oblique Curier 字体。 |
+| Courier | `0` | 快递字体. |
+| CourierBold | `1` | 粗体 Courier 字体。 |
+| CourierOblique | `2` | 斜居里字体。 |
 | CourierBoldOblique | `3` | 粗斜 Courier 字体。 |
-| Helvetica | `4` | Helvetica 字体。 |
+| Helvetica | `4` | Helvetica 字体. |
 | HelveticaBold | `5` | 粗体 Helvetica 字体。 |
 | HelveticaOblique | `6` | Oblique Helvetica 字体。 |
 | HelveticaBoldOblique | `7` | 粗斜 Helvetica 字体。 |
-| Symbol | `8` | 符号字体。 |
+| Symbol | `8` | 符号字体. |
 | TimesRoman | `9` | Times-Roman 字体。 |
-| TimesBold | `10` | Bold Times 字体。 |
+| TimesBold | `10` | 粗体时代字体。 |
 | TimesItalic | `11` | 斜体时代字体。 |
 | TimesBoldItalic | `12` | 粗斜体 Times 字体。 |
-| ZapfDingbats | `13` | ZapfDingbats 字体。 |
+| ZapfDingbats | `13` | ZapfDingbats 字体. |
 | Unknown | `14` | 未知字体。将使用标准字体。 |
-| CjkFont | `15` | True Type Font for CJK support , 默认为 MS PGothic 字体。 |
+| CjkFont | `15` | True Type Font for CJK 支持，默认为 MS PGothic 字体。 |
 
 ### 也可以看看
 

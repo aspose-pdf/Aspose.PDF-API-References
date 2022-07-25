@@ -1,14 +1,14 @@
 ---
 title: EnableObjectUnload
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置使文档部分从内存中卸载的标志 这可以减少内存使用但可能会对性能产生负面影响
+description: 获取或设置使文档部分从内存中卸载的标志 这可以减少内存使用但可能对性能产生负面影响
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/document/enableobjectunload/
 ---
 ## Document.EnableObjectUnload property
 
-获取或设置使文档部分从内存中卸载的标志。 这可以减少内存使用，但可能会对性能产生负面影响。
+获取或设置使文档部分从内存中卸载的标志。 这可以减少内存使用，但可能对性能产生负面影响。
 
 ```csharp
 public bool EnableObjectUnload { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CustomProcessingCancelled
 second_title: Aspose.PDF for .NET API 参考
-description: 应该由自定义代码设置如果它不能或不应该定义 URL 将在生成的 HTML 中用于引用该 CSS 如果为真则 CSS 文件将以标准方式保存在标准位置
+description: 应该由自定义代码设置如果它不能或不应该定义 将在生成的 HTML 中用于引用该 CSS 的 URL 如果它是真那么 CSS 文件将以标准方式保存在标准位置
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled/
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled field
 
-应该由自定义代码设置，如果它不能或不应该定义 URL， 将在生成的 HTML 中用于引用该 CSS。 如果为“真”，则 CSS 文件将以标准方式保存在标准位置。
+应该由自定义代码设置，如果它不能或不应该定义 将在生成的 HTML 中用于引用该 CSS 的 URL。 如果它是“真”，那么 CSS 文件将以标准方式保存在标准位置。
 
 ```csharp
 public bool CustomProcessingCancelled;

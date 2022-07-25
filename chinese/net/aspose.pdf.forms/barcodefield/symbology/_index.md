@@ -1,14 +1,14 @@
 ---
 title: Symbology
 second_title: Aspose.PDF for .NET API 参考
-description: 指定要在此注释上使用哪种条形码或字形技术 请参见Symbology了解详情
+description: 指定要在此注释上使用哪种条形码或字形技术 见Symbologyaspose.pdf.forms/barcodefield/symbology有关详细信息
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/barcodefield/symbology/
 ---
 ## BarcodeField.Symbology property
 
-指定要在此注释上使用哪种条形码或字形技术， 请参见Symbology了解详情。
+指定要在此注释上使用哪种条形码或字形技术， 见`Symbology`有关详细信息。
 
 ```csharp
 public Symbology Symbology { get; }

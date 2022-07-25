@@ -1,14 +1,14 @@
 ---
 title: PDF3DArtwork
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DArtworkaspose.pdf.annotations/pdf3dartwork类的新实例
+description: 初始化PDF3DArtworkaspose.pdf.annotations/pdf3dartwork类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dartwork/pdf3dartwork/
 ---
 ## PDF3DArtwork(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) {#constructor_1}
 
-初始化[`PDF3DArtwork`](../../pdf3dartwork)类的新实例。
+初始化[`PDF3DArtwork`](../../pdf3dartwork)类.
 
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme lightingScheme, 
@@ -17,7 +17,7 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 文档。 |
+| doc | Document | 文件。 |
 | content | PDF3DContent | 内容。 |
 | lightingScheme | PDF3DLightingScheme | 照明方案。 |
 | renderMode | PDF3DRenderMode | 渲染模式。 |
@@ -36,7 +36,7 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 
 ## PDF3DArtwork(Document, PDF3DContent) {#constructor}
 
-初始化[`PDF3DArtwork`](../../pdf3dartwork)类的新实例。
+初始化[`PDF3DArtwork`](../../pdf3dartwork)类.
 
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content)
@@ -44,7 +44,7 @@ public PDF3DArtwork(Document doc, PDF3DContent content)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 文档。 |
+| doc | Document | 文件。 |
 | content | PDF3DContent | 内容。 |
 
 ### 也可以看看

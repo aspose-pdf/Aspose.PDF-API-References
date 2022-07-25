@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果其他对象是 Matrix3D 并且所有矩阵成员都等于矩阵的对应成员
+返回 true 是其他对象是 Matrix3D 并且所有矩阵成员都等于矩阵的相应成员
 
 ### 也可以看看
 

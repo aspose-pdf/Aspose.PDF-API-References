@@ -1,14 +1,14 @@
 ---
 title: Document.FontSubstitutionHandler
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет метод обрабатывающий событие FontSubstitution.
+description: Представляет метод который будет обрабатывать событие FontSubstitution.
 type: docs
 weight: 1890
 url: /ru/net/aspose.pdf/document.fontsubstitutionhandler/
 ---
 ## Document.FontSubstitutionHandler delegate
 
-Представляет метод, обрабатывающий событие FontSubstitution.
+Представляет метод, который будет обрабатывать событие FontSubstitution.
 
 ```csharp
 public delegate void FontSubstitutionHandler(Font oldFont, Font newFont);

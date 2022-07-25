@@ -16,7 +16,7 @@ public void SetAttribute(StructureAttribute attribute)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| атрибут | StructureAttribute | Атрибут структуры. |
+| attribute | StructureAttribute | СтруктураАтрибут. |
 
 ### Смотрите также
 

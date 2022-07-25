@@ -1,14 +1,14 @@
 ---
 title: SignaturesAppendOnly
 second_title: Aspose.PDF for .NET API 参考
-description: 如果设置则文档包含签名如果文件以更改其先前内容的方式保存写入则可能会失效 而不是增量更新
+description: 如果设置则文档包含签名如果文件以更改其先前内容的方式保存写入 而不是增量更新则该签名可能会失效
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.forms/form/signaturesappendonly/
 ---
 ## Form.SignaturesAppendOnly property
 
-如果设置，则文档包含签名，如果文件以更改其先前内容的方式保存（写入），则可能会失效， 而不是增量更新。
+如果设置，则文档包含签名，如果文件以更改其先前内容的方式保存（写入） 而不是增量更新，则该签名可能会失效。
 
 ```csharp
 public bool SignaturesAppendOnly { get; set; }

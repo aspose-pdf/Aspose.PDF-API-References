@@ -1,14 +1,14 @@
 ---
 title: MemoryFontSource
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаMemoryFontSourceaspose.pdf.text/memoryfontsource.
+description: Инициализирует новый экземплярMemoryFontSourceaspose.pdf.text/memoryfontsource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 ---
 ## MemoryFontSource constructor
 
-Инициализирует новый экземпляр класса[`MemoryFontSource`](../../memoryfontsource).
+Инициализирует новый экземпляр[`MemoryFontSource`](../../memoryfontsource) класс.
 
 ```csharp
 public MemoryFontSource(byte[] fontBytes)

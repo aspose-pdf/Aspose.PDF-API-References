@@ -1,14 +1,14 @@
 ---
 title: DegradedPrinting
 second_title: Aspose.PDF для справочника API .NET
-description: Разрешает печать с ухудшением качества.
+description: Разрешает некачественную печать.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/documentprivilege/degradedprinting/
 ---
 ## DocumentPrivilege.DegradedPrinting property
 
-Разрешает печать с ухудшением качества.
+Разрешает некачественную печать.
 
 ```csharp
 public static DocumentPrivilege DegradedPrinting { get; }

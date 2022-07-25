@@ -1,14 +1,14 @@
 ---
 title: IsEmbedded
 second_title: Aspose.PDF for .NET API 参考
-description: 获取指示是否嵌入字体的值
+description: 获取一个表示字体是否嵌入的值
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded property
 
-获取指示是否嵌入字体的值。
+获取一个表示字体是否嵌入的值。
 
 ```csharp
 public bool IsEmbedded { get; }

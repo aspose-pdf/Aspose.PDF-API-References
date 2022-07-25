@@ -1,14 +1,14 @@
 ---
 title: StampId
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置戳记标识符
+description: 获取或设置戳记的标识符
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/stamp/stampid/
 ---
 ## Stamp.StampId property
 
-获取或设置戳记标识符。
+获取或设置戳记的标识符。
 
 ```csharp
 public int StampId { get; set; }

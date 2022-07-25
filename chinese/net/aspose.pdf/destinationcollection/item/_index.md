@@ -16,7 +16,7 @@ public KeyValuePair<string, object> this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 要获取的目标索引。 |
+| index | 要获取的目的地索引。 |
 
 ### 返回值
 

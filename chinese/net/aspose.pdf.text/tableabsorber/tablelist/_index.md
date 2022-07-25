@@ -1,14 +1,14 @@
 ---
 title: TableList
 second_title: Aspose.PDF for .NET API 参考
-description: 返回包含找到的表的只读 IList
+description: 返回包含已找到的表的只读 IList
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/tableabsorber/tablelist/
 ---
 ## TableAbsorber.TableList property
 
-返回包含找到的表的只读 IList
+返回包含已找到的表的只读 IList
 
 ```csharp
 public virtual IList<AbsorbedTable> TableList { get; }

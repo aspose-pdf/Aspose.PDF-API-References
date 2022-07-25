@@ -1,14 +1,14 @@
 ---
 title: Hyperlink
 second_title: Aspose.PDF for .NET API 参考
-description: 表示抽象超链接
+description: 代表抽象超链接
 type: docs
 weight: 3610
 url: /zh/net/aspose.pdf/hyperlink/
 ---
 ## Hyperlink class
 
-表示抽象超链接。
+代表抽象超链接。
 
 ```csharp
 public abstract class Hyperlink

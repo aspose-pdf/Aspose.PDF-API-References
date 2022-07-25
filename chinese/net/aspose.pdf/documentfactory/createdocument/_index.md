@@ -21,7 +21,7 @@ public Document CreateDocument(Stream input, LoadOptions options)
 
 ### 返回值
 
-创建文档。
+创建的文档。
 
 ### 也可以看看
 
@@ -68,7 +68,7 @@ public Document CreateDocument(Stream input)
 
 ### 返回值
 
-创建文档。
+创建的文档。
 
 ### 也可以看看
 
@@ -94,7 +94,7 @@ public Document CreateDocument(Stream input, string password)
 
 ### 返回值
 
-创建文档。
+创建的文档。
 
 ### 也可以看看
 
@@ -119,7 +119,7 @@ public Document CreateDocument(string fileName)
 
 ### 返回值
 
-创建文档。
+创建的文档。
 
 ### 也可以看看
 

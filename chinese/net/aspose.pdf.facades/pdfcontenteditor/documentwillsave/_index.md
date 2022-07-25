@@ -1,14 +1,14 @@
 ---
 title: DocumentWillSave
 second_title: Aspose.PDF for .NET API 参考
-description: 文档事件类型在保存前执行一个动作
+description: 文档事件类型在保存之前执行一个动作
 type: docs
 weight: 520
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 ---
 ## PdfContentEditor.DocumentWillSave field
 
-文档事件类型。在保存前执行一个动作。
+文档事件类型。在保存之前执行一个动作。
 
 ```csharp
 public const string DocumentWillSave;

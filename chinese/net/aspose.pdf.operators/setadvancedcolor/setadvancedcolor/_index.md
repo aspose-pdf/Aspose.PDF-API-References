@@ -1,14 +1,14 @@
 ---
 title: SetAdvancedColor
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
 ---
 ## SetAdvancedColor() {#constructor}
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public SetAdvancedColor()
@@ -33,7 +33,7 @@ public SetAdvancedColor(double g, string patternName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | g | Double | 颜色值。 |
-| patternName | String | 模式名称。 |
+| patternName | String | 图案名称。 |
 
 ### 也可以看看
 
@@ -76,7 +76,7 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 | r | Double | 颜色的红色分量。 |
 | g | Double | 颜色的绿色分量。 |
 | b | Double | 颜色的蓝色分量。 |
-| patternName | String | 模式名称。 |
+| patternName | String | 图案名称。 |
 
 ### 也可以看看
 
@@ -99,8 +99,8 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 | c | Double | 颜色的青色分量。 |
 | m | Double | 颜色的洋红色分量。 |
 | y | Double | 颜色的黄色分量。 |
-| k | Double | 颜色的黑色分量。 |
-| patternName | String | 模式名称。 |
+| k | Double | 颜色的黑色成分。 |
+| patternName | String | 图案名称。 |
 
 ### 也可以看看
 

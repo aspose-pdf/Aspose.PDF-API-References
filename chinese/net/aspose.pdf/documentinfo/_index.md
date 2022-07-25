@@ -1,14 +1,14 @@
 ---
 title: DocumentInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 表示PDF文档的元信息
+description: 代表PDF文档的元信息
 type: docs
 weight: 1920
 url: /zh/net/aspose.pdf/documentinfo/
 ---
 ## DocumentInfo class
 
-表示PDF文档的元信息。
+代表PDF文档的元信息。
 
 ```csharp
 public sealed class DocumentInfo : Dictionary<string, string>
@@ -29,7 +29,7 @@ public sealed class DocumentInfo : Dictionary<string, string>
 | [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone) { get; set; } | 创建日期的时区。 |
 | [Creator](../../aspose.pdf/documentinfo/creator) { get; set; } | 获取或设置文档创建者。 |
 | [Item](../../aspose.pdf/documentinfo/item) { get; set; } | 获取或设置与指定键关联的值。 |
-| [Keywords](../../aspose.pdf/documentinfo/keywords) { get; set; } | 获取或设置文档的关键字。 |
+| [Keywords](../../aspose.pdf/documentinfo/keywords) { get; set; } | 获取或设置文档的关键字 |
 | [ModDate](../../aspose.pdf/documentinfo/moddate) { get; set; } | 获取或设置文档修改日期。 |
 | [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone) { get; set; } | 修改日期的时区。 |
 | [Producer](../../aspose.pdf/documentinfo/producer) { get; set; } | 获取或设置文档生产者。 |

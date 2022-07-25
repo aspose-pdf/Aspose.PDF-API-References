@@ -22,16 +22,16 @@ public enum StampIcon
 | Approved | `1` | 批准的邮票图标。 |
 | Experimental | `2` | 实验邮票图标。 |
 | NotApproved | `3` | 邮票图标未获批准。 |
-| AsIs | `4` | 戳图标“原样”。 |
-| Expired | `5` | 邮票图标已过期。 |
+| AsIs | `4` | “按原样”标记图标。 |
+| Expired | `5` | 图章图标已过期。 |
 | NotForPublicRelease | `6` | 不公开发布。 |
 | Confidential | `7` | 机密。 |
 | Final | `8` | 最终印章。 |
 | Sold | `9` | 已售出的邮票。 |
-| Departmental | `10` | 部门。 |
+| Departmental | `10` | 部门. |
 | ForComment | `11` | 供评论。 |
-| ForPublicRelease | `12` | 公开发布。 |
-| TopSecret | `13` | 绝密。 |
+| ForPublicRelease | `12` | 用于公开发布。 |
+| TopSecret | `13` | 最高机密。 |
 
 ### 也可以看看
 

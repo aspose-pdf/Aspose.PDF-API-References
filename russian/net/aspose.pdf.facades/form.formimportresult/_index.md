@@ -19,7 +19,7 @@ public class FormImportResult
 | Имя | Описание |
 | --- | --- |
 | [FieldName](../../aspose.pdf.facades/formimportresult/fieldname) { get; } | Полное имя поля. |
-| [Status](../../aspose.pdf.facades/formimportresult/status) { get; } | Статус импорта полей. |
+| [Status](../../aspose.pdf.facades/formimportresult/status) { get; } | Статус импорта поля. |
 
 ### Смотрите также
 

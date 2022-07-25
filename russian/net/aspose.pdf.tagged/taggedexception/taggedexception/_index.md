@@ -1,14 +1,14 @@
 ---
 title: TaggedException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTaggedExceptionaspose.pdf.tagged/taggedexception.
+description: Инициализирует новый экземплярTaggedExceptionaspose.pdf.tagged/taggedexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.tagged/taggedexception/taggedexception/
 ---
 ## TaggedException constructor
 
-Инициализирует новый экземпляр класса[`TaggedException`](../../taggedexception).
+Инициализирует новый экземпляр[`TaggedException`](../../taggedexception) класс.
 
 ```csharp
 public TaggedException()

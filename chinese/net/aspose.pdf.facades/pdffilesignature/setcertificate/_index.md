@@ -17,7 +17,7 @@ public void SetCertificate(string pfx, string pass)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pfx | String | PKCS #12 证书文件。 |
-| pass | String | 获取证书私钥访问权限的密码。 |
+| pass | String | 访问证书私钥的密码。 |
 
 ### 也可以看看
 

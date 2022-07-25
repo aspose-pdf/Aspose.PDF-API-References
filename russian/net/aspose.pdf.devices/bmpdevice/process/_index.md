@@ -1,14 +1,14 @@
 ---
 title: Process
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразует страницу в формат bmp и сохраняет ее в потоке вывода.
+description: Преобразует страницу в bmp и сохраняет ее в выходном потоке.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/bmpdevice/process/
 ---
 ## BmpDevice.Process method
 
-Преобразует страницу в формат bmp и сохраняет ее в потоке вывода.
+Преобразует страницу в bmp и сохраняет ее в выходном потоке.
 
 ```csharp
 public override void Process(Page page, Stream output)
@@ -16,8 +16,8 @@ public override void Process(Page page, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Конвертируемая страница. |
-| output | Stream | Выходной поток с bmp изображением. |
+| page | Page | Страница для преобразования. |
+| output | Stream | Выходной поток с изображением bmp. |
 
 ### Смотрите также
 

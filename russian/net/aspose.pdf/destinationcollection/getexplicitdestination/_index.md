@@ -16,8 +16,8 @@ public ExplicitDestination GetExplicitDestination(string destinameName, bool use
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destinanameName | String | Имя пункта назначения. |
-| useCache | Boolean | Определяет, используется ли кешированная версия коллекции или нет. |
+| destinameName | String | Название пункта назначения. |
+| useCache | Boolean | Определяет, используется ли кэшированная версия коллекции. |
 
 ### Возвращаемое значение
 

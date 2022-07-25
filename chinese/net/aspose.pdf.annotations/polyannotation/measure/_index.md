@@ -1,14 +1,14 @@
 ---
 title: Measure
 second_title: Aspose.PDF for .NET API 参考
-description: 为该注释指定的测量单位
+description: 为此注释指定的测量单位
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/polyannotation/measure/
 ---
 ## PolyAnnotation.Measure property
 
-为该注释指定的测量单位。
+为此注释指定的测量单位。
 
 ```csharp
 public Measure Measure { get; set; }

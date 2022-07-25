@@ -17,7 +17,7 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | annotFile | String[] | 包含源注释的 PDF 文档的路径数组。 |
-| annotType | AnnotationType[] | 要导入的注解类型数组。 |
+| annotType | AnnotationType[] | 要导入的注释类型数组。 |
 
 ### 例子
 
@@ -80,7 +80,7 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | annotFileStream | Stream[] | 包含源注释的 PDF 文档流数组。 |
-| annotType | AnnotationType[] | 要导入的注解类型。 |
+| annotType | AnnotationType[] | 要导入的注释类型。 |
 
 ### 例子
 

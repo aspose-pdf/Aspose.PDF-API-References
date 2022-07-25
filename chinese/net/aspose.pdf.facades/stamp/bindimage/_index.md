@@ -1,14 +1,14 @@
 ---
 title: BindImage
 second_title: Aspose.PDF for .NET API 参考
-description: 将图像设置为图章
+description: 将图像设置为印章
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/stamp/bindimage/
 ---
 ## BindImage(string) {#bindimage_1}
 
-将图像设置为图章。
+将图像设置为印章。
 
 ```csharp
 public void BindImage(string imageFile)

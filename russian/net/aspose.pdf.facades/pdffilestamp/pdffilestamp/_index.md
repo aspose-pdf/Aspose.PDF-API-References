@@ -1,14 +1,20 @@
 ---
 title: PdfFileStamp
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор PdfFileStamp. Входной файл и выходной файл могут быть указаны через соответствующие свойства.  ltcodegt PdfFileStamp fileStamp  new PdfFileStamp fileStamp.InputFile  input.pdf fileStamp.OutputFile  output.pdf lt/codegt
+description: Конструктор PdfFileStamp. Входной и выходной файлы могут быть указаны через соответствующие свойства.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
 ---
 ## PdfFileStamp() {#constructor}
 
-Конструктор PdfFileStamp. Входной файл и выходной файл могут быть указаны через соответствующие свойства.  &lt;code&gt; PdfFileStamp fileStamp = new PdfFileStamp(); fileStamp.InputFile = "input.pdf"; fileStamp.OutputFile = "output.pdf"; &lt;/code&gt;
+Конструктор PdfFileStamp. Входной и выходной файлы могут быть указаны через соответствующие свойства.
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp();
+fileStamp.InputFile = "input.pdf";
+fileStamp.OutputFile = "output.pdf";
+```
 
 ```csharp
 public PdfFileStamp()
@@ -24,7 +30,7 @@ public PdfFileStamp()
 
 ## PdfFileStamp(Document) {#constructor_1}
 
-Инициализирует новый[`PdfFileStamp`](../../pdffilestamp)объект на основе*document*.
+Инициализирует новый[`PdfFileStamp`](../../pdffilestamp) объект на базе*document* .
 
 ```csharp
 public PdfFileStamp(Document document)
@@ -32,7 +38,7 @@ public PdfFileStamp(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

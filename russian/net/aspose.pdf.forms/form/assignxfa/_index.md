@@ -1,14 +1,14 @@
 ---
 title: AssignXfa
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает XFA формы в указанное значение.
+description: Устанавливает XFA формы на указанное значение.
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.forms/form/assignxfa/
 ---
 ## Form.AssignXfa method
 
-Устанавливает XFA формы в указанное значение.
+Устанавливает XFA формы на указанное значение.
 
 ```csharp
 public void AssignXfa(XmlDocument xml)

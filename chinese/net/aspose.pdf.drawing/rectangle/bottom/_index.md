@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示矩形底部位置的浮点值
+description: 获取或设置一个浮点值指示矩形的底部位置
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.drawing/rectangle/bottom/
 ---
 ## Rectangle.Bottom property
 
-获取或设置指示矩形底部位置的浮点值。
+获取或设置一个浮点值，指示矩形的底部位置。
 
 ```csharp
 public double Bottom { get; set; }

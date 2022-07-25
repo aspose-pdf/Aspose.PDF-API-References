@@ -1,14 +1,14 @@
 ---
 title: RemoveSignatures
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真所有签名将从字段中删除字段将保留否则您可能会得到无效的签名
+description: 如果为真所有签名将从字段中删除字段将保留否则你会得到无效的签名
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/pdffileeditor/removesignatures/
 ---
 ## PdfFileEditor.RemoveSignatures property
 
-如果为真，所有签名将从字段中删除（字段将保留）；否则，您可能会得到无效的签名。
+如果为真，所有签名将从字段中删除（字段将保留）；否则，你会得到无效的签名。
 
 ```csharp
 public bool RemoveSignatures { get; set; }

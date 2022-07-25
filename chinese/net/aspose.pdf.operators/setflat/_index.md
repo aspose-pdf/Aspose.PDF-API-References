@@ -1,14 +1,14 @@
 ---
 title: SetFlat
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 i 运算符的类设置平整度公差
+description: 代表 i 运算符的类设置平坦度公差
 type: docs
 weight: 5460
 url: /zh/net/aspose.pdf.operators/setflat/
 ---
 ## SetFlat class
 
-表示 i 运算符的类（设置平整度公差）。
+代表 i 运算符的类（设置平坦度公差）。
 
 ```csharp
 public class SetFlat : Operator
@@ -18,7 +18,7 @@ public class SetFlat : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetFlat](setflat)(double) | 初始化运算符。 |
+| [SetFlat](setflat)(double) | 初始化操作符。 |
 
 ## 特性
 

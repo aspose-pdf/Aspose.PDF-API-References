@@ -1,14 +1,14 @@
 ---
 title: StartCharIndex
 second_title: Aspose.PDF for .NET API 参考
-description: 获取显示文本操作符Tj TJ段中当前段的起始字符索引
+description: 获取显示文本运算符TjTJ段中当前段的起始字符索引
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.text/textsegment/startcharindex/
 ---
 ## TextSegment.StartCharIndex property
 
-获取显示文本操作符（Tj, TJ）段中当前段的起始字符索引。
+获取显示文本运算符（Tj，TJ）段中当前段的起始字符索引。
 
 ```csharp
 public int StartCharIndex { get; }

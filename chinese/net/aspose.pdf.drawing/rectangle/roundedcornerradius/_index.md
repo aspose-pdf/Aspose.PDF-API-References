@@ -1,14 +1,14 @@
 ---
 title: RoundedCornerRadius
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值指示矩形角的半径
+description: 获取或设置一个浮点值表示矩形角的半径
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.drawing/rectangle/roundedcornerradius/
 ---
 ## Rectangle.RoundedCornerRadius property
 
-获取或设置一个浮点值，指示矩形角的半径。
+获取或设置一个浮点值，表示矩形角的半径。
 
 ```csharp
 public double RoundedCornerRadius { get; set; }

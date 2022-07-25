@@ -16,7 +16,7 @@ public void ChangeParentElement(StructureElement newParentElement)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newParentElement | StructureElement | 新父结构元素 |
+| newParentElement | StructureElement | 新的父结构元素 |
 
 ### 也可以看看
 

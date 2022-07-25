@@ -1,14 +1,14 @@
 ---
 title: UserPassword
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文档用户密码
+description: 获取或设置文档 UserPassword.
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdfconverter/userpassword/
 ---
 ## PdfConverter.UserPassword property
 
-获取或设置文档用户密码。
+获取或设置文档 UserPassword.
 
 ```csharp
 public string UserPassword { get; set; }

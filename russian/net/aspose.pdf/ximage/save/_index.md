@@ -16,7 +16,7 @@ public void Save(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в котором будут сохранены данные изображения. |
+| stream | Stream | Поток, где данные изображения будут сохранены. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public void Save(Stream stream)
 
 ## Save(Stream, ImageFormat) {#save_2}
 
-Сохраняет изображение в поток с заданным форматом.
+Сохраняет изображение в поток в требуемом формате.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
@@ -36,8 +36,8 @@ public void Save(Stream stream, ImageFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в котором будет сохранено изображение |
-| format | ImageFormat | Формат который будет использоваться для кодирования изображения.ImageFormat |
+| stream | Stream | Поток, где изображение будет сохранено |
+| format | ImageFormat | Формат, который будет использоваться для кодирования изображения.ImageFormat |
 
 ### Смотрите также
 
@@ -57,8 +57,8 @@ public void Save(Stream stream, int resolution)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в котором будут сохранены данные изображения. |
-| разрешение | Int32 | Разрешение изображения |
+| stream | Stream | Поток, где данные изображения будут сохранены. |
+| resolution | Int32 | Разрешение изображения |
 
 ### Смотрите также
 
@@ -78,9 +78,9 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в котором будет сохранено изображение |
-| format | ImageFormat | Формат который будет использоваться для кодирования изображения.ImageFormat |
-| разрешение | Int32 | Разрешение изображения |
+| stream | Stream | Поток, где изображение будет сохранено |
+| format | ImageFormat | Формат, который будет использоваться для кодирования изображения.ImageFormat |
+| resolution | Int32 | Разрешение изображения |
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public StructureTypeStandard StructureType { get; }
 
 ### Стоимость имущества
 
-StructureTypeStandardобъект элемента структуры.
+StructureTypeStandard объект элемента структуры.
 
 ### Смотрите также
 

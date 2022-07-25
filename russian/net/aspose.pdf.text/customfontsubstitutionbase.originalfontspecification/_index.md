@@ -18,13 +18,13 @@ public sealed class OriginalFontSpecification
 
 | Имя | Описание |
 | --- | --- |
-| [IsEmbedded](../../aspose.pdf.text/originalfontspecification/isembedded) { get; } | Получает значение, указывающее, внедрен ли шрифт. |
+| [IsEmbedded](../../aspose.pdf.text/originalfontspecification/isembedded) { get; } | Получает значение, указывающее, встроен ли шрифт. |
 | [IsSubstitutionUnavoidable](../../aspose.pdf.text/originalfontspecification/issubstitutionunavoidable) { get; } | Получает значение, указывающее, что замена неизбежна. |
 | [OriginalFontName](../../aspose.pdf.text/originalfontspecification/originalfontname) { get; } | Получает оригинальное имя шрифта. |
 
 ### Примечания
 
-Предоставляет информацию, связанную с исходным шрифтом, например,флаг. Также предоставляет флаг, который помогает проверить, произойдет ли подстановка со шрифтом и пользователь может переопределить логику замены по умолчанию.
+Предоставляет информацию, относящуюся к исходному шрифту, такую как , flag. Также предоставляет флаг, который помогает проверить, произойдёт ли замена в любом случае со шрифтом , и пользователь может переопределить логику замены по умолчанию.
 
 ### Смотрите также
 

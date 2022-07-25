@@ -1,14 +1,14 @@
 ---
 title: NonFullScreenPageModeUseOC
 second_title: Aspose.PDF для справочника API .NET
-description: Видна дополнительная панель группы содержимого.
+description: Видна панель дополнительной группы контента.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/
 ---
 ## ViewerPreference.NonFullScreenPageModeUseOC field
 
-Видна дополнительная панель группы содержимого.
+Видна панель дополнительной группы контента.
 
 ```csharp
 public const int NonFullScreenPageModeUseOC;

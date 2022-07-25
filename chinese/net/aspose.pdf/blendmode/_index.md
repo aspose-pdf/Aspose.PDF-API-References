@@ -23,10 +23,10 @@ public enum BlendMode
 | Screen | `2` | 屏幕混合模式。 |
 | Overlay | `3` | 叠加混合模式。 |
 | Darken | `4` | 加深混合模式。 |
-| Lighten | `5` | 淡化混合模式。 |
+| Lighten | `5` | 调亮混合模式。 |
 | ColorDodge | `6` | ColorDodge 混合模式。 |
 | ColorBurn | `7` | ColorBurn 混合模式。 |
-| HardLight | `8` | 硬光混合模式。 |
+| HardLight | `8` | 强光混合模式。 |
 | SoftLight | `9` | 柔光混合模式。 |
 | Difference | `10` | 差异混合模式。 |
 | Exclusion | `11` | 排除混合模式。 |
@@ -34,7 +34,7 @@ public enum BlendMode
 | Saturation | `13` | 饱和度混合模式。 |
 | Color | `14` | 颜色混合模式。 |
 | Luminosity | `15` | 亮度混合模式。 |
-| Compatible | `16` | 兼容混合模式。 |
+| Compatible | `16` | 兼容的混合模式。 |
 
 ### 也可以看看
 

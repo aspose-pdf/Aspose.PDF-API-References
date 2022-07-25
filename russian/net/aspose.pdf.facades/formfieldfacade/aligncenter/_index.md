@@ -1,14 +1,14 @@
 ---
 title: AlignCenter
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет выравнивание по центру.
+description: Определяет выравнивание по центру стиля.
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/formfieldfacade/aligncenter/
 ---
 ## FormFieldFacade.AlignCenter field
 
-Определяет выравнивание по центру.
+Определяет выравнивание по центру стиля.
 
 ```csharp
 public const int AlignCenter;

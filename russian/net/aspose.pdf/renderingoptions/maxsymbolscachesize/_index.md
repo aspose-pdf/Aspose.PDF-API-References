@@ -1,14 +1,14 @@
 ---
 title: MaxSymbolsCacheSize
 second_title: Aspose.PDF для справочника API .NET
-description: Максимальное количество символов в кэше символов. Значение по умолчанию100.
+description: Максимальное количество символов в кэше символов. Значение по умолчанию 100. .
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/renderingoptions/maxsymbolscachesize/
 ---
 ## RenderingOptions.MaxSymbolsCacheSize property
 
-Максимальное количество символов в кэше символов. Значение по умолчанию:100.
+Максимальное количество символов в кэше символов. Значение по умолчанию: 100. .
 
 ```csharp
 public int MaxSymbolsCacheSize { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TextDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярTextDeviceaspose.pdf.devices/textdeviceс параметрами извлечения текста.
+description: Инициализирует новый экземплярTextDeviceaspose.pdf.devices/textdevice с опциями извлечения текста.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/textdevice/textdevice/
 ---
 ## TextDevice(TextExtractionOptions) {#constructor_1}
 
-Инициализирует новый экземпляр[`TextDevice`](../../textdevice)с параметрами извлечения текста.
+Инициализирует новый экземпляр[`TextDevice`](../../textdevice) с опциями извлечения текста.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions)
@@ -29,7 +29,7 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ## TextDevice() {#constructor}
 
-Инициализирует новый экземпляр[`TextDevice`](../../textdevice)с режимом форматирования текста Raw и кодировкой текста Unicode.
+Инициализирует новый экземпляр[`TextDevice`](../../textdevice) с режимом форматирования текста Raw и кодировкой текста Unicode.
 
 ```csharp
 public TextDevice()
@@ -45,7 +45,7 @@ public TextDevice()
 
 ## TextDevice(Encoding) {#constructor_3}
 
-Инициализирует новый экземпляр[`TextDevice`](../../textdevice)для указанной кодировки.
+Инициализирует новый экземпляр[`TextDevice`](../../textdevice) для указанной кодировки.
 
 ```csharp
 public TextDevice(Encoding encoding)
@@ -65,7 +65,7 @@ public TextDevice(Encoding encoding)
 
 ## TextDevice(TextExtractionOptions, Encoding) {#constructor_2}
 
-Инициализирует новый экземпляр[`TextDevice`](../../textdevice)для указанной кодировки с параметрами извлечения текста.
+Инициализирует новый экземпляр[`TextDevice`](../../textdevice) для указанной кодировки с параметрами извлечения текста.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)

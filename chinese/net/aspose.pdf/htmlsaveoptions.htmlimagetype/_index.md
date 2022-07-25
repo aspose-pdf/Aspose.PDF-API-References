@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.HtmlImageType
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举可能的图像文件类型 在 Pdf 到 Html 转换过程中可以保存为外部资源
+description: 枚举可能的图像文件类型 可以保存为外部资源 在 Pdf 到 Html 转换期间
 type: docs
 weight: 3520
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
 ## HtmlSaveOptions.HtmlImageType enumeration
 
-枚举可能的图像文件类型 在 Pdf 到 Html 转换过程中可以保存为外部资源
+枚举可能的图像文件类型 可以保存为外部资源 在 Pdf 到 Html 转换期间
 
 ```csharp
 public enum HtmlImageType
@@ -19,13 +19,13 @@ public enum HtmlImageType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Jpeg | `0` | Jpeg 格式 |
-| Png | `1` | Png 格式 |
+| Png | `1` | PNG 格式 |
 | Bmp | `2` | Bmp 格式 |
 | Gif | `3` | Gif 格式 |
 | Tiff | `4` | Tiff 格式 |
 | Svg | `5` | Svg 格式 |
 | ZippedSvg | `6` | 压缩 Svg 格式 |
-| Unknown | `7` | 未知 - 意味着转换器无法检测到内容本身的类型 |
+| Unknown | `7` | 未知 - 表示转换器无法检测到内容本身的类型 |
 
 ### 也可以看看
 

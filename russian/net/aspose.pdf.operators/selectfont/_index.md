@@ -1,14 +1,14 @@
 ---
 title: SelectFont
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор Tf устанавливает шрифт и размер текста.
+description: Класс представляющий оператор Tf установить шрифт и размер текста.
 type: docs
 weight: 5310
 url: /ru/net/aspose.pdf.operators/selectfont/
 ---
 ## SelectFont class
 
-Класс, представляющий оператор Tf (устанавливает шрифт и размер текста).
+Класс, представляющий оператор Tf (установить шрифт и размер текста).
 
 ```csharp
 public class SelectFont : TextStateOperator
@@ -32,7 +32,7 @@ public class SelectFont : TextStateOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/selectfont/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/selectfont/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/selectfont/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

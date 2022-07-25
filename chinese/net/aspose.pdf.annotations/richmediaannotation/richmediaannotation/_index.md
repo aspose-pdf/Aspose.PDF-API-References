@@ -1,14 +1,14 @@
 ---
 title: RichMediaAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化 RichMediaAnnotation
+description: 初始化 RichMediaAnnotation.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/richmediaannotation/richmediaannotation/
 ---
 ## RichMediaAnnotation constructor
 
-初始化 RichMediaAnnotation。
+初始化 RichMediaAnnotation.
 
 ```csharp
 public RichMediaAnnotation(Page page, Rectangle rect)

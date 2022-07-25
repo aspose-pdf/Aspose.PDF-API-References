@@ -1,14 +1,14 @@
 ---
 title: ConvertToDataTable
 second_title: Aspose.PDF for .NET API 参考
-description: 将 strems 文件转换成表格
+description: 将 strems 文件转换为 table.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 ---
 ## FormDataConverter.ConvertToDataTable method
 
-将 strems 文件转换成表格。
+将 strems 文件转换为 table.
 
 ```csharp
 public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
@@ -17,7 +17,7 @@ public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | sourceStreams | Stream[] | 指定格式的源流数组。 |
-| sourceType | DataType | 流中数据的格式。有效值为:PDF、FDF、XFDF、XML。 |
+| sourceType | DataType | 流中的数据格式。有效值为：PDF、FDF、XFDF、XML。 |
 
 ### 例子
 

@@ -18,10 +18,10 @@ public interface IFacade : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf)(Document) | Связывает PDF-документ для редактирования. |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_1)(Stream) | Связывает PDF-документ для редактирования. |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_2)(string) | Связывает PDF-документ для редактирования. |
-| [Close](../../aspose.pdf.facades/ifacade/close)() | Освобождает любые ресурсы, связанные с текущим фасадом. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf)(Document) | Связывает документ PDF для редактирования. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_1)(Stream) | Связывает документ PDF для редактирования. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_2)(string) | Связывает документ PDF для редактирования. |
+| [Close](../../aspose.pdf.facades/ifacade/close)() | Освобождает все ресурсы, связанные с текущим фасадом. |
 
 ### Смотрите также
 

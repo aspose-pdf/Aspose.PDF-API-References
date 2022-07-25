@@ -1,14 +1,14 @@
 ---
 title: List
 second_title: Aspose.PDF для справочника API .NET
-description: Список владельцев атрибутов.
+description: Владелец атрибута списка.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
 ## AttributeOwnerStandard.List field
 
-Список владельцев атрибутов.
+Владелец атрибута списка.
 
 ```csharp
 public static readonly AttributeOwnerStandard List;

@@ -18,11 +18,11 @@ public class RootElement : Element
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [ActualText](../../aspose.pdf.structure/element/actualtext) { get; set; } | （可选；PDF 1.4）完全替代结构元素及其子元素的文本。 此替换文本（应适用于尽可能小的内容） 在提取文档内容以支持用户可访问性时很有用 残疾或其他目的。 |
-| virtual [Alt](../../aspose.pdf.structure/element/alt) { get; set; } | （可选）结构元素及其子元素的替代描述为 人类可读格式，这在提取文档内容以支持时很有用 残障用户或出于其他目的的可访问性。 |
+| virtual [ActualText](../../aspose.pdf.structure/element/actualtext) { get; set; } | （可选；PDF 1.4）文本是结构元素及其子元素的精确替换。 此替换文本（应适用于尽可能小的内容） 在提取文档内容以支持残障人士或其他目的的用户 的可访问性。 |
+| virtual [Alt](../../aspose.pdf.structure/element/alt) { get; set; } | （可选）结构元素及其子元素的替代描述以 人类可读的形式，在提取文档的内容时非常有用 |
 | [Children](../../aspose.pdf.structure/element/children) { get; } | 获取子元素集合。 |
 | virtual [E](../../aspose.pdf.structure/element/e) { get; set; } | （可选；PDF 1.5）缩写的扩展形式。 |
-| virtual [Lang](../../aspose.pdf.structure/element/lang) { get; set; } | （可选；PDF 1.4）在结构元素中为所有文本 指定自然语言的语言，嵌套结构的语言规范覆盖的情况除外 元素或标记的内容。 |
+| virtual [Lang](../../aspose.pdf.structure/element/lang) { get; set; } | （可选；PDF 1.4）一种语言，为结构元素中的所有 text 指定自然语言，但嵌套结构 元素或标记内容的语言规范覆盖的除外。 |
 
 ### 也可以看看
 

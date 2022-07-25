@@ -19,7 +19,7 @@ public sealed class Resources
 | 姓名 | 描述 |
 | --- | --- |
 | [Fonts](../../aspose.pdf/resources/fonts) { get; } | 获取[`Fonts`](./fonts)资源集合 |
-| [Forms](../../aspose.pdf/resources/forms) { get; } | 获取[`Forms`](./forms)表单集合 |
+| [Forms](../../aspose.pdf/resources/forms) { get; } | 获取[`Forms`](./forms)表格collection |
 | [Images](../../aspose.pdf/resources/images) { get; } | 获取[`Images`](./images)图像集合 |
 
 ## 方法

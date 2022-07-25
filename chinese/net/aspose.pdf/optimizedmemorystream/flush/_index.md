@@ -1,14 +1,14 @@
 ---
 title: Flush
 second_title: Aspose.PDF for .NET API 参考
-description: 函数被覆盖
+description: 被覆盖的函数
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/optimizedmemorystream/flush/
 ---
 ## OptimizedMemoryStream.Flush method
 
-函数被覆盖。
+被覆盖的函数。
 
 ```csharp
 public override void Flush()

@@ -1,14 +1,14 @@
 ---
 title: Start
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает начальную точку центра окружности.
+description: Получает или задает центральную точку начальной окружности.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.drawing/gradientradialshading/start/
 ---
 ## GradientRadialShading.Start property
 
-Получает или задает начальную точку центра окружности.
+Получает или задает центральную точку начальной окружности.
 
 ```csharp
 public Point Start { get; set; }

@@ -19,11 +19,11 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 | --- | --- | --- |
 | title | String | Название закладки. |
 | color | Color | Цвет заголовка закладки. |
-| boldFlag | Boolean | Флаг выделения жирным шрифтом. |
+| boldFlag | Boolean | Флаг смелой атрибуции. |
 | italicFlag | Boolean | Флаг курсивной атрибуции. |
-| file | String | Другой файл или приложение требуется, когда тип действия "GoToR" или "Launch". |
-| actionType | String | Тип действия. Значение может быть:"GoToR", "Launch", "GoTo", "URI". |
-| destination | String | Локальный или удаленный пункт назначения или URL-адрес. |
+| file | String | Требуется другой файл или приложение, если тип действия — «GoToR» или «Запуск». |
+| actionType | String | Тип действия. Значение может быть: "GoToR", "Launch", "GoTo", "URI". |
+| destination | String | Локальный пункт назначения или удаленный пункт назначения или URL-адрес. |
 
 ### Примеры
 

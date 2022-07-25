@@ -16,39 +16,39 @@ public class FloatingBox : BaseParagraph
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FloatingBox](floatingbox#constructor)() | 初始化[`FloatingBox`](../floatingbox)类的新实例。 |
-| [FloatingBox](floatingbox#constructor_1)(float, float) | 用指定的宽度和高度初始化[`FloatingBox`](../floatingbox)类的新实例。 |
+| [FloatingBox](floatingbox#constructor)() | 初始化[`FloatingBox`](../floatingbox)类. |
+| [FloatingBox](floatingbox#constructor_1)(float, float) | 初始化[`FloatingBox`](../floatingbox)具有指定宽度和高度的类。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf/floatingbox/backgroundcolor) { get; set; } | 获取或设置指示浮动框背景颜色的[`Color`](../color)对象。 |
+| [BackgroundColor](../../aspose.pdf/floatingbox/backgroundcolor) { get; set; } | 获取或设置一个[`Color`](../color)指示浮动框的背景颜色的对象。 |
 | [BackgroundImage](../../aspose.pdf/floatingbox/backgroundimage) { get; set; } | 获取或设置页面的背景图像（仅用于生成器）。 |
-| [Border](../../aspose.pdf/floatingbox/border) { get; set; } | 获取或设置表示浮动框边框信息的[`BorderInfo`](../borderinfo)对象。 |
-| [ColumnInfo](../../aspose.pdf/floatingbox/columninfo) { get; set; } | 获取或设置列信息 |
+| [Border](../../aspose.pdf/floatingbox/border) { get; set; } | 获取或设置一个[`BorderInfo`](../borderinfo)表示浮动框边框信息的对象。 |
+| [ColumnInfo](../../aspose.pdf/floatingbox/columninfo) { get; set; } | 获取或设置列 info |
 | [Height](../../aspose.pdf/floatingbox/height) { get; set; } | 获取或设置一个浮点值，表示浮动框的高度。 |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | 获取或设置段落的水平对齐方式 |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | 获取或设置片段超链接（用于 pdf 生成器）。 |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示该段落是否位于下一列。 默认为 false。（用于 pdf 生成） |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | 获取或设置段落 的水平对齐方式 |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | 获取或设置片段超链接（用于pdf生成器）。 |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示此段落是否将在下一列。 默认为 false。（用于 pdf 生成） |
 | [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | 获取或设置段落是内联的。 默认为 false。（用于 pdf 生成） |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置强制此段落在新页面生成的布尔值。 默认为 false。（用于 pdf 生成） |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一段保持在同一页面中。 默认为 false。（用于 pdf 生成） |
-| [IsNeedRepeating](../../aspose.pdf/floatingbox/isneedrepeating) { get; set; } | 获取或设置一个布尔值，指示该段落是否需要在下一页重复。 默认值为false。仅当段落本身及其引用的ReferenceParagraphID 对象都包含在RepeatingRows 中时，该属性才有效。 |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置一个 bool 值，强制此段落在新页面生成。 默认为 false。（用于 pdf 生成） |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一个段落保持在同一页面中。 默认为 false。（用于 pdf 生成） |
+| [IsNeedRepeating](../../aspose.pdf/floatingbox/isneedrepeating) { get; set; } | 获取或设置一个布尔值，指示该段落是否需要在下一页重复。 默认值为false。该属性仅在段落本身及其ReferenceParagraphID引用的对象都包含在RepeatingRows中时有效。 |
 | [Left](../../aspose.pdf/floatingbox/left) { get; set; } | 获取或设置表格左坐标。 |
 | [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | 获取或设置段落的外边距（用于生成 pdf） |
-| [Padding](../../aspose.pdf/floatingbox/padding) { get; set; } | 获取或设置一个[`MarginInfo`](../margininfo)对象，指示浮动框的填充。 |
-| [Paragraphs](../../aspose.pdf/floatingbox/paragraphs) { get; set; } | 获取或设置一个[`Paragraphs`](./paragraphs)集合，该集合指示单元格中的所有段落。 |
-| [Top](../../aspose.pdf/floatingbox/top) { get; set; } | 获取或设置桌面坐标。 |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | 获取或设置段落的垂直对齐方式 |
+| [Padding](../../aspose.pdf/floatingbox/padding) { get; set; } | 获取或设置一个[`MarginInfo`](../margininfo)指示浮动框填充的对象。 |
+| [Paragraphs](../../aspose.pdf/floatingbox/paragraphs) { get; set; } | 获取或设置一个[`Paragraphs`](./paragraphs)表示单元格中所有段落的集合。 |
+| [Top](../../aspose.pdf/floatingbox/top) { get; set; } | 获取或设置桌面坐标 |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | 获取或设置段落 的垂直对齐方式 |
 | [Width](../../aspose.pdf/floatingbox/width) { get; set; } | 获取或设置一个浮点值，表示浮动框的宽度。 |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个表示图形 Z 顺序的 int 值。具有较大 ZIndex 的图形将放置在具有较小 ZIndex 的图形上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中文本的后面。 |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个 int 值，指示图形的 Z 顺序。 ZIndex 较大的图将放置在 ZIndex 较小的图上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中的文本后面。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Clone](../../aspose.pdf/floatingbox/clone)() | 克隆一个新的[`FloatingBox`](../floatingbox)对象。浮动框中的段落不会被克隆。 |
+| override [Clone](../../aspose.pdf/floatingbox/clone)() | 克隆一个新的[`FloatingBox`](../floatingbox)目的。浮动框中的段落没有被克隆。 |
 
 ### 也可以看看
 

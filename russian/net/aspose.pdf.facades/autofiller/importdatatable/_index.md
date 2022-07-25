@@ -1,14 +1,14 @@
 ---
 title: ImportDataTable
 second_title: Aspose.PDF для справочника API .NET
-description: Импортирует данные типа DataTable. Имя каждого столбца dataTable должно совпадать с одним именем поля шаблона pdf с учетом регистра.
+description: Импортирует данные типа DataTable. Имя каждого столбца таблицы данных должно быть таким же как имя одного поля шаблона pdf с учетом регистра.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/autofiller/importdatatable/
 ---
 ## AutoFiller.ImportDataTable method
 
-Импортирует данные типа DataTable. Имя каждого столбца dataTable должно совпадать с одним именем поля шаблона pdf с учетом регистра.
+Импортирует данные типа DataTable. Имя каждого столбца таблицы данных должно быть таким же, как имя одного поля шаблона pdf с учетом регистра.
 
 ```csharp
 public void ImportDataTable(DataTable dataTable)
@@ -16,7 +16,7 @@ public void ImportDataTable(DataTable dataTable)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dataTable | DataTable | Таблица данных, которая содержит все данные из базы данных или другого источника данных. |
+| dataTable | DataTable | DataTable, который содержит все данные из базы данных или другого источника данных. |
 
 ### Смотрите также
 

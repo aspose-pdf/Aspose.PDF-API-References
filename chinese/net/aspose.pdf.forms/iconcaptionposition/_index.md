@@ -23,7 +23,7 @@ public enum IconCaptionPosition
 | CaptionBelowIcon | `2` | 标题在图标下方。 |
 | CaptionAboveIcon | `3` | 标题在图标上方。 |
 | CaptionToTheRight | `4` | 右侧的标题。 |
-| CaptionToTheLeft | `5` | 左侧的标题。 |
+| CaptionToTheLeft | `5` | 左边的标题。 |
 | CaptionOverlaid | `6` | 字幕覆盖。 |
 
 ### 也可以看看

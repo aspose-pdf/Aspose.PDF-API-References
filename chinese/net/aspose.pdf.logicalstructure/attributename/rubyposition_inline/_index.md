@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_Inline
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 RubyPositionInline - RT 和相关的 RP 元素应格式化为括号注释紧跟 RB 元素
+description: 属性 RubyPosition内联 - RT 和关联的 RP 元素应格式化为括号注释紧随 RB 元素
 type: docs
 weight: 500
 url: /zh/net/aspose.pdf.logicalstructure/attributename/rubyposition_inline/
 ---
 ## AttributeName.RubyPosition_Inline field
 
-属性 RubyPosition:Inline - RT 和相关的 RP 元素应格式化为括号注释，紧跟 RB 元素。
+属性 RubyPosition：内联 - RT 和关联的 RP 元素应格式化为括号注释，紧随 RB 元素。
 
 ```csharp
 public static readonly AttributeName RubyPosition_Inline;

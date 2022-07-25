@@ -18,9 +18,9 @@ public class AbsorbedTable : ITableElement
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum) { get; } | 获取包含该表的页面编号 |
+| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum) { get; } | 获取包含此表的页数 |
 | [Rectangle](../../aspose.pdf.text/absorbedtable/rectangle) { get; } | 获取描述页面上表格位置的矩形 |
-| [RowList](../../aspose.pdf.text/absorbedtable/rowlist) { get; } | 获取包含表行的只读 IList |
+| [RowList](../../aspose.pdf.text/absorbedtable/rowlist) { get; } | 获取包含 table 行的只读 IList |
 
 ### 也可以看看
 

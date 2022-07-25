@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает выравнивание по горизонтали для текста внутри абзацаRectangleaspose.pdf.text/textparagraph/rectangle.
+description: Получает или задает горизонтальное выравнивание текста внутри абзаца.Rectangleaspose.pdf.text/textparagraph/rectangle .
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textparagraph/horizontalalignment/
 ---
 ## TextParagraph.HorizontalAlignment property
 
-Получает или задает выравнивание по горизонтали для текста внутри абзаца[`Rectangle`](../rectangle).
+Получает или задает горизонтальное выравнивание текста внутри абзаца.[`Rectangle`](../rectangle) .
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

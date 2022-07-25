@@ -16,7 +16,7 @@ public void LoadAsPRC(string filename)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя_файла | String | Имя файла. |
+| filename | String | Имя файла. |
 
 ### Смотрите также
 

@@ -38,7 +38,7 @@ public TextAnnotation(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 应创建注释的文档页面。 |
-| rect | Rectangle | 标注矩形，定义标注在页面上的位置。 |
+| rect | Rectangle | 注释矩形，定义页面上注释的位置。 |
 
 ### 也可以看看
 

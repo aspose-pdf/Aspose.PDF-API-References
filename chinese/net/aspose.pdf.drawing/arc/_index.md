@@ -1,14 +1,14 @@
 ---
 title: Arc
 second_title: Aspose.PDF for .NET API 参考
-description: 表示圆弧
+description: 代表弧线
 type: docs
 weight: 1930
 url: /zh/net/aspose.pdf.drawing/arc/
 ---
 ## Arc class
 
-表示圆弧。
+代表弧线。
 
 ```csharp
 public sealed class Arc : Shape
@@ -18,19 +18,19 @@ public sealed class Arc : Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Arc](arc)(float, float, float, float, float) | 初始化[`Arc`](../arc)类的新实例。 |
+| [Arc](arc)(float, float, float, float, float) | 初始化[`Arc`](../arc)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Alpha](../../aspose.pdf.drawing/arc/alpha) { get; set; } | 获取或设置表示圆弧起始角度度数的浮点值。 |
-| [Beta](../../aspose.pdf.drawing/arc/beta) { get; set; } | 获取或设置一个浮点值，表示圆弧的结束角度。 |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)对象，表示图形信息，例如颜色， 线宽等 |
-| [PosX](../../aspose.pdf.drawing/arc/posx) { get; set; } | 获取或设置一个浮点值，指示圆弧中心的 x 坐标。 |
-| [PosY](../../aspose.pdf.drawing/arc/posy) { get; set; } | 获取或设置一个浮点值，指示圆弧中心的 y 坐标。 |
+| [Beta](../../aspose.pdf.drawing/arc/beta) { get; set; } | 获取或设置表示圆弧结束角度度数的浮点值。 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)表示图形信息的对象，例如颜色， 线宽等 |
+| [PosX](../../aspose.pdf.drawing/arc/posx) { get; set; } | 获取或设置一个浮点值，表示圆弧中心的 x 坐标。 |
+| [PosY](../../aspose.pdf.drawing/arc/posy) { get; set; } | 获取或设置一个浮点值，表示圆弧中心的 y 坐标。 |
 | [Radius](../../aspose.pdf.drawing/arc/radius) { get; set; } | 获取或设置表示圆弧半径的浮点值。 |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置形状的文本 |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置 shape 的文本 |
 
 ### 也可以看看
 

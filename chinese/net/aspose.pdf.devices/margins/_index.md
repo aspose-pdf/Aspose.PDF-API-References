@@ -18,8 +18,8 @@ public sealed class Margins
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Margins](margins#constructor)() | 初始化[`Margins`](../margins) 类的新实例。 |
-| [Margins](margins#constructor_1)(int, int, int, int) | 初始化[`Margins`](../margins) 类的新实例。 |
+| [Margins](margins#constructor)() | 初始化[`Margins`](../margins)类. |
+| [Margins](margins#constructor_1)(int, int, int, int) | 初始化[`Margins`](../margins)类. |
 
 ## 特性
 

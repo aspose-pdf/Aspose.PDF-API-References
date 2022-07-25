@@ -1,14 +1,14 @@
 ---
 title: SetOrigin
 second_title: Aspose.PDF for .NET API 参考
-description: 设置印章在页面上的位置
+description: 设置印章放置的页面位置
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.facades/stamp/setorigin/
 ---
 ## Stamp.SetOrigin method
 
-设置印章在页面上的位置。
+设置印章放置的页面位置。
 
 ```csharp
 public void SetOrigin(float originX, float originY)
@@ -17,7 +17,7 @@ public void SetOrigin(float originX, float originY)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | originX | Single | 印章的 X 坐标。 |
-| originY | Single | 标记的 Y 坐标。 |
+| originY | Single | 印章的 Y 坐标。 |
 
 ### 也可以看看
 

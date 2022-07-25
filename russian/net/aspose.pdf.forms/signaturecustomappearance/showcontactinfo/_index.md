@@ -1,14 +1,14 @@
 ---
 title: ShowContactInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает видимость контактной информации. Значение по умолчаниюправда.
+description: Получает/устанавливает видимость контактной информации. Значение по умолчанию true.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/
 ---
 ## SignatureCustomAppearance.ShowContactInfo property
 
-Получает/устанавливает видимость контактной информации. Значение по умолчанию:правда.
+Получает/устанавливает видимость контактной информации. Значение по умолчанию: true.
 
 ```csharp
 public bool ShowContactInfo { get; set; }

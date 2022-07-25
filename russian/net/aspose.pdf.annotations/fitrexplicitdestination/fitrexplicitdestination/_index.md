@@ -33,7 +33,7 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 ## FitRExplicitDestination(int, double, double, double, double) {#constructor_2}
 
-Создает явный удаленный пункт назначения.
+Создает удаленный явный пункт назначения.
 
 ```csharp
 public FitRExplicitDestination(int pageNumber, double left, double bottom, double right, double top)

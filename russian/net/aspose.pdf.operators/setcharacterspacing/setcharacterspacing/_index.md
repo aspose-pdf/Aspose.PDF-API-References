@@ -16,7 +16,7 @@ public SetCharacterSpacing(double charSpacing)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| charSpacing | Double | Межсимвольный интервал. |
+| charSpacing | Double | Расстояние между символами. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: EpubLoadOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项 默认 pdf 页面大小 - A4 300dpi 2480 X 3508
+description: 创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项 默认 pdf 页面大小 - A4 300dpi 2480 X 3508.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/epubloadoptions/epubloadoptions/
 ---
 ## EpubLoadOptions() {#constructor}
 
-创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项。 默认 pdf 页面大小 - A4 300dpi 2480 X 3508。
+创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项。 默认 pdf 页面大小 - A4 300dpi 2480 X 3508.
 
 ```csharp
 public EpubLoadOptions()

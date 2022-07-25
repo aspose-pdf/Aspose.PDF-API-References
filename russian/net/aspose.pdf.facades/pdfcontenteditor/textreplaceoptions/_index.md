@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает параметры замены текста.
+description: Получает или задает параметры замены текста.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/textreplaceoptions/
 ---
 ## PdfContentEditor.TextReplaceOptions property
 
-Получает или устанавливает параметры замены текста.
+Получает или задает параметры замены текста.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/listnumbering_square/
 ---
 ## AttributeName.ListNumbering_Square field
 
-属性列表编号:方形 - 实心方形项目符号。
+属性列表编号：方形 - 实心方形项目符号。
 
 ```csharp
 public static readonly AttributeName ListNumbering_Square;

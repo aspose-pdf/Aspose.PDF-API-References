@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API 参考
-description: 获取表单的类型可能的值有标准静态动态
+description: 获取表单的类型可能的值为标准静态动态
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.forms/form/type/
 ---
 ## Form.Type property
 
-获取表单的类型。可能的值有:标准、静态、动态。
+获取表单的类型。可能的值为：标准、静态、动态。
 
 ```csharp
 public FormType Type { get; set; }

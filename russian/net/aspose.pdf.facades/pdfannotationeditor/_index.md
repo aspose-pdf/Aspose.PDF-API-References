@@ -18,8 +18,8 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 
 | Имя | Описание |
 | --- | --- |
-| [PdfAnnotationEditor](pdfannotationeditor#constructor)() | Инициализирует новый объект[`PdfAnnotationEditor`](../pdfannotationeditor). |
-| [PdfAnnotationEditor](pdfannotationeditor#constructor_1)(Document) | Инициализирует новый[`PdfAnnotationEditor`](../pdfannotationeditor)объект на основе*document*. |
+| [PdfAnnotationEditor](pdfannotationeditor#constructor)() | Инициализирует новый[`PdfAnnotationEditor`](../pdfannotationeditor) объект. |
+| [PdfAnnotationEditor](pdfannotationeditor#constructor_1)(Document) | Инициализирует новый[`PdfAnnotationEditor`](../pdfannotationeditor) объект на базе*document* . |
 
 ## Характеристики
 
@@ -50,13 +50,13 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 | [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_1)(Stream, AnnotationType[]) | Импортирует указанные аннотации из потока данных XFDF. |
 | [ImportAnnotationFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf#importannotationfromxfdf_3)(string, AnnotationType[]) | Импортирует указанные аннотации из файла XFDF. |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations)(Stream[]) | Импорт аннотаций в документ из массива других потоков документов PDF. |
-| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_2)(string[]) | Импортирует аннотации в документ из массива других PDF-документов. |
+| [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_2)(string[]) | Импорт аннотаций в документ из массива других документов PDF. |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_1)(Stream[], AnnotationType[]) | Импортирует указанные аннотации в документ из массива других потоков документов PDF. |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations#importannotations_3)(string[], AnnotationType[]) | Импортирует указанные аннотации в документ из массива других документов PDF. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf#importannotationsfromxfdf)(Stream) | Импорт всех аннотаций из потока данных XFDF. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf#importannotationsfromxfdf_1)(string) | Импорт всех аннотаций из файла XFDF. |
-| [ModifyAnnotations](../../aspose.pdf.facades/pdfannotationeditor/modifyannotations#modifyannotations)(int, int, Annotation) | Изменяет аннотации указанного типа в указанном диапазоне страниц. Он поддерживает изменение следующих свойств аннотации:Изменено, Название, Содержание, Цвет, Тема и Открыть. |
-| [ModifyAnnotationsAuthor](../../aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor)(int, int, string, string) | Изменяет автора аннотаций в указанном диапазоне страниц. |
+| [ModifyAnnotations](../../aspose.pdf.facades/pdfannotationeditor/modifyannotations#modifyannotations)(int, int, Annotation) | Изменяет аннотации указанного типа в указанном диапазоне страниц. Поддерживает изменение следующих свойств аннотаций: Изменено, Заголовок, Содержание, Цвет, Тема и Открыть. |
+| [ModifyAnnotationsAuthor](../../aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor)(int, int, string, string) | Изменяет автора аннотаций для указанного диапазона страниц. |
 | [RedactArea](../../aspose.pdf.facades/pdfannotationeditor/redactarea)(int, Rectangle, Color) | Редактирует область на указанной странице. Все содержимое удалено. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | Сохраняет документ PDF в указанный поток. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | Сохраняет документ PDF в указанный файл. |

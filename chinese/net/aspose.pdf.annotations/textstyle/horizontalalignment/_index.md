@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
 ## TextStyle.HorizontalAlignment property
 
-文本对齐。有效值为:左、中、右。
+文本对齐。有效值为：左、中、右。
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LogTextExtractionErrors
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本提取解码错误将记录在文本片段吸收器中的指示 true - 表示将记录文本提取解码错误它可能会降低性能 false默认- 不记录错误
+description: 获取或设置将在文本片段吸收器中记录文本提取解码错误的指示 true - 表示将记录文本提取解码错误它可能会降低性能 false默认- 没有错误记录
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/textsearchoptions/logtextextractionerrors/
 ---
 ## TextSearchOptions.LogTextExtractionErrors property
 
-获取或设置文本提取（解码）错误将记录在文本（片段）吸收器中的指示。 true - 表示将记录文本提取（解码）错误。它可能会降低性能。 false（默认）- 不记录错误。
+获取或设置将在文本（片段）吸收器中记录文本提取（解码）错误的指示。 true - 表示将记录文本提取（解码）错误。它可能会降低性能。 false（默认）- 没有错误记录。
 
 ```csharp
 public bool LogTextExtractionErrors { get; set; }

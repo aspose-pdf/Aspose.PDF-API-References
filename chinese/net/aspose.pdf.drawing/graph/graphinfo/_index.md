@@ -1,14 +1,14 @@
 ---
 title: GraphInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个GraphInfoaspose.pdf.drawing/graph/graphinfo对象表示图形信息例如颜色 线宽等
+description: 获取或设置一个GraphInfoaspose.pdf.drawing/graph/graphinfo表示图形信息的对象例如颜色 线宽等
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.drawing/graph/graphinfo/
 ---
 ## Graph.GraphInfo property
 
-获取或设置一个`GraphInfo`对象，表示图形信息，例如颜色， 线宽等
+获取或设置一个`GraphInfo`表示图形信息的对象，例如颜色， 线宽等
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }

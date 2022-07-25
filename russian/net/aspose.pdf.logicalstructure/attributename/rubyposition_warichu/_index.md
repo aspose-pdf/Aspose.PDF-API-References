@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_Warichu
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyPositionWarichu  RT и связанные с ним элементы RP должны быть отформатированы как warichu следующие за элементом RB.
+description: Атрибут RubyPosition Warichu  RT и связанные с ним элементы RP должны быть отформатированы как warichu после элемента RB.
 type: docs
 weight: 510
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyposition_warichu/
 ---
 ## AttributeName.RubyPosition_Warichu field
 
-Атрибут RubyPosition:Warichu — RT и связанные с ним элементы RP должны быть отформатированы как warichu, следующие за элементом RB.
+Атрибут RubyPosition: Warichu — RT и связанные с ним элементы RP должны быть отформатированы как warichu после элемента RB.
 
 ```csharp
 public static readonly AttributeName RubyPosition_Warichu;
