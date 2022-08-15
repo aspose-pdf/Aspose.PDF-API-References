@@ -17,11 +17,11 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | String | 文本字段的名称。 |
-| fieldLimit | Int32 | 字段限制的新值。 |
+| fieldLimit | Int32 | 字段的新限制值。 |
 
 ### 返回值
 
-如果字段限制设置成功，则为真。
+如果字段限制已成功设置，则为 true。
 
 ### 例子
 

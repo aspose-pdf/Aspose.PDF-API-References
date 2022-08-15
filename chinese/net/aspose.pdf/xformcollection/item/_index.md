@@ -16,11 +16,11 @@ public XForm this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | XFormCollection 的索引。 XForms 编号从 1 |
+| index | XFormCollection 的索引。 XForms 编号从 1 开始 |
 
 ### 返回值
 
-Retrived XForm
+检索的 XForm
 
 ### 也可以看看
 

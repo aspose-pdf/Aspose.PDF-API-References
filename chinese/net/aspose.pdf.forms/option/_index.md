@@ -19,7 +19,7 @@ public sealed class Option
 | 姓名 | 描述 |
 | --- | --- |
 | [Index](../../aspose.pdf.forms/option/index) { get; } | 获取选项的索引。 |
-| [Name](../../aspose.pdf.forms/option/name) { get; set; } | 获取或设置选项名称。 |
+| [Name](../../aspose.pdf.forms/option/name) { get; set; } | 获取或设置选项的名称。 |
 | [Selected](../../aspose.pdf.forms/option/selected) { get; set; } | 获取或设置选项的选定状态。如果选择了选项，则返回 true。 |
 | [Value](../../aspose.pdf.forms/option/value) { get; set; } | 获取或设置选项导出值。 |
 

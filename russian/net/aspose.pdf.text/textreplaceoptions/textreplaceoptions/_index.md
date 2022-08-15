@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаTextReplaceOptionsaspose.pdf.text/textreplaceoptionsдля указанной области.
+description: Инициализирует новый экземплярTextReplaceOptionsaspose.pdf.text/textreplaceoptions объект для указанной области.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/
 ---
 ## TextReplaceOptions(Scope) {#constructor_1}
 
-Инициализирует новый экземпляр объекта[`TextReplaceOptions`](../../textreplaceoptions)для указанной области.
+Инициализирует новый экземпляр[`TextReplaceOptions`](../../textreplaceoptions) объект для указанной области.
 
 ```csharp
 public TextReplaceOptions(Scope scope)
@@ -29,7 +29,7 @@ public TextReplaceOptions(Scope scope)
 
 ## TextReplaceOptions(ReplaceAdjustment) {#constructor}
 
-Инициализирует новый экземпляр объекта[`TextReplaceOptions`](../../textreplaceoptions)для указанного действия после замены.
+Инициализирует новый экземпляр[`TextReplaceOptions`](../../textreplaceoptions) объект для указанного действия после замены.
 
 ```csharp
 public TextReplaceOptions(ReplaceAdjustment adjustment)
@@ -37,7 +37,7 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| adjustment | ReplaceAdjustment | Объект ReplaceAdjustment. |
+| adjustment | ReplaceAdjustment | Объект ЗаменитьРегулировку. |
 
 ### Смотрите также
 

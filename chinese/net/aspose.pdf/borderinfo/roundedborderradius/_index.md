@@ -1,14 +1,14 @@
 ---
 title: RoundedBorderRadius
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置圆角边界半径
+description: 获取或设置圆角边框半径
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/borderinfo/roundedborderradius/
 ---
 ## BorderInfo.RoundedBorderRadius property
 
-获取或设置圆角边界半径
+获取或设置圆角边框半径
 
 ```csharp
 public double RoundedBorderRadius { get; set; }

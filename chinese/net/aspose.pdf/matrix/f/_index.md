@@ -1,14 +1,14 @@
 ---
 title: F
 second_title: Aspose.PDF for .NET API 参考
-description: F 变换矩阵的成员
+description: 变换矩阵的 F 成员
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/matrix/f/
 ---
 ## Matrix.F property
 
-F 变换矩阵的成员。
+变换矩阵的 F 成员。
 
 ```csharp
 public double F { get; set; }

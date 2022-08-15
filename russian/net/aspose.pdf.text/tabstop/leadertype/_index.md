@@ -1,14 +1,14 @@
 ---
 title: LeaderType
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает перечислениеTabLeaderTypeaspose.pdf.text/tableadertype указывающее тип выноски табуляции.
+description: Получает или задаетTabLeaderTypeaspose.pdf.text/tableadertype enum указывающий тип выноски табуляции.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/tabstop/leadertype/
 ---
 ## TabStop.LeaderType property
 
-Получает или задает перечисление[`TabLeaderType`](../../tableadertype), указывающее тип выноски табуляции.
+Получает или задает[`TabLeaderType`](../../tableadertype) enum, указывающий тип выноски табуляции.
 
 ```csharp
 public TabLeaderType LeaderType { get; set; }

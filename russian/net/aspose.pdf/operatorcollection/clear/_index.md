@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет все операторы из списка.
+description: Удаляет всех операторов из списка.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/operatorcollection/clear/
 ---
 ## OperatorCollection.Clear method
 
-Удаляет все операторы из списка.
+Удаляет всех операторов из списка.
 
 ```csharp
 public override void Clear()

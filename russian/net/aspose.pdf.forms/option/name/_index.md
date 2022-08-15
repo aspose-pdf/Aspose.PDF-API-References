@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает имя параметра.
+description: Получает или задает имя параметра.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/option/name/
 ---
 ## Option.Name property
 
-Получает или устанавливает имя параметра.
+Получает или задает имя параметра.
 
 ```csharp
 public string Name { get; set; }

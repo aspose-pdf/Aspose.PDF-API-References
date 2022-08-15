@@ -25,7 +25,7 @@ public sealed class AttributeOwnerStandard
 | Имя | Описание |
 | --- | --- |
 | override [ToString](../../aspose.pdf.logicalstructure/attributeownerstandard/tostring)() | Возвращает строку, представляющую текущий объект. |
-| [explicit operator](../../aspose.pdf.logicalstructure/attributeownerstandard/op_explicit) | Выполняет явное преобразование изStringв[`AttributeOwnerStandard`](../attributeownerstandard). |
+| [explicit operator](../../aspose.pdf.logicalstructure/attributeownerstandard/op_explicit) | Выполняет явное преобразование изString к[`AttributeOwnerStandard`](../attributeownerstandard) . |
 
 ## Поля
 
@@ -36,7 +36,7 @@ public sealed class AttributeOwnerStandard
 | static readonly [Html_320](../../aspose.pdf.logicalstructure/attributeownerstandard/html_320) | Владелец атрибута HTML-3.20. |
 | static readonly [Html_401](../../aspose.pdf.logicalstructure/attributeownerstandard/html_401) | Владелец атрибута HTML-4.01. |
 | static readonly [Layout](../../aspose.pdf.logicalstructure/attributeownerstandard/layout) | Владелец атрибута макета. |
-| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list) | Список владельцев атрибутов. |
+| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list) | Владелец атрибута списка. |
 | static readonly [Oeb_100](../../aspose.pdf.logicalstructure/attributeownerstandard/oeb_100) | Владелец атрибута OEB-1.00. |
 | static readonly [PrintField](../../aspose.pdf.logicalstructure/attributeownerstandard/printfield) | Владелец атрибута PrintField. |
 | static readonly [Rtf_105](../../aspose.pdf.logicalstructure/attributeownerstandard/rtf_105) | Владелец атрибута RTF-1.05. |

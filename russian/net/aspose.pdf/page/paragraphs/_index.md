@@ -16,7 +16,7 @@ public Paragraphs Paragraphs { get; set; }
 
 ### Стоимость имущества
 
-Абзацы.
+Пункты.
 
 ### Смотрите также
 

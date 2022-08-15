@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示浮动框背景颜色的Coloraspose.pdf/color对象
+description: 获取或设置一个Coloraspose.pdf/color指示浮动框的背景颜色的对象
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/floatingbox/backgroundcolor/
 ---
 ## FloatingBox.BackgroundColor property
 
-获取或设置指示浮动框背景颜色的[`Color`](../../color)对象。
+获取或设置一个[`Color`](../../color)指示浮动框的背景颜色的对象。
 
 ```csharp
 public Color BackgroundColor { get; set; }

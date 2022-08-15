@@ -1,14 +1,14 @@
 ---
 title: CompressSvgGraphicsIfAny
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示 找到的 SVG 图形如果有是否将被压缩压缩的标志 保存期间转换为 SVGZ 格式
+description: 获取或设置标志指示在保存过程中 找到的 SVG 图形如果有是否将被压缩压缩 为 SVGZ 格式
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/
 ---
 ## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
-获取或设置指示 找到的 SVG 图形（如果有）是否将被压缩（压缩）的标志 保存期间转换为 SVGZ 格式
+获取或设置标志，指示在保存过程中 找到的 SVG 图形（如果有）是否将被压缩（压缩） 为 SVGZ 格式
 
 ```csharp
 public bool CompressSvgGraphicsIfAny { get; set; }
@@ -16,7 +16,7 @@ public bool CompressSvgGraphicsIfAny { get; set; }
 
 ### 适当的价值
 
-[`HtmlDocumentType`](../../htmldocumenttype).
+的[`HtmlDocumentType`](../../htmldocumenttype).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Aspose.PDF для справочника API .NET
-description: Очищает коллекцию TextFragments этогоTextFragmentAbsorberaspose.pdf.text/textfragmentabsorberобъекта.
+description: Очищает коллекцию TextFragments этогоTextFragmentAbsorberaspose.pdf.text/textfragmentabsorber объект.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/reset/
 ---
 ## TextFragmentAbsorber.Reset method
 
-Очищает коллекцию TextFragments этого[`TextFragmentAbsorber`](../../textfragmentabsorber)объекта.
+Очищает коллекцию TextFragments этого[`TextFragmentAbsorber`](../../textfragmentabsorber) объект.
 
 ```csharp
 public void Reset()

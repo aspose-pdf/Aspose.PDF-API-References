@@ -1,14 +1,14 @@
 ---
 title: SetCMYKColor
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор k установите цвет CMYK для операций без обводки.
+description: Класс представляющий оператор k установите цвет CMYK для операций без штриха.
 type: docs
 weight: 5340
 url: /ru/net/aspose.pdf.operators/setcmykcolor/
 ---
 ## SetCMYKColor class
 
-Класс, представляющий оператор k (установите цвет CMYK для операций без обводки).
+Класс, представляющий оператор k (установите цвет CMYK для операций без штриха).
 
 ```csharp
 public class SetCMYKColor : SetColorOperator
@@ -30,7 +30,7 @@ public class SetCMYKColor : SetColorOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [getColor](../../aspose.pdf.operators/setcmykcolor/getcolor)() | Возвращает цвет. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 

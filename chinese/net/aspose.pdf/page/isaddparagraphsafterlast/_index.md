@@ -16,7 +16,7 @@ public bool IsAddParagraphsAfterLast { get; set; }
 
 ### 适当的价值
 
-值表示是否在页面最后一段之后添加段落。 如果值为 true，则在页面最后一段之后添加段落。
+value 表示是否在页面的最后一段之后添加段落。 如果 value 为 true，则将在页面的最后一段之后添加段落。
 
 ### 也可以看看
 

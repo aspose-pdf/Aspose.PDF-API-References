@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.PDF for .NET API 参考
-description: 将结果 PDF 保存到文件
+description: 将结果 PDF 保存到文件中
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdffilesanitization/save/
 ---
 ## Save(string) {#save_1}
 
-将结果 PDF 保存到文件。
+将结果 PDF 保存到文件中。
 
 ```csharp
 public override void Save(string outputFile)

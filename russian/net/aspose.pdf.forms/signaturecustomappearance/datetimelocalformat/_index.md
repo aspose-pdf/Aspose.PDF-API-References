@@ -1,14 +1,14 @@
 ---
 title: DateTimeLocalFormat
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает локальный формат даты и времени. Значение по умолчаниюгггг.ММ.дд ЧЧммсс ззз.
+description: Получает/устанавливает локальный формат даты и времени. Значение по умолчанию гггг.ММ.дд ЧЧммсс zzz.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/
 ---
 ## SignatureCustomAppearance.DateTimeLocalFormat property
 
-Получает/устанавливает локальный формат даты и времени. Значение по умолчанию:"гггг.ММ.дд ЧЧ:мм:сс ззз".
+Получает/устанавливает локальный формат даты и времени. Значение по умолчанию: "гггг.ММ.дд ЧЧ:мм:сс zzz".
 
 ```csharp
 public string DateTimeLocalFormat { get; set; }

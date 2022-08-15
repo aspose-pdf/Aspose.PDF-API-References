@@ -1,14 +1,14 @@
 ---
 title: AdjustmentNewLineSpacing
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置在强制替换调整创建新文本行时使用的行距值 预期值是替换文本字体大小的乘数默认值为 1.2
+description: 获取或设置在强制替换调整创建新文本行时使用的行距值 预期值是被替换文本字体大小的乘数默认为 1.2.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/
 ---
 ## TextReplaceOptions.AdjustmentNewLineSpacing property
 
-获取或设置在强制替换调整创建新文本行时使用的行距值。 预期值是替换文本字体大小的乘数。默认值为 1.2。
+获取或设置在强制替换调整创建新文本行时使用的行距值。 预期值是被替换文本字体大小的乘数。默认为 1.2.
 
 ```csharp
 public double AdjustmentNewLineSpacing { get; set; }

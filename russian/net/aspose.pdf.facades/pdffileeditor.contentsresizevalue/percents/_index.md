@@ -20,7 +20,7 @@ public static ContentsResizeValue Percents(double value)
 
 ### Возвращаемое значение
 
-Новый экземпляр значения.
+Экземпляр нового значения.
 
 ### Смотрите также
 

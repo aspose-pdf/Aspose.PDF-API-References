@@ -1,14 +1,14 @@
 ---
 title: Red
 second_title: Aspose.PDF для справочника API .NET
-description: Красная схема освещения.
+description: Схема освещения Красная.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/red/
 ---
 ## PDF3DLightingScheme.Red field
 
-"Красная" схема освещения.
+Схема освещения "Красная".
 
 ```csharp
 public static PDF3DLightingScheme Red;

@@ -1,14 +1,14 @@
 ---
 title: JavaScriptCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示 JavaScript 的集合
+description: 这个类代表 JavaScript 的集合
 type: docs
 weight: 3900
 url: /zh/net/aspose.pdf/javascriptcollection/
 ---
 ## JavaScriptCollection class
 
-此类表示 JavaScript 的集合。
+这个类代表 JavaScript 的集合。
 
 ```csharp
 public class JavaScriptCollection

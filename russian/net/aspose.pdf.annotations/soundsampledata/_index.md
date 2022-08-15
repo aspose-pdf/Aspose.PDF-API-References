@@ -18,10 +18,10 @@ public class SoundSampleData
 
 | Имя | Описание |
 | --- | --- |
-| [SoundSampleData](soundsampledata#constructor)(long) | Инициализирует новые данные звуковых семплов. |
-| [SoundSampleData](soundsampledata#constructor_1)(long, int) | Инициализирует новые данные звуковых семплов. |
-| [SoundSampleData](soundsampledata#constructor_2)(long, int, int) | Инициализирует новые данные звуковых семплов. |
-| [SoundSampleData](soundsampledata#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | Инициализирует новые данные звуковых семплов. |
+| [SoundSampleData](soundsampledata#constructor)(long) | Инициализирует новые данные звукового образца. |
+| [SoundSampleData](soundsampledata#constructor_1)(long, int) | Инициализирует новые данные звукового образца. |
+| [SoundSampleData](soundsampledata#constructor_2)(long, int, int) | Инициализирует новые данные звукового образца. |
+| [SoundSampleData](soundsampledata#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | Инициализирует новые данные звукового образца. |
 
 ## Характеристики
 

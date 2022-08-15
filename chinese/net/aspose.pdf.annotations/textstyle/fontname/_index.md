@@ -1,14 +1,14 @@
 ---
 title: FontName
 second_title: Aspose.PDF for .NET API 参考
-description: 字体名称
+description: 字体的名称
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/textstyle/fontname/
 ---
 ## TextStyle.FontName property
 
-字体名称。
+字体的名称。
 
 ```csharp
 public string FontName { get; set; }

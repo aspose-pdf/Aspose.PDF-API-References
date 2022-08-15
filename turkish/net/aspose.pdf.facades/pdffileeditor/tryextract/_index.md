@@ -1,0 +1,181 @@
+---
+title: TryExtract
+second_title: Aspose.PDF for .NET API Referansı
+description: Girdi dosyasından sayfaları çıkarır yeni bir Pdf dosyası olarak kaydeder.
+type: docs
+weight: 440
+url: /tr/net/aspose.pdf.facades/pdffileeditor/tryextract/
+---
+## TryExtract(string, int, int, string) {#tryextract_2}
+
+Girdi dosyasından sayfaları çıkarır, yeni bir Pdf dosyası olarak kaydeder.
+
+```csharp
+public bool TryExtract(string inputFile, int startPage, int endPage, string outputFile)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| inputFile | String | Pdf dosya yolunu girin. |
+| startPage | Int32 | Sayfa numarasına başlayın. |
+| endPage | Int32 | Bitiş sayfa numarası. |
+| outputFile | String | Çıktı Pdf dosya yolu. |
+
+### Geri dönüş değeri
+
+Başarı için doğru veya yanlış.
+
+### Notlar
+
+TryExtract yöntemi, Extract yöntemine benzer, ancak TryExtract yöntemi, işlem başarısız olursa bir istisna oluşturmaz.
+
+### Örnekler
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
+```
+
+### Ayrıca bakınız
+
+* class [PdfFileEditor](../../pdffileeditor)
+* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## TryExtract(string, int[], string) {#tryextract_3}
+
+Sayı dizisiyle belirtilen sayfaları çıkarır, yeni bir PDF dosyası olarak kaydeder.
+
+```csharp
+public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| inputFile | String | Dosya yolunu girin. |
+| pageNumber | Int32[] | Giriş dosyasından çıkan sayfa dizini. |
+| outputFile | String | Çıktı dosyası yolu. |
+
+### Geri dönüş değeri
+
+işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+
+### Notlar
+
+TryExtract yöntemi, Extract yöntemine benzer, ancak TryExtract yöntemi, işlem başarısız olursa bir istisna oluşturmaz.
+
+### Örnekler
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
+```
+
+### Ayrıca bakınız
+
+* class [PdfFileEditor](../../pdffileeditor)
+* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## TryExtract(Stream, int[], Stream) {#tryextract}
+
+Sayı dizisiyle belirtilen sayfaları çıkarır, yeni bir Pdf dosyası olarak kaydeder.
+
+```csharp
+public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| inputStream | Stream | Girdi dosyası Akış. |
+| pageNumber | Int32[] | Giriş dosyasından çıkan sayfa dizini. |
+| outputStream | Stream | Çıktı dosyası akışı. |
+
+### Geri dönüş değeri
+
+Başarı için doğru veya yanlış.
+
+### Notlar
+
+TryExtract yöntemi, Extract yöntemine benzer, ancak TryExtract yöntemi, işlem başarısız olursa bir istisna oluşturmaz.
+
+### Örnekler
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
+```
+
+### Ayrıca bakınız
+
+* class [PdfFileEditor](../../pdffileeditor)
+* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## TryExtract(Stream, int[], HttpResponse) {#tryextract_1}
+
+Belirtilen sayfaları kaynak dosyadan çıkarır ve sonucu HttpResponse nesnesine depolar.
+
+```csharp
+public bool TryExtract(Stream inputStream, int[] pageNumber, HttpResponse response)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| inputStream | Stream | Kaynak belge akışı. |
+| pageNumber | Int32[] | Ayıklanacak sayfa numaraları dizisi. |
+| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
+
+### Geri dönüş değeri
+
+işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+
+### Notlar
+
+TryExtract yöntemi, Extract yöntemine benzer, ancak TryExtract yöntemi, işlem başarısız olursa bir istisna oluşturmaz.
+
+### Ayrıca bakınız
+
+* class [PdfFileEditor](../../pdffileeditor)
+* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
+* toplantı [Aspose.PDF](../../../)
+
+---
+
+## TryExtract(string, int[], HttpResponse) {#tryextract_4}
+
+Belirtilen sayfaları kaynak dosyadan çıkarır ve sonucu HttpResponse nesnesine depolar.
+
+```csharp
+public bool TryExtract(string inputFile, int[] pageNumber, HttpResponse response)
+```
+
+| Parametre | Tip | Tanım |
+| --- | --- | --- |
+| inputFile | String | Kaynak dosya yolu. |
+| pageNumber | Int32[] | Ayıklanacak sayfa numaraları dizisi. |
+| response | HttpResponse | Sonucun saklanacağı HttpResponse nesnesi. |
+
+### Geri dönüş değeri
+
+işlem başarıyla tamamlandıysa true ; aksi halde yanlış.
+
+### Notlar
+
+TryExtract yöntemi, Extract yöntemine benzer, ancak TryExtract yöntemi, işlem başarısız olursa bir istisna oluşturmaz.
+
+### Ayrıca bakınız
+
+* class [PdfFileEditor](../../pdffileeditor)
+* ad alanı [Aspose.Pdf.Facades](../../pdffileeditor)
+* toplantı [Aspose.PDF](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

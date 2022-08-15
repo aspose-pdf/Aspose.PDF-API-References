@@ -1,14 +1,14 @@
 ---
 title: CanonicalFormat
 second_title: Aspose.PDF for .NET API 参考
-description: 如果设置则表示日期的任何提交的字段值都应转换为标准格式
+description: 如果设置任何提交的表示日期的字段值都应转换为标准格式
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/submitformaction/canonicalformat/
 ---
 ## SubmitFormAction.CanonicalFormat field
 
-如果设置，则表示日期的任何提交的字段值都应转换为标准格式。
+如果设置，任何提交的表示日期的字段值都应转换为标准格式。
 
 ```csharp
 public const int CanonicalFormat;

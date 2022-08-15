@@ -1,14 +1,14 @@
 ---
 title: Get4BppImage
 second_title: Aspose.PDF for .NET API 参考
-description: 返回 4Bpp 位图表示
+description: 返回 4Bpp 位图表示形式
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/iindexbitmapconverter/get4bppimage/
 ---
 ## IIndexBitmapConverter.Get4BppImage method
 
-返回 4Bpp 位图表示
+返回 4Bpp 位图表示形式
 
 ```csharp
 public Bitmap Get4BppImage(Bitmap src)

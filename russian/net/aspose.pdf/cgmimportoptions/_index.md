@@ -1,14 +1,14 @@
 ---
 title: CgmImportOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Опция импорта для импорта из формата метафайла компьютерной графики CGM.
+description: Параметр импорта для импорта из формата метафайла компьютерной графики CGM.
 type: docs
 weight: 1460
 url: /ru/net/aspose.pdf/cgmimportoptions/
 ---
 ## CgmImportOptions class
 
-Опция импорта для импорта из формата метафайла компьютерной графики (CGM).
+Параметр импорта для импорта из формата метафайла компьютерной графики (CGM).
 
 ```csharp
 public class CgmImportOptions : ImportOptions
@@ -25,7 +25,7 @@ public class CgmImportOptions : ImportOptions
 | Имя | Описание |
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat) { get; } | Формат импорта. |
-| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize) { get; set; } | Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию - A4 300dpi 2480 X 3508. |
+| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize) { get; set; } | Получает или задает размер выходной страницы для импорта. Размер страницы по умолчанию — A4 300dpi 2480 X 3508. |
 
 ### Смотрите также
 

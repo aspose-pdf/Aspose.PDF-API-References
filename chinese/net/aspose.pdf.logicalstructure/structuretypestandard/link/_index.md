@@ -1,14 +1,14 @@
 ---
 title: Link
 second_title: Aspose.PDF for .NET API 参考
-description: 链接ILSE 内容的一部分与相应的链接注释或注释之间的关联它的子项应该是一个或多个内容项或子 ILSE 和一个或多个标识相关链接注释的对象引用
+description: 链接ILSE 内容的一部分与相应的链接注释或注释之间的关联它的子项应该是一个或多个内容项或子 ILSE 以及一个或多个标识关联链接注释的对象引用
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/link/
 ---
 ## StructureTypeStandard.Link field
 
-（链接）ILSE 内容的一部分与相应的链接注释或注释之间的关联。它的子项应该是一个或多个内容项或子 ILSE 和一个或多个标识相关链接注释的对象引用。
+（链接）ILSE 内容的一部分与相应的链接注释或注释之间的关联。它的子项应该是一个或多个内容项或子 ILSE 以及一个或多个标识关联链接注释的对象引用。
 
 ```csharp
 public static readonly StructureTypeStandard Link;

@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_Disc
 second_title: Aspose.PDF for .NET API 参考
-description: 属性列表编号光盘 - 实心圆形项目符号
+description: 属性列表编号光盘 - 实心圆形子弹
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf.logicalstructure/attributename/listnumbering_disc/
 ---
 ## AttributeName.ListNumbering_Disc field
 
-属性列表编号:光盘 - 实心圆形项目符号。
+属性列表编号：光盘 - 实心圆形子弹。
 
 ```csharp
 public static readonly AttributeName ListNumbering_Disc;

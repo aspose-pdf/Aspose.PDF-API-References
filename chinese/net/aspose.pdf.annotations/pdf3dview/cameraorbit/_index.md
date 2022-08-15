@@ -1,14 +1,14 @@
 ---
 title: CameraOrbit
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置摄像机的视野轨道
+description: 获取或设置摄像机的视角
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/pdf3dview/cameraorbit/
 ---
 ## PDF3DView.CameraOrbit property
 
-获取或设置摄像机的视野轨道。
+获取或设置摄像机的视角。
 
 ```csharp
 public double CameraOrbit { get; set; }
@@ -16,7 +16,7 @@ public double CameraOrbit { get; set; }
 
 ### 适当的价值
 
-摄像机视野轨道。
+摄像机的视野轨道。
 
 ### 也可以看看
 

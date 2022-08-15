@@ -1,14 +1,14 @@
 ---
 title: Copy
 second_title: Aspose.PDF для справочника API .NET
-description: Позволяет копировать файл.
+description: Разрешает копирование файла.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/documentprivilege/copy/
 ---
 ## DocumentPrivilege.Copy property
 
-Позволяет копировать файл.
+Разрешает копирование файла.
 
 ```csharp
 public static DocumentPrivilege Copy { get; }

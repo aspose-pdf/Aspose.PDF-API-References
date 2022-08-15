@@ -20,8 +20,8 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 | rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | contents | String | 注释的内容。 |
 | filePath | String | 将附加文件的路径。 |
-| page | Int32 | 将创建注释的原始页数。 |
-| name | String | 图标的名称将用于显示注释。 这个值可以是:“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
+| name | String | 显示注释时将使用图标的名称。 此值可以是：“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
 
 ### 例子
 
@@ -55,9 +55,9 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 | rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | contents | String | 注释的内容。 |
 | filePath | String | 将附加文件的路径。 |
-| page | Int32 | 将创建注释的原始页数。 |
-| name | String | 图标的名称将用于显示注释。 这个值可以是:“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
-| opacity | Double | 图标的不透明度从 0 到 1:0 - 完全透明，1 - 完全不透明。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
+| name | String | 显示注释时将使用图标的名称。 此值可以是：“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
+| opacity | Double | 图标的不透明度从 0 到 1：0 - 完全透明，1 - 完全不透明。 |
 
 ### 例子
 
@@ -92,8 +92,8 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 | contents | String | 注释的内容。 |
 | attachmentStream | Stream | 附件文件流。 |
 | attachmentName | String | 附件名称。 |
-| page | Int32 | 将创建注释的原始页数。 |
-| name | String | 图标的名称将用于显示注释。 这个值可以是:“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
+| name | String | 显示注释时将使用图标的名称。 此值可以是：“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
 
 ### 例子
 
@@ -131,9 +131,9 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 | contents | String | 注释的内容。 |
 | attachmentStream | Stream | 附件文件流。 |
 | attachmentName | String | 附件名称。 |
-| page | Int32 | 将创建注释的原始页数。 |
-| name | String | 图标的名称将用于显示注释。 这个值可以是:“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
-| opacity | Double | 图标的不透明度从 0 到 1:0 - 完全透明，1 - 完全不透明。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
+| name | String | 显示注释时将使用图标的名称。 此值可以是：“Graph”、“PushPin”、“Paperclip”、“Tag”。 |
+| opacity | Double | 图标的不透明度从 0 到 1：0 - 完全透明，1 - 完全不透明。 |
 
 ### 例子
 

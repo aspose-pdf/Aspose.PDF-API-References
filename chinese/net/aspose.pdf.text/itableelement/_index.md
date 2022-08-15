@@ -1,14 +1,14 @@
 ---
 title: ITableElement
 second_title: Aspose.PDF for .NET API 参考
-description: 该接口表示由 TableAbsorber 提取的现有表的元素
+description: 这个接口代表了TableAbsorber提取的现有表的一个元素
 type: docs
 weight: 6800
 url: /zh/net/aspose.pdf.text/itableelement/
 ---
 ## ITableElement interface
 
-该接口表示由 TableAbsorber 提取的现有表的元素。
+这个接口代表了TableAbsorber提取的现有表的一个元素。
 
 ```csharp
 public interface ITableElement

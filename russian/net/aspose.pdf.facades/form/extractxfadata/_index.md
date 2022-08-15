@@ -16,7 +16,7 @@ public void ExtractXfaData(Stream outputXmlStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputXmlStream | Stream | Поток, в котором будут данные XML хранится. |
+| outputXmlStream | Stream | Поток, в котором будут храниться XML-данные. |
 
 ### Смотрите также
 

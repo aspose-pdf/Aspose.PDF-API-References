@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTabStopaspose.pdf.text/tabstopи добавляет его в класс Коллекция вкладок.
+description: Инициализирует новый экземплярTabStopaspose.pdf.text/tabstop class и добавьте его в коллекцию TabStops.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/tabstops/add/
 ---
 ## Add() {#add}
 
-Инициализирует новый экземпляр класса[`TabStop`](../../tabstop)и добавляет его в класс Коллекция вкладок.
+Инициализирует новый экземпляр[`TabStop`](../../tabstop) class и добавьте его в коллекцию TabStops.
 
 ```csharp
 public TabStop Add()
@@ -16,7 +16,7 @@ public TabStop Add()
 
 ### Возвращаемое значение
 
-Новый объект[`TabStop`](../../tabstop).
+Новый[`TabStop`](../../tabstop) объект.
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public TabStop Add()
 
 ## Add(float) {#add_1}
 
-Инициализирует новый экземпляр класса[`TabStop`](../../tabstop)с указанной позицией и добавьте его в коллекцию TabStops.
+Инициализирует новый экземпляр[`TabStop`](../../tabstop) класс с указанной позицией и добавить его в коллекцию TabStops.
 
 ```csharp
 public TabStop Add(float position)
@@ -37,11 +37,11 @@ public TabStop Add(float position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Single | Позиция позиции табуляции. |
+| position | Single | Положение табуляции. |
 
 ### Возвращаемое значение
 
-Новый объект[`TabStop`](../../tabstop).
+Новый[`TabStop`](../../tabstop) объект.
 
 ### Смотрите также
 
@@ -54,7 +54,7 @@ public TabStop Add(float position)
 
 ## Add(TabStop) {#add_3}
 
-Добавить экземпляр класса[`TabStop`](../../tabstop)в коллекцию TabStops.
+Добавить экземпляр[`TabStop`](../../tabstop) класс в коллекцию TabStops.
 
 ```csharp
 public void Add(TabStop tabStop)
@@ -62,7 +62,7 @@ public void Add(TabStop tabStop)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tabStop | TabStop | Объект[`TabStop`](../../tabstop). |
+| tabStop | TabStop | [`TabStop`](../../tabstop) объект. |
 
 ### Смотрите также
 
@@ -75,7 +75,7 @@ public void Add(TabStop tabStop)
 
 ## Add(float, TabLeaderType) {#add_2}
 
-Инициализирует новый экземпляр класса[`TabStop`](../../tabstop)с указанной позицией и лидером введите и добавьте его в коллекцию TabStops.
+Инициализирует новый экземпляр[`TabStop`](../../tabstop) класс с указанной позицией и типом лидера и добавить его в коллекцию TabStops.
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
@@ -83,12 +83,12 @@ public TabStop Add(float position, TabLeaderType leaderType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Single | Позиция позиции табуляции. |
-| leaderType | TabLeaderType | Тип выноски позиции табуляции. |
+| position | Single | Положение табуляции. |
+| leaderType | TabLeaderType | Тип выноски табуляции. |
 
 ### Возвращаемое значение
 
-Новый объект[`TabStop`](../../tabstop).
+Новый[`TabStop`](../../tabstop) объект.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: OnClosePage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置关闭包含注释的页面时要执行的操作
+description: 获取或设置当包含注释的页面关闭时要执行的操作
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/annotationactioncollection/onclosepage/
 ---
 ## AnnotationActionCollection.OnClosePage property
 
-获取或设置关闭包含注释的页面时要执行的操作。
+获取或设置当包含注释的页面关闭时要执行的操作。
 
 ```csharp
 public PdfAction OnClosePage { get; set; }

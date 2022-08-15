@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置字体大小默认值10
+description: 获取/设置字体大小默认值10.
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
 ## SignatureCustomAppearance.FontSize property
 
-获取/设置字体大小。默认值:10。
+获取/设置字体大小。默认值：10.
 
 ```csharp
 public double FontSize { get; set; }

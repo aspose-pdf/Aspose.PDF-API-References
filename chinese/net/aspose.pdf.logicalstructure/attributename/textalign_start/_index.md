@@ -1,14 +1,14 @@
 ---
 title: TextAlign_Start
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 TextAlignStart - 与起始边缘对齐
+description: 属性 TextAlign Start - 与起始边缘对齐
 type: docs
 weight: 580
 url: /zh/net/aspose.pdf.logicalstructure/attributename/textalign_start/
 ---
 ## AttributeName.TextAlign_Start field
 
-属性 TextAlign:Start - 与起始边缘对齐。
+属性 TextAlign: Start - 与起始边缘对齐。
 
 ```csharp
 public static readonly AttributeName TextAlign_Start;

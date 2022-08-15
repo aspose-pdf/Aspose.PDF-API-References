@@ -1,14 +1,14 @@
 ---
 title: PositionArray
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектPositionArrayaspose.pdf.drawing/line/positionarray указывающий массив позиций. состоит из координат каждой контрольной точки линии. напрямую.
+description: Получает или задаетPositionArrayaspose.pdf.drawing/line/positionarray объект указывающий массив позиций. Массив состоит из координат каждой контрольной точки линии. напрямую.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/line/positionarray/
 ---
 ## Line.PositionArray property
 
-Получает или задает объект`PositionArray`, указывающий массив позиций. состоит из координат каждой контрольной точки линии. напрямую.
+Получает или задает`PositionArray` объект, указывающий массив позиций. Массив состоит из координат каждой контрольной точки линии. напрямую.
 
 ```csharp
 public float[] PositionArray { get; set; }

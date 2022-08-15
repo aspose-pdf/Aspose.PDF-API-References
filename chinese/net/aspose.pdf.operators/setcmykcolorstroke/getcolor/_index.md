@@ -16,7 +16,7 @@ public override Color getColor()
 
 ### 返回值
 
-运算符指定的颜色。
+操作员指定的颜色。
 
 ### 也可以看看
 

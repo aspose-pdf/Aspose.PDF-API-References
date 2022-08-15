@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF для справочника API .NET
-description: Применить посетителя для комментирования.
+description: Применить посетителя для аннотации.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/watermarkannotation/accept/
 ---
 ## WatermarkAnnotation.Accept method
 
-Применить посетителя для комментирования.
+Применить посетителя для аннотации.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)

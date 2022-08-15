@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 从页面中删除AbsorbedTableaspose.pdf.text/absorbedtable
+description: 删除一个AbsorbedTableaspose.pdf.text/absorbedtable从页面.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/tableabsorber/remove/
 ---
 ## TableAbsorber.Remove method
 
-从页面中删除[`AbsorbedTable`](../../absorbedtable)。
+删除一个[`AbsorbedTable`](../../absorbedtable)从页面.
 
 ```csharp
 public void Remove(AbsorbedTable table)
@@ -16,11 +16,11 @@ public void Remove(AbsorbedTable table)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable)删除。 |
+| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable)去除。 |
 
 ### 评论
 
-请注意它会更改 TableList 集合。如果在循环中删除/替换表，请使用 TableList 集合的副本。
+请考虑它会更改 TableList 集合。如果在循环中删除/替换表，请使用 TableList 集合的副本。
 
 ### 也可以看看
 

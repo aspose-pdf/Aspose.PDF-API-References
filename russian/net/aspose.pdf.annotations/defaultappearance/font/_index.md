@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Aspose.PDF для справочника API .NET
-description: Получает шрифт по умолчанию для текста.
+description: Получает шрифт указанный по умолчанию для текста.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/defaultappearance/font/
 ---
 ## DefaultAppearance.Font property
 
-Получает шрифт по умолчанию для текста.
+Получает шрифт, указанный по умолчанию для текста.
 
 ```csharp
 public Font Font { get; }

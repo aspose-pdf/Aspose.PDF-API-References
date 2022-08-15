@@ -53,7 +53,7 @@ public Rectangle Transform(Rectangle rect)
 
 ### 返回值
 
-变换矩形。
+变形的矩形。
 
 ### 例子
 

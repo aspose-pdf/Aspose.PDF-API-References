@@ -1,14 +1,14 @@
 ---
 title: LeaderType
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个TabLeaderTypeaspose.pdf.text/tableadertype枚举指示制表符前导类型
+description: 获取或设置一个TabLeaderTypeaspose.pdf.text/tableadertype指示选项卡前导类型的枚举
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/tabstop/leadertype/
 ---
 ## TabStop.LeaderType property
 
-获取或设置一个[`TabLeaderType`](../../tableadertype)枚举，指示制表符前导类型。
+获取或设置一个[`TabLeaderType`](../../tableadertype)指示选项卡前导类型的枚举。
 
 ```csharp
 public TabLeaderType LeaderType { get; set; }

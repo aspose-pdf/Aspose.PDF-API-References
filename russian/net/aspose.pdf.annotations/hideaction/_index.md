@@ -1,14 +1,14 @@
 ---
 title: HideAction
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет действие скрытия которое скрывает или показывает одну или несколько аннотаций на экране устанавливая или снимая их флажки Hidden.
+description: Представляет действие скрытия которое скрывает или показывает одну или несколько аннотаций на экране устанавливая или сбрасывая их флажки Hidden.
 type: docs
 weight: 480
 url: /ru/net/aspose.pdf.annotations/hideaction/
 ---
 ## HideAction class
 
-Представляет действие скрытия, которое скрывает или показывает одну или несколько аннотаций на экране, устанавливая или снимая их флажки Hidden.
+Представляет действие скрытия, которое скрывает или показывает одну или несколько аннотаций на экране, устанавливая или сбрасывая их флажки Hidden.
 
 ```csharp
 public class HideAction : PdfAction
@@ -18,20 +18,20 @@ public class HideAction : PdfAction
 
 | Имя | Описание |
 | --- | --- |
-| [HideAction](hideaction#constructor)(Annotation) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанной аннотации. |
-| [HideAction](hideaction#constructor_2)(Annotation[]) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанных аннотаций. |
-| [HideAction](hideaction#constructor_4)(string) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанного имени поля. |
-| [HideAction](hideaction#constructor_6)(string[]) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанных имен полей. |
-| [HideAction](hideaction#constructor_1)(Annotation, bool) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанной аннотации и флага невидимости. |
-| [HideAction](hideaction#constructor_3)(Annotation[], bool) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанных аннотаций и флага невидимости. |
-| [HideAction](hideaction#constructor_5)(string, bool) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанного имени поля и флага невидимости. |
-| [HideAction](hideaction#constructor_7)(string[], bool) | Инициализирует новый экземпляр класса[`HideAction`](../hideaction)для указанных имен полей и флага невидимости. |
+| [HideAction](hideaction#constructor)(Annotation) | Инициализирует новый экземпляр[`HideAction`](../hideaction) класс для указанной аннотации. |
+| [HideAction](hideaction#constructor_2)(Annotation[]) | Инициализирует новый экземпляр[`HideAction`](../hideaction) класс для указанных аннотаций. |
+| [HideAction](hideaction#constructor_4)(string) | Инициализирует новый экземпляр[`HideAction`](../hideaction) класс для указанного имени поля. |
+| [HideAction](hideaction#constructor_6)(string[]) | Инициализирует новый экземпляр[`HideAction`](../hideaction) класс для указанных имен полей. |
+| [HideAction](hideaction#constructor_1)(Annotation, bool) | Инициализирует новый экземпляр[`HideAction`](../hideaction) класс для указанной аннотации и флага невидимости. |
+| [HideAction](hideaction#constructor_3)(Annotation[], bool) | Инициализирует новый экземпляр[`HideAction`](../hideaction) class для указанных аннотаций и для флага невидимости. |
+| [HideAction](hideaction#constructor_5)(string, bool) | Инициализирует новый экземпляр[`HideAction`](../hideaction)class для указанного имени поля и флага невидимости. |
+| [HideAction](hideaction#constructor_7)(string[], bool) | Инициализирует новый экземпляр[`HideAction`](../hideaction) класс для указанных имен полей и для флага невидимости. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IsHidden](../../aspose.pdf.annotations/hideaction/ishidden) { get; set; } | Получает или устанавливает статус аннотаций для скрытия/отображения. |
+| [IsHidden](../../aspose.pdf.annotations/hideaction/ishidden) { get; set; } | Получает или задает статус аннотаций для скрытия/отображения. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Следующие действия по порядку. |
 
 ### Смотрите также

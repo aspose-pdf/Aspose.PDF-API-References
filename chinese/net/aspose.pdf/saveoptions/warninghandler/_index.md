@@ -1,14 +1,14 @@
 ---
 title: WarningHandler
 second_title: Aspose.PDF for .NET API 参考
-description: 回调以处理生成的任何警告 WarningHandler 返回 ReturnAction 枚举项指定 Continue 或 Abort Continue 是默认操作Save 操作会继续但是用户也可以返回 Abort在这种情况下 Save 操作应该停止
+description: 回调以处理生成的任何警告 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项 Continue 是默认操作Save 操作继续但是用户也可以返回 Abort在这种情况下 Save 操作应该停止
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/saveoptions/warninghandler/
 ---
 ## SaveOptions.WarningHandler property
 
-回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，Save 操作会继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。
+回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Save 操作继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。
 
 ```csharp
 public IWarningCallback WarningHandler { get; set; }

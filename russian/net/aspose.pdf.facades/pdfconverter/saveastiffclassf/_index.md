@@ -17,8 +17,8 @@ public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputFile | String | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 
 ### Примеры
 
@@ -68,7 +68,7 @@ public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 
 ## SaveAsTIFFClassF(Stream, int, int) {#saveastiffclassf_2}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF ClassF.
+Преобразует каждую страницу pdf-документа в изображения и сохраняет изображения в один поток TIFF ClassF.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeight)
@@ -77,8 +77,8 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения изображения TIFF. |
-| imageWidth | Int32 | Ширина изображения в пикселях. |
-| imageHeight | Int32 | Высота изображения в пикселях. |
+| imageWidth | Int32 | Ширина изображения, единица измерения — пиксель. |
+| imageHeight | Int32 | Высота изображения, единица измерения — пиксель. |
 
 ### Смотрите также
 
@@ -90,7 +90,7 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 
 ## SaveAsTIFFClassF(Stream, PageSize) {#saveastiffclassf_1}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF ClassF.
+Преобразует каждую страницу pdf-документа в изображения и сохраняет изображения в один поток TIFF ClassF.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
@@ -148,7 +148,7 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFFClassF(Stream) {#saveastiffclassf}
 
-Преобразует каждую страницу документа PDF в изображения и сохраняет изображения в один поток TIFF ClassF.
+Преобразует каждую страницу pdf-документа в изображения и сохраняет изображения в один поток TIFF ClassF.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream)

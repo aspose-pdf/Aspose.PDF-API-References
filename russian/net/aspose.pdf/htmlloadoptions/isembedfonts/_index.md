@@ -1,14 +1,14 @@
 ---
 title: IsEmbedFonts
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает шрифты внедряемые в результирующий документ
+description: Получает или задает встроенные шрифты в результат document
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/htmlloadoptions/isembedfonts/
 ---
 ## HtmlLoadOptions.IsEmbedFonts property
 
-Получает или задает шрифты, внедряемые в результирующий документ
+Получает или задает встроенные шрифты в результат document
 
 ```csharp
 public bool IsEmbedFonts { get; set; }

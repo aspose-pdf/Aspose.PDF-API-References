@@ -1,14 +1,14 @@
 ---
 title: Direction
 second_title: Aspose.PDF for .NET API 参考
-description: 文本方向
+description: 文字方向
 type: docs
 weight: 1830
 url: /zh/net/aspose.pdf/direction/
 ---
 ## Direction enumeration
 
-文本方向。
+文字方向。
 
 ```csharp
 public enum Direction

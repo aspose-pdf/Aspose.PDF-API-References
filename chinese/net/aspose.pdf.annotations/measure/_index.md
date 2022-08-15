@@ -24,10 +24,10 @@ public class Measure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AngleFormat](../../aspose.pdf.annotations/measure/angleformat) { get; set; } | 用于角度测量的数字格式数组。 |
+| [AngleFormat](../../aspose.pdf.annotations/measure/angleformat) { get; set; } | 用于测量角度的数字格式数组。 |
 | [AreaFormat](../../aspose.pdf.annotations/measure/areaformat) { get; set; } | 用于面积测量的数字格式数组。 |
 | [DistanceFormat](../../aspose.pdf.annotations/measure/distanceformat) { get; set; } | 用于测量任意方向距离的数字格式数组。 |
-| [Origin](../../aspose.pdf.annotations/measure/origin) { get; set; } | 在默认用户空间坐标中指定测量坐标系原点的点。 |
+| [Origin](../../aspose.pdf.annotations/measure/origin) { get; set; } | 应在默认用户空间坐标中指定测量坐标系原点的点。 |
 | [ScaleRatio](../../aspose.pdf.annotations/measure/scaleratio) { get; set; } | 表示绘图比例的文本字符串。 |
 | [SlopeFormat](../../aspose.pdf.annotations/measure/slopeformat) { get; set; } | 用于测量直线斜率的数字格式数组。 |
 | [XFormat](../../aspose.pdf.annotations/measure/xformat) { get; set; } | 一个数字格式数组，用于测量沿 x 轴的变化，如果 Y 不存在，也沿 y 轴测量 |

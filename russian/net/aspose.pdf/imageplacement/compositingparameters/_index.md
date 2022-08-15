@@ -1,14 +1,14 @@
 ---
 title: CompositingParameters
 second_title: Aspose.PDF для справочника API .NET
-description: Получает активные параметры композитинга состояния графики для изображения размещенного на странице.
+description: Получает параметры компоновки графического состояния активного для изображения размещенного на странице.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/imageplacement/compositingparameters/
 ---
 ## ImagePlacement.CompositingParameters property
 
-Получает активные параметры композитинга состояния графики для изображения, размещенного на странице.
+Получает параметры компоновки графического состояния, активного для изображения, размещенного на странице.
 
 ```csharp
 public CompositingParameters CompositingParameters { get; }

@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API 参考
-description: 接受访问者对象来处理注释
+description: 接受访问者对象来处理注解
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/strikeoutannotation/accept/
 ---
 ## StrikeOutAnnotation.Accept method
 
-接受访问者对象来处理注释。
+接受访问者对象来处理注解。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)

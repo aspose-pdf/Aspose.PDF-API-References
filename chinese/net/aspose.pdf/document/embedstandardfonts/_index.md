@@ -1,14 +1,14 @@
 ---
 title: EmbedStandardFonts
 second_title: Aspose.PDF for .NET API 参考
-description: 属性声明文档必须嵌入所有标准 Type1 字体 其标志 IsEmbedded 设置为 true所有 PDF 字体都可以通过将标志 IsEmbedded 设置为 true 来嵌入 到文档中但 PDF 标准 Type1 字体是此规则的一个例外 标准 Type1 字体嵌入需要很多时间因此要嵌入这些字体需要 不仅为指定字体设置标志 IsEmbedded 为 true还要设置 一个文档级别的附加标志 - EmbedStandardFonts  true 对于所有字体该属性只能设置一次 默认为假
+description: 声明该文档必须嵌入所有标准 Type1 字体的属性 将标志 IsEmbedded 设置为 true所有 PDF 字体都可以通过将标志 IsEmbedded 设置为 true 来嵌入 到文档中但 PDF 标准 Type1 字体是此规则的一个例外 标准 Type1 字体嵌入需要很多时间因此要嵌入这些字体 不仅需要设置标志IsEmbedded 为指定字体设置为 true但还在文档级别设置 一个附加标志 - EmbedStandardFonts  true 对于所有字体此属性只能设置一次 默认为 false
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/document/embedstandardfonts/
 ---
 ## Document.EmbedStandardFonts property
 
-属性声明文档必须嵌入所有标准 Type1 字体 其标志 IsEmbedded 设置为 true。所有 PDF 字体都可以通过将标志 IsEmbedded 设置为 true 来嵌入 到文档中，但 PDF 标准 Type1 字体是此规则的一个例外。 标准 Type1 字体嵌入需要很多时间，因此要嵌入这些字体，需要 不仅为指定字体设置标志 IsEmbedded 为 true，还要设置 一个文档级别的附加标志 - EmbedStandardFonts = true; 对于所有字体，该属性只能设置一次。 默认为假。
+声明该文档必须嵌入所有标准 Type1 字体的属性 将标志 IsEmbedded 设置为 true。所有 PDF 字体都可以通过将标志 IsEmbedded 设置为 true 来嵌入 到文档中，但 PDF 标准 Type1 字体是此规则的一个例外。 标准 Type1 字体嵌入需要很多时间，因此要嵌入这些字体 不仅需要设置标志IsEmbedded 为指定字体设置为 true，但还在文档级别设置 一个附加标志 - EmbedStandardFonts = true; 对于所有字体，此属性只能设置一次。 默认为 false。
 
 ```csharp
 public bool EmbedStandardFonts { get; set; }

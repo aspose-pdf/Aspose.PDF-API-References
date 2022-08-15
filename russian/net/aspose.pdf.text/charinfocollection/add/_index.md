@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Коллекция доступна только для чтения выдает NotImplementedException .
+description: Коллекция доступна только для чтения выдаетНереализованное исключение .
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/charinfocollection/add/
 ---
 ## CharInfoCollection.Add method
 
-Коллекция доступна только для чтения, выдает NotImplementedException .
+Коллекция доступна только для чтения, выдаетНереализованное исключение .
 
 ```csharp
 public void Add(CharInfo item)
@@ -16,7 +16,7 @@ public void Add(CharInfo item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | CharInfo | Добавляемый элемент. |
+| item | CharInfo | Элемент для добавления. |
 
 ### Смотрите также
 

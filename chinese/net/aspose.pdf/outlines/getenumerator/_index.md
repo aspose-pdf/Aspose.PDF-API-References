@@ -16,7 +16,7 @@ public abstract IEnumerator<OutlineItemCollection> GetEnumerator()
 
 ### 返回值
 
-一个可用于遍历集合的 System.Collections.IEnumerator 对象。
+可用于遍历集合的 System.Collections.IEnumerator 对象。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PlatformSpecificId
 second_title: Aspose.PDF для справочника API .NET
-description: Идентификатор кодировки для конкретной платформы для подтаблицы кодирования
+description: Идентификатор кодировки для конкретной платформы для кодирования subtable
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId property
 
-Идентификатор кодировки для конкретной платформы для подтаблицы кодирования
+Идентификатор кодировки для конкретной платформы для кодирования subtable
 
 ```csharp
 public ushort PlatformSpecificId { get; set; }

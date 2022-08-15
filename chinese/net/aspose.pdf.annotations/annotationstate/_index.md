@@ -1,14 +1,14 @@
 ---
 title: AnnotationState
 second_title: Aspose.PDF for .NET API 参考
-description: 可以设置原始注释的状态的枚举
+description: 可以设置原始注释的状态枚举
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.annotations/annotationstate/
 ---
 ## AnnotationState enumeration
 
-可以设置原始注释的状态的枚举。
+可以设置原始注释的状态枚举。
 
 ```csharp
 public enum AnnotationState

@@ -20,21 +20,20 @@ public virtual void Visit(Page page)
 
 ### 例子
 
-该示例演示了如何在第一个 PDF 文档页面上提取文本。
+该示例演示了如何在 PDF 文档的第一个页面上提取文本。
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// 创建 TextAbsorber 对象以提取 text
-xtAbsorber absorber = new TextAbsorber();
+// 创建 TextAbsorber 对象以提取文本
+TextAbsorber absorber = new TextAbsorber();
 
-// 接受所有文档 pages
+// 接受所有文档页面的吸收器
+absorber.Visit(doc.Pages[1]);
 
-sorber.Visit(doc.Pages[1]);
-
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 ```
 
 ### 也可以看看
@@ -60,21 +59,20 @@ public virtual void Visit(XForm form)
 
 ### 例子
 
-该示例演示了如何在第一个 PDF 文档页面上提取文本。
+该示例演示了如何在 PDF 文档的第一个页面上提取文本。
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// 创建 TextAbsorber 对象以提取 text
-xtAbsorber absorber = new TextAbsorber();
+// 创建 TextAbsorber 对象以提取文本
+TextAbsorber absorber = new TextAbsorber();
 
-// 接受所有文档 pages
+// 接受所有文档页面的吸收器
+absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-sorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
-
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 ```
 
 ### 也可以看看
@@ -104,17 +102,16 @@ public virtual void Visit(Document pdf)
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// 创建 TextAbsorber 对象以提取 text
-xtAbsorber absorber = new TextAbsorber();
+// 创建 TextAbsorber 对象以提取文本
+TextAbsorber absorber = new TextAbsorber();
 
-// 接受所有文档 pages
+// 接受所有文档页面的吸收器
+absorber.Visit(doc);
 
-sorber.Visit(doc);
-
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 ```
 
 ### 也可以看看

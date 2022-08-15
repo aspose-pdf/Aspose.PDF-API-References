@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает заголовок элемента структуры.
+description: Получает или задает заголовок элемента структуры.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/title/
 ---
 ## StructureElement.Title property
 
-Получает или устанавливает заголовок элемента структуры.
+Получает или задает заголовок элемента структуры.
 
 ```csharp
 public string Title { get; set; }
@@ -16,7 +16,7 @@ public string Title { get; set; }
 
 ### Стоимость имущества
 
-Заголовок элемента структуры.
+Название элемента структуры.
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public Bitmap DecodePage(int pageNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | Int32 | 一个 Pdf 文件的页码，必须在 1 和 PageCount 之间。 |
+| pageNumber | Int32 | 一个 Pdf 文件的页码，必须介于 1 和 PageCount 之间。 |
 
 ### 返回值
 

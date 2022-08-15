@@ -1,0 +1,65 @@
+---
+title: PdfBookmarkEditor
+second_title: Référence de l'API Aspose.PDF pour .NET
+description: Représente une classe pour travailler avec les signets du fichier PDF y compris créer modifier exporter importer et supprimer.
+type: docs
+weight: 2430
+url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/
+---
+## PdfBookmarkEditor class
+
+Représente une classe pour travailler avec les signets du fichier PDF, y compris créer, modifier, exporter, importer et supprimer.
+
+```csharp
+public sealed class PdfBookmarkEditor : SaveableFacade
+```
+
+## Constructeurs
+
+| Nom | La description |
+| --- | --- |
+| [PdfBookmarkEditor](pdfbookmarkeditor#constructor)() | Initialise nouveau[`PdfBookmarkEditor`](../pdfbookmarkeditor) objet. |
+| [PdfBookmarkEditor](pdfbookmarkeditor#constructor_1)(Document) | Initialise nouveau[`PdfBookmarkEditor`](../pdfbookmarkeditor) objet sur la base de la*document* . |
+
+## Propriétés
+
+| Nom | La description |
+| --- | --- |
+| [Document](../../aspose.pdf.facades/facade/document) { get; } | Obtient la façade du document sur laquelle travaille. |
+
+## Méthodes
+
+| Nom | La description |
+| --- | --- |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Initialise la façade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Initialise la façade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Initialise la façade. |
+| virtual [Close](../../aspose.pdf.facades/facade/close)() | Dispose Aspose.Pdf.Document relié avec une façade. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage)(string, int) | Crée un signet pour la page spécifiée. |
+| [CreateBookmarkOfPage](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage#createbookmarkofpage_1)(string[], int[]) | Crée des signets pour les pages spécifiées. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks)() | Crée des signets pour toutes les pages. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_1)(Bookmark) | Crée le signet spécifié dans le document. La méthode peut être utilisée pour former une hiérarchie de signets imbriqués. |
+| [CreateBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/createbookmarks#createbookmarks_2)(Color, bool, bool) | Créer des signets pour toutes les pages avec la couleur et le style spécifiés (gras, italique). |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks)() | Supprime tous les signets du document PDF. |
+| [DeleteBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks#deletebookmarks_1)(string) | Supprime le signet du document PDF. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Dispose la façade. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml)(Stream) | Exporte les signets vers le flux XML. |
+| [ExportBookmarksToXML](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml#exportbookmarkstoxml_1)(string) | Exporte les signets vers un fichier XML. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks)() | Extrait les signets de tous les niveaux du document. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_1)(Bookmark) | Extrait les enfants d'un signet avec un titre comme dans bookamrk spécifié. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_2)(bool) | Extrait les signets de tous les niveaux du document. |
+| [ExtractBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks#extractbookmarks_3)(string) | Extrait les signets avec le titre spécifié. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml)(Stream) | Importe des signets dans le document à partir d'un fichier XML. |
+| [ImportBookmarksWithXML](../../aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml#importbookmarkswithxml_1)(string) | Importe des signets dans le document à partir d'un fichier XML. |
+| [ModifyBookmarks](../../aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks)(string, string) | Modifie le titre du signet en fonction du titre du signet spécifié. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | Enregistre le document PDF dans le flux spécifié. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | Enregistre le document PDF dans le fichier spécifié. |
+| static [ExportBookmarksToHtml](../../aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml)(string, string) | Exporte les signets vers un fichier HTML. |
+
+### Voir également
+
+* class [SaveableFacade](../saveablefacade)
+* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades)
+* Assemblée [Aspose.PDF](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

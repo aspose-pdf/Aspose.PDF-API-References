@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha/
 ---
 ## AttributeName.ListNumbering_LowerAlpha field
 
-属性列表编号:LowerAlpha - 小写字母（a、b、c、...）。
+属性列表编号：LowerAlpha - 小写字母（a、b、c、...）。
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerAlpha;

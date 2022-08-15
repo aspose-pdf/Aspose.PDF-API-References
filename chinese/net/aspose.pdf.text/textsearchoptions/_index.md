@@ -18,23 +18,23 @@ public sealed class TextSearchOptions : TextOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextSearchOptions](textsearchoptions#constructor_2)(bool) | 初始化[`TextSearchOptions`](../textsearchoptions)对象的新实例。 指定正则表达式使用模式。 |
-| [TextSearchOptions](textsearchoptions#constructor)(Rectangle) | 初始化[`TextSearchOptions`](../textsearchoptions)对象的新实例。 指定分隔搜索文本的矩形。 |
-| [TextSearchOptions](textsearchoptions#constructor_1)(Rectangle, bool) | 初始化[`TextSearchOptions`](../textsearchoptions)对象的新实例。 指定分隔搜索文本和正则表达式使用模式的矩形。 |
+| [TextSearchOptions](textsearchoptions#constructor_2)(bool) | 初始化[`TextSearchOptions`](../textsearchoptions) object. 指定正则表达式使用模式。 |
+| [TextSearchOptions](textsearchoptions#constructor)(Rectangle) | 初始化[`TextSearchOptions`](../textsearchoptions)object. 指定分隔搜索文本的矩形。 |
+| [TextSearchOptions](textsearchoptions#constructor_1)(Rectangle, bool) | 初始化[`TextSearchOptions`](../textsearchoptions) object. 指定分隔搜索文本和正则表达式使用模式的矩形。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors) { get; set; } | 获取或设置与缺少字体相关的错误将被文本（片段）吸收器忽略的指示。 true - 表示将忽略缺少字体的错误。在处理过程中将跳过引用不正确资源的文本段。 false (默认) - 没有字体错误将通过抛出异常终止处理。 |
-| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext) { get; set; } | 获取或设置表示在搜索期间将忽略表示普通文本阴影的文本片段的指示。 true - 意味着找不到阴影文本（如果文本搜索在关闭位置返回重复片段，请尝试此操作） false - 意味着将找到阴影文本以及普通文本（默认值） |
+| [IgnoreResourceFontErrors](../../aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors) { get; set; } | 获取或设置与缺少字体相关的错误将被文本（片段）吸收器忽略的指示。 true - 表示将忽略缺少字体的错误。处理过程中将跳过引用不正确资源的文本段。 false（默认）-没有字体错误将通过抛出异常终止处理。 |
+| [IgnoreShadowText](../../aspose.pdf.text/textsearchoptions/ignoreshadowtext) { get; set; } | 获取或设置表示在搜索期间将忽略表示普通文本阴影的文本片段的指示。 true - 表示不会找到阴影文本（如果文本搜索在关闭位置返回重复的片段，请尝试此操作） false - 表示阴影将找到文本以及普通文本（默认值） |
 | [IsRegularExpressionUsed](../../aspose.pdf.text/textsearchoptions/isregularexpressionused) { get; set; } | 获取或设置使用正则表达式的指示。 |
-| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds) { get; set; } | 获取或设置在页面范围内搜索文本的指示。 |
-| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors) { get; set; } | 获取或设置文本提取（解码）错误将记录在文本（片段）吸收器中的指示。 true - 表示将记录文本提取（解码）错误。它可能会降低性能。 false（默认）- 不记录错误。 |
-| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle) { get; set; } | 获取或设置边界搜索文本的矩形。 |
-| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics) { get; set; } | 获取或设置允许在文本搜索期间搜索文本相关图形（下划线、背景等）的值。 true - 将执行与文本相关的图形搜索（默认值）。 false - 源文档中可能出现的图形元素将被忽略。如果出现性能问题或不需要处理下划线、背景或剪裁，请设置此项。 |
-| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount) { get; set; } | 获取或设置限制在页面上搜索指定数量元素的文本相关图形（下划线、背景等）的值。 默认为 250。在性能问题的情况下设置较小的值，在找不到某些图形元素的情况下尝试较大的值。 |
-| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding) { get; set; } | 获取或设置将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果由于文档中的编码不完善而导致文本搜索失败，请尝试此操作） false - 表示将使用文档字体编码（默认值) |
+| [LimitToPageBounds](../../aspose.pdf.text/textsearchoptions/limittopagebounds) { get; set; } | 获取或设置在页面边界内搜索文本的指示。 |
+| [LogTextExtractionErrors](../../aspose.pdf.text/textsearchoptions/logtextextractionerrors) { get; set; } | 获取或设置将在文本（片段）吸收器中记录文本提取（解码）错误的指示。 true - 表示将记录文本提取（解码）错误。它可能会降低性能。 false（默认）- 没有错误记录。 |
+| [Rectangle](../../aspose.pdf.text/textsearchoptions/rectangle) { get; set; } | 获取或设置搜索文本边界的矩形。 |
+| [SearchForTextRelatedGraphics](../../aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics) { get; set; } | 获取或设置允许在文本搜索期间搜索文本相关图形（下划线、背景等）的值。 true - 将执行文本相关图形搜索（默认值）。 false - 可能出现在源文档中的图形元素将被忽略。如果出现性能问题或不需要处理下划线、背景或剪辑，请设置此项。 |
+| [StoredGraphicElementsMaxCount](../../aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount) { get; set; } | 获取或设置限制在页面上搜索指定元素数量的文本相关图形（下划线、背景等）的值。 默认值为 250。在性能问题的情况下设置较小的值，在没有找到某些图形元素的情况。 |
+| [UseFontEngineEncoding](../../aspose.pdf.text/textsearchoptions/usefontengineencoding) { get; set; } | 获取或设置将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果由于文档中的编码不完善而导致文本搜索失败，请尝试此操作） false - 表示文档字体编码将使用（默认值） |
 
 ### 也可以看看
 

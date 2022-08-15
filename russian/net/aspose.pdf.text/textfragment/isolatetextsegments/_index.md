@@ -1,14 +1,14 @@
 ---
 title: IsolateTextSegments
 second_title: Aspose.PDF для справочника API .NET
-description: ПолучаетTextSegmentaspose.pdf.text/textsegments представляющий указанную частьTextFragmentaspose.pdf.text/textfragmentтекст.
+description: получаетTextSegmentaspose.pdf.text/textsegment s представляющие указанную частьTextFragmentaspose.pdf.text/textfragment текст.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.text/textfragment/isolatetextsegments/
 ---
 ## TextFragment.IsolateTextSegments method
 
-Получает[`TextSegment`](../../textsegment)(s), представляющий указанную часть[`TextFragment`](../../textfragment)текст.
+получает[`TextSegment`](../../textsegment) (s) представляющие указанную часть[`TextFragment`](../../textfragment) текст.
 
 ```csharp
 public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
@@ -16,12 +16,12 @@ public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| startIndex | Int32 | Позиция в тексте, из которой новый[`TextSegment`](../../textsegment)(s ) начнет. |
-| length | Int32 | Длина текста, который будет выделен в[`TextSegment`](../../textsegment)(s). |
+| startIndex | Int32 | Позиция в тексте, с которой новые[`TextSegment`](../../textsegment)(с) начнется. |
+| length | Int32 | Длина текста, который будет выделен в[`TextSegment`](../../textsegment)(с). |
 
 ### Возвращаемое значение
 
-[`TextSegmentCollection`](../../textsegmentcollection)содержащий текстовые сегменты, представляющие текстовую подстроку, начинающуюся с указанной позиции и имеющую указанную длину.
+[`TextSegmentCollection`](../../textsegmentcollection) содержащий текстовые сегменты, представляющие текстовую подстроку, начинающуюся с указанной позиции и имеющую указанную длину.
 
 ### Смотрите также
 

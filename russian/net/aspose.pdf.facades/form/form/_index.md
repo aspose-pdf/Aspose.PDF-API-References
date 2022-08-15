@@ -1,14 +1,19 @@
 ---
 title: Form
 second_title: Aspose.PDF для справочника API .NET
-description: Построение формы без параметров.  ltcodegt Form form  new Aspose.Pdf.Facades.Form form.SrcFileName  file.pdf lt/codegt
+description: Построение формы без параметров.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/form/form/
 ---
 ## Form() {#constructor}
 
-Построение формы без параметров.  &lt;code&gt; Form form = new Aspose.Pdf.Facades.Form(); form.SrcFileName = "file.pdf"; &lt;/code&gt;
+Построение формы без параметров.
+
+```csharp
+Form form = new Aspose.Pdf.Facades.Form();
+form.SrcFileName = "file.pdf";
+```
 
 ```csharp
 public Form()
@@ -76,7 +81,7 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ## Form(Document) {#constructor_1}
 
-Инициализирует новый[`Form`](../../form)объект на основе*document*.
+Инициализирует новый[`Form`](../../form) объект на базе*document* .
 
 ```csharp
 public Form(Document document)
@@ -84,7 +89,7 @@ public Form(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

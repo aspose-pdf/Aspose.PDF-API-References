@@ -1,14 +1,14 @@
 ---
 title: DefaultAttributeOwner
 second_title: Aspose.PDF for .NET API 参考
-description: 获取AttributeOwnerStandard对象
+description: 获取AttributeOwnerStandard对象.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/
 ---
 ## StructureElement.DefaultAttributeOwner property
 
-获取AttributeOwnerStandard对象。
+获取AttributeOwnerStandard对象.
 
 ```csharp
 public AttributeOwnerStandard DefaultAttributeOwner { get; }
@@ -16,7 +16,7 @@ public AttributeOwnerStandard DefaultAttributeOwner { get; }
 
 ### 适当的价值
 
-AttributeOwnerStandard对象。
+AttributeOwnerStandard目的。
 
 ### 也可以看看
 

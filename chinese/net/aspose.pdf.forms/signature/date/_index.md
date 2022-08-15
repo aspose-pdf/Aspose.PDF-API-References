@@ -1,14 +1,14 @@
 ---
 title: Date
 second_title: Aspose.PDF for .NET API 参考
-description: 签名时间
+description: 签署时间
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.forms/signature/date/
 ---
 ## Signature.Date property
 
-签名时间。
+签署时间。
 
 ```csharp
 public DateTime Date { get; set; }

@@ -32,7 +32,7 @@ public void Flatten(FlattenSettings flattenSettings)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | 展平过程设置。 |
+| flattenSettings | FlattenSettings | 展平过程的设置。 |
 
 ### 也可以看看
 

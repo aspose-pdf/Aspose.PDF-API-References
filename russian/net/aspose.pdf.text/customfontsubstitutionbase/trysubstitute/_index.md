@@ -17,16 +17,16 @@ public virtual bool TrySubstitute(OriginalFontSpecification originalFontSpecific
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| originalFontSpecification | OriginalFontSpecification | Исходная спецификация шрифта. |
+| originalFontSpecification | OriginalFontSpecification | Оригинальная спецификация шрифта. |
 | substitutionFont | Font& | Подстановочный шрифт. |
 
 ### Возвращаемое значение
 
-Истинно, если замена прошла успешно.
+Верно, если замена прошла успешно.
 
 ### Примечания
 
-Класс CustomFontSubstitutionBase должен быть унаследован для реализации пользовательской логики подстановки шрифтов. Метод TrySubstitute должен быть правильно переопределен: Должен возвращать true, если требуется подстановка. Для substitutionFont должен быть установлен допустимый объект Font. Должен возвращать false, если замена не требуется. substitutionFont может иметь значение null.
+Класс CustomFontSubstitutionBase должен быть унаследован для реализации пользовательской логики замены шрифта. Метод TrySubstitute должен быть правильно переопределен: Должен возвращать значение true, если требуется замена. Для substitutionFont должен быть задан действительный объект Font. Должен возвращать значение false, если подстановка не требуется. substitutionFont может иметь значение null.
 
 ### Смотрите также
 

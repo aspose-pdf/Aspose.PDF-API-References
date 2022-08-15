@@ -1,14 +1,14 @@
 ---
 title: UseFontEngineEncoding
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置将使用字体引擎编码搜索文本的指示 true - 表示将使用字体引擎编码如果由于文档中的编码不完善而导致文本搜索失败请尝试此操作 false - 表示将使用文档字体编码默认值
+description: 获取或设置将使用字体引擎编码搜索文本的指示 true - 表示将使用字体引擎编码如果由于文档中的编码不完善而导致文本搜索失败请尝试此操作 false - 表示文档字体编码将使用默认值
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.text/textsearchoptions/usefontengineencoding/
 ---
 ## TextSearchOptions.UseFontEngineEncoding property
 
-获取或设置将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果由于文档中的编码不完善而导致文本搜索失败，请尝试此操作） false - 表示将使用文档字体编码（默认值)
+获取或设置将使用字体引擎编码搜索文本的指示。 true - 表示将使用字体引擎编码（如果由于文档中的编码不完善而导致文本搜索失败，请尝试此操作） false - 表示文档字体编码将使用（默认值）
 
 ```csharp
 public bool UseFontEngineEncoding { get; set; }

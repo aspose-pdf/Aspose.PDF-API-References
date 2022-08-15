@@ -16,7 +16,7 @@ public void SetTag(string newTag)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newTag | String | 标签名称 |
+| newTag | String | 标签名 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Process
 second_title: Aspose.PDF for .NET API 参考
-description: 转换页面并保存为文本流
+description: 转换页面并将其保存为文本流
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.devices/textdevice/process/
 ---
 ## TextDevice.Process method
 
-转换页面并保存为文本流。
+转换页面并将其保存为文本流。
 
 ```csharp
 public override void Process(Page page, Stream output)
@@ -21,7 +21,7 @@ public override void Process(Page page, Stream output)
 
 ### 例子
 
-该示例演示了如何在第一个 PDF 文档页面上提取文本。
+该示例演示了如何在 PDF 文档的第一个页面上提取文本。
 
 ```csharp
 Document doc = new Document(inFile);
@@ -29,13 +29,13 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-      // 创建文本 device
+    // 创建文本设备
     TextDevice device = new TextDevice();
 
-      // 转换页面并将文本保存到 stream
+    // 转换页面并将文本保存到流中
     device.Process(doc.Pages[1], ms);
 
-      // 使用提取的 text
+    // 使用提取的文本
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }

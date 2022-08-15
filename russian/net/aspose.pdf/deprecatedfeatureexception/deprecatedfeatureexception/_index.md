@@ -1,14 +1,14 @@
 ---
 title: DeprecatedFeatureException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаDeprecatedFeatureExceptionaspose.pdf/deprecatedfeatureexception.
+description: Инициализирует новый экземплярDeprecatedFeatureExceptionaspose.pdf/deprecatedfeatureexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/deprecatedfeatureexception/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException() {#constructor}
 
-Инициализирует новый экземпляр класса[`DeprecatedFeatureException`](../../deprecatedfeatureexception).
+Инициализирует новый экземпляр[`DeprecatedFeatureException`](../../deprecatedfeatureexception) класс.
 
 ```csharp
 public DeprecatedFeatureException()

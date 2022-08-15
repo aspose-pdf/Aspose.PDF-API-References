@@ -29,7 +29,7 @@ public sealed class PageInfo : ICloneable
 | [Height](../../aspose.pdf/pageinfo/height) { get; set; } | Получает или задает высоту страницы. |
 | [IsLandscape](../../aspose.pdf/pageinfo/islandscape) { get; set; } | Получает или задает альбомную ориентацию страницы. |
 | [Margin](../../aspose.pdf/pageinfo/margin) { get; set; } | Получает или задает поля страницы. |
-| [PureHeight](../../aspose.pdf/pageinfo/pureheight) { get; } | Получает или устанавливает чистую высоту страницы без полей. |
+| [PureHeight](../../aspose.pdf/pageinfo/pureheight) { get; } | Получает или задает чистую высоту страницы без полей. |
 | [Width](../../aspose.pdf/pageinfo/width) { get; set; } | Получает или задает ширину страницы. |
 
 ## Методы

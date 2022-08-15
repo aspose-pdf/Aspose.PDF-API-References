@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/documentprivilege/copyallowlevel/
 ---
 ## DocumentPrivilege.CopyAllowLevel property
 
-设置文档权限的复制级别。就像 Adobe Professional 的权限设置一样。 0:无。 1:为视障者启用屏幕阅读器设备的文本访问。 2:启用文本、图像和其他内容的复制。
+设置文档权限的复制级别。就像 Adobe Professional 的权限设置一样。 0：无。 1：为视障者启用屏幕阅读器设备的文本访问。 2：启用文本、图像和其他内容的复制。
 
 ```csharp
 public int CopyAllowLevel { set; }

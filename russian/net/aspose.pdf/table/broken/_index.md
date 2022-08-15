@@ -1,14 +1,14 @@
 ---
 title: Broken
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает неработающую вертикаль таблицы
+description: Получает или задает неверную вертикаль таблицы
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/table/broken/
 ---
 ## Table.Broken property
 
-Получает или устанавливает неработающую вертикаль таблицы;
+Получает или задает неверную вертикаль таблицы;
 
 ```csharp
 public TableBroken Broken { get; set; }

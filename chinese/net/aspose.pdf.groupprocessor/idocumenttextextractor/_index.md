@@ -18,7 +18,7 @@ public interface IDocumentTextExtractor
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExtractAllText](../../aspose.pdf.groupprocessor/idocumenttextextractor/extractalltext)() | 返回提取文本值的集合。 |
+| [ExtractAllText](../../aspose.pdf.groupprocessor/idocumenttextextractor/extractalltext)() | 返回提取的文本值的集合。 |
 
 ### 也可以看看
 

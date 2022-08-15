@@ -16,7 +16,7 @@ public virtual TextSearchOptions TextSearchOptions { get; set; }
 
 ### 评论
 
-允许定义将在搜索包含在表格中的文本期间使用的几个选项。
+允许定义几个选项，这些选项将在搜索包含在表中的文本期间使用。
 
 ### 也可以看看
 

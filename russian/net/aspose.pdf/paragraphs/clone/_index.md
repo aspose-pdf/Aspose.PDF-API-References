@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF для справочника API .NET
-description: Клонирует новыйCloneaspose.pdf/paragraphs/cloneобъект.
+description: Клонирует новыйCloneaspose.pdf/paragraphs/clone объект.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/paragraphs/clone/
 ---
 ## Paragraphs.Clone method
 
-Клонирует новый`Clone`объект.
+Клонирует новый`Clone` объект.
 
 ```csharp
 public object Clone()
@@ -16,7 +16,7 @@ public object Clone()
 
 ### Возвращаемое значение
 
-Новый`Clone`объект.
+Новый`Clone` объект.
 
 ### Смотрите также
 

@@ -38,7 +38,7 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 目标页面。 |
-| type | ExplicitDestinationType | 目标类型。 |
+| type | ExplicitDestinationType | 目的地类型。 |
 | values | Double[] | 动作参数。 |
 
 ### 也可以看看
@@ -53,7 +53,7 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 ## GoToAction(ExplicitDestination) {#constructor_1}
 
-构造函数。
+构造函数.
 
 ```csharp
 public GoToAction(ExplicitDestination destination)
@@ -61,7 +61,7 @@ public GoToAction(ExplicitDestination destination)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| destination | ExplicitDestination | 显式目标。 |
+| destination | ExplicitDestination | 明确的目的地。 |
 
 ### 也可以看看
 
@@ -74,7 +74,7 @@ public GoToAction(ExplicitDestination destination)
 
 ## GoToAction(Document, string) {#constructor_2}
 
-与命名目的地相关联的动作。
+与命名目的地相关联的操作。
 
 ```csharp
 public GoToAction(Document doc, string name)
@@ -82,8 +82,8 @@ public GoToAction(Document doc, string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将在其中创建操作的文档。 |
-| name | String | 目的地的名称。 |
+| doc | Document | 记录将在何处创建操作。 |
+| name | String | 目的地名称。 |
 
 ### 也可以看看
 

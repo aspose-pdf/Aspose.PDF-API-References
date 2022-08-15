@@ -18,11 +18,11 @@ public enum CompressionType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| LZW | `0` | 指定 LZW 压缩方案。可以作为属于 Compression 类别的参数传递给 Tiff 编码器。 |
-| CCITT4 | `1` | 指定 CCITT4 压缩方案。可以作为属于 Compression 类别的参数传递给 CCITT4 编码器。 |
-| CCITT3 | `2` | 指定 CCITT3 压缩方案。可以作为属于 Compression 类别的参数传递给 CCITT3 编码器。 |
-| RLE | `3` | 指定 RLE 压缩方案。可以作为属于 Compression 类别的参数传递给 RLE 编码器。 |
-| None | `4` | 指定不压缩。可以作为属于压缩类别的参数传递给 Tiff 编码器。 |
+| LZW | `0` | 指定 LZW 压缩方案。可以作为属于Compression类别的参数传递给Tiff编码器。 |
+| CCITT4 | `1` | 指定 CCITT4 压缩方案。可以作为属于Compression类别的参数传递给CCITT4编码器。 |
+| CCITT3 | `2` | 指定 CCITT3 压缩方案。可以作为属于Compression类别的参数传递给CCITT3编码器。 |
+| RLE | `3` | 指定 RLE 压缩方案。可以作为属于Compression类别的参数传递给RLE编码器。 |
+| None | `4` | 指定不压缩。可以作为属于压缩类别的参数传递给Tiff编码器。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: IgnoreNeedsRendering
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此属性为真则在将 XFA 形式转换为标准形式期间NeedsRendering 键的值将被忽略默认为假
+description: 如果此属性为真NeedsRendering 键的值将在转换 XFA 形式到标准形式期间被忽略默认为假
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.forms/form/ignoreneedsrendering/
 ---
 ## Form.IgnoreNeedsRendering property
 
-如果此属性为真，则在将 XFA 形式转换为标准形式期间，NeedsRendering 键的值将被忽略。默认为假。
+如果此属性为真，NeedsRendering 键的值将在转换 XFA 形式到标准形式期间被忽略。默认为假。
 
 ```csharp
 public bool IgnoreNeedsRendering { get; set; }

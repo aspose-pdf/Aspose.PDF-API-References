@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF for .NET API 参考
-description: 绑定 Pdf 文件进行编辑
+description: 绑定一个 Pdf 文件进行编辑
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdffilesignature/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-绑定 Pdf 文件进行编辑。
+绑定一个 Pdf 文件进行编辑。
 
 ```csharp
 public override void BindPdf(string inputFile)

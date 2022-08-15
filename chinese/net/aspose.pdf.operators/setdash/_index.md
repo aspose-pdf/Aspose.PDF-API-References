@@ -1,14 +1,14 @@
 ---
 title: SetDash
 second_title: Aspose.PDF for .NET API 参考
-description: 代表 d 运算符的类设置线划线模式
+description: 表示 d 运算符的类设置线虚线模式
 type: docs
 weight: 5450
 url: /zh/net/aspose.pdf.operators/setdash/
 ---
 ## SetDash class
 
-代表 d 运算符的类（设置线划线模式）。
+表示 d 运算符的类（设置线虚线模式）。
 
 ```csharp
 public class SetDash : Operator
@@ -25,15 +25,15 @@ public class SetDash : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | 页面运算符列表中的运算符索引。 |
-| [Pattern](../../aspose.pdf.operators/setdash/pattern) { get; set; } | 破折号模式。数组的元素应该是指定交替破折号和间隙长度的数字。 在一个元素数组破折号和间隙长度相等的情况下。 |
-| [Phase](../../aspose.pdf.operators/setdash/phase) { get; set; } | 冲刺阶段。在开始描画路径之前，应循环遍历虚线数组，将虚线和间隙的长度相加。 当累积长度等于 dash 阶段指定的值时，将开始描边路径， 并且从该点开始循环使用 dash 数组。 |
+| [Pattern](../../aspose.pdf.operators/setdash/pattern) { get; set; } | 破折号模式。数组的元素应该是指定交替破折号和间隙长度的数字。 如果一个元素数组破折号和间隙长度相等。 |
+| [Phase](../../aspose.pdf.operators/setdash/phase) { get; set; } | 冲刺阶段。在开始描画路径之前，应循环遍历虚线数组，将虚线和间隙的长度相加。 当累积长度等于短划线阶段指定的值时，路径的描边应开始， 和短划线阵列应从该点开始循环使用。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setdash/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/setdash/tostring)() | 获取操作符字符串表示。 |
+| override [ToString](../../aspose.pdf.operators/setdash/tostring)() | 获取运算符字符串表示形式。 |
 
 ### 也可以看看
 

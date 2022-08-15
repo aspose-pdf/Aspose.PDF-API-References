@@ -1,14 +1,14 @@
 ---
 title: Padding
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个MarginInfoaspose.pdf/margininfo对象指示浮动框的填充
+description: 获取或设置一个MarginInfoaspose.pdf/margininfo指示浮动框填充的对象
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/floatingbox/padding/
 ---
 ## FloatingBox.Padding property
 
-获取或设置一个[`MarginInfo`](../../margininfo)对象，指示浮动框的填充。
+获取或设置一个[`MarginInfo`](../../margininfo)指示浮动框填充的对象。
 
 ```csharp
 public MarginInfo Padding { get; set; }

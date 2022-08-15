@@ -20,7 +20,7 @@ public enum TabAlignmentType
 | --- | --- | --- |
 | Left | `0` | 文本从制表位左对齐 |
 | Center | `1` | 文本从制表位居中对齐 |
-| Right | `2` | 文本从制表位右对齐 |
+| Right | `2` | 文本从制表位向右对齐 |
 
 ### 也可以看看
 

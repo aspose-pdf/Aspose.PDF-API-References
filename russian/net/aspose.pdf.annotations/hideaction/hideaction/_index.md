@@ -1,14 +1,14 @@
 ---
 title: HideAction
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаHideActionaspose.pdf.annotations/hideactionдля указанной аннотации.
+description: Инициализирует новый экземплярHideActionaspose.pdf.annotations/hideaction класс для указанной аннотации.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/hideaction/hideaction/
 ---
 ## HideAction(Annotation) {#constructor}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанной аннотации.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction) класс для указанной аннотации.
 
 ```csharp
 public HideAction(Annotation annotation)
@@ -29,7 +29,7 @@ public HideAction(Annotation annotation)
 
 ## HideAction(Annotation, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанной аннотации и флага невидимости.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction) класс для указанной аннотации и флага невидимости.
 
 ```csharp
 public HideAction(Annotation annotation, bool isHidden)
@@ -51,7 +51,7 @@ public HideAction(Annotation annotation, bool isHidden)
 
 ## HideAction(string) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанного имени поля.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction) класс для указанного имени поля.
 
 ```csharp
 public HideAction(string fieldName)
@@ -59,7 +59,7 @@ public HideAction(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Текстовая строка, содержащая полное имя поля интерактивной формы. |
+| fieldName | String | Текстовая строка, задающая полное имя поля интерактивной формы. |
 
 ### Смотрите также
 
@@ -71,7 +71,7 @@ public HideAction(string fieldName)
 
 ## HideAction(string, bool) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанного имени поля и флага невидимости.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction)class для указанного имени поля и флага невидимости.
 
 ```csharp
 public HideAction(string fieldName, bool isHidden)
@@ -79,7 +79,7 @@ public HideAction(string fieldName, bool isHidden)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Текстовая строка, содержащая полное имя поля интерактивной формы. |
+| fieldName | String | Текстовая строка, задающая полное имя поля интерактивной формы. |
 | isHidden | Boolean | Флаг, указывающий, следует ли скрыть поле (true) или показать его (false). |
 
 ### Смотрите также
@@ -92,7 +92,7 @@ public HideAction(string fieldName, bool isHidden)
 
 ## HideAction(Annotation[]) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанных аннотаций.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction) класс для указанных аннотаций.
 
 ```csharp
 public HideAction(Annotation[] annotations)
@@ -100,7 +100,7 @@ public HideAction(Annotation[] annotations)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotations | Annotation[] | Массив аннотаций, которые необходимо скрыть. |
+| annotations | Annotation[] | Массив аннотаций, которые нужно скрыть. |
 
 ### Смотрите также
 
@@ -113,7 +113,7 @@ public HideAction(Annotation[] annotations)
 
 ## HideAction(Annotation[], bool) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанных аннотаций и флага невидимости.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction) class для указанных аннотаций и для флага невидимости.
 
 ```csharp
 public HideAction(Annotation[] annotations, bool isHidden)
@@ -122,7 +122,7 @@ public HideAction(Annotation[] annotations, bool isHidden)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | annotations | Annotation[] | Массив аннотаций, которые нужно скрыть или показать. |
-| isHidden | Boolean | Флаг, указывающий, скрывать аннотации (true) или показывать (false). |
+| isHidden | Boolean | Флаг, указывающий, следует ли скрыть аннотации (true) или показать их (false). |
 
 ### Смотрите также
 
@@ -135,7 +135,7 @@ public HideAction(Annotation[] annotations, bool isHidden)
 
 ## HideAction(string[]) {#constructor_6}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанных имен полей.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction) класс для указанных имен полей.
 
 ```csharp
 public HideAction(string[] names)
@@ -155,7 +155,7 @@ public HideAction(string[] names)
 
 ## HideAction(string[], bool) {#constructor_7}
 
-Инициализирует новый экземпляр класса[`HideAction`](../../hideaction)для указанных имен полей и флага невидимости.
+Инициализирует новый экземпляр[`HideAction`](../../hideaction) класс для указанных имен полей и для флага невидимости.
 
 ```csharp
 public HideAction(string[] names, bool isHidden)
@@ -164,7 +164,7 @@ public HideAction(string[] names, bool isHidden)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | names | String[] | Массив строк, задающий полные имена полей интерактивной формы. |
-| isHidden | Boolean | Флаг, указывающий, скрывать поля (true) или показывать (false). |
+| isHidden | Boolean | Флаг, указывающий, следует ли скрыть поля (true) или показать их (false). |
 
 ### Смотрите также
 

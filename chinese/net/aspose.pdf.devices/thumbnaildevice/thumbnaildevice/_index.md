@@ -1,14 +1,14 @@
 ---
 title: ThumbnailDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化ThumbnailDeviceaspose.pdf.devices/thumbnaildevice类 的新实例默认大小为缩略图200x200 像素
+description: 初始化ThumbnailDeviceaspose.pdf.devices/thumbnaildevice class 具有缩略图的默认大小200x200 像素
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/
 ---
 ## ThumbnailDevice() {#constructor}
 
-初始化[`ThumbnailDevice`](../../thumbnaildevice)类 的新实例，默认大小为缩略图（200x200 像素）。
+初始化[`ThumbnailDevice`](../../thumbnaildevice) class 具有缩略图的默认大小（200x200 像素）。
 
 ```csharp
 public ThumbnailDevice()
@@ -24,7 +24,7 @@ public ThumbnailDevice()
 
 ## ThumbnailDevice(int, int) {#constructor_1}
 
-初始化[`ThumbnailDevice`](../../thumbnaildevice)类的新实例。
+初始化[`ThumbnailDevice`](../../thumbnaildevice)类.
 
 ```csharp
 public ThumbnailDevice(int width, int height)
@@ -32,8 +32,8 @@ public ThumbnailDevice(int width, int height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 缩略图输出宽度。 |
-| height | Int32 | 缩略图输出高度。 |
+| width | Int32 | 缩略图图像输出宽度。 |
+| height | Int32 | 缩略图图像输出高度。 |
 
 ### 也可以看看
 

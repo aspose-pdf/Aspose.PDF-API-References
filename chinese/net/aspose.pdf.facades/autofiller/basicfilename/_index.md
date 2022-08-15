@@ -1,14 +1,14 @@
 ---
 title: BasicFileName
 second_title: Aspose.PDF for .NET API 参考
-description: 如果要生成很多小文件获取或设置基本文件名生成的文件将类似于 BasicFileName0BasicFileName1... 它与另一个属性GeneratingPathaspose.pdf.facades/autofiller/generatingpathGeneratingPath 一起使用
+description: 如果要生成很多小文件获取或设置基本文件名生成的文件将类似于 BasicFileName0BasicFileName1... 它与另一个属性一起使用GeneratingPathaspose.pdf.facades/autofiller/generatingpath生成路径.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/autofiller/basicfilename/
 ---
 ## AutoFiller.BasicFileName property
 
-如果要生成很多小文件，获取或设置基本文件名。生成的文件将类似于 "BasicFileName0","BasicFileName1",... 它与另一个属性[`GeneratingPath`](../generatingpath)GeneratingPath 一起使用。
+如果要生成很多小文件，获取或设置基本文件名。生成的文件将类似于 "BasicFileName0","BasicFileName1",... 它与另一个属性一起使用[`GeneratingPath`](../generatingpath)生成路径.
 
 ```csharp
 public string BasicFileName { get; set; }

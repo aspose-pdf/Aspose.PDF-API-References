@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет новый оператор в коллекцию.
+description: Добавляет в коллекцию нового оператора.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/baseoperatorcollection/add/
 ---
 ## BaseOperatorCollection.Add method
 
-Добавляет новый оператор в коллекцию.
+Добавляет в коллекцию нового оператора.
 
 ```csharp
 public abstract void Add(Operator op)

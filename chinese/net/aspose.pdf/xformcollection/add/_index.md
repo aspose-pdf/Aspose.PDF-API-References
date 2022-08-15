@@ -16,7 +16,7 @@ public void Add(XForm xform)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xform | XForm | XForm 添加到集合 |
+| xform | XForm | XForm 添加到集合中 |
 
 ### 也可以看看
 

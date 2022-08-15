@@ -1,14 +1,14 @@
 ---
 title: AllowDegradedPrinting
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает разрешение разрешающее печать с ухудшением качества или нет. true разрешает false запрещает.
+description: Устанавливает разрешение разрешающее печать с ухудшенным качеством или нет. true  разрешено false  запрещено.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowdegradedprinting/
 ---
 ## DocumentPrivilege.AllowDegradedPrinting property
 
-Устанавливает разрешение, разрешающее печать с ухудшением качества или нет. true разрешает, false запрещает.
+Устанавливает разрешение, разрешающее печать с ухудшенным качеством или нет. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowDegradedPrinting { get; set; }

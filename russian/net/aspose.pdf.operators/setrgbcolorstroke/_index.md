@@ -31,7 +31,7 @@ public class SetRGBColorStroke : SetColorOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setrgbcolorstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setrgbcolorstroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor)() | Возвращает цвет, указанный оператором. |
 | override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring)() | Возвращает текстовое представление оператора. |
 

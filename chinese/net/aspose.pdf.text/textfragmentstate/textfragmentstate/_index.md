@@ -1,14 +1,14 @@
 ---
 title: TextFragmentState
 second_title: Aspose.PDF for .NET API 参考
-description: 用指定的初始化 TextFragmentStateaspose.pdf.text/textfragmentstate 对象的新实例 TextFragmentaspose.pdf.text/textfragment 对象 这个TextFragmentStateaspose.pdf.text/textfragmentstate初始化不受支持 TextFragmentState 仅适用于TextStateaspose.pdf.text/textfragment/textstate属性
+description: 初始化TextFragmentStateaspose.pdf.text/textfragmentstate指定的对象TextFragmentaspose.pdf.text/textfragmentobject. 这个TextFragmentStateaspose.pdf.text/textfragmentstate不支持初始化 TextFragmentState 仅适用于TextStateaspose.pdf.text/textfragment/textstate属性.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textfragmentstate/textfragmentstate/
 ---
 ## TextFragmentState constructor
 
-用指定的初始化 [`TextFragmentState`](../../textfragmentstate) 对象的新实例 [`TextFragment`](../../textfragment) 对象。 这个[`TextFragmentState`](../../textfragmentstate)初始化不受支持。 TextFragmentState 仅适用于[`TextState`](../../textfragment/textstate)属性。
+初始化[`TextFragmentState`](../../textfragmentstate)指定的对象[`TextFragment`](../../textfragment)object. 这个[`TextFragmentState`](../../textfragmentstate)不支持初始化。 TextFragmentState 仅适用于[`TextState`](../../textfragment/textstate)属性.
 
 ```csharp
 public TextFragmentState(TextFragment fragment)

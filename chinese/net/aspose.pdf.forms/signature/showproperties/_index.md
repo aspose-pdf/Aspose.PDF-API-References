@@ -1,14 +1,14 @@
 ---
 title: ShowProperties
 second_title: Aspose.PDF for .NET API 参考
-description: 强制显示/隐藏签名属性 如果 ShowProperties 为真则签名字段具有预定义的外观格式要表示的字符串 ------------------ ------------------------- 由 certificate subject 数字签名 Datesignature .Date 原因signature.Reason 位置signature.Location ------------ ------------------------------- 其中 X 是 X 值的占位符签名也可以有图像在这种情况下列出的字符串放在图像上 ShowProperties 默认为真
+description: 强制显示/隐藏签名属性 如果 ShowProperties 为真签名字段具有预定义的外观格式要表示的字符串 --------- ---------------------- 由 certificate subject 数字签名 日期signature.Date 原因signature.Reason 位置签名.位置 ------------------------------------------- 哪里X 是 X 值的占位符签名也可以有图像在这种情况下列出的字符串放在图像上 ShowProperties 默认为真
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.forms/signature/showproperties/
 ---
 ## Signature.ShowProperties property
 
-强制显示/隐藏签名属性。 如果 ShowProperties 为真，则签名字段具有预定义的外观格式（要表示的字符串）: ------------------ ------------------------- 由 {certificate subject} 数字签名 Date:{signature .Date} 原因:{signature.Reason} 位置:{signature.Location} ------------ ------------------------------- 其中 {X} 是 X 值的占位符。签名也可以有图像，在这种情况下，列出的字符串放在图像上。 ShowProperties 默认为真。
+强制显示/隐藏签名属性。 如果 ShowProperties 为真，签名字段具有预定义的外观格式（要表示的字符串）： --------- ---------------------- 由 {certificate subject} 数字签名 日期：{signature.Date} 原因：{signature.Reason} 位置：{签名.位置} ------------------------------------------- 哪里{X} 是 X 值的占位符。签名也可以有图像，在这种情况下，列出的字符串放在图像上。 ShowProperties 默认为真。
 
 ```csharp
 public bool ShowProperties { get; set; }

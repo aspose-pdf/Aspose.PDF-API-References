@@ -1,14 +1,14 @@
 ---
 title: SearchForTextRelatedGraphics
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置允许在文本搜索期间搜索文本相关图形下划线背景等的值 true - 将执行与文本相关的图形搜索默认值 false - 源文档中可能出现的图形元素将被忽略如果出现性能问题或不需要处理下划线背景或剪裁请设置此项
+description: 获取或设置允许在文本搜索期间搜索文本相关图形下划线背景等的值 true - 将执行文本相关图形搜索默认值 false - 可能出现在源文档中的图形元素将被忽略如果出现性能问题或不需要处理下划线背景或剪辑请设置此项
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics/
 ---
 ## TextSearchOptions.SearchForTextRelatedGraphics property
 
-获取或设置允许在文本搜索期间搜索文本相关图形（下划线、背景等）的值。 true - 将执行与文本相关的图形搜索（默认值）。 false - 源文档中可能出现的图形元素将被忽略。如果出现性能问题或不需要处理下划线、背景或剪裁，请设置此项。
+获取或设置允许在文本搜索期间搜索文本相关图形（下划线、背景等）的值。 true - 将执行文本相关图形搜索（默认值）。 false - 可能出现在源文档中的图形元素将被忽略。如果出现性能问题或不需要处理下划线、背景或剪辑，请设置此项。
 
 ```csharp
 public bool SearchForTextRelatedGraphics { get; set; }

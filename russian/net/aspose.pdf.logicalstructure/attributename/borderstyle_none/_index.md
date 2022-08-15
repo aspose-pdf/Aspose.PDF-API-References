@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_None
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleNone  без рамки. Заставляет вычисленное значение BorderThickness равным 0.
+description: Атрибут BorderStyle Нет  без рамки. Заставляет вычисленное значение BorderThickness равным 0.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/
 ---
 ## AttributeName.BorderStyle_None field
 
-Атрибут BorderStyle:None — без рамки. Заставляет вычисленное значение BorderThickness равным 0.
+Атрибут BorderStyle: Нет — без рамки. Заставляет вычисленное значение BorderThickness равным 0.
 
 ```csharp
 public static readonly AttributeName BorderStyle_None;

@@ -1,14 +1,14 @@
 ---
 title: ContainsTransparency
 second_title: Aspose.PDF для справочника API .NET
-description: Если изображение содержит прозрачность то вернуть true в противном случае ложно.
+description: Если изображение содержит прозрачность то вернуть true в противном случае false.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/ximage/containstransparency/
 ---
 ## XImage.ContainsTransparency property
 
-Если изображение содержит прозрачность, то вернуть true; в противном случае ложно.
+Если изображение содержит прозрачность, то вернуть true; в противном случае false.
 
 ```csharp
 public bool ContainsTransparency { get; }

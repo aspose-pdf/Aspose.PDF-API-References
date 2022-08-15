@@ -1,14 +1,14 @@
 ---
 title: GraphInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает объектGraphInfoaspose.pdf.drawing/shape/graphinfo который указывает информацию о графике такую как цвет ширина строки и т.д.
+description: Получает или задаетGraphInfoaspose.pdf.drawing/shape/graphinfo объект который указывает информацию о графике такую как цвет ширина линии и т. д.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/shape/graphinfo/
 ---
 ## Shape.GraphInfo property
 
-Получает или задает объект`GraphInfo`, который указывает информацию о графике, такую как цвет ширина строки и т.д.
+Получает или задает`GraphInfo` объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д.
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }

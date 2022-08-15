@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置内容文件 该属性返回加载到内存中的数据可能会导致大数据出现内存不足异常 要减少内存使用请使用 StreamContents
+description: 获取或设置内容文件 此属性返回加载到内存中的数据这可能会导致大数据出现内存不足异常 要减少内存使用请使用 StreamContents
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/filespecification/contents/
 ---
 ## FileSpecification.Contents property
 
-获取或设置内容文件。 该属性返回加载到内存中的数据，可能会导致大数据出现内存不足异常。 要减少内存使用，请使用 StreamContents。
+获取或设置内容文件。 此属性返回加载到内存中的数据，这可能会导致大数据出现内存不足异常。 要减少内存使用，请使用 StreamContents。
 
 ```csharp
 public Stream Contents { get; set; }

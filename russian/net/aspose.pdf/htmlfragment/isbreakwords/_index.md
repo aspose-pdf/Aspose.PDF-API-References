@@ -1,14 +1,14 @@
 ---
 title: IsBreakWords
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает разрыв слов
+description: Получает или задает слова break
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/htmlfragment/isbreakwords/
 ---
 ## HtmlFragment.IsBreakWords property
 
-Получает или устанавливает разрыв слов
+Получает или задает слова break
 
 ```csharp
 public bool IsBreakWords { get; set; }

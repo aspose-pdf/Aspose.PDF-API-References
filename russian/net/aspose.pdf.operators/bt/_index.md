@@ -1,14 +1,14 @@
 ---
 title: BT
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор BT начало текстового блока.
+description: Класс представляющий оператора BT начало текстового блока.
 type: docs
 weight: 4910
 url: /ru/net/aspose.pdf.operators/bt/
 ---
 ## BT class
 
-Класс, представляющий оператор BT (начало текстового блока).
+Класс, представляющий оператора BT (начало текстового блока).
 
 ```csharp
 public class BT : BlockTextOperator
@@ -30,7 +30,7 @@ public class BT : BlockTextOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bt/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/bt/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/bt/tostring)() | Выводит текстовый код оператора. |
 
 ### Смотрите также

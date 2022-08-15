@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/documentinfo/keywords/
 ---
 ## DocumentInfo.Keywords property
 
-获取或设置文档的关键字。
+获取或设置文档的关键字
 
 ```csharp
 public string Keywords { get; set; }

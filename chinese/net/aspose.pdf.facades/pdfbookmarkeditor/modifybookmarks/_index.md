@@ -17,7 +17,7 @@ public void ModifyBookmarks(string sTitle, string dTitle)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | sTitle | String | 源书签标题。 |
-| dTitle | String | 修改后的书签标题。 |
+| dTitle | String | 修改书签标题。 |
 
 ### 例子
 

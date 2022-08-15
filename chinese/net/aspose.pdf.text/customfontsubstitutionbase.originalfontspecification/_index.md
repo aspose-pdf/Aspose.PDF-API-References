@@ -18,13 +18,13 @@ public sealed class OriginalFontSpecification
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsEmbedded](../../aspose.pdf.text/originalfontspecification/isembedded) { get; } | 获取指示是否嵌入字体的值。 |
+| [IsEmbedded](../../aspose.pdf.text/originalfontspecification/isembedded) { get; } | 获取一个表示字体是否嵌入的值。 |
 | [IsSubstitutionUnavoidable](../../aspose.pdf.text/originalfontspecification/issubstitutionunavoidable) { get; } | 获取指示替换不可避免的值。 |
 | [OriginalFontName](../../aspose.pdf.text/originalfontspecification/originalfontname) { get; } | 获取原始字体名称。 |
 
 ### 评论
 
-提供与原始字体相关的信息，例如,标志。 还提供标志，有助于检查字体 是否会发生替换 并且用户可以覆盖默认的替换逻辑。
+提供与原始字体相关的信息，例如,flag. 还提供有助于检查的标志是否无论如何都会使用字体 发生替换，并且用户可以覆盖默认替换逻辑。
 
 ### 也可以看看
 

@@ -32,7 +32,7 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| removeSpaces | Boolean | 设置[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames)flag |
+| removeSpaces | Boolean | 套[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames)旗帜 |
 
 ### 也可以看看
 
@@ -52,8 +52,8 @@ public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSp
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| removeSpaces | Boolean | 设置[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames)flag |
-| mapNonLinkedUnicodesOnSpace | Boolean | 设置[`MapNonLinkedSymbolsOnSpace`](../mapnonlinkedsymbolsonspace)标志 |
+| removeSpaces | Boolean | 套[`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames)旗帜 |
+| mapNonLinkedUnicodesOnSpace | Boolean | 套[`MapNonLinkedSymbolsOnSpace`](../mapnonlinkedsymbolsonspace)旗帜 |
 
 ### 也可以看看
 

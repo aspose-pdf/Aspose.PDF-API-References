@@ -1,14 +1,14 @@
 ---
 title: IgnoreNeedsRendering
 second_title: Aspose.PDF для справочника API .NET
-description: Если это свойство равно true значение ключа NeedsRendering будет игнорироваться при преобразовании формы XFA в стандартную форму. По умолчанию это ложь.
+description: Если это свойство истинно значение ключа NeedsRendering будет игнорироваться при преобразовании формы XFA в стандартную форму. По умолчанию это ложь.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/form/ignoreneedsrendering/
 ---
 ## Form.IgnoreNeedsRendering property
 
-Если это свойство равно true, значение ключа NeedsRendering будет игнорироваться при преобразовании формы XFA в стандартную форму. По умолчанию это ложь.
+Если это свойство истинно, значение ключа NeedsRendering будет игнорироваться при преобразовании формы XFA в стандартную форму. По умолчанию это ложь.
 
 ```csharp
 public bool IgnoreNeedsRendering { get; set; }

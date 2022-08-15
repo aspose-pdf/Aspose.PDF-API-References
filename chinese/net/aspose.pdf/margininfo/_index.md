@@ -1,14 +1,14 @@
 ---
 title: MarginInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示不同对象的边距
+description: 这个类代表不同对象的边距
 type: docs
 weight: 4730
 url: /zh/net/aspose.pdf/margininfo/
 ---
 ## MarginInfo class
 
-此类表示不同对象的边距。
+这个类代表不同对象的边距。
 
 ```csharp
 public sealed class MarginInfo : ICloneable
@@ -18,8 +18,8 @@ public sealed class MarginInfo : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MarginInfo](margininfo#constructor)() | 初始化[`MarginInfo`](../margininfo)类的新实例。 |
-| [MarginInfo](margininfo#constructor_1)(double, double, double, double) | 矩形的构造函数。 |
+| [MarginInfo](margininfo#constructor)() | 初始化[`MarginInfo`](../margininfo)类. |
+| [MarginInfo](margininfo#constructor_1)(double, double, double, double) | 矩形的构造函数. |
 
 ## 特性
 
@@ -34,7 +34,7 @@ public sealed class MarginInfo : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.pdf/margininfo/clone)() | 克隆一个新的[`MarginInfo`](../margininfo)对象。 |
+| [Clone](../../aspose.pdf/margininfo/clone)() | 克隆一个新的[`MarginInfo`](../margininfo)对象. |
 
 ### 也可以看看
 

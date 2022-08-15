@@ -18,9 +18,9 @@ public sealed class FontNotFoundException : ApplicationException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception#constructor)(Exception) | 使用指定的错误消息初始化[`FontNotFoundException`](../fontnotfoundexception) 类的新实例以及对导致此异常的内部异常的引用。 |
-| [FontNotFoundException](fontnotfoundexception#constructor_1)(string) | 初始化[`FontNotFoundException`](../fontnotfoundexception)类的新实例。 |
-| [FontNotFoundException](fontnotfoundexception#constructor_2)(string, Exception) | 使用指定的错误消息初始化[`FontNotFoundException`](../fontnotfoundexception) 类的新实例以及对导致此异常的内部异常的引用。 |
+| [FontNotFoundException](fontnotfoundexception#constructor)(Exception) | 初始化[`FontNotFoundException`](../fontnotfoundexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
+| [FontNotFoundException](fontnotfoundexception#constructor_1)(string) | 初始化[`FontNotFoundException`](../fontnotfoundexception)类. |
+| [FontNotFoundException](fontnotfoundexception#constructor_2)(string, Exception) | 初始化[`FontNotFoundException`](../fontnotfoundexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

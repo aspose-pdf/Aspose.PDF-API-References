@@ -1,14 +1,14 @@
 ---
 title: HasErrors
 second_title: Aspose.PDF для справочника API .NET
-description: Значение указывает были ли обнаружены ошибки при извлечении текста. Поиск ошибок будет производиться только если TextSearchOptions.LogTextExtractionErrors  true И это может снизить производительность.
+description: Значение указывает были ли обнаружены ошибки при извлечении текста. Поиск ошибок будет выполняться только если TextSearchOptions.LogTextExtractionErrors  true И это может снизить производительность.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/haserrors/
 ---
 ## TextFragmentAbsorber.HasErrors property
 
-Значение указывает, были ли обнаружены ошибки при извлечении текста. Поиск ошибок будет производиться только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность.
+Значение указывает, были ли обнаружены ошибки при извлечении текста. Поиск ошибок будет выполняться, только если TextSearchOptions.LogTextExtractionErrors = true; И это может снизить производительность.
 
 ```csharp
 public bool HasErrors { get; }

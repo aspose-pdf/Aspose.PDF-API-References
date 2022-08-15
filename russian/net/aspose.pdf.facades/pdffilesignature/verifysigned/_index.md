@@ -16,7 +16,7 @@ public bool VerifySigned(string signName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signName | String | Имя подписи. |
+| signName | String | Название подписи. |
 
 ### Возвращаемое значение
 

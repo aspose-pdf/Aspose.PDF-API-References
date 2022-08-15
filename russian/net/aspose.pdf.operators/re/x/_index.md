@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.PDF для справочника API .NET
-description: Координата X самой левой стороны прямоугольника.
+description: X-координата крайней левой стороны прямоугольника.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/re/x/
 ---
 ## Re.X property
 
-Координата X самой левой стороны прямоугольника.
+X-координата крайней левой стороны прямоугольника.
 
 ```csharp
 public double X { get; set; }

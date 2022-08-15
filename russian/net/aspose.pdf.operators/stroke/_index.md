@@ -30,7 +30,7 @@ public class Stroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/stroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/stroke/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/stroke/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

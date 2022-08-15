@@ -1,14 +1,14 @@
 ---
 title: GradientAxialShading
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаGradientAxialShadingaspose.pdf.drawing/gradientaxialshading.
+description: Инициализирует новый экземплярGradientAxialShadingaspose.pdf.drawing/gradientaxialshading класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
 ---
 ## GradientAxialShading() {#constructor}
 
-Инициализирует новый экземпляр класса[`GradientAxialShading`](../../gradientaxialshading).
+Инициализирует новый экземпляр[`GradientAxialShading`](../../gradientaxialshading) класс.
 
 ```csharp
 public GradientAxialShading()
@@ -24,7 +24,7 @@ public GradientAxialShading()
 
 ## GradientAxialShading(Color, Color) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GradientAxialShading`](../../gradientaxialshading).
+Инициализирует новый экземпляр[`GradientAxialShading`](../../gradientaxialshading) класс.
 
 ```csharp
 public GradientAxialShading(Color startColor, Color endColor)

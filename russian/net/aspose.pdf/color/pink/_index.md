@@ -1,14 +1,14 @@
 ---
 title: Pink
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFFC0CB.
+description: Получает определяемый системой цвет со значением ARGB FFFFC0CB.
 type: docs
 weight: 1110
 url: /ru/net/aspose.pdf/color/pink/
 ---
 ## Color.Pink property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFFC0CB.
+Получает определяемый системой цвет со значением ARGB #FFFFC0CB.
 
 ```csharp
 public static Color Pink { get; }

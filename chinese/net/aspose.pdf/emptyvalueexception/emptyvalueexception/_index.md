@@ -1,14 +1,14 @@
 ---
 title: EmptyValueException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化EmptyValueExceptionaspose.pdf/emptyvalueexception类的新实例
+description: 初始化EmptyValueExceptionaspose.pdf/emptyvalueexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
 ---
 ## EmptyValueException() {#constructor}
 
-初始化[`EmptyValueException`](../../emptyvalueexception)类的新实例。
+初始化[`EmptyValueException`](../../emptyvalueexception)类.
 
 ```csharp
 public EmptyValueException()
@@ -24,7 +24,7 @@ public EmptyValueException()
 
 ## EmptyValueException(string) {#constructor_1}
 
-构造函数。
+构造函数.
 
 ```csharp
 public EmptyValueException(string message)

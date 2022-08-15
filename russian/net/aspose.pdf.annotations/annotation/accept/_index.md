@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF для справочника API .NET
-description: Принимает посетителей для обработки аннотаций.
+description: Принимает посетителя для обработки аннотации.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.annotations/annotation/accept/
 ---
 ## Annotation.Accept method
 
-Принимает посетителей для обработки аннотаций.
+Принимает посетителя для обработки аннотации.
 
 ```csharp
 public abstract void Accept(AnnotationSelector visitor)

@@ -16,7 +16,7 @@ public void Remove(BaseParagraph paragraph)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| paragraph | BaseParagraph | 段落。 |
+| paragraph | BaseParagraph | 这段落。 |
 
 ### 也可以看看
 

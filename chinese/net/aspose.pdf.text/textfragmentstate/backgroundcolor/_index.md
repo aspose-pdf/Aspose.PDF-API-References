@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API 参考
-description: 设置文本的背景颜色由TextFragmentaspose.pdf.text/textfragmentobject 表示
+description: 设置文本的背景颜色由TextFragmentaspose.pdf.text/textfragmentobject
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/textfragmentstate/backgroundcolor/
 ---
 ## TextFragmentState.BackgroundColor property
 
-设置文本的背景颜色，由[`TextFragment`](../../textfragment)object 表示
+设置文本的背景颜色，由[`TextFragment`](../../textfragment)object
 
 ```csharp
 public override Color BackgroundColor { get; set; }

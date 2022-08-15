@@ -1,14 +1,14 @@
 ---
 title: HeaderFooter
 second_title: Aspose.PDF for .NET API 参考
-description: 类表示pdf页面的页眉或页脚
+description: 类代表pdf页面的页眉或页脚
 type: docs
 weight: 3350
 url: /zh/net/aspose.pdf/headerfooter/
 ---
 ## HeaderFooter class
 
-类表示pdf页面的页眉或页脚。
+类代表pdf页面的页眉或页脚。
 
 ```csharp
 public sealed class HeaderFooter : ICloneable

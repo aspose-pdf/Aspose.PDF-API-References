@@ -18,7 +18,7 @@ public sealed class SelectorRendition : Rendition
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name) { get; set; } | 文本字符串，指定用于用户界面和 JavaScript 操作的名称树查找的再现名称。 |
+| [Name](../../aspose.pdf.annotations/rendition/name) { get; set; } | 指定再现名称的文本字符串，用于用户界面和 JavaScript 操作的名称树查找。 |
 | [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions) { get; } | 获取演绎版数组。 |
 | [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype) { get; } | 获取再现类型。 |
 

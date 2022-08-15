@@ -16,8 +16,8 @@ public void RenameField(string fieldName, string newFieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Старое имя поля. |
-| newFieldName | String | Новое имя поля. |
+| fieldName | String | Старое название поля. |
+| newFieldName | String | Новое название поля. |
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: IsApplyResolution
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个布尔值指示图像生成时是否使用分辨率
+description: 获取或设置一个布尔值指示图像在生成期间是否使用分辨率
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/image/isapplyresolution/
 ---
 ## Image.IsApplyResolution property
 
-获取或设置一个布尔值，指示图像生成时是否使用分辨率
+获取或设置一个布尔值，指示图像在生成期间是否使用分辨率
 
 ```csharp
 public bool IsApplyResolution { get; set; }

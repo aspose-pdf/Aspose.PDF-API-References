@@ -18,12 +18,12 @@ public sealed class BmpDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BmpDevice](bmpdevice#constructor)() | 使用默认分辨率初始化[`BmpDevice`](../bmpdevice)类的新实例。 |
-| [BmpDevice](bmpdevice#constructor_2)(PageSize) | 使用提供的页面大小 初始化[`BmpDevice`](../bmpdevice)类的新实例默认分辨率（=150）。 |
-| [BmpDevice](bmpdevice#constructor_1)(Resolution) | 初始化[`BmpDevice`](../bmpdevice)类的新实例。  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
-| [BmpDevice](bmpdevice#constructor_4)(int, int) | 使用提供的图像尺寸 初始化[`BmpDevice`](../bmpdevice)类的新实例默认分辨率（=150）。 |
-| [BmpDevice](bmpdevice#constructor_3)(PageSize, Resolution) | 使用提供的页面大小和 初始化[`BmpDevice`](../bmpdevice)类的新实例解析度。 |
-| [BmpDevice](bmpdevice#constructor_5)(int, int, Resolution) | 使用提供的图像尺寸和 初始化[`BmpDevice`](../bmpdevice)类的新实例解析度。 |
+| [BmpDevice](bmpdevice#constructor)() | 初始化[`BmpDevice`](../bmpdevice)具有默认分辨率的类。 |
+| [BmpDevice](bmpdevice#constructor_2)(PageSize) | 初始化[`BmpDevice`](../bmpdevice)具有提供页面大小的类， 默认分辨率 (=150). |
+| [BmpDevice](bmpdevice#constructor_1)(Resolution) | 初始化[`BmpDevice`](../bmpdevice)类.  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
+| [BmpDevice](bmpdevice#constructor_4)(int, int) | 初始化[`BmpDevice`](../bmpdevice)具有提供图像尺寸的类， 默认分辨率 (=150). |
+| [BmpDevice](bmpdevice#constructor_3)(PageSize, Resolution) | 初始化[`BmpDevice`](../bmpdevice)提供页面大小和 分辨率的类。 |
+| [BmpDevice](bmpdevice#constructor_5)(int, int, Resolution) | 初始化[`BmpDevice`](../bmpdevice)具有提供图像尺寸和 分辨率的类。 |
 
 ## 特性
 
@@ -40,7 +40,7 @@ public sealed class BmpDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/bmpdevice/process#process)(Page, Stream) | 将页面转换为 bmp 并保存在输出流中。 |
+| override [Process](../../aspose.pdf.devices/bmpdevice/process#process)(Page, Stream) | 将页面转换为bmp并保存在输出流中。 |
 | [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | 在给定页面上执行一些操作并将结果保存到文件中。 |
 
 ### 也可以看看

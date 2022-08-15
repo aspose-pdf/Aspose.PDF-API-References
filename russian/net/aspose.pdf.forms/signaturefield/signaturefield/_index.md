@@ -1,14 +1,14 @@
 ---
 title: SignatureField
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаSignatureFieldaspose.pdf.forms/signaturefield.
+description: Инициализирует новый экземплярSignatureFieldaspose.pdf.forms/signaturefield класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/signaturefield/signaturefield/
 ---
 ## SignatureField(Page, Rectangle) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SignatureField`](../../signaturefield).
+Инициализирует новый экземпляр[`SignatureField`](../../signaturefield) класс.
 
 ```csharp
 public SignatureField(Page page, Rectangle rect)
@@ -16,8 +16,8 @@ public SignatureField(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой должно быть размещено поле подписи. |
-| rect | Rectangle | Позиция и размер поля подписи. |
+| page | Page | Страница, на которой должно быть размещено поле для подписи. |
+| rect | Rectangle | Положение и размер поля подписи. |
 
 ### Смотрите также
 
@@ -31,7 +31,7 @@ public SignatureField(Page page, Rectangle rect)
 
 ## SignatureField(Document, Rectangle) {#constructor}
 
-Инициализирует новый экземпляр класса[`SignatureField`](../../signaturefield).
+Инициализирует новый экземпляр[`SignatureField`](../../signaturefield) класс.
 
 ```csharp
 public SignatureField(Document doc, Rectangle rect)
@@ -39,8 +39,8 @@ public SignatureField(Document doc, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Страница, на которой должно быть размещено поле подписи. |
-| rect | Rectangle | Позиция и размер поля подписи. |
+| doc | Document | Страница, на которой должно быть размещено поле для подписи. |
+| rect | Rectangle | Положение и размер поля подписи. |
 
 ### Смотрите также
 

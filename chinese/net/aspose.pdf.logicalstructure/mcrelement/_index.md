@@ -18,8 +18,8 @@ public sealed class MCRElement : Element
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | 获取Element对象的子集合。 |
-| [Content](../../aspose.pdf.logicalstructure/mcrelement/content) { get; } | 获取标记内容参考元素的文本内容。 |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | 获取子集合Element对象. |
+| [Content](../../aspose.pdf.logicalstructure/mcrelement/content) { get; } | 获取标记内容引用元素的文本内容。 |
 | [ImageSrc](../../aspose.pdf.logicalstructure/mcrelement/imagesrc) { get; } | 获取标记内容参考元素的图像源。 |
 | [MCID](../../aspose.pdf.logicalstructure/mcrelement/mcid) { get; } | 获取标记内容引用对象的 MCID。 |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | 获取父元素。 |
@@ -28,7 +28,7 @@ public sealed class MCRElement : Element
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | 附加Element到子集合。 |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | 追加Element收集儿童。 |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | 查找给定类型的元素 |
 | override [ToString](../../aspose.pdf.logicalstructure/mcrelement/tostring)() | 返回代表当前对象的字符串。 |
 

@@ -1,14 +1,14 @@
 ---
 title: Arc
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Arcaspose.pdf.drawing/arc类的新实例
+description: 初始化Arcaspose.pdf.drawing/arc类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/arc/arc/
 ---
 ## Arc constructor
 
-初始化[`Arc`](../../arc)类的新实例。
+初始化[`Arc`](../../arc)类.
 
 ```csharp
 public Arc(float posX, float posY, float radius, float alpha, float beta)

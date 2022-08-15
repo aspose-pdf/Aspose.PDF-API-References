@@ -1,14 +1,14 @@
 ---
 title: MemoryFontSource
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化MemoryFontSourceaspose.pdf.text/memoryfontsource类的新实例
+description: 初始化一个新的实例MemoryFontSourceaspose.pdf.text/memoryfontsource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 ---
 ## MemoryFontSource constructor
 
-初始化[`MemoryFontSource`](../../memoryfontsource)类的新实例。
+初始化一个新的实例[`MemoryFontSource`](../../memoryfontsource)类.
 
 ```csharp
 public MemoryFontSource(byte[] fontBytes)

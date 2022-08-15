@@ -29,7 +29,7 @@ public HeaderElement CreateHeaderElement()
 
 ## CreateHeaderElement(int) {#createheaderelement_1}
 
-Создает[`HeaderElement`](../../../aspose.pdf.logicalstructure/headerelement)с уровнем.
+Создает[`HeaderElement`](../../../aspose.pdf.logicalstructure/headerelement) с уровнем.
 
 ```csharp
 public HeaderElement CreateHeaderElement(int level)

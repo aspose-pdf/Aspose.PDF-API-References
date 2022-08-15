@@ -1,14 +1,14 @@
 ---
 title: CreateParagraphElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建ParagraphElementaspose.pdf.logicalstructure/paragraphelement
+description: 创建ParagraphElementaspose.pdf.logicalstructure/paragraphelement.
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/
 ---
 ## ITaggedContent.CreateParagraphElement method
 
-创建[`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement)。
+创建[`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement).
 
 ```csharp
 public ParagraphElement CreateParagraphElement()
@@ -16,7 +16,7 @@ public ParagraphElement CreateParagraphElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

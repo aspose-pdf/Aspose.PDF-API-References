@@ -21,7 +21,7 @@ public enum ImageFormat
 | Bmp | `0` | BMP 格式。 |
 | Jpeg | `1` | JPEG 格式。 |
 | Gif | `2` | GIF 格式。 |
-| Png | `3` | PNG 格式。 |
+| Png | `3` | PNG 格式. |
 | Tiff | `4` | TIFF 格式。 |
 | Emf | `5` | EMF 格式。 |
 

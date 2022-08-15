@@ -19,13 +19,13 @@ public class PDF3DViewArray
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dviewarray/count) { get; } | Получает количество просмотров. |
-| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item) { get; set; } | Получает или задает[`PDF3DView`](../pdf3dview)для просмотра массива по указанному индексу. |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item) { get; set; } | Получает или задает[`PDF3DView`](../pdf3dview) для просмотра массива по указанному индексу. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdf3dviewarray/add)(PDF3DView) | Добавляет указанный вид. |
+| [Add](../../aspose.pdf.annotations/pdf3dviewarray/add)(PDF3DView) | Добавляет указанное представление. |
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dviewarray/removeall)() | Удаляет все представления. |
 | [RemoveAt](../../aspose.pdf.annotations/pdf3dviewarray/removeat)(int) | Удаляет представление из массива представлений по указанному индексу. |
 

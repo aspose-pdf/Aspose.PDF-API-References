@@ -1,14 +1,14 @@
 ---
 title: GetText
 second_title: Aspose.PDF для справочника API .NET
-description: Сохраняет текст в файл. см. такжеExtractTextaspose.pdf.facades/pdfextractor/extracttext
+description: Сохраняет текст в файл. смотрите такжеExtractTextaspose.pdf.facades/pdfextractor/extracttext
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/pdfextractor/gettext/
 ---
 ## GetText(string) {#gettext_2}
 
-Сохраняет текст в файл. см. также:[`ExtractText`](../extracttext)
+Сохраняет текст в файл. смотрите также:[`ExtractText`](../extracttext)
 
 ```csharp
 public void GetText(string outputFile)
@@ -28,7 +28,7 @@ public void GetText(string outputFile)
 
 ## GetText(Stream) {#gettext}
 
-Сохраняет текст в поток. см. также:[`ExtractText`](../extracttext)
+Сохраняет текст в поток. смотрите также:[`ExtractText`](../extracttext)
 
 ```csharp
 public void GetText(Stream outputStream)
@@ -48,7 +48,7 @@ public void GetText(Stream outputStream)
 
 ## GetText(Stream, bool) {#gettext_1}
 
-Сохраняет текст в поток. см. также:[`ExtractText`](../extracttext)
+Сохраняет текст в поток. смотрите также:[`ExtractText`](../extracttext)
 
 ```csharp
 public void GetText(Stream outputStream, bool filterNotAscii)
@@ -57,7 +57,7 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения текста. |
-| filterNotAscii | Boolean | Если этот параметр равен true, все символы не ASCII будут удалены |
+| filterNotAscii | Boolean | Если этот параметр имеет значение true, все символы, отличные от ASCII, будут удалены. |
 
 ### Смотрите также
 

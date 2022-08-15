@@ -1,14 +1,14 @@
 ---
 title: IsInLineParagraph
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает встроенный абзац. По умолчанию false. для генерации pdf
+description: Получает или задает встроенный абзац. Значение по умолчанию  false. для создания pdf
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/baseparagraph/isinlineparagraph/
 ---
 ## BaseParagraph.IsInLineParagraph property
 
-Получает или задает встроенный абзац. По умолчанию false. (для генерации pdf)
+Получает или задает встроенный абзац. Значение по умолчанию — false. (для создания pdf)
 
 ```csharp
 public bool IsInLineParagraph { get; set; }

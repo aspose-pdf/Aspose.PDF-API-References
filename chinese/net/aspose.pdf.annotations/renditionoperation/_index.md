@@ -1,14 +1,14 @@
 ---
 title: RenditionOperation
 second_title: Aspose.PDF for .NET API 参考
-description: 触发动作时执行的操作
+description: 触发动作时要执行的操作
 type: docs
 weight: 1000
 url: /zh/net/aspose.pdf.annotations/renditionoperation/
 ---
 ## RenditionOperation enumeration
 
-触发动作时执行的操作。
+触发动作时要执行的操作。
 
 ```csharp
 public enum RenditionOperation
@@ -18,9 +18,9 @@ public enum RenditionOperation
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| PlayStop | `0` | 如果没有与注释关联的演绎，则播放指定的演绎，将其与注释相关联。如果一个演绎版已经与注释相关联，则它应停止，并且新的演绎版应与该注释相关联。 |
+| PlayStop | `0` | 如果没有与注释关联的演绎版，则播放指定的演绎版，将其与注释相关联。如果一个再现已经与注释相关联，它应该被停止，并且新的再现应该与注释相关联。 |
 | Stop | `1` | 停止与注释关联的任何播放。 |
-| Pause | `2` | 暂停正在播放的与注释相关的任何再现。 |
+| Pause | `2` | 暂停正在播放的与注释相关的任何演绎。 |
 | Resume | `3` | 恢复正在播放的与注释关联的任何再现。 |
 | PlayResume | `4` | 播放指定的演绎，将其与注释相关联。如果演绎版已与注释关联，则在暂停时恢复演绎版。 |
 | Undefined | `-1` | 操作未定义。 |

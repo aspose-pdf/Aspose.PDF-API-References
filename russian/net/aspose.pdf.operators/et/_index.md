@@ -30,7 +30,7 @@ public class ET : BlockTextOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/et/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/et/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/et/tostring)() | Выводит текстовый код оператора. |
 
 ### Смотрите также

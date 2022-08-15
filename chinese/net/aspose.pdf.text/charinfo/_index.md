@@ -18,7 +18,7 @@ public sealed class CharInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Position](../../aspose.pdf.text/charinfo/position) { get; } | 获取字符的位置。 |
+| [Position](../../aspose.pdf.text/charinfo/position) { get; } | 获取角色的位置。 |
 | [Rectangle](../../aspose.pdf.text/charinfo/rectangle) { get; } | 获取字符的矩形。 |
 
 ### 也可以看看

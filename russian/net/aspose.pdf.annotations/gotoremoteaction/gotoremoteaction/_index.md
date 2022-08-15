@@ -38,7 +38,7 @@ public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | remotePdf | String | Целевой PDF-документ. |
-| destination | ExplicitDestination | Destination в документе PDF. |
+| destination | ExplicitDestination | Место назначения в документе PDF. |
 
 ### Смотрите также
 

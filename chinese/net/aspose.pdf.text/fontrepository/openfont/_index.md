@@ -1,14 +1,14 @@
 ---
 title: OpenFont
 second_title: Aspose.PDF for .NET API 参考
-description: 打开具有指定字体流的字体
+description: 使用指定的字体流打开字体
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/fontrepository/openfont/
 ---
 ## OpenFont(Stream, FontTypes) {#openfont}
 
-打开具有指定字体流的字体。
+使用指定的字体流打开字体。
 
 ```csharp
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
@@ -29,25 +29,25 @@ public static Font OpenFont(Stream fontStream, FontTypes fontType)
 
 ```csharp
 // 打开字体
-ing (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
-
-  Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
+using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
+{
+    Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
     // 打开文档
-  Document doc = new Document(@"D:\Tests\input.pdf");
+    Document doc = new Document(@"D:\Tests\input.pdf");
 
     // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+    TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
     // 接受第一页的吸收器
-  doc.Pages[1].Accept(absorber);
+    doc.Pages[1].Accept(absorber);
 
     // 更改第一个文本出现的字体
-  absorber.TextFragments[1].TextState.Font = font;
+    absorber.TextFragments[1].TextState.Font = font;
 
     // 保存文档
-  doc.Save(@"D:\Tests\output.pdf"); 
-
+    doc.Save(@"D:\Tests\output.pdf"); 
+}
 ```
 
 ### 也可以看看
@@ -62,7 +62,7 @@ ing (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 
 ## OpenFont(string) {#openfont_1}
 
-打开具有指定字体文件路径的字体。
+使用指定的字体文件路径打开字体。
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
@@ -82,22 +82,22 @@ public static Font OpenFont(string fontFilePath)
 
 ```csharp
 // 打开字体
-nt font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
+Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 更改第一个文本出现的字体
-sorber.TextFragments[1].TextState.Font = font;
+absorber.TextFragments[1].TextState.Font = font;
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### 也可以看看
@@ -111,7 +111,7 @@ c.Save(@"D:\Tests\output.pdf");
 
 ## OpenFont(string, string) {#openfont_2}
 
-打开具有指定字体文件路径和度量文件路径的字体。
+使用指定的字体文件路径和度量文件路径打开字体。
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
@@ -128,26 +128,26 @@ public static Font OpenFont(string fontFilePath, string metricsFilePath)
 
 ### 例子
 
-该示例演示了如何打开带度量的 Type1 字体并替换第一页文本的字体。
+示例演示如何打开Type1 字体，并替换第一页文本的字体。
 
 ```csharp
 // 打开字体
-nt font = FontRepository.OpenFont("courier.pfb", "courier.afm");
+Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
 // 创建 TextFragmentAbsorber 对象以查找所有“hello world”文本出现
-xtFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // 接受第一页的吸收器
-c.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // 更改第一个文本出现的字体
-sorber.TextFragments[1].TextState.Font = font;
+absorber.TextFragments[1].TextState.Font = font;
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### 也可以看看

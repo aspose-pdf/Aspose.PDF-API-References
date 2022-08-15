@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет новое поле параметра в поле RadioButton
+description: Добавляет новое поле параметра в RadioButton field
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/add/
 ---
 ## RadioButtonField.Add method
 
-Добавляет новое поле параметра в поле RadioButton
+Добавляет новое поле параметра в RadioButton field
 
 ```csharp
 public void Add(RadioButtonOptionField newItem)
@@ -16,7 +16,7 @@ public void Add(RadioButtonOptionField newItem)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newItem | RadioButtonOptionField | Элемент, который должен быть добавлено. |
+| newItem | RadioButtonOptionField | Пункт, который следует добавить. |
 
 ### Смотрите также
 

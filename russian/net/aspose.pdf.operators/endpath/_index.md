@@ -1,14 +1,14 @@
 ---
 title: EndPath
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий n операторов конец пути без заливки или обводки.
+description: Класс представляющий n-оператор конец пути без заполнения или обводки.
 type: docs
 weight: 5140
 url: /ru/net/aspose.pdf.operators/endpath/
 ---
 ## EndPath class
 
-Класс, представляющий n операторов (конец пути без заливки или обводки).
+Класс, представляющий n-оператор (конец пути без заполнения или обводки).
 
 ```csharp
 public class EndPath : Operator
@@ -30,7 +30,7 @@ public class EndPath : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/endpath/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/endpath/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/endpath/tostring)() | Текстовое представление оператора. |
 
 ### Смотрите также

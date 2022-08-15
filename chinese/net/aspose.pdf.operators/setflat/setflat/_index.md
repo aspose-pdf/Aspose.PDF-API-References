@@ -1,14 +1,14 @@
 ---
 title: SetFlat
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setflat/setflat/
 ---
 ## SetFlat constructor
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public SetFlat(double flatness)
@@ -16,7 +16,7 @@ public SetFlat(double flatness)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| flatness | Double | 平面度值。 |
+| flatness | Double | 平整度值。 |
 
 ### 也可以看看
 

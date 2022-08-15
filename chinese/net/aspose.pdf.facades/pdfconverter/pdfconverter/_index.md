@@ -1,14 +1,14 @@
 ---
 title: PdfConverter
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化新的PdfConverteraspose.pdf.facades/pdfconverter对象
+description: 初始化新的PdfConverteraspose.pdf.facades/pdfconverter对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdfconverter/pdfconverter/
 ---
 ## PdfConverter() {#constructor}
 
-初始化新的[`PdfConverter`](../../pdfconverter)对象。
+初始化新的[`PdfConverter`](../../pdfconverter)对象.
 
 ```csharp
 public PdfConverter()
@@ -24,7 +24,7 @@ public PdfConverter()
 
 ## PdfConverter(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`PdfConverter`](../../pdfconverter)对象。
+初始化新的[`PdfConverter`](../../pdfconverter)对象基于*document*.
 
 ```csharp
 public PdfConverter(Document document)
@@ -32,7 +32,7 @@ public PdfConverter(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | Pdf 文档. |
 
 ### 也可以看看
 

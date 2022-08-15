@@ -24,7 +24,7 @@ public AnnotationSelector()
 
 ## AnnotationSelector(Annotation) {#constructor_1}
 
-Инициализирует новый[`AnnotationSelector`](../../annotationselector)объект.
+Инициализирует новый[`AnnotationSelector`](../../annotationselector) объект.
 
 ```csharp
 public AnnotationSelector(Annotation annotation)
@@ -32,7 +32,7 @@ public AnnotationSelector(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Выбираемая аннотация. Этот объект описывает только некоторые характеристики, которые мы хотим, чтобы найденные аннотации имели, например, тип аннотации. |
+| annotation | Annotation | Аннотация для выбора. Этот объект описывает только некоторые характеристики, которые должны быть у найденных аннотаций, например тип аннотации. |
 
 ### Смотрите также
 

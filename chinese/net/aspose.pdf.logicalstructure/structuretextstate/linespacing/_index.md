@@ -16,7 +16,7 @@ public float? LineSpacing { get; set; }
 
 ### 评论
 
-可以为空。使用 null 从父结构元素继承` LineSpacing` 属性。
+可以为空。使用 null 继承`行间距`父结构元素的属性.
 
 ### 也可以看看
 

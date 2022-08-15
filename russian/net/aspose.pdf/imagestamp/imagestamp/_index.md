@@ -1,14 +1,14 @@
 ---
 title: ImageStamp
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаImageStampaspose.pdf/imagestamp.
+description: Инициализирует новый экземплярImageStampaspose.pdf/imagestamp класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/imagestamp/imagestamp/
 ---
 ## ImageStamp(Stream) {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageStamp`](../../imagestamp).
+Инициализирует новый экземпляр[`ImageStamp`](../../imagestamp) класс.
 
 ```csharp
 public ImageStamp(Stream image)

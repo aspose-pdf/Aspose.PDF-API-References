@@ -1,14 +1,14 @@
 ---
 title: SetValue
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает параметр зависящий от приложения.
+description: Устанавливает параметр приложения.
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/filespecification/setvalue/
 ---
 ## FileSpecification.SetValue method
 
-Устанавливает параметр, зависящий от приложения.
+Устанавливает параметр приложения.
 
 ```csharp
 public void SetValue(string key, string value)

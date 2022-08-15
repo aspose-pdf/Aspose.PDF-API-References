@@ -1,14 +1,14 @@
 ---
 title: Re
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор re добавьте прямоугольник к пути.
+description: Класс представляющий оператор re добавить прямоугольник к пути.
 type: docs
 weight: 5300
 url: /ru/net/aspose.pdf.operators/re/
 ---
 ## Re class
 
-Класс, представляющий оператор re (добавьте прямоугольник к пути).
+Класс, представляющий оператор re (добавить прямоугольник к пути).
 
 ```csharp
 public class Re : Operator
@@ -28,14 +28,14 @@ public class Re : Operator
 | [Height](../../aspose.pdf.operators/re/height) { get; set; } | Высота прямоугольника. |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
 | [Width](../../aspose.pdf.operators/re/width) { get; set; } | Ширина прямоугольника. |
-| [X](../../aspose.pdf.operators/re/x) { get; set; } | Координата X самой левой стороны прямоугольника. |
+| [X](../../aspose.pdf.operators/re/x) { get; set; } | X-координата крайней левой стороны прямоугольника. |
 | [Y](../../aspose.pdf.operators/re/y) { get; set; } | Y-координата нижней стороны прямоугольника. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/re/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/re/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/re/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

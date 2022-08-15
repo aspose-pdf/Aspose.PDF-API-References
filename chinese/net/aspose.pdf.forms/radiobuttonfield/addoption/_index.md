@@ -30,7 +30,7 @@ public void AddOption(string optionName, Rectangle rect)
 
 ## AddOption(string) {#addoption}
 
-添加选项到单选按钮。
+向单选按钮添加选项。
 
 ```csharp
 public override void AddOption(string optionName)

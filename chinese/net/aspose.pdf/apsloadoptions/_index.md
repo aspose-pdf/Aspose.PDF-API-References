@@ -1,14 +1,14 @@
 ---
 title: ApsLoadOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 类描述aps加载选项
+description: 类描述 aps 加载选项
 type: docs
 weight: 1290
 url: /zh/net/aspose.pdf/apsloadoptions/
 ---
 ## ApsLoadOptions class
 
-类描述aps加载选项。
+类描述 aps 加载选项。
 
 ```csharp
 public class ApsLoadOptions : LoadOptions
@@ -24,8 +24,8 @@ public class ApsLoadOptions : LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ### 也可以看看
 

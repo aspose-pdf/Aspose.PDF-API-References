@@ -18,7 +18,7 @@ public class MoveTo : Operator
 
 | Имя | Описание |
 | --- | --- |
-| [MoveTo](moveto)(double, double) | Инициализирует новый оператор!:Operators.m(перейти к). |
+| [MoveTo](moveto)(double, double) | Инсталлирует новый!:Operators.m (перейти к) operator. |
 
 ## Характеристики
 
@@ -32,7 +32,7 @@ public class MoveTo : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/moveto/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/moveto/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/moveto/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

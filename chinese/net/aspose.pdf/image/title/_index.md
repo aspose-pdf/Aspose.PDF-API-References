@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示图像标题的字符串值
+description: 获取或设置表示图片标题的字符串值
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/image/title/
 ---
 ## Image.Title property
 
-获取或设置表示图像标题的字符串值。
+获取或设置表示图片标题的字符串值。
 
 ```csharp
 public TextFragment Title { get; set; }

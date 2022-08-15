@@ -19,7 +19,7 @@ public class AbsorbedCell : ITableElement
 | Имя | Описание |
 | --- | --- |
 | [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle) { get; } | Получает прямоугольник, описывающий положение ячейки на странице |
-| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments) { get; } | Получает коллекцию объектов[`TextFragment`](../textfragment), описывающих текст, содержащийся в ячейке |
+| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments) { get; } | Получает коллекцию[`TextFragment`](../textfragment) объекты, описывающие текст, содержащийся в ячейке |
 
 ### Смотрите также
 

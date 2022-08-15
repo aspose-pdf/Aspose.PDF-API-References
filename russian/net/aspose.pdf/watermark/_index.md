@@ -18,7 +18,7 @@ public class Watermark
 
 | Имя | Описание |
 | --- | --- |
-| [Watermark](watermark#constructor)(Image) | Инициализирует объект водяного знака изображением. |
+| [Watermark](watermark#constructor)(Image) | Инициализирует объект водяного знака с изображением. |
 | [Watermark](watermark#constructor_1)(Image, Rectangle) | Инициализирует объект водяного знака с изображением и его положением на странице. |
 
 ## Характеристики

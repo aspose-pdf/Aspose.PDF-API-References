@@ -16,7 +16,7 @@ public void DeleteByKey(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 密钥名称。 |
+| key | String | 键名。 |
 
 ### 也可以看看
 

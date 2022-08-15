@@ -20,7 +20,7 @@ public static string GetMimeType(Image i)
 
 ### 返回值
 
-Mime 类型为字符串（如果找到） ;否则，“图像/未知”值。
+如果找到，则 MIME 类型为字符串；否则，“图像/未知”值。
 
 ### 也可以看看
 

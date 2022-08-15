@@ -1,14 +1,14 @@
 ---
 title: FontUsedKey
 second_title: Aspose.PDF for .NET API 参考
-description: PDF Font 对象的键名称用于显示导致文本提取错误的运算符
+description: 用于显示导致文本提取错误的运算符的 PDF 字体对象的键名称
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/fontusedkey/
 ---
 ## TextExtractionErrorLocation.FontUsedKey property
 
-PDF Font 对象的键（名称），用于显示导致文本提取错误的运算符。
+用于显示导致文本提取错误的运算符的 PDF 字体对象的键（名称）。
 
 ```csharp
 public string FontUsedKey { get; }

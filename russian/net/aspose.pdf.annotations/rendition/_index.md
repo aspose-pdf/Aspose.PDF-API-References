@@ -1,14 +1,14 @@
 ---
 title: Rendition
 second_title: Aspose.PDF для справочника API .NET
-description: Класс описывающий объект представления RendtionAnnotation.
+description: Класс который описывает объект воспроизведения RendtionAnnotation.
 type: docs
 weight: 980
 url: /ru/net/aspose.pdf.annotations/rendition/
 ---
 ## Rendition class
 
-Класс, описывающий объект представления RendtionAnnotation.
+Класс, который описывает объект воспроизведения RendtionAnnotation.
 
 ```csharp
 public class Rendition

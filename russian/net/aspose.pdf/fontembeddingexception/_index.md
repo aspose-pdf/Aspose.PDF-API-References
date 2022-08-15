@@ -18,9 +18,9 @@ public sealed class FontEmbeddingException : ApplicationException
 
 | Имя | Описание |
 | --- | --- |
-| [FontEmbeddingException](fontembeddingexception#constructor)(Exception) | Инициализирует новый экземпляр класса[`FontEmbeddingException`](../fontembeddingexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [FontEmbeddingException](fontembeddingexception#constructor_1)(string) | Инициализирует новый экземпляр класса[`FontEmbeddingException`](../fontembeddingexception). |
-| [FontEmbeddingException](fontembeddingexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`FontEmbeddingException`](../fontembeddingexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [FontEmbeddingException](fontembeddingexception#constructor)(Exception) | Инициализирует новый экземпляр[`FontEmbeddingException`](../fontembeddingexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [FontEmbeddingException](fontembeddingexception#constructor_1)(string) | Инициализирует новый экземпляр[`FontEmbeddingException`](../fontembeddingexception) класс. |
+| [FontEmbeddingException](fontembeddingexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`FontEmbeddingException`](../fontembeddingexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

@@ -32,7 +32,7 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Имя шрифта. |
+| fontName | String | Название шрифта. |
 | fontSize | Double | Размер шрифта. |
 | textColor | Color | Цвет текста. |
 

@@ -1,14 +1,14 @@
 ---
 title: PrintAllowLevel
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает уровень привилегий печати документа. Так же как настройки разрешенной печати Adobe Professional. 0Нет. 1Низкое разрешение 150 dpi. 2Высокое разрешение.
+description: Устанавливает уровень привилегий печати документа. Так же как настройки разрешенной печати Adobe Professional. 0 Нет. 1 Низкое разрешение 150 dpi. 2 Высокое разрешение.
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/documentprivilege/printallowlevel/
 ---
 ## DocumentPrivilege.PrintAllowLevel property
 
-Устанавливает уровень привилегий печати документа. Так же, как настройки разрешенной печати Adobe Professional. 0:Нет. 1:Низкое разрешение (150 dpi). 2:Высокое разрешение.
+Устанавливает уровень привилегий печати документа. Так же, как настройки разрешенной печати Adobe Professional. 0: Нет. 1: Низкое разрешение (150 dpi). 2: Высокое разрешение.
 
 ```csharp
 public int PrintAllowLevel { set; }

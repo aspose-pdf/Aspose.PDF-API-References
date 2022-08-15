@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF для справочника API .NET
-description: Получает список операторов PDF представляющих внешний вид.
+description: Получает список операторов PDF которые представляют внешний вид.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/defaultappearance/text/
 ---
 ## DefaultAppearance.Text property
 
-Получает список операторов PDF, представляющих внешний вид.
+Получает список операторов PDF, которые представляют внешний вид.
 
 ```csharp
 public string Text { get; }

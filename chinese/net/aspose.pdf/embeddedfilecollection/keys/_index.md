@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Aspose.PDF for .NET API 参考
-description: 返回文件附件键的列表
+description: 返回文件附件键列表
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/embeddedfilecollection/keys/
 ---
 ## EmbeddedFileCollection.Keys property
 
-返回文件附件键的列表。
+返回文件附件键列表。
 
 ```csharp
 public List<string> Keys { get; }

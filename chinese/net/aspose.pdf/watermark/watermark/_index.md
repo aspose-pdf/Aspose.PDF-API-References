@@ -1,14 +1,14 @@
 ---
 title: Watermark
 second_title: Aspose.PDF for .NET API 参考
-description: 使用图像和它在页面上的位置初始化水印对象
+description: 使用图像初始化水印对象及其在页面上的位置
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/watermark/watermark/
 ---
 ## Watermark(Image, Rectangle) {#constructor_1}
 
-使用图像和它在页面上的位置初始化水印对象。
+使用图像初始化水印对象及其在页面上的位置。
 
 ```csharp
 public Watermark(Image image, Rectangle rect)
@@ -16,7 +16,7 @@ public Watermark(Image image, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Image | 水印图像。 |
+| image | Image | 水印的图像。 |
 | rect | Rectangle | 水印在页面上的位置。 |
 
 ### 也可以看看
@@ -30,7 +30,7 @@ public Watermark(Image image, Rectangle rect)
 
 ## Watermark(Image) {#constructor}
 
-用图像初始化水印对象。
+使用图像初始化水印对象。
 
 ```csharp
 public Watermark(Image image)
@@ -38,7 +38,7 @@ public Watermark(Image image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Image | 水印图像。 |
+| image | Image | 水印的图像。 |
 
 ### 也可以看看
 

@@ -18,14 +18,14 @@ public sealed class StructTreeRootElement : Element
 
 | Имя | Описание |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Получает дочернюю коллекцию объектовElement. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Получает дочернюю коллекциюElement объекты. |
 | [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Получить родительский элемент. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | ДобавитьElementк коллекции дочерних элементов. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | ДобавитьElement в коллекцию детей. |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Найти элементы заданного типа |
 | override [ToString](../../aspose.pdf.logicalstructure/element/tostring)() | Возвращает строку, представляющую текущий объект. |
 

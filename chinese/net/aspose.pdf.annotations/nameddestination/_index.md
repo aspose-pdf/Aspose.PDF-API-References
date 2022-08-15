@@ -1,14 +1,14 @@
 ---
 title: NamedDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 可以通过名称对象或字节串间接引用目的地而不是直接使用显式语法定义
+description: 可以通过名称对象或字节字符串间接引用目的地而不是直接使用显式语法定义
 type: docs
 weight: 750
 url: /zh/net/aspose.pdf.annotations/nameddestination/
 ---
 ## NamedDestination class
 
-可以通过名称对象或字节串间接引用目的地，而不是直接使用显式语法定义。
+可以通过名称对象或字节字符串间接引用目的地，而不是直接使用显式语法定义。
 
 ```csharp
 public sealed class NamedDestination : IAppointment

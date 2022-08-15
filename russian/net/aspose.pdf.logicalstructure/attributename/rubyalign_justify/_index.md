@@ -1,14 +1,14 @@
 ---
 title: RubyAlign_Justify
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyAlignJustify - Содержимое должно быть расширено чтобы заполнить доступную ширину в направлении встроенной последовательности.
+description: Атрибут RubyAlign Justify  содержимое должно быть расширено чтобы заполнить доступную ширину в направлении встроенной последовательности.
 type: docs
 weight: 460
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyalign_justify/
 ---
 ## AttributeName.RubyAlign_Justify field
 
-Атрибут RubyAlign:Justify - Содержимое должно быть расширено, чтобы заполнить доступную ширину в направлении встроенной последовательности.
+Атрибут RubyAlign: Justify — содержимое должно быть расширено, чтобы заполнить доступную ширину в направлении встроенной последовательности.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Justify;

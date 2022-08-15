@@ -1,14 +1,14 @@
 ---
 title: SkewAngleY
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值表示转换坐标系时 y 坐标的倾斜角度
+description: 获取或设置一个浮点值表示坐标系变换时y坐标的倾斜角度
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/graphinfo/skewangley/
 ---
 ## GraphInfo.SkewAngleY property
 
-获取或设置一个浮点值，表示转换坐标系时 y 坐标的倾斜角度。
+获取或设置一个浮点值，表示坐标系变换时y坐标的倾斜角度。
 
 ```csharp
 public double SkewAngleY { get; set; }

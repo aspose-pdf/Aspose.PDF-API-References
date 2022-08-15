@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет все предметы из коллекции.
+description: Удаляет все элементы из коллекции.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/outlines/clear/
 ---
 ## Outlines.Clear method
 
-Удаляет все предметы из коллекции.
+Удаляет все элементы из коллекции.
 
 ```csharp
 public abstract void Clear()

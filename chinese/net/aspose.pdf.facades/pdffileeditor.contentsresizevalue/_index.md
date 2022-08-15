@@ -18,7 +18,7 @@ public class ContentsResizeValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsPercent](../../aspose.pdf.facades/contentsresizevalue/ispercent) { get; } | 如果值以百分比表示，则为真； 如果值以默认单位表示，则为 False。 |
+| [IsPercent](../../aspose.pdf.facades/contentsresizevalue/ispercent) { get; } | 如果值以百分比表示，则为真； 如果值以默认单位表示，则为假。 |
 | [PercentValue](../../aspose.pdf.facades/contentsresizevalue/percentvalue) { set; } | 以页面大小的百分比设置值。 |
 | [UnitValue](../../aspose.pdf.facades/contentsresizevalue/unitvalue) { set; } | 以默认空间单位设置值。 |
 | [Value](../../aspose.pdf.facades/contentsresizevalue/value) { get; } | 获取指定值。使用 Unit 属性获取值单位。 |

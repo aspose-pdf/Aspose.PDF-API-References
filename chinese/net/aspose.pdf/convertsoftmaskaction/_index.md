@@ -1,14 +1,14 @@
 ---
 title: ConvertSoftMaskAction
 second_title: Aspose.PDF for .NET API 参考
-description: 此动作表示用于转换带有软掩码的图像的动作
+description: 此动作表示使用软掩码转换图像的动作
 type: docs
 weight: 1580
 url: /zh/net/aspose.pdf/convertsoftmaskaction/
 ---
 ## ConvertSoftMaskAction enumeration
 
-此动作表示用于转换带有软掩码的图像的动作。
+此动作表示使用软掩码转换图像的动作。
 
 ```csharp
 public enum ConvertSoftMaskAction
@@ -19,7 +19,7 @@ public enum ConvertSoftMaskAction
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Default | `0` | 使用默认策略。 |
-| ConvertToStencilMask | `1` | 软遮罩将被转换为模板遮罩。 |
+| ConvertToStencilMask | `1` | 软掩模将被转换为模板掩模。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: FontSource
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет базовый класс для источника шрифта.
+description: Представляет базовый класс источника шрифта.
 type: docs
 weight: 6730
 url: /ru/net/aspose.pdf.text/fontsource/
 ---
 ## FontSource class
 
-Представляет базовый класс для источника шрифта.
+Представляет базовый класс источника шрифта.
 
 ```csharp
 public abstract class FontSource

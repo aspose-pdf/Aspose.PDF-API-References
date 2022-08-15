@@ -1,14 +1,14 @@
 ---
 title: Moccasin
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFFE4B5.
+description: Получает определяемый системой цвет со значением ARGB FFFFE4B5.
 type: docs
 weight: 950
 url: /ru/net/aspose.pdf/color/moccasin/
 ---
 ## Color.Moccasin property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFFE4B5.
+Получает определяемый системой цвет со значением ARGB #FFFFE4B5.
 
 ```csharp
 public static Color Moccasin { get; }

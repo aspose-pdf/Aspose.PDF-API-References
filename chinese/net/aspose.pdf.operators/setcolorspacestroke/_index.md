@@ -1,14 +1,14 @@
 ---
 title: SetColorSpaceStroke
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 CS 运算符的类为描边操作设置颜色
+description: 代表 CS 操作符的类为描边操作设置颜色
 type: docs
 weight: 5430
 url: /zh/net/aspose.pdf.operators/setcolorspacestroke/
 ---
 ## SetColorSpaceStroke class
 
-表示 CS 运算符的类（为描边操作设置颜色）。
+代表 CS 操作符的类（为描边操作设置颜色）。
 
 ```csharp
 public class SetColorSpaceStroke : Operator
@@ -18,7 +18,7 @@ public class SetColorSpaceStroke : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetColorSpaceStroke](setcolorspacestroke)(string) | 初始化运算符。 |
+| [SetColorSpaceStroke](setcolorspacestroke)(string) | 初始化操作符。 |
 
 ## 特性
 

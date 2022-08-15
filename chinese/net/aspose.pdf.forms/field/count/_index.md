@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置此字段中的子字段数 例如单选按钮字段中的项目数
+description: 获取或设置此字段中的子字段数 例如单选按钮字段中的项目数.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/field/count/
 ---
 ## Field.Count property
 
-获取或设置此字段中的子字段数。 （例如单选按钮字段中的项目数）。
+获取或设置此字段中的子字段数。 （例如单选按钮字段中的项目数）.
 
 ```csharp
 public int Count { get; }

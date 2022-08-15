@@ -1,14 +1,14 @@
 ---
 title: SetId
 second_title: Aspose.PDF for .NET API 参考
-description: 设置结构元素的 ID
+description: 为结构元素设置 ID
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.logicalstructure/structureelement/setid/
 ---
 ## StructureElement.SetId method
 
-设置结构元素的 ID。
+为结构元素设置 ID。
 
 ```csharp
 public void SetId(string id)

@@ -1,14 +1,14 @@
 ---
 title: Pages
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置将受到戳记影响的页数的数组 如果 Pages  null 文档的所有页面都会受到影响
+description: 获取或设置包含将受戳影响的页数的数组 如果 Pages  null 文档的所有页面都会受到影响
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/stamp/pages/
 ---
 ## Stamp.Pages property
 
-获取或设置将受到戳记影响的页数的数组。 如果 Pages = null 文档的所有页面都会受到影响。
+获取或设置包含将受戳影响的页数的数组。 如果 Pages = null 文档的所有页面都会受到影响。
 
 ```csharp
 public int[] Pages { get; set; }
@@ -20,7 +20,7 @@ public int[] Pages { get; set; }
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Aspose.Pdf.Facades.Stamp();
 stamp.BindLogo(new FormattedText(text));
-  //仅在第 1、第 4 和第 6 页放置印章。
+// 仅在第 1、4 和 6 页放置印章。
 stamp.Pages = new int[] { 1, 4, 6 };
 fileStamp.AddStamp(stamp);
 fileStamp.Close();

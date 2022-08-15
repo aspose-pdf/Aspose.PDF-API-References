@@ -16,7 +16,7 @@ public static ContentsResizeParameters ContentSize(double width, double height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Double | 内容的新宽度。 |
+| width | Double | 新的内容宽度。 |
 | height | Double | 内容的新高度。 |
 
 ### 返回值

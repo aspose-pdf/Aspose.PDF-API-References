@@ -1,14 +1,14 @@
 ---
 title: FillColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示图形填充颜色的Coloraspose.pdf/graphinfo/color对象
+description: 获取或设置一个Coloraspose.pdf/graphinfo/color指示图形填充颜色的对象
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/graphinfo/fillcolor/
 ---
 ## GraphInfo.FillColor property
 
-获取或设置指示图形填充颜色的[`Color`](../color)对象。
+获取或设置一个[`Color`](../color)指示图形填充颜色的对象。
 
 ```csharp
 public Color FillColor { get; set; }

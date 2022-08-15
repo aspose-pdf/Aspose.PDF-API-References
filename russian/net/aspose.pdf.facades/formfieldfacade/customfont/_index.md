@@ -1,14 +1,14 @@
 ---
 title: CustomFont
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает имя шрифта если он нестандартный отличный от 14 стандартных шрифтов.
+description: Получает или задает имя шрифта если он не является стандартным кроме 14 стандартных шрифтов.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/formfieldfacade/customfont/
 ---
 ## FormFieldFacade.CustomFont property
 
-Получает или устанавливает имя шрифта, если он нестандартный (отличный от 14 стандартных шрифтов).
+Получает или задает имя шрифта, если он не является стандартным (кроме 14 стандартных шрифтов).
 
 ```csharp
 public string CustomFont { get; set; }

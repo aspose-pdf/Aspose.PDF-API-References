@@ -1,14 +1,14 @@
 ---
 title: CorruptedFileAction
 second_title: Aspose.PDF for .NET API 参考
-description: 此属性定义连接进程遇到损坏文件时的行为 可能的值是StopWithError 和 ConcatenateIgnoringCorrupted
+description: 此属性定义连接过程遇到损坏文件时的行为 可能的值是StopWithError 和 ConcatenateIgnoringCorrupted
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/
 ---
 ## PdfFileEditor.CorruptedFileAction property
 
-此属性定义连接进程遇到损坏文件时的行为。 可能的值是:StopWithError 和 ConcatenateIgnoringCorrupted。
+此属性定义连接过程遇到损坏文件时的行为。 可能的值是：StopWithError 和 ConcatenateIgnoringCorrupted。
 
 ```csharp
 public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: A1
 second_title: Aspose.PDF для справочника API .NET
-description: Размер A1 840x594 мм.
+description: Формат A1 840x594 мм.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/pagesize/a1/
 ---
 ## PageSize.A1 property
 
-Размер A1 (840x594 мм).
+Формат A1 (840x594 мм).
 
 ```csharp
 public static PageSize A1 { get; }

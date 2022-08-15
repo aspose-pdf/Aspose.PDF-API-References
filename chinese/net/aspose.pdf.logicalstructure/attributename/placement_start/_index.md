@@ -1,14 +1,14 @@
 ---
 title: Placement_Start
 second_title: Aspose.PDF for .NET API 参考
-description: 属性放置开始 - 放置以使元素的分配矩形的开始边缘与最近的封闭参考区域的开始边缘重合
+description: 属性放置开始 - 放置元素的分配矩形的起始边缘与最近的封闭参考区域的起始边缘重合
 type: docs
 weight: 380
 url: /zh/net/aspose.pdf.logicalstructure/attributename/placement_start/
 ---
 ## AttributeName.Placement_Start field
 
-属性放置:开始 - 放置以使元素的分配矩形的开始边缘与最近的封闭参考区域的开始边缘重合。
+属性放置：开始 - 放置元素的分配矩形的起始边缘与最近的封闭参考区域的起始边缘重合。
 
 ```csharp
 public static readonly AttributeName Placement_Start;

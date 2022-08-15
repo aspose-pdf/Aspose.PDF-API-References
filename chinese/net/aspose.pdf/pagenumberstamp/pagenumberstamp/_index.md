@@ -1,14 +1,14 @@
 ---
 title: PageNumberStamp
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PageNumberStampaspose.pdf/pagenumberstamp类的新实例
+description: 初始化PageNumberStampaspose.pdf/pagenumberstamp类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
 ---
 ## PageNumberStamp(string) {#constructor_2}
 
-初始化[`PageNumberStamp`](../../pagenumberstamp)类的新实例。
+初始化[`PageNumberStamp`](../../pagenumberstamp)类.
 
 ```csharp
 public PageNumberStamp(string format)
@@ -16,7 +16,7 @@ public PageNumberStamp(string format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| format | String | 用于冲压的字符串值。有关详细信息，请参阅[`Format`](../format)属性。 |
+| format | String | 用于标记的字符串值。看[`Format`](../format)属性以获取详细信息。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public PageNumberStamp(string format)
 
 ## PageNumberStamp() {#constructor}
 
-初始化[`PageNumberStamp`](../../pagenumberstamp)类的新实例。格式设置为“#”。
+初始化[`PageNumberStamp`](../../pagenumberstamp)班级。格式设置为“#”。
 
 ```csharp
 public PageNumberStamp()

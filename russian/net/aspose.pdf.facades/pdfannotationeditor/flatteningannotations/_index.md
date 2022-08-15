@@ -41,7 +41,7 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | Задает режимы выравнивания. |
+| flattenSettings | FlattenSettings | Определяет режимы выравнивания. |
 
 ### Смотрите также
 
@@ -64,7 +64,7 @@ public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType
 | --- | --- | --- |
 | start | Int32 | Стартовая страница. |
 | end | Int32 | Затем конечная страница. |
-| annotType | AnnotationType[] | Типы аннотаций должны быть сведены. |
+| annotType | AnnotationType[] | Типы аннотаций должны быть сглажены. |
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет элемент из коллекции выдает NotImplementedException .
+description: Удаляет предмет из коллекции выбрасываетНереализованное исключение .
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.forms/optioncollection/remove/
 ---
 ## OptionCollection.Remove method
 
-Удаляет элемент из коллекции, выдает NotImplementedException .
+Удаляет предмет из коллекции, выбрасываетНереализованное исключение .
 
 ```csharp
 public bool Remove(Option item)
@@ -20,7 +20,7 @@ public bool Remove(Option item)
 
 ### Возвращаемое значение
 
-Выдает NotImplementedException
+БроскиНереализованное исключение
 
 ### Смотрите также
 

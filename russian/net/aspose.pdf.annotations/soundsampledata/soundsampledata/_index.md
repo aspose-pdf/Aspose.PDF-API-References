@@ -1,14 +1,14 @@
 ---
 title: SoundSampleData
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новые данные звуковых семплов.
+description: Инициализирует новые данные звукового образца.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
 ---
 ## SoundSampleData(long) {#constructor}
 
-Инициализирует новые данные звуковых семплов.
+Инициализирует новые данные звукового образца.
 
 ```csharp
 public SoundSampleData(long samplingRate)
@@ -28,7 +28,7 @@ public SoundSampleData(long samplingRate)
 
 ## SoundSampleData(long, int) {#constructor_1}
 
-Инициализирует новые данные звуковых семплов.
+Инициализирует новые данные звукового образца.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels)
@@ -49,7 +49,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 ## SoundSampleData(long, int, int) {#constructor_2}
 
-Инициализирует новые данные звуковых семплов.
+Инициализирует новые данные звукового образца.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel)
@@ -71,7 +71,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 ## SoundSampleData(long, int, int, SoundSampleDataEncodingFormat) {#constructor_3}
 
-Инициализирует новые данные звуковых семплов.
+Инициализирует новые данные звукового образца.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, 
@@ -83,7 +83,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 | samplingRate | Int64 | Частота дискретизации. |
 | numberOfSoundChannels | Int32 | Количество звуковых каналов. |
 | bitsPerChannel | Int32 | Количество битов на выборочное значение на канал. |
-| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Формат кодирования данных выборки. |
+| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Формат кодирования демонстрационных данных. |
 
 ### Смотрите также
 

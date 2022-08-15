@@ -17,7 +17,7 @@ public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputXmlStream | Stream | Входной XML-поток. |
-| IgnoreFormTemplateChanges | Boolean | Если этот параметр равен true, то все изменения шаблона формы XFA не будут сохранены |
+| IgnoreFormTemplateChanges | Boolean | Если этот параметр имеет значение true, все изменения шаблона формы XFA не будут сохранены. |
 
 ### Смотрите также
 

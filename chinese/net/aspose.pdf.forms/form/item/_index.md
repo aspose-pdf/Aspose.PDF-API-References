@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 通过字段名获取表单的字段如果未找到该字段则引发异常
+description: 通过字段名获取表单的字段如果找不到该字段则抛出异常
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.forms/form/item/
 ---
 ## Form indexer (1 of 2)
 
-通过字段名获取表单的字段。如果未找到该字段，则引发异常。
+通过字段名获取表单的字段。如果找不到该字段，则抛出异常。
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -20,7 +20,7 @@ public WidgetAnnotation this[string name] { get; }
 
 ### 返回值
 
-检索到的字段。
+检索字段。
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public WidgetAnnotation this[int index] { get; }
 
 ### 返回值
 
-检索到的字段。
+检索字段。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SetImage
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает изображение артефакта.
+description: Задает изображение артефакта.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf/artifact/setimage/
 ---
 ## SetImage(Stream) {#setimage}
 
-Устанавливает изображение артефакта.
+Задает изображение артефакта.
 
 ```csharp
 public void SetImage(Stream imageStream)
@@ -28,7 +28,7 @@ public void SetImage(Stream imageStream)
 
 ## SetImage(string) {#setimage_1}
 
-Устанавливает изображение артефакта.
+Задает изображение артефакта.
 
 ```csharp
 public void SetImage(string imageName)

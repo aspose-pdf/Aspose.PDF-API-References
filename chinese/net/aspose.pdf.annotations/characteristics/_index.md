@@ -1,14 +1,14 @@
 ---
 title: Characteristics
 second_title: Aspose.PDF for .NET API 参考
-description: 表示注解特征
+description: 代表标注特征
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.annotations/characteristics/
 ---
 ## Characteristics class
 
-表示注解特征
+代表标注特征
 
 ```csharp
 public sealed class Characteristics
@@ -20,7 +20,7 @@ public sealed class Characteristics
 | --- | --- |
 | [Background](../../aspose.pdf.annotations/characteristics/background) { get; set; } | 获取或设置背景颜色 |
 | [Border](../../aspose.pdf.annotations/characteristics/border) { get; set; } | 获取或设置边框颜色。 |
-| [Rotate](../../aspose.pdf.annotations/characteristics/rotate) { get; set; } | 获取或设置注释的旋转。 |
+| [Rotate](../../aspose.pdf.annotations/characteristics/rotate) { get; set; } | 获取或设置注解的旋转。 |
 
 ### 也可以看看
 

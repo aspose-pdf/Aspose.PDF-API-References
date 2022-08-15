@@ -1,14 +1,14 @@
 ---
 title: NotAccessibleFonts
 second_title: Aspose.PDF for .NET API 参考
-description: 此属性为外属性它包含所有在计算机上找不到的字体字体名称 最后 PDF/A 转换
+description: 此属性为外属性它保存了上次 PDF/A 转换时在计算机 上找不到的所有字体字体名称
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/notaccessiblefonts/
 ---
 ## PdfFormatConversionOptions.NotAccessibleFonts property
 
-此属性为外属性。它包含所有在计算机上找不到的字体（字体名称） 最后 PDF/A 转换。
+此属性为外属性。它保存了上次 PDF/A 转换时在计算机 上找不到的所有字体（字体名称）。
 
 ```csharp
 public string[] NotAccessibleFonts { get; }

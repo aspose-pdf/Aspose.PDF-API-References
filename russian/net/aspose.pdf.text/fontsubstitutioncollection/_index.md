@@ -18,7 +18,7 @@ public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontsubstitutioncollection/count) { get; } | Получает количество элементов объекта[`Font`](../font), фактически содержащихся в коллекции. |
+| [Count](../../aspose.pdf.text/fontsubstitutioncollection/count) { get; } | Получает количество[`Font`](../font) элементы объекта, фактически содержащиеся в коллекции. |
 | [IsSynchronized](../../aspose.pdf.text/fontsubstitutioncollection/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к коллекции синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf.text/fontsubstitutioncollection/item) { get; } | Получает элемент шрифта по указанному индексу. |
 | [SyncRoot](../../aspose.pdf.text/fontsubstitutioncollection/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к коллекции. |
@@ -27,7 +27,7 @@ public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.text/fontsubstitutioncollection/add)(FontSubstitution) | Добавляет новый объект подстановки шрифта в коллекцию. |
+| [Add](../../aspose.pdf.text/fontsubstitutioncollection/add)(FontSubstitution) | Добавляет в коллекцию новый объект замены шрифта. |
 | [Clear](../../aspose.pdf.text/fontsubstitutioncollection/clear)() | Очищает коллекцию подстановок шрифтов. |
 | [Contains](../../aspose.pdf.text/fontsubstitutioncollection/contains)(FontSubstitution) | Определяет, находится ли элемент в коллекции. |
 | [CopyTo](../../aspose.pdf.text/fontsubstitutioncollection/copyto)(FontSubstitution[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |

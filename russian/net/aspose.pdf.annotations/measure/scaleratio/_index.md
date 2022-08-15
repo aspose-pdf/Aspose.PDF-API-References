@@ -1,14 +1,14 @@
 ---
 title: ScaleRatio
 second_title: Aspose.PDF для справочника API .NET
-description: Текстовая строка выражающая коэффициент масштаба чертежа.
+description: Текстовая строка выражающая масштаб чертежа.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/measure/scaleratio/
 ---
 ## Measure.ScaleRatio property
 
-Текстовая строка, выражающая коэффициент масштаба чертежа.
+Текстовая строка, выражающая масштаб чертежа.
 
 ```csharp
 public string ScaleRatio { get; set; }

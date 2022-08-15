@@ -20,7 +20,7 @@ public NumberFormat this[int index] { get; set; }
 
 ### 返回值
 
-检索到的测量项目。
+检索到的测量项。
 
 ### 也可以看看
 

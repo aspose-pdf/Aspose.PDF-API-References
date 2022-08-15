@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 运算符文本
+description: 运算符的文本
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/showtext/text/
 ---
 ## ShowText.Text property
 
-运算符文本。
+运算符的文本。
 
 ```csharp
 public override string Text { get; set; }

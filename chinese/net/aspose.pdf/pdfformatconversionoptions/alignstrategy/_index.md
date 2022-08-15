@@ -1,14 +1,14 @@
 ---
 title: AlignStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 对齐文本的策略仅当标志AlignTextaspose.pdf/pdfformatconversionoptions/aligntext设置为 true 时此参数才有意义
+description: 对齐文本的策略此参数仅在标记时才有意义AlignTextaspose.pdf/pdfformatconversionoptions/aligntext设置为真
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
 ---
 ## PdfFormatConversionOptions.AlignStrategy field
 
-对齐文本的策略。仅当标志[`AlignText`](../aligntext)设置为 true 时，此参数才有意义。
+对齐文本的策略。此参数仅在标记时才有意义[`AlignText`](../aligntext)设置为真。
 
 ```csharp
 public SegmentAlignStrategy AlignStrategy;

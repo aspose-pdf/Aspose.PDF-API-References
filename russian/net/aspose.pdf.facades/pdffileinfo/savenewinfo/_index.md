@@ -1,14 +1,14 @@
 ---
 title: SaveNewInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Сохранить обновленный PDF-документ в указанный файл.
+description: Сохранить обновленный документ PDF в указанный файл.
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.facades/pdffileinfo/savenewinfo/
 ---
 ## PdfFileInfo.SaveNewInfo method
 
-Сохранить обновленный PDF-документ в указанный файл.
+Сохранить обновленный документ PDF в указанный файл.
 
 ```csharp
 public bool SaveNewInfo(string outputFile)
@@ -20,7 +20,7 @@ public bool SaveNewInfo(string outputFile)
 
 ### Возвращаемое значение
 
-True, если в противном случае успех равен false.
+Истинно, если успех в противном случае является ложным.
 
 ### Смотрите также
 

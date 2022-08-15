@@ -23,8 +23,8 @@ public sealed class Metadata : IDictionary<string, XmpValue>
 | [IsFixedSize](../../aspose.pdf/metadata/isfixedsize) { get; } | Проверяет, имеет ли коллекция фиксированный размер. |
 | [IsReadOnly](../../aspose.pdf/metadata/isreadonly) { get; } | Проверяет, доступна ли коллекция только для чтения. |
 | [IsSynchronized](../../aspose.pdf/metadata/issynchronized) { get; } | Проверяет, синхронизирована ли коллекция. |
-| [Item](../../aspose.pdf/metadata/item) { get; set; } | Получает или задает данные из метаданных. |
-| [Keys](../../aspose.pdf/metadata/keys) { get; } | Получает коллекцию ключей метаданных. |
+| [Item](../../aspose.pdf/metadata/item) { get; set; } | Получает или устанавливает данные из метаданных. |
+| [Keys](../../aspose.pdf/metadata/keys) { get; } | Получает набор ключей метаданных. |
 | [NamespaceManager](../../aspose.pdf/metadata/namespacemanager) { get; } | Получает диспетчер пространства имен. |
 | [SyncRoot](../../aspose.pdf/metadata/syncroot) { get; } | Получает объект синхронизации коллекции. |
 | [Values](../../aspose.pdf/metadata/values) { get; } | Получает значения в метаданных. |
@@ -33,7 +33,7 @@ public sealed class Metadata : IDictionary<string, XmpValue>
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf/metadata/add#add)(KeyValuePair&lt;string, XmpValue&gt;) | Добавляет в словарь пару с ключом и значением. |
+| [Add](../../aspose.pdf/metadata/add#add)(KeyValuePair&lt;string, XmpValue&gt;) | Добавляет пару с ключом и значением в словарь. |
 | [Add](../../aspose.pdf/metadata/add#add_3)(string, object) | Добавляет значение к метаданным. |
 | [Add](../../aspose.pdf/metadata/add#add_1)(string, XmpPdfAExtensionObject) | Добавляет расширение pdf к метаданным. |
 | [Add](../../aspose.pdf/metadata/add#add_2)(string, XmpValue) | Добавляет значение к метаданным. |
@@ -49,7 +49,7 @@ public sealed class Metadata : IDictionary<string, XmpValue>
 | [RegisterNamespaceUri](../../aspose.pdf/metadata/registernamespaceuri#registernamespaceuri_1)(string, string, string) | Регистрирует URI пространства имен. |
 | [Remove](../../aspose.pdf/metadata/remove#remove)(KeyValuePair&lt;string, XmpValue&gt;) | Удаляет пару ключ/значение из коллекции. |
 | [Remove](../../aspose.pdf/metadata/remove#remove_1)(string) | Удаляет запись из метаданных. |
-| [TryGetValue](../../aspose.pdf/metadata/trygetvalue)(string, out XmpValue) | Пытается найти ключ в словаре и возвращает значение, если оно найдено. |
+| [TryGetValue](../../aspose.pdf/metadata/trygetvalue)(string, out XmpValue) | Пытается найти ключ в словаре и извлекает значение, если оно найдено. |
 
 ### Смотрите также
 

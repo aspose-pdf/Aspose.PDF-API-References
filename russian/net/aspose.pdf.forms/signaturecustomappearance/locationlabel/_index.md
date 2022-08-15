@@ -1,14 +1,14 @@
 ---
 title: LocationLabel
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает метку местоположения. Значение по умолчаниюМестоположение.
+description: Получает/устанавливает метку местоположения. Значение по умолчанию Местоположение.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
 ## SignatureCustomAppearance.LocationLabel property
 
-Получает/устанавливает метку местоположения. Значение по умолчанию:«Местоположение».
+Получает/устанавливает метку местоположения. Значение по умолчанию: "Местоположение".
 
 ```csharp
 public string LocationLabel { get; set; }

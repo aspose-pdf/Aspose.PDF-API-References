@@ -1,14 +1,14 @@
 ---
 title: AllowFillIn
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает разрешение позволяющее заполнять формы или нет. true разрешает false запрещает.
+description: Устанавливает разрешение позволяющее заполнять формы или нет. true  разрешено false  запрещено.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowfillin/
 ---
 ## DocumentPrivilege.AllowFillIn property
 
-Устанавливает разрешение, позволяющее заполнять формы или нет. true разрешает, false запрещает.
+Устанавливает разрешение, позволяющее заполнять формы или нет. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowFillIn { get; set; }

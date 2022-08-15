@@ -1,14 +1,14 @@
 ---
 title: TextDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 使用文本提取选项初始化TextDeviceaspose.pdf.devices/textdevice的新实例
+description: 初始化TextDeviceaspose.pdf.devices/textdevice带有文本提取选项
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/textdevice/textdevice/
 ---
 ## TextDevice(TextExtractionOptions) {#constructor_1}
 
-使用文本提取选项初始化[`TextDevice`](../../textdevice)的新实例。
+初始化[`TextDevice`](../../textdevice)带有文本提取选项。
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions)
@@ -29,7 +29,7 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ## TextDevice() {#constructor}
 
-使用原始文本格式化模式和 Unicode 文本编码初始化[`TextDevice`](../../textdevice)的新实例。
+初始化[`TextDevice`](../../textdevice)使用原始文本格式化模式和 Unicode 文本编码。
 
 ```csharp
 public TextDevice()
@@ -45,7 +45,7 @@ public TextDevice()
 
 ## TextDevice(Encoding) {#constructor_3}
 
-为指定的编码初始化[`TextDevice`](../../textdevice)的新实例。
+初始化[`TextDevice`](../../textdevice)对于指定的编码。
 
 ```csharp
 public TextDevice(Encoding encoding)
@@ -65,7 +65,7 @@ public TextDevice(Encoding encoding)
 
 ## TextDevice(TextExtractionOptions, Encoding) {#constructor_2}
 
-为具有文本提取选项的指定编码初始化[`TextDevice`](../../textdevice)的新实例。
+初始化[`TextDevice`](../../textdevice)对于带有文本提取选项的指定编码。
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)

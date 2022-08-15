@@ -1,14 +1,14 @@
 ---
 title: UnFlattenFields
 second_title: Aspose.PDF for .NET API 参考
-description: 设置不会被展平的字段 如果未设置此属性所有字段将被展平
+description: 设置不被展平的字段 如果没有设置这个属性所有的字段都将被展平
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/autofiller/unflattenfields/
 ---
 ## AutoFiller.UnFlattenFields property
 
-设置不会被展平的字段。 如果未设置此属性，所有字段将被展平。
+设置不被展平的字段。 如果没有设置这个属性，所有的字段都将被展平。
 
 ```csharp
 public string[] UnFlattenFields { set; }

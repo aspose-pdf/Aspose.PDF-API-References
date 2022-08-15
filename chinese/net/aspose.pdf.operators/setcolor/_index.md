@@ -18,7 +18,7 @@ public class SetColor : BasicSetColorOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetColor](setcolor#constructor)() | 初始化运算符。 |
+| [SetColor](setcolor#constructor)() | 初始化操作符。 |
 | [SetColor](setcolor#constructor_1)(double) | 为 DeviceGrey、CalGrey 和索引颜色空间的描边运算符设置颜色。 |
 | [SetColor](setcolor#constructor_4)(double[]) | 允许指定颜色分量的构造函数。 |
 | [SetColor](setcolor#constructor_2)(double, double, double) | 为 DeviceRGB、CalRGB 和 Lab 颜色空间的描边运算符设置颜色 |
@@ -28,15 +28,15 @@ public class SetColor : BasicSetColorOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | 获取颜色的红色分量 |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | 获取 color 的红色分量 |
 | [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | 获取 CMYK 颜色的青色分量。 |
 | virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | 获取颜色分量数组。 |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | 获取颜色的绿色分量 |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | 获取 color 的绿色分量 |
 | [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | 获取灰色的黑色分量。 |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | 页面运算符列表中的运算符索引。 |
 | [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | 获取 CMYK 颜色的黑色分量。 |
 | [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | 获取 CMYK 颜色的洋红色分量。 |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | 获取颜色的红色分量 |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | 获取 color 的红色分量 |
 | [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | 获取 CMYK 颜色的黄色分量。 |
 
 ## 方法
@@ -44,7 +44,7 @@ public class SetColor : BasicSetColorOperator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | 返回操作符指定的颜色。 |
+| override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | 返回操作员指定的颜色。 |
 | override [ToString](../../aspose.pdf.operators/setcolor/tostring)() | 返回颜色的字符串表示形式。 |
 
 ### 也可以看看

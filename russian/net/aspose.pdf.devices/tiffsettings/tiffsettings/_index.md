@@ -1,14 +1,14 @@
 ---
 title: TiffSettings
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTiffSettingsaspose.pdf.devices/tiffsettings.
+description: Инициализирует новый экземплярTiffSettingsaspose.pdf.devices/tiffsettings класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings()
@@ -24,7 +24,7 @@ public TiffSettings()
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(ShapeType shapeType)
@@ -45,7 +45,7 @@ public TiffSettings(ShapeType shapeType)
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(CompressionType compressionType)
@@ -66,7 +66,7 @@ public TiffSettings(CompressionType compressionType)
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
@@ -87,7 +87,7 @@ public TiffSettings(ColorDepth colorDepth)
 
 ## TiffSettings(Margins) {#constructor_6}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(Margins margins)
@@ -108,7 +108,7 @@ public TiffSettings(Margins margins)
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
@@ -133,7 +133,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -145,7 +145,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 | compressionType | CompressionType | Тип сжатия. |
 | colorDepth | ColorDepth | Глубина цвета. |
 | margins | Margins | Поля. |
-| skipBlankPages | Boolean | если установлено` true` нужно пропускать пустые страницы. |
+| skipBlankPages | Boolean | если установлено`истинный` нужно пропускать пустые страницы. |
 
 ### Смотрите также
 
@@ -160,7 +160,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -172,7 +172,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 | compressionType | CompressionType | Тип сжатия. |
 | colorDepth | ColorDepth | Глубина цвета. |
 | margins | Margins | Поля. |
-| skipBlankPages | Boolean | если установлено` true` нужно пропускать пустые страницы. |
+| skipBlankPages | Boolean | если установлено`истинный` нужно пропускать пустые страницы. |
 | shapeType | ShapeType | Тип фигуры. |
 
 ### Смотрите также
@@ -189,7 +189,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(bool) {#constructor_8}
 
-Инициализирует новый экземпляр класса[`TiffSettings`](../../tiffsettings).
+Инициализирует новый экземпляр[`TiffSettings`](../../tiffsettings) класс.
 
 ```csharp
 public TiffSettings(bool skipBlankPages)
@@ -197,7 +197,7 @@ public TiffSettings(bool skipBlankPages)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| skipBlankPages | Boolean | , если установлено значение` true` [пропускать пустые страницы] . |
+| skipBlankPages | Boolean | если установлено`истинный` [пропустить пустые страницы]. |
 
 ### Смотрите также
 

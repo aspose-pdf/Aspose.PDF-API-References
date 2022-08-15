@@ -1,14 +1,14 @@
 ---
 title: InkAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 用于生成器的 Ink 注释的构造函数
+description: Generator. Ink 注释的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/inkannotation/inkannotation/
 ---
 ## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
 
-用于生成器的 Ink 注释的构造函数。
+Generator. Ink 注释的构造函数
 
 ```csharp
 public InkAnnotation(Document document, IList<Point[]> inkList)
@@ -40,7 +40,7 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 应创建注释的文档页面。 |
-| rect | Rectangle | 标注矩形，定义标注在页面上的位置。 |
+| rect | Rectangle | 注释矩形，定义页面上注释的位置。 |
 | inkList | IList`1 | Point[] 数组的数组，每个数组代表一个描边路径。 |
 
 ### 也可以看看

@@ -22,7 +22,7 @@ public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| Exception | 只有一个值应为 Null |
+| Exception | 只有其中一个值为 Null |
 
 ### 也可以看看
 

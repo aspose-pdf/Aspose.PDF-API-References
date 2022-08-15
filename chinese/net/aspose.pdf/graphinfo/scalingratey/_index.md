@@ -1,14 +1,14 @@
 ---
 title: ScalingRateY
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值表示转换坐标系时y坐标的缩放比例
+description: 获取或设置一个浮点值表示坐标系变换时y坐标的缩放比例
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/graphinfo/scalingratey/
 ---
 ## GraphInfo.ScalingRateY property
 
-获取或设置一个浮点值，表示转换坐标系时y坐标的缩放比例。
+获取或设置一个浮点值，表示坐标系变换时y坐标的缩放比例。
 
 ```csharp
 public double ScalingRateY { get; set; }

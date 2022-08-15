@@ -1,14 +1,14 @@
 ---
 title: Invisible
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的不可见性这基本上反映了RenderingModeaspose.pdf.text/textstate/renderingmode状态除了一些特殊情况如剪裁
+description: 获取或设置文本的不可见性这基本反映了RenderingModeaspose.pdf.text/textstate/renderingmode状态除了一些特殊情况如剪裁
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.text/textstate/invisible/
 ---
 ## TextState.Invisible property
 
-获取或设置文本的不可见性。这基本上反映了[`RenderingMode`](../renderingmode)状态，除了一些特殊情况（如剪裁）。
+获取或设置文本的不可见性。这基本反映了[`RenderingMode`](../renderingmode)状态，除了一些特殊情况（如剪裁）。
 
 ```csharp
 public virtual bool Invisible { get; set; }

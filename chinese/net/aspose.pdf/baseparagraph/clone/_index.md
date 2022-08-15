@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API 参考
-description: 克隆此实例 虚方法始终返回 null
+description: 克隆此实例 虚拟方法总是返回 null.
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/baseparagraph/clone/
 ---
 ## BaseParagraph.Clone method
 
-克隆此实例。 虚方法。始终返回 null。
+克隆此实例。 虚拟方法。总是返回 null.
 
 ```csharp
 public virtual object Clone()
@@ -16,7 +16,7 @@ public virtual object Clone()
 
 ### 返回值
 
-空。
+无效的。
 
 ### 也可以看看
 

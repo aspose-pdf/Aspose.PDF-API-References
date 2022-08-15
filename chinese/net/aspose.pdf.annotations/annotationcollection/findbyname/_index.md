@@ -16,11 +16,11 @@ public Annotation FindByName(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 注解名称 |
+| name | String | 注释名称 |
 
 ### 返回值
 
-注解对象（如果找到）；否则为空。
+找到注释对象；否则为空。
 
 ### 也可以看看
 

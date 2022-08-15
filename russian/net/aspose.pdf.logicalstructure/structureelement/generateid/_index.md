@@ -1,14 +1,14 @@
 ---
 title: GenerateId
 second_title: Aspose.PDF для справочника API .NET
-description: Генерировать ID для элемента структуры.
+description: Создать идентификатор для элемента структуры.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/generateid/
 ---
 ## StructureElement.GenerateId method
 
-Генерировать ID для элемента структуры.
+Создать идентификатор для элемента структуры.
 
 ```csharp
 public void GenerateId()

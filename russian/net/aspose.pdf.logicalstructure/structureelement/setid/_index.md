@@ -1,14 +1,14 @@
 ---
 title: SetId
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает идентификатор элемента структуры.
+description: Устанавливает ID для элемента структуры.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/setid/
 ---
 ## StructureElement.SetId method
 
-Устанавливает идентификатор элемента структуры.
+Устанавливает ID для элемента структуры.
 
 ```csharp
 public void SetId(string id)
@@ -16,7 +16,7 @@ public void SetId(string id)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| id | String | Значение идентификатора элемента структуры |
+| id | String | Значение ID для элемента структуры |
 
 ### Смотрите также
 

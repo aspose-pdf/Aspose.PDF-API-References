@@ -1,14 +1,14 @@
 ---
 title: VerticalAlignmentType
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置结果页面上原始 PDF 内容的垂直对齐方式默认为 VerticalAlignmentType.Bottom
+description: 获取或设置PDF原始内容在结果页上的垂直对齐方式默认为VerticalAlignmentType.Bottom.
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/verticalalignmenttype/
 ---
 ## PdfPageEditor.VerticalAlignmentType property
 
-获取或设置结果页面上原始 PDF 内容的垂直对齐方式，默认为 VerticalAlignmentType.Bottom。
+获取或设置PDF原始内容在结果页上的垂直对齐方式，默认为VerticalAlignmentType.Bottom.
 
 ```csharp
 public VerticalAlignment VerticalAlignmentType { get; set; }

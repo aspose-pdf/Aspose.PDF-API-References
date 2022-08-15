@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TabStopaspose.pdf.text/tabstop类的新实例并将其添加到 TabStops 集合
+description: 初始化TabStopaspose.pdf.text/tabstop类并将其添加到 TabStops 集合中
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/tabstops/add/
 ---
 ## Add() {#add}
 
-初始化[`TabStop`](../../tabstop)类的新实例并将其添加到 TabStops 集合。
+初始化[`TabStop`](../../tabstop)类并将其添加到 TabStops 集合中。
 
 ```csharp
 public TabStop Add()
@@ -16,7 +16,7 @@ public TabStop Add()
 
 ### 返回值
 
-新[`TabStop`](../../tabstop)对象。
+新的[`TabStop`](../../tabstop)目的。
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public TabStop Add()
 
 ## Add(float) {#add_1}
 
-用指定的位置和 初始化[`TabStop`](../../tabstop)类的新实例将其添加到 TabStops 集合。
+初始化[`TabStop`](../../tabstop)具有指定位置和 的类将其添加到 TabStops 集合中。
 
 ```csharp
 public TabStop Add(float position)
@@ -41,7 +41,7 @@ public TabStop Add(float position)
 
 ### 返回值
 
-新[`TabStop`](../../tabstop)对象。
+新的[`TabStop`](../../tabstop)目的。
 
 ### 也可以看看
 
@@ -54,7 +54,7 @@ public TabStop Add(float position)
 
 ## Add(TabStop) {#add_3}
 
-将[`TabStop`](../../tabstop)类的实例添加到 TabStops 集合中。
+添加实例[`TabStop`](../../tabstop)类到 TabStops 集合。
 
 ```csharp
 public void Add(TabStop tabStop)
@@ -62,7 +62,7 @@ public void Add(TabStop tabStop)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tabStop | TabStop | [`TabStop`](../../tabstop)对象。 |
+| tabStop | TabStop | 这[`TabStop`](../../tabstop)目的。 |
 
 ### 也可以看看
 
@@ -75,7 +75,7 @@ public void Add(TabStop tabStop)
 
 ## Add(float, TabLeaderType) {#add_2}
 
-初始化[`TabStop`](../../tabstop)类的新实例，指定位置和领导 键入并将其添加到 TabStops 集合中。
+初始化[`TabStop`](../../tabstop)具有指定位置和领导者 类型的类并将其添加到 TabStops 集合中。
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
@@ -84,11 +84,11 @@ public TabStop Add(float position, TabLeaderType leaderType)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | position | Single | 制表位的位置。 |
-| leaderType | TabLeaderType | 制表位的引线类型。 |
+| leaderType | TabLeaderType | 制表位的前导类型。 |
 
 ### 返回值
 
-新[`TabStop`](../../tabstop)对象。
+新的[`TabStop`](../../tabstop)目的。
 
 ### 也可以看看
 

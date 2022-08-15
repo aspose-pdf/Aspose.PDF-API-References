@@ -16,8 +16,8 @@ public void Add(string name, IAppointment appointment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя получателя. |
-| appointment | IAppointment | Назначение для добавления. |
+| name | String | Название пункта назначения. |
+| appointment | IAppointment | Назначение добавить. |
 
 ### Смотрите также
 

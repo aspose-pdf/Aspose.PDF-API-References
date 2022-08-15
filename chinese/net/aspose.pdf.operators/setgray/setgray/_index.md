@@ -1,14 +1,14 @@
 ---
 title: SetGray
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setgray/setgray/
 ---
 ## SetGray constructor
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public SetGray(double gray)
@@ -16,7 +16,7 @@ public SetGray(double gray)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| gray | Double | 灰度值等级。 |
+| gray | Double | 灰度值的级别。 |
 
 ### 也可以看看
 

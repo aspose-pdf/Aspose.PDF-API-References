@@ -20,7 +20,7 @@ public enum WordWrapMode
 | --- | --- | --- |
 | NoWrap | `0` | 不执行包装 |
 | DiscretionaryHyphenation | `1` | 执行自由断字。允许在中间打断单词。 |
-| ByWords | `2` | 换行只换行完整的单词。 如果无法换行完整的单词，则尝试使用自由断字 |
+| ByWords | `2` | 换行只换行完整的单词。 如果无法换行完整的单词，尝试使用任意连字符 |
 | Undefined | `3` | WordWrapMode 未设置。 将使用上层结构（表格单元格、段落等）的包装策略。 |
 
 ### 也可以看看

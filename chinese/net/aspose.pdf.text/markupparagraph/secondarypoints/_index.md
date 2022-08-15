@@ -1,14 +1,14 @@
 ---
 title: SecondaryPoints
 second_title: Aspose.PDF for .NET API 参考
-description: 次级多边形的点描述了段落的延续如果该段落在下一列或下一页中继续则它不会为空 起点是段落的左下角接下来的点按逆时针顺序排列
+description: 次多边形的点描述了段落的延续如果该段落在下一列或下一页继续则它不会为空 起点是段落的左下角接下来的点是逆时针顺序
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/markupparagraph/secondarypoints/
 ---
 ## MarkupParagraph.SecondaryPoints property
 
-次级多边形的点描述了段落的延续。如果该段落在下一列或下一页中继续，则它不会为空。 起点是段落的左下角。接下来的点按逆时针顺序排列。
+次多边形的点描述了段落的延续。如果该段落在下一列或下一页继续，则它不会为空。 起点是段落的左下角。接下来的点是逆时针顺序。
 
 ```csharp
 public List<Point[]> SecondaryPoints { get; }

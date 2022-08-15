@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.PDF для справочника API .NET
-description: Повернуть прямоугольник на заданный угол.
+description: Повернуть прямоугольник на указанный угол.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf/rectangle/rotate/
 ---
 ## Rotate(Rotation) {#rotate}
 
-Повернуть прямоугольник на заданный угол.
+Повернуть прямоугольник на указанный угол.
 
 ```csharp
 public void Rotate(Rotation angle)
@@ -29,7 +29,7 @@ public void Rotate(Rotation angle)
 
 ## Rotate(int) {#rotate_1}
 
-Повернуть прямоугольник на заданный угол.
+Повернуть прямоугольник на указанный угол.
 
 ```csharp
 public void Rotate(int angle)

@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: 返回集合的枚举器
+description: 返回集合的枚举数
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/baseoperatorcollection/getenumerator/
 ---
 ## BaseOperatorCollection.GetEnumerator method
 
-返回集合的枚举器
+返回集合的枚举数
 
 ```csharp
 public abstract IEnumerator<Operator> GetEnumerator()

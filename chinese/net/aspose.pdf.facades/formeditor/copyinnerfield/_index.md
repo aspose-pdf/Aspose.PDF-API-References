@@ -16,15 +16,15 @@ public void CopyInnerField(string fieldName, string newFieldName, int pageNum)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 旧的完全限定字段名。 |
-| newFieldName | String | 新的完全限定字段名。如果为 null，则设置为 fieldName + "~"。 |
+| fieldName | String | 旧的完全限定字段名称。 |
+| newFieldName | String | 新的完全限定字段名称。如果为 null，则设置为 fieldName + "~"。 |
 | pageNum | Int32 | 保存新字段的页数。如果为 -1，则新字段将复制到与托管旧字段相同的页面。 |
 
 ### 例子
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
-  //在第二页创建文本字段的副本。
+//在 psecond 页面上创建文本字段的副本。
 formEditor.CopyInnerField("textField", "textFieldCopy", 2);
 ```
 
@@ -47,8 +47,8 @@ public void CopyInnerField(string fieldName, string newFieldName, int pageNum, f
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 旧的完全限定字段名。 |
-| newFieldName | String | 新的完全限定字段名。如果为 null，则设置为 fieldName + "~"。 |
+| fieldName | String | 旧的完全限定字段名称。 |
+| newFieldName | String | 新的完全限定字段名称。如果为 null，则设置为 fieldName + "~"。 |
 | pageNum | Int32 | 保存新字段的页数。如果为 -1，则新字段将复制到与托管旧字段相同的页面。 |
 | abscissa | Single | 新字段的横坐标。如果为-1，横坐标将等于原始横坐标。 |
 | ordinate | Single | 新字段的纵坐标。如果为-1，则纵坐标将等于原始纵坐标。 |
@@ -57,7 +57,7 @@ public void CopyInnerField(string fieldName, string newFieldName, int pageNum, f
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
-  //在第二页创建文本字段的副本。
+//在 psecond 页面上创建文本字段的副本。
 formEditor.CopyInnerField("textField", "textFieldCopy", 2, 100, 200);
 ```
 

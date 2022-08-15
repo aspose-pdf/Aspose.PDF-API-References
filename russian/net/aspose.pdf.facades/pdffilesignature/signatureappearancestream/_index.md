@@ -1,14 +1,14 @@
 ---
 title: SignatureAppearanceStream
 second_title: Aspose.PDF для справочника API .NET
-description: Задает или получает графический вид подписи. Значение свойства представляет поток изображения.
+description: Задает или получает графический вид подписи. Значение свойства представляет поток изображений.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffilesignature/signatureappearancestream/
 ---
 ## PdfFileSignature.SignatureAppearanceStream property
 
-Задает или получает графический вид подписи. Значение свойства представляет поток изображения.
+Задает или получает графический вид подписи. Значение свойства представляет поток изображений.
 
 ```csharp
 public Stream SignatureAppearanceStream { get; set; }

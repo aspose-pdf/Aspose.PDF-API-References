@@ -1,14 +1,14 @@
 ---
 title: Certify
 second_title: Aspose.PDF for .NET API 参考
-description: 使用 MDP 签名验证文档 签名原因联系人位置等数据必须由Signature对象sig的相应属性提供
+description: 用 MDP 签名证明文档 签名原因联系人和位置等数据必须由签名对象 sig 的相应属性提供
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdffilesignature/certify/
 ---
 ## Certify(int, string, string, string, bool, Rectangle, DocMDPSignature) {#certify}
 
-使用 MDP 签名验证文档。 签名原因、联系人、位置等数据必须由Signature对象sig的相应属性提供。
+用 MDP 签名证明文档。 签名原因、联系人和位置等数据必须由签名对象 sig 的相应属性提供。
 
 ```csharp
 public void Certify(int page, string SigReason, string SigContact, string SigLocation, 
@@ -19,8 +19,8 @@ public void Certify(int page, string SigReason, string SigContact, string SigLoc
 | --- | --- | --- |
 | page | Int32 | 进行签名的页面。 |
 | SigReason | String | 签名的原因。 |
-| SigContact | String | 签名的联系人。 |
-| SigLocation | String | 签名位置。 |
+| SigContact | String | 签字的联系方式。 |
+| SigLocation | String | 签名的位置。 |
 | visible | Boolean | 签名的可见性。 |
 | annotRect | Rectangle | 签名的矩形。 |
 | docMdpSignature | DocMDPSignature | 签名的文档 MDP 类型。 |
@@ -36,7 +36,7 @@ public void Certify(int page, string SigReason, string SigContact, string SigLoc
 
 ## Certify(string, DocMDPSignature) {#certify_1}
 
-使用 MDP 签名验证文档，该签名放置在已呈现的签名字段中。 签名前签名字段必须为空，即字段不能包含签名字典。 因此pdf文档已经有签名字段，你不应该提供签名的地方， 对应的页面和矩形取自签名名称找到的签名字段（见sigName 参数）。
+用 MDP 签名证明文档已经存在签名字段。 签名前签名字段必须为空，即字段不能包含签名字典。 因此 pdf 文档已经有签名字段，你不应该提供的地方盖章签名， 对应的页面和矩形取自签名名称找到的签名字段（见sigName参数）。
 
 ```csharp
 public void Certify(string sigName, DocMDPSignature docMdpSignature)
@@ -45,7 +45,7 @@ public void Certify(string sigName, DocMDPSignature docMdpSignature)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | sigName | String | 签名字段的名称。 |
-| docMdpSignature | DocMDPSignature | 签名的类型，可以是 &lt;PKCS1 cref="T:Aspose.Pdf.Forms.PKCS1" /&gt;, &lt;PKCS7 cref="T:Aspose.Pdf.Forms.PKCS7" /&gt; 和 &lt;PKCS7Detached cref="T:Aspose.Pdf.Forms.PKCS7Detached" /&gt; |
+| docMdpSignature | DocMDPSignature | 签名的类型，可以是,和 |
 
 ### 也可以看看
 

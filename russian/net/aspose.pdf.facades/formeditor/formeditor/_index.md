@@ -30,7 +30,7 @@ FormEditor formEditor = new FormEditor();
 
 ## FormEditor(Document) {#constructor_1}
 
-Инициализирует новый[`FormEditor`](../../formeditor)объект на основе*document*.
+Инициализирует новый[`FormEditor`](../../formeditor) объект на базе*document* .
 
 ```csharp
 public FormEditor(Document document)
@@ -38,7 +38,7 @@ public FormEditor(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ в формате PDF. |
+| document | Document | Документ пдф. |
 
 ### Смотрите также
 

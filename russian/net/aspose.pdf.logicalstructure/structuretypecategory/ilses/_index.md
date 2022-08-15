@@ -1,14 +1,14 @@
 ---
 title: ILSEs
 second_title: Aspose.PDF для справочника API .NET
-description: Структурные элементы встроенного уровня ILSE описывают расположение содержимого внутри BLSE продолжающееся в направлении встроенного продвижения.
+description: Структурные элементы встроенного уровня ILSE описывают размещение содержимого внутри BLSE в направлении встроенной последовательности.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/ilses/
 ---
 ## StructureTypeCategory.ILSEs field
 
-Структурные элементы встроенного уровня (ILSE) описывают расположение содержимого внутри BLSE, продолжающееся в направлении встроенного продвижения.
+Структурные элементы встроенного уровня (ILSE) описывают размещение содержимого внутри BLSE в направлении встроенной последовательности.
 
 ```csharp
 public static readonly StructureTypeCategory ILSEs;

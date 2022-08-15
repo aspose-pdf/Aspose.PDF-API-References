@@ -1,14 +1,14 @@
 ---
 title: Convert
 second_title: Aspose.PDF for .NET API 参考
-description: 转换文档页面
+description: 转换文档的页面
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/rgbtodevicegrayconversionstrategy/convert/
 ---
 ## RgbToDeviceGrayConversionStrategy.Convert method
 
-转换文档页面。
+转换文档的页面。
 
 ```csharp
 public void Convert(Page page)

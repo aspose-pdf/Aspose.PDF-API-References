@@ -1,14 +1,14 @@
 ---
 title: PrintAsGrayscale
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个布尔值指示页面是否以灰度打印默认为假
+description: 获取或设置一个布尔值指示页面是否打印为灰度默认为假
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdfviewer/printasgrayscale/
 ---
 ## PdfViewer.PrintAsGrayscale property
 
-获取或设置一个布尔值，指示页面是否以灰度打印。默认为假。
+获取或设置一个布尔值，指示页面是否打印为灰度。默认为假。
 
 ```csharp
 public bool PrintAsGrayscale { get; set; }

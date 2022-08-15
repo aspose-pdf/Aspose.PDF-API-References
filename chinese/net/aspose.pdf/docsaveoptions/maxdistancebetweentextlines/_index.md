@@ -1,14 +1,14 @@
 ---
 title: MaxDistanceBetweenTextLines
 second_title: Aspose.PDF for .NET API 参考
-description: 此参数用于将文本行分组为段落 确定两个相对文本行可以相隔多远以文本行高度的百分之百指定
+description: 此参数用于将文本行分组为段落 确定两个相对文本行可以相隔多远指定文本行高度的百分之百
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/docsaveoptions/maxdistancebetweentextlines/
 ---
 ## DocSaveOptions.MaxDistanceBetweenTextLines property
 
-此参数用于将文本行分组为段落。 确定两个相对文本行可以相隔多远。以文本行高度的百分之百指定。
+此参数用于将文本行分组为段落。 确定两个相对文本行可以相隔多远。指定文本行高度的百分之百。
 
 ```csharp
 public float MaxDistanceBetweenTextLines { get; set; }

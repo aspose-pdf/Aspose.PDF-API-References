@@ -1,14 +1,14 @@
 ---
 title: LineSpacing
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает режим межстрочного интервала. Значение по умолчаниюLineSpacingMode.FontSize
+description: Получает или задает режим межстрочного интервала. Значение по умолчанию  LineSpacingMode.FontSize
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textformattingoptions/linespacing/
 ---
 ## TextFormattingOptions.LineSpacing property
 
-Получает или задает режим межстрочного интервала. Значение по умолчанию:LineSpacingMode.FontSize
+Получает или задает режим межстрочного интервала. Значение по умолчанию — LineSpacingMode.FontSize
 
 ```csharp
 public LineSpacingMode LineSpacing { get; set; }

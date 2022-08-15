@@ -1,14 +1,14 @@
 ---
 title: RubyPosition_After
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 RubyPositionAfter - RT 内容应沿元素的后边缘对齐
+description: 属性 RubyPosition After - RT 内容应沿元素的后边缘对齐
 type: docs
 weight: 480
 url: /zh/net/aspose.pdf.logicalstructure/attributename/rubyposition_after/
 ---
 ## AttributeName.RubyPosition_After field
 
-属性 RubyPosition:After - RT 内容应沿元素的后边缘对齐。
+属性 RubyPosition: After - RT 内容应沿元素的后边缘对齐。
 
 ```csharp
 public static readonly AttributeName RubyPosition_After;

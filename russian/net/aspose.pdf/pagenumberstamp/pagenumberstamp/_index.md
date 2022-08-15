@@ -1,14 +1,14 @@
 ---
 title: PageNumberStamp
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPageNumberStampaspose.pdf/pagenumberstamp.
+description: Инициализирует новый экземплярPageNumberStampaspose.pdf/pagenumberstamp класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
 ---
 ## PageNumberStamp(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PageNumberStamp`](../../pagenumberstamp).
+Инициализирует новый экземпляр[`PageNumberStamp`](../../pagenumberstamp) класс.
 
 ```csharp
 public PageNumberStamp(string format)
@@ -16,7 +16,7 @@ public PageNumberStamp(string format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | String | Строковое значение, используемое для штамповки. Подробнее см. в свойстве[`Format`](../format). |
+| format | String | Строковое значение, используемое для штамповки. Видеть[`Format`](../format) свойство для деталей. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public PageNumberStamp(string format)
 
 ## PageNumberStamp() {#constructor}
 
-Инициализирует новый экземпляр класса[`PageNumberStamp`](../../pagenumberstamp). Формат установлен в "#".
+Инициализирует новый экземпляр[`PageNumberStamp`](../../pagenumberstamp) учебный класс. Установлен формат "#".
 
 ```csharp
 public PageNumberStamp()

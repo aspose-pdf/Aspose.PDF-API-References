@@ -1,14 +1,14 @@
 ---
 title: ResumeUpdate
 second_title: Aspose.PDF for .NET API 参考
-description: 恢复文档更新 更新内容流以防有任何未决更改
+description: 恢复文档更新 在有任何未决更改的情况下更新内容流
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/operatorcollection/resumeupdate/
 ---
 ## OperatorCollection.ResumeUpdate method
 
-恢复文档更新。 更新内容流以防有任何未决更改。
+恢复文档更新。 在有任何未决更改的情况下更新内容流。
 
 ```csharp
 public override void ResumeUpdate()

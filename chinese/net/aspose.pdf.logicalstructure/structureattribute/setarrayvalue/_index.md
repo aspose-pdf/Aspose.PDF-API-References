@@ -16,7 +16,7 @@ public void SetArrayValue(AttributeName[] array)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| array | AttributeName[] | 允许值名称的数组。 |
+| array | AttributeName[] | 允许的值名称数组。 |
 
 ### 也可以看看
 

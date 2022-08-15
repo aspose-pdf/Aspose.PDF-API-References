@@ -1,14 +1,14 @@
 ---
 title: JavaScriptCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Этот класс представляет собой набор JavaScript.
+description: Этот класс представляет набор JavaScript.
 type: docs
 weight: 3900
 url: /ru/net/aspose.pdf/javascriptcollection/
 ---
 ## JavaScriptCollection class
 
-Этот класс представляет собой набор JavaScript.
+Этот класс представляет набор JavaScript.
 
 ```csharp
 public class JavaScriptCollection

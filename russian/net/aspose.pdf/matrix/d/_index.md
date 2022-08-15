@@ -1,14 +1,14 @@
 ---
 title: D
 second_title: Aspose.PDF для справочника API .NET
-description: D член матрицы преобразования.
+description: D элемент матрицы преобразования.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/matrix/d/
 ---
 ## Matrix.D property
 
-D член матрицы преобразования.
+D элемент матрицы преобразования.
 
 ```csharp
 public double D { get; set; }

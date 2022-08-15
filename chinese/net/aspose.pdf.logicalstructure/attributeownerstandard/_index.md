@@ -1,14 +1,14 @@
 ---
 title: AttributeOwnerStandard
 second_title: Aspose.PDF for .NET API 参考
-description: 表示标准属性所有者
+description: 代表标准属性所有者
 type: docs
 weight: 4060
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/
 ---
 ## AttributeOwnerStandard class
 
-表示标准属性所有者。
+代表标准属性所有者。
 
 ```csharp
 public sealed class AttributeOwnerStandard
@@ -25,7 +25,7 @@ public sealed class AttributeOwnerStandard
 | 姓名 | 描述 |
 | --- | --- |
 | override [ToString](../../aspose.pdf.logicalstructure/attributeownerstandard/tostring)() | 返回代表当前对象的字符串。 |
-| [explicit operator](../../aspose.pdf.logicalstructure/attributeownerstandard/op_explicit) | 执行从String到[`AttributeOwnerStandard`](../attributeownerstandard) 的显式转换. |
+| [explicit operator](../../aspose.pdf.logicalstructure/attributeownerstandard/op_explicit) | 执行显式转换String至[`AttributeOwnerStandard`](../attributeownerstandard). |
 
 ## 字段
 
@@ -36,7 +36,7 @@ public sealed class AttributeOwnerStandard
 | static readonly [Html_320](../../aspose.pdf.logicalstructure/attributeownerstandard/html_320) | HTML-3.20 属性所有者。 |
 | static readonly [Html_401](../../aspose.pdf.logicalstructure/attributeownerstandard/html_401) | HTML-4.01 属性所有者。 |
 | static readonly [Layout](../../aspose.pdf.logicalstructure/attributeownerstandard/layout) | 布局属性所有者。 |
-| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list) | 列表属性所有者。 |
+| static readonly [List](../../aspose.pdf.logicalstructure/attributeownerstandard/list) | 列出属性所有者。 |
 | static readonly [Oeb_100](../../aspose.pdf.logicalstructure/attributeownerstandard/oeb_100) | OEB-1.00 属性所有者。 |
 | static readonly [PrintField](../../aspose.pdf.logicalstructure/attributeownerstandard/printfield) | PrintField 属性所有者。 |
 | static readonly [Rtf_105](../../aspose.pdf.logicalstructure/attributeownerstandard/rtf_105) | RTF-1.05 属性所有者。 |

@@ -1,14 +1,14 @@
 ---
 title: AllowReusePageContent
 second_title: Aspose.PDF for .NET API 参考
-description: 如果文档为等页优化时将重用页面内容
+description: 如果文档为等页优化时将重用真实的页面内容
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/
 ---
 ## OptimizationOptions.AllowReusePageContent property
 
-如果文档为等页优化时，将重用页面内容。
+如果文档为等页优化时将重用真实的页面内容。
 
 ```csharp
 public bool AllowReusePageContent { get; set; }

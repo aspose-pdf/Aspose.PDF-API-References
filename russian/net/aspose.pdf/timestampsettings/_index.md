@@ -18,14 +18,14 @@ public class TimestampSettings
 
 | Имя | Описание |
 | --- | --- |
-| [TimestampSettings](timestampsettings)(string, string, DigestHashAlgorithm) | Инициализирует новый экземпляр класса[`TimestampSettings`](../timestampsettings). |
+| [TimestampSettings](timestampsettings)(string, string, DigestHashAlgorithm) | Инициализирует новый экземпляр[`TimestampSettings`](../timestampsettings) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials) { get; set; } | Получает/устанавливает учетные данные базовой аутентификации, имя пользователя и пароль объединяются в строку "имя пользователя:пароль". |
-| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm) { get; set; } | Получает/устанавливает алгоритм дайджеста для внутренних хеш-функций. |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials) { get; set; } | Получает/устанавливает учетные данные для базовой аутентификации. Имя пользователя и пароль объединяются в строку «имя пользователя: пароль». |
+| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm) { get; set; } | Получает/задает алгоритм дайджеста для внутренних хеш-функций. |
 | [ServerUrl](../../aspose.pdf/timestampsettings/serverurl) { get; set; } | Получает/устанавливает URL-адрес сервера меток времени. |
 
 ### Смотрите также

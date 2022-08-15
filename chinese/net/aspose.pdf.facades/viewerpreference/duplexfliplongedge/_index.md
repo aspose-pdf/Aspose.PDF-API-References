@@ -1,14 +1,14 @@
 ---
 title: DuplexFlipLongEdge
 second_title: Aspose.PDF for .NET API 参考
-description: 双面并翻转纸张的短边
+description: 在纸张的短边上双面并翻转
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/viewerpreference/duplexfliplongedge/
 ---
 ## ViewerPreference.DuplexFlipLongEdge field
 
-双面并翻转纸张的短边。
+在纸张的短边上双面并翻转。
 
 ```csharp
 public const int DuplexFlipLongEdge;

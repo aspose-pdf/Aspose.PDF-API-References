@@ -1,14 +1,14 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF for .NET API 参考
-description: 表示文本结构元素和 TaggedContent 的文本状态设置ITextElement ITaggedContent
+description: 表示文本结构元素和 TaggedContentITextElementITaggedContent的文本状态设置
 type: docs
 weight: 4540
 url: /zh/net/aspose.pdf.logicalstructure/structuretextstate/
 ---
 ## StructureTextState class
 
-表示文本结构元素和 TaggedContent 的文本状态设置（ITextElement, ITaggedContent）
+表示文本结构元素和 TaggedContent（ITextElement、ITaggedContent）的文本状态设置
 
 ```csharp
 public class StructureTextState

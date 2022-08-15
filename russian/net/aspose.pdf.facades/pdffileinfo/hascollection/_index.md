@@ -1,14 +1,14 @@
 ---
 title: HasCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает true если текущий входной файл является файлом Портфолио содержащим коллекцию PDF-файлов.
+description: Возвращает значение true если текущий входной файл является файлом Портфолио содержащим в себе коллекцию PDF-файлов.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffileinfo/hascollection/
 ---
 ## PdfFileInfo.HasCollection property
 
-Возвращает true, если текущий входной файл является файлом «Портфолио», содержащим коллекцию PDF-файлов.
+Возвращает значение true, если текущий входной файл является файлом «Портфолио», содержащим в себе коллекцию PDF-файлов.
 
 ```csharp
 public bool HasCollection { get; }

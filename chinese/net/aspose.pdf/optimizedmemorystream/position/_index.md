@@ -16,7 +16,7 @@ public override long Position { get; set; }
 
 ### 返回值
 
-内的当前位置流。
+流中的当前位置。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: AddNewLineText
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет новую строку в объект FormattedText и устанавливает newLineText в текст следующей строки.
+description: Добавляет новую строку в объект FormattedText и задает для newLineText текст следующей строки.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/formattedtext/addnewlinetext/
 ---
 ## AddNewLineText(string) {#addnewlinetext}
 
-Добавляет новую строку в объект FormattedText и устанавливает newLineText в текст следующей строки.
+Добавляет новую строку в объект FormattedText и задает для newLineText текст следующей строки.
 
 ```csharp
 public void AddNewLineText(string newLineText)
@@ -28,7 +28,7 @@ public void AddNewLineText(string newLineText)
 
 ## AddNewLineText(string, float) {#addnewlinetext_1}
 
-Добавляет новую строку в объект FormattedText и устанавливает newLineText в текст следующей строки.
+Добавляет новую строку в объект FormattedText и задает для newLineText текст следующей строки.
 
 ```csharp
 public void AddNewLineText(string newLineText, float lineSpacing)
@@ -37,7 +37,7 @@ public void AddNewLineText(string newLineText, float lineSpacing)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | newLineText | String | Текст новой добавленной строки. |
-| lineSpacing | Single | Интервал строки. |
+| lineSpacing | Single | Расстояние между строками. |
 
 ### Смотрите также
 

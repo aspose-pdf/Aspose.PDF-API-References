@@ -26,7 +26,7 @@ public class TextShowOperator : TextOperator
 | 姓名 | 描述 |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | 页面运算符列表中的运算符索引。 |
-| virtual [Text](../../aspose.pdf.operators/textshowoperator/text) { get; set; } | 获取页面上哪个运算符的文本。 |
+| virtual [Text](../../aspose.pdf.operators/textshowoperator/text) { get; set; } | 获取操作符在页面上的文本。 |
 
 ## 方法
 

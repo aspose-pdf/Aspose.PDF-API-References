@@ -1,14 +1,14 @@
 ---
 title: Italic
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает флаг курсива для текста заголовка этого элемента структуры
+description: Получает или устанавливает флаг курсива для текста заголовка этого элемента схемы
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/outlineitemcollection/italic/
 ---
 ## OutlineItemCollection.Italic property
 
-Получает или устанавливает флаг курсива для текста заголовка этого элемента структуры
+Получает или устанавливает флаг курсива для текста заголовка этого элемента схемы
 
 ```csharp
 public bool Italic { get; set; }

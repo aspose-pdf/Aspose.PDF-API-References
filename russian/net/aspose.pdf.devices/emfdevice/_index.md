@@ -18,20 +18,20 @@ public sealed class EmfDevice : ImageDevice
 
 | Имя | Описание |
 | --- | --- |
-| [EmfDevice](emfdevice#constructor)() | Инициализирует новый экземпляр класса[`EmfDevice`](../emfdevice)с разрешением по умолчанию растрового изображения, записанного в emf. |
-| [EmfDevice](emfdevice#constructor_2)(PageSize) | Инициализирует новый экземпляр класса[`EmfDevice`](../emfdevice)с заданным размером страницы, и разрешение по умолчанию для растрового изображения, записанного в emf (=150) |
-| [EmfDevice](emfdevice#constructor_1)(Resolution) | Инициализирует новый экземпляр класса[`EmfDevice`](../emfdevice).  Разрешение растрового изображения, записанного в emf, см.[`Resolution`](../resolution)учебный класс. |
-| [EmfDevice](emfdevice#constructor_4)(int, int) | Инициализирует новый экземпляр класса[`EmfDevice`](../emfdevice)с предоставленными размерами изображения, и разрешение по умолчанию для растрового изображения, записанного в emf (=150) |
-| [EmfDevice](emfdevice#constructor_3)(PageSize, Resolution) | Инициализирует новый экземпляр класса[`JpegDevice`](../jpegdevice)с заданным размером страницы, и разрешение для растрового изображения, записанного в emf. |
-| [EmfDevice](emfdevice#constructor_5)(int, int, Resolution) | Инициализирует новый экземпляр класса[`JpegDevice`](../jpegdevice)с предоставленными размерами изображения, и разрешение для растрового изображения, записанного в emf. |
+| [EmfDevice](emfdevice#constructor)() | Инициализирует новый экземпляр[`EmfDevice`](../emfdevice) класс с разрешением по умолчанию для растрового изображения, записанного в emf. |
+| [EmfDevice](emfdevice#constructor_2)(PageSize) | Инициализирует новый экземпляр[`EmfDevice`](../emfdevice) class с заданным размером страницы, и разрешением по умолчанию для растрового изображения, записанного в emf (=150) |
+| [EmfDevice](emfdevice#constructor_1)(Resolution) | Инициализирует новый экземпляр[`EmfDevice`](../emfdevice) класс.  Разрешение растрового изображения, записанного в emf, см.[`Resolution`](../resolution) класс. |
+| [EmfDevice](emfdevice#constructor_4)(int, int) | Инициализирует новый экземпляр[`EmfDevice`](../emfdevice) класс с предоставленными размерами изображения, и разрешением по умолчанию для растрового изображения, записанного в emf (=150) |
+| [EmfDevice](emfdevice#constructor_3)(PageSize, Resolution) | Инициализирует новый экземпляр[`JpegDevice`](../jpegdevice)класс с предоставленным размером страницы, и разрешением для растрового изображения, записанного в emf. |
+| [EmfDevice](emfdevice#constructor_5)(int, int, Resolution) | Инициализирует новый экземпляр[`JpegDevice`](../jpegdevice) класс с предоставленными размерами изображения, и разрешением для растрового изображения, записанного в emf. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Получает или задает тип координат страницы (поля Media/Crop). Значение CropBox используется по умолчанию. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Получает или задает тип координат страницы (поля мультимедиа/обрезки). Значение CropBox используется по умолчанию. |
 | [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Получает или задает режим представления формы. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Получает высоту выходного изображения. |
+| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Получает высоту вывода изображения. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Получает или задает параметры рендеринга. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Получает разрешение изображения. |
 | [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Получает ширину вывода изображения. |
@@ -41,7 +41,7 @@ public sealed class EmfDevice : ImageDevice
 | Имя | Описание |
 | --- | --- |
 | override [Process](../../aspose.pdf.devices/emfdevice/process#process)(Page, Stream) | Преобразует страницу в emf и сохраняет ее в выходном потоке. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Выполняет некоторую операцию на данной странице и сохраняет результат в файл. |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Выполняет некоторую операцию на данной странице и сохраняет результаты в файл. |
 
 ### Смотрите также
 

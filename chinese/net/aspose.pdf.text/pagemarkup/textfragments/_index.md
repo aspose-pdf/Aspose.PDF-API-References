@@ -1,14 +1,14 @@
 ---
 title: TextFragments
 second_title: Aspose.PDF for .NET API 参考
-description: 获取在页面上找到的TextFragmentaspose.pdf.text/textfragment集合
+description: 获取集合TextFragmentaspose.pdf.text/textfragment这是在页面上找到的
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/pagemarkup/textfragments/
 ---
 ## PageMarkup.TextFragments property
 
-获取在页面上找到的[`TextFragment`](../../textfragment)集合。
+获取集合[`TextFragment`](../../textfragment)这是在页面上找到的。
 
 ```csharp
 public List<TextFragment> TextFragments { get; }
@@ -16,7 +16,7 @@ public List<TextFragment> TextFragments { get; }
 
 ### 评论
 
-[`TextFragment`](../../textfragment)对象提供访问搜索出现的文本、文本属性，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
+的[`TextFragment`](../../textfragment)对象提供对搜索出现文本、文本属性的访问，并允许编辑文本和更改文本状态（字体、字体大小、颜色等）。
 
 ### 也可以看看
 

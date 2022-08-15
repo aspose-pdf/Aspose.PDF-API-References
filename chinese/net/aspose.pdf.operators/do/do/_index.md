@@ -16,7 +16,7 @@ public Do(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 调用 XObject 的名称。 |
+| name | String | 调用的 XObject 的名称。 |
 
 ### 也可以看看
 

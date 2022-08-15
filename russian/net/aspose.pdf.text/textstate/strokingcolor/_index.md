@@ -1,14 +1,14 @@
 ---
 title: StrokingColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает основной цвет текста.
+description: Получает или задает цвет текста переднего плана.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.text/textstate/strokingcolor/
 ---
 ## TextState.StrokingColor property
 
-Получает или устанавливает основной цвет текста.
+Получает или задает цвет текста переднего плана.
 
 ```csharp
 public virtual Color StrokingColor { get; set; }

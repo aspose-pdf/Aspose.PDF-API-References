@@ -1,14 +1,14 @@
 ---
 title: FloralWhite
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为FFFFFAF0 的系统定义颜色
+description: 获取 ARGB 值为 FFFFFAF0. 的系统定义颜色
 type: docs
 weight: 450
 url: /zh/net/aspose.pdf/color/floralwhite/
 ---
 ## Color.FloralWhite property
 
-获取 ARGB 值为#FFFFFAF0 的系统定义颜色。
+获取 ARGB 值为 #FFFFFAF0. 的系统定义颜色
 
 ```csharp
 public static Color FloralWhite { get; }
@@ -16,7 +16,7 @@ public static Color FloralWhite { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

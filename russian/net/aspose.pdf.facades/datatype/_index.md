@@ -18,12 +18,12 @@ public enum DataType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| FDF | `0` | Поток FDF. |
-| XML | `1` | Поток XML. |
+| FDF | `0` | FDF-поток. |
+| XML | `1` | XML-поток. |
 | XFDF | `2` | Поток XFDF. |
 | PDF | `3` | Поток PDF. |
 | OLEDB | `4` | База данных OLEDB, например MS Access. |
-| ODBC | `5` | База данных ODBC, такая как MS SQL Server. |
+| ODBC | `5` | База данных ODBC, например MS SQL Server. |
 
 ### Смотрите также
 

@@ -20,7 +20,7 @@ public KeyValuePair<string, object> this[int index] { get; }
 
 ### Возвращаемое значение
 
-Назначение.
+Назначения.
 
 ### Смотрите также
 

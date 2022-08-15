@@ -1,14 +1,14 @@
 ---
 title: ImageType
 second_title: Aspose.PDF для справочника API .NET
-description: представляют собой сохраненное изображение типа ОС на которое ссылается HTML. Устанавливается конвертером и может использоваться в пользовательском коде чтобы решить что делать
+description: представляет собой сохраненное изображение типа ОС на которое ссылается HTML.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype/
 ---
 ## SvgSaveOptions.SvgImageSavingInfo.ImageType field
 
-представляют собой сохраненное изображение типа ОС, на которое ссылается HTML. Устанавливается конвертером и может использоваться в пользовательском коде чтобы решить, что делать
+представляет собой сохраненное изображение типа ОС, на которое ссылается HTML.
 
 ```csharp
 public SvgExternalImageType ImageType;

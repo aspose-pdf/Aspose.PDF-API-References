@@ -1,14 +1,14 @@
 ---
 title: DecodedFontName
 second_title: Aspose.PDF for .NET API 参考
-description: 有时 PDF 字体通常是中文/日文/韩文字体可能有特定的字体名称 此名称是 PDF 字体属性BaseFont的值有时此属性 可以以十六进制形式表示如果直接读取此名称则它可能以不可读的形式表示为 为了获得可读的形式有必要通过 特定于该字体的规则来解码字体的名称 此属性返回解码的字体名称因此在遇到 不可读FontName的情况下使用它 如果属性FontNameaspose.pdf.text/font/fontname具有可读形式则此属性将与 相同PAspose.Pdf.Text.Font.FontName因此您可以在需要 以可读形式获取字体名称的任何情况下使用此属性
+description: 有时 PDF 字体通常是中文/日文/韩文字体可能有特定的字体名称 此名称是 PDF 字体属性BaseFont的值有时此属性 可以以十六进制形式表示如果直接读取此名称它可能会以不可读的形式表示 为了获得可读的形式有必要通过特定于该字体的 规则来解码字体的名称 此属性返回解码后的字体名称因此在遇到 不可读的情况时使用它FontNameaspose.pdf.text/font/fontname. 如果属性FontNameaspose.pdf.text/font/fontname具有可读形式此属性将与 相同FontNameaspose.pdf.text/font/fontname因此您可以在需要 以可读形式获取字体名称的任何情况下使用此属性
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/font/decodedfontname/
 ---
 ## Font.DecodedFontName property
 
-有时 PDF 字体（通常是中文/日文/韩文字体）可能有特定的字体名称。 此名称是 PDF 字体属性“BaseFont”的值，有时此属性 可以以十六进制形式表示。如果直接读取此名称，则它可能以不可读的形式表示为 。为了获得可读的形式，有必要通过 特定于该字体的规则来解码字体的名称。 此属性返回解码的字体名称，因此在遇到 不可读FontName的情况下使用它。 如果属性[`FontName`](../fontname)具有可读形式，则此属性将与 相同:P:Aspose.Pdf.Text.Font.FontName，因此您可以在需要 以可读形式获取字体名称的任何情况下使用此属性。
+有时 PDF 字体（通常是中文/日文/韩文字体）可能有特定的字体名称。 此名称是 PDF 字体属性“BaseFont”的值，有时此属性 可以以十六进制形式表示。如果直接读取此名称，它可能会以不可读的形式表示 。为了获得可读的形式，有必要通过特定于该字体的 规则来解码字体的名称。 此属性返回解码后的字体名称，因此在遇到 不可读的情况时使用它[`FontName`](../fontname). 如果属性[`FontName`](../fontname)具有可读形式此属性将与 相同[`FontName`](../fontname)，因此您可以在需要 以可读形式获取字体名称的任何情况下使用此属性。
 
 ```csharp
 public string DecodedFontName { get; }

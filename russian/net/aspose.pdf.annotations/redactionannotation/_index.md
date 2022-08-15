@@ -1,14 +1,14 @@
 ---
 title: RedactionAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет аннотацию Redact.
+description: Представляет отредактированную аннотацию.
 type: docs
 weight: 960
 url: /ru/net/aspose.pdf.annotations/redactionannotation/
 ---
 ## RedactionAnnotation class
 
-Представляет аннотацию Redact.
+Представляет отредактированную аннотацию.
 
 ```csharp
 public sealed class RedactionAnnotation : MarkupAnnotation
@@ -36,31 +36,31 @@ public sealed class RedactionAnnotation : MarkupAnnotation
 | [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | Получает или задает текст аннотации. |
 | [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate) { get; } | Получает дату и время создания аннотации. |
 | [DefaultAppearance](../../aspose.pdf.annotations/redactionannotation/defaultappearance) { get; set; } | Получает или задает строку оформления по умолчанию, которая будет использоваться при форматировании текста. |
-| [FillColor](../../aspose.pdf.annotations/redactionannotation/fillcolor) { get; set; } | Получает или задает цвет для заполнения аннотации. |
+| [FillColor](../../aspose.pdf.annotations/redactionannotation/fillcolor) { get; set; } | Получает или задает цвет для заливки аннотации. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | Флаги аннотации. |
 | [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } | Получает полное имя аннотации. |
 | virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } | Получает или задает высоту аннотации. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Получает или устанавливает гиперссылку фрагмента (для генератора pdf). |
-| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto) { get; set; } | Ссылка на аннотацию, на которую эта аннотация является "ответом". Обе аннотации должны быть на одной странице документа. |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Получает или задает логическое значение, указывающее, будет ли этот абзац в следующем столбце. По умолчанию false. (для генерации pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Получает или задает встроенный абзац. По умолчанию false. (для генерации pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Получает или устанавливает логическое значение, которое принудительно генерирует этот абзац на новой странице. По умолчанию false. (для генерации pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Получает или задает логическое значение, указывающее, остается ли текущий абзац на той же странице, что и следующий абзац. По умолчанию false. (для генерации pdf) |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Получает или задает внешнее поле для абзаца (для создания pdf) |
-| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | Получает или устанавливает дату и время последнего изменения аннотации. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Получает или устанавливает гиперссылку на фрагмент (для генератора pdf). |
+| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto) { get; set; } | Ссылка на аннотацию, на которую эта аннотация является «ответом». Обе аннотации должны быть на одной странице документа. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Получает или задает логическое значение, указывающее, будет ли этот абзац находиться в следующем столбце. Значение по умолчанию — false. |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Получает или задает встроенный абзац. Значение по умолчанию — false. (для создания pdf) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Получает или задает логическое значение, которое заставляет этот абзац создаваться на новой странице. Значение по умолчанию — false. |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Получает или задает логическое значение, указывающее, остается ли текущий абзац на той же странице вместе со следующим абзацем. Значение по умолчанию — false. (для создания PDF) |
+| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Получает или задает внешнее поле для абзаца (для создания PDF-файла) |
+| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | Получает или задает дату и время последнего изменения аннотации. |
 | [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } | Получает или задает имя аннотации на странице. |
 | [Opacity](../../aspose.pdf.annotations/markupannotation/opacity) { get; set; } | Получает или задает постоянное значение непрозрачности, используемое при рисовании аннотации. |
-| [OverlayText](../../aspose.pdf.annotations/redactionannotation/overlaytext) { get; set; } | Текст для печати на отредактированной аннотации. |
+| [OverlayText](../../aspose.pdf.annotations/redactionannotation/overlaytext) { get; set; } | Текст для печати на редактируемой аннотации. |
 | virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } | Получает индекс страницы, содержащей аннотацию. |
 | [Popup](../../aspose.pdf.annotations/markupannotation/popup) { get; set; } | Всплывающая аннотация для ввода или редактирования текста, связанного с этой аннотацией. |
 | [QuadPoint](../../aspose.pdf.annotations/redactionannotation/quadpoint) { get; set; } | Массив из 8xN чисел, указывающих координаты области контента, которую предполагается удалить. |
 | virtual [Rect](../../aspose.pdf.annotations/annotation/rect) { get; set; } | Получает или задает прямоугольник аннотации. |
-| [Repeat](../../aspose.pdf.annotations/redactionannotation/repeat) { get; set; } | Если true текст наложения будет повторяться в аннотации. |
-| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype) { get; set; } | Строка, определяющая связь ("тип ответа") между этой аннотацией и аннотацией, указанной InReplyTo. |
+| [Repeat](../../aspose.pdf.annotations/redactionannotation/repeat) { get; set; } | Если true, текст наложения будет повторяться в аннотации. |
+| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype) { get; set; } | Строка, указывающая связь («тип ответа») между этой аннотацией и аннотацией, указанной InReplyTo. |
 | [RichText](../../aspose.pdf.annotations/markupannotation/richtext) { get; set; } | Получает или задает строку форматированного текста, которая будет отображаться во всплывающем окне при открытии аннотации. |
 | [States](../../aspose.pdf.annotations/annotation/states) { get; } | Получает словарь внешнего вида аннотации. |
 | [Subject](../../aspose.pdf.annotations/markupannotation/subject) { get; set; } | Получает текст, представляющий описание объекта. |
-| [TextAlignment](../../aspose.pdf.annotations/redactionannotation/textalignment) { get; set; } | Получает или устанавливает. Выравнивание наложенного текста. |
+| [TextAlignment](../../aspose.pdf.annotations/redactionannotation/textalignment) { get; set; } | Получает или устанавливает. Выравнивание текста наложения. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment) { get; set; } | Получает или задает выравнивание текста для аннотации. |
 | [Title](../../aspose.pdf.annotations/markupannotation/title) { get; set; } | Получает или задает текст, который должен отображаться в строке заголовка аннотации. |
 | virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | Получает или задает вертикальное выравнивание абзаца |
@@ -72,11 +72,11 @@ public sealed class RedactionAnnotation : MarkupAnnotation
 | Имя | Описание |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/redactionannotation/accept)(AnnotationSelector) | Принимает объект посетителя для обработки аннотации. |
-| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Обновить параметры и внешний вид в соответствии с преобразованием матрицы. |
-| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Клонирует этот экземпляр. Виртуальный метод. Всегда возвращайте ноль. |
-| override [Flatten](../../aspose.pdf.annotations/redactionannotation/flatten)() | Выравнивает аннотацию, т.е. удаляет аннотацию и добавляет свою |
+| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Обновить параметры и внешний вид в соответствии с матричным преобразованием. |
+| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Клонирует этот экземпляр. Виртуальный метод. Всегда возвращайте null. |
+| override [Flatten](../../aspose.pdf.annotations/redactionannotation/flatten)() | Сглаживает аннотацию, т.е. удаляет аннотацию и добавляет ее |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Возвращает прямоугольник аннотации с учетом поворота страницы. |
-| [Redact](../../aspose.pdf.annotations/redactionannotation/redact)() | Выравнивает аннотацию и редактирует содержимое страницы (т.е. удаляет текст и изображение под отредактированной аннотацией) |
+| [Redact](../../aspose.pdf.annotations/redactionannotation/redact)() | Сглаживает аннотацию и редактирует содержимое страницы (т.е. удаляет текст и изображение под отредактированной аннотацией) |
 
 ### Смотрите также
 

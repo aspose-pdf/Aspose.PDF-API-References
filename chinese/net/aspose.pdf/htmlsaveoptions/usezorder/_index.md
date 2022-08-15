@@ -1,14 +1,14 @@
 ---
 title: UseZOrder
 second_title: Aspose.PDF for .NET API 参考
-description: 如果属性 UseZORder 设置为 true则图形和文本将添加到生成的 HTML 文档 相应的原始 PDF 文档中的 Z 顺序如果此属性为 false则所有图形将 作为单层放置这可能会对重叠对象造成一些不必要的影响
+description: 如果属性 UseZORder 设置为 true则图形和文本将添加到生成的 HTML 文档 相应地在原始 PDF 文档中的 Z 顺序如果此属性为 false则所有图形都将 作为单层放置这可能会对重叠对象造成一些不必要的影响
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf/htmlsaveoptions/usezorder/
 ---
 ## HtmlSaveOptions.UseZOrder property
 
-如果属性 UseZORder 设置为 true，则图形和文本将添加到生成的 HTML 文档 相应的原始 PDF 文档中的 Z 顺序。如果此属性为 false，则所有图形将 作为单层放置，这可能会对重叠对象造成一些不必要的影响。
+如果属性 UseZORder 设置为 true，则图形和文本将添加到生成的 HTML 文档 相应地在原始 PDF 文档中的 Z 顺序。如果此属性为 false，则所有图形都将 作为单层放置，这可能会对重叠对象造成一些不必要的影响。
 
 ```csharp
 public bool UseZOrder { get; set; }

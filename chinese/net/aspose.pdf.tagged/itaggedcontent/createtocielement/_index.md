@@ -1,14 +1,14 @@
 ---
 title: CreateTOCIElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建TOCIElementaspose.pdf.logicalstructure/tocielement
+description: 创建TOCIElementaspose.pdf.logicalstructure/tocielement.
 type: docs
 weight: 360
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createtocielement/
 ---
 ## ITaggedContent.CreateTOCIElement method
 
-创建[`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement)。
+创建[`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement).
 
 ```csharp
 public TOCIElement CreateTOCIElement()
@@ -16,7 +16,7 @@ public TOCIElement CreateTOCIElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: AppendParagraph
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет текстовый абзац на страницу Pdf.
+description: Добавляет текстовый абзац к странице Pdf.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textbuilder/appendparagraph/
 ---
 ## TextBuilder.AppendParagraph method
 
-Добавляет текстовый абзац на страницу Pdf.
+Добавляет текстовый абзац к странице Pdf.
 
 ```csharp
 public void AppendParagraph(TextParagraph textParagraph)
@@ -27,25 +27,25 @@ Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
- // создать текст para
+// создать текстовый абзац
 TextParagraph paragraph = new TextParagraph();
            
- // устанавливаем абзац прямоугольник
+// устанавливаем прямоугольник абзаца
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
- // установить перенос слов options
+// устанавливаем параметры переноса слов
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
- // добавляем строку lines
+// добавляем строковые строки
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
- // добавляем абзац на страницу Pdf с TextBuilder
+// добавляем абзац на страницу Pdf с помощью TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
- // сохранить PDF document
+// сохранить PDF-документ
 doc.Save(outFile);
 ```
 

@@ -1,14 +1,14 @@
 ---
 title: AFRelationship
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисление описывает отношения ассоциированных файлов.
+description: Перечисление описывает взаимосвязь связанных файлов.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/afrelationship/
 ---
 ## AFRelationship enumeration
 
-Перечисление описывает отношения ассоциированных файлов.
+Перечисление описывает взаимосвязь связанных файлов.
 
 ```csharp
 public enum AFRelationship
@@ -23,7 +23,7 @@ public enum AFRelationship
 | Alternative | `2` | Альтернатива |
 | Supplement | `3` | Дополнение |
 | Unspecified | `4` | Не указано |
-| EncryptedPayload | `5` | EncryptedPayload |
+| EncryptedPayload | `5` | Зашифрованная полезная нагрузка |
 | None | `6` | Нет |
 
 ### Смотрите также

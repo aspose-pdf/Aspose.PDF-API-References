@@ -1,14 +1,14 @@
 ---
 title: SetMiterLimit
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 M 运算符的类设置斜接限制
+description: 代表 M 运算符的类设置斜接限制
 type: docs
 weight: 5540
 url: /zh/net/aspose.pdf.operators/setmiterlimit/
 ---
 ## SetMiterLimit class
 
-表示 M 运算符的类（设置斜接限制）。
+代表 M 运算符的类（设置斜接限制）。
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -18,7 +18,7 @@ public class SetMiterLimit : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetMiterLimit](setmiterlimit)(double) | 初始化运算符。 |
+| [SetMiterLimit](setmiterlimit)(double) | 初始化操作符。 |
 
 ## 特性
 

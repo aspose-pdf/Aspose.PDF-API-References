@@ -19,7 +19,7 @@ public sealed class StructureTypeCategory
 | 姓名 | 描述 |
 | --- | --- |
 | override [ToString](../../aspose.pdf.logicalstructure/structuretypecategory/tostring)() | 返回代表当前对象的字符串。 |
-| [explicit operator](../../aspose.pdf.logicalstructure/structuretypecategory/op_explicit) | 执行从String到[`StructureTypeCategory`](../structuretypecategory)的显式转换. |
+| [explicit operator](../../aspose.pdf.logicalstructure/structuretypecategory/op_explicit) | 执行显式转换String至[`StructureTypeCategory`](../structuretypecategory). |
 
 ## 字段
 
@@ -27,7 +27,7 @@ public sealed class StructureTypeCategory
 | --- | --- |
 | static readonly [BLSEs](../../aspose.pdf.logicalstructure/structuretypecategory/blses) | 块级结构元素 (BLSE) 描述页面上内容的整体布局，沿块级进方向进行。 |
 | static readonly [GroupingElements](../../aspose.pdf.logicalstructure/structuretypecategory/groupingelements) | 分组元素将其他元素分组为序列或层次结构，但不直接包含内容，对布局没有直接影响。 |
-| static readonly [IllustrationElements](../../aspose.pdf.logicalstructure/structuretypecategory/illustrationelements) | 插图元素是紧凑的内容序列，按页面内容顺序排列，在页面布局方面被视为单一对象。插图可以被视为 BLSE 或 ILSE。 |
+| static readonly [IllustrationElements](../../aspose.pdf.logicalstructure/structuretypecategory/illustrationelements) | 插图元素是紧凑的内容序列，按页面内容顺序排列，在页面布局方面被视为单一对象。插图可以被视为 BLSE 或 ILSE. |
 | static readonly [ILSEs](../../aspose.pdf.logicalstructure/structuretypecategory/ilses) | 内联级结构元素 (ILSE) 描述 BLSE 内的内容布局，沿内联进度方向进行。 |
 
 ### 也可以看看

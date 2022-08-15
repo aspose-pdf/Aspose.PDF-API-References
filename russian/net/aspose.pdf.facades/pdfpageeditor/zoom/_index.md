@@ -1,14 +1,20 @@
 ---
 title: Zoom
 second_title: Aspose.PDF для справочника API .NET
-description: Получить или установить коэффициент масштабирования. Значение 10 соответствует 100. Значение по умолчанию  10.  В следующем примере показано как изменить масштаб страниц документа. ltcodegt Редактор PdfPageEditor  new PdfPageEditor editor.BindPdfsample.pdf editor.Zoom  0.5f lt/codegt
+description: Получить или установить коэффициент масштабирования. Значение 1.0 соответствует 100. Значение по умолчанию 1.0.  В следующем примере показано как изменить масштаб страниц документа.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/zoom/
 ---
 ## PdfPageEditor.Zoom property
 
-Получить или установить коэффициент масштабирования. Значение 1,0 соответствует 100%. Значение по умолчанию — 1,0.  В следующем примере показано, как изменить масштаб страниц документа. &lt;code&gt; Редактор PdfPageEditor = new PdfPageEditor(); editor.BindPdf("sample.pdf"); editor.Zoom = 0.5f; &lt;/code&gt;
+Получить или установить коэффициент масштабирования. Значение 1.0 соответствует 100%. Значение по умолчанию: 1.0.  В следующем примере показано, как изменить масштаб страниц документа.
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+editor.Zoom = 0.5f;
+```
 
 ```csharp
 public float Zoom { get; set; }

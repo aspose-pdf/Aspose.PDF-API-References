@@ -1,14 +1,14 @@
 ---
 title: SoundData
 second_title: Aspose.PDF for .NET API 参考
-description: 表示定义激活注释时要播放的声音的声音数据
+description: 表示定义注释激活时要播放的声音的声音数据
 type: docs
 weight: 1090
 url: /zh/net/aspose.pdf.annotations/sounddata/
 ---
 ## SoundData class
 
-表示定义激活注释时要播放的声音的声音数据。
+表示定义注释激活时要播放的声音的声音数据。
 
 ```csharp
 public sealed class SoundData
@@ -18,7 +18,7 @@ public sealed class SoundData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Bits](../../aspose.pdf.annotations/sounddata/bits) { get; set; } | 获取或设置每个通道每个样本值的位数。 |
+| [Bits](../../aspose.pdf.annotations/sounddata/bits) { get; set; } | 获取或设置每个通道每个采样值的位数。 |
 | [Channels](../../aspose.pdf.annotations/sounddata/channels) { get; set; } | 获取或设置声道数。 |
 | [Contents](../../aspose.pdf.annotations/sounddata/contents) { get; } | 获取激活注释时要播放的声音流。 |
 | [Encoding](../../aspose.pdf.annotations/sounddata/encoding) { get; set; } | 获取或设置样本数据的编码格式。 |

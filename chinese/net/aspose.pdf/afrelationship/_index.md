@@ -1,14 +1,14 @@
 ---
 title: AFRelationship
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举描述关联文件的关系
+description: 枚举描述关联文件关系
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/afrelationship/
 ---
 ## AFRelationship enumeration
 
-枚举描述关联文件的关系。
+枚举描述关联文件关系。
 
 ```csharp
 public enum AFRelationship
@@ -20,10 +20,10 @@ public enum AFRelationship
 | --- | --- | --- |
 | Source | `0` | 来源 |
 | Data | `1` | 数据 |
-| Alternative | `2` | 替代 |
+| Alternative | `2` | 替代方案 |
 | Supplement | `3` | 补充 |
 | Unspecified | `4` | 未指定 |
-| EncryptedPayload | `5` | EncryptedPayload |
+| EncryptedPayload | `5` | 加密有效载荷 |
 | None | `6` | 无 |
 
 ### 也可以看看

@@ -18,7 +18,7 @@ public sealed class XImage
 
 | Имя | Описание |
 | --- | --- |
-| [ContainsTransparency](../../aspose.pdf/ximage/containstransparency) { get; } | Если изображение содержит прозрачность, то вернуть true; в противном случае ложно. |
+| [ContainsTransparency](../../aspose.pdf/ximage/containstransparency) { get; } | Если изображение содержит прозрачность, то вернуть true; в противном случае false. |
 | [FilterType](../../aspose.pdf/ximage/filtertype) { get; } | Получает тип фильтра изображения. |
 | [Grayscaled](../../aspose.pdf/ximage/grayscaled) { get; } | Получает версию изображения в градациях серого. |
 | [Height](../../aspose.pdf/ximage/height) { get; } | Получает высоту изображения. |
@@ -30,16 +30,16 @@ public sealed class XImage
 
 | Имя | Описание |
 | --- | --- |
-| [GetColorType](../../aspose.pdf/ximage/getcolortype)() | Возвращает цветовой тип изображения. |
-| [GetNameInCollection](../../aspose.pdf/ximage/getnameincollection)() | Возвращает имя изображения в коллекции целых чисел. |
+| [GetColorType](../../aspose.pdf/ximage/getcolortype)() | Возвращает тип цвета изображения. |
+| [GetNameInCollection](../../aspose.pdf/ximage/getnameincollection)() | Возвращает имя изображения в коллекции ints. |
 | [IsTheSameObject](../../aspose.pdf/ximage/isthesameobject)(XImage) | Возвращает true, если оба изображения ссылаются на один и тот же объект. |
 | [Rename](../../aspose.pdf/ximage/rename)(string) | Переименовывает изображение и заменяет все ссылки на изображение новым именем |
 | [Save](../../aspose.pdf/ximage/save#save)(Stream) | Сохраняет данные изображения в поток как изображение JPEG. |
-| [Save](../../aspose.pdf/ximage/save#save_2)(Stream, ImageFormat) | Сохраняет изображение в поток с заданным форматом. |
+| [Save](../../aspose.pdf/ximage/save#save_2)(Stream, ImageFormat) | Сохраняет изображение в поток в требуемом формате. |
 | [Save](../../aspose.pdf/ximage/save#save_1)(Stream, int) | Сохраняет данные изображения в поток как изображение JPEG с указанным разрешением. |
 | [Save](../../aspose.pdf/ximage/save#save_3)(Stream, ImageFormat, int) | Сохраняет изображение в поток в требуемом формате с указанным разрешением. |
 | [ToStream](../../aspose.pdf/ximage/tostream)() | Возвращает исходный поток изображений. |
-| static [DetectColorType](../../aspose.pdf/ximage/detectcolortype)(Bitmap) | Возвращает цветовой тип изображения. |
+| static [DetectColorType](../../aspose.pdf/ximage/detectcolortype)(Bitmap) | Возвращает тип цвета изображения. |
 
 ### Смотрите также
 

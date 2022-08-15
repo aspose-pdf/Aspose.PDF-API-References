@@ -52,7 +52,7 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ## RemoveSignature(string, bool) {#removesignature_1}
 
-根据签名的名称移除签名。
+根据签名的名称删除签名。
 
 ```csharp
 public void RemoveSignature(string signName, bool removeField)

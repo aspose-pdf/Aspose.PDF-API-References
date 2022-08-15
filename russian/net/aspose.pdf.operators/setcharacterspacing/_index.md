@@ -24,14 +24,14 @@ public class SetCharacterSpacing : TextStateOperator
 
 | Имя | Описание |
 | --- | --- |
-| [CharSpacing](../../aspose.pdf.operators/setcharacterspacing/charspacing) { get; set; } | Получает или задает интервал между символами. |
+| [CharSpacing](../../aspose.pdf.operators/setcharacterspacing/charspacing) { get; set; } | Получает или задает межсимвольный интервал. |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharacterspacing/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcharacterspacing/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

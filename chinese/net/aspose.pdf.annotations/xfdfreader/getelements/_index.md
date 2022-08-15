@@ -20,7 +20,7 @@ public static Dictionary<string, string> GetElements(XmlReader reader)
 
 ### 返回值
 
-哈希表，其中包含从 XFDF 文件中解析的信息。
+带有从 XFDF 文件中解析的信息的哈希表。
 
 ### 也可以看看
 

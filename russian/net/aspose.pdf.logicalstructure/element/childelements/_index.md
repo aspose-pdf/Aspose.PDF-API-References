@@ -1,14 +1,14 @@
 ---
 title: ChildElements
 second_title: Aspose.PDF для справочника API .NET
-description: Получает дочернюю коллекцию объектовElement.
+description: Получает дочернюю коллекциюElement объекты.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/element/childelements/
 ---
 ## Element.ChildElements property
 
-Получает дочернюю коллекцию объектовElement.
+Получает дочернюю коллекциюElement объекты.
 
 ```csharp
 public ElementList ChildElements { get; }
@@ -16,7 +16,7 @@ public ElementList ChildElements { get; }
 
 ### Стоимость имущества
 
-Детская коллекцияElementобъекты.
+Детская коллекцияElement объекты.
 
 ### Смотрите также
 

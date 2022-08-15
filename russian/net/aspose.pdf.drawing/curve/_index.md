@@ -18,15 +18,15 @@ public sealed class Curve : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Curve](curve)(float[]) | Инициализирует новый экземпляр класса[`Curve`](../curve). |
+| [Curve](curve)(float[]) | Инициализирует новый экземпляр[`Curve`](../curve) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает объект[`GraphInfo`](../shape/graphinfo), который указывает информацию о графике, такую как цвет ширина строки и т.д. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает[`GraphInfo`](../shape/graphinfo) объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д. |
 | [PositionArray](../../aspose.pdf.drawing/curve/positionarray) { get; set; } | Получает или задает массив позиций с плавающей запятой. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для фигуры |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для shape |
 
 ### Смотрите также
 

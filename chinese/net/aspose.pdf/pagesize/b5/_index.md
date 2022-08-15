@@ -1,14 +1,14 @@
 ---
 title: B5
 second_title: Aspose.PDF for .NET API 参考
-description: B5 尺寸250x176 毫米
+description: B5 尺寸250x176 毫米.
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/pagesize/b5/
 ---
 ## PageSize.B5 property
 
-B5 尺寸（250x176 毫米）。
+B5 尺寸（250x176 毫米）.
 
 ```csharp
 public static PageSize B5 { get; }

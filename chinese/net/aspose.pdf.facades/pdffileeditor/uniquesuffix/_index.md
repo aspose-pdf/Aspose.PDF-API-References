@@ -1,14 +1,14 @@
 ---
 title: UniqueSuffix
 second_title: Aspose.PDF for .NET API 参考
-description: 后缀的格式添加到字段名称以使其在连接表单时具有唯一性 此字符串必须包含 NUM 个子字符串该子字符串将替换为数字 例如如果 UniqueSuffix  ABCNUM 那么对于字段fieldName名称将为 fieldNameABC1fieldNameABC2fieldNameABC3 等
+description: 添加到字段名称以使其在连接表单时唯一的后缀格式 此字符串必须包含将替换为数字的 NUM 子字符串 例如如果 UniqueSuffix  ABCNUM 那么对于字段fieldName名称将是 fieldNameABC1fieldNameABC2fieldNameABC3 等
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/
 ---
 ## PdfFileEditor.UniqueSuffix property
 
-后缀的格式，添加到字段名称以使其在连接表单时具有唯一性。 此字符串必须包含 %NUM% 个子字符串，该子字符串将替换为数字。 例如，如果 UniqueSuffix = "ABC%NUM%" 那么对于字段“fieldName”，名称将为: fieldNameABC1、fieldNameABC2、fieldNameABC3 等
+添加到字段名称以使其在连接表单时唯一的后缀格式。 此字符串必须包含将替换为数字的 %NUM% 子字符串。 例如，如果 UniqueSuffix = "ABC%NUM%" 那么对于字段“fieldName”名称将是： fieldNameABC1、fieldNameABC2、fieldNameABC3 等
 
 ```csharp
 public string UniqueSuffix { get; set; }

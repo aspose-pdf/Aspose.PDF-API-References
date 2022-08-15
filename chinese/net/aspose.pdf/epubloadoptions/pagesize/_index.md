@@ -1,14 +1,14 @@
 ---
 title: PageSize
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置用于导入的输出页面大小
+description: 获取或设置导入的输出页面大小
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/epubloadoptions/pagesize/
 ---
 ## EpubLoadOptions.PageSize property
 
-获取或设置用于导入的输出页面大小。
+获取或设置导入的输出页面大小。
 
 ```csharp
 public SizeF PageSize { get; }

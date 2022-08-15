@@ -1,14 +1,14 @@
 ---
 title: IsCountTocPages
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置计数或传递的目录页
+description: 获取或设置被计数或传递的 toc pages
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/tocinfo/iscounttocpages/
 ---
 ## TocInfo.IsCountTocPages property
 
-获取或设置计数或传递的目录页。
+获取或设置被计数或传递的 toc pages。
 
 ```csharp
 public bool IsCountTocPages { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Aspose.PDF для справочника API .NET
-description: Абстрактный класс представляющий объект подписи в документе pdf. Подписи - это поля со значениями объектов подписи последние содержат данные которые используются для проверки действительности документа.
+description: Абстрактный класс представляющий объект подписи в документе pdf. Подписи  это поля со значениями объектов подписи последние содержат данные которые используются для проверки действительности документа.
 type: docs
 weight: 3210
 url: /ru/net/aspose.pdf.forms/signature/
 ---
 ## Signature class
 
-Абстрактный класс, представляющий объект подписи в документе pdf. Подписи - это поля со значениями объектов подписи, последние содержат данные, которые используются для проверки действительности документа.
+Абстрактный класс, представляющий объект подписи в документе pdf. Подписи — это поля со значениями объектов подписи, последние содержат данные, которые используются для проверки действительности документа.
 
 ```csharp
 public abstract class Signature
@@ -18,23 +18,23 @@ public abstract class Signature
 
 | Имя | Описание |
 | --- | --- |
-| [Signature](signature#constructor)() | Инициализирует новый экземпляр класса[`Signature`](../signature). |
-| [Signature](signature#constructor_1)(Stream, string) | Инициализирует новый экземпляр класса[`Signature`](../signature). |
-| [Signature](signature#constructor_2)(string, string) | Инициализирует новый экземпляр класса[`Signature`](../signature). |
+| [Signature](signature#constructor)() | Инициализирует новый экземпляр[`Signature`](../signature) класс. |
+| [Signature](signature#constructor_1)(Stream, string) | Инициализирует новый экземпляр[`Signature`](../signature) класс. |
+| [Signature](signature#constructor_2)(string, string) | Инициализирует новый экземпляр[`Signature`](../signature) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Authority](../../aspose.pdf.forms/signature/authority) { get; set; } | Имя лица или органа, подписавшего документ. |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange) { get; } | Массив пар целых чисел (начальное смещение в байтах, длина в байтах) который должен описывать точный диапазон байтов для вычисления дайджеста. |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange) { get; } | Массив пар целых чисел (начальное смещение в байтах, длина в байтах) , который должен описывать точный диапазон байтов для вычисления дайджеста. |
 | [ContactInfo](../../aspose.pdf.forms/signature/contactinfo) { get; set; } | Информация, предоставленная подписывающей стороной, чтобы получатель мог связаться с подписывающей стороной для проверки подписи, например номер телефона. |
-| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance) { get; set; } | Получает/устанавливает пользовательский внешний вид. |
+| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance) { get; set; } | Получает/задает пользовательский внешний вид. |
 | [Date](../../aspose.pdf.forms/signature/date) { get; set; } | Время подписания. |
 | [Location](../../aspose.pdf.forms/signature/location) { get; set; } | Имя хоста ЦП или физическое расположение подписи. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings) { get; set; } | Получает/устанавливает настройки ocsp. |
-| [Reason](../../aspose.pdf.forms/signature/reason) { get; set; } | Причина подписания, например (согласен). |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties) { get; set; } | Принудительно показать/скрыть свойства подписи. В случае, если ShowProperties имеет значение true, поле подписи имеет предопределенный формат отображения (строки для представления): ------------------ ------------------------- Цифровая подпись {субъект сертификата} Дата:{подпись .Date} Reason:{signature.Reason} Location:{signature.Location} ------------ ------------------------------- где {X} - заполнитель для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию имеет значение true. |
+| [Reason](../../aspose.pdf.forms/signature/reason) { get; set; } | Причина подписания, типа (согласен). |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties) { get; set; } | Принудительно показать/скрыть свойства подписи. В случае, если ShowProperties имеет значение true, поле подписи имеет предопределенный формат отображения (строки для представления): --------------------- ---------------------- Цифровая подпись {субъект сертификата} Дата: {signature.Date} Причина: {signature.Reason} Местоположение: { подпись.Расположение} ---------------------------------------------------------- где {X} является заполнителем для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию имеет значение true. |
 | [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings) { get; set; } | Получает/устанавливает настройки метки времени. |
 | [UseLtv](../../aspose.pdf.forms/signature/useltv) { get; set; } | Получает/устанавливает флаг проверки LTV. |
 

@@ -1,14 +1,14 @@
 ---
 title: MaxValue
 second_title: Aspose.PDF для справочника API .NET
-description: максимально возможное значение значения прогресса
+description: максимально возможное значение прогресса value
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue field
 
-максимально возможное значение значения прогресса
+максимально возможное значение прогресса value
 
 ```csharp
 public int MaxValue;

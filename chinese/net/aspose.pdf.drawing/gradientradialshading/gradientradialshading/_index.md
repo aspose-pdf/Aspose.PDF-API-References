@@ -1,14 +1,14 @@
 ---
 title: GradientRadialShading
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化GradientRadialShadingaspose.pdf.drawing/gradientradialshading类的新实例
+description: 初始化GradientRadialShadingaspose.pdf.drawing/gradientradialshading类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
 ---
 ## GradientRadialShading() {#constructor}
 
-初始化[`GradientRadialShading`](../../gradientradialshading)类的新实例。
+初始化[`GradientRadialShading`](../../gradientradialshading)类.
 
 ```csharp
 public GradientRadialShading()
@@ -24,7 +24,7 @@ public GradientRadialShading()
 
 ## GradientRadialShading(Color, Color) {#constructor_1}
 
-初始化[`GradientRadialShading`](../../gradientradialshading)类的新实例。
+初始化[`GradientRadialShading`](../../gradientradialshading)类.
 
 ```csharp
 public GradientRadialShading(Color startColor, Color endColor)
@@ -32,8 +32,8 @@ public GradientRadialShading(Color startColor, Color endColor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| startColor | Color | 起始圆的颜色。 |
-| endColor | Color | 结束圆的颜色。 |
+| startColor | Color | 起始圆圈颜色。 |
+| endColor | Color | 结束圆圈颜色。 |
 
 ### 也可以看看
 

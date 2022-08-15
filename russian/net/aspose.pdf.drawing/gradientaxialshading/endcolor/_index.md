@@ -1,14 +1,14 @@
 ---
 title: EndColor
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает конечный цвет.
+description: Получает или задает конечный цвет.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.drawing/gradientaxialshading/endcolor/
 ---
 ## GradientAxialShading.EndColor property
 
-Получает или устанавливает конечный цвет.
+Получает или задает конечный цвет.
 
 ```csharp
 public Color EndColor { get; set; }

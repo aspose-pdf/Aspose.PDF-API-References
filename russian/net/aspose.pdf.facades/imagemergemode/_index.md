@@ -1,14 +1,14 @@
 ---
 title: ImageMergeMode
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет режимы для слияния изображений.
+description: Представляет режимы объединения изображений.
 type: docs
 weight: 2390
 url: /ru/net/aspose.pdf.facades/imagemergemode/
 ---
 ## ImageMergeMode enumeration
 
-Представляет режимы для слияния изображений.
+Представляет режимы объединения изображений.
 
 ```csharp
 public enum ImageMergeMode
@@ -18,7 +18,7 @@ public enum ImageMergeMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Vertical | `1` | Изображения объединены по вертикали. |
+| Vertical | `1` | Изображения объединены вертикально. |
 | Horizontal | `2` | Изображения объединены по горизонтали. |
 | Center | `3` | Изображения выровнены по центру. |
 

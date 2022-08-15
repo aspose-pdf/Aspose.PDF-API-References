@@ -1,14 +1,14 @@
 ---
 title: CustomHtmlSavingStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 转换结果可以包含一个或多个 HTML 页面 您可以分配给从实现处理的自定义方法创建的此属性委托一个 HTML 页面的 准确地说是标记 HTML没有外部链接文件如果有的话 在转换期间创建 在这种情况下可以在该自定义代码中进行处理例如将页面的 HTML 保存在流或磁盘中 在这种情况下必须在提供的方法代码中执行保存 HTML 页面的所有必要操作 因为将不使用转换器代码中的结果保存 如果出于某种原因必须由转换器的代码本身来处理这种或那种情况 不在自定义代码中请在自定义代码中设置标志CustomProcessingCancelled of htmlSavingInfo 参数的变量它将向转换器发出信号所有必要的 处理该资源的步骤必须在转换器本身中以相同的方式完成 好像没有任何用于处理的外部自定义代码
+description: 转换结果可以包含一个或多个 HTML 页面 您可以分配给从自定义方法创建的属性委托该方法实现一个 HTML 页面的处理是在转换期间创建的 在这种情况下可以在该自定义代码中进行处理例如将页面的 HTML 保存在流或磁盘中 在这种情况下必须在提供的方法代码中执行保存 HTML 页面的所有必要操作 因为将不使用转换器代码中的结果保存 如果出于某种原因必须由转换器的代码本身来处理这种或那种情况 不在自定义代码中请在htmlSavingInfo参数变量的自定义代码标志CustomProcessingCancelled 中设置它将向转换器发出信号表明所有处理该资源的必要 步骤必须在转换器本身中以与 相同的方式完成就好像没有任何用于处理的外部自定义代码一样
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/htmlsaveoptions/customhtmlsavingstrategy/
 ---
 ## HtmlSaveOptions.CustomHtmlSavingStrategy field
 
-转换结果可以包含一个或多个 HTML 页面 您可以分配给从实现处理的自定义方法创建的此属性委托一个 HTML 页面的 （准确地说是标记 HTML，没有外部链接文件，如果有的话） 在转换期间创建。 在这种情况下，可以在该自定义代码中进行处理（例如将页面的 HTML 保存在流或磁盘中）。 在这种情况下，必须在提供的方法代码中执行保存 HTML 页面的所有必要操作 ，因为将不使用转换器代码中的结果保存。 如果出于某种原因必须由转换器的代码本身来处理这种或那种情况， 不在自定义代码中，请在自定义代码中设置标志'CustomProcessingCancelled' of 'htmlSavingInfo' 参数的变量:它将向转换器发出信号，所有必要的 处理该资源的步骤必须在转换器本身中以相同的方式完成 好像没有任何用于处理的外部自定义代码。
+转换结果可以包含一个或多个 HTML 页面 您可以分配给从自定义方法创建的属性委托，该方法实现一个 HTML 页面的处理是在转换期间创建的。 在这种情况下，可以在该自定义代码中进行处理（例如将页面的 HTML 保存在流或磁盘中）。 在这种情况下，必须在提供的方法代码中执行保存 HTML 页面的所有必要操作 ，因为将不使用转换器代码中的结果保存。 如果出于某种原因必须由转换器的代码本身来处理这种或那种情况， 不在自定义代码中，请在“htmlSavingInfo”参数变量的自定义代码标志“CustomProcessingCancelled” 中设置：它将向转换器发出信号，表明所有处理该资源的必要 步骤必须在转换器本身中以与 相同的方式完成，就好像没有任何用于处理的外部自定义代码一样。
 
 ```csharp
 public HtmlPageMarkupSavingStrategy CustomHtmlSavingStrategy;

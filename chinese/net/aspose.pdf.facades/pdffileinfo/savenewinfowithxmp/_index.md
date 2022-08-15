@@ -1,14 +1,14 @@
 ---
 title: SaveNewInfoWithXmp
 second_title: Aspose.PDF for .NET API 参考
-description: 更改通过设置文件信息明确指定的属性其他属性保留
+description: 更改通过设置文件信息明确指定的属性其他属性保持不变
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 ---
 ## PdfFileInfo.SaveNewInfoWithXmp method
 
-更改通过设置文件信息明确指定的属性，其他属性保留。
+更改通过设置文件信息明确指定的属性，其他属性保持不变。
 
 ```csharp
 public bool SaveNewInfoWithXmp(string outputFileName)
@@ -20,7 +20,7 @@ public bool SaveNewInfoWithXmp(string outputFileName)
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Hidden
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleHidden  То же что и None за исключением разрешения конфликта границ для элементов таблицы.
+description: Attribute BorderStyle Hidden  то же что и None за исключением разрешения конфликта границ для элементов таблицы.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_hidden/
 ---
 ## AttributeName.BorderStyle_Hidden field
 
-Атрибут BorderStyle:Hidden — То же, что и None, за исключением разрешения конфликта границ для элементов таблицы.
+Attribute BorderStyle: Hidden — то же, что и None, за исключением разрешения конфликта границ для элементов таблицы.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Hidden;

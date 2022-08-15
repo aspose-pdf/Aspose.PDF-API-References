@@ -18,15 +18,15 @@ public sealed class Line : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Line](line)(float[]) | Инициализирует новый экземпляр класса[`Line`](../line). |
+| [Line](line)(float[]) | Инициализирует новый экземпляр[`Line`](../line) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает объект[`GraphInfo`](../shape/graphinfo), который указывает информацию о графике, такую как цвет ширина строки и т.д. |
-| [PositionArray](../../aspose.pdf.drawing/line/positionarray) { get; set; } | Получает или задает объект[`PositionArray`](./positionarray), указывающий массив позиций. состоит из координат каждой контрольной точки линии. напрямую. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для фигуры |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает[`GraphInfo`](../shape/graphinfo) объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д. |
+| [PositionArray](../../aspose.pdf.drawing/line/positionarray) { get; set; } | Получает или задает[`PositionArray`](./positionarray) объект, указывающий массив позиций. Массив состоит из координат каждой контрольной точки линии. напрямую. |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для shape |
 
 ### Смотрите также
 

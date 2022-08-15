@@ -1,14 +1,14 @@
 ---
 title: AnnotationIndex
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置该注释在页面上的索引
+description: 获取或设置此注解在页面上的索引
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/field/annotationindex/
 ---
 ## Field.AnnotationIndex property
 
-获取或设置该注释在页面上的索引。
+获取或设置此注解在页面上的索引。
 
 ```csharp
 public int AnnotationIndex { get; set; }

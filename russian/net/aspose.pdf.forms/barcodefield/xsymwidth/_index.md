@@ -1,14 +1,14 @@
 ---
 title: XSymWidth
 second_title: Aspose.PDF для справочника API .NET
-description: Получает Горизонтальное расстояние в пикселях между двумя модулями штрих-кода.
+description: Получает горизонтальное расстояние в пикселях между двумя модулями штрих-кода.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/barcodefield/xsymwidth/
 ---
 ## BarcodeField.XSymWidth property
 
-Получает Горизонтальное расстояние в пикселях между двумя модулями штрих-кода.
+Получает горизонтальное расстояние в пикселях между двумя модулями штрих-кода.
 
 ```csharp
 public int XSymWidth { get; }

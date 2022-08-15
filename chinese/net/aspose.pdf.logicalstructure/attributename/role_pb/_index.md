@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/role_pb/
 ---
 ## AttributeName.Role_pb field
 
-属性角色:pb - 按钮。
+属性角色：pb - 按钮。
 
 ```csharp
 public static readonly AttributeName Role_pb;

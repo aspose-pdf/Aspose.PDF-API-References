@@ -1,14 +1,14 @@
 ---
 title: CurveTo2
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор y добавляет кривую к пути копирует конечную точку.
+description: Класс представляющий оператор y добавление кривой к пути реплицирование конечной точки.
 type: docs
 weight: 5040
 url: /ru/net/aspose.pdf.operators/curveto2/
 ---
 ## CurveTo2 class
 
-Класс, представляющий оператор y (добавляет кривую к пути, копирует конечную точку).
+Класс, представляющий оператор y (добавление кривой к пути, реплицирование конечной точки).
 
 ```csharp
 public class CurveTo2 : Operator
@@ -31,7 +31,7 @@ public class CurveTo2 : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto2/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/curveto2/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API 参考
-description: 对象同步返回 true
+description: 返回 true 的对象是同步的
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/optioncollection/issynchronized/
 ---
 ## OptionCollection.IsSynchronized property
 
-对象同步返回 true。
+返回 true 的对象是同步的。
 
 ```csharp
 public bool IsSynchronized { get; }

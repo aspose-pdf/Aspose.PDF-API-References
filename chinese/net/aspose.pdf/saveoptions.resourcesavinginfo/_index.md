@@ -1,14 +1,14 @@
 ---
 title: SaveOptions.ResourceSavingInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示与外部资源文件保存相关的数据集 在将 PDF 转换为某些时发生 其他格式 fe HTML
+description: 此类表示与外部资源文件保存相关的数据集 在将PDF 转换为其他格式fe HTML时发生
 type: docs
 weight: 6360
 url: /zh/net/aspose.pdf/saveoptions.resourcesavinginfo/
 ---
 ## SaveOptions.ResourceSavingInfo class
 
-此类表示与外部资源文件保存相关的数据集 在将 PDF 转换为某些时发生 其他格式 (fe HTML)
+此类表示与外部资源文件保存相关的数据集 在将PDF 转换为其他格式（fe HTML）时发生
 
 ```csharp
 public class ResourceSavingInfo
@@ -25,7 +25,7 @@ public class ResourceSavingInfo
 | 姓名 | 描述 |
 | --- | --- |
 | [ContentStream](../../aspose.pdf/resourcesavinginfo/contentstream) | 由转换器设置。 表示保存文件的二进制内容。 |
-| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | 如果出于某些原因 建议的文件不应使用自定义代码而是处理，则此标志必须在自定义代码中设置为“true” 转换器的代码本身是转换器方式的标准。 所以，它的设置设置为 true 意味着自定义代码没有处理引用的文件，并且 转换器必须自己处理它（在这两种情况下 - 用于保存某处和用于在引用中命名文件）。 |
+| [CustomProcessingCancelled](../../aspose.pdf/resourcesavinginfo/customprocessingcancelled) | 这个标志必须在自定义代码中设置为“true”，如果由于某些原因 建议的文件不应该使用自定义代码处理，而是 使用转换器的代码本身以转换器方式的标准处理。 所以，它的设置设置为 true 意味着自定义代码没有处理引用的文件， 转换器必须自己处理它（在这两种情况下 - 用于保存某处和在引用文件中命名）。 |
 | [SupposedFileName](../../aspose.pdf/resourcesavinginfo/supposedfilename) | 由转换器设置。 从转换器到自定义方法代码的假定文件名 可用于自定义代码来决定如何处理或保存该文件 |
 
 ### 也可以看看

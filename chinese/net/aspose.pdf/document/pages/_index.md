@@ -16,7 +16,7 @@ public PageCollection Pages { get; }
 
 ### 例子
 
-下面的例子演示了如何操作文档页面: How to获取页数以及如何获取文档起始页的矩形。
+下面的例子演示了如何对文档页进行操作： 如何获取页数以及如何获取文档起始页的矩形。
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("sample.pdf");

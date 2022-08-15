@@ -19,9 +19,9 @@ public sealed class Option
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf.forms/option/index) { get; } | Получает индекс опции. |
-| [Name](../../aspose.pdf.forms/option/name) { get; set; } | Получает или устанавливает имя параметра. |
-| [Selected](../../aspose.pdf.forms/option/selected) { get; set; } | Получает или устанавливает выбранный статус опции. Возвращает true, если опция выбрана. |
-| [Value](../../aspose.pdf.forms/option/value) { get; set; } | Получает или устанавливает значение экспорта опции. |
+| [Name](../../aspose.pdf.forms/option/name) { get; set; } | Получает или задает имя параметра. |
+| [Selected](../../aspose.pdf.forms/option/selected) { get; set; } | Получает или устанавливает выбранный статус опции. Возвращает true, если выбран параметр. |
+| [Value](../../aspose.pdf.forms/option/value) { get; set; } | Получает или задает значение экспорта опции. |
 
 ### Смотрите также
 

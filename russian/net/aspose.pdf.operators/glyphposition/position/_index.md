@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF для справочника API .NET
-description: Позиция выключения текста в операторе.
+description: Позиция вне текста в операторе.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/glyphposition/position/
 ---
 ## GlyphPosition.Position property
 
-Позиция выключения текста в операторе.
+Позиция вне текста в операторе.
 
 ```csharp
 public double Position { get; }

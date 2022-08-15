@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 获取矩形字符串表示
+description: 获取矩形字符串表示形式
 type: docs
 weight: 260
 url: /zh/net/aspose.pdf/rectangle/tostring/
 ---
 ## Rectangle.ToString method
 
-获取矩形字符串表示。
+获取矩形字符串表示形式。
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-字符串的格式为 llx,lly,urx,ury。
+字符串的格式为 llx,lly,urx,ury.
 
 ### 也可以看看
 

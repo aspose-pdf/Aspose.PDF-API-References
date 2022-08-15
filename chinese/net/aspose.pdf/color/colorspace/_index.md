@@ -1,14 +1,14 @@
 ---
 title: ColorSpace
 second_title: Aspose.PDF for .NET API 参考
-description: 获取颜色代表的颜色空间
+description: 获取颜色所代表的颜色空间
 type: docs
 weight: 1500
 url: /zh/net/aspose.pdf/color/colorspace/
 ---
 ## Color.ColorSpace property
 
-获取颜色代表的颜色空间。
+获取颜色所代表的颜色空间。
 
 ```csharp
 public ColorSpace ColorSpace { get; }

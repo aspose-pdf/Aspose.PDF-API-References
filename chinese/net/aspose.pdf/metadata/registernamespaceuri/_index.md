@@ -1,14 +1,14 @@
 ---
 title: RegisterNamespaceUri
 second_title: Aspose.PDF for .NET API 参考
-description: 注册命名空间 URI
+description: 注册命名空间 URI.
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
-注册命名空间 URI。
+注册命名空间 URI.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
@@ -29,7 +29,7 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 ## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
-注册命名空间 URI。
+注册命名空间 URI.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
@@ -39,7 +39,7 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 | --- | --- | --- |
 | prefix | String | 前缀的值。 |
 | namespaceUri | String | 命名空间 URI 的值。 |
-| schemaDescription | String | 模式描述的值。 |
+| schemaDescription | String | 架构描述的值。 |
 
 ### 也可以看看
 

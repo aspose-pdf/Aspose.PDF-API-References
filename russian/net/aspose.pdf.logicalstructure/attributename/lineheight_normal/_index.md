@@ -1,14 +1,14 @@
 ---
 title: LineHeight_Normal
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут LineHeightNormal  отрегулируйте высоту строки чтобы включить любое ненулевое значение указанное для BaselineShift.
+description: Атрибут LineHeight Normal  отрегулируйте высоту строки чтобы включить любое ненулевое значение указанное для BaselineShift.
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.logicalstructure/attributename/lineheight_normal/
 ---
 ## AttributeName.LineHeight_Normal field
 
-Атрибут LineHeight:Normal — отрегулируйте высоту строки, чтобы включить любое ненулевое значение, указанное для BaselineShift.
+Атрибут LineHeight: Normal — отрегулируйте высоту строки, чтобы включить любое ненулевое значение, указанное для BaselineShift.
 
 ```csharp
 public static readonly AttributeName LineHeight_Normal;

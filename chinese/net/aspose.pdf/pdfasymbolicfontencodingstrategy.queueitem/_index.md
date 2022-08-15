@@ -1,14 +1,14 @@
 ---
 title: PdfASymbolicFontEncodingStrategy.QueueItem
 second_title: Aspose.PDF for .NET API 参考
-description: 指定编码子表每个编码子表都有唯一的参数组合 PlatformID PlatformSpecificId枚举CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype 和属性CMapEncodingTable./pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable已实现为了更容易 需要一组编码子表
+description: 指定编码子表每个编码子表都有唯一的参数组合 PlatformIDPlatformSpecificId枚举CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype 和财产CMapEncodingTable./pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable实施以使需要的 组编码子表更容易
 type: docs
 weight: 5990
 url: /zh/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem class
 
-指定编码子表。每个编码子表都有唯一的参数组合 (PlatformID, PlatformSpecificId)。枚举[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) 和属性[`CMapEncodingTable`](./cmapencodingtable)已实现为了更容易 需要一组编码子表。
+指定编码子表。每个编码子表都有唯一的参数组合 （PlatformID、PlatformSpecificId）。枚举[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) 和财产[`CMapEncodingTable`](./cmapencodingtable)实施以使需要的 组编码子表更容易。
 
 ```csharp
 public class QueueItem
@@ -26,9 +26,9 @@ public class QueueItem
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CMapEncodingTable](../../aspose.pdf/queueitem/cmapencodingtable) { get; set; } | 通过[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)枚举指定编码子表 |
+| [CMapEncodingTable](../../aspose.pdf/queueitem/cmapencodingtable) { get; set; } | 通过指定编码子表[`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)枚举 |
 | [PlatformId](../../aspose.pdf/queueitem/platformid) { get; set; } | 编码子表的平台标识符 |
-| [PlatformSpecificId](../../aspose.pdf/queueitem/platformspecificid) { get; set; } | 用于编码子表的平台特定编码标识符 |
+| [PlatformSpecificId](../../aspose.pdf/queueitem/platformspecificid) { get; set; } | 编码子表的平台特定编码标识符 |
 
 ### 也可以看看
 

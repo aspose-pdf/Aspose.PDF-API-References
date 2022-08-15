@@ -1,14 +1,14 @@
 ---
 title: Tag
 second_title: Aspose.PDF для справочника API .NET
-description: Получает имя тегаStructureElementaspose.pdf.logicalstructure/structureelement.
+description: Получает имя тегаStructureElementaspose.pdf.logicalstructure/structureelement .
 type: docs
 weight: 510
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/tag/
 ---
 ## StructureTypeStandard.Tag property
 
-Получает имя тега[`StructureElement`](../../structureelement).
+Получает имя тега[`StructureElement`](../../structureelement) .
 
 ```csharp
 public string Tag { get; }

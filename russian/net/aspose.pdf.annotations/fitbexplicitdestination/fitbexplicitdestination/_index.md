@@ -29,7 +29,7 @@ public FitBExplicitDestination(Page page)
 
 ## FitBExplicitDestination(int) {#constructor_2}
 
-Создает явный удаленный пункт назначения.
+Создает удаленный явный пункт назначения.
 
 ```csharp
 public FitBExplicitDestination(int pageNumber)

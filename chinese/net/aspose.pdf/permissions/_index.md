@@ -1,14 +1,14 @@
 ---
 title: Permissions
 second_title: Aspose.PDF for .NET API 参考
-description: 此枚举表示用户对 pdf 的权限
+description: 这个枚举代表用户对 pdf 的权限
 type: docs
 weight: 6110
 url: /zh/net/aspose.pdf/permissions/
 ---
 ## Permissions enumeration
 
-此枚举表示用户对 pdf 的权限。
+这个枚举代表用户对 pdf 的权限。
 
 ```csharp
 [Flags]
@@ -19,14 +19,14 @@ public enum Permissions
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| PrintDocument | `4` | （修订版 2 的安全处理程序）打印文档。 (版本 3 或更高版本的安全处理程序) 打印文档 (可能不是最高质量级别, 取决于PrintingQuality也已设置）。 |
-| ModifyContent | `8` | 通过ModifyTextAnnotations 控制的操作以外的 操作修改文档的内容, FillForm和 11. |
-| ExtractContent | `10` | （修订版 2 的安全处理程序）复制或以其他方式从文档中提取 文本和图形，包括提取 文本和图形（以支持残疾用户 或用于其他目的的可访问性）。 （版本 3 或更高版本的安全处理程序）复制或以其他方式 通过操作 而非由控制的操作从文档中提取文本和图形 ExtractContentWithDisabilities。 |
-| ModifyTextAnnotations | `20` | 添加或修改文本注释，填写交互式表单字段， 以及如果Permissions。ModifyContent也是设置、创建或修改交互表单 字段（包括签名字段）。 |
-| FillForm | `100` | （修订版 3 或更高版本的安全处理程序）填写现有 交互式表单字段（包括签名字段），即使 ModifyTextAnnotations很清楚。 |
-| ExtractContentWithDisabilities | `200` | （修订版 3 或更高版本的安全处理程序）提取文本和 图形（支持残障用户的可访问性 或用于其他目的）。 |
-| AssembleDocument | `400` | （版本 3 或更高版本的安全处理程序）组装文档 （插入、旋转或删除页面并创建书签或缩略图 图像），即使ModifyContent是明确的。 |
-| PrintingQuality | `800` | （修订版 3 或更高版本的安全处理程序）将文档打印到 一种表示形式，从中获得 PDF 内容的忠实数字副本 可以生成。当该位被清除（并且第 3 位被设置）时， 打印仅限于外观的低级表示， 可能质量下降。 |
+| PrintDocument | `4` | （修订版 2 的安全处理程序）打印文档。 （修订版 3 或更高版本的安全处理程序）打印文档 （可能不是最高质量级别， 取决于是否PrintingQuality也设置）. |
+| ModifyContent | `8` | 通过 以外的操作修改文档的内容ModifyTextAnnotationsFillForm , 和 11. |
+| ExtractContent | `10` | （修订版 2 的安全处理程序）复制或以其他方式从文档中提取 文本和图形，包括提取 文本和图形（以支持残疾用户 的可访问性或用于其他目的）。 （修订版 3 或安全处理程序更大）复制或以其他方式 通过操作 从文档中提取文本和图形，而不是由ExtractContentWithDisabilities. |
+| ModifyTextAnnotations | `20` | 添加或修改文本注释，填写交互式表单字段， 以及，如果ModifyContent还设置、创建或修改交互式表单 字段（包括签名字段）。 |
+| FillForm | `100` | （版本 3 或更高版本的安全处理程序）填写现有的 交互式表单字段（包括签名字段），即使 ModifyTextAnnotations很清楚。 |
+| ExtractContentWithDisabilities | `200` | （版本 3 或更高版本的安全处理程序）提取文本和 图形（以支持残障用户的可访问性 或用于其他目的）。 |
+| AssembleDocument | `400` | （版本 3 或更高版本的安全处理程序）组装文档 （插入、旋转或删除页面并创建书签或缩略图 图像），即使ModifyContent很清楚。 |
+| PrintingQuality | `800` | （修订版 3 或更高版本的安全处理程序）将文档打印到 一种表示形式，从中可以生成 PDF 内容 的忠实数字副本。当此位清零（并且第 3 位设置）时， 打印仅限于外观的低级表示， 可能质量下降。 |
 
 ### 也可以看看
 

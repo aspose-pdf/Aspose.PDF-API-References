@@ -1,14 +1,14 @@
 ---
 title: RightMargin
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает правое поле результирующей страницы.
+description: Получает или задает правое поле результирующей страницы.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.RightMargin property
 
-Получает или устанавливает правое поле результирующей страницы.
+Получает или задает правое поле результирующей страницы.
 
 ```csharp
 public ContentsResizeValue RightMargin { get; set; }

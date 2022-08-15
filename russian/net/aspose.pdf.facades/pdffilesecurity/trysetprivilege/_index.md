@@ -1,14 +1,14 @@
 ---
 title: TrySetPrivilege
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает безопасность файла Pdf с исходным паролем. Не генерирует исключение в случае сбоя процесса.
+description: Устанавливает безопасность файла Pdf с исходным паролем. Не вызывает исключение если процесс завершился неудачно.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
 ## PdfFileSecurity.TrySetPrivilege method
 
-Устанавливает безопасность файла Pdf с исходным паролем. Не генерирует исключение в случае сбоя процесса.
+Устанавливает безопасность файла Pdf с исходным паролем. Не вызывает исключение, если процесс завершился неудачно.
 
 ```csharp
 public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -16,26 +16,26 @@ public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| userPassword | String | Исходный пароль пользователя. |
-| ownerPassword | String | Исходный пароль владельца. |
-| привилегия | DocumentPrivilege | Установить привилегию. |
+| userPassword | String | Оригинальный пароль пользователя. |
+| ownerPassword | String | Оригинальный пароль владельца. |
+| privilege | DocumentPrivilege | Установить привилегию. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";  // TestPath может быть переназначен.
-string outFile = "D:\\output.pdf";  // TestPath может быть переназначен.
+string inFile = "D:\\input.pdf"; // TestPath может быть переназначен.
+string outFile = "D:\\output.pdf"; // TestPath может быть переназначен.
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 bool result = fileSecurity.TrySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
 
 [Visual Basic]
-Dim inFile As String =  "D:\\input.pdf"  'TestPath может быть переназначен.
-Dim outFile As String =  "D:\\output.pdf"  'TestPath может быть переназначен.
+Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
 Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```

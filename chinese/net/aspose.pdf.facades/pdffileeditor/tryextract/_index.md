@@ -23,11 +23,11 @@ public bool TryExtract(string inputFile, int startPage, int endPage, string outp
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-TryExtract 方法类似于 Extract 方法，除了 TryExtract 方法不会抛出异常，如果操作失败。
+TryExtract 方法与 Extract 方法类似，只是 TryExtract 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -60,11 +60,11 @@ public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryExtract 方法类似于 Extract 方法，除了 TryExtract 方法不会抛出异常，如果操作失败。
+TryExtract 方法与 Extract 方法类似，只是 TryExtract 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -97,11 +97,11 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-TryExtract 方法类似于 Extract 方法，除了 TryExtract 方法不会抛出异常，如果操作失败。
+TryExtract 方法与 Extract 方法类似，只是 TryExtract 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -132,15 +132,15 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, HttpResponse respon
 | --- | --- | --- |
 | inputStream | Stream | 源文档流。 |
 | pageNumber | Int32[] | 将被提取的页码数组。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryExtract 方法类似于 Extract 方法，除了 TryExtract 方法不会抛出异常，如果操作失败。
+TryExtract 方法与 Extract 方法类似，只是 TryExtract 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -162,15 +162,15 @@ public bool TryExtract(string inputFile, int[] pageNumber, HttpResponse response
 | --- | --- | --- |
 | inputFile | String | 源文件路径。 |
 | pageNumber | Int32[] | 将被提取的页码数组。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TryExtract 方法类似于 Extract 方法，除了 TryExtract 方法不会抛出异常，如果操作失败。
+TryExtract 方法与 Extract 方法类似，只是 TryExtract 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 

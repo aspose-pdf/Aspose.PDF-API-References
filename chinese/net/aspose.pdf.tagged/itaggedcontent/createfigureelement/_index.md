@@ -1,14 +1,14 @@
 ---
 title: CreateFigureElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建FigureElementaspose.pdf.logicalstructure/figureelement
+description: 创建FigureElementaspose.pdf.logicalstructure/figureelement.
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 ---
 ## ITaggedContent.CreateFigureElement method
 
-创建[`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement)。
+创建[`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement).
 
 ```csharp
 public FigureElement CreateFigureElement()
@@ -16,7 +16,7 @@ public FigureElement CreateFigureElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

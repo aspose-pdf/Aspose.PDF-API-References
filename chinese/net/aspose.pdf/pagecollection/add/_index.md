@@ -33,7 +33,7 @@ public Page Add(Page entity)
 
 ## Add() {#add}
 
-添加空白页面
+添加空白页
 
 ```csharp
 public Page Add()
@@ -75,7 +75,7 @@ public void Add(ICollection<Page> pages)
 
 ## Add(Page[]) {#add_2}
 
-将数组中的所有页面添加到集合中。
+添加到数组中的所有页面集合。
 
 ```csharp
 public void Add(Page[] pages)

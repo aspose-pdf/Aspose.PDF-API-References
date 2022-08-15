@@ -1,14 +1,14 @@
 ---
 title: ParagraphAbsorber
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет объект-поглотитель объектов структуры страницы таких как разделы и абзацы. Выполняет поиск разделов и абзацев текста и предоставляет доступ к прямоугольникам и многоугольникам описывающим его в текстовом координатном пространстве. Также выполняет поиск текстовых сегментов и предоставляет доступ к результатам поиска черезTextFragmentsколлекции сгруппированные по элементам структуры.
+description: Представляет объект-поглотитель объектов структуры страницы таких как разделы и абзацы. Выполняет поиск разделов и абзацев текста и предоставляет доступ к прямоугольникам и многоугольникам описывающим его в текстовом координатном пространстве. Также выполняет поиск текстовых сегментов и предоставляет доступ к результатам поиска черезTextFragments коллекции сгруппированные по элементам структуры.
 type: docs
 weight: 6850
 url: /ru/net/aspose.pdf.text/paragraphabsorber/
 ---
 ## ParagraphAbsorber class
 
-Представляет объект-поглотитель объектов структуры страницы, таких как разделы и абзацы. Выполняет поиск разделов и абзацев текста и предоставляет доступ к прямоугольникам и многоугольникам, описывающим его в текстовом координатном пространстве. Также выполняет поиск текстовых сегментов и предоставляет доступ к результатам поиска через!:TextFragmentsколлекции, сгруппированные по элементам структуры.
+Представляет объект-поглотитель объектов структуры страницы, таких как разделы и абзацы. Выполняет поиск разделов и абзацев текста и предоставляет доступ к прямоугольникам и многоугольникам, описывающим его в текстовом координатном пространстве. Также выполняет поиск текстовых сегментов и предоставляет доступ к результатам поиска через!:TextFragments коллекции, сгруппированные по элементам структуры.
 
 ```csharp
 public class ParagraphAbsorber
@@ -18,58 +18,58 @@ public class ParagraphAbsorber
 
 | Имя | Описание |
 | --- | --- |
-| [ParagraphAbsorber](paragraphabsorber#constructor)() | Инициализирует новый экземпляр[`ParagraphAbsorber`](../paragraphabsorber), который выполняет поиск разделов/абзацев документа или страницы . |
-| [ParagraphAbsorber](paragraphabsorber#constructor_1)(int) | Инициализирует новый экземпляр[`ParagraphAbsorber`](../paragraphabsorber), который выполняет поиск разделов/абзацев документа или страницы . |
+| [ParagraphAbsorber](paragraphabsorber#constructor)() | Инициализирует новый экземпляр[`ParagraphAbsorber`](../paragraphabsorber) который выполняет поиск разделов/абзацев документа или страницы. |
+| [ParagraphAbsorber](paragraphabsorber#constructor_1)(int) | Инициализирует новый экземпляр[`ParagraphAbsorber`](../paragraphabsorber) который выполняет поиск разделов/абзацев документа или страницы. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed) { get; set; } | Получает или задает значение, указывающее, можно ли рассматривать начальные строки текста следующего раздела как продолжение последнего абзаца предыдущего раздела. |
-| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups) { get; } | Получает коллекцию[`PageMarkup`](../pagemarkup), которые были поглощены. |
-| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth) { get; set; } | Получает или задает значение, указывающее, сколько раз будет выполняться последовательный поиск более мелких элементов структуры. Глубина поиска по умолчанию равна 3. Это означает три поиска разделов, разделенных по горизонтали (заголовки, абзацы и т. д.), и три поиска разделов, разделенных по вертикали (столбцы). |
+| [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups) { get; } | Получает коллекцию[`PageMarkup`](../pagemarkup) которые были поглощены. |
+| [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth) { get; set; } | Получает или задает значение, указывающее, сколько раз будет выполняться последовательный поиск более мелких элементов структуры. единицы (столбцы). |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit)(Document) | Выполняет поиск разделов и абзацев по указанному[`Document`](../../aspose.pdf/document). |
-| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit_1)(Page) | Выполняет поиск по указанной[`Page`](../../aspose.pdf/page). |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit)(Document) | Выполняет поиск разделов и абзацев на указанном[`Document`](../../aspose.pdf/document) . |
+| [Visit](../../aspose.pdf.text/paragraphabsorber/visit#visit_1)(Page) | Выполняет поиск по указанному[`Page`](../../aspose.pdf/page) . |
 
 ### Примечания
 
-Когда поиск завершен,PageMarkupsбудет содержать объекты[`PageMarkup`](../pagemarkup), представляющие структуру страницы коллекциями[`MarkupSection`](../markupsection)и[`MarkupParagraph`](../markupparagraph). Объект[`TextFragment`](../textfragment)предоставляет доступ к тексту вхождения поиска, свойствам текста, а также позволяет редактировать текст и изменять его состояние (шрифт, размер шрифта, цвет и т.д.).
+После завершения поиска[`PageMarkups`](./pagemarkups) коллекция будет содержать[`PageMarkup`](../pagemarkup) объекты, представляющие структуру страницы коллекциями[`MarkupSection`](../markupsection) а также[`MarkupParagraph`](../markupparagraph) . [`TextFragment`](../textfragment) Объект предоставляет доступ к тексту вхождения поиска, свойствам текста, а также позволяет редактировать текст и изменять его состояние (шрифт, размер шрифта, цвет и т. д.).
 
 ### Примеры
 
-Пример демонстрирует, как найти первый текстовый сегмент каждого абзаца на первой странице документа PDF и выделить Это.
+Пример демонстрирует, как найти первый сегмент текста каждого абзаца на первой странице документа PDF и выделить его.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document("input.pdf");
+Document doc = new Document("input.pdf");
 
-// Создаем ParagraphAbsorber object
-aragraphAbsorber absorber = new ParagraphAbsorber();
+// Создаем объект ParagraphAbsorber
+ParagraphAbsorber absorber = new ParagraphAbsorber();
 
 // Принять поглотитель для первой страницы
-bsorber.Visit(doc.Pages[1]);
+absorber.Visit(doc.Pages[1]);
 
 // Получить объект разметки первой страницы
-ageMarkup markup = absorber.PageMarkups[0];
+PageMarkup markup = absorber.PageMarkups[0];
 
-// Перебираем элементы структуры текста страницы, чтобы найти первый текстовый фрагмент каждого параграфа
-oreach (MarkupSection section in markup.Sections)
-
-   foreach (MarkupParagraph paragraph in section.Paragraphs)
-   {
-       TextFragment fragment = paragraph.Fragments[0];
-        // Обновить текст properties
-       fragment.TextState.BackgroundColor = Color.LightBlue;
-   }
-
+// Перебираем элементы структуры текста страницы, чтобы найти первый текстовый фрагмент каждого абзаца
+foreach (MarkupSection section in markup.Sections)
+{
+    foreach (MarkupParagraph paragraph in section.Paragraphs)
+    {
+        TextFragment fragment = paragraph.Fragments[0];
+        // Обновить свойства текста
+        fragment.TextState.BackgroundColor = Color.LightBlue;
+    }
+}
 
 // Сохранить документ
-oc.Save(GetOutputPath("output.pdf"));
+doc.Save(GetOutputPath("output.pdf"));
 ```
 
 ### Смотрите также

@@ -18,7 +18,7 @@ public enum DocFormat
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Doc | `0` | [MS-DOC]:Формат двоичного файла Word (.doc) |
+| Doc | `0` | [MS-DOC]: формат двоичного файла Word (.doc) |
 | DocX | `1` | Формат файла Office Open XML (.docx) |
 
 ### Смотрите также

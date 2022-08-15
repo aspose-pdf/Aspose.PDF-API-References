@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF для справочника API .NET
-description: Выполняет явное преобразование изStringвAttributeKeyaspose.pdf.logicalstructure/attributekey.
+description: Выполняет явное преобразование изString кAttributeKeyaspose.pdf.logicalstructure/attributekey .
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
 ## AttributeKey Explicit operator
 
-Выполняет явное преобразование изStringв[`AttributeKey`](../../attributekey).
+Выполняет явное преобразование изString к[`AttributeKey`](../../attributekey) .
 
 ```csharp
 public static explicit operator AttributeKey(string key)

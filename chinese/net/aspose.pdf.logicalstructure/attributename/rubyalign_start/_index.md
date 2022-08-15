@@ -1,14 +1,14 @@
 ---
 title: RubyAlign_Start
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 RubyAlignStart - 内容应在行进方向的起始边缘对齐
+description: 属性 RubyAlign Start - 内容应在行进方向的起始边缘对齐
 type: docs
 weight: 470
 url: /zh/net/aspose.pdf.logicalstructure/attributename/rubyalign_start/
 ---
 ## AttributeName.RubyAlign_Start field
 
-属性 RubyAlign:Start - 内容应在行进方向的起始边缘对齐。
+属性 RubyAlign: Start - 内容应在行进方向的起始边缘对齐。
 
 ```csharp
 public static readonly AttributeName RubyAlign_Start;

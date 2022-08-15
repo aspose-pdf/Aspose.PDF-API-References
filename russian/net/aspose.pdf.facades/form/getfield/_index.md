@@ -1,14 +1,14 @@
 ---
 title: GetField
 second_title: Aspose.PDF для справочника API .NET
-description: Получает значение поля в соответствии с его именем.
+description: Получает значение поля в соответствии с его именем поля.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/form/getfield/
 ---
 ## Form.GetField method
 
-Получает значение поля в соответствии с его именем.
+Получает значение поля в соответствии с его именем поля.
 
 ```csharp
 public string GetField(string fieldName)

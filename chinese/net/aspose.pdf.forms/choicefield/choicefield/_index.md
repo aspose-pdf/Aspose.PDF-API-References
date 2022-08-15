@@ -1,14 +1,14 @@
 ---
 title: ChoiceField
 second_title: Aspose.PDF for .NET API 参考
-description: ChoiceField 的构造函数
+description: ChoiceField. 的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/choicefield/choicefield/
 ---
 ## ChoiceField(Page, Rectangle) {#constructor_2}
 
-ChoiceField 的构造函数。
+ChoiceField. 的构造函数
 
 ```csharp
 public ChoiceField(Page page, Rectangle rect)
@@ -39,7 +39,7 @@ public ChoiceField(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 选择的文档将创建字段。 |
+| doc | Document | 将在其中创建选择字段的文档。 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public ChoiceField(Document doc)
 
 ## ChoiceField(Document, Rectangle) {#constructor_1}
 
-ChoiceField 的构造函数。
+ChoiceField. 的构造函数
 
 ```csharp
 public ChoiceField(Document doc, Rectangle rect)
@@ -60,7 +60,7 @@ public ChoiceField(Document doc, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 | rect | Rectangle | 字段的矩形。 |
 
 ### 也可以看看

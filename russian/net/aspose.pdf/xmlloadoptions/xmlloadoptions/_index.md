@@ -1,14 +1,14 @@
 ---
 title: XmlLoadOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Создает объектXmlLoadOptionsaspose.pdf/xmlloadoptionsбез данных xsl.
+description: СоздаетXmlLoadOptionsaspose.pdf/xmlloadoptions объект без данных xsl.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmlloadoptions/xmlloadoptions/
 ---
 ## XmlLoadOptions() {#constructor}
 
-Создает объект[`XmlLoadOptions`](../../xmlloadoptions)без данных xsl.
+Создает[`XmlLoadOptions`](../../xmlloadoptions) объект без данных xsl.
 
 ```csharp
 public XmlLoadOptions()
@@ -24,7 +24,7 @@ public XmlLoadOptions()
 
 ## XmlLoadOptions(string) {#constructor_2}
 
-Создает объект[`XmlLoadOptions`](../../xmlloadoptions)с данными xsl.
+Создает[`XmlLoadOptions`](../../xmlloadoptions) объект с данными xsl.
 
 ```csharp
 public XmlLoadOptions(string xslFile)
@@ -44,7 +44,7 @@ public XmlLoadOptions(string xslFile)
 
 ## XmlLoadOptions(Stream) {#constructor_1}
 
-Создает объект[`XmlLoadOptions`](../../xmlloadoptions)с данными xsl.
+Создает[`XmlLoadOptions`](../../xmlloadoptions) объект с данными xsl.
 
 ```csharp
 public XmlLoadOptions(Stream xslStream)

@@ -16,37 +16,37 @@ public ITaggedContent TaggedContent { get; }
 
 ### Примеры
 
-В примере показано, как использовать содержимое с тегами для создания нового документа с заголовком, абзацами и изображениями. .
+В примере показано, как использовать содержимое с тегами для создания нового документа с заголовком, абзацами и изображениями.
 
 ```csharp
 // Создаем новый документ
 Document document = new Document();
 
- // Получить помеченный контент
+// Получить помеченный контент
 ITaggedContent taggedContent = document.TaggedContent;
 
- // Установить язык для document
+// Установить язык для документа
 taggedContent.SetLanguage("en-US");
 
- // Установить заголовок для PDF document
+// Установить заголовок для PDF-документа
 taggedContent.SetTitle("Example document");
 
- // Создание и добавление Section
+// Создание и добавление раздела
 SectElement sect = taggedContent.CreateSectElement();
 taggedContent.RootElement.AppendChild(sect);
 
- // Создать заголовок
+// Создать заголовок
 HeaderElement h1 = taggedContent.CreateHeaderElement(1);
 h1.SetText("The Header");
 sect.AppendChild(h1);
 
- // Создать параграф
+// Создать абзац
 ParagraphElement p = taggedContent.CreateParagraphElement();
 p.SetTag("Paragraph");
 p.SetText("The text of paragraph.");
 sect.AppendChild(p);
 
- // Создаем illustration
+// Создаем иллюстрацию
 IllustrationElement figure1 = taggedContent.CreateFigureElement();
 sect.AppendChild(figure1);
 figure1.AlternativeText = "Figure 1";
@@ -54,7 +54,7 @@ figure1.Title = "Image 1";
 figure1.SetTag("Fig");
 figure1.SetImage("path/of/image.jpg");
 
- // Сохранить документ
+// Сохранить документ
 document.Save("example.pdf");
 ```
 

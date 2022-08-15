@@ -1,14 +1,14 @@
 ---
 title: SvgSaveOptions.SvgExternalImageType
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举可能的图像文件类型 在 PDF 到 SVG 转换期间 期间可以保存为外部资源
+description: 枚举可能的图像文件类型 在 Pdf 到 SVG 转换期间 可以保存为外部资源
 type: docs
 weight: 6470
 url: /zh/net/aspose.pdf/svgsaveoptions.svgexternalimagetype/
 ---
 ## SvgSaveOptions.SvgExternalImageType enumeration
 
-枚举可能的图像文件类型 在 PDF 到 SVG 转换期间 期间可以保存为外部资源
+枚举可能的图像文件类型 在 Pdf 到 SVG 转换期间 可以保存为外部资源
 
 ```csharp
 public enum SvgExternalImageType
@@ -19,11 +19,11 @@ public enum SvgExternalImageType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Jpeg | `0` | Jpeg 格式 |
-| Png | `1` | Png 格式 |
+| Png | `1` | PNG 格式 |
 | Bmp | `2` | Bmp 格式 |
 | Gif | `3` | Gif 格式 |
 | Tiff | `4` | Tiff 格式 |
-| Unknown | `5` | 未知 - 意味着转换器无法检测到内容本身的类型 |
+| Unknown | `5` | 未知 - 表示转换器无法检测到内容本身的类型 |
 
 ### 也可以看看
 

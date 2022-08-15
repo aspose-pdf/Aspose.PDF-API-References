@@ -18,7 +18,7 @@ public class TextStateOperator : TextOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextStateOperator](textstateoperator#constructor)() | 初始化 TextStateOperator。 |
+| [TextStateOperator](textstateoperator#constructor)() | 初始化 TextStateOperator. |
 | [TextStateOperator](textstateoperator#constructor_1)(TextProperties) | 初始化允许传递 TextProperties 的 TextStateoperator。 |
 
 ## 特性

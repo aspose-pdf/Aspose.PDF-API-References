@@ -34,16 +34,16 @@ public sealed class DocumentInfo : Dictionary<string, string>
 | [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone) { get; set; } | Часовой пояс даты модификации. |
 | [Producer](../../aspose.pdf/documentinfo/producer) { get; set; } | Получает или задает производителя документа. |
 | [Subject](../../aspose.pdf/documentinfo/subject) { get; set; } | Получает или задает тему документа. |
-| [Title](../../aspose.pdf/documentinfo/title) { get; set; } | Получает или устанавливает заголовок документа. |
+| [Title](../../aspose.pdf/documentinfo/title) { get; set; } | Получает или задает заголовок документа. |
 | [Trapped](../../aspose.pdf/documentinfo/trapped) { get; set; } | Получает или устанавливает флаг захвата. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf/documentinfo/add#add)(string, string) | Добавляет в коллекцию элемент с указанным ключом и значением. |
+| [Add](../../aspose.pdf/documentinfo/add#add)(string, string) | Добавляет элемент с указанным ключом и значением в коллекцию. |
 | [Clear](../../aspose.pdf/documentinfo/clear#clear)() | Очищает информацию о документе. |
-| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() | Удаляет только пользовательские данные, оставляет все другие предопределенные значения (название, автор и т. д.). |
+| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() | Очищает только пользовательские данные, оставляет все другие предопределенные значения (название, автор и т. д.). |
 | [Remove](../../aspose.pdf/documentinfo/remove#remove_1)(string) | Удаляет элемент с указанным ключом из коллекции. |
 | static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey)(string) | Определяет, является ли ключ предопределенным (название, автор и т. д.), а не настраиваемым. |
 

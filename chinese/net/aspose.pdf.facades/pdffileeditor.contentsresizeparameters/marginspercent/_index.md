@@ -20,7 +20,7 @@ public static ContentsResizeParameters MarginsPercent(double left, double right,
 | left | Double | 左边距（以页面宽度的百分比表示）。 |
 | right | Double | 右边距（以页面高度的百分比表示）。 |
 | top | Double | 上边距（以页面高度的百分比表示）。 |
-| bottom | Double | 底部边距（以页面高度的百分比表示）。 |
+| bottom | Double | 下边距（以页面高度的百分比表示）。 |
 
 ### 返回值
 

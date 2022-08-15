@@ -1,14 +1,14 @@
 ---
 title: StreamContents
 second_title: Aspose.PDF for .NET API 参考
-description: 获取文件内容作为流 内容未加载到内存中这可以减少内存使用量 但是这个流不支持定位和长度属性如果您需要此功能请改用 Contents 属性
+description: 获取文件内容作为流 内容未加载到内存中这可以减少内存使用量 但此流不支持定位和长度属性如果您需要此功能请改用 Contents 属性
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/filespecification/streamcontents/
 ---
 ## FileSpecification.StreamContents property
 
-获取文件内容作为流。 内容未加载到内存中，这可以减少内存使用量。 但是这个流不支持定位和长度属性。如果您需要此功能，请改用 Contents 属性。
+获取文件内容作为流。 内容未加载到内存中，这可以减少内存使用量。 但此流不支持定位和长度属性。如果您需要此功能，请改用 Contents 属性。
 
 ```csharp
 public Stream StreamContents { get; }

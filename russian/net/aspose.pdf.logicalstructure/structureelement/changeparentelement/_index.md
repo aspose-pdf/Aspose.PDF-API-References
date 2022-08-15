@@ -1,14 +1,14 @@
 ---
 title: ChangeParentElement
 second_title: Aspose.PDF для справочника API .NET
-description: Изменить родительский элемент для текущего элемента структуры
+description: Изменить родительский элемент для текущей структуры element
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 ---
 ## StructureElement.ChangeParentElement method
 
-Изменить родительский элемент для текущего элемента структуры
+Изменить родительский элемент для текущей структуры element
 
 ```csharp
 public void ChangeParentElement(StructureElement newParentElement)
@@ -16,7 +16,7 @@ public void ChangeParentElement(StructureElement newParentElement)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newParentElement | StructureElement | Новая родительская структура элемент |
+| newParentElement | StructureElement | Новый элемент родительской структуры |
 
 ### Смотрите также
 

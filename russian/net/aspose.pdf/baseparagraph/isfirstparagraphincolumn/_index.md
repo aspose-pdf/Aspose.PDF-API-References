@@ -1,14 +1,14 @@
 ---
 title: IsFirstParagraphInColumn
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает логическое значение указывающее будет ли этот абзац в следующем столбце. По умолчанию false. для генерации pdf
+description: Получает или задает логическое значение указывающее будет ли этот абзац находиться в следующем столбце. Значение по умолчанию  false.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/
 ---
 ## BaseParagraph.IsFirstParagraphInColumn property
 
-Получает или задает логическое значение, указывающее, будет ли этот абзац в следующем столбце. По умолчанию false. (для генерации pdf)
+Получает или задает логическое значение, указывающее, будет ли этот абзац находиться в следующем столбце. Значение по умолчанию — false.
 
 ```csharp
 public bool IsFirstParagraphInColumn { get; set; }

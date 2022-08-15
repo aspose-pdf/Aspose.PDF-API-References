@@ -16,7 +16,7 @@ public SetTextRise(double textRise)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| textRise | Double | Подъем текста. |
+| textRise | Double | Текст поднимается. |
 
 ### Смотрите также
 

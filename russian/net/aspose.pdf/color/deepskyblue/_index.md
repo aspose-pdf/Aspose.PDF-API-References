@@ -1,14 +1,14 @@
 ---
 title: DeepSkyBlue
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FF00BFFF.
+description: Получает определяемый системой цвет со значением ARGB FF00BFFF.
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf/color/deepskyblue/
 ---
 ## Color.DeepSkyBlue property
 
-Получает определяемый системой цвет со значением ARGB, равным #FF00BFFF.
+Получает определяемый системой цвет со значением ARGB #FF00BFFF.
 
 ```csharp
 public static Color DeepSkyBlue { get; }

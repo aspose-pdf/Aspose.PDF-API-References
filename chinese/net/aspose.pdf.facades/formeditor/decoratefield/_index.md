@@ -48,7 +48,7 @@ public void DecorateField(FieldType fieldType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldType | FieldType | 将被修饰的字段类型。 |
+| fieldType | FieldType | 将被装饰的字段类型。 |
 
 ### 例子
 
@@ -59,7 +59,7 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-  //装饰所有文本字段.
+//装饰所有文本字段。
 fe.DecorateField(FieldType.Text);
 ```
 
@@ -89,7 +89,7 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-  //装饰所有字段.
+//装饰所有字段。
 fe.DecorateField();
 ```
 

@@ -21,7 +21,7 @@ public bool AddFieldScript(string fieldName, string script)
 
 ### 返回值
 
-如果脚本添加成功，则为真。
+如果脚本已成功添加，则为真。
 
 ### 也可以看看
 

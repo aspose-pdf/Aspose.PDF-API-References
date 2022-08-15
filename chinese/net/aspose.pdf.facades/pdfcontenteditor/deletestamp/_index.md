@@ -1,14 +1,14 @@
 ---
 title: DeleteStamp
 second_title: Aspose.PDF for .NET API 参考
-description: 通过戳索引删除指定页面上的多个戳
+description: 按印章索引删除指定页面上的多个印章
 type: docs
 weight: 330
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
 ## PdfContentEditor.DeleteStamp method
 
-通过戳索引删除指定页面上的多个戳。
+按印章索引删除指定页面上的多个印章。
 
 ```csharp
 public void DeleteStamp(int pageNumber, int[] index)
@@ -16,8 +16,8 @@ public void DeleteStamp(int pageNumber, int[] index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | Int32 | 将删除戳记的页码。 |
-| index | Int32[] | 标记索引。 |
+| pageNumber | Int32 | 将删除印章的页码。 |
+| index | Int32[] | 邮票索引。 |
 
 ### 例子
 

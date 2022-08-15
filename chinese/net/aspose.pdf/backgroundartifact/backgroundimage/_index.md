@@ -1,14 +1,14 @@
 ---
 title: BackgroundImage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置背景工件的免费图像
+description: 获取或设置背景神器的免费图像
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/backgroundartifact/backgroundimage/
 ---
 ## BackgroundArtifact.BackgroundImage property
 
-获取或设置背景工件的免费图像
+获取或设置背景神器的免费图像
 
 ```csharp
 public Stream BackgroundImage { get; set; }

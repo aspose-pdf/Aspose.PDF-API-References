@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаSignatureaspose.pdf.forms/signature.
+description: Инициализирует новый экземплярSignatureaspose.pdf.forms/signature класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/signature/signature/
 ---
 ## Signature() {#constructor}
 
-Инициализирует новый экземпляр класса[`Signature`](../../signature).
+Инициализирует новый экземпляр[`Signature`](../../signature) класс.
 
 ```csharp
 public Signature()
@@ -24,7 +24,7 @@ public Signature()
 
 ## Signature(string, string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Signature`](../../signature).
+Инициализирует новый экземпляр[`Signature`](../../signature) класс.
 
 ```csharp
 public Signature(string pfx, string password)
@@ -32,8 +32,8 @@ public Signature(string pfx, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
-| пароль | String | Пароль для доступа к закрытому ключу в сертификате. |
+| pfx | String | Pfx-файл, содержащий сертификат для подписи. |
+| password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public Signature(string pfx, string password)
 
 ## Signature(Stream, string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Signature`](../../signature).
+Инициализирует новый экземпляр[`Signature`](../../signature) класс.
 
 ```csharp
 public Signature(Stream pfx, string password)
@@ -54,7 +54,7 @@ public Signature(Stream pfx, string password)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pfx | Stream | Поток с данными сертификата, организованными как pfx. |
-| пароль | String | Пароль для доступа к закрытому ключу в сертификате. |
+| password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
 ### Смотрите также
 

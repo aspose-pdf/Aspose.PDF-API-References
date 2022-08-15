@@ -1,14 +1,14 @@
 ---
 title: ByteRange
 second_title: Aspose.PDF for .NET API 参考
-description: 整数对数组起始字节偏移字节长度 应该描述摘要计算的确切字节范围
+description: 整数对数组起始字节偏移量字节长度 应描述摘要计算的确切字节范围
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/signature/byterange/
 ---
 ## Signature.ByteRange property
 
-整数对数组（起始字节偏移，字节长度） 应该描述摘要计算的确切字节范围。
+整数对数组（起始字节偏移量，字节长度） ，应描述摘要计算的确切字节范围。
 
 ```csharp
 public int[] ByteRange { get; }

@@ -1,14 +1,14 @@
 ---
 title: ResizeImages
 second_title: Aspose.PDF для справочника API .NET
-description: Если для этого флага установлено значение true а для CompressImages установлено значение true размеры изображений будут изменены если разрешение изображения больше указанного параметра MaxResolution.
+description: Если для этого флага установлено значение true а для параметра CompressImages установлено значение true размеры изображений будут изменены если разрешение изображения больше указанного параметра MaxResolution.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.optimization/imagecompressionoptions/resizeimages/
 ---
 ## ImageCompressionOptions.ResizeImages property
 
-Если для этого флага установлено значение true, а для CompressImages установлено значение true, размеры изображений будут изменены, если разрешение изображения больше указанного параметра MaxResolution.
+Если для этого флага установлено значение true, а для параметра CompressImages установлено значение true, размеры изображений будут изменены, если разрешение изображения больше указанного параметра MaxResolution.
 
 ```csharp
 public bool ResizeImages { get; set; }

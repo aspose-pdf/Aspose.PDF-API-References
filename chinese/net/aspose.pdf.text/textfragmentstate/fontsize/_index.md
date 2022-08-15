@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的字体大小由TextFragmentaspose.pdf.text/textfragment对象表示
+description: 获取或设置文本的字体大小由TextFragmentaspose.pdf.text/textfragmentobject
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/textfragmentstate/fontsize/
 ---
 ## TextFragmentState.FontSize property
 
-获取或设置文本的字体大小，由[`TextFragment`](../../textfragment)对象表示
+获取或设置文本的字体大小，由[`TextFragment`](../../textfragment)object
 
 ```csharp
 public override float FontSize { get; set; }

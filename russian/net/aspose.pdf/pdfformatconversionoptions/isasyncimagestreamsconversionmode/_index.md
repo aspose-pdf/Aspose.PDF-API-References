@@ -1,14 +1,14 @@
 ---
 title: IsAsyncImageStreamsConversionMode
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает запуск потоков изображений в асинхронном режиме.
+description: Получает/задает запуск потоков изображений в асинхронном режиме.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/isasyncimagestreamsconversionmode/
 ---
 ## PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode property
 
-Получает/устанавливает запуск потоков изображений в асинхронном режиме.
+Получает/задает запуск потоков изображений в асинхронном режиме.
 
 ```csharp
 public bool IsAsyncImageStreamsConversionMode { get; set; }

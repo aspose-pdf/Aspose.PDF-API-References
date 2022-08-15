@@ -18,7 +18,7 @@ public abstract class ElementList : IEnumerable<Element>
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Count](../../aspose.pdf.logicalstructure/elementlist/count) { get; } | 获取 ElementList 中元素的数量。 |
+| abstract [Count](../../aspose.pdf.logicalstructure/elementlist/count) { get; } | 获取 ElementList 中的元素个数。 |
 | virtual [ElementOf](../../aspose.pdf.logicalstructure/elementlist/elementof) { get; } | 获取给定索引处的元素。 |
 
 ## 方法

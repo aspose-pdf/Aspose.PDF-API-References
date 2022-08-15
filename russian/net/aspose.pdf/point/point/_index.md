@@ -1,14 +1,14 @@
 ---
 title: Point
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярPointaspose.pdf/point.
+description: Инициализирует новый экземплярPointaspose.pdf/point .
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/point/point/
 ---
 ## Point constructor
 
-Инициализирует новый экземпляр[`Point`](../../point).
+Инициализирует новый экземпляр[`Point`](../../point) .
 
 ```csharp
 public Point(double x, double y)
@@ -16,8 +16,8 @@ public Point(double x, double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Значение координаты x. |
-| y | Double | Значение координаты y. |
+| x | Double | x значение координаты. |
+| y | Double | значение координаты y. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TBWIPE
 second_title: Aspose.PDF для справочника API .NET
-description: Стирание сверху вниз
+description: Протирание сверху вниз
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/tbwipe/
 ---
 ## PdfPageEditor.TBWIPE field
 
-Стирание сверху вниз
+Протирание сверху вниз
 
 ```csharp
 public const int TBWIPE;

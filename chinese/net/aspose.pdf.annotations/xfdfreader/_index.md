@@ -26,7 +26,7 @@ public sealed class XfdfReader
 | --- | --- |
 | static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements)(XmlReader) | 解析 XFDF 文件并将信息作为哈希表返回。 |
 | static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations)(Stream, Document) | 从 XFDF 文件中导入注释并将它们放入文档中。 |
-| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields)(Stream, Document) | 从 XFDF 文件导入字段值。 |
+| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields)(Stream, Document) | 从 XFDF 文件中导入字段值。 |
 
 ### 例子
 

@@ -1,14 +1,14 @@
 ---
 title: AlternateName
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置字段的替代名称替代字段 用于代替实际字段名称 的名称 应在用户界面中标识该字段的位置 备用名称用作 Adobe Acrobat 中的字段工具提示
+description: 获取或设置字段的备用名称备用字段 名称应用于代替实际字段名称 应在用户界面中标识该字段的任何位置 备用名称用作 Adobe Acrobat 中的字段工具提示.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/field/alternatename/
 ---
 ## Field.AlternateName property
 
-获取或设置字段的替代名称（替代字段 用于代替实际字段名称 的名称 应在用户界面中标识该字段的位置）。 备用名称用作 Adobe Acrobat 中的字段工具提示。
+获取或设置字段的备用名称（备用字段 名称应用于代替实际字段名称 应在用户界面中标识该字段的任何位置）。 备用名称用作 Adobe Acrobat 中的字段工具提示.
 
 ```csharp
 public string AlternateName { get; set; }

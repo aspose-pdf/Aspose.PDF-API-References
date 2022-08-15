@@ -18,10 +18,10 @@ public void AddSubmitBtn(string fieldName, int page, string label, string url, f
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | String | 新按钮的名称。 |
-| page | Int32 | 放置按钮的页面。 |
+| page | Int32 | 将放置按钮的页面。 |
 | label | String | 按钮标题。 |
 | url | String | 提交按钮的 URL。 |
-| llx | Single | 左下角横坐标。 |
+| llx | Single | 左下角的横坐标。 |
 | lly | Single | 左下角的纵坐标。 |
 | urx | Single | 右上角的横坐标。 |
 | ury | Single | 右上角的纵坐标。 |

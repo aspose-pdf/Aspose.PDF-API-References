@@ -1,14 +1,14 @@
 ---
 title: SetValue
 second_title: Aspose.PDF for .NET API 参考
-description: 设置应用程序特定的参数
+description: 设置应用程序特定参数
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/filespecification/setvalue/
 ---
 ## FileSpecification.SetValue method
 
-设置应用程序特定的参数。
+设置应用程序特定参数。
 
 ```csharp
 public void SetValue(string key, string value)

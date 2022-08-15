@@ -16,8 +16,8 @@ public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| src | Document | 源文档。 |
-| dest | Document | 目标文档。 |
+| src | Document | 源文件。 |
+| dest | Document | 目的地文件。 |
 | pageBreaks | PageBreak[] | 描述分页符位置的 PageBreak 对象数组。 |
 
 ### 也可以看看
@@ -42,7 +42,7 @@ public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 | --- | --- | --- |
 | src | String | 源文档的路径。 |
 | dest | String | 目标文档的路径。 |
-| pageBreaks | PageBreak[] | PageBreak 对象数组，描述页面和将添加分页符的位置。 |
+| pageBreaks | PageBreak[] | PageBreak 对象数组，描述将添加分页符的页面和位置。 |
 
 ### 也可以看看
 
@@ -63,9 +63,9 @@ public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| src | Stream | Source 包含源文档。 |
+| src | Stream | 包含源文档的源。 |
 | dest | Stream | 将保存目标文档的源。 |
-| pageBreaks | PageBreak[] | PageBreak 对象数组，描述页面和将添加分页符的位置。 |
+| pageBreaks | PageBreak[] | PageBreak 对象数组，描述将添加分页符的页面和位置。 |
 
 ### 也可以看看
 

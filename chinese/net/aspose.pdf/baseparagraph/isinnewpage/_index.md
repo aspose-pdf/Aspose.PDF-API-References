@@ -1,14 +1,14 @@
 ---
 title: IsInNewPage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置强制此段落在新页面生成的布尔值 默认为 false用于 pdf 生成
+description: 获取或设置一个 bool 值强制此段落在新页面生成 默认为 false用于 pdf 生成
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/baseparagraph/isinnewpage/
 ---
 ## BaseParagraph.IsInNewPage property
 
-获取或设置强制此段落在新页面生成的布尔值。 默认为 false。（用于 pdf 生成）
+获取或设置一个 bool 值，强制此段落在新页面生成。 默认为 false。（用于 pdf 生成）
 
 ```csharp
 public bool IsInNewPage { get; set; }

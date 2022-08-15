@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Получает количество элементов объектаCharInfoaspose.pdf.text/charinfo фактически содержащихся в коллекции.
+description: Получает количествоCharInfoaspose.pdf.text/charinfo элементы объекта фактически содержащиеся в коллекции.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/charinfocollection/count/
 ---
 ## CharInfoCollection.Count property
 
-Получает количество элементов объекта[`CharInfo`](../../charinfo), фактически содержащихся в коллекции.
+Получает количество[`CharInfo`](../../charinfo) элементы объекта, фактически содержащиеся в коллекции.
 
 ```csharp
 public int Count { get; }

@@ -1,14 +1,14 @@
 ---
 title: ApplyRedactions
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则指定编辑 将应用编辑注释
+description: 如果为真则指定密文 密文注释将被应用
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
 ## Form.FlattenSettings.ApplyRedactions property
 
-如果为真，则指定编辑 将应用编辑注释
+如果为真，则指定密文 密文注释将被应用
 
 ```csharp
 public bool ApplyRedactions { get; set; }

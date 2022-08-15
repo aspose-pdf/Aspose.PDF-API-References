@@ -1,14 +1,14 @@
 ---
 title: FitHExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 表示显示页面的显式目标垂直坐标 top 位于窗口的顶部边缘页面内容被放大到刚好适合整个宽度窗口内的页面 top 的空值指定该参数的当前值将保持不变
+description: 表示显示页面的显式目标该页面的垂直坐标 top 位于窗口的顶部边缘并且页面的内容被放大到刚好适合窗口内页面的整个宽度 top 的空值指定该参数的当前值将保持不变
 type: docs
 weight: 390
 url: /zh/net/aspose.pdf.annotations/fithexplicitdestination/
 ---
 ## FitHExplicitDestination class
 
-表示显示页面的显式目标，垂直坐标 top 位于窗口的顶部边缘，页面内容被放大到刚好适合整个宽度窗口内的页面。 top 的空值指定该参数的当前值将保持不变。
+表示显示页面的显式目标，该页面的垂直坐标 top 位于窗口的顶部边缘，并且页面的内容被放大到刚好适合窗口内页面的整个宽度。 top 的空值指定该参数的当前值将保持不变。
 
 ```csharp
 public sealed class FitHExplicitDestination : ExplicitDestination
@@ -19,7 +19,7 @@ public sealed class FitHExplicitDestination : ExplicitDestination
 | 姓名 | 描述 |
 | --- | --- |
 | [FitHExplicitDestination](fithexplicitdestination#constructor_2)(int, double) | 创建远程显式目标。 |
-| [FitHExplicitDestination](fithexplicitdestination#constructor_1)(Page, double) | 创建本地显式目的地。 |
+| [FitHExplicitDestination](fithexplicitdestination#constructor_1)(Page, double) | 创建本地显式目标。 |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public sealed class FitHExplicitDestination : ExplicitDestination
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fithexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例:“1 FitH 100”。 |
+| override [ToString](../../aspose.pdf.annotations/fithexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例：“1 FitH 100”. |
 
 ### 也可以看看
 

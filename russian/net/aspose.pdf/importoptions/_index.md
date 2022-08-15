@@ -1,14 +1,14 @@
 ---
 title: ImportOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Тип ImportOptions содержит уровень абстракции отдельных параметров импорта.
+description: Тип ImportOptions содержит уровень абстракции для отдельных параметров импорта.
 type: docs
 weight: 3810
 url: /ru/net/aspose.pdf/importoptions/
 ---
 ## ImportOptions class
 
-Тип ImportOptions содержит уровень абстракции отдельных параметров импорта.
+Тип ImportOptions содержит уровень абстракции для отдельных параметров импорта.
 
 ```csharp
 public abstract class ImportOptions

@@ -1,14 +1,14 @@
 ---
 title: Culture
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает значение информации о культуре. Значение по умолчаниюинварианткультуре.
+description: Получает/устанавливает значение информации о культуре. Значение по умолчанию InvariantCulture.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/culture/
 ---
 ## SignatureCustomAppearance.Culture property
 
-Получает/устанавливает значение информации о культуре. Значение по умолчанию:инварианткультуре.
+Получает/устанавливает значение информации о культуре. Значение по умолчанию: InvariantCulture.
 
 ```csharp
 public CultureInfo Culture { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BackgroundImage
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает фоновое изображение
+description: Получает или задает фоновое изображение
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/cell/backgroundimage/
 ---
 ## Cell.BackgroundImage property
 
-Получает или устанавливает фоновое изображение
+Получает или задает фоновое изображение
 
 ```csharp
 public Image BackgroundImage { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_LowerAlpha
 second_title: Aspose.PDF для справочника API .NET
-description: Список атрибутов НумерацияLowerAlpha - Строчные буквы a b c ....
+description: Нумерация списка атрибутов LowerAlpha  Строчные буквы a b c ....
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha/
 ---
 ## AttributeName.ListNumbering_LowerAlpha field
 
-Список атрибутов Нумерация:LowerAlpha - Строчные буквы (a, b, c, ...).
+Нумерация списка атрибутов: LowerAlpha — Строчные буквы (a, b, c, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerAlpha;

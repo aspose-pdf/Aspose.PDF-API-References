@@ -1,14 +1,14 @@
 ---
 title: PrintAllowLevel
 second_title: Aspose.PDF for .NET API 参考
-description: 设置文档权限的打印级别就像 Adobe Professional 的允许打印设置一样 0无 1低分辨率150 dpi 2高分辨率
+description: 设置文档权限的打印级别就像 Adobe Professional 的允许打印设置一样 0无 1低分辨率 150 dpi 2高分辨率
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/documentprivilege/printallowlevel/
 ---
 ## DocumentPrivilege.PrintAllowLevel property
 
-设置文档权限的打印级别。就像 Adobe Professional 的允许打印设置一样。 0:无。 1:低分辨率（150 dpi）。 2:高分辨率。
+设置文档权限的打印级别。就像 Adobe Professional 的允许打印设置一样。 0：无。 1：低分辨率 (150 dpi)。 2：高分辨率。
 
 ```csharp
 public int PrintAllowLevel { set; }

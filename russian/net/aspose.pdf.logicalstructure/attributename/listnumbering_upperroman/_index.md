@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_UpperRoman
 second_title: Aspose.PDF для справочника API .NET
-description: Список атрибутов НумерацияUpperRoman - Прописные римские цифры I II III IV ....
+description: Список атрибутов Нумерация UpperRoman - Прописные римские цифры I II III IV ....
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/
 ---
 ## AttributeName.ListNumbering_UpperRoman field
 
-Список атрибутов Нумерация:UpperRoman - Прописные римские цифры (I, II, III, IV, ...).
+Список атрибутов Нумерация: UpperRoman - Прописные римские цифры (I, II, III, IV, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_UpperRoman;

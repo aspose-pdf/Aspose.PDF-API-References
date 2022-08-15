@@ -1,14 +1,14 @@
 ---
 title: DocumentActionCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Класс описывает действия выполняемые над некоторыми действиями с документом
+description: Класс описывает действия выполняемые над некоторыми действиями с document
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.annotations/documentactioncollection/
 ---
 ## DocumentActionCollection class
 
-Класс описывает действия, выполняемые над некоторыми действиями с документом
+Класс описывает действия, выполняемые над некоторыми действиями с document
 
 ```csharp
 public sealed class DocumentActionCollection
@@ -18,7 +18,7 @@ public sealed class DocumentActionCollection
 
 | Имя | Описание |
 | --- | --- |
-| [DocumentActionCollection](documentactioncollection)(Document) | Конструктор для DocumentActionCollection. Создает объекты DocumentActionCollection из объекта Document Pdf.Kit.Engine. |
+| [DocumentActionCollection](documentactioncollection)(Document) | Конструктор для DocumentActionCollection. Создает объекты DocumentActionCollection из Pdf.Kit.Engine Document object. |
 
 ## Характеристики
 

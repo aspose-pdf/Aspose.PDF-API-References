@@ -1,14 +1,14 @@
 ---
 title: InvalidValueFormatException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаInvalidValueFormatExceptionaspose.pdf/invalidvalueformatexception.
+description: Инициализирует новый экземплярInvalidValueFormatExceptionaspose.pdf/invalidvalueformatexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException() {#constructor}
 
-Инициализирует новый экземпляр класса[`InvalidValueFormatException`](../../invalidvalueformatexception).
+Инициализирует новый экземпляр[`InvalidValueFormatException`](../../invalidvalueformatexception) класс.
 
 ```csharp
 public InvalidValueFormatException()

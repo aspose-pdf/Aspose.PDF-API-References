@@ -1,14 +1,14 @@
 ---
 title: SetColorSpace
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
 ## SetColorSpace constructor
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public SetColorSpace(string name)
@@ -16,7 +16,7 @@ public SetColorSpace(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 色彩空间名称。 |
+| name | String | 颜色空间名称。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CreateTableTHeadElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建TableTHeadElementaspose.pdf.logicalstructure/tabletheadelement
+description: 创建TableTHeadElementaspose.pdf.logicalstructure/tabletheadelement.
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createtabletheadelement/
 ---
 ## ITaggedContent.CreateTableTHeadElement method
 
-创建[`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement)。
+创建[`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement).
 
 ```csharp
 public TableTHeadElement CreateTableTHeadElement()
@@ -16,7 +16,7 @@ public TableTHeadElement CreateTableTHeadElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

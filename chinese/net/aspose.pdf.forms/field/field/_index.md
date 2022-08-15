@@ -16,7 +16,7 @@ public Field(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
+| doc | Document | 记录将在何处创建字段。 |
 
 ### 也可以看看
 

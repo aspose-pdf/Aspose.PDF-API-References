@@ -58,7 +58,7 @@ public void Delete(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 必须删除的图像名称。 |
+| name | String | 必须删除的图像的名称。 |
 
 ### 也可以看看
 
@@ -78,7 +78,7 @@ public void Delete(string name, ImageDeleteAction action)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 必须删除的图像名称。 |
+| name | String | 必须删除的图像的名称。 |
 | action | ImageDeleteAction | 要对图像对象执行的操作。 |
 
 ### 也可以看看

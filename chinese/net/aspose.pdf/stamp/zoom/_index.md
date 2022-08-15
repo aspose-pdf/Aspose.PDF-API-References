@@ -1,14 +1,14 @@
 ---
 title: Zoom
 second_title: Aspose.PDF for .NET API 参考
-description: 标记的缩放系数允许缩放邮票 请注意一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放系数 此属性的设置会更改 ZoomX 和 ZoomY 属性 如果 ZoomX 和 ZoomY 不同则 Zoom 属性返回 ZoomX 值
+description: 标记的缩放系数允许缩放戳记 请注意一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放系数 设置此属性会同时更改 ZoomX 和 ZoomY 属性 如果 ZoomX 和 ZoomY 不同则 Zoom 属性返回 ZoomX 值
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/stamp/zoom/
 ---
 ## Stamp.Zoom property
 
-标记的缩放系数。允许缩放邮票。 请注意，一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放系数。 此属性的设置会更改 ZoomX 和 ZoomY 属性。 如果 ZoomX 和 ZoomY 不同，则 Zoom 属性返回 ZoomX 值。
+标记的缩放系数。允许缩放戳记。 请注意，一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放系数。 设置此属性会同时更改 ZoomX 和 ZoomY 属性。 如果 ZoomX 和 ZoomY 不同，则 Zoom 属性返回 ZoomX 值。
 
 ```csharp
 public double Zoom { get; set; }

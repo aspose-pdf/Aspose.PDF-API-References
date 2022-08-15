@@ -1,14 +1,14 @@
 ---
 title: TextSize
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает размер текста.
+description: Получает или задает размер текста.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/textproperties/textsize/
 ---
 ## TextProperties.TextSize property
 
-Получает или устанавливает размер текста.
+Получает или задает размер текста.
 
 ```csharp
 public double TextSize { get; set; }

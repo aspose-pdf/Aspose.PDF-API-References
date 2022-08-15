@@ -1,14 +1,14 @@
 ---
 title: GetMarkedTextFragments
 second_title: Aspose.PDF для справочника API .NET
-description: Получает текст под аннотацией разметки какTextFragmentCollectionaspose.pdf.text/textfragmentcollection.
+description: Получает текст под аннотацией разметки какTextFragmentCollectionaspose.pdf.text/textfragmentcollection .
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
 ## TextMarkupAnnotation.GetMarkedTextFragments method
 
-Получает текст под аннотацией разметки как[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection).
+Получает текст под аннотацией разметки как[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection) .
 
 ```csharp
 public TextFragmentCollection GetMarkedTextFragments()
@@ -16,7 +16,7 @@ public TextFragmentCollection GetMarkedTextFragments()
 
 ### Возвращаемое значение
 
-[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection)содержащий[`TextFragment`](../../../aspose.pdf.text/textfragment)s, который находится под аннотацией разметки.
+[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection) содержащий[`TextFragment`](../../../aspose.pdf.text/textfragment)s, который находится под аннотацией разметки.
 
 ### Смотрите также
 

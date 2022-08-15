@@ -17,9 +17,9 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | String | 存储注释的文件路径。 |
-| format | PdfFormat | pdf 格式。 |
-| action | ConvertErrorAction | 对无法转换的对象的操作 |
+| outputLogFileName | String | 将存储评论的文件路径。 |
+| format | PdfFormat | pdf格式。 |
+| action | ConvertErrorAction | 无法转换的对象的操作 |
 
 ### 也可以看看
 
@@ -41,8 +41,8 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | String | 存储注释的文件路径。 |
-| format | PdfFormat | pdf 格式。 |
+| outputLogFileName | String | 将存储评论的文件路径。 |
+| format | PdfFormat | pdf格式。 |
 
 ### 也可以看看
 
@@ -63,7 +63,7 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| format | PdfFormat | pdf 格式。 |
+| format | PdfFormat | pdf格式。 |
 
 ### 也可以看看
 
@@ -84,8 +84,8 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| format | PdfFormat | pdf 格式。 |
-| action | ConvertErrorAction | 对无法转换的对象的操作 |
+| format | PdfFormat | pdf格式。 |
+| action | ConvertErrorAction | 无法转换的对象的操作 |
 
 ### 也可以看看
 
@@ -108,8 +108,8 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | String | 存储注释的文件路径。 |
-| format | PdfFormat | pdf 格式。 |
+| outputLogFileName | String | 将存储评论的文件路径。 |
+| format | PdfFormat | pdf格式。 |
 | action | ConvertErrorAction | 无法转换的对象的操作 |
 | transparencyAction | ConvertTransparencyAction | 图像蒙版对象的操作 |
 
@@ -135,9 +135,9 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogStream | Stream | 存储注释的流 |
+| outputLogStream | Stream | 将存储评论的流 |
 | format | PdfFormat | pdf格式 |
-| action | ConvertErrorAction | 无法转换的对象的动作 |
+| action | ConvertErrorAction | 无法转换的对象的操作 |
 
 ### 也可以看看
 

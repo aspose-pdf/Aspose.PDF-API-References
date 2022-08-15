@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Абстрактный инициализатор для потомковImageDeviceaspose.pdf.devices/imagedevice установить разрешение 150x150.
+description: Абстрактный инициализатор дляImageDeviceaspose.pdf.devices/imagedevice потомки установите разрешение 150x150.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-Абстрактный инициализатор для потомков[`ImageDevice`](../../imagedevice), установить разрешение 150x150.
+Абстрактный инициализатор для[`ImageDevice`](../../imagedevice) потомки, установите разрешение 150x150.
 
 ```csharp
 public ImageDevice()
@@ -24,7 +24,7 @@ public ImageDevice()
 
 ## ImageDevice(Resolution) {#constructor_1}
 
-Абстрактный инициализатор для потомков[`ImageDevice`](../../imagedevice).  Разрешение результирующего файла изображения, см.[`Resolution`](../resolution)учебный класс.
+Абстрактный инициализатор для[`ImageDevice`](../../imagedevice) потомки.  Разрешение результирующего файла изображения, см.[`Resolution`](../resolution) класс.
 
 ```csharp
 public ImageDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public ImageDevice(Resolution resolution)
 
 ## ImageDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`JpegDevice`](../../jpegdevice)с предоставленными размерами изображения и разрешением по умолчанию (=150) .
+Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice) класс с предоставленными размерами изображения и разрешением по умолчанию (= 150).
 
 ```csharp
 public ImageDevice(int width, int height)
@@ -62,7 +62,7 @@ public ImageDevice(int width, int height)
 
 ## ImageDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`JpegDevice`](../../jpegdevice)с предоставленными размерами изображения и разрешением по умолчанию (=150) .
+Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice) класс с предоставленными размерами изображения и разрешением по умолчанию (= 150).
 
 ```csharp
 public ImageDevice(PageSize pageSize)
@@ -83,7 +83,7 @@ public ImageDevice(PageSize pageSize)
 
 ## ImageDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`JpegDevice`](../../jpegdevice)с заданными размерами и разрешением изображения.
+Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice) класс с предоставленными размерами изображения и разрешением.
 
 ```csharp
 public ImageDevice(int width, int height, Resolution resolution)
@@ -93,7 +93,7 @@ public ImageDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../resolution) класс. |
 
 ### Смотрите также
 
@@ -106,7 +106,7 @@ public ImageDevice(int width, int height, Resolution resolution)
 
 ## ImageDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`JpegDevice`](../../jpegdevice)с заданными размерами и разрешением изображения.
+Инициализирует новый экземпляр[`JpegDevice`](../../jpegdevice) класс с предоставленными размерами изображения и разрешением.
 
 ```csharp
 public ImageDevice(PageSize pageSize, Resolution resolution)
@@ -115,7 +115,7 @@ public ImageDevice(PageSize pageSize, Resolution resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../resolution) класс. |
 
 ### Смотрите также
 

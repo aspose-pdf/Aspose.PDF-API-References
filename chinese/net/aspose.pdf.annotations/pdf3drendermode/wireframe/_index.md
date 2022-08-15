@@ -1,14 +1,14 @@
 ---
 title: Wireframe
 second_title: Aspose.PDF for .NET API 参考
-description: WireFrame 渲染模式
+description: 线框渲染模式
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/wireframe/
 ---
 ## PDF3DRenderMode.Wireframe field
 
-"WireFrame" 渲染模式。
+“线框”渲染模式。
 
 ```csharp
 public static PDF3DRenderMode Wireframe;

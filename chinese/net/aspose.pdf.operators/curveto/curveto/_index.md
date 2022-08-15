@@ -1,14 +1,14 @@
 ---
 title: CurveTo
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化曲线操作符
+description: 初始化曲线算子
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/curveto/curveto/
 ---
 ## CurveTo constructor
 
-初始化曲线操作符。
+初始化曲线算子。
 
 ```csharp
 public CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)

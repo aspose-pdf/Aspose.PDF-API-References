@@ -1,14 +1,14 @@
 ---
 title: AlignRight
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет выравнивание к правому стилю.
+description: Определяет соответствие правому стилю.
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/formfieldfacade/alignright/
 ---
 ## FormFieldFacade.AlignRight field
 
-Определяет выравнивание к правому стилю.
+Определяет соответствие правому стилю.
 
 ```csharp
 public const int AlignRight;

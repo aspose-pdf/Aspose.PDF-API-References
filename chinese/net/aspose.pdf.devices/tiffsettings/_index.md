@@ -18,22 +18,22 @@ public sealed class TiffSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TiffSettings](tiffsettings#constructor)() | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_8)(bool) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_1)(ColorDepth) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_2)(CompressionType) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_6)(Margins) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_7)(ShapeType) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_3)(CompressionType, ColorDepth, Margins) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_4)(CompressionType, ColorDepth, Margins, bool) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
-| [TiffSettings](tiffsettings#constructor_5)(CompressionType, ColorDepth, Margins, bool, ShapeType) | 初始化[`TiffSettings`](../tiffsettings)类的新实例。 |
+| [TiffSettings](tiffsettings#constructor)() | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_8)(bool) | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_1)(ColorDepth) | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_2)(CompressionType) | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_6)(Margins) | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_7)(ShapeType) | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_3)(CompressionType, ColorDepth, Margins) | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_4)(CompressionType, ColorDepth, Margins, bool) | 初始化[`TiffSettings`](../tiffsettings)类. |
+| [TiffSettings](tiffsettings#constructor_5)(CompressionType, ColorDepth, Margins, bool, ShapeType) | 初始化[`TiffSettings`](../tiffsettings)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness) { get; set; } | 获取或设置颜色转换为白色和黑色的值边界。 此参数可与 EncoderValue.CompressionCCITT4、EncoderValue.CompressionCCITT3、EncoderValue.CompressionRle 或 ColorDepth.Format1bpp 一起应用 == 1 |
-| [Compression](../../aspose.pdf.devices/tiffsettings/compression) { get; set; } | 获取或设置压缩类型。 |
+| [Brightness](../../aspose.pdf.devices/tiffsettings/brightness) { get; set; } | 获取或设置颜色转换为白色和黑色的值边界。 此参数可与 EncoderValue.CompressionCCITT4、EncoderValue.CompressionCCITT3、EncoderValue.CompressionRle 或 ColorDepth.Format1bpp == 1 一起应用 |
+| [Compression](../../aspose.pdf.devices/tiffsettings/compression) { get; set; } | 获取或设置压缩的类型。 |
 | [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype) { get; set; } | 获取或设置页面坐标类型（媒体/裁剪框）。默认使用 CropBox 值。 |
 | [Depth](../../aspose.pdf.devices/tiffsettings/depth) { get; set; } | 获取或设置颜色深度。 |
 | [Margins](../../aspose.pdf.devices/tiffsettings/margins) { get; } | 获取边距。 |

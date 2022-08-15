@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF for .NET API 参考
-description: 文本颜色
+description: 文本的颜色
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/textstyle/color/
 ---
 ## TextStyle.Color property
 
-文本颜色。
+文本的颜色。
 
 ```csharp
 public Color Color { get; set; }

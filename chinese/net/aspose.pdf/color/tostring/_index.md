@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-颜色对象的字符串表示。
+颜色对象的字符串表示形式。
 
 ### 也可以看看
 

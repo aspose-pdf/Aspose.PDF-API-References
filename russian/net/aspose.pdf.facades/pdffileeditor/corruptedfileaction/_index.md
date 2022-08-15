@@ -1,14 +1,14 @@
 ---
 title: CorruptedFileAction
 second_title: Aspose.PDF для справочника API .NET
-description: Это свойство определяет поведение когда процесс объединения встречает поврежденный файл. Возможные значенияStopWithError и ConcatenateIgnoringCorrupted.
+description: Это свойство определяет поведение когда процесс объединения встречает поврежденный файл. Возможные значения StopWithError и ConcatenateIgnoringCorrupted.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/
 ---
 ## PdfFileEditor.CorruptedFileAction property
 
-Это свойство определяет поведение, когда процесс объединения встречает поврежденный файл. Возможные значения:StopWithError и ConcatenateIgnoringCorrupted.
+Это свойство определяет поведение, когда процесс объединения встречает поврежденный файл. Возможные значения: StopWithError и ConcatenateIgnoringCorrupted.
 
 ```csharp
 public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }

@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 ---
 ## PdfFileInfo.SaveNewInfoWithXmp method
 
-Изменяет свойства, указанные явно, путем установки информации о файле, другие свойства остаются.
+Изменяет свойства, указанные явно путем установки информации о файле, другие свойства остаются.
 
 ```csharp
 public bool SaveNewInfoWithXmp(string outputFileName)
@@ -20,7 +20,7 @@ public bool SaveNewInfoWithXmp(string outputFileName)
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Смотрите также
 

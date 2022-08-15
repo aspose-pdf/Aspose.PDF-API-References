@@ -20,7 +20,7 @@ public virtual void ApplyChangesFrom(TextState textState)
 
 ### 评论
 
-只有那些明确更改的属性才会被复制。
+只会复制那些显式更改的属性。
 
 ### 也可以看看
 

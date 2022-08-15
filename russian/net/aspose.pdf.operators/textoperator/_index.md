@@ -1,14 +1,14 @@
 ---
 title: TextOperator
 second_title: Aspose.PDF для справочника API .NET
-description: Абстрактный базовый класс для текстовых операторов TJ Tj Tm BT ET и т.д..
+description: Абстрактный базовый класс для текстовых операторов TJ Tj Tm BT ET и т. д..
 type: docs
 weight: 5660
 url: /ru/net/aspose.pdf.operators/textoperator/
 ---
 ## TextOperator class
 
-Абстрактный базовый класс для текстовых операторов (TJ, Tj, Tm, BT, ET и т.д.).
+Абстрактный базовый класс для текстовых операторов (TJ, Tj, Tm, BT, ET и т. д.).
 
 ```csharp
 public abstract class TextOperator : Operator
@@ -31,7 +31,7 @@ public abstract class TextOperator : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

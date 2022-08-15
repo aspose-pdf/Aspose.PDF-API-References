@@ -1,14 +1,14 @@
 ---
 title: Note
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示生成器段落注释
+description: 这个类代表生成器段落注释
 type: docs
 weight: 4820
 url: /zh/net/aspose.pdf/note/
 ---
 ## Note class
 
-此类表示生成器段落注释。
+这个类代表生成器段落注释。
 
 ```csharp
 public sealed class Note
@@ -18,14 +18,14 @@ public sealed class Note
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Note](note#constructor)() | 初始化[`Note`](../note)类的新实例。 |
-| [Note](note#constructor_1)(string) | 初始化[`Note`](../note)类的新实例。 |
+| [Note](note#constructor)() | 初始化[`Note`](../note)类. |
+| [Note](note#constructor_1)(string) | 初始化[`Note`](../note)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs) { get; set; } | 获取或设置指示脚注中所有段落的集合。 |
+| [Paragraphs](../../aspose.pdf/note/paragraphs) { get; set; } | 获取或设置表示脚注中所有段落的集合。 |
 | [Text](../../aspose.pdf/note/text) { get; set; } | 获取或设置注释文本。 |
 | [TextState](../../aspose.pdf/note/textstate) { get; set; } | 获取或设置注释文本状态。 |
 

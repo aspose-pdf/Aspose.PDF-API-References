@@ -1,14 +1,14 @@
 ---
 title: RightStyleIfAny
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет правую часть если есть границы
+description: Представляет правую часть если есть border
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/
 ---
 ## SaveOptions.BorderInfo.RightStyleIfAny field
 
-Представляет правую часть (если есть) границы
+Представляет правую часть (если есть) border
 
 ```csharp
 public BorderPartStyle RightStyleIfAny;

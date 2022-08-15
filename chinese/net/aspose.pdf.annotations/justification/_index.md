@@ -19,7 +19,7 @@ public enum Justification
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Left | `0` | 左对齐。 |
-| Center | `1` | 中心对齐。 |
+| Center | `1` | 居中对齐。 |
 | Right | `2` | 右对齐。 |
 
 ### 也可以看看

@@ -1,0 +1,86 @@
+---
+title: RichMediaAnnotation
+second_title: Aspose.PDF لمرجع .NET API
+description: يصف Class RichMediaAnnotation الذي يسمح بتضمين بيانات الفيديو / الصوت في مستند PDF.
+type: docs
+weight: 1030
+url: /ar/net/aspose.pdf.annotations/richmediaannotation/
+---
+## RichMediaAnnotation class
+
+يصف Class RichMediaAnnotation الذي يسمح بتضمين بيانات الفيديو / الصوت في مستند PDF.
+
+```csharp
+public class RichMediaAnnotation : Annotation
+```
+
+## المنشئون
+
+| اسم | وصف |
+| --- | --- |
+| [RichMediaAnnotation](richmediaannotation)(Page, Rectangle) | تهيئة RichMediaAnnotation. |
+
+## الخصائص
+
+| اسم | وصف |
+| --- | --- |
+| [Actions](../../aspose.pdf.annotations/annotation/actions) { get; } | الحصول على قائمة بإجراءات التعليقات التوضيحية . |
+| [ActivateOn](../../aspose.pdf.annotations/richmediaannotation/activateon) { get; set; } | الحدث الذي ينشط التطبيق . |
+| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate) { get; set; } | الحصول على حالة مظهر التعليق التوضيحي الحالية أو تعيينها. |
+| override [AnnotationType](../../aspose.pdf.annotations/richmediaannotation/annotationtype) { get; } | يحصل على نوع التعليق التوضيحي . |
+| [Appearance](../../aspose.pdf.annotations/annotation/appearance) { get; } | الحصول على قاموس مظهر التعليق التوضيحي. |
+| [Border](../../aspose.pdf.annotations/annotation/border) { get; set; } | الحصول على أو تعيين خصائص حدود التعليق التوضيحي.[`Border`](../annotation/border) |
+| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics) { get; } | الحصول على خصائص التعليقات التوضيحية . |
+| [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } | الحصول على لون التعليق التوضيحي أو تعيينه. |
+| [Content](../../aspose.pdf.annotations/richmediaannotation/content) { get; } | بيانات محتوى الوسائط المتعددة التفاعلية. |
+| [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | الحصول على نص التعليق التوضيحي أو تعيينه. |
+| [CustomFlashVariables](../../aspose.pdf.annotations/richmediaannotation/customflashvariables) { get; set; } | يضبط أو يحصل على متغيرات الفلاش التي تنتقل إلى اللاعب. |
+| [CustomPlayer](../../aspose.pdf.annotations/richmediaannotation/customplayer) { get; set; } | لتعيين مشغل الفلاش المخصص أو الحصول عليه لتشغيل بيانات الفيديو / الصوت. |
+| [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | إشارات التعليق التوضيحي . |
+| [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } | الحصول على الاسم الكامل للتعليق التوضيحي. |
+| virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } | الحصول على ارتفاع التعليق التوضيحي أو تعيينه. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | الحصول على أو تعيين الارتباط التشعبي للجزء (لمولد pdf) . |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية خطأ. (لتوليد pdf) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | الحصول على فقرة مضمنة أو تعيينها . الإعداد الافتراضي خطأ. (لإنشاء ملف pdf) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | الحصول على أو تعيين قيمة منطقية تفرض إنشاء هذه الفقرة في صفحة جديدة. القيمة الافتراضية خطأ. (لتوليد pdf) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | الحصول على أو تعيين قيمة منطقية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. |
+| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | الحصول على أو تعيين هامش خارجي للفقرة (لتوليد pdf) |
+| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | تحديد أو تحديد التاريخ والوقت اللذين تم فيهما تعديل التعليق التوضيحي مؤخرًا. |
+| [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } | الحصول على أو تعيين اسم التعليق التوضيحي على الصفحة. |
+| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } | يحصل على فهرس للصفحة التي تحتوي على تعليق توضيحي. |
+| virtual [Rect](../../aspose.pdf.annotations/annotation/rect) { get; set; } | الحصول على مستطيل التعليق التوضيحي أو تعيينه. |
+| [States](../../aspose.pdf.annotations/annotation/states) { get; } | الحصول على قاموس مظهر التعليق التوضيحي. |
+| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment) { get; set; } | الحصول على محاذاة النص للتعليق التوضيحي أو تعيينها. |
+| [Type](../../aspose.pdf.annotations/richmediaannotation/type) { get; set; } | الحصول على نوع المحتوى أو تعيينه. القيم الممكنة: الصوت والفيديو. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | الحصول على محاذاة عمودية للفقرة أو تعيينها |
+| virtual [Width](../../aspose.pdf.annotations/annotation/width) { get; set; } | الحصول على عرض التعليق التوضيحي أو تعيينه. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | الحصول على أو تحديد قيمة int التي تشير إلى ترتيب Z للرسم البياني. سيتم وضع رسم بياني به ZIndex أكبر فوق الرسم البياني باستخدام ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني بالسالب سيتم وضع مؤشر Z خلف النص في الصفحة. |
+
+## طُرق
+
+| اسم | وصف |
+| --- | --- |
+| override [Accept](../../aspose.pdf.annotations/richmediaannotation/accept)(AnnotationSelector) | يقبل الزائر لهذا التعليق التوضيحي. |
+| [AddCustomData](../../aspose.pdf.annotations/richmediaannotation/addcustomdata)(string, Stream) | أضف بيانات مسماة مخصصة (على سبيل المثال مطلوبة لبرنامج فلاش النصي). |
+| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | تحديث المعلمات والمظهر ، وفقًا لتحويل المصفوفة. |
+| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | استنساخ هذا المثال. طريقة افتراضية. العودة دائما فارغة. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | وضع محتويات التعليق التوضيحي مباشرة على الصفحة ، ستتم إزالة كائن التعليق التوضيحي . |
+| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | إرجاع مستطيل التعليق التوضيحي مع مراعاة تدوير الصفحة. |
+| [SetContent](../../aspose.pdf.annotations/richmediaannotation/setcontent)(string, Stream) | تعيين دفق المحتوى . |
+| [SetPoster](../../aspose.pdf.annotations/richmediaannotation/setposter)(Stream) | تعيين ملصق التعليق التوضيحي. |
+| [Update](../../aspose.pdf.annotations/richmediaannotation/update)() | تحديث البيانات بمعلمات محددة . |
+
+## أعضاء آخرون
+
+| اسم | وصف |
+| --- | --- |
+| enum [ActivationEvent](richmediaannotation.activationevent) | الحدث الذي ينشط التعليق التوضيحي. |
+| enum [ContentType](richmediaannotation.contenttype) | نوع الوسائط المتعددة. |
+
+### أنظر أيضا
+
+* class [Annotation](../annotation)
+* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations)
+* المجسم [Aspose.PDF](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

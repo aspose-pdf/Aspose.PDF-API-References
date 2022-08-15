@@ -18,16 +18,16 @@ public sealed class JpegDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JpegDevice](jpegdevice#constructor)() | 使用默认分辨率和最高质量初始化[`JpegDevice`](../jpegdevice)类的新实例。 |
-| [JpegDevice](jpegdevice#constructor_6)(int) | 初始化[`JpegDevice`](../jpegdevice)类的新实例。 |
-| [JpegDevice](jpegdevice#constructor_3)(PageSize) | 使用提供的页面大小 初始化[`JpegDevice`](../jpegdevice)类的新实例默认分辨率 (=150) 和最高质量。 |
-| [JpegDevice](jpegdevice#constructor_1)(Resolution) | 初始化[`JpegDevice`](../jpegdevice)类的新实例。  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
-| [JpegDevice](jpegdevice#constructor_7)(int, int) | 使用提供的图像尺寸 初始化[`JpegDevice`](../jpegdevice)类的新实例默认分辨率 (=150) 和最高质量。 |
-| [JpegDevice](jpegdevice#constructor_4)(PageSize, Resolution) | 使用提供的页面大小 初始化[`JpegDevice`](../jpegdevice)类的新实例分辨率和最高质量。 |
-| [JpegDevice](jpegdevice#constructor_2)(Resolution, int) | 初始化[`JpegDevice`](../jpegdevice)类的新实例。 |
-| [JpegDevice](jpegdevice#constructor_8)(int, int, Resolution) | 使用提供的图像尺寸 初始化[`JpegDevice`](../jpegdevice)类的新实例分辨率和最高质量。 |
-| [JpegDevice](jpegdevice#constructor_5)(PageSize, Resolution, int) | 使用提供的页面大小 初始化[`JpegDevice`](../jpegdevice)类的新实例分辨率和质量。 |
-| [JpegDevice](jpegdevice#constructor_9)(int, int, Resolution, int) | 使用提供的图像尺寸 初始化[`JpegDevice`](../jpegdevice)类的新实例分辨率和质量。 |
+| [JpegDevice](jpegdevice#constructor)() | 初始化[`JpegDevice`](../jpegdevice)具有默认分辨率和最高质量的类。 |
+| [JpegDevice](jpegdevice#constructor_6)(int) | 初始化[`JpegDevice`](../jpegdevice)类. |
+| [JpegDevice](jpegdevice#constructor_3)(PageSize) | 初始化[`JpegDevice`](../jpegdevice)具有提供的页面大小、 默认分辨率 (=150) 和最高质量的类。 |
+| [JpegDevice](jpegdevice#constructor_1)(Resolution) | 初始化[`JpegDevice`](../jpegdevice)类.  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
+| [JpegDevice](jpegdevice#constructor_7)(int, int) | 初始化[`JpegDevice`](../jpegdevice)具有提供的图像尺寸、 默认分辨率 (=150) 和最高质量的类。 |
+| [JpegDevice](jpegdevice#constructor_4)(PageSize, Resolution) | 初始化[`JpegDevice`](../jpegdevice)具有提供的页面大小、 分辨率和最高质量的类。 |
+| [JpegDevice](jpegdevice#constructor_2)(Resolution, int) | 初始化[`JpegDevice`](../jpegdevice)类. |
+| [JpegDevice](jpegdevice#constructor_8)(int, int, Resolution) | 初始化[`JpegDevice`](../jpegdevice)具有提供的图像尺寸、 分辨率和最高质量的类。 |
+| [JpegDevice](jpegdevice#constructor_5)(PageSize, Resolution, int) | 初始化[`JpegDevice`](../jpegdevice)具有提供的页面大小、 分辨率和质量的类。 |
+| [JpegDevice](jpegdevice#constructor_9)(int, int, Resolution, int) | 初始化[`JpegDevice`](../jpegdevice)具有提供的图像尺寸、 分辨率和质量的类。 |
 
 ## 特性
 

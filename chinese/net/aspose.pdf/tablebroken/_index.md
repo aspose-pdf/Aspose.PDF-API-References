@@ -18,9 +18,9 @@ public enum TableBroken
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 没有损坏。 |
-| Vertical | `1` | 垂直损坏。 |
-| VerticalInSamePage | `2` | 在同一页面中垂直断开。 |
+| None | `0` | 没有破损。 |
+| Vertical | `1` | 垂直破损。 |
+| VerticalInSamePage | `2` | 在同一页中垂直断开。 |
 | IsInNextPage | `3` | 分到下一页。 |
 
 ### 也可以看看

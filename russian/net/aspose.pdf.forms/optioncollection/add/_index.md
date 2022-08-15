@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет элемент в коллекцию выбрасывает NotImplementedException .
+description: Добавляет предмет в коллекцию бросаетНереализованное исключение .
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/optioncollection/add/
 ---
 ## OptionCollection.Add method
 
-Добавляет элемент в коллекцию, выбрасывает NotImplementedException .
+Добавляет предмет в коллекцию, бросаетНереализованное исключение .
 
 ```csharp
 public void Add(Option item)

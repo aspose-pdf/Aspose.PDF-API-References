@@ -18,7 +18,7 @@ public sealed class MemoryFontSource : FontSource, IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [MemoryFontSource](memoryfontsource)(byte[]) | Инициализирует новый экземпляр класса[`MemoryFontSource`](../memoryfontsource). |
+| [MemoryFontSource](memoryfontsource)(byte[]) | Инициализирует новый экземпляр[`MemoryFontSource`](../memoryfontsource) класс. |
 
 ## Характеристики
 

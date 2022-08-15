@@ -16,7 +16,7 @@ public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputImagesStreams | List`1 | Список потоков tiff. |
+| inputImagesStreams | List`1 | Список tiff-потоков. |
 
 ### Возвращаемое значение
 

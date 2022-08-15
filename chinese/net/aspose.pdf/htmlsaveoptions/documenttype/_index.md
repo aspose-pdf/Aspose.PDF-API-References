@@ -1,14 +1,14 @@
 ---
 title: DocumentType
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置HtmlDocumentTypeaspose.pdf/htmldocumenttype
+description: 获取或设置HtmlDocumentTypeaspose.pdf/htmldocumenttype.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/htmlsaveoptions/documenttype/
 ---
 ## HtmlSaveOptions.DocumentType property
 
-获取或设置[`HtmlDocumentType`](../../htmldocumenttype)。
+获取或设置[`HtmlDocumentType`](../../htmldocumenttype).
 
 ```csharp
 public HtmlDocumentType DocumentType { get; set; }
@@ -16,7 +16,7 @@ public HtmlDocumentType DocumentType { get; set; }
 
 ### 适当的价值
 
-[`HtmlDocumentType`](../../htmldocumenttype)。
+的[`HtmlDocumentType`](../../htmldocumenttype).
 
 ### 也可以看看
 

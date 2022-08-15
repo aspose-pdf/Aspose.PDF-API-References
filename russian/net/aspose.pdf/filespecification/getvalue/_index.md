@@ -1,14 +1,14 @@
 ---
 title: GetValue
 second_title: Aspose.PDF для справочника API .NET
-description: Получает параметр зависящий от приложения.
+description: Получает параметр приложения.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/filespecification/getvalue/
 ---
 ## FileSpecification.GetValue method
 
-Получает параметр, зависящий от приложения.
+Получает параметр приложения.
 
 ```csharp
 public string GetValue(string key)

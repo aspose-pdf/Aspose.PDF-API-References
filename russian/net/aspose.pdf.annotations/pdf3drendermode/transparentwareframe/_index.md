@@ -1,14 +1,14 @@
 ---
 title: TransparentWareFrame
 second_title: Aspose.PDF для справочника API .NET
-description: Режим рендера TransparentWareFrame.
+description: Режим рендеринга TransparentWareFrame.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/transparentwareframe/
 ---
 ## PDF3DRenderMode.TransparentWareFrame field
 
-Режим рендера "TransparentWareFrame".
+Режим рендеринга "TransparentWareFrame".
 
 ```csharp
 public static PDF3DRenderMode TransparentWareFrame;

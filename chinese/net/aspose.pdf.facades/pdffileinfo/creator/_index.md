@@ -1,14 +1,14 @@
 ---
 title: Creator
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置 PDF 文档的 Creator 信息
+description: 获取或设置PDF文档的Creator信息
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdffileinfo/creator/
 ---
 ## PdfFileInfo.Creator property
 
-获取或设置 PDF 文档的 Creator 信息。
+获取或设置PDF文档的Creator信息。
 
 ```csharp
 public string Creator { get; set; }

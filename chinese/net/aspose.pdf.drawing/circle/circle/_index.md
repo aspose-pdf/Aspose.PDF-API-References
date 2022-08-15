@@ -1,14 +1,14 @@
 ---
 title: Circle
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Circleaspose.pdf.drawing/circle类的新实例
+description: 初始化Circleaspose.pdf.drawing/circle类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/circle/circle/
 ---
 ## Circle constructor
 
-初始化[`Circle`](../../circle)类的新实例。
+初始化[`Circle`](../../circle)类.
 
 ```csharp
 public Circle(float posX, float posY, float radius)

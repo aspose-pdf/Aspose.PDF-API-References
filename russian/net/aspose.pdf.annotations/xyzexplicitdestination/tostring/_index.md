@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразует состояние объекта в строковое значение. Пример1 XYZ 100 200 3.
+description: Преобразует состояние объекта в строковое значение. Пример 1 XYZ 100 200 3.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/xyzexplicitdestination/tostring/
 ---
 ## XYZExplicitDestination.ToString method
 
-Преобразует состояние объекта в строковое значение. Пример:«1 XYZ 100 200 3».
+Преобразует состояние объекта в строковое значение. Пример: "1 XYZ 100 200 3".
 
 ```csharp
 public override string ToString()

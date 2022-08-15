@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет в коллекцию новый исходный объект шрифта.
+description: Добавляет новый исходный объект шрифта в коллекцию.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/fontsourcecollection/add/
 ---
 ## FontSourceCollection.Add method
 
-Добавляет в коллекцию новый исходный объект шрифта.
+Добавляет новый исходный объект шрифта в коллекцию.
 
 ```csharp
 public void Add(FontSource fontSource)

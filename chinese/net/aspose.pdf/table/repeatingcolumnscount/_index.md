@@ -1,14 +1,14 @@
 ---
 title: RepeatingColumnsCount
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表
+description: 获取或设置 table 的最大列数
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/table/repeatingcolumnscount/
 ---
 ## Table.RepeatingColumnsCount property
 
-获取或设置表
+获取或设置 table 的最大列数
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TiffDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TiffDeviceaspose.pdf.devices/tiffdevice类的新实例
+description: 初始化TiffDeviceaspose.pdf.devices/tiffdevice类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/tiffdevice/tiffdevice/
 ---
 ## TiffDevice(Resolution) {#constructor_1}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(Resolution resolution)
@@ -29,7 +29,7 @@ public TiffDevice(Resolution resolution)
 
 ## TiffDevice(Resolution, TiffSettings) {#constructor_2}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(Resolution resolution, TiffSettings settings)
@@ -38,7 +38,7 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 ## TiffDevice(Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_3}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
@@ -61,7 +61,7 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
 ### 也可以看看
@@ -77,7 +77,7 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 
 ## TiffDevice(TiffSettings) {#constructor_4}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(TiffSettings settings)
@@ -85,7 +85,7 @@ public TiffDevice(TiffSettings settings)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 
 ### 也可以看看
 
@@ -98,7 +98,7 @@ public TiffDevice(TiffSettings settings)
 
 ## TiffDevice(TiffSettings, IIndexBitmapConverter) {#constructor_5}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
@@ -106,7 +106,7 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
 ### 也可以看看
@@ -121,7 +121,7 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 
 ## TiffDevice() {#constructor}
 
-使用默认设置初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)具有默认设置的类。
 
 ```csharp
 public TiffDevice()
@@ -137,7 +137,7 @@ public TiffDevice()
 
 ## TiffDevice(int, int, Resolution, TiffSettings) {#constructor_14}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings)
@@ -148,7 +148,7 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 | width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
 | resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 
 ### 也可以看看
 
@@ -162,7 +162,7 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 ## TiffDevice(int, int, Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_15}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, 
@@ -174,7 +174,7 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 | width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
 | resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
 ### 也可以看看
@@ -190,7 +190,7 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 ## TiffDevice(PageSize, Resolution, TiffSettings) {#constructor_8}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings)
@@ -200,7 +200,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 | --- | --- | --- |
 | pageSize | PageSize | 输出图像的页面大小。 |
 | resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 
 ### 也可以看看
 
@@ -215,7 +215,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ## TiffDevice(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_9}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, 
@@ -226,7 +226,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 | --- | --- | --- |
 | pageSize | PageSize | 输出图像的页面大小。 |
 | resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
 ### 也可以看看
@@ -243,7 +243,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ## TiffDevice(int, int, Resolution) {#constructor_13}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution)
@@ -266,7 +266,7 @@ public TiffDevice(int width, int height, Resolution resolution)
 
 ## TiffDevice(PageSize, Resolution) {#constructor_7}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution)
@@ -289,7 +289,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 
 ## TiffDevice(int, int, TiffSettings) {#constructor_16}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(int width, int height, TiffSettings settings)
@@ -299,7 +299,7 @@ public TiffDevice(int width, int height, TiffSettings settings)
 | --- | --- | --- |
 | width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 
 ### 也可以看看
 
@@ -312,7 +312,7 @@ public TiffDevice(int width, int height, TiffSettings settings)
 
 ## TiffDevice(int, int, TiffSettings, IIndexBitmapConverter) {#constructor_17}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)
@@ -322,7 +322,7 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 | --- | --- | --- |
 | width | Int32 | 图像输出宽度。 |
 | height | Int32 | 图像输出高度。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
 ### 也可以看看
@@ -337,7 +337,7 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 
 ## TiffDevice(PageSize, TiffSettings, IIndexBitmapConverter) {#constructor_11}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverter converter)
@@ -346,7 +346,7 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageSize | PageSize | 输出图像的页面大小。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
 ### 也可以看看
@@ -362,7 +362,7 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 
 ## TiffDevice(PageSize, TiffSettings) {#constructor_10}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(PageSize pageSize, TiffSettings settings)
@@ -371,7 +371,7 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageSize | PageSize | 输出图像的页面大小。 |
-| settings | TiffSettings | Tiff 设置，参见[`TiffSettings`](../../tiffsettings)班级。 |
+| settings | TiffSettings | Tiff 设置，请参阅[`TiffSettings`](../../tiffsettings)类. |
 
 ### 也可以看看
 
@@ -385,7 +385,7 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 
 ## TiffDevice(int, int) {#constructor_12}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(int width, int height)
@@ -406,7 +406,7 @@ public TiffDevice(int width, int height)
 
 ## TiffDevice(PageSize) {#constructor_6}
 
-初始化[`TiffDevice`](../../tiffdevice)类的新实例。
+初始化[`TiffDevice`](../../tiffdevice)类.
 
 ```csharp
 public TiffDevice(PageSize pageSize)

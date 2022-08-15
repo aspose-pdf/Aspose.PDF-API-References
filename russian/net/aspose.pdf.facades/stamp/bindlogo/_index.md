@@ -16,7 +16,7 @@ public void BindLogo(FormattedText formattedText)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Объект FormattedText, определяющий текст и свойства текста. |
+| formattedText | FormattedText | Объект FormattedText, который определяет текст и свойства текста. |
 
 ### Смотрите также
 

@@ -20,7 +20,7 @@ public Field[] GetFieldsInRect(Rectangle rect)
 
 ### 返回值
 
-找到字段的数组。
+包含已找到字段的数组。
 
 ### 也可以看看
 

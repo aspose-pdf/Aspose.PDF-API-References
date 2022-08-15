@@ -1,14 +1,14 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF for .NET API 参考
-description: 绑定 Pdf 文件
+description: 绑定一个 Pdf 文件
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-绑定 Pdf 文件。
+绑定一个 Pdf 文件。
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -16,7 +16,7 @@ public void BindPdf(string srcFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcFile | String | Pdf 文件名。 |
+| srcFile | String | pdf 文件名。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-绑定 Pdf 文件。
+绑定一个 Pdf 文件。
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -36,7 +36,7 @@ public void BindPdf(Stream srcStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcStream | Stream | Pdf 文件流。 |
+| srcStream | Stream | pdf文件流。 |
 
 ### 也可以看看
 
@@ -48,7 +48,7 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-绑定 Pdf 文档。
+绑定一个 Pdf 文档。
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -56,7 +56,7 @@ public void BindPdf(Document srcDoc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcDoc | Document | Pdf 文档。 |
+| srcDoc | Document | pdf文档。 |
 
 ### 也可以看看
 

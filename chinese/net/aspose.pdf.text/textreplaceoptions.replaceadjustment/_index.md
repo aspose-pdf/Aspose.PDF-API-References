@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions.ReplaceAdjustment
 second_title: Aspose.PDF for .NET API 参考
-description: 确定将文本片段替换为更短后将执行的操作 无 - 无操作替换的文本可能与行的其余部分重叠 AdjustSpaceWidth - 尝试调整单词之间的空格以保持行长 WholeWordsHyphenation - 尝试在段落行之间分配单词以保持段落的正确字段 ShiftRestOfLine - 根据文本长度的变化移动行的其余部分行的长度可以改变 默认值为 ShiftRestOfLine
+description: 确定将文本片段替换为更短后将执行的操作 无 - 无操作替换的文本可能与行的其余部分重叠 AdjustSpaceWidth - 尝试调整单词之间的空格以保持行长 WholeWordsHyphenation - 尝试分配单词在段落行之间保留段落的右字段 ShiftRestOfLine - 根据文本长度的变化移动行的其余部分行的长度可能会改变 默认值为 ShiftRestOfLine.
 type: docs
 weight: 7180
 url: /zh/net/aspose.pdf.text/textreplaceoptions.replaceadjustment/
 ---
 ## TextReplaceOptions.ReplaceAdjustment enumeration
 
-确定将文本片段替换为更短后将执行的操作。 无 - 无操作，替换的文本可能与行的其余部分重叠； AdjustSpaceWidth - 尝试调整单词之间的空格以保持行长； WholeWordsHyphenation - 尝试在段落行之间分配单词以保持段落的正确字段； ShiftRestOfLine - 根据文本长度的变化移动行的其余部分，行的长度可以改变； 默认值为 ShiftRestOfLine。
+确定将文本片段替换为更短后将执行的操作。 无 - 无操作，替换的文本可能与行的其余部分重叠； AdjustSpaceWidth - 尝试调整单词之间的空格以保持行长； WholeWordsHyphenation - 尝试分配单词在段落行之间保留段落的右字段； ShiftRestOfLine - 根据文本长度的变化移动行的其余部分，行的长度可能会改变； 默认值为 ShiftRestOfLine.
 
 ```csharp
 [Flags]
@@ -21,7 +21,7 @@ public enum ReplaceAdjustment
 | --- | --- | --- |
 | None | `0` | 无操作，替换的文本可能与行的其余部分重叠 |
 | AdjustSpaceWidth | `1` | 尝试调整单词之间的空格以保持行长 |
-| WholeWordsHyphenation | `2` | 尝试在段落行之间分配单词以保留段落的正确字段 |
+| WholeWordsHyphenation | `2` | 尝试在段落行之间分配单词以保持段落的正确字段 |
 | ShiftRestOfLine | `4` | （默认）根据文本长度的变化移动行的其余部分，行的长度可能会改变 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: LineEnding
 second_title: Aspose.PDF for .NET API 参考
-description: 枚举用于绘制线条的行尾样式
+description: 枚举用于绘制线条的线条结束样式
 type: docs
 weight: 610
 url: /zh/net/aspose.pdf.annotations/lineending/
 ---
 ## LineEnding enumeration
 
-枚举用于绘制线条的行尾样式。
+枚举用于绘制线条的线条结束样式。
 
 ```csharp
 public enum LineEnding
@@ -19,15 +19,15 @@ public enum LineEnding
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 没有行尾。 |
-| Square | `1` | 填充注解内部颜色的正方形，如果有的话。 |
-| Circle | `2` | 用注释的内部颜色填充的圆圈（如果有）。 |
+| Square | `1` | 一个填充了注释内部颜色的正方形，如果有的话。 |
+| Circle | `2` | 用注释的内部颜色填充的圆圈，如果有的话。 |
 | Diamond | `3` | 填充注释内部颜色的菱形（如果有）。 |
 | OpenArrow | `4` | 两条短线以锐角相交形成一个开放的箭头。 |
-| ClosedArrow | `5` | 两条短线在 OpenArrow 样式中以锐角相交，并通过第三条线连接形成一个三角形封闭箭头，填充注释的内部颜色，如果任何。 |
-| Butt | `6` | 端点处垂直于线本身的短线。 |
+| ClosedArrow | `5` | 两条短线在 OpenArrow 样式中以锐角相交，并由第三条线连接形成一个三角形闭合箭头，填充注释的内部颜色（如果有）。 |
+| Butt | `6` | 在端点处垂直于线本身的短线。 |
 | ROpenArrow | `7` | 与 OpenArrow 方向相反的两条短线。 |
-| RClosedArrow | `8` | 与 ClosedArrow 方向相反的三角形闭合箭头。 |
-| Slash | `9` | 端点处的短线，从垂直于线本身顺时针约 30 度。 |
+| RClosedArrow | `8` | 与 ClosedArrow 反向的三角形闭合箭头。 |
+| Slash | `9` | 在端点处的一条短线，从垂直于线本身顺时针大约 30 度。 |
 
 ### 也可以看看
 

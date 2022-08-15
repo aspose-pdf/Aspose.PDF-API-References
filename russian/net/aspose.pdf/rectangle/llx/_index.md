@@ -1,14 +1,14 @@
 ---
 title: LLX
 second_title: Aspose.PDF для справочника API .NET
-description: X-координата нижнего - левого угла.
+description: X-координата нижнего левого угла.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/rectangle/llx/
 ---
 ## Rectangle.LLX property
 
-X-координата нижнего - левого угла.
+X-координата нижнего левого угла.
 
 ```csharp
 public double LLX { get; set; }

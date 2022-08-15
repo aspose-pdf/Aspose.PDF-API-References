@@ -1,14 +1,14 @@
 ---
 title: TextAlign_End
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут TextAlignEnd  выравнивание по конечному краю.
+description: Атрибут TextAlign End  выравнивание по конечному краю.
 type: docs
 weight: 560
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
 ## AttributeName.TextAlign_End field
 
-Атрибут TextAlign:End — выравнивание по конечному краю.
+Атрибут TextAlign: End — выравнивание по конечному краю.
 
 ```csharp
 public static readonly AttributeName TextAlign_End;

@@ -16,7 +16,7 @@ public override HorizontalAlignment HorizontalAlignment { get; set; }
 
 ### 评论
 
-HorizontalAlignment.None 等于 HorizontalAlignment.Left。 请注意，TextFragmentState.VerticalAlignment 属性仅适用于新文档生成场景。
+HorizontalAlignment.None 等于 HorizontalAlignment.Left. 请注意，TextFragmentState.VerticalAlignment 属性仅适用于新文档生成方案。
 
 ### 也可以看看
 

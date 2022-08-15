@@ -17,7 +17,7 @@ public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | imageSrc | String | 图片来源。 |
-| imageResolution | Double | （可选）图像分辨率。默认值:300 DPI。 |
+| imageResolution | Double | （可选）图像分辨率。默认值：300 DPI。 |
 
 ### 也可以看看
 

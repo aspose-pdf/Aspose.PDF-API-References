@@ -17,7 +17,7 @@ public void SetPageSize(double width, double height)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Double | Ширина страницы. |
-| высота | Double | Размер страницы. |
+| height | Double | Размер страницы. |
 
 ### Смотрите также
 

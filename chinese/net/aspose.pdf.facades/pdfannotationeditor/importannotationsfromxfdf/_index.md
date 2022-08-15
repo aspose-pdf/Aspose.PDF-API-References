@@ -16,7 +16,7 @@ public void ImportAnnotationsFromXfdf(string xfdfFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xfdfFile | String | 输入的 XFDF 文件。 |
+| xfdfFile | String | 输入 XFDF 文件。 |
 
 ### 例子
 

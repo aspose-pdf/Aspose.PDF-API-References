@@ -20,7 +20,7 @@ public string GetButtonOptionCurrentValue(string fieldName)
 
 ### Возвращаемое значение
 
-Строковое значение для текущей радиогруппы оптино. См. также[`GetButtonOptionValues`](../getbuttonoptionvalues)
+Строковое значение для текущей радиогруппы optino. Смотрите также[`GetButtonOptionValues`](../getbuttonoptionvalues)
 
 ### Примеры
 

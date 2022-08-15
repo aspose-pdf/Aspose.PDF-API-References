@@ -1,14 +1,14 @@
 ---
 title: A3
 second_title: Aspose.PDF for .NET API 参考
-description: A3 尺寸420x297 毫米
+description: A3 尺寸420x297 毫米.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/pagesize/a3/
 ---
 ## PageSize.A3 property
 
-A3 尺寸（420x297 毫米）。
+A3 尺寸（420x297 毫米）.
 
 ```csharp
 public static PageSize A3 { get; }

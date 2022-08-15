@@ -1,14 +1,14 @@
 ---
 title: BaselinePosition
 second_title: Aspose.PDF for .NET API 参考
-description: 获取文本的文本位置用TextFragmentaspose.pdf.text/textfragment对象表示 Position 结构的 YIndent 表示文本片段的基线坐标
+description: 获取文本的文本位置用TextFragmentaspose.pdf.text/textfragmentobject. Position 结构的 YIndent 表示文本片段的基线坐标
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/textfragment/baselineposition/
 ---
 ## TextFragment.BaselinePosition property
 
-获取文本的文本位置，用[`TextFragment`](../../textfragment)对象表示。 Position 结构的 YIndent 表示文本片段的基线坐标。
+获取文本的文本位置，用[`TextFragment`](../../textfragment)object. Position 结构的 YIndent 表示文本片段的基线坐标。
 
 ```csharp
 public Position BaselinePosition { get; set; }

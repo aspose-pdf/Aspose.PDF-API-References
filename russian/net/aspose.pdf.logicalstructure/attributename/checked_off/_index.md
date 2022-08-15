@@ -1,14 +1,14 @@
 ---
 title: Checked_off
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут проверенOff  состояние переключателя или поля флажка.
+description: Атрибут отмечен Off  состояние переключателя или поля флажка.
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.logicalstructure/attributename/checked_off/
 ---
 ## AttributeName.Checked_off field
 
-Атрибут проверен:Off — состояние переключателя или поля флажка.
+Атрибут отмечен: Off — состояние переключателя или поля флажка.
 
 ```csharp
 public static readonly AttributeName Checked_off;

@@ -1,14 +1,14 @@
 ---
 title: CreateFormElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建FormElementaspose.pdf.logicalstructure/formelement
+description: 创建FormElementaspose.pdf.logicalstructure/formelement.
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createformelement/
 ---
 ## ITaggedContent.CreateFormElement method
 
-创建[`FormElement`](../../../aspose.pdf.logicalstructure/formelement)。
+创建[`FormElement`](../../../aspose.pdf.logicalstructure/formelement).
 
 ```csharp
 public FormElement CreateFormElement()
@@ -16,7 +16,7 @@ public FormElement CreateFormElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

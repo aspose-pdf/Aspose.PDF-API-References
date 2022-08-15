@@ -1,14 +1,14 @@
 ---
 title: OUTBOX
 second_title: Aspose.PDF для справочника API .NET
-description: Внешний ящик
+description: Внешняя коробка
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
 ## PdfPageEditor.OUTBOX field
 
-Внешний ящик
+Внешняя коробка
 
 ```csharp
 public const int OUTBOX;

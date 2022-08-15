@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF для справочника API .NET
-description: Выполняет явное преобразование изStringвStructureTypeCategoryaspose.pdf.logicalstructure/structuretypecategory.
+description: Выполняет явное преобразование изString кStructureTypeCategoryaspose.pdf.logicalstructure/structuretypecategory .
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/op_explicit/
 ---
 ## StructureTypeCategory Explicit operator
 
-Выполняет явное преобразование изStringв[`StructureTypeCategory`](../../structuretypecategory).
+Выполняет явное преобразование изString к[`StructureTypeCategory`](../../structuretypecategory) .
 
 ```csharp
 public static explicit operator StructureTypeCategory(string name)
@@ -16,7 +16,7 @@ public static explicit operator StructureTypeCategory(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя. |
+| name | String | Название. |
 
 ### Возвращаемое значение
 

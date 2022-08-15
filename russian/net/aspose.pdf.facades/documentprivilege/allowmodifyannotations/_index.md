@@ -1,14 +1,14 @@
 ---
 title: AllowModifyAnnotations
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает разрешение позволяющее изменять аннотации или нет. true разрешает false запрещает.
+description: Устанавливает разрешение позволяющее изменять аннотации или нет. true  разрешено false  запрещено.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowmodifyannotations/
 ---
 ## DocumentPrivilege.AllowModifyAnnotations property
 
-Устанавливает разрешение, позволяющее изменять аннотации или нет. true разрешает, false запрещает.
+Устанавливает разрешение, позволяющее изменять аннотации или нет. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowModifyAnnotations { get; set; }

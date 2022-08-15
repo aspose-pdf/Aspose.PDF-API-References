@@ -1,14 +1,14 @@
 ---
 title: IsMulticolumnParagraphsAllowed
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示下一节的起始文本行是否可以视为上一节最后一段的延续的值
+description: 获取或设置值该值指示下一节的起始文本行是否可以视为上一节最后一段的延续
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/pagemarkup/ismulticolumnparagraphsallowed/
 ---
 ## PageMarkup.IsMulticolumnParagraphsAllowed property
 
-获取或设置指示下一节的起始文本行是否可以视为上一节最后一段的延续的值。
+获取或设置值，该值指示下一节的起始文本行是否可以视为上一节最后一段的延续。
 
 ```csharp
 public bool IsMulticolumnParagraphsAllowed { get; set; }

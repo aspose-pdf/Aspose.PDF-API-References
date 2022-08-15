@@ -1,14 +1,14 @@
 ---
 title: IsEmbedded
 second_title: Aspose.PDF для справочника API .NET
-description: Получает значение указывающее внедрен ли шрифт.
+description: Получает значение указывающее встроен ли шрифт.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded property
 
-Получает значение, указывающее, внедрен ли шрифт.
+Получает значение, указывающее, встроен ли шрифт.
 
 ```csharp
 public bool IsEmbedded { get; }

@@ -18,16 +18,16 @@ public class TabStop
 
 | Имя | Описание |
 | --- | --- |
-| [TabStop](tabstop#constructor)() | Инициализирует новый экземпляр класса[`TabStop`](../tabstop). |
-| [TabStop](tabstop#constructor_1)(float) | Инициализирует новый экземпляр класса[`TabStop`](../tabstop)с указанной позицией. |
+| [TabStop](tabstop#constructor)() | Инициализирует новый экземпляр[`TabStop`](../tabstop) класс. |
+| [TabStop](tabstop#constructor_1)(float) | Инициализирует новый экземпляр[`TabStop`](../tabstop) класс с указанной позицией. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype) { get; set; } | Получает или задает перечисление[`AlignmentType`](./alignmenttype), указывающее тип выравнивания вкладки. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly) { get; } | Получает значение, указывающее, что этот экземпляр[`TabStop`](../tabstop)уже подключен к[`TextFragment`](../textfragment)и стал доступен только для чтения |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype) { get; set; } | Получает или задает перечисление[`TabLeaderType`](../tableadertype), указывающее тип выноски табуляции. |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype) { get; set; } | Получает или задает[`AlignmentType`](./alignmenttype) enum, указывающий тип выравнивания вкладок. |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly) { get; } | Получает значение, указывающее, что это[`TabStop`](../tabstop) экземпляр уже прикреплен к[`TextFragment`](../textfragment) и стал readonly |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype) { get; set; } | Получает или задает[`TabLeaderType`](../tableadertype) enum, указывающий тип выноски табуляции. |
 | [Position](../../aspose.pdf.text/tabstop/position) { get; set; } | Получает или задает значение с плавающей запятой, указывающее позицию табуляции. |
 
 ### Смотрите также

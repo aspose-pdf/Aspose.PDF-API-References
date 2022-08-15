@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
 ## PdfExtractor.GetAttachNames method
 
-返回 PDF 文件中的附件列表。注意:必须在使用此方法之前调用 ExtractAttachments。
+返回 PDF 文件中的附件列表。注意：必须在使用此方法之前调用 ExtractAttachments。
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -16,7 +16,7 @@ public IList<string> GetAttachNames()
 
 ### 返回值
 
-附件列表
+附件清单
 
 ### 例子
 

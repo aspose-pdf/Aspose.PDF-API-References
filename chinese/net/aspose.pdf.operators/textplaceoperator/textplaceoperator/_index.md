@@ -1,14 +1,14 @@
 ---
 title: TextPlaceOperator
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化 TextPlaceOperator
+description: 初始化 TextPlaceOperator.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
 ---
 ## TextPlaceOperator() {#constructor}
 
-初始化 TextPlaceOperator。
+初始化 TextPlaceOperator.
 
 ```csharp
 public TextPlaceOperator()
@@ -24,7 +24,7 @@ public TextPlaceOperator()
 
 ## TextPlaceOperator(TextProperties) {#constructor_1}
 
-初始化接受 TextProperties 的 TextPlaceOperator。
+初始化接受 TextProperties. 的 TextPlaceOperator
 
 ```csharp
 public TextPlaceOperator(TextProperties textProperties)

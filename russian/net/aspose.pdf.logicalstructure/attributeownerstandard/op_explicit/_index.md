@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF для справочника API .NET
-description: Выполняет явное преобразование изStringвAttributeOwnerStandardaspose.pdf.logicalstructure/attributeownerstandard.
+description: Выполняет явное преобразование изString кAttributeOwnerStandardaspose.pdf.logicalstructure/attributeownerstandard .
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/
 ---
 ## AttributeOwnerStandard Explicit operator
 
-Выполняет явное преобразование изStringв[`AttributeOwnerStandard`](../../attributeownerstandard).
+Выполняет явное преобразование изString к[`AttributeOwnerStandard`](../../attributeownerstandard) .
 
 ```csharp
 public static explicit operator AttributeOwnerStandard(string owner)

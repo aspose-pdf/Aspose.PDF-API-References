@@ -1,14 +1,14 @@
 ---
 title: LRGLITTER
 second_title: Aspose.PDF для справочника API .NET
-description: Лево-правый блеск
+description: Левый-правый блеск
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
 ## PdfPageEditor.LRGLITTER field
 
-Лево-правый блеск
+Левый-правый блеск
 
 ```csharp
 public const int LRGLITTER;

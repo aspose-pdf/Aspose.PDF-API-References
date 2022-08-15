@@ -1,14 +1,14 @@
 ---
 title: IgnoreShadowText
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示在搜索期间将忽略表示普通文本阴影的文本片段的指示 true - 意味着找不到阴影文本如果文本搜索在关闭位置返回重复片段请尝试此操作 false - 意味着将找到阴影文本以及普通文本默认值
+description: 获取或设置表示在搜索期间将忽略表示普通文本阴影的文本片段的指示 true - 表示不会找到阴影文本如果文本搜索在关闭位置返回重复的片段请尝试此操作 false - 表示阴影将找到文本以及普通文本默认值
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textsearchoptions/ignoreshadowtext/
 ---
 ## TextSearchOptions.IgnoreShadowText property
 
-获取或设置表示在搜索期间将忽略表示普通文本阴影的文本片段的指示。 true - 意味着找不到阴影文本（如果文本搜索在关闭位置返回重复片段，请尝试此操作） false - 意味着将找到阴影文本以及普通文本（默认值）
+获取或设置表示在搜索期间将忽略表示普通文本阴影的文本片段的指示。 true - 表示不会找到阴影文本（如果文本搜索在关闭位置返回重复的片段，请尝试此操作） false - 表示阴影将找到文本以及普通文本（默认值）
 
 ```csharp
 public bool IgnoreShadowText { get; set; }

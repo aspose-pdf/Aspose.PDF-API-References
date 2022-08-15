@@ -16,7 +16,7 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя файла XFDF |
+| fileName | String | Имя XFDF-файла |
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public void ExportAnnotationsToXfdf(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в котором хранится XFDF. |
+| stream | Stream | Поток, где хранится XFDF. |
 
 ### Смотрите также
 

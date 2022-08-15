@@ -1,14 +1,14 @@
 ---
 title: BatchSize
 second_title: Aspose.PDF для справочника API .NET
-description: Задает размер порции страниц для передачи от узла к узлу.
+description: Определяет размер части страниц для передачи от узла к узлу.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/ipipelineoptions/batchsize/
 ---
 ## IPipelineOptions.BatchSize property
 
-Задает размер порции страниц для передачи от узла к узлу.
+Определяет размер части страниц для передачи от узла к узлу.
 
 ```csharp
 public int BatchSize { get; set; }

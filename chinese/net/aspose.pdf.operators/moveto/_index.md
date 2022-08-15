@@ -1,14 +1,14 @@
 ---
 title: MoveTo
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 m 运算符的类移动到并开始新的子路径
+description: 代表 m 运算符的类移动到并开始新的子路径
 type: docs
 weight: 5260
 url: /zh/net/aspose.pdf.operators/moveto/
 ---
 ## MoveTo class
 
-表示 m 运算符的类（移动到并开始新的子路径）。
+代表 m 运算符的类（移动到并开始新的子路径）。
 
 ```csharp
 public class MoveTo : Operator
@@ -18,7 +18,7 @@ public class MoveTo : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MoveTo](moveto)(double, double) | 初始化新的!:Operators.m（移动到）运算符。 |
+| [MoveTo](moveto)(double, double) | 初始化新的!:Operators.m（移至）操作员. |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public class MoveTo : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/moveto/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/moveto/tostring)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/moveto/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

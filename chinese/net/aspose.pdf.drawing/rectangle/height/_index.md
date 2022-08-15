@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示矩形高度的浮点值
+description: 获取或设置一个浮点值表示矩形的高度
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.drawing/rectangle/height/
 ---
 ## Rectangle.Height property
 
-获取或设置表示矩形高度的浮点值。
+获取或设置一个浮点值，表示矩形的高度。
 
 ```csharp
 public double Height { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Delete
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет из входного файла страницы указанные числовым массивом сохраняет как новый файл Pdf.
+description: Удаляет страницы заданные числовым массивом из входного файла сохраняет как новый файл Pdf.
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.facades/pdffileeditor/delete/
 ---
 ## Delete(string, int[], string) {#delete_2}
 
-Удаляет из входного файла страницы, указанные числовым массивом, сохраняет как новый файл Pdf.
+Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf.
 
 ```csharp
 public bool Delete(string inputFile, int[] pageNumber, string outputFile)
@@ -16,7 +16,7 @@ public bool Delete(string inputFile, int[] pageNumber, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите путь к файлу. |
+| inputFile | String | Путь к входному файлу. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputFile | String | Путь к выходному файлу. |
 
@@ -41,7 +41,7 @@ pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## Delete(Stream, int[], Stream) {#delete}
 
-Удаляет из входного файла страницы, указанные числовым массивом, сохраняет как новый файл Pdf.
+Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf.
 
 ```csharp
 public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -49,13 +49,13 @@ public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входного файла. |
+| inputStream | Stream | Входной файл Поток. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputStream | Stream | Выходной файловый поток. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -76,7 +76,7 @@ pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
 
 ## Delete(string, int[], HttpResponse) {#delete_3}
 
-Удаляет указанные страницы из документа и сохраняет результат в объект HttpResponse.
+Удаляет указанные страницы из документа и сохраняет результат в объекте HttpResponse.
 
 ```csharp
 public bool Delete(string inputFile, int[] pageNumber, HttpResponse response)
@@ -84,7 +84,7 @@ public bool Delete(string inputFile, int[] pageNumber, HttpResponse response)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Путь к исходному файлу. |
+| inputFile | String | Путь исходного файла. |
 | pageNumber | Int32[] | Массив номеров страниц, которые необходимо удалить. |
 | response | HttpResponse | Объект ответа, в котором будет храниться результирующий документ. |
 
@@ -116,7 +116,7 @@ public bool Delete(Stream inputStream, int[] pageNumber, HttpResponse response)
 
 ### Возвращаемое значение
 
-Истинно, если операция выполнена успешно.
+Истинно, если операция прошла успешно.
 
 ### Смотрите также
 

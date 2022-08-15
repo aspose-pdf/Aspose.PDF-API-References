@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Количество предметов коллекции. Пожалуйста не путайте с VisibleCountVisibleCount получает количество видимых элементов контура на всех уровнях.
+description: Количество предметов коллекции. Пожалуйста не путайте с VisibleCount VisibleCount получает количество видимых элементов схемы на всех уровнях.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/outlineitemcollection/count/
 ---
 ## OutlineItemCollection.Count property
 
-Количество предметов коллекции. Пожалуйста, не путайте с VisibleCount:VisibleCount получает количество видимых элементов контура на всех уровнях.
+Количество предметов коллекции. Пожалуйста, не путайте с VisibleCount: VisibleCount получает количество видимых элементов схемы на всех уровнях.
 
 ```csharp
 public override int Count { get; }

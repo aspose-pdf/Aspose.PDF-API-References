@@ -1,14 +1,14 @@
 ---
 title: HasEditPassword
 second_title: Aspose.PDF for .NET API 参考
-description: 如果需要密码来修改权限或文档安全属性则返回 true 请注意只有在PdfFileInfoaspose.pdf.facades/pdffileinfo构造函数中提供了有效密码时才能读取此属性 如果 PasswordType 无法访问意味着提供了无效密码读取此属性将失败并显示InvalidPasswordExceptionaspose.pdf/invalidpasswordexception
+description: 如果需要密码来修改权限或文档安全属性则返回 true 请注意只有在提供了有效密码的情况下才能读取此属性PdfFileInfoaspose.pdf.facades/pdffileinfoconstructor. 如果 PasswordType 无法访问意味着提供了无效密码则读取此属性将失败InvalidPasswordExceptionaspose.pdf/invalidpasswordexception.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdffileinfo/haseditpassword/
 ---
 ## PdfFileInfo.HasEditPassword property
 
-如果需要密码来修改权限或文档安全属性，则返回 true。 请注意，只有在[`PdfFileInfo`](../../pdffileinfo)构造函数中提供了有效密码时，才能读取此属性。 如果 PasswordType 无法访问（意味着提供了无效密码），读取此属性将失败，并显示[`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception)。
+如果需要密码来修改权限或文档安全属性，则返回 true。 请注意，只有在提供了有效密码的情况下才能读取此属性[`PdfFileInfo`](../../pdffileinfo)constructor. 如果 PasswordType 无法访问（意味着提供了无效密码），则读取此属性将失败[`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception).
 
 ```csharp
 public bool HasEditPassword { get; }

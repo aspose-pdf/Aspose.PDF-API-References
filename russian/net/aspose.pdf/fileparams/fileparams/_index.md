@@ -1,14 +1,14 @@
 ---
 title: FileParams
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор класса FileParams.
+description: Конструктор для класса FileParams.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/fileparams/fileparams/
 ---
 ## FileParams constructor
 
-Конструктор класса FileParams.
+Конструктор для класса FileParams.
 
 ```csharp
 public FileParams(FileSpecification spec)

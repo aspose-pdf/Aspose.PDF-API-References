@@ -16,7 +16,7 @@ public WidgetAnnotation(Document doc)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 文档位置注解将被创建。 |
+| doc | Document | 将在其中创建注释的文档。 |
 
 ### 也可以看看
 

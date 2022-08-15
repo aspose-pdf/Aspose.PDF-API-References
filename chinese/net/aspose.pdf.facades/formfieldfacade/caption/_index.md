@@ -1,14 +1,14 @@
 ---
 title: Caption
 second_title: Aspose.PDF for .NET API 参考
-description: 表单字段的正常标题
+description: 表单域的正常标题
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/formfieldfacade/caption/
 ---
 ## FormFieldFacade.Caption property
 
-表单字段的正常标题。
+表单域的正常标题。
 
 ```csharp
 public string Caption { get; set; }

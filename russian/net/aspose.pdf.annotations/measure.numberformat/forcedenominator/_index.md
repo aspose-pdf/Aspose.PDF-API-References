@@ -1,14 +1,14 @@
 ---
 title: ForceDenominator
 second_title: Aspose.PDF для справочника API .NET
-description: Если FractionDisplayment имеет значение ShowAsFraction это значение определяет может или нет уменьшаться дробь. Если значение истинно дробь не может быть уменьшена.
+description: Если FractionDisplayment имеет значение ShowAsFraction это значение определяет будет ли уменьшаться дробь. Если значение истинно дробь не может быть уменьшена.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/forcedenominator/
 ---
 ## Measure.NumberFormat.ForceDenominator property
 
-Если FractionDisplayment имеет значение ShowAsFraction, это значение определяет, может или нет уменьшаться дробь. Если значение истинно, дробь не может быть уменьшена.
+Если FractionDisplayment имеет значение ShowAsFraction, это значение определяет, будет ли уменьшаться дробь. Если значение истинно, дробь не может быть уменьшена.
 
 ```csharp
 public bool ForceDenominator { get; set; }

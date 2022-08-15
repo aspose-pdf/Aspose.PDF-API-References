@@ -1,14 +1,14 @@
 ---
 title: ChildItems
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置书签的孩子
+description: 获取或设置书签的子项
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/bookmark/childitems/
 ---
 ## Bookmark.ChildItems property
 
-获取或设置书签的孩子。
+获取或设置书签的子项。
 
 ```csharp
 public Bookmarks ChildItems { get; set; }

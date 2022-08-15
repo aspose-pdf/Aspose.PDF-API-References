@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Файл PDF для редактирования. |
+| inputFile | String | PDF-файл для редактирования. |
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public override void BindPdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Редактируемый поток PDF. |
+| inputStream | Stream | Поток PDF для редактирования. |
 
 ### Смотрите также
 

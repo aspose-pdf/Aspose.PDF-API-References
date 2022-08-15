@@ -16,7 +16,7 @@ public void LoadAsU3D(string filename)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| имя_файла | String | Имя файла. |
+| filename | String | Имя файла. |
 
 ### Смотрите также
 
@@ -48,7 +48,7 @@ public void LoadAsU3D(Stream stream)
 
 ## LoadAsU3D(byte[]) {#loadasu3d}
 
-Загружает 3D-контент из байтового массива в формате U3D.
+Загружает 3D-контент из массива байтов в формате U3D.
 
 ```csharp
 public void LoadAsU3D(byte[] stream)

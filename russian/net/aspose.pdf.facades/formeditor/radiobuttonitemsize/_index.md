@@ -1,14 +1,24 @@
 ---
 title: RadioButtonItemSize
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает размер элемента переключателя при добавлении нового поля переключателя. ltcodegt formEditor  new Aspose.Pdf.Facades.FormEditorPdfForm.pdf FormEditor_AddField_RadioButton.pdf formEditor.RadioGap  4 formEditor.RadioHoriz  false formEditor.RadioButtonItemSize  20 formEditor.Items  new string  Первый Второй Третий  formEditor.AddFieldFieldType.Radio AddedRadioButtonField Второй 1 10 30 110 130 formEditor.Save lt/codegt
+description: Получает или устанавливает размер элемента переключателя при добавлении нового поля переключателя.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
 ## FormEditor.RadioButtonItemSize property
 
-Получает или устанавливает размер элемента переключателя (при добавлении нового поля переключателя). &lt;code&gt; formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf"); formEditor.RadioGap = 4; formEditor.RadioHoriz = false; formEditor.RadioButtonItemSize = 20; formEditor.Items = new string[] { "Первый", "Второй", "Третий" }; formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Второй", 1, 10, 30, 110, 130); formEditor.Save(); &lt;/code&gt;
+Получает или устанавливает размер элемента переключателя (при добавлении нового поля переключателя).
+
+```csharp
+formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
+formEditor.RadioGap = 4;
+formEditor.RadioHoriz = false;
+formEditor.RadioButtonItemSize = 20;
+formEditor.Items = new string[] { "First", "Second", "Third" };
+formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
+formEditor.Save();
+```
 
 ```csharp
 public double RadioButtonItemSize { get; set; }

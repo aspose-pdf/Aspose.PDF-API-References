@@ -17,7 +17,7 @@ public void ExportFromDataBase(string connectString, DataType dbType)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | connectString | String | 数据库的连接字符串。 |
-| dbType | DataType | 连接类型:OLEDB 或 ODBC。 |
+| dbType | DataType | 连接类型：OLEDB 或 ODBC。 |
 
 ### 例子
 

@@ -1,14 +1,14 @@
 ---
 title: DefaultAppearanceObject
 second_title: Aspose.PDF for .NET API 参考
-description: 对象表示 FreeText 注释的默认外观
+description: 表示 FreeText 注释默认外观的对象
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/freetextannotation/defaultappearanceobject/
 ---
 ## FreeTextAnnotation.DefaultAppearanceObject property
 
-对象，表示 FreeText 注释的默认外观。
+表示 FreeText 注释默认外观的对象。
 
 ```csharp
 public DefaultAppearance DefaultAppearanceObject { get; }

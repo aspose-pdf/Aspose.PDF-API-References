@@ -1,14 +1,14 @@
 ---
 title: PreventGlyphsGrouping
 second_title: Aspose.PDF for .NET API 参考
-description: 当文本字形不会被分组为单词和字符串时此属性打开模式 此模式允许在定位字形时保持最大精度在页面上它可以是 用于转换带有音符或字形的文档它们应该彼此分开放置 只有当 FixedLayout 属性的值为 true 时此参数才会应用于文档
+description: 该属性开启文本字形不会被分组为单词和字符串的模式 该模式允许在页面上定位字形时保持最大精度它可以 用于转换带有音符或字形的文档应该单独放置 只有当 FixedLayout 属性的值为 true 时此参数才会应用于文档
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/htmlsaveoptions/preventglyphsgrouping/
 ---
 ## HtmlSaveOptions.PreventGlyphsGrouping property
 
-当文本字形不会被分组为单词和字符串时，此属性打开模式 此模式允许在定位字形时保持最大精度在页面上，它可以是 用于转换带有音符或字形的文档，它们应该彼此分开放置。 只有当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。
+该属性开启文本字形不会被分组为单词和字符串的模式 该模式允许在页面上定位字形时保持最大精度，它可以 用于转换带有音符或字形的文档，应该单独放置 只有当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。
 
 ```csharp
 public bool PreventGlyphsGrouping { get; set; }

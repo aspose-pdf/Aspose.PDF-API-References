@@ -24,8 +24,8 @@ public sealed class ReplaceTextStrategy
 
 | Имя | Описание |
 | --- | --- |
-| [IsRegularExpressionUsed](../../aspose.pdf.facades/replacetextstrategy/isregularexpressionused) { get; set; } | Если false, искомая строка является простым текстом. Если true, искомая строка является регулярным выражением. |
-| [NoCharacterBehavior](../../aspose.pdf.facades/replacetextstrategy/nocharacterbehavior) { get; set; } | Действие, которое выполняется, когда не найден подходящий шрифт для измененного текста (Сбросить исключение / Заменить другой шрифт / Заменить все равно). |
+| [IsRegularExpressionUsed](../../aspose.pdf.facades/replacetextstrategy/isregularexpressionused) { get; set; } | Если false, искомая строка представляет собой простой текст. Если true, искомая строка является регулярным выражением. |
+| [NoCharacterBehavior](../../aspose.pdf.facades/replacetextstrategy/nocharacterbehavior) { get; set; } | Действие, которое выполняется, когда не найден подходящий шрифт для измененного текста (Сбросить исключение / Заменить другой шрифт / Заменить в любом случае). |
 | [ReplaceScope](../../aspose.pdf.facades/replacetextstrategy/replacescope) { get; set; } | Объем операции замены (заменить первое вхождение или заменить все вхождения). |
 
 ### Смотрите также

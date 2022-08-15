@@ -24,7 +24,7 @@ public int GetPageRotation(int page)
 
 ### Примеры
 
-В следующем примере показано, как получить поворот страницы:
+В следующем примере показано, как добиться поворота страницы:
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

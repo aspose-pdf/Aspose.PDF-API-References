@@ -1,14 +1,14 @@
 ---
 title: ReplaceAdjustmentAction
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置将在将文本片段替换为更短后执行的操作
+description: 获取或设置在将文本片段替换为更短后将执行的操作
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/
 ---
 ## TextReplaceOptions.ReplaceAdjustmentAction property
 
-获取或设置将在将文本片段替换为更短后执行的操作。
+获取或设置在将文本片段替换为更短后将执行的操作。
 
 ```csharp
 public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }

@@ -20,7 +20,7 @@ public static Matrix Rotation(double alpha)
 
 ### Возвращаемое значение
 
-Матрица преобразования.
+Матрица трансформации.
 
 ### Примеры
 
@@ -38,7 +38,7 @@ Matrix m = Matrix.Rotation(Math.PI / 2);
 
 ## Rotation(Rotation) {#rotation}
 
-Создает матрицу для данного поворота.
+Создает матрицу для заданного поворота.
 
 ```csharp
 public static Matrix Rotation(Rotation rotation)
@@ -46,7 +46,7 @@ public static Matrix Rotation(Rotation rotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rotation | Rotation | Вращение. Допустимые значения:None, on90, on180, on270 |
+| rotation | Rotation | Вращение. Допустимые значения: None, on90, on180, on270. |
 
 ### Возвращаемое значение
 

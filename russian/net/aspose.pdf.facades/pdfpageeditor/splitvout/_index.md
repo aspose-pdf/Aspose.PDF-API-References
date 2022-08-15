@@ -1,14 +1,14 @@
 ---
 title: SPLITVOUT
 second_title: Aspose.PDF для справочника API .NET
-description: Выход из вертикального разделения
+description: Выход по вертикали
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
 ## PdfPageEditor.SPLITVOUT field
 
-Выход из вертикального разделения
+Выход по вертикали
 
 ```csharp
 public const int SPLITVOUT;

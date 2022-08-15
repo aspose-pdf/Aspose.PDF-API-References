@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Поле PDF для привязки |
+| inputFile | String | PDF-файл для привязки |
 
 ### Примеры
 

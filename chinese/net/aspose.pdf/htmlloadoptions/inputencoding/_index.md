@@ -1,14 +1,14 @@
 ---
 title: InputEncoding
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指定在解析时用于此文档的编码的属性如果此属性为 null则编码将根据文档字符集属性确定
+description: 获取或设置在解析时指定用于此文档的编码的属性如果此属性为空则编码将根据文档字符集属性确定
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/htmlloadoptions/inputencoding/
 ---
 ## HtmlLoadOptions.InputEncoding property
 
-获取或设置指定在解析时用于此文档的编码的属性。如果此属性为 null，则编码将根据文档字符集属性确定。
+获取或设置在解析时指定用于此文档的编码的属性。如果此属性为空，则编码将根据文档字符集属性确定。
 
 ```csharp
 public string InputEncoding { get; set; }

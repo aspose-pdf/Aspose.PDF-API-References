@@ -1,14 +1,14 @@
 ---
 title: getColor
 second_title: Aspose.PDF for .NET API 参考
-description: 返回运算符指定的颜色
+description: 返回操作员指定的颜色
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.operators/setadvancedcolorstroke/getcolor/
 ---
 ## SetAdvancedColorStroke.getColor method
 
-返回运算符指定的颜色。
+返回操作员指定的颜色。
 
 ```csharp
 public override Color getColor()

@@ -1,14 +1,14 @@
 ---
 title: Authority
 second_title: Aspose.PDF for .NET API 参考
-description: 签署文件的人或机构的名称
+description: 签署文件的人或机构的姓名
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/signature/authority/
 ---
 ## Signature.Authority property
 
-签署文件的人或机构的名称。
+签署文件的人或机构的姓名。
 
 ```csharp
 public string Authority { get; set; }

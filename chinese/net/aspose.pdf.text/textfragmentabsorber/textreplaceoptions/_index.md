@@ -1,14 +1,14 @@
 ---
 title: TextReplaceOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本替换选项这些选项定义了片段文本被替换为更短/更长时的行为
+description: 获取或设置文本替换选项选项定义片段文本替换为更短/更长时的行为
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/textreplaceoptions/
 ---
 ## TextFragmentAbsorber.TextReplaceOptions property
 
-获取或设置文本替换选项。这些选项定义了片段文本被替换为更短/更长时的行为。
+获取或设置文本替换选项。选项定义片段文本替换为更短/更长时的行为。
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }

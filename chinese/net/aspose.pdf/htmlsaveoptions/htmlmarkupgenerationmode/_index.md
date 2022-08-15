@@ -1,14 +1,14 @@
 ---
 title: HtmlMarkupGenerationMode
 second_title: Aspose.PDF for .NET API 参考
-description: 有时会出现生成 HTML 标记的特定要求 该参数定义了在将 PDF 转换为 HTML 时可以使用 的 HTML 准备模式以匹配此类特定要求
+description: 有时会出现生成 HTML 标记的特定要求 此参数定义在将 PDF 转换为 HTML 期间可以使用的 HTML 准备模式 以匹配此类特定要求
 type: docs
 weight: 290
 url: /zh/net/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationMode field
 
-有时会出现生成 HTML 标记的特定要求。 该参数定义了在将 PDF 转换为 HTML 时可以使用 的 HTML 准备模式，以匹配此类特定要求。
+有时会出现生成 HTML 标记的特定要求。 此参数定义在将 PDF 转换为 HTML 期间可以使用的 HTML 准备模式 以匹配此类特定要求。
 
 ```csharp
 public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;

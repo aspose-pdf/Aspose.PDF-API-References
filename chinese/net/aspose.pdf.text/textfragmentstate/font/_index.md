@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的字体由TextFragmentaspose.pdf.text/textfragmentobject 表示
+description: 获取或设置文本的字体由TextFragmentaspose.pdf.text/textfragmentobject
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/textfragmentstate/font/
 ---
 ## TextFragmentState.Font property
 
-获取或设置文本的字体，由[`TextFragment`](../../textfragment)object 表示
+获取或设置文本的字体，由[`TextFragment`](../../textfragment)object
 
 ```csharp
 public override Font Font { get; set; }

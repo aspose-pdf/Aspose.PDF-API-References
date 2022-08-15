@@ -16,19 +16,19 @@ public Encoding Encoding { get; set; }
 
 ### Примеры
 
-В примере показано, как представить извлеченный текст в кодировке UTF-8.
+Пример демонстрирует, как представить извлеченный текст в кодировке UTF-8.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
- // создаем текст device
+// создать текстовое устройство
 TextDevice device = new TextDevice(Encoding.UTF8);
 
- // конвертируем страницу и сохраняем текст в stream
+// конвертируем страницу и сохраняем текст в поток
 device.Process(doc.Pages[1], outFile);
 
- // используем извлеченный text
+// используем извлеченный текст
 extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 ```
 

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 按索引获取工件索引从 1 开始
+description: 按索引获取工件索引从 1. 开始
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/artifactcollection/item/
 ---
 ## ArtifactCollection indexer
 
-按索引获取工件。索引从 1 开始。
+按索引获取工件。索引从 1. 开始
 
 ```csharp
 public Artifact this[int index] { get; }

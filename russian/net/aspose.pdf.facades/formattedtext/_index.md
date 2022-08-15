@@ -28,7 +28,7 @@ public sealed class FormattedText
 | [FormattedText](formattedtext#constructor_11)(string, Color, Color, string, EncodingType, bool, float) | Инициализирует FormattedText. |
 | [FormattedText](formattedtext#constructor_7)(string, Color, FontStyle, EncodingType, bool, float, float) | Инициализирует FormattedText. |
 | [FormattedText](formattedtext#constructor_2)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float) | Инициализирует FormattedText. |
-| [FormattedText](formattedtext#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Инициализировать FormattedText. |
+| [FormattedText](formattedtext#constructor_5)(string, FontColor, FontStyle, EncodingType, bool, float, float) | Инициализировать форматированный текст. |
 | [FormattedText](formattedtext#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | Инициализирует FormattedText. |
 | [FormattedText](formattedtext#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | Инициализирует FormattedText. |
 
@@ -43,8 +43,8 @@ public sealed class FormattedText
 
 | Имя | Описание |
 | --- | --- |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext)(string) | Добавляет новую строку в объект FormattedText и устанавливает newLineText в текст следующей строки. |
-| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext_1)(string, float) | Добавляет новую строку в объект FormattedText и устанавливает newLineText в текст следующей строки. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext)(string) | Добавляет новую строку в объект FormattedText и задает для newLineText текст следующей строки. |
+| [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext_1)(string, float) | Добавляет новую строку в объект FormattedText и задает для newLineText текст следующей строки. |
 
 ### Смотрите также
 

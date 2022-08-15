@@ -1,14 +1,14 @@
 ---
 title: SetLineWidth
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует оператор значением ширины.
+description: Инициализирует оператор со значением ширины.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setlinewidth/setlinewidth/
 ---
 ## SetLineWidth constructor
 
-Инициализирует оператор значением ширины.
+Инициализирует оператор со значением ширины.
 
 ```csharp
 public SetLineWidth(double width)

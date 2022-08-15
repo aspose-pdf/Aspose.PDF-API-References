@@ -18,10 +18,10 @@ public enum ArtifactSubtype
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Header | `0` | 标头工件。 |
-| Footer | `1` | 页脚伪影。 |
-| Watermark | `2` | 水印伪影。 |
-| Background | `3` | 背景伪影。 |
+| Header | `0` | 标头工件. |
+| Footer | `1` | 页脚工件。 |
+| Watermark | `2` | 水印神器。 |
+| Background | `3` | 背景神器. |
 | Undefined | `4` | 工件子类型未定义或未知。 |
 
 ### 也可以看看

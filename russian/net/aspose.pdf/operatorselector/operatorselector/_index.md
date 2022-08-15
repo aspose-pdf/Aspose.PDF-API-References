@@ -1,14 +1,14 @@
 ---
 title: OperatorSelector
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаSelector.
+description: Инициализирует новый экземплярSelector класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/operatorselector/operatorselector/
 ---
 ## OperatorSelector() {#constructor}
 
-Инициализирует новый экземпляр класса!:Selector.
+Инициализирует новый экземпляр!:Selector класс.
 
 ```csharp
 public OperatorSelector()
@@ -24,7 +24,7 @@ public OperatorSelector()
 
 ## OperatorSelector(Operator) {#constructor_1}
 
-Инициализирует новый[`OperatorSelector`](../../operatorselector).
+Инициализирует новый[`OperatorSelector`](../../operatorselector) .
 
 ```csharp
 public OperatorSelector(Operator op)

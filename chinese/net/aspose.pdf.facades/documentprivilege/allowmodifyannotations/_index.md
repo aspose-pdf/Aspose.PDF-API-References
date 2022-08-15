@@ -1,14 +1,14 @@
 ---
 title: AllowModifyAnnotations
 second_title: Aspose.PDF for .NET API 参考
-description: 设置是否允许修改注解的权限 true 是允许false 是禁止
+description: 设置是否允许修改注释的权限 true 为允许false 为禁止
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.facades/documentprivilege/allowmodifyannotations/
 ---
 ## DocumentPrivilege.AllowModifyAnnotations property
 
-设置是否允许修改注解的权限。 true 是允许，false 是禁止。
+设置是否允许修改注释的权限。 true 为允许，false 为禁止。
 
 ```csharp
 public bool AllowModifyAnnotations { get; set; }

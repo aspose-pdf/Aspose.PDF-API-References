@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.Sanitization
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.Sanitization 是用于清理操作的命名空间
+description: 的 Aspose.Pdf.Sanitization是用于清理操作的命名空间
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.sanitization/
 ---
-**Aspose.Pdf.Sanitization** 是用于清理操作的命名空间。
+的 **Aspose.Pdf.Sanitization**是用于清理操作的命名空间。
 
 ## 课程
 

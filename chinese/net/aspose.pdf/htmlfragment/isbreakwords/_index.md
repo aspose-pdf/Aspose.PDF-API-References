@@ -1,14 +1,14 @@
 ---
 title: IsBreakWords
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置分词
+description: 获取或设置单词 break
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/htmlfragment/isbreakwords/
 ---
 ## HtmlFragment.IsBreakWords property
 
-获取或设置分词
+获取或设置单词 break
 
 ```csharp
 public bool IsBreakWords { get; set; }

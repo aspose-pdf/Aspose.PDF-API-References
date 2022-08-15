@@ -1,14 +1,14 @@
 ---
 title: IncorrectCMapUsageException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаIncorrectCMapUsageExceptionaspose.pdf/incorrectcmapusageexception.
+description: Инициализирует новый экземплярIncorrectCMapUsageExceptionaspose.pdf/incorrectcmapusageexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/
 ---
 ## IncorrectCMapUsageException constructor
 
-Инициализирует новый экземпляр класса[`IncorrectCMapUsageException`](../../incorrectcmapusageexception).
+Инициализирует новый экземпляр[`IncorrectCMapUsageException`](../../incorrectcmapusageexception) класс.
 
 ```csharp
 public IncorrectCMapUsageException(string message)

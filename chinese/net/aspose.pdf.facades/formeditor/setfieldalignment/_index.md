@@ -16,12 +16,12 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 限定字段名。 |
-| alignment | Int32 | 对齐方式定义，包括FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter 和 FormFieldFacade.AlignRight。 |
+| fieldName | String | 限定的字段名称。 |
+| alignment | Int32 | 对齐方式定义，包括 FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter 和 FormFieldFacade.AlignRight。 |
 
 ### 返回值
 
-如果找到字段并设置对齐则为真。
+如果找到字段并设置对齐，则为 true。
 
 ### 例子
 

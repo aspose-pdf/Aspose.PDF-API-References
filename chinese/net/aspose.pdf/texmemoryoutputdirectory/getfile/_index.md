@@ -17,8 +17,8 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fileName | String | 文件名。 |
-| fullName | String& | 完整文件名。 |
-| searchSubdirectories | Boolean | 指示是否在子目录中查找文件。 在这个实现中没有效果。 |
+| fullName | String& | 完整的文件名。 |
+| searchSubdirectories | Boolean | 指示是否在子目录中查找文件。 在此实现中没有效果。 |
 
 ### 返回值
 

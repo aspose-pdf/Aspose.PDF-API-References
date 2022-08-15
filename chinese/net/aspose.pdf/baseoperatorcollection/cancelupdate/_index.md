@@ -1,14 +1,14 @@
 ---
 title: CancelUpdate
 second_title: Aspose.PDF for .NET API 参考
-description: 取消上次更新 当更改不应该引发内容更新时可能会调用此方法
+description: 取消上次更新 当更改不应该引发内容更新时可以调用此方法
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/baseoperatorcollection/cancelupdate/
 ---
 ## BaseOperatorCollection.CancelUpdate method
 
-取消上次更新。 当更改不应该引发内容更新时，可能会调用此方法。
+取消上次更新。 当更改不应该引发内容更新时，可以调用此方法。
 
 ```csharp
 public abstract void CancelUpdate()

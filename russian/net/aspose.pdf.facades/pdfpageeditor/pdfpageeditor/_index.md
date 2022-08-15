@@ -1,14 +1,14 @@
 ---
 title: PdfPageEditor
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор класса PdfPageEditor.
+description: Конструктор для класса PdfPageEditor.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
 ---
 ## PdfPageEditor() {#constructor}
 
-Конструктор класса PdfPageEditor.
+Конструктор для класса PdfPageEditor.
 
 ```csharp
 public PdfPageEditor()
@@ -24,7 +24,7 @@ public PdfPageEditor()
 
 ## PdfPageEditor(Document) {#constructor_1}
 
-Конструктор класса PdfPageEditor.
+Конструктор для класса PdfPageEditor.
 
 ```csharp
 public PdfPageEditor(Document document)

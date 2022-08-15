@@ -1,14 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает прозрачность иконки от 0 до 10 - полностью прозрачная 1 - полностью непрозрачная.
+description: Получает или устанавливает непрозрачность значка от 0 до 1 0 - полностью прозрачный 1 - полностью непрозрачный.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/fileattachmentannotation/opacity/
 ---
 ## FileAttachmentAnnotation.Opacity property
 
-Получает или устанавливает прозрачность иконки от 0 до 1:0 - полностью прозрачная, 1 - полностью непрозрачная.
+Получает или устанавливает непрозрачность значка от 0 до 1: 0 - полностью прозрачный, 1 - полностью непрозрачный.
 
 ```csharp
 public double Opacity { get; set; }

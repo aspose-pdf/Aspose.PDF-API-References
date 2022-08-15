@@ -1,14 +1,14 @@
 ---
 title: Rect
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置页面的矩形如果指定则返回页面裁剪框否则返回页面媒体框 请注意此属性不考虑页面旋转要获得考虑旋转的页面矩形请使用 ActualRect
+description: 获取或设置页面的矩形如果指定则返回页面裁剪框否则返回页面媒体框 请注意此属性不考虑页面旋转要获得考虑旋转的页面矩形请使用 ActualRect.
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf/page/rect/
 ---
 ## Page.Rect property
 
-获取或设置页面的矩形。如果指定则返回页面裁剪框，否则返回页面媒体框。 请注意，此属性不考虑页面旋转。要获得考虑旋转的页面矩形，请使用 ActualRect。
+获取或设置页面的矩形。如果指定则返回页面裁剪框，否则返回页面媒体框。 请注意，此属性不考虑页面旋转。要获得考虑旋转的页面矩形，请使用 ActualRect.
 
 ```csharp
 public Rectangle Rect { get; set; }
@@ -16,7 +16,7 @@ public Rectangle Rect { get; set; }
 
 ### 例子
 
-示例演示如何获取页面矩形:
+示例演示如何获取页面矩形：
 
 ```csharp
 Document document = new Document("sample.pdf");

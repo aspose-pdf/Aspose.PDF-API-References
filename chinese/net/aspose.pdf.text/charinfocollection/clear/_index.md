@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API 参考
-description: 集合是只读的总是抛出 NotImplementedException
+description: 集合是只读的总是抛出 NotImplementedException.
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/charinfocollection/clear/
 ---
 ## CharInfoCollection.Clear method
 
-集合是只读的。总是抛出 NotImplementedException。
+集合是只读的。总是抛出 NotImplementedException.
 
 ```csharp
 public void Clear()

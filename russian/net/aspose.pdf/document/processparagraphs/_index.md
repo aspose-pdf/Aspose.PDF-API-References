@@ -1,14 +1,14 @@
 ---
 title: ProcessParagraphs
 second_title: Aspose.PDF для справочника API .NET
-description: Обработка абзацев для генератора.
+description: Обработать абзацы для генератора.
 type: docs
 weight: 670
 url: /ru/net/aspose.pdf/document/processparagraphs/
 ---
 ## Document.ProcessParagraphs method
 
-Обработка абзацев для генератора.
+Обработать абзацы для генератора.
 
 ```csharp
 public void ProcessParagraphs()

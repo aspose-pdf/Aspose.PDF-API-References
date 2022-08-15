@@ -18,8 +18,8 @@ public sealed class FileHyperlink : Hyperlink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FileHyperlink](filehyperlink#constructor)() | 初始化[`FileHyperlink`](../filehyperlink)类的新实例。 |
-| [FileHyperlink](filehyperlink#constructor_1)(string) | 初始化[`FileHyperlink`](../filehyperlink)类的新实例。 |
+| [FileHyperlink](filehyperlink#constructor)() | 初始化[`FileHyperlink`](../filehyperlink)类. |
+| [FileHyperlink](filehyperlink#constructor_1)(string) | 初始化[`FileHyperlink`](../filehyperlink)类. |
 
 ## 特性
 

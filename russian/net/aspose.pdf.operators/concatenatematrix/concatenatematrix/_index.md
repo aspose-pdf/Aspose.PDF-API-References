@@ -16,12 +16,12 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Double | Коэффициент A |
-| b | Double | Коэффициент B |
-| c | Double | C-коэффициент |
-| d | Double | D-коэффициент |
-| e | Double | Коэффициент E |
-| f | Double | Коэффициент F |
+| a | Double | Коэффициент |
+| b | Double | коэффициент В |
+| c | Double | коэффициент С |
+| d | Double | Коэффициент D |
+| e | Double | Коэффициент Е |
+| f | Double | F-коэффициент |
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 ## ConcatenateMatrix(Matrix) {#constructor}
 
-Инициализирует оператор матрицей.
+Инициализирует оператор по матрице.
 
 ```csharp
 public ConcatenateMatrix(Matrix m)
@@ -41,7 +41,7 @@ public ConcatenateMatrix(Matrix m)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| m | Matrix | Матрица преобразования. |
+| m | Matrix | Матрица трансформации. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: CurveTo
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор c добавление кривой к пути.
+description: Класс представляющий оператор c добавить кривую к пути.
 type: docs
 weight: 5020
 url: /ru/net/aspose.pdf.operators/curveto/
 ---
 ## CurveTo class
 
-Класс, представляющий оператор c (добавление кривой к пути).
+Класс, представляющий оператор c (добавить кривую к пути).
 
 ```csharp
 public class CurveTo : Operator
@@ -31,7 +31,7 @@ public class CurveTo : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/curveto/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/curveto/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

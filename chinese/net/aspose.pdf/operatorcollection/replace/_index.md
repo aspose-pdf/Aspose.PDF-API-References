@@ -16,7 +16,7 @@ public void Replace(IList<Operator> operators)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| operators | IList`1 | 运算符列表，它将替换集合中当前包含的运算符。列表中的 Eash 运算符必须在 [1..N] 范围内具有正确的索引，其中 N 是集合 |
+| operators | IList`1 | 运算符列表，它将替换集合中当前包含的运算符。列表中的 Eash 运算符必须在 [1..N] 范围内具有正确的索引，其中 N 是集合中运算符的计数 |
 
 ### 也可以看看
 

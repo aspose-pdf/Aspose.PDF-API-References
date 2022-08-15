@@ -1,14 +1,14 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API 参考
-description: 在指定的Documentaspose.pdf/document上执行节和段落的搜索
+description: 搜索指定的节和段落Documentaspose.pdf/document.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/paragraphabsorber/visit/
 ---
 ## Visit(Document) {#visit}
 
-在指定的[`Document`](../../../aspose.pdf/document)上执行节和段落的搜索。
+搜索指定的节和段落[`Document`](../../../aspose.pdf/document).
 
 ```csharp
 public void Visit(Document doc)
@@ -29,7 +29,7 @@ public void Visit(Document doc)
 
 ## Visit(Page) {#visit_1}
 
-对指定的[`Page`](../../../aspose.pdf/page)执行搜索。
+对指定的执行搜索[`Page`](../../../aspose.pdf/page).
 
 ```csharp
 public void Visit(Page page)

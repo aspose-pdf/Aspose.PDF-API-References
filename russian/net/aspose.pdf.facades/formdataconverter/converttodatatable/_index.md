@@ -1,14 +1,14 @@
 ---
 title: ConvertToDataTable
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразование файлов стримов в табличные.
+description: Преобразование файлов стримов в таблицу.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 ---
 ## FormDataConverter.ConvertToDataTable method
 
-Преобразование файлов стримов в табличные.
+Преобразование файлов стримов в таблицу.
 
 ```csharp
 public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
@@ -17,7 +17,7 @@ public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourceStreams | Stream[] | Массив исходных потоков в указанном формате. |
-| sourceType | DataType | Формат данных в потоках. Допустимые значения:PDF, FDF, XFDF, XML. |
+| sourceType | DataType | Формат данных в потоках. Допустимые значения: PDF, FDF, XFDF, XML. |
 
 ### Примеры
 

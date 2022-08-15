@@ -1,14 +1,14 @@
 ---
 title: ForegroundColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置前景色文本颜色默认值蓝色
+description: 获取/设置前景色文本颜色默认值蓝色.
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/
 ---
 ## SignatureCustomAppearance.ForegroundColor property
 
-获取/设置前景色（文本颜色）。默认值:蓝色。
+获取/设置前景色（文本颜色）。默认值：蓝色.
 
 ```csharp
 public Color ForegroundColor { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: XsltArgumentList
 second_title: Aspose.PDF for .NET API 参考
-description: XsltArgumentList 用于将值插入现有 xls 参数  XLS 文件具有没有值的动物参数 XsltArgumentList args  new XsltArgumentList args.AddParamanimal  cat 现在转换器假定在 XLS 文件中有一个值为cat的动物参数 
+description: XsltArgumentList 用于将值插入现有 xls 参数  XLS 文件有没有值的 animal 参数 XsltArgumentList args  new XsltArgumentList args.AddParamanimal  cat 现在转换器假定存在 animal  parameter 在 XLS 文件中的值为 cat
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/xslfoloadoptions/xsltargumentlist/
 ---
 ## XslFoLoadOptions.XsltArgumentList property
 
-XsltArgumentList 用于将值插入现有 xls 参数  XLS 文件具有没有值的“动物”参数: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); 现在转换器假定在 XLS 文件中有一个值为“cat”的“动物”参数 。
+XsltArgumentList 用于将值插入现有 xls 参数  XLS 文件有没有值的 'animal' 参数： XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); 现在转换器假定存在 'animal ' parameter 在 XLS 文件中的值为 'cat'。
 
 ```csharp
 public XsltArgumentList XsltArgumentList { get; set; }

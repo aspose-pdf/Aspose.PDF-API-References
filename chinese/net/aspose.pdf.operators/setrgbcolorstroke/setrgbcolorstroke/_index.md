@@ -1,14 +1,14 @@
 ---
 title: SetRGBColorStroke
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化运算符
+description: 初始化操作符
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setrgbcolorstroke/setrgbcolorstroke/
 ---
 ## SetRGBColorStroke(double, double, double) {#constructor}
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public SetRGBColorStroke(double r, double g, double b)
@@ -16,8 +16,8 @@ public SetRGBColorStroke(double r, double g, double b)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| r | Double | 红色等级从 0.0 到 1.0 |
-| g | Double | 绿色的等级从 0.0 到 1.0 |
+| r | Double | 红色的等级从 0.0 到 1.0 |
+| g | Double | 绿色等级从 0.0 到 1.0 |
 | b | Double | 蓝色的等级从 0.0 到 1.0 |
 
 ### 也可以看看
@@ -30,7 +30,7 @@ public SetRGBColorStroke(double r, double g, double b)
 
 ## SetRGBColorStroke(Color) {#constructor_1}
 
-用颜色初始化操作符。
+用颜色初始化运算符。
 
 ```csharp
 public SetRGBColorStroke(Color color)

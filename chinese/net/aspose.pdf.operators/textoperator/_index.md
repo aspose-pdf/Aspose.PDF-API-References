@@ -18,7 +18,7 @@ public abstract class TextOperator : Operator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextOperator](textoperator#constructor)() | 初始化运算符。 |
+| [TextOperator](textoperator#constructor)() | 初始化操作符。 |
 | [TextOperator](textoperator#constructor_1)(TextProperties) | 接受文本属性的文本运算符。 |
 
 ## 特性

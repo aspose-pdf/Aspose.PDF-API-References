@@ -16,7 +16,7 @@ public override void Add(OutlineItemCollection outline)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outline | OutlineItemCollection | Добавляемый элемент структуры. |
+| outline | OutlineItemCollection | Добавляемый элемент схемы. |
 
 ### Смотрите также
 

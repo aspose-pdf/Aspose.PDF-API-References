@@ -18,8 +18,8 @@ public enum AutoRotateMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 无旋转。 |
-| ClockWise | `1` | 旋转方向为顺时针。 |
+| None | `0` | 没有旋转。 |
+| ClockWise | `1` | 旋转方向为顺时针方向。 |
 | AntiClockWise | `2` | 旋转方向为逆时针方向。 |
 
 ### 也可以看看

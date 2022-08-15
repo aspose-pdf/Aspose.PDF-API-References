@@ -1,14 +1,14 @@
 ---
 title: Put
 second_title: Aspose.PDF for .NET API 参考
-description: 在页面上添加文字标记
+description: 在页面上添加文字戳记
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/textstamp/put/
 ---
 ## TextStamp.Put method
 
-在页面上添加文字标记。
+在页面上添加文字戳记。
 
 ```csharp
 public override void Put(Page page)
@@ -16,7 +16,7 @@ public override void Put(Page page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 冲压页面。 |
+| page | Page | 用于冲压的页面。 |
 
 ### 也可以看看
 

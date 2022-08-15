@@ -16,7 +16,7 @@ public void Save()
 
 ### 评论
 
-为了逐步保存文档，我们应该打开文档文件进行写入。 因此 Document 必须使用可写流初始化，就像在下一个代码片段中一样: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.读写)); // 进行一些更改并逐步保存文档 doc.Save();
+为了逐步保存文档，我们应该打开文档文件进行写入。 因此 Document 必须使用可写流初始化，就像在下一个代码片段中一样： Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // 进行一些更改并保存文档增量 doc.Save();
 
 ### 也可以看看
 
@@ -57,7 +57,7 @@ public void Save(string outputFileName, SaveFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFileName | String | 存储文档的文件路径。 |
+| outputFileName | String | 将存储文档的文件路径。 |
 | format | SaveFormat | 格式选项。 |
 
 ### 也可以看看
@@ -79,14 +79,14 @@ public void Save(Stream outputStream, SaveFormat format)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 存储文档的流。 |
+| outputStream | Stream | 将存储文档的流。 |
 | format | SaveFormat | 格式选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | ArgumentException当[`HtmlSaveOptions`](../../htmlsaveoptions)被传递给一个方法。不支持将文档保存到 html 流。请使用方法保存到文件。 |
+| ArgumentException | ArgumentException什么时候[`HtmlSaveOptions`](../../htmlsaveoptions)被传递给一个方法。不支持将文档保存到 html 流。请使用方法保存到文件。 |
 
 ### 也可以看看
 
@@ -99,7 +99,7 @@ public void Save(Stream outputStream, SaveFormat format)
 
 ## Save(string, SaveOptions) {#save_7}
 
-以设置其保存选项的新名称保存文档。
+使用设置其保存选项的新名称保存文档。
 
 ```csharp
 public void Save(string outputFileName, SaveOptions options)
@@ -107,7 +107,7 @@ public void Save(string outputFileName, SaveOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFileName | String | 存储文档的文件路径。 |
+| outputFileName | String | 将存储文档的文件路径。 |
 | options | SaveOptions | 保存选项。 |
 
 ### 也可以看看
@@ -129,14 +129,14 @@ public void Save(Stream outputStream, SaveOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | Stream | 存储文档的流。 |
+| outputStream | Stream | 将存储文档的流。 |
 | options | SaveOptions | 保存选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | ArgumentException当[`HtmlSaveOptions`](../../htmlsaveoptions)被传递给一个方法。不支持将文档保存到 html 流。请使用方法保存到文件。 |
+| ArgumentException | ArgumentException什么时候[`HtmlSaveOptions`](../../htmlsaveoptions)被传递给一个方法。不支持将文档保存到 html 流。请使用方法保存到文件。 |
 
 ### 也可以看看
 
@@ -149,7 +149,7 @@ public void Save(Stream outputStream, SaveOptions options)
 
 ## Save(HttpResponse, string, ContentDisposition, SaveOptions) {#save_8}
 
-使用保存选项将文档保存到响应流。
+使用保存选项将文档保存到响应流中。
 
 ```csharp
 public void Save(HttpResponse response, string outputFileName, ContentDisposition disposition, 
@@ -159,7 +159,7 @@ public void Save(HttpResponse response, string outputFileName, ContentDispositio
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | response | HttpResponse | 封装 HTTP 响应信息。 |
-| outputFileName | String | 简单文件名，即没有路径。 |
+| outputFileName | String | 简单的文件名，即没有路径。 |
 | disposition | ContentDisposition | 表示 MIME 协议 Content-Disposition 标头。 |
 | options | SaveOptions | 保存选项。 |
 
@@ -203,7 +203,7 @@ public void Save(string outputFileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFileName | String | 存储文档的文件路径。 |
+| outputFileName | String | 将存储文档的文件路径。 |
 
 ### 也可以看看
 

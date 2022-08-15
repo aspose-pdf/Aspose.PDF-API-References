@@ -18,12 +18,12 @@ public sealed class BorderInfo : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [BorderInfo](borderinfo#constructor)() | Инициализирует новый экземпляр класса[`BorderInfo`](../borderinfo). |
-| [BorderInfo](borderinfo#constructor_1)(BorderSide) | Инициализирует новый экземпляр класса[`BorderInfo`](../borderinfo). |
-| [BorderInfo](borderinfo#constructor_2)(BorderSide, Color) | Инициализирует новый экземпляр класса[`BorderInfo`](../borderinfo). |
-| [BorderInfo](borderinfo#constructor_4)(BorderSide, float) | Инициализирует новый экземпляр класса[`BorderInfo`](../borderinfo). |
-| [BorderInfo](borderinfo#constructor_3)(BorderSide, GraphInfo) | Инициализирует новый экземпляр класса[`BorderInfo`](../borderinfo). |
-| [BorderInfo](borderinfo#constructor_5)(BorderSide, float, Color) | Инициализирует новый экземпляр класса[`BorderInfo`](../borderinfo). |
+| [BorderInfo](borderinfo#constructor)() | Инициализирует новый экземпляр[`BorderInfo`](../borderinfo) класс. |
+| [BorderInfo](borderinfo#constructor_1)(BorderSide) | Инициализирует новый экземпляр[`BorderInfo`](../borderinfo) класс. |
+| [BorderInfo](borderinfo#constructor_2)(BorderSide, Color) | Инициализирует новый экземпляр[`BorderInfo`](../borderinfo) класс. |
+| [BorderInfo](borderinfo#constructor_4)(BorderSide, float) | Инициализирует новый экземпляр[`BorderInfo`](../borderinfo) класс. |
+| [BorderInfo](borderinfo#constructor_3)(BorderSide, GraphInfo) | Инициализирует новый экземпляр[`BorderInfo`](../borderinfo) класс. |
+| [BorderInfo](borderinfo#constructor_5)(BorderSide, float, Color) | Инициализирует новый экземпляр[`BorderInfo`](../borderinfo) класс. |
 
 ## Характеристики
 

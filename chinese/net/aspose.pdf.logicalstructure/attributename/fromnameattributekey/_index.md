@@ -16,12 +16,12 @@ public static AttributeName FromNameAttributeKey(string name, AttributeKey attri
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 属性名 |
+| name | String | 属性名称 |
 | attributeKey | AttributeKey | 属性键 |
 
 ### 返回值
 
-属性名
+属性名称
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ReplyType
 second_title: Aspose.PDF for .NET API 参考
-description: 一个字符串指定此注释 与 InReplyTo 指定的关系回复类型
+description: 指定此批注 与 InReplyTo. 指定的关系回复类型的字符串
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/markupannotation/replytype/
 ---
 ## MarkupAnnotation.ReplyType property
 
-一个字符串，指定此注释 与 InReplyTo 指定的关系（“回复类型”）。
+指定此批注 与 InReplyTo. 指定的关系（“回复类型”）的字符串
 
 ```csharp
 public ReplyType ReplyType { get; set; }

@@ -19,13 +19,13 @@ public enum FontStyles
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Regular | `0` | 常规文本。 |
+| Regular | `0` | 常规文本. |
 | Bold | `1` | 粗体字。 |
-| Italic | `2` | 斜体文本。 |
+| Italic | `2` | 斜体字。 |
 
 ### 评论
 
-这个枚举有一个FlagsAttribute属性允许其成员值的组合。
+这个枚举有一个FlagsAttribute允许组合其成员值的属性。
 
 ### 也可以看看
 

@@ -32,7 +32,7 @@ public FormattedText(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст, который содержится в FormattedText. |
+| text | String | Текст, содержащийся в FormattedText. |
 
 ### Смотрите также
 
@@ -56,8 +56,8 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 | text | String | Текстовое содержимое строки. |
 | fontColor | FontColor | Цвет текста. |
 | fontStyle | FontStyle | Стиль текста. |
-| encodingType | EncodingType | Тип кодирования (значение перечисления EncodingType). |
-| embedded | Boolean | Истинно, если шрифт будет внедрен. |
+| encodingType | EncodingType | Тип кодировки (значение перечисления EncodingType). |
+| embedded | Boolean | Истинно, если шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 
 ### Смотрите также
@@ -73,7 +73,7 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-Инициализировать FormattedText.
+Инициализировать форматированный текст.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -144,7 +144,7 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 | textColor | Color | Цвет текста. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет внедрен. |
+| embedded | Boolean | Если true шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 | lineSpacing | Single | Дополнительный интервал. |
 
@@ -174,7 +174,7 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 | backColor | FontColor | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет внедрен. |
+| embedded | Boolean | Если true шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 
 ### Смотрите также
@@ -199,12 +199,12 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое. |
+| text | String | Текстовое содержание. |
 | textColor | FontColor | Цвет текста. |
 | backColor | FontColor | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет внедрен. |
+| embedded | Boolean | Если true шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 | lineSpacing | Single | Дополнительный интервал. |
 
@@ -264,7 +264,7 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 | backColor | Color | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если встроен истинный шрифт. |
+| embedded | Boolean | Если истинный шрифт встроен. |
 | textSize | Single | Размер текста. |
 | lineSpacing | Single | Дополнительный интервал. |
 
@@ -289,12 +289,12 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое. |
+| text | String | Текстовое содержание. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 | fontName | String | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет внедрен. |
+| embedded | Boolean | Если true шрифт будет встроен. |
 | fontSize | Single | Размер текста. |
 
 ### Смотрите также
@@ -316,7 +316,7 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое. |
+| text | String | Текстовое содержание. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 
@@ -339,11 +339,11 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое содержимое. |
+| text | String | Текстовое содержание. |
 | textColor | Color | Цвет текста. |
 | fontName | String | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
-| embedded | Boolean | Если true шрифт будет внедрен. |
+| embedded | Boolean | Если true шрифт будет встроен. |
 | fontSize | Single | Размер текста. |
 
 ### Смотрите также

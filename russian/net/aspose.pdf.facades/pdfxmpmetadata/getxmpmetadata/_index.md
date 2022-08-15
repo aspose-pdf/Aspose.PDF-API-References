@@ -1,14 +1,14 @@
 ---
 title: GetXmpMetadata
 second_title: Aspose.PDF для справочника API .NET
-description: Получите XmpMetadata входного PDF-файла в формате xml.
+description: Получить метаданные Xmp входного PDF-файла в формате xml.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
 ---
 ## GetXmpMetadata() {#getxmpmetadata}
 
-Получите XmpMetadata входного PDF-файла в формате xml.
+Получить метаданные Xmp входного PDF-файла в формате xml.
 
 ```csharp
 public byte[] GetXmpMetadata()
@@ -36,7 +36,7 @@ byte[] data = pxm.GetXmpMetadata();
 
 ## GetXmpMetadata(string) {#getxmpmetadata_1}
 
-Получить часть XmpMetadata входного pdf в соответствии с мета-именем.
+Получить часть метаданных Xmp входного PDF-файла в соответствии с мета-именем.
 
 ```csharp
 public byte[] GetXmpMetadata(string name)

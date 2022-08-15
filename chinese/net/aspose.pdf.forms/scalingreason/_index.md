@@ -19,8 +19,8 @@ public enum ScalingReason
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Always | `0` | 始终缩放。 |
-| IconIsBigger | `1` | BScale 仅当图标大于注释矩形时。 |
-| IconIsSmaller | `2` | 仅在图标小于注释矩形时缩放。 |
+| IconIsBigger | `1` | 仅当图标大于注释矩形时才缩放。 |
+| IconIsSmaller | `2` | 仅当图标小于注释矩形时才缩放。 |
 | Never | `3` | 从不缩放。 |
 
 ### 也可以看看

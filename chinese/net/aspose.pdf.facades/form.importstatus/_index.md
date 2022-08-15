@@ -1,14 +1,14 @@
 ---
 title: Form.ImportStatus
 second_title: Aspose.PDF for .NET API 参考
-description: 导入字段的状态
+description: 导入字段状态
 type: docs
 weight: 2320
 url: /zh/net/aspose.pdf.facades/form.importstatus/
 ---
 ## Form.ImportStatus enumeration
 
-导入字段的状态
+导入字段状态
 
 ```csharp
 public enum ImportStatus
@@ -18,7 +18,7 @@ public enum ImportStatus
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Success | `0` | 字段已成功导入 |
+| Success | `0` | 字段导入成功 |
 | FieldNotFound | `1` | 在文档表单中找不到具有此名称的字段。 |
 
 ### 也可以看看

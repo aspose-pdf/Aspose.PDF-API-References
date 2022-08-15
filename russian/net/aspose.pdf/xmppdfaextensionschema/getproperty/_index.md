@@ -20,7 +20,7 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 
 ### Возвращаемое значение
 
-Свойство.
+Недвижимость.
 
 ### Смотрите также
 

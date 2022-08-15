@@ -1,14 +1,14 @@
 ---
 title: ReplaceTextStrategy.Scope
 second_title: Aspose.PDF for .NET API 参考
-description: 应用替换文本操作的范围 REPLACE_FIRST 默认
+description: 应用替换文本操作的范围 默认为 REPLACE_FIRST
 type: docs
 weight: 2700
 url: /zh/net/aspose.pdf.facades/replacetextstrategy.scope/
 ---
 ## ReplaceTextStrategy.Scope enumeration
 
-应用替换文本操作的范围 REPLACE_FIRST 默认
+应用替换文本操作的范围 默认为 REPLACE_FIRST
 
 ```csharp
 public enum Scope

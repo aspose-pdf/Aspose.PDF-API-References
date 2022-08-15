@@ -1,14 +1,14 @@
 ---
 title: DateTimeLocalFormat
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置日期时间本地格式默认值yyyy.MM.dd HHmmss zzz
+description: 获取/设置日期时间本地格式默认值yyyy.MM.dd HHmmss zzz.
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/
 ---
 ## SignatureCustomAppearance.DateTimeLocalFormat property
 
-获取/设置日期时间本地格式。默认值:“yyyy.MM.dd HH:mm:ss zzz”。
+获取/设置日期时间本地格式。默认值：“yyyy.MM.dd HH:mm:ss zzz”.
 
 ```csharp
 public string DateTimeLocalFormat { get; set; }

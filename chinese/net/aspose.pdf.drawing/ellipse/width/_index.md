@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示椭圆宽度的浮点值
+description: 获取或设置一个浮点值表示椭圆的宽度
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.drawing/ellipse/width/
 ---
 ## Ellipse.Width property
 
-获取或设置表示椭圆宽度的浮点值。
+获取或设置一个浮点值，表示椭圆的宽度。
 
 ```csharp
 public double Width { get; set; }

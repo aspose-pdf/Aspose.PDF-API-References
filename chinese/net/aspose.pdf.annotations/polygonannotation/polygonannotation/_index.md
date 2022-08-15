@@ -1,14 +1,14 @@
 ---
 title: PolygonAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 用于生成器的构造函数
+description: 与 Generator. 一起使用的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/polygonannotation/polygonannotation/
 ---
 ## PolygonAnnotation(Document, Point[]) {#constructor}
 
-用于生成器的构造函数。
+与 Generator. 一起使用的构造函数
 
 ```csharp
 public PolygonAnnotation(Document document, Point[] vertices)
@@ -40,8 +40,8 @@ public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 应创建注释的文档页面。 |
-| rect | Rectangle | 标注矩形，定义标注在页面上的位置。 |
-| vertices | Point[] | 多边形顶点数组。 |
+| rect | Rectangle | 注释矩形，定义页面上注释的位置。 |
+| vertices | Point[] | 一个多边形顶点数组。 |
 
 ### 也可以看看
 

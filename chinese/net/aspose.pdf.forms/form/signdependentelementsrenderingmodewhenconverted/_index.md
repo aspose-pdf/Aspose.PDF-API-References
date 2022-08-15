@@ -1,14 +1,14 @@
 ---
 title: SignDependentElementsRenderingModeWhenConverted
 second_title: Aspose.PDF for .NET API 参考
-description: 表单可以包含签名信息即可以签名或未签名 表单的视图有时必须取决于表单是否已签名 此属性告诉表单的转换器在将 XFA 表单转换为标准表单期间 结果表单是否必须呈现为有符号或无符号
+description: 表单可以包含签名信息即可以签名或未签名 表单的视图有时必须取决于表单是否签名 该属性告诉表单的转换器在将XFA表单转换为标准表单时 是否结果形式必须呈现为有符号或无符号
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.forms/form/signdependentelementsrenderingmodewhenconverted/
 ---
 ## Form.SignDependentElementsRenderingModeWhenConverted field
 
-表单可以包含签名信息，即可以签名或未签名。 表单的视图有时必须取决于表单是否已签名。 此属性告诉表单的转换器（在将 XFA 表单转换为标准表单期间） 结果表单是否必须呈现为有符号或无符号。
+表单可以包含签名信息，即可以签名或未签名。 表单的视图有时必须取决于表单是否签名。 该属性告诉表单的转换器（在将XFA表单转换为标准表单时） 是否结果形式必须呈现为有符号或无符号。
 
 ```csharp
 public SignDependentElementsRenderingModes SignDependentElementsRenderingModeWhenConverted;

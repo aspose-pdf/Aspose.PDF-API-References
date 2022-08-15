@@ -1,14 +1,14 @@
 ---
 title: White
 second_title: Aspose.PDF для справочника API .NET
-description: Белая схема освещения.
+description: Схема освещения Белая.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
 ## PDF3DLightingScheme.White field
 
-"Белая" схема освещения.
+Схема освещения "Белая".
 
 ```csharp
 public static PDF3DLightingScheme White;

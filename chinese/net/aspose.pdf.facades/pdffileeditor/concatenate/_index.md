@@ -16,7 +16,7 @@ public bool Concatenate(string firstInputFile, string secInputFile, string outpu
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| firstInputFile | String | 要连接的第一个文件。 |
+| firstInputFile | String | 第一个要连接的文件。 |
 | secInputFile | String | 要连接的第二个文件。 |
 | outputFile | String | 输出文件。 |
 
@@ -88,7 +88,7 @@ public bool Concatenate(Document[] src, Document dest)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | src | Document[] | 源文档数组。 |
-| dest | Document | 目标文档。 |
+| dest | Document | 目的地文件。 |
 
 ### 返回值
 
@@ -172,7 +172,7 @@ fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ## Concatenate(string, string, string, string) {#concatenate_6}
 
-将两个 Pdf 文档以交替方式合并成一个新的 Pdf 文档，并用空白页填充空白处。 例如:document1 有 5 页:p1、p2、p3、p4、p5。 document2 有 3 页:p1'、p2'、p3'。 合并两个 Pdf 文档将产生带有页面的结果文档:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage。
+将两个 Pdf 文档以交替方式合并成一个新的 Pdf 文档，并用空白页填充空白处。 例如：document1 有 5 页：p1、p2、p3、p4、p5。 document2 有 3 页：p1', p2', p3'. 合并两个 Pdf 文档将产生带有页面的结果文档：p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage .
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -207,7 +207,7 @@ pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 
 ## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-将两个 Pdf 文档以交替方式合并成一个新的 Pdf 文档，并用空白页填充空白处。 例如:document1 有 5 页:p1、p2、p3、p4、p5。 document2 有 3 页:p1'、p2'、p3'。 合并两个 Pdf 文档将产生带有页面的结果文档:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage。
+将两个 Pdf 文档以交替方式合并成一个新的 Pdf 文档，并用空白页填充空白处。 例如：document1 有 5 页：p1、p2、p3、p4、p5。 document2 有 3 页：p1', p2', p3'. 合并两个 Pdf 文档将产生带有页面的结果文档：p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage .
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -217,9 +217,9 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | firstInputStream | Stream | 第一个 Pdf 流。 |
-| secInputStream | Stream | 第二个 Pdf 流。 |
-| blankPageStream | Stream | 带有空白页的 Pdf 流 |
-| outputStream | Stream | 输出 Pdf 流。 |
+| secInputStream | Stream | 第二个 PDF 流。 |
+| blankPageStream | Stream | 带有空白页的 Pdf 流。 |
+| outputStream | Stream | 输出 PDF 流。 |
 
 ### 返回值
 
@@ -259,7 +259,7 @@ public bool Concatenate(string[] inputFiles, HttpResponse response)
 
 ### 返回值
 
-如果连接成功，则为真。
+如果连接成功，则为 true。
 
 ### 也可以看看
 
@@ -279,7 +279,7 @@ public bool Concatenate(Stream[] inputStream, HttpResponse response)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream[] | Streams 数组，其中包含要连接的文件。 |
+| inputStream | Stream[] | 包含要连接的文件的 Streams 数组。 |
 | response | HttpResponse | 响应对象/ |
 
 ### 返回值

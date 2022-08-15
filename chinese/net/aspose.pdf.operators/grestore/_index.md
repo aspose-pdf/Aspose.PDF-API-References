@@ -1,14 +1,14 @@
 ---
 title: GRestore
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 Q 运算符的类恢复图形状态
+description: 代表 Q 算子的类恢复图形状态
 type: docs
 weight: 5170
 url: /zh/net/aspose.pdf.operators/grestore/
 ---
 ## GRestore class
 
-表示 Q 运算符的类（恢复图形状态）。
+代表 Q 算子的类（恢复图形状态）。
 
 ```csharp
 public class GRestore : Operator

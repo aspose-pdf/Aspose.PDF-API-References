@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает внедренный файл по его индексу.
+description: Получить встроенный файл по его индексу.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/embeddedfilecollection/item/
 ---
 ## EmbeddedFileCollection indexer (1 of 2)
 
-Получает внедренный файл по его индексу.
+Получить встроенный файл по его индексу.
 
 ```csharp
 public FileSpecification this[int index] { get; }
@@ -20,7 +20,7 @@ public FileSpecification this[int index] { get; }
 
 ### Возвращаемое значение
 
-Получена спецификация встроенного файла
+Восстановленная спецификация встроенного файла
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public FileSpecification this[string name] { get; }
 
 ### Возвращаемое значение
 
-Полученная спецификация встроенного файла.
+Получена спецификация встроенного файла.
 
 ### Смотрите также
 

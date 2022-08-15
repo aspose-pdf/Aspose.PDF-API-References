@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразует состояние объекта в строковое значение. Пример1 FitH 100.
+description: Преобразует состояние объекта в строковое значение. Пример 1 FitH 100.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/fithexplicitdestination/tostring/
 ---
 ## FitHExplicitDestination.ToString method
 
-Преобразует состояние объекта в строковое значение. Пример:«1 FitH 100».
+Преобразует состояние объекта в строковое значение. Пример: "1 FitH 100".
 
 ```csharp
 public override string ToString()

@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.annotations/lightingschemetype/
 ---
 ## LightingSchemeType enumeration
 
-Enum LightingSchemeType:一组照明方案类型。
+Enum LightingSchemeType：一组照明方案类型。
 
 ```csharp
 public enum LightingSchemeType

@@ -1,14 +1,14 @@
 ---
 title: WebHyperlink
 second_title: Aspose.PDF for .NET API 参考
-description: 表示网络超链接对象
+description: 表示网页超链接对象
 type: docs
 weight: 7370
 url: /zh/net/aspose.pdf/webhyperlink/
 ---
 ## WebHyperlink class
 
-表示网络超链接对象。
+表示网页超链接对象。
 
 ```csharp
 public sealed class WebHyperlink : Hyperlink
@@ -18,8 +18,8 @@ public sealed class WebHyperlink : Hyperlink
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WebHyperlink](webhyperlink#constructor)() | 初始化[`WebHyperlink`](../webhyperlink)类的新实例。 |
-| [WebHyperlink](webhyperlink#constructor_1)(string) | 初始化[`WebHyperlink`](../webhyperlink)类的新实例。 |
+| [WebHyperlink](webhyperlink#constructor)() | 初始化[`WebHyperlink`](../webhyperlink)类. |
+| [WebHyperlink](webhyperlink#constructor_1)(string) | 初始化[`WebHyperlink`](../webhyperlink)类. |
 
 ## 特性
 

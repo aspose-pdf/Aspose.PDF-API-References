@@ -18,7 +18,7 @@ public sealed class FileFontSource : FontSource
 
 | Имя | Описание |
 | --- | --- |
-| [FileFontSource](filefontsource)(string) | Инициализирует новый экземпляр класса[`FileFontSource`](../filefontsource). |
+| [FileFontSource](filefontsource)(string) | Инициализирует новый экземпляр[`FileFontSource`](../filefontsource) класс. |
 
 ## Характеристики
 

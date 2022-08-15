@@ -18,7 +18,7 @@ public class SetCMYKColorStroke : SetColorOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetCMYKColorStroke](setcmykcolorstroke)(double, double, double, double) | 初始化运算符。 |
+| [SetCMYKColorStroke](setcmykcolorstroke)(double, double, double, double) | 初始化操作符。 |
 
 ## 特性
 

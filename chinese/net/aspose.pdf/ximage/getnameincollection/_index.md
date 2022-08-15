@@ -16,7 +16,7 @@ public string GetNameInCollection()
 
 ### 返回值
 
-图像密钥（名称）。
+图像键（名称）。
 
 ### 也可以看看
 

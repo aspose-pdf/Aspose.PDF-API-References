@@ -1,14 +1,14 @@
 ---
 title: CreateListElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建ListElementaspose.pdf.logicalstructure/listelement
+description: 创建ListElementaspose.pdf.logicalstructure/listelement.
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createlistelement/
 ---
 ## ITaggedContent.CreateListElement method
 
-创建[`ListElement`](../../../aspose.pdf.logicalstructure/listelement)。
+创建[`ListElement`](../../../aspose.pdf.logicalstructure/listelement).
 
 ```csharp
 public ListElement CreateListElement()
@@ -16,7 +16,7 @@ public ListElement CreateListElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

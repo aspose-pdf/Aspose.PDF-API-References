@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет указанный вид.
+description: Добавляет указанное представление.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/pdf3dviewarray/add/
 ---
 ## PDF3DViewArray.Add method
 
-Добавляет указанный вид.
+Добавляет указанное представление.
 
 ```csharp
 public void Add(PDF3DView view)
@@ -16,13 +16,13 @@ public void Add(PDF3DView view)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| view | PDF3DView | Представление. |
+| view | PDF3DView | Вид. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Разрешена только одна запись трехмерного вида |
+| ArgumentException | Допускается только одна запись 3D-вида |
 
 ### Смотрите также
 

@@ -24,8 +24,8 @@ public sealed class XfdfReader
 
 | Имя | Описание |
 | --- | --- |
-| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements)(XmlReader) | Анализирует файл XFDF и возвращает информацию в виде хеш-таблицы. |
-| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations)(Stream, Document) | Импортируйте аннотации из файла XFDF и поместите их в документ. |
+| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements)(XmlReader) | Разбирает файл XFDF и возвращает информацию в виде хеш-таблицы. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations)(Stream, Document) | Импортировать аннотации из файла XFDF и помещать их в документ. |
 | static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields)(Stream, Document) | Импорт значений полей из файла XFDF. |
 
 ### Примеры

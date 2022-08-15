@@ -23,7 +23,7 @@ public sealed class AppearanceDictionary : IDictionary<string, XForm>
 | [IsReadOnly](../../aspose.pdf.annotations/appearancedictionary/isreadonly) { get; } | Получает значение, указывающее, доступен ли словарь только для чтения. |
 | [IsSynchronized](../../aspose.pdf.annotations/appearancedictionary/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к словарю синхронизированным (потокобезопасным). |
 | [Item](../../aspose.pdf.annotations/appearancedictionary/item) { get; set; } | Представляет удобную форму для получения потоков внешнего вида. |
-| [Keys](../../aspose.pdf.annotations/appearancedictionary/keys) { get; } | Получает ключи словаря. Если словарь внешнего вида имеет подвиды, то[`Keys`](./keys)содержит (N&#x7C;R&#x7C;D).state значений, где N - нормальный внешний вид , R - вид ролловера, D - вид вниз и состояние - название состояния (например, On, Off для флажков). |
+| [Keys](../../aspose.pdf.annotations/appearancedictionary/keys) { get; } | Получает ключи словаря. Если словарь внешнего вида имеет подчиненные слова, то[`Keys`](./keys)содержит (N&#x7C;R&#x7C;D).state values, , где N — обычный вид, R — внешний вид при наведении курсора, D — внешний вид и состояние — название состояния (например, On, Off для флажков). |
 | [SyncRoot](../../aspose.pdf.annotations/appearancedictionary/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к словарю. |
 | [Values](../../aspose.pdf.annotations/appearancedictionary/values) { get; } | Получает список значений словаря. Коллекция результатов содержит список объектов XForm. |
 
@@ -31,7 +31,7 @@ public sealed class AppearanceDictionary : IDictionary<string, XForm>
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/appearancedictionary/add#add)(KeyValuePair&lt;string, XForm&gt;) | Добавляет в словарь пару с ключом и значением. |
+| [Add](../../aspose.pdf.annotations/appearancedictionary/add#add)(KeyValuePair&lt;string, XForm&gt;) | Добавляет пару с ключом и значением в словарь. |
 | [Add](../../aspose.pdf.annotations/appearancedictionary/add#add_2)(string, XForm) | Добавить форму X для указанного ключа. |
 | [Clear](../../aspose.pdf.annotations/appearancedictionary/clear)() | Удаляет все элементы из словаря. |
 | [Contains](../../aspose.pdf.annotations/appearancedictionary/contains)(KeyValuePair&lt;string, XForm&gt;) | Проверяет, содержится ли указанная пара ключ-значение в словаре. |
@@ -41,7 +41,7 @@ public sealed class AppearanceDictionary : IDictionary<string, XForm>
 | [GetEnumerator](../../aspose.pdf.annotations/appearancedictionary/getenumerator)() | Возвращает объект IDictionaryEnumerator для словаря. |
 | [Remove](../../aspose.pdf.annotations/appearancedictionary/remove#remove)(KeyValuePair&lt;string, XForm&gt;) | Удаляет пару ключ/значение из коллекции. |
 | [Remove](../../aspose.pdf.annotations/appearancedictionary/remove#remove_1)(string) | Удаляет ключ из словаря. |
-| [TryGetValue](../../aspose.pdf.annotations/appearancedictionary/trygetvalue)(string, out XForm) | Пытается найти ключ в словаре и возвращает значение, если оно найдено. |
+| [TryGetValue](../../aspose.pdf.annotations/appearancedictionary/trygetvalue)(string, out XForm) | Пытается найти ключ в словаре и извлекает значение, если оно найдено. |
 
 ### Смотрите также
 

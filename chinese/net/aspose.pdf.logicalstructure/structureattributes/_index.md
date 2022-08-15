@@ -25,7 +25,7 @@ public class StructureAttributes
 | 姓名 | 描述 |
 | --- | --- |
 | [GetAttribute](../../aspose.pdf.logicalstructure/structureattributes/getattribute)(AttributeKey) | 通过 AttributeKey 获取 StructureAttribute。 |
-| [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute)(StructureAttribute) | 将 StructureAttribute 设置为 StructureAttributes。 |
+| [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute)(StructureAttribute) | 将 StructureAttribute 设置为 StructureAttributes. |
 
 ### 也可以看看
 

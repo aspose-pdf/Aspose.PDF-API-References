@@ -1,14 +1,14 @@
 ---
 title: TrySetPrivilege
 second_title: Aspose.PDF for .NET API 参考
-description: 使用原始密码设置 Pdf 文件安全性 如果进程失败不抛出异常
+description: 使用原始密码设置 Pdf 文件安全性 如果处理失败则不抛出异常
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
 ## PdfFileSecurity.TrySetPrivilege method
 
-使用原始密码设置 Pdf 文件安全性。 如果进程失败不抛出异常。
+使用原始密码设置 Pdf 文件安全性。 如果处理失败，则不抛出异常。
 
 ```csharp
 public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -22,20 +22,20 @@ public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentP
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf";    //TestPath可能会被重新分配
-string outFile = "D:\\output.pdf";    //TestPath可能会被重新分配
+string inFile = "D:\\input.pdf"; //TestPath 可能会被重新分配。
+string outFile = "D:\\output.pdf"; //TestPath 可能会被重新分配。
 PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
 bool result = fileSecurity.TrySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
 
 [Visual Basic]
-Dim inFile As String =  "D:\\input.pdf"  'TestPath 可能会被重新分配。'
-Dim outFile As String =  "D:\\output.pdf"  'TestPath 可能会被重新分配。'
+Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
 Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
 Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```

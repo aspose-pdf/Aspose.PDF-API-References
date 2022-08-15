@@ -24,13 +24,13 @@ public class Metered
 
 | Имя | Описание |
 | --- | --- |
-| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey)(string, string) | Устанавливает измеренный открытый и закрытый ключ |
-| static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit)() | Получает кредит потребления |
+| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey)(string, string) | Устанавливает лимитированный открытый и закрытый ключ |
+| static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit)() | Получает потребительский кредит |
 | static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity)() | Получает размер файла потребления |
 
 ### Примеры
 
-В этом примере будет предпринята попытка установить дозированные открытый и закрытый ключ
+В этом примере будет предпринята попытка установить лимитированный открытый и закрытый ключ
 
 ```csharp
 [C#]

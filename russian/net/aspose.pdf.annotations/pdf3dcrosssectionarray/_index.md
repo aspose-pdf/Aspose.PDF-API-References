@@ -18,22 +18,22 @@ public class PDF3DCrossSectionArray
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DCrossSectionArray](pdf3dcrosssectionarray)(Document) | Инициализирует новый экземпляр класса[`PDF3DCrossSectionArray`](../pdf3dcrosssectionarray). |
+| [PDF3DCrossSectionArray](pdf3dcrosssectionarray)(Document) | Инициализирует новый экземпляр[`PDF3DCrossSectionArray`](../pdf3dcrosssectionarray) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count) { get; } | Получает количество поперечных сечений. |
-| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item) { get; set; } | Получает или задает[`PDF3DCrossSection`](../pdf3dcrosssection)по указанному индексу. |
+| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item) { get; set; } | Получает или задает[`PDF3DCrossSection`](../pdf3dcrosssection) по указанному индексу. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add)(PDF3DCrossSection) | Добавляет заданное сечение в массив представлений. |
+| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add)(PDF3DCrossSection) | Добавляет указанное сечение в массив видов . |
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall)() | Удаляет все сечения из массива. |
-| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat)(int) | Удаляет сечение из массива по указанному индексу. |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat)(int) | Удаляет поперечное сечение из массива по указанному индексу. |
 
 ### Смотрите также
 

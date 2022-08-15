@@ -1,14 +1,14 @@
 ---
 title: SplitFromFirst
 second_title: Aspose.PDF for .NET API 参考
-description: 将PDF文件从第一页拆分到指定位置并将前面部分保存为新文件
+description: 将PDF文件从第一页拆分到指定位置并将前面部分另存为新文件
 type: docs
 weight: 370
 url: /zh/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
 ## SplitFromFirst(string, int, string) {#splitfromfirst_2}
 
-将PDF文件从第一页拆分到指定位置，并将前面部分保存为新文件。
+将PDF文件从第一页拆分到指定位置，并将前面部分另存为新文件。
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, string outputFile)
@@ -16,13 +16,13 @@ public bool SplitFromFirst(string inputFile, int location, string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 源 Pdf 文件。 |
+| inputFile | String | 源 PDF 文件。 |
 | location | Int32 | 分裂点。 |
-| outputFile | String | 输出 Pdf 文件。 |
+| outputFile | String | 输出 PDF 文件。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 例子
 
@@ -55,11 +55,11 @@ public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-在此操作后流不会关闭。
+此操作后流不会关闭。
 
 ### 例子
 
@@ -80,7 +80,7 @@ pfe.SplitFromFirst(sourceStream, 5, outStream);
 
 ## SplitFromFirst(string, int, HttpResponse) {#splitfromfirst_3}
 
-将文档从第一页拆分到位置并将结果保存到 HttpResponse 对象中。
+将文档从第一页拆分到某个位置，并将结果保存到 HttpResponse 对象中。
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, HttpResponse response)
@@ -89,7 +89,7 @@ public bool SplitFromFirst(string inputFile, int location, HttpResponse response
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 源文件名。 |
-| location | Int32 | 分割点。 |
+| location | Int32 | 分裂点。 |
 | response | HttpResponse | HttpResponse 对象。 |
 
 ### 返回值
@@ -106,7 +106,7 @@ public bool SplitFromFirst(string inputFile, int location, HttpResponse response
 
 ## SplitFromFirst(Stream, int, HttpResponse) {#splitfromfirst_1}
 
-将文档从开始拆分到指定位置并将结果存储到 HttpResponse 对象中。
+将文档从开始拆分到指定位置，并将结果存储到 HttpResponse 对象中。
 
 ```csharp
 public bool SplitFromFirst(Stream inputStream, int location, HttpResponse response)
@@ -116,7 +116,7 @@ public bool SplitFromFirst(Stream inputStream, int location, HttpResponse respon
 | --- | --- | --- |
 | inputStream | Stream | 源文档流。 |
 | location | Int32 | 分裂点。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 

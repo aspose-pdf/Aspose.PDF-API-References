@@ -16,7 +16,7 @@ public Artifact(string type, string subType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| type | String | 名称神器类型。 |
+| type | String | 工件类型的名称。 |
 | subType | String | 工件子类型的名称。 |
 
 ### 也可以看看
@@ -37,7 +37,7 @@ public Artifact(ArtifactType type, ArtifactSubtype subType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| type | ArtifactType | 工件类型. |
+| type | ArtifactType | 工件类型。 |
 | subType | ArtifactSubtype | 工件子类型。 |
 
 ### 也可以看看

@@ -25,13 +25,13 @@ public class BMC : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Tag](../../aspose.pdf.operators/bmc/tag) { get; set; } | Получает или устанавливает тег отмеченного содержимого |
+| [Tag](../../aspose.pdf.operators/bmc/tag) { get; set; } | Получает или задает отмеченный тег содержимого |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bmc/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/bmc/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/bmc/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

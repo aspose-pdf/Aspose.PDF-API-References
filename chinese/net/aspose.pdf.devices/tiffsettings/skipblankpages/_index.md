@@ -16,11 +16,11 @@ public bool SkipBlankPages { get; set; }
 
 ### 适当的价值
 
-` true` 如果需要跳过空白页；否则，` false` 。
+`真的`如果需要跳过空白页；否则，`错误的`.
 
 ### 评论
 
-默认值为假
+默认值为 false
 
 ### 也可以看看
 

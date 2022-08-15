@@ -17,7 +17,7 @@ public void Insert(int index, NumberFormat value)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс, куда будет добавлен новый элемент. |
-| value | NumberFormat | Значение для вставки. |
+| value | NumberFormat | Вставляемое значение. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: CreateTR
 second_title: Aspose.PDF для справочника API .NET
-description: СоздаетTableTRElementaspose.pdf.logicalstructure/tabletrelementи добавляет его в текущую таблицу.
+description: СоздаетTableTRElementaspose.pdf.logicalstructure/tabletrelement и добавил его в текущую таблицу.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
 ## TableRowCollectionElement.CreateTR method
 
-Создает[`TableTRElement`](../../tabletrelement)и добавляет его в текущую таблицу.
+Создает[`TableTRElement`](../../tabletrelement) и добавил его в текущую таблицу.
 
 ```csharp
 public virtual TableTRElement CreateTR()
@@ -16,7 +16,7 @@ public virtual TableTRElement CreateTR()
 
 ### Возвращаемое значение
 
-Создан элемент структуры.
+Созданный элемент структуры.
 
 ### Смотрите также
 

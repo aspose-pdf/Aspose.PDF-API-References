@@ -1,14 +1,14 @@
 ---
 title: Start
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает начальную точку.
+description: Получает или задает начальную точку.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.drawing/gradientaxialshading/start/
 ---
 ## GradientAxialShading.Start property
 
-Получает или устанавливает начальную точку.
+Получает или задает начальную точку.
 
 ```csharp
 public Point Start { get; set; }

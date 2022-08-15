@@ -1,14 +1,14 @@
 ---
 title: CreateMissingField
 second_title: Aspose.PDF для справочника API .NET
-description: ConvertToDataTable создаст необходимое поле если его нет в таблице.
+description: ConvertToDataTable создаст необходимое поле если оно не существует в таблице.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/formdataconverter/createmissingfield/
 ---
 ## FormDataConverter.CreateMissingField property
 
-ConvertToDataTable создаст необходимое поле, если его нет в таблице.
+ConvertToDataTable создаст необходимое поле, если оно не существует в таблице.
 
 ```csharp
 public bool CreateMissingField { get; set; }

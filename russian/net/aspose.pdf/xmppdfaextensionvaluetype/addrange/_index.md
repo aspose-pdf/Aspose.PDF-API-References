@@ -16,7 +16,7 @@ public void AddRange(XmpPdfAExtensionField[] fields)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fields | XmpPdfAExtensionField[] | Добавляемые поля. |
+| fields | XmpPdfAExtensionField[] | Поля для добавления. |
 
 ### Смотрите также
 

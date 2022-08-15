@@ -1,14 +1,14 @@
 ---
 title: ModifyAnnotationsAuthor
 second_title: Aspose.PDF для справочника API .NET
-description: Изменяет автора аннотаций в указанном диапазоне страниц.
+description: Изменяет автора аннотаций для указанного диапазона страниц.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 ---
 ## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
-Изменяет автора аннотаций в указанном диапазоне страниц.
+Изменяет автора аннотаций для указанного диапазона страниц.
 
 ```csharp
 public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string desAuthor)
@@ -17,8 +17,8 @@ public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | start | Int32 | Номер начальной страницы. |
-| end | Int32 | Номер конечной страницы. |
-| srcAuthor | String | Автор, которого необходимо изменить. |
+| end | Int32 | Конечный номер страницы. |
+| srcAuthor | String | Автор, который должен быть изменен. |
 | desAuthor | String | Новый автор. |
 
 ### Примеры

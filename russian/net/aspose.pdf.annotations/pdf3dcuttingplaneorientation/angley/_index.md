@@ -1,14 +1,14 @@
 ---
 title: AngleY
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает угол по оси Y.
+description: Получает или задает угол оси Y.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/
 ---
 ## PDF3DCuttingPlaneOrientation.AngleY property
 
-Получает или задает угол по оси Y.
+Получает или задает угол оси Y.
 
 ```csharp
 public double? AngleY { get; set; }

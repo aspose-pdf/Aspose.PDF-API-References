@@ -18,21 +18,21 @@ public enum FontStyle
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Courier | `0` | Шрифт Courier. |
-| CourierBold | `1` | Жирный шрифт Courier. |
-| CourierOblique | `2` | Наклонный шрифт Curier. |
+| Courier | `0` | Курьерский шрифт. |
+| CourierBold | `1` | Шрифт Bold Courier. |
+| CourierOblique | `2` | Шрифт Oblique Curier. |
 | CourierBoldOblique | `3` | Жирный наклонный шрифт Courier. |
 | Helvetica | `4` | Шрифт Helvetica. |
-| HelveticaBold | `5` | Жирный шрифт Helvetica. |
+| HelveticaBold | `5` | Полужирный шрифт Helvetica. |
 | HelveticaOblique | `6` | Наклонный шрифт Helvetica. |
 | HelveticaBoldOblique | `7` | Жирный наклонный шрифт Helvetica. |
 | Symbol | `8` | Символьный шрифт. |
 | TimesRoman | `9` | Шрифт Times-Roman. |
 | TimesBold | `10` | Шрифт Bold Times. |
-| TimesItalic | `11` | Курсив Times. |
+| TimesItalic | `11` | Шрифт Italic Times. |
 | TimesBoldItalic | `12` | Полужирный курсивный шрифт Times. |
 | ZapfDingbats | `13` | Шрифт ZapfDingbats. |
-| Unknown | `14` | Неизвестный шрифт. Будет использован стандартный шрифт. |
+| Unknown | `14` | Неизвестный шрифт. Будет использоваться стандартный шрифт. |
 | CjkFont | `15` | Шрифт True Type для поддержки CJK, по умолчанию используется шрифт MS PGothic. |
 
 ### Смотрите также

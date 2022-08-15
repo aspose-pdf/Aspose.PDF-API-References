@@ -1,14 +1,14 @@
 ---
 title: TextFragments
 second_title: Aspose.PDF for .NET API 参考
-description: 获取TextFragmentaspose.pdf.text/textfragment对象的集合这些对象描述单元格中包含的文本
+description: 获取集合TextFragmentaspose.pdf.text/textfragment描述 cell 中包含的文本的对象
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/absorbedcell/textfragments/
 ---
 ## AbsorbedCell.TextFragments property
 
-获取[`TextFragment`](../../textfragment)对象的集合，这些对象描述单元格中包含的文本
+获取集合[`TextFragment`](../../textfragment)描述 cell 中包含的文本的对象
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }

@@ -1,14 +1,14 @@
 ---
 title: PreferredCmapEncodingTable
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет подтаблицу которая будет использоваться в приоритете над подтаблицей mac10. Значение MacTable из перечисления CMapEncodingTableTypeaspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletypeв данном случае не имеет смысла.
+description: Определяет подтаблицу которая будет использоваться в приоритете над подтаблицей mac10. Значение MacTable из перечисления CMapEncodingTableTypeaspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype в данном случае не имеет смысла.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/
 ---
 ## PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable property
 
-Определяет подтаблицу, которая будет использоваться в приоритете над подтаблицей mac(1,0). Значение 'MacTable' из перечисления [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype)в данном случае не имеет смысла.
+Определяет подтаблицу, которая будет использоваться в приоритете над подтаблицей mac(1,0). Значение «MacTable» из перечисления [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) в данном случае не имеет смысла.
 
 ```csharp
 public CMapEncodingTableType PreferredCmapEncodingTable { get; set; }

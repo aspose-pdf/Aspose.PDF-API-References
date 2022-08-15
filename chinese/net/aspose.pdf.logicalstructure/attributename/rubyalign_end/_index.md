@@ -1,14 +1,14 @@
 ---
 title: RubyAlign_End
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 RubyAlignEnd - 内容应在行进方向的末端边缘对齐
+description: 属性 RubyAlign End - 内容应在行进方向的末端边缘对齐
 type: docs
 weight: 450
 url: /zh/net/aspose.pdf.logicalstructure/attributename/rubyalign_end/
 ---
 ## AttributeName.RubyAlign_End field
 
-属性 RubyAlign:End - 内容应在行进方向的末端边缘对齐。
+属性 RubyAlign: End - 内容应在行进方向的末端边缘对齐。
 
 ```csharp
 public static readonly AttributeName RubyAlign_End;

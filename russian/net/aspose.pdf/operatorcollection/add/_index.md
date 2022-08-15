@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет новый оператор в коллекцию.
+description: Добавляет в коллекцию нового оператора.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/operatorcollection/add/
 ---
 ## Add(Operator) {#add}
 
-Добавляет новый оператор в коллекцию.
+Добавляет в коллекцию нового оператора.
 
 ```csharp
 public override void Add(Operator op)
@@ -39,7 +39,7 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ## Add(Operator[]) {#add_1}
 
-Добавить операторы в конце операторов содержимого.
+Добавить операторы в конце содержимого operator.
 
 ```csharp
 public void Add(Operator[] ops)
@@ -70,7 +70,7 @@ oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q
 
 ## Add(ICollection&lt;Operator&gt;) {#add_2}
 
-Добавляет в коллекцию все операторы из другой коллекции.
+Добавляет в коллекцию всех операторов из другой коллекции.
 
 ```csharp
 public void Add(ICollection<Operator> ops)
@@ -82,7 +82,7 @@ public void Add(ICollection<Operator> ops)
 
 ### Примеры
 
-Пример демонстрирует, как добавить набор операторов к содержимому страницы.
+Пример демонстрирует, как добавить коллекцию операторов к содержимому страницы.
 
 ```csharp
 Document doc = new Document("input.pdf");

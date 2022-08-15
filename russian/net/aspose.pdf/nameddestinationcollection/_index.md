@@ -1,14 +1,14 @@
 ---
 title: NamedDestinationCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляет совокупность всех адресатов дерево имен отображающее строки имен на адресаты см. 12.3.2.3 Именованные адресаты и см. 7.7.4  Словарь имён в pdf-документе.
+description: Класс представляет собой набор всех адресатов дерево имен отображающее строки имен на адресаты см. 12.3.2.3 Именованные адресаты и см. 7.7.4 Словарь имен в документе pdf.
 type: docs
 weight: 4810
 url: /ru/net/aspose.pdf/nameddestinationcollection/
 ---
 ## NamedDestinationCollection class
 
-Класс представляет совокупность всех адресатов (дерево имен, отображающее строки имен на адресаты (см. 12.3.2.3, «Именованные адресаты») и (см. 7.7.4, « Словарь имён")) в pdf-документе.
+Класс представляет собой набор всех адресатов (дерево имен, отображающее строки имен на адресаты (см. 12.3.2.3, «Именованные адресаты») и (см. 7.7.4, «Словарь имен»)) в документе pdf.
 
 ```csharp
 public class NamedDestinationCollection : INamedDestinationCollection
@@ -18,8 +18,8 @@ public class NamedDestinationCollection : INamedDestinationCollection
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf/nameddestinationcollection/count) { get; } | Количество именованных адресатов. |
-| [Item](../../aspose.pdf/nameddestinationcollection/item) { get; set; } | Получает или устанавливает назначение по его имени. |
+| [Count](../../aspose.pdf/nameddestinationcollection/count) { get; } | Количество названных пунктов назначения. |
+| [Item](../../aspose.pdf/nameddestinationcollection/item) { get; set; } | Получает или устанавливает встречу по ее имени. |
 | [Names](../../aspose.pdf/nameddestinationcollection/names) { get; } | Список имен пунктов назначения. |
 
 ## Методы
@@ -27,7 +27,7 @@ public class NamedDestinationCollection : INamedDestinationCollection
 | Имя | Описание |
 | --- | --- |
 | [Add](../../aspose.pdf/nameddestinationcollection/add)(string, IAppointment) | Добавить новый именованный пункт назначения. |
-| [Remove](../../aspose.pdf/nameddestinationcollection/remove)(string) | Удалить именованный пункт назначения. |
+| [Remove](../../aspose.pdf/nameddestinationcollection/remove)(string) | Удалить указанное место назначения. |
 
 ### Смотрите также
 

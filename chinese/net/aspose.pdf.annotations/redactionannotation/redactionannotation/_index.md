@@ -29,7 +29,7 @@ public RedactionAnnotation(Document document)
 
 ## RedactionAnnotation(Page, Rectangle) {#constructor_1}
 
-RedactAnnotation 的构造函数。
+RedactAnnotation. 的构造函数
 
 ```csharp
 public RedactionAnnotation(Page page, Rectangle rect)
@@ -38,7 +38,7 @@ public RedactionAnnotation(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 将放置注释的页面。 |
-| rect | Rectangle | 页面上的注解位置。 |
+| rect | Rectangle | 页面上的注释位置。 |
 
 ### 也可以看看
 

@@ -18,10 +18,10 @@ public sealed class SanitizationException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [SanitizationException](sanitizationexception#constructor)() | Инициализирует новый экземпляр класса[`SanitizationException`](../sanitizationexception). |
-| [SanitizationException](sanitizationexception#constructor_1)(Exception) | Инициализирует новый экземпляр класса[`SanitizationException`](../sanitizationexception) с указанным сообщение об ошибке и ссылку на внутреннее исключение, которое является причиной этого исключения. |
-| [SanitizationException](sanitizationexception#constructor_2)(string) | Инициализирует новый экземпляр класса[`SanitizationException`](../sanitizationexception). |
-| [SanitizationException](sanitizationexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса[`SanitizationException`](../sanitizationexception) с указанным сообщение об ошибке и ссылку на внутреннее исключение, которое является причиной этого исключения. |
+| [SanitizationException](sanitizationexception#constructor)() | Инициализирует новый экземпляр[`SanitizationException`](../sanitizationexception) класс. |
+| [SanitizationException](sanitizationexception#constructor_1)(Exception) | Инициализирует новый экземпляр[`SanitizationException`](../sanitizationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [SanitizationException](sanitizationexception#constructor_2)(string) | Инициализирует новый экземпляр[`SanitizationException`](../sanitizationexception) класс. |
+| [SanitizationException](sanitizationexception#constructor_3)(string, Exception) | Инициализирует новый экземпляр[`SanitizationException`](../sanitizationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

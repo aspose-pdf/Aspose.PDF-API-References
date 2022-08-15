@@ -1,14 +1,14 @@
 ---
 title: ShowContactInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置联系信息可见性默认值真
+description: 获取/设置联系信息可见性默认值true.
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/
 ---
 ## SignatureCustomAppearance.ShowContactInfo property
 
-获取/设置联系信息可见性。默认值:真。
+获取/设置联系信息可见性。默认值：true.
 
 ```csharp
 public bool ShowContactInfo { get; set; }

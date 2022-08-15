@@ -18,8 +18,8 @@ public void CreatePopup(Rectangle rect, string contents, bool open, int page)
 | --- | --- | --- |
 | rect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | contents | String | 注释的内容。 |
-| open | Boolean | 指定弹出注释最初是否应打开显示的标志。 |
-| page | Int32 | 将创建注释的原始页数。 |
+| open | Boolean | 一个标志，指定弹出注释是否最初应打开显示。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 
 ### 例子
 

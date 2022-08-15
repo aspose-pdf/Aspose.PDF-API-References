@@ -1,14 +1,14 @@
 ---
 title: IsPdfaCompliant
 second_title: Aspose.PDF для справочника API .NET
-description: Получает документ совместимый с pdfa.
+description: Получает документ в формате pdfa.
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf/document/ispdfacompliant/
 ---
 ## Document.IsPdfaCompliant property
 
-Получает документ, совместимый с pdfa.
+Получает документ в формате pdfa.
 
 ```csharp
 public bool IsPdfaCompliant { get; }

@@ -1,14 +1,14 @@
 ---
 title: Layer
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаLayeraspose.pdf/layer.
+description: Инициализирует новый экземплярLayeraspose.pdf/layer класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/layer/layer/
 ---
 ## Layer constructor
 
-Инициализирует новый экземпляр класса[`Layer`](../../layer).
+Инициализирует новый экземпляр[`Layer`](../../layer) класс.
 
 ```csharp
 public Layer(string id, string name)

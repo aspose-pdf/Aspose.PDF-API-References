@@ -1,14 +1,14 @@
 ---
 title: Curve
 second_title: Aspose.PDF for .NET API 参考
-description: 表示贝塞尔曲线
+description: 代表贝塞尔曲线
 type: docs
 weight: 1950
 url: /zh/net/aspose.pdf.drawing/curve/
 ---
 ## Curve class
 
-表示贝塞尔曲线。
+代表贝塞尔曲线。
 
 ```csharp
 public sealed class Curve : Shape
@@ -18,15 +18,15 @@ public sealed class Curve : Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Curve](curve)(float[]) | 初始化[`Curve`](../curve)类的新实例。 |
+| [Curve](curve)(float[]) | 初始化[`Curve`](../curve)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)对象，表示图形信息，例如颜色， 线宽等 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)表示图形信息的对象，例如颜色， 线宽等 |
 | [PositionArray](../../aspose.pdf.drawing/curve/positionarray) { get; set; } | 获取或设置一个浮点位置数组。 |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置形状的文本 |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置 shape 的文本 |
 
 ### 也可以看看
 

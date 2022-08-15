@@ -1,14 +1,14 @@
 ---
 title: RowList
 second_title: Aspose.PDF for .NET API 参考
-description: 获取包含表行的只读 IList
+description: 获取包含 table 行的只读 IList
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/absorbedtable/rowlist/
 ---
 ## AbsorbedTable.RowList property
 
-获取包含表行的只读 IList
+获取包含 table 行的只读 IList
 
 ```csharp
 public IList<AbsorbedRow> RowList { get; }

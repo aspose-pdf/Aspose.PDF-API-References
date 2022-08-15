@@ -17,7 +17,7 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| sender | Object | 事件源。 |
+| sender | Object | 事件的来源。 |
 | queryPageSettingsEventArgs | QueryPageSettingsEventArgs | 包含事件数据的 QueryPageSettingsEventArgs。 |
 | currentPageInfo | PdfPrintPageInfo | 当前打印的页面信息。 |
 

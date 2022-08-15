@@ -1,14 +1,14 @@
 ---
 title: ReplyType
 second_title: Aspose.PDF для справочника API .NET
-description: Строка определяющая связь тип ответа между этой аннотацией и аннотацией указанной InReplyTo.
+description: Строка указывающая связь тип ответа между этой аннотацией и аннотацией указанной InReplyTo.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/markupannotation/replytype/
 ---
 ## MarkupAnnotation.ReplyType property
 
-Строка, определяющая связь ("тип ответа") между этой аннотацией и аннотацией, указанной InReplyTo.
+Строка, указывающая связь («тип ответа») между этой аннотацией и аннотацией, указанной InReplyTo.
 
 ```csharp
 public ReplyType ReplyType { get; set; }

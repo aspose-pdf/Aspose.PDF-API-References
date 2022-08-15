@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.FontEncodingRules
 second_title: Aspose.PDF for .NET API 参考
-description: 此枚举定义了调整编码逻辑的规则
+description: 这个枚举定义了调整编码逻辑的规则
 type: docs
 weight: 3490
 url: /zh/net/aspose.pdf/htmlsaveoptions.fontencodingrules/
 ---
 ## HtmlSaveOptions.FontEncodingRules enumeration
 
-此枚举定义了调整编码逻辑的规则
+这个枚举定义了调整编码逻辑的规则
 
 ```csharp
 public enum FontEncodingRules : byte
@@ -18,8 +18,8 @@ public enum FontEncodingRules : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Default | `0` | 保持编码逻辑“原样” - 符合 PDF 规范 |
-| DecreaseToUnicodePriorityLevel | `1` | ToUnicode 是一种特殊机制，有助于将输入代码解码为 unicode 符号。 根据规范，首先必须使用机制来获取特定输入代码的 unicode 符号 。但是某些文档具有非标准字体，并且要正确转换这些 文档，可能需要降低 ToUnicode 优先级并使用另一个 机制来解码输入代码。 |
+| Default | `0` | 保留编码逻辑“原样” - 符合 PDF 规范 |
+| DecreaseToUnicodePriorityLevel | `1` | ToUnicode 是一种特殊机制，有助于将输入代码解码为 unicode 符号。 根据规范，必须首先使用它来获取特定输入代码的 unicode 符号 。但有些文档有非标准字体，要正确转换这些 文档，可能需要降低 ToUnicode 优先级并使用另一种 机制来解码输入代码。 |
 
 ### 也可以看看
 

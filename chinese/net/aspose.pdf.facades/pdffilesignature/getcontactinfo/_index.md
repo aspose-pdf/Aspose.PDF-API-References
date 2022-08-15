@@ -1,14 +1,14 @@
 ---
 title: GetContactInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 获取签名的联系信息
+description: 获取签名的联系方式
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.facades/pdffilesignature/getcontactinfo/
 ---
 ## PdfFileSignature.GetContactInfo method
 
-获取签名的联系信息。
+获取签名的联系方式
 
 ```csharp
 public string GetContactInfo(string signName)

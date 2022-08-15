@@ -18,9 +18,9 @@ public enum ColumnAdjustment
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Customized | `0` | Индивидуальные. |
+| Customized | `0` | Индивидуальный. |
 | AutoFitToContent | `1` | Автоподгонка к содержимому. |
-| AutoFitToWindow | `2` | Автоматически подходит к окну. |
+| AutoFitToWindow | `2` | Автоподгонка к окну. |
 
 ### Смотрите также
 

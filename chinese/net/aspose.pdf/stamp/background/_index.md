@@ -1,14 +1,14 @@
 ---
 title: Background
 second_title: Aspose.PDF for .NET API 参考
-description: 设置或获取一个布尔值指示内容被标记为背景 如果值为真则戳记内容放在底部 默认情况下值为false戳内容放在最上面
+description: 设置或获取一个布尔值表示内容被标记为背景 如果值为true则标记内容位于底部 默认为false则标记内容位于顶部
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/stamp/background/
 ---
 ## Stamp.Background property
 
-设置或获取一个布尔值，指示内容被标记为背景。 如果值为真，则戳记内容放在底部。 默认情况下，值为false，戳内容放在最上面。
+设置或获取一个布尔值，表示内容被标记为背景。 如果值为true，则标记内容位于底部。 默认为false，则标记内容位于顶部。
 
 ```csharp
 public bool Background { get; set; }

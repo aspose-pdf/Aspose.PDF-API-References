@@ -50,7 +50,7 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-Создает штамп страницы Pdf с указанной страницы в документе из потока.
+Создает штамп страницы Pdf из указанной страницы в документе из потока.
 
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
@@ -59,7 +59,7 @@ public PdfPageStamp(Stream stream, int pageIndex)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток, содержащий PDF |
-| pageIndex | Int32 | Индекс страница. |
+| pageIndex | Int32 | Индекс страницы. |
 
 ### Смотрите также
 

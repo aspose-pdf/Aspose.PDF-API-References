@@ -1,14 +1,14 @@
 ---
 title: Hard
 second_title: Aspose.PDF для справочника API .NET
-description: Жесткая схема освещения.
+description: Схема освещения Жесткая.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/hard/
 ---
 ## PDF3DLightingScheme.Hard field
 
-"Жесткая" схема освещения.
+Схема освещения "Жесткая".
 
 ```csharp
 public static PDF3DLightingScheme Hard;

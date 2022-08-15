@@ -16,9 +16,9 @@ public void Sign(Signature signature, Stream pfx, string pass)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signature | Signature | Объект подписи, см.[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7),[`PKCS7Detached`](../../pkcs7detached). |
+| signature | Signature | Объект подписи, см.[`PKCS1`](../../pkcs1) ,[`PKCS7`](../../pkcs7) ,[`PKCS7Detached`](../../pkcs7detached) . |
 | pfx | Stream | Поток с сертификатом. |
-| pass | String | Пароль для доступа в приват в*pfx*. |
+| pass | String | Пароль для доступа в приват в*pfx* . |
 
 ### Смотрите также
 
@@ -39,7 +39,7 @@ public void Sign(Signature signature)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signature | Signature | Объект подписи, см.[`PKCS1`](../../pkcs1),[`PKCS7`](../../pkcs7)и[`PKCS7Detached`](../../pkcs7detached). |
+| signature | Signature | Объект подписи, см.[`PKCS1`](../../pkcs1) ,[`PKCS7`](../../pkcs7) а также[`PKCS7Detached`](../../pkcs7detached). |
 
 ### Смотрите также
 

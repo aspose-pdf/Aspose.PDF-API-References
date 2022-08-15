@@ -1,14 +1,14 @@
 ---
 title: ResizeImages
 second_title: Aspose.PDF for .NET API 参考
-description: 如果此标志设置为 true 并且 CompressImages 为 true 如果图像分辨率大于指定的 MaxResolution 参数则图像将调整大小
+description: 如果此标志设置为 true 并且 CompressImages 为 true如果图像分辨率大于指定的 MaxResolution 参数图像将调整大小
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.optimization/imagecompressionoptions/resizeimages/
 ---
 ## ImageCompressionOptions.ResizeImages property
 
-如果此标志设置为 true 并且 CompressImages 为 true 如果图像分辨率大于指定的 MaxResolution 参数，则图像将调整大小。
+如果此标志设置为 true 并且 CompressImages 为 true，如果图像分辨率大于指定的 MaxResolution 参数，图像将调整大小。
 
 ```csharp
 public bool ResizeImages { get; set; }

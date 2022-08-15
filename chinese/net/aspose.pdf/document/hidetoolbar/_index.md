@@ -16,7 +16,7 @@ public bool HideToolBar { get; set; }
 
 ### 例子
 
-示例演示如何获取 HideToolBar 标志:
+示例演示如何获取 HideToolBar 标志：
 
 ```csharp
 Document document = new Document("sample.pdf");

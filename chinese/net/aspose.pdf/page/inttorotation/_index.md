@@ -1,14 +1,14 @@
 ---
 title: IntToRotation
 second_title: Aspose.PDF for .NET API 参考
-description: 将整数值转换为相应的旋转枚举成员
+description: 将整数值转换为对应的旋转枚举成员
 type: docs
 weight: 490
 url: /zh/net/aspose.pdf/page/inttorotation/
 ---
 ## Page.IntToRotation method
 
-将整数值转换为相应的旋转枚举成员。
+将整数值转换为对应的旋转枚举成员。
 
 ```csharp
 public static Rotation IntToRotation(int rotation)

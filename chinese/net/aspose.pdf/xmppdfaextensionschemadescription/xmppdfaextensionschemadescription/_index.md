@@ -18,7 +18,7 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 | --- | --- | --- |
 | prefix | String | 前缀。 |
 | namespaceURI | String | 命名空间 URI。 |
-| description | String | 可选描述。 |
+| description | String | 可选说明。 |
 
 ### 也可以看看
 

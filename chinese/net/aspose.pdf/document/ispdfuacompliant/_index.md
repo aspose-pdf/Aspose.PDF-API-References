@@ -1,14 +1,14 @@
 ---
 title: IsPdfUaCompliant
 second_title: Aspose.PDF for .NET API 参考
-description: 获取符合 pdfua 的 is 文档
+description: 获取符合 pdfua 的文档
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf/document/ispdfuacompliant/
 ---
 ## Document.IsPdfUaCompliant property
 
-获取符合 pdfua 的 is 文档。
+获取符合 pdfua 的文档。
 
 ```csharp
 public bool IsPdfUaCompliant { get; }

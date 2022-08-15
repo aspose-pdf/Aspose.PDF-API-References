@@ -1,14 +1,14 @@
 ---
 title: BlanchedAlmond
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFFEBCD.
+description: Получает определяемый системой цвет со значением ARGB FFFFEBCD.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/color/blanchedalmond/
 ---
 ## Color.BlanchedAlmond property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFFEBCD.
+Получает определяемый системой цвет со значением ARGB #FFFFEBCD.
 
 ```csharp
 public static Color BlanchedAlmond { get; }

@@ -1,14 +1,14 @@
 ---
 title: TextExtractionOptions.TextFormattingMode
 second_title: Aspose.PDF for .NET API 参考
-description: 定义将pdf文档转换为文本时可以使用的不同模式请参见TextDevice类
+description: 定义将 pdf 文档转换为文本时可以使用的不同模式看TextDevice类.
 type: docs
 weight: 7060
 url: /zh/net/aspose.pdf.text/textextractionoptions.textformattingmode/
 ---
 ## TextExtractionOptions.TextFormattingMode enumeration
 
-定义将pdf文档转换为文本时可以使用的不同模式。请参见!:TextDevice类。
+定义将 pdf 文档转换为文本时可以使用的不同模式。看!:TextDevice类.
 
 ```csharp
 public enum TextFormattingMode
@@ -18,8 +18,8 @@ public enum TextFormattingMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Pure | `0` | 用一些格式化例程表示 pdf 内容。 |
-| Raw | `1` | 原样表示pdf内容，即不格式化。 |
+| Pure | `0` | 用一些格式化例程表示pdf内容。 |
+| Raw | `1` | 按原样表示pdf内容，即不格式化。 |
 | MemorySaving | `2` | 提取并节省内存。它与“原始”模式几乎相同，但运行速度稍快，使用的内存更少。 |
 
 ### 也可以看看

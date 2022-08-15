@@ -1,14 +1,14 @@
 ---
 title: TextDecorationType_Underline
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 TextDecorationTypeUnderline - 文本下方的一行
+description: 属性 TextDecorationType Underline - 文本下方的一行
 type: docs
 weight: 620
 url: /zh/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/
 ---
 ## AttributeName.TextDecorationType_Underline field
 
-属性 TextDecorationType:Underline - 文本下方的一行。
+属性 TextDecorationType: Underline - 文本下方的一行。
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Underline;

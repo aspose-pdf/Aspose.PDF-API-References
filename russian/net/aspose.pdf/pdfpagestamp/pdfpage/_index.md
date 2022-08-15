@@ -1,14 +1,14 @@
 ---
 title: PdfPage
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает страницу которая будет использоваться в качестве штампа.
+description: Получает или задает страницу которая будет использоваться в качестве штампа.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pdfpagestamp/pdfpage/
 ---
 ## PdfPageStamp.PdfPage property
 
-Получает или устанавливает страницу, которая будет использоваться в качестве штампа.
+Получает или задает страницу, которая будет использоваться в качестве штампа.
 
 ```csharp
 public Page PdfPage { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DateTimeFormat
 second_title: Aspose.PDF для справочника API .NET
-description: Получает/устанавливает формат даты и времени. Значение по умолчаниюгггг.ММ.дд ЧЧммсс.
+description: Получает/устанавливает формат даты и времени. Значение по умолчанию гггг.ММ.дд ЧЧммсс.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/datetimeformat/
 ---
 ## SignatureCustomAppearance.DateTimeFormat property
 
-Получает/устанавливает формат даты и времени. Значение по умолчанию:"гггг.ММ.дд ЧЧ:мм:сс".
+Получает/устанавливает формат даты и времени. Значение по умолчанию: "гггг.ММ.дд ЧЧ:мм:сс".
 
 ```csharp
 public string DateTimeFormat { get; set; }

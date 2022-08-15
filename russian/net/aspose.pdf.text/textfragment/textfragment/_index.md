@@ -1,14 +1,14 @@
 ---
 title: TextFragment
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаTextFragmentaspose.pdf.text/textfragment.
+description: Инициализирует новый экземплярTextFragmentaspose.pdf.text/textfragment объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textfragment/textfragment/
 ---
 ## TextFragment() {#constructor}
 
-Инициализирует новый экземпляр объекта[`TextFragment`](../../textfragment).
+Инициализирует новый экземпляр[`TextFragment`](../../textfragment) объект.
 
 ```csharp
 public TextFragment()
@@ -24,7 +24,7 @@ public TextFragment()
 
 ## TextFragment(TabStops) {#constructor_1}
 
-Инициализирует новый экземпляр объекта[`TextFragment`](../../textfragment)с предопределенным[`TabStops`](../../tabstops)позиции.
+Инициализирует новый экземпляр[`TextFragment`](../../textfragment) объект с предустановленным[`TabStops`](../../tabstops) позиции.
 
 ```csharp
 public TextFragment(TabStops tabStops)
@@ -32,7 +32,7 @@ public TextFragment(TabStops tabStops)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tabStops | TabStops | Позиции табуляции |
+| tabStops | TabStops | Позиции в таблице |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public TextFragment(TabStops tabStops)
 
 ## TextFragment(string) {#constructor_2}
 
-Создает[`TextFragment`](../../textfragment)объект с одним[`TextSegment`](../../textsegment)объект внутри. Задает текстовую строку внутри сегмента.
+Создает[`TextFragment`](../../textfragment) объект с одним[`TextSegment`](../../textsegment) объект внутри. Задает текстовую строку внутри сегмента.
 
 ```csharp
 public TextFragment(string text)
@@ -65,7 +65,7 @@ public TextFragment(string text)
 
 ## TextFragment(string, TabStops) {#constructor_3}
 
-Создает[`TextFragment`](../../textfragment)объект с одним[`TextSegment`](../../textsegment)объект внутри и предопределенные позиции[`TabStops`](../../tabstops).
+Создает[`TextFragment`](../../textfragment) объект с одним[`TextSegment`](../../textsegment) объект внутри и предопределенный[`TabStops`](../../tabstops) позиции.
 
 ```csharp
 public TextFragment(string text, TabStops tabStops)
@@ -74,7 +74,7 @@ public TextFragment(string text, TabStops tabStops)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | text | String | Текст фрагмента текста. |
-| tabStops | TabStops | Позиции табуляции |
+| tabStops | TabStops | Позиции в таблице |
 
 ### Смотрите также
 

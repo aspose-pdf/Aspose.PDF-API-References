@@ -1,14 +1,14 @@
 ---
 title: GetCatalogValue
 second_title: Aspose.PDF for .NET API 参考
-description: 从目录字典返回项目值
+description: 从目录字典中返回项目值
 type: docs
 weight: 610
 url: /zh/net/aspose.pdf/document/getcatalogvalue/
 ---
 ## Document.GetCatalogValue method
 
-从目录字典返回项目值。
+从目录字典中返回项目值。
 
 ```csharp
 public object GetCatalogValue(string key)
@@ -16,7 +16,7 @@ public object GetCatalogValue(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 项目的键。 |
+| key | String | 项目的关键。 |
 
 ### 返回值
 

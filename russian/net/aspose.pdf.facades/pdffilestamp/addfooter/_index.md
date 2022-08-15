@@ -17,7 +17,7 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и текстовые свойства. |
-| bottomMargin | Single | Поле вверху страницы. |
+| bottomMargin | Single | Поля вверху страницы. |
 
 ### Примеры
 
@@ -49,7 +49,7 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 | formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и текстовые свойства. |
 | bottomMargin | Single | Поле внизу страницы. |
 | leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поле в правой части страницы. |
+| rightMargin | Single | Поля в правой части страницы. |
 
 ### Примеры
 
@@ -77,7 +77,7 @@ public void AddFooter(string imageFile, float bottomMargin)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | String | Имя и путь к файлу изображения. |
+| imageFile | String | Имя файла изображения и путь. |
 | bottomMargin | Single | Поле внизу страницы. |
 
 ### Примеры
@@ -110,7 +110,7 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 | imageFile | String | Имя файла Iamge и путь. |
 | bottomMargin | Single | Поле внизу страницы. |
 | leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поле в правой части страницы. |
+| rightMargin | Single | Поля в правой части страницы. |
 
 ### Примеры
 
@@ -172,7 +172,7 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 | imageStream | Stream | Поток содержит данные изображения. |
 | bottomMargin | Single | Поле внизу страницы. |
 | leftMargin | Single | Поле в левой части страницы. |
-| rightMargin | Single | Поле в правой части страницы. |
+| rightMargin | Single | Поля в правой части страницы. |
 
 ### Примеры
 

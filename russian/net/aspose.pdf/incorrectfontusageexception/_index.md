@@ -18,9 +18,9 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 | Имя | Описание |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor)(Exception) | Инициализирует новый экземпляр класса[`IncorrectFontUsageException`](../incorrectfontusageexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor_1)(string) | Инициализирует новый экземпляр класса[`IncorrectFontUsageException`](../incorrectfontusageexception). |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`IncorrectFontUsageException`](../incorrectfontusageexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor)(Exception) | Инициализирует новый экземпляр[`IncorrectFontUsageException`](../incorrectfontusageexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor_1)(string) | Инициализирует новый экземпляр[`IncorrectFontUsageException`](../incorrectfontusageexception) класс. |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`IncorrectFontUsageException`](../incorrectfontusageexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

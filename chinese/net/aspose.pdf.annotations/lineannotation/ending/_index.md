@@ -1,14 +1,14 @@
 ---
 title: Ending
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置行结束点
+description: 获取或设置线的终点
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/lineannotation/ending/
 ---
 ## LineAnnotation.Ending property
 
-获取或设置行结束点。
+获取或设置线的终点。
 
 ```csharp
 public Point Ending { get; set; }

@@ -24,10 +24,10 @@ public class FlattenSettings
 
 | Имя | Описание |
 | --- | --- |
-| [ApplyRedactions](../../aspose.pdf.forms/flattensettings/applyredactions) { get; set; } | Если установлено значение true, будет применена аннотация редактирования |
-| [CallEvents](../../aspose.pdf.forms/flattensettings/callevents) { get; set; } | Если установлено, будут вызываться форматирование и другие события JavaScript. Верно по умолчанию. |
+| [ApplyRedactions](../../aspose.pdf.forms/flattensettings/applyredactions) { get; set; } | Если true, указанная редакция Будет применена аннотация редактуры |
+| [CallEvents](../../aspose.pdf.forms/flattensettings/callevents) { get; set; } | Если установлено, будут вызываться форматирование и другие события JavaScript. Истинно по умолчанию. |
 | [HideButtons](../../aspose.pdf.forms/flattensettings/hidebuttons) { get; set; } | Если установлено, кнопки будут удалены из сведенного документа. Ложь по умолчанию. |
-| [UpdateAppearances](../../aspose.pdf.forms/flattensettings/updateappearances) { get; set; } | Если установлено, все представления полей будут перегенерированы перед сведением. Эта опция может помочь, если поле неправильно сглажено. Этот параметр может снизить производительность. По умолчанию установлено значение false. |
+| [UpdateAppearances](../../aspose.pdf.forms/flattensettings/updateappearances) { get; set; } | Если установлено, все представления полей будут перегенерированы перед сведением. Эта опция может помочь, если поле неправильно сглажено. Эта опция может снизить производительность. По умолчанию установлено значение false. |
 
 ### Смотрите также
 

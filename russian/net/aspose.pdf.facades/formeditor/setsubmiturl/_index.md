@@ -16,12 +16,12 @@ public bool SetSubmitUrl(string fieldName, string url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя кнопки отправки. |
-| url | String | Полный URL. |
+| fieldName | String | Отправить название кнопки. |
+| url | String | Полный URL-адрес. |
 
 ### Возвращаемое значение
 
-true, если URL для кнопки был успешно установлен.
+true, если URL-адрес для кнопки был успешно установлен.
 
 ### Примеры
 

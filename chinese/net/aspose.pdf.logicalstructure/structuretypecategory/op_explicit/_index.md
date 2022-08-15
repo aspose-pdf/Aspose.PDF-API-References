@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF for .NET API 参考
-description: 执行从String到StructureTypeCategoryaspose.pdf.logicalstructure/structuretypecategory的显式转换.
+description: 执行显式转换String至StructureTypeCategoryaspose.pdf.logicalstructure/structuretypecategory.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.logicalstructure/structuretypecategory/op_explicit/
 ---
 ## StructureTypeCategory Explicit operator
 
-执行从String到[`StructureTypeCategory`](../../structuretypecategory)的显式转换.
+执行显式转换String至[`StructureTypeCategory`](../../structuretypecategory).
 
 ```csharp
 public static explicit operator StructureTypeCategory(string name)
@@ -16,7 +16,7 @@ public static explicit operator StructureTypeCategory(string name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 名称。 |
+| name | String | 名字。 |
 
 ### 返回值
 

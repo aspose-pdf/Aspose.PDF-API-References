@@ -24,7 +24,7 @@ public PdfFileSecurity()
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-Инициализирует новый[`PdfFileSecurity`](../../pdffilesecurity)объект на основе*document*.
+Инициализирует новый[`PdfFileSecurity`](../../pdffilesecurity) объект на базе*document* .
 
 ```csharp
 public PdfFileSecurity(Document document)
@@ -32,7 +32,7 @@ public PdfFileSecurity(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: TextBuilder
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTextBuilderaspose.pdf.text/textbuilderдля страницы Pdf.
+description: Инициализирует новый экземплярTextBuilderaspose.pdf.text/textbuilder класс для страницы PDF.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textbuilder/textbuilder/
 ---
 ## TextBuilder(Page) {#constructor}
 
-Инициализирует новый экземпляр класса[`TextBuilder`](../../textbuilder)для страницы Pdf.
+Инициализирует новый экземпляр[`TextBuilder`](../../textbuilder) класс для страницы PDF.
 
 ```csharp
 public TextBuilder(Page page)
@@ -20,7 +20,7 @@ public TextBuilder(Page page)
 
 ### Примечания
 
-TextBuilder позволяет добавлять текстовые объекты к страницам Pdf.
+TextBuilder позволяет добавлять текстовые объекты к страницам PDF.
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ TextBuilder позволяет добавлять текстовые объек�
 
 ## TextBuilder(Page, BaseOperatorCollection) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`TextBuilder`](../../textbuilder)для страницы Pdf.
+Инициализирует новый экземпляр[`TextBuilder`](../../textbuilder) класс для страницы PDF.
 
 ```csharp
 public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
@@ -42,11 +42,11 @@ public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Объект страницы. |
-| operatorCollection | BaseOperatorCollection | Коллекция операторов. |
+| operatorCollection | BaseOperatorCollection | Коллекция оператора. |
 
 ### Примечания
 
-TextBuilder позволяет добавлять текстовые объекты к страницам Pdf.
+TextBuilder позволяет добавлять текстовые объекты к страницам PDF.
 
 ### Смотрите также
 

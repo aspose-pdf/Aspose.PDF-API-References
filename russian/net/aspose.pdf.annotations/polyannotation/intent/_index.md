@@ -1,14 +1,14 @@
 ---
 title: Intent
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает назначение полигональной или полилинейной аннотации.
+description: Получает или задает назначение многоугольника или аннотации полилинии.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/polyannotation/intent/
 ---
 ## PolyAnnotation.Intent property
 
-Получает или задает назначение полигональной или полилинейной аннотации.
+Получает или задает назначение многоугольника или аннотации полилинии.
 
 ```csharp
 public PolyIntent Intent { get; set; }

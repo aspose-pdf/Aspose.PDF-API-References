@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/floatingbox/top/
 ---
 ## FloatingBox.Top property
 
-获取或设置桌面坐标。
+获取或设置桌面坐标
 
 ```csharp
 public double Top { get; set; }

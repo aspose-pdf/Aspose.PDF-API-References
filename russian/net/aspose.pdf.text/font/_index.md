@@ -19,11 +19,11 @@ public sealed class Font
 | Имя | Описание |
 | --- | --- |
 | [BaseFont](../../aspose.pdf.text/font/basefont) { get; } | Получает значение BaseFont объекта шрифта PDF. Также известен как название шрифта PostScript. |
-| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname) { get; } | Иногда шрифты PDF (обычно китайские/японские/корейские шрифты) могут иметь определенное имя шрифта. Это имя является значением свойства шрифта PDF "BaseFont" и иногда это свойство может быть представлено в шестнадцатеричной форме. Если прочитать это имя напрямую, то оно может быть представлено в нечитаемом виде. Для получения удобочитаемого вида необходимо расшифровать название шрифта по правилам, специфичным для этого шрифта. Это свойство возвращает декодированное имя шрифта, поэтому используйте его для случаев, когда вы встречаете с нечитаемым[`FontName`](./fontname). Если свойство[`FontName`](./fontname)имеет читаемую форму, то это свойство будет таким же, как [`FontName`](./fontname), поэтому вы можете использовать это свойство для любых случаев, когда вам нужно получить имя шрифта в читаемом виде. |
-| [FontName](../../aspose.pdf.text/font/fontname) { get; } | Получает имя шрифта объекта[`Font`](../font). |
+| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname) { get; } | Иногда шрифты PDF (обычно китайские/японские/корейские шрифты) могут иметь определенное имя шрифта. Это имя является значением свойства шрифта PDF "BaseFont", и иногда это свойство может быть представлено в шестнадцатеричной форме. Если прочитать это имя напрямую, оно может быть представлено в нечитаемом виде. Для получения удобочитаемого вида необходимо расшифровать название шрифта по правилам, специфичным для этого шрифта. Это свойство возвращает декодированное имя шрифта, поэтому используйте его для случаев, когда вы встречаете с нечитаемым[`FontName`](./fontname) . Если свойство[`FontName`](./fontname) имеет удобочитаемую форму, это свойство будет таким же, как [`FontName`](./fontname) , так что вы можете использовать это свойство для любых случаев, когда вам нужно получить имя шрифта в читаемом виде. |
+| [FontName](../../aspose.pdf.text/font/fontname) { get; } | Получает имя шрифта[`Font`](../font) объект. |
 | [FontOptions](../../aspose.pdf.text/font/fontoptions) { get; } | Полезные свойства для настройки поведения шрифта |
 | [IsAccessible](../../aspose.pdf.text/font/isaccessible) { get; } | Получает информацию о наличии (установленности) шрифта в системе. |
-| [IsEmbedded](../../aspose.pdf.text/font/isembedded) { get; set; } | Получает или задает значение, указывающее, внедрен ли шрифт. |
+| [IsEmbedded](../../aspose.pdf.text/font/isembedded) { get; set; } | Получает или задает значение, указывающее, встроен ли шрифт. |
 | [IsSubset](../../aspose.pdf.text/font/issubset) { get; set; } | Получает или задает значение, указывающее, является ли шрифт подмножеством. |
 
 ## Методы
@@ -36,28 +36,28 @@ public sealed class Font
 
 ### Примеры
 
-Пример демонстрирует, как искать текст на первой странице и изменять шрифт первого вхождения поиска.
+Пример демонстрирует, как выполнять поиск текста на первой странице и изменять шрифт первого вхождения поиска.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Создаем шрифт и помечаем его как embedded
-ont font = FontRepository.FindFont("Arial");
-ont.IsEmbedded = true;
+// Создаем шрифт и помечаем его для встраивания
+Font font = FontRepository.FindFont("Arial");
+font.IsEmbedded = true;
 
-// Изменить шрифт первого текста вхождения
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также

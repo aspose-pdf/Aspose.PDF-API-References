@@ -1,14 +1,14 @@
 ---
 title: IsTrivial
 second_title: Aspose.PDF для справочника API .NET
-description: Проверяет является ли прямоугольник тривиальным т.е. имеет нулевой размер и позицию.
+description: Проверяет является ли прямоугольник тривиальным т.е. имеет нулевой размер и положение.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/rectangle/istrivial/
 ---
 ## Rectangle.IsTrivial property
 
-Проверяет, является ли прямоугольник тривиальным, т.е. имеет нулевой размер и позицию.
+Проверяет, является ли прямоугольник тривиальным, т.е. имеет нулевой размер и положение.
 
 ```csharp
 public bool IsTrivial { get; }

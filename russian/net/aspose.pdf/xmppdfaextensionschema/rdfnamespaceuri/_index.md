@@ -1,14 +1,14 @@
 ---
 title: RdfNamespaceURI
 second_title: Aspose.PDF для справочника API .NET
-description: URI пространства имен rdf по умолчанию.
+description: Пространство имен rdf по умолчанию uri.
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/
 ---
 ## XmpPdfAExtensionSchema.RdfNamespaceURI field
 
-URI пространства имен rdf по умолчанию.
+Пространство имен rdf по умолчанию uri.
 
 ```csharp
 public const string RdfNamespaceURI;

@@ -1,14 +1,14 @@
 ---
 title: OpenStream
 second_title: Aspose.PDF for .NET API 参考
-description: 从input流初始化并返回新的 Document 实例
+description: 初始化并从input流.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-从*input*流初始化并返回新的 Document 实例。
+初始化并从*input*流.
 
 ```csharp
 public Document OpenStream(Stream input)
@@ -16,7 +16,7 @@ public Document OpenStream(Stream input)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 流与 pdf 文档。 |
+| input | Stream | 使用 pdf 文档进行流式传输。 |
 
 ### 返回值
 
@@ -33,7 +33,7 @@ public Document OpenStream(Stream input)
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-从*input*流初始化并返回新的 Document 实例。
+初始化并从*input*流.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
@@ -59,7 +59,7 @@ public Document OpenStream(Stream input, string password)
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-从*input*流初始化并返回新的 Document 实例。
+初始化并从*input*流.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
@@ -67,8 +67,8 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 流与 pdf 文档。 |
-| isManagedStream | Boolean | 如果设置为` true` 在退出前关闭内部流；否则，不是。 |
+| input | Stream | 使用 pdf 文档进行流式传输。 |
+| isManagedStream | Boolean | 如果设置为`真的`退出前关闭内部流；否则，不是。 |
 
 ### 返回值
 
@@ -85,7 +85,7 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-从*input*流初始化并返回新的 Document 实例。
+初始化并从*input*流.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
@@ -93,9 +93,9 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 流与 pdf 文档。 |
+| input | Stream | 使用 pdf 文档进行流式传输。 |
 | password | String | 用户或所有者密码。 |
-| isManagedStream | Boolean | 如果设置为` true` 在退出前关闭内部流；否则，不是。 |
+| isManagedStream | Boolean | 如果设置为`真的`退出前关闭内部流；否则，不是。 |
 
 ### 返回值
 
@@ -112,7 +112,7 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 ## OpenStream(Stream, LoadOptions) {#openstream_1}
 
-从流中打开并返回现有文档，提供必要的转换以获取 pdf 文档。
+打开并从流中返回现有文档，提供必要的转换以获取 pdf 文档。
 
 ```csharp
 public Document OpenStream(Stream input, LoadOptions options)
@@ -120,8 +120,8 @@ public Document OpenStream(Stream input, LoadOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| input | Stream | 输入流转换成pdf文档。 |
-| options | LoadOptions | 表示将*input*转换为 pdf 文档的属性。 |
+| input | Stream | 输入流转换成 pdf 文档。 |
+| options | LoadOptions | 表示用于转换的属性*input*成pdf文档. |
 
 ### 返回值
 

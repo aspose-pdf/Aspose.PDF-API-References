@@ -1,14 +1,14 @@
 ---
 title: SetSpacingMoveToNextLineShowText
 second_title: Aspose.PDF for .NET API 参考
-description: 表示  运算符的类设置单词和字符间距移动到下一行并显示文本
+description: 表示运算符的类设置单词和字符间距移动到下一行并显示文本
 type: docs
 weight: 5570
 url: /zh/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/
 ---
 ## SetSpacingMoveToNextLineShowText class
 
-表示 " 运算符的类（设置单词和字符间距，移动到下一行并显示文本）。
+表示“运算符的类（设置单词和字符间距，移动到下一行并显示文本）。
 
 ```csharp
 public class SetSpacingMoveToNextLineShowText : TextShowOperator
@@ -18,7 +18,7 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext)(double, double, string) | 初始化运算符。 |
+| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext)(double, double, string) | 初始化操作符。 |
 
 ## 特性
 

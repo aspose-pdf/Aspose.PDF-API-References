@@ -1,14 +1,14 @@
 ---
 title: HasCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 如果当前输入文件是包含 PDF 文件集合的组合文件则返回 true
+description: 如果当前输入文件是一个包含 PDF 文件集合的组合文件则返回 true
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/pdffileinfo/hascollection/
 ---
 ## PdfFileInfo.HasCollection property
 
-如果当前输入文件是包含 PDF 文件集合的“组合”文件，则返回 true。
+如果当前输入文件是一个包含 PDF 文件集合的“组合”文件，则返回 true。
 
 ```csharp
 public bool HasCollection { get; }

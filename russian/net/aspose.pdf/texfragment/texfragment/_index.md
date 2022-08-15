@@ -36,8 +36,8 @@ public TeXFragment(string text, bool removeIndents)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст фрагмента |
-| removeIndents | Boolean | Определяет, не следует ли делать отступы при наборе фрагмента LaTeX |
+| text | String | Фрагмент текста |
+| removeIndents | Boolean | Определяет, не делать ли отступы при наборе фрагмента LaTeX. |
 
 ### Смотрите также
 

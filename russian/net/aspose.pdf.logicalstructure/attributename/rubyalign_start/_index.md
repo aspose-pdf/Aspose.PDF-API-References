@@ -1,14 +1,14 @@
 ---
 title: RubyAlign_Start
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyAlignStart  содержимое должно быть выровнено по начальному краю в направлении встроенной последовательности.
+description: Атрибут RubyAlign Start  содержимое должно быть выровнено по начальному краю в направлении встроенной последовательности.
 type: docs
 weight: 470
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyalign_start/
 ---
 ## AttributeName.RubyAlign_Start field
 
-Атрибут RubyAlign:Start — содержимое должно быть выровнено по начальному краю в направлении встроенной последовательности.
+Атрибут RubyAlign: Start — содержимое должно быть выровнено по начальному краю в направлении встроенной последовательности.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Start;

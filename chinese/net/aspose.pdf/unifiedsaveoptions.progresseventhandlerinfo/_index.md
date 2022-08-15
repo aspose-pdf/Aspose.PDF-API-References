@@ -1,14 +1,14 @@
 ---
 title: UnifiedSaveOptions.ProgressEventHandlerInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示有关转换进度的信息 可用于外部应用程序以向最终用户显示转换进度
+description: 此类表示有关转换进度 的信息可在外部应用程序中用于向最终用户显示转换进度
 type: docs
 weight: 7300
 url: /zh/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo class
 
-此类表示有关转换进度的信息 可用于外部应用程序以向最终用户显示转换进度
+此类表示有关转换进度 的信息，可在外部应用程序中用于向最终用户显示转换进度
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -20,7 +20,7 @@ public class ProgressEventHandlerInfo
 | --- | --- |
 | [EventType](../../aspose.pdf/progresseventhandlerinfo/eventtype) | 发生的进度事件类型 |
 | [MaxValue](../../aspose.pdf/progresseventhandlerinfo/maxvalue) | 进度值的最大可能值 |
-| [Value](../../aspose.pdf/progresseventhandlerinfo/value) | 进度值的当前值 |
+| [Value](../../aspose.pdf/progresseventhandlerinfo/value) | 当前进度值 |
 
 ### 也可以看看
 

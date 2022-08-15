@@ -1,14 +1,14 @@
 ---
 title: Parent
 second_title: Aspose.PDF for .NET API 参考
-description: 获取注释父级
+description: 获取注解父级
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/widgetannotation/parent/
 ---
 ## WidgetAnnotation.Parent property
 
-获取注释父级。
+获取注解父级。
 
 ```csharp
 public Field Parent { get; }

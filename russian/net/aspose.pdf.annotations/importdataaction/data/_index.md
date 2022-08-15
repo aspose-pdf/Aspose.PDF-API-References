@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Aspose.PDF для справочника API .NET
-description: Файл FDF из которого импортируются данные.
+description: Файл FDF из которого нужно импортировать данные.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/importdataaction/data/
 ---
 ## ImportDataAction.Data property
 
-Файл FDF, из которого импортируются данные.
+Файл FDF, из которого нужно импортировать данные.
 
 ```csharp
 public FileSpecification Data { get; set; }

@@ -17,7 +17,7 @@ public void ConvertToStreams(Stream[] destStream, DataType destType)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | destStream | Stream[] | 将存储数据的流。 |
-| destType | DataType | 存储数据的类型。有效值为:XML、FDF、XFDF。 |
+| destType | DataType | 存储数据的类型。有效值为：XML、FDF、XFDF。 |
 
 ### 例子
 

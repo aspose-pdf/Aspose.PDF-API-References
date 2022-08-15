@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает тип содержимого. Возможные значенияАудио Видео.
+description: Получает или задает тип содержимого. Возможные значения Аудио Видео.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/richmediaannotation/type/
 ---
 ## RichMediaAnnotation.Type property
 
-Получает или задает тип содержимого. Возможные значения:Аудио, Видео.
+Получает или задает тип содержимого. Возможные значения: Аудио, Видео.
 
 ```csharp
 public ContentType Type { get; set; }

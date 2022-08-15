@@ -1,14 +1,14 @@
 ---
 title: Role_rb
 second_title: Aspose.PDF for .NET API 参考
-description: 属性角色rb - 单选按钮
+description: 属性作用rb - 单选按钮.
 type: docs
 weight: 410
 url: /zh/net/aspose.pdf.logicalstructure/attributename/role_rb/
 ---
 ## AttributeName.Role_rb field
 
-属性角色:rb - 单选按钮。
+属性作用：rb - 单选按钮.
 
 ```csharp
 public static readonly AttributeName Role_rb;

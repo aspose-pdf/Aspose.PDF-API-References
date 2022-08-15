@@ -1,14 +1,14 @@
 ---
 title: AddText
 second_title: Aspose.PDF for .NET API 参考
-description: 未实现
+description: 未实施
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdffilemend/addtext/
 ---
 ## AddText(FormattedText, int, float, float) {#addtext}
 
-未实现。
+未实施。
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY)
@@ -16,7 +16,7 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | FormattedText | FormattedText 对象。 |
+| text | FormattedText | 格式化文本对象。 |
 | pageNum | Int32 | 页码。 |
 | lowerLeftX | Single | 左下 X 坐标。 |
 | lowerLeftY | Single | 左下 Y 坐标。 |
@@ -36,7 +36,7 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 ## AddText(FormattedText, int, float, float, float, float) {#addtext_1}
 
-未实现。
+未实施。
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -45,12 +45,12 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | FormattedText | FormattedText 对象。 |
+| text | FormattedText | 格式化文本对象。 |
 | pageNum | Int32 | 页码。 |
 | lowerLeftX | Single | 左下 X 坐标。 |
 | lowerLeftY | Single | 左下 Y 坐标。 |
-| upperRightX | Single | 右上 X 坐标。 |
-| upperRightY | Single | 右上 Y 坐标。 |
+| upperRightX | Single | 右上角 X 坐标。 |
+| upperRightY | Single | 右上角 Y 坐标。 |
 
 ### 返回值
 
@@ -67,7 +67,7 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 ## AddText(FormattedText, int[], float, float, float, float) {#addtext_2}
 
-未实现。
+未实施。
 
 ```csharp
 public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -76,12 +76,12 @@ public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | FormattedText | FormattedText 对象。 |
+| text | FormattedText | 格式化文本对象。 |
 | pageNums | Int32[] | 页码数组。 |
 | lowerLeftX | Single | 左下 X 坐标。 |
 | lowerLeftY | Single | 左下 Y 坐标。 |
-| upperRightX | Single | 右上 X 坐标。 |
-| upperRightY | Single | 右上 Y 坐标。 |
+| upperRightX | Single | 右上角 X 坐标。 |
+| upperRightY | Single | 右上角 Y 坐标。 |
 
 ### 返回值
 

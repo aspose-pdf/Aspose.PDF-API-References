@@ -16,7 +16,7 @@ public void Remove(DefaultMetadataProperties key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Ключ удаляемого элемента. |
+| key | DefaultMetadataProperties | Ключ элемента, который будет удален. |
 
 ### Примеры
 
@@ -77,11 +77,11 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Пара ключ/значение для удаления. |
+| item | KeyValuePair`2 | Пара ключ/значение, которую нужно удалить. |
 
 ### Возвращаемое значение
 
-true, если пара найдена и удалена.
+true, если пара была найдена и удалена.
 
 ### Смотрите также
 

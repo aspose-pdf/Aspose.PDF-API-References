@@ -1,14 +1,14 @@
 ---
 title: Underline
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的下划线由TextFragmentaspose.pdf.text/textfragmentobject 表示
+description: 获取或设置文本的下划线由TextFragmentaspose.pdf.text/textfragmentobject
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.text/textstate/underline/
 ---
 ## TextState.Underline property
 
-获取或设置文本的下划线，由[`TextFragment`](../../textfragment)object 表示
+获取或设置文本的下划线，由[`TextFragment`](../../textfragment)object
 
 ```csharp
 public virtual bool Underline { get; set; }

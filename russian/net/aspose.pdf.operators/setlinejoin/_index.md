@@ -24,7 +24,7 @@ public class SetLineJoin : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinejoin/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setlinejoin/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

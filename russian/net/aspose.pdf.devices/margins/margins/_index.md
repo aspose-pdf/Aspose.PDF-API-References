@@ -1,14 +1,14 @@
 ---
 title: Margins
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаMarginsaspose.pdf.devices/margins .
+description: Инициализирует новый экземплярMarginsaspose.pdf.devices/margins класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/margins/margins/
 ---
 ## Margins(int, int, int, int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Margins`](../../margins) .
+Инициализирует новый экземпляр[`Margins`](../../margins) класс.
 
 ```csharp
 public Margins(int left, int right, int top, int bottom)
@@ -17,7 +17,7 @@ public Margins(int left, int right, int top, int bottom)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | left | Int32 | Левая координата. |
-| right | Int32 | Правая координата. |
+| right | Int32 | Правильная координата. |
 | top | Int32 | Верхняя координата. |
 | bottom | Int32 | Нижняя координата. |
 
@@ -31,7 +31,7 @@ public Margins(int left, int right, int top, int bottom)
 
 ## Margins() {#constructor}
 
-Инициализирует новый экземпляр класса[`Margins`](../../margins) .
+Инициализирует новый экземпляр[`Margins`](../../margins) класс.
 
 ```csharp
 public Margins()

@@ -1,14 +1,14 @@
 ---
 title: EffectIntensity
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置效果强度值的有效范围是 0..2
+description: 获取或设置效果强度值的有效范围是 0..2.
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/border/effectintensity/
 ---
 ## Border.EffectIntensity property
 
-获取或设置效果强度。值的有效范围是 [0..2]。
+获取或设置效果强度。值的有效范围是 [0..2].
 
 ```csharp
 public int EffectIntensity { get; set; }

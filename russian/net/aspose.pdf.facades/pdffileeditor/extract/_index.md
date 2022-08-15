@@ -1,14 +1,14 @@
 ---
 title: Extract
 second_title: Aspose.PDF для справочника API .NET
-description: Извлекает страницы из входного файла сохраняет как новый файл Pdf.
+description: Извлекает страницы из входного файла сохраняет как новый файл PDF.
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
 ## Extract(string, int, int, string) {#extract_3}
 
-Извлекает страницы из входного файла, сохраняет как новый файл Pdf.
+Извлекает страницы из входного файла, сохраняет как новый файл PDF.
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
@@ -16,14 +16,14 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите путь к файлу Pdf. |
-| startPage | Int32 | Номер начальной страницы. |
-| endPage | Int32 | Номер конечной страницы. |
-| outputFile | String | Путь к выходному файлу Pdf. |
+| inputFile | String | Введите путь к файлу PDF. |
+| startPage | Int32 | Номер стартовой страницы. |
+| endPage | Int32 | Конечный номер страницы. |
+| outputFile | String | Выходной путь к файлу Pdf. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -50,7 +50,7 @@ public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите путь к файлу. |
+| inputFile | String | Путь к входному файлу. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputFile | String | Путь к выходному файлу. |
 
@@ -75,7 +75,7 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ## Extract(Stream, int, int, Stream) {#extract}
 
-Извлекает страницы из входного файла, сохраняет как новый файл Pdf.
+Извлекает страницы из входного файла, сохраняет как новый файл PDF.
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
@@ -83,14 +83,14 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входного файла. |
-| startPage | Int32 | Номер начальной страницы. |
-| endPage | Int32 | Номер конечной страницы. |
-| outputStream | Stream | Выходной файл Pdf Поток. |
+| inputStream | Stream | Входной файл Поток. |
+| startPage | Int32 | Номер стартовой страницы. |
+| endPage | Int32 | Конечный номер страницы. |
+| outputStream | Stream | Выходной файл Pdf Stream. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -119,13 +119,13 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входного файла. |
+| inputStream | Stream | Входной файл Поток. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputStream | Stream | Выходной файловый поток. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -186,7 +186,7 @@ public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
 
 ### Возвращаемое значение
 
-true, если страницы были извлечены успешно.
+true, если страницы были успешно извлечены.
 
 ### Смотрите также
 

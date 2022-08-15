@@ -1,14 +1,27 @@
 ---
 title: CorruptedItems
 second_title: Aspose.PDF for .NET API 参考
-description: 执行串联时遇到的问题数组对于传递给 Concatenate 函数的每个损坏的文档都会创建新的 CorruptedItem 条目 仅当 CorruptedFileAction 为 ConcatenateIgnoringCorrupted 时才可以使用此属性  ltcodegt //连接文档并显示有关损坏文档的信息 PdfFileEditor pfe  new PdfFileEditor pfe.CorruptedFileAction  PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted if pfe.CorruptedItems.Length gt0  foreachPdfFileEditor.CorruptedItem item in pfe.CorruptedItems  Console.WriteLineitem.Index   reason  item.Exception   lt/codegt
+description: 执行串联时遇到的问题的数组对于传递给 Concatenate 的每个损坏的文档 函数都会创建新的 CorruptedItem 条目 只有在 CorruptedFileAction 为 ConcatenateIgnoringCorrupted 时才能使用此属性
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdffileeditor/corrupteditems/
 ---
 ## PdfFileEditor.CorruptedItems property
 
-执行串联时遇到的问题数组。对于传递给 Concatenate() 函数的每个损坏的文档，都会创建新的 CorruptedItem 条目。 仅当 CorruptedFileAction 为 ConcatenateIgnoringCorrupted 时才可以使用此属性。  &lt;code&gt; //连接文档并显示有关损坏文档的信息 PdfFileEditor pfe = new PdfFileEditor(); pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted; if (pfe.CorruptedItems.Length &gt;0) { foreach(PdfFileEditor.CorruptedItem item in pfe.CorruptedItems) { Console.WriteLine(item.Index + " reason:" + item.Exception); } } &lt;/code&gt;
+执行串联时遇到的问题的数组。对于传递给 Concatenate() 的每个损坏的文档， 函数都会创建新的 CorruptedItem 条目。 只有在 CorruptedFileAction 为 ConcatenateIgnoringCorrupted 时才能使用此属性。
+
+```csharp
+//连接文档并显示有关损坏文档的信息
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted;
+if (pfe.CorruptedItems.Length >0)
+{
+  foreach(PdfFileEditor.CorruptedItem item in pfe.CorruptedItems)
+  {
+     Console.WriteLine(item.Index + " reason: " + item.Exception);
+  }
+}
+```
 
 ```csharp
 public CorruptedItem[] CorruptedItems { get; }

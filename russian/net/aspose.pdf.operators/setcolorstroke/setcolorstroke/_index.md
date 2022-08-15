@@ -66,7 +66,7 @@ public SetColorStroke(double r, double g, double b)
 
 ## SetColorStroke(double[]) {#constructor_4}
 
-Конструктор, позволяющий задавать компоненты цвета.
+Конструктор, позволяющий задавать цвет компонентов.
 
 ```csharp
 public SetColorStroke(double[] color)
@@ -74,7 +74,7 @@ public SetColorStroke(double[] color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Double[] | Массив компонентов цвета. |
+| color | Double[] | Массив цветовых компонентов. |
 
 ### Смотрите также
 
@@ -94,7 +94,7 @@ public SetColorStroke(double c, double m, double y, double k)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| c | Double | голубой составная часть. |
+| c | Double | голубой компонент. |
 | m | Double | Пурпурный компонент. |
 | y | Double | Желтый компонент. |
 | k | Double | Черный компонент. |

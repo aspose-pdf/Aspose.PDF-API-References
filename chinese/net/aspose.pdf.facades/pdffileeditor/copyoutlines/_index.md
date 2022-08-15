@@ -1,14 +1,14 @@
 ---
 title: CopyOutlines
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则将复制轮廓
+description: 如果为 true则将复制轮廓
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
 ## PdfFileEditor.CopyOutlines property
 
-如果为真，则将复制轮廓。
+如果为 true，则将复制轮廓。
 
 ```csharp
 public bool CopyOutlines { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ImageEncoding
 second_title: Aspose.PDF for .NET API 参考
-description: 将使用的图像编码
+description: 将使用的图像编码器
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.optimization/optimizationoptions/imageencoding/
 ---
 ## OptimizationOptions.ImageEncoding property
 
-将使用的图像编码。
+将使用的图像编码器。
 
 ```csharp
 public ImageEncoding ImageEncoding { get; set; }

@@ -21,8 +21,8 @@ public enum XmpFieldType
 | Struct | `0` | 这个类型代表一个结构。 |
 | Array | `1` | 这个类型代表一个数组。 |
 | Property | `2` | 这个类型代表一个属性。 |
-| Packet | `3` | 这种类型代表一个数据包。 |
-| Unknown | `4` | 此字段表示未知类型。 |
+| Packet | `3` | 这个类型代表一个数据包。 |
+| Unknown | `4` | 该字段表示未知类型。 |
 
 ### 也可以看看
 

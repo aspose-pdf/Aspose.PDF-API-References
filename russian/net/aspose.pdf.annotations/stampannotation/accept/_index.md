@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF для справочника API .NET
-description: AceptsAnnotationSelectoraspose.pdf.annotations/annotationselectorпосетитель при просмотре коллекции аннотаций.
+description: ПринимаетAnnotationSelectoraspose.pdf.annotations/annotationselector посетитель при просмотре коллекции аннотаций.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/stampannotation/accept/
 ---
 ## StampAnnotation.Accept method
 
-Acepts[`AnnotationSelector`](../../annotationselector)посетитель при просмотре коллекции аннотаций.
+Принимает[`AnnotationSelector`](../../annotationselector) посетитель при просмотре коллекции аннотаций.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)

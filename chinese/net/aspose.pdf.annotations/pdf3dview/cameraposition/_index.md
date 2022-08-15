@@ -16,7 +16,7 @@ public Matrix3D CameraPosition { get; set; }
 
 ### 适当的价值
 
-视角的摄像机位置。
+视图的摄像机位置。
 
 ### 也可以看看
 

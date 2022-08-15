@@ -20,7 +20,7 @@ public enum ImageMergeMode
 | --- | --- | --- |
 | Vertical | `1` | 图像垂直合并。 |
 | Horizontal | `2` | 图像水平合并。 |
-| Center | `3` | 图像按中心对齐。 |
+| Center | `3` | 按中心对齐的图像。 |
 
 ### 也可以看看
 

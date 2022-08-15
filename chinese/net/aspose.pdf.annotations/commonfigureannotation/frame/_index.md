@@ -1,14 +1,14 @@
 ---
 title: Frame
 second_title: Aspose.PDF for .NET API 参考
-description: 描述两个矩形之间数值差异的矩形 注解的 Rect 条目和底层正方形或圆形的实际边界
+description: 描述两个矩形之间数值差异的矩形 标注的 Rect 条目和底层正方形或圆形的实际边界
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/commonfigureannotation/frame/
 ---
 ## CommonFigureAnnotation.Frame property
 
-描述两个矩形之间数值差异的矩形: 注解的 Rect 条目和底层正方形或圆形的实际边界。
+描述两个矩形之间数值差异的矩形： 标注的 Rect 条目和底层正方形或圆形的实际边界。
 
 ```csharp
 public Rectangle Frame { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Получает количество элементов объектаFontaspose.pdf.text/font фактически содержащихся в коллекции.
+description: Получает количествоFontaspose.pdf.text/font элементы объекта фактически содержащиеся в коллекции.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/fontsubstitutioncollection/count/
 ---
 ## FontSubstitutionCollection.Count property
 
-Получает количество элементов объекта[`Font`](../../font), фактически содержащихся в коллекции.
+Получает количество[`Font`](../../font) элементы объекта, фактически содержащиеся в коллекции.
 
 ```csharp
 public int Count { get; }

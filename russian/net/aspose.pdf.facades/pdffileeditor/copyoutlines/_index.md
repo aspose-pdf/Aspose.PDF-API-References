@@ -1,14 +1,14 @@
 ---
 title: CopyOutlines
 second_title: Aspose.PDF для справочника API .NET
-description: Если true то контуры будут скопированы.
+description: Если true контуры будут скопированы.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
 ## PdfFileEditor.CopyOutlines property
 
-Если true, то контуры будут скопированы.
+Если true, контуры будут скопированы.
 
 ```csharp
 public bool CopyOutlines { get; set; }

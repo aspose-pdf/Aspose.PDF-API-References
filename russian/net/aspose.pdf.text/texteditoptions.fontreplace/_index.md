@@ -1,14 +1,14 @@
 ---
 title: TextEditOptions.FontReplace
 second_title: Aspose.PDF для справочника API .NET
-description: Поведение замены шрифта.
+description: Поведение при замене шрифта.
 type: docs
 weight: 7000
 url: /ru/net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
 ## TextEditOptions.FontReplace enumeration
 
-Поведение замены шрифта.
+Поведение при замене шрифта.
 
 ```csharp
 public enum FontReplace

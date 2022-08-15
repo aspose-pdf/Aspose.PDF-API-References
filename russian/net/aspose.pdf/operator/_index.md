@@ -26,7 +26,7 @@ public abstract class Operator
 | --- | --- |
 | abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) | Принимает посетителя IOperatorSelector, который обеспечивает обработку операторов. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator)(Operator) | Определяет, является ли оператор оператором, отвечающим за вывод текста (Tj, TJ и т.д.) |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator)(Operator) | Определяет, является ли оператор оператором, отвечающим за вывод текста (Tj, TJ и т. д.) |
 
 ### Смотрите также
 

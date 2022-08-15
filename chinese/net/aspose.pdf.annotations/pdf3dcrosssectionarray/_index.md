@@ -1,14 +1,14 @@
 ---
 title: PDF3DCrossSectionArray
 second_title: Aspose.PDF for .NET API 参考
-description: PDF3DCrossSectionArray 类
+description: 类 PDF3DCrossSectionArray.
 type: docs
 weight: 810
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
 ## PDF3DCrossSectionArray class
 
-PDF3DCrossSectionArray 类。
+类 PDF3DCrossSectionArray.
 
 ```csharp
 public class PDF3DCrossSectionArray
@@ -18,20 +18,20 @@ public class PDF3DCrossSectionArray
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PDF3DCrossSectionArray](pdf3dcrosssectionarray)(Document) | 初始化[`PDF3DCrossSectionArray`](../pdf3dcrosssectionarray)类的新实例。 |
+| [PDF3DCrossSectionArray](pdf3dcrosssectionarray)(Document) | 初始化[`PDF3DCrossSectionArray`](../pdf3dcrosssectionarray)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count) { get; } | 获取横截面计数。 |
-| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item) { get; set; } | 获取或设置指定索引处的[`PDF3DCrossSection`](../pdf3dcrosssection)。 |
+| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item) { get; set; } | 获取或设置[`PDF3DCrossSection`](../pdf3dcrosssection)在指定的索引处。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add)(PDF3DCrossSection) | 将指定的横截面添加到视图数组。 |
+| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add)(PDF3DCrossSection) | 将指定的横截面添加到视图数组 . |
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall)() | 从数组中删除所有横截面。 |
 | [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat)(int) | 从指定索引处的数组中删除横截面。 |
 

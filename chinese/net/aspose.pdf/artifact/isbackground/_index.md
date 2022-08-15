@@ -1,14 +1,14 @@
 ---
 title: IsBackground
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真 工件放置在页面内容的后面
+description: 如果为真 工件被放置在页面内容的后面
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/artifact/isbackground/
 ---
 ## Artifact.IsBackground property
 
-如果为真 工件放置在页面内容的后面。
+如果为真 工件被放置在页面内容的后面。
 
 ```csharp
 public bool IsBackground { get; set; }

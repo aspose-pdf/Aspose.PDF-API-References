@@ -16,7 +16,7 @@ public Artifact(string type, string subType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Имя тип артефакта. |
+| type | String | Имя типа артефакта. |
 | subType | String | Имя подтипа артефакта. |
 
 ### Смотрите также
@@ -37,7 +37,7 @@ public Artifact(ArtifactType type, ArtifactSubtype subType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ArtifactType | Тип артефакта . |
+| type | ArtifactType | Тип артефакта. |
 | subType | ArtifactSubtype | Подтип артефакта. |
 
 ### Смотрите также

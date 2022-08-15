@@ -1,14 +1,14 @@
 ---
 title: FontName
 second_title: Aspose.PDF для справочника API .NET
-description: Получает имя шрифта объектаFontaspose.pdf.text/font.
+description: Получает имя шрифтаFontaspose.pdf.text/font объект.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/font/fontname/
 ---
 ## Font.FontName property
 
-Получает имя шрифта объекта[`Font`](../../font).
+Получает имя шрифта[`Font`](../../font) объект.
 
 ```csharp
 public string FontName { get; }
@@ -20,16 +20,16 @@ public string FontName { get; }
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
 // Просмотр имени шрифта первого вхождения текста
-onsole.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
+Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
 ```
 
 ### Смотрите также

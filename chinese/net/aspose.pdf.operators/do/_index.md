@@ -1,14 +1,14 @@
 ---
 title: Do
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 Do 运算符的类调用 XObject
+description: 表示 Do 运算符调用 XObject的类
 type: docs
 weight: 5060
 url: /zh/net/aspose.pdf.operators/do/
 ---
 ## Do class
 
-表示 Do 运算符的类（调用 XObject）。
+表示 Do 运算符（调用 XObject）的类。
 
 ```csharp
 public class Do : Operator
@@ -33,7 +33,7 @@ public class Do : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/do/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/do/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/do/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

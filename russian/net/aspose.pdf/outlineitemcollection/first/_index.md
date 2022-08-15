@@ -1,14 +1,14 @@
 ---
 title: First
 second_title: Aspose.PDF для справочника API .NET
-description: Получает элемент структуры представляющий первый элемент верхнего уровня в иерархии структуры.
+description: Получает элемент схемы представляющий первый элемент верхнего уровня в иерархии структуры.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/outlineitemcollection/first/
 ---
 ## OutlineItemCollection.First property
 
-Получает элемент структуры, представляющий первый элемент верхнего уровня в иерархии структуры.
+Получает элемент схемы, представляющий первый элемент верхнего уровня в иерархии структуры.
 
 ```csharp
 public OutlineItemCollection First { get; }

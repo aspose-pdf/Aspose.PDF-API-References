@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 获取操作符字符串表示
+description: 获取运算符字符串表示形式
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.operators/setdash/tostring/
 ---
 ## SetDash.ToString method
 
-获取操作符字符串表示。
+获取运算符字符串表示形式。
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-[x1 x2] yd，其中 x1 - 虚线长度，x2 - 间隙长度，y - 相位.
+[x1 x2] yd，其中 x1 - 短划线长度，x2 - 间隙长度，y - 相位。
 
 ### 也可以看看
 

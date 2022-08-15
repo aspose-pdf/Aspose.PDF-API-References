@@ -1,14 +1,14 @@
 ---
 title: FitHExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 创建本地显式目的地
+description: 创建本地显式目标
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/fithexplicitdestination/fithexplicitdestination/
 ---
 ## FitHExplicitDestination(Page, double) {#constructor_1}
 
-创建本地显式目的地。
+创建本地显式目标。
 
 ```csharp
 public FitHExplicitDestination(Page page, double top)
@@ -17,7 +17,7 @@ public FitHExplicitDestination(Page page, double top)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 目标页面对象。 |
-| top | Double | 位于窗口顶部边缘的垂直坐标顶部。 |
+| top | Double | 位于窗口顶部边缘的垂直坐标 top。 |
 
 ### 也可以看看
 
@@ -39,7 +39,7 @@ public FitHExplicitDestination(int pageNumber, double top)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumber | Int32 | 远程文档的目标页码。 |
-| top | Double | 位于窗口顶部边缘的垂直坐标顶部。 |
+| top | Double | 位于窗口顶部边缘的垂直坐标 top。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PosY
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置一个浮点值指示圆弧中心的 y 坐标
+description: 获取或设置一个浮点值表示圆弧中心的 y 坐标
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.drawing/arc/posy/
 ---
 ## Arc.PosY property
 
-获取或设置一个浮点值，指示圆弧中心的 y 坐标。
+获取或设置一个浮点值，表示圆弧中心的 y 坐标。
 
 ```csharp
 public double PosY { get; set; }

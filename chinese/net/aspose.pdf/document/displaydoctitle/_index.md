@@ -1,14 +1,14 @@
 ---
 title: DisplayDocTitle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指定文档的窗口标题栏是否应显示文档标题的标志
+description: 获取或设置标志指定文档的窗口标题栏是否应显示文档标题
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/document/displaydoctitle/
 ---
 ## Document.DisplayDocTitle property
 
-获取或设置指定文档的窗口标题栏是否应显示文档标题的标志。
+获取或设置标志，指定文档的窗口标题栏是否应显示文档标题。
 
 ```csharp
 public bool DisplayDocTitle { get; set; }
@@ -16,7 +16,7 @@ public bool DisplayDocTitle { get; set; }
 
 ### 例子
 
-示例演示如何获取 DisplayDocTitle 标志:
+示例演示如何获取 DisplayDocTitle 标志：
 
 ```csharp
 Document document = new Document("sample.pdf");

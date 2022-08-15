@@ -10,7 +10,7 @@ url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/bibentry/
 
 （参考书目条目）标识某些引用内容的外部来源的参考。它可能包含一个子标签（结构类型 Lbl）。
 
-虽然参考书目条目可能包括标识被引内容的作者、作品、出版商等的组成部分，但在此级别没有定义标准结构类型细节。
+尽管参考书目条目可能包括标识被引用内容的作者、作品、出版商等的组成部分，但在此详细级别上没有定义标准结构类型。
 
 ```csharp
 public static readonly StructureTypeStandard BibEntry;

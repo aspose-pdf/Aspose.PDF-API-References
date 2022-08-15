@@ -1,14 +1,14 @@
 ---
 title: BLSEs
 second_title: Aspose.PDF для справочника API .NET
-description: Структурные элементы блочного уровня BLSE описывают общий макет контента на странице продвигаясь в направлении блочного продвижения.
+description: Структурные элементы блочного уровня BLSE описывают общий макет контента на странице в направлении последовательности блоков.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/blses/
 ---
 ## StructureTypeCategory.BLSEs field
 
-Структурные элементы блочного уровня (BLSE) описывают общий макет контента на странице, продвигаясь в направлении блочного продвижения.
+Структурные элементы блочного уровня (BLSE) описывают общий макет контента на странице в направлении последовательности блоков.
 
 ```csharp
 public static readonly StructureTypeCategory BLSEs;

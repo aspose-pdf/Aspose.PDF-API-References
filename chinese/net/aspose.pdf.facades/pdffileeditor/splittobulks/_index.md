@@ -16,12 +16,12 @@ public MemoryStream[] SplitToBulks(string inputFile, int[][] numberOfPage)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 输入 PDF 文件。 |
+| inputFile | String | 输入PDF文件。 |
 | numberOfPage | Int32[][] | 包含双元素数组的数组，即文档的开始页和结束页。 |
 
 ### 返回值
 
-输出PDF流，每个流缓冲一个PDF文档。
+输出 PDF 流，每个流缓冲一个 PDF 文档。
 
 ### 也可以看看
 
@@ -46,7 +46,7 @@ public MemoryStream[] SplitToBulks(Stream inputStream, int[][] numberOfPage)
 
 ### 返回值
 
-输出PDF流，每个流缓冲一个PDF文档。
+输出 PDF 流，每个流缓冲一个 PDF 文档。
 
 ### 也可以看看
 

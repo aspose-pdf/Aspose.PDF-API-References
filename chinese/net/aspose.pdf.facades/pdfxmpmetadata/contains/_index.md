@@ -16,7 +16,7 @@ public bool Contains(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 将被检查的密钥。 |
+| key | String | 将被检查的键。 |
 
 ### 返回值
 
@@ -79,7 +79,7 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 ### 返回值
 
-如果找到此 pauir 则为真。
+如果这个 pauir 被发现，则为真。
 
 ### 也可以看看
 

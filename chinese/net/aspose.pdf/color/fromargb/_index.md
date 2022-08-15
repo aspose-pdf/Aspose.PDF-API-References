@@ -22,7 +22,7 @@ public static Color FromArgb(int r, int g, int b)
 
 ### 返回值
 
-颜色对象，每个分量值都在 [0..255] 范围内。
+每个分量值在 [0..255] 范围内的颜色对象。
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public static Color FromArgb(int a, int r, int g, int b)
 
 ### 返回值
 
-颜色对象，每个分量值都在 [0..255] 范围内。
+每个分量值在 [0..255] 范围内的颜色对象。
 
 ### 也可以看看
 

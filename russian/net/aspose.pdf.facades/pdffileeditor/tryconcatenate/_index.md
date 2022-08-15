@@ -26,7 +26,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate аналогичен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -54,7 +54,7 @@ public bool TryConcatenate(Document[] src, Document dest)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | src | Document[] | Массив исходных документов. |
-| dest | Document | Целевой документ. |
+| dest | Document | Документ назначения. |
 
 ### Возвращаемое значение
 
@@ -62,7 +62,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -92,7 +92,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -128,7 +128,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -150,7 +150,7 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ## TryConcatenate(string, string, string, string) {#tryconcatenate_5}
 
-Объединяет два документа Pdf в новый документ Pdf со страницами попеременно и заполняет пустые места пустыми страницами. например:document1 имеет 5 страниц:p1, p2, p3, p4, p5. document2 имеет 3 страницы:p1', p2', p3'. Слияние двух документов Pdf создаст результирующий документ со страницами:p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница.
+Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: документ1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf даст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница .
 
 ```csharp
 public bool TryConcatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -162,7 +162,7 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string bl
 | firstInputFile | String | Первый файл. |
 | secInputFile | String | Второй файл. |
 | blankPageFile | String | PDF-файл с пустой страницей. |
-| outputFile | String | Файл результатов. |
+| outputFile | String | Файл результата. |
 
 ### Возвращаемое значение
 
@@ -170,7 +170,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate , за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate аналогичен методу Concatenate , за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -189,7 +189,7 @@ bool result = pfe.TryConcatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf"
 
 ## TryConcatenate(Stream, Stream, Stream, Stream) {#tryconcatenate_1}
 
-Объединяет два документа Pdf в новый документ Pdf со страницами попеременно и заполняет пустые места пустыми страницами. например:document1 имеет 5 страниц:p1, p2, p3, p4, p5. document2 имеет 3 страницы:p1', p2', p3'. Слияние двух документов Pdf создаст результирующий документ со страницами:p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница.
+Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: документ1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf даст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница .
 
 ```csharp
 public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -198,10 +198,10 @@ public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Strea
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| firstInputStream | Stream | Первый поток Pdf. |
-| secInputStream | Stream | Второй поток Pdf. |
-| blankPageStream | Stream | Поток Pdf с пустой страницей |
-| outputStream | Stream | Выходной поток Pdf. |
+| firstInputStream | Stream | Первый Pdf-поток. |
+| secInputStream | Stream | Второй поток PDF. |
+| blankPageStream | Stream | Поток Pdf с пустой страницей. |
+| outputStream | Stream | Выходной поток PDF. |
 
 ### Возвращаемое значение
 
@@ -209,7 +209,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate , за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate аналогичен методу Concatenate , за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -249,7 +249,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate аналогичен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -261,7 +261,7 @@ true, если операция завершена успешно; в проти
 
 ## TryConcatenate(Stream[], HttpResponse) {#tryconcatenate_3}
 
-Объединяет файлы и сохраняет результат в объект HttpResponse.
+Объединяет файлы и сохраняет результат в объекте HttpResponse.
 
 ```csharp
 public bool TryConcatenate(Stream[] inputStream, HttpResponse response)
@@ -269,8 +269,8 @@ public bool TryConcatenate(Stream[] inputStream, HttpResponse response)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream[] | Массив потоков, содержащий файлы для конкатенации. |
-| response | HttpResponse | Response object/ |
+| inputStream | Stream[] | Массив потоков, содержащий файлы для объединения. |
+| response | HttpResponse | Объект ответа/ |
 
 ### Возвращаемое значение
 
@@ -278,7 +278,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryConcatenate подобен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение, если операция не удалась.
+Метод TryConcatenate аналогичен методу Concatenate, за исключением того, что метод TryConcatenate не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 

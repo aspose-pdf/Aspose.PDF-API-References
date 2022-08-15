@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Aspose.PDF for .NET API 参考
-description: 从 Pdf 文件头获取 Pdf 版本
+description: 从 Pdf 文件头获取一个版本的 Pdf
 type: docs
 weight: 490
 url: /zh/net/aspose.pdf/document/version/
 ---
 ## Document.Version property
 
-从 Pdf 文件头获取 Pdf 版本。
+从 Pdf 文件头获取一个版本的 Pdf。
 
 ```csharp
 public string Version { get; }

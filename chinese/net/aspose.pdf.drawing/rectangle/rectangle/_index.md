@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化Rectangleaspose.pdf.drawing/rectangle类的新实例
+description: 初始化Rectangleaspose.pdf.drawing/rectangle类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/rectangle/rectangle/
 ---
 ## Rectangle constructor
 
-初始化[`Rectangle`](../../rectangle)类的新实例。
+初始化[`Rectangle`](../../rectangle)类.
 
 ```csharp
 public Rectangle(float left, float bottom, float width, float height)

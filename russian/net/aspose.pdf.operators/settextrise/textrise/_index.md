@@ -1,14 +1,14 @@
 ---
 title: TextRise
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает увеличение текста.
+description: Получает или задает рост текста.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/settextrise/textrise/
 ---
 ## SetTextRise.TextRise property
 
-Получает или задает увеличение текста.
+Получает или задает рост текста.
 
 ```csharp
 public double TextRise { get; set; }

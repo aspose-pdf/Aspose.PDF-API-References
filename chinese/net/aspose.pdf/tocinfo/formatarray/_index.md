@@ -1,14 +1,14 @@
 ---
 title: FormatArray
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置目录格式数组
+description: 获取或设置目录的格式数组
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/tocinfo/formatarray/
 ---
 ## TocInfo.FormatArray property
 
-获取或设置目录格式数组。
+获取或设置目录的格式数组。
 
 ```csharp
 public LevelFormat[] FormatArray { get; set; }

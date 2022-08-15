@@ -1,14 +1,14 @@
 ---
 title: IsTextShowOperator
 second_title: Aspose.PDF for .NET API 参考
-description: 确定操作员是否是负责文本输出的操作员TjTJ 等
+description: 判断操作员是否是负责文本输出TjTJ等的操作员
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/operator/istextshowoperator/
 ---
 ## Operator.IsTextShowOperator method
 
-确定操作员是否是负责文本输出的操作员（Tj、TJ 等）
+判断操作员是否是负责文本输出（Tj、TJ等）的操作员
 
 ```csharp
 public static bool IsTextShowOperator(Operator op)
@@ -20,7 +20,7 @@ public static bool IsTextShowOperator(Operator op)
 
 ### 返回值
 
-如果这是文本输出运算符
+如果这是文本输出运算符，则为真
 
 ### 也可以看看
 

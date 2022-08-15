@@ -16,11 +16,11 @@ public bool HasNextPageText()
 
 ### 返回值
 
-可以获取更多文本与否，true is can，或false。
+能不能得到更多的文本，true is can，或者false。
 
 ### 例子
 
-该示例演示`HasNextPageText`文本提取场景中的属性使用。 &lt;code lang="VB.NET"&gt; Dim extractor As PdfExtractor = New PdfExtractor() extractor.BindPdf(TestPath + "Aspose.Pdf .Kit.Pdf") extractor.ExtractText(Encoding.Unicode) Dim 前缀 As String = TestPath + "Aspose.Pdf.Kit" Dim suffix As String = ".txt" Dim pageCount As Integer = 1 While extractor.HasNextPageText() extractor.GetNextPageText(prefix + pageCount + suffix ) pageCount = pageCount + 1 End While &lt;/code&gt;
+这个例子展示了`HasNextPageText`文本提取场景中的属性使用。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -34,6 +34,19 @@ while (extractor.HasNextPageText())
     extractor.GetNextPageText(prefix + pageCount + suffix);
     pageCount++;
 }
+```
+
+```csharp
+Dim extractor As PdfExtractor =  New PdfExtractor() 
+extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
+extractor.ExtractText(Encoding.Unicode)
+Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
+Dim suffix As String =  ".txt" 
+Dim pageCount As Integer =  1 
+While extractor.HasNextPageText()
+    extractor.GetNextPageText(prefix + pageCount + suffix)
+    pageCount = pageCount + 1
+End While
 ```
 
 ### 也可以看看

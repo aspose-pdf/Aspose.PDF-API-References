@@ -1,14 +1,14 @@
 ---
 title: Dash
 second_title: Aspose.PDF for .NET API 参考
-description: 表示线划线模式的类
+description: 类表示虚线模式
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf.annotations/dash/
 ---
 ## Dash class
 
-表示线划线模式的类。
+类表示虚线模式。
 
 ```csharp
 public sealed class Dash

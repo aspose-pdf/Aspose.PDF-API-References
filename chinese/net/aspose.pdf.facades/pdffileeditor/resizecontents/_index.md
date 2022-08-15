@@ -20,11 +20,11 @@ public bool ResizeContents(string source, string destination, int[] pages,
 | source | String | 源文档路径。 |
 | destination | String | 目标文档路径。 |
 | pages | Int32[] | 页面索引数组（页面索引从 1 开始）。 |
-| parameters | ContentsResizeParameters | 页面调整大小的参数。 |
+| parameters | ContentsResizeParameters | 页面大小调整参数。 |
 
 ### 返回值
 
-如果调整大小成功，则为真。
+如果调整大小成功，则为 true。
 
 ### 例子
 
@@ -33,16 +33,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //左边距=页面宽度的10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //新内容的宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
+    //新内容宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
     null,
-      //右边距是页面
-
+    //右边距是页面的10% 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //上边距 = 高度的 10%
+    //上边距 = 高度的 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //自动计算新内容高度（类似于宽度）
+    //自动计算新内容高度（类似于宽度）
     null,
-      //下边距为10%
+    //下边距为10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
@@ -67,7 +66,7 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| source | Document | 源文档。 |
+| source | Document | 源文件。 |
 | pages | Int32[] | 页面索引列表。 |
 | parameters | ContentsResizeParameters | 调整参数大小。 |
 
@@ -79,16 +78,15 @@ Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //左边距=页面宽度的10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //新内容的宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
+    //新内容宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
     null,
-      //右边距是页面
-
+    //右边距是页面的10% 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //上边距 = 高度的 10%
+    //上边距 = 高度的 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //自动计算新内容高度（类似于宽度）
+    //自动计算新内容高度（类似于宽度）
     null,
-      //下边距为10%
+    //下边距为10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
@@ -115,7 +113,7 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| source | Document | 源文档。 |
+| source | Document | 源文件。 |
 | parameters | ContentsResizeParameters | 调整参数大小。 |
 
 ### 例子
@@ -126,16 +124,15 @@ Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //左边距=页面宽度的10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //新内容的宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
+    //新内容宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
     null,
-      //右边距是页面
-
+    //右边距是页面的10% 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //上边距 = 高度的 10%
+    //上边距 = 高度的 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //自动计算新内容高度（类似于宽度）
+    //自动计算新内容高度（类似于宽度）
     null,
-      //下边距为10%
+    //下边距为10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, parameters);
@@ -163,7 +160,7 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| source | Stream | 流与源文档。 |
+| source | Stream | 使用源文档进行流式传输。 |
 | destination | Stream | 与目标文档一起流式传输。 |
 | pages | Int32[] | 页面索引数组。 |
 | parameters | ContentsResizeParameters | 调整参数大小。 |
@@ -181,16 +178,15 @@ Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
     //左边距=页面宽度的10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //新内容的宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
+    //新内容宽度自动计算为宽度 - 左边距 - 右边距 (100% - 10% - 10% = 80%)
     null,
-      //右边距是页面
-
+    //右边距是页面的10% 
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //上边距 = 高度的 10%
+    //上边距 = 高度的 10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-      //自动计算新内容高度（类似于宽度）
+    //自动计算新内容高度（类似于宽度）
     null,
-      //下边距为10%
+    //下边距为10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
@@ -208,7 +204,7 @@ dest.Close();
 
 ## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_2}
 
-调整文档页面内容的大小。 缩小页面内容并添加边距。 新的内容大小以默认空间单位指定。
+调整文档页面内容的大小。 缩小页面内容并添加边距。 以默认空间单位指定新的内容大小。
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -220,8 +216,8 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 | source | Stream | 包含源文档的流。 |
 | destination | Stream | 将保存结果文档的流。 |
 | pages | Int32[] | 页面索引数组。如果为 null，则将处理所有文档页面。 |
-| newWidth | Double | 以默认空间单位表示的页面内容的新宽度。 |
-| newHeight | Double | 以默认空间单位表示的页面内容的新高度。 |
+| newWidth | Double | 默认空间单位中页面内容的新宽度。 |
+| newHeight | Double | 默认空间单位中页面内容的新高度。 |
 
 ### 返回值
 
@@ -234,14 +230,13 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
-  //调整document
-
+//调整文档所有页面的大小
 null, 
-//新内容宽度= 200
+//新内容宽度 = 200
 200, 
-  //新内容高度= 300
+//新内容高度 = 300
 300);
-  // 页面的剩余区域为空
+// 页面的剩余区域为空
 ```
 
 ### 也可以看看
@@ -254,7 +249,7 @@ null,
 
 ## ResizeContents(string, string, int[], double, double) {#resizecontents_5}
 
-调整文档页面内容的大小。 缩小页面内容并添加边距。 新的内容大小以默认空间单位指定。
+调整文档页面内容的大小。 缩小页面内容并添加边距。 以默认空间单位指定新的内容大小。
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, double newWidth, 
@@ -264,28 +259,27 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | source | String | 源文档的路径。 |
-| destination | String | 保存结果文档的路径。 |
+| destination | String | 将保存结果文档的路径。 |
 | pages | Int32[] | 页面索引数组。如果为 null，则将处理所有文档页面。 |
-| newWidth | Double | 以默认空间单位表示的页面内容的新宽度。 |
-| newHeight | Double | 以默认空间单位表示的页面内容的新高度。 |
+| newWidth | Double | 默认空间单位中页面内容的新宽度。 |
+| newHeight | Double | 默认空间单位中页面内容的新高度。 |
 
 ### 返回值
 
-如果调整大小成功，则为真。
+如果调整大小成功，则为 true。
 
 ### 例子
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
-  //调整document
-
+//调整文档所有页面的大小
 null, 
-//新内容宽度= 200
+//新内容宽度 = 200
 200, 
-  //新内容高度= 300
+//新内容高度 = 300
 300);
-  // 页面的剩余区域为空
+// 页面的剩余区域为空
 ```
 
 ### 也可以看看

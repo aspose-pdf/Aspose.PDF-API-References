@@ -1,14 +1,14 @@
 ---
 title: TextProperties
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет свойства текста такие какразмер текста цвет стиль и т. д.
+description: Представляет свойства текста такие как размер текста цвет стиль и т. д.
 type: docs
 weight: 2760
 url: /ru/net/aspose.pdf.facades/textproperties/
 ---
 ## TextProperties class
 
-Представляет свойства текста, такие как:размер текста, цвет, стиль и т. д.
+Представляет свойства текста, такие как: размер текста, цвет, стиль и т. д.
 
 ```csharp
 public sealed class TextProperties
@@ -18,16 +18,16 @@ public sealed class TextProperties
 
 | Имя | Описание |
 | --- | --- |
-| [TextProperties](textproperties)(double) | Создает[`TextProperties`](../textproperties)объект для указанного размера текста |
+| [TextProperties](textproperties)(double) | Создает[`TextProperties`](../textproperties) объект для указанного текста size |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.pdf.facades/textproperties/color) { get; set; } | Получает или устанавливает цвет текста. |
-| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified) { get; } | Получает или задает значение, указывающее, указано ли свойство[`Color`](./color). |
-| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified) { get; } | Получает или задает значение, указывающее, указано ли свойство[`TextSize`](./textsize). |
-| [TextSize](../../aspose.pdf.facades/textproperties/textsize) { get; set; } | Получает или устанавливает размер текста. |
+| [Color](../../aspose.pdf.facades/textproperties/color) { get; set; } | Получает или задает цвет текста. |
+| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified) { get; } | Получает или задает значение, указывающее,[`Color`](./color) указано свойство. |
+| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified) { get; } | Получает или задает значение, указывающее,[`TextSize`](./textsize) указано свойство. |
+| [TextSize](../../aspose.pdf.facades/textproperties/textsize) { get; set; } | Получает или задает размер текста. |
 
 ### Смотрите также
 

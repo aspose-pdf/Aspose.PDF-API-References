@@ -1,14 +1,14 @@
 ---
 title: ImageStamp
 second_title: Aspose.PDF for .NET API 参考
-description: 重新表示图形标记
+description: 重新发送图形标记
 type: docs
 weight: 3790
 url: /zh/net/aspose.pdf/imagestamp/
 ---
 ## ImageStamp class
 
-重新表示图形标记。
+重新发送图形标记。
 
 ```csharp
 public sealed class ImageStamp : Stamp
@@ -18,42 +18,42 @@ public sealed class ImageStamp : Stamp
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageStamp](imagestamp#constructor)(Stream) | 初始化[`ImageStamp`](../imagestamp)类的新实例。 |
-| [ImageStamp](imagestamp#constructor_1)(string) | 在指定文件中按图像创建图像标记。 |
+| [ImageStamp](imagestamp#constructor)(Stream) | 初始化[`ImageStamp`](../imagestamp)类. |
+| [ImageStamp](imagestamp#constructor_1)(string) | 在指定文件中逐个创建图像标记。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Background](../../aspose.pdf/stamp/background) { get; set; } | 设置或获取一个布尔值，指示内容被标记为背景。 如果值为真，则戳记内容放在底部。 默认情况下，值为false，戳内容放在最上面。 |
+| [Background](../../aspose.pdf/stamp/background) { get; set; } | 设置或获取一个布尔值，表示内容被标记为背景。 如果值为true，则标记内容位于底部。 默认为false，则标记内容位于顶部。 |
 | [BottomMargin](../../aspose.pdf/stamp/bottommargin) { get; set; } | 获取或设置戳记的下边距。 |
 | [Height](../../aspose.pdf/imagestamp/height) { get; set; } | 获取或设置图像高度。设置此图像允许垂直缩放图像。 |
 | [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment) { get; set; } | 获取或设置页面上戳记的水平对齐方式。 |
 | [Image](../../aspose.pdf/imagestamp/image) { get; } | 获取用于冲压的图像流。 |
 | [LeftMargin](../../aspose.pdf/stamp/leftmargin) { get; set; } | 获取或设置戳记的左边距。 |
-| [Opacity](../../aspose.pdf/stamp/opacity) { get; set; } | 获取或设置一个值以指示戳记不透明度。该值从 0.0 到 1.0。 默认值为 1.0。 |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity) { get; set; } | 获取或设置一个值以指示印章轮廓不透明度。该值从 0.0 到 1.0。 默认值为 1.0。 |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth) { get; set; } | 获取或设置印章轮廓宽度的值。 默认值为 1.0。 |
+| [Opacity](../../aspose.pdf/stamp/opacity) { get; set; } | 获取或设置一个值以指示戳记不透明度。值从 0.0 到 1.0. 默认值为 1.0. |
+| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity) { get; set; } | 获取或设置一个值来指示印章轮廓的不透明度。值从 0.0 到 1.0. 默认值为 1.0. |
+| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth) { get; set; } | 获取或设置印章轮廓宽度的值。 默认值为1.0。 |
 | [Quality](../../aspose.pdf/imagestamp/quality) { get; set; } | 获取或设置图像戳记的质量百分比。有效值为 0..100%。 |
 | [RightMargin](../../aspose.pdf/stamp/rightmargin) { get; set; } | 获取或设置邮票的右边距。 |
-| [Rotate](../../aspose.pdf/stamp/rotate) { get; set; } | 根据[`Rotation`](../rotation)值设置或获取图章内容的旋转。 注意。此属性用于设置为 90 度（0、90、180、270 度）倍数的角度。 要设置任意角度，请使用 RotateAngle 属性。 如果 ArbitraryAngle 设置的角度不是 90 的倍数，则 Rotate 属性返回 Rotation.None。 |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle) { get; set; } | 获取或设置戳记的旋转角度，以度为单位。 此属性允许设置任意旋转角度。 |
-| [TopMargin](../../aspose.pdf/stamp/topmargin) { get; set; } | 获取或设置戳记的上边距。 |
+| [Rotate](../../aspose.pdf/stamp/rotate) { get; set; } | 设置或获取戳内容的旋转[`Rotation`](../rotation)values. 注意。此属性用于设置角度为 90 度（0、90、180、270 度）的倍数。 要设置任意角度，请使用 RotateAngle 属性。 如果 ArbitraryAngle 设置的角度不是 90 的倍数，则 Rotate 属性返回 Rotation.None. |
+| [RotateAngle](../../aspose.pdf/stamp/rotateangle) { get; set; } | 获取或设置邮票的旋转角度，以度为单位。 该属性允许设置任意旋转角度。 |
+| [TopMargin](../../aspose.pdf/stamp/topmargin) { get; set; } | 获取或设置邮票的上边距。 |
 | [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment) { get; set; } | 获取或设置页面上戳记的垂直对齐方式。 |
 | [Width](../../aspose.pdf/imagestamp/width) { get; set; } | 获取或设置图像宽度。将此属性设置为水平缩放图像。 |
-| [XIndent](../../aspose.pdf/stamp/xindent) { get; set; } | 水平印章坐标，从左边开始。 |
-| [YIndent](../../aspose.pdf/stamp/yindent) { get; set; } | 竖直戳坐标，从底部开始。 |
-| [Zoom](../../aspose.pdf/stamp/zoom) { get; set; } | 标记的缩放系数。允许缩放邮票。 请注意，一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放系数。 此属性的设置会更改 ZoomX 和 ZoomY 属性。 如果 ZoomX 和 ZoomY 不同，则 Zoom 属性返回 ZoomX 值。 |
-| [ZoomX](../../aspose.pdf/stamp/zoomx) { get; set; } | 标记的水平缩放系数。允许水平缩放邮票。 |
+| [XIndent](../../aspose.pdf/stamp/xindent) { get; set; } | 水平邮票坐标，从左边开始。 |
+| [YIndent](../../aspose.pdf/stamp/yindent) { get; set; } | 竖直印章坐标，从底部开始。 |
+| [Zoom](../../aspose.pdf/stamp/zoom) { get; set; } | 标记的缩放系数。允许缩放戳记。 请注意，一对属性 ZoomX 和 ZoomY 允许分别为每个轴设置缩放系数。 设置此属性会同时更改 ZoomX 和 ZoomY 属性。 如果 ZoomX 和 ZoomY 不同，则 Zoom 属性返回 ZoomX 值。 |
+| [ZoomX](../../aspose.pdf/stamp/zoomx) { get; set; } | 印章的水平缩放系数。允许水平缩放邮票。 |
 | [ZoomY](../../aspose.pdf/stamp/zoomy) { get; set; } | 印章的垂直缩放系数。允许垂直缩放邮票。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [getStampId](../../aspose.pdf/stamp/getstampid)() | 返回戳记 ID。 |
+| [getStampId](../../aspose.pdf/stamp/getstampid)() | 返回邮票 ID。 |
 | override [Put](../../aspose.pdf/imagestamp/put)(Page) | 在页面上添加图形标记。 |
-| [setStampId](../../aspose.pdf/stamp/setstampid)(int) | 设置标记 ID。 |
+| [setStampId](../../aspose.pdf/stamp/setstampid)(int) | 设置印章 ID. |
 
 ### 也可以看看
 

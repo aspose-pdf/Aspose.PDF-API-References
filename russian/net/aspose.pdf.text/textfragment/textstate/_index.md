@@ -1,14 +1,14 @@
 ---
 title: TextState
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает состояние текста для текста который представляет объектTextFragmentaspose.pdf.text/textfragment.
+description: Получает или задает состояние текста для текстаTextFragmentaspose.pdf.text/textfragment объект представляет.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.text/textfragment/textstate/
 ---
 ## TextFragment.TextState property
 
-Получает или задает состояние текста для текста, который представляет объект[`TextFragment`](../../textfragment).
+Получает или задает состояние текста для текста,[`TextFragment`](../../textfragment) объект представляет.
 
 ```csharp
 public TextFragmentState TextState { get; }
@@ -16,30 +16,30 @@ public TextFragmentState TextState { get; }
 
 ### Примечания
 
-Позволяет изменить следующие свойства текста: Шрифт FontSize FontStyle ForegroundColor BackgroundColor
+Позволяет изменить следующие свойства текста: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ### Примеры
 
-Пример демонстрирует, как изменить цвет текста и размер шрифта текста с помощью объекта`TextState`.
+Пример демонстрирует, как изменить цвет текста и размер шрифта текста с помощью`TextState` объект.
 
 ```csharp
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменяем цвет переднего плана первого текста вхождения
-bsorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
+// Изменяем цвет переднего плана первого вхождения текста
+absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
 
-// Изменить размер шрифта первого текста вхождения
-bsorber.TextFragments[1].TextState.FontSize = 15;
+// Изменяем размер шрифта первого вхождения текста
+absorber.TextFragments[1].TextState.FontSize = 15;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Смотрите также

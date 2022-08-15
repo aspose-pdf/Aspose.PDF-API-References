@@ -1,14 +1,14 @@
 ---
 title: BorderStyle_Dashed
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BorderStyleПунктирная  граница представляет собой серию коротких сегментов линии.
+description: Attribute BorderStyle Dashed  граница представляет собой серию коротких сегментов линии.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/
 ---
 ## AttributeName.BorderStyle_Dashed field
 
-Атрибут BorderStyle:Пунктирная — граница представляет собой серию коротких сегментов линии.
+Attribute BorderStyle: Dashed — граница представляет собой серию коротких сегментов линии.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dashed;

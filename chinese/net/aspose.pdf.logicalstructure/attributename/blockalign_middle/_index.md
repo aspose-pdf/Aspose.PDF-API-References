@@ -1,14 +1,14 @@
 ---
 title: BlockAlign_Middle
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 BlockAlignMiddle- 在表格单元格中居中的子级第一个孩子的分配矩形的前边缘与表格单元格的内容矩形的前边缘之间的距离应与最后一个孩子的分配矩形的后边缘之间的距离与表格单元的内容矩形的后边缘之间的距离相同
+description: 属性 BlockAlign Middle- 在表格单元格中居中的子级第一个孩子的分配矩形的前边缘与表格单元格的内容矩形的前边缘之间的距离应与最后一个孩子的分配矩形的后边缘之间的距离与表格单元的内容矩形的后边缘之间的距离相同
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.logicalstructure/attributename/blockalign_middle/
 ---
 ## AttributeName.BlockAlign_Middle field
 
-属性 BlockAlign:Middle- 在表格单元格中居中的子级。第一个孩子的分配矩形的前边缘与表格单元格的内容矩形的前边缘之间的距离应与最后一个孩子的分配矩形的后边缘之间的距离与表格单元的内容矩形的后边缘之间的距离相同。
+属性 BlockAlign: Middle- 在表格单元格中居中的子级。第一个孩子的分配矩形的前边缘与表格单元格的内容矩形的前边缘之间的距离应与最后一个孩子的分配矩形的后边缘之间的距离与表格单元的内容矩形的后边缘之间的距离相同。
 
 ```csharp
 public static readonly AttributeName BlockAlign_Middle;

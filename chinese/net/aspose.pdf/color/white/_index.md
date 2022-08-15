@@ -1,14 +1,14 @@
 ---
 title: White
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FFFFFFFF 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FFFFFFFF.
 type: docs
 weight: 1390
 url: /zh/net/aspose.pdf/color/white/
 ---
 ## Color.White property
 
-获取 ARGB 值为 #FFFFFFFF 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FFFFFFFF.
 
 ```csharp
 public static Color White { get; }
@@ -16,7 +16,7 @@ public static Color White { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

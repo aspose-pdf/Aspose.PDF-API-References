@@ -1,14 +1,14 @@
 ---
 title: B
 second_title: Aspose.PDF для справочника API .NET
-description: Получает красную составляющую цвета
+description: Получает красный компонент color
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/basicsetcoloroperator/b/
 ---
 ## BasicSetColorOperator.B property
 
-Получает красную составляющую цвета
+Получает красный компонент color
 
 ```csharp
 public double B { get; }

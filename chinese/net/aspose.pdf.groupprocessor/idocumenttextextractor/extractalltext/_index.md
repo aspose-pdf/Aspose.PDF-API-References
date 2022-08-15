@@ -1,14 +1,14 @@
 ---
 title: ExtractAllText
 second_title: Aspose.PDF for .NET API 参考
-description: 返回提取文本值的集合
+description: 返回提取的文本值的集合
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.groupprocessor/idocumenttextextractor/extractalltext/
 ---
 ## IDocumentTextExtractor.ExtractAllText method
 
-返回提取文本值的集合。
+返回提取的文本值的集合。
 
 ```csharp
 public string[] ExtractAllText()

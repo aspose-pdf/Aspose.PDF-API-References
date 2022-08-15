@@ -1,14 +1,14 @@
 ---
 title: H3
 second_title: Aspose.PDF for .NET API 参考
-description: 3 级标题用于不能分层嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器
+description: 3 级标题用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合格作者
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/h3/
 ---
 ## StructureTypeStandard.H3 field
 
-3 级标题，用于不能分层嵌套其部分并因此无法从其嵌套级别确定标题级别的一致性编写器。
+3 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合格作者。
 
 ```csharp
 public static readonly StructureTypeStandard H3;

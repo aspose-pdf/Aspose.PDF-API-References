@@ -1,14 +1,14 @@
 ---
 title: DetectColorType
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает цветовой тип изображения.
+description: Возвращает тип цвета изображения.
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/ximage/detectcolortype/
 ---
 ## XImage.DetectColorType method
 
-Возвращает цветовой тип изображения.
+Возвращает тип цвета изображения.
 
 ```csharp
 public static ColorType DetectColorType(Bitmap bmp)
@@ -20,7 +20,7 @@ public static ColorType DetectColorType(Bitmap bmp)
 
 ### Возвращаемое значение
 
-Цветотип.
+Цветовой тип.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: NoteLineStyle
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает стиль линии для заметок. только для генератора
+description: Получает или задает стиль линии для заметок. только для генератора
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/page/notelinestyle/
 ---
 ## Page.NoteLineStyle property
 
-Получает или устанавливает стиль линии для заметок. (только для генератора)
+Получает или задает стиль линии для заметок. (только для генератора)
 
 ```csharp
 public GraphInfo NoteLineStyle { get; set; }

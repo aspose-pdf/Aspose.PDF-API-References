@@ -1,14 +1,14 @@
 ---
 title: GetButtonOptionValues
 second_title: Aspose.PDF для справочника API .NET
-description: Получает поля параметров переключателя и связанные значения на основе имени поля. Этот метод имеет значение для групп переключателей.
+description: Получает поля опций переключателя и связанные значения на основе имени поля. Этот метод имеет значение для групп переключателей.
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
 ## Form.GetButtonOptionValues method
 
-Получает поля параметров переключателя и связанные значения на основе имени поля. Этот метод имеет значение для групп переключателей.
+Получает поля опций переключателя и связанные значения на основе имени поля. Этот метод имеет значение для групп переключателей.
 
 ```csharp
 public Dictionary<string, string> GetButtonOptionValues(string fieldName)
@@ -20,7 +20,7 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 
 ### Возвращаемое значение
 
-Хэш-таблица значений параметров с ключами имя элемента формы
+Хэш-таблица значений параметров с ключами по имени элемента формы
 
 ### Примеры
 

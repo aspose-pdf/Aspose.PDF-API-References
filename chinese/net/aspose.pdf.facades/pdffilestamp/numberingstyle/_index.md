@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/pdffilestamp/numberingstyle/
 ---
 ## PdfFileStamp.NumberingStyle property
 
-获取或设置页面编号样式。可能的值:NumeralsArabic、NumeralsRomanUppercase、NumeralsRomanLowercase、LettersAppercase、LettersLowercase
+获取或设置页面编号样式。可能的值：NumeralsArabic、NumeralsRomanUppercase、NumeralsRomanLowercase、LettersAppercase、LettersLowercase
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }

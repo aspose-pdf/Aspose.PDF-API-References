@@ -18,7 +18,7 @@ public sealed class IncorrectCMapUsageException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [IncorrectCMapUsageException](incorrectcmapusageexception)(string) | Инициализирует новый экземпляр класса[`IncorrectCMapUsageException`](../incorrectcmapusageexception). |
+| [IncorrectCMapUsageException](incorrectcmapusageexception)(string) | Инициализирует новый экземпляр[`IncorrectCMapUsageException`](../incorrectcmapusageexception) класс. |
 
 ### Смотрите также
 

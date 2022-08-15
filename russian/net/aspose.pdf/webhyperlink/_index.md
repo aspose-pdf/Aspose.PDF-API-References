@@ -18,8 +18,8 @@ public sealed class WebHyperlink : Hyperlink
 
 | Имя | Описание |
 | --- | --- |
-| [WebHyperlink](webhyperlink#constructor)() | Инициализирует новый экземпляр класса[`WebHyperlink`](../webhyperlink). |
-| [WebHyperlink](webhyperlink#constructor_1)(string) | Инициализирует новый экземпляр класса[`WebHyperlink`](../webhyperlink). |
+| [WebHyperlink](webhyperlink#constructor)() | Инициализирует новый экземпляр[`WebHyperlink`](../webhyperlink) класс. |
+| [WebHyperlink](webhyperlink#constructor_1)(string) | Инициализирует новый экземпляр[`WebHyperlink`](../webhyperlink) класс. |
 
 ## Характеристики
 

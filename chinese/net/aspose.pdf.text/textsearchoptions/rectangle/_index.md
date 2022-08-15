@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置边界搜索文本的矩形
+description: 获取或设置搜索文本边界的矩形
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textsearchoptions/rectangle/
 ---
 ## TextSearchOptions.Rectangle property
 
-获取或设置边界搜索文本的矩形。
+获取或设置搜索文本边界的矩形。
 
 ```csharp
 public Rectangle Rectangle { get; set; }
@@ -16,7 +16,7 @@ public Rectangle Rectangle { get; set; }
 
 ### 评论
 
-如果需要分隔文本提取或文本替换区域，则可以使用该属性。
+该属性可以在需要分隔文本提取或文本替换区域时使用。
 
 ### 也可以看看
 

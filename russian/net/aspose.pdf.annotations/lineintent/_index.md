@@ -1,14 +1,14 @@
 ---
 title: LineIntent
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисляет намерения аннотации строки.
+description: Перечисляет назначение аннотации строки.
 type: docs
 weight: 620
 url: /ru/net/aspose.pdf.annotations/lineintent/
 ---
 ## LineIntent enumeration
 
-Перечисляет намерения аннотации строки.
+Перечисляет назначение аннотации строки.
 
 ```csharp
 public enum LineIntent

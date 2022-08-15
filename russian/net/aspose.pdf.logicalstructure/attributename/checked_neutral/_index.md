@@ -1,14 +1,14 @@
 ---
 title: Checked_neutral
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут проверенНейтральный  состояние переключателя или поля флажка.
+description: Атрибут проверен нейтральное  состояние переключателя или поля флажка.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.logicalstructure/attributename/checked_neutral/
 ---
 ## AttributeName.Checked_neutral field
 
-Атрибут проверен:Нейтральный — состояние переключателя или поля флажка.
+Атрибут проверен: нейтральное — состояние переключателя или поля флажка.
 
 ```csharp
 public static readonly AttributeName Checked_neutral;

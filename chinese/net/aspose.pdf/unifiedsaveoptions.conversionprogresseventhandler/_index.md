@@ -1,14 +1,14 @@
 ---
 title: UnifiedSaveOptions.ConversionProgressEventHandler
 second_title: Aspose.PDF for .NET API 参考
-description: 表示通常由调用方提供的方法 并处理来自转换器的进度事件 通常此类提供的客户处理程序可用于在控制台或进度条上显示 总转换进度  表示有关发生的进度事件的信息
+description: 表示通常通过调用side 提供的方法并处理来自转换器的进度事件 通常此类提供的客户处理程序可用于在控制台或进度条上显示 总转换进度 表示有关发生的进度事件的信息
 type: docs
 weight: 7290
 url: /zh/net/aspose.pdf/unifiedsaveoptions.conversionprogresseventhandler/
 ---
 ## UnifiedSaveOptions.ConversionProgressEventHandler delegate
 
-表示通常由调用方提供的方法 并处理来自转换器的进度事件。 通常此类提供的客户处理程序可用于在控制台或进度条上显示 总转换进度。  表示有关发生的进度事件的信息
+表示通常通过调用side 提供的方法并处理来自转换器的进度事件。 通常此类提供的客户处理程序可用于在控制台或进度条上显示 总转换进度。 表示有关发生的进度事件的信息
 
 ```csharp
 public delegate void ConversionProgressEventHandler(ProgressEventHandlerInfo eventInfo);

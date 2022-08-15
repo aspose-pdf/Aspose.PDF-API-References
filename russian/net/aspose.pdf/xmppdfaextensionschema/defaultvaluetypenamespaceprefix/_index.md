@@ -1,14 +1,14 @@
 ---
 title: DefaultValueTypeNamespacePrefix
 second_title: Aspose.PDF для справочника API .NET
-description: Префикс пространства имен допустимого типа по умолчанию.
+description: Префикс пространства имен действительного типа по умолчанию.
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/
 ---
 ## XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix field
 
-Префикс пространства имен допустимого типа по умолчанию.
+Префикс пространства имен действительного типа по умолчанию.
 
 ```csharp
 public const string DefaultValueTypeNamespacePrefix;

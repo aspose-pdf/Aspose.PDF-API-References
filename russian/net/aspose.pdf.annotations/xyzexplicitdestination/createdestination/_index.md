@@ -21,7 +21,7 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 | left | Double | Левая позиция на странице. |
 | top | Double | Верхняя позиция на странице. |
 | zoom | Double | Коэффициент масштабирования (0 по умолчанию). |
-| considerRotation | Boolean | Если true, позиция будет пересчитана в соответствии с поворотом страницы. |
+| considerRotation | Boolean | Если истина, позиция будет пересчитана в соответствии с поворотом страницы. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: ExtractedText
 second_title: Aspose.PDF для справочника API .NET
-description: Фактически извлеченный текст.
+description: Текст который был фактически извлечен.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textextractionerror/extractedtext/
 ---
 ## TextExtractionError.ExtractedText property
 
-Фактически извлеченный текст.
+Текст, который был фактически извлечен.
 
 ```csharp
 public string ExtractedText { get; }

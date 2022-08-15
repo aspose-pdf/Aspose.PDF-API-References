@@ -1,14 +1,14 @@
 ---
 title: Ivory
 second_title: Aspose.PDF для справочника API .NET
-description: Получает определяемый системой цвет со значением ARGB равным FFFFFFFF0.
+description: Получает определяемый системой цвет со значением ARGB FFFFFFFF0.
 type: docs
 weight: 590
 url: /ru/net/aspose.pdf/color/ivory/
 ---
 ## Color.Ivory property
 
-Получает определяемый системой цвет со значением ARGB, равным #FFFFFFFF0.
+Получает определяемый системой цвет со значением ARGB #FFFFFFFF0.
 
 ```csharp
 public static Color Ivory { get; }

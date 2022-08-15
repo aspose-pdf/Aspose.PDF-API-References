@@ -1,14 +1,14 @@
 ---
 title: IncorrectCMapUsageException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化IncorrectCMapUsageExceptionaspose.pdf/incorrectcmapusageexception类的新实例
+description: 初始化IncorrectCMapUsageExceptionaspose.pdf/incorrectcmapusageexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/
 ---
 ## IncorrectCMapUsageException constructor
 
-初始化[`IncorrectCMapUsageException`](../../incorrectcmapusageexception)类的新实例。
+初始化[`IncorrectCMapUsageException`](../../incorrectcmapusageexception)类.
 
 ```csharp
 public IncorrectCMapUsageException(string message)

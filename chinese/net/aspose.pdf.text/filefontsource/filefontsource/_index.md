@@ -1,14 +1,14 @@
 ---
 title: FileFontSource
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化FileFontSourceaspose.pdf.text/filefontsource类的新实例
+description: 初始化一个新的实例FileFontSourceaspose.pdf.text/filefontsource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/filefontsource/filefontsource/
 ---
 ## FileFontSource constructor
 
-初始化[`FileFontSource`](../../filefontsource)类的新实例。
+初始化一个新的实例[`FileFontSource`](../../filefontsource)类.
 
 ```csharp
 public FileFontSource(string filePath)

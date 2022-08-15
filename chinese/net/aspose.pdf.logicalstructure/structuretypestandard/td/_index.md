@@ -1,14 +1,14 @@
 ---
 title: TD
 second_title: Aspose.PDF for .NET API 参考
-description: 表格数据单元格包含作为表格内容一部分的数据的表格单元格
+description: 表格数据单元格一个表格单元格其中包含作为表格内容一部分的数据
 type: docs
 weight: 400
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
 ## StructureTypeStandard.TD field
 
-（表格数据单元格）包含作为表格内容一部分的数据的表格单元格。
+（表格数据单元格）一个表格单元格，其中包含作为表格内容一部分的数据。
 
 ```csharp
 public static readonly StructureTypeStandard TD;

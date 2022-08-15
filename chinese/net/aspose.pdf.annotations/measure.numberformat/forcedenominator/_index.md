@@ -1,14 +1,14 @@
 ---
 title: ForceDenominator
 second_title: Aspose.PDF for .NET API 参考
-description: 如果 FractionDisplayment 为 ShowAsFraction则该值决定是否减少分数如果值为真则分数可能不会减少
+description: 如果 FractionDisplayment 为 ShowAsFraction则该值决定是否减少分数如果值为真分数可能不会减少
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/measure.numberformat/forcedenominator/
 ---
 ## Measure.NumberFormat.ForceDenominator property
 
-如果 FractionDisplayment 为 ShowAsFraction，则该值决定是否减少分数。如果值为真，则分数可能不会减少。
+如果 FractionDisplayment 为 ShowAsFraction，则该值决定是否减少分数。如果值为真，分数可能不会减少。
 
 ```csharp
 public bool ForceDenominator { get; set; }

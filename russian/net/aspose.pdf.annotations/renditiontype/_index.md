@@ -1,14 +1,14 @@
 ---
 title: RenditionType
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисление описывает возможные типы воспроизведения.
+description: Перечисление описывает возможные типы Rendition.
 type: docs
 weight: 1010
 url: /ru/net/aspose.pdf.annotations/renditiontype/
 ---
 ## RenditionType enumeration
 
-Перечисление описывает возможные типы воспроизведения.
+Перечисление описывает возможные типы Rendition.
 
 ```csharp
 public enum RenditionType

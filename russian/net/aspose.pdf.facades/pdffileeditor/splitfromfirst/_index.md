@@ -1,14 +1,14 @@
 ---
 title: SplitFromFirst
 second_title: Aspose.PDF для справочника API .NET
-description: Разбивает файл Pdf с первой страницы в указанное место и сохраняет лицевую часть как новый файл.
+description: Разбивает файл Pdf с первой страницы в указанное место и сохраняет переднюю часть как новый файл.
 type: docs
 weight: 370
 url: /ru/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
 ## SplitFromFirst(string, int, string) {#splitfromfirst_2}
 
-Разбивает файл Pdf с первой страницы в указанное место и сохраняет лицевую часть как новый файл.
+Разбивает файл Pdf с первой страницы в указанное место и сохраняет переднюю часть как новый файл.
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, string outputFile)
@@ -16,13 +16,13 @@ public bool SplitFromFirst(string inputFile, int location, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Исходный файл Pdf. |
+| inputFile | String | Исходный PDF-файл. |
 | location | Int32 | Точка разделения. |
-| outputFile | String | Выходной файл Pdf. |
+| outputFile | String | Выходной PDF-файл. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примеры
 
@@ -49,17 +49,17 @@ public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный файл Pdf Поток. |
+| inputStream | Stream | Исходный файл Pdf Stream. |
 | location | Int32 | Точка разделения. |
-| outputStream | Stream | Выходной файловый поток. |
+| outputStream | Stream | Выходной файл Поток. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-После этой операции потоки НЕ закрываются.
+Потоки НЕ закрываются после этой операции.
 
 ### Примеры
 
@@ -80,7 +80,7 @@ pfe.SplitFromFirst(sourceStream, 5, outStream);
 
 ## SplitFromFirst(string, int, HttpResponse) {#splitfromfirst_3}
 
-Разбивает документ с первой страницы на место и сохраняет результат в объектах HttpResponse.
+Разделяет документ с первой страницы на место и сохраняет результат в объектах HttpResponse.
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, HttpResponse response)

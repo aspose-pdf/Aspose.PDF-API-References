@@ -16,7 +16,7 @@ public int GetPageRotation(int page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 页面索引。文档页面从 1 开始编号。 |
+| page | Int32 | 页面索引。文档页从 1 开始编号。 |
 
 ### 返回值
 
@@ -24,7 +24,7 @@ public int GetPageRotation(int page)
 
 ### 例子
 
-以下示例演示如何获取页面旋转:
+以下示例演示如何获取页面旋转：
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет цвет линии границы
+description: Представляет линию границы color
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/saveoptions.borderpartstyle/color/
 ---
 ## SaveOptions.BorderPartStyle.Color field
 
-Представляет цвет линии границы
+Представляет линию границы color
 
 ```csharp
 public Color Color;

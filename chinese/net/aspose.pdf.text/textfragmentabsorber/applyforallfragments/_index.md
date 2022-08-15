@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
 ---
 ## ApplyForAllFragments(Font) {#applyforallfragments}
 
-为所有被吸收的文本片段应用字体。如果页面上的所有片段都被吸收，它比遍历片段更快。否则，它与循环类似。
+为所有被吸收的文本片段应用字体。如果页面上的所有片段都被吸收，它比遍历片段更快。否则它与循环类似。
 
 ```csharp
 public void ApplyForAllFragments(Font font)
@@ -16,7 +16,7 @@ public void ApplyForAllFragments(Font font)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| font | Font | [`Font`](../../font)文本。 |
+| font | Font | [`Font`](../../font)的文本。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void ApplyForAllFragments(Font font)
 
 ## ApplyForAllFragments(float) {#applyforallfragments_2}
 
-为所有被吸收的文本片段应用字体大小。如果页面上的所有片段都被吸收，它比遍历片段更快。否则，它与循环类似。
+为所有被吸收的文本片段应用字体大小。如果页面上的所有片段都被吸收，它比遍历片段更快。否则它与循环类似。
 
 ```csharp
 public void ApplyForAllFragments(float fontSize)
@@ -49,7 +49,7 @@ public void ApplyForAllFragments(float fontSize)
 
 ## ApplyForAllFragments(Font, float) {#applyforallfragments_1}
 
-为所有被吸收的文本片段应用字体和大小。如果页面上的所有片段都被吸收，它比遍历片段更快。否则，它与循环类似。
+为所有被吸收的文本片段应用字体和大小。如果页面上的所有片段都被吸收，它比遍历片段更快。否则它与循环类似。
 
 ```csharp
 public void ApplyForAllFragments(Font font, float fontSize)
@@ -57,7 +57,7 @@ public void ApplyForAllFragments(Font font, float fontSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| font | Font | [`Font`](../../font)文本。 |
+| font | Font | [`Font`](../../font)的文本。 |
 | fontSize | Single | 文本的字体大小。 |
 
 ### 也可以看看

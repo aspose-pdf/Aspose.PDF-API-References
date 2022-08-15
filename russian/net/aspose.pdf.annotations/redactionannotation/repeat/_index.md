@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf.annotations/redactionannotation/repeat/
 ---
 ## RedactionAnnotation.Repeat property
 
-Если true текст наложения будет повторяться в аннотации.
+Если true, текст наложения будет повторяться в аннотации.
 
 ```csharp
 public bool Repeat { get; set; }

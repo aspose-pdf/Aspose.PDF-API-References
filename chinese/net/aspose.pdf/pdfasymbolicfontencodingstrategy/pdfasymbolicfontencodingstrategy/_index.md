@@ -53,7 +53,7 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | 编码子表，优先用于mac subtable(1,0) |
+| preferredEncodingTable | CMapEncodingTableType | 编码子表，将优先于 mac subtable(1,0) 使用 |
 
 ### 也可以看看
 

@@ -45,7 +45,7 @@ public void ImportBookmarksWithXML(Stream stream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 带有书签数据的流。 |
+| stream | Stream | 使用书签数据流式传输。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает нижнюю часть.
+description: Получает или задает нижнюю часть.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/margins/bottom/
 ---
 ## Margins.Bottom property
 
-Получает или устанавливает нижнюю часть.
+Получает или задает нижнюю часть.
 
 ```csharp
 public int Bottom { get; set; }

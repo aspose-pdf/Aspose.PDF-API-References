@@ -1,14 +1,14 @@
 ---
 title: TeXLoadOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 表示将 TeX 文件加载/导入 PDF 文档的选项
+description: 表示将 TeX 文件加载/导入到 PDF 文档的选项
 type: docs
 weight: 6570
 url: /zh/net/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class
 
-表示将 TeX 文件加载/导入 PDF 文档的选项。
+表示将 TeX 文件加载/导入到 PDF 文档的选项。
 
 ```csharp
 public class TeXLoadOptions : LoadOptions
@@ -27,14 +27,14 @@ public class TeXLoadOptions : LoadOptions
 | [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } | 获取/设置日期/时间原语的特定值，如 \year、\month、\day 和 \time。 |
 | [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory) { get; set; } | 获取/设置 TeX 输入目录。 |
 | [JobName](../../aspose.pdf/texloadoptions/jobname) { get; set; } | 获取/设置作业的名称。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 表示[`LoadOptions`](../loadoptions)描述的文件格式。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | 代表文件格式[`LoadOptions`](../loadoptions)描述. |
 | [NoLigatures](../../aspose.pdf/texloadoptions/noligatures) { get; set; } | 获取/设置取消所有字体中连字的标志。 |
 | [OutputDirectory](../../aspose.pdf/texloadoptions/outputdirectory) { get; set; } | 获取/设置 TeX 输出目录。 |
 | [RasterizeFormulas](../../aspose.pdf/texloadoptions/rasterizeformulas) { get; set; } | 获取/设置一个允许光栅化数学公式的标志。 |
-| [Repeat](../../aspose.pdf/texloadoptions/repeat) { get; set; } | 获取/设置指示是否需要运行两次 TeX 作业的标志，以防万一 例如，输入 TeX 中有引用文件。通常，当 引擎在排版过程中收集一些数据并将其存储在辅助文件 all 在第一次运行时，此行为很有用。在第二次运行时，引擎以某种方式使用了这些数据。 |
+| [Repeat](../../aspose.pdf/texloadoptions/repeat) { get; set; } | 获取/设置指示是否需要运行两次 TeX 作业的标志，以防万一， 例如，输入 TeX 文件中有引用。通常，当 引擎在排版过程中收集一些数据并将其存储在辅助文件中时，此行为很有用， 全部在第一次运行时。在第二次运行时，引擎以某种方式使用了该数据。 |
 | [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput) { get; set; } | 获取/设置指示是否在控制台上显示终端输出的标志。 |
 | [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts) { get; set; } | 获取/设置指示是否对输出文件中的字体进行子集化的标志。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | 回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，加载操作继续，但是用户也可以返回 Abort，在这种情况下加载操作应该停止。 |
 
 ### 也可以看看
 

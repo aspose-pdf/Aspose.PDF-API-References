@@ -1,14 +1,14 @@
 ---
 title: BeforeText
 second_title: Aspose.PDF для справочника API .NET
-description: Текст который должен быть присоединен слева от метки.
+description: Текст который должен быть объединен слева от метки.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/beforetext/
 ---
 ## Measure.NumberFormat.BeforeText property
 
-Текст, который должен быть присоединен слева от метки.
+Текст, который должен быть объединен слева от метки.
 
 ```csharp
 public string BeforeText { get; set; }

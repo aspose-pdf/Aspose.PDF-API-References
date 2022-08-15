@@ -1,14 +1,14 @@
 ---
 title: DestinationCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляет совокупность всех адресатов дерево имен отображающее строки имен на адресаты см. 12.3.2.3 Именованные адресаты и см. 7.7.4  Словарь имён в pdf-документе.
+description: Класс представляет собой набор всех адресатов дерево имен отображающее строки имен на адресаты см. 12.3.2.3 Именованные адресаты и см. 7.7.4 Словарь имен в документе pdf.
 type: docs
 weight: 1620
 url: /ru/net/aspose.pdf/destinationcollection/
 ---
 ## DestinationCollection class
 
-Класс представляет совокупность всех адресатов (дерево имен, отображающее строки имен на адресаты (см. 12.3.2.3, «Именованные адресаты») и (см. 7.7.4, « Словарь имён")) в pdf-документе.
+Класс представляет собой набор всех адресатов (дерево имен, отображающее строки имен на адресаты (см. 12.3.2.3, «Именованные адресаты») и (см. 7.7.4, «Словарь имен»)) в документе pdf.
 
 ```csharp
 public sealed class DestinationCollection : ICollection<KeyValuePair<string, object>>
@@ -28,7 +28,7 @@ public sealed class DestinationCollection : ICollection<KeyValuePair<string, obj
 | --- | --- |
 | [Add](../../aspose.pdf/destinationcollection/add)(KeyValuePair&lt;string, object&gt;) | Добавляет указанный элемент. Коллекция доступна только для чтения. Всегда выдает исключение NotSupportedException. |
 | [Clear](../../aspose.pdf/destinationcollection/clear)() | Коллекция доступна только для чтения. Всегда выдает исключение NotSupportedException. |
-| [Contains](../../aspose.pdf/destinationcollection/contains)(KeyValuePair&lt;string, object&gt;) | Определяет, содержит ли данный экземпляр объект. |
+| [Contains](../../aspose.pdf/destinationcollection/contains)(KeyValuePair&lt;string, object&gt;) | Определяет, содержит ли этот экземпляр объект. |
 | [CopyTo](../../aspose.pdf/destinationcollection/copyto)(KeyValuePair&lt;string, object&gt;[], int) |  |
 | [GetEnumerator](../../aspose.pdf/destinationcollection/getenumerator)() | Возвращает перечислитель. |
 | [GetExplicitDestination](../../aspose.pdf/destinationcollection/getexplicitdestination)(string, bool) | Возвращает явное место назначения по имени. |

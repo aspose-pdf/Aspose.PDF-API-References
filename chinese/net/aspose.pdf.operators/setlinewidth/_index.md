@@ -25,14 +25,14 @@ public class SetLineWidth : Operator
 | 姓名 | 描述 |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | 页面运算符列表中的运算符索引。 |
-| [Width](../../aspose.pdf.operators/setlinewidth/width) { get; set; } | 获取或设置行宽。 |
+| [Width](../../aspose.pdf.operators/setlinewidth/width) { get; set; } | 获取或设置线条的宽度。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setlinewidth/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/setlinewidth/tostring)() | 返回运算符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/setlinewidth/tostring)() | 返回运算符的文本表示形式。 |
 
 ### 也可以看看
 

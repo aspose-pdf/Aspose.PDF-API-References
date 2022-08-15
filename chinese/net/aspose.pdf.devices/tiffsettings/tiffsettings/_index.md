@@ -1,14 +1,14 @@
 ---
 title: TiffSettings
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TiffSettingsaspose.pdf.devices/tiffsettings类的新实例
+description: 初始化TiffSettingsaspose.pdf.devices/tiffsettings类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings()
@@ -24,7 +24,7 @@ public TiffSettings()
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(ShapeType shapeType)
@@ -45,7 +45,7 @@ public TiffSettings(ShapeType shapeType)
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(CompressionType compressionType)
@@ -66,7 +66,7 @@ public TiffSettings(CompressionType compressionType)
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
@@ -87,7 +87,7 @@ public TiffSettings(ColorDepth colorDepth)
 
 ## TiffSettings(Margins) {#constructor_6}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(Margins margins)
@@ -108,7 +108,7 @@ public TiffSettings(Margins margins)
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
@@ -133,7 +133,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -145,7 +145,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 | compressionType | CompressionType | 压缩类型。 |
 | colorDepth | ColorDepth | 颜色深度。 |
 | margins | Margins | 边距。 |
-| skipBlankPages | Boolean | 如果设置为` true` 需要跳过空白页。 |
+| skipBlankPages | Boolean | 如果设置为`真的`需要跳过空白页。 |
 
 ### 也可以看看
 
@@ -160,7 +160,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
@@ -172,7 +172,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 | compressionType | CompressionType | 压缩类型。 |
 | colorDepth | ColorDepth | 颜色深度。 |
 | margins | Margins | 边距。 |
-| skipBlankPages | Boolean | 如果设置为` true` 需要跳过空白页。 |
+| skipBlankPages | Boolean | 如果设置为`真的`需要跳过空白页。 |
 | shapeType | ShapeType | 形状的类型。 |
 
 ### 也可以看看
@@ -189,7 +189,7 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(bool) {#constructor_8}
 
-初始化[`TiffSettings`](../../tiffsettings)类的新实例。
+初始化[`TiffSettings`](../../tiffsettings)类.
 
 ```csharp
 public TiffSettings(bool skipBlankPages)
@@ -197,7 +197,7 @@ public TiffSettings(bool skipBlankPages)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| skipBlankPages | Boolean | 如果设置为` true` [跳过空白页] . |
+| skipBlankPages | Boolean | 如果设置为`真的` [跳过空白页]。 |
 
 ### 也可以看看
 

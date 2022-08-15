@@ -1,14 +1,14 @@
 ---
 title: Characteristics
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет характеристики аннотации
+description: Представляет характеристики аннотаций
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.annotations/characteristics/
 ---
 ## Characteristics class
 
-Представляет характеристики аннотации
+Представляет характеристики аннотаций
 
 ```csharp
 public sealed class Characteristics

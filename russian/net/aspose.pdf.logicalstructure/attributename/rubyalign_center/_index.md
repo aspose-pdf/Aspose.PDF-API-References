@@ -1,14 +1,14 @@
 ---
 title: RubyAlign_Center
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут RubyAlignCenter  содержимое должно центрироваться в направлении встроенной последовательности.
+description: Атрибут RubyAlign Center  содержимое должно центрироваться в направлении встроенной последовательности.
 type: docs
 weight: 430
 url: /ru/net/aspose.pdf.logicalstructure/attributename/rubyalign_center/
 ---
 ## AttributeName.RubyAlign_Center field
 
-Атрибут RubyAlign:Center — содержимое должно центрироваться в направлении встроенной последовательности.
+Атрибут RubyAlign: Center — содержимое должно центрироваться в направлении встроенной последовательности.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Center;

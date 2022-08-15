@@ -16,7 +16,7 @@ public void BindXml(string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| file | String | Файл xml |
+| file | String | XML-файл |
 
 ### Смотрите также
 
@@ -57,7 +57,7 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlStream | Stream | Поток xml. |
+| xmlStream | Stream | XML-поток. |
 | xslStream | Stream | Поток xsl, если используется XSLT. |
 
 ### Смотрите также
@@ -78,7 +78,7 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlStream | Stream | Поток xml. |
+| xmlStream | Stream | XML-поток. |
 | xslStream | Stream | Поток xsl, если используется XSLT. |
 | settings | XmlReaderSettings | Настройки чтения xml. |
 
@@ -100,7 +100,7 @@ public void BindXml(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток xml. |
+| stream | Stream | XML-поток. |
 
 ### Смотрите также
 

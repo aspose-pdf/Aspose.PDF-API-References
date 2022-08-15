@@ -1,14 +1,14 @@
 ---
 title: OptimizeSize
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置优化标志如果设置了此标志则结果文件中的相等资源流将合并到一个 PDF 对象中 这可以减少生成的文件大小但可能会导致执行速度变慢和内存需求增加 默认值假
+description: 获取或设置优化标志如果设置了此标志则结果文件中的相等资源流将合并到一个 PDF 对象中 这可以减少生成的文件大小但可能会导致执行速度变慢和内存需求增加 默认值false
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdffilestamp/optimizesize/
 ---
 ## PdfFileStamp.OptimizeSize property
 
-获取或设置优化标志。如果设置了此标志，则结果文件中的相等资源流将合并到一个 PDF 对象中。 这可以减少生成的文件大小，但可能会导致执行速度变慢和内存需求增加。 默认值:假。
+获取或设置优化标志。如果设置了此标志，则结果文件中的相等资源流将合并到一个 PDF 对象中。 这可以减少生成的文件大小，但可能会导致执行速度变慢和内存需求增加。 默认值：false。
 
 ```csharp
 public bool OptimizeSize { get; set; }

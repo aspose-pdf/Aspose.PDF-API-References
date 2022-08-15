@@ -1,14 +1,14 @@
 ---
 title: CreateBlockQuoteElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建BlockQuoteElementaspose.pdf.logicalstructure/blockquoteelement
+description: 创建BlockQuoteElementaspose.pdf.logicalstructure/blockquoteelement.
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/
 ---
 ## ITaggedContent.CreateBlockQuoteElement method
 
-创建[`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement)。
+创建[`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement).
 
 ```csharp
 public BlockQuoteElement CreateBlockQuoteElement()
@@ -16,7 +16,7 @@ public BlockQuoteElement CreateBlockQuoteElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

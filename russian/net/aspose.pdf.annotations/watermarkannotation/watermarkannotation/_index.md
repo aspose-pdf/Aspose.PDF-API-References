@@ -1,14 +1,14 @@
 ---
 title: WatermarkAnnotation
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор для класса аннотаций водяных знаков.
+description: Конструктор для класса аннотации водяного знака.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/
 ---
 ## WatermarkAnnotation constructor
 
-Конструктор для класса аннотаций водяных знаков.
+Конструктор для класса аннотации водяного знака.
 
 ```csharp
 public WatermarkAnnotation(Page page, Rectangle rect)
@@ -17,7 +17,7 @@ public WatermarkAnnotation(Page page, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Страница, на которой должна быть размещена аннотация. |
-| rect | Rectangle | Позиция аннотации. |
+| rect | Rectangle | Положение аннотации. |
 
 ### Смотрите также
 

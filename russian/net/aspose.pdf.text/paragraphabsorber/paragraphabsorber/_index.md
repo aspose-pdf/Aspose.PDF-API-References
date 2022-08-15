@@ -1,14 +1,14 @@
 ---
 title: ParagraphAbsorber
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярParagraphAbsorberaspose.pdf.text/paragraphabsorber который выполняет поиск разделов/абзацев документа или страницы .
+description: Инициализирует новый экземплярParagraphAbsorberaspose.pdf.text/paragraphabsorber который выполняет поиск разделов/абзацев документа или страницы.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 ---
 ## ParagraphAbsorber() {#constructor}
 
-Инициализирует новый экземпляр[`ParagraphAbsorber`](../../paragraphabsorber), который выполняет поиск разделов/абзацев документа или страницы .
+Инициализирует новый экземпляр[`ParagraphAbsorber`](../../paragraphabsorber) который выполняет поиск разделов/абзацев документа или страницы.
 
 ```csharp
 public ParagraphAbsorber()
@@ -24,7 +24,7 @@ public ParagraphAbsorber()
 
 ## ParagraphAbsorber(int) {#constructor_1}
 
-Инициализирует новый экземпляр[`ParagraphAbsorber`](../../paragraphabsorber), который выполняет поиск разделов/абзацев документа или страницы .
+Инициализирует новый экземпляр[`ParagraphAbsorber`](../../paragraphabsorber) который выполняет поиск разделов/абзацев документа или страницы.
 
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth)
@@ -36,7 +36,7 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 
 ### Примечания
 
-См.[`SectionsSearchDepth`](../sectionssearchdepth)свойство для получения дополнительных сведений о параметре.
+См.[`SectionsSearchDepth`](../sectionssearchdepth) свойство для получения дополнительных сведений о параметре.
 
 ### Смотрите также
 

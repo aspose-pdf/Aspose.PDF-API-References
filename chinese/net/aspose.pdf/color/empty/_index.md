@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Aspose.PDF for .NET API 参考
-description: 代表空颜色
+description: 代表空色
 type: docs
 weight: 1430
 url: /zh/net/aspose.pdf/color/empty/
 ---
 ## Color.Empty field
 
-代表空颜色。
+代表空色。
 
 ```csharp
 public static Color Empty;

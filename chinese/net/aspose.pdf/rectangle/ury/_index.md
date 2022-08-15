@@ -1,14 +1,14 @@
 ---
 title: URY
 second_title: Aspose.PDF for .NET API 参考
-description: Y - 右上角坐标
+description: Y - 右上角的坐标
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/rectangle/ury/
 ---
 ## Rectangle.URY property
 
-Y - 右上角坐标。
+Y - 右上角的坐标。
 
 ```csharp
 public double URY { get; set; }

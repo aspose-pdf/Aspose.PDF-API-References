@@ -1,14 +1,14 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API 参考
-description: 返回集合中选项的枚举数
+description: 返回集合中选项的枚举器
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.forms/optioncollection/getenumerator/
 ---
 ## OptionCollection.GetEnumerator method
 
-返回集合中选项的枚举数。
+返回集合中选项的枚举器。
 
 ```csharp
 public IEnumerator<Option> GetEnumerator()

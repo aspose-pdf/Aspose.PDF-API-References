@@ -16,7 +16,7 @@ public void SetNameValue(AttributeName name)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | AttributeName | 允许值名称。 |
+| name | AttributeName | 允许的值名称。 |
 
 ### 也可以看看
 

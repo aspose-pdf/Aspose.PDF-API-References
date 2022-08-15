@@ -1,14 +1,14 @@
 ---
 title: DefaultExtensionNamespaceUri
 second_title: Aspose.PDF для справочника API .NET
-description: URI пространства имен расширений по умолчанию.
+description: Пространство имен расширений по умолчанию uri.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri/
 ---
 ## XmpPdfAExtensionSchema.DefaultExtensionNamespaceUri field
 
-URI пространства имен расширений по умолчанию.
+Пространство имен расширений по умолчанию uri.
 
 ```csharp
 public const string DefaultExtensionNamespaceUri;

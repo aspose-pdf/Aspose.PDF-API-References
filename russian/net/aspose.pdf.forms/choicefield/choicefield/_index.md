@@ -31,7 +31,7 @@ public ChoiceField(Page page, Rectangle rect)
 
 ## ChoiceField(Document) {#constructor}
 
-Создает поле выбора (для Генератора)
+Создает поле выбора (для генератора)
 
 ```csharp
 public ChoiceField(Document doc)
@@ -39,7 +39,7 @@ public ChoiceField(Document doc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ с выбором поле будет создано. |
+| doc | Document | Документ, в котором будет создано поле выбора. |
 
 ### Смотрите также
 

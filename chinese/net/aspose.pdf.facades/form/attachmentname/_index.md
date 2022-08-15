@@ -1,14 +1,14 @@
 ---
 title: AttachmentName
 second_title: Aspose.PDF for .NET API 参考
-description: 当操作结果作为附件存储到 HttpResponse 对象中时获取或设置附件的名称
+description: 获取或设置操作结果作为附件存储到 HttpResponse 对象时的附件名称
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/form/attachmentname/
 ---
 ## Form.AttachmentName property
 
-当操作结果作为附件存储到 HttpResponse 对象中时，获取或设置附件的名称。
+获取或设置操作结果作为附件存储到 HttpResponse 对象时的附件名称。
 
 ```csharp
 public string AttachmentName { get; set; }

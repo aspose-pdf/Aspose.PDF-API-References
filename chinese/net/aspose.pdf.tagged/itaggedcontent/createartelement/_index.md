@@ -1,14 +1,14 @@
 ---
 title: CreateArtElement
 second_title: Aspose.PDF for .NET API 参考
-description: 创建ArtElementaspose.pdf.logicalstructure/artelement
+description: 创建ArtElementaspose.pdf.logicalstructure/artelement.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createartelement/
 ---
 ## ITaggedContent.CreateArtElement method
 
-创建[`ArtElement`](../../../aspose.pdf.logicalstructure/artelement)。
+创建[`ArtElement`](../../../aspose.pdf.logicalstructure/artelement).
 
 ```csharp
 public ArtElement CreateArtElement()
@@ -16,7 +16,7 @@ public ArtElement CreateArtElement()
 
 ### 返回值
 
-创建的结构元素。
+创建结构元素。
 
 ### 也可以看看
 

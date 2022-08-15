@@ -1,14 +1,14 @@
 ---
 title: Fonts
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекцию вхождений поиска представленных объектамиFontaspose.pdf.text/font.
+description: Получает коллекцию вхождений поиска представленныхFontaspose.pdf.text/font объекты.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/fontabsorber/fonts/
 ---
 ## FontAbsorber.Fonts property
 
-Получает коллекцию вхождений поиска, представленных объектами[`Font`](../../font).
+Получает коллекцию вхождений поиска, представленных[`Font`](../../font) объекты.
 
 ```csharp
 public FontCollection Fonts { get; }

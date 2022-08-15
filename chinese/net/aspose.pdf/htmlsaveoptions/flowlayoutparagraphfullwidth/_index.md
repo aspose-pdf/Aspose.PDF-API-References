@@ -1,14 +1,14 @@
 ---
 title: FlowLayoutParagraphFullWidth
 second_title: Aspose.PDF for .NET API 参考
-description: 此属性指定 Flow 模式的全宽段落文本FixedLayout  false
+description: 该属性指定Flow模式的全宽段落文本FixedLayout  false
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/
 ---
 ## HtmlSaveOptions.FlowLayoutParagraphFullWidth property
 
-此属性指定 Flow 模式的全宽段落文本，FixedLayout = false
+该属性指定Flow模式的全宽段落文本，FixedLayout = false
 
 ```csharp
 public bool FlowLayoutParagraphFullWidth { get; set; }

@@ -11,15 +11,20 @@ url: /ru/net/aspose.pdf/table/getheight/
 Получить высоту.
 
 ```csharp
-public double GetHeight()
+public double GetHeight(Page parentPage = null)
 ```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| parentPage | Page | Родительская страница таблицы (необязательно). |
 
 ### Возвращаемое значение
 
-Высота стола
+Высота стола.
 
 ### Смотрите также
 
+* class [Page](../../page)
 * class [Table](../../table)
 * пространство имен [Aspose.Pdf](../../table)
 * сборка [Aspose.PDF](../../../)

@@ -1,14 +1,14 @@
 ---
 title: TabTag
 second_title: Aspose.PDF for .NET API 参考
-description: 您可以将此标签放在文本中以声明制表
+description: 您可以将此标记放在文本中以声明制表
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.text/textstate/tabtag/
 ---
 ## TextState.TabTag field
 
-您可以将此标签放在文本中以声明制表。
+您可以将此标记放在文本中以声明制表。
 
 ```csharp
 public readonly string TabTag;
@@ -16,7 +16,7 @@ public readonly string TabTag;
 
 ### 评论
 
-它仅与Text结合使用。制表位。
+它只有在与[`TabStops`](../../tabstops).
 
 ### 也可以看看
 

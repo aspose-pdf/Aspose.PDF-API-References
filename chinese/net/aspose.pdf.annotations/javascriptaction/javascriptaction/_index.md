@@ -1,14 +1,14 @@
 ---
 title: JavascriptAction
 second_title: Aspose.PDF for .NET API 参考
-description: 构造函数
+description: 构造函数.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/javascriptaction/javascriptaction/
 ---
 ## JavascriptAction constructor
 
-构造函数。
+构造函数.
 
 ```csharp
 public JavascriptAction(string javaScript)

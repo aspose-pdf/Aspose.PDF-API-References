@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PDF для справочника API .NET
-description: Стиль окна поля.
+description: Стиль поля поля.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/style/
 ---
 ## RadioButtonField.Style property
 
-Стиль окна поля.
+Стиль поля поля.
 
 ```csharp
 public BoxStyle Style { get; set; }

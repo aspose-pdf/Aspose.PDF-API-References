@@ -24,7 +24,7 @@ public bool MoveField(string fieldName, float llx, float lly, float urx, float u
 
 ### 返回值
 
-如果字段位置更改成功，则为真。
+如果字段位置已成功更改，则为 true。
 
 ### 例子
 

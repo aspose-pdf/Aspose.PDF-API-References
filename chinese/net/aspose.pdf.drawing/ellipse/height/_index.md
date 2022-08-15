@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示椭圆高度的浮点值
+description: 获取或设置一个表示椭圆高度的浮点值
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.drawing/ellipse/height/
 ---
 ## Ellipse.Height property
 
-获取或设置表示椭圆高度的浮点值。
+获取或设置一个表示椭圆高度的浮点值。
 
 ```csharp
 public double Height { get; set; }

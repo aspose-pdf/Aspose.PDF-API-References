@@ -1,14 +1,14 @@
 ---
 title: ContactInfoLabel
 second_title: Aspose.PDF for .NET API 参考
-description: 获取/设置联系信息标签默认值联系人
+description: 获取/设置联系信息标签默认值联系人.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/contactinfolabel/
 ---
 ## SignatureCustomAppearance.ContactInfoLabel property
 
-获取/设置联系信息标签。默认值:“联系人”。
+获取/设置联系信息标签。默认值：“联系人”.
 
 ```csharp
 public string ContactInfoLabel { get; set; }

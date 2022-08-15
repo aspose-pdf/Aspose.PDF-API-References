@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/bookmark/pagedisplay_left/
 ---
 ## Bookmark.PageDisplay_Left property
 
-获取或设置页面显示的左坐标。
+获取或设置页面显示的左坐标
 
 ```csharp
 public int PageDisplay_Left { get; set; }

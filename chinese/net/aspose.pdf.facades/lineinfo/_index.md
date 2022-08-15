@@ -1,14 +1,14 @@
 ---
 title: LineInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 表示线路信息
+description: 代表线路信息
 type: docs
 weight: 2410
 url: /zh/net/aspose.pdf.facades/lineinfo/
 ---
 ## LineInfo class
 
-表示线路信息。
+代表线路信息。
 
 ```csharp
 public sealed class LineInfo
@@ -24,12 +24,12 @@ public sealed class LineInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle) { get; set; } | 获取或设置线条的边框样式，0代表实线，1代表虚线，2代表斜角，3代表插入，4代表下划线。 |
+| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle) { get; set; } | 获取或设置线条的边框样式，0代表实线，1代表虚线，2代表斜线，3代表插入，4代表下划线。 |
 | [LineColor](../../aspose.pdf.facades/lineinfo/linecolor) { get; set; } | 获取或设置线条的颜色。 |
 | [LineDashPattern](../../aspose.pdf.facades/lineinfo/linedashpattern) { get; set; } | 获取或设置线条的虚线模式。 |
 | [LineWidth](../../aspose.pdf.facades/lineinfo/linewidth) { get; set; } | 获取或设置线条的宽度。 |
 | [VerticeCoordinate](../../aspose.pdf.facades/lineinfo/verticecoordinate) { get; set; } | 获取或设置一个数字数组，分别表示每个顶点的交替水平和垂直坐标。 |
-| [Visibility](../../aspose.pdf.facades/lineinfo/visibility) { get; set; } | 获取或设置行的可见性。 |
+| [Visibility](../../aspose.pdf.facades/lineinfo/visibility) { get; set; } | 获取或设置线条的可见性。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Next
 second_title: Aspose.PDF for .NET API 参考
-description: 获取在大纲层次结构中代表下一个项目的大纲项目
+description: 在大纲层次结构中获取代表下一个项目的大纲项目
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/outlineitemcollection/next/
 ---
 ## OutlineItemCollection.Next property
 
-获取在大纲层次结构中代表下一个项目的大纲项目。
+在大纲层次结构中获取代表下一个项目的大纲项目。
 
 ```csharp
 public OutlineItemCollection Next { get; }

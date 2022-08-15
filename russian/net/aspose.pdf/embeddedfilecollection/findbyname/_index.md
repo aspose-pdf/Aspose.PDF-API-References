@@ -1,14 +1,14 @@
 ---
 title: FindByName
 second_title: Aspose.PDF для справочника API .NET
-description: Возвращает внедренный файл по его имени.
+description: Возвращает встроенный файл по его имени.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/embeddedfilecollection/findbyname/
 ---
 ## EmbeddedFileCollection.FindByName method
 
-Возвращает внедренный файл по его имени.
+Возвращает встроенный файл по его имени.
 
 ```csharp
 public FileSpecification FindByName(string name)

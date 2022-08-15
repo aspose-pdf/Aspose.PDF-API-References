@@ -16,7 +16,7 @@ public void AssignXfa(XmlDocument xml)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| xml | XmlDocument | Xml 文档，其中包含新的 XFA 数据。 |
+| xml | XmlDocument | 包含新 XFA 数据的 XML 文档。 |
 
 ### 也可以看看
 

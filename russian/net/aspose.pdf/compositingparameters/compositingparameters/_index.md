@@ -1,14 +1,14 @@
 ---
 title: CompositingParameters
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр объектаCompositingParametersaspose.pdf/compositingparameters.
+description: Инициализирует новый экземплярCompositingParametersaspose.pdf/compositingparameters объект.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/compositingparameters/compositingparameters/
 ---
 ## CompositingParameters(BlendMode) {#constructor}
 
-Инициализирует новый экземпляр объекта[`CompositingParameters`](../../compositingparameters).
+Инициализирует новый экземпляр[`CompositingParameters`](../../compositingparameters) объект.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode)
@@ -29,7 +29,7 @@ public CompositingParameters(BlendMode blendMode)
 
 ## CompositingParameters(BlendMode, ImageFilterType) {#constructor_1}
 
-Инициализирует новый экземпляр объекта[`CompositingParameters`](../../compositingparameters).
+Инициализирует новый экземпляр[`CompositingParameters`](../../compositingparameters) объект.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
@@ -52,7 +52,7 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 ## CompositingParameters(BlendMode, ImageFilterType, bool) {#constructor_2}
 
-Инициализирует новый экземпляр объекта[`CompositingParameters`](../../compositingparameters).
+Инициализирует новый экземпляр[`CompositingParameters`](../../compositingparameters) объект.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bool isMasked)

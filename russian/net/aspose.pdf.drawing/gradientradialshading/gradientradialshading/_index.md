@@ -1,14 +1,14 @@
 ---
 title: GradientRadialShading
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаGradientRadialShadingaspose.pdf.drawing/gradientradialshading.
+description: Инициализирует новый экземплярGradientRadialShadingaspose.pdf.drawing/gradientradialshading класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
 ---
 ## GradientRadialShading() {#constructor}
 
-Инициализирует новый экземпляр класса[`GradientRadialShading`](../../gradientradialshading).
+Инициализирует новый экземпляр[`GradientRadialShading`](../../gradientradialshading) класс.
 
 ```csharp
 public GradientRadialShading()
@@ -24,7 +24,7 @@ public GradientRadialShading()
 
 ## GradientRadialShading(Color, Color) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GradientRadialShading`](../../gradientradialshading).
+Инициализирует новый экземпляр[`GradientRadialShading`](../../gradientradialshading) класс.
 
 ```csharp
 public GradientRadialShading(Color startColor, Color endColor)
@@ -33,7 +33,7 @@ public GradientRadialShading(Color startColor, Color endColor)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | startColor | Color | Начальный цвет круга. |
-| endColor | Color | Конечный цвет круга. |
+| endColor | Color | Цвет конечного круга. |
 
 ### Смотрите также
 

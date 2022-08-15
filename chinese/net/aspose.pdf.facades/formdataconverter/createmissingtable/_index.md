@@ -1,14 +1,14 @@
 ---
 title: CreateMissingTable
 second_title: Aspose.PDF for .NET API 参考
-description: 如果表不存在ImportIntoDatabase 将创建表
+description: ImportIntoDatabase 将创建表如果它不存在
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/formdataconverter/createmissingtable/
 ---
 ## FormDataConverter.CreateMissingTable property
 
-如果表不存在，ImportIntoDatabase 将创建表。
+ImportIntoDatabase 将创建表，如果它不存在。
 
 ```csharp
 public bool CreateMissingTable { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BorderInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаBorderInfoaspose.pdf/borderinfo.
+description: Инициализирует новый экземплярBorderInfoaspose.pdf/borderinfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`BorderInfo`](../../borderinfo).
+Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
@@ -16,7 +16,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например:(int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
 | borderColor | Color | Цвет границы. |
 
 ### Смотрите также
@@ -31,7 +31,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ## BorderInfo() {#constructor}
 
-Инициализирует новый экземпляр класса[`BorderInfo`](../../borderinfo).
+Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
 
 ```csharp
 public BorderInfo()
@@ -47,7 +47,7 @@ public BorderInfo()
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`BorderInfo`](../../borderinfo).
+Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
@@ -55,7 +55,7 @@ public BorderInfo(BorderSide borderSide)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например:(Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
 
 ### Смотрите также
 
@@ -68,7 +68,7 @@ public BorderInfo(BorderSide borderSide)
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`BorderInfo`](../../borderinfo).
+Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
@@ -76,7 +76,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например:(Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
 | borderWidth | Single | Ширина границы. |
 
 ### Смотрите также
@@ -90,7 +90,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`BorderInfo`](../../borderinfo).
+Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
@@ -98,7 +98,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например:(Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
 | borderWidth | Single | Ширина границы. |
 | borderColor | Color | Цвет границы. |
 
@@ -114,7 +114,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`BorderInfo`](../../borderinfo).
+Инициализирует новый экземпляр[`BorderInfo`](../../borderinfo) класс.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
@@ -122,7 +122,7 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| borderSide | BorderSide | Указывает информацию о сторонах границы. Например:(Граница.Слева &#x7C; Граница.Сверху). |
+| borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (Граница.Слева &#x7C; Граница.Сверху). |
 | info | GraphInfo | Информация о границе. |
 
 ### Смотрите также

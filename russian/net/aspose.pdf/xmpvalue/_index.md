@@ -21,7 +21,7 @@ public class XmpValue
 | [XmpValue](xmpvalue#constructor_3)(DateTime) | Конструктор для значения даты и времени. |
 | [XmpValue](xmpvalue#constructor_1)(double) | Конструктор для значения с плавающей запятой. |
 | [XmpValue](xmpvalue#constructor_2)(int) | Конструктор для целочисленного значения. |
-| [XmpValue](xmpvalue#constructor_4)(string) | Конструктор строкового значения. |
+| [XmpValue](xmpvalue#constructor_4)(string) | Конструктор для строкового значения. |
 | [XmpValue](xmpvalue#constructor)(XmpValue[]) | Конструктор для значения массива. |
 
 ## Характеристики
@@ -36,7 +36,7 @@ public class XmpValue
 | [IsNamedValue](../../aspose.pdf/xmpvalue/isnamedvalue) { get; } | Возвращает true, если XmpValue является именованным значением. |
 | [IsNamedValues](../../aspose.pdf/xmpvalue/isnamedvalues) { get; } | Возвращает true, если XmpValue представляет именованные значения. |
 | [IsRaw](../../aspose.pdf/xmpvalue/israw) { get; } | Значение не поддерживается/неизвестно, предоставляется необработанный XML-код. |
-| [IsString](../../aspose.pdf/xmpvalue/isstring) { get; } | Возвращает true, если значением является строка. |
+| [IsString](../../aspose.pdf/xmpvalue/isstring) { get; } | Возвращает true, если значение является строкой. |
 | [IsStructure](../../aspose.pdf/xmpvalue/isstructure) { get; } | Возвращает true, если XmpValue представляет структуру. |
 
 ## Методы
@@ -46,12 +46,12 @@ public class XmpValue
 | [ToArray](../../aspose.pdf/xmpvalue/toarray)() | Возвращает массив. |
 | [ToDateTime](../../aspose.pdf/xmpvalue/todatetime)() | Преобразует дату и время. |
 | [ToDictionary](../../aspose.pdf/xmpvalue/todictionary)() | Возвращает словарь, содержащий именованные значения. |
-| [ToDouble](../../aspose.pdf/xmpvalue/todouble)() | Преобразует в двойной. |
+| [ToDouble](../../aspose.pdf/xmpvalue/todouble)() | Преобразуется в двойное. |
 | [ToField](../../aspose.pdf/xmpvalue/tofield)() | Возвращает значение XMP в виде поля XMP. |
 | [ToInteger](../../aspose.pdf/xmpvalue/tointeger)() | Преобразует в целое число. |
 | [ToNamedValue](../../aspose.pdf/xmpvalue/tonamedvalue)() | Возвращает значение XMP как именованное значение. |
 | [ToNamedValues](../../aspose.pdf/xmpvalue/tonamedvalues)() | Возвращает значение XMP как набор именованных значений. |
-| [ToRaw](../../aspose.pdf/xmpvalue/toraw)() | Необработанный код XML для неизвестных/неподдерживаемых значений. |
+| [ToRaw](../../aspose.pdf/xmpvalue/toraw)() | Необработанный XML-код для неизвестных/неподдерживаемых значений. |
 | override [ToString](../../aspose.pdf/xmpvalue/tostring#tostring)() | Возвращает строковое представление XmpValue. |
 | [ToString](../../aspose.pdf/xmpvalue/tostring#tostring_1)(IFormatProvider) | Возвращает строковое представление. |
 | [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue)() | Преобразует в строку. |

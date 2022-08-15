@@ -1,14 +1,14 @@
 ---
 title: DocumentActionCollection
 second_title: Aspose.PDF for .NET API 参考
-description: DocumentActionCollection 的构造函数从 Pdf.Kit.Engine Document 对象构造 DocumentActionCollection 对象
+description: DocumentActionCollection 的构造函数从 Pdf.Kit.Engine Document object. 构造 DocumentActionCollection 对象
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/
 ---
 ## DocumentActionCollection constructor
 
-DocumentActionCollection 的构造函数。从 Pdf.Kit.Engine Document 对象构造 DocumentActionCollection 对象。
+DocumentActionCollection 的构造函数。从 Pdf.Kit.Engine Document object. 构造 DocumentActionCollection 对象
 
 ```csharp
 public DocumentActionCollection(Document document)

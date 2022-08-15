@@ -16,7 +16,7 @@ public void Save(Stream stream)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流保存字体。 |
+| stream | Stream | 流以保存字体。 |
 
 ### 也可以看看
 

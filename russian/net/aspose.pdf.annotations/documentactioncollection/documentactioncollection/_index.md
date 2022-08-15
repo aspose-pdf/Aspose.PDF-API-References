@@ -1,14 +1,14 @@
 ---
 title: DocumentActionCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор для DocumentActionCollection. Создает объекты DocumentActionCollection из объекта Document Pdf.Kit.Engine.
+description: Конструктор для DocumentActionCollection. Создает объекты DocumentActionCollection из Pdf.Kit.Engine Document object.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/
 ---
 ## DocumentActionCollection constructor
 
-Конструктор для DocumentActionCollection. Создает объекты DocumentActionCollection из объекта Document Pdf.Kit.Engine.
+Конструктор для DocumentActionCollection. Создает объекты DocumentActionCollection из Pdf.Kit.Engine Document object.
 
 ```csharp
 public DocumentActionCollection(Document document)

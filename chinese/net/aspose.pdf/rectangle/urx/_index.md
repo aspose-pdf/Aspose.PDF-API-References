@@ -1,14 +1,14 @@
 ---
 title: URX
 second_title: Aspose.PDF for .NET API 参考
-description: X - 右上角坐标
+description: X - 右上角的坐标
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/rectangle/urx/
 ---
 ## Rectangle.URX property
 
-X - 右上角坐标。
+X - 右上角的坐标。
 
 ```csharp
 public double URX { get; set; }

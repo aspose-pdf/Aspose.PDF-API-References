@@ -1,14 +1,14 @@
 ---
 title: IsRowBroken
 second_title: Aspose.PDF for .NET API 参考
-description: Gets is row 可以在两页之间断开
+description: 获取的是可以在两页之间断开的行
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 ---
 ## TableTRElement.IsRowBroken property
 
-Gets is row 可以在两页之间断开。
+获取的是可以在两页之间断开的行。
 
 ```csharp
 public bool IsRowBroken { get; set; }

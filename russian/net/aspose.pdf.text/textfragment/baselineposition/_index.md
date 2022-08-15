@@ -1,14 +1,14 @@
 ---
 title: BaselinePosition
 second_title: Aspose.PDF для справочника API .NET
-description: Получает текстовую позицию для текста представленного с помощью объектаTextFragmentaspose.pdf.text/textfragment. YIndent структуры Position представляет базовую координату текстового фрагмента.
+description: Получает текстовую позицию для текста представленного с помощьюTextFragmentaspose.pdf.text/textfragment object. YIndent структуры Position представляет базовую координату текстового фрагмента.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textfragment/baselineposition/
 ---
 ## TextFragment.BaselinePosition property
 
-Получает текстовую позицию для текста, представленного с помощью объекта[`TextFragment`](../../textfragment). YIndent структуры Position представляет базовую координату текстового фрагмента.
+Получает текстовую позицию для текста, представленного с помощью[`TextFragment`](../../textfragment) object. YIndent структуры Position представляет базовую координату текстового фрагмента.
 
 ```csharp
 public Position BaselinePosition { get; set; }

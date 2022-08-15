@@ -1,14 +1,14 @@
 ---
 title: Rotate
 second_title: Aspose.PDF for .NET API 参考
-description: 根据Rotationaspose.pdf/rotation值设置或获取图章内容的旋转 注意此属性用于设置为 90 度090180270 度倍数的角度 要设置任意角度请使用 RotateAngle 属性 如果 ArbitraryAngle 设置的角度不是 90 的倍数则 Rotate 属性返回 Rotation.None
+description: 设置或获取戳内容的旋转Rotationaspose.pdf/rotationvalues. 注意此属性用于设置角度为 90 度090180270 度的倍数 要设置任意角度请使用 RotateAngle 属性 如果 ArbitraryAngle 设置的角度不是 90 的倍数则 Rotate 属性返回 Rotation.None.
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/stamp/rotate/
 ---
 ## Stamp.Rotate property
 
-根据[`Rotation`](../../rotation)值设置或获取图章内容的旋转。 注意。此属性用于设置为 90 度（0、90、180、270 度）倍数的角度。 要设置任意角度，请使用 RotateAngle 属性。 如果 ArbitraryAngle 设置的角度不是 90 的倍数，则 Rotate 属性返回 Rotation.None。
+设置或获取戳内容的旋转[`Rotation`](../../rotation)values. 注意。此属性用于设置角度为 90 度（0、90、180、270 度）的倍数。 要设置任意角度，请使用 RotateAngle 属性。 如果 ArbitraryAngle 设置的角度不是 90 的倍数，则 Rotate 属性返回 Rotation.None.
 
 ```csharp
 public Rotation Rotate { get; set; }

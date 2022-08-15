@@ -1,14 +1,14 @@
 ---
 title: HtmlFragment
 second_title: Aspose.PDF for .NET API 参考
-description: 代表html片段
+description: 代表 html 片段
 type: docs
 weight: 3390
 url: /zh/net/aspose.pdf/htmlfragment/
 ---
 ## HtmlFragment class
 
-代表html片段。
+代表 html 片段。
 
 ```csharp
 public sealed class HtmlFragment : FormattedFragment
@@ -24,20 +24,20 @@ public sealed class HtmlFragment : FormattedFragment
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | 获取或设置段落的水平对齐方式 |
-| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions) { get; set; } | 获取或设置将用于将 HTML 加载（和呈现）到该类实例中的 HtmlLoadOptions。 请在必要时使用它 为这个或那个实例导入 HTML 使用特定设置 (fe 当这个或那个实例应该为导入的 HTML 使用特定的 BasePath 或应该使用特定的外部资源加载器) 如果参数为默认值 (null)，则将使用标准 HTML 加载选项。 |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | 获取或设置片段超链接（用于 pdf 生成器）。 |
-| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords) { get; set; } | 获取或设置分词 |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示该段落是否位于下一列。 默认为 false。（用于 pdf 生成） |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment) { get; set; } | 获取或设置段落 的水平对齐方式 |
+| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions) { get; set; } | 获取或设置将用于将 HTML 加载（和呈现）到该类实例中的 HtmlLoadOptions。 请在必要时使用它 为这个或那个实例导入 HTML 使用特定设置 （当这个或那个实例应该为导入的 HTML 使用特定的 BasePath 或应使用特定的外部资源加载器） 如果参数为默认值（空），则将使用标准的 HTML 加载选项。 |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | 获取或设置片段超链接（用于pdf生成器）。 |
+| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords) { get; set; } | 获取或设置单词 break |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | 获取或设置一个布尔值，指示此段落是否将在下一列。 默认为 false。（用于 pdf 生成） |
 | [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | 获取或设置段落是内联的。 默认为 false。（用于 pdf 生成） |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置强制此段落在新页面生成的布尔值。 默认为 false。（用于 pdf 生成） |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一段保持在同一页面中。 默认为 false。（用于 pdf 生成） |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | 获取或设置一个 bool 值，强制此段落在新页面生成。 默认为 false。（用于 pdf 生成） |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | 获取或设置一个布尔值，指示当前段落是否与下一个段落保持在同一页面中。 默认为 false。（用于 pdf 生成） |
 | [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin) { get; set; } | 获取或设置段落是否有默认边距，否则边距为 0 |
 | [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | 获取或设置段落的外边距（用于生成 pdf） |
 | [Rectangle](../../aspose.pdf/htmlfragment/rectangle) { get; } | 获取 HtmlFragment 的矩形 |
 | [TextState](../../aspose.pdf/htmlfragment/textstate) { get; set; } | 获取或设置字体 |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | 获取或设置段落的垂直对齐方式 |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个表示图形 Z 顺序的 int 值。具有较大 ZIndex 的图形将放置在具有较小 ZIndex 的图形上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中文本的后面。 |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | 获取或设置段落 的垂直对齐方式 |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | 获取或设置一个 int 值，指示图形的 Z 顺序。 ZIndex 较大的图将放置在 ZIndex 较小的图上。 ZIndex 可以是负数。带有负数 ZIndex 的图形将被放置在页面中的文本后面。 |
 
 ## 方法
 

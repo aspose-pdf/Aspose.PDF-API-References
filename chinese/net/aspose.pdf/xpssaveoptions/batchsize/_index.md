@@ -1,14 +1,14 @@
 ---
 title: BatchSize
 second_title: Aspose.PDF for .NET API 参考
-description: 如果批量转换适用则定义批量大小 到源和目标格式对
+description: 如果批量转换适用则定义批量大小 到源格式和目标格式对
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/xpssaveoptions/batchsize/
 ---
 ## XpsSaveOptions.BatchSize property
 
-如果批量转换适用，则定义批量大小 到源和目标格式对。
+如果批量转换适用，则定义批量大小 到源格式和目标格式对。
 
 ```csharp
 public int BatchSize { get; set; }

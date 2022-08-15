@@ -19,9 +19,9 @@ public class TextStyle
 | Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.pdf.annotations/textstyle/color) { get; set; } | Цвет текста. |
-| [FontName](../../aspose.pdf.annotations/textstyle/fontname) { get; set; } | Имя шрифта. |
+| [FontName](../../aspose.pdf.annotations/textstyle/fontname) { get; set; } | Название шрифта. |
 | [FontSize](../../aspose.pdf.annotations/textstyle/fontsize) { get; set; } | Размер шрифта. |
-| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment) { get; set; } | Выравнивание текста. Допустимые значения:слева, по центру, справа. |
+| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment) { get; set; } | Выравнивание текста. Допустимые значения: слева, по центру, справа. |
 
 ## Методы
 

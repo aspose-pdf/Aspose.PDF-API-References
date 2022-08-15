@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_LowerRoman
 second_title: Aspose.PDF для справочника API .NET
-description: Список атрибутов НумерацияLowerRoman - строчные римские цифры i ii iii iv ....
+description: Attribute ListNumbering LowerRoman - строчные римские цифры i ii iii iv ....
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_lowerroman/
 ---
 ## AttributeName.ListNumbering_LowerRoman field
 
-Список атрибутов Нумерация:LowerRoman - строчные римские цифры (i, ii, iii, iv, ...).
+Attribute ListNumbering: LowerRoman - строчные римские цифры (i, ii, iii, iv, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerRoman;

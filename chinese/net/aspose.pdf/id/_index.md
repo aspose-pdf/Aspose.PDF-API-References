@@ -18,7 +18,7 @@ public class Id
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Modified](../../aspose.pdf/id/modified) { get; } | 根据上次更新时的文档内容更改标识符。 |
+| [Modified](../../aspose.pdf/id/modified) { get; } | 根据文档上次更新时的内容更改标识符。 |
 | [Original](../../aspose.pdf/id/original) { get; } | 基于文档最初创建时的内容的永久标识符。 |
 
 ### 例子

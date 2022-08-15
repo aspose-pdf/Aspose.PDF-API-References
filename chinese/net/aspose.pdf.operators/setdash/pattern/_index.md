@@ -1,14 +1,14 @@
 ---
 title: Pattern
 second_title: Aspose.PDF for .NET API 参考
-description: 破折号模式数组的元素应该是指定交替破折号和间隙长度的数字 在一个元素数组破折号和间隙长度相等的情况下
+description: 破折号模式数组的元素应该是指定交替破折号和间隙长度的数字 如果一个元素数组破折号和间隙长度相等
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/setdash/pattern/
 ---
 ## SetDash.Pattern property
 
-破折号模式。数组的元素应该是指定交替破折号和间隙长度的数字。 在一个元素数组破折号和间隙长度相等的情况下。
+破折号模式。数组的元素应该是指定交替破折号和间隙长度的数字。 如果一个元素数组破折号和间隙长度相等。
 
 ```csharp
 public int[] Pattern { get; set; }

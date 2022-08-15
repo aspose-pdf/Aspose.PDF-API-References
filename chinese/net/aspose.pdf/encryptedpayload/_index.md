@@ -18,7 +18,7 @@ public sealed class EncryptedPayload
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload)(FileSpecification) | 初始化加密负载实例。 |
+| [EncryptedPayload](encryptedpayload)(FileSpecification) | 初始化加密的有效负载实例。 |
 
 ## 特性
 

@@ -16,7 +16,7 @@ public override void Process(Page page, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Конвертируемая страница. |
+| page | Page | Страница для конвертации. |
 | output | Stream | Выходной поток с изображением png. |
 
 ### Смотрите также

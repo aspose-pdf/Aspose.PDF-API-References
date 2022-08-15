@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PDF для справочника API .NET
-description: Проверяет существует ли элемент в коллекции выдает NotImplementedException .
+description: Проверяет существует ли элемент в коллекции выдаетНереализованное исключение .
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/optioncollection/contains/
 ---
 ## OptionCollection.Contains method
 
-Проверяет, существует ли элемент в коллекции, выдает NotImplementedException .
+Проверяет, существует ли элемент в коллекции, выдаетНереализованное исключение .
 
 ```csharp
 public bool Contains(Option item)
@@ -16,11 +16,11 @@ public bool Contains(Option item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | Option | Искомый предмет оператора. |
+| item | Option | Элемент оператора, который нужно найти. |
 
 ### Возвращаемое значение
 
-Выдает NotImplementedException
+БроскиНереализованное исключение
 
 ### Смотрите также
 

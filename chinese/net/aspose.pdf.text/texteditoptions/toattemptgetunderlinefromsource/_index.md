@@ -1,14 +1,14 @@
 ---
 title: ToAttemptGetUnderlineFromSource
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置允许在源文档页面上搜索文本下划线的值 已过时请改用 TextSearchOptions.SearchForTextRelatedGraphics
+description: 获取或设置允许在源文档页面上搜索文本下划线的值 已过时请使用 TextSearchOptions.SearchForTextRelatedGraphics 代替 this.
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/
 ---
 ## TextEditOptions.ToAttemptGetUnderlineFromSource property
 
-获取或设置允许在源文档页面上搜索文本下划线的值。 （已过时）请改用 TextSearchOptions.SearchForTextRelatedGraphics。
+获取或设置允许在源文档页面上搜索文本下划线的值。 （已过时）请使用 TextSearchOptions.SearchForTextRelatedGraphics 代替 this.
 
 ```csharp
 public bool ToAttemptGetUnderlineFromSource { get; set; }

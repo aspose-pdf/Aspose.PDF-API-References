@@ -16,7 +16,7 @@ public void SendTo(DocumentDevice device, Stream output)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| device | DocumentDevice | 文档设备，用于处理文档。 |
+| device | DocumentDevice | 用于处理文档的文档设备。 |
 | output | Stream | 输出流包含使用给定设备处理文档的结果。 |
 
 ### 也可以看看
@@ -30,7 +30,7 @@ public void SendTo(DocumentDevice device, Stream output)
 
 ## SendTo(DocumentDevice, int, int, Stream) {#sendto}
 
-将文档的特定页面发送到文档设备进行处理。
+将文档的某些页面发送到文档设备进行处理。
 
 ```csharp
 public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream output)
@@ -38,8 +38,8 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream outpu
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| device | DocumentDevice | 文档设备，用于处理文档。 |
-| fromPage | Int32 | 用于处理的第一页。 |
+| device | DocumentDevice | 用于处理文档的文档设备。 |
+| fromPage | Int32 | 要处理的第一页。 |
 | toPage | Int32 | 处理的最后一页。 |
 | output | Stream | 输出流包含使用给定设备处理文档页面的结果。 |
 
@@ -62,8 +62,8 @@ public void SendTo(DocumentDevice device, string outputFileName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| device | DocumentDevice | 文档设备，用于处理文档。 |
-| outputFileName | String | 输出文件名和处理结果。 |
+| device | DocumentDevice | 用于处理文档的文档设备。 |
+| outputFileName | String | 带有处理结果的输出文件名。 |
 
 ### 也可以看看
 
@@ -84,10 +84,10 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, string outpu
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| device | DocumentDevice | 文档设备，用于处理文档。 |
-| fromPage | Int32 | 用于处理的第一页。 |
+| device | DocumentDevice | 用于处理文档的文档设备。 |
+| fromPage | Int32 | 要处理的第一页。 |
 | toPage | Int32 | 处理的最后一页。 |
-| outputFileName | String | 输出文件名和处理结果。 |
+| outputFileName | String | 带有处理结果的输出文件名。 |
 
 ### 也可以看看
 

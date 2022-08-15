@@ -1,14 +1,14 @@
 ---
 title: LineHeight_Auto
 second_title: Aspose.PDF for .NET API 参考
-description: 属性 LineHeightAuto - 不得调整 BaselineShift 的值
+description: 属性 LineHeight Auto - 不得调整 BaselineShift 的值
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf.logicalstructure/attributename/lineheight_auto/
 ---
 ## AttributeName.LineHeight_Auto field
 
-属性 LineHeight:Auto - 不得调整 BaselineShift 的值。
+属性 LineHeight: Auto - 不得调整 BaselineShift 的值。
 
 ```csharp
 public static readonly AttributeName LineHeight_Auto;

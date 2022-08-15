@@ -1,14 +1,14 @@
 ---
 title: LoadFormat
 second_title: Aspose.PDF for .NET API 参考
-description: 表示LoadOptionsaspose.pdf/loadoptions描述的文件格式
+description: 代表文件格式LoadOptionsaspose.pdf/loadoptions描述.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/loadoptions/loadformat/
 ---
 ## LoadOptions.LoadFormat property
 
-表示[`LoadOptions`](../../loadoptions)描述的文件格式。
+代表文件格式[`LoadOptions`](../../loadoptions)描述.
 
 ```csharp
 public LoadFormat LoadFormat { get; }

@@ -1,14 +1,14 @@
 ---
 title: R
 second_title: Aspose.PDF для справочника API .NET
-description: Получает красную составляющую цвета
+description: Получает красный компонент color
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.operators/basicsetcoloroperator/r/
 ---
 ## BasicSetColorOperator.R property
 
-Получает красную составляющую цвета
+Получает красный компонент color
 
 ```csharp
 public double R { get; }

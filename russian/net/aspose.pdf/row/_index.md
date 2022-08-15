@@ -29,10 +29,10 @@ public sealed class Row : ICloneable
 | [Cells](../../aspose.pdf/row/cells) { get; set; } | Получает ячейки строки. |
 | [DefaultCellBorder](../../aspose.pdf/row/defaultcellborder) { get; set; } | Получает границу ячейки по умолчанию; |
 | [DefaultCellPadding](../../aspose.pdf/row/defaultcellpadding) { get; set; } | Получает или задает поле по умолчанию для ячеек строки |
-| [DefaultCellTextState](../../aspose.pdf/row/defaultcelltextstate) { get; set; } | Получает или задает состояние текста по умолчанию для ячеек строк |
-| [FixedRowHeight](../../aspose.pdf/row/fixedrowheight) { get; set; } | Получает фиксированную высоту строки - строка может иметь фиксированную высоту; |
-| [IsInNewPage](../../aspose.pdf/row/isinnewpage) { get; set; } | Получает фиксированную строку на новой странице - страница с этим свойством должна быть напечатана на следующей странице По умолчанию false; |
-| [IsRowBroken](../../aspose.pdf/row/isrowbroken) { get; set; } | Получает строку, которая может быть разбита между двумя страницами |
+| [DefaultCellTextState](../../aspose.pdf/row/defaultcelltextstate) { get; set; } | Получает или задает состояние текста по умолчанию для ячеек строки |
+| [FixedRowHeight](../../aspose.pdf/row/fixedrowheight) { get; set; } | Получает фиксированную высоту строки — строка может иметь фиксированную высоту; |
+| [IsInNewPage](../../aspose.pdf/row/isinnewpage) { get; set; } | Получает фиксированную строку на новой странице — страница с этим свойством должна быть напечатана на следующей странице. По умолчанию false; |
+| [IsRowBroken](../../aspose.pdf/row/isrowbroken) { get; set; } | Получает, что строка может быть разбита между двумя страницами |
 | [MinRowHeight](../../aspose.pdf/row/minrowheight) { get; set; } | Получает высоту строки; |
 | [VerticalAlignment](../../aspose.pdf/row/verticalalignment) { get; set; } | Получает или задает вертикальное выравнивание. |
 

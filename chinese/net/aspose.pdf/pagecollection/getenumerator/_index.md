@@ -16,7 +16,7 @@ public IEnumerator<Page> GetEnumerator()
 
 ### 返回值
 
-页数
+页面枚举器
 
 ### 也可以看看
 

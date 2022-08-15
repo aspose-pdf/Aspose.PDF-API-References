@@ -1,14 +1,14 @@
 ---
 title: MarginInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаMarginInfoaspose.pdf/margininfo.
+description: Инициализирует новый экземплярMarginInfoaspose.pdf/margininfo класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-Инициализирует новый экземпляр класса[`MarginInfo`](../../margininfo).
+Инициализирует новый экземпляр[`MarginInfo`](../../margininfo) класс.
 
 ```csharp
 public MarginInfo()
@@ -33,8 +33,8 @@ public MarginInfo(double left, double bottom, double right, double top)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | left | Double | Левое поле. |
-| нижнее | Double | Нижнее поле |
-| правое | Double | Правое поле. |
+| bottom | Double | Нижнее поле |
+| right | Double | Правая маржа. |
 | top | Double | Верхнее поле. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: PdfException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPdfExceptionaspose.pdf/pdfexception.
+description: Инициализирует новый экземплярPdfExceptionaspose.pdf/pdfexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pdfexception/pdfexception/
 ---
 ## PdfException() {#constructor}
 
-Инициализирует новый экземпляр класса[`PdfException`](../../pdfexception).
+Инициализирует новый экземпляр[`PdfException`](../../pdfexception) класс.
 
 ```csharp
 public PdfException()
@@ -24,7 +24,7 @@ public PdfException()
 
 ## PdfException(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PdfException`](../../pdfexception).
+Инициализирует новый экземпляр[`PdfException`](../../pdfexception) класс.
 
 ```csharp
 public PdfException(string message)
@@ -44,7 +44,7 @@ public PdfException(string message)
 
 ## PdfException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`PdfException`](../../pdfexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`PdfException`](../../pdfexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public PdfException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public PdfException(string message, Exception innerException)
 
 ## PdfException(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PdfException`](../../pdfexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`PdfException`](../../pdfexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public PdfException(Exception innerException)
@@ -73,7 +73,7 @@ public PdfException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

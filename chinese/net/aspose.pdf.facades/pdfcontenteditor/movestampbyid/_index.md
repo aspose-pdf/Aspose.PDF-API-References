@@ -17,9 +17,9 @@ public void MoveStampById(int pageNumber, int stampId, double x, double y)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pageNumber | Int32 | 页数。 |
-| stampId | Int32 | 应移动的戳记标识符。 |
+| stampId | Int32 | 应移动的标记的标识符。 |
 | x | Double | 页面上的新邮票水平位置。 |
-| y | Double | 页面上的新图章垂直位置。 |
+| y | Double | 新邮票在页面上的垂直位置。 |
 
 ### 也可以看看
 

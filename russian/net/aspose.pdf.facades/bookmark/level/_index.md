@@ -1,14 +1,14 @@
 ---
 title: Level
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает уровень иерархии закладок.
+description: Получает или задает уровень иерархии закладок.
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/bookmark/level/
 ---
 ## Bookmark.Level property
 
-Получает или устанавливает уровень иерархии закладок.
+Получает или задает уровень иерархии закладок.
 
 ```csharp
 public int Level { get; set; }

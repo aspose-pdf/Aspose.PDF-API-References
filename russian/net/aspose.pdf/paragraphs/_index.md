@@ -33,7 +33,7 @@ public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
 | --- | --- |
 | [Add](../../aspose.pdf/paragraphs/add)(BaseParagraph) | Добавить абзац в коллекцию. |
 | [Clear](../../aspose.pdf/paragraphs/clear)() | Очистить абзацы. |
-| [Clone](../../aspose.pdf/paragraphs/clone)() | Клонирует новый[`Clone`](./clone)объект. |
+| [Clone](../../aspose.pdf/paragraphs/clone)() | Клонирует новый[`Clone`](./clone) объект. |
 | [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator)() | Получает перечислитель. |
 | [GetRange](../../aspose.pdf/paragraphs/getrange)(int, int) | Удалить диапазон абзацев. |
 | [Insert](../../aspose.pdf/paragraphs/insert)(int, BaseParagraph) | Вставить абзац в коллекцию. |

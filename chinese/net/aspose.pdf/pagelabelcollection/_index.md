@@ -20,7 +20,7 @@ public class PageLabelCollection
 | --- | --- |
 | [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel)(int) | 通过页面索引获取页面标签（页面索引从0开始）。 |
 | [GetPages](../../aspose.pdf/pagelabelcollection/getpages)() | 获取集合中的页面索引。 |
-| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel)(int) | 按页面索引删除标签（页面索引从0开始）。 |
+| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel)(int) | 按页面索引删除标签（页面索引从0开始）. |
 | [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel)(int, PageLabel) | 更新给定页面索引的标签（页面索引从 0 开始）。 |
 
 ### 也可以看看

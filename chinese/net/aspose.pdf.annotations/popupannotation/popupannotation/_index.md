@@ -1,14 +1,14 @@
 ---
 title: PopupAnnotation
 second_title: Aspose.PDF for .NET API 参考
-description: 构造函数用于生成器
+description: 构造函数在 Generator. 中使用
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/popupannotation/popupannotation/
 ---
 ## PopupAnnotation(Document) {#constructor}
 
-构造函数。用于生成器。
+构造函数。在 Generator. 中使用
 
 ```csharp
 public PopupAnnotation(Document document)
@@ -38,7 +38,7 @@ public PopupAnnotation(Page page, Rectangle rect)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | page | Page | 应创建注释的文档页面。 |
-| rect | Rectangle | 标注矩形，定义标注在页面上的位置。 |
+| rect | Rectangle | 注释矩形，定义页面上注释的位置。 |
 
 ### 也可以看看
 

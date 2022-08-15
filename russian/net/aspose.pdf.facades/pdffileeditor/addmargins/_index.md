@@ -21,9 +21,9 @@ public bool AddMargins(string source, string destination, int[] pages, double le
 | destination | String | Путь, по которому будет сохранен результирующий документ. |
 | pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
 | leftMargin | Double | Левое поле. |
-| rightMargin | Double | Правое поле. |
+| rightMargin | Double | Правая маржа. |
 | topMargin | Double | Верхнее поле. |
-| bottomMargin | Double | Нижнее поле. |
+| bottomMargin | Double | Нижний край. |
 
 ### Возвращаемое значение
 
@@ -34,15 +34,15 @@ true, если изменение размера прошло успешно.
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMargins("input.pdf", "output.pdf", 
-     //обрабатываем страницы 1, 2, 3
+    //обрабатываем страницы 1, 2, 3
     new int[] { 1, 2, 3}, 
-     //левое поле 10 unit
+    //левое поле 10 единиц
     10, 
-     //правое поле 5 unit
+    //правое поле 5 единиц
     5, 
-     //верхнее поле равно 5 unit
+    //верхнее поле 5 единиц
     5, 
-     //нижнее поле 5 unit
+    //нижнее поле 5 единиц
     5);
 ```
 
@@ -66,12 +66,12 @@ public bool AddMargins(Stream source, Stream destination, int[] pages, double le
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | Stream | Поток, содержащий исходный документ. |
-| destination | Stream | Поток, в котором будет сохранен результирующий документ. |
+| destination | Stream | Поток, где результирующий документ будет сохранен. |
 | pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
 | leftMargin | Double | Левое поле. |
-| rightMargin | Double | Правое поле. |
+| rightMargin | Double | Правая маржа. |
 | topMargin | Double | Верхнее поле. |
-| bottomMargin | Double | Нижнее поле. |
+| bottomMargin | Double | Нижний край. |
 
 ### Возвращаемое значение
 
@@ -84,15 +84,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMargins(src, dest, 
-     //обрабатываем страницы 1, 2, 3
+    //обрабатываем страницы 1, 2, 3
     new int[] { 1, 2, 3}, 
-     //левое поле 10 unit
+    //левое поле 10 единиц
     10, 
-     //правое поле 5 unit
+    //правое поле 5 единиц
     5, 
-     //верхнее поле равно 5 unit
+    //верхнее поле 5 единиц
     5, 
-     //нижнее поле 5 unit
+    //нижнее поле 5 единиц
     5);
     dest.Close();
 ```

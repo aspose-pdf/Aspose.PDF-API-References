@@ -1,14 +1,14 @@
 ---
 title: PdfAction
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет действие в документе PDF
+description: Представляет действие в PDF-документе
 type: docs
 weight: 880
 url: /ru/net/aspose.pdf.annotations/pdfaction/
 ---
 ## PdfAction class
 
-Представляет действие в документе PDF
+Представляет действие в PDF-документе
 
 ```csharp
 public abstract class PdfAction : IAppointment

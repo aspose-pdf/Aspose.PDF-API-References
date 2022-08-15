@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает номер страницы.
+description: Получает или устанавливает номер страницы.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/stamp/pagenumber/
 ---
 ## Stamp.PageNumber property
 
-Получает или задает номер страницы.
+Получает или устанавливает номер страницы.
 
 ```csharp
 public int PageNumber { get; set; }

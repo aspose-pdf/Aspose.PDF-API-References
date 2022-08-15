@@ -1,14 +1,14 @@
 ---
 title: UniqueSuffix
 second_title: Aspose.PDF для справочника API .NET
-description: Формат суффикса который добавляется к имени поля чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку NUM которая будет заменена числами. Например если UniqueSuffix  ABCNUM то для поля fieldName имена будут fieldNameABC1 fieldNameABC2 fieldNameABC3 и т. д.
+description: Формат суффикса который добавляется к имени поля чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку NUM которая будет заменена числами. Например если UniqueSuffix  ABCNUM то для имена полей fieldName будут следующими fieldNameABC1 fieldNameABC2 fieldNameABC3 и т. д.
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/
 ---
 ## PdfFileEditor.UniqueSuffix property
 
-Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку %NUM%, которая будет заменена числами. Например, если UniqueSuffix = "ABC%NUM%", то для поля "fieldName" имена будут: fieldNameABC1, fieldNameABC2, fieldNameABC3 и т. д.
+Формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку %NUM%, которая будет заменена числами. Например, если UniqueSuffix = "ABC%NUM%", то для имена полей "fieldName" будут следующими: fieldNameABC1, fieldNameABC2, fieldNameABC3 и т. д.
 
 ```csharp
 public string UniqueSuffix { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DarkSlateBlue
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 ARGB 值为 FF483D8B 的系统定义颜色
+description: 获取系统定义的颜色其 ARGB 值为FF483D8B.
 type: docs
 weight: 360
 url: /zh/net/aspose.pdf/color/darkslateblue/
 ---
 ## Color.DarkSlateBlue property
 
-获取 ARGB 值为 #FF483D8B 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为#FF483D8B.
 
 ```csharp
 public static Color DarkSlateBlue { get; }
@@ -16,7 +16,7 @@ public static Color DarkSlateBlue { get; }
 
 ### 返回值
 
-A 表示系统定义的颜色。
+表示系统定义颜色的一个。
 
 ### 也可以看看
 

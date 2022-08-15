@@ -1,14 +1,22 @@
 ---
 title: EndPage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置将执行提取操作的页范围内的结束页  ltcodegt PdfExtractor ext  new PdfExtractor ext.BindBdfsample.pdf ext.StartPage  2 ext.EndPage  3 ext.ExtractText lt/codegt
+description: 获取或设置要执行提取操作的页范围内的结束页
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/pdfextractor/endpage/
 ---
 ## PdfExtractor.EndPage property
 
-获取或设置将执行提取操作的页范围内的结束页。  &lt;code&gt; PdfExtractor ext = new PdfExtractor(); ext.BindBdf("sample.pdf"); ext.StartPage = 2; ext.EndPage = 3; ext.ExtractText(); &lt;/code&gt;
+获取或设置要执行提取操作的页范围内的结束页。
+
+```csharp
+PdfExtractor ext = new PdfExtractor();
+ext.BindBdf("sample.pdf");
+ext.StartPage = 2;
+ext.EndPage = 3;
+ext.ExtractText();
+```
 
 ```csharp
 public int EndPage { get; set; }

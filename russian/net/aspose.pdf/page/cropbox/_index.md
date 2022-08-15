@@ -1,14 +1,14 @@
 ---
 title: CropBox
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает поле обрезки страницы.
+description: Получает или задает поле обрезки страницы.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/page/cropbox/
 ---
 ## Page.CropBox property
 
-Получает или устанавливает поле обрезки страницы.
+Получает или задает поле обрезки страницы.
 
 ```csharp
 public Rectangle CropBox { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ECC
 second_title: Aspose.PDF for .NET API 参考
-description: 获取表示纠错系数的整数值 对于 PDF417应为 0 到 8对于 QRCode应为 0 到 3 0 表示L1 表示M2 表示Q 3 代表H
+description: 获取表示纠错系数的整数值 对于 PDF417应为 0 到 8对于 QRCode应为 0 到 3 L为 0M为 1Q为 2H为 3
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/barcodefield/ecc/
 ---
 ## BarcodeField.ECC property
 
-获取表示纠错系数的整数值。 对于 PDF417，应为 0 到 8。对于 QRCode，应为 0 到 3 (0 表示“L”，1 表示“M”，2 表示“Q” �，3 代表‘H’)。
+获取表示纠错系数的整数值。 对于 PDF417，应为 0 到 8。对于 QRCode，应为 0 到 3 （“L”为 0，“M”为 1，“Q”为 2，“H”为 3）。
 
 ```csharp
 public int ECC { get; }

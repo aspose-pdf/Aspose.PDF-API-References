@@ -1,14 +1,14 @@
 ---
 title: Center
 second_title: Aspose.PDF for .NET API 参考
-description: 返回矩形中心的cs坐标
+description: returncs 矩形中心坐标
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/rectangle/center/
 ---
 ## Rectangle.Center method
 
-返回矩形中心的cs坐标。
+returncs 矩形中心坐标。
 
 ```csharp
 public Point Center()
@@ -16,7 +16,7 @@ public Point Center()
 
 ### 返回值
 
-矩形中心点。
+矩形的中心点。
 
 ### 也可以看看
 

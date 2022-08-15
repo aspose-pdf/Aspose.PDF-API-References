@@ -1,14 +1,14 @@
 ---
 title: AngleZ
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает угол относительно оси Z.
+description: Получает или задает угол по оси Z.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/
 ---
 ## PDF3DCuttingPlaneOrientation.AngleZ property
 
-Получает или задает угол относительно оси Z.
+Получает или задает угол по оси Z.
 
 ```csharp
 public double? AngleZ { get; set; }

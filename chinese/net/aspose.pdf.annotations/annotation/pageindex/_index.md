@@ -1,14 +1,14 @@
 ---
 title: PageIndex
 second_title: Aspose.PDF for .NET API 参考
-description: 获取包含注释的页面的索引
+description: 获取包含注释的页面索引
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.annotations/annotation/pageindex/
 ---
 ## Annotation.PageIndex property
 
-获取包含注释的页面的索引。
+获取包含注释的页面索引。
 
 ```csharp
 public virtual int PageIndex { get; }

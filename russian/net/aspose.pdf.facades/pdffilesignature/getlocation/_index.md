@@ -16,7 +16,7 @@ public string GetLocation(string signName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| signName | String | Имя подписи. |
+| signName | String | Название подписи. |
 
 ### Возвращаемое значение
 

@@ -1,14 +1,14 @@
 ---
 title: Dash
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置破折号模式
+description: 获取或设置虚线模式
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/border/dash/
 ---
 ## Border.Dash property
 
-获取或设置破折号模式。
+获取或设置虚线模式。
 
 ```csharp
 public Dash Dash { get; set; }

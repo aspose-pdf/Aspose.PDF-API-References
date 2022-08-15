@@ -1,14 +1,14 @@
 ---
 title: XDP
 second_title: Aspose.PDF for .NET API 参考
-description: XML 数据包周围 XML 容器中的所有 XFA 表单组件
+description: XML 数据包周围 XML 容器内的所有 XFA 表单组件
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.forms/xfa/xdp/
 ---
 ## XFA.XDP property
 
-XML 数据包（周围 XML 容器中的所有 XFA 表单组件）。
+XML 数据包（周围 XML 容器内的所有 XFA 表单组件）。
 
 ```csharp
 public XmlDocument XDP { get; }

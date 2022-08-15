@@ -1,19 +1,19 @@
 ---
 title: Aspose.Pdf.Optimization
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.Optimization 是用于管理文档优化过程的类的命名空间
+description: 的 Aspose.Pdf.Optimization是用于管理文档优化过程的类的命名空间
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.optimization/
 ---
-**Aspose.Pdf.Optimization** 是用于管理文档优化过程的类的命名空间。
+的 **Aspose.Pdf.Optimization**是用于管理文档优化过程的类的命名空间。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
 | [ImageCompressionOptions](./imagecompressionoptions) | 类包含图像压缩的设置选项。 |
-| [OptimizationOptions](./optimizationoptions) | 描述文档优化算法的类。 此类的实例可以用作 OptimizeResources() 方法的参数。 |
+| [OptimizationOptions](./optimizationoptions) | 描述文档优化算法的类。 该类的实例可以用作 OptimizeResources() 方法的参数。 |
 ## 枚举
 
 | 枚举 | 描述 |

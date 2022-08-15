@@ -1,14 +1,14 @@
 ---
 title: Forms
 second_title: Aspose.PDF для справочника API .NET
-description: ПолучаетFormsaspose.pdf/resources/formsколлекция форм
+description: получаетFormsaspose.pdf/resources/forms коллекция форм
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/resources/forms/
 ---
 ## Resources.Forms property
 
-Получает`Forms`коллекция форм
+получает`Forms` коллекция форм
 
 ```csharp
 public XFormCollection Forms { get; }

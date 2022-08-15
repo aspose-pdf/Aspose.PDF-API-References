@@ -16,7 +16,7 @@ public void BindXml(string file)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| file | String | xml 文件 |
+| file | String | xml文件 |
 
 ### 也可以看看
 
@@ -80,7 +80,7 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 | --- | --- | --- |
 | xmlStream | Stream | xml 流。 |
 | xslStream | Stream | 如果使用 XSLT，则为 xsl 流。 |
-| settings | XmlReaderSettings | xml阅读器设置。 |
+| settings | XmlReaderSettings | xml 阅读器设置。 |
 
 ### 也可以看看
 

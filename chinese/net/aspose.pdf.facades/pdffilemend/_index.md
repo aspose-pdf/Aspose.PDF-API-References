@@ -1,14 +1,14 @@
 ---
 title: PdfFileMend
 second_title: Aspose.PDF for .NET API 参考
-description: 表示用于在现有 PDF 文档的页面上添加文本和图像的类
+description: 表示在现有 PDF 文档的页面上添加文本和图像的类
 type: docs
 weight: 2540
 url: /zh/net/aspose.pdf.facades/pdffilemend/
 ---
 ## PdfFileMend class
 
-表示用于在现有 PDF 文档的页面上添加文本和图像的类。
+表示在现有 PDF 文档的页面上添加文本和图像的类。
 
 ```csharp
 public sealed class PdfFileMend : SaveableFacade
@@ -18,17 +18,17 @@ public sealed class PdfFileMend : SaveableFacade
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfFileMend](pdffilemend#constructor)() | 构造函数。 |
-| [PdfFileMend](pdffilemend#constructor_1)(Document) | 在*document*的基础上初始化新的[`PdfFileMend`](../pdffilemend)对象。 |
+| [PdfFileMend](pdffilemend#constructor)() | 构造函数. |
+| [PdfFileMend](pdffilemend#constructor_1)(Document) | 初始化新的[`PdfFileMend`](../pdffilemend)对象基于*document*. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | 获取正在处理的文档外观。 |
-| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap) { set; } | 设置一个布尔值，表示 AddText 方法中的自动换行。 如果值为 true，则 FormattedText 中的文本将自动换行。 默认为假。 |
+| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap) { set; } | 设置一个布尔值，表示 AddText 方法中的自动换行。 如果该值为 true，则 FormattedText 中的文本将自动换行。 默认情况下，该值为 false。 |
 | [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode) { get; set; } | 设置或获取文本定位策略。[`PositioningMode`](../positioningmode) 默认模式是传统模式。 |
-| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode) { get; set; } | 设置或获取自动换行算法。请参阅 WordWrapMode 和 IsWordWrap。 |
+| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode) { get; set; } | 设置或获取自动换行算法。请参阅 WordWrapMode 和 IsWordWrap. |
 
 ## 方法
 
@@ -42,15 +42,15 @@ public sealed class PdfFileMend : SaveableFacade
 | [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_3)(Stream, int[], float, float, float, float, CompositingParameters) | 在指定坐标处将图像添加到 PDF 文档的指定页面。 |
 | [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_5)(string, int, float, float, float, float, CompositingParameters) | 在指定坐标处将图像添加到 PDF 文档的指定页面。 |
 | [AddImage](../../aspose.pdf.facades/pdffilemend/addimage#addimage_7)(string, int[], float, float, float, float, CompositingParameters) | 在指定坐标处将图像添加到 PDF 文档的指定页面。 |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext)(FormattedText, int, float, float) | 未实现。 |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_1)(FormattedText, int, float, float, float, float) | 未实现。 |
-| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_2)(FormattedText, int[], float, float, float, float) | 未实现。 |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext)(FormattedText, int, float, float) | 未实施。 |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_1)(FormattedText, int, float, float, float, float) | 未实施。 |
+| [AddText](../../aspose.pdf.facades/pdffilemend/addtext#addtext_2)(FormattedText, int[], float, float, float, float) | 未实施。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | 初始化外观。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | 初始化外观。 |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | 初始化外观。 |
 | override [Close](../../aspose.pdf.facades/pdffilemend/close)() | 关闭 PdfFileMend 对象。 |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 配置外观。 |
-| override [Save](../../aspose.pdf.facades/pdffilemend/save#save)(Stream) | 将 PDF 文档保存到指定的流。 |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | 处理外观。 |
+| override [Save](../../aspose.pdf.facades/pdffilemend/save#save)(Stream) | 将 PDF 文档保存到指定的流中。 |
 | override [Save](../../aspose.pdf.facades/pdffilemend/save#save_1)(string) | 将 PDF 文档保存到指定文件。 |
 
 ### 也可以看看

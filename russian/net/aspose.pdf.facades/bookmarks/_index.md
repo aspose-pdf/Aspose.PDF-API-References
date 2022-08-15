@@ -1,14 +1,14 @@
 ---
 title: Bookmarks
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет набор объектовBookmark./bookmark.
+description: Представляет наборBookmark./bookmark объекты.
 type: docs
 weight: 2210
 url: /ru/net/aspose.pdf.facades/bookmarks/
 ---
 ## Bookmarks class
 
-Представляет набор объектов[`Bookmark`](../bookmark).
+Представляет набор[`Bookmark`](../bookmark) объекты.
 
 ```csharp
 public sealed class Bookmarks : List<Bookmark>

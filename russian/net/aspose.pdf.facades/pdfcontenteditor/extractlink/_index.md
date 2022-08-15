@@ -27,7 +27,7 @@ IList links = editor.ExtractLink();
 foreach (object obj in links)
 {
     Link link = (Link)obj;
-     // работа с Link instance
+    // работа с экземпляром Link
 }
 ```
 

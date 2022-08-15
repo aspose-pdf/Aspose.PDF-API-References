@@ -1,14 +1,14 @@
 ---
 title: First
 second_title: Aspose.PDF for .NET API 参考
-description: 获取表示大纲中第一个顶级项的大纲项
+description: 获取代表大纲中第一个顶级项的大纲项
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/outlinecollection/first/
 ---
 ## OutlineCollection.First property
 
-获取表示大纲中第一个顶级项的大纲项。
+获取代表大纲中第一个顶级项的大纲项。
 
 ```csharp
 public OutlineItemCollection First { get; }

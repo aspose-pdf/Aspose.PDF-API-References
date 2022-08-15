@@ -1,14 +1,14 @@
 ---
 title: H1
 second_title: Aspose.PDF for .NET API 参考
-description: 级别 1 标题用于无法分层嵌套其部分并因此无法从其嵌套级别确定标题级别的符合编写者
+description: 1 级标题用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合格作者
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/h1/
 ---
 ## StructureTypeStandard.H1 field
 
-级别 1 标题，用于无法分层嵌套其部分并因此无法从其嵌套级别确定标题级别的符合编写者。
+1 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合格作者。
 
 ```csharp
 public static readonly StructureTypeStandard H1;

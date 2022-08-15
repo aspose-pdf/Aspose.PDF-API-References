@@ -19,7 +19,7 @@ public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color
 | rect | Rectangle | Прямоугольник для активного клика. |
 | originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
 | color | Color | Цвет прямоугольника для активного клика. |
-| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в программе просмотра Acrobat. |
+| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в средстве просмотра Acrobat. |
 
 ### Примеры
 

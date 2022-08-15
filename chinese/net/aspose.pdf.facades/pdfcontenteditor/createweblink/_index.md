@@ -1,14 +1,14 @@
 ---
 title: CreateWebLink
 second_title: Aspose.PDF for .NET API 参考
-description: 在 PDF 文档中创建 Web 链接
+description: 在 PDF 文档中创建一个 Web 链接
 type: docs
 weight: 300
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createweblink/
 ---
 ## CreateWebLink(Rectangle, string, int, Color, Enum[]) {#createweblink_2}
 
-在 PDF 文档中创建 Web 链接。
+在 PDF 文档中创建一个 Web 链接。
 
 ```csharp
 public void CreateWebLink(Rectangle rect, string url, int originalPage, Color clr, 
@@ -19,7 +19,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | --- | --- | --- |
 | rect | Rectangle | 活动点击的矩形。 |
 | url | String | Web 链接目标。 |
-| originalPage | Int32 | 将在其上创建与 Web 链接绑定的矩形的原始页面的数量。 |
+| originalPage | Int32 | 将在其上创建与 Web 链接绑定的矩形的原始页面数。 |
 | clr | Color | 活动点击的矩形颜色。 |
 | actionName | Enum[] | 对应于在 Acrobat 查看器中执行的菜单项的操作数组（PredefinedAction 枚举的成员）。 |
 
@@ -29,7 +29,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf("example.pdf");
 editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
-    "http:  //www.aspose.com", 1, System.Drawing.Color.Red,
+    "http://www.aspose.com", 1, System.Drawing.Color.Red,
     new Enum[] { PredefinedAction.FirstPage, PredefinedAction.PrintDialog });
 editor.Save("example_out.pdf");
 ```
@@ -44,7 +44,7 @@ editor.Save("example_out.pdf");
 
 ## CreateWebLink(Rectangle, string, int, Color) {#createweblink_1}
 
-在 PDF 文档中创建 Web 链接。
+在 PDF 文档中创建一个 Web 链接。
 
 ```csharp
 public void CreateWebLink(Rectangle rect, string url, int originalPage, Color clr)
@@ -63,7 +63,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf("example.pdf");
 editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
-    "http:  //www.aspose.com", 1, System.Drawing.Color.Red });
+    "http://www.aspose.com", 1, System.Drawing.Color.Red });
 editor.Save("example_out.pdf");
 ```
 
@@ -77,7 +77,7 @@ editor.Save("example_out.pdf");
 
 ## CreateWebLink(Rectangle, string, int) {#createweblink}
 
-在 PDF 文档中创建 Web 链接。
+在 PDF 文档中创建一个 Web 链接。
 
 ```csharp
 public void CreateWebLink(Rectangle rect, string url, int originalPage)
@@ -94,7 +94,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage)
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf("example.pdf");
-editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http:  //www.aspose.com", 1 });
+editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.aspose.com", 1 });
 editor.Save("example_out.pdf");
 ```
 

@@ -1,14 +1,14 @@
 ---
 title: Extension
 second_title: Aspose.PDF for .NET API 参考
-description: 获取扩展名
+description: 获取扩展名 .
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/extension/
 ---
 ## PDF3DContent.Extension property
 
-获取扩展名。
+获取扩展名 .
 
 ```csharp
 public string Extension { get; }

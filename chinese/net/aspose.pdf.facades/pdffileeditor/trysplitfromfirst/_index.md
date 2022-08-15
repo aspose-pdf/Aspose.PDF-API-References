@@ -1,14 +1,14 @@
 ---
 title: TrySplitFromFirst
 second_title: Aspose.PDF for .NET API 参考
-description: 将PDF文件从第一页拆分到指定位置并将前面部分保存为新文件
+description: 将PDF文件从第一页拆分到指定位置并将前面部分另存为新文件
 type: docs
 weight: 490
 url: /zh/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
 ## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_2}
 
-将PDF文件从第一页拆分到指定位置，并将前面部分保存为新文件。
+将PDF文件从第一页拆分到指定位置，并将前面部分另存为新文件。
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
@@ -16,17 +16,17 @@ public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 源 Pdf 文件。 |
+| inputFile | String | 源 PDF 文件。 |
 | location | Int32 | 分裂点。 |
-| outputFile | String | 输出 Pdf 文件。 |
+| outputFile | String | 输出 PDF 文件。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-TrySplitFromFirst 方法类似于 SplitFromFirst 方法，除了 TrySplitFromFirst 方法不会抛出异常，如果操作失败。
+TrySplitFromFirst 方法类似于 SplitFromFirst 方法，只是 TrySplitFromFirst 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -59,11 +59,11 @@ public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStr
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-在此操作后流不会关闭。 TrySplitFromFirst 方法类似于 SplitFromFirst 方法，只是 TrySplitFromFirst 方法在操作失败时不会抛出异常。
+在此操作后流不会关闭。 TrySplitFromFirst 方法类似于 SplitFromFirst 方法，只是 TrySplitFromFirst 方法在操作失败时不会引发异常。
 
 ### 例子
 
@@ -84,7 +84,7 @@ pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 
 ## TrySplitFromFirst(string, int, HttpResponse) {#trysplitfromfirst_3}
 
-将文档从第一页拆分到位置并将结果保存到 HttpResponse 对象中。
+将文档从第一页拆分到某个位置，并将结果保存到 HttpResponse 对象中。
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, HttpResponse response)
@@ -93,16 +93,16 @@ public bool TrySplitFromFirst(string inputFile, int location, HttpResponse respo
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 源文件名。 |
-| location | Int32 | 分割点。 |
+| location | Int32 | 分裂点。 |
 | response | HttpResponse | HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TrySplitFromFirst 方法类似于 SplitFromFirst 方法，除了 TrySplitFromFirst 方法不会抛出异常，如果操作失败。
+TrySplitFromFirst 方法类似于 SplitFromFirst 方法，只是 TrySplitFromFirst 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -114,7 +114,7 @@ TrySplitFromFirst 方法类似于 SplitFromFirst 方法，除了 TrySplitFromFir
 
 ## TrySplitFromFirst(Stream, int, HttpResponse) {#trysplitfromfirst_1}
 
-将文档从开始拆分到指定位置并将结果存储到 HttpResponse 对象中。
+将文档从开始拆分到指定位置，并将结果存储到 HttpResponse 对象中。
 
 ```csharp
 public bool TrySplitFromFirst(Stream inputStream, int location, HttpResponse response)
@@ -124,15 +124,15 @@ public bool TrySplitFromFirst(Stream inputStream, int location, HttpResponse res
 | --- | --- | --- |
 | inputStream | Stream | 源文档流。 |
 | location | Int32 | 分裂点。 |
-| response | HttpResponse | HttpResponse 对象将存储结果。 |
+| response | HttpResponse | 将存储结果的 HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TrySplitFromFirst 方法类似于 SplitFromFirst 方法，除了 TrySplitFromFirst 方法不会抛出异常，如果操作失败。
+TrySplitFromFirst 方法类似于 SplitFromFirst 方法，只是 TrySplitFromFirst 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 

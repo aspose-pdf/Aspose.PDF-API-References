@@ -1,14 +1,14 @@
 ---
 title: ImageType
 second_title: Aspose.PDF for .NET API 参考
-description: 表示 HTML 中引用的类型 os 保存的图像 由转换器设置可以在自定义代码中使用 来决定应该做什么
+description: 表示在 HTML 中引用的类型 os 保存的图像 由转换器设置可以在自定义代码中使用 来决定应该做什么
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype/
 ---
 ## SvgSaveOptions.SvgImageSavingInfo.ImageType field
 
-表示 HTML 中引用的类型 os 保存的图像。 由转换器设置，可以在自定义代码中使用 来决定应该做什么
+表示在 HTML 中引用的类型 os 保存的图像。 由转换器设置，可以在自定义代码中使用 来决定应该做什么
 
 ```csharp
 public SvgExternalImageType ImageType;

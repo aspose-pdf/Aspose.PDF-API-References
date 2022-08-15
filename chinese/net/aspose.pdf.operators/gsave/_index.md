@@ -1,14 +1,14 @@
 ---
 title: GSave
 second_title: Aspose.PDF for .NET API 参考
-description: 表示q运算符的类保存图形状态
+description: 表示 q 运算符的类保存图形状态
 type: docs
 weight: 5190
 url: /zh/net/aspose.pdf.operators/gsave/
 ---
 ## GSave class
 
-表示q运算符的类（保存图形状态）。
+表示 q 运算符的类（保存图形状态）。
 
 ```csharp
 public class GSave : Operator

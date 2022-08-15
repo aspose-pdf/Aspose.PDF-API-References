@@ -1,14 +1,14 @@
 ---
 title: TextSegmentCollection
 second_title: Aspose.PDF for .NET API 参考
-description: 表示文本段集合
+description: 表示一个文本段集合
 type: docs
 weight: 7220
 url: /zh/net/aspose.pdf.text/textsegmentcollection/
 ---
 ## TextSegmentCollection class
 
-表示文本段集合
+表示一个文本段集合
 
 ```csharp
 public sealed class TextSegmentCollection : ICollection<TextSegment>
@@ -18,7 +18,7 @@ public sealed class TextSegmentCollection : ICollection<TextSegment>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.text/textsegmentcollection/count) { get; } | 获取集合中实际包含的[`TextSegment`](../textsegment)对象元素的数量。 |
+| [Count](../../aspose.pdf.text/textsegmentcollection/count) { get; } | 获取数量[`TextSegment`](../textsegment)集合中实际包含的对象元素。 |
 | [IsReadOnly](../../aspose.pdf.text/textsegmentcollection/isreadonly) { get; } | 获取表示集合是否为只读的值 |
 | [IsSynchronized](../../aspose.pdf.text/textsegmentcollection/issynchronized) { get; } | 获取一个值，该值指示对集合的访问是否同步（线程安全）。 |
 | [Item](../../aspose.pdf.text/textsegmentcollection/item) { get; } | 获取指定索引处的文本段元素。 |
@@ -31,9 +31,9 @@ public sealed class TextSegmentCollection : ICollection<TextSegment>
 | [Add](../../aspose.pdf.text/textsegmentcollection/add)(TextSegment) | 在指定索引处添加文本段元素。 |
 | [Clear](../../aspose.pdf.text/textsegmentcollection/clear)() | 清除集合中的所有项目。 |
 | [Contains](../../aspose.pdf.text/textsegmentcollection/contains)(TextSegment) | 确定集合是否包含特定值。 |
-| [CopyTo](../../aspose.pdf.text/textsegmentcollection/copyto)(TextSegment[], int) | 将整个集合复制到兼容的一维数组，从目标数组的指定索引开始 |
+| [CopyTo](../../aspose.pdf.text/textsegmentcollection/copyto)(TextSegment[], int) | 将整个集合复制到一个兼容的一维数组中，从目标数组的指定索引开始 |
 | [GetEnumerator](../../aspose.pdf.text/textsegmentcollection/getenumerator)() | 返回整个集合的枚举数。 |
-| [Remove](../../aspose.pdf.text/textsegmentcollection/remove)(TextSegment) | 从集合中删除指定项目。 |
+| [Remove](../../aspose.pdf.text/textsegmentcollection/remove)(TextSegment) | 从集合中删除指定的项目。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API 参考
-description: 将指定的横截面添加到视图数组
+description: 将指定的横截面添加到视图数组 .
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/
 ---
 ## PDF3DCrossSectionArray.Add method
 
-将指定的横截面添加到视图数组。
+将指定的横截面添加到视图数组 .
 
 ```csharp
 public void Add(PDF3DCrossSection crossSection)

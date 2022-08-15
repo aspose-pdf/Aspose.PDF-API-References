@@ -1,14 +1,14 @@
 ---
 title: DefaultAppearance
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表单的默认外观描述表单字段的默认字体文本大小和颜色的对象
+description: 获取或设置表单的默认外观描述表单上字段的默认字体文本大小和颜色的对象
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/form/defaultappearance/
 ---
 ## Form.DefaultAppearance property
 
-获取或设置表单的默认外观（描述表单字段的默认字体、文本大小和颜色的对象）。
+获取或设置表单的默认外观（描述表单上字段的默认字体、文本大小和颜色的对象）。
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }

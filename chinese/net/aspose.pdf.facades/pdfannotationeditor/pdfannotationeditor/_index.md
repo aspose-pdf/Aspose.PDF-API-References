@@ -1,14 +1,14 @@
 ---
 title: PdfAnnotationEditor
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化新的PdfAnnotationEditoraspose.pdf.facades/pdfannotationeditor对象
+description: 初始化新的PdfAnnotationEditoraspose.pdf.facades/pdfannotationeditor对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-初始化新的[`PdfAnnotationEditor`](../../pdfannotationeditor)对象。
+初始化新的[`PdfAnnotationEditor`](../../pdfannotationeditor)对象.
 
 ```csharp
 public PdfAnnotationEditor()
@@ -24,7 +24,7 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor(Document) {#constructor_1}
 
-在*document*的基础上初始化新的[`PdfAnnotationEditor`](../../pdfannotationeditor)对象。
+初始化新的[`PdfAnnotationEditor`](../../pdfannotationeditor)对象基于*document*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)
@@ -32,7 +32,7 @@ public PdfAnnotationEditor(Document document)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | Pdf 文档。 |
+| document | Document | Pdf 文档. |
 
 ### 也可以看看
 

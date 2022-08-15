@@ -1,14 +1,14 @@
 ---
 title: GifDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаGifDeviceaspose.pdf.devices/gifdeviceс разрешением по умолчанию.
+description: Инициализирует новый экземплярGifDeviceaspose.pdf.devices/gifdevice класс с разрешением по умолчанию.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/gifdevice/gifdevice/
 ---
 ## GifDevice() {#constructor}
 
-Инициализирует новый экземпляр класса[`GifDevice`](../../gifdevice)с разрешением по умолчанию.
+Инициализирует новый экземпляр[`GifDevice`](../../gifdevice) класс с разрешением по умолчанию.
 
 ```csharp
 public GifDevice()
@@ -24,7 +24,7 @@ public GifDevice()
 
 ## GifDevice(Resolution) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GifDevice`](../../gifdevice).  Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)class .
+Инициализирует новый экземпляр[`GifDevice`](../../gifdevice) класс.  Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс.
 
 ```csharp
 public GifDevice(Resolution resolution)
@@ -41,7 +41,7 @@ public GifDevice(Resolution resolution)
 
 ## GifDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`GifDevice`](../../gifdevice)с предоставленными размерами изображения и разрешающая способность.
+Инициализирует новый экземпляр[`GifDevice`](../../gifdevice) класс с предоставленными размерами изображения и разрешением .
 
 ```csharp
 public GifDevice(int width, int height, Resolution resolution)
@@ -51,7 +51,7 @@ public GifDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 
@@ -64,7 +64,7 @@ public GifDevice(int width, int height, Resolution resolution)
 
 ## GifDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`GifDevice`](../../gifdevice)с указанным размером страницы и разрешающая способность.
+Инициализирует новый экземпляр[`GifDevice`](../../gifdevice)класс с предоставленным размером страницы и разрешением .
 
 ```csharp
 public GifDevice(PageSize pageSize, Resolution resolution)
@@ -73,7 +73,7 @@ public GifDevice(PageSize pageSize, Resolution resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution)класс. |
+| resolution | Resolution | Разрешение результирующего файла изображения, см.[`Resolution`](../../resolution) класс. |
 
 ### Смотрите также
 
@@ -87,7 +87,7 @@ public GifDevice(PageSize pageSize, Resolution resolution)
 
 ## GifDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`GifDevice`](../../gifdevice)с заданными размерами изображения, разрешение по умолчанию (=150).
+Инициализирует новый экземпляр[`GifDevice`](../../gifdevice) класс с предоставленными размерами изображения, разрешение по умолчанию (= 150).
 
 ```csharp
 public GifDevice(int width, int height)
@@ -108,7 +108,7 @@ public GifDevice(int width, int height)
 
 ## GifDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`GifDevice`](../../gifdevice)с заданным размером страницы, разрешение по умолчанию (=150).
+Инициализирует новый экземпляр[`GifDevice`](../../gifdevice) class с предоставленным размером страницы, разрешением по умолчанию (=150).
 
 ```csharp
 public GifDevice(PageSize pageSize)

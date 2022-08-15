@@ -20,7 +20,7 @@ public static explicit operator XmpValue[](XmpValue value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 
@@ -44,7 +44,7 @@ public static explicit operator object[](XmpValue value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 
@@ -68,7 +68,7 @@ public static explicit operator string(XmpValue value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 
@@ -92,7 +92,7 @@ public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
 
 ### 返回值
 
-XmlValue。
+Xml 值。
 
 ### 也可以看看
 

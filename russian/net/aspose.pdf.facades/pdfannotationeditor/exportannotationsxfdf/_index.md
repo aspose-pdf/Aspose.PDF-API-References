@@ -19,7 +19,7 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 | xmlOutputStream | Stream | Выходной поток XFDF. |
 | start | Int32 | Стартовая страница, с которой будут экспортироваться аннотации документа. |
 | end | Int32 | Конечная страница, на которую будут экспортированы аннотации документа. |
-| annotTypes | String[] | Необходимо экспортировать массив типов аннотаций. |
+| annotTypes | String[] | Массив типов аннотаций необходимо экспортировать. |
 
 ### Примеры
 
@@ -55,7 +55,7 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 | xmlOutputStream | Stream | Выходной поток XFDF. |
 | start | Int32 | Стартовая страница, с которой будут экспортироваться аннотации документа. |
 | end | Int32 | Конечная страница, на которую будут экспортированы аннотации документа. |
-| annotTypes | AnnotationType[] | Необходимо экспортировать массив типов аннотаций. |
+| annotTypes | AnnotationType[] | Массив типов аннотаций необходимо экспортировать. |
 
 ### Примеры
 

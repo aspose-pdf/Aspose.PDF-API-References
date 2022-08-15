@@ -1,14 +1,14 @@
 ---
 title: XmpPdfAExtensionSchema
 second_title: Aspose.PDF for .NET API 参考
-description: 描述 PDF/A-1 提供的 XMP 扩展模式
+description: 描述 PDF/A-1 提供的 XMP 扩展架构
 type: docs
 weight: 7520
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/
 ---
 ## XmpPdfAExtensionSchema class
 
-描述 PDF/A-1 提供的 XMP 扩展模式。
+描述 PDF/A-1 提供的 XMP 扩展架构。
 
 ```csharp
 public class XmpPdfAExtensionSchema
@@ -32,27 +32,27 @@ public class XmpPdfAExtensionSchema
 | 姓名 | 描述 |
 | --- | --- |
 | [Add](../../aspose.pdf/xmppdfaextensionschema/add)(XmpPdfAExtensionObject) | 将新对象添加到架构中。 |
-| [Contains](../../aspose.pdf/xmppdfaextensionschema/contains)(XmpPdfAExtensionObject) | 判断 obj 是否存在于 schema 中。 |
+| [Contains](../../aspose.pdf/xmppdfaextensionschema/contains)(XmpPdfAExtensionObject) | 判断 obj 是否存在于 schema. |
 | [GetProperty](../../aspose.pdf/xmppdfaextensionschema/getproperty)(string) | 按名称返回 PDF/A 属性。 |
 | [GetSchemaXml](../../aspose.pdf/xmppdfaextensionschema/getschemaxml)(XmlDocument) | 返回表示 xml 树中架构的 xml 元素（标记 - li）。 |
-| [GetValuesXml](../../aspose.pdf/xmppdfaextensionschema/getvaluesxml)(XmlDocument, XmlElement) | 获取属性值作为 xml 树表示。 |
-| [Remove](../../aspose.pdf/xmppdfaextensionschema/remove)(XmpPdfAExtensionObject) | 从模式中删除对象。 |
+| [GetValuesXml](../../aspose.pdf/xmppdfaextensionschema/getvaluesxml)(XmlDocument, XmlElement) | 以 xml 树表示形式获取属性值。 |
+| [Remove](../../aspose.pdf/xmppdfaextensionschema/remove)(XmpPdfAExtensionObject) | 从架构中删除对象。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
 | const [DefaultExtensionNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix) | 默认扩展命名空间前缀。 |
-| const [DefaultExtensionNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri) | 默认扩展命名空间 uri。 |
+| const [DefaultExtensionNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri) | 默认扩展命名空间 uri. |
 | const [DefaultFieldNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix) | 默认字段命名空间前缀。 |
-| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri) | 默认扩展命名空间 uri。 |
+| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri) | 默认扩展命名空间 uri. |
 | const [DefaultPropertyNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix) | 默认属性命名空间前缀。 |
-| const [DefaultPropertyNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri) | 默认属性命名空间 uri。 |
+| const [DefaultPropertyNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri) | 默认属性命名空间 uri. |
 | const [DefaultSchemaNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix) | 默认模式命名空间前缀。 |
-| const [DefaultSchemaNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri) | 默认模式命名空间 uri。 |
-| const [DefaultValueNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri) | 默认值命名空间 uri。 |
+| const [DefaultSchemaNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri) | 默认模式命名空间 uri. |
+| const [DefaultValueNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri) | 默认值命名空间 uri. |
 | const [DefaultValueTypeNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix) | 默认值类型命名空间前缀。 |
-| const [RdfNamespaceURI](../../aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri) | 默认 rdf 命名空间 uri。 |
+| const [RdfNamespaceURI](../../aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri) | 默认 rdf 命名空间 uri. |
 | const [RdfPrefix](../../aspose.pdf/xmppdfaextensionschema/rdfprefix) | 默认 rdf 命名空间前缀。 |
 
 ### 也可以看看

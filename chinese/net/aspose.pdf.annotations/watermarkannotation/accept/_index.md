@@ -1,14 +1,14 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API 参考
-description: 申请访客注解
+description: 申请访客注释
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/watermarkannotation/accept/
 ---
 ## WatermarkAnnotation.Accept method
 
-申请访客注解。
+申请访客注释。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)

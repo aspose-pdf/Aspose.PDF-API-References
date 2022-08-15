@@ -18,13 +18,13 @@ public class OcspSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OcspSettings](ocspsettings)(string) | 初始化[`OcspSettings`](../ocspsettings)类的新实例。 |
+| [OcspSettings](ocspsettings)(string) | 初始化[`OcspSettings`](../ocspsettings)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl) { get; set; } | 获取/设置 ocsp 服务器 url。 |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl) { get; set; } | 获取/设置 ocsp 服务器 url. |
 
 ### 也可以看看
 

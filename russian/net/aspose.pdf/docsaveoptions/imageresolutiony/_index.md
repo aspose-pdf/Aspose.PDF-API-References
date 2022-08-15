@@ -1,14 +1,14 @@
 ---
 title: ImageResolutionY
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразованные изображения Y разрешения.
+description: Преобразованные изображения с разрешением Y.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/docsaveoptions/imageresolutiony/
 ---
 ## DocSaveOptions.ImageResolutionY property
 
-Преобразованные изображения Y разрешения.
+Преобразованные изображения с разрешением Y.
 
 ```csharp
 public int ImageResolutionY { get; set; }

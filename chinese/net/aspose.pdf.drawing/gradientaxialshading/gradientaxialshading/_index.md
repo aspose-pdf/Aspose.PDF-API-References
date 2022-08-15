@@ -1,14 +1,14 @@
 ---
 title: GradientAxialShading
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化GradientAxialShadingaspose.pdf.drawing/gradientaxialshading类的新实例
+description: 初始化GradientAxialShadingaspose.pdf.drawing/gradientaxialshading类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
 ---
 ## GradientAxialShading() {#constructor}
 
-初始化[`GradientAxialShading`](../../gradientaxialshading)类的新实例。
+初始化[`GradientAxialShading`](../../gradientaxialshading)类.
 
 ```csharp
 public GradientAxialShading()
@@ -24,7 +24,7 @@ public GradientAxialShading()
 
 ## GradientAxialShading(Color, Color) {#constructor_1}
 
-初始化[`GradientAxialShading`](../../gradientaxialshading)类的新实例。
+初始化[`GradientAxialShading`](../../gradientaxialshading)类.
 
 ```csharp
 public GradientAxialShading(Color startColor, Color endColor)

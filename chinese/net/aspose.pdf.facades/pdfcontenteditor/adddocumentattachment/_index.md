@@ -47,7 +47,7 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fileAttachmentStream | Stream | 将附加文件流。 |
+| fileAttachmentStream | Stream | 文件流将被附加。 |
 | fileAttachmentName | String | 附件名称。 |
 | description | String | 描述信息。 |
 

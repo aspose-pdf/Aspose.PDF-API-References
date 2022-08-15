@@ -8,7 +8,7 @@ url: /ru/net/aspose.pdf/artifact/setpdfpage/
 ---
 ## Artifact.SetPdfPage method
 
-Устанавливает страницу PDF, которая помещается на страницу документа, как артефакт.
+Устанавливает страницу PDF, которая помещается на страницу документа как артефакт.
 
 ```csharp
 public void SetPdfPage(Page page)

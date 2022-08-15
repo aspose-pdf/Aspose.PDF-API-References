@@ -45,7 +45,7 @@ public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, int bufferSiz
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocumentStream | Stream | Поток, содержащий pdf-документ. |
+| pdfDocumentStream | Stream | Поток, содержащий PDF-документ. |
 | bufferSize | Int32 | Максимальный размер содержимого в байтах, которое может храниться в памяти. |
 | allowAsyncInitialization | Boolean | Разрешает асинхронную инициализацию ресурсов. |
 
@@ -74,7 +74,7 @@ public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, string password
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pdfDocumentPath | String | Путь к pdf-документу. |
-| пароль | String | Пароль документа. |
+| password | String | Пароль документа. |
 | bufferSize | Int32 | Максимальный размер содержимого в байтах, которое может храниться в памяти. |
 | allowAsyncInitialization | Boolean | Разрешает асинхронную инициализацию ресурсов. |
 
@@ -102,8 +102,8 @@ public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, string passwo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocumentStream | Stream | Поток, содержащий pdf-документ. |
-| пароль | String | Пароль документа. |
+| pdfDocumentStream | Stream | Поток, содержащий PDF-документ. |
+| password | String | Пароль документа. |
 | bufferSize | Int32 | Максимальный размер содержимого в байтах, которое может храниться в памяти. |
 | allowAsyncInitialization | Boolean | Разрешает асинхронную инициализацию ресурсов. |
 

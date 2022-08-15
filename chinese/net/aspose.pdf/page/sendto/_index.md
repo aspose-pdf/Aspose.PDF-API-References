@@ -1,14 +1,14 @@
 ---
 title: SendTo
 second_title: Aspose.PDF for .NET API 参考
-description: 使用给定的页面设备将页面发送到进程
+description: 发送页面以使用给定的页面设备进行处理
 type: docs
 weight: 470
 url: /zh/net/aspose.pdf/page/sendto/
 ---
 ## SendTo(PageDevice, Stream) {#sendto}
 
-使用给定的页面设备将页面发送到进程。
+发送页面以使用给定的页面设备进行处理。
 
 ```csharp
 public void SendTo(PageDevice device, Stream output)
@@ -30,7 +30,7 @@ public void SendTo(PageDevice device, Stream output)
 
 ## SendTo(PageDevice, string) {#sendto_1}
 
-使用给定的页面设备将页面发送到进程。
+发送页面以使用给定的页面设备进行处理。
 
 ```csharp
 public void SendTo(PageDevice device, string outputFileName)

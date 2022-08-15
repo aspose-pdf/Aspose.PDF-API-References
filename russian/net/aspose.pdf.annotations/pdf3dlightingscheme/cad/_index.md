@@ -1,14 +1,14 @@
 ---
 title: CAD
 second_title: Aspose.PDF для справочника API .NET
-description: Схема освещения Cad.
+description: Схема освещения Кад.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/cad/
 ---
 ## PDF3DLightingScheme.CAD field
 
-Схема освещения "Cad".
+Схема освещения "Кад".
 
 ```csharp
 public static PDF3DLightingScheme CAD;

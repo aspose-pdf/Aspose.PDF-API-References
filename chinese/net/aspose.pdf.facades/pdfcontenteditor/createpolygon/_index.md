@@ -17,7 +17,7 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | lineInfo | LineInfo | LineInfo 类的实例。 |
-| page | Int32 | 将创建注释的原始页数。 |
+| page | Int32 | 将在其中创建注释的原始页数。 |
 | annotRect | Rectangle | 定义页面上注释位置的注释矩形。 |
 | annotContents | String | 注释的内容。 |
 

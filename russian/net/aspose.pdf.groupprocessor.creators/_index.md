@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.GroupProcessor.Creators
 second_title: Aspose.PDF для справочника API .NET
-description: Пространство имен Aspose.Pdf.GroupProcessor.Creators предоставляет классы используемые для создания экземпляров классов GroupProcessor .
+description: Aspose.Pdf.GroupProcessor.Creators namespace предоставляет классы используемые для создания экземпляров классов GroupProcessor.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.groupprocessor.creators/
 ---
-Пространство имен **Aspose.Pdf.GroupProcessor.Creators** предоставляет классы, используемые для создания экземпляров классов GroupProcessor .
+**Aspose.Pdf.GroupProcessor.Creators** namespace предоставляет классы, используемые для создания экземпляров классов GroupProcessor.
 
 ## Классы
 

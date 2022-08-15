@@ -16,7 +16,7 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ### 评论
 
-允许定义文本格式化模式[`TextExtractionOptions`](../../textextractionoptions)提取期间。 默认模式是Pure
+允许定义文本格式模式[`TextExtractionOptions`](../../textextractionoptions)在提取过程中。 默认模式是Pure
 
 ### 例子
 
@@ -24,21 +24,19 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
- 创建 TextAbsorber 对象以提取带有formatting
+// 创建 TextAbsorber 对象以提取带有格式的文本
+TextAbsorber absorber = new TextAbsorber();
 
-xtAbsorber absorber = new TextAbsorber();
+// 设置纯文本格式化模式
+absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
 
- 设置纯文本格式模式
-sorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
+// 接受所有文档页面的吸收器
+doc.Pages.Accept(absorber);
 
-// 接受所有文档 pages
-
-c.Pages.Accept(absorber);
-
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 ```
 
 ### 也可以看看

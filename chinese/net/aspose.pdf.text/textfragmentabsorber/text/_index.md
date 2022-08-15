@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 获取TextAbsorberaspose.pdf.text/textabsorber在 PDF 文档或页面上提取的提取文本
+description: 获取提取的文本TextAbsorberaspose.pdf.text/textabsorber在 PDF 文档或页面上提取
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/text/
 ---
 ## TextFragmentAbsorber.Text property
 
-获取[`TextAbsorber`](../../textabsorber)在 PDF 文档或页面上提取的提取文本。
+获取提取的文本[`TextAbsorber`](../../textabsorber)在 PDF 文档或页面上提取。
 
 ```csharp
 public override string Text { get; }

@@ -25,7 +25,7 @@ public sealed class LaunchAction : PdfAction
 
 | Имя | Описание |
 | --- | --- |
-| [File](../../aspose.pdf.annotations/launchaction/file) { get; set; } | Получает или задает запускаемое приложение или документ, который необходимо открыть или распечатать. |
+| [File](../../aspose.pdf.annotations/launchaction/file) { get; set; } | Получает или задает запускаемое приложение или открываемый или распечатываемый документ. |
 | [NewWindow](../../aspose.pdf.annotations/launchaction/newwindow) { get; set; } | Получает или задает флаг, указывающий, следует ли открывать целевой документ в новом окне (влияет только на документы PDF). |
 | [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Следующие действия по порядку. |
 

@@ -1,14 +1,14 @@
 ---
 title: SetGrayStroke
 second_title: Aspose.PDF for .NET API 参考
-description: 用指定的颜色初始化操作符
+description: 用指定的颜色初始化算子
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setgraystroke/setgraystroke/
 ---
 ## SetGrayStroke constructor
 
-用指定的颜色初始化操作符。
+用指定的颜色初始化算子。
 
 ```csharp
 public SetGrayStroke(double gray)
@@ -16,7 +16,7 @@ public SetGrayStroke(double gray)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| gray | Double | 灰度值等级。 |
+| gray | Double | 灰度值的级别。 |
 
 ### 也可以看看
 

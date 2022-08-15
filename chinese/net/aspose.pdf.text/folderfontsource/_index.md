@@ -18,7 +18,7 @@ public sealed class FolderFontSource : FontSource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FolderFontSource](folderfontsource)(string) | 初始化[`FolderFontSource`](../folderfontsource)类的新实例。 |
+| [FolderFontSource](folderfontsource)(string) | 初始化一个新的实例[`FolderFontSource`](../folderfontsource)类. |
 
 ## 特性
 

@@ -18,7 +18,7 @@ public class AbsorbedRow : ITableElement
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CellList](../../aspose.pdf.text/absorbedrow/celllist) { get; } | 获取包含行 |
+| [CellList](../../aspose.pdf.text/absorbedrow/celllist) { get; } | 获取包含行的单元格的只读 IList |
 | [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle) { get; } | 获取描述页面上行位置的矩形 |
 
 ### 也可以看看

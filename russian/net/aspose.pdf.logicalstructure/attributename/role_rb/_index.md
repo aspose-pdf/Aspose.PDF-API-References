@@ -1,14 +1,14 @@
 ---
 title: Role_rb
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут Рольrb - переключатель.
+description: Роль атрибута rb  переключатель.
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf.logicalstructure/attributename/role_rb/
 ---
 ## AttributeName.Role_rb field
 
-Атрибут Роль:rb - переключатель.
+Роль атрибута: rb — переключатель.
 
 ```csharp
 public static readonly AttributeName Role_rb;

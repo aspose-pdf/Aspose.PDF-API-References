@@ -24,17 +24,17 @@ public sealed class Rows : IEnumerable<Row>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf/rows/count) { get; } | 项目计数。 |
+| [Count](../../aspose.pdf/rows/count) { get; } | 项目数。 |
 | [Item](../../aspose.pdf/rows/item) { get; set; } | 获取或设置行。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf/rows/add#add)() | 将行添加到集合。 |
-| [Add](../../aspose.pdf/rows/add#add_1)(Row) | 将行添加到单元格中。 |
+| [Add](../../aspose.pdf/rows/add#add)() | 将行添加到集合中。 |
+| [Add](../../aspose.pdf/rows/add#add_1)(Row) | 将行添加到单元格。 |
 | [Dispose](../../aspose.pdf/rows/dispose)() | 处置。 |
-| [GetEnumerator](../../aspose.pdf/rows/getenumerator)() | 获取集合的枚举器 |
+| [GetEnumerator](../../aspose.pdf/rows/getenumerator)() | 获取集合的枚举数 |
 | [IndexOf](../../aspose.pdf/rows/indexof)(Row) | 返回集合中行的索引。 |
 | [Remove](../../aspose.pdf/rows/remove)(Row) | 从集合中删除行。 |
 | [RemoveAt](../../aspose.pdf/rows/removeat)(int) | 从集合中删除位置处的行。 |

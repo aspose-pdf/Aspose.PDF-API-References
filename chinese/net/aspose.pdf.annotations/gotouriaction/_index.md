@@ -18,7 +18,7 @@ public sealed class GoToURIAction : PdfAction
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GoToURIAction](gotouriaction)(string) | 构造函数。 |
+| [GoToURIAction](gotouriaction)(string) | 构造函数. |
 
 ## 特性
 

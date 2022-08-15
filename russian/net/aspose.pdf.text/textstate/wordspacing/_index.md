@@ -1,14 +1,14 @@
 ---
 title: WordSpacing
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает интервал между словами в тексте.
+description: Получает или задает межсловный интервал в тексте.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.text/textstate/wordspacing/
 ---
 ## TextState.WordSpacing property
 
-Получает или задает интервал между словами в тексте.
+Получает или задает межсловный интервал в тексте.
 
 ```csharp
 public virtual float WordSpacing { get; set; }

@@ -28,7 +28,7 @@ public override void Save(string outputFile)
 
 ## Save(Stream) {#save}
 
-Сохраняет результат PDF в поток.
+Сохраняет полученный PDF-файл в поток.
 
 ```csharp
 public override void Save(Stream outputStream)
@@ -36,7 +36,7 @@ public override void Save(Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | вывод pdf-потока |
+| outputStream | Stream | выходной pdf-поток |
 
 ### Смотрите также
 

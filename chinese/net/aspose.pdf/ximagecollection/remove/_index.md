@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 从集合中删除项目抛出 NotImplementedException 
+description: 从集合中移除项目抛出未实现异常.
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/ximagecollection/remove/
 ---
 ## XImageCollection.Remove method
 
-从集合中删除项目，抛出 NotImplementedException 。
+从集合中移除项目，抛出未实现异常.
 
 ```csharp
 public bool Remove(XImage item)
@@ -20,7 +20,7 @@ public bool Remove(XImage item)
 
 ### 返回值
 
-NotImplementedException
+未实现异常
 
 ### 也可以看看
 

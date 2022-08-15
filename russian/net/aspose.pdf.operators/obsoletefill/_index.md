@@ -1,14 +1,14 @@
 ---
 title: ObsoleteFill
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий F-оператор заполнить путь используя ненулевое правило обмотки.
+description: Класс представляющий F-оператор заполнение пути с использованием ненулевого правила обмотки.
 type: docs
 weight: 5290
 url: /ru/net/aspose.pdf.operators/obsoletefill/
 ---
 ## ObsoleteFill class
 
-Класс, представляющий F-оператор (заполнить путь, используя ненулевое правило обмотки).
+Класс, представляющий F-оператор (заполнение пути с использованием ненулевого правила обмотки).
 
 ```csharp
 public class ObsoleteFill : Operator
@@ -30,7 +30,7 @@ public class ObsoleteFill : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/obsoletefill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/obsoletefill/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Возвращает текст оператора и его параметры. |
 
 ### Смотрите также

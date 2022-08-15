@@ -1,14 +1,14 @@
 ---
 title: FileHyperlink
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаFileHyperlinkaspose.pdf/filehyperlink.
+description: Инициализирует новый экземплярFileHyperlinkaspose.pdf/filehyperlink класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/filehyperlink/filehyperlink/
 ---
 ## FileHyperlink() {#constructor}
 
-Инициализирует новый экземпляр класса[`FileHyperlink`](../../filehyperlink).
+Инициализирует новый экземпляр[`FileHyperlink`](../../filehyperlink) класс.
 
 ```csharp
 public FileHyperlink()
@@ -24,7 +24,7 @@ public FileHyperlink()
 
 ## FileHyperlink(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FileHyperlink`](../../filehyperlink).
+Инициализирует новый экземпляр[`FileHyperlink`](../../filehyperlink) класс.
 
 ```csharp
 public FileHyperlink(string path)

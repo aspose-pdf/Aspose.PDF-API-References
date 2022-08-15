@@ -1,14 +1,14 @@
 ---
 title: DefaultAppearance
 second_title: Aspose.PDF for .NET API 参考
-description: DefaultAppearance 的构造函数
+description: DefaultAppearance. 的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
 ---
 ## DefaultAppearance() {#constructor}
 
-DefaultAppearance 的构造函数。
+DefaultAppearance. 的构造函数
 
 ```csharp
 public DefaultAppearance()
@@ -24,7 +24,7 @@ public DefaultAppearance()
 
 ## DefaultAppearance(string, double, Color) {#constructor_2}
 
-DefaultAppearance 的构造函数。
+DefaultAppearance. 的构造函数
 
 ```csharp
 public DefaultAppearance(string fontName, double fontSize, Color textColor)
@@ -34,7 +34,7 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 | --- | --- | --- |
 | fontName | String | 字体名称。 |
 | fontSize | Double | 字体大小。 |
-| textColor | Color | 文本颜色。 |
+| textColor | Color | 文本的颜色。 |
 
 ### 也可以看看
 
@@ -54,9 +54,9 @@ public DefaultAppearance(Font font, double fontSize, Color textColor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| font | Font | 默认字体。 |
+| font | Font | 将用作默认字体。 |
 | fontSize | Double | 字体大小。 |
-| textColor | Color | 文本颜色。 |
+| textColor | Color | 文本的颜色。 |
 
 ### 也可以看看
 

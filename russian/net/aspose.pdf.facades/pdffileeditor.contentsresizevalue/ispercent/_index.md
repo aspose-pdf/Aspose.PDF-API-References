@@ -1,14 +1,14 @@
 ---
 title: IsPercent
 second_title: Aspose.PDF для справочника API .NET
-description: Получает значение true если значение выражено в процентах False если значение выражено в единицах измерения по умолчанию.
+description: становится истинным если значение выражено в процентах False если значение выражено в единицах измерения по умолчанию.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/
 ---
 ## PdfFileEditor.ContentsResizeValue.IsPercent property
 
-Получает значение true, если значение выражено в процентах; False, если значение выражено в единицах измерения по умолчанию.
+становится истинным, если значение выражено в процентах; False, если значение выражено в единицах измерения по умолчанию.
 
 ```csharp
 public bool IsPercent { get; }

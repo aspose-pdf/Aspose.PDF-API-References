@@ -16,7 +16,7 @@ public byte[] AsByteArray(Resolution resolution)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| разрешение | Resolution | Разрешение. |
+| resolution | Resolution | Разрешение. |
 
 ### Возвращаемое значение
 

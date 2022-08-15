@@ -16,7 +16,7 @@ public Opi(XForm xform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xform | XForm | Объект Xform. |
+| xform | XForm | Xform объект. |
 
 ### Смотрите также
 

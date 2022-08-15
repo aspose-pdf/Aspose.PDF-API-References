@@ -1,0 +1,193 @@
+---
+title: AddHeader
+second_title: Aspose.PDF لمرجع .NET API
+description: إضافة رأس الصفحة .
+type: docs
+weight: 160
+url: /ar/net/aspose.pdf.facades/pdffilestamp/addheader/
+---
+## AddHeader(FormattedText, float) {#addheader}
+
+إضافة رأس الصفحة .
+
+```csharp
+public void AddHeader(FormattedText formattedText, float topMargin)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| formattedText | FormattedText | نص العنوان وخصائص النص. |
+| topMargin | Single | الهامش في أعلى الصفحة. |
+
+### أمثلة
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddHeader(new FormattedText("Head of the page"), 50);
+fileStamp.Close();
+```
+
+### أنظر أيضا
+
+* class [FormattedText](../../formattedtext)
+* class [PdfFileStamp](../../pdffilestamp)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## AddHeader(FormattedText, float, float, float) {#addheader_1}
+
+إضافة رأس إلى صفحات الملف.
+
+```csharp
+public void AddHeader(FormattedText formattedText, float topMargin, float leftMargin, 
+    float rightMargin)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| formattedText | FormattedText | كائن نص منسق يحتوي على نص الصفحة وخصائصها. |
+| topMargin | Single | الهامش في أعلى الصفحة. |
+| leftMargin | Single | الهامش على يسار الصفحة. |
+| rightMargin | Single | الهامش على يمين الصفحة. |
+
+### أمثلة
+
+```csharp
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
+```
+
+### أنظر أيضا
+
+* class [FormattedText](../../formattedtext)
+* class [PdfFileStamp](../../pdffilestamp)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## AddHeader(string, float) {#addheader_4}
+
+إضافة صورة كرأس لصفحات الملف.
+
+```csharp
+public void AddHeader(string imageFile, float topMargin)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| imageFile | String | المسار إلى ملف الصورة. |
+| topMargin | Single | الهامش في أعلى الصفحة. |
+
+### أمثلة
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddHeader("image.jpg", 50);
+fileStamp.Close();
+```
+
+### أنظر أيضا
+
+* class [PdfFileStamp](../../pdffilestamp)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## AddHeader(string, float, float, float) {#addheader_5}
+
+يضيف الصورة كرأس على الصفحات.
+
+```csharp
+public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| imageFile | String | المسار إلى ملف الصورة. |
+| topMargin | Single | الهامش في أعلى الصفحة. |
+| leftMargin | Single | الهامش في الجانب الأيسر من الصفحة. |
+| rightMargin | Single | الهامش في الجانب الأيمن من الصفحة. |
+
+### أمثلة
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddHeader("image.jpg", 50, 100, 100);
+fileStamp.Close();
+```
+
+### أنظر أيضا
+
+* class [PdfFileStamp](../../pdffilestamp)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## AddHeader(Stream, float) {#addheader_2}
+
+يضيف الصورة كرأس على الصفحات.
+
+```csharp
+public void AddHeader(Stream imageStream, float topMargin)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| imageStream | Stream | تيار الصورة. |
+| topMargin | Single | الهامش في أعلى الصفحة. |
+
+### أمثلة
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read), 50);
+fileStamp.Close();
+```
+
+### أنظر أيضا
+
+* class [PdfFileStamp](../../pdffilestamp)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
+* المجسم [Aspose.PDF](../../../)
+
+---
+
+## AddHeader(Stream, float, float, float) {#addheader_3}
+
+إضافة صورة أعلى الصفحة.
+
+```csharp
+public void AddHeader(Stream inputStream, float topMargin, float leftMargin, float rightMargin)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| inputStream | Stream | تيار يحتوي على بيانات الصورة. |
+| topMargin | Single | الهامش في أعلى الصفحة. |
+| leftMargin | Single | الهامش في الجانب الأيسر من الصفحة. |
+| rightMargin | Single | الهامش في الجانب الأيمن من الصفحة. |
+
+### أمثلة
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read), 50, 100, 100);
+fileStamp.Close();
+```
+
+### أنظر أيضا
+
+* class [PdfFileStamp](../../pdffilestamp)
+* مساحة الاسم [Aspose.Pdf.Facades](../../pdffilestamp)
+* المجسم [Aspose.PDF](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->

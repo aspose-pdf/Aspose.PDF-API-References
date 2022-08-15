@@ -1,14 +1,14 @@
 ---
 title: Line
 second_title: Aspose.PDF for .NET API 参考
-description: 代表行
+description: 代表线
 type: docs
 weight: 2010
 url: /zh/net/aspose.pdf.drawing/line/
 ---
 ## Line class
 
-代表行。
+代表线。
 
 ```csharp
 public sealed class Line : Shape
@@ -18,15 +18,15 @@ public sealed class Line : Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Line](line)(float[]) | 初始化[`Line`](../line)类的新实例。 |
+| [Line](line)(float[]) | 初始化[`Line`](../line)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)对象，表示图形信息，例如颜色， 线宽等 |
-| [PositionArray](../../aspose.pdf.drawing/line/positionarray) { get; set; } | 获取或设置表示位置数组的[`PositionArray`](./positionarray)对象。数组为 由线的每个控制点的坐标组成。 直接。 |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置形状的文本 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | 获取或设置一个[`GraphInfo`](../shape/graphinfo)表示图形信息的对象，例如颜色， 线宽等 |
+| [PositionArray](../../aspose.pdf.drawing/line/positionarray) { get; set; } | 获取或设置一个[`PositionArray`](./positionarray)表示位置数组的对象。数组是 ，由线的每个控制点的坐标组成。 直接。 |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | 获取或设置 shape 的文本 |
 
 ### 也可以看看
 

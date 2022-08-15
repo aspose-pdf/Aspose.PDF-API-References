@@ -19,7 +19,7 @@ public sealed class PageCollection : ICollection<Page>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../aspose.pdf/pagecollection/count) { get; } | 获取文档中的页数。 |
-| [IsReadOnly](../../aspose.pdf/pagecollection/isreadonly) { get; } | 获取表示集合为只读的值。总是返回假。 |
+| [IsReadOnly](../../aspose.pdf/pagecollection/isreadonly) { get; } | 获取表示集合为只读的值。总是返回 false. |
 | [IsSynchronized](../../aspose.pdf/pagecollection/issynchronized) { get; } | 对象同步返回 true。 |
 | [Item](../../aspose.pdf/pagecollection/item) { get; } | 按索引获取页面。 |
 | [SyncRoot](../../aspose.pdf/pagecollection/syncroot) { get; } | 获取集合的同步对象。 |
@@ -29,15 +29,15 @@ public sealed class PageCollection : ICollection<Page>
 | 姓名 | 描述 |
 | --- | --- |
 | [Accept](../../aspose.pdf/pagecollection/accept#accept)(AnnotationSelector) | 接受[`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector)提供使用注释功能的访问者对象。 |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_1)(ImagePlacementAbsorber) | 接受[`ImagePlacementAbsorber`](../imageplacementabsorber)访问者对象，该对象提供使用图像放置对象的功能。 |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_2)(TextAbsorber) | 接受[`TextAbsorber`](../../aspose.pdf.text/textabsorber)访问者对象，该对象提供使用文本对象的功能。 |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_3)(TextFragmentAbsorber) | 接受[`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber)访问者对象，提供使用文本对象的功能。 |
-| [Add](../../aspose.pdf/pagecollection/add#add)() | 添加空白页面 |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_1)(ImagePlacementAbsorber) | 接受[`ImagePlacementAbsorber`](../imageplacementabsorber)提供使用图像放置对象的功能的访问者对象。 |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_2)(TextAbsorber) | 接受[`TextAbsorber`](../../aspose.pdf.text/textabsorber)提供使用文本对象的功能的访问者对象。 |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_3)(TextFragmentAbsorber) | 接受[`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber)提供使用文本对象的功能的访问者对象。 |
+| [Add](../../aspose.pdf/pagecollection/add#add)() | 添加空白页 |
 | [Add](../../aspose.pdf/pagecollection/add#add_3)(ICollection&lt;Page&gt;) | 将列表中的所有页面添加到集合中。 |
 | [Add](../../aspose.pdf/pagecollection/add#add_1)(Page) | 将页面添加到集合中。 |
-| [Add](../../aspose.pdf/pagecollection/add#add_2)(Page[]) | 将数组中的所有页面添加到集合中。 |
+| [Add](../../aspose.pdf/pagecollection/add#add_2)(Page[]) | 添加到数组中的所有页面集合。 |
 | [Clear](../../aspose.pdf/pagecollection/clear)() | 清除页面集合。 |
-| [Contains](../../aspose.pdf/pagecollection/contains)(Page) | 确定此实例是否包含该对象。 |
+| [Contains](../../aspose.pdf/pagecollection/contains)(Page) | 确定此实例是否包含对象。 |
 | [CopyTo](../../aspose.pdf/pagecollection/copyto)(Page[], int) | 将页面复制到文档中。 |
 | [Delete](../../aspose.pdf/pagecollection/delete#delete)() | 从集合中删除所有页面。 |
 | [Delete](../../aspose.pdf/pagecollection/delete#delete_1)(int) | 删除指定页面。 |
@@ -48,9 +48,9 @@ public sealed class PageCollection : ICollection<Page>
 | [IndexOf](../../aspose.pdf/pagecollection/indexof)(Page) | 返回指定页面的索引。 |
 | [Insert](../../aspose.pdf/pagecollection/insert#insert)(int) | 在指定位置将空apge插入集合中。 |
 | [Insert](../../aspose.pdf/pagecollection/insert#insert_3)(int, ICollection&lt;Page&gt;) | 将集合中的页面插入到文档中。 |
-| [Insert](../../aspose.pdf/pagecollection/insert#insert_1)(int, Page) | 在指定位置将页面插入页面集合。 |
+| [Insert](../../aspose.pdf/pagecollection/insert#insert_1)(int, Page) | 将页面插入到指定位置的页面集合中。 |
 | [Insert](../../aspose.pdf/pagecollection/insert#insert_2)(int, Page[]) | 将数组的页面插入到文档中。 |
-| [Remove](../../aspose.pdf/pagecollection/remove)(Page) | 删除指定项目，抛出 NotSupportedException 。 |
+| [Remove](../../aspose.pdf/pagecollection/remove)(Page) | 移除指定项目，抛出不支持异常. |
 
 ### 也可以看看
 

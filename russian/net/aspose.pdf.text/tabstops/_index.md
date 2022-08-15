@@ -1,14 +1,14 @@
 ---
 title: TabStops
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет набор объектовTabStop./tabstop.
+description: Представляет наборTabStop./tabstop объекты.
 type: docs
 weight: 6940
 url: /ru/net/aspose.pdf.text/tabstops/
 ---
 ## TabStops class
 
-Представляет набор объектов[`TabStop`](../tabstop).
+Представляет набор[`TabStop`](../tabstop) объекты.
 
 ```csharp
 public class TabStops : ICloneable
@@ -24,19 +24,19 @@ public class TabStops : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf.text/tabstops/count) { get; } | Инициализирует новый экземпляр класса[`TabStop`](../tabstop)с указанной позицией и добавьте его в коллекцию TabStops. |
-| [IsReadOnly](../../aspose.pdf.text/tabstops/isreadonly) { get; } | Получает значение, указывающее, что этот экземпляр[`TabStops`](../tabstops)уже подключен к[`TextFragment`](../textfragment)и стал доступен только для чтения. |
-| [Item](../../aspose.pdf.text/tabstops/item) { get; set; } | Получает или задает объект[`TabStop`](../tabstop)из коллекции в соответствии с индексом TabStop. |
+| [Count](../../aspose.pdf.text/tabstops/count) { get; } | Инициализирует новый экземпляр[`TabStop`](../tabstop) класс с указанной позицией и добавить его в коллекцию TabStops. |
+| [IsReadOnly](../../aspose.pdf.text/tabstops/isreadonly) { get; } | Получает значение, указывающее, что это[`TabStops`](../tabstops) экземпляр уже прикреплен к[`TextFragment`](../textfragment) и стал доступен только для чтения. |
+| [Item](../../aspose.pdf.text/tabstops/item) { get; set; } | Получает или задает[`TabStop`](../tabstop) объект из коллекции по TabStop index. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.pdf.text/tabstops/add#add)() | Инициализирует новый экземпляр класса[`TabStop`](../tabstop)и добавляет его в класс Коллекция вкладок. |
-| [Add](../../aspose.pdf.text/tabstops/add#add_1)(float) | Инициализирует новый экземпляр класса[`TabStop`](../tabstop)с указанной позицией и добавьте его в коллекцию TabStops. |
-| [Add](../../aspose.pdf.text/tabstops/add#add_3)(TabStop) | Добавить экземпляр класса[`TabStop`](../tabstop)в коллекцию TabStops. |
-| [Add](../../aspose.pdf.text/tabstops/add#add_2)(float, TabLeaderType) | Инициализирует новый экземпляр класса[`TabStop`](../tabstop)с указанной позицией и лидером введите и добавьте его в коллекцию TabStops. |
-| [Clone](../../aspose.pdf.text/tabstops/clone)() | Клонирует новый объект[`TabStops`](../tabstops). |
+| [Add](../../aspose.pdf.text/tabstops/add#add)() | Инициализирует новый экземпляр[`TabStop`](../tabstop) class и добавьте его в коллекцию TabStops. |
+| [Add](../../aspose.pdf.text/tabstops/add#add_1)(float) | Инициализирует новый экземпляр[`TabStop`](../tabstop) класс с указанной позицией и добавить его в коллекцию TabStops. |
+| [Add](../../aspose.pdf.text/tabstops/add#add_3)(TabStop) | Добавить экземпляр[`TabStop`](../tabstop) класс в коллекцию TabStops. |
+| [Add](../../aspose.pdf.text/tabstops/add#add_2)(float, TabLeaderType) | Инициализирует новый экземпляр[`TabStop`](../tabstop) класс с указанной позицией и типом лидера и добавить его в коллекцию TabStops. |
+| [Clone](../../aspose.pdf.text/tabstops/clone)() | Клонирует новый[`TabStops`](../tabstops) объекты. |
 
 ### Смотрите также
 

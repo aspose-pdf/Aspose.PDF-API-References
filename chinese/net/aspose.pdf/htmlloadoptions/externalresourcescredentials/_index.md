@@ -1,14 +1,14 @@
 ---
 title: ExternalResourcesCredentials
 second_title: Aspose.PDF for .NET API 参考
-description: 如果加载 HTML 中引用的外部数据需要凭据您可以将它们放入此参数 - 它们将被使用 在加载外部资源时
+description: 如果加载 HTML 中引用的外部数据 需要凭据您可以将它们放入此参数 - 它们将在加载外部资源时使用
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/htmlloadoptions/externalresourcescredentials/
 ---
 ## HtmlLoadOptions.ExternalResourcesCredentials field
 
-如果加载 HTML 中引用的外部数据需要凭据，您可以将它们放入此参数 - 它们将被使用 在加载外部资源时
+如果加载 HTML 中引用的外部数据 需要凭据，您可以将它们放入此参数 - 它们将在加载外部资源时使用
 
 ```csharp
 public ICredentials ExternalResourcesCredentials;

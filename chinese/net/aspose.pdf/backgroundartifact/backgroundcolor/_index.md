@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置背景工件的背景颜色
+description: 获取或设置背景artifact的免费背景颜色
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/backgroundartifact/backgroundcolor/
 ---
 ## BackgroundArtifact.BackgroundColor property
 
-获取或设置背景工件的背景颜色
+获取或设置背景artifact的免费背景颜色
 
 ```csharp
 public Color BackgroundColor { get; set; }

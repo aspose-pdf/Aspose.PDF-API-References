@@ -19,17 +19,17 @@ public sealed class AnnotationActionCollection : BaseActionCollection
 | Имя | Описание |
 | --- | --- |
 | [OnCalculate](../../aspose.pdf.annotations/annotationactioncollection/oncalculate) { get; set; } | Получает или задает действие для вычисления значения поля. |
-| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage) { get; set; } | Получает или задает действие, которое будет выполняться при закрытии страницы, содержащей аннотацию. |
+| [OnClosePage](../../aspose.pdf.annotations/annotationactioncollection/onclosepage) { get; set; } | Получает или задает действие, которое должно выполняться при закрытии страницы, содержащей аннотацию. |
 | [OnEnter](../../aspose.pdf.annotations/annotationactioncollection/onenter) { get; set; } | Получает или задает действие, которое должно выполняться, когда курсор входит в активную область аннотации. |
-| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit) { get; set; } | Получает или задает действие, которое будет выполняться, когда курсор покидает активную область аннотации. |
+| [OnExit](../../aspose.pdf.annotations/annotationactioncollection/onexit) { get; set; } | Получает или задает действие, которое должно быть выполнено, когда курсор покидает активную область аннотации. |
 | [OnFormat](../../aspose.pdf.annotations/annotationactioncollection/onformat) { get; set; } | Получает или задает действие, которое необходимо выполнить для форматирования значения поля. |
 | [OnHidePage](../../aspose.pdf.annotations/annotationactioncollection/onhidepage) { get; set; } | Получает или задает действие, которое должно быть выполнено, когда страница, содержащая аннотацию, больше не отображается в пользовательском интерфейсе приложения просмотра. |
 | [OnLostFocus](../../aspose.pdf.annotations/annotationactioncollection/onlostfocus) { get; set; } | Получает или задает действие, которое должно выполняться, когда аннотация теряет фокус ввода. |
 | [OnModifyCharacter](../../aspose.pdf.annotations/annotationactioncollection/onmodifycharacter) { get; set; } | Получает или задает действие, которое будет выполняться, когда пользователь изменяет символ поля. |
-| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage) { get; set; } | Получает или задает действие, которое будет выполняться при открытии страницы, содержащей аннотацию. |
+| [OnOpenPage](../../aspose.pdf.annotations/annotationactioncollection/onopenpage) { get; set; } | Получает или задает действие, которое должно выполняться при открытии страницы, содержащей аннотацию. |
 | [OnPressMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onpressmousebtn) { get; set; } | Получает или задает действие, которое будет выполняться при нажатии кнопки мыши внутри активной области аннотации. |
-| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus) { get; set; } | Получает или задает действие, которое должно выполняться, когда аннотация получает фокус ввода. |
-| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn) { get; set; } | Получает или задает действие, которое будет выполняться при отпускании кнопки мыши внутри активной области аннотации. |
+| [OnReceiveFocus](../../aspose.pdf.annotations/annotationactioncollection/onreceivefocus) { get; set; } | Получает или задает действие, которое должно быть выполнено, когда аннотация получает фокус ввода. |
+| [OnReleaseMouseBtn](../../aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn) { get; set; } | Получает или задает действие, которое должно выполняться при отпускании кнопки мыши внутри активной области аннотации. |
 | [OnShowPage](../../aspose.pdf.annotations/annotationactioncollection/onshowpage) { get; set; } | Получает или задает действие, которое должно выполняться, когда страница, содержащая аннотацию, становится видимой в пользовательском интерфейсе приложения просмотра. |
 | [OnValidate](../../aspose.pdf.annotations/annotationactioncollection/onvalidate) { get; set; } | Получает или задает действие, которое будет выполняться, когда пользователь изменяет содержимое поля. |
 

@@ -18,9 +18,9 @@ public sealed class CompositingParameters
 
 | Имя | Описание |
 | --- | --- |
-| [CompositingParameters](compositingparameters#constructor)(BlendMode) | Инициализирует новый экземпляр объекта[`CompositingParameters`](../compositingparameters). |
-| [CompositingParameters](compositingparameters#constructor_1)(BlendMode, ImageFilterType) | Инициализирует новый экземпляр объекта[`CompositingParameters`](../compositingparameters). |
-| [CompositingParameters](compositingparameters#constructor_2)(BlendMode, ImageFilterType, bool) | Инициализирует новый экземпляр объекта[`CompositingParameters`](../compositingparameters). |
+| [CompositingParameters](compositingparameters#constructor)(BlendMode) | Инициализирует новый экземпляр[`CompositingParameters`](../compositingparameters) объект. |
+| [CompositingParameters](compositingparameters#constructor_1)(BlendMode, ImageFilterType) | Инициализирует новый экземпляр[`CompositingParameters`](../compositingparameters) объект. |
+| [CompositingParameters](compositingparameters#constructor_2)(BlendMode, ImageFilterType, bool) | Инициализирует новый экземпляр[`CompositingParameters`](../compositingparameters) объект. |
 
 ## Характеристики
 

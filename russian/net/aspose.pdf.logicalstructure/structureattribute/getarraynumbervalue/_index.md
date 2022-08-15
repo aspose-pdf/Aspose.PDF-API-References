@@ -1,14 +1,14 @@
 ---
 title: GetArrayNumberValue
 second_title: Aspose.PDF для справочника API .NET
-description: Получает массив значений.
+description: Получает массив значений значений.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/
 ---
 ## StructureAttribute.GetArrayNumberValue method
 
-Получает массив значений.
+Получает массив значений значений.
 
 ```csharp
 public double?[] GetArrayNumberValue()
@@ -16,7 +16,7 @@ public double?[] GetArrayNumberValue()
 
 ### Возвращаемое значение
 
-Массив номеров значений.
+Массив значений.
 
 ### Смотрите также
 

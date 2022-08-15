@@ -1,14 +1,14 @@
 ---
 title: Ending
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает конечную точку строки.
+description: Получает или задает конечную точку строки.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/lineannotation/ending/
 ---
 ## LineAnnotation.Ending property
 
-Получает или устанавливает конечную точку строки.
+Получает или задает конечную точку строки.
 
 ```csharp
 public Point Ending { get; set; }

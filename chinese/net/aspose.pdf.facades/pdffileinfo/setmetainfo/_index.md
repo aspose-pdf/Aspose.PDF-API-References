@@ -1,14 +1,14 @@
 ---
 title: SetMetaInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 设置PDF文档的自定义信息
+description: 设置 PDF 文档的自定义信息
 type: docs
 weight: 330
 url: /zh/net/aspose.pdf.facades/pdffileinfo/setmetainfo/
 ---
 ## PdfFileInfo.SetMetaInfo method
 
-设置PDF文档的自定义信息。
+设置 PDF 文档的自定义信息。
 
 ```csharp
 public void SetMetaInfo(string name, string value)

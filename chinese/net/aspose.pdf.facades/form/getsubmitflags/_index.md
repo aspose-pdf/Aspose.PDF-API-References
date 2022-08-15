@@ -16,7 +16,7 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | String | 限定字段名. |
+| fieldName | String | 限定的字段名称。 |
 
 ### 返回值
 

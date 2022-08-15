@@ -18,8 +18,8 @@ public sealed class FileHyperlink : Hyperlink
 
 | Имя | Описание |
 | --- | --- |
-| [FileHyperlink](filehyperlink#constructor)() | Инициализирует новый экземпляр класса[`FileHyperlink`](../filehyperlink). |
-| [FileHyperlink](filehyperlink#constructor_1)(string) | Инициализирует новый экземпляр класса[`FileHyperlink`](../filehyperlink). |
+| [FileHyperlink](filehyperlink#constructor)() | Инициализирует новый экземпляр[`FileHyperlink`](../filehyperlink) класс. |
+| [FileHyperlink](filehyperlink#constructor_1)(string) | Инициализирует новый экземпляр[`FileHyperlink`](../filehyperlink) класс. |
 
 ## Характеристики
 

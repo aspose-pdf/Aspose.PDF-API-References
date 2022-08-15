@@ -1,14 +1,14 @@
 ---
 title: TableAbsorber
 second_title: Aspose.PDF for .NET API 参考
-description: 使用文本搜索选项初始化TableAbsorberaspose.pdf.text/tableabsorber的新实例
+description: 初始化TableAbsorberaspose.pdf.text/tableabsorber带有文本搜索选项
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/tableabsorber/tableabsorber/
 ---
 ## TableAbsorber(TextSearchOptions) {#constructor_1}
 
-使用文本搜索选项初始化[`TableAbsorber`](../../tableabsorber)的新实例。
+初始化[`TableAbsorber`](../../tableabsorber)带有文本搜索选项。
 
 ```csharp
 public TableAbsorber(TextSearchOptions textSearchOptions)
@@ -20,7 +20,7 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ### 评论
 
-执行表搜索并通过TableList对象。
+执行表搜索并通过以下方式提供对表的访问[`TableList`](../tablelist)对象.
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ## TableAbsorber() {#constructor}
 
-初始化[`TableAbsorber`](../../tableabsorber)的新实例。
+初始化[`TableAbsorber`](../../tableabsorber).
 
 ```csharp
 public TableAbsorber()
@@ -41,7 +41,7 @@ public TableAbsorber()
 
 ### 评论
 
-执行表搜索并通过TableList对象。
+执行表搜索并通过以下方式提供对表的访问[`TableList`](../tablelist)对象.
 
 ### 也可以看看
 

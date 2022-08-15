@@ -16,7 +16,7 @@ public virtual TextSearchOptions TextSearchOptions { get; set; }
 
 ### 评论
 
-允许定义分隔提取文本的矩形。 默认矩形是空的。这意味着页面边界仅定义文本提取区域。
+允许定义分隔提取文本的矩形。 默认情况下，矩形为空。这意味着页面边界只定义了文本提取区域。
 
 ### 也可以看看
 

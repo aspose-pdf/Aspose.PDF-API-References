@@ -18,18 +18,18 @@ public class GradientRadialShading : PatternColorSpace
 
 | Имя | Описание |
 | --- | --- |
-| [GradientRadialShading](gradientradialshading#constructor)() | Инициализирует новый экземпляр класса[`GradientRadialShading`](../gradientradialshading). |
-| [GradientRadialShading](gradientradialshading#constructor_1)(Color, Color) | Инициализирует новый экземпляр класса[`GradientRadialShading`](../gradientradialshading). |
+| [GradientRadialShading](gradientradialshading#constructor)() | Инициализирует новый экземпляр[`GradientRadialShading`](../gradientradialshading) класс. |
+| [GradientRadialShading](gradientradialshading#constructor_1)(Color, Color) | Инициализирует новый экземпляр[`GradientRadialShading`](../gradientradialshading) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [End](../../aspose.pdf.drawing/gradientradialshading/end) { get; set; } | Получает или задает конечную центральную точку окружности. |
-| [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor) { get; set; } | Получает или устанавливает конечный цвет. |
+| [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor) { get; set; } | Получает или задает конечный цвет. |
 | [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius) { get; set; } | Получает или задает конечный радиус окружности. |
-| [Start](../../aspose.pdf.drawing/gradientradialshading/start) { get; set; } | Получает или задает начальную точку центра окружности. |
-| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor) { get; set; } | Получает или устанавливает начальный цвет. |
+| [Start](../../aspose.pdf.drawing/gradientradialshading/start) { get; set; } | Получает или задает центральную точку начальной окружности. |
+| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor) { get; set; } | Получает или задает начальный цвет. |
 | [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius) { get; set; } | Получает или задает начальный радиус окружности. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: Art
 second_title: Aspose.PDF for .NET API 参考
-description: 文章相对独立的文本主体构成一个单一的叙述或说明文章应该是不连贯的也就是说它们不应包含其他条款作为构成要素
+description: 文章相对独立的文本主体构成一个单一的叙述或说明文章应该是不连贯的也就是说它们不应包含其他文章作为构成元素
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/art/
 ---
 ## StructureTypeStandard.Art field
 
-（文章）相对独立的文本主体，构成一个单一的叙述或说明。文章应该是不连贯的；也就是说，它们不应包含其他条款作为构成要素。
+（文章）相对独立的文本主体，构成一个单一的叙述或说明。文章应该是不连贯的；也就是说，它们不应包含其他文章作为构成元素。
 
 ```csharp
 public static readonly StructureTypeStandard Art;

@@ -1,14 +1,14 @@
 ---
 title: SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API 参考
-description: 表示边框的一部分顶部底部左侧或右侧
+description: 表示边框的一部分上下左侧或右侧的信息
 type: docs
 weight: 6310
 url: /zh/net/aspose.pdf/saveoptions.borderpartstyle/
 ---
 ## SaveOptions.BorderPartStyle class
 
-表示边框的一部分（顶部、底部、左侧或右侧）
+表示边框的一部分（上、下、左侧或右侧）的信息
 
 ```csharp
 public class BorderPartStyle
@@ -30,8 +30,8 @@ public class BorderPartStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.pdf/borderpartstyle/color) | 表示边框线的线条颜色 |
-| [LineType](../../aspose.pdf/borderpartstyle/linetype) | 表示边界线的类型 - fe 虚线或实线 |
+| [Color](../../aspose.pdf/borderpartstyle/color) | 代表边界线的线颜色 |
+| [LineType](../../aspose.pdf/borderpartstyle/linetype) | 表示边界线的类型 - fe Dashed 或 Solid |
 
 ### 也可以看看
 

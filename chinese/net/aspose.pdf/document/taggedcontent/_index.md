@@ -16,38 +16,37 @@ public ITaggedContent TaggedContent { get; }
 
 ### 例子
 
-该示例演示了如何使用标记内容创建带有标题、段落和图像的新文档.
+该示例演示了如何使用标记内容创建带有标题、段落和图像的新文档。
 
 ```csharp
 // 创建新文档
 Document document = new Document();
 
-  // 获取标记的内容
+// 获取标记的内容
 ITaggedContent taggedContent = document.TaggedContent;
 
-  // 为 document
-
+// 设置文档语言
 taggedContent.SetLanguage("en-US");
 
-// 为 PDF 文档设置标题
+// 设置 PDF 文档的标题
 taggedContent.SetTitle("Example document");
 
-  // 创建和添加 Section
+// 创建和添加部分
 SectElement sect = taggedContent.CreateSectElement();
 taggedContent.RootElement.AppendChild(sect);
 
-  // 创建 Header
+// 创建标题
 HeaderElement h1 = taggedContent.CreateHeaderElement(1);
 h1.SetText("The Header");
 sect.AppendChild(h1);
 
-  // 创建段落
+// 创建段落
 ParagraphElement p = taggedContent.CreateParagraphElement();
 p.SetTag("Paragraph");
 p.SetText("The text of paragraph.");
 sect.AppendChild(p);
 
-  // 创建插图
+// 创建插图
 IllustrationElement figure1 = taggedContent.CreateFigureElement();
 sect.AppendChild(figure1);
 figure1.AlternativeText = "Figure 1";
@@ -55,7 +54,7 @@ figure1.Title = "Image 1";
 figure1.SetTag("Fig");
 figure1.SetImage("path/of/image.jpg");
 
-  // 保存文档
+// 保存文档
 document.Save("example.pdf");
 ```
 

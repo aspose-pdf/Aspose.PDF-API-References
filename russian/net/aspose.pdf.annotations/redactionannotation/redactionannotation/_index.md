@@ -38,7 +38,7 @@ public RedactionAnnotation(Page page, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Страница, на которой будет размещена аннотация. |
-| rect | Rectangle | Позиция аннотации на странице. |
+| rect | Rectangle | Положение аннотации на странице. |
 
 ### Смотрите также
 

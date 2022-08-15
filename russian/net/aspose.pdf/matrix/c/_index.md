@@ -1,14 +1,14 @@
 ---
 title: C
 second_title: Aspose.PDF для справочника API .NET
-description: C член матрицы преобразования.
+description: C элемент матрицы преобразования.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/matrix/c/
 ---
 ## Matrix.C property
 
-C член матрицы преобразования.
+C элемент матрицы преобразования.
 
 ```csharp
 public double C { get; set; }

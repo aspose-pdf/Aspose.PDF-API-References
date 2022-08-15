@@ -19,7 +19,7 @@ public sealed class PdfContentEditor : SaveableFacade
 | Имя | Описание |
 | --- | --- |
 | [PdfContentEditor](pdfcontenteditor#constructor)() | Конструктор объекта PdfContentEditor. |
-| [PdfContentEditor](pdfcontenteditor#constructor_1)(Document) | Инициализирует новый[`PdfContentEditor`](../pdfcontenteditor)объект на основе*document*. |
+| [PdfContentEditor](pdfcontenteditor#constructor_1)(Document) | Инициализирует новый[`PdfContentEditor`](../pdfcontenteditor) объект на базе*document* . |
 
 ## Характеристики
 
@@ -27,8 +27,8 @@ public sealed class PdfContentEditor : SaveableFacade
 | --- | --- |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | Получает фасад документа, над которым работает. |
 | [ReplaceTextStrategy](../../aspose.pdf.facades/pdfcontenteditor/replacetextstrategy) { get; set; } | Набор параметров для операции замены текста |
-| [TextEditOptions](../../aspose.pdf.facades/pdfcontenteditor/texteditoptions) { get; set; } | Получает или устанавливает параметры редактирования текста. |
-| [TextReplaceOptions](../../aspose.pdf.facades/pdfcontenteditor/textreplaceoptions) { get; set; } | Получает или устанавливает параметры замены текста. |
+| [TextEditOptions](../../aspose.pdf.facades/pdfcontenteditor/texteditoptions) { get; set; } | Получает или задает параметры редактирования текста. |
+| [TextReplaceOptions](../../aspose.pdf.facades/pdfcontenteditor/textreplaceoptions) { get; set; } | Получает или задает параметры замены текста. |
 | [TextSearchOptions](../../aspose.pdf.facades/pdfcontenteditor/textsearchoptions) { get; set; } | Получает или задает параметры текстового поиска. |
 
 ## Методы
@@ -36,18 +36,18 @@ public sealed class PdfContentEditor : SaveableFacade
 | Имя | Описание |
 | --- | --- |
 | [AddDocumentAdditionalAction](../../aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction)(string, string) | Добавляет дополнительное действие для события документа. |
-| [AddDocumentAttachment](../../aspose.pdf.facades/pdfcontenteditor/adddocumentattachment#adddocumentattachment_1)(string, string) | Добавляет вложение документа без аннотации. |
-| [AddDocumentAttachment](../../aspose.pdf.facades/pdfcontenteditor/adddocumentattachment#adddocumentattachment)(Stream, string, string) | Добавляет вложение документа без аннотации. |
+| [AddDocumentAttachment](../../aspose.pdf.facades/pdfcontenteditor/adddocumentattachment#adddocumentattachment_1)(string, string) | Добавляет вложение к документу без аннотации. |
+| [AddDocumentAttachment](../../aspose.pdf.facades/pdfcontenteditor/adddocumentattachment#adddocumentattachment)(Stream, string, string) | Добавляет вложение к документу без аннотации. |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Инициализирует фасад. |
 | override [BindPdf](../../aspose.pdf.facades/pdfcontenteditor/bindpdf#bindpdf_1)(Stream) | Связывает поток PDF для редактирования. |
 | override [BindPdf](../../aspose.pdf.facades/pdfcontenteditor/bindpdf#bindpdf_2)(string) | Связывает файл PDF для редактирования. |
-| [ChangeViewerPreference](../../aspose.pdf.facades/pdfcontenteditor/changeviewerpreference)(int) | Изменяет параметры просмотра. |
+| [ChangeViewerPreference](../../aspose.pdf.facades/pdfcontenteditor/changeviewerpreference)(int) | Изменяет настройки просмотра. |
 | override [Close](../../aspose.pdf.facades/pdfcontenteditor/close)() | Закрывает открытый документ. |
 | [CreateApplicationLink](../../aspose.pdf.facades/pdfcontenteditor/createapplicationlink#createapplicationlink)(Rectangle, string, int) | Создает ссылку для запуска приложения в документе PDF. |
 | [CreateApplicationLink](../../aspose.pdf.facades/pdfcontenteditor/createapplicationlink#createapplicationlink_1)(Rectangle, string, int, Color) | Создает ссылку для запуска приложения в документе PDF. |
 | [CreateApplicationLink](../../aspose.pdf.facades/pdfcontenteditor/createapplicationlink#createapplicationlink_2)(Rectangle, string, int, Color, Enum[]) | Создает ссылку для запуска приложения в документе PDF. |
 | [CreateBookmarksAction](../../aspose.pdf.facades/pdfcontenteditor/createbookmarksaction)(string, Color, bool, bool, string, string, string) | Создает закладку с указанным действием. |
-| [CreateCaret](../../aspose.pdf.facades/pdfcontenteditor/createcaret)(int, Rectangle, Rectangle, string, string, Color) | Создает аннотацию вставки. |
+| [CreateCaret](../../aspose.pdf.facades/pdfcontenteditor/createcaret)(int, Rectangle, Rectangle, string, string, Color) | Создает аннотацию курсора. |
 | [CreateCustomActionLink](../../aspose.pdf.facades/pdfcontenteditor/createcustomactionlink)(Rectangle, int, Color, Enum[]) | Создает ссылку на дополнительные действия в документе PDF. |
 | [CreateFileAttachment](../../aspose.pdf.facades/pdfcontenteditor/createfileattachment#createfileattachment_2)(Rectangle, string, string, int, string) | Создает аннотацию вложенного файла. |
 | [CreateFileAttachment](../../aspose.pdf.facades/pdfcontenteditor/createfileattachment#createfileattachment)(Rectangle, string, Stream, string, int, string) | Создает аннотацию вложенного файла. |
@@ -64,7 +64,7 @@ public sealed class PdfContentEditor : SaveableFacade
 | [CreatePdfDocumentLink](../../aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink#createpdfdocumentlink)(Rectangle, string, int, int) | Создает ссылку на другую страницу документа PDF. |
 | [CreatePdfDocumentLink](../../aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink#createpdfdocumentlink_1)(Rectangle, string, int, int, Color) | Создает ссылку на другую страницу документа PDF. |
 | [CreatePdfDocumentLink](../../aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink#createpdfdocumentlink_2)(Rectangle, string, int, int, Color, Enum[]) | Создает ссылку на другую страницу документа PDF. |
-| [CreatePolygon](../../aspose.pdf.facades/pdfcontenteditor/createpolygon)(LineInfo, int, Rectangle, string) | Создает аннотацию полигона. |
+| [CreatePolygon](../../aspose.pdf.facades/pdfcontenteditor/createpolygon)(LineInfo, int, Rectangle, string) | Создает полигональную аннотацию. |
 | [CreatePolyLine](../../aspose.pdf.facades/pdfcontenteditor/createpolyline)(LineInfo, int, Rectangle, string) | Создает полилинейную аннотацию. |
 | [CreatePopup](../../aspose.pdf.facades/pdfcontenteditor/createpopup)(Rectangle, string, bool, int) | Создает всплывающую аннотацию в документе PDF. |
 | [CreateRubberStamp](../../aspose.pdf.facades/pdfcontenteditor/createrubberstamp#createrubberstamp)(int, Rectangle, string, Color, Stream) | Создает аннотацию в виде штампа. |
@@ -92,13 +92,13 @@ public sealed class PdfContentEditor : SaveableFacade
 | [HideStampById](../../aspose.pdf.facades/pdfcontenteditor/hidestampbyid)(int, int) | Скрывает штамп. После скрытия видимость штампа можно восстановить с помощью метода ShowStampById. |
 | [MoveStamp](../../aspose.pdf.facades/pdfcontenteditor/movestamp)(int, int, double, double) | Изменяет положение штампа на странице. |
 | [MoveStampById](../../aspose.pdf.facades/pdfcontenteditor/movestampbyid)(int, int, double, double) | Изменяет положение штампа на странице. |
-| [RemoveDocumentOpenAction](../../aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction)() | Удаляет открытое действие из документа. Эта операция полезна при объединении нескольких документов, которые используют явное действие «Перейти» при запуске. |
+| [RemoveDocumentOpenAction](../../aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction)() | Удаляет открытое действие из документа. Эта операция полезна при объединении нескольких документов, использующих явное действие «Перейти» при запуске. |
 | [ReplaceImage](../../aspose.pdf.facades/pdfcontenteditor/replaceimage)(int, int, string) | Заменяет указанное изображение на указанной странице документа PDF другим изображением. |
 | [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext#replacetext_2)(string, string) | Заменяет текст в файле PDF. |
 | [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext#replacetext)(string, int, string) | Заменяет текст в файле PDF на указанной странице. |
 | [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext#replacetext_4)(string, string, int) | Заменяет текст в файле PDF и устанавливает размер шрифта. |
-| [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext#replacetext_3)(string, string, TextState) | Заменяет текст в файле PDF, используя указанный объект[`TextState`](../../aspose.pdf.text/textstate). |
-| [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext#replacetext_1)(string, int, string, TextState) | Заменяет текст в файле PDF на указанной странице.[`TextState`](../../aspose.pdf.text/textstate)объект (семейство шрифтов, цвет) может быть указан для замещаемого текста. |
+| [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext#replacetext_3)(string, string, TextState) | Заменяет текст в файле PDF, используя указанный[`TextState`](../../aspose.pdf.text/textstate) объект. |
+| [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext#replacetext_1)(string, int, string, TextState) | Заменяет текст в файле PDF на указанной странице.[`TextState`](../../aspose.pdf.text/textstate) объект (семейство шрифтов, цвет) может быть указан для заменяемого текста. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | Сохраняет документ PDF в указанный поток. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | Сохраняет документ PDF в указанный файл. |
 | [ShowStampById](../../aspose.pdf.facades/pdfcontenteditor/showstampbyid)(int, int) | Показывает штамп, который был скрыт HiddenStampById. |
@@ -109,7 +109,7 @@ public sealed class PdfContentEditor : SaveableFacade
 | --- | --- |
 | const [DocumentClose](../../aspose.pdf.facades/pdfcontenteditor/documentclose) | Тип события документа. Закрывает документ. |
 | const [DocumentOpen](../../aspose.pdf.facades/pdfcontenteditor/documentopen) | Тип события документа. Открывает документ. |
-| const [DocumentPrinted](../../aspose.pdf.facades/pdfcontenteditor/documentprinted) | Тип события документа. Выполнение действия после печати. |
+| const [DocumentPrinted](../../aspose.pdf.facades/pdfcontenteditor/documentprinted) | Тип события документа. Выполнить действие после печати. |
 | const [DocumentSaved](../../aspose.pdf.facades/pdfcontenteditor/documentsaved) | Тип события документа. Выполнить действие после сохранения. |
 | const [DocumentWillPrint](../../aspose.pdf.facades/pdfcontenteditor/documentwillprint) | Тип события документа. Выполнить действие перед печатью. |
 | const [DocumentWillSave](../../aspose.pdf.facades/pdfcontenteditor/documentwillsave) | Тип события документа. Выполнить действие перед сохранением. |

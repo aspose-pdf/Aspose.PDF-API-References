@@ -1,14 +1,14 @@
 ---
 title: PageLedger
 second_title: Aspose.PDF for .NET API 参考
-description: 分类帐尺寸432x279 毫米
+description: 分类帐尺寸 432x279 毫米.
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/pagesize/pageledger/
 ---
 ## PageSize.PageLedger property
 
-分类帐尺寸（432x279 毫米）。
+分类帐尺寸 (432x279 毫米).
 
 ```csharp
 public static PageSize PageLedger { get; }

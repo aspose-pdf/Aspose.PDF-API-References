@@ -1,14 +1,14 @@
 ---
 title: PDF3DStream
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化PDF3DStreamaspose.pdf.annotations/pdf3dstream类的新实例
+description: 初始化PDF3DStreamaspose.pdf.annotations/pdf3dstream类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dstream/pdf3dstream/
 ---
 ## PDF3DStream constructor
 
-初始化[`PDF3DStream`](../../pdf3dstream)类的新实例。
+初始化[`PDF3DStream`](../../pdf3dstream)类.
 
 ```csharp
 public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
@@ -16,7 +16,7 @@ public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 文档。 |
+| doc | Document | 文件。 |
 | pdf3DArtwork | PDF3DArtwork | 3D 艺术品。 |
 
 ### 也可以看看

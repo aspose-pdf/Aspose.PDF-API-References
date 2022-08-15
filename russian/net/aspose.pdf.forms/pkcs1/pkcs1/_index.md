@@ -1,14 +1,14 @@
 ---
 title: PKCS1
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаPKCS1aspose.pdf.forms/pkcs1.
+description: Инициализирует новый экземплярPKCS1aspose.pdf.forms/pkcs1 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/pkcs1/pkcs1/
 ---
 ## PKCS1(Stream) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PKCS1`](../../pkcs1).
+Инициализирует новый экземпляр[`PKCS1`](../../pkcs1) класс.
 
 ```csharp
 public PKCS1(Stream image)
@@ -28,7 +28,7 @@ public PKCS1(Stream image)
 
 ## PKCS1() {#constructor}
 
-Инициализирует новый экземпляр класса[`PKCS1`](../../pkcs1).
+Инициализирует новый экземпляр[`PKCS1`](../../pkcs1) класс.
 
 ```csharp
 public PKCS1()
@@ -44,7 +44,7 @@ public PKCS1()
 
 ## PKCS1(string, string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`PKCS1`](../../pkcs1).
+Инициализирует новый экземпляр[`PKCS1`](../../pkcs1) класс.
 
 ```csharp
 public PKCS1(string pfx, string password)
@@ -52,8 +52,8 @@ public PKCS1(string pfx, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
-| пароль | String | Пароль для сертификата. |
+| pfx | String | Pfx-файл, содержащий сертификат для подписи. |
+| password | String | Пароль для сертификата. |
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public PKCS1(string pfx, string password)
 
 ## PKCS1(Stream, string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PKCS1`](../../pkcs1).
+Инициализирует новый экземпляр[`PKCS1`](../../pkcs1) класс.
 
 ```csharp
 public PKCS1(Stream pfx, string password)
@@ -74,7 +74,7 @@ public PKCS1(Stream pfx, string password)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pfx | Stream | Поток с данными сертификата, организованными как pfx. |
-| пароль | String | Пароль для доступа к закрытому ключу в сертификате. |
+| password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
 ### Смотрите также
 

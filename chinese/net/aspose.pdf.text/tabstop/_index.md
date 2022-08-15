@@ -18,17 +18,17 @@ public class TabStop
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TabStop](tabstop#constructor)() | 初始化[`TabStop`](../tabstop)类的新实例。 |
-| [TabStop](tabstop#constructor_1)(float) | 用指定位置初始化[`TabStop`](../tabstop)类的新实例。 |
+| [TabStop](tabstop#constructor)() | 初始化[`TabStop`](../tabstop)类. |
+| [TabStop](tabstop#constructor_1)(float) | 初始化[`TabStop`](../tabstop)具有指定位置的类。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype) { get; set; } | 获取或设置一个[`AlignmentType`](./alignmenttype)枚举，指示制表符对齐类型。 |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly) { get; } | 获取指示此[`TabStop`](../tabstop)实例已附加到TextFragment并变为只读 |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype) { get; set; } | 获取或设置一个[`TabLeaderType`](../tableadertype)枚举，指示制表符前导类型。 |
-| [Position](../../aspose.pdf.text/tabstop/position) { get; set; } | 获取或设置一个指示制表位位置的浮点值。 |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype) { get; set; } | 获取或设置一个[`AlignmentType`](./alignmenttype)指示选项卡选项卡对齐类型的枚举。 |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly) { get; } | 获取值表明这个[`TabStop`](../tabstop)实例已附加到[`TextFragment`](../textfragment)并成为 readonly |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype) { get; set; } | 获取或设置一个[`TabLeaderType`](../tableadertype)指示选项卡前导类型的枚举。 |
+| [Position](../../aspose.pdf.text/tabstop/position) { get; set; } | 获取或设置表示制表位位置的浮点值。 |
 
 ### 也可以看看
 

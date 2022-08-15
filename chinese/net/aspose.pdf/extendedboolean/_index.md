@@ -18,9 +18,9 @@ public enum ExtendedBoolean
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Undefined | `0` | ExtendnedBoolean 的未定义值。 |
-| False | `1` | ExtendnedBoolean 的错误值。 |
-| True | `2` | ExtendnedBoolean 的真值。 |
+| Undefined | `0` | ExtendedBoolean. 的未定义值 |
+| False | `1` | ExtendnedBoolean 的假值。 |
+| True | `2` | ExtendedBoolean 的真值。 |
 
 ### 也可以看看
 

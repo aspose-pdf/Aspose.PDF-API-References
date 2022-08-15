@@ -1,14 +1,22 @@
 ---
 title: StartPage
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置将执行提取操作的页范围内的起始页  ltcodegt PdfExtractor ext  new PdfExtractor ext.BindBdfsample.pdf ext.StartPage  2 ext.EndPage  5 ext.ExtractText lt/codegt
+description: 获取或设置要执行提取操作的页范围内的起始页
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdfextractor/startpage/
 ---
 ## PdfExtractor.StartPage property
 
-获取或设置将执行提取操作的页范围内的起始页。  &lt;code&gt; PdfExtractor ext = new PdfExtractor(); ext.BindBdf("sample.pdf"); ext.StartPage = 2; ext.EndPage = 5; ext.ExtractText(); &lt;/code&gt;
+获取或设置要执行提取操作的页范围内的起始页。
+
+```csharp
+PdfExtractor ext = new PdfExtractor();
+ext.BindBdf("sample.pdf");
+ext.StartPage = 2;
+ext.EndPage = 5;
+ext.ExtractText();
+```
 
 ```csharp
 public int StartPage { get; set; }

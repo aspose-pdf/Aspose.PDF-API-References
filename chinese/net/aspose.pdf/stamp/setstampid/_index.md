@@ -1,14 +1,14 @@
 ---
 title: setStampId
 second_title: Aspose.PDF for .NET API 参考
-description: 设置标记 ID
+description: 设置印章 ID.
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/stamp/setstampid/
 ---
 ## Stamp.setStampId method
 
-设置标记 ID。
+设置印章 ID.
 
 ```csharp
 public void setStampId(int value)
@@ -16,7 +16,7 @@ public void setStampId(int value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int32 | Stamp ID 的新值。 |
+| value | Int32 | 邮票 ID 的新值。 |
 
 ### 也可以看看
 

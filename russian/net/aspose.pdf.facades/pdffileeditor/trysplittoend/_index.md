@@ -1,14 +1,14 @@
 ---
 title: TrySplitToEnd
 second_title: Aspose.PDF для справочника API .NET
-description: Отделяется от местоположения и сохраняет заднюю часть как новый файл.
+description: Разделяет локацию и сохраняет заднюю часть как новый файл.
 type: docs
 weight: 500
 url: /ru/net/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
 ## TrySplitToEnd(string, int, string) {#trysplittoend_2}
 
-Отделяется от местоположения и сохраняет заднюю часть как новый файл.
+Разделяет локацию и сохраняет заднюю часть как новый файл.
 
 ```csharp
 public bool TrySplitToEnd(string inputFile, int location, string outputFile)
@@ -16,17 +16,17 @@ public bool TrySplitToEnd(string inputFile, int location, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Исходный файл Pdf. |
+| inputFile | String | Исходный PDF-файл. |
 | location | Int32 | Позиция разделения. |
-| outputFile | String | Путь к выходному файлу Pdf. |
+| outputFile | String | Выходной путь к файлу Pdf. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение, если операция не удалась.
+Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -45,7 +45,7 @@ bool result = pfe.TrySplitToEnd("input.pdf", 5, "out.pdf");
 
 ## TrySplitToEnd(Stream, int, Stream) {#trysplittoend}
 
-Разбивается из указанного места и сохраняет заднюю часть как новый файловый поток.
+Разделяет из указанного места и сохраняет заднюю часть как новый файл Stream.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -53,17 +53,17 @@ public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Исходный файл Pdf Поток. |
+| inputStream | Stream | Исходный файл Pdf Stream. |
 | location | Int32 | Позиция разделения. |
-| outputStream | Stream | Выходной файл Pdf Поток. |
+| outputStream | Stream | Выходной файл Pdf Stream. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-Потоки НЕ закрываются после этой операции, если не указано CloseConcatedStreams. Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
+Потоки НЕ закрываются после этой операции, если не указано значение CloseConcatedStreams. Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -102,7 +102,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение, если операция не удалась.
+Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -132,7 +132,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение, если операция не удалась.
+Метод TrySplitToEnd аналогичен методу SplitToEnd, за исключением того, что метод TrySplitToEnd не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Destination
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置要跳转到的目的地
+description: 获取或设置跳转的目的地
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/gotoremoteaction/destination/
 ---
 ## GoToRemoteAction.Destination property
 
-获取或设置要跳转到的目的地。
+获取或设置跳转的目的地。
 
 ```csharp
 public override IAppointment Destination { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Получает количество элементов объектаTextSegmentaspose.pdf.text/textsegment фактически содержащихся в коллекции.
+description: Получает количествоTextSegmentaspose.pdf.text/textsegment элементы объекта фактически содержащиеся в коллекции.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textsegmentcollection/count/
 ---
 ## TextSegmentCollection.Count property
 
-Получает количество элементов объекта[`TextSegment`](../../textsegment), фактически содержащихся в коллекции.
+Получает количество[`TextSegment`](../../textsegment) элементы объекта, фактически содержащиеся в коллекции.
 
 ```csharp
 public int Count { get; }

@@ -1,14 +1,14 @@
 ---
 title: GlyphOrientationVertical_Auto
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут GlyphOrientationVerticalAuto  задает ориентацию текста по умолчанию в зависимости от того является ли он полной ширины шириной или высотой.
+description: Атрибут GlyphOrientationVertical Auto  определяет ориентацию текста по умолчанию в зависимости от того является ли он полной ширины ширина равна высоте.
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/
 ---
 ## AttributeName.GlyphOrientationVertical_Auto field
 
-Атрибут GlyphOrientationVertical:Auto — задает ориентацию текста по умолчанию в зависимости от того, является ли он полной ширины (шириной или высотой).
+Атрибут GlyphOrientationVertical: Auto — определяет ориентацию текста по умолчанию, в зависимости от того, является ли он полной ширины (ширина равна высоте).
 
 ```csharp
 public static readonly AttributeName GlyphOrientationVertical_Auto;

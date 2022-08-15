@@ -1,14 +1,14 @@
 ---
 title: FontReplaceBehavior
 second_title: Aspose.PDF для справочника API .NET
-description: Получает режим который определяет поведение для сценариев замены шрифтов.
+description: Получает режим определяющий поведение сценариев замены шрифтов.
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/texteditoptions/fontreplacebehavior/
 ---
 ## TextEditOptions.FontReplaceBehavior property
 
-Получает режим, который определяет поведение для сценариев замены шрифтов.
+Получает режим, определяющий поведение сценариев замены шрифтов.
 
 ```csharp
 public FontReplace FontReplaceBehavior { get; set; }

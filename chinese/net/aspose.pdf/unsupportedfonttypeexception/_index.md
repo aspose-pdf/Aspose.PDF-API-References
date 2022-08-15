@@ -18,9 +18,9 @@ public sealed class UnsupportedFontTypeException : ApplicationException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor)(Exception) | 使用指定的错误消息初始化[`UnsupportedFontTypeException`](../unsupportedfonttypeexception) 类的新实例以及对导致此异常的内部异常的引用。 |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_1)(string) | 初始化[`UnsupportedFontTypeException`](../unsupportedfonttypeexception)类的新实例。 |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_2)(string, Exception) | 使用指定的错误消息初始化[`UnsupportedFontTypeException`](../unsupportedfonttypeexception) 类的新实例以及对导致此异常的内部异常的引用。 |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor)(Exception) | 初始化[`UnsupportedFontTypeException`](../unsupportedfonttypeexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_1)(string) | 初始化[`UnsupportedFontTypeException`](../unsupportedfonttypeexception)类. |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_2)(string, Exception) | 初始化[`UnsupportedFontTypeException`](../unsupportedfonttypeexception)具有指定错误消息的类和对导致此异常的内部异常的引用。 |
 
 ### 也可以看看
 

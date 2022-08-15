@@ -27,23 +27,23 @@ public static Font FindFont(string fontName)
 В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
 
 ```csharp
-// Находим font
-ont font = FontRepository.FindFont("Arial");
+// Найти шрифт
+Font font = FontRepository.FindFont("Arial");
 
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить шрифт первого текста вхождения
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также
@@ -77,23 +77,23 @@ public static Font FindFont(string fontName, bool ignoreCase)
 В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
 
 ```csharp
-// Находим font
-ont font = FontRepository.FindFont("Arial");
+// Найти шрифт
+Font font = FontRepository.FindFont("Arial");
 
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста «hello world»
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить шрифт первого текста вхождения
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также
@@ -107,7 +107,7 @@ oc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Ищет и возвращает шрифт с указанным именем шрифта и стилем шрифта.
+Ищет и возвращает шрифт с указанным именем и стилем шрифта.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
@@ -127,23 +127,23 @@ public static Font FindFont(string fontFamilyName, FontStyles stl)
 В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
 
 ```csharp
-// Находим font
-ont font = FontRepository.FindFont("Arial", FontStyle.Italic);
+// Найти шрифт
+Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber, чтобы найти весь текст «hello world» вхождения
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить шрифт первого текста instance
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также
@@ -158,7 +158,7 @@ oc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Ищет и возвращает шрифт с указанным именем и стилем шрифта игнорируя или учитывая чувствительность к регистру.
+Ищет и возвращает шрифт с указанным именем шрифта и стилем шрифта игнорируя или учитывая чувствительность к регистру.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
@@ -168,7 +168,7 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 | --- | --- | --- |
 | fontFamilyName | String | Название семейства шрифтов. |
 | stl | FontStyles | Значение стиля шрифта. |
-| ignoreCase | Boolean | регистрозависимость |
+| ignoreCase | Boolean | чувствительность к регистру |
 
 ### Возвращаемое значение
 
@@ -179,23 +179,23 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 В примере показано, как найти шрифт и заменить шрифт текста первой страницы.
 
 ```csharp
-// Находим font
-ont font = FontRepository.FindFont("Arial", FontStyle.Italic);
+// Найти шрифт
+Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
 // Открыть документ
-ocument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Создаем объект TextFragmentAbsorber, чтобы найти весь текст «hello world» вхождения
-extFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+// Создаем объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
 // Принять поглотитель для первой страницы
-oc.Pages[1].Accept(absorber);
+doc.Pages[1].Accept(absorber);
 
-// Изменить шрифт первого текста instance
-bsorber.TextFragments[1].TextState.Font = font;
+// Изменяем шрифт первого вхождения текста
+absorber.TextFragments[1].TextState.Font = font;
 
 // Сохранить документ
-oc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Смотрите также

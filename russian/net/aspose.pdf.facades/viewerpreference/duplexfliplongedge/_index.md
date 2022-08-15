@@ -1,14 +1,14 @@
 ---
 title: DuplexFlipLongEdge
 second_title: Aspose.PDF для справочника API .NET
-description: Дуплекс и переворот по короткому краю листа.
+description: Двусторонняя печать и отражение по короткому краю листа.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/viewerpreference/duplexfliplongedge/
 ---
 ## ViewerPreference.DuplexFlipLongEdge field
 
-Дуплекс и переворот по короткому краю листа.
+Двусторонняя печать и отражение по короткому краю листа.
 
 ```csharp
 public const int DuplexFlipLongEdge;

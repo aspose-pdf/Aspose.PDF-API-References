@@ -1,14 +1,14 @@
 ---
 title: Symbology
 second_title: Aspose.PDF for .NET API 参考
-description: A条码符号系统定义特定类型条码的技术细节 条的宽度字符集编码方法 校验和规范等
+description: A条码符号系统定义了特定类型条码的技术细节 条的宽度字符集编码方法校验和规范等
 type: docs
 weight: 3240
 url: /zh/net/aspose.pdf.forms/symbology/
 ---
 ## Symbology enumeration
 
-A（条码）符号系统定义特定类型条码的技术细节: 条的宽度、字符集、编码方法, 校验和规范等
+A（条码）符号系统定义了特定类型条码的技术细节： 条的宽度、字符集、编码方法、校验和规范等
 
 ```csharp
 public enum Symbology
@@ -20,7 +20,7 @@ public enum Symbology
 | --- | --- | --- |
 | PDF417 | `0` | 具有高数据容量和纠错能力的多行、可变长度二维符号系统。 |
 | QRCode | `1` | QR 码（Quick Response 的缩写）是一种特定的矩阵条码（二维码）， 可由专用的 QR 条码阅读器和照相手机读取。 |
-| DataMatrix | `2` | 一种二维矩阵符号系统，由排列成正方形或 矩形图案的黑白方形模块组成。 |
+| DataMatrix | `2` | 一种二维矩阵符号系统，由以正方形或 矩形图案排列的黑白方形模块组成。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF for .NET API 参考
-description: 获取StructureTextState文本结构元素的对象
+description: 获取StructureTextState文本结构元素的对象.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 ---
 ## ITextElement.StructureTextState property
 
-获取StructureTextState文本结构元素的对象。
+获取StructureTextState文本结构元素的对象.
 
 ```csharp
 public StructureTextState StructureTextState { get; }

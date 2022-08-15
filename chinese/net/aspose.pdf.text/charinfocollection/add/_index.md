@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API 参考
-description: 集合是只读的抛出 NotImplementedException 
+description: 集合是只读的抛出未实现异常.
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.text/charinfocollection/add/
 ---
 ## CharInfoCollection.Add method
 
-集合是只读的，抛出 NotImplementedException 。
+集合是只读的，抛出未实现异常.
 
 ```csharp
 public void Add(CharInfo item)

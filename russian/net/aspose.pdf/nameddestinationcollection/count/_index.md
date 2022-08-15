@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF для справочника API .NET
-description: Количество именованных адресатов.
+description: Количество названных пунктов назначения.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/nameddestinationcollection/count/
 ---
 ## NamedDestinationCollection.Count property
 
-Количество именованных адресатов.
+Количество названных пунктов назначения.
 
 ```csharp
 public int Count { get; }

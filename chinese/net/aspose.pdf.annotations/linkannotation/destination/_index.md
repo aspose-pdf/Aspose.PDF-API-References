@@ -1,14 +1,14 @@
 ---
 title: Destination
 second_title: Aspose.PDF for .NET API 参考
-description: 激活注解时显示的目的地
+description: 激活注释时显示的目的地
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/linkannotation/destination/
 ---
 ## LinkAnnotation.Destination property
 
-激活注解时显示的目的地。
+激活注释时显示的目的地。
 
 ```csharp
 public IAppointment Destination { get; set; }

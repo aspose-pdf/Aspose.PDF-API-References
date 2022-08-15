@@ -1,14 +1,14 @@
 ---
 title: Form
 second_title: Aspose.PDF для справочника API .NET
-description: Получает объект формы который содержит TextFragment
+description: Получает объект формы содержащий TextFragment
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textfragment/form/
 ---
 ## TextFragment.Form property
 
-Получает объект формы, который содержит TextFragment
+Получает объект формы, содержащий TextFragment
 
 ```csharp
 public XForm Form { get; }

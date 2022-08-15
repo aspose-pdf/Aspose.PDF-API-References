@@ -1,14 +1,14 @@
 ---
 title: TextFragments
 second_title: Aspose.PDF для справочника API .NET
-description: Получает коллекцию объектовTextFragmentaspose.pdf.text/textfragment описывающих текст содержащийся в ячейке
+description: Получает коллекциюTextFragmentaspose.pdf.text/textfragment объекты описывающие текст содержащийся в ячейке
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/absorbedcell/textfragments/
 ---
 ## AbsorbedCell.TextFragments property
 
-Получает коллекцию объектов[`TextFragment`](../../textfragment), описывающих текст, содержащийся в ячейке
+Получает коллекцию[`TextFragment`](../../textfragment) объекты, описывающие текст, содержащийся в ячейке
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }

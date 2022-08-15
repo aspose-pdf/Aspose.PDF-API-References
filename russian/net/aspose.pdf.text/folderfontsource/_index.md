@@ -18,7 +18,7 @@ public sealed class FolderFontSource : FontSource
 
 | Имя | Описание |
 | --- | --- |
-| [FolderFontSource](folderfontsource)(string) | Инициализирует новый экземпляр класса[`FolderFontSource`](../folderfontsource). |
+| [FolderFontSource](folderfontsource)(string) | Инициализирует новый экземпляр[`FolderFontSource`](../folderfontsource) класс. |
 
 ## Характеристики
 

@@ -24,7 +24,7 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
-Инициализирует новый[`PdfFileMend`](../../pdffilemend)объект на основе*document*.
+Инициализирует новый[`PdfFileMend`](../../pdffilemend) объект на базе*document* .
 
 ```csharp
 public PdfFileMend(Document document)
@@ -32,7 +32,7 @@ public PdfFileMend(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| document | Document | PDF-документ. |
 
 ### Смотрите также
 

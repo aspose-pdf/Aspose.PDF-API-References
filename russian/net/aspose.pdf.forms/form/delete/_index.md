@@ -29,7 +29,7 @@ public void Delete(Field field)
 
 ## Delete(string) {#delete_1}
 
-Удаляет поле с формы по его имени.
+Удаляет поле из формы по его имени.
 
 ```csharp
 public void Delete(string fieldName)

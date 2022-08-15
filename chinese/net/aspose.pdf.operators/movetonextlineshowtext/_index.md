@@ -18,7 +18,7 @@ public class MoveToNextLineShowText : TextShowOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MoveToNextLineShowText](movetonextlineshowtext)() | 初始化运算符。 |
+| [MoveToNextLineShowText](movetonextlineshowtext)() | 初始化操作符。 |
 
 ## 特性
 

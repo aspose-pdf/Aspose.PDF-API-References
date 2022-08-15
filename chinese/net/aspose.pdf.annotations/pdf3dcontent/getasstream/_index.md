@@ -1,14 +1,14 @@
 ---
 title: GetAsStream
 second_title: Aspose.PDF for .NET API 参考
-description: 获取 3D 内容作为流
+description: 以流的形式获取 3D 内容
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/getasstream/
 ---
 ## PDF3DContent.GetAsStream method
 
-获取 3D 内容作为流。
+以流的形式获取 3D 内容。
 
 ```csharp
 public Stream GetAsStream()
@@ -16,7 +16,7 @@ public Stream GetAsStream()
 
 ### 返回值
 
-流。
+溪流。
 
 ### 也可以看看
 

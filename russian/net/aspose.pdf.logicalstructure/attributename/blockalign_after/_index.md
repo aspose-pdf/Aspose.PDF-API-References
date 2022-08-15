@@ -1,14 +1,14 @@
 ---
 title: BlockAlign_After
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут BlockAlignAfter  после того как край последнего дочернего прямоугольника выделения выровнен с краем прямоугольника содержимого ячейки таблицы.
+description: Атрибут BlockAlign After  после того как край прямоугольника распределения последнего дочернего элемента выровнен с краем прямоугольника содержимого ячейки таблицы.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/attributename/blockalign_after/
 ---
 ## AttributeName.BlockAlign_After field
 
-Атрибут BlockAlign:After — после того, как край последнего дочернего прямоугольника выделения выровнен с краем прямоугольника содержимого ячейки таблицы.
+Атрибут BlockAlign: After — после того, как край прямоугольника распределения последнего дочернего элемента выровнен с краем прямоугольника содержимого ячейки таблицы.
 
 ```csharp
 public static readonly AttributeName BlockAlign_After;

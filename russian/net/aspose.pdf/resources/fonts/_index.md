@@ -1,14 +1,14 @@
 ---
 title: Fonts
 second_title: Aspose.PDF для справочника API .NET
-description: ПолучаетFontsaspose.pdf/resources/fontsколлекция ресурсов
+description: получаетFontsaspose.pdf/resources/fonts коллекция ресурсов
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/resources/fonts/
 ---
 ## Resources.Fonts property
 
-Получает`Fonts`коллекция ресурсов
+получает`Fonts` коллекция ресурсов
 
 ```csharp
 public FontCollection Fonts { get; }

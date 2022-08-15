@@ -22,7 +22,7 @@ public enum WarningType
 | DataLoss | `1` | 文本/图表/图像或其他数据在加载后的文档树或保存后创建的文档中完全丢失。 |
 | MajorFormattingLoss | `2` | 与原始文档相比，主要格式丢失。这适用于格式化丢失很大但数据仍然存在的情况。 |
 | MinorFormattingLoss | `3` | 与原始文档相比，格式损失较小。这是为了保真度的轻微损失。 |
-| CompatibilityIssue | `4` | 已知问题会阻止某些用户代理或以前版本的用户代理打开文档。 |
+| CompatibilityIssue | `4` | 会阻止文档被某些用户代理或以前版本的用户代理打开的已知问题。 |
 | InvalidInputStreamType | `5` | 输入流类型无效 |
 | UnexpectedContent | `99` | 文件包含意外内容。 |
 

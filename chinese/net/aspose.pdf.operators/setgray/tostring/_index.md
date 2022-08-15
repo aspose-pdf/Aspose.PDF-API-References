@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 返回运算符的字符串表示
+description: 返回运算符的字符串表示形式
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.operators/setgray/tostring/
 ---
 ## SetGray.ToString method
 
-返回运算符的字符串表示。
+返回运算符的字符串表示形式。
 
 ```csharp
 public override string ToString()

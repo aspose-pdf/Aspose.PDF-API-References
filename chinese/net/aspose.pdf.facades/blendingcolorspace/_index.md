@@ -19,9 +19,9 @@ public enum BlendingColorSpace
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | DontChange | `0` | 混合色彩空间没有改变。 |
-| Auto | `1` | 混合色彩空间是自动确定的。 |
-| DeviceRGB | `2` | 混合色彩空间设置为 DeviceRGB。 |
-| DeviceCMYK | `3` | 混合色彩空间设置为 DeviceCMYK。 |
+| Auto | `1` | 混合颜色空间是自动确定的。 |
+| DeviceRGB | `2` | 混合色彩空间设置为 DeviceRGB. |
+| DeviceCMYK | `3` | 混合色彩空间设置为 DeviceCMYK. |
 
 ### 也可以看看
 

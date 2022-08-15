@@ -16,7 +16,7 @@ public TeXFragment(string text)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 片段文本 |
+| text | String | 片段文字 |
 
 ### 也可以看看
 
@@ -36,8 +36,8 @@ public TeXFragment(string text, bool removeIndents)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 片段文本 |
-| removeIndents | Boolean | 判断是否在排版 LaTeX 片段 |
+| text | String | 片段文字 |
+| removeIndents | Boolean | 确定在排版 LaTeX 片段时是否不缩进 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Options
 second_title: Aspose.PDF for .NET API 参考
-description: 获取选项集合
+description: 获取选择选项的集合
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/choicefield/options/
 ---
 ## ChoiceField.Options property
 
-获取选项集合。
+获取选择选项的集合。
 
 ```csharp
 public virtual OptionCollection Options { get; }

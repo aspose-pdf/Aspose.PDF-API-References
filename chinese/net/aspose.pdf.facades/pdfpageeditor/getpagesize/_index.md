@@ -16,7 +16,7 @@ public PageSize GetPageSize(int page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 页面索引。文档页面从 1 开始编号。 |
+| page | Int32 | 页面索引。文档页从 1 开始编号。 |
 
 ### 返回值
 
@@ -24,7 +24,7 @@ public PageSize GetPageSize(int page)
 
 ### 例子
 
-以下示例演示了 GetPageSize 方法的使用:
+下面的例子演示了 GetPageSize 方法的使用：
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

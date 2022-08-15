@@ -1,14 +1,14 @@
 ---
 title: TryDelete
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет из входного файла страницы указанные числовым массивом сохраняет как новый файл Pdf.
+description: Удаляет страницы заданные числовым массивом из входного файла сохраняет как новый файл Pdf.
 type: docs
 weight: 430
 url: /ru/net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
 ## TryDelete(string, int[], string) {#trydelete_2}
 
-Удаляет из входного файла страницы, указанные числовым массивом, сохраняет как новый файл Pdf.
+Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
@@ -16,7 +16,7 @@ public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Введите путь к файлу. |
+| inputFile | String | Путь к входному файлу. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputFile | String | Путь к выходному файлу. |
 
@@ -26,7 +26,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение, если операция не удалась.
+Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -45,7 +45,7 @@ bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## TryDelete(Stream, int[], Stream) {#trydelete}
 
-Удаляет из входного файла страницы, указанные числовым массивом, сохраняет как новый файл Pdf.
+Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -53,17 +53,17 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток входного файла. |
+| inputStream | Stream | Входной файл Поток. |
 | pageNumber | Int32[] | Индекс страницы из входного файла. |
 | outputStream | Stream | Выходной файловый поток. |
 
 ### Возвращаемое значение
 
-Истина для успеха или ложь.
+Верно для успеха или ложно.
 
 ### Примечания
 
-Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение, если операция не удалась.
+Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение в случае сбоя операции.
 
 ### Примеры
 
@@ -84,7 +84,7 @@ bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 
 ## TryDelete(string, int[], HttpResponse) {#trydelete_3}
 
-Удаляет указанные страницы из документа и сохраняет результат в объект HttpResponse.
+Удаляет указанные страницы из документа и сохраняет результат в объекте HttpResponse.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
@@ -92,7 +92,7 @@ public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Путь к исходному файлу. |
+| inputFile | String | Путь исходного файла. |
 | pageNumber | Int32[] | Массив номеров страниц, которые необходимо удалить. |
 | response | HttpResponse | Объект ответа, в котором будет храниться результирующий документ. |
 
@@ -102,7 +102,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение, если операция не удалась.
+Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 
@@ -132,7 +132,7 @@ true, если операция завершена успешно; в проти
 
 ### Примечания
 
-Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение, если операция не удалась.
+Метод TryDelete аналогичен методу Delete, за исключением того, что метод TryDelete не генерирует исключение в случае сбоя операции.
 
 ### Смотрите также
 

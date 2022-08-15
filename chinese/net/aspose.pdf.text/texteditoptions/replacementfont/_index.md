@@ -1,14 +1,14 @@
 ---
 title: ReplacementFont
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置用于在用户字体不包含所需字符时替换的字体
+description: 如果用户字体不包含所需的字符则获取或设置用于替换的字体
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/texteditoptions/replacementfont/
 ---
 ## TextEditOptions.ReplacementFont property
 
-获取或设置用于在用户字体不包含所需字符时替换的字体
+如果用户字体不包含所需的字符，则获取或设置用于替换的字体
 
 ```csharp
 public Font ReplacementFont { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置旋转角度以度为单位
+description: 获取或设置以度为单位的旋转角度
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.text/textfragmentstate/rotation/
 ---
 ## TextFragmentState.Rotation property
 
-获取或设置旋转角度（以度为单位）。
+获取或设置以度为单位的旋转角度。
 
 ```csharp
 public double Rotation { get; set; }

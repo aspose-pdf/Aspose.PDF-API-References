@@ -18,7 +18,7 @@ public class PDF3DStream
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DStream](pdf3dstream)(Document, PDF3DArtwork) | Инициализирует новый экземпляр класса[`PDF3DStream`](../pdf3dstream). |
+| [PDF3DStream](pdf3dstream)(Document, PDF3DArtwork) | Инициализирует новый экземпляр[`PDF3DStream`](../pdf3dstream) класс. |
 
 ## Характеристики
 

@@ -1,14 +1,14 @@
 ---
 title: NonSpecificationCases
 second_title: Aspose.PDF для справочника API .NET
-description: Содержит флаги для управления процессом преобразования PDF/A для случаев когда исходный документ не соответствует спецификации PDF/A.
+description: Содержит флаги для управления процессом преобразования PDF/A в случаях когда исходный документ не соответствует спецификации PDF/A.
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/nonspecificationcases/
 ---
 ## PdfFormatConversionOptions.NonSpecificationCases property
 
-Содержит флаги для управления процессом преобразования PDF/A для случаев, когда исходный документ не соответствует спецификации PDF/A.
+Содержит флаги для управления процессом преобразования PDF/A в случаях, когда исходный документ не соответствует спецификации PDF/A.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationCases { get; }

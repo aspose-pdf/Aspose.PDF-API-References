@@ -28,7 +28,7 @@ public virtual void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-将 PDF 文档保存到指定的流。
+将 PDF 文档保存到指定的流中。
 
 ```csharp
 public virtual void Save(Stream destStream)

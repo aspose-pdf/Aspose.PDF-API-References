@@ -1,14 +1,14 @@
 ---
 title: Lines
 second_title: Aspose.PDF для справочника API .NET
-description: Артефакт строк многострочного текста.
+description: Строки многострочного текстового артефакта.
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/artifact/lines/
 ---
 ## Artifact.Lines property
 
-Артефакт строк многострочного текста.
+Строки многострочного текстового артефакта.
 
 ```csharp
 public List<string> Lines { get; }

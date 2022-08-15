@@ -1,14 +1,14 @@
 ---
 title: Close
 second_title: Aspose.PDF for .NET API 参考
-description: 关闭外观
+description: 关闭门面
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdffilesanitization/close/
 ---
 ## PdfFileSanitization.Close method
 
-关闭外观。
+关闭门面。
 
 ```csharp
 public override void Close()

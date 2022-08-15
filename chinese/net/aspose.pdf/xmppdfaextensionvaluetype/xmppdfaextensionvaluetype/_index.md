@@ -20,7 +20,7 @@ public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix
 | type | String | 值类型。 |
 | namespaceUri | String | 命名空间 URI。 |
 | prefix | String | 前缀。 |
-| description | String | 描述。 |
+| description | String | 说明。 |
 
 ### 也可以看看
 

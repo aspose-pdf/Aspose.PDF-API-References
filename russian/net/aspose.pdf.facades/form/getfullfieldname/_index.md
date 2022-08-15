@@ -1,14 +1,14 @@
 ---
 title: GetFullFieldName
 second_title: Aspose.PDF для справочника API .NET
-description: Получает полное имя поля в соответствии с его кратким именем поля.
+description: Получает полное имя поля в соответствии с его коротким именем поля.
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/form/getfullfieldname/
 ---
 ## Form.GetFullFieldName method
 
-Получает полное имя поля в соответствии с его кратким именем поля.
+Получает полное имя поля в соответствии с его коротким именем поля.
 
 ```csharp
 public string GetFullFieldName(string fieldName)

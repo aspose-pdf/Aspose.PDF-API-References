@@ -1,14 +1,14 @@
 ---
 title: SetColorValue
 second_title: Aspose.PDF для справочника API .NET
-description: Устанавливает цвет значения.
+description: Задает цвет значения.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/
 ---
 ## StructureAttribute.SetColorValue method
 
-Устанавливает цвет значения.
+Задает цвет значения.
 
 ```csharp
 public void SetColorValue(Color color)

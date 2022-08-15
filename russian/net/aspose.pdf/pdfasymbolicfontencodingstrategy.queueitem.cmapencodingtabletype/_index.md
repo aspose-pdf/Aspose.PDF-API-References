@@ -18,9 +18,9 @@ public enum CMapEncodingTableType : short
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| WindowsUnicodeTable | `0` | Указывает таблицу юникода Windows (3,1) - только Unicode BMP (UCS-2) |
-| WindowsSymbolicTable | `1` | Задает символьную таблицу Windows - (3,0) |
-| MacTable | `2` | Указывает таблицу Mac (1,0) |
+| WindowsUnicodeTable | `0` | Задает таблицу Unicode для Windows (3,1) — Unicode только для BMP (UCS-2) |
+| WindowsSymbolicTable | `1` | Определяет символьную таблицу Windows - (3,0) |
+| MacTable | `2` | Указывает таблицу Mac(1,0) |
 | UnicodeTable | `3` | Указывает таблицу Юникода (0,3) |
 
 ### Смотрите также

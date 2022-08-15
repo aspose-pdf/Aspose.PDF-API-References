@@ -1,14 +1,14 @@
 ---
 title: OnReceiveFocus
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает действие которое должно выполняться когда аннотация получает фокус ввода.
+description: Получает или задает действие которое должно быть выполнено когда аннотация получает фокус ввода.
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onreceivefocus/
 ---
 ## AnnotationActionCollection.OnReceiveFocus property
 
-Получает или задает действие, которое должно выполняться, когда аннотация получает фокус ввода.
+Получает или задает действие, которое должно быть выполнено, когда аннотация получает фокус ввода.
 
 ```csharp
 public PdfAction OnReceiveFocus { get; set; }

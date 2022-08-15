@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.ImageParentTypes
 second_title: Aspose.PDF для справочника API .NET
-description: Перечисляет возможные типы родителей изображения Изображение может принадлежать HTML-странице или родительскому изображению SVG
+description: Перечисляет возможные типы родителей изображения Изображение может относиться к странице HTML или к родительскому изображению SVG
 type: docs
 weight: 3560
 url: /ru/net/aspose.pdf/htmlsaveoptions.imageparenttypes/
 ---
 ## HtmlSaveOptions.ImageParentTypes enumeration
 
-Перечисляет возможные типы родителей изображения Изображение может принадлежать HTML-странице или родительскому изображению SVG
+Перечисляет возможные типы родителей изображения Изображение может относиться к странице HTML или к родительскому изображению SVG
 
 ```csharp
 public enum ImageParentTypes
@@ -19,7 +19,7 @@ public enum ImageParentTypes
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | HtmlPage | `0` | Изображение относится к самой странице HTML |
-| SvgImage | `1` | Изображение было встроено в изображение SVG |
+| SvgImage | `1` | Изображение было встроено в SVG image |
 
 ### Смотрите также
 

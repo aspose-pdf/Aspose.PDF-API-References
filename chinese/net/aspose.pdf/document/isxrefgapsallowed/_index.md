@@ -1,14 +1,14 @@
 ---
 title: IsXrefGapsAllowed
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置符合 pdfa 的 is 文档
+description: 获取或设置 is document pdfa compliant.
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf/document/isxrefgapsallowed/
 ---
 ## Document.IsXrefGapsAllowed property
 
-获取或设置符合 pdfa 的 is 文档。
+获取或设置 is document pdfa compliant.
 
 ```csharp
 public bool IsXrefGapsAllowed { get; set; }

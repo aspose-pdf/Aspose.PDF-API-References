@@ -1,14 +1,14 @@
 ---
 title: TextDecorationType_Overline
 second_title: Aspose.PDF для справочника API .NET
-description: Атрибут TextDecorationTypeOverline - Линия над текстом.
+description: Атрибут TextDecorationType Overline  строка над текстом.
 type: docs
 weight: 610
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 ---
 ## AttributeName.TextDecorationType_Overline field
 
-Атрибут TextDecorationType:Overline - Линия над текстом.
+Атрибут TextDecorationType: Overline — строка над текстом.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Overline;

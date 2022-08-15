@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаRectangleaspose.pdf.drawing/rectangle.
+description: Инициализирует новый экземплярRectangleaspose.pdf.drawing/rectangle класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/rectangle/rectangle/
 ---
 ## Rectangle constructor
 
-Инициализирует новый экземпляр класса[`Rectangle`](../../rectangle).
+Инициализирует новый экземпляр[`Rectangle`](../../rectangle) класс.
 
 ```csharp
 public Rectangle(float left, float bottom, float width, float height)
@@ -16,7 +16,7 @@ public Rectangle(float left, float bottom, float width, float height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Single | Левая позиция прямоугольника. |
+| left | Single | Левое положение прямоугольника. |
 | bottom | Single | Нижнее положение прямоугольника. |
 | width | Single | Ширина прямоугольника. |
 | height | Single | Высота прямоугольника. |

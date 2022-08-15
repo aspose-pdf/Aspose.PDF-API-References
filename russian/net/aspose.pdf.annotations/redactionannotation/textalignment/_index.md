@@ -1,14 +1,14 @@
 ---
 title: TextAlignment
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает. Выравнивание наложенного текста.
+description: Получает или устанавливает. Выравнивание текста наложения.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/redactionannotation/textalignment/
 ---
 ## RedactionAnnotation.TextAlignment property
 
-Получает или устанавливает. Выравнивание наложенного текста.
+Получает или устанавливает. Выравнивание текста наложения.
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }

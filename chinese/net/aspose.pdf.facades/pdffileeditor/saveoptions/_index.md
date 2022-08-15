@@ -1,14 +1,14 @@
 ---
 title: SaveOptions
 second_title: Aspose.PDF for .NET API 参考
-description: 当结果存储为 HttpResponse 时获取或设置保存选项 默认值PdfSaveOptions
+description: 获取或设置结果存储为 HttpResponse 时的保存选项 默认值PdfSaveOptions
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.facades/pdffileeditor/saveoptions/
 ---
 ## PdfFileEditor.SaveOptions property
 
-当结果存储为 HttpResponse 时获取或设置保存选项。 默认值:PdfSaveOptions。
+获取或设置结果存储为 HttpResponse 时的保存选项。 默认值：PdfSaveOptions。
 
 ```csharp
 public SaveOptions SaveOptions { get; set; }

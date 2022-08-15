@@ -1,14 +1,14 @@
 ---
 title: IncrementalUpdates
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则在连接期间进行增量更新
+description: 如果为真则在串联期间进行增量更新
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdffileeditor/incrementalupdates/
 ---
 ## PdfFileEditor.IncrementalUpdates property
 
-如果为真，则在连接期间进行增量更新。
+如果为真，则在串联期间进行增量更新。
 
 ```csharp
 public bool IncrementalUpdates { get; set; }

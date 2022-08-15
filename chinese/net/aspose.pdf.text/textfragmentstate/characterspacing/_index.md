@@ -1,14 +1,14 @@
 ---
 title: CharacterSpacing
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置文本的字符间距由TextFragmentaspose.pdf.text/textfragment对象表示
+description: 获取或设置文本的字符间距由TextFragmentaspose.pdf.text/textfragment对象.
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textfragmentstate/characterspacing/
 ---
 ## TextFragmentState.CharacterSpacing property
 
-获取或设置文本的字符间距，由[`TextFragment`](../../textfragment)对象表示。
+获取或设置文本的字符间距，由[`TextFragment`](../../textfragment)对象.
 
 ```csharp
 public override float CharacterSpacing { get; set; }

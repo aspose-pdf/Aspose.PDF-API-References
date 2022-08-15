@@ -1,14 +1,14 @@
 ---
 title: ConvertFdfToXml
 second_title: Aspose.PDF for .NET API 参考
-description: 将 FDF 文件转换为 XML
+description: 将 FDF 文件转换为 XML.
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/formdataconverter/convertfdftoxml/
 ---
 ## FormDataConverter.ConvertFdfToXml method
 
-将 FDF 文件转换为 XML。
+将 FDF 文件转换为 XML.
 
 ```csharp
 public static void ConvertFdfToXml(Stream sourceFdf, Stream destXml)

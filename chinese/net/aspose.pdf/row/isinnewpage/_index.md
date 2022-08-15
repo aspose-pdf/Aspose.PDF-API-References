@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/row/isinnewpage/
 ---
 ## Row.IsInNewPage property
 
-获取固定行在新页面中 - 具有此属性的页面应打印到下一页 默认 false；
+获取固定行在新页面中 - 具有此属性的页面应打印到下一页 默认 false;
 
 ```csharp
 public bool IsInNewPage { get; set; }

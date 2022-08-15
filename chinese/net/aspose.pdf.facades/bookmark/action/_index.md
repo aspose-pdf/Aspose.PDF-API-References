@@ -1,14 +1,14 @@
 ---
 title: Action
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置与书签绑定的动作 如果出现 PageNumber则无法指定操作 动作类型包括GoToGoToRLaunchNamed
+description: 获取或设置与书签绑定的操作 如果显示 PageNumber则无法指定操作 操作类型包括GoToGoToRLaunchNamed
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/bookmark/action/
 ---
 ## Bookmark.Action property
 
-获取或设置与书签绑定的动作。 如果出现 PageNumber，则无法指定操作。 动作类型包括:“GoTo”、“GoToR”、“Launch”、“Named”。
+获取或设置与书签绑定的操作。 如果显示 PageNumber，则无法指定操作。 操作类型包括：“GoTo”、“GoToR”、“Launch”、“Named”。
 
 ```csharp
 public string Action { get; set; }

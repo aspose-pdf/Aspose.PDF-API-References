@@ -1,14 +1,14 @@
 ---
 title: RemoveUsageRights
 second_title: Aspose.PDF для справочника API .NET
-description: Удаляет запись прав использования.
+description: Удаляет запись о правах использования.
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/pdffilesignature/removeusagerights/
 ---
 ## PdfFileSignature.RemoveUsageRights method
 
-Удаляет запись прав использования.
+Удаляет запись о правах использования.
 
 ```csharp
 public void RemoveUsageRights()

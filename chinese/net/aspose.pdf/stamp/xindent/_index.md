@@ -1,14 +1,14 @@
 ---
 title: XIndent
 second_title: Aspose.PDF for .NET API 参考
-description: 水平印章坐标从左边开始
+description: 水平邮票坐标从左边开始
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/stamp/xindent/
 ---
 ## Stamp.XIndent property
 
-水平印章坐标，从左边开始。
+水平邮票坐标，从左边开始。
 
 ```csharp
 public double XIndent { get; set; }

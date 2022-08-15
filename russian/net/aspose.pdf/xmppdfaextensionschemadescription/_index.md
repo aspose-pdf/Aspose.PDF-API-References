@@ -32,7 +32,7 @@ public class XmpPdfAExtensionSchemaDescription
 
 | Имя | Описание |
 | --- | --- |
-| [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml)(XmlDocument) | Возвращает список элементов xml, представляющих описание схемы в дереве xml. |
+| [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml)(XmlDocument) | Возвращает список элементов xml, которые представляют описание схемы в дереве xml. |
 
 ### Смотрите также
 

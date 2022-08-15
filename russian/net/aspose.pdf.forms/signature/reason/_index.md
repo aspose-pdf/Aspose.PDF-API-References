@@ -1,14 +1,14 @@
 ---
 title: Reason
 second_title: Aspose.PDF для справочника API .NET
-description: Причина подписания например согласен.
+description: Причина подписания типа согласен.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/signature/reason/
 ---
 ## Signature.Reason property
 
-Причина подписания, например (согласен).
+Причина подписания, типа (согласен).
 
 ```csharp
 public string Reason { get; set; }

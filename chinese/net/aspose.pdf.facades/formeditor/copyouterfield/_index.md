@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}
 
-将现有字段从一个 PDF 文档复制到具有原始页码和纵坐标的另一个文档。 注意:仅适用于 AcroForm 字段（不包括单选框）。
+将现有字段从一个 PDF 文档复制到具有原始页码和纵坐标的另一个文档。 注意：仅适用于 AcroForm 字段（不包括单选框）。
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
@@ -17,13 +17,13 @@ public void CopyOuterField(string srcFileName, string fieldName)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | srcFileName | String | 包含要复制的字段的 PDF 文档的名称。 |
-| fieldName | String | 原始的完全限定字段名。 |
+| fieldName | String | 原始的完全限定字段名称。 |
 
 ### 例子
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
-  //将文本字段从source.pdf复制到PdfForm.pdf
+//将文本字段从source.pdf复制到PdfForm.pdf
 formEditor.CopyOuterField("source.pdf", "textField");
 formEditor.Save();
 ```
@@ -38,7 +38,7 @@ formEditor.Save();
 
 ## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-将现有字段从一个 PDF 文档复制到具有指定页码和原始纵坐标的另一个文档。 注意:仅适用于 AcroForm 字段（不包括单选框）。
+将现有字段从一个 PDF 文档复制到具有指定页码和原始纵坐标的另一个文档。 注意：仅适用于 AcroForm 字段（不包括单选框）。
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
@@ -47,7 +47,7 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | srcFileName | String | 包含要复制的字段的 PDF 文档的名称。 |
-| fieldName | String | 原始的完全限定字段名。 |
+| fieldName | String | 原始的完全限定字段名称。 |
 | pageNum | Int32 | 保存新字段的页数。如果为 -1，则新字段将复制到与托管旧字段相同的页面。 |
 
 ### 例子
@@ -68,7 +68,7 @@ formEditor.Save();
 
 ## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-将现有字段从一个 PDF 文档复制到具有指定页码和纵坐标的另一个文档。 注意:仅适用于 AcroForm 字段（不包括单选框）。
+将现有字段从一个 PDF 文档复制到具有指定页码和纵坐标的另一个文档。 注意：仅适用于 AcroForm 字段（不包括单选框）。
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
@@ -78,7 +78,7 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum, fl
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | srcFileName | String | 包含要复制的字段的 PDF 文档的名称。 |
-| fieldName | String | 原始的完全限定字段名。 |
+| fieldName | String | 原始的完全限定字段名称。 |
 | pageNum | Int32 | 保存新字段的页数。如果为 -1，则新字段将复制到与托管旧字段相同的页面。 |
 | abscissa | Single | 新字段的横坐标。如果为-1，横坐标将等于原始横坐标。 |
 | ordinate | Single | 新字段的纵坐标。如果为-1，则纵坐标将等于原始纵坐标。 |

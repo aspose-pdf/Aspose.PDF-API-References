@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.drawing/graph/top/
 ---
 ## Graph.Top property
 
-获取或设置桌面坐标。
+获取或设置桌面坐标
 
 ```csharp
 public double Top { get; set; }

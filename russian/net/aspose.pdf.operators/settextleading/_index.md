@@ -1,14 +1,14 @@
 ---
 title: SetTextLeading
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор TL устанавливает текст впереди.
+description: Класс представляющий оператор TL установить начало текста.
 type: docs
 weight: 5580
 url: /ru/net/aspose.pdf.operators/settextleading/
 ---
 ## SetTextLeading class
 
-Класс, представляющий оператор TL (устанавливает текст впереди).
+Класс, представляющий оператор TL (установить начало текста).
 
 ```csharp
 public class SetTextLeading : TextStateOperator
@@ -31,7 +31,7 @@ public class SetTextLeading : TextStateOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextleading/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/settextleading/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/settextleading/tostring)() | Выводит текстовый код оператора. |
 
 ### Смотрите также

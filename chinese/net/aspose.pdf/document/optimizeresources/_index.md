@@ -1,14 +1,14 @@
 ---
 title: OptimizeResources
 second_title: Aspose.PDF for .NET API 参考
-description: 优化文档中的资源 1. 文档页面没有使用的资源被移除 2.相等的资源加入一个对象 3. 未使用的对象被删除
+description: 优化文档中的资源 1.文档页面上没有使用的资源被移除 2.相等的资源合并为一个对象 3. 未使用的对象被删除
 type: docs
 weight: 660
 url: /zh/net/aspose.pdf/document/optimizeresources/
 ---
 ## OptimizeResources() {#optimizeresources}
 
-优化文档中的资源: 1. 文档页面没有使用的资源被移除； 2.相等的资源加入一个对象； 3. 未使用的对象被删除。
+优化文档中的资源： 1.文档页面上没有使用的资源被移除； 2.相等的资源合并为一个对象； 3. 未使用的对象被删除。
 
 ```csharp
 public void OptimizeResources()

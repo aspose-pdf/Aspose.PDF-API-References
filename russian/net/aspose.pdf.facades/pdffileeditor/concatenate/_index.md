@@ -22,7 +22,7 @@ public bool Concatenate(string firstInputFile, string secInputFile, string outpu
 
 ### Возвращаемое значение
 
-Истинно, если операция выполнена успешно.
+Истинно, если операция прошла успешно.
 
 ### Примеры
 
@@ -57,7 +57,7 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream o
 
 Истинно, если операция прошла успешно.
 
-Истинно, если операция выполнена успешно.
+Истинно, если операция прошла успешно.
 
 ### Примеры
 
@@ -88,11 +88,11 @@ public bool Concatenate(Document[] src, Document dest)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | src | Document[] | Массив исходных документов. |
-| dest | Document | Целевой документ. |
+| dest | Document | Документ назначения. |
 
 ### Возвращаемое значение
 
-Истинно, если объединение прошло успешно.
+Истинно, если конкатенация прошла успешно.
 
 ### Смотрите также
 
@@ -172,7 +172,7 @@ fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ## Concatenate(string, string, string, string) {#concatenate_6}
 
-Объединяет два документа Pdf в новый документ Pdf со страницами попеременно и заполняет пустые места пустыми страницами. например:document1 имеет 5 страниц:p1, p2, p3, p4, p5. document2 имеет 3 страницы:p1', p2', p3'. Слияние двух документов Pdf создаст результирующий документ со страницами:p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница.
+Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: документ1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf даст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница .
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -184,7 +184,7 @@ public bool Concatenate(string firstInputFile, string secInputFile, string blank
 | firstInputFile | String | Первый файл. |
 | secInputFile | String | Второй файл. |
 | blankPageFile | String | PDF-файл с пустой страницей. |
-| outputFile | String | Файл результатов. |
+| outputFile | String | Файл результата. |
 
 ### Возвращаемое значение
 
@@ -207,7 +207,7 @@ pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 
 ## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-Объединяет два документа Pdf в новый документ Pdf со страницами попеременно и заполняет пустые места пустыми страницами. например:document1 имеет 5 страниц:p1, p2, p3, p4, p5. document2 имеет 3 страницы:p1', p2', p3'. Слияние двух документов Pdf создаст результирующий документ со страницами:p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница.
+Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: документ1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf даст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница .
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -216,10 +216,10 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| firstInputStream | Stream | Первый поток Pdf. |
-| secInputStream | Stream | Второй поток Pdf. |
-| blankPageStream | Stream | Поток Pdf с пустой страницей |
-| outputStream | Stream | Выходной поток Pdf. |
+| firstInputStream | Stream | Первый Pdf-поток. |
+| secInputStream | Stream | Второй поток PDF. |
+| blankPageStream | Stream | Поток Pdf с пустой страницей. |
+| outputStream | Stream | Выходной поток PDF. |
 
 ### Возвращаемое значение
 
@@ -259,7 +259,7 @@ public bool Concatenate(string[] inputFiles, HttpResponse response)
 
 ### Возвращаемое значение
 
-true, если объединение прошло успешно.
+true, если конкатенация прошла успешно.
 
 ### Смотрите также
 
@@ -271,7 +271,7 @@ true, если объединение прошло успешно.
 
 ## Concatenate(Stream[], HttpResponse) {#concatenate_4}
 
-Объединяет файлы и сохраняет результат в объект HttpResponse.
+Объединяет файлы и сохраняет результат в объекте HttpResponse.
 
 ```csharp
 public bool Concatenate(Stream[] inputStream, HttpResponse response)
@@ -279,12 +279,12 @@ public bool Concatenate(Stream[] inputStream, HttpResponse response)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream[] | Массив потоков, содержащий файлы для конкатенации. |
+| inputStream | Stream[] | Массив потоков, содержащий файлы для объединения. |
 | response | HttpResponse | Объект ответа/ |
 
 ### Возвращаемое значение
 
-true, если операция выполнена успешно.
+true, если операция прошла успешно.
 
 ### Смотрите также
 

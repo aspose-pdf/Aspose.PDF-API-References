@@ -19,8 +19,8 @@ public enum PrintDuplex
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Simplex | `0` | 单面打印。 |
-| DuplexFlipShortEdge | `1` | 双面并翻转纸张的短边。 |
-| DuplexFlipLongEdge | `2` | 双面并翻转纸张的长边。 |
+| DuplexFlipShortEdge | `1` | 在纸张的短边上双面并翻转。 |
+| DuplexFlipLongEdge | `2` | 在纸张的长边上双面翻转。 |
 
 ### 也可以看看
 

@@ -20,29 +20,26 @@ public virtual void Visit(Page page)
 
 ### 例子
 
-该示例演示如何在第一个 PDF 文档页面上提取表格。
+该示例演示如何在 PDF 文档的第一个页面提取表格。
 
 ```csharp
 // 打开文档
-cument doc = new Document(@"D:\Tests\input.pdf");
+Document doc = new Document(@"D:\Tests\input.pdf");
 
-// 创建 TableAbsorber 对象以查找 tables
-bleAbsorber absorber = new TableAbsorber();
+// 创建 TableAbsorber 对象来查找表
+TableAbsorber absorber = new TableAbsorber();
 
-// 使用吸收器
+// 使用吸收器访问第一页
+absorber.Visit(pdfDocument.Pages[1]);
 
-sorber.Visit(pdfDocument.Pages[1]);
+// 访问页面上的第一个表格，它们的第一个单元格和其中的文本片段
+TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
- 访问页面上的第一个表格，它们的第一个单元格和 it
-
-xtFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
-
- 更改 cell
-
-agment.Text = "hi world";
+// 改变单元格中第一个文本片段的文本
+fragment.Text = "hi world";
 
 // 保存文档
-c.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### 也可以看看

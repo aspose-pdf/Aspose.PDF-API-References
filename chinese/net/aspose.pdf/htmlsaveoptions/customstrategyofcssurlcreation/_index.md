@@ -1,14 +1,14 @@
 ---
 title: CustomStrategyOfCssUrlCreation
 second_title: Aspose.PDF for .NET API 参考
-description: 此字段可以包含返回 主题的自定义方法URL或 URL 模板如果多页生成开启 - 请参阅下面的详细信息 CSS因为它应该放在生成的结果 HTML 中 Fe 如果您想要转换器将一些特定的 URL 而不是标准 CSS 文件名放入生成的 CSS那么您应该创建并放入此属性方法 生成所需的 URL 如果设置了标志SplitCssIntoPages则此自定义策略如果有 必须返回的不是 CSS 的确切 URL而是 的模板字符串之后使用 string.Format function inside converter 用页码替换占位符可以解析为这个或那个页面的 CSS URL 的 URL 在这种情况下预期返回字符串的示例是 SomeTargetLocation-page_0.css../PartHandlers/GetCss.aspxDocumentId45654ampCssPage 0
+description: 此字段可以包含自定义方法返回 URL或 URL 模板如果多页生成已开启 - 请参阅下面的详细信息的主题 CSS因为它应该放在生成的结果 HTML 中 Fe 如果您想要转换器放置一些特定的 URL 而不是标准 CSS 文件名到生成的 CSS 中然后您应该创建并放入生成所需 URL 的这个属性 method  string that 在使用转换器内的 string.Format 函数替换占位符后可以解析为这个或那个页面的 CSS URL 的 URL 在这种情况下预期返回字符串的示例是 SomeTargetLocation-page_0.css../PartHandlers/GetCss.aspxDocumentId45654ampCssPage0
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation/
 ---
 ## HtmlSaveOptions.CustomStrategyOfCssUrlCreation field
 
-此字段可以包含返回 主题的自定义方法URL（或 URL 模板，如果多页生成开启 - 请参阅下面的详细信息） CSS，因为它应该放在生成的结果 HTML 中。 Fe 如果您想要转换器将一些特定的 URL 而不是标准 CSS 文件名放入生成的 CSS，那么您应该创建并放入此属性方法 生成所需的 URL。 如果设置了标志“SplitCssIntoPages”，则此自定义策略（如果有） 必须返回的不是 CSS 的确切 URL，而是 的模板字符串（之后使用 string.Format() function inside converter) 用页码替换占位符可以解析为这个或那个页面的 CSS URL 的 URL。 在这种情况下，预期返回字符串的示例是: 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage ={0}')
+此字段可以包含自定义方法，返回 URL（或 URL 模板，如果多页生成已开启 - 请参阅下面的详细信息）的主题 CSS，因为它应该放在生成的结果 HTML 中。 Fe 如果您想要转换器放置一些特定的 URL 而不是标准 CSS 文件名到生成的 CSS 中，然后您应该创建并放入生成所需 URL 的这个属性 method 。 string that （在使用转换器内的 string.Format() 函数替换占位符后）可以解析为这个或那个页面的 CSS URL 的 URL。 在这种情况下预期返回字符串的示例是： 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}')
 
 ```csharp
 public CssUrlMakingStrategy CustomStrategyOfCssUrlCreation;

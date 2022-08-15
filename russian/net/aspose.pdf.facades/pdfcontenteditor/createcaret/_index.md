@@ -1,14 +1,14 @@
 ---
 title: CreateCaret
 second_title: Aspose.PDF для справочника API .NET
-description: Создает аннотацию вставки.
+description: Создает аннотацию курсора.
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createcaret/
 ---
 ## PdfContentEditor.CreateCaret method
 
-Создает аннотацию вставки.
+Создает аннотацию курсора.
 
 ```csharp
 public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, string symbol, 
@@ -19,9 +19,9 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 | --- | --- | --- |
 | page | Int32 | Номер исходной страницы, на которой будет создана аннотация. |
 | annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
-| caretRect | Rectangle | Фактические границы базовой каретки. |
-| symbol | String | Символ будет связан с кареткой. Значение может быть:"P" (абзац), "Нет". |
-| annotContents | String | Содержимое аннотации. |
+| caretRect | Rectangle | Фактические границы основного курсора. |
+| symbol | String | Символ будет связан с кареткой. Значение может быть: "P" (абзац), "Нет". |
+| annotContents | String | Содержание аннотации. |
 | color | Color | Цвет аннотации. |
 
 ### Примеры

@@ -1,14 +1,14 @@
 ---
 title: FolderFontSource
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化FolderFontSourceaspose.pdf.text/folderfontsource类的新实例
+description: 初始化一个新的实例FolderFontSourceaspose.pdf.text/folderfontsource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/folderfontsource/folderfontsource/
 ---
 ## FolderFontSource constructor
 
-初始化[`FolderFontSource`](../../folderfontsource)类的新实例。
+初始化一个新的实例[`FolderFontSource`](../../folderfontsource)类.
 
 ```csharp
 public FolderFontSource(string folderPath)
@@ -16,7 +16,7 @@ public FolderFontSource(string folderPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| folderPath | String | 文件夹路径。 |
+| folderPath | String | 文件夹的路径。 |
 
 ### 也可以看看
 

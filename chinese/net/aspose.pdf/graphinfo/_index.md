@@ -24,17 +24,17 @@ public sealed class GraphInfo : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.pdf/graphinfo/color) { get; set; } | 获取或设置指示图形颜色的[`Color`](./color)对象。 |
-| [DashArray](../../aspose.pdf/graphinfo/dasharray) { get; set; } | 获取或设置一个破折号数组。 |
+| [Color](../../aspose.pdf/graphinfo/color) { get; set; } | 获取或设置一个[`Color`](./color)表示图形颜色的对象。 |
+| [DashArray](../../aspose.pdf/graphinfo/dasharray) { get; set; } | 获取或设置一个虚线数组。 |
 | [DashPhase](../../aspose.pdf/graphinfo/dashphase) { get; set; } | 获取或设置破折号阶段。 |
-| [FillColor](../../aspose.pdf/graphinfo/fillcolor) { get; set; } | 获取或设置指示图形填充颜色的[`Color`](./color)对象。 |
+| [FillColor](../../aspose.pdf/graphinfo/fillcolor) { get; set; } | 获取或设置一个[`Color`](./color)指示图形填充颜色的对象。 |
 | [IsDoubled](../../aspose.pdf/graphinfo/isdoubled) { get; set; } | 获取或设置边框加倍。 |
-| [LineWidth](../../aspose.pdf/graphinfo/linewidth) { get; set; } | 获取或设置表示图形线宽的浮点值。 |
-| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle) { get; set; } | 获取或设置一个表示坐标系旋转角度的浮点值 变换坐标系时。 |
-| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex) { get; set; } | 获取或设置一个浮点值，表示转换坐标系时x坐标的缩放率。 |
-| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey) { get; set; } | 获取或设置一个浮点值，表示转换坐标系时y坐标的缩放比例。 |
-| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex) { get; set; } | 获取或设置一个浮点值，表示转换坐标系时 x 坐标的倾斜角度。 |
-| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley) { get; set; } | 获取或设置一个浮点值，表示转换坐标系时 y 坐标的倾斜角度。 |
+| [LineWidth](../../aspose.pdf/graphinfo/linewidth) { get; set; } | 获取或设置一个浮点值，表示图形的线宽。 |
+| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle) { get; set; } | 获取或设置一个浮点值，表示坐标系 变换坐标系时的旋转角度。 |
+| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex) { get; set; } | 获取或设置一个浮点值，表示坐标系变换时x坐标的缩放比例。 |
+| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey) { get; set; } | 获取或设置一个浮点值，表示坐标系变换时y坐标的缩放比例。 |
+| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex) { get; set; } | 获取或设置一个浮点值，表示变换坐标系时x坐标的倾斜角度。 |
+| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley) { get; set; } | 获取或设置一个浮点值，表示坐标系变换时y坐标的倾斜角度。 |
 
 ## 方法
 

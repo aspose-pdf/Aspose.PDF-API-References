@@ -1,14 +1,14 @@
 ---
 title: IncorrectFontUsageException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化IncorrectFontUsageExceptionaspose.pdf/incorrectfontusageexception类的新实例
+description: 初始化IncorrectFontUsageExceptionaspose.pdf/incorrectfontusageexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/incorrectfontusageexception/incorrectfontusageexception/
 ---
 ## IncorrectFontUsageException(string) {#constructor_1}
 
-初始化[`IncorrectFontUsageException`](../../incorrectfontusageexception)类的新实例。
+初始化[`IncorrectFontUsageException`](../../incorrectfontusageexception)类.
 
 ```csharp
 public IncorrectFontUsageException(string message)
@@ -28,7 +28,7 @@ public IncorrectFontUsageException(string message)
 
 ## IncorrectFontUsageException(string, Exception) {#constructor_2}
 
-使用指定的错误消息初始化[`IncorrectFontUsageException`](../../incorrectfontusageexception) 类的新实例以及对导致此异常的内部异常的引用。
+初始化[`IncorrectFontUsageException`](../../incorrectfontusageexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public IncorrectFontUsageException(string message, Exception innerException)
@@ -49,7 +49,7 @@ public IncorrectFontUsageException(string message, Exception innerException)
 
 ## IncorrectFontUsageException(Exception) {#constructor}
 
-使用指定的错误消息初始化[`IncorrectFontUsageException`](../../incorrectfontusageexception) 类的新实例以及对导致此异常的内部异常的引用。
+初始化[`IncorrectFontUsageException`](../../incorrectfontusageexception)具有指定错误消息的类和对导致此异常的内部异常的引用。
 
 ```csharp
 public IncorrectFontUsageException(Exception innerException)
@@ -57,7 +57,7 @@ public IncorrectFontUsageException(Exception innerException)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| innerException | Exception | 导致当前异常的异常，如果没有内部异常，则为空引用（在 Visual Basic 中为空）被指定。 |
+| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

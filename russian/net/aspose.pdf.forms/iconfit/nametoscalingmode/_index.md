@@ -16,7 +16,7 @@ public static ScalingMode NameToScalingMode(string mode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mode | String | Имя режима масштабирования. |
+| mode | String | Название режима масштабирования. |
 
 ### Возвращаемое значение
 

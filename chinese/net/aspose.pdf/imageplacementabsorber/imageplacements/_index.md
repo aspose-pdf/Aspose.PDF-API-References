@@ -1,14 +1,14 @@
 ---
 title: ImagePlacements
 second_title: Aspose.PDF for .NET API 参考
-description: 获取与ImagePlacementaspose.pdf/imageplacement对象一起呈现的图像放置事件的集合
+description: 获取呈现的图像放置事件的集合ImagePlacementaspose.pdf/imageplacement对象.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/imageplacementabsorber/imageplacements/
 ---
 ## ImagePlacementAbsorber.ImagePlacements property
 
-获取与[`ImagePlacement`](../../imageplacement)对象一起呈现的图像放置事件的集合。
+获取呈现的图像放置事件的集合[`ImagePlacement`](../../imageplacement)对象.
 
 ```csharp
 public ImagePlacementCollection ImagePlacements { get; }

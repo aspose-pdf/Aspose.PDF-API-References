@@ -1,14 +1,14 @@
 ---
 title: XfaParserOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаXfaParserOptionsaspose.pdf.xfaconverter/xfaparseroptions.
+description: Инициализирует новый экземплярXfaParserOptionsaspose.pdf.xfaconverter/xfaparseroptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
 ## XfaParserOptions constructor
 
-Инициализирует новый экземпляр класса[`XfaParserOptions`](../../xfaparseroptions).
+Инициализирует новый экземпляр[`XfaParserOptions`](../../xfaparseroptions) класс.
 
 ```csharp
 public XfaParserOptions(SizeF pageSize)

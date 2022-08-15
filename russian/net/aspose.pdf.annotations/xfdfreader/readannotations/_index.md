@@ -1,14 +1,14 @@
 ---
 title: ReadAnnotations
 second_title: Aspose.PDF для справочника API .NET
-description: Импортируйте аннотации из файла XFDF и поместите их в документ.
+description: Импортировать аннотации из файла XFDF и помещать их в документ.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/xfdfreader/readannotations/
 ---
 ## XfdfReader.ReadAnnotations method
 
-Импортируйте аннотации из файла XFDF и поместите их в документ.
+Импортировать аннотации из файла XFDF и помещать их в документ.
 
 ```csharp
 public static void ReadAnnotations(Stream stream, Document document)

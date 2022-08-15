@@ -32,16 +32,16 @@ public sealed class SubmitFormAction : PdfAction
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat) | 如果设置，则表示日期的任何提交的字段值都应转换为标准格式。 |
-| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform) | 如果设置，则提交的 FDF 的 F 条目应是包含 嵌入文件流的文件规范，表示 FDF 来自的 PDF 文件正在提交。 |
+| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat) | 如果设置，任何提交的表示日期的字段值都应转换为标准格式。 |
+| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform) | 如果设置，则提交的 FDF 的 F 条目应为包含 嵌入文件流的文件规范，该文件流表示提交 FDF 的 PDF 文件。 |
 | const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey) | 如果设置，提交的 FDF 应排除 F 条目。 |
-| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots) | 如果设置，它应仅包括其 T 条目与当前用户名称匹配的那些标记注释。 |
+| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots) | 如果设置，它应该只包括那些 T 条目与当前用户的名称匹配的标记注释。 |
 | const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude) | 如果清除，Fields 数组指定提交中包含哪些字段。 |
 | const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat) | 如果设置，字段名称和值应以 HTML 表单格式提交。 |
 | const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod) | 如果设置，字段名称和值应使用 HTTP GET 请求提交。 |
 | const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations) | 如果设置，提交的 FDF 文件应包括基础 PDF 文档中的所有标记注释。 |
-| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves) | 如果设置，提交的 FDF 文件应包括所有增量更新的内容。 |
-| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields) | 如果设置，则应提交由 Fields 数组和包含/排除标志指定的所有字段。 |
+| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves) | 如果设置，提交的 FDF 文件应包含所有增量更新的内容。 |
+| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields) | 如果设置，则应提交由字段数组和包含/排除标志指定的所有字段。 |
 | const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates) | 如果设置，导致提交表单动作的鼠标点击坐标应作为表单数据的一部分传输。 |
 | const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf) | 如果设置，文档应以 PDF 格式提交，使用 MIME 内容类型 application/pdf。 |
 | const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf) | 如果设置，字段名称和值应作为 XFDF 提交。 |

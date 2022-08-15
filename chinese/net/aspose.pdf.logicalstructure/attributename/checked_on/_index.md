@@ -1,14 +1,14 @@
 ---
 title: Checked_on
 second_title: Aspose.PDF for .NET API 参考
-description: 属性选中On - 单选按钮或复选框字段的状态
+description: 属性选中打开 - 单选按钮或复选框字段的状态
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.logicalstructure/attributename/checked_on/
 ---
 ## AttributeName.Checked_on field
 
-属性选中:On - 单选按钮或复选框字段的状态。
+属性选中：打开 - 单选按钮或复选框字段的状态。
 
 ```csharp
 public static readonly AttributeName Checked_on;

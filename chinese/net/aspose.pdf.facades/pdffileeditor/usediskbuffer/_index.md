@@ -1,14 +1,14 @@
 ---
 title: UseDiskBuffer
 second_title: Aspose.PDF for .NET API 参考
-description: 如果使用此选项则目标文档将定期保存在磁盘上并且进一步的连接将作为增量更新应用于它
+description: 如果使用此选项则目标文档将定期保存在磁盘上并且进一步的串联将作为增量更新应用于它
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.facades/pdffileeditor/usediskbuffer/
 ---
 ## PdfFileEditor.UseDiskBuffer property
 
-如果使用此选项，则目标文档将定期保存在磁盘上，并且进一步的连接将作为增量更新应用于它。
+如果使用此选项，则目标文档将定期保存在磁盘上，并且进一步的串联将作为增量更新应用于它。
 
 ```csharp
 public bool UseDiskBuffer { get; set; }

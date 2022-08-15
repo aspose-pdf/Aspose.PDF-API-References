@@ -36,7 +36,7 @@ public void SetImagePreview(Stream image)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Stream | Поток изображения. |
+| image | Stream | Поток изображений. |
 
 ### Смотрите также
 

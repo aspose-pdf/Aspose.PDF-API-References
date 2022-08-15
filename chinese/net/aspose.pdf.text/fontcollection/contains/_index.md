@@ -44,7 +44,7 @@ public bool Contains(Font item)
 
 ### 返回值
 
-如果在集合中找到项目；否则为假。
+如果在集合中找到项目，则为 true；否则为假。
 
 ### 也可以看看
 

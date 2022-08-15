@@ -1,14 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF для справочника API .NET
-description: Получает если коллекция доступна только для чтения. Всегда возвращает ложь.
+description: Получает доступна ли коллекция только для чтения. Всегда возвращает false.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/artifactcollection/isreadonly/
 ---
 ## ArtifactCollection.IsReadOnly property
 
-Получает, если коллекция доступна только для чтения. Всегда возвращает ложь.
+Получает, доступна ли коллекция только для чтения. Всегда возвращает false.
 
 ```csharp
 public bool IsReadOnly { get; }

@@ -17,7 +17,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток изображения. |
-| imageRect | Rectangle | Позиция изображения. |
+| imageRect | Rectangle | Положение изображения. |
 
 ### Смотрите также
 
@@ -38,9 +38,9 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hocr | String | Hocr изображения. |
+| hocr | String | Хокр изображения. |
 | imageStream | Stream | Поток изображения. |
-| imageRect | Rectangle | Позиция изображения. |
+| imageRect | Rectangle | Положение изображения. |
 
 ### Смотрите также
 
@@ -66,7 +66,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 | imageRect | Rectangle | Положение изображения на странице по умолчанию. |
 | imageWidth | Int32 | Ширина изображения. |
 | imageHeight | Int32 | Высота изображения. |
-| saveImageProportions | Boolean | Если флаг установлен в true, то изображение помещается в прямоугольную позицию; в противном случае размер прямоугольника становится равным размеру изображения. |
+| saveImageProportions | Boolean | Если для флага установлено значение true, то изображение помещается в прямоугольную позицию; в противном случае размер прямоугольника становится равным размеру изображения. |
 
 ### Смотрите также
 
@@ -88,7 +88,7 @@ public void AddImage(string imagePath, Rectangle rectangle)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imagePath | String | Путь к изображению. |
-| прямоугольник | Rectangle | Положение изображения. |
+| rectangle | Rectangle | Положение изображения. |
 
 ### Смотрите также
 

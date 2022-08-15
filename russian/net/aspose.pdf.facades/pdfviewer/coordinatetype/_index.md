@@ -1,14 +1,14 @@
 ---
 title: CoordinateType
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает тип координат страницы поля Media/Crop. Значение CropBox используется по умолчанию.
+description: Получает или задает тип координат страницы поля мультимедиа/обрезки. Значение CropBox используется по умолчанию.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdfviewer/coordinatetype/
 ---
 ## PdfViewer.CoordinateType property
 
-Получает или задает тип координат страницы (поля Media/Crop). Значение CropBox используется по умолчанию.
+Получает или задает тип координат страницы (поля мультимедиа/обрезки). Значение CropBox используется по умолчанию.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }

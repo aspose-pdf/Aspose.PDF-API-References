@@ -1,14 +1,14 @@
 ---
 title: PageSize
 second_title: Aspose.PDF for .NET API 参考
-description: PageSize 的构造函数
+description: PageSize. 的构造函数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pagesize/pagesize/
 ---
 ## PageSize constructor
 
-PageSize 的构造函数。
+PageSize. 的构造函数
 
 ```csharp
 public PageSize(float x, float y)
@@ -16,7 +16,7 @@ public PageSize(float x, float y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 页面宽度。 |
+| x | Single | 页面的宽度。 |
 | y | Single | 页面高度。 |
 
 ### 也可以看看

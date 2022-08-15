@@ -1,14 +1,14 @@
 ---
 title: TocInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化TocInfoaspose.pdf/tocinfo类的新实例
+description: 初始化TocInfoaspose.pdf/tocinfo类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/tocinfo/tocinfo/
 ---
 ## TocInfo constructor
 
-初始化[`TocInfo`](../../tocinfo)类的新实例。
+初始化[`TocInfo`](../../tocinfo)类.
 
 ```csharp
 public TocInfo()

@@ -20,9 +20,8 @@ public void PrintDocument()
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;           //打印调整大小的文件
-iewer.AutoRotate = true;           //打印调整rotation
-
+iewer.AutoResize = true;         //打印调整大小的文件
+iewer.AutoRotate = true;         //打印调整旋转的文件
 iewer.PrintPageDialog=false;//打印时不产生页码对话框
 iewer.PrintDocument(ps);
 iewer.ClosePdfFile();
@@ -31,8 +30,8 @@ VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
 iewer.AutoResize = true;         '打印调整大小的文件
-iewer.AutoRotate = true;         '打印调整rotation
-iewer.PrintPageDialog=false;     '打印时不产生页码对话框
+iewer.AutoRotate = true;         '使用调整后的旋转打印文件
+iewer.PrintPageDialog=false;//打印时不产生页码对话框
 iewer.PrintDocument(ps);
 iewer.ClosePdfFile()
 ```

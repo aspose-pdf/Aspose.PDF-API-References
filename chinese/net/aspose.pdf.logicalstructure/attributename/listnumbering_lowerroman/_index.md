@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/listnumbering_lowerroman/
 ---
 ## AttributeName.ListNumbering_LowerRoman field
 
-属性列表编号:LowerRoman - 小写罗马数字（i、ii、iii、iv、...）。
+属性列表编号：LowerRoman - 小写罗马数字（i、ii、iii、iv、...）。
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerRoman;

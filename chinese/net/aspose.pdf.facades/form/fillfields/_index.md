@@ -1,14 +1,14 @@
 ---
 title: FillFields
 second_title: Aspose.PDF for .NET API 参考
-description: 用文本值填充文本框字段并保存文档 与签名文件相关 注意只适用于文本框 字段的名称和值都区分大小写
+description: 用文本值填充文本框字段并保存文档 与签名文档相关 注意仅适用于文本框 字段的名称和值都区分大小写
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.facades/form/fillfields/
 ---
 ## Form.FillFields method
 
-用文本值填充文本框字段并保存文档。 与签名文件相关。 注意:只适用于文本框。 字段的名称和值都区分大小写。
+用文本值填充文本框字段并保存文档。 与签名文档相关。 注意：仅适用于文本框。 字段的名称和值都区分大小写。
 
 ```csharp
 public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)

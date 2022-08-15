@@ -17,7 +17,7 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | page | Page | Страница назначения. |
-| zoom | Double | Масштаб. |
+| zoom | Double | Коэффициент масштабирования. |
 
 ### Возвращаемое значение
 

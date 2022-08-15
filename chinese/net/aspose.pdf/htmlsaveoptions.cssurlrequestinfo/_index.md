@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.CssUrlRequestInfo
 second_title: Aspose.PDF for .NET API 参考
-description: 表示与从转换器到 的请求相关的数据集 旨在获得所需 URL或 URL模板主题 CSS
+description: 表示与从转换器到 自定义代码的请求相关的数据集 旨在获得主题 CSS 的所需 URL或 URL 模板
 type: docs
 weight: 3480
 url: /zh/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo class
 
-表示与从转换器到 的请求相关的数据集 旨在获得所需 URL（或 URL模板）主题 CSS
+表示与从转换器到 自定义代码的请求相关的数据集 旨在获得主题 CSS 的所需 URL（或 URL 模板）
 
 ```csharp
 public class CssUrlRequestInfo
@@ -24,7 +24,7 @@ public class CssUrlRequestInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CustomProcessingCancelled](../../aspose.pdf/cssurlrequestinfo/customprocessingcancelled) | 应该由自定义代码设置，如果它不能或不应该定义 URL， 将在生成的 HTML 中用于引用该 CSS。 如果为“真”，则 CSS 文件将以标准方式保存在标准位置。 |
+| [CustomProcessingCancelled](../../aspose.pdf/cssurlrequestinfo/customprocessingcancelled) | 应该由自定义代码设置，如果它不能或不应该定义 将在生成的 HTML 中用于引用该 CSS 的 URL。 如果它是“真”，那么 CSS 文件将以标准方式保存在标准位置。 |
 
 ### 也可以看看
 

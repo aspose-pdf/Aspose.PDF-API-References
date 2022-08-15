@@ -1,14 +1,14 @@
 ---
 title: PrintDocument
 second_title: Aspose.PDF для справочника API .NET
-description: Печатает документ Pdf используя принтер по умолчанию.
+description: Печать документа Pdf на принтере по умолчанию.
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/pdfviewer/printdocument/
 ---
 ## PdfViewer.PrintDocument method
 
-Печатает документ Pdf, используя принтер по умолчанию.
+Печать документа Pdf на принтере по умолчанию.
 
 ```csharp
 public void PrintDocument()
@@ -20,18 +20,18 @@ public void PrintDocument()
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;          //печатать файл с измененным размером
-iewer.AutoRotate = true;          //печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false; // не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;         //печатать файл с измененным размером
+iewer.AutoRotate = true;         //печатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintDocument(ps);
 iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
 iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;         'печатать файл с измененным размером
-iewer.AutoRotate = true;         'печатаем файл с настроенным rotate
-iewer.PrintPageDialog=false;     'не создавать диалоговое окно номера страницы при печати
+iewer.AutoResize = true;         'распечатать файл с измененным размером
+iewer.AutoRotate = true;         'распечатать файл с отрегулированным поворотом
+iewer.PrintPageDialog=false;// не выводить диалог номера страницы при печати
 iewer.PrintDocument(ps);
 iewer.ClosePdfFile()
 ```

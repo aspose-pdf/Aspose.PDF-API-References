@@ -1,14 +1,14 @@
 ---
 title: Recover
 second_title: Aspose.PDF для справочника API .NET
-description: Восстанавливает документ. Используйте свойства для настройки.
+description: Восстанавливает документ. Использование свойств для настройки.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/recover/
 ---
 ## PdfFileSanitization.Recover method
 
-Восстанавливает документ. Используйте свойства для настройки.
+Восстанавливает документ. Использование свойств для настройки.
 
 ```csharp
 public void Recover()

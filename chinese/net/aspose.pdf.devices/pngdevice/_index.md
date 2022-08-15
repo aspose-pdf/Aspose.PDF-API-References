@@ -18,12 +18,12 @@ public sealed class PngDevice : ImageDevice
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PngDevice](pngdevice#constructor)() | 使用默认分辨率初始化[`PngDevice`](../pngdevice)类的新实例。 |
-| [PngDevice](pngdevice#constructor_2)(PageSize) | 使用提供的页面大小 初始化[`PngDevice`](../pngdevice)类的新实例默认分辨率（=150）。 |
-| [PngDevice](pngdevice#constructor_1)(Resolution) | 初始化[`PngDevice`](../pngdevice)类的新实例。  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
-| [PngDevice](pngdevice#constructor_4)(int, int) | 使用提供的图像尺寸 初始化[`PngDevice`](../pngdevice)类的新实例默认分辨率（=150）。 |
-| [PngDevice](pngdevice#constructor_3)(PageSize, Resolution) | 使用提供的页面大小和 初始化[`PngDevice`](../pngdevice)类的新实例解析度。 |
-| [PngDevice](pngdevice#constructor_5)(int, int, Resolution) | 使用提供的图像尺寸和 初始化[`PngDevice`](../pngdevice)类的新实例解析度。 |
+| [PngDevice](pngdevice#constructor)() | 初始化[`PngDevice`](../pngdevice)具有默认分辨率的类。 |
+| [PngDevice](pngdevice#constructor_2)(PageSize) | 初始化[`PngDevice`](../pngdevice)具有提供页面大小的类， 默认分辨率 (=150). |
+| [PngDevice](pngdevice#constructor_1)(Resolution) | 初始化[`PngDevice`](../pngdevice)类.  结果图像文件的分辨率，请参见[`Resolution`](../resolution)类. |
+| [PngDevice](pngdevice#constructor_4)(int, int) | 初始化[`PngDevice`](../pngdevice)具有提供图像尺寸的类， 默认分辨率 (=150). |
+| [PngDevice](pngdevice#constructor_3)(PageSize, Resolution) | 初始化[`PngDevice`](../pngdevice)提供页面大小和 分辨率的类。 |
+| [PngDevice](pngdevice#constructor_5)(int, int, Resolution) | 初始化[`PngDevice`](../pngdevice)具有提供图像尺寸和 分辨率的类。 |
 
 ## 特性
 

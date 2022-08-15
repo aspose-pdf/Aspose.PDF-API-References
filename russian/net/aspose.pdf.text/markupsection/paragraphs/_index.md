@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF для справочника API .NET
-description: Коллекция объектовMarkupParagraphaspose.pdf.text/markupparagraph находящихся внутри раздела.
+description: КоллекцияMarkupParagraphaspose.pdf.text/markupparagraph объекты находящиеся внутри раздела.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/markupsection/paragraphs/
 ---
 ## MarkupSection.Paragraphs property
 
-Коллекция объектов[`MarkupParagraph`](../../markupparagraph), находящихся внутри раздела.
+Коллекция[`MarkupParagraph`](../../markupparagraph) объекты, находящиеся внутри раздела.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }

@@ -18,7 +18,7 @@ public class ET : BlockTextOperator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ET](et)() | 初始化运算符。 |
+| [ET](et)() | 初始化操作符。 |
 
 ## 特性
 
@@ -31,7 +31,7 @@ public class ET : BlockTextOperator
 | 姓名 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/et/accept)(IOperatorSelector) | 接受访问者对象来处理操作员。 |
-| override [ToString](../../aspose.pdf.operators/et/tostring)() | 生成运算符的文本代码。 |
+| override [ToString](../../aspose.pdf.operators/et/tostring)() | 产生运算符的文本代码。 |
 
 ### 也可以看看
 

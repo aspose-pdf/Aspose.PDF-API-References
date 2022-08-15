@@ -16,11 +16,11 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Исходный XML-документ. |
+| xmlDocument | XmlDocument | Исходный xml-документ. |
 
 ### Возвращаемое значение
 
-Список элементов xml.
+Список xml-элементов.
 
 ### Смотрите также
 

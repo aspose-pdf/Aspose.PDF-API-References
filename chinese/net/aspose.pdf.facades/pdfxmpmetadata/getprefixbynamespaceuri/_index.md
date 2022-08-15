@@ -26,7 +26,7 @@ public string GetPrefixByNamespaceURI(string namespaceURI)
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
-Console.WriteLine(xmp.GetPrefixByNamespaceURI("http:  //ns.adobe.com/xap/1.0/"));
+Console.WriteLine(xmp.GetPrefixByNamespaceURI("http://ns.adobe.com/xap/1.0/"));
 ```
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: H
 second_title: Aspose.PDF для справочника API .NET
-description: H член матрицы преобразования.
+description: H элемент матрицы преобразования.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/matrix3d/h/
 ---
 ## Matrix3D.H property
 
-H член матрицы преобразования.
+H элемент матрицы преобразования.
 
 ```csharp
 public double H { get; set; }

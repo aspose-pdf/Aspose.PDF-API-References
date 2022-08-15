@@ -1,14 +1,14 @@
 ---
 title: InvalidValueFormatException
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化InvalidValueFormatExceptionaspose.pdf/invalidvalueformatexception类的新实例
+description: 初始化InvalidValueFormatExceptionaspose.pdf/invalidvalueformatexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException() {#constructor}
 
-初始化[`InvalidValueFormatException`](../../invalidvalueformatexception)类的新实例。
+初始化[`InvalidValueFormatException`](../../invalidvalueformatexception)类.
 
 ```csharp
 public InvalidValueFormatException()

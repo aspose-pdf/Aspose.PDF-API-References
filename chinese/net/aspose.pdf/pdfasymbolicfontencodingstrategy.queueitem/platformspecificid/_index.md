@@ -1,14 +1,14 @@
 ---
 title: PlatformSpecificId
 second_title: Aspose.PDF for .NET API 参考
-description: 用于编码子表的平台特定编码标识符
+description: 编码子表的平台特定编码标识符
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformSpecificId property
 
-用于编码子表的平台特定编码标识符
+编码子表的平台特定编码标识符
 
 ```csharp
 public ushort PlatformSpecificId { get; set; }

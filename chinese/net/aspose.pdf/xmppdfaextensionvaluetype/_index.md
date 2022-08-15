@@ -1,14 +1,14 @@
 ---
 title: XmpPdfAExtensionValueType
 second_title: Aspose.PDF for .NET API 参考
-description: XMP 2004 规范中未定义的所有属性值类型都需要 PDF/A ValueType 模式即对于以下列表之外的值类型 - 数组类型这些是可能包含一个或多个字段的容器类型AltBagSeq - 基本值类型Boolean打开和关闭ChoiceDate维度整数Lang Alt区域设置MIMETypeProperNameReal文本缩略图URIURLXPath - 媒体管理值类型AgentNameRenditionClassResourceEventResourceRefVersion - 基本作业/工作流值类型作业 - EXIF 模式值类型FlashCFAPatternDeviceSettingsGPSCoordinateOECF/SFRRational 模式命名空间 URIhttp//www.aiim.org/pdfa/ns/type 必需的模式命名空间前缀pdfaType
+description: XMP 2004 规范中未定义的所有属性值类型都需要 PDF/A ValueType 模式即对于以下列表之外的值类型 - 数组类型这些是可能包含一个或多个字段的容器类型AltBagSeq - 基本值类型Boolean打开和关闭ChoiceDateDimensionsIntegerLang AltLocaleMIMETypeProperNameRealTextThumbnailURIURLXPath - 媒体管理值类型AgentNameRenditionClassResourceEventResourceRefVersion - 基本作业/工作流值类型Job - EXIF 模式值类型FlashCFAPatternDeviceSettingsGPSCoordinateOECF/SFRRational 模式命名空间 URIhttp//www aiim.org/pdfa/ns/type 必需的模式命名空间前缀pdfaType
 type: docs
 weight: 7540
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/
 ---
 ## XmpPdfAExtensionValueType class
 
-XMP 2004 规范中未定义的所有属性值类型都需要 PDF/A ValueType 模式，即对于以下列表之外的值类型: - 数组类型（这些是可能包含一个或多个字段的容器类型）:Alt、Bag、Seq - 基本值类型:Boolean、（打开和关闭）Choice、Date、维度、整数、Lang Alt、区域设置、MIMEType、ProperName、Real、文本、缩略图、URI、URL、XPath - 媒体管理值类型:AgentName、RenditionClass、ResourceEvent、ResourceRef、Version - 基本作业/工作流值类型:作业 - EXIF 模式值类型:Flash、CFAPattern、DeviceSettings、GPSCoordinate、OECF/SFR、Rational 模式命名空间 URI:http://www.aiim.org/pdfa/ns/type# 必需的模式命名空间前缀:pdfaType
+XMP 2004 规范中未定义的所有属性值类型都需要 PDF/A ValueType 模式，即对于以下列表之外的值类型： - 数组类型（这些是可能包含一个或多个字段的容器类型)：Alt、Bag、Seq - 基本值类型：Boolean、（打开和关闭）Choice、Date、Dimensions、Integer、Lang Alt、Locale、MIMEType、ProperName、Real、Text、Thumbnail、URI、URL、XPath - 媒体管理值类型：AgentName、RenditionClass、ResourceEvent、ResourceRef、Version - 基本作业/工作流值类型：Job - EXIF 模式值类型：Flash、CFAPattern、DeviceSettings、GPSCoordinate、OECF/SFR、Rational 模式命名空间 URI：http://www。 aiim.org/pdfa/ns/type# 必需的模式命名空间前缀：pdfaType
 
 ```csharp
 public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject

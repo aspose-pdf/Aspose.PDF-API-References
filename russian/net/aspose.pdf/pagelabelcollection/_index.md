@@ -1,14 +1,14 @@
 ---
 title: PageLabelCollection
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий коллекцию меток страниц.
+description: Класс представляющий коллекцию меток страницы.
 type: docs
 weight: 5860
 url: /ru/net/aspose.pdf/pagelabelcollection/
 ---
 ## PageLabelCollection class
 
-Класс, представляющий коллекцию меток страниц.
+Класс, представляющий коллекцию меток страницы.
 
 ```csharp
 public class PageLabelCollection

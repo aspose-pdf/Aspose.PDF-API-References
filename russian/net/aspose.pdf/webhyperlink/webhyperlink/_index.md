@@ -1,14 +1,14 @@
 ---
 title: WebHyperlink
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаWebHyperlinkaspose.pdf/webhyperlink.
+description: Инициализирует новый экземплярWebHyperlinkaspose.pdf/webhyperlink класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/webhyperlink/webhyperlink/
 ---
 ## WebHyperlink() {#constructor}
 
-Инициализирует новый экземпляр класса[`WebHyperlink`](../../webhyperlink).
+Инициализирует новый экземпляр[`WebHyperlink`](../../webhyperlink) класс.
 
 ```csharp
 public WebHyperlink()
@@ -24,7 +24,7 @@ public WebHyperlink()
 
 ## WebHyperlink(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`WebHyperlink`](../../webhyperlink).
+Инициализирует новый экземпляр[`WebHyperlink`](../../webhyperlink) класс.
 
 ```csharp
 public WebHyperlink(string url)

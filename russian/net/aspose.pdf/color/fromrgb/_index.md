@@ -1,14 +1,14 @@
 ---
 title: FromRgb
 second_title: Aspose.PDF для справочника API .NET
-description: Получает действительный объект pdf Color из значения System.Drawing.Color.
+description: Получает действительный объект цвета PDF из значения System.Drawing.Color.
 type: docs
 weight: 1470
 url: /ru/net/aspose.pdf/color/fromrgb/
 ---
 ## FromRgb(Color) {#fromrgb_1}
 
-Получает действительный объект pdf Color из значения System.Drawing.Color.
+Получает действительный объект цвета PDF из значения System.Drawing.Color.
 
 ```csharp
 public static Color FromRgb(Color color)
@@ -20,7 +20,7 @@ public static Color FromRgb(Color color)
 
 ### Возвращаемое значение
 
-Цвет объекта со значением каждого компонента в диапазоне [0..1].
+Цветной объект со значением каждого компонента в диапазоне [0..1].
 
 ### Смотрите также
 
@@ -41,12 +41,12 @@ public static Color FromRgb(double r, double g, double b)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | r | Double | Компонент красного цвета (значение 0 - 1). |
-| g | Double | Компонент зеленого цвета (значение 0 - 1). |
+| g | Double | Компонент зеленого цвета (значение 0–1). |
 | b | Double | Компонент синего цвета (значение 0 - 1). |
 
 ### Возвращаемое значение
 
-Цвет объекта со значением каждого компонента в диапазоне [0..1].
+Цветной объект со значением каждого компонента в диапазоне [0..1].
 
 ### Смотрите также
 

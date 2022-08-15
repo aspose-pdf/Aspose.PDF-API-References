@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/placement_inline/
 ---
 ## AttributeName.Placement_Inline field
 
-属性放置:内联 - 在封闭的 BLSE 内按内联进度方向打包。
+属性放置：内联 - 在封闭的 BLSE 内按内联进度方向打包。
 
 ```csharp
 public static readonly AttributeName Placement_Inline;

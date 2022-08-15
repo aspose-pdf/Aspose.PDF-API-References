@@ -1,14 +1,14 @@
 ---
 title: LoadOptions.ResourceLoadingStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 有时有必要避免使用外部资源如图像或 CSS的内部加载器 并提供自定义方法这将获得请求的资源从某处例如在云中使用Aspose.Pdf的 时无法直接访问引用的文件并且应该使用一些自定义代码放入特殊的 方法中 此委托定义此类自定义方法的签名
+description: 有时有必要避免使用外部资源如图像或 CSSes的内部加载器 并提供自定义方法这将从某个地方获取请求的资源例如在云中使用Aspose.Pdf的 时无法直接访问引用的文件并且应该使用一些放入special 方法的自定义代码 这个委托定义了这种自定义方法的签名
 type: docs
 weight: 3990
 url: /zh/net/aspose.pdf/loadoptions.resourceloadingstrategy/
 ---
 ## LoadOptions.ResourceLoadingStrategy delegate
 
-有时有必要避免使用外部资源（如图像或 CSS）的内部加载器 并提供自定义方法，这将获得请求的资源从某处。例如在云中使用Aspose.Pdf的 时无法直接访问引用的文件，并且应该使用一些自定义代码放入特殊的 方法中。 此委托定义此类自定义方法的签名。
+有时有必要避免使用外部资源（如图像或 CSSes）的内部加载器 并提供自定义方法，这将从某个地方获取请求的资源。例如在云中使用Aspose.Pdf的 时，无法直接访问引用的文件，并且应该使用一些放入special 方法的自定义代码。 这个委托定义了这种自定义方法的签名。
 
 ```csharp
 public delegate ResourceLoadingResult ResourceLoadingStrategy(string resourceURI);

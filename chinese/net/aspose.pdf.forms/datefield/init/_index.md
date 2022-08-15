@@ -1,14 +1,14 @@
 ---
 title: Init
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化 JS 动作
+description: 初始化 JS Action.
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/datefield/init/
 ---
 ## DateField.Init method
 
-初始化 JS 动作。
+初始化 JS Action.
 
 ```csharp
 public void Init(Page page)
@@ -16,7 +16,7 @@ public void Init(Page page)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 页面。 |
+| page | Page | 这页纸。 |
 
 ### 也可以看看
 

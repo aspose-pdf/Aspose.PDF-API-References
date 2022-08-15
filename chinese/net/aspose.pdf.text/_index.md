@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.Text
 second_title: Aspose.PDF for .NET API 参考
-description: Aspose.Pdf.Text 命名空间提供允许提取文本添加文本操作的类文档的现有文本 它还包含允许提取替换替换文档字体的类
+description: 的 Aspose.Pdf.Text命名空间提供允许提取文本添加文本操作文档的现有文本的类 它还包含允许提取替换替换文档字体的类
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.text/
 ---
-**Aspose.Pdf.Text** 命名空间提供允许提取文本、添加文本、操作的类文档的现有文本。 它还包含允许提取、替换、替换文档字体的类。
+的 **Aspose.Pdf.Text**命名空间提供允许提取文本、添加文本、操作文档的现有文本的类。 它还包含允许提取、替换、替换文档字体的类。
 
 ## 课程
 
@@ -21,26 +21,26 @@ url: /zh/net/aspose.pdf.text/
 | [FileFontSource](./filefontsource) | 表示单个字体文件源。 |
 | [FolderFontSource](./folderfontsource) | 表示包含字体文件的文件夹。 |
 | [Font](./font) | 表示字体对象。 |
-| [FontAbsorber](./fontabsorber) | 表示字体的吸收器对象。 执行字体搜索并通过[`Fonts`](../aspose.pdf.text/fontabsorber/fonts)集合访问搜索结果。 |
-| [FontCollection](./fontcollection) | 表示字体集合。 |
-| [FontRepository](./fontrepository) | 执行字体搜索。搜索系统安装的字体和标准的 Pdf 字体。 还提供打开自定义字体的功能。 |
+| [FontAbsorber](./fontabsorber) | 表示字体的吸收器对象。 执行字体搜索并通过以下方式访问搜索结果[`Fonts`](../aspose.pdf.text/fontabsorber/fonts)集合. |
+| [FontCollection](./fontcollection) | 代表字体集合。 |
+| [FontRepository](./fontrepository) | 执行字体搜索。在系统安装的字体和标准 Pdf 字体中搜索。 还提供打开自定义字体的功能。 |
 | [FontSource](./fontsource) | 表示基类字体源。 |
-| [FontSourceCollection](./fontsourcecollection) | 表示字体源集合。 |
+| [FontSourceCollection](./fontsourcecollection) | 代表字体源集合。 |
 | [FontSubstitution](./fontsubstitution) | 表示基类字体替换策略。 |
-| [FontSubstitutionCollection](./fontsubstitutioncollection) | 表示字体替换策略集合。 |
+| [FontSubstitutionCollection](./fontsubstitutioncollection) | 代表字体替换策略集合。 |
 | [MarkupParagraph](./markupparagraph) | 代表一个段落。 |
 | [MarkupSection](./markupsection) | 表示标记部分 - 页面的矩形区域，其中包含文本并且可以在视觉上与其他文本块分开。 |
 | [MemoryFontSource](./memoryfontsource) | 表示单个字体文件源。 |
-| [PageMarkup](./pagemarkup) | 页面标记由[`MarkupSection`](../aspose.pdf.text/markupsection)和MarkupParagraph。 |
-| [ParagraphAbsorber](./paragraphabsorber) | 表示节和段落等页面结构对象的吸收器对象。 搜索文本的部分和段落，并提供对在文本坐标空间中描述它的矩形和多边形的访问。 还执行文本段搜索，并通过!:TextFragments按结构元素分组的集合提供对搜索结果的访问。 |
-| [Position](./position) | 表示一个位置对象 |
-| [SimpleFontSubstitution](./simplefontsubstitution) | 表示一个用于简单字体替换策略的类。 |
+| [PageMarkup](./pagemarkup) | 由以下集合表示的页面标记[`MarkupSection`](../aspose.pdf.text/markupsection)和[`MarkupParagraph`](../aspose.pdf.text/markupparagraph). |
+| [ParagraphAbsorber](./paragraphabsorber) | 表示页面结构对象（例如部分和段落）的吸收器对象。 执行对文本部分和段落的搜索，并提供对在文本坐标空间中描述它的矩形和多边形的访问。 还执行文本段搜索并通过以下方式提供对搜索结果的访问!:TextFragments按结构元素分组的集合。 |
+| [Position](./position) | 代表一个位置对象 |
+| [SimpleFontSubstitution](./simplefontsubstitution) | 代表一个简单字体替换策略的类。 |
 | [SystemFontSource](./systemfontsource) | 表示安装到系统的所有字体。 |
-| [SystemFontsSubstitution](./systemfontssubstitution) | 表示字体替换策略类，用系统字体替换字体。 |
-| [TableAbsorber](./tableabsorber) | 表示表格元素的吸收器对象。 执行搜索并通过[`TableList`](../aspose.pdf.text/tableabsorber/tablelist)集合提供对搜索结果的访问。 |
+| [SystemFontsSubstitution](./systemfontssubstitution) | 表示字体替换策略的类，用系统字体替换字体。 |
+| [TableAbsorber](./tableabsorber) | 表示表元素的吸收器对象。 执行搜索并通过以下方式访问搜索结果[`TableList`](../aspose.pdf.text/tableabsorber/tablelist)集合. |
 | [TabStop](./tabstop) | 表示段落中的自定义制表位位置。 |
-| [TabStops](./tabstops) | 表示[`TabStop`](../aspose.pdf.text/tabstop)对象的集合。 |
-| [TextAbsorber](./textabsorber) | 表示文本的吸收器对象。 执行文本提取并通过[`Text`](../aspose.pdf.text/textabsorber/text)对象提供对结果的访问。 |
+| [TabStops](./tabstops) | 代表一个集合[`TabStop`](../aspose.pdf.text/tabstop)对象. |
+| [TextAbsorber](./textabsorber) | 表示文本的吸收器对象。 执行文本提取并通过以下方式访问结果[`Text`](../aspose.pdf.text/textabsorber/text)对象. |
 | [TextBuilder](./textbuilder) | 将文本对象附加到 Pdf 页面。 |
 | [TextEditOptions](./texteditoptions) | 描述文本编辑操作的选项。 |
 | [TextExtractionError](./textextractionerror) | 描述 PDF 文档中出现文本提取错误。 |
@@ -48,7 +48,7 @@ url: /zh/net/aspose.pdf.text/
 | [TextExtractionOptions](./textextractionoptions) | 表示文本提取选项 |
 | [TextFormattingOptions](./textformattingoptions) | 表示文本格式选项 |
 | [TextFragment](./textfragment) | 表示 Pdf 文本的片段。 |
-| [TextFragmentAbsorber](./textfragmentabsorber) | 表示文本片段的吸收器对象。 执行文本搜索并通过[`TextFragments`](../aspose.pdf.text/textfragmentabsorber/textfragments)集合提供对搜索结果的访问。 |
+| [TextFragmentAbsorber](./textfragmentabsorber) | 表示文本片段的吸收器对象。 执行文本搜索并通过以下方式访问搜索结果[`TextFragments`](../aspose.pdf.text/textfragmentabsorber/textfragments)集合. |
 | [TextFragmentCollection](./textfragmentcollection) | 表示一个文本片段集合 |
 | [TextFragmentState](./textfragmentstate) | 表示文本片段的文本状态。 |
 | [TextOptions](./textoptions) | 表示文本处理选项 |
@@ -56,14 +56,14 @@ url: /zh/net/aspose.pdf.text/
 | [TextReplaceOptions](./textreplaceoptions) | 表示文本替换选项 |
 | [TextSearchOptions](./textsearchoptions) | 表示文本搜索选项 |
 | [TextSegment](./textsegment) | 表示 Pdf 文本的段。 |
-| [TextSegmentCollection](./textsegmentcollection) | 表示文本段集合 |
-| [TextState](./textstate) | 表示文本的文本状态 |
+| [TextSegmentCollection](./textsegmentcollection) | 表示一个文本段集合 |
+| [TextState](./textstate) | 表示一个文本的文本状态 |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
 | [IFontOptions](./ifontoptions) | 调整字体行为的有用属性 |
-| [ITableElement](./itableelement) | 该接口表示由 TableAbsorber 提取的现有表的元素。 |
+| [ITableElement](./itableelement) | 这个接口代表了TableAbsorber提取的现有表的一个元素。 |
 ## 枚举
 
 | 枚举 | 描述 |

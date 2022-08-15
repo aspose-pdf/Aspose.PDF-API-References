@@ -1,14 +1,14 @@
 ---
 title: PdfQueryPageSettingsEventHandler
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет метод обрабатывающий событие QueryPageSettings объекта PrintDocument.
+description: Представляет метод обрабатывающий событие QueryPageSettings PrintDocument.
 type: docs
 weight: 2630
 url: /ru/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
 ## PdfQueryPageSettingsEventHandler delegate
 
-Представляет метод, обрабатывающий событие QueryPageSettings объекта PrintDocument.
+Представляет метод, обрабатывающий событие QueryPageSettings PrintDocument.
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
@@ -19,7 +19,7 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 | --- | --- | --- |
 | sender | Object | Источник события. |
 | queryPageSettingsEventArgs | QueryPageSettingsEventArgs | Объект QueryPageSettingsEventArgs, содержащий данные события. |
-| currentPageInfo | PdfPrintPageInfo | Информация о текущей напечатанной странице. |
+| currentPageInfo | PdfPrintPageInfo | Текущая информация о напечатанной странице. |
 
 ### Смотрите также
 

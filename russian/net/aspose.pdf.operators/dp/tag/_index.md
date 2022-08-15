@@ -1,14 +1,14 @@
 ---
 title: Tag
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает тег отмеченного содержимого
+description: Получает или задает отмеченный тег содержимого
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/dp/tag/
 ---
 ## DP.Tag property
 
-Получает или устанавливает тег отмеченного содержимого
+Получает или задает отмеченный тег содержимого
 
 ```csharp
 public string Tag { get; set; }

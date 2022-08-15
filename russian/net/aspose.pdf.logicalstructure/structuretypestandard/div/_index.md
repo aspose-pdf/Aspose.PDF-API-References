@@ -1,14 +1,14 @@
 ---
 title: Div
 second_title: Aspose.PDF для справочника API .NET
-description: Раздел Общий элемент уровня блока или группа элементов.
+description: Division Общий элемент блочного уровня или группа элементов.
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/div/
 ---
 ## StructureTypeStandard.Div field
 
-(Раздел) Общий элемент уровня блока или группа элементов.
+(Division) Общий элемент блочного уровня или группа элементов.
 
 ```csharp
 public static readonly StructureTypeStandard Div;

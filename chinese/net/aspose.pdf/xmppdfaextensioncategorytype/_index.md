@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
 ## XmpPdfAExtensionCategoryType enumeration
 
-属性类别:内部或外部。
+属性类别：内部或外部。
 
 ```csharp
 public enum XmpPdfAExtensionCategoryType
@@ -18,7 +18,7 @@ public enum XmpPdfAExtensionCategoryType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Internal | `0` | 内部属性是从文档内容自动创建的。 |
+| Internal | `0` | 内部属性是根据文档内容自动创建的。 |
 | External | `1` | 外部属性基于用户输入。 |
 
 ### 也可以看看

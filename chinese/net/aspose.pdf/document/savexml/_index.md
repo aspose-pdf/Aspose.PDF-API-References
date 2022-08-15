@@ -1,14 +1,14 @@
 ---
 title: SaveXml
 second_title: Aspose.PDF for .NET API 参考
-description: 将文档保存到 XML
+description: 将文档保存到 XML.
 type: docs
 weight: 730
 url: /zh/net/aspose.pdf/document/savexml/
 ---
 ## Document.SaveXml method
 
-将文档保存到 XML。
+将文档保存到 XML.
 
 ```csharp
 public void SaveXml(string file)

@@ -33,7 +33,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
-在文档中创建指定的书签。该方法可用于形成嵌套的书签层次结构。
+在文档中创建指定的书签。该方法可用于形成嵌套书签层次结构。
 
 ```csharp
 public void CreateBookmarks(Bookmark bookmark)
@@ -41,7 +41,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| bookmark | Bookmark | 书签将被添加到文档中。 |
+| bookmark | Bookmark | 书签将添加到文档中。 |
 
 ### 例子
 
@@ -86,7 +86,7 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | color | Color | 标题的颜色。 |
-| boldFlag | Boolean | 加粗归属标志。 |
+| boldFlag | Boolean | 大胆归因的旗帜。 |
 | italicFlag | Boolean | 斜体归属标志。 |
 
 ### 例子

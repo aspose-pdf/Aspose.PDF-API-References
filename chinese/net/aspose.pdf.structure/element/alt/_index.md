@@ -1,14 +1,14 @@
 ---
 title: Alt
 second_title: Aspose.PDF for .NET API 参考
-description: 可选结构元素及其子元素的替代描述为 人类可读格式这在提取文档内容以支持时很有用 残障用户或出于其他目的的可访问性
+description: 可选结构元素及其子元素的替代描述以 人类可读的形式在提取文档的内容时非常有用
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.structure/element/alt/
 ---
 ## Element.Alt property
 
-（可选）结构元素及其子元素的替代描述为 人类可读格式，这在提取文档内容以支持时很有用 残障用户或出于其他目的的可访问性。
+（可选）结构元素及其子元素的替代描述以 人类可读的形式，在提取文档的内容时非常有用
 
 ```csharp
 public virtual string Alt { get; set; }

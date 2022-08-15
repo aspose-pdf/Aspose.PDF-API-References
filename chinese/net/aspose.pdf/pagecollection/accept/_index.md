@@ -29,7 +29,7 @@ public void Accept(AnnotationSelector visitor)
 
 ## Accept(ImagePlacementAbsorber) {#accept_1}
 
-接受[`ImagePlacementAbsorber`](../../imageplacementabsorber)访问者对象，该对象提供使用图像放置对象的功能。
+接受[`ImagePlacementAbsorber`](../../imageplacementabsorber)提供使用图像放置对象的功能的访问者对象。
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -50,7 +50,7 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
-接受[`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber)访问者对象，提供使用文本对象的功能。
+接受[`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber)提供使用文本对象的功能的访问者对象。
 
 ```csharp
 public void Accept(TextFragmentAbsorber visitor)
@@ -71,7 +71,7 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ## Accept(TextAbsorber) {#accept_2}
 
-接受[`TextAbsorber`](../../../aspose.pdf.text/textabsorber)访问者对象，该对象提供使用文本对象的功能。
+接受[`TextAbsorber`](../../../aspose.pdf.text/textabsorber)提供使用文本对象的功能的访问者对象。
 
 ```csharp
 public void Accept(TextAbsorber visitor)

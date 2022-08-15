@@ -16,7 +16,7 @@ public IList<string> GetBlankSignNames()
 
 ### Возвращаемое значение
 
-Возвращает IList.
+Вернуть IList.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API 参考
-description: 从集合中移除项目
+description: 从集合中删除项目
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.annotations/actioncollection/remove/
 ---
 ## ActionCollection.Remove method
 
-从集合中移除项目。
+从集合中删除项目。
 
 ```csharp
 public bool Remove(PdfAction item)

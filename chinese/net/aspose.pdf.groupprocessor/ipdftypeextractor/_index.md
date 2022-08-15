@@ -27,7 +27,7 @@ public interface IPdfTypeExtractor : IDisposable, IDocumentPageTextExtractor, ID
 | 姓名 | 描述 |
 | --- | --- |
 | [Dispose](../../aspose.pdf.groupprocessor/ipdftypeextractor/dispose)() | 处置。 |
-| [ExtractAllText](../../aspose.pdf.groupprocessor/ipdftypeextractor/extractalltext)() | 返回提取文本值的集合。 |
+| [ExtractAllText](../../aspose.pdf.groupprocessor/ipdftypeextractor/extractalltext)() | 返回提取的文本值的集合。 |
 | [ExtractPageText](../../aspose.pdf.groupprocessor/ipdftypeextractor/extractpagetext)(int) | 返回页面文本。 |
 
 ### 也可以看看

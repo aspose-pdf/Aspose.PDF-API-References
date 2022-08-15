@@ -21,8 +21,8 @@ public enum XfaTag
 | Template | `0` | 模板标签 |
 | Datasets | `1` | 数据集标签 |
 | Config | `2` | 配置标签 |
-| Localset | `3` | localset 标签 |
-| Form | `4` | 表单标签 |
+| Localset | `3` | 本地集标记 |
+| Form | `4` | 形式标签 |
 
 ### 也可以看看
 

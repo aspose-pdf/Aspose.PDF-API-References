@@ -29,16 +29,16 @@ public sealed class FormFieldFacade
 | [BorderColor](../../aspose.pdf.facades/formfieldfacade/bordercolor) { get; set; } | 字段边框的颜色。 |
 | [BorderStyle](../../aspose.pdf.facades/formfieldfacade/borderstyle) { get; set; } | 字段边框的样式。 |
 | [BorderWidth](../../aspose.pdf.facades/formfieldfacade/borderwidth) { get; set; } | 字段边框的宽度。 |
-| [Box](../../aspose.pdf.facades/formfieldfacade/box) { get; set; } | 保存字段位置的矩形对象。 |
-| [ButtonStyle](../../aspose.pdf.facades/formfieldfacade/buttonstyle) { get; set; } | 复选框或单选框字段的样式，由 FormFieldFacade.CheckBoxStyle* 定义。 |
-| [Caption](../../aspose.pdf.facades/formfieldfacade/caption) { get; set; } | 表单字段的正常标题。 |
+| [Box](../../aspose.pdf.facades/formfieldfacade/box) { get; set; } | 一个矩形对象保存字段的位置。 |
+| [ButtonStyle](../../aspose.pdf.facades/formfieldfacade/buttonstyle) { get; set; } | 复选框或单选框字段的样式，由 FormFieldFacade.CheckBoxStyle*. 定义 |
+| [Caption](../../aspose.pdf.facades/formfieldfacade/caption) { get; set; } | 表单域的正常标题。 |
 | [CustomFont](../../aspose.pdf.facades/formfieldfacade/customfont) { get; set; } | 获取或设置非标准字体的名称（除 14 种标准字体外）。 |
 | [ExportItems](../../aspose.pdf.facades/formfieldfacade/exportitems) { get; set; } | 添加列表/组合/单选框的选项 |
 | [Font](../../aspose.pdf.facades/formfieldfacade/font) { get; set; } | 字段文本的字体类型。 |
 | [FontSize](../../aspose.pdf.facades/formfieldfacade/fontsize) { get; set; } | 字段文本的大小。 |
 | [Items](../../aspose.pdf.facades/formfieldfacade/items) { get; set; } | 一个字符串数组，每个代表一个组合框/列表/单选框字段的选项。 |
 | [PageNumber](../../aspose.pdf.facades/formfieldfacade/pagenumber) { get; set; } | 一个整数值，保存字段所在的页数。 |
-| [Position](../../aspose.pdf.facades/formfieldfacade/position) { get; set; } | 保存字段位置的矩形对象。 |
+| [Position](../../aspose.pdf.facades/formfieldfacade/position) { get; set; } | 一个矩形对象保存字段的位置。 |
 | [Rotation](../../aspose.pdf.facades/formfieldfacade/rotation) { get; set; } | 字段文本的旋转。 |
 | [TextColor](../../aspose.pdf.facades/formfieldfacade/textcolor) { get; set; } | 字段文本的颜色。 |
 | [TextEncoding](../../aspose.pdf.facades/formfieldfacade/textencoding) { get; set; } | 字段文本的文本编码类型。 |
@@ -56,7 +56,7 @@ public sealed class FormFieldFacade
 | const [AlignBottom](../../aspose.pdf.facades/formfieldfacade/alignbottom) | 将垂直对齐定义为底部样式。 |
 | const [AlignCenter](../../aspose.pdf.facades/formfieldfacade/aligncenter) | 定义对齐到中心样式。 |
 | const [AlignJustified](../../aspose.pdf.facades/formfieldfacade/alignjustified) | 定义文本对齐方式。 |
-| const [AlignLeft](../../aspose.pdf.facades/formfieldfacade/alignleft) | 定义对齐到左侧样式。 |
+| const [AlignLeft](../../aspose.pdf.facades/formfieldfacade/alignleft) | 定义对齐到左样式。 |
 | const [AlignMiddle](../../aspose.pdf.facades/formfieldfacade/alignmiddle) | 将垂直对齐定义为中间样式。 |
 | const [AlignRight](../../aspose.pdf.facades/formfieldfacade/alignright) | 定义对齐到正确的样式。 |
 | const [AlignTop](../../aspose.pdf.facades/formfieldfacade/aligntop) | 将垂直对齐定义为顶部样式。 |
@@ -71,12 +71,12 @@ public sealed class FormFieldFacade
 | const [BorderWidthThick](../../aspose.pdf.facades/formfieldfacade/borderwidththick) | 定义粗边框宽度。 |
 | const [BorderWidthThin](../../aspose.pdf.facades/formfieldfacade/borderwidththin) | 定义细边框宽度。 |
 | const [BorderWidthUndefined](../../aspose.pdf.facades/formfieldfacade/borderwidthundefined) | 未定义的边框宽度。 |
-| const [CheckBoxStyleCheck](../../aspose.pdf.facades/formfieldfacade/checkboxstylecheck) | 定义选中时复选框字段的形状。 |
+| const [CheckBoxStyleCheck](../../aspose.pdf.facades/formfieldfacade/checkboxstylecheck) | 定义复选框字段选中时的形状。 |
 | const [CheckBoxStyleCircle](../../aspose.pdf.facades/formfieldfacade/checkboxstylecircle) | 定义圆形复选框样式。 |
 | const [CheckBoxStyleCross](../../aspose.pdf.facades/formfieldfacade/checkboxstylecross) | 定义交叉复选框样式。 |
 | const [CheckBoxStyleDiamond](../../aspose.pdf.facades/formfieldfacade/checkboxstylediamond) | 定义菱形复选框样式。 |
 | const [CheckBoxStyleSquare](../../aspose.pdf.facades/formfieldfacade/checkboxstylesquare) | 定义方形复选框样式。 |
-| const [CheckBoxStyleStar](../../aspose.pdf.facades/formfieldfacade/checkboxstylestar) | 定义星形复选框样式。 |
+| const [CheckBoxStyleStar](../../aspose.pdf.facades/formfieldfacade/checkboxstylestar) | 定义星型复选框样式。 |
 | const [CheckBoxStyleUndefined](../../aspose.pdf.facades/formfieldfacade/checkboxstyleundefined) | 定义未定义的复选框样式。 |
 
 ### 也可以看看

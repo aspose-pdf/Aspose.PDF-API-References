@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/placement_block/
 ---
 ## AttributeName.Placement_Block field
 
-属性放置:块 - 在封闭参考区域或父 BLSE 内沿块前进方向堆叠。
+属性放置：块 - 在封闭参考区域或父 BLSE 内沿块前进方向堆叠。
 
 ```csharp
 public static readonly AttributeName Placement_Block;

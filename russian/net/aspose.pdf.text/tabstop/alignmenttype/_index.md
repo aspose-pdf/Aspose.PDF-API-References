@@ -1,14 +1,14 @@
 ---
 title: AlignmentType
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает перечислениеAlignmentTypeaspose.pdf.text/tabstop/alignmenttype указывающее тип выравнивания вкладки.
+description: Получает или задаетAlignmentTypeaspose.pdf.text/tabstop/alignmenttype enum указывающий тип выравнивания вкладок.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
 ## TabStop.AlignmentType property
 
-Получает или задает перечисление`AlignmentType`, указывающее тип выравнивания вкладки.
+Получает или задает`AlignmentType` enum, указывающий тип выравнивания вкладок.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }

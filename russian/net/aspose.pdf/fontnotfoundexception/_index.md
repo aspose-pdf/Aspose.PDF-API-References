@@ -18,9 +18,9 @@ public sealed class FontNotFoundException : ApplicationException
 
 | Имя | Описание |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception#constructor)(Exception) | Инициализирует новый экземпляр класса[`FontNotFoundException`](../fontnotfoundexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [FontNotFoundException](fontnotfoundexception#constructor_1)(string) | Инициализирует новый экземпляр класса[`FontNotFoundException`](../fontnotfoundexception). |
-| [FontNotFoundException](fontnotfoundexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`FontNotFoundException`](../fontnotfoundexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [FontNotFoundException](fontnotfoundexception#constructor)(Exception) | Инициализирует новый экземпляр[`FontNotFoundException`](../fontnotfoundexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [FontNotFoundException](fontnotfoundexception#constructor_1)(string) | Инициализирует новый экземпляр[`FontNotFoundException`](../fontnotfoundexception) класс. |
+| [FontNotFoundException](fontnotfoundexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`FontNotFoundException`](../fontnotfoundexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает коллекциюParagraphsaspose.pdf/floatingbox/paragraphs указывающую все абзацы в ячейке.
+description: Получает или задаетParagraphsaspose.pdf/floatingbox/paragraphs коллекция которая указывает все абзацы в ячейке.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/floatingbox/paragraphs/
 ---
 ## FloatingBox.Paragraphs property
 
-Получает или задает коллекцию`Paragraphs`, указывающую все абзацы в ячейке.
+Получает или задает`Paragraphs` коллекция, которая указывает все абзацы в ячейке.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }

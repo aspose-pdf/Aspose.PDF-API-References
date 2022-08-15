@@ -1,14 +1,14 @@
 ---
 title: BlendingSpace
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение BlendingColorSpace определяющее цветовое пространство  которое используется для выполнения операций прозрачности и смешивания на странице.
+description: Получает или задает значение BlendingColorSpace определяющее цветовое пространство  используемое для выполнения операций прозрачности и смешивания на странице.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/stamp/blendingspace/
 ---
 ## Stamp.BlendingSpace property
 
-Получает или задает значение BlendingColorSpace, определяющее цветовое пространство , которое используется для выполнения операций прозрачности и смешивания на странице.
+Получает или задает значение BlendingColorSpace, определяющее цветовое пространство , используемое для выполнения операций прозрачности и смешивания на странице.
 
 ```csharp
 public BlendingColorSpace BlendingSpace { get; set; }

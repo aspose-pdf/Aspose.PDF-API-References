@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置形状的文本
+description: 获取或设置 shape 的文本
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.drawing/shape/text/
 ---
 ## Shape.Text property
 
-获取或设置形状的文本
+获取或设置 shape 的文本
 
 ```csharp
 public TextFragment Text { get; set; }

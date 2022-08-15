@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Aspose.PDF для справочника API .NET
-description: Клонирует новыйMarginInfoaspose.pdf/margininfoобъект.
+description: Клонирует новыйMarginInfoaspose.pdf/margininfo объект.
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/margininfo/clone/
 ---
 ## MarginInfo.Clone method
 
-Клонирует новый[`MarginInfo`](../../margininfo)объект.
+Клонирует новый[`MarginInfo`](../../margininfo) объект.
 
 ```csharp
 public object Clone()

@@ -1,14 +1,14 @@
 ---
 title: InvalidFileFormatException
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаInvalidFileFormatExceptionaspose.pdf/invalidfileformatexception.
+description: Инициализирует новый экземплярInvalidFileFormatExceptionaspose.pdf/invalidfileformatexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidfileformatexception/invalidfileformatexception/
 ---
 ## InvalidFileFormatException() {#constructor}
 
-Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../../invalidfileformatexception).
+Инициализирует новый экземпляр[`InvalidFileFormatException`](../../invalidfileformatexception) класс.
 
 ```csharp
 public InvalidFileFormatException()
@@ -24,7 +24,7 @@ public InvalidFileFormatException()
 
 ## InvalidFileFormatException(string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../../invalidfileformatexception).
+Инициализирует новый экземпляр[`InvalidFileFormatException`](../../invalidfileformatexception) класс.
 
 ```csharp
 public InvalidFileFormatException(string message)
@@ -44,7 +44,7 @@ public InvalidFileFormatException(string message)
 
 ## InvalidFileFormatException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../../invalidfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidFileFormatException`](../../invalidfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidFileFormatException(string message, Exception innerException)
@@ -65,7 +65,7 @@ public InvalidFileFormatException(string message, Exception innerException)
 
 ## InvalidFileFormatException(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`InvalidFileFormatException`](../../invalidfileformatexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр[`InvalidFileFormatException`](../../invalidfileformatexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 ```csharp
 public InvalidFileFormatException(Exception innerException)
@@ -73,7 +73,7 @@ public InvalidFileFormatException(Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если нет внутреннего исключения указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или пустая ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指示矩形左侧位置的浮点值
+description: 获取或设置一个浮点值指示矩形的左侧位置
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.drawing/rectangle/left/
 ---
 ## Rectangle.Left property
 
-获取或设置指示矩形左侧位置的浮点值。
+获取或设置一个浮点值，指示矩形的左侧位置。
 
 ```csharp
 public double Left { get; set; }

@@ -37,7 +37,7 @@ public void Add(string key, FileSpecification file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ во встроенных файлах. |
+| key | String | Введите встроенные файлы. |
 | file | FileSpecification | Спецификация файла. |
 
 ### Смотрите также

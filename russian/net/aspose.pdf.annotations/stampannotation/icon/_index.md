@@ -1,14 +1,14 @@
 ---
 title: Icon
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает значок для штампа.
+description: Получает или задает значок для штампа.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/stampannotation/icon/
 ---
 ## StampAnnotation.Icon property
 
-Получает или устанавливает значок для штампа.
+Получает или задает значок для штампа.
 
 ```csharp
 public StampIcon Icon { get; set; }

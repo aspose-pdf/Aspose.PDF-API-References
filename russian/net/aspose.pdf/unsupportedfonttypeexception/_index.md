@@ -1,14 +1,14 @@
 ---
 title: UnsupportedFontTypeException
 second_title: Aspose.PDF для справочника API .NET
-description: Исключение возникающее когда тип шрифта не поддерживается.
+description: Исключение которое возникает когда тип шрифта не поддерживается.
 type: docs
 weight: 7310
 url: /ru/net/aspose.pdf/unsupportedfonttypeexception/
 ---
 ## UnsupportedFontTypeException class
 
-Исключение, возникающее, когда тип шрифта не поддерживается.
+Исключение, которое возникает, когда тип шрифта не поддерживается.
 
 ```csharp
 public sealed class UnsupportedFontTypeException : ApplicationException
@@ -18,9 +18,9 @@ public sealed class UnsupportedFontTypeException : ApplicationException
 
 | Имя | Описание |
 | --- | --- |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor)(Exception) | Инициализирует новый экземпляр класса[`UnsupportedFontTypeException`](../unsupportedfonttypeexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_1)(string) | Инициализирует новый экземпляр класса[`UnsupportedFontTypeException`](../unsupportedfonttypeexception). |
-| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`UnsupportedFontTypeException`](../unsupportedfonttypeexception) с указанным сообщением об ошибке и ссылка на внутреннее исключение, которое является причиной этого исключения. |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor)(Exception) | Инициализирует новый экземпляр[`UnsupportedFontTypeException`](../unsupportedfonttypeexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_1)(string) | Инициализирует новый экземпляр[`UnsupportedFontTypeException`](../unsupportedfonttypeexception) класс. |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`UnsupportedFontTypeException`](../unsupportedfonttypeexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 
 ### Смотрите также
 

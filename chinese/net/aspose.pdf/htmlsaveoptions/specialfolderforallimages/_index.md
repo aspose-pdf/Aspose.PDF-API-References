@@ -1,14 +1,14 @@
 ---
 title: SpecialFolderForAllImages
 second_title: Aspose.PDF for .NET API 参考
-description: 如果在将文档保存为 HTML 期间遇到 则获取或设置任何图像必须保存到的目录路径如果参数为空或 null 则图像文件如果有将与链接到 HTML 的其他文件一起保存 如果 CustomImageSavingStrategy 不会影响任何内容属性已成功用于处理相关图像文件
+description: 获取或设置目录的路径如果在将文档保存为 HTML 期间遇到 则必须将任何图像保存到该目录如果参数为空或 null 则图像文件如果有将与链接到 HTML 的其他文件一起保存如果 CustomImageSavingStrategy 属性成功用于处理相关图像文件则不会影响任何内容
 type: docs
 weight: 400
 url: /zh/net/aspose.pdf/htmlsaveoptions/specialfolderforallimages/
 ---
 ## HtmlSaveOptions.SpecialFolderForAllImages field
 
-如果在将文档保存为 HTML 期间遇到 ，则获取或设置任何图像必须保存到的目录路径。如果参数为空或 null 则图像文件（如果有）将与链接到 HTML 的其他文件一起保存 如果 CustomImageSavingStrategy 不会影响任何内容:属性已成功用于处理相关图像文件。
+获取或设置目录的路径，如果在将文档保存为 HTML 期间遇到 ，则必须将任何图像保存到该目录。如果参数为空或 null ，则图像文件（如果有）将与链接到 HTML 的其他文件一起保存，如果 CustomImageSavingStrategy 属性成功用于处理相关图像文件，则不会影响任何内容。
 
 ```csharp
 public string SpecialFolderForAllImages;

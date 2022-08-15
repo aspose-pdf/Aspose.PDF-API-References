@@ -19,7 +19,7 @@ public Rectangle(double llx, double lly, double urx, double ury)
 | llx | Double | X нижнего левого угла. |
 | lly | Double | Y нижнего левого угла. |
 | urx | Double | X правого верхнего угла. |
-| ury | Double | Y правого верхнего угла. |
+| ury | Double | Y в правом верхнем углу. |
 
 ### Смотрите также
 

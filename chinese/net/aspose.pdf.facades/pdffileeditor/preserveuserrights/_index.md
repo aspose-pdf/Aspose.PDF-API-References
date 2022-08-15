@@ -1,14 +1,14 @@
 ---
 title: PreserveUserRights
 second_title: Aspose.PDF for .NET API 参考
-description: 如果为真则将第一个文档的用户权限应用于连接文档所有其他文档的用户权限都将被忽略
+description: 如果为真则将第一个文档的用户权限应用于级联文档所有其他文档的用户权限都将被忽略
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/pdffileeditor/preserveuserrights/
 ---
 ## PdfFileEditor.PreserveUserRights property
 
-如果为真，则将第一个文档的用户权限应用于连接文档。所有其他文档的用户权限都将被忽略。
+如果为真，则将第一个文档的用户权限应用于级联文档。所有其他文档的用户权限都将被忽略。
 
 ```csharp
 public bool PreserveUserRights { get; set; }

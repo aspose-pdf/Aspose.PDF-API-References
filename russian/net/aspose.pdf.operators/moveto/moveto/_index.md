@@ -1,14 +1,14 @@
 ---
 title: MoveTo
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый операторOperators.mперейти к.
+description: Инсталлирует новыйOperators.m перейти к operator.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/moveto/moveto/
 ---
 ## MoveTo constructor
 
-Инициализирует новый оператор!:Operators.m(перейти к).
+Инсталлирует новый!:Operators.m (перейти к) operator.
 
 ```csharp
 public MoveTo(double x, double y)
@@ -16,8 +16,8 @@ public MoveTo(double x, double y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Double | Координата x. |
-| y | Double | Координата y. |
+| x | Double | X-координата. |
+| y | Double | Y-координата. |
 
 ### Смотрите также
 

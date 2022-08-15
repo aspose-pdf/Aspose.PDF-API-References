@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает информацию о странице которая должна применяться во время загрузки документа. ПРИМЕЧАНИЕ. Этот параметр работает только в том случае если ConversionEngine  ConversionEngines.NewEngine
+description: Получает или задает информацию о странице которая должна применяться во время загрузки документа. ПРИМЕЧАНИЕ этот параметр работает только если ConversionEngine  ConversionEngine.NewEngine
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/svgloadoptions/pageinfo/
 ---
 ## SvgLoadOptions.PageInfo property
 
-Получает или устанавливает информацию о странице, которая должна применяться во время загрузки документа. ПРИМЕЧАНИЕ. Этот параметр работает только в том случае, если ConversionEngine == ConversionEngines.NewEngine
+Получает или задает информацию о странице, которая должна применяться во время загрузки документа. ПРИМЕЧАНИЕ: этот параметр работает, только если ConversionEngine == ConversionEngine.NewEngine
 
 ```csharp
 public PageInfo PageInfo { get; set; }

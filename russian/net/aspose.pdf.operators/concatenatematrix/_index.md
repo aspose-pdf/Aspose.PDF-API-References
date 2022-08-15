@@ -1,14 +1,14 @@
 ---
 title: ConcatenateMatrix
 second_title: Aspose.PDF для справочника API .NET
-description: Класс представляющий оператор cm сцепление матрицы с текущей матрицей преобразования.
+description: Класс представляющий оператор cm объединить матрицу с текущей матрицей преобразования.
 type: docs
 weight: 5010
 url: /ru/net/aspose.pdf.operators/concatenatematrix/
 ---
 ## ConcatenateMatrix class
 
-Класс, представляющий оператор cm (сцепление матрицы с текущей матрицей преобразования).
+Класс, представляющий оператор cm (объединить матрицу с текущей матрицей преобразования).
 
 ```csharp
 public class ConcatenateMatrix : Operator
@@ -18,7 +18,7 @@ public class ConcatenateMatrix : Operator
 
 | Имя | Описание |
 | --- | --- |
-| [ConcatenateMatrix](concatenatematrix#constructor)(Matrix) | Инициализирует оператор матрицей. |
+| [ConcatenateMatrix](concatenatematrix#constructor)(Matrix) | Инициализирует оператор по матрице. |
 | [ConcatenateMatrix](concatenatematrix#constructor_1)(double, double, double, double, double, double) | Инициализирует оператор. |
 
 ## Характеристики
@@ -32,7 +32,7 @@ public class ConcatenateMatrix : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/concatenatematrix/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/concatenatematrix/accept)(IOperatorSelector) | Принимает объект посетителя для обработки оператором. |
 | override [ToString](../../aspose.pdf.operators/concatenatematrix/tostring)() | Возвращает текстовое представление оператора. |
 
 ### Смотрите также

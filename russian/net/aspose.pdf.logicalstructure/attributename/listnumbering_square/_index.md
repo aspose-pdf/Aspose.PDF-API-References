@@ -1,14 +1,14 @@
 ---
 title: ListNumbering_Square
 second_title: Aspose.PDF для справочника API .NET
-description: Список атрибутов НумерацияКвадрат - Сплошной квадратный маркер.
+description: Нумерация списка атрибутов Квадрат  сплошной квадратный маркер.
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.logicalstructure/attributename/listnumbering_square/
 ---
 ## AttributeName.ListNumbering_Square field
 
-Список атрибутов Нумерация:Квадрат - Сплошной квадратный маркер.
+Нумерация списка атрибутов: Квадрат — сплошной квадратный маркер.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Square;

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指定索引处的PDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssection
+description: 获取或设置PDF3DCrossSectionaspose.pdf.annotations/pdf3dcrosssection在指定的索引处
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/
 ---
 ## PDF3DCrossSectionArray indexer
 
-获取或设置指定索引处的[`PDF3DCrossSection`](../../pdf3dcrosssection)。
+获取或设置[`PDF3DCrossSection`](../../pdf3dcrosssection)在指定的索引处。
 
 ```csharp
 public PDF3DCrossSection this[int index] { get; set; }
@@ -16,7 +16,7 @@ public PDF3DCrossSection this[int index] { get; set; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 返回值
 
@@ -26,7 +26,7 @@ public PDF3DCrossSection this[int index] { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| IndexOutOfRangeException | 无效索引:索引应在 [1..n] 范围内，其中 n 等于十字节数。 |
+| IndexOutOfRangeException | 无效索引：索引应在 [1..n] 范围内，其中 n 等于横截面计数。 |
 
 ### 也可以看看
 

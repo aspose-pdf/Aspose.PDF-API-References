@@ -1,14 +1,14 @@
 ---
 title: Bits
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置每个通道每个样本值的位数
+description: 获取或设置每个通道每个采样值的位数
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/sounddata/bits/
 ---
 ## SoundData.Bits property
 
-获取或设置每个通道每个样本值的位数。
+获取或设置每个通道每个采样值的位数。
 
 ```csharp
 public int Bits { get; set; }

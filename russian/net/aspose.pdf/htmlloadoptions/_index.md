@@ -1,14 +1,14 @@
 ---
 title: HtmlLoadOptions
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет параметры загрузки/импорта html-файла в pdf-документ.
+description: Представляет параметры для загрузки/импорта HTML-файла в документ PDF.
 type: docs
 weight: 3400
 url: /ru/net/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class
 
-Представляет параметры загрузки/импорта html-файла в pdf-документ.
+Представляет параметры для загрузки/импорта HTML-файла в документ PDF.
 
 ```csharp
 public sealed class HtmlLoadOptions : LoadOptions
@@ -19,7 +19,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 | Имя | Описание |
 | --- | --- |
 | [HtmlLoadOptions](htmlloadoptions#constructor)() | Создает параметры загрузки для преобразования html в документ pdf с пустым базовым путем. |
-| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) | Создает параметры загрузки для преобразования html в pdf-документ с заданным базовым путем. |
+| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) | Создает параметры загрузки для преобразования html в документ pdf с заданным базовым путем. |
 
 ## Характеристики
 
@@ -27,11 +27,11 @@ public sealed class HtmlLoadOptions : LoadOptions
 | --- | --- |
 | [BasePath](../../aspose.pdf/htmlloadoptions/basepath) { get; } | Базовый путь/URL для HTML-файла. |
 | [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype) { get; set; } | Получает или задает возможные типы мультимедиа, используемые во время рендеринга. |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | Получает или задает атрибут, определяющий кодировку, используемую для этого документа во время синтаксического анализа. Если этот атрибут равен нулю, кодировка будет определяться атрибутом набора символов документа. |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } | Получает или задает шрифты, внедряемые в результирующий документ |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | Получает или задает атрибут, указывающий кодировку, используемую для этого документа во время синтаксического анализа. Если этот атрибут равен нулю, кодировка будет определяться атрибутом набора символов документа. |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } | Получает или задает встроенные шрифты в результат document |
 | [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage) { get; set; } | Получает или задает отображение всего документа на одной странице |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions)описывает. |
-| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo) { get; set; } | Получает или устанавливает информацию о странице документа |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Представляет формат файла, который[`LoadOptions`](../loadoptions) описывает. |
+| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo) { get; set; } | Получает или задает информацию о странице документа |
 | [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption) { get; set; } | Получает или задает параметр макета. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Продолжить, либо Прервать. Продолжить — это действие по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, и в этом случае операция загрузки должна быть прекращена. |
 
@@ -39,8 +39,8 @@ public sealed class HtmlLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | Иногда необходимо избегать использования внутреннего загрузчика внешних ресурсов (таких как изображения или CSS) и предоставлять собственный метод, который будет получать запрошенные ресурсы из где-то. Например, при использовании Aspose.PDF в облаке прямой доступ к файлам, на которые ссылаются, невозможен:в этом случае необходимо использовать какой-то пользовательский код, помещенный в специальный метод, и делегировать, который ссылается этот метод должен быть присвоен этому атрибуту. |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | Если для загрузки внешних данных, на которые есть ссылки в HTML требуются учетные данные, их можно указать в этом параметре - они будут использоваться при загрузке внешних ресурсов |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | Иногда необходимо избегать использования внутреннего загрузчика внешних ресурсов (таких как изображения или CSS) и предоставлять собственный метод, который откуда-то будет получать запрошенные ресурсы. Например, при использовании Aspose.PDF в облаке прямой доступ к ссылочным файлам невозможен: в таком случае необходимо использовать некий пользовательский код, помещенный в специальный метод, и этому атрибуту должен быть присвоен делегат, ссылающийся на этот метод. |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | Если для загрузки внешних данных, на которые ссылается HTML , требуются учетные данные, Вы можете указать их в этом параметре - они будут использоваться при загрузке внешних ресурсов |
 
 ### Смотрите также
 

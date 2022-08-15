@@ -16,7 +16,7 @@ public void AddFontEncs(params string[] fontEncs)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontEncs | String[] | 字体编码。 |
+| fontEncs | String[] | 字体 encs。 |
 
 ### 也可以看看
 

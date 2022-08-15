@@ -18,7 +18,7 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdfactioncollection/count) { get; } | 获取操作计数。 |
+| [Count](../../aspose.pdf.annotations/pdfactioncollection/count) { get; } | 获取动作计数。 |
 | [Item](../../aspose.pdf.annotations/pdfactioncollection/item) { get; } | 通过其索引获取操作。 |
 
 ## 方法

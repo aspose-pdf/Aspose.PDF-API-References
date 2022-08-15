@@ -16,7 +16,7 @@ public SetTextLeading(double leading)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ведущий | Double | Ведущий текст. |
+| leading | Double | Текст ведущий. |
 
 ### Смотрите также
 

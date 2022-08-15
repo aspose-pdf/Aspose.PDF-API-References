@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.HtmlMarkupGenerationModes
 second_title: Aspose.PDF for .NET API 参考
-description: 有时会出现对创建的 HTML 的特定要求 该枚举定义了在将 PDF 转换为 HTML 期间可以使用 以匹配此类特定要求的 HTML 准备模式
+description: 有时会出现对创建的 HTML 的特定要求 此枚举定义了在将 PDF 转换为 HTML 期间可以使用的 HTML 准备模式 以匹配此类特定要求
 type: docs
 weight: 3530
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
 
-有时会出现对创建的 HTML 的特定要求。 该枚举定义了在将 PDF 转换为 HTML 期间可以使用 以匹配此类特定要求的 HTML 准备模式。
+有时会出现对创建的 HTML 的特定要求。 此枚举定义了在将 PDF 转换为 HTML 期间可以使用的 HTML 准备模式 以匹配此类特定要求。
 
 ```csharp
 public enum HtmlMarkupGenerationModes
@@ -18,8 +18,8 @@ public enum HtmlMarkupGenerationModes
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| WriteAllHtml | `0` | 默认模式没有任何特定要求。 将生成包含 HTML 所有部分的输出，无需任何特殊的附加处理。 |
-| WriteOnlyBodyContent | `1` | 将被剥离 HTML 正文之外的所有 HTML 内容， 即只留下 &lt;body&gt;&lt;/body 内的内容&gt; 标签 |
+| WriteAllHtml | `0` | 默认模式没有任何特定要求。 将生成包含HTML 所有部分的输出，无需任何特殊的额外处理。 |
+| WriteOnlyBodyContent | `1` | 将被剥离 HTML 正文之外的所有 HTML 内容， 即只留下内部的内容标签 |
 
 ### 也可以看看
 

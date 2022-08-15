@@ -16,7 +16,7 @@ public Rectangle ToRect()
 
 ### 返回值
 
-转换结果。
+转换的结果。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: LineWidth
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置表示图形线宽的浮点值
+description: 获取或设置一个浮点值表示图形的线宽
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/graphinfo/linewidth/
 ---
 ## GraphInfo.LineWidth property
 
-获取或设置表示图形线宽的浮点值。
+获取或设置一个浮点值，表示图形的线宽。
 
 ```csharp
 public float LineWidth { get; set; }

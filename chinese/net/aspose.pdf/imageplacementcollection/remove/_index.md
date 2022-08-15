@@ -20,7 +20,7 @@ public bool Remove(ImagePlacement item)
 
 ### 返回值
 
-如果项目被删除则为真；否则为假。
+如果项目被删除，则为 true；否则为假。
 
 ### 也可以看看
 

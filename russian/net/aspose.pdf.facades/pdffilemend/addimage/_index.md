@@ -1,14 +1,14 @@
 ---
 title: AddImage
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет изображение на указанную страницу документа PDF по указанным координатам.
+description: Добавляет изображение на указанную страницу документа PDF с указанными координатами.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffilemend/addimage/
 ---
 ## AddImage(Stream, int, float, float, float, float) {#addimage}
 
-Добавляет изображение на указанную страницу документа PDF по указанным координатам.
+Добавляет изображение на указанную страницу документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -18,7 +18,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Входной поток изображения. |
-| pageNum | Int32 | Номер страницы, которая получит изображение. |
+| pageNum | Int32 | Номер страницы, на которую будет помещено изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый угол y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
@@ -26,7 +26,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 
@@ -49,7 +49,7 @@ mendor.Close();
 
 ## AddImage(Stream, int, float, float, float, float, CompositingParameters) {#addimage_1}
 
-Добавляет изображение на указанную страницу документа PDF по указанным координатам.
+Добавляет изображение на указанную страницу документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -59,7 +59,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Входной поток изображения. |
-| pageNum | Int32 | Номер страницы, которая получит изображение. |
+| pageNum | Int32 | Номер страницы, на которую будет помещено изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый угол y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
@@ -68,7 +68,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 
@@ -92,7 +92,7 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float) {#addimage_2}
 
-Добавляет изображение на указанные страницы документа PDF по указанным координатам.
+Добавляет изображение на указанные страницы документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -110,7 +110,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 
@@ -133,7 +133,7 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float, CompositingParameters) {#addimage_3}
 
-Добавляет изображение на указанные страницы документа PDF по указанным координатам.
+Добавляет изображение на указанные страницы документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -152,7 +152,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 
@@ -176,7 +176,7 @@ mendor.Close();
 
 ## AddImage(string, int, float, float, float, float) {#addimage_4}
 
-Добавляет изображение на указанную страницу документа PDF по указанным координатам.
+Добавляет изображение на указанную страницу документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -186,7 +186,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageName | String | Путь к входному файлу изображения. |
-| pageNum | Int32 | Номер страницы, которая получит изображение. |
+| pageNum | Int32 | Номер страницы, на которую будет помещено изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый угол y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
@@ -194,7 +194,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 
@@ -214,7 +214,7 @@ mendor.Close();
 
 ## AddImage(string, int, float, float, float, float, CompositingParameters) {#addimage_5}
 
-Добавляет изображение на указанную страницу документа PDF по указанным координатам.
+Добавляет изображение на указанную страницу документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -224,7 +224,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageName | String | Путь к входному файлу изображения. |
-| pageNum | Int32 | Номер страницы, которая получит изображение. |
+| pageNum | Int32 | Номер страницы, на которую будет помещено изображение. |
 | lowerLeftX | Single | Нижний левый x прямоугольника изображения. |
 | lowerLeftY | Single | Нижний левый угол y прямоугольника изображения. |
 | upperRightX | Single | Верхний правый x прямоугольника изображения. |
@@ -233,7 +233,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 
@@ -254,7 +254,7 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float) {#addimage_6}
 
-Добавляет изображение на указанные страницы документа PDF по указанным координатам.
+Добавляет изображение на указанные страницы документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -272,7 +272,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 
@@ -292,7 +292,7 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float, CompositingParameters) {#addimage_7}
 
-Добавляет изображение на указанные страницы документа PDF по указанным координатам.
+Добавляет изображение на указанные страницы документа PDF с указанными координатами.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -311,7 +311,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 
 ### Возвращаемое значение
 
-Истинно, если успех неверен, в противном случае.
+Истинно, если успех ложен, в противном случае.
 
 ### Примеры
 

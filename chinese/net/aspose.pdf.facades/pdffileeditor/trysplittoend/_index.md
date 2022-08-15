@@ -16,17 +16,17 @@ public bool TrySplitToEnd(string inputFile, int location, string outputFile)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputFile | String | 源 Pdf 文件。 |
-| location | Int32 | 分割位置。 |
+| inputFile | String | 源 PDF 文件。 |
+| location | Int32 | 分裂位置。 |
 | outputFile | String | 输出 Pdf 文件路径。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-TrySplitToEnd 方法类似于 SplitToEnd 方法，除了 TrySplitToEnd 方法不会抛出异常，如果操作失败。
+TrySplitToEnd 方法与 SplitToEnd 方法类似，不同之处在于 TrySplitToEnd 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -45,7 +45,7 @@ bool result = pfe.TrySplitToEnd("input.pdf", 5, "out.pdf");
 
 ## TrySplitToEnd(Stream, int, Stream) {#trysplittoend}
 
-从指定位置拆分，并将后面部分保存为新文件Stream。
+从指定位置拆分，并将后面部分保存为新文件 Stream.
 
 ```csharp
 public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -54,16 +54,16 @@ public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 源 Pdf 文件流。 |
-| location | Int32 | 分割位置。 |
-| outputStream | Stream | 输出 Pdf 文件流。 |
+| location | Int32 | 分裂位置。 |
+| outputStream | Stream | 输出 PDF 文件流。 |
 
 ### 返回值
 
-成功则为真，否则为假。
+真为成功，或为假。
 
 ### 评论
 
-在此操作之后不会关闭流，除非指定了 CloseConcatedStreams。 TrySplitToEnd 方法与 SplitToEnd 方法类似，只是 TrySplitToEnd 方法在操作失败时不会抛出异常。
+除非指定了 CloseConcatedStreams，否则不会在此操作后关闭流。 TrySplitToEnd 方法类似于 SplitToEnd 方法，只是 TrySplitToEnd 方法在操作失败时不会抛出异常。
 
 ### 例子
 
@@ -93,16 +93,16 @@ public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse respons
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | Stream | 源文档流。 |
-| location | Int32 | 分割点。 |
+| location | Int32 | 分裂点。 |
 | response | HttpResponse | HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TrySplitToEnd 方法类似于 SplitToEnd 方法，除了 TrySplitToEnd 方法不会抛出异常，如果操作失败。
+TrySplitToEnd 方法与 SplitToEnd 方法类似，不同之处在于 TrySplitToEnd 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 
@@ -123,16 +123,16 @@ public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | inputFile | String | 源文件名。 |
-| location | Int32 | 分割点。 |
+| location | Int32 | 分裂点。 |
 | response | HttpResponse | HttpResponse 对象。 |
 
 ### 返回值
 
-如果操作成功完成，则为真；否则为假。
+如果操作成功完成，则为 true；否则为假。
 
 ### 评论
 
-TrySplitToEnd 方法类似于 SplitToEnd 方法，除了 TrySplitToEnd 方法不会抛出异常，如果操作失败。
+TrySplitToEnd 方法与 SplitToEnd 方法类似，不同之处在于 TrySplitToEnd 方法在操作失败时不会抛出异常。
 
 ### 也可以看看
 

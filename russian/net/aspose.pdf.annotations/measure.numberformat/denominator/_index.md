@@ -1,14 +1,14 @@
 ---
 title: Denominator
 second_title: Aspose.PDF для справочника API .NET
-description: Если FractionDisplayment имеет значение ShowAsFraction это значение является знаменателем дроби. Значение по умолчанию16.
+description: Если FractionDisplayment имеет значение ShowAsFraction это значение является знаменателем дроби. Значение по умолчанию 16. .
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/denominator/
 ---
 ## Measure.NumberFormat.Denominator property
 
-Если FractionDisplayment имеет значение ShowAsFraction, это значение является знаменателем дроби. Значение по умолчанию:16.
+Если FractionDisplayment имеет значение ShowAsFraction, это значение является знаменателем дроби. Значение по умолчанию: 16. .
 
 ```csharp
 public int Denominator { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: BorderStyleBeveled
 second_title: Aspose.PDF для справочника API .NET
-description: Определяет скошенный стиль границы.
+description: Определяет стиль скошенной границы.
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderstylebeveled/
 ---
 ## FormFieldFacade.BorderStyleBeveled field
 
-Определяет скошенный стиль границы.
+Определяет стиль скошенной границы.
 
 ```csharp
 public const int BorderStyleBeveled;

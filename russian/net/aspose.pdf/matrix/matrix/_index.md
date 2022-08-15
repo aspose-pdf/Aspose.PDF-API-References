@@ -1,14 +1,14 @@
 ---
 title: Matrix
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор создает стандартную матрицу 1 к 1 ABCDEF   1 0 0 1 0 0
+description: Constructor создает стандартную матрицу 1 к 1 ABCDEF  1 0 0 1 0 0
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/matrix/matrix/
 ---
 ## Matrix() {#constructor}
 
-Конструктор создает стандартную матрицу 1 к 1: [ABCDEF] = [ 1, 0, 0, 1, 0, 0]
+Constructor создает стандартную матрицу 1 к 1: [ABCDEF] = [1, 0, 0, 1, 0, 0]
 
 ```csharp
 public Matrix()
@@ -30,7 +30,7 @@ Matrix m = new Matrix();
 
 ## Matrix(double[]) {#constructor_3}
 
-Конструктор принимает матрицу со следующим представлением массива: [ ABCDEF ]
+Constructor принимает матрицу со следующим представлением массива: [ABCDEF]
 
 ```csharp
 public Matrix(double[] matrixArray)
@@ -57,7 +57,7 @@ Matrix m = new Matrix(c);
 
 ## Matrix(float[]) {#constructor_4}
 
-Конструктор принимает матрицу со следующим представлением массива: [ ABCDEF ]
+Constructor принимает матрицу со следующим представлением массива: [ABCDEF]
 
 ```csharp
 public Matrix(float[] matrixArray)
@@ -77,7 +77,7 @@ public Matrix(float[] matrixArray)
 
 ## Matrix(Matrix) {#constructor_1}
 
-Конструктор принимает матрицу для создания копии
+Constructor принимает матрицу для создания копии
 
 ```csharp
 public Matrix(Matrix matrix)
@@ -85,7 +85,7 @@ public Matrix(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | Объект матрицы. |
+| matrix | Matrix | Матричный объект. |
 
 ### Смотрите также
 
@@ -107,10 +107,10 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 | --- | --- | --- |
 | a | Double | Значение матрицы. |
 | b | Double | Значение матрицы B. |
-| c | Double | Значение матрицы C. |
+| c | Double | Значение матрицы С. |
 | d | Double | Значение матрицы D. |
 | e | Double | Значение матрицы E. |
-| f | Double | Значение матрицы F. |
+| f | Double | Значение F-матрицы. |
 
 ### Примеры
 

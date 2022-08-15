@@ -1,14 +1,14 @@
 ---
 title: TreatTargetFileNameAsDirectory
 second_title: Aspose.PDF for .NET API 参考
-description: 此选项定义是否将创建目标目录 如果还没有与请求的输出文件同名 而不是请求的输出文件本身 这样该目录将包含页面的所有输出 SVG 图像如下所述 如果否则将在请求的目录 中精确创建除第一个以外的页面的输出文件作为主输出文件但将包含文件名后缀 _2... n这 由页码定义fe 如果您定义输出文件 CAsposeTestsoutput.svg 并且输出将包含多个页面的 svg 文件 然后页面文件也将在目录CAsposeTests中创建名称为output.svgoutput_2.svgoutput_3.svg等
+description: 此选项定义是否将创建与请求的输出文件 同名的目标目录 如果还没有而不是请求的输出文件本身 因此该目录将包含页面的所有输出 SVG 图像如下所述 . 如果否则除第一个以外的页面的输出文件将完全在请求的目录 中创建为主输出文件但将包含文件名后缀_2...n即 由页码定义如果您定义输出文件CAsposeTestsoutput.svg 并且输出将包含多个页面的 svg 文件 然后页面文件也将在目录CAsposeTests中创建并具有名称输出 svgoutput_2.svgoutput_3.svg等
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/
 ---
 ## SvgSaveOptions.TreatTargetFileNameAsDirectory field
 
-此选项定义是否将创建目标目录 （如果还没有）与请求的输出文件同名 而不是请求的输出文件本身。 这样，该目录将包含页面的所有输出 SVG 图像（如下所述）。 如果否，则将在请求的目录 中精确创建除第一个以外的页面的输出文件作为主输出文件，但将包含文件名后缀 _[2... n]，这 由页码定义，fe 如果您定义输出文件 "C:\AsposeTests\output.svg" 并且输出将包含多个页面的 svg 文件, 然后页面文件也将在目录“C:\AsposeTests\”中创建，名称为“output.svg”、“output_2.svg”、“output_3.svg”等。
+此选项定义是否将创建与请求的输出文件 同名的目标目录 （如果还没有），而不是请求的输出文件本身。 因此，该目录将包含页面的所有输出 SVG 图像（如下所述） . 如果否，则除第一个以外的页面的输出文件将完全在请求的目录 中创建为主输出文件，但将包含文件名后缀_[2...n]，即 由页码定义，如果您定义输出文件“C:\AsposeTests\output.svg” 并且输出将包含多个页面的 svg 文件， 然后页面文件也将在目录“C:\AsposeTests\”中创建，并具有名称“输出”。 svg'，'output_2.svg'，'output_3.svg'等
 
 ```csharp
 public bool TreatTargetFileNameAsDirectory;

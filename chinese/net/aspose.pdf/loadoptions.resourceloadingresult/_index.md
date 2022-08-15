@@ -18,22 +18,22 @@ public class ResourceLoadingResult
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ResourceLoadingResult](resourceloadingresult)(byte[]) | 创建加载结果实例 |
+| [ResourceLoadingResult](resourceloadingresult)(byte[]) | 创建加载结果的实例 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Data](../../aspose.pdf/resourceloadingresult/data) { get; } | 使用自定义加载器加载的二进制数据 - 加载后必须设置 |
+| [Data](../../aspose.pdf/resourceloadingresult/data) { get; } | 使用自定义加载器加载的二进制数据 - 必须在加载后设置 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
 | [EncodingIfKnown](../../aspose.pdf/resourceloadingresult/encodingifknown) | 有时资源的编码在加载之后或加载期间是已知的。 在这种情况下，自定义代码可以通过 此参数为转换器提供该知识。如果编码未知或无关紧要，您可以在此参数中保留 null。 |
-| [ExceptionOfLoadingIfAny](../../aspose.pdf/resourceloadingresult/exceptionofloadingifany) | 有时由于某种原因无法加载请求的资源。 资源不可用通常不会导致转换崩溃，并且 无论如何都可以创建结果文档（但质量可能稍差，没有图像等）。 如果加载过程中发生异常，只需将其捕获并放入此参数 - 有时该信息对于转换器渲染结果很有用。 |
-| [LoadingCancelled](../../aspose.pdf/resourceloadingresult/loadingcancelled) | 有时由于某些原因不应该加载自定义代码。在这种情况下 请将此标志设置为 True。在这种情况下，转换器将尝试使用内部默认 资源加载器来获取该结果（因为它在未提供自定义策略的情况下表现）。 |
-| [MIMETypeIfKnown](../../aspose.pdf/resourceloadingresult/mimetypeifknown) | 有时了解加载资源的 MIME 类型对转换器很有用 您可以在此提供 MIME 类型（如果加载后已知）范围。请 当 MIME 类型未知或不需要提供它时，请让参数等于 null。 |
+| [ExceptionOfLoadingIfAny](../../aspose.pdf/resourceloadingresult/exceptionofloadingifany) | 有时由于某种原因无法加载请求的资源。 资源不可用通常不会导致转换崩溃， 无论如何都可以创建结果文档（但质量可能稍差，没有图像等）。 如果发生异常在加载过程中，抓住它并输入这个参数 - 有时该信息对于转换器渲染结果很有用。 |
+| [LoadingCancelled](../../aspose.pdf/resourceloadingresult/loadingcancelled) | 有时由于某些原因加载不应该发生自定义代码。在这种情况下 请将此标志设置为 True。在这种情况下，转换器将尝试使用内部 default 资源加载器来获得该结果（因为它在未提供自定义策略的情况下表现）. |
+| [MIMETypeIfKnown](../../aspose.pdf/resourceloadingresult/mimetypeifknown) | 有时了解加载资源的 MIME 类型对转换器很有用 您可以在此参数中提供 MIME 类型（如果加载后已知）。 Please 当 MIME 类型未知或不需要提供它时，请让参数等于 null。 |
 
 ### 也可以看看
 

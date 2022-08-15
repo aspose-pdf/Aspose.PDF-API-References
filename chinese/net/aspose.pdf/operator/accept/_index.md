@@ -16,7 +16,7 @@ public abstract void Accept(IOperatorSelector visitor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | 访问者对象 |
+| visitor | IOperatorSelector | 访客对象 |
 
 ### 也可以看看
 

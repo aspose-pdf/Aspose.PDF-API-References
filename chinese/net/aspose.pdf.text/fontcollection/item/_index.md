@@ -33,7 +33,7 @@ public Font this[int index] { get; }
 
 ## FontCollection indexer (2 of 2)
 
-通过字体名称从集合中获取字体。 如果找不到字体，则抛出异常。
+按字体名称从集合中获取字体。 如果找不到字体，则抛出异常。
 
 ```csharp
 public Font this[string name] { get; }

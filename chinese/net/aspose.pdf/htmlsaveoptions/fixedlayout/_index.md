@@ -16,7 +16,7 @@ public bool FixedLayout { get; set; }
 
 ### 适当的价值
 
-` true` if [固定布局];否则，` false` 。
+`真的` if [固定布局];否则，`错误的`.
 
 ### 也可以看看
 

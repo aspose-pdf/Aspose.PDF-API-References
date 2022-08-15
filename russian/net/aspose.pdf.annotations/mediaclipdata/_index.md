@@ -18,7 +18,7 @@ public class MediaClipData : MediaClip
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.pdf.annotations/mediaclipdata/data) { get; } | Возвращает спецификацию файла, которая содержит фактические медиаданные. |
+| [Data](../../aspose.pdf.annotations/mediaclipdata/data) { get; } | Спецификация возвращаемого файла, которая содержит фактические медиаданные . |
 
 ### Смотрите также
 

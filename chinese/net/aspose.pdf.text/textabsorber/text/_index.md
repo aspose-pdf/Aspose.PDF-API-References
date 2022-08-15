@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API 参考
-description: 获取TextAbsorberaspose.pdf.text/textabsorber在 PDF 文档或页面上提取的提取文本
+description: 获取提取的文本TextAbsorberaspose.pdf.text/textabsorber在 PDF 文档或页面上提取
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/textabsorber/text/
 ---
 ## TextAbsorber.Text property
 
-获取[`TextAbsorber`](../../textabsorber)在 PDF 文档或页面上提取的提取文本。
+获取提取的文本[`TextAbsorber`](../../textabsorber)在 PDF 文档或页面上提取。
 
 ```csharp
 public virtual string Text { get; }
@@ -20,17 +20,16 @@ public virtual string Text { get; }
 
 ```csharp
 // 打开文档
-cument doc = new Document(inFile);
+Document doc = new Document(inFile);
 
-// 创建 TextAbsorber 对象以提取 text
-xtAbsorber absorber = new TextAbsorber();
+// 创建 TextAbsorber 对象以提取文本
+TextAbsorber absorber = new TextAbsorber();
 
-// 接受所有文档 pages
+// 接受所有文档页面的吸收器
+doc.Pages.Accept(absorber);
 
-c.Pages.Accept(absorber);
-
-// 获取提取的 text
-ring extractedText = absorber.Text;
+// 获取提取的文本
+string extractedText = absorber.Text;
 
 ```
 

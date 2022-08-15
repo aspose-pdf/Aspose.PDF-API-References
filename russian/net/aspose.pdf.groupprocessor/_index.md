@@ -1,12 +1,12 @@
 ---
 title: Aspose.Pdf.GroupProcessor
 second_title: Aspose.PDF для справочника API .NET
-description: Пространство имен Aspose.Pdf.GroupProcessor предоставляет классы используемые для работы с текстом и шрифтами.
+description: Aspose.Pdf.GroupProcessor namespace предоставляет классы используемые для работы с текстом и шрифтами.
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.groupprocessor/
 ---
-Пространство имен **Aspose.Pdf.GroupProcessor** предоставляет классы, используемые для работы с текстом и шрифтами.
+**Aspose.Pdf.GroupProcessor** namespace предоставляет классы, используемые для работы с текстом и шрифтами.
 
 ## Классы
 

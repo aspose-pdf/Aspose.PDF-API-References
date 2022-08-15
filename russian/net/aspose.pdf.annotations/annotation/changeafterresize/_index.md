@@ -1,14 +1,14 @@
 ---
 title: ChangeAfterResize
 second_title: Aspose.PDF для справочника API .NET
-description: Обновить параметры и внешний вид в соответствии с преобразованием матрицы.
+description: Обновить параметры и внешний вид в соответствии с матричным преобразованием.
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.annotations/annotation/changeafterresize/
 ---
 ## Annotation.ChangeAfterResize method
 
-Обновить параметры и внешний вид в соответствии с преобразованием матрицы.
+Обновить параметры и внешний вид в соответствии с матричным преобразованием.
 
 ```csharp
 public virtual void ChangeAfterResize(Matrix transform)

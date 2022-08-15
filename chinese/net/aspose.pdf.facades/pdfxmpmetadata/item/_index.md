@@ -53,7 +53,7 @@ public XmpValue this[DefaultMetadataProperties key] { get; set; }
 
 ### 返回值
 
-XMP 元数据中的值。
+来自 XMP 元数据的值。
 
 ### 例子
 

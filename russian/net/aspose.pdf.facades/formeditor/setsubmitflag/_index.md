@@ -16,8 +16,8 @@ public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя кнопки отправки. |
-| submitFormFlag | SubmitFormFlag | Флаг отправки. |
+| fieldName | String | Название кнопки отправки. |
+| submitFormFlag | SubmitFormFlag | Отправить флаг. |
 
 ### Возвращаемое значение
 

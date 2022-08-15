@@ -1,14 +1,14 @@
 ---
 title: XmpPdfAExtensionCategoryType
 second_title: Aspose.PDF для справочника API .NET
-description: Категория свойствавнутреннее или внешнее.
+description: Категория недвижимости внутренняя или внешняя.
 type: docs
 weight: 7480
 url: /ru/net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
 ## XmpPdfAExtensionCategoryType enumeration
 
-Категория свойства:внутреннее или внешнее.
+Категория недвижимости: внутренняя или внешняя.
 
 ```csharp
 public enum XmpPdfAExtensionCategoryType
@@ -19,7 +19,7 @@ public enum XmpPdfAExtensionCategoryType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Internal | `0` | Внутренние свойства создаются автоматически из содержимого документа. |
-| External | `1` | Внешние свойства основаны на пользовательском вводе. |
+| External | `1` | Внешние свойства основаны на данных, введенных пользователем. |
 
 ### Смотрите также
 

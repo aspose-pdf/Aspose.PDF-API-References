@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API 参考
-description: 为指定键添加 X 形式
+description: 为指定的键添加 X 形式
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/add/
 ---
 ## Add(string, XForm) {#add_2}
 
-为指定键添加 X 形式。
+为指定的键添加 X 形式。
 
 ```csharp
 public void Add(string key, XForm value)
@@ -16,7 +16,7 @@ public void Add(string key, XForm value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 元素键。 |
+| key | String | 元素键. |
 | value | XForm | XForm 对象值。 |
 
 ### 也可以看看

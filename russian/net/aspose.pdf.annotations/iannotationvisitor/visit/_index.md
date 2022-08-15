@@ -134,7 +134,7 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_16}
 
-Посетите/выберите аннотацию strikeOut.
+Посетите/выберите зачеркнутую аннотацию.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
@@ -218,7 +218,7 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_1}
 
-Посетите/выберите круговую аннотацию.
+Посетите/выберите аннотацию круга.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -386,7 +386,7 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(MovieAnnotation) {#visit_8}
 
-Посетите/выберите аннотацию фильма.
+Посетите/выберите аннотацию к фильму.
 
 ```csharp
 public void Visit(MovieAnnotation movie)

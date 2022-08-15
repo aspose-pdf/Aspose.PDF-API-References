@@ -18,13 +18,13 @@ public class TimestampSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TimestampSettings](timestampsettings)(string, string, DigestHashAlgorithm) | 初始化[`TimestampSettings`](../timestampsettings)类的新实例。 |
+| [TimestampSettings](timestampsettings)(string, string, DigestHashAlgorithm) | 初始化[`TimestampSettings`](../timestampsettings)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials) { get; set; } | 获取/设置基本身份验证凭据，用户名和密码组合成字符串“用户名:密码”。 |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials) { get; set; } | 获取/设置基本身份验证凭据，用户名和密码组合成一个字符串“用户名：密码”。 |
 | [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm) { get; set; } | 获取/设置内部散列函数的摘要算法。 |
 | [ServerUrl](../../aspose.pdf/timestampsettings/serverurl) { get; set; } | 获取/设置时间戳服务器 url。 |
 

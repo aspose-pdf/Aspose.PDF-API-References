@@ -1,14 +1,14 @@
 ---
 title: ImageResolutionX
 second_title: Aspose.PDF для справочника API .NET
-description: Преобразованные изображения X-разрешения.
+description: Преобразованные изображения с разрешением X.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/docsaveoptions/imageresolutionx/
 ---
 ## DocSaveOptions.ImageResolutionX property
 
-Преобразованные изображения X-разрешения.
+Преобразованные изображения с разрешением X.
 
 ```csharp
 public int ImageResolutionX { get; set; }

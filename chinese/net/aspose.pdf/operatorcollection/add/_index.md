@@ -20,7 +20,7 @@ public override void Add(Operator op)
 
 ### 例子
 
-示例演示如何将运算符添加到 page.contents 的末尾。
+示例演示如何将运算符添加到 page.contents. 的末尾
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -39,7 +39,7 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ## Add(Operator[]) {#add_1}
 
-在内容运算符的末尾添加运算符。
+在内容操作符末尾添加操作符。
 
 ```csharp
 public void Add(Operator[] ops)
@@ -78,7 +78,7 @@ public void Add(ICollection<Operator> ops)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| ops | ICollection`1 | 集合包含将添加的运算符。 |
+| ops | ICollection`1 | 集合 witch 包含将添加的运算符。 |
 
 ### 例子
 

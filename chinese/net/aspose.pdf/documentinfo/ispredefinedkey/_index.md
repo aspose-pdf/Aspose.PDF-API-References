@@ -16,11 +16,11 @@ public static bool IsPredefinedKey(string key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 选择的键 |
+| key | String | 选定的键 |
 
 ### 返回值
 
-如果键是预定义的，则为真.
+如果密钥是预定义的，则为真。
 
 ### 也可以看看
 

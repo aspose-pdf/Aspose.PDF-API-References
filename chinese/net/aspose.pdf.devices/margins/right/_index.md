@@ -16,7 +16,7 @@ public int Right { get; set; }
 
 ### 适当的价值
 
-右边。
+正确的。
 
 ### 也可以看看
 

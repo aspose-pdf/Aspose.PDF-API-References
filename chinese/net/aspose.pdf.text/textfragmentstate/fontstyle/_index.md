@@ -1,14 +1,14 @@
 ---
 title: FontStyle
 second_title: Aspose.PDF for .NET API 参考
-description: 设置文本的字体样式由TextFragmentaspose.pdf.text/textfragmentobject 表示
+description: 设置文本的字体样式由TextFragmentaspose.pdf.text/textfragmentobject
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textfragmentstate/fontstyle/
 ---
 ## TextFragmentState.FontStyle property
 
-设置文本的字体样式，由[`TextFragment`](../../textfragment)object 表示
+设置文本的字体样式，由[`TextFragment`](../../textfragment)object
 
 ```csharp
 public override FontStyles FontStyle { get; set; }

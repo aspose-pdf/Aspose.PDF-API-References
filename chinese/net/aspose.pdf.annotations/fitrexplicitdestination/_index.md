@@ -1,14 +1,14 @@
 ---
 title: FitRExplicitDestination
 second_title: Aspose.PDF for .NET API 参考
-description: 表示显示页面的显式目的地其内容被放大到刚好适合由左下右和顶部坐标指定的矩形水平和完全位于窗口内垂直如果所需的水平和垂直放大系数不同请使用两者中较小的一个将矩形在另一个维度的窗口中居中任何参数的空值都可能导致不可预知的行为
+description: 表示显示页面的显式目标其内容被放大到刚好适合水平和垂直窗口内由左下右和上坐标指定的矩形如果所需的水平和垂直放大系数不同请使用两者中较小的一个将矩形在另一个维度的窗口中居中任何参数的空值都可能导致不可预知的行为
 type: docs
 weight: 400
 url: /zh/net/aspose.pdf.annotations/fitrexplicitdestination/
 ---
 ## FitRExplicitDestination class
 
-表示显示页面的显式目的地，其内容被放大到刚好适合由左、下、右和顶部坐标指定的矩形，水平和完全位于窗口内垂直。如果所需的水平和垂直放大系数不同，请使用两者中较小的一个，将矩形在另一个维度的窗口中居中。任何参数的空值都可能导致不可预知的行为。
+表示显示页面的显式目标，其内容被放大到刚好适合水平和垂直窗口内由左、下、右和上坐标指定的矩形。如果所需的水平和垂直放大系数不同，请使用两者中较小的一个，将矩形在另一个维度的窗口中居中。任何参数的空值都可能导致不可预知的行为。
 
 ```csharp
 public sealed class FitRExplicitDestination : ExplicitDestination
@@ -19,7 +19,7 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 | 姓名 | 描述 |
 | --- | --- |
 | [FitRExplicitDestination](fitrexplicitdestination#constructor_2)(int, double, double, double, double) | 创建远程显式目标。 |
-| [FitRExplicitDestination](fitrexplicitdestination#constructor_1)(Page, double, double, double, double) | 创建本地显式目的地。 |
+| [FitRExplicitDestination](fitrexplicitdestination#constructor_1)(Page, double, double, double, double) | 创建本地显式目标。 |
 
 ## 特性
 
@@ -36,7 +36,7 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例:“1 FitR 100 200 300 400”。 |
+| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring)() | 将对象状态转换为字符串值。示例：“1 FitR 100 200 300 400”. |
 
 ### 也可以看看
 

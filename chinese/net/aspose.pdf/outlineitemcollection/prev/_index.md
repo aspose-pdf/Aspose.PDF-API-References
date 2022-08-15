@@ -1,14 +1,14 @@
 ---
 title: Prev
 second_title: Aspose.PDF for .NET API 参考
-description: 获取在大纲层次结构中表示前一项相对于本项的大纲项
+description: 获取在大纲层次结构中相对于本项表示前一项的大纲项
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf/outlineitemcollection/prev/
 ---
 ## OutlineItemCollection.Prev property
 
-获取在大纲层次结构中表示前一项相对于本项的大纲项。
+获取在大纲层次结构中相对于本项表示前一项的大纲项。
 
 ```csharp
 public OutlineItemCollection Prev { get; }

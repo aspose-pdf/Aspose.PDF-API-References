@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions.CssSavingStrategy
 second_title: Aspose.PDF for .NET API 参考
-description: 您可以将实现处理 或/和保存在 PDF 转换为 HTML 期间创建的一个 CSS 部分的自定义策略分配给此属性. 在这种情况下处理如保存到流或磁盘 必须在该自定义代码中完成
+description: 您可以将实现处理的自定义策略分配给此属性 或/和保存在将 PDF 转换为 HTML 期间创建的一个 CSS 部分 在这种情况下处理如保存到流或磁盘 必须在该自定义中完成代码
 type: docs
 weight: 3460
 url: /zh/net/aspose.pdf/htmlsaveoptions.csssavingstrategy/
 ---
 ## HtmlSaveOptions.CssSavingStrategy delegate
 
-您可以将实现处理 或/和保存在 PDF 转换为 HTML 期间创建的一个 CSS 部分的自定义策略分配给此属性. 在这种情况下处理（如保存到流或磁盘） 必须在该自定义代码中完成
+您可以将实现处理的自定义策略分配给此属性 或/和保存在将 PDF 转换为 HTML 期间创建的一个 CSS 部分。 在这种情况下，处理（如保存到流或磁盘） 必须在该自定义中完成代码
 
 ```csharp
 public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);

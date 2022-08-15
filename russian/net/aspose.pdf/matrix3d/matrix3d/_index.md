@@ -1,14 +1,14 @@
 ---
 title: Matrix3D
 second_title: Aspose.PDF для справочника API .NET
-description: Конструктор создает стандартную матрицу 1 к 1  ABCDEFGHI Tx Ty Tz   1 0 0  0 1 0 0 0 1 0 0  0
+description: Constructor создает стандартную матрицу 1 к 1  ABCDEFGHI Tx Ty Tz   1 0 0 0 1 0 0 0 1 0 0  0
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/matrix3d/matrix3d/
 ---
 ## Matrix3D() {#constructor}
 
-Конструктор создает стандартную матрицу 1 к 1: [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0 , 0, 1, 0, 0, 0, 1, 0, 0 , 0]
+Constructor создает стандартную матрицу 1 к 1: [ ABCDEFGHI Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0]
 
 ```csharp
 public Matrix3D()
@@ -30,7 +30,7 @@ Matrix3D m = new Matrix3D();
 
 ## Matrix3D(double[]) {#constructor_3}
 
-Конструктор принимает матрицу со следующим представлением массива: [ ABCDEFGHI Tx Ty Tz]
+Constructor принимает матрицу со следующим представлением массива: [ABCDEFGHI Tx Ty Tz]
 
 ```csharp
 public Matrix3D(double[] matrix3DArray)
@@ -57,7 +57,7 @@ Matrix3D m = new Matrix3D(c);
 
 ## Matrix3D(Matrix3D) {#constructor_1}
 
-Конструктор принимает матрицу для создания копии
+Constructor принимает матрицу для создания копии
 
 ```csharp
 public Matrix3D(Matrix3D matrix)
@@ -88,16 +88,16 @@ public Matrix3D(double a, double b, double c, double d, double e, double f, doub
 | --- | --- | --- |
 | a | Double | Значение матрицы. |
 | b | Double | Значение матрицы B. |
-| c | Double | Значение матрицы C. |
+| c | Double | Значение матрицы С. |
 | d | Double | Значение матрицы D. |
 | e | Double | Значение матрицы E. |
-| f | Double | Значение матрицы F. |
+| f | Double | Значение F-матрицы. |
 | g | Double | Значение матрицы G. |
 | h | Double | Значение матрицы H. |
 | i | Double | I значение матрицы. |
 | tx | Double | Значение матрицы TX. |
 | ty | Double | Значение матрицы TY. |
-| tz | Double | Значение матрицы TZ. |
+| tz | Double | Значение матрицы ТЗ. |
 
 ### Примеры
 

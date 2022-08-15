@@ -25,7 +25,7 @@ public sealed class GoToRemoteAction : GoToAction
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination) { get; set; } | 获取或设置要跳转到的目的地。 |
+| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination) { get; set; } | 获取或设置跳转的目的地。 |
 | [File](../../aspose.pdf.annotations/gotoremoteaction/file) { get; set; } | 获取或设置目标所在文件的规范。 |
 | [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow) { get; set; } | 获取或设置一个标志，指定是否在新窗口中打开目标文档。 |
 | [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | 按顺序执行下一步操作。 |

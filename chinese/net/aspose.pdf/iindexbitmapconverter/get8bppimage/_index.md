@@ -1,14 +1,14 @@
 ---
 title: Get8BppImage
 second_title: Aspose.PDF for .NET API 参考
-description: 返回 8Bpp 位图表示
+description: 返回 8Bpp 位图表示形式
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/iindexbitmapconverter/get8bppimage/
 ---
 ## IIndexBitmapConverter.Get8BppImage method
 
-返回 8Bpp 位图表示
+返回 8Bpp 位图表示形式
 
 ```csharp
 public Bitmap Get8BppImage(Bitmap src)

@@ -17,7 +17,7 @@ public static void ConvertXmlToFdf(Stream sourceXml, Stream destFdf)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourceXml | Stream | Исходный поток, содержащий файл XML. |
-| destFdf | Stream | Источник назначения, в котором будет сохранен результирующий файл FDF. |
+| destFdf | Stream | Целевой источник, в котором будет храниться результирующий файл FDF. |
 
 ### Смотрите также
 

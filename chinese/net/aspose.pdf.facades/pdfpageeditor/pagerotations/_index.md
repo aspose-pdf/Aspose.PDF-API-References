@@ -1,14 +1,14 @@
 ---
 title: PageRotations
 second_title: Aspose.PDF for .NET API 参考
-description: 哈希表包含页码和旋转度数 key 表示页码key 的值表示旋转度数
+description: 一个哈希表包含页码和旋转度数 key代表页码key的值代表旋转度数
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/pagerotations/
 ---
 ## PdfPageEditor.PageRotations property
 
-哈希表包含页码和旋转度数， key 表示页码，key 的值表示旋转度数。
+一个哈希表包含页码和旋转度数， key代表页码，key的值代表旋转度数。
 
 ```csharp
 public Dictionary<int, int> PageRotations { get; set; }

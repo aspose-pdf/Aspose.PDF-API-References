@@ -20,7 +20,7 @@ public static string MyHtmlEncode(string value)
 
 ### Возвращаемое значение
 
-Строка в формате Html.
+Строка в кодировке HTML.
 
 ### Смотрите также
 

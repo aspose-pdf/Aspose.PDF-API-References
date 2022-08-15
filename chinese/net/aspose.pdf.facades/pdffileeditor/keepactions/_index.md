@@ -1,14 +1,14 @@
 ---
 title: KeepActions
 second_title: Aspose.PDF for .NET API 参考
-description: 如果真正的动作将从源文档中复制默认值true
+description: 如果真实的操作将从源文档中复制默认值true.
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
 ## PdfFileEditor.KeepActions property
 
-如果真正的动作将从源文档中复制。默认值:true。
+如果真实的操作将从源文档中复制。默认值：true.
 
 ```csharp
 public bool KeepActions { get; set; }

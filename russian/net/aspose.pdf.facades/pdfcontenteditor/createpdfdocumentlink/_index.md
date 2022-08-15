@@ -18,11 +18,11 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| remotePdf | String | PDF-документ, страница которого будет открыта. |
+| remotePdf | String | Документ PDF, страница которого будет открыта. |
 | originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
 | destinationPage | Int32 | Страница назначения. |
 | clr | Color | Цвет прямоугольника для активного клика. |
-| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в программе просмотра Acrobat. |
+| actionName | Enum[] | Массив действий (членов перечисления PredefinedAction), соответствующих выполнению пунктов меню в средстве просмотра Acrobat. |
 
 ### Примеры
 
@@ -55,7 +55,7 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| remotePdf | String | PDF-документ, страница которого будет открыта. |
+| remotePdf | String | Документ PDF, страница которого будет открыта. |
 | originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
 | destinationPage | Int32 | Страница назначения. |
 | clr | Color | Цвет прямоугольника для активного клика. |
@@ -90,7 +90,7 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| remotePdf | String | PDF-документ, страница которого будет открыта. |
+| remotePdf | String | Документ PDF, страница которого будет открыта. |
 | originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, связанный ссылкой. |
 | destinationPage | Int32 | Страница назначения. |
 

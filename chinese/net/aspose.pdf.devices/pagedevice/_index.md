@@ -1,14 +1,14 @@
 ---
 title: PageDevice
 second_title: Aspose.PDF for .NET API 参考
-description: 所有设备的抽象类用于处理 pdf 文档的特定页面
+description: 用于处理 pdf 文档特定页面的所有设备的抽象类
 type: docs
 weight: 1740
 url: /zh/net/aspose.pdf.devices/pagedevice/
 ---
 ## PageDevice class
 
-所有设备的抽象类，用于处理 pdf 文档的特定页面。
+用于处理 pdf 文档特定页面的所有设备的抽象类。
 
 ```csharp
 public abstract class PageDevice : Device

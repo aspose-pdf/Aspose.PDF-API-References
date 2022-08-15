@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PDF для справочника API .NET
-description: Добавляет заданное сечение в массив представлений.
+description: Добавляет указанное сечение в массив видов .
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/
 ---
 ## PDF3DCrossSectionArray.Add method
 
-Добавляет заданное сечение в массив представлений.
+Добавляет указанное сечение в массив видов .
 
 ```csharp
 public void Add(PDF3DCrossSection crossSection)

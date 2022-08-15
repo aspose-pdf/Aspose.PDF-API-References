@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземплярPositionaspose.pdf.text/positionclass
+description: Инициализирует новый экземплярPositionaspose.pdf.text/position класс
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/position/position/
 ---
 ## Position constructor
 
-Инициализирует новый экземпляр[`Position`](../../position)class
+Инициализирует новый экземпляр[`Position`](../../position) класс
 
 ```csharp
 public Position(double xIndent, double yIndent)

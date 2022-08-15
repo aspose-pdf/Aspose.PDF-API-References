@@ -1,14 +1,14 @@
 ---
 title: PdfHostPageNumber
 second_title: Aspose.PDF for .NET API 参考
-description: 由转换器设置 如果设置了 SplitToPages 属性则在转换 created 期间会创建多个 HTML 文件每个转换页面一个 HTML 文件  此属性告诉自定义代码从创建原始 PDF 的哪个页面保存的 HTML 标记 如果由于某种原因原始页码未知或 SplitOnPagesfalse则此属性始终包含 0 表示转换器无法为提供的 HTML 提供准确的原始 PDF 的页码-标记文件
+description: 由转换器设置 如果设置了 SplitToPages 属性则在创建转换期间会创建多个 HTML 文件每个转换后的页面一个 HTML 文件  此属性告诉自定义代码从创建原始 PDF 的哪个页面保存的 HTML 标记. 如果由于某种原因原始页码未知或SplitOnPages  false则此属性始终包含0 表示转换器无法为提供的HTML标记文件提供精确的原始PDF页码
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/pdfhostpagenumber/
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.PdfHostPageNumber field
 
-由转换器设置。 如果设置了 SplitToPages 属性，则在转换 created 期间会创建多个 HTML 文件（每个转换页面一个 HTML 文件） 。 此属性告诉自定义代码从创建原始 PDF 的哪个页面保存的 HTML 标记。 如果由于某种原因原始页码未知或 SplitOnPages=false，则此属性始终包含 '0' 表示转换器无法为提供的 HTML 提供准确的原始 PDF 的页码-标记文件。
+由转换器设置。 如果设置了 SplitToPages 属性，则在创建转换期间会创建多个 HTML 文件（每个转换后的页面一个 HTML 文件） 。 此属性告诉自定义代码从创建原始 PDF 的哪个页面保存的 HTML 标记. 如果由于某种原因原始页码未知或SplitOnPages = false，则此属性始终包含'0' 表示转换器无法为提供的HTML标记文件提供精确的原始PDF页码。
 
 ```csharp
 public int PdfHostPageNumber;

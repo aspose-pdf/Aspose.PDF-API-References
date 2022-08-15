@@ -16,7 +16,7 @@ public XmpValue Value { get; }
 
 ### 适当的价值
 
-值。
+价值。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API 参考
-description: 将对象状态转换为字符串值示例1 适合
+description: 将对象状态转换为字符串值示例1 适合.
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/fitexplicitdestination/tostring/
 ---
 ## FitExplicitDestination.ToString method
 
-将对象状态转换为字符串值。示例:“1 适合”。
+将对象状态转换为字符串值。示例：“1 适合”.
 
 ```csharp
 public override string ToString()

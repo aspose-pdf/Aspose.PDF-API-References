@@ -1,14 +1,14 @@
 ---
 title: ReplaceImage
 second_title: Aspose.PDF for .NET API 参考
-description: 将PDF文档指定页面上的指定图像替换为另一个图像
+description: 将 PDF 文档指定页面上的指定图像替换为另一个图像
 type: docs
 weight: 440
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/replaceimage/
 ---
 ## PdfContentEditor.ReplaceImage method
 
-将PDF文档指定页面上的指定图像替换为另一个图像。
+将 PDF 文档指定页面上的指定图像替换为另一个图像。
 
 ```csharp
 public void ReplaceImage(int pageNumber, int index, string imageFile)

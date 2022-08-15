@@ -1,16 +1,16 @@
 ---
 title: Content
 second_title: Aspose.PDF for .NET API 参考
-description: 获取标记内容参考元素的文本内容
+description: 获取标记内容引用元素的文本内容
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/mcrelement/content/
 ---
 ## MCRElement.Content property
 
-获取标记内容参考元素的文本内容。
+获取标记内容引用元素的文本内容。
 
-对于刚刚创建的对象，实现[`ITextElement`](../../itextelement)。在其他情况下为 null。
+对于刚刚创建的对象实现[`ITextElement`](../../itextelement).在其他情况下为 null。
 
 ```csharp
 public string Content { get; }

@@ -16,11 +16,11 @@ public static int RotationToInt(Rotation rotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rotation | Rotation | 旋转枚举成员。 |
+| rotation | Rotation | 轮换枚举成员。 |
 
 ### 返回值
 
-对应整数值
+对应的整数值
 
 ### 也可以看看
 

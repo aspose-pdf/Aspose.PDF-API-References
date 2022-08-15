@@ -1,14 +1,14 @@
 ---
 title: LocalHyperlink
 second_title: Aspose.PDF for .NET API 参考
-description: 初始化LocalHyperlinkaspose.pdf/localhyperlink类的新实例
+description: 初始化LocalHyperlinkaspose.pdf/localhyperlink类.
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/localhyperlink/localhyperlink/
 ---
 ## LocalHyperlink() {#constructor}
 
-初始化[`LocalHyperlink`](../../localhyperlink)类的新实例。
+初始化[`LocalHyperlink`](../../localhyperlink)类.
 
 ```csharp
 public LocalHyperlink()
@@ -24,7 +24,7 @@ public LocalHyperlink()
 
 ## LocalHyperlink(BaseParagraph) {#constructor_1}
 
-初始化[`LocalHyperlink`](../../localhyperlink)类的新实例。
+初始化[`LocalHyperlink`](../../localhyperlink)类.
 
 ```csharp
 public LocalHyperlink(BaseParagraph target)

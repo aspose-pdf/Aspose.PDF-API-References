@@ -17,11 +17,11 @@ public static XForm CreateNewForm(Page source, Document document)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | source | Page | Исходная страница |
-| document | Document | Документ, в котором будет находиться новая XForm быть добавлено. |
+| document | Document | Документ, в который будет добавлен новый XForm. |
 
 ### Возвращаемое значение
 
-Недавно созданная XForm.
+Только что созданная форма XForm.
 
 ### Смотрите также
 

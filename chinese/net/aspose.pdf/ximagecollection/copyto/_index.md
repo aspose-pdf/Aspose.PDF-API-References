@@ -17,7 +17,7 @@ public void CopyTo(XImage[] array, int index)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | array | XImage[] | 要复制的数组。 |
-| index | Int32 | 图像将被复制到集合中的索引。 |
+| index | Int32 | 将图像复制到集合中的索引。 |
 
 ### 也可以看看
 

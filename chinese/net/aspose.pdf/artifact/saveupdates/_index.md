@@ -1,14 +1,14 @@
 ---
 title: SaveUpdates
 second_title: Aspose.PDF for .NET API 参考
-description: 在 BeginUpdates 调用之后保存工件中的所有更新
+description: 保存在 BeginUpdates 调用之后进行的工件中的所有更新
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf/artifact/saveupdates/
 ---
 ## Artifact.SaveUpdates method
 
-在 BeginUpdates() 调用之后保存工件中的所有更新。
+保存在 BeginUpdates() 调用之后进行的工件中的所有更新。
 
 ```csharp
 public void SaveUpdates()

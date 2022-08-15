@@ -8,7 +8,7 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/role_cb/
 ---
 ## AttributeName.Role_cb field
 
-属性角色:cb - 复选框。
+属性角色：cb - 复选框。
 
 ```csharp
 public static readonly AttributeName Role_cb;

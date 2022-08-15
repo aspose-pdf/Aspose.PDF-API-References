@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает заголовок оглавления.
+description: Получает или задает заголовок оглавления.
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/tocinfo/title/
 ---
 ## TocInfo.Title property
 
-Получает или устанавливает заголовок оглавления.
+Получает или задает заголовок оглавления.
 
 ```csharp
 public TextFragment Title { get; set; }

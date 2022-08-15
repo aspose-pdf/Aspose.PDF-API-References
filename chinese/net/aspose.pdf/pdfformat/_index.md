@@ -1,14 +1,14 @@
 ---
 title: PdfFormat
 second_title: Aspose.PDF for .NET API 参考
-description: 此类表示 pdf 格式
+description: 这个类代表一个pdf格式
 type: docs
 weight: 6020
 url: /zh/net/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enumeration
 
-此类表示 pdf 格式。
+这个类代表一个pdf格式。
 
 ```csharp
 public enum PdfFormat

@@ -1,14 +1,14 @@
 ---
 title: QuadPoints
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置指定 n 个四边形坐标的点数组每个四边形包含注释下的文本中的一个单词或一组连续的单词
+description: 获取或设置指定 n 个四边形坐标的点数组每个四边形包含注释下的文本中的一个单词或一组连续单词
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/textmarkupannotation/quadpoints/
 ---
 ## TextMarkupAnnotation.QuadPoints property
 
-获取或设置指定 n 个四边形坐标的点数组。每个四边形包含注释下的文本中的一个单词或一组连续的单词。
+获取或设置指定 n 个四边形坐标的点数组。每个四边形包含注释下的文本中的一个单词或一组连续单词。
 
 ```csharp
 public Point[] QuadPoints { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или устанавливает назначение по его имени.
+description: Получает или устанавливает встречу по ее имени.
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/nameddestinationcollection/item/
 ---
 ## NamedDestinationCollection indexer
 
-Получает или устанавливает назначение по его имени.
+Получает или устанавливает встречу по ее имени.
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,7 +16,7 @@ public IAppointment this[string name] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя встречи. |
+| name | Название встречи. |
 
 ### Возвращаемое значение
 

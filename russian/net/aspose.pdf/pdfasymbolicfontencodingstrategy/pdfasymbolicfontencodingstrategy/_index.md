@@ -53,7 +53,7 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | подтаблица кодирования, которая будет использоваться в приоритете подтаблица Mac (1,0) |
+| preferredEncodingTable | CMapEncodingTableType | подтаблица кодирования, которая будет использоваться в приоритете над подтаблицей mac(1,0) |
 
 ### Смотрите также
 

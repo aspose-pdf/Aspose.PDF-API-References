@@ -1,14 +1,14 @@
 ---
 title: Justify
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает значение выравнивает ли текст.
+description: Получает или задает значение независимо от того выравнивается ли текст.
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textparagraph/justify/
 ---
 ## TextParagraph.Justify property
 
-Получает или задает значение, выравнивает ли текст.
+Получает или задает значение, независимо от того, выравнивается ли текст.
 
 ```csharp
 public bool Justify { get; set; }

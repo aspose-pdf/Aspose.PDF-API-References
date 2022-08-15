@@ -24,7 +24,7 @@ public void ExtractAttachment()
 
 ## ExtractAttachment(string) {#extractattachment_1}
 
-按附件名称将附件提取到 PDF 文件。
+按附件名称提取 PDF 文件的附件。
 
 ```csharp
 public void ExtractAttachment(string attachmentFileName)

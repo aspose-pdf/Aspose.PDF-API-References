@@ -66,7 +66,7 @@ public SetColor(double r, double g, double b)
 
 ## SetColor(double, double, double, double) {#constructor_3}
 
-Установить цвет для оператора без штриха для цветового пространства CMYK
+Установить цвет оператора без штриха для цветового пространства CMYK
 
 ```csharp
 public SetColor(double c, double m, double y, double k)
@@ -97,7 +97,7 @@ public SetColor(double[] color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Double[] | Массив компонентов цвета. |
+| color | Double[] | Массив цветовых компонентов. |
 
 ### Смотрите также
 

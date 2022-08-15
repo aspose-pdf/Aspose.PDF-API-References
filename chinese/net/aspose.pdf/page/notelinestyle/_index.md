@@ -1,14 +1,14 @@
 ---
 title: NoteLineStyle
 second_title: Aspose.PDF for .NET API 参考
-description: 获取或设置笔记的线条样式仅用于生成器
+description: 获取或设置笔记的线型仅用于生成器
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf/page/notelinestyle/
 ---
 ## Page.NoteLineStyle property
 
-获取或设置笔记的线条样式。（仅用于生成器）
+获取或设置笔记的线型。（仅用于生成器）
 
 ```csharp
 public GraphInfo NoteLineStyle { get; set; }

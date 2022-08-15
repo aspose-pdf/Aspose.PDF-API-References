@@ -1,14 +1,14 @@
 ---
 title: GetValuesXml
 second_title: Aspose.PDF for .NET API 参考
-description: 获取属性值作为 xml 树表示
+description: 以 xml 树表示形式获取属性值
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/
 ---
 ## XmpPdfAExtensionSchema.GetValuesXml method
 
-获取属性值作为 xml 树表示。
+以 xml 树表示形式获取属性值。
 
 ```csharp
 public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)

@@ -18,8 +18,8 @@ public class PDF3DView
 
 | Имя | Описание |
 | --- | --- |
-| [PDF3DView](pdf3dview#constructor)(Document, PDF3DView, string) | Инициализирует новый экземпляр класса[`PDF3DView`](../pdf3dview). |
-| [PDF3DView](pdf3dview#constructor_1)(Document, Matrix3D, double, string) | Инициализирует новый экземпляр класса[`PDF3DView`](../pdf3dview). |
+| [PDF3DView](pdf3dview#constructor)(Document, PDF3DView, string) | Инициализирует новый экземпляр[`PDF3DView`](../pdf3dview) класс. |
+| [PDF3DView](pdf3dview#constructor_1)(Document, Matrix3D, double, string) | Инициализирует новый экземпляр[`PDF3DView`](../pdf3dview) класс. |
 
 ## Характеристики
 
@@ -28,9 +28,9 @@ public class PDF3DView
 | [BackGroundColor](../../aspose.pdf.annotations/pdf3dview/backgroundcolor) { get; set; } | Получает или задает цвет фона поля зрения. |
 | [CameraOrbit](../../aspose.pdf.annotations/pdf3dview/cameraorbit) { get; set; } | Получает или задает орбиту обзора камеры. |
 | [CameraPosition](../../aspose.pdf.annotations/pdf3dview/cameraposition) { get; set; } | Получает или задает положение камеры. |
-| [CrossSectionsArray](../../aspose.pdf.annotations/pdf3dview/crosssectionsarray) { get; } | Получает массив поперечных сечений вида. |
+| [CrossSectionsArray](../../aspose.pdf.annotations/pdf3dview/crosssectionsarray) { get; } | Получает массив поперечных сечений представления. |
 | [LightingScheme](../../aspose.pdf.annotations/pdf3dview/lightingscheme) { get; set; } | Получает или задает схему освещения вида. |
-| [RenderMode](../../aspose.pdf.annotations/pdf3dview/rendermode) { get; set; } | Получает или задает режим визуализации. |
+| [RenderMode](../../aspose.pdf.annotations/pdf3dview/rendermode) { get; set; } | Получает или задает режим рендеринга представления. |
 | [ViewName](../../aspose.pdf.annotations/pdf3dview/viewname) { get; set; } | Получает или задает имя представления. |
 
 ### Смотрите также

@@ -20,7 +20,7 @@ public bool Contains(KeyValuePair<string, XForm> item)
 
 ### 返回值
 
-如果找到此 pauir 则为真。
+如果这个 pauir 被发现，则为真。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: VerticalTranslation
 second_title: Aspose.PDF для справочника API .NET
-description: Получает или задает вертикальное смещение.
+description: Получает или задает вертикальный перевод.
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/fixedprint/verticaltranslation/
 ---
 ## FixedPrint.VerticalTranslation property
 
-Получает или задает вертикальное смещение.
+Получает или задает вертикальный перевод.
 
 ```csharp
 public double VerticalTranslation { get; set; }

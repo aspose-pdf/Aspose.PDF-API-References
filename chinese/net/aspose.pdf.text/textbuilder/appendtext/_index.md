@@ -20,36 +20,35 @@ public void AppendText(TextFragment textFragment)
 
 ### 例子
 
-该示例演示了如何创建文本片段对象、自定义其文本段并将其附加到 Pdf 页面。
+该示例演示了如何创建文本片段对象，自定义其文本段并将其附加到 Pdf 页面。
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-  // 创建文本片段
+// 创建文本片段
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// 设置它的文本 properties
+// 设置它的文本属性
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-  // 向文本片段的 Segments collection
-
+// 向文本片段的 Segments 集合再添加一个段
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// 创建 TextBuilder object
+// 创建 TextBuilder 对象
 TextBuilder builder = new TextBuilder(page);
 
-  // 将文本片段附加到 Pdf page
+// 将文本片段附加到 Pdf 页面
 builder.AppendText(tf);
 
-  //保存文档
+//保存文档
 doc.Save(outFile);
 ```
 
@@ -72,7 +71,7 @@ public void AppendText(List<TextFragment> textFragments)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| textFragments | List`1 | 文本片段集合 |
+| textFragments | List`1 | 文本片段的集合 |
 
 ### 也可以看看
 

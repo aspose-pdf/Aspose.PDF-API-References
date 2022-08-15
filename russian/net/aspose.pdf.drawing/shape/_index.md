@@ -1,14 +1,14 @@
 ---
 title: Shape
 second_title: Aspose.PDF для справочника API .NET
-description: Представляет форму - базовый графический объект.
+description: Представляет фигуру  базовый графический объект.
 type: docs
 weight: 2050
 url: /ru/net/aspose.pdf.drawing/shape/
 ---
 ## Shape class
 
-Представляет форму - базовый графический объект.
+Представляет фигуру — базовый графический объект.
 
 ```csharp
 public abstract class Shape
@@ -18,8 +18,8 @@ public abstract class Shape
 
 | Имя | Описание |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает объект[`GraphInfo`](./graphinfo), который указывает информацию о графике, такую как цвет ширина строки и т.д. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для фигуры |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Получает или задает[`GraphInfo`](./graphinfo) объект, который указывает информацию о графике, такую как цвет, ширина линии и т. д. |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Получает или задает текст для shape |
 
 ### Смотрите также
 

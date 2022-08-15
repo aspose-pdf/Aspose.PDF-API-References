@@ -1,14 +1,14 @@
 ---
 title: TiffDevice
 second_title: Aspose.PDF для справочника API .NET
-description: Инициализирует новый экземпляр классаTiffDeviceaspose.pdf.devices/tiffdevice.
+description: Инициализирует новый экземплярTiffDeviceaspose.pdf.devices/tiffdevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/tiffdevice/tiffdevice/
 ---
 ## TiffDevice(Resolution) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(Resolution resolution)
@@ -16,7 +16,7 @@ public TiffDevice(Resolution resolution)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| разрешение | Resolution | Разрешение результирующего файла изображения. |
+| resolution | Resolution | Разрешение результирующего файла изображения. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public TiffDevice(Resolution resolution)
 
 ## TiffDevice(Resolution, TiffSettings) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(Resolution resolution, TiffSettings settings)
@@ -37,8 +37,8 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| разрешение | Resolution | Разрешение выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
+| resolution | Resolution | Разрешение выходного изображения. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
 
 ### Смотрите также
 
@@ -52,7 +52,7 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 ## TiffDevice(Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
@@ -60,9 +60,9 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| разрешение | Resolution | Разрешение выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| resolution | Resolution | Разрешение выходного изображения. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -77,7 +77,7 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 
 ## TiffDevice(TiffSettings) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(TiffSettings settings)
@@ -85,7 +85,7 @@ public TiffDevice(TiffSettings settings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
 
 ### Смотрите также
 
@@ -98,7 +98,7 @@ public TiffDevice(TiffSettings settings)
 
 ## TiffDevice(TiffSettings, IIndexBitmapConverter) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
@@ -106,8 +106,8 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -121,7 +121,7 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 
 ## TiffDevice() {#constructor}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice)с настройками по умолчанию.
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс с настройками по умолчанию.
 
 ```csharp
 public TiffDevice()
@@ -137,7 +137,7 @@ public TiffDevice()
 
 ## TiffDevice(int, int, Resolution, TiffSettings) {#constructor_14}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings)
@@ -147,8 +147,8 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
+| resolution | Resolution | Разрешение выходного изображения. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
 
 ### Смотрите также
 
@@ -162,7 +162,7 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 ## TiffDevice(int, int, Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_15}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, 
@@ -173,9 +173,9 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| resolution | Resolution | Разрешение выходного изображения. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -190,7 +190,7 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 ## TiffDevice(PageSize, Resolution, TiffSettings) {#constructor_8}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings)
@@ -199,8 +199,8 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
+| resolution | Resolution | Разрешение выходного изображения. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
 
 ### Смотрите также
 
@@ -215,7 +215,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ## TiffDevice(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_9}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, 
@@ -225,9 +225,9 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| resolution | Resolution | Разрешение выходного изображения. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -243,7 +243,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ## TiffDevice(int, int, Resolution) {#constructor_13}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution)
@@ -253,7 +253,7 @@ public TiffDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| разрешение | Resolution | Разрешение выходного изображения. |
+| resolution | Resolution | Разрешение выходного изображения. |
 
 ### Смотрите также
 
@@ -266,7 +266,7 @@ public TiffDevice(int width, int height, Resolution resolution)
 
 ## TiffDevice(PageSize, Resolution) {#constructor_7}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution)
@@ -275,7 +275,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| разрешение | Resolution | Разрешение выходного изображения. |
+| resolution | Resolution | Разрешение выходного изображения. |
 
 ### Смотрите также
 
@@ -289,7 +289,7 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 
 ## TiffDevice(int, int, TiffSettings) {#constructor_16}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(int width, int height, TiffSettings settings)
@@ -299,7 +299,7 @@ public TiffDevice(int width, int height, TiffSettings settings)
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
 
 ### Смотрите также
 
@@ -312,7 +312,7 @@ public TiffDevice(int width, int height, TiffSettings settings)
 
 ## TiffDevice(int, int, TiffSettings, IIndexBitmapConverter) {#constructor_17}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)
@@ -322,8 +322,8 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 | --- | --- | --- |
 | width | Int32 | Ширина вывода изображения. |
 | height | Int32 | Высота вывода изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -337,7 +337,7 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 
 ## TiffDevice(PageSize, TiffSettings, IIndexBitmapConverter) {#constructor_11}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverter converter)
@@ -346,8 +346,8 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
-| преобразователь | IIndexBitmapConverter | Внешний преобразователь |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
+| converter | IIndexBitmapConverter | Внешний преобразователь |
 
 ### Смотрите также
 
@@ -362,7 +362,7 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 
 ## TiffDevice(PageSize, TiffSettings) {#constructor_10}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(PageSize pageSize, TiffSettings settings)
@@ -371,7 +371,7 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| settings | TiffSettings | Настройки Tiff, см.[`TiffSettings`](../../tiffsettings)учебный класс. |
+| settings | TiffSettings | Настройки Tiff см.[`TiffSettings`](../../tiffsettings) класс. |
 
 ### Смотрите также
 
@@ -385,7 +385,7 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 
 ## TiffDevice(int, int) {#constructor_12}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(int width, int height)
@@ -406,7 +406,7 @@ public TiffDevice(int width, int height)
 
 ## TiffDevice(PageSize) {#constructor_6}
 
-Инициализирует новый экземпляр класса[`TiffDevice`](../../tiffdevice).
+Инициализирует новый экземпляр[`TiffDevice`](../../tiffdevice) класс.
 
 ```csharp
 public TiffDevice(PageSize pageSize)

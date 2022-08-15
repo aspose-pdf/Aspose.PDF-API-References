@@ -1,14 +1,14 @@
 ---
 title: PageMarkup
 second_title: Aspose.PDF для справочника API .NET
-description: Разметка страницы представлена коллекциямиMarkupSection./markupsectionиMarkupParagraph./markupparagraph.
+description: Разметка страницы представленная коллекциямиMarkupSection./markupsection а такжеMarkupParagraph./markupparagraph .
 type: docs
 weight: 6840
 url: /ru/net/aspose.pdf.text/pagemarkup/
 ---
 ## PageMarkup class
 
-Разметка страницы представлена коллекциями[`MarkupSection`](../markupsection)и[`MarkupParagraph`](../markupparagraph).
+Разметка страницы, представленная коллекциями[`MarkupSection`](../markupsection) а также[`MarkupParagraph`](../markupparagraph) .
 
 ```csharp
 public sealed class PageMarkup
@@ -19,11 +19,11 @@ public sealed class PageMarkup
 | Имя | Описание |
 | --- | --- |
 | [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/pagemarkup/ismulticolumnparagraphsallowed) { get; set; } | Получает или задает значение, указывающее, можно ли рассматривать начальные строки текста следующего раздела как продолжение последнего абзаца предыдущего раздела. |
-| [Number](../../aspose.pdf.text/pagemarkup/number) { get; } | Получает номер обработанной страницы. |
-| [Paragraphs](../../aspose.pdf.text/pagemarkup/paragraphs) { get; } | Получает коллекцию[`MarkupParagraph`](../markupparagraph), которая была найдена на странице. |
+| [Number](../../aspose.pdf.text/pagemarkup/number) { get; } | Получает номер обрабатываемой страницы. |
+| [Paragraphs](../../aspose.pdf.text/pagemarkup/paragraphs) { get; } | Получает коллекцию[`MarkupParagraph`](../markupparagraph) что было найдено на странице. |
 | [Rectangle](../../aspose.pdf.text/pagemarkup/rectangle) { get; } | Получает обработанный прямоугольник страницы. |
-| [Sections](../../aspose.pdf.text/pagemarkup/sections) { get; } | Получает коллекцию[`MarkupSection`](../markupsection), которая была найдена на странице. |
-| [TextFragments](../../aspose.pdf.text/pagemarkup/textfragments) { get; } | Получает коллекцию[`TextFragment`](../textfragment), которая была найдена на странице. |
+| [Sections](../../aspose.pdf.text/pagemarkup/sections) { get; } | Получает коллекцию[`MarkupSection`](../markupsection) что было найдено на странице. |
+| [TextFragments](../../aspose.pdf.text/pagemarkup/textfragments) { get; } | Получает коллекцию[`TextFragment`](../textfragment) что было найдено на странице. |
 
 ### Смотрите также
 
