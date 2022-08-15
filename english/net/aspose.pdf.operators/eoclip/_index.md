@@ -3,7 +3,7 @@ title: EOClip
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing W operator set clipping path using even-odd rule.
 type: docs
-weight: 5090
+weight: 5040
 url: /net/aspose.pdf.operators/eoclip/
 ---
 ## EOClip class

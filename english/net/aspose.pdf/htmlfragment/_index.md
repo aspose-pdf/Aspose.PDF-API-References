@@ -3,7 +3,7 @@ title: HtmlFragment
 second_title: Aspose.PDF for .NET API Reference
 description: Represents html fragment.
 type: docs
-weight: 3390
+weight: 3340
 url: /net/aspose.pdf/htmlfragment/
 ---
 ## HtmlFragment class

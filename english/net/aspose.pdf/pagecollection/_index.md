@@ -3,7 +3,7 @@ title: PageCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Collection of PDF document pages.
 type: docs
-weight: 5820
+weight: 5770
 url: /net/aspose.pdf/pagecollection/
 ---
 ## PageCollection class

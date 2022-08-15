@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing PDF document
 type: docs
-weight: 1870
+weight: 1820
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -134,7 +134,6 @@ public sealed class Document : IDisposable
 | [Save](../../aspose.pdf/document/save#save_4)(Stream, SaveOptions) | Saves the document to a stream with a save options. |
 | [Save](../../aspose.pdf/document/save#save_6)(string, SaveFormat) | Saves the document with a new name along with a file format. |
 | [Save](../../aspose.pdf/document/save#save_7)(string, SaveOptions) | Saves the document with a new name setting its save options. |
-| [Save](../../aspose.pdf/document/save#save_8)(HttpResponse, string, ContentDisposition, SaveOptions) | Saves the document to a response stream with a save options. |
 | [SaveXml](../../aspose.pdf/document/savexml)(string) | Save document to XML. |
 | [SendTo](../../aspose.pdf/document/sendto#sendto_2)(DocumentDevice, Stream) | Sends the whole document to the document device for processing. |
 | [SendTo](../../aspose.pdf/document/sendto#sendto_3)(DocumentDevice, string) | Sends the whole document to the document device for processing. |

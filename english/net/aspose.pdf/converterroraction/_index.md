@@ -3,7 +3,7 @@ title: ConvertErrorAction
 second_title: Aspose.PDF for .NET API Reference
 description: This class represents action for conversion errors.
 type: docs
-weight: 1570
+weight: 1520
 url: /net/aspose.pdf/converterroraction/
 ---
 ## ConvertErrorAction enumeration

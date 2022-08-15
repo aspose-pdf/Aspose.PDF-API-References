@@ -3,7 +3,7 @@ title: SaveableFacade
 second_title: Aspose.PDF for .NET API Reference
 description: Base class for all saveable facades.
 type: docs
-weight: 2710
+weight: 2660
 url: /net/aspose.pdf.facades/saveablefacade/
 ---
 ## SaveableFacade class

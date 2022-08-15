@@ -3,7 +3,7 @@ title: ScreenAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: A screen annotation that specifies a region of a page upon which media clips may be played.
 type: docs
-weight: 1060
+weight: 1010
 url: /net/aspose.pdf.annotations/screenannotation/
 ---
 ## ScreenAnnotation class

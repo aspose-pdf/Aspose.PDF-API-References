@@ -3,7 +3,7 @@ title: OperatorSelector
 second_title: Aspose.PDF for .NET API Reference
 description: This class is used for selecting operators using Visitor template idea.
 type: docs
-weight: 4870
+weight: 4820
 url: /net/aspose.pdf/operatorselector/
 ---
 ## OperatorSelector class

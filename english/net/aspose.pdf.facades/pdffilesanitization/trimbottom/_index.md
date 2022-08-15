@@ -3,7 +3,7 @@ title: TrimBottom
 second_title: Aspose.PDF for .NET API Reference
 description: Removes data after last EOF.
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.pdf.facades/pdffilesanitization/trimbottom/
 ---
 ## PdfFileSanitization.TrimBottom method

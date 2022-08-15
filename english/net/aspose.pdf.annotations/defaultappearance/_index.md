@@ -3,7 +3,7 @@ title: DefaultAppearance
 second_title: Aspose.PDF for .NET API Reference
 description: Describes default appearance of field font text size and color.
 type: docs
-weight: 290
+weight: 240
 url: /net/aspose.pdf.annotations/defaultappearance/
 ---
 ## DefaultAppearance class

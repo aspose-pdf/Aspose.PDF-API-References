@@ -3,7 +3,7 @@ title: FormEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Class for editing forms ading/deleting field etc
 type: docs
-weight: 2340
+weight: 2290
 url: /net/aspose.pdf.facades/formeditor/
 ---
 ## FormEditor class
@@ -25,8 +25,6 @@ public sealed class FormEditor : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AttachmentName](../../aspose.pdf.facades/formeditor/attachmentname) { get; set; } | Gets or sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [ContentDisposition](../../aspose.pdf.facades/formeditor/contentdisposition) { get; set; } | Gets or sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
 | [ConvertTo](../../aspose.pdf.facades/formeditor/convertto) { set; } | Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion. |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | Gets the document facade is working on. |
 | [ExportItems](../../aspose.pdf.facades/formeditor/exportitems) { get; set; } | Sets options for combo box with export values. |
@@ -35,8 +33,6 @@ public sealed class FormEditor : SaveableFacade
 | [RadioButtonItemSize](../../aspose.pdf.facades/formeditor/radiobuttonitemsize) { get; set; } | Gets or sets size of radio button item size (when new radio button field is added). |
 | [RadioGap](../../aspose.pdf.facades/formeditor/radiogap) { get; set; } | The member to record the gap between two neighboring radio buttons in pixels,default is 50. |
 | [RadioHoriz](../../aspose.pdf.facades/formeditor/radiohoriz) { get; set; } | The flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
-| [Response](../../aspose.pdf.facades/formeditor/response) { get; set; } | Gets or sets Response object where result of operation will be stored. |
-| [SaveOptions](../../aspose.pdf.facades/formeditor/saveoptions) { get; set; } | Gets or sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions. |
 | [SubmitFlag](../../aspose.pdf.facades/formeditor/submitflag) { get; set; } | Set the submit button's submission flags |
 
 ## Methods

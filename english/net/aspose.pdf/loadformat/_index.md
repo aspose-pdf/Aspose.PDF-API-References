@@ -3,7 +3,7 @@ title: LoadFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies load format.
 type: docs
-weight: 3940
+weight: 3890
 url: /net/aspose.pdf/loadformat/
 ---
 ## LoadFormat enumeration

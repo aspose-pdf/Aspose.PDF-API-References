@@ -3,7 +3,7 @@ title: PdfFormat
 second_title: Aspose.PDF for .NET API Reference
 description: This class represents an pdf format.
 type: docs
-weight: 6020
+weight: 5970
 url: /net/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enumeration

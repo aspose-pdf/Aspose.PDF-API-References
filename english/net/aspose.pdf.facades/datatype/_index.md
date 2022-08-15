@@ -3,7 +3,7 @@ title: DataType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates field types definitions.
 type: docs
-weight: 2220
+weight: 2170
 url: /net/aspose.pdf.facades/datatype/
 ---
 ## DataType enumeration

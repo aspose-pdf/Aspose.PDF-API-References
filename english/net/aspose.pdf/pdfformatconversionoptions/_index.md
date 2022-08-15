@@ -3,7 +3,7 @@ title: PdfFormatConversionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: represents set of options for convert PDF document
 type: docs
-weight: 6030
+weight: 5980
 url: /net/aspose.pdf/pdfformatconversionoptions/
 ---
 ## PdfFormatConversionOptions class

@@ -3,7 +3,7 @@ title: Rendition
 second_title: Aspose.PDF for .NET API Reference
 description: Class which describes rendition object of RendtionAnnotation.
 type: docs
-weight: 980
+weight: 930
 url: /net/aspose.pdf.annotations/rendition/
 ---
 ## Rendition class

@@ -3,7 +3,7 @@ title: AttributeOwnerStandard
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Standard Attribute Owners.
 type: docs
-weight: 4060
+weight: 4010
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/
 ---
 ## AttributeOwnerStandard class

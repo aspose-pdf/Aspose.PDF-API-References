@@ -3,7 +3,7 @@ title: RadioButtonOptionField
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents item of RadioButton field.
 type: docs
-weight: 3170
+weight: 3120
 url: /net/aspose.pdf.forms/radiobuttonoptionfield/
 ---
 ## RadioButtonOptionField class

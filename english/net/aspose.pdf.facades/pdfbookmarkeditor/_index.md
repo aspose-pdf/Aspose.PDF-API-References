@@ -3,7 +3,7 @@ title: PdfBookmarkEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class to work with PDF files bookmarks including create modify export import and delete.
 type: docs
-weight: 2430
+weight: 2380
 url: /net/aspose.pdf.facades/pdfbookmarkeditor/
 ---
 ## PdfBookmarkEditor class

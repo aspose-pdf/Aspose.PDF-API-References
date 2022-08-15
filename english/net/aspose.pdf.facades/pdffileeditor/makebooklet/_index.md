@@ -3,10 +3,10 @@ title: MakeBooklet
 second_title: Aspose.PDF for .NET API Reference
 description: Makes booklet from the input file to output file.
 type: docs
-weight: 330
+weight: 300
 url: /net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
-## MakeBooklet(string, string) {#makebooklet_8}
+## MakeBooklet(string, string) {#makebooklet_4}
 
 Makes booklet from the input file to output file.
 
@@ -38,7 +38,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf");
 
 ---
 
-## MakeBooklet(Stream, Stream) {#makebooklet_2}
+## MakeBooklet(Stream, Stream) {#makebooklet}
 
 Makes booklet from the InputStream to outputStream.
 
@@ -72,7 +72,7 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ---
 
-## MakeBooklet(string, string, PageSize) {#makebooklet_9}
+## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
 Makes booklet from the inputFile to outputFile.
 
@@ -106,7 +106,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_3}
+## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
 
 Makes booklet from the input stream and save result into output stream.
 
@@ -142,7 +142,7 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ---
 
-## MakeBooklet(string, string, int[], int[]) {#makebooklet_11}
+## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -176,7 +176,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ---
 
-## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_5}
+## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
 Makes customized booklet from the firstInputStream to outputStream.
 
@@ -212,7 +212,7 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ---
 
-## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_10}
+## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -249,7 +249,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_4}
+## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
 Makes booklet from the firstInputStream to outputStream.
 
@@ -278,120 +278,6 @@ Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read)
 Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
 pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
-
-Makes booklet from source file and stores result into HttpResponse objects.
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Source file path. |
-| pageSize | PageSize | Desired page size. |
-| leftPages | Int32[] | Aray of page numbers to be placed in left. |
-| rightPages | Int32[] | Array of page numbers to be placed in right. |
-| response | HttpResponse | HttpResponse object where result will be stored. |
-
-### Return Value
-
-True if operation was succeeded.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
-
-Make booklet from PDF file and stores it into HttpResponse.
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Input document stream. |
-| pageSize | PageSize | Desired page size. |
-| leftPages | Int32[] | Array of page numbers which will be placed in left. |
-| rightPages | Int32[] | Array of page numbers which will b eplaced in right. |
-| response | HttpResponse | HttpResponse object. |
-
-### Return Value
-
-True if operation was succeeded.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(string, PageSize, HttpResponse) {#makebooklet_7}
-
-Makes booklet from source file and stores result into HttpResponse objects.
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Source file path. |
-| pageSize | PageSize | Desired page size in output file. |
-| response | HttpResponse | HttpResponse object where result will be stored. |
-
-### Return Value
-
-True if operation is succeeded.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, HttpResponse) {#makebooklet_1}
-
-Makes booklet from source file and stores result into HttpResponse.
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Input document stream. |
-| pageSize | PageSize | Desired page size in output file. |
-| response | HttpResponse | Respose object where resut will be saved. |
-
-### Return Value
-
-true if booklet was built successfully.
 
 ### See Also
 

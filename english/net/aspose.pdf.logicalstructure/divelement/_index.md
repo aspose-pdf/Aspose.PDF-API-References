@@ -3,7 +3,7 @@ title: DivElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Div structure element in logical structure.
 type: docs
-weight: 4130
+weight: 4080
 url: /net/aspose.pdf.logicalstructure/divelement/
 ---
 ## DivElement class

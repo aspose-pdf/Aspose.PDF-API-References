@@ -3,7 +3,7 @@ title: Close
 second_title: Aspose.PDF for .NET API Reference
 description: Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by Close method.
 type: docs
-weight: 190
+weight: 150
 url: /net/aspose.pdf.facades/pdffilestamp/close/
 ---
 ## PdfFileStamp.Close method

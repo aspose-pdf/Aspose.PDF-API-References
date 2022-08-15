@@ -3,7 +3,7 @@ title: Save
 second_title: Aspose.PDF for .NET API Reference
 description: Saves the result PDF to file.
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.pdf.facades/pdffilesanitization/save/
 ---
 ## Save(string) {#save_1}

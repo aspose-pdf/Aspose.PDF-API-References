@@ -3,7 +3,7 @@ title: SetCharacterSpacing
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Tc operator set character spacing.
 type: docs
-weight: 5380
+weight: 5330
 url: /net/aspose.pdf.operators/setcharacterspacing/
 ---
 ## SetCharacterSpacing class

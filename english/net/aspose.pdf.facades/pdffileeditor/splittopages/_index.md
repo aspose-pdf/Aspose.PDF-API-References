@@ -3,7 +3,7 @@ title: SplitToPages
 second_title: Aspose.PDF for .NET API Reference
 description: Splits the PDF file into single-page documents.
 type: docs
-weight: 400
+weight: 370
 url: /net/aspose.pdf.facades/pdffileeditor/splittopages/
 ---
 ## SplitToPages(string) {#splittopages_1}

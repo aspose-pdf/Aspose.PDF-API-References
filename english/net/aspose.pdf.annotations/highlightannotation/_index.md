@@ -3,7 +3,7 @@ title: HighlightAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a highlight annotation that highlights a range of text in the document.
 type: docs
-weight: 490
+weight: 440
 url: /net/aspose.pdf.annotations/highlightannotation/
 ---
 ## HighlightAnnotation class

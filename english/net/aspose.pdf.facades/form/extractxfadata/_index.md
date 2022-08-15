@@ -3,7 +3,7 @@ title: ExtractXfaData
 second_title: Aspose.PDF for .NET API Reference
 description: Extracts XFA data packet
 type: docs
-weight: 140
+weight: 100
 url: /net/aspose.pdf.facades/form/extractxfadata/
 ---
 ## Form.ExtractXfaData method

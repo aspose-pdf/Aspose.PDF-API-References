@@ -3,7 +3,7 @@ title: Collection
 second_title: Aspose.PDF for .NET API Reference
 description: Represents class for Collection12.3.5 Collections.
 type: docs
-weight: 1480
+weight: 1430
 url: /net/aspose.pdf/collection/
 ---
 ## Collection class

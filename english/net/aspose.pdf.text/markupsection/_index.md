@@ -3,7 +3,7 @@ title: MarkupSection
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a markup section - the rectangular region of a page that contains text and can be visually divided from another text blocks.
 type: docs
-weight: 6820
+weight: 6770
 url: /net/aspose.pdf.text/markupsection/
 ---
 ## MarkupSection class

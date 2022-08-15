@@ -1,142 +1,12 @@
 ---
 title: TryMakeBooklet
 second_title: Aspose.PDF for .NET API Reference
-description: Makes booklet from source file and stores result into HttpResponse objects.
+description: Makes booklet from the input file to output file.
 type: docs
-weight: 460
+weight: 430
 url: /net/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
-## TryMakeBooklet(string, PageSize, int[], int[], HttpResponse) {#trymakebooklet_6}
-
-Makes booklet from source file and stores result into HttpResponse objects.
-
-```csharp
-public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Source file path. |
-| pageSize | PageSize | Desired page size. |
-| leftPages | Int32[] | Aray of page numbers to be placed in left. |
-| rightPages | Int32[] | Array of page numbers to be placed in right. |
-| response | HttpResponse | HttpResponse object where result will be stored. |
-
-### Return Value
-
-true if operation completed successfully; otherwise, false.
-
-### Remarks
-
-The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBooklet method does not throw an exception if the operation fails.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#trymakebooklet}
-
-Make booklet from PDF file and stores it into HttpResponse.
-
-```csharp
-public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
-    int[] rightPages, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Input document stream. |
-| pageSize | PageSize | Desired page size. |
-| leftPages | Int32[] | Array of page numbers which will be placed in left. |
-| rightPages | Int32[] | Array of page numbers which will b eplaced in right. |
-| response | HttpResponse | HttpResponse object. |
-
-### Return Value
-
-true if operation completed successfully; otherwise, false.
-
-### Remarks
-
-The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBooklet method does not throw an exception if the operation fails.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(string, PageSize, HttpResponse) {#trymakebooklet_7}
-
-Makes booklet from source file and stores result into HttpResponse objects.
-
-```csharp
-public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Source file path. |
-| pageSize | PageSize | Desired page size in output file. |
-| response | HttpResponse | HttpResponse object where result will be stored. |
-
-### Return Value
-
-True if operation is succeeded.
-
-### Remarks
-
-The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBooklet method does not throw an exception if the operation fails.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(Stream, PageSize, HttpResponse) {#trymakebooklet_1}
-
-Makes booklet from source file and stores result into HttpResponse.
-
-```csharp
-public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Input document stream. |
-| pageSize | PageSize | Desired page size in output file. |
-| response | HttpResponse | Respose object where resut will be saved. |
-
-### Return Value
-
-true if booklet was built successfully.
-
-### Remarks
-
-The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBooklet method does not throw an exception if the operation fails.
-
-### See Also
-
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(string, string) {#trymakebooklet_8}
+## TryMakeBooklet(string, string) {#trymakebooklet_4}
 
 Makes booklet from the input file to output file.
 
@@ -172,7 +42,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 
 ---
 
-## TryMakeBooklet(Stream, Stream) {#trymakebooklet_2}
+## TryMakeBooklet(Stream, Stream) {#trymakebooklet}
 
 Makes booklet from the InputStream to outputStream.
 
@@ -210,7 +80,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 
 ---
 
-## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_9}
+## TryMakeBooklet(string, string, PageSize) {#trymakebooklet_5}
 
 Makes booklet from the inputFile to outputFile.
 
@@ -248,7 +118,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_3}
+## TryMakeBooklet(Stream, Stream, PageSize) {#trymakebooklet_1}
 
 Makes booklet from the input stream and save result into output stream.
 
@@ -288,7 +158,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ---
 
-## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_11}
+## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_7}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -326,7 +196,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 
 
 ---
 
-## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_5}
+## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_3}
 
 Makes customized booklet from the firstInputStream to outputStream.
 
@@ -367,7 +237,7 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 
 
 ---
 
-## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_10}
+## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_6}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -408,7 +278,7 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int
 
 ---
 
-## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_4}
+## TryMakeBooklet(Stream, Stream, PageSize, int[], int[]) {#trymakebooklet_2}
 
 Makes booklet from the firstInputStream to outputStream.
 

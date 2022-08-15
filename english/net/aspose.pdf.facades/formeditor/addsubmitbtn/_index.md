@@ -3,7 +3,7 @@ title: AddSubmitBtn
 second_title: Aspose.PDF for .NET API Reference
 description: Add submit button on the form.
 type: docs
-weight: 170
+weight: 130
 url: /net/aspose.pdf.facades/formeditor/addsubmitbtn/
 ---
 ## FormEditor.AddSubmitBtn method

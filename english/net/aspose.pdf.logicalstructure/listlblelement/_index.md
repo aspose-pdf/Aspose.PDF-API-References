@@ -3,7 +3,7 @@ title: ListLblElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Lbl structure element in logical structure of the list.
 type: docs
-weight: 4320
+weight: 4270
 url: /net/aspose.pdf.logicalstructure/listlblelement/
 ---
 ## ListLblElement class

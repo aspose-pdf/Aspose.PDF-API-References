@@ -3,7 +3,7 @@ title: FontAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an absorber object of fonts. Performs search for fonts and provides access to search results via Fonts./fontabsorber/fonts collection.
 type: docs
-weight: 6700
+weight: 6650
 url: /net/aspose.pdf.text/fontabsorber/
 ---
 ## FontAbsorber class

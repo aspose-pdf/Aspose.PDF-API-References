@@ -1,14 +1,14 @@
 ---
 title: IsSubset
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a value that indicates whether the font is a subset.
+description: Gets or sets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded
 type: docs
 weight: 70
 url: /net/aspose.pdf.text/font/issubset/
 ---
 ## Font.IsSubset property
 
-Gets or sets a value that indicates whether the font is a subset.
+Gets or sets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded
 
 ```csharp
 public bool IsSubset { get; set; }

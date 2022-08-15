@@ -3,7 +3,7 @@ title: AnnotElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Annot structure element in logical structure.
 type: docs
-weight: 4010
+weight: 3960
 url: /net/aspose.pdf.logicalstructure/annotelement/
 ---
 ## AnnotElement class

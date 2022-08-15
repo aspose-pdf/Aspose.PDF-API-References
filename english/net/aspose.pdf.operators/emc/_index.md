@@ -3,7 +3,7 @@ title: EMC
 second_title: Aspose.PDF for .NET API Reference
 description: Clsss representing EMC oeprator End of marked-content sequence.
 type: docs
-weight: 5080
+weight: 5030
 url: /net/aspose.pdf.operators/emc/
 ---
 ## EMC class

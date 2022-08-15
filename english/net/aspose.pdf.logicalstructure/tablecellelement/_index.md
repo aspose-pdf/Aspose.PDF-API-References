@@ -3,7 +3,7 @@ title: TableCellElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for table cell elements TH and TD in logical structure.
 type: docs
-weight: 4590
+weight: 4540
 url: /net/aspose.pdf.logicalstructure/tablecellelement/
 ---
 ## TableCellElement class

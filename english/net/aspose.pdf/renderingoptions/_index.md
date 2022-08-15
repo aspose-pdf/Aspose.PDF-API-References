@@ -3,7 +3,7 @@ title: RenderingOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents rendering options.
 type: docs
-weight: 6200
+weight: 6150
 url: /net/aspose.pdf/renderingoptions/
 ---
 ## RenderingOptions class
@@ -28,6 +28,7 @@ public sealed class RenderingOptions
 | [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf) { get; set; } | Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF font will have not all the symbols from source font, but only symbols which are used in text. |
 | [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname) { get; set; } | Gets/sets the default name of font used to substitute of missing fonts. |
 | [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits) { get; set; } | Gets or sets a value used to increase or decrease the width of rectangle for AppendRectangle operator. |
+| [IgnoreResourceFontErrors](../../aspose.pdf/renderingoptions/ignoreresourcefonterrors) { get; set; } | Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing. false by default |
 | [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality) { get; set; } | Gets or sets hiqh quality mode for interpolation. |
 | [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | Maximum count of fonts in fonts cache. Default value is 10. |
 | [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | Maximum count of symbols in symbol cache. Default value is 100. |

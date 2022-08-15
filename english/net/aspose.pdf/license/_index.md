@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.PDF for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 3930
+weight: 3880
 url: /net/aspose.pdf/license/
 ---
 ## License class

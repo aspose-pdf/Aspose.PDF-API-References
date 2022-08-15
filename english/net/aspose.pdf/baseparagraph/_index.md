@@ -3,7 +3,7 @@ title: BaseParagraph
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a abstract base object can be added to the pagedoc.Paragraphs.Add.
 type: docs
-weight: 1380
+weight: 1330
 url: /net/aspose.pdf/baseparagraph/
 ---
 ## BaseParagraph class

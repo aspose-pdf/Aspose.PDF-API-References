@@ -3,7 +3,7 @@ title: EX
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing EX operator End of compatibility section.
 type: docs
-weight: 5130
+weight: 5080
 url: /net/aspose.pdf.operators/ex/
 ---
 ## EX class

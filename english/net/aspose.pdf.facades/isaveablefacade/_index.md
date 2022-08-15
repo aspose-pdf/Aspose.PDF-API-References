@@ -3,7 +3,7 @@ title: ISaveableFacade
 second_title: Aspose.PDF for .NET API Reference
 description: Facade interface that defines methods common for all saveable facades.
 type: docs
-weight: 2380
+weight: 2330
 url: /net/aspose.pdf.facades/isaveablefacade/
 ---
 ## ISaveableFacade interface

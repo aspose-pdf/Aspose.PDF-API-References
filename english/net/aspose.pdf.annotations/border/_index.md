@@ -3,7 +3,7 @@ title: Border
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing characteristics of annotation border.
 type: docs
-weight: 170
+weight: 120
 url: /net/aspose.pdf.annotations/border/
 ---
 ## Border class

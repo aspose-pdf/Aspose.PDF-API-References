@@ -3,7 +3,7 @@ title: ExtractorFactory
 second_title: Aspose.PDF for .NET API Reference
 description: Represents factory for creating IPdfTypeExtractor objects.
 type: docs
-weight: 3300
+weight: 3250
 url: /net/aspose.pdf.groupprocessor/extractorfactory/
 ---
 ## ExtractorFactory class

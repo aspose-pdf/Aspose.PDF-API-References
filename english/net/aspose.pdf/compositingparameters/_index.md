@@ -3,7 +3,7 @@ title: CompositingParameters
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an object containing graphics compositing parameters of current graphics state.
 type: docs
-weight: 1550
+weight: 1500
 url: /net/aspose.pdf/compositingparameters/
 ---
 ## CompositingParameters class

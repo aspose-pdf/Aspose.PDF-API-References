@@ -3,7 +3,7 @@ title: ImageFileType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the image file types.
 type: docs
-weight: 3740
+weight: 3690
 url: /net/aspose.pdf/imagefiletype/
 ---
 ## ImageFileType enumeration

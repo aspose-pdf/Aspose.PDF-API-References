@@ -3,7 +3,7 @@ title: HeaderElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Header structure element in logical structure.
 type: docs
-weight: 4210
+weight: 4160
 url: /net/aspose.pdf.logicalstructure/headerelement/
 ---
 ## HeaderElement class

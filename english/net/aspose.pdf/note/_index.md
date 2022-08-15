@@ -3,7 +3,7 @@ title: Note
 second_title: Aspose.PDF for .NET API Reference
 description: This class represents generator paragraph note.
 type: docs
-weight: 4820
+weight: 4770
 url: /net/aspose.pdf/note/
 ---
 ## Note class

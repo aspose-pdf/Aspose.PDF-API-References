@@ -3,7 +3,7 @@ title: PdfFormatConversionOptions.RemoveFontsStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: Some documens have large size after converison into PDF/A format. To reduce file size for these documents its necessary to define a strategy of fonts removing. This enumeration declares a strategies which can be used to optimize fonts usage. Every strategy from this enumeration has sense only when flag OptimizeFileSize./pdfformatconversionoptions/optimizefilesize is set.
 type: docs
-weight: 6050
+weight: 6000
 url: /net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/
 ---
 ## PdfFormatConversionOptions.RemoveFontsStrategy enumeration

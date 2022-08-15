@@ -3,7 +3,7 @@ title: PageMarkup
 second_title: Aspose.PDF for .NET API Reference
 description: Page markup represented by collections of MarkupSection./markupsection and MarkupParagraph./markupparagraph.
 type: docs
-weight: 6840
+weight: 6790
 url: /net/aspose.pdf.text/pagemarkup/
 ---
 ## PageMarkup class

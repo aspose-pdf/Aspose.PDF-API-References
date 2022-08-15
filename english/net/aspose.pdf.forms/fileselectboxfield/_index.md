@@ -3,7 +3,7 @@ title: FileSelectBoxField
 second_title: Aspose.PDF for .NET API Reference
 description: Field for file select box element.
 type: docs
-weight: 3010
+weight: 2960
 url: /net/aspose.pdf.forms/fileselectboxfield/
 ---
 ## FileSelectBoxField class

@@ -3,7 +3,7 @@ title: LastException
 second_title: Aspose.PDF for .NET API Reference
 description: Gets last occured exception. May be used to check the reason of failure.
 type: docs
-weight: 150
+weight: 130
 url: /net/aspose.pdf.facades/pdffileeditor/lastexception/
 ---
 ## PdfFileEditor.LastException property

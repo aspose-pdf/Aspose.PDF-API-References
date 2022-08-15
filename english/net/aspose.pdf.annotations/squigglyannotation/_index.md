@@ -3,7 +3,7 @@ title: SquigglyAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the squiggly annotation that appears as a jagged underline in the text of a document.
 type: docs
-weight: 1150
+weight: 1100
 url: /net/aspose.pdf.annotations/squigglyannotation/
 ---
 ## SquigglyAnnotation class

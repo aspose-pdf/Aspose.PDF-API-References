@@ -3,10 +3,10 @@ title: TryDelete
 second_title: Aspose.PDF for .NET API Reference
 description: Deletes pages specified by number array from input file saves as a new Pdf file.
 type: docs
-weight: 430
+weight: 400
 url: /net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
-## TryDelete(string, int[], string) {#trydelete_2}
+## TryDelete(string, int[], string) {#trydelete_1}
 
 Deletes pages specified by number array from input file, saves as a new Pdf file.
 
@@ -73,66 +73,6 @@ Stream intputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read
 Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
-
-### See Also
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryDelete(string, int[], HttpResponse) {#trydelete_3}
-
-Deletes specified pages from document and stores result into HttpResponse object.
-
-```csharp
-public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Path of source file. |
-| pageNumber | Int32[] | Array of page numbers which must be deleted. |
-| response | HttpResponse | Response object where result document will be stored. |
-
-### Return Value
-
-true if operation completed successfully; otherwise, false.
-
-### Remarks
-
-The TryDelete method is like the Delete method, except the TryDelete method does not throw an exception if the operation fails.
-
-### See Also
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryDelete(Stream, int[], HttpResponse) {#trydelete_1}
-
-Deletes specified pages from document and saves result into HttpResponse object.
-
-```csharp
-public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Source document stream. |
-| pageNumber | Int32[] | Array of page numbers which will be deleted. |
-| response | HttpResponse | HttpResponse object |
-
-### Return Value
-
-true if operation completed successfully; otherwise, false.
-
-### Remarks
-
-The TryDelete method is like the Delete method, except the TryDelete method does not throw an exception if the operation fails.
 
 ### See Also
 

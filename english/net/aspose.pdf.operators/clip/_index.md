@@ -3,7 +3,7 @@ title: Clip
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing W operator set clipping path using non-zero winding rule.
 type: docs
-weight: 4960
+weight: 4910
 url: /net/aspose.pdf.operators/clip/
 ---
 ## Clip class

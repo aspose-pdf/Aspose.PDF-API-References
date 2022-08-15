@@ -3,7 +3,7 @@ title: ColumnAdjustment
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates column adjustment types.
 type: docs
-weight: 1520
+weight: 1470
 url: /net/aspose.pdf/columnadjustment/
 ---
 ## ColumnAdjustment enumeration

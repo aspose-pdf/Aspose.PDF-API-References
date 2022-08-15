@@ -3,7 +3,7 @@ title: UseTrimBottom
 second_title: Aspose.PDF for .NET API Reference
 description: Allows to remove data after pdf data
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.facades/pdffilesanitization/usetrimbottom/
 ---
 ## PdfFileSanitization.UseTrimBottom property

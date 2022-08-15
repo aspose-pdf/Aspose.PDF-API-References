@@ -3,7 +3,7 @@ title: TextEditOptions.FontReplace
 second_title: Aspose.PDF for .NET API Reference
 description: Font replacement behavior.
 type: docs
-weight: 7000
+weight: 6950
 url: /net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
 ## TextEditOptions.FontReplace enumeration

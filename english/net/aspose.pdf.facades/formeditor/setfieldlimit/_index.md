@@ -3,7 +3,7 @@ title: SetFieldLimit
 second_title: Aspose.PDF for .NET API Reference
 description: Sets maximum character count of the text field.
 type: docs
-weight: 350
+weight: 310
 url: /net/aspose.pdf.facades/formeditor/setfieldlimit/
 ---
 ## FormEditor.SetFieldLimit method

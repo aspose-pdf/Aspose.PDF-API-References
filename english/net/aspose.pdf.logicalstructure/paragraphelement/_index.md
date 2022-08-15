@@ -3,7 +3,7 @@ title: ParagraphElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Paragraph structure element in logical structure.
 type: docs
-weight: 4370
+weight: 4320
 url: /net/aspose.pdf.logicalstructure/paragraphelement/
 ---
 ## ParagraphElement class

@@ -3,7 +3,7 @@ title: ClosePathFillStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing b operator close fill and stroke path with nonzer winding rule.
 type: docs
-weight: 4990
+weight: 4940
 url: /net/aspose.pdf.operators/closepathfillstroke/
 ---
 ## ClosePathFillStroke class

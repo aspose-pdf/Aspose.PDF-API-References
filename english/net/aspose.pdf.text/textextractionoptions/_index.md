@@ -3,7 +3,7 @@ title: TextExtractionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents text extraction options
 type: docs
-weight: 7050
+weight: 7000
 url: /net/aspose.pdf.text/textextractionoptions/
 ---
 ## TextExtractionOptions class

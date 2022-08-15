@@ -3,7 +3,7 @@ title: CopyLogicalStructure
 second_title: Aspose.PDF for .NET API Reference
 description: If true then logical structure of the file is copied when concatenation is performed.
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/
 ---
 ## PdfFileEditor.CopyLogicalStructure property

@@ -3,7 +3,7 @@ title: AnnotationElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for annotation structure elements in logical structure.
 type: docs
-weight: 4020
+weight: 3970
 url: /net/aspose.pdf.logicalstructure/annotationelement/
 ---
 ## AnnotationElement class

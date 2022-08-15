@@ -3,7 +3,7 @@ title: ImportXml
 second_title: Aspose.PDF for .NET API Reference
 description: Imports the content of the fields from the xml file and put them into the new pdf.
 type: docs
-weight: 330
+weight: 290
 url: /net/aspose.pdf.facades/form/importxml/
 ---
 ## ImportXml(Stream, bool) {#importxml_1}

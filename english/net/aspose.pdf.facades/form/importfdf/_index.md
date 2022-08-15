@@ -3,7 +3,7 @@ title: ImportFdf
 second_title: Aspose.PDF for .NET API Reference
 description: Imports the content of the fields from the fdf file and put them into the new pdf.
 type: docs
-weight: 310
+weight: 270
 url: /net/aspose.pdf.facades/form/importfdf/
 ---
 ## Form.ImportFdf method

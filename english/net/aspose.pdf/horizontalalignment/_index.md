@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
 description: Describes horizontal alignment.
 type: docs
-weight: 3370
+weight: 3320
 url: /net/aspose.pdf/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration

@@ -11,7 +11,7 @@ url: /net/aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/
 Gets or sets the URI resolver.
 
 ```csharp
-public UriResolver UriResolver { get; set; }
+public #=zyHYo_M4_LTjjXlRQg8_Dkm_kql0e UriResolver { get; set; }
 ```
 
 ### Property Value
@@ -20,7 +20,6 @@ The URI resolver.
 
 ### See Also
 
-* class [UriResolver](../../../aspose.foundation.uriresolver/uriresolver)
 * class [XfaParserOptions](../../xfaparseroptions)
 * namespace [Aspose.Pdf.XfaConverter](../../xfaparseroptions)
 * assembly [Aspose.PDF](../../../)

@@ -3,7 +3,7 @@ title: FontSubsetStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: enumerates strategies for font subsetting
 type: docs
-weight: 2870
+weight: 2820
 url: /net/aspose.pdf/fontsubsetstrategy/
 ---
 ## FontSubsetStrategy enumeration

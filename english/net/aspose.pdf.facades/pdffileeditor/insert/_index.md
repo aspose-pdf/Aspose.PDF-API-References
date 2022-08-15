@@ -3,10 +3,10 @@ title: Insert
 second_title: Aspose.PDF for .NET API Reference
 description: Inserts pages from an other file into the Pdf file at a position.
 type: docs
-weight: 320
+weight: 290
 url: /net/aspose.pdf.facades/pdffileeditor/insert/
 ---
-## Insert(string, int, string, int, int, string) {#insert_3}
+## Insert(string, int, string, int, int, string) {#insert_2}
 
 Inserts pages from an other file into the Pdf file at a position.
 
@@ -83,7 +83,7 @@ pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 
 ---
 
-## Insert(string, int, string, int[], string) {#insert_4}
+## Insert(string, int, string, int[], string) {#insert_3}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -149,64 +149,6 @@ Stream insertedStream = new FileStream("file2.pdf", FileMode.Open, FileAccess.Re
 Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
-
-### See Also
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Insert(string, int, string, int[], HttpResponse) {#insert_5}
-
-Inserts contents of file into source file and stores result into HttpResponse object.
-
-```csharp
-public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
-    HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Source file name. |
-| insertLocation | Int32 | Page number where second file will be inserted. |
-| portFile | String | Path to file which will be inserted. |
-| pageNumber | Int32[] | Array of page numbers in source file wihich will be inserted. |
-| response | HttpResponse | Response object where result will be stored. |
-
-### Return Value
-
-true of inserting was successful.
-
-### See Also
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Insert(Stream, int, Stream, int[], HttpResponse) {#insert_2}
-
-Inserts document into other document and stores result into response object.
-
-```csharp
-public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
-    HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Stream with source document |
-| insertLocation | Int32 | Location where other document will be inserted. |
-| portStream | Stream | Document to be inserted. |
-| pageNumber | Int32[] | Array of page numbers in second document which will be inserted. |
-| response | HttpResponse | Response object where result will be stored. |
-
-### Return Value
-
-True if operation was succeeded.
 
 ### See Also
 

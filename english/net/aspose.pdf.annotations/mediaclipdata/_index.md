@@ -3,7 +3,7 @@ title: MediaClipData
 second_title: Aspose.PDF for .NET API Reference
 description: Class describes media clip data.
 type: docs
-weight: 700
+weight: 650
 url: /net/aspose.pdf.annotations/mediaclipdata/
 ---
 ## MediaClipData class

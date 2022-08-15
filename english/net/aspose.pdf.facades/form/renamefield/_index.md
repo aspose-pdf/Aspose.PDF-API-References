@@ -3,7 +3,7 @@ title: RenameField
 second_title: Aspose.PDF for .NET API Reference
 description: Renames a field. Either AcroForm field or XFA field is OK.
 type: docs
-weight: 350
+weight: 310
 url: /net/aspose.pdf.facades/form/renamefield/
 ---
 ## Form.RenameField method

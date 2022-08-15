@@ -3,7 +3,7 @@ title: CaretAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Caret annotation.
 type: docs
-weight: 220
+weight: 170
 url: /net/aspose.pdf.annotations/caretannotation/
 ---
 ## CaretAnnotation class

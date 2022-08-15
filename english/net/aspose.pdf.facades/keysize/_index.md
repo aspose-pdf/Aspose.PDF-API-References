@@ -3,7 +3,7 @@ title: KeySize
 second_title: Aspose.PDF for .NET API Reference
 description: Defines different key sizes which can be used to encrypt pdf documents.
 type: docs
-weight: 2400
+weight: 2350
 url: /net/aspose.pdf.facades/keysize/
 ---
 ## KeySize enumeration

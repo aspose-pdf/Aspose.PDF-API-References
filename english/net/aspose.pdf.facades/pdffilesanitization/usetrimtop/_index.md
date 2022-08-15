@@ -3,7 +3,7 @@ title: UseTrimTop
 second_title: Aspose.PDF for .NET API Reference
 description: Allows to remove data before pdf data.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.facades/pdffilesanitization/usetrimtop/
 ---
 ## PdfFileSanitization.UseTrimTop property

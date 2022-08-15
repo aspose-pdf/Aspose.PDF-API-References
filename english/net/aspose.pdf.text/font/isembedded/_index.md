@@ -1,14 +1,14 @@
 ---
 title: IsEmbedded
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a value that indicates whether the font is embedded.
+description: Gets or sets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/font/isembedded/
 ---
 ## Font.IsEmbedded property
 
-Gets or sets a value that indicates whether the font is embedded.
+Gets or sets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded
 
 ```csharp
 public bool IsEmbedded { get; set; }

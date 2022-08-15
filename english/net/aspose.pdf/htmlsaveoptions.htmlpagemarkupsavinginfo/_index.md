@@ -3,7 +3,7 @@ title: HtmlSaveOptions.HtmlPageMarkupSavingInfo
 second_title: Aspose.PDF for .NET API Reference
 description: If SplitToPages property of HtmlSaveOptions then several HTML-files one HTML file per converted page are created during conversion of PDF to HTML. This class represents set of data that related to custom saving of one HTML-pages markup during conversion of PDF to HTML
 type: docs
-weight: 3540
+weight: 3490
 url: /net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo class

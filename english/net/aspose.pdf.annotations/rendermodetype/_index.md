@@ -3,7 +3,7 @@ title: RenderModeType
 second_title: Aspose.PDF for .NET API Reference
 description: Enum RenderModeType set of render mode types
 type: docs
-weight: 970
+weight: 920
 url: /net/aspose.pdf.annotations/rendermodetype/
 ---
 ## RenderModeType enumeration

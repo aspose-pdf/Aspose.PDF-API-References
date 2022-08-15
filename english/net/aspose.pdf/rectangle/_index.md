@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents rectangle.
 type: docs
-weight: 6190
+weight: 6140
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
@@ -18,7 +18,7 @@ public sealed class Rectangle : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](rectangle)(double, double, double, double) | Constructor of Rectangle. |
+| [Rectangle](rectangle)(double, double, double, double, bool) | Constructor of Rectangle. |
 
 ## Properties
 

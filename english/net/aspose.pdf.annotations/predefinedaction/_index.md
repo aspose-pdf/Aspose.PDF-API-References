@@ -3,7 +3,7 @@ title: PredefinedAction
 second_title: Aspose.PDF for .NET API Reference
 description: Defines different actions which can be triggered from a PDF file.
 type: docs
-weight: 950
+weight: 900
 url: /net/aspose.pdf.annotations/predefinedaction/
 ---
 ## PredefinedAction enumeration

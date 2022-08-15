@@ -3,7 +3,7 @@ title: TextIcon
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the icons to be used in displaying the annotation.
 type: docs
-weight: 1210
+weight: 1160
 url: /net/aspose.pdf.annotations/texticon/
 ---
 ## TextIcon enumeration

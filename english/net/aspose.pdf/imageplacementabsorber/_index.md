@@ -3,7 +3,7 @@ title: ImagePlacementAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an absorber object of image placement objects. Performs search of image usages and provides access to search results via ImagePlacements./imageplacementabsorber/imageplacements collection.
 type: docs
-weight: 3770
+weight: 3720
 url: /net/aspose.pdf/imageplacementabsorber/
 ---
 ## ImagePlacementAbsorber class

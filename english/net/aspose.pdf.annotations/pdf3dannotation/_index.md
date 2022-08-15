@@ -3,7 +3,7 @@ title: PDF3DAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Class PDF3DAnnotation. This class cannot be inherited.
 type: docs
-weight: 770
+weight: 720
 url: /net/aspose.pdf.annotations/pdf3dannotation/
 ---
 ## PDF3DAnnotation class

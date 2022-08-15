@@ -3,7 +3,7 @@ title: SetXfaData
 second_title: Aspose.PDF for .NET API Reference
 description: Replaces XFA data with specified data packet. Data packet may be extracted using ExtractXfaData.
 type: docs
-weight: 370
+weight: 330
 url: /net/aspose.pdf.facades/form/setxfadata/
 ---
 ## Form.SetXfaData method

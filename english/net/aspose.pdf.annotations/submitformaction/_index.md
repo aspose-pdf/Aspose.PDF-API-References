@@ -3,7 +3,7 @@ title: SubmitFormAction
 second_title: Aspose.PDF for .NET API Reference
 description: Class which describes submit-form action.
 type: docs
-weight: 1190
+weight: 1140
 url: /net/aspose.pdf.annotations/submitformaction/
 ---
 ## SubmitFormAction class

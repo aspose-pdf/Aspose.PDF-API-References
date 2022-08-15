@@ -3,7 +3,7 @@ title: Measure.NumberFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Number format for measure.
 type: docs
-weight: 660
+weight: 610
 url: /net/aspose.pdf.annotations/measure.numberformat/
 ---
 ## Measure.NumberFormat class

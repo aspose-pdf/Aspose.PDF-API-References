@@ -3,7 +3,7 @@ title: ListChildElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for children elements of the List in logical structure.
 type: docs
-weight: 4280
+weight: 4230
 url: /net/aspose.pdf.logicalstructure/listchildelement/
 ---
 ## ListChildElement class

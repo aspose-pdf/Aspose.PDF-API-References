@@ -3,7 +3,7 @@ title: TextEditOptions.NoCharacterAction
 second_title: Aspose.PDF for .NET API Reference
 description: Action to perform if font does not contain required character
 type: docs
-weight: 7020
+weight: 6970
 url: /net/aspose.pdf.text/texteditoptions.nocharacteraction/
 ---
 ## TextEditOptions.NoCharacterAction enumeration

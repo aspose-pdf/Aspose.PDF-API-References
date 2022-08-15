@@ -3,7 +3,7 @@ title: LineTo
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing l operator add line to the path.
 type: docs
-weight: 5220
+weight: 5170
 url: /net/aspose.pdf.operators/lineto/
 ---
 ## LineTo class

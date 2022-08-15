@@ -3,7 +3,7 @@ title: SubstitutionFontCategories
 second_title: Aspose.PDF for .NET API Reference
 description: Represents font categories that can be substituted.
 type: docs
-weight: 6880
+weight: 6830
 url: /net/aspose.pdf.text/substitutionfontcategories/
 ---
 ## SubstitutionFontCategories enumeration

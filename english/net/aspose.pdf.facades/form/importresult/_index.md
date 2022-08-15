@@ -3,7 +3,7 @@ title: ImportResult
 second_title: Aspose.PDF for .NET API Reference
 description: Result of last import operation. Array of objects which descibre result of import for each field.
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.pdf.facades/form/importresult/
 ---
 ## Form.ImportResult property

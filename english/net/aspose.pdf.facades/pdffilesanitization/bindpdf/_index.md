@@ -3,7 +3,7 @@ title: BindPdf
 second_title: Aspose.PDF for .NET API Reference
 description: Binds a Pdf file for Sanitize.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.facades/pdffilesanitization/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}

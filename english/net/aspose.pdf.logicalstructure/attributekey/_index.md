@@ -3,7 +3,7 @@ title: AttributeKey
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Standard Attribute Keys.
 type: docs
-weight: 4040
+weight: 3990
 url: /net/aspose.pdf.logicalstructure/attributekey/
 ---
 ## AttributeKey class

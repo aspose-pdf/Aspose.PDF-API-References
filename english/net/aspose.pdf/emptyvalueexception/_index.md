@@ -3,7 +3,7 @@ title: EmptyValueException
 second_title: Aspose.PDF for .NET API Reference
 description: Exception which thrown when requirested value does not exists.
 type: docs
-weight: 2070
+weight: 2020
 url: /net/aspose.pdf/emptyvalueexception/
 ---
 ## EmptyValueException class

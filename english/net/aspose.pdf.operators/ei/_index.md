@@ -3,7 +3,7 @@ title: EI
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing EI operator End inline image object.
 type: docs
-weight: 5070
+weight: 5020
 url: /net/aspose.pdf.operators/ei/
 ---
 ## EI class

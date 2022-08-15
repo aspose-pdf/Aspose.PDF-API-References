@@ -3,7 +3,7 @@ title: FormElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Form structure element in logical structure.
 type: docs
-weight: 4180
+weight: 4130
 url: /net/aspose.pdf.logicalstructure/formelement/
 ---
 ## FormElement class

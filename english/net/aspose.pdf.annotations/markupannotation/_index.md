@@ -3,7 +3,7 @@ title: MarkupAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract class representing markup annotation.
 type: docs
-weight: 640
+weight: 590
 url: /net/aspose.pdf.annotations/markupannotation/
 ---
 ## MarkupAnnotation class

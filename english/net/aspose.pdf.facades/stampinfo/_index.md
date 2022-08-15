@@ -3,7 +3,7 @@ title: StampInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing stamp information.
 type: docs
-weight: 2730
+weight: 2680
 url: /net/aspose.pdf.facades/stampinfo/
 ---
 ## StampInfo class

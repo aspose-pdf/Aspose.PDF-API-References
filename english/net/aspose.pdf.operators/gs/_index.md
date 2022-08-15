@@ -3,7 +3,7 @@ title: GS
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing gs operator set parameters from graphic state parameter dictionary.
 type: docs
-weight: 5180
+weight: 5130
 url: /net/aspose.pdf.operators/gs/
 ---
 ## GS class

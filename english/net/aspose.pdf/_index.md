@@ -3,7 +3,7 @@ title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf is a root namespace for all classes of Aspose.Pdf library which are either directly in it like Document or indirectly through several subnamespaces.
 type: docs
-weight: 40
+weight: 10
 url: /net/aspose.pdf/
 ---
 The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **Document** or indirectly through several subnamespaces.

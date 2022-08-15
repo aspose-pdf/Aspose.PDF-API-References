@@ -3,7 +3,7 @@ title: Aspose.Pdf.Annotations
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Annotations namespace provides classes for working with various types of actions destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it.
 type: docs
-weight: 50
+weight: 20
 url: /net/aspose.pdf.annotations/
 ---
 The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it.

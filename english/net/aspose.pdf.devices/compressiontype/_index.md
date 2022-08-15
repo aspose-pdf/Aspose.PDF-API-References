@@ -3,7 +3,7 @@ title: CompressionType
 second_title: Aspose.PDF for .NET API Reference
 description: Used to specify the parameter value passed to a Tiff image device.
 type: docs
-weight: 1650
+weight: 1600
 url: /net/aspose.pdf.devices/compressiontype/
 ---
 ## CompressionType enumeration

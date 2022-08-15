@@ -3,7 +3,7 @@ title: ScalingReason
 second_title: Aspose.PDF for .NET API Reference
 description: The circumstances under which the icon shall be scaled inside the annotation rectangle.
 type: docs
-weight: 3200
+weight: 3150
 url: /net/aspose.pdf.forms/scalingreason/
 ---
 ## ScalingReason enumeration

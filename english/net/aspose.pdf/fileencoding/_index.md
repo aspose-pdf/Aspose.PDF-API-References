@@ -3,7 +3,7 @@ title: FileEncoding
 second_title: Aspose.PDF for .NET API Reference
 description: Encoding of the attached file. Possible values Zip - file is compressed with ZIP None - file is non compressed.
 type: docs
-weight: 2790
+weight: 2740
 url: /net/aspose.pdf/fileencoding/
 ---
 ## FileEncoding enumeration

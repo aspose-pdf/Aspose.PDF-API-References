@@ -3,7 +3,7 @@ title: CopyOutlines
 second_title: Aspose.PDF for .NET API Reference
 description: If true then outlines will be copied.
 type: docs
-weight: 90
+weight: 70
 url: /net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
 ## PdfFileEditor.CopyOutlines property

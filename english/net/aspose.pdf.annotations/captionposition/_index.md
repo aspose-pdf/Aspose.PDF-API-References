@@ -3,7 +3,7 @@ title: CaptionPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of the annotations caption positioning.
 type: docs
-weight: 210
+weight: 160
 url: /net/aspose.pdf.annotations/captionposition/
 ---
 ## CaptionPosition enumeration

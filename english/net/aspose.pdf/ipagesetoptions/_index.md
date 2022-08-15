@@ -3,7 +3,7 @@ title: IPageSetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Defines conversion options related to a set of pages to convert.
 type: docs
-weight: 3660
+weight: 3610
 url: /net/aspose.pdf/ipagesetoptions/
 ---
 ## IPageSetOptions interface

@@ -3,10 +3,10 @@ title: SplitToEnd
 second_title: Aspose.PDF for .NET API Reference
 description: Splits from location and saves the rear part as a new file.
 type: docs
-weight: 390
+weight: 360
 url: /net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
-## SplitToEnd(string, int, string) {#splittoend_2}
+## SplitToEnd(string, int, string) {#splittoend_1}
 
 Splits from location, and saves the rear part as a new file.
 
@@ -69,58 +69,6 @@ Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read
 Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitToEnd(sourceStream, 5, outStream);
 ```
-
-### See Also
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SplitToEnd(Stream, int, HttpResponse) {#splittoend_1}
-
-Splits from specified location, and saves the rear part into HttpResponse object.
-
-```csharp
-public bool SplitToEnd(Stream inputStream, int location, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Source document stream. |
-| location | Int32 | Split point. |
-| response | HttpResponse | HttpResponse object. |
-
-### Return Value
-
-true if splitting was successful.
-
-### See Also
-
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SplitToEnd(string, int, HttpResponse) {#splittoend_3}
-
-Splits from specified location, and saves the rear part into HttpResponse object.
-
-```csharp
-public bool SplitToEnd(string inputFile, int location, HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | source file name. |
-| location | Int32 | Split point. |
-| response | HttpResponse | HttpResponse objects. |
-
-### Return Value
-
-True if operation was succeeded.
 
 ### See Also
 

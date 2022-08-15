@@ -3,7 +3,7 @@ title: RubyElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Ruby structure element in logical structure.
 type: docs
-weight: 4430
+weight: 4380
 url: /net/aspose.pdf.logicalstructure/rubyelement/
 ---
 ## RubyElement class

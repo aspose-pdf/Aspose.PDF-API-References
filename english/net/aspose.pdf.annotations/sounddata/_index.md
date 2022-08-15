@@ -3,7 +3,7 @@ title: SoundData
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a sound data defining the sound to be played when the annotation is activated.
 type: docs
-weight: 1090
+weight: 1040
 url: /net/aspose.pdf.annotations/sounddata/
 ---
 ## SoundData class

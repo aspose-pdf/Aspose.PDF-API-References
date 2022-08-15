@@ -3,7 +3,7 @@ title: ColorType
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies color type of elements on page.
 type: docs
-weight: 1510
+weight: 1460
 url: /net/aspose.pdf/colortype/
 ---
 ## ColorType enumeration

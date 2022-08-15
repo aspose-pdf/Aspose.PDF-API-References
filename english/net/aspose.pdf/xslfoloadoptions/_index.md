@@ -3,7 +3,7 @@ title: XslFoLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing XSL-FO file into pdf document.
 type: docs
-weight: 7580
+weight: 7530
 url: /net/aspose.pdf/xslfoloadoptions/
 ---
 ## XslFoLoadOptions class

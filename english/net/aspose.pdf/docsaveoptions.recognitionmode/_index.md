@@ -3,7 +3,7 @@ title: DocSaveOptions.RecognitionMode
 second_title: Aspose.PDF for .NET API Reference
 description: Allows to control how a PDF document is converted into a word processing document.
 type: docs
-weight: 1860
+weight: 1810
 url: /net/aspose.pdf/docsaveoptions.recognitionmode/
 ---
 ## DocSaveOptions.RecognitionMode enumeration

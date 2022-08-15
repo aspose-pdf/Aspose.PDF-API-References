@@ -3,7 +3,7 @@ title: EpubSaveOptions.RecognitionMode
 second_title: Aspose.PDF for .NET API Reference
 description: When PDF file that usually has fixed layout is being converted the conversion engine tries to perform grouping and multi-level analysis to restore the original document authors intent and produce result in flow layout. This property tunes that conversion for this or that desirable method of recognition of content.
 type: docs
-weight: 2110
+weight: 2060
 url: /net/aspose.pdf/epubsaveoptions.recognitionmode/
 ---
 ## EpubSaveOptions.RecognitionMode enumeration

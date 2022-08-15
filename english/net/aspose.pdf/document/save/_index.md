@@ -147,32 +147,6 @@ public void Save(Stream outputStream, SaveOptions options)
 
 ---
 
-## Save(HttpResponse, string, ContentDisposition, SaveOptions) {#save_8}
-
-Saves the document to a response stream with a save options.
-
-```csharp
-public void Save(HttpResponse response, string outputFileName, ContentDisposition disposition, 
-    SaveOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| response | HttpResponse | Encapsulates HTTP-response information. |
-| outputFileName | String | Simple file name, i.e. without path. |
-| disposition | ContentDisposition | Represents a MIME protocol Content-Disposition header. |
-| options | SaveOptions | Save options. |
-
-### See Also
-
-* enum [ContentDisposition](../../contentdisposition)
-* class [SaveOptions](../../saveoptions)
-* class [Document](../../document)
-* namespace [Aspose.Pdf](../../document)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## Save(Stream) {#save_2}
 
 Stores document into stream.

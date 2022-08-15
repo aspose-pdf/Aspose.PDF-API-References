@@ -3,7 +3,7 @@ title: ImageMergeMode
 second_title: Aspose.PDF for .NET API Reference
 description: Represents modes for merging images.
 type: docs
-weight: 2390
+weight: 2340
 url: /net/aspose.pdf.facades/imagemergemode/
 ---
 ## ImageMergeMode enumeration

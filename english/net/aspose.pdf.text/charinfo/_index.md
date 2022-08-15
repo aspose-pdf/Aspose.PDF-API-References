@@ -3,7 +3,7 @@ title: CharInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a character info object. Provides character positioning information.
 type: docs
-weight: 6630
+weight: 6580
 url: /net/aspose.pdf.text/charinfo/
 ---
 ## CharInfo class

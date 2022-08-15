@@ -3,7 +3,7 @@ title: CopyOuterField
 second_title: Aspose.PDF for .NET API Reference
 description: Copies an existing field from one PDF document to another document with original page number and ordinates. Notice Only for AcroForm fields excluding radio box.
 type: docs
-weight: 200
+weight: 160
 url: /net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}

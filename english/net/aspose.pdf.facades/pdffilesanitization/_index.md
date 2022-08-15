@@ -3,7 +3,7 @@ title: PdfFileSanitization
 second_title: Aspose.PDF for .NET API Reference
 description: Represents sanitization and recovery API. Use it if you cant create/open documents in any other way.
 type: docs
-weight: 2550
+weight: 2500
 url: /net/aspose.pdf.facades/pdffilesanitization/
 ---
 ## PdfFileSanitization class
@@ -26,6 +26,7 @@ public sealed class PdfFileSanitization : SaveableFacade
 | --- | --- |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | Gets the document facade is working on. |
 | [Log](../../aspose.pdf.facades/pdffilesanitization/log) { get; } | After file has Saved you can check what was done with file. |
+| [UseRebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer) { get; set; } | Allows to generate new xref and trailer for document. |
 | [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom) { get; set; } | Allows to remove data after pdf data |
 | [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop) { get; set; } | Allows to remove data before pdf data. |
 
@@ -38,6 +39,7 @@ public sealed class PdfFileSanitization : SaveableFacade
 | override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_2)(string) | Binds a Pdf file for Sanitize. |
 | override [Close](../../aspose.pdf.facades/pdffilesanitization/close)() | Closes the facade. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose)() | Disposes the facade. |
+| [RebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer)() | Removes old xref with trailer and creates a new xref with trailer. |
 | [Recover](../../aspose.pdf.facades/pdffilesanitization/recover)() | Recovers document. Use properties to customize. |
 | override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save)(Stream) | Saves the result PDF to stream. |
 | override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save_1)(string) | Saves the result PDF to file. |

@@ -3,7 +3,7 @@ title: BlendingColorSpace
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents blending color space.
 type: docs
-weight: 2190
+weight: 2140
 url: /net/aspose.pdf.facades/blendingcolorspace/
 ---
 ## BlendingColorSpace enumeration

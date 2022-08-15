@@ -3,7 +3,7 @@ title: CheckboxField
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing checkbox field
 type: docs
-weight: 2930
+weight: 2880
 url: /net/aspose.pdf.forms/checkboxfield/
 ---
 ## CheckboxField class

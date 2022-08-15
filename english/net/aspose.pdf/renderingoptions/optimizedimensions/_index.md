@@ -3,7 +3,7 @@ title: OptimizeDimensions
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets optimize dimensions mode.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf/renderingoptions/optimizedimensions/
 ---
 ## RenderingOptions.OptimizeDimensions property

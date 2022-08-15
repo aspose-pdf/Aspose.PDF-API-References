@@ -3,7 +3,7 @@ title: MaxSymbolsCacheSize
 second_title: Aspose.PDF for .NET API Reference
 description: Maximum count of symbols in symbol cache. Default value is 100.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf/renderingoptions/maxsymbolscachesize/
 ---
 ## RenderingOptions.MaxSymbolsCacheSize property

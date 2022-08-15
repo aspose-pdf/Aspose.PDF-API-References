@@ -3,7 +3,7 @@ title: PartElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Part structure element in logical structure.
 type: docs
-weight: 4380
+weight: 4330
 url: /net/aspose.pdf.logicalstructure/partelement/
 ---
 ## PartElement class

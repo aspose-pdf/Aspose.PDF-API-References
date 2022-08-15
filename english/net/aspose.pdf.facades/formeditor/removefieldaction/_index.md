@@ -3,7 +3,7 @@ title: RemoveFieldAction
 second_title: Aspose.PDF for .NET API Reference
 description: Remove submit action of the field.
 type: docs
-weight: 260
+weight: 220
 url: /net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
 ## FormEditor.RemoveFieldAction method

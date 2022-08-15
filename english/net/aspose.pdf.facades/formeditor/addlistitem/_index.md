@@ -3,7 +3,7 @@ title: AddListItem
 second_title: Aspose.PDF for .NET API Reference
 description: Adds new item to the list box.
 type: docs
-weight: 160
+weight: 120
 url: /net/aspose.pdf.facades/formeditor/addlistitem/
 ---
 ## AddListItem(string, string) {#addlistitem}

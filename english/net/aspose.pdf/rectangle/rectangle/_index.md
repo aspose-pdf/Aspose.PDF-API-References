@@ -11,7 +11,7 @@ url: /net/aspose.pdf/rectangle/rectangle/
 Constructor of Rectangle.
 
 ```csharp
-public Rectangle(double llx, double lly, double urx, double ury)
+public Rectangle(double llx, double lly, double urx, double ury, bool normalizeCoordinates = true)
 ```
 
 | Parameter | Type | Description |
@@ -20,6 +20,7 @@ public Rectangle(double llx, double lly, double urx, double ury)
 | lly | Double | Y of lower left corner. |
 | urx | Double | X of upper right corner. |
 | ury | Double | Y of upper right corner. |
+| normalizeCoordinates | Boolean | Normalize coordinates of rectangle. |
 
 ### See Also
 

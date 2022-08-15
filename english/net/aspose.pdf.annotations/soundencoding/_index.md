@@ -3,7 +3,7 @@ title: SoundEncoding
 second_title: Aspose.PDF for .NET API Reference
 description: The encoding format for the sample data.
 type: docs
-weight: 1100
+weight: 1050
 url: /net/aspose.pdf.annotations/soundencoding/
 ---
 ## SoundEncoding enumeration

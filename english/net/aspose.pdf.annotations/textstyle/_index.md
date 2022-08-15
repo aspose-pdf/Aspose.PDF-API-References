@@ -3,7 +3,7 @@ title: TextStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents style of text in annotation
 type: docs
-weight: 1230
+weight: 1180
 url: /net/aspose.pdf.annotations/textstyle/
 ---
 ## TextStyle class

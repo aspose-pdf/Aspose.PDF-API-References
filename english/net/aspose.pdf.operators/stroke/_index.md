@@ -3,7 +3,7 @@ title: Stroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing S operator stroke path.
 type: docs
-weight: 5650
+weight: 5600
 url: /net/aspose.pdf.operators/stroke/
 ---
 ## Stroke class

@@ -3,7 +3,7 @@ title: ReplyType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the kinds of the relationships the reply type between the annotation and one specified by InReplyTo.
 type: docs
-weight: 1020
+weight: 970
 url: /net/aspose.pdf.annotations/replytype/
 ---
 ## ReplyType enumeration

@@ -3,7 +3,7 @@ title: XpsSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to Xps format
 type: docs
-weight: 7570
+weight: 7520
 url: /net/aspose.pdf/xpssaveoptions/
 ---
 ## XpsSaveOptions class

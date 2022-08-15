@@ -3,7 +3,7 @@ title: BuildVersionInfo
 second_title: Aspose.PDF for .NET API Reference
 description: This class provides information about current product build.
 type: docs
-weight: 1430
+weight: 1380
 url: /net/aspose.pdf/buildversioninfo/
 ---
 ## BuildVersionInfo class

@@ -3,7 +3,7 @@ title: MoveTextPositionSetLeading
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing TD operator move position and set leading.
 type: docs
-weight: 5250
+weight: 5200
 url: /net/aspose.pdf.operators/movetextpositionsetleading/
 ---
 ## MoveTextPositionSetLeading class

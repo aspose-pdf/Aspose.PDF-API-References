@@ -3,7 +3,7 @@ title: PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
 second_title: Aspose.PDF for .NET API Reference
 description: Declares set of some known encoding subtables
 type: docs
-weight: 6000
+weight: 5950
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enumeration

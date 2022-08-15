@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PDF for .NET API Reference
 description: Represents font object.
 type: docs
-weight: 6690
+weight: 6640
 url: /net/aspose.pdf.text/font/
 ---
 ## Font class
@@ -23,8 +23,8 @@ public sealed class Font
 | [FontName](../../aspose.pdf.text/font/fontname) { get; } | Gets font name of the [`Font`](../font) object. |
 | [FontOptions](../../aspose.pdf.text/font/fontoptions) { get; } | Useful properties to tune Font behaviour |
 | [IsAccessible](../../aspose.pdf.text/font/isaccessible) { get; } | Gets indicating whether the font is present (installed) in the system. |
-| [IsEmbedded](../../aspose.pdf.text/font/isembedded) { get; set; } | Gets or sets a value that indicates whether the font is embedded. |
-| [IsSubset](../../aspose.pdf.text/font/issubset) { get; set; } | Gets or sets a value that indicates whether the font is a subset. |
+| [IsEmbedded](../../aspose.pdf.text/font/isembedded) { get; set; } | Gets or sets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded |
+| [IsSubset](../../aspose.pdf.text/font/issubset) { get; set; } | Gets or sets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded |
 
 ## Methods
 

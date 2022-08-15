@@ -3,7 +3,7 @@ title: PdfFileMend
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class for adding texts and images on the pages of existing PDF document.
 type: docs
-weight: 2540
+weight: 2490
 url: /net/aspose.pdf.facades/pdffilemend/
 ---
 ## PdfFileMend class

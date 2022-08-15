@@ -3,7 +3,7 @@ title: BorderStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Describes style of the annotation border.
 type: docs
-weight: 190
+weight: 140
 url: /net/aspose.pdf.annotations/borderstyle/
 ---
 ## BorderStyle enumeration

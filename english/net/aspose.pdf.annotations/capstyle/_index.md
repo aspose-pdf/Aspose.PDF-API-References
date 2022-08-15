@@ -3,7 +3,7 @@ title: CapStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Style of line ending of Ink annotation line.
 type: docs
-weight: 200
+weight: 150
 url: /net/aspose.pdf.annotations/capstyle/
 ---
 ## CapStyle enumeration

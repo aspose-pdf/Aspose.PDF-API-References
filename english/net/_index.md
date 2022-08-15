@@ -11,9 +11,6 @@ is_root: true
 
 | Namespace | Description |
 | --- | --- |
-| [Aspose](./aspose) |  |
-| [Aspose.Foundation.UriResolver](./aspose.foundation.uriresolver) |  |
-| [Aspose.Foundation.UriResolver.RequestResponses](./aspose.foundation.uriresolver.requestresponses) |  |
 | [Aspose.Pdf](./aspose.pdf) | The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **Document** or indirectly through several subnamespaces. |
 | [Aspose.Pdf.Annotations](./aspose.pdf.annotations) | The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it. |
 | [Aspose.Pdf.Devices](./aspose.pdf.devices) | The **Aspose.Pdf.Devices** namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation. |
