@@ -1,12 +1,14 @@
 ---
 title: PreserveUserRights
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If true user rights of first document are applied to concatenated document. User rights of all other documents are ignored.
 type: docs
 weight: 180
 url: /net/aspose.pdf.facades/pdffileeditor/preserveuserrights/
 ---
 ## PdfFileEditor.PreserveUserRights property
+
+If true, user rights of first document are applied to concatenated document. User rights of all other documents are ignored.
 
 ```csharp
 public bool PreserveUserRights { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: PdfXmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Load options for PdfXml format.
 type: docs
 weight: 6040
 url: /net/aspose.pdf/pdfxmlloadoptions/
 ---
 ## PdfXmlLoadOptions class
+
+Load options for PdfXml format.
 
 ```csharp
 public class PdfXmlLoadOptions : LoadOptions
@@ -22,8 +24,8 @@ public class PdfXmlLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ### See Also
 

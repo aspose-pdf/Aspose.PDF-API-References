@@ -1,12 +1,14 @@
 ---
 title: AllowPrint
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets the permission which allow print or not. true is allow and false is forbidden.
 type: docs
 weight: 170
 url: /net/aspose.pdf.facades/documentprivilege/allowprint/
 ---
 ## DocumentPrivilege.AllowPrint property
+
+Sets the permission which allow print or not. true is allow and false is forbidden.
 
 ```csharp
 public bool AllowPrint { get; set; }

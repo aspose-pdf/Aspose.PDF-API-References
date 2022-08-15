@@ -1,12 +1,14 @@
 ---
 title: Flatten
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Removes all fields from the document and place their values instead.
 type: docs
 weight: 590
 url: /net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
+
+Removes all fields from the document and place their values instead.
 
 ```csharp
 public void Flatten()
@@ -22,9 +24,15 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
+Removes all fields from the document and place their values instead.
+
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| flattenSettings | FlattenSettings | Settings for flattening process. |
 
 ### See Also
 

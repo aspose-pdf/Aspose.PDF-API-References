@@ -1,12 +1,14 @@
 ---
 title: AFRelationship
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Associated file Relationship.
 type: docs
 weight: 20
 url: /net/aspose.pdf/filespecification/afrelationship/
 ---
 ## FileSpecification.AFRelationship property
+
+Associated file Relationship.
 
 ```csharp
 public AFRelationship AFRelationship { get; set; }

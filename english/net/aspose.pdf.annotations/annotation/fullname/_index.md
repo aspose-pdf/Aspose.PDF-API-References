@@ -1,12 +1,14 @@
 ---
 title: FullName
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets full qualified name of the annotation.
 type: docs
 weight: 100
 url: /net/aspose.pdf.annotations/annotation/fullname/
 ---
 ## Annotation.FullName property
+
+Gets full qualified name of the annotation.
 
 ```csharp
 public string FullName { get; }

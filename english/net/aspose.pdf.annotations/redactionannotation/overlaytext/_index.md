@@ -1,12 +1,14 @@
 ---
 title: OverlayText
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Text to print on redact annotation.
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/redactionannotation/overlaytext/
 ---
 ## RedactionAnnotation.OverlayText property
+
+Text to print on redact annotation.
 
 ```csharp
 public string OverlayText { get; set; }

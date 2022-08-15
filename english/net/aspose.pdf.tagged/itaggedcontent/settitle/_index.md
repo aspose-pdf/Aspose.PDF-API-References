@@ -1,16 +1,22 @@
 ---
 title: SetTitle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets title for PDF document.
 type: docs
 weight: 390
 url: /net/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
 ## ITaggedContent.SetTitle method
 
+Sets title for PDF document.
+
 ```csharp
 public void SetTitle(string title)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| title | String | The title of PDF document. |
 
 ### See Also
 

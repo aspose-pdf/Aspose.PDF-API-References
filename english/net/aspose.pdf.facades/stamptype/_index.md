@@ -1,12 +1,14 @@
 ---
 title: StampType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Describes stamp types.
 type: docs
 weight: 2690
 url: /net/aspose.pdf.facades/stamptype/
 ---
 ## StampType enumeration
+
+Describes stamp types.
 
 ```csharp
 public enum StampType
@@ -16,8 +18,8 @@ public enum StampType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Form | `0` |  |
-| Image | `1` |  |
+| Form | `0` | Stamp if Form. |
+| Image | `1` | Stamp is image. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the vertical alignment.
 type: docs
 weight: 140
 url: /net/aspose.pdf/cell/verticalalignment/
 ---
 ## Cell.VerticalAlignment property
+
+Gets or sets the vertical alignment.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }

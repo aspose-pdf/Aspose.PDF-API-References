@@ -1,16 +1,26 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets outline item from the collection using index.
 type: docs
 weight: 120
 url: /net/aspose.pdf/outlineitemcollection/item/
 ---
 ## OutlineItemCollection indexer
 
+Gets outline item from the collection using index.
+
 ```csharp
 public OutlineItemCollection this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index within the collection. |
+
+### Return Value
+
+OutlineItemCollection object.
 
 ### See Also
 

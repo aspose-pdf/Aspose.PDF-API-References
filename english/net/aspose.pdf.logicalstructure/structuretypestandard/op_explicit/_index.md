@@ -1,16 +1,26 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Performs an explicit conversion from String to StructureTypeStandardaspose.pdf.logicalstructure/structuretypestandard.
 type: docs
 weight: 530
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/
 ---
 ## StructureTypeStandard Explicit operator
 
+Performs an explicit conversion from String to [`StructureTypeStandard`](../../structuretypestandard).
+
 ```csharp
 public static explicit operator StructureTypeStandard(string tag)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tag | String | The tag name. |
+
+### Return Value
+
+The result of the conversion.
 
 ### See Also
 

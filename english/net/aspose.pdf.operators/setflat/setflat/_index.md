@@ -1,16 +1,22 @@
 ---
 title: SetFlat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setflat/setflat/
 ---
 ## SetFlat constructor
 
+Initializes operator.
+
 ```csharp
 public SetFlat(double flatness)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| flatness | Double | The value of flatness. |
 
 ### See Also
 

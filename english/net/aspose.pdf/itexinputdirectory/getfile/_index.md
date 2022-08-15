@@ -1,16 +1,28 @@
 ---
 title: GetFile
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns the stream to read from or to write to.
 type: docs
 weight: 10
 url: /net/aspose.pdf/itexinputdirectory/getfile/
 ---
 ## ITeXInputDirectory.GetFile method
 
+Returns the stream to read from or to write to.
+
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | The file name. |
+| fullName | String& | The full file name. |
+| searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. |
+
+### Return Value
+
+The stream.
 
 ### See Also
 

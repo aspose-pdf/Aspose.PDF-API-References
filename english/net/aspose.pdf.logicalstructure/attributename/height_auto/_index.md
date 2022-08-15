@@ -1,12 +1,14 @@
 ---
 title: Height_Auto
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Attribute Height Auto - The elements height shall be determined by the intrinsic height of its content.
 type: docs
 weight: 190
 url: /net/aspose.pdf.logicalstructure/attributename/height_auto/
 ---
 ## AttributeName.Height_Auto field
+
+Attribute Height: Auto - The element's height shall be determined by the intrinsic height of its content.
 
 ```csharp
 public static readonly AttributeName Height_Auto;

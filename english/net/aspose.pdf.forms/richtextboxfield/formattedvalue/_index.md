@@ -1,12 +1,14 @@
 ---
 title: FormattedValue
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets formatted rich text value with markup.
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/richtextboxfield/formattedvalue/
 ---
 ## RichTextBoxField.FormattedValue property
+
+Gets or sets formatted rich text value with markup.
 
 ```csharp
 public string FormattedValue { get; set; }

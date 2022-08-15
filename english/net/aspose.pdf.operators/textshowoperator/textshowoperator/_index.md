@@ -1,14 +1,14 @@
 ---
 title: TextShowOperator
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes TextShowOperator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/textshowoperator/textshowoperator/
 ---
 ## TextShowOperator() {#constructor}
 
-The default constructor.
+Initializes TextShowOperator.
 
 ```csharp
 public TextShowOperator()
@@ -24,9 +24,15 @@ public TextShowOperator()
 
 ## TextShowOperator(TextProperties) {#constructor_1}
 
+Initializes TextShowOperator which allows to pass TextProperties.
+
 ```csharp
 public TextShowOperator(TextProperties textProperties)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textProperties | TextProperties | Text properties. |
 
 ### See Also
 

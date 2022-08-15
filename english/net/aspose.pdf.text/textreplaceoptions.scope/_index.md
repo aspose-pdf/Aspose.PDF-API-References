@@ -1,12 +1,14 @@
 ---
 title: TextReplaceOptions.Scope
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to TextFragmentAbsorber.
 type: docs
 weight: 7140
 url: /net/aspose.pdf.text/textreplaceoptions.scope/
 ---
 ## TextReplaceOptions.Scope enumeration
+
+Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to TextFragmentAbsorber.
 
 ```csharp
 public enum Scope
@@ -16,8 +18,8 @@ public enum Scope
 
 | Name | Value | Description |
 | --- | --- | --- |
-| REPLACE_FIRST | `0` |  |
-| REPLACE_ALL | `1` |  |
+| REPLACE_FIRST | `0` | Replace only first occurrence of the text on each of affected pages |
+| REPLACE_ALL | `1` | Replace all text occurrences on all affected pages |
 
 ### See Also
 

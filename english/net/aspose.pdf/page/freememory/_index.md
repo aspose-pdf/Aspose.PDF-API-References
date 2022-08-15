@@ -1,12 +1,14 @@
 ---
 title: FreeMemory
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clears cached data
 type: docs
 weight: 420
 url: /net/aspose.pdf/page/freememory/
 ---
 ## Page.FreeMemory method
+
+Clears cached data
 
 ```csharp
 public void FreeMemory()

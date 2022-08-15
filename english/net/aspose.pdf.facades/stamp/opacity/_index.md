@@ -1,12 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets opacity of the stamp.
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/stamp/opacity/
 ---
 ## Stamp.Opacity property
+
+Gets or sets opacity of the stamp.
 
 ```csharp
 public float Opacity { get; set; }

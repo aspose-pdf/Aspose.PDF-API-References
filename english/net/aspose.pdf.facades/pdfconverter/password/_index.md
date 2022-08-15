@@ -1,12 +1,14 @@
 ---
 title: Password
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets document OwnerPassword.
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/pdfconverter/password/
 ---
 ## PdfConverter.Password property
+
+Gets or sets document OwnerPassword.
 
 ```csharp
 public string Password { get; set; }

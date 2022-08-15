@@ -1,12 +1,14 @@
 ---
 title: ClearImagePreview
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clears the image preview.
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/
 ---
 ## PDF3DAnnotation.ClearImagePreview method
+
+Clears the image preview.
 
 ```csharp
 public void ClearImagePreview()

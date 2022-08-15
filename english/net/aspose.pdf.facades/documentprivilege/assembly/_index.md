@@ -1,12 +1,14 @@
 ---
 title: Assembly
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Allows assemblying file.
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/documentprivilege/assembly/
 ---
 ## DocumentPrivilege.Assembly property
+
+Allows assemblying file.
 
 ```csharp
 public static DocumentPrivilege Assembly { get; }

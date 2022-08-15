@@ -1,12 +1,14 @@
 ---
 title: Destinations
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the collection of destinations. Obsolete. Please use NamedDestinations.
 type: docs
 weight: 80
 url: /net/aspose.pdf/document/destinations/
 ---
 ## Document.Destinations property
+
+Gets the collection of destinations. Obsolete. Please use NamedDestinations.
 
 ```csharp
 public DestinationCollection Destinations { get; }

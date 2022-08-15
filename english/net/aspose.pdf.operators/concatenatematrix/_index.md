@@ -1,12 +1,14 @@
 ---
 title: ConcatenateMatrix
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing cm operator concatenate matrix to current transformation matrix.
 type: docs
 weight: 4960
 url: /net/aspose.pdf.operators/concatenatematrix/
 ---
 ## ConcatenateMatrix class
+
+Class representing cm operator (concatenate matrix to current transformation matrix).
 
 ```csharp
 public class ConcatenateMatrix : Operator
@@ -16,22 +18,22 @@ public class ConcatenateMatrix : Operator
 
 | Name | Description |
 | --- | --- |
-| [ConcatenateMatrix](concatenatematrix#constructor)(Matrix) |  |
-| [ConcatenateMatrix](concatenatematrix#constructor_1)(double, double, double, double, double, double) |  |
+| [ConcatenateMatrix](concatenatematrix#constructor)(Matrix) | Initializes operator by matrix. |
+| [ConcatenateMatrix](concatenatematrix#constructor_1)(double, double, double, double, double, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Matrix](../../aspose.pdf.operators/concatenatematrix/matrix) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Matrix](../../aspose.pdf.operators/concatenatematrix/matrix) { get; set; } | Matrix argument of the operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/concatenatematrix/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/concatenatematrix/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/concatenatematrix/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/concatenatematrix/tostring)() | Returns text representation of operator. |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: XslFoLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Creates XslFoLoadOptionsaspose.pdf/xslfoloadoptions object without xsl data.
 type: docs
 weight: 10
 url: /net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
 ---
 ## XslFoLoadOptions() {#constructor}
 
-The default constructor.
+Creates [`XslFoLoadOptions`](../../xslfoloadoptions) object without xsl data.
 
 ```csharp
 public XslFoLoadOptions()
@@ -24,9 +24,15 @@ public XslFoLoadOptions()
 
 ## XslFoLoadOptions(string) {#constructor_2}
 
+Creates [`XslFoLoadOptions`](../../xslfoloadoptions) object with xsl data.
+
 ```csharp
 public XslFoLoadOptions(string xslFile)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xslFile | String | Xsl file to convert XSL-FO document into pdf document. |
 
 ### See Also
 
@@ -38,9 +44,15 @@ public XslFoLoadOptions(string xslFile)
 
 ## XslFoLoadOptions(Stream) {#constructor_1}
 
+Creates [`XslFoLoadOptions`](../../xslfoloadoptions) object with xsl data.
+
 ```csharp
 public XslFoLoadOptions(Stream xslStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xslStream | Stream | Xsl stream to convert XSL-FO document into pdf document. |
 
 ### See Also
 

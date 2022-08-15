@@ -1,12 +1,14 @@
 ---
 title: Page
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the page containing the image.
 type: docs
 weight: 50
 url: /net/aspose.pdf/imageplacement/page/
 ---
 ## ImagePlacement.Page property
+
+Gets the page containing the image.
 
 ```csharp
 public Page Page { get; }

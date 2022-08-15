@@ -1,12 +1,14 @@
 ---
 title: Title
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets document title.
 type: docs
 weight: 120
 url: /net/aspose.pdf/documentinfo/title/
 ---
 ## DocumentInfo.Title property
+
+Gets or sets document title.
 
 ```csharp
 public string Title { get; set; }

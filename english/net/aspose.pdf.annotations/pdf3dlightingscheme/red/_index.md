@@ -1,12 +1,14 @@
 ---
 title: Red
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The Red lighting scheme.
 type: docs
 weight: 120
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/red/
 ---
 ## PDF3DLightingScheme.Red field
+
+The "Red" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme Red;

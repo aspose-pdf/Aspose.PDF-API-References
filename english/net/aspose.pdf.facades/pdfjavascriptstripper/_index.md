@@ -1,12 +1,14 @@
 ---
 title: PdfJavaScriptStripper
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class for removing all Java Script code.
 type: docs
 weight: 2540
 url: /net/aspose.pdf.facades/pdfjavascriptstripper/
 ---
 ## PdfJavaScriptStripper class
+
+Class for removing all Java Script code.
 
 ```csharp
 public sealed class PdfJavaScriptStripper
@@ -22,8 +24,8 @@ public sealed class PdfJavaScriptStripper
 
 | Name | Description |
 | --- | --- |
-| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip#strip)(Stream, Stream) |  |
-| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip#strip_1)(string, string) |  |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip#strip)(Stream, Stream) | Remove Java Script from the document. |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip#strip_1)(string, string) | Remove Java Script from document. |
 
 ### See Also
 

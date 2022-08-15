@@ -1,12 +1,14 @@
 ---
 title: GraphInfo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents graphics info.
 type: docs
 weight: 3220
 url: /net/aspose.pdf/graphinfo/
 ---
 ## GraphInfo class
+
+Represents graphics info.
 
 ```csharp
 public sealed class GraphInfo : ICloneable
@@ -22,23 +24,23 @@ public sealed class GraphInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.pdf/graphinfo/color) { get; set; } |  |
-| [DashArray](../../aspose.pdf/graphinfo/dasharray) { get; set; } |  |
-| [DashPhase](../../aspose.pdf/graphinfo/dashphase) { get; set; } |  |
-| [FillColor](../../aspose.pdf/graphinfo/fillcolor) { get; set; } |  |
-| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled) { get; set; } |  |
-| [LineWidth](../../aspose.pdf/graphinfo/linewidth) { get; set; } |  |
-| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle) { get; set; } |  |
-| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex) { get; set; } |  |
-| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey) { get; set; } |  |
-| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex) { get; set; } |  |
-| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley) { get; set; } |  |
+| [Color](../../aspose.pdf/graphinfo/color) { get; set; } | Gets or sets a [`Color`](./color) object that indicates the color of the graph. |
+| [DashArray](../../aspose.pdf/graphinfo/dasharray) { get; set; } | Gets or sets a dash array. |
+| [DashPhase](../../aspose.pdf/graphinfo/dashphase) { get; set; } | Gets or sets a dash phase. |
+| [FillColor](../../aspose.pdf/graphinfo/fillcolor) { get; set; } | Gets or sets a [`Color`](./color) object that indicates the fill color of the graph. |
+| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled) { get; set; } | Gets or sets is border doubled. |
+| [LineWidth](../../aspose.pdf/graphinfo/linewidth) { get; set; } | Gets or sets a float value that indicates the line width of the graph. |
+| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle) { get; set; } | Gets or sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system. |
+| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex) { get; set; } | Gets or sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system. |
+| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey) { get; set; } | Gets or sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
+| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex) { get; set; } | Gets or sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
+| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley) { get; set; } | Gets or sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.pdf/graphinfo/clone)() |  |
+| [Clone](../../aspose.pdf/graphinfo/clone)() | Clone the graphics info. |
 
 ### See Also
 

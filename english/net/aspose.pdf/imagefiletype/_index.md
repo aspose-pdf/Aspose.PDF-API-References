@@ -1,12 +1,14 @@
 ---
 title: ImageFileType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumerates the image file types.
 type: docs
 weight: 3690
 url: /net/aspose.pdf/imagefiletype/
 ---
 ## ImageFileType enumeration
+
+Enumerates the image file types.
 
 ```csharp
 public enum ImageFileType
@@ -16,10 +18,10 @@ public enum ImageFileType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Unknown | `0` |  |
-| Svg | `1` |  |
-| Dicom | `2` |  |
-| Base64 | `3` |  |
+| Unknown | `0` | Unknown type. |
+| Svg | `1` | svg image file type. |
+| Dicom | `2` | Dicom image file type. |
+| Base64 | `3` | Base64 image file type. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: ExtractAttachment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Extracts attachments from a Pdf document.
 type: docs
 weight: 110
 url: /net/aspose.pdf.facades/pdfextractor/extractattachment/
 ---
 ## ExtractAttachment() {#extractattachment}
+
+Extracts attachments from a Pdf document.
 
 ```csharp
 public void ExtractAttachment()
@@ -22,9 +24,15 @@ public void ExtractAttachment()
 
 ## ExtractAttachment(string) {#extractattachment_1}
 
+Extracts attachment to PDF file by attachment name.
+
 ```csharp
 public void ExtractAttachment(string attachmentFileName)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| attachmentFileName | String | Name of attachment to extract |
 
 ### See Also
 

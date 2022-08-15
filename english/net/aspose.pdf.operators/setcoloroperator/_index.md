@@ -1,12 +1,14 @@
 ---
 title: SetColorOperator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing set color operation.
 type: docs
 weight: 5350
 url: /net/aspose.pdf.operators/setcoloroperator/
 ---
 ## SetColorOperator class
+
+Class representing set color operation.
 
 ```csharp
 public abstract class SetColorOperator : Operator
@@ -16,15 +18,15 @@ public abstract class SetColorOperator : Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) |  |
-| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor)() |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
+| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor)() | Retirns color specified by the operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

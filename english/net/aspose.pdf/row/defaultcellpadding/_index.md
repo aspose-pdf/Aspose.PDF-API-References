@@ -1,12 +1,14 @@
 ---
 title: DefaultCellPadding
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets default margin for row cells
 type: docs
 weight: 60
 url: /net/aspose.pdf/row/defaultcellpadding/
 ---
 ## Row.DefaultCellPadding property
+
+Gets or sets default margin for row cells
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }

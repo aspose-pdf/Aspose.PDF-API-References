@@ -1,12 +1,14 @@
 ---
 title: FontUtilities
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: IDocumentFontUtilities instance
 type: docs
 weight: 190
 url: /net/aspose.pdf/document/fontutilities/
 ---
 ## Document.FontUtilities property
+
+IDocumentFontUtilities instance
 
 ```csharp
 public IDocumentFontUtilities FontUtilities { get; }

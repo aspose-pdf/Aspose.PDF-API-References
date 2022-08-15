@@ -1,16 +1,22 @@
 ---
 title: WriteTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Writes to the specified stream.
 type: docs
 weight: 170
 url: /net/aspose.pdf/optimizedmemorystream/writeto/
 ---
 ## OptimizedMemoryStream.WriteTo method
 
+Writes to the specified stream.
+
 ```csharp
 public void WriteTo(Stream stream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream. |
 
 ### See Also
 

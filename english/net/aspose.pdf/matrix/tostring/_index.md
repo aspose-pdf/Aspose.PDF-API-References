@@ -1,16 +1,22 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns text reporesentation of the matrix.
 type: docs
 weight: 170
 url: /net/aspose.pdf/matrix/tostring/
 ---
 ## Matrix.ToString method
 
+Returns text reporesentation of the matrix.
+
 ```csharp
 public override string ToString()
 ```
+
+### Return Value
+
+String representation for the matrix
 
 ### See Also
 

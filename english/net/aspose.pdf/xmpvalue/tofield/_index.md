@@ -1,16 +1,22 @@
 ---
 title: ToField
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns XMP value as XMP field.
 type: docs
 weight: 160
 url: /net/aspose.pdf/xmpvalue/tofield/
 ---
 ## XmpValue.ToField method
 
+Returns XMP value as XMP field.
+
 ```csharp
 public XmpField ToField()
 ```
+
+### Return Value
+
+Field value.
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: SetNumberValue
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets Value Number.
 type: docs
 weight: 130
 url: /net/aspose.pdf.logicalstructure/structureattribute/setnumbervalue/
 ---
 ## StructureAttribute.SetNumberValue method
 
+Sets Value Number.
+
 ```csharp
 public void SetNumberValue(double number)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| number | Double | Value Number. |
 
 ### See Also
 

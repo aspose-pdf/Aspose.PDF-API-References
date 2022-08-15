@@ -1,12 +1,14 @@
 ---
 title: Icon
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets an icon to be used in displaying the annotation.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/soundannotation/icon/
 ---
 ## SoundAnnotation.Icon property
+
+Gets or sets an icon to be used in displaying the annotation.
 
 ```csharp
 public SoundIcon Icon { get; set; }

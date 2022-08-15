@@ -1,12 +1,14 @@
 ---
 title: SelectFont
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing Tf operator set text font and size.
 type: docs
 weight: 5260
 url: /net/aspose.pdf.operators/selectfont/
 ---
 ## SelectFont class
+
+Class representing Tf operator (set text font and size).
 
 ```csharp
 public class SelectFont : TextStateOperator
@@ -16,22 +18,22 @@ public class SelectFont : TextStateOperator
 
 | Name | Description |
 | --- | --- |
-| [SelectFont](selectfont)(string, double) |  |
+| [SelectFont](selectfont)(string, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Name](../../aspose.pdf.operators/selectfont/name) { get; } |  |
-| [Size](../../aspose.pdf.operators/selectfont/size) { get; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Name](../../aspose.pdf.operators/selectfont/name) { get; } | Name of font. |
+| [Size](../../aspose.pdf.operators/selectfont/size) { get; } | Size of text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/selectfont/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/selectfont/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/selectfont/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/selectfont/tostring)() | Returns text representation of operator. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: BoxStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents styles of check box.
 type: docs
 weight: 2860
 url: /net/aspose.pdf.forms/boxstyle/
 ---
 ## BoxStyle enumeration
+
+Represents styles of check box.
 
 ```csharp
 public enum BoxStyle
@@ -16,12 +18,12 @@ public enum BoxStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Circle | `0` |  |
-| Check | `1` |  |
-| Cross | `2` |  |
-| Diamond | `3` |  |
-| Square | `4` |  |
-| Star | `5` |  |
+| Circle | `0` | Circle style. |
+| Check | `1` | Check style. |
+| Cross | `2` | Cross style. |
+| Diamond | `3` | Diamond style. |
+| Square | `4` | Square style. |
+| Star | `5` | Star style. |
 
 ### See Also
 

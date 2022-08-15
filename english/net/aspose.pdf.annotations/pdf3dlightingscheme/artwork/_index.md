@@ -1,12 +1,14 @@
 ---
 title: Artwork
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The Artwork lighting scheme.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/artwork/
 ---
 ## PDF3DLightingScheme.Artwork field
+
+The "Artwork" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme Artwork;

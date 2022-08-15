@@ -1,12 +1,14 @@
 ---
 title: DefaultValueNamespaceUri
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Default value namespace uri.
 type: docs
 weight: 180
 url: /net/aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/
 ---
 ## XmpPdfAExtensionSchema.DefaultValueNamespaceUri field
+
+Default value namespace uri.
 
 ```csharp
 public const string DefaultValueNamespaceUri;

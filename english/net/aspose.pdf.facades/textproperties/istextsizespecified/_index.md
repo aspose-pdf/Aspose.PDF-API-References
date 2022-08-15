@@ -1,12 +1,14 @@
 ---
 title: IsTextSizeSpecified
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a value that indicates whether the TextSizeaspose.pdf.facades/textproperties/textsize property is specified.
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/textproperties/istextsizespecified/
 ---
 ## TextProperties.IsTextSizeSpecified property
+
+Gets or sets a value that indicates whether the [`TextSize`](../textsize) property is specified.
 
 ```csharp
 public bool IsTextSizeSpecified { get; }

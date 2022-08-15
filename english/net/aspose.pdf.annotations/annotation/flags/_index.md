@@ -1,12 +1,14 @@
 ---
 title: Flags
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Flags of the annotation.
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/annotation/flags/
 ---
 ## Annotation.Flags property
+
+Flags of the annotation.
 
 ```csharp
 public AnnotationFlags Flags { get; set; }

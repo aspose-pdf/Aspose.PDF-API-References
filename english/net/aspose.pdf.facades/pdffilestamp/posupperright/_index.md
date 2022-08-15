@@ -1,12 +1,14 @@
 ---
 title: PosUpperRight
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Right upper position.
 type: docs
 weight: 240
 url: /net/aspose.pdf.facades/pdffilestamp/posupperright/
 ---
 ## PdfFileStamp.PosUpperRight field
+
+Right upper position.
 
 ```csharp
 public const int PosUpperRight;

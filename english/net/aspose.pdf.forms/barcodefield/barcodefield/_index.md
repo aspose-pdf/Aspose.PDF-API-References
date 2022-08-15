@@ -1,16 +1,23 @@
 ---
 title: BarcodeField
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes new instance of the BarcodeFieldaspose.pdf.forms/barcodefield class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/barcodefield/barcodefield/
 ---
 ## BarcodeField(Page, Rectangle) {#constructor_1}
 
+Initializes new instance of the [`BarcodeField`](../../barcodefield) class.
+
 ```csharp
 public BarcodeField(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The page where to place new barcode. |
+| rect | Rectangle | Barcode sizes given in rectangle. |
 
 ### See Also
 
@@ -24,9 +31,16 @@ public BarcodeField(Page page, Rectangle rect)
 
 ## BarcodeField(Document, Rectangle) {#constructor}
 
+Initializes new instance of the [`BarcodeField`](../../barcodefield) class.
+
 ```csharp
 public BarcodeField(Document doc, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
+| rect | Rectangle | Rectangle where field will be placed on the page. |
 
 ### See Also
 

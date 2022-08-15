@@ -1,12 +1,14 @@
 ---
 title: IsColorSpecified
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a value that indicates whether the Coloraspose.pdf.facades/textproperties/color property is specified.
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/textproperties/iscolorspecified/
 ---
 ## TextProperties.IsColorSpecified property
+
+Gets or sets a value that indicates whether the [`Color`](../color) property is specified.
 
 ```csharp
 public bool IsColorSpecified { get; }

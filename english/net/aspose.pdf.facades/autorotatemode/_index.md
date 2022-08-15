@@ -1,12 +1,14 @@
 ---
 title: AutoRotateMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Direction of the rotation when document is printed.
 type: docs
 weight: 2130
 url: /net/aspose.pdf.facades/autorotatemode/
 ---
 ## AutoRotateMode enumeration
+
+Direction of the rotation when document is printed.
 
 ```csharp
 public enum AutoRotateMode
@@ -16,9 +18,9 @@ public enum AutoRotateMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| ClockWise | `1` |  |
-| AntiClockWise | `2` |  |
+| None | `0` | No rotation. |
+| ClockWise | `1` | Rotation direction is clockwise. |
+| AntiClockWise | `2` | Rotation directon is counterclockwise. |
 
 ### See Also
 

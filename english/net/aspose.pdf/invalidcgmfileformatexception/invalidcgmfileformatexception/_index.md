@@ -1,14 +1,14 @@
 ---
 title: InvalidCgmFileFormatException
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the InvalidCgmFileFormatExceptionaspose.pdf/invalidcgmfileformatexception class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) class.
 
 ```csharp
 public InvalidCgmFileFormatException()
@@ -24,9 +24,15 @@ public InvalidCgmFileFormatException()
 
 ## InvalidCgmFileFormatException(string) {#constructor_2}
 
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) class.
+
 ```csharp
 public InvalidCgmFileFormatException(string message)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The message. |
 
 ### See Also
 
@@ -38,9 +44,16 @@ public InvalidCgmFileFormatException(string message)
 
 ## InvalidCgmFileFormatException(string, Exception) {#constructor_3}
 
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
 ```csharp
 public InvalidCgmFileFormatException(string message, Exception innerException)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 
@@ -52,9 +65,15 @@ public InvalidCgmFileFormatException(string message, Exception innerException)
 
 ## InvalidCgmFileFormatException(Exception) {#constructor_1}
 
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../invalidcgmfileformatexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
 ```csharp
 public InvalidCgmFileFormatException(Exception innerException)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 

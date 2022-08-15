@@ -1,16 +1,22 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets StructureTextState object for current element.
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/blstextelement/structuretextstate/
 ---
 ## BLSTextElement.StructureTextState property
 
+Gets StructureTextState object for current element.
+
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
+
+### Property Value
+
+StructureTextState object for current element.
 
 ### See Also
 

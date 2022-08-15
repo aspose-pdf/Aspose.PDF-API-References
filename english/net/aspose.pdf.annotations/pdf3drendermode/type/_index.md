@@ -1,16 +1,22 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the type.
 type: docs
 weight: 160
 url: /net/aspose.pdf.annotations/pdf3drendermode/type/
 ---
 ## PDF3DRenderMode.Type property
 
+Gets the type.
+
 ```csharp
 public RenderModeType Type { get; }
 ```
+
+### Property Value
+
+The type.
 
 ### See Also
 

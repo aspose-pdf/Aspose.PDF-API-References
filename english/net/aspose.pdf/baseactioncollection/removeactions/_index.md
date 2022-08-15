@@ -1,12 +1,14 @@
 ---
 title: RemoveActions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Removes all actions of the annotation.
 type: docs
 weight: 10
 url: /net/aspose.pdf/baseactioncollection/removeactions/
 ---
 ## BaseActionCollection.RemoveActions method
+
+Removes all actions of the annotation.
 
 ```csharp
 public void RemoveActions()

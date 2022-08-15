@@ -1,12 +1,14 @@
 ---
 title: ConvertTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
 type: docs
 weight: 50
 url: /net/aspose.pdf.facades/pdffileeditor/convertto/
 ---
 ## PdfFileEditor.ConvertTo property
+
+Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
 
 ```csharp
 public PdfFormat ConvertTo { set; }

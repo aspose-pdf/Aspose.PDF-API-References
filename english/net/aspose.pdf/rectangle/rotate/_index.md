@@ -1,16 +1,22 @@
 ---
 title: Rotate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Rotate rectangle by the specified angle.
 type: docs
 weight: 230
 url: /net/aspose.pdf/rectangle/rotate/
 ---
 ## Rotate(Rotation) {#rotate}
 
+Rotate rectangle by the specified angle.
+
 ```csharp
 public void Rotate(Rotation angle)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| angle | Rotation | Angle of rotation. Member of Rotation enumeration. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public void Rotate(Rotation angle)
 
 ## Rotate(int) {#rotate_1}
 
+Rotate rectangle by the specified angle.
+
 ```csharp
 public void Rotate(int angle)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| angle | Int32 | Angle of rotation in degrees between 0 and 360. |
 
 ### See Also
 

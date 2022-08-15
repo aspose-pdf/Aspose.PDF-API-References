@@ -1,16 +1,23 @@
 ---
 title: SetOrigin
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets position on page where stamp will be placed.
 type: docs
 weight: 150
 url: /net/aspose.pdf.facades/stamp/setorigin/
 ---
 ## Stamp.SetOrigin method
 
+Sets position on page where stamp will be placed.
+
 ```csharp
 public void SetOrigin(float originX, float originY)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| originX | Single | X coordinate of the stamp. |
+| originY | Single | Y coordinate of the stamp. |
 
 ### See Also
 

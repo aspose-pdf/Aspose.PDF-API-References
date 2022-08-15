@@ -1,12 +1,14 @@
 ---
 title: Dash
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing line dash pattern.
 type: docs
 weight: 230
 url: /net/aspose.pdf.annotations/dash/
 ---
 ## Dash class
+
+Class representing line dash pattern.
 
 ```csharp
 public sealed class Dash
@@ -16,14 +18,14 @@ public sealed class Dash
 
 | Name | Description |
 | --- | --- |
-| [Dash](dash)(int, int) |  |
+| [Dash](dash)(int, int) | Constructor for Dash. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Off](../../aspose.pdf.annotations/dash/off) { get; set; } |  |
-| [On](../../aspose.pdf.annotations/dash/on) { get; set; } |  |
+| [Off](../../aspose.pdf.annotations/dash/off) { get; set; } | Gets or sets length of gap between dashes. |
+| [On](../../aspose.pdf.annotations/dash/on) { get; set; } | Gets or sets length of dash. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: ReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets read only status of the field.
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/widgetannotation/readonly/
 ---
 ## WidgetAnnotation.ReadOnly property
+
+Gets or sets read only status of the field.
 
 ```csharp
 public bool ReadOnly { get; set; }

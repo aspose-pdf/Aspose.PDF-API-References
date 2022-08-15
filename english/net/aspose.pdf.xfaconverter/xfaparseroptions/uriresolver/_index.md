@@ -1,16 +1,22 @@
 ---
 title: UriResolver
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the URI resolver.
 type: docs
 weight: 60
 url: /net/aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/
 ---
 ## XfaParserOptions.UriResolver property
 
+Gets or sets the URI resolver.
+
 ```csharp
 public #=zyHYo_M4_LTjjXlRQg8_Dkm_kql0e UriResolver { get; set; }
 ```
+
+### Property Value
+
+The URI resolver.
 
 ### See Also
 

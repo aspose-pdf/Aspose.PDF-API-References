@@ -1,12 +1,14 @@
 ---
 title: Authority
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The name of the person or authority signing the document.
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/signature/authority/
 ---
 ## Signature.Authority property
+
+The name of the person or authority signing the document.
 
 ```csharp
 public string Authority { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: NewWindow
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a flag specifying whether to open the destination document in a new window.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/gotoremoteaction/newwindow/
 ---
 ## GoToRemoteAction.NewWindow property
+
+Gets or sets a flag specifying whether to open the destination document in a new window.
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: MaxFontsCacheSize
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Maximum count of fonts in fonts cache. Default value is 10.
 type: docs
 weight: 80
 url: /net/aspose.pdf/renderingoptions/maxfontscachesize/
 ---
 ## RenderingOptions.MaxFontsCacheSize property
+
+Maximum count of fonts in fonts cache. Default value is 10.
 
 ```csharp
 public int MaxFontsCacheSize { get; set; }

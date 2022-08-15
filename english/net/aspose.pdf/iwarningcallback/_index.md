@@ -1,12 +1,14 @@
 ---
 title: IWarningCallback
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Interface for users callback mechanism support.
 type: docs
 weight: 3650
 url: /net/aspose.pdf/iwarningcallback/
 ---
 ## IWarningCallback interface
+
+Interface for user's callback mechanism support.
 
 ```csharp
 public interface IWarningCallback
@@ -16,7 +18,7 @@ public interface IWarningCallback
 
 | Name | Description |
 | --- | --- |
-| [Warning](../../aspose.pdf/iwarningcallback/warning)(WarningInfo) |  |
+| [Warning](../../aspose.pdf/iwarningcallback/warning)(WarningInfo) | The callback method for some program notifications. |
 
 ### See Also
 

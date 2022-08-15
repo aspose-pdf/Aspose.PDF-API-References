@@ -1,14 +1,14 @@
 ---
 title: SetAdvancedColorStroke
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setadvancedcolorstroke/setadvancedcolorstroke/
 ---
 ## SetAdvancedColorStroke() {#constructor}
 
-The default constructor.
+Initializes operator.
 
 ```csharp
 public SetAdvancedColorStroke()
@@ -24,9 +24,15 @@ public SetAdvancedColorStroke()
 
 ## SetAdvancedColorStroke(double) {#constructor_1}
 
+Constructor for scn operator
+
 ```csharp
 public SetAdvancedColorStroke(double g)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| g | Double | Gray color value. |
 
 ### See Also
 
@@ -38,9 +44,16 @@ public SetAdvancedColorStroke(double g)
 
 ## SetAdvancedColorStroke(double, string) {#constructor_4}
 
+Constructor for scn operator.
+
 ```csharp
 public SetAdvancedColorStroke(double g, string patternName)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| g | Double | Gray color value. |
+| patternName | String | Name of the pattern. |
 
 ### See Also
 
@@ -52,9 +65,18 @@ public SetAdvancedColorStroke(double g, string patternName)
 
 ## SetAdvancedColorStroke(double, double, double, string) {#constructor_3}
 
+Constructor for scn operator.
+
 ```csharp
 public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| r | Double | Red component of the color/ |
+| g | Double | Green component of the color. |
+| b | Double | Blue component of the color. |
+| patternName | String | Name of the pattern. |
 
 ### See Also
 
@@ -66,9 +88,19 @@ public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 
 ## SetAdvancedColorStroke(double, double, double, double, string) {#constructor_2}
 
+Constructor for scn operator.
+
 ```csharp
 public SetAdvancedColorStroke(double c, double m, double y, double k, string patternName)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | Double | Cyan component of the color. |
+| m | Double | Magenta component of the color. |
+| y | Double | Yellow component of the color. |
+| k | Double | Black component of the color |
+| patternName | String | Name of the pattern. |
 
 ### See Also
 

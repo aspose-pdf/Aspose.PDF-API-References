@@ -1,12 +1,14 @@
 ---
 title: TeXLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents options for loading/importing TeX file into PDF document.
 type: docs
 weight: 6520
 url: /net/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class
+
+Represents options for loading/importing TeX file into PDF document.
 
 ```csharp
 public class TeXLoadOptions : LoadOptions
@@ -22,17 +24,17 @@ public class TeXLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } |  |
-| [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory) { get; set; } |  |
-| [JobName](../../aspose.pdf/texloadoptions/jobname) { get; set; } |  |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
-| [NoLigatures](../../aspose.pdf/texloadoptions/noligatures) { get; set; } |  |
-| [OutputDirectory](../../aspose.pdf/texloadoptions/outputdirectory) { get; set; } |  |
-| [RasterizeFormulas](../../aspose.pdf/texloadoptions/rasterizeformulas) { get; set; } |  |
-| [Repeat](../../aspose.pdf/texloadoptions/repeat) { get; set; } |  |
-| [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput) { get; set; } |  |
-| [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts) { get; set; } |  |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
+| [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
+| [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory) { get; set; } | Gets/sets TeX input directory. |
+| [JobName](../../aspose.pdf/texloadoptions/jobname) { get; set; } | Gets/set the name of the job. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
+| [NoLigatures](../../aspose.pdf/texloadoptions/noligatures) { get; set; } | Gets/sets a flag that cancels ligatures in all fonts. |
+| [OutputDirectory](../../aspose.pdf/texloadoptions/outputdirectory) { get; set; } | Gets/sets TeX output directory. |
+| [RasterizeFormulas](../../aspose.pdf/texloadoptions/rasterizeformulas) { get; set; } | Gets/sets a flag that allows to rasterize math formulas. |
+| [Repeat](../../aspose.pdf/texloadoptions/repeat) { get; set; } | Gets/sets the flag indicating whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). In general, this behavior is useful when the engine collects some data along the typesetting process and stores it in an auxilliary file, all at the first run. And at the second run, the engine somehow uses that data. |
+| [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput) { get; set; } | Gets/sets the flag indicating whether to show terminal output on the console. |
+| [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts) { get; set; } | Gets/sets the flag indicating whether to subset fonts in output file or not. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ### See Also
 

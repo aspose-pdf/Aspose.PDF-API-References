@@ -1,16 +1,22 @@
 ---
 title: PDF3DCrossSectionArray
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the PDF3DCrossSectionArrayaspose.pdf.annotations/pdf3dcrosssectionarray class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/pdf3dcrosssectionarray/
 ---
 ## PDF3DCrossSectionArray constructor
 
+Initializes a new instance of the [`PDF3DCrossSectionArray`](../../pdf3dcrosssectionarray) class.
+
 ```csharp
 public PDF3DCrossSectionArray(Document doc)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | The document. |
 
 ### See Also
 

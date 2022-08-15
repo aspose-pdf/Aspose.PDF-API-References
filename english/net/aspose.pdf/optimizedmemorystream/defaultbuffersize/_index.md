@@ -1,12 +1,14 @@
 ---
 title: DefaultBufferSize
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Default buffer size value in bytes.
 type: docs
 weight: 180
 url: /net/aspose.pdf/optimizedmemorystream/defaultbuffersize/
 ---
 ## OptimizedMemoryStream.DefaultBufferSize field
+
+Default buffer size value in bytes.
 
 ```csharp
 public const int DefaultBufferSize;

@@ -1,16 +1,26 @@
 ---
 title: Warning
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The callback method for some program notifications.
 type: docs
 weight: 10
 url: /net/aspose.pdf/iwarningcallback/warning/
 ---
 ## IWarningCallback.Warning method
 
+The callback method for some program notifications.
+
 ```csharp
 public ReturnAction Warning(WarningInfo warning)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| warning | WarningInfo | the warning information for some happened warning |
+
+### Return Value
+
+the result of further program workflow
 
 ### See Also
 

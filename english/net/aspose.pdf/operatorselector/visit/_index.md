@@ -1,16 +1,22 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Visit/select j operator.
 type: docs
 weight: 30
 url: /net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
+Visit/select j operator.
+
 ```csharp
 public void Visit(SetLineJoin j)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| j | SetLineJoin | Set line join style operator. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public void Visit(SetLineJoin j)
 
 ## Visit(EX) {#visit_23}
 
+Visit/select EX operator.
+
 ```csharp
 public void Visit(EX EX)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| EX | EX | End compatibility section operator. |
 
 ### See Also
 
@@ -38,9 +50,15 @@ public void Visit(EX EX)
 
 ## Visit(ET) {#visit_22}
 
+Visit/select ET operator.
+
 ```csharp
 public void Visit(ET ET)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ET | ET | End text object operator. |
 
 ### See Also
 
@@ -53,9 +71,15 @@ public void Visit(ET ET)
 
 ## Visit(EMC) {#visit_17}
 
+Visit/select EMC operator.
+
 ```csharp
 public void Visit(EMC EMC)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| EMC | EMC | End marked-content sequence operator. |
 
 ### See Also
 
@@ -68,9 +92,15 @@ public void Visit(EMC EMC)
 
 ## Visit(EI) {#visit_16}
 
+Visit/select EI operator.
+
 ```csharp
 public void Visit(EI EI)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| EI | EI | End inline image object operator. |
 
 ### See Also
 
@@ -83,9 +113,15 @@ public void Visit(EI EI)
 
 ## Visit(DP) {#visit_15}
 
+Visit/select DP operator.
+
 ```csharp
 public void Visit(DP DP)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| DP | DP | Define marked-content point operator (with property list). |
 
 ### See Also
 
@@ -98,9 +134,15 @@ public void Visit(DP DP)
 
 ## Visit(Do) {#visit_14}
 
+Visit/select Do operator.
+
 ```csharp
 public void Visit(Do Do)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Do | Do | Invoke named XObject operator. |
 
 ### See Also
 
@@ -113,9 +155,15 @@ public void Visit(Do Do)
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
+Visit/select d1 operator.
+
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| d1 | SetCharWidthBoundingBox | Set glyph width and bounding box in Type 3 font operator. |
 
 ### See Also
 
@@ -128,9 +176,15 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 ## Visit(SetCharWidth) {#visit_43}
 
+Visit/select d0 operator.
+
 ```csharp
 public void Visit(SetCharWidth d0)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| d0 | SetCharWidth | Set glyph width in Type 3 font operator. |
 
 ### See Also
 
@@ -143,9 +197,15 @@ public void Visit(SetCharWidth d0)
 
 ## Visit(SetDash) {#visit_52}
 
+Visit/select d operator.
+
 ```csharp
 public void Visit(SetDash d)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| d | SetDash | Set line dash pattern operator. |
 
 ### See Also
 
@@ -158,9 +218,15 @@ public void Visit(SetDash d)
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
+Visit/select CS operator.
+
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| CS | SetColorSpaceStroke | Set color space operator (for stroking operations). |
 
 ### See Also
 
@@ -173,9 +239,15 @@ public void Visit(SetColorSpaceStroke CS)
 
 ## Visit(SetColorSpace) {#visit_49}
 
+Visit/select cs operator.
+
 ```csharp
 public void Visit(SetColorSpace cs)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cs | SetColorSpace | Set color space operator (for nonstroking operations). |
 
 ### See Also
 
@@ -188,9 +260,15 @@ public void Visit(SetColorSpace cs)
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
+Visit/select cm operator.
+
 ```csharp
 public void Visit(ConcatenateMatrix cm)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cm | ConcatenateMatrix | Concatenate matrix to current transformation matrix operator. |
 
 ### See Also
 
@@ -203,9 +281,15 @@ public void Visit(ConcatenateMatrix cm)
 
 ## Visit(CurveTo) {#visit_11}
 
+Visit/select c operator.
+
 ```csharp
 public void Visit(CurveTo c)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | CurveTo | Append curved segment to path operator (three control points). |
 
 ### See Also
 
@@ -218,9 +302,15 @@ public void Visit(CurveTo c)
 
 ## Visit(BX) {#visit_4}
 
+Visit/select BX operator.
+
 ```csharp
 public void Visit(BX BX)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BX | BX | Begin compatibility section operator. |
 
 ### See Also
 
@@ -233,9 +323,15 @@ public void Visit(BX BX)
 
 ## Visit(BT) {#visit_3}
 
+Visit/select BT operator.
+
 ```csharp
 public void Visit(BT BT)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BT | BT | Begin text object operator. |
 
 ### See Also
 
@@ -248,9 +344,15 @@ public void Visit(BT BT)
 
 ## Visit(BMC) {#visit_2}
 
+Visit/select BMC operator.
+
 ```csharp
 public void Visit(BMC BMC)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BMC | BMC | Begin marked-content sequence operator. |
 
 ### See Also
 
@@ -263,9 +365,15 @@ public void Visit(BMC BMC)
 
 ## Visit(BI) {#visit_1}
 
+Visit/select BI operator.
+
 ```csharp
 public void Visit(BI BI)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BI | BI | Begin inline image object operator. |
 
 ### See Also
 
@@ -278,9 +386,15 @@ public void Visit(BI BI)
 
 ## Visit(BDC) {#visit}
 
+Visit/select BDC operator.
+
 ```csharp
 public void Visit(BDC BDC)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BDC | BDC | Begin marked-content sequence operator (with property list). |
 
 ### See Also
 
@@ -293,9 +407,15 @@ public void Visit(BDC BDC)
 
 ## Visit(FillStroke) {#visit_25}
 
+Visit/select B operator.
+
 ```csharp
 public void Visit(FillStroke B)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| B | FillStroke | Fill and stroke path operator (nonzero winding number rule). |
 
 ### See Also
 
@@ -308,9 +428,15 @@ public void Visit(FillStroke B)
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
+Visit/select b operator.
+
 ```csharp
 public void Visit(ClosePathFillStroke b)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| b | ClosePathFillStroke | Close, fill, and stroke path operator (nonzero winding number rule). |
 
 ### See Also
 
@@ -323,9 +449,15 @@ public void Visit(ClosePathFillStroke b)
 
 ## Visit(EOFillStroke) {#visit_21}
 
+Visit/select B* operator.
+
 ```csharp
 public void Visit(EOFillStroke B_)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| B_ | EOFillStroke | Fill and stroke path operator (even-odd rule). |
 
 ### See Also
 
@@ -338,9 +470,15 @@ public void Visit(EOFillStroke B_)
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
+Visit/select b* operator.
+
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| b_ | ClosePathEOFillStroke | Close, fill, and stroke path operator (even-odd rule). |
 
 ### See Also
 
@@ -353,9 +491,15 @@ public void Visit(ClosePathEOFillStroke b_)
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
+Visit/select ' operator.
+
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| _ | MoveToNextLineShowText | Move to next line and show text operator. |
 
 ### See Also
 
@@ -368,9 +512,15 @@ public void Visit(MoveToNextLineShowText _)
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
+Visit/select '' operator.
+
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| __ | SetSpacingMoveToNextLineShowText | Set word and character spacing, move to next line, and show text operator. |
 
 ### See Also
 
@@ -383,9 +533,15 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 ## Visit(EOFill) {#visit_20}
 
+Visit/select operator f*.
+
 ```csharp
 public void Visit(EOFill f_)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| f_ | EOFill | Fill path operator (even-odd rule). |
 
 ### See Also
 
@@ -398,9 +554,15 @@ public void Visit(EOFill f_)
 
 ## Visit(Fill) {#visit_24}
 
+Visit/select f operator.
+
 ```csharp
 public void Visit(Fill f)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| f | Fill | Fill path operator (nonzero winding number rule). |
 
 ### See Also
 
@@ -413,9 +575,15 @@ public void Visit(Fill f)
 
 ## Visit(ObsoleteFill) {#visit_37}
 
+Visit/select F operator.
+
 ```csharp
 public void Visit(ObsoleteFill F)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| F | ObsoleteFill | Fill path operator (nonzero winding number rule). |
 
 ### See Also
 
@@ -428,9 +596,15 @@ public void Visit(ObsoleteFill F)
 
 ## Visit(SetGray) {#visit_55}
 
+Visit/select g operator.
+
 ```csharp
 public void Visit(SetGray g)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| g | SetGray | Set gray level operator (for nonstroking operations). |
 
 ### See Also
 
@@ -443,9 +617,15 @@ public void Visit(SetGray g)
 
 ## Visit(SetGrayStroke) {#visit_56}
 
+Visit/select G operator.
+
 ```csharp
 public void Visit(SetGrayStroke G)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| G | SetGrayStroke | Set gray level operator (for stroking operations). |
 
 ### See Also
 
@@ -458,9 +638,15 @@ public void Visit(SetGrayStroke G)
 
 ## Visit(GS) {#visit_27}
 
+Visit/select gs operator.
+
 ```csharp
 public void Visit(GS gs)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gs | GS | Set graphics state operator. |
 
 ### See Also
 
@@ -473,9 +659,15 @@ public void Visit(GS gs)
 
 ## Visit(ClosePath) {#visit_6}
 
+Visit/select h operator.
+
 ```csharp
 public void Visit(ClosePath h)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| h | ClosePath | Close subpath operator. |
 
 ### See Also
 
@@ -488,9 +680,15 @@ public void Visit(ClosePath h)
 
 ## Visit(SetFlat) {#visit_53}
 
+Visit/select i operator.
+
 ```csharp
 public void Visit(SetFlat i)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| i | SetFlat | Set flatness tolerance operator. |
 
 ### See Also
 
@@ -503,9 +701,15 @@ public void Visit(SetFlat i)
 
 ## Visit(ID) {#visit_29}
 
+Visit/select ID operator.
+
 ```csharp
 public void Visit(ID ID)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ID | ID | Begin inline image data operator. |
 
 ### See Also
 
@@ -518,9 +722,15 @@ public void Visit(ID ID)
 
 ## Visit(SetLineCap) {#visit_58}
 
+Visit/select J operator.
+
 ```csharp
 public void Visit(SetLineCap J)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| J | SetLineCap | Set line cap style operator. |
 
 ### See Also
 
@@ -533,9 +743,15 @@ public void Visit(SetLineCap J)
 
 ## Visit(SetCMYKColor) {#visit_45}
 
+Visit/select k operator.
+
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| k | SetCMYKColor | Set CMYK color operator (for nonstroking operations). |
 
 ### See Also
 
@@ -548,9 +764,15 @@ public void Visit(SetCMYKColor k)
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
+Visit/select K operator.
+
 ```csharp
 public void Visit(SetCMYKColorStroke K)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| K | SetCMYKColorStroke | Set CMYK color operator (for stroking operations). |
 
 ### See Also
 
@@ -563,9 +785,15 @@ public void Visit(SetCMYKColorStroke K)
 
 ## Visit(LineTo) {#visit_30}
 
+Visit/select l operator.
+
 ```csharp
 public void Visit(LineTo l)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| l | LineTo | Append straight line segment to path operator. |
 
 ### See Also
 
@@ -578,9 +806,15 @@ public void Visit(LineTo l)
 
 ## Visit(MoveTo) {#visit_33}
 
+Visit/select m operator.
+
 ```csharp
 public void Visit(MoveTo m)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| m | MoveTo | Begin new subpath operator. |
 
 ### See Also
 
@@ -593,9 +827,15 @@ public void Visit(MoveTo m)
 
 ## Visit(SetMiterLimit) {#visit_61}
 
+Visit/select M operator.
+
 ```csharp
 public void Visit(SetMiterLimit M)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| M | SetMiterLimit | Set miter limit operator. |
 
 ### See Also
 
@@ -608,9 +848,15 @@ public void Visit(SetMiterLimit M)
 
 ## Visit(MP) {#visit_36}
 
+Visit/select MP operator.
+
 ```csharp
 public void Visit(MP MP)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| MP | MP | Define marked-content point operator. |
 
 ### See Also
 
@@ -623,9 +869,15 @@ public void Visit(MP MP)
 
 ## Visit(EndPath) {#visit_18}
 
+Visit/select n operator.
+
 ```csharp
 public void Visit(EndPath n)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| n | EndPath | End path operator (without filling or stroking). |
 
 ### See Also
 
@@ -638,9 +890,15 @@ public void Visit(EndPath n)
 
 ## Visit(GSave) {#visit_28}
 
+Visit/select q operator.
+
 ```csharp
 public void Visit(GSave q)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| q | GSave | Save graphics state operator. |
 
 ### See Also
 
@@ -653,9 +911,15 @@ public void Visit(GSave q)
 
 ## Visit(GRestore) {#visit_26}
 
+Visit/select Q operator.
+
 ```csharp
 public void Visit(GRestore Q)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Q | GRestore | Restore graphics state operator. |
 
 ### See Also
 
@@ -668,9 +932,15 @@ public void Visit(GRestore Q)
 
 ## Visit(Re) {#visit_38}
 
+Visit/select re operator.
+
 ```csharp
 public void Visit(Re re)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| re | Re | Append rectangle to path operator. |
 
 ### See Also
 
@@ -683,9 +953,15 @@ public void Visit(Re re)
 
 ## Visit(SetRGBColor) {#visit_62}
 
+Visit/select rg operator.
+
 ```csharp
 public void Visit(SetRGBColor rg)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rg | SetRGBColor | Set RGB color operator (for nonstroking operations). |
 
 ### See Also
 
@@ -698,9 +974,15 @@ public void Visit(SetRGBColor rg)
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
+Visit/select RG operator.
+
 ```csharp
 public void Visit(SetRGBColorStroke RG)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| RG | SetRGBColorStroke | Set RGB color operator (for stroking operations). |
 
 ### See Also
 
@@ -713,9 +995,15 @@ public void Visit(SetRGBColorStroke RG)
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
+Visit/select ri operator.
+
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ri | SetColorRenderingIntent | Set color rendering intent operator. |
 
 ### See Also
 
@@ -728,9 +1016,15 @@ public void Visit(SetColorRenderingIntent ri)
 
 ## Visit(ClosePathStroke) {#visit_9}
 
+Visit/select s operator.
+
 ```csharp
 public void Visit(ClosePathStroke s)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| s | ClosePathStroke | Close and stroke path operator. |
 
 ### See Also
 
@@ -743,9 +1037,15 @@ public void Visit(ClosePathStroke s)
 
 ## Visit(Stroke) {#visit_72}
 
+Visit/select S operator.
+
 ```csharp
 public void Visit(Stroke S)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| S | Stroke | Stroke path operator. |
 
 ### See Also
 
@@ -758,9 +1058,15 @@ public void Visit(Stroke S)
 
 ## Visit(SetColor) {#visit_47}
 
+Visit/select sc operator.
+
 ```csharp
 public void Visit(SetColor sc)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sc | SetColor | Set color operator (for nonstroking operations). |
 
 ### See Also
 
@@ -773,9 +1079,15 @@ public void Visit(SetColor sc)
 
 ## Visit(SetColorStroke) {#visit_51}
 
+Visit/select SC operator.
+
 ```csharp
 public void Visit(SetColorStroke SC)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| SC | SetColorStroke | Set color operator (for stroking operations). |
 
 ### See Also
 
@@ -788,9 +1100,15 @@ public void Visit(SetColorStroke SC)
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
+Visit/select scn operator.
+
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scn | SetAdvancedColor | Set color operator (for nonstroking operations, ICCBased and special colour spaces). |
 
 ### See Also
 
@@ -803,9 +1121,15 @@ public void Visit(SetAdvancedColor scn)
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
+Visit/select SCN operator.
+
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| SCN | SetAdvancedColorStroke | Set color operator (for stroking operations, ICCBasedand special colour spaces). |
 
 ### See Also
 
@@ -818,9 +1142,15 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 ## Visit(ShFill) {#visit_70}
 
+Visit/select sh operator.
+
 ```csharp
 public void Visit(ShFill sh)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sh | ShFill | Paint area defined by shading pattern operator. |
 
 ### See Also
 
@@ -833,9 +1163,15 @@ public void Visit(ShFill sh)
 
 ## Visit(MoveToNextLine) {#visit_34}
 
+Visit/select T* operator.
+
 ```csharp
 public void Visit(MoveToNextLine T_)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| T_ | MoveToNextLine | Move to start of next text line operator. |
 
 ### See Also
 
@@ -848,9 +1184,15 @@ public void Visit(MoveToNextLine T_)
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
+Visit/select Tc operator.
+
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tc | SetCharacterSpacing | Set character spacing operator. |
 
 ### See Also
 
@@ -863,9 +1205,15 @@ public void Visit(SetCharacterSpacing Tc)
 
 ## Visit(MoveTextPosition) {#visit_31}
 
+Visit/select Td operator.
+
 ```csharp
 public void Visit(MoveTextPosition Td)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Td | MoveTextPosition | Move text position operator. |
 
 ### See Also
 
@@ -878,9 +1226,15 @@ public void Visit(MoveTextPosition Td)
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
+Visit/select TD operator.
+
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| TD | MoveTextPositionSetLeading | Move text position and set leading operator. |
 
 ### See Also
 
@@ -893,9 +1247,15 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 ## Visit(SelectFont) {#visit_39}
 
+Visit/select Tf operator.
+
 ```csharp
 public void Visit(SelectFont Tf)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tf | SelectFont | Set text font and size operator. |
 
 ### See Also
 
@@ -908,9 +1268,15 @@ public void Visit(SelectFont Tf)
 
 ## Visit(ShowText) {#visit_71}
 
+Visit/select Tj operator.
+
 ```csharp
 public void Visit(ShowText Tj)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tj | ShowText | Show text operator. |
 
 ### See Also
 
@@ -923,9 +1289,15 @@ public void Visit(ShowText Tj)
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
+Visit/select TJ operator.
+
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| TJ | SetGlyphsPositionShowText | Show text operator (allowing individual glyph positioning). |
 
 ### See Also
 
@@ -938,9 +1310,15 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 ## Visit(SetTextLeading) {#visit_65}
 
+Visit/select TL operator.
+
 ```csharp
 public void Visit(SetTextLeading TL)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| TL | SetTextLeading | Set text leading operator. |
 
 ### See Also
 
@@ -953,9 +1331,15 @@ public void Visit(SetTextLeading TL)
 
 ## Visit(SetTextMatrix) {#visit_66}
 
+Visit/select Tm operator.
+
 ```csharp
 public void Visit(SetTextMatrix Tm)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tm | SetTextMatrix | Set text matrix and text line matrix operator. |
 
 ### See Also
 
@@ -968,9 +1352,15 @@ public void Visit(SetTextMatrix Tm)
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
+Visit/select Tr operator.
+
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tr | SetTextRenderingMode | Set text rendering mode operator. |
 
 ### See Also
 
@@ -983,9 +1373,15 @@ public void Visit(SetTextRenderingMode Tr)
 
 ## Visit(SetTextRise) {#visit_68}
 
+Visit/select Ts operator.
+
 ```csharp
 public void Visit(SetTextRise Ts)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Ts | SetTextRise | Set text rise operator. |
 
 ### See Also
 
@@ -998,9 +1394,15 @@ public void Visit(SetTextRise Ts)
 
 ## Visit(SetWordSpacing) {#visit_69}
 
+Visit/select Tw operator.
+
 ```csharp
 public void Visit(SetWordSpacing Tw)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tw | SetWordSpacing | Set word spacing operator. |
 
 ### See Also
 
@@ -1013,9 +1415,15 @@ public void Visit(SetWordSpacing Tw)
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
+Visit/select Tz operator.
+
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tz | SetHorizontalTextScaling | Set horizontal text scaling operator. |
 
 ### See Also
 
@@ -1028,9 +1436,15 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 ## Visit(CurveTo1) {#visit_12}
 
+Visit/select v operator.
+
 ```csharp
 public void Visit(CurveTo1 v)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| v | CurveTo1 | Append curved segment to path operator (initial point replicated). |
 
 ### See Also
 
@@ -1043,9 +1457,15 @@ public void Visit(CurveTo1 v)
 
 ## Visit(EOClip) {#visit_19}
 
+Visit/select W* operator.
+
 ```csharp
 public void Visit(EOClip W_)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| W_ | EOClip | Set clipping path operator (even-odd rule). |
 
 ### See Also
 
@@ -1058,9 +1478,15 @@ public void Visit(EOClip W_)
 
 ## Visit(SetLineWidth) {#visit_60}
 
+Visit/select w operator.
+
 ```csharp
 public void Visit(SetLineWidth w)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| w | SetLineWidth | Set line width operator. |
 
 ### See Also
 
@@ -1073,9 +1499,15 @@ public void Visit(SetLineWidth w)
 
 ## Visit(Clip) {#visit_5}
 
+Visit/select W operator.
+
 ```csharp
 public void Visit(Clip W)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| W | Clip | Set clipping path operator (nonzero winding number rule). |
 
 ### See Also
 
@@ -1088,9 +1520,15 @@ public void Visit(Clip W)
 
 ## Visit(CurveTo2) {#visit_13}
 
+Visit/select y operator.
+
 ```csharp
 public void Visit(CurveTo2 y)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| y | CurveTo2 | Append curved segment to path operator (final point replicated). |
 
 ### See Also
 
@@ -1103,9 +1541,15 @@ public void Visit(CurveTo2 y)
 
 ## Visit(TextOperator) {#visit_73}
 
+Visit/select any text operator operator.
+
 ```csharp
 public void Visit(TextOperator textOperator)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textOperator | TextOperator | General text operator which is used to select the set of corresponding pdf operators. |
 
 ### See Also
 

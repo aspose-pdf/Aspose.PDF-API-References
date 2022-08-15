@@ -1,12 +1,14 @@
 ---
 title: Green
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Green component of color.
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/fontcolor/green/
 ---
 ## FontColor.Green property
+
+Green component of color.
 
 ```csharp
 public int Green { get; set; }

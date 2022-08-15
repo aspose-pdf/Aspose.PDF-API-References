@@ -1,12 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets/sets background color. Default value Transparent.
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
 ## SignatureCustomAppearance.BackgroundColor property
+
+Gets/sets background color. Default value: Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }

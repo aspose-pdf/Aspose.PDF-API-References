@@ -1,12 +1,14 @@
 ---
 title: BottomMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents bottom page marginif any
 type: docs
 weight: 20
 url: /net/aspose.pdf/saveoptions.margininfo/bottommarginifany/
 ---
 ## SaveOptions.MarginInfo.BottomMarginIfAny field
+
+Represents bottom page margin(if any)
 
 ```csharp
 public MarginPartStyle BottomMarginIfAny;

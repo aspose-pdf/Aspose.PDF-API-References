@@ -1,12 +1,14 @@
 ---
 title: PclLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents options for loadingimport PCL file into pdf document.
 type: docs
 weight: 5880
 url: /net/aspose.pdf/pclloadoptions/
 ---
 ## PclLoadOptions class
+
+Represents options for loading(import) PCL file into pdf document.
 
 ```csharp
 public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
@@ -22,17 +24,17 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize) { get; set; } |  |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
+| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine) |  |
-| [Exceptions](../../aspose.pdf/pclloadoptions/exceptions) |  |
-| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors) |  |
+| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine) | Defines conversion engine that will be used for conversion |
+| [Exceptions](../../aspose.pdf/pclloadoptions/exceptions) | List of conversion errors. |
+| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors) | Gets or sets boolean value which indicates will PCL conversion errors should be supressed. |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: BorderInfo
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Creates instance of BorderInfo class
 type: docs
 weight: 10
 url: /net/aspose.pdf/saveoptions.borderinfo/borderinfo/
 ---
 ## BorderInfo() {#constructor}
 
-The default constructor.
+Creates instance of BorderInfo class
 
 ```csharp
 public BorderInfo()
@@ -24,9 +24,15 @@ public BorderInfo()
 
 ## BorderInfo(BorderPartStyle) {#constructor_1}
 
+Creates instance of BorderInfo class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style
+
 ```csharp
 public BorderInfo(BorderPartStyle commonStyle)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| commonStyle | BorderPartStyle | style of border parts that will be used for all elements of border(left, right, top, bottom) |
 
 ### See Also
 

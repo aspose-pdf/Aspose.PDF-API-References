@@ -1,16 +1,22 @@
 ---
 title: CreateNonStructElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates NonStructElementaspose.pdf.logicalstructure/nonstructelement.
 type: docs
 weight: 180
 url: /net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
 ## ITaggedContent.CreateNonStructElement method
 
+Creates [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement).
+
 ```csharp
 public NonStructElement CreateNonStructElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

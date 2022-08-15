@@ -1,12 +1,14 @@
 ---
 title: FormPresentationMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets form presentation mode.
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/pdfconverter/formpresentationmode/
 ---
 ## PdfConverter.FormPresentationMode property
+
+Gets or sets form presentation mode.
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }

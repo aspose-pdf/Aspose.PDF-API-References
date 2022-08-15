@@ -1,12 +1,14 @@
 ---
 title: Algorithm
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents algorithms which can be used to encrypt pdf document.
 type: docs
 weight: 2110
 url: /net/aspose.pdf.facades/algorithm/
 ---
 ## Algorithm enumeration
+
+Represents algorithms which can be used to encrypt pdf document.
 
 ```csharp
 public enum Algorithm
@@ -16,8 +18,8 @@ public enum Algorithm
 
 | Name | Value | Description |
 | --- | --- | --- |
-| RC4 | `0` |  |
-| AES | `1` |  |
+| RC4 | `0` | RC4 algorithm. |
+| AES | `1` | AES algorithm. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Producer
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the document producer.
 type: docs
 weight: 100
 url: /net/aspose.pdf/documentinfo/producer/
 ---
 ## DocumentInfo.Producer property
+
+Gets or sets the document producer.
 
 ```csharp
 public string Producer { get; set; }

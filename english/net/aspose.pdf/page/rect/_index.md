@@ -1,15 +1,27 @@
 ---
 title: Rect
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets rectangle of the page. Page crop box is returned if specified otherwise page media box is returned. Please note that this property dont consider page rotation. To get page rectangle considering rotation please use ActualRect.
 type: docs
 weight: 230
 url: /net/aspose.pdf/page/rect/
 ---
 ## Page.Rect property
 
+Gets or sets rectangle of the page. Page crop box is returned if specified, otherwise page media box is returned. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect.
+
 ```csharp
 public Rectangle Rect { get; set; }
+```
+
+### Examples
+
+Example demonstrates how to get page rectangle:
+
+```csharp
+Document document = new Document("sample.pdf");
+Page page = document.Pages[1];
+Rectangle pageRect = page.Rect;
 ```
 
 ### See Also

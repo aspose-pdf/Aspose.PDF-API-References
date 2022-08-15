@@ -1,12 +1,14 @@
 ---
 title: AlignMiddle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines vertical aglignment as middle style.
 type: docs
 weight: 250
 url: /net/aspose.pdf.facades/formfieldfacade/alignmiddle/
 ---
 ## FormFieldFacade.AlignMiddle field
+
+Defines vertical aglignment as middle style.
 
 ```csharp
 public const int AlignMiddle;

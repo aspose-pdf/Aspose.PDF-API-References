@@ -1,12 +1,14 @@
 ---
 title: ImageEncoding
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Image encoding types.
 type: docs
 weight: 5680
 url: /net/aspose.pdf.optimization/imageencoding/
 ---
 ## ImageEncoding enumeration
+
+Image encoding types.
 
 ```csharp
 public enum ImageEncoding
@@ -16,10 +18,10 @@ public enum ImageEncoding
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Unchanged | `0` |  |
-| Jpeg | `1` |  |
-| Flate | `2` |  |
-| Jpeg2000 | `3` |  |
+| Unchanged | `0` | Don't change encoding. |
+| Jpeg | `1` | JPEG (DCT) encoding. |
+| Flate | `2` | Flate encoding. |
+| Jpeg2000 | `3` | JPEG2000 (JPX) encoding. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: SetColorRenderingIntent
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Set Color Rendering Intent operator constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/
 ---
 ## SetColorRenderingIntent constructor
 
+Set Color Rendering Intent operator constructor.
+
 ```csharp
 public SetColorRenderingIntent(string intentName)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| intentName | String | Color Rendering Intent. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: NumberOfPages
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the number of document pages.
 type: docs
 weight: 130
 url: /net/aspose.pdf.facades/pdffileinfo/numberofpages/
 ---
 ## PdfFileInfo.NumberOfPages property
+
+Gets the number of document pages.
 
 ```csharp
 public int NumberOfPages { get; }

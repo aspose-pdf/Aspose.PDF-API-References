@@ -1,16 +1,22 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns text representation of operators.
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/clip/tostring/
 ---
 ## Clip.ToString method
 
+Returns text representation of operators.
+
 ```csharp
 public override string ToString()
 ```
+
+### Return Value
+
+Text representation of operator.
 
 ### See Also
 

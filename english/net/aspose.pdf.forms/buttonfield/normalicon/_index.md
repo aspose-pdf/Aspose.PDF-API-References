@@ -1,12 +1,14 @@
 ---
 title: NormalIcon
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets normal icon of the button which shall be displayed when it is not interacting with the user.
 type: docs
 weight: 70
 url: /net/aspose.pdf.forms/buttonfield/normalicon/
 ---
 ## ButtonField.NormalIcon property
+
+Gets or sets normal icon of the button which shall be displayed when it is not interacting with the user.
 
 ```csharp
 public XForm NormalIcon { get; set; }

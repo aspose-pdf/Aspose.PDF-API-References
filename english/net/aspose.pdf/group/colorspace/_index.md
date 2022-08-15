@@ -1,12 +1,14 @@
 ---
 title: ColorSpace
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The group color space.
 type: docs
 weight: 20
 url: /net/aspose.pdf/group/colorspace/
 ---
 ## Group.ColorSpace property
+
+The group color space.
 
 ```csharp
 public ColorSpace ColorSpace { get; set; }

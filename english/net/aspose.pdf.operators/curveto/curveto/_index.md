@@ -1,16 +1,27 @@
 ---
 title: CurveTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes curve operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/curveto/curveto/
 ---
 ## CurveTo constructor
 
+Initializes curve operator.
+
 ```csharp
 public CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x1 | Double | Abscissa of first point. |
+| y1 | Double | Ordinate of first point. |
+| x2 | Double | Abscissa of second point. |
+| y2 | Double | Ordinate of second point. |
+| x3 | Double | Abscissa of third point. |
+| y3 | Double | Ordinate of third point. |
 
 ### See Also
 

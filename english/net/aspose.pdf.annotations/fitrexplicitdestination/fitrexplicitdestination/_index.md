@@ -1,16 +1,26 @@
 ---
 title: FitRExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates local explicit destination.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
 ---
 ## FitRExplicitDestination(Page, double, double, double, double) {#constructor_1}
 
+Creates local explicit destination.
+
 ```csharp
 public FitRExplicitDestination(Page page, double left, double bottom, double right, double top)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The destination page object. |
+| left | Double | Left horizontal coordinate of visible rectangle. |
+| bottom | Double | Bottom vertical coordinate of visible rectangle. |
+| right | Double | Right horizontal coordinate of visible rectangle. |
+| top | Double | Top vertical coordinate of visible rectangle. |
 
 ### See Also
 
@@ -23,9 +33,19 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 ## FitRExplicitDestination(int, double, double, double, double) {#constructor_2}
 
+Creates remote explicit destination.
+
 ```csharp
 public FitRExplicitDestination(int pageNumber, double left, double bottom, double right, double top)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNumber | Int32 | The destination page number of remote document. |
+| left | Double | Left horizontal coordinate of visible rectangle. |
+| bottom | Double | Bottom vertical coordinate of visible rectangle. |
+| right | Double | Right horizontal coordinate of visible rectangle. |
+| top | Double | Top vertical coordinate of visible rectangle. |
 
 ### See Also
 

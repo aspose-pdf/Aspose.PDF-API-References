@@ -1,12 +1,14 @@
 ---
 title: LLY
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Y - coordinate of lower-left corner.
 type: docs
 weight: 110
 url: /net/aspose.pdf/rectangle/lly/
 ---
 ## Rectangle.LLY property
+
+Y - coordinate of lower-left corner.
 
 ```csharp
 public double LLY { get; set; }

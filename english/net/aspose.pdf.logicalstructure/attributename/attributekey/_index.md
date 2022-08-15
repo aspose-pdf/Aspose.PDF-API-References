@@ -1,12 +1,14 @@
 ---
 title: AttributeKey
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets attribute key.
 type: docs
 weight: 680
 url: /net/aspose.pdf.logicalstructure/attributename/attributekey/
 ---
 ## AttributeName.AttributeKey property
+
+Gets attribute key.
 
 ```csharp
 public AttributeKey AttributeKey { get; }

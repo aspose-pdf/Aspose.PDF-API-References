@@ -1,12 +1,14 @@
 ---
 title: Format
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Output format
 type: docs
 weight: 20
 url: /net/aspose.pdf/excelsaveoptions/format/
 ---
 ## ExcelSaveOptions.Format property
+
+Output format
 
 ```csharp
 public ExcelFormat Format { get; set; }

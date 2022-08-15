@@ -1,12 +1,14 @@
 ---
 title: FontSource
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents a base class fot font source.
 type: docs
 weight: 6680
 url: /net/aspose.pdf.text/fontsource/
 ---
 ## FontSource class
+
+Represents a base class fot font source.
 
 ```csharp
 public abstract class FontSource

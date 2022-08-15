@@ -1,16 +1,22 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns text representation of operator.
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/emc/tostring/
 ---
 ## EMC.ToString method
 
+Returns text representation of operator.
+
 ```csharp
 public override string ToString()
 ```
+
+### Return Value
+
+Text representation of the operator.
 
 ### See Also
 

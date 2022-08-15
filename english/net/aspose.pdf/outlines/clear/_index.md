@@ -1,12 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clears all items from the collection.
 type: docs
 weight: 50
 url: /net/aspose.pdf/outlines/clear/
 ---
 ## Outlines.Clear method
+
+Clears all items from the collection.
 
 ```csharp
 public abstract void Clear()

@@ -1,16 +1,22 @@
 ---
 title: Turquoise
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF40E0D0.
 type: docs
 weight: 1360
 url: /net/aspose.pdf/color/turquoise/
 ---
 ## Color.Turquoise property
 
+Gets a system-defined color that has an ARGB value of #FF40E0D0.
+
 ```csharp
 public static Color Turquoise { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

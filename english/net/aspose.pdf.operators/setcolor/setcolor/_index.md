@@ -1,14 +1,14 @@
 ---
 title: SetColor
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setcolor/setcolor/
 ---
 ## SetColor() {#constructor}
 
-The default constructor.
+Initializes operator.
 
 ```csharp
 public SetColor()
@@ -24,9 +24,15 @@ public SetColor()
 
 ## SetColor(double) {#constructor_1}
 
+Set color for stroking operators for DeviceGrey, CalGrey and Indexed color spaces.
+
 ```csharp
 public SetColor(double g)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| g | Double | Color value. |
 
 ### See Also
 
@@ -38,9 +44,17 @@ public SetColor(double g)
 
 ## SetColor(double, double, double) {#constructor_2}
 
+Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces
+
 ```csharp
 public SetColor(double r, double g, double b)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| r | Double | Red component. |
+| g | Double | Green component. |
+| b | Double | Blue component. |
 
 ### See Also
 
@@ -52,9 +66,18 @@ public SetColor(double r, double g, double b)
 
 ## SetColor(double, double, double, double) {#constructor_3}
 
+Set color for non-stroking operator for CMYK color space
+
 ```csharp
 public SetColor(double c, double m, double y, double k)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | Double | Cyan component. |
+| m | Double | Magenta component. |
+| y | Double | Yellow component. |
+| k | Double | Black component. |
 
 ### See Also
 
@@ -66,9 +89,15 @@ public SetColor(double c, double m, double y, double k)
 
 ## SetColor(double[]) {#constructor_4}
 
+Constructor which allows to specify color components.
+
 ```csharp
 public SetColor(double[] color)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | Double[] | Array of color components. |
 
 ### See Also
 

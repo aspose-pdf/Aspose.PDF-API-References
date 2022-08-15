@@ -1,12 +1,14 @@
 ---
 title: DefaultEncodingFormat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Default value for encoding format.
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/soundsampledata/defaultencodingformat/
 ---
 ## SoundSampleData.DefaultEncodingFormat field
+
+Default value for encoding format.
 
 ```csharp
 public const SoundSampleDataEncodingFormat DefaultEncodingFormat;

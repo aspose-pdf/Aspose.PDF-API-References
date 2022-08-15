@@ -1,16 +1,22 @@
 ---
 title: ImageResolution
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets resolution for image rendering.
 type: docs
 weight: 110
 url: /net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
 ## HtmlSaveOptions.ImageResolution property
 
+Gets or sets resolution for image rendering.
+
 ```csharp
 public int ImageResolution { get; set; }
 ```
+
+### Property Value
+
+Resolution
 
 ### See Also
 

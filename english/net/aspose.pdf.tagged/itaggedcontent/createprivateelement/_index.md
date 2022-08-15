@@ -1,16 +1,22 @@
 ---
 title: CreatePrivateElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates PrivateElementaspose.pdf.logicalstructure/privateelement.
 type: docs
 weight: 220
 url: /net/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 ---
 ## ITaggedContent.CreatePrivateElement method
 
+Creates [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement).
+
 ```csharp
 public PrivateElement CreatePrivateElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

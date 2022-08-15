@@ -1,12 +1,14 @@
 ---
 title: BlockTextOperator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Abstract base class for text block operators i.e. Begin and End text operators BT/ET
 type: docs
 weight: 4900
 url: /net/aspose.pdf.operators/blocktextoperator/
 ---
 ## BlockTextOperator class
+
+Abstract base class for text block operators i.e. Begin and End text operators (BT/ET)
 
 ```csharp
 public class BlockTextOperator : TextOperator
@@ -16,21 +18,21 @@ public class BlockTextOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [BlockTextOperator](blocktextoperator#constructor)() | The default constructor. |
-| [BlockTextOperator](blocktextoperator#constructor_1)(TextProperties) |  |
+| [BlockTextOperator](blocktextoperator#constructor)() | Initializes operator. |
+| [BlockTextOperator](blocktextoperator#constructor_1)(TextProperties) | Initializes BlockTextOperator which accepts TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

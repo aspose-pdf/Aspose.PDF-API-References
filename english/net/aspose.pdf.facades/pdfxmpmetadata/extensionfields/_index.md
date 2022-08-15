@@ -1,12 +1,14 @@
 ---
 title: ExtensionFields
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the dictionary of extension fields.
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/pdfxmpmetadata/extensionfields/
 ---
 ## PdfXmpMetadata.ExtensionFields property
+
+Gets the dictionary of extension fields.
 
 ```csharp
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }

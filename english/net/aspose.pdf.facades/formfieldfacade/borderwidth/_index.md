@@ -1,12 +1,14 @@
 ---
 title: BorderWidth
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The width of a field border.
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/formfieldfacade/borderwidth/
 ---
 ## FormFieldFacade.BorderWidth property
+
+The width of a field border.
 
 ```csharp
 public float BorderWidth { get; set; }

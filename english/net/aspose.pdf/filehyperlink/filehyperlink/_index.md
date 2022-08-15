@@ -1,14 +1,14 @@
 ---
 title: FileHyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the FileHyperlinkaspose.pdf/filehyperlink class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/filehyperlink/filehyperlink/
 ---
 ## FileHyperlink() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`FileHyperlink`](../../filehyperlink) class.
 
 ```csharp
 public FileHyperlink()
@@ -24,9 +24,15 @@ public FileHyperlink()
 
 ## FileHyperlink(string) {#constructor_1}
 
+Initializes a new instance of the [`FileHyperlink`](../../filehyperlink) class.
+
 ```csharp
 public FileHyperlink(string path)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | String | Path to file. |
 
 ### See Also
 

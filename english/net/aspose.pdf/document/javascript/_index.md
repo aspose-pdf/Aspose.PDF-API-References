@@ -1,12 +1,14 @@
 ---
 title: JavaScript
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Collection of JavaScript of document level.
 type: docs
 weight: 330
 url: /net/aspose.pdf/document/javascript/
 ---
 ## Document.JavaScript property
+
+Collection of JavaScript of document level.
 
 ```csharp
 public JavaScriptCollection JavaScript { get; }

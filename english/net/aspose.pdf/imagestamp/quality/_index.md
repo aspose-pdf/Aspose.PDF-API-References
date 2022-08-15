@@ -1,12 +1,14 @@
 ---
 title: Quality
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets quality of image stamp in percent. Valid values are 0..100.
 type: docs
 weight: 40
 url: /net/aspose.pdf/imagestamp/quality/
 ---
 ## ImageStamp.Quality property
+
+Gets or sets quality of image stamp in percent. Valid values are 0..100%.
 
 ```csharp
 public int Quality { get; set; }

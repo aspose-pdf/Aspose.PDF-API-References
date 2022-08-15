@@ -1,12 +1,14 @@
 ---
 title: CheckBoxStyleStar
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines a star check box style.
 type: docs
 weight: 440
 url: /net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 ---
 ## FormFieldFacade.CheckBoxStyleStar field
+
+Defines a star check box style.
 
 ```csharp
 public const int CheckBoxStyleStar;

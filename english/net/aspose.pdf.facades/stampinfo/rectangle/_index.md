@@ -1,12 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets rectangle where stamp is placed.
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/stampinfo/rectangle/
 ---
 ## StampInfo.Rectangle property
+
+Gets rectangle where stamp is placed.
 
 ```csharp
 public Rectangle Rectangle { get; }

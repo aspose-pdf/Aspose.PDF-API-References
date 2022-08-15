@@ -1,12 +1,14 @@
 ---
 title: Ury
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Upper-right vertical coordinate of bounding rectangle.
 type: docs
 weight: 40
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/ury/
 ---
 ## SetCharWidthBoundingBox.Ury property
+
+Upper-right vertical coordinate of bounding rectangle.
 
 ```csharp
 public double Ury { get; }

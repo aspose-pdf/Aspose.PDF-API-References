@@ -1,12 +1,14 @@
 ---
 title: PropertyFlag
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumeration of possible field flags.
 type: docs
 weight: 2620
 url: /net/aspose.pdf.facades/propertyflag/
 ---
 ## PropertyFlag enumeration
+
+Enumeration of possible field flags.
 
 ```csharp
 public enum PropertyFlag
@@ -16,10 +18,10 @@ public enum PropertyFlag
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ReadOnly | `0` |  |
-| Required | `1` |  |
-| NoExport | `2` |  |
-| InvalidFlag | `3` |  |
+| ReadOnly | `0` | Field is read-only. |
+| Required | `1` | Field is required. |
+| NoExport | `2` | Field is not exportable. |
+| InvalidFlag | `3` | Invalid field flag. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: ScalingReason
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The circumstances under which the icon shall be scaled inside the annotation rectangle.
 type: docs
 weight: 3150
 url: /net/aspose.pdf.forms/scalingreason/
 ---
 ## ScalingReason enumeration
+
+The circumstances under which the icon shall be scaled inside the annotation rectangle.
 
 ```csharp
 public enum ScalingReason
@@ -16,10 +18,10 @@ public enum ScalingReason
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Always | `0` |  |
-| IconIsBigger | `1` |  |
-| IconIsSmaller | `2` |  |
-| Never | `3` |  |
+| Always | `0` | Always scale. |
+| IconIsBigger | `1` | BScale only when the icon is bigger than the annotation rectangle. |
+| IconIsSmaller | `2` | Scale only when the icon is smaller than the annotation rectangle. |
+| Never | `3` | Never scale. |
 
 ### See Also
 

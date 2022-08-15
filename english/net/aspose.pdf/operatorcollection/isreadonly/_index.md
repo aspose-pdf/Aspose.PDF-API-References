@@ -1,12 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a value indicating whether the collection is read-only.
 type: docs
 weight: 30
 url: /net/aspose.pdf/operatorcollection/isreadonly/
 ---
 ## OperatorCollection.IsReadOnly property
+
+Gets a value indicating whether the collection is read-only.
 
 ```csharp
 public override bool IsReadOnly { get; }

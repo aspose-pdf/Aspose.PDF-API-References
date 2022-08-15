@@ -1,12 +1,14 @@
 ---
 title: Default
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets PdfFormatConversionOptions object with default parameters
 type: docs
 weight: 20
 url: /net/aspose.pdf/pdfformatconversionoptions/default/
 ---
 ## PdfFormatConversionOptions.Default property
+
+Gets PdfFormatConversionOptions object with default parameters
 
 ```csharp
 public static PdfFormatConversionOptions Default { get; }

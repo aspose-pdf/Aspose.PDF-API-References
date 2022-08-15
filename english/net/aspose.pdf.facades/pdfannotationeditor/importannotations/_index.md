@@ -1,15 +1,33 @@
 ---
 title: ImportAnnotations
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Imports the specified annotations into document from array of another PDF documents.
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
+Imports the specified annotations into document from array of another PDF documents.
+
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotFile | String[] | The array of paths of PDF documents that contain source annotations. |
+| annotType | AnnotationType[] | The array of annotation types to be imported. |
+
+### Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+string[] paths = new string[2] {"with_annots1.pdf", "with_annots2.pdf"};
+AnnotationType[] annotTypes = {AnnotationType.Highlight, AnnotationType.Text};
+editor.ImportAnnotations(paths, annotTypes);
+editor.Save("example_out.pdf");
 ```
 
 ### See Also
@@ -23,8 +41,24 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
+Imports annotations into document from array of another PDF documents.
+
 ```csharp
 public void ImportAnnotations(string[] annotFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotFile | String[] | The array of paths of PDF documents that contain source annotations. |
+
+### Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+string[] paths = new string[2] {"with_annots1.pdf", "with_annots2.pdf"};
+editor.ImportAnnotations(paths);
+editor.Save("example_out.pdf");
 ```
 
 ### See Also
@@ -37,8 +71,30 @@ public void ImportAnnotations(string[] annotFile)
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
+Imports the specified annotations into document from array of another PDF document streams.
+
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotFileStream | Stream[] | The array of streams of PDF documents that contain source annotations. |
+| annotType | AnnotationType[] | The annotation types to be imported. |
+
+### Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+Stream[] streams = new FileStream[2];
+stream[0]= File.OpenRead("with_annots1.pdf");
+stream[1]= File.OpenRead("with_annots2.pdf");
+AnnotationType[] annotTypes = {AnnotationType.Highlight, AnnotationType.Text};
+editor.ImportAnnotations(streams, annotTypes);
+editor.Save("example_out.pdf");
+stream[0].Close();
+stream[1].Close();
 ```
 
 ### See Also
@@ -52,8 +108,28 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
+Imports annotations into document from array of another PDF document streams.
+
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotFileStream | Stream[] | The array of streams of PDF documents that contain source annotations. |
+
+### Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+Stream[] streams = new FileStream[2];
+streams[0]= File.OpenRead("with_annots1.pdf");
+streams[1]= File.OpenRead("with_annots2.pdf");
+editor.ImportAnnotations(streams);
+editor.Save("example_out.pdf");
+streams[0].Close();
+streams[1].Close();
 ```
 
 ### See Also

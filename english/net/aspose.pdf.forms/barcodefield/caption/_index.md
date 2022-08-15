@@ -1,12 +1,14 @@
 ---
 title: Caption
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the caption of the barcode object.
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/barcodefield/caption/
 ---
 ## BarcodeField.Caption property
+
+Gets the caption of the barcode object.
 
 ```csharp
 public string Caption { get; }

@@ -1,12 +1,14 @@
 ---
 title: FontOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Useful properties to tune Font behaviour
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/font/fontoptions/
 ---
 ## Font.FontOptions property
+
+Useful properties to tune Font behaviour
 
 ```csharp
 public IFontOptions FontOptions { get; }

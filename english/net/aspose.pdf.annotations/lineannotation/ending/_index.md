@@ -1,12 +1,14 @@
 ---
 title: Ending
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets line ending point.
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/lineannotation/ending/
 ---
 ## LineAnnotation.Ending property
+
+Gets or sets line ending point.
 
 ```csharp
 public Point Ending { get; set; }

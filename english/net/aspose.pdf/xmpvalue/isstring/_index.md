@@ -1,12 +1,14 @@
 ---
 title: IsString
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns true if value is string.
 type: docs
 weight: 100
 url: /net/aspose.pdf/xmpvalue/isstring/
 ---
 ## XmpValue.IsString property
+
+Returns true if value is string.
 
 ```csharp
 public bool IsString { get; }

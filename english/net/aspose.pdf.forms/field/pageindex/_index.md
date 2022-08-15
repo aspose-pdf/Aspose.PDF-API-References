@@ -1,12 +1,14 @@
 ---
 title: PageIndex
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets index of page which contains this field.
 type: docs
 weight: 100
 url: /net/aspose.pdf.forms/field/pageindex/
 ---
 ## Field.PageIndex property
+
+Gets index of page which contains this field.
 
 ```csharp
 public override int PageIndex { get; }

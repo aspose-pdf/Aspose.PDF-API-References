@@ -1,16 +1,22 @@
 ---
 title: RadioButtonField
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor for RadiouttonField
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
 ---
 ## RadioButtonField(Page) {#constructor_1}
 
+Constructor for RadiouttonField
+
 ```csharp
 public RadioButtonField(Page page)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where radio button will be placed. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public RadioButtonField(Page page)
 
 ## RadioButtonField(Document) {#constructor}
 
+Constructor for RadioButtonField.
+
 ```csharp
 public RadioButtonField(Document doc)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where radio button will be created. |
 
 ### See Also
 

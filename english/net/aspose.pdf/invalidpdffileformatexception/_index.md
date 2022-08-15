@@ -1,12 +1,14 @@
 ---
 title: InvalidPdfFileFormatException
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The exception that is thrown when a pdf file is invalid.
 type: docs
 weight: 3830
 url: /net/aspose.pdf/invalidpdffileformatexception/
 ---
 ## InvalidPdfFileFormatException class
+
+The exception that is thrown when a pdf file is invalid.
 
 ```csharp
 public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
@@ -16,9 +18,9 @@ public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
 
 | Name | Description |
 | --- | --- |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor)(Exception) |  |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_1)(string) |  |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_2)(string, Exception) |  |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor)(Exception) | Initializes a new instance of the [`InvalidPdfFileFormatException`](../invalidpdffileformatexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_1)(string) | Initializes a new instance of the [`InvalidPdfFileFormatException`](../invalidpdffileformatexception) class. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception#constructor_2)(string, Exception) | Initializes a new instance of the [`InvalidPdfFileFormatException`](../invalidpdffileformatexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

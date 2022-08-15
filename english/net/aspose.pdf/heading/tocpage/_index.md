@@ -1,12 +1,14 @@
 ---
 title: TocPage
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the page that contains this heading.
 type: docs
 weight: 80
 url: /net/aspose.pdf/heading/tocpage/
 ---
 ## Heading.TocPage property
+
+Gets the page that contains this heading.
 
 ```csharp
 public Page TocPage { get; set; }

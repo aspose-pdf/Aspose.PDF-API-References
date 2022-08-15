@@ -1,12 +1,14 @@
 ---
 title: PageModeUseNone
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Neither document outline nor thumbnail images visible
 type: docs
 weight: 220
 url: /net/aspose.pdf.facades/viewerpreference/pagemodeusenone/
 ---
 ## ViewerPreference.PageModeUseNone field
+
+Neither document outline nor thumbnail images visible
 
 ```csharp
 public const int PageModeUseNone;

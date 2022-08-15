@@ -1,12 +1,14 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumeration of possible rotation values.
 type: docs
 weight: 6190
 url: /net/aspose.pdf/rotation/
 ---
 ## Rotation enumeration
+
+Enumeration of possible rotation values.
 
 ```csharp
 public enum Rotation
@@ -16,10 +18,10 @@ public enum Rotation
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| on90 | `1` |  |
-| on180 | `2` |  |
-| on270 | `3` |  |
+| None | `0` | Non-rotated. |
+| on90 | `1` | Rotated on 90 degrees clockwise. |
+| on180 | `2` | Rotated on 180 degrees. |
+| on270 | `3` | Rotated on 270 degrees clockwise. |
 
 ### See Also
 

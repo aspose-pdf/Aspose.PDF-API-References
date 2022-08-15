@@ -1,12 +1,14 @@
 ---
 title: Highlighting
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Annotation highlighting mode.
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/widgetannotation/highlighting/
 ---
 ## WidgetAnnotation.Highlighting property
+
+Annotation highlighting mode.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }

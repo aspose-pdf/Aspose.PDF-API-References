@@ -1,12 +1,14 @@
 ---
 title: SlopeFormat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: A number format array for measurement of the slope of a line.
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/measure/slopeformat/
 ---
 ## Measure.SlopeFormat property
+
+A number format array for measurement of the slope of a line.
 
 ```csharp
 public NumberFormatList SlopeFormat { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: FilePath
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Path to the font file.
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/filefontsource/filepath/
 ---
 ## FileFontSource.FilePath property
+
+Path to the font file.
 
 ```csharp
 public string FilePath { get; set; }

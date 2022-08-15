@@ -1,12 +1,14 @@
 ---
 title: IndexOnPage
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets stamp index on the page.
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/stampinfo/indexonpage/
 ---
 ## StampInfo.IndexOnPage property
+
+Gets stamp index on the page.
 
 ```csharp
 public int IndexOnPage { get; }

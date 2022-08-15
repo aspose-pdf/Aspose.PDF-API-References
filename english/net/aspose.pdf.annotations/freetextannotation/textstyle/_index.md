@@ -1,12 +1,14 @@
 ---
 title: TextStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets style of the text in appearance. when text style is changed text appearance is updated.
 type: docs
 weight: 130
 url: /net/aspose.pdf.annotations/freetextannotation/textstyle/
 ---
 ## FreeTextAnnotation.TextStyle property
+
+Gets or sets style of the text in appearance. when text style is changed, text appearance is updated.
 
 ```csharp
 public TextStyle TextStyle { get; set; }

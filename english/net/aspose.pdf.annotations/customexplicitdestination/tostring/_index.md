@@ -1,16 +1,22 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Converts to page number.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
 ## CustomExplicitDestination.ToString method
 
+Converts to page number.
+
 ```csharp
 public override string ToString()
 ```
+
+### Return Value
+
+Page number.
 
 ### See Also
 

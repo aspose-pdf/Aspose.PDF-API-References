@@ -1,16 +1,22 @@
 ---
 title: CreateTableTDElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates TableTDElementaspose.pdf.logicalstructure/tabletdelement.
 type: docs
 weight: 300
 url: /net/aspose.pdf.tagged/itaggedcontent/createtabletdelement/
 ---
 ## ITaggedContent.CreateTableTDElement method
 
+Creates [`TableTDElement`](../../../aspose.pdf.logicalstructure/tabletdelement).
+
 ```csharp
 public TableTDElement CreateTableTDElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

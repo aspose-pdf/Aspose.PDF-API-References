@@ -1,12 +1,14 @@
 ---
 title: PdfFormatConversionOptions.SegmentAlignStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Describes strategies used to align document text segments. Now only strategy to restore segments to original bounds is supported. In future another strategies could be added.
 type: docs
 weight: 6010
 url: /net/aspose.pdf/pdfformatconversionoptions.segmentalignstrategy/
 ---
 ## PdfFormatConversionOptions.SegmentAlignStrategy enumeration
+
+Describes strategies used to align document text segments. Now only strategy to restore segments to original bounds is supported. In future another strategies could be added.
 
 ```csharp
 public enum SegmentAlignStrategy : byte
@@ -16,8 +18,8 @@ public enum SegmentAlignStrategy : byte
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| RestoreSegmentBounds | `1` |  |
+| None | `0` | None. |
+| RestoreSegmentBounds | `1` | Restore segment bounds. |
 
 ### See Also
 

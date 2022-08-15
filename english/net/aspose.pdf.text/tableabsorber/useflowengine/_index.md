@@ -1,12 +1,14 @@
 ---
 title: UseFlowEngine
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description:  Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesnt support editing tables and getting text styles yet. Default value is false
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/tableabsorber/useflowengine/
 ---
 ## TableAbsorber.UseFlowEngine property
+
+* Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesn't support editing tables and getting text styles yet. Default value is false;
 
 ```csharp
 public bool UseFlowEngine { get; set; }

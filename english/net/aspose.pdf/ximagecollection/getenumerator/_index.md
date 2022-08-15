@@ -1,16 +1,22 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns collection enumerator.
 type: docs
 weight: 120
 url: /net/aspose.pdf/ximagecollection/getenumerator/
 ---
 ## XImageCollection.GetEnumerator method
 
+Returns collection enumerator.
+
 ```csharp
 public IEnumerator<XImage> GetEnumerator()
 ```
+
+### Return Value
+
+Enumerator of collection
 
 ### See Also
 

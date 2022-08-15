@@ -1,12 +1,14 @@
 ---
 title: PageLayoutOption
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets layout option.
 type: docs
 weight: 80
 url: /net/aspose.pdf/htmlloadoptions/pagelayoutoption/
 ---
 ## HtmlLoadOptions.PageLayoutOption property
+
+Gets or sets layout option.
 
 ```csharp
 public HtmlPageLayoutOption PageLayoutOption { get; set; }

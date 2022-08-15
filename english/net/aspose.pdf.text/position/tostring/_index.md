@@ -1,16 +1,22 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets string representation for the current Positionaspose.pdf.text/position object.
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/position/tostring/
 ---
 ## Position.ToString method
 
+Gets string representation for the current [`Position`](../../position) object.
+
 ```csharp
 public override string ToString()
 ```
+
+### Return Value
+
+String representration of the Position object.
 
 ### See Also
 

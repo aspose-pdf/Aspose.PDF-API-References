@@ -1,16 +1,22 @@
 ---
 title: FontEmbeddingException
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the FontEmbeddingExceptionaspose.pdf/fontembeddingexception class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/fontembeddingexception/fontembeddingexception/
 ---
 ## FontEmbeddingException(string) {#constructor_1}
 
+Initializes a new instance of the [`FontEmbeddingException`](../../fontembeddingexception) class.
+
 ```csharp
 public FontEmbeddingException(string message)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The message. |
 
 ### See Also
 
@@ -22,9 +28,16 @@ public FontEmbeddingException(string message)
 
 ## FontEmbeddingException(string, Exception) {#constructor_2}
 
+Initializes a new instance of the [`FontEmbeddingException`](../../fontembeddingexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
 ```csharp
 public FontEmbeddingException(string message, Exception innerException)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 
@@ -36,9 +49,15 @@ public FontEmbeddingException(string message, Exception innerException)
 
 ## FontEmbeddingException(Exception) {#constructor}
 
+Initializes a new instance of the [`FontEmbeddingException`](../../fontembeddingexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
 ```csharp
 public FontEmbeddingException(Exception innerException)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 

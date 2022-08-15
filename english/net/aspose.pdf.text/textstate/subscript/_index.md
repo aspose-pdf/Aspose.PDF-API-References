@@ -1,12 +1,14 @@
 ---
 title: Subscript
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets subscript of the text.
 type: docs
 weight: 150
 url: /net/aspose.pdf.text/textstate/subscript/
 ---
 ## TextState.Subscript property
+
+Gets or sets subscript of the text.
 
 ```csharp
 public virtual bool Subscript { get; set; }

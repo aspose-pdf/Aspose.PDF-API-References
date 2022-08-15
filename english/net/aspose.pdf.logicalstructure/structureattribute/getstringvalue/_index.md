@@ -1,16 +1,22 @@
 ---
 title: GetStringValue
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets Value String.
 type: docs
 weight: 80
 url: /net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
 ## StructureAttribute.GetStringValue method
 
+Gets Value String.
+
 ```csharp
 public string GetStringValue()
 ```
+
+### Return Value
+
+Value String.
 
 ### See Also
 

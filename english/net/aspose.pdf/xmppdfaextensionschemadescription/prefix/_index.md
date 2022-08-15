@@ -1,12 +1,14 @@
 ---
 title: Prefix
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the prefix.
 type: docs
 weight: 40
 url: /net/aspose.pdf/xmppdfaextensionschemadescription/prefix/
 ---
 ## XmpPdfAExtensionSchemaDescription.Prefix property
+
+Gets the prefix.
 
 ```csharp
 public string Prefix { get; }

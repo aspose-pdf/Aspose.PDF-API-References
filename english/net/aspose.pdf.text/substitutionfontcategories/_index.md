@@ -1,12 +1,14 @@
 ---
 title: SubstitutionFontCategories
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents font categories that can be substituted.
 type: docs
 weight: 6830
 url: /net/aspose.pdf.text/substitutionfontcategories/
 ---
 ## SubstitutionFontCategories enumeration
+
+Represents font categories that can be substituted.
 
 ```csharp
 public enum SubstitutionFontCategories
@@ -16,8 +18,8 @@ public enum SubstitutionFontCategories
 
 | Name | Value | Description |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` |  |
-| AllEmbeddedFonts | `1` |  |
+| TheSameNamedEmbeddedFonts | `0` | The fonts that are named the same as system fonts. Those fonts are mostly safe to be substituted with the same named system fonts. |
+| AllEmbeddedFonts | `1` | All embedded fonts are substituted. |
 
 ### See Also
 

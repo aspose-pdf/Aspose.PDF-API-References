@@ -1,14 +1,14 @@
 ---
 title: Fill
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initilizes new f operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/fill/fill/
 ---
 ## Fill constructor
 
-The default constructor.
+Initilizes new f operator.
 
 ```csharp
 public Fill()

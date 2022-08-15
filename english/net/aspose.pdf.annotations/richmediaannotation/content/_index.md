@@ -1,12 +1,14 @@
 ---
 title: Content
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Data of the Rich Media content.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/richmediaannotation/content/
 ---
 ## RichMediaAnnotation.Content property
+
+Data of the Rich Media content.
 
 ```csharp
 public Stream Content { get; }

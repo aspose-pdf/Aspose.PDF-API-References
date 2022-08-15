@@ -1,12 +1,14 @@
 ---
 title: Characteristics
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets annotation characteristics.
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/annotation/characteristics/
 ---
 ## Annotation.Characteristics property
+
+Gets annotation characteristics.
 
 ```csharp
 public Characteristics Characteristics { get; }

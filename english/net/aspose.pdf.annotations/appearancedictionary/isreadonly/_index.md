@@ -1,12 +1,14 @@
 ---
 title: IsReadOnly
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a value indicating whether dictionary is read-only.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/appearancedictionary/isreadonly/
 ---
 ## AppearanceDictionary.IsReadOnly property
+
+Gets a value indicating whether dictionary is read-only.
 
 ```csharp
 public bool IsReadOnly { get; }

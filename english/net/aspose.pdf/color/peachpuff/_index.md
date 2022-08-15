@@ -1,16 +1,22 @@
 ---
 title: PeachPuff
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FFFFDAB9.
 type: docs
 weight: 1090
 url: /net/aspose.pdf/color/peachpuff/
 ---
 ## Color.PeachPuff property
 
+Gets a system-defined color that has an ARGB value of #FFFFDAB9.
+
 ```csharp
 public static Color PeachPuff { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

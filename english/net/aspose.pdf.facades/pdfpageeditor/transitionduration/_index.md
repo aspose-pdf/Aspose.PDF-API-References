@@ -1,12 +1,14 @@
 ---
 title: TransitionDuration
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets duration of the transition effect.
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/pdfpageeditor/transitionduration/
 ---
 ## PdfPageEditor.TransitionDuration property
+
+Gets or sets duration of the transition effect.
 
 ```csharp
 public int TransitionDuration { get; set; }

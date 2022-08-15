@@ -1,16 +1,22 @@
 ---
 title: TextStamp
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the TextStampaspose.pdf/textstamp class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/textstamp/textstamp/
 ---
 ## TextStamp(string) {#constructor_1}
 
+Initializes a new instance of the [`TextStamp`](../../textstamp) class.
+
 ```csharp
 public TextStamp(string value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | String | Stamp value. |
 
 ### See Also
 
@@ -22,9 +28,16 @@ public TextStamp(string value)
 
 ## TextStamp(string, TextState) {#constructor_2}
 
+Initializes a new instance of the [`TextStamp`](../../textstamp) class.
+
 ```csharp
 public TextStamp(string value, TextState textState)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | String | Stamp value. |
+| textState | TextState | Stamp text state. |
 
 ### See Also
 
@@ -37,9 +50,15 @@ public TextStamp(string value, TextState textState)
 
 ## TextStamp(FormattedText) {#constructor}
 
+Initializes a new instance of the [`TextStamp`](../../textstamp) class with formattedText object
+
 ```csharp
 public TextStamp(FormattedText formattedText)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| formattedText | FormattedText | FormattedText object which contains text of the stamp. |
 
 ### See Also
 

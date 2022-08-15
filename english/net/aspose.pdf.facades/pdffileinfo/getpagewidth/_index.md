@@ -1,16 +1,26 @@
 ---
 title: GetPageWidth
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the width of the specified page.
 type: docs
 weight: 260
 url: /net/aspose.pdf.facades/pdffileinfo/getpagewidth/
 ---
 ## PdfFileInfo.GetPageWidth method
 
+Gets the width of the specified page.
+
 ```csharp
 public float GetPageWidth(int pageNum)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNum | Int32 | Page number. |
+
+### Return Value
+
+The width of the page.
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: PuaTextProcessingStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Strategy to process symbols from unicode Private Use Area PUA.
 type: docs
 weight: 180
 url: /net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/
 ---
 ## PdfFormatConversionOptions.PuaTextProcessingStrategy property
+
+Strategy to process symbols from unicode Private Use Area (PUA).
 
 ```csharp
 public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }

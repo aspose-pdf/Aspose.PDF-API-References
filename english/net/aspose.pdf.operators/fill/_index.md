@@ -1,12 +1,14 @@
 ---
 title: Fill
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing f operator fill path with nonzero winding number rule.
 type: docs
 weight: 5100
 url: /net/aspose.pdf.operators/fill/
 ---
 ## Fill class
+
+Class representing f operator (fill path with nonzero winding number rule).
 
 ```csharp
 public class Fill : Operator
@@ -16,20 +18,20 @@ public class Fill : Operator
 
 | Name | Description |
 | --- | --- |
-| [Fill](fill)() | The default constructor. |
+| [Fill](fill)() | Initilizes new f operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fill/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/fill/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/fill/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/fill/tostring)() | Returns text representation of operator. |
 
 ### See Also
 

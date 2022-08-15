@@ -1,12 +1,14 @@
 ---
 title: Cube
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The Cube lighting scheme.
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/cube/
 ---
 ## PDF3DLightingScheme.Cube field
+
+The "Cube" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme Cube;

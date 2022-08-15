@@ -1,12 +1,14 @@
 ---
 title: BorderStyleBeveled
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines a beveled border style.
 type: docs
 weight: 290
 url: /net/aspose.pdf.facades/formfieldfacade/borderstylebeveled/
 ---
 ## FormFieldFacade.BorderStyleBeveled field
+
+Defines a beveled border style.
 
 ```csharp
 public const int BorderStyleBeveled;

@@ -1,16 +1,22 @@
 ---
 title: Thistle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FFD8BFD8.
 type: docs
 weight: 1330
 url: /net/aspose.pdf/color/thistle/
 ---
 ## Color.Thistle property
 
+Gets a system-defined color that has an ARGB value of #FFD8BFD8.
+
 ```csharp
 public static Color Thistle { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

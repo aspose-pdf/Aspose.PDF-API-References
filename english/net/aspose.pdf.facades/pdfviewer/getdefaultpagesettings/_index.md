@@ -1,16 +1,22 @@
 ---
 title: GetDefaultPageSettings
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the default page settings.
 type: docs
 weight: 270
 url: /net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/
 ---
 ## PdfViewer.GetDefaultPageSettings method
 
+Gets the default page settings.
+
 ```csharp
 public PageSettings GetDefaultPageSettings()
 ```
+
+### Return Value
+
+Page settings object.
 
 ### See Also
 

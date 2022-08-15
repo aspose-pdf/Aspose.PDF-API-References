@@ -1,12 +1,14 @@
 ---
 title: SubmitFlag
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Set the submit buttons submission flags
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/formeditor/submitflag/
 ---
 ## FormEditor.SubmitFlag property
+
+Set the submit button's submission flags
 
 ```csharp
 public SubmitFormFlag SubmitFlag { get; set; }

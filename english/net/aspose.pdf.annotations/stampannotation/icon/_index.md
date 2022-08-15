@@ -1,12 +1,14 @@
 ---
 title: Icon
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets icon for rubber stamp.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/stampannotation/icon/
 ---
 ## StampAnnotation.Icon property
+
+Gets or sets icon for rubber stamp.
 
 ```csharp
 public StampIcon Icon { get; set; }

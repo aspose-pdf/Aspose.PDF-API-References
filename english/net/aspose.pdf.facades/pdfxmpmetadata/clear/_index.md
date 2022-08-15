@@ -1,15 +1,25 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Removes all elements from the object.
 type: docs
 weight: 120
 url: /net/aspose.pdf.facades/pdfxmpmetadata/clear/
 ---
 ## PdfXmpMetadata.Clear method
 
+Removes all elements from the object.
+
 ```csharp
 public void Clear()
+```
+
+### Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+xmp.Clear();
 ```
 
 ### See Also

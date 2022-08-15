@@ -1,12 +1,14 @@
 ---
 title: Values
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the list of the dictionary values. Result collection contains the list of XForm objects.
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/appearancedictionary/values/
 ---
 ## AppearanceDictionary.Values property
+
+Gets the list of the dictionary values. Result collection contains the list of XForm objects.
 
 ```csharp
 public ICollection<XForm> Values { get; }

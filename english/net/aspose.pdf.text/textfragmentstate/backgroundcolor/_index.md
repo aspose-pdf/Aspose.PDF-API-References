@@ -1,12 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets background color of the text represented by the TextFragmentaspose.pdf.text/textfragment object
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/textfragmentstate/backgroundcolor/
 ---
 ## TextFragmentState.BackgroundColor property
+
+Sets background color of the text, represented by the [`TextFragment`](../../textfragment) object
 
 ```csharp
 public override Color BackgroundColor { get; set; }

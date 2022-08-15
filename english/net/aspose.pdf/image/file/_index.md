@@ -1,12 +1,14 @@
 ---
 title: File
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the image file.
 type: docs
 weight: 20
 url: /net/aspose.pdf/image/file/
 ---
 ## Image.File property
+
+Gets or sets the image file.
 
 ```csharp
 public string File { get; set; }

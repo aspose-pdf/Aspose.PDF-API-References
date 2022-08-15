@@ -1,16 +1,22 @@
 ---
 title: IsEmpty
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a value indicating whether this instance is empty.
 type: docs
 weight: 40
 url: /net/aspose.pdf/xmpfield/isempty/
 ---
 ## XmpField.IsEmpty property
 
+Gets a value indicating whether this instance is empty.
+
 ```csharp
 public bool IsEmpty { get; }
 ```
+
+### Property Value
+
+`true` if this instance is empty; otherwise, `false`.
 
 ### See Also
 

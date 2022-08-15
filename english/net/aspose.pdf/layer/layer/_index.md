@@ -1,16 +1,23 @@
 ---
 title: Layer
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the Layeraspose.pdf/layer class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/layer/layer/
 ---
 ## Layer constructor
 
+Initializes a new instance of the [`Layer`](../../layer) class.
+
 ```csharp
 public Layer(string id, string name)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| id | String | The layer id |
+| name | String | The layer name |
 
 ### See Also
 

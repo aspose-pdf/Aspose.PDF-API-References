@@ -1,12 +1,14 @@
 ---
 title: Params
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets file paramteres.
 type: docs
 weight: 110
 url: /net/aspose.pdf/filespecification/params/
 ---
 ## FileSpecification.Params property
+
+Gets file paramteres.
 
 ```csharp
 public FileParams Params { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: ID
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing ID operator Begin inline image data.
 type: docs
 weight: 5160
 url: /net/aspose.pdf.operators/id/
 ---
 ## ID class
+
+Class representing ID operator (Begin inline image data).
 
 ```csharp
 public class ID : Operator
@@ -16,14 +18,14 @@ public class ID : Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/id/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/id/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

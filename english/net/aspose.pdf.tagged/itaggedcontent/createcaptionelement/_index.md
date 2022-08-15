@@ -1,16 +1,22 @@
 ---
 title: CreateCaptionElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates CaptionElementaspose.pdf.logicalstructure/captionelement.
 type: docs
 weight: 80
 url: /net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
 ## ITaggedContent.CreateCaptionElement method
 
+Creates [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement).
+
 ```csharp
 public CaptionElement CreateCaptionElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

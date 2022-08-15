@@ -1,12 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets rectangle of the TextSegment
 type: docs
 weight: 70
 url: /net/aspose.pdf.text/textsegment/rectangle/
 ---
 ## TextSegment.Rectangle property
+
+Gets rectangle of the TextSegment
 
 ```csharp
 public Rectangle Rectangle { get; }

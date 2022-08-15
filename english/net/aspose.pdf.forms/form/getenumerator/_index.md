@@ -1,16 +1,22 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets enumeration of form fields.
 type: docs
 weight: 250
 url: /net/aspose.pdf.forms/form/getenumerator/
 ---
 ## Form.GetEnumerator method
 
+Gets enumeration of form fields.
+
 ```csharp
 public IEnumerator<WidgetAnnotation> GetEnumerator()
 ```
+
+### Return Value
+
+Field enumerator.
 
 ### See Also
 

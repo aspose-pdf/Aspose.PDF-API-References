@@ -1,12 +1,14 @@
 ---
 title: ServerUrl
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets/sets the timestamp server url.
 type: docs
 weight: 40
 url: /net/aspose.pdf/timestampsettings/serverurl/
 ---
 ## TimestampSettings.ServerUrl property
+
+Gets/sets the timestamp server url.
 
 ```csharp
 public string ServerUrl { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: A
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: A member of the transformation matrix.
 type: docs
 weight: 40
 url: /net/aspose.pdf/matrix/a/
 ---
 ## Matrix.A property
+
+A member of the transformation matrix.
 
 ```csharp
 public double A { get; set; }

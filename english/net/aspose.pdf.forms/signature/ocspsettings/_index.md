@@ -1,12 +1,14 @@
 ---
 title: OcspSettings
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets/sets ocsp settings.
 type: docs
 weight: 80
 url: /net/aspose.pdf.forms/signature/ocspsettings/
 ---
 ## Signature.OcspSettings property
+
+Gets/sets ocsp settings.
 
 ```csharp
 public OcspSettings OcspSettings { get; set; }

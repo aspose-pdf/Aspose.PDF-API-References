@@ -1,12 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets text position for text represented with TextSegmentaspose.pdf.text/textsegment object.
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textsegment/position/
 ---
 ## TextSegment.Position property
+
+Gets text position for text, represented with [`TextSegment`](../../textsegment) object.
 
 ```csharp
 public Position Position { get; set; }

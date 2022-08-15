@@ -1,12 +1,14 @@
 ---
 title: BackgroundImage
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the background image
 type: docs
 weight: 40
 url: /net/aspose.pdf/cell/backgroundimage/
 ---
 ## Cell.BackgroundImage property
+
+Gets or sets the background image
 
 ```csharp
 public Image BackgroundImage { get; set; }

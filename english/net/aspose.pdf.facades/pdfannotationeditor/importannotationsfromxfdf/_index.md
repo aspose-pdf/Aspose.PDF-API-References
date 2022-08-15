@@ -1,15 +1,30 @@
 ---
 title: ImportAnnotationsFromXfdf
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Imports all annotations from XFDF file.
 type: docs
 weight: 100
 url: /net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
 
+Imports all annotations from XFDF file.
+
 ```csharp
 public void ImportAnnotationsFromXfdf(string xfdfFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xfdfFile | String | The input XFDF file. |
+
+### Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.ImportAnnotationsFromXfdf("annots.xfdf");
+editor.Save("example_out.pdf");
 ```
 
 ### See Also
@@ -22,8 +37,23 @@ public void ImportAnnotationsFromXfdf(string xfdfFile)
 
 ## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
 
+Imports all annotations from XFDF data stream.
+
 ```csharp
 public void ImportAnnotationsFromXfdf(Stream xfdfStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xfdfStream | Stream | The input XFDF data stream. |
+
+### Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
+editor.Save("example_out.pdf");
 ```
 
 ### See Also

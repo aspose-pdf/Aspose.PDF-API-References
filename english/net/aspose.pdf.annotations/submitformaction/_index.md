@@ -1,12 +1,14 @@
 ---
 title: SubmitFormAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class which describes submit-form action.
 type: docs
 weight: 1140
 url: /net/aspose.pdf.annotations/submitformaction/
 ---
 ## SubmitFormAction class
+
+Class which describes submit-form action.
 
 ```csharp
 public sealed class SubmitFormAction : PdfAction
@@ -16,33 +18,33 @@ public sealed class SubmitFormAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [SubmitFormAction](submitformaction)() | The default constructor. |
+| [SubmitFormAction](submitformaction)() | Initializes SubmitFormAction object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Flags](../../aspose.pdf.annotations/submitformaction/flags) { get; set; } |  |
-| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } |  |
-| [Url](../../aspose.pdf.annotations/submitformaction/url) { get; set; } |  |
+| [Flags](../../aspose.pdf.annotations/submitformaction/flags) { get; set; } | Gets or sets flagas of submit action |
+| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Next actions in sequence. |
+| [Url](../../aspose.pdf.annotations/submitformaction/url) { get; set; } | Destination URL. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat) |  |
-| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform) |  |
-| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey) |  |
-| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots) |  |
-| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude) |  |
-| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat) |  |
-| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod) |  |
-| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations) |  |
-| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves) |  |
-| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields) |  |
-| const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates) |  |
-| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf) |  |
-| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf) |  |
+| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat) | If set, any submitted field values representing dates shall be converted to the standard format. |
+| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform) | If set, the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file from which the FDF is being submitted. |
+| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey) | If set, the submitted FDF shall exclude the F entry. |
+| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots) | If set, it shall include only those markup annotations whose T entry matches the name of the current user. |
+| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude) | If clear, the Fields array specifies which fields to include in the submission. |
+| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat) | If set, field names and values shall be submitted in HTML Form format. |
+| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod) | If set, field names and values shall be submitted using an HTTP GET request. |
+| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations) | If set, the submitted FDF file shall include includes all markup annotations in the underlying PDF document. |
+| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves) | If set, the submitted FDF file shall include the contents of all incremental updates. |
+| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields) | If set, all fields designated by the Fields array and the Include/Exclude flag shall be submitted. |
+| const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates) | If set, the coordinates of the mouse click that caused the submit-form action shall be transmitted as part of the form data. |
+| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf) | If set, the document shall be submitted as PDF, using the MIME content type application/pdf. |
+| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf) | If set, field names and values shall be submitted as XFDF. |
 
 ### See Also
 

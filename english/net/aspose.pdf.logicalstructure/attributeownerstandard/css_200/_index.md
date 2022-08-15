@@ -1,12 +1,14 @@
 ---
 title: Css_200
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: CSS-2.00 attribute owner.
 type: docs
 weight: 20
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/css_200/
 ---
 ## AttributeOwnerStandard.Css_200 field
+
+CSS-2.00 attribute owner.
 
 ```csharp
 public static readonly AttributeOwnerStandard Css_200;

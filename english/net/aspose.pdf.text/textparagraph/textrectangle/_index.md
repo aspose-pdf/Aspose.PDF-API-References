@@ -1,12 +1,14 @@
 ---
 title: TextRectangle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets rectangle of the text placed to the paragraph.
 type: docs
 weight: 110
 url: /net/aspose.pdf.text/textparagraph/textrectangle/
 ---
 ## TextParagraph.TextRectangle property
+
+Gets rectangle of the text placed to the paragraph.
 
 ```csharp
 public Rectangle TextRectangle { get; }

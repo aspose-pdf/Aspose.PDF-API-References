@@ -1,12 +1,14 @@
 ---
 title: TextPlaceOperator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Abstract base class for operators which changes text position Tm Td etc.
 type: docs
 weight: 5620
 url: /net/aspose.pdf.operators/textplaceoperator/
 ---
 ## TextPlaceOperator class
+
+Abstract base class for operators which changes text position (Tm, Td, etc).
 
 ```csharp
 public class TextPlaceOperator : TextOperator
@@ -16,21 +18,21 @@ public class TextPlaceOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextPlaceOperator](textplaceoperator#constructor)() | The default constructor. |
-| [TextPlaceOperator](textplaceoperator#constructor_1)(TextProperties) |  |
+| [TextPlaceOperator](textplaceoperator#constructor)() | Initializes TextPlaceOperator. |
+| [TextPlaceOperator](textplaceoperator#constructor_1)(TextProperties) | Initializes TextPlaceOperator which accepts TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

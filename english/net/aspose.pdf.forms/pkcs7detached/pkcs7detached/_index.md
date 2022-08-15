@@ -1,16 +1,22 @@
 ---
 title: PKCS7Detached
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes new instance of the PKCS7Detachedaspose.pdf.forms/pkcs7detached class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
 ---
 ## PKCS7Detached(Stream) {#constructor_1}
 
+Initializes new instance of the [`PKCS7Detached`](../../pkcs7detached) class.
+
 ```csharp
 public PKCS7Detached(Stream image)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | Stream | This image will define signature appearance on the page. |
 
 ### See Also
 
@@ -22,7 +28,7 @@ public PKCS7Detached(Stream image)
 
 ## PKCS7Detached() {#constructor}
 
-The default constructor.
+Inititalizes new instance of the [`PKCS7Detached`](../../pkcs7detached) class.
 
 ```csharp
 public PKCS7Detached()
@@ -38,9 +44,16 @@ public PKCS7Detached()
 
 ## PKCS7Detached(string, string) {#constructor_3}
 
+Inititalizes new instance of the [`PKCS7Detached`](../../pkcs7detached) class.
+
 ```csharp
 public PKCS7Detached(string pfx, string password)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | String | Pfx file which contains certificate for signing. |
+| password | String | Password to get access to the private key in the certificate. |
 
 ### See Also
 
@@ -52,9 +65,16 @@ public PKCS7Detached(string pfx, string password)
 
 ## PKCS7Detached(Stream, string) {#constructor_2}
 
+Inititalizes new instance of the [`PKCS7Detached`](../../pkcs7detached) class.
+
 ```csharp
 public PKCS7Detached(Stream pfx, string password)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | Stream | Stream with certificate data organized as pfx. |
+| password | String | Password to get access to the private key in the certificate. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Font
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets font of the text represented by the TextFragmentaspose.pdf.text/textfragment object
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/textfragmentstate/font/
 ---
 ## TextFragmentState.Font property
+
+Gets or sets font of the text, represented by the [`TextFragment`](../../textfragment) object
 
 ```csharp
 public override Font Font { get; set; }

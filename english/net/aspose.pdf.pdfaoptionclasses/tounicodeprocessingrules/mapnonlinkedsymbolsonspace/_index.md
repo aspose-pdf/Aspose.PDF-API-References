@@ -1,12 +1,14 @@
 ---
 title: MapNonLinkedSymbolsOnSpace
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Some fonts doesnt provide information about unicodes for some text symbols. This lack of information calls an error Text cannot be mapped to Unicode. Use this flag to map non-linked symbols on unicode spacecode 32.
 type: docs
 weight: 20
 url: /net/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/
 ---
 ## ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace property
+
+Some fonts doesn't provide information about unicodes for some text symbols. This lack of information calls an error "Text cannot be mapped to Unicode". Use this flag to map non-linked symbols on unicode "space"(code 32).
 
 ```csharp
 public bool MapNonLinkedSymbolsOnSpace { get; set; }

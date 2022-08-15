@@ -1,12 +1,14 @@
 ---
 title: A
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the alpha component value
 type: docs
 weight: 1490
 url: /net/aspose.pdf/color/a/
 ---
 ## Color.A property
+
+Gets the alpha component value
 
 ```csharp
 public double A { get; }

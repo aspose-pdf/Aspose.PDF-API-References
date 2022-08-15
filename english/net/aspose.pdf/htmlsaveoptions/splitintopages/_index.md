@@ -1,12 +1,14 @@
 ---
 title: SplitIntoPages
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the flag that indicates whether each page of source document will be converted into its own target HTML document i.e whether result HTML will be splitted into several HTML-pages.
 type: docs
 weight: 170
 url: /net/aspose.pdf/htmlsaveoptions/splitintopages/
 ---
 ## HtmlSaveOptions.SplitIntoPages property
+
+Gets or sets the flag that indicates whether each page of source document will be converted into it's own target HTML document, i.e whether result HTML will be splitted into several HTML-pages.
 
 ```csharp
 public bool SplitIntoPages { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: ClearCustomData
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clears custom data only leaves all other predefined values Title Author etc..
 type: docs
 weight: 160
 url: /net/aspose.pdf/documentinfo/clearcustomdata/
 ---
 ## DocumentInfo.ClearCustomData method
+
+Clears custom data only, leaves all other predefined values (Title, Author, etc.).
 
 ```csharp
 public void ClearCustomData()

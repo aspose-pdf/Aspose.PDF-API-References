@@ -1,12 +1,14 @@
 ---
 title: X
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: X coordinate of most left side of rectangle.
 type: docs
 weight: 40
 url: /net/aspose.pdf.operators/re/x/
 ---
 ## Re.X property
+
+X coordinate of most left side of rectangle.
 
 ```csharp
 public double X { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: BottomMargin
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets bottom margin on the resultant page.
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin/
 ---
 ## PdfFileEditor.ContentsResizeParameters.BottomMargin property
+
+Gets or sets bottom margin on the resultant page.
 
 ```csharp
 public ContentsResizeValue BottomMargin { get; set; }

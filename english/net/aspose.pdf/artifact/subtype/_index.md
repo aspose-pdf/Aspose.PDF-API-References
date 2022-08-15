@@ -1,12 +1,14 @@
 ---
 title: Subtype
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets artifact subtype. If artifact has non-standard subtype name of the subtype may be read via CustomSubtype.
 type: docs
 weight: 180
 url: /net/aspose.pdf/artifact/subtype/
 ---
 ## Artifact.Subtype property
+
+Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype.
 
 ```csharp
 public ArtifactSubtype Subtype { get; set; }

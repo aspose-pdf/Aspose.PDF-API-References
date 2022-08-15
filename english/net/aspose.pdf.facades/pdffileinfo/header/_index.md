@@ -1,12 +1,14 @@
 ---
 title: Header
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the customized information of PDF document.
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/pdffileinfo/header/
 ---
 ## PdfFileInfo.Header property
+
+Gets or sets the customized information of PDF document.
 
 ```csharp
 public Dictionary<string, string> Header { get; set; }

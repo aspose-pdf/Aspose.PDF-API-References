@@ -1,16 +1,22 @@
 ---
 title: CreateTD
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates TableTHElementaspose.pdf.logicalstructure/tablethelement and added it to current table.
 type: docs
 weight: 110
 url: /net/aspose.pdf.logicalstructure/tabletrelement/createtd/
 ---
 ## TableTRElement.CreateTD method
 
+Creates [`TableTHElement`](../../tablethelement) and added it to current table.
+
 ```csharp
 public TableTDElement CreateTD()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

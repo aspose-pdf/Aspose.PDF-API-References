@@ -1,16 +1,23 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Copies subfields of this field into array starting from specified index.
 type: docs
 weight: 160
 url: /net/aspose.pdf.forms/field/copyto/
 ---
 ## Field.CopyTo method
 
+Copies subfields of this field into array starting from specified index.
+
 ```csharp
 public void CopyTo(Field[] array, int index)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | Field[] | Array where field must be copied. |
+| index | Int32 | Starting index where fields will be copied. |
 
 ### See Also
 

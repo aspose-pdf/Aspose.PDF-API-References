@@ -1,12 +1,14 @@
 ---
 title: ReplaceScope
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Scope of the replacement operation replace first occurence or replace all occurences.
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/replacetextstrategy/replacescope/
 ---
 ## ReplaceTextStrategy.ReplaceScope property
+
+Scope of the replacement operation (replace first occurence or replace all occurences).
 
 ```csharp
 public Scope ReplaceScope { get; set; }

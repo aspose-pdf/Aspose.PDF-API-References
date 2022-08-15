@@ -1,12 +1,14 @@
 ---
 title: LLX
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: X-coordinate of lower - left corner.
 type: docs
 weight: 100
 url: /net/aspose.pdf/rectangle/llx/
 ---
 ## Rectangle.LLX property
+
+X-coordinate of lower - left corner.
 
 ```csharp
 public double LLX { get; set; }

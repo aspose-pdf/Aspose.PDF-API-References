@@ -1,12 +1,14 @@
 ---
 title: EmfDevice
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents image device that helps to save pdf document pages into emf.
 type: docs
 weight: 1630
 url: /net/aspose.pdf.devices/emfdevice/
 ---
 ## EmfDevice class
+
+Represents image device that helps to save pdf document pages into emf.
 
 ```csharp
 public sealed class EmfDevice : ImageDevice
@@ -16,30 +18,30 @@ public sealed class EmfDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [EmfDevice](emfdevice#constructor)() | The default constructor. |
-| [EmfDevice](emfdevice#constructor_2)(PageSize) |  |
-| [EmfDevice](emfdevice#constructor_1)(Resolution) |  |
-| [EmfDevice](emfdevice#constructor_4)(int, int) |  |
-| [EmfDevice](emfdevice#constructor_3)(PageSize, Resolution) |  |
-| [EmfDevice](emfdevice#constructor_5)(int, int, Resolution) |  |
+| [EmfDevice](emfdevice#constructor)() | Initializes a new instance of the [`EmfDevice`](../emfdevice) class with default resolution of raster image written to emf. |
+| [EmfDevice](emfdevice#constructor_2)(PageSize) | Initializes a new instance of the [`EmfDevice`](../emfdevice) class with provided page size, and default resolution for the raster image written to emf (=150) |
+| [EmfDevice](emfdevice#constructor_1)(Resolution) | Initializes a new instance of the [`EmfDevice`](../emfdevice) class.  Resolution for the raster image written to emf, see [`Resolution`](../resolution) class. |
+| [EmfDevice](emfdevice#constructor_4)(int, int) | Initializes a new instance of the [`EmfDevice`](../emfdevice) class with provided image dimensions, and default resolution for the raster image written to emf (=150) |
+| [EmfDevice](emfdevice#constructor_3)(PageSize, Resolution) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided page size, and resolution for the raster image written to emf. |
+| [EmfDevice](emfdevice#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided image dimensions, and resolution for the raster image written to emf. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } |  |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } |  |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } |  |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } |  |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } |  |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } |  |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Gets or sets form presentation mode. |
+| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Gets image output height. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Gets image resolution. |
+| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Gets image output width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/emfdevice/process#process)(Page, Stream) |  |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) |  |
+| override [Process](../../aspose.pdf.devices/emfdevice/process#process)(Page, Stream) | Converts the page into emf and saves it in the output stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

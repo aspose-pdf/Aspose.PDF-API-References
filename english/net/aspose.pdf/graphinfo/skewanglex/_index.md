@@ -1,12 +1,14 @@
 ---
 title: SkewAngleX
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
 type: docs
 weight: 110
 url: /net/aspose.pdf/graphinfo/skewanglex/
 ---
 ## GraphInfo.SkewAngleX property
+
+Gets or sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system.
 
 ```csharp
 public double SkewAngleX { get; set; }

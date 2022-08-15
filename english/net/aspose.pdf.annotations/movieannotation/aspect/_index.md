@@ -1,12 +1,14 @@
 ---
 title: Aspect
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the width and height of the movies bounding box in pixels.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/movieannotation/aspect/
 ---
 ## MovieAnnotation.Aspect property
+
+Gets or sets the width and height of the movie�s bounding box, in pixels.
 
 ```csharp
 public Point Aspect { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: PdfTypeObjectCreator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents an creator of IPdfTypeExtractor object.
 type: docs
 weight: 3240
 url: /net/aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/
 ---
 ## PdfTypeObjectCreator class
+
+Represents an creator of IPdfTypeExtractor object.
 
 ```csharp
 public class PdfTypeObjectCreator
@@ -22,10 +24,10 @@ public class PdfTypeObjectCreator
 
 | Name | Description |
 | --- | --- |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor)(Stream, int, bool) |  |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_2)(string, int, bool) |  |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_1)(Stream, string, int, bool) |  |
-| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_3)(string, string, int, bool) |  |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor)(Stream, int, bool) | Creates IPdfTypeExtractor object. |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_2)(string, int, bool) | Creates IPdfTypeExtractor object. |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_1)(Stream, string, int, bool) | Creates IPdfTypeExtractor object. |
+| [CreateExtractor](../../aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor#createextractor_3)(string, string, int, bool) | Creates IPdfTypeExtractor object. |
 
 ### See Also
 

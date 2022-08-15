@@ -1,12 +1,14 @@
 ---
 title: PolygonAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing polygon annotation.
 type: docs
 weight: 870
 url: /net/aspose.pdf.annotations/polygonannotation/
 ---
 ## PolygonAnnotation class
+
+Class representing polygon annotation.
 
 ```csharp
 public sealed class PolygonAnnotation : PolyAnnotation
@@ -16,63 +18,63 @@ public sealed class PolygonAnnotation : PolyAnnotation
 
 | Name | Description |
 | --- | --- |
-| [PolygonAnnotation](polygonannotation#constructor)(Document, Point[]) |  |
-| [PolygonAnnotation](polygonannotation#constructor_1)(Page, Rectangle, Point[]) |  |
+| [PolygonAnnotation](polygonannotation#constructor)(Document, Point[]) | Constructor for using with Generator. |
+| [PolygonAnnotation](polygonannotation#constructor_1)(Page, Rectangle, Point[]) | Creates new Polygon annotation on the specified page. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Actions](../../aspose.pdf.annotations/annotation/actions) { get; } |  |
-| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate) { get; set; } |  |
-| override [AnnotationType](../../aspose.pdf.annotations/polygonannotation/annotationtype) { get; } |  |
-| [Appearance](../../aspose.pdf.annotations/annotation/appearance) { get; } |  |
-| [Border](../../aspose.pdf.annotations/annotation/border) { get; set; } |  |
-| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics) { get; } |  |
-| [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } |  |
-| [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } |  |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate) { get; } |  |
-| [EndingStyle](../../aspose.pdf.annotations/polyannotation/endingstyle) { get; set; } |  |
-| [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } |  |
-| [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } |  |
-| virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } |  |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } |  |
-| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto) { get; set; } |  |
-| [Intent](../../aspose.pdf.annotations/polyannotation/intent) { get; set; } |  |
-| [InteriorColor](../../aspose.pdf.annotations/polyannotation/interiorcolor) { get; set; } |  |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } |  |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } |  |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } |  |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } |  |
-| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } |  |
-| [Measure](../../aspose.pdf.annotations/polyannotation/measure) { get; set; } |  |
-| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } |  |
-| [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } |  |
-| [Opacity](../../aspose.pdf.annotations/markupannotation/opacity) { get; set; } |  |
-| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } |  |
-| [Popup](../../aspose.pdf.annotations/markupannotation/popup) { get; set; } |  |
-| virtual [Rect](../../aspose.pdf.annotations/annotation/rect) { get; set; } |  |
-| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype) { get; set; } |  |
-| [RichText](../../aspose.pdf.annotations/markupannotation/richtext) { get; set; } |  |
-| [StartingStyle](../../aspose.pdf.annotations/polyannotation/startingstyle) { get; set; } |  |
-| [States](../../aspose.pdf.annotations/annotation/states) { get; } |  |
-| [Subject](../../aspose.pdf.annotations/markupannotation/subject) { get; set; } |  |
-| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment) { get; set; } |  |
-| [Title](../../aspose.pdf.annotations/markupannotation/title) { get; set; } |  |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } |  |
-| [Vertices](../../aspose.pdf.annotations/polyannotation/vertices) { get; set; } |  |
-| virtual [Width](../../aspose.pdf.annotations/annotation/width) { get; set; } |  |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } |  |
+| [Actions](../../aspose.pdf.annotations/annotation/actions) { get; } | Gets list of annotatation actions. |
+| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate) { get; set; } | Gets or sets current annotation appearance state. |
+| override [AnnotationType](../../aspose.pdf.annotations/polygonannotation/annotationtype) { get; } | Gets type of annotation. |
+| [Appearance](../../aspose.pdf.annotations/annotation/appearance) { get; } | Gets appearance dictionary of the annotation. |
+| [Border](../../aspose.pdf.annotations/annotation/border) { get; set; } | Gets or sets annotation border characteristics. [`Border`](../annotation/border) |
+| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics) { get; } | Gets annotation characteristics. |
+| [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } | Gets or sets annotation color. |
+| [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | Gets or sets annotation text. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate) { get; } | Gets date and time when annotation was created. |
+| [EndingStyle](../../aspose.pdf.annotations/polyannotation/endingstyle) { get; set; } | Gets or sets the style of second line ending. |
+| [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | Flags of the annotation. |
+| [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } | Gets full qualified name of the annotation. |
+| virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } | Gets or sets height of the annotation. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Gets or sets the fragment hyperlink(for pdf generator). |
+| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto) { get; set; } | A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document. |
+| [Intent](../../aspose.pdf.annotations/polyannotation/intent) { get; set; } | Gets or sets the intent of the polygon or polyline annotation. |
+| [InteriorColor](../../aspose.pdf.annotations/polyannotation/interiorcolor) { get; set; } | Gets or sets the interior color with which to fill the annotation�s line endings. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn) { get; set; } | Gets or sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph) { get; set; } | Gets or sets a paragraph is inline. Default is false.(for pdf generation) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage) { get; set; } | Gets or sets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext) { get; set; } | Gets or sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation) |
+| [Margin](../../aspose.pdf/baseparagraph/margin) { get; set; } | Gets or sets a outer margin for paragraph (for pdf generation) |
+| [Measure](../../aspose.pdf.annotations/polyannotation/measure) { get; set; } | Measure units specifed for this annotation. |
+| [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | Gets or sets date and time when annotation was recently modified. |
+| [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } | Gets or sets annotation name on the page. |
+| [Opacity](../../aspose.pdf.annotations/markupannotation/opacity) { get; set; } | Gets or sets the constant opacity value to be used in painting the annotation. |
+| virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } | Gets index of page which contains annotation. |
+| [Popup](../../aspose.pdf.annotations/markupannotation/popup) { get; set; } | Pop-up annotation for entering or editing the text associated with this annotation. |
+| virtual [Rect](../../aspose.pdf.annotations/annotation/rect) { get; set; } | Gets or sets annotation rectangle. |
+| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype) { get; set; } | A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo. |
+| [RichText](../../aspose.pdf.annotations/markupannotation/richtext) { get; set; } | Gets or sets a rich text string to be displayed in the pop-up window when the annotation is opened. |
+| [StartingStyle](../../aspose.pdf.annotations/polyannotation/startingstyle) { get; set; } | Gets or sets the style of first line ending. |
+| [States](../../aspose.pdf.annotations/annotation/states) { get; } | Gets appearance dictionary of annotation. |
+| [Subject](../../aspose.pdf.annotations/markupannotation/subject) { get; set; } | Gets text representing desciption of the object. |
+| [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment) { get; set; } | Gets or sets text alignment for annotation. |
+| [Title](../../aspose.pdf.annotations/markupannotation/title) { get; set; } | Gets or sets a text that shall be displayed in title bar of annotation. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment) { get; set; } | Gets or sets a vertical alignment of paragraph |
+| [Vertices](../../aspose.pdf.annotations/polyannotation/vertices) { get; set; } | Gets or sets an array of points representing the horizontal and vertical coordinates of each vertex. |
+| virtual [Width](../../aspose.pdf.annotations/annotation/width) { get; set; } | Gets or sets width of the annotation. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex) { get; set; } | Gets or sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.annotations/polygonannotation/accept)(AnnotationSelector) |  |
-| override [ChangeAfterResize](../../aspose.pdf.annotations/polyannotation/changeafterresize)(Matrix) |  |
-| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() |  |
-| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() |  |
-| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) |  |
+| override [Accept](../../aspose.pdf.annotations/polygonannotation/accept)(AnnotationSelector) | Accepts visitor object for annotation processing. |
+| override [ChangeAfterResize](../../aspose.pdf.annotations/polyannotation/changeafterresize)(Matrix) | Updates the points in Vertices, according to the matrix transform. |
+| virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Clones this instance. Virtual method. Always return null. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | Places annotation contents directly on the page, annotation object will be removed. |
+| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: BlendMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The blend modes enumeration.
 type: docs
 weight: 1340
 url: /net/aspose.pdf/blendmode/
 ---
 ## BlendMode enumeration
+
+The blend modes enumeration.
 
 ```csharp
 public enum BlendMode
@@ -16,23 +18,23 @@ public enum BlendMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Normal | `0` |  |
-| Multiply | `1` |  |
-| Screen | `2` |  |
-| Overlay | `3` |  |
-| Darken | `4` |  |
-| Lighten | `5` |  |
-| ColorDodge | `6` |  |
-| ColorBurn | `7` |  |
-| HardLight | `8` |  |
-| SoftLight | `9` |  |
-| Difference | `10` |  |
-| Exclusion | `11` |  |
-| Hue | `12` |  |
-| Saturation | `13` |  |
-| Color | `14` |  |
-| Luminosity | `15` |  |
-| Compatible | `16` |  |
+| Normal | `0` | Normal blend mode. |
+| Multiply | `1` | Multiply blend mode. |
+| Screen | `2` | Screen blend mode. |
+| Overlay | `3` | Overlay blend mode. |
+| Darken | `4` | Darken blend mode. |
+| Lighten | `5` | Lighten blend mode. |
+| ColorDodge | `6` | ColorDodge blend mode. |
+| ColorBurn | `7` | ColorBurn blend mode. |
+| HardLight | `8` | HardLight blend mode. |
+| SoftLight | `9` | SoftLight blend mode. |
+| Difference | `10` | Difference blend mode. |
+| Exclusion | `11` | Exclusion blend mode. |
+| Hue | `12` | Hue blend mode. |
+| Saturation | `13` | Saturation blend mode. |
+| Color | `14` | Color blend mode. |
+| Luminosity | `15` | Luminosity blend mode. |
+| Compatible | `16` | Compatible blend mode. |
 
 ### See Also
 

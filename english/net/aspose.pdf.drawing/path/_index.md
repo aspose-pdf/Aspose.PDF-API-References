@@ -1,12 +1,14 @@
 ---
 title: Path
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents arc.
 type: docs
 weight: 1970
 url: /net/aspose.pdf.drawing/path/
 ---
 ## Path class
+
+Represents arc.
 
 ```csharp
 public sealed class Path : Shape
@@ -16,16 +18,16 @@ public sealed class Path : Shape
 
 | Name | Description |
 | --- | --- |
-| [Path](path#constructor)() | The default constructor. |
-| [Path](path#constructor_1)(Shape[]) |  |
+| [Path](path#constructor)() | Initializes a new instance of the [`Path`](../path) class. |
+| [Path](path#constructor_1)(Shape[]) | Initializes a new instance of the [`Path`](../path) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } |  |
-| [Shapes](../../aspose.pdf.drawing/path/shapes) { get; } |  |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } |  |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo) object that indicates the graph info,such as color, line width,etc. |
+| [Shapes](../../aspose.pdf.drawing/path/shapes) { get; } | Gets or sets shapes collection. |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Gets or sets a text for shape |
 
 ### See Also
 

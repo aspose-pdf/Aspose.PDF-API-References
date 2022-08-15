@@ -1,12 +1,14 @@
 ---
 title: TextReplaceOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents text replace options
 type: docs
 weight: 7120
 url: /net/aspose.pdf.text/textreplaceoptions/
 ---
 ## TextReplaceOptions class
+
+Represents text replace options
 
 ```csharp
 public sealed class TextReplaceOptions : TextOptions
@@ -16,16 +18,16 @@ public sealed class TextReplaceOptions : TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextReplaceOptions](textreplaceoptions#constructor)(ReplaceAdjustment) |  |
-| [TextReplaceOptions](textreplaceoptions#constructor_1)(Scope) |  |
+| [TextReplaceOptions](textreplaceoptions#constructor)(ReplaceAdjustment) | Initializes new instance of the [`TextReplaceOptions`](../textreplaceoptions) object for the specified after replace action. |
+| [TextReplaceOptions](textreplaceoptions#constructor_1)(Scope) | Initializes new instance of the [`TextReplaceOptions`](../textreplaceoptions) object for the specified scope. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing) { get; set; } |  |
-| [ReplaceAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/replaceadjustmentaction) { get; set; } |  |
-| [ReplaceScope](../../aspose.pdf.text/textreplaceoptions/replacescope) { get; set; } |  |
+| [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing) { get; set; } | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. The value expected is multiplier of font size of the replaced text. Default is 1.2. |
+| [ReplaceAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/replaceadjustmentaction) { get; set; } | Gets or sets an action that will be done after replace of text fragment to more short. |
+| [ReplaceScope](../../aspose.pdf.text/textreplaceoptions/replacescope) { get; set; } | Gets or sets a scope where replace text operation is applied |
 
 ### See Also
 

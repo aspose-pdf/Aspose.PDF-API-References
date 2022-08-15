@@ -1,12 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets count of artifacts in collection.
 type: docs
 weight: 10
 url: /net/aspose.pdf/artifactcollection/count/
 ---
 ## ArtifactCollection.Count property
+
+Gets count of artifacts in collection.
 
 ```csharp
 public int Count { get; }

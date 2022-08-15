@@ -1,15 +1,42 @@
 ---
 title: ExtractionOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets text extraction options.
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/textabsorber/extractionoptions/
 ---
 ## TextAbsorber.ExtractionOptions property
 
+Gets or sets text extraction options.
+
 ```csharp
 public virtual TextExtractionOptions ExtractionOptions { get; set; }
+```
+
+### Remarks
+
+Allows to define text formatting mode [`TextExtractionOptions`](../../textextractionoptions) during extraction. The default mode is Pure
+
+### Examples
+
+The example demonstrates how to set Pure text formatting mode and perform text extraction.
+
+```csharp
+// open document
+Document doc = new Document(inFile);
+
+// create TextAbsorber object to extract text with formatting
+TextAbsorber absorber = new TextAbsorber();
+
+// set pure text formatting mode
+absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
+
+// accept the absorber for all document's pages
+doc.Pages.Accept(absorber);
+
+// get the extracted text
+string extractedText = absorber.Text;
 ```
 
 ### See Also

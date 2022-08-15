@@ -1,12 +1,14 @@
 ---
 title: CurveTo2
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing y operator append curve to path final point replicated.
 type: docs
 weight: 4990
 url: /net/aspose.pdf.operators/curveto2/
 ---
 ## CurveTo2 class
+
+Class representing y operator (append curve to path, final point replicated).
 
 ```csharp
 public class CurveTo2 : Operator
@@ -16,21 +18,21 @@ public class CurveTo2 : Operator
 
 | Name | Description |
 | --- | --- |
-| [CurveTo2](curveto2)(double, double, double, double) |  |
+| [CurveTo2](curveto2)(double, double, double, double) | Initializes curve operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Points](../../aspose.pdf.operators/curveto2/points) { get; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Points](../../aspose.pdf.operators/curveto2/points) { get; } | Points of the curve. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto2/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/curveto2/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

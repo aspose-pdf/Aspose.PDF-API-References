@@ -1,12 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets number of options.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/optioncollection/count/
 ---
 ## OptionCollection.Count property
+
+Gets number of options.
 
 ```csharp
 public int Count { get; }

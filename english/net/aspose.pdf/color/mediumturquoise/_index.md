@@ -1,16 +1,22 @@
 ---
 title: MediumTurquoise
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF48D1CC.
 type: docs
 weight: 900
 url: /net/aspose.pdf/color/mediumturquoise/
 ---
 ## Color.MediumTurquoise property
 
+Gets a system-defined color that has an ARGB value of #FF48D1CC.
+
 ```csharp
 public static Color MediumTurquoise { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

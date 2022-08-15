@@ -1,16 +1,22 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Add new field.
 type: docs
 weight: 60
 url: /net/aspose.pdf/xmppdfaextensionvaluetype/add/
 ---
 ## XmpPdfAExtensionValueType.Add method
 
+Add new field.
+
 ```csharp
 public void Add(XmpPdfAExtensionField field)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field | XmpPdfAExtensionField | The field to add. |
 
 ### See Also
 

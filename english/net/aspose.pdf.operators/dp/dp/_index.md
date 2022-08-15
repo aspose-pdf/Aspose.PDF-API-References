@@ -1,16 +1,22 @@
 ---
 title: DP
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/dp/dp/
 ---
 ## DP constructor
 
+Initializes operator.
+
 ```csharp
 public DP(string tag)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tag | String | Tag value. |
 
 ### See Also
 

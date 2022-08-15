@@ -1,16 +1,22 @@
 ---
 title: Path
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the Pathaspose.pdf.drawing/path class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.drawing/path/path/
 ---
 ## Path(Shape[]) {#constructor_1}
 
+Initializes a new instance of the [`Path`](../../path) class.
+
 ```csharp
 public Path(Shape[] shapes)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| shapes | Shape[] | The shape array contains path segments set. |
 
 ### See Also
 
@@ -23,7 +29,7 @@ public Path(Shape[] shapes)
 
 ## Path() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`Path`](../../path) class.
 
 ```csharp
 public Path()

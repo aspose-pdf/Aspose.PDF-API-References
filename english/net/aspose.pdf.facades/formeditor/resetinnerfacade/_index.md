@@ -1,12 +1,14 @@
 ---
 title: ResetInnerFacade
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Reset all visual attribtues of inner facade to empty value.
 type: docs
 weight: 250
 url: /net/aspose.pdf.facades/formeditor/resetinnerfacade/
 ---
 ## FormEditor.ResetInnerFacade method
+
+Reset all visual attribtues of inner facade to empty value.
 
 ```csharp
 public void ResetInnerFacade()

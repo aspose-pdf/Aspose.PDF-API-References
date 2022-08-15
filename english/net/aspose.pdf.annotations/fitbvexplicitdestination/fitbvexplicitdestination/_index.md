@@ -1,16 +1,23 @@
 ---
 title: FitBVExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates local explicit destination.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/fitbvexplicitdestination/fitbvexplicitdestination/
 ---
 ## FitBVExplicitDestination(Page, double) {#constructor_1}
 
+Creates local explicit destination.
+
 ```csharp
 public FitBVExplicitDestination(Page page, double left)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The destination page object. |
+| left | Double | The horizontal coordinate left positioned at the left edge of the window. |
 
 ### See Also
 
@@ -23,9 +30,16 @@ public FitBVExplicitDestination(Page page, double left)
 
 ## FitBVExplicitDestination(int, double) {#constructor_2}
 
+Creates remote explicit destination.
+
 ```csharp
 public FitBVExplicitDestination(int pageNumber, double left)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNumber | Int32 | The destination page number of remote document. |
+| left | Double | The horizontal coordinate left positioned at the left edge of the window. |
 
 ### See Also
 

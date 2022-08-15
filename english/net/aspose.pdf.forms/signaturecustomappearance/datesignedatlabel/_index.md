@@ -1,12 +1,14 @@
 ---
 title: DateSignedAtLabel
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets/sets date signed label. Default value Date.
 type: docs
 weight: 50
 url: /net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/
 ---
 ## SignatureCustomAppearance.DateSignedAtLabel property
+
+Gets/sets date signed label. Default value: "Date".
 
 ```csharp
 public string DateSignedAtLabel { get; set; }

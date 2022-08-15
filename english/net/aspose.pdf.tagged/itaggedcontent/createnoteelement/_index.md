@@ -1,16 +1,22 @@
 ---
 title: CreateNoteElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates NoteElementaspose.pdf.logicalstructure/noteelement.
 type: docs
 weight: 190
 url: /net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
 ## ITaggedContent.CreateNoteElement method
 
+Creates [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement).
+
 ```csharp
 public NoteElement CreateNoteElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

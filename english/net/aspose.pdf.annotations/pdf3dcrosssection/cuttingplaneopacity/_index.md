@@ -1,16 +1,28 @@
 ---
 title: CuttingPlaneOpacity
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the cutting plane opacity.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/
 ---
 ## PDF3DCrossSection.CuttingPlaneOpacity property
 
+Gets or sets the cutting plane opacity.
+
 ```csharp
 public double CuttingPlaneOpacity { get; set; }
 ```
+
+### Property Value
+
+The cutting plane opacity.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| Exception | The number must be in the range [0 , 1] |
 
 ### See Also
 

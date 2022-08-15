@@ -1,12 +1,14 @@
 ---
 title: CapStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Style of line ending of Ink annotation line.
 type: docs
 weight: 150
 url: /net/aspose.pdf.annotations/capstyle/
 ---
 ## CapStyle enumeration
+
+Style of line ending of Ink annotation line.
 
 ```csharp
 public enum CapStyle
@@ -16,8 +18,8 @@ public enum CapStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Rectangular | `1` |  |
-| Rounded | `2` |  |
+| Rectangular | `1` | End is rectangular. |
+| Rounded | `2` | End is rounded. |
 
 ### See Also
 

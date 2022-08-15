@@ -1,12 +1,14 @@
 ---
 title: LeaderType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a TabLeaderTypeaspose.pdf.text/tableadertype enum that indicates the tab leader type.
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/tabstop/leadertype/
 ---
 ## TabStop.LeaderType property
+
+Gets or sets a [`TabLeaderType`](../../tableadertype) enum that indicates the tab leader type.
 
 ```csharp
 public TabLeaderType LeaderType { get; set; }

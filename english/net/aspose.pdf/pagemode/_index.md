@@ -1,12 +1,14 @@
 ---
 title: PageMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class descibes used components of the document page.
 type: docs
 weight: 5830
 url: /net/aspose.pdf/pagemode/
 ---
 ## PageMode enumeration
+
+Class descibes used components of the document page.
 
 ```csharp
 public enum PageMode
@@ -16,12 +18,12 @@ public enum PageMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| UseNone | `0` |  |
-| UseOutlines | `1` |  |
-| UseThumbs | `2` |  |
-| FullScreen | `3` |  |
-| UseOC | `4` |  |
-| UseAttachments | `5` |  |
+| UseNone | `0` | Dont use any components. |
+| UseOutlines | `1` | Document outline visible. |
+| UseThumbs | `2` | Thumbnail images visible. |
+| FullScreen | `3` | FullScreenFull-screen mode, with no menu bar, window controls, or any other window visible. |
+| UseOC | `4` | Optional content group panel visible. |
+| UseAttachments | `5` | Attachments panel visible. |
 
 ### See Also
 

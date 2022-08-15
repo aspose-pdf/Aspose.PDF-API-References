@@ -1,12 +1,14 @@
 ---
 title: SignaturesAppendOnly
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If set the document contains signatures that may be invalidated if the file is saved written in a way that alters its previous contents as opposed to an incremental update.
 type: docs
 weight: 130
 url: /net/aspose.pdf.forms/form/signaturesappendonly/
 ---
 ## Form.SignaturesAppendOnly property
+
+If set, the document contains signatures that may be invalidated if the file is saved (written) in a way that alters its previous contents, as opposed to an incremental update.
 
 ```csharp
 public bool SignaturesAppendOnly { get; set; }

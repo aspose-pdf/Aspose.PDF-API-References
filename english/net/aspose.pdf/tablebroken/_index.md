@@ -1,12 +1,14 @@
 ---
 title: TableBroken
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumerates the table broken.
 type: docs
 weight: 6460
 url: /net/aspose.pdf/tablebroken/
 ---
 ## TableBroken enumeration
+
+Enumerates the table broken.
 
 ```csharp
 public enum TableBroken
@@ -16,10 +18,10 @@ public enum TableBroken
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Vertical | `1` |  |
-| VerticalInSamePage | `2` |  |
-| IsInNextPage | `3` |  |
+| None | `0` | No broken. |
+| Vertical | `1` | Vertical broken. |
+| VerticalInSamePage | `2` | Vertical broken in same page. |
+| IsInNextPage | `3` | Broken to next page. |
 
 ### See Also
 

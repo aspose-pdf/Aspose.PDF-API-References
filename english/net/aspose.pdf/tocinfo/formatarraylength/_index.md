@@ -1,12 +1,14 @@
 ---
 title: FormatArrayLength
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets format array length
 type: docs
 weight: 40
 url: /net/aspose.pdf/tocinfo/formatarraylength/
 ---
 ## TocInfo.FormatArrayLength property
+
+Gets or sets format array length
 
 ```csharp
 public int FormatArrayLength { get; set; }

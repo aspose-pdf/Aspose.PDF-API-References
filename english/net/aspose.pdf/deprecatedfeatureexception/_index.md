@@ -1,12 +1,14 @@
 ---
 title: DeprecatedFeatureException
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The exception that is thrown when a feature is deprecated in current pdf version.
 type: docs
 weight: 1560
 url: /net/aspose.pdf/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException class
+
+The exception that is thrown when a feature is deprecated in current pdf version.
 
 ```csharp
 public sealed class DeprecatedFeatureException : PdfException
@@ -16,8 +18,8 @@ public sealed class DeprecatedFeatureException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [DeprecatedFeatureException](deprecatedfeatureexception#constructor)() | The default constructor. |
-| [DeprecatedFeatureException](deprecatedfeatureexception#constructor_1)(string) |  |
+| [DeprecatedFeatureException](deprecatedfeatureexception#constructor)() | Initializes a new instance of the [`DeprecatedFeatureException`](../deprecatedfeatureexception) class. |
+| [DeprecatedFeatureException](deprecatedfeatureexception#constructor_1)(string) | Constructor. |
 
 ### See Also
 

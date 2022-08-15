@@ -1,12 +1,14 @@
 ---
 title: Margin
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the padding.
 type: docs
 weight: 110
 url: /net/aspose.pdf/cell/margin/
 ---
 ## Cell.Margin property
+
+Gets or sets the padding.
 
 ```csharp
 public MarginInfo Margin { get; set; }

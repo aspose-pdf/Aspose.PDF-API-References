@@ -1,16 +1,22 @@
 ---
 title: CreateSectElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates SectElementaspose.pdf.logicalstructure/sectelement.
 type: docs
 weight: 260
 url: /net/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
 ## ITaggedContent.CreateSectElement method
 
+Creates [`SectElement`](../../../aspose.pdf.logicalstructure/sectelement).
+
 ```csharp
 public SectElement CreateSectElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

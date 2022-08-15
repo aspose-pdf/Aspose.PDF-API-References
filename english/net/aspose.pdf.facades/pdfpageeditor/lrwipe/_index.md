@@ -1,12 +1,14 @@
 ---
 title: LRWIPE
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Left-Right Wipe
 type: docs
 weight: 260
 url: /net/aspose.pdf.facades/pdfpageeditor/lrwipe/
 ---
 ## PdfPageEditor.LRWIPE field
+
+Left-Right Wipe
 
 ```csharp
 public const int LRWIPE;

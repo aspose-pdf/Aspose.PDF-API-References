@@ -1,12 +1,14 @@
 ---
 title: G
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: G member of the transformation matrix.
 type: docs
 weight: 80
 url: /net/aspose.pdf/matrix3d/g/
 ---
 ## Matrix3D.G property
+
+G member of the transformation matrix.
 
 ```csharp
 public double G { get; set; }

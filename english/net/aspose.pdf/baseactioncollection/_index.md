@@ -1,12 +1,14 @@
 ---
 title: BaseActionCollection
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class incapsulates basic actions wuth page/annotation/field interactive actions
 type: docs
 weight: 1310
 url: /net/aspose.pdf/baseactioncollection/
 ---
 ## BaseActionCollection class
+
+Class incapsulates basic actions wuth page/annotation/field interactive actions
 
 ```csharp
 public abstract class BaseActionCollection
@@ -16,7 +18,7 @@ public abstract class BaseActionCollection
 
 | Name | Description |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions)() |  |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions)() | Removes all actions of the annotation. |
 
 ### See Also
 

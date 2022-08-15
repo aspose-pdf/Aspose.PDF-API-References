@@ -1,16 +1,22 @@
 ---
 title: BindPdf
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes the facade.
 type: docs
 weight: 190
 url: /net/aspose.pdf.facades/pdffileinfo/bindpdf/
 ---
 ## PdfFileInfo.BindPdf method
 
+Initializes the facade.
+
 ```csharp
 public override void BindPdf(Document srcDoc)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcDoc | Document | The Aspose.Pdf.Document object. |
 
 ### See Also
 

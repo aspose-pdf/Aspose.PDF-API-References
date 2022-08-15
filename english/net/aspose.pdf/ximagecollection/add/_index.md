@@ -1,16 +1,26 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Adds new image to Image list. This method adds image as reference to the same PdfObject which allows to decrease file size
 type: docs
 weight: 70
 url: /net/aspose.pdf/ximagecollection/add/
 ---
 ## Add(XImage) {#add}
 
+Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size)
+
 ```csharp
 public string Add(XImage image)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | XImage | XImage to be added. |
+
+### Return Value
+
+Name of the added image.
 
 ### See Also
 
@@ -23,9 +33,19 @@ public string Add(XImage image)
 
 ## Add(Stream) {#add_1}
 
+Adds entity to the end of the collection, so entity can be accessed by the last index.
+
 ```csharp
 public string Add(Stream image)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | Stream | Stream containing image data (in JPEG format). |
+
+### Return Value
+
+Name of the added image.
 
 ### See Also
 
@@ -37,9 +57,16 @@ public string Add(Stream image)
 
 ## Add(Stream, ImageFilterType) {#add_2}
 
+Adds entity to the end of the collection, so entity can be accessed by the last index.
+
 ```csharp
 public void Add(Stream image, ImageFilterType filterType)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | Stream | Stream containing image data. |
+| filterType | ImageFilterType | The image filter type. |
 
 ### See Also
 
@@ -52,9 +79,16 @@ public void Add(Stream image, ImageFilterType filterType)
 
 ## Add(Stream, int) {#add_3}
 
+Adds entity to the end of the collection, so entity can be accessed by the last index.
+
 ```csharp
 public void Add(Stream image, int quality)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | Stream | Stream containing image data (in JPEG format). |
+| quality | Int32 | JPEG quality. |
 
 ### See Also
 

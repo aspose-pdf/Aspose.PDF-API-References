@@ -1,12 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a Coloraspose.pdf/graphinfo/color object that indicates the color of the graph.
 type: docs
 weight: 20
 url: /net/aspose.pdf/graphinfo/color/
 ---
 ## GraphInfo.Color property
+
+Gets or sets a `Color` object that indicates the color of the graph.
 
 ```csharp
 public Color Color { get; set; }

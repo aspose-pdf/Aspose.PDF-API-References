@@ -1,16 +1,22 @@
 ---
 title: Put
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Put stamp on the specified page.
 type: docs
 weight: 30
 url: /net/aspose.pdf/pdfpagestamp/put/
 ---
 ## PdfPageStamp.Put method
 
+Put stamp on the specified page.
+
 ```csharp
 public override void Put(Page page)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where stamp will be placed. |
 
 ### See Also
 

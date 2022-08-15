@@ -1,14 +1,14 @@
 ---
 title: PdfPageEditor
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor for PdfPageEditor class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
 ---
 ## PdfPageEditor() {#constructor}
 
-The default constructor.
+Constructor for PdfPageEditor class.
 
 ```csharp
 public PdfPageEditor()
@@ -24,9 +24,15 @@ public PdfPageEditor()
 
 ## PdfPageEditor(Document) {#constructor_1}
 
+Constructor for PdfPageEditor class.
+
 ```csharp
 public PdfPageEditor(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Document object which should be processed. |
 
 ### See Also
 

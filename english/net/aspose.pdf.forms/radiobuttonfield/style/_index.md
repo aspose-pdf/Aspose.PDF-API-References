@@ -1,12 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Style of field box.
 type: docs
 weight: 50
 url: /net/aspose.pdf.forms/radiobuttonfield/style/
 ---
 ## RadioButtonField.Style property
+
+Style of field box.
 
 ```csharp
 public BoxStyle Style { get; set; }

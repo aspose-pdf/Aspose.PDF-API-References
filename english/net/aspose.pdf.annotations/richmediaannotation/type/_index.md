@@ -1,12 +1,14 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets type of content. Possible values Audio Video.
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/richmediaannotation/type/
 ---
 ## RichMediaAnnotation.Type property
+
+Gets or sets type of content. Possible values: Audio, Video.
 
 ```csharp
 public ContentType Type { get; set; }

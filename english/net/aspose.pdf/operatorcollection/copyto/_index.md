@@ -1,16 +1,23 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Copies operators into operators list.
 type: docs
 weight: 100
 url: /net/aspose.pdf/operatorcollection/copyto/
 ---
 ## OperatorCollection.CopyTo method
 
+Copies operators into operators list.
+
 ```csharp
 public override void CopyTo(Operator[] array, int index)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | Operator[] | Array with operators which must to be copied. This array must be Object[] or Operator[]. |
+| index | Int32 | Starting index from which operators will be copied |
 
 ### See Also
 

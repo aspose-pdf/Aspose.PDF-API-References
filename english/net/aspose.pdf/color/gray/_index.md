@@ -1,16 +1,22 @@
 ---
 title: Gray
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF808080.
 type: docs
 weight: 520
 url: /net/aspose.pdf/color/gray/
 ---
 ## Color.Gray property
 
+Gets a system-defined color that has an ARGB value of #FF808080.
+
 ```csharp
 public static Color Gray { get; }
 ```
+
+### Return Value
+
+A strcture representing a system-defined color.
 
 ### See Also
 

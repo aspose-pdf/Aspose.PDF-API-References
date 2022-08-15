@@ -1,12 +1,14 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Height attribute Layout attribute owner.
 type: docs
 weight: 180
 url: /net/aspose.pdf.logicalstructure/attributekey/height/
 ---
 ## AttributeKey.Height field
+
+Height attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey Height;

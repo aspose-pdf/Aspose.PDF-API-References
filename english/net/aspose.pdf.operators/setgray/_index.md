@@ -1,12 +1,14 @@
 ---
 title: SetGray
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Set gray level for non-stroking operations.
 type: docs
 weight: 5430
 url: /net/aspose.pdf.operators/setgray/
 ---
 ## SetGray class
+
+Set gray level for non-stroking operations.
 
 ```csharp
 public class SetGray : SetColorOperator
@@ -16,21 +18,21 @@ public class SetGray : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetGray](setgray)(double) |  |
+| [SetGray](setgray)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setgray/accept)(IOperatorSelector) |  |
-| override [getColor](../../aspose.pdf.operators/setgray/getcolor)() |  |
-| override [ToString](../../aspose.pdf.operators/setgray/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setgray/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [getColor](../../aspose.pdf.operators/setgray/getcolor)() | Returns color specified by operator. |
+| override [ToString](../../aspose.pdf.operators/setgray/tostring)() | Returns string represnetation of operator. |
 
 ### See Also
 

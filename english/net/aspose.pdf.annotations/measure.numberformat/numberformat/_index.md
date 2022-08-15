@@ -1,16 +1,22 @@
 ---
 title: NumberFormat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor for NumberFormat class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/measure.numberformat/numberformat/
 ---
 ## Measure.NumberFormat constructor
 
+Constructor for NumberFormat class.
+
 ```csharp
 public NumberFormat(Measure measure)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| measure | Measure | Measure object which contains this number format. |
 
 ### See Also
 

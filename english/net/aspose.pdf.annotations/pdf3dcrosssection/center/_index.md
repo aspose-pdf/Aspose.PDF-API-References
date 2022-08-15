@@ -1,16 +1,22 @@
 ---
 title: Center
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the cross section rotation center.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/pdf3dcrosssection/center/
 ---
 ## PDF3DCrossSection.Center property
 
+Gets or sets the cross section rotation center.
+
 ```csharp
 public Point3D Center { get; set; }
 ```
+
+### Property Value
+
+The center.
 
 ### See Also
 

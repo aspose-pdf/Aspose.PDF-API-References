@@ -1,12 +1,14 @@
 ---
 title: Sections
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets collection of MarkupSectionaspose.pdf.text/markupsection that was found on the page.
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/pagemarkup/sections/
 ---
 ## PageMarkup.Sections property
+
+Gets collection of [`MarkupSection`](../../markupsection) that was found on the page.
 
 ```csharp
 public List<MarkupSection> Sections { get; }

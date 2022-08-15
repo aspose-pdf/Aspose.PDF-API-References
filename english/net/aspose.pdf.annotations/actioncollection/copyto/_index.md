@@ -1,16 +1,23 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Copies actions array into collection.
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/actioncollection/copyto/
 ---
 ## ActionCollection.CopyTo method
 
+Copies actions array into collection.
+
 ```csharp
 public void CopyTo(PdfAction[] array, int index)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | PdfAction[] | Array of actions which must be copied into collection. |
+| index | Int32 | Index starting from which array will be copied. |
 
 ### See Also
 

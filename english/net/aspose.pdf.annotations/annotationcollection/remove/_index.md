@@ -1,16 +1,26 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Deletes specified annotation from the collection.
 type: docs
 weight: 140
 url: /net/aspose.pdf.annotations/annotationcollection/remove/
 ---
 ## AnnotationCollection.Remove method
 
+Deletes specified annotation from the collection.
+
 ```csharp
 public bool Remove(Annotation annotation)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotation | Annotation | Annotation which shall be deleted. |
+
+### Return Value
+
+True - if annotation removed; otherwise, false.
 
 ### See Also
 

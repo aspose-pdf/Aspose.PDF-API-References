@@ -1,16 +1,22 @@
 ---
 title: CrossSectionsArray
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the cross sections array of view.
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/
 ---
 ## PDF3DView.CrossSectionsArray property
 
+Gets the cross sections array of view.
+
 ```csharp
 public PDF3DCrossSectionArray CrossSectionsArray { get; }
 ```
+
+### Property Value
+
+The cross sections array of view.
 
 ### See Also
 

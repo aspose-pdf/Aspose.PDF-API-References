@@ -1,12 +1,14 @@
 ---
 title: BlockAlign
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: BlockAlign attribute Layout attribute owner.
 type: docs
 weight: 40
 url: /net/aspose.pdf.logicalstructure/attributekey/blockalign/
 ---
 ## AttributeKey.BlockAlign field
+
+BlockAlign attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey BlockAlign;

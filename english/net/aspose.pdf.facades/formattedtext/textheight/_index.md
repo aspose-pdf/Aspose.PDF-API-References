@@ -1,12 +1,14 @@
 ---
 title: TextHeight
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets height of text.
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/formattedtext/textheight/
 ---
 ## FormattedText.TextHeight property
+
+Gets height of text.
 
 ```csharp
 public float TextHeight { get; }

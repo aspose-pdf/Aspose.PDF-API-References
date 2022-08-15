@@ -1,17 +1,27 @@
 ---
 title: Encrypt
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Encrypts the document. Call then Save to get encrypted version of the document.
 type: docs
 weight: 570
 url: /net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
 
+Encrypts the document. Call then Save to get encrypted version of the document.
+
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| userPassword | String | User password. |
+| ownerPassword | String | Owner password. |
+| privileges | DocumentPrivilege | Document permissions, see [`Permissions`](../permissions) for details. |
+| cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm) for details. |
+| usePdf20 | Boolean | Support for revision 6 (Extension 8). |
 
 ### See Also
 
@@ -25,10 +35,19 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
 
+Encrypts the document. Call then Save to get encrypted version of the document.
+
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| userPassword | String | User password. |
+| ownerPassword | String | Owner password. |
+| permissions | Permissions | Document permissions, see [`Permissions`](../permissions) for details. |
+| cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm) for details. |
 
 ### See Also
 
@@ -42,10 +61,20 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 ## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
 
+Encrypts the document. Call then Save to get encrypted version of the document.
+
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| userPassword | String | User password. |
+| ownerPassword | String | Owner password. |
+| permissions | Permissions | Document permissions, see [`Permissions`](../permissions) for details. |
+| cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm) for details. |
+| usePdf20 | Boolean | Support for revision 6 (Extension 8). |
 
 ### See Also
 

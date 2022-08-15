@@ -1,12 +1,14 @@
 ---
 title: Rows
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents a rows collection of table.
 type: docs
 weight: 6210
 url: /net/aspose.pdf/rows/
 ---
 ## Rows class
+
+Represents a rows collection of table.
 
 ```csharp
 public sealed class Rows : IEnumerable<Row>
@@ -22,21 +24,21 @@ public sealed class Rows : IEnumerable<Row>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/rows/count) { get; } |  |
-| [Item](../../aspose.pdf/rows/item) { get; set; } |  |
+| [Count](../../aspose.pdf/rows/count) { get; } | The items count. |
+| [Item](../../aspose.pdf/rows/item) { get; set; } | Gets or sets row. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/rows/add#add)() |  |
-| [Add](../../aspose.pdf/rows/add#add_1)(Row) |  |
-| [Dispose](../../aspose.pdf/rows/dispose)() |  |
-| [GetEnumerator](../../aspose.pdf/rows/getenumerator)() |  |
-| [IndexOf](../../aspose.pdf/rows/indexof)(Row) |  |
-| [Remove](../../aspose.pdf/rows/remove)(Row) |  |
-| [RemoveAt](../../aspose.pdf/rows/removeat)(int) |  |
-| [RemoveRange](../../aspose.pdf/rows/removerange)(int, int) |  |
+| [Add](../../aspose.pdf/rows/add#add)() | Add row to collection. |
+| [Add](../../aspose.pdf/rows/add#add_1)(Row) | Add row to cellection. |
+| [Dispose](../../aspose.pdf/rows/dispose)() | Dispose. |
+| [GetEnumerator](../../aspose.pdf/rows/getenumerator)() | Gets collection's enumerator |
+| [IndexOf](../../aspose.pdf/rows/indexof)(Row) | Returns index of row in collection. |
+| [Remove](../../aspose.pdf/rows/remove)(Row) | Remove row from collection. |
+| [RemoveAt](../../aspose.pdf/rows/removeat)(int) | Remove row at position from collection. |
+| [RemoveRange](../../aspose.pdf/rows/removerange)(int, int) | Remove row set from collection. |
 
 ### See Also
 

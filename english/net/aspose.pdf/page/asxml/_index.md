@@ -1,16 +1,22 @@
 ---
 title: AsXml
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Converts current page as xml in utf8 encoding.
 type: docs
 weight: 370
 url: /net/aspose.pdf/page/asxml/
 ---
 ## Page.AsXml method
 
+Converts current page as xml in utf8 encoding.
+
 ```csharp
 public string AsXml()
 ```
+
+### Return Value
+
+Converted xml string.
 
 ### See Also
 

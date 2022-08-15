@@ -1,12 +1,14 @@
 ---
 title: Next
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Next actions in sequence.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/pdfaction/next/
 ---
 ## PdfAction.Next property
+
+Next actions in sequence.
 
 ```csharp
 public ActionCollection Next { get; }

@@ -1,12 +1,14 @@
 ---
 title: DefaultOfBitsPerChannel
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Default value for BitsPerchannel parameter.
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/
 ---
 ## SoundSampleData.DefaultOfBitsPerChannel field
+
+Default value for BitsPerchannel parameter.
 
 ```csharp
 public const int DefaultOfBitsPerChannel;

@@ -1,12 +1,14 @@
 ---
 title: CheckBoxStyleCross
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines a cross check box style.
 type: docs
 weight: 410
 url: /net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/
 ---
 ## FormFieldFacade.CheckBoxStyleCross field
+
+Defines a cross check box style.
 
 ```csharp
 public const int CheckBoxStyleCross;

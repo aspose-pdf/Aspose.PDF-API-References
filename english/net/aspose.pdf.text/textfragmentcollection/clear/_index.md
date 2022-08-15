@@ -1,12 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clears all items from the collection.
 type: docs
 weight: 70
 url: /net/aspose.pdf.text/textfragmentcollection/clear/
 ---
 ## TextFragmentCollection.Clear method
+
+Clears all items from the collection.
 
 ```csharp
 public void Clear()

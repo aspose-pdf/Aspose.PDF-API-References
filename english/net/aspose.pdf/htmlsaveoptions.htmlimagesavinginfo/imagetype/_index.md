@@ -1,12 +1,14 @@
 ---
 title: ImageType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents type of saved image referenced in HTML. Set by converter and can be used in custom code to decide what should be done
 type: docs
 weight: 30
 url: /net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype/
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo.ImageType field
+
+Represents type of saved image referenced in HTML. Set by converter and can be used in custom code to decide what should be done
 
 ```csharp
 public HtmlImageType ImageType;

@@ -1,12 +1,14 @@
 ---
 title: SetSpacingMoveToNextLineShowText
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing  operator set word and character spacing move to the next line and show text.
 type: docs
 weight: 5520
 url: /net/aspose.pdf.operators/setspacingmovetonextlineshowtext/
 ---
 ## SetSpacingMoveToNextLineShowText class
+
+Class representing " operator (set word and character spacing, move to the next line and show text).
 
 ```csharp
 public class SetSpacingMoveToNextLineShowText : TextShowOperator
@@ -16,23 +18,23 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext)(double, double, string) |  |
+| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext)(double, double, string) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac) { get; } |  |
-| [Aw](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/aw) { get; } |  |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text) { get; } |  |
+| [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac) { get; } | Get character spacing. |
+| [Aw](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/aw) { get; } | Gets word spacing. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text) { get; } | Gets text of operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Point3D
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represent point with fractional coordinates.
 type: docs
 weight: 6080
 url: /net/aspose.pdf/point3d/
 ---
 ## Point3D class
+
+Represent point with fractional coordinates.
 
 ```csharp
 public sealed class Point3D
@@ -16,16 +18,16 @@ public sealed class Point3D
 
 | Name | Description |
 | --- | --- |
-| [Point3D](point3d)(double, double, double) |  |
+| [Point3D](point3d)(double, double, double) | Initializes new instance of the [`Point3D`](../point3d). |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/point3d/trivial) { get; } |  |
-| [X](../../aspose.pdf/point3d/x) { get; set; } |  |
-| [Y](../../aspose.pdf/point3d/y) { get; set; } |  |
-| [Z](../../aspose.pdf/point3d/z) { get; set; } |  |
+| static [Trivial](../../aspose.pdf/point3d/trivial) { get; } | Gets point with zero coordinates. |
+| [X](../../aspose.pdf/point3d/x) { get; set; } | X coordinate value. |
+| [Y](../../aspose.pdf/point3d/y) { get; set; } | Y coordinate value. |
+| [Z](../../aspose.pdf/point3d/z) { get; set; } | Z coordinate value. |
 
 ### See Also
 

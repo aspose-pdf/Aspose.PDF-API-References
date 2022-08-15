@@ -1,12 +1,14 @@
 ---
 title: ListNumbering_Disc
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Attribute ListNumbering Disc - Solid circular bullet.
 type: docs
 weight: 270
 url: /net/aspose.pdf.logicalstructure/attributename/listnumbering_disc/
 ---
 ## AttributeName.ListNumbering_Disc field
+
+Attribute ListNumbering: Disc - Solid circular bullet.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Disc;

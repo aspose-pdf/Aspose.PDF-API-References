@@ -1,16 +1,23 @@
 ---
 title: ShowText
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes Tj opearor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/showtext/showtext/
 ---
 ## ShowText(int, string) {#constructor_1}
 
+Initializes Tj opearor.
+
 ```csharp
 public ShowText(int index, string text)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | Int32 | Index of operator in operators list. |
+| text | String | argument of the operator. |
 
 ### See Also
 
@@ -22,9 +29,15 @@ public ShowText(int index, string text)
 
 ## ShowText(string) {#constructor_2}
 
+Initializes Tj operator.
+
 ```csharp
 public ShowText(string text)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | argument of the operator. |
 
 ### See Also
 
@@ -36,9 +49,16 @@ public ShowText(string text)
 
 ## ShowText(string, Font) {#constructor_3}
 
+Initializes Tj opearor.
+
 ```csharp
 public ShowText(string text, Font font)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | text to add. |
+| font | Font | font that is used to draw the text. |
 
 ### See Also
 
@@ -51,7 +71,7 @@ public ShowText(string text, Font font)
 
 ## ShowText() {#constructor}
 
-The default constructor.
+Initializes Tj operator.
 
 ```csharp
 public ShowText()

@@ -1,16 +1,22 @@
 ---
 title: DarkMagenta
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF8B008B.
 type: docs
 weight: 290
 url: /net/aspose.pdf/color/darkmagenta/
 ---
 ## Color.DarkMagenta property
 
+Gets a system-defined color that has an ARGB value of #FF8B008B.
+
 ```csharp
 public static Color DarkMagenta { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Form.ImportStatus
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Status of imported field
 type: docs
 weight: 2270
 url: /net/aspose.pdf.facades/form.importstatus/
 ---
 ## Form.ImportStatus enumeration
+
+Status of imported field
 
 ```csharp
 public enum ImportStatus
@@ -16,8 +18,8 @@ public enum ImportStatus
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Success | `0` |  |
-| FieldNotFound | `1` |  |
+| Success | `0` | Field was successfully imported |
+| FieldNotFound | `1` | Field with this name was not found in the document form. |
 
 ### See Also
 

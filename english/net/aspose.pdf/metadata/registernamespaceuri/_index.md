@@ -1,16 +1,23 @@
 ---
 title: RegisterNamespaceUri
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Registers namespace URI.
 type: docs
 weight: 190
 url: /net/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
+Registers namespace URI.
+
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| prefix | String | The value of prefix. |
+| namespaceUri | String | The value of namespace URI. |
 
 ### See Also
 
@@ -22,9 +29,17 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 ## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
+Registers namespace URI.
+
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| prefix | String | The value of prefix. |
+| namespaceUri | String | The value of namespace URI. |
+| schemaDescription | String | The value of schema description. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: MhtLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents options for loading/importing of .mht-file into pdf document.
 type: docs
 weight: 4740
 url: /net/aspose.pdf/mhtloadoptions/
 ---
 ## MhtLoadOptions class
+
+Represents options for loading/importing of .mht-file into pdf document.
 
 ```csharp
 public sealed class MhtLoadOptions : LoadOptions
@@ -22,9 +24,9 @@ public sealed class MhtLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
-| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo) { get; } |  |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
+| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo) { get; } | Gets or sets document page info |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ### See Also
 

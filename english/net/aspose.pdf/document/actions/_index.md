@@ -1,15 +1,27 @@
 ---
 title: Actions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets document actions. This property is instance of DocumentActions class which allows to get/set BeforClosing BeforSaving etc. actions.
 type: docs
 weight: 20
 url: /net/aspose.pdf/document/actions/
 ---
 ## Document.Actions property
 
+Gets document actions. This property is instance of DocumentActions class which allows to get/set BeforClosing, BeforSaving, etc. actions.
+
 ```csharp
 public DocumentActionCollection Actions { get; }
+```
+
+### Examples
+
+This example demonstrates how to obtain after open action of the document:
+
+```csharp
+Aspose.Pdf.Document document = new Aspose.Pdf.Document("d:\\work\\aspose\\aspose.pdf.kit.net.new\\trunk\\testdata\\Aspose.Pdf\\PdfWithOpenAction.pdf");
+Aspose.Pdf.Annotations.DocumentActionCollection actions = document.Actions;
+Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
 ```
 
 ### See Also

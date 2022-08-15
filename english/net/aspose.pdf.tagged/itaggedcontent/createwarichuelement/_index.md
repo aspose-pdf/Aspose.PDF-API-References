@@ -1,16 +1,22 @@
 ---
 title: CreateWarichuElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates WarichuElementaspose.pdf.logicalstructure/warichuelement.
 type: docs
 weight: 370
 url: /net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
 ## ITaggedContent.CreateWarichuElement method
 
+Creates [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement).
+
 ```csharp
 public WarichuElement CreateWarichuElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

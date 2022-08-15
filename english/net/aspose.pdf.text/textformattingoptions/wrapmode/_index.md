@@ -1,12 +1,14 @@
 ---
 title: WrapMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets word wrap mode. Default value is WordWrapMode.NoWrap
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textformattingoptions/wrapmode/
 ---
 ## TextFormattingOptions.WrapMode property
+
+Gets or sets word wrap mode. Default value is WordWrapMode.NoWrap
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }

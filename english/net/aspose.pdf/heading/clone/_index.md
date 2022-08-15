@@ -1,16 +1,22 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clone the heading.
 type: docs
 weight: 110
 url: /net/aspose.pdf/heading/clone/
 ---
 ## Heading.Clone method
 
+Clone the heading.
+
 ```csharp
 public override object Clone()
 ```
+
+### Return Value
+
+The cloned object
 
 ### See Also
 

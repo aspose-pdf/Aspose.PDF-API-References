@@ -1,14 +1,14 @@
 ---
 title: SubmitFormAction
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes SubmitFormAction object.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/submitformaction/submitformaction/
 ---
 ## SubmitFormAction constructor
 
-The default constructor.
+Initializes SubmitFormAction object.
 
 ```csharp
 public SubmitFormAction()

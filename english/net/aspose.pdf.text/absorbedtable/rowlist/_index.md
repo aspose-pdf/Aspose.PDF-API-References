@@ -1,12 +1,14 @@
 ---
 title: RowList
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets readonly IList containing rows of the table
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/absorbedtable/rowlist/
 ---
 ## AbsorbedTable.RowList property
+
+Gets readonly IList containing rows of the table
 
 ```csharp
 public IList<AbsorbedRow> RowList { get; }

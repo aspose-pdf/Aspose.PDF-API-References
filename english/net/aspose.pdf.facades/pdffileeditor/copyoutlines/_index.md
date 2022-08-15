@@ -1,12 +1,14 @@
 ---
 title: CopyOutlines
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If true then outlines will be copied.
 type: docs
 weight: 70
 url: /net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
 ## PdfFileEditor.CopyOutlines property
+
+If true then outlines will be copied.
 
 ```csharp
 public bool CopyOutlines { get; set; }

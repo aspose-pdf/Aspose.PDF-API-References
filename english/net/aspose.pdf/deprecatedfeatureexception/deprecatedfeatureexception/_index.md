@@ -1,14 +1,14 @@
 ---
 title: DeprecatedFeatureException
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the DeprecatedFeatureExceptionaspose.pdf/deprecatedfeatureexception class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/deprecatedfeatureexception/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`DeprecatedFeatureException`](../../deprecatedfeatureexception) class.
 
 ```csharp
 public DeprecatedFeatureException()
@@ -24,9 +24,15 @@ public DeprecatedFeatureException()
 
 ## DeprecatedFeatureException(string) {#constructor_1}
 
+Constructor.
+
 ```csharp
 public DeprecatedFeatureException(string message)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | Exception message. |
 
 ### See Also
 

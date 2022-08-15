@@ -1,14 +1,14 @@
 ---
 title: TextStateOperator
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes TextStateOperator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/textstateoperator/textstateoperator/
 ---
 ## TextStateOperator() {#constructor}
 
-The default constructor.
+Initializes TextStateOperator.
 
 ```csharp
 public TextStateOperator()
@@ -24,9 +24,15 @@ public TextStateOperator()
 
 ## TextStateOperator(TextProperties) {#constructor_1}
 
+Initializes TextStateoperator which allows to pass TextProperties.
+
 ```csharp
 public TextStateOperator(TextProperties textProperties)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textProperties | TextProperties | Text properties. |
 
 ### See Also
 

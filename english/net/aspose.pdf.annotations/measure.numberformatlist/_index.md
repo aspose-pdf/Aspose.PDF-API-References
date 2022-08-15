@@ -1,12 +1,14 @@
 ---
 title: Measure.NumberFormatList
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents list of number formats.
 type: docs
 weight: 630
 url: /net/aspose.pdf.annotations/measure.numberformatlist/
 ---
 ## Measure.NumberFormatList class
+
+Represents list of number formats.
 
 ```csharp
 public class NumberFormatList
@@ -16,22 +18,22 @@ public class NumberFormatList
 
 | Name | Description |
 | --- | --- |
-| [NumberFormatList](numberformatlist)(Measure) |  |
+| [NumberFormatList](numberformatlist)(Measure) | Constructor for NumberFormatList. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/numberformatlist/count) { get; } |  |
-| [Item](../../aspose.pdf.annotations/numberformatlist/item) { get; set; } |  |
+| [Count](../../aspose.pdf.annotations/numberformatlist/count) { get; } | Count if items in the list. |
+| [Item](../../aspose.pdf.annotations/numberformatlist/item) { get; set; } | Gets or sets number format in list by its index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/numberformatlist/add)(NumberFormat) |  |
-| [Insert](../../aspose.pdf.annotations/numberformatlist/insert)(int, NumberFormat) |  |
-| [RemoveAt](../../aspose.pdf.annotations/numberformatlist/removeat)(int) |  |
+| [Add](../../aspose.pdf.annotations/numberformatlist/add)(NumberFormat) | Adds number format to list. |
+| [Insert](../../aspose.pdf.annotations/numberformatlist/insert)(int, NumberFormat) | Inserts number format into list. |
+| [RemoveAt](../../aspose.pdf.annotations/numberformatlist/removeat)(int) | Removes number format from list. |
 
 ### See Also
 

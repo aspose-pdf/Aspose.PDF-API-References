@@ -1,16 +1,23 @@
 ---
 title: FloatingBox
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the FloatingBoxaspose.pdf/floatingbox class with specified width and height.
 type: docs
 weight: 10
 url: /net/aspose.pdf/floatingbox/floatingbox/
 ---
 ## FloatingBox(float, float) {#constructor_1}
 
+Initializes a new instance of the [`FloatingBox`](../../floatingbox) class with specified width and height.
+
 ```csharp
 public FloatingBox(float width, float height)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | Single | The width of the box. |
+| height | Single | The height of the box. |
 
 ### See Also
 
@@ -22,7 +29,7 @@ public FloatingBox(float width, float height)
 
 ## FloatingBox() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`FloatingBox`](../../floatingbox) class.
 
 ```csharp
 public FloatingBox()

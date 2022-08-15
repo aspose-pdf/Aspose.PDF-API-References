@@ -1,12 +1,14 @@
 ---
 title: EOFill
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing f operator fill path using even-odd rule.
 type: docs
 weight: 5050
 url: /net/aspose.pdf.operators/eofill/
 ---
 ## EOFill class
+
+Class representing f* operator (fill path using even-odd rule).
 
 ```csharp
 public class EOFill : Operator
@@ -16,20 +18,20 @@ public class EOFill : Operator
 
 | Name | Description |
 | --- | --- |
-| [EOFill](eofill)() | The default constructor. |
+| [EOFill](eofill)() | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eofill/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/eofill/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

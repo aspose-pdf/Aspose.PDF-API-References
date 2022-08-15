@@ -1,12 +1,14 @@
 ---
 title: SetMiterLimit
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing M operator set miter limit.
 type: docs
 weight: 5490
 url: /net/aspose.pdf.operators/setmiterlimit/
 ---
 ## SetMiterLimit class
+
+Class representing M operator (set miter limit).
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -16,21 +18,21 @@ public class SetMiterLimit : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetMiterLimit](setmiterlimit)(double) |  |
+| [SetMiterLimit](setmiterlimit)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit) { get; set; } | Gets or sets the miter limit. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

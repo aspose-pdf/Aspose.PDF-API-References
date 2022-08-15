@@ -1,15 +1,31 @@
 ---
 title: MovePosition
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Moves the origin from 0 0 to the point that appointted. The origin is left-bottom and the unit is point1 inch  72 points.
 type: docs
 weight: 170
 url: /net/aspose.pdf.facades/pdfpageeditor/moveposition/
 ---
 ## PdfPageEditor.MovePosition method
 
+Moves the origin from (0, 0) to the point that appointted. The origin is left-bottom and the unit is point(1 inch = 72 points).
+
 ```csharp
 public void MovePosition(float moveX, float moveY)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| moveX | Single | X-coordinate. |
+| moveY | Single | Y-coordinate. |
+
+### Examples
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("input.pdf");
+editor.MovePosition(-100, 60);
+editor.Save("moved.pdf");
 ```
 
 ### See Also

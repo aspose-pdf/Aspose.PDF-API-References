@@ -1,12 +1,14 @@
 ---
 title: TextAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Alignment of the text inside the stamp.
 type: docs
 weight: 70
 url: /net/aspose.pdf/textstamp/textalignment/
 ---
 ## TextStamp.TextAlignment property
+
+Alignment of the text inside the stamp.
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }

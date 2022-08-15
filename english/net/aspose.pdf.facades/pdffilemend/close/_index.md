@@ -1,12 +1,14 @@
 ---
 title: Close
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Closes PdfFileMend object.
 type: docs
 weight: 70
 url: /net/aspose.pdf.facades/pdffilemend/close/
 ---
 ## PdfFileMend.Close method
+
+Closes PdfFileMend object.
 
 ```csharp
 public override void Close()

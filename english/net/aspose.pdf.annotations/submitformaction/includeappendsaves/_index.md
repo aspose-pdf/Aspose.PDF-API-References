@@ -1,12 +1,14 @@
 ---
 title: IncludeAppendSaves
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If set the submitted FDF file shall include the contents of all incremental updates.
 type: docs
 weight: 120
 url: /net/aspose.pdf.annotations/submitformaction/includeappendsaves/
 ---
 ## SubmitFormAction.IncludeAppendSaves field
+
+If set, the submitted FDF file shall include the contents of all incremental updates.
 
 ```csharp
 public const int IncludeAppendSaves;

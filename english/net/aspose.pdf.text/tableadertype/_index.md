@@ -1,12 +1,14 @@
 ---
 title: TabLeaderType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumerates the tab leader types.
 type: docs
 weight: 6870
 url: /net/aspose.pdf.text/tableadertype/
 ---
 ## TabLeaderType enumeration
+
+Enumerates the tab leader types.
 
 ```csharp
 public enum TabLeaderType
@@ -16,10 +18,10 @@ public enum TabLeaderType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Solid | `0` |  |
-| Dash | `1` |  |
-| Dot | `2` |  |
-| None | `3` |  |
+| Solid | `0` | Solid tab leader. |
+| Dash | `1` | Dash tab leader. |
+| Dot | `2` | Dot tab leader. |
+| None | `3` | No tab leader. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: YellowGreen
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF9ACD32.
 type: docs
 weight: 1420
 url: /net/aspose.pdf/color/yellowgreen/
 ---
 ## Color.YellowGreen property
 
+Gets a system-defined color that has an ARGB value of #FF9ACD32.
+
 ```csharp
 public static Color YellowGreen { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

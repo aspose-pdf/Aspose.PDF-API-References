@@ -1,12 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets value of the field.
 type: docs
 weight: 150
 url: /net/aspose.pdf.forms/field/value/
 ---
 ## Field.Value property
+
+Gets or sets value of the field.
 
 ```csharp
 public virtual string Value { get; set; }

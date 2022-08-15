@@ -1,12 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Disposes the instance.
 type: docs
 weight: 20
 url: /net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
 ## TeXFileSystemInputDirectory.Dispose method
+
+Disposes the instance.
 
 ```csharp
 public virtual void Dispose()

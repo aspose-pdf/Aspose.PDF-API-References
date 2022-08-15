@@ -1,12 +1,14 @@
 ---
 title: PdfFormat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets PDF format
 type: docs
 weight: 460
 url: /net/aspose.pdf/document/pdfformat/
 ---
 ## Document.PdfFormat property
+
+Gets PDF format
 
 ```csharp
 public PdfFormat PdfFormat { get; }

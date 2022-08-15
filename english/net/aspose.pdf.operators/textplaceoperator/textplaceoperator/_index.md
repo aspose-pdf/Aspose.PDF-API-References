@@ -1,14 +1,14 @@
 ---
 title: TextPlaceOperator
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes TextPlaceOperator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
 ---
 ## TextPlaceOperator() {#constructor}
 
-The default constructor.
+Initializes TextPlaceOperator.
 
 ```csharp
 public TextPlaceOperator()
@@ -24,9 +24,15 @@ public TextPlaceOperator()
 
 ## TextPlaceOperator(TextProperties) {#constructor_1}
 
+Initializes TextPlaceOperator which accepts TextProperties.
+
 ```csharp
 public TextPlaceOperator(TextProperties textProperties)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textProperties | TextProperties | Text properties. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Form
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets Acro Form of the document.
 type: docs
 weight: 200
 url: /net/aspose.pdf/document/form/
 ---
 ## Document.Form property
+
+Gets Acro Form of the document.
 
 ```csharp
 public Form Form { get; }

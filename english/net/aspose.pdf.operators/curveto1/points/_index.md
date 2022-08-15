@@ -1,12 +1,14 @@
 ---
 title: Points
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Points of the curve.
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/curveto1/points/
 ---
 ## CurveTo1.Points property
+
+Points of the curve.
 
 ```csharp
 public Point[] Points { get; }

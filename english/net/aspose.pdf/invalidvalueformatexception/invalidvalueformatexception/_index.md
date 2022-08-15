@@ -1,14 +1,14 @@
 ---
 title: InvalidValueFormatException
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the InvalidValueFormatExceptionaspose.pdf/invalidvalueformatexception class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`InvalidValueFormatException`](../../invalidvalueformatexception) class.
 
 ```csharp
 public InvalidValueFormatException()
@@ -24,9 +24,15 @@ public InvalidValueFormatException()
 
 ## InvalidValueFormatException(string) {#constructor_1}
 
+Constructor.
+
 ```csharp
 public InvalidValueFormatException(string message)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | Exception message. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Element
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents a base class for element in logical structure.
 type: docs
 weight: 4100
 url: /net/aspose.pdf.logicalstructure/element/
 ---
 ## Element class
+
+Represents a base class for element in logical structure.
 
 ```csharp
 public abstract class Element
@@ -16,16 +18,16 @@ public abstract class Element
 
 | Name | Description |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } |  |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } |  |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Gets children collection of Element objects. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Get parent element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) |  |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) |  |
-| override [ToString](../../aspose.pdf.logicalstructure/element/tostring)() |  |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | Append Element to collection of children. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Find Elements of a given type |
+| override [ToString](../../aspose.pdf.logicalstructure/element/tostring)() | Returns a string that represents the current object. |
 
 ### See Also
 

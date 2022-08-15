@@ -1,16 +1,22 @@
 ---
 title: SystemFontsSubstitution
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of SystemFontsSubstitutionaspose.pdf.text/systemfontssubstitution class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
 ---
 ## SystemFontsSubstitution constructor
 
+Initializes a new instance of [`SystemFontsSubstitution`](../../systemfontssubstitution) class.
+
 ```csharp
 public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontCategories | SubstitutionFontCategories | Target font categories to substitute with system fonts |
 
 ### See Also
 

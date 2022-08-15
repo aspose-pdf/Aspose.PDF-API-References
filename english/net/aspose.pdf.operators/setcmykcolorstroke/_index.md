@@ -1,12 +1,14 @@
 ---
 title: SetCMYKColorStroke
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing K operator set CMYK color for stroking operations.
 type: docs
 weight: 5300
 url: /net/aspose.pdf.operators/setcmykcolorstroke/
 ---
 ## SetCMYKColorStroke class
+
+Class representing K operator (set CMYK color for stroking operations).
 
 ```csharp
 public class SetCMYKColorStroke : SetColorOperator
@@ -16,21 +18,21 @@ public class SetCMYKColorStroke : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetCMYKColorStroke](setcmykcolorstroke)(double, double, double, double) |  |
+| [SetCMYKColorStroke](setcmykcolorstroke)(double, double, double, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcmykcolorstroke/accept)(IOperatorSelector) |  |
-| override [getColor](../../aspose.pdf.operators/setcmykcolorstroke/getcolor)() |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setcmykcolorstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [getColor](../../aspose.pdf.operators/setcmykcolorstroke/getcolor)() | Returns the RGB color |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

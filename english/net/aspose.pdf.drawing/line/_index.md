@@ -1,12 +1,14 @@
 ---
 title: Line
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents line.
 type: docs
 weight: 1960
 url: /net/aspose.pdf.drawing/line/
 ---
 ## Line class
+
+Represents line.
 
 ```csharp
 public sealed class Line : Shape
@@ -16,15 +18,15 @@ public sealed class Line : Shape
 
 | Name | Description |
 | --- | --- |
-| [Line](line)(float[]) |  |
+| [Line](line)(float[]) | Initializes a new instance of the [`Line`](../line) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } |  |
-| [PositionArray](../../aspose.pdf.drawing/line/positionarray) { get; set; } |  |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } |  |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo) object that indicates the graph info,such as color, line width,etc. |
+| [PositionArray](../../aspose.pdf.drawing/line/positionarray) { get; set; } | Gets or sets a [`PositionArray`](./positionarray) object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Gets or sets a text for shape |
 
 ### See Also
 

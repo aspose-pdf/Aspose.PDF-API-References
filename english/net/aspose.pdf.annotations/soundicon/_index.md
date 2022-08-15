@@ -1,12 +1,14 @@
 ---
 title: SoundIcon
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumerates the icons to be used in displaying the annotation.
 type: docs
 weight: 1060
 url: /net/aspose.pdf.annotations/soundicon/
 ---
 ## SoundIcon enumeration
+
+Enumerates the icons to be used in displaying the annotation.
 
 ```csharp
 public enum SoundIcon
@@ -16,8 +18,8 @@ public enum SoundIcon
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Speaker | `0` |  |
-| Mic | `1` |  |
+| Speaker | `0` | Speaker icon. |
+| Mic | `1` | Microphone icon. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: ColumnWidths
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point but cm inch and percentage of available width are also supported. For example120 2.5cm 1.5inch
 type: docs
 weight: 40
 url: /net/aspose.pdf/columninfo/columnwidths/
 ---
 ## ColumnInfo.ColumnWidths property
+
+Gets or sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch"
 
 ```csharp
 public string ColumnWidths { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: Start
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets starting circle center point.
 type: docs
 weight: 50
 url: /net/aspose.pdf.drawing/gradientradialshading/start/
 ---
 ## GradientRadialShading.Start property
+
+Gets or sets starting circle center point.
 
 ```csharp
 public Point Start { get; set; }

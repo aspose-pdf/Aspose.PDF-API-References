@@ -1,16 +1,22 @@
 ---
 title: ViewName
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the name of the view.
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/pdf3dview/viewname/
 ---
 ## PDF3DView.ViewName property
 
+Gets or sets the name of the view.
+
 ```csharp
 public string ViewName { get; set; }
 ```
+
+### Property Value
+
+The name of the view.
 
 ### See Also
 

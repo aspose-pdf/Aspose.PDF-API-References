@@ -1,12 +1,14 @@
 ---
 title: PdfFormat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: This class represents an pdf format.
 type: docs
 weight: 5970
 url: /net/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enumeration
+
+This class represents an pdf format.
 
 ```csharp
 public enum PdfFormat
@@ -37,7 +39,7 @@ public enum PdfFormat
 | PDF_X_1A_2001 | `18` |  |
 | PDF_X_1A | `19` |  |
 | PDF_X_3 | `20` |  |
-| ZUGFeRD | `21` |  |
+| ZUGFeRD | `21` | ZUGFeRD format |
 
 ### See Also
 

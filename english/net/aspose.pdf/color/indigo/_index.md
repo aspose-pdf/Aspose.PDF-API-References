@@ -1,16 +1,22 @@
 ---
 title: Indigo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF4B0082.
 type: docs
 weight: 580
 url: /net/aspose.pdf/color/indigo/
 ---
 ## Color.Indigo property
 
+Gets a system-defined color that has an ARGB value of #FF4B0082.
+
 ```csharp
 public static Color Indigo { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

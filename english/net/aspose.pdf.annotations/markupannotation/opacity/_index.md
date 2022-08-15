@@ -1,12 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the constant opacity value to be used in painting the annotation.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/markupannotation/opacity/
 ---
 ## MarkupAnnotation.Opacity property
+
+Gets or sets the constant opacity value to be used in painting the annotation.
 
 ```csharp
 public double Opacity { get; set; }

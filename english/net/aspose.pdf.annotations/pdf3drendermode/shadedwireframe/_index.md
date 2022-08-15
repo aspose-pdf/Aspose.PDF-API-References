@@ -1,12 +1,14 @@
 ---
 title: ShadedWireframe
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The ShadedWireFrame render mode.
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/pdf3drendermode/shadedwireframe/
 ---
 ## PDF3DRenderMode.ShadedWireframe field
+
+The "ShadedWireFrame" render mode.
 
 ```csharp
 public static PDF3DRenderMode ShadedWireframe;

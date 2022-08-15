@@ -1,12 +1,14 @@
 ---
 title: CheckBoxStyleCircle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines a circle check box style.
 type: docs
 weight: 400
 url: /net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/
 ---
 ## FormFieldFacade.CheckBoxStyleCircle field
+
+Defines a circle check box style.
 
 ```csharp
 public const int CheckBoxStyleCircle;

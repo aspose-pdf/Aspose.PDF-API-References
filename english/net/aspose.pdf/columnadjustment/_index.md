@@ -1,12 +1,14 @@
 ---
 title: ColumnAdjustment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumerates column adjustment types.
 type: docs
 weight: 1470
 url: /net/aspose.pdf/columnadjustment/
 ---
 ## ColumnAdjustment enumeration
+
+Enumerates column adjustment types.
 
 ```csharp
 public enum ColumnAdjustment
@@ -16,9 +18,9 @@ public enum ColumnAdjustment
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Customized | `0` |  |
-| AutoFitToContent | `1` |  |
-| AutoFitToWindow | `2` |  |
+| Customized | `0` | Customized. |
+| AutoFitToContent | `1` | Auto fit to content. |
+| AutoFitToWindow | `2` | Auto fit to window. |
 
 ### See Also
 

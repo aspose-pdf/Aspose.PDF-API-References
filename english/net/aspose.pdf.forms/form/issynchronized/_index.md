@@ -1,12 +1,14 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns true if object is thread-safe.
 type: docs
 weight: 100
 url: /net/aspose.pdf.forms/form/issynchronized/
 ---
 ## Form.IsSynchronized property
+
+Returns true if object is thread-safe.
 
 ```csharp
 public bool IsSynchronized { get; }

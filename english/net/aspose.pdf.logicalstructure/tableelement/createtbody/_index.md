@@ -1,16 +1,22 @@
 ---
 title: CreateTBody
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates TableTHeadElementaspose.pdf.logicalstructure/tabletheadelement and added it to current table.
 type: docs
 weight: 190
 url: /net/aspose.pdf.logicalstructure/tableelement/createtbody/
 ---
 ## TableElement.CreateTBody method
 
+Creates [`TableTHeadElement`](../../tabletheadelement) and added it to current table.
+
 ```csharp
 public TableTBodyElement CreateTBody()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

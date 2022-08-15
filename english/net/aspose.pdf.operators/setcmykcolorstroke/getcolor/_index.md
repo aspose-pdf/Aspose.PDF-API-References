@@ -1,16 +1,22 @@
 ---
 title: getColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns the RGB color
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/setcmykcolorstroke/getcolor/
 ---
 ## SetCMYKColorStroke.getColor method
 
+Returns the RGB color
+
 ```csharp
 public override Color getColor()
 ```
+
+### Return Value
+
+Color specified by operator.
 
 ### See Also
 

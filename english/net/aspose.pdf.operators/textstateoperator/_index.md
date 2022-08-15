@@ -1,12 +1,14 @@
 ---
 title: TextStateOperator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Abstract base class for operators which changes current text state Tc Tf TL etc.
 type: docs
 weight: 5640
 url: /net/aspose.pdf.operators/textstateoperator/
 ---
 ## TextStateOperator class
+
+Abstract base class for operators which changes current text state (Tc, Tf, TL, etc).
 
 ```csharp
 public class TextStateOperator : TextOperator
@@ -16,21 +18,21 @@ public class TextStateOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextStateOperator](textstateoperator#constructor)() | The default constructor. |
-| [TextStateOperator](textstateoperator#constructor_1)(TextProperties) |  |
+| [TextStateOperator](textstateoperator#constructor)() | Initializes TextStateOperator. |
+| [TextStateOperator](textstateoperator#constructor_1)(TextProperties) | Initializes TextStateoperator which allows to pass TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

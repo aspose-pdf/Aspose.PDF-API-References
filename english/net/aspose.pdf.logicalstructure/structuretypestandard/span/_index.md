@@ -1,12 +1,14 @@
 ---
 title: Span
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Span A generic inline portion of text having no particular inherent characteristics. It can be used for example to delimit a range of text with a given set of styling attributes.
 type: docs
 weight: 370
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/span/
 ---
 ## StructureTypeStandard.Span field
+
+(Span) A generic inline portion of text having no particular inherent characteristics. It can be used, for example, to delimit a range of text with a given set of styling attributes.
 
 ```csharp
 public static readonly StructureTypeStandard Span;

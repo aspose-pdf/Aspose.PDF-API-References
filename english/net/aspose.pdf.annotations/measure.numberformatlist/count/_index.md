@@ -1,12 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Count if items in the list.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/measure.numberformatlist/count/
 ---
 ## Measure.NumberFormatList.Count property
+
+Count if items in the list.
 
 ```csharp
 public int Count { get; }

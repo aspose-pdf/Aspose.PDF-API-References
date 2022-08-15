@@ -1,12 +1,14 @@
 ---
 title: IsAutoSequence
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the heading should be numered automatically.
 type: docs
 weight: 30
 url: /net/aspose.pdf/heading/isautosequence/
 ---
 ## Heading.IsAutoSequence property
+
+Gets the heading should be numered automatically.
 
 ```csharp
 public bool IsAutoSequence { get; set; }

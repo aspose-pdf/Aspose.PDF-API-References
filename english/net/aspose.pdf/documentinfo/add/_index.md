@@ -1,16 +1,23 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Adds an element with the specified key and value into the collection.
 type: docs
 weight: 140
 url: /net/aspose.pdf/documentinfo/add/
 ---
 ## DocumentInfo.Add method
 
+Adds an element with the specified key and value into the collection.
+
 ```csharp
 public void Add(string key, string value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | String | The key of the element to add. |
+| value | String | The value of the element to add. The value can be null. |
 
 ### See Also
 

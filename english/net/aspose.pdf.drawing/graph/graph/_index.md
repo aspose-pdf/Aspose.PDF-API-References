@@ -1,16 +1,23 @@
 ---
 title: Graph
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the Graphaspose.pdf.drawing/graph class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.drawing/graph/graph/
 ---
 ## Graph constructor
 
+Initializes a new instance of the [`Graph`](../../graph) class.
+
 ```csharp
 public Graph(float width, float height)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | Single | The width of the graph. |
+| height | Single | The height of the graph. |
 
 ### See Also
 

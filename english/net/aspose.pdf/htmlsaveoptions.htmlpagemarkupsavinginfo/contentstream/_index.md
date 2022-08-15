@@ -1,12 +1,14 @@
 ---
 title: ContentStream
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Set by converter. Represents saved HTML as stream
 type: docs
 weight: 10
 url: /net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream/
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream field
+
+Set by converter. Represents saved HTML as stream
 
 ```csharp
 public Stream ContentStream;

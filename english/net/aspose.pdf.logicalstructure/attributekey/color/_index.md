@@ -1,12 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Color attribute Layout attribute owner.
 type: docs
 weight: 90
 url: /net/aspose.pdf.logicalstructure/attributekey/color/
 ---
 ## AttributeKey.Color field
+
+Color attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey Color;

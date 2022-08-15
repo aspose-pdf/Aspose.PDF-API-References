@@ -1,16 +1,26 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns XForm by index.
 type: docs
 weight: 40
 url: /net/aspose.pdf/xformcollection/item/
 ---
 ## XFormCollection indexer (1 of 2)
 
+Returns XForm by index.
+
 ```csharp
 public XForm this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of XFormCollection. XForms numbering is started from 1 |
+
+### Return Value
+
+Retreived XForm
 
 ### See Also
 
@@ -23,9 +33,15 @@ public XForm this[int index] { get; }
 
 ## XFormCollection indexer (2 of 2)
 
+Returns XForm by its name. Exception is thrown if XForm with specified name is not found.
+
 ```csharp
 public XForm this[string name] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| name | Name of XForm |
 
 ### See Also
 

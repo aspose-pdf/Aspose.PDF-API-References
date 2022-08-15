@@ -1,16 +1,22 @@
 ---
 title: SetColorSpace
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
 ## SetColorSpace constructor
 
+Initializes operator.
+
 ```csharp
 public SetColorSpace(string name)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | String | Color space name. |
 
 ### See Also
 

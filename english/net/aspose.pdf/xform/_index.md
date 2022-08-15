@@ -1,12 +1,14 @@
 ---
 title: XForm
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class represent XForm
 type: docs
 weight: 7330
 url: /net/aspose.pdf/xform/
 ---
 ## XForm class
+
+Class represent XForm
 
 ```csharp
 public sealed class XForm
@@ -16,22 +18,22 @@ public sealed class XForm
 
 | Name | Description |
 | --- | --- |
-| [BBox](../../aspose.pdf/xform/bbox) { get; set; } |  |
-| [Contents](../../aspose.pdf/xform/contents) { get; } |  |
-| [Matrix](../../aspose.pdf/xform/matrix) { get; set; } |  |
-| [Name](../../aspose.pdf/xform/name) { get; set; } |  |
-| [Opi](../../aspose.pdf/xform/opi) { get; } |  |
-| [Rectangle](../../aspose.pdf/xform/rectangle) { get; } |  |
-| [Resources](../../aspose.pdf/xform/resources) { get; } |  |
+| [BBox](../../aspose.pdf/xform/bbox) { get; set; } | Gets or sets form bounding box. |
+| [Contents](../../aspose.pdf/xform/contents) { get; } | Gets operators of the form. |
+| [Matrix](../../aspose.pdf/xform/matrix) { get; set; } | Gets or sets matrix of the form. |
+| [Name](../../aspose.pdf/xform/name) { get; set; } | Gets or sets form name. Form name is name which used to reference form in XObejct ductionary in page resources. |
+| [Opi](../../aspose.pdf/xform/opi) { get; } | Gets The Open Prepress Interface (OPI). |
+| [Rectangle](../../aspose.pdf/xform/rectangle) { get; } | Gets or sets rectangel of the form. |
+| [Resources](../../aspose.pdf/xform/resources) { get; } | Gets Form XObject resources. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateNewForm](../../aspose.pdf/xform/createnewform)(Page, Document) |  |
-| [FreeMemory](../../aspose.pdf/xform/freememory)() |  |
-| [GetResources](../../aspose.pdf/xform/getresources#getresources)() |  |
-| [GetResources](../../aspose.pdf/xform/getresources#getresources_1)(bool) |  |
+| static [CreateNewForm](../../aspose.pdf/xform/createnewform)(Page, Document) | Creates XForm which duplicates contents of the page. |
+| [FreeMemory](../../aspose.pdf/xform/freememory)() | Clears cached data |
+| [GetResources](../../aspose.pdf/xform/getresources#getresources)() | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
+| [GetResources](../../aspose.pdf/xform/getresources#getresources_1)(bool) | Returns resources of Form X-Object |
 
 ### See Also
 

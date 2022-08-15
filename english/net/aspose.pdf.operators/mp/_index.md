@@ -1,12 +1,14 @@
 ---
 title: MP
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing MP operator define marked-content point.
 type: docs
 weight: 5180
 url: /net/aspose.pdf.operators/mp/
 ---
 ## MP class
+
+Class representing MP operator (define marked-content point).
 
 ```csharp
 public class MP : Operator
@@ -16,21 +18,21 @@ public class MP : Operator
 
 | Name | Description |
 | --- | --- |
-| [MP](mp)(string) |  |
+| [MP](mp)(string) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Tag](../../aspose.pdf.operators/mp/tag) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Tag](../../aspose.pdf.operators/mp/tag) { get; set; } | Gets or sets marked content tag |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/mp/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/mp/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: EmptyValueException
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the EmptyValueExceptionaspose.pdf/emptyvalueexception class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/emptyvalueexception/emptyvalueexception/
 ---
 ## EmptyValueException() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`EmptyValueException`](../../emptyvalueexception) class.
 
 ```csharp
 public EmptyValueException()
@@ -24,9 +24,15 @@ public EmptyValueException()
 
 ## EmptyValueException(string) {#constructor_1}
 
+Constructor.
+
 ```csharp
 public EmptyValueException(string message)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | Exception message. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets enumerator object of the dictionary.
 type: docs
 weight: 160
 url: /net/aspose.pdf.facades/pdfxmpmetadata/getenumerator/
 ---
 ## PdfXmpMetadata.GetEnumerator method
 
+Gets enumerator object of the dictionary.
+
 ```csharp
 public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 ```
+
+### Return Value
+
+The enumerator object.
 
 ### See Also
 

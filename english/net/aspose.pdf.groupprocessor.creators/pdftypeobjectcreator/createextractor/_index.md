@@ -1,17 +1,29 @@
 ---
 title: CreateExtractor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates IPdfTypeExtractor object.
 type: docs
 weight: 20
 url: /net/aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/createextractor/
 ---
 ## CreateExtractor(string, int, bool) {#createextractor_2}
 
+Creates IPdfTypeExtractor object.
+
 ```csharp
 public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, int bufferSize, 
     bool allowAsyncInitialization)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfDocumentPath | String | Path to a pdf document. |
+| bufferSize | Int32 | Maximum size of content in bytes that can be kept in memory. |
+| allowAsyncInitialization | Boolean | Allows async initialization of resources. |
+
+### Return Value
+
+object of IPdfTypeExtractor
 
 ### See Also
 
@@ -24,10 +36,22 @@ public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, int bufferSize,
 
 ## CreateExtractor(Stream, int, bool) {#createextractor}
 
+Creates IPdfTypeExtractor object.
+
 ```csharp
 public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, int bufferSize, 
     bool allowAsyncInitialization)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfDocumentStream | Stream | Stream containing pdf document. |
+| bufferSize | Int32 | Maximum size of content in bytes that can be kept in memory. |
+| allowAsyncInitialization | Boolean | Allows async initialization of resources. |
+
+### Return Value
+
+object of IPdfTypeExtractor
 
 ### See Also
 
@@ -40,10 +64,23 @@ public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, int bufferSiz
 
 ## CreateExtractor(string, string, int, bool) {#createextractor_3}
 
+Creates IPdfTypeExtractor object.
+
 ```csharp
 public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, string password, int bufferSize, 
     bool allowAsyncInitialization)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfDocumentPath | String | Path to a pdf document. |
+| password | String | Document password. |
+| bufferSize | Int32 | Maximum size of content in bytes that can be kept in memory. |
+| allowAsyncInitialization | Boolean | Allows async initialization of resources. |
+
+### Return Value
+
+object of IPdfTypeExtractor
 
 ### See Also
 
@@ -56,10 +93,23 @@ public IPdfTypeExtractor CreateExtractor(string pdfDocumentPath, string password
 
 ## CreateExtractor(Stream, string, int, bool) {#createextractor_1}
 
+Creates IPdfTypeExtractor object.
+
 ```csharp
 public IPdfTypeExtractor CreateExtractor(Stream pdfDocumentStream, string password, int bufferSize, 
     bool allowAsyncInitialization)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfDocumentStream | Stream | Stream containing pdf document. |
+| password | String | Document password. |
+| bufferSize | Int32 | Maximum size of content in bytes that can be kept in memory. |
+| allowAsyncInitialization | Boolean | Allows async initialization of resources. |
+
+### Return Value
+
+object of IPdfTypeExtractor
 
 ### See Also
 

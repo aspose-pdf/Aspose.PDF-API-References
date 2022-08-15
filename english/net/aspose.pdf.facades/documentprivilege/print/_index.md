@@ -1,12 +1,14 @@
 ---
 title: Print
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Allows printing file.
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/documentprivilege/print/
 ---
 ## DocumentPrivilege.Print property
+
+Allows printing file.
 
 ```csharp
 public static DocumentPrivilege Print { get; }

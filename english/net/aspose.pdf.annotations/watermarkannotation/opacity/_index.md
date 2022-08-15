@@ -1,12 +1,14 @@
 ---
 title: Opacity
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets opacity of the annotation.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/watermarkannotation/opacity/
 ---
 ## WatermarkAnnotation.Opacity property
+
+Gets or sets opacity of the annotation.
 
 ```csharp
 public double Opacity { get; set; }

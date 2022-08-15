@@ -1,12 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a Paragraphsaspose.pdf/floatingbox/paragraphs collection that indicates all paragraphs in the cell.
 type: docs
 weight: 100
 url: /net/aspose.pdf/floatingbox/paragraphs/
 ---
 ## FloatingBox.Paragraphs property
+
+Gets or sets a `Paragraphs` collection that indicates all paragraphs in the cell.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: CalculatedFields
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Allows to set order of field calculation.
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/form/calculatedfields/
 ---
 ## Form.CalculatedFields property
+
+Allows to set order of field calculation.
 
 ```csharp
 public IEnumerable<Field> CalculatedFields { set; }

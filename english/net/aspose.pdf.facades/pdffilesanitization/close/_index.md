@@ -1,12 +1,14 @@
 ---
 title: Close
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Closes the facade.
 type: docs
 weight: 70
 url: /net/aspose.pdf.facades/pdffilesanitization/close/
 ---
 ## PdfFileSanitization.Close method
+
+Closes the facade.
 
 ```csharp
 public override void Close()

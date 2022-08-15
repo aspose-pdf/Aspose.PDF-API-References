@@ -1,12 +1,14 @@
 ---
 title: GRestore
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing Q operator restore graphics state.
 type: docs
 weight: 5120
 url: /net/aspose.pdf.operators/grestore/
 ---
 ## GRestore class
+
+Class representing Q operator (restore graphics state).
 
 ```csharp
 public class GRestore : Operator
@@ -16,20 +18,20 @@ public class GRestore : Operator
 
 | Name | Description |
 | --- | --- |
-| [GRestore](grestore)() | The default constructor. |
+| [GRestore](grestore)() | Initializes Q operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/grestore/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/grestore/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/grestore/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/grestore/tostring)() | Returns text of the operator. |
 
 ### See Also
 

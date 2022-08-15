@@ -1,16 +1,22 @@
 ---
 title: SquareAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor for using with Generator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/squareannotation/squareannotation/
 ---
 ## SquareAnnotation(Document) {#constructor}
 
+Constructor for using with Generator.
+
 ```csharp
 public SquareAnnotation(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Documennt where annotation will be created. |
 
 ### See Also
 
@@ -23,9 +29,16 @@ public SquareAnnotation(Document document)
 
 ## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
+Creates new Square annotation on the specified page.
+
 ```csharp
 public SquareAnnotation(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The document's page where annotation should be created. |
+| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: GSave
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing q operator save graphics state.
 type: docs
 weight: 5140
 url: /net/aspose.pdf.operators/gsave/
 ---
 ## GSave class
+
+Class representing q operator (save graphics state).
 
 ```csharp
 public class GSave : Operator
@@ -16,20 +18,20 @@ public class GSave : Operator
 
 | Name | Description |
 | --- | --- |
-| [GSave](gsave)() | The default constructor. |
+| [GSave](gsave)() | Initializes q operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/gsave/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/gsave/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/gsave/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/gsave/tostring)() | Returns text of the operator. |
 
 ### See Also
 

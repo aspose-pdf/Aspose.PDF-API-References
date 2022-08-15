@@ -1,12 +1,14 @@
 ---
 title: ExclNonUserAnnots
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If set it shall include only those markup annotations whose T entry matches the name of the current user.
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/submitformaction/exclnonuserannots/
 ---
 ## SubmitFormAction.ExclNonUserAnnots field
+
+If set, it shall include only those markup annotations whose T entry matches the name of the current user.
 
 ```csharp
 public const int ExclNonUserAnnots;

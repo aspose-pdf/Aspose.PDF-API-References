@@ -1,12 +1,14 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Save options for export to Pdf format
 type: docs
 weight: 6030
 url: /net/aspose.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
+
+Save options for export to Pdf format
 
 ```csharp
 public class PdfSaveOptions : SaveOptions
@@ -22,11 +24,11 @@ public class PdfSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } |  |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname) { get; set; } |  |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } |  |
-| [TempPath](../../aspose.pdf/pdfsaveoptions/temppath) { get; set; } |  |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } |  |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname) { get; set; } | Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that are not available in the document itself and on the device, API replaces this fonts with the default font(if font with [`DefaultFontName`](./defaultfontname) is found on device) |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format of data save. |
+| [TempPath](../../aspose.pdf/pdfsaveoptions/temppath) { get; set; } | Path for temporary files. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ### See Also
 

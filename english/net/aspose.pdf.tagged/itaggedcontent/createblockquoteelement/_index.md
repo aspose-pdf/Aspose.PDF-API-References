@@ -1,16 +1,22 @@
 ---
 title: CreateBlockQuoteElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates BlockQuoteElementaspose.pdf.logicalstructure/blockquoteelement.
 type: docs
 weight: 70
 url: /net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/
 ---
 ## ITaggedContent.CreateBlockQuoteElement method
 
+Creates [`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement).
+
 ```csharp
 public BlockQuoteElement CreateBlockQuoteElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

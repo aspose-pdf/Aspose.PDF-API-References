@@ -1,12 +1,14 @@
 ---
 title: Bits
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the number of bits per sample value per channel.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/sounddata/bits/
 ---
 ## SoundData.Bits property
+
+Gets or sets the number of bits per sample value per channel.
 
 ```csharp
 public int Bits { get; set; }

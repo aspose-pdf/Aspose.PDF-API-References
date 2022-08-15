@@ -1,12 +1,14 @@
 ---
 title: TransparentWareFrame
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The TransparentWareFrame render mode.
 type: docs
 weight: 130
 url: /net/aspose.pdf.annotations/pdf3drendermode/transparentwareframe/
 ---
 ## PDF3DRenderMode.TransparentWareFrame field
+
+The "TransparentWareFrame" render mode.
 
 ```csharp
 public static PDF3DRenderMode TransparentWareFrame;

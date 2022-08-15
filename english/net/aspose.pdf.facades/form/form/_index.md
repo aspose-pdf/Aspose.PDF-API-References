@@ -1,14 +1,19 @@
 ---
 title: Form
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Construtcor of Form without parameters.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/form/form/
 ---
 ## Form() {#constructor}
 
-The default constructor.
+Construtcor of Form without parameters.
+
+```csharp
+Form form = new Aspose.Pdf.Facades.Form();
+form.SrcFileName = "file.pdf";
+```
 
 ```csharp
 public Form()
@@ -24,8 +29,20 @@ public Form()
 
 ## Form(string) {#constructor_7}
 
+Constructor of Form.
+
 ```csharp
 public Form(string srcFileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFileName | String | Source file path. |
+
+### Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
 ```
 
 ### See Also
@@ -38,8 +55,20 @@ public Form(string srcFileName)
 
 ## Form(Stream) {#constructor_4}
 
+Constructor for form.
+
 ```csharp
 public Form(Stream srcStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | Stream | source stream. |
+
+### Examples
+
+```csharp
+Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Read));
 ```
 
 ### See Also
@@ -52,9 +81,15 @@ public Form(Stream srcStream)
 
 ## Form(Document) {#constructor_1}
 
+Initializes new [`Form`](../../form) object on base of the *document*.
+
 ```csharp
 public Form(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Pdf document. |
 
 ### See Also
 

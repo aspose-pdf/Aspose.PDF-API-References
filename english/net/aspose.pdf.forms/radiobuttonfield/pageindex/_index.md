@@ -1,12 +1,14 @@
 ---
 title: PageIndex
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets index of page which contains this RadioButton field.
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/radiobuttonfield/pageindex/
 ---
 ## RadioButtonField.PageIndex property
+
+Gets index of page which contains this RadioButton field.
 
 ```csharp
 public override int PageIndex { get; }

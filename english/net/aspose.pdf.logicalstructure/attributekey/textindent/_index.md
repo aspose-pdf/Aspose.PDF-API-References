@@ -1,12 +1,14 @@
 ---
 title: TextIndent
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: TextIndent attribute Layout attribute owner.
 type: docs
 weight: 380
 url: /net/aspose.pdf.logicalstructure/attributekey/textindent/
 ---
 ## AttributeKey.TextIndent field
+
+TextIndent attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey TextIndent;

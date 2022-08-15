@@ -1,12 +1,14 @@
 ---
 title: IDocumentPageTextExtractor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Interface for document page text extractor.
 type: docs
 weight: 3260
 url: /net/aspose.pdf.groupprocessor/idocumentpagetextextractor/
 ---
 ## IDocumentPageTextExtractor interface
+
+Interface for document page text extractor.
 
 ```csharp
 public interface IDocumentPageTextExtractor
@@ -16,13 +18,13 @@ public interface IDocumentPageTextExtractor
 
 | Name | Description |
 | --- | --- |
-| [PageCount](../../aspose.pdf.groupprocessor/idocumentpagetextextractor/pagecount) { get; } |  |
+| [PageCount](../../aspose.pdf.groupprocessor/idocumentpagetextextractor/pagecount) { get; } | Returns page count. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ExtractPageText](../../aspose.pdf.groupprocessor/idocumentpagetextextractor/extractpagetext)(int) |  |
+| [ExtractPageText](../../aspose.pdf.groupprocessor/idocumentpagetextextractor/extractpagetext)(int) | Extracted page text. |
 
 ### See Also
 

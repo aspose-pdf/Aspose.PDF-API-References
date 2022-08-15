@@ -1,12 +1,14 @@
 ---
 title: TextAlign_Justify
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Attribute TextAlign Justify - Aligned with both the start and end edges with internal spacing within each line expanded if necessary to achieve such alignment. The last or only line shall be aligned with the start edge only.
 type: docs
 weight: 570
 url: /net/aspose.pdf.logicalstructure/attributename/textalign_justify/
 ---
 ## AttributeName.TextAlign_Justify field
+
+Attribute TextAlign: Justify - Aligned with both the start and end edges, with internal spacing within each line expanded, if necessary, to achieve such alignment. The last (or only) line shall be aligned with the start edge only.
 
 ```csharp
 public static readonly AttributeName TextAlign_Justify;

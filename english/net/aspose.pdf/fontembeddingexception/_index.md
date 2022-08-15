@@ -1,12 +1,14 @@
 ---
 title: FontEmbeddingException
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The exception that is thrown when an attempt to embed font became failed
 type: docs
 weight: 2800
 url: /net/aspose.pdf/fontembeddingexception/
 ---
 ## FontEmbeddingException class
+
+The exception that is thrown when an attempt to embed font became failed
 
 ```csharp
 public sealed class FontEmbeddingException : ApplicationException
@@ -16,9 +18,9 @@ public sealed class FontEmbeddingException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingException](fontembeddingexception#constructor)(Exception) |  |
-| [FontEmbeddingException](fontembeddingexception#constructor_1)(string) |  |
-| [FontEmbeddingException](fontembeddingexception#constructor_2)(string, Exception) |  |
+| [FontEmbeddingException](fontembeddingexception#constructor)(Exception) | Initializes a new instance of the [`FontEmbeddingException`](../fontembeddingexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontEmbeddingException](fontembeddingexception#constructor_1)(string) | Initializes a new instance of the [`FontEmbeddingException`](../fontembeddingexception) class. |
+| [FontEmbeddingException](fontembeddingexception#constructor_2)(string, Exception) | Initializes a new instance of the [`FontEmbeddingException`](../fontembeddingexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: SetImage
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets image of the artifact.
 type: docs
 weight: 280
 url: /net/aspose.pdf/artifact/setimage/
 ---
 ## SetImage(Stream) {#setimage}
 
+Sets image of the artifact.
+
 ```csharp
 public void SetImage(Stream imageStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageStream | Stream | Stream which contains image data. |
 
 ### See Also
 
@@ -22,9 +28,15 @@ public void SetImage(Stream imageStream)
 
 ## SetImage(string) {#setimage_1}
 
+Sets image of the artifact.
+
 ```csharp
 public void SetImage(string imageName)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageName | String | Name of image file. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: LineHeight_Auto
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Attribute LineHeight Auto - Adjustment for the value of BaselineShift shall not be made.
 type: docs
 weight: 230
 url: /net/aspose.pdf.logicalstructure/attributename/lineheight_auto/
 ---
 ## AttributeName.LineHeight_Auto field
+
+Attribute LineHeight: Auto - Adjustment for the value of BaselineShift shall not be made.
 
 ```csharp
 public static readonly AttributeName LineHeight_Auto;

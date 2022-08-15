@@ -1,12 +1,14 @@
 ---
 title: AnnotationState
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The enumeration of states to which the original annotation can be set.
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/annotationstate/
 ---
 ## AnnotationState enumeration
+
+The enumeration of states to which the original annotation can be set.
 
 ```csharp
 public enum AnnotationState
@@ -16,14 +18,14 @@ public enum AnnotationState
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` |  |
-| Marked | `1` |  |
-| Unmarked | `2` |  |
-| Accepted | `3` |  |
-| Rejected | `4` |  |
-| Cancelled | `5` |  |
-| Completed | `6` |  |
-| None | `7` |  |
+| Undefined | `0` | Not defined state. |
+| Marked | `1` | The annotation has been marked by the user. |
+| Unmarked | `2` | The annotation has not been marked by the user. |
+| Accepted | `3` | The user agrees with the change. |
+| Rejected | `4` | The user disagrees with the change. |
+| Cancelled | `5` | The change has been cancelled. |
+| Completed | `6` | The change has been completed. |
+| None | `7` | The user has indicated nothing about the change. |
 
 ### See Also
 

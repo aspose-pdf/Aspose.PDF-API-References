@@ -1,12 +1,14 @@
 ---
 title: BorderWidthThin
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines a thin border width.
 type: docs
 weight: 370
 url: /net/aspose.pdf.facades/formfieldfacade/borderwidththin/
 ---
 ## FormFieldFacade.BorderWidthThin field
+
+Defines a thin border width.
 
 ```csharp
 public const float BorderWidthThin;

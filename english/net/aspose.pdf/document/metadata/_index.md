@@ -1,12 +1,14 @@
 ---
 title: Metadata
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Document metadata. A PDF document may include general information such as the documents title author and creation and modification dates. Such global information about the document as opposed to its content or structure is called metadata and is intended to assist in cataloguing and searching for documents in external databases.
 type: docs
 weight: 350
 url: /net/aspose.pdf/document/metadata/
 ---
 ## Document.Metadata property
+
+Document metadata. (A PDF document may include general information, such as the document's title, author, and creation and modification dates. Such global information about the document (as opposed to its content or structure) is called metadata and is intended to assist in cataloguing and searching for documents in external databases.)
 
 ```csharp
 public Metadata Metadata { get; }

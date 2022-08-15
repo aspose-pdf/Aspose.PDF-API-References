@@ -1,12 +1,14 @@
 ---
 title: Open
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a flag specifying whether the pop-up annotation should initially be displayed open.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/popupannotation/open/
 ---
 ## PopupAnnotation.Open property
+
+Gets or sets a flag specifying whether the pop-up annotation should initially be displayed open.
 
 ```csharp
 public bool Open { get; set; }

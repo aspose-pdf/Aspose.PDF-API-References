@@ -1,12 +1,14 @@
 ---
 title: Aw
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets word spacing.
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/
 ---
 ## SetSpacingMoveToNextLineShowText.Aw property
+
+Gets word spacing.
 
 ```csharp
 public double Aw { get; }

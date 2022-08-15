@@ -1,16 +1,26 @@
 ---
 title: Equals
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Check if rectangles are equal i.e. have same position and sizes.
 type: docs
 weight: 180
 url: /net/aspose.pdf/rectangle/equals/
 ---
 ## Rectangle.Equals method
 
+Check if rectangles are equal i.e. have same position and sizes.
+
 ```csharp
 public bool Equals(Rectangle other)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | Rectangle | Rectangle which will be compared. |
+
+### Return Value
+
+True if rectangles are eqals, false otherwise.
 
 ### See Also
 

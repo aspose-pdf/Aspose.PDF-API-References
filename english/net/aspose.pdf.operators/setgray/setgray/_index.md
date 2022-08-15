@@ -1,16 +1,22 @@
 ---
 title: SetGray
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setgray/setgray/
 ---
 ## SetGray constructor
 
+Initializes operator.
+
 ```csharp
 public SetGray(double gray)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gray | Double | The level of gray value. |
 
 ### See Also
 

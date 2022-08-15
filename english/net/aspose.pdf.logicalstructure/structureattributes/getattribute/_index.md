@@ -1,16 +1,26 @@
 ---
 title: GetAttribute
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets StructureAttribute by AttributeKey.
 type: docs
 weight: 20
 url: /net/aspose.pdf.logicalstructure/structureattributes/getattribute/
 ---
 ## StructureAttributes.GetAttribute method
 
+Gets StructureAttribute by AttributeKey.
+
 ```csharp
 public StructureAttribute GetAttribute(AttributeKey key)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | AttributeKey | AttributeKey. |
+
+### Return Value
+
+StructureAttribute
 
 ### See Also
 

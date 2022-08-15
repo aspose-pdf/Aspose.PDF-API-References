@@ -1,12 +1,14 @@
 ---
 title: URY
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Y - coordinate of upper-right corner.
 type: docs
 weight: 130
 url: /net/aspose.pdf/rectangle/ury/
 ---
 ## Rectangle.URY property
+
+Y - coordinate of upper-right corner.
 
 ```csharp
 public double URY { get; set; }

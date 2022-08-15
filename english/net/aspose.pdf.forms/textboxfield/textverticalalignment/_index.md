@@ -1,12 +1,14 @@
 ---
 title: TextVerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets text vertical alignment for annotation.
 type: docs
 weight: 70
 url: /net/aspose.pdf.forms/textboxfield/textverticalalignment/
 ---
 ## TextBoxField.TextVerticalAlignment property
+
+Gets or sets text vertical alignment for annotation.
 
 ```csharp
 public VerticalAlignment TextVerticalAlignment { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TiffSettings
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the TiffSettingsaspose.pdf.devices/tiffsettings class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.devices/tiffsettings/tiffsettings/
 ---
 ## TiffSettings() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
 
 ```csharp
 public TiffSettings()
@@ -24,9 +24,15 @@ public TiffSettings()
 
 ## TiffSettings(ShapeType) {#constructor_7}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(ShapeType shapeType)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| shapeType | ShapeType | Type of the shape. |
 
 ### See Also
 
@@ -39,9 +45,15 @@ public TiffSettings(ShapeType shapeType)
 
 ## TiffSettings(CompressionType) {#constructor_2}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(CompressionType compressionType)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| compressionType | CompressionType | Type of the compression. |
 
 ### See Also
 
@@ -54,9 +66,15 @@ public TiffSettings(CompressionType compressionType)
 
 ## TiffSettings(ColorDepth) {#constructor_1}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(ColorDepth colorDepth)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colorDepth | ColorDepth | The color depth. |
 
 ### See Also
 
@@ -69,9 +87,15 @@ public TiffSettings(ColorDepth colorDepth)
 
 ## TiffSettings(Margins) {#constructor_6}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(Margins margins)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| margins | Margins | The margins. |
 
 ### See Also
 
@@ -84,9 +108,17 @@ public TiffSettings(Margins margins)
 
 ## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| compressionType | CompressionType | Type of the compression. |
+| colorDepth | ColorDepth | The color depth. |
+| margins | Margins | The margins. |
 
 ### See Also
 
@@ -101,10 +133,19 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
     bool skipBlankPages)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| compressionType | CompressionType | Type of the compression. |
+| colorDepth | ColorDepth | The color depth. |
+| margins | Margins | The margins. |
+| skipBlankPages | Boolean | if set to `true` need to skip blank pages. |
 
 ### See Also
 
@@ -119,10 +160,20 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins, 
     bool skipBlankPages, ShapeType shapeType)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| compressionType | CompressionType | Type of the compression. |
+| colorDepth | ColorDepth | The color depth. |
+| margins | Margins | The margins. |
+| skipBlankPages | Boolean | if set to `true` need to skip blank pages. |
+| shapeType | ShapeType | Type of the shape. |
 
 ### See Also
 
@@ -138,9 +189,15 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ## TiffSettings(bool) {#constructor_8}
 
+Initializes a new instance of the [`TiffSettings`](../../tiffsettings) class.
+
 ```csharp
 public TiffSettings(bool skipBlankPages)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| skipBlankPages | Boolean | if set to `true` [skip blank pages]. |
 
 ### See Also
 

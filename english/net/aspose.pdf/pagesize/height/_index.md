@@ -1,12 +1,14 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets page height.
 type: docs
 weight: 140
 url: /net/aspose.pdf/pagesize/height/
 ---
 ## PageSize.Height property
+
+Gets or sets page height.
 
 ```csharp
 public float Height { get; set; }

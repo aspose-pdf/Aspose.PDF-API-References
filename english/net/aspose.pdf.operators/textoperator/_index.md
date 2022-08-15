@@ -1,12 +1,14 @@
 ---
 title: TextOperator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Abstract base class for text-related operators TJ Tj Tm BT ET etc.
 type: docs
 weight: 5610
 url: /net/aspose.pdf.operators/textoperator/
 ---
 ## TextOperator class
+
+Abstract base class for text-related operators (TJ, Tj, Tm, BT, ET, etc).
 
 ```csharp
 public abstract class TextOperator : Operator
@@ -16,21 +18,21 @@ public abstract class TextOperator : Operator
 
 | Name | Description |
 | --- | --- |
-| [TextOperator](textoperator#constructor)() | The default constructor. |
-| [TextOperator](textoperator#constructor_1)(TextProperties) |  |
+| [TextOperator](textoperator#constructor)() | Initializes operator. |
+| [TextOperator](textoperator#constructor_1)(TextProperties) | Text operator which accepts text properties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: XSymWidth
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets The horizontal distance in pixels between two barcode modules.
 type: docs
 weight: 70
 url: /net/aspose.pdf.forms/barcodefield/xsymwidth/
 ---
 ## BarcodeField.XSymWidth property
+
+Gets The horizontal distance, in pixels, between two barcode modules.
 
 ```csharp
 public int XSymWidth { get; }

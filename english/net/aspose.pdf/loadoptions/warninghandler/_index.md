@@ -1,12 +1,14 @@
 ---
 title: WarningHandler
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues however the user may also return Abort in which case the Load operation should cease.
 type: docs
 weight: 20
 url: /net/aspose.pdf/loadoptions/warninghandler/
 ---
 ## LoadOptions.WarningHandler property
+
+Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease.
 
 ```csharp
 public IWarningCallback WarningHandler { get; set; }

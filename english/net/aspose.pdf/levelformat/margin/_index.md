@@ -1,12 +1,14 @@
 ---
 title: Margin
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a list level margin
 type: docs
 weight: 30
 url: /net/aspose.pdf/levelformat/margin/
 ---
 ## LevelFormat.Margin property
+
+Gets or sets a list level margin
 
 ```csharp
 public MarginInfo Margin { get; set; }

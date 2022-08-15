@@ -1,16 +1,23 @@
 ---
 title: MoveTextPositionSetLeading
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/movetextpositionsetleading/movetextpositionsetleading/
 ---
 ## MoveTextPositionSetLeading constructor
 
+Initializes operator.
+
 ```csharp
 public MoveTextPositionSetLeading(double x, double y)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | X coordinate of text position. |
+| y | Double | Y coordinate of text position. |
 
 ### See Also
 

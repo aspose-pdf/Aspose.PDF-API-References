@@ -1,12 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a object that indicates left of the border.
 type: docs
 weight: 30
 url: /net/aspose.pdf/borderinfo/left/
 ---
 ## BorderInfo.Left property
+
+Gets or sets a object that indicates left of the border.
 
 ```csharp
 public GraphInfo Left { get; set; }

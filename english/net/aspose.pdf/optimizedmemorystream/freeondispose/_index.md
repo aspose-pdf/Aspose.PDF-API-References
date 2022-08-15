@@ -1,12 +1,14 @@
 ---
 title: FreeOnDispose
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a value indicating whether to free the underlying buffers on dispose.
 type: docs
 weight: 60
 url: /net/aspose.pdf/optimizedmemorystream/freeondispose/
 ---
 ## OptimizedMemoryStream.FreeOnDispose property
+
+Gets or sets a value indicating whether to free the underlying buffers on dispose.
 
 ```csharp
 public bool FreeOnDispose { get; set; }

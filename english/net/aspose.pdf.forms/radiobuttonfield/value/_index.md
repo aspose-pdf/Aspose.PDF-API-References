@@ -1,12 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets value of field.
 type: docs
 weight: 60
 url: /net/aspose.pdf.forms/radiobuttonfield/value/
 ---
 ## RadioButtonField.Value property
+
+Gets or sets value of field.
 
 ```csharp
 public override string Value { get; set; }

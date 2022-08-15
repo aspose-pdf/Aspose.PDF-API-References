@@ -1,12 +1,14 @@
 ---
 title: List
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: List attribute owner.
 type: docs
 weight: 60
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
 ## AttributeOwnerStandard.List field
+
+List attribute owner.
 
 ```csharp
 public static readonly AttributeOwnerStandard List;

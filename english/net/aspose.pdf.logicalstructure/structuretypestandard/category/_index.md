@@ -1,16 +1,22 @@
 ---
 title: Category
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets category of Standard Structure Type.
 type: docs
 weight: 500
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
 ## StructureTypeStandard.Category property
 
+Gets category of Standard Structure Type.
+
 ```csharp
 public StructureTypeCategory Category { get; }
 ```
+
+### Property Value
+
+Category of Standard Structure Type.
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: BMC
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/bmc/bmc/
 ---
 ## BMC constructor
 
+Initializes operator.
+
 ```csharp
 public BMC(string tag)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tag | String | Marked content tag. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: MultiSelect
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets multiselection flag.
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/choicefield/multiselect/
 ---
 ## ChoiceField.MultiSelect property
+
+Gets or sets multiselection flag.
 
 ```csharp
 public bool MultiSelect { get; set; }

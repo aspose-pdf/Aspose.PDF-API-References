@@ -1,12 +1,14 @@
 ---
 title: URX
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: X - coordinate of upper-right corner.
 type: docs
 weight: 120
 url: /net/aspose.pdf/rectangle/urx/
 ---
 ## Rectangle.URX property
+
+X - coordinate of upper-right corner.
 
 ```csharp
 public double URX { get; set; }

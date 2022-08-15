@@ -1,12 +1,14 @@
 ---
 title: PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Declares set of some known encoding subtables
 type: docs
 weight: 5950
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enumeration
+
+Declares set of some known encoding subtables
 
 ```csharp
 public enum CMapEncodingTableType : short
@@ -16,10 +18,10 @@ public enum CMapEncodingTableType : short
 
 | Name | Value | Description |
 | --- | --- | --- |
-| WindowsUnicodeTable | `0` |  |
-| WindowsSymbolicTable | `1` |  |
-| MacTable | `2` |  |
-| UnicodeTable | `3` |  |
+| WindowsUnicodeTable | `0` | Specifies windows unicode table(3,1) - Unicode BMP-only (UCS-2) |
+| WindowsSymbolicTable | `1` | Specifies windows symbolic table - (3,0) |
+| MacTable | `2` | Specifies mac table(1,0) |
+| UnicodeTable | `3` | Specifies unicode table(0,3) |
 
 ### See Also
 

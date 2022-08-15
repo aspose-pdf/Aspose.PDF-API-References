@@ -1,12 +1,14 @@
 ---
 title: ExportItems
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The options for adding a list/combo/radio box
 type: docs
 weight: 110
 url: /net/aspose.pdf.facades/formfieldfacade/exportitems/
 ---
 ## FormFieldFacade.ExportItems property
+
+The options for adding a list/combo/radio box
 
 ```csharp
 public string[][] ExportItems { get; set; }

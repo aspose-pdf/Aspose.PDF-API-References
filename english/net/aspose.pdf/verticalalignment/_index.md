@@ -1,12 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumeration of possible vertical alignment values.
 type: docs
 weight: 7270
 url: /net/aspose.pdf/verticalalignment/
 ---
 ## VerticalAlignment enumeration
+
+Enumeration of possible vertical alignment values.
 
 ```csharp
 public enum VerticalAlignment
@@ -16,10 +18,10 @@ public enum VerticalAlignment
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Top | `1` |  |
-| Center | `2` |  |
-| Bottom | `3` |  |
+| None | `0` | No alignment (use specified position). |
+| Top | `1` | Align to top. |
+| Center | `2` | Center alignment. |
+| Bottom | `3` | Align to bottom. |
 
 ### See Also
 

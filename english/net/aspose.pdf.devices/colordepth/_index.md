@@ -1,12 +1,14 @@
 ---
 title: ColorDepth
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Used to specify the parameter value passed to a Tiff image device.
 type: docs
 weight: 1590
 url: /net/aspose.pdf.devices/colordepth/
 ---
 ## ColorDepth enumeration
+
+Used to specify the parameter value passed to a Tiff image device.
 
 ```csharp
 public enum ColorDepth
@@ -16,10 +18,10 @@ public enum ColorDepth
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` |  |
-| Format8bpp | `1` |  |
-| Format4bpp | `2` |  |
-| Format1bpp | `3` |  |
+| Default | `0` | Default color depth. 32 bit depth is used by default. |
+| Format8bpp | `1` | 8 bits per pixel. Equal Format8bppIndexed |
+| Format4bpp | `2` | 4 bits per pixel. Equal Format4bppIndexed |
+| Format1bpp | `3` | 1 bit per pixel. Equal Format32bppRgb |
 
 ### See Also
 

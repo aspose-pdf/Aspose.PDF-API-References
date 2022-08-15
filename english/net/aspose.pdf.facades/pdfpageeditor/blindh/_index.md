@@ -1,12 +1,14 @@
 ---
 title: BLINDH
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Vertical Blinds
 type: docs
 weight: 190
 url: /net/aspose.pdf.facades/pdfpageeditor/blindh/
 ---
 ## PdfPageEditor.BLINDH field
+
+Vertical Blinds
 
 ```csharp
 public const int BLINDH;

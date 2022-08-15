@@ -1,12 +1,14 @@
 ---
 title: FontCategories
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets substitution font categories that should be substituted with system fonts.
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/systemfontssubstitution/fontcategories/
 ---
 ## SystemFontsSubstitution.FontCategories property
+
+Gets or sets substitution font categories that should be substituted with system fonts.
 
 ```csharp
 public SubstitutionFontCategories FontCategories { get; set; }

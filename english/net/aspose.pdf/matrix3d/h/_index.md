@@ -1,12 +1,14 @@
 ---
 title: H
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: H member of the transformation matrix.
 type: docs
 weight: 90
 url: /net/aspose.pdf/matrix3d/h/
 ---
 ## Matrix3D.H property
+
+H member of the transformation matrix.
 
 ```csharp
 public double H { get; set; }

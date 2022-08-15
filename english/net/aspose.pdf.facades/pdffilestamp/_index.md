@@ -1,12 +1,14 @@
 ---
 title: PdfFileStamp
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class for adding stamps watermark or background to PDF files.
 type: docs
 weight: 2530
 url: /net/aspose.pdf.facades/pdffilestamp/
 ---
 ## PdfFileStamp class
+
+Class for adding stamps (watermark or background) to PDF files.
 
 ```csharp
 public sealed class PdfFileStamp : SaveableFacade
@@ -16,69 +18,69 @@ public sealed class PdfFileStamp : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [PdfFileStamp](pdffilestamp#constructor)() | The default constructor. |
-| [PdfFileStamp](pdffilestamp#constructor_1)(Document) |  |
+| [PdfFileStamp](pdffilestamp#constructor)() | Constructor of the PdfFileStamp. Input file and output file may be specified via corresponding properties. |
+| [PdfFileStamp](pdffilestamp#constructor_1)(Document) | Initializes new [`PdfFileStamp`](../pdffilestamp) object on base of the *document*. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ConvertTo](../../aspose.pdf.facades/pdffilestamp/convertto) { set; } |  |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } |  |
-| [KeepSecurity](../../aspose.pdf.facades/pdffilestamp/keepsecurity) { get; set; } |  |
-| [NumberingStyle](../../aspose.pdf.facades/pdffilestamp/numberingstyle) { get; set; } |  |
-| [OptimizeSize](../../aspose.pdf.facades/pdffilestamp/optimizesize) { get; set; } |  |
-| [PageHeight](../../aspose.pdf.facades/pdffilestamp/pageheight) { get; } |  |
-| [PageNumberRotation](../../aspose.pdf.facades/pdffilestamp/pagenumberrotation) { get; set; } |  |
-| [PageWidth](../../aspose.pdf.facades/pdffilestamp/pagewidth) { get; } |  |
-| [StampId](../../aspose.pdf.facades/pdffilestamp/stampid) { get; set; } |  |
-| [StartingNumber](../../aspose.pdf.facades/pdffilestamp/startingnumber) { get; set; } |  |
+| [ConvertTo](../../aspose.pdf.facades/pdffilestamp/convertto) { set; } | Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion. |
+| [Document](../../aspose.pdf.facades/facade/document) { get; } | Gets the document facade is working on. |
+| [KeepSecurity](../../aspose.pdf.facades/pdffilestamp/keepsecurity) { get; set; } | Keeps security if true. (This feature will be implemented in next versions). |
+| [NumberingStyle](../../aspose.pdf.facades/pdffilestamp/numberingstyle) { get; set; } | Gets or sets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase |
+| [OptimizeSize](../../aspose.pdf.facades/pdffilestamp/optimizesize) { get; set; } | Gets or sets optimization flag. Equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false. |
+| [PageHeight](../../aspose.pdf.facades/pdffilestamp/pageheight) { get; } | Gets height of first page in souorce file. |
+| [PageNumberRotation](../../aspose.pdf.facades/pdffilestamp/pagenumberrotation) { get; set; } | Gets or sets rotation of page number. Rotation is in degrees. Default is 0. |
+| [PageWidth](../../aspose.pdf.facades/pdffilestamp/pagewidth) { get; } | Gets width of first page in input file. |
+| [StampId](../../aspose.pdf.facades/pdffilestamp/stampid) { get; set; } | Stamp ID of next added stamp (incluiding page headers/hooters/page numbers). |
+| [StartingNumber](../../aspose.pdf.facades/pdffilestamp/startingnumber) { get; set; } | Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100, document pages will have numbers 100, 101, 102... |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter)(FormattedText, float) |  |
-| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_2)(Stream, float) |  |
-| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_4)(string, float) |  |
-| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_1)(FormattedText, float, float, float) |  |
-| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_3)(Stream, float, float, float) |  |
-| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_5)(string, float, float, float) |  |
-| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader)(FormattedText, float) |  |
-| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_2)(Stream, float) |  |
-| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_4)(string, float) |  |
-| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_1)(FormattedText, float, float, float) |  |
-| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_3)(Stream, float, float, float) |  |
-| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_5)(string, float, float, float) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber)(FormattedText) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_4)(string) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_1)(FormattedText, int) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_5)(string, int) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_3)(FormattedText, float, float) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_7)(string, float, float) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_2)(FormattedText, int, float, float, float, float) |  |
-| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_6)(string, int, float, float, float, float) |  |
-| [AddStamp](../../aspose.pdf.facades/pdffilestamp/addstamp)(Stamp) |  |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) |  |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) |  |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) |  |
-| override [Close](../../aspose.pdf.facades/pdffilestamp/close)() |  |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() |  |
-| override [Save](../../aspose.pdf.facades/pdffilestamp/save#save)(Stream) |  |
-| override [Save](../../aspose.pdf.facades/pdffilestamp/save#save_1)(string) |  |
+| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter)(FormattedText, float) | Adds footer to the pages of the document. |
+| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_2)(Stream, float) | Adds image as footer of the page. |
+| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_4)(string, float) | Adds image as footer to the pages of the document. |
+| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_1)(FormattedText, float, float, float) | Adds footer to the pages of the document. |
+| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_3)(Stream, float, float, float) | Adds image as footer of the page. |
+| [AddFooter](../../aspose.pdf.facades/pdffilestamp/addfooter#addfooter_5)(string, float, float, float) | Adds image as footer of the pages. |
+| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader)(FormattedText, float) | Adds header to the page. |
+| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_2)(Stream, float) | Adds image as header on the pages. |
+| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_4)(string, float) | Adds image as header to the pages of the file. |
+| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_1)(FormattedText, float, float, float) | Adds header to the pages of file. |
+| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_3)(Stream, float, float, float) | Adds image at the top of the page. |
+| [AddHeader](../../aspose.pdf.facades/pdffilestamp/addheader#addheader_5)(string, float, float, float) | Adds image as header on the pages. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber)(FormattedText) | Adds page number to the page. Page number may contain # sign which will be replaced with page number. Page number is placed in the bottom of the page centered horizontally. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_4)(string) | Add page number to file. Page number text may contain # sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_1)(FormattedText, int) | Adds page number to the pages. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_5)(string, int) | Adds page number to the pages. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_3)(FormattedText, float, float) | Adds page number at the specified position on the page. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_7)(string, float, float) | Adds page number at the specified position on the page. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_2)(FormattedText, int, float, float, float, float) | Adds page number to the pages of document. |
+| [AddPageNumber](../../aspose.pdf.facades/pdffilestamp/addpagenumber#addpagenumber_6)(string, int, float, float, float, float) | Adds page number to the pages of document. |
+| [AddStamp](../../aspose.pdf.facades/pdffilestamp/addstamp)(Stamp) | Adds stamp to the file. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Initializes the facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Initializes the facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Initializes the facade. |
+| override [Close](../../aspose.pdf.facades/pdffilestamp/close)() | Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by Close() method. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Disposes the facade. |
+| override [Save](../../aspose.pdf.facades/pdffilestamp/save#save)(Stream) | Saves document into specified stream. |
+| override [Save](../../aspose.pdf.facades/pdffilestamp/save#save_1)(string) | Saves result into specified file. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| const [PosBottomLeft](../../aspose.pdf.facades/pdffilestamp/posbottomleft) |  |
-| const [PosBottomMiddle](../../aspose.pdf.facades/pdffilestamp/posbottommiddle) |  |
-| const [PosBottomRight](../../aspose.pdf.facades/pdffilestamp/posbottomright) |  |
-| const [PosSidesLeft](../../aspose.pdf.facades/pdffilestamp/possidesleft) |  |
-| const [PosSidesRight](../../aspose.pdf.facades/pdffilestamp/possidesright) |  |
-| const [PosUpperLeft](../../aspose.pdf.facades/pdffilestamp/posupperleft) |  |
-| const [PosUpperMiddle](../../aspose.pdf.facades/pdffilestamp/posuppermiddle) |  |
-| const [PosUpperRight](../../aspose.pdf.facades/pdffilestamp/posupperright) |  |
+| const [PosBottomLeft](../../aspose.pdf.facades/pdffilestamp/posbottomleft) | Bottom left position. |
+| const [PosBottomMiddle](../../aspose.pdf.facades/pdffilestamp/posbottommiddle) | Bottom middle position. |
+| const [PosBottomRight](../../aspose.pdf.facades/pdffilestamp/posbottomright) | Bottom right position. |
+| const [PosSidesLeft](../../aspose.pdf.facades/pdffilestamp/possidesleft) | Left position. |
+| const [PosSidesRight](../../aspose.pdf.facades/pdffilestamp/possidesright) | Right position. |
+| const [PosUpperLeft](../../aspose.pdf.facades/pdffilestamp/posupperleft) | Upper let position. |
+| const [PosUpperMiddle](../../aspose.pdf.facades/pdffilestamp/posuppermiddle) | Upper middle position. |
+| const [PosUpperRight](../../aspose.pdf.facades/pdffilestamp/posupperright) | Right upper position. |
 
 ### See Also
 

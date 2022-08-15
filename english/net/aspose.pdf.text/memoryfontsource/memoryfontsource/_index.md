@@ -1,16 +1,22 @@
 ---
 title: MemoryFontSource
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of MemoryFontSourceaspose.pdf.text/memoryfontsource class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 ---
 ## MemoryFontSource constructor
 
+Initializes a new instance of [`MemoryFontSource`](../../memoryfontsource) class.
+
 ```csharp
 public MemoryFontSource(byte[] fontBytes)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontBytes | Byte[] | Font file byte array. |
 
 ### See Also
 

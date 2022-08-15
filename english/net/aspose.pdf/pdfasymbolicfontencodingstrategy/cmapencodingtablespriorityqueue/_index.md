@@ -1,12 +1,14 @@
 ---
 title: CmapEncodingTablesPriorityQueue
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Specifies queue of encoding subtables to process.
 type: docs
 weight: 20
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/
 ---
 ## PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue property
+
+Specifies queue of encoding subtables to process.
 
 ```csharp
 public Queue<QueueItem> CmapEncodingTablesPriorityQueue { get; set; }

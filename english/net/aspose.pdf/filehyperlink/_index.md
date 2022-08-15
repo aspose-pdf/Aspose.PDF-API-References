@@ -1,12 +1,14 @@
 ---
 title: FileHyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents file hyperlink object.
 type: docs
 weight: 2750
 url: /net/aspose.pdf/filehyperlink/
 ---
 ## FileHyperlink class
+
+Represents file hyperlink object.
 
 ```csharp
 public sealed class FileHyperlink : Hyperlink
@@ -16,14 +18,14 @@ public sealed class FileHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [FileHyperlink](filehyperlink#constructor)() | The default constructor. |
-| [FileHyperlink](filehyperlink#constructor_1)(string) |  |
+| [FileHyperlink](filehyperlink#constructor)() | Initializes a new instance of the [`FileHyperlink`](../filehyperlink) class. |
+| [FileHyperlink](filehyperlink#constructor_1)(string) | Initializes a new instance of the [`FileHyperlink`](../filehyperlink) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Path](../../aspose.pdf/filehyperlink/path) { get; set; } |  |
+| [Path](../../aspose.pdf/filehyperlink/path) { get; set; } | Gets or sets the path to file. |
 
 ### See Also
 

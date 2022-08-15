@@ -1,16 +1,22 @@
 ---
 title: BlanchedAlmond
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FFFFEBCD.
 type: docs
 weight: 100
 url: /net/aspose.pdf/color/blanchedalmond/
 ---
 ## Color.BlanchedAlmond property
 
+Gets a system-defined color that has an ARGB value of #FFFFEBCD.
+
 ```csharp
 public static Color BlanchedAlmond { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

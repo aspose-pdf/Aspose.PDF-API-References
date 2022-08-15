@@ -1,12 +1,14 @@
 ---
 title: FieldName
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Full name of the field.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/form.formimportresult/fieldname/
 ---
 ## Form.FormImportResult.FieldName property
+
+Full name of the field.
 
 ```csharp
 public string FieldName { get; }

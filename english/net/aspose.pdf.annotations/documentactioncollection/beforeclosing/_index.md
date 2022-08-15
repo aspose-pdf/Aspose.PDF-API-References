@@ -1,12 +1,14 @@
 ---
 title: BeforeClosing
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets action that will be performed before documetn closing.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/documentactioncollection/beforeclosing/
 ---
 ## DocumentActionCollection.BeforeClosing property
+
+Gets or sets action that will be performed before documetn closing.
 
 ```csharp
 public PdfAction BeforeClosing { get; set; }

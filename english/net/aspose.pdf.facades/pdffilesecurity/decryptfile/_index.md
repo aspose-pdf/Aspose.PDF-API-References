@@ -1,15 +1,41 @@
 ---
 title: DecryptFile
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Decrypts an encrypted Pdf document by owner password. If the document hasnt owner password it is allow to use user password. Throws an exception if process failed.
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/pdffilesecurity/decryptfile/
 ---
 ## PdfFileSecurity.DecryptFile method
 
+Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Throws an exception if process failed.
+
 ```csharp
 public bool DecryptFile(string ownerPassword)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ownerPassword | String | Owner password. |
+
+### Return Value
+
+True for success.
+
+### Examples
+
+```csharp
+[C#]
+string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
+string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.	
+PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
+fileSecurity.DecryptFile("ownerpass");
+
+[Visual Basic]
+Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
+fileSecurity.DecryptFile("ownerpass")
 ```
 
 ### See Also

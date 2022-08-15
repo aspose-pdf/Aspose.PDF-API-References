@@ -1,12 +1,14 @@
 ---
 title: Rotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets signature rotation.
 type: docs
 weight: 140
 url: /net/aspose.pdf.forms/signaturecustomappearance/rotation/
 ---
 ## SignatureCustomAppearance.Rotation property
+
+Gets or sets signature rotation.
 
 ```csharp
 public Rotation Rotation { get; set; }

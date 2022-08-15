@@ -1,12 +1,14 @@
 ---
 title: Intent
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the intent of the polygon or polyline annotation.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/polyannotation/intent/
 ---
 ## PolyAnnotation.Intent property
+
+Gets or sets the intent of the polygon or polyline annotation.
 
 ```csharp
 public PolyIntent Intent { get; set; }

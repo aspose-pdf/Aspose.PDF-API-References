@@ -1,17 +1,26 @@
 ---
 title: PDF3DArtwork
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the PDF3DArtworkaspose.pdf.annotations/pdf3dartwork class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/pdf3dartwork/pdf3dartwork/
 ---
 ## PDF3DArtwork(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) {#constructor_1}
 
+Initializes a new instance of the [`PDF3DArtwork`](../../pdf3dartwork) class.
+
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme lightingScheme, 
     PDF3DRenderMode renderMode)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | The document. |
+| content | PDF3DContent | The content. |
+| lightingScheme | PDF3DLightingScheme | The lighting scheme. |
+| renderMode | PDF3DRenderMode | The render mode. |
 
 ### See Also
 
@@ -27,9 +36,16 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 
 ## PDF3DArtwork(Document, PDF3DContent) {#constructor}
 
+Initializes a new instance of the [`PDF3DArtwork`](../../pdf3dartwork) class.
+
 ```csharp
 public PDF3DArtwork(Document doc, PDF3DContent content)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | The document. |
+| content | PDF3DContent | The content. |
 
 ### See Also
 

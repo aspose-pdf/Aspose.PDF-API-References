@@ -1,16 +1,22 @@
 ---
 title: CloneWithSegments
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clone the heading with all segments.
 type: docs
 weight: 120
 url: /net/aspose.pdf/heading/clonewithsegments/
 ---
 ## Heading.CloneWithSegments method
 
+Clone the heading with all segments.
+
 ```csharp
 public override object CloneWithSegments()
 ```
+
+### Return Value
+
+The cloned object
 
 ### See Also
 

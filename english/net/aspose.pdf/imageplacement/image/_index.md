@@ -1,12 +1,14 @@
 ---
 title: Image
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets related XImage resource object.
 type: docs
 weight: 20
 url: /net/aspose.pdf/imageplacement/image/
 ---
 ## ImagePlacement.Image property
+
+Gets related XImage resource object.
 
 ```csharp
 public XImage Image { get; }

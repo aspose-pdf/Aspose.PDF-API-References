@@ -1,12 +1,14 @@
 ---
 title: HtmlMediaType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Specifies possible media types used during rendering.
 type: docs
 weight: 3360
 url: /net/aspose.pdf/htmlmediatype/
 ---
 ## HtmlMediaType enumeration
+
+Specifies possible media types used during rendering.
 
 ```csharp
 public enum HtmlMediaType
@@ -16,8 +18,8 @@ public enum HtmlMediaType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Print | `0` |  |
-| Screen | `1` |  |
+| Print | `0` | Print. |
+| Screen | `1` | Screen. |
 
 ### See Also
 

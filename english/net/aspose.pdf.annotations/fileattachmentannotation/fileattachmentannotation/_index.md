@@ -1,16 +1,24 @@
 ---
 title: FileAttachmentAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates new FileAttachment annotation on the specified page.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/
 ---
 ## FileAttachmentAnnotation constructor
 
+Creates new FileAttachment annotation on the specified page.
+
 ```csharp
 public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fileSpec)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Document's page where annotation should be created. |
+| rect | Rectangle | Required rectangle that sets annotation's border. |
+| fileSpec | FileSpecification | Describes the file that shoud be bound with the annotation. |
 
 ### See Also
 

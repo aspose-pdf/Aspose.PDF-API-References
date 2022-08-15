@@ -1,12 +1,14 @@
 ---
 title: PageLabelCollection
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class represeingting page label collection.
 type: docs
 weight: 5810
 url: /net/aspose.pdf/pagelabelcollection/
 ---
 ## PageLabelCollection class
+
+Class represeingting page label collection.
 
 ```csharp
 public class PageLabelCollection
@@ -16,10 +18,10 @@ public class PageLabelCollection
 
 | Name | Description |
 | --- | --- |
-| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel)(int) |  |
-| [GetPages](../../aspose.pdf/pagelabelcollection/getpages)() |  |
-| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel)(int) |  |
-| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel)(int, PageLabel) |  |
+| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel)(int) | Gets page label by page index (page index is started from 0). |
+| [GetPages](../../aspose.pdf/pagelabelcollection/getpages)() | Gets page indexes in collection. |
+| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel)(int) | Remove label by page index (page index is started from 0). |
+| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel)(int, PageLabel) | Update label for given page index (page index is started from 0). |
 
 ### See Also
 

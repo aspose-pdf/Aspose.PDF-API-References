@@ -1,16 +1,26 @@
 ---
 title: TableAbsorber
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the TableAbsorberaspose.pdf.text/tableabsorber with text search options.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/tableabsorber/tableabsorber/
 ---
 ## TableAbsorber(TextSearchOptions) {#constructor_1}
 
+Initializes a new instance of the [`TableAbsorber`](../../tableabsorber) with text search options.
+
 ```csharp
 public TableAbsorber(TextSearchOptions textSearchOptions)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textSearchOptions | TextSearchOptions | Text search options |
+
+### Remarks
+
+Performs searching for tables and provides access to the tables via [`TableList`](../tablelist) object.
 
 ### See Also
 
@@ -23,11 +33,15 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ## TableAbsorber() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`TableAbsorber`](../../tableabsorber).
 
 ```csharp
 public TableAbsorber()
 ```
+
+### Remarks
+
+Performs searching for tables and provides access to the tables via [`TableList`](../tablelist) object.
 
 ### See Also
 

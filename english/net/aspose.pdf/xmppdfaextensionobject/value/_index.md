@@ -1,12 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the value.
 type: docs
 weight: 20
 url: /net/aspose.pdf/xmppdfaextensionobject/value/
 ---
 ## XmpPdfAExtensionObject.Value property
+
+Gets or sets the value.
 
 ```csharp
 public string Value { get; set; }

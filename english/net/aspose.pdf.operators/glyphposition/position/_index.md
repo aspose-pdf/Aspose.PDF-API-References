@@ -1,12 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Position off the text in the operator.
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/glyphposition/position/
 ---
 ## GlyphPosition.Position property
+
+Position off the text in the operator.
 
 ```csharp
 public double Position { get; }

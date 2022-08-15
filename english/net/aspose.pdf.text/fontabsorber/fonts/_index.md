@@ -1,12 +1,14 @@
 ---
 title: Fonts
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets collection of search occurrences that are presented with Fontaspose.pdf.text/font objects.
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/fontabsorber/fonts/
 ---
 ## FontAbsorber.Fonts property
+
+Gets collection of search occurrences that are presented with [`Font`](../../font) objects.
 
 ```csharp
 public FontCollection Fonts { get; }

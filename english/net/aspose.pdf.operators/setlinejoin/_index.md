@@ -1,12 +1,14 @@
 ---
 title: SetLineJoin
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing j operator set line join style.
 type: docs
 weight: 5470
 url: /net/aspose.pdf.operators/setlinejoin/
 ---
 ## SetLineJoin class
+
+Class representing j operator (set line join style).
 
 ```csharp
 public class SetLineJoin : Operator
@@ -16,14 +18,14 @@ public class SetLineJoin : Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinejoin/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setlinejoin/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: DarkOrchid
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF9932CC.
 type: docs
 weight: 320
 url: /net/aspose.pdf/color/darkorchid/
 ---
 ## Color.DarkOrchid property
 
+Gets a system-defined color that has an ARGB value of #FF9932CC.
+
 ```csharp
 public static Color DarkOrchid { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

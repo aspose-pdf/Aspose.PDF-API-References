@@ -1,12 +1,14 @@
 ---
 title: Subtype
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets subtype.
 type: docs
 weight: 20
 url: /net/aspose.pdf/encryptedpayload/subtype/
 ---
 ## EncryptedPayload.Subtype property
+
+Gets subtype.
 
 ```csharp
 public string Subtype { get; }

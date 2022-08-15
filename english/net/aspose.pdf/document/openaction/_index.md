@@ -1,15 +1,26 @@
 ---
 title: OpenAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets action performed at document opening.
 type: docs
 weight: 380
 url: /net/aspose.pdf/document/openaction/
 ---
 ## Document.OpenAction property
 
+Gets or sets action performed at document opening.
+
 ```csharp
 public IAppointment OpenAction { get; set; }
+```
+
+### Examples
+
+Example demonstrates how to get CenterWindow flag:
+
+```csharp
+Document document = new Document("sample.pdf");
+IAppointment value = document.OpenAction;
 ```
 
 ### See Also

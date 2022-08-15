@@ -1,12 +1,14 @@
 ---
 title: CurveTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing c operator append curve to path.
 type: docs
 weight: 4970
 url: /net/aspose.pdf.operators/curveto/
 ---
 ## CurveTo class
+
+Class representing c operator (append curve to path).
 
 ```csharp
 public class CurveTo : Operator
@@ -16,21 +18,21 @@ public class CurveTo : Operator
 
 | Name | Description |
 | --- | --- |
-| [CurveTo](curveto)(double, double, double, double, double, double) |  |
+| [CurveTo](curveto)(double, double, double, double, double, double) | Initializes curve operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Points](../../aspose.pdf.operators/curveto/points) { get; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Points](../../aspose.pdf.operators/curveto/points) { get; } | Points of the curve. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/curveto/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/curveto/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/curveto/tostring)() | Returns text representation of operator. |
 
 ### See Also
 

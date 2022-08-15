@@ -1,12 +1,14 @@
 ---
 title: DashArray
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a dash array.
 type: docs
 weight: 30
 url: /net/aspose.pdf/graphinfo/dasharray/
 ---
 ## GraphInfo.DashArray property
+
+Gets or sets a dash array.
 
 ```csharp
 public int[] DashArray { get; set; }

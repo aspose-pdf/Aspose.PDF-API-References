@@ -1,12 +1,14 @@
 ---
 title: IsInitializedValue
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets status of structure attribute value. True if value is set.
 type: docs
 weight: 20
 url: /net/aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/
 ---
 ## StructureAttribute.IsInitializedValue property
+
+Gets status of structure attribute value. True if value is set.
 
 ```csharp
 public bool IsInitializedValue { get; }

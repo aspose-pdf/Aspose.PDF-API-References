@@ -1,12 +1,14 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Collection of MarkupParagraphaspose.pdf.text/markupparagraph objects that are inside the section.
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/markupsection/paragraphs/
 ---
 ## MarkupSection.Paragraphs property
+
+Collection of [`MarkupParagraph`](../../markupparagraph) objects that are inside the section.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }

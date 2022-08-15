@@ -1,15 +1,31 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Adds new operator into collection.
 type: docs
 weight: 60
 url: /net/aspose.pdf/operatorcollection/add/
 ---
 ## Add(Operator) {#add}
 
+Adds new operator into collection.
+
 ```csharp
 public override void Add(Operator op)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| op | Operator | Operator which must be added |
+
+### Examples
+
+Example demonstrates how to add operators to the end of page.contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.q());
+doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 ```
 
 ### See Also
@@ -23,8 +39,24 @@ public override void Add(Operator op)
 
 ## Add(Operator[]) {#add_1}
 
+Add operators at the end of the contents operators.
+
 ```csharp
 public void Add(Operator[] ops)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ops | Operator[] | Array of operators to be added. Each operator can have any index (by default -1) because they come to the end of the contents operators i.e. indices are assigned automatically. |
+
+### Examples
+
+Example demonstrates how to add operator to the end of page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q() } );
 ```
 
 ### See Also
@@ -38,8 +70,27 @@ public void Add(Operator[] ops)
 
 ## Add(ICollection&lt;Operator&gt;) {#add_2}
 
+Adds to collection all operators from other collection.
+
 ```csharp
 public void Add(ICollection<Operator> ops)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ops | ICollection`1 | collection whitch contains operators which will be added. |
+
+### Examples
+
+Example demonstrates how to add operator collection to the page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+List<Operator> opList = new List<Operator>();
+opList.Add(new AOperator.q());
+opList.Add(new Operators.Q());
+oc.Add(opList);
 ```
 
 ### See Also

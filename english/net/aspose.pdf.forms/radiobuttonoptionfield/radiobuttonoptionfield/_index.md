@@ -1,14 +1,14 @@
 ---
 title: RadioButtonOptionField
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Create new RadioButtonOptionField instance.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/
 ---
 ## RadioButtonOptionField() {#constructor}
 
-The default constructor.
+Create new RadioButtonOptionField instance.
 
 ```csharp
 public RadioButtonOptionField()
@@ -24,9 +24,16 @@ public RadioButtonOptionField()
 
 ## RadioButtonOptionField(Page, Rectangle) {#constructor_1}
 
+Creates radiobutton in the specified recangle on specified page.
+
 ```csharp
 public RadioButtonOptionField(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where RadioButton will be placed; |
+| rect | Rectangle | Recangle of RadioButton. |
 
 ### See Also
 

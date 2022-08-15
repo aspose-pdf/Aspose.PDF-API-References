@@ -1,12 +1,14 @@
 ---
 title: Document
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Document A complete document. This is the root element of any structure tree containing multiple parts or multiple articles.
 type: docs
 weight: 80
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/document/
 ---
 ## StructureTypeStandard.Document field
+
+(Document) A complete document. This is the root element of any structure tree containing multiple parts or multiple articles.
 
 ```csharp
 public static readonly StructureTypeStandard Document;

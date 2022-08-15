@@ -1,12 +1,14 @@
 ---
 title: Llx
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Lower-left horizontal coordinate of bounding rectangle.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/llx/
 ---
 ## SetCharWidthBoundingBox.Llx property
+
+Lower-left horizontal coordinate of bounding rectangle.
 
 ```csharp
 public double Llx { get; }

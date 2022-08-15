@@ -1,16 +1,22 @@
 ---
 title: Content
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the content.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/pdf3dstream/content/
 ---
 ## PDF3DStream.Content property
 
+Gets or sets the content.
+
 ```csharp
 public PDF3DContent Content { get; set; }
 ```
+
+### Property Value
+
+The content.
 
 ### See Also
 

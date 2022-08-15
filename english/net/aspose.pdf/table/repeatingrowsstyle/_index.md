@@ -1,12 +1,14 @@
 ---
 title: RepeatingRowsStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the style for repeating rows
 type: docs
 weight: 190
 url: /net/aspose.pdf/table/repeatingrowsstyle/
 ---
 ## Table.RepeatingRowsStyle property
+
+Gets the style for repeating rows
 
 ```csharp
 public TextState RepeatingRowsStyle { get; set; }

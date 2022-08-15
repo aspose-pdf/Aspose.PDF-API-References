@@ -1,12 +1,14 @@
 ---
 title: CharSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the character spacing.
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/setcharacterspacing/charspacing/
 ---
 ## SetCharacterSpacing.CharSpacing property
+
+Gets or sets the character spacing.
 
 ```csharp
 public double CharSpacing { get; set; }

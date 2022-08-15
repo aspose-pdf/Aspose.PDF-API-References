@@ -1,12 +1,14 @@
 ---
 title: Right
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets right horizontal coordinate of visible rectangle.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/fitrexplicitdestination/right/
 ---
 ## FitRExplicitDestination.Right property
+
+Gets right horizontal coordinate of visible rectangle.
 
 ```csharp
 public double Right { get; }

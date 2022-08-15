@@ -1,12 +1,14 @@
 ---
 title: HtmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents options for loading/importing html file into pdf document.
 type: docs
 weight: 3350
 url: /net/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class
+
+Represents options for loading/importing html file into pdf document.
 
 ```csharp
 public sealed class HtmlLoadOptions : LoadOptions
@@ -16,29 +18,29 @@ public sealed class HtmlLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [HtmlLoadOptions](htmlloadoptions#constructor)() | The default constructor. |
-| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) |  |
+| [HtmlLoadOptions](htmlloadoptions#constructor)() | Creates load options for converting html into pdf document with empty base path. |
+| [HtmlLoadOptions](htmlloadoptions#constructor_1)(string) | Creates load options for converting html into pdf document with defined base path. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BasePath](../../aspose.pdf/htmlloadoptions/basepath) { get; } |  |
-| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype) { get; set; } |  |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } |  |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } |  |
-| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage) { get; set; } |  |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
-| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo) { get; set; } |  |
-| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption) { get; set; } |  |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
+| [BasePath](../../aspose.pdf/htmlloadoptions/basepath) { get; } | The base path/url for the html file. |
+| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype) { get; set; } | Gets or sets possible media types used during rendering. |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } | Gets or sets fonts embedding to result document |
+| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage) { get; set; } | Gets or sets rendering all document to single page |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
+| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo) { get; set; } | Gets or sets document page info |
+| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption) { get; set; } | Gets or sets layout option. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) |  |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) |  |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method that will get requested resources from somewhere. For example, during usage of Aspose.PDF in cloude direct access to referenced files impossible: in such case some custome code put into special method should be used, and delegate that refers that method should be assygned to this attribute. |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | If loading of external data referenced in HTML requirs credentials, You can put them into this parameter - they will be used during loading of external resources |
 
 ### See Also
 

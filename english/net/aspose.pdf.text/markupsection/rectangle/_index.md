@@ -1,12 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Section rectangle
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/markupsection/rectangle/
 ---
 ## MarkupSection.Rectangle property
+
+Section rectangle
 
 ```csharp
 public Rectangle Rectangle { get; }

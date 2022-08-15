@@ -1,12 +1,14 @@
 ---
 title: ColumnInfo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a column info
 type: docs
 weight: 50
 url: /net/aspose.pdf/floatingbox/columninfo/
 ---
 ## FloatingBox.ColumnInfo property
+
+Gets or sets a column info
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }

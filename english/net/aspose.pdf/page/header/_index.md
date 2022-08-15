@@ -1,16 +1,22 @@
 ---
 title: Header
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets page header.
 type: docs
 weight: 150
 url: /net/aspose.pdf/page/header/
 ---
 ## Page.Header property
 
+Gets or sets page header.
+
 ```csharp
 public HeaderFooter Header { get; set; }
 ```
+
+### Property Value
+
+The page header.
 
 ### See Also
 

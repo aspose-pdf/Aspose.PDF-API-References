@@ -1,12 +1,14 @@
 ---
 title: StampIcon
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumerates the icons to be used in displaying the annotation.
 type: docs
 weight: 1120
 url: /net/aspose.pdf.annotations/stampicon/
 ---
 ## StampIcon enumeration
+
+Enumerates the icons to be used in displaying the annotation.
 
 ```csharp
 public enum StampIcon
@@ -16,20 +18,20 @@ public enum StampIcon
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Draft | `0` |  |
-| Approved | `1` |  |
-| Experimental | `2` |  |
-| NotApproved | `3` |  |
-| AsIs | `4` |  |
-| Expired | `5` |  |
-| NotForPublicRelease | `6` |  |
-| Confidential | `7` |  |
-| Final | `8` |  |
-| Sold | `9` |  |
-| Departmental | `10` |  |
-| ForComment | `11` |  |
-| ForPublicRelease | `12` |  |
-| TopSecret | `13` |  |
+| Draft | `0` | Draft stamp icon. |
+| Approved | `1` | Approved stamp icon. |
+| Experimental | `2` | Experimental stamp icon. |
+| NotApproved | `3` | Stamp icon is not approved. |
+| AsIs | `4` | Stamp icon "as is". |
+| Expired | `5` | Stamp icon is expired. |
+| NotForPublicRelease | `6` | Not for public release. |
+| Confidential | `7` | Confidential. |
+| Final | `8` | Final stamp. |
+| Sold | `9` | Sold stamp. |
+| Departmental | `10` | Departamental. |
+| ForComment | `11` | For comment. |
+| ForPublicRelease | `12` | For public release. |
+| TopSecret | `13` | Top secret. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: ClosePath
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing h operator close path.
 type: docs
 weight: 4920
 url: /net/aspose.pdf.operators/closepath/
 ---
 ## ClosePath class
+
+Class representing h operator (close path).
 
 ```csharp
 public class ClosePath : Operator
@@ -16,20 +18,20 @@ public class ClosePath : Operator
 
 | Name | Description |
 | --- | --- |
-| [ClosePath](closepath)() | The default constructor. |
+| [ClosePath](closepath)() | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepath/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/closepath/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

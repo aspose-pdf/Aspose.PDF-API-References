@@ -1,14 +1,20 @@
 ---
 title: PdfFileStamp
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor of the PdfFileStamp. Input file and output file may be specified via corresponding properties.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
 ---
 ## PdfFileStamp() {#constructor}
 
-The default constructor.
+Constructor of the PdfFileStamp. Input file and output file may be specified via corresponding properties.
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp();
+fileStamp.InputFile = "input.pdf";
+fileStamp.OutputFile = "output.pdf";
+```
 
 ```csharp
 public PdfFileStamp()
@@ -24,9 +30,15 @@ public PdfFileStamp()
 
 ## PdfFileStamp(Document) {#constructor_1}
 
+Initializes new [`PdfFileStamp`](../../pdffilestamp) object on base of the *document*.
+
 ```csharp
 public PdfFileStamp(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Pdf document. |
 
 ### See Also
 

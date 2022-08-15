@@ -1,12 +1,14 @@
 ---
 title: AutoRotateMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a AutoRotateMode value that indicates direction of rotation
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/pdfviewer/autorotatemode/
 ---
 ## PdfViewer.AutoRotateMode property
+
+Gets or sets a AutoRotateMode value that indicates direction of rotation
 
 ```csharp
 public AutoRotateMode AutoRotateMode { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: UnifiedSaveOptions.ProgressEventHandlerInfo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: This class represents information about conversion progress that can be used in external applicatuion to show conversion progress to end user
 type: docs
 weight: 7250
 url: /net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo class
+
+This class represents information about conversion progress that can be used in external applicatuion to show conversion progress to end user
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -16,9 +18,9 @@ public class ProgressEventHandlerInfo
 
 | Name | Description |
 | --- | --- |
-| [EventType](../../aspose.pdf/progresseventhandlerinfo/eventtype) |  |
-| [MaxValue](../../aspose.pdf/progresseventhandlerinfo/maxvalue) |  |
-| [Value](../../aspose.pdf/progresseventhandlerinfo/value) |  |
+| [EventType](../../aspose.pdf/progresseventhandlerinfo/eventtype) | Type of progress event that occured |
+| [MaxValue](../../aspose.pdf/progresseventhandlerinfo/maxvalue) | maximum possible value of progress value |
+| [Value](../../aspose.pdf/progresseventhandlerinfo/value) | current value of progress value |
 
 ### See Also
 

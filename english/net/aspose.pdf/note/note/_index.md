@@ -1,14 +1,14 @@
 ---
 title: Note
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the Noteaspose.pdf/note class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/note/note/
 ---
 ## Note() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`Note`](../../note) class.
 
 ```csharp
 public Note()
@@ -24,9 +24,15 @@ public Note()
 
 ## Note(string) {#constructor_1}
 
+Initializes a new instance of the [`Note`](../../note) class.
+
 ```csharp
 public Note(string content)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | The note content. |
 
 ### See Also
 

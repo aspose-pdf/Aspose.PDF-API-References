@@ -1,12 +1,14 @@
 ---
 title: XfdfReader
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class which peroformes reading of XFDF format.
 type: docs
 weight: 1230
 url: /net/aspose.pdf.annotations/xfdfreader/
 ---
 ## XfdfReader class
+
+Class which peroformes reading of XFDF format.
 
 ```csharp
 public sealed class XfdfReader
@@ -22,9 +24,19 @@ public sealed class XfdfReader
 
 | Name | Description |
 | --- | --- |
-| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements)(XmlReader) |  |
-| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations)(Stream, Document) |  |
-| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields)(Stream, Document) |  |
+| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements)(XmlReader) | Parses XFDF file and returns information as hashtable. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations)(Stream, Document) | Import annotations from XFDF file and put them into document. |
+| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields)(Stream, Document) | Import field values from XFDF file. |
+
+### Examples
+
+```csharp
+Document doc = new Document("example.pdf");
+Stream xfdfStream = File.OpenRead("file.xfdf");
+XfdfReader.ReadAnnotations(xfdfStream, doc);
+xfdfStream.Close();
+doc.Save("example_out.pdf");
+```
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: SetTextRise
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing Ts operator set text rise.
 type: docs
 weight: 5560
 url: /net/aspose.pdf.operators/settextrise/
 ---
 ## SetTextRise class
+
+Class representing Ts operator (set text rise).
 
 ```csharp
 public class SetTextRise : TextStateOperator
@@ -16,21 +18,21 @@ public class SetTextRise : TextStateOperator
 
 | Name | Description |
 | --- | --- |
-| [SetTextRise](settextrise)(double) |  |
+| [SetTextRise](settextrise)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [TextRise](../../aspose.pdf.operators/settextrise/textrise) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [TextRise](../../aspose.pdf.operators/settextrise/textrise) { get; set; } | Gets or sets the text rise. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrise/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

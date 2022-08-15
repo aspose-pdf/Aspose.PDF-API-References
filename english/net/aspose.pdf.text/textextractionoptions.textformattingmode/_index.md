@@ -1,12 +1,14 @@
 ---
 title: TextExtractionOptions.TextFormattingMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines different modes which can be used while converting pdf document into text. See TextDevice class.
 type: docs
 weight: 7010
 url: /net/aspose.pdf.text/textextractionoptions.textformattingmode/
 ---
 ## TextExtractionOptions.TextFormattingMode enumeration
+
+Defines different modes which can be used while converting pdf document into text. See !:TextDevice class.
 
 ```csharp
 public enum TextFormattingMode
@@ -16,9 +18,9 @@ public enum TextFormattingMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Pure | `0` |  |
-| Raw | `1` |  |
-| MemorySaving | `2` |  |
+| Pure | `0` | Represent pdf content with a bit of formatting routines. |
+| Raw | `1` | Represent pdf content as is, i.e. without formatting. |
+| MemorySaving | `2` | Extraction with memory saving. It is almost same to 'Raw' mode but works slightly faster and uses less memory. |
 
 ### See Also
 

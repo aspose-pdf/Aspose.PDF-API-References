@@ -1,14 +1,14 @@
 ---
 title: PdfConverter
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes new PdfConverteraspose.pdf.facades/pdfconverter object.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfconverter/pdfconverter/
 ---
 ## PdfConverter() {#constructor}
 
-The default constructor.
+Initializes new [`PdfConverter`](../../pdfconverter) object.
 
 ```csharp
 public PdfConverter()
@@ -24,9 +24,15 @@ public PdfConverter()
 
 ## PdfConverter(Document) {#constructor_1}
 
+Initializes new [`PdfConverter`](../../pdfconverter) object on base of the *document*.
+
 ```csharp
 public PdfConverter(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Pdf document. |
 
 ### See Also
 

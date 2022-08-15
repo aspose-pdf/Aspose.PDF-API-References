@@ -1,15 +1,33 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets value by key.
 type: docs
 weight: 70
 url: /net/aspose.pdf.facades/pdfxmpmetadata/item/
 ---
 ## PdfXmpMetadata indexer (1 of 2)
 
+Gets or sets value by key.
+
 ```csharp
 public XmpValue this[string key] { get; set; }
+```
+
+| Parameter | Description |
+| --- | --- |
+| key | The key name to get/set. |
+
+### Return Value
+
+Object by key
+
+### Examples
+
+```csharp
+PdfXmpMetadata pxm = new PdfXmpMetadata();
+pxm.BindPdf("PdfFile.pdf");
+Console.WriteLine(pxm["xmp:Nickname"]);
 ```
 
 ### See Also
@@ -23,8 +41,26 @@ public XmpValue this[string key] { get; set; }
 
 ## PdfXmpMetadata indexer (2 of 2)
 
+Gets value of XMP metadata by key.
+
 ```csharp
 public XmpValue this[DefaultMetadataProperties key] { get; set; }
+```
+
+| Parameter | Description |
+| --- | --- |
+| key | Key of the value. |
+
+### Return Value
+
+Value from XMP metadata.
+
+### Examples
+
+```csharp
+PdfXmpMetadata pxm = new PdfXmpMetadata();
+pxm.BindPdf("PdfFile.pdf");
+Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 ```
 
 ### See Also

@@ -1,12 +1,14 @@
 ---
 title: Placement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Placement attribute Layout attribute owner.
 type: docs
 weight: 230
 url: /net/aspose.pdf.logicalstructure/attributekey/placement/
 ---
 ## AttributeKey.Placement field
+
+Placement attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey Placement;

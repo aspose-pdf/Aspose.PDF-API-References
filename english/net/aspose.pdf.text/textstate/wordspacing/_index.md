@@ -1,12 +1,14 @@
 ---
 title: WordSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets word spacing of the text.
 type: docs
 weight: 180
 url: /net/aspose.pdf.text/textstate/wordspacing/
 ---
 ## TextState.WordSpacing property
+
+Gets or sets word spacing of the text.
 
 ```csharp
 public virtual float WordSpacing { get; set; }

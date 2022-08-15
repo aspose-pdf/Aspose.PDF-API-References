@@ -1,12 +1,14 @@
 ---
 title: Headers
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Headers attribute Table attribute owner.
 type: docs
 weight: 170
 url: /net/aspose.pdf.logicalstructure/attributekey/headers/
 ---
 ## AttributeKey.Headers field
+
+Headers attribute (Table attribute owner).
 
 ```csharp
 public static readonly AttributeKey Headers;

@@ -1,12 +1,14 @@
 ---
 title: FontStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets font style of the text represented by the TextFragmentaspose.pdf.text/textfragment object
 type: docs
 weight: 70
 url: /net/aspose.pdf.text/textfragmentstate/fontstyle/
 ---
 ## TextFragmentState.FontStyle property
+
+Sets font style of the text, represented by the [`TextFragment`](../../textfragment) object
 
 ```csharp
 public override FontStyles FontStyle { get; set; }

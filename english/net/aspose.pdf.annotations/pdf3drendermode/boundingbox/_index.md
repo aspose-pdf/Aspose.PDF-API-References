@@ -1,12 +1,14 @@
 ---
 title: BoundingBox
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The BoundingBox render mode.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/pdf3drendermode/boundingbox/
 ---
 ## PDF3DRenderMode.BoundingBox field
+
+The "BoundingBox" render mode.
 
 ```csharp
 public static PDF3DRenderMode BoundingBox;

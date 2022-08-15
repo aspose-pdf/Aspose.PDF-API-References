@@ -1,12 +1,14 @@
 ---
 title: Measure.NumberFormat.FractionStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Value which indicates in which manner fraction values are displayed.
 type: docs
 weight: 620
 url: /net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
 ---
 ## Measure.NumberFormat.FractionStyle enumeration
+
+Value which indicates in which manner fraction values are displayed.
 
 ```csharp
 public enum FractionStyle
@@ -16,10 +18,10 @@ public enum FractionStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ShowAsDecimal | `0` |  |
-| ShowAsFraction | `1` |  |
-| Round | `2` |  |
-| Truncate | `3` |  |
+| ShowAsDecimal | `0` | Show fractional values as decimal fraction. |
+| ShowAsFraction | `1` | Show fractional value as fraction. |
+| Round | `2` | Round fractional values to the nearest whole integer. |
+| Truncate | `3` | Truncate to achieve whole units. |
 
 ### See Also
 

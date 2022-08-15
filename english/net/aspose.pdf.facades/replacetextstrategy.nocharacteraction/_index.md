@@ -1,12 +1,14 @@
 ---
 title: ReplaceTextStrategy.NoCharacterAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Action to perform if font does not contain required character
 type: docs
 weight: 2640
 url: /net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
 ## ReplaceTextStrategy.NoCharacterAction enumeration
+
+Action to perform if font does not contain required character
 
 ```csharp
 public enum NoCharacterAction
@@ -16,9 +18,9 @@ public enum NoCharacterAction
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ThrowException | `0` |  |
-| UseStandardFont | `1` |  |
-| ReplaceAnyway | `2` |  |
+| ThrowException | `0` | Throw exception |
+| UseStandardFont | `1` | Repalce font to standard font which contains required character |
+| ReplaceAnyway | `2` | Replace text anyway without font substitution |
 
 ### See Also
 

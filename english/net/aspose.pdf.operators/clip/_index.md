@@ -1,12 +1,14 @@
 ---
 title: Clip
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing W operator set clipping path using non-zero winding rule.
 type: docs
 weight: 4910
 url: /net/aspose.pdf.operators/clip/
 ---
 ## Clip class
+
+Class representing W operator (set clipping path using non-zero winding rule).
 
 ```csharp
 public class Clip : Operator
@@ -16,20 +18,20 @@ public class Clip : Operator
 
 | Name | Description |
 | --- | --- |
-| [Clip](clip)() | The default constructor. |
+| [Clip](clip)() | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/clip/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/clip/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/clip/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/clip/tostring)() | Returns text representation of operators. |
 
 ### See Also
 

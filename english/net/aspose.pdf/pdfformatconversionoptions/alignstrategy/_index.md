@@ -1,12 +1,14 @@
 ---
 title: AlignStrategy
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Strategy to align text. This parameter has sense only when flag AlignTextaspose.pdf/pdfformatconversionoptions/aligntext is set to true.
 type: docs
 weight: 220
 url: /net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
 ---
 ## PdfFormatConversionOptions.AlignStrategy field
+
+Strategy to align text. This parameter has sense only when flag [`AlignText`](../aligntext) is set to true.
 
 ```csharp
 public SegmentAlignStrategy AlignStrategy;

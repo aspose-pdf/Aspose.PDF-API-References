@@ -1,12 +1,14 @@
 ---
 title: AnnotationType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets type of annotation.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/redactionannotation/annotationtype/
 ---
 ## RedactionAnnotation.AnnotationType property
+
+Gets type of annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }

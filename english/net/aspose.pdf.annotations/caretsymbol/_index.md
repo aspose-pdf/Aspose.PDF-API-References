@@ -1,12 +1,14 @@
 ---
 title: CaretSymbol
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: A symbol to be associated with the caret.
 type: docs
 weight: 180
 url: /net/aspose.pdf.annotations/caretsymbol/
 ---
 ## CaretSymbol enumeration
+
+A symbol to be associated with the caret.
 
 ```csharp
 public enum CaretSymbol
@@ -16,8 +18,8 @@ public enum CaretSymbol
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Paragraph | `1` |  |
+| None | `0` | No symbol should be associated with the caret. |
+| Paragraph | `1` | A new paragraph symbol (�) should be associated with the caret. |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: PdfFileMend
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdffilemend/pdffilemend/
 ---
 ## PdfFileMend() {#constructor}
 
-The default constructor.
+Constructor.
 
 ```csharp
 public PdfFileMend()
@@ -24,9 +24,15 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
+Initializes new [`PdfFileMend`](../../pdffilemend) object on base of the *document*.
+
 ```csharp
 public PdfFileMend(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Pdf document. |
 
 ### See Also
 

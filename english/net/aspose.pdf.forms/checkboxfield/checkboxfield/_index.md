@@ -1,16 +1,23 @@
 ---
 title: CheckboxField
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor for CheckboxField class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/checkboxfield/checkboxfield/
 ---
 ## CheckboxField(Page, Rectangle) {#constructor_3}
 
+Constructor for CheckboxField class.
+
 ```csharp
 public CheckboxField(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where check box will be placed. |
+| rect | Rectangle | Position and size of the check box. |
 
 ### See Also
 
@@ -24,9 +31,16 @@ public CheckboxField(Page page, Rectangle rect)
 
 ## CheckboxField(Document, Rectangle) {#constructor_2}
 
+Constructor for CheckboxField class.
+
 ```csharp
 public CheckboxField(Document doc, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where will be new field created. |
+| rect | Rectangle | Rectangle where new field will be created. |
 
 ### See Also
 
@@ -40,7 +54,7 @@ public CheckboxField(Document doc, Rectangle rect)
 
 ## CheckboxField() {#constructor}
 
-The default constructor.
+Create instance of CheckboxField.
 
 ```csharp
 public CheckboxField()
@@ -56,9 +70,15 @@ public CheckboxField()
 
 ## CheckboxField(Document) {#constructor_1}
 
+Constructor to use with Generator.
+
 ```csharp
 public CheckboxField(Document doc)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: LoadFonts
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. By default fonts are loaded on first request for any font. Use of this method loads system and standard Pdf fonts immediately before any Pdf document was open.
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/fontrepository/loadfonts/
 ---
 ## FontRepository.LoadFonts method
+
+Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. By default fonts are loaded on first request for any font. Use of this method loads system and standard Pdf fonts immediately before any Pdf document was open.
 
 ```csharp
 public static void LoadFonts()

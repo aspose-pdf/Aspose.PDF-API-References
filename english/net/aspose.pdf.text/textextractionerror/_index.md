@@ -1,12 +1,14 @@
 ---
 title: TextExtractionError
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Describes the text extraction error has appeared in the PDF document.
 type: docs
 weight: 6980
 url: /net/aspose.pdf.text/textextractionerror/
 ---
 ## TextExtractionError class
+
+Describes the text extraction error has appeared in the PDF document.
 
 ```csharp
 public sealed class TextExtractionError
@@ -16,18 +18,18 @@ public sealed class TextExtractionError
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.pdf.text/textextractionerror/description) { get; } |  |
-| [ExtractedText](../../aspose.pdf.text/textextractionerror/extractedtext) { get; } |  |
-| [FontKey](../../aspose.pdf.text/textextractionerror/fontkey) { get; } |  |
-| [FontName](../../aspose.pdf.text/textextractionerror/fontname) { get; } |  |
-| [Location](../../aspose.pdf.text/textextractionerror/location) { get; } |  |
-| [Summary](../../aspose.pdf.text/textextractionerror/summary) { get; } |  |
+| [Description](../../aspose.pdf.text/textextractionerror/description) { get; } | Expanded description of the error. |
+| [ExtractedText](../../aspose.pdf.text/textextractionerror/extractedtext) { get; } | Text that was actually extracted. |
+| [FontKey](../../aspose.pdf.text/textextractionerror/fontkey) { get; } | Key (PDF name) of the Font object that is used for showing text that causes extraction error. |
+| [FontName](../../aspose.pdf.text/textextractionerror/fontname) { get; } | Readable (internal) name of the Font object that is used for showing text that causes extraction error. |
+| [Location](../../aspose.pdf.text/textextractionerror/location) { get; } | Location of the error. |
+| [Summary](../../aspose.pdf.text/textextractionerror/summary) { get; } | Brief description of the error. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.text/textextractionerror/tostring)() |  |
+| override [ToString](../../aspose.pdf.text/textextractionerror/tostring)() | Returns string representation. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: SolidWireframe
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The SolidWireFrame render mode.
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/pdf3drendermode/solidwireframe/
 ---
 ## PDF3DRenderMode.SolidWireframe field
+
+The "SolidWireFrame" render mode.
 
 ```csharp
 public static PDF3DRenderMode SolidWireframe;

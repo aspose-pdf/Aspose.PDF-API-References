@@ -1,12 +1,14 @@
 ---
 title: Action
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: An action to be performed when the link annotation is activated.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/linkannotation/action/
 ---
 ## LinkAnnotation.Action property
+
+An action to be performed when the link annotation is activated.
 
 ```csharp
 public PdfAction Action { get; set; }

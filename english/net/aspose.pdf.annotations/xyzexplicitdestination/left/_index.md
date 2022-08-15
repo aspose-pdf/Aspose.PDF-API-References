@@ -1,12 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets left horizontal coordinate of the upper-left corner of the window.
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/xyzexplicitdestination/left/
 ---
 ## XYZExplicitDestination.Left property
+
+Gets left horizontal coordinate of the upper-left corner of the window.
 
 ```csharp
 public double Left { get; }

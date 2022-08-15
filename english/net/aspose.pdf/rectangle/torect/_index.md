@@ -1,16 +1,22 @@
 ---
 title: ToRect
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated.
 type: docs
 weight: 250
 url: /net/aspose.pdf/rectangle/torect/
 ---
 ## Rectangle.ToRect method
 
+Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated.
+
 ```csharp
 public Rectangle ToRect()
 ```
+
+### Return Value
+
+Result of conversion.
 
 ### See Also
 

@@ -1,16 +1,23 @@
 ---
 title: BorderInfo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes a new instance of the BorderInfoaspose.pdf/borderinfo class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
+Initializes a new instance of the [`BorderInfo`](../../borderinfo) class.
+
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide | BorderSide | Indicates the border sides info. For example: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderColor | Color | The border color. |
 
 ### See Also
 
@@ -24,7 +31,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ## BorderInfo() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`BorderInfo`](../../borderinfo) class.
 
 ```csharp
 public BorderInfo()
@@ -40,9 +47,15 @@ public BorderInfo()
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
+Initializes a new instance of the [`BorderInfo`](../../borderinfo) class.
+
 ```csharp
 public BorderInfo(BorderSide borderSide)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide | BorderSide | Indicates the border sides info. For example: (BorderSide.Left &#x7C; BorderSide.Top). |
 
 ### See Also
 
@@ -55,9 +68,16 @@ public BorderInfo(BorderSide borderSide)
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
+Initializes a new instance of the [`BorderInfo`](../../borderinfo) class.
+
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide | BorderSide | Indicates the border sides info. For example: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | The width of the border. |
 
 ### See Also
 
@@ -70,9 +90,17 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
+Initializes a new instance of the [`BorderInfo`](../../borderinfo) class.
+
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide | BorderSide | Indicates the border sides info. For example: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | The width of the border. |
+| borderColor | Color | The border color. |
 
 ### See Also
 
@@ -86,9 +114,16 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
+Initializes a new instance of the [`BorderInfo`](../../borderinfo) class.
+
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide | BorderSide | Indicates the border sides info. For example: (BorderSide.Left &#x7C; BorderSide.Top). |
+| info | GraphInfo | The border info. |
 
 ### See Also
 

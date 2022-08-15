@@ -1,12 +1,14 @@
 ---
 title: SetWordSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing Tw operator set word spacing.
 type: docs
 weight: 5570
 url: /net/aspose.pdf.operators/setwordspacing/
 ---
 ## SetWordSpacing class
+
+Class representing Tw operator (set word spacing).
 
 ```csharp
 public class SetWordSpacing : TextStateOperator
@@ -16,21 +18,21 @@ public class SetWordSpacing : TextStateOperator
 
 | Name | Description |
 | --- | --- |
-| [SetWordSpacing](setwordspacing)(double) |  |
+| [SetWordSpacing](setwordspacing)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [WordSpacing](../../aspose.pdf.operators/setwordspacing/wordspacing) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [WordSpacing](../../aspose.pdf.operators/setwordspacing/wordspacing) { get; set; } | Gets or sets the word spacing. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setwordspacing/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setwordspacing/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

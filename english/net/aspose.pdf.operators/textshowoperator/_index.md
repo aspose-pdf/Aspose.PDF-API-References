@@ -1,12 +1,14 @@
 ---
 title: TextShowOperator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Abstract base class for all operators which used to out text Tj TJ etc.
 type: docs
 weight: 5630
 url: /net/aspose.pdf.operators/textshowoperator/
 ---
 ## TextShowOperator class
+
+Abstract base class for all operators which used to out text (Tj, TJ, etc).
 
 ```csharp
 public class TextShowOperator : TextOperator
@@ -16,22 +18,22 @@ public class TextShowOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextShowOperator](textshowoperator#constructor)() | The default constructor. |
-| [TextShowOperator](textshowoperator#constructor_1)(TextProperties) |  |
+| [TextShowOperator](textshowoperator#constructor)() | Initializes TextShowOperator. |
+| [TextShowOperator](textshowoperator#constructor_1)(TextProperties) | Initializes TextShowOperator which allows to pass TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| virtual [Text](../../aspose.pdf.operators/textshowoperator/text) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| virtual [Text](../../aspose.pdf.operators/textshowoperator/text) { get; set; } | Gets text which operator out on the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

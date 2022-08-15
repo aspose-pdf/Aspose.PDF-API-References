@@ -1,17 +1,24 @@
 ---
 title: PdfXmpMetadata
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor for PdfXmpMetadata.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/
 ---
 ## PdfXmpMetadata() {#constructor}
 
-The default constructor.
+Constructor for PdfXmpMetadata.
 
 ```csharp
 public PdfXmpMetadata()
+```
+
+### Examples
+
+```csharp
+PdfXmlMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
 ```
 
 ### See Also
@@ -24,9 +31,15 @@ public PdfXmpMetadata()
 
 ## PdfXmpMetadata(Document) {#constructor_1}
 
+Initializes new [`PdfXmpMetadata`](../../pdfxmpmetadata) object on base of the *document*.
+
 ```csharp
 public PdfXmpMetadata(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Pdf document. |
 
 ### See Also
 

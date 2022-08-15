@@ -1,15 +1,30 @@
 ---
 title: ExportXml
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Exports the content of the fields of the pdf into the xml stream. The button fields value will not be exported.
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/form/exportxml/
 ---
 ## Form.ExportXml method
 
+Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported.
+
 ```csharp
 public void ExportXml(Stream outputXmlStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputXmlStream | Stream | Output Xml stream. |
+
+### Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf"));
+FileStream fs = new FileStream("export.xml", FileMode.Create, FileAccess.Write);
+form.ExportXml(fs);
+fs.Close();
 ```
 
 ### See Also

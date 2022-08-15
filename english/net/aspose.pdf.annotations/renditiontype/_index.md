@@ -1,12 +1,14 @@
 ---
 title: RenditionType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumeration describes possible types of Rendition.
 type: docs
 weight: 960
 url: /net/aspose.pdf.annotations/renditiontype/
 ---
 ## RenditionType enumeration
+
+Enumeration describes possible types of Rendition.
 
 ```csharp
 public enum RenditionType
@@ -16,9 +18,9 @@ public enum RenditionType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Media | `0` |  |
-| Selector | `1` |  |
-| Undefined | `2` |  |
+| Media | `0` | Media rendition object. |
+| Selector | `1` | Selector rendition object. |
+| Undefined | `2` | Rendition type is undefined. |
 
 ### See Also
 

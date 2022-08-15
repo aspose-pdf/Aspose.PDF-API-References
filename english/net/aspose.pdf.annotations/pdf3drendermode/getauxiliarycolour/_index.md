@@ -1,16 +1,22 @@
 ---
 title: GetAuxiliaryColour
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the auxiliary colour.
 type: docs
 weight: 170
 url: /net/aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/
 ---
 ## PDF3DRenderMode.GetAuxiliaryColour method
 
+Gets the auxiliary colour.
+
 ```csharp
 public Color GetAuxiliaryColour()
 ```
+
+### Return Value
+
+Color.
 
 ### See Also
 

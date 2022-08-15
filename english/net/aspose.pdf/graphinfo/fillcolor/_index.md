@@ -1,12 +1,14 @@
 ---
 title: FillColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a Coloraspose.pdf/graphinfo/color object that indicates the fill color of the graph.
 type: docs
 weight: 50
 url: /net/aspose.pdf/graphinfo/fillcolor/
 ---
 ## GraphInfo.FillColor property
+
+Gets or sets a [`Color`](../color) object that indicates the fill color of the graph.
 
 ```csharp
 public Color FillColor { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: None
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The None lighting scheme.
 type: docs
 weight: 100
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/none/
 ---
 ## PDF3DLightingScheme.None field
+
+The "None" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme None;

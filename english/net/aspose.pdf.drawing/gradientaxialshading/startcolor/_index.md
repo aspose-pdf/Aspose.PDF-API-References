@@ -1,12 +1,14 @@
 ---
 title: StartColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets start color.
 type: docs
 weight: 50
 url: /net/aspose.pdf.drawing/gradientaxialshading/startcolor/
 ---
 ## GradientAxialShading.StartColor property
+
+Gets or sets start color.
 
 ```csharp
 public Color StartColor { get; set; }

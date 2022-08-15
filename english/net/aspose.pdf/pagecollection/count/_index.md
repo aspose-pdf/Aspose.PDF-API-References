@@ -1,12 +1,14 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets count of pages in the document.
 type: docs
 weight: 10
 url: /net/aspose.pdf/pagecollection/count/
 ---
 ## PageCollection.Count property
+
+Gets count of pages in the document.
 
 ```csharp
 public int Count { get; }

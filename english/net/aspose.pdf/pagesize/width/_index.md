@@ -1,12 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets page width.
 type: docs
 weight: 160
 url: /net/aspose.pdf/pagesize/width/
 ---
 ## PageSize.Width property
+
+Gets or sets page width.
 
 ```csharp
 public float Width { get; set; }

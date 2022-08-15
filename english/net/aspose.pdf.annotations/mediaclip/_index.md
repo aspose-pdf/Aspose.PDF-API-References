@@ -1,12 +1,14 @@
 ---
 title: MediaClip
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class describes media clip object of rendition.
 type: docs
 weight: 640
 url: /net/aspose.pdf.annotations/mediaclip/
 ---
 ## MediaClip class
+
+Class describes media clip object of rendition.
 
 ```csharp
 public class MediaClip

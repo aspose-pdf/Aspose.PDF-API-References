@@ -1,12 +1,14 @@
 ---
 title: Alignment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the alignment.
 type: docs
 weight: 20
 url: /net/aspose.pdf/cell/alignment/
 ---
 ## Cell.Alignment property
+
+Gets or sets the alignment.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: Rtf_105
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: RTF-1.05 attribute owner.
 type: docs
 weight: 90
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/
 ---
 ## AttributeOwnerStandard.Rtf_105 field
+
+RTF-1.05 attribute owner.
 
 ```csharp
 public static readonly AttributeOwnerStandard Rtf_105;

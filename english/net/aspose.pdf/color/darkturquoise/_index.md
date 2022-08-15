@@ -1,16 +1,22 @@
 ---
 title: DarkTurquoise
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets a system-defined color that has an ARGB value of FF00CED1.
 type: docs
 weight: 380
 url: /net/aspose.pdf/color/darkturquoise/
 ---
 ## Color.DarkTurquoise property
 
+Gets a system-defined color that has an ARGB value of #FF00CED1.
+
 ```csharp
 public static Color DarkTurquoise { get; }
 ```
+
+### Return Value
+
+A representing a system-defined color.
 
 ### See Also
 

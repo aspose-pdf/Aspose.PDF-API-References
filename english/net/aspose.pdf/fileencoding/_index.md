@@ -1,12 +1,14 @@
 ---
 title: FileEncoding
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Encoding of the attached file. Possible values Zip - file is compressed with ZIP None - file is non compressed.
 type: docs
 weight: 2740
 url: /net/aspose.pdf/fileencoding/
 ---
 ## FileEncoding enumeration
+
+Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed.
 
 ```csharp
 public enum FileEncoding
@@ -16,8 +18,8 @@ public enum FileEncoding
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Zip | `1` |  |
+| None | `0` | File is not compressed. |
+| Zip | `1` | File is compressed with ZIP algorithhm. |
 
 ### See Also
 

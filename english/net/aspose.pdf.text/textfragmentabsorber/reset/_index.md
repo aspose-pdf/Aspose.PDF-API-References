@@ -1,12 +1,14 @@
 ---
 title: Reset
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clears TextFragments collection of this TextFragmentAbsorberaspose.pdf.text/textfragmentabsorber object.
 type: docs
 weight: 130
 url: /net/aspose.pdf.text/textfragmentabsorber/reset/
 ---
 ## TextFragmentAbsorber.Reset method
+
+Clears TextFragments collection of this [`TextFragmentAbsorber`](../../textfragmentabsorber) object.
 
 ```csharp
 public void Reset()

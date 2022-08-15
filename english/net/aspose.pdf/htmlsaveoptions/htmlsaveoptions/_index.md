@@ -1,14 +1,14 @@
 ---
 title: HtmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the HtmlSaveOptionsaspose.pdf/htmlsaveoptions class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
 ---
 ## HtmlSaveOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`HtmlSaveOptions`](../../htmlsaveoptions) class.
 
 ```csharp
 public HtmlSaveOptions()
@@ -24,9 +24,15 @@ public HtmlSaveOptions()
 
 ## HtmlSaveOptions(HtmlDocumentType) {#constructor_1}
 
+Initializes a new instance of the [`HtmlSaveOptions`](../../htmlsaveoptions) class.
+
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documentType | HtmlDocumentType | The [`HtmlDocumentType`](../../htmldocumenttype). |
 
 ### See Also
 
@@ -39,9 +45,15 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 
 ## HtmlSaveOptions(bool) {#constructor_3}
 
+Initializes a new instance of the [`HtmlSaveOptions`](../../htmlsaveoptions) class.
+
 ```csharp
 public HtmlSaveOptions(bool fixedLayout)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fixedLayout | Boolean | if set to `true` HTML is created as fixed layout. |
 
 ### See Also
 
@@ -53,9 +65,16 @@ public HtmlSaveOptions(bool fixedLayout)
 
 ## HtmlSaveOptions(HtmlDocumentType, bool) {#constructor_2}
 
+Initializes a new instance of the [`HtmlSaveOptions`](../../htmlsaveoptions) class.
+
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documentType | HtmlDocumentType | The [`HtmlDocumentType`](../../htmldocumenttype). |
+| fixedLayout | Boolean | if set to `true` HTML is created as fixed layout. |
 
 ### See Also
 

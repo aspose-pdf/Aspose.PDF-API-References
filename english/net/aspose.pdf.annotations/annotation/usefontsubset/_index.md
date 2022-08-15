@@ -1,12 +1,14 @@
 ---
 title: UseFontSubset
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If this property set to true fonts will be added to document as subsets. Default value is true.
 type: docs
 weight: 240
 url: /net/aspose.pdf.annotations/annotation/usefontsubset/
 ---
 ## Annotation.UseFontSubset property
+
+If this property set to true, fonts will be added to document as subsets. Default value is true.
 
 ```csharp
 public static bool UseFontSubset { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: TPadding
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: TPadding attribute Layout attribute owner.
 type: docs
 weight: 390
 url: /net/aspose.pdf.logicalstructure/attributekey/tpadding/
 ---
 ## AttributeKey.TPadding field
+
+TPadding attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey TPadding;

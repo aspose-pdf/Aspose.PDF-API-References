@@ -1,12 +1,14 @@
 ---
 title: CryptoAlgorithm
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represent type of cryptographic algorithm that used in encryption/decryption routines.
 type: docs
 weight: 1550
 url: /net/aspose.pdf/cryptoalgorithm/
 ---
 ## CryptoAlgorithm enumeration
+
+Represent type of cryptographic algorithm that used in encryption/decryption routines.
 
 ```csharp
 public enum CryptoAlgorithm
@@ -16,10 +18,10 @@ public enum CryptoAlgorithm
 
 | Name | Value | Description |
 | --- | --- | --- |
-| RC4x40 | `0` |  |
-| RC4x128 | `1` |  |
-| AESx128 | `2` |  |
-| AESx256 | `3` |  |
+| RC4x40 | `0` | RC4 with key length 40. |
+| RC4x128 | `1` | RC4 with key length 128. |
+| AESx128 | `2` | AES with key length 128. |
+| AESx256 | `3` | AES with key length 256. |
 
 ### See Also
 

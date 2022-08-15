@@ -1,12 +1,14 @@
 ---
 title: Color
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Color of the text.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/textstyle/color/
 ---
 ## TextStyle.Color property
+
+Color of the text.
 
 ```csharp
 public Color Color { get; set; }

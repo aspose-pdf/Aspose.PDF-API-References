@@ -1,12 +1,14 @@
 ---
 title: BorderThickness
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: BorderThickness attribute Layout attribute owner.
 type: docs
 weight: 70
 url: /net/aspose.pdf.logicalstructure/attributekey/borderthickness/
 ---
 ## AttributeKey.BorderThickness field
+
+BorderThickness attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey BorderThickness;

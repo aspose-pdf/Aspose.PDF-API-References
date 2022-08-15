@@ -1,16 +1,26 @@
 ---
 title: OpenStream
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initialize and return new Document instance from the input stream.
 type: docs
 weight: 30
 url: /net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
+Initialize and return new Document instance from the *input* stream.
+
 ```csharp
 public Document OpenStream(Stream input)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Stream with pdf document. |
+
+### Return Value
+
+Document object
 
 ### See Also
 
@@ -23,9 +33,20 @@ public Document OpenStream(Stream input)
 
 ## OpenStream(Stream, string) {#openstream_3}
 
+Initialize and return new Document instance from the *input* stream.
+
 ```csharp
 public Document OpenStream(Stream input, string password)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream object, corresponding pdf is password protected. |
+| password | String | User or owner password. |
+
+### Return Value
+
+Document object
 
 ### See Also
 
@@ -38,9 +59,20 @@ public Document OpenStream(Stream input, string password)
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
+Initialize and return new Document instance from the *input* stream.
+
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Stream with pdf document. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### Return Value
+
+Document object
 
 ### See Also
 
@@ -53,9 +85,21 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
+Initialize and return new Document instance from the *input* stream.
+
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Stream with pdf document. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### Return Value
+
+Document object
 
 ### See Also
 
@@ -68,9 +112,20 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 ## OpenStream(Stream, LoadOptions) {#openstream_1}
 
+Open and return an existing document from a stream providing necessary converting to get pdf document.
+
 ```csharp
 public Document OpenStream(Stream input, LoadOptions options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream to convert into pdf document. |
+| options | LoadOptions | Represents properties for converting *input* into pdf document. |
+
+### Return Value
+
+Document object
 
 ### See Also
 

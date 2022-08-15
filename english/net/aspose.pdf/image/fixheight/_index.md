@@ -1,12 +1,14 @@
 ---
 title: FixHeight
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the image height.
 type: docs
 weight: 40
 url: /net/aspose.pdf/image/fixheight/
 ---
 ## Image.FixHeight property
+
+Gets or sets the image height.
 
 ```csharp
 public double FixHeight { get; set; }

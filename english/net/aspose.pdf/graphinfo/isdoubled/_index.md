@@ -1,12 +1,14 @@
 ---
 title: IsDoubled
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets is border doubled.
 type: docs
 weight: 60
 url: /net/aspose.pdf/graphinfo/isdoubled/
 ---
 ## GraphInfo.IsDoubled property
+
+Gets or sets is border doubled.
 
 ```csharp
 public bool IsDoubled { get; set; }

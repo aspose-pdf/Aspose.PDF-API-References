@@ -1,12 +1,14 @@
 ---
 title: SaveOptions.HtmlBorderLineType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents line types that can be used in result document for drawing borders or another lines
 type: docs
 weight: 6270
 url: /net/aspose.pdf/saveoptions.htmlborderlinetype/
 ---
 ## SaveOptions.HtmlBorderLineType enumeration
+
+Represents line types that can be used in result document for drawing borders or another lines
 
 ```csharp
 public enum HtmlBorderLineType
@@ -16,15 +18,15 @@ public enum HtmlBorderLineType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Dotted | `1` |  |
-| Dashed | `2` |  |
-| Solid | `3` |  |
-| Double | `4` |  |
-| Groove | `5` |  |
-| Ridge | `6` |  |
-| Inset | `7` |  |
-| Outset | `8` |  |
+| None | `0` | No line will be shown |
+| Dotted | `1` | dotted line will be shown |
+| Dashed | `2` | dashed line will be shown |
+| Solid | `3` | solid line will be shown |
+| Double | `4` | double line will be shown |
+| Groove | `5` | grove line will be shown |
+| Ridge | `6` | ridhe line will be shown |
+| Inset | `7` | inset line will be shown |
+| Outset | `8` | outset line will be shown |
 
 ### See Also
 

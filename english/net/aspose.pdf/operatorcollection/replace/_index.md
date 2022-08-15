@@ -1,16 +1,22 @@
 ---
 title: Replace
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Replace operators in collection with other operators.
 type: docs
 weight: 150
 url: /net/aspose.pdf/operatorcollection/replace/
 ---
 ## OperatorCollection.Replace method
 
+Replace operators in collection with other operators.
+
 ```csharp
 public void Replace(IList<Operator> operators)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| operators | IList`1 | Operators list which will replace operators currently contained in the collection. Eash operator from the list must have correct index in range [1..N] where N is count of operators in the collection |
 
 ### See Also
 

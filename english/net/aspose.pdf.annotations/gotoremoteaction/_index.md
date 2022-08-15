@@ -1,12 +1,14 @@
 ---
 title: GoToRemoteAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents a remote go-to action that is similar to an ordinary go-to action but jumps to a destination in another PDF file instead of the current file.
 type: docs
 weight: 410
 url: /net/aspose.pdf.annotations/gotoremoteaction/
 ---
 ## GoToRemoteAction class
+
+Represents a remote go-to action that is similar to an ordinary go-to action but jumps to a destination in another PDF file instead of the current file.
 
 ```csharp
 public sealed class GoToRemoteAction : GoToAction
@@ -16,17 +18,17 @@ public sealed class GoToRemoteAction : GoToAction
 
 | Name | Description |
 | --- | --- |
-| [GoToRemoteAction](gotoremoteaction#constructor)(string, ExplicitDestination) |  |
-| [GoToRemoteAction](gotoremoteaction#constructor_1)(string, int) |  |
+| [GoToRemoteAction](gotoremoteaction#constructor)(string, ExplicitDestination) | Initializes GoToRemoteAction object. |
+| [GoToRemoteAction](gotoremoteaction#constructor_1)(string, int) | Initializes GoToRemoteAction object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination) { get; set; } |  |
-| [File](../../aspose.pdf.annotations/gotoremoteaction/file) { get; set; } |  |
-| [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow) { get; set; } |  |
-| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } |  |
+| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination) { get; set; } | Gets or sets the destination to jump to. |
+| [File](../../aspose.pdf.annotations/gotoremoteaction/file) { get; set; } | Gets or sets the specification of the file in which the destination is located. |
+| [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Next actions in sequence. |
 
 ### See Also
 

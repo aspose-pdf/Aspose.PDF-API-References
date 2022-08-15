@@ -1,12 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clears all items from the collection.
 type: docs
 weight: 80
 url: /net/aspose.pdf/ximagecollection/clear/
 ---
 ## XImageCollection.Clear method
+
+Clears all items from the collection.
 
 ```csharp
 public void Clear()

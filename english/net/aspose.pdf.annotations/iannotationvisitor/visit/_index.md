@@ -1,16 +1,22 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Visit/select link annotation.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_7}
 
+Visit/select link annotation.
+
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| link | LinkAnnotation | LinkAnnotation object example/template. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_2}
 
+Visit/select attachment annotation.
+
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation object example/template. |
 
 ### See Also
 
@@ -38,9 +50,15 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ## Visit(TextAnnotation) {#visit_17}
 
+Visit/select text annotation.
+
 ```csharp
 public void Visit(TextAnnotation text)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | TextAnnotation | TextAnnotation object example/template. |
 
 ### See Also
 
@@ -53,9 +71,15 @@ public void Visit(TextAnnotation text)
 
 ## Visit(FreeTextAnnotation) {#visit_3}
 
+Visit/select freetext annotation.
+
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| freetext | FreeTextAnnotation | FreeTextAnnotation object example/template. |
 
 ### See Also
 
@@ -68,9 +92,15 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_4}
 
+Visit/select highlight annotation.
+
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| highlight | HighlightAnnotation | HighlightAnnotation object example/template. |
 
 ### See Also
 
@@ -83,9 +113,15 @@ public void Visit(HighlightAnnotation highlight)
 
 ## Visit(UnderlineAnnotation) {#visit_18}
 
+Visit/select underline annotation.
+
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| underline | UnderlineAnnotation | UnderlineAnnotation object example/template. |
 
 ### See Also
 
@@ -98,9 +134,15 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_16}
 
+Visit/select strikeOut annotation.
+
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation object example/template. |
 
 ### See Also
 
@@ -113,9 +155,15 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_14}
 
+Visit/select squiggly annotation.
+
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| squiggly | SquigglyAnnotation | SquigglyAnnotation object example/template. |
 
 ### See Also
 
@@ -128,9 +176,15 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_11}
 
+Visit/select popup annotation.
+
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| popup | PopupAnnotation | PopupAnnotation object example/template. |
 
 ### See Also
 
@@ -143,9 +197,15 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_6}
 
+Visit/select line annotation.
+
 ```csharp
 public void Visit(LineAnnotation line)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| line | LineAnnotation | LineAnnotation object example/template. |
 
 ### See Also
 
@@ -158,9 +218,15 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_1}
 
+Visit/select circle annotation.
+
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| circle | CircleAnnotation | CircleAnnotation object example/template. |
 
 ### See Also
 
@@ -173,9 +239,15 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_13}
 
+Visit/select square annotation.
+
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| square | SquareAnnotation | SquareAnnotation object example/template. |
 
 ### See Also
 
@@ -188,9 +260,15 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_5}
 
+Visit/select ink annotation.
+
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ink | InkAnnotation | InkAnnotation object example/template. |
 
 ### See Also
 
@@ -203,9 +281,15 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_10}
 
+Visit/select polyline annotation.
+
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| polyline | PolylineAnnotation | PolylineAnnotation object example/template. |
 
 ### See Also
 
@@ -218,9 +302,15 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_9}
 
+Visit/select polygon annotation.
+
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| polygon | PolygonAnnotation | PolygonAnnotation object example/template. |
 
 ### See Also
 
@@ -233,9 +323,15 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit}
 
+Visit/select caret annotation.
+
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| caret | CaretAnnotation | CaretAnnotation object example/template. |
 
 ### See Also
 
@@ -248,9 +344,15 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_15}
 
+Visit/select stamp annotation.
+
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stamp | StampAnnotation | StampAnnotation object example/template. |
 
 ### See Also
 
@@ -263,9 +365,15 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_19}
 
+Visit/select widget annotation.
+
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| widget | WidgetAnnotation | WidgetAnnotation object example/template. |
 
 ### See Also
 
@@ -278,9 +386,15 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(MovieAnnotation) {#visit_8}
 
+Visit/select movie annotation.
+
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| movie | MovieAnnotation | MovieAnnotation object example/template. |
 
 ### See Also
 
@@ -293,9 +407,15 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(ScreenAnnotation) {#visit_12}
 
+Visit/select screen annotation.
+
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| screen | ScreenAnnotation | ScreenAnnotation object example/template. |
 
 ### See Also
 

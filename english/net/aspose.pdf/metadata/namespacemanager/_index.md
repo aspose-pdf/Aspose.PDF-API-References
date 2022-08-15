@@ -1,12 +1,14 @@
 ---
 title: NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets namespace manager.
 type: docs
 weight: 80
 url: /net/aspose.pdf/metadata/namespacemanager/
 ---
 ## Metadata.NamespaceManager property
+
+Gets namespace manager.
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }

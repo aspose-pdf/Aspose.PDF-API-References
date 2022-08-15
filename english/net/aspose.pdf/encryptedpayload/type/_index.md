@@ -1,12 +1,14 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets type.
 type: docs
 weight: 30
 url: /net/aspose.pdf/encryptedpayload/type/
 ---
 ## EncryptedPayload.Type property
+
+Gets type.
 
 ```csharp
 public string Type { get; }

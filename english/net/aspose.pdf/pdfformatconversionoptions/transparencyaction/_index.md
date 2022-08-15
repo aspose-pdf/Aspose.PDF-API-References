@@ -1,12 +1,14 @@
 ---
 title: TransparencyAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Action for image masked objects
 type: docs
 weight: 200
 url: /net/aspose.pdf/pdfformatconversionoptions/transparencyaction/
 ---
 ## PdfFormatConversionOptions.TransparencyAction property
+
+Action for image masked objects
 
 ```csharp
 public ConvertTransparencyAction TransparencyAction { get; set; }

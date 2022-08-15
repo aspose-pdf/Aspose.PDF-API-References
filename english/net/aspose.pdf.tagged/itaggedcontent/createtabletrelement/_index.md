@@ -1,16 +1,22 @@
 ---
 title: CreateTableTRElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates TableTRElementaspose.pdf.logicalstructure/tabletrelement.
 type: docs
 weight: 340
 url: /net/aspose.pdf.tagged/itaggedcontent/createtabletrelement/
 ---
 ## ITaggedContent.CreateTableTRElement method
 
+Creates [`TableTRElement`](../../../aspose.pdf.logicalstructure/tabletrelement).
+
 ```csharp
 public TableTRElement CreateTableTRElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: IncorrectFontUsageException
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The exception that is thrown when font usage is incorrect.
 type: docs
 weight: 3780
 url: /net/aspose.pdf/incorrectfontusageexception/
 ---
 ## IncorrectFontUsageException class
+
+The exception that is thrown when font usage is incorrect.
 
 ```csharp
 public sealed class IncorrectFontUsageException : InvalidFileFormatException
@@ -16,9 +18,9 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 | Name | Description |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor)(Exception) |  |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor_1)(string) |  |
-| [IncorrectFontUsageException](incorrectfontusageexception#constructor_2)(string, Exception) |  |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor)(Exception) | Initializes a new instance of the [`IncorrectFontUsageException`](../incorrectfontusageexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor_1)(string) | Initializes a new instance of the [`IncorrectFontUsageException`](../incorrectfontusageexception) class. |
+| [IncorrectFontUsageException](incorrectfontusageexception#constructor_2)(string, Exception) | Initializes a new instance of the [`IncorrectFontUsageException`](../incorrectfontusageexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: SyncRoot
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Synchronization object.
 type: docs
 weight: 130
 url: /net/aspose.pdf.forms/field/syncroot/
 ---
 ## Field.SyncRoot property
+
+Synchronization object.
 
 ```csharp
 public object SyncRoot { get; }

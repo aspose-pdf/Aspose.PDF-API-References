@@ -1,12 +1,14 @@
 ---
 title: RenditionAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: A rendition action that controls the playing of multimedia content.
 type: docs
 weight: 940
 url: /net/aspose.pdf.annotations/renditionaction/
 ---
 ## RenditionAction class
+
+A rendition action that controls the playing of multimedia content.
 
 ```csharp
 public sealed class RenditionAction : PdfAction
@@ -16,10 +18,10 @@ public sealed class RenditionAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript) { get; set; } |  |
-| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } |  |
-| [Rendition](../../aspose.pdf.annotations/renditionaction/rendition) { get; } |  |
-| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation) { get; set; } |  |
+| [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript) { get; set; } | Gets or sets JavaScript code associated with the action. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Next actions in sequence. |
+| [Rendition](../../aspose.pdf.annotations/renditionaction/rendition) { get; } | Gets or sets rendition associated with the action. |
+| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation) { get; set; } | The operation to perform when the action is triggered. |
 
 ### See Also
 

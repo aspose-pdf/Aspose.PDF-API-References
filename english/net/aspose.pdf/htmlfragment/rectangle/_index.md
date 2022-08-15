@@ -1,12 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets rectangle of the HtmlFragment
 type: docs
 weight: 50
 url: /net/aspose.pdf/htmlfragment/rectangle/
 ---
 ## HtmlFragment.Rectangle property
+
+Gets rectangle of the HtmlFragment
 
 ```csharp
 public RectangleF Rectangle { get; }

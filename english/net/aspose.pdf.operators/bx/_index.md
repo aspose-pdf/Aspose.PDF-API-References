@@ -1,12 +1,14 @@
 ---
 title: BX
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing BX operator begin compatibility section.
 type: docs
 weight: 4870
 url: /net/aspose.pdf.operators/bx/
 ---
 ## BX class
+
+Class representing BX operator (begin compatibility section).
 
 ```csharp
 public class BX : Operator
@@ -16,20 +18,20 @@ public class BX : Operator
 
 | Name | Description |
 | --- | --- |
-| [BX](bx)() | The default constructor. |
+| [BX](bx)() | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bx/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/bx/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/bx/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/bx/tostring)() | Returns text representation of operator. |
 
 ### See Also
 

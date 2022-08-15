@@ -1,16 +1,23 @@
 ---
 title: Process
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Converts the page into thumbnail image png and saves it in the output stream.
 type: docs
 weight: 20
 url: /net/aspose.pdf.devices/thumbnaildevice/process/
 ---
 ## ThumbnailDevice.Process method
 
+Converts the page into thumbnail image png and saves it in the output stream.
+
 ```csharp
 public override void Process(Page page, Stream output)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The page to convert. |
+| output | Stream | Output stream with png image. |
 
 ### See Also
 

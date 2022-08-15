@@ -1,12 +1,14 @@
 ---
 title: ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets foreground color of the text.
 type: docs
 weight: 70
 url: /net/aspose.pdf.text/textstate/foregroundcolor/
 ---
 ## TextState.ForegroundColor property
+
+Gets or sets foreground color of the text.
 
 ```csharp
 public virtual Color ForegroundColor { get; set; }

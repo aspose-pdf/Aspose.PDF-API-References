@@ -1,12 +1,14 @@
 ---
 title: Open
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets bookmark state open close.
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/bookmark/open/
 ---
 ## Bookmark.Open property
+
+Gets or sets bookmark state (open, close).
 
 ```csharp
 public bool Open { get; set; }

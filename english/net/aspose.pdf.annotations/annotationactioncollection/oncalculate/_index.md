@@ -1,12 +1,14 @@
 ---
 title: OnCalculate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets an action to calculate field value.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/annotationactioncollection/oncalculate/
 ---
 ## AnnotationActionCollection.OnCalculate property
+
+Gets or sets an action to calculate field value.
 
 ```csharp
 public PdfAction OnCalculate { get; set; }

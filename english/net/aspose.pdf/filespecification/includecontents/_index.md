@@ -1,12 +1,14 @@
 ---
 title: IncludeContents
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If true contents of the file will be included in the file specification.
 type: docs
 weight: 80
 url: /net/aspose.pdf/filespecification/includecontents/
 ---
 ## FileSpecification.IncludeContents property
+
+If true, contents of the file will be included in the file specification.
 
 ```csharp
 public bool IncludeContents { get; set; }

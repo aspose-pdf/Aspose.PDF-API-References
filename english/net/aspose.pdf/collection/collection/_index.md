@@ -1,14 +1,14 @@
 ---
 title: Collection
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes new Collection object.
 type: docs
 weight: 10
 url: /net/aspose.pdf/collection/collection/
 ---
 ## Collection constructor
 
-The default constructor.
+Initializes new Collection object.
 
 ```csharp
 public Collection()

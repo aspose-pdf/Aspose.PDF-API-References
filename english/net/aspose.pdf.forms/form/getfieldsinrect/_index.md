@@ -1,16 +1,26 @@
 ---
 title: GetFieldsInRect
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns fields inside of specified rectangle.
 type: docs
 weight: 260
 url: /net/aspose.pdf.forms/form/getfieldsinrect/
 ---
 ## Form.GetFieldsInRect method
 
+Returns fields inside of specified rectangle.
+
 ```csharp
 public Field[] GetFieldsInRect(Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | Rectangle where fields should be found. |
+
+### Return Value
+
+Array with found fields.
 
 ### See Also
 

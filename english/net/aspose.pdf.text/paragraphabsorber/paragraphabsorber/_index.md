@@ -1,14 +1,14 @@
 ---
 title: ParagraphAbsorber
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the ParagraphAbsorberaspose.pdf.text/paragraphabsorber that performs search for sections/paragraphs of the document or page.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 ---
 ## ParagraphAbsorber() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`ParagraphAbsorber`](../../paragraphabsorber) that performs search for sections/paragraphs of the document or page.
 
 ```csharp
 public ParagraphAbsorber()
@@ -24,9 +24,19 @@ public ParagraphAbsorber()
 
 ## ParagraphAbsorber(int) {#constructor_1}
 
+Initializes a new instance of the [`ParagraphAbsorber`](../../paragraphabsorber) that performs search for sections/paragraphs of the document or page.
+
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sectionsSearchDepth | Int32 | Number of sequential searches for more fine elements of structure that will be performed. |
+
+### Remarks
+
+See [`SectionsSearchDepth`](../sectionssearchdepth) property for more hints about the parameter.
 
 ### See Also
 

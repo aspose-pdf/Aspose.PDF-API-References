@@ -1,12 +1,14 @@
 ---
 title: BasicFileName
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the basic file name if many small files will be generated. The generated file will be like BasicFileName0BasicFileName1... It works with another property GeneratingPathaspose.pdf.facades/autofiller/generatingpathGeneratingPath.
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/autofiller/basicfilename/
 ---
 ## AutoFiller.BasicFileName property
+
+Gets or sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... It works with another property [`GeneratingPath`](../generatingpath)GeneratingPath.
 
 ```csharp
 public string BasicFileName { get; set; }

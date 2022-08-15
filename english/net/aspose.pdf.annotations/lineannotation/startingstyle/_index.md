@@ -1,12 +1,14 @@
 ---
 title: StartingStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets line ending style for line starting point.
 type: docs
 weight: 150
 url: /net/aspose.pdf.annotations/lineannotation/startingstyle/
 ---
 ## LineAnnotation.StartingStyle property
+
+Gets or sets line ending style for line starting point.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }

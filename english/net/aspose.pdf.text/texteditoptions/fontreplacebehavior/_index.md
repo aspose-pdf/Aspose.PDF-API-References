@@ -1,12 +1,14 @@
 ---
 title: FontReplaceBehavior
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets mode that defines behavior for fonts replacement scenarios.
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/texteditoptions/fontreplacebehavior/
 ---
 ## TextEditOptions.FontReplaceBehavior property
+
+Gets mode that defines behavior for fonts replacement scenarios.
 
 ```csharp
 public FontReplace FontReplaceBehavior { get; set; }

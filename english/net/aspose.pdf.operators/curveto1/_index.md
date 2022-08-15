@@ -1,12 +1,14 @@
 ---
 title: CurveTo1
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing v operator append curve to path initial point replicated.
 type: docs
 weight: 4980
 url: /net/aspose.pdf.operators/curveto1/
 ---
 ## CurveTo1 class
+
+Class representing v operator (append curve to path, initial point replicated).
 
 ```csharp
 public class CurveTo1 : Operator
@@ -16,21 +18,21 @@ public class CurveTo1 : Operator
 
 | Name | Description |
 | --- | --- |
-| [CurveTo1](curveto1)(double, double, double, double) |  |
+| [CurveTo1](curveto1)(double, double, double, double) | Initializes curve operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Points](../../aspose.pdf.operators/curveto1/points) { get; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Points](../../aspose.pdf.operators/curveto1/points) { get; } | Points of the curve. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto1/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/curveto1/accept)(IOperatorSelector) | Accepts operator selector. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

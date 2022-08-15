@@ -1,12 +1,14 @@
 ---
 title: Close
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Closes the facade.
 type: docs
 weight: 230
 url: /net/aspose.pdf.facades/pdfviewer/close/
 ---
 ## PdfViewer.Close method
+
+Closes the facade.
 
 ```csharp
 public void Close()

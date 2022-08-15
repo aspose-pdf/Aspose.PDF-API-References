@@ -1,16 +1,22 @@
 ---
 title: TextFormattingOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes new instance of the TextFormattingOptionsaspose.pdf.text/textformattingoptions object for the specified word wrap mode.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/textformattingoptions/textformattingoptions/
 ---
 ## TextFormattingOptions(WordWrapMode) {#constructor_1}
 
+Initializes new instance of the [`TextFormattingOptions`](../../textformattingoptions) object for the specified word wrap mode.
+
 ```csharp
 public TextFormattingOptions(WordWrapMode wrapMode)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| wrapMode | WordWrapMode | Word wrap mode. |
 
 ### See Also
 
@@ -23,7 +29,7 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 ## TextFormattingOptions() {#constructor}
 
-The default constructor.
+Initializes new instance of the [`TextFormattingOptions`](../../textformattingoptions) object with undefined word wrap mode.
 
 ```csharp
 public TextFormattingOptions()

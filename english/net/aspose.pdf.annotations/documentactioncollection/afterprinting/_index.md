@@ -1,12 +1,14 @@
 ---
 title: AfterPrinting
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Action that will be performed after document printing.
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/documentactioncollection/afterprinting/
 ---
 ## DocumentActionCollection.AfterPrinting property
+
+Action that will be performed after document printing.
 
 ```csharp
 public PdfAction AfterPrinting { get; set; }

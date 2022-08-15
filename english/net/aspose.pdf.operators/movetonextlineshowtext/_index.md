@@ -1,12 +1,14 @@
 ---
 title: MoveToNextLineShowText
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing  operator move to next line and show text.
 type: docs
 weight: 5230
 url: /net/aspose.pdf.operators/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText class
+
+Class representing ' operator (move to next line and show text).
 
 ```csharp
 public class MoveToNextLineShowText : TextShowOperator
@@ -16,21 +18,21 @@ public class MoveToNextLineShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [MoveToNextLineShowText](movetonextlineshowtext)() | The default constructor. |
+| [MoveToNextLineShowText](movetonextlineshowtext)() | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| override [Text](../../aspose.pdf.operators/movetonextlineshowtext/text) { get; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| override [Text](../../aspose.pdf.operators/movetonextlineshowtext/text) { get; } | Gets operator text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

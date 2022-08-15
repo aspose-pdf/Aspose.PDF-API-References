@@ -1,16 +1,24 @@
 ---
 title: Point3D
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes new instance of the Point3Daspose.pdf/point3d.
 type: docs
 weight: 10
 url: /net/aspose.pdf/point3d/point3d/
 ---
 ## Point3D constructor
 
+Initializes new instance of the [`Point3D`](../../point3d).
+
 ```csharp
 public Point3D(double x, double y, double z)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | x coordinate value. |
+| y | Double | y coordinate value. |
+| z | Double | z coordinate value. |
 
 ### See Also
 

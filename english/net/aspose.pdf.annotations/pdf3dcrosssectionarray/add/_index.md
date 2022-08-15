@@ -1,16 +1,22 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Adds the specified cross section to views array .
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/
 ---
 ## PDF3DCrossSectionArray.Add method
 
+Adds the specified cross section to views array .
+
 ```csharp
 public void Add(PDF3DCrossSection crossSection)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| crossSection | PDF3DCrossSection | The cross section. |
 
 ### See Also
 

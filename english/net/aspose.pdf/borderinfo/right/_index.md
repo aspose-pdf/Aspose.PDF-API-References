@@ -1,12 +1,14 @@
 ---
 title: Right
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a object that indicates right of the border.
 type: docs
 weight: 40
 url: /net/aspose.pdf/borderinfo/right/
 ---
 ## BorderInfo.Right property
+
+Gets or sets a object that indicates right of the border.
 
 ```csharp
 public GraphInfo Right { get; set; }

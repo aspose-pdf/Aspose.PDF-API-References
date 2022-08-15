@@ -1,14 +1,14 @@
 ---
 title: FooterArtifact
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Creates Footer Artifact instance.
 type: docs
 weight: 10
 url: /net/aspose.pdf/footerartifact/footerartifact/
 ---
 ## FooterArtifact constructor
 
-The default constructor.
+Creates Footer Artifact instance.
 
 ```csharp
 public FooterArtifact()

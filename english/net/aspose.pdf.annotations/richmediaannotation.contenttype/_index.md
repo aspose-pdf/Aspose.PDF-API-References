@@ -1,12 +1,14 @@
 ---
 title: RichMediaAnnotation.ContentType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Type of the multimedia.
 type: docs
 weight: 1000
 url: /net/aspose.pdf.annotations/richmediaannotation.contenttype/
 ---
 ## RichMediaAnnotation.ContentType enumeration
+
+Type of the multimedia.
 
 ```csharp
 public enum ContentType
@@ -16,9 +18,9 @@ public enum ContentType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Audio | `0` |  |
-| Video | `1` |  |
-| Unknown | `2` |  |
+| Audio | `0` | Audio data. |
+| Video | `1` | Video data. |
+| Unknown | `2` | Unknown/unsupported type of data. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Vertices
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets an array of points representing the horizontal and vertical coordinates of each vertex.
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/polyannotation/vertices/
 ---
 ## PolyAnnotation.Vertices property
+
+Gets or sets an array of points representing the horizontal and vertical coordinates of each vertex.
 
 ```csharp
 public Point[] Vertices { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: TextHorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets text alignment for annotation.
 type: docs
 weight: 170
 url: /net/aspose.pdf.annotations/annotation/texthorizontalalignment/
 ---
 ## Annotation.TextHorizontalAlignment property
+
+Gets or sets text alignment for annotation.
 
 ```csharp
 public HorizontalAlignment TextHorizontalAlignment { get; set; }

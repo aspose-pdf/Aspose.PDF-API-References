@@ -1,12 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Width of rectangle.
 type: docs
 weight: 140
 url: /net/aspose.pdf/rectangle/width/
 ---
 ## Rectangle.Width property
+
+Width of rectangle.
 
 ```csharp
 public double Width { get; }

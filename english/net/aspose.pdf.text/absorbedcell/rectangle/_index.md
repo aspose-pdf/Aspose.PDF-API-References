@@ -1,12 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets rectangle that describes position of the cell on page
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/absorbedcell/rectangle/
 ---
 ## AbsorbedCell.Rectangle property
+
+Gets rectangle that describes position of the cell on page
 
 ```csharp
 public Rectangle Rectangle { get; }

@@ -1,12 +1,14 @@
 ---
 title: C
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets cyan component of CMYK color.
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/basicsetcoloroperator/c/
 ---
 ## BasicSetColorOperator.C property
+
+Gets cyan component of CMYK color.
 
 ```csharp
 public double C { get; }

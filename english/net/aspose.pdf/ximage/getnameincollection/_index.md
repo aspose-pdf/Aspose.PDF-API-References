@@ -1,16 +1,22 @@
 ---
 title: GetNameInCollection
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns name of the image in ints collection.
 type: docs
 weight: 90
 url: /net/aspose.pdf/ximage/getnameincollection/
 ---
 ## XImage.GetNameInCollection method
 
+Returns name of the image in ints collection.
+
 ```csharp
 public string GetNameInCollection()
 ```
+
+### Return Value
+
+Image key (name).
 
 ### See Also
 

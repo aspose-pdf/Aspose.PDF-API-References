@@ -1,14 +1,14 @@
 ---
 title: MarginInfo
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the MarginInfoaspose.pdf/margininfo class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`MarginInfo`](../../margininfo) class.
 
 ```csharp
 public MarginInfo()
@@ -24,9 +24,18 @@ public MarginInfo()
 
 ## MarginInfo(double, double, double, double) {#constructor_1}
 
+Constructor of Rectangle.
+
 ```csharp
 public MarginInfo(double left, double bottom, double right, double top)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| left | Double | Left margin. |
+| bottom | Double | Bottom margin |
+| right | Double | Right margin. |
+| top | Double | Top margin. |
 
 ### See Also
 

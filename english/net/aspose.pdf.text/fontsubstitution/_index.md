@@ -1,12 +1,14 @@
 ---
 title: FontSubstitution
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents a base class fot font substitution strategies.
 type: docs
 weight: 6710
 url: /net/aspose.pdf.text/fontsubstitution/
 ---
 ## FontSubstitution class
+
+Represents a base class fot font substitution strategies.
 
 ```csharp
 public class FontSubstitution

@@ -1,12 +1,14 @@
 ---
 title: HtmlSaveOptions.HtmlImageType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion
 type: docs
 weight: 3470
 url: /net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
 ## HtmlSaveOptions.HtmlImageType enumeration
+
+enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion
 
 ```csharp
 public enum HtmlImageType
@@ -16,14 +18,14 @@ public enum HtmlImageType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Jpeg | `0` |  |
-| Png | `1` |  |
-| Bmp | `2` |  |
-| Gif | `3` |  |
-| Tiff | `4` |  |
-| Svg | `5` |  |
-| ZippedSvg | `6` |  |
-| Unknown | `7` |  |
+| Jpeg | `0` | Jpeg format |
+| Png | `1` | Png format |
+| Bmp | `2` | Bmp format |
+| Gif | `3` | Gif format |
+| Tiff | `4` | Tiff format |
+| Svg | `5` | Svg format |
+| ZippedSvg | `6` | Zipped Svg format |
+| Unknown | `7` | Unknown - means that converter cannot detect type of content itself |
 
 ### See Also
 

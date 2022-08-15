@@ -1,12 +1,14 @@
 ---
 title: IsFixedSize
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Checks if colleciton has fixed size.
 type: docs
 weight: 30
 url: /net/aspose.pdf/metadata/isfixedsize/
 ---
 ## Metadata.IsFixedSize property
+
+Checks if colleciton has fixed size.
 
 ```csharp
 public bool IsFixedSize { get; }

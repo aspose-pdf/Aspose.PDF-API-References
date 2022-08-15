@@ -1,12 +1,14 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets image height. Setting this image allows to scale image vertically.
 type: docs
 weight: 20
 url: /net/aspose.pdf/imagestamp/height/
 ---
 ## ImageStamp.Height property
+
+Gets or sets image height. Setting this image allows to scale image vertically.
 
 ```csharp
 public double Height { get; set; }

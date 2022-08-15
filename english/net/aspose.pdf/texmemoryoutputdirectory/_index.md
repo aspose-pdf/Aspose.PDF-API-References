@@ -1,12 +1,14 @@
 ---
 title: TeXMemoryOutputDirectory
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Implements fetching an output stream from memory. You can use it for example when you dont want the accompanying output like a log file to be written to disk but youd like to read it afterwards from memory.
 type: docs
 weight: 6530
 url: /net/aspose.pdf/texmemoryoutputdirectory/
 ---
 ## TeXMemoryOutputDirectory class
+
+Implements fetching an output stream from memory. You can use it, for example, when you don't want the accompanying output (like a log file) to be written to disk but you'd like to read it afterwards from memory.
 
 ```csharp
 public class TeXMemoryOutputDirectory : ITeXOutputDirectory
@@ -22,9 +24,9 @@ public class TeXMemoryOutputDirectory : ITeXOutputDirectory
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose)() |  |
-| [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile)(string, out string, bool) |  |
-| [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile)(string, out string) |  |
+| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose)() | Disposes the instance. |
+| [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile)(string, out string, bool) | Returns the stream to read from. |
+| [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile)(string, out string) | Returns the stream to write to. |
 
 ### See Also
 

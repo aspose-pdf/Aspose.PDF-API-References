@@ -1,12 +1,14 @@
 ---
 title: PrintField
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: PrintField attribute owner.
 type: docs
 weight: 80
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/printfield/
 ---
 ## AttributeOwnerStandard.PrintField field
+
+PrintField attribute owner.
 
 ```csharp
 public static readonly AttributeOwnerStandard PrintField;

@@ -1,12 +1,14 @@
 ---
 title: SuppressUpdate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called.
 type: docs
 weight: 170
 url: /net/aspose.pdf/operatorcollection/suppressupdate/
 ---
 ## OperatorCollection.SuppressUpdate method
+
+Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called.
 
 ```csharp
 public override void SuppressUpdate()

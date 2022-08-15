@@ -1,14 +1,14 @@
 ---
 title: ET
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/et/et/
 ---
 ## ET constructor
 
-The default constructor.
+Initializes operator.
 
 ```csharp
 public ET()

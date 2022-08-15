@@ -1,12 +1,14 @@
 ---
 title: ColumnWidths
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the column widths of the table.
 type: docs
 weight: 80
 url: /net/aspose.pdf/table/columnwidths/
 ---
 ## Table.ColumnWidths property
+
+Gets the column widths of the table.
 
 ```csharp
 public string ColumnWidths { get; set; }

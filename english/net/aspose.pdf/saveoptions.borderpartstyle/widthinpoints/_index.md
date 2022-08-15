@@ -1,12 +1,14 @@
 ---
 title: WidthInPoints
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents border lines width in points. Must be number greater then zero.
 type: docs
 weight: 20
 url: /net/aspose.pdf/saveoptions.borderpartstyle/widthinpoints/
 ---
 ## SaveOptions.BorderPartStyle.WidthInPoints property
+
+Represents border line's width in points. Must be number greater then zero.
 
 ```csharp
 public int WidthInPoints { get; set; }

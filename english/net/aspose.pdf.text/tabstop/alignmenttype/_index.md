@@ -1,12 +1,14 @@
 ---
 title: AlignmentType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a AlignmentTypeaspose.pdf.text/tabstop/alignmenttype enum that indicates the tab tab alignment type.
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/tabstop/alignmenttype/
 ---
 ## TabStop.AlignmentType property
+
+Gets or sets a `AlignmentType` enum that indicates the tab tab alignment type.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }

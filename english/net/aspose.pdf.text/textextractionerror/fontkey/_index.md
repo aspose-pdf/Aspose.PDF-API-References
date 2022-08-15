@@ -1,12 +1,14 @@
 ---
 title: FontKey
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Key PDF name of the Font object that is used for showing text that causes extraction error.
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/textextractionerror/fontkey/
 ---
 ## TextExtractionError.FontKey property
+
+Key (PDF name) of the Font object that is used for showing text that causes extraction error.
 
 ```csharp
 public string FontKey { get; }

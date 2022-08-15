@@ -1,12 +1,14 @@
 ---
 title: TextFormattingOptions.WordWrapMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines word wrapping strategies
 type: docs
 weight: 7040
 url: /net/aspose.pdf.text/textformattingoptions.wordwrapmode/
 ---
 ## TextFormattingOptions.WordWrapMode enumeration
+
+Defines word wrapping strategies
 
 ```csharp
 public enum WordWrapMode
@@ -16,10 +18,10 @@ public enum WordWrapMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NoWrap | `0` |  |
-| DiscretionaryHyphenation | `1` |  |
-| ByWords | `2` |  |
-| Undefined | `3` |  |
+| NoWrap | `0` | No wrapping is performed |
+| DiscretionaryHyphenation | `1` | Discretionary hyphenation is performed. Allows breaking words in the middle. |
+| ByWords | `2` | Word wrapping only wraps complete words. If the complete word cannot be wrapped, attempts to use discretionary hyphenation |
+| Undefined | `3` | WordWrapMode not set. Wrapping strategie of upper level structure (table cell, paragraph etc.) will be used. |
 
 ### See Also
 

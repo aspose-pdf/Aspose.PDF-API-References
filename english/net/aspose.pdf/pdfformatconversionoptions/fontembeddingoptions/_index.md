@@ -1,12 +1,14 @@
 ---
 title: FontEmbeddingOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Options for cases when its not possible to embed some fonts into PDF document.
 type: docs
 weight: 70
 url: /net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
 ## PdfFormatConversionOptions.FontEmbeddingOptions property
+
+Options for cases when it's not possible to embed some fonts into PDF document.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }

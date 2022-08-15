@@ -1,12 +1,14 @@
 ---
 title: AssemblyVersion
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Assembly Version
 type: docs
 weight: 20
 url: /net/aspose.pdf/buildversioninfo/assemblyversion/
 ---
 ## BuildVersionInfo.AssemblyVersion field
+
+Assembly Version
 
 ```csharp
 public const string AssemblyVersion;

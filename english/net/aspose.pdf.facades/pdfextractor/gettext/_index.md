@@ -1,16 +1,22 @@
 ---
 title: GetText
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Saves text to file. see alsoExtractTextaspose.pdf.facades/pdfextractor/extracttext
 type: docs
 weight: 190
 url: /net/aspose.pdf.facades/pdfextractor/gettext/
 ---
 ## GetText(string) {#gettext_2}
 
+Saves text to file. see also:[`ExtractText`](../extracttext)
+
 ```csharp
 public void GetText(string outputFile)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFile | String | The file path and name to save the text. |
 
 ### See Also
 
@@ -22,9 +28,15 @@ public void GetText(string outputFile)
 
 ## GetText(Stream) {#gettext}
 
+Saves text to stream. see also:[`ExtractText`](../extracttext)
+
 ```csharp
 public void GetText(Stream outputStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | The stream to save the text. |
 
 ### See Also
 
@@ -36,9 +48,16 @@ public void GetText(Stream outputStream)
 
 ## GetText(Stream, bool) {#gettext_1}
 
+Saves text to stream. see also:[`ExtractText`](../extracttext)
+
 ```csharp
 public void GetText(Stream outputStream, bool filterNotAscii)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | The stream to save the text. |
+| filterNotAscii | Boolean | If this parameter is true all Not ASCII simbols will be removed |
 
 ### See Also
 

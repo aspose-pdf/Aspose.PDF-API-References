@@ -1,12 +1,14 @@
 ---
 title: WebHyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents web hyperlink object.
 type: docs
 weight: 7320
 url: /net/aspose.pdf/webhyperlink/
 ---
 ## WebHyperlink class
+
+Represents web hyperlink object.
 
 ```csharp
 public sealed class WebHyperlink : Hyperlink
@@ -16,14 +18,14 @@ public sealed class WebHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [WebHyperlink](webhyperlink#constructor)() | The default constructor. |
-| [WebHyperlink](webhyperlink#constructor_1)(string) |  |
+| [WebHyperlink](webhyperlink#constructor)() | Initializes a new instance of the [`WebHyperlink`](../webhyperlink) class. |
+| [WebHyperlink](webhyperlink#constructor_1)(string) | Initializes a new instance of the [`WebHyperlink`](../webhyperlink) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Url](../../aspose.pdf/webhyperlink/url) { get; set; } |  |
+| [Url](../../aspose.pdf/webhyperlink/url) { get; set; } | Gets or sets the web url. |
 
 ### See Also
 

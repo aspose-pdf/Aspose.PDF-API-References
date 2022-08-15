@@ -1,12 +1,14 @@
 ---
 title: MaxLen
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets maximum length of text in the field.
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/textboxfield/maxlen/
 ---
 ## TextBoxField.MaxLen property
+
+Gets or sets maximum length of text in the field.
 
 ```csharp
 public int MaxLen { get; set; }

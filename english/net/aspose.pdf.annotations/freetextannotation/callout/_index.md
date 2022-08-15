@@ -1,12 +1,14 @@
 ---
 title: Callout
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Array of point specifying callout line.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/freetextannotation/callout/
 ---
 ## FreeTextAnnotation.Callout property
+
+Array of point specifying callout line.
 
 ```csharp
 public Point[] Callout { get; set; }

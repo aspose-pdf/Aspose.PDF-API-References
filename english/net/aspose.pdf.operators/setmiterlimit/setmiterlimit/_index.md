@@ -1,16 +1,22 @@
 ---
 title: SetMiterLimit
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setmiterlimit/setmiterlimit/
 ---
 ## SetMiterLimit constructor
 
+Initializes operator.
+
 ```csharp
 public SetMiterLimit(double miterLimit)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| miterLimit | Double | Mitel limit. |
 
 ### See Also
 

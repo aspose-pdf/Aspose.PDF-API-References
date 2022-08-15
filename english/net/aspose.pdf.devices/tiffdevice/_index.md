@@ -1,12 +1,14 @@
 ---
 title: TiffDevice
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: This class helps to save pdf document page by page into the one tiff image.
 type: docs
 weight: 1750
 url: /net/aspose.pdf.devices/tiffdevice/
 ---
 ## TiffDevice class
+
+This class helps to save pdf document page by page into the one tiff image.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -16,45 +18,45 @@ public sealed class TiffDevice : DocumentDevice
 
 | Name | Description |
 | --- | --- |
-| [TiffDevice](tiffdevice#constructor)() | The default constructor. |
-| [TiffDevice](tiffdevice#constructor_6)(PageSize) |  |
-| [TiffDevice](tiffdevice#constructor_1)(Resolution) |  |
-| [TiffDevice](tiffdevice#constructor_4)(TiffSettings) |  |
-| [TiffDevice](tiffdevice#constructor_12)(int, int) |  |
-| [TiffDevice](tiffdevice#constructor_7)(PageSize, Resolution) |  |
-| [TiffDevice](tiffdevice#constructor_10)(PageSize, TiffSettings) |  |
-| [TiffDevice](tiffdevice#constructor_2)(Resolution, TiffSettings) |  |
-| [TiffDevice](tiffdevice#constructor_5)(TiffSettings, IIndexBitmapConverter) |  |
-| [TiffDevice](tiffdevice#constructor_13)(int, int, Resolution) |  |
-| [TiffDevice](tiffdevice#constructor_16)(int, int, TiffSettings) |  |
-| [TiffDevice](tiffdevice#constructor_8)(PageSize, Resolution, TiffSettings) |  |
-| [TiffDevice](tiffdevice#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) |  |
-| [TiffDevice](tiffdevice#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) |  |
-| [TiffDevice](tiffdevice#constructor_14)(int, int, Resolution, TiffSettings) |  |
-| [TiffDevice](tiffdevice#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) |  |
-| [TiffDevice](tiffdevice#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) |  |
-| [TiffDevice](tiffdevice#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) |  |
+| [TiffDevice](tiffdevice#constructor)() | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class with default settings. |
+| [TiffDevice](tiffdevice#constructor_6)(PageSize) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_1)(Resolution) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_4)(TiffSettings) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_12)(int, int) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_7)(PageSize, Resolution) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_10)(PageSize, TiffSettings) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_2)(Resolution, TiffSettings) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_5)(TiffSettings, IIndexBitmapConverter) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_13)(int, int, Resolution) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_16)(int, int, TiffSettings) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_8)(PageSize, Resolution, TiffSettings) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_11)(PageSize, TiffSettings, IIndexBitmapConverter) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_3)(Resolution, TiffSettings, IIndexBitmapConverter) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_14)(int, int, Resolution, TiffSettings) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_17)(int, int, TiffSettings, IIndexBitmapConverter) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
+| [TiffDevice](tiffdevice#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | Initializes a new instance of the [`TiffDevice`](../tiffdevice) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode) { get; set; } |  |
-| [Height](../../aspose.pdf.devices/tiffdevice/height) { get; } |  |
-| [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions) { get; set; } |  |
-| [Resolution](../../aspose.pdf.devices/tiffdevice/resolution) { get; } |  |
-| [Settings](../../aspose.pdf.devices/tiffdevice/settings) { get; } |  |
-| [Width](../../aspose.pdf.devices/tiffdevice/width) { get; } |  |
+| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode) { get; set; } | Gets or sets form presentation mode. |
+| [Height](../../aspose.pdf.devices/tiffdevice/height) { get; } | Gets image output height. |
+| [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
+| [Resolution](../../aspose.pdf.devices/tiffdevice/resolution) { get; } | Gets image resolution. |
+| [Settings](../../aspose.pdf.devices/tiffdevice/settings) { get; } | Gets settings for mapping pdf into tiff image. |
+| [Width](../../aspose.pdf.devices/tiffdevice/width) { get; } | Gets image output width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/documentdevice/binarizebradley)(Stream, Stream, double) |  |
-| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, Stream) |  |
-| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, string) |  |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process#process)(Document, int, int, Stream) |  |
-| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, int, int, string) |  |
+| [BinarizeBradley](../../aspose.pdf.devices/documentdevice/binarizebradley)(Stream, Stream, double) | Do Bradley binarization for input stream. |
+| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, Stream) | Processes the whole document and saves results into stream. |
+| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, string) | Processes the whole document and saves results into file. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process#process)(Document, int, int, Stream) | Converts certain document pages into tiff and save it in the output stream. |
+| [Process](../../aspose.pdf.devices/documentdevice/process)(Document, int, int, string) | Processes certain pages of the document and saves results into file. |
 
 ### See Also
 

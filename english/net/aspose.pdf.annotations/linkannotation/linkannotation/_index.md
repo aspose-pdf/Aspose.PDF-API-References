@@ -1,16 +1,23 @@
 ---
 title: LinkAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates new Link annotation on the specified page.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/linkannotation/linkannotation/
 ---
 ## LinkAnnotation constructor
 
+Creates new Link annotation on the specified page.
+
 ```csharp
 public LinkAnnotation(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The document's page where annotation should be created. |
+| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
 
 ### See Also
 

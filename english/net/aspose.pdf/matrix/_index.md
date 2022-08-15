@@ -1,12 +1,14 @@
 ---
 title: Matrix
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class represents transformation matrix.
 type: docs
 weight: 4690
 url: /net/aspose.pdf/matrix/
 ---
 ## Matrix class
+
+Class represents transformation matrix.
 
 ```csharp
 public sealed class Matrix
@@ -16,41 +18,41 @@ public sealed class Matrix
 
 | Name | Description |
 | --- | --- |
-| [Matrix](matrix#constructor)() | The default constructor. |
-| [Matrix](matrix#constructor_3)(double[]) |  |
-| [Matrix](matrix#constructor_4)(float[]) |  |
-| [Matrix](matrix#constructor_1)(Matrix) |  |
-| [Matrix](matrix#constructor_2)(double, double, double, double, double, double) |  |
+| [Matrix](matrix#constructor)() | Constructor creates stanrard 1 to 1 matrix: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0] |
+| [Matrix](matrix#constructor_3)(double[]) | Constructor accepts a matrix with following array representation: [ A B C D E F ] |
+| [Matrix](matrix#constructor_4)(float[]) | Constructor accepts a matrix with following array representation: [ A B C D E F ] |
+| [Matrix](matrix#constructor_1)(Matrix) | Constructor accepts a matrix to create a copy |
+| [Matrix](matrix#constructor_2)(double, double, double, double, double, double) | Initializes transformation matrix with specified coefficients. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [A](../../aspose.pdf/matrix/a) { get; set; } |  |
-| [B](../../aspose.pdf/matrix/b) { get; set; } |  |
-| [C](../../aspose.pdf/matrix/c) { get; set; } |  |
-| [D](../../aspose.pdf/matrix/d) { get; set; } |  |
-| [Data](../../aspose.pdf/matrix/data) { get; } |  |
-| [E](../../aspose.pdf/matrix/e) { get; set; } |  |
-| [Elements](../../aspose.pdf/matrix/elements) { get; } |  |
-| [F](../../aspose.pdf/matrix/f) { get; set; } |  |
+| [A](../../aspose.pdf/matrix/a) { get; set; } | A member of the transformation matrix. |
+| [B](../../aspose.pdf/matrix/b) { get; set; } | B member of the transformation matrix. |
+| [C](../../aspose.pdf/matrix/c) { get; set; } | C member of the transformation matrix. |
+| [D](../../aspose.pdf/matrix/d) { get; set; } | D member of the transformation matrix. |
+| [Data](../../aspose.pdf/matrix/data) { get; } | Gets data of Matrix as array. |
+| [E](../../aspose.pdf/matrix/e) { get; set; } | E member of the transformation matrix. |
+| [Elements](../../aspose.pdf/matrix/elements) { get; } | Elements of the matrix. |
+| [F](../../aspose.pdf/matrix/f) { get; set; } | F member of the transformation matrix. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Rotation](../../aspose.pdf/matrix/rotation#rotation_1)(double) |  |
-| static [Rotation](../../aspose.pdf/matrix/rotation#rotation)(Rotation) |  |
-| static [Skew](../../aspose.pdf/matrix/skew)(double, double) |  |
-| [Add](../../aspose.pdf/matrix/add)(Matrix) |  |
-| override [Equals](../../aspose.pdf/matrix/equals)(object) |  |
-| override [GetHashCode](../../aspose.pdf/matrix/gethashcode)() |  |
-| [Multiply](../../aspose.pdf/matrix/multiply)(Matrix) |  |
-| [Reverse](../../aspose.pdf/matrix/reverse)() |  |
-| override [ToString](../../aspose.pdf/matrix/tostring)() |  |
-| [Transform](../../aspose.pdf/matrix/transform#transform)(Point) |  |
-| [Transform](../../aspose.pdf/matrix/transform#transform_1)(Rectangle) |  |
-| static [GetAngle](../../aspose.pdf/matrix/getangle)(Rotation) |  |
+| static [Rotation](../../aspose.pdf/matrix/rotation#rotation_1)(double) | Creates matrix for given rotation angle. |
+| static [Rotation](../../aspose.pdf/matrix/rotation#rotation)(Rotation) | Creates matrix for given rotation. |
+| static [Skew](../../aspose.pdf/matrix/skew)(double, double) | Creates matrix for given rotation angle. |
+| [Add](../../aspose.pdf/matrix/add)(Matrix) | Adds matrix to other matrix. |
+| override [Equals](../../aspose.pdf/matrix/equals)(object) | Compares matrix agains other object. |
+| override [GetHashCode](../../aspose.pdf/matrix/gethashcode)() | Hash-code for object. |
+| [Multiply](../../aspose.pdf/matrix/multiply)(Matrix) | Multiplies the matrix by other matrix. |
+| [Reverse](../../aspose.pdf/matrix/reverse)() | Calculates reverse matrix. |
+| override [ToString](../../aspose.pdf/matrix/tostring)() | Returns text reporesentation of the matrix. |
+| [Transform](../../aspose.pdf/matrix/transform#transform)(Point) | Transforms point using this matrix. |
+| [Transform](../../aspose.pdf/matrix/transform#transform_1)(Rectangle) | Transformes rectangle. If angle is not 90 * N degrees then bounding rectangle is returned. |
+| static [GetAngle](../../aspose.pdf/matrix/getangle)(Rotation) | Transaltes rotation into angle (degrees) |
 
 ### See Also
 

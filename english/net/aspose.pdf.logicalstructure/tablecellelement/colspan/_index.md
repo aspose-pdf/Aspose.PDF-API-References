@@ -1,12 +1,14 @@
 ---
 title: ColSpan
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the column span.
 type: docs
 weight: 40
 url: /net/aspose.pdf.logicalstructure/tablecellelement/colspan/
 ---
 ## TableCellElement.ColSpan property
+
+Gets or sets the column span.
 
 ```csharp
 public int ColSpan { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: IsMasked
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the mask flag.
 type: docs
 weight: 40
 url: /net/aspose.pdf/compositingparameters/ismasked/
 ---
 ## CompositingParameters.IsMasked property
+
+Gets the mask flag.
 
 ```csharp
 public bool IsMasked { get; }

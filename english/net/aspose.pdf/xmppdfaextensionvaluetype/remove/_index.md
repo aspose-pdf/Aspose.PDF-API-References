@@ -1,16 +1,22 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Removes the field from the list of fields.
 type: docs
 weight: 100
 url: /net/aspose.pdf/xmppdfaextensionvaluetype/remove/
 ---
 ## XmpPdfAExtensionValueType.Remove method
 
+Removes the field from the list of fields.
+
 ```csharp
 public void Remove(XmpPdfAExtensionField field)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field | XmpPdfAExtensionField | The field to remove. |
 
 ### See Also
 

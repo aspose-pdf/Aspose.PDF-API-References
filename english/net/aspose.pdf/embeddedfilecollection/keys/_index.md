@@ -1,12 +1,14 @@
 ---
 title: Keys
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns list of file attachment keys.
 type: docs
 weight: 40
 url: /net/aspose.pdf/embeddedfilecollection/keys/
 ---
 ## EmbeddedFileCollection.Keys property
+
+Returns list of file attachment keys.
 
 ```csharp
 public List<string> Keys { get; }

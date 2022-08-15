@@ -1,12 +1,14 @@
 ---
 title: ITaggedContent
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents interface for work with TaggedPdf content of document.
 type: docs
 weight: 6470
 url: /net/aspose.pdf.tagged/itaggedcontent/
 ---
 ## ITaggedContent interface
+
+Represents interface for work with TaggedPdf content of document.
 
 ```csharp
 public interface ITaggedContent
@@ -16,51 +18,51 @@ public interface ITaggedContent
 
 | Name | Description |
 | --- | --- |
-| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement) { get; } |  |
-| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement) { get; } |  |
-| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate) { get; } |  |
+| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement) { get; } | Gets root [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement) of logical structure of PDF document. |
+| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement) { get; } | Gets [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement) of PDF document. |
+| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate) { get; } | Get [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate) settings for whole document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateAnnotElement](../../aspose.pdf.tagged/itaggedcontent/createannotelement)() |  |
-| [CreateArtElement](../../aspose.pdf.tagged/itaggedcontent/createartelement)() |  |
-| [CreateBibEntryElement](../../aspose.pdf.tagged/itaggedcontent/createbibentryelement)() |  |
-| [CreateBlockQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createblockquoteelement)() |  |
-| [CreateCaptionElement](../../aspose.pdf.tagged/itaggedcontent/createcaptionelement)() |  |
-| [CreateCodeElement](../../aspose.pdf.tagged/itaggedcontent/createcodeelement)() |  |
-| [CreateDivElement](../../aspose.pdf.tagged/itaggedcontent/createdivelement)() |  |
-| [CreateFigureElement](../../aspose.pdf.tagged/itaggedcontent/createfigureelement)() |  |
-| [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement)() |  |
-| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement)() |  |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement)() |  |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement_1)(int) |  |
-| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement)() |  |
-| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement)() |  |
-| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement)() |  |
-| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement)() |  |
-| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement)() |  |
-| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement)() |  |
-| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement)() |  |
-| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement)() |  |
-| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement)() |  |
-| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement)() |  |
-| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement)() |  |
-| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement)() |  |
-| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement)() |  |
-| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement)() |  |
-| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement)() |  |
-| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement)() |  |
-| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement)() |  |
-| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement)() |  |
-| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement)() |  |
-| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement)() |  |
-| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement)() |  |
-| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement)() |  |
-| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement)() |  |
-| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage)(string) |  |
-| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle)(string) |  |
+| [CreateAnnotElement](../../aspose.pdf.tagged/itaggedcontent/createannotelement)() | Creates [`AnnotElement`](../../aspose.pdf.logicalstructure/annotelement). |
+| [CreateArtElement](../../aspose.pdf.tagged/itaggedcontent/createartelement)() | Creates [`ArtElement`](../../aspose.pdf.logicalstructure/artelement). |
+| [CreateBibEntryElement](../../aspose.pdf.tagged/itaggedcontent/createbibentryelement)() | Creates [`BibEntryElement`](../../aspose.pdf.logicalstructure/bibentryelement). |
+| [CreateBlockQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createblockquoteelement)() | Creates [`BlockQuoteElement`](../../aspose.pdf.logicalstructure/blockquoteelement). |
+| [CreateCaptionElement](../../aspose.pdf.tagged/itaggedcontent/createcaptionelement)() | Creates [`CaptionElement`](../../aspose.pdf.logicalstructure/captionelement). |
+| [CreateCodeElement](../../aspose.pdf.tagged/itaggedcontent/createcodeelement)() | Creates [`CodeElement`](../../aspose.pdf.logicalstructure/codeelement). |
+| [CreateDivElement](../../aspose.pdf.tagged/itaggedcontent/createdivelement)() | Creates [`DivElement`](../../aspose.pdf.logicalstructure/divelement). |
+| [CreateFigureElement](../../aspose.pdf.tagged/itaggedcontent/createfigureelement)() | Creates [`FigureElement`](../../aspose.pdf.logicalstructure/figureelement). |
+| [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement)() | Creates [`FormElement`](../../aspose.pdf.logicalstructure/formelement). |
+| [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement)() | Creates [`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement). |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement)() | Creates [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement). |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement#createheaderelement_1)(int) | Creates [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement) with level. |
+| [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement)() | Creates [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement). |
+| [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement)() | Creates [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement). |
+| [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement)() | Creates [`ListElement`](../../aspose.pdf.logicalstructure/listelement). |
+| [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement)() | Creates [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement). |
+| [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement)() | Creates [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement). |
+| [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement)() | Creates [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement). |
+| [CreatePartElement](../../aspose.pdf.tagged/itaggedcontent/createpartelement)() | Creates [`PartElement`](../../aspose.pdf.logicalstructure/partelement). |
+| [CreatePrivateElement](../../aspose.pdf.tagged/itaggedcontent/createprivateelement)() | Creates [`PrivateElement`](../../aspose.pdf.logicalstructure/privateelement). |
+| [CreateQuoteElement](../../aspose.pdf.tagged/itaggedcontent/createquoteelement)() | Creates [`QuoteElement`](../../aspose.pdf.logicalstructure/quoteelement). |
+| [CreateReferenceElement](../../aspose.pdf.tagged/itaggedcontent/createreferenceelement)() | Creates [`ReferenceElement`](../../aspose.pdf.logicalstructure/referenceelement). |
+| [CreateRubyElement](../../aspose.pdf.tagged/itaggedcontent/createrubyelement)() | Creates [`RubyElement`](../../aspose.pdf.logicalstructure/rubyelement). |
+| [CreateSectElement](../../aspose.pdf.tagged/itaggedcontent/createsectelement)() | Creates [`SectElement`](../../aspose.pdf.logicalstructure/sectelement). |
+| [CreateSpanElement](../../aspose.pdf.tagged/itaggedcontent/createspanelement)() | Creates [`SpanElement`](../../aspose.pdf.logicalstructure/spanelement). |
+| [CreateTableElement](../../aspose.pdf.tagged/itaggedcontent/createtableelement)() | Creates [`TableElement`](../../aspose.pdf.logicalstructure/tableelement). |
+| [CreateTableTBodyElement](../../aspose.pdf.tagged/itaggedcontent/createtabletbodyelement)() | Creates [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement). |
+| [CreateTableTDElement](../../aspose.pdf.tagged/itaggedcontent/createtabletdelement)() | Creates [`TableTDElement`](../../aspose.pdf.logicalstructure/tabletdelement). |
+| [CreateTableTFootElement](../../aspose.pdf.tagged/itaggedcontent/createtabletfootelement)() | Creates [`TableTFootElement`](../../aspose.pdf.logicalstructure/tabletfootelement). |
+| [CreateTableTHeadElement](../../aspose.pdf.tagged/itaggedcontent/createtabletheadelement)() | Creates [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement). |
+| [CreateTableTHElement](../../aspose.pdf.tagged/itaggedcontent/createtablethelement)() | Creates [`TableTHElement`](../../aspose.pdf.logicalstructure/tablethelement). |
+| [CreateTableTRElement](../../aspose.pdf.tagged/itaggedcontent/createtabletrelement)() | Creates [`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement). |
+| [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement)() | Creates [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement). |
+| [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement)() | Creates [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement). |
+| [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement)() | Creates [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement). |
+| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage)(string) | Sets natural language for pdf document. |
+| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle)(string) | Sets title for PDF document. |
 
 ### See Also
 

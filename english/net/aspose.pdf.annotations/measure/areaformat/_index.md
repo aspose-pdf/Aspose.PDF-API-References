@@ -1,12 +1,14 @@
 ---
 title: AreaFormat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: A number format array for measurement of area.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/measure/areaformat/
 ---
 ## Measure.AreaFormat property
+
+A number format array for measurement of area.
 
 ```csharp
 public NumberFormatList AreaFormat { get; set; }

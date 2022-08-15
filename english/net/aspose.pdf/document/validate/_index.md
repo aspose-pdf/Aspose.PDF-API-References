@@ -1,16 +1,27 @@
 ---
 title: Validate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Validate document into the specified file.
 type: docs
 weight: 770
 url: /net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
 
+Validate document into the specified file.
+
 ```csharp
 public bool Validate(string outputLogFileName, PdfFormat format)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputLogFileName | String | Path to file where the comments will be stored. |
+| format | PdfFormat | The pdf format. |
+
+### Return Value
+
+The operation result
 
 ### See Also
 
@@ -23,9 +34,20 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 ## Validate(Stream, PdfFormat) {#validate_1}
 
+Validate document into the specified file.
+
 ```csharp
 public bool Validate(Stream outputLogStream, PdfFormat format)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputLogStream | Stream | Stream where the comments will be stored. |
+| format | PdfFormat | The pdf format. |
+
+### Return Value
+
+The operation result
 
 ### See Also
 
@@ -38,9 +60,19 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 ## Validate(PdfFormatConversionOptions) {#validate}
 
+Validate document into the specified file.
+
 ```csharp
 public bool Validate(PdfFormatConversionOptions options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | PdfFormatConversionOptions | set of options for convert PDF document |
+
+### Return Value
+
+The operation result
 
 ### See Also
 

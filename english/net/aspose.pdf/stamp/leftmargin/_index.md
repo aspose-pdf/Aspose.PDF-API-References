@@ -1,12 +1,14 @@
 ---
 title: LeftMargin
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets left margin of stamp.
 type: docs
 weight: 50
 url: /net/aspose.pdf/stamp/leftmargin/
 ---
 ## Stamp.LeftMargin property
+
+Gets or sets left margin of stamp.
 
 ```csharp
 public double LeftMargin { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: X
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: X coordinate value.
 type: docs
 weight: 30
 url: /net/aspose.pdf/point3d/x/
 ---
 ## Point3D.X property
+
+X coordinate value.
 
 ```csharp
 public double X { get; set; }

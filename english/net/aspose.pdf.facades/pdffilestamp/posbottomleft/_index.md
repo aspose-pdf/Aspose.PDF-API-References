@@ -1,12 +1,14 @@
 ---
 title: PosBottomLeft
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Bottom left position.
 type: docs
 weight: 170
 url: /net/aspose.pdf.facades/pdffilestamp/posbottomleft/
 ---
 ## PdfFileStamp.PosBottomLeft field
+
+Bottom left position.
 
 ```csharp
 public const int PosBottomLeft;

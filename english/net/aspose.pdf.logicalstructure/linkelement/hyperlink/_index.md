@@ -1,12 +1,14 @@
 ---
 title: Hyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or Sets Hyperlink for Link Element.
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/linkelement/hyperlink/
 ---
 ## LinkElement.Hyperlink property
+
+Gets or Sets Hyperlink for Link Element.
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }

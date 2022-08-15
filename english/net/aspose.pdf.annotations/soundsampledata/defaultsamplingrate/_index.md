@@ -1,12 +1,14 @@
 ---
 title: DefaultSamplingRate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Default value for SamplingRate.
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/soundsampledata/defaultsamplingrate/
 ---
 ## SoundSampleData.DefaultSamplingRate field
+
+Default value for SamplingRate.
 
 ```csharp
 public const long DefaultSamplingRate;

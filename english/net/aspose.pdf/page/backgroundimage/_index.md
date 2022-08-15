@@ -1,12 +1,14 @@
 ---
 title: BackgroundImage
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets background image for page for generator only.
 type: docs
 weight: 60
 url: /net/aspose.pdf/page/backgroundimage/
 ---
 ## Page.BackgroundImage property
+
+Gets or sets background image for page (for generator only).
 
 ```csharp
 public Image BackgroundImage { get; set; }

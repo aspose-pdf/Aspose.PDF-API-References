@@ -1,12 +1,14 @@
 ---
 title: Renditions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets array of renditions.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/selectorrendition/renditions/
 ---
 ## SelectorRendition.Renditions property
+
+Gets array of renditions.
 
 ```csharp
 public Rendition[] Renditions { get; }

@@ -1,12 +1,14 @@
 ---
 title: Z
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Z coordinate value.
 type: docs
 weight: 50
 url: /net/aspose.pdf/point3d/z/
 ---
 ## Point3D.Z property
+
+Z coordinate value.
 
 ```csharp
 public double Z { get; set; }

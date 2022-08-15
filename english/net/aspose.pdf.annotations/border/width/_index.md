@@ -1,12 +1,14 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets border width.
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/border/width/
 ---
 ## Border.Width property
+
+Gets or sets border width.
 
 ```csharp
 public int Width { get; set; }

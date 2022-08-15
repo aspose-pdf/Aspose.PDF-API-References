@@ -1,12 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Vertical position of page break.
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/pdffileeditor.pagebreak/position/
 ---
 ## PdfFileEditor.PageBreak.Position property
+
+Vertical position of page break.
 
 ```csharp
 public double Position { get; set; }

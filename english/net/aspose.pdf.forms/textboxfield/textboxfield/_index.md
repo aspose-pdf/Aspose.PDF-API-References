@@ -1,16 +1,22 @@
 ---
 title: TextBoxField
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor which should be used with Generator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/textboxfield/textboxfield/
 ---
 ## TextBoxField(Document) {#constructor_1}
 
+Constructor which should be used with Generator.
+
 ```csharp
 public TextBoxField(Document doc)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
 
 ### See Also
 
@@ -23,7 +29,7 @@ public TextBoxField(Document doc)
 
 ## TextBoxField() {#constructor}
 
-The default constructor.
+Create instance of TextBoxField.
 
 ```csharp
 public TextBoxField()
@@ -39,9 +45,16 @@ public TextBoxField()
 
 ## TextBoxField(Page, Rectangle) {#constructor_3}
 
+Constructor of TextBox field.
+
 ```csharp
 public TextBoxField(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where text field is placed. |
+| rect | Rectangle | Rectangle where the text field will be placed on the page. |
 
 ### See Also
 
@@ -55,9 +68,16 @@ public TextBoxField(Page page, Rectangle rect)
 
 ## TextBoxField(Document, Rectangle) {#constructor_2}
 
+Constructor of TextBox field.
+
 ```csharp
 public TextBoxField(Document doc, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
+| rect | Rectangle | Rectangle of the field. |
 
 ### See Also
 

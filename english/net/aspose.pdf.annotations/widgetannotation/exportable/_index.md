@@ -1,12 +1,14 @@
 ---
 title: Exportable
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets exportable flag of the field.
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/widgetannotation/exportable/
 ---
 ## WidgetAnnotation.Exportable property
+
+Gets or sets exportable flag of the field.
 
 ```csharp
 public bool Exportable { get; set; }

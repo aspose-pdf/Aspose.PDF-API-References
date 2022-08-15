@@ -1,12 +1,14 @@
 ---
 title: Illustration
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The Illustration render mode.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/pdf3drendermode/illustration/
 ---
 ## PDF3DRenderMode.Illustration field
+
+The "Illustration" render mode.
 
 ```csharp
 public static PDF3DRenderMode Illustration;

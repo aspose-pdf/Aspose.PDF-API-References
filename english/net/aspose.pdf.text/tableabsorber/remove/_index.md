@@ -1,16 +1,26 @@
 ---
 title: Remove
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Removes an AbsorbedTableaspose.pdf.text/absorbedtable from the page.
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/tableabsorber/remove/
 ---
 ## TableAbsorber.Remove method
 
+Removes an [`AbsorbedTable`](../../absorbedtable) from the page.
+
 ```csharp
 public void Remove(AbsorbedTable table)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable) to remove. |
+
+### Remarks
+
+Please take into account it changes TableList collection. In case removing/replacing tables in loop please use copy of TableList collection.
 
 ### See Also
 

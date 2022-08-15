@@ -1,12 +1,14 @@
 ---
 title: SaveOptions.BorderInfo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Instance of this class represents information about border That can be drown on some result document.
 type: docs
 weight: 6250
 url: /net/aspose.pdf/saveoptions.borderinfo/
 ---
 ## SaveOptions.BorderInfo class
+
+Instance of this class represents information about border That can be drown on some result document.
 
 ```csharp
 public class BorderInfo
@@ -16,17 +18,17 @@ public class BorderInfo
 
 | Name | Description |
 | --- | --- |
-| [BorderInfo](borderinfo#constructor)() | The default constructor. |
-| [BorderInfo](borderinfo#constructor_1)(BorderPartStyle) |  |
+| [BorderInfo](borderinfo#constructor)() | Creates instance of BorderInfo class |
+| [BorderInfo](borderinfo#constructor_1)(BorderPartStyle) | Creates instance of BorderInfo class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [BottomStyleIfAny](../../aspose.pdf/borderinfo/bottomstyleifany) |  |
-| [LeftStyleIfAny](../../aspose.pdf/borderinfo/leftstyleifany) |  |
-| [RightStyleIfAny](../../aspose.pdf/borderinfo/rightstyleifany) |  |
-| [TopStyleIfAny](../../aspose.pdf/borderinfo/topstyleifany) |  |
+| [BottomStyleIfAny](../../aspose.pdf/borderinfo/bottomstyleifany) | Represents bottom part(if any) of border |
+| [LeftStyleIfAny](../../aspose.pdf/borderinfo/leftstyleifany) | Represents left part(if any) of border |
+| [RightStyleIfAny](../../aspose.pdf/borderinfo/rightstyleifany) | Represents right part(if any) of border |
+| [TopStyleIfAny](../../aspose.pdf/borderinfo/topstyleifany) | Represents top part(if any) of border |
 
 ### See Also
 

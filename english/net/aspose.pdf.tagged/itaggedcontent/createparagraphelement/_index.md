@@ -1,16 +1,22 @@
 ---
 title: CreateParagraphElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates ParagraphElementaspose.pdf.logicalstructure/paragraphelement.
 type: docs
 weight: 200
 url: /net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/
 ---
 ## ITaggedContent.CreateParagraphElement method
 
+Creates [`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement).
+
 ```csharp
 public ParagraphElement CreateParagraphElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

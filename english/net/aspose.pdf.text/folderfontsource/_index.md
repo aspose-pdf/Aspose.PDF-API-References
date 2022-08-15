@@ -1,12 +1,14 @@
 ---
 title: FolderFontSource
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents the folder that contains font files.
 type: docs
 weight: 6630
 url: /net/aspose.pdf.text/folderfontsource/
 ---
 ## FolderFontSource class
+
+Represents the folder that contains font files.
 
 ```csharp
 public sealed class FolderFontSource : FontSource
@@ -16,19 +18,19 @@ public sealed class FolderFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FolderFontSource](folderfontsource)(string) |  |
+| [FolderFontSource](folderfontsource)(string) | Initializes a new instance of [`FolderFontSource`](../folderfontsource) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath) { get; set; } |  |
+| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath) { get; set; } | Path to the folder that contains font files. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/folderfontsource/equals)(object) |  |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals)(object) | Check if folder font source objects are equal. |
 
 ### See Also
 

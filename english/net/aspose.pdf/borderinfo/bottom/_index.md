@@ -1,12 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets a object that indicates bottom of the border.
 type: docs
 weight: 20
 url: /net/aspose.pdf/borderinfo/bottom/
 ---
 ## BorderInfo.Bottom property
+
+Gets or sets a object that indicates bottom of the border.
 
 ```csharp
 public GraphInfo Bottom { get; set; }

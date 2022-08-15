@@ -1,12 +1,14 @@
 ---
 title: TabAlignmentType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumerates the tab alignment types.
 type: docs
 weight: 6860
 url: /net/aspose.pdf.text/tabalignmenttype/
 ---
 ## TabAlignmentType enumeration
+
+Enumerates the tab alignment types.
 
 ```csharp
 public enum TabAlignmentType
@@ -16,9 +18,9 @@ public enum TabAlignmentType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` |  |
-| Center | `1` |  |
-| Right | `2` |  |
+| Left | `0` | Text aligned left from tab stop |
+| Center | `1` | Text aligned center from tab stop |
+| Right | `2` | Text aligned right from tab stop |
 
 ### See Also
 

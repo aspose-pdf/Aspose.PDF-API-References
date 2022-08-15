@@ -1,15 +1,32 @@
 ---
 title: GetPrefixByNamespaceURI
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the prefix by namespace URI.
 type: docs
 weight: 180
 url: /net/aspose.pdf.facades/pdfxmpmetadata/getprefixbynamespaceuri/
 ---
 ## PdfXmpMetadata.GetPrefixByNamespaceURI method
 
+Gets the prefix by namespace URI.
+
 ```csharp
 public string GetPrefixByNamespaceURI(string namespaceURI)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| namespaceURI | String | Namespace URI. |
+
+### Return Value
+
+The prefix value.
+
+### Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
+Console.WriteLine(xmp.GetPrefixByNamespaceURI("http://ns.adobe.com/xap/1.0/"));
 ```
 
 ### See Also

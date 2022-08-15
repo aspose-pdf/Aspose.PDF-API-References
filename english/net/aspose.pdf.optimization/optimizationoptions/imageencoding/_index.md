@@ -1,12 +1,14 @@
 ---
 title: ImageEncoding
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Image encodre which will be used.
 type: docs
 weight: 50
 url: /net/aspose.pdf.optimization/optimizationoptions/imageencoding/
 ---
 ## OptimizationOptions.ImageEncoding property
+
+Image encodre which will be used.
 
 ```csharp
 public ImageEncoding ImageEncoding { get; set; }

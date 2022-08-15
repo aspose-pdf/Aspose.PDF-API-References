@@ -1,12 +1,14 @@
 ---
 title: IsRowBroken
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets is row can be broken between two pages
 type: docs
 weight: 100
 url: /net/aspose.pdf/row/isrowbroken/
 ---
 ## Row.IsRowBroken property
+
+Gets is row can be broken between two pages
 
 ```csharp
 public bool IsRowBroken { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: ReasonLabel
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets/sets reason label. Default value Reason.
 type: docs
 weight: 130
 url: /net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
 ## SignatureCustomAppearance.ReasonLabel property
+
+Gets/sets reason label. Default value: "Reason".
 
 ```csharp
 public string ReasonLabel { get; set; }

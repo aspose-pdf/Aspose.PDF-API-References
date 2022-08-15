@@ -1,16 +1,22 @@
 ---
 title: GetViewsArray
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the views array.
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 ---
 ## PDF3DArtwork.GetViewsArray method
 
+Gets the views array.
+
 ```csharp
 public PDF3DView[] GetViewsArray()
 ```
+
+### Return Value
+
+Array of views.
 
 ### See Also
 

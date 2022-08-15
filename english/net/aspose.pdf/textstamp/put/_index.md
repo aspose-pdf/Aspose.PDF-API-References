@@ -1,16 +1,22 @@
 ---
 title: Put
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Adds textual stamp on the page.
 type: docs
 weight: 130
 url: /net/aspose.pdf/textstamp/put/
 ---
 ## TextStamp.Put method
 
+Adds textual stamp on the page.
+
 ```csharp
 public override void Put(Page page)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page for stamping. |
 
 ### See Also
 

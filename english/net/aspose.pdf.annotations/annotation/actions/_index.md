@@ -1,12 +1,14 @@
 ---
 title: Actions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets list of annotatation actions.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/annotation/actions/
 ---
 ## Annotation.Actions property
+
+Gets list of annotatation actions.
 
 ```csharp
 public PdfActionCollection Actions { get; }

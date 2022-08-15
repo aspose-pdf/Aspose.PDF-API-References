@@ -1,12 +1,14 @@
 ---
 title: TextWidth
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets width of text.
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/formattedtext/textwidth/
 ---
 ## FormattedText.TextWidth property
+
+Gets width of text.
 
 ```csharp
 public float TextWidth { get; }

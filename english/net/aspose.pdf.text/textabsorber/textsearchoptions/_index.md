@@ -1,16 +1,22 @@
 ---
 title: TextSearchOptions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets text search options.
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textabsorber/textsearchoptions/
 ---
 ## TextAbsorber.TextSearchOptions property
 
+Gets or sets text search options.
+
 ```csharp
 public virtual TextSearchOptions TextSearchOptions { get; set; }
 ```
+
+### Remarks
+
+Allows to define rectangle which delimits the extracted text. By default the rectangle is empty. That means page boundaries only defines the text extraction region.
 
 ### See Also
 

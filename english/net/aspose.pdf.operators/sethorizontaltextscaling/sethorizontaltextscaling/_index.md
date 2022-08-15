@@ -1,16 +1,22 @@
 ---
 title: SetHorizontalTextScaling
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling/
 ---
 ## SetHorizontalTextScaling constructor
 
+Initializes operator.
+
 ```csharp
 public SetHorizontalTextScaling(double horizintalScaling)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| horizintalScaling | Double | Horizontal scaling. |
 
 ### See Also
 

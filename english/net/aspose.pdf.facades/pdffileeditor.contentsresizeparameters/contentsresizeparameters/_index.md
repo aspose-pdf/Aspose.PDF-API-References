@@ -1,14 +1,14 @@
 ---
 title: ContentsResizeParameters
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Creates resize parameters where al values are set to auto. Later margins and contents size may be specified if required.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/
 ---
 ## ContentsResizeParameters() {#constructor}
 
-The default constructor.
+Creates resize parameters where al values are set to "auto". Later margins and contents size may be specified if required.
 
 ```csharp
 public ContentsResizeParameters()
@@ -24,11 +24,22 @@ public ContentsResizeParameters()
 
 ## ContentsResizeParameters(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) {#constructor_1}
 
+Creates resize parameters with specified margin values and contents size.
+
 ```csharp
 public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeValue contentsWidth, 
     ContentsResizeValue rightMargin, ContentsResizeValue topMargin, 
     ContentsResizeValue contentsHeight, ContentsResizeValue bottomMargin)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| leftMargin | ContentsResizeValue | Left margin value. |
+| contentsWidth | ContentsResizeValue | Contents width. |
+| rightMargin | ContentsResizeValue | Right margin. |
+| topMargin | ContentsResizeValue | Top margin. |
+| contentsHeight | ContentsResizeValue | Contents height. |
+| bottomMargin | ContentsResizeValue | Bottom margin. |
 
 ### See Also
 

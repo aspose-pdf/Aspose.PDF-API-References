@@ -1,12 +1,14 @@
 ---
 title: PDF3DCuttingPlaneOrientation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class PDF3DCuttingPlaneOrientation.
 type: docs
 weight: 770
 url: /net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
 ## PDF3DCuttingPlaneOrientation class
+
+Class PDF3DCuttingPlaneOrientation.
 
 ```csharp
 public class PDF3DCuttingPlaneOrientation
@@ -16,22 +18,22 @@ public class PDF3DCuttingPlaneOrientation
 
 | Name | Description |
 | --- | --- |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor)() | The default constructor. |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor_1)(double?, double?, double?) |  |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor)() | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../pdf3dcuttingplaneorientation) class. |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation#constructor_1)(double?, double?, double?) | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../pdf3dcuttingplaneorientation) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex) { get; set; } |  |
-| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley) { get; set; } |  |
-| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez) { get; set; } |  |
+| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex) { get; set; } | Gets or sets the angle to X axis. |
+| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley) { get; set; } | Gets or sets the angle to Y axis. |
+| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez) { get; set; } | Gets or sets the angle to Z axis. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring)() |  |
+| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

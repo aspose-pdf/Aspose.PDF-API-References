@@ -1,12 +1,14 @@
 ---
 title: HasEditPassword
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns true if password is needed to modify permissions or document security property. Pay attention that this property can be read only if valid password was provided in PdfFileInfoaspose.pdf.facades/pdffileinfo constructor. In case PasswordType is Inaccessible means that invalid password was provided reading this property will fail with InvalidPasswordExceptionaspose.pdf/invalidpasswordexception.
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/pdffileinfo/haseditpassword/
 ---
 ## PdfFileInfo.HasEditPassword property
+
+Returns true if password is needed to modify permissions or document security property. Pay attention that this property can be read only if valid password was provided in [`PdfFileInfo`](../../pdffileinfo) constructor. In case PasswordType is Inaccessible (means that invalid password was provided) reading this property will fail with [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception).
 
 ```csharp
 public bool HasEditPassword { get; }

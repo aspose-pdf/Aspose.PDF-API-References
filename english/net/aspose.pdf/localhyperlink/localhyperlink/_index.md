@@ -1,14 +1,14 @@
 ---
 title: LocalHyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the LocalHyperlinkaspose.pdf/localhyperlink class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/localhyperlink/localhyperlink/
 ---
 ## LocalHyperlink() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`LocalHyperlink`](../../localhyperlink) class.
 
 ```csharp
 public LocalHyperlink()
@@ -24,9 +24,15 @@ public LocalHyperlink()
 
 ## LocalHyperlink(BaseParagraph) {#constructor_1}
 
+Initializes a new instance of the [`LocalHyperlink`](../../localhyperlink) class.
+
 ```csharp
 public LocalHyperlink(BaseParagraph target)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| target | BaseParagraph | Target paragraph. |
 
 ### See Also
 

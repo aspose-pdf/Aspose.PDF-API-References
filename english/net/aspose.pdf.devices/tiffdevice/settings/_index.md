@@ -1,12 +1,14 @@
 ---
 title: Settings
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets settings for mapping pdf into tiff image.
 type: docs
 weight: 60
 url: /net/aspose.pdf.devices/tiffdevice/settings/
 ---
 ## TiffDevice.Settings property
+
+Gets settings for mapping pdf into tiff image.
 
 ```csharp
 public TiffSettings Settings { get; }

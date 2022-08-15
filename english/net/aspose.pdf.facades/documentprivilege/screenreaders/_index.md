@@ -1,12 +1,14 @@
 ---
 title: ScreenReaders
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Allows to reader on screen only.
 type: docs
 weight: 100
 url: /net/aspose.pdf.facades/documentprivilege/screenreaders/
 ---
 ## DocumentPrivilege.ScreenReaders property
+
+Allows to reader on screen only.
 
 ```csharp
 public static DocumentPrivilege ScreenReaders { get; }

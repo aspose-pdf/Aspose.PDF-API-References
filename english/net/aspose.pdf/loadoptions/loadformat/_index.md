@@ -1,12 +1,14 @@
 ---
 title: LoadFormat
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents file format which LoadOptionsaspose.pdf/loadoptions describes.
 type: docs
 weight: 10
 url: /net/aspose.pdf/loadoptions/loadformat/
 ---
 ## LoadOptions.LoadFormat property
+
+Represents file format which [`LoadOptions`](../../loadoptions) describes.
 
 ```csharp
 public LoadFormat LoadFormat { get; }

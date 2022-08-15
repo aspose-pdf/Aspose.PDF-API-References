@@ -1,12 +1,14 @@
 ---
 title: SetLineWidth
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing w operator set line width.
 type: docs
 weight: 5480
 url: /net/aspose.pdf.operators/setlinewidth/
 ---
 ## SetLineWidth class
+
+Class representing w operator (set line width).
 
 ```csharp
 public class SetLineWidth : Operator
@@ -16,21 +18,21 @@ public class SetLineWidth : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetLineWidth](setlinewidth)(double) |  |
+| [SetLineWidth](setlinewidth)(double) | Initializes operator with width value. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Width](../../aspose.pdf.operators/setlinewidth/width) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Width](../../aspose.pdf.operators/setlinewidth/width) { get; set; } | Gets or sets width of the line. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinewidth/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/setlinewidth/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setlinewidth/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/setlinewidth/tostring)() | Returns text representation of operator. |
 
 ### See Also
 

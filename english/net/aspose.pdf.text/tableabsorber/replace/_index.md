@@ -1,16 +1,28 @@
 ---
 title: Replace
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Replaces an AbsorbedTableaspose.pdf.text/absorbedtable with Tableaspose.pdf/table on the page.
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/tableabsorber/replace/
 ---
 ## TableAbsorber.Replace method
 
+Replaces an [`AbsorbedTable`](../../absorbedtable) with [`Table`](../../../aspose.pdf/table) on the page.
+
 ```csharp
 public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Pdf pocument page object. |
+| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable) to be replaced. |
+| newTable | Table | [`Table`](../../../aspose.pdf/table) to replace old table. |
+
+### Remarks
+
+Please take into account it changes TableList collection. In case removing/replacing tables in loop please use copy of TableList collection.
 
 ### See Also
 

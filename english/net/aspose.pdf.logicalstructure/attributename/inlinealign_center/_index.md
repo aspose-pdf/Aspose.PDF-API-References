@@ -1,12 +1,14 @@
 ---
 title: InlineAlign_Center
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Attribute InlineAlign Center - Each child centered within the table cell. The distance between the start edges of the childs allocation rectangle and the table cells content rectangle shall be the same as the distance between their end edges.
 type: docs
 weight: 200
 url: /net/aspose.pdf.logicalstructure/attributename/inlinealign_center/
 ---
 ## AttributeName.InlineAlign_Center field
+
+Attribute InlineAlign: Center - Each child centered within the table cell. The distance between the start edges of the child's allocation rectangle and the table cell's content rectangle shall be the same as the distance between their end edges.
 
 ```csharp
 public static readonly AttributeName InlineAlign_Center;

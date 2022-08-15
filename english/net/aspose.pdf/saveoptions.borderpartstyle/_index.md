@@ -1,12 +1,14 @@
 ---
 title: SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents information of one part of bordertop botom left side or right side
 type: docs
 weight: 6260
 url: /net/aspose.pdf/saveoptions.borderpartstyle/
 ---
 ## SaveOptions.BorderPartStyle class
+
+Represents information of one part of border(top, botom, left side or right side)
 
 ```csharp
 public class BorderPartStyle
@@ -22,14 +24,14 @@ public class BorderPartStyle
 
 | Name | Description |
 | --- | --- |
-| [WidthInPoints](../../aspose.pdf/borderpartstyle/widthinpoints) { get; set; } |  |
+| [WidthInPoints](../../aspose.pdf/borderpartstyle/widthinpoints) { get; set; } | Represents border line's width in points. Must be number greater then zero. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.pdf/borderpartstyle/color) |  |
-| [LineType](../../aspose.pdf/borderpartstyle/linetype) |  |
+| [Color](../../aspose.pdf/borderpartstyle/color) | Represents border line's line color |
+| [LineType](../../aspose.pdf/borderpartstyle/linetype) | Represents border line's type - f.e. Dashed or Solid |
 
 ### See Also
 

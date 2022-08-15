@@ -1,12 +1,14 @@
 ---
 title: States
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets appearance dictionary of annotation.
 type: docs
 weight: 160
 url: /net/aspose.pdf.annotations/annotation/states/
 ---
 ## Annotation.States property
+
+Gets appearance dictionary of annotation.
 
 ```csharp
 public AppearanceDictionary States { get; }

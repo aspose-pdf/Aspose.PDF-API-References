@@ -1,12 +1,34 @@
 ---
 title: TOCI
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Table of contents item An individual member of a table of contents. This entrys children may be any of the following structure types
 type: docs
 weight: 450
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
 ## StructureTypeStandard.TOCI field
+
+(Table of contents item) An individual member of a table of contents. This entry’s children may be any of the following structure types:
+
+**Lbl**
+
+A label
+
+**Reference**
+
+A reference to the title and the page number
+
+**NonStruct**
+
+Non-structure elements for wrapping a leader artifact
+
+**P**
+
+Descriptive text
+
+**TOC**
+
+Table of content elements for hierarchical tables of content, as described for the TOC entry
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;

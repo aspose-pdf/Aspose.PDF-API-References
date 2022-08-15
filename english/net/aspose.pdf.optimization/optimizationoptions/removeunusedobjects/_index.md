@@ -1,12 +1,14 @@
 ---
 title: RemoveUnusedObjects
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If this flag is set to true all document objects will be checked and unused objects i.e. objects which does not have any reference are removed from document.
 type: docs
 weight: 90
 url: /net/aspose.pdf.optimization/optimizationoptions/removeunusedobjects/
 ---
 ## OptimizationOptions.RemoveUnusedObjects property
+
+If this flag is set to true, all document objects will be checked and unused objects (i.e. objects which does not have any reference) are removed from document.
 
 ```csharp
 public bool RemoveUnusedObjects { get; set; }

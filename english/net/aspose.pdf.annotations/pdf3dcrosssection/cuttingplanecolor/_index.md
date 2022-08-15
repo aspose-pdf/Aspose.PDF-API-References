@@ -1,16 +1,22 @@
 ---
 title: CuttingPlaneColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the color of the cutting plane.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/
 ---
 ## PDF3DCrossSection.CuttingPlaneColor property
 
+Gets or sets the color of the cutting plane.
+
 ```csharp
 public Color CuttingPlaneColor { get; set; }
 ```
+
+### Property Value
+
+The color of the cutting plane.
 
 ### See Also
 

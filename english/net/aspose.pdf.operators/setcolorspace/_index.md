@@ -1,12 +1,14 @@
 ---
 title: SetColorSpace
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing cs operator set colorspace for non-stroking operations
 type: docs
 weight: 5370
 url: /net/aspose.pdf.operators/setcolorspace/
 ---
 ## SetColorSpace class
+
+Class representing cs operator (set colorspace for non-stroking operations)
 
 ```csharp
 public class SetColorSpace : Operator
@@ -16,21 +18,21 @@ public class SetColorSpace : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetColorSpace](setcolorspace)(string) |  |
+| [SetColorSpace](setcolorspace)(string) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [Name](../../aspose.pdf.operators/setcolorspace/name) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Name](../../aspose.pdf.operators/setcolorspace/name) { get; set; } | Gets or sets color space name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorspace/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setcolorspace/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

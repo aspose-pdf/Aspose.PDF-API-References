@@ -1,12 +1,14 @@
 ---
 title: RenditionOperation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The operation to perform when the action is triggered.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/renditionaction/renditionoperation/
 ---
 ## RenditionAction.RenditionOperation property
+
+The operation to perform when the action is triggered.
 
 ```csharp
 public RenditionOperation RenditionOperation { get; set; }

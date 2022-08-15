@@ -1,12 +1,14 @@
 ---
 title: TextEditOptions.FontReplace
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Font replacement behavior.
 type: docs
 weight: 6950
 url: /net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
 ## TextEditOptions.FontReplace enumeration
+
+Font replacement behavior.
 
 ```csharp
 public enum FontReplace
@@ -16,8 +18,8 @@ public enum FontReplace
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` |  |
-| RemoveUnusedFonts | `1` |  |
+| Default | `0` | No additional changes performed during font replacement. |
+| RemoveUnusedFonts | `1` | Fonts that become unused during font replacement will be removed from resulting document. |
 
 ### See Also
 

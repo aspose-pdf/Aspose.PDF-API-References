@@ -1,12 +1,14 @@
 ---
 title: LocalHyperlink
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents local hyperlink object.
 type: docs
 weight: 3950
 url: /net/aspose.pdf/localhyperlink/
 ---
 ## LocalHyperlink class
+
+Represents local hyperlink object.
 
 ```csharp
 public sealed class LocalHyperlink : Hyperlink
@@ -16,15 +18,15 @@ public sealed class LocalHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [LocalHyperlink](localhyperlink#constructor)() | The default constructor. |
-| [LocalHyperlink](localhyperlink#constructor_1)(BaseParagraph) |  |
+| [LocalHyperlink](localhyperlink#constructor)() | Initializes a new instance of the [`LocalHyperlink`](../localhyperlink) class. |
+| [LocalHyperlink](localhyperlink#constructor_1)(BaseParagraph) | Initializes a new instance of the [`LocalHyperlink`](../localhyperlink) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Target](../../aspose.pdf/localhyperlink/target) { get; set; } |  |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber) { get; set; } |  |
+| [Target](../../aspose.pdf/localhyperlink/target) { get; set; } | Gets or sets the target paragraph. |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber) { get; set; } | Gets or sets the target page number. |
 
 ### See Also
 

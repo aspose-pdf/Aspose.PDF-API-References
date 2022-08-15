@@ -1,12 +1,14 @@
 ---
 title: Summary
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Brief description of the error.
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textextractionerror/summary/
 ---
 ## TextExtractionError.Summary property
+
+Brief description of the error.
 
 ```csharp
 public string Summary { get; }

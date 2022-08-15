@@ -1,12 +1,14 @@
 ---
 title: Top
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets top vertical coordinate of visible rectangle.
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/fitrexplicitdestination/top/
 ---
 ## FitRExplicitDestination.Top property
+
+Gets top vertical coordinate of visible rectangle.
 
 ```csharp
 public double Top { get; }

@@ -1,14 +1,14 @@
 ---
 title: SanitizationException
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the SanitizationExceptionaspose.pdf.sanitization/sanitizationexception class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/
 ---
 ## SanitizationException() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`SanitizationException`](../../sanitizationexception) class.
 
 ```csharp
 public SanitizationException()
@@ -24,9 +24,15 @@ public SanitizationException()
 
 ## SanitizationException(string) {#constructor_2}
 
+Initializes a new instance of the [`SanitizationException`](../../sanitizationexception) class.
+
 ```csharp
 public SanitizationException(string message)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The message. |
 
 ### See Also
 
@@ -38,9 +44,16 @@ public SanitizationException(string message)
 
 ## SanitizationException(string, Exception) {#constructor_3}
 
+Initializes a new instance of the [`SanitizationException`](../../sanitizationexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
 ```csharp
 public SanitizationException(string message, Exception innerException)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 
@@ -52,9 +65,15 @@ public SanitizationException(string message, Exception innerException)
 
 ## SanitizationException(Exception) {#constructor_1}
 
+Initializes a new instance of the [`SanitizationException`](../../sanitizationexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
 ```csharp
 public SanitizationException(Exception innerException)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 

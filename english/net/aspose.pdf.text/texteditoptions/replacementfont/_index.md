@@ -1,12 +1,14 @@
 ---
 title: ReplacementFont
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets font used for replacing if user font does not contain required character
 type: docs
 weight: 70
 url: /net/aspose.pdf.text/texteditoptions/replacementfont/
 ---
 ## TextEditOptions.ReplacementFont property
+
+Gets or sets font used for replacing if user font does not contain required character
 
 ```csharp
 public Font ReplacementFont { get; set; }

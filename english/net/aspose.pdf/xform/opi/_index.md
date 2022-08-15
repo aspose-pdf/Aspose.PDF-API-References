@@ -1,12 +1,14 @@
 ---
 title: Opi
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets The Open Prepress Interface OPI.
 type: docs
 weight: 60
 url: /net/aspose.pdf/xform/opi/
 ---
 ## XForm.Opi property
+
+Gets The Open Prepress Interface (OPI).
 
 ```csharp
 public Opi Opi { get; }

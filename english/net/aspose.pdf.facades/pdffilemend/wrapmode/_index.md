@@ -1,12 +1,14 @@
 ---
 title: WrapMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap.
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/pdffilemend/wrapmode/
 ---
 ## PdfFileMend.WrapMode property
+
+Sets or gets word wrapping algorithm. See WordWrapMode and IsWordWrap.
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: Certificate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The certificate with the private key.
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/externalsignature/certificate/
 ---
 ## ExternalSignature.Certificate property
+
+The certificate with the private key.
 
 ```csharp
 public X509Certificate2 Certificate { get; }

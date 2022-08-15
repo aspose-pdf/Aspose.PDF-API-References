@@ -1,16 +1,22 @@
 ---
 title: SetCharacterSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes operator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/
 ---
 ## SetCharacterSpacing constructor
 
+Initializes operator.
+
 ```csharp
 public SetCharacterSpacing(double charSpacing)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| charSpacing | Double | Character spacing. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Simplex
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Print single-sided.
 type: docs
 weight: 260
 url: /net/aspose.pdf.facades/viewerpreference/simplex/
 ---
 ## ViewerPreference.Simplex field
+
+Print single-sided.
 
 ```csharp
 public const int Simplex;

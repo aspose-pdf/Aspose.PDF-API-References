@@ -1,12 +1,14 @@
 ---
 title: OnValidate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets an action to be performed when user changes contents of the field.
 type: docs
 weight: 140
 url: /net/aspose.pdf.annotations/annotationactioncollection/onvalidate/
 ---
 ## AnnotationActionCollection.OnValidate property
+
+Gets or sets an action to be performed when user changes contents of the field.
 
 ```csharp
 public PdfAction OnValidate { get; set; }

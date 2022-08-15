@@ -1,12 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the row background color.
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/tabletrelement/backgroundcolor/
 ---
 ## TableTRElement.BackgroundColor property
+
+Gets or sets the row background color.
 
 ```csharp
 public Color BackgroundColor { get; set; }

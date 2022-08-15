@@ -1,12 +1,14 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets rectangle of the artifact.
 type: docs
 weight: 150
 url: /net/aspose.pdf/artifact/rectangle/
 ---
 ## Artifact.Rectangle property
+
+Gets rectangle of the artifact.
 
 ```csharp
 public Rectangle Rectangle { get; }

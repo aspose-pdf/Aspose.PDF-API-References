@@ -1,12 +1,14 @@
 ---
 title: Location
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The CPU host name or physical location of the signing.
 type: docs
 weight: 70
 url: /net/aspose.pdf.forms/signature/location/
 ---
 ## Signature.Location property
+
+The CPU host name or physical location of the signing.
 
 ```csharp
 public string Location { get; set; }

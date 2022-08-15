@@ -1,12 +1,14 @@
 ---
 title: Selected
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The list of selected objects.
 type: docs
 weight: 20
 url: /net/aspose.pdf/operatorselector/selected/
 ---
 ## OperatorSelector.Selected property
+
+The list of selected objects.
 
 ```csharp
 public IList<Operator> Selected { get; }

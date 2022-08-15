@@ -1,16 +1,22 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Apply visitor for annotation.
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/watermarkannotation/accept/
 ---
 ## WatermarkAnnotation.Accept method
 
+Apply visitor for annotation.
+
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | AnnotationSelector | Visitor object. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: GetNumberValue
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets Value Number.
 type: docs
 weight: 70
 url: /net/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/
 ---
 ## StructureAttribute.GetNumberValue method
 
+Gets Value Number.
+
 ```csharp
 public double? GetNumberValue()
 ```
+
+### Return Value
+
+Value Number.
 
 ### See Also
 

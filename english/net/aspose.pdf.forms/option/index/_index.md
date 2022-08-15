@@ -1,12 +1,14 @@
 ---
 title: Index
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets index of the option.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/option/index/
 ---
 ## Option.Index property
+
+Gets index of the option.
 
 ```csharp
 public int Index { get; }

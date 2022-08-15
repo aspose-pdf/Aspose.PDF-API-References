@@ -1,16 +1,23 @@
 ---
 title: WarningInfo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructs instance for gathering information.
 type: docs
 weight: 10
 url: /net/aspose.pdf/warninginfo/warninginfo/
 ---
 ## WarningInfo constructor
 
+Constructs instance for gathering information.
+
 ```csharp
 public WarningInfo(WarningType type, string message)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | WarningType | the warning type to set |
+| message | String | the warning message to set |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: PageLayout
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Descibes page layout.
 type: docs
 weight: 5820
 url: /net/aspose.pdf/pagelayout/
 ---
 ## PageLayout enumeration
+
+Descibes page layout.
 
 ```csharp
 public enum PageLayout
@@ -16,13 +18,13 @@ public enum PageLayout
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SinglePage | `0` |  |
-| OneColumn | `1` |  |
-| TwoColumnLeft | `2` |  |
-| TwoColumnRight | `3` |  |
-| TwoPageLeft | `4` |  |
-| TwoPageRight | `5` |  |
-| Default | `6` |  |
+| SinglePage | `0` | Single page. |
+| OneColumn | `1` | Display the pages in one column. |
+| TwoColumnLeft | `2` | Display the pages in two columns, with odd-numbered pages on the left. |
+| TwoColumnRight | `3` | Display the pages in two columns, with odd-numbered pages on the right. |
+| TwoPageLeft | `4` | Display the pages two at a time, with odd-numbered pages on the left. |
+| TwoPageRight | `5` | Display the pages two at a time, with odd-numbered pages on the right. |
+| Default | `6` | Default layout. |
 
 ### See Also
 

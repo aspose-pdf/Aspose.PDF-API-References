@@ -1,16 +1,26 @@
 ---
 title: FromRgb
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets valid pdf Color object from System.Drawing.Color value.
 type: docs
 weight: 1470
 url: /net/aspose.pdf/color/fromrgb/
 ---
 ## FromRgb(Color) {#fromrgb_1}
 
+Gets valid pdf Color object from System.Drawing.Color value.
+
 ```csharp
 public static Color FromRgb(Color color)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | Color | System.Drawing.Color value. |
+
+### Return Value
+
+Color object with each component value in [0..1] range.
 
 ### See Also
 
@@ -22,9 +32,21 @@ public static Color FromRgb(Color color)
 
 ## FromRgb(double, double, double) {#fromrgb}
 
+Gets valid pdf Color object from RGB color components.
+
 ```csharp
 public static Color FromRgb(double r, double g, double b)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| r | Double | The Red color component (value 0 - 1). |
+| g | Double | The Green color component (value 0 - 1). |
+| b | Double | The Blue color component (value 0 - 1). |
+
+### Return Value
+
+Color object with each component value in [0..1] range.
 
 ### See Also
 

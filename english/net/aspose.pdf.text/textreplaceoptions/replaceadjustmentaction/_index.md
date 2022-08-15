@@ -1,12 +1,14 @@
 ---
 title: ReplaceAdjustmentAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets an action that will be done after replace of text fragment to more short.
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/
 ---
 ## TextReplaceOptions.ReplaceAdjustmentAction property
+
+Gets or sets an action that will be done after replace of text fragment to more short.
 
 ```csharp
 public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: BorderStyleUndefined
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Undefined border style.
 type: docs
 weight: 330
 url: /net/aspose.pdf.facades/formfieldfacade/borderstyleundefined/
 ---
 ## FormFieldFacade.BorderStyleUndefined field
+
+Undefined border style.
 
 ```csharp
 public const int BorderStyleUndefined;

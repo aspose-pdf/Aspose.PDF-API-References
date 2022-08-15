@@ -1,12 +1,14 @@
 ---
 title: Summary
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Summary attribute Table attribute owner.
 type: docs
 weight: 320
 url: /net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
 ## AttributeKey.Summary field
+
+Summary attribute (Table attribute owner).
 
 ```csharp
 public static readonly AttributeKey Summary;

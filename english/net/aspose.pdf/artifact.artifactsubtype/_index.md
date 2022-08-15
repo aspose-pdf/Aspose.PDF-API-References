@@ -1,12 +1,14 @@
 ---
 title: Artifact.ArtifactSubtype
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Enumeration of possible artifacts subtype.
 type: docs
 weight: 1270
 url: /net/aspose.pdf/artifact.artifactsubtype/
 ---
 ## Artifact.ArtifactSubtype enumeration
+
+Enumeration of possible artifacts subtype.
 
 ```csharp
 public enum ArtifactSubtype
@@ -16,11 +18,11 @@ public enum ArtifactSubtype
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Header | `0` |  |
-| Footer | `1` |  |
-| Watermark | `2` |  |
-| Background | `3` |  |
-| Undefined | `4` |  |
+| Header | `0` | Header artifact. |
+| Footer | `1` | Footer artifact. |
+| Watermark | `2` | Watermark artifact. |
+| Background | `3` | Background artifact. |
+| Undefined | `4` | Artifact subtype is not defined or unknown. |
 
 ### See Also
 

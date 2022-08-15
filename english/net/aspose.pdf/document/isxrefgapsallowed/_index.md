@@ -1,12 +1,14 @@
 ---
 title: IsXrefGapsAllowed
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the is document pdfa compliant.
 type: docs
 weight: 320
 url: /net/aspose.pdf/document/isxrefgapsallowed/
 ---
 ## Document.IsXrefGapsAllowed property
+
+Gets or sets the is document pdfa compliant.
 
 ```csharp
 public bool IsXrefGapsAllowed { get; set; }

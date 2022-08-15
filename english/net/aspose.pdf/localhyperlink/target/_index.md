@@ -1,12 +1,14 @@
 ---
 title: Target
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the target paragraph.
 type: docs
 weight: 20
 url: /net/aspose.pdf/localhyperlink/target/
 ---
 ## LocalHyperlink.Target property
+
+Gets or sets the target paragraph.
 
 ```csharp
 public BaseParagraph Target { get; set; }

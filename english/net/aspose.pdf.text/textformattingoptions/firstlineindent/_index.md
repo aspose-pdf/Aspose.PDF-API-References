@@ -1,12 +1,14 @@
 ---
 title: FirstLineIndent
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets first line indent value.
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/textformattingoptions/firstlineindent/
 ---
 ## TextFormattingOptions.FirstLineIndent property
+
+Gets or sets first line indent value.
 
 ```csharp
 public float FirstLineIndent { get; set; }

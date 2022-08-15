@@ -1,16 +1,22 @@
 ---
 title: MCID
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets MCID of marked-content reference object.
 type: docs
 weight: 30
 url: /net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
 ## MCRElement.MCID property
 
+Gets MCID of marked-content reference object.
+
 ```csharp
 public int MCID { get; }
 ```
+
+### Property Value
+
+MCID of marked-content reference object.
 
 ### See Also
 

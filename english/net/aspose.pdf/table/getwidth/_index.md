@@ -1,16 +1,22 @@
 ---
 title: GetWidth
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Get width.
 type: docs
 weight: 240
 url: /net/aspose.pdf/table/getwidth/
 ---
 ## Table.GetWidth method
 
+Get width.
+
 ```csharp
 public double GetWidth()
 ```
+
+### Return Value
+
+The table width
 
 ### See Also
 

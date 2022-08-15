@@ -1,12 +1,14 @@
 ---
 title: CreationDate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets the date of document creation.
 type: docs
 weight: 30
 url: /net/aspose.pdf/documentinfo/creationdate/
 ---
 ## DocumentInfo.CreationDate property
+
+Gets or sets the date of document creation.
 
 ```csharp
 public DateTime CreationDate { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: IsSynchronized
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Is this object synchronized.
 type: docs
 weight: 30
 url: /net/aspose.pdf/artifactcollection/issynchronized/
 ---
 ## ArtifactCollection.IsSynchronized property
+
+Is this object synchronized.
 
 ```csharp
 public bool IsSynchronized { get; }

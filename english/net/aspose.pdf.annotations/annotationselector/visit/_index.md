@@ -1,16 +1,22 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Select link annotation if AnnotationSelector was initialized with LinkAnnotation object.
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/annotationselector/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_7}
 
+Select link annotation if AnnotationSelector was initialized with LinkAnnotation object.
+
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| link | LinkAnnotation | LinkAnnotation object for selecting. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_2}
 
+Select attachment annotation if AnnotationSelector was initialized with FileAttachmentAnnotation object.
+
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation object for selecting. |
 
 ### See Also
 
@@ -38,9 +50,15 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ## Visit(TextAnnotation) {#visit_20}
 
+Select text annotation if AnnotationSelector was initialized with TextAnnotation object.
+
 ```csharp
 public void Visit(TextAnnotation text)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | TextAnnotation | TextAnnotation object for selecting. |
 
 ### See Also
 
@@ -53,9 +71,15 @@ public void Visit(TextAnnotation text)
 
 ## Visit(RedactionAnnotation) {#visit_13}
 
+Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object.
+
 ```csharp
 public void Visit(RedactionAnnotation redact)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| redact | RedactionAnnotation | RedactAnnotation object for selecting. |
 
 ### See Also
 
@@ -68,9 +92,15 @@ public void Visit(RedactionAnnotation redact)
 
 ## Visit(FreeTextAnnotation) {#visit_3}
 
+Select freetext annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
+
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| freetext | FreeTextAnnotation | FreeTextAnnotation object for selecting. |
 
 ### See Also
 
@@ -83,9 +113,15 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_4}
 
+Select attachment annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
+
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| highlight | HighlightAnnotation | HighlightAnnotation object for selecting. |
 
 ### See Also
 
@@ -98,9 +134,15 @@ public void Visit(HighlightAnnotation highlight)
 
 ## Visit(UnderlineAnnotation) {#visit_21}
 
+Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object.
+
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| underline | UnderlineAnnotation | UnderlineAnnotation object for selecting. |
 
 ### See Also
 
@@ -113,9 +155,15 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_19}
 
+Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object.
+
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation object for selecting. |
 
 ### See Also
 
@@ -128,9 +176,15 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_17}
 
+Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object.
+
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| squiggly | SquigglyAnnotation | SquigglyAnnotation object for selecting. |
 
 ### See Also
 
@@ -143,9 +197,15 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_12}
 
+Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object.
+
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| popup | PopupAnnotation | PopupAnnotation object for selecting. |
 
 ### See Also
 
@@ -158,9 +218,15 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_6}
 
+Select line annotation if AnnotationSelector was initialized with LineAnnotation object.
+
 ```csharp
 public void Visit(LineAnnotation line)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| line | LineAnnotation | LineAnnotation object for selecting. |
 
 ### See Also
 
@@ -173,9 +239,15 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_1}
 
+Select circle annotation if AnnotationSelector was initialized with CircleAnnotation object.
+
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| circle | CircleAnnotation | CircleAnnotation object for selecting. |
 
 ### See Also
 
@@ -188,9 +260,15 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_16}
 
+Select square annotation if AnnotationSelector was initialized with SquareAnnotation object.
+
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| square | SquareAnnotation | SquareAnnotation object for selecting. |
 
 ### See Also
 
@@ -203,9 +281,15 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_5}
 
+Select ink annotation if AnnotationSelector was initialized with InkAnnotation object.
+
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ink | InkAnnotation | InkAnnotation object for selecting. |
 
 ### See Also
 
@@ -218,9 +302,15 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_11}
 
+Select polyline annotation if AnnotationSelector was initialized with PolylineAnnotation object.
+
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| polyline | PolylineAnnotation | PolylineAnnotation object for selecting. |
 
 ### See Also
 
@@ -233,9 +323,15 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_10}
 
+Select polygon annotation if AnnotationSelector was initialized with PolygonAnnotation object.
+
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| polygon | PolygonAnnotation | PolygonAnnotation object for selecting. |
 
 ### See Also
 
@@ -248,9 +344,15 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit}
 
+Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object.
+
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| caret | CaretAnnotation | CaretAnnotation object for selecting. |
 
 ### See Also
 
@@ -263,9 +365,15 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_18}
 
+Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object.
+
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stamp | StampAnnotation | StampAnnotation object for selecting. |
 
 ### See Also
 
@@ -278,9 +386,15 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_23}
 
+Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object.
+
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| widget | WidgetAnnotation | WidgetAnnotation object for selecting. |
 
 ### See Also
 
@@ -293,9 +407,15 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(WatermarkAnnotation) {#visit_22}
 
+Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object.
+
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| watermark | WatermarkAnnotation | WatermarkAnnotation for selecting. |
 
 ### See Also
 
@@ -308,9 +428,15 @@ public void Visit(WatermarkAnnotation watermark)
 
 ## Visit(MovieAnnotation) {#visit_8}
 
+Select movie annotation if AnnotationSelector was initialized with MovieAnnotation object.
+
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| movie | MovieAnnotation | MovieAnnotation object for selecting. |
 
 ### See Also
 
@@ -323,9 +449,15 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(RichMediaAnnotation) {#visit_14}
 
+Select movie annotation if AnnotationSelector was initialized with RichMedia annotation object.
+
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| richMedia | RichMediaAnnotation | RichMedia annotation. |
 
 ### See Also
 
@@ -338,9 +470,15 @@ public void Visit(RichMediaAnnotation richMedia)
 
 ## Visit(ScreenAnnotation) {#visit_15}
 
+Select screen annotation if AnnotationSelector was initialized with ScreenAnnotation object.
+
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| screen | ScreenAnnotation | ScreenAnnotation object for selecting. |
 
 ### See Also
 
@@ -353,9 +491,15 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(PDF3DAnnotation) {#visit_9}
 
+Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object.
+
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf3D | PDF3DAnnotation | PDF3DAnnotation object for selecting. |
 
 ### See Also
 

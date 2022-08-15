@@ -1,12 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Releases internal resources.
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/memoryfontsource/dispose/
 ---
 ## MemoryFontSource.Dispose method
+
+Releases internal resources.
 
 ```csharp
 public void Dispose()

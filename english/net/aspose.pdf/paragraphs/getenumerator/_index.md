@@ -1,16 +1,22 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the enumerator.
 type: docs
 weight: 70
 url: /net/aspose.pdf/paragraphs/getenumerator/
 ---
 ## Paragraphs.GetEnumerator method
 
+Gets the enumerator.
+
 ```csharp
 public IEnumerator<BaseParagraph> GetEnumerator()
 ```
+
+### Return Value
+
+Enumerator object.
 
 ### See Also
 

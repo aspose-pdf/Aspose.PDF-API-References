@@ -1,12 +1,14 @@
 ---
 title: Datasets
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: XFA Datasets component of an XFA form.
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/xfa/datasets/
 ---
 ## XFA.Datasets property
+
+XFA Datasets component of an XFA form.
 
 ```csharp
 public XmlNode Datasets { get; }

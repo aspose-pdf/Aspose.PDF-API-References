@@ -1,12 +1,14 @@
 ---
 title: BreakText
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets break text for table
 type: docs
 weight: 50
 url: /net/aspose.pdf/table/breaktext/
 ---
 ## Table.BreakText property
+
+Gets or sets break text for table
 
 ```csharp
 public TextFragment BreakText { get; set; }

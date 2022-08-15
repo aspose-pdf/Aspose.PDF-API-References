@@ -1,12 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets Date.
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/datefield/value/
 ---
 ## DateField.Value property
+
+Gets or sets Date.
 
 ```csharp
 public DateTime Value { get; set; }

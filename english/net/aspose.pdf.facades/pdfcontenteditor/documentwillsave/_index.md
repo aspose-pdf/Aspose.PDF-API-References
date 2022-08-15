@@ -1,12 +1,14 @@
 ---
 title: DocumentWillSave
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: A document event type. Excute a action before saving.
 type: docs
 weight: 520
 url: /net/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 ---
 ## PdfContentEditor.DocumentWillSave field
+
+A document event type. Excute a action before saving.
 
 ```csharp
 public const string DocumentWillSave;

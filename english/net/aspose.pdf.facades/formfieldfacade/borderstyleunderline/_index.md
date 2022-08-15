@@ -1,12 +1,14 @@
 ---
 title: BorderStyleUnderline
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines an underlined border style.
 type: docs
 weight: 340
 url: /net/aspose.pdf.facades/formfieldfacade/borderstyleunderline/
 ---
 ## FormFieldFacade.BorderStyleUnderline field
+
+Defines an underlined border style.
 
 ```csharp
 public const int BorderStyleUnderline;

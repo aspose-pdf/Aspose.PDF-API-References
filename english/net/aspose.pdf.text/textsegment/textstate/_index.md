@@ -1,16 +1,22 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets text state for the text that TextSegmentaspose.pdf.text/textsegment object represents.
 type: docs
 weight: 110
 url: /net/aspose.pdf.text/textsegment/textstate/
 ---
 ## TextSegment.TextState property
 
+Gets or sets text state for the text that [`TextSegment`](../../textsegment) object represents.
+
 ```csharp
 public TextState TextState { get; set; }
 ```
+
+### Remarks
+
+Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ### See Also
 

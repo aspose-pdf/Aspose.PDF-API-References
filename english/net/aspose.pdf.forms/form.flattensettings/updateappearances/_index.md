@@ -1,12 +1,14 @@
 ---
 title: UpdateAppearances
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: If set all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. This option may decrease performance. By default set to false.
 type: docs
 weight: 50
 url: /net/aspose.pdf.forms/form.flattensettings/updateappearances/
 ---
 ## Form.FlattenSettings.UpdateAppearances property
+
+If set, all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. This option may decrease performance. By default set to false.
 
 ```csharp
 public bool UpdateAppearances { get; set; }

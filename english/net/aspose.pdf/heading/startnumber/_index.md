@@ -1,12 +1,14 @@
 ---
 title: StartNumber
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the heading start number.
 type: docs
 weight: 60
 url: /net/aspose.pdf/heading/startnumber/
 ---
 ## Heading.StartNumber property
+
+Gets the heading start number.
 
 ```csharp
 public int StartNumber { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: EOClip
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing W operator set clipping path using even-odd rule.
 type: docs
 weight: 5040
 url: /net/aspose.pdf.operators/eoclip/
 ---
 ## EOClip class
+
+Class representing W* operator (set clipping path using even-odd rule).
 
 ```csharp
 public class EOClip : Operator
@@ -16,14 +18,14 @@ public class EOClip : Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

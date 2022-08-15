@@ -1,12 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets the value of text structure element.
 type: docs
 weight: 10
 url: /net/aspose.pdf.structure/textelement/text/
 ---
 ## TextElement.Text property
+
+Gets the value of text structure element.
 
 ```csharp
 public string Text { get; }

@@ -1,12 +1,14 @@
 ---
 title: ET
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing operator ET End of text block.
 type: docs
 weight: 5070
 url: /net/aspose.pdf.operators/et/
 ---
 ## ET class
+
+Class representing operator ET (End of text block).
 
 ```csharp
 public class ET : BlockTextOperator
@@ -16,20 +18,20 @@ public class ET : BlockTextOperator
 
 | Name | Description |
 | --- | --- |
-| [ET](et)() | The default constructor. |
+| [ET](et)() | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/et/accept)(IOperatorSelector) |  |
-| override [ToString](../../aspose.pdf.operators/et/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/et/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/et/tostring)() | Produces text code of operator. |
 
 ### See Also
 

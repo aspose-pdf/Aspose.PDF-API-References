@@ -1,12 +1,14 @@
 ---
 title: Resources
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing page resources.
 type: docs
 weight: 6160
 url: /net/aspose.pdf/resources/
 ---
 ## Resources class
+
+Class representing page resources.
 
 ```csharp
 public sealed class Resources
@@ -16,15 +18,15 @@ public sealed class Resources
 
 | Name | Description |
 | --- | --- |
-| [Fonts](../../aspose.pdf/resources/fonts) { get; } |  |
-| [Forms](../../aspose.pdf/resources/forms) { get; } |  |
-| [Images](../../aspose.pdf/resources/images) { get; } |  |
+| [Fonts](../../aspose.pdf/resources/fonts) { get; } | Gets [`Fonts`](./fonts) resources collection |
+| [Forms](../../aspose.pdf/resources/forms) { get; } | Gets [`Forms`](./forms) forms collection |
+| [Images](../../aspose.pdf/resources/images) { get; } | Gets [`Images`](./images) images collection |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFonts](../../aspose.pdf/resources/getfonts)(bool) |  |
+| [GetFonts](../../aspose.pdf/resources/getfonts)(bool) | Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag. |
 
 ### See Also
 

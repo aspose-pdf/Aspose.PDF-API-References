@@ -1,12 +1,14 @@
 ---
 title: ResumeUpdate
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Resumes document update. Updates contents stream in case there are any pending changes.
 type: docs
 weight: 130
 url: /net/aspose.pdf/baseoperatorcollection/resumeupdate/
 ---
 ## BaseOperatorCollection.ResumeUpdate method
+
+Resumes document update. Updates contents stream in case there are any pending changes.
 
 ```csharp
 public abstract void ResumeUpdate()

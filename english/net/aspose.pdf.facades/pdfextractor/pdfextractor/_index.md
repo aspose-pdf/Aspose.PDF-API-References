@@ -1,14 +1,14 @@
 ---
 title: PdfExtractor
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes new PdfExtractoraspose.pdf.facades/pdfextractor object.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfextractor/pdfextractor/
 ---
 ## PdfExtractor() {#constructor}
 
-The default constructor.
+Initializes new [`PdfExtractor`](../../pdfextractor) object.
 
 ```csharp
 public PdfExtractor()
@@ -24,9 +24,15 @@ public PdfExtractor()
 
 ## PdfExtractor(Document) {#constructor_1}
 
+Initializes new [`PdfExtractor`](../../pdfextractor) object on base of the *document*.
+
 ```csharp
 public PdfExtractor(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Pdf document. |
 
 ### See Also
 

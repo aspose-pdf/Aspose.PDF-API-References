@@ -1,17 +1,23 @@
 ---
 title: FormEditor
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor for FormEditor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/formeditor/formeditor/
 ---
 ## FormEditor() {#constructor}
 
-The default constructor.
+Constructor for FormEditor.
 
 ```csharp
 public FormEditor()
+```
+
+### Examples
+
+```csharp
+FormEditor formEditor = new FormEditor();
 ```
 
 ### See Also
@@ -24,9 +30,15 @@ public FormEditor()
 
 ## FormEditor(Document) {#constructor_1}
 
+Initializes new [`FormEditor`](../../formeditor) object on base of the *document*.
+
 ```csharp
 public FormEditor(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Pdf document. |
 
 ### See Also
 

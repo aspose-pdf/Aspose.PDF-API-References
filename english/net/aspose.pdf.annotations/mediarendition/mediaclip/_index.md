@@ -1,12 +1,14 @@
 ---
 title: MediaClip
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets media clip obkects associated with rendition.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/mediarendition/mediaclip/
 ---
 ## MediaRendition.MediaClip property
+
+Gets or sets media clip obkects associated with rendition.
 
 ```csharp
 public MediaClip MediaClip { get; }

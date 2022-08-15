@@ -1,12 +1,14 @@
 ---
 title: TextFormattingOptions.LineSpacingMode
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Defines line spacing specifics
 type: docs
 weight: 7030
 url: /net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
 ## TextFormattingOptions.LineSpacingMode enumeration
+
+Defines line spacing specifics
 
 ```csharp
 public enum LineSpacingMode
@@ -16,8 +18,8 @@ public enum LineSpacingMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FontSize | `0` |  |
-| FullSize | `1` |  |
+| FontSize | `0` | Line spacing is font size |
+| FullSize | `1` | Line spacing is a full space between descender and ascender |
 
 ### See Also
 

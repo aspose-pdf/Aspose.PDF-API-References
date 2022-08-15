@@ -1,15 +1,30 @@
 ---
 title: FillImageField
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Pastes an image onto the existing button field as its appearance according to its fully qualified field name.
 type: docs
 weight: 140
 url: /net/aspose.pdf.facades/form/fillimagefield/
 ---
 ## FillImageField(string, string) {#fillimagefield_1}
 
+Pastes an image onto the existing button field as its appearance according to its fully qualified field name.
+
 ```csharp
 public void FillImageField(string fieldName, string imageFileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldName | String | The fully qualified field name of the image button field. |
+| imageFileName | String | The path of the image file, relative and absolute are both ok. |
+
+### Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
+form.FillImageField("fieldName", "file.jpg");
+form.Save();
 ```
 
 ### See Also
@@ -22,8 +37,22 @@ public void FillImageField(string fieldName, string imageFileName)
 
 ## FillImageField(string, Stream) {#fillimagefield}
 
+Overloads function of FillImageField. The input is a image stream.
+
 ```csharp
 public void FillImageField(string fieldName, Stream imageStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldName | String | The fully qualified field name. |
+| imageStream | Stream | The image's stream. |
+
+### Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
+form.FillImageField("fieldName", new FileStream("file.jpg", FileMode.Open, FileAccess.Read));
 ```
 
 ### See Also

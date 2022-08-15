@@ -1,12 +1,14 @@
 ---
 title: IFacade
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: General facade interface that defines common facades methods.
 type: docs
 weight: 2320
 url: /net/aspose.pdf.facades/ifacade/
 ---
 ## IFacade interface
+
+General facade interface that defines common facades methods.
 
 ```csharp
 public interface IFacade : IDisposable
@@ -16,10 +18,10 @@ public interface IFacade : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf)(Document) |  |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_1)(Stream) |  |
-| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_2)(string) |  |
-| [Close](../../aspose.pdf.facades/ifacade/close)() |  |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf)(Document) | Binds PDF document for editing. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_1)(Stream) | Binds PDF document for editing. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf#bindpdf_2)(string) | Binds PDF document for editing. |
+| [Close](../../aspose.pdf.facades/ifacade/close)() | Releases any resources associates with the current facade. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: CreateTOCIElement
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Creates TOCIElementaspose.pdf.logicalstructure/tocielement.
 type: docs
 weight: 360
 url: /net/aspose.pdf.tagged/itaggedcontent/createtocielement/
 ---
 ## ITaggedContent.CreateTOCIElement method
 
+Creates [`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement).
+
 ```csharp
 public TOCIElement CreateTOCIElement()
 ```
+
+### Return Value
+
+Created structure element.
 
 ### See Also
 

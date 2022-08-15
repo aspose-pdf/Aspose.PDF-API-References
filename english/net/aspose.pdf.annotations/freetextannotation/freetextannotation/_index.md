@@ -1,16 +1,23 @@
 ---
 title: FreeTextAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor to use with Generator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/freetextannotation/freetextannotation/
 ---
 ## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
 
+Constructor to use with Generator.
+
 ```csharp
 public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Document where annotation will be created. |
+| appearance | DefaultAppearance | Default Appearance |
 
 ### See Also
 
@@ -24,9 +31,17 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 ## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
 
+Creates new FreeText annotation on the specified page.
+
 ```csharp
 public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearance)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The document's page where annotation should be created. |
+| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
+| appearance | DefaultAppearance | The default appearance to be used in formatting the text. |
 
 ### See Also
 

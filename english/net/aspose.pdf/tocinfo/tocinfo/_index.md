@@ -1,14 +1,14 @@
 ---
 title: TocInfo
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the TocInfoaspose.pdf/tocinfo class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/tocinfo/tocinfo/
 ---
 ## TocInfo constructor
 
-The default constructor.
+Initializes a new instance of the [`TocInfo`](../../tocinfo) class.
 
 ```csharp
 public TocInfo()

@@ -1,12 +1,14 @@
 ---
 title: ColorType
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Specifies color type of elements on page.
 type: docs
 weight: 1460
 url: /net/aspose.pdf/colortype/
 ---
 ## ColorType enumeration
+
+Specifies color type of elements on page.
 
 ```csharp
 public enum ColorType
@@ -16,10 +18,10 @@ public enum ColorType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Rgb | `0` |  |
-| Grayscale | `1` |  |
-| BlackAndWhite | `2` |  |
-| Undefined | `3` |  |
+| Rgb | `0` | RGB color type. |
+| Grayscale | `1` | Grayscale color type. |
+| BlackAndWhite | `2` | Black and white color type. |
+| Undefined | `3` | Undefined color type value. |
 
 ### See Also
 

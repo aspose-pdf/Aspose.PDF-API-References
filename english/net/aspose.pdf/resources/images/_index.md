@@ -1,12 +1,14 @@
 ---
 title: Images
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets Imagesaspose.pdf/resources/images images collection
 type: docs
 weight: 30
 url: /net/aspose.pdf/resources/images/
 ---
 ## Resources.Images property
+
+Gets `Images` images collection
 
 ```csharp
 public XImageCollection Images { get; }

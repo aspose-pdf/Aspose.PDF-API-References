@@ -1,16 +1,22 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Clone the graph.
 type: docs
 weight: 110
 url: /net/aspose.pdf.drawing/graph/clone/
 ---
 ## Graph.Clone method
 
+Clone the graph.
+
 ```csharp
 public override object Clone()
 ```
+
+### Return Value
+
+The cloned object
 
 ### See Also
 

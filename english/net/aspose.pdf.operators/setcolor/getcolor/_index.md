@@ -1,16 +1,22 @@
 ---
 title: getColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns color specified by the operator.
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/setcolor/getcolor/
 ---
 ## SetColor.getColor method
 
+Returns color specified by the operator.
+
 ```csharp
 public override Color getColor()
 ```
+
+### Return Value
+
+Operator color.
 
 ### See Also
 

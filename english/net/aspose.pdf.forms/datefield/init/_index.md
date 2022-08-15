@@ -1,16 +1,22 @@
 ---
 title: Init
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Initializes the JS Action.
 type: docs
 weight: 50
 url: /net/aspose.pdf.forms/datefield/init/
 ---
 ## DateField.Init method
 
+Initializes the JS Action.
+
 ```csharp
 public void Init(Page page)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The page. |
 
 ### See Also
 

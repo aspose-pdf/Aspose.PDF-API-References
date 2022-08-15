@@ -1,12 +1,14 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: The color of a field background default is white.
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/formfieldfacade/backgroundcolor/
 ---
 ## FormFieldFacade.BackgroundColor property
+
+The color of a field background, default is white.
 
 ```csharp
 public Color BackgroundColor { get; set; }

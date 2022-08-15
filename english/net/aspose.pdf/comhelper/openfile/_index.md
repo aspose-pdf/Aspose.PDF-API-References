@@ -1,16 +1,26 @@
 ---
 title: OpenFile
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Just create and return Document using filename. The same as Documentaspose.pdf/document/document.
 type: docs
 weight: 20
 url: /net/aspose.pdf/comhelper/openfile/
 ---
 ## OpenFile(string) {#openfile}
 
+Just create and return Document using *filename*. The same as [`Document`](../../document/document).
+
 ```csharp
 public Document OpenFile(string filename)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | The name of the pdf document file. |
+
+### Return Value
+
+Document object
 
 ### See Also
 
@@ -23,9 +33,20 @@ public Document OpenFile(string filename)
 
 ## OpenFile(string, string) {#openfile_2}
 
+Initialize and return new instance of the [`Document`](../../document) class for working with encrypted document.
+
 ```csharp
 public Document OpenFile(string filename, string password)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
+
+### Return Value
+
+Document object
 
 ### See Also
 
@@ -38,9 +59,21 @@ public Document OpenFile(string filename, string password)
 
 ## OpenFile(string, string, bool) {#openfile_3}
 
+Initialize new instance of the [`Document`](../../document) class for working with encrypted document.
+
 ```csharp
 public Document OpenFile(string filename, string password, bool isManagedStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### Return Value
+
+Document object
 
 ### See Also
 
@@ -53,9 +86,20 @@ public Document OpenFile(string filename, string password, bool isManagedStream)
 
 ## OpenFile(string, LoadOptions) {#openfile_1}
 
+Open an existing document from a file providing necessary converting oprions to get pdf document.
+
 ```csharp
 public Document OpenFile(string filename, LoadOptions options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | Input file to convert into pdf document. |
+| options | LoadOptions | Represents properties for converting *filename* into pdf document. |
+
+### Return Value
+
+Document object
 
 ### See Also
 

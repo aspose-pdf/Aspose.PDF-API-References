@@ -1,16 +1,26 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Checks if font exists in font collection.
 type: docs
 weight: 70
 url: /net/aspose.pdf.text/fontcollection/contains/
 ---
 ## Contains(string) {#contains_1}
 
+Checks if font exists in font collection.
+
 ```csharp
 public bool Contains(string name)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | String | Font name. |
+
+### Return Value
+
+True in case collection contains the font with specified name.
 
 ### See Also
 
@@ -22,9 +32,19 @@ public bool Contains(string name)
 
 ## Contains(Font) {#contains}
 
+Determines whether the collection contains a specific value.
+
 ```csharp
 public bool Contains(Font item)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | Font | The object to locate in the collection |
+
+### Return Value
+
+true if item is found in the collection; otherwise, false.
 
 ### See Also
 

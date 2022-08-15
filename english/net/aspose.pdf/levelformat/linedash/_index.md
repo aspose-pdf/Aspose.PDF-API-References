@@ -1,12 +1,14 @@
 ---
 title: LineDash
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets TOC line dash.
 type: docs
 weight: 20
 url: /net/aspose.pdf/levelformat/linedash/
 ---
 ## LevelFormat.LineDash property
+
+Gets or sets TOC line dash.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }

@@ -1,16 +1,22 @@
 ---
 title: Save
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Saves all the pdfs.
 type: docs
 weight: 100
 url: /net/aspose.pdf.facades/autofiller/save/
 ---
 ## Save(string) {#save_2}
 
+Saves all the pdfs.
+
 ```csharp
 public void Save(string destFile)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destFile | String | Output file name. |
 
 ### See Also
 
@@ -22,9 +28,15 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save_1}
 
+Saves all the pdfs.
+
 ```csharp
 public void Save(Stream destStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destStream | Stream | Output stream. |
 
 ### See Also
 

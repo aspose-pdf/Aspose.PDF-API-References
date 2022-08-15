@@ -1,12 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets border style.
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/border/style/
 ---
 ## Border.Style property
+
+Gets or sets border style.
 
 ```csharp
 public BorderStyle Style { get; set; }

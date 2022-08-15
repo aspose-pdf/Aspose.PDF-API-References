@@ -1,12 +1,14 @@
 ---
 title: TextEditOptions.NoCharacterAction
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Action to perform if font does not contain required character
 type: docs
 weight: 6970
 url: /net/aspose.pdf.text/texteditoptions.nocharacteraction/
 ---
 ## TextEditOptions.NoCharacterAction enumeration
+
+Action to perform if font does not contain required character
 
 ```csharp
 public enum NoCharacterAction
@@ -16,10 +18,10 @@ public enum NoCharacterAction
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ThrowException | `0` |  |
-| UseStandardFont | `1` |  |
-| ReplaceAnyway | `2` |  |
-| UseCustomReplacementFont | `3` |  |
+| ThrowException | `0` | Throw exception |
+| UseStandardFont | `1` | Repalce font to standard font which contains required character |
+| ReplaceAnyway | `2` | Replace text anyway without font substitution |
+| UseCustomReplacementFont | `3` | Repalce font to defined replacement font |
 
 ### See Also
 

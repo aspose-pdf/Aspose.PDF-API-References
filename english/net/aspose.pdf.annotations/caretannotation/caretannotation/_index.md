@@ -1,16 +1,22 @@
 ---
 title: CaretAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor for usign in Generator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/caretannotation/caretannotation/
 ---
 ## CaretAnnotation(Document) {#constructor}
 
+Constructor for usign in Generator.
+
 ```csharp
 public CaretAnnotation(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Document where annotation will be created. |
 
 ### See Also
 
@@ -23,9 +29,16 @@ public CaretAnnotation(Document document)
 
 ## CaretAnnotation(Page, Rectangle) {#constructor_1}
 
+Creates new Caret annotation on the specified page.
+
 ```csharp
 public CaretAnnotation(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Document's page where annotation should be created. |
+| rect | Rectangle | Required rectangle that sets annotation's border. |
 
 ### See Also
 

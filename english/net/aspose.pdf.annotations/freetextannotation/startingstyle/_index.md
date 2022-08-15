@@ -1,12 +1,14 @@
 ---
 title: StartingStyle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets line ending style for line ending point. OThis property is obsolete please use EndingStyle.
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/freetextannotation/startingstyle/
 ---
 ## FreeTextAnnotation.StartingStyle property
+
+Gets or sets line ending style for line ending point. OThis property is obsolete, please use EndingStyle.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }

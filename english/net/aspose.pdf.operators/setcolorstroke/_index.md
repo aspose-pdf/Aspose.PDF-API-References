@@ -1,12 +1,14 @@
 ---
 title: SetColorStroke
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Class representing SC operator set color for stroking color operators.
 type: docs
 weight: 5390
 url: /net/aspose.pdf.operators/setcolorstroke/
 ---
 ## SetColorStroke class
+
+Class representing SC operator set color for stroking color operators.
 
 ```csharp
 public class SetColorStroke : BasicSetColorOperator
@@ -16,34 +18,34 @@ public class SetColorStroke : BasicSetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetColorStroke](setcolorstroke#constructor)() | The default constructor. |
-| [SetColorStroke](setcolorstroke#constructor_1)(double) |  |
-| [SetColorStroke](setcolorstroke#constructor_4)(double[]) |  |
-| [SetColorStroke](setcolorstroke#constructor_2)(double, double, double) |  |
-| [SetColorStroke](setcolorstroke#constructor_3)(double, double, double, double) |  |
+| [SetColorStroke](setcolorstroke#constructor)() | Initializes operator. |
+| [SetColorStroke](setcolorstroke#constructor_1)(double) | Set color for stroking operators for DeviceGrey, CalGrey and Indexed color spaces. |
+| [SetColorStroke](setcolorstroke#constructor_4)(double[]) | Constructor which allows to set color components. |
+| [SetColorStroke](setcolorstroke#constructor_2)(double, double, double) | Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces |
+| [SetColorStroke](setcolorstroke#constructor_3)(double, double, double, double) | Set color for stroking operator for CMYK color space |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } |  |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } |  |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } |  |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } |  |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } |  |
-| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } |  |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } |  |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } |  |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } |  |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Gets red component of color |
+| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Gets cyan component of CMYK color. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Gets array of color components. |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Gets green component of color |
+| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Gets black component of gray color. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Gets black component of CMYK color. |
+| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Gets magenta component of CMYK color. |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Gets red component of color |
+| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Gets yellow component of CMYK color. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept)(IOperatorSelector) |  |
-| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor)() |  |
-| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor)() | Returns color specified by operator. |
+| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also
 

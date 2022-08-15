@@ -1,16 +1,22 @@
 ---
 title: TextAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Constructor for annotation when used in Generator.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/textannotation/textannotation/
 ---
 ## TextAnnotation(Document) {#constructor}
 
+Constructor for annotation when used in Generator.
+
 ```csharp
 public TextAnnotation(Document document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Document where text annotation will be created. |
 
 ### See Also
 
@@ -23,9 +29,16 @@ public TextAnnotation(Document document)
 
 ## TextAnnotation(Page, Rectangle) {#constructor_1}
 
+Creates new Text annotation on the specified page.
+
 ```csharp
 public TextAnnotation(Page page, Rectangle rect)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The document's page where annotation should be created. |
+| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
 
 ### See Also
 

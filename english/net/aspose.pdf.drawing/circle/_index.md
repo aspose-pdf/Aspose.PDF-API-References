@@ -1,12 +1,14 @@
 ---
 title: Circle
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Represents circle.
 type: docs
 weight: 1890
 url: /net/aspose.pdf.drawing/circle/
 ---
 ## Circle class
+
+Represents circle.
 
 ```csharp
 public sealed class Circle : Shape
@@ -16,17 +18,17 @@ public sealed class Circle : Shape
 
 | Name | Description |
 | --- | --- |
-| [Circle](circle)(float, float, float) |  |
+| [Circle](circle)(float, float, float) | Initializes a new instance of the [`Circle`](../circle) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } |  |
-| [PosX](../../aspose.pdf.drawing/circle/posx) { get; set; } |  |
-| [PosY](../../aspose.pdf.drawing/circle/posy) { get; set; } |  |
-| [Radius](../../aspose.pdf.drawing/circle/radius) { get; set; } |  |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } |  |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo) object that indicates the graph info,such as color, line width,etc. |
+| [PosX](../../aspose.pdf.drawing/circle/posx) { get; set; } | Gets or sets a float value that indicates the x-coordinate of the center of the circle. |
+| [PosY](../../aspose.pdf.drawing/circle/posy) { get; set; } | Gets or sets a float value that indicates the y-coordinate of the center of the circle. |
+| [Radius](../../aspose.pdf.drawing/circle/radius) { get; set; } | Gets or sets a float value that indicates the radius of the circle. |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Gets or sets a text for shape |
 
 ### See Also
 

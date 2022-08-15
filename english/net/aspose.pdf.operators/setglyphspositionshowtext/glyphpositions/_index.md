@@ -1,12 +1,14 @@
 ---
 title: GlyphPositions
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Returns positions of glyphs.
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 ---
 ## SetGlyphsPositionShowText.GlyphPositions property
+
+Returns positions of glyphs.
 
 ```csharp
 public IEnumerable<GlyphPosition> GlyphPositions { get; }

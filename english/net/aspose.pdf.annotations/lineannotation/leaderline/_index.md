@@ -1,12 +1,14 @@
 ---
 title: LeaderLine
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets or sets leader line length.
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/lineannotation/leaderline/
 ---
 ## LineAnnotation.LeaderLine property
+
+Gets or sets leader line length.
 
 ```csharp
 public double LeaderLine { get; set; }

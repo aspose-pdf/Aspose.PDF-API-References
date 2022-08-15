@@ -1,12 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets text of operator.
 type: docs
 weight: 40
 url: /net/aspose.pdf.operators/setspacingmovetonextlineshowtext/text/
 ---
 ## SetSpacingMoveToNextLineShowText.Text property
+
+Gets text of operator.
 
 ```csharp
 public override string Text { get; }
