@@ -1,14 +1,12 @@
 ---
 title: FontName
 second_title: Aspose.PDF for .NET API Reference
-description: Gets font name in the default appearance.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/defaultappearance/fontname/
 ---
 ## DefaultAppearance.FontName property
-
-Gets font name in the default appearance.
 
 ```csharp
 public string FontName { get; set; }

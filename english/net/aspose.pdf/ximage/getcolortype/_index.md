@@ -1,22 +1,16 @@
 ---
 title: GetColorType
 second_title: Aspose.PDF for .NET API Reference
-description: Returns color type of image.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/ximage/getcolortype/
 ---
 ## XImage.GetColorType method
 
-Returns color type of image.
-
 ```csharp
 public ColorType GetColorType()
 ```
-
-### Return Value
-
-The color type value.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: AllowReusePageContent
 second_title: Aspose.PDF for .NET API Reference
-description: If true page contents will be reused when document is optimized for equal pages.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/
 ---
 ## OptimizationOptions.AllowReusePageContent property
-
-If true page contents will be reused when document is optimized for equal pages.
 
 ```csharp
 public bool AllowReusePageContent { get; set; }

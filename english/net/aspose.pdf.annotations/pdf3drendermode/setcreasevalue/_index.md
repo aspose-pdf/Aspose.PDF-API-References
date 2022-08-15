@@ -1,26 +1,16 @@
 ---
 title: SetCreaseValue
 second_title: Aspose.PDF for .NET API Reference
-description: Sets the crease value.
+description: 
 type: docs
 weight: 220
 url: /net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
 ## PDF3DRenderMode.SetCreaseValue method
 
-Sets the crease value.
-
 ```csharp
 public PDF3DRenderMode SetCreaseValue(double creaseValue)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| creaseValue | Double | The crease value. |
-
-### Return Value
-
-PDF3DRenderMode.
 
 ### See Also
 

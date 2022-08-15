@@ -1,22 +1,16 @@
 ---
 title: DarkSeaGreen
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF8FBC8F.
+description: 
 type: docs
 weight: 350
 url: /net/aspose.pdf/color/darkseagreen/
 ---
 ## Color.DarkSeaGreen property
 
-Gets a system-defined color that has an ARGB value of #FF8FBC8F.
-
 ```csharp
 public static Color DarkSeaGreen { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

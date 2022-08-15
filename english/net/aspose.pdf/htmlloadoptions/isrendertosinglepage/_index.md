@@ -1,14 +1,12 @@
 ---
 title: IsRenderToSinglePage
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets rendering all document to single page
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/htmlloadoptions/isrendertosinglepage/
 ---
 ## HtmlLoadOptions.IsRenderToSinglePage property
-
-Gets or sets rendering all document to single page
 
 ```csharp
 public bool IsRenderToSinglePage { get; set; }

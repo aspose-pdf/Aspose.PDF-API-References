@@ -1,14 +1,12 @@
 ---
 title: BorderWidthMedium
 second_title: Aspose.PDF for .NET API Reference
-description: Defines a medium border width.
+description: 
 type: docs
 weight: 350
 url: /net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
 ---
 ## FormFieldFacade.BorderWidthMedium field
-
-Defines a medium border width.
 
 ```csharp
 public const float BorderWidthMedium;

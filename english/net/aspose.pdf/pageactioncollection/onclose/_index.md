@@ -1,14 +1,12 @@
 ---
 title: OnClose
 second_title: Aspose.PDF for .NET API Reference
-description: An action that shall be performed when the page is closed.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/pageactioncollection/onclose/
 ---
 ## PageActionCollection.OnClose property
-
-An action that shall be performed when the page is closed.
 
 ```csharp
 public PdfAction OnClose { get; set; }

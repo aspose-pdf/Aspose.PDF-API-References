@@ -1,14 +1,12 @@
 ---
 title: Elements
 second_title: Aspose.PDF for .NET API Reference
-description: Elements of the matrix.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/matrix/elements/
 ---
 ## Matrix.Elements property
-
-Elements of the matrix.
 
 ```csharp
 public float[] Elements { get; }

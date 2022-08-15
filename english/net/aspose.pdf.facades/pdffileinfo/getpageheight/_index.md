@@ -1,26 +1,16 @@
 ---
 title: GetPageHeight
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the height of the specified page.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.pdf.facades/pdffileinfo/getpageheight/
 ---
 ## PdfFileInfo.GetPageHeight method
 
-Gets the height of the specified page.
-
 ```csharp
 public float GetPageHeight(int pageNum)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNum | Int32 | Page number. |
-
-### Return Value
-
-The height of the page.
 
 ### See Also
 

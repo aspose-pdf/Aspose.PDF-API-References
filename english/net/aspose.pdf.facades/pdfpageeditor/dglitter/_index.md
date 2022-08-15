@@ -1,14 +1,12 @@
 ---
 title: DGLITTER
 second_title: Aspose.PDF for .NET API Reference
-description: Diagonal Glitter
+description: 
 type: docs
 weight: 220
 url: /net/aspose.pdf.facades/pdfpageeditor/dglitter/
 ---
 ## PdfPageEditor.DGLITTER field
-
-Diagonal Glitter
 
 ```csharp
 public const int DGLITTER;

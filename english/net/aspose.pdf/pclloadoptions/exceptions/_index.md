@@ -1,14 +1,12 @@
 ---
 title: Exceptions
 second_title: Aspose.PDF for .NET API Reference
-description: List of conversion errors.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/pclloadoptions/exceptions/
 ---
 ## PclLoadOptions.Exceptions field
-
-List of conversion errors.
 
 ```csharp
 public IList<Exception> Exceptions;

@@ -1,14 +1,12 @@
 ---
 title: PatternName
 second_title: Aspose.PDF for .NET API Reference
-description: Gets Pattern Name.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/
 ---
 ## BasicSetColorAndPatternOperator.PatternName property
-
-Gets Pattern Name.
 
 ```csharp
 public string PatternName { get; }

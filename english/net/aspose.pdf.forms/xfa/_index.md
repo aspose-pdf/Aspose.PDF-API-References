@@ -1,14 +1,12 @@
 ---
 title: XFA
 second_title: Aspose.PDF for .NET API Reference
-description: Represents XML form regarding XML Forms Architecture XFA.
+description: 
 type: docs
-weight: 3260
+weight: 3210
 url: /net/aspose.pdf.forms/xfa/
 ---
 ## XFA class
-
-Represents XML form regarding XML Forms Architecture (XFA).
 
 ```csharp
 public sealed class XFA
@@ -18,22 +16,22 @@ public sealed class XFA
 
 | Name | Description |
 | --- | --- |
-| [Config](../../aspose.pdf.forms/xfa/config) { get; } | XFA Config component of an XFA form. |
-| [Datasets](../../aspose.pdf.forms/xfa/datasets) { get; } | XFA Datasets component of an XFA form. |
-| [FieldNames](../../aspose.pdf.forms/xfa/fieldnames) { get; } | List of field names in the form template. |
-| [Form](../../aspose.pdf.forms/xfa/form) { get; } | XFA Form Component of an XFA form. |
-| [Item](../../aspose.pdf.forms/xfa/item) { get; set; } | Gets of sets data node value according *path*. |
-| [NamespaceManager](../../aspose.pdf.forms/xfa/namespacemanager) { get; } | Gets the namespace for the XFA form. The following namepsaces are defined: "data" for form data and "tpl" for form template. |
-| [Template](../../aspose.pdf.forms/xfa/template) { get; } | XFA Template component of an XFA form. |
-| [XDP](../../aspose.pdf.forms/xfa/xdp) { get; } | XML Data Package (all XFA form components within a surrounding XML container). |
+| [Config](../../aspose.pdf.forms/xfa/config) { get; } |  |
+| [Datasets](../../aspose.pdf.forms/xfa/datasets) { get; } |  |
+| [FieldNames](../../aspose.pdf.forms/xfa/fieldnames) { get; } |  |
+| [Form](../../aspose.pdf.forms/xfa/form) { get; } |  |
+| [Item](../../aspose.pdf.forms/xfa/item) { get; set; } |  |
+| [NamespaceManager](../../aspose.pdf.forms/xfa/namespacemanager) { get; } |  |
+| [Template](../../aspose.pdf.forms/xfa/template) { get; } |  |
+| [XDP](../../aspose.pdf.forms/xfa/xdp) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFieldTemplate](../../aspose.pdf.forms/xfa/getfieldtemplate)(string) | Returns XML node of XFA field tempalte. |
-| [GetFieldTemplates](../../aspose.pdf.forms/xfa/getfieldtemplates)() | Returns list of all field templates on XFA form. |
-| [SetFieldImage](../../aspose.pdf.forms/xfa/setfieldimage)(string, Stream) | Sets image for XFA field. |
+| [GetFieldTemplate](../../aspose.pdf.forms/xfa/getfieldtemplate)(string) |  |
+| [GetFieldTemplates](../../aspose.pdf.forms/xfa/getfieldtemplates)() |  |
+| [SetFieldImage](../../aspose.pdf.forms/xfa/setfieldimage)(string, Stream) |  |
 
 ### See Also
 

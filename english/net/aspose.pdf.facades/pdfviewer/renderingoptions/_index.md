@@ -1,14 +1,12 @@
 ---
 title: RenderingOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets rendering options.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.facades/pdfviewer/renderingoptions/
 ---
 ## PdfViewer.RenderingOptions property
-
-Gets or sets rendering options.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }

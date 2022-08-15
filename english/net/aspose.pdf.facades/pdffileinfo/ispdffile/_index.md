@@ -1,14 +1,12 @@
 ---
 title: IsPdfFile
 second_title: Aspose.PDF for .NET API Reference
-description: Checkes whether the source input is a valid PDF file.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.facades/pdffileinfo/ispdffile/
 ---
 ## PdfFileInfo.IsPdfFile property
-
-Checkes whether the source input is a valid PDF file.
 
 ```csharp
 public bool IsPdfFile { get; }

@@ -1,24 +1,16 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API Reference
-description: Performs search in the specified range of pages of the document.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/fontabsorber/visit/
 ---
 ## Visit(Document, int, int) {#visit_1}
 
-Performs search in the specified range of pages of the document.
-
 ```csharp
 public virtual void Visit(Document pdf, int startPage, int pageCount)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdf | Document | Pdf pocument object. |
-| startPage | Int32 | Pdf pocument start page. |
-| pageCount | Int32 | Pdf document page count |
 
 ### See Also
 
@@ -31,15 +23,9 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 
 ## Visit(Document) {#visit}
 
-Performs search on the specified document.
-
 ```csharp
 public virtual void Visit(Document pdf)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdf | Document | Pdf pocument object. |
 
 ### See Also
 

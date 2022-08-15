@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API Reference
-description: Name of font.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/selectfont/name/
 ---
 ## SelectFont.Name property
-
-Name of font.
 
 ```csharp
 public string Name { get; }

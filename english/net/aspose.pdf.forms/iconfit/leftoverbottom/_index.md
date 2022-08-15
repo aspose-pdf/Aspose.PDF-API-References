@@ -1,14 +1,12 @@
 ---
 title: LeftoverBottom
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets space to allocate at the bottom of the icon.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/iconfit/leftoverbottom/
 ---
 ## IconFit.LeftoverBottom property
-
-Gets or sets space to allocate at the bottom of the icon.
 
 ```csharp
 public double LeftoverBottom { get; set; }

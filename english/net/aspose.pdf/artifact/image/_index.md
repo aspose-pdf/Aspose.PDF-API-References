@@ -1,14 +1,12 @@
 ---
 title: Image
 second_title: Aspose.PDF for .NET API Reference
-description: Gets image of the artifact if presents.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/artifact/image/
 ---
 ## Artifact.Image property
-
-Gets image of the artifact (if presents).
 
 ```csharp
 public XImage Image { get; }

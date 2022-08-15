@@ -1,14 +1,14 @@
 ---
 title: ListBoxField
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for ListBoxField to be used in Generator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/listboxfield/listboxfield/
 ---
 ## ListBoxField() {#constructor}
 
-Constructor for ListBoxField to be used in Generator.
+The default constructor.
 
 ```csharp
 public ListBoxField()
@@ -24,16 +24,9 @@ public ListBoxField()
 
 ## ListBoxField(Page, Rectangle) {#constructor_2}
 
-Creates new ListBox field.
-
 ```csharp
 public ListBoxField(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where list box will be placed. |
-| rect | Rectangle | Rectangle where list box will be placed on the page. |
 
 ### See Also
 
@@ -47,16 +40,9 @@ public ListBoxField(Page page, Rectangle rect)
 
 ## ListBoxField(Document, Rectangle) {#constructor_1}
 
-Constructor for ListBox field.
-
 ```csharp
 public ListBoxField(Document doc, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document to which this field will belong. |
-| rect | Rectangle | Rectangle where list box will be placed. |
 
 ### See Also
 

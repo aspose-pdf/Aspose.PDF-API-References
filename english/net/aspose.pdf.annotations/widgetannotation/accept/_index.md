@@ -1,22 +1,16 @@
 ---
 title: Accept
 second_title: Aspose.PDF for .NET API Reference
-description: Accepts visitor.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/widgetannotation/accept/
 ---
 ## WidgetAnnotation.Accept method
 
-Accepts visitor.
-
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | AnnotationSelector | Visitor to be accepted. |
 
 ### See Also
 

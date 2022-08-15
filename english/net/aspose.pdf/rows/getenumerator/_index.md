@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collections enumerator
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/rows/getenumerator/
 ---
 ## Rows.GetEnumerator method
 
-Gets collection's enumerator
-
 ```csharp
 public IEnumerator<Row> GetEnumerator()
 ```
-
-### Return Value
-
-Enumerator object.
 
 ### See Also
 

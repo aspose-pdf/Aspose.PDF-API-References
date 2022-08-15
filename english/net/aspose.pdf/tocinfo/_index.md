@@ -1,14 +1,12 @@
 ---
 title: TocInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Represents table of contents info.
+description: 
 type: docs
-weight: 7260
+weight: 7210
 url: /net/aspose.pdf/tocinfo/
 ---
 ## TocInfo class
-
-Represents table of contents info.
 
 ```csharp
 public sealed class TocInfo
@@ -18,20 +16,20 @@ public sealed class TocInfo
 
 | Name | Description |
 | --- | --- |
-| [TocInfo](tocinfo)() | Initializes a new instance of the [`TocInfo`](../tocinfo) class. |
+| [TocInfo](tocinfo)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ColumnInfo](../../aspose.pdf/tocinfo/columninfo) { get; set; } | Gets or sets column info. |
-| [FormatArray](../../aspose.pdf/tocinfo/formatarray) { get; set; } | Gets or sets format array for table of contents. |
-| [FormatArrayLength](../../aspose.pdf/tocinfo/formatarraylength) { get; set; } | Gets or sets format array length |
-| [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages) { get; set; } | Gets or sets is count or passed toc pages. |
-| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers) { get; set; } | Gets or sets is show page numbers at Toc. |
-| [LineDash](../../aspose.pdf/tocinfo/linedash) { get; set; } | Gets or sets TOC line dash. |
-| [PageNumbersPrefix](../../aspose.pdf/tocinfo/pagenumbersprefix) { get; set; } | Gets or sets is prefix before page number. |
-| [Title](../../aspose.pdf/tocinfo/title) { get; set; } | Gets or sets table of contents title. |
+| [ColumnInfo](../../aspose.pdf/tocinfo/columninfo) { get; set; } |  |
+| [FormatArray](../../aspose.pdf/tocinfo/formatarray) { get; set; } |  |
+| [FormatArrayLength](../../aspose.pdf/tocinfo/formatarraylength) { get; set; } |  |
+| [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages) { get; set; } |  |
+| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers) { get; set; } |  |
+| [LineDash](../../aspose.pdf/tocinfo/linedash) { get; set; } |  |
+| [PageNumbersPrefix](../../aspose.pdf/tocinfo/pagenumbersprefix) { get; set; } |  |
+| [Title](../../aspose.pdf/tocinfo/title) { get; set; } |  |
 
 ### See Also
 

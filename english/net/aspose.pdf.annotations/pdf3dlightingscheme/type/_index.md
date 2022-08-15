@@ -1,22 +1,16 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the lighting scheme type.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
 ## PDF3DLightingScheme.Type property
 
-Gets the lighting scheme type.
-
 ```csharp
 public LightingSchemeType Type { get; }
 ```
-
-### Property Value
-
-The lighting scheme type.
 
 ### See Also
 

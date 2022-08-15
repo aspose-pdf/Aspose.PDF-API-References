@@ -1,14 +1,12 @@
 ---
 title: PolyIntent
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the intents of the polygon or polyline annotation.
+description: 
 type: docs
-weight: 910
+weight: 860
 url: /net/aspose.pdf.annotations/polyintent/
 ---
 ## PolyIntent enumeration
-
-Enumerates the intents of the polygon or polyline annotation.
 
 ```csharp
 public enum PolyIntent
@@ -18,10 +16,10 @@ public enum PolyIntent
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` | Undefined state. |
-| PolygonCloud | `1` | Means that the annotation is intended to function as a cloud object. |
-| PolyLineDimension | `2` | Indicates that the polyline annotation is intended to function as a dimension. |
-| PolygonDimension | `3` | Indicates that the polygon annotation is intended to function as a dimension. |
+| Undefined | `0` |  |
+| PolygonCloud | `1` |  |
+| PolyLineDimension | `2` |  |
+| PolygonDimension | `3` |  |
 
 ### See Also
 

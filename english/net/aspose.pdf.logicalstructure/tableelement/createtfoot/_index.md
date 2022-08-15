@@ -1,22 +1,16 @@
 ---
 title: CreateTFoot
 second_title: Aspose.PDF for .NET API Reference
-description: Creates TableTFootElementaspose.pdf.logicalstructure/tabletfootelement and added it to current table.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf.logicalstructure/tableelement/createtfoot/
 ---
 ## TableElement.CreateTFoot method
 
-Creates [`TableTFootElement`](../../tabletfootelement) and added it to current table.
-
 ```csharp
 public TableTFootElement CreateTFoot()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

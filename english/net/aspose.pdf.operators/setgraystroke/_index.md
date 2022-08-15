@@ -1,14 +1,12 @@
 ---
 title: SetGrayStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing gray level for stroking operations.
+description: 
 type: docs
-weight: 5490
+weight: 5440
 url: /net/aspose.pdf.operators/setgraystroke/
 ---
 ## SetGrayStroke class
-
-Class representing gray level for stroking operations.
 
 ```csharp
 public class SetGrayStroke : SetColorOperator
@@ -18,21 +16,21 @@ public class SetGrayStroke : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetGrayStroke](setgraystroke)(double) | Initializes operator with the specified color. |
+| [SetGrayStroke](setgraystroke)(double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setgraystroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor)() | Returns color specified by operator. |
-| override [ToString](../../aspose.pdf.operators/setgraystroke/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/setgraystroke/accept)(IOperatorSelector) |  |
+| override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor)() |  |
+| override [ToString](../../aspose.pdf.operators/setgraystroke/tostring)() |  |
 
 ### See Also
 

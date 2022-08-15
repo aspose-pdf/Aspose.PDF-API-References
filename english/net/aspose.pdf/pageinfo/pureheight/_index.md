@@ -1,14 +1,12 @@
 ---
 title: PureHeight
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets page pure height without margins.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/pageinfo/pureheight/
 ---
 ## PageInfo.PureHeight property
-
-Gets or sets page pure height without margins.
 
 ```csharp
 public double PureHeight { get; }

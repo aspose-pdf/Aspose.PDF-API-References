@@ -1,22 +1,16 @@
 ---
 title: SetArrayValue
 second_title: Aspose.PDF for .NET API Reference
-description: Sets Value Name Array.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 ---
 ## StructureAttribute.SetArrayValue method
 
-Sets Value Name Array.
-
 ```csharp
 public void SetArrayValue(AttributeName[] array)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | AttributeName[] | Array of allowable Value Names. |
 
 ### See Also
 

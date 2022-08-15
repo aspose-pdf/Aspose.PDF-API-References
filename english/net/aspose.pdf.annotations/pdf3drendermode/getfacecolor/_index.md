@@ -1,22 +1,16 @@
 ---
 title: GetFaceColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the color of the face.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 ---
 ## PDF3DRenderMode.GetFaceColor method
 
-Gets the color of the face.
-
 ```csharp
 public object GetFaceColor()
 ```
-
-### Return Value
-
-Object.
 
 ### See Also
 

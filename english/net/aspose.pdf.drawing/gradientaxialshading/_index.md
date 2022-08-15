@@ -1,14 +1,12 @@
 ---
 title: GradientAxialShading
 second_title: Aspose.PDF for .NET API Reference
-description: Represents gradient axial shading class.
+description: 
 type: docs
-weight: 1970
+weight: 1920
 url: /net/aspose.pdf.drawing/gradientaxialshading/
 ---
 ## GradientAxialShading class
-
-Represents gradient axial shading class.
 
 ```csharp
 public class GradientAxialShading : PatternColorSpace
@@ -18,17 +16,17 @@ public class GradientAxialShading : PatternColorSpace
 
 | Name | Description |
 | --- | --- |
-| [GradientAxialShading](gradientaxialshading#constructor)() | Initializes a new instance of the [`GradientAxialShading`](../gradientaxialshading) class. |
-| [GradientAxialShading](gradientaxialshading#constructor_1)(Color, Color) | Initializes a new instance of the [`GradientAxialShading`](../gradientaxialshading) class. |
+| [GradientAxialShading](gradientaxialshading#constructor)() | The default constructor. |
+| [GradientAxialShading](gradientaxialshading#constructor_1)(Color, Color) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientaxialshading/end) { get; set; } | Gets or sets end point. |
-| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor) { get; set; } | Gets or sets end color. |
-| [Start](../../aspose.pdf.drawing/gradientaxialshading/start) { get; set; } | Gets or sets start point. |
-| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor) { get; set; } | Gets or sets start color. |
+| [End](../../aspose.pdf.drawing/gradientaxialshading/end) { get; set; } |  |
+| [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor) { get; set; } |  |
+| [Start](../../aspose.pdf.drawing/gradientaxialshading/start) { get; set; } |  |
+| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor) { get; set; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: GenerateId
 second_title: Aspose.PDF for .NET API Reference
-description: Generate ID for structure element.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.logicalstructure/structureelement/generateid/
 ---
 ## StructureElement.GenerateId method
-
-Generate ID for structure element.
 
 ```csharp
 public void GenerateId()

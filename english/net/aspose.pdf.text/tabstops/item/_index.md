@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a TabStopaspose.pdf.text/tabstop object from the collection according to TabStop index.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/tabstops/item/
 ---
 ## TabStops indexer
 
-Gets or sets a [`TabStop`](../../tabstop) object from the collection according to TabStop index.
-
 ```csharp
 public TabStop this[int index] { get; set; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | Zero-based index of element in [`TabStops`](../../tabstops) collection. |
-
-### Return Value
-
-[`TabStop`](../../tabstop) object.
 
 ### See Also
 

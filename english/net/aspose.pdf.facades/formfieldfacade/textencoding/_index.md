@@ -1,14 +1,12 @@
 ---
 title: TextEncoding
 second_title: Aspose.PDF for .NET API Reference
-description: The text encoding type of the field text.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.pdf.facades/formfieldfacade/textencoding/
 ---
 ## FormFieldFacade.TextEncoding property
-
-The text encoding type of the field text.
 
 ```csharp
 public EncodingType TextEncoding { get; set; }

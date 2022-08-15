@@ -1,14 +1,12 @@
 ---
 title: TabOrder
 second_title: Aspose.PDF for .NET API Reference
-description: Tab order on the page
+description: 
 type: docs
-weight: 6490
+weight: 6440
 url: /net/aspose.pdf/taborder/
 ---
 ## TabOrder enumeration
-
-Tab order on the page
 
 ```csharp
 public enum TabOrder
@@ -18,11 +16,11 @@ public enum TabOrder
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No tab order. |
-| Row | `1` | Row order. |
-| Column | `2` | Column order. |
-| Default | `3` | Default tab order. |
-| Manual | `4` | Manual tab order. |
+| None | `0` |  |
+| Row | `1` |  |
+| Column | `2` |  |
+| Default | `3` |  |
+| Manual | `4` |  |
 
 ### See Also
 

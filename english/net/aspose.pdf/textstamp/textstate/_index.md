@@ -1,14 +1,12 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API Reference
-description: Gets text properties of the stamp. See TextStateaspose.pdf/textstamp/textstate for details.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/textstamp/textstate/
 ---
 ## TextStamp.TextState property
-
-Gets text properties of the stamp. See `TextState` for details.
 
 ```csharp
 public TextState TextState { get; }

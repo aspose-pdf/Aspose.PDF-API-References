@@ -1,14 +1,12 @@
 ---
 title: HtmlSaveOptions.HtmlMarkupGenerationModes
 second_title: Aspose.PDF for .NET API Reference
-description: Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments.
+description: 
 type: docs
-weight: 3530
+weight: 3480
 url: /net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
-
-Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments.
 
 ```csharp
 public enum HtmlMarkupGenerationModes
@@ -18,8 +16,8 @@ public enum HtmlMarkupGenerationModes
 
 | Name | Value | Description |
 | --- | --- | --- |
-| WriteAllHtml | `0` | Default mode any specific requirments are absent. Will be generated output that will contain all parts of HTML without any special additional processing. |
-| WriteOnlyBodyContent | `1` | will be stripped away all HTML content that is outside HTML's body, i.e. will be left only content that is inside  tags |
+| WriteAllHtml | `0` |  |
+| WriteOnlyBodyContent | `1` |  |
 
 ### See Also
 

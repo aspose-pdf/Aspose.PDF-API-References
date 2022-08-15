@@ -1,14 +1,12 @@
 ---
 title: FontSize
 second_title: Aspose.PDF for .NET API Reference
-description: Fonst size.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/textstyle/fontsize/
 ---
 ## TextStyle.FontSize property
-
-Fonst size.
 
 ```csharp
 public double FontSize { get; set; }

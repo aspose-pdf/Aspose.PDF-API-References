@@ -1,14 +1,12 @@
 ---
 title: Y
 second_title: Aspose.PDF for .NET API Reference
-description: Y coordinate
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/moveto/y/
 ---
 ## MoveTo.Y property
-
-Y coordinate
 
 ```csharp
 public double Y { get; set; }

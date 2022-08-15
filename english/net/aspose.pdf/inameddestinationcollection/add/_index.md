@@ -1,23 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds new named destination.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/inameddestinationcollection/add/
 ---
 ## INamedDestinationCollection.Add method
 
-Adds new named destination.
-
 ```csharp
 public void Add(string name, IAppointment appointment)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | Name value. |
-| appointment | IAppointment | Appointment object. |
 
 ### See Also
 

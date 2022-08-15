@@ -1,14 +1,12 @@
 ---
 title: Popup
 second_title: Aspose.PDF for .NET API Reference
-description: Pop-up annotation for entering or editing the text associated with this annotation.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/markupannotation/popup/
 ---
 ## MarkupAnnotation.Popup property
-
-Pop-up annotation for entering or editing the text associated with this annotation.
 
 ```csharp
 public PopupAnnotation Popup { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: FillIn
 second_title: Aspose.PDF for .NET API Reference
-description: Allows filling forms in file.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.facades/documentprivilege/fillin/
 ---
 ## DocumentPrivilege.FillIn property
-
-Allows filling forms in file.
 
 ```csharp
 public static DocumentPrivilege FillIn { get; }

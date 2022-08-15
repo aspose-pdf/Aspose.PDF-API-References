@@ -1,14 +1,12 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets font
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/htmlfragment/textstate/
 ---
 ## HtmlFragment.TextState property
-
-Gets or sets font
 
 ```csharp
 public TextState TextState { get; set; }

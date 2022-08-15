@@ -1,14 +1,14 @@
 ---
 title: GSave
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes q operator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/gsave/gsave/
 ---
 ## GSave constructor
 
-Initializes q operator.
+The default constructor.
 
 ```csharp
 public GSave()

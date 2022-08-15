@@ -1,23 +1,16 @@
 ---
 title: SetCertificate
 second_title: Aspose.PDF for .NET API Reference
-description: Set certificate file and password for signing routine.
+description: 
 type: docs
 weight: 270
 url: /net/aspose.pdf.facades/pdffilesignature/setcertificate/
 ---
 ## PdfFileSignature.SetCertificate method
 
-Set certificate file and password for signing routine.
-
 ```csharp
 public void SetCertificate(string pfx, string pass)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | String | PKCS #12 certificate file. |
-| pass | String | Password to get access for the certificate private key. |
 
 ### See Also
 

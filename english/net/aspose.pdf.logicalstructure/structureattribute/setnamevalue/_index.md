@@ -1,22 +1,16 @@
 ---
 title: SetNameValue
 second_title: Aspose.PDF for .NET API Reference
-description: Sets Value Name.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.logicalstructure/structureattribute/setnamevalue/
 ---
 ## StructureAttribute.SetNameValue method
 
-Sets Value Name.
-
 ```csharp
 public void SetNameValue(AttributeName name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | AttributeName | Allowable Value Name. |
 
 ### See Also
 

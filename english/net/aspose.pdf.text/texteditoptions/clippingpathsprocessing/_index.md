@@ -1,14 +1,12 @@
 ---
 title: ClippingPathsProcessing
 second_title: Aspose.PDF for .NET API Reference
-description: Gets mode for processing clipping path of the edited text.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/texteditoptions/clippingpathsprocessing/
 ---
 ## TextEditOptions.ClippingPathsProcessing property
-
-Gets mode for processing clipping path of the edited text.
 
 ```csharp
 public ClippingPathsProcessingMode ClippingPathsProcessing { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: LastException
 second_title: Aspose.PDF for .NET API Reference
-description: Returns exception which was thrown by last operation.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/pdffilesecurity/lastexception/
 ---
 ## PdfFileSecurity.LastException property
-
-Returns exception which was thrown by last operation.
 
 ```csharp
 public Exception LastException { get; }

@@ -1,22 +1,16 @@
 ---
 title: Line
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the Lineaspose.pdf.drawing/line class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.drawing/line/line/
 ---
 ## Line constructor
 
-Initializes a new instance of the [`Line`](../../line) class.
-
 ```csharp
 public Line(float[] positionArray)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| positionArray | Single[] | The line position array. |
 
 ### See Also
 

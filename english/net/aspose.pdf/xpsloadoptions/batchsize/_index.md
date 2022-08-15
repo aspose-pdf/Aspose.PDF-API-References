@@ -1,14 +1,12 @@
 ---
 title: BatchSize
 second_title: Aspose.PDF for .NET API Reference
-description: Defines batch size if batched conversion is applicable to source and destination formats pair.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/xpsloadoptions/batchsize/
 ---
 ## XpsLoadOptions.BatchSize property
-
-Defines batch size if batched conversion is applicable to source and destination formats pair.
 
 ```csharp
 public int BatchSize { get; set; }

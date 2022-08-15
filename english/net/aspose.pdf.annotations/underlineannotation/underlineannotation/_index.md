@@ -1,23 +1,16 @@
 ---
 title: UnderlineAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Creates new Underline annotation on the specified page.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/underlineannotation/underlineannotation/
 ---
 ## UnderlineAnnotation constructor
 
-Creates new Underline annotation on the specified page.
-
 ```csharp
 public UnderlineAnnotation(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The document's page where annotation should be created. |
-| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
 
 ### See Also
 

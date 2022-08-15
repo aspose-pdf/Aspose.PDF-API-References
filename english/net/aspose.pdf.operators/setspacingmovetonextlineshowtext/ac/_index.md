@@ -1,14 +1,12 @@
 ---
 title: Ac
 second_title: Aspose.PDF for .NET API Reference
-description: Get character spacing.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/
 ---
 ## SetSpacingMoveToNextLineShowText.Ac property
-
-Get character spacing.
 
 ```csharp
 public double Ac { get; }

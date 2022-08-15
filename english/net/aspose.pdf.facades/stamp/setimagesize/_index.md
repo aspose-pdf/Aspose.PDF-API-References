@@ -1,23 +1,16 @@
 ---
 title: SetImageSize
 second_title: Aspose.PDF for .NET API Reference
-description: Sets size of image stamp. Image will be scaled according to the specified values.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf.facades/stamp/setimagesize/
 ---
 ## Stamp.SetImageSize method
 
-Sets size of image stamp. Image will be scaled according to the specified values.
-
 ```csharp
 public void SetImageSize(float width, float height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Single | Image width. |
-| height | Single | Image height. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: Gets rectangle that describes position of the row on page
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/absorbedrow/rectangle/
 ---
 ## AbsorbedRow.Rectangle property
-
-Gets rectangle that describes position of the row on page
 
 ```csharp
 public Rectangle Rectangle { get; }

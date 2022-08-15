@@ -1,27 +1,16 @@
 ---
 title: GetPageNumber
 second_title: Aspose.PDF for .NET API Reference
-description: Returns the page number of destination by the name.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/destinationcollection/getpagenumber/
 ---
 ## DestinationCollection.GetPageNumber method
 
-Returns the page number of destination by the name.
-
 ```csharp
 public int GetPageNumber(string destinameName, bool useCache)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destinameName | String | The name of destination. |
-| useCache | Boolean | Determines whether cached version of collection is used or not. |
-
-### Return Value
-
-The page number if destination was found; otherwise, -1.
 
 ### See Also
 

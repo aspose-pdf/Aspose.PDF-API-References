@@ -1,14 +1,12 @@
 ---
 title: Form
 second_title: Aspose.PDF for .NET API Reference
-description: Gets XForm of the stamp.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/stampinfo/form/
 ---
 ## StampInfo.Form property
-
-Gets XForm of the stamp.
 
 ```csharp
 public XForm Form { get; }

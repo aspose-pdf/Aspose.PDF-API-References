@@ -1,14 +1,12 @@
 ---
 title: DefaultResources
 second_title: Aspose.PDF for .NET API Reference
-description: Gets default resources placed on this form.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.forms/form/defaultresources/
 ---
 ## Form.DefaultResources property
-
-Gets default resources placed on this form.
 
 ```csharp
 public Resources DefaultResources { get; }

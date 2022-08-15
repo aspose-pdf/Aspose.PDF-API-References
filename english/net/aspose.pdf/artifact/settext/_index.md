@@ -1,22 +1,16 @@
 ---
 title: SetText
 second_title: Aspose.PDF for .NET API Reference
-description: Sets text of the artifact.
+description: 
 type: docs
 weight: 310
 url: /net/aspose.pdf/artifact/settext/
 ---
 ## Artifact.SetText method
 
-Sets text of the artifact.
-
 ```csharp
 public void SetText(FormattedText formattedText)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formattedText | FormattedText | FormattedText object which contains artifact text. |
 
 ### See Also
 

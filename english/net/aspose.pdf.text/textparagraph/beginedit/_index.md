@@ -1,22 +1,16 @@
 ---
 title: BeginEdit
 second_title: Aspose.PDF for .NET API Reference
-description: Begins the editing of the TextParagraph.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf.text/textparagraph/beginedit/
 ---
 ## TextParagraph.BeginEdit method
 
-Begins the editing of the TextParagraph.
-
 ```csharp
 public void BeginEdit()
 ```
-
-### Remarks
-
-Improves performance of TextParagraph population. Any layout calculation is suspended until EndEdit method is invoked. Note that method invoke can't be nested.
 
 ### See Also
 

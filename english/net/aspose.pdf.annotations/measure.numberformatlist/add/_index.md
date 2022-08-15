@@ -1,22 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds number format to list.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/measure.numberformatlist/add/
 ---
 ## Measure.NumberFormatList.Add method
 
-Adds number format to list.
-
 ```csharp
 public void Add(NumberFormat value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | NumberFormat | Value to be added into list. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: FontNotFoundException
 second_title: Aspose.PDF for .NET API Reference
-description: The exception that is thrown when a font is not found.
+description: 
 type: docs
-weight: 2860
+weight: 2810
 url: /net/aspose.pdf/fontnotfoundexception/
 ---
 ## FontNotFoundException class
-
-The exception that is thrown when a font is not found.
 
 ```csharp
 public sealed class FontNotFoundException : ApplicationException
@@ -18,9 +16,9 @@ public sealed class FontNotFoundException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception#constructor)(Exception) | Initializes a new instance of the [`FontNotFoundException`](../fontnotfoundexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| [FontNotFoundException](fontnotfoundexception#constructor_1)(string) | Initializes a new instance of the [`FontNotFoundException`](../fontnotfoundexception) class. |
-| [FontNotFoundException](fontnotfoundexception#constructor_2)(string, Exception) | Initializes a new instance of the [`FontNotFoundException`](../fontnotfoundexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontNotFoundException](fontnotfoundexception#constructor)(Exception) |  |
+| [FontNotFoundException](fontnotfoundexception#constructor_1)(string) |  |
+| [FontNotFoundException](fontnotfoundexception#constructor_2)(string, Exception) |  |
 
 ### See Also
 

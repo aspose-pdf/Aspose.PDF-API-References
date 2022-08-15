@@ -1,14 +1,12 @@
 ---
 title: PageMarkups
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of PageMarkupaspose.pdf.text/pagemarkup that were absorbed.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/paragraphabsorber/pagemarkups/
 ---
 ## ParagraphAbsorber.PageMarkups property
-
-Gets collection of [`PageMarkup`](../../pagemarkup) that were absorbed.
 
 ```csharp
 public List<PageMarkup> PageMarkups { get; }

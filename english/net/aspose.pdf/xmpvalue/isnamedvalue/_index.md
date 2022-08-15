@@ -1,14 +1,12 @@
 ---
 title: IsNamedValue
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true if XmpValue is named value.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/xmpvalue/isnamedvalue/
 ---
 ## XmpValue.IsNamedValue property
-
-Returns true if XmpValue is named value.
 
 ```csharp
 public bool IsNamedValue { get; }

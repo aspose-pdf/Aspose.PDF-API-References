@@ -1,14 +1,12 @@
 ---
 title: VerticeCoordinate
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets an array of numbers representing the alternating horizontal and verticalcoordinates respectively of each vertex.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/lineinfo/verticecoordinate/
 ---
 ## LineInfo.VerticeCoordinate property
-
-Gets or sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex.
 
 ```csharp
 public float[] VerticeCoordinate { get; set; }

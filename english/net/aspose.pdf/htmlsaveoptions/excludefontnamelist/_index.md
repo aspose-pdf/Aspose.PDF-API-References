@@ -1,14 +1,12 @@
 ---
 title: ExcludeFontNameList
 second_title: Aspose.PDF for .NET API Reference
-description: List of PDF embedded font names that not be embedded in HTML.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.pdf/htmlsaveoptions/excludefontnamelist/
 ---
 ## HtmlSaveOptions.ExcludeFontNameList field
-
-List of PDF embedded font names that not be embedded in HTML.
 
 ```csharp
 public string[] ExcludeFontNameList;

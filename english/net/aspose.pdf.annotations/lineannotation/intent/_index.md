@@ -1,14 +1,12 @@
 ---
 title: Intent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the intent of the line annotation.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/lineannotation/intent/
 ---
 ## LineAnnotation.Intent property
-
-Gets or sets the intent of the line annotation.
 
 ```csharp
 public LineIntent Intent { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Sect
 second_title: Aspose.PDF for .NET API Reference
-description: Section A container for grouping related content elements.
+description: 
 type: docs
 weight: 360
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/sect/
 ---
 ## StructureTypeStandard.Sect field
-
-(Section) A container for grouping related content elements.
 
 ```csharp
 public static readonly StructureTypeStandard Sect;

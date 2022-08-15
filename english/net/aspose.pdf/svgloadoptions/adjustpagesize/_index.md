@@ -1,14 +1,12 @@
 ---
 title: AdjustPageSize
 second_title: Aspose.PDF for .NET API Reference
-description: Adust pdf page size to svg size
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/svgloadoptions/adjustpagesize/
 ---
 ## SvgLoadOptions.AdjustPageSize property
-
-Adust pdf page size to svg size
 
 ```csharp
 public bool AdjustPageSize { get; set; }

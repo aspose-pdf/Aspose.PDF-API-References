@@ -1,22 +1,16 @@
 ---
 title: Transparent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color.
+description: 
 type: docs
 weight: 1350
 url: /net/aspose.pdf/color/transparent/
 ---
 ## Color.Transparent property
 
-Gets a system-defined color.
-
 ```csharp
 public static Color Transparent { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

@@ -1,26 +1,16 @@
 ---
 title: MeasureString
 second_title: Aspose.PDF for .NET API Reference
-description: Measures the string.
+description: 
 type: docs
 weight: 220
 url: /net/aspose.pdf.text/textstate/measurestring/
 ---
 ## TextState.MeasureString method
 
-Measures the string.
-
 ```csharp
 public virtual double MeasureString(string str)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | String | The string. |
-
-### Return Value
-
-Width of the string represented with this text state.
 
 ### See Also
 

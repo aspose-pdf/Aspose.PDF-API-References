@@ -1,14 +1,12 @@
 ---
 title: MoveTextPositionSetLeading
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing TD operator move position and set leading.
+description: 
 type: docs
-weight: 5250
+weight: 5200
 url: /net/aspose.pdf.operators/movetextpositionsetleading/
 ---
 ## MoveTextPositionSetLeading class
-
-Class representing TD operator (move position and set leading).
 
 ```csharp
 public class MoveTextPositionSetLeading : TextPlaceOperator
@@ -18,22 +16,22 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | Name | Description |
 | --- | --- |
-| [MoveTextPositionSetLeading](movetextpositionsetleading)(double, double) | Initializes operator. |
+| [MoveTextPositionSetLeading](movetextpositionsetleading)(double, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [X](../../aspose.pdf.operators/movetextpositionsetleading/x) { get; set; } | X coordinate of text position. |
-| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y) { get; set; } | Y coordinate of text position. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [X](../../aspose.pdf.operators/movetextpositionsetleading/x) { get; set; } |  |
+| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

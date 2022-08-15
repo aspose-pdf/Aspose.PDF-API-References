@@ -1,14 +1,12 @@
 ---
 title: Pdf
 second_title: Aspose.PDF for .NET API Reference
-description: Conains creator of IPdfTypeExtractor object.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.groupprocessor/extractorfactory/pdf/
 ---
 ## ExtractorFactory.Pdf field
-
-Conains creator of IPdfTypeExtractor object.
 
 ```csharp
 public static PdfTypeObjectCreator Pdf;

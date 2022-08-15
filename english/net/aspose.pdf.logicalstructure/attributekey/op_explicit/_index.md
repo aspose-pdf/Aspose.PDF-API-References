@@ -1,26 +1,16 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF for .NET API Reference
-description: Performs an explicit conversion from String to AttributeKeyaspose.pdf.logicalstructure/attributekey.
+description: 
 type: docs
 weight: 450
 url: /net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
 ## AttributeKey Explicit operator
 
-Performs an explicit conversion from String to [`AttributeKey`](../../attributekey).
-
 ```csharp
 public static explicit operator AttributeKey(string key)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | The attribute key. |
-
-### Return Value
-
-The result of the conversion.
 
 ### See Also
 

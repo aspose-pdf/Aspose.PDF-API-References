@@ -1,14 +1,12 @@
 ---
 title: RowSpan
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the row span.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/cell/rowspan/
 ---
 ## Cell.RowSpan property
-
-Gets or sets the row span.
 
 ```csharp
 public int RowSpan { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Values
 second_title: Aspose.PDF for .NET API Reference
-description: Gets values in the metadata.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/metadata/values/
 ---
 ## Metadata.Values property
-
-Gets values in the metadata.
 
 ```csharp
 public ICollection<XmpValue> Values { get; }

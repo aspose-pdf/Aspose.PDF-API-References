@@ -1,14 +1,12 @@
 ---
 title: LeaderLineOffset
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets leader line offset.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/lineannotation/leaderlineoffset/
 ---
 ## LineAnnotation.LeaderLineOffset property
-
-Gets or sets leader line offset.
 
 ```csharp
 public double LeaderLineOffset { get; set; }

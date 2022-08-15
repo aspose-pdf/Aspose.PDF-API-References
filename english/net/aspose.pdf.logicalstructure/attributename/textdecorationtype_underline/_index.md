@@ -1,14 +1,12 @@
 ---
 title: TextDecorationType_Underline
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute TextDecorationType Underline - A line below the text.
+description: 
 type: docs
 weight: 620
 url: /net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/
 ---
 ## AttributeName.TextDecorationType_Underline field
-
-Attribute TextDecorationType: Underline - A line below the text.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Underline;

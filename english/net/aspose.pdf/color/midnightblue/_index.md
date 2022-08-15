@@ -1,22 +1,16 @@
 ---
 title: MidnightBlue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF191970.
+description: 
 type: docs
 weight: 920
 url: /net/aspose.pdf/color/midnightblue/
 ---
 ## Color.MidnightBlue property
 
-Gets a system-defined color that has an ARGB value of #FF191970.
-
 ```csharp
 public static Color MidnightBlue { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Rendition
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets rendition associated with the action.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/renditionaction/rendition/
 ---
 ## RenditionAction.Rendition property
-
-Gets or sets rendition associated with the action.
 
 ```csharp
 public Rendition Rendition { get; }

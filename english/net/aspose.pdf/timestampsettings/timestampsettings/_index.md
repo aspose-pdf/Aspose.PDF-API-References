@@ -1,25 +1,17 @@
 ---
 title: TimestampSettings
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the TimestampSettingsaspose.pdf/timestampsettings class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/timestampsettings/timestampsettings/
 ---
 ## TimestampSettings constructor
 
-Initializes a new instance of the [`TimestampSettings`](../../timestampsettings) class.
-
 ```csharp
 public TimestampSettings(string serverUrl, string basicAuthCredentials, 
     DigestHashAlgorithm digestHashAlgorithm = DigestHashAlgorithm.Sha1)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| serverUrl | String | The timestamp server url. |
-| basicAuthCredentials | String | The basic authentication credentials, username and password are combined into a string "username:password". |
-| digestHashAlgorithm | DigestHashAlgorithm | The hash algorithm name, if it is omitted then sha1 is used. |
 
 ### See Also
 

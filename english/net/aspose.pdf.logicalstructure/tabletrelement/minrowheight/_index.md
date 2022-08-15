@@ -1,14 +1,12 @@
 ---
 title: MinRowHeight
 second_title: Aspose.PDF for .NET API Reference
-description: Gets height for row.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
 ## TableTRElement.MinRowHeight property
-
-Gets height for row.
 
 ```csharp
 public double MinRowHeight { get; set; }

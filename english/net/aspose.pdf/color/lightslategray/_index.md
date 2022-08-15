@@ -1,22 +1,16 @@
 ---
 title: LightSlateGray
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF778899.
+description: 
 type: docs
 weight: 750
 url: /net/aspose.pdf/color/lightslategray/
 ---
 ## Color.LightSlateGray property
 
-Gets a system-defined color that has an ARGB value of #FF778899.
-
 ```csharp
 public static Color LightSlateGray { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

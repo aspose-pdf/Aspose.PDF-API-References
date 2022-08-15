@@ -1,14 +1,12 @@
 ---
 title: Objects
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the list of objects properties value types.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/xmppdfaextensionschema/objects/
 ---
 ## XmpPdfAExtensionSchema.Objects property
-
-Gets the list of objects (properties, value types).
 
 ```csharp
 public List<XmpPdfAExtensionObject> Objects { get; }

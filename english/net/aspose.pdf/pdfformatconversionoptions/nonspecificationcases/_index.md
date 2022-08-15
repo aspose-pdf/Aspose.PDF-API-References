@@ -1,14 +1,12 @@
 ---
 title: NonSpecificationCases
 second_title: Aspose.PDF for .NET API Reference
-description: Holds flags to control PDF/A conversion process for cases when source document doesnt correspond to PDF/A specification.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf/pdfformatconversionoptions/nonspecificationcases/
 ---
 ## PdfFormatConversionOptions.NonSpecificationCases property
-
-Holds flags to control PDF/A conversion process for cases when source document doesn't correspond to PDF/A specification.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationCases { get; }

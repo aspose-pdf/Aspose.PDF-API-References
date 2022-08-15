@@ -1,22 +1,16 @@
 ---
 title: Attributes
 second_title: Aspose.PDF for .NET API Reference
-description: Gets StructureAttributeCollection object.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
 ## StructureElement.Attributes property
 
-Gets StructureAttributeCollection object.
-
 ```csharp
 public StructureAttributeCollection Attributes { get; }
 ```
-
-### Property Value
-
-StructureAttributeCollection object.
 
 ### See Also
 

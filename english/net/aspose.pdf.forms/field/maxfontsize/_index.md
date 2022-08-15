@@ -1,14 +1,12 @@
 ---
 title: MaxFontSize
 second_title: Aspose.PDF for .NET API Reference
-description: Maximail font size which can be used for field contents. -1 to dont check size.
+description: 
 type: docs
 weight: 220
 url: /net/aspose.pdf.forms/field/maxfontsize/
 ---
 ## Field.MaxFontSize property
-
-Maximail font size which can be used for field contents. -1 to don't check size.
 
 ```csharp
 public static double MaxFontSize { get; set; }

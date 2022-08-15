@@ -1,14 +1,14 @@
 ---
 title: BackgroundArtifact
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes BackgroundArtifact object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/backgroundartifact/backgroundartifact/
 ---
 ## BackgroundArtifact constructor
 
-Initializes BackgroundArtifact object.
+The default constructor.
 
 ```csharp
 public BackgroundArtifact()

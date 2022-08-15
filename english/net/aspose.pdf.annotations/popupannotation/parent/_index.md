@@ -1,14 +1,12 @@
 ---
 title: Parent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present the parent annotations Contents M C and T entries shall override those of the pop-up annotation itself.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/popupannotation/parent/
 ---
 ## PopupAnnotation.Parent property
-
-Gets or sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation�s Contents, M, C, and T entries shall override those of the pop-up annotation itself.
 
 ```csharp
 public Annotation Parent { get; set; }

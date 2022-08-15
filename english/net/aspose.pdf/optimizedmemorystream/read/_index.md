@@ -1,28 +1,16 @@
 ---
 title: Read
 second_title: Aspose.PDF for .NET API Reference
-description: When overridden in a derived class reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/optimizedmemorystream/read/
 ---
 ## OptimizedMemoryStream.Read method
 
-When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read.
-
 ```csharp
 public override int Read(byte[] buffer, int offset, int count)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| buffer | Byte[] | An array of bytes. When this method returns, the buffer contains the specified byte array with the values |
-| offset | Int32 | The zero-based byte offset in at which to begin storing the data read from the current stream. |
-| count | Int32 | The maximum number of bytes to be read from the current stream. |
-
-### Return Value
-
-The total number of bytes read into the buffer. This can be less than the number of bytes requested if that many bytes are not currently available, or zero (0) if the end of the stream has been reached.
 
 ### See Also
 

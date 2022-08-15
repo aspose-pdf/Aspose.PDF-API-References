@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the text fragment element at the specified index.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/imageplacementcollection/item/
 ---
 ## ImagePlacementCollection indexer
 
-Gets the text fragment element at the specified index.
-
 ```csharp
 public ImagePlacement this[int index] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | Index of image placement. |
-
-### Return Value
-
-ImagePlacement object.
 
 ### See Also
 

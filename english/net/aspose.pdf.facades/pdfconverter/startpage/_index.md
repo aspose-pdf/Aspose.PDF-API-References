@@ -1,14 +1,12 @@
 ---
 title: StartPage
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets start position which you want to convert. The minimal value is 1.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/pdfconverter/startpage/
 ---
 ## PdfConverter.StartPage property
-
-Gets or sets start position which you want to convert. The minimal value is 1.
 
 ```csharp
 public int StartPage { get; set; }

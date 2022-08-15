@@ -1,26 +1,16 @@
 ---
 title: IsIntersect
 second_title: Aspose.PDF for .NET API Reference
-description: Determines whether this rectangle intersects with other rectangle.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf/rectangle/isintersect/
 ---
 ## Rectangle.IsIntersect method
 
-Determines whether this rectangle intersects with other rectangle.
-
 ```csharp
 public bool IsIntersect(Rectangle otherRect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| otherRect | Rectangle | Intersection will be tested with specified rectangle. |
-
-### Return Value
-
-True if this rectangle intersects with specified rectangle. Otherwise false.
 
 ### See Also
 

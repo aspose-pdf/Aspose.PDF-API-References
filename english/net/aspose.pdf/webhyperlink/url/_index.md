@@ -1,14 +1,12 @@
 ---
 title: Url
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the web url.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/webhyperlink/url/
 ---
 ## WebHyperlink.Url property
-
-Gets or sets the web url.
 
 ```csharp
 public string Url { get; set; }

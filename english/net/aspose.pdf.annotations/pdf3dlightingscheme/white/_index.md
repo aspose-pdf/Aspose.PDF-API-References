@@ -1,14 +1,12 @@
 ---
 title: White
 second_title: Aspose.PDF for .NET API Reference
-description: The White lighting scheme.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
 ## PDF3DLightingScheme.White field
-
-The "White" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme White;

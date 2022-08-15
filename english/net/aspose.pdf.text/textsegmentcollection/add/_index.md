@@ -1,22 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds the text segment element at the specified index.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textsegmentcollection/add/
 ---
 ## TextSegmentCollection.Add method
 
-Adds the text segment element at the specified index.
-
 ```csharp
 public void Add(TextSegment segment)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| segment | TextSegment | Text segment object |
 
 ### See Also
 

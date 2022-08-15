@@ -1,14 +1,12 @@
 ---
 title: ArtifactHorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Horizontal alignment of artifact. If position is specified explicitly in Position property this value is ignored.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/artifact/artifacthorizontalalignment/
 ---
 ## Artifact.ArtifactHorizontalAlignment property
-
-Horizontal alignment of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 ```csharp
 public HorizontalAlignment ArtifactHorizontalAlignment { get; set; }

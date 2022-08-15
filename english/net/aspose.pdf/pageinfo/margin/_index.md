@@ -1,14 +1,12 @@
 ---
 title: Margin
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets page margin.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/pageinfo/margin/
 ---
 ## PageInfo.Margin property
-
-Gets or sets page margin.
 
 ```csharp
 public MarginInfo Margin { get; set; }

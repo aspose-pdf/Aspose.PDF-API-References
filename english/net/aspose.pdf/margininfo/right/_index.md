@@ -1,14 +1,12 @@
 ---
 title: Right
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the right margin.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/margininfo/right/
 ---
 ## MarginInfo.Right property
-
-Gets or sets a float value that indicates the right margin.
 
 ```csharp
 public double Right { get; set; }

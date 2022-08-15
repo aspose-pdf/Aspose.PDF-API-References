@@ -1,22 +1,16 @@
 ---
 title: Save
 second_title: Aspose.PDF for .NET API Reference
-description: Saves the PDF document to the specified stream.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/saveablefacade/save/
 ---
-## Save(Stream) {#save}
-
-Saves the PDF document to the specified stream.
+## Save(string) {#save_1}
 
 ```csharp
-public virtual void Save(Stream destStream)
+public virtual void Save(string destFile)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destStream | Stream | The destination stream. |
 
 ### See Also
 
@@ -26,17 +20,11 @@ public virtual void Save(Stream destStream)
 
 ---
 
-## Save(string) {#save_1}
-
-Saves the PDF document to the specified file.
+## Save(Stream) {#save}
 
 ```csharp
-public virtual void Save(string destFile)
+public virtual void Save(Stream destStream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destFile | String | The destination file. |
 
 ### See Also
 

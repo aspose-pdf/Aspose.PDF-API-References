@@ -1,22 +1,16 @@
 ---
 title: Owner
 second_title: Aspose.PDF for .NET API Reference
-description: Gets standard attribute owner.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/structureattributes/owner/
 ---
 ## StructureAttributes.Owner property
 
-Gets standard attribute owner.
-
 ```csharp
 public AttributeOwnerStandard Owner { get; }
 ```
-
-### Property Value
-
-Standard attribute owner.
 
 ### See Also
 

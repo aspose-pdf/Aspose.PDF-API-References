@@ -1,14 +1,14 @@
 ---
 title: AnnotationSelector
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the AnnotationSelector class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/annotationselector/annotationselector/
 ---
 ## AnnotationSelector() {#constructor}
 
-Initializes new instance of the AnnotationSelector class.
+The default constructor.
 
 ```csharp
 public AnnotationSelector()
@@ -24,15 +24,9 @@ public AnnotationSelector()
 
 ## AnnotationSelector(Annotation) {#constructor_1}
 
-Initializes new [`AnnotationSelector`](../../annotationselector) object.
-
 ```csharp
 public AnnotationSelector(Annotation annotation)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | Annotation | Annotation to be selected. This object only describes some characteristics we want found annotations to have, e.g. the type of annotation. |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: CreatePartElement
 second_title: Aspose.PDF for .NET API Reference
-description: Creates PartElementaspose.pdf.logicalstructure/partelement.
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf.tagged/itaggedcontent/createpartelement/
 ---
 ## ITaggedContent.CreatePartElement method
 
-Creates [`PartElement`](../../../aspose.pdf.logicalstructure/partelement).
-
 ```csharp
 public PartElement CreatePartElement()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

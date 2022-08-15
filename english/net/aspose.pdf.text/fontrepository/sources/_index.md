@@ -1,14 +1,12 @@
 ---
 title: Sources
 second_title: Aspose.PDF for .NET API Reference
-description: Gets font sources collection.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/fontrepository/sources/
 ---
 ## FontRepository.Sources property
-
-Gets font sources collection.
 
 ```csharp
 public static FontSourceCollection Sources { get; }

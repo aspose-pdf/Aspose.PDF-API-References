@@ -1,14 +1,12 @@
 ---
 title: AlternateCaption
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets alternate caption of the button which shall be displayed when the mouse button is pressed within its active area.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/buttonfield/alternatecaption/
 ---
 ## ButtonField.AlternateCaption property
-
-Gets or sets alternate caption of the button which shall be displayed when the mouse button is pressed within its active area.
 
 ```csharp
 public string AlternateCaption { get; set; }

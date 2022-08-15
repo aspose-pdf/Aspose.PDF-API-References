@@ -1,14 +1,12 @@
 ---
 title: TextStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Class represents style of text in annotation
+description: 
 type: docs
-weight: 1230
+weight: 1180
 url: /net/aspose.pdf.annotations/textstyle/
 ---
 ## TextStyle class
-
-Class represents style of text in annotation
 
 ```csharp
 public class TextStyle
@@ -18,16 +16,16 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.pdf.annotations/textstyle/color) { get; set; } | Color of the text. |
-| [FontName](../../aspose.pdf.annotations/textstyle/fontname) { get; set; } | Name of the font. |
-| [FontSize](../../aspose.pdf.annotations/textstyle/fontsize) { get; set; } | Fonst size. |
-| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment) { get; set; } | Text alignment. Valid values are: Left, Center, Rigth. |
+| [Color](../../aspose.pdf.annotations/textstyle/color) { get; set; } |  |
+| [FontName](../../aspose.pdf.annotations/textstyle/fontname) { get; set; } |  |
+| [FontSize](../../aspose.pdf.annotations/textstyle/fontsize) { get; set; } |  |
+| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/textstyle/tostring)() | String representation of TextStyle. |
+| override [ToString](../../aspose.pdf.annotations/textstyle/tostring)() |  |
 
 ### See Also
 

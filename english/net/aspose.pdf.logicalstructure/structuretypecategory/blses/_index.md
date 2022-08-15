@@ -1,14 +1,12 @@
 ---
 title: BLSEs
 second_title: Aspose.PDF for .NET API Reference
-description: Block-level structure elements BLSEs describe the overall layout of content on the page proceeding in the block-progression direction.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/structuretypecategory/blses/
 ---
 ## StructureTypeCategory.BLSEs field
-
-Block-level structure elements (BLSEs) describe the overall layout of content on the page, proceeding in the block-progression direction.
 
 ```csharp
 public static readonly StructureTypeCategory BLSEs;

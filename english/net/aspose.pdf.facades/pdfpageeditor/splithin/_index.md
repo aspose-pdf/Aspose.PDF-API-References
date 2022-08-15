@@ -1,14 +1,12 @@
 ---
 title: SPLITHIN
 second_title: Aspose.PDF for .NET API Reference
-description: IN Horizontal Split
+description: 
 type: docs
 weight: 290
 url: /net/aspose.pdf.facades/pdfpageeditor/splithin/
 ---
 ## PdfPageEditor.SPLITHIN field
-
-IN Horizontal Split
 
 ```csharp
 public const int SPLITHIN;

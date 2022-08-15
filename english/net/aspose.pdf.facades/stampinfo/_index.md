@@ -1,14 +1,12 @@
 ---
 title: StampInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing stamp information.
+description: 
 type: docs
-weight: 2730
+weight: 2680
 url: /net/aspose.pdf.facades/stampinfo/
 ---
 ## StampInfo class
-
-Class representing stamp information.
 
 ```csharp
 public sealed class StampInfo
@@ -18,14 +16,14 @@ public sealed class StampInfo
 
 | Name | Description |
 | --- | --- |
-| [Form](../../aspose.pdf.facades/stampinfo/form) { get; } | Gets XForm of the stamp. |
-| [Image](../../aspose.pdf.facades/stampinfo/image) { get; } | Gets image of stamp. May be null if stamp does not contain images (for example for text stamp). |
-| [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage) { get; } | Gets stamp index on the page. |
-| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle) { get; } | Gets rectangle where stamp is placed. |
-| [StampId](../../aspose.pdf.facades/stampinfo/stampid) { get; } | Gets identifier of the stamp. |
-| [StampType](../../aspose.pdf.facades/stampinfo/stamptype) { get; } | Gets stamp type (image / form). |
-| [Text](../../aspose.pdf.facades/stampinfo/text) { get; } | Gets text in the stamp. |
-| [Visible](../../aspose.pdf.facades/stampinfo/visible) { get; } | Gets visibility of stamp. If false then stamp is hidden (with HideStampById). Hidden stamp may be restored by ShowStampById. |
+| [Form](../../aspose.pdf.facades/stampinfo/form) { get; } |  |
+| [Image](../../aspose.pdf.facades/stampinfo/image) { get; } |  |
+| [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage) { get; } |  |
+| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle) { get; } |  |
+| [StampId](../../aspose.pdf.facades/stampinfo/stampid) { get; } |  |
+| [StampType](../../aspose.pdf.facades/stampinfo/stamptype) { get; } |  |
+| [Text](../../aspose.pdf.facades/stampinfo/text) { get; } |  |
+| [Visible](../../aspose.pdf.facades/stampinfo/visible) { get; } |  |
 
 ### See Also
 

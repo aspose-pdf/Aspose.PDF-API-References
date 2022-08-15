@@ -1,14 +1,12 @@
 ---
 title: FixedRowHeight
 second_title: Aspose.PDF for .NET API Reference
-description: Gets fixed row height - row may have fixed height.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.logicalstructure/tabletrelement/fixedrowheight/
 ---
 ## TableTRElement.FixedRowHeight property
-
-Gets fixed row height - row may have fixed height.
 
 ```csharp
 public double FixedRowHeight { get; set; }

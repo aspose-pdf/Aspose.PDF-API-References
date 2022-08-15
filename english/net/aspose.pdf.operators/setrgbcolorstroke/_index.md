@@ -1,14 +1,12 @@
 ---
 title: SetRGBColorStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing RG operator set RGB color for stroking operators.
+description: 
 type: docs
-weight: 5560
+weight: 5510
 url: /net/aspose.pdf.operators/setrgbcolorstroke/
 ---
 ## SetRGBColorStroke class
-
-Class representing RG operator (set RGB color for stroking operators).
 
 ```csharp
 public class SetRGBColorStroke : SetColorOperator
@@ -18,22 +16,22 @@ public class SetRGBColorStroke : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetRGBColorStroke](setrgbcolorstroke#constructor_1)(Color) | Initializes operator with color. |
-| [SetRGBColorStroke](setrgbcolorstroke#constructor)(double, double, double) | Initializes operator. |
+| [SetRGBColorStroke](setrgbcolorstroke#constructor_1)(Color) |  |
+| [SetRGBColorStroke](setrgbcolorstroke#constructor)(double, double, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setrgbcolorstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor)() | Returns color specified by operator. |
-| override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/setrgbcolorstroke/accept)(IOperatorSelector) |  |
+| override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor)() |  |
+| override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring)() |  |
 
 ### See Also
 

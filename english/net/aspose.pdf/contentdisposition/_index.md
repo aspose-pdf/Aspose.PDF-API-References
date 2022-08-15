@@ -1,14 +1,12 @@
 ---
 title: ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
-description: MIME protocol Content-Disposition header.
+description: 
 type: docs
-weight: 1560
+weight: 1510
 url: /net/aspose.pdf/contentdisposition/
 ---
 ## ContentDisposition enumeration
-
-MIME protocol Content-Disposition header.
 
 ```csharp
 public enum ContentDisposition
@@ -18,8 +16,8 @@ public enum ContentDisposition
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Inline | `0` | Result is shown inline. |
-| Attachment | `1` | Result is saved as attachment. |
+| Inline | `0` |  |
+| Attachment | `1` |  |
 
 ### See Also
 

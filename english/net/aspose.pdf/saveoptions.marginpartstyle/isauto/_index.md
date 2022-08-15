@@ -1,22 +1,16 @@
 ---
 title: IsAuto
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a value indicating whether this instance is auto.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 ---
 ## SaveOptions.MarginPartStyle.IsAuto property
 
-Gets or sets a value indicating whether this instance is auto.
-
 ```csharp
 public bool IsAuto { get; set; }
 ```
-
-### Property Value
-
-`true` if this instance is auto; otherwise, `false`.
 
 ### See Also
 

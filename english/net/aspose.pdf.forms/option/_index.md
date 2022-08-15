@@ -1,14 +1,12 @@
 ---
 title: Option
 second_title: Aspose.PDF for .NET API Reference
-description: Class represents option of choice field.
+description: 
 type: docs
-weight: 3100
+weight: 3050
 url: /net/aspose.pdf.forms/option/
 ---
 ## Option class
-
-Class represents option of choice field.
 
 ```csharp
 public sealed class Option
@@ -18,10 +16,10 @@ public sealed class Option
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf.forms/option/index) { get; } | Gets index of the option. |
-| [Name](../../aspose.pdf.forms/option/name) { get; set; } | Gets or sets name of option. |
-| [Selected](../../aspose.pdf.forms/option/selected) { get; set; } | Gets or sets selected status of option. Returns true if option is selected. |
-| [Value](../../aspose.pdf.forms/option/value) { get; set; } | Gets or sets option export value. |
+| [Index](../../aspose.pdf.forms/option/index) { get; } |  |
+| [Name](../../aspose.pdf.forms/option/name) { get; set; } |  |
+| [Selected](../../aspose.pdf.forms/option/selected) { get; set; } |  |
+| [Value](../../aspose.pdf.forms/option/value) { get; set; } |  |
 
 ### See Also
 

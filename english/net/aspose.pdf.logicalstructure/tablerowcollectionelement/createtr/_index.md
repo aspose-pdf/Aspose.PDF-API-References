@@ -1,22 +1,16 @@
 ---
 title: CreateTR
 second_title: Aspose.PDF for .NET API Reference
-description: Creates TableTRElementaspose.pdf.logicalstructure/tabletrelement and added it to current table.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
 ## TableRowCollectionElement.CreateTR method
 
-Creates [`TableTRElement`](../../tabletrelement) and added it to current table.
-
 ```csharp
 public virtual TableTRElement CreateTR()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

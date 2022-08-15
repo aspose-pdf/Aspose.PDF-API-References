@@ -1,14 +1,12 @@
 ---
 title: RowSpan
 second_title: Aspose.PDF for .NET API Reference
-description: RowSpan attribute Table attribute owner.
+description: 
 type: docs
 weight: 250
 url: /net/aspose.pdf.logicalstructure/attributekey/rowspan/
 ---
 ## AttributeKey.RowSpan field
-
-RowSpan attribute (Table attribute owner).
 
 ```csharp
 public static readonly AttributeKey RowSpan;

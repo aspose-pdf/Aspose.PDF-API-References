@@ -1,14 +1,12 @@
 ---
 title: BorderStyle_Inset
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute BorderStyle Inset - The border makes the entire box look as though it were embedded in the canvas.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.logicalstructure/attributename/borderstyle_inset/
 ---
 ## AttributeName.BorderStyle_Inset field
-
-Attribute BorderStyle: Inset - The border makes the entire box look as though it were embedded in the canvas.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Inset;

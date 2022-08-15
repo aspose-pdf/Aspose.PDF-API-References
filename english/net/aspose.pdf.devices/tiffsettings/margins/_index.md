@@ -1,14 +1,12 @@
 ---
 title: Margins
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the margins.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.devices/tiffsettings/margins/
 ---
 ## TiffSettings.Margins property
-
-Gets the margins.
 
 ```csharp
 public Margins Margins { get; }

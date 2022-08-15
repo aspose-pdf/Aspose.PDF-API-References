@@ -1,22 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds new action into colleciton.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/actioncollection/add/
 ---
 ## ActionCollection.Add method
 
-Adds new action into colleciton.
-
 ```csharp
 public void Add(PdfAction action)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| action | PdfAction | Action which should be added. |
 
 ### See Also
 

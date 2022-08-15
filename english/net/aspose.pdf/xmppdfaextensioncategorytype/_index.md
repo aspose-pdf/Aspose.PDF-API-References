@@ -1,14 +1,12 @@
 ---
 title: XmpPdfAExtensionCategoryType
 second_title: Aspose.PDF for .NET API Reference
-description: Property category internal or external.
+description: 
 type: docs
-weight: 7480
+weight: 7430
 url: /net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
 ## XmpPdfAExtensionCategoryType enumeration
-
-Property category: internal or external.
 
 ```csharp
 public enum XmpPdfAExtensionCategoryType
@@ -18,8 +16,8 @@ public enum XmpPdfAExtensionCategoryType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Internal | `0` | Internal properties are created automatically from document content. |
-| External | `1` | External properties are based on user input. |
+| Internal | `0` |  |
+| External | `1` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets color space name.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/setcolorspacestroke/name/
 ---
 ## SetColorSpaceStroke.Name property
-
-Gets or sets color space name.
 
 ```csharp
 public string Name { get; set; }

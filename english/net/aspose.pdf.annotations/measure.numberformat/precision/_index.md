@@ -1,14 +1,12 @@
 ---
 title: Precision
 second_title: Aspose.PDF for .NET API Reference
-description: If FractionDisplayment is ShowAsDecimal this value is precision of fractional value It shall me multiple of 10. Default is 100.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/measure.numberformat/precision/
 ---
 ## Measure.NumberFormat.Precision property
-
-If FractionDisplayment is ShowAsDecimal, this value is precision of fractional value; It shall me multiple of 10. Default is 100.
 
 ```csharp
 public int Precision { get; set; }

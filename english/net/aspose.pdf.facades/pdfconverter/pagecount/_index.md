@@ -1,14 +1,12 @@
 ---
 title: PageCount
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the page count.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.facades/pdfconverter/pagecount/
 ---
 ## PdfConverter.PageCount property
-
-Gets the page count.
 
 ```csharp
 public int PageCount { get; }

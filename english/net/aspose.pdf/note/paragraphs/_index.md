@@ -1,14 +1,12 @@
 ---
 title: Paragraphs
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a collection that indicates all paragraphs in the FootNote.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/note/paragraphs/
 ---
 ## Note.Paragraphs property
-
-Gets or sets a collection that indicates all paragraphs in the FootNote.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }

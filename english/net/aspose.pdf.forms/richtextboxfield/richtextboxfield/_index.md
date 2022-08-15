@@ -1,23 +1,16 @@
 ---
 title: RichTextBoxField
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for Rich Text Box field.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/richtextboxfield/richtextboxfield/
 ---
 ## RichTextBoxField constructor
 
-Constructor for Rich Text Box field.
-
 ```csharp
 public RichTextBoxField(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where field will be placed. |
-| rect | Rectangle | Position of the field on the page. |
 
 ### See Also
 

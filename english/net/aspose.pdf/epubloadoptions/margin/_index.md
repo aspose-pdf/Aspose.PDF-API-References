@@ -1,14 +1,12 @@
 ---
 title: Margin
 second_title: Aspose.PDF for .NET API Reference
-description: Gets reference on object that represent marging info.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/epubloadoptions/margin/
 ---
 ## EpubLoadOptions.Margin property
-
-Gets reference on object that represent marging info.
 
 ```csharp
 public MarginInfo Margin { get; set; }

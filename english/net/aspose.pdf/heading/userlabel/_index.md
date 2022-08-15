@@ -1,14 +1,12 @@
 ---
 title: UserLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets user label.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/heading/userlabel/
 ---
 ## Heading.UserLabel property
-
-Gets or sets user label.
 
 ```csharp
 public TextSegment UserLabel { get; set; }

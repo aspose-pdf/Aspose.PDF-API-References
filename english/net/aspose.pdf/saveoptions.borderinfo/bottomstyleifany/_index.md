@@ -1,14 +1,12 @@
 ---
 title: BottomStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Represents bottom partif any of border
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/saveoptions.borderinfo/bottomstyleifany/
 ---
 ## SaveOptions.BorderInfo.BottomStyleIfAny field
-
-Represents bottom part(if any) of border
 
 ```csharp
 public BorderPartStyle BottomStyleIfAny;

@@ -1,14 +1,12 @@
 ---
 title: DefaultValueTypeNamespacePrefix
 second_title: Aspose.PDF for .NET API Reference
-description: Default valie type namespace prefix.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/
 ---
 ## XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix field
-
-Default valie type namespace prefix.
 
 ```csharp
 public const string DefaultValueTypeNamespacePrefix;

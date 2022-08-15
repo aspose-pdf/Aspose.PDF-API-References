@@ -1,14 +1,12 @@
 ---
 title: PdfViewer
 second_title: Aspose.PDF for .NET API Reference
-description: Represents a class to view or print a pdf.
+description: 
 type: docs
-weight: 2640
+weight: 2590
 url: /net/aspose.pdf.facades/pdfviewer/
 ---
 ## PdfViewer class
-
-Represents a class to view or print a pdf.
 
 ```csharp
 public sealed class PdfViewer : IFacade
@@ -18,57 +16,57 @@ public sealed class PdfViewer : IFacade
 
 | Name | Description |
 | --- | --- |
-| [PdfViewer](pdfviewer#constructor)() | Initializes new [`PdfViewer`](../pdfviewer) object. |
-| [PdfViewer](pdfviewer#constructor_1)(Document) | Initializes new [`PdfViewer`](../pdfviewer) object. |
+| [PdfViewer](pdfviewer#constructor)() | The default constructor. |
+| [PdfViewer](pdfviewer#constructor_1)(Document) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AutoResize](../../aspose.pdf.facades/pdfviewer/autoresize) { get; set; } | Gets or sets a bool value that indicates whether the file be printed with optimized size.  If false print page without page scaling. If true print page with scaling to fit to printable area. |
-| [AutoRotate](../../aspose.pdf.facades/pdfviewer/autorotate) { get; set; } | Gets or sets a bool value that indicates whether the file be printed with auto rotation |
-| [AutoRotateMode](../../aspose.pdf.facades/pdfviewer/autorotatemode) { get; set; } | Gets or sets a AutoRotateMode value that indicates direction of rotation |
-| [CoordinateType](../../aspose.pdf.facades/pdfviewer/coordinatetype) { get; set; } | Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
-| [FormPresentationMode](../../aspose.pdf.facades/pdfviewer/formpresentationmode) { get; set; } | Gets or sets form presentation mode. |
-| [HorizontalAlignment](../../aspose.pdf.facades/pdfviewer/horizontalalignment) { get; set; } | Gets or sets a value that indicates horizontal alignment |
-| [PageCount](../../aspose.pdf.facades/pdfviewer/pagecount) { get; } | Gets page count of the current Pdf file. |
-| [Password](../../aspose.pdf.facades/pdfviewer/password) { get; set; } | Gets or sets input document password. |
-| [PrintAsGrayscale](../../aspose.pdf.facades/pdfviewer/printasgrayscale) { get; set; } | Gets or sets a bool value that indicates whether the page is being printed as grayscale. By default is false. |
-| [PrintAsImage](../../aspose.pdf.facades/pdfviewer/printasimage) { get; set; } | Sets or gets a mode for PdfViewer to print as image. |
-| [PrinterJobName](../../aspose.pdf.facades/pdfviewer/printerjobname) { get; set; } | Gets or sets name of document in printer queue when document is printed. Default value is file name. |
-| [PrintPageDialog](../../aspose.pdf.facades/pdfviewer/printpagedialog) { get; set; } | Gets or sets a bool value that indicates whether produce the page number dialog when printing. |
-| [PrintStatus](../../aspose.pdf.facades/pdfviewer/printstatus) { get; } | Gets the result of printing job. If success than null; otherwise, exception object. |
-| [RenderingOptions](../../aspose.pdf.facades/pdfviewer/renderingoptions) { get; set; } | Gets or sets rendering options. |
-| [Resolution](../../aspose.pdf.facades/pdfviewer/resolution) { get; set; } | Gets or sets resolution during viewing and printing. The higher resolution, the slower speed. The default value is 150. |
-| [ScaleFactor](../../aspose.pdf.facades/pdfviewer/scalefactor) { get; set; } | Gets or sets a floating point value that indicates scale factor. The default value is 1.0. |
-| [UseIntermidiateImage](../../aspose.pdf.facades/pdfviewer/useintermidiateimage) { get; set; } | Gets/sets the using of conversion of pdf page into intermidiate png file during printing in file mode. Use it when the size of output file is important. |
-| [VerticalAlignment](../../aspose.pdf.facades/pdfviewer/verticalalignment) { get; set; } | Gets or sets a value that indicates vertical alignment |
+| [AutoResize](../../aspose.pdf.facades/pdfviewer/autoresize) { get; set; } |  |
+| [AutoRotate](../../aspose.pdf.facades/pdfviewer/autorotate) { get; set; } |  |
+| [AutoRotateMode](../../aspose.pdf.facades/pdfviewer/autorotatemode) { get; set; } |  |
+| [CoordinateType](../../aspose.pdf.facades/pdfviewer/coordinatetype) { get; set; } |  |
+| [FormPresentationMode](../../aspose.pdf.facades/pdfviewer/formpresentationmode) { get; set; } |  |
+| [HorizontalAlignment](../../aspose.pdf.facades/pdfviewer/horizontalalignment) { get; set; } |  |
+| [PageCount](../../aspose.pdf.facades/pdfviewer/pagecount) { get; } |  |
+| [Password](../../aspose.pdf.facades/pdfviewer/password) { get; set; } |  |
+| [PrintAsGrayscale](../../aspose.pdf.facades/pdfviewer/printasgrayscale) { get; set; } |  |
+| [PrintAsImage](../../aspose.pdf.facades/pdfviewer/printasimage) { get; set; } |  |
+| [PrinterJobName](../../aspose.pdf.facades/pdfviewer/printerjobname) { get; set; } |  |
+| [PrintPageDialog](../../aspose.pdf.facades/pdfviewer/printpagedialog) { get; set; } |  |
+| [PrintStatus](../../aspose.pdf.facades/pdfviewer/printstatus) { get; } |  |
+| [RenderingOptions](../../aspose.pdf.facades/pdfviewer/renderingoptions) { get; set; } |  |
+| [Resolution](../../aspose.pdf.facades/pdfviewer/resolution) { get; set; } |  |
+| [ScaleFactor](../../aspose.pdf.facades/pdfviewer/scalefactor) { get; set; } |  |
+| [UseIntermidiateImage](../../aspose.pdf.facades/pdfviewer/useintermidiateimage) { get; set; } |  |
+| [VerticalAlignment](../../aspose.pdf.facades/pdfviewer/verticalalignment) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf)(Document) | Initializes the facade. |
-| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf_1)(Stream) | Initializes the facade. |
-| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf_2)(string) | Initializes the facade. |
-| [Close](../../aspose.pdf.facades/pdfviewer/close)() | Closes the facade. |
-| [DecodeAllPages](../../aspose.pdf.facades/pdfviewer/decodeallpages)() | Get pages of current pdf file. |
-| [DecodePage](../../aspose.pdf.facades/pdfviewer/decodepage)(int) | Decodes a page of one Pdf file. |
-| [Dispose](../../aspose.pdf.facades/pdfviewer/dispose)() | Disposes the facade resources. |
-| [GetDefaultPageSettings](../../aspose.pdf.facades/pdfviewer/getdefaultpagesettings)() | Gets the default page settings. |
-| [GetDefaultPrinterSettings](../../aspose.pdf.facades/pdfviewer/getdefaultprintersettings)() | Gets the default printer settings. |
-| [PrintDocument](../../aspose.pdf.facades/pdfviewer/printdocument)() | Prints the Pdf document using default printer. |
-| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings#printdocumentwithsettings_1)(PrinterSettings) | Prints the Pdf document with printer settings. The output page size will fit the the document first page size. |
-| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings#printdocumentwithsettings)(PageSettings, PrinterSettings) | Prints the Pdf document with settings. If the document size is not complatible to page size, pdf.kit will extend it to fit page size. |
-| [PrintDocumentWithSetup](../../aspose.pdf.facades/pdfviewer/printdocumentwithsetup)() | Prints the Pdf document with a setup dialog. Choose a printer using the dialog. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf)(Stream) | Opens and prints a large Pdf stream. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_3)(string) | Opens and prints a large Pdf file. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_2)(Stream, PrinterSettings) | Opens and prints a large Pdf stream with specified printer settings. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_5)(string, PrinterSettings) | Opens and prints a large Pdf file with specified printer settings. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_1)(Stream, PageSettings, PrinterSettings) | Opens and prints a large Pdf stream with specified page settings and printer settings. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |
-| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_4)(string, PageSettings, PrinterSettings) | Opens and prints a large Pdf file with specified page settings and printer settings. If your Pdf file has hundreds of pages or more or its size is more than 3 MB, this method is recommended to get better performance. |
-| [Save](../../aspose.pdf.facades/pdfviewer/save#save)(Stream) | Saves the result PDF document to stream. |
-| [Save](../../aspose.pdf.facades/pdfviewer/save#save_1)(string) | Saves the result PDF document to file. |
+| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf)(Document) |  |
+| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf_1)(Stream) |  |
+| [BindPdf](../../aspose.pdf.facades/pdfviewer/bindpdf#bindpdf_2)(string) |  |
+| [Close](../../aspose.pdf.facades/pdfviewer/close)() |  |
+| [DecodeAllPages](../../aspose.pdf.facades/pdfviewer/decodeallpages)() |  |
+| [DecodePage](../../aspose.pdf.facades/pdfviewer/decodepage)(int) |  |
+| [Dispose](../../aspose.pdf.facades/pdfviewer/dispose)() |  |
+| [GetDefaultPageSettings](../../aspose.pdf.facades/pdfviewer/getdefaultpagesettings)() |  |
+| [GetDefaultPrinterSettings](../../aspose.pdf.facades/pdfviewer/getdefaultprintersettings)() |  |
+| [PrintDocument](../../aspose.pdf.facades/pdfviewer/printdocument)() |  |
+| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings#printdocumentwithsettings_1)(PrinterSettings) |  |
+| [PrintDocumentWithSettings](../../aspose.pdf.facades/pdfviewer/printdocumentwithsettings#printdocumentwithsettings)(PageSettings, PrinterSettings) |  |
+| [PrintDocumentWithSetup](../../aspose.pdf.facades/pdfviewer/printdocumentwithsetup)() |  |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf)(Stream) |  |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_3)(string) |  |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_2)(Stream, PrinterSettings) |  |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_5)(string, PrinterSettings) |  |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_1)(Stream, PageSettings, PrinterSettings) |  |
+| [PrintLargePdf](../../aspose.pdf.facades/pdfviewer/printlargepdf#printlargepdf_4)(string, PageSettings, PrinterSettings) |  |
+| [Save](../../aspose.pdf.facades/pdfviewer/save#save)(Stream) |  |
+| [Save](../../aspose.pdf.facades/pdfviewer/save#save_1)(string) |  |
 
 ### See Also
 

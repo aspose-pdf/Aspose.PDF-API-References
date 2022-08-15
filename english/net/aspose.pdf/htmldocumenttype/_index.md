@@ -1,14 +1,12 @@
 ---
 title: HtmlDocumentType
 second_title: Aspose.PDF for .NET API Reference
-description: Represents enumeration of the Html document types.
+description: 
 type: docs
-weight: 3380
+weight: 3330
 url: /net/aspose.pdf/htmldocumenttype/
 ---
 ## HtmlDocumentType enumeration
-
-Represents enumeration of the Html document types.
 
 ```csharp
 public enum HtmlDocumentType
@@ -18,8 +16,8 @@ public enum HtmlDocumentType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Xhtml | `0` | The XHtml Document Type. |
-| Html5 | `1` | The HTML5 Document Type. |
+| Xhtml | `0` |  |
+| Html5 | `1` |  |
 
 ### See Also
 

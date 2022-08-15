@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets name of option.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/option/name/
 ---
 ## Option.Name property
-
-Gets or sets name of option.
 
 ```csharp
 public string Name { get; set; }

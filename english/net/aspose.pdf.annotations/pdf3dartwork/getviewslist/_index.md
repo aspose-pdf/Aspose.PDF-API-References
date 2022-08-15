@@ -1,22 +1,16 @@
 ---
 title: GetViewsList
 second_title: Aspose.PDF for .NET API Reference
-description: Get the views as list.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 ---
 ## PDF3DArtwork.GetViewsList method
 
-Get the views as list.
-
 ```csharp
 public ReadOnlyCollection<PDF3DView> GetViewsList()
 ```
-
-### Return Value
-
-ReadOnlyCollection&lt;PDF3DView&gt;.
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: ColumnSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point but cm and inch are also supported.For example120 2.5cm 1.5inch.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/columninfo/columnspacing/
 ---
 ## ColumnInfo.ColumnSpacing property
 
-Gets or sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch".
-
 ```csharp
 public string ColumnSpacing { get; set; }
 ```
-
-### Remarks
-
-If this property is not set, default value 0 will be used for each spacing.
 
 ### See Also
 

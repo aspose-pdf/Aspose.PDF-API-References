@@ -1,14 +1,12 @@
 ---
 title: Beta
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the ending angle degree of the arc.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.drawing/arc/beta/
 ---
 ## Arc.Beta property
-
-Gets or sets a float value that indicates the ending angle degree of the arc.
 
 ```csharp
 public double Beta { get; set; }

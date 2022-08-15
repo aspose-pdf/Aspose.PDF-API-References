@@ -1,22 +1,16 @@
 ---
 title: SetImagePreview
 second_title: Aspose.PDF for .NET API Reference
-description: Sets the image preview.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
 ---
 ## SetImagePreview(string) {#setimagepreview_1}
 
-Sets the image preview.
-
 ```csharp
 public void SetImagePreview(string filename)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | The image preview filename. |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public void SetImagePreview(string filename)
 
 ## SetImagePreview(Stream) {#setimagepreview}
 
-Sets the image preview.
-
 ```csharp
 public void SetImagePreview(Stream image)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | Stream | The image stream. |
 
 ### See Also
 

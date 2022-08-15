@@ -1,14 +1,12 @@
 ---
 title: Password
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets input files password.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/pdfextractor/password/
 ---
 ## PdfExtractor.Password property
-
-Gets or sets input file's password.
 
 ```csharp
 public string Password { get; set; }

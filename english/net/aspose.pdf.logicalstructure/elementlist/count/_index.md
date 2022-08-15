@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the number of elements in the ElementList.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/elementlist/count/
 ---
 ## ElementList.Count property
-
-Gets the number of elements in the ElementList.
 
 ```csharp
 public abstract int Count { get; }

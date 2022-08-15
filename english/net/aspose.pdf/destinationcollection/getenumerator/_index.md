@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: Returns the enumerator.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/destinationcollection/getenumerator/
 ---
 ## DestinationCollection.GetEnumerator method
 
-Returns the enumerator.
-
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 ```
-
-### Return Value
-
-The enumerator.
 
 ### See Also
 

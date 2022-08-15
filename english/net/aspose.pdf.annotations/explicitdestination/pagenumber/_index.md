@@ -1,14 +1,12 @@
 ---
 title: PageNumber
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the destination page number
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
 ## ExplicitDestination.PageNumber property
-
-Gets the destination page number
 
 ```csharp
 public int PageNumber { get; }

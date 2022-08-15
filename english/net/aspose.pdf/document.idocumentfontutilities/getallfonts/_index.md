@@ -1,22 +1,16 @@
 ---
 title: GetAllFonts
 second_title: Aspose.PDF for .NET API Reference
-description: Returns all fonts from document
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/document.idocumentfontutilities/getallfonts/
 ---
 ## Document.IDocumentFontUtilities.GetAllFonts method
 
-Returns all fonts from document
-
 ```csharp
 public Font[] GetAllFonts()
 ```
-
-### Return Value
-
-fonts
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Last
 second_title: Aspose.PDF for .NET API Reference
-description: Gets an outline item representing the last top-level item in the outline.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/outlinecollection/last/
 ---
 ## OutlineCollection.Last property
-
-Gets an outline item representing the last top-level item in the outline.
 
 ```csharp
 public OutlineItemCollection Last { get; }

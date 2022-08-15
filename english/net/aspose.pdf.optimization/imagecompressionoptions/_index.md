@@ -1,14 +1,12 @@
 ---
 title: ImageCompressionOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Class contains set options for image compression.
+description: 
 type: docs
-weight: 5710
+weight: 5660
 url: /net/aspose.pdf.optimization/imagecompressionoptions/
 ---
 ## ImageCompressionOptions class
-
-Class contains set options for image compression.
 
 ```csharp
 public class ImageCompressionOptions
@@ -24,12 +22,12 @@ public class ImageCompressionOptions
 
 | Name | Description |
 | --- | --- |
-| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages) { get; set; } | If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property. |
-| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding) { get; set; } | Gets or sets encoding used to store images. |
-| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality) { get; set; } | Specifies level of image compression when CompressIamges flag is used. |
-| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution) { get; set; } | Specifies maximum resolution of images. If image has higher resolition it will be scaled |
-| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages) { get; set; } | If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter. |
-| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version) { get; set; } | Version of compression algorithm. Possible values are: 1. standard compression, 2. fast (improved compression which is faster then standard but may be applicable not for all images), 3. mixed (standard compression is applied to images which can not be compressed by faster algorithm, this may give best compression but more slow then "fast" algorithm. Version "Fast" is not applicable for resizing images (standard method will be used). Default is "Standard". |
+| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages) { get; set; } |  |
+| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding) { get; set; } |  |
+| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality) { get; set; } |  |
+| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution) { get; set; } |  |
+| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages) { get; set; } |  |
+| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version) { get; set; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Title
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets table of contents title.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/tocinfo/title/
 ---
 ## TocInfo.Title property
-
-Gets or sets table of contents title.
 
 ```csharp
 public TextFragment Title { get; set; }

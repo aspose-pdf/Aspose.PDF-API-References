@@ -1,14 +1,14 @@
 ---
 title: BmpDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the BmpDeviceaspose.pdf.devices/bmpdevice class with default resolution.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.devices/bmpdevice/bmpdevice/
 ---
 ## BmpDevice() {#constructor}
 
-Initializes a new instance of the [`BmpDevice`](../../bmpdevice) class with default resolution.
+The default constructor.
 
 ```csharp
 public BmpDevice()
@@ -23,8 +23,6 @@ public BmpDevice()
 ---
 
 ## BmpDevice(Resolution) {#constructor_1}
-
-Initializes a new instance of the [`BmpDevice`](../../bmpdevice) class.  Resolution for the result image file, see [`Resolution`](../../resolution) class.
 
 ```csharp
 public BmpDevice(Resolution resolution)
@@ -41,17 +39,9 @@ public BmpDevice(Resolution resolution)
 
 ## BmpDevice(int, int, Resolution) {#constructor_5}
 
-Initializes a new instance of the [`BmpDevice`](../../bmpdevice) class with provided image dimensions and resolution.
-
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Int32 | Image output width. |
-| height | Int32 | Image output height. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution) class. |
 
 ### See Also
 
@@ -64,16 +54,9 @@ public BmpDevice(int width, int height, Resolution resolution)
 
 ## BmpDevice(PageSize, Resolution) {#constructor_3}
 
-Initializes a new instance of the [`BmpDevice`](../../bmpdevice) class with provided page size and resolution.
-
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution) class. |
 
 ### See Also
 
@@ -87,16 +70,9 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 
 ## BmpDevice(int, int) {#constructor_4}
 
-Initializes a new instance of the [`BmpDevice`](../../bmpdevice) class with provided image dimensions, default resolution (=150).
-
 ```csharp
 public BmpDevice(int width, int height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Int32 | Image output width. |
-| height | Int32 | Image output height. |
 
 ### See Also
 
@@ -108,15 +84,9 @@ public BmpDevice(int width, int height)
 
 ## BmpDevice(PageSize) {#constructor_2}
 
-Initializes a new instance of the [`BmpDevice`](../../bmpdevice) class with provided page size, default resolution (=150).
-
 ```csharp
 public BmpDevice(PageSize pageSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
 
 ### See Also
 

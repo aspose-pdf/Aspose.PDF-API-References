@@ -1,22 +1,16 @@
 ---
 title: ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets foreground color of the text.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/
 ---
 ## StructureTextState.ForegroundColor property
 
-Gets or sets foreground color of the text.
-
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
-
-### Remarks
-
-Can be null. Use null to inherit `ForegroundColor` property from parent structure element.
 
 ### See Also
 

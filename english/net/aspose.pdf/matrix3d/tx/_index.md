@@ -1,14 +1,12 @@
 ---
 title: Tx
 second_title: Aspose.PDF for .NET API Reference
-description: Tx member of the transformation matrix.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf/matrix3d/tx/
 ---
 ## Matrix3D.Tx property
-
-Tx member of the transformation matrix.
 
 ```csharp
 public double Tx { get; set; }

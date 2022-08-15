@@ -1,22 +1,16 @@
 ---
 title: FileSpecification
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for FileSpecification
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/filespecification/filespecification/
 ---
 ## FileSpecification(string) {#constructor_3}
 
-Constructor for FileSpecification
-
 ```csharp
 public FileSpecification(string file)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| file | String | File path. |
 
 ### See Also
 
@@ -28,16 +22,9 @@ public FileSpecification(string file)
 
 ## FileSpecification(Stream, string) {#constructor_1}
 
-Constructor for file specification.
-
 ```csharp
 public FileSpecification(Stream stream, string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream containing data file. |
-| name | String | File specification. |
 
 ### See Also
 
@@ -49,16 +36,9 @@ public FileSpecification(Stream stream, string name)
 
 ## FileSpecification(string, string) {#constructor_5}
 
-Constructor for FileSpecification.
-
 ```csharp
 public FileSpecification(string file, string description)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| file | String | File path. |
-| description | String | File description. |
 
 ### See Also
 
@@ -70,17 +50,9 @@ public FileSpecification(string file, string description)
 
 ## FileSpecification(Stream, string, string) {#constructor_2}
 
-Constructor for FileSpecification.
-
 ```csharp
 public FileSpecification(Stream stream, string name, string description)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream to be used in the document. |
-| name | String | A file specification string. |
-| description | String | File description. |
 
 ### See Also
 
@@ -92,16 +64,9 @@ public FileSpecification(Stream stream, string name, string description)
 
 ## FileSpecification(string, Annotation) {#constructor_4}
 
-Constructor for FileSpecification.
-
 ```csharp
 public FileSpecification(string fileName, Annotation annot)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileName | String | File path. |
-| annot | Annotation | The annotation. |
 
 ### See Also
 
@@ -114,7 +79,7 @@ public FileSpecification(string fileName, Annotation annot)
 
 ## FileSpecification() {#constructor}
 
-Create new empty file specification.
+The default constructor.
 
 ```csharp
 public FileSpecification()

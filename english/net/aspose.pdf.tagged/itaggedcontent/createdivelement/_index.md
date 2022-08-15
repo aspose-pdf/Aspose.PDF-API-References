@@ -1,22 +1,16 @@
 ---
 title: CreateDivElement
 second_title: Aspose.PDF for .NET API Reference
-description: Creates DivElementaspose.pdf.logicalstructure/divelement.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.tagged/itaggedcontent/createdivelement/
 ---
 ## ITaggedContent.CreateDivElement method
 
-Creates [`DivElement`](../../../aspose.pdf.logicalstructure/divelement).
-
 ```csharp
 public DivElement CreateDivElement()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

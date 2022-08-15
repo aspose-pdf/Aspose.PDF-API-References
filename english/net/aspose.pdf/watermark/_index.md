@@ -1,14 +1,12 @@
 ---
 title: Watermark
 second_title: Aspose.PDF for .NET API Reference
-description: Represents a watermark of the page.
+description: 
 type: docs
-weight: 7350
+weight: 7300
 url: /net/aspose.pdf/watermark/
 ---
 ## Watermark class
-
-Represents a watermark of the page.
 
 ```csharp
 public class Watermark
@@ -18,16 +16,16 @@ public class Watermark
 
 | Name | Description |
 | --- | --- |
-| [Watermark](watermark#constructor)(Image) | Initializes a watermark object with an image. |
-| [Watermark](watermark#constructor_1)(Image, Rectangle) | Initializes a watermark object with an image and it's position on a page. |
+| [Watermark](watermark#constructor)(Image) |  |
+| [Watermark](watermark#constructor_1)(Image, Rectangle) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Available](../../aspose.pdf/watermark/available) { get; } | Gets a flag the watermark is present. |
-| [Image](../../aspose.pdf/watermark/image) { get; } | Gets an image of the watermark. |
-| [Position](../../aspose.pdf/watermark/position) { get; } | Gets a position of the watermark's image on a page. |
+| [Available](../../aspose.pdf/watermark/available) { get; } |  |
+| [Image](../../aspose.pdf/watermark/image) { get; } |  |
+| [Position](../../aspose.pdf/watermark/position) { get; } |  |
 
 ### See Also
 

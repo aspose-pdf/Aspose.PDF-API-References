@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clones the Rectangle object.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf/rectangle/clone/
 ---
 ## Rectangle.Clone method
 
-Clones the Rectangle object.
-
 ```csharp
 public object Clone()
 ```
-
-### Return Value
-
-Clone object.
 
 ### See Also
 

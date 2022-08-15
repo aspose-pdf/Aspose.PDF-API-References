@@ -1,22 +1,16 @@
 ---
 title: SetPosition
 second_title: Aspose.PDF for .NET API Reference
-description: Set position of the field.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf.forms/field/setposition/
 ---
 ## Field.SetPosition method
 
-Set position of the field.
-
 ```csharp
 public virtual void SetPosition(Point point)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| point | Point | Point where field should be positioned. |
 
 ### See Also
 

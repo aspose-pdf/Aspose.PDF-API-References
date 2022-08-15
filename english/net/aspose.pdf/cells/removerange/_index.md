@@ -1,23 +1,16 @@
 ---
 title: RemoveRange
 second_title: Aspose.PDF for .NET API Reference
-description: Remove cell set from collection.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/cells/removerange/
 ---
 ## Cells.RemoveRange method
 
-Remove cell set from collection.
-
 ```csharp
 public void RemoveRange(int index, int count)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | The collection index. |
-| count | Int32 | The rows count. |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: PKCS7
 second_title: Aspose.PDF for .NET API Reference
-description: Inititalizes new instance of the PKCS7aspose.pdf.forms/pkcs7 class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/pkcs7/pkcs7/
 ---
 ## PKCS7() {#constructor}
 
-Inititalizes new instance of the [`PKCS7`](../../pkcs7) class.
+The default constructor.
 
 ```csharp
 public PKCS7()
@@ -24,16 +24,9 @@ public PKCS7()
 
 ## PKCS7(string, string) {#constructor_2}
 
-Inititalizes new instance of the [`PKCS7`](../../pkcs7) class.
-
 ```csharp
 public PKCS7(string pfx, string password)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | String | Pfx file which contains certificate for signing. |
-| password | String | Password for certificate. |
 
 ### See Also
 
@@ -45,16 +38,9 @@ public PKCS7(string pfx, string password)
 
 ## PKCS7(Stream, string) {#constructor_1}
 
-Inititalizes new instance of the [`PKCS7`](../../pkcs7) class.
-
 ```csharp
 public PKCS7(Stream pfx, string password)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | Stream | Stream with certificate data organized as pfx. |
-| password | String | Password to get access to the private key in the certificate. |
 
 ### See Also
 

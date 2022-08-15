@@ -1,14 +1,12 @@
 ---
 title: FixedPrint
 second_title: Aspose.PDF for .NET API Reference
-description: Represent Fixed print data of Watermark Annotation.
+description: 
 type: docs
-weight: 420
+weight: 370
 url: /net/aspose.pdf.annotations/fixedprint/
 ---
 ## FixedPrint class
-
-Represent Fixed print data of Watermark Annotation.
 
 ```csharp
 public class FixedPrint
@@ -18,9 +16,9 @@ public class FixedPrint
 
 | Name | Description |
 | --- | --- |
-| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation) { get; set; } | Gets or sets horizontal translation. |
-| [Matrix](../../aspose.pdf.annotations/fixedprint/matrix) { get; set; } | Gets or sets matrix value. |
-| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation) { get; set; } | Gets or sets vertical translation. |
+| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation) { get; set; } |  |
+| [Matrix](../../aspose.pdf.annotations/fixedprint/matrix) { get; set; } |  |
+| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation) { get; set; } |  |
 
 ### See Also
 

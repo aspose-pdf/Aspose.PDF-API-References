@@ -1,22 +1,16 @@
 ---
 title: Delete
 second_title: Aspose.PDF for .NET API Reference
-description: Deletes annotation from the collection by index.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/annotationcollection/delete/
 ---
 ## Delete(int) {#delete_2}
 
-Deletes annotation from the collection by index.
-
 ```csharp
 public void Delete(int index)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of annotation which shall be deleted. |
 
 ### See Also
 
@@ -27,8 +21,6 @@ public void Delete(int index)
 ---
 
 ## Delete() {#delete}
-
-Deletes all annotations from the collection.
 
 ```csharp
 public void Delete()
@@ -44,15 +36,9 @@ public void Delete()
 
 ## Delete(Annotation) {#delete_1}
 
-Deletes specified annotation from the collection.
-
 ```csharp
 public void Delete(Annotation annotation)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | Annotation | Annotation which shall be deleted. |
 
 ### See Also
 

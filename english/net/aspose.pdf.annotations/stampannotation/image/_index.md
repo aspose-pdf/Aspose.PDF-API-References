@@ -1,14 +1,12 @@
 ---
 title: Image
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets image of the annotation.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/stampannotation/image/
 ---
 ## StampAnnotation.Image property
-
-Gets or sets image of the annotation.
 
 ```csharp
 public Stream Image { get; set; }

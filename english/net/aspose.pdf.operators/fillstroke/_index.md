@@ -1,14 +1,12 @@
 ---
 title: FillStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing B operator fill and stroke path using nonzero winding rule
+description: 
 type: docs
-weight: 5160
+weight: 5110
 url: /net/aspose.pdf.operators/fillstroke/
 ---
 ## FillStroke class
-
-Class representing B operator (fill and stroke path using nonzero winding rule)
 
 ```csharp
 public class FillStroke : Operator
@@ -18,20 +16,20 @@ public class FillStroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [FillStroke](fillstroke)() | Initializes operator. |
+| [FillStroke](fillstroke)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fillstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/fillstroke/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/fillstroke/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/fillstroke/tostring)() |  |
 
 ### See Also
 

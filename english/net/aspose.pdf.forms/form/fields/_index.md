@@ -1,14 +1,12 @@
 ---
 title: Fields
 second_title: Aspose.PDF for .NET API Reference
-description: Gets list of all fields in lowest level of hierarhical form.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.forms/form/fields/
 ---
 ## Form.Fields property
-
-Gets list of all fields in lowest level of hierarhical form.
 
 ```csharp
 public Field[] Fields { get; }

@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clones a new MarginInfoaspose.pdf/margininfo object.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/margininfo/clone/
 ---
 ## MarginInfo.Clone method
 
-Clones a new [`MarginInfo`](../../margininfo) object.
-
 ```csharp
 public object Clone()
 ```
-
-### Return Value
-
-The new object.
 
 ### See Also
 

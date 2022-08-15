@@ -1,14 +1,12 @@
 ---
 title: AbsorbedTable
 second_title: Aspose.PDF for .NET API Reference
-description: Represents table that exist on the page
+description: 
 type: docs
-weight: 6620
+weight: 6570
 url: /net/aspose.pdf.text/absorbedtable/
 ---
 ## AbsorbedTable class
-
-Represents table that exist on the page
 
 ```csharp
 public class AbsorbedTable : ITableElement
@@ -18,9 +16,9 @@ public class AbsorbedTable : ITableElement
 
 | Name | Description |
 | --- | --- |
-| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum) { get; } | Gets number of the page containing this table |
-| [Rectangle](../../aspose.pdf.text/absorbedtable/rectangle) { get; } | Gets rectangle that describes position of the table on page |
-| [RowList](../../aspose.pdf.text/absorbedtable/rowlist) { get; } | Gets readonly IList containing rows of the table |
+| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum) { get; } |  |
+| [Rectangle](../../aspose.pdf.text/absorbedtable/rectangle) { get; } |  |
+| [RowList](../../aspose.pdf.text/absorbedtable/rowlist) { get; } |  |
 
 ### See Also
 

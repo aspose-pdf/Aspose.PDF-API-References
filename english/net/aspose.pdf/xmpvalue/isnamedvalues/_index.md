@@ -1,14 +1,12 @@
 ---
 title: IsNamedValues
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true is XmpValue represents named values.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/xmpvalue/isnamedvalues/
 ---
 ## XmpValue.IsNamedValues property
-
-Returns true is XmpValue represents named values.
 
 ```csharp
 public bool IsNamedValues { get; }

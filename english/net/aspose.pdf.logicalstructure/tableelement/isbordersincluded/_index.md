@@ -1,14 +1,12 @@
 ---
 title: IsBordersIncluded
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets border included in column widhts.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 ---
 ## TableElement.IsBordersIncluded property
-
-Gets or sets border included in column widhts.
 
 ```csharp
 public bool IsBordersIncluded { get; set; }

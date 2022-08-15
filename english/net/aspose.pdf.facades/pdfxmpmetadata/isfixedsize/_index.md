@@ -1,14 +1,12 @@
 ---
 title: IsFixedSize
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true is collection has fixed size.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/
 ---
 ## PdfXmpMetadata.IsFixedSize property
-
-Returns true is collection has fixed size.
 
 ```csharp
 public bool IsFixedSize { get; }

@@ -1,14 +1,12 @@
 ---
 title: ColorSpace
 second_title: Aspose.PDF for .NET API Reference
-description: Gets color space that the color represents.
+description: 
 type: docs
 weight: 1500
 url: /net/aspose.pdf/color/colorspace/
 ---
 ## Color.ColorSpace property
-
-Gets color space that the color represents.
 
 ```csharp
 public ColorSpace ColorSpace { get; }

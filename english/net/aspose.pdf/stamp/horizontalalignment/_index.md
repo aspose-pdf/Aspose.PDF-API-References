@@ -1,14 +1,12 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets Horizontal alignment of stamp on the page.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/stamp/horizontalalignment/
 ---
 ## Stamp.HorizontalAlignment property
-
-Gets or sets Horizontal alignment of stamp on the page.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

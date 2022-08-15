@@ -1,14 +1,14 @@
 ---
 title: GradientRadialShading
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the GradientRadialShadingaspose.pdf.drawing/gradientradialshading class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
 ---
 ## GradientRadialShading() {#constructor}
 
-Initializes a new instance of the [`GradientRadialShading`](../../gradientradialshading) class.
+The default constructor.
 
 ```csharp
 public GradientRadialShading()
@@ -24,16 +24,9 @@ public GradientRadialShading()
 
 ## GradientRadialShading(Color, Color) {#constructor_1}
 
-Initializes a new instance of the [`GradientRadialShading`](../../gradientradialshading) class.
-
 ```csharp
 public GradientRadialShading(Color startColor, Color endColor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| startColor | Color | The starting circle color. |
-| endColor | Color | The ending circle color. |
 
 ### See Also
 

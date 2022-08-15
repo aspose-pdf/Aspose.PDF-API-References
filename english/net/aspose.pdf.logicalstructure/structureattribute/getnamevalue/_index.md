@@ -1,22 +1,16 @@
 ---
 title: GetNameValue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets Value Name.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
 ## StructureAttribute.GetNameValue method
 
-Gets Value Name.
-
 ```csharp
 public AttributeName GetNameValue()
 ```
-
-### Return Value
-
-Value Name.
 
 ### See Also
 

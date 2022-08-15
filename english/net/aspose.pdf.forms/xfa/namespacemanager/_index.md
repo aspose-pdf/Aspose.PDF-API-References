@@ -1,14 +1,12 @@
 ---
 title: NamespaceManager
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the namespace for the XFA form. The following namepsaces are defined data for form data and tpl for form template.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.forms/xfa/namespacemanager/
 ---
 ## XFA.NamespaceManager property
-
-Gets the namespace for the XFA form. The following namepsaces are defined: "data" for form data and "tpl" for form template.
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }

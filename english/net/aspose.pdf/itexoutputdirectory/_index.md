@@ -1,14 +1,12 @@
 ---
 title: ITeXOutputDirectory
 second_title: Aspose.PDF for .NET API Reference
-description: Interface of generalized TeX output directory.
+description: 
 type: docs
-weight: 3690
+weight: 3640
 url: /net/aspose.pdf/itexoutputdirectory/
 ---
 ## ITeXOutputDirectory interface
-
-Interface of generalized TeX output directory.
 
 ```csharp
 public interface ITeXOutputDirectory : ITeXInputDirectory
@@ -18,7 +16,7 @@ public interface ITeXOutputDirectory : ITeXInputDirectory
 
 | Name | Description |
 | --- | --- |
-| [GetOutputFile](../../aspose.pdf/itexoutputdirectory/getoutputfile)(string, out string) | Returns the stream to write to. |
+| [GetOutputFile](../../aspose.pdf/itexoutputdirectory/getoutputfile)(string, out string) |  |
 
 ### See Also
 

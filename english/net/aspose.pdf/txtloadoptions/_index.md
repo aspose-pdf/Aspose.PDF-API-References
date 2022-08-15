@@ -1,14 +1,12 @@
 ---
 title: TxtLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Load options for TXT to PDF conversion.
+description: 
 type: docs
-weight: 7270
+weight: 7220
 url: /net/aspose.pdf/txtloadoptions/
 ---
 ## TxtLoadOptions class
-
-Load options for TXT to PDF conversion.
 
 ```csharp
 public class TxtLoadOptions : LoadOptions
@@ -24,8 +22,8 @@ public class TxtLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ### See Also
 

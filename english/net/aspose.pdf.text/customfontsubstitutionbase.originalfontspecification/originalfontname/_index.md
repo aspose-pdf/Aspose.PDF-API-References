@@ -1,14 +1,12 @@
 ---
 title: OriginalFontName
 second_title: Aspose.PDF for .NET API Reference
-description: Gets original font name.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName property
-
-Gets original font name.
 
 ```csharp
 public string OriginalFontName { get; }

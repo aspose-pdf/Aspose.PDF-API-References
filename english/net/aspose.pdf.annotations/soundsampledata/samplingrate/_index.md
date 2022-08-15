@@ -1,14 +1,12 @@
 ---
 title: SamplingRate
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the sampling rate.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/soundsampledata/samplingrate/
 ---
 ## SoundSampleData.SamplingRate property
-
-Gets or sets the sampling rate.
 
 ```csharp
 public long SamplingRate { get; set; }

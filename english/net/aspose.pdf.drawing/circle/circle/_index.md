@@ -1,24 +1,16 @@
 ---
 title: Circle
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the Circleaspose.pdf.drawing/circle class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.drawing/circle/circle/
 ---
 ## Circle constructor
 
-Initializes a new instance of the [`Circle`](../../circle) class.
-
 ```csharp
 public Circle(float posX, float posY, float radius)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| posX | Single | The x-coordinate of the center of the circle. |
-| posY | Single | The y-coordinate of the center of the circle. |
-| radius | Single | The radius of the circle. |
 
 ### See Also
 

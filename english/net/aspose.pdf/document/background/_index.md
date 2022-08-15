@@ -1,14 +1,12 @@
 ---
 title: Background
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the background color of the document.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/document/background/
 ---
 ## Document.Background property
-
-Gets or sets the background color of the document.
 
 ```csharp
 public Color Background { get; set; }

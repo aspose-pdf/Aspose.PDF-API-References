@@ -1,14 +1,12 @@
 ---
 title: XmpField
 second_title: Aspose.PDF for .NET API Reference
-description: Represents XMP field.
+description: 
 type: docs
-weight: 7460
+weight: 7410
 url: /net/aspose.pdf/xmpfield/
 ---
 ## XmpField class
-
-Represents XMP field.
 
 ```csharp
 public class XmpField
@@ -18,26 +16,26 @@ public class XmpField
 
 | Name | Description |
 | --- | --- |
-| static [Empty](../../aspose.pdf/xmpfield/empty) { get; } | Gets an Empty xmp field. |
-| static [Lang](../../aspose.pdf/xmpfield/lang) { get; } | Gets xml:lang qualifier. |
-| [FieldType](../../aspose.pdf/xmpfield/fieldtype) { get; } | Gets the type of the field. |
-| [IsEmpty](../../aspose.pdf/xmpfield/isempty) { get; } | Gets a value indicating whether this instance is empty. |
-| [LocalName](../../aspose.pdf/xmpfield/localname) { get; set; } | Gets or sets the name of the local. |
-| [Name](../../aspose.pdf/xmpfield/name) { get; } | Gets the name. |
-| [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri) { get; set; } | Gets the namespace URI. |
-| [Prefix](../../aspose.pdf/xmpfield/prefix) { get; set; } | Gets the prefix. |
-| [Value](../../aspose.pdf/xmpfield/value) { get; } | Gets the value. |
+| static [Empty](../../aspose.pdf/xmpfield/empty) { get; } |  |
+| static [Lang](../../aspose.pdf/xmpfield/lang) { get; } |  |
+| [FieldType](../../aspose.pdf/xmpfield/fieldtype) { get; } |  |
+| [IsEmpty](../../aspose.pdf/xmpfield/isempty) { get; } |  |
+| [LocalName](../../aspose.pdf/xmpfield/localname) { get; set; } |  |
+| [Name](../../aspose.pdf/xmpfield/name) { get; } |  |
+| [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri) { get; set; } |  |
+| [Prefix](../../aspose.pdf/xmpfield/prefix) { get; set; } |  |
+| [Value](../../aspose.pdf/xmpfield/value) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf/xmpfield/equals)(object) | Indicates whether this instance and a specified object are equal. |
-| override [GetHashCode](../../aspose.pdf/xmpfield/gethashcode)() | Returns a hash code for this instance. |
-| [ToArray](../../aspose.pdf/xmpfield/toarray)() | Gets value as an array. |
-| [ToStructure](../../aspose.pdf/xmpfield/tostructure)() | Gets value as a structure. |
-| [operator ==](../../aspose.pdf/xmpfield/op_equality) | Implements the operator ==. |
-| [operator !=](../../aspose.pdf/xmpfield/op_inequality) | Implements the operator !=. |
+| override [Equals](../../aspose.pdf/xmpfield/equals)(object) |  |
+| override [GetHashCode](../../aspose.pdf/xmpfield/gethashcode)() |  |
+| [ToArray](../../aspose.pdf/xmpfield/toarray)() |  |
+| [ToStructure](../../aspose.pdf/xmpfield/tostructure)() |  |
+| [operator ==](../../aspose.pdf/xmpfield/op_equality) |  |
+| [operator !=](../../aspose.pdf/xmpfield/op_inequality) |  |
 
 ### See Also
 

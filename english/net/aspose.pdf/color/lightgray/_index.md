@@ -1,22 +1,16 @@
 ---
 title: LightGray
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFD3D3D3.
+description: 
 type: docs
 weight: 690
 url: /net/aspose.pdf/color/lightgray/
 ---
 ## Color.LightGray property
 
-Gets a system-defined color that has an ARGB value of #FFD3D3D3.
-
 ```csharp
 public static Color LightGray { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

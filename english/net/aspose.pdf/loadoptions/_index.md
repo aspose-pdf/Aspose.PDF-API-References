@@ -1,14 +1,12 @@
 ---
 title: LoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: LoadOptions type holds level of abstraction on individual load options
+description: 
 type: docs
-weight: 3950
+weight: 3900
 url: /net/aspose.pdf/loadoptions/
 ---
 ## LoadOptions class
-
-LoadOptions type holds level of abstraction on individual load options
 
 ```csharp
 public abstract class LoadOptions
@@ -18,8 +16,8 @@ public abstract class LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ### See Also
 

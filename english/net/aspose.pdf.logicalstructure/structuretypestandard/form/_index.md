@@ -1,14 +1,12 @@
 ---
 title: Form
 second_title: Aspose.PDF for .NET API Reference
-description: Form A widget annotation representing an interactive form field.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/form/
 ---
 ## StructureTypeStandard.Form field
-
-(Form) A widget annotation representing an interactive form field.
 
 ```csharp
 public static readonly StructureTypeStandard Form;

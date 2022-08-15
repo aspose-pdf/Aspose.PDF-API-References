@@ -1,14 +1,12 @@
 ---
 title: PageCollection
 second_title: Aspose.PDF for .NET API Reference
-description: Collection of PDF document pages.
+description: 
 type: docs
-weight: 5820
+weight: 5770
 url: /net/aspose.pdf/pagecollection/
 ---
 ## PageCollection class
-
-Collection of PDF document pages.
 
 ```csharp
 public sealed class PageCollection : ICollection<Page>
@@ -18,39 +16,39 @@ public sealed class PageCollection : ICollection<Page>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/pagecollection/count) { get; } | Gets count of pages in the document. |
-| [IsReadOnly](../../aspose.pdf/pagecollection/isreadonly) { get; } | Gets value indicating of collection is readonly. Always returns false. |
-| [IsSynchronized](../../aspose.pdf/pagecollection/issynchronized) { get; } | Returns true of object is synchorinzed. |
-| [Item](../../aspose.pdf/pagecollection/item) { get; } | Gets page by index. |
-| [SyncRoot](../../aspose.pdf/pagecollection/syncroot) { get; } | Gets synchronization object of the collection. |
+| [Count](../../aspose.pdf/pagecollection/count) { get; } |  |
+| [IsReadOnly](../../aspose.pdf/pagecollection/isreadonly) { get; } |  |
+| [IsSynchronized](../../aspose.pdf/pagecollection/issynchronized) { get; } |  |
+| [Item](../../aspose.pdf/pagecollection/item) { get; } |  |
+| [SyncRoot](../../aspose.pdf/pagecollection/syncroot) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept)(AnnotationSelector) | Accepts [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector) visitor object that provides functionality to work with annotations. |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_1)(ImagePlacementAbsorber) | Accepts [`ImagePlacementAbsorber`](../imageplacementabsorber) visitor object that provides functionality to work with image placement objects. |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_2)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber) visitor object that provides functionality to work with text objects. |
-| [Accept](../../aspose.pdf/pagecollection/accept#accept_3)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber) visitor object that provides functionality to work with text objects. |
-| [Add](../../aspose.pdf/pagecollection/add#add)() | Adds empty page |
-| [Add](../../aspose.pdf/pagecollection/add#add_3)(ICollection&lt;Page&gt;) | Adds to collection all pages from list. |
-| [Add](../../aspose.pdf/pagecollection/add#add_1)(Page) | Adds page to collection. |
-| [Add](../../aspose.pdf/pagecollection/add#add_2)(Page[]) | Adds to collection all pages from array. |
-| [Clear](../../aspose.pdf/pagecollection/clear)() | Clear page collection. |
-| [Contains](../../aspose.pdf/pagecollection/contains)(Page) | Determines whether this instance contains the object. |
-| [CopyTo](../../aspose.pdf/pagecollection/copyto)(Page[], int) | Copyies pages into document. |
-| [Delete](../../aspose.pdf/pagecollection/delete#delete)() | Deletes all pages from collection. |
-| [Delete](../../aspose.pdf/pagecollection/delete#delete_1)(int) | Delete specified page. |
-| [Delete](../../aspose.pdf/pagecollection/delete#delete_2)(int[]) | Delete pages specified which numbers are specified in array. |
-| [Flatten](../../aspose.pdf/pagecollection/flatten)() | Removes all fields located on the pages and place their values instead. |
-| [FreeMemory](../../aspose.pdf/pagecollection/freememory)() | Clears cached data |
-| [GetEnumerator](../../aspose.pdf/pagecollection/getenumerator)() | Returns enumerator of pages. |
-| [IndexOf](../../aspose.pdf/pagecollection/indexof)(Page) | Returns index of the specified page. |
-| [Insert](../../aspose.pdf/pagecollection/insert#insert)(int) | Insert empty apge into collection at the specified position. |
-| [Insert](../../aspose.pdf/pagecollection/insert#insert_3)(int, ICollection&lt;Page&gt;) | Inserts pages from the collection into document. |
-| [Insert](../../aspose.pdf/pagecollection/insert#insert_1)(int, Page) | Inserts page into page collection at specified place. |
-| [Insert](../../aspose.pdf/pagecollection/insert#insert_2)(int, Page[]) | Inserts pages of the array into document. |
-| [Remove](../../aspose.pdf/pagecollection/remove)(Page) | Removes the specified item, throws NotSupportedException. |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept)(AnnotationSelector) |  |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_1)(ImagePlacementAbsorber) |  |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_2)(TextAbsorber) |  |
+| [Accept](../../aspose.pdf/pagecollection/accept#accept_3)(TextFragmentAbsorber) |  |
+| [Add](../../aspose.pdf/pagecollection/add#add)() |  |
+| [Add](../../aspose.pdf/pagecollection/add#add_3)(ICollection&lt;Page&gt;) |  |
+| [Add](../../aspose.pdf/pagecollection/add#add_1)(Page) |  |
+| [Add](../../aspose.pdf/pagecollection/add#add_2)(Page[]) |  |
+| [Clear](../../aspose.pdf/pagecollection/clear)() |  |
+| [Contains](../../aspose.pdf/pagecollection/contains)(Page) |  |
+| [CopyTo](../../aspose.pdf/pagecollection/copyto)(Page[], int) |  |
+| [Delete](../../aspose.pdf/pagecollection/delete#delete)() |  |
+| [Delete](../../aspose.pdf/pagecollection/delete#delete_1)(int) |  |
+| [Delete](../../aspose.pdf/pagecollection/delete#delete_2)(int[]) |  |
+| [Flatten](../../aspose.pdf/pagecollection/flatten)() |  |
+| [FreeMemory](../../aspose.pdf/pagecollection/freememory)() |  |
+| [GetEnumerator](../../aspose.pdf/pagecollection/getenumerator)() |  |
+| [IndexOf](../../aspose.pdf/pagecollection/indexof)(Page) |  |
+| [Insert](../../aspose.pdf/pagecollection/insert#insert)(int) |  |
+| [Insert](../../aspose.pdf/pagecollection/insert#insert_3)(int, ICollection&lt;Page&gt;) |  |
+| [Insert](../../aspose.pdf/pagecollection/insert#insert_1)(int, Page) |  |
+| [Insert](../../aspose.pdf/pagecollection/insert#insert_2)(int, Page[]) |  |
+| [Remove](../../aspose.pdf/pagecollection/remove)(Page) |  |
 
 ### See Also
 

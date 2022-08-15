@@ -1,22 +1,16 @@
 ---
 title: CreateTableElement
 second_title: Aspose.PDF for .NET API Reference
-description: Creates TableElementaspose.pdf.logicalstructure/tableelement.
+description: 
 type: docs
 weight: 280
 url: /net/aspose.pdf.tagged/itaggedcontent/createtableelement/
 ---
 ## ITaggedContent.CreateTableElement method
 
-Creates [`TableElement`](../../../aspose.pdf.logicalstructure/tableelement).
-
 ```csharp
 public TableElement CreateTableElement()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

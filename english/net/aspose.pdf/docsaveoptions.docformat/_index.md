@@ -1,14 +1,12 @@
 ---
 title: DocSaveOptions.DocFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Allows to specify .doc or .docx file format.
+description: 
 type: docs
-weight: 1850
+weight: 1800
 url: /net/aspose.pdf/docsaveoptions.docformat/
 ---
 ## DocSaveOptions.DocFormat enumeration
-
-Allows to specify .doc or .docx file format.
 
 ```csharp
 public enum DocFormat
@@ -18,8 +16,8 @@ public enum DocFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Doc | `0` | [MS-DOC]: Word (.doc) Binary File Format |
-| DocX | `1` | Office Open XML (.docx) File Format |
+| Doc | `0` |  |
+| DocX | `1` |  |
 
 ### See Also
 

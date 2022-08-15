@@ -1,14 +1,14 @@
 ---
 title: MarginInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Creates instance of MarginInfo
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/saveoptions.margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-Creates instance of MarginInfo
+The default constructor.
 
 ```csharp
 public MarginInfo()
@@ -24,15 +24,9 @@ public MarginInfo()
 
 ## MarginInfo(MarginPartStyle) {#constructor_1}
 
-Creates instance of MarginInfo class and initializes all elements of page margin(Top, Left, Right, Bottom) with attributes copied from supplied margin style
-
 ```csharp
 public MarginInfo(MarginPartStyle commonMargin)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| commonMargin | MarginPartStyle | style of margin parts that will be used for all elements of margin(left, right, top, bottom) |
 
 ### See Also
 

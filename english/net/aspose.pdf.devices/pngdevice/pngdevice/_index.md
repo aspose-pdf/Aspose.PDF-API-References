@@ -1,14 +1,14 @@
 ---
 title: PngDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the PngDeviceaspose.pdf.devices/pngdevice class with default resolution.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.devices/pngdevice/pngdevice/
 ---
 ## PngDevice() {#constructor}
 
-Initializes a new instance of the [`PngDevice`](../../pngdevice) class with default resolution.
+The default constructor.
 
 ```csharp
 public PngDevice()
@@ -23,8 +23,6 @@ public PngDevice()
 ---
 
 ## PngDevice(Resolution) {#constructor_1}
-
-Initializes a new instance of the [`PngDevice`](../../pngdevice) class.  Resolution for the result image file, see [`Resolution`](../../resolution) class.
 
 ```csharp
 public PngDevice(Resolution resolution)
@@ -41,17 +39,9 @@ public PngDevice(Resolution resolution)
 
 ## PngDevice(int, int, Resolution) {#constructor_5}
 
-Initializes a new instance of the [`PngDevice`](../../pngdevice) class with provided image dimensions and resolution.
-
 ```csharp
 public PngDevice(int width, int height, Resolution resolution)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Int32 | Image output width. |
-| height | Int32 | Image output height. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution) class. |
 
 ### See Also
 
@@ -64,16 +54,9 @@ public PngDevice(int width, int height, Resolution resolution)
 
 ## PngDevice(PageSize, Resolution) {#constructor_3}
 
-Initializes a new instance of the [`PngDevice`](../../pngdevice) class with provided page size and resolution.
-
 ```csharp
 public PngDevice(PageSize pageSize, Resolution resolution)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution) class. |
 
 ### See Also
 
@@ -87,16 +70,9 @@ public PngDevice(PageSize pageSize, Resolution resolution)
 
 ## PngDevice(int, int) {#constructor_4}
 
-Initializes a new instance of the [`PngDevice`](../../pngdevice) class with provided image dimensions, default resolution (=150).
-
 ```csharp
 public PngDevice(int width, int height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Int32 | Image output width. |
-| height | Int32 | Image output height. |
 
 ### See Also
 
@@ -108,15 +84,9 @@ public PngDevice(int width, int height)
 
 ## PngDevice(PageSize) {#constructor_2}
 
-Initializes a new instance of the [`PngDevice`](../../pngdevice) class with provided page size, default resolution (=150).
-
 ```csharp
 public PngDevice(PageSize pageSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
 
 ### See Also
 

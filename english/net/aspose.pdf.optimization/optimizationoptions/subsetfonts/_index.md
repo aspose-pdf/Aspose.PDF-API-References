@@ -1,14 +1,12 @@
 ---
 title: SubsetFonts
 second_title: Aspose.PDF for .NET API Reference
-description: Fonts will be converted into subsets if set to true.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.optimization/optimizationoptions/subsetfonts/
 ---
 ## OptimizationOptions.SubsetFonts property
-
-Fonts will be converted into subsets if set to true.
 
 ```csharp
 public bool SubsetFonts { get; set; }

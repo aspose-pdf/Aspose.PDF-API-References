@@ -1,14 +1,12 @@
 ---
 title: DataType
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates field types definitions.
+description: 
 type: docs
-weight: 2220
+weight: 2170
 url: /net/aspose.pdf.facades/datatype/
 ---
 ## DataType enumeration
-
-Enumerates field types definitions.
 
 ```csharp
 public enum DataType
@@ -18,12 +16,12 @@ public enum DataType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FDF | `0` | FDF stream. |
-| XML | `1` | XML stream. |
-| XFDF | `2` | XFDF stream. |
-| PDF | `3` | PDF stream. |
-| OLEDB | `4` | OLEDB database, such as MS Access. |
-| ODBC | `5` | ODBC database, such as MS SQL Server. |
+| FDF | `0` |  |
+| XML | `1` |  |
+| XFDF | `2` |  |
+| PDF | `3` |  |
+| OLEDB | `4` |  |
+| ODBC | `5` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: SetTextRenderingMode
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing Tr operator set text rendering mode.
+description: 
 type: docs
-weight: 5600
+weight: 5550
 url: /net/aspose.pdf.operators/settextrenderingmode/
 ---
 ## SetTextRenderingMode class
-
-Class representing Tr operator (set text rendering mode).
 
 ```csharp
 public class SetTextRenderingMode : TextStateOperator
@@ -18,14 +16,14 @@ public class SetTextRenderingMode : TextStateOperator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

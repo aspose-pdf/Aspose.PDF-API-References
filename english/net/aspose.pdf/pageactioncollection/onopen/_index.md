@@ -1,14 +1,12 @@
 ---
 title: OnOpen
 second_title: Aspose.PDF for .NET API Reference
-description: An action that shall be performed when the page is opened.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/pageactioncollection/onopen/
 ---
 ## PageActionCollection.OnOpen property
-
-An action that shall be performed when the page is opened.
 
 ```csharp
 public PdfAction OnOpen { get; set; }

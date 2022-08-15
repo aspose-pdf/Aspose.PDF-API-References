@@ -1,22 +1,16 @@
 ---
 title: XmpValue
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for string value.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/xmpvalue/xmpvalue/
 ---
 ## XmpValue(string) {#constructor_4}
 
-Constructor for string value.
-
 ```csharp
 public XmpValue(string value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | String | String value. |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public XmpValue(string value)
 
 ## XmpValue(int) {#constructor_2}
 
-Consructor for integer value.
-
 ```csharp
 public XmpValue(int value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Int32 | Integer value. |
 
 ### See Also
 
@@ -48,15 +36,9 @@ public XmpValue(int value)
 
 ## XmpValue(double) {#constructor_1}
 
-Constructor for floating point Value.
-
 ```csharp
 public XmpValue(double value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Double | Double value. |
 
 ### See Also
 
@@ -68,15 +50,9 @@ public XmpValue(double value)
 
 ## XmpValue(DateTime) {#constructor_3}
 
-Constructor for date time value.
-
 ```csharp
 public XmpValue(DateTime value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | DateTime | Date time value. |
 
 ### See Also
 
@@ -88,15 +64,9 @@ public XmpValue(DateTime value)
 
 ## XmpValue(XmpValue[]) {#constructor}
 
-Constructor for array value.
-
 ```csharp
 public XmpValue(XmpValue[] array)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | XmpValue[] | Array value. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: DocSaveOptions.RecognitionMode
 second_title: Aspose.PDF for .NET API Reference
-description: Allows to control how a PDF document is converted into a word processing document.
+description: 
 type: docs
-weight: 1860
+weight: 1810
 url: /net/aspose.pdf/docsaveoptions.recognitionmode/
 ---
 ## DocSaveOptions.RecognitionMode enumeration
-
-Allows to control how a PDF document is converted into a word processing document.
 
 ```csharp
 public enum RecognitionMode
@@ -18,15 +16,9 @@ public enum RecognitionMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Textbox | `0` | This mode is fast and good for maximally preserving original look of the PDF file, but editability of the resulting document could be limited. |
-| Flow | `1` | Full recognition mode, the engine performs grouping and multi-level analysis to restore the original document author's intent and produce a maximally editable document. The downside is that the output document might look different from the original PDF file. |
-| EnhancedFlow | `2` | An early alfa version of a new Flow mode supporting recognition of tables. |
-
-### Remarks
-
-Use the Textbox mode when the resulting document is not goining to be heavily edited futher. Textboxes are easy to modify when there is not a lot to do.
-
-Use the Flow mode when the output document needs further editing. Paragraphs and texlines in the flow mode allow easy modification of text, but unupported formatting objects will look worse than in the Textbox mode.
+| Textbox | `0` |  |
+| Flow | `1` |  |
+| EnhancedFlow | `2` |  |
 
 ### See Also
 

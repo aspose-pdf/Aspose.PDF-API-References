@@ -1,14 +1,12 @@
 ---
 title: PdfFileSanitization
 second_title: Aspose.PDF for .NET API Reference
-description: Represents sanitization and recovery API. Use it if you cant create/open documents in any other way.
+description: 
 type: docs
-weight: 2550
+weight: 2500
 url: /net/aspose.pdf.facades/pdffilesanitization/
 ---
 ## PdfFileSanitization class
-
-Represents sanitization and recovery API. Use it if you can't create/open documents in any other way.
 
 ```csharp
 public sealed class PdfFileSanitization : SaveableFacade
@@ -24,25 +22,27 @@ public sealed class PdfFileSanitization : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Gets the document facade is working on. |
-| [Log](../../aspose.pdf.facades/pdffilesanitization/log) { get; } | After file has Saved you can check what was done with file. |
-| [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom) { get; set; } | Allows to remove data after pdf data |
-| [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop) { get; set; } | Allows to remove data before pdf data. |
+| [Document](../../aspose.pdf.facades/facade/document) { get; } |  |
+| [Log](../../aspose.pdf.facades/pdffilesanitization/log) { get; } |  |
+| [UseRebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer) { get; set; } |  |
+| [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom) { get; set; } |  |
+| [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf)(Document) | Initializes the facade. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_1)(Stream) | Binds a Pdf stream for Sanitize. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_2)(string) | Binds a Pdf file for Sanitize. |
-| override [Close](../../aspose.pdf.facades/pdffilesanitization/close)() | Closes the facade. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Disposes the facade. |
-| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover)() | Recovers document. Use properties to customize. |
-| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save)(Stream) | Saves the result PDF to stream. |
-| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save_1)(string) | Saves the result PDF to file. |
-| [TrimBottom](../../aspose.pdf.facades/pdffilesanitization/trimbottom)() | Removes data after last %%EOF. |
-| [TrimTop](../../aspose.pdf.facades/pdffilesanitization/trimtop)() | Removes data before %PDF. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf)(Document) |  |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_1)(Stream) |  |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf#bindpdf_2)(string) |  |
+| override [Close](../../aspose.pdf.facades/pdffilesanitization/close)() |  |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() |  |
+| [RebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer)() |  |
+| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover)() |  |
+| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save)(Stream) |  |
+| override [Save](../../aspose.pdf.facades/pdffilesanitization/save#save_1)(string) |  |
+| [TrimBottom](../../aspose.pdf.facades/pdffilesanitization/trimbottom)() |  |
+| [TrimTop](../../aspose.pdf.facades/pdffilesanitization/trimtop)() |  |
 
 ### See Also
 

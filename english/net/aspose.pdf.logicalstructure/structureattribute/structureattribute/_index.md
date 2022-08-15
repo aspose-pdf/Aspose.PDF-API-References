@@ -1,22 +1,16 @@
 ---
 title: StructureAttribute
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the StructureAttribute.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 ---
 ## StructureAttribute constructor
 
-Initializes a new instance of the StructureAttribute.
-
 ```csharp
 public StructureAttribute(AttributeKey attributeKey)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| attributeKey | AttributeKey | Attribute Key |
 
 ### See Also
 

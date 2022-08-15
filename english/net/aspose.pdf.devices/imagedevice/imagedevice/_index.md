@@ -1,14 +1,14 @@
 ---
 title: ImageDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Abstract initializer for ImageDeviceaspose.pdf.devices/imagedevice descendants set resolution to 150x150.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-Abstract initializer for [`ImageDevice`](../../imagedevice) descendants, set resolution to 150x150.
+The default constructor.
 
 ```csharp
 public ImageDevice()
@@ -23,8 +23,6 @@ public ImageDevice()
 ---
 
 ## ImageDevice(Resolution) {#constructor_1}
-
-Abstract initializer for [`ImageDevice`](../../imagedevice) descendants.  Resolution for the result image file, see [`Resolution`](../resolution) class.
 
 ```csharp
 public ImageDevice(Resolution resolution)
@@ -41,16 +39,9 @@ public ImageDevice(Resolution resolution)
 
 ## ImageDevice(int, int) {#constructor_4}
 
-Initializes a new instance of the [`JpegDevice`](../../jpegdevice) class with provided image dimensions and default resolution (=150).
-
 ```csharp
 public ImageDevice(int width, int height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Int32 | Image output width. |
-| height | Int32 | Image output height. |
 
 ### See Also
 
@@ -62,15 +53,9 @@ public ImageDevice(int width, int height)
 
 ## ImageDevice(PageSize) {#constructor_2}
 
-Initializes a new instance of the [`JpegDevice`](../../jpegdevice) class with provided image dimensions and default resolution (=150).
-
 ```csharp
 public ImageDevice(PageSize pageSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
 
 ### See Also
 
@@ -83,17 +68,9 @@ public ImageDevice(PageSize pageSize)
 
 ## ImageDevice(int, int, Resolution) {#constructor_5}
 
-Initializes a new instance of the [`JpegDevice`](../../jpegdevice) class with provided image dimensions and resolution.
-
 ```csharp
 public ImageDevice(int width, int height, Resolution resolution)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Int32 | Image output width. |
-| height | Int32 | Image output height. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../resolution) class. |
 
 ### See Also
 
@@ -106,16 +83,9 @@ public ImageDevice(int width, int height, Resolution resolution)
 
 ## ImageDevice(PageSize, Resolution) {#constructor_3}
 
-Initializes a new instance of the [`JpegDevice`](../../jpegdevice) class with provided image dimensions and resolution.
-
 ```csharp
 public ImageDevice(PageSize pageSize, Resolution resolution)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../resolution) class. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: PositionArray
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float position array.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.drawing/curve/positionarray/
 ---
 ## Curve.PositionArray property
-
-Gets or sets a float position array.
 
 ```csharp
 public float[] PositionArray { get; set; }

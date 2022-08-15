@@ -1,14 +1,12 @@
 ---
 title: Justification
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the forms of quadding justification to be used in displaying the annotations text.
+description: 
 type: docs
-weight: 560
+weight: 510
 url: /net/aspose.pdf.annotations/justification/
 ---
 ## Justification enumeration
-
-Enumerates the forms of quadding (justification) to be used in displaying the annotation�s text.
 
 ```csharp
 public enum Justification
@@ -18,9 +16,9 @@ public enum Justification
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` | Left justification. |
-| Center | `1` | Center justification. |
-| Right | `2` | Right justification. |
+| Left | `0` |  |
+| Center | `1` |  |
+| Right | `2` |  |
 
 ### See Also
 

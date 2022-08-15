@@ -1,14 +1,12 @@
 ---
 title: ListNumbering_LowerRoman
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute ListNumbering LowerRoman - Lowercase roman numerals i ii iii iv ....
+description: 
 type: docs
 weight: 290
 url: /net/aspose.pdf.logicalstructure/attributename/listnumbering_lowerroman/
 ---
 ## AttributeName.ListNumbering_LowerRoman field
-
-Attribute ListNumbering: LowerRoman - Lowercase roman numerals (i, ii, iii, iv, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerRoman;

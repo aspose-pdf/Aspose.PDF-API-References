@@ -1,14 +1,12 @@
 ---
 title: InteriorColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets interior color of the annotation.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/lineannotation/interiorcolor/
 ---
 ## LineAnnotation.InteriorColor property
-
-Gets or sets interior color of the annotation.
 
 ```csharp
 public Color InteriorColor { get; set; }

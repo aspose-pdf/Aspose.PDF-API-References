@@ -1,14 +1,12 @@
 ---
 title: Margin
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the margin info.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/headerfooter/margin/
 ---
 ## HeaderFooter.Margin property
-
-Gets or sets the margin info.
 
 ```csharp
 public MarginInfo Margin { get; set; }

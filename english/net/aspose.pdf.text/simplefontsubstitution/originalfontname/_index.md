@@ -1,14 +1,12 @@
 ---
 title: OriginalFontName
 second_title: Aspose.PDF for .NET API Reference
-description: Gets original font name that should be substituted with SubstitutionFontNameaspose.pdf.text/simplefontsubstitution/substitutionfontname
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/simplefontsubstitution/originalfontname/
 ---
 ## SimpleFontSubstitution.OriginalFontName property
-
-Gets original font name that should be substituted with [`SubstitutionFontName`](../substitutionfontname)
 
 ```csharp
 public string OriginalFontName { get; }

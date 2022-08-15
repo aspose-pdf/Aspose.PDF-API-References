@@ -1,14 +1,12 @@
 ---
 title: ImageFormat
 second_title: Aspose.PDF for .NET API Reference
-description: This enum represents image formats.
+description: 
 type: docs
-weight: 2000
+weight: 1950
 url: /net/aspose.pdf.drawing/imageformat/
 ---
 ## ImageFormat enumeration
-
-This enum represents image formats.
 
 ```csharp
 public enum ImageFormat
@@ -18,12 +16,12 @@ public enum ImageFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Bmp | `0` | BMP format. |
-| Jpeg | `1` | JPEG format. |
-| Gif | `2` | GIF format. |
-| Png | `3` | PNG format. |
-| Tiff | `4` | TIFF format. |
-| Emf | `5` | EMF format. |
+| Bmp | `0` |  |
+| Jpeg | `1` |  |
+| Gif | `2` |  |
+| Png | `3` |  |
+| Tiff | `4` |  |
+| Emf | `5` |  |
 
 ### See Also
 

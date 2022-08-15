@@ -1,14 +1,12 @@
 ---
 title: Ty
 second_title: Aspose.PDF for .NET API Reference
-description: Ty member of the transformation matrix.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/matrix3d/ty/
 ---
 ## Matrix3D.Ty property
-
-Ty member of the transformation matrix.
 
 ```csharp
 public double Ty { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Padding
 second_title: Aspose.PDF for .NET API Reference
-description: Padding attribute Layout attribute owner.
+description: 
 type: docs
 weight: 220
 url: /net/aspose.pdf.logicalstructure/attributekey/padding/
 ---
 ## AttributeKey.Padding field
-
-Padding attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey Padding;

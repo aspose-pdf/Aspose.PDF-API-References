@@ -1,14 +1,12 @@
 ---
 title: AllowAssembly
 second_title: Aspose.PDF for .NET API Reference
-description: Sets the permission which allow assembly or not. true is allow and false is forbidden.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
 ## DocumentPrivilege.AllowAssembly property
-
-Sets the permission which allow assembly or not. true is allow and false is forbidden.
 
 ```csharp
 public bool AllowAssembly { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: Dispose the artifact.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.pdf/artifact/dispose/
 ---
 ## Artifact.Dispose method
-
-Dispose the artifact.
 
 ```csharp
 public void Dispose()

@@ -1,14 +1,12 @@
 ---
 title: IPipelineOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Defines conversion options related to pipeline configuration.
+description: 
 type: docs
-weight: 3670
+weight: 3620
 url: /net/aspose.pdf/ipipelineoptions/
 ---
 ## IPipelineOptions interface
-
-Defines conversion options related to pipeline configuration.
 
 ```csharp
 public interface IPipelineOptions
@@ -18,7 +16,7 @@ public interface IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize) { get; set; } | Specifies the size of a portion of pages to pass from node to node. |
+| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize) { get; set; } |  |
 
 ### See Also
 

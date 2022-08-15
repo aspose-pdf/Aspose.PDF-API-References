@@ -1,14 +1,12 @@
 ---
 title: OnClosePage
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets an action to be performed when the page containing the annotation is closed.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/annotationactioncollection/onclosepage/
 ---
 ## AnnotationActionCollection.OnClosePage property
-
-Gets or sets an action to be performed when the page containing the annotation is closed.
 
 ```csharp
 public PdfAction OnClosePage { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: FormPresentationMode
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets form presentation mode.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.devices/tiffdevice/formpresentationmode/
 ---
 ## TiffDevice.FormPresentationMode property
-
-Gets or sets form presentation mode.
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }

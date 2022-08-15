@@ -1,14 +1,12 @@
 ---
 title: DefaultFontName
 second_title: Aspose.PDF for .NET API Reference
-description: Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts that are not available in the document itself and on the device API replaces this fonts with the default fontif font with DefaultFontNameaspose.pdf/pdfsaveoptions/defaultfontname is found on device
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/pdfsaveoptions/defaultfontname/
 ---
 ## PdfSaveOptions.DefaultFontName property
-
-Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that are not available in the document itself and on the device, API replaces this fonts with the default font(if font with `DefaultFontName` is found on device)
 
 ```csharp
 public string DefaultFontName { get; set; }

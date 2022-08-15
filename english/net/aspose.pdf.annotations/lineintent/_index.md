@@ -1,14 +1,12 @@
 ---
 title: LineIntent
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the intents of the line annotation.
+description: 
 type: docs
-weight: 620
+weight: 570
 url: /net/aspose.pdf.annotations/lineintent/
 ---
 ## LineIntent enumeration
-
-Enumerates the intents of the line annotation.
 
 ```csharp
 public enum LineIntent
@@ -18,9 +16,9 @@ public enum LineIntent
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` | Undefined state. |
-| LineArrow | `1` | Means that the annotation is intended to function as an arrow. |
-| LineDimension | `2` | Means that the annotation is intended to function as a dimension line. |
+| Undefined | `0` |  |
+| LineArrow | `1` |  |
+| LineDimension | `2` |  |
 
 ### See Also
 

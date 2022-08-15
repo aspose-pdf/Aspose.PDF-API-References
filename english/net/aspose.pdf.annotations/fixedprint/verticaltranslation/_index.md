@@ -1,14 +1,12 @@
 ---
 title: VerticalTranslation
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets vertical translation.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/fixedprint/verticaltranslation/
 ---
 ## FixedPrint.VerticalTranslation property
-
-Gets or sets vertical translation.
 
 ```csharp
 public double VerticalTranslation { get; set; }

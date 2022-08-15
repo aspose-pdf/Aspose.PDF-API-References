@@ -1,22 +1,16 @@
 ---
 title: Verify
 second_title: Aspose.PDF for .NET API Reference
-description: Verify the document regarding this signature and return true if document is valid or otherwise false.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.forms/signature/verify/
 ---
 ## Signature.Verify method
 
-Verify the document regarding this signature and return true if document is valid or otherwise false.
-
 ```csharp
 public bool Verify()
 ```
-
-### Return Value
-
-true if document is valid.
 
 ### See Also
 

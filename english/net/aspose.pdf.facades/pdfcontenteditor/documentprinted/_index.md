@@ -1,14 +1,12 @@
 ---
 title: DocumentPrinted
 second_title: Aspose.PDF for .NET API Reference
-description: A document event type. Excute a action after printing.
+description: 
 type: docs
 weight: 490
 url: /net/aspose.pdf.facades/pdfcontenteditor/documentprinted/
 ---
 ## PdfContentEditor.DocumentPrinted field
-
-A document event type. Excute a action after printing.
 
 ```csharp
 public const string DocumentPrinted;

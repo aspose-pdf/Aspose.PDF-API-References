@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the width of the ellipse.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.drawing/ellipse/width/
 ---
 ## Ellipse.Width property
-
-Gets or sets a float value that indicates the width of the ellipse.
 
 ```csharp
 public double Width { get; set; }

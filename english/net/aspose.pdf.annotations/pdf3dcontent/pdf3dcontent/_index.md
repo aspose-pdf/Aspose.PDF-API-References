@@ -1,14 +1,14 @@
 ---
 title: PDF3DContent
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the PDF3DContentaspose.pdf.annotations/pdf3dcontent class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
 ---
 ## PDF3DContent() {#constructor}
 
-Initializes a new instance of the [`PDF3DContent`](../../pdf3dcontent) class.
+The default constructor.
 
 ```csharp
 public PDF3DContent()
@@ -24,21 +24,9 @@ public PDF3DContent()
 
 ## PDF3DContent(string) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DContent`](../../pdf3dcontent) class.
-
 ```csharp
 public PDF3DContent(string filename)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | The filename. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | Unknown 3D Artwork type |
 
 ### See Also
 

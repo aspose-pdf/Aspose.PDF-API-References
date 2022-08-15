@@ -1,14 +1,12 @@
 ---
 title: InvalidValueFormatException
 second_title: Aspose.PDF for .NET API Reference
-description: Exception which thrown when requested value has incorrect format.
+description: 
 type: docs
-weight: 3890
+weight: 3840
 url: /net/aspose.pdf/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException class
-
-Exception which thrown when requested value has incorrect format.
 
 ```csharp
 public class InvalidValueFormatException : PdfException
@@ -18,8 +16,8 @@ public class InvalidValueFormatException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [InvalidValueFormatException](invalidvalueformatexception#constructor)() | Initializes a new instance of the [`InvalidValueFormatException`](../invalidvalueformatexception) class. |
-| [InvalidValueFormatException](invalidvalueformatexception#constructor_1)(string) | Constructor. |
+| [InvalidValueFormatException](invalidvalueformatexception#constructor)() | The default constructor. |
+| [InvalidValueFormatException](invalidvalueformatexception#constructor_1)(string) |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: BorderEffect
 second_title: Aspose.PDF for .NET API Reference
-description: Describes effect which should be applied to the border of the annotations.
+description: 
 type: docs
-weight: 180
+weight: 130
 url: /net/aspose.pdf.annotations/bordereffect/
 ---
 ## BorderEffect enumeration
-
-Describes effect which should be applied to the border of the annotations.
 
 ```csharp
 public enum BorderEffect
@@ -18,8 +16,8 @@ public enum BorderEffect
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No effect. |
-| Cloudy | `1` | The border will appear "cloudly". |
+| None | `0` |  |
+| Cloudy | `1` |  |
 
 ### See Also
 

@@ -1,31 +1,15 @@
 ---
 title: ExtractBookmarks
 second_title: Aspose.PDF for .NET API Reference
-description: Extracts bookmarks of all levels from the document.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
 ---
 ## ExtractBookmarks() {#extractbookmarks}
 
-Extracts bookmarks of all levels from the document.
-
 ```csharp
 public Bookmarks ExtractBookmarks()
-```
-
-### Return Value
-
-The bookmarks collection of all bookmarks that exist in the document.
-
-### Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-Bookmarks bms = editor.ExtractBookmarks();
-foreach(Bookmark bm in bms)
-    Console.WriteLine(bm.Title);
 ```
 
 ### See Also
@@ -39,19 +23,9 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(bool) {#extractbookmarks_2}
 
-Extracts bookmarks of all levels from the document.
-
 ```csharp
 public Bookmarks ExtractBookmarks(bool upperLevel)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| upperLevel | Boolean | If true, extracts only upper level bookmarks. Else, extracts all bookmarks recursively. |
-
-### Return Value
-
-List of extracted bookmarks.
 
 ### See Also
 
@@ -64,28 +38,8 @@ List of extracted bookmarks.
 
 ## ExtractBookmarks(string) {#extractbookmarks_3}
 
-Extracts the bookmarks with the specified title.
-
 ```csharp
 public Bookmarks ExtractBookmarks(string title)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| title | String | Extracted item title. |
-
-### Return Value
-
-Bookmark collection has items with the same title.
-
-### Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-Bookmarks bms = editor.ExtractBookmarks("Title");
-foreach(Bookmark bm in bms)
-    Console.WriteLine(bm.Title);
 ```
 
 ### See Also
@@ -99,30 +53,8 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-Extracts the children of a bookmark with a title like in specified bookamrk.
-
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bookmark | Bookmark | The specified bookamrk. |
-
-### Return Value
-
-Bookmark collection with child bookmarks.
-
-### Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-Bookmark bookmark = new Bookmark();
-bookmark.Title = "Title";
-Bookmarks bms = editor.ExtractBookmarks(bookmark);
-foreach(Bookmark bm in bms)
-    Console.WriteLine(bm.Title);
 ```
 
 ### See Also

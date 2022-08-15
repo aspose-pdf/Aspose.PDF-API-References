@@ -1,14 +1,12 @@
 ---
 title: LeftoverLeft
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets space to allocate at the left of the icon.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/iconfit/leftoverleft/
 ---
 ## IconFit.LeftoverLeft property
-
-Gets or sets space to allocate at the left of the icon.
 
 ```csharp
 public double LeftoverLeft { get; set; }

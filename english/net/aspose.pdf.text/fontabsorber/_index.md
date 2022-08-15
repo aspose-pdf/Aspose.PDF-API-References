@@ -1,14 +1,12 @@
 ---
 title: FontAbsorber
 second_title: Aspose.PDF for .NET API Reference
-description: Represents an absorber object of fonts. Performs search for fonts and provides access to search results via Fonts./fontabsorber/fonts collection.
+description: 
 type: docs
-weight: 6700
+weight: 6650
 url: /net/aspose.pdf.text/fontabsorber/
 ---
 ## FontAbsorber class
-
-Represents an absorber object of fonts. Performs search for fonts and provides access to search results via [`Fonts`](./fonts) collection.
 
 ```csharp
 public class FontAbsorber
@@ -24,14 +22,14 @@ public class FontAbsorber
 
 | Name | Description |
 | --- | --- |
-| [Fonts](../../aspose.pdf.text/fontabsorber/fonts) { get; } | Gets collection of search occurrences that are presented with [`Font`](../font) objects. |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit#visit)(Document) | Performs search on the specified document. |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit#visit_1)(Document, int, int) | Performs search in the specified range of pages of the document. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit#visit)(Document) |  |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit#visit_1)(Document, int, int) |  |
 
 ### See Also
 

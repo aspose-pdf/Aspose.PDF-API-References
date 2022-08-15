@@ -1,14 +1,12 @@
 ---
 title: Fixup
 second_title: Aspose.PDF for .NET API Reference
-description: This enum represents an type of Fixup.
+description: 
 type: docs
-weight: 2830
+weight: 2780
 url: /net/aspose.pdf/fixup/
 ---
 ## Fixup enumeration
-
-This enum represents an type of Fixup.
 
 ```csharp
 public enum Fixup
@@ -18,12 +16,12 @@ public enum Fixup
 
 | Name | Value | Description |
 | --- | --- | --- |
-| ConvertAllPagesIntoCMYKImagesAndPreserveTextInformation | `0` | Not supported. |
-| ConvertFontsToOutlines | `1` | Not supported. |
-| DerivePageGeometryBoxesFromCropMarks | `2` | Not supported. |
-| EmbedMissingFonts | `3` | Not supported. |
-| RotatePagesToLandscape | `4` | Rotate all pages to landscape if portrait by 90 degrees. |
-| RotatePagesToPortrait | `5` | Rotate all pages to portrait if landscape by 90 degrees. |
+| ConvertAllPagesIntoCMYKImagesAndPreserveTextInformation | `0` |  |
+| ConvertFontsToOutlines | `1` |  |
+| DerivePageGeometryBoxesFromCropMarks | `2` |  |
+| EmbedMissingFonts | `3` |  |
+| RotatePagesToLandscape | `4` |  |
+| RotatePagesToPortrait | `5` |  |
 
 ### See Also
 

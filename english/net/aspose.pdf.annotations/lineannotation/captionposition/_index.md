@@ -1,14 +1,12 @@
 ---
 title: CaptionPosition
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets annotation caption position.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/lineannotation/captionposition/
 ---
 ## LineAnnotation.CaptionPosition property
-
-Gets or sets annotation caption position.
 
 ```csharp
 public CaptionPosition CaptionPosition { get; set; }

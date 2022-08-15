@@ -1,14 +1,12 @@
 ---
 title: SvgLoadOptions.ConversionEngines
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates conversion engines that can be used for conversion
+description: 
 type: docs
-weight: 6440
+weight: 6390
 url: /net/aspose.pdf/svgloadoptions.conversionengines/
 ---
 ## SvgLoadOptions.ConversionEngines enumeration
-
-Enumerates conversion engines that can be used for conversion
 
 ```csharp
 public enum ConversionEngines
@@ -18,8 +16,8 @@ public enum ConversionEngines
 
 | Name | Value | Description |
 | --- | --- | --- |
-| LegacyEngine | `0` | Represents legacy SVG to PDF conversion engine. |
-| NewEngine | `1` | Represents new SVG to PDF conversion engine. |
+| LegacyEngine | `0` |  |
+| NewEngine | `1` |  |
 
 ### See Also
 

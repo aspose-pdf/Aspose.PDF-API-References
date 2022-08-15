@@ -1,14 +1,12 @@
 ---
 title: ICPosition
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets icon caption position.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.forms/buttonfield/icposition/
 ---
 ## ButtonField.ICPosition property
-
-Gets or sets icon caption position.
 
 ```csharp
 public IconCaptionPosition ICPosition { get; set; }

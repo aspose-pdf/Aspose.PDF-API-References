@@ -1,22 +1,16 @@
 ---
 title: SetText
 second_title: Aspose.PDF for .NET API Reference
-description: Set text of the annotation.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/watermarkannotation/settext/
 ---
 ## WatermarkAnnotation.SetText method
 
-Set text of the annotation.
-
 ```csharp
 public void SetText(FormattedText text)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | FormattedText | Text value. |
 
 ### See Also
 

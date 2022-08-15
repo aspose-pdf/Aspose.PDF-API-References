@@ -1,22 +1,16 @@
 ---
 title: CreateFormulaElement
 second_title: Aspose.PDF for .NET API Reference
-description: Creates FormulaElementaspose.pdf.logicalstructure/formulaelement.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.tagged/itaggedcontent/createformulaelement/
 ---
 ## ITaggedContent.CreateFormulaElement method
 
-Creates [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement).
-
 ```csharp
 public FormulaElement CreateFormulaElement()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

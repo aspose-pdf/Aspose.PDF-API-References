@@ -1,14 +1,12 @@
 ---
 title: Annotations
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of page annotations. Annotationsaspose.pdf/page/annotations
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/page/annotations/
 ---
 ## Page.Annotations property
-
-Gets collection of page annotations. `Annotations`
 
 ```csharp
 public AnnotationCollection Annotations { get; }

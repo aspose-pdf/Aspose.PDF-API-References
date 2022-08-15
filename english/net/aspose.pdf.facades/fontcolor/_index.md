@@ -1,14 +1,12 @@
 ---
 title: FontColor
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing color of the text.
+description: 
 type: docs
-weight: 2280
+weight: 2230
 url: /net/aspose.pdf.facades/fontcolor/
 ---
 ## FontColor class
-
-Class representing color of the text.
 
 ```csharp
 public sealed class FontColor
@@ -18,16 +16,16 @@ public sealed class FontColor
 
 | Name | Description |
 | --- | --- |
-| [FontColor](fontcolor#constructor)() | Initializes color. |
-| [FontColor](fontcolor#constructor_1)(int, int, int) | Initializes color with specified color components. |
+| [FontColor](fontcolor#constructor)() | The default constructor. |
+| [FontColor](fontcolor#constructor_1)(int, int, int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Blue](../../aspose.pdf.facades/fontcolor/blue) { get; set; } | Blue component of color. |
-| [Green](../../aspose.pdf.facades/fontcolor/green) { get; set; } | Green component of color. |
-| [Red](../../aspose.pdf.facades/fontcolor/red) { get; set; } | Red component of color. |
+| [Blue](../../aspose.pdf.facades/fontcolor/blue) { get; set; } |  |
+| [Green](../../aspose.pdf.facades/fontcolor/green) { get; set; } |  |
+| [Red](../../aspose.pdf.facades/fontcolor/red) { get; set; } |  |
 
 ### See Also
 

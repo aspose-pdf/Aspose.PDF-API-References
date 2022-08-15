@@ -1,14 +1,12 @@
 ---
 title: Left
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the table left coordinate.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf/table/left/
 ---
 ## Table.Left property
-
-Gets or sets the table left coordinate.
 
 ```csharp
 public float Left { get; set; }

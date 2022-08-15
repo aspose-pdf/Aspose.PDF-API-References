@@ -1,14 +1,12 @@
 ---
 title: BMC
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing BMC operator Begin marked-content sequence.
+description: 
 type: docs
-weight: 4900
+weight: 4850
 url: /net/aspose.pdf.operators/bmc/
 ---
 ## BMC class
-
-Class representing BMC operator (Begin marked-content sequence).
 
 ```csharp
 public class BMC : Operator
@@ -18,21 +16,21 @@ public class BMC : Operator
 
 | Name | Description |
 | --- | --- |
-| [BMC](bmc)(string) | Initializes operator. |
+| [BMC](bmc)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [Tag](../../aspose.pdf.operators/bmc/tag) { get; set; } | Gets or sets marked content tag |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Tag](../../aspose.pdf.operators/bmc/tag) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bmc/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/bmc/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/bmc/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/bmc/tostring)() |  |
 
 ### See Also
 

@@ -1,27 +1,16 @@
 ---
 title: SplitToBulks
 second_title: Aspose.PDF for .NET API Reference
-description: Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
+description: 
 type: docs
-weight: 380
+weight: 350
 url: /net/aspose.pdf.facades/pdffileeditor/splittobulks/
 ---
 ## SplitToBulks(string, int[][]) {#splittobulks_1}
 
-Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
-
 ```csharp
 public MemoryStream[] SplitToBulks(string inputFile, int[][] numberOfPage)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Input PDF file. |
-| numberOfPage | Int32[][] | Array which contains array of double elements, which is start and end pages of document. |
-
-### Return Value
-
-Output PDF streams, each stream buffers a PDF document.
 
 ### See Also
 
@@ -33,20 +22,9 @@ Output PDF streams, each stream buffers a PDF document.
 
 ## SplitToBulks(Stream, int[][]) {#splittobulks}
 
-Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
-
 ```csharp
 public MemoryStream[] SplitToBulks(Stream inputStream, int[][] numberOfPage)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Input PDF stream. |
-| numberOfPage | Int32[][] | The start page and the end page of each document. |
-
-### Return Value
-
-Output PDF streams, each stream buffers a PDF document.
 
 ### See Also
 

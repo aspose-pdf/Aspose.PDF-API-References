@@ -1,14 +1,12 @@
 ---
 title: UseDiskBuffer
 second_title: Aspose.PDF for .NET API Reference
-description: If this option used then destination document will be saved on disk periodically and further concatenation will appllied to it as incremental updates.
+description: 
 type: docs
-weight: 240
+weight: 210
 url: /net/aspose.pdf.facades/pdffileeditor/usediskbuffer/
 ---
 ## PdfFileEditor.UseDiskBuffer property
-
-If this option used then destination document will be saved on disk periodically and further concatenation will appllied to it as incremental updates.
 
 ```csharp
 public bool UseDiskBuffer { get; set; }

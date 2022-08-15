@@ -1,22 +1,16 @@
 ---
 title: FontSources
 second_title: Aspose.PDF for .NET API Reference
-description: Font sources of pre-saved fonts.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/htmlsaveoptions/fontsources/
 ---
 ## HtmlSaveOptions.FontSources property
 
-Font sources of pre-saved fonts.
-
 ```csharp
 public FontSourceCollection FontSources { get; }
 ```
-
-### Remarks
-
-Fonts may be saved preliminarily for cache purpose and then passed into Html conversion process. For example it may be useful in document splitting scenario and processing document pages in multiple threads with single set of fonts.
 
 ### See Also
 

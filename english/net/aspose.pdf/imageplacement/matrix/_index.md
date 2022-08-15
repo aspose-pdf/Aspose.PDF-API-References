@@ -1,14 +1,12 @@
 ---
 title: Matrix
 second_title: Aspose.PDF for .NET API Reference
-description: Current transformation matrix for this image.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/imageplacement/matrix/
 ---
 ## ImagePlacement.Matrix property
-
-Current transformation matrix for this image.
 
 ```csharp
 public Matrix Matrix { get; }

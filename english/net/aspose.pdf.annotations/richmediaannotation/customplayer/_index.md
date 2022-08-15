@@ -1,14 +1,12 @@
 ---
 title: CustomPlayer
 second_title: Aspose.PDF for .NET API Reference
-description: Sets or gets custom flash player to play video/audio data.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/richmediaannotation/customplayer/
 ---
 ## RichMediaAnnotation.CustomPlayer property
-
-Sets or gets custom flash player to play video/audio data.
 
 ```csharp
 public Stream CustomPlayer { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: ToArray
 second_title: Aspose.PDF for .NET API Reference
-description: Gets value as an array.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/xmpfield/toarray/
 ---
 ## XmpField.ToArray method
 
-Gets value as an array.
-
 ```csharp
 public XmpValue[] ToArray()
 ```
-
-### Return Value
-
-The array.
 
 ### See Also
 

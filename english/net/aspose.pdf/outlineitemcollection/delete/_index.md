@@ -1,14 +1,12 @@
 ---
 title: Delete
 second_title: Aspose.PDF for .NET API Reference
-description: Deletes this outline item from the document outline hierarchy.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.pdf/outlineitemcollection/delete/
 ---
 ## Delete() {#delete}
-
-Deletes this outline item from the document outline hierarchy.
 
 ```csharp
 public void Delete()
@@ -24,15 +22,9 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-Deletes outline entry with specified name from the document outline hierarchy.
-
 ```csharp
 public void Delete(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | Title of outline entry will be deleted. |
 
 ### See Also
 

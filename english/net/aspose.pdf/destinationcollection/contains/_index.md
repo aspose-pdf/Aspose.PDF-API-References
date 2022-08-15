@@ -1,26 +1,16 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API Reference
-description: Determines whether this instance contains the object.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/destinationcollection/contains/
 ---
 ## DestinationCollection.Contains method
 
-Determines whether this instance contains the object.
-
 ```csharp
 public bool Contains(KeyValuePair<string, object> value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | KeyValuePair`2 | The value. |
-
-### Return Value
-
-`true` if [contains] [the specified value]; otherwise, `false`.
 
 ### See Also
 

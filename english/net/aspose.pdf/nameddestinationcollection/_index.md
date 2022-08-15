@@ -1,14 +1,12 @@
 ---
 title: NamedDestinationCollection
 second_title: Aspose.PDF for .NET API Reference
-description: Class represents the collection of all destinations a name tree mapping name strings to destinations see 12.3.2.3 Named Destinations and see 7.7.4 Name Dictionary in the pdf document.
+description: 
 type: docs
-weight: 4810
+weight: 4760
 url: /net/aspose.pdf/nameddestinationcollection/
 ---
 ## NamedDestinationCollection class
-
-Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document.
 
 ```csharp
 public class NamedDestinationCollection : INamedDestinationCollection
@@ -18,16 +16,16 @@ public class NamedDestinationCollection : INamedDestinationCollection
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/nameddestinationcollection/count) { get; } | Count of named destinations. |
-| [Item](../../aspose.pdf/nameddestinationcollection/item) { get; set; } | Gets or sets appointment by its name. |
-| [Names](../../aspose.pdf/nameddestinationcollection/names) { get; } | List of names of the destinations. |
+| [Count](../../aspose.pdf/nameddestinationcollection/count) { get; } |  |
+| [Item](../../aspose.pdf/nameddestinationcollection/item) { get; set; } |  |
+| [Names](../../aspose.pdf/nameddestinationcollection/names) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/nameddestinationcollection/add)(string, IAppointment) | Add new named destination. |
-| [Remove](../../aspose.pdf/nameddestinationcollection/remove)(string) | Delete named destination. |
+| [Add](../../aspose.pdf/nameddestinationcollection/add)(string, IAppointment) |  |
+| [Remove](../../aspose.pdf/nameddestinationcollection/remove)(string) |  |
 
 ### See Also
 

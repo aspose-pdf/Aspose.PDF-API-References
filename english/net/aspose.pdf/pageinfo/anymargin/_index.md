@@ -1,14 +1,12 @@
 ---
 title: AnyMargin
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets page margin for any page except first.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/pageinfo/anymargin/
 ---
 ## PageInfo.AnyMargin property
-
-Gets or sets page margin for any page except first.
 
 ```csharp
 public MarginInfo AnyMargin { get; set; }

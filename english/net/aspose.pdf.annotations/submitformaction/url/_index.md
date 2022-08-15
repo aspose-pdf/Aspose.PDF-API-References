@@ -1,14 +1,12 @@
 ---
 title: Url
 second_title: Aspose.PDF for .NET API Reference
-description: Destination URL.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/submitformaction/url/
 ---
 ## SubmitFormAction.Url property
-
-Destination URL.
 
 ```csharp
 public FileSpecification Url { get; set; }

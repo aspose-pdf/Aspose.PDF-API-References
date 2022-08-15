@@ -1,14 +1,12 @@
 ---
 title: FractionSeparator
 second_title: Aspose.PDF for .NET API Reference
-description: Text that shall be used as the decimal position in displaying numerical values. An empty string indicates that the default shall be used. Default is period character.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/measure.numberformat/fractionseparator/
 ---
 ## Measure.NumberFormat.FractionSeparator property
-
-Text that shall be used as the decimal position in displaying numerical values. An empty string indicates that the default shall be used. Default is period character.
 
 ```csharp
 public string FractionSeparator { get; set; }

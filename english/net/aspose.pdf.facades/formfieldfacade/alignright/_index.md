@@ -1,14 +1,12 @@
 ---
 title: AlignRight
 second_title: Aspose.PDF for .NET API Reference
-description: Defines aglignment to right style.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.pdf.facades/formfieldfacade/alignright/
 ---
 ## FormFieldFacade.AlignRight field
-
-Defines aglignment to right style.
 
 ```csharp
 public const int AlignRight;

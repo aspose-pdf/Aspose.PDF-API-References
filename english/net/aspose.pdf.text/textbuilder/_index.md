@@ -1,14 +1,12 @@
 ---
 title: TextBuilder
 second_title: Aspose.PDF for .NET API Reference
-description: Appends text object to Pdf page.
+description: 
 type: docs
-weight: 6970
+weight: 6920
 url: /net/aspose.pdf.text/textbuilder/
 ---
 ## TextBuilder class
-
-Appends text object to Pdf page.
 
 ```csharp
 public sealed class TextBuilder
@@ -18,16 +16,16 @@ public sealed class TextBuilder
 
 | Name | Description |
 | --- | --- |
-| [TextBuilder](textbuilder#constructor)(Page) | Initializes a new instance of [`TextBuilder`](../textbuilder) class for the Pdf page. |
-| [TextBuilder](textbuilder#constructor_1)(Page, BaseOperatorCollection) | Initializes a new instance of [`TextBuilder`](../textbuilder) class for the Pdf page. |
+| [TextBuilder](textbuilder#constructor)(Page) |  |
+| [TextBuilder](textbuilder#constructor_1)(Page, BaseOperatorCollection) |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph)(TextParagraph) | Appends text paragraph to Pdf page. |
-| [AppendText](../../aspose.pdf.text/textbuilder/appendtext#appendtext_1)(List&lt;TextFragment&gt;) | Appends list of text fragments to Pdf page. |
-| [AppendText](../../aspose.pdf.text/textbuilder/appendtext#appendtext)(TextFragment) | Appends text fragment to Pdf page |
+| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph)(TextParagraph) |  |
+| [AppendText](../../aspose.pdf.text/textbuilder/appendtext#appendtext_1)(List&lt;TextFragment&gt;) |  |
+| [AppendText](../../aspose.pdf.text/textbuilder/appendtext#appendtext)(TextFragment) |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IsBroken
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the table is broken - will be truncated for next page.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.logicalstructure/tableelement/isbroken/
 ---
 ## TableElement.IsBroken property
-
-Gets or sets the table is broken - will be truncated for next page.
 
 ```csharp
 public bool IsBroken { get; set; }

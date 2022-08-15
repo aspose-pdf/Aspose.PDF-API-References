@@ -1,22 +1,16 @@
 ---
 title: PdfPageStamp
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor of PdfPageStamp.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/pdfpagestamp/pdfpagestamp/
 ---
 ## PdfPageStamp(Page) {#constructor}
 
-Constructor of PdfPageStamp.
-
 ```csharp
 public PdfPageStamp(Page pdfPage)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdfPage | Page | Page which is used for stamping. |
 
 ### See Also
 
@@ -29,16 +23,9 @@ public PdfPageStamp(Page pdfPage)
 
 ## PdfPageStamp(string, int) {#constructor_2}
 
-Creates Pdf page stamp from specifed page of the document in specified file.
-
 ```csharp
 public PdfPageStamp(string fileName, int pageIndex)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileName | String | Name and page of PDF file. |
-| pageIndex | Int32 | Index of the page. |
 
 ### See Also
 
@@ -50,16 +37,9 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-Creates Pdf page stamp from specifed page in the document from the stream.
-
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream which contains PDF |
-| pageIndex | Int32 | Index of the page. |
 
 ### See Also
 

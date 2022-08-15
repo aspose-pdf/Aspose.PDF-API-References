@@ -1,14 +1,12 @@
 ---
 title: HeaderFooter
 second_title: Aspose.PDF for .NET API Reference
-description: Class represents header or footer pdf page.
+description: 
 type: docs
-weight: 3350
+weight: 3300
 url: /net/aspose.pdf/headerfooter/
 ---
 ## HeaderFooter class
-
-Class represents header or footer pdf page.
 
 ```csharp
 public sealed class HeaderFooter : ICloneable
@@ -24,15 +22,15 @@ public sealed class HeaderFooter : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent) { get; set; } | Gets or sets is clip extra content. |
-| [Margin](../../aspose.pdf/headerfooter/margin) { get; set; } | Gets or sets the margin info. |
-| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs) { get; set; } | Gets or sets the end note paragraphs. |
+| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent) { get; set; } |  |
+| [Margin](../../aspose.pdf/headerfooter/margin) { get; set; } |  |
+| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.pdf/headerfooter/clone)() | Clones a new object. |
+| [Clone](../../aspose.pdf/headerfooter/clone)() |  |
 
 ### See Also
 

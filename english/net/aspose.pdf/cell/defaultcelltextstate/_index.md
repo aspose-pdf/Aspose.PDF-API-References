@@ -1,14 +1,12 @@
 ---
 title: DefaultCellTextState
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the default cell text state.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/cell/defaultcelltextstate/
 ---
 ## Cell.DefaultCellTextState property
-
-Gets or sets the default cell text state.
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }

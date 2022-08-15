@@ -1,14 +1,12 @@
 ---
 title: LineTo
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing l operator add line to the path.
+description: 
 type: docs
-weight: 5220
+weight: 5170
 url: /net/aspose.pdf.operators/lineto/
 ---
 ## LineTo class
-
-Class representing l operator (add line to the path).
 
 ```csharp
 public class LineTo : Operator
@@ -18,22 +16,22 @@ public class LineTo : Operator
 
 | Name | Description |
 | --- | --- |
-| [LineTo](lineto)(double, double) | Initializes line operator. |
+| [LineTo](lineto)(double, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [X](../../aspose.pdf.operators/lineto/x) { get; set; } | X coordinate of line point. |
-| [Y](../../aspose.pdf.operators/lineto/y) { get; set; } | Y coordinate of line point. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [X](../../aspose.pdf.operators/lineto/x) { get; set; } |  |
+| [Y](../../aspose.pdf.operators/lineto/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/lineto/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/lineto/tostring)() | Returns text representation of the operator. |
+| override [Accept](../../aspose.pdf.operators/lineto/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/lineto/tostring)() |  |
 
 ### See Also
 

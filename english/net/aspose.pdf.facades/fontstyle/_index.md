@@ -1,14 +1,12 @@
 ---
 title: FontStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates 14 types of font.
+description: 
 type: docs
-weight: 2290
+weight: 2240
 url: /net/aspose.pdf.facades/fontstyle/
 ---
 ## FontStyle enumeration
-
-Enumerates 14 types of font.
 
 ```csharp
 public enum FontStyle
@@ -18,22 +16,22 @@ public enum FontStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Courier | `0` | Courier font. |
-| CourierBold | `1` | Bold Courier font. |
-| CourierOblique | `2` | Oblique Curier font. |
-| CourierBoldOblique | `3` | Bold oblique Courier font. |
-| Helvetica | `4` | Helvetica font. |
-| HelveticaBold | `5` | Bold Helvetica font. |
-| HelveticaOblique | `6` | Oblique Helvetica font. |
-| HelveticaBoldOblique | `7` | Bold oblique Helvetica font. |
-| Symbol | `8` | Symbol font. |
-| TimesRoman | `9` | Times-Roman font. |
-| TimesBold | `10` | Bold Times font. |
-| TimesItalic | `11` | Italic Times font. |
-| TimesBoldItalic | `12` | Bold italic Times font. |
-| ZapfDingbats | `13` | ZapfDingbats font. |
-| Unknown | `14` | Unknown font. Standard font will be used. |
-| CjkFont | `15` | True Type Font for CJK supporting ,default is MS PGothic font. |
+| Courier | `0` |  |
+| CourierBold | `1` |  |
+| CourierOblique | `2` |  |
+| CourierBoldOblique | `3` |  |
+| Helvetica | `4` |  |
+| HelveticaBold | `5` |  |
+| HelveticaOblique | `6` |  |
+| HelveticaBoldOblique | `7` |  |
+| Symbol | `8` |  |
+| TimesRoman | `9` |  |
+| TimesBold | `10` |  |
+| TimesItalic | `11` |  |
+| TimesBoldItalic | `12` |  |
+| ZapfDingbats | `13` |  |
+| Unknown | `14` |  |
+| CjkFont | `15` |  |
 
 ### See Also
 

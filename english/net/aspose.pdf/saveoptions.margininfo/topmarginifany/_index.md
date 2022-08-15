@@ -1,14 +1,12 @@
 ---
 title: TopMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Represents top page marginif any
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/saveoptions.margininfo/topmarginifany/
 ---
 ## SaveOptions.MarginInfo.TopMarginIfAny field
-
-Represents top page margin(if any)
 
 ```csharp
 public MarginPartStyle TopMarginIfAny;

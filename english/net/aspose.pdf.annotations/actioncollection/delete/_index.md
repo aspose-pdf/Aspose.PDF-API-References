@@ -1,22 +1,16 @@
 ---
 title: Delete
 second_title: Aspose.PDF for .NET API Reference
-description: Removes action from collection by index.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.annotations/actioncollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Removes action from collection by index.
-
 ```csharp
 public void Delete(int index)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of action to remove. |
 
 ### See Also
 
@@ -27,8 +21,6 @@ public void Delete(int index)
 ---
 
 ## Delete() {#delete}
-
-Delete all actions.
 
 ```csharp
 public void Delete()

@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: Frees up memory
+description: 
 type: docs
 weight: 400
 url: /net/aspose.pdf/page/dispose/
 ---
 ## Page.Dispose method
-
-Frees up memory
 
 ```csharp
 public void Dispose()

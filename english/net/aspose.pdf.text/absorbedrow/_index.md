@@ -1,14 +1,12 @@
 ---
 title: AbsorbedRow
 second_title: Aspose.PDF for .NET API Reference
-description: Represents row of table that exist on the page
+description: 
 type: docs
-weight: 6610
+weight: 6560
 url: /net/aspose.pdf.text/absorbedrow/
 ---
 ## AbsorbedRow class
-
-Represents row of table that exist on the page
 
 ```csharp
 public class AbsorbedRow : ITableElement
@@ -18,8 +16,8 @@ public class AbsorbedRow : ITableElement
 
 | Name | Description |
 | --- | --- |
-| [CellList](../../aspose.pdf.text/absorbedrow/celllist) { get; } | Gets readonly IList containing cells of the row |
-| [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle) { get; } | Gets rectangle that describes position of the row on page |
+| [CellList](../../aspose.pdf.text/absorbedrow/celllist) { get; } |  |
+| [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle) { get; } |  |
 
 ### See Also
 

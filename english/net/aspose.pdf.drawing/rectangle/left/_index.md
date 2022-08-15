@@ -1,14 +1,12 @@
 ---
 title: Left
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the left position of the rectangle.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.drawing/rectangle/left/
 ---
 ## Rectangle.Left property
-
-Gets or sets a float value that indicates the left position of the rectangle.
 
 ```csharp
 public double Left { get; set; }

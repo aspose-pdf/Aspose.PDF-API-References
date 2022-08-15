@@ -1,14 +1,12 @@
 ---
 title: MoveToNextLine
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing T operator Move to start of the next line.
+description: 
 type: docs
-weight: 5270
+weight: 5220
 url: /net/aspose.pdf.operators/movetonextline/
 ---
 ## MoveToNextLine class
-
-Class representing T* operator (Move to start of the next line).
 
 ```csharp
 public class MoveToNextLine : TextPlaceOperator
@@ -18,20 +16,20 @@ public class MoveToNextLine : TextPlaceOperator
 
 | Name | Description |
 | --- | --- |
-| [MoveToNextLine](movetonextline)() | Initializes operator. |
+| [MoveToNextLine](movetonextline)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextline/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/movetonextline/tostring)() | Returns text of the operator. |
+| override [Accept](../../aspose.pdf.operators/movetonextline/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/movetonextline/tostring)() |  |
 
 ### See Also
 

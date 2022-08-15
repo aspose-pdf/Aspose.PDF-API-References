@@ -1,14 +1,12 @@
 ---
 title: RichMediaAnnotation.ActivationEvent
 second_title: Aspose.PDF for .NET API Reference
-description: Event which activates annotation.
+description: 
 type: docs
-weight: 1040
+weight: 990
 url: /net/aspose.pdf.annotations/richmediaannotation.activationevent/
 ---
 ## RichMediaAnnotation.ActivationEvent enumeration
-
-Event which activates annotation.
 
 ```csharp
 public enum ActivationEvent
@@ -18,9 +16,9 @@ public enum ActivationEvent
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Click | `0` | Activated by click on the annotation. |
-| PageOpen | `1` | Activated on page open. |
-| PageVisible | `2` | Activated when page becames visible. |
+| Click | `0` |  |
+| PageOpen | `1` |  |
+| PageVisible | `2` |  |
 
 ### See Also
 

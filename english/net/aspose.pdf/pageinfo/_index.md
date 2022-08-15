@@ -1,14 +1,12 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Represents the page information.
+description: 
 type: docs
-weight: 5840
+weight: 5790
 url: /net/aspose.pdf/pageinfo/
 ---
 ## PageInfo class
-
-Represents the page information.
 
 ```csharp
 public sealed class PageInfo : ICloneable
@@ -24,19 +22,19 @@ public sealed class PageInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [AnyMargin](../../aspose.pdf/pageinfo/anymargin) { get; set; } | Gets or sets page margin for any page except first. |
-| [DefaultTextState](../../aspose.pdf/pageinfo/defaulttextstate) { get; set; } | Gets or sets default font. |
-| [Height](../../aspose.pdf/pageinfo/height) { get; set; } | Gets or sets page height. |
-| [IsLandscape](../../aspose.pdf/pageinfo/islandscape) { get; set; } | Gets or sets is page landscaped. |
-| [Margin](../../aspose.pdf/pageinfo/margin) { get; set; } | Gets or sets page margin. |
-| [PureHeight](../../aspose.pdf/pageinfo/pureheight) { get; } | Gets or sets page pure height without margins. |
-| [Width](../../aspose.pdf/pageinfo/width) { get; set; } | Gets or sets page width. |
+| [AnyMargin](../../aspose.pdf/pageinfo/anymargin) { get; set; } |  |
+| [DefaultTextState](../../aspose.pdf/pageinfo/defaulttextstate) { get; set; } |  |
+| [Height](../../aspose.pdf/pageinfo/height) { get; set; } |  |
+| [IsLandscape](../../aspose.pdf/pageinfo/islandscape) { get; set; } |  |
+| [Margin](../../aspose.pdf/pageinfo/margin) { get; set; } |  |
+| [PureHeight](../../aspose.pdf/pageinfo/pureheight) { get; } |  |
+| [Width](../../aspose.pdf/pageinfo/width) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.pdf/pageinfo/clone)() | Clone page info. |
+| [Clone](../../aspose.pdf/pageinfo/clone)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: Removes all elements from the dictionary.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.annotations/appearancedictionary/clear/
 ---
 ## AppearanceDictionary.Clear method
-
-Removes all elements from the dictionary.
 
 ```csharp
 public void Clear()

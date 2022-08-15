@@ -1,22 +1,16 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the views count.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/pdf3dviewarray/count/
 ---
 ## PDF3DViewArray.Count property
 
-Gets the views count.
-
 ```csharp
 public int Count { get; }
 ```
-
-### Property Value
-
-The views count.
 
 ### See Also
 

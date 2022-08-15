@@ -1,36 +1,15 @@
 ---
 title: ExportAnnotationsXfdf
 second_title: Aspose.PDF for .NET API Reference
-description: Exports the content of the specified annotation types into XFDF
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
 ---
 ## ExportAnnotationsXfdf(Stream, int, int, string[]) {#exportannotationsxfdf_1}
 
-Exports the content of the specified annotation types into XFDF
-
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, string[] annotTypes)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xmlOutputStream | Stream | The output XFDF stream. |
-| start | Int32 | Start page from which the annotations of the document will be exported. |
-| end | Int32 | End page to which the annotations of the document will be exported. |
-| annotTypes | String[] | The array of annotation types need be exported. |
-
-### Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-string[] annotTypes = new string[] {"Text", "Highlight"};
-using (Stream stream = File.Create("example.xfdf"))
-{
-    editor.ExportAnnotationsXfdf(stream, 1, 2, annotTypes);
-}
 ```
 
 ### See Also
@@ -43,30 +22,9 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ## ExportAnnotationsXfdf(Stream, int, int, AnnotationType[]) {#exportannotationsxfdf}
 
-Exports the content of the specified annotations types into XFDF
-
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, 
     AnnotationType[] annotTypes)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xmlOutputStream | Stream | The output XFDF stream. |
-| start | Int32 | Start page from which the annotations of the document will be exported. |
-| end | Int32 | End page to which the annotations of the document will be exported. |
-| annotTypes | AnnotationType[] | The array of annotation types need be exported. |
-
-### Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, AnnotationType.Highlight};
-using (Stream stream = File.Create("example.xfdf"))
-{
-    editor.ExportAnnotationsXfdf(stream, 1, 2, annotTypes);
-}
 ```
 
 ### See Also

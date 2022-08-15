@@ -1,14 +1,12 @@
 ---
 title: Version
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the version of OPI to which this dictionary refers.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/opi/version/
 ---
 ## Opi.Version property
-
-Gets the version of OPI to which this dictionary refers.
 
 ```csharp
 public string Version { get; }

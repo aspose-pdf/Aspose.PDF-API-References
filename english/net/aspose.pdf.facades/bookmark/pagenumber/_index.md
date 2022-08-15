@@ -1,14 +1,12 @@
 ---
 title: PageNumber
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the number of bookmarks destination page.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf.facades/bookmark/pagenumber/
 ---
 ## Bookmark.PageNumber property
-
-Gets or sets the number of bookmark's destination page.
 
 ```csharp
 public int PageNumber { get; set; }

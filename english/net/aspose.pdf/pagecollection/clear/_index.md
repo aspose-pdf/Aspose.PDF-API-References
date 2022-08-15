@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: Clear page collection.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/pagecollection/clear/
 ---
 ## PageCollection.Clear method
-
-Clear page collection.
 
 ```csharp
 public void Clear()

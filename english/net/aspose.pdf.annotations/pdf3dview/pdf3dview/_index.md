@@ -1,25 +1,16 @@
 ---
 title: PDF3DView
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the PDF3DViewaspose.pdf.annotations/pdf3dview class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/pdf3dview/pdf3dview/
 ---
 ## PDF3DView(Document, Matrix3D, double, string) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DView`](../../pdf3dview) class.
-
 ```csharp
 public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, string viewName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | The document. |
-| cameraPosition | Matrix3D | The camera position. |
-| cameraOrbit | Double | The camera orbit. |
-| viewName | String | Name of the view. |
 
 ### See Also
 
@@ -33,17 +24,9 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 
 ## PDF3DView(Document, PDF3DView, string) {#constructor}
 
-Initializes a new instance of the [`PDF3DView`](../../pdf3dview) class.
-
 ```csharp
 public PDF3DView(Document doc, PDF3DView view, string viewName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | The document. |
-| view | PDF3DView | The view. |
-| viewName | String | Name of the view. |
 
 ### See Also
 

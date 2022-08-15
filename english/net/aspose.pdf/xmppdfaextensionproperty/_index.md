@@ -1,14 +1,12 @@
 ---
 title: XmpPdfAExtensionProperty
 second_title: Aspose.PDF for .NET API Reference
-description: Describes a single property. Schema namespace URI http//www.aiim.org/pdfa/ns/property Required schema namespace prefix pdfaProperty
+description: 
 type: docs
-weight: 7510
+weight: 7460
 url: /net/aspose.pdf/xmppdfaextensionproperty/
 ---
 ## XmpPdfAExtensionProperty class
-
-Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property# Required schema namespace prefix: pdfaProperty
 
 ```csharp
 public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
@@ -18,23 +16,23 @@ public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionProperty](xmppdfaextensionproperty)(string, string, string, XmpPdfAExtensionCategoryType, string) | Initializes new object. |
+| [XmpPdfAExtensionProperty](xmppdfaextensionproperty)(string, string, string, XmpPdfAExtensionCategoryType, string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Category](../../aspose.pdf/xmppdfaextensionproperty/category) { get; } | Gets the property category. |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description) { get; } | Gets the description. |
-| [Name](../../aspose.pdf/xmppdfaextensionfield/name) { get; } | Field name. Field names must be valid XML element names. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value) { get; set; } | Gets or sets the value. |
-| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype) { get; } | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension schema. Predefined XMP type names or names of custom types. |
+| [Category](../../aspose.pdf/xmppdfaextensionproperty/category) { get; } |  |
+| [Description](../../aspose.pdf/xmppdfaextensionobject/description) { get; } |  |
+| [Name](../../aspose.pdf/xmppdfaextensionfield/name) { get; } |  |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value) { get; set; } |  |
+| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionproperty/getxml)(XmlDocument) | Returns the list of xml elements that represent property in xml tree. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionproperty/getxml)(XmlDocument) |  |
 
 ### See Also
 

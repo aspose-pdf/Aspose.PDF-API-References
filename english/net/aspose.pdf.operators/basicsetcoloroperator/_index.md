@@ -1,14 +1,12 @@
 ---
 title: BasicSetColorOperator
 second_title: Aspose.PDF for .NET API Reference
-description: Base class for set color operators.
+description: 
 type: docs
-weight: 4940
+weight: 4890
 url: /net/aspose.pdf.operators/basicsetcoloroperator/
 ---
 ## BasicSetColorOperator class
-
-Base class for set color operators.
 
 ```csharp
 public abstract class BasicSetColorOperator : SetColorOperator
@@ -18,24 +16,24 @@ public abstract class BasicSetColorOperator : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Gets red component of color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Gets cyan component of CMYK color. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Gets array of color components. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Gets green component of color |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Gets black component of gray color. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Gets black component of CMYK color. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Gets magenta component of CMYK color. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Gets red component of color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Gets yellow component of CMYK color. |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } |  |
+| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } |  |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } |  |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } |  |
+| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } |  |
+| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } |  |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } |  |
+| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
-| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor)() | Retirns color specified by the operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) |  |
+| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor)() |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

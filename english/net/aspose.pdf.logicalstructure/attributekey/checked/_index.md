@@ -1,14 +1,12 @@
 ---
 title: Checked
 second_title: Aspose.PDF for .NET API Reference
-description: Checked attribute PrintField attribute owner.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.logicalstructure/attributekey/checked/
 ---
 ## AttributeKey.Checked field
-
-Checked attribute (PrintField attribute owner).
 
 ```csharp
 public static readonly AttributeKey Checked;

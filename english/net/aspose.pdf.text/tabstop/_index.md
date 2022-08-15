@@ -1,14 +1,12 @@
 ---
 title: TabStop
 second_title: Aspose.PDF for .NET API Reference
-description: Represents a custom Tab stop position in a paragraph.
+description: 
 type: docs
-weight: 6930
+weight: 6880
 url: /net/aspose.pdf.text/tabstop/
 ---
 ## TabStop class
-
-Represents a custom Tab stop position in a paragraph.
 
 ```csharp
 public class TabStop
@@ -18,17 +16,17 @@ public class TabStop
 
 | Name | Description |
 | --- | --- |
-| [TabStop](tabstop#constructor)() | Initializes a new instance of the [`TabStop`](../tabstop) class. |
-| [TabStop](tabstop#constructor_1)(float) | Initializes a new instance of the [`TabStop`](../tabstop) class with specified position. |
+| [TabStop](tabstop#constructor)() | The default constructor. |
+| [TabStop](tabstop#constructor_1)(float) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype) { get; set; } | Gets or sets a [`AlignmentType`](./alignmenttype) enum that indicates the tab tab alignment type. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly) { get; } | Gets value indicating that this [`TabStop`](../tabstop) instance is already attached to [`TextFragment`](../textfragment) and became readonly |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype) { get; set; } | Gets or sets a [`TabLeaderType`](../tableadertype) enum that indicates the tab leader type. |
-| [Position](../../aspose.pdf.text/tabstop/position) { get; set; } | Gets or sets a float value that indicates the tab stop position. |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype) { get; set; } |  |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly) { get; } |  |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype) { get; set; } |  |
+| [Position](../../aspose.pdf.text/tabstop/position) { get; set; } |  |
 
 ### See Also
 

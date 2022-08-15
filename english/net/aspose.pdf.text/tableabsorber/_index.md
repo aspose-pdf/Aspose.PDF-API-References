@@ -1,14 +1,12 @@
 ---
 title: TableAbsorber
 second_title: Aspose.PDF for .NET API Reference
-description: Represents an absorber object of table elements. Performs search and provides access to search results via TableList./tableabsorber/tablelist collection.
+description: 
 type: docs
-weight: 6950
+weight: 6900
 url: /net/aspose.pdf.text/tableabsorber/
 ---
 ## TableAbsorber class
-
-Represents an absorber object of table elements. Performs search and provides access to search results via [`TableList`](./tablelist) collection.
 
 ```csharp
 public class TableAbsorber
@@ -18,48 +16,24 @@ public class TableAbsorber
 
 | Name | Description |
 | --- | --- |
-| [TableAbsorber](tableabsorber#constructor)() | Initializes a new instance of the [`TableAbsorber`](../tableabsorber). |
-| [TableAbsorber](tableabsorber#constructor_1)(TextSearchOptions) | Initializes a new instance of the [`TableAbsorber`](../tableabsorber) with text search options. |
+| [TableAbsorber](tableabsorber#constructor)() | The default constructor. |
+| [TableAbsorber](tableabsorber#constructor_1)(TextSearchOptions) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist) { get; } | Returns readonly IList containing tables that were found |
-| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions) { get; set; } | Gets or sets text search options. |
-| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine) { get; set; } | * Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesn't support editing tables and getting text styles yet. Default value is false; |
+| virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist) { get; } |  |
+| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions) { get; set; } |  |
+| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Remove](../../aspose.pdf.text/tableabsorber/remove)(AbsorbedTable) | Removes an [`AbsorbedTable`](../absorbedtable) from the page. |
-| [Replace](../../aspose.pdf.text/tableabsorber/replace)(Page, AbsorbedTable, Table) | Replaces an [`AbsorbedTable`](../absorbedtable) with [`Table`](../../aspose.pdf/table) on the page. |
-| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit)(Page) | Extracts tables on the specified page |
-
-### Examples
-
-The example demonstrates how to find table on the first PDF document page and replace the text in a table cell.
-
-```csharp
-// Open document
-Document doc = new Document(@"D:\Tests\input.pdf");
-
-// Create TableAbsorber object to find tables
-TableAbsorber absorber = new TableAbsorber();
-
-// Visit first page with absorber
-absorber.Visit(pdfDocument.Pages[1]);
-
-// Get access to first table on page, their first cell and text fragments in it
-TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
-
-// Change text of the first text fragment in the cell
-fragment.Text = "hi world";
-
-// Save document
-doc.Save(@"D:\Tests\output.pdf");  
-```
+| [Remove](../../aspose.pdf.text/tableabsorber/remove)(AbsorbedTable) |  |
+| [Replace](../../aspose.pdf.text/tableabsorber/replace)(Page, AbsorbedTable, Table) |  |
+| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit)(Page) |  |
 
 ### See Also
 

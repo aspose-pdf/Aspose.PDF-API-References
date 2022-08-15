@@ -1,14 +1,12 @@
 ---
 title: Flush
 second_title: Aspose.PDF for .NET API Reference
-description: The function overrided.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/optimizedmemorystream/flush/
 ---
 ## OptimizedMemoryStream.Flush method
-
-The function overrided.
 
 ```csharp
 public override void Flush()

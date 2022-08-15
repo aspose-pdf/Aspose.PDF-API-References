@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the font element at the specified index.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/fontsourcecollection/item/
 ---
 ## FontSourceCollection indexer
 
-Gets the font element at the specified index.
-
 ```csharp
 public FontSource this[int index] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | Index within the collection. |
-
-### Return Value
-
-Font source object.
 
 ### See Also
 

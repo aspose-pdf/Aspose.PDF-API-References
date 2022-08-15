@@ -1,14 +1,12 @@
 ---
 title: SetColor
 second_title: Aspose.PDF for .NET API Reference
-description: Represents class for sc operator set color for non-stroking operations.
+description: 
 type: docs
-weight: 5390
+weight: 5340
 url: /net/aspose.pdf.operators/setcolor/
 ---
 ## SetColor class
-
-Represents class for sc operator (set color for non-stroking operations).
 
 ```csharp
 public class SetColor : BasicSetColorOperator
@@ -18,34 +16,34 @@ public class SetColor : BasicSetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetColor](setcolor#constructor)() | Initializes operator. |
-| [SetColor](setcolor#constructor_1)(double) | Set color for stroking operators for DeviceGrey, CalGrey and Indexed color spaces. |
-| [SetColor](setcolor#constructor_4)(double[]) | Constructor which allows to specify color components. |
-| [SetColor](setcolor#constructor_2)(double, double, double) | Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces |
-| [SetColor](setcolor#constructor_3)(double, double, double, double) | Set color for non-stroking operator for CMYK color space |
+| [SetColor](setcolor#constructor)() | The default constructor. |
+| [SetColor](setcolor#constructor_1)(double) |  |
+| [SetColor](setcolor#constructor_4)(double[]) |  |
+| [SetColor](setcolor#constructor_2)(double, double, double) |  |
+| [SetColor](setcolor#constructor_3)(double, double, double, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } | Gets red component of color |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } | Gets cyan component of CMYK color. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } | Gets array of color components. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } | Gets green component of color |
-| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } | Gets black component of gray color. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } | Gets black component of CMYK color. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } | Gets magenta component of CMYK color. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } | Gets red component of color |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } | Gets yellow component of CMYK color. |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b) { get; } |  |
+| [C](../../aspose.pdf.operators/basicsetcoloroperator/c) { get; } |  |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color) { get; } |  |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g) { get; } |  |
+| [Grey](../../aspose.pdf.operators/basicsetcoloroperator/grey) { get; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [K](../../aspose.pdf.operators/basicsetcoloroperator/k) { get; } |  |
+| [M](../../aspose.pdf.operators/basicsetcoloroperator/m) { get; } |  |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r) { get; } |  |
+| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | Returns color specified by the operator. |
-| override [ToString](../../aspose.pdf.operators/setcolor/tostring)() | Returns string representation of color. |
+| override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) |  |
+| override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() |  |
+| override [ToString](../../aspose.pdf.operators/setcolor/tostring)() |  |
 
 ### See Also
 

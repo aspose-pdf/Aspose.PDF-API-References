@@ -1,14 +1,12 @@
 ---
 title: ColumnInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets column info.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/tocinfo/columninfo/
 ---
 ## TocInfo.ColumnInfo property
-
-Gets or sets column info.
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }

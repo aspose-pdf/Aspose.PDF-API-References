@@ -1,14 +1,12 @@
 ---
 title: PlatformId
 second_title: Aspose.PDF for .NET API Reference
-description: Platform identifier for encoding subtable
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformId property
-
-Platform identifier for encoding subtable
 
 ```csharp
 public ushort PlatformId { get; set; }

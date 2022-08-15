@@ -1,14 +1,12 @@
 ---
 title: Point
 second_title: Aspose.PDF for .NET API Reference
-description: Represent point with fractional coordinates.
+description: 
 type: docs
-weight: 6120
+weight: 6070
 url: /net/aspose.pdf/point/
 ---
 ## Point class
-
-Represent point with fractional coordinates.
 
 ```csharp
 public sealed class Point
@@ -18,21 +16,21 @@ public sealed class Point
 
 | Name | Description |
 | --- | --- |
-| [Point](point)(double, double) | Initializes new instance of the [`Point`](../point). |
+| [Point](point)(double, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/point/trivial) { get; } | Gets point with zero coordinates. |
-| [X](../../aspose.pdf/point/x) { get; set; } | X coordinate value. |
-| [Y](../../aspose.pdf/point/y) { get; set; } | Y coordinate value. |
+| static [Trivial](../../aspose.pdf/point/trivial) { get; } |  |
+| [X](../../aspose.pdf/point/x) { get; set; } |  |
+| [Y](../../aspose.pdf/point/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToPoint](../../aspose.pdf/point/topoint)() | Converts point into System.Drawing.PointF object. |
+| [ToPoint](../../aspose.pdf/point/topoint)() |  |
 
 ### See Also
 

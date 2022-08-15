@@ -1,14 +1,12 @@
 ---
 title: BBox
 second_title: Aspose.PDF for .NET API Reference
-description: BBox attribute Layout attribute owner.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.logicalstructure/attributekey/bbox/
 ---
 ## AttributeKey.BBox field
-
-BBox attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey BBox;

@@ -1,14 +1,12 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets bacground color of background artifact
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/backgroundartifact/backgroundcolor/
 ---
 ## BackgroundArtifact.BackgroundColor property
-
-Gets or sets bacground color of background artifact
 
 ```csharp
 public Color BackgroundColor { get; set; }

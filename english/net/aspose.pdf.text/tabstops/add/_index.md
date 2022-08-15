@@ -1,22 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the TabStopaspose.pdf.text/tabstop class and add it to the TabStops collection.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/tabstops/add/
 ---
 ## Add() {#add}
 
-Initializes a new instance of the [`TabStop`](../../tabstop) class and add it to the TabStops collection.
-
 ```csharp
 public TabStop Add()
 ```
-
-### Return Value
-
-The new [`TabStop`](../../tabstop) object.
 
 ### See Also
 
@@ -29,19 +23,9 @@ The new [`TabStop`](../../tabstop) object.
 
 ## Add(float) {#add_1}
 
-Initializes a new instance of the [`TabStop`](../../tabstop) class with specified position and add it to the TabStops collection.
-
 ```csharp
 public TabStop Add(float position)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| position | Single | The position of the tab stop. |
-
-### Return Value
-
-The new [`TabStop`](../../tabstop) object.
 
 ### See Also
 
@@ -54,15 +38,9 @@ The new [`TabStop`](../../tabstop) object.
 
 ## Add(TabStop) {#add_3}
 
-Add instance of the [`TabStop`](../../tabstop) class to the TabStops collection.
-
 ```csharp
 public void Add(TabStop tabStop)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tabStop | TabStop | The [`TabStop`](../../tabstop) object. |
 
 ### See Also
 
@@ -75,20 +53,9 @@ public void Add(TabStop tabStop)
 
 ## Add(float, TabLeaderType) {#add_2}
 
-Initializes a new instance of the [`TabStop`](../../tabstop) class with specified position and leader type and add it to the TabStops collection.
-
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| position | Single | The position of the tab stop. |
-| leaderType | TabLeaderType | The leader type of the tab stop. |
-
-### Return Value
-
-The new [`TabStop`](../../tabstop) object.
 
 ### See Also
 

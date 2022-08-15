@@ -1,14 +1,12 @@
 ---
 title: Metered
 second_title: Aspose.PDF for .NET API Reference
-description: Provides methods to set metered key.
+description: 
 type: docs
-weight: 4780
+weight: 4730
 url: /net/aspose.pdf/metered/
 ---
 ## Metered class
-
-Provides methods to set metered key.
 
 ```csharp
 public class Metered
@@ -24,26 +22,9 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey)(string, string) | Sets metered public and private key |
-| static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit)() | Gets consumption credit |
-| static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity)() | Gets consumption file size |
-
-### Examples
-
-In this example, an attempt will be made to set metered public and private key
-
-```csharp
-[C#]
-
-Metered matered = new Metered();
-matered.SetMeteredKey("PublicKey", "PrivateKey");
-
-
-[Visual Basic]
-
-Dim matered As Metered = New Metered
-matered.SetMeteredKey("PublicKey", "PrivateKey")
-```
+| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey)(string, string) |  |
+| static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit)() |  |
+| static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity)() |  |
 
 ### See Also
 

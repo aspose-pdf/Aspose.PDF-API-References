@@ -1,14 +1,12 @@
 ---
 title: FileType
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the image file type.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/image/filetype/
 ---
 ## Image.FileType property
-
-Gets or sets the image file type.
 
 ```csharp
 public ImageFileType FileType { get; set; }

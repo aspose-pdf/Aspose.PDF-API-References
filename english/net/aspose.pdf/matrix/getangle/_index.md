@@ -1,32 +1,15 @@
 ---
 title: GetAngle
 second_title: Aspose.PDF for .NET API Reference
-description: Transaltes rotation into angle degrees
+description: 
 type: docs
 weight: 190
 url: /net/aspose.pdf/matrix/getangle/
 ---
 ## Matrix.GetAngle method
 
-Transaltes rotation into angle (degrees)
-
 ```csharp
 public static double GetAngle(Rotation rotation)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rotation | Rotation | Rotation value. |
-
-### Return Value
-
-Angle value.
-
-### Examples
-
-```csharp
-double angle = Matrix.GetAngle(Rotation.on90);
-Matrix m = Matrix.Rotation(angle);
 ```
 
 ### See Also

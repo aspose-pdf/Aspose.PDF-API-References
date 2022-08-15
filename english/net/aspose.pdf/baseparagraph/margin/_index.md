@@ -1,14 +1,12 @@
 ---
 title: Margin
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a outer margin for paragraph for pdf generation
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/baseparagraph/margin/
 ---
 ## BaseParagraph.Margin property
-
-Gets or sets a outer margin for paragraph (for pdf generation)
 
 ```csharp
 public MarginInfo Margin { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: TBorderStyle
 second_title: Aspose.PDF for .NET API Reference
-description: TBorderStyle attribute Layout attribute owner.
+description: 
 type: docs
 weight: 330
 url: /net/aspose.pdf.logicalstructure/attributekey/tborderstyle/
 ---
 ## AttributeKey.TBorderStyle field
-
-TBorderStyle attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey TBorderStyle;

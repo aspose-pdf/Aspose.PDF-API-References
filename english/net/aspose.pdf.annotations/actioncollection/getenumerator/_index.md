@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: Returns enumerator for collection.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/actioncollection/getenumerator/
 ---
 ## ActionCollection.GetEnumerator method
 
-Returns enumerator for collection.
-
 ```csharp
 public IEnumerator<PdfAction> GetEnumerator()
 ```
-
-### Return Value
-
-Collection enumerator.
 
 ### See Also
 

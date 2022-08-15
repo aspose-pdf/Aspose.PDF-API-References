@@ -1,14 +1,12 @@
 ---
 title: Justify
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets value whether text is justified.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/textparagraph/justify/
 ---
 ## TextParagraph.Justify property
-
-Gets or sets value whether text is justified.
 
 ```csharp
 public bool Justify { get; set; }

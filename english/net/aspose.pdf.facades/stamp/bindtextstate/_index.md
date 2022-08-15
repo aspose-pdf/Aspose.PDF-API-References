@@ -1,22 +1,16 @@
 ---
 title: BindTextState
 second_title: Aspose.PDF for .NET API Reference
-description: Sets text state of stamp text.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.facades/stamp/bindtextstate/
 ---
 ## Stamp.BindTextState method
 
-Sets text state of stamp text.
-
 ```csharp
 public void BindTextState(TextState textState)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textState | TextState | TextState object which specifies text properties. |
 
 ### See Also
 

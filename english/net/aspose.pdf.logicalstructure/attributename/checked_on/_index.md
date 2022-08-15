@@ -1,14 +1,12 @@
 ---
 title: Checked_on
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute checked On - The state of a radio button or check box field.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf.logicalstructure/attributename/checked_on/
 ---
 ## AttributeName.Checked_on field
-
-Attribute checked: On - The state of a radio button or check box field.
 
 ```csharp
 public static readonly AttributeName Checked_on;

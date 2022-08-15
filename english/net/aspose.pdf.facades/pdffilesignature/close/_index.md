@@ -1,14 +1,12 @@
 ---
 title: Close
 second_title: Aspose.PDF for .NET API Reference
-description: Closes the facade.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/pdffilesignature/close/
 ---
 ## PdfFileSignature.Close method
-
-Closes the facade.
 
 ```csharp
 public override void Close()

@@ -1,14 +1,14 @@
 ---
 title: EI
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes operator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/ei/ei/
 ---
 ## EI constructor
 
-Initializes operator.
+The default constructor.
 
 ```csharp
 public EI()

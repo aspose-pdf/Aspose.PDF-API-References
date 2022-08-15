@@ -1,14 +1,12 @@
 ---
 title: FontName
 second_title: Aspose.PDF for .NET API Reference
-description: Readable internal name of the Font object that is used for showing text that causes extraction error.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/textextractionerror/fontname/
 ---
 ## TextExtractionError.FontName property
-
-Readable (internal) name of the Font object that is used for showing text that causes extraction error.
 
 ```csharp
 public string FontName { get; }

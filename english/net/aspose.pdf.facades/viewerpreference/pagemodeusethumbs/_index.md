@@ -1,14 +1,12 @@
 ---
 title: PageModeUseThumbs
 second_title: Aspose.PDF for .NET API Reference
-description: Thumbnail images visible.
+description: 
 type: docs
 weight: 250
 url: /net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 ---
 ## ViewerPreference.PageModeUseThumbs field
-
-Thumbnail images visible.
 
 ```csharp
 public const int PageModeUseThumbs;

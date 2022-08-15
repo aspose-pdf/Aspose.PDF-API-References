@@ -1,25 +1,17 @@
 ---
 title: PdfFormatConversionOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
 ---
 ## PdfFormatConversionOptions(string, PdfFormat, ConvertErrorAction) {#constructor_4}
 
-Constructor
-
 ```csharp
 public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format, 
     ConvertErrorAction action)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputLogFileName | String | Path to file where comments will be stored. |
-| format | PdfFormat | The pdf format. |
-| action | ConvertErrorAction | Action for objects that can not be converted |
 
 ### See Also
 
@@ -33,16 +25,9 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 ## PdfFormatConversionOptions(string, PdfFormat) {#constructor_3}
 
-Constructor
-
 ```csharp
 public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputLogFileName | String | Path to file where comments will be stored. |
-| format | PdfFormat | The pdf format. |
 
 ### See Also
 
@@ -55,15 +40,9 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 ## PdfFormatConversionOptions(PdfFormat) {#constructor}
 
-Constructor
-
 ```csharp
 public PdfFormatConversionOptions(PdfFormat format)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | PdfFormat | The pdf format. |
 
 ### See Also
 
@@ -76,16 +55,9 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 ## PdfFormatConversionOptions(PdfFormat, ConvertErrorAction) {#constructor_1}
 
-Constructor
-
 ```csharp
 public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | PdfFormat | The pdf format. |
-| action | ConvertErrorAction | Action for objects that can not be converted |
 
 ### See Also
 
@@ -99,19 +71,10 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 ## PdfFormatConversionOptions(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#constructor_5}
 
-Constructor
-
 ```csharp
 public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format, 
     ConvertErrorAction action, ConvertTransparencyAction transparencyAction)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputLogFileName | String | Path to file where comments will be stored. |
-| format | PdfFormat | The pdf format. |
-| action | ConvertErrorAction | Action for objects that can not be converted |
-| transparencyAction | ConvertTransparencyAction | Action for image masked objects |
 
 ### See Also
 
@@ -126,18 +89,10 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 ## PdfFormatConversionOptions(Stream, PdfFormat, ConvertErrorAction) {#constructor_2}
 
-Constructor
-
 ```csharp
 public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format, 
     ConvertErrorAction action)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputLogStream | Stream | Stream where comments will be stored |
-| format | PdfFormat | The pdf format |
-| action | ConvertErrorAction | Action for objects that can not be converted |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Category
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the property category.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/xmppdfaextensionproperty/category/
 ---
 ## XmpPdfAExtensionProperty.Category property
-
-Gets the property category.
 
 ```csharp
 public XmpPdfAExtensionCategoryType Category { get; }

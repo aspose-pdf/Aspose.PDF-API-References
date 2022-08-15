@@ -1,14 +1,12 @@
 ---
 title: IsPoint
 second_title: Aspose.PDF for .NET API Reference
-description: Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/rectangle/ispoint/
 ---
 ## Rectangle.IsPoint property
-
-Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY.
 
 ```csharp
 public bool IsPoint { get; }

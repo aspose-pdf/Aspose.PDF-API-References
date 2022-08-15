@@ -1,14 +1,12 @@
 ---
 title: TempPath
 second_title: Aspose.PDF for .NET API Reference
-description: Path for temporary files.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/pdfsaveoptions/temppath/
 ---
 ## PdfSaveOptions.TempPath property
-
-Path for temporary files.
 
 ```csharp
 public string TempPath { get; set; }

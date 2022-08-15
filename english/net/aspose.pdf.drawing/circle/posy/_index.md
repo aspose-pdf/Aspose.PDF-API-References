@@ -1,14 +1,12 @@
 ---
 title: PosY
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the y-coordinate of the center of the circle.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.drawing/circle/posy/
 ---
 ## Circle.PosY property
-
-Gets or sets a float value that indicates the y-coordinate of the center of the circle.
 
 ```csharp
 public double PosY { get; set; }

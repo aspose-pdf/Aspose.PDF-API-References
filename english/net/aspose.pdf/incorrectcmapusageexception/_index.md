@@ -1,14 +1,12 @@
 ---
 title: IncorrectCMapUsageException
 second_title: Aspose.PDF for .NET API Reference
-description: The exception that is thrown when font usage is incorrect.
+description: 
 type: docs
-weight: 3820
+weight: 3770
 url: /net/aspose.pdf/incorrectcmapusageexception/
 ---
 ## IncorrectCMapUsageException class
-
-The exception that is thrown when font usage is incorrect.
 
 ```csharp
 public sealed class IncorrectCMapUsageException : Exception
@@ -18,7 +16,7 @@ public sealed class IncorrectCMapUsageException : Exception
 
 | Name | Description |
 | --- | --- |
-| [IncorrectCMapUsageException](incorrectcmapusageexception)(string) | Initializes a new instance of the [`IncorrectCMapUsageException`](../incorrectcmapusageexception) class. |
+| [IncorrectCMapUsageException](incorrectcmapusageexception)(string) |  |
 
 ### See Also
 

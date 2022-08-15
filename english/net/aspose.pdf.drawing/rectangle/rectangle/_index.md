@@ -1,25 +1,16 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the Rectangleaspose.pdf.drawing/rectangle class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.drawing/rectangle/rectangle/
 ---
 ## Rectangle constructor
 
-Initializes a new instance of the [`Rectangle`](../../rectangle) class.
-
 ```csharp
 public Rectangle(float left, float bottom, float width, float height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| left | Single | The left position of the rectangle. |
-| bottom | Single | The bottom position of the rectangle. |
-| width | Single | The width of the rectangle. |
-| height | Single | The height of the rectangle. |
 
 ### See Also
 

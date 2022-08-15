@@ -1,14 +1,12 @@
 ---
 title: Repeat
 second_title: Aspose.PDF for .NET API Reference
-description: If true overlay text will be repated on the annotation.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/redactionannotation/repeat/
 ---
 ## RedactionAnnotation.Repeat property
-
-If true overlay text will be repated on the annotation.
 
 ```csharp
 public bool Repeat { get; set; }

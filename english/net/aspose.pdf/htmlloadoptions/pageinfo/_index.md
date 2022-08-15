@@ -1,14 +1,12 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets document page info
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/htmlloadoptions/pageinfo/
 ---
 ## HtmlLoadOptions.PageInfo property
-
-Gets or sets document page info
 
 ```csharp
 public PageInfo PageInfo { get; set; }

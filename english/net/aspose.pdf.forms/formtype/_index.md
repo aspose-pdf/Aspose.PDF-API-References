@@ -1,14 +1,12 @@
 ---
 title: FormType
 second_title: Aspose.PDF for .NET API Reference
-description: Enumeration of posible types of Acro Form.
+description: 
 type: docs
-weight: 3050
+weight: 3000
 url: /net/aspose.pdf.forms/formtype/
 ---
 ## FormType enumeration
-
-Enumeration of posible types of Acro Form.
 
 ```csharp
 public enum FormType
@@ -18,9 +16,9 @@ public enum FormType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Standard | `0` | Standard AcroForm. |
-| Static | `1` | Static XFA form. |
-| Dynamic | `2` | Dynamic XFA form. |
+| Standard | `0` |  |
+| Static | `1` |  |
+| Dynamic | `2` |  |
 
 ### See Also
 

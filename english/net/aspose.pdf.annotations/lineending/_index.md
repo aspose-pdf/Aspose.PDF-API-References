@@ -1,14 +1,12 @@
 ---
 title: LineEnding
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the line ending styles to be used in drawing the line.
+description: 
 type: docs
-weight: 610
+weight: 560
 url: /net/aspose.pdf.annotations/lineending/
 ---
 ## LineEnding enumeration
-
-Enumerates the line ending styles to be used in drawing the line.
 
 ```csharp
 public enum LineEnding
@@ -18,16 +16,16 @@ public enum LineEnding
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No line ending. |
-| Square | `1` | A square filled with the annotation�s interior color, if any. |
-| Circle | `2` | A circle filled with the annotation�s interior color, if any. |
-| Diamond | `3` | A diamond shape filled with the annotation�s interior color, if any. |
-| OpenArrow | `4` | Two short lines meeting in an acute angle to form an open arrowhead. |
-| ClosedArrow | `5` | Two short lines meeting in an acute angle as in the OpenArrow style and connected by a third line to form a triangular closed arrowhead filled with the annotation�s interior color, if any. |
-| Butt | `6` | A short line at the endpoint perpendicular to the line itself. |
-| ROpenArrow | `7` | Two short lines in the reverse direction from OpenArrow. |
-| RClosedArrow | `8` | A triangular closed arrowhead in the reverse direction from ClosedArrow. |
-| Slash | `9` | A short line at the endpoint approximately 30 degrees clockwise from perpendicular to the line itself. |
+| None | `0` |  |
+| Square | `1` |  |
+| Circle | `2` |  |
+| Diamond | `3` |  |
+| OpenArrow | `4` |  |
+| ClosedArrow | `5` |  |
+| Butt | `6` |  |
+| ROpenArrow | `7` |  |
+| RClosedArrow | `8` |  |
+| Slash | `9` |  |
 
 ### See Also
 

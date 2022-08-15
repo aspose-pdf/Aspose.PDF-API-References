@@ -1,26 +1,16 @@
 ---
 title: Contains
 second_title: Aspose.PDF for .NET API Reference
-description: Checks if item exists in collection throws NotImplementedException.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.forms/optioncollection/contains/
 ---
 ## OptionCollection.Contains method
 
-Checks if item exists in collection, throws NotImplementedException.
-
 ```csharp
 public bool Contains(Option item)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | Option | Operator item to find. |
-
-### Return Value
-
-Throws NotImplementedException
 
 ### See Also
 

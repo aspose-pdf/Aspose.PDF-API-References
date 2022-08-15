@@ -1,14 +1,12 @@
 ---
 title: EpubLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Contains options for loading/importing EPUB file into pdf document.
+description: 
 type: docs
-weight: 2090
+weight: 2040
 url: /net/aspose.pdf/epubloadoptions/
 ---
 ## EpubLoadOptions class
-
-Contains options for loading/importing EPUB file into pdf document.
 
 ```csharp
 public sealed class EpubLoadOptions : LoadOptions
@@ -18,24 +16,24 @@ public sealed class EpubLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [EpubLoadOptions](epubloadoptions#constructor)() | Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508. |
-| [EpubLoadOptions](epubloadoptions#constructor_1)(SizeF) | Creates load options with specified page size. |
+| [EpubLoadOptions](epubloadoptions#constructor)() | The default constructor. |
+| [EpubLoadOptions](epubloadoptions#constructor_1)(SizeF) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [Margin](../../aspose.pdf/epubloadoptions/margin) { get; set; } | Gets reference on object that represent marging info. |
-| [PageSize](../../aspose.pdf/epubloadoptions/pagesize) { get; } | Gets or sets output page size for import. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [Margin](../../aspose.pdf/epubloadoptions/margin) { get; set; } |  |
+| [PageSize](../../aspose.pdf/epubloadoptions/pagesize) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
-| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document). |
+| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode) |  |
+| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode) |  |
 
 ### See Also
 

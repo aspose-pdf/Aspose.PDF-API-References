@@ -1,22 +1,16 @@
 ---
 title: PopupAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor. for using in Generator.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/popupannotation/popupannotation/
 ---
 ## PopupAnnotation(Document) {#constructor}
 
-Constructor. for using in Generator.
-
 ```csharp
 public PopupAnnotation(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Document where new popup annotation will be created. |
 
 ### See Also
 
@@ -29,16 +23,9 @@ public PopupAnnotation(Document document)
 
 ## PopupAnnotation(Page, Rectangle) {#constructor_1}
 
-Creates new Popup annotation on the specified page.
-
 ```csharp
 public PopupAnnotation(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The document's page where annotation should be created. |
-| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
 
 ### See Also
 

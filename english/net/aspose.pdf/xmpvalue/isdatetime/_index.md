@@ -1,14 +1,12 @@
 ---
 title: IsDateTime
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true if value is DateTime.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/xmpvalue/isdatetime/
 ---
 ## XmpValue.IsDateTime property
-
-Returns true if value is DateTime.
 
 ```csharp
 public bool IsDateTime { get; }

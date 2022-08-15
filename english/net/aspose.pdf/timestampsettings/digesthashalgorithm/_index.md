@@ -1,14 +1,12 @@
 ---
 title: DigestHashAlgorithm
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets the digest algorithm for internal hash functions.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/timestampsettings/digesthashalgorithm/
 ---
 ## TimestampSettings.DigestHashAlgorithm property
-
-Gets/sets the digest algorithm for internal hash functions.
 
 ```csharp
 public DigestHashAlgorithm DigestHashAlgorithm { get; set; }

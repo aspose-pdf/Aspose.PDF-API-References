@@ -1,14 +1,12 @@
 ---
 title: GifDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Represents image device that helps to save pdf document pages into gif.
+description: 
 type: docs
-weight: 1700
+weight: 1650
 url: /net/aspose.pdf.devices/gifdevice/
 ---
 ## GifDevice class
-
-Represents image device that helps to save pdf document pages into gif.
 
 ```csharp
 public sealed class GifDevice : ImageDevice
@@ -18,30 +16,30 @@ public sealed class GifDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GifDevice](gifdevice#constructor)() | Initializes a new instance of the [`GifDevice`](../gifdevice) class with default resolution. |
-| [GifDevice](gifdevice#constructor_2)(PageSize) | Initializes a new instance of the [`GifDevice`](../gifdevice) class with provided page size, default resolution (=150). |
-| [GifDevice](gifdevice#constructor_1)(Resolution) | Initializes a new instance of the [`GifDevice`](../gifdevice) class.  Resolution for the result image file, see [`Resolution`](../resolution) class. |
-| [GifDevice](gifdevice#constructor_4)(int, int) | Initializes a new instance of the [`GifDevice`](../gifdevice) class with provided image dimensions, default resolution (=150). |
-| [GifDevice](gifdevice#constructor_3)(PageSize, Resolution) | Initializes a new instance of the [`GifDevice`](../gifdevice) class with provided page size and resolution. |
-| [GifDevice](gifdevice#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`GifDevice`](../gifdevice) class with provided image dimensions and resolution. |
+| [GifDevice](gifdevice#constructor)() | The default constructor. |
+| [GifDevice](gifdevice#constructor_2)(PageSize) |  |
+| [GifDevice](gifdevice#constructor_1)(Resolution) |  |
+| [GifDevice](gifdevice#constructor_4)(int, int) |  |
+| [GifDevice](gifdevice#constructor_3)(PageSize, Resolution) |  |
+| [GifDevice](gifdevice#constructor_5)(int, int, Resolution) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Gets or sets form presentation mode. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Gets image output height. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Gets image resolution. |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Gets image output width. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } |  |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } |  |
+| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } |  |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } |  |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } |  |
+| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/gifdevice/process#process)(Page, Stream) | Converts the page into gif and saves it in the output stream. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
+| override [Process](../../aspose.pdf.devices/gifdevice/process#process)(Page, Stream) |  |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) |  |
 
 ### See Also
 

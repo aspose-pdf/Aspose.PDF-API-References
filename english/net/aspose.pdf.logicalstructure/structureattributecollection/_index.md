@@ -1,14 +1,12 @@
 ---
 title: StructureAttributeCollection
 second_title: Aspose.PDF for .NET API Reference
-description: Represents collection of attributes of structure elements.
+description: 
 type: docs
-weight: 4510
+weight: 4460
 url: /net/aspose.pdf.logicalstructure/structureattributecollection/
 ---
 ## StructureAttributeCollection class
-
-Represents collection of attributes of structure elements.
 
 ```csharp
 public class StructureAttributeCollection
@@ -18,8 +16,8 @@ public class StructureAttributeCollection
 
 | Name | Description |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes)(AttributeOwnerStandard) | Create and return [`StructureAttributes`](../structureattributes) of structure element by standard attribute owner. |
-| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes)(AttributeOwnerStandard) | Return [`StructureAttributes`](../structureattributes) of structure element by standard attribute owner. |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes)(AttributeOwnerStandard) |  |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes)(AttributeOwnerStandard) |  |
 
 ### See Also
 

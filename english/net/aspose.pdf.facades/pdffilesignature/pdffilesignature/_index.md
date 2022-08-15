@@ -1,14 +1,14 @@
 ---
 title: PdfFileSignature
 second_title: Aspose.PDF for .NET API Reference
-description: The constructor of PdfFileSignature class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdffilesignature/pdffilesignature/
 ---
 ## PdfFileSignature() {#constructor}
 
-The constructor of PdfFileSignature class.
+The default constructor.
 
 ```csharp
 public PdfFileSignature()
@@ -24,15 +24,9 @@ public PdfFileSignature()
 
 ## PdfFileSignature(Document) {#constructor_1}
 
-Initializes new [`PdfFileSignature`](../../pdffilesignature) object on base of the *document*.
-
 ```csharp
 public PdfFileSignature(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Pdf document. |
 
 ### See Also
 

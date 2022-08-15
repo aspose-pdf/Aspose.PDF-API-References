@@ -1,26 +1,16 @@
 ---
 title: Check
 second_title: Aspose.PDF for .NET API Reference
-description: Validates document.
+description: 
 type: docs
 weight: 530
 url: /net/aspose.pdf/document/check/
 ---
 ## Document.Check method
 
-Validates document.
-
 ```csharp
 public bool Check(bool doRepair)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doRepair | Boolean | If true found issues will be repaired. |
-
-### Return Value
-
-True - if document repaired; otherwise, false.
 
 ### See Also
 

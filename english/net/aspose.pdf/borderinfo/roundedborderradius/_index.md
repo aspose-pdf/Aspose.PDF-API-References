@@ -1,14 +1,12 @@
 ---
 title: RoundedBorderRadius
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a rouded border radius
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/borderinfo/roundedborderradius/
 ---
 ## BorderInfo.RoundedBorderRadius property
-
-Gets or sets a rouded border radius
 
 ```csharp
 public double RoundedBorderRadius { get; set; }

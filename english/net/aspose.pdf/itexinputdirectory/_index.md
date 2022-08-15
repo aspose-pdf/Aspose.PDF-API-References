@@ -1,14 +1,12 @@
 ---
 title: ITeXInputDirectory
 second_title: Aspose.PDF for .NET API Reference
-description: Interface of generalized TeX input directory.
+description: 
 type: docs
-weight: 3680
+weight: 3630
 url: /net/aspose.pdf/itexinputdirectory/
 ---
 ## ITeXInputDirectory interface
-
-Interface of generalized TeX input directory.
 
 ```csharp
 public interface ITeXInputDirectory : IDisposable
@@ -18,7 +16,7 @@ public interface ITeXInputDirectory : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [GetFile](../../aspose.pdf/itexinputdirectory/getfile)(string, out string, bool) | Returns the stream to read from or to write to. |
+| [GetFile](../../aspose.pdf/itexinputdirectory/getfile)(string, out string, bool) |  |
 
 ### See Also
 

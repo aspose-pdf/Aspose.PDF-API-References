@@ -1,14 +1,12 @@
 ---
 title: BitsPerChannel
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the number of bits per sample value per channel.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/soundsampledata/bitsperchannel/
 ---
 ## SoundSampleData.BitsPerChannel property
-
-Gets or sets the number of bits per sample value per channel.
 
 ```csharp
 public int BitsPerChannel { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: TextColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the color of text in the default appearance.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/defaultappearance/textcolor/
 ---
 ## DefaultAppearance.TextColor property
-
-Gets or sets the color of text in the default appearance.
 
 ```csharp
 public Color TextColor { get; set; }

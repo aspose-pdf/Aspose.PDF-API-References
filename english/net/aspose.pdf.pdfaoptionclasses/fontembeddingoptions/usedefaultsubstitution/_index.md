@@ -1,14 +1,12 @@
 ---
 title: UseDefaultSubstitution
 second_title: Aspose.PDF for .NET API Reference
-description: Declares to substitute non-embedded font using default font substitution strategy. By default false
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.pdfaoptionclasses/fontembeddingoptions/usedefaultsubstitution/
 ---
 ## FontEmbeddingOptions.UseDefaultSubstitution property
-
-Declares to substitute non-embedded font using default font substitution strategy. By default false;
 
 ```csharp
 public bool UseDefaultSubstitution { get; set; }

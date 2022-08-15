@@ -1,22 +1,16 @@
 ---
 title: Center
 second_title: Aspose.PDF for .NET API Reference
-description: Returncs coordinates of center of the rectangle.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf/rectangle/center/
 ---
 ## Rectangle.Center method
 
-Returncs coordinates of center of the rectangle.
-
 ```csharp
 public Point Center()
 ```
-
-### Return Value
-
-Point which is center of the rectangle.
 
 ### See Also
 

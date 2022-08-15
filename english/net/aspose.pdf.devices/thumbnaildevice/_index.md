@@ -1,14 +1,12 @@
 ---
 title: ThumbnailDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Represents image device that save pdf document pages into Thumbnail image.
+description: 
 type: docs
-weight: 1790
+weight: 1740
 url: /net/aspose.pdf.devices/thumbnaildevice/
 ---
 ## ThumbnailDevice class
-
-Represents image device that save pdf document pages into Thumbnail image.
 
 ```csharp
 public sealed class ThumbnailDevice : ImageDevice
@@ -18,26 +16,26 @@ public sealed class ThumbnailDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [ThumbnailDevice](thumbnaildevice#constructor)() | Initializes a new instance of the [`ThumbnailDevice`](../thumbnaildevice) class with default size of thumbnail image (200x200 pixels). |
-| [ThumbnailDevice](thumbnaildevice#constructor_1)(int, int) | Initializes a new instance of the [`ThumbnailDevice`](../thumbnaildevice) class. |
+| [ThumbnailDevice](thumbnaildevice#constructor)() | The default constructor. |
+| [ThumbnailDevice](thumbnaildevice#constructor_1)(int, int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Gets or sets form presentation mode. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Gets image output height. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Gets image resolution. |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Gets image output width. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } |  |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } |  |
+| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } |  |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } |  |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } |  |
+| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/thumbnaildevice/process#process)(Page, Stream) | Converts the page into thumbnail image png and saves it in the output stream. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
+| override [Process](../../aspose.pdf.devices/thumbnaildevice/process#process)(Page, Stream) |  |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) |  |
 
 ### See Also
 

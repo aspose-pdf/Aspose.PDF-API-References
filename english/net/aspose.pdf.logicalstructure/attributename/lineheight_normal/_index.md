@@ -1,14 +1,12 @@
 ---
 title: LineHeight_Normal
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute LineHeight Normal - Adjust the line height to include any nonzero value specified for BaselineShift.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.pdf.logicalstructure/attributename/lineheight_normal/
 ---
 ## AttributeName.LineHeight_Normal field
-
-Attribute LineHeight: Normal - Adjust the line height to include any nonzero value specified for BaselineShift.
 
 ```csharp
 public static readonly AttributeName LineHeight_Normal;

@@ -1,14 +1,12 @@
 ---
 title: FontBytes
 second_title: Aspose.PDF for .NET API Reference
-description: Font file byte array.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/memoryfontsource/fontbytes/
 ---
 ## MemoryFontSource.FontBytes property
-
-Font file byte array.
 
 ```csharp
 public byte[] FontBytes { get; }

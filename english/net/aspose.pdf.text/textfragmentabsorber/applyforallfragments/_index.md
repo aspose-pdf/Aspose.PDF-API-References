@@ -1,22 +1,16 @@
 ---
 title: ApplyForAllFragments
 second_title: Aspose.PDF for .NET API Reference
-description: Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the pages were absorbed. Otherwise it works similar with looping.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
 ---
 ## ApplyForAllFragments(Font) {#applyforallfragments}
 
-Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
 ```csharp
 public void ApplyForAllFragments(Font font)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | Font | [`Font`](../../font)of the text. |
 
 ### See Also
 
@@ -29,15 +23,9 @@ public void ApplyForAllFragments(Font font)
 
 ## ApplyForAllFragments(float) {#applyforallfragments_2}
 
-Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
 ```csharp
 public void ApplyForAllFragments(float fontSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | Single | Font size of the text. |
 
 ### See Also
 
@@ -49,16 +37,9 @@ public void ApplyForAllFragments(float fontSize)
 
 ## ApplyForAllFragments(Font, float) {#applyforallfragments_1}
 
-Applies font and size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
 ```csharp
 public void ApplyForAllFragments(Font font, float fontSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | Font | [`Font`](../../font)of the text. |
-| fontSize | Single | Font size of the text. |
 
 ### See Also
 

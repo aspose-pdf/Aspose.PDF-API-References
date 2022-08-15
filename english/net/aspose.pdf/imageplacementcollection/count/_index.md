@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the number of ImagePlacementaspose.pdf/imageplacement object elements actually contained in the collection.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/imageplacementcollection/count/
 ---
 ## ImagePlacementCollection.Count property
-
-Gets the number of [`ImagePlacement`](../../imageplacement) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }

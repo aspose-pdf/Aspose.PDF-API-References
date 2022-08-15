@@ -1,14 +1,14 @@
 ---
 title: GradientAxialShading
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the GradientAxialShadingaspose.pdf.drawing/gradientaxialshading class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
 ---
 ## GradientAxialShading() {#constructor}
 
-Initializes a new instance of the [`GradientAxialShading`](../../gradientaxialshading) class.
+The default constructor.
 
 ```csharp
 public GradientAxialShading()
@@ -24,16 +24,9 @@ public GradientAxialShading()
 
 ## GradientAxialShading(Color, Color) {#constructor_1}
 
-Initializes a new instance of the [`GradientAxialShading`](../../gradientaxialshading) class.
-
 ```csharp
 public GradientAxialShading(Color startColor, Color endColor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| startColor | Color | The start point. |
-| endColor | Color | The end point. |
 
 ### See Also
 

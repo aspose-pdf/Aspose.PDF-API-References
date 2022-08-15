@@ -1,14 +1,12 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API Reference
-description: Gets type of the form. Possible values are Standard Static Dynamic.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf.forms/form/type/
 ---
 ## Form.Type property
-
-Gets type of the form. Possible values are: Standard, Static, Dynamic.
 
 ```csharp
 public FormType Type { get; set; }

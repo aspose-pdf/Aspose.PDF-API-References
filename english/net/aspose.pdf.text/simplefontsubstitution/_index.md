@@ -1,14 +1,12 @@
 ---
 title: SimpleFontSubstitution
 second_title: Aspose.PDF for .NET API Reference
-description: Represents a class for simple font substitution strategy.
+description: 
 type: docs
-weight: 6870
+weight: 6820
 url: /net/aspose.pdf.text/simplefontsubstitution/
 ---
 ## SimpleFontSubstitution class
-
-Represents a class for simple font substitution strategy.
 
 ```csharp
 public sealed class SimpleFontSubstitution : FontSubstitution
@@ -18,14 +16,14 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [SimpleFontSubstitution](simplefontsubstitution)(string, string, bool) | Initializes a new instance of [`SimpleFontSubstitution`](../simplefontsubstitution) class. |
+| [SimpleFontSubstitution](simplefontsubstitution)(string, string, bool) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname) { get; } | Gets original font name that should be substituted with [`SubstitutionFontName`](./substitutionfontname) |
-| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname) { get; } | Gets font name that should substitute the [`OriginalFontName`](./originalfontname) |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname) { get; } |  |
+| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname) { get; } |  |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: Bottom
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the bottom.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.devices/margins/bottom/
 ---
 ## Margins.Bottom property
 
-Gets or sets the bottom.
-
 ```csharp
 public int Bottom { get; set; }
 ```
-
-### Property Value
-
-The bottom.
 
 ### See Also
 

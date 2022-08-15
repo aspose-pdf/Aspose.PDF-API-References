@@ -1,14 +1,12 @@
 ---
 title: Selected
 second_title: Aspose.PDF for .NET API Reference
-description: The list of selected objects.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/annotationselector/selected/
 ---
 ## AnnotationSelector.Selected property
-
-The list of selected objects.
 
 ```csharp
 public IList<Annotation> Selected { get; }

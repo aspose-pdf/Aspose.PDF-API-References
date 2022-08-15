@@ -1,22 +1,16 @@
 ---
 title: RosyBrown
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFBC8F8F.
+description: 
 type: docs
 weight: 1160
 url: /net/aspose.pdf/color/rosybrown/
 ---
 ## Color.RosyBrown property
 
-Gets a system-defined color that has an ARGB value of #FFBC8F8F.
-
 ```csharp
 public static Color RosyBrown { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

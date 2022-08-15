@@ -1,14 +1,12 @@
 ---
 title: Caption
 second_title: Aspose.PDF for .NET API Reference
-description: The normal caption of form field.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/formfieldfacade/caption/
 ---
 ## FormFieldFacade.Caption property
-
-The normal caption of form field.
 
 ```csharp
 public string Caption { get; set; }

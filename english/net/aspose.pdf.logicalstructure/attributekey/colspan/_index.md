@@ -1,14 +1,12 @@
 ---
 title: ColSpan
 second_title: Aspose.PDF for .NET API Reference
-description: ColSpan attribute Table attribute owner.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.logicalstructure/attributekey/colspan/
 ---
 ## AttributeKey.ColSpan field
-
-ColSpan attribute (Table attribute owner).
 
 ```csharp
 public static readonly AttributeKey ColSpan;

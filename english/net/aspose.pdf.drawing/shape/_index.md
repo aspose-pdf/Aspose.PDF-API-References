@@ -1,14 +1,12 @@
 ---
 title: Shape
 second_title: Aspose.PDF for .NET API Reference
-description: Represents shape - the base graphics object.
+description: 
 type: docs
-weight: 2050
+weight: 2000
 url: /net/aspose.pdf.drawing/shape/
 ---
 ## Shape class
-
-Represents shape - the base graphics object.
 
 ```csharp
 public abstract class Shape
@@ -18,8 +16,8 @@ public abstract class Shape
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Gets or sets a [`GraphInfo`](./graphinfo) object that indicates the graph info,such as color, line width,etc. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Gets or sets a text for shape |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } |  |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } |  |
 
 ### See Also
 

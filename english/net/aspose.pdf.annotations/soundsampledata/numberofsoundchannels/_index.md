@@ -1,14 +1,12 @@
 ---
 title: NumberOfSoundChannels
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the number of sound channels.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/soundsampledata/numberofsoundchannels/
 ---
 ## SoundSampleData.NumberOfSoundChannels property
-
-Gets or sets the number of sound channels.
 
 ```csharp
 public int NumberOfSoundChannels { get; set; }

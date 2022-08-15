@@ -1,14 +1,12 @@
 ---
 title: PageDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Abstract class for all devices which is used to process certain page the pdf document.
+description: 
 type: docs
-weight: 1740
+weight: 1690
 url: /net/aspose.pdf.devices/pagedevice/
 ---
 ## PageDevice class
-
-Abstract class for all devices which is used to process certain page the pdf document.
 
 ```csharp
 public abstract class PageDevice : Device
@@ -18,8 +16,8 @@ public abstract class PageDevice : Device
 
 | Name | Description |
 | --- | --- |
-| abstract [Process](../../aspose.pdf.devices/pagedevice/process#process)(Page, Stream) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
-| [Process](../../aspose.pdf.devices/pagedevice/process#process_1)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process#process)(Page, Stream) |  |
+| [Process](../../aspose.pdf.devices/pagedevice/process#process_1)(Page, string) |  |
 
 ### See Also
 

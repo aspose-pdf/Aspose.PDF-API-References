@@ -1,23 +1,16 @@
 ---
 title: GoToRemoteAction
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes GoToRemoteAction object.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
 ---
 ## GoToRemoteAction(string, int) {#constructor_1}
 
-Initializes GoToRemoteAction object.
-
 ```csharp
 public GoToRemoteAction(string remotePdf, int remotePageNumber)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| remotePdf | String | Destination PDF document. |
-| remotePageNumber | Int32 | Destination page number. |
 
 ### See Also
 
@@ -29,16 +22,9 @@ public GoToRemoteAction(string remotePdf, int remotePageNumber)
 
 ## GoToRemoteAction(string, ExplicitDestination) {#constructor}
 
-Initializes GoToRemoteAction object.
-
 ```csharp
 public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| remotePdf | String | Destination PDF document. |
-| destination | ExplicitDestination | Destination in the PDF document. |
 
 ### See Also
 

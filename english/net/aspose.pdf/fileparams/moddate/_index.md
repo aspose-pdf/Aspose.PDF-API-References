@@ -1,14 +1,12 @@
 ---
 title: ModDate
 second_title: Aspose.PDF for .NET API Reference
-description: The date and time when the embedded file was last modified.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/fileparams/moddate/
 ---
 ## FileParams.ModDate property
-
-The date and time when the embedded file was last modified.
 
 ```csharp
 public DateTime ModDate { get; set; }

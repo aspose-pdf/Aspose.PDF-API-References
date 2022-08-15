@@ -1,22 +1,16 @@
 ---
 title: DateFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the date format.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/datefield/dateformat/
 ---
 ## DateField.DateFormat property
 
-Gets or sets the date format.
-
 ```csharp
 public string DateFormat { get; set; }
 ```
-
-### Property Value
-
-The date format. Default dd/MM/yyyy
 
 ### See Also
 

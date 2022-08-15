@@ -1,14 +1,12 @@
 ---
 title: PsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Represents options for loading/importing of .mht-file into pdf document.
+description: 
 type: docs
-weight: 6180
+weight: 6130
 url: /net/aspose.pdf/psloadoptions/
 ---
 ## PsLoadOptions class
-
-Represents options for loading/importing of .mht-file into pdf document.
 
 ```csharp
 public sealed class PsLoadOptions : LoadOptions
@@ -24,9 +22,9 @@ public sealed class PsLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [FontsFolders](../../aspose.pdf/psloadoptions/fontsfolders) { get; set; } | Gets or sets fonts folders paths. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [FontsFolders](../../aspose.pdf/psloadoptions/fontsfolders) { get; set; } |  |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ### See Also
 

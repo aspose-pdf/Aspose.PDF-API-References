@@ -1,22 +1,16 @@
 ---
 title: LaunchAction
 second_title: Aspose.PDF for .NET API Reference
-description: Creates a launch action.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/launchaction/launchaction/
 ---
 ## LaunchAction(string) {#constructor_1}
 
-Creates a launch action.
-
 ```csharp
 public LaunchAction(string file)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| file | String | The file to be launched. |
 
 ### See Also
 
@@ -28,16 +22,9 @@ public LaunchAction(string file)
 
 ## LaunchAction(Document, string) {#constructor}
 
-Creates a launch action.
-
 ```csharp
 public LaunchAction(Document document, string file)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Document where action will be created. |
-| file | String | The file to be launched. |
 
 ### See Also
 

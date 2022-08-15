@@ -1,14 +1,12 @@
 ---
 title: XmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Represents options for loading/importing XML file into pdf document.
+description: 
 type: docs
-weight: 7440
+weight: 7390
 url: /net/aspose.pdf/xmlloadoptions/
 ---
 ## XmlLoadOptions class
-
-Represents options for loading/importing XML file into pdf document.
 
 ```csharp
 public class XmlLoadOptions : LoadOptions
@@ -18,17 +16,17 @@ public class XmlLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [XmlLoadOptions](xmlloadoptions#constructor)() | Creates [`XmlLoadOptions`](../xmlloadoptions) object without xsl data. |
-| [XmlLoadOptions](xmlloadoptions#constructor_1)(Stream) | Creates [`XmlLoadOptions`](../xmlloadoptions) object with xsl data. |
-| [XmlLoadOptions](xmlloadoptions#constructor_2)(string) | Creates [`XmlLoadOptions`](../xmlloadoptions) object with xsl data. |
+| [XmlLoadOptions](xmlloadoptions#constructor)() | The default constructor. |
+| [XmlLoadOptions](xmlloadoptions#constructor_1)(Stream) |  |
+| [XmlLoadOptions](xmlloadoptions#constructor_2)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream) { get; } | Gets xsl data for converting xml into pdf document. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream) { get; } |  |
 
 ### See Also
 

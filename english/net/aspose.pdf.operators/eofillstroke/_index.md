@@ -1,14 +1,12 @@
 ---
 title: EOFillStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing B operator fill and stroke path usign even-odd rule.
+description: 
 type: docs
-weight: 5110
+weight: 5060
 url: /net/aspose.pdf.operators/eofillstroke/
 ---
 ## EOFillStroke class
-
-Class representing B* operator (fill and stroke path usign even-odd rule).
 
 ```csharp
 public class EOFillStroke : Operator
@@ -18,14 +16,14 @@ public class EOFillStroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eofillstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/eofillstroke/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

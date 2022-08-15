@@ -1,22 +1,16 @@
 ---
 title: RemoveAllText
 second_title: Aspose.PDF for .NET API Reference
-description: Removes all text from the specified page.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.text/textfragmentabsorber/removealltext/
 ---
 ## RemoveAllText(Page) {#removealltext_1}
 
-Removes all text from the specified page.
-
 ```csharp
 public void RemoveAllText(Page page)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | PDF document page object. |
 
 ### See Also
 
@@ -29,16 +23,9 @@ public void RemoveAllText(Page page)
 
 ## RemoveAllText(Page, Rectangle) {#removealltext_2}
 
-Removes text inside the specified rectangle from the specified page.
-
 ```csharp
 public void RemoveAllText(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | PDF document page object. |
-| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle) to remove text inside. |
 
 ### See Also
 
@@ -52,15 +39,9 @@ public void RemoveAllText(Page page, Rectangle rect)
 
 ## RemoveAllText(Document) {#removealltext}
 
-Removes all text from the document.
-
 ```csharp
 public void RemoveAllText(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | PDF document object. |
 
 ### See Also
 

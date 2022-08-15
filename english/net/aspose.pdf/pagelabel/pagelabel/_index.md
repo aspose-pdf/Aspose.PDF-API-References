@@ -1,14 +1,14 @@
 ---
 title: PageLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for page label.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/pagelabel/pagelabel/
 ---
 ## PageLabel constructor
 
-Constructor for page label.
+The default constructor.
 
 ```csharp
 public PageLabel()

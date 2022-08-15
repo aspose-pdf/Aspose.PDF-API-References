@@ -1,14 +1,12 @@
 ---
 title: Title
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a string value that indicates the title of the image.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/image/title/
 ---
 ## Image.Title property
-
-Gets or sets a string value that indicates the title of the image.
 
 ```csharp
 public TextFragment Title { get; set; }

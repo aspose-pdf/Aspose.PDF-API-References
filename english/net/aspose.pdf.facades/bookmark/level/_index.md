@@ -1,14 +1,12 @@
 ---
 title: Level
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets bookmarks hierarchy level.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/bookmark/level/
 ---
 ## Bookmark.Level property
-
-Gets or sets bookmark's hierarchy level.
 
 ```csharp
 public int Level { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Title
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a text that shall be displayed in title bar of annotation.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.annotations/markupannotation/title/
 ---
 ## MarkupAnnotation.Title property
-
-Gets or sets a text that shall be displayed in title bar of annotation.
 
 ```csharp
 public string Title { get; set; }

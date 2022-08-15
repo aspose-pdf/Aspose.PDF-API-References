@@ -1,14 +1,12 @@
 ---
 title: End
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets ending circle center point.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.drawing/gradientradialshading/end/
 ---
 ## GradientRadialShading.End property
-
-Gets or sets ending circle center point.
 
 ```csharp
 public Point End { get; set; }

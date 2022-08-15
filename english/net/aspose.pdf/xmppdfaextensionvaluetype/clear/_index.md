@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: Clears all fields.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
 ## XmpPdfAExtensionValueType.Clear method
-
-Clears all fields.
 
 ```csharp
 public void Clear()

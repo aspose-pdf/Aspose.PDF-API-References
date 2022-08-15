@@ -1,14 +1,12 @@
 ---
 title: JpegDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Represents image device that helps to save pdf document pages into jpeg.
+description: 
 type: docs
-weight: 1720
+weight: 1670
 url: /net/aspose.pdf.devices/jpegdevice/
 ---
 ## JpegDevice class
-
-Represents image device that helps to save pdf document pages into jpeg.
 
 ```csharp
 public sealed class JpegDevice : ImageDevice
@@ -18,34 +16,34 @@ public sealed class JpegDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [JpegDevice](jpegdevice#constructor)() | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with default resolution and maximum quality. |
-| [JpegDevice](jpegdevice#constructor_6)(int) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class. |
-| [JpegDevice](jpegdevice#constructor_3)(PageSize) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided page size, default resolution (=150) and maximum quality. |
-| [JpegDevice](jpegdevice#constructor_1)(Resolution) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class.  Resolution for the result image file, see [`Resolution`](../resolution) class. |
-| [JpegDevice](jpegdevice#constructor_7)(int, int) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided image dimensions, default resolution (=150) and maximum quality. |
-| [JpegDevice](jpegdevice#constructor_4)(PageSize, Resolution) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided page size, resolution and maximum quality. |
-| [JpegDevice](jpegdevice#constructor_2)(Resolution, int) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class. |
-| [JpegDevice](jpegdevice#constructor_8)(int, int, Resolution) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided image dimensions, resolution and maximum quality. |
-| [JpegDevice](jpegdevice#constructor_5)(PageSize, Resolution, int) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided page size, resolution and quality. |
-| [JpegDevice](jpegdevice#constructor_9)(int, int, Resolution, int) | Initializes a new instance of the [`JpegDevice`](../jpegdevice) class with provided image dimensions, resolution and quality. |
+| [JpegDevice](jpegdevice#constructor)() | The default constructor. |
+| [JpegDevice](jpegdevice#constructor_6)(int) |  |
+| [JpegDevice](jpegdevice#constructor_3)(PageSize) |  |
+| [JpegDevice](jpegdevice#constructor_1)(Resolution) |  |
+| [JpegDevice](jpegdevice#constructor_7)(int, int) |  |
+| [JpegDevice](jpegdevice#constructor_4)(PageSize, Resolution) |  |
+| [JpegDevice](jpegdevice#constructor_2)(Resolution, int) |  |
+| [JpegDevice](jpegdevice#constructor_8)(int, int, Resolution) |  |
+| [JpegDevice](jpegdevice#constructor_5)(PageSize, Resolution, int) |  |
+| [JpegDevice](jpegdevice#constructor_9)(int, int, Resolution, int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Gets or sets form presentation mode. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Gets image output height. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Gets image resolution. |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Gets image output width. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } |  |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } |  |
+| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } |  |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } |  |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } |  |
+| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/jpegdevice/process#process)(Page, Stream) | Converts the page into jpeg and saves it in the output stream. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
+| override [Process](../../aspose.pdf.devices/jpegdevice/process#process)(Page, Stream) |  |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) |  |
 
 ### See Also
 

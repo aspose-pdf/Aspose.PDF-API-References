@@ -1,14 +1,14 @@
 ---
 title: ComboBoxField
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for ComboBoxField to be used in Generator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/comboboxfield/comboboxfield/
 ---
 ## ComboBoxField() {#constructor}
 
-Constructor for ComboBoxField to be used in Generator.
+The default constructor.
 
 ```csharp
 public ComboBoxField()
@@ -24,15 +24,9 @@ public ComboBoxField()
 
 ## ComboBoxField(Document) {#constructor_1}
 
-Creates CombBox field to work with Generator.
-
 ```csharp
 public ComboBoxField(Document doc)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field will be created. |
 
 ### See Also
 
@@ -45,16 +39,9 @@ public ComboBoxField(Document doc)
 
 ## ComboBoxField(Page, Rectangle) {#constructor_3}
 
-Constructor for Combobox Field.
-
 ```csharp
 public ComboBoxField(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where field will be placed. |
-| rect | Rectangle | Rectangle which defines size and position of the field on the page. |
 
 ### See Also
 
@@ -68,16 +55,9 @@ public ComboBoxField(Page page, Rectangle rect)
 
 ## ComboBoxField(Document, Rectangle) {#constructor_2}
 
-Constructor for Combobox field.
-
 ```csharp
 public ComboBoxField(Document doc, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field should be created. |
-| rect | Rectangle | Rectangle which defines size and position of the field. |
 
 ### See Also
 

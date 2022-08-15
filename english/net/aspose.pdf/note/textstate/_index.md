@@ -1,14 +1,12 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a note text state.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/note/textstate/
 ---
 ## Note.TextState property
-
-Gets or sets a note text state.
 
 ```csharp
 public TextState TextState { get; set; }

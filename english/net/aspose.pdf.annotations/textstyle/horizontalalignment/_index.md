@@ -1,14 +1,12 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Text alignment. Valid values are Left Center Rigth.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
 ## TextStyle.HorizontalAlignment property
-
-Text alignment. Valid values are: Left, Center, Rigth.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

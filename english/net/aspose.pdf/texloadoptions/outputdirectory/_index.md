@@ -1,14 +1,12 @@
 ---
 title: OutputDirectory
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets TeX output directory.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/texloadoptions/outputdirectory/
 ---
 ## TeXLoadOptions.OutputDirectory property
-
-Gets/sets TeX output directory.
 
 ```csharp
 public ITeXOutputDirectory OutputDirectory { get; set; }

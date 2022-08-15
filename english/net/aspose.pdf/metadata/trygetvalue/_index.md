@@ -1,27 +1,16 @@
 ---
 title: TryGetValue
 second_title: Aspose.PDF for .NET API Reference
-description: Tries to find key in the dictionary and retreives value if found.
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf/metadata/trygetvalue/
 ---
 ## Metadata.TryGetValue method
 
-Tries to find key in the dictionary and retreives value if found.
-
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | Key to search in the dictionary. |
-| value | XmpValue& | Retreived value. |
-
-### Return Value
-
-true if key was found.
 
 ### See Also
 

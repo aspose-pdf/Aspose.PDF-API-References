@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: Closes all resources used by this document.
+description: 
 type: docs
 weight: 560
 url: /net/aspose.pdf/document/dispose/
 ---
 ## Document.Dispose method
-
-Closes all resources used by this document.
 
 ```csharp
 public void Dispose()

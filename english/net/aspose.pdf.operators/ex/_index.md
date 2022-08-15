@@ -1,14 +1,12 @@
 ---
 title: EX
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing EX operator End of compatibility section.
+description: 
 type: docs
-weight: 5130
+weight: 5080
 url: /net/aspose.pdf.operators/ex/
 ---
 ## EX class
-
-Class representing EX operator (End of compatibility section).
 
 ```csharp
 public class EX : Operator
@@ -18,20 +16,20 @@ public class EX : Operator
 
 | Name | Description |
 | --- | --- |
-| [EX](ex)() | Initializes operator. |
+| [EX](ex)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/ex/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/ex/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

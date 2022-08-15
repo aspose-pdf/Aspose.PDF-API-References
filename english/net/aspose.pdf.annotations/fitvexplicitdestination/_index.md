@@ -1,14 +1,12 @@
 ---
 title: FitVExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of the page within the window. A null value for left specifies that the current value of that parameter is to be retained unchanged.
+description: 
 type: docs
-weight: 410
+weight: 360
 url: /net/aspose.pdf.annotations/fitvexplicitdestination/
 ---
 ## FitVExplicitDestination class
-
-Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of the page within the window. A null value for left specifies that the current value of that parameter is to be retained unchanged.
 
 ```csharp
 public sealed class FitVExplicitDestination : ExplicitDestination
@@ -18,22 +16,22 @@ public sealed class FitVExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [FitVExplicitDestination](fitvexplicitdestination#constructor_2)(int, double) | Creates remote explicit destination. |
-| [FitVExplicitDestination](fitvexplicitdestination#constructor_1)(Page, double) | Creates local explicit destination. |
+| [FitVExplicitDestination](fitvexplicitdestination#constructor_2)(int, double) |  |
+| [FitVExplicitDestination](fitvexplicitdestination#constructor_1)(Page, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/fitvexplicitdestination/left) { get; } | Gets the horizontal coordinate left positioned at the left edge of the window. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Gets the destination page object |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Gets the destination page number |
+| [Left](../../aspose.pdf.annotations/fitvexplicitdestination/left) { get; } |  |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } |  |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitvexplicitdestination/tostring)() | Converts the object state into string value. Example: "1 FitV 100". |
+| override [ToString](../../aspose.pdf.annotations/fitvexplicitdestination/tostring)() |  |
 
 ### See Also
 

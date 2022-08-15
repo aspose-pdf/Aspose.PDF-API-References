@@ -1,14 +1,12 @@
 ---
 title: PageActionCollection
 second_title: Aspose.PDF for .NET API Reference
-description: This class describes page actions
+description: 
 type: docs
-weight: 5810
+weight: 5760
 url: /net/aspose.pdf/pageactioncollection/
 ---
 ## PageActionCollection class
-
-This class describes page actions
 
 ```csharp
 public class PageActionCollection : BaseActionCollection
@@ -18,14 +16,14 @@ public class PageActionCollection : BaseActionCollection
 
 | Name | Description |
 | --- | --- |
-| [OnClose](../../aspose.pdf/pageactioncollection/onclose) { get; set; } | An action that shall be performed when the page is closed. |
-| [OnOpen](../../aspose.pdf/pageactioncollection/onopen) { get; set; } | An action that shall be performed when the page is opened. |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose) { get; set; } |  |
+| [OnOpen](../../aspose.pdf/pageactioncollection/onopen) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions)() | Removes all actions of the annotation. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions)() |  |
 
 ### See Also
 

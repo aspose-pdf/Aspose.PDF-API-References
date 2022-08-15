@@ -1,14 +1,12 @@
 ---
 title: LanguageTransformationBehavior
 second_title: Aspose.PDF for .NET API Reference
-description: Gets mode that defines behavior for language transformation scenarios.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/
 ---
 ## TextEditOptions.LanguageTransformationBehavior property
-
-Gets mode that defines behavior for language transformation scenarios.
 
 ```csharp
 public LanguageTransformation LanguageTransformationBehavior { get; set; }

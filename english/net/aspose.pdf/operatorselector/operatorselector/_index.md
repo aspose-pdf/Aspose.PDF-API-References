@@ -1,14 +1,14 @@
 ---
 title: OperatorSelector
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the Selector class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/operatorselector/operatorselector/
 ---
 ## OperatorSelector() {#constructor}
 
-Initializes new instance of the !:Selector class.
+The default constructor.
 
 ```csharp
 public OperatorSelector()
@@ -24,15 +24,9 @@ public OperatorSelector()
 
 ## OperatorSelector(Operator) {#constructor_1}
 
-Initializes new [`OperatorSelector`](../../operatorselector).
-
 ```csharp
 public OperatorSelector(Operator op)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| op | Operator | The operator to visit/select. |
 
 ### See Also
 

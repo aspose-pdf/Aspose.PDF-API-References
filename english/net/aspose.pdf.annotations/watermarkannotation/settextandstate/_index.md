@@ -1,23 +1,16 @@
 ---
 title: SetTextAndState
 second_title: Aspose.PDF for .NET API Reference
-description: Set text of the annotation.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/watermarkannotation/settextandstate/
 ---
 ## WatermarkAnnotation.SetTextAndState method
 
-Set text of the annotation.
-
 ```csharp
 public void SetTextAndState(string[] text, TextState textState)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | String[] | Text value. |
-| textState | TextState | Text state. |
 
 ### See Also
 

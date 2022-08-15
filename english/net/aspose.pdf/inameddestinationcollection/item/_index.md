@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets destination by its name.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/inameddestinationcollection/item/
 ---
 ## INamedDestinationCollection indexer
 
-Gets or sets destination by its name.
-
 ```csharp
 public IAppointment this[string name] { get; set; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| name | Name value. |
-
-### Return Value
-
-Destination object.
 
 ### See Also
 

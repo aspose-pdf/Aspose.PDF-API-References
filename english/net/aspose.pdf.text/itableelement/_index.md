@@ -1,14 +1,12 @@
 ---
 title: ITableElement
 second_title: Aspose.PDF for .NET API Reference
-description: This interface represents an element of existing table extracted by TableAbsorber.
+description: 
 type: docs
-weight: 6800
+weight: 6750
 url: /net/aspose.pdf.text/itableelement/
 ---
 ## ITableElement interface
-
-This interface represents an element of existing table extracted by TableAbsorber.
 
 ```csharp
 public interface ITableElement
@@ -18,7 +16,7 @@ public interface ITableElement
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](../../aspose.pdf.text/itableelement/rectangle) { get; } | Gets rectangle that describes position of table element on the page |
+| [Rectangle](../../aspose.pdf.text/itableelement/rectangle) { get; } |  |
 
 ### See Also
 

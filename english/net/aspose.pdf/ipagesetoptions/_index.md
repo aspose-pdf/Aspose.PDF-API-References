@@ -1,14 +1,12 @@
 ---
 title: IPageSetOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Defines conversion options related to a set of pages to convert.
+description: 
 type: docs
-weight: 3660
+weight: 3610
 url: /net/aspose.pdf/ipagesetoptions/
 ---
 ## IPageSetOptions interface
-
-Defines conversion options related to a set of pages to convert.
 
 ```csharp
 public interface IPageSetOptions
@@ -18,7 +16,7 @@ public interface IPageSetOptions
 
 | Name | Description |
 | --- | --- |
-| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages) { get; set; } | Specifies the array of numbers of pages to convert. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages) { get; set; } |  |
 
 ### See Also
 

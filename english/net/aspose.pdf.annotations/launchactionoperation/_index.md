@@ -1,14 +1,12 @@
 ---
 title: LaunchActionOperation
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the operations to perform with document during launch action executing.
+description: 
 type: docs
-weight: 580
+weight: 530
 url: /net/aspose.pdf.annotations/launchactionoperation/
 ---
 ## LaunchActionOperation enumeration
-
-Enumerates the operations to perform with document during launch action executing.
 
 ```csharp
 public enum LaunchActionOperation
@@ -18,9 +16,9 @@ public enum LaunchActionOperation
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` | Undefined state. |
-| Open | `1` | Open a document. |
-| Print | `2` | Print a document. |
+| Undefined | `0` |  |
+| Open | `1` |  |
+| Print | `2` |  |
 
 ### See Also
 

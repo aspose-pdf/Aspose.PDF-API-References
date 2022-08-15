@@ -1,14 +1,12 @@
 ---
 title: Y
 second_title: Aspose.PDF for .NET API Reference
-description: Y coordinate of text position.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.operators/movetextposition/y/
 ---
 ## MoveTextPosition.Y property
-
-Y coordinate of text position.
 
 ```csharp
 public double Y { get; set; }

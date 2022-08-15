@@ -1,14 +1,12 @@
 ---
 title: TextEditOptions.LanguageTransformation
 second_title: Aspose.PDF for .NET API Reference
-description: Language transformation modes
+description: 
 type: docs
-weight: 7010
+weight: 6960
 url: /net/aspose.pdf.text/texteditoptions.languagetransformation/
 ---
 ## TextEditOptions.LanguageTransformation enumeration
-
-Language transformation modes
 
 ```csharp
 public enum LanguageTransformation
@@ -18,9 +16,9 @@ public enum LanguageTransformation
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` | Default language transformation is performed. |
-| ExactlyAsISee | `1` | Language transformation is performed the same way as in a text editor. It usually means text will looks in the document exactly as You see it in code. But no warranties. |
-| None | `2` | Language transformation is not performed. |
+| Default | `0` |  |
+| ExactlyAsISee | `1` |  |
+| None | `2` |  |
 
 ### See Also
 

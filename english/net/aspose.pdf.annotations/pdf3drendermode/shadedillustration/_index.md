@@ -1,14 +1,12 @@
 ---
 title: ShadedIllustration
 second_title: Aspose.PDF for .NET API Reference
-description: The ShadedIllustration render mode.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/pdf3drendermode/shadedillustration/
 ---
 ## PDF3DRenderMode.ShadedIllustration field
-
-The "ShadedIllustration" render mode.
 
 ```csharp
 public static PDF3DRenderMode ShadedIllustration;

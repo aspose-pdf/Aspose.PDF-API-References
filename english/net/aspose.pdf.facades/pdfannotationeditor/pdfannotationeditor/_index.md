@@ -1,14 +1,14 @@
 ---
 title: PdfAnnotationEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new PdfAnnotationEditoraspose.pdf.facades/pdfannotationeditor object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-Initializes new [`PdfAnnotationEditor`](../../pdfannotationeditor) object.
+The default constructor.
 
 ```csharp
 public PdfAnnotationEditor()
@@ -24,15 +24,9 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor(Document) {#constructor_1}
 
-Initializes new [`PdfAnnotationEditor`](../../pdfannotationeditor) object on base of the *document*.
-
 ```csharp
 public PdfAnnotationEditor(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Pdf document. |
 
 ### See Also
 

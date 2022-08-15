@@ -1,14 +1,12 @@
 ---
 title: ISaveableFacade
 second_title: Aspose.PDF for .NET API Reference
-description: Facade interface that defines methods common for all saveable facades.
+description: 
 type: docs
-weight: 2380
+weight: 2330
 url: /net/aspose.pdf.facades/isaveablefacade/
 ---
 ## ISaveableFacade interface
-
-Facade interface that defines methods common for all saveable facades.
 
 ```csharp
 public interface ISaveableFacade : IFacade
@@ -18,8 +16,8 @@ public interface ISaveableFacade : IFacade
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save#save)(Stream) | Saves the result PDF document to stream. |
-| [Save](../../aspose.pdf.facades/isaveablefacade/save#save_1)(string) | Saves the result PDF document to file. |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save#save)(Stream) |  |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save#save_1)(string) |  |
 
 ### See Also
 

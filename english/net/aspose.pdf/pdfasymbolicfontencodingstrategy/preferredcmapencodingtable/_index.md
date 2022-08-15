@@ -1,14 +1,12 @@
 ---
 title: PreferredCmapEncodingTable
 second_title: Aspose.PDF for .NET API Reference
-description: Specifies subtable which will be used in precedence to mac subtable10. Value MacTable from enumeration CMapEncodingTableTypeaspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype has no sense in this case.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/
 ---
 ## PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable property
-
-Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) has no sense in this case.
 
 ```csharp
 public CMapEncodingTableType PreferredCmapEncodingTable { get; set; }

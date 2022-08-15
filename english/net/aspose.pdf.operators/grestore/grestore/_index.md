@@ -1,14 +1,14 @@
 ---
 title: GRestore
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes Q operator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/grestore/grestore/
 ---
 ## GRestore constructor
 
-Initializes Q operator.
+The default constructor.
 
 ```csharp
 public GRestore()

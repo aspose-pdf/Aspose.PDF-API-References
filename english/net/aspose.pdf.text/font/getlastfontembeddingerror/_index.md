@@ -1,22 +1,16 @@
 ---
 title: GetLastFontEmbeddingError
 second_title: Aspose.PDF for .NET API Reference
-description: An objective of this method - to return description of error if an attempt to embed font was failed. If there are no error cases it returns empty string.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.text/font/getlastfontembeddingerror/
 ---
 ## Font.GetLastFontEmbeddingError method
 
-An objective of this method - to return description of error if an attempt to embed font was failed. If there are no error cases it returns empty string.
-
 ```csharp
 public string GetLastFontEmbeddingError()
 ```
-
-### Return Value
-
-Error description
 
 ### See Also
 

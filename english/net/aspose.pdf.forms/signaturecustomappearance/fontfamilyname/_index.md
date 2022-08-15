@@ -1,14 +1,12 @@
 ---
 title: FontFamilyName
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets font family name. It should be existed in the document. Default value Arial.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/
 ---
 ## SignatureCustomAppearance.FontFamilyName property
-
-Gets/sets font family name. It should be existed in the document. Default value: Arial.
 
 ```csharp
 public string FontFamilyName { get; set; }

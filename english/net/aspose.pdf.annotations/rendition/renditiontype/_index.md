@@ -1,14 +1,12 @@
 ---
 title: RenditionType
 second_title: Aspose.PDF for .NET API Reference
-description: Gets rendition type.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/rendition/renditiontype/
 ---
 ## Rendition.RenditionType property
-
-Gets rendition type.
 
 ```csharp
 public RenditionType RenditionType { get; }

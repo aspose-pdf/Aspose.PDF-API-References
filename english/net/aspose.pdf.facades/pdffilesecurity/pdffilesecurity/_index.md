@@ -1,14 +1,14 @@
 ---
 title: PdfFileSecurity
 second_title: Aspose.PDF for .NET API Reference
-description: Initialize the object of PdfFileSecurity.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
 ---
 ## PdfFileSecurity() {#constructor}
 
-Initialize the object of PdfFileSecurity.
+The default constructor.
 
 ```csharp
 public PdfFileSecurity()
@@ -24,15 +24,9 @@ public PdfFileSecurity()
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-Initializes new [`PdfFileSecurity`](../../pdffilesecurity) object on base of the *document*.
-
 ```csharp
 public PdfFileSecurity(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Pdf document. |
 
 ### See Also
 

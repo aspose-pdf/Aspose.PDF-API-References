@@ -1,14 +1,12 @@
 ---
 title: NamedDestinations
 second_title: Aspose.PDF for .NET API Reference
-description: Collection of Named Destination in the document.
+description: 
 type: docs
 weight: 360
 url: /net/aspose.pdf/document/nameddestinations/
 ---
 ## Document.NamedDestinations property
-
-Collection of Named Destination in the document.
 
 ```csharp
 public NamedDestinationCollection NamedDestinations { get; }

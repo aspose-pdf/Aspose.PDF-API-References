@@ -1,14 +1,12 @@
 ---
 title: FormEditor
 second_title: Aspose.PDF for .NET API Reference
-description: Class for editing forms ading/deleting field etc
+description: 
 type: docs
-weight: 2340
+weight: 2290
 url: /net/aspose.pdf.facades/formeditor/
 ---
 ## FormEditor class
-
-Class for editing forms (ading/deleting field etc)
 
 ```csharp
 public sealed class FormEditor : SaveableFacade
@@ -18,70 +16,66 @@ public sealed class FormEditor : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [FormEditor](formeditor#constructor)() | Constructor for FormEditor. |
-| [FormEditor](formeditor#constructor_1)(Document) | Initializes new [`FormEditor`](../formeditor) object on base of the *document*. |
+| [FormEditor](formeditor#constructor)() | The default constructor. |
+| [FormEditor](formeditor#constructor_1)(Document) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AttachmentName](../../aspose.pdf.facades/formeditor/attachmentname) { get; set; } | Gets or sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [ContentDisposition](../../aspose.pdf.facades/formeditor/contentdisposition) { get; set; } | Gets or sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
-| [ConvertTo](../../aspose.pdf.facades/formeditor/convertto) { set; } | Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion. |
-| [Document](../../aspose.pdf.facades/facade/document) { get; } | Gets the document facade is working on. |
-| [ExportItems](../../aspose.pdf.facades/formeditor/exportitems) { get; set; } | Sets options for combo box with export values. |
-| [Facade](../../aspose.pdf.facades/formeditor/facade) { get; set; } | Sets visual attributes of the field. |
-| [Items](../../aspose.pdf.facades/formeditor/items) { get; set; } | Sets items which will be added t onewly created list box or combo box. |
-| [RadioButtonItemSize](../../aspose.pdf.facades/formeditor/radiobuttonitemsize) { get; set; } | Gets or sets size of radio button item size (when new radio button field is added). |
-| [RadioGap](../../aspose.pdf.facades/formeditor/radiogap) { get; set; } | The member to record the gap between two neighboring radio buttons in pixels,default is 50. |
-| [RadioHoriz](../../aspose.pdf.facades/formeditor/radiohoriz) { get; set; } | The flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
-| [Response](../../aspose.pdf.facades/formeditor/response) { get; set; } | Gets or sets Response object where result of operation will be stored. |
-| [SaveOptions](../../aspose.pdf.facades/formeditor/saveoptions) { get; set; } | Gets or sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions. |
-| [SubmitFlag](../../aspose.pdf.facades/formeditor/submitflag) { get; set; } | Set the submit button's submission flags |
+| [ConvertTo](../../aspose.pdf.facades/formeditor/convertto) { set; } |  |
+| [Document](../../aspose.pdf.facades/facade/document) { get; } |  |
+| [ExportItems](../../aspose.pdf.facades/formeditor/exportitems) { get; set; } |  |
+| [Facade](../../aspose.pdf.facades/formeditor/facade) { get; set; } |  |
+| [Items](../../aspose.pdf.facades/formeditor/items) { get; set; } |  |
+| [RadioButtonItemSize](../../aspose.pdf.facades/formeditor/radiobuttonitemsize) { get; set; } |  |
+| [RadioGap](../../aspose.pdf.facades/formeditor/radiogap) { get; set; } |  |
+| [RadioHoriz](../../aspose.pdf.facades/formeditor/radiohoriz) { get; set; } |  |
+| [SubmitFlag](../../aspose.pdf.facades/formeditor/submitflag) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddField](../../aspose.pdf.facades/formeditor/addfield#addfield)(FieldType, string, int, float, float, float, float) | Add field of specified type to the form. |
-| [AddField](../../aspose.pdf.facades/formeditor/addfield#addfield_1)(FieldType, string, string, int, float, float, float, float) | Add field of specified type to the form. |
-| [AddFieldScript](../../aspose.pdf.facades/formeditor/addfieldscript)(string, string) | Add JavaScript for a PushButton field. If old event exists, new event is added after it. |
-| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem#addlistitem)(string, string) | Adds new item to the list box. |
-| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem#addlistitem_1)(string, string[]) | Add a new item with Export value to the existing list box field, only for AcroForm combo box field. |
-| [AddSubmitBtn](../../aspose.pdf.facades/formeditor/addsubmitbtn)(string, int, string, string, float, float, float, float) | Add submit button on the form. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) | Initializes the facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) | Initializes the facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) | Initializes the facade. |
-| override [Close](../../aspose.pdf.facades/formeditor/close)() | Closes the facade. |
-| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield#copyinnerfield)(string, string, int) | Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the source document has except for the newly copied field. |
-| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield#copyinnerfield_1)(string, string, int, float, float) | Copies an existing field to a new position specified by both page number and ordinates. A new document will be produced, which contains everything the source document has except for the newly copied field. |
-| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield)(string, string) | Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fields (excluding radio box). |
-| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield_1)(string, string, int) | Copies an existing field from one PDF document to another document with specified page number and original ordinates. Notice: Only for AcroForm fields (excluding radio box). |
-| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield_2)(string, string, int, float, float) | Copies an existing field from one PDF document to another document with specified page number and ordinates. Notice: Only for AcroForm fields (excluding radio box). |
-| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield)() | Changes visual attributes of all fields in the PDF document. |
-| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield_1)(FieldType) | Changes visual attributes of all fields with the specified field type. |
-| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield_2)(string) | Changes visual attributes of the specified field. |
-| [DelListItem](../../aspose.pdf.facades/formeditor/dellistitem)(string, string) | Delete item from the list field. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose)() | Disposes the facade. |
-| [GetFieldAppearance](../../aspose.pdf.facades/formeditor/getfieldappearance)(string) | Get field flags. |
-| [MoveField](../../aspose.pdf.facades/formeditor/movefield)(string, float, float, float, float) | Set new position of field. |
-| [RemoveField](../../aspose.pdf.facades/formeditor/removefield)(string) | Remove field from the form. |
-| [RemoveFieldAction](../../aspose.pdf.facades/formeditor/removefieldaction)(string) | Remove submit action of the field. |
-| [RenameField](../../aspose.pdf.facades/formeditor/renamefield)(string, string) | Change name of the field. |
-| [ResetFacade](../../aspose.pdf.facades/formeditor/resetfacade)() | Reset all visual attribtues to empty value. |
-| [ResetInnerFacade](../../aspose.pdf.facades/formeditor/resetinnerfacade)() | Reset all visual attribtues of inner facade to empty value. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) | Saves the PDF document to the specified stream. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) | Saves the PDF document to the specified file. |
-| [SetFieldAlignment](../../aspose.pdf.facades/formeditor/setfieldalignment)(string, int) | Set the alignment style of a text field. |
-| [SetFieldAlignmentV](../../aspose.pdf.facades/formeditor/setfieldalignmentv)(string, int) | Set the vertical alignment style of a text field. |
-| [SetFieldAppearance](../../aspose.pdf.facades/formeditor/setfieldappearance)(string, AnnotationFlags) | Set field flags |
-| [SetFieldAttribute](../../aspose.pdf.facades/formeditor/setfieldattribute)(string, PropertyFlag) | Set attributes of field. |
-| [SetFieldCombNumber](../../aspose.pdf.facades/formeditor/setfieldcombnumber)(string, int) | Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter). |
-| [SetFieldLimit](../../aspose.pdf.facades/formeditor/setfieldlimit)(string, int) | Sets maximum character count of the text field. |
-| [SetFieldScript](../../aspose.pdf.facades/formeditor/setfieldscript)(string, string) | Set JavaScript for a PushButton field. If old JavaScript existed, it will be replaced by the new one. |
-| [SetSubmitFlag](../../aspose.pdf.facades/formeditor/setsubmitflag)(string, SubmitFormFlag) | Set submit flag of submit button. |
-| [SetSubmitUrl](../../aspose.pdf.facades/formeditor/setsubmiturl)(string, string) | Sets URL of the button. |
-| [Single2Multiple](../../aspose.pdf.facades/formeditor/single2multiple)(string) | Change a single-lined text field to a multiple-lined one. |
+| [AddField](../../aspose.pdf.facades/formeditor/addfield#addfield)(FieldType, string, int, float, float, float, float) |  |
+| [AddField](../../aspose.pdf.facades/formeditor/addfield#addfield_1)(FieldType, string, string, int, float, float, float, float) |  |
+| [AddFieldScript](../../aspose.pdf.facades/formeditor/addfieldscript)(string, string) |  |
+| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem#addlistitem)(string, string) |  |
+| [AddListItem](../../aspose.pdf.facades/formeditor/addlistitem#addlistitem_1)(string, string[]) |  |
+| [AddSubmitBtn](../../aspose.pdf.facades/formeditor/addsubmitbtn)(string, int, string, string, float, float, float, float) |  |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Document) |  |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(Stream) |  |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf)(string) |  |
+| override [Close](../../aspose.pdf.facades/formeditor/close)() |  |
+| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield#copyinnerfield)(string, string, int) |  |
+| [CopyInnerField](../../aspose.pdf.facades/formeditor/copyinnerfield#copyinnerfield_1)(string, string, int, float, float) |  |
+| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield)(string, string) |  |
+| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield_1)(string, string, int) |  |
+| [CopyOuterField](../../aspose.pdf.facades/formeditor/copyouterfield#copyouterfield_2)(string, string, int, float, float) |  |
+| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield)() |  |
+| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield_1)(FieldType) |  |
+| [DecorateField](../../aspose.pdf.facades/formeditor/decoratefield#decoratefield_2)(string) |  |
+| [DelListItem](../../aspose.pdf.facades/formeditor/dellistitem)(string, string) |  |
+| [Dispose](../../aspose.pdf.facades/facade/dispose)() |  |
+| [GetFieldAppearance](../../aspose.pdf.facades/formeditor/getfieldappearance)(string) |  |
+| [MoveField](../../aspose.pdf.facades/formeditor/movefield)(string, float, float, float, float) |  |
+| [RemoveField](../../aspose.pdf.facades/formeditor/removefield)(string) |  |
+| [RemoveFieldAction](../../aspose.pdf.facades/formeditor/removefieldaction)(string) |  |
+| [RenameField](../../aspose.pdf.facades/formeditor/renamefield)(string, string) |  |
+| [ResetFacade](../../aspose.pdf.facades/formeditor/resetfacade)() |  |
+| [ResetInnerFacade](../../aspose.pdf.facades/formeditor/resetinnerfacade)() |  |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(Stream) |  |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save)(string) |  |
+| [SetFieldAlignment](../../aspose.pdf.facades/formeditor/setfieldalignment)(string, int) |  |
+| [SetFieldAlignmentV](../../aspose.pdf.facades/formeditor/setfieldalignmentv)(string, int) |  |
+| [SetFieldAppearance](../../aspose.pdf.facades/formeditor/setfieldappearance)(string, AnnotationFlags) |  |
+| [SetFieldAttribute](../../aspose.pdf.facades/formeditor/setfieldattribute)(string, PropertyFlag) |  |
+| [SetFieldCombNumber](../../aspose.pdf.facades/formeditor/setfieldcombnumber)(string, int) |  |
+| [SetFieldLimit](../../aspose.pdf.facades/formeditor/setfieldlimit)(string, int) |  |
+| [SetFieldScript](../../aspose.pdf.facades/formeditor/setfieldscript)(string, string) |  |
+| [SetSubmitFlag](../../aspose.pdf.facades/formeditor/setsubmitflag)(string, SubmitFormFlag) |  |
+| [SetSubmitUrl](../../aspose.pdf.facades/formeditor/setsubmiturl)(string, string) |  |
+| [Single2Multiple](../../aspose.pdf.facades/formeditor/single2multiple)(string) |  |
 
 ### See Also
 

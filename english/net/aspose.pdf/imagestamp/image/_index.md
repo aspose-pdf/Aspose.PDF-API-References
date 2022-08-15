@@ -1,14 +1,12 @@
 ---
 title: Image
 second_title: Aspose.PDF for .NET API Reference
-description: Gets image stream used for stamping.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/imagestamp/image/
 ---
 ## ImageStamp.Image property
-
-Gets image stream used for stamping.
 
 ```csharp
 public Stream Image { get; }

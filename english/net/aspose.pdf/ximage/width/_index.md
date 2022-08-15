@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: Gets width of the image.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/ximage/width/
 ---
 ## XImage.Width property
-
-Gets width of the image.
 
 ```csharp
 public int Width { get; }

@@ -1,22 +1,16 @@
 ---
 title: AnnotationType
 second_title: Aspose.PDF for .NET API Reference
-description: Gets type of annotation.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/pdf3dannotation/annotationtype/
 ---
 ## PDF3DAnnotation.AnnotationType property
 
-Gets type of annotation.
-
 ```csharp
 public override AnnotationType AnnotationType { get; }
 ```
-
-### Property Value
-
-The type of the annotation.
 
 ### See Also
 

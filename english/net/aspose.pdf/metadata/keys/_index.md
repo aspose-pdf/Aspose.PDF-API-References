@@ -1,14 +1,12 @@
 ---
 title: Keys
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of metadata keys.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/metadata/keys/
 ---
 ## Metadata.Keys property
-
-Gets collection of metadata keys.
 
 ```csharp
 public ICollection<string> Keys { get; }

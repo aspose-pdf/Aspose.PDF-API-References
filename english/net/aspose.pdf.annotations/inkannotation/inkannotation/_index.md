@@ -1,23 +1,16 @@
 ---
 title: InkAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for Ink annotation for Generator.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/inkannotation/inkannotation/
 ---
 ## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
 
-Constructor for Ink annotation for Generator.
-
 ```csharp
 public InkAnnotation(Document document, IList<Point[]> inkList)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Document where ink annotation will be created. |
-| inkList | IList`1 | An array of Point[] arrays, each representing a stroked path. |
 
 ### See Also
 
@@ -31,17 +24,9 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 
 ## InkAnnotation(Page, Rectangle, IList&lt;Point[]&gt;) {#constructor_1}
 
-Creates new Ink annotation on the specified page.
-
 ```csharp
 public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The document's page where annotation should be created. |
-| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| inkList | IList`1 | An array of Point[] arrays, each representing a stroked path. |
 
 ### See Also
 

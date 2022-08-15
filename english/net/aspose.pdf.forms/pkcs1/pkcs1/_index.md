@@ -1,22 +1,16 @@
 ---
 title: PKCS1
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the PKCS1aspose.pdf.forms/pkcs1 class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/pkcs1/pkcs1/
 ---
 ## PKCS1(Stream) {#constructor_1}
 
-Initializes new instance of the [`PKCS1`](../../pkcs1) class.
-
 ```csharp
 public PKCS1(Stream image)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | Stream | This image will define signature appearance on the page. |
 
 ### See Also
 
@@ -28,7 +22,7 @@ public PKCS1(Stream image)
 
 ## PKCS1() {#constructor}
 
-Inititalizes new instance of the [`PKCS1`](../../pkcs1) class.
+The default constructor.
 
 ```csharp
 public PKCS1()
@@ -44,16 +38,9 @@ public PKCS1()
 
 ## PKCS1(string, string) {#constructor_3}
 
-Inititalizes new instance of the [`PKCS1`](../../pkcs1) class.
-
 ```csharp
 public PKCS1(string pfx, string password)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | String | Pfx file which contains certificate for signing. |
-| password | String | Password for certificate. |
 
 ### See Also
 
@@ -65,16 +52,9 @@ public PKCS1(string pfx, string password)
 
 ## PKCS1(Stream, string) {#constructor_2}
 
-Inititalizes new instance of the [`PKCS1`](../../pkcs1) class.
-
 ```csharp
 public PKCS1(Stream pfx, string password)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | Stream | Stream with certificate data organized as pfx. |
-| password | String | Password to get access to the private key in the certificate. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: TeXFileSystemInputDirectory
 second_title: Aspose.PDF for .NET API Reference
-description: Implements the regular file systems method for getting a file stream to read from.
+description: 
 type: docs
-weight: 6540
+weight: 6490
 url: /net/aspose.pdf/texfilesysteminputdirectory/
 ---
 ## TeXFileSystemInputDirectory class
-
-Implements the regular file system's method for getting a file stream to read from.
 
 ```csharp
 public class TeXFileSystemInputDirectory : ITeXInputDirectory
@@ -18,14 +16,14 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 
 | Name | Description |
 | --- | --- |
-| [TeXFileSystemInputDirectory](texfilesysteminputdirectory)(string) | Creates new instance. |
+| [TeXFileSystemInputDirectory](texfilesysteminputdirectory)(string) |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose)() | Disposes the instance. |
-| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile)(string, out string, bool) | Returns the stream to read from. |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose)() |  |
+| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile)(string, out string, bool) |  |
 
 ### See Also
 

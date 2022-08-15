@@ -1,22 +1,16 @@
 ---
 title: Save
 second_title: Aspose.PDF for .NET API Reference
-description: Saves the result PDF to file.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.pdf.facades/pdffilesignature/save/
 ---
 ## Save(string) {#save_2}
 
-Saves the result PDF to file.
-
 ```csharp
 public override void Save(string outputFile)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFile | String | output pdf file |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public override void Save(string outputFile)
 
 ## Save(Stream) {#save_1}
 
-Saves the result PDF to stream.
-
 ```csharp
 public override void Save(Stream outputStream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputStream | Stream | output pdf stream |
 
 ### See Also
 

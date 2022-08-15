@@ -1,14 +1,14 @@
 ---
 title: PdfViewer
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new PdfVieweraspose.pdf.facades/pdfviewer object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfviewer/pdfviewer/
 ---
 ## PdfViewer() {#constructor}
 
-Initializes new [`PdfViewer`](../../pdfviewer) object.
+The default constructor.
 
 ```csharp
 public PdfViewer()
@@ -24,15 +24,9 @@ public PdfViewer()
 
 ## PdfViewer(Document) {#constructor_1}
 
-Initializes new [`PdfViewer`](../../pdfviewer) object.
-
 ```csharp
 public PdfViewer(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Document object. |
 
 ### See Also
 

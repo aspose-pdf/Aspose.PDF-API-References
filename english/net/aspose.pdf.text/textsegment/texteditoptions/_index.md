@@ -1,14 +1,12 @@
 ---
 title: TextEditOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.text/textsegment/texteditoptions/
 ---
 ## TextSegment.TextEditOptions property
-
-Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }

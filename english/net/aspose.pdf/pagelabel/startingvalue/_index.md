@@ -1,14 +1,12 @@
 ---
 title: StartingValue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets starting value of the page numbering range.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/pagelabel/startingvalue/
 ---
 ## PageLabel.StartingValue property
-
-Gets or sets starting value of the page numbering range.
 
 ```csharp
 public int StartingValue { get; set; }

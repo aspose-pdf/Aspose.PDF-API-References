@@ -1,22 +1,16 @@
 ---
 title: Aqua
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF00FFFF.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/color/aqua/
 ---
 ## Color.Aqua property
 
-Gets a system-defined color that has an ARGB value of #FF00FFFF.
-
 ```csharp
 public static Color Aqua { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

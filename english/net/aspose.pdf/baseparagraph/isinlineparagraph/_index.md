@@ -1,14 +1,12 @@
 ---
 title: IsInLineParagraph
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a paragraph is inline. Default is false.for pdf generation
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/baseparagraph/isinlineparagraph/
 ---
 ## BaseParagraph.IsInLineParagraph property
-
-Gets or sets a paragraph is inline. Default is false.(for pdf generation)
 
 ```csharp
 public bool IsInLineParagraph { get; set; }

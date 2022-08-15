@@ -1,22 +1,16 @@
 ---
 title: LoadAsPRC
 second_title: Aspose.PDF for .NET API Reference
-description: Loads 3D content with the specified filename as PRC format.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
 ---
 ## LoadAsPRC(string) {#loadasprc_2}
 
-Loads 3D content with the specified filename as PRC format.
-
 ```csharp
 public void LoadAsPRC(string filename)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | The filename. |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public void LoadAsPRC(string filename)
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-Loads 3D content from stream as PRC format.
-
 ```csharp
 public void LoadAsPRC(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The 3D content stream. |
 
 ### See Also
 
@@ -48,15 +36,9 @@ public void LoadAsPRC(Stream stream)
 
 ## LoadAsPRC(byte[]) {#loadasprc}
 
-Loads 3D content from byte array as PRC format.
-
 ```csharp
 public void LoadAsPRC(byte[] stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Byte[] | The stream. |
 
 ### See Also
 

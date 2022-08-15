@@ -1,14 +1,12 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: Class represents rectangle.
+description: 
 type: docs
-weight: 6190
+weight: 6140
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
-
-Class represents rectangle.
 
 ```csharp
 public sealed class Rectangle : ICloneable
@@ -18,48 +16,48 @@ public sealed class Rectangle : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](rectangle)(double, double, double, double) | Constructor of Rectangle. |
+| [Rectangle](rectangle)(double, double, double, double, bool) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/rectangle/trivial) { get; } | Initializes trivial rectangle i.e. rectangle with zero position and size. |
-| [Height](../../aspose.pdf/rectangle/height) { get; } | Height of rectangle. |
-| [IsEmpty](../../aspose.pdf/rectangle/isempty) { get; } | Checks if rectangle is empty. |
-| [IsPoint](../../aspose.pdf/rectangle/ispoint) { get; } | Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY. |
-| [IsTrivial](../../aspose.pdf/rectangle/istrivial) { get; } | Checks if rectangle is trivial i.e. has zero size and position. |
-| [LLX](../../aspose.pdf/rectangle/llx) { get; set; } | X-coordinate of lower - left corner. |
-| [LLY](../../aspose.pdf/rectangle/lly) { get; set; } | Y - coordinate of lower-left corner. |
-| [URX](../../aspose.pdf/rectangle/urx) { get; set; } | X - coordinate of upper-right corner. |
-| [URY](../../aspose.pdf/rectangle/ury) { get; set; } | Y - coordinate of upper-right corner. |
-| [Width](../../aspose.pdf/rectangle/width) { get; } | Width of rectangle. |
+| static [Trivial](../../aspose.pdf/rectangle/trivial) { get; } |  |
+| [Height](../../aspose.pdf/rectangle/height) { get; } |  |
+| [IsEmpty](../../aspose.pdf/rectangle/isempty) { get; } |  |
+| [IsPoint](../../aspose.pdf/rectangle/ispoint) { get; } |  |
+| [IsTrivial](../../aspose.pdf/rectangle/istrivial) { get; } |  |
+| [LLX](../../aspose.pdf/rectangle/llx) { get; set; } |  |
+| [LLY](../../aspose.pdf/rectangle/lly) { get; set; } |  |
+| [URX](../../aspose.pdf/rectangle/urx) { get; set; } |  |
+| [URY](../../aspose.pdf/rectangle/ury) { get; set; } |  |
+| [Width](../../aspose.pdf/rectangle/width) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromRect](../../aspose.pdf/rectangle/fromrect)(Rectangle) | Initializes new rectangle from given instance of System.Drawing.Rectangle. |
-| static [Parse](../../aspose.pdf/rectangle/parse)(string) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
-| [Center](../../aspose.pdf/rectangle/center)() | Returncs coordinates of center of the rectangle. |
-| [Clone](../../aspose.pdf/rectangle/clone)() | Clones the Rectangle object. |
-| [Contains](../../aspose.pdf/rectangle/contains)(Point) | Determinces whether given point is inside of the rectangle. |
-| [Equals](../../aspose.pdf/rectangle/equals#equals)(Rectangle) | Check if rectangles are equal i.e. have same position and sizes. |
-| [Intersect](../../aspose.pdf/rectangle/intersect)(Rectangle) | Intersects to rectangles. |
-| [IsIntersect](../../aspose.pdf/rectangle/isintersect)(Rectangle) | Determines whether this rectangle intersects with other rectangle. |
-| [Join](../../aspose.pdf/rectangle/join)(Rectangle) | Joins rectangles. |
-| [NearEquals](../../aspose.pdf/rectangle/nearequals)(Rectangle, double) | Check if rectangles are near equal i.e. have near same (up to delta) position and sizes. |
-| [Rotate](../../aspose.pdf/rectangle/rotate#rotate_1)(int) | Rotate rectangle by the specified angle. |
-| [Rotate](../../aspose.pdf/rectangle/rotate#rotate)(Rotation) | Rotate rectangle by the specified angle. |
-| [ToPoints](../../aspose.pdf/rectangle/topoints)() | Converts rectangle into array of points ("QuadPoints"). |
-| [ToRect](../../aspose.pdf/rectangle/torect)() | Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated. |
-| override [ToString](../../aspose.pdf/rectangle/tostring)() | Gets rectangle string representation. |
+| static [FromRect](../../aspose.pdf/rectangle/fromrect)(Rectangle) |  |
+| static [Parse](../../aspose.pdf/rectangle/parse)(string) |  |
+| [Center](../../aspose.pdf/rectangle/center)() |  |
+| [Clone](../../aspose.pdf/rectangle/clone)() |  |
+| [Contains](../../aspose.pdf/rectangle/contains)(Point) |  |
+| [Equals](../../aspose.pdf/rectangle/equals#equals)(Rectangle) |  |
+| [Intersect](../../aspose.pdf/rectangle/intersect)(Rectangle) |  |
+| [IsIntersect](../../aspose.pdf/rectangle/isintersect)(Rectangle) |  |
+| [Join](../../aspose.pdf/rectangle/join)(Rectangle) |  |
+| [NearEquals](../../aspose.pdf/rectangle/nearequals)(Rectangle, double) |  |
+| [Rotate](../../aspose.pdf/rectangle/rotate#rotate_1)(int) |  |
+| [Rotate](../../aspose.pdf/rectangle/rotate#rotate)(Rotation) |  |
+| [ToPoints](../../aspose.pdf/rectangle/topoints)() |  |
+| [ToRect](../../aspose.pdf/rectangle/torect)() |  |
+| override [ToString](../../aspose.pdf/rectangle/tostring)() |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static [Empty](../../aspose.pdf/rectangle/empty) | Empty rectangle |
+| static [Empty](../../aspose.pdf/rectangle/empty) |  |
 
 ### See Also
 

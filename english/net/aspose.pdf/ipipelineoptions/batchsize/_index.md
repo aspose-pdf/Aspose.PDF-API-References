@@ -1,14 +1,12 @@
 ---
 title: BatchSize
 second_title: Aspose.PDF for .NET API Reference
-description: Specifies the size of a portion of pages to pass from node to node.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/ipipelineoptions/batchsize/
 ---
 ## IPipelineOptions.BatchSize property
-
-Specifies the size of a portion of pages to pass from node to node.
 
 ```csharp
 public int BatchSize { get; set; }

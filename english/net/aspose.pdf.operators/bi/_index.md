@@ -1,14 +1,12 @@
 ---
 title: BI
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing BI operator Begin inline image obect.
+description: 
 type: docs
-weight: 4890
+weight: 4840
 url: /net/aspose.pdf.operators/bi/
 ---
 ## BI class
-
-Class representing BI operator (Begin inline image obect).
 
 ```csharp
 public class BI : Operator
@@ -18,20 +16,20 @@ public class BI : Operator
 
 | Name | Description |
 | --- | --- |
-| [BI](bi)() | Initializes operator. |
+| [BI](bi)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bi/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/bi/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

@@ -1,27 +1,16 @@
 ---
 title: op_Inequality
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true if two Colors are not equal.
+description: 
 type: docs
 weight: 1570
 url: /net/aspose.pdf/color/op_inequality/
 ---
 ## Color Inequality operator
 
-Returns true if two Colors are not equal.
-
 ```csharp
 public static bool operator !=(Color x, Color y)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Color | First Color object. |
-| y | Color | Second Color object. |
-
-### Return Value
-
-True in case Color objects are not equal.
 
 ### See Also
 

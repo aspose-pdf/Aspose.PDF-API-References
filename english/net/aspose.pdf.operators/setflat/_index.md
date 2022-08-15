@@ -1,14 +1,12 @@
 ---
 title: SetFlat
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing i operator set flatness tolerance.
+description: 
 type: docs
-weight: 5460
+weight: 5410
 url: /net/aspose.pdf.operators/setflat/
 ---
 ## SetFlat class
-
-Class representing i operator (set flatness tolerance).
 
 ```csharp
 public class SetFlat : Operator
@@ -18,21 +16,21 @@ public class SetFlat : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetFlat](setflat)(double) | Initializes operator. |
+| [SetFlat](setflat)(double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Flatness](../../aspose.pdf.operators/setflat/flatness) { get; set; } | Gets or sets the flatness. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Flatness](../../aspose.pdf.operators/setflat/flatness) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setflat/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/setflat/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

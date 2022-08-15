@@ -1,14 +1,12 @@
 ---
 title: TextAlign_End
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute TextAlign End - Aligned with the end edge.
+description: 
 type: docs
 weight: 560
 url: /net/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
 ## AttributeName.TextAlign_End field
-
-Attribute TextAlign: End - Aligned with the end edge.
 
 ```csharp
 public static readonly AttributeName TextAlign_End;

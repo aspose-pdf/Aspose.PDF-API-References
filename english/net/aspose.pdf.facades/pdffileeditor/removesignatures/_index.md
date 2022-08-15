@@ -1,14 +1,12 @@
 ---
 title: RemoveSignatures
 second_title: Aspose.PDF for .NET API Reference
-description: If true all signatures will be removed from fields fields will remain otherwise you can get invalid signatures.
+description: 
 type: docs
-weight: 210
+weight: 190
 url: /net/aspose.pdf.facades/pdffileeditor/removesignatures/
 ---
 ## PdfFileEditor.RemoveSignatures property
-
-If true, all signatures will be removed from fields (fields will remain); otherwise, you can get invalid signatures.
 
 ```csharp
 public bool RemoveSignatures { get; set; }

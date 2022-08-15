@@ -1,14 +1,12 @@
 ---
 title: Contents
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the layer content.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/layer/contents/
 ---
 ## Layer.Contents property
-
-Gets the layer content.
 
 ```csharp
 public List<Operator> Contents { get; }

@@ -1,14 +1,12 @@
 ---
 title: CorruptedFileAction
 second_title: Aspose.PDF for .NET API Reference
-description: This property defines behavior when concatenating process met corrupted file. Possible values are StopWithError and ConcatenateIgnoringCorrupted.
+description: 
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/
 ---
 ## PdfFileEditor.CorruptedFileAction property
-
-This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnoringCorrupted.
 
 ```csharp
 public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }

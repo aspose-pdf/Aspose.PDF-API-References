@@ -1,14 +1,12 @@
 ---
 title: DefaultAppearanceObject
 second_title: Aspose.PDF for .NET API Reference
-description: Object which represents default appearance of FreeText annotation.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/freetextannotation/defaultappearanceobject/
 ---
 ## FreeTextAnnotation.DefaultAppearanceObject property
-
-Object which represents default appearance of FreeText annotation.
 
 ```csharp
 public DefaultAppearance DefaultAppearanceObject { get; }

@@ -1,14 +1,12 @@
 ---
 title: ObsoleteFill
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing F operator fill path using nonzero winding rule.
+description: 
 type: docs
-weight: 5290
+weight: 5240
 url: /net/aspose.pdf.operators/obsoletefill/
 ---
 ## ObsoleteFill class
-
-Class representing F operator (fill path using nonzero winding rule).
 
 ```csharp
 public class ObsoleteFill : Operator
@@ -18,20 +16,20 @@ public class ObsoleteFill : Operator
 
 | Name | Description |
 | --- | --- |
-| [ObsoleteFill](obsoletefill)() | Initializes operator. |
+| [ObsoleteFill](obsoletefill)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/obsoletefill/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/obsoletefill/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

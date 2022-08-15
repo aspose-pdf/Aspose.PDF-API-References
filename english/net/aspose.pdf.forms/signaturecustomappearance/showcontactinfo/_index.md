@@ -1,14 +1,12 @@
 ---
 title: ShowContactInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets contact info visibility. Default value true.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/
 ---
 ## SignatureCustomAppearance.ShowContactInfo property
-
-Gets/sets contact info visibility. Default value: true.
 
 ```csharp
 public bool ShowContactInfo { get; set; }

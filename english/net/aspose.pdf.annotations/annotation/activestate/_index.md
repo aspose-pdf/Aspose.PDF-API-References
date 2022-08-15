@@ -1,14 +1,12 @@
 ---
 title: ActiveState
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets current annotation appearance state.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/annotation/activestate/
 ---
 ## Annotation.ActiveState property
-
-Gets or sets current annotation appearance state.
 
 ```csharp
 public virtual string ActiveState { get; set; }

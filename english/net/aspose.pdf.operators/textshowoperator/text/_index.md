@@ -1,14 +1,12 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API Reference
-description: Gets text which operator out on the page.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.operators/textshowoperator/text/
 ---
 ## TextShowOperator.Text property
-
-Gets text which operator out on the page.
 
 ```csharp
 public virtual string Text { get; set; }

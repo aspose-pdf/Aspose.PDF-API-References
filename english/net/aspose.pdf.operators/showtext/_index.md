@@ -1,14 +1,12 @@
 ---
 title: ShowText
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing Tj operator show text.
+description: 
 type: docs
-weight: 5640
+weight: 5590
 url: /net/aspose.pdf.operators/showtext/
 ---
 ## ShowText class
-
-Class representing Tj operator (show text).
 
 ```csharp
 public class ShowText : TextShowOperator
@@ -18,24 +16,24 @@ public class ShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [ShowText](showtext#constructor)() | Initializes Tj operator. |
-| [ShowText](showtext#constructor_2)(string) | Initializes Tj operator. |
-| [ShowText](showtext#constructor_1)(int, string) | Initializes Tj opearor. |
-| [ShowText](showtext#constructor_3)(string, Font) | Initializes Tj opearor. |
+| [ShowText](showtext#constructor)() | The default constructor. |
+| [ShowText](showtext#constructor_2)(string) |  |
+| [ShowText](showtext#constructor_1)(int, string) |  |
+| [ShowText](showtext#constructor_3)(string, Font) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| override [Text](../../aspose.pdf.operators/showtext/text) { get; set; } | Text of operator. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| override [Text](../../aspose.pdf.operators/showtext/text) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/showtext/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/showtext/tostring)() | Produces text code of operator. |
+| override [Accept](../../aspose.pdf.operators/showtext/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/showtext/tostring)() |  |
 
 ### See Also
 

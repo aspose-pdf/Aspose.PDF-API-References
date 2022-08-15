@@ -1,14 +1,14 @@
 ---
 title: QueueItem
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor specifies mac subtable10 by default
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
 ---
 ## QueueItem() {#constructor}
 
-Constructor, specifies mac subtable(1,0) by default
+The default constructor.
 
 ```csharp
 public QueueItem()
@@ -24,16 +24,9 @@ public QueueItem()
 
 ## QueueItem(ushort, ushort) {#constructor_2}
 
-Constructor
-
 ```csharp
 public QueueItem(ushort platformID, ushort platformSpecificID)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| platformID | UInt16 | Platform identifier for encoding subtable |
-| platformSpecificID | UInt16 | Platform-specific encoding identifier for encoding subtable |
 
 ### See Also
 
@@ -45,15 +38,9 @@ public QueueItem(ushort platformID, ushort platformSpecificID)
 
 ## QueueItem(CMapEncodingTableType) {#constructor_1}
 
-Constructor
-
 ```csharp
 public QueueItem(CMapEncodingTableType cmapTable)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cmapTable | CMapEncodingTableType | encoding subtable |
 
 ### See Also
 

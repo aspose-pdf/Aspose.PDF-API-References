@@ -1,14 +1,12 @@
 ---
 title: TBGLITTER
 second_title: Aspose.PDF for .NET API Reference
-description: Top-Bottom Glitter
+description: 
 type: docs
 weight: 330
 url: /net/aspose.pdf.facades/pdfpageeditor/tbglitter/
 ---
 ## PdfPageEditor.TBGLITTER field
-
-Top-Bottom Glitter
 
 ```csharp
 public const int TBGLITTER;

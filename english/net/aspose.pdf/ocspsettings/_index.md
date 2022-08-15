@@ -1,14 +1,12 @@
 ---
 title: OcspSettings
 second_title: Aspose.PDF for .NET API Reference
-description: Represents the ocsp settings using during signing process.
+description: 
 type: docs
-weight: 4840
+weight: 4790
 url: /net/aspose.pdf/ocspsettings/
 ---
 ## OcspSettings class
-
-Represents the ocsp settings using during signing process.
 
 ```csharp
 public class OcspSettings
@@ -18,13 +16,13 @@ public class OcspSettings
 
 | Name | Description |
 | --- | --- |
-| [OcspSettings](ocspsettings)(string) | Initializes a new instance of the [`OcspSettings`](../ocspsettings) class. |
+| [OcspSettings](ocspsettings)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl) { get; set; } | Gets/sets the ocsp server url. |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl) { get; set; } |  |
 
 ### See Also
 

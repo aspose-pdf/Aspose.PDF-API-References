@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
-description: Returns enumerator for collection
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/operatorcollection/getenumerator/
 ---
 ## OperatorCollection.GetEnumerator method
 
-Returns enumerator for collection
-
 ```csharp
 public override IEnumerator<Operator> GetEnumerator()
 ```
-
-### Return Value
-
-Collection enumerator
 
 ### See Also
 

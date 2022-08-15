@@ -1,14 +1,12 @@
 ---
 title: Scope
 second_title: Aspose.PDF for .NET API Reference
-description: Scope attribute Table attribute owner.
+description: 
 type: docs
 weight: 280
 url: /net/aspose.pdf.logicalstructure/attributekey/scope/
 ---
 ## AttributeKey.Scope field
-
-Scope attribute (Table attribute owner).
 
 ```csharp
 public static readonly AttributeKey Scope;

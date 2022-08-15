@@ -1,14 +1,12 @@
 ---
 title: Id
 second_title: Aspose.PDF for .NET API Reference
-description: Represents file identifier structure.
+description: 
 type: docs
-weight: 3710
+weight: 3660
 url: /net/aspose.pdf/id/
 ---
 ## Id class
-
-Represents file identifier structure.
 
 ```csharp
 public class Id
@@ -18,16 +16,8 @@ public class Id
 
 | Name | Description |
 | --- | --- |
-| [Modified](../../aspose.pdf/id/modified) { get; } | Changing identifier based on the document's contents at the time it was last updated. |
-| [Original](../../aspose.pdf/id/original) { get; } | Permanent identifier based on the contents of the document at the time it was originally created. |
-
-### Examples
-
-```csharp
-Document doc = new Document("example.pdf");
-string original = doc.Id.Original;
-string modified = doc.Id.Modified;
-```
+| [Modified](../../aspose.pdf/id/modified) { get; } |  |
+| [Original](../../aspose.pdf/id/original) { get; } |  |
 
 ### See Also
 

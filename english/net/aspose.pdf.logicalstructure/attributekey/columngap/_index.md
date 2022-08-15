@@ -1,14 +1,12 @@
 ---
 title: ColumnGap
 second_title: Aspose.PDF for .NET API Reference
-description: ColumnGap attribute Layout attribute owner.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.logicalstructure/attributekey/columngap/
 ---
 ## AttributeKey.ColumnGap field
-
-ColumnGap attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey ColumnGap;

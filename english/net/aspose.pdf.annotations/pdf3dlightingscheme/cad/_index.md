@@ -1,14 +1,12 @@
 ---
 title: CAD
 second_title: Aspose.PDF for .NET API Reference
-description: The Cad lighting scheme.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/cad/
 ---
 ## PDF3DLightingScheme.CAD field
-
-The "Cad" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme CAD;

@@ -1,14 +1,12 @@
 ---
 title: RenderingOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Represents rendering options.
+description: 
 type: docs
-weight: 6200
+weight: 6150
 url: /net/aspose.pdf/renderingoptions/
 ---
 ## RenderingOptions class
-
-Represents rendering options.
 
 ```csharp
 public sealed class RenderingOptions
@@ -24,19 +22,20 @@ public sealed class RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization) { get; set; } | Gets or sets barcode optimization mode. |
-| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf) { get; set; } | Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF font will have not all the symbols from source font, but only symbols which are used in text. |
-| [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname) { get; set; } | Gets/sets the default name of font used to substitute of missing fonts. |
-| [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits) { get; set; } | Gets or sets a value used to increase or decrease the width of rectangle for AppendRectangle operator. |
-| [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality) { get; set; } | Gets or sets hiqh quality mode for interpolation. |
-| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | Maximum count of fonts in fonts cache. Default value is 10. |
-| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | Maximum count of symbols in symbol cache. Default value is 100. |
-| [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } | Gets or sets optimize dimensions mode. |
-| [ScaleImagesToFitPageWidth](../../aspose.pdf/renderingoptions/scaleimagestofitpagewidth) { get; set; } | Gets or sets a values used to scale all images on the page to fit page's width. |
-| [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } | Gets or sets a mode where system fonts are rendered natively. |
-| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } | Usage of this flag turn on font hinting mechanism. Font hinting is the use of mathematical instructions to adjust the display of an outline font. In some cases turning this flag on may solve problems with text legibility. At current moment usage of this flag could give effect only for TTF fonts, if these fonts are used in source document. |
-| [UseNewImagingEngine](../../aspose.pdf/renderingoptions/usenewimagingengine) { get; set; } | Gets or sets a flag determines whether new imaging engine is used or not. |
-| [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits) { get; set; } | Gets or sets a value used to increase or decrease the width of rectangle for AppendRectangle operator. |
+| [BarcodeOptimization](../../aspose.pdf/renderingoptions/barcodeoptimization) { get; set; } |  |
+| [ConvertFontsToUnicodeTTF](../../aspose.pdf/renderingoptions/convertfontstounicodettf) { get; set; } |  |
+| [DefaultFontName](../../aspose.pdf/renderingoptions/defaultfontname) { get; set; } |  |
+| [HeightExtraUnits](../../aspose.pdf/renderingoptions/heightextraunits) { get; set; } |  |
+| [IgnoreResourceFontErrors](../../aspose.pdf/renderingoptions/ignoreresourcefonterrors) { get; set; } |  |
+| [InterpolationHighQuality](../../aspose.pdf/renderingoptions/interpolationhighquality) { get; set; } |  |
+| [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } |  |
+| [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } |  |
+| [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } |  |
+| [ScaleImagesToFitPageWidth](../../aspose.pdf/renderingoptions/scaleimagestofitpagewidth) { get; set; } |  |
+| [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } |  |
+| [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } |  |
+| [UseNewImagingEngine](../../aspose.pdf/renderingoptions/usenewimagingengine) { get; set; } |  |
+| [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits) { get; set; } |  |
 
 ### See Also
 

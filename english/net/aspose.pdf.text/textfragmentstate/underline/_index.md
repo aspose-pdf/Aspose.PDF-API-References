@@ -1,14 +1,12 @@
 ---
 title: Underline
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets underline for the text represented by the TextFragmentaspose.pdf.text/textfragment object
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf.text/textfragmentstate/underline/
 ---
 ## TextFragmentState.Underline property
-
-Gets or sets underline for the text, represented by the [`TextFragment`](../../textfragment) object
 
 ```csharp
 public override bool Underline { get; set; }

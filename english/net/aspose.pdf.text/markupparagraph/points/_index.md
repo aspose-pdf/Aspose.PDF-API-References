@@ -1,14 +1,12 @@
 ---
 title: Points
 second_title: Aspose.PDF for .NET API Reference
-description: Points of polygon that describes paragraph. Starting point is lower left corner of the paragraph. And next points are in anti-clockwise sequence.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/markupparagraph/points/
 ---
 ## MarkupParagraph.Points property
-
-Points of polygon that describes paragraph. Starting point is lower left corner of the paragraph. And next points are in anti-clockwise sequence.
 
 ```csharp
 public Point[] Points { get; }

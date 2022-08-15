@@ -1,14 +1,12 @@
 ---
 title: ImportFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Specifies import format.
+description: 
 type: docs
-weight: 3800
+weight: 3750
 url: /net/aspose.pdf/importformat/
 ---
 ## ImportFormat enumeration
-
-Specifies import format.
 
 ```csharp
 public enum ImportFormat
@@ -18,7 +16,7 @@ public enum ImportFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Cgm | `1` | Computer Graphics Metafile format. |
+| Cgm | `1` |  |
 
 ### See Also
 

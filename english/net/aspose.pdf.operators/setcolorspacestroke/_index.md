@@ -1,14 +1,12 @@
 ---
 title: SetColorSpaceStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing CS operator set color for stroking operations.
+description: 
 type: docs
-weight: 5430
+weight: 5380
 url: /net/aspose.pdf.operators/setcolorspacestroke/
 ---
 ## SetColorSpaceStroke class
-
-Class representing CS operator (set color for stroking operations).
 
 ```csharp
 public class SetColorSpaceStroke : Operator
@@ -18,21 +16,21 @@ public class SetColorSpaceStroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetColorSpaceStroke](setcolorspacestroke)(string) | Initializes operator. |
+| [SetColorSpaceStroke](setcolorspacestroke)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [Name](../../aspose.pdf.operators/setcolorspacestroke/name) { get; set; } | Gets or sets color space name. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Name](../../aspose.pdf.operators/setcolorspacestroke/name) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: EncodingFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the encoding format.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/soundsampledata/encodingformat/
 ---
 ## SoundSampleData.EncodingFormat property
-
-Gets or sets the encoding format.
 
 ```csharp
 public SoundSampleDataEncodingFormat EncodingFormat { get; set; }

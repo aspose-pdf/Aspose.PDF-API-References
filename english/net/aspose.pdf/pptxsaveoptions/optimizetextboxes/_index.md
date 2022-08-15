@@ -1,14 +1,12 @@
 ---
 title: OptimizeTextBoxes
 second_title: Aspose.PDF for .NET API Reference
-description: Toggles text columns recognition
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 ---
 ## PptxSaveOptions.OptimizeTextBoxes property
-
-Toggles text columns recognition
 
 ```csharp
 public bool OptimizeTextBoxes { get; set; }

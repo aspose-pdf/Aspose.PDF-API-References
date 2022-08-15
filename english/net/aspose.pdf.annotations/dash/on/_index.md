@@ -1,14 +1,12 @@
 ---
 title: On
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets length of dash.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/dash/on/
 ---
 ## Dash.On property
-
-Gets or sets length of dash.
 
 ```csharp
 public int On { get; set; }

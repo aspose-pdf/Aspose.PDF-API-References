@@ -1,14 +1,12 @@
 ---
 title: CancelUpdate
 second_title: Aspose.PDF for .NET API Reference
-description: Cancels last update. This method may be called when the change should not raise contents update.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/baseoperatorcollection/cancelupdate/
 ---
 ## BaseOperatorCollection.CancelUpdate method
-
-Cancels last update. This method may be called when the change should not raise contents update.
 
 ```csharp
 public abstract void CancelUpdate()

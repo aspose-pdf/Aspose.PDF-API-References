@@ -1,14 +1,12 @@
 ---
 title: PageMarkup
 second_title: Aspose.PDF for .NET API Reference
-description: Page markup represented by collections of MarkupSection./markupsection and MarkupParagraph./markupparagraph.
+description: 
 type: docs
-weight: 6840
+weight: 6790
 url: /net/aspose.pdf.text/pagemarkup/
 ---
 ## PageMarkup class
-
-Page markup represented by collections of [`MarkupSection`](../markupsection) and [`MarkupParagraph`](../markupparagraph).
 
 ```csharp
 public sealed class PageMarkup
@@ -18,12 +16,12 @@ public sealed class PageMarkup
 
 | Name | Description |
 | --- | --- |
-| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/pagemarkup/ismulticolumnparagraphsallowed) { get; set; } | Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section. |
-| [Number](../../aspose.pdf.text/pagemarkup/number) { get; } | Gets processed page number. |
-| [Paragraphs](../../aspose.pdf.text/pagemarkup/paragraphs) { get; } | Gets collection of [`MarkupParagraph`](../markupparagraph) that was found on the page. |
-| [Rectangle](../../aspose.pdf.text/pagemarkup/rectangle) { get; } | Gets processed page rectangle. |
-| [Sections](../../aspose.pdf.text/pagemarkup/sections) { get; } | Gets collection of [`MarkupSection`](../markupsection) that was found on the page. |
-| [TextFragments](../../aspose.pdf.text/pagemarkup/textfragments) { get; } | Gets collection of [`TextFragment`](../textfragment) that was found on the page. |
+| [IsMulticolumnParagraphsAllowed](../../aspose.pdf.text/pagemarkup/ismulticolumnparagraphsallowed) { get; set; } |  |
+| [Number](../../aspose.pdf.text/pagemarkup/number) { get; } |  |
+| [Paragraphs](../../aspose.pdf.text/pagemarkup/paragraphs) { get; } |  |
+| [Rectangle](../../aspose.pdf.text/pagemarkup/rectangle) { get; } |  |
+| [Sections](../../aspose.pdf.text/pagemarkup/sections) { get; } |  |
+| [TextFragments](../../aspose.pdf.text/pagemarkup/textfragments) { get; } |  |
 
 ### See Also
 

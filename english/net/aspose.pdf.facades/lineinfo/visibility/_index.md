@@ -1,14 +1,12 @@
 ---
 title: Visibility
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the visibility of a line.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.facades/lineinfo/visibility/
 ---
 ## LineInfo.Visibility property
-
-Gets or sets the visibility of a line.
 
 ```csharp
 public bool Visibility { get; set; }

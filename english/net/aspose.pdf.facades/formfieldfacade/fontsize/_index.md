@@ -1,14 +1,12 @@
 ---
 title: FontSize
 second_title: Aspose.PDF for .NET API Reference
-description: The size of a field text.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
 ## FormFieldFacade.FontSize property
-
-The size of a field text.
 
 ```csharp
 public float FontSize { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: BorderCornerStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the border corner styles for border.
+description: 
 type: docs
-weight: 1400
+weight: 1350
 url: /net/aspose.pdf/bordercornerstyle/
 ---
 ## BorderCornerStyle enumeration
-
-Enumerates the border corner styles for border.
 
 ```csharp
 public enum BorderCornerStyle
@@ -18,8 +16,8 @@ public enum BorderCornerStyle
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | None border style. |
-| Round | `1` | Round border style. |
+| None | `0` |  |
+| Round | `1` |  |
 
 ### See Also
 

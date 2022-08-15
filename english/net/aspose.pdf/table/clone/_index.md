@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clone the table.
+description: 
 type: docs
 weight: 220
 url: /net/aspose.pdf/table/clone/
 ---
 ## Table.Clone method
 
-Clone the table.
-
 ```csharp
 public override object Clone()
 ```
-
-### Return Value
-
-The cloned object
 
 ### See Also
 

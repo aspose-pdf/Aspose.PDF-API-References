@@ -1,14 +1,12 @@
 ---
 title: AFRelationship
 second_title: Aspose.PDF for .NET API Reference
-description: Enumeration describes associated files relationship.
+description: 
 type: docs
-weight: 60
+weight: 10
 url: /net/aspose.pdf/afrelationship/
 ---
 ## AFRelationship enumeration
-
-Enumeration describes associated files relationship.
 
 ```csharp
 public enum AFRelationship
@@ -18,13 +16,13 @@ public enum AFRelationship
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Source | `0` | Source |
-| Data | `1` | Data |
-| Alternative | `2` | Alternative |
-| Supplement | `3` | Supplement |
-| Unspecified | `4` | Unspecified |
-| EncryptedPayload | `5` | EncryptedPayload |
-| None | `6` | None |
+| Source | `0` |  |
+| Data | `1` |  |
+| Alternative | `2` |  |
+| Supplement | `3` |  |
+| Unspecified | `4` |  |
+| EncryptedPayload | `5` |  |
+| None | `6` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: PrintController
 second_title: Aspose.PDF for .NET API Reference
-description: Represents print controller.
+description: 
 type: docs
-weight: 6150
+weight: 6100
 url: /net/aspose.pdf/printcontroller/
 ---
 ## PrintController class
-
-Represents print controller.
 
 ```csharp
 public sealed class PrintController : PrintController, IDisposable
@@ -24,17 +22,17 @@ public sealed class PrintController : PrintController, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [FileName](../../aspose.pdf/printcontroller/filename) { get; set; } | Gets or sets file name. |
+| [FileName](../../aspose.pdf/printcontroller/filename) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf/printcontroller/dispose)() | Dispose. |
-| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage)(PrintDocument, PrintPageEventArgs) | Fires on page end printing. |
-| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
-| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage)(PrintDocument, PrintPageEventArgs) | Fires on page start printing. |
-| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
+| [Dispose](../../aspose.pdf/printcontroller/dispose)() |  |
+| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage)(PrintDocument, PrintPageEventArgs) |  |
+| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint)(PrintDocument, PrintEventArgs) |  |
+| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage)(PrintDocument, PrintPageEventArgs) |  |
+| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint)(PrintDocument, PrintEventArgs) |  |
 
 ### See Also
 

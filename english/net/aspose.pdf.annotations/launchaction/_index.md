@@ -1,14 +1,12 @@
 ---
 title: LaunchAction
 second_title: Aspose.PDF for .NET API Reference
-description: Represents a launch action that launches an application or opens or prints a document.
+description: 
 type: docs
-weight: 570
+weight: 520
 url: /net/aspose.pdf.annotations/launchaction/
 ---
 ## LaunchAction class
-
-Represents a launch action that launches an application or opens or prints a document.
 
 ```csharp
 public sealed class LaunchAction : PdfAction
@@ -18,16 +16,16 @@ public sealed class LaunchAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [LaunchAction](launchaction#constructor_1)(string) | Creates a launch action. |
-| [LaunchAction](launchaction#constructor)(Document, string) | Creates a launch action. |
+| [LaunchAction](launchaction#constructor_1)(string) |  |
+| [LaunchAction](launchaction#constructor)(Document, string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [File](../../aspose.pdf.annotations/launchaction/file) { get; set; } | Gets or sets the application to be launched or the document to be opened or printed. |
-| [NewWindow](../../aspose.pdf.annotations/launchaction/newwindow) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
-| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Next actions in sequence. |
+| [File](../../aspose.pdf.annotations/launchaction/file) { get; set; } |  |
+| [NewWindow](../../aspose.pdf.annotations/launchaction/newwindow) { get; set; } |  |
+| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } |  |
 
 ### See Also
 

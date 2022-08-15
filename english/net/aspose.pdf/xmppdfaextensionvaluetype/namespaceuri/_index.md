@@ -1,14 +1,12 @@
 ---
 title: NamespaceUri
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the namespace URI.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/
 ---
 ## XmpPdfAExtensionValueType.NamespaceUri property
-
-Gets the namespace URI.
 
 ```csharp
 public string NamespaceUri { get; }

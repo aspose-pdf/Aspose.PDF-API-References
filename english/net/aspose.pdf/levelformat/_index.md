@@ -1,14 +1,12 @@
 ---
 title: LevelFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Represents format of the table of contents.
+description: 
 type: docs
-weight: 3920
+weight: 3870
 url: /net/aspose.pdf/levelformat/
 ---
 ## LevelFormat class
-
-Represents format of the table of contents.
 
 ```csharp
 public class LevelFormat
@@ -24,10 +22,10 @@ public class LevelFormat
 
 | Name | Description |
 | --- | --- |
-| [LineDash](../../aspose.pdf/levelformat/linedash) { get; set; } | Gets or sets TOC line dash. |
-| [Margin](../../aspose.pdf/levelformat/margin) { get; set; } | Gets or sets a list level margin |
-| [SubsequentLinesIndent](../../aspose.pdf/levelformat/subsequentlinesindent) { get; set; } | Gets or sets a subsequent lines indent |
-| [TextState](../../aspose.pdf/levelformat/textstate) { get; set; } | Gets or sets a list level text state |
+| [LineDash](../../aspose.pdf/levelformat/linedash) { get; set; } |  |
+| [Margin](../../aspose.pdf/levelformat/margin) { get; set; } |  |
+| [SubsequentLinesIndent](../../aspose.pdf/levelformat/subsequentlinesindent) { get; set; } |  |
+| [TextState](../../aspose.pdf/levelformat/textstate) { get; set; } |  |
 
 ### See Also
 

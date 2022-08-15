@@ -1,26 +1,16 @@
 ---
 title: Equals
 second_title: Aspose.PDF for .NET API Reference
-description: Compares matrix against other object.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf/matrix3d/equals/
 ---
 ## Matrix3D.Equals method
 
-Compares matrix against other object.
-
 ```csharp
 public override bool Equals(object obj)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | Object | Object to compare. |
-
-### Return Value
-
-Returns true is other object is Matrix3D and all matrix members are equal to corresponding members of the matrix
 
 ### See Also
 

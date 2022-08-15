@@ -1,14 +1,14 @@
 ---
 title: HeaderArtifact
 second_title: Aspose.PDF for .NET API Reference
-description: Creates Header Artifact instance.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/headerartifact/headerartifact/
 ---
 ## HeaderArtifact constructor
 
-Creates Header Artifact instance.
+The default constructor.
 
 ```csharp
 public HeaderArtifact()

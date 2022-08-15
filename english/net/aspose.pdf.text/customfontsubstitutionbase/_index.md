@@ -1,14 +1,12 @@
 ---
 title: CustomFontSubstitutionBase
 second_title: Aspose.PDF for .NET API Reference
-description: Represents a base class for custom font substitution strategy.
+description: 
 type: docs
-weight: 6650
+weight: 6600
 url: /net/aspose.pdf.text/customfontsubstitutionbase/
 ---
 ## CustomFontSubstitutionBase class
-
-Represents a base class for custom font substitution strategy.
 
 ```csharp
 public class CustomFontSubstitutionBase : FontSubstitution
@@ -24,13 +22,13 @@ public class CustomFontSubstitutionBase : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute)(OriginalFontSpecification, out Font) | Substitutes original font with another font. |
+| virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute)(OriginalFontSpecification, out Font) |  |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| class [OriginalFontSpecification](customfontsubstitutionbase.originalfontspecification) | Represents original font specification. |
+| class [OriginalFontSpecification](customfontsubstitutionbase.originalfontspecification) |  |
 
 ### See Also
 

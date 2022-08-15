@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets action by its index.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/actioncollection/item/
 ---
 ## ActionCollection indexer
 
-Gets action by its index.
-
 ```csharp
 public PdfAction this[int index] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | Index of action. |
-
-### Return Value
-
-Retreived action.
 
 ### See Also
 

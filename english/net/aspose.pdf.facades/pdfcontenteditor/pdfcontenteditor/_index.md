@@ -1,14 +1,14 @@
 ---
 title: PdfContentEditor
 second_title: Aspose.PDF for .NET API Reference
-description: The constructor of the PdfContentEditor object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfcontenteditor/pdfcontenteditor/
 ---
 ## PdfContentEditor() {#constructor}
 
-The constructor of the PdfContentEditor object.
+The default constructor.
 
 ```csharp
 public PdfContentEditor()
@@ -24,15 +24,9 @@ public PdfContentEditor()
 
 ## PdfContentEditor(Document) {#constructor_1}
 
-Initializes new [`PdfContentEditor`](../../pdfcontenteditor) object on base of the *document*.
-
 ```csharp
 public PdfContentEditor(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Pdf document. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: TopMargin
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets top margin of stamp.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/stamp/topmargin/
 ---
 ## Stamp.TopMargin property
-
-Gets or sets top margin of stamp.
 
 ```csharp
 public double TopMargin { get; set; }

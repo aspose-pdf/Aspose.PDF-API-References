@@ -1,25 +1,17 @@
 ---
 title: SimpleFontSubstitution
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of SimpleFontSubstitutionaspose.pdf.text/simplefontsubstitution class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
 ---
 ## SimpleFontSubstitution constructor
 
-Initializes a new instance of [`SimpleFontSubstitution`](../../simplefontsubstitution) class.
-
 ```csharp
 public SimpleFontSubstitution(string originalFontName, string substitutionFontName, 
     bool isForcedBySaveOption = false)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| originalFontName | String | Original font name. |
-| substitutionFontName | String | Substitution font name. |
-| isForcedBySaveOption | Boolean | Substitution forced by DefaultFontName save option. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the action to be performed.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/namedaction/name/
 ---
 ## NamedAction.Name property
-
-Gets or sets the action to be performed.
 
 ```csharp
 public string Name { get; set; }

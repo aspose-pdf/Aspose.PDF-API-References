@@ -1,23 +1,16 @@
 ---
 title: SetMeteredKey
 second_title: Aspose.PDF for .NET API Reference
-description: Sets metered public and private key
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/metered/setmeteredkey/
 ---
 ## Metered.SetMeteredKey method
 
-Sets metered public and private key
-
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| publicKey | String | public key |
-| privateKey | String | private key |
 
 ### See Also
 

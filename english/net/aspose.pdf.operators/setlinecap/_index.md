@@ -1,14 +1,12 @@
 ---
 title: SetLineCap
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing J operator set line cap style.
+description: 
 type: docs
-weight: 5510
+weight: 5460
 url: /net/aspose.pdf.operators/setlinecap/
 ---
 ## SetLineCap class
-
-Class representing J operator (set line cap style).
 
 ```csharp
 public class SetLineCap : Operator
@@ -18,14 +16,14 @@ public class SetLineCap : Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinecap/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/setlinecap/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: DocumentClose
 second_title: Aspose.PDF for .NET API Reference
-description: A document event type. Closes a document.
+description: 
 type: docs
 weight: 470
 url: /net/aspose.pdf.facades/pdfcontenteditor/documentclose/
 ---
 ## PdfContentEditor.DocumentClose field
-
-A document event type. Closes a document.
 
 ```csharp
 public const string DocumentClose;

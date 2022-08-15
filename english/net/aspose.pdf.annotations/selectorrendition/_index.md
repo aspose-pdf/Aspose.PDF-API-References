@@ -1,14 +1,12 @@
 ---
 title: SelectorRendition
 second_title: Aspose.PDF for .NET API Reference
-description: Class describes selector rendition.
+description: 
 type: docs
-weight: 1070
+weight: 1020
 url: /net/aspose.pdf.annotations/selectorrendition/
 ---
 ## SelectorRendition class
-
-Class describes selector rendition.
 
 ```csharp
 public sealed class SelectorRendition : Rendition
@@ -18,9 +16,9 @@ public sealed class SelectorRendition : Rendition
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
-| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions) { get; } | Gets array of renditions. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype) { get; } | Gets rendition type. |
+| [Name](../../aspose.pdf.annotations/rendition/name) { get; set; } |  |
+| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions) { get; } |  |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype) { get; } |  |
 
 ### See Also
 

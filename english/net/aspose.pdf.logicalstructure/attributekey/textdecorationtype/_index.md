@@ -1,14 +1,12 @@
 ---
 title: TextDecorationType
 second_title: Aspose.PDF for .NET API Reference
-description: TextDecorationType attribute Layout attribute owner.
+description: 
 type: docs
 weight: 370
 url: /net/aspose.pdf.logicalstructure/attributekey/textdecorationtype/
 ---
 ## AttributeKey.TextDecorationType field
-
-TextDecorationType attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey TextDecorationType;

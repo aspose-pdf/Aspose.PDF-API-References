@@ -1,26 +1,16 @@
 ---
 title: IndexOf
 second_title: Aspose.PDF for .NET API Reference
-description: Returns index of row in collection.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/rows/indexof/
 ---
 ## Rows.IndexOf method
 
-Returns index of row in collection.
-
 ```csharp
 public int IndexOf(Row row)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| row | Row | The existing row. |
-
-### Return Value
-
-The row index
 
 ### See Also
 

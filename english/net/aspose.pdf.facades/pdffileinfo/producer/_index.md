@@ -1,14 +1,12 @@
 ---
 title: Producer
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the Producer information of PDF document.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.facades/pdffileinfo/producer/
 ---
 ## PdfFileInfo.Producer property
-
-Gets the Producer information of PDF document.
 
 ```csharp
 public string Producer { get; }

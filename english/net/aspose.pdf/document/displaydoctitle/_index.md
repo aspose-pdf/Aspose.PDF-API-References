@@ -1,26 +1,15 @@
 ---
 title: DisplayDocTitle
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets flag specifying whether documents window title bar should display document title.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf/document/displaydoctitle/
 ---
 ## Document.DisplayDocTitle property
 
-Gets or sets flag specifying whether document's window title bar should display document title.
-
 ```csharp
 public bool DisplayDocTitle { get; set; }
-```
-
-### Examples
-
-Example demonstrates how to get DisplayDocTitle flag:
-
-```csharp
-Document document = new Document("sample.pdf");
-bool value = document.DisplayDocTitle;
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: IsInList
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the heading should be in toc list.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/heading/isinlist/
 ---
 ## Heading.IsInList property
-
-Gets the heading should be in toc list.
 
 ```csharp
 public bool IsInList { get; set; }

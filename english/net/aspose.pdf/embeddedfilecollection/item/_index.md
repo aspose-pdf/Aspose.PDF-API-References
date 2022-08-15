@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets embedded file by its index.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/embeddedfilecollection/item/
 ---
 ## EmbeddedFileCollection indexer (1 of 2)
 
-Gets embedded file by its index.
-
 ```csharp
 public FileSpecification this[int index] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | Index of embedded file. Numbering is started from 1. |
-
-### Return Value
-
-Retreived embedded file specification
 
 ### See Also
 
@@ -33,19 +23,9 @@ Retreived embedded file specification
 
 ## EmbeddedFileCollection indexer (2 of 2)
 
-Gets embedded file by its name.
-
 ```csharp
 public FileSpecification this[string name] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| name | Embedded file name. |
-
-### Return Value
-
-Retreived embedded file specification.
 
 ### See Also
 

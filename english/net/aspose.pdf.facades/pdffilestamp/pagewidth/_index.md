@@ -1,25 +1,15 @@
 ---
 title: PageWidth
 second_title: Aspose.PDF for .NET API Reference
-description: Gets width of first page in input file.
+description: 
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
 ## PdfFileStamp.PageWidth property
 
-Gets width of first page in input file.
-
 ```csharp
 public float PageWidth { get; }
-```
-
-### Examples
-
-```csharp
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-Console.WriteLine("Width = " + fileStamp.PageWidth);
-fileStamp.Close();
 ```
 
 ### See Also

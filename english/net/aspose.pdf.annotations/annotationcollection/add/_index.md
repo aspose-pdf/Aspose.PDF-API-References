@@ -1,23 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/annotationcollection/add/
 ---
 ## Add(Annotation, bool) {#add_1}
 
-Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly.
-
 ```csharp
 public void Add(Annotation annotation, bool considerRotation)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | Annotation | Annotation which shall be added. |
-| considerRotation | Boolean | If true and if page is rotated then annotation position will be recaculated accroding to page rotation. |
 
 ### See Also
 
@@ -30,15 +23,9 @@ public void Add(Annotation annotation, bool considerRotation)
 
 ## Add(Annotation) {#add}
 
-Adds annotation to the collection.
-
 ```csharp
 public void Add(Annotation annotation)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | Annotation | Annotation which shall be added. |
 
 ### See Also
 

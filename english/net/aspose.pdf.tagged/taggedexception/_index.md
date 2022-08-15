@@ -1,14 +1,12 @@
 ---
 title: TaggedException
 second_title: Aspose.PDF for .NET API Reference
-description: Represents exception for TaggedPDF content of document.
+description: 
 type: docs
-weight: 6530
+weight: 6480
 url: /net/aspose.pdf.tagged/taggedexception/
 ---
 ## TaggedException class
-
-Represents exception for TaggedPDF content of document.
 
 ```csharp
 public class TaggedException : PdfException
@@ -18,7 +16,7 @@ public class TaggedException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [TaggedException](taggedexception)() | Initializes a new instance of the [`TaggedException`](../taggedexception) class. |
+| [TaggedException](taggedexception)() | The default constructor. |
 
 ### See Also
 

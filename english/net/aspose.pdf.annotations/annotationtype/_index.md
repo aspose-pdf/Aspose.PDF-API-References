@@ -1,14 +1,12 @@
 ---
 title: AnnotationType
 second_title: Aspose.PDF for .NET API Reference
-description: Enumeration of annotation types.
+description: 
 type: docs
-weight: 150
+weight: 100
 url: /net/aspose.pdf.annotations/annotationtype/
 ---
 ## AnnotationType enumeration
-
-Enumeration of annotation types.
 
 ```csharp
 public enum AnnotationType
@@ -18,34 +16,34 @@ public enum AnnotationType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Text | `0` | Text annotation type. |
-| Circle | `1` | Circle annotation type. |
-| Polygon | `2` | Polygon annotation type. |
-| PolyLine | `3` | Plyline annotation type. |
-| Line | `4` | Line annotation type. |
-| Square | `5` | Square annotatotion type. |
-| FreeText | `6` | Free text annotation type. |
-| Highlight | `7` | Highlight annotation type. |
-| Underline | `8` | Underline annotation type. |
-| Squiggly | `9` | Squiggle annotation type. |
-| StrikeOut | `10` | Strikeout annotation type. |
-| Caret | `11` | Caret annotation type. |
-| Ink | `12` | Ink annotation type. |
-| Link | `13` | Link annotation type. |
-| Popup | `14` | Popup annotation type. |
-| FileAttachment | `15` | File attachment annotation type. |
-| Sound | `16` | Sound annotation type. |
-| Movie | `17` | Movie annotation type. |
-| Screen | `18` | Screen annotation type. |
-| Widget | `19` | Widget annotation type. |
-| Watermark | `20` | Watermark annotation type. |
-| TrapNet | `21` | Trap network annotation type. |
-| PrinterMark | `22` | Printer mark annotation type. |
-| Redaction | `23` | Redaction annotation type. |
-| Stamp | `24` | Rubber stamp annotation type. |
-| RichMedia | `25` | Rich media annotation type |
-| Unknown | `26` | Unknown annotation. |
-| PDF3D | `27` | 3D annotation. |
+| Text | `0` |  |
+| Circle | `1` |  |
+| Polygon | `2` |  |
+| PolyLine | `3` |  |
+| Line | `4` |  |
+| Square | `5` |  |
+| FreeText | `6` |  |
+| Highlight | `7` |  |
+| Underline | `8` |  |
+| Squiggly | `9` |  |
+| StrikeOut | `10` |  |
+| Caret | `11` |  |
+| Ink | `12` |  |
+| Link | `13` |  |
+| Popup | `14` |  |
+| FileAttachment | `15` |  |
+| Sound | `16` |  |
+| Movie | `17` |  |
+| Screen | `18` |  |
+| Widget | `19` |  |
+| Watermark | `20` |  |
+| TrapNet | `21` |  |
+| PrinterMark | `22` |  |
+| Redaction | `23` |  |
+| Stamp | `24` |  |
+| RichMedia | `25` |  |
+| Unknown | `26` |  |
+| PDF3D | `27` |  |
 
 ### See Also
 

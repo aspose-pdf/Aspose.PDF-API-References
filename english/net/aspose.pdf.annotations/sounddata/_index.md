@@ -1,14 +1,12 @@
 ---
 title: SoundData
 second_title: Aspose.PDF for .NET API Reference
-description: Represents a sound data defining the sound to be played when the annotation is activated.
+description: 
 type: docs
-weight: 1090
+weight: 1040
 url: /net/aspose.pdf.annotations/sounddata/
 ---
 ## SoundData class
-
-Represents a sound data defining the sound to be played when the annotation is activated.
 
 ```csharp
 public sealed class SoundData
@@ -18,11 +16,11 @@ public sealed class SoundData
 
 | Name | Description |
 | --- | --- |
-| [Bits](../../aspose.pdf.annotations/sounddata/bits) { get; set; } | Gets or sets the number of bits per sample value per channel. |
-| [Channels](../../aspose.pdf.annotations/sounddata/channels) { get; set; } | Gets or sets the number of sound channels. |
-| [Contents](../../aspose.pdf.annotations/sounddata/contents) { get; } | Gets stream of the sound to be played when the annotation is activated. |
-| [Encoding](../../aspose.pdf.annotations/sounddata/encoding) { get; set; } | Gets or sets the encoding format for the sample data. |
-| [Rate](../../aspose.pdf.annotations/sounddata/rate) { get; set; } | Gets or sets the sampling rate, in samples per second. |
+| [Bits](../../aspose.pdf.annotations/sounddata/bits) { get; set; } |  |
+| [Channels](../../aspose.pdf.annotations/sounddata/channels) { get; set; } |  |
+| [Contents](../../aspose.pdf.annotations/sounddata/contents) { get; } |  |
+| [Encoding](../../aspose.pdf.annotations/sounddata/encoding) { get; set; } |  |
+| [Rate](../../aspose.pdf.annotations/sounddata/rate) { get; set; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: PageNumber
 second_title: Aspose.PDF for .NET API Reference
-description: Number of the document page where text extraction error has located.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textextractionerrorlocation/pagenumber/
 ---
 ## TextExtractionErrorLocation.PageNumber property
-
-Number of the document page where text extraction error has located.
 
 ```csharp
 public int PageNumber { get; }

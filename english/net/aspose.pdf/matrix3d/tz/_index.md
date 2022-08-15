@@ -1,14 +1,12 @@
 ---
 title: Tz
 second_title: Aspose.PDF for .NET API Reference
-description: Tz member of the transformation matrix.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/matrix3d/tz/
 ---
 ## Matrix3D.Tz property
-
-Tz member of the transformation matrix.
 
 ```csharp
 public double Tz { get; set; }

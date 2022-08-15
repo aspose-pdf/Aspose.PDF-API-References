@@ -1,14 +1,12 @@
 ---
 title: CgmLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Contains options for loading/importing CGM file into pdf document.
+description: 
 type: docs
-weight: 1470
+weight: 1420
 url: /net/aspose.pdf/cgmloadoptions/
 ---
 ## CgmLoadOptions class
-
-Contains options for loading/importing CGM file into pdf document.
 
 ```csharp
 public sealed class CgmLoadOptions : LoadOptions
@@ -18,16 +16,16 @@ public sealed class CgmLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [CgmLoadOptions](cgmloadoptions#constructor)() | Creates default load options for converting CGM file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508. |
-| [CgmLoadOptions](cgmloadoptions#constructor_1)(SizeF) | Creates load options with defined !:pageSize. |
+| [CgmLoadOptions](cgmloadoptions#constructor)() | The default constructor. |
+| [CgmLoadOptions](cgmloadoptions#constructor_1)(SizeF) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize) { get; } | Gets or sets output page size for import. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ### See Also
 

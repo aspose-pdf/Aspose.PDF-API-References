@@ -1,14 +1,12 @@
 ---
 title: Zoom
 second_title: Aspose.PDF for .NET API Reference
-description: Gets zoom factor.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
 ---
 ## XYZExplicitDestination.Zoom property
-
-Gets zoom factor.
 
 ```csharp
 public double Zoom { get; }

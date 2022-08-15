@@ -1,22 +1,16 @@
 ---
 title: Replace
 second_title: Aspose.PDF for .NET API Reference
-description: Replace image in collection with another image.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/imageplacement/replace/
 ---
 ## ImagePlacement.Replace method
 
-Replace image in collection with another image.
-
 ```csharp
 public void Replace(Stream image)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | Stream | Stream containing image data. |
 
 ### See Also
 

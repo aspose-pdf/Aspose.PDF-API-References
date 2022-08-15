@@ -1,14 +1,12 @@
 ---
 title: Watermark
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the watermark of the page.
+description: 
 type: docs
 weight: 310
 url: /net/aspose.pdf/page/watermark/
 ---
 ## Page.Watermark property
-
-Gets or sets the watermark of the page.
 
 ```csharp
 public Watermark Watermark { get; set; }

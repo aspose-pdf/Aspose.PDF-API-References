@@ -1,31 +1,17 @@
 ---
 title: MergeImages
 second_title: Aspose.PDF for .NET API Reference
-description: Merges list of image streams as one image stream. Png/jpg/tiff outputs formats are supported in case of using non supported format output stream encoded as Jpeg by default.
+description: 
 type: docs
 weight: 180
 url: /net/aspose.pdf.facades/pdfconverter/mergeimages/
 ---
 ## PdfConverter.MergeImages method
 
-Merges list of image streams as one image stream. Png/jpg/tiff outputs formats are supported, in case of using non supported format output stream encoded as Jpeg by default.
-
 ```csharp
 public static Stream MergeImages(List<Stream> inputImagesStreams, ImageFormat outputImageFormat, 
     ImageMergeMode mergeMode, int? horizontal, int? vertical)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputImagesStreams | List`1 | The list of image streams to merge. |
-| outputImageFormat | ImageFormat | Image output format for merged stream. |
-| mergeMode | ImageMergeMode | Merge mode. Used for Png/Jpg formats. |
-| horizontal | Nullable`1 | Horizontal ratio to set canvas width for output image stream. Used for Png/Jpg formats with ImageMergeMode.Center only. |
-| vertical | Nullable`1 | Vertical ratio to set canvas height for output image stream. Used for Png/Jpg formats with ImageMergeMode.Center only. |
-
-### Return Value
-
-Image stream encoded as output image format.
 
 ### See Also
 

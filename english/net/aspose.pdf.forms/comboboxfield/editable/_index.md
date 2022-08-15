@@ -1,14 +1,12 @@
 ---
 title: Editable
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets editable status of the field.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/comboboxfield/editable/
 ---
 ## ComboBoxField.Editable property
-
-Gets or sets editable status of the field.
 
 ```csharp
 public bool Editable { get; set; }

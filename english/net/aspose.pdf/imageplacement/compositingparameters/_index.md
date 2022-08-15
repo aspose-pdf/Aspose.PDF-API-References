@@ -1,14 +1,12 @@
 ---
 title: CompositingParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Gets compositing parameters of graphics state active for the image placed to the page.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/imageplacement/compositingparameters/
 ---
 ## ImagePlacement.CompositingParameters property
-
-Gets compositing parameters of graphics state active for the image placed to the page.
 
 ```csharp
 public CompositingParameters CompositingParameters { get; }

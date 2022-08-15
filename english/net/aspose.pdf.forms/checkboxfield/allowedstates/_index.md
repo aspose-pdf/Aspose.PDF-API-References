@@ -1,14 +1,12 @@
 ---
 title: AllowedStates
 second_title: Aspose.PDF for .NET API Reference
-description: Returns list of allowed states.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
 ## CheckboxField.AllowedStates property
-
-Returns list of allowed states.
 
 ```csharp
 public List<string> AllowedStates { get; }

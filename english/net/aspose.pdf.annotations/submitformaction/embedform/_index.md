@@ -1,14 +1,12 @@
 ---
 title: EmbedForm
 second_title: Aspose.PDF for .NET API Reference
-description: If set the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file from which the FDF is being submitted.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/submitformaction/embedform/
 ---
 ## SubmitFormAction.EmbedForm field
-
-If set, the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file from which the FDF is being submitted.
 
 ```csharp
 public const int EmbedForm;

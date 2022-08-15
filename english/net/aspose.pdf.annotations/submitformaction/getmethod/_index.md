@@ -1,14 +1,12 @@
 ---
 title: GetMethod
 second_title: Aspose.PDF for .NET API Reference
-description: If set field names and values shall be submitted using an HTTP GET request.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.annotations/submitformaction/getmethod/
 ---
 ## SubmitFormAction.GetMethod field
-
-If set, field names and values shall be submitted using an HTTP GET request.
 
 ```csharp
 public const int GetMethod;

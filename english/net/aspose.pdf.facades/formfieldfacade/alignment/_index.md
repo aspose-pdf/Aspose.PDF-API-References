@@ -1,14 +1,12 @@
 ---
 title: Alignment
 second_title: Aspose.PDF for .NET API Reference
-description: The alignment of a field text default is left alignment.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/formfieldfacade/alignment/
 ---
 ## FormFieldFacade.Alignment property
-
-The alignment of a field text, default is left alignment.
 
 ```csharp
 public int Alignment { get; set; }

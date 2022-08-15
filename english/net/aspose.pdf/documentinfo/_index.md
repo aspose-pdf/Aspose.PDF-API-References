@@ -1,14 +1,12 @@
 ---
 title: DocumentInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Represents meta information of PDF document.
+description: 
 type: docs
-weight: 1920
+weight: 1870
 url: /net/aspose.pdf/documentinfo/
 ---
 ## DocumentInfo class
-
-Represents meta information of PDF document.
 
 ```csharp
 public sealed class DocumentInfo : Dictionary<string, string>
@@ -18,34 +16,34 @@ public sealed class DocumentInfo : Dictionary<string, string>
 
 | Name | Description |
 | --- | --- |
-| [DocumentInfo](documentinfo)(Document) | Initialize DocumentInfo instance. |
+| [DocumentInfo](documentinfo)(Document) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Author](../../aspose.pdf/documentinfo/author) { get; set; } | Gets or sets document author. |
-| [CreationDate](../../aspose.pdf/documentinfo/creationdate) { get; set; } | Gets or sets the date of document creation. |
-| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone) { get; set; } | Time zone of creation date. |
-| [Creator](../../aspose.pdf/documentinfo/creator) { get; set; } | Gets or sets document creator. |
-| [Item](../../aspose.pdf/documentinfo/item) { get; set; } | Gets or sets the value associated with the specified key. |
-| [Keywords](../../aspose.pdf/documentinfo/keywords) { get; set; } | Gets or set the keywords of the document. |
-| [ModDate](../../aspose.pdf/documentinfo/moddate) { get; set; } | Gets or sets the date of document modification. |
-| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone) { get; set; } | Time zone of modification date. |
-| [Producer](../../aspose.pdf/documentinfo/producer) { get; set; } | Gets or sets the document producer. |
-| [Subject](../../aspose.pdf/documentinfo/subject) { get; set; } | Gets or sets the subject of the document. |
-| [Title](../../aspose.pdf/documentinfo/title) { get; set; } | Gets or sets document title. |
-| [Trapped](../../aspose.pdf/documentinfo/trapped) { get; set; } | Gets or sets the trapped flag. |
+| [Author](../../aspose.pdf/documentinfo/author) { get; set; } |  |
+| [CreationDate](../../aspose.pdf/documentinfo/creationdate) { get; set; } |  |
+| [CreationTimeZone](../../aspose.pdf/documentinfo/creationtimezone) { get; set; } |  |
+| [Creator](../../aspose.pdf/documentinfo/creator) { get; set; } |  |
+| [Item](../../aspose.pdf/documentinfo/item) { get; set; } |  |
+| [Keywords](../../aspose.pdf/documentinfo/keywords) { get; set; } |  |
+| [ModDate](../../aspose.pdf/documentinfo/moddate) { get; set; } |  |
+| [ModTimeZone](../../aspose.pdf/documentinfo/modtimezone) { get; set; } |  |
+| [Producer](../../aspose.pdf/documentinfo/producer) { get; set; } |  |
+| [Subject](../../aspose.pdf/documentinfo/subject) { get; set; } |  |
+| [Title](../../aspose.pdf/documentinfo/title) { get; set; } |  |
+| [Trapped](../../aspose.pdf/documentinfo/trapped) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/documentinfo/add#add)(string, string) | Adds an element with the specified key and value into the collection. |
-| [Clear](../../aspose.pdf/documentinfo/clear#clear)() | Clears the document info. |
-| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() | Clears custom data only, leaves all other predefined values (Title, Author, etc.). |
-| [Remove](../../aspose.pdf/documentinfo/remove#remove_1)(string) | Removes the element with the specified key from the collection. |
-| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey)(string) | Determines if the key is predefined (Title, Author, etc.), not custom. |
+| [Add](../../aspose.pdf/documentinfo/add#add)(string, string) |  |
+| [Clear](../../aspose.pdf/documentinfo/clear#clear)() |  |
+| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() |  |
+| [Remove](../../aspose.pdf/documentinfo/remove#remove_2)(string) |  |
+| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey)(string) |  |
 
 ### See Also
 

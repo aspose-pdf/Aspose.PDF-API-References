@@ -1,26 +1,16 @@
 ---
 title: op_Explicit
 second_title: Aspose.PDF for .NET API Reference
-description: Performs an explicit conversion from String to AttributeOwnerStandardaspose.pdf.logicalstructure/attributeownerstandard.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/
 ---
 ## AttributeOwnerStandard Explicit operator
 
-Performs an explicit conversion from String to [`AttributeOwnerStandard`](../../attributeownerstandard).
-
 ```csharp
 public static explicit operator AttributeOwnerStandard(string owner)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| owner | String | The owner. |
-
-### Return Value
-
-The result of the conversion.
 
 ### See Also
 

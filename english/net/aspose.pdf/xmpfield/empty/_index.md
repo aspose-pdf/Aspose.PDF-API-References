@@ -1,14 +1,12 @@
 ---
 title: Empty
 second_title: Aspose.PDF for .NET API Reference
-description: Gets an Empty xmp field.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/xmpfield/empty/
 ---
 ## XmpField.Empty property
-
-Gets an Empty xmp field.
 
 ```csharp
 public static XmpField Empty { get; }

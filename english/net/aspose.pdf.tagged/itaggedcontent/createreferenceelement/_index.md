@@ -1,22 +1,16 @@
 ---
 title: CreateReferenceElement
 second_title: Aspose.PDF for .NET API Reference
-description: Creates ReferenceElementaspose.pdf.logicalstructure/referenceelement.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
 ## ITaggedContent.CreateReferenceElement method
 
-Creates [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement).
-
 ```csharp
 public ReferenceElement CreateReferenceElement()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

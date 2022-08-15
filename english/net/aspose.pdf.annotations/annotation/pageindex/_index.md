@@ -1,14 +1,12 @@
 ---
 title: PageIndex
 second_title: Aspose.PDF for .NET API Reference
-description: Gets index of page which contains annotation.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf.annotations/annotation/pageindex/
 ---
 ## Annotation.PageIndex property
-
-Gets index of page which contains annotation.
 
 ```csharp
 public virtual int PageIndex { get; }

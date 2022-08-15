@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets appointment by its name.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/nameddestinationcollection/item/
 ---
 ## NamedDestinationCollection indexer
 
-Gets or sets appointment by its name.
-
 ```csharp
 public IAppointment this[string name] { get; set; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| name | Name of the appointment. |
-
-### Return Value
-
-Appoitnemt
 
 ### See Also
 

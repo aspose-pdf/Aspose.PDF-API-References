@@ -1,22 +1,16 @@
 ---
 title: ShFill
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes operator.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/shfill/shfill/
 ---
 ## ShFill constructor
 
-Initializes operator.
-
 ```csharp
 public ShFill(string shadingName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| shadingName | String | Shading name. |
 
 ### See Also
 

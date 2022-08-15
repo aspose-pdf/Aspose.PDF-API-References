@@ -1,22 +1,16 @@
 ---
 title: Save
 second_title: Aspose.PDF for .NET API Reference
-description: Saves the result PDF document to file.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/isaveablefacade/save/
 ---
 ## Save(string) {#save_1}
 
-Saves the result PDF document to file.
-
 ```csharp
 public void Save(string destFile)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destFile | String | The path of output PDF document. |
 
 ### See Also
 
@@ -28,15 +22,9 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-Saves the result PDF document to stream.
-
 ```csharp
 public void Save(Stream destStream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destStream | Stream | The stream of output PDF document. |
 
 ### See Also
 

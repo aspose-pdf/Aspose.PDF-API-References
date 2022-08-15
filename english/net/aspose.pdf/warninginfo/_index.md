@@ -1,14 +1,12 @@
 ---
 title: WarningInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Immutable object for encapsulating warning information.
+description: 
 type: docs
-weight: 7330
+weight: 7280
 url: /net/aspose.pdf/warninginfo/
 ---
 ## WarningInfo class
-
-Immutable object for encapsulating warning information.
 
 ```csharp
 public sealed class WarningInfo
@@ -18,14 +16,14 @@ public sealed class WarningInfo
 
 | Name | Description |
 | --- | --- |
-| [WarningInfo](warninginfo)(WarningType, string) | Constructs instance for gathering information. |
+| [WarningInfo](warninginfo)(WarningType, string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage) { get; } | Returns string representation of warning message. |
-| [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty) { get; } | Returns warning type. |
+| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage) { get; } |  |
+| [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty) { get; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Children
 second_title: Aspose.PDF for .NET API Reference
-description: Gets child elements collection.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.structure/element/children/
 ---
 ## Element.Children property
-
-Gets child elements collection.
 
 ```csharp
 public List<Element> Children { get; }

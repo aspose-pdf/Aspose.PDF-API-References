@@ -1,14 +1,12 @@
 ---
 title: Script
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets javascript code.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/javascriptaction/script/
 ---
 ## JavascriptAction.Script property
-
-Gets or sets javascript code.
 
 ```csharp
 public string Script { get; set; }

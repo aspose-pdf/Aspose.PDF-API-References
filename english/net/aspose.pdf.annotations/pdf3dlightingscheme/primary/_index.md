@@ -1,14 +1,12 @@
 ---
 title: Primary
 second_title: Aspose.PDF for .NET API Reference
-description: The Primary lighting scheme.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/primary/
 ---
 ## PDF3DLightingScheme.Primary field
-
-The "Primary" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme Primary;

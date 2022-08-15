@@ -1,14 +1,12 @@
 ---
 title: Highlighting
 second_title: Aspose.PDF for .NET API Reference
-description: The visual effect to be used when the mouse button is pressed or held down inside its active area.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/linkannotation/highlighting/
 ---
 ## LinkAnnotation.Highlighting property
-
-The visual effect to be used when the mouse button is pressed or held down inside its active area.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }

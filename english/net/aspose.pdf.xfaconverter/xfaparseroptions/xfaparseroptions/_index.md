@@ -1,22 +1,16 @@
 ---
 title: XfaParserOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the XfaParserOptionsaspose.pdf.xfaconverter/xfaparseroptions class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
 ## XfaParserOptions constructor
 
-Initializes a new instance of the [`XfaParserOptions`](../../xfaparseroptions) class.
-
 ```csharp
 public XfaParserOptions(SizeF pageSize)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | SizeF | Size of the page. |
 
 ### See Also
 

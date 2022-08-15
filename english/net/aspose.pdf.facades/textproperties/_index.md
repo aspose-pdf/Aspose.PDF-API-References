@@ -1,14 +1,12 @@
 ---
 title: TextProperties
 second_title: Aspose.PDF for .NET API Reference
-description: Represents text properties such as text size color style etc.
+description: 
 type: docs
-weight: 2760
+weight: 2710
 url: /net/aspose.pdf.facades/textproperties/
 ---
 ## TextProperties class
-
-Represents text properties such as: text size, color, style etc.
 
 ```csharp
 public sealed class TextProperties
@@ -18,16 +16,16 @@ public sealed class TextProperties
 
 | Name | Description |
 | --- | --- |
-| [TextProperties](textproperties)(double) | Creates [`TextProperties`](../textproperties) object for the specified text size |
+| [TextProperties](textproperties)(double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.pdf.facades/textproperties/color) { get; set; } | Gets or sets text color. |
-| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified) { get; } | Gets or sets a value that indicates whether the [`Color`](./color) property is specified. |
-| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified) { get; } | Gets or sets a value that indicates whether the [`TextSize`](./textsize) property is specified. |
-| [TextSize](../../aspose.pdf.facades/textproperties/textsize) { get; set; } | Gets or sets text size. |
+| [Color](../../aspose.pdf.facades/textproperties/color) { get; set; } |  |
+| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified) { get; } |  |
+| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified) { get; } |  |
+| [TextSize](../../aspose.pdf.facades/textproperties/textsize) { get; set; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets artifact position. If this property is specified then margins and alignments are ignored.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf/artifact/position/
 ---
 ## Artifact.Position property
-
-Gets or sets artifact position. If this property is specified, then margins and alignments are ignored.
 
 ```csharp
 public Point Position { get; set; }

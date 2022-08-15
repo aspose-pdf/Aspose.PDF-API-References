@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets subfield contained in this field by name of the subfield.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.forms/field/item/
 ---
 ## Field indexer (1 of 2)
 
-Gets subfield contained in this field by name of the subfield.
-
 ```csharp
 public WidgetAnnotation this[string name] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| name | Contained subfield name. |
-
-### Return Value
-
-Field instance.
 
 ### See Also
 
@@ -33,19 +23,9 @@ Field instance.
 
 ## Field indexer (2 of 2)
 
-Gets subfield contained in this field by index.
-
 ```csharp
 public WidgetAnnotation this[int index] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | Index of the reuqested subfield. |
-
-### Return Value
-
-Field instance.
 
 ### See Also
 

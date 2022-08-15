@@ -1,14 +1,12 @@
 ---
 title: Encoding
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets encoding used to store images.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.optimization/imagecompressionoptions/encoding/
 ---
 ## ImageCompressionOptions.Encoding property
-
-Gets or sets encoding used to store images.
 
 ```csharp
 public ImageEncoding Encoding { get; set; }

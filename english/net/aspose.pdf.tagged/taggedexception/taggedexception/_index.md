@@ -1,14 +1,14 @@
 ---
 title: TaggedException
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the TaggedExceptionaspose.pdf.tagged/taggedexception class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.tagged/taggedexception/taggedexception/
 ---
 ## TaggedException constructor
 
-Initializes a new instance of the [`TaggedException`](../../taggedexception) class.
+The default constructor.
 
 ```csharp
 public TaggedException()

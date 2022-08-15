@@ -1,22 +1,16 @@
 ---
 title: Magenta
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFF00FF.
+description: 
 type: docs
 weight: 810
 url: /net/aspose.pdf/color/magenta/
 ---
 ## Color.Magenta property
 
-Gets a system-defined color that has an ARGB value of #FFFF00FF.
-
 ```csharp
 public static Color Magenta { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

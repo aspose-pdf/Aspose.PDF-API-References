@@ -1,14 +1,12 @@
 ---
 title: RepeatingRowsCount
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the first rows count repeated for several pages.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf.logicalstructure/tableelement/repeatingrowscount/
 ---
 ## TableElement.RepeatingRowsCount property
-
-Gets the first rows count repeated for several pages.
 
 ```csharp
 public int RepeatingRowsCount { get; set; }

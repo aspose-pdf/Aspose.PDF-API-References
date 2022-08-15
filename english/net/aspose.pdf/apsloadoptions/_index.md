@@ -1,14 +1,12 @@
 ---
 title: ApsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Class describes aps load options.
+description: 
 type: docs
-weight: 1290
+weight: 1240
 url: /net/aspose.pdf/apsloadoptions/
 ---
 ## ApsLoadOptions class
-
-Class describes aps load options.
 
 ```csharp
 public class ApsLoadOptions : LoadOptions
@@ -24,8 +22,8 @@ public class ApsLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ### See Also
 

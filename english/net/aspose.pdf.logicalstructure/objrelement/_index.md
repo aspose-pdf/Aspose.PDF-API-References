@@ -1,14 +1,12 @@
 ---
 title: OBJRElement
 second_title: Aspose.PDF for .NET API Reference
-description: Represents object reference entity in logical structure.
+description: 
 type: docs
-weight: 4360
+weight: 4310
 url: /net/aspose.pdf.logicalstructure/objrelement/
 ---
 ## OBJRElement class
-
-Represents object reference entity in logical structure.
 
 ```csharp
 public sealed class OBJRElement : Element
@@ -18,16 +16,16 @@ public sealed class OBJRElement : Element
 
 | Name | Description |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Gets children collection of Element objects. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Get parent element. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } |  |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | Append Element to collection of children. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Find Elements of a given type |
-| override [ToString](../../aspose.pdf.logicalstructure/objrelement/tostring)() | Returns a string that represents the current object. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) |  |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) |  |
+| override [ToString](../../aspose.pdf.logicalstructure/objrelement/tostring)() |  |
 
 ### See Also
 

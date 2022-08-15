@@ -1,14 +1,12 @@
 ---
 title: EI
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing EI operator End inline image object.
+description: 
 type: docs
-weight: 5070
+weight: 5020
 url: /net/aspose.pdf.operators/ei/
 ---
 ## EI class
-
-Class representing EI operator (End inline image object).
 
 ```csharp
 public class EI : Operator
@@ -18,20 +16,20 @@ public class EI : Operator
 
 | Name | Description |
 | --- | --- |
-| [EI](ei)() | Initializes operator. |
+| [EI](ei)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/ei/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/ei/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

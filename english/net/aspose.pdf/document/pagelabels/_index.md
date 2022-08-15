@@ -1,14 +1,12 @@
 ---
 title: PageLabels
 second_title: Aspose.PDF for .NET API Reference
-description: Gets page labels in the document.
+description: 
 type: docs
 weight: 420
 url: /net/aspose.pdf/document/pagelabels/
 ---
 ## Document.PageLabels property
-
-Gets page labels in the document.
 
 ```csharp
 public PageLabelCollection PageLabels { get; }

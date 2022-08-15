@@ -1,14 +1,12 @@
 ---
 title: IsLandscape
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets is page landscaped.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/pageinfo/islandscape/
 ---
 ## PageInfo.IsLandscape property
-
-Gets or sets is page landscaped.
 
 ```csharp
 public bool IsLandscape { get; set; }

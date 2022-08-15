@@ -1,26 +1,15 @@
 ---
 title: DeleteAttachments
 second_title: Aspose.PDF for .NET API Reference
-description: Deletes all attachments in PDF document.
+description: 
 type: docs
 weight: 310
 url: /net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/
 ---
 ## PdfContentEditor.DeleteAttachments method
 
-Deletes all attachments in PDF document.
-
 ```csharp
 public void DeleteAttachments()
-```
-
-### Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.DeleteAttachments();
-editor.Save("example_out.pdf");
 ```
 
 ### See Also

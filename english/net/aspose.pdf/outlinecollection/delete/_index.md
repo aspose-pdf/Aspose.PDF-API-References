@@ -1,14 +1,12 @@
 ---
 title: Delete
 second_title: Aspose.PDF for .NET API Reference
-description: Deletes all outline items from the document outline.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/outlinecollection/delete/
 ---
 ## Delete() {#delete}
-
-Deletes all outline items from the document outline.
 
 ```csharp
 public void Delete()
@@ -24,15 +22,9 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-Deletes the outline item with specified title from the document outline.
-
 ```csharp
 public void Delete(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The title of outline item to be deleted |
 
 ### See Also
 

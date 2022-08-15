@@ -1,14 +1,12 @@
 ---
 title: DefaultColumnWidth
 second_title: Aspose.PDF for .NET API Reference
-description: Gets default cell border
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/table/defaultcolumnwidth/
 ---
 ## Table.DefaultColumnWidth property
-
-Gets default cell border;
 
 ```csharp
 public string DefaultColumnWidth { get; set; }

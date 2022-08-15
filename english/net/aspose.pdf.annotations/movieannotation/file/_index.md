@@ -1,14 +1,12 @@
 ---
 title: File
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a file specification identifying a self-describing movie file.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/movieannotation/file/
 ---
 ## MovieAnnotation.File property
-
-Gets or sets a file specification identifying a self-describing movie file.
 
 ```csharp
 public FileSpecification File { get; set; }

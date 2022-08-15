@@ -1,14 +1,12 @@
 ---
 title: NormalCaption
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets normal caption.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.forms/buttonfield/normalcaption/
 ---
 ## ButtonField.NormalCaption property
-
-Gets or sets normal caption.
 
 ```csharp
 public string NormalCaption { get; set; }

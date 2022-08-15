@@ -1,14 +1,12 @@
 ---
 title: EndIndent
 second_title: Aspose.PDF for .NET API Reference
-description: EndIndent attribute Layout attribute owner.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.logicalstructure/attributekey/endindent/
 ---
 ## AttributeKey.EndIndent field
-
-EndIndent attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey EndIndent;

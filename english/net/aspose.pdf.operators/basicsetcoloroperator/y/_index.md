@@ -1,14 +1,12 @@
 ---
 title: Y
 second_title: Aspose.PDF for .NET API Reference
-description: Gets yellow component of CMYK color.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.operators/basicsetcoloroperator/y/
 ---
 ## BasicSetColorOperator.Y property
-
-Gets yellow component of CMYK color.
 
 ```csharp
 public double Y { get; }

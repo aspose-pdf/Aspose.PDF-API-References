@@ -1,22 +1,16 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: Gets rectangle string representation.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.pdf/rectangle/tostring/
 ---
 ## Rectangle.ToString method
 
-Gets rectangle string representation.
-
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-String has format llx,lly,urx,ury.
 
 ### See Also
 

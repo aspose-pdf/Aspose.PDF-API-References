@@ -1,22 +1,16 @@
 ---
 title: GetArrayValue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets Value Name Array.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.logicalstructure/structureattribute/getarrayvalue/
 ---
 ## StructureAttribute.GetArrayValue method
 
-Gets Value Name Array.
-
 ```csharp
 public AttributeName[] GetArrayValue()
 ```
-
-### Return Value
-
-Value Name Array.
 
 ### See Also
 

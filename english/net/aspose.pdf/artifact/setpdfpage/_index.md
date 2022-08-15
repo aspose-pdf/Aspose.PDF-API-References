@@ -1,22 +1,16 @@
 ---
 title: SetPdfPage
 second_title: Aspose.PDF for .NET API Reference
-description: Sets PDF page which is placed on the document page as artifact.
+description: 
 type: docs
 weight: 300
 url: /net/aspose.pdf/artifact/setpdfpage/
 ---
 ## Artifact.SetPdfPage method
 
-Sets PDF page which is placed on the document page as artifact.
-
 ```csharp
 public void SetPdfPage(Page page)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page which is placed as Artifcact. |
 
 ### See Also
 

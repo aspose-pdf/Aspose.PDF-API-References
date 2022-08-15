@@ -1,14 +1,12 @@
 ---
 title: SkewAngleY
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/graphinfo/skewangley/
 ---
 ## GraphInfo.SkewAngleY property
-
-Gets or sets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system.
 
 ```csharp
 public double SkewAngleY { get; set; }

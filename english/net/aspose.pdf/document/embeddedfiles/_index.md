@@ -1,14 +1,12 @@
 ---
 title: EmbeddedFiles
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of files embedded to document.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/document/embeddedfiles/
 ---
 ## Document.EmbeddedFiles property
-
-Gets collection of files embedded to document.
 
 ```csharp
 public EmbeddedFileCollection EmbeddedFiles { get; }

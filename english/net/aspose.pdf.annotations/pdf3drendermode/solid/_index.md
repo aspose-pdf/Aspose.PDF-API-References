@@ -1,14 +1,12 @@
 ---
 title: Solid
 second_title: Aspose.PDF for .NET API Reference
-description: The Solid render mode.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/pdf3drendermode/solid/
 ---
 ## PDF3DRenderMode.Solid field
-
-The "Solid" render mode.
 
 ```csharp
 public static PDF3DRenderMode Solid;

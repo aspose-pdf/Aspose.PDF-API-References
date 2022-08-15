@@ -1,14 +1,12 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: Represents rectangle.
+description: 
 type: docs
-weight: 2040
+weight: 1990
 url: /net/aspose.pdf.drawing/rectangle/
 ---
 ## Rectangle class
-
-Represents rectangle.
 
 ```csharp
 public sealed class Rectangle : Shape
@@ -18,19 +16,19 @@ public sealed class Rectangle : Shape
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](rectangle)(float, float, float, float) | Initializes a new instance of the [`Rectangle`](../rectangle) class. |
+| [Rectangle](rectangle)(float, float, float, float) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bottom](../../aspose.pdf.drawing/rectangle/bottom) { get; set; } | Gets or sets a float value that indicates the bottom position of the rectangle. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo) object that indicates the graph info,such as color, line width,etc. |
-| [Height](../../aspose.pdf.drawing/rectangle/height) { get; set; } | Gets or sets a float value that indicates the height of the rectangle. |
-| [Left](../../aspose.pdf.drawing/rectangle/left) { get; set; } | Gets or sets a float value that indicates the left position of the rectangle. |
-| [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius) { get; set; } | Gets or sets a float value that indicates the radius of rectangle corners. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Gets or sets a text for shape |
-| [Width](../../aspose.pdf.drawing/rectangle/width) { get; set; } | Gets or sets a float value that indicates the width of the rectangle. |
+| [Bottom](../../aspose.pdf.drawing/rectangle/bottom) { get; set; } |  |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } |  |
+| [Height](../../aspose.pdf.drawing/rectangle/height) { get; set; } |  |
+| [Left](../../aspose.pdf.drawing/rectangle/left) { get; set; } |  |
+| [RoundedCornerRadius](../../aspose.pdf.drawing/rectangle/roundedcornerradius) { get; set; } |  |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } |  |
+| [Width](../../aspose.pdf.drawing/rectangle/width) { get; set; } |  |
 
 ### See Also
 

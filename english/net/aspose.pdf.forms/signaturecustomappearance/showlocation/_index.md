@@ -1,14 +1,12 @@
 ---
 title: ShowLocation
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets location visibility. Default value true.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf.forms/signaturecustomappearance/showlocation/
 ---
 ## SignatureCustomAppearance.ShowLocation property
-
-Gets/sets location visibility. Default value: true.
 
 ```csharp
 public bool ShowLocation { get; set; }

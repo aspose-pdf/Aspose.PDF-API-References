@@ -1,14 +1,12 @@
 ---
 title: WordWrap
 second_title: Aspose.PDF for .NET API Reference
-description: Defines word wrap. If this property set to true and Width value specified text will be broken in the several lines to fit into specified width. Default value false.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/textstamp/wordwrap/
 ---
 ## TextStamp.WordWrap property
-
-Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default value: false.
 
 ```csharp
 public bool WordWrap { get; set; }

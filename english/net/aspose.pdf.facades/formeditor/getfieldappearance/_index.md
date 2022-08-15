@@ -1,26 +1,16 @@
 ---
 title: GetFieldAppearance
 second_title: Aspose.PDF for .NET API Reference
-description: Get field flags.
+description: 
 type: docs
-weight: 230
+weight: 190
 url: /net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
 ## FormEditor.GetFieldAppearance method
 
-Get field flags.
-
 ```csharp
 public AnnotationFlags GetFieldAppearance(string fieldName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | String | Name of the field. |
-
-### Return Value
-
-Set of field flags
 
 ### See Also
 

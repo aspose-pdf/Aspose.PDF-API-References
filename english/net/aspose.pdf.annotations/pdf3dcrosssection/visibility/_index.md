@@ -1,22 +1,16 @@
 ---
 title: Visibility
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a value indicating visibility of the cutting planes intersection.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
 ---
 ## PDF3DCrossSection.Visibility property
 
-Gets or sets a value indicating visibility of the cutting planes intersection.
-
 ```csharp
 public bool Visibility { get; set; }
 ```
-
-### Property Value
-
-`true` if visible; otherwise, `false`.
 
 ### See Also
 

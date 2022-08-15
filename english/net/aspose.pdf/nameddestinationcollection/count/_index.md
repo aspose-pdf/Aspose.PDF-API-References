@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Count of named destinations.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/nameddestinationcollection/count/
 ---
 ## NamedDestinationCollection.Count property
-
-Count of named destinations.
 
 ```csharp
 public int Count { get; }

@@ -1,22 +1,16 @@
 ---
 title: PDF3DRenderMode
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the PDF3DRenderModeaspose.pdf.annotations/pdf3drendermode class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
 ---
 ## PDF3DRenderMode(RenderModeType) {#constructor}
 
-Initializes a new instance of the [`PDF3DRenderMode`](../../pdf3drendermode) class.
-
 ```csharp
 public PDF3DRenderMode(RenderModeType subtype)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| subtype | RenderModeType | The render mode type. |
 
 ### See Also
 
@@ -29,21 +23,9 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ## PDF3DRenderMode(string) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DRenderMode`](../../pdf3drendermode) class.
-
 ```csharp
 public PDF3DRenderMode(string typeName)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| typeName | String | Name of the type. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | Unknown a render mode type argument |
 
 ### See Also
 

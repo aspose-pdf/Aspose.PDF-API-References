@@ -1,14 +1,12 @@
 ---
 title: ToUnicodeProcessingRules
 second_title: Aspose.PDF for .NET API Reference
-description: This class describes rules which can be used to solve Adobe Preflight error Text cannot be mapped to Unicode.
+description: 
 type: docs
-weight: 5970
+weight: 5920
 url: /net/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules class
-
-This class describes rules which can be used to solve Adobe Preflight error "Text cannot be mapped to Unicode".
 
 ```csharp
 public class ToUnicodeProcessingRules
@@ -18,16 +16,16 @@ public class ToUnicodeProcessingRules
 
 | Name | Description |
 | --- | --- |
-| [ToUnicodeProcessingRules](tounicodeprocessingrules#constructor)() | Constructor |
-| [ToUnicodeProcessingRules](tounicodeprocessingrules#constructor_1)(bool) | Constructor |
-| [ToUnicodeProcessingRules](tounicodeprocessingrules#constructor_2)(bool, bool) | Constructor |
+| [ToUnicodeProcessingRules](tounicodeprocessingrules#constructor)() | The default constructor. |
+| [ToUnicodeProcessingRules](tounicodeprocessingrules#constructor_1)(bool) |  |
+| [ToUnicodeProcessingRules](tounicodeprocessingrules#constructor_2)(bool, bool) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/mapnonlinkedsymbolsonspace) { get; set; } | Some fonts doesn't provide information about unicodes for some text symbols. This lack of information calls an error "Text cannot be mapped to Unicode". Use this flag to map non-linked symbols on unicode "space"(code 32). |
-| [RemoveSpacesFromCMapNames](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames) { get; set; } | Some fonts have ToUnicode character code maps with spaces in names. These spaces could call errors with unicode text mapping. This flag commands to remove spaces from names of ToUnicode character code maps. By default false. |
+| [MapNonLinkedSymbolsOnSpace](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/mapnonlinkedsymbolsonspace) { get; set; } |  |
+| [RemoveSpacesFromCMapNames](../../aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/removespacesfromcmapnames) { get; set; } |  |
 
 ### See Also
 

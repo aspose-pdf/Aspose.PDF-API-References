@@ -1,14 +1,12 @@
 ---
 title: PngDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Represents image device that helps to save pdf document pages into png.
+description: 
 type: docs
-weight: 1750
+weight: 1700
 url: /net/aspose.pdf.devices/pngdevice/
 ---
 ## PngDevice class
-
-Represents image device that helps to save pdf document pages into png.
 
 ```csharp
 public sealed class PngDevice : ImageDevice
@@ -18,30 +16,30 @@ public sealed class PngDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [PngDevice](pngdevice#constructor)() | Initializes a new instance of the [`PngDevice`](../pngdevice) class with default resolution. |
-| [PngDevice](pngdevice#constructor_2)(PageSize) | Initializes a new instance of the [`PngDevice`](../pngdevice) class with provided page size, default resolution (=150). |
-| [PngDevice](pngdevice#constructor_1)(Resolution) | Initializes a new instance of the [`PngDevice`](../pngdevice) class.  Resolution for the result image file, see [`Resolution`](../resolution) class. |
-| [PngDevice](pngdevice#constructor_4)(int, int) | Initializes a new instance of the [`PngDevice`](../pngdevice) class with provided image dimensions, default resolution (=150). |
-| [PngDevice](pngdevice#constructor_3)(PageSize, Resolution) | Initializes a new instance of the [`PngDevice`](../pngdevice) class with provided page size and resolution. |
-| [PngDevice](pngdevice#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`PngDevice`](../pngdevice) class with provided image dimensions and resolution. |
+| [PngDevice](pngdevice#constructor)() | The default constructor. |
+| [PngDevice](pngdevice#constructor_2)(PageSize) |  |
+| [PngDevice](pngdevice#constructor_1)(Resolution) |  |
+| [PngDevice](pngdevice#constructor_4)(int, int) |  |
+| [PngDevice](pngdevice#constructor_3)(PageSize, Resolution) |  |
+| [PngDevice](pngdevice#constructor_5)(int, int, Resolution) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } | Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } | Gets or sets form presentation mode. |
-| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Gets image output height. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Gets image resolution. |
-| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Gets image output width. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype) { get; set; } |  |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode) { get; set; } |  |
+| [Height](../../aspose.pdf.devices/imagedevice/height) { get; } |  |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } |  |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } |  |
+| [Width](../../aspose.pdf.devices/imagedevice/width) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/pngdevice/process#process)(Page, Stream) | Converts the page into png and saves it in the output stream. |
-| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
+| override [Process](../../aspose.pdf.devices/pngdevice/process#process)(Page, Stream) |  |
+| [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) |  |
 
 ### See Also
 

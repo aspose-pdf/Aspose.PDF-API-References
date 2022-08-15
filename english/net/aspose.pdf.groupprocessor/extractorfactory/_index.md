@@ -1,14 +1,12 @@
 ---
 title: ExtractorFactory
 second_title: Aspose.PDF for .NET API Reference
-description: Represents factory for creating IPdfTypeExtractor objects.
+description: 
 type: docs
-weight: 3300
+weight: 3250
 url: /net/aspose.pdf.groupprocessor/extractorfactory/
 ---
 ## ExtractorFactory class
-
-Represents factory for creating IPdfTypeExtractor objects.
 
 ```csharp
 public static class ExtractorFactory
@@ -18,7 +16,7 @@ public static class ExtractorFactory
 
 | Name | Description |
 | --- | --- |
-| static [Pdf](../../aspose.pdf.groupprocessor/extractorfactory/pdf) | Conains creator of IPdfTypeExtractor object. |
+| static [Pdf](../../aspose.pdf.groupprocessor/extractorfactory/pdf) |  |
 
 ### See Also
 

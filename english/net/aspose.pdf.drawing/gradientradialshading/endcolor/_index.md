@@ -1,14 +1,12 @@
 ---
 title: EndColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets end color.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.drawing/gradientradialshading/endcolor/
 ---
 ## GradientRadialShading.EndColor property
-
-Gets or sets end color.
 
 ```csharp
 public Color EndColor { get; set; }

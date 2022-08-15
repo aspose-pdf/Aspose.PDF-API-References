@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: Clears metadata.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/metadata/clear/
 ---
 ## Metadata.Clear method
-
-Clears metadata.
 
 ```csharp
 public void Clear()

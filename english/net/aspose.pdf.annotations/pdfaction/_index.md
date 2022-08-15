@@ -1,14 +1,12 @@
 ---
 title: PdfAction
 second_title: Aspose.PDF for .NET API Reference
-description: Represents Action in PDF document
+description: 
 type: docs
-weight: 880
+weight: 830
 url: /net/aspose.pdf.annotations/pdfaction/
 ---
 ## PdfAction class
-
-Represents Action in PDF document
 
 ```csharp
 public abstract class PdfAction : IAppointment
@@ -18,7 +16,7 @@ public abstract class PdfAction : IAppointment
 
 | Name | Description |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } | Next actions in sequence. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next) { get; } |  |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: CuttingPlanesIntersectionColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the color of the cutting planes intersection.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/
 ---
 ## PDF3DCrossSection.CuttingPlanesIntersectionColor property
 
-Gets or sets the color of the cutting planes intersection.
-
 ```csharp
 public Color CuttingPlanesIntersectionColor { get; set; }
 ```
-
-### Property Value
-
-The color of the cutting planes intersection.
 
 ### See Also
 

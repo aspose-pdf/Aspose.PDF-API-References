@@ -1,14 +1,12 @@
 ---
 title: MarginsAreaUsageMode
 second_title: Aspose.PDF for .NET API Reference
-description: Represents mode of usage of margins area - defines treatement of instructions if any of CSS of imported document related to usage of margins.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/epubloadoptions/marginsareausagemode/
 ---
 ## EpubLoadOptions.MarginsAreaUsageMode field
-
-Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins.
 
 ```csharp
 public MarginsAreaUsageModes MarginsAreaUsageMode;

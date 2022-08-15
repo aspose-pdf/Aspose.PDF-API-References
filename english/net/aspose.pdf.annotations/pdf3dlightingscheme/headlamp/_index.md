@@ -1,14 +1,12 @@
 ---
 title: Headlamp
 second_title: Aspose.PDF for .NET API Reference
-description: The Headlamp lighting scheme.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/headlamp/
 ---
 ## PDF3DLightingScheme.Headlamp field
-
-The "Headlamp" lighting scheme.
 
 ```csharp
 public static PDF3DLightingScheme Headlamp;

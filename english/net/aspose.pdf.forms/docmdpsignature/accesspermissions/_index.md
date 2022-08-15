@@ -1,14 +1,12 @@
 ---
 title: AccessPermissions
 second_title: Aspose.PDF for .NET API Reference
-description: Returns the access permissions granted for this document.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/docmdpsignature/accesspermissions/
 ---
 ## DocMDPSignature.AccessPermissions property
-
-Returns the access permissions granted for this document.
 
 ```csharp
 public DocMDPAccessPermissions AccessPermissions { get; }

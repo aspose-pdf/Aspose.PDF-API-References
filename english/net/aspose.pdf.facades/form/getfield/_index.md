@@ -1,32 +1,15 @@
 ---
 title: GetField
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the fields value according to its field name.
+description: 
 type: docs
-weight: 230
+weight: 190
 url: /net/aspose.pdf.facades/form/getfield/
 ---
 ## Form.GetField method
 
-Gets the field's value according to its field name.
-
 ```csharp
 public string GetField(string fieldName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | String | The fully qualified field name. |
-
-### Return Value
-
-The field's value.
-
-### Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf");
-Console.WriteLine("Field value = " + form.GetField("Field1"));
 ```
 
 ### See Also

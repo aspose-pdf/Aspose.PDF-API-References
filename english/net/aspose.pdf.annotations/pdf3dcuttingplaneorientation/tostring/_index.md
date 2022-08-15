@@ -1,22 +1,16 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: Returns a String that represents this instance.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/
 ---
 ## PDF3DCuttingPlaneOrientation.ToString method
 
-Returns a String that represents this instance.
-
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-A String that represents this instance.
 
 ### See Also
 

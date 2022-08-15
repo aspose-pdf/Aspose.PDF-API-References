@@ -1,14 +1,12 @@
 ---
 title: Parent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the parent object of this outline item in the outline hierarchy.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf/outlineitemcollection/parent/
 ---
 ## OutlineItemCollection.Parent property
-
-Gets the parent object of this outline item in the outline hierarchy.
 
 ```csharp
 public Outlines Parent { get; }

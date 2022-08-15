@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: Clears collection.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/baseoperatorcollection/clear/
 ---
 ## BaseOperatorCollection.Clear method
-
-Clears collection.
 
 ```csharp
 public abstract void Clear()

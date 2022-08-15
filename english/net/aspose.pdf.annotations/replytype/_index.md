@@ -1,14 +1,12 @@
 ---
 title: ReplyType
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the kinds of the relationships the reply type between the annotation and one specified by InReplyTo.
+description: 
 type: docs
-weight: 1020
+weight: 970
 url: /net/aspose.pdf.annotations/replytype/
 ---
 ## ReplyType enumeration
-
-Enumerates the kinds of the relationships (the “reply type”) between the annotation and one specified by InReplyTo.
 
 ```csharp
 public enum ReplyType
@@ -18,9 +16,9 @@ public enum ReplyType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` | Undefined relationship. |
-| Reply | `1` | The annotation is considered a reply to the annotation specified by InReplyTo. Viewer applications should not display replies to an annotation individually but together in the form of threaded comments. |
-| Group | `2` | The annotation is grouped with the annotation specified by InReplyTo. |
+| Undefined | `0` |  |
+| Reply | `1` |  |
+| Group | `2` |  |
 
 ### See Also
 

@@ -1,26 +1,16 @@
 ---
 title: GetCatalogValue
 second_title: Aspose.PDF for .NET API Reference
-description: Returns item value from catalog dictionary.
+description: 
 type: docs
 weight: 610
 url: /net/aspose.pdf/document/getcatalogvalue/
 ---
 ## Document.GetCatalogValue method
 
-Returns item value from catalog dictionary.
-
 ```csharp
 public object GetCatalogValue(string key)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | The key of item. |
-
-### Return Value
-
-Item value - if key was successfully found; otherwise, null.
 
 ### See Also
 

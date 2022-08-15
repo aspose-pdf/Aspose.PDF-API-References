@@ -1,14 +1,12 @@
 ---
 title: PdfFileEditor.ContentsResizeValue
 second_title: Aspose.PDF for .NET API Reference
-description: Value of margin or content size specified in percents of default space units. This class is used in ContentsResizeParameters.
+description: 
 type: docs
-weight: 2500
+weight: 2450
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/
 ---
 ## PdfFileEditor.ContentsResizeValue class
-
-Value of margin or content size specified in percents of default space units. This class is used in ContentsResizeParameters.
 
 ```csharp
 public class ContentsResizeValue
@@ -18,18 +16,18 @@ public class ContentsResizeValue
 
 | Name | Description |
 | --- | --- |
-| [IsPercent](../../aspose.pdf.facades/contentsresizevalue/ispercent) { get; } | Gets true if value is expressed in percents; False if value is expressed in default units. |
-| [PercentValue](../../aspose.pdf.facades/contentsresizevalue/percentvalue) { set; } | Sets value in percents of page size. |
-| [UnitValue](../../aspose.pdf.facades/contentsresizevalue/unitvalue) { set; } | Sets value in default space units. |
-| [Value](../../aspose.pdf.facades/contentsresizevalue/value) { get; } | Gets specified value. Use Unit property to get value units. |
+| [IsPercent](../../aspose.pdf.facades/contentsresizevalue/ispercent) { get; } |  |
+| [PercentValue](../../aspose.pdf.facades/contentsresizevalue/percentvalue) { set; } |  |
+| [UnitValue](../../aspose.pdf.facades/contentsresizevalue/unitvalue) { set; } |  |
+| [Value](../../aspose.pdf.facades/contentsresizevalue/value) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Auto](../../aspose.pdf.facades/contentsresizevalue/auto)() | Initializes automatically calculated value. |
-| static [Percents](../../aspose.pdf.facades/contentsresizevalue/percents)(double) | Initializes value in percents. |
-| static [Units](../../aspose.pdf.facades/contentsresizevalue/units)(double) | Initializes value in default space units. |
+| static [Auto](../../aspose.pdf.facades/contentsresizevalue/auto)() |  |
+| static [Percents](../../aspose.pdf.facades/contentsresizevalue/percents)(double) |  |
+| static [Units](../../aspose.pdf.facades/contentsresizevalue/units)(double) |  |
 
 ### See Also
 

@@ -1,23 +1,16 @@
 ---
 title: SetValue
 second_title: Aspose.PDF for .NET API Reference
-description: Sets application-specific parameter.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf/filespecification/setvalue/
 ---
 ## FileSpecification.SetValue method
 
-Sets application-specific parameter.
-
 ```csharp
 public void SetValue(string key, string value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | Parameter name. |
-| value | String | New parameter value. |
 
 ### See Also
 

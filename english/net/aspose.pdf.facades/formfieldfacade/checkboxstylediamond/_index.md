@@ -1,14 +1,12 @@
 ---
 title: CheckBoxStyleDiamond
 second_title: Aspose.PDF for .NET API Reference
-description: Defines a diamond check box style.
+description: 
 type: docs
 weight: 420
 url: /net/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/
 ---
 ## FormFieldFacade.CheckBoxStyleDiamond field
-
-Defines a diamond check box style.
 
 ```csharp
 public const int CheckBoxStyleDiamond;

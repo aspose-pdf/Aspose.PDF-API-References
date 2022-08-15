@@ -1,22 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets cells.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/cells/item/
 ---
 ## Cells indexer
 
-Gets or sets cells.
-
 ```csharp
 public Cell this[int index] { get; set; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | The cell index. |
 
 ### See Also
 

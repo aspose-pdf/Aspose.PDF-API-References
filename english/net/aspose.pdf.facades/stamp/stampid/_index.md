@@ -1,14 +1,12 @@
 ---
 title: StampId
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets identifier of stamp.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.facades/stamp/stampid/
 ---
 ## Stamp.StampId property
-
-Gets or sets identifier of stamp.
 
 ```csharp
 public int StampId { get; set; }

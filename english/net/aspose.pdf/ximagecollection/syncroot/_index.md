@@ -1,14 +1,12 @@
 ---
 title: SyncRoot
 second_title: Aspose.PDF for .NET API Reference
-description: Returns synchronization object.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/ximagecollection/syncroot/
 ---
 ## XImageCollection.SyncRoot property
-
-Returns synchronization object.
 
 ```csharp
 public object SyncRoot { get; }

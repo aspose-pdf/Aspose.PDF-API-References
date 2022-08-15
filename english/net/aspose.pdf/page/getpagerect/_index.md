@@ -1,26 +1,16 @@
 ---
 title: GetPageRect
 second_title: Aspose.PDF for .NET API Reference
-description: Returns rectangle of the page.
+description: 
 type: docs
 weight: 440
 url: /net/aspose.pdf/page/getpagerect/
 ---
 ## Page.GetPageRect method
 
-Returns rectangle of the page.
-
 ```csharp
 public Rectangle GetPageRect(bool considerRotation)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| considerRotation | Boolean | If true then rotation of the page will be considered in rect calculation. |
-
-### Return Value
-
-Rectangle of the page.
 
 ### See Also
 

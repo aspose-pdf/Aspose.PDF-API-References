@@ -1,14 +1,12 @@
 ---
 title: SoundEncoding
 second_title: Aspose.PDF for .NET API Reference
-description: The encoding format for the sample data.
+description: 
 type: docs
-weight: 1100
+weight: 1050
 url: /net/aspose.pdf.annotations/soundencoding/
 ---
 ## SoundEncoding enumeration
-
-The encoding format for the sample data.
 
 ```csharp
 public enum SoundEncoding
@@ -18,10 +16,10 @@ public enum SoundEncoding
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Raw | `0` | Unspecified or unsigned values in the range 0 to 2^bits − 1. |
-| Signed | `1` | Twos-complement values. |
-| MuLaw | `2` | μ-law–encoded samples. |
-| ALaw | `3` | A-law–encoded samples. |
+| Raw | `0` |  |
+| Signed | `1` |  |
+| MuLaw | `2` |  |
+| ALaw | `3` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Grey
 second_title: Aspose.PDF for .NET API Reference
-description: Gets black component of gray color.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.operators/basicsetcoloroperator/grey/
 ---
 ## BasicSetColorOperator.Grey property
-
-Gets black component of gray color.
 
 ```csharp
 public double Grey { get; }

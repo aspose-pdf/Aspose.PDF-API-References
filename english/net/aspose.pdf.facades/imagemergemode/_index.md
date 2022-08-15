@@ -1,14 +1,12 @@
 ---
 title: ImageMergeMode
 second_title: Aspose.PDF for .NET API Reference
-description: Represents modes for merging images.
+description: 
 type: docs
-weight: 2390
+weight: 2340
 url: /net/aspose.pdf.facades/imagemergemode/
 ---
 ## ImageMergeMode enumeration
-
-Represents modes for merging images.
 
 ```csharp
 public enum ImageMergeMode
@@ -18,9 +16,9 @@ public enum ImageMergeMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Vertical | `1` | Images merged vertically. |
-| Horizontal | `2` | Images merged horizontally. |
-| Center | `3` | Images aligned by center. |
+| Vertical | `1` |  |
+| Horizontal | `2` |  |
+| Center | `3` |  |
 
 ### See Also
 

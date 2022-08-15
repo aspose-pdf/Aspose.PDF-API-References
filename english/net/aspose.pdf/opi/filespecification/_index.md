@@ -1,14 +1,12 @@
 ---
 title: FileSpecification
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the external file containing the low- resolution proxy image.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/opi/filespecification/
 ---
 ## Opi.FileSpecification property
-
-Gets the external file containing the low- resolution proxy image.
 
 ```csharp
 public string FileSpecification { get; }

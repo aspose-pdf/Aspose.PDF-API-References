@@ -1,14 +1,12 @@
 ---
 title: BDC
 second_title: Aspose.PDF for .NET API Reference
-description: class representing BDC operator Begin marked-content sequence
+description: 
 type: docs
-weight: 4880
+weight: 4830
 url: /net/aspose.pdf.operators/bdc/
 ---
 ## BDC class
-
-class representing BDC operator (Begin marked-content sequence)
 
 ```csharp
 public class BDC : Operator
@@ -18,21 +16,21 @@ public class BDC : Operator
 
 | Name | Description |
 | --- | --- |
-| [BDC](bdc)(string) | Initializes operator. |
+| [BDC](bdc)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [Tag](../../aspose.pdf.operators/bdc/tag) { get; set; } | Gets or sets marked content tag |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Tag](../../aspose.pdf.operators/bdc/tag) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bdc/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/bdc/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/bdc/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/bdc/tostring)() |  |
 
 ### See Also
 

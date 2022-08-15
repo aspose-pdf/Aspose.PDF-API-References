@@ -1,14 +1,12 @@
 ---
 title: IsHidden
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets status of the annotations to hide/display.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/hideaction/ishidden/
 ---
 ## HideAction.IsHidden property
-
-Gets or sets status of the annotation(s) to hide/display.
 
 ```csharp
 public bool IsHidden { get; set; }

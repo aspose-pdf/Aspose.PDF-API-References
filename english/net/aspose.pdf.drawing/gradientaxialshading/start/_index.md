@@ -1,14 +1,12 @@
 ---
 title: Start
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets start point.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.drawing/gradientaxialshading/start/
 ---
 ## GradientAxialShading.Start property
-
-Gets or sets start point.
 
 ```csharp
 public Point Start { get; set; }

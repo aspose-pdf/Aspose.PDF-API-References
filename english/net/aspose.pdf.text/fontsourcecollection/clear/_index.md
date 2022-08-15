@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: Clears the font source collection.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/fontsourcecollection/clear/
 ---
 ## FontSourceCollection.Clear method
-
-Clears the font source collection.
 
 ```csharp
 public void Clear()

@@ -1,14 +1,12 @@
 ---
 title: DocumentFactory
 second_title: Aspose.PDF for .NET API Reference
-description: Class which allows to create/load documents of different types.
+description: 
 type: docs
-weight: 1910
+weight: 1860
 url: /net/aspose.pdf/documentfactory/
 ---
 ## DocumentFactory class
-
-Class which allows to create/load documents of different types.
 
 ```csharp
 public class DocumentFactory
@@ -24,11 +22,11 @@ public class DocumentFactory
 
 | Name | Description |
 | --- | --- |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument)() | Create empty document. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_1)(Stream) | Load document from a stream. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_4)(string) | Load document from a file. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_2)(Stream, LoadOptions) | Create document. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_3)(Stream, string) | Load password protected document from a stream. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument)() |  |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_1)(Stream) |  |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_4)(string) |  |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_2)(Stream, LoadOptions) |  |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument#createdocument_3)(Stream, string) |  |
 
 ### See Also
 

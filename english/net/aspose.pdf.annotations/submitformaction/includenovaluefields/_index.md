@@ -1,14 +1,12 @@
 ---
 title: IncludeNoValueFields
 second_title: Aspose.PDF for .NET API Reference
-description: If set all fields designated by the Fields array and the Include/Exclude flag shall be submitted.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf.annotations/submitformaction/includenovaluefields/
 ---
 ## SubmitFormAction.IncludeNoValueFields field
-
-If set, all fields designated by the Fields array and the Include/Exclude flag shall be submitted.
 
 ```csharp
 public const int IncludeNoValueFields;

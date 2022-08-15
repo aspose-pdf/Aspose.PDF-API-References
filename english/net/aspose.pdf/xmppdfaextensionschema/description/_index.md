@@ -1,14 +1,12 @@
 ---
 title: Description
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the schema description.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/xmppdfaextensionschema/description/
 ---
 ## XmpPdfAExtensionSchema.Description property
-
-Gets the schema description.
 
 ```csharp
 public XmpPdfAExtensionSchemaDescription Description { get; }

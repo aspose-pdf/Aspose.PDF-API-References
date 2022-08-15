@@ -1,14 +1,12 @@
 ---
 title: SaveFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Format of data save.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/saveoptions/saveformat/
 ---
 ## SaveOptions.SaveFormat property
-
-Format of data save.
 
 ```csharp
 public SaveFormat SaveFormat { get; }

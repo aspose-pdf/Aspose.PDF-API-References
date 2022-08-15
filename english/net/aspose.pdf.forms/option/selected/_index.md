@@ -1,14 +1,12 @@
 ---
 title: Selected
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets selected status of option. Returns true if option is selected.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/option/selected/
 ---
 ## Option.Selected property
-
-Gets or sets selected status of option. Returns true if option is selected.
 
 ```csharp
 public bool Selected { get; set; }

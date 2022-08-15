@@ -1,14 +1,12 @@
 ---
 title: PageLayoutTwoColumnLeft
 second_title: Aspose.PDF for .NET API Reference
-description: Display the pages in two columns with odd-numbered pages on the right
+description: 
 type: docs
 weight: 180
 url: /net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnleft/
 ---
 ## ViewerPreference.PageLayoutTwoColumnLeft field
-
-Display the pages in two columns, with odd-numbered pages on the right
 
 ```csharp
 public const int PageLayoutTwoColumnLeft;

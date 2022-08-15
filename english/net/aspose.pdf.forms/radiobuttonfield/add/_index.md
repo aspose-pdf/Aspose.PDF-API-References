@@ -1,22 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds new option field to RadioButton field
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.forms/radiobuttonfield/add/
 ---
 ## RadioButtonField.Add method
 
-Adds new option field to RadioButton field
-
 ```csharp
 public void Add(RadioButtonOptionField newItem)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newItem | RadioButtonOptionField | Item which should be added. |
 
 ### See Also
 

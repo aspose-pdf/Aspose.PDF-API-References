@@ -1,23 +1,16 @@
 ---
 title: SignatureField
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the SignatureFieldaspose.pdf.forms/signaturefield class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/signaturefield/signaturefield/
 ---
 ## SignatureField(Page, Rectangle) {#constructor_1}
 
-Initializes new instance of the [`SignatureField`](../../signaturefield) class.
-
 ```csharp
 public SignatureField(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where signature field should be placed. |
-| rect | Rectangle | Position and size of signature field. |
 
 ### See Also
 
@@ -31,16 +24,9 @@ public SignatureField(Page page, Rectangle rect)
 
 ## SignatureField(Document, Rectangle) {#constructor}
 
-Initializes new instance of the [`SignatureField`](../../signaturefield) class.
-
 ```csharp
 public SignatureField(Document doc, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Page where signature field should be placed. |
-| rect | Rectangle | Position and size of signature field. |
 
 ### See Also
 

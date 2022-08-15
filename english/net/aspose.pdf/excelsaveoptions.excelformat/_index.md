@@ -1,14 +1,12 @@
 ---
 title: ExcelSaveOptions.ExcelFormat
 second_title: Aspose.PDF for .NET API Reference
-description: Allows to specify .xlsx .xls/xml or csv file format. Default value is XLSX
+description: 
 type: docs
-weight: 2130
+weight: 2080
 url: /net/aspose.pdf/excelsaveoptions.excelformat/
 ---
 ## ExcelSaveOptions.ExcelFormat enumeration
-
-Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX;
 
 ```csharp
 public enum ExcelFormat
@@ -18,11 +16,11 @@ public enum ExcelFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| XMLSpreadSheet2003 | `0` | Excel 2003 XML Format |
-| XLSX | `1` | Office Open XML (.xlsx) File Format |
-| CSV | `2` | A comma-separated values (CSV) File Format |
-| XLSM | `3` | A macro-enabled Office Open XML (.xlsm) File Format |
-| ODS | `4` | OpenDocument Spreadsheet |
+| XMLSpreadSheet2003 | `0` |  |
+| XLSX | `1` |  |
+| CSV | `2` |  |
+| XLSM | `3` |  |
+| ODS | `4` |  |
 
 ### See Also
 

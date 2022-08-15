@@ -1,22 +1,16 @@
 ---
 title: RedactionAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for RedactionAnnotation. For using in Generator.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/redactionannotation/redactionannotation/
 ---
 ## RedactionAnnotation(Document) {#constructor}
 
-Constructor for RedactionAnnotation. For using in Generator.
-
 ```csharp
 public RedactionAnnotation(Document document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Document where new annotation will be created. |
 
 ### See Also
 
@@ -29,16 +23,9 @@ public RedactionAnnotation(Document document)
 
 ## RedactionAnnotation(Page, Rectangle) {#constructor_1}
 
-Constructor for RedactAnnotation.
-
 ```csharp
 public RedactionAnnotation(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where annotation will be placed. |
-| rect | Rectangle | Annotation position on the page. |
 
 ### See Also
 

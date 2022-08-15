@@ -1,14 +1,12 @@
 ---
 title: ITextElement
 second_title: Aspose.PDF for .NET API Reference
-description: Interface for presenting text structure elements.
+description: 
 type: docs
-weight: 4240
+weight: 4190
 url: /net/aspose.pdf.logicalstructure/itextelement/
 ---
 ## ITextElement interface
-
-Interface for presenting text structure elements.
 
 ```csharp
 public interface ITextElement
@@ -18,13 +16,13 @@ public interface ITextElement
 
 | Name | Description |
 | --- | --- |
-| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate) { get; } | Gets StructureTextState object for text structure element. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetText](../../aspose.pdf.logicalstructure/itextelement/settext)(string) | Appends text content to current text element. |
+| [SetText](../../aspose.pdf.logicalstructure/itextelement/settext)(string) |  |
 
 ### See Also
 

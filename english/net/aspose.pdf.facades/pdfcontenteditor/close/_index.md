@@ -1,14 +1,12 @@
 ---
 title: Close
 second_title: Aspose.PDF for .NET API Reference
-description: Closes opened document.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.facades/pdfcontenteditor/close/
 ---
 ## PdfContentEditor.Close method
-
-Closes opened document.
 
 ```csharp
 public override void Close()

@@ -1,14 +1,12 @@
 ---
 title: MoveTo
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing m operator move to and begin new subpath.
+description: 
 type: docs
-weight: 5260
+weight: 5210
 url: /net/aspose.pdf.operators/moveto/
 ---
 ## MoveTo class
-
-Class representing m operator (move to and begin new subpath).
 
 ```csharp
 public class MoveTo : Operator
@@ -18,22 +16,22 @@ public class MoveTo : Operator
 
 | Name | Description |
 | --- | --- |
-| [MoveTo](moveto)(double, double) | Inintalizes new !:Operators.m (move to) operator. |
+| [MoveTo](moveto)(double, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [X](../../aspose.pdf.operators/moveto/x) { get; set; } | X coordinate |
-| [Y](../../aspose.pdf.operators/moveto/y) { get; set; } | Y coordinate |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [X](../../aspose.pdf.operators/moveto/x) { get; set; } |  |
+| [Y](../../aspose.pdf.operators/moveto/y) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/moveto/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/moveto/tostring)() | Returns text representation of the operator. |
+| override [Accept](../../aspose.pdf.operators/moveto/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/moveto/tostring)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: TextExtractionOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Represents text extraction options
+description: 
 type: docs
-weight: 7050
+weight: 7000
 url: /net/aspose.pdf.text/textextractionoptions/
 ---
 ## TextExtractionOptions class
-
-Represents text extraction options
 
 ```csharp
 public sealed class TextExtractionOptions : TextOptions
@@ -18,14 +16,14 @@ public sealed class TextExtractionOptions : TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextExtractionOptions](textextractionoptions)(TextFormattingMode) | Initializes new instance of the [`TextExtractionOptions`](../textextractionoptions) object for the specified text formatting mode. |
+| [TextExtractionOptions](textextractionoptions)(TextFormattingMode) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FormattingMode](../../aspose.pdf.text/textextractionoptions/formattingmode) { get; set; } | Gets formatting mode. |
-| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor) { get; set; } | Gets or sets factor that will be applied to scale font size during extraction in pure mode. Setting of less value leads to more spaces in the extracted text. Default value is 1 - no scaling; Setting value to zero allows algorithm choose scaling automatically. |
+| [FormattingMode](../../aspose.pdf.text/textextractionoptions/formattingmode) { get; set; } |  |
+| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor) { get; set; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: WritingMode
 second_title: Aspose.PDF for .NET API Reference
-description: WritingMode attribute Layout attribute owner.
+description: 
 type: docs
 weight: 410
 url: /net/aspose.pdf.logicalstructure/attributekey/writingmode/
 ---
 ## AttributeKey.WritingMode field
-
-WritingMode attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey WritingMode;

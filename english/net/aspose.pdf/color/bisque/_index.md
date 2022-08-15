@@ -1,22 +1,16 @@
 ---
 title: Bisque
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFE4C4.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/color/bisque/
 ---
 ## Color.Bisque property
 
-Gets a system-defined color that has an ARGB value of #FFFFE4C4.
-
 ```csharp
 public static Color Bisque { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

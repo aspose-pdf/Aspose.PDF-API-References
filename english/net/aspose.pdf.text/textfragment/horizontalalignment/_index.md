@@ -1,14 +1,12 @@
 ---
 title: HorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a horizontal alignment of text fragment.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textfragment/horizontalalignment/
 ---
 ## TextFragment.HorizontalAlignment property
-
-Gets or sets a horizontal alignment of text fragment.
 
 ```csharp
 public override HorizontalAlignment HorizontalAlignment { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: DigitalSignedLabel
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets digital signed label. Default value Digitally signed by.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/
 ---
 ## SignatureCustomAppearance.DigitalSignedLabel property
-
-Gets/sets digital signed label. Default value: "Digitally signed by".
 
 ```csharp
 public string DigitalSignedLabel { get; set; }

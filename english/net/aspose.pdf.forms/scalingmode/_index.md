@@ -1,14 +1,12 @@
 ---
 title: ScalingMode
 second_title: Aspose.PDF for .NET API Reference
-description: The type of scaling that shall be used.
+description: 
 type: docs
-weight: 3190
+weight: 3140
 url: /net/aspose.pdf.forms/scalingmode/
 ---
 ## ScalingMode enumeration
-
-The type of scaling that shall be used.
 
 ```csharp
 public enum ScalingMode
@@ -18,8 +16,8 @@ public enum ScalingMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Proportional | `0` | Scale the icon to fit the width or height of the annotation rectangle while maintaining the icon�s original aspect ratio. |
-| Anamorphic | `1` | Scale the icon to fill the annotation rectangle exactly. |
+| Proportional | `0` |  |
+| Anamorphic | `1` |  |
 
 ### See Also
 

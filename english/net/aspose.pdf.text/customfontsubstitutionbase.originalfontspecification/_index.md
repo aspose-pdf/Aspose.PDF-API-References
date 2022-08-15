@@ -1,14 +1,12 @@
 ---
 title: CustomFontSubstitutionBase.OriginalFontSpecification
 second_title: Aspose.PDF for .NET API Reference
-description: Represents original font specification.
+description: 
 type: docs
-weight: 6660
+weight: 6610
 url: /net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification class
-
-Represents original font specification.
 
 ```csharp
 public sealed class OriginalFontSpecification
@@ -18,13 +16,9 @@ public sealed class OriginalFontSpecification
 
 | Name | Description |
 | --- | --- |
-| [IsEmbedded](../../aspose.pdf.text/originalfontspecification/isembedded) { get; } | Gets a value that indicates whether the font is embedded. |
-| [IsSubstitutionUnavoidable](../../aspose.pdf.text/originalfontspecification/issubstitutionunavoidable) { get; } | Gets a value that indicates that the substitution is unavoidable. |
-| [OriginalFontName](../../aspose.pdf.text/originalfontspecification/originalfontname) { get; } | Gets original font name. |
-
-### Remarks
-
-Provides info related to original font such as ,  flag. Also provides  flag that helps to check is the substitution will anyway happen with the font and the user may override the default substitution logic.
+| [IsEmbedded](../../aspose.pdf.text/originalfontspecification/isembedded) { get; } |  |
+| [IsSubstitutionUnavoidable](../../aspose.pdf.text/originalfontspecification/issubstitutionunavoidable) { get; } |  |
+| [OriginalFontName](../../aspose.pdf.text/originalfontspecification/originalfontname) { get; } |  |
 
 ### See Also
 

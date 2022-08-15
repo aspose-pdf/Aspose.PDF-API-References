@@ -1,22 +1,16 @@
 ---
 title: Delete
 second_title: Aspose.PDF for .NET API Reference
-description: Delete embedded file by name.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/embeddedfilecollection/delete/
 ---
 ## Delete(string) {#delete_1}
 
-Delete embedded file by name.
-
 ```csharp
 public void Delete(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | Name of the embedded file which should be deleted. |
 
 ### See Also
 
@@ -27,8 +21,6 @@ public void Delete(string name)
 ---
 
 ## Delete() {#delete}
-
-Remove all embedded files from document.
 
 ```csharp
 public void Delete()

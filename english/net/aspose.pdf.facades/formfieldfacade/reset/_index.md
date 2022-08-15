@@ -1,14 +1,12 @@
 ---
 title: Reset
 second_title: Aspose.PDF for .NET API Reference
-description: Reset all visual attribtues to empty value.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf.facades/formfieldfacade/reset/
 ---
 ## FormFieldFacade.Reset method
-
-Reset all visual attribtues to empty value.
 
 ```csharp
 public void Reset()

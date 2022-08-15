@@ -1,14 +1,12 @@
 ---
 title: IsCertified
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the flag determining whether a document is certified or not.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/pdffilesignature/iscertified/
 ---
 ## PdfFileSignature.IsCertified property
-
-Gets the flag determining whether a document is certified or not.
 
 ```csharp
 public bool IsCertified { get; }

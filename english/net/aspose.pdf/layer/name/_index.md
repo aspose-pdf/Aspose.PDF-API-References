@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the layer name.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/layer/name/
 ---
 ## Layer.Name property
-
-Gets the layer name.
 
 ```csharp
 public string Name { get; }

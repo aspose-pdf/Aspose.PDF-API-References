@@ -1,14 +1,12 @@
 ---
 title: IconFit
 second_title: Aspose.PDF for .NET API Reference
-description: Describes how the widget annotations icon shall be displayed within its annotation rectangle.
+description: 
 type: docs
-weight: 3070
+weight: 3020
 url: /net/aspose.pdf.forms/iconfit/
 ---
 ## IconFit class
-
-Describes how the widget annotation's icon shall be displayed within its annotation rectangle.
 
 ```csharp
 public sealed class IconFit
@@ -18,20 +16,20 @@ public sealed class IconFit
 
 | Name | Description |
 | --- | --- |
-| [LeftoverBottom](../../aspose.pdf.forms/iconfit/leftoverbottom) { get; set; } | Gets or sets space to allocate at the bottom of the icon. |
-| [LeftoverLeft](../../aspose.pdf.forms/iconfit/leftoverleft) { get; set; } | Gets or sets space to allocate at the left of the icon. |
-| [ScalingMode](../../aspose.pdf.forms/iconfit/scalingmode) { get; set; } | The type of scaling that shall be used. /// |
-| [ScalingReason](../../aspose.pdf.forms/iconfit/scalingreason) { get; set; } | Gets or sets scaling reason. |
-| [SpreadOnBorder](../../aspose.pdf.forms/iconfit/spreadonborder) { get; set; } | If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border. |
+| [LeftoverBottom](../../aspose.pdf.forms/iconfit/leftoverbottom) { get; set; } |  |
+| [LeftoverLeft](../../aspose.pdf.forms/iconfit/leftoverleft) { get; set; } |  |
+| [ScalingMode](../../aspose.pdf.forms/iconfit/scalingmode) { get; set; } |  |
+| [ScalingReason](../../aspose.pdf.forms/iconfit/scalingreason) { get; set; } |  |
+| [SpreadOnBorder](../../aspose.pdf.forms/iconfit/spreadonborder) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [NameToScalingMode](../../aspose.pdf.forms/iconfit/nametoscalingmode)(string) | Converts scaling mode name into ScalingMode object. |
-| static [NameToScalingReason](../../aspose.pdf.forms/iconfit/nametoscalingreason)(string) | Converts name of scaling reason into ScalingReason object. |
-| static [ScalingModeToName](../../aspose.pdf.forms/iconfit/scalingmodetoname)(ScalingMode) | Converts scaling mode object into name. |
-| static [ScalingReasonToName](../../aspose.pdf.forms/iconfit/scalingreasontoname)(ScalingReason) | Converts scaling reason obejct to name. |
+| static [NameToScalingMode](../../aspose.pdf.forms/iconfit/nametoscalingmode)(string) |  |
+| static [NameToScalingReason](../../aspose.pdf.forms/iconfit/nametoscalingreason)(string) |  |
+| static [ScalingModeToName](../../aspose.pdf.forms/iconfit/scalingmodetoname)(ScalingMode) |  |
+| static [ScalingReasonToName](../../aspose.pdf.forms/iconfit/scalingreasontoname)(ScalingReason) |  |
 
 ### See Also
 

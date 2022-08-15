@@ -1,14 +1,12 @@
 ---
 title: Id
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the layer id.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/layer/id/
 ---
 ## Layer.Id property
-
-Gets the layer id.
 
 ```csharp
 public string Id { get; }

@@ -1,14 +1,12 @@
 ---
 title: H5
 second_title: Aspose.PDF for .NET API Reference
-description: Level 5 Heading for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the level of a heading from its level of nesting.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/h5/
 ---
 ## StructureTypeStandard.H5 field
-
-Level 5 Heading, for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the level of a heading from its level of nesting.
 
 ```csharp
 public static readonly StructureTypeStandard H5;

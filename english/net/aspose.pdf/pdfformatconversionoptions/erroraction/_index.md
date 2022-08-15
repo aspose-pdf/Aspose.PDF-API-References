@@ -1,14 +1,12 @@
 ---
 title: ErrorAction
 second_title: Aspose.PDF for .NET API Reference
-description: Action for objects that can not be converted
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/pdfformatconversionoptions/erroraction/
 ---
 ## PdfFormatConversionOptions.ErrorAction property
-
-Action for objects that can not be converted
 
 ```csharp
 public ConvertErrorAction ErrorAction { get; set; }

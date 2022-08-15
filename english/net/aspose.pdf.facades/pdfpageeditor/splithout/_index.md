@@ -1,14 +1,12 @@
 ---
 title: SPLITHOUT
 second_title: Aspose.PDF for .NET API Reference
-description: Out Horizontal Split
+description: 
 type: docs
 weight: 300
 url: /net/aspose.pdf.facades/pdfpageeditor/splithout/
 ---
 ## PdfPageEditor.SPLITHOUT field
-
-Out Horizontal Split
 
 ```csharp
 public const int SPLITHOUT;

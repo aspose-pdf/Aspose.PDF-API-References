@@ -1,14 +1,12 @@
 ---
 title: MarginInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets margin for block structure element.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf.logicalstructure/structuretextstate/margininfo/
 ---
 ## StructureTextState.MarginInfo property
-
-Gets or sets margin for block structure element.
 
 ```csharp
 public MarginInfo MarginInfo { get; set; }

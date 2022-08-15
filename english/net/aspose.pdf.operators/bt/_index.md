@@ -1,14 +1,12 @@
 ---
 title: BT
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing BT operator Begin of text block.
+description: 
 type: docs
-weight: 4910
+weight: 4860
 url: /net/aspose.pdf.operators/bt/
 ---
 ## BT class
-
-Class representing BT operator (Begin of text block).
 
 ```csharp
 public class BT : BlockTextOperator
@@ -18,20 +16,20 @@ public class BT : BlockTextOperator
 
 | Name | Description |
 | --- | --- |
-| [BT](bt)() | Initializes operator. |
+| [BT](bt)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bt/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/bt/tostring)() | Produces text code of operator. |
+| override [Accept](../../aspose.pdf.operators/bt/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/bt/tostring)() |  |
 
 ### See Also
 

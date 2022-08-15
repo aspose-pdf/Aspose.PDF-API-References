@@ -1,14 +1,12 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a text for shape
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.drawing/shape/text/
 ---
 ## Shape.Text property
-
-Gets or sets a text for shape
 
 ```csharp
 public TextFragment Text { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: LeftStyleIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Represents left partif any of border
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/
 ---
 ## SaveOptions.BorderInfo.LeftStyleIfAny field
-
-Represents left part(if any) of border
 
 ```csharp
 public BorderPartStyle LeftStyleIfAny;

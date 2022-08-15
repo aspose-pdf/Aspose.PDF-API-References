@@ -1,22 +1,16 @@
 ---
 title: CreateBibEntryElement
 second_title: Aspose.PDF for .NET API Reference
-description: Creates BibEntryElementaspose.pdf.logicalstructure/bibentryelement.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 ---
 ## ITaggedContent.CreateBibEntryElement method
 
-Creates [`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement).
-
 ```csharp
 public BibEntryElement CreateBibEntryElement()
 ```
-
-### Return Value
-
-Created structure element.
 
 ### See Also
 

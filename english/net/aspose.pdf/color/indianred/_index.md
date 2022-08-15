@@ -1,22 +1,16 @@
 ---
 title: IndianRed
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFCD5C5C.
+description: 
 type: docs
 weight: 570
 url: /net/aspose.pdf/color/indianred/
 ---
 ## Color.IndianRed property
 
-Gets a system-defined color that has an ARGB value of #FFCD5C5C.
-
 ```csharp
 public static Color IndianRed { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

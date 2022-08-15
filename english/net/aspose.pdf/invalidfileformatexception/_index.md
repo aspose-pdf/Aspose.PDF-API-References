@@ -1,14 +1,12 @@
 ---
 title: InvalidFileFormatException
 second_title: Aspose.PDF for .NET API Reference
-description: The exception that is thrown when a file is invalid.
+description: 
 type: docs
-weight: 3850
+weight: 3800
 url: /net/aspose.pdf/invalidfileformatexception/
 ---
 ## InvalidFileFormatException class
-
-The exception that is thrown when a file is invalid.
 
 ```csharp
 public class InvalidFileFormatException : PdfException
@@ -18,10 +16,10 @@ public class InvalidFileFormatException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [InvalidFileFormatException](invalidfileformatexception#constructor)() | Initializes a new instance of the [`InvalidFileFormatException`](../invalidfileformatexception) class. |
-| [InvalidFileFormatException](invalidfileformatexception#constructor_1)(Exception) | Initializes a new instance of the [`InvalidFileFormatException`](../invalidfileformatexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| [InvalidFileFormatException](invalidfileformatexception#constructor_2)(string) | Initializes a new instance of the [`InvalidFileFormatException`](../invalidfileformatexception) class. |
-| [InvalidFileFormatException](invalidfileformatexception#constructor_3)(string, Exception) | Initializes a new instance of the [`InvalidFileFormatException`](../invalidfileformatexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidFileFormatException](invalidfileformatexception#constructor)() | The default constructor. |
+| [InvalidFileFormatException](invalidfileformatexception#constructor_1)(Exception) |  |
+| [InvalidFileFormatException](invalidfileformatexception#constructor_2)(string) |  |
+| [InvalidFileFormatException](invalidfileformatexception#constructor_3)(string, Exception) |  |
 
 ### See Also
 

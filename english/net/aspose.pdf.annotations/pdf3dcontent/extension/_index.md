@@ -1,22 +1,16 @@
 ---
 title: Extension
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the extension .
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/pdf3dcontent/extension/
 ---
 ## PDF3DContent.Extension property
 
-Gets the extension .
-
 ```csharp
 public string Extension { get; }
 ```
-
-### Property Value
-
-The extension.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: OutputStreams
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the many Output Streams. One of four output modes.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/autofiller/outputstreams/
 ---
 ## AutoFiller.OutputStreams property
-
-Gets or sets the many Output Streams. One of four output modes.
 
 ```csharp
 public Stream[] OutputStreams { get; set; }

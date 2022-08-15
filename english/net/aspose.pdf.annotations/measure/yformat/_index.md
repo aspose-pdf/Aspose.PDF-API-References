@@ -1,14 +1,12 @@
 ---
 title: YFormat
 second_title: Aspose.PDF for .NET API Reference
-description: A number format array for measurement of change along the y axis.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.annotations/measure/yformat/
 ---
 ## Measure.YFormat property
-
-A number format array for measurement of change along the y axis.
 
 ```csharp
 public NumberFormatList YFormat { get; set; }

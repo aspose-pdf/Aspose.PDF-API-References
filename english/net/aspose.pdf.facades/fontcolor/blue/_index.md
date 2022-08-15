@@ -1,14 +1,12 @@
 ---
 title: Blue
 second_title: Aspose.PDF for .NET API Reference
-description: Blue component of color.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/fontcolor/blue/
 ---
 ## FontColor.Blue property
-
-Blue component of color.
 
 ```csharp
 public int Blue { get; set; }

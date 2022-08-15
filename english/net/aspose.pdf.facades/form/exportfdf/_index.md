@@ -1,30 +1,15 @@
 ---
 title: ExportFdf
 second_title: Aspose.PDF for .NET API Reference
-description: Exports the content of the fields of the pdf into the fdf stream.
+description: 
 type: docs
-weight: 110
+weight: 70
 url: /net/aspose.pdf.facades/form/exportfdf/
 ---
 ## Form.ExportFdf method
 
-Exports the content of the fields of the pdf into the fdf stream.
-
 ```csharp
 public void ExportFdf(Stream outputFdfStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFdfStream | Stream | The output fdf stream. |
-
-### Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf");
-Stream stream = new FileStream("export.fdf", FileMode.Create, FileAccess.Write);
-form.ExportFdf(stream);
-stream.Close();
 ```
 
 ### See Also

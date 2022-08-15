@@ -1,22 +1,16 @@
 ---
 title: LightSalmon
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFA07A.
+description: 
 type: docs
 weight: 720
 url: /net/aspose.pdf/color/lightsalmon/
 ---
 ## Color.LightSalmon property
 
-Gets a system-defined color that has an ARGB value of #FFFFA07A.
-
 ```csharp
 public static Color LightSalmon { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

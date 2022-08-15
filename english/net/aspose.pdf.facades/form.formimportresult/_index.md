@@ -1,14 +1,12 @@
 ---
 title: Form.FormImportResult
 second_title: Aspose.PDF for .NET API Reference
-description: Class which describes result if field import.
+description: 
 type: docs
-weight: 2310
+weight: 2260
 url: /net/aspose.pdf.facades/form.formimportresult/
 ---
 ## Form.FormImportResult class
-
-Class which describes result if field import.
 
 ```csharp
 public class FormImportResult
@@ -18,8 +16,8 @@ public class FormImportResult
 
 | Name | Description |
 | --- | --- |
-| [FieldName](../../aspose.pdf.facades/formimportresult/fieldname) { get; } | Full name of the field. |
-| [Status](../../aspose.pdf.facades/formimportresult/status) { get; } | Status of field import. |
+| [FieldName](../../aspose.pdf.facades/formimportresult/fieldname) { get; } |  |
+| [Status](../../aspose.pdf.facades/formimportresult/status) { get; } |  |
 
 ### See Also
 

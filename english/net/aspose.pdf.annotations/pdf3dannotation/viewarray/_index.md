@@ -1,22 +1,16 @@
 ---
 title: ViewArray
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the view array.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/pdf3dannotation/viewarray/
 ---
 ## PDF3DAnnotation.ViewArray property
 
-Gets the view array.
-
 ```csharp
 public PDF3DViewArray ViewArray { get; }
 ```
-
-### Property Value
-
-The view array.
 
 ### See Also
 

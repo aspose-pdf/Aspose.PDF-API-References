@@ -1,22 +1,16 @@
 ---
 title: Delete
 second_title: Aspose.PDF for .NET API Reference
-description: Delete XForm from collectin
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/xformcollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Delete XForm from collectin
-
 ```csharp
 public void Delete(int index)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of XForm which must be deleted |
 
 ### See Also
 
@@ -27,8 +21,6 @@ public void Delete(int index)
 ---
 
 ## Delete() {#delete}
-
-Deletes all XForms from collection.
 
 ```csharp
 public void Delete()
@@ -44,15 +36,9 @@ public void Delete()
 
 ## Delete(string) {#delete_2}
 
-Deletes XForm from collection by form name.
-
 ```csharp
 public void Delete(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | Name of XForm to be deleted. |
 
 ### See Also
 

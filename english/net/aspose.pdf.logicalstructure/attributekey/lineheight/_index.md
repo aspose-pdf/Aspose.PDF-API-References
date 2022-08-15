@@ -1,14 +1,12 @@
 ---
 title: LineHeight
 second_title: Aspose.PDF for .NET API Reference
-description: LineHeight attribute Layout attribute owner.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf.logicalstructure/attributekey/lineheight/
 ---
 ## AttributeKey.LineHeight field
-
-LineHeight attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey LineHeight;

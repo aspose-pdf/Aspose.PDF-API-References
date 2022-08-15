@@ -1,14 +1,12 @@
 ---
 title: PdfPrintPageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Represents an object that contains current printing page info.
+description: 
 type: docs
-weight: 2610
+weight: 2560
 url: /net/aspose.pdf.facades/pdfprintpageinfo/
 ---
 ## PdfPrintPageInfo class
-
-Represents an object that contains current printing page info.
 
 ```csharp
 public class PdfPrintPageInfo
@@ -18,7 +16,7 @@ public class PdfPrintPageInfo
 
 | Name | Description |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber) { get; } | Gets currently printed page number; |
+| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber) { get; } |  |
 
 ### See Also
 

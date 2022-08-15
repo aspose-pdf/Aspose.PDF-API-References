@@ -1,14 +1,12 @@
 ---
 title: Shapes
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets shapes collection.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.drawing/path/shapes/
 ---
 ## Path.Shapes property
-
-Gets or sets shapes collection.
 
 ```csharp
 public List<Shape> Shapes { get; }

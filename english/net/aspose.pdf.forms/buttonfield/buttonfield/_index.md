@@ -1,14 +1,14 @@
 ---
 title: ButtonField
 second_title: Aspose.PDF for .NET API Reference
-description: Button field constructor for Generator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/buttonfield/buttonfield/
 ---
 ## ButtonField() {#constructor}
 
-Button field constructor for Generator.
+The default constructor.
 
 ```csharp
 public ButtonField()
@@ -24,16 +24,9 @@ public ButtonField()
 
 ## ButtonField(Page, Rectangle) {#constructor_2}
 
-ButtonField constructor.
-
 ```csharp
 public ButtonField(Page page, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where button will be placed. |
-| rect | Rectangle | Rectangle where button is placed on the page. |
 
 ### See Also
 
@@ -47,16 +40,9 @@ public ButtonField(Page page, Rectangle rect)
 
 ## ButtonField(Document, Rectangle) {#constructor_1}
 
-ButtonField constructore.
-
 ```csharp
 public ButtonField(Document doc, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Docuemtn where new field will be created. |
-| rect | Rectangle | Rectangle hwere button is placed on the page. |
 
 ### See Also
 

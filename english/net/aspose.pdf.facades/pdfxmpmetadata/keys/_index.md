@@ -1,14 +1,12 @@
 ---
 title: Keys
 second_title: Aspose.PDF for .NET API Reference
-description: Gets keys from the dictionary.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/pdfxmpmetadata/keys/
 ---
 ## PdfXmpMetadata.Keys property
-
-Gets keys from the dictionary.
 
 ```csharp
 public ICollection<string> Keys { get; }

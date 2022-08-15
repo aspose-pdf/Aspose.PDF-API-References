@@ -1,14 +1,12 @@
 ---
 title: RightMarginIfAny
 second_title: Aspose.PDF for .NET API Reference
-description: Represents right page marginif any
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/saveoptions.margininfo/rightmarginifany/
 ---
 ## SaveOptions.MarginInfo.RightMarginIfAny field
-
-Represents right page margin(if any)
 
 ```csharp
 public MarginPartStyle RightMarginIfAny;

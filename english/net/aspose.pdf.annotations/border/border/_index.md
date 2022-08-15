@@ -1,22 +1,16 @@
 ---
 title: Border
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for border object.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/border/border/
 ---
 ## Border constructor
 
-Constructor for border object.
-
 ```csharp
 public Border(Annotation parent)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| parent | Annotation | Parent annotation. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: SvgLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Represents options for loading/importing SVG file into pdf document.
+description: 
 type: docs
-weight: 6430
+weight: 6380
 url: /net/aspose.pdf/svgloadoptions/
 ---
 ## SvgLoadOptions class
-
-Represents options for loading/importing SVG file into pdf document.
 
 ```csharp
 public sealed class SvgLoadOptions : LoadOptions
@@ -24,16 +22,16 @@ public sealed class SvgLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [AdjustPageSize](../../aspose.pdf/svgloadoptions/adjustpagesize) { get; set; } | Adust pdf page size to svg size |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [PageInfo](../../aspose.pdf/svgloadoptions/pageinfo) { get; set; } | Gets or sets page info that should be applied during loading of document. NOTE that this parameter only works when ConversionEngine == ConversionEngines.NewEngine |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [AdjustPageSize](../../aspose.pdf/svgloadoptions/adjustpagesize) { get; set; } |  |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [PageInfo](../../aspose.pdf/svgloadoptions/pageinfo) { get; set; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [ConversionEngine](../../aspose.pdf/svgloadoptions/conversionengine) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine |
+| [ConversionEngine](../../aspose.pdf/svgloadoptions/conversionengine) |  |
 
 ### See Also
 

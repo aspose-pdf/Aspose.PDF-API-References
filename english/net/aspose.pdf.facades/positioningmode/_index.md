@@ -1,14 +1,12 @@
 ---
 title: PositioningMode
 second_title: Aspose.PDF for .NET API Reference
-description: Defines positioning mode. Possible values include Legacy backward compatibility and Current updated text position calculation method
+description: 
 type: docs
-weight: 2660
+weight: 2610
 url: /net/aspose.pdf.facades/positioningmode/
 ---
 ## PositioningMode enumeration
-
-Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method)
 
 ```csharp
 public enum PositioningMode
@@ -18,9 +16,9 @@ public enum PositioningMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Legacy | `0` | Legacy text positioning |
-| ModernLineSpacing | `1` | Updated line spacing, vertical position calculation is done by the old rules (i.e. text is positioned relative to bottom-left corner of the specified rectangle) |
-| Current | `2` | Updated line spacing and vertical position calculation is done based on left-top corner rather than left-bottom. |
+| Legacy | `0` |  |
+| ModernLineSpacing | `1` |  |
+| Current | `2` |  |
 
 ### See Also
 

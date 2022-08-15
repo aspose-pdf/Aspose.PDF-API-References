@@ -1,22 +1,16 @@
 ---
 title: Cell
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the Cell class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/cell/cell/
 ---
 ## Cell(Rectangle) {#constructor_1}
 
-Initializes a new instance of the Cell class.
-
 ```csharp
 public Cell(Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle | The rectangle of the cell in page's coordinates. |
 
 ### See Also
 
@@ -29,7 +23,7 @@ public Cell(Rectangle rect)
 
 ## Cell() {#constructor}
 
-Initializes a new instance of the Cell class.
+The default constructor.
 
 ```csharp
 public Cell()

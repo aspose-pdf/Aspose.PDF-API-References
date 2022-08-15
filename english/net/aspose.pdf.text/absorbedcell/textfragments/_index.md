@@ -1,14 +1,12 @@
 ---
 title: TextFragments
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of TextFragmentaspose.pdf.text/textfragment objects that describes text containing in the cell
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/absorbedcell/textfragments/
 ---
 ## AbsorbedCell.TextFragments property
-
-Gets collection of [`TextFragment`](../../textfragment) objects that describes text containing in the cell
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }

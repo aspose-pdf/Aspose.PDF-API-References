@@ -1,14 +1,12 @@
 ---
 title: PDF3DContent
 second_title: Aspose.PDF for .NET API Reference
-description: Class PDF3DContent.
+description: 
 type: docs
-weight: 790
+weight: 740
 url: /net/aspose.pdf.annotations/pdf3dcontent/
 ---
 ## PDF3DContent class
-
-Class PDF3DContent.
 
 ```csharp
 public class PDF3DContent
@@ -18,29 +16,29 @@ public class PDF3DContent
 
 | Name | Description |
 | --- | --- |
-| [PDF3DContent](pdf3dcontent#constructor)() | Initializes a new instance of the [`PDF3DContent`](../pdf3dcontent) class. |
-| [PDF3DContent](pdf3dcontent#constructor_1)(string) | Initializes a new instance of the [`PDF3DContent`](../pdf3dcontent) class. |
+| [PDF3DContent](pdf3dcontent#constructor)() | The default constructor. |
+| [PDF3DContent](pdf3dcontent#constructor_1)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Extension](../../aspose.pdf.annotations/pdf3dcontent/extension) { get; } | Gets the extension . |
+| [Extension](../../aspose.pdf.annotations/pdf3dcontent/extension) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetAsByteArray](../../aspose.pdf.annotations/pdf3dcontent/getasbytearray)() | Gets 3D content as byte array. |
-| [GetAsStream](../../aspose.pdf.annotations/pdf3dcontent/getasstream)() | Gets 3D content as stream. |
-| [Load](../../aspose.pdf.annotations/pdf3dcontent/load)(string) | Loads 3D content with the specified filename. |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc)(byte[]) | Loads 3D content from byte array as PRC format. |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc_1)(Stream) | Loads 3D content from stream as PRC format. |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc_2)(string) | Loads 3D content with the specified filename as PRC format. |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d)(byte[]) | Loads 3D content from byte array as U3D format. |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d_1)(Stream) | Loads 3D content from stream as U3D format. |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d_2)(string) | Loads 3D content with the specified filename as U3D format. |
-| [SaveToFile](../../aspose.pdf.annotations/pdf3dcontent/savetofile)(string) | Saves 3D content to file. |
+| [GetAsByteArray](../../aspose.pdf.annotations/pdf3dcontent/getasbytearray)() |  |
+| [GetAsStream](../../aspose.pdf.annotations/pdf3dcontent/getasstream)() |  |
+| [Load](../../aspose.pdf.annotations/pdf3dcontent/load)(string) |  |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc)(byte[]) |  |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc_1)(Stream) |  |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc#loadasprc_2)(string) |  |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d)(byte[]) |  |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d_1)(Stream) |  |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d#loadasu3d_2)(string) |  |
+| [SaveToFile](../../aspose.pdf.annotations/pdf3dcontent/savetofile)(string) |  |
 
 ### See Also
 

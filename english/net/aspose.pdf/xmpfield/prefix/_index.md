@@ -1,22 +1,16 @@
 ---
 title: Prefix
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the prefix.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/xmpfield/prefix/
 ---
 ## XmpField.Prefix property
 
-Gets the prefix.
-
 ```csharp
 public string Prefix { get; set; }
 ```
-
-### Property Value
-
-The prefix.
 
 ### See Also
 

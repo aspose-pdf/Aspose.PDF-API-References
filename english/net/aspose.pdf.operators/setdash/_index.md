@@ -1,14 +1,12 @@
 ---
 title: SetDash
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing d operator set line dash pattern.
+description: 
 type: docs
-weight: 5450
+weight: 5400
 url: /net/aspose.pdf.operators/setdash/
 ---
 ## SetDash class
-
-Class representing d operator (set line dash pattern).
 
 ```csharp
 public class SetDash : Operator
@@ -18,22 +16,22 @@ public class SetDash : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetDash](setdash)(int[], int) | Creates set dash pattern operator. |
+| [SetDash](setdash)(int[], int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [Pattern](../../aspose.pdf.operators/setdash/pattern) { get; set; } | Dash pattern. Array�s elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal. |
-| [Phase](../../aspose.pdf.operators/setdash/phase) { get; set; } | Dash phase. Before beginning to stroke a path, the dash array shall be cycled through, adding up the lengths of dashes and gaps. When the accumulated length equals the value specified by the dash phase, stroking of the path shall begin, and the dash array shall be used cyclically from that point onward. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Pattern](../../aspose.pdf.operators/setdash/pattern) { get; set; } |  |
+| [Phase](../../aspose.pdf.operators/setdash/phase) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setdash/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/setdash/tostring)() | Gets operator string representation. |
+| override [Accept](../../aspose.pdf.operators/setdash/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/setdash/tostring)() |  |
 
 ### See Also
 

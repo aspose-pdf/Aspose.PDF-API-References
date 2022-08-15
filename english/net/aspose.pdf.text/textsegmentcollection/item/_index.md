@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the text segment element at the specified index.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.text/textsegmentcollection/item/
 ---
 ## TextSegmentCollection indexer
 
-Gets the text segment element at the specified index.
-
 ```csharp
 public TextSegment this[int index] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | Index within the collection. |
-
-### Return Value
-
-TextSegment object.
 
 ### See Also
 

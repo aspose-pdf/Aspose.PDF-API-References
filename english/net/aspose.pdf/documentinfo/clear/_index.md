@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.PDF for .NET API Reference
-description: Clears the document info.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf/documentinfo/clear/
 ---
 ## DocumentInfo.Clear method
-
-Clears the document info.
 
 ```csharp
 public void Clear()

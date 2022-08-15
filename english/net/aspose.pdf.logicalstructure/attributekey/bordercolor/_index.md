@@ -1,14 +1,12 @@
 ---
 title: BorderColor
 second_title: Aspose.PDF for .NET API Reference
-description: BorderColor attribute Layout attribute owner.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.logicalstructure/attributekey/bordercolor/
 ---
 ## AttributeKey.BorderColor field
-
-BorderColor attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey BorderColor;

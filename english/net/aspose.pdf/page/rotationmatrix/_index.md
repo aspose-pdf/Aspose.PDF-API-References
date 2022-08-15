@@ -1,14 +1,12 @@
 ---
 title: RotationMatrix
 second_title: Aspose.PDF for .NET API Reference
-description: Gets transofmation matrix for the page.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.pdf/page/rotationmatrix/
 ---
 ## Page.RotationMatrix property
-
-Gets transofmation matrix for the page.
 
 ```csharp
 public Matrix RotationMatrix { get; }

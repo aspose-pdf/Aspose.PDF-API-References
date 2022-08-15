@@ -1,14 +1,12 @@
 ---
 title: LogFileName
 second_title: Aspose.PDF for .NET API Reference
-description: Path to file where comments will be stored.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.pdf/pdfformatconversionoptions/logfilename/
 ---
 ## PdfFormatConversionOptions.LogFileName property
-
-Path to file where comments will be stored.
 
 ```csharp
 public string LogFileName { get; set; }

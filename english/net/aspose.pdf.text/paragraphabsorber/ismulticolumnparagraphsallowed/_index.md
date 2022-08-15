@@ -1,14 +1,12 @@
 ---
 title: IsMulticolumnParagraphsAllowed
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/
 ---
 ## ParagraphAbsorber.IsMulticolumnParagraphsAllowed property
-
-Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
 
 ```csharp
 public bool IsMulticolumnParagraphsAllowed { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the number of TextSegmentaspose.pdf.text/textsegment object elements actually contained in the collection.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/textsegmentcollection/count/
 ---
 ## TextSegmentCollection.Count property
-
-Gets the number of [`TextSegment`](../../textsegment) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }

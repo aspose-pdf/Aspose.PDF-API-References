@@ -1,14 +1,12 @@
 ---
 title: Height
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets height of the annotation.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/annotation/height/
 ---
 ## Annotation.Height property
-
-Gets or sets height of the annotation.
 
 ```csharp
 public virtual double Height { get; set; }

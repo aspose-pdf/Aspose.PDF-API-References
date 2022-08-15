@@ -1,14 +1,12 @@
 ---
 title: Top
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the vertical coordinate top positioned at the top edge of the window.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/fithexplicitdestination/top/
 ---
 ## FitHExplicitDestination.Top property
-
-Gets the vertical coordinate top positioned at the top edge of the window.
 
 ```csharp
 public double Top { get; }

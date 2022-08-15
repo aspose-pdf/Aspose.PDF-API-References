@@ -1,14 +1,12 @@
 ---
 title: SetTextLeading
 second_title: Aspose.PDF for .NET API Reference
-description: Class represenging TL operator set text leading.
+description: 
 type: docs
-weight: 5580
+weight: 5530
 url: /net/aspose.pdf.operators/settextleading/
 ---
 ## SetTextLeading class
-
-Class represenging TL operator (set text leading).
 
 ```csharp
 public class SetTextLeading : TextStateOperator
@@ -18,21 +16,21 @@ public class SetTextLeading : TextStateOperator
 
 | Name | Description |
 | --- | --- |
-| [SetTextLeading](settextleading)(double) | Initializes text leading operator. |
+| [SetTextLeading](settextleading)(double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
-| [Leading](../../aspose.pdf.operators/settextleading/leading) { get; set; } | Gets or sets the text leading. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
+| [Leading](../../aspose.pdf.operators/settextleading/leading) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextleading/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/settextleading/tostring)() | Produces text code of operator. |
+| override [Accept](../../aspose.pdf.operators/settextleading/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/settextleading/tostring)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: DisplayDuration
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets display duration for pages.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.facades/pdfpageeditor/displayduration/
 ---
 ## PdfPageEditor.DisplayDuration property
-
-Gets or sets display duration for pages.
 
 ```csharp
 public int DisplayDuration { get; set; }

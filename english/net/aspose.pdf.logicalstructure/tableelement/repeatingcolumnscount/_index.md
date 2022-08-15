@@ -1,14 +1,12 @@
 ---
 title: RepeatingColumnsCount
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the maximum columns count for table.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/
 ---
 ## TableElement.RepeatingColumnsCount property
-
-Gets or sets the maximum columns count for table.
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }

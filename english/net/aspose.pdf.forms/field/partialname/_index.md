@@ -1,14 +1,12 @@
 ---
 title: PartialName
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets partial name of the field.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.forms/field/partialname/
 ---
 ## Field.PartialName property
-
-Gets or sets partial name of the field.
 
 ```csharp
 public string PartialName { get; set; }

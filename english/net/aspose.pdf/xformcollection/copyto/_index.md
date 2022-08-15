@@ -1,23 +1,16 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: Copies XFormCollection into collection.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/xformcollection/copyto/
 ---
 ## XFormCollection.CopyTo method
 
-Copies XFormCollection into collection.
-
 ```csharp
 public void CopyTo(XForm[] array, int index)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | XForm[] | Array of XForm to be copied |
-| index | Int32 | Index where XFormCollection will be copied |
 
 ### See Also
 

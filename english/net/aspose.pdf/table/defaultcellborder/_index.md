@@ -1,14 +1,12 @@
 ---
 title: DefaultCellBorder
 second_title: Aspose.PDF for .NET API Reference
-description: Gets default cell border
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/table/defaultcellborder/
 ---
 ## Table.DefaultCellBorder property
-
-Gets default cell border;
 
 ```csharp
 public BorderInfo DefaultCellBorder { get; set; }

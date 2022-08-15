@@ -1,14 +1,12 @@
 ---
 title: Parent
 second_title: Aspose.PDF for .NET API Reference
-description: Gets annotation parent.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/widgetannotation/parent/
 ---
 ## WidgetAnnotation.Parent property
-
-Gets annotation parent.
 
 ```csharp
 public Field Parent { get; }

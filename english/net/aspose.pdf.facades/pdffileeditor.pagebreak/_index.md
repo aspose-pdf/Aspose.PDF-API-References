@@ -1,14 +1,12 @@
 ---
 title: PdfFileEditor.PageBreak
 second_title: Aspose.PDF for .NET API Reference
-description: Data of page break position.
+description: 
 type: docs
-weight: 2520
+weight: 2470
 url: /net/aspose.pdf.facades/pdffileeditor.pagebreak/
 ---
 ## PdfFileEditor.PageBreak class
-
-Data of page break position.
 
 ```csharp
 public class PageBreak
@@ -18,14 +16,14 @@ public class PageBreak
 
 | Name | Description |
 | --- | --- |
-| [PageBreak](pagebreak)(int, double) | Constructor to create PageBreak object. |
+| [PageBreak](pagebreak)(int, double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pagebreak/pagenumber) { get; set; } | Number of page (starting from 1) where page break must be added. |
-| [Position](../../aspose.pdf.facades/pagebreak/position) { get; set; } | Vertical position of page break. |
+| [PageNumber](../../aspose.pdf.facades/pagebreak/pagenumber) { get; set; } |  |
+| [Position](../../aspose.pdf.facades/pagebreak/position) { get; set; } |  |
 
 ### See Also
 

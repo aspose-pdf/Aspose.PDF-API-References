@@ -1,22 +1,16 @@
 ---
 title: GetPages
 second_title: Aspose.PDF for .NET API Reference
-description: Gets page indexes in collection.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/pagelabelcollection/getpages/
 ---
 ## PageLabelCollection.GetPages method
 
-Gets page indexes in collection.
-
 ```csharp
 public int[] GetPages()
 ```
-
-### Return Value
-
-Array of integers which contains indexes of the pages.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: ColumnAdjustment
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the table column adjustment.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/table/columnadjustment/
 ---
 ## Table.ColumnAdjustment property
-
-Gets or sets the table column adjustment.
 
 ```csharp
 public ColumnAdjustment ColumnAdjustment { get; set; }

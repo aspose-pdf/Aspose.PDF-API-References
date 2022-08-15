@@ -1,14 +1,12 @@
 ---
 title: DISSOLVE
 second_title: Aspose.PDF for .NET API Reference
-description: The old page dissolves
+description: 
 type: docs
 weight: 230
 url: /net/aspose.pdf.facades/pdfpageeditor/dissolve/
 ---
 ## PdfPageEditor.DISSOLVE field
-
-The old page dissolves
 
 ```csharp
 public const int DISSOLVE;

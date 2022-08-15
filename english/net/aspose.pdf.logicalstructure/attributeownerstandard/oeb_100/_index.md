@@ -1,14 +1,12 @@
 ---
 title: Oeb_100
 second_title: Aspose.PDF for .NET API Reference
-description: OEB-1.00 attribute owner.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/
 ---
 ## AttributeOwnerStandard.Oeb_100 field
-
-OEB-1.00 attribute owner.
 
 ```csharp
 public static readonly AttributeOwnerStandard Oeb_100;

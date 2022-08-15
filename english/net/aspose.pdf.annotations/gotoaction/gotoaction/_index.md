@@ -1,22 +1,16 @@
 ---
 title: GoToAction
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for GoToAction class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/gotoaction/gotoaction/
 ---
 ## GoToAction(Page) {#constructor_3}
 
-Constructor for GoToAction class.
-
 ```csharp
 public GoToAction(Page page)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Aspose.Pdf.Page destination object to jump to. |
 
 ### See Also
 
@@ -29,17 +23,9 @@ public GoToAction(Page page)
 
 ## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_4}
 
-Constructor for GoToAction class.
-
 ```csharp
 public GoToAction(Page page, ExplicitDestinationType type, params double[] values)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Destination page. |
-| type | ExplicitDestinationType | Destination type. |
-| values | Double[] | Action parameters. |
 
 ### See Also
 
@@ -53,15 +39,9 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 ## GoToAction(ExplicitDestination) {#constructor_1}
 
-Constructor.
-
 ```csharp
 public GoToAction(ExplicitDestination destination)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destination | ExplicitDestination | Explicit destination. |
 
 ### See Also
 
@@ -74,16 +54,9 @@ public GoToAction(ExplicitDestination destination)
 
 ## GoToAction(Document, string) {#constructor_2}
 
-Action which linked with Named Destination.
-
 ```csharp
 public GoToAction(Document doc, string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where action will be created. |
-| name | String | Name of the destination. |
 
 ### See Also
 

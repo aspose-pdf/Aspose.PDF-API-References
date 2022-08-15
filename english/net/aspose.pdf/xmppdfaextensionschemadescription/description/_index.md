@@ -1,14 +1,12 @@
 ---
 title: Description
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the optional description.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/xmppdfaextensionschemadescription/description/
 ---
 ## XmpPdfAExtensionSchemaDescription.Description property
-
-Gets the optional description.
 
 ```csharp
 public string Description { get; }

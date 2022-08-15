@@ -1,14 +1,12 @@
 ---
 title: VerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a value that indicates vertical alignment
+description: 
 type: docs
 weight: 190
 url: /net/aspose.pdf.facades/pdfviewer/verticalalignment/
 ---
 ## PdfViewer.VerticalAlignment property
-
-Gets or sets a value that indicates vertical alignment
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: MediumPurple
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF9370DB.
+description: 
 type: docs
 weight: 860
 url: /net/aspose.pdf/color/mediumpurple/
 ---
 ## Color.MediumPurple property
 
-Gets a system-defined color that has an ARGB value of #FF9370DB.
-
 ```csharp
 public static Color MediumPurple { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

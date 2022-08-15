@@ -1,22 +1,16 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: Returns string representation of ExplicitDestination object.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/explicitdestination/tostring/
 ---
 ## ExplicitDestination.ToString method
 
-Returns string representation of ExplicitDestination object.
-
 ```csharp
 public abstract string ToString()
 ```
-
-### Return Value
-
-String representation.
 
 ### See Also
 

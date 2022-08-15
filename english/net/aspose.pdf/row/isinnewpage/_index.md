@@ -1,14 +1,12 @@
 ---
 title: IsInNewPage
 second_title: Aspose.PDF for .NET API Reference
-description: Gets fixed row is in new page - page with this property should be printed to next page Default false
+description: 
 type: docs
 weight: 90
 url: /net/aspose.pdf/row/isinnewpage/
 ---
 ## Row.IsInNewPage property
-
-Gets fixed row is in new page - page with this property should be printed to next page Default false;
 
 ```csharp
 public bool IsInNewPage { get; set; }

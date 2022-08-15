@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets data from metadata.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/metadata/item/
 ---
 ## Metadata indexer
 
-Gets or sets data from metadata.
-
 ```csharp
 public XmpValue this[string key] { get; set; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| key | The key name. |
-
-### Return Value
-
-Metadata object.
 
 ### See Also
 

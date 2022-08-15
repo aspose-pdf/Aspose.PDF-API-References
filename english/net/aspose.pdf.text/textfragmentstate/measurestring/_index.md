@@ -1,26 +1,16 @@
 ---
 title: MeasureString
 second_title: Aspose.PDF for .NET API Reference
-description: Measures the string.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.pdf.text/textfragmentstate/measurestring/
 ---
 ## TextFragmentState.MeasureString method
 
-Measures the string.
-
 ```csharp
 public override double MeasureString(string str)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| str | String | The string. |
-
-### Return Value
-
-Width of the string.
 
 ### See Also
 

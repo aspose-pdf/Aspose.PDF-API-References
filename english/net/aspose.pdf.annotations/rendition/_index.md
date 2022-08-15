@@ -1,14 +1,12 @@
 ---
 title: Rendition
 second_title: Aspose.PDF for .NET API Reference
-description: Class which describes rendition object of RendtionAnnotation.
+description: 
 type: docs
-weight: 980
+weight: 930
 url: /net/aspose.pdf.annotations/rendition/
 ---
 ## Rendition class
-
-Class which describes rendition object of RendtionAnnotation.
 
 ```csharp
 public class Rendition
@@ -18,8 +16,8 @@ public class Rendition
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype) { get; } | Gets rendition type. |
+| [Name](../../aspose.pdf.annotations/rendition/name) { get; set; } |  |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype) { get; } |  |
 
 ### See Also
 

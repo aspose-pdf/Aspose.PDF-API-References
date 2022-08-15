@@ -1,14 +1,12 @@
 ---
 title: Lines
 second_title: Aspose.PDF for .NET API Reference
-description: Lines of multiline text artifact.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/artifact/lines/
 ---
 ## Artifact.Lines property
-
-Lines of multiline text artifact.
 
 ```csharp
 public List<string> Lines { get; }

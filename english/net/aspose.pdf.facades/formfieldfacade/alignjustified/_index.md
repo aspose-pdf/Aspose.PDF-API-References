@@ -1,14 +1,12 @@
 ---
 title: AlignJustified
 second_title: Aspose.PDF for .NET API Reference
-description: Defines text justification alignment style.
+description: 
 type: docs
 weight: 230
 url: /net/aspose.pdf.facades/formfieldfacade/alignjustified/
 ---
 ## FormFieldFacade.AlignJustified field
-
-Defines text justification alignment style.
 
 ```csharp
 public const int AlignJustified;

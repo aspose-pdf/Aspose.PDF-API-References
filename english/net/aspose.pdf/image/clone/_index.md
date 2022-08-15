@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clone the image.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf/image/clone/
 ---
 ## Image.Clone method
 
-Clone the image.
-
 ```csharp
 public override object Clone()
 ```
-
-### Return Value
-
-The cloned object
 
 ### See Also
 

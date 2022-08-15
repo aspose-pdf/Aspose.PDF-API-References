@@ -1,22 +1,16 @@
 ---
 title: FixedLayout
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a value indicating whether that HTML is created as fixed layout.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/htmlsaveoptions/fixedlayout/
 ---
 ## HtmlSaveOptions.FixedLayout property
 
-Gets or sets a value indicating whether that HTML is created as fixed layout.
-
 ```csharp
 public bool FixedLayout { get; set; }
 ```
-
-### Property Value
-
-`true` if [fixed layout]; otherwise, `false`.
 
 ### See Also
 

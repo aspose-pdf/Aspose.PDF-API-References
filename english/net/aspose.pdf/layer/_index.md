@@ -1,14 +1,12 @@
 ---
 title: Layer
 second_title: Aspose.PDF for .NET API Reference
-description: Represents page layer.
+description: 
 type: docs
-weight: 3910
+weight: 3860
 url: /net/aspose.pdf/layer/
 ---
 ## Layer class
-
-Represents page layer.
 
 ```csharp
 public class Layer
@@ -18,15 +16,15 @@ public class Layer
 
 | Name | Description |
 | --- | --- |
-| [Layer](layer)(string, string) | Initializes a new instance of the [`Layer`](../layer) class. |
+| [Layer](layer)(string, string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Contents](../../aspose.pdf/layer/contents) { get; } | Gets the layer content. |
-| [Id](../../aspose.pdf/layer/id) { get; } | Gets the layer id. |
-| [Name](../../aspose.pdf/layer/name) { get; } | Gets the layer name. |
+| [Contents](../../aspose.pdf/layer/contents) { get; } |  |
+| [Id](../../aspose.pdf/layer/id) { get; } |  |
+| [Name](../../aspose.pdf/layer/name) { get; } |  |
 
 ### See Also
 

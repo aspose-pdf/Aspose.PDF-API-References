@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: Width attribute Layout attribute owner.
+description: 
 type: docs
 weight: 400
 url: /net/aspose.pdf.logicalstructure/attributekey/width/
 ---
 ## AttributeKey.Width field
-
-Width attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey Width;

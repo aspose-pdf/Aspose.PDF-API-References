@@ -1,14 +1,12 @@
 ---
 title: MCRElement
 second_title: Aspose.PDF for .NET API Reference
-description: Represents marked-content reference object in logical structure.
+description: 
 type: docs
-weight: 4330
+weight: 4280
 url: /net/aspose.pdf.logicalstructure/mcrelement/
 ---
 ## MCRElement class
-
-Represents marked-content reference object in logical structure.
 
 ```csharp
 public sealed class MCRElement : Element
@@ -18,19 +16,19 @@ public sealed class MCRElement : Element
 
 | Name | Description |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } | Gets children collection of Element objects. |
-| [Content](../../aspose.pdf.logicalstructure/mcrelement/content) { get; } | Gets text content for marked-content reference element. |
-| [ImageSrc](../../aspose.pdf.logicalstructure/mcrelement/imagesrc) { get; } | Gets image source for marked-content reference element. |
-| [MCID](../../aspose.pdf.logicalstructure/mcrelement/mcid) { get; } | Gets MCID of marked-content reference object. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } | Get parent element. |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements) { get; } |  |
+| [Content](../../aspose.pdf.logicalstructure/mcrelement/content) { get; } |  |
+| [ImageSrc](../../aspose.pdf.logicalstructure/mcrelement/imagesrc) { get; } |  |
+| [MCID](../../aspose.pdf.logicalstructure/mcrelement/mcid) { get; } |  |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) | Append Element to collection of children. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) | Find Elements of a given type |
-| override [ToString](../../aspose.pdf.logicalstructure/mcrelement/tostring)() | Returns a string that represents the current object. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild)(Element) |  |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements)(bool) |  |
+| override [ToString](../../aspose.pdf.logicalstructure/mcrelement/tostring)() |  |
 
 ### See Also
 

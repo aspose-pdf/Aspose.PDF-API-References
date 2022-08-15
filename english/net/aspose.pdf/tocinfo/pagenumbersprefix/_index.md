@@ -1,14 +1,12 @@
 ---
 title: PageNumbersPrefix
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets is prefix before page number.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf/tocinfo/pagenumbersprefix/
 ---
 ## TocInfo.PageNumbersPrefix property
-
-Gets or sets is prefix before page number.
 
 ```csharp
 public string PageNumbersPrefix { get; set; }

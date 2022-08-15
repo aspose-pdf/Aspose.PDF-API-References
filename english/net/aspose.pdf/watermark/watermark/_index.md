@@ -1,23 +1,16 @@
 ---
 title: Watermark
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a watermark object with an image and its position on a page.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/watermark/watermark/
 ---
 ## Watermark(Image, Rectangle) {#constructor_1}
 
-Initializes a watermark object with an image and it's position on a page.
-
 ```csharp
 public Watermark(Image image, Rectangle rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | Image | Image of the watermark. |
-| rect | Rectangle | Position of the watermark on the page. |
 
 ### See Also
 
@@ -30,15 +23,9 @@ public Watermark(Image image, Rectangle rect)
 
 ## Watermark(Image) {#constructor}
 
-Initializes a watermark object with an image.
-
 ```csharp
 public Watermark(Image image)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | Image | Image of the watermark. |
 
 ### See Also
 

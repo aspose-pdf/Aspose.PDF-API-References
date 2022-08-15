@@ -1,22 +1,16 @@
 ---
 title: RenderMode
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the render mode of view.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/pdf3dview/rendermode/
 ---
 ## PDF3DView.RenderMode property
 
-Gets or sets the render mode of view.
-
 ```csharp
 public PDF3DRenderMode RenderMode { get; set; }
 ```
-
-### Property Value
-
-The render mode of view.
 
 ### See Also
 

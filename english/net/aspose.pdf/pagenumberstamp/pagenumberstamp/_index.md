@@ -1,22 +1,16 @@
 ---
 title: PageNumberStamp
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the PageNumberStampaspose.pdf/pagenumberstamp class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/pagenumberstamp/pagenumberstamp/
 ---
 ## PageNumberStamp(string) {#constructor_2}
 
-Initializes a new instance of the [`PageNumberStamp`](../../pagenumberstamp) class.
-
 ```csharp
 public PageNumberStamp(string format)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | String | String value used for stamping. See [`Format`](../format) property for details. |
 
 ### See Also
 
@@ -28,7 +22,7 @@ public PageNumberStamp(string format)
 
 ## PageNumberStamp() {#constructor}
 
-Initializes a new instance of the [`PageNumberStamp`](../../pagenumberstamp) class. Format is set to "#".
+The default constructor.
 
 ```csharp
 public PageNumberStamp()
@@ -44,15 +38,9 @@ public PageNumberStamp()
 
 ## PageNumberStamp(FormattedText) {#constructor_1}
 
-Creates PageNumberStamp by formatted text.
-
 ```csharp
 public PageNumberStamp(FormattedText formattedText)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formattedText | FormattedText | Formatted text which used to create Page Number Stamp. |
 
 ### See Also
 

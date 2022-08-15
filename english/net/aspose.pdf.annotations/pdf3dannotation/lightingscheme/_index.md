@@ -1,22 +1,16 @@
 ---
 title: LightingScheme
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the lighting scheme.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/pdf3dannotation/lightingscheme/
 ---
 ## PDF3DAnnotation.LightingScheme property
 
-Gets the lighting scheme.
-
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; }
 ```
-
-### Property Value
-
-The lighting scheme.
 
 ### See Also
 

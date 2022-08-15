@@ -1,22 +1,16 @@
 ---
 title: StructureTextState
 second_title: Aspose.PDF for .NET API Reference
-description: Get StructureTextStateaspose.pdf.logicalstructure/structuretextstate settings for whole document.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
 ## ITaggedContent.StructureTextState property
 
-Get [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate) settings for whole document.
-
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
-
-### Property Value
-
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate) settings for whole document.
 
 ### See Also
 

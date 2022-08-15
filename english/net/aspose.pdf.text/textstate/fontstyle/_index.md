@@ -1,14 +1,12 @@
 ---
 title: FontStyle
 second_title: Aspose.PDF for .NET API Reference
-description: Sets font style of the text.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/textstate/fontstyle/
 ---
 ## TextState.FontStyle property
-
-Sets font style of the text.
 
 ```csharp
 public virtual FontStyles FontStyle { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: TextEditOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets text edit options.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.facades/pdfcontenteditor/texteditoptions/
 ---
 ## PdfContentEditor.TextEditOptions property
-
-Gets or sets text edit options.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }

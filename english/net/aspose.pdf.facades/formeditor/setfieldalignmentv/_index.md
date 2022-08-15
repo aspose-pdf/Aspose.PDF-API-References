@@ -1,33 +1,15 @@
 ---
 title: SetFieldAlignmentV
 second_title: Aspose.PDF for .NET API Reference
-description: Set the vertical alignment style of a text field.
+description: 
 type: docs
-weight: 310
+weight: 270
 url: /net/aspose.pdf.facades/formeditor/setfieldalignmentv/
 ---
 ## FormEditor.SetFieldAlignmentV method
 
-Set the vertical alignment style of a text field.
-
 ```csharp
 public bool SetFieldAlignmentV(string fieldName, int alignment)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | String | The qualified field name. |
-| alignment | Int32 | The alignment style definition, including FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle and FormFieldFacade.AlignRight. |
-
-### Return Value
-
-true if field was found and alignment was successfully filled.
-
-### Examples
-
-```csharp
-FormEditor fe = new FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
-fe.SetFieldAlignmentV("form1[0].TextField[0]", FormFieldFacade.AlignBottom);
 ```
 
 ### See Also

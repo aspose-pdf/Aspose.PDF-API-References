@@ -1,14 +1,12 @@
 ---
 title: IsStructure
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true is XmpValue represents structure.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf/xmpvalue/isstructure/
 ---
 ## XmpValue.IsStructure property
-
-Returns true is XmpValue represents structure.
 
 ```csharp
 public bool IsStructure { get; }

@@ -1,14 +1,12 @@
 ---
 title: PrintDuplex
 second_title: Aspose.PDF for .NET API Reference
-description: The paper handling option to use when printing the file from the print dialog..
+description: 
 type: docs
-weight: 6160
+weight: 6110
 url: /net/aspose.pdf/printduplex/
 ---
 ## PrintDuplex enumeration
-
-The paper handling option to use when printing the file from the print dialog..
 
 ```csharp
 public enum PrintDuplex
@@ -18,9 +16,9 @@ public enum PrintDuplex
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Simplex | `0` | Print single-sided. |
-| DuplexFlipShortEdge | `1` | Duplex and flip on the short edge of the sheet. |
-| DuplexFlipLongEdge | `2` | Duplex and flip on the long edge of the sheet. |
+| Simplex | `0` |  |
+| DuplexFlipShortEdge | `1` |  |
+| DuplexFlipLongEdge | `2` |  |
 
 ### See Also
 

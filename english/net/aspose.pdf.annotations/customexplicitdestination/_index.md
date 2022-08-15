@@ -1,14 +1,12 @@
 ---
 title: CustomExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: Represents custom explicit destination.
+description: 
 type: docs
-weight: 270
+weight: 220
 url: /net/aspose.pdf.annotations/customexplicitdestination/
 ---
 ## CustomExplicitDestination class
-
-Represents custom explicit destination.
 
 ```csharp
 public sealed class CustomExplicitDestination : ExplicitDestination
@@ -18,14 +16,14 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } | Gets the destination page object |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } | Gets the destination page number |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page) { get; } |  |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring)() | Converts to page number. |
+| override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring)() |  |
 
 ### See Also
 

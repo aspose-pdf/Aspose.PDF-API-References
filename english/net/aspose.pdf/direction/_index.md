@@ -1,14 +1,12 @@
 ---
 title: Direction
 second_title: Aspose.PDF for .NET API Reference
-description: Text direction.
+description: 
 type: docs
-weight: 1830
+weight: 1780
 url: /net/aspose.pdf/direction/
 ---
 ## Direction enumeration
-
-Text direction.
 
 ```csharp
 public enum Direction
@@ -18,8 +16,8 @@ public enum Direction
 
 | Name | Value | Description |
 | --- | --- | --- |
-| L2R | `0` | Left to right direction. |
-| R2L | `1` | Right to left direction. |
+| L2R | `0` |  |
+| R2L | `1` |  |
 
 ### See Also
 

@@ -1,26 +1,16 @@
 ---
 title: GetResources
 second_title: Aspose.PDF for .NET API Reference
-description: Returns resources of Form X-Object
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf/xform/getresources/
 ---
 ## GetResources(bool) {#getresources_1}
 
-Returns resources of Form X-Object
-
 ```csharp
 public Resources GetResources(bool allowCreate)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| allowCreate | Boolean | If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
-
-### Return Value
-
-Resources.
 
 ### See Also
 
@@ -33,15 +23,9 @@ Resources.
 
 ## GetResources() {#getresources}
 
-Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form.
-
 ```csharp
 public Resources GetResources()
 ```
-
-### Return Value
-
-Resources object
 
 ### See Also
 

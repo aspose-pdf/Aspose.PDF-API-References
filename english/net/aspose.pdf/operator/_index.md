@@ -1,14 +1,12 @@
 ---
 title: Operator
 second_title: Aspose.PDF for .NET API Reference
-description: Abstract class representing operator.
+description: 
 type: docs
-weight: 4850
+weight: 4800
 url: /net/aspose.pdf/operator/
 ---
 ## Operator class
-
-Abstract class representing operator.
 
 ```csharp
 public abstract class Operator
@@ -18,15 +16,15 @@ public abstract class Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator)(Operator) |  |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: WatermarkArtifact
 second_title: Aspose.PDF for .NET API Reference
-description: Creates instance of Watermark artifact.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/watermarkartifact/watermarkartifact/
 ---
 ## WatermarkArtifact constructor
 
-Creates instance of Watermark artifact.
+The default constructor.
 
 ```csharp
 public WatermarkArtifact()

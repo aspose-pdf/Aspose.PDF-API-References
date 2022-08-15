@@ -1,14 +1,12 @@
 ---
 title: Description
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets text associated with the file specification.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/filespecification/description/
 ---
 ## FileSpecification.Description property
-
-Gets or sets text associated with the file specification.
 
 ```csharp
 public string Description { get; set; }

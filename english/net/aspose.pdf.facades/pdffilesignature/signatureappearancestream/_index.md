@@ -1,14 +1,12 @@
 ---
 title: SignatureAppearanceStream
 second_title: Aspose.PDF for .NET API Reference
-description: Sets or gets a graphic appearance for the signature. Property value represents image stream.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.facades/pdffilesignature/signatureappearancestream/
 ---
 ## PdfFileSignature.SignatureAppearanceStream property
-
-Sets or gets a graphic appearance for the signature. Property value represents image stream.
 
 ```csharp
 public Stream SignatureAppearanceStream { get; set; }

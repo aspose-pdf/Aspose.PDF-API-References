@@ -1,14 +1,12 @@
 ---
 title: Font
 second_title: Aspose.PDF for .NET API Reference
-description: Gets font specified as default for text.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/defaultappearance/font/
 ---
 ## DefaultAppearance.Font property
-
-Gets font specified as default for text.
 
 ```csharp
 public Font Font { get; }

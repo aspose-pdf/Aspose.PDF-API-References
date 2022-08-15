@@ -1,14 +1,12 @@
 ---
 title: OnReceiveFocus
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets an action to be performed when the annotation receives the input focus.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.annotations/annotationactioncollection/onreceivefocus/
 ---
 ## AnnotationActionCollection.OnReceiveFocus property
-
-Gets or sets an action to be performed when the annotation receives the input focus.
 
 ```csharp
 public PdfAction OnReceiveFocus { get; set; }

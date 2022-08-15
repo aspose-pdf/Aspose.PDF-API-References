@@ -1,14 +1,12 @@
 ---
 title: PositionArray
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a PositionArrayaspose.pdf.drawing/line/positionarray object that indicates the position array.The array is composed by coordinates of each control point of the line. directly.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.drawing/line/positionarray/
 ---
 ## Line.PositionArray property
-
-Gets or sets a `PositionArray` object that indicates the position array.The array is composed by coordinates of each control point of the line. directly.
 
 ```csharp
 public float[] PositionArray { get; set; }

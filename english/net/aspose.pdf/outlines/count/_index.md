@@ -1,14 +1,12 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Gets count.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/outlines/count/
 ---
 ## Outlines.Count property
-
-Gets count.
 
 ```csharp
 public abstract int Count { get; }

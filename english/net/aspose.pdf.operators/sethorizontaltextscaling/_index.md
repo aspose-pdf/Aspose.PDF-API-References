@@ -1,14 +1,12 @@
 ---
 title: SetHorizontalTextScaling
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing Tz operator set horizontal text scaling.
+description: 
 type: docs
-weight: 5500
+weight: 5450
 url: /net/aspose.pdf.operators/sethorizontaltextscaling/
 ---
 ## SetHorizontalTextScaling class
-
-Class representing Tz operator (set horizontal text scaling).
 
 ```csharp
 public class SetHorizontalTextScaling : TextStateOperator
@@ -18,21 +16,21 @@ public class SetHorizontalTextScaling : TextStateOperator
 
 | Name | Description |
 | --- | --- |
-| [SetHorizontalTextScaling](sethorizontaltextscaling)(double) | Initializes operator. |
+| [SetHorizontalTextScaling](sethorizontaltextscaling)(double) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [HorizontalScaling](../../aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling) { get; set; } | Gets or sets the horizontal scaling. |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [HorizontalScaling](../../aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling) { get; set; } |  |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/sethorizontaltextscaling/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/sethorizontaltextscaling/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf/operator/tostring)() |  |
 
 ### See Also
 

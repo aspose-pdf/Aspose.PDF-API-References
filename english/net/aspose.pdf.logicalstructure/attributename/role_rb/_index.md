@@ -1,14 +1,12 @@
 ---
 title: Role_rb
 second_title: Aspose.PDF for .NET API Reference
-description: Attribute Role rb - Radio button.
+description: 
 type: docs
 weight: 410
 url: /net/aspose.pdf.logicalstructure/attributename/role_rb/
 ---
 ## AttributeName.Role_rb field
-
-Attribute Role: rb - Radio button.
 
 ```csharp
 public static readonly AttributeName Role_rb;

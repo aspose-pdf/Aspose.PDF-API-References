@@ -1,14 +1,12 @@
 ---
 title: Layout
 second_title: Aspose.PDF for .NET API Reference
-description: Layout attribute owner.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
 ## AttributeOwnerStandard.Layout field
-
-Layout attribute owner.
 
 ```csharp
 public static readonly AttributeOwnerStandard Layout;

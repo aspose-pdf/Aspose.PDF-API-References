@@ -1,14 +1,12 @@
 ---
 title: ElementList
 second_title: Aspose.PDF for .NET API Reference
-description: Represents an ordered collection of elements.
+description: 
 type: docs
-weight: 4160
+weight: 4110
 url: /net/aspose.pdf.logicalstructure/elementlist/
 ---
 ## ElementList class
-
-Represents an ordered collection of elements.
 
 ```csharp
 public abstract class ElementList : IEnumerable<Element>
@@ -18,15 +16,15 @@ public abstract class ElementList : IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| abstract [Count](../../aspose.pdf.logicalstructure/elementlist/count) { get; } | Gets the number of elements in the ElementList. |
-| virtual [ElementOf](../../aspose.pdf.logicalstructure/elementlist/elementof) { get; } | Gets an element at the given index. |
+| abstract [Count](../../aspose.pdf.logicalstructure/elementlist/count) { get; } |  |
+| virtual [ElementOf](../../aspose.pdf.logicalstructure/elementlist/elementof) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.pdf.logicalstructure/elementlist/getenumerator)() | Gets an enumerator that iterates through the collection of elements. |
-| abstract [Item](../../aspose.pdf.logicalstructure/elementlist/item)(int) | Retrieves a element at the given index. |
+| abstract [GetEnumerator](../../aspose.pdf.logicalstructure/elementlist/getenumerator)() |  |
+| abstract [Item](../../aspose.pdf.logicalstructure/elementlist/item)(int) |  |
 
 ### See Also
 

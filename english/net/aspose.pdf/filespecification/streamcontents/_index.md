@@ -1,14 +1,12 @@
 ---
 title: StreamContents
 second_title: Aspose.PDF for .NET API Reference
-description: Gets contents of file as stream. Contents is not loaded into memory which allows to decrease memory usage. But this stream does not support positioning and Length property. If you need this features please use Contents property instead.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf/filespecification/streamcontents/
 ---
 ## FileSpecification.StreamContents property
-
-Gets contents of file as stream. Contents is not loaded into memory which allows to decrease memory usage. But this stream does not support positioning and Length property. If you need this features please use Contents property instead.
 
 ```csharp
 public Stream StreamContents { get; }

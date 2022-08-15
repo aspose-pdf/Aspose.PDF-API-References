@@ -1,14 +1,12 @@
 ---
 title: Type
 second_title: Aspose.PDF for .NET API Reference
-description: Gets artifact type.
+description: 
 type: docs
 weight: 220
 url: /net/aspose.pdf/artifact/type/
 ---
 ## Artifact.Type property
-
-Gets artifact type.
 
 ```csharp
 public ArtifactType Type { get; set; }

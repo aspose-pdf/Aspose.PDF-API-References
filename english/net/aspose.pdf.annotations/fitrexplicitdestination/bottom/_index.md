@@ -1,14 +1,12 @@
 ---
 title: Bottom
 second_title: Aspose.PDF for .NET API Reference
-description: Gets bottom vertical coordinate of visible rectangle.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/fitrexplicitdestination/bottom/
 ---
 ## FitRExplicitDestination.Bottom property
-
-Gets bottom vertical coordinate of visible rectangle.
 
 ```csharp
 public double Bottom { get; }

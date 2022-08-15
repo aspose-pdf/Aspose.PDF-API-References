@@ -1,14 +1,12 @@
 ---
 title: ClearFontEncs
 second_title: Aspose.PDF for .NET API Reference
-description: Clears the font encoding list
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/texsaveoptions/clearfontencs/
 ---
 ## TeXSaveOptions.ClearFontEncs method
-
-Clears the font encoding list
 
 ```csharp
 public void ClearFontEncs()

@@ -1,22 +1,16 @@
 ---
 title: Purple
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF800080.
+description: 
 type: docs
 weight: 1140
 url: /net/aspose.pdf/color/purple/
 ---
 ## Color.Purple property
 
-Gets a system-defined color that has an ARGB value of #FF800080.
-
 ```csharp
 public static Color Purple { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

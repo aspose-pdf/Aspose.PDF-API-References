@@ -1,14 +1,12 @@
 ---
 title: ScaleImagesToFitPageWidth
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a values used to scale all images on the page to fit pages width.
+description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf/renderingoptions/scaleimagestofitpagewidth/
 ---
 ## RenderingOptions.ScaleImagesToFitPageWidth property
-
-Gets or sets a values used to scale all images on the page to fit page's width.
 
 ```csharp
 public bool ScaleImagesToFitPageWidth { get; set; }

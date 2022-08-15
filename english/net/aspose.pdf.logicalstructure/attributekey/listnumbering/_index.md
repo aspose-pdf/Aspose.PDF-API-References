@@ -1,14 +1,12 @@
 ---
 title: ListNumbering
 second_title: Aspose.PDF for .NET API Reference
-description: ListNumbering attribute List attribute owner.
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf.logicalstructure/attributekey/listnumbering/
 ---
 ## AttributeKey.ListNumbering field
-
-ListNumbering attribute (List attribute owner).
 
 ```csharp
 public static readonly AttributeKey ListNumbering;

@@ -1,14 +1,12 @@
 ---
 title: FontTypes
 second_title: Aspose.PDF for .NET API Reference
-description: Supported font types enumeration.
+description: 
 type: docs
-weight: 6780
+weight: 6730
 url: /net/aspose.pdf.text/fonttypes/
 ---
 ## FontTypes enumeration
-
-Supported font types enumeration.
 
 ```csharp
 public enum FontTypes
@@ -18,8 +16,8 @@ public enum FontTypes
 
 | Name | Value | Description |
 | --- | --- | --- |
-| TTF | `0` | TTF font type |
-| OTF | `1` | OTF font type |
+| TTF | `0` |  |
+| OTF | `1` |  |
 
 ### See Also
 

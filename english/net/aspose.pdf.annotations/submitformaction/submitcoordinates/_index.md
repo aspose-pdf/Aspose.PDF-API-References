@@ -1,14 +1,12 @@
 ---
 title: SubmitCoordinates
 second_title: Aspose.PDF for .NET API Reference
-description: If set the coordinates of the mouse click that caused the submit-form action shall be transmitted as part of the form data.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf.annotations/submitformaction/submitcoordinates/
 ---
 ## SubmitFormAction.SubmitCoordinates field
-
-If set, the coordinates of the mouse click that caused the submit-form action shall be transmitted as part of the form data.
 
 ```csharp
 public const int SubmitCoordinates;

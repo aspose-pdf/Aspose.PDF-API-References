@@ -1,14 +1,12 @@
 ---
 title: PageModeUseOC
 second_title: Aspose.PDF for .NET API Reference
-description: Optional content group panel visible.
+description: 
 type: docs
 weight: 230
 url: /net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/
 ---
 ## ViewerPreference.PageModeUseOC field
-
-Optional content group panel visible.
 
 ```csharp
 public const int PageModeUseOC;

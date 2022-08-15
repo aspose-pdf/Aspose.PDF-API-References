@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clone the fragment.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.pdf.text/textfragment/clone/
 ---
 ## TextFragment.Clone method
 
-Clone the fragment.
-
 ```csharp
 public override object Clone()
 ```
-
-### Return Value
-
-The cloned object
 
 ### See Also
 

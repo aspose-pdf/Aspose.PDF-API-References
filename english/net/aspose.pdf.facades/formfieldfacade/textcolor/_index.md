@@ -1,14 +1,12 @@
 ---
 title: TextColor
 second_title: Aspose.PDF for .NET API Reference
-description: The color of the field text.
+description: 
 type: docs
 weight: 180
 url: /net/aspose.pdf.facades/formfieldfacade/textcolor/
 ---
 ## FormFieldFacade.TextColor property
-
-The color of the field text.
 
 ```csharp
 public Color TextColor { get; set; }

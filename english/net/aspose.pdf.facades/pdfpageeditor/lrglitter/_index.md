@@ -1,14 +1,12 @@
 ---
 title: LRGLITTER
 second_title: Aspose.PDF for .NET API Reference
-description: Left-Right Glitter
+description: 
 type: docs
 weight: 250
 url: /net/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
 ## PdfPageEditor.LRGLITTER field
-
-Left-Right Glitter
 
 ```csharp
 public const int LRGLITTER;

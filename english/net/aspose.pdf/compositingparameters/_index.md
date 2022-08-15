@@ -1,14 +1,12 @@
 ---
 title: CompositingParameters
 second_title: Aspose.PDF for .NET API Reference
-description: Represents an object containing graphics compositing parameters of current graphics state.
+description: 
 type: docs
-weight: 1550
+weight: 1500
 url: /net/aspose.pdf/compositingparameters/
 ---
 ## CompositingParameters class
-
-Represents an object containing graphics compositing parameters of current graphics state.
 
 ```csharp
 public sealed class CompositingParameters
@@ -18,17 +16,17 @@ public sealed class CompositingParameters
 
 | Name | Description |
 | --- | --- |
-| [CompositingParameters](compositingparameters#constructor)(BlendMode) | Initializes new instance of the [`CompositingParameters`](../compositingparameters) object. |
-| [CompositingParameters](compositingparameters#constructor_1)(BlendMode, ImageFilterType) | Initializes new instance of the [`CompositingParameters`](../compositingparameters) object. |
-| [CompositingParameters](compositingparameters#constructor_2)(BlendMode, ImageFilterType, bool) | Initializes new instance of the [`CompositingParameters`](../compositingparameters) object. |
+| [CompositingParameters](compositingparameters#constructor)(BlendMode) |  |
+| [CompositingParameters](compositingparameters#constructor_1)(BlendMode, ImageFilterType) |  |
+| [CompositingParameters](compositingparameters#constructor_2)(BlendMode, ImageFilterType, bool) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BlendMode](../../aspose.pdf/compositingparameters/blendmode) { get; } | Gets blend mode of current graphics state. |
-| [FilterType](../../aspose.pdf/compositingparameters/filtertype) { get; } | Gets the image filter type. |
-| [IsMasked](../../aspose.pdf/compositingparameters/ismasked) { get; } | Gets the mask flag. |
+| [BlendMode](../../aspose.pdf/compositingparameters/blendmode) { get; } |  |
+| [FilterType](../../aspose.pdf/compositingparameters/filtertype) { get; } |  |
+| [IsMasked](../../aspose.pdf/compositingparameters/ismasked) { get; } |  |
 
 ### See Also
 

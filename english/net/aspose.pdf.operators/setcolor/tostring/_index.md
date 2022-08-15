@@ -1,22 +1,16 @@
 ---
 title: ToString
 second_title: Aspose.PDF for .NET API Reference
-description: Returns string representation of color.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.operators/setcolor/tostring/
 ---
 ## SetColor.ToString method
 
-Returns string representation of color.
-
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-String representation of color.
 
 ### See Also
 

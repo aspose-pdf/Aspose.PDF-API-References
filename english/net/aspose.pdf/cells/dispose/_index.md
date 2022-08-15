@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: Dispose method
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/cells/dispose/
 ---
 ## Cells.Dispose method
-
-Dispose method
 
 ```csharp
 public void Dispose()

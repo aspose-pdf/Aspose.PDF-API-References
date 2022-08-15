@@ -1,22 +1,16 @@
 ---
 title: SetAttribute
 second_title: Aspose.PDF for .NET API Reference
-description: Sets StructureAttribute into StructureAttributes.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.logicalstructure/structureattributes/setattribute/
 ---
 ## StructureAttributes.SetAttribute method
 
-Sets StructureAttribute into StructureAttributes.
-
 ```csharp
 public void SetAttribute(StructureAttribute attribute)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| attribute | StructureAttribute | StructureAttribute. |
 
 ### See Also
 

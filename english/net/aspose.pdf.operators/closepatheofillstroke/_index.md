@@ -1,14 +1,12 @@
 ---
 title: ClosePathEOFillStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing b operator close fill and stroke path using even-odd rule.
+description: 
 type: docs
-weight: 4980
+weight: 4930
 url: /net/aspose.pdf.operators/closepatheofillstroke/
 ---
 ## ClosePathEOFillStroke class
-
-Class representing b* operator (close, fill and stroke path using even-odd rule).
 
 ```csharp
 public class ClosePathEOFillStroke : Operator
@@ -18,20 +16,20 @@ public class ClosePathEOFillStroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [ClosePathEOFillStroke](closepatheofillstroke)() | Initializes operator. |
+| [ClosePathEOFillStroke](closepatheofillstroke)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring)() |  |
 
 ### See Also
 

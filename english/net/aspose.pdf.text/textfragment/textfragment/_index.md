@@ -1,14 +1,14 @@
 ---
 title: TextFragment
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the TextFragmentaspose.pdf.text/textfragment object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/textfragment/textfragment/
 ---
 ## TextFragment() {#constructor}
 
-Initializes new instance of the [`TextFragment`](../../textfragment) object.
+The default constructor.
 
 ```csharp
 public TextFragment()
@@ -24,15 +24,9 @@ public TextFragment()
 
 ## TextFragment(TabStops) {#constructor_1}
 
-Initializes new instance of the [`TextFragment`](../../textfragment) object with predefined [`TabStops`](../../tabstops) positions.
-
 ```csharp
 public TextFragment(TabStops tabStops)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tabStops | TabStops | Tabulation positions |
 
 ### See Also
 
@@ -45,15 +39,9 @@ public TextFragment(TabStops tabStops)
 
 ## TextFragment(string) {#constructor_2}
 
-Creates [`TextFragment`](../../textfragment) object with single [`TextSegment`](../../textsegment) object inside. Specifies text string inside the segment.
-
 ```csharp
 public TextFragment(string text)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | String | Text fragment's text. |
 
 ### See Also
 
@@ -65,16 +53,9 @@ public TextFragment(string text)
 
 ## TextFragment(string, TabStops) {#constructor_3}
 
-Creates [`TextFragment`](../../textfragment) object with single [`TextSegment`](../../textsegment) object inside and predefined [`TabStops`](../../tabstops) positions.
-
 ```csharp
 public TextFragment(string text, TabStops tabStops)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | String | Text fragment's text. |
-| tabStops | TabStops | Tabulation positions |
 
 ### See Also
 

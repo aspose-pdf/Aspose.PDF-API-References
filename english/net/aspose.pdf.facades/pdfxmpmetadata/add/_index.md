@@ -1,31 +1,15 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds value to XMP metadata.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.pdf.facades/pdfxmpmetadata/add/
 ---
 ## Add(DefaultMetadataProperties, XmpValue) {#add}
 
-Adds value to XMP metadata.
-
 ```csharp
 public void Add(DefaultMetadataProperties key, XmpValue value)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | DefaultMetadataProperties | The key name. |
-| value | XmpValue | Value which will be added. |
-
-### Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-xmp.Add(DefaultMetadataProperties.Nickname, "name1");
-xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 ```
 
 ### See Also
@@ -40,19 +24,10 @@ xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-Adds extension field into metadata.
-
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
     string namespaceUri, string schemaDescription)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | The pdf extension object to add. |
-| namespacePrefix | String | The prefix of schema. |
-| namespaceUri | String | The namespace uri of schema. |
-| schemaDescription | String | The optional description of schema. |
 
 ### See Also
 
@@ -65,23 +40,8 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 
 ## Add(string, XmpValue) {#add_3}
 
-Adds new element to the dictionary object.
-
 ```csharp
 public void Add(string key, XmpValue value)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | Key of new element. |
-| value | XmpValue | Value of the element. |
-
-### Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-xmp.Add("xmp:Nickname", "Nickname1");
 ```
 
 ### See Also
@@ -95,16 +55,9 @@ xmp.Add("xmp:Nickname", "Nickname1");
 
 ## Add(string, object) {#add_4}
 
-Adds new element to the dictionary object.
-
 ```csharp
 public void Add(string key, object value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | Key of new element. |
-| value | Object | Value of the element. |
 
 ### See Also
 
@@ -116,15 +69,9 @@ public void Add(string key, object value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-Adds pair with key and value into the dictionary.
-
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Item to be added. |
 
 ### See Also
 

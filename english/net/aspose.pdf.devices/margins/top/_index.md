@@ -1,22 +1,16 @@
 ---
 title: Top
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the top.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.devices/margins/top/
 ---
 ## Margins.Top property
 
-Gets or sets the top.
-
 ```csharp
 public int Top { get; set; }
 ```
-
-### Property Value
-
-The top.
 
 ### See Also
 

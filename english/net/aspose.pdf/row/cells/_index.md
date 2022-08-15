@@ -1,14 +1,12 @@
 ---
 title: Cells
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the cells of the row.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/row/cells/
 ---
 ## Row.Cells property
-
-Gets the cells of the row.
 
 ```csharp
 public Cells Cells { get; set; }

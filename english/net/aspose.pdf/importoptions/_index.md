@@ -1,14 +1,12 @@
 ---
 title: ImportOptions
 second_title: Aspose.PDF for .NET API Reference
-description: ImportOptions type hold level of abstraction on individual import options.
+description: 
 type: docs
-weight: 3810
+weight: 3760
 url: /net/aspose.pdf/importoptions/
 ---
 ## ImportOptions class
-
-ImportOptions type hold level of abstraction on individual import options.
 
 ```csharp
 public abstract class ImportOptions
@@ -18,7 +16,7 @@ public abstract class ImportOptions
 
 | Name | Description |
 | --- | --- |
-| [ImportFormat](../../aspose.pdf/importoptions/importformat) { get; } | Import format. |
+| [ImportFormat](../../aspose.pdf/importoptions/importformat) { get; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Justify
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets justification of the rich text box.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.forms/richtextboxfield/justify/
 ---
 ## RichTextBoxField.Justify property
-
-Gets or sets justification of the rich text box.
 
 ```csharp
 public Justification Justify { get; set; }

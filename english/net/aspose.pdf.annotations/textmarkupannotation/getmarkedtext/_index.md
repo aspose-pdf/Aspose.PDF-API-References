@@ -1,22 +1,16 @@
 ---
 title: GetMarkedText
 second_title: Aspose.PDF for .NET API Reference
-description: Gets text under markup annotation as string.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 ---
 ## TextMarkupAnnotation.GetMarkedText method
 
-Gets text under markup annotation as string.
-
 ```csharp
 public string GetMarkedText()
 ```
-
-### Return Value
-
-String containing text that is under markup annotation.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Style
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets default style string of the rich text field.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.forms/richtextboxfield/style/
 ---
 ## RichTextBoxField.Style property
-
-Gets or sets default style string of the rich text field.
 
 ```csharp
 public string Style { get; set; }

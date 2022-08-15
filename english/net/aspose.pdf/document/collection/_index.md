@@ -1,14 +1,12 @@
 ---
 title: Collection
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of document.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/document/collection/
 ---
 ## Document.Collection property
-
-Gets collection of document.
 
 ```csharp
 public Collection Collection { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: ChildItems
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets bookmarks children.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/bookmark/childitems/
 ---
 ## Bookmark.ChildItems property
-
-Gets or sets bookmark's children.
 
 ```csharp
 public Bookmarks ChildItems { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: ImageResolutionY
 second_title: Aspose.PDF for .NET API Reference
-description: Converted images Y resolution.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/docsaveoptions/imageresolutiony/
 ---
 ## DocSaveOptions.ImageResolutionY property
-
-Converted images Y resolution.
 
 ```csharp
 public int ImageResolutionY { get; set; }

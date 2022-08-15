@@ -1,14 +1,12 @@
 ---
 title: Text
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a note text.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/note/text/
 ---
 ## Note.Text property
-
-Gets or sets a note text.
 
 ```csharp
 public string Text { get; set; }

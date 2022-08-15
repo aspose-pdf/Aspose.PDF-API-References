@@ -1,14 +1,12 @@
 ---
 title: TD
 second_title: Aspose.PDF for .NET API Reference
-description: Table data cell A table cell containing data that is part of the tables content.
+description: 
 type: docs
 weight: 400
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
 ## StructureTypeStandard.TD field
-
-(Table data cell) A table cell containing data that is part of the table's content.
 
 ```csharp
 public static readonly StructureTypeStandard TD;

@@ -1,22 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds new font source object to the collection.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/fontsourcecollection/add/
 ---
 ## FontSourceCollection.Add method
 
-Adds new font source object to the collection.
-
 ```csharp
 public void Add(FontSource fontSource)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSource | FontSource | Font source. |
 
 ### See Also
 

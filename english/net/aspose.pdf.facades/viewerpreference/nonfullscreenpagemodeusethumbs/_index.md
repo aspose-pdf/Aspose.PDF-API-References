@@ -1,14 +1,12 @@
 ---
 title: NonFullScreenPageModeUseThumbs
 second_title: Aspose.PDF for .NET API Reference
-description: Thumbnail images visible
+description: 
 type: docs
 weight: 150
 url: /net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 ---
 ## ViewerPreference.NonFullScreenPageModeUseThumbs field
-
-Thumbnail images visible
 
 ```csharp
 public const int NonFullScreenPageModeUseThumbs;

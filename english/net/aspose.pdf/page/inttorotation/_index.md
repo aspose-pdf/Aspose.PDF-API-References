@@ -1,26 +1,16 @@
 ---
 title: IntToRotation
 second_title: Aspose.PDF for .NET API Reference
-description: Translates integer value into corresponding rotation enumeration member.
+description: 
 type: docs
 weight: 490
 url: /net/aspose.pdf/page/inttorotation/
 ---
 ## Page.IntToRotation method
 
-Translates integer value into corresponding rotation enumeration member.
-
 ```csharp
 public static Rotation IntToRotation(int rotation)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rotation | Int32 | Integer value to convert |
-
-### Return Value
-
-Rotation enumeration member
 
 ### See Also
 

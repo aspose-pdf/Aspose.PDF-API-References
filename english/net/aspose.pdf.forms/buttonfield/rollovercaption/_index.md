@@ -1,14 +1,12 @@
 ---
 title: RolloverCaption
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets rollover caption of button which shall be displayed when the user rolls the cursor into its active area without pressing the mouse button.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.forms/buttonfield/rollovercaption/
 ---
 ## ButtonField.RolloverCaption property
-
-Gets or sets rollover caption of button which shall be displayed when the user rolls the cursor into its active area without pressing the mouse button.
 
 ```csharp
 public string RolloverCaption { get; set; }

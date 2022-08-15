@@ -1,22 +1,16 @@
 ---
 title: PageCount
 second_title: Aspose.PDF for .NET API Reference
-description: Gets page count of the current Pdf file.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/pdfviewer/pagecount/
 ---
 ## PdfViewer.PageCount property
 
-Gets page count of the current Pdf file.
-
 ```csharp
 public int PageCount { get; }
 ```
-
-### Return Value
-
-return page count.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: E
 second_title: Aspose.PDF for .NET API Reference
-description: E member of the transformation matrix.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/matrix3d/e/
 ---
 ## Matrix3D.E property
-
-E member of the transformation matrix.
 
 ```csharp
 public double E { get; set; }

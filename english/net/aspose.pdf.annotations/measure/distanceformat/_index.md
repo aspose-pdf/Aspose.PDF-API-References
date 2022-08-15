@@ -1,14 +1,12 @@
 ---
 title: DistanceFormat
 second_title: Aspose.PDF for .NET API Reference
-description: A number format array for measurement of distance in any direction.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/measure/distanceformat/
 ---
 ## Measure.DistanceFormat property
-
-A number format array for measurement of distance in any direction.
 
 ```csharp
 public NumberFormatList DistanceFormat { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets rectangle of the paragraph.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.text/textparagraph/rectangle/
 ---
 ## TextParagraph.Rectangle property
-
-Gets or sets rectangle of the paragraph.
 
 ```csharp
 public Rectangle Rectangle { get; set; }

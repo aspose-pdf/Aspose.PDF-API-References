@@ -1,14 +1,12 @@
 ---
 title: AllowFillIn
 second_title: Aspose.PDF for .NET API Reference
-description: Sets the permission which allow fill in forms or not. true is allow and false is forbidden.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf.facades/documentprivilege/allowfillin/
 ---
 ## DocumentPrivilege.AllowFillIn property
-
-Sets the permission which allow fill in forms or not. true is allow and false is forbidden.
 
 ```csharp
 public bool AllowFillIn { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API Reference
-description: Performs search for sections and paragraphs on the specified Documentaspose.pdf/document.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/paragraphabsorber/visit/
 ---
 ## Visit(Document) {#visit}
 
-Performs search for sections and paragraphs on the specified [`Document`](../../../aspose.pdf/document).
-
 ```csharp
 public void Visit(Document doc)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Pdf document object. |
 
 ### See Also
 
@@ -29,15 +23,9 @@ public void Visit(Document doc)
 
 ## Visit(Page) {#visit_1}
 
-Performs search on the specified [`Page`](../../../aspose.pdf/page).
-
 ```csharp
 public void Visit(Page page)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Pdf document page object. |
 
 ### See Also
 

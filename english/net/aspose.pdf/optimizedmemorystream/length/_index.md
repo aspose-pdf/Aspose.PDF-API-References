@@ -1,22 +1,16 @@
 ---
 title: Length
 second_title: Aspose.PDF for .NET API Reference
-description: When overridden in a derived class gets the length in bytes of the stream.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/optimizedmemorystream/length/
 ---
 ## OptimizedMemoryStream.Length property
 
-When overridden in a derived class, gets the length in bytes of the stream.
-
 ```csharp
 public override long Length { get; }
 ```
-
-### Return Value
-
-A long value representing the length of the stream in bytes.
 
 ### See Also
 

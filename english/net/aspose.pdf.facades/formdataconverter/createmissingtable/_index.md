@@ -1,14 +1,12 @@
 ---
 title: CreateMissingTable
 second_title: Aspose.PDF for .NET API Reference
-description: ImportIntoDatabase will create table if it does not exists.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/formdataconverter/createmissingtable/
 ---
 ## FormDataConverter.CreateMissingTable property
-
-ImportIntoDatabase will create table if it does not exists.
 
 ```csharp
 public bool CreateMissingTable { get; set; }

@@ -1,23 +1,16 @@
 ---
 title: PolygonAnnotation
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor for using with Generator.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/polygonannotation/polygonannotation/
 ---
 ## PolygonAnnotation(Document, Point[]) {#constructor}
 
-Constructor for using with Generator.
-
 ```csharp
 public PolygonAnnotation(Document document, Point[] vertices)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Document where annotation will be added. |
-| vertices | Point[] | Array of points. |
 
 ### See Also
 
@@ -31,17 +24,9 @@ public PolygonAnnotation(Document document, Point[] vertices)
 
 ## PolygonAnnotation(Page, Rectangle, Point[]) {#constructor_1}
 
-Creates new Polygon annotation on the specified page.
-
 ```csharp
 public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The document's page where annotation should be created. |
-| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| vertices | Point[] | An array of polygon vertices points. |
 
 ### See Also
 

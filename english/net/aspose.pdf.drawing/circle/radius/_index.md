@@ -1,14 +1,12 @@
 ---
 title: Radius
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the radius of the circle.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.drawing/circle/radius/
 ---
 ## Circle.Radius property
-
-Gets or sets a float value that indicates the radius of the circle.
 
 ```csharp
 public double Radius { get; set; }

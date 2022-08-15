@@ -1,14 +1,12 @@
 ---
 title: Lbl
 second_title: Aspose.PDF for .NET API Reference
-description: Label A name or number that distinguishes a given item from others in the same list or other group of like items.
+description: 
 type: docs
 weight: 210
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/lbl/
 ---
 ## StructureTypeStandard.Lbl field
-
-(Label) A name or number that distinguishes a given item from others in the same list or other group of like items.
 
 ```csharp
 public static readonly StructureTypeStandard Lbl;

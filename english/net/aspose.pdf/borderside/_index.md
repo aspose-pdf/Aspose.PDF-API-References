@@ -1,14 +1,12 @@
 ---
 title: BorderSide
 second_title: Aspose.PDF for .NET API Reference
-description: Enumerates the border sides.
+description: 
 type: docs
-weight: 1420
+weight: 1370
 url: /net/aspose.pdf/borderside/
 ---
 ## BorderSide enumeration
-
-Enumerates the border sides.
 
 ```csharp
 public enum BorderSide
@@ -18,13 +16,13 @@ public enum BorderSide
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No border. |
-| Left | `1` | Left border. |
-| Top | `2` | Top border. |
-| Right | `4` | Right border. |
-| Bottom | `8` | Bottom border. |
-| All | `15` | All sides borders.It has the same meaning when useing "Box" and will be replaced by "Box" one year later. So, please use "Box" if possible. |
-| Box | `15` | Four sides borders. |
+| None | `0` |  |
+| Left | `1` |  |
+| Top | `2` |  |
+| Right | `4` |  |
+| Bottom | `8` |  |
+| All | `15` |  |
+| Box | `15` |  |
 
 ### See Also
 

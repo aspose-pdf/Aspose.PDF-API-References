@@ -1,14 +1,12 @@
 ---
 title: Document.IDocumentFontUtilities
 second_title: Aspose.PDF for .NET API Reference
-description: Holds functionality to tune fonts
+description: 
 type: docs
-weight: 1900
+weight: 1850
 url: /net/aspose.pdf/document.idocumentfontutilities/
 ---
 ## Document.IDocumentFontUtilities interface
-
-Holds functionality to tune fonts
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -18,8 +16,8 @@ public interface IDocumentFontUtilities
 
 | Name | Description |
 | --- | --- |
-| [GetAllFonts](../../aspose.pdf/idocumentfontutilities/getallfonts)() | Returns all fonts from document |
-| [SubsetFonts](../../aspose.pdf/idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Subsets all fonts in document |
+| [GetAllFonts](../../aspose.pdf/idocumentfontutilities/getallfonts)() |  |
+| [SubsetFonts](../../aspose.pdf/idocumentfontutilities/subsetfonts)(FontSubsetStrategy) |  |
 
 ### See Also
 

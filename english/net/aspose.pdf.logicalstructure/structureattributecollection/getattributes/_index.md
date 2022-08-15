@@ -1,26 +1,16 @@
 ---
 title: GetAttributes
 second_title: Aspose.PDF for .NET API Reference
-description: Return StructureAttributesaspose.pdf.logicalstructure/structureattributes of structure element by standard attribute owner.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
 ## StructureAttributeCollection.GetAttributes method
 
-Return [`StructureAttributes`](../../structureattributes) of structure element by standard attribute owner.
-
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| ownerStandard | AttributeOwnerStandard | Standard attribute owner. |
-
-### Return Value
-
-[`StructureAttributes`](../../structureattributes) of structure element. Return null if not found.
 
 ### See Also
 

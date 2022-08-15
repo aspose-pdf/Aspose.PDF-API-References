@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.PDF for .NET API Reference
-description: Clone the checkbox.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.forms/checkboxfield/clone/
 ---
 ## CheckboxField.Clone method
 
-Clone the checkbox.
-
 ```csharp
 public override object Clone()
 ```
-
-### Return Value
-
-The cloned object
 
 ### See Also
 

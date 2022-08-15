@@ -1,22 +1,16 @@
 ---
 title: RemoveAt
 second_title: Aspose.PDF for .NET API Reference
-description: Removes number format from list.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.annotations/measure.numberformatlist/removeat/
 ---
 ## Measure.NumberFormatList.RemoveAt method
 
-Removes number format from list.
-
 ```csharp
 public void RemoveAt(int index)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of item to be removed. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: DefaultCellTextState
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets default text state for row cells
+description: 
 type: docs
 weight: 70
 url: /net/aspose.pdf/row/defaultcelltextstate/
 ---
 ## Row.DefaultCellTextState property
-
-Gets or sets default text state for row cells
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }

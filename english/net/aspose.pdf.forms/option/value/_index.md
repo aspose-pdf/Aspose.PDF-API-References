@@ -1,14 +1,12 @@
 ---
 title: Value
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets option export value.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.forms/option/value/
 ---
 ## Option.Value property
-
-Gets or sets option export value.
 
 ```csharp
 public string Value { get; set; }

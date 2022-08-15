@@ -1,33 +1,15 @@
 ---
 title: SetSubmitUrl
 second_title: Aspose.PDF for .NET API Reference
-description: Sets URL of the button.
+description: 
 type: docs
-weight: 380
+weight: 340
 url: /net/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
 ## FormEditor.SetSubmitUrl method
 
-Sets URL of the button.
-
 ```csharp
 public bool SetSubmitUrl(string fieldName, string url)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | String | Submit button name. |
-| url | String | Fully qualified URL. |
-
-### Return Value
-
-true if URL for button was successfully set.
-
-### Examples
-
-```csharp
-FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitUrl.pdf");
-formEditor.SetSubmitUrl("btnSubmit", "www.mysite.com");
 ```
 
 ### See Also

@@ -1,14 +1,12 @@
 ---
 title: XfaTag
 second_title: Aspose.PDF for .NET API Reference
-description: The xfa stream tag
+description: 
 type: docs
-weight: 7430
+weight: 7380
 url: /net/aspose.pdf/xfatag/
 ---
 ## XfaTag enumeration
-
-The xfa stream tag
 
 ```csharp
 public enum XfaTag
@@ -18,11 +16,11 @@ public enum XfaTag
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Template | `0` | The template tag |
-| Datasets | `1` | The datasets tag |
-| Config | `2` | The config tag |
-| Localset | `3` | The localset tag |
-| Form | `4` | The form tag |
+| Template | `0` |  |
+| Datasets | `1` |  |
+| Config | `2` |  |
+| Localset | `3` |  |
+| Form | `4` |  |
 
 ### See Also
 

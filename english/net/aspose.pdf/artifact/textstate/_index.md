@@ -1,14 +1,12 @@
 ---
 title: TextState
 second_title: Aspose.PDF for .NET API Reference
-description: Text state for artifact text.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf/artifact/textstate/
 ---
 ## Artifact.TextState property
-
-Text state for artifact text.
 
 ```csharp
 public TextState TextState { get; set; }

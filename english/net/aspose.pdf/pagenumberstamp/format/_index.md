@@ -1,14 +1,12 @@
 ---
 title: Format
 second_title: Aspose.PDF for .NET API Reference
-description: String value for stamping page numbers. Value must include char  which is replaced with the page number in the process of stamping.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/pagenumberstamp/format/
 ---
 ## PageNumberStamp.Format property
-
-String value for stamping page numbers. Value must include char '#' which is replaced with the page number in the process of stamping.
 
 ```csharp
 public string Format { get; set; }

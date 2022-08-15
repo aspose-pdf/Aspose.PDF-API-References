@@ -1,14 +1,12 @@
 ---
 title: RightMargin
 second_title: Aspose.PDF for .NET API Reference
-description: Right margin of artifact. If position is specified explicitly in Position property this value is ignored.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.pdf/artifact/rightmargin/
 ---
 ## Artifact.RightMargin property
-
-Right margin of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 ```csharp
 public double RightMargin { get; set; }

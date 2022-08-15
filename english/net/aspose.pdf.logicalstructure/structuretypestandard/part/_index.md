@@ -1,14 +1,12 @@
 ---
 title: Part
 second_title: Aspose.PDF for .NET API Reference
-description: Part A large-scale division of a document. This type of element is appropriate for grouping articles or sections.
+description: 
 type: docs
 weight: 280
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/part/
 ---
 ## StructureTypeStandard.Part field
-
-(Part) A large-scale division of a document. This type of element is appropriate for grouping articles or sections.
 
 ```csharp
 public static readonly StructureTypeStandard Part;

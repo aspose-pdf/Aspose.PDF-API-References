@@ -1,28 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds the specified view.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/pdf3dviewarray/add/
 ---
 ## PDF3DViewArray.Add method
 
-Adds the specified view.
-
 ```csharp
 public void Add(PDF3DView view)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| view | PDF3DView | The view. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | Only one entry of 3D view is allowed |
 
 ### See Also
 

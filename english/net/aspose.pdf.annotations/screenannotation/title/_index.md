@@ -1,14 +1,12 @@
 ---
 title: Title
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the title of the screen annotation.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.annotations/screenannotation/title/
 ---
 ## ScreenAnnotation.Title property
-
-Gets or sets the title of the screen annotation.
 
 ```csharp
 public string Title { get; set; }

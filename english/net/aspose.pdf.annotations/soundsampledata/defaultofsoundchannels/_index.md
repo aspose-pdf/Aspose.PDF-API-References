@@ -1,14 +1,12 @@
 ---
 title: DefaultOfSoundChannels
 second_title: Aspose.PDF for .NET API Reference
-description: Default value for Channels parameter.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/
 ---
 ## SoundSampleData.DefaultOfSoundChannels field
-
-Default value for Channels parameter.
 
 ```csharp
 public const int DefaultOfSoundChannels;

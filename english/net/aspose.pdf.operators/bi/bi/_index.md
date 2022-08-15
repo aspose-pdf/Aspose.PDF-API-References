@@ -1,14 +1,14 @@
 ---
 title: BI
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes operator.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.operators/bi/bi/
 ---
 ## BI constructor
 
-Initializes operator.
+The default constructor.
 
 ```csharp
 public BI()

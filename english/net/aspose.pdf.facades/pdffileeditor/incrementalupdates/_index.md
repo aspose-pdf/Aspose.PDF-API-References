@@ -1,14 +1,12 @@
 ---
 title: IncrementalUpdates
 second_title: Aspose.PDF for .NET API Reference
-description: If true incremental updates are made during concatenation.
+description: 
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.pdf.facades/pdffileeditor/incrementalupdates/
 ---
 ## PdfFileEditor.IncrementalUpdates property
-
-If true, incremental updates are made during concatenation.
 
 ```csharp
 public bool IncrementalUpdates { get; set; }

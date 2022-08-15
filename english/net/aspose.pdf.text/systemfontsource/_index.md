@@ -1,14 +1,12 @@
 ---
 title: SystemFontSource
 second_title: Aspose.PDF for .NET API Reference
-description: Represents all fonts installed to the system.
+description: 
 type: docs
-weight: 6890
+weight: 6840
 url: /net/aspose.pdf.text/systemfontsource/
 ---
 ## SystemFontSource class
-
-Represents all fonts installed to the system.
 
 ```csharp
 public sealed class SystemFontSource : FontSource
@@ -24,7 +22,7 @@ public sealed class SystemFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/systemfontsource/equals)(object) | Check if system font source objects are equal. |
+| override [Equals](../../aspose.pdf.text/systemfontsource/equals)(object) |  |
 
 ### See Also
 

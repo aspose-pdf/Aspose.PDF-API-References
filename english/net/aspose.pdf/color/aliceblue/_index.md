@@ -1,22 +1,16 @@
 ---
 title: AliceBlue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFF0F8FF.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/color/aliceblue/
 ---
 ## Color.AliceBlue property
 
-Gets a system-defined color that has an ARGB value of #FFF0F8FF.
-
 ```csharp
 public static Color AliceBlue { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

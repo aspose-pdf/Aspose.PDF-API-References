@@ -1,14 +1,12 @@
 ---
 title: ClosePathFillStroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing b operator close fill and stroke path with nonzer winding rule.
+description: 
 type: docs
-weight: 4990
+weight: 4940
 url: /net/aspose.pdf.operators/closepathfillstroke/
 ---
 ## ClosePathFillStroke class
-
-Class representing b operator (close, fill and stroke path with nonzer winding rule).
 
 ```csharp
 public class ClosePathFillStroke : Operator
@@ -18,20 +16,20 @@ public class ClosePathFillStroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [ClosePathFillStroke](closepathfillstroke)() | Initializes operator. |
+| [ClosePathFillStroke](closepathfillstroke)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring)() | Returns string representation of operator. |
+| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring)() |  |
 
 ### See Also
 

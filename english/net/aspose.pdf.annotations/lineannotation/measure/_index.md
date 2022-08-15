@@ -1,14 +1,12 @@
 ---
 title: Measure
 second_title: Aspose.PDF for .NET API Reference
-description: Measure units specifed for this annotation.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.pdf.annotations/lineannotation/measure/
 ---
 ## LineAnnotation.Measure property
-
-Measure units specifed for this annotation.
 
 ```csharp
 public Measure Measure { get; set; }

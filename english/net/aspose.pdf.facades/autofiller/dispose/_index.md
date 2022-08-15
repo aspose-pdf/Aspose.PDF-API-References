@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.PDF for .NET API Reference
-description: Closes the object and output streams.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.pdf.facades/autofiller/dispose/
 ---
 ## AutoFiller.Dispose method
-
-Closes the object and output streams.
 
 ```csharp
 public void Dispose()

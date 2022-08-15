@@ -1,14 +1,12 @@
 ---
 title: Checked
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets state of check box.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.forms/checkboxfield/checked/
 ---
 ## CheckboxField.Checked property
-
-Gets or sets state of check box.
 
 ```csharp
 public bool Checked { get; set; }

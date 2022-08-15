@@ -1,14 +1,12 @@
 ---
 title: AbsorbedCell
 second_title: Aspose.PDF for .NET API Reference
-description: Represents cell of table that exist on the page
+description: 
 type: docs
-weight: 6600
+weight: 6550
 url: /net/aspose.pdf.text/absorbedcell/
 ---
 ## AbsorbedCell class
-
-Represents cell of table that exist on the page
 
 ```csharp
 public class AbsorbedCell : ITableElement
@@ -18,8 +16,8 @@ public class AbsorbedCell : ITableElement
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle) { get; } | Gets rectangle that describes position of the cell on page |
-| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments) { get; } | Gets collection of [`TextFragment`](../textfragment) objects that describes text containing in the cell |
+| [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle) { get; } |  |
+| [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments) { get; } |  |
 
 ### See Also
 

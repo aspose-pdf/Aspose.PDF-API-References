@@ -1,14 +1,12 @@
 ---
 title: TimestampSettings
 second_title: Aspose.PDF for .NET API Reference
-description: Represents the ocsp settings using during signing process.
+description: 
 type: docs
-weight: 7250
+weight: 7200
 url: /net/aspose.pdf/timestampsettings/
 ---
 ## TimestampSettings class
-
-Represents the ocsp settings using during signing process.
 
 ```csharp
 public class TimestampSettings
@@ -18,15 +16,15 @@ public class TimestampSettings
 
 | Name | Description |
 | --- | --- |
-| [TimestampSettings](timestampsettings)(string, string, DigestHashAlgorithm) | Initializes a new instance of the [`TimestampSettings`](../timestampsettings) class. |
+| [TimestampSettings](timestampsettings)(string, string, DigestHashAlgorithm) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials) { get; set; } | Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password". |
-| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm) { get; set; } | Gets/sets the digest algorithm for internal hash functions. |
-| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl) { get; set; } | Gets/sets the timestamp server url. |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials) { get; set; } |  |
+| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm) { get; set; } |  |
+| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl) { get; set; } |  |
 
 ### See Also
 

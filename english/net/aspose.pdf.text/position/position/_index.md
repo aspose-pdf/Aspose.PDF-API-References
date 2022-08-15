@@ -1,23 +1,16 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of Positionaspose.pdf.text/position class
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/position/position/
 ---
 ## Position constructor
 
-Initializes a new instance of [`Position`](../../position) class
-
 ```csharp
 public Position(double xIndent, double yIndent)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xIndent | Double | X coordinate value. |
-| yIndent | Double | Y coordinate value. |
 
 ### See Also
 

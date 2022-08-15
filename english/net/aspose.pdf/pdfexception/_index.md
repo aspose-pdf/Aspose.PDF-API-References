@@ -1,14 +1,12 @@
 ---
 title: PdfException
 second_title: Aspose.PDF for .NET API Reference
-description: Represents errors that occur during PDF application execution.
+description: 
 type: docs
-weight: 6010
+weight: 5960
 url: /net/aspose.pdf/pdfexception/
 ---
 ## PdfException class
-
-Represents errors that occur during PDF application execution.
 
 ```csharp
 public class PdfException : Exception
@@ -18,10 +16,10 @@ public class PdfException : Exception
 
 | Name | Description |
 | --- | --- |
-| [PdfException](pdfexception#constructor)() | Initializes a new instance of the [`PdfException`](../pdfexception) class. |
-| [PdfException](pdfexception#constructor_1)(Exception) | Initializes a new instance of the [`PdfException`](../pdfexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| [PdfException](pdfexception#constructor_2)(string) | Initializes a new instance of the [`PdfException`](../pdfexception) class. |
-| [PdfException](pdfexception#constructor_3)(string, Exception) | Initializes a new instance of the [`PdfException`](../pdfexception) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [PdfException](pdfexception#constructor)() | The default constructor. |
+| [PdfException](pdfexception#constructor_1)(Exception) |  |
+| [PdfException](pdfexception#constructor_2)(string) |  |
+| [PdfException](pdfexception#constructor_3)(string, Exception) |  |
 
 ### See Also
 

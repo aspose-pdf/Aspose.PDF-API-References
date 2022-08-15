@@ -1,14 +1,12 @@
 ---
 title: Empty
 second_title: Aspose.PDF for .NET API Reference
-description: Represents empty color.
+description: 
 type: docs
 weight: 1430
 url: /net/aspose.pdf/color/empty/
 ---
 ## Color.Empty field
-
-Represents empty color.
 
 ```csharp
 public static Color Empty;

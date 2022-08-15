@@ -1,14 +1,12 @@
 ---
 title: DefaultTextState
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets default font.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf/pageinfo/defaulttextstate/
 ---
 ## PageInfo.DefaultTextState property
-
-Gets or sets default font.
 
 ```csharp
 public TextState DefaultTextState { get; set; }

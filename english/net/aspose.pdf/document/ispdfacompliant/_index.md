@@ -1,14 +1,12 @@
 ---
 title: IsPdfaCompliant
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the is document pdfa compliant.
+description: 
 type: docs
 weight: 300
 url: /net/aspose.pdf/document/ispdfacompliant/
 ---
 ## Document.IsPdfaCompliant property
-
-Gets the is document pdfa compliant.
 
 ```csharp
 public bool IsPdfaCompliant { get; }

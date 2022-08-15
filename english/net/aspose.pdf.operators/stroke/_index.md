@@ -1,14 +1,12 @@
 ---
 title: Stroke
 second_title: Aspose.PDF for .NET API Reference
-description: Class representing S operator stroke path.
+description: 
 type: docs
-weight: 5650
+weight: 5600
 url: /net/aspose.pdf.operators/stroke/
 ---
 ## Stroke class
-
-Class representing S operator (stroke path).
 
 ```csharp
 public class Stroke : Operator
@@ -18,20 +16,20 @@ public class Stroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [Stroke](stroke)() | Initializes operator. |
+| [Stroke](stroke)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/stroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/stroke/tostring)() | Returns text representation of the operator. |
+| override [Accept](../../aspose.pdf.operators/stroke/accept)(IOperatorSelector) |  |
+| override [ToString](../../aspose.pdf.operators/stroke/tostring)() |  |
 
 ### See Also
 

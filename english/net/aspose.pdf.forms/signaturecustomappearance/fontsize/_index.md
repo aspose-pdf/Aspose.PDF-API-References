@@ -1,14 +1,12 @@
 ---
 title: FontSize
 second_title: Aspose.PDF for .NET API Reference
-description: Gets/sets font size. Default value 10.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
 ## SignatureCustomAppearance.FontSize property
-
-Gets/sets font size. Default value: 10.
 
 ```csharp
 public double FontSize { get; set; }

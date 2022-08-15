@@ -1,14 +1,12 @@
 ---
 title: IsInteger
 second_title: Aspose.PDF for .NET API Reference
-description: Returns true if value is integer.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/xmpvalue/isinteger/
 ---
 ## XmpValue.IsInteger property
-
-Returns true if value is integer.
 
 ```csharp
 public bool IsInteger { get; }

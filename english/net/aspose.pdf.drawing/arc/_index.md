@@ -1,14 +1,12 @@
 ---
 title: Arc
 second_title: Aspose.PDF for .NET API Reference
-description: Represents arc.
+description: 
 type: docs
-weight: 1930
+weight: 1880
 url: /net/aspose.pdf.drawing/arc/
 ---
 ## Arc class
-
-Represents arc.
 
 ```csharp
 public sealed class Arc : Shape
@@ -18,19 +16,19 @@ public sealed class Arc : Shape
 
 | Name | Description |
 | --- | --- |
-| [Arc](arc)(float, float, float, float, float) | Initializes a new instance of the [`Arc`](../arc) class. |
+| [Arc](arc)(float, float, float, float, float) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Alpha](../../aspose.pdf.drawing/arc/alpha) { get; set; } | Gets or sets a float value that indicates the beginning angle degree of the arc. |
-| [Beta](../../aspose.pdf.drawing/arc/beta) { get; set; } | Gets or sets a float value that indicates the ending angle degree of the arc. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo) object that indicates the graph info,such as color, line width,etc. |
-| [PosX](../../aspose.pdf.drawing/arc/posx) { get; set; } | Gets or sets a float value that indicates the x-coordinate of the center of the arc. |
-| [PosY](../../aspose.pdf.drawing/arc/posy) { get; set; } | Gets or sets a float value that indicates the y-coordinate of the center of the arc. |
-| [Radius](../../aspose.pdf.drawing/arc/radius) { get; set; } | Gets or sets a float value that indicates the radius of the arc. |
-| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } | Gets or sets a text for shape |
+| [Alpha](../../aspose.pdf.drawing/arc/alpha) { get; set; } |  |
+| [Beta](../../aspose.pdf.drawing/arc/beta) { get; set; } |  |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo) { get; set; } |  |
+| [PosX](../../aspose.pdf.drawing/arc/posx) { get; set; } |  |
+| [PosY](../../aspose.pdf.drawing/arc/posy) { get; set; } |  |
+| [Radius](../../aspose.pdf.drawing/arc/radius) { get; set; } |  |
+| [Text](../../aspose.pdf.drawing/shape/text) { get; set; } |  |
 
 ### See Also
 

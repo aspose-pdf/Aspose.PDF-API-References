@@ -1,14 +1,12 @@
 ---
 title: Resolution
 second_title: Aspose.PDF for .NET API Reference
-description: Gets image resolution.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf.devices/imagedevice/resolution/
 ---
 ## ImageDevice.Resolution property
-
-Gets image resolution.
 
 ```csharp
 public Resolution Resolution { get; }

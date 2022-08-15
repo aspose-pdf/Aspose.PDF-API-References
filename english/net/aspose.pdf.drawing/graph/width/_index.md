@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the graph width. The unit is point.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.pdf.drawing/graph/width/
 ---
 ## Graph.Width property
-
-Gets or sets a float value that indicates the graph width. The unit is point.
 
 ```csharp
 public double Width { get; set; }

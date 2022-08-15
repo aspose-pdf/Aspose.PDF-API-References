@@ -1,14 +1,12 @@
 ---
 title: Note
 second_title: Aspose.PDF for .NET API Reference
-description: This class represents generator paragraph note.
+description: 
 type: docs
-weight: 4820
+weight: 4770
 url: /net/aspose.pdf/note/
 ---
 ## Note class
-
-This class represents generator paragraph note.
 
 ```csharp
 public sealed class Note
@@ -18,16 +16,16 @@ public sealed class Note
 
 | Name | Description |
 | --- | --- |
-| [Note](note#constructor)() | Initializes a new instance of the [`Note`](../note) class. |
-| [Note](note#constructor_1)(string) | Initializes a new instance of the [`Note`](../note) class. |
+| [Note](note#constructor)() | The default constructor. |
+| [Note](note#constructor_1)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs) { get; set; } | Gets or sets a collection that indicates all paragraphs in the FootNote. |
-| [Text](../../aspose.pdf/note/text) { get; set; } | Gets or sets a note text. |
-| [TextState](../../aspose.pdf/note/textstate) { get; set; } | Gets or sets a note text state. |
+| [Paragraphs](../../aspose.pdf/note/paragraphs) { get; set; } |  |
+| [Text](../../aspose.pdf/note/text) { get; set; } |  |
+| [TextState](../../aspose.pdf/note/textstate) { get; set; } |  |
 
 ### See Also
 

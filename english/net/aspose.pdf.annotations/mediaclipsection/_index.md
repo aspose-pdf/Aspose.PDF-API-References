@@ -1,14 +1,12 @@
 ---
 title: MediaClipSection
 second_title: Aspose.PDF for .NET API Reference
-description: This class descibes Media clip section.
+description: 
 type: docs
-weight: 710
+weight: 660
 url: /net/aspose.pdf.annotations/mediaclipsection/
 ---
 ## MediaClipSection class
-
-This class descibes Media clip section.
 
 ```csharp
 public class MediaClipSection : MediaClip

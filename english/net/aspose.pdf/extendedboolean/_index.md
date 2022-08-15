@@ -1,14 +1,12 @@
 ---
 title: ExtendedBoolean
 second_title: Aspose.PDF for .NET API Reference
-description: Represents boolean type that supports Undefined value.
+description: 
 type: docs
-weight: 2140
+weight: 2090
 url: /net/aspose.pdf/extendedboolean/
 ---
 ## ExtendedBoolean enumeration
-
-Represents boolean type that supports Undefined value.
 
 ```csharp
 public enum ExtendedBoolean
@@ -18,9 +16,9 @@ public enum ExtendedBoolean
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` | Undefined value value of ExtendnedBoolean. |
-| False | `1` | False value of ExtendnedBoolean. |
-| True | `2` | True value of ExtendnedBoolean. |
+| Undefined | `0` |  |
+| False | `1` |  |
+| True | `2` |  |
 
 ### See Also
 

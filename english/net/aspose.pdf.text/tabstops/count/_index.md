@@ -1,26 +1,16 @@
 ---
 title: Count
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the TabStopaspose.pdf.text/tabstop class with specified position and add it to the TabStops collection.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.text/tabstops/count/
 ---
 ## TabStops.Count property
 
-Initializes a new instance of the [`TabStop`](../../tabstop) class with specified position and add it to the TabStops collection.
-
 ```csharp
 public int Count { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| position | The position of the tab stop. |
-
-### Return Value
-
-The new [`TabStop`](../../tabstop) object.
 
 ### See Also
 

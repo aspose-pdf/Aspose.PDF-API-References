@@ -1,14 +1,12 @@
 ---
 title: TextDecorationThickness
 second_title: Aspose.PDF for .NET API Reference
-description: TextDecorationThickness attribute Layout attribute owner.
+description: 
 type: docs
 weight: 360
 url: /net/aspose.pdf.logicalstructure/attributekey/textdecorationthickness/
 ---
 ## AttributeKey.TextDecorationThickness field
-
-TextDecorationThickness attribute (Layout attribute owner).
 
 ```csharp
 public static readonly AttributeKey TextDecorationThickness;

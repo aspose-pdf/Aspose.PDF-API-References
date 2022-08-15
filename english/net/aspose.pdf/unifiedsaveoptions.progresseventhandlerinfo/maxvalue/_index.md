@@ -1,14 +1,12 @@
 ---
 title: MaxValue
 second_title: Aspose.PDF for .NET API Reference
-description: maximum possible value of progress value
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue field
-
-maximum possible value of progress value
 
 ```csharp
 public int MaxValue;

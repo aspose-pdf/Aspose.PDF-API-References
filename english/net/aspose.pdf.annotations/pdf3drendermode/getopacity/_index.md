@@ -1,22 +1,16 @@
 ---
 title: GetOpacity
 second_title: Aspose.PDF for .NET API Reference
-description: Gets the opacity.
+description: 
 type: docs
 weight: 200
 url: /net/aspose.pdf.annotations/pdf3drendermode/getopacity/
 ---
 ## PDF3DRenderMode.GetOpacity method
 
-Gets the opacity.
-
 ```csharp
 public double GetOpacity()
 ```
-
-### Return Value
-
-System.Double.
 
 ### See Also
 

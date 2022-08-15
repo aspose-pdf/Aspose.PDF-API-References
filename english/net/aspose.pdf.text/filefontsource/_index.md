@@ -1,14 +1,12 @@
 ---
 title: FileFontSource
 second_title: Aspose.PDF for .NET API Reference
-description: Represents single font file source.
+description: 
 type: docs
-weight: 6670
+weight: 6620
 url: /net/aspose.pdf.text/filefontsource/
 ---
 ## FileFontSource class
-
-Represents single font file source.
 
 ```csharp
 public sealed class FileFontSource : FontSource
@@ -18,19 +16,19 @@ public sealed class FileFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FileFontSource](filefontsource)(string) | Initializes a new instance of [`FileFontSource`](../filefontsource) class. |
+| [FileFontSource](filefontsource)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FilePath](../../aspose.pdf.text/filefontsource/filepath) { get; set; } | Path to the font file. |
+| [FilePath](../../aspose.pdf.text/filefontsource/filepath) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/filefontsource/equals)(object) | Check if font file source objects are equal. |
+| override [Equals](../../aspose.pdf.text/filefontsource/equals)(object) |  |
 
 ### See Also
 

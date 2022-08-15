@@ -1,14 +1,12 @@
 ---
 title: CharacterSpacing
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets character spacing of the text.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.text/textstate/characterspacing/
 ---
 ## TextState.CharacterSpacing property
-
-Gets or sets character spacing of the text.
 
 ```csharp
 public virtual float CharacterSpacing { get; set; }

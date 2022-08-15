@@ -1,22 +1,16 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the page info.for generator only
+description: 
 type: docs
 weight: 410
 url: /net/aspose.pdf/document/pageinfo/
 ---
 ## Document.PageInfo property
 
-Gets or sets the page info.(for generator only)
-
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
-
-### Property Value
-
-The page info.
 
 ### See Also
 

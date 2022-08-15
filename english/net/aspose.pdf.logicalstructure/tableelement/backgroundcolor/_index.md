@@ -1,14 +1,12 @@
 ---
 title: BackgroundColor
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the table background color.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.logicalstructure/tableelement/backgroundcolor/
 ---
 ## TableElement.BackgroundColor property
-
-Gets or sets the table background color.
 
 ```csharp
 public Color BackgroundColor { get; set; }

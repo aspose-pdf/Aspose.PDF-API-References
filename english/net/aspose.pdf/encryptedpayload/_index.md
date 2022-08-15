@@ -1,14 +1,12 @@
 ---
 title: EncryptedPayload
 second_title: Aspose.PDF for .NET API Reference
-description: Represents encrypted payload in file specification.
+description: 
 type: docs
-weight: 2080
+weight: 2030
 url: /net/aspose.pdf/encryptedpayload/
 ---
 ## EncryptedPayload class
-
-Represents encrypted payload in file specification.
 
 ```csharp
 public sealed class EncryptedPayload
@@ -18,15 +16,15 @@ public sealed class EncryptedPayload
 
 | Name | Description |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload)(FileSpecification) | Initialize Encrypted payload instance. |
+| [EncryptedPayload](encryptedpayload)(FileSpecification) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Subtype](../../aspose.pdf/encryptedpayload/subtype) { get; } | Gets subtype. |
-| [Type](../../aspose.pdf/encryptedpayload/type) { get; } | Gets type. |
-| [Version](../../aspose.pdf/encryptedpayload/version) { get; } | Gets version number. |
+| [Subtype](../../aspose.pdf/encryptedpayload/subtype) { get; } |  |
+| [Type](../../aspose.pdf/encryptedpayload/type) { get; } |  |
+| [Version](../../aspose.pdf/encryptedpayload/version) { get; } |  |
 
 ### See Also
 

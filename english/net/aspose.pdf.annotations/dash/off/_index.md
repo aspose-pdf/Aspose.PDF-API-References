@@ -1,14 +1,12 @@
 ---
 title: Off
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets length of gap between dashes.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.annotations/dash/off/
 ---
 ## Dash.Off property
-
-Gets or sets length of gap between dashes.
 
 ```csharp
 public int Off { get; set; }

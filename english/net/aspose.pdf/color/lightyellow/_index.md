@@ -1,22 +1,16 @@
 ---
 title: LightYellow
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFFFE0.
+description: 
 type: docs
 weight: 770
 url: /net/aspose.pdf/color/lightyellow/
 ---
 ## Color.LightYellow property
 
-Gets a system-defined color that has an ARGB value of #FFFFFFE0.
-
 ```csharp
 public static Color LightYellow { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

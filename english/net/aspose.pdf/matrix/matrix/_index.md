@@ -1,23 +1,17 @@
 ---
 title: Matrix
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor creates stanrard 1 to 1 matrix  A B C D E F    1 0 0 1 0 0
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/matrix/matrix/
 ---
 ## Matrix() {#constructor}
 
-Constructor creates stanrard 1 to 1 matrix: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]
+The default constructor.
 
 ```csharp
 public Matrix()
-```
-
-### Examples
-
-```csharp
-Matrix m = new Matrix();
 ```
 
 ### See Also
@@ -30,21 +24,8 @@ Matrix m = new Matrix();
 
 ## Matrix(double[]) {#constructor_3}
 
-Constructor accepts a matrix with following array representation: [ A B C D E F ]
-
 ```csharp
 public Matrix(double[] matrixArray)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrixArray | Double[] | Matrix data array. |
-
-### Examples
-
-```csharp
-double[] c = new double[] { 1, 0, 0, 1, 10, 20 };
-Matrix m = new Matrix(c);
 ```
 
 ### See Also
@@ -57,15 +38,9 @@ Matrix m = new Matrix(c);
 
 ## Matrix(float[]) {#constructor_4}
 
-Constructor accepts a matrix with following array representation: [ A B C D E F ]
-
 ```csharp
 public Matrix(float[] matrixArray)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrixArray | Single[] | Matrix data array. |
 
 ### See Also
 
@@ -77,15 +52,9 @@ public Matrix(float[] matrixArray)
 
 ## Matrix(Matrix) {#constructor_1}
 
-Constructor accepts a matrix to create a copy
-
 ```csharp
 public Matrix(Matrix matrix)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrix | Matrix | Matrix object. |
 
 ### See Also
 
@@ -97,25 +66,8 @@ public Matrix(Matrix matrix)
 
 ## Matrix(double, double, double, double, double, double) {#constructor_2}
 
-Initializes transformation matrix with specified coefficients.
-
 ```csharp
 public Matrix(double a, double b, double c, double d, double e, double f)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | Double | A matrix value. |
-| b | Double | B matrix value. |
-| c | Double | C matrix value. |
-| d | Double | D matrix value. |
-| e | Double | E matrix value. |
-| f | Double | F matrix value. |
-
-### Examples
-
-```csharp
-Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 ```
 
 ### See Also

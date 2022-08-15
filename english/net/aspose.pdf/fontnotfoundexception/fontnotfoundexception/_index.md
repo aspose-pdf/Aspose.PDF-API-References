@@ -1,22 +1,16 @@
 ---
 title: FontNotFoundException
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the FontNotFoundExceptionaspose.pdf/fontnotfoundexception class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf/fontnotfoundexception/fontnotfoundexception/
 ---
 ## FontNotFoundException(string) {#constructor_1}
 
-Initializes a new instance of the [`FontNotFoundException`](../../fontnotfoundexception) class.
-
 ```csharp
 public FontNotFoundException(string message)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String | The message. |
 
 ### See Also
 
@@ -28,16 +22,9 @@ public FontNotFoundException(string message)
 
 ## FontNotFoundException(string, Exception) {#constructor_2}
 
-Initializes a new instance of the [`FontNotFoundException`](../../fontnotfoundexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
-
 ```csharp
 public FontNotFoundException(string message, Exception innerException)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String | The error message that explains the reason for the exception. |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 
@@ -49,15 +36,9 @@ public FontNotFoundException(string message, Exception innerException)
 
 ## FontNotFoundException(Exception) {#constructor}
 
-Initializes a new instance of the [`FontNotFoundException`](../../fontnotfoundexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
-
 ```csharp
 public FontNotFoundException(Exception innerException)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also
 

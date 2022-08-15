@@ -1,14 +1,12 @@
 ---
 title: Top
 second_title: Aspose.PDF for .NET API Reference
-description: Gets top vertical coordinate of the upper-left corner of the window.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.annotations/xyzexplicitdestination/top/
 ---
 ## XYZExplicitDestination.Top property
-
-Gets top vertical coordinate of the upper-left corner of the window.
 
 ```csharp
 public double Top { get; }

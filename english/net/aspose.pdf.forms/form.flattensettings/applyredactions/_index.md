@@ -1,14 +1,12 @@
 ---
 title: ApplyRedactions
 second_title: Aspose.PDF for .NET API Reference
-description: If true redaction specified Redaction annotation will be applied
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
 ## Form.FlattenSettings.ApplyRedactions property
-
-If true, redaction specified Redaction annotation will be applied
 
 ```csharp
 public bool ApplyRedactions { get; set; }

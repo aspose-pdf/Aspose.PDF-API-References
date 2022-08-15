@@ -1,14 +1,12 @@
 ---
 title: Position
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets a float value that indicates the tab stop position.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf.text/tabstop/position/
 ---
 ## TabStop.Position property
-
-Gets or sets a float value that indicates the tab stop position.
 
 ```csharp
 public float Position { get; set; }

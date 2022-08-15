@@ -1,14 +1,12 @@
 ---
 title: Selected
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets index of the selected item. Items are numbered from 1.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.pdf.forms/listboxfield/selected/
 ---
 ## ListBoxField.Selected property
-
-Gets or sets index of the selected item. Items are numbered from 1.
 
 ```csharp
 public override int Selected { set; }

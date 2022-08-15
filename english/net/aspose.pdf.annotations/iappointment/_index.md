@@ -1,14 +1,12 @@
 ---
 title: IAppointment
 second_title: Aspose.PDF for .NET API Reference
-description: Represents general interface for actions and destinations.
+description: 
 type: docs
-weight: 520
+weight: 470
 url: /net/aspose.pdf.annotations/iappointment/
 ---
 ## IAppointment interface
-
-Represents general interface for actions and destinations.
 
 ```csharp
 public interface IAppointment
@@ -18,7 +16,7 @@ public interface IAppointment
 
 | Name | Description |
 | --- | --- |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring)() | Returns string representation |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring)() |  |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: LightSteelBlue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFB0C4DE.
+description: 
 type: docs
 weight: 760
 url: /net/aspose.pdf/color/lightsteelblue/
 ---
 ## Color.LightSteelBlue property
 
-Gets a system-defined color that has an ARGB value of #FFB0C4DE.
-
 ```csharp
 public static Color LightSteelBlue { get; }
 ```
-
-### Return Value
-
-A representing a system-defined color.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Contents
 second_title: Aspose.PDF for .NET API Reference
-description: Gets collection of artifact internal operators.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.pdf/artifact/contents/
 ---
 ## Artifact.Contents property
-
-Gets collection of artifact internal operators.
 
 ```csharp
 public List<Operator> Contents { get; }

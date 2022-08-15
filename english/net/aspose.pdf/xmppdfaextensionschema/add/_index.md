@@ -1,22 +1,16 @@
 ---
 title: Add
 second_title: Aspose.PDF for .NET API Reference
-description: Adds new object into schema.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf/xmppdfaextensionschema/add/
 ---
 ## XmpPdfAExtensionSchema.Add method
 
-Adds new object into schema.
-
 ```csharp
 public void Add(XmpPdfAExtensionObject obj)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | XmpPdfAExtensionObject | The new object. |
 
 ### See Also
 

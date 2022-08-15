@@ -1,14 +1,12 @@
 ---
 title: BorderColor
 second_title: Aspose.PDF for .NET API Reference
-description: The color of a field border.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.pdf.facades/formfieldfacade/bordercolor/
 ---
 ## FormFieldFacade.BorderColor property
-
-The color of a field border.
 
 ```csharp
 public Color BorderColor { get; set; }

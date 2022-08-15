@@ -1,14 +1,12 @@
 ---
 title: SlidesAsImages
 second_title: Aspose.PDF for .NET API Reference
-description: If set to true then all the content is recognized as images one per page
+description: 
 type: docs
 weight: 60
 url: /net/aspose.pdf/pptxsaveoptions/slidesasimages/
 ---
 ## PptxSaveOptions.SlidesAsImages property
-
-If set to true then all the content is recognized as images (one per page)
 
 ```csharp
 public bool SlidesAsImages { get; set; }

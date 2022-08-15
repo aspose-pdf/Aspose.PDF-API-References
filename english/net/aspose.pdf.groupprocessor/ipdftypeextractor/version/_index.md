@@ -1,14 +1,12 @@
 ---
 title: Version
 second_title: Aspose.PDF for .NET API Reference
-description: Returns version.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.pdf.groupprocessor/ipdftypeextractor/version/
 ---
 ## IPdfTypeExtractor.Version property
-
-Returns version.
 
 ```csharp
 public string Version { get; }

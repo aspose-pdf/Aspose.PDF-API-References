@@ -1,14 +1,12 @@
 ---
 title: FileIcon
 second_title: Aspose.PDF for .NET API Reference
-description: An icon to be used in displaying the annotation.
+description: 
 type: docs
-weight: 340
+weight: 290
 url: /net/aspose.pdf.annotations/fileicon/
 ---
 ## FileIcon enumeration
-
-An icon to be used in displaying the annotation.
 
 ```csharp
 public enum FileIcon
@@ -18,10 +16,10 @@ public enum FileIcon
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PushPin | `0` | PushPin icon (default value). |
-| Graph | `1` | Graph icon. |
-| Paperclip | `2` | Paperclip icon. |
-| Tag | `3` | This is tag icon. |
+| PushPin | `0` |  |
+| Graph | `1` |  |
+| Paperclip | `2` |  |
+| Tag | `3` |  |
 
 ### See Also
 

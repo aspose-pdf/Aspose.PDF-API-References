@@ -1,14 +1,14 @@
 ---
 title: ToUnicodeProcessingRules
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.pdfaoptionclasses/tounicodeprocessingrules/tounicodeprocessingrules/
 ---
 ## ToUnicodeProcessingRules() {#constructor}
 
-Constructor
+The default constructor.
 
 ```csharp
 public ToUnicodeProcessingRules()
@@ -24,15 +24,9 @@ public ToUnicodeProcessingRules()
 
 ## ToUnicodeProcessingRules(bool) {#constructor_1}
 
-Constructor
-
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| removeSpaces | Boolean | sets [`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames) flag |
 
 ### See Also
 
@@ -44,16 +38,9 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 ## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-Constructor
-
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| removeSpaces | Boolean | sets [`RemoveSpacesFromCMapNames`](../removespacesfromcmapnames) flag |
-| mapNonLinkedUnicodesOnSpace | Boolean | sets [`MapNonLinkedSymbolsOnSpace`](../mapnonlinkedsymbolsonspace) flag |
 
 ### See Also
 

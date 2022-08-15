@@ -1,14 +1,12 @@
 ---
 title: XpsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Represents options for loading/importing xps file into pdf document.
+description: 
 type: docs
-weight: 7560
+weight: 7510
 url: /net/aspose.pdf/xpsloadoptions/
 ---
 ## XpsLoadOptions class
-
-Represents options for loading/importing xps file into pdf document.
 
 ```csharp
 public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
@@ -24,9 +22,9 @@ public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/xpsloadoptions/batchsize) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [BatchSize](../../aspose.pdf/xpsloadoptions/batchsize) { get; set; } |  |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } |  |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } |  |
 
 ### See Also
 

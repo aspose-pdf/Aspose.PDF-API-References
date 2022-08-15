@@ -1,22 +1,16 @@
 ---
 title: FitBExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
-description: Creates local explicit destination.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/fitbexplicitdestination/fitbexplicitdestination/
 ---
 ## FitBExplicitDestination(Page) {#constructor_1}
 
-Creates local explicit destination.
-
 ```csharp
 public FitBExplicitDestination(Page page)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The destination page object. |
 
 ### See Also
 
@@ -29,15 +23,9 @@ public FitBExplicitDestination(Page page)
 
 ## FitBExplicitDestination(int) {#constructor_2}
 
-Creates remote explicit destination.
-
 ```csharp
 public FitBExplicitDestination(int pageNumber)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | Int32 | The destination page number of remote document. |
 
 ### See Also
 
