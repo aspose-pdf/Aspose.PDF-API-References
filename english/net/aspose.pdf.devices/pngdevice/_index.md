@@ -34,6 +34,7 @@ public sealed class PngDevice : ImageDevice
 | [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Gets image output height. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Gets image resolution. |
+| [TransparentBackground](../../aspose.pdf.devices/pngdevice/transparentbackground) { get; set; } |  |
 | [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Gets image output width. |
 
 ## Methods

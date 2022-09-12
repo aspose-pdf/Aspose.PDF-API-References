@@ -3,7 +3,7 @@ title: TextSegment
 second_title: Aspose.PDF for .NET API Reference
 description: Represents segment of Pdf text.
 type: docs
-weight: 7160
+weight: 7170
 url: /net/aspose.pdf.text/textsegment/
 ---
 ## TextSegment class

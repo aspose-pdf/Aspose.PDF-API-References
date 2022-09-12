@@ -3,7 +3,7 @@ title: HtmlSaveOptions.HtmlImageType
 second_title: Aspose.PDF for .NET API Reference
 description: enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion
 type: docs
-weight: 3470
+weight: 3480
 url: /net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
 ## HtmlSaveOptions.HtmlImageType enumeration

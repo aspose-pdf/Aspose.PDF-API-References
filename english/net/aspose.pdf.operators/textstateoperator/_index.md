@@ -3,7 +3,7 @@ title: TextStateOperator
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract base class for operators which changes current text state Tc Tf TL etc.
 type: docs
-weight: 5640
+weight: 5650
 url: /net/aspose.pdf.operators/textstateoperator/
 ---
 ## TextStateOperator class

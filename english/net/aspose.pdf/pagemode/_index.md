@@ -3,7 +3,7 @@ title: PageMode
 second_title: Aspose.PDF for .NET API Reference
 description: Class descibes used components of the document page.
 type: docs
-weight: 5830
+weight: 5840
 url: /net/aspose.pdf/pagemode/
 ---
 ## PageMode enumeration

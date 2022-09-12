@@ -31,6 +31,7 @@ public sealed class SignatureCustomAppearance
 | [DateTimeFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimeformat) { get; set; } | Gets/sets datetime format. Default value: "yyyy.MM.dd HH:mm:ss". |
 | [DateTimeLocalFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimelocalformat) { get; set; } | Gets/sets datetime local format. Default value: "yyyy.MM.dd HH:mm:ss zzz". |
 | [DigitalSignedLabel](../../aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel) { get; set; } | Gets/sets digital signed label. Default value: "Digitally signed by". |
+| [DigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat) { get; set; } |  |
 | [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname) { get; set; } | Gets/sets font family name. It should be existed in the document. Default value: Arial. |
 | [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize) { get; set; } | Gets/sets font size. Default value: 10. |
 | [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor) { get; set; } | Gets/sets foreground color (color of text). Default value: Blue. |
@@ -40,6 +41,7 @@ public sealed class SignatureCustomAppearance
 | [ShowContactInfo](../../aspose.pdf.forms/signaturecustomappearance/showcontactinfo) { get; set; } | Gets/sets contact info visibility. Default value: true. |
 | [ShowLocation](../../aspose.pdf.forms/signaturecustomappearance/showlocation) { get; set; } | Gets/sets location visibility. Default value: true. |
 | [ShowReason](../../aspose.pdf.forms/signaturecustomappearance/showreason) { get; set; } | Gets/sets reason visibility. Default value: true. |
+| [UseDigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat) { get; set; } |  |
 
 ### See Also
 

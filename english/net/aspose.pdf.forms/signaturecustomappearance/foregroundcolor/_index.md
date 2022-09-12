@@ -3,7 +3,7 @@ title: ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
 description: Gets/sets foreground color color of text. Default value Blue.
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/
 ---
 ## SignatureCustomAppearance.ForegroundColor property

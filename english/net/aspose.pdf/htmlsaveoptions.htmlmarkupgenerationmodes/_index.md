@@ -3,7 +3,7 @@ title: HtmlSaveOptions.HtmlMarkupGenerationModes
 second_title: Aspose.PDF for .NET API Reference
 description: Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments.
 type: docs
-weight: 3480
+weight: 3490
 url: /net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration

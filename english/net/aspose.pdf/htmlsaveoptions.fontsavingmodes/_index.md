@@ -3,7 +3,7 @@ title: HtmlSaveOptions.FontSavingModes
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates modes that can be used for saving of fonts referenced in saved PDF
 type: docs
-weight: 3450
+weight: 3460
 url: /net/aspose.pdf/htmlsaveoptions.fontsavingmodes/
 ---
 ## HtmlSaveOptions.FontSavingModes enumeration

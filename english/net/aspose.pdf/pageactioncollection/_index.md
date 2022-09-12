@@ -3,7 +3,7 @@ title: PageActionCollection
 second_title: Aspose.PDF for .NET API Reference
 description: This class describes page actions
 type: docs
-weight: 5760
+weight: 5770
 url: /net/aspose.pdf/pageactioncollection/
 ---
 ## PageActionCollection class

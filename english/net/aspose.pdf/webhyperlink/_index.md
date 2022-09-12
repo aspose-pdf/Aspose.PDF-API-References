@@ -3,7 +3,7 @@ title: WebHyperlink
 second_title: Aspose.PDF for .NET API Reference
 description: Represents web hyperlink object.
 type: docs
-weight: 7320
+weight: 7330
 url: /net/aspose.pdf/webhyperlink/
 ---
 ## WebHyperlink class

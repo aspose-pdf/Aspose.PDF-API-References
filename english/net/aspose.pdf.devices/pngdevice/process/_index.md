@@ -3,7 +3,7 @@ title: Process
 second_title: Aspose.PDF for .NET API Reference
 description: Converts the page into png and saves it in the output stream.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf.devices/pngdevice/process/
 ---
 ## PngDevice.Process method

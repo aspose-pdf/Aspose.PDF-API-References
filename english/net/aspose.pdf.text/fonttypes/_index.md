@@ -3,7 +3,7 @@ title: FontTypes
 second_title: Aspose.PDF for .NET API Reference
 description: Supported font types enumeration.
 type: docs
-weight: 6730
+weight: 6740
 url: /net/aspose.pdf.text/fonttypes/
 ---
 ## FontTypes enumeration

@@ -3,7 +3,7 @@ title: OptimizedMemoryStream
 second_title: Aspose.PDF for .NET API Reference
 description: Defines a MemoryStream that can contains more standard capacity
 type: docs
-weight: 5700
+weight: 5710
 url: /net/aspose.pdf/optimizedmemorystream/
 ---
 ## OptimizedMemoryStream class
