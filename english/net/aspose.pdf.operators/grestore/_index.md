@@ -3,7 +3,7 @@ title: GRestore
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Q operator restore graphics state.
 type: docs
-weight: 5120
+weight: 5130
 url: /net/aspose.pdf.operators/grestore/
 ---
 ## GRestore class

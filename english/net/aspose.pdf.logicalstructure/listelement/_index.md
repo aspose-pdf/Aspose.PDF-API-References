@@ -3,7 +3,7 @@ title: ListElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents List structure element in logical structure.
 type: docs
-weight: 4240
+weight: 4250
 url: /net/aspose.pdf.logicalstructure/listelement/
 ---
 ## ListElement class

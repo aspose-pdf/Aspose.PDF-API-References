@@ -3,7 +3,7 @@ title: StructureAttributes
 second_title: Aspose.PDF for .NET API Reference
 description: Represents attributes of structure element for standard attribute owners.
 type: docs
-weight: 4470
+weight: 4480
 url: /net/aspose.pdf.logicalstructure/structureattributes/
 ---
 ## StructureAttributes class

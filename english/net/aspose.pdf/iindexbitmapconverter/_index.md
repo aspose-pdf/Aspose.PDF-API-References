@@ -3,7 +3,7 @@ title: IIndexBitmapConverter
 second_title: Aspose.PDF for .NET API Reference
 description: This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms for example algorithms based on unmanaged code.
 type: docs
-weight: 3580
+weight: 3590
 url: /net/aspose.pdf/iindexbitmapconverter/
 ---
 ## IIndexBitmapConverter interface

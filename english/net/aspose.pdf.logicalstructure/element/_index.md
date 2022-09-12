@@ -3,7 +3,7 @@ title: Element
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for element in logical structure.
 type: docs
-weight: 4100
+weight: 4110
 url: /net/aspose.pdf.logicalstructure/element/
 ---
 ## Element class

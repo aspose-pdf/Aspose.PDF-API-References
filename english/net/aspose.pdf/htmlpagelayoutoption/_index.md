@@ -3,7 +3,7 @@ title: HtmlPageLayoutOption
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies flags that together other options determine sizes and layouts of pages.
 type: docs
-weight: 3370
+weight: 3380
 url: /net/aspose.pdf/htmlpagelayoutoption/
 ---
 ## HtmlPageLayoutOption enumeration

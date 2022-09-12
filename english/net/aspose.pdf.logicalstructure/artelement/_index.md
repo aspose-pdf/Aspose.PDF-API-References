@@ -3,7 +3,7 @@ title: ArtElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Art structure element in logical structure.
 type: docs
-weight: 3980
+weight: 3990
 url: /net/aspose.pdf.logicalstructure/artelement/
 ---
 ## ArtElement class

@@ -3,7 +3,7 @@ title: RubyRTElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents RT structure element in logical structure of the Ruby.
 type: docs
-weight: 4410
+weight: 4420
 url: /net/aspose.pdf.logicalstructure/rubyrtelement/
 ---
 ## RubyRTElement class

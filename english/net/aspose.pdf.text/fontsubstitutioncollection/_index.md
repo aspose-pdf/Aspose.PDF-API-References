@@ -3,7 +3,7 @@ title: FontSubstitutionCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Represents font substitution strategies collection.
 type: docs
-weight: 6720
+weight: 6730
 url: /net/aspose.pdf.text/fontsubstitutioncollection/
 ---
 ## FontSubstitutionCollection class

@@ -3,7 +3,7 @@ title: LocationLabel
 second_title: Aspose.PDF for .NET API Reference
 description: Gets/sets location label. Default value Location.
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
 ## SignatureCustomAppearance.LocationLabel property

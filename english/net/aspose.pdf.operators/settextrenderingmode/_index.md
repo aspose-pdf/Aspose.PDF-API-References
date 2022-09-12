@@ -3,7 +3,7 @@ title: SetTextRenderingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Tr operator set text rendering mode.
 type: docs
-weight: 5550
+weight: 5560
 url: /net/aspose.pdf.operators/settextrenderingmode/
 ---
 ## SetTextRenderingMode class

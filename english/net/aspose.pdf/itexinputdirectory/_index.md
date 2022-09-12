@@ -3,7 +3,7 @@ title: ITeXInputDirectory
 second_title: Aspose.PDF for .NET API Reference
 description: Interface of generalized TeX input directory.
 type: docs
-weight: 3630
+weight: 3640
 url: /net/aspose.pdf/itexinputdirectory/
 ---
 ## ITeXInputDirectory interface

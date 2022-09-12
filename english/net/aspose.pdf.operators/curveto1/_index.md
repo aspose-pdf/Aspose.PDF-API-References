@@ -3,7 +3,7 @@ title: CurveTo1
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing v operator append curve to path initial point replicated.
 type: docs
-weight: 4980
+weight: 4990
 url: /net/aspose.pdf.operators/curveto1/
 ---
 ## CurveTo1 class

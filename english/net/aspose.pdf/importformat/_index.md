@@ -3,7 +3,7 @@ title: ImportFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies import format.
 type: docs
-weight: 3750
+weight: 3760
 url: /net/aspose.pdf/importformat/
 ---
 ## ImportFormat enumeration
