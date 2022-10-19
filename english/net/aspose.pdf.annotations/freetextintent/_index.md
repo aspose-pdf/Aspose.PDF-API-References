@@ -3,7 +3,7 @@ title: FreeTextIntent
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the intents of the free text annotation.
 type: docs
-weight: 390
+weight: 440
 url: /net/aspose.pdf.annotations/freetextintent/
 ---
 ## FreeTextIntent enumeration

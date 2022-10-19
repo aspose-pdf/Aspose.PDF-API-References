@@ -3,7 +3,7 @@ title: HtmlSaveOptions.CssSavingStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: You can assign to this property custom strategy that implements processing or/and saving of one CSSs part that was created during conversion of PDF to HTML . In such case processing like saving to stream or disk must be done in that custom code
 type: docs
-weight: 3420
+weight: 3470
 url: /net/aspose.pdf/htmlsaveoptions.csssavingstrategy/
 ---
 ## HtmlSaveOptions.CssSavingStrategy delegate

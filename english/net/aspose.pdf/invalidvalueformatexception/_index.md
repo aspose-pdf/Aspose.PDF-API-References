@@ -3,7 +3,7 @@ title: InvalidValueFormatException
 second_title: Aspose.PDF for .NET API Reference
 description: Exception which thrown when requested value has incorrect format.
 type: docs
-weight: 3850
+weight: 3900
 url: /net/aspose.pdf/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException class

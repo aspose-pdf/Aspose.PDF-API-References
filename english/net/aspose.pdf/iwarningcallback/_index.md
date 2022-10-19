@@ -3,7 +3,7 @@ title: IWarningCallback
 second_title: Aspose.PDF for .NET API Reference
 description: Interface for users callback mechanism support.
 type: docs
-weight: 3660
+weight: 3710
 url: /net/aspose.pdf/iwarningcallback/
 ---
 ## IWarningCallback interface

@@ -3,7 +3,7 @@ title: IDocumentPageTextExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Interface for document page text extractor.
 type: docs
-weight: 3270
+weight: 3320
 url: /net/aspose.pdf.groupprocessor/idocumentpagetextextractor/
 ---
 ## IDocumentPageTextExtractor interface

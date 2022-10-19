@@ -3,7 +3,7 @@ title: SetRGBColor
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing rg operator set RGB color for non-stroking operators.
 type: docs
-weight: 5510
+weight: 5560
 url: /net/aspose.pdf.operators/setrgbcolor/
 ---
 ## SetRGBColor class

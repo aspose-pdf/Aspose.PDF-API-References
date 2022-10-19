@@ -3,7 +3,7 @@ title: AddPageBreak
 second_title: Aspose.PDF for .NET API Reference
 description: Adds page breaks into document pages.
 type: docs
-weight: 240
+weight: 270
 url: /net/aspose.pdf.facades/pdffileeditor/addpagebreak/
 ---
 ## AddPageBreak(Document, Document, PageBreak[]) {#addpagebreak}

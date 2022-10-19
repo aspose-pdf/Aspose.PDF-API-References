@@ -3,7 +3,7 @@ title: ExportFdf
 second_title: Aspose.PDF for .NET API Reference
 description: Exports the content of the fields of the pdf into the fdf stream.
 type: docs
-weight: 70
+weight: 110
 url: /net/aspose.pdf.facades/form/exportfdf/
 ---
 ## Form.ExportFdf method

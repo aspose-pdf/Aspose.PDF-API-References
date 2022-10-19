@@ -1,12 +1,78 @@
 ---
 title: TryResizeContents
 second_title: Aspose.PDF for .NET API Reference
-description: Resizes contents of pages of the document.
+description: Resizes contents of pages in document. If page is shrinked blank margins are added around the page. Result is stored into HttpResponse object.
 type: docs
-weight: 450
+weight: 480
 url: /net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
 ---
-## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
+## TryResizeContents(string, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents_3}
+
+Resizes contents of pages in document. If page is shrinked blank margins are added around the page. Result is stored into HttpResponse object.
+
+```csharp
+public bool TryResizeContents(string source, int[] pages, ContentsResizeParameters parameters, 
+    HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | String | Path to source file. |
+| pages | Int32[] | Array of pages to be resized. |
+| parameters | ContentsResizeParameters | Resize parameters. |
+| response | HttpResponse | HttpResponse object where result is saved. |
+
+### Return Value
+
+true if operation completed successfully; otherwise, false.
+
+### Remarks
+
+The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails.
+
+### See Also
+
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TryResizeContents(Stream, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents}
+
+Resizes contents of pages in document. If page is shrinked blank margins are added around the page. Result is stored into HttpResponse object.
+
+```csharp
+public bool TryResizeContents(Stream source, int[] pages, ContentsResizeParameters parameters, 
+    HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | Stream | Stream of source file. |
+| pages | Int32[] | Array of pages to be resized. |
+| parameters | ContentsResizeParameters | Resize parameters. |
+| response | HttpResponse | HttpResponse object where result is saved. |
+
+### Return Value
+
+true if operation completed successfully; otherwise, false.
+
+### Remarks
+
+The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails.
+
+### See Also
+
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents_1}
 
 Resizes contents of pages of the document.
 
@@ -63,7 +129,7 @@ dest.Close();
 
 ---
 
-## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
+## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_2}
 
 Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
 
@@ -112,7 +178,7 @@ null,
 
 ---
 
-## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
+## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_4}
 
 Resizes contents of pages in document. If page is shrinked blank margins are added around the page.
 

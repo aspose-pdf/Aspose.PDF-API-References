@@ -3,7 +3,7 @@ title: IsRequiredField
 second_title: Aspose.PDF for .NET API Reference
 description: Determines whether field is required or not.
 type: docs
-weight: 300
+weight: 340
 url: /net/aspose.pdf.facades/form/isrequiredfield/
 ---
 ## Form.IsRequiredField method

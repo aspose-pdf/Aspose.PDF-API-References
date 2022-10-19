@@ -3,7 +3,7 @@ title: ImportDataAction
 second_title: Aspose.PDF for .NET API Reference
 description: Upon invocation of an import-data action Forms Data Format FDF data shall be imported into the documents interactive form from a specified file.
 type: docs
-weight: 480
+weight: 530
 url: /net/aspose.pdf.annotations/importdataaction/
 ---
 ## ImportDataAction class

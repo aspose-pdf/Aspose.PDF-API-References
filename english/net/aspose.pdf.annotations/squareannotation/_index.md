@@ -3,7 +3,7 @@ title: SquareAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing square annotation.
 type: docs
-weight: 1090
+weight: 1140
 url: /net/aspose.pdf.annotations/squareannotation/
 ---
 ## SquareAnnotation class

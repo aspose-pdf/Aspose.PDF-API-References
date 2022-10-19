@@ -3,7 +3,7 @@ title: BmpDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Represents image device that helps to save pdf document pages into bmp.
 type: docs
-weight: 1580
+weight: 1630
 url: /net/aspose.pdf.devices/bmpdevice/
 ---
 ## BmpDevice class

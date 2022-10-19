@@ -3,7 +3,7 @@ title: Facade
 second_title: Aspose.PDF for .NET API Reference
 description: Sets visual attributes of the field.
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.pdf.facades/formeditor/facade/
 ---
 ## FormEditor.Facade property

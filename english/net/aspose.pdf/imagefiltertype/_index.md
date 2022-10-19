@@ -3,7 +3,7 @@ title: ImageFilterType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration representing image filter type.
 type: docs
-weight: 3710
+weight: 3760
 url: /net/aspose.pdf/imagefiltertype/
 ---
 ## ImageFilterType enumeration

@@ -3,7 +3,7 @@ title: CorruptedItems
 second_title: Aspose.PDF for .NET API Reference
 description: Array of encountered problems when concatenation was performed. For every corrupted document from passed to Concatenate function new CorruptedItem entry is created. This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted.
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.pdf.facades/pdffileeditor/corrupteditems/
 ---
 ## PdfFileEditor.CorruptedItems property

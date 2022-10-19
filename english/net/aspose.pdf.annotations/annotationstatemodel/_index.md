@@ -3,7 +3,7 @@ title: AnnotationStateModel
 second_title: Aspose.PDF for .NET API Reference
 description: The state model corresponding to state of annotation.
 type: docs
-weight: 90
+weight: 140
 url: /net/aspose.pdf.annotations/annotationstatemodel/
 ---
 ## AnnotationStateModel enumeration

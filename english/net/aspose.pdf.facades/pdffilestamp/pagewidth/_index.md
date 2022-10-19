@@ -3,7 +3,7 @@ title: PageWidth
 second_title: Aspose.PDF for .NET API Reference
 description: Gets width of first page in input file.
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
 ## PdfFileStamp.PageWidth property

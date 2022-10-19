@@ -3,7 +3,7 @@ title: ShowText
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Tj operator show text.
 type: docs
-weight: 5600
+weight: 5650
 url: /net/aspose.pdf.operators/showtext/
 ---
 ## ShowText class

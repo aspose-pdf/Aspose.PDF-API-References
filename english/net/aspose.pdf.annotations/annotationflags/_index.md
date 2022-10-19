@@ -3,7 +3,7 @@ title: AnnotationFlags
 second_title: Aspose.PDF for .NET API Reference
 description: A set of flags specifying various characteristics of the annotation.
 type: docs
-weight: 60
+weight: 110
 url: /net/aspose.pdf.annotations/annotationflags/
 ---
 ## AnnotationFlags enumeration

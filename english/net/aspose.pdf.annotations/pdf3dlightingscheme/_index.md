@@ -3,7 +3,7 @@ title: PDF3DLightingScheme
 second_title: Aspose.PDF for .NET API Reference
 description: Class PDF3DLightingScheme.
 type: docs
-weight: 780
+weight: 830
 url: /net/aspose.pdf.annotations/pdf3dlightingscheme/
 ---
 ## PDF3DLightingScheme class

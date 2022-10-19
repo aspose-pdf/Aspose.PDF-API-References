@@ -3,7 +3,7 @@ title: CommonFigureAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract class representing common figure annotation.
 type: docs
-weight: 210
+weight: 260
 url: /net/aspose.pdf.annotations/commonfigureannotation/
 ---
 ## CommonFigureAnnotation class

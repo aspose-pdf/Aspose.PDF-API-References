@@ -3,7 +3,7 @@ title: HtmlSaveOptions.AntialiasingProcessingType
 second_title: Aspose.PDF for .NET API Reference
 description: This enum describes possible antialiasing measures during conversion
 type: docs
-weight: 3400
+weight: 3450
 url: /net/aspose.pdf/htmlsaveoptions.antialiasingprocessingtype/
 ---
 ## HtmlSaveOptions.AntialiasingProcessingType enumeration

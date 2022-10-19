@@ -3,7 +3,7 @@ title: DeprecatedFeatureException
 second_title: Aspose.PDF for .NET API Reference
 description: The exception that is thrown when a feature is deprecated in current pdf version.
 type: docs
-weight: 1560
+weight: 1610
 url: /net/aspose.pdf/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException class

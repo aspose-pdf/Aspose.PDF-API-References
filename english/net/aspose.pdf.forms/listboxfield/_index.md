@@ -3,7 +3,7 @@ title: ListBoxField
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents ListBox field.
 type: docs
-weight: 3030
+weight: 3080
 url: /net/aspose.pdf.forms/listboxfield/
 ---
 ## ListBoxField class

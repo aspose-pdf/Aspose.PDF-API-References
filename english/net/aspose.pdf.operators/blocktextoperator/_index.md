@@ -3,7 +3,7 @@ title: BlockTextOperator
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract base class for text block operators i.e. Begin and End text operators BT/ET
 type: docs
-weight: 4910
+weight: 4960
 url: /net/aspose.pdf.operators/blocktextoperator/
 ---
 ## BlockTextOperator class

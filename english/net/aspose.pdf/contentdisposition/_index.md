@@ -3,7 +3,7 @@ title: ContentDisposition
 second_title: Aspose.PDF for .NET API Reference
 description: MIME protocol Content-Disposition header.
 type: docs
-weight: 1510
+weight: 1560
 url: /net/aspose.pdf/contentdisposition/
 ---
 ## ContentDisposition enumeration

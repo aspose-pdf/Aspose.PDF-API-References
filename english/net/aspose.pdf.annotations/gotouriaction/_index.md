@@ -3,7 +3,7 @@ title: GoToURIAction
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a URI action causes a URI to be resolved.
 type: docs
-weight: 420
+weight: 470
 url: /net/aspose.pdf.annotations/gotouriaction/
 ---
 ## GoToURIAction class

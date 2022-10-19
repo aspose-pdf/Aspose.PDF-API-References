@@ -3,7 +3,7 @@ title: ExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the base class for explicit destinations in PDF document.
 type: docs
-weight: 260
+weight: 310
 url: /net/aspose.pdf.annotations/explicitdestination/
 ---
 ## ExplicitDestination class

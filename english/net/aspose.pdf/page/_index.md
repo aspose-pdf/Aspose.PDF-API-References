@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 5750
+weight: 5800
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -40,7 +40,7 @@ public sealed class Page : IDisposable
 | [Number](../../aspose.pdf/page/number) { get; } | Get number of the page. |
 | [PageInfo](../../aspose.pdf/page/pageinfo) { get; set; } | Gets or sets the page info (for generator only, not filled in when reading file). |
 | [Paragraphs](../../aspose.pdf/page/paragraphs) { get; set; } | Gets the paragraphs. |
-| [Rect](../../aspose.pdf/page/rect) { get; set; } | Gets or sets rectangle of the page. Page crop box is returned if specified, otherwise page media box is returned. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
+| [Rect](../../aspose.pdf/page/rect) { get; set; } | Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
 | [Resources](../../aspose.pdf/page/resources) { get; } | Gets page resources. Resources object contains collections of images, forms and fonts. [`Resources`](./resources) |
 | [Rotate](../../aspose.pdf/page/rotate) { get; set; } | Gets or sets rotation of the page. |
 | [RotationMatrix](../../aspose.pdf/page/rotationmatrix) { get; } | Gets transofmation matrix for the page. |
@@ -71,7 +71,7 @@ public sealed class Page : IDisposable
 | [Flatten](../../aspose.pdf/page/flatten)() | Removes all fields located on the page and place their values instead. |
 | [FreeMemory](../../aspose.pdf/page/freememory)() | Clears cached data |
 | [GetNotifications](../../aspose.pdf/page/getnotifications)() | Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.) |
-| [GetPageRect](../../aspose.pdf/page/getpagerect)(bool) | Returns rectangle of the page. |
+| [GetPageRect](../../aspose.pdf/page/getpagerect)(bool) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
 | [IsBlank](../../aspose.pdf/page/isblank)(double) | Gets the flag whether page is blank or not. |
 | [MakeGrayscale](../../aspose.pdf/page/makegrayscale)() | Converts the page to grayscale. |
 | [SendTo](../../aspose.pdf/page/sendto#sendto)(PageDevice, Stream) | Sends page to process with given page device. |

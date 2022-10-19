@@ -3,7 +3,7 @@ title: GraphInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Represents graphics info.
 type: docs
-weight: 3230
+weight: 3280
 url: /net/aspose.pdf/graphinfo/
 ---
 ## GraphInfo class

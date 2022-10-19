@@ -3,7 +3,7 @@ title: AppearanceDictionary
 second_title: Aspose.PDF for .NET API Reference
 description: Annotation appearance dictionary specifying how the annotation shall be presented visually on the page.
 type: docs
-weight: 110
+weight: 160
 url: /net/aspose.pdf.annotations/appearancedictionary/
 ---
 ## AppearanceDictionary class

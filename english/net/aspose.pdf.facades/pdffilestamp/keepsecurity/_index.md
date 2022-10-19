@@ -3,7 +3,7 @@ title: KeepSecurity
 second_title: Aspose.PDF for .NET API Reference
 description: Keeps security if true. This feature will be implemented in next versions.
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.pdf.facades/pdffilestamp/keepsecurity/
 ---
 ## PdfFileStamp.KeepSecurity property

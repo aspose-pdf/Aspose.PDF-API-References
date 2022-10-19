@@ -3,7 +3,7 @@ title: Close
 second_title: Aspose.PDF for .NET API Reference
 description: Closes opened files without any changes.
 type: docs
-weight: 60
+weight: 100
 url: /net/aspose.pdf.facades/form/close/
 ---
 ## Form.Close method

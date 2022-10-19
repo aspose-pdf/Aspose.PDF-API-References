@@ -3,7 +3,7 @@ title: AutoRotateMode
 second_title: Aspose.PDF for .NET API Reference
 description: Direction of the rotation when document is printed.
 type: docs
-weight: 2130
+weight: 2180
 url: /net/aspose.pdf.facades/autorotatemode/
 ---
 ## AutoRotateMode enumeration

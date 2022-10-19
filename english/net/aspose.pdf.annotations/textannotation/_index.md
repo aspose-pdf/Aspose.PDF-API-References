@@ -3,7 +3,7 @@ title: TextAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a text annotation that is a sticky note attached to a point in the PDF document.
 type: docs
-weight: 1150
+weight: 1200
 url: /net/aspose.pdf.annotations/textannotation/
 ---
 ## TextAnnotation class

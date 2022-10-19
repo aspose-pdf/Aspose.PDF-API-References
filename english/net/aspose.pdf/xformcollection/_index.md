@@ -3,7 +3,7 @@ title: XFormCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents collection of XFormCollection.
 type: docs
-weight: 7350
+weight: 7400
 url: /net/aspose.pdf/xformcollection/
 ---
 ## XFormCollection class

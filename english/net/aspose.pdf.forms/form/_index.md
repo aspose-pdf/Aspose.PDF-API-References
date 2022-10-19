@@ -3,7 +3,7 @@ title: Form
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing form object.
 type: docs
-weight: 2970
+weight: 3020
 url: /net/aspose.pdf.forms/form/
 ---
 ## Form class

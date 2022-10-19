@@ -3,7 +3,7 @@ title: FormType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of posible types of Acro Form.
 type: docs
-weight: 3000
+weight: 3050
 url: /net/aspose.pdf.forms/formtype/
 ---
 ## FormType enumeration

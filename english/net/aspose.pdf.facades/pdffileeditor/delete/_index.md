@@ -3,10 +3,10 @@ title: Delete
 second_title: Aspose.PDF for .NET API Reference
 description: Deletes pages specified by number array from input file saves as a new Pdf file.
 type: docs
-weight: 270
+weight: 300
 url: /net/aspose.pdf.facades/pdffileeditor/delete/
 ---
-## Delete(string, int[], string) {#delete_1}
+## Delete(string, int[], string) {#delete_2}
 
 Deletes pages specified by number array from input file, saves as a new Pdf file.
 
@@ -65,6 +65,58 @@ Stream intputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read
 Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
 pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete(string, int[], HttpResponse) {#delete_3}
+
+Deletes specified pages from document and stores result into HttpResponse object.
+
+```csharp
+public bool Delete(string inputFile, int[] pageNumber, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | Path of source file. |
+| pageNumber | Int32[] | Array of page numbers which must be deleted. |
+| response | HttpResponse | Response object where result document will be stored. |
+
+### Return Value
+
+True if operation was succeeded.
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete(Stream, int[], HttpResponse) {#delete_1}
+
+Deletes specified pages from document and saves result into HttpResponse object.
+
+```csharp
+public bool Delete(Stream inputStream, int[] pageNumber, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | Stream | Source document stream. |
+| pageNumber | Int32[] | Array of page numbers which will be deleted. |
+| response | HttpResponse | HttpResponse object |
+
+### Return Value
+
+True if operation succeded.
 
 ### See Also
 

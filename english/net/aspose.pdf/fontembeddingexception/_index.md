@@ -3,7 +3,7 @@ title: FontEmbeddingException
 second_title: Aspose.PDF for .NET API Reference
 description: The exception that is thrown when an attempt to embed font became failed
 type: docs
-weight: 2800
+weight: 2850
 url: /net/aspose.pdf/fontembeddingexception/
 ---
 ## FontEmbeddingException class

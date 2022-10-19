@@ -3,7 +3,7 @@ title: RenditionAction
 second_title: Aspose.PDF for .NET API Reference
 description: A rendition action that controls the playing of multimedia content.
 type: docs
-weight: 940
+weight: 990
 url: /net/aspose.pdf.annotations/renditionaction/
 ---
 ## RenditionAction class

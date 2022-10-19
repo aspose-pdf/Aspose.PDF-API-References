@@ -3,7 +3,7 @@ title: JavascriptAction
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing javascript action.
 type: docs
-weight: 500
+weight: 550
 url: /net/aspose.pdf.annotations/javascriptaction/
 ---
 ## JavascriptAction class

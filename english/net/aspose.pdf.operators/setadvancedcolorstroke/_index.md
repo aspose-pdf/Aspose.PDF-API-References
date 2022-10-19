@@ -3,7 +3,7 @@ title: SetAdvancedColorStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing SCN operator set color for stroking operations.
 type: docs
-weight: 5290
+weight: 5340
 url: /net/aspose.pdf.operators/setadvancedcolorstroke/
 ---
 ## SetAdvancedColorStroke class

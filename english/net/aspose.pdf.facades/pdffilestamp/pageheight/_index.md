@@ -3,7 +3,7 @@ title: PageHeight
 second_title: Aspose.PDF for .NET API Reference
 description: Gets height of first page in souorce file.
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.pdf.facades/pdffilestamp/pageheight/
 ---
 ## PdfFileStamp.PageHeight property

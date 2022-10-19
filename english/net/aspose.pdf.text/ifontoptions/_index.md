@@ -3,7 +3,7 @@ title: IFontOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Useful properties to tune Font behaviour
 type: docs
-weight: 6750
+weight: 6800
 url: /net/aspose.pdf.text/ifontoptions/
 ---
 ## IFontOptions interface

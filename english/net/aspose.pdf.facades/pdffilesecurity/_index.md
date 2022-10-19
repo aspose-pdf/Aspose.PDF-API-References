@@ -3,7 +3,7 @@ title: PdfFileSecurity
 second_title: Aspose.PDF for .NET API Reference
 description: Represents encrypting or decrypting a Pdf file with owner or user password changing the security setting and password.
 type: docs
-weight: 2510
+weight: 2560
 url: /net/aspose.pdf.facades/pdffilesecurity/
 ---
 ## PdfFileSecurity class

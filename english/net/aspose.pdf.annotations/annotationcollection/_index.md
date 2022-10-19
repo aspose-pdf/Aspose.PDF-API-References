@@ -3,7 +3,7 @@ title: AnnotationCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing annotation collection.
 type: docs
-weight: 50
+weight: 100
 url: /net/aspose.pdf.annotations/annotationcollection/
 ---
 ## AnnotationCollection class

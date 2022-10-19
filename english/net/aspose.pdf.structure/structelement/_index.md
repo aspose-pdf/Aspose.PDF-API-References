@@ -3,7 +3,7 @@ title: StructElement
 second_title: Aspose.PDF for .NET API Reference
 description: General structure element.
 type: docs
-weight: 6370
+weight: 6420
 url: /net/aspose.pdf.structure/structelement/
 ---
 ## StructElement class

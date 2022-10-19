@@ -3,7 +3,7 @@ title: LineEnding
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the line ending styles to be used in drawing the line.
 type: docs
-weight: 560
+weight: 610
 url: /net/aspose.pdf.annotations/lineending/
 ---
 ## LineEnding enumeration

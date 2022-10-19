@@ -3,7 +3,7 @@ title: PdfAction
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Action in PDF document
 type: docs
-weight: 830
+weight: 880
 url: /net/aspose.pdf.annotations/pdfaction/
 ---
 ## PdfAction class

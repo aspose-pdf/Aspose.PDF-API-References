@@ -3,7 +3,7 @@ title: RichTextBoxField
 second_title: Aspose.PDF for .NET API Reference
 description: Class describes rich text editor component.
 type: docs
-weight: 3130
+weight: 3180
 url: /net/aspose.pdf.forms/richtextboxfield/
 ---
 ## RichTextBoxField class

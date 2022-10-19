@@ -3,7 +3,7 @@ title: PageDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract class for all devices which is used to process certain page the pdf document.
 type: docs
-weight: 1690
+weight: 1740
 url: /net/aspose.pdf.devices/pagedevice/
 ---
 ## PageDevice class

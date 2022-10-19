@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.PDF for .NET API Reference
 description: This enum represents image formats.
 type: docs
-weight: 1950
+weight: 2000
 url: /net/aspose.pdf.drawing/imageformat/
 ---
 ## ImageFormat enumeration

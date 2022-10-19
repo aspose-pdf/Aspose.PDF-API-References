@@ -3,7 +3,7 @@ title: LineAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing line annotation.
 type: docs
-weight: 550
+weight: 600
 url: /net/aspose.pdf.annotations/lineannotation/
 ---
 ## LineAnnotation class

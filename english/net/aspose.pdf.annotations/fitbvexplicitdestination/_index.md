@@ -3,7 +3,7 @@ title: FitBVExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of its bounding box within the window. A null value for left specifies that the current value of that parameter is to be retained unchanged.
 type: docs
-weight: 320
+weight: 370
 url: /net/aspose.pdf.annotations/fitbvexplicitdestination/
 ---
 ## FitBVExplicitDestination class

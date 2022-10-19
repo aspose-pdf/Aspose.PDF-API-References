@@ -3,7 +3,7 @@ title: TiffDevice
 second_title: Aspose.PDF for .NET API Reference
 description: This class helps to save pdf document page by page into the one tiff image.
 type: docs
-weight: 1750
+weight: 1800
 url: /net/aspose.pdf.devices/tiffdevice/
 ---
 ## TiffDevice class

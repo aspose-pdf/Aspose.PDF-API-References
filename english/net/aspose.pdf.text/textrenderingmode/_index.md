@@ -3,7 +3,7 @@ title: TextRenderingMode
 second_title: Aspose.PDF for .NET API Reference
 description: The text rendering mode Tmode determines whether showing text shall cause glyph outlines to be stroked filled used as a clipping boundary or some combination of the three.
 type: docs
-weight: 7120
+weight: 7170
 url: /net/aspose.pdf.text/textrenderingmode/
 ---
 ## TextRenderingMode enumeration

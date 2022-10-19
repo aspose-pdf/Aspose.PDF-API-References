@@ -3,7 +3,7 @@ title: GetButtonOptionValues
 second_title: Aspose.PDF for .NET API Reference
 description: Gets the radio button option fields and related values based on the field name. This method has meaning for radio button groups.
 type: docs
-weight: 180
+weight: 220
 url: /net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
 ## Form.GetButtonOptionValues method

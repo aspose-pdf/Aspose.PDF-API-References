@@ -3,7 +3,7 @@ title: HtmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing html file into pdf document.
 type: docs
-weight: 3360
+weight: 3410
 url: /net/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class

@@ -3,7 +3,7 @@ title: GetFieldFacade
 second_title: Aspose.PDF for .NET API Reference
 description: Returns FrofmFieldFacade object containing all appearance attributes.
 type: docs
-weight: 200
+weight: 240
 url: /net/aspose.pdf.facades/form/getfieldfacade/
 ---
 ## Form.GetFieldFacade method

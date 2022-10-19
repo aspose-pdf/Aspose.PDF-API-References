@@ -3,7 +3,7 @@ title: BorderCornerStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the border corner styles for border.
 type: docs
-weight: 1350
+weight: 1400
 url: /net/aspose.pdf/bordercornerstyle/
 ---
 ## BorderCornerStyle enumeration
