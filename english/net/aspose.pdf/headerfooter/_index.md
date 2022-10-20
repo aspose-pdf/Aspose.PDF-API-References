@@ -3,7 +3,7 @@ title: HeaderFooter
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents header or footer pdf page.
 type: docs
-weight: 3310
+weight: 3360
 url: /net/aspose.pdf/headerfooter/
 ---
 ## HeaderFooter class

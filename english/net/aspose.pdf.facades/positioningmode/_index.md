@@ -3,7 +3,7 @@ title: PositioningMode
 second_title: Aspose.PDF for .NET API Reference
 description: Defines positioning mode. Possible values include Legacy backward compatibility and Current updated text position calculation method
 type: docs
-weight: 2610
+weight: 2660
 url: /net/aspose.pdf.facades/positioningmode/
 ---
 ## PositioningMode enumeration

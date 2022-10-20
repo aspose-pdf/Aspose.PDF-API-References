@@ -3,7 +3,7 @@ title: NamedAction
 second_title: Aspose.PDF for .NET API Reference
 description: Represents named actions that PDF viewer applications are expected to support.
 type: docs
-weight: 690
+weight: 740
 url: /net/aspose.pdf.annotations/namedaction/
 ---
 ## NamedAction class

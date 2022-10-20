@@ -3,7 +3,7 @@ title: SpanElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Span structure element in logical structure.
 type: docs
-weight: 4440
+weight: 4490
 url: /net/aspose.pdf.logicalstructure/spanelement/
 ---
 ## SpanElement class

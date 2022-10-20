@@ -3,7 +3,7 @@ title: ExtendedBoolean
 second_title: Aspose.PDF for .NET API Reference
 description: Represents boolean type that supports Undefined value.
 type: docs
-weight: 2090
+weight: 2140
 url: /net/aspose.pdf/extendedboolean/
 ---
 ## ExtendedBoolean enumeration

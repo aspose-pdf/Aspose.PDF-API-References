@@ -3,7 +3,7 @@ title: BlendMode
 second_title: Aspose.PDF for .NET API Reference
 description: The blend modes enumeration.
 type: docs
-weight: 1340
+weight: 1390
 url: /net/aspose.pdf/blendmode/
 ---
 ## BlendMode enumeration

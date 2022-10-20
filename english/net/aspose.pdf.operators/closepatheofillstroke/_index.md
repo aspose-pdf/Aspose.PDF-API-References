@@ -3,7 +3,7 @@ title: ClosePathEOFillStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing b operator close fill and stroke path using even-odd rule.
 type: docs
-weight: 4940
+weight: 4990
 url: /net/aspose.pdf.operators/closepatheofillstroke/
 ---
 ## ClosePathEOFillStroke class

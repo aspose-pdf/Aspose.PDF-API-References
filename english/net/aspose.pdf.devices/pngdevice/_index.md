@@ -3,7 +3,7 @@ title: PngDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Represents image device that helps to save pdf document pages into png.
 type: docs
-weight: 1700
+weight: 1750
 url: /net/aspose.pdf.devices/pngdevice/
 ---
 ## PngDevice class
@@ -34,7 +34,7 @@ public sealed class PngDevice : ImageDevice
 | [Height](../../aspose.pdf.devices/imagedevice/height) { get; } | Gets image output height. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions) { get; set; } | Gets or sets rendering options. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution) { get; } | Gets image resolution. |
-| [TransparentBackground](../../aspose.pdf.devices/pngdevice/transparentbackground) { get; set; } |  |
+| [TransparentBackground](../../aspose.pdf.devices/pngdevice/transparentbackground) { get; set; } | Gets or sets if image has transparent background. |
 | [Width](../../aspose.pdf.devices/imagedevice/width) { get; } | Gets image output width. |
 
 ## Methods

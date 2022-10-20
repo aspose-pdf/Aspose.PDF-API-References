@@ -3,7 +3,7 @@ title: PageNumberRotation
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets rotation of page number. Rotation is in degrees. Default is 0.
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.pdf.facades/pdffilestamp/pagenumberrotation/
 ---
 ## PdfFileStamp.PageNumberRotation property

@@ -3,7 +3,7 @@ title: ApsSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to APS XML format.
 type: docs
-weight: 1250
+weight: 1300
 url: /net/aspose.pdf/apssaveoptions/
 ---
 ## ApsSaveOptions class

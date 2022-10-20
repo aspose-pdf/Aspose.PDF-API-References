@@ -3,7 +3,7 @@ title: ConvertSoftMaskAction
 second_title: Aspose.PDF for .NET API Reference
 description: This action represents actions for conversion of images with soft mask.
 type: docs
-weight: 1530
+weight: 1580
 url: /net/aspose.pdf/convertsoftmaskaction/
 ---
 ## ConvertSoftMaskAction enumeration

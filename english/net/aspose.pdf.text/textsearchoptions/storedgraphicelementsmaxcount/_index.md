@@ -3,7 +3,7 @@ title: StoredGraphicElementsMaxCount
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets value that limits searching for text related graphics underlining background etc. on a page for the speciefied number of elements. The default is 250. Set lesser value in the case of performance problems try larger value in the case some graphic elements wasnt found.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/
 ---
 ## TextSearchOptions.StoredGraphicElementsMaxCount property

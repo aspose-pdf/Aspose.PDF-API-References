@@ -3,7 +3,7 @@ title: Items
 second_title: Aspose.PDF for .NET API Reference
 description: Sets items which will be added t onewly created list box or combo box.
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.pdf.facades/formeditor/items/
 ---
 ## FormEditor.Items property

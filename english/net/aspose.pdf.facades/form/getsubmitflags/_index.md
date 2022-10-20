@@ -3,7 +3,7 @@ title: GetSubmitFlags
 second_title: Aspose.PDF for .NET API Reference
 description: Returns the submit buttons submission flags
 type: docs
-weight: 260
+weight: 300
 url: /net/aspose.pdf.facades/form/getsubmitflags/
 ---
 ## Form.GetSubmitFlags method

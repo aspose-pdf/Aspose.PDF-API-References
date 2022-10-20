@@ -3,7 +3,7 @@ title: RenditionOperation
 second_title: Aspose.PDF for .NET API Reference
 description: The operation to perform when the action is triggered.
 type: docs
-weight: 950
+weight: 1000
 url: /net/aspose.pdf.annotations/renditionoperation/
 ---
 ## RenditionOperation enumeration

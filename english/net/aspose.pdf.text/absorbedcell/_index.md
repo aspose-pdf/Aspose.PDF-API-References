@@ -3,7 +3,7 @@ title: AbsorbedCell
 second_title: Aspose.PDF for .NET API Reference
 description: Represents cell of table that exist on the page
 type: docs
-weight: 6560
+weight: 6610
 url: /net/aspose.pdf.text/absorbedcell/
 ---
 ## AbsorbedCell class

@@ -3,10 +3,10 @@ title: Extract
 second_title: Aspose.PDF for .NET API Reference
 description: Extracts pages from input filesaves as a new Pdf file.
 type: docs
-weight: 280
+weight: 310
 url: /net/aspose.pdf.facades/pdffileeditor/extract/
 ---
-## Extract(string, int, int, string) {#extract_2}
+## Extract(string, int, int, string) {#extract_3}
 
 Extracts pages from input file,saves as a new Pdf file.
 
@@ -40,7 +40,7 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 
 ---
 
-## Extract(string, int[], string) {#extract_3}
+## Extract(string, int[], string) {#extract_4}
 
 Extracts pages specified by number array, saves as a new PDF file.
 
@@ -135,6 +135,58 @@ Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read
 Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Extract(Stream, int[], HttpResponse) {#extract_2}
+
+Extracts specified pages form source file and stores result into HttpResponse object.
+
+```csharp
+public bool Extract(Stream inputStream, int[] pageNumber, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | Stream | Stream of source document. |
+| pageNumber | Int32[] | Array of page numbers which will be extracted. |
+| response | HttpResponse | HttpResponse object where result will be stored. |
+
+### Return Value
+
+True if operation was succeeded.
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Extract(string, int[], HttpResponse) {#extract_5}
+
+Extracts specified pages from source file and stores result into HttpResponse object.
+
+```csharp
+public bool Extract(string inputFile, int[] pageNumber, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | Source file path. |
+| pageNumber | Int32[] | Array of page numbers which will be extracted. |
+| response | HttpResponse | HttpResponse object where result will be stored. |
+
+### Return Value
+
+true if pages were extracted successfully.
 
 ### See Also
 

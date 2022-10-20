@@ -3,7 +3,7 @@ title: Symbology
 second_title: Aspose.PDF for .NET API Reference
 description: A Barcode Symbology defines the technical details of a particular type of barcode the width of the bars character set method of encoding checksum specifications etc.
 type: docs
-weight: 3200
+weight: 3250
 url: /net/aspose.pdf.forms/symbology/
 ---
 ## Symbology enumeration

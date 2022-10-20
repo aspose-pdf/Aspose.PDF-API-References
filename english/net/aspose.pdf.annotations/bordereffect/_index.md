@@ -3,7 +3,7 @@ title: BorderEffect
 second_title: Aspose.PDF for .NET API Reference
 description: Describes effect which should be applied to the border of the annotations.
 type: docs
-weight: 130
+weight: 180
 url: /net/aspose.pdf.annotations/bordereffect/
 ---
 ## BorderEffect enumeration

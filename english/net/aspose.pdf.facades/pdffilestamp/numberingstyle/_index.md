@@ -3,7 +3,7 @@ title: NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets pabge numbering style. Possible values NumeralsArabic NumeralsRomanUppercase NumeralsRomanLowercase LettersAppercase LettersLowercase
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.pdf.facades/pdffilestamp/numberingstyle/
 ---
 ## PdfFileStamp.NumberingStyle property

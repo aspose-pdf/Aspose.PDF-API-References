@@ -3,7 +3,7 @@ title: DocumentDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract class for all devices which is used to process the whole pdf document.
 type: docs
-weight: 1620
+weight: 1670
 url: /net/aspose.pdf.devices/documentdevice/
 ---
 ## DocumentDevice class

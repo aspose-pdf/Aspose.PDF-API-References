@@ -3,7 +3,7 @@ title: FolderFontSource
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the folder that contains font files.
 type: docs
-weight: 6640
+weight: 6690
 url: /net/aspose.pdf.text/folderfontsource/
 ---
 ## FolderFontSource class

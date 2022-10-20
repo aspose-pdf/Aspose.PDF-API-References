@@ -3,7 +3,7 @@ title: Point3D
 second_title: Aspose.PDF for .NET API Reference
 description: Represent point with fractional coordinates.
 type: docs
-weight: 6090
+weight: 6140
 url: /net/aspose.pdf/point3d/
 ---
 ## Point3D class
@@ -28,6 +28,12 @@ public sealed class Point3D
 | [X](../../aspose.pdf/point3d/x) { get; set; } | X coordinate value. |
 | [Y](../../aspose.pdf/point3d/y) { get; set; } | Y coordinate value. |
 | [Z](../../aspose.pdf/point3d/z) { get; set; } | Z coordinate value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.pdf/point3d/tostring)() | Returns the string representation of the object. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: GroupingElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for grouping structure elements in logical structure.
 type: docs
-weight: 4160
+weight: 4210
 url: /net/aspose.pdf.logicalstructure/groupingelement/
 ---
 ## GroupingElement class

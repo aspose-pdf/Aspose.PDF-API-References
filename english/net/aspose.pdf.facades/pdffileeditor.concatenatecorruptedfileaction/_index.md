@@ -3,7 +3,7 @@ title: PdfFileEditor.ConcatenateCorruptedFileAction
 second_title: Aspose.PDF for .NET API Reference
 description: Action performed when corrupted file was met in concatenation process.
 type: docs
-weight: 2430
+weight: 2480
 url: /net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/
 ---
 ## PdfFileEditor.ConcatenateCorruptedFileAction enumeration

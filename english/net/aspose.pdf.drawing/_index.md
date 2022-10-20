@@ -3,7 +3,7 @@ title: Aspose.Pdf.Drawing
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Drawing namespace provides classes describing graphic primitives like arc line circle etc. Corresponding objects can be used for creating new documents.
 type: docs
-weight: 40
+weight: 70
 url: /net/aspose.pdf.drawing/
 ---
 The **Aspose.Pdf.Drawing** namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents.

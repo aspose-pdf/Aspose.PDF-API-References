@@ -3,7 +3,7 @@ title: SetColorStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing SC operator set color for stroking color operators.
 type: docs
-weight: 5400
+weight: 5450
 url: /net/aspose.pdf.operators/setcolorstroke/
 ---
 ## SetColorStroke class

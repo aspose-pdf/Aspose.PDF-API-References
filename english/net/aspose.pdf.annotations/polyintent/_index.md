@@ -3,7 +3,7 @@ title: PolyIntent
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the intents of the polygon or polyline annotation.
 type: docs
-weight: 860
+weight: 910
 url: /net/aspose.pdf.annotations/polyintent/
 ---
 ## PolyIntent enumeration

@@ -3,7 +3,7 @@ title: PKCS7Detached
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the PKCS7 object that conform to the PKCS7 specification in Internet RFC 2315 PKCS 7 Cryptographic Message Syntax Version 1.5. The original signed message digest over the documents byte range is incorporated as the normal PKCS7 SignedData field. No data shall is encapsulated in the PKCS7 SignedData field.
 type: docs
-weight: 3090
+weight: 3140
 url: /net/aspose.pdf.forms/pkcs7detached/
 ---
 ## PKCS7Detached class

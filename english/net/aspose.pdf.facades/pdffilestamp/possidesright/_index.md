@@ -3,7 +3,7 @@ title: PosSidesRight
 second_title: Aspose.PDF for .NET API Reference
 description: Right position.
 type: docs
-weight: 210
+weight: 250
 url: /net/aspose.pdf.facades/pdffilestamp/possidesright/
 ---
 ## PdfFileStamp.PosSidesRight field

@@ -3,7 +3,7 @@ title: XfaParserOptions
 second_title: Aspose.PDF for .NET API Reference
 description: class to handle related data incapsulation
 type: docs
-weight: 7380
+weight: 7430
 url: /net/aspose.pdf.xfaconverter/xfaparseroptions/
 ---
 ## XfaParserOptions class

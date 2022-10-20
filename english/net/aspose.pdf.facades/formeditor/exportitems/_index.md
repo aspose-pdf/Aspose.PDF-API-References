@@ -3,7 +3,7 @@ title: ExportItems
 second_title: Aspose.PDF for .NET API Reference
 description: Sets options for combo box with export values.
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.pdf.facades/formeditor/exportitems/
 ---
 ## FormEditor.ExportItems property

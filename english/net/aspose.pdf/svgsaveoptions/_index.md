@@ -3,7 +3,7 @@ title: SvgSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to SVG format
 type: docs
-weight: 6410
+weight: 6460
 url: /net/aspose.pdf/svgsaveoptions/
 ---
 ## SvgSaveOptions class

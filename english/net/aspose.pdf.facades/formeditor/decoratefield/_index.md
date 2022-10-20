@@ -3,7 +3,7 @@ title: DecorateField
 second_title: Aspose.PDF for .NET API Reference
 description: Changes visual attributes of the specified field.
 type: docs
-weight: 170
+weight: 210
 url: /net/aspose.pdf.facades/formeditor/decoratefield/
 ---
 ## DecorateField(string) {#decoratefield_2}

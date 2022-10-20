@@ -3,7 +3,7 @@ title: Curve
 second_title: Aspose.PDF for .NET API Reference
 description: Represents bezier curve.
 type: docs
-weight: 1900
+weight: 1950
 url: /net/aspose.pdf.drawing/curve/
 ---
 ## Curve class

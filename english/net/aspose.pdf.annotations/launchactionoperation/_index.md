@@ -3,7 +3,7 @@ title: LaunchActionOperation
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the operations to perform with document during launch action executing.
 type: docs
-weight: 530
+weight: 580
 url: /net/aspose.pdf.annotations/launchactionoperation/
 ---
 ## LaunchActionOperation enumeration

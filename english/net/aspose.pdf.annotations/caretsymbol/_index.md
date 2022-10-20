@@ -3,7 +3,7 @@ title: CaretSymbol
 second_title: Aspose.PDF for .NET API Reference
 description: A symbol to be associated with the caret.
 type: docs
-weight: 180
+weight: 230
 url: /net/aspose.pdf.annotations/caretsymbol/
 ---
 ## CaretSymbol enumeration

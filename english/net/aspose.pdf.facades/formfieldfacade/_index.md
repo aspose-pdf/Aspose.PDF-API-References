@@ -3,7 +3,7 @@ title: FormFieldFacade
 second_title: Aspose.PDF for .NET API Reference
 description: Class for representing field properties.
 type: docs
-weight: 2300
+weight: 2350
 url: /net/aspose.pdf.facades/formfieldfacade/
 ---
 ## FormFieldFacade class

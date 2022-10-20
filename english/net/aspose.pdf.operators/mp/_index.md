@@ -3,7 +3,7 @@ title: MP
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing MP operator define marked-content point.
 type: docs
-weight: 5190
+weight: 5240
 url: /net/aspose.pdf.operators/mp/
 ---
 ## MP class

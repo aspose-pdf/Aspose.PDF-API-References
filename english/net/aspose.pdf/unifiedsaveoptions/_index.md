@@ -3,7 +3,7 @@ title: UnifiedSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: This class represents saving options for saving that uses unified conversion way with unified internal document model
 type: docs
-weight: 7240
+weight: 7290
 url: /net/aspose.pdf/unifiedsaveoptions/
 ---
 ## UnifiedSaveOptions class

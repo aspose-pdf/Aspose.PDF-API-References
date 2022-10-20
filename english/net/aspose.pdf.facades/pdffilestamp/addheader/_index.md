@@ -3,7 +3,7 @@ title: AddHeader
 second_title: Aspose.PDF for .NET API Reference
 description: Adds header to the page.
 type: docs
-weight: 120
+weight: 160
 url: /net/aspose.pdf.facades/pdffilestamp/addheader/
 ---
 ## AddHeader(FormattedText, float) {#addheader}

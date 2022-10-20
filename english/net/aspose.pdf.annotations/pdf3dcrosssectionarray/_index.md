@@ -3,7 +3,7 @@ title: PDF3DCrossSectionArray
 second_title: Aspose.PDF for .NET API Reference
 description: Class PDF3DCrossSectionArray.
 type: docs
-weight: 760
+weight: 810
 url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
 ## PDF3DCrossSectionArray class

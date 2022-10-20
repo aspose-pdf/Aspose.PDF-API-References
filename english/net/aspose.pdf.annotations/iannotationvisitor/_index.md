@@ -3,7 +3,7 @@ title: IAnnotationVisitor
 second_title: Aspose.PDF for .NET API Reference
 description: Defines Visitor for visiting different document annotations.
 type: docs
-weight: 460
+weight: 510
 url: /net/aspose.pdf.annotations/iannotationvisitor/
 ---
 ## IAnnotationVisitor interface

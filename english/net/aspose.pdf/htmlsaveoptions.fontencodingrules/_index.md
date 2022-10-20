@@ -3,7 +3,7 @@ title: HtmlSaveOptions.FontEncodingRules
 second_title: Aspose.PDF for .NET API Reference
 description: This enumeration defines rules which tune encoding logic
 type: docs
-weight: 3450
+weight: 3500
 url: /net/aspose.pdf/htmlsaveoptions.fontencodingrules/
 ---
 ## HtmlSaveOptions.FontEncodingRules enumeration

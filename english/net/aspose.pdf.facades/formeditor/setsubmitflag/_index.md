@@ -3,7 +3,7 @@ title: SetSubmitFlag
 second_title: Aspose.PDF for .NET API Reference
 description: Set submit flag of submit button.
 type: docs
-weight: 330
+weight: 370
 url: /net/aspose.pdf.facades/formeditor/setsubmitflag/
 ---
 ## FormEditor.SetSubmitFlag method

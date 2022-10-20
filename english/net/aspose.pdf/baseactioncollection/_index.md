@@ -3,7 +3,7 @@ title: BaseActionCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Class incapsulates basic actions wuth page/annotation/field interactive actions
 type: docs
-weight: 1310
+weight: 1360
 url: /net/aspose.pdf/baseactioncollection/
 ---
 ## BaseActionCollection class

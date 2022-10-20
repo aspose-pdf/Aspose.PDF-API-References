@@ -3,7 +3,7 @@ title: FitHExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page magnified just enough to fit the entire width of the page within the window. A null value for top specifies that the current value of that parameter is to be retained unchanged.
 type: docs
-weight: 340
+weight: 390
 url: /net/aspose.pdf.annotations/fithexplicitdestination/
 ---
 ## FitHExplicitDestination class

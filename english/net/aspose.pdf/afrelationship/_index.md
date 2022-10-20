@@ -3,7 +3,7 @@ title: AFRelationship
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration describes associated files relationship.
 type: docs
-weight: 10
+weight: 60
 url: /net/aspose.pdf/afrelationship/
 ---
 ## AFRelationship enumeration

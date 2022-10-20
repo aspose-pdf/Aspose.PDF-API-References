@@ -3,7 +3,7 @@ title: ConvertTransparencyAction
 second_title: Aspose.PDF for .NET API Reference
 description: This class represents action for conversion of transparency.
 type: docs
-weight: 1540
+weight: 1590
 url: /net/aspose.pdf/converttransparencyaction/
 ---
 ## ConvertTransparencyAction enumeration

@@ -3,7 +3,7 @@ title: EpubLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Contains options for loading/importing EPUB file into pdf document.
 type: docs
-weight: 2040
+weight: 2090
 url: /net/aspose.pdf/epubloadoptions/
 ---
 ## EpubLoadOptions class

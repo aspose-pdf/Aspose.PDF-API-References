@@ -3,7 +3,7 @@ title: PdfPrintPageInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an object that contains current printing page info.
 type: docs
-weight: 2560
+weight: 2610
 url: /net/aspose.pdf.facades/pdfprintpageinfo/
 ---
 ## PdfPrintPageInfo class

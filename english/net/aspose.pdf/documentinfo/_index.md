@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Represents meta information of PDF document.
 type: docs
-weight: 1870
+weight: 1920
 url: /net/aspose.pdf/documentinfo/
 ---
 ## DocumentInfo class
@@ -44,7 +44,7 @@ public sealed class DocumentInfo : Dictionary<string, string>
 | [Add](../../aspose.pdf/documentinfo/add#add)(string, string) | Adds an element with the specified key and value into the collection. |
 | [Clear](../../aspose.pdf/documentinfo/clear#clear)() | Clears the document info. |
 | [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata)() | Clears custom data only, leaves all other predefined values (Title, Author, etc.). |
-| [Remove](../../aspose.pdf/documentinfo/remove#remove_2)(string) | Removes the element with the specified key from the collection. |
+| [Remove](../../aspose.pdf/documentinfo/remove#remove_1)(string) | Removes the element with the specified key from the collection. |
 | static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey)(string) | Determines if the key is predefined (Title, Author, etc.), not custom. |
 
 ### See Also

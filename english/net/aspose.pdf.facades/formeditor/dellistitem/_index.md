@@ -3,7 +3,7 @@ title: DelListItem
 second_title: Aspose.PDF for .NET API Reference
 description: Delete item from the list field.
 type: docs
-weight: 180
+weight: 220
 url: /net/aspose.pdf.facades/formeditor/dellistitem/
 ---
 ## FormEditor.DelListItem method

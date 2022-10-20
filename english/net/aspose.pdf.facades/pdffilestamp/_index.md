@@ -3,7 +3,7 @@ title: PdfFileStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Class for adding stamps watermark or background to PDF files.
 type: docs
-weight: 2530
+weight: 2580
 url: /net/aspose.pdf.facades/pdffilestamp/
 ---
 ## PdfFileStamp class
@@ -25,6 +25,8 @@ public sealed class PdfFileStamp : SaveableFacade
 
 | Name | Description |
 | --- | --- |
+| [AttachmentName](../../aspose.pdf.facades/pdffilestamp/attachmentname) { get; set; } | Gets or sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
+| [ContentDisposition](../../aspose.pdf.facades/pdffilestamp/contentdisposition) { get; set; } | Gets or sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline. |
 | [ConvertTo](../../aspose.pdf.facades/pdffilestamp/convertto) { set; } | Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion. |
 | [Document](../../aspose.pdf.facades/facade/document) { get; } | Gets the document facade is working on. |
 | [KeepSecurity](../../aspose.pdf.facades/pdffilestamp/keepsecurity) { get; set; } | Keeps security if true. (This feature will be implemented in next versions). |
@@ -33,6 +35,8 @@ public sealed class PdfFileStamp : SaveableFacade
 | [PageHeight](../../aspose.pdf.facades/pdffilestamp/pageheight) { get; } | Gets height of first page in souorce file. |
 | [PageNumberRotation](../../aspose.pdf.facades/pdffilestamp/pagenumberrotation) { get; set; } | Gets or sets rotation of page number. Rotation is in degrees. Default is 0. |
 | [PageWidth](../../aspose.pdf.facades/pdffilestamp/pagewidth) { get; } | Gets width of first page in input file. |
+| [Response](../../aspose.pdf.facades/pdffilestamp/response) { get; set; } | Gets or sets Response object where result of operation will be stored. |
+| [SaveOptions](../../aspose.pdf.facades/pdffilestamp/saveoptions) { get; set; } | Gets or sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions. |
 | [StampId](../../aspose.pdf.facades/pdffilestamp/stampid) { get; set; } | Stamp ID of next added stamp (incluiding page headers/hooters/page numbers). |
 | [StartingNumber](../../aspose.pdf.facades/pdffilestamp/startingnumber) { get; set; } | Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100, document pages will have numbers 100, 101, 102... |
 

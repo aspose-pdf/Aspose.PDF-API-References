@@ -3,7 +3,7 @@ title: Justification
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the forms of quadding justification to be used in displaying the annotations text.
 type: docs
-weight: 510
+weight: 560
 url: /net/aspose.pdf.annotations/justification/
 ---
 ## Justification enumeration

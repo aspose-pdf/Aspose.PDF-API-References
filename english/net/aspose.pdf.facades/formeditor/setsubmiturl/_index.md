@@ -3,7 +3,7 @@ title: SetSubmitUrl
 second_title: Aspose.PDF for .NET API Reference
 description: Sets URL of the button.
 type: docs
-weight: 340
+weight: 380
 url: /net/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
 ## FormEditor.SetSubmitUrl method

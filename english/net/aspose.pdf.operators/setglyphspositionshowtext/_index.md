@@ -3,7 +3,7 @@ title: SetGlyphsPositionShowText
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing TJ operator show text with glyph positioning.
 type: docs
-weight: 5430
+weight: 5480
 url: /net/aspose.pdf.operators/setglyphspositionshowtext/
 ---
 ## SetGlyphsPositionShowText class

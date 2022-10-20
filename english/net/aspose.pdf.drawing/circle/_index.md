@@ -3,7 +3,7 @@ title: Circle
 second_title: Aspose.PDF for .NET API Reference
 description: Represents circle.
 type: docs
-weight: 1890
+weight: 1940
 url: /net/aspose.pdf.drawing/circle/
 ---
 ## Circle class

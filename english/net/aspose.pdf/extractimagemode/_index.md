@@ -3,7 +3,7 @@ title: ExtractImageMode
 second_title: Aspose.PDF for .NET API Reference
 description: Defines different modes which can be used while extracting images from documents.
 type: docs
-weight: 2100
+weight: 2150
 url: /net/aspose.pdf/extractimagemode/
 ---
 ## ExtractImageMode enumeration

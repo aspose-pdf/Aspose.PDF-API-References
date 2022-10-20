@@ -3,7 +3,7 @@ title: BorderSide
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the border sides.
 type: docs
-weight: 1370
+weight: 1420
 url: /net/aspose.pdf/borderside/
 ---
 ## BorderSide enumeration

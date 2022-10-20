@@ -3,7 +3,7 @@ title: AnnotationState
 second_title: Aspose.PDF for .NET API Reference
 description: The enumeration of states to which the original annotation can be set.
 type: docs
-weight: 80
+weight: 130
 url: /net/aspose.pdf.annotations/annotationstate/
 ---
 ## AnnotationState enumeration

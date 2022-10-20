@@ -3,7 +3,7 @@ title: SetFieldAppearance
 second_title: Aspose.PDF for .NET API Reference
 description: Set field flags
 type: docs
-weight: 280
+weight: 320
 url: /net/aspose.pdf.facades/formeditor/setfieldappearance/
 ---
 ## FormEditor.SetFieldAppearance method

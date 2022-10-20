@@ -3,10 +3,10 @@ title: TryConcatenate
 second_title: Aspose.PDF for .NET API Reference
 description: Concatenates two files.
 type: docs
-weight: 390
+weight: 420
 url: /net/aspose.pdf.facades/pdffileeditor/tryconcatenate/
 ---
-## TryConcatenate(string, string, string) {#tryconcatenate_3}
+## TryConcatenate(string, string, string) {#tryconcatenate_4}
 
 Concatenates two files.
 
@@ -73,7 +73,7 @@ The TryConcatenate method is like the Concatenate method, except the TryConcaten
 
 ---
 
-## TryConcatenate(string[], string) {#tryconcatenate_5}
+## TryConcatenate(string[], string) {#tryconcatenate_6}
 
 Concatenates files into one file.
 
@@ -148,7 +148,7 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ---
 
-## TryConcatenate(string, string, string, string) {#tryconcatenate_4}
+## TryConcatenate(string, string, string, string) {#tryconcatenate_5}
 
 Merges two Pdf documents into a new Pdf document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. Merging the two Pdf document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
@@ -221,6 +221,64 @@ Stream blank = new FileStream("blank.pdf", FileMode.Open, FileAccess.Read);
 Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TryConcatenate(string[], HttpResponse) {#tryconcatenate_7}
+
+Concatenates files and saves reslt into HttpResposnse object.
+
+```csharp
+public bool TryConcatenate(string[] inputFiles, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFiles | String[] | Array of files to concatenate. |
+| response | HttpResponse | Response object. |
+
+### Return Value
+
+true if operation completed successfully; otherwise, false.
+
+### Remarks
+
+The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TryConcatenate(Stream[], HttpResponse) {#tryconcatenate_3}
+
+Concatenates files and stores result into HttpResponse object.
+
+```csharp
+public bool TryConcatenate(Stream[] inputStream, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | Stream[] | Streams array which contain files to concatenate. |
+| response | HttpResponse | Response object/ |
+
+### Return Value
+
+true if operation completed successfully; otherwise, false.
+
+### Remarks
+
+The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
 ### See Also
 

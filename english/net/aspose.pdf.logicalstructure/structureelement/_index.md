@@ -3,7 +3,7 @@ title: StructureElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for structure elements in logical structure.
 type: docs
-weight: 4490
+weight: 4540
 url: /net/aspose.pdf.logicalstructure/structureelement/
 ---
 ## StructureElement class

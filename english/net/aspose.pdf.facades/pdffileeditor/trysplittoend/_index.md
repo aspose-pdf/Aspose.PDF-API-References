@@ -3,10 +3,10 @@ title: TrySplitToEnd
 second_title: Aspose.PDF for .NET API Reference
 description: Splits from location and saves the rear part as a new file.
 type: docs
-weight: 470
+weight: 500
 url: /net/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
-## TrySplitToEnd(string, int, string) {#trysplittoend_1}
+## TrySplitToEnd(string, int, string) {#trysplittoend_2}
 
 Splits from location, and saves the rear part as a new file.
 
@@ -73,6 +73,66 @@ Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read
 Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 bool result = pfe.TrySplitToEnd(sourceStream, 5, outStream);
 ```
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TrySplitToEnd(Stream, int, HttpResponse) {#trysplittoend_1}
+
+Splits from specified location, and saves the rear part into HttpResponse object.
+
+```csharp
+public bool TrySplitToEnd(Stream inputStream, int location, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | Stream | Source document stream. |
+| location | Int32 | Split point. |
+| response | HttpResponse | HttpResponse object. |
+
+### Return Value
+
+true if operation completed successfully; otherwise, false.
+
+### Remarks
+
+The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd method does not throw an exception if the operation fails.
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TrySplitToEnd(string, int, HttpResponse) {#trysplittoend_3}
+
+Splits from specified location, and saves the rear part into HttpResponse object.
+
+```csharp
+public bool TrySplitToEnd(string inputFile, int location, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | source file name. |
+| location | Int32 | Split point. |
+| response | HttpResponse | HttpResponse objects. |
+
+### Return Value
+
+true if operation completed successfully; otherwise, false.
+
+### Remarks
+
+The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd method does not throw an exception if the operation fails.
 
 ### See Also
 

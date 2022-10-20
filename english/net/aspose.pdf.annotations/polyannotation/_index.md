@@ -3,7 +3,7 @@ title: PolyAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract base class for poly- annotations.
 type: docs
-weight: 850
+weight: 900
 url: /net/aspose.pdf.annotations/polyannotation/
 ---
 ## PolyAnnotation class

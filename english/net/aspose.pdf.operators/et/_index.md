@@ -3,7 +3,7 @@ title: ET
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing operator ET End of text block.
 type: docs
-weight: 5080
+weight: 5130
 url: /net/aspose.pdf.operators/et/
 ---
 ## ET class

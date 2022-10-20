@@ -3,7 +3,7 @@ title: NumberingStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of supported page numbering style for PageLabel class.
 type: docs
-weight: 4790
+weight: 4840
 url: /net/aspose.pdf/numberingstyle/
 ---
 ## NumberingStyle enumeration

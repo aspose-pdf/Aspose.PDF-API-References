@@ -3,7 +3,7 @@ title: CryptoAlgorithm
 second_title: Aspose.PDF for .NET API Reference
 description: Represent type of cryptographic algorithm that used in encryption/decryption routines.
 type: docs
-weight: 1550
+weight: 1600
 url: /net/aspose.pdf/cryptoalgorithm/
 ---
 ## CryptoAlgorithm enumeration

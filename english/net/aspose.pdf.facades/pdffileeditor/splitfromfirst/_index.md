@@ -3,10 +3,10 @@ title: SplitFromFirst
 second_title: Aspose.PDF for .NET API Reference
 description: Splits Pdf file from first page to specified locationand saves the front part as a new file.
 type: docs
-weight: 340
+weight: 370
 url: /net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
-## SplitFromFirst(string, int, string) {#splitfromfirst_1}
+## SplitFromFirst(string, int, string) {#splitfromfirst_2}
 
 Splits Pdf file from first page to specified location,and saves the front part as a new file.
 
@@ -69,6 +69,58 @@ Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read
 Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitFromFirst(sourceStream, 5, outStream);
 ```
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SplitFromFirst(string, int, HttpResponse) {#splitfromfirst_3}
+
+Splits document from first page to location and saves result into HttpResponse objects.
+
+```csharp
+public bool SplitFromFirst(string inputFile, int location, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | Source file name. |
+| location | Int32 | Split point. |
+| response | HttpResponse | HttpResponse objects. |
+
+### Return Value
+
+True if operation was succeeded.
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SplitFromFirst(Stream, int, HttpResponse) {#splitfromfirst_1}
+
+Splits document from start to specified location and stores result into HttpResponse object.
+
+```csharp
+public bool SplitFromFirst(Stream inputStream, int location, HttpResponse response)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | Stream | Stream of source document. |
+| location | Int32 | The splitting point. |
+| response | HttpResponse | HttpResponse object where result will be stored. |
+
+### Return Value
+
+True if operation was succeeded.
 
 ### See Also
 

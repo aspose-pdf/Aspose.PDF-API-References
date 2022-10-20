@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of annotation types.
 type: docs
-weight: 100
+weight: 150
 url: /net/aspose.pdf.annotations/annotationtype/
 ---
 ## AnnotationType enumeration

@@ -3,7 +3,7 @@ title: ColorSpace
 second_title: Aspose.PDF for .NET API Reference
 description: The color spaces enumeration.
 type: docs
-weight: 1450
+weight: 1500
 url: /net/aspose.pdf/colorspace/
 ---
 ## ColorSpace enumeration

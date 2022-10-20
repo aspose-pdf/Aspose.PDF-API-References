@@ -3,7 +3,7 @@ title: Close
 second_title: Aspose.PDF for .NET API Reference
 description: Closes the facade.
 type: docs
-weight: 140
+weight: 180
 url: /net/aspose.pdf.facades/formeditor/close/
 ---
 ## FormEditor.Close method
