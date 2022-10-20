@@ -7,7 +7,7 @@ weight: 13
 url: /java/com.aspose.pdf.exceptions/
 ---
 
-The ** com.aspose.pdf.exceptions ** package provides classes for exceptions which can occur while working with a document.
+The **com.aspose.pdf.exceptions** package provides classes for exceptions which can occur while working with a document.
 
 
 ## Classes
