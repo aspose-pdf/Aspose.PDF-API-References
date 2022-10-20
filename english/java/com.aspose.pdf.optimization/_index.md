@@ -7,7 +7,7 @@ weight: 18
 url: /java/com.aspose.pdf.optimization/
 ---
 
-The ** com.aspose.pdf.optimization ** is a package for classes for managing of document optimization process. process.
+The **com.aspose.pdf.optimization** is a package for classes for managing of document optimization process. process.
 
 
 ## Classes

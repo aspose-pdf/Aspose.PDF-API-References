@@ -7,7 +7,7 @@ weight: 26
 url: /java/com.aspose.pdf.text/
 ---
 
-The ** com.aspose.pdf.text ** package provides classes that allow to extract text, add text, manipulate existing text of a document. It also contains classes that allow to extract, replace, substitute fonts of a document.
+The **com.aspose.pdf.text** package provides classes that allow to extract text, add text, manipulate existing text of a document. It also contains classes that allow to extract, replace, substitute fonts of a document.
 
 
 ## Classes

@@ -7,7 +7,7 @@ weight: 10
 url: /java/com.aspose.pdf/
 ---
 
-The ** com.aspose.pdf ** is a root package for all classes of Aspose.PDF for Java library which are either directly in it like ** Document ** or indirectly through several subpackages.
+The**com.aspose.pdf**is a root package for all classes of Aspose.PDF for Java library which are either directly in it like**Document**or indirectly through several subpackages.
 
 1) classes for almost all types of annotations document can have.
 

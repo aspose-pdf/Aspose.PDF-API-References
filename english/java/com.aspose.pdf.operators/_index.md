@@ -7,7 +7,7 @@ weight: 17
 url: /java/com.aspose.pdf.operators/
 ---
 
-The ** com.aspose.pdf.operators ** is a package for Operator implementations. These classes describes operators used in PDF page contents.
+The **com.aspose.pdf.operators** is a package for Operator implementations. These classes describes operators used in PDF page contents.
 
 
 ## Classes
