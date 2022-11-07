@@ -7,7 +7,7 @@ weight: 19
 url: /java/com.aspose.pdf.printing/
 ---
 
-The ** com.aspose.pdf.printing ** package provides classes which are used for configuring the printing process.
+The **com.aspose.pdf.printing** package provides classes which are used for configuring the printing process.
 
 
 ## Classes
