@@ -29,6 +29,7 @@ Represent point with fractional coordinates.
 | [getZ()](#getZ--) | Z coordinate value. |
 | [setZ(double value)](#setZ-double-) | Z coordinate value. |
 | [getTrivial()](#getTrivial--) | Gets point with zero coordinates. |
+| [toString()](#toString--) | Returns the string representation of the object. |
 ### Point3D(double x, double y, double z) {#Point3D-double-double-double-}
 ```
 public Point3D(double x, double y, double z)
@@ -123,3 +124,13 @@ Gets point with zero coordinates.
 
 **Returns:**
 [Point3D](../../com.aspose.pdf/point3d) - Point3D object
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Returns the string representation of the object.
+
+**Returns:**
+java.lang.String - The string value

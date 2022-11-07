@@ -7,7 +7,7 @@ weight: 25
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.ils/
 ---
 
-The **com.aspose.pdf.tagged.logicalstructure.elements.ils** is a namespace for PDF Logical Structure classes.
+The ** com.aspose.pdf.tagged.logicalstructure.elements.ils ** is a namespace for PDF Logical Structure classes.
 
 
 ## Classes

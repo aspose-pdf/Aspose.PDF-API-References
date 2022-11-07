@@ -7,7 +7,7 @@ weight: 16
 url: /java/com.aspose.pdf.nameddestinations/
 ---
 
-The **com.aspose.pdf.nameddestinations** package provides classes which describes Named Destinations.
+The ** com.aspose.pdf.nameddestinations ** package provides classes which describes Named Destinations.
 
 
 ## Classes

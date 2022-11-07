@@ -7,7 +7,7 @@ weight: 15
 url: /java/com.aspose.pdf.groupprocessor/
 ---
 
-**The GroupProcessor** namespace provides classes used to work text and fonts.
+** The GroupProcessor ** namespace provides classes used to work text and fonts.
 
 
 ## Classes

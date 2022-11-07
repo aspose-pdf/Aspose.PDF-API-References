@@ -44,6 +44,8 @@ Represents text search options
 | [setSearchForTextRelatedGraphics(boolean value)](#setSearchForTextRelatedGraphics-boolean-) | Gets or sets value that permits searching for text related graphics (underlining, background etc.) during text search. |
 | [getStoredGraphicElementsMaxCount()](#getStoredGraphicElementsMaxCount--) | Gets value that limits searching for text related graphics (underlining, background etc.) on a page for the speciefied number of elements. |
 | [setStoredGraphicElementsMaxCount(int value)](#setStoredGraphicElementsMaxCount-int-) | Sets value that limits searching for text related graphics (underlining, background etc.) on a page for the speciefied number of elements. |
+| [isSearchInAnnotations()](#isSearchInAnnotations--) | Gets or sets value that permits searching for text in Annotations. |
+| [setSearchInAnnotations(boolean value)](#setSearchInAnnotations-boolean-) | Gets or sets value that permits searching for text in Annotations. |
 ### TextSearchOptions(boolean isRegularExpressionUsed) {#TextSearchOptions-boolean-}
 ```
 public TextSearchOptions(boolean isRegularExpressionUsed)
@@ -315,4 +317,27 @@ Sets value that limits searching for text related graphics (underlining, backgro
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | int value |
+
+### isSearchInAnnotations() {#isSearchInAnnotations--}
+```
+public final boolean isSearchInAnnotations()
+```
+
+
+Gets or sets value that permits searching for text in Annotations. true - text will be searched in Annotations. false - text in Annotations won't be parsed by TextFragmentAbsorber.
+
+**Returns:**
+boolean - boolean value
+### setSearchInAnnotations(boolean value) {#setSearchInAnnotations-boolean-}
+```
+public final void setSearchInAnnotations(boolean value)
+```
+
+
+Gets or sets value that permits searching for text in Annotations. true - text will be searched in Annotations. false - text in Annotations won't be parsed by TextFragmentAbsorber.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
 

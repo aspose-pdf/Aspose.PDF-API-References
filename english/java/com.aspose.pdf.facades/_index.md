@@ -7,7 +7,7 @@ weight: 14
 url: /java/com.aspose.pdf.facades/
 ---
 
-The **com.aspose.pdf.facades** package provides classes originally came from Aspose.Pdf.Kit. These classes are used for manipulating documents performing operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
+The ** com.aspose.pdf.facades ** package provides classes originally came from Aspose.Pdf.Kit. These classes are used for manipulating documents performing operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
 
 
 ## Classes

@@ -42,14 +42,14 @@ Class representing page of PDF document.
 | [getEnginePage()](#getEnginePage--) | For Internal usage only |
 | [setEnginePage(IPage enginePage)](#setEnginePage-com.aspose.pdf.engine.commondata.IPage-) | For Internal usage only |
 | [getDocument()](#getDocument--) | Get document |
-| [getRect_Rename_Namesake()](#getRect-Rename-Namesake--) | Returns rectanlge of the page according to its CropBox and Media box; |
-| [getRect()](#getRect--) | Gets or sets rectangle of the page. |
+| [getRect_Rename_Namesake()](#getRect-Rename-Namesake--) | Returns rectangle of the page according to its CropBox and MediaBox; |
+| [getRect()](#getRect--) | Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. |
 | [setRect(Rectangle value)](#setRect-com.aspose.pdf.Rectangle-) | Gets or sets rectangle of the page. |
 | [getColorType()](#getColorType--) | Gets color type of the pages based on information getting from operators SetColor, images and forms. |
 | [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes. |
 | [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes. |
 | [isBlank(double fillThresholdFactor)](#isBlank-double-) | Gets the flag whether page is blank or not. |
-| [getPageRect(boolean considerRotation)](#getPageRect-boolean-) | Returns rectangle of the page. |
+| [getPageRect(boolean considerRotation)](#getPageRect-boolean-) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
 | [calculateContentBBox()](#calculateContentBBox--) | Calculates bbox value - rectangle containing contents without visible margins. |
 | [getTabOrder()](#getTabOrder--) | Gets tab order of the page. |
 | [setTabOrder(int value)](#setTabOrder-int-) | Sets tab order of the page. |
@@ -376,7 +376,7 @@ public Rectangle getRect_Rename_Namesake()
 ```
 
 
-Returns rectanlge of the page according to its CropBox and Media box;
+Returns rectangle of the page according to its CropBox and MediaBox;
 
 Internal
 
@@ -398,7 +398,7 @@ public Rectangle getRect()
 ```
 
 
-Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set.
+Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set.
 
 **Returns:**
 [Rectangle](../../com.aspose.pdf/rectangle) - Rectangle value
@@ -479,7 +479,7 @@ public Rectangle getPageRect(boolean considerRotation)
 ```
 
 
-Returns rectangle of the page.
+Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null).
 
 **Parameters:**
 | Parameter | Type | Description |

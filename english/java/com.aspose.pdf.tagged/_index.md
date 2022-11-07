@@ -7,7 +7,7 @@ weight: 20
 url: /java/com.aspose.pdf.tagged/
 ---
 
-The **com.aspose.pdf.tagged** package provides classes that allow to work with TaggedContent of a document.
+The ** com.aspose.pdf.tagged ** package provides classes that allow to work with TaggedContent of a document.
 
 
 ## Classes
