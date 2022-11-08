@@ -3,7 +3,7 @@ title: PredefinedAction
 second_title: Aspose.PDF for Java API Reference
 description: Defines different actions which can be triggered from a PDF file.
 type: docs
-weight: 294
+weight: 293
 url: /java/com.aspose.pdf/predefinedaction/
 ---
 **Inheritance:**
@@ -17,12 +17,6 @@ Defines different actions which can be triggered from a PDF file.
 
 | Field | Description |
 | --- | --- |
-| [FirstPage](#FirstPage) | A named action to go to the first page. |
-| [LastPage](#LastPage) | A named action to go to the last page. |
-| [NextPage](#NextPage) | A named action to go to the next page. |
-| [PrevPage](#PrevPage) | A named action to go to the previous page. |
-| [PrintDialog](#PrintDialog) | A named action to open a print dialog (JavaScript). |
-| [Print](#Print) | A named action to open a print dialog. |
 | [Bookmarks_ExpanCurrentBookmark](#Bookmarks-ExpanCurrentBookmark) | A named action to find current bookmark. |
 | [Bookmarks_HightlightCurrentBookmark](#Bookmarks-HightlightCurrentBookmark) | A named action to highlight current bookmark. |
 | [Document_AttachFile](#Document-AttachFile) | A named action to add file attachment. |
@@ -36,6 +30,7 @@ Defines different actions which can be triggered from a PDF file.
 | [Edit_Find](#Edit-Find) | A named action to find. |
 | [Edit_Preferences](#Edit-Preferences) | A named action to edit preferences. |
 | [Edit_Search](#Edit-Search) | A named action for searching. |
+| [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
 | [File_AttachToEmail](#File-AttachToEmail) | A named action for attaching current pdf document into email message. |
 | [File_Close](#File-Close) | A named action to close the document. |
 | [File_CreatePDF_FromScanner](#File-CreatePDF-FromScanner) | A named action to create pdf document from scanner. |
@@ -45,9 +40,15 @@ Defines different actions which can be triggered from a PDF file.
 | [File_Print](#File-Print) | A named action to print the document. |
 | [File_Properties](#File-Properties) | A named action to open the document properties. |
 | [File_SaveAs](#File-SaveAs) | A named action to save the document with another name. |
+| [FirstPage](#FirstPage) | A named action to go to the first page. |
+| [LastPage](#LastPage) | A named action to go to the last page. |
 | [Miscellaneous_ZoomIn](#Miscellaneous-ZoomIn) | A named action to zoom in the document. |
 | [Miscellaneous_ZoomOut](#Miscellaneous-ZoomOut) | A named action to zoom out the document. |
+| [NextPage](#NextPage) | A named action to go to the next page. |
 | [PageImages_PrintPages](#PageImages-PrintPages) | A named action to print the document pages. |
+| [PrevPage](#PrevPage) | A named action to go to the previous page. |
+| [Print](#Print) | A named action to open a print dialog. |
+| [PrintDialog](#PrintDialog) | A named action to open a print dialog (JavaScript). |
 | [View_GoTo_NextView](#View-GoTo-NextView) | A named action to go to the next view. |
 | [View_GoTo_Page](#View-GoTo-Page) | A named action to go to the certain page. |
 | [View_GoTo_PreDocument](#View-GoTo-PreDocument) | A named action to go to the previous document. |
@@ -88,54 +89,43 @@ Defines different actions which can be triggered from a PDF file.
 | [View_Zoom_FitWidth](#View-Zoom-FitWidth) | A named action to fit page on width. |
 | [View_Zoom_ZoomTo](#View-Zoom-ZoomTo) | A named action to make zoom. |
 | [Window_FullScreenMode](#Window-FullScreenMode) | A named action to view the document in the full screen mode. |
-### FirstPage {#FirstPage}
-```
-public static final int FirstPage
-```
+## Methods
 
-
-A named action to go to the first page.
-
-### LastPage {#LastPage}
-```
-public static final int LastPage
-```
-
-
-A named action to go to the last page.
-
-### NextPage {#NextPage}
-```
-public static final int NextPage
-```
-
-
-A named action to go to the next page.
-
-### PrevPage {#PrevPage}
-```
-public static final int PrevPage
-```
-
-
-A named action to go to the previous page.
-
-### PrintDialog {#PrintDialog}
-```
-public static final int PrintDialog
-```
-
-
-A named action to open a print dialog (JavaScript).
-
-### Print {#Print}
-```
-public static final int Print
-```
-
-
-A named action to open a print dialog.
-
+| Method | Description |
+| --- | --- |
+| [Clone()](#Clone--) |  |
+| [CloneTo(T arg0)](#CloneTo-T-) |  |
+| [CloneTo(System.Enum arg0)](#CloneTo-com.aspose.ms.System.Enum-) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [format(System.Type arg0, Object arg1, String arg2)](#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-) |  |
+| [format(Class<?> arg0, long arg1, String arg2)](#format-java.lang.Class----long-java.lang.String-) |  |
+| [getClass()](#getClass--) |  |
+| [getName(Class<?> arg0, long arg1)](#getName-java.lang.Class----long-) |  |
+| [getNames(System.Type arg0)](#getNames-com.aspose.ms.System.Type-) |  |
+| [getNames(Class<?> arg0)](#getNames-java.lang.Class----) |  |
+| [getUnderlyingType(System.Type arg0)](#getUnderlyingType-com.aspose.ms.System.Type-) |  |
+| [getUnderlyingType(Class<?> arg0)](#getUnderlyingType-java.lang.Class----) |  |
+| [getValue(Class<?> arg0, String arg1)](#getValue-java.lang.Class----java.lang.String-) |  |
+| [getValues(System.Type arg0)](#getValues-com.aspose.ms.System.Type-) |  |
+| [get_Caption()](#get-Caption--) |  |
+| [get_Value()](#get-Value--) |  |
+| [hashCode()](#hashCode--) |  |
+| [isDefined(System.Type arg0, Object arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.Object-) |  |
+| [isDefined(System.Type arg0, String arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.String-) |  |
+| [isDefined(System.Type arg0, long arg1)](#isDefined-com.aspose.ms.System.Type-long-) |  |
+| [isDefined(Class<?> arg0, long arg1)](#isDefined-java.lang.Class----long-) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [parse(System.Type arg0, String arg1)](#parse-com.aspose.ms.System.Type-java.lang.String-) |  |
+| [parse(System.Type arg0, String arg1, Boolean arg2)](#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-) |  |
+| [parse(Class<?> arg0, String arg1)](#parse-java.lang.Class----java.lang.String-) |  |
+| [parse(Class<?> arg0, String arg1, Boolean arg2)](#parse-java.lang.Class----java.lang.String-java.lang.Boolean-) |  |
+| [register(System.Enum.AbstractEnum arg0)](#register-com.aspose.ms.System.Enum.AbstractEnum-) |  |
+| [toObject(System.Type arg0, Object arg1)](#toObject-com.aspose.ms.System.Type-java.lang.Object-) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Bookmarks_ExpanCurrentBookmark {#Bookmarks-ExpanCurrentBookmark}
 ```
 public static final int Bookmarks_ExpanCurrentBookmark
@@ -240,6 +230,12 @@ public static final int Edit_Search
 
 A named action for searching.
 
+### EnumSeparatorCharArray {#EnumSeparatorCharArray}
+```
+public static final char[] EnumSeparatorCharArray
+```
+
+
 ### File_AttachToEmail {#File-AttachToEmail}
 ```
 public static final int File_AttachToEmail
@@ -312,6 +308,22 @@ public static final int File_SaveAs
 
 A named action to save the document with another name.
 
+### FirstPage {#FirstPage}
+```
+public static final int FirstPage
+```
+
+
+A named action to go to the first page.
+
+### LastPage {#LastPage}
+```
+public static final int LastPage
+```
+
+
+A named action to go to the last page.
+
 ### Miscellaneous_ZoomIn {#Miscellaneous-ZoomIn}
 ```
 public static final int Miscellaneous_ZoomIn
@@ -328,6 +340,14 @@ public static final int Miscellaneous_ZoomOut
 
 A named action to zoom out the document.
 
+### NextPage {#NextPage}
+```
+public static final int NextPage
+```
+
+
+A named action to go to the next page.
+
 ### PageImages_PrintPages {#PageImages-PrintPages}
 ```
 public static final int PageImages_PrintPages
@@ -335,6 +355,30 @@ public static final int PageImages_PrintPages
 
 
 A named action to print the document pages.
+
+### PrevPage {#PrevPage}
+```
+public static final int PrevPage
+```
+
+
+A named action to go to the previous page.
+
+### Print {#Print}
+```
+public static final int Print
+```
+
+
+A named action to open a print dialog.
+
+### PrintDialog {#PrintDialog}
+```
+public static final int PrintDialog
+```
+
+
+A named action to open a print dialog (JavaScript).
 
 ### View_GoTo_NextView {#View-GoTo-NextView}
 ```
@@ -655,4 +699,456 @@ public static final int Window_FullScreenMode
 
 
 A named action to view the document in the full screen mode.
+
+### Clone() {#Clone--}
+```
+public System.Enum Clone()
+```
+
+
+
+
+**Returns:**
+com.aspose.ms.System.Enum
+### CloneTo(T arg0) {#CloneTo-T-}
+```
+public abstract void CloneTo(T arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | T |  |
+
+### CloneTo(System.Enum arg0) {#CloneTo-com.aspose.ms.System.Enum-}
+```
+public void CloneTo(System.Enum arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Enum |  |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### format(System.Type arg0, Object arg1, String arg2) {#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-}
+```
+public static String format(System.Type arg0, Object arg1, String arg2)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.Object |  |
+| arg2 | java.lang.String |  |
+
+**Returns:**
+java.lang.String
+### format(Class<?> arg0, long arg1, String arg2) {#format-java.lang.Class----long-java.lang.String-}
+```
+public static String format(Class<?> arg0, long arg1, String arg2)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | long |  |
+| arg2 | java.lang.String |  |
+
+**Returns:**
+java.lang.String
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName(Class<?> arg0, long arg1) {#getName-java.lang.Class----long-}
+```
+public static String getName(Class<?> arg0, long arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | long |  |
+
+**Returns:**
+java.lang.String
+### getNames(System.Type arg0) {#getNames-com.aspose.ms.System.Type-}
+```
+public static String[] getNames(System.Type arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+
+**Returns:**
+java.lang.String[]
+### getNames(Class<?> arg0) {#getNames-java.lang.Class----}
+```
+public static Collection<String> getNames(Class<?> arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+
+**Returns:**
+[Collection](../../java.util/collection)
+### getUnderlyingType(System.Type arg0) {#getUnderlyingType-com.aspose.ms.System.Type-}
+```
+public static System.Type getUnderlyingType(System.Type arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+
+**Returns:**
+com.aspose.ms.System.Type
+### getUnderlyingType(Class<?> arg0) {#getUnderlyingType-java.lang.Class----}
+```
+public static Class<? extends Number> getUnderlyingType(Class<?> arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+
+**Returns:**
+java.lang.Class<? extends java.lang.Number>
+### getValue(Class<?> arg0, String arg1) {#getValue-java.lang.Class----java.lang.String-}
+```
+public static long getValue(Class<?> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+long
+### getValues(System.Type arg0) {#getValues-com.aspose.ms.System.Type-}
+```
+public static System.Array getValues(System.Type arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+
+**Returns:**
+com.aspose.ms.System.Array
+### get_Caption() {#get-Caption--}
+```
+public String get_Caption()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### get_Value() {#get-Value--}
+```
+public long get_Value()
+```
+
+
+
+
+**Returns:**
+long
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isDefined(System.Type arg0, Object arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.Object-}
+```
+public static boolean isDefined(System.Type arg0, Object arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### isDefined(System.Type arg0, String arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.String-}
+```
+public static boolean isDefined(System.Type arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+boolean
+### isDefined(System.Type arg0, long arg1) {#isDefined-com.aspose.ms.System.Type-long-}
+```
+public static boolean isDefined(System.Type arg0, long arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | long |  |
+
+**Returns:**
+boolean
+### isDefined(Class<?> arg0, long arg1) {#isDefined-java.lang.Class----long-}
+```
+public static boolean isDefined(Class<?> arg0, long arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | long |  |
+
+**Returns:**
+boolean
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### parse(System.Type arg0, String arg1) {#parse-com.aspose.ms.System.Type-java.lang.String-}
+```
+public static long parse(System.Type arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+long
+### parse(System.Type arg0, String arg1, Boolean arg2) {#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-}
+```
+public static long parse(System.Type arg0, String arg1, Boolean arg2)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.String |  |
+| arg2 | java.lang.Boolean |  |
+
+**Returns:**
+long
+### parse(Class<?> arg0, String arg1) {#parse-java.lang.Class----java.lang.String-}
+```
+public static long parse(Class<?> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+long
+### parse(Class<?> arg0, String arg1, Boolean arg2) {#parse-java.lang.Class----java.lang.String-java.lang.Boolean-}
+```
+public static long parse(Class<?> arg0, String arg1, Boolean arg2)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+| arg2 | java.lang.Boolean |  |
+
+**Returns:**
+long
+### register(System.Enum.AbstractEnum arg0) {#register-com.aspose.ms.System.Enum.AbstractEnum-}
+```
+public static void register(System.Enum.AbstractEnum arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Enum.AbstractEnum |  |
+
+### toObject(System.Type arg0, Object arg1) {#toObject-com.aspose.ms.System.Type-java.lang.Object-}
+```
+public static Object toObject(System.Type arg0, Object arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.Object |  |
+
+**Returns:**
+java.lang.Object
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

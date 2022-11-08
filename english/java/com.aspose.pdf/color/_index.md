@@ -3,7 +3,7 @@ title: Color
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for color value which can be expressed in different color space.
 type: docs
-weight: 64
+weight: 63
 url: /java/com.aspose.pdf/color/
 ---
 **Inheritance:**
@@ -28,26 +28,15 @@ Represents class for color value which can be expressed in different color space
 
 | Method | Description |
 | --- | --- |
-| [getA()](#getA--) | Gets the alpha component value |
-| [getData()](#getData--) | Color value. |
-| [getColorSpace()](#getColorSpace--) | Gets color space that the color represents. |
 | [deepClone()](#deepClone--) | Clones this instance |
-| [parse(String value)](#parse-java.lang.String-) | Extracts color components from the string. |
-| [toString()](#toString--) | Converts to string. |
-| [toRgb()](#toRgb--) | Converts color into rgb. |
-| [fromRgb(Color color)](#fromRgb-java.awt.Color-) | Gets valid pdf Color object from java.awt.Color value. |
+| [equals(Object obj)](#equals-java.lang.Object-) | Returns true if two Colors are equal. |
 | [fromArgb(int r, int g, int b)](#fromArgb-int-int-int-) | Gets valid pdf Color object from RGB color components. |
 | [fromArgb(int a, int r, int g, int b)](#fromArgb-int-int-int-int-) | Gets valid pdf Color object from RGB color components. |
-| [fromRgb(double r, double g, double b)](#fromRgb-double-double-double-) | Gets valid pdf Color object from RGB color components. |
-| [fromGray(double g)](#fromGray-double-) | Gets valid pdf Color object from Gray color component. |
 | [fromCmyk(double c, double m, double y, double k)](#fromCmyk-double-double-double-double-) | Gets valid pdf Color object from RGB color components. |
-| [hashCode()](#hashCode--) | Returns a hash code value for the object. |
-| [equals(Object obj)](#equals-java.lang.Object-) | Returns true if two Colors are equal. |
-| [op_Equality(Color x, Color y)](#op-Equality-com.aspose.pdf.Color-com.aspose.pdf.Color-) | Returns true if two Colors are equal. |
-| [op_Inequality(Color x, Color y)](#op-Inequality-com.aspose.pdf.Color-com.aspose.pdf.Color-) | Returns true if two Colors are not equal. |
-| [getPatternColorSpace()](#getPatternColorSpace--) | Gets a object that indicates the pattern colorspace. |
-| [setPatternColorSpace(PatternColorSpace value)](#setPatternColorSpace-com.aspose.pdf.drawing.PatternColorSpace-) | Sets a object that indicates the pattern colorspace. |
-| [getTransparent()](#getTransparent--) | Gets a system-defined color. |
+| [fromGray(double g)](#fromGray-double-) | Gets valid pdf Color object from Gray color component. |
+| [fromRgb(double r, double g, double b)](#fromRgb-double-double-double-) | Gets valid pdf Color object from RGB color components. |
+| [fromRgb(Color color)](#fromRgb-java.awt.Color-) | Gets valid pdf Color object from java.awt.Color value. |
+| [getA()](#getA--) | Gets the alpha component value |
 | [getAliceBlue()](#getAliceBlue--) | Gets a system-defined color that has an ARGB value of \#FFF0F8FF. |
 | [getAntiqueWhite()](#getAntiqueWhite--) | Gets a system-defined color that has an ARGB value of \#FFFAEBD7. |
 | [getAqua()](#getAqua--) | Gets a system-defined color that has an ARGB value of \#FF00FFFF. |
@@ -64,6 +53,8 @@ Represents class for color value which can be expressed in different color space
 | [getCadetBlue()](#getCadetBlue--) | Gets a system-defined color that has an ARGB value of \#FF5F9EA0. |
 | [getChartreuse()](#getChartreuse--) | Gets a system-defined color that has an ARGB value of \#FF7FFF00. |
 | [getChocolate()](#getChocolate--) | Gets a system-defined color that has an ARGB value of \#FFD2691E. |
+| [getClass()](#getClass--) |  |
+| [getColorSpace()](#getColorSpace--) | Gets color space that the color represents. |
 | [getCoral()](#getCoral--) | Gets a system-defined color that has an ARGB value of \#FFFF7F50. |
 | [getCornflowerBlue()](#getCornflowerBlue--) | Gets a system-defined color that has an ARGB value of \#FF6495ED. |
 | [getCornsilk()](#getCornsilk--) | Gets a system-defined color that has an ARGB value of \#FFFFF8DC. |
@@ -86,6 +77,7 @@ Represents class for color value which can be expressed in different color space
 | [getDarkSlateGray()](#getDarkSlateGray--) | Gets a system-defined color that has an ARGB value of \#FF2F4F4F. |
 | [getDarkTurquoise()](#getDarkTurquoise--) | Gets a system-defined color that has an ARGB value of \#FF00CED1. |
 | [getDarkViolet()](#getDarkViolet--) | Gets a system-defined color that has an ARGB value of \#FF9400D3. |
+| [getData()](#getData--) | Color value. |
 | [getDeepPink()](#getDeepPink--) | Gets a system-defined color that has an ARGB value of \#FFFF1493. |
 | [getDeepSkyBlue()](#getDeepSkyBlue--) | Gets a system-defined color that has an ARGB value of \#FF00BFFF. |
 | [getDimGray()](#getDimGray--) | Gets a system-defined color that has an ARGB value of \#FF696969. |
@@ -115,8 +107,8 @@ Represents class for color value which can be expressed in different color space
 | [getLightCoral()](#getLightCoral--) | Gets a system-defined color that has an ARGB value of \#FFF08080. |
 | [getLightCyan()](#getLightCyan--) | Gets a system-defined color that has an ARGB value of \#FFE0FFFF. |
 | [getLightGoldenrodYellow()](#getLightGoldenrodYellow--) | Gets a system-defined color that has an ARGB value of \#FFFAFAD2. |
-| [getLightGreen()](#getLightGreen--) | Gets a system-defined color that has an ARGB value of \#FF90EE90. |
 | [getLightGray()](#getLightGray--) | Gets a system-defined color that has an ARGB value of \#FFD3D3D3. |
+| [getLightGreen()](#getLightGreen--) | Gets a system-defined color that has an ARGB value of \#FF90EE90. |
 | [getLightPink()](#getLightPink--) | Gets a system-defined color that has an ARGB value of \#FFFFB6C1. |
 | [getLightSalmon()](#getLightSalmon--) | Gets a system-defined color that has an ARGB value of \#FFFFA07A. |
 | [getLightSeaGreen()](#getLightSeaGreen--) | Gets a system-defined color that has an ARGB value of \#FF20B2AA. |
@@ -155,6 +147,7 @@ Represents class for color value which can be expressed in different color space
 | [getPaleTurquoise()](#getPaleTurquoise--) | Gets a system-defined color that has an ARGB value of \#FFAFEEEE. |
 | [getPaleVioletRed()](#getPaleVioletRed--) | Gets a system-defined color that has an ARGB value of \#FFDB7093. |
 | [getPapayaWhip()](#getPapayaWhip--) | Gets a system-defined color that has an ARGB value of \#FFFFEFD5. |
+| [getPatternColorSpace()](#getPatternColorSpace--) | Gets a object that indicates the pattern colorspace. |
 | [getPeachPuff()](#getPeachPuff--) | Gets a system-defined color that has an ARGB value of \#FFFFDAB9. |
 | [getPeru()](#getPeru--) | Gets a system-defined color that has an ARGB value of \#FFCD853F. |
 | [getPink()](#getPink--) | Gets a system-defined color that has an ARGB value of \#FFFFC0CB. |
@@ -181,6 +174,7 @@ Represents class for color value which can be expressed in different color space
 | [getTeal()](#getTeal--) | Gets a system-defined color that has an ARGB value of \#FF008080. |
 | [getThistle()](#getThistle--) | Gets a system-defined color that has an ARGB value of \#FFD8BFD8. |
 | [getTomato()](#getTomato--) | Gets a system-defined color that has an ARGB value of \#FFFF6347. |
+| [getTransparent()](#getTransparent--) | Gets a system-defined color. |
 | [getTurquoise()](#getTurquoise--) | Gets a system-defined color that has an ARGB value of \#FF40E0D0. |
 | [getViolet()](#getViolet--) | Gets a system-defined color that has an ARGB value of \#FFEE82EE. |
 | [getWheat()](#getWheat--) | Gets a system-defined color that has an ARGB value of \#FFF5DEB3. |
@@ -188,6 +182,18 @@ Represents class for color value which can be expressed in different color space
 | [getWhiteSmoke()](#getWhiteSmoke--) | Gets a system-defined color that has an ARGB value of \#FFF5F5F5. |
 | [getYellow()](#getYellow--) | Gets a system-defined color that has an ARGB value of \#FFFFFF00. |
 | [getYellowGreen()](#getYellowGreen--) | Gets a system-defined color that has an ARGB value of \#FF9ACD32. |
+| [hashCode()](#hashCode--) | Returns a hash code value for the object. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [op_Equality(Color x, Color y)](#op-Equality-com.aspose.pdf.Color-com.aspose.pdf.Color-) | Returns true if two Colors are equal. |
+| [op_Inequality(Color x, Color y)](#op-Inequality-com.aspose.pdf.Color-com.aspose.pdf.Color-) | Returns true if two Colors are not equal. |
+| [parse(String value)](#parse-java.lang.String-) | Extracts color components from the string. |
+| [setPatternColorSpace(PatternColorSpace value)](#setPatternColorSpace-com.aspose.pdf.drawing.PatternColorSpace-) | Sets a object that indicates the pattern colorspace. |
+| [toRgb()](#toRgb--) | Converts color into rgb. |
+| [toString()](#toString--) | Converts to string. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Color() {#Color--}
 ```
 public Color()
@@ -217,36 +223,6 @@ public static final Color Empty
 
 Represents empty color.
 
-### getA() {#getA--}
-```
-public double getA()
-```
-
-
-Gets the alpha component value
-
-**Returns:**
-double - double value
-### getData() {#getData--}
-```
-public double[] getData()
-```
-
-
-Color value.
-
-**Returns:**
-double[] - array of double values
-### getColorSpace() {#getColorSpace--}
-```
-public int getColorSpace()
-```
-
-
-Gets color space that the color represents.
-
-**Returns:**
-int - ColorSpace object
 ### deepClone() {#deepClone--}
 ```
 public Color deepClone()
@@ -257,56 +233,21 @@ Clones this instance
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - Color object
-### parse(String value) {#parse-java.lang.String-}
+### equals(Object obj) {#equals-java.lang.Object-}
 ```
-public static Color parse(String value)
+public boolean equals(Object obj)
 ```
 
 
-Extracts color components from the string.
+Returns true if two Colors are equal.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | String value with color component values. |
+| obj | java.lang.Object | Object to compare. |
 
 **Returns:**
-[Color](../../com.aspose.pdf/color) - Color object.
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Converts to string.
-
-**Returns:**
-java.lang.String - String representation of the Color object.
-### toRgb() {#toRgb--}
-```
-public Color toRgb()
-```
-
-
-Converts color into rgb.
-
-**Returns:**
-[Color](../../java.awt/color) - Rgb color value.
-### fromRgb(Color color) {#fromRgb-java.awt.Color-}
-```
-public static Color fromRgb(Color color)
-```
-
-
-Gets valid pdf Color object from java.awt.Color value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | java.awt.Color | System.Drawing.Color value. |
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color object with each component value in [0..1] range.
+boolean - True in case Color objects are equal.
 ### fromArgb(int r, int g, int b) {#fromArgb-int-int-int-}
 ```
 public static Color fromArgb(int r, int g, int b)
@@ -342,38 +283,6 @@ Gets valid pdf Color object from RGB color components.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - Color object with each component value in [0..255] range.
-### fromRgb(double r, double g, double b) {#fromRgb-double-double-double-}
-```
-public static Color fromRgb(double r, double g, double b)
-```
-
-
-Gets valid pdf Color object from RGB color components.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| r | double | The Red color component (value 0 - 1). |
-| g | double | The Green color component (value 0 - 1). |
-| b | double | The Blue color component (value 0 - 1). |
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color object with each component value in [0..1] range.
-### fromGray(double g) {#fromGray-double-}
-```
-public static Color fromGray(double g)
-```
-
-
-Gets valid pdf Color object from Gray color component.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| g | double | The Gray color component (value 0 - 1). |
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color object with each component value in [0..1] range.
 ### fromCmyk(double c, double m, double y, double k) {#fromCmyk-double-double-double-double-}
 ```
 public static Color fromCmyk(double c, double m, double y, double k)
@@ -392,108 +301,63 @@ Gets valid pdf Color object from RGB color components.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - Color object with each component value in [0..1] range.
-### hashCode() {#hashCode--}
+### fromGray(double g) {#fromGray-double-}
 ```
-public int hashCode()
-```
-
-
-Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by java.util.HashMap.
-
-The general contract of  hashCode  is:
-
- *  Whenever it is invoked on the same object more than once during an execution of a Java application, the  hashCode  method must consistently return the same integer, provided no information used in  equals  comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application.
- *  If two objects are equal according to the  equals(Object)  method, then calling the  hashCode  method on each of the two objects must produce the same integer result.
- *  It is *not* required that if two objects are unequal according to the java.lang.Object\#equals(java.lang.Object)\#equals(java.lang.Object) method, then calling the  hashCode  method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables.
-
-As much as is reasonably practical, the hashCode method defined by class  Object  does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the JavaTMprogramming language.)
-
-**Returns:**
-int - a hash code value for this object.
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
+public static Color fromGray(double g)
 ```
 
 
-Returns true if two Colors are equal.
+Gets valid pdf Color object from Gray color component.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | java.lang.Object | Object to compare. |
+| g | double | The Gray color component (value 0 - 1). |
 
 **Returns:**
-boolean - True in case Color objects are equal.
-### op_Equality(Color x, Color y) {#op-Equality-com.aspose.pdf.Color-com.aspose.pdf.Color-}
+[Color](../../com.aspose.pdf/color) - Color object with each component value in [0..1] range.
+### fromRgb(double r, double g, double b) {#fromRgb-double-double-double-}
 ```
-public static boolean op_Equality(Color x, Color y)
+public static Color fromRgb(double r, double g, double b)
 ```
 
 
-Returns true if two Colors are equal.
+Gets valid pdf Color object from RGB color components.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | [Color](../../com.aspose.pdf/color) | First Color object. |
-| y | [Color](../../com.aspose.pdf/color) | Second Color object. |
+| r | double | The Red color component (value 0 - 1). |
+| g | double | The Green color component (value 0 - 1). |
+| b | double | The Blue color component (value 0 - 1). |
 
 **Returns:**
-boolean - True in case Color objects are equal.
-### op_Inequality(Color x, Color y) {#op-Inequality-com.aspose.pdf.Color-com.aspose.pdf.Color-}
+[Color](../../com.aspose.pdf/color) - Color object with each component value in [0..1] range.
+### fromRgb(Color color) {#fromRgb-java.awt.Color-}
 ```
-public static boolean op_Inequality(Color x, Color y)
+public static Color fromRgb(Color color)
 ```
 
 
-Returns true if two Colors are not equal.
+Gets valid pdf Color object from java.awt.Color value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | [Color](../../com.aspose.pdf/color) | First Color object. |
-| y | [Color](../../com.aspose.pdf/color) | Second Color object. |
+| color | java.awt.Color | System.Drawing.Color value. |
 
 **Returns:**
-boolean - True in case Color objects are not equal.
-### getPatternColorSpace() {#getPatternColorSpace--}
+[Color](../../com.aspose.pdf/color) - Color object with each component value in [0..1] range.
+### getA() {#getA--}
 ```
-public PatternColorSpace getPatternColorSpace()
+public double getA()
 ```
 
 
-Gets a object that indicates the pattern colorspace.
-
-Internal usage only
+Gets the alpha component value
 
 **Returns:**
-[PatternColorSpace](../../com.aspose.pdf.drawing/patterncolorspace) - PatternColorSpace object
-### setPatternColorSpace(PatternColorSpace value) {#setPatternColorSpace-com.aspose.pdf.drawing.PatternColorSpace-}
-```
-public void setPatternColorSpace(PatternColorSpace value)
-```
-
-
-Sets a object that indicates the pattern colorspace.
-
-Internal usage only
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PatternColorSpace](../../com.aspose.pdf.drawing/patterncolorspace) | PatternColorSpace object |
-
-### getTransparent() {#getTransparent--}
-```
-public static Color getTransparent()
-```
-
-
-Gets a system-defined color.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - A representing a system-defined color.
+double - double value
 ### getAliceBlue() {#getAliceBlue--}
 ```
 public static Color getAliceBlue()
@@ -654,6 +518,26 @@ Gets a system-defined color that has an ARGB value of \#FFD2691E.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - A representing a system-defined color.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getColorSpace() {#getColorSpace--}
+```
+public int getColorSpace()
+```
+
+
+Gets color space that the color represents.
+
+**Returns:**
+int - ColorSpace object
 ### getCoral() {#getCoral--}
 ```
 public static Color getCoral()
@@ -874,6 +758,16 @@ Gets a system-defined color that has an ARGB value of \#FF9400D3.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - A representing a system-defined color.
+### getData() {#getData--}
+```
+public double[] getData()
+```
+
+
+Color value.
+
+**Returns:**
+double[] - array of double values
 ### getDeepPink() {#getDeepPink--}
 ```
 public static Color getDeepPink()
@@ -1164,16 +1058,6 @@ Gets a system-defined color that has an ARGB value of \#FFFAFAD2.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - A representing a system-defined color.
-### getLightGreen() {#getLightGreen--}
-```
-public static Color getLightGreen()
-```
-
-
-Gets a system-defined color that has an ARGB value of \#FF90EE90.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - A representing a system-defined color.
 ### getLightGray() {#getLightGray--}
 ```
 public static Color getLightGray()
@@ -1181,6 +1065,16 @@ public static Color getLightGray()
 
 
 Gets a system-defined color that has an ARGB value of \#FFD3D3D3.
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - A representing a system-defined color.
+### getLightGreen() {#getLightGreen--}
+```
+public static Color getLightGreen()
+```
+
+
+Gets a system-defined color that has an ARGB value of \#FF90EE90.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - A representing a system-defined color.
@@ -1564,6 +1458,18 @@ Gets a system-defined color that has an ARGB value of \#FFFFEFD5.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - A representing a system-defined color.
+### getPatternColorSpace() {#getPatternColorSpace--}
+```
+public PatternColorSpace getPatternColorSpace()
+```
+
+
+Gets a object that indicates the pattern colorspace.
+
+Internal usage only
+
+**Returns:**
+[PatternColorSpace](../../com.aspose.pdf.drawing/patterncolorspace) - PatternColorSpace object
 ### getPeachPuff() {#getPeachPuff--}
 ```
 public static Color getPeachPuff()
@@ -1824,6 +1730,16 @@ Gets a system-defined color that has an ARGB value of \#FFFF6347.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - A representing a system-defined color.
+### getTransparent() {#getTransparent--}
+```
+public static Color getTransparent()
+```
+
+
+Gets a system-defined color.
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - A representing a system-defined color.
 ### getTurquoise() {#getTurquoise--}
 ```
 public static Color getTurquoise()
@@ -1894,3 +1810,154 @@ Gets a system-defined color that has an ARGB value of \#FF9ACD32.
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - A representing a system-defined color.
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by java.util.HashMap.
+
+The general contract of  hashCode  is:
+
+ *  Whenever it is invoked on the same object more than once during an execution of a Java application, the  hashCode  method must consistently return the same integer, provided no information used in  equals  comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application.
+ *  If two objects are equal according to the  equals(Object)  method, then calling the  hashCode  method on each of the two objects must produce the same integer result.
+ *  It is *not* required that if two objects are unequal according to the java.lang.Object\#equals(java.lang.Object).equals(java.lang.Object) method, then calling the  hashCode  method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables.
+
+As much as is reasonably practical, the hashCode method defined by class  Object  does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the JavaTMprogramming language.)
+
+**Returns:**
+int - a hash code value for this object.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### op_Equality(Color x, Color y) {#op-Equality-com.aspose.pdf.Color-com.aspose.pdf.Color-}
+```
+public static boolean op_Equality(Color x, Color y)
+```
+
+
+Returns true if two Colors are equal.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | [Color](../../com.aspose.pdf/color) | First Color object. |
+| y | [Color](../../com.aspose.pdf/color) | Second Color object. |
+
+**Returns:**
+boolean - True in case Color objects are equal.
+### op_Inequality(Color x, Color y) {#op-Inequality-com.aspose.pdf.Color-com.aspose.pdf.Color-}
+```
+public static boolean op_Inequality(Color x, Color y)
+```
+
+
+Returns true if two Colors are not equal.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | [Color](../../com.aspose.pdf/color) | First Color object. |
+| y | [Color](../../com.aspose.pdf/color) | Second Color object. |
+
+**Returns:**
+boolean - True in case Color objects are not equal.
+### parse(String value) {#parse-java.lang.String-}
+```
+public static Color parse(String value)
+```
+
+
+Extracts color components from the string.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String value with color component values. |
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - Color object.
+### setPatternColorSpace(PatternColorSpace value) {#setPatternColorSpace-com.aspose.pdf.drawing.PatternColorSpace-}
+```
+public void setPatternColorSpace(PatternColorSpace value)
+```
+
+
+Sets a object that indicates the pattern colorspace.
+
+Internal usage only
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PatternColorSpace](../../com.aspose.pdf.drawing/patterncolorspace) | PatternColorSpace object |
+
+### toRgb() {#toRgb--}
+```
+public Color toRgb()
+```
+
+
+Converts color into rgb.
+
+**Returns:**
+[Color](../../java.awt/color) - Rgb color value.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Converts to string.
+
+**Returns:**
+java.lang.String - String representation of the Color object.
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

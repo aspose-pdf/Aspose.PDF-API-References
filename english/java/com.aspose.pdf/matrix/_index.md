@@ -3,7 +3,7 @@ title: Matrix
 second_title: Aspose.PDF for Java API Reference
 description: Class represents transformation matrix.
 type: docs
-weight: 210
+weight: 209
 url: /java/com.aspose.pdf/matrix/
 ---
 **Inheritance:**
@@ -26,36 +26,42 @@ Class represents transformation matrix.
 
 | Method | Description |
 | --- | --- |
-| [getData()](#getData--) | Gets data of Matrix as array. |
-| [getA()](#getA--) | Get A member of the transformation matrix. |
-| [setA(double value)](#setA-double-) | Set A member of the transformation matrix. |
-| [getB()](#getB--) | Get B member of the transformation matrix. |
-| [setB(double value)](#setB-double-) | Set B member of the transformation matrix. |
-| [getC()](#getC--) | Get C member of the transformation matrix. |
-| [setC(double value)](#setC-double-) | Set C member of the transformation matrix. |
-| [getD()](#getD--) | Get D member of the transformation matrix. |
-| [setD(double value)](#setD-double-) | Set D member of the transformation matrix. |
-| [getE()](#getE--) | Get E member of the transformation matrix. |
-| [setE(double value)](#setE-double-) | Set E member of the transformation matrix. |
-| [getF()](#getF--) | Get F member of the transformation matrix. |
-| [setF(double value)](#setF-double-) | Set F member of the transformation matrix. |
-| [getElements()](#getElements--) | Elements of the matrix. |
-| [toString()](#toString--) | Returns text representation of the matrix. |
-| [equals(Object obj)](#equals-java.lang.Object-) | Compares matrix agains other object. |
-| [getMatrix(ITrailerable trailer)](#getMatrix-com.aspose.pdf.engine.data.ITrailerable-) | Translates matrix into PDF array obect. |
-| [rotation(double alpha)](#rotation-double-) | Creates matrix for given rotation angle. |
-| [rotation(int rotation)](#rotation-int-) | Creates matrix for given rotation. |
-| [skew(double alpha, double beta)](#skew-double-double-) | Creates matrix for given rotation angle. |
-| [scale(double x, double y)](#scale-double-double-) | Creates matrix for given scale. |
-| [getAngle(int rotation)](#getAngle-int-) | Transaltes rotation into angle (degrees) |
-| [multiply(Matrix other)](#multiply-com.aspose.pdf.Matrix-) | Multiplies the matrix by other matrix. |
 | [add(Matrix other)](#add-com.aspose.pdf.Matrix-) | Adds matrix to other matrix. |
-| [transform(Point p)](#transform-com.aspose.pdf.Point-) | Transforms point using this matrix. |
-| [transform(Rectangle rect)](#transform-com.aspose.pdf.Rectangle-) | Transformes rectangle. |
-| [reverse()](#reverse--) | Calculates reverse matrix. |
+| [equals(Object obj)](#equals-java.lang.Object-) | Compares matrix agains other object. |
+| [getA()](#getA--) | Get A member of the transformation matrix. |
+| [getAngle(int rotation)](#getAngle-int-) | Transaltes rotation into angle (degrees) |
+| [getB()](#getB--) | Get B member of the transformation matrix. |
+| [getC()](#getC--) | Get C member of the transformation matrix. |
+| [getClass()](#getClass--) |  |
+| [getD()](#getD--) | Get D member of the transformation matrix. |
+| [getData()](#getData--) | Gets data of Matrix as array. |
+| [getE()](#getE--) | Get E member of the transformation matrix. |
+| [getElements()](#getElements--) | Elements of the matrix. |
+| [getF()](#getF--) | Get F member of the transformation matrix. |
+| [getMatrix(ITrailerable trailer)](#getMatrix-com.aspose.pdf.engine.data.ITrailerable-) | Translates matrix into PDF array obect. |
 | [hashCode()](#hashCode--) | Hash-code for object. |
 | [isInt16(double value)](#isInt16-double-) | For Internal usage only |
 | [isInt16Values()](#isInt16Values--) | For Internal usage only |
+| [multiply(Matrix other)](#multiply-com.aspose.pdf.Matrix-) | Multiplies the matrix by other matrix. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [reverse()](#reverse--) | Calculates reverse matrix. |
+| [rotation(double alpha)](#rotation-double-) | Creates matrix for given rotation angle. |
+| [rotation(int rotation)](#rotation-int-) | Creates matrix for given rotation. |
+| [scale(double x, double y)](#scale-double-double-) | Creates matrix for given scale. |
+| [setA(double value)](#setA-double-) | Set A member of the transformation matrix. |
+| [setB(double value)](#setB-double-) | Set B member of the transformation matrix. |
+| [setC(double value)](#setC-double-) | Set C member of the transformation matrix. |
+| [setD(double value)](#setD-double-) | Set D member of the transformation matrix. |
+| [setE(double value)](#setE-double-) | Set E member of the transformation matrix. |
+| [setF(double value)](#setF-double-) | Set F member of the transformation matrix. |
+| [skew(double alpha, double beta)](#skew-double-double-) | Creates matrix for given rotation angle. |
+| [toString()](#toString--) | Returns text representation of the matrix. |
+| [transform(Point p)](#transform-com.aspose.pdf.Point-) | Transforms point using this matrix. |
+| [transform(Rectangle rect)](#transform-com.aspose.pdf.Rectangle-) | Transformes rectangle. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Matrix() {#Matrix--}
 ```
 public Matrix()
@@ -147,174 +153,21 @@ Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 | e | double | E matrix value. |
 | f | double | F matrix value. |
 
-### getData() {#getData--}
+### add(Matrix other) {#add-com.aspose.pdf.Matrix-}
 ```
-public final double[] getData()
-```
-
-
-Gets data of Matrix as array.
-
-**Returns:**
-double[] - array of double values
-### getA() {#getA--}
-```
-public double getA()
+public Matrix add(Matrix other)
 ```
 
 
-Get A member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setA(double value) {#setA-double-}
-```
-public void setA(double value)
-```
-
-
-Set A member of the transformation matrix.
+Adds matrix to other matrix.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
-
-### getB() {#getB--}
-```
-public double getB()
-```
-
-
-Get B member of the transformation matrix.
+| other | [Matrix](../../com.aspose.pdf/matrix) | Matrix to be added. |
 
 **Returns:**
-double - double value
-### setB(double value) {#setB-double-}
-```
-public void setB(double value)
-```
-
-
-Set B member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getC() {#getC--}
-```
-public double getC()
-```
-
-
-Get C member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setC(double value) {#setC-double-}
-```
-public void setC(double value)
-```
-
-
-Set C member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getD() {#getD--}
-```
-public double getD()
-```
-
-
-Get D member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setD(double value) {#setD-double-}
-```
-public void setD(double value)
-```
-
-
-Set D member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getE() {#getE--}
-```
-public double getE()
-```
-
-
-Get E member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setE(double value) {#setE-double-}
-```
-public void setE(double value)
-```
-
-
-Set E member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getF() {#getF--}
-```
-public double getF()
-```
-
-
-Get F member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setF(double value) {#setF-double-}
-```
-public void setF(double value)
-```
-
-
-Set F member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getElements() {#getElements--}
-```
-public float[] getElements()
-```
-
-
-Elements of the matrix.
-
-**Returns:**
-float[] - float[] array
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Returns text representation of the matrix.
-
-**Returns:**
-java.lang.String - String representation for the matrix
+[Matrix](../../com.aspose.pdf/matrix) - Result of matrix add.
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -330,6 +183,118 @@ Compares matrix agains other object.
 
 **Returns:**
 boolean - Returns true is other object is Matrix and all matrix member are equal to correspondim members of the matrix
+### getA() {#getA--}
+```
+public double getA()
+```
+
+
+Get A member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getAngle(int rotation) {#getAngle-int-}
+```
+public static double getAngle(int rotation)
+```
+
+
+Transaltes rotation into angle (degrees)
+
+--------------------
+
+```
+double angle = Matrix.getAngle(Rotation.on90);
+ Matrix m = Matrix.rotation(angle);
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rotation | int | Rotation value. |
+
+**Returns:**
+double - Angle value.
+### getB() {#getB--}
+```
+public double getB()
+```
+
+
+Get B member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getC() {#getC--}
+```
+public double getC()
+```
+
+
+Get C member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getD() {#getD--}
+```
+public double getD()
+```
+
+
+Get D member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getData() {#getData--}
+```
+public final double[] getData()
+```
+
+
+Gets data of Matrix as array.
+
+**Returns:**
+double[] - array of double values
+### getE() {#getE--}
+```
+public double getE()
+```
+
+
+Get E member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getElements() {#getElements--}
+```
+public float[] getElements()
+```
+
+
+Elements of the matrix.
+
+**Returns:**
+float[] - float[] array
+### getF() {#getF--}
+```
+public double getF()
+```
+
+
+Get F member of the transformation matrix.
+
+**Returns:**
+double - double value
 ### getMatrix(ITrailerable trailer) {#getMatrix-com.aspose.pdf.engine.data.ITrailerable-}
 ```
 public IPdfArray getMatrix(ITrailerable trailer)
@@ -345,6 +310,97 @@ Translates matrix into PDF array obect.
 
 **Returns:**
 [IPdfArray](../../com.aspose.pdf.engine.data/ipdfarray) - Result of converting
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+Hash-code for object.
+
+**Returns:**
+int - Hash-code.
+### isInt16(double value) {#isInt16-double-}
+```
+public static boolean isInt16(double value)
+```
+
+
+For Internal usage only
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+**Returns:**
+boolean - boolean value
+### isInt16Values() {#isInt16Values--}
+```
+public boolean isInt16Values()
+```
+
+
+For Internal usage only
+
+**Returns:**
+boolean - boolean value
+### multiply(Matrix other) {#multiply-com.aspose.pdf.Matrix-}
+```
+public Matrix multiply(Matrix other)
+```
+
+
+Multiplies the matrix by other matrix.
+
+--------------------
+
+```
+Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 });
+ Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } );
+ Matrix c= a.multiply(b);
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | [Matrix](../../com.aspose.pdf/matrix) | Multiplier matrix. |
+
+**Returns:**
+[Matrix](../../com.aspose.pdf/matrix) - Result of multiplication.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### reverse() {#reverse--}
+```
+public Matrix reverse()
+```
+
+
+Calculates reverse matrix.
+
+--------------------
+
+```
+Matrix m = Matrix.rotation(Math.PI / 2);
+ Matrix m1 = m.reverse();
+```
+
+**Returns:**
+[Matrix](../../com.aspose.pdf/matrix) - Reverse matrix.
 ### rotation(double alpha) {#rotation-double-}
 ```
 public static Matrix rotation(double alpha)
@@ -381,26 +437,6 @@ Creates matrix for given rotation.
 
 **Returns:**
 [Matrix](../../com.aspose.pdf/matrix) - Matrix instance with rotation.
-### skew(double alpha, double beta) {#skew-double-double-}
-```
-public static Matrix skew(double alpha, double beta)
-```
-
-
-Creates matrix for given rotation angle.
-
-```
-Matrix m = Matrix.skew(Math.PI / 2, Math.PI / 2);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| alpha | double | Skew x angle in radians. |
-| beta | double | Skew y angle in radians. |
-
-**Returns:**
-[Matrix](../../com.aspose.pdf/matrix) - Transformation matrix.
 ### scale(double x, double y) {#scale-double-double-}
 ```
 public static Matrix scale(double x, double y)
@@ -423,66 +459,114 @@ Matrix m = Matrix.scale(x, y);
 
 **Returns:**
 [Matrix](../../com.aspose.pdf/matrix) - Transformation matrix.
-### getAngle(int rotation) {#getAngle-int-}
+### setA(double value) {#setA-double-}
 ```
-public static double getAngle(int rotation)
+public void setA(double value)
 ```
 
 
-Transaltes rotation into angle (degrees)
+Set A member of the transformation matrix.
 
---------------------
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setB(double value) {#setB-double-}
+```
+public void setB(double value)
+```
+
+
+Set B member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setC(double value) {#setC-double-}
+```
+public void setC(double value)
+```
+
+
+Set C member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setD(double value) {#setD-double-}
+```
+public void setD(double value)
+```
+
+
+Set D member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setE(double value) {#setE-double-}
+```
+public void setE(double value)
+```
+
+
+Set E member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setF(double value) {#setF-double-}
+```
+public void setF(double value)
+```
+
+
+Set F member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### skew(double alpha, double beta) {#skew-double-double-}
+```
+public static Matrix skew(double alpha, double beta)
+```
+
+
+Creates matrix for given rotation angle.
 
 ```
-double angle = Matrix.getAngle(Rotation.on90);
- Matrix m = Matrix.rotation(angle);
+Matrix m = Matrix.skew(Math.PI / 2, Math.PI / 2);
 ```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotation | int | Rotation value. |
+| alpha | double | Skew x angle in radians. |
+| beta | double | Skew y angle in radians. |
 
 **Returns:**
-double - Angle value.
-### multiply(Matrix other) {#multiply-com.aspose.pdf.Matrix-}
+[Matrix](../../com.aspose.pdf/matrix) - Transformation matrix.
+### toString() {#toString--}
 ```
-public Matrix multiply(Matrix other)
-```
-
-
-Multiplies the matrix by other matrix.
-
---------------------
-
-```
-Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 });
- Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } );
- Matrix c= a.multiply(b);
+public String toString()
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | [Matrix](../../com.aspose.pdf/matrix) | Multiplier matrix. |
+
+Returns text representation of the matrix.
 
 **Returns:**
-[Matrix](../../com.aspose.pdf/matrix) - Result of multiplication.
-### add(Matrix other) {#add-com.aspose.pdf.Matrix-}
-```
-public Matrix add(Matrix other)
-```
-
-
-Adds matrix to other matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | [Matrix](../../com.aspose.pdf/matrix) | Matrix to be added. |
-
-**Returns:**
-[Matrix](../../com.aspose.pdf/matrix) - Result of matrix add.
+java.lang.String - String representation for the matrix
 ### transform(Point p) {#transform-com.aspose.pdf.Point-}
 ```
 public Point transform(Point p)
@@ -529,55 +613,38 @@ Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
 
 **Returns:**
 [Rectangle](../../com.aspose.pdf/rectangle) - Transformed rectangle.
-### reverse() {#reverse--}
+### wait() {#wait--}
 ```
-public Matrix reverse()
-```
-
-
-Calculates reverse matrix.
-
---------------------
-
-```
-Matrix m = Matrix.rotation(Math.PI / 2);
- Matrix m1 = m.reverse();
-```
-
-**Returns:**
-[Matrix](../../com.aspose.pdf/matrix) - Reverse matrix.
-### hashCode() {#hashCode--}
-```
-public int hashCode()
+public final void wait()
 ```
 
 
-Hash-code for object.
 
-**Returns:**
-int - Hash-code.
-### isInt16(double value) {#isInt16-double-}
+
+### wait(long arg0) {#wait-long-}
 ```
-public static boolean isInt16(double value)
+public final native void wait(long arg0)
 ```
 
 
-For Internal usage only
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| arg0 | long |  |
 
-**Returns:**
-boolean - boolean value
-### isInt16Values() {#isInt16Values--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public boolean isInt16Values()
+public final void wait(long arg0, int arg1)
 ```
 
 
-For Internal usage only
 
-**Returns:**
-boolean - boolean value
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

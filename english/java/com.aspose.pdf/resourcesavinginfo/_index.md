@@ -17,11 +17,55 @@ This class represents set of data that related to external resource file's savin
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getContentStream()](#getContentStream--) | Set by converter. |
 | [getResourceType()](#getResourceType--) | Set by converter. |
 | [getSupposedFileName()](#getSupposedFileName--) | Set by converter. |
-| [getContentStream()](#getContentStream--) | Set by converter. |
+| [hashCode()](#hashCode--) |  |
 | [isCustomProcessingCancelled()](#isCustomProcessingCancelled--) | this flag must set to "true" in custom code if for some reasons proposed file should be processed not with custom code but with converter's code itself in standard for converter way. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setCustomProcessingCancelled(boolean customProcessingCancelled)](#setCustomProcessingCancelled-boolean-) | this flag must set to "true" in custom code if for some reasons proposed file should be processed not with custom code but with converter's code itself in standard for converter way. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getContentStream() {#getContentStream--}
+```
+public byte[] getContentStream()
+```
+
+
+Set by converter. Represents binary content of saved file.
+
+**Returns:**
+byte[] - array of bytes
 ### getResourceType() {#getResourceType--}
 ```
 public int getResourceType()
@@ -42,16 +86,16 @@ Set by converter. Supposed file name that goes from converter to code of custom 
 
 **Returns:**
 java.lang.String - String value
-### getContentStream() {#getContentStream--}
+### hashCode() {#hashCode--}
 ```
-public byte[] getContentStream()
+public native int hashCode()
 ```
 
 
-Set by converter. Represents binary content of saved file.
+
 
 **Returns:**
-byte[] - array of bytes
+int
 ### isCustomProcessingCancelled() {#isCustomProcessingCancelled--}
 ```
 public boolean isCustomProcessingCancelled()
@@ -62,6 +106,22 @@ this flag must set to "true" in custom code if for some reasons proposed file sh
 
 **Returns:**
 boolean - boolean value
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setCustomProcessingCancelled(boolean customProcessingCancelled) {#setCustomProcessingCancelled-boolean-}
 ```
 public void setCustomProcessingCancelled(boolean customProcessingCancelled)
@@ -74,4 +134,49 @@ this flag must set to "true" in custom code if for some reasons proposed file sh
 | Parameter | Type | Description |
 | --- | --- | --- |
 | customProcessingCancelled | boolean | boolean value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

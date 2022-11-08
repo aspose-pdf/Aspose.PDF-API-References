@@ -17,65 +17,48 @@ Represents Standard Attribute Owners.
 
 | Field | Description |
 | --- | --- |
-| [Layout](#Layout) | Layout attribute owner. |
-| [List](#List) | List attribute owner. |
-| [PrintField](#PrintField) | PrintField attribute owner. |
-| [Table](#Table) | Table attribute owner. |
-| [XML_100](#XML-100) | XML-1.0.0 attribute owner. |
-| [HTML_320](#HTML-320) | HTML-3.20 attribute owner. |
-| [HTML_401](#HTML-401) | HTML-4.01 attribute owner. |
-| [OEB_100](#OEB-100) | OEB-1.00 attribute owner. |
-| [RTF_105](#RTF-105) | RTF-1.05 attribute owner. |
 | [CSS_100](#CSS-100) | CSS-1.00 attribute owner. |
 | [CSS_200](#CSS-200) | CSS-2.00 attribute owner. |
+| [HTML_320](#HTML-320) | HTML-3.20 attribute owner. |
+| [HTML_401](#HTML-401) | HTML-4.01 attribute owner. |
+| [Layout](#Layout) | Layout attribute owner. |
+| [List](#List) | List attribute owner. |
+| [OEB_100](#OEB-100) | OEB-1.00 attribute owner. |
+| [PrintField](#PrintField) | PrintField attribute owner. |
+| [RTF_105](#RTF-105) | RTF-1.05 attribute owner. |
+| [Table](#Table) | Table attribute owner. |
+| [XML_100](#XML-100) | XML-1.0.0 attribute owner. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [clear()](#clear--) |  |
-| [hashCode()](#hashCode--) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getOwner()](#getOwner--) | Get Attribute Owner. |
-| [to_AttributeOwnerStandard(String owner)](#to-AttributeOwnerStandard-java.lang.String-) | Performs an explicit conversion from String to [AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard). |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [toString()](#toString--) | Returns a string that represents the current object. |
-### Layout {#Layout}
+| [to_AttributeOwnerStandard(String owner)](#to-AttributeOwnerStandard-java.lang.String-) | Performs an explicit conversion from String to [AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard). |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### CSS_100 {#CSS-100}
 ```
-public static final AttributeOwnerStandard Layout
-```
-
-
-Layout attribute owner.
-
-### List {#List}
-```
-public static final AttributeOwnerStandard List
+public static final AttributeOwnerStandard CSS_100
 ```
 
 
-List attribute owner.
+CSS-1.00 attribute owner.
 
-### PrintField {#PrintField}
+### CSS_200 {#CSS-200}
 ```
-public static final AttributeOwnerStandard PrintField
-```
-
-
-PrintField attribute owner.
-
-### Table {#Table}
-```
-public static final AttributeOwnerStandard Table
+public static final AttributeOwnerStandard CSS_200
 ```
 
 
-Table attribute owner.
-
-### XML_100 {#XML-100}
-```
-public static final AttributeOwnerStandard XML_100
-```
-
-
-XML-1.0.0 attribute owner.
+CSS-2.00 attribute owner.
 
 ### HTML_320 {#HTML-320}
 ```
@@ -93,6 +76,22 @@ public static final AttributeOwnerStandard HTML_401
 
 HTML-4.01 attribute owner.
 
+### Layout {#Layout}
+```
+public static final AttributeOwnerStandard Layout
+```
+
+
+Layout attribute owner.
+
+### List {#List}
+```
+public static final AttributeOwnerStandard List
+```
+
+
+List attribute owner.
+
 ### OEB_100 {#OEB-100}
 ```
 public static final AttributeOwnerStandard OEB_100
@@ -100,6 +99,14 @@ public static final AttributeOwnerStandard OEB_100
 
 
 OEB-1.00 attribute owner.
+
+### PrintField {#PrintField}
+```
+public static final AttributeOwnerStandard PrintField
+```
+
+
+PrintField attribute owner.
 
 ### RTF_105 {#RTF-105}
 ```
@@ -109,21 +116,21 @@ public static final AttributeOwnerStandard RTF_105
 
 RTF-1.05 attribute owner.
 
-### CSS_100 {#CSS-100}
+### Table {#Table}
 ```
-public static final AttributeOwnerStandard CSS_100
-```
-
-
-CSS-1.00 attribute owner.
-
-### CSS_200 {#CSS-200}
-```
-public static final AttributeOwnerStandard CSS_200
+public static final AttributeOwnerStandard Table
 ```
 
 
-CSS-2.00 attribute owner.
+Table attribute owner.
+
+### XML_100 {#XML-100}
+```
+public static final AttributeOwnerStandard XML_100
+```
+
+
+XML-1.0.0 attribute owner.
 
 ### clear() {#clear--}
 ```
@@ -133,16 +140,31 @@ public static void clear()
 
 
 
-### hashCode() {#hashCode--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public int hashCode()
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
 ```
 
 
 
 
 **Returns:**
-int
+java.lang.Class<?>
 ### getOwner() {#getOwner--}
 ```
 public final String getOwner()
@@ -155,6 +177,42 @@ Value: Attribute Owner.
 
 **Returns:**
 java.lang.String - String value
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Returns a string that represents the current object.
+
+**Returns:**
+java.lang.String - String that represents the current object.
 ### to_AttributeOwnerStandard(String owner) {#to-AttributeOwnerStandard-java.lang.String-}
 ```
 public static AttributeOwnerStandard to_AttributeOwnerStandard(String owner)
@@ -170,13 +228,38 @@ Performs an explicit conversion from String to [AttributeOwnerStandard](../../co
 
 **Returns:**
 [AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard) - The result of the conversion.
-### toString() {#toString--}
+### wait() {#wait--}
 ```
-public String toString()
+public final void wait()
 ```
 
 
-Returns a string that represents the current object.
 
-**Returns:**
-java.lang.String - String that represents the current object.
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

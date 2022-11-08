@@ -3,7 +3,7 @@ title: Matrix3D
 second_title: Aspose.PDF for Java API Reference
 description: Class represents transformation matrix.
 type: docs
-weight: 211
+weight: 210
 url: /java/com.aspose.pdf/matrix3d/
 ---
 **Inheritance:**
@@ -25,35 +25,41 @@ Class represents transformation matrix.
 
 | Method | Description |
 | --- | --- |
+| [add(Matrix3D other)](#add-com.aspose.pdf.Matrix3D-) | Multiplies the matrix by other matrix. |
+| [equals(Object obj)](#equals-java.lang.Object-) | Compares matrix against other object. |
 | [getA()](#getA--) | A member of the transformation matrix. |
-| [setA(double value)](#setA-double-) | A member of the transformation matrix. |
+| [getAngle(int rotation)](#getAngle-int-) | Creates matrix for given rotation angle. |
 | [getB()](#getB--) | B member of the transformation matrix. |
-| [setB(double value)](#setB-double-) | B member of the transformation matrix. |
 | [getC()](#getC--) | C member of the transformation matrix. |
-| [setC(double value)](#setC-double-) | C member of the transformation matrix. |
+| [getClass()](#getClass--) |  |
 | [getD()](#getD--) | D member of the transformation matrix. |
-| [setD(double value)](#setD-double-) | D member of the transformation matrix. |
 | [getE()](#getE--) | E member of the transformation matrix. |
-| [setE(double value)](#setE-double-) | E member of the transformation matrix. |
 | [getF()](#getF--) | F member of the transformation matrix. |
-| [setF(double value)](#setF-double-) | F member of the transformation matrix. |
 | [getG()](#getG--) | G member of the transformation matrix. |
-| [setG(double value)](#setG-double-) | G member of the transformation matrix. |
 | [getH()](#getH--) | H member of the transformation matrix. |
-| [setH(double value)](#setH-double-) | H member of the transformation matrix. |
 | [getI()](#getI--) | I member of the transformation matrix. |
-| [setI(double value)](#setI-double-) | I member of the transformation matrix. |
 | [getTx()](#getTx--) | Tx member of the transformation matrix. |
-| [setTx(double value)](#setTx-double-) | Tx member of the transformation matrix. |
 | [getTy()](#getTy--) | Ty member of the transformation matrix. |
-| [setTy(double value)](#setTy-double-) | Ty member of the transformation matrix. |
 | [getTz()](#getTz--) | Tz member of the transformation matrix. |
+| [hashCode()](#hashCode--) | Calculates reverse matrix. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setA(double value)](#setA-double-) | A member of the transformation matrix. |
+| [setB(double value)](#setB-double-) | B member of the transformation matrix. |
+| [setC(double value)](#setC-double-) | C member of the transformation matrix. |
+| [setD(double value)](#setD-double-) | D member of the transformation matrix. |
+| [setE(double value)](#setE-double-) | E member of the transformation matrix. |
+| [setF(double value)](#setF-double-) | F member of the transformation matrix. |
+| [setG(double value)](#setG-double-) | G member of the transformation matrix. |
+| [setH(double value)](#setH-double-) | H member of the transformation matrix. |
+| [setI(double value)](#setI-double-) | I member of the transformation matrix. |
+| [setTx(double value)](#setTx-double-) | Tx member of the transformation matrix. |
+| [setTy(double value)](#setTy-double-) | Ty member of the transformation matrix. |
 | [setTz(double value)](#setTz-double-) | Tz member of the transformation matrix. |
 | [toString()](#toString--) | Returns text representation of the matrix. |
-| [equals(Object obj)](#equals-java.lang.Object-) | Compares matrix against other object. |
-| [getAngle(int rotation)](#getAngle-int-) | Creates matrix for given rotation angle. |
-| [add(Matrix3D other)](#add-com.aspose.pdf.Matrix3D-) | Multiplies the matrix by other matrix. |
-| [hashCode()](#hashCode--) | Calculates reverse matrix. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Matrix3D() {#Matrix3D--}
 ```
 public Matrix3D()
@@ -151,292 +157,31 @@ Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 | ty | double | TX matrix value. |
 | tz | double | TY matrix value. |
 
-### getA() {#getA--}
+### add(Matrix3D other) {#add-com.aspose.pdf.Matrix3D-}
 ```
-public double getA()
-```
-
-
-A member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setA(double value) {#setA-double-}
-```
-public void setA(double value)
+public Matrix3D add(Matrix3D other)
 ```
 
 
-A member of the transformation matrix.
+Multiplies the matrix by other matrix.
+
+Adds matrix to other matrix.
+
+--------------------
+
+```
+Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 });
+  Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } );
+  Matrix c= a.Multiply(b);
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
-
-### getB() {#getB--}
-```
-public double getB()
-```
-
-
-B member of the transformation matrix.
+| other | [Matrix3D](../../com.aspose.pdf/matrix3d) | Matrix to be added. |
 
 **Returns:**
-double - double value
-### setB(double value) {#setB-double-}
-```
-public void setB(double value)
-```
-
-
-B member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getC() {#getC--}
-```
-public double getC()
-```
-
-
-C member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setC(double value) {#setC-double-}
-```
-public void setC(double value)
-```
-
-
-C member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getD() {#getD--}
-```
-public double getD()
-```
-
-
-D member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setD(double value) {#setD-double-}
-```
-public void setD(double value)
-```
-
-
-D member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getE() {#getE--}
-```
-public double getE()
-```
-
-
-E member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setE(double value) {#setE-double-}
-```
-public void setE(double value)
-```
-
-
-E member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getF() {#getF--}
-```
-public double getF()
-```
-
-
-F member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setF(double value) {#setF-double-}
-```
-public void setF(double value)
-```
-
-
-F member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getG() {#getG--}
-```
-public double getG()
-```
-
-
-G member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setG(double value) {#setG-double-}
-```
-public void setG(double value)
-```
-
-
-G member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getH() {#getH--}
-```
-public double getH()
-```
-
-
-H member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setH(double value) {#setH-double-}
-```
-public void setH(double value)
-```
-
-
-H member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getI() {#getI--}
-```
-public double getI()
-```
-
-
-I member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setI(double value) {#setI-double-}
-```
-public void setI(double value)
-```
-
-
-I member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getTx() {#getTx--}
-```
-public double getTx()
-```
-
-
-Tx member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setTx(double value) {#setTx-double-}
-```
-public void setTx(double value)
-```
-
-
-Tx member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getTy() {#getTy--}
-```
-public double getTy()
-```
-
-
-Ty member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setTy(double value) {#setTy-double-}
-```
-public void setTy(double value)
-```
-
-
-Ty member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getTz() {#getTz--}
-```
-public double getTz()
-```
-
-
-Tz member of the transformation matrix.
-
-**Returns:**
-double - double value
-### setTz(double value) {#setTz-double-}
-```
-public void setTz(double value)
-```
-
-
-Tz member of the transformation matrix.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Returns text representation of the matrix.
-
-**Returns:**
-java.lang.String - String representation for the matrix
+[Matrix3D](../../com.aspose.pdf/matrix3d) - Result of matrix add.
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -452,6 +197,16 @@ Compares matrix against other object.
 
 **Returns:**
 boolean - Returns true is other object is Matrix3D and all matrix members are equal to corresponding members of the matrix
+### getA() {#getA--}
+```
+public double getA()
+```
+
+
+A member of the transformation matrix.
+
+**Returns:**
+double - double value
 ### getAngle(int rotation) {#getAngle-int-}
 ```
 public static double getAngle(int rotation)
@@ -498,31 +253,126 @@ double angle = Matrix.getAngle(Rotation.on90);
 
 **Returns:**
 double - Angle value.
-### add(Matrix3D other) {#add-com.aspose.pdf.Matrix3D-}
+### getB() {#getB--}
 ```
-public Matrix3D add(Matrix3D other)
-```
-
-
-Multiplies the matrix by other matrix.
-
-Adds matrix to other matrix.
-
---------------------
-
-```
-Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 });
-  Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } );
-  Matrix c= a.Multiply(b);
+public double getB()
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | [Matrix3D](../../com.aspose.pdf/matrix3d) | Matrix to be added. |
+
+B member of the transformation matrix.
 
 **Returns:**
-[Matrix3D](../../com.aspose.pdf/matrix3d) - Result of matrix add.
+double - double value
+### getC() {#getC--}
+```
+public double getC()
+```
+
+
+C member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getD() {#getD--}
+```
+public double getD()
+```
+
+
+D member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getE() {#getE--}
+```
+public double getE()
+```
+
+
+E member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getF() {#getF--}
+```
+public double getF()
+```
+
+
+F member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getG() {#getG--}
+```
+public double getG()
+```
+
+
+G member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getH() {#getH--}
+```
+public double getH()
+```
+
+
+H member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getI() {#getI--}
+```
+public double getI()
+```
+
+
+I member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getTx() {#getTx--}
+```
+public double getTx()
+```
+
+
+Tx member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getTy() {#getTy--}
+```
+public double getTy()
+```
+
+
+Ty member of the transformation matrix.
+
+**Returns:**
+double - double value
+### getTz() {#getTz--}
+```
+public double getTz()
+```
+
+
+Tz member of the transformation matrix.
+
+**Returns:**
+double - double value
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -542,3 +392,220 @@ Matrix m = Matrix.Rotation(Math.PI / 2);
 
 **Returns:**
 int - Hash-code.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setA(double value) {#setA-double-}
+```
+public void setA(double value)
+```
+
+
+A member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setB(double value) {#setB-double-}
+```
+public void setB(double value)
+```
+
+
+B member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setC(double value) {#setC-double-}
+```
+public void setC(double value)
+```
+
+
+C member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setD(double value) {#setD-double-}
+```
+public void setD(double value)
+```
+
+
+D member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setE(double value) {#setE-double-}
+```
+public void setE(double value)
+```
+
+
+E member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setF(double value) {#setF-double-}
+```
+public void setF(double value)
+```
+
+
+F member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setG(double value) {#setG-double-}
+```
+public void setG(double value)
+```
+
+
+G member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setH(double value) {#setH-double-}
+```
+public void setH(double value)
+```
+
+
+H member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setI(double value) {#setI-double-}
+```
+public void setI(double value)
+```
+
+
+I member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setTx(double value) {#setTx-double-}
+```
+public void setTx(double value)
+```
+
+
+Tx member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setTy(double value) {#setTy-double-}
+```
+public void setTy(double value)
+```
+
+
+Ty member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### setTz(double value) {#setTz-double-}
+```
+public void setTz(double value)
+```
+
+
+Tz member of the transformation matrix.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Returns text representation of the matrix.
+
+**Returns:**
+java.lang.String - String representation for the matrix
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

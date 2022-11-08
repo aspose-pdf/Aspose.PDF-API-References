@@ -3,7 +3,7 @@ title: DocumentActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class describes actions performed on some actions with document
 type: docs
-weight: 93
+weight: 92
 url: /java/com.aspose.pdf/documentactioncollection/
 ---
 **Inheritance:**
@@ -22,16 +22,25 @@ Class describes actions performed on some actions with document
 
 | Method | Description |
 | --- | --- |
-| [getBeforeSaving()](#getBeforeSaving--) | Gets action performed before document saving. |
-| [setBeforeSaving(PdfAction value)](#setBeforeSaving-com.aspose.pdf.PdfAction-) | Sets action performed before document saving. |
-| [getBeforeClosing()](#getBeforeClosing--) | Gets action that will be performed before documetn closing. |
-| [setBeforeClosing(PdfAction value)](#setBeforeClosing-com.aspose.pdf.PdfAction-) | Sets action that will be performed before documetn closing. |
-| [getAfterSaving()](#getAfterSaving--) | Gets action that will be performed after document saving. |
-| [setAfterSaving(PdfAction value)](#setAfterSaving-com.aspose.pdf.PdfAction-) | Sets action that will be performed after document saving. |
-| [getBeforePrinting()](#getBeforePrinting--) | Action that will be performed before document printing. |
-| [setBeforePrinting(PdfAction value)](#setBeforePrinting-com.aspose.pdf.PdfAction-) | Action that will be performed before document printing. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAfterPrinting()](#getAfterPrinting--) | Action that will be performed after document printing. |
+| [getAfterSaving()](#getAfterSaving--) | Gets action that will be performed after document saving. |
+| [getBeforeClosing()](#getBeforeClosing--) | Gets action that will be performed before documetn closing. |
+| [getBeforePrinting()](#getBeforePrinting--) | Action that will be performed before document printing. |
+| [getBeforeSaving()](#getBeforeSaving--) | Gets action performed before document saving. |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setAfterPrinting(PdfAction value)](#setAfterPrinting-com.aspose.pdf.PdfAction-) | Action that will be performed after document printing. |
+| [setAfterSaving(PdfAction value)](#setAfterSaving-com.aspose.pdf.PdfAction-) | Sets action that will be performed after document saving. |
+| [setBeforeClosing(PdfAction value)](#setBeforeClosing-com.aspose.pdf.PdfAction-) | Sets action that will be performed before documetn closing. |
+| [setBeforePrinting(PdfAction value)](#setBeforePrinting-com.aspose.pdf.PdfAction-) | Action that will be performed before document printing. |
+| [setBeforeSaving(PdfAction value)](#setBeforeSaving-com.aspose.pdf.PdfAction-) | Sets action performed before document saving. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### DocumentActionCollection(IDocument document) {#DocumentActionCollection-com.aspose.pdf.IDocument-}
 ```
 public DocumentActionCollection(IDocument document)
@@ -45,52 +54,31 @@ Constructor for DocumentActionCollection. Constructs DocumentActionCollection ob
 | --- | --- | --- |
 | document | [IDocument](../../com.aspose.pdf/idocument) | Document for which action colleciton is created. |
 
-### getBeforeSaving() {#getBeforeSaving--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public PdfAction getBeforeSaving()
-```
-
-
-Gets action performed before document saving.
-
-**Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction object
-### setBeforeSaving(PdfAction value) {#setBeforeSaving-com.aspose.pdf.PdfAction-}
-```
-public void setBeforeSaving(PdfAction value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets action performed before document saving.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction object |
-
-### getBeforeClosing() {#getBeforeClosing--}
-```
-public PdfAction getBeforeClosing()
-```
-
-
-Gets action that will be performed before documetn closing.
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction object
-### setBeforeClosing(PdfAction value) {#setBeforeClosing-com.aspose.pdf.PdfAction-}
+boolean
+### getAfterPrinting() {#getAfterPrinting--}
 ```
-public void setBeforeClosing(PdfAction value)
+public PdfAction getAfterPrinting()
 ```
 
 
-Sets action that will be performed before documetn closing.
+Action that will be performed after document printing.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction object |
-
+**Returns:**
+[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction after printing
 ### getAfterSaving() {#getAfterSaving--}
 ```
 public PdfAction getAfterSaving()
@@ -101,6 +89,85 @@ Gets action that will be performed after document saving.
 
 **Returns:**
 [PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction object
+### getBeforeClosing() {#getBeforeClosing--}
+```
+public PdfAction getBeforeClosing()
+```
+
+
+Gets action that will be performed before documetn closing.
+
+**Returns:**
+[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction object
+### getBeforePrinting() {#getBeforePrinting--}
+```
+public PdfAction getBeforePrinting()
+```
+
+
+Action that will be performed before document printing.
+
+**Returns:**
+[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction before printing
+### getBeforeSaving() {#getBeforeSaving--}
+```
+public PdfAction getBeforeSaving()
+```
+
+
+Gets action performed before document saving.
+
+**Returns:**
+[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction object
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setAfterPrinting(PdfAction value) {#setAfterPrinting-com.aspose.pdf.PdfAction-}
+```
+public void setAfterPrinting(PdfAction value)
+```
+
+
+Action that will be performed after document printing.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction after printing |
+
 ### setAfterSaving(PdfAction value) {#setAfterSaving-com.aspose.pdf.PdfAction-}
 ```
 public void setAfterSaving(PdfAction value)
@@ -114,16 +181,19 @@ Sets action that will be performed after document saving.
 | --- | --- | --- |
 | value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction object |
 
-### getBeforePrinting() {#getBeforePrinting--}
+### setBeforeClosing(PdfAction value) {#setBeforeClosing-com.aspose.pdf.PdfAction-}
 ```
-public PdfAction getBeforePrinting()
+public void setBeforeClosing(PdfAction value)
 ```
 
 
-Action that will be performed before document printing.
+Sets action that will be performed before documetn closing.
 
-**Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction before printing
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction object |
+
 ### setBeforePrinting(PdfAction value) {#setBeforePrinting-com.aspose.pdf.PdfAction-}
 ```
 public void setBeforePrinting(PdfAction value)
@@ -137,26 +207,61 @@ Action that will be performed before document printing.
 | --- | --- | --- |
 | value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction before printing |
 
-### getAfterPrinting() {#getAfterPrinting--}
+### setBeforeSaving(PdfAction value) {#setBeforeSaving-com.aspose.pdf.PdfAction-}
 ```
-public PdfAction getAfterPrinting()
-```
-
-
-Action that will be performed after document printing.
-
-**Returns:**
-[PdfAction](../../com.aspose.pdf/pdfaction) - PdfAction after printing
-### setAfterPrinting(PdfAction value) {#setAfterPrinting-com.aspose.pdf.PdfAction-}
-```
-public void setAfterPrinting(PdfAction value)
+public void setBeforeSaving(PdfAction value)
 ```
 
 
-Action that will be performed after document printing.
+Sets action performed before document saving.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction after printing |
+| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction object |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

@@ -26,23 +26,45 @@ For internal usage only
 
 | Method | Description |
 | --- | --- |
-| [get_Item_PdfArrayInBuffer_New(int index)](#get-Item-PdfArrayInBuffer-New-int-) |  |
-| [get_Item(long index)](#get-Item-long-) |  |
-| [indexOf(long indexFrom, long indexTo, byte pdfElement)](#indexOf-long-long-byte-) |  |
-| [indexOf(long indexFrom, byte pdfElement)](#indexOf-long-byte-) |  |
-| [lastIndexOf(byte pdfElement)](#lastIndexOf-byte-) |  |
-| [lastIndexOf(long lastIndex, byte pdfElement)](#lastIndexOf-long-byte-) |  |
-| [findNextObject(long currentIndex, ObjectKey[] key)](#findNextObject-long-com.aspose.pdf.groupprocessor.ObjectKey---) |  |
-| [findNextEndobject(long currentIndex)](#findNextEndobject-long-) |  |
-| [extractObjectKeyOnTheRightSide(long index, ObjectKey[] key)](#extractObjectKeyOnTheRightSide-long-com.aspose.pdf.groupprocessor.ObjectKey---) |  |
-| [subBytes(long indexFrom, long indexTo)](#subBytes-long-long-) |  |
-| [subString(long indexFrom, long indexTo)](#subString-long-long-) |  |
-| [endParameterFinderInMemory(long[] index)](#endParameterFinderInMemory-long---) |  |
-| [tryToExtractObjectKeyOnTheRightSideInMemory(long index, ObjectKey[] key, long[] changedIndex)](#tryToExtractObjectKeyOnTheRightSideInMemory-long-com.aspose.pdf.groupprocessor.ObjectKey---long---) |  |
-| [forwardSpaceEaterInMemory(long[] index)](#forwardSpaceEaterInMemory-long---) |  |
-| [isEqual(byte[] firstArray, byte[] secondArray)](#isEqual-byte---byte---) |  |
+| [checkIfThisIsCommentsInMemory(int currentIndex)](#checkIfThisIsCommentsInMemory-int-) |  |
 | [close()](#close--) | Closes all resources used by this instance. |
 | [dispose()](#dispose--) | Closes all resources used by this instance. |
+| [endParameterFinderInMemory(long[] index)](#endParameterFinderInMemory-long---) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [extractObjectKeyOnTheLeftSideInMemory(int index, ObjectKey[] key)](#extractObjectKeyOnTheLeftSideInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---) |  |
+| [extractObjectKeyOnTheRightSide(long index, ObjectKey[] key)](#extractObjectKeyOnTheRightSide-long-com.aspose.pdf.groupprocessor.ObjectKey---) |  |
+| [extractParameterInMemory(int startIndex)](#extractParameterInMemory-int-) |  |
+| [findNextEndobject(long currentIndex)](#findNextEndobject-long-) |  |
+| [findNextEndobjectInMemory(int currentIndex)](#findNextEndobjectInMemory-int-) |  |
+| [findNextObject(long currentIndex, ObjectKey[] key)](#findNextObject-long-com.aspose.pdf.groupprocessor.ObjectKey---) |  |
+| [findNextObjectInMemory(int currentIndex, ObjectKey[] key)](#findNextObjectInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---) |  |
+| [forwardSpaceEaterInMemory(long[] index)](#forwardSpaceEaterInMemory-long---) |  |
+| [getClass()](#getClass--) |  |
+| [get_Item(int index)](#get-Item-int-) |  |
+| [get_Item(long index)](#get-Item-long-) |  |
+| [get_Item_PdfArrayInBuffer_New(int index)](#get-Item-PdfArrayInBuffer-New-int-) |  |
+| [hashCode()](#hashCode--) |  |
+| [indexOf(long indexFrom, byte pdfElement)](#indexOf-long-byte-) |  |
+| [indexOf(long indexFrom, long indexTo, byte pdfElement)](#indexOf-long-long-byte-) |  |
+| [indexOfEndobjInMemory(int indexFrom)](#indexOfEndobjInMemory-int-) |  |
+| [indexOfInMemory(int indexFrom, int indexTo, byte pdfElement)](#indexOfInMemory-int-int-byte-) |  |
+| [indexOfObjInMemory(int indexFrom)](#indexOfObjInMemory-int-) |  |
+| [isEqual(byte[] firstArray, byte[] secondArray)](#isEqual-byte---byte---) |  |
+| [lastIndexOf(byte pdfElement)](#lastIndexOf-byte-) |  |
+| [lastIndexOf(long lastIndex, byte pdfElement)](#lastIndexOf-long-byte-) |  |
+| [lastIndexOfInMemory(byte pdfElement)](#lastIndexOfInMemory-byte-) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [subBytes(long indexFrom, long indexTo)](#subBytes-long-long-) |  |
+| [subString(long indexFrom, long indexTo)](#subString-long-long-) |  |
+| [subStringInMemory(int indexFrom, int indexTo)](#subStringInMemory-int-int-) |  |
+| [toString()](#toString--) |  |
+| [tryToExtractObjectKeyOnTheLeftSideInMemory(int index, ObjectKey[] key)](#tryToExtractObjectKeyOnTheLeftSideInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---) |  |
+| [tryToExtractObjectKeyOnTheRightSideInMemory(int index, ObjectKey[] key, int[] changedIndex)](#tryToExtractObjectKeyOnTheRightSideInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---int---) |  |
+| [tryToExtractObjectKeyOnTheRightSideInMemory(long index, ObjectKey[] key, long[] changedIndex)](#tryToExtractObjectKeyOnTheRightSideInMemory-long-com.aspose.pdf.groupprocessor.ObjectKey---long---) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PdfArrayInBuffer(System.IO.FileStream stream, int bufferSize, System.Collections.Generic.Dictionary<ObjectKey,ByteRange> pdfObjects, long documentStartIndex) {#PdfArrayInBuffer-com.aspose.ms.System.IO.FileStream-int-com.aspose.ms.System.Collections.Generic.Dictionary-com.aspose.pdf.groupprocessor.ObjectKey-com.aspose.pdf.groupprocessor.ByteRange--long-}
 ```
 public PdfArrayInBuffer(System.IO.FileStream stream, int bufferSize, System.Collections.Generic.Dictionary<ObjectKey,ByteRange> pdfObjects, long documentStartIndex)
@@ -69,9 +91,200 @@ public PdfArrayInBuffer(byte[] bytes, System.Collections.Generic.Dictionary<Obje
 | bytes | byte[] |  |
 | pdfObjects | com.aspose.ms.System.Collections.Generic.Dictionary<com.aspose.pdf.groupprocessor.ObjectKey,com.aspose.pdf.groupprocessor.ByteRange> |  |
 
-### get_Item_PdfArrayInBuffer_New(int index) {#get-Item-PdfArrayInBuffer-New-int-}
+### checkIfThisIsCommentsInMemory(int currentIndex) {#checkIfThisIsCommentsInMemory-int-}
 ```
-public byte get_Item_PdfArrayInBuffer_New(int index)
+public boolean checkIfThisIsCommentsInMemory(int currentIndex)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| currentIndex | int |  |
+
+**Returns:**
+boolean
+### close() {#close--}
+```
+public void close()
+```
+
+
+Closes all resources used by this instance.
+
+### dispose() {#dispose--}
+```
+public void dispose()
+```
+
+
+Closes all resources used by this instance.
+
+This method is obsolete, use close() instead.
+
+### endParameterFinderInMemory(long[] index) {#endParameterFinderInMemory-long---}
+```
+public void endParameterFinderInMemory(long[] index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | long[] |  |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### extractObjectKeyOnTheLeftSideInMemory(int index, ObjectKey[] key) {#extractObjectKeyOnTheLeftSideInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---}
+```
+public void extractObjectKeyOnTheLeftSideInMemory(int index, ObjectKey[] key)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
+| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
+
+### extractObjectKeyOnTheRightSide(long index, ObjectKey[] key) {#extractObjectKeyOnTheRightSide-long-com.aspose.pdf.groupprocessor.ObjectKey---}
+```
+public long extractObjectKeyOnTheRightSide(long index, ObjectKey[] key)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | long |  |
+| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
+
+**Returns:**
+long
+### extractParameterInMemory(int startIndex) {#extractParameterInMemory-int-}
+```
+public String extractParameterInMemory(int startIndex)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| startIndex | int |  |
+
+**Returns:**
+java.lang.String
+### findNextEndobject(long currentIndex) {#findNextEndobject-long-}
+```
+public long findNextEndobject(long currentIndex)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| currentIndex | long |  |
+
+**Returns:**
+long
+### findNextEndobjectInMemory(int currentIndex) {#findNextEndobjectInMemory-int-}
+```
+public int findNextEndobjectInMemory(int currentIndex)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| currentIndex | int |  |
+
+**Returns:**
+int
+### findNextObject(long currentIndex, ObjectKey[] key) {#findNextObject-long-com.aspose.pdf.groupprocessor.ObjectKey---}
+```
+public long findNextObject(long currentIndex, ObjectKey[] key)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| currentIndex | long |  |
+| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
+
+**Returns:**
+long
+### findNextObjectInMemory(int currentIndex, ObjectKey[] key) {#findNextObjectInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---}
+```
+public int findNextObjectInMemory(int currentIndex, ObjectKey[] key)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| currentIndex | int |  |
+| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
+
+**Returns:**
+int
+### forwardSpaceEaterInMemory(long[] index) {#forwardSpaceEaterInMemory-long---}
+```
+public void forwardSpaceEaterInMemory(long[] index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | long[] |  |
+
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### get_Item(int index) {#get-Item-int-}
+```
+public byte get_Item(int index)
 ```
 
 
@@ -99,6 +312,47 @@ public byte get_Item(long index)
 
 **Returns:**
 byte
+### get_Item_PdfArrayInBuffer_New(int index) {#get-Item-PdfArrayInBuffer-New-int-}
+```
+public byte get_Item_PdfArrayInBuffer_New(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
+
+**Returns:**
+byte
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### indexOf(long indexFrom, byte pdfElement) {#indexOf-long-byte-}
+```
+public long indexOf(long indexFrom, byte pdfElement)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| indexFrom | long |  |
+| pdfElement | byte |  |
+
+**Returns:**
+long
 ### indexOf(long indexFrom, long indexTo, byte pdfElement) {#indexOf-long-long-byte-}
 ```
 public long indexOf(long indexFrom, long indexTo, byte pdfElement)
@@ -116,9 +370,9 @@ public long indexOf(long indexFrom, long indexTo, byte pdfElement)
 
 **Returns:**
 long
-### indexOf(long indexFrom, byte pdfElement) {#indexOf-long-byte-}
+### indexOfEndobjInMemory(int indexFrom) {#indexOfEndobjInMemory-int-}
 ```
-public long indexOf(long indexFrom, byte pdfElement)
+public int indexOfEndobjInMemory(int indexFrom)
 ```
 
 
@@ -127,11 +381,58 @@ public long indexOf(long indexFrom, byte pdfElement)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| indexFrom | long |  |
+| indexFrom | int |  |
+
+**Returns:**
+int
+### indexOfInMemory(int indexFrom, int indexTo, byte pdfElement) {#indexOfInMemory-int-int-byte-}
+```
+public int indexOfInMemory(int indexFrom, int indexTo, byte pdfElement)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| indexFrom | int |  |
+| indexTo | int |  |
 | pdfElement | byte |  |
 
 **Returns:**
-long
+int
+### indexOfObjInMemory(int indexFrom) {#indexOfObjInMemory-int-}
+```
+public int indexOfObjInMemory(int indexFrom)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| indexFrom | int |  |
+
+**Returns:**
+int
+### isEqual(byte[] firstArray, byte[] secondArray) {#isEqual-byte---byte---}
+```
+public static boolean isEqual(byte[] firstArray, byte[] secondArray)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| firstArray | byte[] |  |
+| secondArray | byte[] |  |
+
+**Returns:**
+boolean
 ### lastIndexOf(byte pdfElement) {#lastIndexOf-byte-}
 ```
 public long lastIndexOf(byte pdfElement)
@@ -163,25 +464,9 @@ public long lastIndexOf(long lastIndex, byte pdfElement)
 
 **Returns:**
 long
-### findNextObject(long currentIndex, ObjectKey[] key) {#findNextObject-long-com.aspose.pdf.groupprocessor.ObjectKey---}
+### lastIndexOfInMemory(byte pdfElement) {#lastIndexOfInMemory-byte-}
 ```
-public long findNextObject(long currentIndex, ObjectKey[] key)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| currentIndex | long |  |
-| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
-
-**Returns:**
-long
-### findNextEndobject(long currentIndex) {#findNextEndobject-long-}
-```
-public long findNextEndobject(long currentIndex)
+public int lastIndexOfInMemory(byte pdfElement)
 ```
 
 
@@ -190,26 +475,26 @@ public long findNextEndobject(long currentIndex)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| currentIndex | long |  |
+| pdfElement | byte |  |
 
 **Returns:**
-long
-### extractObjectKeyOnTheRightSide(long index, ObjectKey[] key) {#extractObjectKeyOnTheRightSide-long-com.aspose.pdf.groupprocessor.ObjectKey---}
+int
+### notify() {#notify--}
 ```
-public long extractObjectKeyOnTheRightSide(long index, ObjectKey[] key)
+public final native void notify()
 ```
 
 
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | long |  |
-| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
 
-**Returns:**
-long
+
+
+
 ### subBytes(long indexFrom, long indexTo) {#subBytes-long-long-}
 ```
 public byte[] subBytes(long indexFrom, long indexTo)
@@ -242,9 +527,9 @@ public String subString(long indexFrom, long indexTo)
 
 **Returns:**
 java.lang.String
-### endParameterFinderInMemory(long[] index) {#endParameterFinderInMemory-long---}
+### subStringInMemory(int indexFrom, int indexTo) {#subStringInMemory-int-int-}
 ```
-public void endParameterFinderInMemory(long[] index)
+public String subStringInMemory(int indexFrom, int indexTo)
 ```
 
 
@@ -253,8 +538,54 @@ public void endParameterFinderInMemory(long[] index)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | long[] |  |
+| indexFrom | int |  |
+| indexTo | int |  |
 
+**Returns:**
+java.lang.String
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### tryToExtractObjectKeyOnTheLeftSideInMemory(int index, ObjectKey[] key) {#tryToExtractObjectKeyOnTheLeftSideInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---}
+```
+public boolean tryToExtractObjectKeyOnTheLeftSideInMemory(int index, ObjectKey[] key)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
+| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
+
+**Returns:**
+boolean
+### tryToExtractObjectKeyOnTheRightSideInMemory(int index, ObjectKey[] key, int[] changedIndex) {#tryToExtractObjectKeyOnTheRightSideInMemory-int-com.aspose.pdf.groupprocessor.ObjectKey---int---}
+```
+public boolean tryToExtractObjectKeyOnTheRightSideInMemory(int index, ObjectKey[] key, int[] changedIndex)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
+| key | com.aspose.pdf.groupprocessor.ObjectKey[] |  |
+| changedIndex | int[] |  |
+
+**Returns:**
+boolean
 ### tryToExtractObjectKeyOnTheRightSideInMemory(long index, ObjectKey[] key, long[] changedIndex) {#tryToExtractObjectKeyOnTheRightSideInMemory-long-com.aspose.pdf.groupprocessor.ObjectKey---long---}
 ```
 public boolean tryToExtractObjectKeyOnTheRightSideInMemory(long index, ObjectKey[] key, long[] changedIndex)
@@ -272,22 +603,17 @@ public boolean tryToExtractObjectKeyOnTheRightSideInMemory(long index, ObjectKey
 
 **Returns:**
 boolean
-### forwardSpaceEaterInMemory(long[] index) {#forwardSpaceEaterInMemory-long---}
+### wait() {#wait--}
 ```
-public void forwardSpaceEaterInMemory(long[] index)
+public final void wait()
 ```
 
 
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | long[] |  |
-
-### isEqual(byte[] firstArray, byte[] secondArray) {#isEqual-byte---byte---}
+### wait(long arg0) {#wait-long-}
 ```
-public static boolean isEqual(byte[] firstArray, byte[] secondArray)
+public final native void wait(long arg0)
 ```
 
 
@@ -296,26 +622,19 @@ public static boolean isEqual(byte[] firstArray, byte[] secondArray)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstArray | byte[] |  |
-| secondArray | byte[] |  |
+| arg0 | long |  |
 
-**Returns:**
-boolean
-### close() {#close--}
+### wait(long arg0, int arg1) {#wait-long-int-}
 ```
-public void close()
+public final void wait(long arg0, int arg1)
 ```
 
 
-Closes all resources used by this instance.
-
-### dispose() {#dispose--}
-```
-public void dispose()
-```
 
 
-Closes all resources used by this instance.
-
-This method is obsolete, use close() instead.
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

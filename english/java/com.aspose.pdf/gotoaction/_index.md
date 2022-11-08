@@ -3,7 +3,7 @@ title: GoToAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a go-to action that changes the view to a specified destination page location and magnification factor.
 type: docs
-weight: 145
+weight: 144
 url: /java/com.aspose.pdf/gotoaction/
 ---
 **Inheritance:**
@@ -27,8 +27,18 @@ Represents a go-to action that changes the view to a specified destination (page
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getDestination()](#getDestination--) | Gets the destination to jump to. |
+| [getNext()](#getNext--) | Next actions in sequence. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setDestination(IAppointment value)](#setDestination-com.aspose.pdf.IAppointment-) | Sets the destination to jump to. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### GoToAction(int page) {#GoToAction-int-}
 ```
 public GoToAction(int page)
@@ -105,6 +115,31 @@ Action which linked with Named Destination.
 | doc | [Document](../../com.aspose.pdf/document) | Document where action will be created. |
 | name | java.lang.String | Name of the destination. |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getDestination() {#getDestination--}
 ```
 public IAppointment getDestination()
@@ -115,6 +150,42 @@ Gets the destination to jump to.
 
 **Returns:**
 [IAppointment](../../com.aspose.pdf/iappointment) - IAppointment value
+### getNext() {#getNext--}
+```
+public ActionCollection getNext()
+```
+
+
+Next actions in sequence.
+
+**Returns:**
+[ActionCollection](../../com.aspose.pdf/actioncollection) - ActionCollection object
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setDestination(IAppointment value) {#setDestination-com.aspose.pdf.IAppointment-}
 ```
 public void setDestination(IAppointment value)
@@ -127,4 +198,49 @@ Sets the destination to jump to.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [IAppointment](../../com.aspose.pdf/iappointment) | IAppointment value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

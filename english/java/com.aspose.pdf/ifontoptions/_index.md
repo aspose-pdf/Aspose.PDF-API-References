@@ -3,7 +3,7 @@ title: IFontOptions
 second_title: Aspose.PDF for Java API Reference
 description: Useful properties to tune Font behavior
 type: docs
-weight: 435
+weight: 434
 url: /java/com.aspose.pdf/ifontoptions/
 ---```
 public interface IFontOptions

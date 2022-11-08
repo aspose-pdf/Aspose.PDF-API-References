@@ -14,64 +14,12 @@ Collection of Named Destinations.
 
 | Method | Description |
 | --- | --- |
-| [get_Item(String name)](#get-Item-java.lang.String-) | Gets destination by its name. |
-| [set_Item(String name, IAppointment value)](#set-Item-java.lang.String-com.aspose.pdf.IAppointment-) | Sets destination by its name. |
-| [size()](#size--) | Returns count of the destinations. |
-| [remove(String name)](#remove-java.lang.String-) | Removes destination by its name. |
 | [add(String name, IAppointment appointment)](#add-java.lang.String-com.aspose.pdf.IAppointment-) | Adds new named destination. |
 | [getNames()](#getNames--) | Gets array of names of the destinations. |
-### get_Item(String name) {#get-Item-java.lang.String-}
-```
-public abstract IAppointment get_Item(String name)
-```
-
-
-Gets destination by its name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | String value |
-
-**Returns:**
-[IAppointment](../../com.aspose.pdf/iappointment) - IAppointment instance Destination object.
-### set_Item(String name, IAppointment value) {#set-Item-java.lang.String-com.aspose.pdf.IAppointment-}
-```
-public abstract void set_Item(String name, IAppointment value)
-```
-
-
-Sets destination by its name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | String value |
-| value | [IAppointment](../../com.aspose.pdf/iappointment) | IAppointment instance Destination object. |
-
-### size() {#size--}
-```
-public abstract int size()
-```
-
-
-Returns count of the destinations.
-
-**Returns:**
-int - int value
-### remove(String name) {#remove-java.lang.String-}
-```
-public abstract void remove(String name)
-```
-
-
-Removes destination by its name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | String value |
-
+| [get_Item(String name)](#get-Item-java.lang.String-) | Gets destination by its name. |
+| [remove(String name)](#remove-java.lang.String-) | Removes destination by its name. |
+| [set_Item(String name, IAppointment value)](#set-Item-java.lang.String-com.aspose.pdf.IAppointment-) | Sets destination by its name. |
+| [size()](#size--) | Returns count of the destinations. |
 ### add(String name, IAppointment appointment) {#add-java.lang.String-com.aspose.pdf.IAppointment-}
 ```
 public abstract void add(String name, IAppointment appointment)
@@ -96,3 +44,55 @@ Gets array of names of the destinations.
 
 **Returns:**
 java.lang.String[] - Array of String values
+### get_Item(String name) {#get-Item-java.lang.String-}
+```
+public abstract IAppointment get_Item(String name)
+```
+
+
+Gets destination by its name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | String value |
+
+**Returns:**
+[IAppointment](../../com.aspose.pdf/iappointment) - IAppointment instance Destination object.
+### remove(String name) {#remove-java.lang.String-}
+```
+public abstract void remove(String name)
+```
+
+
+Removes destination by its name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | String value |
+
+### set_Item(String name, IAppointment value) {#set-Item-java.lang.String-com.aspose.pdf.IAppointment-}
+```
+public abstract void set_Item(String name, IAppointment value)
+```
+
+
+Sets destination by its name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | String value |
+| value | [IAppointment](../../com.aspose.pdf/iappointment) | IAppointment instance Destination object. |
+
+### size() {#size--}
+```
+public abstract int size()
+```
+
+
+Returns count of the destinations.
+
+**Returns:**
+int - int value

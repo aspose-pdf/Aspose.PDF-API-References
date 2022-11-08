@@ -3,7 +3,7 @@ title: TextFragmentAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of text fragments.
 type: docs
-weight: 374
+weight: 373
 url: /java/com.aspose.pdf/textfragmentabsorber/
 ---
 **Inheritance:**
@@ -54,31 +54,41 @@ The  TextFragmentAbsorber  object is basically used in text search scenario. Whe
 
 | Method | Description |
 | --- | --- |
-| [getTextFragments()](#getTextFragments--) | Gets collection of search occurrences that are presented with  TextFragment  objects. |
-| [setTextFragments(TextFragmentCollection value)](#setTextFragments-com.aspose.pdf.TextFragmentCollection-) | Sets collection of search occurrences that are presented with  TextFragment  objects. |
-| [getPhrase()](#getPhrase--) | Gets phrase that the  TextFragmentAbsorber  searches on the PDF document or page. |
-| [setPhrase(String value)](#setPhrase-java.lang.String-) | Sets phrase that the  TextFragmentAbsorber  searches on the PDF document or page. |
-| [getTextSearchOptions()](#getTextSearchOptions--) | Gets search options. |
-| [setTextSearchOptions(TextSearchOptions value)](#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-) | Sets search options. |
-| [getTextEditOptions()](#getTextEditOptions--) | Gets text edit options. |
-| [setTextEditOptions(TextEditOptions value)](#setTextEditOptions-com.aspose.pdf.TextEditOptions-) | Sets text edit options. |
-| [getTextReplaceOptions()](#getTextReplaceOptions--) | Gets text replace options. |
-| [setTextReplaceOptions(TextReplaceOptions value)](#setTextReplaceOptions-com.aspose.pdf.TextReplaceOptions-) | Sets text replace options. |
-| [hasErrors_Fragment()](#hasErrors-Fragment--) | Value indicates whether errors were found during text extraction. |
-| [getErrors()](#getErrors--) | List of  TextExtractionError  objects. |
-| [getText()](#getText--) | Gets extracted text that the  TextAbsorber  extracts on the PDF document or page. |
-| [visit(Page page)](#visit-com.aspose.pdf.Page-) | Performs search on the specified page. |
-| [visit(IDocument pdf)](#visit-com.aspose.pdf.IDocument-) | Performs search on the specified document. |
 | [applyForAllFragments(Font font)](#applyForAllFragments-com.aspose.pdf.Font-) | Applies font for all text fragments that were absorbed. |
-| [applyForAllFragments(float fontSize)](#applyForAllFragments-float-) | Applies font size for all text fragments that were absorbed. |
 | [applyForAllFragments(Font font, float fontSize)](#applyForAllFragments-com.aspose.pdf.Font-float-) | Applies font and size for all text fragments that were absorbed. |
-| [reset()](#reset--) | Clears TextFragments collection of this  TextFragmentAbsorber  object. |
+| [applyForAllFragments(float fontSize)](#applyForAllFragments-float-) | Applies font size for all text fragments that were absorbed. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getErrors()](#getErrors--) | List of  TextExtractionError  objects. |
+| [getExtractionOptions()](#getExtractionOptions--) | Gets text extraction options. |
+| [getPhrase()](#getPhrase--) | Gets phrase that the  TextFragmentAbsorber  searches on the PDF document or page. |
+| [getText()](#getText--) | Gets extracted text that the  TextAbsorber  extracts on the PDF document or page. |
+| [getTextEditOptions()](#getTextEditOptions--) | Gets text edit options. |
+| [getTextFragments()](#getTextFragments--) | Gets collection of search occurrences that are presented with  TextFragment  objects. |
+| [getTextReplaceOptions()](#getTextReplaceOptions--) | Gets text replace options. |
+| [getTextSearchOptions()](#getTextSearchOptions--) | Gets search options. |
+| [hasErrors()](#hasErrors--) | Value indicates whether errors were found during text extraction. |
+| [hasErrors_Fragment()](#hasErrors-Fragment--) | Value indicates whether errors were found during text extraction. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [removeAllText(Document document)](#removeAllText-com.aspose.pdf.Document-) | Removes all text from the document. |
 | [removeAllText(Page page)](#removeAllText-com.aspose.pdf.Page-) | Removes all text from the specified page. |
 | [removeAllText(Page page, Rectangle rect)](#removeAllText-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Removes text inside the specified rectangle from the specified page. |
-| [removeAllText(Document document)](#removeAllText-com.aspose.pdf.Document-) | Removes all text from the document. |
-| [visit(XForm xForm)](#visit-com.aspose.pdf.XForm-) | Performs search on the specified form object. |
-| [getExtractionOptions()](#getExtractionOptions--) | Gets text extraction options. |
+| [reset()](#reset--) | Clears TextFragments collection of this  TextFragmentAbsorber  object. |
 | [setExtractionOptions(TextExtractionOptions value)](#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-) | Sets text extraction options. |
+| [setPhrase(String value)](#setPhrase-java.lang.String-) | Sets phrase that the  TextFragmentAbsorber  searches on the PDF document or page. |
+| [setTextEditOptions(TextEditOptions value)](#setTextEditOptions-com.aspose.pdf.TextEditOptions-) | Sets text edit options. |
+| [setTextFragments(TextFragmentCollection value)](#setTextFragments-com.aspose.pdf.TextFragmentCollection-) | Sets collection of search occurrences that are presented with  TextFragment  objects. |
+| [setTextReplaceOptions(TextReplaceOptions value)](#setTextReplaceOptions-com.aspose.pdf.TextReplaceOptions-) | Sets text replace options. |
+| [setTextSearchOptions(TextSearchOptions value)](#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-) | Sets search options. |
+| [toString()](#toString--) |  |
+| [visit(IDocument pdf)](#visit-com.aspose.pdf.IDocument-) | Performs search on the specified document. |
+| [visit(Page page)](#visit-com.aspose.pdf.Page-) | Performs search on the specified page. |
+| [visit(XForm xForm)](#visit-com.aspose.pdf.XForm-) | Performs search on the specified form object. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextFragmentAbsorber() {#TextFragmentAbsorber--}
 ```
 public TextFragmentAbsorber()
@@ -228,7 +238,7 @@ The example demonstrates how to find text on the first PDF document page and rep
 
 --------------------
 
-Performs text search of the specified phrase and provides access to search results via  TextFragmentAbsorber.TextFragments (\#getTextFragments\#getTextFragments/\#setTextFragments(TextFragmentCollection)\#setTextFragments(TextFragmentCollection)) collection. |
+Performs text search of the specified phrase and provides access to search results via  TextFragmentAbsorber.TextFragments (\#getTextFragments.getTextFragments/\#setTextFragments(TextFragmentCollection).setTextFragments(TextFragmentCollection)) collection. |
 
 ### TextFragmentAbsorber(String phrase, TextSearchOptions textSearchOptions) {#TextFragmentAbsorber-java.lang.String-com.aspose.pdf.TextSearchOptions-}
 ```
@@ -299,7 +309,7 @@ The example demonstrates how to find text with regular expression on the first P
 
 --------------------
 
-Performs text search of the specified phrase and provides access to search results via  TextFragmentAbsorber.TextFragments (\#getTextFragments\#getTextFragments/\#setTextFragments(TextFragmentCollection)\#setTextFragments(TextFragmentCollection)) collection. |
+Performs text search of the specified phrase and provides access to search results via  TextFragmentAbsorber.TextFragments (\#getTextFragments.getTextFragments/\#setTextFragments(TextFragmentCollection).setTextFragments(TextFragmentCollection)) collection. |
 
 ### TextFragmentAbsorber(String phrase, TextSearchOptions textSearchOptions, TextEditOptions textEditOptions) {#TextFragmentAbsorber-java.lang.String-com.aspose.pdf.TextSearchOptions-com.aspose.pdf.TextEditOptions-}
 ```
@@ -354,7 +364,7 @@ Initializes a new instance of the [TextFragmentAbsorber](../../com.aspose.pdf/te
 
 --------------------
 
-Performs text search of the specified phrase and provides access to search results via  TextFragmentAbsorber.TextFragments (\#getTextFragments\#getTextFragments/\#setTextFragments(TextFragmentCollection)\#setTextFragments(TextFragmentCollection)) collection. |
+Performs text search of the specified phrase and provides access to search results via  TextFragmentAbsorber.TextFragments (\#getTextFragments.getTextFragments/\#setTextFragments(TextFragmentCollection).setTextFragments(TextFragmentCollection)) collection. |
 
 ### TextFragmentAbsorber(String phrase, TextEditOptions textEditOptions) {#TextFragmentAbsorber-java.lang.String-com.aspose.pdf.TextEditOptions-}
 ```
@@ -374,6 +384,140 @@ Initializes a new instance of the  TextFragmentAbsorber  class for the specified
 
 Performs text search of the specified phrase and provides access to search results via  TextFragmentAbsorber.TextFragments  collection. |
 
+### applyForAllFragments(Font font) {#applyForAllFragments-com.aspose.pdf.Font-}
+```
+public void applyForAllFragments(Font font)
+```
+
+
+Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | [Font](../../com.aspose.pdf/font) |  Font of the text. |
+
+### applyForAllFragments(Font font, float fontSize) {#applyForAllFragments-com.aspose.pdf.Font-float-}
+```
+public void applyForAllFragments(Font font, float fontSize)
+```
+
+
+Applies font and size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | [Font](../../com.aspose.pdf/font) |  Font of the text. |
+| fontSize | float | Font size of the text. |
+
+### applyForAllFragments(float fontSize) {#applyForAllFragments-float-}
+```
+public void applyForAllFragments(float fontSize)
+```
+
+
+Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontSize | float | Font size of the text. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getErrors() {#getErrors--}
+```
+public List<TextExtractionError> getErrors()
+```
+
+
+List of  TextExtractionError  objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
+
+**Returns:**
+java.util.List<com.aspose.pdf.TextExtractionError> - List of TextExtractionError objects
+### getExtractionOptions() {#getExtractionOptions--}
+```
+public TextExtractionOptions getExtractionOptions()
+```
+
+
+Gets text extraction options.
+
+**Returns:**
+[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) - TextExtractionOptions object
+### getPhrase() {#getPhrase--}
+```
+public String getPhrase()
+```
+
+
+Gets phrase that the  TextFragmentAbsorber  searches on the PDF document or page.
+
+**Returns:**
+java.lang.String - String value
+
+--------------------
+
+```
+The example demonstrates how to perform search text several times and perform text replacements.
+
+ // Open document
+ Document doc = new Document("D:\\Tests\\input.pdf");
+ // Create TextFragmentAbsorber object to find all "hello" text occurrences
+ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
+ doc.getPages().get(1).accept(absorber);
+ absorber.getTextFragments().get_Item(1).setText ( "Hi");
+ // search another word and replace it
+ absorber.setPhrase ( "world");
+ doc.getPages().get(1).accept(absorber);
+ absorber.getTextFragments().get_Item(1).setText ( "John");
+ // Save document
+ doc.save("D:\\Tests\\output.pdf");
+```
+### getText() {#getText--}
+```
+public String getText()
+```
+
+
+Gets extracted text that the  TextAbsorber  extracts on the PDF document or page.
+
+**Returns:**
+java.lang.String
+### getTextEditOptions() {#getTextEditOptions--}
+```
+public TextEditOptions getTextEditOptions()
+```
+
+
+Gets text edit options. The options define special behavior when requested symbol cannot be written with font.
+
+**Returns:**
+[TextEditOptions](../../com.aspose.pdf/texteditoptions) - TextEditOptions object
 ### getTextFragments() {#getTextFragments--}
 ```
 public TextFragmentCollection getTextFragments()
@@ -409,6 +553,197 @@ The example demonstrates how to find text on the first PDF document page and rep
  // Save document
  doc.save("D:\\Tests\\output.pdf");
 ```
+### getTextReplaceOptions() {#getTextReplaceOptions--}
+```
+public TextReplaceOptions getTextReplaceOptions()
+```
+
+
+Gets text replace options. The options define behavior when fragment text is replaced to more short/long.
+
+**Returns:**
+[TextReplaceOptions](../../com.aspose.pdf/textreplaceoptions) - TextReplaceOptions value
+### getTextSearchOptions() {#getTextSearchOptions--}
+```
+public TextSearchOptions getTextSearchOptions()
+```
+
+
+Gets search options. The options enable search using regular expressions.
+
+**Returns:**
+[TextSearchOptions](../../com.aspose.pdf/textsearchoptions) - TextSearchOptions object
+
+--------------------
+
+```
+The example demonstrates how to perform search text using regular expression.
+
+ // Open document
+ Document doc = new Document("D:\\Tests\\input.pdf");
+ // Create TextFragmentAbsorber object
+ TextFragmentAbsorber absorber = new TextFragmentAbsorber();
+ // make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+ absorber.setPhrase ( "h\w*?o");
+ absorber.setTextSearchOptions ( new TextSearchOptions(true));
+ // we should find "hello" word and replace it with "Hi"
+ doc.getPages().get(1).accept(absorber);
+ absorber.getTextFragments().get_Item(1).setText ( "Hi");
+ // Save document
+ doc.save("D:\\Tests\\output.pdf");
+```
+### hasErrors() {#hasErrors--}
+```
+public boolean hasErrors()
+```
+
+
+Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
+
+**Returns:**
+boolean - boolean value
+### hasErrors_Fragment() {#hasErrors-Fragment--}
+```
+public boolean hasErrors_Fragment()
+```
+
+
+Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
+
+**Returns:**
+boolean - boolean value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### removeAllText(Document document) {#removeAllText-com.aspose.pdf.Document-}
+```
+public void removeAllText(Document document)
+```
+
+
+Removes all text from the document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | [Document](../../com.aspose.pdf/document) | PDF document object. |
+
+### removeAllText(Page page) {#removeAllText-com.aspose.pdf.Page-}
+```
+public void removeAllText(Page page)
+```
+
+
+Removes all text from the specified page.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | [Page](../../com.aspose.pdf/page) | PDF document page object. |
+
+### removeAllText(Page page, Rectangle rect) {#removeAllText-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
+```
+public final void removeAllText(Page page, Rectangle rect)
+```
+
+
+Removes text inside the specified rectangle from the specified page.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | [Page](../../com.aspose.pdf/page) | PDF document page object. |
+| rect | [Rectangle](../../com.aspose.pdf/rectangle) | [Rectangle](../../com.aspose.pdf/rectangle) to remove text inside. |
+
+### reset() {#reset--}
+```
+public void reset()
+```
+
+
+Clears TextFragments collection of this  TextFragmentAbsorber  object.
+
+### setExtractionOptions(TextExtractionOptions value) {#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-}
+```
+public void setExtractionOptions(TextExtractionOptions value)
+```
+
+
+Sets text extraction options.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) | TextExtractionOptions object |
+
+### setPhrase(String value) {#setPhrase-java.lang.String-}
+```
+public void setPhrase(String value)
+```
+
+
+Sets phrase that the  TextFragmentAbsorber  searches on the PDF document or page.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String value
+
+--------------------
+
+```
+The example demonstrates how to perform search text several times and perform text replacements.
+
+              // Open document
+              Document doc = new Document("D:\\Tests\\input.pdf");
+              // Create TextFragmentAbsorber object to find all "hello" text occurrences
+              TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
+              doc.getPages().get(1).accept(absorber);
+              absorber.getTextFragments().get_Item(1).setText ( "Hi");
+              // search another word and replace it
+              absorber.setPhrase ( "world");
+              doc.getPages().get(1).accept(absorber);
+              absorber.getTextFragments().get_Item(1).setText ( "John");
+              // Save document
+              doc.save("D:\\Tests\\output.pdf");
+``` |
+
+### setTextEditOptions(TextEditOptions value) {#setTextEditOptions-com.aspose.pdf.TextEditOptions-}
+```
+public void setTextEditOptions(TextEditOptions value)
+```
+
+
+Sets text edit options. The options define special behavior when requested symbol cannot be written with font.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [TextEditOptions](../../com.aspose.pdf/texteditoptions) | TextEditOptions object |
+
 ### setTextFragments(TextFragmentCollection value) {#setTextFragments-com.aspose.pdf.TextFragmentCollection-}
 ```
 public void setTextFragments(TextFragmentCollection value)
@@ -447,96 +782,19 @@ The example demonstrates how to find text on the first PDF document page and rep
               doc.save("D:\\Tests\\output.pdf");
 ``` |
 
-### getPhrase() {#getPhrase--}
+### setTextReplaceOptions(TextReplaceOptions value) {#setTextReplaceOptions-com.aspose.pdf.TextReplaceOptions-}
 ```
-public String getPhrase()
-```
-
-
-Gets phrase that the  TextFragmentAbsorber  searches on the PDF document or page.
-
-**Returns:**
-java.lang.String - String value
-
---------------------
-
-```
-The example demonstrates how to perform search text several times and perform text replacements.
-
- // Open document
- Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object to find all "hello" text occurrences
- TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
- doc.getPages().get(1).accept(absorber);
- absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // search another word and replace it
- absorber.setPhrase ( "world");
- doc.getPages().get(1).accept(absorber);
- absorber.getTextFragments().get_Item(1).setText ( "John");
- // Save document
- doc.save("D:\\Tests\\output.pdf");
-```
-### setPhrase(String value) {#setPhrase-java.lang.String-}
-```
-public void setPhrase(String value)
+public void setTextReplaceOptions(TextReplaceOptions value)
 ```
 
 
-Sets phrase that the  TextFragmentAbsorber  searches on the PDF document or page.
+Sets text replace options. The options define behavior when fragment text is replaced to more short/long.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | String value
+| value | [TextReplaceOptions](../../com.aspose.pdf/textreplaceoptions) | TextReplaceOptions value |
 
---------------------
-
-```
-The example demonstrates how to perform search text several times and perform text replacements.
-
-              // Open document
-              Document doc = new Document("D:\\Tests\\input.pdf");
-              // Create TextFragmentAbsorber object to find all "hello" text occurrences
-              TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
-              doc.getPages().get(1).accept(absorber);
-              absorber.getTextFragments().get_Item(1).setText ( "Hi");
-              // search another word and replace it
-              absorber.setPhrase ( "world");
-              doc.getPages().get(1).accept(absorber);
-              absorber.getTextFragments().get_Item(1).setText ( "John");
-              // Save document
-              doc.save("D:\\Tests\\output.pdf");
-``` |
-
-### getTextSearchOptions() {#getTextSearchOptions--}
-```
-public TextSearchOptions getTextSearchOptions()
-```
-
-
-Gets search options. The options enable search using regular expressions.
-
-**Returns:**
-[TextSearchOptions](../../com.aspose.pdf/textsearchoptions) - TextSearchOptions object
-
---------------------
-
-```
-The example demonstrates how to perform search text using regular expression.
-
- // Open document
- Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object
- TextFragmentAbsorber absorber = new TextFragmentAbsorber();
- // make the absorber to search all words starting 'h' and ending 'o' using regular expression.
- absorber.setPhrase ( "h\w*?o");
- absorber.setTextSearchOptions ( new TextSearchOptions(true));
- // we should find "hello" word and replace it with "Hi"
- doc.getPages().get(1).accept(absorber);
- absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // Save document
- doc.save("D:\\Tests\\output.pdf");
-```
 ### setTextSearchOptions(TextSearchOptions value) {#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-}
 ```
 public void setTextSearchOptions(TextSearchOptions value)
@@ -569,82 +827,48 @@ The example demonstrates how to perform search text using regular expression.
               doc.save("D:\\Tests\\output.pdf");
 ``` |
 
-### getTextEditOptions() {#getTextEditOptions--}
+### toString() {#toString--}
 ```
-public TextEditOptions getTextEditOptions()
-```
-
-
-Gets text edit options. The options define special behavior when requested symbol cannot be written with font.
-
-**Returns:**
-[TextEditOptions](../../com.aspose.pdf/texteditoptions) - TextEditOptions object
-### setTextEditOptions(TextEditOptions value) {#setTextEditOptions-com.aspose.pdf.TextEditOptions-}
-```
-public void setTextEditOptions(TextEditOptions value)
+public String toString()
 ```
 
 
-Sets text edit options. The options define special behavior when requested symbol cannot be written with font.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextEditOptions](../../com.aspose.pdf/texteditoptions) | TextEditOptions object |
-
-### getTextReplaceOptions() {#getTextReplaceOptions--}
-```
-public TextReplaceOptions getTextReplaceOptions()
-```
-
-
-Gets text replace options. The options define behavior when fragment text is replaced to more short/long.
-
-**Returns:**
-[TextReplaceOptions](../../com.aspose.pdf/textreplaceoptions) - TextReplaceOptions value
-### setTextReplaceOptions(TextReplaceOptions value) {#setTextReplaceOptions-com.aspose.pdf.TextReplaceOptions-}
-```
-public void setTextReplaceOptions(TextReplaceOptions value)
-```
-
-
-Sets text replace options. The options define behavior when fragment text is replaced to more short/long.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextReplaceOptions](../../com.aspose.pdf/textreplaceoptions) | TextReplaceOptions value |
-
-### hasErrors_Fragment() {#hasErrors-Fragment--}
-```
-public boolean hasErrors_Fragment()
-```
-
-
-Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
-
-**Returns:**
-boolean - boolean value
-### getErrors() {#getErrors--}
-```
-public List<TextExtractionError> getErrors()
-```
-
-
-List of  TextExtractionError  objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
-
-**Returns:**
-java.util.List<com.aspose.pdf.TextExtractionError> - List of TextExtractionError objects
-### getText() {#getText--}
-```
-public String getText()
-```
-
-
-Gets extracted text that the  TextAbsorber  extracts on the PDF document or page.
 
 **Returns:**
 java.lang.String
+### visit(IDocument pdf) {#visit-com.aspose.pdf.IDocument-}
+```
+public void visit(IDocument pdf)
+```
+
+
+Performs search on the specified document.
+
+--------------------
+
+```
+The example demonstrates how to find text on PDF document and replace text of all search occurrences.
+
+ // Open document
+ Document doc = new Document("D:\\Tests\\input.pdf");
+ // Find font that will be used to change document text font
+ Font font = FontRepository.findFont("Arial");
+ // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+ // Accept the absorber for first page
+ absorber.visit(doc);
+ // Change text of the first text occurrence
+ absorber.getTextFragments().get_Item(1).setText ( "hi world");
+ // Save document
+ doc.save("D:\\Tests\\output.pdf");
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf | [IDocument](../../com.aspose.pdf/idocument) | PDF document object. |
+
 ### visit(Page page) {#visit-com.aspose.pdf.Page-}
 ```
 public void visit(Page page)
@@ -682,126 +906,6 @@ The example demonstrates how to find text on the first PDF document page and rep
 | --- | --- | --- |
 | page | [Page](../../com.aspose.pdf/page) | PDF document page object. |
 
-### visit(IDocument pdf) {#visit-com.aspose.pdf.IDocument-}
-```
-public void visit(IDocument pdf)
-```
-
-
-Performs search on the specified document.
-
---------------------
-
-```
-The example demonstrates how to find text on PDF document and replace text of all search occurrences.
-
- // Open document
- Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
- Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
- TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- // Accept the absorber for first page
- absorber.visit(doc);
- // Change text of the first text occurrence
- absorber.getTextFragments().get_Item(1).setText ( "hi world");
- // Save document
- doc.save("D:\\Tests\\output.pdf");
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdf | [IDocument](../../com.aspose.pdf/idocument) | PDF document object. |
-
-### applyForAllFragments(Font font) {#applyForAllFragments-com.aspose.pdf.Font-}
-```
-public void applyForAllFragments(Font font)
-```
-
-
-Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | [Font](../../com.aspose.pdf/font) |  Font of the text. |
-
-### applyForAllFragments(float fontSize) {#applyForAllFragments-float-}
-```
-public void applyForAllFragments(float fontSize)
-```
-
-
-Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | float | Font size of the text. |
-
-### applyForAllFragments(Font font, float fontSize) {#applyForAllFragments-com.aspose.pdf.Font-float-}
-```
-public void applyForAllFragments(Font font, float fontSize)
-```
-
-
-Applies font and size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | [Font](../../com.aspose.pdf/font) |  Font of the text. |
-| fontSize | float | Font size of the text. |
-
-### reset() {#reset--}
-```
-public void reset()
-```
-
-
-Clears TextFragments collection of this  TextFragmentAbsorber  object.
-
-### removeAllText(Page page) {#removeAllText-com.aspose.pdf.Page-}
-```
-public void removeAllText(Page page)
-```
-
-
-Removes all text from the specified page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | PDF document page object. |
-
-### removeAllText(Page page, Rectangle rect) {#removeAllText-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
-```
-public final void removeAllText(Page page, Rectangle rect)
-```
-
-
-Removes text inside the specified rectangle from the specified page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | PDF document page object. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | [Rectangle](../../com.aspose.pdf/rectangle) to remove text inside. |
-
-### removeAllText(Document document) {#removeAllText-com.aspose.pdf.Document-}
-```
-public void removeAllText(Document document)
-```
-
-
-Removes all text from the document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | [Document](../../com.aspose.pdf/document) | PDF document object. |
-
 ### visit(XForm xForm) {#visit-com.aspose.pdf.XForm-}
 ```
 public void visit(XForm xForm)
@@ -815,26 +919,38 @@ Performs search on the specified form object.
 | --- | --- | --- |
 | xForm | [XForm](../../com.aspose.pdf/xform) | Pdf form object. |
 
-### getExtractionOptions() {#getExtractionOptions--}
+### wait() {#wait--}
 ```
-public TextExtractionOptions getExtractionOptions()
-```
-
-
-Gets text extraction options.
-
-**Returns:**
-[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) - TextExtractionOptions object
-### setExtractionOptions(TextExtractionOptions value) {#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-}
-```
-public void setExtractionOptions(TextExtractionOptions value)
+public final void wait()
 ```
 
 
-Sets text extraction options.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) | TextExtractionOptions object |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

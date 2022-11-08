@@ -23,14 +23,23 @@ Represents gradient axial shading class.
 
 | Method | Description |
 | --- | --- |
-| [getStart()](#getStart--) | Gets start point. |
-| [setStart(Point value)](#setStart-com.aspose.pdf.Point-) | Sets start point. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getEnd()](#getEnd--) | Gets end point. |
-| [setEnd(Point value)](#setEnd-com.aspose.pdf.Point-) | Sets end point. |
-| [getStartColor()](#getStartColor--) | Gets start color. |
-| [setStartColor(Color value)](#setStartColor-com.aspose.pdf.Color-) | Sets start color. |
 | [getEndColor()](#getEndColor--) | Gets end color. |
+| [getStart()](#getStart--) | Gets start point. |
+| [getStartColor()](#getStartColor--) | Gets start color. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setEnd(Point value)](#setEnd-com.aspose.pdf.Point-) | Sets end point. |
 | [setEndColor(Color value)](#setEndColor-com.aspose.pdf.Color-) | Sets end color. |
+| [setStart(Point value)](#setStart-com.aspose.pdf.Point-) | Sets start point. |
+| [setStartColor(Color value)](#setStartColor-com.aspose.pdf.Color-) | Sets start color. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### GradientAxialShading() {#GradientAxialShading--}
 ```
 public GradientAxialShading()
@@ -53,29 +62,31 @@ Initializes a new instance of the  GradientAxialShading  class.
 | startColor | [Color](../../com.aspose.pdf/color) | The start point. |
 | endColor | [Color](../../com.aspose.pdf/color) | The end point. |
 
-### getStart() {#getStart--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public Point getStart()
-```
-
-
-Gets start point.
-
-**Returns:**
-[Point](../../com.aspose.pdf/point) - Point object
-### setStart(Point value) {#setStart-com.aspose.pdf.Point-}
-```
-public void setStart(Point value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets start point.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Point](../../com.aspose.pdf/point) | Point object |
+| arg0 | java.lang.Object |  |
 
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getEnd() {#getEnd--}
 ```
 public Point getEnd()
@@ -86,6 +97,62 @@ Gets end point.
 
 **Returns:**
 [Point](../../com.aspose.pdf/point) - Point object
+### getEndColor() {#getEndColor--}
+```
+public Color getEndColor()
+```
+
+
+Gets end color.
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - com.aspose.pdf.Color object
+### getStart() {#getStart--}
+```
+public Point getStart()
+```
+
+
+Gets start point.
+
+**Returns:**
+[Point](../../com.aspose.pdf/point) - Point object
+### getStartColor() {#getStartColor--}
+```
+public Color getStartColor()
+```
+
+
+Gets start color.
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - com.aspose.pdf.Color object
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setEnd(Point value) {#setEnd-com.aspose.pdf.Point-}
 ```
 public void setEnd(Point value)
@@ -99,16 +166,32 @@ Sets end point.
 | --- | --- | --- |
 | value | [Point](../../com.aspose.pdf/point) | Point object |
 
-### getStartColor() {#getStartColor--}
+### setEndColor(Color value) {#setEndColor-com.aspose.pdf.Color-}
 ```
-public Color getStartColor()
+public void setEndColor(Color value)
 ```
 
 
-Gets start color.
+Sets end color.
 
-**Returns:**
-[Color](../../com.aspose.pdf/color) - com.aspose.pdf.Color object
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.pdf/color) | com.aspose.pdf.Color object |
+
+### setStart(Point value) {#setStart-com.aspose.pdf.Point-}
+```
+public void setStart(Point value)
+```
+
+
+Sets start point.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Point](../../com.aspose.pdf/point) | Point object |
+
 ### setStartColor(Color value) {#setStartColor-com.aspose.pdf.Color-}
 ```
 public void setStartColor(Color value)
@@ -122,26 +205,48 @@ Sets start color.
 | --- | --- | --- |
 | value | [Color](../../com.aspose.pdf/color) | com.aspose.pdf.Color object |
 
-### getEndColor() {#getEndColor--}
+### toString() {#toString--}
 ```
-public Color getEndColor()
+public String toString()
 ```
 
 
-Gets end color.
+
 
 **Returns:**
-[Color](../../com.aspose.pdf/color) - com.aspose.pdf.Color object
-### setEndColor(Color value) {#setEndColor-com.aspose.pdf.Color-}
+java.lang.String
+### wait() {#wait--}
 ```
-public void setEndColor(Color value)
+public final void wait()
 ```
 
 
-Sets end color.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | com.aspose.pdf.Color object |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

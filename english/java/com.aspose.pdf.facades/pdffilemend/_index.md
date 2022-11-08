@@ -28,19 +28,6 @@ Represents a class for adding texts and images on the pages of existing PDF docu
 
 | Method | Description |
 | --- | --- |
-| [getInputStream()](#getInputStream--) | Gets the input stream. |
-| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | Sets the input stream. |
-| [getOutputStream()](#getOutputStream--) | Gets the output stream. |
-| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | This method is Deprecated. |
-| [getInputFile()](#getInputFile--) | Gets the input file. |
-| [setInputFile(String value)](#setInputFile-java.lang.String-) |  |
-| [getOutputFile()](#getOutputFile--) | Gets the output file. |
-| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | Sets the output file. |
-| [setWordWrap(boolean value)](#setWordWrap-boolean-) | Sets a bool value that indicates word wrap in AddText methods. |
-| [getWrapMode()](#getWrapMode--) | Gets word wrapping algorithm. |
-| [setWrapMode(int value)](#setWrapMode-int-) | Sets word wrapping algorithm. |
-| [getTextPositioningMode()](#getTextPositioningMode--) | Gets text positioning strategy. |
-| [setTextPositioningMode(int value)](#setTextPositioningMode-int-) | Sets text positioning strategy. |
 | [addImage(InputStream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)](#addImage-java.io.InputStream-int-float-float-float-float-) | Adds image to the specified page of PDF document at specified coordinates. |
 | [addImage(InputStream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, CompositingParameters compositingParameters)](#addImage-java.io.InputStream-int-float-float-float-float-com.aspose.pdf.CompositingParameters-) | Adds image to the specified page of PDF document at specified coordinates. |
 | [addImage(InputStream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)](#addImage-java.io.InputStream-int---float-float-float-float-) | Adds image to the specified pages of PDF document at specified coordinates. |
@@ -52,11 +39,38 @@ Represents a class for adding texts and images on the pages of existing PDF docu
 | [addText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY)](#addText-com.aspose.pdf.facades.FormattedText-int-float-float-) | Not implemented. |
 | [addText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)](#addText-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-) | Not implemented. |
 | [addText(FormattedText text, Integer[] pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)](#addText-com.aspose.pdf.facades.FormattedText-java.lang.Integer---float-float-float-float-) | Not implemented. |
+| [bindPdf(IDocument srcDoc)](#bindPdf-com.aspose.pdf.IDocument-) | Initializes the facade. |
+| [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Initializes the facade. |
+| [bindPdf(InputStream srcStream, String password)](#bindPdf-java.io.InputStream-java.lang.String-) | Initializes the facade. |
+| [bindPdf(String srcFile)](#bindPdf-java.lang.String-) | Initializes the facade. |
+| [bindPdf(String srcFile, String password)](#bindPdf-java.lang.String-java.lang.String-) | Initializes the facade. |
 | [close()](#close--) | Closes PdfFileMend object. |
 | [dispose()](#dispose--) | Closes PdfFileMend object. |
-| [save(String destFile)](#save-java.lang.String-) | Saves the PDF document to the specified file. |
-| [save(OutputStream destStream)](#save-java.io.OutputStream-) | Saves the PDF document to the specified file. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getDocument()](#getDocument--) | Gets the document  PdfFileMend  is working on. |
+| [getInputFile()](#getInputFile--) | Gets the input file. |
+| [getInputStream()](#getInputStream--) | Gets the input stream. |
+| [getOutputFile()](#getOutputFile--) | Gets the output file. |
+| [getOutputStream()](#getOutputStream--) | Gets the output stream. |
+| [getTextPositioningMode()](#getTextPositioningMode--) | Gets text positioning strategy. |
+| [getWrapMode()](#getWrapMode--) | Gets word wrapping algorithm. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [save(OutputStream destStream)](#save-java.io.OutputStream-) | Saves the PDF document to the specified file. |
+| [save(String destFile)](#save-java.lang.String-) | Saves the PDF document to the specified file. |
+| [setInputFile(String value)](#setInputFile-java.lang.String-) |  |
+| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | Sets the input stream. |
+| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | Sets the output file. |
+| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | This method is Deprecated. |
+| [setTextPositioningMode(int value)](#setTextPositioningMode-int-) | Sets text positioning strategy. |
+| [setWordWrap(boolean value)](#setWordWrap-boolean-) | Sets a bool value that indicates word wrap in AddText methods. |
+| [setWrapMode(int value)](#setWrapMode-int-) | Sets word wrapping algorithm. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PdfFileMend() {#PdfFileMend--}
 ```
 public PdfFileMend()
@@ -155,157 +169,6 @@ Obsolete("Use constructor without destination.")
 | --- | --- | --- |
 | document | [IDocument](../../com.aspose.pdf/idocument) | Pdf document. |
 | outputStream | com.aspose.ms.System.IO.Stream | Output PDF stream. |
-
-### getInputStream() {#getInputStream--}
-```
-public InputStream getInputStream()
-```
-
-
-Gets the input stream.
-
-**Returns:**
-java.io.InputStream - input stream.
-### setInputStream(InputStream value) {#setInputStream-java.io.InputStream-}
-```
-public void setInputStream(InputStream value)
-```
-
-
-Sets the input stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.io.InputStream | input stream. |
-
-### getOutputStream() {#getOutputStream--}
-```
-public OutputStream getOutputStream()
-```
-
-
-Gets the output stream.
-
-**Returns:**
-java.io.OutputStream - output stream.
-### setOutputStream(OutputStream value) {#setOutputStream-java.io.OutputStream-}
-```
-public void setOutputStream(OutputStream value)
-```
-
-
-This method is Deprecated. Use Save(outputStream) method for getting facade results.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.io.OutputStream | output stream. |
-
-### getInputFile() {#getInputFile--}
-```
-public String getInputFile()
-```
-
-
-Gets the input file.
-
-**Returns:**
-java.lang.String - String value
-### setInputFile(String value) {#setInputFile-java.lang.String-}
-```
-public void setInputFile(String value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
-### getOutputFile() {#getOutputFile--}
-```
-public String getOutputFile()
-```
-
-
-Gets the output file.
-
-**Returns:**
-java.lang.String - String value
-### setOutputFile(String value) {#setOutputFile-java.lang.String-}
-```
-public void setOutputFile(String value)
-```
-
-
-Sets the output file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### setWordWrap(boolean value) {#setWordWrap-boolean-}
-```
-public void setWordWrap(boolean value)
-```
-
-
-Sets a bool value that indicates word wrap in AddText methods. If the value is true, the text in FormattedText will word wrap. By defalt, the value is false.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getWrapMode() {#getWrapMode--}
-```
-public int getWrapMode()
-```
-
-
-Gets word wrapping algorithm.
-
-**Returns:**
-int - WordWrapMode value
-### setWrapMode(int value) {#setWrapMode-int-}
-```
-public void setWrapMode(int value)
-```
-
-
-Sets word wrapping algorithm.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | WordWrapMode element |
-
-### getTextPositioningMode() {#getTextPositioningMode--}
-```
-public int getTextPositioningMode()
-```
-
-
-Gets text positioning strategy.  PositioningMode  Default mode is Legacy.
-
-**Returns:**
-int - PositioningMode element
-### setTextPositioningMode(int value) {#setTextPositioningMode-int-}
-```
-public void setTextPositioningMode(int value)
-```
-
-
-Sets text positioning strategy.  PositioningMode  Default mode is Legacy.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | PositioningMode element |
 
 ### addImage(InputStream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY) {#addImage-java.io.InputStream-int-float-float-float-float-}
 ```
@@ -597,6 +460,73 @@ Not implemented.
 
 **Returns:**
 boolean - True in case text was successfully added.
+### bindPdf(IDocument srcDoc) {#bindPdf-com.aspose.pdf.IDocument-}
+```
+public void bindPdf(IDocument srcDoc)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcDoc | [IDocument](../../com.aspose.pdf/idocument) | The Document object. |
+
+### bindPdf(InputStream srcStream) {#bindPdf-java.io.InputStream-}
+```
+public void bindPdf(InputStream srcStream)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | java.io.InputStream | The stream of PDF file. |
+
+### bindPdf(InputStream srcStream, String password) {#bindPdf-java.io.InputStream-java.lang.String-}
+```
+public void bindPdf(InputStream srcStream, String password)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | java.io.InputStream | The stream of PDF file. |
+| password | java.lang.String | The password of the PDF document. |
+
+### bindPdf(String srcFile) {#bindPdf-java.lang.String-}
+```
+public void bindPdf(String srcFile)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | java.lang.String | The PDF file. |
+
+### bindPdf(String srcFile, String password) {#bindPdf-java.lang.String-java.lang.String-}
+```
+public void bindPdf(String srcFile, String password)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | java.lang.String | The PDF file |
+| password | java.lang.String | The password of the PDF document. |
+
 ### close() {#close--}
 ```
 public void close()
@@ -613,18 +543,126 @@ public void dispose()
 
 Closes PdfFileMend object. This method is obsolete, use close() instead.
 
-### save(String destFile) {#save-java.lang.String-}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public void save(String destFile)
+public boolean equals(Object arg0)
 ```
 
 
-Saves the PDF document to the specified file.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destFile | java.lang.String | The destination file. |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getDocument() {#getDocument--}
+```
+public IDocument getDocument()
+```
+
+
+Gets the document  PdfFileMend  is working on.
+
+**Returns:**
+[IDocument](../../com.aspose.pdf/idocument) - IDocument object
+### getInputFile() {#getInputFile--}
+```
+public String getInputFile()
+```
+
+
+Gets the input file.
+
+**Returns:**
+java.lang.String - String value
+### getInputStream() {#getInputStream--}
+```
+public InputStream getInputStream()
+```
+
+
+Gets the input stream.
+
+**Returns:**
+java.io.InputStream - input stream.
+### getOutputFile() {#getOutputFile--}
+```
+public String getOutputFile()
+```
+
+
+Gets the output file.
+
+**Returns:**
+java.lang.String - String value
+### getOutputStream() {#getOutputStream--}
+```
+public OutputStream getOutputStream()
+```
+
+
+Gets the output stream.
+
+**Returns:**
+java.io.OutputStream - output stream.
+### getTextPositioningMode() {#getTextPositioningMode--}
+```
+public int getTextPositioningMode()
+```
+
+
+Gets text positioning strategy.  PositioningMode  Default mode is Legacy.
+
+**Returns:**
+int - PositioningMode element
+### getWrapMode() {#getWrapMode--}
+```
+public int getWrapMode()
+```
+
+
+Gets word wrapping algorithm.
+
+**Returns:**
+int - WordWrapMode value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### save(OutputStream destStream) {#save-java.io.OutputStream-}
 ```
@@ -639,13 +677,152 @@ Saves the PDF document to the specified file.
 | --- | --- | --- |
 | destStream | java.io.OutputStream | The destination stream. |
 
-### getDocument() {#getDocument--}
+### save(String destFile) {#save-java.lang.String-}
 ```
-public IDocument getDocument()
+public void save(String destFile)
 ```
 
 
-Gets the document  PdfFileMend  is working on.
+Saves the PDF document to the specified file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destFile | java.lang.String | The destination file. |
+
+### setInputFile(String value) {#setInputFile-java.lang.String-}
+```
+public void setInputFile(String value)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
+### setInputStream(InputStream value) {#setInputStream-java.io.InputStream-}
+```
+public void setInputStream(InputStream value)
+```
+
+
+Sets the input stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.io.InputStream | input stream. |
+
+### setOutputFile(String value) {#setOutputFile-java.lang.String-}
+```
+public void setOutputFile(String value)
+```
+
+
+Sets the output file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String value |
+
+### setOutputStream(OutputStream value) {#setOutputStream-java.io.OutputStream-}
+```
+public void setOutputStream(OutputStream value)
+```
+
+
+This method is Deprecated. Use Save(outputStream) method for getting facade results.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.io.OutputStream | output stream. |
+
+### setTextPositioningMode(int value) {#setTextPositioningMode-int-}
+```
+public void setTextPositioningMode(int value)
+```
+
+
+Sets text positioning strategy.  PositioningMode  Default mode is Legacy.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | PositioningMode element |
+
+### setWordWrap(boolean value) {#setWordWrap-boolean-}
+```
+public void setWordWrap(boolean value)
+```
+
+
+Sets a bool value that indicates word wrap in AddText methods. If the value is true, the text in FormattedText will word wrap. By defalt, the value is false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setWrapMode(int value) {#setWrapMode-int-}
+```
+public void setWrapMode(int value)
+```
+
+
+Sets word wrapping algorithm.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | WordWrapMode element |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument object
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

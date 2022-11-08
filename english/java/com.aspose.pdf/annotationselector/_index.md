@@ -26,31 +26,40 @@ This class is used for selecting annotations using Visitor template idea.
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getSelected()](#getSelected--) | The list of selected objects. |
-| [visit(LinkAnnotation link)](#visit-com.aspose.pdf.LinkAnnotation-) | Select link annotation if AnnotationSelector was initialized with LinkAnnotation object. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [visit(CaretAnnotation caret)](#visit-com.aspose.pdf.CaretAnnotation-) | Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object. |
+| [visit(CircleAnnotation circle)](#visit-com.aspose.pdf.CircleAnnotation-) | Select circle annotation if AnnotationSelector was initialized with CircleAnnotation object. |
 | [visit(FileAttachmentAnnotation attachment)](#visit-com.aspose.pdf.FileAttachmentAnnotation-) | Select attachment annotation if AnnotationSelector was initialized with FileAttachmentAnnotation object. |
-| [visit(TextAnnotation text)](#visit-com.aspose.pdf.TextAnnotation-) | Select text annotation if AnnotationSelector was initialized with TextAnnotation object. |
-| [visit(RedactionAnnotation redact)](#visit-com.aspose.pdf.RedactionAnnotation-) | Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object. |
 | [visit(FreeTextAnnotation freetext)](#visit-com.aspose.pdf.FreeTextAnnotation-) | Select freetext annotation if AnnotationSelector was initialized with FreeTextAnnotation object. |
 | [visit(HighlightAnnotation highlight)](#visit-com.aspose.pdf.HighlightAnnotation-) | Select attachment annotation if AnnotationSelector was initialized with FreeTextAnnotation object. |
-| [visit(UnderlineAnnotation underline)](#visit-com.aspose.pdf.UnderlineAnnotation-) | Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object. |
-| [visit(StrikeOutAnnotation strikeOut)](#visit-com.aspose.pdf.StrikeOutAnnotation-) | Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object. |
-| [visit(SquigglyAnnotation squiggly)](#visit-com.aspose.pdf.SquigglyAnnotation-) | Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object. |
-| [visit(PopupAnnotation popup)](#visit-com.aspose.pdf.PopupAnnotation-) | Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object. |
-| [visit(LineAnnotation line)](#visit-com.aspose.pdf.LineAnnotation-) | Select line annotation if AnnotationSelector was initialized with LineAnnotation object. |
-| [visit(CircleAnnotation circle)](#visit-com.aspose.pdf.CircleAnnotation-) | Select circle annotation if AnnotationSelector was initialized with CircleAnnotation object. |
-| [visit(SquareAnnotation square)](#visit-com.aspose.pdf.SquareAnnotation-) | Select square annotation if AnnotationSelector was initialized with SquareAnnotation object. |
 | [visit(InkAnnotation ink)](#visit-com.aspose.pdf.InkAnnotation-) | Select ink annotation if AnnotationSelector was initialized with InkAnnotation object. |
-| [visit(PolylineAnnotation polyline)](#visit-com.aspose.pdf.PolylineAnnotation-) | Select polyline annotation if AnnotationSelector was initialized with PolylineAnnotation object. |
-| [visit(PolygonAnnotation polygon)](#visit-com.aspose.pdf.PolygonAnnotation-) | Select polygon annotation if AnnotationSelector was initialized with PolygonAnnotation object. |
-| [visit(CaretAnnotation caret)](#visit-com.aspose.pdf.CaretAnnotation-) | Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object. |
-| [visit(StampAnnotation stamp)](#visit-com.aspose.pdf.StampAnnotation-) | Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object. |
-| [visit(WidgetAnnotation widget)](#visit-com.aspose.pdf.WidgetAnnotation-) | Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object. |
-| [visit(WatermarkAnnotation watermark)](#visit-com.aspose.pdf.WatermarkAnnotation-) | Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object. |
+| [visit(LineAnnotation line)](#visit-com.aspose.pdf.LineAnnotation-) | Select line annotation if AnnotationSelector was initialized with LineAnnotation object. |
+| [visit(LinkAnnotation link)](#visit-com.aspose.pdf.LinkAnnotation-) | Select link annotation if AnnotationSelector was initialized with LinkAnnotation object. |
 | [visit(MovieAnnotation movie)](#visit-com.aspose.pdf.MovieAnnotation-) | Select movie annotation if AnnotationSelector was initialized with MovieAnnotation object. |
+| [visit(PDF3DAnnotation pdf3D)](#visit-com.aspose.pdf.PDF3DAnnotation-) | Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object. |
+| [visit(PolygonAnnotation polygon)](#visit-com.aspose.pdf.PolygonAnnotation-) | Select polygon annotation if AnnotationSelector was initialized with PolygonAnnotation object. |
+| [visit(PolylineAnnotation polyline)](#visit-com.aspose.pdf.PolylineAnnotation-) | Select polyline annotation if AnnotationSelector was initialized with PolylineAnnotation object. |
+| [visit(PopupAnnotation popup)](#visit-com.aspose.pdf.PopupAnnotation-) | Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object. |
+| [visit(RedactionAnnotation redact)](#visit-com.aspose.pdf.RedactionAnnotation-) | Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object. |
 | [visit(RichMediaAnnotation richMedia)](#visit-com.aspose.pdf.RichMediaAnnotation-) | Select movie annotation if AnnotationSelector was initialized with RichMedia annotation object. |
 | [visit(ScreenAnnotation screen)](#visit-com.aspose.pdf.ScreenAnnotation-) | Select screen annotation if AnnotationSelector was initialized with ScreenAnnotation object. |
-| [visit(PDF3DAnnotation pdf3D)](#visit-com.aspose.pdf.PDF3DAnnotation-) | Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object. |
+| [visit(SquareAnnotation square)](#visit-com.aspose.pdf.SquareAnnotation-) | Select square annotation if AnnotationSelector was initialized with SquareAnnotation object. |
+| [visit(SquigglyAnnotation squiggly)](#visit-com.aspose.pdf.SquigglyAnnotation-) | Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object. |
+| [visit(StampAnnotation stamp)](#visit-com.aspose.pdf.StampAnnotation-) | Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object. |
+| [visit(StrikeOutAnnotation strikeOut)](#visit-com.aspose.pdf.StrikeOutAnnotation-) | Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object. |
+| [visit(TextAnnotation text)](#visit-com.aspose.pdf.TextAnnotation-) | Select text annotation if AnnotationSelector was initialized with TextAnnotation object. |
+| [visit(UnderlineAnnotation underline)](#visit-com.aspose.pdf.UnderlineAnnotation-) | Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object. |
+| [visit(WatermarkAnnotation watermark)](#visit-com.aspose.pdf.WatermarkAnnotation-) | Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object. |
+| [visit(WidgetAnnotation widget)](#visit-com.aspose.pdf.WidgetAnnotation-) | Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### AnnotationSelector() {#AnnotationSelector--}
 ```
 public AnnotationSelector()
@@ -72,6 +81,31 @@ Initializes new  AnnotationSelector  object.
 | --- | --- | --- |
 | annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation to be selected. This object only describes some characteristics we want found annotations to have, e.g. the type of annotation. |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getSelected() {#getSelected--}
 ```
 public List<Annotation> getSelected()
@@ -82,18 +116,67 @@ The list of selected objects.
 
 **Returns:**
 java.util.List<com.aspose.pdf.Annotation> - List of Annotation instances
-### visit(LinkAnnotation link) {#visit-com.aspose.pdf.LinkAnnotation-}
+### hashCode() {#hashCode--}
 ```
-public void visit(LinkAnnotation link)
+public native int hashCode()
 ```
 
 
-Select link annotation if AnnotationSelector was initialized with LinkAnnotation object.
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### visit(CaretAnnotation caret) {#visit-com.aspose.pdf.CaretAnnotation-}
+```
+public void visit(CaretAnnotation caret)
+```
+
+
+Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| link | [LinkAnnotation](../../com.aspose.pdf/linkannotation) | LinkAnnotation object for selecting. |
+| caret | [CaretAnnotation](../../com.aspose.pdf/caretannotation) | CaretAnnotation object for selecting. |
+
+### visit(CircleAnnotation circle) {#visit-com.aspose.pdf.CircleAnnotation-}
+```
+public void visit(CircleAnnotation circle)
+```
+
+
+Select circle annotation if AnnotationSelector was initialized with CircleAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| circle | [CircleAnnotation](../../com.aspose.pdf/circleannotation) | CircleAnnotation object for selecting. |
 
 ### visit(FileAttachmentAnnotation attachment) {#visit-com.aspose.pdf.FileAttachmentAnnotation-}
 ```
@@ -107,32 +190,6 @@ Select attachment annotation if AnnotationSelector was initialized with FileAtta
 | Parameter | Type | Description |
 | --- | --- | --- |
 | attachment | [FileAttachmentAnnotation](../../com.aspose.pdf/fileattachmentannotation) | FileAttachmentAnnotation object for selecting. |
-
-### visit(TextAnnotation text) {#visit-com.aspose.pdf.TextAnnotation-}
-```
-public void visit(TextAnnotation text)
-```
-
-
-Select text annotation if AnnotationSelector was initialized with TextAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | [TextAnnotation](../../com.aspose.pdf/textannotation) | TextAnnotation object for selecting. |
-
-### visit(RedactionAnnotation redact) {#visit-com.aspose.pdf.RedactionAnnotation-}
-```
-public void visit(RedactionAnnotation redact)
-```
-
-
-Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| redact | [RedactionAnnotation](../../com.aspose.pdf/redactionannotation) | RedactAnnotation object for selecting. |
 
 ### visit(FreeTextAnnotation freetext) {#visit-com.aspose.pdf.FreeTextAnnotation-}
 ```
@@ -160,57 +217,18 @@ Select attachment annotation if AnnotationSelector was initialized with FreeText
 | --- | --- | --- |
 | highlight | [HighlightAnnotation](../../com.aspose.pdf/highlightannotation) | HighlightAnnotation object for selecting. |
 
-### visit(UnderlineAnnotation underline) {#visit-com.aspose.pdf.UnderlineAnnotation-}
+### visit(InkAnnotation ink) {#visit-com.aspose.pdf.InkAnnotation-}
 ```
-public void visit(UnderlineAnnotation underline)
+public void visit(InkAnnotation ink)
 ```
 
 
-Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object.
+Select ink annotation if AnnotationSelector was initialized with InkAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| underline | [UnderlineAnnotation](../../com.aspose.pdf/underlineannotation) | UnderlineAnnotation object for selecting. |
-
-### visit(StrikeOutAnnotation strikeOut) {#visit-com.aspose.pdf.StrikeOutAnnotation-}
-```
-public void visit(StrikeOutAnnotation strikeOut)
-```
-
-
-Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| strikeOut | [StrikeOutAnnotation](../../com.aspose.pdf/strikeoutannotation) | StrikeOutAnnotation object for selecting. |
-
-### visit(SquigglyAnnotation squiggly) {#visit-com.aspose.pdf.SquigglyAnnotation-}
-```
-public void visit(SquigglyAnnotation squiggly)
-```
-
-
-Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| squiggly | [SquigglyAnnotation](../../com.aspose.pdf/squigglyannotation) | SquigglyAnnotation object for selecting. |
-
-### visit(PopupAnnotation popup) {#visit-com.aspose.pdf.PopupAnnotation-}
-```
-public void visit(PopupAnnotation popup)
-```
-
-
-Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| popup | [PopupAnnotation](../../com.aspose.pdf/popupannotation) | PopupAnnotation object for selecting. |
+| ink | [InkAnnotation](../../com.aspose.pdf/inkannotation) | InkAnnotation object for selecting. |
 
 ### visit(LineAnnotation line) {#visit-com.aspose.pdf.LineAnnotation-}
 ```
@@ -225,57 +243,44 @@ Select line annotation if AnnotationSelector was initialized with LineAnnotation
 | --- | --- | --- |
 | line | [LineAnnotation](../../com.aspose.pdf/lineannotation) | LineAnnotation object for selecting. |
 
-### visit(CircleAnnotation circle) {#visit-com.aspose.pdf.CircleAnnotation-}
+### visit(LinkAnnotation link) {#visit-com.aspose.pdf.LinkAnnotation-}
 ```
-public void visit(CircleAnnotation circle)
+public void visit(LinkAnnotation link)
 ```
 
 
-Select circle annotation if AnnotationSelector was initialized with CircleAnnotation object.
+Select link annotation if AnnotationSelector was initialized with LinkAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| circle | [CircleAnnotation](../../com.aspose.pdf/circleannotation) | CircleAnnotation object for selecting. |
+| link | [LinkAnnotation](../../com.aspose.pdf/linkannotation) | LinkAnnotation object for selecting. |
 
-### visit(SquareAnnotation square) {#visit-com.aspose.pdf.SquareAnnotation-}
+### visit(MovieAnnotation movie) {#visit-com.aspose.pdf.MovieAnnotation-}
 ```
-public void visit(SquareAnnotation square)
+public void visit(MovieAnnotation movie)
 ```
 
 
-Select square annotation if AnnotationSelector was initialized with SquareAnnotation object.
+Select movie annotation if AnnotationSelector was initialized with MovieAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| square | [SquareAnnotation](../../com.aspose.pdf/squareannotation) | SquareAnnotation object for selecting. |
+| movie | [MovieAnnotation](../../com.aspose.pdf/movieannotation) | MovieAnnotation object for selecting. |
 
-### visit(InkAnnotation ink) {#visit-com.aspose.pdf.InkAnnotation-}
+### visit(PDF3DAnnotation pdf3D) {#visit-com.aspose.pdf.PDF3DAnnotation-}
 ```
-public void visit(InkAnnotation ink)
+public void visit(PDF3DAnnotation pdf3D)
 ```
 
 
-Select ink annotation if AnnotationSelector was initialized with InkAnnotation object.
+Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ink | [InkAnnotation](../../com.aspose.pdf/inkannotation) | InkAnnotation object for selecting. |
-
-### visit(PolylineAnnotation polyline) {#visit-com.aspose.pdf.PolylineAnnotation-}
-```
-public void visit(PolylineAnnotation polyline)
-```
-
-
-Select polyline annotation if AnnotationSelector was initialized with PolylineAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| polyline | [PolylineAnnotation](../../com.aspose.pdf/polylineannotation) | PolylineAnnotation object for selecting. |
+| pdf3D | [PDF3DAnnotation](../../com.aspose.pdf/pdf3dannotation) | PDF3DAnnotation object for selecting. |
 
 ### visit(PolygonAnnotation polygon) {#visit-com.aspose.pdf.PolygonAnnotation-}
 ```
@@ -290,70 +295,44 @@ Select polygon annotation if AnnotationSelector was initialized with PolygonAnno
 | --- | --- | --- |
 | polygon | [PolygonAnnotation](../../com.aspose.pdf/polygonannotation) | PolygonAnnotation object for selecting. |
 
-### visit(CaretAnnotation caret) {#visit-com.aspose.pdf.CaretAnnotation-}
+### visit(PolylineAnnotation polyline) {#visit-com.aspose.pdf.PolylineAnnotation-}
 ```
-public void visit(CaretAnnotation caret)
+public void visit(PolylineAnnotation polyline)
 ```
 
 
-Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object.
+Select polyline annotation if AnnotationSelector was initialized with PolylineAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| caret | [CaretAnnotation](../../com.aspose.pdf/caretannotation) | CaretAnnotation object for selecting. |
+| polyline | [PolylineAnnotation](../../com.aspose.pdf/polylineannotation) | PolylineAnnotation object for selecting. |
 
-### visit(StampAnnotation stamp) {#visit-com.aspose.pdf.StampAnnotation-}
+### visit(PopupAnnotation popup) {#visit-com.aspose.pdf.PopupAnnotation-}
 ```
-public void visit(StampAnnotation stamp)
+public void visit(PopupAnnotation popup)
 ```
 
 
-Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object.
+Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | [StampAnnotation](../../com.aspose.pdf/stampannotation) | StampAnnotation object for selecting. |
+| popup | [PopupAnnotation](../../com.aspose.pdf/popupannotation) | PopupAnnotation object for selecting. |
 
-### visit(WidgetAnnotation widget) {#visit-com.aspose.pdf.WidgetAnnotation-}
+### visit(RedactionAnnotation redact) {#visit-com.aspose.pdf.RedactionAnnotation-}
 ```
-public void visit(WidgetAnnotation widget)
+public void visit(RedactionAnnotation redact)
 ```
 
 
-Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object.
+Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| widget | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | WidgetAnnotation object for selecting. |
-
-### visit(WatermarkAnnotation watermark) {#visit-com.aspose.pdf.WatermarkAnnotation-}
-```
-public void visit(WatermarkAnnotation watermark)
-```
-
-
-Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| watermark | [WatermarkAnnotation](../../com.aspose.pdf/watermarkannotation) | WatermarkAnnotation for selecting. |
-
-### visit(MovieAnnotation movie) {#visit-com.aspose.pdf.MovieAnnotation-}
-```
-public void visit(MovieAnnotation movie)
-```
-
-
-Select movie annotation if AnnotationSelector was initialized with MovieAnnotation object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| movie | [MovieAnnotation](../../com.aspose.pdf/movieannotation) | MovieAnnotation object for selecting. |
+| redact | [RedactionAnnotation](../../com.aspose.pdf/redactionannotation) | RedactAnnotation object for selecting. |
 
 ### visit(RichMediaAnnotation richMedia) {#visit-com.aspose.pdf.RichMediaAnnotation-}
 ```
@@ -381,16 +360,142 @@ Select screen annotation if AnnotationSelector was initialized with ScreenAnnota
 | --- | --- | --- |
 | screen | [ScreenAnnotation](../../com.aspose.pdf/screenannotation) | ScreenAnnotation object for selecting. |
 
-### visit(PDF3DAnnotation pdf3D) {#visit-com.aspose.pdf.PDF3DAnnotation-}
+### visit(SquareAnnotation square) {#visit-com.aspose.pdf.SquareAnnotation-}
 ```
-public void visit(PDF3DAnnotation pdf3D)
+public void visit(SquareAnnotation square)
 ```
 
 
-Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object.
+Select square annotation if AnnotationSelector was initialized with SquareAnnotation object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdf3D | [PDF3DAnnotation](../../com.aspose.pdf/pdf3dannotation) | PDF3DAnnotation object for selecting. |
+| square | [SquareAnnotation](../../com.aspose.pdf/squareannotation) | SquareAnnotation object for selecting. |
+
+### visit(SquigglyAnnotation squiggly) {#visit-com.aspose.pdf.SquigglyAnnotation-}
+```
+public void visit(SquigglyAnnotation squiggly)
+```
+
+
+Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| squiggly | [SquigglyAnnotation](../../com.aspose.pdf/squigglyannotation) | SquigglyAnnotation object for selecting. |
+
+### visit(StampAnnotation stamp) {#visit-com.aspose.pdf.StampAnnotation-}
+```
+public void visit(StampAnnotation stamp)
+```
+
+
+Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stamp | [StampAnnotation](../../com.aspose.pdf/stampannotation) | StampAnnotation object for selecting. |
+
+### visit(StrikeOutAnnotation strikeOut) {#visit-com.aspose.pdf.StrikeOutAnnotation-}
+```
+public void visit(StrikeOutAnnotation strikeOut)
+```
+
+
+Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| strikeOut | [StrikeOutAnnotation](../../com.aspose.pdf/strikeoutannotation) | StrikeOutAnnotation object for selecting. |
+
+### visit(TextAnnotation text) {#visit-com.aspose.pdf.TextAnnotation-}
+```
+public void visit(TextAnnotation text)
+```
+
+
+Select text annotation if AnnotationSelector was initialized with TextAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | [TextAnnotation](../../com.aspose.pdf/textannotation) | TextAnnotation object for selecting. |
+
+### visit(UnderlineAnnotation underline) {#visit-com.aspose.pdf.UnderlineAnnotation-}
+```
+public void visit(UnderlineAnnotation underline)
+```
+
+
+Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| underline | [UnderlineAnnotation](../../com.aspose.pdf/underlineannotation) | UnderlineAnnotation object for selecting. |
+
+### visit(WatermarkAnnotation watermark) {#visit-com.aspose.pdf.WatermarkAnnotation-}
+```
+public void visit(WatermarkAnnotation watermark)
+```
+
+
+Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| watermark | [WatermarkAnnotation](../../com.aspose.pdf/watermarkannotation) | WatermarkAnnotation for selecting. |
+
+### visit(WidgetAnnotation widget) {#visit-com.aspose.pdf.WidgetAnnotation-}
+```
+public void visit(WidgetAnnotation widget)
+```
+
+
+Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| widget | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | WidgetAnnotation object for selecting. |
+
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

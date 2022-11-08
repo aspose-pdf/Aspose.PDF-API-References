@@ -3,7 +3,7 @@ title: PDF3DContent
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DContent.
 type: docs
-weight: 246
+weight: 245
 url: /java/com.aspose.pdf/pdf3dcontent/
 ---
 **Inheritance:**
@@ -23,17 +23,26 @@ Class PDF3DContent.
 
 | Method | Description |
 | --- | --- |
-| [getExtension()](#getExtension--) | Gets the extension . |
-| [load(String filename)](#load-java.lang.String-) | Loads 3D content with the specified filename. |
-| [loadAsPRC(String filename)](#loadAsPRC-java.lang.String-) | Loads 3D content with the specified filename as PRC format. |
-| [loadAsU3D(String filename)](#loadAsU3D-java.lang.String-) | Loads 3D content with the specified filename as U3D format. |
-| [loadAsPRC(InputStream stream)](#loadAsPRC-java.io.InputStream-) | Loads 3D content from stream as PRC format. |
-| [loadAsU3D(InputStream stream)](#loadAsU3D-java.io.InputStream-) | Loads 3D content from stream as U3D format. |
-| [loadAsPRC(byte[] stream)](#loadAsPRC-byte---) | Loads 3D content from byte array as PRC format. |
-| [loadAsU3D(byte[] stream)](#loadAsU3D-byte---) | Loads 3D content from byte array as U3D format. |
-| [saveToFile(String filename)](#saveToFile-java.lang.String-) | Saves 3D content to file. |
-| [getAsStream()](#getAsStream--) | Gets 3D content as stream. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAsByteArray()](#getAsByteArray--) | Gets 3D content as byte array. |
+| [getAsStream()](#getAsStream--) | Gets 3D content as stream. |
+| [getClass()](#getClass--) |  |
+| [getExtension()](#getExtension--) | Gets the extension . |
+| [hashCode()](#hashCode--) |  |
+| [load(String filename)](#load-java.lang.String-) | Loads 3D content with the specified filename. |
+| [loadAsPRC(byte[] stream)](#loadAsPRC-byte---) | Loads 3D content from byte array as PRC format. |
+| [loadAsPRC(InputStream stream)](#loadAsPRC-java.io.InputStream-) | Loads 3D content from stream as PRC format. |
+| [loadAsPRC(String filename)](#loadAsPRC-java.lang.String-) | Loads 3D content with the specified filename as PRC format. |
+| [loadAsU3D(byte[] stream)](#loadAsU3D-byte---) | Loads 3D content from byte array as U3D format. |
+| [loadAsU3D(InputStream stream)](#loadAsU3D-java.io.InputStream-) | Loads 3D content from stream as U3D format. |
+| [loadAsU3D(String filename)](#loadAsU3D-java.lang.String-) | Loads 3D content with the specified filename as U3D format. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [saveToFile(String filename)](#saveToFile-java.lang.String-) | Saves 3D content to file. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PDF3DContent() {#PDF3DContent--}
 ```
 public PDF3DContent()
@@ -55,6 +64,51 @@ Initializes a new instance of the  PDF3DContent  class.
 | --- | --- | --- |
 | filename | java.lang.String | The filename. |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getAsByteArray() {#getAsByteArray--}
+```
+public byte[] getAsByteArray()
+```
+
+
+Gets 3D content as byte array.
+
+**Returns:**
+byte[] - System.Byte[].
+### getAsStream() {#getAsStream--}
+```
+public InputStream getAsStream()
+```
+
+
+Gets 3D content as stream.
+
+**Returns:**
+java.io.InputStream - Stream.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getExtension() {#getExtension--}
 ```
 public String getExtension()
@@ -65,6 +119,16 @@ Gets the extension .
 
 **Returns:**
 java.lang.String - String object: The extension.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
 ### load(String filename) {#load-java.lang.String-}
 ```
 public void load(String filename)
@@ -77,58 +141,6 @@ Loads 3D content with the specified filename.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filename | java.lang.String | The filename. |
-
-### loadAsPRC(String filename) {#loadAsPRC-java.lang.String-}
-```
-public void loadAsPRC(String filename)
-```
-
-
-Loads 3D content with the specified filename as PRC format.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | java.lang.String | The filename. |
-
-### loadAsU3D(String filename) {#loadAsU3D-java.lang.String-}
-```
-public void loadAsU3D(String filename)
-```
-
-
-Loads 3D content with the specified filename as U3D format.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | java.lang.String | The filename. |
-
-### loadAsPRC(InputStream stream) {#loadAsPRC-java.io.InputStream-}
-```
-public void loadAsPRC(InputStream stream)
-```
-
-
-Loads 3D content from stream as PRC format.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | java.io.InputStream | The 3D content stream. |
-
-### loadAsU3D(InputStream stream) {#loadAsU3D-java.io.InputStream-}
-```
-public void loadAsU3D(InputStream stream)
-```
-
-
-Loads 3D content from stream as U3D format.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | java.io.InputStream | The 3D content stream. |
 
 ### loadAsPRC(byte[] stream) {#loadAsPRC-byte---}
 ```
@@ -143,6 +155,32 @@ Loads 3D content from byte array as PRC format.
 | --- | --- | --- |
 | stream | byte[] | The stream. |
 
+### loadAsPRC(InputStream stream) {#loadAsPRC-java.io.InputStream-}
+```
+public void loadAsPRC(InputStream stream)
+```
+
+
+Loads 3D content from stream as PRC format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | The 3D content stream. |
+
+### loadAsPRC(String filename) {#loadAsPRC-java.lang.String-}
+```
+public void loadAsPRC(String filename)
+```
+
+
+Loads 3D content with the specified filename as PRC format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | java.lang.String | The filename. |
+
 ### loadAsU3D(byte[] stream) {#loadAsU3D-byte---}
 ```
 public void loadAsU3D(byte[] stream)
@@ -155,6 +193,48 @@ Loads 3D content from byte array as U3D format.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | byte[] | The stream. |
+
+### loadAsU3D(InputStream stream) {#loadAsU3D-java.io.InputStream-}
+```
+public void loadAsU3D(InputStream stream)
+```
+
+
+Loads 3D content from stream as U3D format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | The 3D content stream. |
+
+### loadAsU3D(String filename) {#loadAsU3D-java.lang.String-}
+```
+public void loadAsU3D(String filename)
+```
+
+
+Loads 3D content with the specified filename as U3D format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | java.lang.String | The filename. |
+
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### saveToFile(String filename) {#saveToFile-java.lang.String-}
 ```
@@ -169,23 +249,48 @@ Saves 3D content to file.
 | --- | --- | --- |
 | filename | java.lang.String | The file name. |
 
-### getAsStream() {#getAsStream--}
+### toString() {#toString--}
 ```
-public InputStream getAsStream()
+public String toString()
 ```
 
 
-Gets 3D content as stream.
+
 
 **Returns:**
-java.io.InputStream - Stream.
-### getAsByteArray() {#getAsByteArray--}
+java.lang.String
+### wait() {#wait--}
 ```
-public byte[] getAsByteArray()
+public final void wait()
 ```
 
 
-Gets 3D content as byte array.
 
-**Returns:**
-byte[] - System.Byte[].
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

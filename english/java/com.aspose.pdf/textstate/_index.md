@@ -3,7 +3,7 @@ title: TextState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text
 type: docs
-weight: 390
+weight: 389
 url: /java/com.aspose.pdf/textstate/
 ---
 **Inheritance:**
@@ -35,46 +35,55 @@ Represents a text state of a text
 | Method | Description |
 | --- | --- |
 | [applyChangesFrom(TextState textState)](#applyChangesFrom-com.aspose.pdf.TextState-) | Applies settings from another textState |
-| [getCharacterSpacing()](#getCharacterSpacing--) | Gets character spacing of the text. |
-| [setCharacterSpacing(float value)](#setCharacterSpacing-float-) | Sets character spacing of the text. |
-| [getLineSpacing()](#getLineSpacing--) | Gets line spacing of the text. |
-| [setLineSpacing(float value)](#setLineSpacing-float-) | Sets line spacing of the text. |
-| [getHorizontalScaling()](#getHorizontalScaling--) | Gets horizontal scaling of the text. |
-| [setHorizontalScaling(float value)](#setHorizontalScaling-float-) | Sets horizontal scaling of the text. |
-| [isSubscript()](#isSubscript--) | Gets or sets subscript of the text. |
-| [setSubscript(boolean value)](#setSubscript-boolean-) | Gets or sets subscript of the text. |
-| [isSuperscript()](#isSuperscript--) | Gets superscript of the text. |
-| [setSuperscript(boolean value)](#setSuperscript-boolean-) | Sets superscript of the text. |
-| [getWordSpacing()](#getWordSpacing--) | Gets word spacing of the text. |
-| [setWordSpacing(float value)](#setWordSpacing-float-) | Sets word spacing of the text. |
-| [isInvisible()](#isInvisible--) | Gets or sets the invisibility of text. |
-| [setInvisible(boolean value)](#setInvisible-boolean-) | Gets or sets the invisibility of text. |
-| [getRenderingMode()](#getRenderingMode--) | Gets or sets rendering mode of text. |
-| [setRenderingMode(int value)](#setRenderingMode-int-) | Gets or sets rendering mode of text. |
-| [getFontSize()](#getFontSize--) | Gets font size of the text. |
-| [setFontSizeSuppressedUpdate(float value)](#setFontSizeSuppressedUpdate-float-) | Sets font size of the text wish suppressed update. |
-| [setFontSize(float value)](#setFontSize-float-) | Sets font size of the text. |
-| [getTextHeight()](#getTextHeight--) | Gets text height. |
-| [getFont()](#getFont--) | Gets font of the text. |
-| [setFontSuppressedUpdate(Font value)](#setFontSuppressedUpdate-com.aspose.pdf.Font-) | Gets font of the text wish suppressed update. |
-| [setFont(Font value)](#setFont-com.aspose.pdf.Font-) | Gets font of the text. |
-| [getForegroundColor()](#getForegroundColor--) | Gets foreground color of the text. |
-| [setForegroundColor(Color value)](#setForegroundColor-com.aspose.pdf.Color-) | Sets foreground color of the text. |
-| [getStrokingColor()](#getStrokingColor--) | Gets or sets foreground color of the text. |
-| [setStrokingColor(Color value)](#setStrokingColor-com.aspose.pdf.Color-) | Gets or sets foreground color of the text. |
-| [isUnderline()](#isUnderline--) | Gets underline for the text, represented by the  TextFragment  object |
-| [setUnderline(boolean value)](#setUnderline-boolean-) | Sets underline for the text, represented by the  TextFragment  object |
-| [getStrikeOut()](#getStrikeOut--) | Gets strikeout for the text, represented by the  TextFragment  object |
-| [setStrikeOut(boolean value)](#setStrikeOut-boolean-) | Sets strikeout for the text, represented by the  TextFragment  object |
-| [getBackgroundColor()](#getBackgroundColor--) | Gets background color of the text. |
-| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets background color of the text. |
-| [getFontStyle()](#getFontStyle--) | Sets font style of the text. |
-| [setFontStyle(int value)](#setFontStyle-int-) | Sets font style of the text. |
-| [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment for the text. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets horizontal alignment for the text. |
-| [measureString(String str, boolean insideLine)](#measureString-java.lang.String-boolean-) | Measures the string. |
-| [measureString(String str)](#measureString-java.lang.String-) | Measures the string. |
 | [calculateFontSize(String str, Rectangle rect)](#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-) | Calculates the font size for the rectangle. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBackgroundColor()](#getBackgroundColor--) | Gets background color of the text. |
+| [getCharacterSpacing()](#getCharacterSpacing--) | Gets character spacing of the text. |
+| [getClass()](#getClass--) |  |
+| [getFont()](#getFont--) | Gets font of the text. |
+| [getFontSize()](#getFontSize--) | Gets font size of the text. |
+| [getFontStyle()](#getFontStyle--) | Sets font style of the text. |
+| [getForegroundColor()](#getForegroundColor--) | Gets foreground color of the text. |
+| [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment for the text. |
+| [getHorizontalScaling()](#getHorizontalScaling--) | Gets horizontal scaling of the text. |
+| [getLineSpacing()](#getLineSpacing--) | Gets line spacing of the text. |
+| [getRenderingMode()](#getRenderingMode--) | Gets or sets rendering mode of text. |
+| [getStrikeOut()](#getStrikeOut--) | Gets strikeout for the text, represented by the  TextFragment  object |
+| [getStrokingColor()](#getStrokingColor--) | Gets or sets foreground color of the text. |
+| [getTextHeight()](#getTextHeight--) | Gets text height. |
+| [getWordSpacing()](#getWordSpacing--) | Gets word spacing of the text. |
+| [hashCode()](#hashCode--) |  |
+| [isInvisible()](#isInvisible--) | Gets or sets the invisibility of text. |
+| [isSubscript()](#isSubscript--) | Gets or sets subscript of the text. |
+| [isSuperscript()](#isSuperscript--) | Gets superscript of the text. |
+| [isUnderline()](#isUnderline--) | Gets underline for the text, represented by the  TextFragment  object |
+| [measureString(String str)](#measureString-java.lang.String-) | Measures the string. |
+| [measureString(String str, boolean insideLine)](#measureString-java.lang.String-boolean-) | Measures the string. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets background color of the text. |
+| [setCharacterSpacing(float value)](#setCharacterSpacing-float-) | Sets character spacing of the text. |
+| [setFont(Font value)](#setFont-com.aspose.pdf.Font-) | Gets font of the text. |
+| [setFontSize(float value)](#setFontSize-float-) | Sets font size of the text. |
+| [setFontSizeSuppressedUpdate(float value)](#setFontSizeSuppressedUpdate-float-) | Sets font size of the text wish suppressed update. |
+| [setFontStyle(int value)](#setFontStyle-int-) | Sets font style of the text. |
+| [setFontSuppressedUpdate(Font value)](#setFontSuppressedUpdate-com.aspose.pdf.Font-) | Gets font of the text wish suppressed update. |
+| [setForegroundColor(Color value)](#setForegroundColor-com.aspose.pdf.Color-) | Sets foreground color of the text. |
+| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets horizontal alignment for the text. |
+| [setHorizontalScaling(float value)](#setHorizontalScaling-float-) | Sets horizontal scaling of the text. |
+| [setInvisible(boolean value)](#setInvisible-boolean-) | Gets or sets the invisibility of text. |
+| [setLineSpacing(float value)](#setLineSpacing-float-) | Sets line spacing of the text. |
+| [setRenderingMode(int value)](#setRenderingMode-int-) | Gets or sets rendering mode of text. |
+| [setStrikeOut(boolean value)](#setStrikeOut-boolean-) | Sets strikeout for the text, represented by the  TextFragment  object |
+| [setStrokingColor(Color value)](#setStrokingColor-com.aspose.pdf.Color-) | Gets or sets foreground color of the text. |
+| [setSubscript(boolean value)](#setSubscript-boolean-) | Gets or sets subscript of the text. |
+| [setSuperscript(boolean value)](#setSuperscript-boolean-) | Sets superscript of the text. |
+| [setUnderline(boolean value)](#setUnderline-boolean-) | Sets underline for the text, represented by the  TextFragment  object |
+| [setWordSpacing(float value)](#setWordSpacing-float-) | Sets word spacing of the text. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextState() {#TextState--}
 ```
 public TextState()
@@ -202,372 +211,37 @@ Only those properties will be copied that were changed explicitly.
 | --- | --- | --- |
 | textState | [TextState](../../com.aspose.pdf/textstate) | Text state object. |
 
-### getCharacterSpacing() {#getCharacterSpacing--}
+### calculateFontSize(String str, Rectangle rect) {#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-}
 ```
-public float getCharacterSpacing()
+public double calculateFontSize(String str, Rectangle rect)
 ```
 
 
-Gets character spacing of the text.
+Calculates the font size for the rectangle.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | java.lang.String | String value |
+| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
 
 **Returns:**
-float - float value
-### setCharacterSpacing(float value) {#setCharacterSpacing-float-}
+double - double value
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public void setCharacterSpacing(float value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets character spacing of the text.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | float value |
-
-### getLineSpacing() {#getLineSpacing--}
-```
-public float getLineSpacing()
-```
-
-
-Gets line spacing of the text.
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-float - float value
-
---------------------
-
-Note that the value is not preserved as a text characteristic within the document. The LineSpacing property getter works for an object in case it was explicitly set previously with LineSpacing setter for those object. The property is used by runtime in context of current generation/modification process.
-### setLineSpacing(float value) {#setLineSpacing-float-}
-```
-public void setLineSpacing(float value)
-```
-
-
-Sets line spacing of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value
-
---------------------
-
-Note that the value is not preserved as a text characteristic within the document. The LineSpacing property getter works for an object in case it was explicitly set previously with LineSpacing setter for those object. The property is used by runtime in context of current generation/modification process. |
-
-### getHorizontalScaling() {#getHorizontalScaling--}
-```
-public float getHorizontalScaling()
-```
-
-
-Gets horizontal scaling of the text.
-
-**Returns:**
-float - float value
-### setHorizontalScaling(float value) {#setHorizontalScaling-float-}
-```
-public void setHorizontalScaling(float value)
-```
-
-
-Sets horizontal scaling of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value |
-
-### isSubscript() {#isSubscript--}
-```
-public boolean isSubscript()
-```
-
-
-Gets or sets subscript of the text.
-
-**Returns:**
-boolean - boolean value
-### setSubscript(boolean value) {#setSubscript-boolean-}
-```
-public void setSubscript(boolean value)
-```
-
-
-Gets or sets subscript of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### isSuperscript() {#isSuperscript--}
-```
-public boolean isSuperscript()
-```
-
-
-Gets superscript of the text.
-
-**Returns:**
-boolean - boolean value
-### setSuperscript(boolean value) {#setSuperscript-boolean-}
-```
-public void setSuperscript(boolean value)
-```
-
-
-Sets superscript of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getWordSpacing() {#getWordSpacing--}
-```
-public float getWordSpacing()
-```
-
-
-Gets word spacing of the text.
-
-**Returns:**
-float - float value
-### setWordSpacing(float value) {#setWordSpacing-float-}
-```
-public void setWordSpacing(float value)
-```
-
-
-Sets word spacing of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value |
-
-### isInvisible() {#isInvisible--}
-```
-public boolean isInvisible()
-```
-
-
-Gets or sets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode\#getRenderingMode/\#setRenderingMode(int)\#setRenderingMode(int)) state, except for some special cases (like clipping).
-
-**Returns:**
-boolean - boolean value
-### setInvisible(boolean value) {#setInvisible-boolean-}
-```
-public void setInvisible(boolean value)
-```
-
-
-Gets or sets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode\#getRenderingMode/\#setRenderingMode(int)\#setRenderingMode(int)) state, except for some special cases (like clipping).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getRenderingMode() {#getRenderingMode--}
-```
-public int getRenderingMode()
-```
-
-
-Gets or sets rendering mode of text.
-
-**Returns:**
-int - TextRenderingMode element
-### setRenderingMode(int value) {#setRenderingMode-int-}
-```
-public void setRenderingMode(int value)
-```
-
-
-Gets or sets rendering mode of text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | TextRenderingMode element |
-
-### getFontSize() {#getFontSize--}
-```
-public float getFontSize()
-```
-
-
-Gets font size of the text.
-
-**Returns:**
-float - float value
-### setFontSizeSuppressedUpdate(float value) {#setFontSizeSuppressedUpdate-float-}
-```
-public void setFontSizeSuppressedUpdate(float value)
-```
-
-
-Sets font size of the text wish suppressed update.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value |
-
-### setFontSize(float value) {#setFontSize-float-}
-```
-public void setFontSize(float value)
-```
-
-
-Sets font size of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value |
-
-### getTextHeight() {#getTextHeight--}
-```
-public float getTextHeight()
-```
-
-
-Gets text height.
-
-**Returns:**
-float - float value
-### getFont() {#getFont--}
-```
-public Font getFont()
-```
-
-
-Gets font of the text.
-
-**Returns:**
-[Font](../../com.aspose.pdf/font) - Font object
-### setFontSuppressedUpdate(Font value) {#setFontSuppressedUpdate-com.aspose.pdf.Font-}
-```
-public void setFontSuppressedUpdate(Font value)
-```
-
-
-Gets font of the text wish suppressed update.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Font](../../com.aspose.pdf/font) | Font object |
-
-### setFont(Font value) {#setFont-com.aspose.pdf.Font-}
-```
-public void setFont(Font value)
-```
-
-
-Gets font of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Font](../../com.aspose.pdf/font) | Font object |
-
-### getForegroundColor() {#getForegroundColor--}
-```
-public Color getForegroundColor()
-```
-
-
-Gets foreground color of the text.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color value
-### setForegroundColor(Color value) {#setForegroundColor-com.aspose.pdf.Color-}
-```
-public void setForegroundColor(Color value)
-```
-
-
-Sets foreground color of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color value |
-
-### getStrokingColor() {#getStrokingColor--}
-```
-public Color getStrokingColor()
-```
-
-
-Gets or sets foreground color of the text.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color instance
-### setStrokingColor(Color value) {#setStrokingColor-com.aspose.pdf.Color-}
-```
-public void setStrokingColor(Color value)
-```
-
-
-Gets or sets foreground color of the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color instance |
-
-### isUnderline() {#isUnderline--}
-```
-public boolean isUnderline()
-```
-
-
-Gets underline for the text, represented by the  TextFragment  object
-
-**Returns:**
-boolean - boolean value
-### setUnderline(boolean value) {#setUnderline-boolean-}
-```
-public void setUnderline(boolean value)
-```
-
-
-Sets underline for the text, represented by the  TextFragment  object
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getStrikeOut() {#getStrikeOut--}
-```
-public boolean getStrikeOut()
-```
-
-
-Gets strikeout for the text, represented by the  TextFragment  object
-
-**Returns:**
-boolean - boolean value
-### setStrikeOut(boolean value) {#setStrikeOut-boolean-}
-```
-public void setStrikeOut(boolean value)
-```
-
-
-Sets strikeout for the text, represented by the  TextFragment  object
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
+boolean
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
 public Color getBackgroundColor()
@@ -582,23 +256,46 @@ Note that the value is not preserved as a text characteristic within the documen
 
 **Returns:**
 [Color](../../com.aspose.pdf/color) - Color value
-### setBackgroundColor(Color value) {#setBackgroundColor-com.aspose.pdf.Color-}
+### getCharacterSpacing() {#getCharacterSpacing--}
 ```
-public void setBackgroundColor(Color value)
+public float getCharacterSpacing()
 ```
 
 
-Sets background color of the text.
+Gets character spacing of the text.
 
---------------------
+**Returns:**
+float - float value
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
 
-Note that the value is not preserved as a text characteristic within the document. The BackgroundColor property getter works for an object in case it was explicitly set previously with BackgroundColor setter for those object. The property is used by runtime in context of current generation/modification process.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color value |
 
+
+**Returns:**
+java.lang.Class<?>
+### getFont() {#getFont--}
+```
+public Font getFont()
+```
+
+
+Gets font of the text.
+
+**Returns:**
+[Font](../../com.aspose.pdf/font) - Font object
+### getFontSize() {#getFontSize--}
+```
+public float getFontSize()
+```
+
+
+Gets font size of the text.
+
+**Returns:**
+float - float value
 ### getFontStyle() {#getFontStyle--}
 ```
 public int getFontStyle()
@@ -609,19 +306,16 @@ Sets font style of the text.
 
 **Returns:**
 int - FontStyles element
-### setFontStyle(int value) {#setFontStyle-int-}
+### getForegroundColor() {#getForegroundColor--}
 ```
-public void setFontStyle(int value)
+public Color getForegroundColor()
 ```
 
 
-Sets font style of the text.
+Gets foreground color of the text.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | FontStyles value |
-
+**Returns:**
+[Color](../../com.aspose.pdf/color) - Color value
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
 public int getHorizontalAlignment()
@@ -636,23 +330,145 @@ HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextSta
 
 **Returns:**
 int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+### getHorizontalScaling() {#getHorizontalScaling--}
 ```
-public void setHorizontalAlignment(int value)
+public float getHorizontalScaling()
 ```
 
 
-Sets horizontal alignment for the text.
+Gets horizontal scaling of the text.
+
+**Returns:**
+float - float value
+### getLineSpacing() {#getLineSpacing--}
+```
+public float getLineSpacing()
+```
+
+
+Gets line spacing of the text.
+
+**Returns:**
+float - float value
 
 --------------------
 
-HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextState.HorizontalAlignment property works in new document generation scenarios only.
+Note that the value is not preserved as a text characteristic within the document. The LineSpacing property getter works for an object in case it was explicitly set previously with LineSpacing setter for those object. The property is used by runtime in context of current generation/modification process.
+### getRenderingMode() {#getRenderingMode--}
+```
+public int getRenderingMode()
+```
+
+
+Gets or sets rendering mode of text.
+
+**Returns:**
+int - TextRenderingMode element
+### getStrikeOut() {#getStrikeOut--}
+```
+public boolean getStrikeOut()
+```
+
+
+Gets strikeout for the text, represented by the  TextFragment  object
+
+**Returns:**
+boolean - boolean value
+### getStrokingColor() {#getStrokingColor--}
+```
+public Color getStrokingColor()
+```
+
+
+Gets or sets foreground color of the text.
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - Color instance
+### getTextHeight() {#getTextHeight--}
+```
+public float getTextHeight()
+```
+
+
+Gets text height.
+
+**Returns:**
+float - float value
+### getWordSpacing() {#getWordSpacing--}
+```
+public float getWordSpacing()
+```
+
+
+Gets word spacing of the text.
+
+**Returns:**
+float - float value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isInvisible() {#isInvisible--}
+```
+public boolean isInvisible()
+```
+
+
+Gets or sets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode.getRenderingMode/\#setRenderingMode(int).setRenderingMode(int)) state, except for some special cases (like clipping).
+
+**Returns:**
+boolean - boolean value
+### isSubscript() {#isSubscript--}
+```
+public boolean isSubscript()
+```
+
+
+Gets or sets subscript of the text.
+
+**Returns:**
+boolean - boolean value
+### isSuperscript() {#isSuperscript--}
+```
+public boolean isSuperscript()
+```
+
+
+Gets superscript of the text.
+
+**Returns:**
+boolean - boolean value
+### isUnderline() {#isUnderline--}
+```
+public boolean isUnderline()
+```
+
+
+Gets underline for the text, represented by the  TextFragment  object
+
+**Returns:**
+boolean - boolean value
+### measureString(String str) {#measureString-java.lang.String-}
+```
+public double measureString(String str)
+```
+
+
+Measures the string.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| str | java.lang.String | The string. |
 
+**Returns:**
+double - Width of the string represented with this text state.
 ### measureString(String str, boolean insideLine) {#measureString-java.lang.String-boolean-}
 ```
 public double measureString(String str, boolean insideLine)
@@ -673,34 +489,323 @@ insideLine indicate that the string is not ending. in case part of the whole str
 
 **Returns:**
 double - double value
-### measureString(String str) {#measureString-java.lang.String-}
+### notify() {#notify--}
 ```
-public double measureString(String str)
+public final native void notify()
 ```
 
 
-Measures the string.
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setBackgroundColor(Color value) {#setBackgroundColor-com.aspose.pdf.Color-}
+```
+public void setBackgroundColor(Color value)
+```
+
+
+Sets background color of the text.
+
+--------------------
+
+Note that the value is not preserved as a text characteristic within the document. The BackgroundColor property getter works for an object in case it was explicitly set previously with BackgroundColor setter for those object. The property is used by runtime in context of current generation/modification process.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | java.lang.String | The string. |
+| value | [Color](../../com.aspose.pdf/color) | Color value |
 
-**Returns:**
-double - Width of the string represented with this text state.
-### calculateFontSize(String str, Rectangle rect) {#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-}
+### setCharacterSpacing(float value) {#setCharacterSpacing-float-}
 ```
-public double calculateFontSize(String str, Rectangle rect)
+public void setCharacterSpacing(float value)
 ```
 
 
-Calculates the font size for the rectangle.
+Sets character spacing of the text.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | java.lang.String | String value |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
+| value | float | float value |
+
+### setFont(Font value) {#setFont-com.aspose.pdf.Font-}
+```
+public void setFont(Font value)
+```
+
+
+Gets font of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Font](../../com.aspose.pdf/font) | Font object |
+
+### setFontSize(float value) {#setFontSize-float-}
+```
+public void setFontSize(float value)
+```
+
+
+Sets font size of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | float value |
+
+### setFontSizeSuppressedUpdate(float value) {#setFontSizeSuppressedUpdate-float-}
+```
+public void setFontSizeSuppressedUpdate(float value)
+```
+
+
+Sets font size of the text wish suppressed update.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | float value |
+
+### setFontStyle(int value) {#setFontStyle-int-}
+```
+public void setFontStyle(int value)
+```
+
+
+Sets font style of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | FontStyles value |
+
+### setFontSuppressedUpdate(Font value) {#setFontSuppressedUpdate-com.aspose.pdf.Font-}
+```
+public void setFontSuppressedUpdate(Font value)
+```
+
+
+Gets font of the text wish suppressed update.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Font](../../com.aspose.pdf/font) | Font object |
+
+### setForegroundColor(Color value) {#setForegroundColor-com.aspose.pdf.Color-}
+```
+public void setForegroundColor(Color value)
+```
+
+
+Sets foreground color of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.pdf/color) | Color value |
+
+### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+```
+public void setHorizontalAlignment(int value)
+```
+
+
+Sets horizontal alignment for the text.
+
+--------------------
+
+HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextState.HorizontalAlignment property works in new document generation scenarios only.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | HorizontalAlignment value |
+
+### setHorizontalScaling(float value) {#setHorizontalScaling-float-}
+```
+public void setHorizontalScaling(float value)
+```
+
+
+Sets horizontal scaling of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | float value |
+
+### setInvisible(boolean value) {#setInvisible-boolean-}
+```
+public void setInvisible(boolean value)
+```
+
+
+Gets or sets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode.getRenderingMode/\#setRenderingMode(int).setRenderingMode(int)) state, except for some special cases (like clipping).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setLineSpacing(float value) {#setLineSpacing-float-}
+```
+public void setLineSpacing(float value)
+```
+
+
+Sets line spacing of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | float value
+
+--------------------
+
+Note that the value is not preserved as a text characteristic within the document. The LineSpacing property getter works for an object in case it was explicitly set previously with LineSpacing setter for those object. The property is used by runtime in context of current generation/modification process. |
+
+### setRenderingMode(int value) {#setRenderingMode-int-}
+```
+public void setRenderingMode(int value)
+```
+
+
+Gets or sets rendering mode of text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | TextRenderingMode element |
+
+### setStrikeOut(boolean value) {#setStrikeOut-boolean-}
+```
+public void setStrikeOut(boolean value)
+```
+
+
+Sets strikeout for the text, represented by the  TextFragment  object
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setStrokingColor(Color value) {#setStrokingColor-com.aspose.pdf.Color-}
+```
+public void setStrokingColor(Color value)
+```
+
+
+Gets or sets foreground color of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.pdf/color) | Color instance |
+
+### setSubscript(boolean value) {#setSubscript-boolean-}
+```
+public void setSubscript(boolean value)
+```
+
+
+Gets or sets subscript of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setSuperscript(boolean value) {#setSuperscript-boolean-}
+```
+public void setSuperscript(boolean value)
+```
+
+
+Sets superscript of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setUnderline(boolean value) {#setUnderline-boolean-}
+```
+public void setUnderline(boolean value)
+```
+
+
+Sets underline for the text, represented by the  TextFragment  object
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setWordSpacing(float value) {#setWordSpacing-float-}
+```
+public void setWordSpacing(float value)
+```
+
+
+Sets word spacing of the text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | float value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-double - double value
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
