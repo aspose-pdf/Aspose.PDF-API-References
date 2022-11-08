@@ -1,7 +1,7 @@
 ---
 title: XYZExplicitDestination
 second_title: Aspose.PDF for Java API Reference
-description: Represents explicit destination that displays the page with the coordinates left top positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom.
+description: Represents explicit destination that displays the page with the coordinates leftÂ top positioned at the upper left corner of the window and the contents of the page magnified by the factor zoom.
 type: docs
 weight: 411
 url: /java/com.aspose.pdf/xyzexplicitdestination/
@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.pdf.ExplicitDestination](../../com.aspose.pdf/expl
 public final class XYZExplicitDestination extends ExplicitDestination
 ```
 
-Represents explicit destination that displays the page with the coordinates (left, top) positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom. A null value for any of the parameters left, top, or zoom specifies that the current value of that parameter is to be retained unchanged. A zoom value of 0 has the same meaning as a null value.
+Represents explicit destination that displays the page with the coordinates (left,Â top) positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom. A null value for any of the parameters left, top, or zoom specifies that the current value of that parameter is to be retained unchanged. A zoom value of 0 has the same meaning as a null value.
 
 --------------------
 
