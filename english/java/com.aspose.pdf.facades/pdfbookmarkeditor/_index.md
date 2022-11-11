@@ -23,25 +23,43 @@ Represents a class to work with PDF file's bookmarks including create, modify, e
 
 | Method | Description |
 | --- | --- |
-| [createBookmarks()](#createBookmarks--) | Creates bookmarks for all pages. |
+| [bindPdf(IDocument srcDoc)](#bindPdf-com.aspose.pdf.IDocument-) | Initializes the facade. |
+| [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Initializes the facade. |
+| [bindPdf(InputStream srcStream, String password)](#bindPdf-java.io.InputStream-java.lang.String-) | Initializes the facade. |
+| [bindPdf(String srcFile)](#bindPdf-java.lang.String-) | Initializes the facade. |
+| [bindPdf(String srcFile, String password)](#bindPdf-java.lang.String-java.lang.String-) | Initializes the facade. |
+| [close()](#close--) | Close the instance of PdfBookmarkEditor and release the resources. |
 | [createBookmarkOfPage(String bookmarkName, int pageNumber)](#createBookmarkOfPage-java.lang.String-int-) | Creates bookmark for the specified page. |
+| [createBookmarkOfPage(String[] bookmarkName, int[] pageNumber)](#createBookmarkOfPage-java.lang.String---int---) | Creates bookmarks for the specified pages. |
+| [createBookmarks()](#createBookmarks--) | Creates bookmarks for all pages. |
 | [createBookmarks(Bookmark bookmark)](#createBookmarks-com.aspose.pdf.facades.Bookmark-) | Creates the specified bookmark in the document. |
 | [createBookmarks(Color color, boolean boldFlag, boolean italicFlag)](#createBookmarks-java.awt.Color-boolean-boolean-) | Create bookmarks for all pages with specified color and style (bold, italic). |
-| [createBookmarkOfPage(String[] bookmarkName, int[] pageNumber)](#createBookmarkOfPage-java.lang.String---int---) | Creates bookmarks for the specified pages. |
 | [deleteBookmarks()](#deleteBookmarks--) | Deletes all bookmarks of the PDF document. |
 | [deleteBookmarks(String title)](#deleteBookmarks-java.lang.String-) | Deletes the bookmark of the PDF document. |
-| [modifyBookmarks(String sTitle, String dTitle)](#modifyBookmarks-java.lang.String-java.lang.String-) | Modifys bookmark title according to the specified bookmark title. |
+| [dispose()](#dispose--) | Disposes the facade. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [exportBookmarksToHtml(String inPdfFile, String outHtmlFile)](#exportBookmarksToHtml-java.lang.String-java.lang.String-) | Exports bookmarks to HTML file. |
+| [exportBookmarksToXML(OutputStream output)](#exportBookmarksToXML-java.io.OutputStream-) | Exports bookmarks to XML stream. |
+| [exportBookmarksToXML(String xmlFile)](#exportBookmarksToXML-java.lang.String-) | Exports bookmarks to XML file. |
 | [extractBookmarks()](#extractBookmarks--) | Extracts bookmarks of all levels from the document. |
 | [extractBookmarks(boolean upperLevel)](#extractBookmarks-boolean-) | Extracts bookmarks of all levels from the document. |
-| [extractBookmarks(String title)](#extractBookmarks-java.lang.String-) | Extracts the bookmarks with the specified title. |
 | [extractBookmarks(Bookmark bookmark)](#extractBookmarks-com.aspose.pdf.facades.Bookmark-) | Extracts the children of a bookmark with a title like in specified bookamrk. |
+| [extractBookmarks(String title)](#extractBookmarks-java.lang.String-) | Extracts the bookmarks with the specified title. |
 | [extractBookmarksToHTML(String pdfFile, String cssFile)](#extractBookmarksToHTML-java.lang.String-java.lang.String-) | Exports bookmarks to HTML file. |
-| [exportBookmarksToXML(String xmlFile)](#exportBookmarksToXML-java.lang.String-) | Exports bookmarks to XML file. |
-| [exportBookmarksToXML(OutputStream output)](#exportBookmarksToXML-java.io.OutputStream-) | Exports bookmarks to XML stream. |
-| [importBookmarksWithXML(String xmlFile)](#importBookmarksWithXML-java.lang.String-) | Imports bookmarks to the document from XML file. |
+| [getClass()](#getClass--) |  |
+| [getDocument()](#getDocument--) | Gets the document facade is working on. |
+| [hashCode()](#hashCode--) |  |
 | [importBookmarksWithXML(InputStream stream)](#importBookmarksWithXML-java.io.InputStream-) | Imports bookmarks to the document from XML file. |
-| [exportBookmarksToHtml(String inPdfFile, String outHtmlFile)](#exportBookmarksToHtml-java.lang.String-java.lang.String-) | Exports bookmarks to HTML file. |
-| [close()](#close--) | Close the instance of PdfBookmarkEditor and release the resources. |
+| [importBookmarksWithXML(String xmlFile)](#importBookmarksWithXML-java.lang.String-) | Imports bookmarks to the document from XML file. |
+| [modifyBookmarks(String sTitle, String dTitle)](#modifyBookmarks-java.lang.String-java.lang.String-) | Modifys bookmark title according to the specified bookmark title. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [save(OutputStream destStream)](#save-java.io.OutputStream-) | Saves the PDF document to the specified stream. |
+| [save(String destFile)](#save-java.lang.String-) | Saves the PDF document to the specified file. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PdfBookmarkEditor() {#PdfBookmarkEditor--}
 ```
 public PdfBookmarkEditor()
@@ -63,22 +81,80 @@ Initializes new  PdfBookmarkEditor  object on base of the  document .
 | --- | --- | --- |
 | document | [IDocument](../../com.aspose.pdf/idocument) | Pdf document. |
 
-### createBookmarks() {#createBookmarks--}
+### bindPdf(IDocument srcDoc) {#bindPdf-com.aspose.pdf.IDocument-}
 ```
-public void createBookmarks()
+public void bindPdf(IDocument srcDoc)
 ```
 
 
-Creates bookmarks for all pages.
+Initializes the facade.
 
---------------------
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcDoc | [IDocument](../../com.aspose.pdf/idocument) | The Document object. |
 
+### bindPdf(InputStream srcStream) {#bindPdf-java.io.InputStream-}
 ```
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
- editor.bindPdf("example.pdf");
- editor.createBookmarks();
- editor.save("example_out.pdf");
+public void bindPdf(InputStream srcStream)
 ```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | java.io.InputStream | The stream of PDF file. |
+
+### bindPdf(InputStream srcStream, String password) {#bindPdf-java.io.InputStream-java.lang.String-}
+```
+public void bindPdf(InputStream srcStream, String password)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | java.io.InputStream | The stream of PDF file. |
+| password | java.lang.String | The password of the PDF document. |
+
+### bindPdf(String srcFile) {#bindPdf-java.lang.String-}
+```
+public void bindPdf(String srcFile)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | java.lang.String | The PDF file. |
+
+### bindPdf(String srcFile, String password) {#bindPdf-java.lang.String-java.lang.String-}
+```
+public void bindPdf(String srcFile, String password)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | java.lang.String | The PDF file |
+| password | java.lang.String | The password of the PDF document. |
+
+### close() {#close--}
+```
+public void close()
+```
+
+
+Close the instance of PdfBookmarkEditor and release the resources.
 
 ### createBookmarkOfPage(String bookmarkName, int pageNumber) {#createBookmarkOfPage-java.lang.String-int-}
 ```
@@ -102,6 +178,46 @@ PdfBookmarkEditor editor = new PdfBookmarkEditor();
 | --- | --- | --- |
 | bookmarkName | java.lang.String | The specified bookmark name. |
 | pageNumber | int | The specified desination page. |
+
+### createBookmarkOfPage(String[] bookmarkName, int[] pageNumber) {#createBookmarkOfPage-java.lang.String---int---}
+```
+public void createBookmarkOfPage(String[] bookmarkName, int[] pageNumber)
+```
+
+
+Creates bookmarks for the specified pages.
+
+--------------------
+
+```
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+ editor.bindPdf("example.pdf");
+ editor.createBookmarkOfPage("bookmark for page 1", 1);
+ editor.save("example_out.pdf");
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bookmarkName | java.lang.String[] | Bookmarks title array. |
+| pageNumber | int[] | Bookmarks desination page array. |
+
+### createBookmarks() {#createBookmarks--}
+```
+public void createBookmarks()
+```
+
+
+Creates bookmarks for all pages.
+
+--------------------
+
+```
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+ editor.bindPdf("example.pdf");
+ editor.createBookmarks();
+ editor.save("example_out.pdf");
+```
 
 ### createBookmarks(Bookmark bookmark) {#createBookmarks-com.aspose.pdf.facades.Bookmark-}
 ```
@@ -163,29 +279,6 @@ PdfBookmarkEditor editor = new PdfBookmarkEditor();
 | boldFlag | boolean | The flag of bold attribution. |
 | italicFlag | boolean | The flag of italic attribution. |
 
-### createBookmarkOfPage(String[] bookmarkName, int[] pageNumber) {#createBookmarkOfPage-java.lang.String---int---}
-```
-public void createBookmarkOfPage(String[] bookmarkName, int[] pageNumber)
-```
-
-
-Creates bookmarks for the specified pages.
-
---------------------
-
-```
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
- editor.bindPdf("example.pdf");
- editor.createBookmarkOfPage("bookmark for page 1", 1);
- editor.save("example_out.pdf");
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bookmarkName | java.lang.String[] | Bookmarks title array. |
-| pageNumber | int[] | Bookmarks desination page array. |
-
 ### deleteBookmarks() {#deleteBookmarks--}
 ```
 public void deleteBookmarks()
@@ -225,28 +318,84 @@ PdfBookmarkEditor editor = new PdfBookmarkEditor();
 | --- | --- | --- |
 | title | java.lang.String | The title of bookmark deleted. |
 
-### modifyBookmarks(String sTitle, String dTitle) {#modifyBookmarks-java.lang.String-java.lang.String-}
+### dispose() {#dispose--}
 ```
-public void modifyBookmarks(String sTitle, String dTitle)
+public void dispose()
 ```
 
 
-Modifys bookmark title according to the specified bookmark title.
+Disposes the facade.
+
+This method is obsolete, use close() instead.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### exportBookmarksToHtml(String inPdfFile, String outHtmlFile) {#exportBookmarksToHtml-java.lang.String-java.lang.String-}
+```
+public static void exportBookmarksToHtml(String inPdfFile, String outHtmlFile)
+```
+
+
+Exports bookmarks to HTML file.
+
+--------------------
+
+```
+PdfBookmarkEditor.extractBookmarksToHTML("example.pdf", "bookmarks.html");
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inPdfFile | java.lang.String | Input PDF file which bookmarks will be exported. |
+| outHtmlFile | java.lang.String | Output HTML file |
+
+### exportBookmarksToXML(OutputStream output) {#exportBookmarksToXML-java.io.OutputStream-}
+```
+public void exportBookmarksToXML(OutputStream output)
+```
+
+
+Exports bookmarks to XML stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| output | java.io.OutputStream | Output stream where data will be stored. |
+
+### exportBookmarksToXML(String xmlFile) {#exportBookmarksToXML-java.lang.String-}
+```
+public void exportBookmarksToXML(String xmlFile)
+```
+
+
+Exports bookmarks to XML file.
 
 --------------------
 
 ```
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
  editor.bindPdf("example.pdf");
- editor.modifyBookmarks("existing bookmark title", "new bookmark title");
- editor.save("example_out.pdf");
+ editor.exportBookmarksToXML("bookmarks.xml");
 ```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sTitle | java.lang.String | Source bookmark title. |
-| dTitle | java.lang.String | Modified bookmark title. |
+| xmlFile | java.lang.String | The output XML file. |
 
 ### extractBookmarks() {#extractBookmarks--}
 ```
@@ -283,33 +432,6 @@ Extracts bookmarks of all levels from the document.
 
 **Returns:**
 [Bookmarks](../../com.aspose.pdf.facades/bookmarks) - List of extracted bookmarks.
-### extractBookmarks(String title) {#extractBookmarks-java.lang.String-}
-```
-public Bookmarks extractBookmarks(String title)
-```
-
-
-Extracts the bookmarks with the specified title.
-
---------------------
-
-```
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-  editor.bindPdf("example.pdf");
- 	Bookmarks bms = editor.ExtractBookmarks("Title");
-  for(Bookmark bm : ```
-(Iterable)
-```bms)
-      System.out.println(bm.Title);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| title | java.lang.String | Extracted item title. |
-
-**Returns:**
-[Bookmarks](../../com.aspose.pdf.facades/bookmarks) - Bookmark object collection has items with the same title.
 ### extractBookmarks(Bookmark bookmark) {#extractBookmarks-com.aspose.pdf.facades.Bookmark-}
 ```
 public Bookmarks extractBookmarks(Bookmark bookmark)
@@ -339,6 +461,33 @@ PdfBookmarkEditor editor = new PdfBookmarkEditor();
 
 **Returns:**
 [Bookmarks](../../com.aspose.pdf.facades/bookmarks) - Bookmark collection with child bookmarks.
+### extractBookmarks(String title) {#extractBookmarks-java.lang.String-}
+```
+public Bookmarks extractBookmarks(String title)
+```
+
+
+Extracts the bookmarks with the specified title.
+
+--------------------
+
+```
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+  editor.bindPdf("example.pdf");
+ 	Bookmarks bms = editor.ExtractBookmarks("Title");
+  for(Bookmark bm : ```
+(Iterable)
+```bms)
+      System.out.println(bm.Title);
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| title | java.lang.String | Extracted item title. |
+
+**Returns:**
+[Bookmarks](../../com.aspose.pdf.facades/bookmarks) - Bookmark object collection has items with the same title.
 ### extractBookmarksToHTML(String pdfFile, String cssFile) {#extractBookmarksToHTML-java.lang.String-java.lang.String-}
 ```
 public void extractBookmarksToHTML(String pdfFile, String cssFile)
@@ -360,39 +509,48 @@ PdfBookmarkEditor editor = new PdfBookmarkEditor();
 | pdfFile | java.lang.String | The PDF file which bookmarks will be exported. |
 | cssFile | java.lang.String | The CSS file to display HTML file, can be null. |
 
-### exportBookmarksToXML(String xmlFile) {#exportBookmarksToXML-java.lang.String-}
+### getClass() {#getClass--}
 ```
-public void exportBookmarksToXML(String xmlFile)
+public final native Class<?> getClass()
 ```
 
 
-Exports bookmarks to XML file.
 
---------------------
 
+**Returns:**
+java.lang.Class<?>
+### getDocument() {#getDocument--}
 ```
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
- editor.bindPdf("example.pdf");
- editor.exportBookmarksToXML("bookmarks.xml");
+public IDocument getDocument()
 ```
+
+
+Gets the document facade is working on.
+
+**Returns:**
+[IDocument](../../com.aspose.pdf/idocument) - IDocument element
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### importBookmarksWithXML(InputStream stream) {#importBookmarksWithXML-java.io.InputStream-}
+```
+public void importBookmarksWithXML(InputStream stream)
+```
+
+
+Imports bookmarks to the document from XML file.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlFile | java.lang.String | The output XML file. |
-
-### exportBookmarksToXML(OutputStream output) {#exportBookmarksToXML-java.io.OutputStream-}
-```
-public void exportBookmarksToXML(OutputStream output)
-```
-
-
-Exports bookmarks to XML stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| output | java.io.OutputStream | Output stream where data will be stored. |
+| stream | java.io.InputStream | Stream with bookmarks data. |
 
 ### importBookmarksWithXML(String xmlFile) {#importBookmarksWithXML-java.lang.String-}
 ```
@@ -416,44 +574,113 @@ PdfBookmarkEditor editor = new PdfBookmarkEditor();
 | --- | --- | --- |
 | xmlFile | java.lang.String | The XML file containing bookmarks list. |
 
-### importBookmarksWithXML(InputStream stream) {#importBookmarksWithXML-java.io.InputStream-}
+### modifyBookmarks(String sTitle, String dTitle) {#modifyBookmarks-java.lang.String-java.lang.String-}
 ```
-public void importBookmarksWithXML(InputStream stream)
-```
-
-
-Imports bookmarks to the document from XML file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | java.io.InputStream | Stream with bookmarks data. |
-
-### exportBookmarksToHtml(String inPdfFile, String outHtmlFile) {#exportBookmarksToHtml-java.lang.String-java.lang.String-}
-```
-public static void exportBookmarksToHtml(String inPdfFile, String outHtmlFile)
+public void modifyBookmarks(String sTitle, String dTitle)
 ```
 
 
-Exports bookmarks to HTML file.
+Modifys bookmark title according to the specified bookmark title.
 
 --------------------
 
 ```
-PdfBookmarkEditor.extractBookmarksToHTML("example.pdf", "bookmarks.html");
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+ editor.bindPdf("example.pdf");
+ editor.modifyBookmarks("existing bookmark title", "new bookmark title");
+ editor.save("example_out.pdf");
 ```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inPdfFile | java.lang.String | Input PDF file which bookmarks will be exported. |
-| outHtmlFile | java.lang.String | Output HTML file |
+| sTitle | java.lang.String | Source bookmark title. |
+| dTitle | java.lang.String | Modified bookmark title. |
 
-### close() {#close--}
+### notify() {#notify--}
 ```
-public void close()
+public final native void notify()
 ```
 
 
-Close the instance of PdfBookmarkEditor and release the resources.
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### save(OutputStream destStream) {#save-java.io.OutputStream-}
+```
+public void save(OutputStream destStream)
+```
+
+
+Saves the PDF document to the specified stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destStream | java.io.OutputStream | The destination stream. |
+
+### save(String destFile) {#save-java.lang.String-}
+```
+public void save(String destFile)
+```
+
+
+Saves the PDF document to the specified file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destFile | java.lang.String | The destination file. |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

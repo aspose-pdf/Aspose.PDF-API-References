@@ -3,7 +3,7 @@ title: IPipelineOptions
 second_title: Aspose.PDF for Java API Reference
 description: Defines conversion options related to pipeline configuration.
 type: docs
-weight: 440
+weight: 439
 url: /java/com.aspose.pdf/ipipelineoptions/
 ---```
 public interface IPipelineOptions

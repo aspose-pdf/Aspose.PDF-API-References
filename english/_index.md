@@ -47,7 +47,7 @@ Aspose.PDF is a Android via Java component built to allow developers to create P
 {{% /alert %}}
 
 These are links to some useful resources:
-- [Aspose.PDF for Android via Java API Reference](/pdf/android/)
+- [Aspose.PDF for Android via Java API Reference](/pdf/androidjava/)
 
 
 ## Aspose.PDF for C++

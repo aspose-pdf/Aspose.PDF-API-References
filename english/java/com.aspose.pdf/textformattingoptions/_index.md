@@ -3,7 +3,7 @@ title: TextFormattingOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text formatting options
 type: docs
-weight: 372
+weight: 371
 url: /java/com.aspose.pdf/textformattingoptions/
 ---
 **Inheritance:**
@@ -23,16 +23,25 @@ Represents text formatting options
 
 | Method | Description |
 | --- | --- |
-| [getWrapMode()](#getWrapMode--) | Gets word wrap mode. |
-| [setWrapMode(int value)](#setWrapMode-int-) | Sets word wrap mode. |
-| [getLineSpacing()](#getLineSpacing--) | Gets line spacing mode. |
-| [setLineSpacing(int value)](#setLineSpacing-int-) | Sets line spacing mode. |
-| [getHyphenSymbol()](#getHyphenSymbol--) | Gets or sets hyphen symbol that is used in hyphenation process. |
-| [setHyphenSymbol(String value)](#setHyphenSymbol-java.lang.String-) | Gets or sets hyphen symbol that is used in hyphenation process. |
-| [getSubsequentLinesIndent()](#getSubsequentLinesIndent--) | Gets or sets subsequent lines indent value. |
-| [setSubsequentLinesIndent(float value)](#setSubsequentLinesIndent-float-) | Gets or sets subsequent lines indent value. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getFirstLineIndent()](#getFirstLineIndent--) | Gets or sets first line indent value. |
+| [getHyphenSymbol()](#getHyphenSymbol--) | Gets or sets hyphen symbol that is used in hyphenation process. |
+| [getLineSpacing()](#getLineSpacing--) | Gets line spacing mode. |
+| [getSubsequentLinesIndent()](#getSubsequentLinesIndent--) | Gets or sets subsequent lines indent value. |
+| [getWrapMode()](#getWrapMode--) | Gets word wrap mode. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setFirstLineIndent(float value)](#setFirstLineIndent-float-) | Gets or sets first line indent value. |
+| [setHyphenSymbol(String value)](#setHyphenSymbol-java.lang.String-) | Gets or sets hyphen symbol that is used in hyphenation process. |
+| [setLineSpacing(int value)](#setLineSpacing-int-) | Sets line spacing mode. |
+| [setSubsequentLinesIndent(float value)](#setSubsequentLinesIndent-float-) | Gets or sets subsequent lines indent value. |
+| [setWrapMode(int value)](#setWrapMode-int-) | Sets word wrap mode. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextFormattingOptions(int wrapMode) {#TextFormattingOptions-int-}
 ```
 public TextFormattingOptions(int wrapMode)
@@ -54,52 +63,41 @@ public TextFormattingOptions()
 
 Initializes new instance of the  TextFormattingOptions  object with undefined word wrap mode.
 
-### getWrapMode() {#getWrapMode--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public int getWrapMode()
-```
-
-
-Gets word wrap mode. Default value is WordWrapMode.NoWrap
-
-**Returns:**
-int - WordWrapMode value
-### setWrapMode(int value) {#setWrapMode-int-}
-```
-public void setWrapMode(int value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets word wrap mode. Default value is WordWrapMode.NoWrap
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | WordWrapMode value |
-
-### getLineSpacing() {#getLineSpacing--}
-```
-public int getLineSpacing()
-```
-
-
-Gets line spacing mode. Default value is LineSpacingMode.FontSize
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-int - int value
-### setLineSpacing(int value) {#setLineSpacing-int-}
+boolean
+### getClass() {#getClass--}
 ```
-public void setLineSpacing(int value)
+public final native Class<?> getClass()
 ```
 
 
-Sets line spacing mode. Default value is LineSpacingMode.FontSize
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
 
+**Returns:**
+java.lang.Class<?>
+### getFirstLineIndent() {#getFirstLineIndent--}
+```
+public final float getFirstLineIndent()
+```
+
+
+Gets or sets first line indent value.
+
+**Returns:**
+float - float value
 ### getHyphenSymbol() {#getHyphenSymbol--}
 ```
 public final String getHyphenSymbol()
@@ -114,6 +112,75 @@ To eliminate hyphen drawing (with wrapping procedure still in place) please set 
 
 **Returns:**
 java.lang.String - String value
+### getLineSpacing() {#getLineSpacing--}
+```
+public int getLineSpacing()
+```
+
+
+Gets line spacing mode. Default value is LineSpacingMode.FontSize
+
+**Returns:**
+int - int value
+### getSubsequentLinesIndent() {#getSubsequentLinesIndent--}
+```
+public float getSubsequentLinesIndent()
+```
+
+
+Gets or sets subsequent lines indent value.
+
+**Returns:**
+float - float value
+### getWrapMode() {#getWrapMode--}
+```
+public int getWrapMode()
+```
+
+
+Gets word wrap mode. Default value is WordWrapMode.NoWrap
+
+**Returns:**
+int - WordWrapMode value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setFirstLineIndent(float value) {#setFirstLineIndent-float-}
+```
+public final void setFirstLineIndent(float value)
+```
+
+
+Gets or sets first line indent value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | float value |
+
 ### setHyphenSymbol(String value) {#setHyphenSymbol-java.lang.String-}
 ```
 public final void setHyphenSymbol(String value)
@@ -131,16 +198,19 @@ To eliminate hyphen drawing (with wrapping procedure still in place) please set 
 | --- | --- | --- |
 | value | java.lang.String | value String value |
 
-### getSubsequentLinesIndent() {#getSubsequentLinesIndent--}
+### setLineSpacing(int value) {#setLineSpacing-int-}
 ```
-public float getSubsequentLinesIndent()
+public void setLineSpacing(int value)
 ```
 
 
-Gets or sets subsequent lines indent value.
+Sets line spacing mode. Default value is LineSpacingMode.FontSize
 
-**Returns:**
-float - float value
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
 ### setSubsequentLinesIndent(float value) {#setSubsequentLinesIndent-float-}
 ```
 public void setSubsequentLinesIndent(float value)
@@ -154,26 +224,61 @@ Gets or sets subsequent lines indent value.
 | --- | --- | --- |
 | value | float | float value |
 
-### getFirstLineIndent() {#getFirstLineIndent--}
+### setWrapMode(int value) {#setWrapMode-int-}
 ```
-public final float getFirstLineIndent()
-```
-
-
-Gets or sets first line indent value.
-
-**Returns:**
-float - float value
-### setFirstLineIndent(float value) {#setFirstLineIndent-float-}
-```
-public final void setFirstLineIndent(float value)
+public void setWrapMode(int value)
 ```
 
 
-Gets or sets first line indent value.
+Sets word wrap mode. Default value is WordWrapMode.NoWrap
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | float value |
+| value | int | WordWrapMode value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

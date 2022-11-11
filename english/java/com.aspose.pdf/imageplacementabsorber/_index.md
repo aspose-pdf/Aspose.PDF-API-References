@@ -3,7 +3,7 @@ title: ImagePlacementAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of image placement objects.
 type: docs
-weight: 173
+weight: 172
 url: /java/com.aspose.pdf/imageplacementabsorber/
 ---
 **Inheritance:**
@@ -52,11 +52,20 @@ The  ImagePlacementAbsorber  object is basically used in images search scenario.
 
 | Method | Description |
 | --- | --- |
-| [isReadOnlyMode()](#isReadOnlyMode--) | Gets/sets read only mode for parsing operations collection. |
-| [setReadOnlyMode(boolean value)](#setReadOnlyMode-boolean-) | Gets/sets read only mode for parsing operations collection. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getImagePlacements()](#getImagePlacements--) | Gets collection of image placement occurrences that are presented with  ImagePlacement  objects. |
-| [visit(Page page)](#visit-com.aspose.pdf.Page-) | Performs search on the specified page. |
+| [hashCode()](#hashCode--) |  |
+| [isReadOnlyMode()](#isReadOnlyMode--) | Gets/sets read only mode for parsing operations collection. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setReadOnlyMode(boolean value)](#setReadOnlyMode-boolean-) | Gets/sets read only mode for parsing operations collection. |
+| [toString()](#toString--) |  |
 | [visit(IDocument pdf)](#visit-com.aspose.pdf.IDocument-) | Performs search on the specified document. |
+| [visit(Page page)](#visit-com.aspose.pdf.Page-) | Performs search on the specified page. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### ImagePlacementAbsorber() {#ImagePlacementAbsorber--}
 ```
 public ImagePlacementAbsorber()
@@ -65,6 +74,51 @@ public ImagePlacementAbsorber()
 
 Initializes new instance of the  ImagePlacementAbsorber  object.
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getImagePlacements() {#getImagePlacements--}
+```
+public ImagePlacementCollection getImagePlacements()
+```
+
+
+Gets collection of image placement occurrences that are presented with  ImagePlacement  objects.
+
+**Returns:**
+[ImagePlacementCollection](../../com.aspose.pdf/imageplacementcollection) - ImagePlacementCollection object
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
 ### isReadOnlyMode() {#isReadOnlyMode--}
 ```
 public final boolean isReadOnlyMode()
@@ -75,6 +129,22 @@ Gets/sets read only mode for parsing operations collection. It may help against 
 
 **Returns:**
 boolean - boolean value
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setReadOnlyMode(boolean value) {#setReadOnlyMode-boolean-}
 ```
 public final void setReadOnlyMode(boolean value)
@@ -88,16 +158,29 @@ Gets/sets read only mode for parsing operations collection. It may help against 
 | --- | --- | --- |
 | value | boolean | boolean value |
 
-### getImagePlacements() {#getImagePlacements--}
+### toString() {#toString--}
 ```
-public ImagePlacementCollection getImagePlacements()
+public String toString()
 ```
 
 
-Gets collection of image placement occurrences that are presented with  ImagePlacement  objects.
+
 
 **Returns:**
-[ImagePlacementCollection](../../com.aspose.pdf/imageplacementcollection) - ImagePlacementCollection object
+java.lang.String
+### visit(IDocument pdf) {#visit-com.aspose.pdf.IDocument-}
+```
+public void visit(IDocument pdf)
+```
+
+
+Performs search on the specified document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf | [IDocument](../../com.aspose.pdf/idocument) | Pdf pocument object. |
+
 ### visit(Page page) {#visit-com.aspose.pdf.Page-}
 ```
 public void visit(Page page)
@@ -111,16 +194,38 @@ Performs search on the specified page.
 | --- | --- | --- |
 | page | [Page](../../com.aspose.pdf/page) | Pdf pocument page object. |
 
-### visit(IDocument pdf) {#visit-com.aspose.pdf.IDocument-}
+### wait() {#wait--}
 ```
-public void visit(IDocument pdf)
+public final void wait()
 ```
 
 
-Performs search on the specified document.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdf | [IDocument](../../com.aspose.pdf/idocument) | Pdf pocument object. |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

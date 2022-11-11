@@ -39,18 +39,32 @@ This class helps to save pdf document page by page into the one tiff image.
 
 | Method | Description |
 | --- | --- |
-| [getRenderingOptions()](#getRenderingOptions--) | Gets rendering options. |
-| [setRenderingOptions(RenderingOptions value)](#setRenderingOptions-com.aspose.pdf.RenderingOptions-) | Sets rendering options. |
-| [getFormPresentationMode()](#getFormPresentationMode--) | Gets form presentation mode. |
-| [setFormPresentationMode(int value)](#setFormPresentationMode-int-) | Gets form presentation mode. |
-| [getSettings()](#getSettings--) | Gets settings for mapping pdf into tiff image. |
-| [getResolution()](#getResolution--) | Gets image resolution. |
-| [processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-) | Converts certain document pages into tiff and save it in the output stream. |
-| [process(IDocument document, int fromPage, int toPage, OutputStream output)](#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-) | Converts certain document pages into tiff and save it in the output stream. |
-| [getWidth()](#getWidth--) | Gets image output width. |
-| [getHeight()](#getHeight--) | Gets image output height. |
+| [binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold)](#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-) | Do Bradley binarization for input stream. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getCropRectangle()](#getCropRectangle--) | Get rectangle that defines the area that will be converted into a picture. |
+| [getFormPresentationMode()](#getFormPresentationMode--) | Gets form presentation mode. |
+| [getHeight()](#getHeight--) | Gets image output height. |
+| [getRenderingOptions()](#getRenderingOptions--) | Gets rendering options. |
+| [getResolution()](#getResolution--) | Gets image resolution. |
+| [getSettings()](#getSettings--) | Gets settings for mapping pdf into tiff image. |
+| [getWidth()](#getWidth--) | Gets image output width. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [process(IDocument document, int fromPage, int toPage, OutputStream output)](#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-) | Converts certain document pages into tiff and save it in the output stream. |
+| [process(IDocument document, int fromPage, int toPage, String outputFileName)](#process-com.aspose.pdf.IDocument-int-int-java.lang.String-) | Processes certain pages of the document and saves results into file. |
+| [process(IDocument document, OutputStream output)](#process-com.aspose.pdf.IDocument-java.io.OutputStream-) | Processes the whole document and saves results into stream. |
+| [process(IDocument document, String outputFileName)](#process-com.aspose.pdf.IDocument-java.lang.String-) | Processes the whole document and saves results into file. |
+| [processInternal(IDocument document, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-com.aspose.ms.System.IO.Stream-) | Processes the whole document and saves results into stream. |
+| [processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-) | Converts certain document pages into tiff and save it in the output stream. |
 | [setCropRectangle(Rectangle cropRectangle)](#setCropRectangle-com.aspose.pdf.Rectangle-) | Set rectangle that defines the area that will be converted into a picture. |
+| [setFormPresentationMode(int value)](#setFormPresentationMode-int-) | Gets form presentation mode. |
+| [setRenderingOptions(RenderingOptions value)](#setRenderingOptions-com.aspose.pdf.RenderingOptions-) | Sets rendering options. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TiffDevice(Resolution resolution) {#TiffDevice-com.aspose.pdf.devices.Resolution-}
 ```
 public TiffDevice(Resolution resolution)
@@ -308,29 +322,56 @@ Initializes a new instance of the  TiffDevice  class.
 | --- | --- | --- |
 | pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
 
-### getRenderingOptions() {#getRenderingOptions--}
+### binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold) {#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-}
 ```
-public RenderingOptions getRenderingOptions()
-```
-
-
-Gets rendering options.
-
-**Returns:**
-[RenderingOptions](../../com.aspose.pdf/renderingoptions) - rendering options.
-### setRenderingOptions(RenderingOptions value) {#setRenderingOptions-com.aspose.pdf.RenderingOptions-}
-```
-public void setRenderingOptions(RenderingOptions value)
+public void binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold)
 ```
 
 
-Sets rendering options.
+Do Bradley binarization for input stream.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [RenderingOptions](../../com.aspose.pdf/renderingoptions) | rendering options. |
+| inputImageStream | java.io.InputStream | The input image stream. |
+| outputImageStream | java.io.OutputStream | The output image stream. |
+| threshold | double | The threshold value between 0.0 and 1.0. |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getCropRectangle() {#getCropRectangle--}
+```
+public Rectangle getCropRectangle()
+```
+
+
+Get rectangle that defines the area that will be converted into a picture. The default is null, in which case the all image is converted to a page
+
+**Returns:**
+[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
 ### getFormPresentationMode() {#getFormPresentationMode--}
 ```
 public int getFormPresentationMode()
@@ -341,29 +382,26 @@ Gets form presentation mode.
 
 **Returns:**
 int - FormPresentationMode value
-### setFormPresentationMode(int value) {#setFormPresentationMode-int-}
+### getHeight() {#getHeight--}
 ```
-public void setFormPresentationMode(int value)
-```
-
-
-Gets form presentation mode.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### getSettings() {#getSettings--}
-```
-public TiffSettings getSettings()
+public int getHeight()
 ```
 
 
-Gets settings for mapping pdf into tiff image.
+Gets image output height.
 
 **Returns:**
-[TiffSettings](../../com.aspose.pdf.devices/tiffsettings) - TiffSettings element
+int - int value
+### getRenderingOptions() {#getRenderingOptions--}
+```
+public RenderingOptions getRenderingOptions()
+```
+
+
+Gets rendering options.
+
+**Returns:**
+[RenderingOptions](../../com.aspose.pdf/renderingoptions) - rendering options.
 ### getResolution() {#getResolution--}
 ```
 public Resolution getResolution()
@@ -374,21 +412,51 @@ Gets image resolution.
 
 **Returns:**
 [Resolution](../../com.aspose.pdf.devices/resolution) - Resolution element
-### processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-}
+### getSettings() {#getSettings--}
 ```
-public void processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)
+public TiffSettings getSettings()
 ```
 
 
-Converts certain document pages into tiff and save it in the output stream.
+Gets settings for mapping pdf into tiff image.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | The document to convert. |
-| fromPage | int | Defines page number from which converting will start. |
-| toPage | int | Defines page number which will end the converting. |
-| output | com.aspose.ms.System.IO.Stream | Output stream with tiff image. |
+**Returns:**
+[TiffSettings](../../com.aspose.pdf.devices/tiffsettings) - TiffSettings element
+### getWidth() {#getWidth--}
+```
+public int getWidth()
+```
+
+
+Gets image output width.
+
+**Returns:**
+int - int value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### process(IDocument document, int fromPage, int toPage, OutputStream output) {#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-}
 ```
@@ -406,36 +474,80 @@ Converts certain document pages into tiff and save it in the output stream.
 | toPage | int | Defines page number which will end the converting. |
 | output | java.io.OutputStream | Output stream with tiff image. |
 
-### getWidth() {#getWidth--}
+### process(IDocument document, int fromPage, int toPage, String outputFileName) {#process-com.aspose.pdf.IDocument-int-int-java.lang.String-}
 ```
-public int getWidth()
-```
-
-
-Gets image output width.
-
-**Returns:**
-int - int value
-### getHeight() {#getHeight--}
-```
-public int getHeight()
+public void process(IDocument document, int fromPage, int toPage, String outputFileName)
 ```
 
 
-Gets image output height.
+Processes certain pages of the document and saves results into file.
 
-**Returns:**
-int - int value
-### getCropRectangle() {#getCropRectangle--}
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
+| fromPage | int | The first page to start processing. |
+| toPage | int | The last page of processing. |
+| outputFileName | java.lang.String | Defines file where the results of processing are stored. |
+
+### process(IDocument document, OutputStream output) {#process-com.aspose.pdf.IDocument-java.io.OutputStream-}
 ```
-public Rectangle getCropRectangle()
+public void process(IDocument document, OutputStream output)
 ```
 
 
-Get rectangle that defines the area that will be converted into a picture. The default is null, in which case the all image is converted to a page
+Processes the whole document and saves results into stream.
 
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
+| output | java.io.OutputStream | Defines stream where the results of processing are stored. |
+
+### process(IDocument document, String outputFileName) {#process-com.aspose.pdf.IDocument-java.lang.String-}
+```
+public void process(IDocument document, String outputFileName)
+```
+
+
+Processes the whole document and saves results into file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
+| outputFileName | java.lang.String | Defines file where the results of processing are stored. |
+
+### processInternal(IDocument document, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-com.aspose.ms.System.IO.Stream-}
+```
+public void processInternal(IDocument document, System.IO.Stream output)
+```
+
+
+Processes the whole document and saves results into stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
+| output | com.aspose.ms.System.IO.Stream | Defines stream where the results of processing are stored. |
+
+### processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-}
+```
+public void processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)
+```
+
+
+Converts certain document pages into tiff and save it in the output stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | [IDocument](../../com.aspose.pdf/idocument) | The document to convert. |
+| fromPage | int | Defines page number from which converting will start. |
+| toPage | int | Defines page number which will end the converting. |
+| output | com.aspose.ms.System.IO.Stream | Output stream with tiff image. |
+
 ### setCropRectangle(Rectangle cropRectangle) {#setCropRectangle-com.aspose.pdf.Rectangle-}
 ```
 public void setCropRectangle(Rectangle cropRectangle)
@@ -448,4 +560,75 @@ Set rectangle that defines the area that will be converted into a picture. The d
 | Parameter | Type | Description |
 | --- | --- | --- |
 | cropRectangle | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
+
+### setFormPresentationMode(int value) {#setFormPresentationMode-int-}
+```
+public void setFormPresentationMode(int value)
+```
+
+
+Gets form presentation mode.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### setRenderingOptions(RenderingOptions value) {#setRenderingOptions-com.aspose.pdf.RenderingOptions-}
+```
+public void setRenderingOptions(RenderingOptions value)
+```
+
+
+Sets rendering options.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RenderingOptions](../../com.aspose.pdf/renderingoptions) | rendering options. |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

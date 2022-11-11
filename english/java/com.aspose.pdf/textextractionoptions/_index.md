@@ -3,7 +3,7 @@ title: TextExtractionOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text extraction options
 type: docs
-weight: 371
+weight: 370
 url: /java/com.aspose.pdf/textextractionoptions/
 ---
 **Inheritance:**
@@ -22,10 +22,19 @@ Represents text extraction options
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getFormattingMode()](#getFormattingMode--) | Gets formatting mode. |
-| [setFormattingMode(int value)](#setFormattingMode-int-) | Sets formatting mode. |
 | [getScaleFactor()](#getScaleFactor--) | Gets factor that will be applied to scale font size during extraction in pure mode. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setFormattingMode(int value)](#setFormattingMode-int-) | Sets formatting mode. |
 | [setScaleFactor(double value)](#setScaleFactor-double-) | Sets factor that will be applied to scale font size during extraction in pure mode. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextExtractionOptions(int formattingMode) {#TextExtractionOptions-int-}
 ```
 public TextExtractionOptions(int formattingMode)
@@ -39,6 +48,31 @@ Initializes new instance of the  TextExtractionOptions  object for the specified
 | --- | --- | --- |
 | formattingMode | int | Text formatting mode value. |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getFormattingMode() {#getFormattingMode--}
 ```
 public int getFormattingMode()
@@ -49,6 +83,42 @@ Gets formatting mode.
 
 **Returns:**
 int - TextFormattingMode value
+### getScaleFactor() {#getScaleFactor--}
+```
+public double getScaleFactor()
+```
+
+
+Gets factor that will be applied to scale font size during extraction in pure mode. Setting of less value leads to more spaces in the extracted text. Default value is 1 - no scaling; Setting value to zero allows algorithm choose scaling automatically.
+
+**Returns:**
+double - double value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setFormattingMode(int value) {#setFormattingMode-int-}
 ```
 public void setFormattingMode(int value)
@@ -62,16 +132,6 @@ Sets formatting mode.
 | --- | --- | --- |
 | value | int | TextFormattingMode value |
 
-### getScaleFactor() {#getScaleFactor--}
-```
-public double getScaleFactor()
-```
-
-
-Gets factor that will be applied to scale font size during extraction in pure mode. Setting of less value leads to more spaces in the extracted text. Default value is 1 - no scaling; Setting value to zero allows algorithm choose scaling automatically.
-
-**Returns:**
-double - double value
 ### setScaleFactor(double value) {#setScaleFactor-double-}
 ```
 public void setScaleFactor(double value)
@@ -84,4 +144,49 @@ Sets factor that will be applied to scale font size during extraction in pure mo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double | double value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

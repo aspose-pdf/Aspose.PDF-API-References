@@ -23,14 +23,23 @@ This class represents margins of an image.
 
 | Method | Description |
 | --- | --- |
-| [getLeft()](#getLeft--) | Gets the left. |
-| [setLeft(int value)](#setLeft-int-) | Sets the left. |
-| [getRight()](#getRight--) | Gets the right. |
-| [setRight(int value)](#setRight-int-) | Sets the right. |
-| [getTop()](#getTop--) | Gets the top. |
-| [setTop(int value)](#setTop-int-) | Sets the top. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBottom()](#getBottom--) | Gets the bottom. |
+| [getClass()](#getClass--) |  |
+| [getLeft()](#getLeft--) | Gets the left. |
+| [getRight()](#getRight--) | Gets the right. |
+| [getTop()](#getTop--) | Gets the top. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setBottom(int value)](#setBottom-int-) | Sets the bottom. |
+| [setLeft(int value)](#setLeft-int-) | Sets the left. |
+| [setRight(int value)](#setRight-int-) | Sets the right. |
+| [setTop(int value)](#setTop-int-) | Sets the top. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Margins(int left, int right, int top, int bottom) {#Margins-int-int-int-int-}
 ```
 public Margins(int left, int right, int top, int bottom)
@@ -55,6 +64,41 @@ public Margins()
 
 Initializes a new instance of the  Margins  class.
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getBottom() {#getBottom--}
+```
+public int getBottom()
+```
+
+
+Gets the bottom.
+
+**Returns:**
+int - int value: The bottom.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getLeft() {#getLeft--}
 ```
 public int getLeft()
@@ -65,6 +109,65 @@ Gets the left.
 
 **Returns:**
 int - int value: The left.
+### getRight() {#getRight--}
+```
+public int getRight()
+```
+
+
+Gets the right.
+
+**Returns:**
+int - int value: The right.
+### getTop() {#getTop--}
+```
+public int getTop()
+```
+
+
+Gets the top.
+
+**Returns:**
+int - int value: The top.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setBottom(int value) {#setBottom-int-}
+```
+public void setBottom(int value)
+```
+
+
+Sets the bottom.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value: The bottom. |
+
 ### setLeft(int value) {#setLeft-int-}
 ```
 public void setLeft(int value)
@@ -78,16 +181,6 @@ Sets the left.
 | --- | --- | --- |
 | value | int | int value: The left. |
 
-### getRight() {#getRight--}
-```
-public int getRight()
-```
-
-
-Gets the right.
-
-**Returns:**
-int - int value: The right.
 ### setRight(int value) {#setRight-int-}
 ```
 public void setRight(int value)
@@ -101,16 +194,6 @@ Sets the right.
 | --- | --- | --- |
 | value | int | int value: The right. |
 
-### getTop() {#getTop--}
-```
-public int getTop()
-```
-
-
-Gets the top.
-
-**Returns:**
-int - int value: The top.
 ### setTop(int value) {#setTop-int-}
 ```
 public void setTop(int value)
@@ -124,26 +207,48 @@ Sets the top.
 | --- | --- | --- |
 | value | int | int value: The top. |
 
-### getBottom() {#getBottom--}
+### toString() {#toString--}
 ```
-public int getBottom()
+public String toString()
 ```
 
 
-Gets the bottom.
+
 
 **Returns:**
-int - int value: The bottom.
-### setBottom(int value) {#setBottom-int-}
+java.lang.String
+### wait() {#wait--}
 ```
-public void setBottom(int value)
+public final void wait()
 ```
 
 
-Sets the bottom.
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value: The bottom. |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

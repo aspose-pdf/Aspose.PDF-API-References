@@ -3,7 +3,7 @@ title: TextBuilder
 second_title: Aspose.PDF for Java API Reference
 description: Appends text object to Pdf page.
 type: docs
-weight: 365
+weight: 364
 url: /java/com.aspose.pdf/textbuilder/
 ---
 **Inheritance:**
@@ -23,11 +23,20 @@ Appends text object to Pdf page.
 
 | Method | Description |
 | --- | --- |
-| [getSegmenter()](#getSegmenter--) | Gets TextSegmenter object |
 | [appendParagraph(TextParagraph textParagraph)](#appendParagraph-com.aspose.pdf.TextParagraph-) | Appends text paragraph to Pdf page. |
+| [appendParagraph(TextParagraph textParagraph, int rotation)](#appendParagraph-com.aspose.pdf.TextParagraph-int-) | Appends paragraph with rotation |
 | [appendText(TextFragment textFragment)](#appendText-com.aspose.pdf.TextFragment-) | Appends text fragment to Pdf page |
 | [appendText(List<TextFragment> textFragments)](#appendText-java.util.List-com.aspose.pdf.TextFragment--) |  |
-| [appendParagraph(TextParagraph textParagraph, int rotation)](#appendParagraph-com.aspose.pdf.TextParagraph-int-) | Appends paragraph with rotation |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getSegmenter()](#getSegmenter--) | Gets TextSegmenter object |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TextBuilder(Page page) {#TextBuilder-com.aspose.pdf.Page-}
 ```
 public TextBuilder(Page page)
@@ -59,16 +68,6 @@ Initializes a new instance of  TextBuilder  class for the Pdf page.
 | page | [Page](../../com.aspose.pdf/page) | Page object. |
 | operatorCollection | [BaseOperatorCollection](../../com.aspose.pdf/baseoperatorcollection) | Operator collection. |
 
-### getSegmenter() {#getSegmenter--}
-```
-public TextSegmenter getSegmenter()
-```
-
-
-Gets TextSegmenter object
-
-**Returns:**
-[TextSegmenter](../../com.aspose.pdf.engine.commondata.text.segmenting/textsegmenter) - TextSegmenter object
 ### appendParagraph(TextParagraph textParagraph) {#appendParagraph-com.aspose.pdf.TextParagraph-}
 ```
 public void appendParagraph(TextParagraph textParagraph)
@@ -106,6 +105,20 @@ The example demonstrates how to create text paragraph object and append it to th
 | Parameter | Type | Description |
 | --- | --- | --- |
 | textParagraph | [TextParagraph](../../com.aspose.pdf/textparagraph) | Text paragraph object. |
+
+### appendParagraph(TextParagraph textParagraph, int rotation) {#appendParagraph-com.aspose.pdf.TextParagraph-int-}
+```
+public void appendParagraph(TextParagraph textParagraph, int rotation)
+```
+
+
+Appends paragraph with rotation
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textParagraph | [TextParagraph](../../com.aspose.pdf/textparagraph) | TextParagraph object |
+| rotation | int | int value |
 
 ### appendText(TextFragment textFragment) {#appendText-com.aspose.pdf.TextFragment-}
 ```
@@ -160,17 +173,109 @@ public final void appendText(List<TextFragment> textFragments)
 | --- | --- | --- |
 | textFragments | java.util.List<com.aspose.pdf.TextFragment> |  |
 
-### appendParagraph(TextParagraph textParagraph, int rotation) {#appendParagraph-com.aspose.pdf.TextParagraph-int-}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public void appendParagraph(TextParagraph textParagraph, int rotation)
+public boolean equals(Object arg0)
 ```
 
 
-Appends paragraph with rotation
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textParagraph | [TextParagraph](../../com.aspose.pdf/textparagraph) | TextParagraph object |
-| rotation | int | int value |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getSegmenter() {#getSegmenter--}
+```
+public TextSegmenter getSegmenter()
+```
+
+
+Gets TextSegmenter object
+
+**Returns:**
+[TextSegmenter](../../com.aspose.pdf.engine.commondata.text.segmenting/textsegmenter) - TextSegmenter object
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

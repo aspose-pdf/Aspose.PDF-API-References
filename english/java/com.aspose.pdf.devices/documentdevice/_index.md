@@ -22,34 +22,93 @@ Abstract class for all devices which is used to process the whole pdf document.
 
 | Method | Description |
 | --- | --- |
-| [processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
+| [binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold)](#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-) | Do Bradley binarization for input stream. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [process(IDocument document, int fromPage, int toPage, OutputStream output)](#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
-| [processInternal(IDocument document, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-com.aspose.ms.System.IO.Stream-) | Processes the whole document and saves results into stream. |
+| [process(IDocument document, int fromPage, int toPage, String outputFileName)](#process-com.aspose.pdf.IDocument-int-int-java.lang.String-) | Processes certain pages of the document and saves results into file. |
 | [process(IDocument document, OutputStream output)](#process-com.aspose.pdf.IDocument-java.io.OutputStream-) | Processes the whole document and saves results into stream. |
 | [process(IDocument document, String outputFileName)](#process-com.aspose.pdf.IDocument-java.lang.String-) | Processes the whole document and saves results into file. |
-| [process(IDocument document, int fromPage, int toPage, String outputFileName)](#process-com.aspose.pdf.IDocument-int-int-java.lang.String-) | Processes certain pages of the document and saves results into file. |
-| [binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold)](#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-) | Do Bradley binarization for input stream. |
+| [processInternal(IDocument document, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-com.aspose.ms.System.IO.Stream-) | Processes the whole document and saves results into stream. |
+| [processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### DocumentDevice() {#DocumentDevice--}
 ```
 public DocumentDevice()
 ```
 
 
-### processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-}
+### binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold) {#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-}
 ```
-public abstract void processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)
+public void binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold)
 ```
 
 
-Each device represents some operation on the document, e.g. we can convert pdf document into another format.
+Do Bradley binarization for input stream.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
-| fromPage | int | Defines the page from which to start processing. |
-| toPage | int | Defines the last page to process. |
-| output | com.aspose.ms.System.IO.Stream | Defines stream where the results of processing are stored. |
+| inputImageStream | java.io.InputStream | The input image stream. |
+| outputImageStream | java.io.OutputStream | The output image stream. |
+| threshold | double | The threshold value between 0.0 and 1.0. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
 
 ### process(IDocument document, int fromPage, int toPage, OutputStream output) {#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-}
 ```
@@ -67,19 +126,21 @@ Each device represents some operation on the document, e.g. we can convert pdf d
 | toPage | int | Defines the last page to process. |
 | output | java.io.OutputStream | Defines stream where the results of processing are stored. |
 
-### processInternal(IDocument document, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-com.aspose.ms.System.IO.Stream-}
+### process(IDocument document, int fromPage, int toPage, String outputFileName) {#process-com.aspose.pdf.IDocument-int-int-java.lang.String-}
 ```
-public void processInternal(IDocument document, System.IO.Stream output)
+public void process(IDocument document, int fromPage, int toPage, String outputFileName)
 ```
 
 
-Processes the whole document and saves results into stream.
+Processes certain pages of the document and saves results into file.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
-| output | com.aspose.ms.System.IO.Stream | Defines stream where the results of processing are stored. |
+| fromPage | int | The first page to start processing. |
+| toPage | int | The last page of processing. |
+| outputFileName | java.lang.String | Defines file where the results of processing are stored. |
 
 ### process(IDocument document, OutputStream output) {#process-com.aspose.pdf.IDocument-java.io.OutputStream-}
 ```
@@ -109,34 +170,78 @@ Processes the whole document and saves results into file.
 | document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
 | outputFileName | java.lang.String | Defines file where the results of processing are stored. |
 
-### process(IDocument document, int fromPage, int toPage, String outputFileName) {#process-com.aspose.pdf.IDocument-int-int-java.lang.String-}
+### processInternal(IDocument document, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-com.aspose.ms.System.IO.Stream-}
 ```
-public void process(IDocument document, int fromPage, int toPage, String outputFileName)
+public void processInternal(IDocument document, System.IO.Stream output)
 ```
 
 
-Processes certain pages of the document and saves results into file.
+Processes the whole document and saves results into stream.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
-| fromPage | int | The first page to start processing. |
-| toPage | int | The last page of processing. |
-| outputFileName | java.lang.String | Defines file where the results of processing are stored. |
+| output | com.aspose.ms.System.IO.Stream | Defines stream where the results of processing are stored. |
 
-### binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold) {#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-}
+### processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-}
 ```
-public void binarizeBradley(InputStream inputImageStream, OutputStream outputImageStream, double threshold)
+public abstract void processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)
 ```
 
 
-Do Bradley binarization for input stream.
+Each device represents some operation on the document, e.g. we can convert pdf document into another format.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputImageStream | java.io.InputStream | The input image stream. |
-| outputImageStream | java.io.OutputStream | The output image stream. |
-| threshold | double | The threshold value between 0.0 and 1.0. |
+| document | [IDocument](../../com.aspose.pdf/idocument) | The document to process. |
+| fromPage | int | Defines the page from which to start processing. |
+| toPage | int | Defines the last page to process. |
+| output | com.aspose.ms.System.IO.Stream | Defines stream where the results of processing are stored. |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

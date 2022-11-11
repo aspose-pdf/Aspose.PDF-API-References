@@ -25,17 +25,24 @@ Specifies the dimensions of the margins of a printed page.
 | --- | --- |
 | [deepClone()](#deepClone--) | Retrieves a duplicate of this object, member by member. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Compares this Margins to the specified Object to determine whether they have the same dimensions. |
-| [hashCode()](#hashCode--) | Returns a hash code value for the object. |
 | [getBottom()](#getBottom--) | Gets or sets the bottom margin, in hundredths of an inch. |
-| [setBottom(int value)](#setBottom-int-) | Gets or sets the bottom margin, in hundredths of an inch. |
+| [getClass()](#getClass--) |  |
 | [getLeft()](#getLeft--) | Gets or sets the left margin width, in hundredths of an inch. |
-| [setLeft(int value)](#setLeft-int-) | Gets or sets the left margin width, in hundredths of an inch. |
 | [getRight()](#getRight--) | Gets or sets the right margin width, in hundredths of an inch. |
-| [setRight(int value)](#setRight-int-) | Gets or sets the right margin width, in hundredths of an inch. |
 | [getTop()](#getTop--) | Gets or sets the top margin width, in hundredths of an inch. |
-| [setTop(int value)](#setTop-int-) | Gets or sets the top margin width, in hundredths of an inch. |
+| [hashCode()](#hashCode--) | Returns a hash code value for the object. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [op_Equality(PrinterMargins m1, PrinterMargins m2)](#op-Equality-com.aspose.pdf.printing.PrinterMargins-com.aspose.pdf.printing.PrinterMargins-) | Compares two Margins to determine if they have the same dimensions. |
 | [op_Inequality(PrinterMargins m1, PrinterMargins m2)](#op-Inequality-com.aspose.pdf.printing.PrinterMargins-com.aspose.pdf.printing.PrinterMargins-) | Compares two Margins to determine whether they are of unequal width. |
+| [setBottom(int value)](#setBottom-int-) | Gets or sets the bottom margin, in hundredths of an inch. |
+| [setLeft(int value)](#setLeft-int-) | Gets or sets the left margin width, in hundredths of an inch. |
+| [setRight(int value)](#setRight-int-) | Gets or sets the right margin width, in hundredths of an inch. |
+| [setTop(int value)](#setTop-int-) | Gets or sets the top margin width, in hundredths of an inch. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PrinterMargins() {#PrinterMargins--}
 ```
 public PrinterMargins()
@@ -85,6 +92,56 @@ Compares this Margins to the specified Object to determine whether they have the
 
 **Returns:**
 boolean - boolean value
+### getBottom() {#getBottom--}
+```
+public int getBottom()
+```
+
+
+Gets or sets the bottom margin, in hundredths of an inch.
+
+**Returns:**
+int - int value
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getLeft() {#getLeft--}
+```
+public int getLeft()
+```
+
+
+Gets or sets the left margin width, in hundredths of an inch.
+
+**Returns:**
+int - int value
+### getRight() {#getRight--}
+```
+public int getRight()
+```
+
+
+Gets or sets the right margin width, in hundredths of an inch.
+
+**Returns:**
+int - int value
+### getTop() {#getTop--}
+```
+public int getTop()
+```
+
+
+Gets or sets the top margin width, in hundredths of an inch.
+
+**Returns:**
+int - int value
 ### hashCode() {#hashCode--}
 ```
 public int hashCode()
@@ -97,103 +154,27 @@ The general contract of  hashCode  is:
 
  *  Whenever it is invoked on the same object more than once during an execution of a Java application, the  hashCode  method must consistently return the same integer, provided no information used in  equals  comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application.
  *  If two objects are equal according to the  equals(Object)  method, then calling the  hashCode  method on each of the two objects must produce the same integer result.
- *  It is *not* required that if two objects are unequal according to the java.lang.Object\#equals(java.lang.Object)\#equals(java.lang.Object) method, then calling the  hashCode  method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables.
+ *  It is *not* required that if two objects are unequal according to the java.lang.Object\#equals(java.lang.Object).equals(java.lang.Object) method, then calling the  hashCode  method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables.
 
 As much as is reasonably practical, the hashCode method defined by class  Object  does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the JavaTM programming language.)
 
 **Returns:**
 int - a hash code value for this object.
-### getBottom() {#getBottom--}
+### notify() {#notify--}
 ```
-public int getBottom()
-```
-
-
-Gets or sets the bottom margin, in hundredths of an inch.
-
-**Returns:**
-int - int value
-### setBottom(int value) {#setBottom-int-}
-```
-public void setBottom(int value)
+public final native void notify()
 ```
 
 
-Gets or sets the bottom margin, in hundredths of an inch.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
 
-### getLeft() {#getLeft--}
+### notifyAll() {#notifyAll--}
 ```
-public int getLeft()
+public final native void notifyAll()
 ```
 
 
-Gets or sets the left margin width, in hundredths of an inch.
 
-**Returns:**
-int - int value
-### setLeft(int value) {#setLeft-int-}
-```
-public void setLeft(int value)
-```
-
-
-Gets or sets the left margin width, in hundredths of an inch.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### getRight() {#getRight--}
-```
-public int getRight()
-```
-
-
-Gets or sets the right margin width, in hundredths of an inch.
-
-**Returns:**
-int - int value
-### setRight(int value) {#setRight-int-}
-```
-public void setRight(int value)
-```
-
-
-Gets or sets the right margin width, in hundredths of an inch.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### getTop() {#getTop--}
-```
-public int getTop()
-```
-
-
-Gets or sets the top margin width, in hundredths of an inch.
-
-**Returns:**
-int - int value
-### setTop(int value) {#setTop-int-}
-```
-public void setTop(int value)
-```
-
-
-Gets or sets the top margin width, in hundredths of an inch.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
 
 ### op_Equality(PrinterMargins m1, PrinterMargins m2) {#op-Equality-com.aspose.pdf.printing.PrinterMargins-com.aspose.pdf.printing.PrinterMargins-}
 ```
@@ -227,3 +208,100 @@ Compares two Margins to determine whether they are of unequal width.
 
 **Returns:**
 boolean - boolean value
+### setBottom(int value) {#setBottom-int-}
+```
+public void setBottom(int value)
+```
+
+
+Gets or sets the bottom margin, in hundredths of an inch.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### setLeft(int value) {#setLeft-int-}
+```
+public void setLeft(int value)
+```
+
+
+Gets or sets the left margin width, in hundredths of an inch.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### setRight(int value) {#setRight-int-}
+```
+public void setRight(int value)
+```
+
+
+Gets or sets the right margin width, in hundredths of an inch.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### setTop(int value) {#setTop-int-}
+```
+public void setTop(int value)
+```
+
+
+Gets or sets the top margin width, in hundredths of an inch.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

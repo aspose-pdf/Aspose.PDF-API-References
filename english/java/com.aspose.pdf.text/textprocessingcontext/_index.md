@@ -17,32 +17,26 @@ Represents text processing context
 
 | Method | Description |
 | --- | --- |
-| [getInstance(IContext context)](#getInstance-com.aspose.pdf.engine.data.IContext-) | get Instance |
 | [beginMassChanges()](#beginMassChanges--) | begin Mass Changes |
 | [endMassChanges()](#endMassChanges--) | end Mass Changes |
-| [isMassOperation()](#isMassOperation--) | is Mass Operation |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getInstance(IContext context)](#getInstance-com.aspose.pdf.engine.data.IContext-) | get Instance |
 | [getLastEmcOpIndex()](#getLastEmcOpIndex--) |  |
-| [setLastEmcOpIndex(int value)](#setLastEmcOpIndex-int-) |  |
-| [getMcName()](#getMcName--) |  |
-| [setMcName(String value)](#setMcName-java.lang.String-) |  |
 | [getMcId()](#getMcId--) |  |
-| [setMcId(int value)](#setMcId-int-) |  |
+| [getMcName()](#getMcName--) |  |
+| [hashCode()](#hashCode--) |  |
 | [initializeMcProperties()](#initializeMcProperties--) |  |
-### getInstance(IContext context) {#getInstance-com.aspose.pdf.engine.data.IContext-}
-```
-public static TextProcessingContext getInstance(IContext context)
-```
-
-
-get Instance
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| context | [IContext](../../com.aspose.pdf.engine.data/icontext) | IContext object |
-
-**Returns:**
-[TextProcessingContext](../../com.aspose.pdf.text/textprocessingcontext) - TextProcessingContext object
+| [isMassOperation()](#isMassOperation--) | is Mass Operation |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setLastEmcOpIndex(int value)](#setLastEmcOpIndex-int-) |  |
+| [setMcId(int value)](#setMcId-int-) |  |
+| [setMcName(String value)](#setMcName-java.lang.String-) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### beginMassChanges() {#beginMassChanges--}
 ```
 public void beginMassChanges()
@@ -59,16 +53,46 @@ public void endMassChanges()
 
 end Mass Changes
 
-### isMassOperation() {#isMassOperation--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public boolean isMassOperation()
+public boolean equals(Object arg0)
 ```
 
 
-is Mass Operation
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-boolean - boolean value
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getInstance(IContext context) {#getInstance-com.aspose.pdf.engine.data.IContext-}
+```
+public static TextProcessingContext getInstance(IContext context)
+```
+
+
+get Instance
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| context | [IContext](../../com.aspose.pdf.engine.data/icontext) | IContext object |
+
+**Returns:**
+[TextProcessingContext](../../com.aspose.pdf.text/textprocessingcontext) - TextProcessingContext object
 ### getLastEmcOpIndex() {#getLastEmcOpIndex--}
 ```
 public final int getLastEmcOpIndex()
@@ -79,6 +103,70 @@ public final int getLastEmcOpIndex()
 
 **Returns:**
 int
+### getMcId() {#getMcId--}
+```
+public final int getMcId()
+```
+
+
+
+
+**Returns:**
+int
+### getMcName() {#getMcName--}
+```
+public final String getMcName()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### initializeMcProperties() {#initializeMcProperties--}
+```
+public final void initializeMcProperties()
+```
+
+
+
+
+### isMassOperation() {#isMassOperation--}
+```
+public boolean isMassOperation()
+```
+
+
+is Mass Operation
+
+**Returns:**
+boolean - boolean value
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setLastEmcOpIndex(int value) {#setLastEmcOpIndex-int-}
 ```
 public final void setLastEmcOpIndex(int value)
@@ -92,39 +180,6 @@ public final void setLastEmcOpIndex(int value)
 | --- | --- | --- |
 | value | int |  |
 
-### getMcName() {#getMcName--}
-```
-public final String getMcName()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### setMcName(String value) {#setMcName-java.lang.String-}
-```
-public final void setMcName(String value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
-### getMcId() {#getMcId--}
-```
-public final int getMcId()
-```
-
-
-
-
-**Returns:**
-int
 ### setMcId(int value) {#setMcId-int-}
 ```
 public final void setMcId(int value)
@@ -138,11 +193,61 @@ public final void setMcId(int value)
 | --- | --- | --- |
 | value | int |  |
 
-### initializeMcProperties() {#initializeMcProperties--}
+### setMcName(String value) {#setMcName-java.lang.String-}
 ```
-public final void initializeMcProperties()
+public final void setMcName(String value)
 ```
 
 
 
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

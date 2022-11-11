@@ -34,65 +34,97 @@ Class for adding stamps (watermark or background) to PDF files. Enable to work w
 
 | Field | Description |
 | --- | --- |
+| [POS_BOTTOM_LEFT](#POS-BOTTOM-LEFT) | Bottom left position. |
+| [POS_BOTTOM_LEFT](#POS-BOTTOM-LEFT) | Bottom left position. |
+| [POS_BOTTOM_MIDDLE](#POS-BOTTOM-MIDDLE) | Bottom middle position. |
 | [POS_BOTTOM_MIDDLE](#POS-BOTTOM-MIDDLE) | Bottom middle position. |
 | [POS_BOTTOM_RIGHT](#POS-BOTTOM-RIGHT) | Bottom right position. |
-| [POS_UPPER_RIGHT](#POS-UPPER-RIGHT) | Right upper position. |
-| [POS_SIDES_RIGHT](#POS-SIDES-RIGHT) | Right position. |
-| [POS_UPPER_MIDDLE](#POS-UPPER-MIDDLE) | Upper middle position. |
-| [POS_BOTTOM_LEFT](#POS-BOTTOM-LEFT) | Bottom left position. |
+| [POS_BOTTOM_RIGHT](#POS-BOTTOM-RIGHT) | Bottom right position. |
 | [POS_SIDES_LEFT](#POS-SIDES-LEFT) | Left position. |
+| [POS_SIDES_LEFT](#POS-SIDES-LEFT) | Left position. |
+| [POS_SIDES_RIGHT](#POS-SIDES-RIGHT) | Right position. |
+| [POS_SIDES_RIGHT](#POS-SIDES-RIGHT) | Right position. |
 | [POS_UPPER_LEFT](#POS-UPPER-LEFT) | Upper let position. |
+| [POS_UPPER_LEFT](#POS-UPPER-LEFT) | Upper let position. |
+| [POS_UPPER_MIDDLE](#POS-UPPER-MIDDLE) | Upper middle position. |
+| [POS_UPPER_MIDDLE](#POS-UPPER-MIDDLE) | Upper middle position. |
+| [POS_UPPER_RIGHT](#POS-UPPER-RIGHT) | Right upper position. |
+| [POS_UPPER_RIGHT](#POS-UPPER-RIGHT) | Right upper position. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getKeepSecurity()](#getKeepSecurity--) | Keeps security if true. |
-| [setKeepSecurity(boolean value)](#setKeepSecurity-boolean-) | Keeps security if true. |
-| [getInputFile()](#getInputFile--) | Gets name and path of input file. |
-| [setInputFile(String value)](#setInputFile-java.lang.String-) | Sets name and path of input file. |
-| [getInputStream()](#getInputStream--) | Gets input stream. |
-| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | Sets input stream. |
-| [getOutputFile()](#getOutputFile--) | Gets name and path of output file. |
-| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | Sets name and path of output file. |
-| [getOutputStream()](#getOutputStream--) | Gets output stream. |
-| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | Sets or sets output stream. |
-| [getPageNumberRotation()](#getPageNumberRotation--) | Gets rotation of page number. |
-| [setPageNumberRotation(float value)](#setPageNumberRotation-float-) | Sets rotation of page number. |
-| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Sets PDF file format. |
-| [getPageHeight()](#getPageHeight--) | Gets height of first page in source file. |
-| [getPageWidth()](#getPageWidth--) | Gets width of first page in input file. |
-| [getStartingNumber()](#getStartingNumber--) | Gets or sets starting number for first page in input file. |
-| [setStartingNumber(int value)](#setStartingNumber-int-) | Sets starting number for first page in input file. |
-| [addStamp(Stamp stamp)](#addStamp-com.aspose.pdf.facades.Stamp-) | Adds stamp to the file. |
-| [addPageNumber(String formatString)](#addPageNumber-java.lang.String-) | Add page number to file. |
-| [addPageNumber(FormattedText formattedText)](#addPageNumber-com.aspose.pdf.facades.FormattedText-) | Adds page number to the page. |
-| [addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-java.lang.String-int-float-float-float-float-) | Adds page number to the pages of document. |
-| [addPageNumber(String formatString, float x, float y)](#addPageNumber-java.lang.String-float-float-) | Adds page number at the specified position on the page. |
-| [addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-) | Adds page number to the pages of document. |
-| [addPageNumber(FormattedText formattedText, float x, float y)](#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-) | Adds page number at the specified position on the page. |
-| [addHeader(FormattedText formattedText, float topMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-) | Adds header to the page. |
-| [addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-) | Adds header to the pages of file. |
-| [addHeader(String imageFile, float topMargin)](#addHeader-java.lang.String-float-) | Adds image as header to the pages of the file. |
-| [addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.lang.String-float-float-float-) | Adds image as header on the pages. |
-| [addHeader(InputStream imageStream, float topMargin)](#addHeader-java.io.InputStream-float-) | Adds image as header on the pages. |
-| [addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.io.InputStream-float-float-float-) | Adds image at the top of the page. |
 | [addFooter(FormattedText formattedText, float bottomMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-) | Adds footer to the pages of the document. |
 | [addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-float-float-) | Adds footer to the pages of the document. |
-| [addFooter(String imageFile, float bottomMargin)](#addFooter-java.lang.String-float-) | Adds image as footer to the pages of the document. |
-| [addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.lang.String-float-float-float-) | Adds image as footer of the pages. |
 | [addFooter(InputStream imageStream, float bottomMargin)](#addFooter-java.io.InputStream-float-) | Adds image as footer of the page. |
 | [addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.io.InputStream-float-float-float-) | Adds image as footer of the page. |
-| [addPageNumber(String formatString, int position)](#addPageNumber-java.lang.String-int-) | Adds page number to the pages. |
+| [addFooter(String imageFile, float bottomMargin)](#addFooter-java.lang.String-float-) | Adds image as footer to the pages of the document. |
+| [addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.lang.String-float-float-float-) | Adds image as footer of the pages. |
+| [addHeader(FormattedText formattedText, float topMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-) | Adds header to the page. |
+| [addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-) | Adds header to the pages of file. |
+| [addHeader(InputStream imageStream, float topMargin)](#addHeader-java.io.InputStream-float-) | Adds image as header on the pages. |
+| [addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.io.InputStream-float-float-float-) | Adds image at the top of the page. |
+| [addHeader(String imageFile, float topMargin)](#addHeader-java.lang.String-float-) | Adds image as header to the pages of the file. |
+| [addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.lang.String-float-float-float-) | Adds image as header on the pages. |
+| [addPageNumber(FormattedText formattedText)](#addPageNumber-com.aspose.pdf.facades.FormattedText-) | Adds page number to the page. |
+| [addPageNumber(FormattedText formattedText, float x, float y)](#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-) | Adds page number at the specified position on the page. |
 | [addPageNumber(FormattedText formattedText, int position)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-) | Adds page number to the pages. |
-| [getContentDisposition()](#getContentDisposition--) | Gets how content will be stored when result of operation is stored into HttpResponse object. |
-| [setContentDisposition(int value)](#setContentDisposition-int-) | Sets how content will be stored when result of operation is stored into HttpResponse object. |
-| [getSaveOptions()](#getSaveOptions--) | Gets save options when result is stored as HttpResponse. |
-| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpResponse. |
-| [getAttachmentName()](#getAttachmentName--) | Gets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
+| [addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-) | Adds page number to the pages of document. |
+| [addPageNumber(String formatString)](#addPageNumber-java.lang.String-) | Add page number to file. |
+| [addPageNumber(String formatString, float x, float y)](#addPageNumber-java.lang.String-float-float-) | Adds page number at the specified position on the page. |
+| [addPageNumber(String formatString, int position)](#addPageNumber-java.lang.String-int-) | Adds page number to the pages. |
+| [addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-java.lang.String-int-float-float-float-float-) | Adds page number to the pages of document. |
+| [addStamp(Stamp stamp)](#addStamp-com.aspose.pdf.facades.Stamp-) | Adds stamp to the file. |
+| [bindPdf(IDocument srcDoc)](#bindPdf-com.aspose.pdf.IDocument-) | Initializes the facade. |
+| [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Initializes the facade. |
+| [bindPdf(InputStream srcStream, String password)](#bindPdf-java.io.InputStream-java.lang.String-) | Initializes the facade. |
+| [bindPdf(String srcFile)](#bindPdf-java.lang.String-) | Initializes the facade. |
+| [bindPdf(String srcFile, String password)](#bindPdf-java.lang.String-java.lang.String-) | Initializes the facade. |
 | [close()](#close--) | Closes opened files and saves changes. |
+| [dispose()](#dispose--) | Closes all resources used by this instance. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAttachmentName()](#getAttachmentName--) | Gets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
+| [getClass()](#getClass--) |  |
+| [getContentDisposition()](#getContentDisposition--) | Gets how content will be stored when result of operation is stored into HttpResponse object. |
+| [getDocument()](#getDocument--) | Gets the document facade is working on. |
+| [getInputFile()](#getInputFile--) | Gets name and path of input file. |
+| [getInputStream()](#getInputStream--) | Gets input stream. |
+| [getKeepSecurity()](#getKeepSecurity--) | Keeps security if true. |
+| [getNumberingStyle()](#getNumberingStyle--) | Gets or sets pabge numbering style. |
+| [getOptimizeSize()](#getOptimizeSize--) | Gets or sets optimization flag. |
+| [getOutputFile()](#getOutputFile--) | Gets name and path of output file. |
+| [getOutputStream()](#getOutputStream--) | Gets output stream. |
+| [getPageHeight()](#getPageHeight--) | Gets height of first page in source file. |
+| [getPageNumberRotation()](#getPageNumberRotation--) | Gets rotation of page number. |
+| [getPageWidth()](#getPageWidth--) | Gets width of first page in input file. |
 | [getResponse()](#getResponse--) | Gets Response object where result of operation will be stored. |
+| [getSaveOptions()](#getSaveOptions--) | Gets save options when result is stored as HttpResponse. |
+| [getStampId()](#getStampId--) | Stamp ID of next added stamp (including page headers/hooters/page numbers). |
+| [getStartingNumber()](#getStartingNumber--) | Gets or sets starting number for first page in input file. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [save(OutputStream destStream)](#save-java.io.OutputStream-) | Saves the PDF document to the specified stream. |
+| [save(String destFile)](#save-java.lang.String-) | Saves the PDF document to the specified file. |
+| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
+| [setContentDisposition(int value)](#setContentDisposition-int-) | Sets how content will be stored when result of operation is stored into HttpResponse object. |
+| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Sets PDF file format. |
+| [setInputFile(String value)](#setInputFile-java.lang.String-) | Sets name and path of input file. |
+| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | Sets input stream. |
+| [setKeepSecurity(boolean value)](#setKeepSecurity-boolean-) | Keeps security if true. |
+| [setNumberingStyle(int value)](#setNumberingStyle-int-) | Gets or sets pabge numbering style. |
+| [setOptimizeSize(boolean value)](#setOptimizeSize-boolean-) | Gets or sets optimization flag. |
+| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | Sets name and path of output file. |
+| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | Sets or sets output stream. |
+| [setPageNumberRotation(float value)](#setPageNumberRotation-float-) | Sets rotation of page number. |
 | [setResponse(HttpServletResponse value)](#setResponse-javax.servlet.http.HttpServletResponse-) | Sets Response object where result of operation will be stored. |
+| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpResponse. |
+| [setStampId(int value)](#setStampId-int-) | Stamp ID of next added stamp (including page headers/hooters/page numbers). |
+| [setStartingNumber(int value)](#setStartingNumber-int-) | Sets starting number for first page in input file. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### PdfFileStampWeb() {#PdfFileStampWeb--}
 ```
 public PdfFileStampWeb()
@@ -250,6 +282,30 @@ Creates PdfFileStampWeb which will save result into HttpResponse object.
 | inputFile | java.lang.String | Source file name. |
 | response | javax.servlet.http.HttpServletResponse | HttpResponse object where result will be saved. |
 
+### POS_BOTTOM_LEFT {#POS-BOTTOM-LEFT}
+```
+public static final int POS_BOTTOM_LEFT
+```
+
+
+Bottom left position.
+
+### POS_BOTTOM_LEFT {#POS-BOTTOM-LEFT}
+```
+public static final int POS_BOTTOM_LEFT
+```
+
+
+Bottom left position.
+
+### POS_BOTTOM_MIDDLE {#POS-BOTTOM-MIDDLE}
+```
+public static final int POS_BOTTOM_MIDDLE
+```
+
+
+Bottom middle position.
+
 ### POS_BOTTOM_MIDDLE {#POS-BOTTOM-MIDDLE}
 ```
 public static final int POS_BOTTOM_MIDDLE
@@ -266,37 +322,13 @@ public static final int POS_BOTTOM_RIGHT
 
 Bottom right position.
 
-### POS_UPPER_RIGHT {#POS-UPPER-RIGHT}
+### POS_BOTTOM_RIGHT {#POS-BOTTOM-RIGHT}
 ```
-public static final int POS_UPPER_RIGHT
-```
-
-
-Right upper position.
-
-### POS_SIDES_RIGHT {#POS-SIDES-RIGHT}
-```
-public static final int POS_SIDES_RIGHT
+public static final int POS_BOTTOM_RIGHT
 ```
 
 
-Right position.
-
-### POS_UPPER_MIDDLE {#POS-UPPER-MIDDLE}
-```
-public static final int POS_UPPER_MIDDLE
-```
-
-
-Upper middle position.
-
-### POS_BOTTOM_LEFT {#POS-BOTTOM-LEFT}
-```
-public static final int POS_BOTTOM_LEFT
-```
-
-
-Bottom left position.
+Bottom right position.
 
 ### POS_SIDES_LEFT {#POS-SIDES-LEFT}
 ```
@@ -306,6 +338,30 @@ public static final int POS_SIDES_LEFT
 
 Left position.
 
+### POS_SIDES_LEFT {#POS-SIDES-LEFT}
+```
+public static final int POS_SIDES_LEFT
+```
+
+
+Left position.
+
+### POS_SIDES_RIGHT {#POS-SIDES-RIGHT}
+```
+public static final int POS_SIDES_RIGHT
+```
+
+
+Right position.
+
+### POS_SIDES_RIGHT {#POS-SIDES-RIGHT}
+```
+public static final int POS_SIDES_RIGHT
+```
+
+
+Right position.
+
 ### POS_UPPER_LEFT {#POS-UPPER-LEFT}
 ```
 public static final int POS_UPPER_LEFT
@@ -314,530 +370,45 @@ public static final int POS_UPPER_LEFT
 
 Upper let position.
 
-### getKeepSecurity() {#getKeepSecurity--}
+### POS_UPPER_LEFT {#POS-UPPER-LEFT}
 ```
-public boolean getKeepSecurity()
+public static final int POS_UPPER_LEFT
 ```
 
 
-Keeps security if true. (This feature will be implemented in next versions).
+Upper let position.
 
-**Returns:**
-boolean - boolean value
-### setKeepSecurity(boolean value) {#setKeepSecurity-boolean-}
+### POS_UPPER_MIDDLE {#POS-UPPER-MIDDLE}
 ```
-public void setKeepSecurity(boolean value)
+public static final int POS_UPPER_MIDDLE
 ```
 
 
-Keeps security if true. (This feature will be implemented in next versions).
+Upper middle position.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getInputFile() {#getInputFile--}
-```
-public String getInputFile()
-```
-
-
-Gets name and path of input file.
-
-**Returns:**
-java.lang.String - String object
-### setInputFile(String value) {#setInputFile-java.lang.String-}
-```
-public void setInputFile(String value)
-```
-
-
-Sets name and path of input file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-### getInputStream() {#getInputStream--}
-```
-public InputStream getInputStream()
-```
-
-
-Gets input stream.
-
-**Returns:**
-java.io.InputStream - InputStream object
-### setInputStream(InputStream value) {#setInputStream-java.io.InputStream-}
-```
-public void setInputStream(InputStream value)
-```
-
-
-Sets input stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.io.InputStream | InputStream object |
-
-### getOutputFile() {#getOutputFile--}
-```
-public String getOutputFile()
-```
-
-
-Gets name and path of output file.
-
-**Returns:**
-java.lang.String - String object
-### setOutputFile(String value) {#setOutputFile-java.lang.String-}
-```
-public void setOutputFile(String value)
-```
-
-
-Sets name and path of output file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-### getOutputStream() {#getOutputStream--}
-```
-public OutputStream getOutputStream()
-```
-
-
-Gets output stream.
-
-**Returns:**
-java.io.OutputStream - OutputStream object
-### setOutputStream(OutputStream value) {#setOutputStream-java.io.OutputStream-}
-```
-public void setOutputStream(OutputStream value)
-```
-
-
-Sets or sets output stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.io.OutputStream | OutputStream object |
-
-### getPageNumberRotation() {#getPageNumberRotation--}
-```
-public float getPageNumberRotation()
-```
-
-
-Gets rotation of page number. Rotation is in degrees. Default is 0.
-
-**Returns:**
-float - float value
-### setPageNumberRotation(float value) {#setPageNumberRotation-float-}
-```
-public void setPageNumberRotation(float value)
-```
-
-
-Sets rotation of page number. Rotation is in degrees. Default is 0.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value |
-
-### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
-```
-public void setConvertTo(PdfFormat value)
-```
-
-
-Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat element |
-
-### getPageHeight() {#getPageHeight--}
-```
-public float getPageHeight()
-```
-
-
-Gets height of first page in source file.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  System.out.println("Height = " + fileStamp.getPageHeight());
-  fileStamp.close();
-```
-
-**Returns:**
-float - float value
-### getPageWidth() {#getPageWidth--}
-```
-public float getPageWidth()
-```
-
-
-Gets width of first page in input file.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  System.out.println("Width = " + fileStamp.getPageWidth());
-  fileStamp.close();
-```
-
-**Returns:**
-float - float value
-### getStartingNumber() {#getStartingNumber--}
-```
-public int getStartingNumber()
-```
-
-
-Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value.
-
-**Returns:**
-int - int value
-### setStartingNumber(int value) {#setStartingNumber-int-}
-```
-public void setStartingNumber(int value)
-```
-
-
-Sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100, document pages will have numbers 100, 101, 102...
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  fileStamp.setStartingNumber( 100);
-  fileStamp.addPageNumber("Page #");
-  fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### addStamp(Stamp stamp) {#addStamp-com.aspose.pdf.facades.Stamp-}
-```
-public void addStamp(Stamp stamp)
-```
-
-
-Adds stamp to the file.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  Stamp stamp = new com.aspose.pdf.facades.Stamp();
-  stamp.setOrigin(140, 400);
-  stamp.setImageSize(50, 50);
-  stamp.setOpacity ( 0.8f);
-  stamp.isBackground ( true);
-  stamp.bindImage("image.jpg");
-  fileStamp.addStamp(stamp);
-  fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stamp | [Stamp](../../com.aspose.pdf.facades/stamp) | Stamp object. |
-
-### addPageNumber(String formatString) {#addPageNumber-java.lang.String-}
+### POS_UPPER_MIDDLE {#POS-UPPER-MIDDLE}
 ```
-public void addPageNumber(String formatString)
+public static final int POS_UPPER_MIDDLE
 ```
 
 
-Add page number to file. Page number text may contain \# sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally.
+Upper middle position.
 
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  fileStamp.addPageNumber("Page #");
-  fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formatString | java.lang.String | Text of page number |
-
-### addPageNumber(FormattedText formattedText) {#addPageNumber-com.aspose.pdf.facades.FormattedText-}
-```
-public void addPageNumber(FormattedText formattedText)
-```
-
-
-Adds page number to the page. Page number may contain \# sign which will be replaced with page number. Page number is placed in the bottom of the page centered horizontally.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  fileStamp.addPageNumber(new FormattedText("Page #"));
-  fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Format string for page number representes as FormattedText. |
-
-### addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-java.lang.String-int-float-float-float-float-}
-```
-public void addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
-```
-
-
-Adds page number to the pages of document.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  fileStamp.addPageNumber("Page #", PdfFileStamp.POS_BOTTOM_LEFT, 100, 100, 200, 200);
-  fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formatString | java.lang.String | Format string for page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
-
-### addPageNumber(String formatString, float x, float y) {#addPageNumber-java.lang.String-float-float-}
-```
-public void addPageNumber(String formatString, float x, float y)
-```
-
-
-Adds page number at the specified position on the page.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
- fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formatString | java.lang.String | Format string. Format string can contain \# sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
-
-### addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-}
-```
-public void addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
-```
-
-
-Adds page number to the pages of document.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  fileStamp.addPageNumber(new FormattedText("Page #"), PdfFileStamp.POS_BOTTOM_LEFT, 100, 100, 200, 200);
-  fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which represents page number format and properties iof the text. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
-
-### addPageNumber(FormattedText formattedText, float x, float y) {#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-}
-```
-public void addPageNumber(FormattedText formattedText, float x, float y)
-```
-
-
-Adds page number at the specified position on the page.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
- fileStamp.close();
+### POS_UPPER_RIGHT {#POS-UPPER-RIGHT}
 ```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text which represents page number format and properties of the text. Format string can contain \# sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
-
-### addHeader(FormattedText formattedText, float topMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-}
-```
-public void addHeader(FormattedText formattedText, float topMargin)
-```
-
-
-Adds header to the page.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- fileStamp.addHeader(new FormattedText("Head of the page"), 50);
- fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Text for header and properties of the text. |
-| topMargin | float | Margin on the top of page. |
-
-### addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-}
-```
-public void addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)
-```
-
-
-Adds header to the pages of file.
-
---------------------
-
-```
-PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- stamp.addHeader(new FormattedText("Head of the page"), 10, 50, 50);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text object which contains page text and its properties. |
-| topMargin | float | Margin on the top of the page. |
-| leftMargin | float | Margin on the left of the page. |
-| rightMargin | float | Margin on the right of the page. |
-
-### addHeader(String imageFile, float topMargin) {#addHeader-java.lang.String-float-}
-```
-public void addHeader(String imageFile, float topMargin)
-```
-
-
-Adds image as header to the pages of the file.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
- fileStamp.addHeader("image.jpg", 50);
- fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageFile | java.lang.String | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
-
-### addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.lang.String-float-float-float-}
-```
-public void addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)
-```
-
-
-Adds image as header on the pages.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
- fileStamp.addHeader("image.jpg", 50, 100, 100);
- fileStamp.close();
+public static final int POS_UPPER_RIGHT
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageFile | java.lang.String | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
 
-### addHeader(InputStream imageStream, float topMargin) {#addHeader-java.io.InputStream-float-}
-```
-public void addHeader(InputStream imageStream, float topMargin)
-```
-
-
-Adds image as header on the pages.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
- InputStream input = new FileInputStream("test.jpg");
- fileStamp.addHeader(input, 50);
- fileStamp.close();
-```
+Right upper position.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageStream | java.io.InputStream | Stream of the image. |
-| topMargin | float | Margin at top of the page. |
-
-### addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.io.InputStream-float-float-float-}
+### POS_UPPER_RIGHT {#POS-UPPER-RIGHT}
 ```
-public void addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)
+public static final int POS_UPPER_RIGHT
 ```
-
 
-Adds image at the top of the page.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
- InputStream input = new FileInputStream("test.jpg");
- fileStamp.addHeader(input, 50, 100, 100);
- fileStamp.close();
-```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Stream which contains image data. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
+Right upper position.
 
 ### addFooter(FormattedText formattedText, float bottomMargin) {#addFooter-com.aspose.pdf.facades.FormattedText-float-}
 ```
@@ -879,44 +450,6 @@ PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains footer text and text properties. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
-
-### addFooter(String imageFile, float bottomMargin) {#addFooter-java.lang.String-float-}
-```
-public void addFooter(String imageFile, float bottomMargin)
-```
-
-
-Adds image as footer to the pages of the document.
-
---------------------
-
-```
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
- fileStamp.addFooter("image.jpg", 50);
- fileStamp.close();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageFile | java.lang.String | Image file name and path. |
-| bottomMargin | float | Margin at the bottom of the page. |
-
-### addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-java.lang.String-float-float-float-}
-```
-public void addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)
-```
-
-
-Adds image as footer of the pages.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageFile | java.lang.String | Iamge file name and path. |
 | bottomMargin | float | Margin at the bottom of the page. |
 | leftMargin | float | Margin at the left side of the page. |
 | rightMargin | float | Margin at the right side of the page. |
@@ -969,27 +502,226 @@ PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
 | leftMargin | float | Margin at the left side of the page. |
 | rightMargin | float | Margin at the right side of the page. |
 
-### addPageNumber(String formatString, int position) {#addPageNumber-java.lang.String-int-}
+### addFooter(String imageFile, float bottomMargin) {#addFooter-java.lang.String-float-}
 ```
-public void addPageNumber(String formatString, int position)
+public void addFooter(String imageFile, float bottomMargin)
 ```
 
 
-Adds page number to the pages.
+Adds image as footer to the pages of the document.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addFooter("image.jpg", 50);
+ fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFile | java.lang.String | Image file name and path. |
+| bottomMargin | float | Margin at the bottom of the page. |
+
+### addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-java.lang.String-float-float-float-}
+```
+public void addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)
+```
+
+
+Adds image as footer of the pages.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFile | java.lang.String | Iamge file name and path. |
+| bottomMargin | float | Margin at the bottom of the page. |
+| leftMargin | float | Margin at the left side of the page. |
+| rightMargin | float | Margin at the right side of the page. |
+
+### addHeader(FormattedText formattedText, float topMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-}
+```
+public void addHeader(FormattedText formattedText, float topMargin)
+```
+
+
+Adds header to the page.
 
 --------------------
 
 ```
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-  fileStamp.addPageNumber("Page #", PdfFileStamp.PosUpperRight);
+ fileStamp.addHeader(new FormattedText("Head of the page"), 50);
+ fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Text for header and properties of the text. |
+| topMargin | float | Margin on the top of page. |
+
+### addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-}
+```
+public void addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)
+```
+
+
+Adds header to the pages of file.
+
+--------------------
+
+```
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+ stamp.addHeader(new FormattedText("Head of the page"), 10, 50, 50);
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text object which contains page text and its properties. |
+| topMargin | float | Margin on the top of the page. |
+| leftMargin | float | Margin on the left of the page. |
+| rightMargin | float | Margin on the right of the page. |
+
+### addHeader(InputStream imageStream, float topMargin) {#addHeader-java.io.InputStream-float-}
+```
+public void addHeader(InputStream imageStream, float topMargin)
+```
+
+
+Adds image as header on the pages.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ InputStream input = new FileInputStream("test.jpg");
+ fileStamp.addHeader(input, 50);
+ fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageStream | java.io.InputStream | Stream of the image. |
+| topMargin | float | Margin at top of the page. |
+
+### addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.io.InputStream-float-float-float-}
+```
+public void addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)
+```
+
+
+Adds image at the top of the page.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ InputStream input = new FileInputStream("test.jpg");
+ fileStamp.addHeader(input, 50, 100, 100);
+ fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Stream which contains image data. |
+| topMargin | float | Margin at top of the page. |
+| leftMargin | float | Margin at left side of the page. |
+| rightMargin | float | Margin at right side of the page. |
+
+### addHeader(String imageFile, float topMargin) {#addHeader-java.lang.String-float-}
+```
+public void addHeader(String imageFile, float topMargin)
+```
+
+
+Adds image as header to the pages of the file.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addHeader("image.jpg", 50);
+ fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFile | java.lang.String | Path to the image file. |
+| topMargin | float | Margin at top of the page. |
+
+### addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.lang.String-float-float-float-}
+```
+public void addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)
+```
+
+
+Adds image as header on the pages.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addHeader("image.jpg", 50, 100, 100);
+ fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFile | java.lang.String | Path to the image file. |
+| topMargin | float | Margin at top of the page. |
+| leftMargin | float | Margin at left side of the page. |
+| rightMargin | float | Margin at right side of the page. |
+
+### addPageNumber(FormattedText formattedText) {#addPageNumber-com.aspose.pdf.facades.FormattedText-}
+```
+public void addPageNumber(FormattedText formattedText)
+```
+
+
+Adds page number to the page. Page number may contain \# sign which will be replaced with page number. Page number is placed in the bottom of the page centered horizontally.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  fileStamp.addPageNumber(new FormattedText("Page #"));
   fileStamp.close();
 ```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formatString | java.lang.String | Format of the page number. This text may contain \# which will be replaced with page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Format string for page number representes as FormattedText. |
+
+### addPageNumber(FormattedText formattedText, float x, float y) {#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-}
+```
+public void addPageNumber(FormattedText formattedText, float x, float y)
+```
+
+
+Adds page number at the specified position on the page.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
+ fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text which represents page number format and properties of the text. Format string can contain \# sign which will be replaced with page number. |
+| x | float | X coordinate of page number. |
+| y | float | Y coordinate of page number. |
 
 ### addPageNumber(FormattedText formattedText, int position) {#addPageNumber-com.aspose.pdf.facades.FormattedText-int-}
 ```
@@ -1013,74 +745,217 @@ PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 | formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains format of the page number and text properties. This text may contain \# which will be replaced with page number. |
 | position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
-### getContentDisposition() {#getContentDisposition--}
+### addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-}
 ```
-public int getContentDisposition()
-```
-
-
-Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
-
-**Returns:**
-int - ContentDisposition element
-### setContentDisposition(int value) {#setContentDisposition-int-}
-```
-public void setContentDisposition(int value)
+public void addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
 ```
 
 
-Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+Adds page number to the pages of document.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  fileStamp.addPageNumber(new FormattedText("Page #"), PdfFileStamp.POS_BOTTOM_LEFT, 100, 100, 200, 200);
+  fileStamp.close();
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | ContentDisposition element |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which represents page number format and properties iof the text. |
+| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | float | Margin on the left edge of the page. |
+| rightMargin | float | Margin on the right edge of the page. |
+| topMargin | float | Margin on the top edge of the page. |
+| bottomMargin | float | Margin on the bottom edge of the page. |
 
-### getSaveOptions() {#getSaveOptions--}
+### addPageNumber(String formatString) {#addPageNumber-java.lang.String-}
 ```
-public SaveOptions getSaveOptions()
-```
-
-
-Gets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
-
-**Returns:**
-[SaveOptions](../../com.aspose.pdf/saveoptions) - SaveOptions object
-### setSaveOptions(SaveOptions value) {#setSaveOptions-com.aspose.pdf.SaveOptions-}
-```
-public void setSaveOptions(SaveOptions value)
+public void addPageNumber(String formatString)
 ```
 
 
-Sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+Add page number to file. Page number text may contain \# sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  fileStamp.addPageNumber("Page #");
+  fileStamp.close();
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | SaveOptions object |
+| formatString | java.lang.String | Text of page number |
 
-### getAttachmentName() {#getAttachmentName--}
+### addPageNumber(String formatString, float x, float y) {#addPageNumber-java.lang.String-float-float-}
 ```
-public String getAttachmentName()
-```
-
-
-Gets name of attachment when result of operation is stored into HttpResponse objects as attachment.
-
-**Returns:**
-java.lang.String - string object
-### setAttachmentName(String value) {#setAttachmentName-java.lang.String-}
-```
-public void setAttachmentName(String value)
+public void addPageNumber(String formatString, float x, float y)
 ```
 
 
-Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+Adds page number at the specified position on the page.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
+ fileStamp.close();
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String | string object |
+| formatString | java.lang.String | Format string. Format string can contain \# sign which will be replaced with page number. |
+| x | float | X coordinate of page number. |
+| y | float | Y coordinate of page number. |
+
+### addPageNumber(String formatString, int position) {#addPageNumber-java.lang.String-int-}
+```
+public void addPageNumber(String formatString, int position)
+```
+
+
+Adds page number to the pages.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  fileStamp.addPageNumber("Page #", PdfFileStamp.PosUpperRight);
+  fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| formatString | java.lang.String | Format of the page number. This text may contain \# which will be replaced with page number. |
+| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+
+### addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-java.lang.String-int-float-float-float-float-}
+```
+public void addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
+```
+
+
+Adds page number to the pages of document.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  fileStamp.addPageNumber("Page #", PdfFileStamp.POS_BOTTOM_LEFT, 100, 100, 200, 200);
+  fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| formatString | java.lang.String | Format string for page number. |
+| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | float | Margin on the left edge of the page. |
+| rightMargin | float | Margin on the right edge of the page. |
+| topMargin | float | Margin on the top edge of the page. |
+| bottomMargin | float | Margin on the bottom edge of the page. |
+
+### addStamp(Stamp stamp) {#addStamp-com.aspose.pdf.facades.Stamp-}
+```
+public void addStamp(Stamp stamp)
+```
+
+
+Adds stamp to the file.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  Stamp stamp = new com.aspose.pdf.facades.Stamp();
+  stamp.setOrigin(140, 400);
+  stamp.setImageSize(50, 50);
+  stamp.setOpacity ( 0.8f);
+  stamp.isBackground ( true);
+  stamp.bindImage("image.jpg");
+  fileStamp.addStamp(stamp);
+  fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stamp | [Stamp](../../com.aspose.pdf.facades/stamp) | Stamp object. |
+
+### bindPdf(IDocument srcDoc) {#bindPdf-com.aspose.pdf.IDocument-}
+```
+public void bindPdf(IDocument srcDoc)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcDoc | [IDocument](../../com.aspose.pdf/idocument) | The Document object. |
+
+### bindPdf(InputStream srcStream) {#bindPdf-java.io.InputStream-}
+```
+public void bindPdf(InputStream srcStream)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | java.io.InputStream | The stream of PDF file. |
+
+### bindPdf(InputStream srcStream, String password) {#bindPdf-java.io.InputStream-java.lang.String-}
+```
+public void bindPdf(InputStream srcStream, String password)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | java.io.InputStream | The stream of PDF file. |
+| password | java.lang.String | The password of the PDF document. |
+
+### bindPdf(String srcFile) {#bindPdf-java.lang.String-}
+```
+public void bindPdf(String srcFile)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | java.lang.String | The PDF file. |
+
+### bindPdf(String srcFile, String password) {#bindPdf-java.lang.String-java.lang.String-}
+```
+public void bindPdf(String srcFile, String password)
+```
+
+
+Initializes the facade.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | java.lang.String | The PDF file |
+| password | java.lang.String | The password of the PDF document. |
 
 ### close() {#close--}
 ```
@@ -1098,6 +973,187 @@ PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
  stamp.close();
 ```
 
+### dispose() {#dispose--}
+```
+public void dispose()
+```
+
+
+Closes all resources used by this instance.
+
+This method is obsolete, use close() instead.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getAttachmentName() {#getAttachmentName--}
+```
+public String getAttachmentName()
+```
+
+
+Gets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+
+**Returns:**
+java.lang.String - string object
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getContentDisposition() {#getContentDisposition--}
+```
+public int getContentDisposition()
+```
+
+
+Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+
+**Returns:**
+int - ContentDisposition element
+### getDocument() {#getDocument--}
+```
+public IDocument getDocument()
+```
+
+
+Gets the document facade is working on.
+
+**Returns:**
+[IDocument](../../com.aspose.pdf/idocument) - IDocument element
+### getInputFile() {#getInputFile--}
+```
+public String getInputFile()
+```
+
+
+Gets name and path of input file.
+
+**Returns:**
+java.lang.String - String object
+### getInputStream() {#getInputStream--}
+```
+public InputStream getInputStream()
+```
+
+
+Gets input stream.
+
+**Returns:**
+java.io.InputStream - InputStream object
+### getKeepSecurity() {#getKeepSecurity--}
+```
+public boolean getKeepSecurity()
+```
+
+
+Keeps security if true. (This feature will be implemented in next versions).
+
+**Returns:**
+boolean - boolean value
+### getNumberingStyle() {#getNumberingStyle--}
+```
+public int getNumberingStyle()
+```
+
+
+Gets or sets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+
+**Returns:**
+int - NumberingStyle element
+### getOptimizeSize() {#getOptimizeSize--}
+```
+public boolean getOptimizeSize()
+```
+
+
+Gets or sets optimization flag. Equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false.
+
+**Returns:**
+boolean - boolean value
+### getOutputFile() {#getOutputFile--}
+```
+public String getOutputFile()
+```
+
+
+Gets name and path of output file.
+
+**Returns:**
+java.lang.String - String object
+### getOutputStream() {#getOutputStream--}
+```
+public OutputStream getOutputStream()
+```
+
+
+Gets output stream.
+
+**Returns:**
+java.io.OutputStream - OutputStream object
+### getPageHeight() {#getPageHeight--}
+```
+public float getPageHeight()
+```
+
+
+Gets height of first page in source file.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  System.out.println("Height = " + fileStamp.getPageHeight());
+  fileStamp.close();
+```
+
+**Returns:**
+float - float value
+### getPageNumberRotation() {#getPageNumberRotation--}
+```
+public float getPageNumberRotation()
+```
+
+
+Gets rotation of page number. Rotation is in degrees. Default is 0.
+
+**Returns:**
+float - float value
+### getPageWidth() {#getPageWidth--}
+```
+public float getPageWidth()
+```
+
+
+Gets width of first page in input file.
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  System.out.println("Width = " + fileStamp.getPageWidth());
+  fileStamp.close();
+```
+
+**Returns:**
+float - float value
 ### getResponse() {#getResponse--}
 ```
 public HttpServletResponse getResponse()
@@ -1108,6 +1164,231 @@ Gets Response object where result of operation will be stored.
 
 **Returns:**
 javax.servlet.http.HttpServletResponse - HttpServletResponse object
+### getSaveOptions() {#getSaveOptions--}
+```
+public SaveOptions getSaveOptions()
+```
+
+
+Gets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+
+**Returns:**
+[SaveOptions](../../com.aspose.pdf/saveoptions) - SaveOptions object
+### getStampId() {#getStampId--}
+```
+public int getStampId()
+```
+
+
+Stamp ID of next added stamp (including page headers/hooters/page numbers).
+
+**Returns:**
+int - int value
+### getStartingNumber() {#getStartingNumber--}
+```
+public int getStartingNumber()
+```
+
+
+Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value.
+
+**Returns:**
+int - int value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### save(OutputStream destStream) {#save-java.io.OutputStream-}
+```
+public void save(OutputStream destStream)
+```
+
+
+Saves the PDF document to the specified stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destStream | java.io.OutputStream | The destination stream. |
+
+### save(String destFile) {#save-java.lang.String-}
+```
+public void save(String destFile)
+```
+
+
+Saves the PDF document to the specified file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destFile | java.lang.String | The destination file. |
+
+### setAttachmentName(String value) {#setAttachmentName-java.lang.String-}
+```
+public void setAttachmentName(String value)
+```
+
+
+Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | string object |
+
+### setContentDisposition(int value) {#setContentDisposition-int-}
+```
+public void setContentDisposition(int value)
+```
+
+
+Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | ContentDisposition element |
+
+### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
+```
+public void setConvertTo(PdfFormat value)
+```
+
+
+Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat element |
+
+### setInputFile(String value) {#setInputFile-java.lang.String-}
+```
+public void setInputFile(String value)
+```
+
+
+Sets name and path of input file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String object |
+
+### setInputStream(InputStream value) {#setInputStream-java.io.InputStream-}
+```
+public void setInputStream(InputStream value)
+```
+
+
+Sets input stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.io.InputStream | InputStream object |
+
+### setKeepSecurity(boolean value) {#setKeepSecurity-boolean-}
+```
+public void setKeepSecurity(boolean value)
+```
+
+
+Keeps security if true. (This feature will be implemented in next versions).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setNumberingStyle(int value) {#setNumberingStyle-int-}
+```
+public void setNumberingStyle(int value)
+```
+
+
+Gets or sets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | NumberingStyle element |
+
+### setOptimizeSize(boolean value) {#setOptimizeSize-boolean-}
+```
+public void setOptimizeSize(boolean value)
+```
+
+
+Gets or sets optimization flag. Equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setOutputFile(String value) {#setOutputFile-java.lang.String-}
+```
+public void setOutputFile(String value)
+```
+
+
+Sets name and path of output file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String object |
+
+### setOutputStream(OutputStream value) {#setOutputStream-java.io.OutputStream-}
+```
+public void setOutputStream(OutputStream value)
+```
+
+
+Sets or sets output stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.io.OutputStream | OutputStream object |
+
+### setPageNumberRotation(float value) {#setPageNumberRotation-float-}
+```
+public void setPageNumberRotation(float value)
+```
+
+
+Sets rotation of page number. Rotation is in degrees. Default is 0.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | float value |
+
 ### setResponse(HttpServletResponse value) {#setResponse-javax.servlet.http.HttpServletResponse-}
 ```
 public void setResponse(HttpServletResponse value)
@@ -1120,4 +1401,97 @@ Sets Response object where result of operation will be stored.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | javax.servlet.http.HttpServletResponse | HttpServletResponse object |
+
+### setSaveOptions(SaveOptions value) {#setSaveOptions-com.aspose.pdf.SaveOptions-}
+```
+public void setSaveOptions(SaveOptions value)
+```
+
+
+Sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | SaveOptions object |
+
+### setStampId(int value) {#setStampId-int-}
+```
+public void setStampId(int value)
+```
+
+
+Stamp ID of next added stamp (including page headers/hooters/page numbers).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### setStartingNumber(int value) {#setStartingNumber-int-}
+```
+public void setStartingNumber(int value)
+```
+
+
+Sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100, document pages will have numbers 100, 101, 102...
+
+--------------------
+
+```
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+  fileStamp.setStartingNumber( 100);
+  fileStamp.addPageNumber("Page #");
+  fileStamp.close();
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

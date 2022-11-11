@@ -17,164 +17,50 @@ Class representing image raw XImage parameters.
 
 | Method | Description |
 | --- | --- |
-| [getType()](#getType--) | default value "" |
-| [setType(String type)](#setType-java.lang.String-) | default value "" |
-| [getSubtype()](#getSubtype--) | default value "" |
-| [setSubtype(String subtype)](#setSubtype-java.lang.String-) | default value "" |
-| [getColorSpace()](#getColorSpace--) | default value "" |
-| [setColorSpace(String colorSpace)](#setColorSpace-java.lang.String-) | default value "" |
-| [getLength()](#getLength--) | default value -1 |
-| [setLength(long length)](#setLength-long-) | default value -1 |
-| [getFilter()](#getFilter--) | default value "" |
-| [setFilter(String filter)](#setFilter-java.lang.String-) | default value "" |
-| [getName()](#getName--) | default value "" |
-| [setName(String name)](#setName-java.lang.String-) | default value "" |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBitsPerComponent()](#getBitsPerComponent--) | default value -1 |
-| [setBitsPerComponent(long bitsPerComponent)](#setBitsPerComponent-long-) | default value -1 |
-| [getWidth()](#getWidth--) |  |
-| [setWidth(long width)](#setWidth-long-) |  |
-| [getHeight()](#getHeight--) | default value -1 |
-| [setHeight(long height)](#setHeight-long-) | default value -1 |
+| [getClass()](#getClass--) |  |
+| [getColorSpace()](#getColorSpace--) | default value "" |
 | [getDecodeParms()](#getDecodeParms--) | Decode Parameters. |
+| [getFilter()](#getFilter--) | default value "" |
+| [getHeight()](#getHeight--) | default value -1 |
+| [getLength()](#getLength--) | default value -1 |
+| [getName()](#getName--) | default value "" |
+| [getSubtype()](#getSubtype--) | default value "" |
+| [getType()](#getType--) | default value "" |
+| [getWidth()](#getWidth--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setBitsPerComponent(long bitsPerComponent)](#setBitsPerComponent-long-) | default value -1 |
+| [setColorSpace(String colorSpace)](#setColorSpace-java.lang.String-) | default value "" |
 | [setDecodeParms(HashMap<String,String> decodeParms)](#setDecodeParms-java.util.HashMap-java.lang.String-java.lang.String--) | Decode Parameters. |
-### getType() {#getType--}
+| [setFilter(String filter)](#setFilter-java.lang.String-) | default value "" |
+| [setHeight(long height)](#setHeight-long-) | default value -1 |
+| [setLength(long length)](#setLength-long-) | default value -1 |
+| [setName(String name)](#setName-java.lang.String-) | default value "" |
+| [setSubtype(String subtype)](#setSubtype-java.lang.String-) | default value "" |
+| [setType(String type)](#setType-java.lang.String-) | default value "" |
+| [setWidth(long width)](#setWidth-long-) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public String getType()
+public boolean equals(Object arg0)
 ```
 
 
-default value ""
 
-**Returns:**
-java.lang.String - String value
-### setType(String type) {#setType-java.lang.String-}
-```
-public void setType(String type)
-```
-
-
-default value ""
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | java.lang.String | String value |
-
-### getSubtype() {#getSubtype--}
-```
-public String getSubtype()
-```
-
-
-default value ""
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-java.lang.String - String value
-### setSubtype(String subtype) {#setSubtype-java.lang.String-}
-```
-public void setSubtype(String subtype)
-```
-
-
-default value ""
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| subtype | java.lang.String | String value |
-
-### getColorSpace() {#getColorSpace--}
-```
-public String getColorSpace()
-```
-
-
-default value ""
-
-**Returns:**
-java.lang.String - String value
-### setColorSpace(String colorSpace) {#setColorSpace-java.lang.String-}
-```
-public void setColorSpace(String colorSpace)
-```
-
-
-default value ""
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| colorSpace | java.lang.String | String value |
-
-### getLength() {#getLength--}
-```
-public long getLength()
-```
-
-
-default value -1
-
-**Returns:**
-long - long value
-### setLength(long length) {#setLength-long-}
-```
-public void setLength(long length)
-```
-
-
-default value -1
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| length | long | long value |
-
-### getFilter() {#getFilter--}
-```
-public String getFilter()
-```
-
-
-default value ""
-
-**Returns:**
-java.lang.String - String value
-### setFilter(String filter) {#setFilter-java.lang.String-}
-```
-public void setFilter(String filter)
-```
-
-
-default value ""
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filter | java.lang.String | String value |
-
-### getName() {#getName--}
-```
-public String getName()
-```
-
-
-default value ""
-
-**Returns:**
-java.lang.String - String value
-### setName(String name) {#setName-java.lang.String-}
-```
-public void setName(String name)
-```
-
-
-default value ""
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | String value |
-
+boolean
 ### getBitsPerComponent() {#getBitsPerComponent--}
 ```
 public long getBitsPerComponent()
@@ -185,6 +71,132 @@ default value -1
 
 **Returns:**
 long - long value
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getColorSpace() {#getColorSpace--}
+```
+public String getColorSpace()
+```
+
+
+default value ""
+
+**Returns:**
+java.lang.String - String value
+### getDecodeParms() {#getDecodeParms--}
+```
+public HashMap<String,String> getDecodeParms()
+```
+
+
+Decode Parameters. default value null
+
+**Returns:**
+java.util.HashMap<java.lang.String,java.lang.String> -  HashMap instance 
+### getFilter() {#getFilter--}
+```
+public String getFilter()
+```
+
+
+default value ""
+
+**Returns:**
+java.lang.String - String value
+### getHeight() {#getHeight--}
+```
+public long getHeight()
+```
+
+
+default value -1
+
+**Returns:**
+long - long value
+### getLength() {#getLength--}
+```
+public long getLength()
+```
+
+
+default value -1
+
+**Returns:**
+long - long value
+### getName() {#getName--}
+```
+public String getName()
+```
+
+
+default value ""
+
+**Returns:**
+java.lang.String - String value
+### getSubtype() {#getSubtype--}
+```
+public String getSubtype()
+```
+
+
+default value ""
+
+**Returns:**
+java.lang.String - String value
+### getType() {#getType--}
+```
+public String getType()
+```
+
+
+default value ""
+
+**Returns:**
+java.lang.String - String value
+### getWidth() {#getWidth--}
+```
+public long getWidth()
+```
+
+
+
+
+**Returns:**
+long
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setBitsPerComponent(long bitsPerComponent) {#setBitsPerComponent-long-}
 ```
 public void setBitsPerComponent(long bitsPerComponent)
@@ -198,39 +210,45 @@ default value -1
 | --- | --- | --- |
 | bitsPerComponent | long | long value |
 
-### getWidth() {#getWidth--}
+### setColorSpace(String colorSpace) {#setColorSpace-java.lang.String-}
 ```
-public long getWidth()
-```
-
-
-
-
-**Returns:**
-long
-### setWidth(long width) {#setWidth-long-}
-```
-public void setWidth(long width)
+public void setColorSpace(String colorSpace)
 ```
 
 
-
+default value ""
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | long |  |
+| colorSpace | java.lang.String | String value |
 
-### getHeight() {#getHeight--}
+### setDecodeParms(HashMap<String,String> decodeParms) {#setDecodeParms-java.util.HashMap-java.lang.String-java.lang.String--}
 ```
-public long getHeight()
+public void setDecodeParms(HashMap<String,String> decodeParms)
 ```
 
 
-default value -1
+Decode Parameters. default value null
 
-**Returns:**
-long - long value
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| decodeParms | java.util.HashMap<java.lang.String,java.lang.String> |  HashMap instance  |
+
+### setFilter(String filter) {#setFilter-java.lang.String-}
+```
+public void setFilter(String filter)
+```
+
+
+default value ""
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filter | java.lang.String | String value |
+
 ### setHeight(long height) {#setHeight-long-}
 ```
 public void setHeight(long height)
@@ -244,26 +262,113 @@ default value -1
 | --- | --- | --- |
 | height | long | long value |
 
-### getDecodeParms() {#getDecodeParms--}
+### setLength(long length) {#setLength-long-}
 ```
-public HashMap<String,String> getDecodeParms()
-```
-
-
-Decode Parameters. default value null
-
-**Returns:**
-java.util.HashMap<java.lang.String,java.lang.String> -  HashMap instance 
-### setDecodeParms(HashMap<String,String> decodeParms) {#setDecodeParms-java.util.HashMap-java.lang.String-java.lang.String--}
-```
-public void setDecodeParms(HashMap<String,String> decodeParms)
+public void setLength(long length)
 ```
 
 
-Decode Parameters. default value null
+default value -1
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| decodeParms | java.util.HashMap<java.lang.String,java.lang.String> |  HashMap instance  |
+| length | long | long value |
+
+### setName(String name) {#setName-java.lang.String-}
+```
+public void setName(String name)
+```
+
+
+default value ""
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | String value |
+
+### setSubtype(String subtype) {#setSubtype-java.lang.String-}
+```
+public void setSubtype(String subtype)
+```
+
+
+default value ""
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| subtype | java.lang.String | String value |
+
+### setType(String type) {#setType-java.lang.String-}
+```
+public void setType(String type)
+```
+
+
+default value ""
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | java.lang.String | String value |
+
+### setWidth(long width) {#setWidth-long-}
+```
+public void setWidth(long width)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | long |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

@@ -17,35 +17,62 @@ Base class for set color operators.
 
 | Method | Description |
 | --- | --- |
-| [getR()](#getR--) | Gets red component of color |
-| [getG()](#getG--) | Gets green component of color |
+| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor IOperatorSelector which provides operators processing. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getB()](#getB--) | Gets red component of color |
 | [getC()](#getC--) | Gets cyan component of CMYK color. |
-| [getM()](#getM--) | Gets magenta component of CMYK color. |
-| [getY()](#getY--) | Gets yellow component of CMYK color. |
-| [getK()](#getK--) | Gets black component of CMYK color. |
-| [getGrey()](#getGrey--) | Gets black component of gray color. |
+| [getClass()](#getClass--) |  |
+| [getColor()](#getColor--) | Retirns color specified by the operator. |
 | [getColorArray()](#getColorArray--) | Gets array of color components. |
-### getR() {#getR--}
+| [getCommand()](#getCommand--) | Gets command |
+| [getCommandName()](#getCommandName--) | Gets operator name. |
+| [getG()](#getG--) | Gets green component of color |
+| [getGrey()](#getGrey--) | Gets black component of gray color. |
+| [getIndex()](#getIndex--) | Get Operator index in page operators list. |
+| [getK()](#getK--) | Gets black component of CMYK color. |
+| [getM()](#getM--) | Gets magenta component of CMYK color. |
+| [getParameters()](#getParameters--) | Gets array of operator parameters. |
+| [getR()](#getR--) | Gets red component of color |
+| [getY()](#getY--) | Gets yellow component of CMYK color. |
+| [hashCode()](#hashCode--) |  |
+| [isTextShowOperator(Operator op)](#isTextShowOperator-com.aspose.pdf.Operator-) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [reset()](#reset--) | For internal usage only |
+| [setIndex(int value)](#setIndex-int-) | Set Operator index in page operators list. |
+| [toString()](#toString--) | Translates command and parameters into string representation. |
+| [toString(IPdfPrimitive primitive)](#toString-com.aspose.pdf.engine.data.IPdfPrimitive-) | Returns text representation of Pdf primitive (string, array, dictionary etc.) according to PDF specification. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```
-public double getR()
+public abstract void accept(IOperatorSelector visitor)
 ```
 
 
-Gets red component of color
+Accepts visitor IOperatorSelector which provides operators processing.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-double - double value
-### getG() {#getG--}
-```
-public double getG()
-```
-
-
-Gets green component of color
-
-**Returns:**
-double - double value
+boolean
 ### getB() {#getB--}
 ```
 public double getB()
@@ -66,33 +93,63 @@ Gets cyan component of CMYK color.
 
 **Returns:**
 double - double value
-### getM() {#getM--}
+### getClass() {#getClass--}
 ```
-public double getM()
+public final native Class<?> getClass()
 ```
 
 
-Gets magenta component of CMYK color.
+
 
 **Returns:**
-double - double value
-### getY() {#getY--}
+java.lang.Class<?>
+### getColor() {#getColor--}
 ```
-public double getY()
+public abstract Color getColor()
 ```
 
 
-Gets yellow component of CMYK color.
+Retirns color specified by the operator.
 
 **Returns:**
-double - double value
-### getK() {#getK--}
+[Color](../../java.awt/color) - Color specified by operator.
+### getColorArray() {#getColorArray--}
 ```
-public double getK()
+public double[] getColorArray()
 ```
 
 
-Gets black component of CMYK color.
+Gets array of color components.
+
+**Returns:**
+double[] - double array
+### getCommand() {#getCommand--}
+```
+public ICommand getCommand()
+```
+
+
+Gets command
+
+**Returns:**
+[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) - ICommand object
+### getCommandName() {#getCommandName--}
+```
+public String getCommandName()
+```
+
+
+Gets operator name.
+
+**Returns:**
+java.lang.String - String value
+### getG() {#getG--}
+```
+public double getG()
+```
+
+
+Gets green component of color
 
 **Returns:**
 double - double value
@@ -106,13 +163,185 @@ Gets black component of gray color.
 
 **Returns:**
 double - double value
-### getColorArray() {#getColorArray--}
+### getIndex() {#getIndex--}
 ```
-public double[] getColorArray()
+public int getIndex()
 ```
 
 
-Gets array of color components.
+Get Operator index in page operators list.
 
 **Returns:**
-double[] - double array
+int - int value
+### getK() {#getK--}
+```
+public double getK()
+```
+
+
+Gets black component of CMYK color.
+
+**Returns:**
+double - double value
+### getM() {#getM--}
+```
+public double getM()
+```
+
+
+Gets magenta component of CMYK color.
+
+**Returns:**
+double - double value
+### getParameters() {#getParameters--}
+```
+public ArrayList<CommandParameter> getParameters()
+```
+
+
+Gets array of operator parameters.
+
+**Returns:**
+java.util.ArrayList<com.aspose.pdf.engine.commondata.pagecontent.operators.commands.CommandParameter> - ArrayList of CommandParameter value
+### getR() {#getR--}
+```
+public double getR()
+```
+
+
+Gets red component of color
+
+**Returns:**
+double - double value
+### getY() {#getY--}
+```
+public double getY()
+```
+
+
+Gets yellow component of CMYK color.
+
+**Returns:**
+double - double value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isTextShowOperator(Operator op) {#isTextShowOperator-com.aspose.pdf.Operator-}
+```
+public static boolean isTextShowOperator(Operator op)
+```
+
+
+Determines if the operator is operator which responsible for text output (Tj, TJ, etc)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| op | [Operator](../../com.aspose.pdf/operator) | Operator object |
+
+**Returns:**
+boolean - True if this is text output operator
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### reset() {#reset--}
+```
+public void reset()
+```
+
+
+For internal usage only
+
+### setIndex(int value) {#setIndex-int-}
+```
+public void setIndex(int value)
+```
+
+
+Set Operator index in page operators list.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Translates command and parameters into string representation.
+
+**Returns:**
+java.lang.String - Operator text
+### toString(IPdfPrimitive primitive) {#toString-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public static String toString(IPdfPrimitive primitive)
+```
+
+
+Returns text representation of Pdf primitive (string, array, dictionary etc.) according to PDF specification.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| primitive | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | Primitive |
+
+**Returns:**
+java.lang.String - Text represetation of the primitive
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

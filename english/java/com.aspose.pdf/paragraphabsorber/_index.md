@@ -3,7 +3,7 @@ title: ParagraphAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of page structure objects such as sections and paragraphs.
 type: docs
-weight: 270
+weight: 269
 url: /java/com.aspose.pdf/paragraphabsorber/
 ---
 **Inheritance:**
@@ -31,13 +31,22 @@ When the search is completed the  ParagraphAbsorber.PageMarkups  collection will
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getPageMarkups()](#getPageMarkups--) | Gets collection of  PageMarkup  that were absorbed. |
 | [getSectionsSearchDepth()](#getSectionsSearchDepth--) | Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. |
-| [setSectionsSearchDepth(int value)](#setSectionsSearchDepth-int-) | Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. |
+| [hashCode()](#hashCode--) |  |
 | [isMulticolumnParagraphsAllowed()](#isMulticolumnParagraphsAllowed--) | Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
 | [setMulticolumnParagraphsAllowed(boolean value)](#setMulticolumnParagraphsAllowed-boolean-) | Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section. |
+| [setSectionsSearchDepth(int value)](#setSectionsSearchDepth-int-) | Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. |
+| [toString()](#toString--) |  |
 | [visit(Document doc)](#visit-com.aspose.pdf.Document-) | Performs search for sections and paragraphs on the specified [Document](../../com.aspose.pdf/document). |
 | [visit(Page page)](#visit-com.aspose.pdf.Page-) | Performs search on the specified  Page . |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### ParagraphAbsorber() {#ParagraphAbsorber--}
 ```
 public ParagraphAbsorber()
@@ -65,6 +74,31 @@ See  ParagraphAbsorber.SectionsSearchDepth  property for more hints about the pa
 
 -------------------- |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getPageMarkups() {#getPageMarkups--}
 ```
 public List<PageMarkup> getPageMarkups()
@@ -89,6 +123,55 @@ Increasing of this value may lead to minor decreasing performance with no visibl
 
 **Returns:**
 int - int value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isMulticolumnParagraphsAllowed() {#isMulticolumnParagraphsAllowed--}
+```
+public final boolean isMulticolumnParagraphsAllowed()
+```
+
+
+Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
+
+**Returns:**
+boolean - boolean value
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setMulticolumnParagraphsAllowed(boolean value) {#setMulticolumnParagraphsAllowed-boolean-}
+```
+public final void setMulticolumnParagraphsAllowed(boolean value)
+```
+
+
+Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
 ### setSectionsSearchDepth(int value) {#setSectionsSearchDepth-int-}
 ```
 public void setSectionsSearchDepth(int value)
@@ -106,29 +189,16 @@ Increasing of this value may lead to minor decreasing performance with no visibl
 | --- | --- | --- |
 | value | int | int value |
 
-### isMulticolumnParagraphsAllowed() {#isMulticolumnParagraphsAllowed--}
+### toString() {#toString--}
 ```
-public final boolean isMulticolumnParagraphsAllowed()
+public String toString()
 ```
 
 
-Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
+
 
 **Returns:**
-boolean - boolean value
-### setMulticolumnParagraphsAllowed(boolean value) {#setMulticolumnParagraphsAllowed-boolean-}
-```
-public final void setMulticolumnParagraphsAllowed(boolean value)
-```
-
-
-Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
+java.lang.String
 ### visit(Document doc) {#visit-com.aspose.pdf.Document-}
 ```
 public void visit(Document doc)
@@ -154,4 +224,39 @@ Performs search on the specified  Page .
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | [Page](../../com.aspose.pdf/page) | Pdf document page object. |
+
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

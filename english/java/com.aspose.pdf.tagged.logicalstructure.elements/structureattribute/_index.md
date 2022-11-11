@@ -23,20 +23,29 @@ Represents attribute of structure element.
 
 | Method | Description |
 | --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getArrayNumberValue()](#getArrayNumberValue--) | Gets Value Number Array. |
+| [getArrayValue()](#getArrayValue--) | Gets Value Name Array. |
+| [getClass()](#getClass--) |  |
 | [getKey()](#getKey--) | Gets attribute key. |
 | [getNameValue()](#getNameValue--) | Gets Value Name. |
-| [getStringValue()](#getStringValue--) | Gets Value String. |
 | [getNumberValue()](#getNumberValue--) | Gets Value Number. |
-| [getArrayValue()](#getArrayValue--) | Gets Value Name Array. |
-| [getArrayNumberValue()](#getArrayNumberValue--) | Gets Value Number Array. |
-| [setNameValue(AttributeName name)](#setNameValue-com.aspose.pdf.tagged.logicalstructure.AttributeName-) | Sets Value Name. |
-| [setStringValue(String value)](#setStringValue-java.lang.String-) | Sets Value String. |
-| [setNumberValue(double number)](#setNumberValue-double-) | Sets Value Number. |
-| [setArrayValue(AttributeName[] array)](#setArrayValue-com.aspose.pdf.tagged.logicalstructure.AttributeName---) | Sets Value Name Array. |
-| [setArrayNumberValue(Double[][] arrayNumber)](#setArrayNumberValue-java.lang.Double-----) | Sets Value Number Array. |
-| [setColorValue(Color color)](#setColorValue-com.aspose.pdf.Color-) | Sets Value Color. |
-| [setRectangleValue(Rectangle rectangle)](#setRectangleValue-com.aspose.pdf.Rectangle-) | Sets Value Rectangle. |
+| [getStringValue()](#getStringValue--) | Gets Value String. |
+| [hashCode()](#hashCode--) |  |
 | [isInitializedValue()](#isInitializedValue--) | Gets status of structure attribute value. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setArrayNumberValue(Double[][] arrayNumber)](#setArrayNumberValue-java.lang.Double-----) | Sets Value Number Array. |
+| [setArrayValue(AttributeName[] array)](#setArrayValue-com.aspose.pdf.tagged.logicalstructure.AttributeName---) | Sets Value Name Array. |
+| [setColorValue(Color color)](#setColorValue-com.aspose.pdf.Color-) | Sets Value Color. |
+| [setNameValue(AttributeName name)](#setNameValue-com.aspose.pdf.tagged.logicalstructure.AttributeName-) | Sets Value Name. |
+| [setNumberValue(double number)](#setNumberValue-double-) | Sets Value Number. |
+| [setRectangleValue(Rectangle rectangle)](#setRectangleValue-com.aspose.pdf.Rectangle-) | Sets Value Rectangle. |
+| [setStringValue(String value)](#setStringValue-java.lang.String-) | Sets Value String. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### StructureAttribute(AttributeKey attributeKey) {#StructureAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-}
 ```
 public StructureAttribute(AttributeKey attributeKey)
@@ -62,6 +71,51 @@ public StructureAttribute(AttributeKey attributeKey, IPdfPrimitive pdfEntity)
 | attributeKey | [AttributeKey](../../com.aspose.pdf.tagged.logicalstructure/attributekey) |  |
 | pdfEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getArrayNumberValue() {#getArrayNumberValue--}
+```
+public final Double[][] getArrayNumberValue()
+```
+
+
+Gets Value Number Array.
+
+**Returns:**
+java.lang.Double[][] - Value Number Array.
+### getArrayValue() {#getArrayValue--}
+```
+public final AttributeName[] getArrayValue()
+```
+
+
+Gets Value Name Array.
+
+**Returns:**
+com.aspose.pdf.tagged.logicalstructure.AttributeName[] - Value Name Array.
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getKey() {#getKey--}
 ```
 public final AttributeKey getKey()
@@ -84,16 +138,6 @@ Gets Value Name.
 
 **Returns:**
 [AttributeName](../../com.aspose.pdf.tagged.logicalstructure/attributename) - Value Name.
-### getStringValue() {#getStringValue--}
-```
-public final String getStringValue()
-```
-
-
-Gets Value String.
-
-**Returns:**
-java.lang.String - Value String.
 ### getNumberValue() {#getNumberValue--}
 ```
 public final Double[] getNumberValue()
@@ -104,77 +148,51 @@ Gets Value Number.
 
 **Returns:**
 java.lang.Double[] - Value Number.
-### getArrayValue() {#getArrayValue--}
+### getStringValue() {#getStringValue--}
 ```
-public final AttributeName[] getArrayValue()
+public final String getStringValue()
 ```
 
 
-Gets Value Name Array.
+Gets Value String.
 
 **Returns:**
-com.aspose.pdf.tagged.logicalstructure.AttributeName[] - Value Name Array.
-### getArrayNumberValue() {#getArrayNumberValue--}
+java.lang.String - Value String.
+### hashCode() {#hashCode--}
 ```
-public final Double[][] getArrayNumberValue()
+public native int hashCode()
 ```
 
 
-Gets Value Number Array.
+
 
 **Returns:**
-java.lang.Double[][] - Value Number Array.
-### setNameValue(AttributeName name) {#setNameValue-com.aspose.pdf.tagged.logicalstructure.AttributeName-}
+int
+### isInitializedValue() {#isInitializedValue--}
 ```
-public final void setNameValue(AttributeName name)
-```
-
-
-Sets Value Name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | [AttributeName](../../com.aspose.pdf.tagged.logicalstructure/attributename) | Allowable Value Name. |
-
-### setStringValue(String value) {#setStringValue-java.lang.String-}
-```
-public final void setStringValue(String value)
+public final boolean isInitializedValue()
 ```
 
 
-Sets Value String.
+Gets status of structure attribute value. True if value is set.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | Value String. |
-
-### setNumberValue(double number) {#setNumberValue-double-}
+**Returns:**
+boolean - boolean value
+### notify() {#notify--}
 ```
-public final void setNumberValue(double number)
+public final native void notify()
 ```
 
 
-Sets Value Number.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| number | double | Value Number. |
 
-### setArrayValue(AttributeName[] array) {#setArrayValue-com.aspose.pdf.tagged.logicalstructure.AttributeName---}
+### notifyAll() {#notifyAll--}
 ```
-public final void setArrayValue(AttributeName[] array)
+public final native void notifyAll()
 ```
 
 
-Sets Value Name Array.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | [AttributeName\[\]](../../com.aspose.pdf.tagged.logicalstructure/attributename) | Array of allowable Value Names. |
 
 ### setArrayNumberValue(Double[][] arrayNumber) {#setArrayNumberValue-java.lang.Double-----}
 ```
@@ -189,6 +207,19 @@ Sets Value Number Array.
 | --- | --- | --- |
 | arrayNumber | java.lang.Double[][] | Array of Numbers. |
 
+### setArrayValue(AttributeName[] array) {#setArrayValue-com.aspose.pdf.tagged.logicalstructure.AttributeName---}
+```
+public final void setArrayValue(AttributeName[] array)
+```
+
+
+Sets Value Name Array.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | [AttributeName\[\]](../../com.aspose.pdf.tagged.logicalstructure/attributename) | Array of allowable Value Names. |
+
 ### setColorValue(Color color) {#setColorValue-com.aspose.pdf.Color-}
 ```
 public final void setColorValue(Color color)
@@ -201,6 +232,32 @@ Sets Value Color.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | color | [Color](../../com.aspose.pdf/color) | Color. |
+
+### setNameValue(AttributeName name) {#setNameValue-com.aspose.pdf.tagged.logicalstructure.AttributeName-}
+```
+public final void setNameValue(AttributeName name)
+```
+
+
+Sets Value Name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | [AttributeName](../../com.aspose.pdf.tagged.logicalstructure/attributename) | Allowable Value Name. |
+
+### setNumberValue(double number) {#setNumberValue-double-}
+```
+public final void setNumberValue(double number)
+```
+
+
+Sets Value Number.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| number | double | Value Number. |
 
 ### setRectangleValue(Rectangle rectangle) {#setRectangleValue-com.aspose.pdf.Rectangle-}
 ```
@@ -215,13 +272,61 @@ Sets Value Rectangle.
 | --- | --- | --- |
 | rectangle | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle. |
 
-### isInitializedValue() {#isInitializedValue--}
+### setStringValue(String value) {#setStringValue-java.lang.String-}
 ```
-public final boolean isInitializedValue()
+public final void setStringValue(String value)
 ```
 
 
-Gets status of structure attribute value. True if value is set.
+Sets Value String.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | Value String. |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
 
 **Returns:**
-boolean - boolean value
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

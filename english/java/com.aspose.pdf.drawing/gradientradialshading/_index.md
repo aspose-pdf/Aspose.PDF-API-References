@@ -23,18 +23,27 @@ Represents gradient radial shading type.
 
 | Method | Description |
 | --- | --- |
-| [getStart()](#getStart--) | Gets or sets starting circle center point. |
-| [setStart(Point value)](#setStart-com.aspose.pdf.Point-) | Gets or sets starting circle center point. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getEnd()](#getEnd--) | Gets or sets ending circle center point. |
-| [setEnd(Point value)](#setEnd-com.aspose.pdf.Point-) | Gets or sets ending circle center point. |
-| [getStartingRadius()](#getStartingRadius--) | Gets or sets starting circle radius. |
-| [setStartingRadius(double value)](#setStartingRadius-double-) | Gets or sets starting circle radius. |
-| [getEndingRadius()](#getEndingRadius--) | Gets or sets ending circle radius. |
-| [setEndingRadius(double value)](#setEndingRadius-double-) | Gets or sets ending circle radius. |
-| [getStartColor()](#getStartColor--) | Gets or sets start color. |
-| [setStartColor(Color value)](#setStartColor-com.aspose.pdf.Color-) | Gets or sets start color. |
 | [getEndColor()](#getEndColor--) | Gets or sets end color. |
+| [getEndingRadius()](#getEndingRadius--) | Gets or sets ending circle radius. |
+| [getStart()](#getStart--) | Gets or sets starting circle center point. |
+| [getStartColor()](#getStartColor--) | Gets or sets start color. |
+| [getStartingRadius()](#getStartingRadius--) | Gets or sets starting circle radius. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setEnd(Point value)](#setEnd-com.aspose.pdf.Point-) | Gets or sets ending circle center point. |
 | [setEndColor(Color value)](#setEndColor-com.aspose.pdf.Color-) | Gets or sets end color. |
+| [setEndingRadius(double value)](#setEndingRadius-double-) | Gets or sets ending circle radius. |
+| [setStart(Point value)](#setStart-com.aspose.pdf.Point-) | Gets or sets starting circle center point. |
+| [setStartColor(Color value)](#setStartColor-com.aspose.pdf.Color-) | Gets or sets start color. |
+| [setStartingRadius(double value)](#setStartingRadius-double-) | Gets or sets starting circle radius. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### GradientRadialShading() {#GradientRadialShading--}
 ```
 public GradientRadialShading()
@@ -57,29 +66,31 @@ Initializes a new instance of the  GradientRadialShading  class.
 | startColor | [Color](../../com.aspose.pdf/color) | The starting circle color. |
 | endColor | [Color](../../com.aspose.pdf/color) | The ending circle color. |
 
-### getStart() {#getStart--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public Point getStart()
-```
-
-
-Gets or sets starting circle center point.
-
-**Returns:**
-[Point](../../com.aspose.pdf/point) - Point instance
-### setStart(Point value) {#setStart-com.aspose.pdf.Point-}
-```
-public void setStart(Point value)
+public boolean equals(Object arg0)
 ```
 
 
-Gets or sets starting circle center point.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Point](../../com.aspose.pdf/point) | Point instance |
+| arg0 | java.lang.Object |  |
 
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getEnd() {#getEnd--}
 ```
 public Point getEnd()
@@ -90,6 +101,82 @@ Gets or sets ending circle center point.
 
 **Returns:**
 [Point](../../com.aspose.pdf/point) - Point instance
+### getEndColor() {#getEndColor--}
+```
+public Color getEndColor()
+```
+
+
+Gets or sets end color.
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - Color instance
+### getEndingRadius() {#getEndingRadius--}
+```
+public double getEndingRadius()
+```
+
+
+Gets or sets ending circle radius.
+
+**Returns:**
+double - double value
+### getStart() {#getStart--}
+```
+public Point getStart()
+```
+
+
+Gets or sets starting circle center point.
+
+**Returns:**
+[Point](../../com.aspose.pdf/point) - Point instance
+### getStartColor() {#getStartColor--}
+```
+public Color getStartColor()
+```
+
+
+Gets or sets start color.
+
+**Returns:**
+[Color](../../com.aspose.pdf/color) - Color instance
+### getStartingRadius() {#getStartingRadius--}
+```
+public double getStartingRadius()
+```
+
+
+Gets or sets starting circle radius.
+
+**Returns:**
+double - double value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
 ### setEnd(Point value) {#setEnd-com.aspose.pdf.Point-}
 ```
 public void setEnd(Point value)
@@ -103,39 +190,19 @@ Gets or sets ending circle center point.
 | --- | --- | --- |
 | value | [Point](../../com.aspose.pdf/point) | Point instance |
 
-### getStartingRadius() {#getStartingRadius--}
+### setEndColor(Color value) {#setEndColor-com.aspose.pdf.Color-}
 ```
-public double getStartingRadius()
-```
-
-
-Gets or sets starting circle radius.
-
-**Returns:**
-double - double value
-### setStartingRadius(double value) {#setStartingRadius-double-}
-```
-public void setStartingRadius(double value)
+public void setEndColor(Color value)
 ```
 
 
-Gets or sets starting circle radius.
+Gets or sets end color.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| value | [Color](../../com.aspose.pdf/color) | Color instance |
 
-### getEndingRadius() {#getEndingRadius--}
-```
-public double getEndingRadius()
-```
-
-
-Gets or sets ending circle radius.
-
-**Returns:**
-double - double value
 ### setEndingRadius(double value) {#setEndingRadius-double-}
 ```
 public void setEndingRadius(double value)
@@ -149,16 +216,19 @@ Gets or sets ending circle radius.
 | --- | --- | --- |
 | value | double | double value |
 
-### getStartColor() {#getStartColor--}
+### setStart(Point value) {#setStart-com.aspose.pdf.Point-}
 ```
-public Color getStartColor()
+public void setStart(Point value)
 ```
 
 
-Gets or sets start color.
+Gets or sets starting circle center point.
 
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color instance
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Point](../../com.aspose.pdf/point) | Point instance |
+
 ### setStartColor(Color value) {#setStartColor-com.aspose.pdf.Color-}
 ```
 public void setStartColor(Color value)
@@ -172,26 +242,61 @@ Gets or sets start color.
 | --- | --- | --- |
 | value | [Color](../../com.aspose.pdf/color) | Color instance |
 
-### getEndColor() {#getEndColor--}
+### setStartingRadius(double value) {#setStartingRadius-double-}
 ```
-public Color getEndColor()
-```
-
-
-Gets or sets end color.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color instance
-### setEndColor(Color value) {#setEndColor-com.aspose.pdf.Color-}
-```
-public void setEndColor(Color value)
+public void setStartingRadius(double value)
 ```
 
 
-Gets or sets end color.
+Gets or sets starting circle radius.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color instance |
+| value | double | double value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

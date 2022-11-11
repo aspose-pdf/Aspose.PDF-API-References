@@ -3,7 +3,7 @@ title: Aspose.PDF for Java
 type: docs
 weight: 11
 url: /java/
-keywords: "Aspose.PDF for Java, Aspose PDF, Aspose API Reference."
+keywords: "Aspose.PDFfor Java, Aspose PDF, Aspose API Reference."
 description: Aspose.PDF is a PDF document creation API that enables Java applications to read, write and manipulate PDF documents without using Adobe Acrobat. It supports working with PDF, XFA, TXT, HTML, PCL, XML, XPS and image file formats.
 is_root: true
 ---

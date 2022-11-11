@@ -3,7 +3,7 @@ title: MarkupSection
 second_title: Aspose.PDF for Java API Reference
 description: Represents a markup section - the rectangular region of a page that contains text and can be visually divided from another text blocks.
 type: docs
-weight: 209
+weight: 208
 url: /java/com.aspose.pdf/markupsection/
 ---
 **Inheritance:**
@@ -17,19 +17,43 @@ Represents a markup section - the rectangular region of a page that contains tex
 
 | Method | Description |
 | --- | --- |
-| [getRectangle()](#getRectangle--) | Section rectangle |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getFragments()](#getFragments--) | Collection of not empty  TextFragment  objects that are inside the section. |
 | [getParagraphs()](#getParagraphs--) | Collection of  MarkupParagraph  objects that are inside the section. |
-### getRectangle() {#getRectangle--}
+| [getRectangle()](#getRectangle--) | Section rectangle |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public Rectangle getRectangle()
+public boolean equals(Object arg0)
 ```
 
 
-Section rectangle
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle instance
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getFragments() {#getFragments--}
 ```
 public List<TextFragment> getFragments()
@@ -54,3 +78,84 @@ Collection of  MarkupParagraph  objects that are inside the section.
 
 **Returns:**
 java.util.List<com.aspose.pdf.MarkupParagraph> - list of MarkupParagraph instances
+### getRectangle() {#getRectangle--}
+```
+public Rectangle getRectangle()
+```
+
+
+Section rectangle
+
+**Returns:**
+[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle instance
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

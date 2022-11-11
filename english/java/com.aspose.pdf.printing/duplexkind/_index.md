@@ -30,8 +30,17 @@ Specifies the printer's duplex setting.
 
 | Method | Description |
 | --- | --- |
-| [toString(int pdfPrintRange)](#toString-int-) | Duplex kind name |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getNames()](#getNames--) | Array of Duplex kind names |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [toString(int pdfPrintRange)](#toString-int-) | Duplex kind name |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### DuplexKind() {#DuplexKind--}
 ```
 public DuplexKind()
@@ -70,6 +79,77 @@ public static final int Vertical
 
 Double-sided, vertical printing.
 
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getNames() {#getNames--}
+```
+public static String[] getNames()
+```
+
+
+Array of Duplex kind names
+
+**Returns:**
+java.lang.String[] - String[] object
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
 ### toString(int pdfPrintRange) {#toString-int-}
 ```
 public static String toString(int pdfPrintRange)
@@ -85,13 +165,38 @@ Duplex kind name
 
 **Returns:**
 java.lang.String - Paper format name
-### getNames() {#getNames--}
+### wait() {#wait--}
 ```
-public static String[] getNames()
+public final void wait()
 ```
 
 
-Array of Duplex kind names
 
-**Returns:**
-java.lang.String[] - String[] object
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

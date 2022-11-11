@@ -7,7 +7,7 @@ weight: 11
 url: /java/com.aspose.pdf.devices/
 ---
 
-The  **com.aspose.pdf.devices** package provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation.
+The **com.aspose.pdf.devices**package provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation.
 
 
 ## Classes

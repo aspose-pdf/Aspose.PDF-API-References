@@ -28,23 +28,32 @@ This class represents settings for importing pdf to Tiff.
 
 | Method | Description |
 | --- | --- |
-| [getIndexedConversionType()](#getIndexedConversionType--) | Gets the IndexedConversionType. |
-| [setIndexedConversionType(int value)](#setIndexedConversionType-int-) | Sets the IndexedConversionType. |
-| [getMargins()](#getMargins--) | Gets the margins. |
-| [getSkipBlankPages()](#getSkipBlankPages--) | Gets a value indicating whether to skip blank pages. |
-| [setSkipBlankPages(boolean value)](#setSkipBlankPages-boolean-) | Sets a value indicating whether to skip blank pages. |
-| [getCompression()](#getCompression--) | Gets the type of the compression. |
-| [setCompression(int value)](#setCompression-int-) | Sets the type of the compression. |
-| [getDepth()](#getDepth--) | Gets the color depth. |
-| [setDepth(int value)](#setDepth-int-) | Gets the color depth. |
-| [getShape()](#getShape--) | Gets the type of the shape. |
-| [setShape(int value)](#setShape-int-) | Sets the type of the shape. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBrightness()](#getBrightness--) | Get value boundary of the transformation of colors in white and black. |
-| [setBrightness(float value)](#setBrightness-float-) | Set value boundary of the transformation of colors in white and black. |
+| [getClass()](#getClass--) |  |
+| [getCompression()](#getCompression--) | Gets the type of the compression. |
 | [getCoordinateType()](#getCoordinateType--) | Gets the page coordinate type (Media/Crop boxes). |
-| [setCoordinateType(int value)](#setCoordinateType-int-) | Sets the page coordinate type (Media/Crop boxes). |
+| [getDepth()](#getDepth--) | Gets the color depth. |
+| [getIndexedConversionType()](#getIndexedConversionType--) | Gets the IndexedConversionType. |
+| [getMargins()](#getMargins--) | Gets the margins. |
+| [getShape()](#getShape--) | Gets the type of the shape. |
+| [getSkipBlankPages()](#getSkipBlankPages--) | Gets a value indicating whether to skip blank pages. |
+| [hashCode()](#hashCode--) |  |
 | [isUseAlternativeImageEngine()](#isUseAlternativeImageEngine--) | Gets a flag determines whether alternative imaging engine is used or not. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setBrightness(float value)](#setBrightness-float-) | Set value boundary of the transformation of colors in white and black. |
+| [setCompression(int value)](#setCompression-int-) | Sets the type of the compression. |
+| [setCoordinateType(int value)](#setCoordinateType-int-) | Sets the page coordinate type (Media/Crop boxes). |
+| [setDepth(int value)](#setDepth-int-) | Gets the color depth. |
+| [setIndexedConversionType(int value)](#setIndexedConversionType-int-) | Sets the IndexedConversionType. |
+| [setShape(int value)](#setShape-int-) | Sets the type of the shape. |
+| [setSkipBlankPages(boolean value)](#setSkipBlankPages-boolean-) | Sets a value indicating whether to skip blank pages. |
 | [setUseAlternativeImageEngine(boolean useAlternativeImageEngine)](#setUseAlternativeImageEngine-boolean-) | Sets a flag determines whether alternative imaging engine is used or not. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TiffSettings() {#TiffSettings--}
 ```
 public TiffSettings()
@@ -140,74 +149,41 @@ Initializes a new instance of the  TiffSettings  class.
 | --- | --- | --- |
 | skipBlankPages | boolean | if set to  true  [skip blank pages]. |
 
-### getIndexedConversionType() {#getIndexedConversionType--}
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public int getIndexedConversionType()
-```
-
-
-Gets the IndexedConversionType. Default value is Simple.
-
-**Returns:**
-int - IndexedConversionType element
-### setIndexedConversionType(int value) {#setIndexedConversionType-int-}
-```
-public void setIndexedConversionType(int value)
+public boolean equals(Object arg0)
 ```
 
 
-Sets the IndexedConversionType.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | IndexedConversionType element |
-
-### getMargins() {#getMargins--}
-```
-public Margins getMargins()
-```
-
-
-Gets the margins.
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[Margins](../../com.aspose.pdf.devices/margins) - Margins object
-### getSkipBlankPages() {#getSkipBlankPages--}
+boolean
+### getBrightness() {#getBrightness--}
 ```
-public boolean getSkipBlankPages()
+public float getBrightness()
 ```
 
 
-Gets a value indicating whether to skip blank pages.
-
-Value:  true  if need to skip blank pages; otherwise,  false .
-
---------------------
-
-Default value is false
+Get value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle or ColorDepth.Format1bpp == 1
 
 **Returns:**
-boolean - boolean value
-### setSkipBlankPages(boolean value) {#setSkipBlankPages-boolean-}
+float - float value of brightness should be in the range from 0 to 1. By default value is equal to 0.33f
+### getClass() {#getClass--}
 ```
-public void setSkipBlankPages(boolean value)
+public final native Class<?> getClass()
 ```
 
 
-Sets a value indicating whether to skip blank pages.
 
-Value:  true  if need to skip blank pages; otherwise,  false .
 
---------------------
-
-Default value is false
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
+**Returns:**
+java.lang.Class<?>
 ### getCompression() {#getCompression--}
 ```
 public int getCompression()
@@ -224,6 +200,133 @@ Default value is CompressionType.LZW
 
 **Returns:**
 int - CompressionType element
+### getCoordinateType() {#getCoordinateType--}
+```
+public int getCoordinateType()
+```
+
+
+Gets the page coordinate type (Media/Crop boxes). CropBox value is used by default.
+
+**Returns:**
+int - PageCoordinateType value
+### getDepth() {#getDepth--}
+```
+public int getDepth()
+```
+
+
+Gets the color depth.
+
+Value: The color depth.
+
+--------------------
+
+Default value is ColorDepth.Default
+
+**Returns:**
+int - ColorDepth element
+### getIndexedConversionType() {#getIndexedConversionType--}
+```
+public int getIndexedConversionType()
+```
+
+
+Gets the IndexedConversionType. Default value is Simple.
+
+**Returns:**
+int - IndexedConversionType element
+### getMargins() {#getMargins--}
+```
+public Margins getMargins()
+```
+
+
+Gets the margins.
+
+**Returns:**
+[Margins](../../com.aspose.pdf.devices/margins) - Margins object
+### getShape() {#getShape--}
+```
+public int getShape()
+```
+
+
+Gets the type of the shape.
+
+Value: The type of the shape.
+
+--------------------
+
+Default value is ShapeType.None
+
+**Returns:**
+int - ShapeType element
+### getSkipBlankPages() {#getSkipBlankPages--}
+```
+public boolean getSkipBlankPages()
+```
+
+
+Gets a value indicating whether to skip blank pages.
+
+Value:  true  if need to skip blank pages; otherwise,  false .
+
+--------------------
+
+Default value is false
+
+**Returns:**
+boolean - boolean value
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isUseAlternativeImageEngine() {#isUseAlternativeImageEngine--}
+```
+public boolean isUseAlternativeImageEngine()
+```
+
+
+Gets a flag determines whether alternative imaging engine is used or not. True value is used by default for Linux OS. For Windows OS default value is false.
+
+**Returns:**
+boolean - boolean value
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setBrightness(float value) {#setBrightness-float-}
+```
+public void setBrightness(float value)
+```
+
+
+Set value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle or ColorDepth.Format1bpp == 1
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | float | : Value of brightness should be in the range from 0 to 1. By default value is equal to 0.33f |
+
 ### setCompression(int value) {#setCompression-int-}
 ```
 public void setCompression(int value)
@@ -243,22 +346,19 @@ Default value is CompressionType.LZW
 | --- | --- | --- |
 | value | int | CompressionType element |
 
-### getDepth() {#getDepth--}
+### setCoordinateType(int value) {#setCoordinateType-int-}
 ```
-public int getDepth()
+public void setCoordinateType(int value)
 ```
 
 
-Gets the color depth.
+Sets the page coordinate type (Media/Crop boxes). CropBox value is used by default.
 
-Value: The color depth.
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | PageCoordinateType |
 
---------------------
-
-Default value is ColorDepth.Default
-
-**Returns:**
-int - ColorDepth element
 ### setDepth(int value) {#setDepth-int-}
 ```
 public void setDepth(int value)
@@ -278,22 +378,19 @@ Default value is ColorDepth.Default
 | --- | --- | --- |
 | value | int | ColorDepth element |
 
-### getShape() {#getShape--}
+### setIndexedConversionType(int value) {#setIndexedConversionType-int-}
 ```
-public int getShape()
+public void setIndexedConversionType(int value)
 ```
 
 
-Gets the type of the shape.
+Sets the IndexedConversionType.
 
-Value: The type of the shape.
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | IndexedConversionType element |
 
---------------------
-
-Default value is ShapeType.None
-
-**Returns:**
-int - ShapeType element
 ### setShape(int value) {#setShape-int-}
 ```
 public void setShape(int value)
@@ -313,62 +410,25 @@ Default value is ShapeType.None
 | --- | --- | --- |
 | value | int | ShapeType element |
 
-### getBrightness() {#getBrightness--}
+### setSkipBlankPages(boolean value) {#setSkipBlankPages-boolean-}
 ```
-public float getBrightness()
-```
-
-
-Get value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle or ColorDepth.Format1bpp == 1
-
-**Returns:**
-float - float value of brightness should be in the range from 0 to 1. By default value is equal to 0.33f
-### setBrightness(float value) {#setBrightness-float-}
-```
-public void setBrightness(float value)
+public void setSkipBlankPages(boolean value)
 ```
 
 
-Set value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle or ColorDepth.Format1bpp == 1
+Sets a value indicating whether to skip blank pages.
+
+Value:  true  if need to skip blank pages; otherwise,  false .
+
+--------------------
+
+Default value is false
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | float | : Value of brightness should be in the range from 0 to 1. By default value is equal to 0.33f |
+| value | boolean | boolean value |
 
-### getCoordinateType() {#getCoordinateType--}
-```
-public int getCoordinateType()
-```
-
-
-Gets the page coordinate type (Media/Crop boxes). CropBox value is used by default.
-
-**Returns:**
-int - PageCoordinateType value
-### setCoordinateType(int value) {#setCoordinateType-int-}
-```
-public void setCoordinateType(int value)
-```
-
-
-Sets the page coordinate type (Media/Crop boxes). CropBox value is used by default.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | PageCoordinateType |
-
-### isUseAlternativeImageEngine() {#isUseAlternativeImageEngine--}
-```
-public boolean isUseAlternativeImageEngine()
-```
-
-
-Gets a flag determines whether alternative imaging engine is used or not. True value is used by default for Linux OS. For Windows OS default value is false.
-
-**Returns:**
-boolean - boolean value
 ### setUseAlternativeImageEngine(boolean useAlternativeImageEngine) {#setUseAlternativeImageEngine-boolean-}
 ```
 public void setUseAlternativeImageEngine(boolean useAlternativeImageEngine)
@@ -381,4 +441,49 @@ Sets a flag determines whether alternative imaging engine is used or not.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | useAlternativeImageEngine | boolean | boolean value |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
 

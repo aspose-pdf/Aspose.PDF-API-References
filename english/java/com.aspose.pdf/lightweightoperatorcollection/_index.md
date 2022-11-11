@@ -3,7 +3,7 @@ title: LightweightOperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Lightweight operator collection.
 type: docs
-weight: 195
+weight: 194
 url: /java/com.aspose.pdf/lightweightoperatorcollection/
 ---
 **Inheritance:**
@@ -24,25 +24,35 @@ Lightweight operator collection. Intended to be used in scenarios when underlyin
 
 | Method | Description |
 | --- | --- |
-| [get_Item(int index)](#get-Item-int-) | Gets operator by its index. |
-| [set_Item(int index, Operator value)](#set-Item-int-com.aspose.pdf.Operator-) | Sets operator by its index. |
-| [iterator()](#iterator--) | Return iterator |
-| [size()](#size--) | Operators count |
-| [isFastTextExtractionMode()](#isFastTextExtractionMode--) | Indicates whether collection is limited to fast text extraction |
-| [suppressUpdate()](#suppressUpdate--) | Suppresses update contents data. |
-| [resumeUpdate()](#resumeUpdate--) | Resumes document update. |
-| [insert(int index, Operator op)](#insert-int-com.aspose.pdf.Operator-) | Insert operator |
 | [add(Operator op)](#add-com.aspose.pdf.Operator-) | Add operator |
 | [addRange(LightweightOperatorCollection oc)](#addRange-com.aspose.pdf.LightweightOperatorCollection-) | Add LightweightOperatorCollection |
-| [getUnrestricted(int index)](#getUnrestricted-int-) | For internal usage getUnrestricted operator |
-| [updateData()](#updateData--) | internal |
-| [deleteUnrestricted(int index)](#deleteUnrestricted-int-) | internal delete Unrestrictedelement |
 | [cancelUpdate()](#cancelUpdate--) | Cancels last update. |
-| [toList()](#toList--) | Returns operators list. |
-| [remove(Operator item)](#remove-com.aspose.pdf.Operator-) |  |
-| [contains(Operator item)](#contains-com.aspose.pdf.Operator-) |  |
 | [clear()](#clear--) |  |
+| [contains(Operator item)](#contains-com.aspose.pdf.Operator-) |  |
+| [deleteUnrestricted(int index)](#deleteUnrestricted-int-) | internal delete Unrestrictedelement |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getUnrestricted(int index)](#getUnrestricted-int-) | For internal usage getUnrestricted operator |
+| [get_Item(int index)](#get-Item-int-) | Gets operator by its index. |
+| [hashCode()](#hashCode--) |  |
+| [insert(int index, Operator op)](#insert-int-com.aspose.pdf.Operator-) | Insert operator |
+| [isEmpty()](#isEmpty--) | Returns TRUE if the collection is empty. |
+| [isFastTextExtractionMode()](#isFastTextExtractionMode--) | Indicates whether collection is limited to fast text extraction |
 | [isReadOnly()](#isReadOnly--) | Gets a value indicating whether the collection is read-only. |
+| [iterator()](#iterator--) | Return iterator |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [remove(Operator item)](#remove-com.aspose.pdf.Operator-) |  |
+| [resumeUpdate()](#resumeUpdate--) | Resumes document update. |
+| [set_Item(int index, Operator value)](#set-Item-int-com.aspose.pdf.Operator-) | Sets operator by its index. |
+| [size()](#size--) | Operators count |
+| [suppressUpdate()](#suppressUpdate--) | Suppresses update contents data. |
+| [toList()](#toList--) | Returns operators list. |
+| [toString()](#toString--) |  |
+| [updateData()](#updateData--) | internal |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### LightweightOperatorCollection() {#LightweightOperatorCollection--}
 ```
 public LightweightOperatorCollection()
@@ -78,117 +88,6 @@ Initialize object
 | --- | --- | --- |
 | operatorCollection | [OperatorCollection](../../com.aspose.pdf/operatorcollection) | OperatorCollection object |
 
-### get_Item(int index) {#get-Item-int-}
-```
-public Operator get_Item(int index)
-```
-
-
-Gets operator by its index.
-
---------------------
-
-```
-Example demonstrates how to get operator of page contents by index.
-
-
- Document doc = new Document("input.pdf");
- OperatorCollection oc = doc.getPages().get_Item(1).getContents();
- Operator first = oc.get_Item(1);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. Numbering is starts from 1. |
-
-**Returns:**
-[Operator](../../com.aspose.pdf/operator) - Operator from requested index
-### set_Item(int index, Operator value) {#set-Item-int-com.aspose.pdf.Operator-}
-```
-public void set_Item(int index, Operator value)
-```
-
-
-Sets operator by its index.
-
---------------------
-
-```
-Example demonstrates how to get operator of page contents by index.
-
-
- Document doc = new Document("input.pdf");
- OperatorCollection oc = doc.getPages().get_Item(1).getContents();
- Operator first = oc.get_Item(1);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. Numbering is starts from 1. |
-| value | [Operator](../../com.aspose.pdf/operator) | Operator from requested index |
-
-### iterator() {#iterator--}
-```
-public Iterator<Operator> iterator()
-```
-
-
-Return iterator
-
-**Returns:**
-java.util.Iterator<com.aspose.pdf.Operator> -  IGenericEnumerator  object
-### size() {#size--}
-```
-public int size()
-```
-
-
-Operators count
-
-**Returns:**
-int - int value
-### isFastTextExtractionMode() {#isFastTextExtractionMode--}
-```
-public boolean isFastTextExtractionMode()
-```
-
-
-Indicates whether collection is limited to fast text extraction
-
-**Returns:**
-boolean - boolean value
-### suppressUpdate() {#suppressUpdate--}
-```
-public void suppressUpdate()
-```
-
-
-Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called.
-
-### resumeUpdate() {#resumeUpdate--}
-```
-public void resumeUpdate()
-```
-
-
-Resumes document update. Updates contents stream in case there are any pending changes.
-
-### insert(int index, Operator op) {#insert-int-com.aspose.pdf.Operator-}
-```
-public void insert(int index, Operator op)
-```
-
-
-Insert operator
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | int value |
-| op | [Operator](../../com.aspose.pdf/operator) | Operator object |
-
 ### add(Operator op) {#add-com.aspose.pdf.Operator-}
 ```
 public void add(Operator op)
@@ -215,42 +114,6 @@ Add LightweightOperatorCollection
 | --- | --- | --- |
 | oc | [LightweightOperatorCollection](../../com.aspose.pdf/lightweightoperatorcollection) | LightweightOperatorCollection instance |
 
-### getUnrestricted(int index) {#getUnrestricted-int-}
-```
-public Operator getUnrestricted(int index)
-```
-
-
-For internal usage getUnrestricted operator
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | int value |
-
-**Returns:**
-[Operator](../../com.aspose.pdf/operator) - Operator object
-### updateData() {#updateData--}
-```
-public void updateData()
-```
-
-
-internal
-
-### deleteUnrestricted(int index) {#deleteUnrestricted-int-}
-```
-public void deleteUnrestricted(int index)
-```
-
-
-internal delete Unrestrictedelement
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | int value |
-
 ### cancelUpdate() {#cancelUpdate--}
 ```
 public void cancelUpdate()
@@ -259,31 +122,14 @@ public void cancelUpdate()
 
 Cancels last update. This method may be called when the change should not raise contents update.
 
-### toList() {#toList--}
+### clear() {#clear--}
 ```
-public System.Collections.Generic.List<Operator> toList()
-```
-
-
-Returns operators list.
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> - operators list.
-### remove(Operator item) {#remove-com.aspose.pdf.Operator-}
-```
-public boolean remove(Operator item)
+public void clear()
 ```
 
 
-Removes operator from collection.
+Clears collection.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [Operator](../../com.aspose.pdf/operator) | Operator instance |
-
-**Returns:**
-boolean - boolean value
 ### contains(Operator item) {#contains-com.aspose.pdf.Operator-}
 ```
 public boolean contains(Operator item)
@@ -299,14 +145,129 @@ Check if the item is in collection.
 
 **Returns:**
 boolean - boolean value
-### clear() {#clear--}
+### deleteUnrestricted(int index) {#deleteUnrestricted-int-}
 ```
-public void clear()
+public void deleteUnrestricted(int index)
 ```
 
 
-Clears collection.
+internal delete Unrestrictedelement
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | int value |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getUnrestricted(int index) {#getUnrestricted-int-}
+```
+public Operator getUnrestricted(int index)
+```
+
+
+For internal usage getUnrestricted operator
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | int value |
+
+**Returns:**
+[Operator](../../com.aspose.pdf/operator) - Operator object
+### get_Item(int index) {#get-Item-int-}
+```
+public Operator get_Item(int index)
+```
+
+
+Gets operator by its index.
+
+--------------------
+
+```
+Example demonstrates how to get operator of page contents by index.
+
+
+ Document doc = new Document("input.pdf");
+ OperatorCollection oc = doc.getPages().get_Item(1).getContents();
+ Operator first = oc.get_Item(1);
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. Numbering is starts from 1. |
+
+**Returns:**
+[Operator](../../com.aspose.pdf/operator) - Operator from requested index
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### insert(int index, Operator op) {#insert-int-com.aspose.pdf.Operator-}
+```
+public void insert(int index, Operator op)
+```
+
+
+Insert operator
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | int value |
+| op | [Operator](../../com.aspose.pdf/operator) | Operator object |
+
+### isEmpty() {#isEmpty--}
+```
+public boolean isEmpty()
+```
+
+
+Returns TRUE if the collection is empty.
+
+**Returns:**
+boolean - boolean value
+### isFastTextExtractionMode() {#isFastTextExtractionMode--}
+```
+public boolean isFastTextExtractionMode()
+```
+
+
+Indicates whether collection is limited to fast text extraction
+
+**Returns:**
+boolean - boolean value
 ### isReadOnly() {#isReadOnly--}
 ```
 public boolean isReadOnly()
@@ -317,3 +278,158 @@ Gets a value indicating whether the collection is read-only.
 
 **Returns:**
 boolean
+### iterator() {#iterator--}
+```
+public Iterator<Operator> iterator()
+```
+
+
+Return iterator
+
+**Returns:**
+java.util.Iterator<com.aspose.pdf.Operator> -  IGenericEnumerator  object
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### remove(Operator item) {#remove-com.aspose.pdf.Operator-}
+```
+public boolean remove(Operator item)
+```
+
+
+Removes operator from collection.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | [Operator](../../com.aspose.pdf/operator) | Operator instance |
+
+**Returns:**
+boolean - boolean value
+### resumeUpdate() {#resumeUpdate--}
+```
+public void resumeUpdate()
+```
+
+
+Resumes document update. Updates contents stream in case there are any pending changes.
+
+### set_Item(int index, Operator value) {#set-Item-int-com.aspose.pdf.Operator-}
+```
+public void set_Item(int index, Operator value)
+```
+
+
+Sets operator by its index.
+
+--------------------
+
+```
+Example demonstrates how to get operator of page contents by index.
+
+
+ Document doc = new Document("input.pdf");
+ OperatorCollection oc = doc.getPages().get_Item(1).getContents();
+ Operator first = oc.get_Item(1);
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. Numbering is starts from 1. |
+| value | [Operator](../../com.aspose.pdf/operator) | Operator from requested index |
+
+### size() {#size--}
+```
+public int size()
+```
+
+
+Operators count
+
+**Returns:**
+int - int value
+### suppressUpdate() {#suppressUpdate--}
+```
+public void suppressUpdate()
+```
+
+
+Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called.
+
+### toList() {#toList--}
+```
+public System.Collections.Generic.List<Operator> toList()
+```
+
+
+Returns operators list.
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> - operators list.
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### updateData() {#updateData--}
+```
+public void updateData()
+```
+
+
+internal
+
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

@@ -20,18 +20,42 @@ Represents cell of table that exist on the page
 
 | Method | Description |
 | --- | --- |
-| [getTextFragments()](#getTextFragments--) | Gets collection of  TextFragment  objects that describes text containing in the cell |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
 | [getRectangle()](#getRectangle--) | Gets rectangle that describes position of the cell on page |
-### getTextFragments() {#getTextFragments--}
+| [getTextFragments()](#getTextFragments--) | Gets collection of  TextFragment  objects that describes text containing in the cell |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
 ```
-public TextFragmentCollection getTextFragments()
+public boolean equals(Object arg0)
 ```
 
 
-Gets collection of  TextFragment  objects that describes text containing in the cell
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
 
 **Returns:**
-[TextFragmentCollection](../../com.aspose.pdf/textfragmentcollection) - TextFragmentCollection object
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
 ### getRectangle() {#getRectangle--}
 ```
 public Rectangle getRectangle()
@@ -42,3 +66,84 @@ Gets rectangle that describes position of the cell on page
 
 **Returns:**
 [Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
+### getTextFragments() {#getTextFragments--}
+```
+public TextFragmentCollection getTextFragments()
+```
+
+
+Gets collection of  TextFragment  objects that describes text containing in the cell
+
+**Returns:**
+[TextFragmentCollection](../../com.aspose.pdf/textfragmentcollection) - TextFragmentCollection object
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
