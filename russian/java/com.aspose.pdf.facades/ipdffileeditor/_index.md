@@ -1,12 +1,13 @@
 ---
-название: IPdfFileEditor
+title: IPdfFileEditor
 second_title: Aspose.PDF для справки по Java API
-описание: Реализует операции с конкатенацией файлов PDF, разделением, извлечением страниц, созданием буклетов и т.д.
-тип: документы
-вес: 70
-URL-адрес: /java/com.aspose.pdf.facades/ipdffileeditor/
----```
-общедоступный интерфейс IPdfFileEditor
+description: Реализует операции с конкатенацией файлов PDF, разделением, извлечением страниц, созданием буклетов и т.д.
+type: docs
+weight: 70
+url: /ru/java/com.aspose.pdf.facades/ipdffileeditor/
+---
+```
+public interface IPdfFileEditor
 ```
 
 Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.

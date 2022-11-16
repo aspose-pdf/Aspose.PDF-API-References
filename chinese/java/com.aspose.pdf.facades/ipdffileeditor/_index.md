@@ -1,12 +1,13 @@
 ---
-标题：IPdf文件编辑器
+title: IPdfFileEditor
 second_title: Aspose.PDF for Java API 参考
-描述：实现PDF文件拼接拆分提取页面制作小册子等操作。
-类型：文档
-体重：70
-网址：/java/com.aspose.pdf.facades/ipdffileeditor/
----```
-公共接口 IPdfFileEditor
+description: 实现PDF文件拼接拆分提取页面制作小册子等操作。
+type: docs
+weight: 70
+url: /zh/java/com.aspose.pdf.facades/ipdffileeditor/
+---
+```
+public interface IPdfFileEditor
 ```
 
 Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.
