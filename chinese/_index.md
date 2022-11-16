@@ -33,7 +33,7 @@ Aspose.PDF 是一个 Java 组件，允许开发人员以编程方式动态创建
 {{% /alert %}}
 
 这些是一些有用资源的链接：
-- [Aspose.PDF for Java API 参考](/pdf/java/)
+- [Aspose.PDF for Java API 参考](/pdf/zh/java/)
 
 
 ## Aspose.PDF for C++
