@@ -107,7 +107,7 @@ public final StructureAttributes getAttributes(AttributeOwnerStandard ownerStand
 | ownerStandard | [AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard) | Владелец стандартного атрибута. |
 
 **Возвращает:**
-[StructureAttributes](../../com.aspose.pdf.tagged.logicalstructure/structureattributes) -[StructureAttributes](../../com.aspose.pdf.tagged.logicalstructure/structureattributes) элемента структуры. Вернуть ноль, если не найдено.
+[StructureAttributes](../../com.aspose.pdf.tagged.logicalstructure/structureattributes) -[StructureAttributes](../../com.aspose.pdf.tagged.logicalstructure/structureattributes)элемента структуры. Вернуть ноль, если не найдено.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()

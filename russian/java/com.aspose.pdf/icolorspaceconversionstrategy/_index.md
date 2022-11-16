@@ -1,29 +1,31 @@
 ---
 title: IColorSpaceConversionStrategy
 second_title: Aspose.PDF для справки по Java API
-описание: Интерфейс для стратегий преобразования цветового пространства.
-тип: документы
-вес: 432
-URL: /java/com.aspose.pdf/icolorspaceconversionstrategy/
----```
-общедоступный интерфейс IColorSpaceConversionStrategy
+description: Интерфейс для стратегий преобразования цветового пространства.
+type: docs
+weight: 432
+url: /ru/java/com.aspose.pdf/icolorspaceconversionstrategy/
+---
+```
+public interface IColorSpaceConversionStrategy
 ```
 
-Interface for color space conversion strategies.
-## Methods
+Интерфейс для стратегий преобразования цветового пространства.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [convert(Page page)](#convert-com.aspose.pdf.Page-) | Converts the page of document. |
+| [convert(Page page)](#convert-com.aspose.pdf.Page-) | Преобразует страницу документа. |
 ### convert(Page page) {#convert-com.aspose.pdf.Page-}
 ```
-public abstract void convert (страница страницы)
+public abstract void convert(Page page)
 ```
 
 
-Converts the page of document.
+Преобразует страницу документа.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | The page of document. |
+| page | [Page](../../com.aspose.pdf/page) | Страница документа. |

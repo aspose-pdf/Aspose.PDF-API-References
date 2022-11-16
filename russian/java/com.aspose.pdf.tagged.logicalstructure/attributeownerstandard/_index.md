@@ -229,7 +229,7 @@ public static AttributeOwnerStandard to_AttributeOwnerStandard(String owner)
 | owner | java.lang.String | Владелец. |
 
 **Возвращает:**
-[AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard) - Результат преобразования.
+[AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard) Результат преобразования.
 ### wait() {#wait--}
 ```
 public final void wait()

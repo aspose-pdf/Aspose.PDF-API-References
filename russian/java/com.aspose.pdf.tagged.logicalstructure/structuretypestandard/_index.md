@@ -630,7 +630,7 @@ public static StructureTypeStandard to_StructureTypeStandard(String tag)
 | tag | java.lang.String | Имя тега. |
 
 **Возвращает:**
-[StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) - Результат преобразования.
+[StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) Результат преобразования.
 ### wait() {#wait--}
 ```
 public final void wait()

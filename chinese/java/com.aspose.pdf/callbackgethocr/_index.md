@@ -1,32 +1,34 @@
 ---
-标题：Document.CallBackGetHocr
-second_title: Aspose.PDF for Java API 参考
-描述：hocr识别的回调过程。
-类型：文档
-体重：11
-网址：/java/com.aspose.pdf/document.callbackgethocr/
----```
-公共静态接口 Document.CallBackGetHocr
+title: Document.CallBackGetHocr
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: hocr 识别的回调过程。
+type: docs
+weight: 11
+url: /zh/java/com.aspose.pdf/document.callbackgethocr/
+---
+```
+public static interface Document.CallBackGetHocr
 ```
 
-The call back procedure for hocr recognize.
-## Methods
+hocr 识别的回调过程。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [invoke(BufferedImage img)](#invoke-java.awt.image.BufferedImage-) | The call back procedure for hocr recognize. |
+| [invoke(BufferedImage img)](#invoke-java.awt.image.BufferedImage-) | hocr 识别的回调过程。 |
 ### invoke(BufferedImage img) {#invoke-java.awt.image.BufferedImage-}
 ```
-公共抽象字符串调用（BufferedImage img）
+public abstract String invoke(BufferedImage img)
 ```
 
 
-The call back procedure for hocr recognize.
+hocr 识别的回调过程。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| img | java.awt.image.BufferedImage | The hocr image. |
+| img | java.awt.image.BufferedImage | 图像。 |
 
-**Returns:**
-java.lang.String - The hocr text
+**退货：**
+java.lang.String - hocr 文本

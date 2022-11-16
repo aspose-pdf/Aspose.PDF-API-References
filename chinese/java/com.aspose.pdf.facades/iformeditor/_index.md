@@ -15,82 +15,78 @@ public interface IFormEditor extends Closeable
 用于编辑表单的类（添加/删除字段等）
 ## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
-| [addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
-| [addListItem(String fieldName, String itemName)](#addListItem-java.lang.String-java.lang.String-) | Adds new item to the list box. |
-| [addListItem(String fieldName, String[] exportName)](#addListItem-java.lang.String-java.lang.String---) | Add a new item with Export value to the existing list box field, only for AcroForm combo box field. |
-| [addSubmitBtn(String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury)](#addSubmitBtn-java.lang.String-int-java.lang.String-java.lang.String-float-float-float-float-) | Add submit button on the form. |
-| [close()](#close--) | Closes object |
-| [copyInnerField(String fieldName, String newFieldName, int pageNum)](#copyInnerField-java.lang.String-java.lang.String-int-) | Copies an existing field to the same position in specified page number. |
-| [copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate)](#copyInnerField-java.lang.String-java.lang.String-int-float-float-) | Copies an existing field to a new position specified by both page number and ordinates. |
-| [copyOuterField(String srcFileName, String fieldName)](#copyOuterField-java.lang.String-java.lang.String-) | Copies an existing field from one PDF document to another document with original page number and ordinates. |
-| [copyOuterField(String srcFileName, String fieldName, int pageNum)](#copyOuterField-java.lang.String-java.lang.String-int-) | Copies an existing field from one PDF document to another document with specified page number and original ordinates. |
-| [copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate)](#copyOuterField-java.lang.String-java.lang.String-int-float-float-) | Copies an existing field from one PDF document to another document with specified page number and ordinates. |
-| [decorateField()](#decorateField--) | Changes visual attributes of all fields in the PDF document. |
-| [decorateField(int fieldType)](#decorateField-int-) | Changes visual attributes of all fields with the specified field type. |
-| [decorateField(String fieldName)](#decorateField-java.lang.String-) | Changes visual attributes of the specified field. |
-| [delListItem(String fieldName, String itemName)](#delListItem-java.lang.String-java.lang.String-) | Delete item from the list field. |
-| [dispose()](#dispose--) | Closes object |
-| [getAttachmentName()](#getAttachmentName--) | Gets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [getContentDisposition()](#getContentDisposition--) | Gets how content will be stored when result of operation is stored into HttpResponse object. |
-| [getDestFileName()](#getDestFileName--) | Gets destination file name. |
-| [getDestStream()](#getDestStream--) | Gets destination stream. |
-| [getDocument()](#getDocument--) | Gets the document  FormEditor  is working on. |
-| [getExportItems()](#getExportItems--) | Gets options for combo box with export values. |
-| [getFacade()](#getFacade--) | Gets visual attributes of the field. |
-| [getItems()](#getItems--) | Returns item array |
-| [getRadioButtonItemSize()](#getRadioButtonItemSize--) | ```
-Gets or sets size of radio button item size (when new radio button field is added).
-``` |
-| [getRadioGap()](#getRadioGap--) | Get the member to record the gap between two neighboring radio buttons in pixels,default is 50. |
-| [getRadioHoriz()](#getRadioHoriz--) | Get the flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
-| [getSaveOptions()](#getSaveOptions--) | Gets save options when result is stored as HttpResponse. |
-| [getSrcFileName()](#getSrcFileName--) | Gets name of source file. |
-| [getSrcStream()](#getSrcStream--) | Gets source stream. |
-| [getSubmitFlag()](#getSubmitFlag--) | Get the submit button's submission flags |
-| [moveField(String fieldName, float llx, float lly, float urx, float ury)](#moveField-java.lang.String-float-float-float-float-) | Set new position of field. |
-| [removeField(String fieldName)](#removeField-java.lang.String-) | Remove field from the form. |
-| [removeFieldAction(String fieldName)](#removeFieldAction-java.lang.String-) | Remove submit action of the field. |
-| [renameField(String fieldName, String newFieldName)](#renameField-java.lang.String-java.lang.String-) | Change name of the field. |
-| [resetFacade()](#resetFacade--) | Reset all visual attributes to empty value. |
-| [resetInnerFacade()](#resetInnerFacade--) | Reset all visual attributes of inner facade to empty value. |
-| [save()](#save--) | Saves changes into destination file. |
-| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [setContentDisposition(int value)](#setContentDisposition-int-) | Sets how content will be stored when result of operation is stored into HttpResponse object. |
-| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Sets [PdfFormat](../../com.aspose.pdf/pdfformat) PDF file format. |
-| [setDestFileName(String value)](#setDestFileName-java.lang.String-) | Sets destination file name. |
-| [setDestStream(OutputStream value)](#setDestStream-java.io.OutputStream-) | Sets destination stream. |
-| [setExportItems(String[][] value)](#setExportItems-java.lang.String-----) | Sets options for combo box with export values. |
-| [setFacade(FormFieldFacade value)](#setFacade-com.aspose.pdf.facades.FormFieldFacade-) | Sets visual attributes of the field. |
-| [setFieldAlignment(String fieldName, int alignment)](#setFieldAlignment-java.lang.String-int-) | Set the alignment style of a text field. |
-| [setFieldAlignmentV(String fieldName, int alignment)](#setFieldAlignmentV-java.lang.String-int-) | Set the vertical alignment style of a text field. |
-| [setFieldAppearance(String fieldName, int flags)](#setFieldAppearance-java.lang.String-int-) | Set field flags |
-| [setFieldAttribute(String fieldName, int flag)](#setFieldAttribute-java.lang.String-int-) | Set attributes of field. |
-| [setFieldCombNumber(String fieldName, int combNumber)](#setFieldCombNumber-java.lang.String-int-) | Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter). |
-| [setFieldLimit(String fieldName, int fieldLimit)](#setFieldLimit-java.lang.String-int-) | Sets maximum character count of the text field. |
-| [setFieldScript(String fieldName, String script)](#setFieldScript-java.lang.String-java.lang.String-) | Set JavaScript for a PushButton field. |
-| [setItems(String[] value)](#setItems-java.lang.String---) | Sets items which will be added to newly created list box or combo box. |
-| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | ```
-Gets or sets size of radio button item size (when new radio button field is added).
-``` |
-| [setRadioGap(float value)](#setRadioGap-float-) | Set the member to record the gap between two neighboring radio buttons in pixels,default is 50. |
-| [setRadioHoriz(boolean value)](#setRadioHoriz-boolean-) | Set the flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
-| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpResponse. |
-| [setSrcFileName(String value)](#setSrcFileName-java.lang.String-) | Sets name of source file. |
-| [setSrcStream(InputStream value)](#setSrcStream-java.io.InputStream-) | Sets source stream. |
-| [setSubmitFlag(int value)](#setSubmitFlag-int-) | Set the submit button's submission flags |
-| [setSubmitFlag(String fieldName, int submitFormFlag)](#setSubmitFlag-java.lang.String-int-) | Set submit flag of submit button. |
-| [setSubmitUrl(String fieldName, String url)](#setSubmitUrl-java.lang.String-java.lang.String-) | Sets URL of the button. |
-| [single2Multiple(String fieldName)](#single2Multiple-java.lang.String-) | Change a single-lined text field to a multiple-lined one. |
+| [addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-int-float-float-float-float-) | 将指定类型的字段添加到表单。 |
+| [addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-) | 将指定类型的字段添加到表单。 |
+| [addListItem(String fieldName, String itemName)](#addListItem-java.lang.String-java.lang.String-) | 将新项目添加到列表框。 |
+| [addListItem(String fieldName, String[] exportName)](#addListItem-java.lang.String-java.lang.String---) | 将具有导出值的新项目添加到现有列表框字段，仅适用于 AcroForm 组合框字段。 |
+| [addSubmitBtn(String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury)](#addSubmitBtn-java.lang.String-int-java.lang.String-java.lang.String-float-float-float-float-) | 在表单上添加提交按钮。 |
+| [close()](#close--) | 关闭对象 |
+| [copyInnerField(String fieldName, String newFieldName, int pageNum)](#copyInnerField-java.lang.String-java.lang.String-int-) | 将现有字段复制到指定页码中的相同位置。 |
+| [copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate)](#copyInnerField-java.lang.String-java.lang.String-int-float-float-) | 将现有字段复制到由页码和纵坐标指定的新位置。 |
+| [copyOuterField(String srcFileName, String fieldName)](#copyOuterField-java.lang.String-java.lang.String-) | 将现有字段从一个 PDF 文档复制到另一个具有原始页码和纵坐标的文档。 |
+| [copyOuterField(String srcFileName, String fieldName, int pageNum)](#copyOuterField-java.lang.String-java.lang.String-int-) | 将现有字段从一个 PDF 文档复制到另一个具有指定页码和原始坐标的文档。 |
+| [copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate)](#copyOuterField-java.lang.String-java.lang.String-int-float-float-) | 将现有域从一个 PDF 文档复制到另一个具有指定页码和纵坐标的文档。 |
+| [decorateField()](#decorateField--) | 更改 PDF 文档中所有字段的视觉属性。 |
+| [decorateField(int fieldType)](#decorateField-int-) | 更改具有指定字段类型的所有字段的视觉属性。 |
+| [decorateField(String fieldName)](#decorateField-java.lang.String-) | 更改指定字段的视觉属性。 |
+| [delListItem(String fieldName, String itemName)](#delListItem-java.lang.String-java.lang.String-) | 从列表字段中删除项目。 |
+| [dispose()](#dispose--) | 关闭对象 |
+| [getAttachmentName()](#getAttachmentName--) | 当操作结果作为附件存储到 HttpResponse 对象时获取附件名称。 |
+| [getContentDisposition()](#getContentDisposition--) | 获取当操作结果存储到 HttpResponse 对象时将如何存储内容。 |
+| [getDestFileName()](#getDestFileName--) | 获取目标文件名。 |
+| [getDestStream()](#getDestStream--) | 获取目标流。 |
+| [getDocument()](#getDocument--) | 获取 FormEditor 正在处理的文档。 |
+| [getExportItems()](#getExportItems--) | 获取具有导出值的组合框的选项。 |
+| [getFacade()](#getFacade--) | 获取字段的视觉属性。 |
+| [getItems()](#getItems--) | 返回项目数组 |
+| [getRadioButtonItemSize()](#getRadioButtonItemSize--) | 获取或设置单选按钮项目的大小（添加新的单选按钮字段时）。 |
+| [getRadioGap()](#getRadioGap--) | 获取成员以像素为单位记录两个相邻单选按钮之间的间距，默认为 50。 |
+| [getRadioHoriz()](#getRadioHoriz--) | 获取标志以指示收音机是水平排列还是垂直排列，默认值为 true。 |
+| [getSaveOptions()](#getSaveOptions--) | 当结果存储为 HttpResponse 时获取保存选项。 |
+| [getSrcFileName()](#getSrcFileName--) | 获取源文件的名称。 |
+| [getSrcStream()](#getSrcStream--) | 获取源码流。 |
+| [getSubmitFlag()](#getSubmitFlag--) | 获取提交按钮的提交标志 |
+| [moveField(String fieldName, float llx, float lly, float urx, float ury)](#moveField-java.lang.String-float-float-float-float-) | 设置字段的新位置。 |
+| [removeField(String fieldName)](#removeField-java.lang.String-) | 从表单中删除字段。 |
+| [removeFieldAction(String fieldName)](#removeFieldAction-java.lang.String-) | 移除字段的提交动作。 |
+| [renameField(String fieldName, String newFieldName)](#renameField-java.lang.String-java.lang.String-) | 更改字段的名称。 |
+| [resetFacade()](#resetFacade--) | 将所有视觉属性重置为空值。 |
+| [resetInnerFacade()](#resetInnerFacade--) | 将内立面的所有视觉属性重置为空值。 |
+| [save()](#save--) | 将更改保存到目标文件中。 |
+| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | 当操作结果作为附件存储到 HttpResponse 对象时，设置附件名称。 |
+| [setContentDisposition(int value)](#setContentDisposition-int-) | 设置当操作结果存储到 HttpResponse 对象时将如何存储内容。 |
+| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | 套[PdfFormat](../../com.aspose.pdf/pdfformat)PDF文件格式。 |
+| [setDestFileName(String value)](#setDestFileName-java.lang.String-) | 设置目标文件名。 |
+| [setDestStream(OutputStream value)](#setDestStream-java.io.OutputStream-) | 设置目标流。 |
+| [setExportItems(String[][] value)](#setExportItems-java.lang.String-----) | 为带有导出值的组合框设置选项。 |
+| [setFacade(FormFieldFacade value)](#setFacade-com.aspose.pdf.facades.FormFieldFacade-) | 设置字段的视觉属性。 |
+| [setFieldAlignment(String fieldName, int alignment)](#setFieldAlignment-java.lang.String-int-) | 设置文本字段的对齐方式。 |
+| [setFieldAlignmentV(String fieldName, int alignment)](#setFieldAlignmentV-java.lang.String-int-) | 设置文本字段的垂直对齐方式。 |
+| [setFieldAppearance(String fieldName, int flags)](#setFieldAppearance-java.lang.String-int-) | 设置字段标志 |
+| [setFieldAttribute(String fieldName, int flag)](#setFieldAttribute-java.lang.String-int-) | 设置字段的属性。 |
+| [setFieldCombNumber(String fieldName, int combNumber)](#setFieldCombNumber-java.lang.String-int-) | 为常规单行文本字段设置梳子数（该字段自动分为与 combNumber 参数值一样多的等距位置或梳子）。 |
+| [setFieldLimit(String fieldName, int fieldLimit)](#setFieldLimit-java.lang.String-int-) | 设置文本字段的最大字符数。 |
+| [setFieldScript(String fieldName, String script)](#setFieldScript-java.lang.String-java.lang.String-) | 为按钮字段设置 JavaScript。 |
+| [setItems(String[] value)](#setItems-java.lang.String---) | 设置将添加到新创建的列表框或组合框的项目。 |
+| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | 获取或设置单选按钮项目的大小（添加新的单选按钮字段时）。|
+| [setRadioGap(float value)](#setRadioGap-float-) | 设置成员以像素为单位记录两个相邻单选按钮之间的间距，默认为 50。 |
+| [setRadioHoriz(boolean value)](#setRadioHoriz-boolean-) | 设置标志以指示收音机是水平排列还是垂直排列，默认值为 true。 |
+| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | 当结果存储为 HttpResponse 时设置保存选项。 |
+| [setSrcFileName(String value)](#setSrcFileName-java.lang.String-) | 设置源文件的名称。 |
+| [setSrcStream(InputStream value)](#setSrcStream-java.io.InputStream-) | 设置源流。 |
+| [setSubmitFlag(int value)](#setSubmitFlag-int-) | 设置提交按钮的提交标志 |
+| [setSubmitFlag(String fieldName, int submitFormFlag)](#setSubmitFlag-java.lang.String-int-) | 设置提交按钮的提交标志。 |
+| [setSubmitUrl(String fieldName, String url)](#setSubmitUrl-java.lang.String-java.lang.String-) | 设置按钮的 URL。 |
+| [single2Multiple(String fieldName)](#single2Multiple-java.lang.String-) | 将单行文本字段更改为多行文本字段。 |
 ### addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury) {#addField-int-java.lang.String-int-float-float-float-float-}
 ```
 public abstract boolean addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)
 ```
 
 
-Add field of specified type to the form.
+将指定类型的字段添加到表单。
 
 --------------------
 
@@ -100,48 +96,50 @@ FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "Fo
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldType | int | Type of the field which must be added. |
-| fieldName | java.lang.String | Name of the field which must be added. |
-| pageNum | int | Page number where new field must be placed. |
-| llx | float | Abscissa of the lower-left corner of the field. |
-| lly | float | Ordinate of the lower-left corner of the field. |
-| urx | float | Abscissa of the upper-right corner of the field. |
-| ury | float | Ordinate of the upper-right corner of the field. |
+**参数：**
 
-**Returns:**
-boolean - true if field was successfully added.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldType | int | 必须添加的字段类型。 |
+| fieldName | java.lang.String | 必须添加的字段的名称。 |
+| pageNum | int | 必须放置新字段的页码。 |
+| llx | float | 字段左下角的横坐标。 |
+| lly | float | 字段左下角的纵坐标。 |
+| urx | float | 字段右上角的横坐标。 |
+| ury | float | 字段右上角的纵坐标。 |
+
+**退货：**
+boolean - 如果成功添加字段则为 true。
 ### addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury) {#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-}
 ```
 public abstract boolean addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)
 ```
 
 
-Add field of specified type to the form.
+将指定类型的字段添加到表单。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldType | int | Type of the field which must be added. |
-| fieldName | java.lang.String | Name of the field which must be added. |
-| initValue | java.lang.String | Initial value of the field. |
-| pageNum | int | Page number where new field must be placed. |
-| llx | float | Abscissa of the lower-left corner of the field. |
-| lly | float | Ordinate of the lower-left corner of the field. |
-| urx | float | Abscissa of the upper-right corner of the field. |
-| ury | float | Ordinate of the upper-right corner of the field. |
+| fieldType | int | 必须添加的字段类型。 |
+| fieldName | java.lang.String | 必须添加的字段的名称。 |
+| initValue | java.lang.String | 字段的初始值。 |
+| pageNum | int | 必须放置新字段的页码。 |
+| llx | float | 字段左下角的横坐标。 |
+| lly | float | 字段左下角的纵坐标。 |
+| urx | float | 字段右上角的横坐标。 |
+| ury | float | 字段右上角的纵坐标。 |
 
-**Returns:**
-boolean - true if field was successfully added.
+**退货：**
+boolean - 如果成功添加字段则为 true。
 ### addListItem(String fieldName, String itemName) {#addListItem-java.lang.String-java.lang.String-}
 ```
 public abstract void addListItem(String fieldName, String itemName)
 ```
 
 
-Adds new item to the list box.
+将新项目添加到列表框。
 
 --------------------
 
@@ -150,19 +148,20 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", PdfForm_out.pdf");
  formEditor.addListItem("listBoxField", "Item 4 (New Item)");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field of which new item will be added. |
-| itemName | java.lang.String | Name if new item. |
+| fieldName | java.lang.String | 将添加新项目的字段名称。 |
+| itemName | java.lang.String | 如果是新项目，请命名。 |
 
 ### addListItem(String fieldName, String[] exportName) {#addListItem-java.lang.String-java.lang.String---}
 ```
-public abstract void addListItem(String fieldName, String[] 导出名称)
+public abstract void addListItem(String fieldName, String[] exportName)
 ```
 
 
-Add a new item with Export value to the existing list box field, only for AcroForm combo box field.
+将具有导出值的新项目添加到现有列表框字段，仅适用于 AcroForm 组合框字段。
 
 --------------------
 
@@ -172,11 +171,12 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_AddListItem2.pdf");
  { "4", "Item4(Added)" });
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of field to which items will be added. |
-| exportName | java.lang.String[] | A String array denoting a new list item with Export Value, i.e. (Item Label, Export Value). |
+| fieldName | java.lang.String | 将向其添加项目的字段的名称。 |
+| exportName | java.lang.String[] | 一个字符串数组，表示具有导出值的新列表项，即（项标签，导出值）。 |
 
 ### addSubmitBtn(String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury) {#addSubmitBtn-java.lang.String-int-java.lang.String-java.lang.String-float-float-float-float-}
 ```
@@ -184,34 +184,35 @@ public abstract void addSubmitBtn(String fieldName, int page, String label, Stri
 ```
 
 
-Add submit button on the form.
+在表单上添加提交按钮。
 
 --------------------
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_AddSubmitBtn.pdf");
- formEditor.addSubmitBtn("提交", 1, "提交", "www.check.com", 10, 200, 70, 270);
+ formEditor.addSubmitBtn("submit", 1, "Submit", "www.check.com", 10, 200, 70, 270);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of new button. |
-| page | int | Page where button will be placed. |
-| label | java.lang.String | Button caption. |
-| url | java.lang.String | URL of the submit button. |
-| llx | float | Abscissa of the lower-left corner. |
-| lly | float | Ordinate of the lower-left corner. |
-| urx | float | Abscissa of the upper-right corner. |
-| ury | float | Ordinate of the upper-right corner. |
+| fieldName | java.lang.String | 新按钮的名称。 |
+| page | int | 放置按钮的页面。 |
+| label | java.lang.String | 按钮标题。 |
+| url | java.lang.String | 提交按钮的 URL。 |
+| llx | float | 左下角的横坐标。 |
+| lly | float | 左下角的纵坐标。 |
+| urx | float | 右上角的横坐标。 |
+| ury | float | 右上角的纵坐标。 |
 
 ### close() {#close--}
 ```
-公共抽象无效关闭（）
+public abstract void close()
 ```
 
 
-Closes object
+关闭对象
 
 ### copyInnerField(String fieldName, String newFieldName, int pageNum) {#copyInnerField-java.lang.String-java.lang.String-int-}
 ```
@@ -219,14 +220,15 @@ public abstract void copyInnerField(String fieldName, String newFieldName, int p
 ```
 
 
-Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the source document has except for the newly copied field.
+将现有字段复制到指定页码中的相同位置。将生成一个新文档，其中包含源文档除了新复制的字段之外的所有内容。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | String value |
-| newFieldName | java.lang.String | String value |
-| pageNum | int | int value |
+| fieldName | java.lang.String | 字符串值 |
+| newFieldName | java.lang.String | 字符串值 |
+| pageNum | int | 整数值 |
 
 ### copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate) {#copyInnerField-java.lang.String-java.lang.String-int-float-float-}
 ```
@@ -234,16 +236,17 @@ public abstract void copyInnerField(String fieldName, String newFieldName, int p
 ```
 
 
-Copies an existing field to a new position specified by both page number and ordinates. A new document will be produced, which contains everything the source document has except for the newly copied field.
+将现有字段复制到由页码和纵坐标指定的新位置。将生成一个新文档，其中包含源文档除了新复制的字段之外的所有内容。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | String value |
-| newFieldName | java.lang.String | String value |
-| pageNum | int | int value |
-| abscissa | float | float value |
-| ordinate | float | float value |
+| fieldName | java.lang.String | 字符串值 |
+| newFieldName | java.lang.String | 字符串值 |
+| pageNum | int | 整数值 |
+| abscissa | float | 浮点值 |
+| ordinate | float | 浮点值 |
 
 ### copyOuterField(String srcFileName, String fieldName) {#copyOuterField-java.lang.String-java.lang.String-}
 ```
@@ -251,13 +254,14 @@ public abstract void copyOuterField(String srcFileName, String fieldName)
 ```
 
 
-Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fields (excluding radio box).
+将现有字段从一个 PDF 文档复制到另一个具有原始页码和纵坐标的文档。注意：仅适用于 AcroForm 字段（不包括单选框）。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcFileName | java.lang.String | String value |
-| fieldName | java.lang.String | String value |
+| srcFileName | java.lang.String | 字符串值 |
+| fieldName | java.lang.String | 字符串值 |
 
 ### copyOuterField(String srcFileName, String fieldName, int pageNum) {#copyOuterField-java.lang.String-java.lang.String-int-}
 ```
@@ -265,14 +269,15 @@ public abstract void copyOuterField(String srcFileName, String fieldName, int pa
 ```
 
 
-Copies an existing field from one PDF document to another document with specified page number and original ordinates. Notice: Only for AcroForm fields (excluding radio box).
+将现有字段从一个 PDF 文档复制到另一个具有指定页码和原始坐标的文档。注意：仅适用于 AcroForm 字段（不包括单选框）。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcFileName | java.lang.String | String value |
-| fieldName | java.lang.String | String value |
-| pageNum | int | int value |
+| srcFileName | java.lang.String | 字符串值 |
+| fieldName | java.lang.String | 字符串值 |
+| pageNum | int | 整数值 |
 
 ### copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate) {#copyOuterField-java.lang.String-java.lang.String-int-float-float-}
 ```
@@ -280,24 +285,25 @@ public abstract void copyOuterField(String srcFileName, String fieldName, int pa
 ```
 
 
-Copies an existing field from one PDF document to another document with specified page number and ordinates. Notice: Only for AcroForm fields (excluding radio box).
+将现有域从一个 PDF 文档复制到另一个具有指定页码和纵坐标的文档。注意：仅适用于 AcroForm 字段（不包括单选框）。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| srcFileName | java.lang.String | String value |
-| fieldName | java.lang.String | String value |
-| pageNum | int | int value |
-| abscissa | float | float value |
-| ordinate | float | float value |
+| srcFileName | java.lang.String | 字符串值 |
+| fieldName | java.lang.String | 字符串值 |
+| pageNum | int | 整数值 |
+| abscissa | float | 浮点值 |
+| ordinate | float | 浮点值 |
 
 ### decorateField() {#decorateField--}
 ```
-公共抽象无效装饰字段（）
+public abstract void decorateField()
 ```
 
 
-Changes visual attributes of all fields in the PDF document.
+更改 PDF 文档中所有字段的视觉属性。
 
 --------------------
 
@@ -308,7 +314,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.Green);
  fe.getFacade().setAlignment(FormFieldFacade.AlignRight);
- // 装饰所有字段。
+ // decorate all fields.
  fe.decorateField();
 ```
 
@@ -318,7 +324,7 @@ public abstract void decorateField(int fieldType)
 ```
 
 
-Changes visual attributes of all fields with the specified field type.
+更改具有指定字段类型的所有字段的视觉属性。
 
 --------------------
 
@@ -329,22 +335,23 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.green);
  fe.getFacade().setAlignment(FormFieldFacade.AlignRight);
- // 装饰所有文本字段。
+ // decorate all text fields.
  fe.decorateField(FieldType.Text);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldType | int | Type of fields which will be decorated. |
+| fieldType | int | 将被装饰的字段类型。 |
 
 ### decorateField(String fieldName) {#decorateField-java.lang.String-}
 ```
-公共抽象无效装饰字段（字符串字段名）
+public abstract void decorateField(String fieldName)
 ```
 
 
-Changes visual attributes of the specified field.
+更改指定字段的视觉属性。
 
 --------------------
 
@@ -355,13 +362,14 @@ FormEditor fe = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_DecorateField_
  fe.Facade.setTextColor(Color.Blue);
  fe.Facade.setBorderColor(Color.Green);
  fe.Facade.setAlignment(FormFieldFacade.AlignCenter);
- fe.decorateField("文本字段");
+ fe.decorateField("textField");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | The fully qualified field name. |
+| fieldName | java.lang.String | 完全限定的字段名称。 |
 
 ### delListItem(String fieldName, String itemName) {#delListItem-java.lang.String-java.lang.String-}
 ```
@@ -369,7 +377,7 @@ public abstract void delListItem(String fieldName, String itemName)
 ```
 
 
-Delete item from the list field.
+从列表字段中删除项目。
 
 --------------------
 
@@ -378,57 +386,58 @@ formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_De
  formEditor.delListItem("listboxField", "item2");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field. |
-| itemName | java.lang.String | Name of the item which must be deleted. |
+| fieldName | java.lang.String | 字段名称。 |
+| itemName | java.lang.String | 必须删除的项目的名称。 |
 
 ### dispose() {#dispose--}
 ```
-公共抽象无效处置（）
+public abstract void dispose()
 ```
 
 
-Closes object
+关闭对象
 
 ### getAttachmentName() {#getAttachmentName--}
 ```
-公共抽象字符串 getAttachmentName()
+public abstract String getAttachmentName()
 ```
 
 
-Gets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+当操作结果作为附件存储到 HttpResponse 对象时获取附件名称。
 
-**Returns:**
-java.lang.String - String object
+**退货：**
+java.lang.String - 字符串对象
 ### getContentDisposition() {#getContentDisposition--}
 ```
-公共抽象 int getContentDisposition()
+public abstract int getContentDisposition()
 ```
 
 
-Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+获取当操作结果存储到 HttpResponse 对象时将如何存储内容。可能的值：内联/附件。默认值：内联。
 
-**Returns:**
-int - ContentDisposition element
+**退货：**
+int - ContentDisposition 元素
 ### getDestFileName() {#getDestFileName--}
 ```
-公共抽象字符串 getDestFileName()
+public abstract String getDestFileName()
 ```
 
 
-Gets destination file name.
+获取目标文件名。
 
-**Returns:**
-java.lang.String - string value
+**退货：**
+java.lang.String - 字符串值
 ### getDestStream() {#getDestStream--}
 ```
-公共抽象 OutputStream getDestStream()
+public abstract OutputStream getDestStream()
 ```
 
 
-Gets destination stream.
+获取目标流。
 
 --------------------
 
@@ -437,137 +446,137 @@ FormEditor editor = new FormEditor();
  editor.setDestStream(new FileInputStream("OutFile.pdf"));
 ```
 
-**Returns:**
-java.io.OutputStream - OutputStream object
+**退货：**
+java.io.OutputStream - OutputStream 对象
 ### getDocument() {#getDocument--}
 ```
-公共抽象 IDocument getDocument()
+public abstract IDocument getDocument()
 ```
 
 
-Gets the document  FormEditor  is working on.
+获取 FormEditor 正在处理的文档。
 
-**Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument object
+**退货：**
+[IDocument](../../com.aspose.pdf/idocument) IDocument 对象
 ### getExportItems() {#getExportItems--}
 ```
-公共抽象字符串[][getExportItems()
+public abstract String[][] getExportItems()
 ```
 
 
-Gets options for combo box with export values.
+获取具有导出值的组合框的选项。
 
-**Returns:**
-java.lang.String[][] - String[][] object
+**退货：**
+java.lang.字符串[][] - 细绳[][目的
 ### getFacade() {#getFacade--}
 ```
-公共抽象 FormFieldFacade getFacade()
+public abstract FormFieldFacade getFacade()
 ```
 
 
-Gets visual attributes of the field.
+获取字段的视觉属性。
 
-**Returns:**
-[FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) - FormFieldFacade object
+**退货：**
+[FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) - FormFieldFacade 对象
 ### getItems() {#getItems--}
 ```
-公共抽象字符串[] 获取项目（）
+public abstract String[] getItems()
 ```
 
 
-Returns item array
+返回项目数组
 
-**Returns:**
-java.lang.String[] - String[] object
+**退货：**
+java.lang.字符串[] - 细绳[目的
 ### getRadioButtonItemSize() {#getRadioButtonItemSize--}
 ```
-公共抽象双 getRadioButtonItemSize()
+public abstract double getRadioButtonItemSize()
 ```
 
 
 ```
-获取或设置单选按钮项目的大小（添加新的单选按钮字段时）。
+Gets or sets size of radio button item size (when new radio button field is added).
  
  
  FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
  formEditor.setRadioHoriz(false);
  formEditor.setRadioButtonItemSize(20);
- formEditor.setItems(新字符串[]
- “第一第二第三” }）;
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
  formEditor.addField(com.aspose.pdf.facades.FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Returns:**
-double - boolean value
+**退货：**
+双布尔值
 ### getRadioGap() {#getRadioGap--}
 ```
-公共抽象浮动 getRadioGap()
+public abstract float getRadioGap()
 ```
 
 
-Get the member to record the gap between two neighboring radio buttons in pixels,default is 50.
+获取成员以像素为单位记录两个相邻单选按钮之间的间距，默认为 50。
 
-**Returns:**
-float - float value
+**退货：**
+float - 浮点值
 ### getRadioHoriz() {#getRadioHoriz--}
 ```
-公共抽象布尔值 getRadioHoriz()
+public abstract boolean getRadioHoriz()
 ```
 
 
-Get the flag to indicate whether the radios are arranged horizontally or vertically, default value is true.
+获取标志以指示收音机是水平排列还是垂直排列，默认值为 true。
 
-**Returns:**
-boolean - boolean value
+**退货：**
+boolean - 布尔值
 ### getSaveOptions() {#getSaveOptions--}
 ```
-公共抽象保存选项 getSaveOptions()
+public abstract SaveOptions getSaveOptions()
 ```
 
 
-Gets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+当结果存储为 HttpResponse 时获取保存选项。默认值：PdfSaveOptions。
 
-**Returns:**
-[SaveOptions](../../com.aspose.pdf/saveoptions) - SaveOptions object
+**退货：**
+[SaveOptions](../../com.aspose.pdf/saveoptions) - 保存选项对象
 ### getSrcFileName() {#getSrcFileName--}
 ```
-公共抽象字符串 getSrcFileName()
+public abstract String getSrcFileName()
 ```
 
 
-Gets name of source file.
+获取源文件的名称。
 
-**Returns:**
-java.lang.String - string value
+**退货：**
+java.lang.String - 字符串值
 ### getSrcStream() {#getSrcStream--}
 ```
-公共抽象 InputStream getSrcStream()
+public abstract InputStream getSrcStream()
 ```
 
 
-Gets source stream.
+获取源码流。
 
-**Returns:**
-java.io.InputStream - InputStream object
+**退货：**
+java.io.InputStream - InputStream 对象
 ### getSubmitFlag() {#getSubmitFlag--}
 ```
-公共抽象 int getSubmitFlag()
+public abstract int getSubmitFlag()
 ```
 
 
-Get the submit button's submission flags
+获取提交按钮的提交标志
 
-**Returns:**
-int - SubmitFormFlag element
+**退货：**
+int - SubmitFormFlag 元素
 ### moveField(String fieldName, float llx, float lly, float urx, float ury) {#moveField-java.lang.String-float-float-float-float-}
 ```
 public abstract boolean moveField(String fieldName, float llx, float lly, float urx, float ury)
 ```
 
 
-Set new position of field.
+设置字段的新位置。
 
 --------------------
 
@@ -576,45 +585,47 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_MoveField.pdf"
  formEditor.moveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of field which must be moved. |
-| llx | float | Abscissa of the lower-left corner of the field. |
-| lly | float | Ordinate of the lower-left corner of the field. |
-| urx | float | Abscissa of the upper-right corner of the field. |
-| ury | float | Ordinate of the upper-right corner of the field. |
+**参数：**
 
-**Returns:**
-boolean - true if field position was changed successfully.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 必须移动的字段名称。 |
+| llx | float | 字段左下角的横坐标。 |
+| lly | float | 字段左下角的纵坐标。 |
+| urx | float | 字段右上角的横坐标。 |
+| ury | float | 字段右上角的纵坐标。 |
+
+**退货：**
+boolean - 如果字段位置更改成功则为 true。
 ### removeField(String fieldName) {#removeField-java.lang.String-}
 ```
-公共抽象无效 removeField（字符串字段名）
+public abstract void removeField(String fieldName)
 ```
 
 
-Remove field from the form.
+从表单中删除字段。
 
 --------------------
 
 ```
 FormEditr formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveField.pdf");
  formEditor.removeField("listboxField");
- formEditor.removeField("文本字段");
+ formEditor.removeField("textField");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field which must be removed. |
+| fieldName | java.lang.String | 必须删除的字段的名称。 |
 
 ### removeFieldAction(String fieldName) {#removeFieldAction-java.lang.String-}
 ```
-公共抽象无效 removeFieldAction（字符串字段名）
+public abstract void removeFieldAction(String fieldName)
 ```
 
 
-Remove submit action of the field.
+移除字段的提交动作。
 
 --------------------
 
@@ -623,10 +634,11 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveFieldAct
  formEditor.removeFieldAction("btnSubmit");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field. |
+| fieldName | java.lang.String | 字段名称。 |
 
 ### renameField(String fieldName, String newFieldName) {#renameField-java.lang.String-java.lang.String-}
 ```
@@ -634,7 +646,7 @@ public abstract void renameField(String fieldName, String newFieldName)
 ```
 
 
-Change name of the field.
+更改字段的名称。
 
 --------------------
 
@@ -643,82 +655,86 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
  formEditor.renameField("textField", "textField_Renamed");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | Old name of the field. |
-| newFieldName | java.lang.String | New name of the field. |
+| fieldName | java.lang.String | 字段的旧名称。 |
+| newFieldName | java.lang.String | 字段的新名称。 |
 
 ### resetFacade() {#resetFacade--}
 ```
-公共抽象 void resetFacade()
+public abstract void resetFacade()
 ```
 
 
-Reset all visual attributes to empty value.
+将所有视觉属性重置为空值。
 
 ### resetInnerFacade() {#resetInnerFacade--}
 ```
-公共抽象无效 resetInnerFacade()
+public abstract void resetInnerFacade()
 ```
 
 
-Reset all visual attributes of inner facade to empty value.
+将内立面的所有视觉属性重置为空值。
 
 ### save() {#save--}
 ```
-公共抽象无效保存（）
+public abstract void save()
 ```
 
 
-Saves changes into destination file.
+将更改保存到目标文件中。
 
 ### setAttachmentName(String value) {#setAttachmentName-java.lang.String-}
 ```
-公共抽象无效 setAttachmentName（字符串值）
+public abstract void setAttachmentName(String value)
 ```
 
 
-Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+当操作结果作为附件存储到 HttpResponse 对象时，设置附件名称。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String | String object |
+| value | java.lang.String | 字符串对象 |
 
 ### setContentDisposition(int value) {#setContentDisposition-int-}
 ```
-公共抽象无效 setContentDisposition（int 值）
+public abstract void setContentDisposition(int value)
 ```
 
 
-Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+设置当操作结果存储到 HttpResponse 对象时将如何存储内容。可能的值：内联/附件。默认值：内联。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | ContentDisposition element |
+| value | int | ContentDisposition 元素 |
 
 ### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
 ```
-公共抽象无效 setConvertTo（PdfFormat 值）
+public abstract void setConvertTo(PdfFormat value)
 ```
 
 
-Sets [PdfFormat](../../com.aspose.pdf/pdfformat) PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
+套[PdfFormat](../../com.aspose.pdf/pdfformat) PDF文件格式。结果文件将以指定的文件格式保存。如果未指定此属性，则文件将以默认 PDF 格式保存而不进行转换。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat element |
+| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat 元素 |
 
 ### setDestFileName(String value) {#setDestFileName-java.lang.String-}
 ```
-公共抽象无效 setDestFileName（字符串值）
+public abstract void setDestFileName(String value)
 ```
 
 
-Sets destination file name.
+设置目标文件名。
 
 --------------------
 
@@ -727,18 +743,19 @@ FormEditor editor = new FormEditor();
  editor.setDestFileName("OutFile.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String | String object |
+| value | java.lang.String | 字符串对象 |
 
 ### setDestStream(OutputStream value) {#setDestStream-java.io.OutputStream-}
 ```
-public abstract void setDestStream(OutputStream 值)
+public abstract void setDestStream(OutputStream value)
 ```
 
 
-Sets destination stream.
+设置目标流。
 
 --------------------
 
@@ -747,45 +764,47 @@ FormEditor editor = new FormEditor();
  editor.setDestStream(new FileInputStream("OutFile.pdf"));
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.io.OutputStream | OutputStream object |
+| value | java.io.OutputStream | 输出流对象 |
 
 ### setExportItems(String[][] value) {#setExportItems-java.lang.String-----}
 ```
-公共抽象无效 setExportItems（字符串[][] 价值）
+public abstract void setExportItems(String[][] value)
 ```
 
 
-Sets options for combo box with export values.
+为带有导出值的组合框设置选项。
 
 --------------------
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_Updated.pdf"));
- formEditor.setExportItems ( 新字符串[][] 
+ formEditor.setExportItems ( new String[][] 
  { 
-     新字符串[{ “1”, “冷杉” }, 
-     新字符串[] { "2", "第二个" }, 
-     新字符串[] { "3", "第三" } 
+     new String[] { "1", "Firs" }, 
+     new String[] { "2", "Second" }, 
+     new String[] { "3", "Third" } 
  });
  formEditor.addField(FieldType.ListBox, "AddedListBoxField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String[][] | String[][] object |
+| value | java.lang.细绳[][] | String[][目的 |
 
 ### setFacade(FormFieldFacade value) {#setFacade-com.aspose.pdf.facades.FormFieldFacade-}
 ```
-public abstract void setFacade(FormFieldFacade 值)
+public abstract void setFacade(FormFieldFacade value)
 ```
 
 
-Sets visual attributes of the field.
+设置字段的视觉属性。
 
 --------------------
 
@@ -796,14 +815,15 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "PdfForm_DecorateField_text.pdf");
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.green);
  fe.getFacade().setAlignment(FormFieldFacade.AlignCenter);
- fe.setDecorateField("文本字段");
+ fe.setDecorateField("textField");
  fe.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | [FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) | FormFieldFacade object |
+| value | [FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) | FormFieldFacade 对象 |
 
 ### setFieldAlignment(String fieldName, int alignment) {#setFieldAlignment-java.lang.String-int-}
 ```
@@ -811,7 +831,7 @@ public abstract boolean setFieldAlignment(String fieldName, int alignment)
 ```
 
 
-Set the alignment style of a text field.
+设置文本字段的对齐方式。
 
 --------------------
 
@@ -820,68 +840,71 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_updated.pdf"))
   formEditor.setFieldAlignment(fieldName, FormFieldFacade.AlignCenter);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
-| alignment | int | The alignment style definition, including FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter and FormFieldFacade.AlignRight. |
+**参数：**
 
-**Returns:**
-boolean - boolean value
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 限定的字段名称。 |
+| alignment | int | 对齐样式定义，包括FormFieldFacade.AlignLeft、FormFieldFacade.AlignCenter和FormFieldFacade.AlignRight。 |
+
+**退货：**
+boolean - 布尔值
 ### setFieldAlignmentV(String fieldName, int alignment) {#setFieldAlignmentV-java.lang.String-int-}
 ```
 public abstract boolean setFieldAlignmentV(String fieldName, int alignment)
 ```
 
 
-Set the vertical alignment style of a text field.
+设置文本字段的垂直对齐方式。
 
 --------------------
 
 ```
 FormEditor fe = new FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
- fe.setFieldAlignmentV("form1[0].文本域[0]", FormFieldFacade.AlignBottom);
+ fe.setFieldAlignmentV("form1[0].TextField[0]", FormFieldFacade.AlignBottom);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
-| alignment | int | The alignment style definition, including FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle and FormFieldFacade.AlignRight. |
+**参数：**
 
-**Returns:**
-boolean - If success, return true;else false.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 限定的字段名称。 |
+| alignment | int | 对齐样式定义，包括FormFieldFacade.AlignTop、FormFieldFacade.AlignMiddle和FormFieldFacade.AlignRight。 |
+
+**退货：**
+布尔值 - 如果成功，则返回 true；否则返回 false。
 ### setFieldAppearance(String fieldName, int flags) {#setFieldAppearance-java.lang.String-int-}
 ```
 public abstract boolean setFieldAppearance(String fieldName, int flags)
 ```
 
 
-Set field flags
+设置字段标志
 
 --------------------
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm1.pdf", "FormEditor_SetFieldAppearance.pdf");
- formEditor.setFieldAppearance("名称", AnnotationFlags.Hidden);
+ formEditor.setFieldAppearance("Name", AnnotationFlags.Hidden);
  formEditor.setFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.Print);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of field whose flags should be updated. |
-| flags | int | Flag of the field. |
+**参数：**
 
-**Returns:**
-boolean - true if flags were updated successfully.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 应更新其标志的字段的名称。 |
+| flags | int | 领域的标志。 |
+
+**退货：**
+boolean - 如果标志更新成功则为真。
 ### setFieldAttribute(String fieldName, int flag) {#setFieldAttribute-java.lang.String-int-}
 ```
 public abstract boolean setFieldAttribute(String fieldName, int flag)
 ```
 
 
-Set attributes of field.
+设置字段的属性。
 
 --------------------
 
@@ -891,21 +914,22 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_SetFieldAttribute
  formEditor.setFieldAttribute("textField", PropertyFlag.NoExport);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of field which attributes should be set. |
-| flag | int | Flag (NoExport/ReadOnly/Required) |
+**参数：**
 
-**Returns:**
-boolean - true if attribute was set successfully.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 应设置属性的字段名称。 |
+| flag | int | 标志（NoExport/ReadOnly/Required） |
+
+**退货：**
+boolean - 如果属性设置成功则为真。
 ### setFieldCombNumber(String fieldName, int combNumber) {#setFieldCombNumber-java.lang.String-int-}
 ```
 public abstract boolean setFieldCombNumber(String fieldName, int combNumber)
 ```
 
 
-Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter).
+为常规单行文本字段设置梳子数（该字段自动分为与 combNumber 参数值一样多的等距位置或梳子）。
 
 --------------------
 
@@ -914,108 +938,113 @@ FormEditor formEditor = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_SetFie
  formEditor.setFieldCombNumber("textCombField", 5);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
-| combNumber | int | The number of combs to divide the field into. |
+**参数：**
 
-**Returns:**
-boolean - If success, return true;else false.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 限定的字段名称。 |
+| combNumber | int | 将字段划分为的梳子数。 |
+
+**退货：**
+布尔值 - 如果成功，则返回 true；否则返回 false。
 ### setFieldLimit(String fieldName, int fieldLimit) {#setFieldLimit-java.lang.String-int-}
 ```
 public abstract boolean setFieldLimit(String fieldName, int fieldLimit)
 ```
 
 
-Sets maximum character count of the text field.
+设置文本字段的最大字符数。
 
 --------------------
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetFieldLimit.pdf");
- formEditor.setFieldLimit("文本字段", 15);
+ formEditor.setFieldLimit("textField", 15);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of the text field. |
-| fieldLimit | int | New value of limit for the field. |
+**参数：**
 
-**Returns:**
-boolean - true if field limit was successfully set.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 文本字段的名称。 |
+| fieldLimit | int | 该字段的新限制值。 |
+
+**退货：**
+boolean - 如果成功设置字段限制则为真。
 ### setFieldScript(String fieldName, String script) {#setFieldScript-java.lang.String-java.lang.String-}
 ```
 public abstract boolean setFieldScript(String fieldName, String script)
 ```
 
 
-Set JavaScript for a PushButton field. If old JavaScript existed, it will be replaced by the new one.
+为按钮字段设置 JavaScript。如果旧的 JavaScript 存在，它将被新的替换。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | java.lang.String | The fully qualified field name. |
-| script | java.lang.String | The Java script to be added/placed into a push button field. |
+| fieldName | java.lang.String | 完全限定的字段名称。 |
+| script | java.lang.String | 要添加/放置到按钮字段中的 Java 脚本。 |
 
-**Returns:**
-boolean - boolean value: If success, return true; else false.
+**退货：**
+boolean - 布尔值：如果成功，返回 true；否则为假。
 ### setItems(String[] value) {#setItems-java.lang.String---}
 ```
-公共抽象无效 setItems（字符串[] 价值）
+public abstract void setItems(String[] value)
 ```
 
 
-Sets items which will be added to newly created list box or combo box.
+设置将添加到新创建的列表框或组合框的项目。
 
 --------------------
 
 ```
 formEditor = new com.aspose.pdf.facadesFormEditor("input.pdf", "output.pdf");
- formEditor.setItems(新字符串[]
- "AAA", "BBB", "CCC" });
+ formEditor.setItems(new String[]
+ { "AAA", "BBB", "CCC" });
  formEditor.addField(FieldType.ListBox, "AddedListBoxField", "BBB", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String[] | String[] object |
+| value | java.lang.细绳[] | String[目的 |
 
 ### setRadioButtonItemSize(double value) {#setRadioButtonItemSize-double-}
 ```
-公共抽象无效 setRadioButtonItemSize（双值）
+public abstract void setRadioButtonItemSize(double value)
 ```
 
 
 ```
-获取或设置单选按钮项目的大小（添加新的单选按钮字段时）。
+Gets or sets size of radio button item size (when new radio button field is added).
  
  
  FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
  formEditor.setRadioHoriz(false);
  formEditor.setRadioButtonItemSize(20);
- formEditor.setItems(新字符串[]
- “第一第二第三” }）;
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
  formEditor.addField(com.aspose.pdf.facades.FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | double value |
+| value | double | 双倍价值 |
 
 ### setRadioGap(float value) {#setRadioGap-float-}
 ```
-公共抽象无效 setRadioGap（浮动值）
+public abstract void setRadioGap(float value)
 ```
 
 
-Set the member to record the gap between two neighboring radio buttons in pixels,default is 50.
+设置成员以像素为单位记录两个相邻单选按钮之间的间距，默认为 50。
 
 --------------------
 
@@ -1023,24 +1052,25 @@ Set the member to record the gap between two neighboring radio buttons in pixels
 formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
  formEditor.setRadioHoriz(false);
- formEditor.setItems(新字符串[]
- “第一第二第三” }）;
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
  formEditor.addField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | float value |
+| value | float | 浮点值 |
 
 ### setRadioHoriz(boolean value) {#setRadioHoriz-boolean-}
 ```
-公共抽象无效 setRadioHoriz（布尔值）
+public abstract void setRadioHoriz(boolean value)
 ```
 
 
-Set the flag to indicate whether the radios are arranged horizontally or vertically, default value is true.
+设置标志以指示收音机是水平排列还是垂直排列，默认值为 true。
 
 --------------------
 
@@ -1048,57 +1078,60 @@ Set the flag to indicate whether the radios are arranged horizontally or vertica
 formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
  formEditor.setRadioHoriz(false);
- formEditor.setItems(新字符串[]
- “第一第二第三” }）;
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
  formEditor.addField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | 布尔值 |
 
 ### setSaveOptions(SaveOptions value) {#setSaveOptions-com.aspose.pdf.SaveOptions-}
 ```
-公共抽象无效 setSaveOptions（SaveOptions 值）
+public abstract void setSaveOptions(SaveOptions value)
 ```
 
 
-Sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+当结果存储为 HttpResponse 时设置保存选项。默认值：PdfSaveOptions。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | SaveOptions object |
+| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | 保存选项对象 |
 
 ### setSrcFileName(String value) {#setSrcFileName-java.lang.String-}
 ```
-公共抽象无效 setSrcFileName（字符串值）
+public abstract void setSrcFileName(String value)
 ```
 
 
-Sets name of source file.
+设置源文件的名称。
 
 --------------------
 
 ```
 FormEditor editor = new FormEditor();
- editor.setSrcFileName("输入文件.pdf");
+ editor.setSrcFileName("InputFile.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String | string value |
+| value | java.lang.String | 字符串值 |
 
 ### setSrcStream(InputStream value) {#setSrcStream-java.io.InputStream-}
 ```
-public abstract void setSrcStream(InputStream 值)
+public abstract void setSrcStream(InputStream value)
 ```
 
 
-Sets source stream.
+设置源流。
 
 --------------------
 
@@ -1107,23 +1140,25 @@ FormEditor editor = new FormEditor();
  editor.setSrcStream(new FileInputStream("InFile.pdf"));
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.io.InputStream | InputStream object |
+| value | java.io.InputStream | 输入流对象 |
 
 ### setSubmitFlag(int value) {#setSubmitFlag-int-}
 ```
-公共抽象无效 setSubmitFlag（int 值）
+public abstract void setSubmitFlag(int value)
 ```
 
 
-Set the submit button's submission flags
+设置提交按钮的提交标志
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | SubmitFormFlag element |
+| value | int | SubmitFormFlag 元素 |
 
 ### setSubmitFlag(String fieldName, int submitFormFlag) {#setSubmitFlag-java.lang.String-int-}
 ```
@@ -1131,7 +1166,7 @@ public abstract boolean setSubmitFlag(String fieldName, int submitFormFlag)
 ```
 
 
-Set submit flag of submit button.
+设置提交按钮的提交标志。
 
 --------------------
 
@@ -1140,21 +1175,22 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitFlag.
  formEditor.setSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of submit button. |
-| submitFormFlag | int | Submit flag. |
+**参数：**
 
-**Returns:**
-boolean - boolean value
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 提交按钮的名称。 |
+| submitFormFlag | int | 提交标志。 |
+
+**退货：**
+boolean - 布尔值
 ### setSubmitUrl(String fieldName, String url) {#setSubmitUrl-java.lang.String-java.lang.String-}
 ```
 public abstract boolean setSubmitUrl(String fieldName, String url)
 ```
 
 
-Sets URL of the button.
+设置按钮的 URL。
 
 --------------------
 
@@ -1163,33 +1199,35 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitUrl.p
  formEditor.setSubmitUrl("btnSubmit", "www.mysite.com");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Submit button name. |
-| url | java.lang.String | Fully qualified URL. |
+**参数：**
 
-**Returns:**
-boolean - boolean value
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 提交按钮名称。 |
+| url | java.lang.String | 完全限定的 URL。 |
+
+**退货：**
+boolean - 布尔值
 ### single2Multiple(String fieldName) {#single2Multiple-java.lang.String-}
 ```
-公共抽象布尔 single2Multiple（字符串字段名）
+public abstract boolean single2Multiple(String fieldName)
 ```
 
 
-Change a single-lined text field to a multiple-lined one.
+将单行文本字段更改为多行文本字段。
 
 --------------------
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
- formEditor.single2Multiple("文本字段");
+ formEditor.single2Multiple("textField");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
+**参数：**
 
-**Returns:**
-boolean - If success, return true;else false.
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| fieldName | java.lang.String | 限定的字段名称。 |
+
+**退货：**
+布尔值 - 如果成功，则返回 true；否则返回 false。

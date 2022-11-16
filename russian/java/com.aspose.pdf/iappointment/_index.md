@@ -1,27 +1,28 @@
 ---
 title: IAppointment
 second_title: Aspose.PDF для справки по Java API
-описание: Представляет общий интерфейс для действий и пунктов назначения.
-тип: документы
-вес: 431
-URL-адрес: /java/com.aspose.pdf/iappointment/
----```
-общедоступный интерфейс IAppointment
+description: Представляет общий интерфейс для действий и пунктов назначения.
+type: docs
+weight: 431
+url: /ru/java/com.aspose.pdf/iappointment/
+---
+```
+public interface IAppointment
 ```
 
-Represents general interface for actions and destinations.
-## Methods
+Представляет общий интерфейс для действий и пунктов назначения.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [toString()](#toString--) | Returns string representation |
+| [toString()](#toString--) | Возвращает строковое представление |
 ### toString() {#toString--}
 ```
-общедоступная абстрактная строка toString()
+public abstract String toString()
 ```
 
 
-Returns string representation
+Возвращает строковое представление
 
-**Returns:**
-java.lang.String - String representation
+**Возвращает:**
+java.lang.String — строковое представление

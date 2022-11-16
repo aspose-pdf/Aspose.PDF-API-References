@@ -1,40 +1,42 @@
 ---
-标题：IPageSetOptions
-second_title: Aspose.PDF for Java API 参考
-描述：定义与要转换的一组页面相关的转换选项。
-类型：文档
-体重：438
-网址：/java/com.aspose.pdf/ipagesetoptions/
----```
-公共接口 IPageSetOptions
+title: IPageSetOptions
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 定义与要转换的一组页面相关的转换选项。
+type: docs
+weight: 438
+url: /zh/java/com.aspose.pdf/ipagesetoptions/
+---
+```
+public interface IPageSetOptions
 ```
 
-Defines conversion options related to a set of pages to convert.
-## Methods
+定义与要转换的一组页面相关的转换选项。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [getExplicitListOfSavedPages()](#getExplicitListOfSavedPages--) | Specifies the array of numbers of pages to convert. |
-| [setExplicitListOfSavedPages(int[] value)](#setExplicitListOfSavedPages-int---) | Specifies the array of numbers of pages to convert. |
+| [getExplicitListOfSavedPages()](#getExplicitListOfSavedPages--) | 指定要转换的页数数组。 |
+| [setExplicitListOfSavedPages(int[] value)](#setExplicitListOfSavedPages-int---) | 指定要转换的页数数组。 |
 ### getExplicitListOfSavedPages() {#getExplicitListOfSavedPages--}
 ```
-公共抽象整数[getExplicitListOfSavedPages()
+public abstract int[] getExplicitListOfSavedPages()
 ```
 
 
-Specifies the array of numbers of pages to convert.
+指定要转换的页数数组。
 
-**Returns:**
-int[] - int array
+**退货：**
+整数[] - 整数数组
 ### setExplicitListOfSavedPages(int[] value) {#setExplicitListOfSavedPages-int---}
 ```
-公共抽象无效 setExplicitListOfSavedPages(int[] 价值）
+public abstract void setExplicitListOfSavedPages(int[] value)
 ```
 
 
-Specifies the array of numbers of pages to convert.
+指定要转换的页数数组。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int[] | int array |
+| value | int[] | 整型数组 |

@@ -1,946 +1,979 @@
 ---
-название: IPdfFileStamp
+title: IPdfFileStamp
 second_title: Aspose.PDF для справки по Java API
-описание: интерфейс для добавления штампов, водяных знаков или фона в файлы PDF.
-тип: документы
-вес: 71
-URL-адрес: /java/com.aspose.pdf.facades/ipdffilestamp/
----```
-общедоступный интерфейс IPdfFileStamp
+description: интерфейс для добавления штампов, водяных знаков или фона в файлы PDF.
+type: docs
+weight: 71
+url: /ru/java/com.aspose.pdf.facades/ipdffilestamp/
+---
+```
+public interface IPdfFileStamp
 ```
 
-interface for adding stamps (watermark or background) to PDF files.
-## Fields
+интерфейс для добавления штампов (водяных знаков или фона) в файлы PDF.
+## Поля
 
-| Field | Description |
+| Поле | Описание |
 | --- | --- |
-| [POS_BOTTOM_LEFT](#POS-BOTTOM-LEFT) | Bottom left position. |
-| [POS_BOTTOM_MIDDLE](#POS-BOTTOM-MIDDLE) | Bottom middle position. |
-| [POS_BOTTOM_RIGHT](#POS-BOTTOM-RIGHT) | Bottom right position. |
-| [POS_SIDES_LEFT](#POS-SIDES-LEFT) | Left position. |
-| [POS_SIDES_RIGHT](#POS-SIDES-RIGHT) | Right position. |
-| [POS_UPPER_LEFT](#POS-UPPER-LEFT) | Upper let position. |
-| [POS_UPPER_MIDDLE](#POS-UPPER-MIDDLE) | Upper middle position. |
-| [POS_UPPER_RIGHT](#POS-UPPER-RIGHT) | Right upper position. |
-## Methods
+| [POS_BOTTOM_LEFT](#POS-BOTTOM-LEFT) | Нижнее левое положение. |
+| [POS_BOTTOM_MIDDLE](#POS-BOTTOM-MIDDLE) | Нижнее среднее положение. |
+| [POS_BOTTOM_RIGHT](#POS-BOTTOM-RIGHT) | Нижнее правое положение. |
+| [POS_SIDES_LEFT](#POS-SIDES-LEFT) | Левое положение. |
+| [POS_SIDES_RIGHT](#POS-SIDES-RIGHT) | Правильное положение. |
+| [POS_UPPER_LEFT](#POS-UPPER-LEFT) | Верхнее пусть положение. |
+| [POS_UPPER_MIDDLE](#POS-UPPER-MIDDLE) | Верхнее среднее положение. |
+| [POS_UPPER_RIGHT](#POS-UPPER-RIGHT) | Правое верхнее положение. |
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [addFooter(FormattedText formattedText, float bottomMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-) | Adds footer to the pages of the document. |
-| [addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-float-float-) | Adds footer to the pages of the document. |
-| [addFooter(InputStream imageStream, float bottomMargin)](#addFooter-java.io.InputStream-float-) | Adds image as footer of the page. |
-| [addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.io.InputStream-float-float-float-) | Adds image as footer of the page. |
-| [addFooter(String imageFile, float bottomMargin)](#addFooter-java.lang.String-float-) | Adds image as footer to the pages of the document. |
-| [addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.lang.String-float-float-float-) | Adds image as footer of the pages. |
-| [addHeader(FormattedText formattedText, float topMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-) | Adds header to the page. |
-| [addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-) | Adds header to the pages of file. |
-| [addHeader(InputStream imageStream, float topMargin)](#addHeader-java.io.InputStream-float-) | Adds image as header on the pages. |
-| [addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.io.InputStream-float-float-float-) | Adds image at the top of the page. |
-| [addHeader(String imageFile, float topMargin)](#addHeader-java.lang.String-float-) | Adds image as header to the pages of the file. |
-| [addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.lang.String-float-float-float-) | Adds image as header on the pages. |
-| [addPageNumber(FormattedText formattedText)](#addPageNumber-com.aspose.pdf.facades.FormattedText-) | Adds page number to the page. |
-| [addPageNumber(FormattedText formattedText, float x, float y)](#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-) | Adds page number at the specified position on the page. |
-| [addPageNumber(FormattedText formattedText, int position)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-) | Adds page number to the pages. |
-| [addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-) | Adds page number to the pages of document. |
-| [addPageNumber(String formatString)](#addPageNumber-java.lang.String-) | Add page number to file. |
-| [addPageNumber(String formatString, float x, float y)](#addPageNumber-java.lang.String-float-float-) | Adds page number at the specified position on the page. |
-| [addPageNumber(String formatString, int position)](#addPageNumber-java.lang.String-int-) | Adds page number to the pages. |
-| [addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-java.lang.String-int-float-float-float-float-) | Adds page number to the pages of document. |
-| [addStamp(Stamp stamp)](#addStamp-com.aspose.pdf.facades.Stamp-) | Adds stamp to the file. |
-| [close()](#close--) | Closes opened files and saves changes. |
-| [dispose()](#dispose--) | Closes opened files and saves changes. |
-| [getAttachmentName()](#getAttachmentName--) | Gets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [getContentDisposition()](#getContentDisposition--) | Gets how content will be stored when result of operation is stored into HttpResponse object. |
-| [getDocument()](#getDocument--) | Gets the document  PdfFileStamp  is working on. |
-| [getInputFile()](#getInputFile--) | Gets name and path of input file. |
-| [getInputStream()](#getInputStream--) | Gets input stream. |
-| [getKeepSecurity()](#getKeepSecurity--) | Keeps security if true. |
-| [getOutputFile()](#getOutputFile--) | Gets name and path of output file. |
-| [getOutputStream()](#getOutputStream--) | Gets output stream. |
-| [getPageHeight()](#getPageHeight--) | Gets height of first page in souorce file. |
-| [getPageNumberRotation()](#getPageNumberRotation--) | Gets rotation of page number. |
-| [getPageWidth()](#getPageWidth--) | Gets width of first page in input file. |
-| [getSaveOptions()](#getSaveOptions--) | Gets save options when result is stored as HttpResponse. |
-| [getStartingNumber()](#getStartingNumber--) | Gets or sets starting number for first page in input file. |
-| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [setContentDisposition(int value)](#setContentDisposition-int-) | Sets how content will be stored when result of operation is stored into HttpResponse object. |
-| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Sets PDF file format. |
-| [setInputFile(String value)](#setInputFile-java.lang.String-) | Sets name and path of input file. |
-| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | Sets input stream. |
-| [setKeepSecurity(boolean value)](#setKeepSecurity-boolean-) | Set Keep Security |
-| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | Sets name and path of output file. |
-| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | Sets or sets output stream. |
-| [setPageNumberRotation(float value)](#setPageNumberRotation-float-) | Sets rotation of page number. |
-| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpResponse. |
-| [setStartingNumber(int value)](#setStartingNumber-int-) | Sets starting number for first page in input file. |
+| [addFooter(FormattedText formattedText, float bottomMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-) | Добавляет нижний колонтитул на страницы документа. |
+| [addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-float-float-) | Добавляет нижний колонтитул на страницы документа. |
+| [addFooter(InputStream imageStream, float bottomMargin)](#addFooter-java.io.InputStream-float-) | Добавляет изображение в качестве нижнего колонтитула страницы. |
+| [addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.io.InputStream-float-float-float-) | Добавляет изображение в качестве нижнего колонтитула страницы. |
+| [addFooter(String imageFile, float bottomMargin)](#addFooter-java.lang.String-float-) | Добавляет изображение в качестве нижнего колонтитула на страницы документа. |
+| [addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.lang.String-float-float-float-) | Добавляет изображение в качестве нижнего колонтитула страниц. |
+| [addHeader(FormattedText formattedText, float topMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-) | Добавляет заголовок на страницу. |
+| [addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-) | Добавляет заголовок к страницам файла. |
+| [addHeader(InputStream imageStream, float topMargin)](#addHeader-java.io.InputStream-float-) | Добавляет изображение в качестве заголовка на страницы. |
+| [addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.io.InputStream-float-float-float-) | Добавляет изображение вверху страницы. |
+| [addHeader(String imageFile, float topMargin)](#addHeader-java.lang.String-float-) | Добавляет изображение в качестве заголовка на страницы файла. |
+| [addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.lang.String-float-float-float-) | Добавляет изображение в качестве заголовка на страницы. |
+| [addPageNumber(FormattedText formattedText)](#addPageNumber-com.aspose.pdf.facades.FormattedText-) | Добавляет номер страницы к странице. |
+| [addPageNumber(FormattedText formattedText, float x, float y)](#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-) | Добавляет номер страницы в указанную позицию на странице. |
+| [addPageNumber(FormattedText formattedText, int position)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-) | Добавляет номер страницы к страницам. |
+| [addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-) | Добавляет номер страницы к страницам документа. |
+| [addPageNumber(String formatString)](#addPageNumber-java.lang.String-) | Добавьте номер страницы в файл. |
+| [addPageNumber(String formatString, float x, float y)](#addPageNumber-java.lang.String-float-float-) | Добавляет номер страницы в указанную позицию на странице. |
+| [addPageNumber(String formatString, int position)](#addPageNumber-java.lang.String-int-) | Добавляет номер страницы к страницам. |
+| [addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-java.lang.String-int-float-float-float-float-) | Добавляет номер страницы к страницам документа. |
+| [addStamp(Stamp stamp)](#addStamp-com.aspose.pdf.facades.Stamp-) | Добавляет штамп к файлу. |
+| [close()](#close--) | Закрывает открытые файлы и сохраняет изменения. |
+| [dispose()](#dispose--) | Закрывает открытые файлы и сохраняет изменения. |
+| [getAttachmentName()](#getAttachmentName--) | Получает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение. |
+| [getContentDisposition()](#getContentDisposition--) | Получает способ хранения содержимого при сохранении результата операции в объекте HttpResponse. |
+| [getDocument()](#getDocument--) | Получает документ, над которым работает PdfFileStamp. |
+| [getInputFile()](#getInputFile--) | Получает имя и путь входного файла. |
+| [getInputStream()](#getInputStream--) | Получает входной поток. |
+| [getKeepSecurity()](#getKeepSecurity--) | Сохраняет безопасность, если это правда. |
+| [getOutputFile()](#getOutputFile--) | Получает имя и путь выходного файла. |
+| [getOutputStream()](#getOutputStream--) | Получает выходной поток. |
+| [getPageHeight()](#getPageHeight--) | Получает высоту первой страницы исходного файла. |
+| [getPageNumberRotation()](#getPageNumberRotation--) | Получает поворот номера страницы. |
+| [getPageWidth()](#getPageWidth--) | Получает ширину первой страницы во входном файле. |
+| [getSaveOptions()](#getSaveOptions--) | Получает параметры сохранения, когда результат сохраняется как HttpResponse. |
+| [getStartingNumber()](#getStartingNumber--) | Получает или задает начальный номер первой страницы во входном файле. |
+| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Задает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение. |
+| [setContentDisposition(int value)](#setContentDisposition-int-) | Устанавливает, как содержимое будет сохранено, когда результат операции будет сохранен в объекте HttpResponse. |
+| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Устанавливает формат файла PDF. |
+| [setInputFile(String value)](#setInputFile-java.lang.String-) | Устанавливает имя и путь входного файла. |
+| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | Устанавливает входной поток. |
+| [setKeepSecurity(boolean value)](#setKeepSecurity-boolean-) | Установить сохранение безопасности |
+| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | Устанавливает имя и путь выходного файла. |
+| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | Устанавливает или устанавливает выходной поток. |
+| [setPageNumberRotation(float value)](#setPageNumberRotation-float-) | Устанавливает поворот номера страницы. |
+| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Задает параметры сохранения, когда результат сохраняется как HttpResponse. |
+| [setStartingNumber(int value)](#setStartingNumber-int-) | Устанавливает начальный номер для первой страницы во входном файле. |
 ### POS_BOTTOM_LEFT {#POS-BOTTOM-LEFT}
 ```
-общедоступный статический финал int POS_BOTTOM_LEFT
+public static final int POS_BOTTOM_LEFT
 ```
 
 
-Bottom left position.
+Нижнее левое положение.
 
 ### POS_BOTTOM_MIDDLE {#POS-BOTTOM-MIDDLE}
 ```
-общедоступный статический финал int POS_BOTTOM_MIDDLE
+public static final int POS_BOTTOM_MIDDLE
 ```
 
 
-Bottom middle position.
+Нижнее среднее положение.
 
 ### POS_BOTTOM_RIGHT {#POS-BOTTOM-RIGHT}
 ```
-общедоступный статический финал int POS_BOTTOM_RIGHT
+public static final int POS_BOTTOM_RIGHT
 ```
 
 
-Bottom right position.
+Нижнее правое положение.
 
 ### POS_SIDES_LEFT {#POS-SIDES-LEFT}
 ```
-общедоступный статический финал int POS_SIDES_LEFT
+public static final int POS_SIDES_LEFT
 ```
 
 
-Left position.
+Левое положение.
 
 ### POS_SIDES_RIGHT {#POS-SIDES-RIGHT}
 ```
-публичный статический финал int POS_SIDES_RIGHT
+public static final int POS_SIDES_RIGHT
 ```
 
 
-Right position.
+Правильное положение.
 
 ### POS_UPPER_LEFT {#POS-UPPER-LEFT}
 ```
-публичный статический финал int POS_UPPER_LEFT
+public static final int POS_UPPER_LEFT
 ```
 
 
-Upper let position.
+Верхнее пусть положение.
 
 ### POS_UPPER_MIDDLE {#POS-UPPER-MIDDLE}
 ```
-общедоступный статический финал int POS_UPPER_MIDDLE
+public static final int POS_UPPER_MIDDLE
 ```
 
 
-Upper middle position.
+Верхнее среднее положение.
 
 ### POS_UPPER_RIGHT {#POS-UPPER-RIGHT}
 ```
-общедоступный статический финал int POS_UPPER_RIGHT
+public static final int POS_UPPER_RIGHT
 ```
 
 
-Right upper position.
+Правое верхнее положение.
 
 ### addFooter(FormattedText formattedText, float bottomMargin) {#addFooter-com.aspose.pdf.facades.FormattedText-float-}
 ```
-public abstract void addFooter (FormattedText formattedText, float bottomMargin)
+public abstract void addFooter(FormattedText formattedText, float bottomMargin)
 ```
 
 
-Adds footer to the pages of the document.
+Добавляет нижний колонтитул на страницы документа.
 
 --------------------
 
 ```
-Штамп PdfFileStamp = новый PdfFileStamp("input.pdf", "output.pdf");
- штамп.addFooter(новый FormattedText("Нижний колонтитул страницы"), 10);
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+ stamp.addFooter(new FormattedText("Foot of the page"), 10);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains text of the footer and text properties. |
-| bottomMargin | float | Margin at the top of page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Объект FormattedText, который содержит текст нижнего колонтитула и текстовые свойства. |
+| bottomMargin | float | Поля вверху страницы. |
 
 ### addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-com.aspose.pdf.facades.FormattedText-float-float-float-}
 ```
-public abstract void addFooter (FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)
+public abstract void addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
 
-Adds footer to the pages of the document.
+Добавляет нижний колонтитул на страницы документа.
 
 --------------------
 
 ```
-Штамп PdfFileStamp = новый PdfFileStamp("input.pdf", "output.pdf");
- штамп.addFooter(новый FormattedText("Нижний колонтитул страницы"), 10, 50, 50);
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+ stamp.addFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains footer text and text properties. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Объект FormattedText, который содержит текст нижнего колонтитула и текстовые свойства. |
+| bottomMargin | float | Поле внизу страницы. |
+| leftMargin | float | Поле в левой части страницы. |
+| rightMargin | float | Поля в правой части страницы. |
 
 ### addFooter(InputStream imageStream, float bottomMargin) {#addFooter-java.io.InputStream-float-}
 ```
-public abstract void addFooter (InputStream imageStream, float bottomMargin)
+public abstract void addFooter(InputStream imageStream, float bottomMargin)
 ```
 
 
-Adds image as footer of the page.
+Добавляет изображение в качестве нижнего колонтитула страницы.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp("input.pdf", output.pdf");
- fileStamp.addFooter (новый FileInputStream («image.jpg»), 50);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addFooter(new FileInputStream("image.jpg"), 50);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageStream | java.io.InputStream | Stream contains image data. |
-| bottomMargin | float | Margin at the bottom of the page. |
+| imageStream | java.io.InputStream | Поток содержит данные изображения. |
+| bottomMargin | float | Поле внизу страницы. |
 
 ### addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-java.io.InputStream-float-float-float-}
 ```
-public abstract void addFooter (InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin)
+public abstract void addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
 
-Adds image as footer of the page.
+Добавляет изображение в качестве нижнего колонтитула страницы.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp("input.pdf", output.pdf");
- fileStamp.addFooter(новый FileInputStream("image.jpg"), 50, 50, 50);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addFooter(new FileInputStream("image.jpg"), 50, 50, 50);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageStream | java.io.InputStream | Stream contains image data. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| imageStream | java.io.InputStream | Поток содержит данные изображения. |
+| bottomMargin | float | Поле внизу страницы. |
+| leftMargin | float | Поле в левой части страницы. |
+| rightMargin | float | Поля в правой части страницы. |
 
 ### addFooter(String imageFile, float bottomMargin) {#addFooter-java.lang.String-float-}
 ```
-public abstract void addFooter (String imageFile, float bottomMargin)
+public abstract void addFooter(String imageFile, float bottomMargin)
 ```
 
 
-Adds image as footer to the pages of the document.
+Добавляет изображение в качестве нижнего колонтитула на страницы документа.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp("input.pdf", output.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
  fileStamp.addFooter("image.jpg", 50);
- Штамп файла.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | java.lang.String | Image file name and path. |
-| bottomMargin | float | Margin at the bottom of the page. |
+| imageFile | java.lang.String | Имя файла изображения и путь. |
+| bottomMargin | float | Поле внизу страницы. |
 
 ### addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-java.lang.String-float-float-float-}
 ```
-public abstract void addFooter (String imageFile, float bottomMargin, float leftMargin, float rightMargin)
+public abstract void addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
 
-Adds image as footer of the pages.
+Добавляет изображение в качестве нижнего колонтитула страниц.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | java.lang.String | Iamge file name and path. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| imageFile | java.lang.String | Имя файла Iamge и путь. |
+| bottomMargin | float | Поле внизу страницы. |
+| leftMargin | float | Поле в левой части страницы. |
+| rightMargin | float | Поля в правой части страницы. |
 
 ### addHeader(FormattedText formattedText, float topMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-}
 ```
-public abstract void addHeader (FormattedText formattedText, float topMargin)
+public abstract void addHeader(FormattedText formattedText, float topMargin)
 ```
 
 
-Adds header to the page.
+Добавляет заголовок на страницу.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addHeader(new FormattedText("Заголовок страницы"), 50);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addHeader(new FormattedText("Head of the page"), 50);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Text for header and properties of the text. |
-| topMargin | float | Margin on the top of page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Текст для заголовка и свойства текста. |
+| topMargin | float | Поля вверху страницы. |
 
 ### addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-}
 ```
-public abstract void addHeader (FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)
+public abstract void addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)
 ```
 
 
-Adds header to the pages of file.
+Добавляет заголовок к страницам файла.
 
 --------------------
 
 ```
-Штамп PdfFileStamp = новый PdfFileStamp("input.pdf", "output.pdf");
- штамп.addHeader(новый FormattedText("Заголовок страницы"), 10, 50, 50);
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+ stamp.addHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text object which contains page text and its properties. |
-| topMargin | float | Margin on the top of the page. |
-| leftMargin | float | Margin on the left of the page. |
-| rightMargin | float | Margin on the right of the page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Форматированный текстовый объект, который содержит текст страницы и его свойства. |
+| topMargin | float | Поля вверху страницы. |
+| leftMargin | float | Поле в левой части страницы. |
+| rightMargin | float | Поля в правой части страницы. |
 
 ### addHeader(InputStream imageStream, float topMargin) {#addHeader-java.io.InputStream-float-}
 ```
-public abstract void addHeader (InputStream imageStream, float topMargin)
+public abstract void addHeader(InputStream imageStream, float topMargin)
 ```
 
 
-Adds image as header on the pages.
+Добавляет изображение в качестве заголовка на страницы.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp("input.pdf", output.pdf");
- fileStamp.addHeader(новый FileInputStream("image.jpg"), 50);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addHeader(new FileInputStream("image.jpg"), 50);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageStream | java.io.InputStream | Stream of the image. |
-| topMargin | float | Margin at top of the page. |
+| imageStream | java.io.InputStream | Поток изображения. |
+| topMargin | float | Поле вверху страницы. |
 
 ### addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.io.InputStream-float-float-float-}
 ```
-public abstract void addHeader (InputStream inputStream, float topMargin, float leftMargin, float rightMargin)
+public abstract void addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)
 ```
 
 
-Adds image at the top of the page.
+Добавляет изображение вверху страницы.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp("input.pdf", output.pdf");
- fileStamp.addHeader(новый FileInputStream("image.jpg"), 50, 100, 100);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addHeader(new FileInputStream("image.jpg"), 50, 100, 100);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | Stream which contains image data. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
+| inputStream | java.io.InputStream | Поток, содержащий данные изображения. |
+| topMargin | float | Поле вверху страницы. |
+| leftMargin | float | Поля в левой части страницы. |
+| rightMargin | float | Поля в правой части страницы. |
 
 ### addHeader(String imageFile, float topMargin) {#addHeader-java.lang.String-float-}
 ```
-public abstract void addHeader (String imageFile, float topMargin)
+public abstract void addHeader(String imageFile, float topMargin)
 ```
 
 
-Adds image as header to the pages of the file.
+Добавляет изображение в качестве заголовка на страницы файла.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp("input.pdf", output.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
  fileStamp.addHeader("image.jpg", 50);
- Штамп файла.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | java.lang.String | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
+| imageFile | java.lang.String | Путь к файлу изображения. |
+| topMargin | float | Поле вверху страницы. |
 
 ### addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.lang.String-float-float-float-}
 ```
-public abstract void addHeader (String imageFile, float topMargin, float leftMargin, float rightMargin)
+public abstract void addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)
 ```
 
 
-Adds image as header on the pages.
+Добавляет изображение в качестве заголовка на страницы.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp("input.pdf", output.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
  fileStamp.addHeader("image.jpg", 50, 100, 100);
- Штамп файла.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | java.lang.String | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
+| imageFile | java.lang.String | Путь к файлу изображения. |
+| topMargin | float | Поле вверху страницы. |
+| leftMargin | float | Поля в левой части страницы. |
+| rightMargin | float | Поля в правой части страницы. |
 
 ### addPageNumber(FormattedText formattedText) {#addPageNumber-com.aspose.pdf.facades.FormattedText-}
 ```
-public abstract void addPageNumber (FormattedText formattedText)
+public abstract void addPageNumber(FormattedText formattedText)
 ```
 
 
-Adds page number to the page. Page number may contain \# sign which will be replaced with page number. Page number is placed in the bottom of the page centered horizontally.
+ Добавляет номер страницы к странице. Номер страницы может содержать\знак #, который будет заменен номером страницы. Номер страницы помещается внизу страницы по центру горизонтально.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber (новый форматированный текст («Страница №»));
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page #"));
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Format string for page number representes as FormattedText. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Строка формата для номера страницы представлена как FormattedText. |
 
 ### addPageNumber(FormattedText formattedText, float x, float y) {#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-}
 ```
-public abstract void addPageNumber (FormattedText formattedText, float x, float y)
+public abstract void addPageNumber(FormattedText formattedText, float x, float y)
 ```
 
 
-Adds page number at the specified position on the page.
+Добавляет номер страницы в указанную позицию на странице.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber (новый форматированный текст («Страница №»), 123, 357);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text which represents page number format and properties of the text. Format string can contain \# sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) |  Форматированный текст, который представляет формат номера страницы и свойства текста. Строка формата может содержать\знак #, который будет заменен номером страницы. |
+| x | float | X-координата номера страницы. |
+| y | float | Координата Y номера страницы. |
 
 ### addPageNumber(FormattedText formattedText, int position) {#addPageNumber-com.aspose.pdf.facades.FormattedText-int-}
 ```
-public abstract void addPageNumber (FormattedText formattedText, int position)
+public abstract void addPageNumber(FormattedText formattedText, int position)
 ```
 
 
-Adds page number to the pages.
+Добавляет номер страницы к страницам.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber("Страница №", PdfFileStamp.PosUpperRight);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber("Page #", PdfFileStamp.PosUpperRight);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains format of the page number and text properties. This text may contain \# which will be replaced with page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) |  Объект FormattedText, который содержит формат номера страницы и свойства текста. Этот текст может содержать\# который будет заменен номером страницы. |
+| position | int | Позиция, в которой номер страницы будет размещен на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3-боковой правый, 4-верхний средний,5-нижний левый,6-боковой левый,7-верхний левый. Вы можете использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ### addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-}
 ```
-public abstract void addPageNumber (FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
+public abstract void addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
 ```
 
 
-Adds page number to the pages of document.
+Добавляет номер страницы к страницам документа.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber(new FormattedText("Страница №"), PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page #"), PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which represents page number format and properties iof the text. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Объект FormattedText, который представляет формат номера страницы и свойства текста. |
+| position | int | Позиция, в которой номер страницы будет размещен на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3-боковой правый, 4-верхний средний,5-нижний левый,6-боковой левый,7-верхний левый. Вы можете использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | float | Поля по левому краю страницы. |
+| rightMargin | float | Поля по правому краю страницы. |
+| topMargin | float | Поля по верхнему краю страницы. |
+| bottomMargin | float | Поле по нижнему краю страницы. |
 
 ### addPageNumber(String formatString) {#addPageNumber-java.lang.String-}
 ```
-public abstract void addPageNumber (String formatString)
+public abstract void addPageNumber(String formatString)
 ```
 
 
-Add page number to file. Page number text may contain \# sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally.
+ Добавьте номер страницы в файл. Текст номера страницы может содержать\# знак, который будет заменен номером страницы. Номер страницы помещается внизу страницы по центру горизонтально.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber("Страница №");
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber("Page #");
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formatString | java.lang.String | Text of page number |
+| formatString | java.lang.String | Текст номера страницы |
 
 ### addPageNumber(String formatString, float x, float y) {#addPageNumber-java.lang.String-float-float-}
 ```
-public abstract void addPageNumber (String formatString, float x, float y)
+public abstract void addPageNumber(String formatString, float x, float y)
 ```
 
 
-Adds page number at the specified position on the page.
+Добавляет номер страницы в указанную позицию на странице.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber (новый форматированный текст («Страница №»), 123, 357);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formatString | java.lang.String | Format string. Format string can contain \# sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
+| formatString | java.lang.String |  Строка формата. Строка формата может содержать\знак #, который будет заменен номером страницы. |
+| x | float | X-координата номера страницы. |
+| y | float | Координата Y номера страницы. |
 
 ### addPageNumber(String formatString, int position) {#addPageNumber-java.lang.String-int-}
 ```
-public abstract void addPageNumber (String formatString, int position)
+public abstract void addPageNumber(String formatString, int position)
 ```
 
 
-Adds page number to the pages.
+Добавляет номер страницы к страницам.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber("Страница №", PdfFileStamp.PosUpperRight);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber("Page #", PdfFileStamp.PosUpperRight);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formatString | java.lang.String | Format of the page number. This text may contain \# which will be replaced with page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formatString | java.lang.String |  Формат номера страницы. Этот текст может содержать\# который будет заменен номером страницы. |
+| position | int | Позиция, в которой номер страницы будет размещен на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3-боковой правый, 4-верхний средний,5-нижний левый,6-боковой левый,7-верхний левый. Вы можете использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ### addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-java.lang.String-int-float-float-float-float-}
 ```
-public abstract void addPageNumber (String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
+public abstract void addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
 ```
 
 
-Adds page number to the pages of document.
+Добавляет номер страницы к страницам документа.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.addPageNumber("Страница №", PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber("Page #", PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| formatString | java.lang.String | Format string for page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
+| formatString | java.lang.String | Строка формата для номера страницы. |
+| position | int | Позиция, в которой номер страницы будет размещен на странице. 0-нижний средний, 1-нижний правый, 2-верхний правый, 3-боковой правый, 4-верхний средний,5-нижний левый,6-боковой левый,7-верхний левый. Вы можете использовать следующие константы: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | float | Поля по левому краю страницы. |
+| rightMargin | float | Поля по правому краю страницы. |
+| topMargin | float | Поля по верхнему краю страницы. |
+| bottomMargin | float | Поле по нижнему краю страницы. |
 
 ### addStamp(Stamp stamp) {#addStamp-com.aspose.pdf.facades.Stamp-}
 ```
-public abstract void addStamp (штамп)
+public abstract void addStamp(Stamp stamp)
 ```
 
 
-Adds stamp to the file.
+Добавляет штамп к файлу.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- Штамп = новый com.aspose.pdf.facades.Stamp();
- штамп.setOrigin(140, 400);
- штамп.setImageSize(50, 50);
- штамп.setOpacity(0.8f);
- штамп.isBackground(истина);
- штамп.bindImage("image.jpg");
- fileStamp.addStamp(штамп);
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ Stamp stamp = new com.aspose.pdf.facades.Stamp();
+ stamp.setOrigin(140, 400);
+ stamp.setImageSize(50, 50);
+ stamp.setOpacity(0.8f);
+ stamp.isBackground(true);
+ stamp.bindImage("image.jpg");
+ fileStamp.addStamp(stamp);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| stamp | [Stamp](../../com.aspose.pdf.facades/stamp) | Stamp object which. |
+| stamp | [Stamp](../../com.aspose.pdf.facades/stamp) | Штамп объект который. |
 
 ### close() {#close--}
 ```
-публичная абстрактная пустота close()
+public abstract void close()
 ```
 
 
-Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by Close() method.
+Закрывает открытые файлы и сохраняет изменения. Предупреждение. Если указаны входные или выходные потоки, они не закрываются методом Close().
 
 --------------------
 
 ```
-Штамп PdfFileStamp = новый PdfFileStamp("input.pdf", "output.pdf");
- // поработай немного...
- штамп.закрыть();
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+ // do some work...
+ stamp.close();
 ```
 
 ### dispose() {#dispose--}
 ```
-публичная абстрактная пустота dispose()
+public abstract void dispose()
 ```
 
 
-Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by Close() method.
+Закрывает открытые файлы и сохраняет изменения. Предупреждение. Если указаны входные или выходные потоки, они не закрываются методом Close().
 
 --------------------
 
 ```
-Штамп PdfFileStamp = новый PdfFileStamp("input.pdf", "output.pdf");
- // поработай немного...
- штамп.распоряжаться();
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+ // do some work...
+ stamp.dispose();
 ```
 
-This method is obsolete, use close() instead.
+Этот метод устарел, вместо него используйте close().
 
 ### getAttachmentName() {#getAttachmentName--}
 ```
-общедоступная абстрактная строка getAttachmentName()
+public abstract String getAttachmentName()
 ```
 
 
-Gets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+Получает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение.
 
-**Returns:**
-java.lang.String - String value
+**Возвращает:**
+java.lang.String — строковое значение
 ### getContentDisposition() {#getContentDisposition--}
 ```
-общедоступная абстракция int getContentDisposition()
+public abstract int getContentDisposition()
 ```
 
 
-Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+Получает способ хранения содержимого при сохранении результата операции в объекте HttpResponse. Возможное значение: inline/attachment. По умолчанию: встроенный.
 
-**Returns:**
-int - ContentDisposition element
+**Возвращает:**
+int — элемент ContentDisposition
 ### getDocument() {#getDocument--}
 ```
-общедоступный абстрактный IDocument getDocument()
+public abstract IDocument getDocument()
 ```
 
 
-Gets the document  PdfFileStamp  is working on.
+Получает документ, над которым работает PdfFileStamp.
 
-**Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument object
+**Возвращает:**
+[IDocument](../../com.aspose.pdf/idocument) - Объект IDocument
 ### getInputFile() {#getInputFile--}
 ```
-публичная абстрактная строка getInputFile()
+public abstract String getInputFile()
 ```
 
 
-Gets name and path of input file.
+Получает имя и путь входного файла.
 
-**Returns:**
-java.lang.String - String object
+**Возвращает:**
+java.lang.String — строковый объект
 ### getInputStream() {#getInputStream--}
 ```
-общедоступный абстрактный InputStream getInputStream()
+public abstract InputStream getInputStream()
 ```
 
 
-Gets input stream.
+Получает входной поток.
 
-**Returns:**
-java.io.InputStream - InputStream object
+**Возвращает:**
+java.io.InputStream — объект InputStream
 ### getKeepSecurity() {#getKeepSecurity--}
 ```
-публичное абстрактное логическое значение getKeepSecurity()
+public abstract boolean getKeepSecurity()
 ```
 
 
-Keeps security if true. (This feature will be implemented in next versions).
+Сохраняет безопасность, если это правда. (Эта функция будет реализована в следующих версиях).
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getOutputFile() {#getOutputFile--}
 ```
-общедоступная абстрактная строка getOutputFile()
+public abstract String getOutputFile()
 ```
 
 
-Gets name and path of output file.
+Получает имя и путь выходного файла.
 
-**Returns:**
-java.lang.String - String object
+**Возвращает:**
+java.lang.String — строковый объект
 ### getOutputStream() {#getOutputStream--}
 ```
-общедоступный абстрактный OutputStream getOutputStream()
+public abstract OutputStream getOutputStream()
 ```
 
 
-Gets output stream.
+Получает выходной поток.
 
-**Returns:**
-java.io.OutputStream - OutputStream object
+**Возвращает:**
+java.io.OutputStream — объект OutputStream
 ### getPageHeight() {#getPageHeight--}
 ```
-публичный абстрактный float getPageHeight()
+public abstract float getPageHeight()
 ```
 
 
-Gets height of first page in souorce file.
+Получает высоту первой страницы исходного файла.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- System.out.println("Высота = " + fileStamp.getPageHeight());
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ System.out.println("Height = " + fileStamp.getPageHeight());
+ fileStamp.close();
 ```
 
-**Returns:**
-float - float value
+**Возвращает:**
+float - плавающее значение
 ### getPageNumberRotation() {#getPageNumberRotation--}
 ```
-открытый абстрактный поплавок getPageNumberRotation()
+public abstract float getPageNumberRotation()
 ```
 
 
-Gets rotation of page number. Rotation is in degrees. Default is 0.
+Получает поворот номера страницы. Вращение в градусах. По умолчанию 0.
 
-**Returns:**
-float - float value
+**Возвращает:**
+float - плавающее значение
 ### getPageWidth() {#getPageWidth--}
 ```
-публичный абстрактный float getPageWidth()
+public abstract float getPageWidth()
 ```
 
 
-Gets width of first page in input file.
+Получает ширину первой страницы во входном файле.
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- System.out.println("Ширина = " + fileStamp.getPageWidth());
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ System.out.println("Width = " + fileStamp.getPageWidth());
+ fileStamp.close();
 ```
 
-**Returns:**
-float - float value
+**Возвращает:**
+float - плавающее значение
 ### getSaveOptions() {#getSaveOptions--}
 ```
-открытый абстрактный SaveOptions getSaveOptions()
+public abstract SaveOptions getSaveOptions()
 ```
 
 
-Gets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+Получает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию: пдфсавеоптионс.
 
-**Returns:**
-[SaveOptions](../../com.aspose.pdf/saveoptions) - SaveOptions object
+**Возвращает:**
+[SaveOptions](../../com.aspose.pdf/saveoptions) - Объект SaveOptions
 ### getStartingNumber() {#getStartingNumber--}
 ```
-общедоступная абстракция int getStartingNumber()
+public abstract int getStartingNumber()
 ```
 
 
-Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value.
+Получает или задает начальный номер первой страницы во входном файле. Следующие страницы будут нумероваться, начиная с этого значения.
 
-**Returns:**
-int - int value
+**Возвращает:**
+интервал - целочисленное значение
 ### setAttachmentName(String value) {#setAttachmentName-java.lang.String-}
 ```
-public abstract void setAttachmentName (строковое значение)
+public abstract void setAttachmentName(String value)
 ```
 
 
-Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+Задает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | String value |
+| value | java.lang.String | Строковое значение |
 
 ### setContentDisposition(int value) {#setContentDisposition-int-}
 ```
-public abstract void setContentDisposition (значение int)
+public abstract void setContentDisposition(int value)
 ```
 
 
-Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+Устанавливает, как содержимое будет сохранено, когда результат операции будет сохранен в объекте HttpResponse. Возможное значение: inline/attachment. По умолчанию: встроенный.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | int | ContentDisposition element |
+| value | int | Элемент ContentDisposition |
 
 ### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
 ```
-public abstract void setConvertTo (значение PdfFormat)
+public abstract void setConvertTo(PdfFormat value)
 ```
 
 
-Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
+Устанавливает формат файла PDF. Файл результата будет сохранен в указанном формате. Если это свойство не указано, файл будет сохранен в формате PDF по умолчанию без преобразования.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat element |
+| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | Элемент PdfFormat |
 
 ### setInputFile(String value) {#setInputFile-java.lang.String-}
 ```
-public abstract void setInputFile (строковое значение)
+public abstract void setInputFile(String value)
 ```
 
 
-Sets name and path of input file.
+Устанавливает имя и путь входного файла.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | String value |
+| value | java.lang.String | Строковое значение |
 
 ### setInputStream(InputStream value) {#setInputStream-java.io.InputStream-}
 ```
-public abstract void setInputStream (значение InputStream)
+public abstract void setInputStream(InputStream value)
 ```
 
 
-Sets input stream.
+Устанавливает входной поток.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.io.InputStream | InputStream object |
+| value | java.io.InputStream | Объект InputStream |
 
 ### setKeepSecurity(boolean value) {#setKeepSecurity-boolean-}
 ```
-public abstract void setKeepSecurity (логическое значение)
+public abstract void setKeepSecurity(boolean value)
 ```
 
 
-Set Keep Security
+Установить сохранение безопасности
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setOutputFile(String value) {#setOutputFile-java.lang.String-}
 ```
-public abstract void setOutputFile (строковое значение)
+public abstract void setOutputFile(String value)
 ```
 
 
-Sets name and path of output file.
+Устанавливает имя и путь выходного файла.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | String object |
+| value | java.lang.String | Строковый объект |
 
 ### setOutputStream(OutputStream value) {#setOutputStream-java.io.OutputStream-}
 ```
-public abstract void setOutputStream (значение OutputStream)
+public abstract void setOutputStream(OutputStream value)
 ```
 
 
-Sets or sets output stream.
+Устанавливает или устанавливает выходной поток.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.io.OutputStream | OutputStream object |
+| value | java.io.OutputStream | Объект OutputStream |
 
 ### setPageNumberRotation(float value) {#setPageNumberRotation-float-}
 ```
-public abstract void setPageNumberRotation (значение с плавающей запятой)
+public abstract void setPageNumberRotation(float value)
 ```
 
 
-Sets rotation of page number. Rotation is in degrees. Default is 0.
+Устанавливает поворот номера страницы. Вращение в градусах. По умолчанию 0.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | float | float value |
+| value | float | плавающее значение |
 
 ### setSaveOptions(SaveOptions value) {#setSaveOptions-com.aspose.pdf.SaveOptions-}
 ```
-public abstract void setSaveOptions (значение SaveOptions)
+public abstract void setSaveOptions(SaveOptions value)
 ```
 
 
-Sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+Задает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию: пдфсавеоптионс.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | SaveOptions value |
+| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | Значение SaveOptions |
 
 ### setStartingNumber(int value) {#setStartingNumber-int-}
 ```
-public abstract void setStartingNumber (значение int)
+public abstract void setStartingNumber(int value)
 ```
 
 
-Sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100, document pages will have numbers 100, 101, 102...
+Устанавливает начальный номер для первой страницы во входном файле. Следующие страницы будут нумероваться, начиная с этого значения. Например, если для StartingNumber установлено значение 100, страницы документа будут иметь номера 100, 101, 102...
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = новый PdfFileStamp ("input.pdf", "output.pdf");
- fileStamp.setStartingNumber (100);
- fileStamp.addPageNumber("Страница №");
- Штамп файла.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.setStartingNumber(100);
+ fileStamp.addPageNumber("Page #");
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | int | int value |
+| value | int | целое значение |

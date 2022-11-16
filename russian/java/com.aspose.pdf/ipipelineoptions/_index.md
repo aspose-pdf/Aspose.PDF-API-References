@@ -1,40 +1,42 @@
 ---
-Название: IPipelineOptions
+title: IPipelineOptions
 second_title: Aspose.PDF для справки по Java API
-описание: определяет параметры преобразования, связанные с конфигурацией конвейера.
-тип: документы
-вес: 439
-URL-адрес: /java/com.aspose.pdf/ipipelineoptions/
----```
-общедоступный интерфейс IPipelineOptions
+description: Определяет параметры преобразования, связанные с конфигурацией конвейера.
+type: docs
+weight: 439
+url: /ru/java/com.aspose.pdf/ipipelineoptions/
+---
+```
+public interface IPipelineOptions
 ```
 
-Defines conversion options related to pipeline configuration.
-## Methods
+Определяет параметры преобразования, связанные с конфигурацией конвейера.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [getBatchSize()](#getBatchSize--) | Specifies the size of a portion of pages to pass from node to node. |
-| [setBatchSize(int value)](#setBatchSize-int-) | Specifies the size of a portion of pages to pass from node to node. |
+| [getBatchSize()](#getBatchSize--) | Определяет размер части страниц для передачи от узла к узлу. |
+| [setBatchSize(int value)](#setBatchSize-int-) | Определяет размер части страниц для передачи от узла к узлу. |
 ### getBatchSize() {#getBatchSize--}
 ```
-общедоступная абстракция int getBatchSize()
+public abstract int getBatchSize()
 ```
 
 
-Specifies the size of a portion of pages to pass from node to node.
+Определяет размер части страниц для передачи от узла к узлу.
 
-**Returns:**
-int - int value
+**Возвращает:**
+интервал - целочисленное значение
 ### setBatchSize(int value) {#setBatchSize-int-}
 ```
-public abstract void setBatchSize (значение int)
+public abstract void setBatchSize(int value)
 ```
 
 
-Specifies the size of a portion of pages to pass from node to node.
+Определяет размер части страниц для передачи от узла к узлу.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | int | int value |
+| value | int | целое значение |

@@ -1,32 +1,34 @@
 ---
-Название: LoadOptions.ResourceLoadingStrategy
+title: LoadOptions.ResourceLoadingStrategy
 second_title: Aspose.PDF для справки по Java API
-описание: иногда необходимо избегать использования внутреннего загрузчика внешних ресурсов, таких как изображения или CSS, и предоставлять собственный метод, который откуда-то будет получать запрошенные ресурсы.
-тип: документы
-вес: 13
-URL-адрес: /java/com.aspose.pdf/loadoptions.resourceloadingstrategy/
----```
-общедоступный статический интерфейс LoadOptions.ResourceLoadingStrategy
+description: Иногда необходимо избегать использования внутреннего загрузчика внешних ресурсов, таких как изображения или CSS, и предоставлять собственный метод, который откуда-то будет получать запрошенные ресурсы.
+type: docs
+weight: 13
+url: /ru/java/com.aspose.pdf/loadoptions.resourceloadingstrategy/
+---
+```
+public static interface LoadOptions.ResourceLoadingStrategy
 ```
 
-Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method, that will get requested resources from somewhere. For example during usage of Aspose.PDf in cloud direct access to referenced files impossible, and some custome code put into special method should be used. This delegate defines signature of such custom method.
-## Methods
+Иногда необходимо избегать использования внутреннего загрузчика внешних ресурсов (таких как изображения или CSS) и предоставлять собственный метод, который откуда-то достанет запрошенные ресурсы. Например, при использовании Aspose.PDf в облаке прямой доступ к файлам, на которые ссылаются, невозможен, и необходимо использовать какой-то пользовательский код, помещенный в специальный метод. Этот делегат определяет подпись такого пользовательского метода.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
 | [invoke(String resourceURI)](#invoke-java.lang.String-) |  |
 ### invoke(String resourceURI) {#invoke-java.lang.String-}
 ```
-общедоступный абстрактный LoadOptions.ResourceLoadingResult invoke (String resourceURI)
+public abstract LoadOptions.ResourceLoadingResult invoke(String resourceURI)
 ```
 
 
 
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | resourceURI | java.lang.String |  |
 
-**Returns:**
+**Возвращает:**
 [ResourceLoadingResult](../../com.aspose.pdf/resourceloadingresult)

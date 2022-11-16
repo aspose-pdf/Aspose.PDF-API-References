@@ -15,82 +15,78 @@ public interface IFormEditor extends Closeable
 Класс для редактирования форм (добавление/удаление поля и т.д.)
 ## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
-| [addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
-| [addListItem(String fieldName, String itemName)](#addListItem-java.lang.String-java.lang.String-) | Adds new item to the list box. |
-| [addListItem(String fieldName, String[] exportName)](#addListItem-java.lang.String-java.lang.String---) | Add a new item with Export value to the existing list box field, only for AcroForm combo box field. |
-| [addSubmitBtn(String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury)](#addSubmitBtn-java.lang.String-int-java.lang.String-java.lang.String-float-float-float-float-) | Add submit button on the form. |
-| [close()](#close--) | Closes object |
-| [copyInnerField(String fieldName, String newFieldName, int pageNum)](#copyInnerField-java.lang.String-java.lang.String-int-) | Copies an existing field to the same position in specified page number. |
-| [copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate)](#copyInnerField-java.lang.String-java.lang.String-int-float-float-) | Copies an existing field to a new position specified by both page number and ordinates. |
-| [copyOuterField(String srcFileName, String fieldName)](#copyOuterField-java.lang.String-java.lang.String-) | Copies an existing field from one PDF document to another document with original page number and ordinates. |
-| [copyOuterField(String srcFileName, String fieldName, int pageNum)](#copyOuterField-java.lang.String-java.lang.String-int-) | Copies an existing field from one PDF document to another document with specified page number and original ordinates. |
-| [copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate)](#copyOuterField-java.lang.String-java.lang.String-int-float-float-) | Copies an existing field from one PDF document to another document with specified page number and ordinates. |
-| [decorateField()](#decorateField--) | Changes visual attributes of all fields in the PDF document. |
-| [decorateField(int fieldType)](#decorateField-int-) | Changes visual attributes of all fields with the specified field type. |
-| [decorateField(String fieldName)](#decorateField-java.lang.String-) | Changes visual attributes of the specified field. |
-| [delListItem(String fieldName, String itemName)](#delListItem-java.lang.String-java.lang.String-) | Delete item from the list field. |
-| [dispose()](#dispose--) | Closes object |
-| [getAttachmentName()](#getAttachmentName--) | Gets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [getContentDisposition()](#getContentDisposition--) | Gets how content will be stored when result of operation is stored into HttpResponse object. |
-| [getDestFileName()](#getDestFileName--) | Gets destination file name. |
-| [getDestStream()](#getDestStream--) | Gets destination stream. |
-| [getDocument()](#getDocument--) | Gets the document  FormEditor  is working on. |
-| [getExportItems()](#getExportItems--) | Gets options for combo box with export values. |
-| [getFacade()](#getFacade--) | Gets visual attributes of the field. |
-| [getItems()](#getItems--) | Returns item array |
-| [getRadioButtonItemSize()](#getRadioButtonItemSize--) | ```
-Gets or sets size of radio button item size (when new radio button field is added).
-``` |
-| [getRadioGap()](#getRadioGap--) | Get the member to record the gap between two neighboring radio buttons in pixels,default is 50. |
-| [getRadioHoriz()](#getRadioHoriz--) | Get the flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
-| [getSaveOptions()](#getSaveOptions--) | Gets save options when result is stored as HttpResponse. |
-| [getSrcFileName()](#getSrcFileName--) | Gets name of source file. |
-| [getSrcStream()](#getSrcStream--) | Gets source stream. |
-| [getSubmitFlag()](#getSubmitFlag--) | Get the submit button's submission flags |
-| [moveField(String fieldName, float llx, float lly, float urx, float ury)](#moveField-java.lang.String-float-float-float-float-) | Set new position of field. |
-| [removeField(String fieldName)](#removeField-java.lang.String-) | Remove field from the form. |
-| [removeFieldAction(String fieldName)](#removeFieldAction-java.lang.String-) | Remove submit action of the field. |
-| [renameField(String fieldName, String newFieldName)](#renameField-java.lang.String-java.lang.String-) | Change name of the field. |
-| [resetFacade()](#resetFacade--) | Reset all visual attributes to empty value. |
-| [resetInnerFacade()](#resetInnerFacade--) | Reset all visual attributes of inner facade to empty value. |
-| [save()](#save--) | Saves changes into destination file. |
-| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [setContentDisposition(int value)](#setContentDisposition-int-) | Sets how content will be stored when result of operation is stored into HttpResponse object. |
-| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Sets [PdfFormat](../../com.aspose.pdf/pdfformat) PDF file format. |
-| [setDestFileName(String value)](#setDestFileName-java.lang.String-) | Sets destination file name. |
-| [setDestStream(OutputStream value)](#setDestStream-java.io.OutputStream-) | Sets destination stream. |
-| [setExportItems(String[][] value)](#setExportItems-java.lang.String-----) | Sets options for combo box with export values. |
-| [setFacade(FormFieldFacade value)](#setFacade-com.aspose.pdf.facades.FormFieldFacade-) | Sets visual attributes of the field. |
-| [setFieldAlignment(String fieldName, int alignment)](#setFieldAlignment-java.lang.String-int-) | Set the alignment style of a text field. |
-| [setFieldAlignmentV(String fieldName, int alignment)](#setFieldAlignmentV-java.lang.String-int-) | Set the vertical alignment style of a text field. |
-| [setFieldAppearance(String fieldName, int flags)](#setFieldAppearance-java.lang.String-int-) | Set field flags |
-| [setFieldAttribute(String fieldName, int flag)](#setFieldAttribute-java.lang.String-int-) | Set attributes of field. |
-| [setFieldCombNumber(String fieldName, int combNumber)](#setFieldCombNumber-java.lang.String-int-) | Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter). |
-| [setFieldLimit(String fieldName, int fieldLimit)](#setFieldLimit-java.lang.String-int-) | Sets maximum character count of the text field. |
-| [setFieldScript(String fieldName, String script)](#setFieldScript-java.lang.String-java.lang.String-) | Set JavaScript for a PushButton field. |
-| [setItems(String[] value)](#setItems-java.lang.String---) | Sets items which will be added to newly created list box or combo box. |
-| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | ```
-Gets or sets size of radio button item size (when new radio button field is added).
-``` |
-| [setRadioGap(float value)](#setRadioGap-float-) | Set the member to record the gap between two neighboring radio buttons in pixels,default is 50. |
-| [setRadioHoriz(boolean value)](#setRadioHoriz-boolean-) | Set the flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
-| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpResponse. |
-| [setSrcFileName(String value)](#setSrcFileName-java.lang.String-) | Sets name of source file. |
-| [setSrcStream(InputStream value)](#setSrcStream-java.io.InputStream-) | Sets source stream. |
-| [setSubmitFlag(int value)](#setSubmitFlag-int-) | Set the submit button's submission flags |
-| [setSubmitFlag(String fieldName, int submitFormFlag)](#setSubmitFlag-java.lang.String-int-) | Set submit flag of submit button. |
-| [setSubmitUrl(String fieldName, String url)](#setSubmitUrl-java.lang.String-java.lang.String-) | Sets URL of the button. |
-| [single2Multiple(String fieldName)](#single2Multiple-java.lang.String-) | Change a single-lined text field to a multiple-lined one. |
+| [addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-int-float-float-float-float-) | Добавить в форму поле указанного типа. |
+| [addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-) | Добавить в форму поле указанного типа. |
+| [addListItem(String fieldName, String itemName)](#addListItem-java.lang.String-java.lang.String-) | Добавляет новый элемент в список. |
+| [addListItem(String fieldName, String[] exportName)](#addListItem-java.lang.String-java.lang.String---) | Добавьте новый элемент со значением «Экспорт» в существующее поле списка, только для поля со списком AcroForm. |
+| [addSubmitBtn(String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury)](#addSubmitBtn-java.lang.String-int-java.lang.String-java.lang.String-float-float-float-float-) | Добавьте кнопку отправки на форму. |
+| [close()](#close--) | Закрывает объект |
+| [copyInnerField(String fieldName, String newFieldName, int pageNum)](#copyInnerField-java.lang.String-java.lang.String-int-) | Копирует существующее поле в ту же позицию на странице с указанным номером. |
+| [copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate)](#copyInnerField-java.lang.String-java.lang.String-int-float-float-) | Копирует существующее поле в новую позицию, указанную как номером страницы, так и ординатами. |
+| [copyOuterField(String srcFileName, String fieldName)](#copyOuterField-java.lang.String-java.lang.String-) | Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и координатами. |
+| [copyOuterField(String srcFileName, String fieldName, int pageNum)](#copyOuterField-java.lang.String-java.lang.String-int-) | Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и исходными ординатами. |
+| [copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate)](#copyOuterField-java.lang.String-java.lang.String-int-float-float-) | Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и координатами. |
+| [decorateField()](#decorateField--) | Изменяет визуальные атрибуты всех полей в документе PDF. |
+| [decorateField(int fieldType)](#decorateField-int-) | Изменяет визуальные атрибуты всех полей с указанным типом поля. |
+| [decorateField(String fieldName)](#decorateField-java.lang.String-) | Изменяет визуальные атрибуты указанного поля. |
+| [delListItem(String fieldName, String itemName)](#delListItem-java.lang.String-java.lang.String-) | Удалить элемент из поля списка. |
+| [dispose()](#dispose--) | Закрывает объект |
+| [getAttachmentName()](#getAttachmentName--) | Получает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение. |
+| [getContentDisposition()](#getContentDisposition--) | Получает способ хранения содержимого при сохранении результата операции в объекте HttpResponse. |
+| [getDestFileName()](#getDestFileName--) | Получает имя файла назначения. |
+| [getDestStream()](#getDestStream--) | Получает целевой поток. |
+| [getDocument()](#getDocument--) | Получает документ, над которым работает FormEditor. |
+| [getExportItems()](#getExportItems--) | Получает параметры для поля со списком с экспортируемыми значениями. |
+| [getFacade()](#getFacade--) | Получает визуальные атрибуты поля. |
+| [getItems()](#getItems--) | Возвращает массив элементов |
+| [getRadioButtonItemSize()](#getRadioButtonItemSize--) | Получает или задает размер элемента переключателя (при добавлении нового поля переключателя). |
+| [getRadioGap()](#getRadioGap--) | Заставьте участника записывать промежуток между двумя соседними переключателями в пикселях, по умолчанию 50. |
+| [getRadioHoriz()](#getRadioHoriz--) | Получите флаг, чтобы указать, расположены ли радиостанции горизонтально или вертикально, значение по умолчанию — true. |
+| [getSaveOptions()](#getSaveOptions--) | Получает параметры сохранения, когда результат сохраняется как HttpResponse. |
+| [getSrcFileName()](#getSrcFileName--) | Получает имя исходного файла. |
+| [getSrcStream()](#getSrcStream--) | Получает исходный поток. |
+| [getSubmitFlag()](#getSubmitFlag--) | Получить флаги отправки кнопки отправки |
+| [moveField(String fieldName, float llx, float lly, float urx, float ury)](#moveField-java.lang.String-float-float-float-float-) | Установить новую позицию поля. |
+| [removeField(String fieldName)](#removeField-java.lang.String-) | Удалить поле из формы. |
+| [removeFieldAction(String fieldName)](#removeFieldAction-java.lang.String-) | Удалить действие отправки поля. |
+| [renameField(String fieldName, String newFieldName)](#renameField-java.lang.String-java.lang.String-) | Изменить имя поля. |
+| [resetFacade()](#resetFacade--) | Сбросить все визуальные атрибуты до пустого значения. |
+| [resetInnerFacade()](#resetInnerFacade--) | Сбросить все визуальные атрибуты внутреннего фасада до пустого значения. |
+| [save()](#save--) | Сохраняет изменения в файле назначения. |
+| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Задает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение. |
+| [setContentDisposition(int value)](#setContentDisposition-int-) | Устанавливает, как содержимое будет сохранено, когда результат операции будет сохранен в объекте HttpResponse. |
+| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) |  Наборы[PdfFormat](../../com.aspose.pdf/pdfformat) Формат файла PDF. |
+| [setDestFileName(String value)](#setDestFileName-java.lang.String-) | Устанавливает имя файла назначения. |
+| [setDestStream(OutputStream value)](#setDestStream-java.io.OutputStream-) | Устанавливает целевой поток. |
+| [setExportItems(String[][] value)](#setExportItems-java.lang.String-----) | Устанавливает параметры для поля со списком с экспортируемыми значениями. |
+| [setFacade(FormFieldFacade value)](#setFacade-com.aspose.pdf.facades.FormFieldFacade-) | Задает визуальные атрибуты поля. |
+| [setFieldAlignment(String fieldName, int alignment)](#setFieldAlignment-java.lang.String-int-) | Установите стиль выравнивания текстового поля. |
+| [setFieldAlignmentV(String fieldName, int alignment)](#setFieldAlignmentV-java.lang.String-int-) | Установите стиль вертикального выравнивания текстового поля. |
+| [setFieldAppearance(String fieldName, int flags)](#setFieldAppearance-java.lang.String-int-) | Установить флаги полей |
+| [setFieldAttribute(String fieldName, int flag)](#setFieldAttribute-java.lang.String-int-) | Установить атрибуты поля. |
+| [setFieldCombNumber(String fieldName, int combNumber)](#setFieldCombNumber-java.lang.String-int-) | Задает количество гребенок для обычного однострочного текстового поля (поле автоматически разбивается на столько равноотстоящих позиций или гребешков, сколько установлено значением параметра combNumber). |
+| [setFieldLimit(String fieldName, int fieldLimit)](#setFieldLimit-java.lang.String-int-) | Устанавливает максимальное количество символов в текстовом поле. |
+| [setFieldScript(String fieldName, String script)](#setFieldScript-java.lang.String-java.lang.String-) | Установите JavaScript для поля PushButton. |
+| [setItems(String[] value)](#setItems-java.lang.String---) | Устанавливает элементы, которые будут добавлены во вновь созданный список или поле со списком. |
+| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | Получает или задает размер элемента переключателя (при добавлении нового поля переключателя).|
+| [setRadioGap(float value)](#setRadioGap-float-) | Настройте элемент для записи промежутка между двумя соседними переключателями в пикселях, по умолчанию 50. |
+| [setRadioHoriz(boolean value)](#setRadioHoriz-boolean-) | Установите флаг, чтобы указать, расположены ли радиостанции горизонтально или вертикально, значение по умолчанию — true. |
+| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Задает параметры сохранения, когда результат сохраняется как HttpResponse. |
+| [setSrcFileName(String value)](#setSrcFileName-java.lang.String-) | Устанавливает имя исходного файла. |
+| [setSrcStream(InputStream value)](#setSrcStream-java.io.InputStream-) | Устанавливает исходный поток. |
+| [setSubmitFlag(int value)](#setSubmitFlag-int-) | Установите флаги отправки кнопки отправки |
+| [setSubmitFlag(String fieldName, int submitFormFlag)](#setSubmitFlag-java.lang.String-int-) | Установите флаг отправки кнопки отправки. |
+| [setSubmitUrl(String fieldName, String url)](#setSubmitUrl-java.lang.String-java.lang.String-) | Устанавливает URL кнопки. |
+| [single2Multiple(String fieldName)](#single2Multiple-java.lang.String-) | Измените однострочное текстовое поле на многострочное. |
 ### addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury) {#addField-int-java.lang.String-int-float-float-float-float-}
 ```
-открытый абстрактный логический addField (int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)
+public abstract boolean addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)
 ```
 
 
-Add field of specified type to the form.
+Добавить в форму поле указанного типа.
 
 --------------------
 
@@ -100,554 +96,571 @@ FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "Fo
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldType | int | Type of the field which must be added. |
-| fieldName | java.lang.String | Name of the field which must be added. |
-| pageNum | int | Page number where new field must be placed. |
-| llx | float | Abscissa of the lower-left corner of the field. |
-| lly | float | Ordinate of the lower-left corner of the field. |
-| urx | float | Abscissa of the upper-right corner of the field. |
-| ury | float | Ordinate of the upper-right corner of the field. |
+**Параметры:**
 
-**Returns:**
-boolean - true if field was successfully added.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldType | int | Тип поля, которое необходимо добавить. |
+| fieldName | java.lang.String | Имя поля, которое необходимо добавить. |
+| pageNum | int | Номер страницы, на которой должно быть размещено новое поле. |
+| llx | float | Абсцисса нижнего левого угла поля. |
+| lly | float | Ордината нижнего левого угла поля. |
+| urx | float | Абсцисса правого верхнего угла поля. |
+| ury | float | Ордината правого верхнего угла поля. |
+
+**Возвращает:**
+boolean - true, если поле было успешно добавлено.
 ### addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury) {#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-}
 ```
-открытый абстрактный логический addField (int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)
+public abstract boolean addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)
 ```
 
 
-Add field of specified type to the form.
+Добавить в форму поле указанного типа.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldType | int | Type of the field which must be added. |
-| fieldName | java.lang.String | Name of the field which must be added. |
-| initValue | java.lang.String | Initial value of the field. |
-| pageNum | int | Page number where new field must be placed. |
-| llx | float | Abscissa of the lower-left corner of the field. |
-| lly | float | Ordinate of the lower-left corner of the field. |
-| urx | float | Abscissa of the upper-right corner of the field. |
-| ury | float | Ordinate of the upper-right corner of the field. |
+| fieldType | int | Тип поля, которое необходимо добавить. |
+| fieldName | java.lang.String | Имя поля, которое необходимо добавить. |
+| initValue | java.lang.String | Начальное значение поля. |
+| pageNum | int | Номер страницы, на которой должно быть размещено новое поле. |
+| llx | float | Абсцисса нижнего левого угла поля. |
+| lly | float | Ордината нижнего левого угла поля. |
+| urx | float | Абсцисса правого верхнего угла поля. |
+| ury | float | Ордината правого верхнего угла поля. |
 
-**Returns:**
-boolean - true if field was successfully added.
+**Возвращает:**
+boolean - true, если поле было успешно добавлено.
 ### addListItem(String fieldName, String itemName) {#addListItem-java.lang.String-java.lang.String-}
 ```
-public abstract void addListItem (String fieldName, String itemName)
+public abstract void addListItem(String fieldName, String itemName)
 ```
 
 
-Adds new item to the list box.
+Добавляет новый элемент в список.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", PdfForm_out.pdf");
- formEditor.addListItem("listBoxField", "Элемент 4 (Новый элемент)");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", PdfForm_out.pdf");
+ formEditor.addListItem("listBoxField", "Item 4 (New Item)");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field of which new item will be added. |
-| itemName | java.lang.String | Name if new item. |
+| fieldName | java.lang.String | Имя поля, в которое будет добавлен новый элемент. |
+| itemName | java.lang.String | Имя, если новый элемент. |
 
 ### addListItem(String fieldName, String[] exportName) {#addListItem-java.lang.String-java.lang.String---}
 ```
-public abstract void addListItem (String fieldName, String[] имя_экспорта)
+public abstract void addListItem(String fieldName, String[] exportName)
 ```
 
 
-Add a new item with Export value to the existing list box field, only for AcroForm combo box field.
+Добавьте новый элемент со значением «Экспорт» в существующее поле списка, только для поля со списком AcroForm.
 
 --------------------
 
 ```
-FormEditor fe = новый FormEditor("PdfForm.pdf", "FormEditor_AddListItem2.pdf");
- fe.addListItem("listboxField", новая строка[]
- { "4", "Элемент4(Добавлено)" });
+FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_AddListItem2.pdf");
+ fe.addListItem("listboxField", new String[]
+ { "4", "Item4(Added)" });
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of field to which items will be added. |
-| exportName | java.lang.String[] | A String array denoting a new list item with Export Value, i.e. (Item Label, Export Value). |
+| fieldName | java.lang.String | Имя поля, в которое будут добавлены элементы. |
+| exportName | java.lang.String[] | Массив строк, обозначающий новый элемент списка со значением экспорта, т. е. (метка элемента, значение экспорта). |
 
 ### addSubmitBtn(String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury) {#addSubmitBtn-java.lang.String-int-java.lang.String-java.lang.String-float-float-float-float-}
 ```
-public abstract void addSubmitBtn (String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury)
+public abstract void addSubmitBtn(String fieldName, int page, String label, String url, float llx, float lly, float urx, float ury)
 ```
 
 
-Add submit button on the form.
+Добавьте кнопку отправки на форму.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_AddSubmitBtn.pdf");
- formEditor.addSubmitBtn("отправить", 1, "отправить", "www.check.com", 10, 200, 70, 270);
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_AddSubmitBtn.pdf");
+ formEditor.addSubmitBtn("submit", 1, "Submit", "www.check.com", 10, 200, 70, 270);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of new button. |
-| page | int | Page where button will be placed. |
-| label | java.lang.String | Button caption. |
-| url | java.lang.String | URL of the submit button. |
-| llx | float | Abscissa of the lower-left corner. |
-| lly | float | Ordinate of the lower-left corner. |
-| urx | float | Abscissa of the upper-right corner. |
-| ury | float | Ordinate of the upper-right corner. |
+| fieldName | java.lang.String | Имя новой кнопки. |
+| page | int | Страница, на которой будет размещена кнопка. |
+| label | java.lang.String | Надпись на кнопке. |
+| url | java.lang.String | URL кнопки отправки. |
+| llx | float | Абсцисса нижнего левого угла. |
+| lly | float | Ордината нижнего левого угла. |
+| urx | float | Абсцисса правого верхнего угла. |
+| ury | float | Ордината правого верхнего угла. |
 
 ### close() {#close--}
 ```
-публичная абстрактная пустота close()
+public abstract void close()
 ```
 
 
-Closes object
+Закрывает объект
 
 ### copyInnerField(String fieldName, String newFieldName, int pageNum) {#copyInnerField-java.lang.String-java.lang.String-int-}
 ```
-public abstract void copyInnerField (String fieldName, String newFieldName, int pageNum)
+public abstract void copyInnerField(String fieldName, String newFieldName, int pageNum)
 ```
 
 
-Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the source document has except for the newly copied field.
+Копирует существующее поле в ту же позицию на странице с указанным номером. Будет создан новый документ, содержащий все, что есть в исходном документе, за исключением только что скопированного поля.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | String value |
-| newFieldName | java.lang.String | String value |
-| pageNum | int | int value |
+| fieldName | java.lang.String | Строковое значение |
+| newFieldName | java.lang.String | Строковое значение |
+| pageNum | int | целое значение |
 
 ### copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate) {#copyInnerField-java.lang.String-java.lang.String-int-float-float-}
 ```
-public abstract void copyInnerField (String fieldName, String newFieldName, int pageNum, float abscissa, float ордината)
+public abstract void copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate)
 ```
 
 
-Copies an existing field to a new position specified by both page number and ordinates. A new document will be produced, which contains everything the source document has except for the newly copied field.
+Копирует существующее поле в новую позицию, указанную как номером страницы, так и ординатами. Будет создан новый документ, содержащий все, что есть в исходном документе, за исключением только что скопированного поля.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | String value |
-| newFieldName | java.lang.String | String value |
-| pageNum | int | int value |
-| abscissa | float | float value |
-| ordinate | float | float value |
+| fieldName | java.lang.String | Строковое значение |
+| newFieldName | java.lang.String | Строковое значение |
+| pageNum | int | целое значение |
+| abscissa | float | плавающее значение |
+| ordinate | float | плавающее значение |
 
 ### copyOuterField(String srcFileName, String fieldName) {#copyOuterField-java.lang.String-java.lang.String-}
 ```
-public abstract void copyOuterField (String srcFileName, String fieldName)
+public abstract void copyOuterField(String srcFileName, String fieldName)
 ```
 
 
-Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fields (excluding radio box).
+Копирует существующее поле из одного документа PDF в другой документ с исходным номером страницы и координатами. Примечание. Только для полей AcroForm (за исключением переключателя).
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | java.lang.String | String value |
-| fieldName | java.lang.String | String value |
+| srcFileName | java.lang.String | Строковое значение |
+| fieldName | java.lang.String | Строковое значение |
 
 ### copyOuterField(String srcFileName, String fieldName, int pageNum) {#copyOuterField-java.lang.String-java.lang.String-int-}
 ```
-public abstract void copyOuterField (String srcFileName, String fieldName, int pageNum)
+public abstract void copyOuterField(String srcFileName, String fieldName, int pageNum)
 ```
 
 
-Copies an existing field from one PDF document to another document with specified page number and original ordinates. Notice: Only for AcroForm fields (excluding radio box).
+Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и исходными ординатами. Примечание. Только для полей AcroForm (за исключением переключателя).
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | java.lang.String | String value |
-| fieldName | java.lang.String | String value |
-| pageNum | int | int value |
+| srcFileName | java.lang.String | Строковое значение |
+| fieldName | java.lang.String | Строковое значение |
+| pageNum | int | целое значение |
 
 ### copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate) {#copyOuterField-java.lang.String-java.lang.String-int-float-float-}
 ```
-public abstract void copyOuterField (String srcFileName, String fieldName, int pageNum, float abscissa, float ордината)
+public abstract void copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate)
 ```
 
 
-Copies an existing field from one PDF document to another document with specified page number and ordinates. Notice: Only for AcroForm fields (excluding radio box).
+Копирует существующее поле из одного документа PDF в другой документ с указанным номером страницы и координатами. Примечание. Только для полей AcroForm (за исключением переключателя).
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFileName | java.lang.String | String value |
-| fieldName | java.lang.String | String value |
-| pageNum | int | int value |
-| abscissa | float | float value |
-| ordinate | float | float value |
+| srcFileName | java.lang.String | Строковое значение |
+| fieldName | java.lang.String | Строковое значение |
+| pageNum | int | целое значение |
+| abscissa | float | плавающее значение |
+| ordinate | float | плавающее значение |
 
 ### decorateField() {#decorateField--}
 ```
-публичная абстрактная пустота decorField()
+public abstract void decorateField()
 ```
 
 
-Changes visual attributes of all fields in the PDF document.
+Изменяет визуальные атрибуты всех полей в документе PDF.
 
 --------------------
 
 ```
 FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
- fe.setFacade(новый FormFieldFacade());
+ fe.setFacade(new FormFieldFacade());
  fe.getFacade().setBackgroundColor(Color.red);
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.Green);
  fe.getFacade().setAlignment(FormFieldFacade.AlignRight);
- // украшаем все поля.
+ // decorate all fields.
  fe.decorateField();
 ```
 
 ### decorateField(int fieldType) {#decorateField-int-}
 ```
-общественное абстрактное недействительное декоративное поле (int fieldType)
+public abstract void decorateField(int fieldType)
 ```
 
 
-Changes visual attributes of all fields with the specified field type.
+Изменяет визуальные атрибуты всех полей с указанным типом поля.
 
 --------------------
 
 ```
 FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
- fe.setFacade(новый FormFieldFacade());
+ fe.setFacade(new FormFieldFacade());
  fe.getFacade().setBackgroundColor(Color.red);
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.green);
  fe.getFacade().setAlignment(FormFieldFacade.AlignRight);
- // украшаем все текстовые поля.
+ // decorate all text fields.
  fe.decorateField(FieldType.Text);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldType | int | Type of fields which will be decorated. |
+| fieldType | int | Тип полей, которые будут декорированы. |
 
 ### decorateField(String fieldName) {#decorateField-java.lang.String-}
 ```
-общественное абстрактное недействительное декоративное поле (String fieldName)
+public abstract void decorateField(String fieldName)
 ```
 
 
-Changes visual attributes of the specified field.
+Изменяет визуальные атрибуты указанного поля.
 
 --------------------
 
 ```
 FormEditor fe = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_DecorateField_text.pdf");
- fe.Facade = новый FormFieldFacade();
+ fe.Facade = new FormFieldFacade();
  fe.Facade.setBackgroundColor(Color.Red);
  fe.Facade.setTextColor(Color.Blue);
  fe.Facade.setBorderColor(Color.Green);
  fe.Facade.setAlignment(FormFieldFacade.AlignCenter);
- fe.decorateField ("текстовое поле");
+ fe.decorateField("textField");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | The fully qualified field name. |
+| fieldName | java.lang.String | Полное имя поля. |
 
 ### delListItem(String fieldName, String itemName) {#delListItem-java.lang.String-java.lang.String-}
 ```
-public abstract void delListItem (String fieldName, String itemName)
+public abstract void delListItem(String fieldName, String itemName)
 ```
 
 
-Delete item from the list field.
+Удалить элемент из поля списка.
 
 --------------------
 
 ```
-formEditor = новый com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_DelListItem.pdf");
+formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_DelListItem.pdf");
  formEditor.delListItem("listboxField", "item2");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field. |
-| itemName | java.lang.String | Name of the item which must be deleted. |
+| fieldName | java.lang.String | Имя поля. |
+| itemName | java.lang.String | Имя элемента, который необходимо удалить. |
 
 ### dispose() {#dispose--}
 ```
-публичная абстрактная пустота dispose()
+public abstract void dispose()
 ```
 
 
-Closes object
+Закрывает объект
 
 ### getAttachmentName() {#getAttachmentName--}
 ```
-общедоступная абстрактная строка getAttachmentName()
+public abstract String getAttachmentName()
 ```
 
 
-Gets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+Получает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение.
 
-**Returns:**
-java.lang.String - String object
+**Возвращает:**
+java.lang.String — строковый объект
 ### getContentDisposition() {#getContentDisposition--}
 ```
-общедоступная абстракция int getContentDisposition()
+public abstract int getContentDisposition()
 ```
 
 
-Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+Получает способ хранения содержимого при сохранении результата операции в объекте HttpResponse. Возможное значение: inline/attachment. По умолчанию: встроенный.
 
-**Returns:**
-int - ContentDisposition element
+**Возвращает:**
+int — элемент ContentDisposition
 ### getDestFileName() {#getDestFileName--}
 ```
-общедоступная абстрактная строка getDestFileName()
+public abstract String getDestFileName()
 ```
 
 
-Gets destination file name.
+Получает имя файла назначения.
 
-**Returns:**
-java.lang.String - string value
+**Возвращает:**
+java.lang.String — строковое значение
 ### getDestStream() {#getDestStream--}
 ```
-общедоступный абстрактный OutputStream getDestStream()
+public abstract OutputStream getDestStream()
 ```
 
 
-Gets destination stream.
+Получает целевой поток.
 
 --------------------
 
 ```
-Редактор FormEditor = новый FormEditor();
- editor.setDestStream(новый FileInputStream("OutFile.pdf"));
+FormEditor editor = new FormEditor();
+ editor.setDestStream(new FileInputStream("OutFile.pdf"));
 ```
 
-**Returns:**
-java.io.OutputStream - OutputStream object
+**Возвращает:**
+java.io.OutputStream — объект OutputStream
 ### getDocument() {#getDocument--}
 ```
-общедоступный абстрактный IDocument getDocument()
+public abstract IDocument getDocument()
 ```
 
 
-Gets the document  FormEditor  is working on.
+Получает документ, над которым работает FormEditor.
 
-**Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument object
+**Возвращает:**
+[IDocument](../../com.aspose.pdf/idocument) - Объект IDocument
 ### getExportItems() {#getExportItems--}
 ```
-общедоступная абстрактная строка[][] получитьЭкспортItems()
+public abstract String[][] getExportItems()
 ```
 
 
-Gets options for combo box with export values.
+Получает параметры для поля со списком с экспортируемыми значениями.
 
-**Returns:**
-java.lang.String[][] - String[][] object
+**Возвращает:**
+java.lang.String[][] - Нить[][] объект
 ### getFacade() {#getFacade--}
 ```
-открытый абстрактный FormFieldFacade getFacade()
+public abstract FormFieldFacade getFacade()
 ```
 
 
-Gets visual attributes of the field.
+Получает визуальные атрибуты поля.
 
-**Returns:**
-[FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) - FormFieldFacade object
+**Возвращает:**
+[FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) - Объект FormFieldFacade
 ### getItems() {#getItems--}
 ```
-общедоступная абстрактная строка[] получитьЭлементы()
+public abstract String[] getItems()
 ```
 
 
-Returns item array
+Возвращает массив элементов
 
-**Returns:**
-java.lang.String[] - String[] object
+**Возвращает:**
+java.lang.String[] - Нить[] объект
 ### getRadioButtonItemSize() {#getRadioButtonItemSize--}
 ```
-публичный абстрактный двойной getRadioButtonItemSize()
+public abstract double getRadioButtonItemSize()
 ```
 
 
 ```
-Получает или задает размер элемента переключателя (при добавлении нового поля переключателя).
+Gets or sets size of radio button item size (when new radio button field is added).
  
  
  FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
- formEditor.setRadioHoriz (ложь);
+ formEditor.setRadioHoriz(false);
  formEditor.setRadioButtonItemSize(20);
- formEditor.setItems (новая строка[]
- { "Первый второй третий" });
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
  formEditor.addField(com.aspose.pdf.facades.FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Returns:**
-double - boolean value
+**Возвращает:**
+двойное - логическое значение
 ### getRadioGap() {#getRadioGap--}
 ```
-публичный абстрактный поплавок getRadioGap()
+public abstract float getRadioGap()
 ```
 
 
-Get the member to record the gap between two neighboring radio buttons in pixels,default is 50.
+Заставьте участника записывать промежуток между двумя соседними переключателями в пикселях, по умолчанию 50.
 
-**Returns:**
-float - float value
+**Возвращает:**
+float - плавающее значение
 ### getRadioHoriz() {#getRadioHoriz--}
 ```
-публичное абстрактное логическое значение getRadioHoriz()
+public abstract boolean getRadioHoriz()
 ```
 
 
-Get the flag to indicate whether the radios are arranged horizontally or vertically, default value is true.
+Получите флаг, чтобы указать, расположены ли радиостанции горизонтально или вертикально, значение по умолчанию — true.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getSaveOptions() {#getSaveOptions--}
 ```
-открытый абстрактный SaveOptions getSaveOptions()
+public abstract SaveOptions getSaveOptions()
 ```
 
 
-Gets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+Получает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию: пдфсавеоптионс.
 
-**Returns:**
-[SaveOptions](../../com.aspose.pdf/saveoptions) - SaveOptions object
+**Возвращает:**
+[SaveOptions](../../com.aspose.pdf/saveoptions) - Объект SaveOptions
 ### getSrcFileName() {#getSrcFileName--}
 ```
-общедоступная абстрактная строка getSrcFileName()
+public abstract String getSrcFileName()
 ```
 
 
-Gets name of source file.
+Получает имя исходного файла.
 
-**Returns:**
-java.lang.String - string value
+**Возвращает:**
+java.lang.String — строковое значение
 ### getSrcStream() {#getSrcStream--}
 ```
-общедоступный абстрактный InputStream getSrcStream()
+public abstract InputStream getSrcStream()
 ```
 
 
-Gets source stream.
+Получает исходный поток.
 
-**Returns:**
-java.io.InputStream - InputStream object
+**Возвращает:**
+java.io.InputStream — объект InputStream
 ### getSubmitFlag() {#getSubmitFlag--}
 ```
-открытый абстрактный int getSubmitFlag()
+public abstract int getSubmitFlag()
 ```
 
 
-Get the submit button's submission flags
+Получить флаги отправки кнопки отправки
 
-**Returns:**
-int - SubmitFormFlag element
+**Возвращает:**
+int — элемент SubmitFormFlag
 ### moveField(String fieldName, float llx, float lly, float urx, float ury) {#moveField-java.lang.String-float-float-float-float-}
 ```
-public abstract boolean moveField (String fieldName, float llx, float lly, float urx, float ury)
+public abstract boolean moveField(String fieldName, float llx, float lly, float urx, float ury)
 ```
 
 
-Set new position of field.
+Установить новую позицию поля.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_MoveField.pdf");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_MoveField.pdf");
  formEditor.moveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of field which must be moved. |
-| llx | float | Abscissa of the lower-left corner of the field. |
-| lly | float | Ordinate of the lower-left corner of the field. |
-| urx | float | Abscissa of the upper-right corner of the field. |
-| ury | float | Ordinate of the upper-right corner of the field. |
+**Параметры:**
 
-**Returns:**
-boolean - true if field position was changed successfully.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Имя поля, которое необходимо переместить. |
+| llx | float | Абсцисса нижнего левого угла поля. |
+| lly | float | Ордината нижнего левого угла поля. |
+| urx | float | Абсцисса правого верхнего угла поля. |
+| ury | float | Ордината правого верхнего угла поля. |
+
+**Возвращает:**
+boolean - true, если позиция поля была успешно изменена.
 ### removeField(String fieldName) {#removeField-java.lang.String-}
 ```
-public abstract void removeField (String fieldName)
+public abstract void removeField(String fieldName)
 ```
 
 
-Remove field from the form.
+Удалить поле из формы.
 
 --------------------
 
 ```
-FormEditr formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_RemoveField.pdf");
+FormEditr formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveField.pdf");
  formEditor.removeField("listboxField");
  formEditor.removeField("textField");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field which must be removed. |
+| fieldName | java.lang.String | Имя поля, которое необходимо удалить. |
 
 ### removeFieldAction(String fieldName) {#removeFieldAction-java.lang.String-}
 ```
-public abstract void removeFieldAction (String fieldName)
+public abstract void removeFieldAction(String fieldName)
 ```
 
 
-Remove submit action of the field.
+Удалить действие отправки поля.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_RemoveFieldAction.pdf");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveFieldAction.pdf");
  formEditor.removeFieldAction("btnSubmit");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | Name of the field. |
+| fieldName | java.lang.String | Имя поля. |
 
 ### renameField(String fieldName, String newFieldName) {#renameField-java.lang.String-java.lang.String-}
 ```
-public abstract void renameField (String fieldName, String newFieldName)
+public abstract void renameField(String fieldName, String newFieldName)
 ```
 
 
-Change name of the field.
+Изменить имя поля.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
  formEditor.renameField("textField", "textField_Renamed");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | Old name of the field. |
-| newFieldName | java.lang.String | New name of the field. |
+| fieldName | java.lang.String | Старое название поля. |
+| newFieldName | java.lang.String | Новое имя поля. |
 
 ### resetFacade() {#resetFacade--}
 ```
@@ -655,7 +668,7 @@ public abstract void resetFacade()
 ```
 
 
-Reset all visual attributes to empty value.
+Сбросить все визуальные атрибуты до пустого значения.
 
 ### resetInnerFacade() {#resetInnerFacade--}
 ```
@@ -663,135 +676,141 @@ public abstract void resetInnerFacade()
 ```
 
 
-Reset all visual attributes of inner facade to empty value.
+Сбросить все визуальные атрибуты внутреннего фасада до пустого значения.
 
 ### save() {#save--}
 ```
-публичное абстрактное недействительное сохранение ()
+public abstract void save()
 ```
 
 
-Saves changes into destination file.
+Сохраняет изменения в файле назначения.
 
 ### setAttachmentName(String value) {#setAttachmentName-java.lang.String-}
 ```
-public abstract void setAttachmentName (строковое значение)
+public abstract void setAttachmentName(String value)
 ```
 
 
-Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+Задает имя вложения, когда результат операции сохраняется в объектах HttpResponse как вложение.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | String object |
+| value | java.lang.String | Строковый объект |
 
 ### setContentDisposition(int value) {#setContentDisposition-int-}
 ```
-public abstract void setContentDisposition (значение int)
+public abstract void setContentDisposition(int value)
 ```
 
 
-Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+Устанавливает, как содержимое будет сохранено, когда результат операции будет сохранен в объекте HttpResponse. Возможное значение: inline/attachment. По умолчанию: встроенный.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | int | ContentDisposition element |
+| value | int | Элемент ContentDisposition |
 
 ### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
 ```
-public abstract void setConvertTo (значение PdfFormat)
+public abstract void setConvertTo(PdfFormat value)
 ```
 
 
-Sets [PdfFormat](../../com.aspose.pdf/pdfformat) PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
+ Наборы[PdfFormat](../../com.aspose.pdf/pdfformat) Формат файла PDF. Файл результата будет сохранен в указанном формате. Если это свойство не указано, файл будет сохранен в формате PDF по умолчанию без преобразования.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat element |
+| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | Элемент PdfFormat |
 
 ### setDestFileName(String value) {#setDestFileName-java.lang.String-}
 ```
-public abstract void setDestFileName (строковое значение)
+public abstract void setDestFileName(String value)
 ```
 
 
-Sets destination file name.
+Устанавливает имя файла назначения.
 
 --------------------
 
 ```
-Редактор FormEditor = новый FormEditor();
+FormEditor editor = new FormEditor();
  editor.setDestFileName("OutFile.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | String object |
+| value | java.lang.String | Строковый объект |
 
 ### setDestStream(OutputStream value) {#setDestStream-java.io.OutputStream-}
 ```
-public abstract void setDestStream (значение OutputStream)
+public abstract void setDestStream(OutputStream value)
 ```
 
 
-Sets destination stream.
+Устанавливает целевой поток.
 
 --------------------
 
 ```
-Редактор FormEditor = новый FormEditor();
- editor.setDestStream(новый FileInputStream("OutFile.pdf"));
+FormEditor editor = new FormEditor();
+ editor.setDestStream(new FileInputStream("OutFile.pdf"));
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.io.OutputStream | OutputStream object |
+| value | java.io.OutputStream | Объект OutputStream |
 
 ### setExportItems(String[][] value) {#setExportItems-java.lang.String-----}
 ```
-public abstract void setExportItems(String[][] ценность)
+public abstract void setExportItems(String[][] value)
 ```
 
 
-Sets options for combo box with export values.
+Устанавливает параметры для поля со списком с экспортируемыми значениями.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "PdfForm_Updated.pdf"));
- formEditor.setExportItems ( новая строка[][] 
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_Updated.pdf"));
+ formEditor.setExportItems ( new String[][] 
  { 
-     новая строка[] { "1", "Елки" }, 
-     новая строка[] { "2", "Второй" }, 
-     новая строка[] { "3", "Третий" } 
+     new String[] { "1", "Firs" }, 
+     new String[] { "2", "Second" }, 
+     new String[] { "3", "Third" } 
  });
- formEditor.addField(FieldType.ListBox, "AddedListBoxField", "Второй", 1, 10, 30, 110, 130);
+ formEditor.addField(FieldType.ListBox, "AddedListBoxField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String[][] | String[][] object |
+| value | java.lang.Нить[][] | String[][] объект |
 
 ### setFacade(FormFieldFacade value) {#setFacade-com.aspose.pdf.facades.FormFieldFacade-}
 ```
-public abstract void setFacade (значение FormFieldFacade)
+public abstract void setFacade(FormFieldFacade value)
 ```
 
 
-Sets visual attributes of the field.
+Задает визуальные атрибуты поля.
 
 --------------------
 
 ```
 FormEditor fe = new FormEditor("PdfForm.pdf", "PdfForm_DecorateField_text.pdf");
- fe.setFacade(новый FormFieldFacade());
+ fe.setFacade(new FormFieldFacade());
  fe.getFacade().setBackgroundColor(Color.red);
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.green);
@@ -800,396 +819,415 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "PdfForm_DecorateField_text.pdf");
  fe.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | [FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) | FormFieldFacade object |
+| value | [FormFieldFacade](../../com.aspose.pdf.facades/formfieldfacade) | Объект FormFieldFacade |
 
 ### setFieldAlignment(String fieldName, int alignment) {#setFieldAlignment-java.lang.String-int-}
 ```
-открытый абстрактный логический setFieldAlignment (String fieldName, выравнивание int)
+public abstract boolean setFieldAlignment(String fieldName, int alignment)
 ```
 
 
-Set the alignment style of a text field.
+Установите стиль выравнивания текстового поля.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_updated.pdf"));
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_updated.pdf"));
   formEditor.setFieldAlignment(fieldName, FormFieldFacade.AlignCenter);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
-| alignment | int | The alignment style definition, including FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter and FormFieldFacade.AlignRight. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean value
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Полное имя поля. |
+| alignment | int | Определение стиля выравнивания, включая FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter и FormFieldFacade.AlignRight. |
+
+**Возвращает:**
+boolean - логическое значение
 ### setFieldAlignmentV(String fieldName, int alignment) {#setFieldAlignmentV-java.lang.String-int-}
 ```
-общедоступный абстрактный логический setFieldAlignmentV (String fieldName, выравнивание int)
+public abstract boolean setFieldAlignmentV(String fieldName, int alignment)
 ```
 
 
-Set the vertical alignment style of a text field.
+Установите стиль вертикального выравнивания текстового поля.
 
 --------------------
 
 ```
-FormEditor fe = новый FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
- fe.setFieldAlignmentV("form1[0].Текстовое поле[0]", FormFieldFacade.AlignBottom);
+FormEditor fe = new FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
+ fe.setFieldAlignmentV("form1[0].TextField[0]", FormFieldFacade.AlignBottom);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
-| alignment | int | The alignment style definition, including FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle and FormFieldFacade.AlignRight. |
+**Параметры:**
 
-**Returns:**
-boolean - If success, return true;else false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Полное имя поля. |
+| alignment | int | Определение стиля выравнивания, включая FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle и FormFieldFacade.AlignRight. |
+
+**Возвращает:**
+boolean - В случае успеха вернуть true, иначе false.
 ### setFieldAppearance(String fieldName, int flags) {#setFieldAppearance-java.lang.String-int-}
 ```
-общедоступный абстрактный логический setFieldAppearance (String fieldName, int flags)
+public abstract boolean setFieldAppearance(String fieldName, int flags)
 ```
 
 
-Set field flags
+Установить флаги полей
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm1.pdf", "FormEditor_SetFieldAppearance.pdf");
- formEditor.setFieldAppearance("Имя", AnnotationFlags.Hidden);
- formEditor.setFieldAppearance("Телефон", AnnotationFlags.NoView | AnnotationFlags.Print);
+FormEditor formEditor = new FormEditor("PdfForm1.pdf", "FormEditor_SetFieldAppearance.pdf");
+ formEditor.setFieldAppearance("Name", AnnotationFlags.Hidden);
+ formEditor.setFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.Print);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of field whose flags should be updated. |
-| flags | int | Flag of the field. |
+**Параметры:**
 
-**Returns:**
-boolean - true if flags were updated successfully.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Имя поля, флаги которого необходимо обновить. |
+| flags | int | Флаг поля. |
+
+**Возвращает:**
+boolean - true, если флаги были успешно обновлены.
 ### setFieldAttribute(String fieldName, int flag) {#setFieldAttribute-java.lang.String-int-}
 ```
-общедоступный абстрактный логический setFieldAttribute (String fieldName, int flag)
+public abstract boolean setFieldAttribute(String fieldName, int flag)
 ```
 
 
-Set attributes of field.
+Установить атрибуты поля.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "PdfForm_SetFieldAttribute.pdf");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_SetFieldAttribute.pdf");
  formEditor.setFieldAttribute("listboxField", PropertyFlag.ReadOnly);
  formEditor.setFieldAttribute("textField", PropertyFlag.NoExport);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of field which attributes should be set. |
-| flag | int | Flag (NoExport/ReadOnly/Required) |
+**Параметры:**
 
-**Returns:**
-boolean - true if attribute was set successfully.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Имя поля, атрибуты которого должны быть установлены. |
+| flag | int | Флаг (NoExport/ReadOnly/Required) |
+
+**Возвращает:**
+boolean - true, если атрибут был установлен успешно.
 ### setFieldCombNumber(String fieldName, int combNumber) {#setFieldCombNumber-java.lang.String-int-}
 ```
-открытый абстрактный логический setFieldCombNumber (String fieldName, int combNumber)
+public abstract boolean setFieldCombNumber(String fieldName, int combNumber)
 ```
 
 
-Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter).
+Задает количество гребенок для обычного однострочного текстового поля (поле автоматически разбивается на столько равноотстоящих позиций или гребешков, сколько установлено значением параметра combNumber).
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfWithAcroForm.pdf", "FormEditor_SetFieldComb.pdf"));
+FormEditor formEditor = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_SetFieldComb.pdf"));
  formEditor.setFieldCombNumber("textCombField", 5);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
-| combNumber | int | The number of combs to divide the field into. |
+**Параметры:**
 
-**Returns:**
-boolean - If success, return true;else false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Полное имя поля. |
+| combNumber | int | Количество сот, на которые нужно разделить поле. |
+
+**Возвращает:**
+boolean - В случае успеха вернуть true, иначе false.
 ### setFieldLimit(String fieldName, int fieldLimit) {#setFieldLimit-java.lang.String-int-}
 ```
-открытый абстрактный логический setFieldLimit (String fieldName, int fieldLimit)
+public abstract boolean setFieldLimit(String fieldName, int fieldLimit)
 ```
 
 
-Sets maximum character count of the text field.
+Устанавливает максимальное количество символов в текстовом поле.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_SetFieldLimit.pdf");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetFieldLimit.pdf");
  formEditor.setFieldLimit("textField", 15);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of the text field. |
-| fieldLimit | int | New value of limit for the field. |
+**Параметры:**
 
-**Returns:**
-boolean - true if field limit was successfully set.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Имя текстового поля. |
+| fieldLimit | int | Новое значение лимита для поля. |
+
+**Возвращает:**
+boolean - true, если ограничение поля было успешно установлено.
 ### setFieldScript(String fieldName, String script) {#setFieldScript-java.lang.String-java.lang.String-}
 ```
-общедоступный абстрактный логический setFieldScript (String fieldName, String script)
+public abstract boolean setFieldScript(String fieldName, String script)
 ```
 
 
-Set JavaScript for a PushButton field. If old JavaScript existed, it will be replaced by the new one.
+Установите JavaScript для поля PushButton. Если старый JavaScript существовал, он будет заменен новым.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | java.lang.String | The fully qualified field name. |
-| script | java.lang.String | The Java script to be added/placed into a push button field. |
+| fieldName | java.lang.String | Полное имя поля. |
+| script | java.lang.String | Java-скрипт, который нужно добавить/поместить в поле кнопки. |
 
-**Returns:**
-boolean - boolean value: If success, return true; else false.
+**Возвращает:**
+boolean - логическое значение: в случае успеха вернуть true; иначе ложно.
 ### setItems(String[] value) {#setItems-java.lang.String---}
 ```
-public abstract void setItems (String[] ценность)
+public abstract void setItems(String[] value)
 ```
 
 
-Sets items which will be added to newly created list box or combo box.
+Устанавливает элементы, которые будут добавлены во вновь созданный список или поле со списком.
 
 --------------------
 
 ```
-formEditor = новый com.aspose.pdf.facadesFormEditor("input.pdf", "output.pdf");
- formEditor.setItems (новая строка[]
- { "ААА", "ВВВ", "ССС" });
+formEditor = new com.aspose.pdf.facadesFormEditor("input.pdf", "output.pdf");
+ formEditor.setItems(new String[]
+ { "AAA", "BBB", "CCC" });
  formEditor.addField(FieldType.ListBox, "AddedListBoxField", "BBB", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String[] | String[] object |
+| value | java.lang.Нить[] | String[] объект |
 
 ### setRadioButtonItemSize(double value) {#setRadioButtonItemSize-double-}
 ```
-public abstract void setRadioButtonItemSize (двойное значение)
+public abstract void setRadioButtonItemSize(double value)
 ```
 
 
 ```
-Получает или задает размер элемента переключателя (при добавлении нового поля переключателя).
+Gets or sets size of radio button item size (when new radio button field is added).
  
  
  FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
- formEditor.setRadioHoriz (ложь);
+ formEditor.setRadioHoriz(false);
  formEditor.setRadioButtonItemSize(20);
- formEditor.setItems (новая строка[]
- { "Первый второй третий" });
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
  formEditor.addField(com.aspose.pdf.facades.FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | double | double value |
+| value | double | двойное значение |
 
 ### setRadioGap(float value) {#setRadioGap-float-}
 ```
-public abstract void setRadioGap (значение с плавающей запятой)
+public abstract void setRadioGap(float value)
 ```
 
 
-Set the member to record the gap between two neighboring radio buttons in pixels,default is 50.
+Настройте элемент для записи промежутка между двумя соседними переключателями в пикселях, по умолчанию 50.
 
 --------------------
 
 ```
 formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
- formEditor.setRadioHoriz (ложь);
- formEditor.setItems (новая строка[]
- { "Первый второй третий" });
- formEditor.addField(FieldType.Radio, "AddedRadioButtonField", "Второй", 1, 10, 30, 110, 130);
+ formEditor.setRadioHoriz(false);
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
+ formEditor.addField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | float | float value |
+| value | float | плавающее значение |
 
 ### setRadioHoriz(boolean value) {#setRadioHoriz-boolean-}
 ```
-public abstract void setRadioHoriz (логическое значение)
+public abstract void setRadioHoriz(boolean value)
 ```
 
 
-Set the flag to indicate whether the radios are arranged horizontally or vertically, default value is true.
+Установите флаг, чтобы указать, расположены ли радиостанции горизонтально или вертикально, значение по умолчанию — true.
 
 --------------------
 
 ```
 formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
- formEditor.setRadioHoriz (ложь);
- formEditor.setItems (новая строка[]
- { "Первый второй третий" });
- formEditor.addField(FieldType.Radio, "AddedRadioButtonField", "Второй", 1, 10, 30, 110, 130);
+ formEditor.setRadioHoriz(false);
+ formEditor.setItems(new String[]
+ { "First", "Second", "Third" });
+ formEditor.addField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setSaveOptions(SaveOptions value) {#setSaveOptions-com.aspose.pdf.SaveOptions-}
 ```
-public abstract void setSaveOptions (значение SaveOptions)
+public abstract void setSaveOptions(SaveOptions value)
 ```
 
 
-Sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+Задает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию: пдфсавеоптионс.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | SaveOptions object |
+| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | Объект SaveOptions |
 
 ### setSrcFileName(String value) {#setSrcFileName-java.lang.String-}
 ```
-public abstract void setSrcFileName (строковое значение)
+public abstract void setSrcFileName(String value)
 ```
 
 
-Sets name of source file.
+Устанавливает имя исходного файла.
 
 --------------------
 
 ```
-Редактор FormEditor = новый FormEditor();
+FormEditor editor = new FormEditor();
  editor.setSrcFileName("InputFile.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | string value |
+| value | java.lang.String | строковое значение |
 
 ### setSrcStream(InputStream value) {#setSrcStream-java.io.InputStream-}
 ```
-public abstract void setSrcStream (значение InputStream)
+public abstract void setSrcStream(InputStream value)
 ```
 
 
-Sets source stream.
+Устанавливает исходный поток.
 
 --------------------
 
 ```
-Редактор FormEditor = новый FormEditor();
- editor.setSrcStream(новый FileInputStream("InFile.pdf"));
+FormEditor editor = new FormEditor();
+ editor.setSrcStream(new FileInputStream("InFile.pdf"));
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.io.InputStream | InputStream object |
+| value | java.io.InputStream | Объект InputStream |
 
 ### setSubmitFlag(int value) {#setSubmitFlag-int-}
 ```
-public abstract void setSubmitFlag (значение int)
+public abstract void setSubmitFlag(int value)
 ```
 
 
-Set the submit button's submission flags
+Установите флаги отправки кнопки отправки
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | int | SubmitFormFlag element |
+| value | int | Элемент SubmitFormFlag |
 
 ### setSubmitFlag(String fieldName, int submitFormFlag) {#setSubmitFlag-java.lang.String-int-}
 ```
-открытый абстрактный логический setSubmitFlag (String fieldName, int submitFormFlag)
+public abstract boolean setSubmitFlag(String fieldName, int submitFormFlag)
 ```
 
 
-Set submit flag of submit button.
+Установите флаг отправки кнопки отправки.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_SetSubmitFlag.pdf");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitFlag.pdf");
  formEditor.setSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Name of submit button. |
-| submitFormFlag | int | Submit flag. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean value
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Название кнопки отправки. |
+| submitFormFlag | int | Отправить флаг. |
+
+**Возвращает:**
+boolean - логическое значение
 ### setSubmitUrl(String fieldName, String url) {#setSubmitUrl-java.lang.String-java.lang.String-}
 ```
-общедоступный абстрактный логический setSubmitUrl (String fieldName, String url)
+public abstract boolean setSubmitUrl(String fieldName, String url)
 ```
 
 
-Sets URL of the button.
+Устанавливает URL кнопки.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "FormEditor_SetSubmitUrl.pdf");
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitUrl.pdf");
  formEditor.setSubmitUrl("btnSubmit", "www.mysite.com");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | Submit button name. |
-| url | java.lang.String | Fully qualified URL. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean value
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Отправить название кнопки. |
+| url | java.lang.String | Полный URL-адрес. |
+
+**Возвращает:**
+boolean - логическое значение
 ### single2Multiple(String fieldName) {#single2Multiple-java.lang.String-}
 ```
-общедоступный абстрактный логический single2Multiple (String fieldName)
+public abstract boolean single2Multiple(String fieldName)
 ```
 
 
-Change a single-lined text field to a multiple-lined one.
+Измените однострочное текстовое поле на многострочное.
 
 --------------------
 
 ```
-FormEditor formEditor = новый FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
- formEditor.single2Multiple («текстовое поле»);
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
+ formEditor.single2Multiple("textField");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | java.lang.String | The qualified field name. |
+**Параметры:**
 
-**Returns:**
-boolean - If success, return true;else false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| fieldName | java.lang.String | Полное имя поля. |
+
+**Возвращает:**
+boolean - В случае успеха вернуть true, иначе false.

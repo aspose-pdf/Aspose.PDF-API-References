@@ -1,98 +1,103 @@
 ---
 title: INamedDestinationCollection
 second_title: Aspose.PDF для справки по Java API
-описание: Коллекция именованных направлений.
-тип: документы
-вес: 11
-URL-адрес: /java/com.aspose.pdf.nameddestinations/inameddestinationcollection/
----```
-открытый интерфейс INamedDestinationCollection
+description: Коллекция именованных направлений.
+type: docs
+weight: 11
+url: /ru/java/com.aspose.pdf.nameddestinations/inameddestinationcollection/
+---
+```
+public interface INamedDestinationCollection
 ```
 
-Collection of Named Destinations.
-## Methods
+Коллекция именованных направлений.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [add(String name, IAppointment appointment)](#add-java.lang.String-com.aspose.pdf.IAppointment-) | Adds new named destination. |
-| [getNames()](#getNames--) | Gets array of names of the destinations. |
-| [get_Item(String name)](#get-Item-java.lang.String-) | Gets destination by its name. |
-| [remove(String name)](#remove-java.lang.String-) | Removes destination by its name. |
-| [set_Item(String name, IAppointment value)](#set-Item-java.lang.String-com.aspose.pdf.IAppointment-) | Sets destination by its name. |
-| [size()](#size--) | Returns count of the destinations. |
+| [add(String name, IAppointment appointment)](#add-java.lang.String-com.aspose.pdf.IAppointment-) | Добавляет новый именованный пункт назначения. |
+| [getNames()](#getNames--) | Получает массив имен пунктов назначения. |
+| [get_Item(String name)](#get-Item-java.lang.String-) | Получает пункт назначения по его имени. |
+| [remove(String name)](#remove-java.lang.String-) | Удаляет пункт назначения по его имени. |
+| [set_Item(String name, IAppointment value)](#set-Item-java.lang.String-com.aspose.pdf.IAppointment-) | Устанавливает пункт назначения по его имени. |
+| [size()](#size--) | Возвращает количество пунктов назначения. |
 ### add(String name, IAppointment appointment) {#add-java.lang.String-com.aspose.pdf.IAppointment-}
 ```
-public abstract void add (имя строки, назначение IAppointment)
+public abstract void add(String name, IAppointment appointment)
 ```
 
 
-Adds new named destination.
+Добавляет новый именованный пункт назначения.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | java.lang.String | String value |
-| appointment | [IAppointment](../../com.aspose.pdf/iappointment) | IAppointment instance |
+| name | java.lang.String | Строковое значение |
+| appointment | [IAppointment](../../com.aspose.pdf/iappointment) | Экземпляр IAppointment |
 
 ### getNames() {#getNames--}
 ```
-общедоступная абстрактная строка[] получитьИмена()
+public abstract String[] getNames()
 ```
 
 
-Gets array of names of the destinations.
+Получает массив имен пунктов назначения.
 
-**Returns:**
-java.lang.String[] - Array of String values
+**Возвращает:**
+java.lang.String[] — массив строковых значений
 ### get_Item(String name) {#get-Item-java.lang.String-}
 ```
-открытый абстрактный IAppointment get_Item (имя строки)
+public abstract IAppointment get_Item(String name)
 ```
 
 
-Gets destination by its name.
+Получает пункт назначения по его имени.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | java.lang.String | String value |
+| name | java.lang.String | Строковое значение |
 
-**Returns:**
-[IAppointment](../../com.aspose.pdf/iappointment) - IAppointment instance Destination object.
+**Возвращает:**
+[IAppointment](../../com.aspose.pdf/iappointment) - Объект назначения экземпляра IAppointment.
 ### remove(String name) {#remove-java.lang.String-}
 ```
-public abstract void remove (строковое имя)
+public abstract void remove(String name)
 ```
 
 
-Removes destination by its name.
+Удаляет пункт назначения по его имени.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | java.lang.String | String value |
+| name | java.lang.String | Строковое значение |
 
 ### set_Item(String name, IAppointment value) {#set-Item-java.lang.String-com.aspose.pdf.IAppointment-}
 ```
-public abstract void set_Item (имя строки, значение IAppointment)
+public abstract void set_Item(String name, IAppointment value)
 ```
 
 
-Sets destination by its name.
+Устанавливает пункт назначения по его имени.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | java.lang.String | String value |
-| value | [IAppointment](../../com.aspose.pdf/iappointment) | IAppointment instance Destination object. |
+| name | java.lang.String | Строковое значение |
+| value | [IAppointment](../../com.aspose.pdf/iappointment) | Экземпляр IAppointment Целевой объект. |
 
 ### size() {#size--}
 ```
-публичный абстрактный размер int()
+public abstract int size()
 ```
 
 
-Returns count of the destinations.
+Возвращает количество пунктов назначения.
 
-**Returns:**
-int - int value
+**Возвращает:**
+интервал - целочисленное значение

@@ -195,7 +195,7 @@ public final FileSpecification findByName(String name)
 | name | java.lang.String | 文件的名称。 |
 
 **退货：**
-[FileSpecification](../../com.aspose.pdf/filespecification) - FileSpecification 实例文件规范对象（如果找到）；否则为空。
+[FileSpecification](../../com.aspose.pdf/filespecification) FileSpecification 实例文件规范对象（如果找到）；否则为空。
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()

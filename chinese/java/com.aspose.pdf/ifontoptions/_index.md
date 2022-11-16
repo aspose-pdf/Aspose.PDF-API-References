@@ -1,40 +1,42 @@
 ---
-标题：IFontOptions
-second_title: Aspose.PDF for Java API 参考
-描述：调整字体行为的有用属性
-类型：文档
-重量：434
-网址：/java/com.aspose.pdf/ifontoptions/
----```
-公共接口 IFontOptions
+title: IFontOptions
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 调整字体行为的有用属性
+type: docs
+weight: 434
+url: /zh/java/com.aspose.pdf/ifontoptions/
+---
+```
+public interface IFontOptions
 ```
 
-Useful properties to tune Font behavior
-## Methods
+调整字体行为的有用属性
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [getNotifyAboutFontEmbeddingError()](#getNotifyAboutFontEmbeddingError--) | Sometimes it's not possible to embed desired font into document. |
-| [setNotifyAboutFontEmbeddingError(boolean value)](#setNotifyAboutFontEmbeddingError-boolean-) | Sometimes it's not possible to embed desired font into document. |
+| [getNotifyAboutFontEmbeddingError()](#getNotifyAboutFontEmbeddingError--) | 有时无法将所需字体嵌入到文档中。 |
+| [setNotifyAboutFontEmbeddingError(boolean value)](#setNotifyAboutFontEmbeddingError-boolean-) | 有时无法将所需字体嵌入到文档中。 |
 ### getNotifyAboutFontEmbeddingError() {#getNotifyAboutFontEmbeddingError--}
 ```
-公共抽象布尔值 getNotifyAboutFontEmbeddingError()
+public abstract boolean getNotifyAboutFontEmbeddingError()
 ```
 
 
-Sometimes it's not possible to embed desired font into document. There are many reasons, for example license restrictions or when desired font was not found on destination computer. When this situation comes it's not simply to detect, because desired font is embedded via set of property flag Font.IsEmbedded = true; Of course it's possible to read this property immediately after it was set but it's not convenient approach. Flag NotifyAboutFontEmbeddingError enforces exception mechanism for cases when attempt to embed font became failed. If this flag is set an exception of type FontEmbeddingException will be thrown. By default false.
+有时无法将所需字体嵌入到文档中。原因有很多，例如许可证限制或在目标计算机上找不到所需的字体。当这种情况出现时，它不是简单地检测到的，因为所需的字体是通过一组属性标志 Font.IsEmbedded = true; 嵌入的；当然可以在设置后立即读取此属性，但这不是方便的方法。标志 NotifyAboutFontEmbeddingError 在尝试嵌入字体失败的情况下强制执行异常机制。如果设置此标志，将抛出 FontEmbeddingException 类型的异常。默认为假。
 
-**Returns:**
-boolean - boolean value
+**退货：**
+boolean - 布尔值
 ### setNotifyAboutFontEmbeddingError(boolean value) {#setNotifyAboutFontEmbeddingError-boolean-}
 ```
-公共抽象无效 setNotifyAboutFontEmbeddingError（布尔值）
+public abstract void setNotifyAboutFontEmbeddingError(boolean value)
 ```
 
 
-Sometimes it's not possible to embed desired font into document. There are many reasons, for example license restrictions or when desired font was not found on destination computer. When this situation comes it's not simply to detect, because desired font is embedded via set of property flag Font.IsEmbedded = true; Of course it's possible to read this property immediately after it was set but it's not convenient approach. Flag NotifyAboutFontEmbeddingError enforces exception mechanism for cases when attempt to embed font became failed. If this flag is set an exception of type FontEmbeddingException will be thrown. By default false.
+有时无法将所需字体嵌入到文档中。原因有很多，例如许可证限制或在目标计算机上找不到所需的字体。当这种情况出现时，它不是简单地检测到的，因为所需的字体是通过一组属性标志 Font.IsEmbedded = true; 嵌入的；当然可以在设置后立即读取此属性，但这不是方便的方法。标志 NotifyAboutFontEmbeddingError 在尝试嵌入字体失败的情况下强制执行异常机制。如果设置此标志，将抛出 FontEmbeddingException 类型的异常。默认为假。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | 布尔值 |

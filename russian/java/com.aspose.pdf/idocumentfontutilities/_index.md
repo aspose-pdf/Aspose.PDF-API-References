@@ -1,40 +1,42 @@
 ---
-Название: Document.IDocumentFontUtilities
+title: Document.IDocumentFontUtilities
 second_title: Aspose.PDF для справки по Java API
-описание: Содержит функциональность для настройки шрифтов
-тип: документы
-вес: 12
-URL-адрес: /java/com.aspose.pdf/document.idocumentfontutilities/
----```
-общедоступный статический интерфейс Document.IDocumentFontUtilities
+description: Содержит функциональность для настройки шрифтов
+type: docs
+weight: 12
+url: /ru/java/com.aspose.pdf/document.idocumentfontutilities/
+---
+```
+public static interface Document.IDocumentFontUtilities
 ```
 
-Holds functionality to tune fonts
-## Methods
+Содержит функциональность для настройки шрифтов
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [getAllFonts()](#getAllFonts--) | Returns all fonts from document |
-| [subsetFonts(byte subsetStrategy)](#subsetFonts-byte-) | Subsets all fonts in document |
+| [getAllFonts()](#getAllFonts--) | Возвращает все шрифты из документа |
+| [subsetFonts(byte subsetStrategy)](#subsetFonts-byte-) | Подмножество всех шрифтов в документе |
 ### getAllFonts() {#getAllFonts--}
 ```
-общедоступный абстрактный шрифт[] получить все шрифты ()
+public abstract Font[] getAllFonts()
 ```
 
 
-Returns all fonts from document
+Возвращает все шрифты из документа
 
-**Returns:**
-com.aspose.pdf.Font[] - fonts
+**Возвращает:**
+com.aspose.pdf.Шрифт[- шрифты
 ### subsetFonts(byte subsetStrategy) {#subsetFonts-byte-}
 ```
-public abstract void subsetFonts (byte subsetStrategy)
+public abstract void subsetFonts(byte subsetStrategy)
 ```
 
 
-Subsets all fonts in document
+Подмножество всех шрифтов в документе
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| subsetStrategy | byte | FontSubsetStrategy element |
+| subsetStrategy | byte | Элемент FontSubsetStrategy |

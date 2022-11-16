@@ -1,32 +1,34 @@
 ---
-标题：MemoryExtender.CallBackPageImage
-second_title: Aspose.PDF for Java API 参考
-描述：操作缓存的回调过程。
-类型：文档
-体重：10
-网址：/java/com.aspose.pdf/memoryextender.callbackpageimage/
----```
-公共静态接口 MemoryExtender.CallBackPageImage
+title: MemoryExtender.CallBackPageImage
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 操作缓存的回调过程。
+type: docs
+weight: 10
+url: /zh/java/com.aspose.pdf/memoryextender.callbackpageimage/
+---
+```
+public static interface MemoryExtender.CallBackPageImage
 ```
 
-The call back procedure for manipulating the cache.
-## Methods
+操作缓存的回调过程。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [invoke(BufferedImage img)](#invoke-java.awt.image.BufferedImage-) | This method should give an answer, to add the new image into the cache or not. |
+| [invoke(BufferedImage img)](#invoke-java.awt.image.BufferedImage-) | 这个方法应该给出一个答案，是否将新图像添加到缓存中。 |
 ### invoke(BufferedImage img) {#invoke-java.awt.image.BufferedImage-}
 ```
-公共抽象布尔调用（BufferedImage img）
+public abstract boolean invoke(BufferedImage img)
 ```
 
 
-This method should give an answer, to add the new image into the cache or not.
+这个方法应该给出一个答案，是否将新图像添加到缓存中。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| img | java.awt.image.BufferedImage | Image object |
+| img | java.awt.image.BufferedImage | 图像对象 |
 
-**Returns:**
-boolean - boolean value
+**退货：**
+boolean - 布尔值

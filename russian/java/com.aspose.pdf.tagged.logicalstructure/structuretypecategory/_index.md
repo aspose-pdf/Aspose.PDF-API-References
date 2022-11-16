@@ -144,7 +144,7 @@ public static StructureTypeCategory to_StructureTypeCategory(String name)
 | name | java.lang.String | Название. |
 
 **Возвращает:**
-[StructureTypeCategory](../../com.aspose.pdf.tagged.logicalstructure/structuretypecategory) - Результат преобразования.
+[StructureTypeCategory](../../com.aspose.pdf.tagged.logicalstructure/structuretypecategory) Результат преобразования.
 ### wait() {#wait--}
 ```
 public final void wait()

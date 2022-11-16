@@ -1,40 +1,42 @@
 ---
-标题：ITextElement
-second_title: Aspose.PDF for Java API 参考
-描述：用于呈现文本结构元素的界面。
-类型：文档
-重量：20
-网址：/java/com.aspose.pdf.tagged.logicalstructure.elements/itextelement/
----```
-公共接口 ITextElement
+title: ITextElement
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 用于呈现文本结构元素的界面。
+type: docs
+weight: 20
+url: /zh/java/com.aspose.pdf.tagged.logicalstructure.elements/itextelement/
+---
+```
+public interface ITextElement
 ```
 
-Interface for presenting text structure elements.
-## Methods
+用于呈现文本结构元素的界面。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [getStructureTextState()](#getStructureTextState--) | Gets  StructureTextState  object for text structure element. |
-| [setText(String text)](#setText-java.lang.String-) | Appends text content to current text element. |
+| [getStructureTextState()](#getStructureTextState--) | 获取文本结构元素的 StructureTextState 对象。 |
+| [setText(String text)](#setText-java.lang.String-) | 将文本内容附加到当前文本元素。 |
 ### getStructureTextState() {#getStructureTextState--}
 ```
-公共抽象 StructureTextState getStructureTextState()
+public abstract StructureTextState getStructureTextState()
 ```
 
 
-Gets  StructureTextState  object for text structure element.
+获取文本结构元素的 StructureTextState 对象。
 
-**Returns:**
-[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) - Value:  StructureTextState  object for text structure element.
+**退货：**
+[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) 值：文本结构元素的 StructureTextState 对象。
 ### setText(String text) {#setText-java.lang.String-}
 ```
-公共抽象无效 setText（字符串文本）
+public abstract void setText(String text)
 ```
 
 
-Appends text content to current text element.
+将文本内容附加到当前文本元素。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | java.lang.String | Text content |
+| text | java.lang.String | 文字内容 |

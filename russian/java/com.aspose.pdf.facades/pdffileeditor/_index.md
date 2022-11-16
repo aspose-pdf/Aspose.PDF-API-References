@@ -1779,7 +1779,7 @@ PdfFileEditor fileEditor = новый PdfFileEditor();
      //нижнее поле 10%
      PdfFileEditor.ContentsResizeValue.percents(10)
         );
- fileEditor.resizeContents(doc, новый интервал[{ 1, 2, 3}, параметры);
+ fileEditor.resizeContents(doc, новый интервал[] { 1, 2, 3}, параметры);
  doc.save("output.pdf");
 ```
 
@@ -1818,7 +1818,7 @@ PdfFileEditor fileEditor = новый PdfFileEditor();
 	          //нижнее поле 10%
 	          PdfFileEditor.ContentsResizeValue.percents(10)
 	             );
-	      fileEditor.resizeContents (источник, пункт назначения, новый интервал[{ 1, 2, 3}, параметры);
+	      fileEditor.resizeContents (источник, пункт назначения, новый интервал[] { 1, 2, 3}, параметры);
 	      назначение.закрыть();
 ```
 
@@ -2544,7 +2544,7 @@ Split the Pdf file into single-page documents and saves it into specified path. 
 
 ### splitToPages(String inputFile) {#splitToPages-java.lang.String-}
 ```
-общедоступный ByteArrayInputStream[] splitToPages (строка inputFile)
+общедоступный ByteArrayInputStream[splitToPages (строка inputFile)
 ```
 
 

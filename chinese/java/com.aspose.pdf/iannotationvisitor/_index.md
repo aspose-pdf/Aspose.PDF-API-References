@@ -1,51 +1,53 @@
 ---
-标题： IAnnotationVisitor
-second_title: Aspose.PDF for Java API 参考
-description：定义访问不同文档注释的Visitor。
-类型：文档
-重量：430
-网址：/java/com.aspose.pdf/iannotationvisitor/
----```
-公共接口 IAnnotationVisitor
+title: IAnnotationVisitor
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 定义访问不同文档注释的Visitor。
+type: docs
+weight: 430
+url: /zh/java/com.aspose.pdf/iannotationvisitor/
+---
+```
+public interface IAnnotationVisitor
 ```
 
-Defines Visitor for visiting different document annotations.
-## Methods
+定义访问不同文档注释的Visitor。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [visit(CaretAnnotation caret)](#visit-com.aspose.pdf.CaretAnnotation-) | Visit/select caret annotation. |
-| [visit(CircleAnnotation circle)](#visit-com.aspose.pdf.CircleAnnotation-) | Visit/select circle annotation. |
-| [visit(FileAttachmentAnnotation attachment)](#visit-com.aspose.pdf.FileAttachmentAnnotation-) | Visit/select attachment annotation. |
-| [visit(FreeTextAnnotation freetext)](#visit-com.aspose.pdf.FreeTextAnnotation-) | Visit/select freetext annotation. |
-| [visit(HighlightAnnotation highlight)](#visit-com.aspose.pdf.HighlightAnnotation-) | Visit/select highlight annotation. |
-| [visit(InkAnnotation ink)](#visit-com.aspose.pdf.InkAnnotation-) | Visit/select ink annotation. |
-| [visit(LineAnnotation line)](#visit-com.aspose.pdf.LineAnnotation-) | Visit/select line annotation. |
-| [visit(LinkAnnotation link)](#visit-com.aspose.pdf.LinkAnnotation-) | Visit/select link annotation. |
-| [visit(MovieAnnotation movie)](#visit-com.aspose.pdf.MovieAnnotation-) | Visit/select movie annotation. |
-| [visit(PolygonAnnotation polygon)](#visit-com.aspose.pdf.PolygonAnnotation-) | Visit/select polygon annotation. |
-| [visit(PolylineAnnotation polyline)](#visit-com.aspose.pdf.PolylineAnnotation-) | Visit/select polyline annotation. |
-| [visit(PopupAnnotation popup)](#visit-com.aspose.pdf.PopupAnnotation-) | Visit/select popup annotation. |
-| [visit(ScreenAnnotation screen)](#visit-com.aspose.pdf.ScreenAnnotation-) | Visit/select screen annotation. |
-| [visit(SquareAnnotation square)](#visit-com.aspose.pdf.SquareAnnotation-) | Visit/select square annotation. |
-| [visit(SquigglyAnnotation squiggly)](#visit-com.aspose.pdf.SquigglyAnnotation-) | Visit/select squiggly annotation. |
-| [visit(StampAnnotation stamp)](#visit-com.aspose.pdf.StampAnnotation-) | Visit/select stamp annotation. |
-| [visit(StrikeOutAnnotation strikeOut)](#visit-com.aspose.pdf.StrikeOutAnnotation-) | Visit/select strikeOut annotation. |
-| [visit(TextAnnotation text)](#visit-com.aspose.pdf.TextAnnotation-) | Visit/select text annotation. |
-| [visit(UnderlineAnnotation underline)](#visit-com.aspose.pdf.UnderlineAnnotation-) | Visit/select underline annotation. |
-| [visit(WidgetAnnotation widget)](#visit-com.aspose.pdf.WidgetAnnotation-) | Visit/select widget annotation. |
+| [visit(CaretAnnotation caret)](#visit-com.aspose.pdf.CaretAnnotation-) | 访问/选择插入符号注释。 |
+| [visit(CircleAnnotation circle)](#visit-com.aspose.pdf.CircleAnnotation-) | 访问/选择圆圈注释。 |
+| [visit(FileAttachmentAnnotation attachment)](#visit-com.aspose.pdf.FileAttachmentAnnotation-) | 访问/选择附件注释。 |
+| [visit(FreeTextAnnotation freetext)](#visit-com.aspose.pdf.FreeTextAnnotation-) | 访问/选择自由文本注释。 |
+| [visit(HighlightAnnotation highlight)](#visit-com.aspose.pdf.HighlightAnnotation-) | 访问/选择突出显示注释。 |
+| [visit(InkAnnotation ink)](#visit-com.aspose.pdf.InkAnnotation-) | 访问/选择墨迹注释。 |
+| [visit(LineAnnotation line)](#visit-com.aspose.pdf.LineAnnotation-) | 访问/选择行注释。 |
+| [visit(LinkAnnotation link)](#visit-com.aspose.pdf.LinkAnnotation-) | 访问/选择链接注释。 |
+| [visit(MovieAnnotation movie)](#visit-com.aspose.pdf.MovieAnnotation-) | 访问/选择电影注释。 |
+| [visit(PolygonAnnotation polygon)](#visit-com.aspose.pdf.PolygonAnnotation-) | 访问/选择多边形注释。 |
+| [visit(PolylineAnnotation polyline)](#visit-com.aspose.pdf.PolylineAnnotation-) | 访问/选择折线注释。 |
+| [visit(PopupAnnotation popup)](#visit-com.aspose.pdf.PopupAnnotation-) | 访问/选择弹出注释。 |
+| [visit(ScreenAnnotation screen)](#visit-com.aspose.pdf.ScreenAnnotation-) | 访问/选择屏幕注释。 |
+| [visit(SquareAnnotation square)](#visit-com.aspose.pdf.SquareAnnotation-) | 访问/选择方形注释。 |
+| [visit(SquigglyAnnotation squiggly)](#visit-com.aspose.pdf.SquigglyAnnotation-) | 访问/选择波浪注释。 |
+| [visit(StampAnnotation stamp)](#visit-com.aspose.pdf.StampAnnotation-) | 访问/选择邮票注释。 |
+| [visit(StrikeOutAnnotation strikeOut)](#visit-com.aspose.pdf.StrikeOutAnnotation-) | 访问/选择删除线注释。 |
+| [visit(TextAnnotation text)](#visit-com.aspose.pdf.TextAnnotation-) | 访问/选择文本注释。 |
+| [visit(UnderlineAnnotation underline)](#visit-com.aspose.pdf.UnderlineAnnotation-) | 访问/选择下划线注释。 |
+| [visit(WidgetAnnotation widget)](#visit-com.aspose.pdf.WidgetAnnotation-) | 访问/选择小部件注释。 |
 ### visit(CaretAnnotation caret) {#visit-com.aspose.pdf.CaretAnnotation-}
 ```
-公共抽象无效访问（CaretAnnotation caret）
+public abstract void visit(CaretAnnotation caret)
 ```
 
 
-Visit/select caret annotation.
+访问/选择插入符号注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| caret | [CaretAnnotation](../../com.aspose.pdf/caretannotation) | CaretAnnotation object example/template. |
+| caret | [CaretAnnotation](../../com.aspose.pdf/caretannotation) | CaretAnnotation 对象示例/模板。 |
 
 ### visit(CircleAnnotation circle) {#visit-com.aspose.pdf.CircleAnnotation-}
 ```
@@ -53,64 +55,69 @@ public abstract void visit(CircleAnnotation circle)
 ```
 
 
-Visit/select circle annotation.
+访问/选择圆圈注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| circle | [CircleAnnotation](../../com.aspose.pdf/circleannotation) | CircleAnnotation object example/template. |
+| circle | [CircleAnnotation](../../com.aspose.pdf/circleannotation) | CircleAnnotation 对象示例/模板。 |
 
 ### visit(FileAttachmentAnnotation attachment) {#visit-com.aspose.pdf.FileAttachmentAnnotation-}
 ```
-公共抽象无效访问（FileAttachmentAnnotation附件）
+public abstract void visit(FileAttachmentAnnotation attachment)
 ```
 
 
-Visit/select attachment annotation.
+访问/选择附件注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| attachment | [FileAttachmentAnnotation](../../com.aspose.pdf/fileattachmentannotation) | FileAttachmentAnnotation object example/template. |
+| attachment | [FileAttachmentAnnotation](../../com.aspose.pdf/fileattachmentannotation) | FileAttachmentAnnotation 对象示例/模板。 |
 
 ### visit(FreeTextAnnotation freetext) {#visit-com.aspose.pdf.FreeTextAnnotation-}
 ```
-公共抽象无效访问（FreeTextAnnotation freetext）
+public abstract void visit(FreeTextAnnotation freetext)
 ```
 
 
-Visit/select freetext annotation.
+访问/选择自由文本注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| freetext | [FreeTextAnnotation](../../com.aspose.pdf/freetextannotation) | FreeTextAnnotation object example/template. |
+| freetext | [FreeTextAnnotation](../../com.aspose.pdf/freetextannotation) | FreeTextAnnotation 对象示例/模板。 |
 
 ### visit(HighlightAnnotation highlight) {#visit-com.aspose.pdf.HighlightAnnotation-}
 ```
-public abstract void visit(Highlight注解高亮)
+public abstract void visit(HighlightAnnotation highlight)
 ```
 
 
-Visit/select highlight annotation.
+访问/选择突出显示注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| highlight | [HighlightAnnotation](../../com.aspose.pdf/highlightannotation) | HighlightAnnotation object example/template. |
+| highlight | [HighlightAnnotation](../../com.aspose.pdf/highlightannotation) | HighlightAnnotation 对象示例/模板。 |
 
 ### visit(InkAnnotation ink) {#visit-com.aspose.pdf.InkAnnotation-}
 ```
-公共抽象无效访问（InkAnnotation ink）
+public abstract void visit(InkAnnotation ink)
 ```
 
 
-Visit/select ink annotation.
+访问/选择墨迹注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| ink | [InkAnnotation](../../com.aspose.pdf/inkannotation) | InkAnnotation object example/template. |
+| ink | [InkAnnotation](../../com.aspose.pdf/inkannotation) | InkAnnotation 对象示例/模板。 |
 
 ### visit(LineAnnotation line) {#visit-com.aspose.pdf.LineAnnotation-}
 ```
@@ -118,64 +125,69 @@ public abstract void visit(LineAnnotation line)
 ```
 
 
-Visit/select line annotation.
+访问/选择行注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| line | [LineAnnotation](../../com.aspose.pdf/lineannotation) | LineAnnotation object example/template. |
+| line | [LineAnnotation](../../com.aspose.pdf/lineannotation) | LineAnnotation 对象示例/模板。 |
 
 ### visit(LinkAnnotation link) {#visit-com.aspose.pdf.LinkAnnotation-}
 ```
-public abstract void visit(LinkAnnotation 链接)
+public abstract void visit(LinkAnnotation link)
 ```
 
 
-Visit/select link annotation.
+访问/选择链接注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| link | [LinkAnnotation](../../com.aspose.pdf/linkannotation) | LinkAnnotation object example/template. |
+| link | [LinkAnnotation](../../com.aspose.pdf/linkannotation) | LinkAnnotation 对象示例/模板。 |
 
 ### visit(MovieAnnotation movie) {#visit-com.aspose.pdf.MovieAnnotation-}
 ```
-public abstract void visit(MovieAnnotation 电影)
+public abstract void visit(MovieAnnotation movie)
 ```
 
 
-Visit/select movie annotation.
+访问/选择电影注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| movie | [MovieAnnotation](../../com.aspose.pdf/movieannotation) | MovieAnnotation object example/template. |
+| movie | [MovieAnnotation](../../com.aspose.pdf/movieannotation) | MovieAnnotation 对象示例/模板。 |
 
 ### visit(PolygonAnnotation polygon) {#visit-com.aspose.pdf.PolygonAnnotation-}
 ```
-public abstract void visit(PolygonAnnotation 多边形)
+public abstract void visit(PolygonAnnotation polygon)
 ```
 
 
-Visit/select polygon annotation.
+访问/选择多边形注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| polygon | [PolygonAnnotation](../../com.aspose.pdf/polygonannotation) | PolygonAnnotation object example/template. |
+| polygon | [PolygonAnnotation](../../com.aspose.pdf/polygonannotation) | PolygonAnnotation 对象示例/模板。 |
 
 ### visit(PolylineAnnotation polyline) {#visit-com.aspose.pdf.PolylineAnnotation-}
 ```
-public abstract void visit(PolylineAnnotation 折线)
+public abstract void visit(PolylineAnnotation polyline)
 ```
 
 
-Visit/select polyline annotation.
+访问/选择折线注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| polyline | [PolylineAnnotation](../../com.aspose.pdf/polylineannotation) | PolylineAnnotation object example/template. |
+| polyline | [PolylineAnnotation](../../com.aspose.pdf/polylineannotation) | PolylineAnnotation 对象示例/模板。 |
 
 ### visit(PopupAnnotation popup) {#visit-com.aspose.pdf.PopupAnnotation-}
 ```
@@ -183,12 +195,13 @@ public abstract void visit(PopupAnnotation popup)
 ```
 
 
-Visit/select popup annotation.
+访问/选择弹出注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| popup | [PopupAnnotation](../../com.aspose.pdf/popupannotation) | PopupAnnotation object example/template. |
+| popup | [PopupAnnotation](../../com.aspose.pdf/popupannotation) | PopupAnnotation 对象示例/模板。 |
 
 ### visit(ScreenAnnotation screen) {#visit-com.aspose.pdf.ScreenAnnotation-}
 ```
@@ -196,12 +209,13 @@ public abstract void visit(ScreenAnnotation screen)
 ```
 
 
-Visit/select screen annotation.
+访问/选择屏幕注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| screen | [ScreenAnnotation](../../com.aspose.pdf/screenannotation) | ScreenAnnotation object example/template. |
+| screen | [ScreenAnnotation](../../com.aspose.pdf/screenannotation) | ScreenAnnotation 对象示例/模板。 |
 
 ### visit(SquareAnnotation square) {#visit-com.aspose.pdf.SquareAnnotation-}
 ```
@@ -209,51 +223,55 @@ public abstract void visit(SquareAnnotation square)
 ```
 
 
-Visit/select square annotation.
+访问/选择方形注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| square | [SquareAnnotation](../../com.aspose.pdf/squareannotation) | SquareAnnotation object example/template. |
+| square | [SquareAnnotation](../../com.aspose.pdf/squareannotation) | SquareAnnotation 对象示例/模板。 |
 
 ### visit(SquigglyAnnotation squiggly) {#visit-com.aspose.pdf.SquigglyAnnotation-}
 ```
-公共抽象无效访问（SquigglyAnnotation squiggly）
+public abstract void visit(SquigglyAnnotation squiggly)
 ```
 
 
-Visit/select squiggly annotation.
+访问/选择波浪注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| squiggly | [SquigglyAnnotation](../../com.aspose.pdf/squigglyannotation) | SquigglyAnnotation object example/template. |
+| squiggly | [SquigglyAnnotation](../../com.aspose.pdf/squigglyannotation) | SquigglyAnnotation 对象示例/模板。 |
 
 ### visit(StampAnnotation stamp) {#visit-com.aspose.pdf.StampAnnotation-}
 ```
-public abstract void visit(戳注释戳)
+public abstract void visit(StampAnnotation stamp)
 ```
 
 
-Visit/select stamp annotation.
+访问/选择邮票注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stamp | [StampAnnotation](../../com.aspose.pdf/stampannotation) | StampAnnotation object example/template. |
+| stamp | [StampAnnotation](../../com.aspose.pdf/stampannotation) | StampAnnotation 对象示例/模板。 |
 
 ### visit(StrikeOutAnnotation strikeOut) {#visit-com.aspose.pdf.StrikeOutAnnotation-}
 ```
-公共抽象无效访问（StrikeOutAnnotation strikeOut）
+public abstract void visit(StrikeOutAnnotation strikeOut)
 ```
 
 
-Visit/select strikeOut annotation.
+访问/选择删除线注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| strikeOut | [StrikeOutAnnotation](../../com.aspose.pdf/strikeoutannotation) | StrikeOutAnnotation object example/template. |
+| strikeOut | [StrikeOutAnnotation](../../com.aspose.pdf/strikeoutannotation) | StrikeOutAnnotation 对象示例/模板。 |
 
 ### visit(TextAnnotation text) {#visit-com.aspose.pdf.TextAnnotation-}
 ```
@@ -261,35 +279,38 @@ public abstract void visit(TextAnnotation text)
 ```
 
 
-Visit/select text annotation.
+访问/选择文本注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| text | [TextAnnotation](../../com.aspose.pdf/textannotation) | TextAnnotation object example/template. |
+| text | [TextAnnotation](../../com.aspose.pdf/textannotation) | TextAnnotation 对象示例/模板。 |
 
 ### visit(UnderlineAnnotation underline) {#visit-com.aspose.pdf.UnderlineAnnotation-}
 ```
-public abstract void visit(UnderlineAnnotation 下划线)
+public abstract void visit(UnderlineAnnotation underline)
 ```
 
 
-Visit/select underline annotation.
+访问/选择下划线注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| underline | [UnderlineAnnotation](../../com.aspose.pdf/underlineannotation) | UnderlineAnnotation object example/template. |
+| underline | [UnderlineAnnotation](../../com.aspose.pdf/underlineannotation) | UnderlineAnnotation 对象示例/模板。 |
 
 ### visit(WidgetAnnotation widget) {#visit-com.aspose.pdf.WidgetAnnotation-}
 ```
-公共抽象无效访问（WidgetAnnotation 小部件）
+public abstract void visit(WidgetAnnotation widget)
 ```
 
 
-Visit/select widget annotation.
+访问/选择小部件注释。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| widget | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | WidgetAnnotation object example/template. |
+| widget | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | WidgetAnnotation 对象示例/模板。 |

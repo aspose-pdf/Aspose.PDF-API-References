@@ -229,7 +229,7 @@ public static AttributeOwnerStandard to_AttributeOwnerStandard(String owner)
 | owner | java.lang.String | 主人。 |
 
 **退货：**
-[AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard) - 转换的结果。
+[AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard) 转换的结果。
 ### wait() {#wait--}
 ```
 public final void wait()

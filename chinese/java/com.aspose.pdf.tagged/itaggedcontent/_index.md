@@ -1,468 +1,472 @@
 ---
-标题：ITaggedContent
-second_title: Aspose.PDF for Java API 参考
-描述：表示处理文档的 TaggedPdf 内容的接口。
-类型：文档
-体重：11
-网址：/java/com.aspose.pdf.tagged/itaggedcontent/
----```
-公共接口 ITaggedContent
+title: ITaggedContent
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 表示用于处理文档的 TaggedPdf 内容的接口。
+type: docs
+weight: 11
+url: /zh/java/com.aspose.pdf.tagged/itaggedcontent/
+---
+```
+public interface ITaggedContent
 ```
 
-Represents interface for work with TaggedPdf content of document.
-## Methods
+表示用于处理文档的 TaggedPdf 内容的接口。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [createAnnotElement()](#createAnnotElement--) | Creates [AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement). |
-| [createArtElement()](#createArtElement--) | Creates [ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement). |
-| [createBibEntryElement()](#createBibEntryElement--) | Creates [BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement). |
-| [createBlockQuoteElement()](#createBlockQuoteElement--) | Creates [BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement). |
-| [createCaptionElement()](#createCaptionElement--) | Creates [CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement). |
-| [createCodeElement()](#createCodeElement--) | Creates [CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement). |
-| [createDivElement()](#createDivElement--) | Creates [DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement). |
-| [createFigureElement()](#createFigureElement--) | Creates [FigureElement](../../com.aspose.pdf/figureelement). |
-| [createFormElement()](#createFormElement--) | Creates [FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement). |
-| [createFormulaElement()](#createFormulaElement--) | Creates [FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement). |
-| [createHeaderElement()](#createHeaderElement--) | Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement). |
-| [createHeaderElement(int level)](#createHeaderElement-int-) | Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) with level. |
-| [createIndexElement()](#createIndexElement--) | Creates [IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement). |
-| [createLinkElement()](#createLinkElement--) | Creates [LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement). |
-| [createListElement()](#createListElement--) | Creates [ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement). |
-| [createNonStructElement()](#createNonStructElement--) | Creates [NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement). |
-| [createNoteElement()](#createNoteElement--) | Creates [NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement). |
-| [createParagraphElement()](#createParagraphElement--) | Creates [ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement). |
-| [createPartElement()](#createPartElement--) | Creates [PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement). |
-| [createPrivateElement()](#createPrivateElement--) | Creates [PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement). |
-| [createQuoteElement()](#createQuoteElement--) | Creates [QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement). |
-| [createReferenceElement()](#createReferenceElement--) | Creates [ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement). |
-| [createRubyElement()](#createRubyElement--) | Creates [RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement). |
-| [createSectElement()](#createSectElement--) | Creates [SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement). |
-| [createSpanElement()](#createSpanElement--) | Creates [SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement). |
-| [createTOCElement()](#createTOCElement--) | Creates [TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement). |
-| [createTOCIElement()](#createTOCIElement--) | Creates [TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement). |
-| [createTableElement()](#createTableElement--) | Creates [TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement). |
-| [createTableTBodyElement()](#createTableTBodyElement--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
-| [createTableTDElement()](#createTableTDElement--) | Creates [TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement). |
-| [createTableTFootElement()](#createTableTFootElement--) | Creates [TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement). |
-| [createTableTHElement()](#createTableTHElement--) | Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement). |
-| [createTableTHeadElement()](#createTableTHeadElement--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
-| [createTableTRElement()](#createTableTRElement--) | Creates [TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement). |
-| [createWarichuElement()](#createWarichuElement--) | Creates [WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement). |
-| [getRootElement()](#getRootElement--) | Gets root [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) of logical structure of PDF document. |
-| [getStructTreeRootElement()](#getStructTreeRootElement--) | Gets [StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) of PDF document. |
-| [getStructureTextState()](#getStructureTextState--) | Get [StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) settings for whole document. |
-| [setLanguage(String lang)](#setLanguage-java.lang.String-) | Sets natural language for pdf document. |
-| [setTitle(String title)](#setTitle-java.lang.String-) | Sets title for PDF document. |
+| [createAnnotElement()](#createAnnotElement--) | 创造[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement). |
+| [createArtElement()](#createArtElement--) | 创造[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement). |
+| [createBibEntryElement()](#createBibEntryElement--) | 创造[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement). |
+| [createBlockQuoteElement()](#createBlockQuoteElement--) | 创造[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement). |
+| [createCaptionElement()](#createCaptionElement--) | 创造[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement). |
+| [createCodeElement()](#createCodeElement--) | 创造[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement). |
+| [createDivElement()](#createDivElement--) | 创造[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement). |
+| [createFigureElement()](#createFigureElement--) | 创造[FigureElement](../../com.aspose.pdf/figureelement). |
+| [createFormElement()](#createFormElement--) | 创造[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement). |
+| [createFormulaElement()](#createFormulaElement--) | 创造[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement). |
+| [createHeaderElement()](#createHeaderElement--) | 创造[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement). |
+| [createHeaderElement(int level)](#createHeaderElement-int-) | 创造[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement)与水平。 |
+| [createIndexElement()](#createIndexElement--) | 创造[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement). |
+| [createLinkElement()](#createLinkElement--) | 创造[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement). |
+| [createListElement()](#createListElement--) | 创造[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement). |
+| [createNonStructElement()](#createNonStructElement--) | 创造[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement). |
+| [createNoteElement()](#createNoteElement--) | 创造[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement). |
+| [createParagraphElement()](#createParagraphElement--) | 创造[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement). |
+| [createPartElement()](#createPartElement--) | 创造[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement). |
+| [createPrivateElement()](#createPrivateElement--) | 创造[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement). |
+| [createQuoteElement()](#createQuoteElement--) | 创造[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement). |
+| [createReferenceElement()](#createReferenceElement--) | 创造[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement). |
+| [createRubyElement()](#createRubyElement--) | 创造[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement). |
+| [createSectElement()](#createSectElement--) | 创造[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement). |
+| [createSpanElement()](#createSpanElement--) | 创造[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement). |
+| [createTOCElement()](#createTOCElement--) | 创造[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement). |
+| [createTOCIElement()](#createTOCIElement--) | 创造[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement). |
+| [createTableElement()](#createTableElement--) | 创造[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement). |
+| [createTableTBodyElement()](#createTableTBodyElement--) | 创造[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
+| [createTableTDElement()](#createTableTDElement--) | 创造[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement). |
+| [createTableTFootElement()](#createTableTFootElement--) | 创造[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement). |
+| [createTableTHElement()](#createTableTHElement--) | 创造[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement). |
+| [createTableTHeadElement()](#createTableTHeadElement--) | 创造[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
+| [createTableTRElement()](#createTableTRElement--) | 创造[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement). |
+| [createWarichuElement()](#createWarichuElement--) | 创造[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement). |
+| [getRootElement()](#getRootElement--) | 获得根[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement)PDF文档的逻辑结构。 |
+| [getStructTreeRootElement()](#getStructTreeRootElement--) | 得到[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement)的PDF文件。 |
+| [getStructureTextState()](#getStructureTextState--) | 得到[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate)整个文档的设置。 |
+| [setLanguage(String lang)](#setLanguage-java.lang.String-) | 为 pdf 文档设置自然语言。 |
+| [setTitle(String title)](#setTitle-java.lang.String-) | 设置 PDF 文档的标题。 |
 ### createAnnotElement() {#createAnnotElement--}
 ```
-公共抽象 AnnotElement createAnnotElement()
+public abstract AnnotElement createAnnotElement()
 ```
 
 
-Creates [AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement).
+创造[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement).
 
-**Returns:**
-[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement) - Created structure element.
+**退货：**
+[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement) - 创建结构元素。
 ### createArtElement() {#createArtElement--}
 ```
-公共抽象 ArtElement createArtElement()
+public abstract ArtElement createArtElement()
 ```
 
 
-Creates [ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement).
+创造[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement).
 
-**Returns:**
-[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement) - Created structure element.
+**退货：**
+[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement) - 创建结构元素。
 ### createBibEntryElement() {#createBibEntryElement--}
 ```
-公共抽象 BibEntryElement createBibEntryElement()
+public abstract BibEntryElement createBibEntryElement()
 ```
 
 
-Creates [BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement).
+创造[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement).
 
-**Returns:**
-[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement) - Created structure element.
+**退货：**
+[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement) - 创建结构元素。
 ### createBlockQuoteElement() {#createBlockQuoteElement--}
 ```
-公共抽象 BlockQuoteElement createBlockQuoteElement()
+public abstract BlockQuoteElement createBlockQuoteElement()
 ```
 
 
-Creates [BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement).
+创造[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement).
 
-**Returns:**
-[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement) - Created structure element.
+**退货：**
+[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement) - 创建结构元素。
 ### createCaptionElement() {#createCaptionElement--}
 ```
-公共抽象标题元素 createCaptionElement()
+public abstract CaptionElement createCaptionElement()
 ```
 
 
-Creates [CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement).
+创造[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement).
 
-**Returns:**
-[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement) - Created structure element.
+**退货：**
+[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement) - 创建结构元素。
 ### createCodeElement() {#createCodeElement--}
 ```
-公共抽象 CodeElement createCodeElement()
+public abstract CodeElement createCodeElement()
 ```
 
 
-Creates [CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement).
+创造[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement).
 
-**Returns:**
-[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement) - Created structure element.
+**退货：**
+[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement) - 创建结构元素。
 ### createDivElement() {#createDivElement--}
 ```
-公共抽象 DivElement createDivElement()
+public abstract DivElement createDivElement()
 ```
 
 
-Creates [DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement).
+创造[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement).
 
-**Returns:**
-[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement) - Created structure element.
+**退货：**
+[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement) - 创建结构元素。
 ### createFigureElement() {#createFigureElement--}
 ```
-公共抽象 FigureElement createFigureElement()
+public abstract FigureElement createFigureElement()
 ```
 
 
-Creates [FigureElement](../../com.aspose.pdf/figureelement).
+创造[FigureElement](../../com.aspose.pdf/figureelement).
 
-**Returns:**
-[FigureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/figureelement) - Created structure element.
+**退货：**
+[FigureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/figureelement) - 创建结构元素。
 ### createFormElement() {#createFormElement--}
 ```
-公共抽象 FormElement createFormElement()
+public abstract FormElement createFormElement()
 ```
 
 
-Creates [FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement).
+创造[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement).
 
-**Returns:**
-[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement) - Created structure element.
+**退货：**
+[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement) - 创建结构元素。
 ### createFormulaElement() {#createFormulaElement--}
 ```
-公共抽象 FormulaElement createFormulaElement()
+public abstract FormulaElement createFormulaElement()
 ```
 
 
-Creates [FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement).
+创造[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement).
 
-**Returns:**
-[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement) - Created structure element.
+**退货：**
+[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement) - 创建结构元素。
 ### createHeaderElement() {#createHeaderElement--}
 ```
-公共抽象 HeaderElement createHeaderElement()
+public abstract HeaderElement createHeaderElement()
 ```
 
 
-Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement).
+创造[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement).
 
-**Returns:**
-[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - Created structure element.
+**退货：**
+[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - 创建结构元素。
 ### createHeaderElement(int level) {#createHeaderElement-int-}
 ```
-公共抽象 HeaderElement createHeaderElement(int level)
+public abstract HeaderElement createHeaderElement(int level)
 ```
 
 
-Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) with level.
+创造[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement)与水平。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| level | int | The level of Header. Must be 1, 2, 3, 4, 5 or 6. |
+| level | int | 标头的级别。必须是 1、2、3、4、5 或 6。 |
 
-**Returns:**
-[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - Created structure element.
+**退货：**
+[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - 创建结构元素。
 ### createIndexElement() {#createIndexElement--}
 ```
-公共抽象索引元素 createIndexElement()
+public abstract IndexElement createIndexElement()
 ```
 
 
-Creates [IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement).
+创造[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement).
 
-**Returns:**
-[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement) - Created structure element.
+**退货：**
+[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement) - 创建结构元素。
 ### createLinkElement() {#createLinkElement--}
 ```
-公共抽象 LinkElement createLinkElement()
+public abstract LinkElement createLinkElement()
 ```
 
 
-Creates [LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement).
+创造[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement).
 
-**Returns:**
-[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement) - Created structure element.
+**退货：**
+[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement) - 创建结构元素。
 ### createListElement() {#createListElement--}
 ```
-公共抽象 ListElement createListElement()
+public abstract ListElement createListElement()
 ```
 
 
-Creates [ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement).
+创造[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement).
 
-**Returns:**
-[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement) - Created structure element.
+**退货：**
+[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement) - 创建结构元素。
 ### createNonStructElement() {#createNonStructElement--}
 ```
-公共抽象 NonStructElement createNonStructElement()
+public abstract NonStructElement createNonStructElement()
 ```
 
 
-Creates [NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement).
+创造[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement).
 
-**Returns:**
-[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement) - Created structure element.
+**退货：**
+[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement) - 创建结构元素。
 ### createNoteElement() {#createNoteElement--}
 ```
-公共抽象 NoteElement createNoteElement()
+public abstract NoteElement createNoteElement()
 ```
 
 
-Creates [NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement).
+创造[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement).
 
-**Returns:**
-[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement) - Created structure element.
+**退货：**
+[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement) - 创建结构元素。
 ### createParagraphElement() {#createParagraphElement--}
 ```
-公共抽象段落元素 createParagraphElement()
+public abstract ParagraphElement createParagraphElement()
 ```
 
 
-Creates [ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement).
+创造[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement).
 
-**Returns:**
-[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement) - Created structure element.
+**退货：**
+[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement) - 创建结构元素。
 ### createPartElement() {#createPartElement--}
 ```
-公共抽象 PartElement createPartElement()
+public abstract PartElement createPartElement()
 ```
 
 
-Creates [PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement).
+创造[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement).
 
-**Returns:**
-[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement) - Created structure element.
+**退货：**
+[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement) - 创建结构元素。
 ### createPrivateElement() {#createPrivateElement--}
 ```
-公共抽象 PrivateElement createPrivateElement()
+public abstract PrivateElement createPrivateElement()
 ```
 
 
-Creates [PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement).
+创造[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement).
 
-**Returns:**
-[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement) - Created structure element.
+**退货：**
+[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement) - 创建结构元素。
 ### createQuoteElement() {#createQuoteElement--}
 ```
-公共抽象 QuoteElement createQuoteElement()
+public abstract QuoteElement createQuoteElement()
 ```
 
 
-Creates [QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement).
+创造[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement).
 
-**Returns:**
-[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement) - Created structure element.
+**退货：**
+[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement) - 创建结构元素。
 ### createReferenceElement() {#createReferenceElement--}
 ```
-公共抽象 ReferenceElement createReferenceElement()
+public abstract ReferenceElement createReferenceElement()
 ```
 
 
-Creates [ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement).
+创造[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement).
 
-**Returns:**
-[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement) - Created structure element.
+**退货：**
+[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement) - 创建结构元素。
 ### createRubyElement() {#createRubyElement--}
 ```
-公共抽象 RubyElement createRubyElement()
+public abstract RubyElement createRubyElement()
 ```
 
 
-Creates [RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement).
+创造[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement).
 
-**Returns:**
-[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement) - Created structure element.
+**退货：**
+[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement) - 创建结构元素。
 ### createSectElement() {#createSectElement--}
 ```
-公共抽象 SectElement createSectElement()
+public abstract SectElement createSectElement()
 ```
 
 
-Creates [SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement).
+创造[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement).
 
-**Returns:**
-[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement) - Created structure element.
+**退货：**
+[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement) - 创建结构元素。
 ### createSpanElement() {#createSpanElement--}
 ```
-公共抽象 SpanElement createSpanElement()
+public abstract SpanElement createSpanElement()
 ```
 
 
-Creates [SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement).
+创造[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement).
 
-**Returns:**
-[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement) - Created structure element.
+**退货：**
+[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement) - 创建结构元素。
 ### createTOCElement() {#createTOCElement--}
 ```
-公共抽象 TOCElement createTOCElement()
+public abstract TOCElement createTOCElement()
 ```
 
 
-Creates [TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement).
+创造[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement).
 
-**Returns:**
-[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement) - Created structure element.
+**退货：**
+[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement) - 创建结构元素。
 ### createTOCIElement() {#createTOCIElement--}
 ```
-公共抽象 TOCIElement createTOCIElement()
+public abstract TOCIElement createTOCIElement()
 ```
 
 
-Creates [TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement).
+创造[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement).
 
-**Returns:**
-[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement) - Created structure element.
+**退货：**
+[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement) - 创建结构元素。
 ### createTableElement() {#createTableElement--}
 ```
-公共抽象 TableElement createTableElement()
+public abstract TableElement createTableElement()
 ```
 
 
-Creates [TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement).
+创造[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement).
 
-**Returns:**
-[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement) - Created structure element.
+**退货：**
+[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement) - 创建结构元素。
 ### createTableTBodyElement() {#createTableTBodyElement--}
 ```
-公共抽象 TableTBodyElement createTableTBodyElement()
+public abstract TableTBodyElement createTableTBodyElement()
 ```
 
 
-Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
+创造[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
 
-**Returns:**
-[TableTBodyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletbodyelement) - Created structure element.
+**退货：**
+[TableTBodyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletbodyelement) - 创建结构元素。
 ### createTableTDElement() {#createTableTDElement--}
 ```
-公共抽象 TableTDElement createTableTDElement()
+public abstract TableTDElement createTableTDElement()
 ```
 
 
-Creates [TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement).
+创造[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement).
 
-**Returns:**
-[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement) - Created structure element.
+**退货：**
+[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement) - 创建结构元素。
 ### createTableTFootElement() {#createTableTFootElement--}
 ```
-公共抽象 TableTFootElement createTableTFootElement()
+public abstract TableTFootElement createTableTFootElement()
 ```
 
 
-Creates [TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement).
+创造[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement).
 
-**Returns:**
-[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement) - Created structure element.
+**退货：**
+[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement) - 创建结构元素。
 ### createTableTHElement() {#createTableTHElement--}
 ```
-公共抽象 TableTHElement createTableTHElement()
+public abstract TableTHElement createTableTHElement()
 ```
 
 
-Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement).
+创造[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement).
 
-**Returns:**
-[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) - Created structure element.
+**退货：**
+[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) - 创建结构元素。
 ### createTableTHeadElement() {#createTableTHeadElement--}
 ```
-公共抽象 TableTHeadElement createTableTHeadElement()
+public abstract TableTHeadElement createTableTHeadElement()
 ```
 
 
-Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
+创造[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
 
-**Returns:**
-[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) - Created structure element.
+**退货：**
+[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) - 创建结构元素。
 ### createTableTRElement() {#createTableTRElement--}
 ```
-公共抽象 TableTRElement createTableTRElement()
+public abstract TableTRElement createTableTRElement()
 ```
 
 
-Creates [TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement).
+创造[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement).
 
-**Returns:**
-[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement) - Created structure element.
+**退货：**
+[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement) - 创建结构元素。
 ### createWarichuElement() {#createWarichuElement--}
 ```
-公共抽象 WarichuElement createWarichuElement()
+public abstract WarichuElement createWarichuElement()
 ```
 
 
-Creates [WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement).
+创造[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement).
 
-**Returns:**
-[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement) - Created structure element.
+**退货：**
+[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement) - 创建结构元素。
 ### getRootElement() {#getRootElement--}
 ```
-公共抽象结构元素 getRootElement()
+public abstract StructureElement getRootElement()
 ```
 
 
-Gets root [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) of logical structure of PDF document.
+获得根[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement)PDF文档的逻辑结构。
 
-**Returns:**
-[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) - Root [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) of logical structure of PDF document.
+**退货：**
+[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) - 根[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement)PDF文档的逻辑结构。
 ### getStructTreeRootElement() {#getStructTreeRootElement--}
 ```
-公共抽象 StructTreeRootElement getStructTreeRootElement()
+public abstract StructTreeRootElement getStructTreeRootElement()
 ```
 
 
-Gets [StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) of PDF document.
+得到[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement)的PDF文件。
 
-**Returns:**
-[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) - StructTreeRootElement of PDF document.
+**退货：**
+[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) PDF 文档的 StructTreeRootElement。
 ### getStructureTextState() {#getStructureTextState--}
 ```
-公共抽象 StructureTextState getStructureTextState()
+public abstract StructureTextState getStructureTextState()
 ```
 
 
-Get [StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) settings for whole document.
+得到[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate)整个文档的设置。
 
-**Returns:**
-[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) - Value: [StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) settings for whole document.
+**退货：**
+[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) - 价值：[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate)整个文档的设置。
 ### setLanguage(String lang) {#setLanguage-java.lang.String-}
 ```
-public abstract void setLanguage(字符串语言)
+public abstract void setLanguage(String lang)
 ```
 
 
-Sets natural language for pdf document.
+为 pdf 文档设置自然语言。
 
-A language identifier that shall specify the natural language for all text in the document except where overridden by language specifications for structure elements or marked content.
+一种语言标识符，应指定文档中所有文本的自然语言，除非被结构元素或标记内容的语言规范覆盖。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| lang | java.lang.String | A language identifier shall either be the empty text string, to indicate that the language is unknown, or a Language-Tag as defined in RFC 3066, Tags for the Identification of Languages. |
+| lang | java.lang.String | 语言标识符应该是空文本字符串，以指示语言未知，或者是 RFC 3066 中定义的语言标签，用于识别语言的标签。 |
 
 ### setTitle(String title) {#setTitle-java.lang.String-}
 ```
-public abstract void setTitle(字符串标题)
+public abstract void setTitle(String title)
 ```
 
 
-Sets title for PDF document.
+设置 PDF 文档的标题。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| title | java.lang.String | The title of PDF document. |
+| title | java.lang.String | PDF 文档的标题。 |

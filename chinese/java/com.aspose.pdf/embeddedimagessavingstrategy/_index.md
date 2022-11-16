@@ -1,32 +1,34 @@
 ---
-标题：SvgSaveOptions.EmbeddedImagesSavingStrategy
-second_title: Aspose.PDF for Java API 参考
-描述：对于这种类型的属性您可以分配从自定义方法创建的委托，该方法实现了从 PDF 创建的 SVG 中提取的图像的外部保存处理，并且在将 PDF 转换为 HTML 期间必须将其保存为外部资源。
-类型：文档
-体重：12
-网址：/java/com.aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/
----```
-公共静态接口 SvgSaveOptions.EmbeddedImagesSavingStrategy
+title: SvgSaveOptions.EmbeddedImagesSavingStrategy
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 对于这种类型的属性您可以分配从自定义方法创建的委托，该方法实现了从 PDF 创建的 SVG 中提取的图像的外部保存处理，并且在将 PDF 转换为 HTML 期间必须将其保存为外部资源。
+type: docs
+weight: 12
+url: /zh/java/com.aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/
+---
+```
+public static interface SvgSaveOptions.EmbeddedImagesSavingStrategy
 ```
 
-To property of such type You can assign delegate created from custom method that implements processing of external saving of image that was extracted from SVG created from PDF and must be saved as external resource during conversion of PDF to HTML. In such case processing (like self-made saving into stream or on disk) can be done in that custom code and that custom code must return path(or any another string without quotemarks) that will be afterwards incorporated into generated SVG instead of original supposed path to that image resource. In such case all the necessary actions for saving of image must be undertaken in code of supplied method, because saving of result in code of converter will be not in use. If processing for this or that file for some reason must be done by converter's code itself, not in custom code, please set in custom code flag 'CustomProcessingCancelled' of 'imageSavingInfo' parameter's variable It signals to converter that all the necessary steps for processing of that resource must be done in converter itself as if there was no any external custom code .
-## Methods
+对于这种类型的属性您可以分配从自定义方法创建的委托，该方法实现了从 PDF 创建的 SVG 中提取的图像的外部保存处理，并且在将 PDF 转换为 HTML 期间必须将其保存为外部资源。在这种情况下，处理（如自制保存到流或磁盘上）可以在该自定义代码中完成，并且该自定义代码必须返回路径（或任何其他不带引号的字符串），该路径随后将被合并到生成的 SVG 中，而不是原来假设的该图像资源的路径。在这种情况下，必须在提供的方法代码中执行保存图像的所有必要操作，因为在转换器代码中保存结果将不会被使用。如果由于某种原因必须由转换器代码本身而不是自定义代码来处理这个或那个文件，请在“imageSavingInfo”参数变量的自定义代码标志“CustomProcessingCancelled”中设置它向转换器发出信号，表明所有必要的处理步骤该资源必须在转换器本身中完成，就好像没有任何外部自定义代码一样。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
 | [invoke(SvgSaveOptions.SvgImageSavingInfo imageSavingInfo)](#invoke-com.aspose.pdf.SvgSaveOptions.SvgImageSavingInfo-) |  |
 ### invoke(SvgSaveOptions.SvgImageSavingInfo imageSavingInfo) {#invoke-com.aspose.pdf.SvgSaveOptions.SvgImageSavingInfo-}
 ```
-公共抽象字符串调用（SvgSaveOptions.SvgImageSavingInfo imageSavingInfo）
+public abstract String invoke(SvgSaveOptions.SvgImageSavingInfo imageSavingInfo)
 ```
 
 
 
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | imageSavingInfo | [SvgImageSavingInfo](../../com.aspose.pdf/svgimagesavinginfo) |  |
 
-**Returns:**
-java.lang.String
+**退货：**
+java.lang.字符串

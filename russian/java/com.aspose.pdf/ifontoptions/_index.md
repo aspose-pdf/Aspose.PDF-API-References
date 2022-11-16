@@ -1,40 +1,42 @@
 ---
-Название: IFontOptions
+title: IFontOptions
 second_title: Aspose.PDF для справки по Java API
-описание: Полезные свойства для настройки поведения шрифта
-тип: документы
-вес: 434
-URL-адрес: /java/com.aspose.pdf/ifontoptions/
----```
-общедоступный интерфейс IFontOptions
+description: Полезные свойства для настройки поведения шрифта
+type: docs
+weight: 434
+url: /ru/java/com.aspose.pdf/ifontoptions/
+---
+```
+public interface IFontOptions
 ```
 
-Useful properties to tune Font behavior
-## Methods
+Полезные свойства для настройки поведения шрифта
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [getNotifyAboutFontEmbeddingError()](#getNotifyAboutFontEmbeddingError--) | Sometimes it's not possible to embed desired font into document. |
-| [setNotifyAboutFontEmbeddingError(boolean value)](#setNotifyAboutFontEmbeddingError-boolean-) | Sometimes it's not possible to embed desired font into document. |
+| [getNotifyAboutFontEmbeddingError()](#getNotifyAboutFontEmbeddingError--) | Иногда невозможно встроить нужный шрифт в документ. |
+| [setNotifyAboutFontEmbeddingError(boolean value)](#setNotifyAboutFontEmbeddingError-boolean-) | Иногда невозможно встроить нужный шрифт в документ. |
 ### getNotifyAboutFontEmbeddingError() {#getNotifyAboutFontEmbeddingError--}
 ```
-открытый абстрактный логический метод getNotifyAboutFontEmbeddingError()
+public abstract boolean getNotifyAboutFontEmbeddingError()
 ```
 
 
-Sometimes it's not possible to embed desired font into document. There are many reasons, for example license restrictions or when desired font was not found on destination computer. When this situation comes it's not simply to detect, because desired font is embedded via set of property flag Font.IsEmbedded = true; Of course it's possible to read this property immediately after it was set but it's not convenient approach. Flag NotifyAboutFontEmbeddingError enforces exception mechanism for cases when attempt to embed font became failed. If this flag is set an exception of type FontEmbeddingException will be thrown. By default false.
+Иногда невозможно встроить нужный шрифт в документ. Причин может быть много, например ограничения лицензии или отсутствие нужного шрифта на целевом компьютере. Когда наступает такая ситуация, ее не просто обнаружить, потому что нужный шрифт встраивается через набор свойств флага Font.IsEmbedded = true; Конечно, это свойство можно прочитать сразу после его установки, но это не очень удобный подход. Флаг NotifyAboutFontEmbeddingError включает механизм исключений для случаев, когда попытка встроить шрифт не удалась. Если этот флаг установлен, будет сгенерировано исключение типа FontEmbeddingException. По умолчанию ложь.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### setNotifyAboutFontEmbeddingError(boolean value) {#setNotifyAboutFontEmbeddingError-boolean-}
 ```
-public abstract void setNotifyAboutFontEmbeddingError (логическое значение)
+public abstract void setNotifyAboutFontEmbeddingError(boolean value)
 ```
 
 
-Sometimes it's not possible to embed desired font into document. There are many reasons, for example license restrictions or when desired font was not found on destination computer. When this situation comes it's not simply to detect, because desired font is embedded via set of property flag Font.IsEmbedded = true; Of course it's possible to read this property immediately after it was set but it's not convenient approach. Flag NotifyAboutFontEmbeddingError enforces exception mechanism for cases when attempt to embed font became failed. If this flag is set an exception of type FontEmbeddingException will be thrown. By default false.
+Иногда невозможно встроить нужный шрифт в документ. Причин может быть много, например ограничения лицензии или отсутствие нужного шрифта на целевом компьютере. Когда наступает такая ситуация, ее не просто обнаружить, потому что нужный шрифт встраивается через набор свойств флага Font.IsEmbedded = true; Конечно, это свойство можно прочитать сразу после его установки, но это не очень удобный подход. Флаг NotifyAboutFontEmbeddingError включает механизм исключений для случаев, когда попытка встроить шрифт не удалась. Если этот флаг установлен, будет сгенерировано исключение типа FontEmbeddingException. По умолчанию ложь.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |

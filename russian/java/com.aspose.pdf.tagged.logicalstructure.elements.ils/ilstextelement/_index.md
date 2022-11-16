@@ -75,7 +75,7 @@ public List<T> <T>findElements(Class<T> typeOfTboolean)
 | typeOfTboolean | java.lang.Class<T> | экземпляр класса |
 
 **Возвращает:**
-java.util.List<T> Список найденных элементов
+java.util.List<T> - Список найденных элементов
 ### <T>findElements(Class<T> typeOfT, boolean recursiveSearch) {#-T-findElements-java.lang.Class-T--boolean-}
 ```
 public List<T> <T>findElements(Class<T> typeOfT, boolean recursiveSearch)
@@ -92,7 +92,7 @@ public List<T> <T>findElements(Class<T> typeOfT, boolean recursiveSearch)
 | recursiveSearch | boolean | (Необязательно) Рекурсивный поиск (по умолчанию false, поиск только из прямых дочерних элементов) |
 
 **Возвращает:**
-java.util.List<T> Список найденных элементов
+java.util.List<T> - Список найденных элементов
 ### appendChild(Element element) {#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
 ```
 public final Element appendChild(Element element)

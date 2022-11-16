@@ -184,7 +184,7 @@ public final FileSpecification findByName(String name)
 | name | java.lang.String | Имя файла. |
 
 **Возвращает:**
-[FileSpecification](../../com.aspose.pdf/filespecification) - Экземпляр FileSpecification Объект спецификации файла, если он найден; в противном случае ноль.
+[FileSpecification](../../com.aspose.pdf/filespecification) Экземпляр FileSpecification Объект спецификации файла, если он найден; в противном случае ноль.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()

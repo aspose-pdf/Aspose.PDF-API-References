@@ -1779,7 +1779,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
      //底部保证金为10%
      PdfFileEditor.ContentsResizeValue.percents(10)
         );
- fileEditor.resizeContents(doc, new int[{ 1, 2, 3}, 参数);
+ fileEditor.resizeContents(doc, new int[] { 1, 2, 3}, 参数);
  doc.save("输出.pdf");
 ```
 
@@ -1818,7 +1818,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 	          //底部保证金为10%
 	          PdfFileEditor.ContentsResizeValue.percents(10)
 	             );
-	      fileEditor.resizeContents(src, dest, new int[{ 1, 2, 3}, 参数);
+	      fileEditor.resizeContents(src, dest, new int[] { 1, 2, 3}, 参数);
 	      dest.close();
 ```
 
@@ -2429,7 +2429,7 @@ PdfFileEditor pfe = new PdfFileEditor();
 boolean - True for success, or false.
 ### splitToBulks(InputStream inputStream, int[][] numberOfPage) {#splitToBulks-java.io.InputStream-int-----}
 ```
-公共字节数组输入流[] splitToBulks(InputStream inputStream, int[][] 页数）
+公共字节数组输入流[splitToBulks(InputStream inputStream, int[][] 页数）
 ```
 
 
@@ -2544,7 +2544,7 @@ Split the Pdf file into single-page documents and saves it into specified path. 
 
 ### splitToPages(String inputFile) {#splitToPages-java.lang.String-}
 ```
-公共字节数组输入流[] splitToPages（字符串输入文件）
+公共字节数组输入流[splitToPages（字符串输入文件）
 ```
 
 

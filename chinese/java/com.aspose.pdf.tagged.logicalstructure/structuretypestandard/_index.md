@@ -32,8 +32,8 @@ public final class StructureTypeStandard
 | [H1](#H1) | Level 1 Heading，用于无法按层次嵌套其部分的合规作者，因此无法从其嵌套级别确定标题级别。 |
 | [H2](#H2) | 2 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合规作者。 |
 | [H3](#H3) | 3 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合规作者。 |
-| [H4](#H4) | 4 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合规作者。 |
-| [H5](#H5) | 级标题，用于无法按层次嵌套其部分并因此无法根据嵌套级别确定标题级别的合规作者。 |
+| [H4](#H4) | 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合规作者。 |
+| [H5](#H5) | 5 级标题，用于无法按层次嵌套其部分并因此无法根据嵌套级别确定标题级别的合规作者。 |
 | [H6](#H6) | 6 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合规作者。 |
 | [Index](#Index) | （索引）包含识别文本的条目序列，并附有参考元素，指出文档主体中指定文本的出现。 |
 | [L](#L) | （列表）一系列具有相似意义和重要性的项目。 |
@@ -214,7 +214,7 @@ public static final StructureTypeStandard H4
 ```
 
 
-4 级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合规作者。
+级标题，用于无法按层次嵌套其部分并因此无法从其嵌套级别确定标题级别的合规作者。
 
 ### H5 {#H5}
 ```
@@ -222,7 +222,7 @@ public static final StructureTypeStandard H5
 ```
 
 
-级标题，用于无法按层次嵌套其部分并因此无法根据嵌套级别确定标题级别的合规作者。
+5 级标题，用于无法按层次嵌套其部分并因此无法根据嵌套级别确定标题级别的合规作者。
 
 ### H6 {#H6}
 ```
@@ -630,7 +630,7 @@ public static StructureTypeStandard to_StructureTypeStandard(String tag)
 | tag | java.lang.String | 标记名称。 |
 
 **退货：**
-[StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) - 转换的结果。
+[StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) 转换的结果。
 ### wait() {#wait--}
 ```
 public final void wait()

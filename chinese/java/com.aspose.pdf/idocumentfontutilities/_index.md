@@ -1,40 +1,42 @@
 ---
-标题：Document.IDocumentFontUtilities
-second_title: Aspose.PDF for Java API 参考
-描述：拥有调整字体的功能
-类型：文档
-体重：12
-网址：/java/com.aspose.pdf/document.idocumentfontulities/
----```
-公共静态接口 Document.IDocumentFontUtilities
+title: Document.IDocumentFontUtilities
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 拥有调整字体的功能
+type: docs
+weight: 12
+url: /zh/java/com.aspose.pdf/document.idocumentfontutilities/
+---
+```
+public static interface Document.IDocumentFontUtilities
 ```
 
-Holds functionality to tune fonts
-## Methods
+拥有调整字体的功能
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [getAllFonts()](#getAllFonts--) | Returns all fonts from document |
-| [subsetFonts(byte subsetStrategy)](#subsetFonts-byte-) | Subsets all fonts in document |
+| [getAllFonts()](#getAllFonts--) | 返回文档中的所有字体 |
+| [subsetFonts(byte subsetStrategy)](#subsetFonts-byte-) | 子集文档中的所有字体 |
 ### getAllFonts() {#getAllFonts--}
 ```
-公共抽象字体[getAllFonts()
+public abstract Font[] getAllFonts()
 ```
 
 
-Returns all fonts from document
+返回文档中的所有字体
 
-**Returns:**
-com.aspose.pdf.Font[] - fonts
+**退货：**
+com.aspose.pdf.字体[- 字体
 ### subsetFonts(byte subsetStrategy) {#subsetFonts-byte-}
 ```
-公共抽象无效子集字体（字节子集策略）
+public abstract void subsetFonts(byte subsetStrategy)
 ```
 
 
-Subsets all fonts in document
+子集文档中的所有字体
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| subsetStrategy | byte | FontSubsetStrategy element |
+| subsetStrategy | byte | FontSubsetStrategy 元素 |

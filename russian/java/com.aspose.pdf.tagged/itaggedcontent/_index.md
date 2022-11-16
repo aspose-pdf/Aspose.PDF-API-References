@@ -1,468 +1,472 @@
 ---
 title: ITaggedContent
 second_title: Aspose.PDF для справки по Java API
-описание: Представляет собой интерфейс для работы с содержимым документа TaggedPdf.
-тип: документы
-вес: 11
-URL-адрес: /java/com.aspose.pdf.tagged/itaggedcontent/
----```
-публичный интерфейс ITaggedContent
+description: Представляет собой интерфейс для работы с содержимым документа TaggedPdf.
+type: docs
+weight: 11
+url: /ru/java/com.aspose.pdf.tagged/itaggedcontent/
+---
+```
+public interface ITaggedContent
 ```
 
-Represents interface for work with TaggedPdf content of document.
-## Methods
+Представляет собой интерфейс для работы с содержимым документа TaggedPdf.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [createAnnotElement()](#createAnnotElement--) | Creates [AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement). |
-| [createArtElement()](#createArtElement--) | Creates [ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement). |
-| [createBibEntryElement()](#createBibEntryElement--) | Creates [BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement). |
-| [createBlockQuoteElement()](#createBlockQuoteElement--) | Creates [BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement). |
-| [createCaptionElement()](#createCaptionElement--) | Creates [CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement). |
-| [createCodeElement()](#createCodeElement--) | Creates [CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement). |
-| [createDivElement()](#createDivElement--) | Creates [DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement). |
-| [createFigureElement()](#createFigureElement--) | Creates [FigureElement](../../com.aspose.pdf/figureelement). |
-| [createFormElement()](#createFormElement--) | Creates [FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement). |
-| [createFormulaElement()](#createFormulaElement--) | Creates [FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement). |
-| [createHeaderElement()](#createHeaderElement--) | Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement). |
-| [createHeaderElement(int level)](#createHeaderElement-int-) | Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) with level. |
-| [createIndexElement()](#createIndexElement--) | Creates [IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement). |
-| [createLinkElement()](#createLinkElement--) | Creates [LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement). |
-| [createListElement()](#createListElement--) | Creates [ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement). |
-| [createNonStructElement()](#createNonStructElement--) | Creates [NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement). |
-| [createNoteElement()](#createNoteElement--) | Creates [NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement). |
-| [createParagraphElement()](#createParagraphElement--) | Creates [ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement). |
-| [createPartElement()](#createPartElement--) | Creates [PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement). |
-| [createPrivateElement()](#createPrivateElement--) | Creates [PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement). |
-| [createQuoteElement()](#createQuoteElement--) | Creates [QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement). |
-| [createReferenceElement()](#createReferenceElement--) | Creates [ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement). |
-| [createRubyElement()](#createRubyElement--) | Creates [RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement). |
-| [createSectElement()](#createSectElement--) | Creates [SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement). |
-| [createSpanElement()](#createSpanElement--) | Creates [SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement). |
-| [createTOCElement()](#createTOCElement--) | Creates [TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement). |
-| [createTOCIElement()](#createTOCIElement--) | Creates [TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement). |
-| [createTableElement()](#createTableElement--) | Creates [TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement). |
-| [createTableTBodyElement()](#createTableTBodyElement--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
-| [createTableTDElement()](#createTableTDElement--) | Creates [TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement). |
-| [createTableTFootElement()](#createTableTFootElement--) | Creates [TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement). |
-| [createTableTHElement()](#createTableTHElement--) | Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement). |
-| [createTableTHeadElement()](#createTableTHeadElement--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
-| [createTableTRElement()](#createTableTRElement--) | Creates [TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement). |
-| [createWarichuElement()](#createWarichuElement--) | Creates [WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement). |
-| [getRootElement()](#getRootElement--) | Gets root [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) of logical structure of PDF document. |
-| [getStructTreeRootElement()](#getStructTreeRootElement--) | Gets [StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) of PDF document. |
-| [getStructureTextState()](#getStructureTextState--) | Get [StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) settings for whole document. |
-| [setLanguage(String lang)](#setLanguage-java.lang.String-) | Sets natural language for pdf document. |
-| [setTitle(String title)](#setTitle-java.lang.String-) | Sets title for PDF document. |
+| [createAnnotElement()](#createAnnotElement--) |  Создает[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement). |
+| [createArtElement()](#createArtElement--) |  Создает[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement). |
+| [createBibEntryElement()](#createBibEntryElement--) |  Создает[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement). |
+| [createBlockQuoteElement()](#createBlockQuoteElement--) |  Создает[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement). |
+| [createCaptionElement()](#createCaptionElement--) |  Создает[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement). |
+| [createCodeElement()](#createCodeElement--) |  Создает[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement). |
+| [createDivElement()](#createDivElement--) |  Создает[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement). |
+| [createFigureElement()](#createFigureElement--) |  Создает[FigureElement](../../com.aspose.pdf/figureelement). |
+| [createFormElement()](#createFormElement--) |  Создает[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement). |
+| [createFormulaElement()](#createFormulaElement--) |  Создает[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement). |
+| [createHeaderElement()](#createHeaderElement--) |  Создает[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement). |
+| [createHeaderElement(int level)](#createHeaderElement-int-) |  Создает[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) с уровнем. |
+| [createIndexElement()](#createIndexElement--) |  Создает[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement). |
+| [createLinkElement()](#createLinkElement--) |  Создает[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement). |
+| [createListElement()](#createListElement--) |  Создает[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement). |
+| [createNonStructElement()](#createNonStructElement--) |  Создает[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement). |
+| [createNoteElement()](#createNoteElement--) |  Создает[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement). |
+| [createParagraphElement()](#createParagraphElement--) |  Создает[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement). |
+| [createPartElement()](#createPartElement--) |  Создает[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement). |
+| [createPrivateElement()](#createPrivateElement--) |  Создает[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement). |
+| [createQuoteElement()](#createQuoteElement--) |  Создает[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement). |
+| [createReferenceElement()](#createReferenceElement--) |  Создает[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement). |
+| [createRubyElement()](#createRubyElement--) |  Создает[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement). |
+| [createSectElement()](#createSectElement--) |  Создает[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement). |
+| [createSpanElement()](#createSpanElement--) |  Создает[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement). |
+| [createTOCElement()](#createTOCElement--) |  Создает[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement). |
+| [createTOCIElement()](#createTOCIElement--) |  Создает[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement). |
+| [createTableElement()](#createTableElement--) |  Создает[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement). |
+| [createTableTBodyElement()](#createTableTBodyElement--) |  Создает[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
+| [createTableTDElement()](#createTableTDElement--) |  Создает[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement). |
+| [createTableTFootElement()](#createTableTFootElement--) |  Создает[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement). |
+| [createTableTHElement()](#createTableTHElement--) |  Создает[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement). |
+| [createTableTHeadElement()](#createTableTHeadElement--) |  Создает[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement). |
+| [createTableTRElement()](#createTableTRElement--) |  Создает[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement). |
+| [createWarichuElement()](#createWarichuElement--) |  Создает[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement). |
+| [getRootElement()](#getRootElement--) |  Получает root[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) логической структуры документа PDF. |
+| [getStructTreeRootElement()](#getStructTreeRootElement--) |  Получает[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) документа PDF. |
+| [getStructureTextState()](#getStructureTextState--) |  Получить[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) настройки для всего документа. |
+| [setLanguage(String lang)](#setLanguage-java.lang.String-) | Устанавливает естественный язык для документа PDF. |
+| [setTitle(String title)](#setTitle-java.lang.String-) | Устанавливает заголовок для PDF-документа. |
 ### createAnnotElement() {#createAnnotElement--}
 ```
-открытый абстрактный AnnotElement createAnnotElement()
+public abstract AnnotElement createAnnotElement()
 ```
 
 
-Creates [AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement).
+ Создает[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement).
 
-**Returns:**
-[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement) - Created structure element.
+**Возвращает:**
+[AnnotElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/annotelement) - Создан элемент структуры.
 ### createArtElement() {#createArtElement--}
 ```
-общедоступный абстрактный ArtElement createArtElement()
+public abstract ArtElement createArtElement()
 ```
 
 
-Creates [ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement).
+ Создает[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement).
 
-**Returns:**
-[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement) - Created structure element.
+**Возвращает:**
+[ArtElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/artelement) - Создан элемент структуры.
 ### createBibEntryElement() {#createBibEntryElement--}
 ```
-общедоступный абстрактный BibEntryElement createBibEntryElement()
+public abstract BibEntryElement createBibEntryElement()
 ```
 
 
-Creates [BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement).
+ Создает[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement).
 
-**Returns:**
-[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement) - Created structure element.
+**Возвращает:**
+[BibEntryElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/bibentryelement) - Создан элемент структуры.
 ### createBlockQuoteElement() {#createBlockQuoteElement--}
 ```
-открытый абстрактный BlockQuoteElement createBlockQuoteElement()
+public abstract BlockQuoteElement createBlockQuoteElement()
 ```
 
 
-Creates [BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement).
+ Создает[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement).
 
-**Returns:**
-[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement) - Created structure element.
+**Возвращает:**
+[BlockQuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/blockquoteelement) - Создан элемент структуры.
 ### createCaptionElement() {#createCaptionElement--}
 ```
-общедоступный абстрактный CaptionElement createCaptionElement()
+public abstract CaptionElement createCaptionElement()
 ```
 
 
-Creates [CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement).
+ Создает[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement).
 
-**Returns:**
-[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement) - Created structure element.
+**Возвращает:**
+[CaptionElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement) - Создан элемент структуры.
 ### createCodeElement() {#createCodeElement--}
 ```
-общедоступный абстрактный элемент кода createCodeElement()
+public abstract CodeElement createCodeElement()
 ```
 
 
-Creates [CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement).
+ Создает[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement).
 
-**Returns:**
-[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement) - Created structure element.
+**Возвращает:**
+[CodeElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/codeelement) - Создан элемент структуры.
 ### createDivElement() {#createDivElement--}
 ```
-общедоступный абстрактный DivElement createDivElement()
+public abstract DivElement createDivElement()
 ```
 
 
-Creates [DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement).
+ Создает[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement).
 
-**Returns:**
-[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement) - Created structure element.
+**Возвращает:**
+[DivElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/divelement) - Создан элемент структуры.
 ### createFigureElement() {#createFigureElement--}
 ```
-общедоступный абстрактный элемент FigureElement createFigureElement()
+public abstract FigureElement createFigureElement()
 ```
 
 
-Creates [FigureElement](../../com.aspose.pdf/figureelement).
+ Создает[FigureElement](../../com.aspose.pdf/figureelement).
 
-**Returns:**
-[FigureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/figureelement) - Created structure element.
+**Возвращает:**
+[FigureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/figureelement) - Создан элемент структуры.
 ### createFormElement() {#createFormElement--}
 ```
-общедоступный абстрактный элемент формы createFormElement()
+public abstract FormElement createFormElement()
 ```
 
 
-Creates [FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement).
+ Создает[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement).
 
-**Returns:**
-[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement) - Created structure element.
+**Возвращает:**
+[FormElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formelement) - Создан элемент структуры.
 ### createFormulaElement() {#createFormulaElement--}
 ```
-общедоступный абстрактный FormulaElement createFormulaElement()
+public abstract FormulaElement createFormulaElement()
 ```
 
 
-Creates [FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement).
+ Создает[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement).
 
-**Returns:**
-[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement) - Created structure element.
+**Возвращает:**
+[FormulaElement](../../com.aspose.pdf.tagged.logicalstructure.elements/formulaelement) - Создан элемент структуры.
 ### createHeaderElement() {#createHeaderElement--}
 ```
-общедоступный абстрактный элемент заголовка createHeaderElement()
+public abstract HeaderElement createHeaderElement()
 ```
 
 
-Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement).
+ Создает[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement).
 
-**Returns:**
-[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - Created structure element.
+**Возвращает:**
+[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - Создан элемент структуры.
 ### createHeaderElement(int level) {#createHeaderElement-int-}
 ```
-открытый абстрактный HeaderElement createHeaderElement (уровень int)
+public abstract HeaderElement createHeaderElement(int level)
 ```
 
 
-Creates [HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) with level.
+ Создает[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) с уровнем.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| level | int | The level of Header. Must be 1, 2, 3, 4, 5 or 6. |
+| level | int | Уровень заголовка. Должно быть 1, 2, 3, 4, 5 или 6. |
 
-**Returns:**
-[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - Created structure element.
+**Возвращает:**
+[HeaderElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/headerelement) - Создан элемент структуры.
 ### createIndexElement() {#createIndexElement--}
 ```
-открытый абстрактный IndexElement createIndexElement()
+public abstract IndexElement createIndexElement()
 ```
 
 
-Creates [IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement).
+ Создает[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement).
 
-**Returns:**
-[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement) - Created structure element.
+**Возвращает:**
+[IndexElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/indexelement) - Создан элемент структуры.
 ### createLinkElement() {#createLinkElement--}
 ```
-общедоступный абстрактный LinkElement createLinkElement()
+public abstract LinkElement createLinkElement()
 ```
 
 
-Creates [LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement).
+ Создает[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement).
 
-**Returns:**
-[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement) - Created structure element.
+**Возвращает:**
+[LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement) - Создан элемент структуры.
 ### createListElement() {#createListElement--}
 ```
-общедоступный абстрактный ListElement createListElement()
+public abstract ListElement createListElement()
 ```
 
 
-Creates [ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement).
+ Создает[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement).
 
-**Returns:**
-[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement) - Created structure element.
+**Возвращает:**
+[ListElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/listelement) - Создан элемент структуры.
 ### createNonStructElement() {#createNonStructElement--}
 ```
-общедоступный абстрактный NonStructElement createNonStructElement()
+public abstract NonStructElement createNonStructElement()
 ```
 
 
-Creates [NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement).
+ Создает[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement).
 
-**Returns:**
-[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement) - Created structure element.
+**Возвращает:**
+[NonStructElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/nonstructelement) - Создан элемент структуры.
 ### createNoteElement() {#createNoteElement--}
 ```
-общедоступный абстрактный элемент NoteElement createNoteElement()
+public abstract NoteElement createNoteElement()
 ```
 
 
-Creates [NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement).
+ Создает[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement).
 
-**Returns:**
-[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement) - Created structure element.
+**Возвращает:**
+[NoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/noteelement) - Создан элемент структуры.
 ### createParagraphElement() {#createParagraphElement--}
 ```
-общедоступный абстрактный ParagraphElement createParagraphElement()
+public abstract ParagraphElement createParagraphElement()
 ```
 
 
-Creates [ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement).
+ Создает[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement).
 
-**Returns:**
-[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement) - Created structure element.
+**Возвращает:**
+[ParagraphElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/paragraphelement) - Создан элемент структуры.
 ### createPartElement() {#createPartElement--}
 ```
-общедоступный абстрактный PartElement createPartElement()
+public abstract PartElement createPartElement()
 ```
 
 
-Creates [PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement).
+ Создает[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement).
 
-**Returns:**
-[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement) - Created structure element.
+**Возвращает:**
+[PartElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/partelement) - Создан элемент структуры.
 ### createPrivateElement() {#createPrivateElement--}
 ```
-открытый абстрактный PrivateElement createPrivateElement()
+public abstract PrivateElement createPrivateElement()
 ```
 
 
-Creates [PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement).
+ Создает[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement).
 
-**Returns:**
-[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement) - Created structure element.
+**Возвращает:**
+[PrivateElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/privateelement) - Создан элемент структуры.
 ### createQuoteElement() {#createQuoteElement--}
 ```
-общедоступный абстрактный QuoteElement createQuoteElement()
+public abstract QuoteElement createQuoteElement()
 ```
 
 
-Creates [QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement).
+ Создает[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement).
 
-**Returns:**
-[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement) - Created structure element.
+**Возвращает:**
+[QuoteElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/quoteelement) - Создан элемент структуры.
 ### createReferenceElement() {#createReferenceElement--}
 ```
-общедоступный абстрактный ReferenceElement createReferenceElement()
+public abstract ReferenceElement createReferenceElement()
 ```
 
 
-Creates [ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement).
+ Создает[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement).
 
-**Returns:**
-[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement) - Created structure element.
+**Возвращает:**
+[ReferenceElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/referenceelement) - Создан элемент структуры.
 ### createRubyElement() {#createRubyElement--}
 ```
-публичный абстрактный RubyElement createRubyElement()
+public abstract RubyElement createRubyElement()
 ```
 
 
-Creates [RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement).
+ Создает[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement).
 
-**Returns:**
-[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement) - Created structure element.
+**Возвращает:**
+[RubyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/rubyelement) - Создан элемент структуры.
 ### createSectElement() {#createSectElement--}
 ```
-общедоступный абстрактный элемент SectElement createSectElement()
+public abstract SectElement createSectElement()
 ```
 
 
-Creates [SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement).
+ Создает[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement).
 
-**Returns:**
-[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement) - Created structure element.
+**Возвращает:**
+[SectElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/sectelement) - Создан элемент структуры.
 ### createSpanElement() {#createSpanElement--}
 ```
-общедоступный абстрактный SpanElement createSpanElement()
+public abstract SpanElement createSpanElement()
 ```
 
 
-Creates [SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement).
+ Создает[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement).
 
-**Returns:**
-[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement) - Created structure element.
+**Возвращает:**
+[SpanElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/spanelement) - Создан элемент структуры.
 ### createTOCElement() {#createTOCElement--}
 ```
-открытый абстрактный TOCElement createTOCElement()
+public abstract TOCElement createTOCElement()
 ```
 
 
-Creates [TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement).
+ Создает[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement).
 
-**Returns:**
-[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement) - Created structure element.
+**Возвращает:**
+[TOCElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocelement) - Создан элемент структуры.
 ### createTOCIElement() {#createTOCIElement--}
 ```
-общедоступный абстрактный элемент TOCIElement createTOCIElement()
+public abstract TOCIElement createTOCIElement()
 ```
 
 
-Creates [TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement).
+ Создает[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement).
 
-**Returns:**
-[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement) - Created structure element.
+**Возвращает:**
+[TOCIElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/tocielement) - Создан элемент структуры.
 ### createTableElement() {#createTableElement--}
 ```
-общедоступный абстрактный TableElement createTableElement()
+public abstract TableElement createTableElement()
 ```
 
 
-Creates [TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement).
+ Создает[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement).
 
-**Returns:**
-[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement) - Created structure element.
+**Возвращает:**
+[TableElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tableelement) - Создан элемент структуры.
 ### createTableTBodyElement() {#createTableTBodyElement--}
 ```
-общедоступный абстрактный TableTBodyElement createTableTBodyElement()
+public abstract TableTBodyElement createTableTBodyElement()
 ```
 
 
-Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
+ Создает[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
 
-**Returns:**
-[TableTBodyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletbodyelement) - Created structure element.
+**Возвращает:**
+[TableTBodyElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletbodyelement) - Создан элемент структуры.
 ### createTableTDElement() {#createTableTDElement--}
 ```
-общедоступный абстрактный TableTDElement createTableTDElement()
+public abstract TableTDElement createTableTDElement()
 ```
 
 
-Creates [TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement).
+ Создает[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement).
 
-**Returns:**
-[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement) - Created structure element.
+**Возвращает:**
+[TableTDElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletdelement) - Создан элемент структуры.
 ### createTableTFootElement() {#createTableTFootElement--}
 ```
-открытый абстрактный TableTFootElement createTableTFootElement()
+public abstract TableTFootElement createTableTFootElement()
 ```
 
 
-Creates [TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement).
+ Создает[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement).
 
-**Returns:**
-[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement) - Created structure element.
+**Возвращает:**
+[TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement) - Создан элемент структуры.
 ### createTableTHElement() {#createTableTHElement--}
 ```
-общедоступный абстрактный TableTHElement createTableTHElement()
+public abstract TableTHElement createTableTHElement()
 ```
 
 
-Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement).
+ Создает[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement).
 
-**Returns:**
-[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) - Created structure element.
+**Возвращает:**
+[TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) - Создан элемент структуры.
 ### createTableTHeadElement() {#createTableTHeadElement--}
 ```
-общедоступный абстрактный TableTHeadElement createTableTHeadElement()
+public abstract TableTHeadElement createTableTHeadElement()
 ```
 
 
-Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
+ Создает[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement).
 
-**Returns:**
-[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) - Created structure element.
+**Возвращает:**
+[TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) - Создан элемент структуры.
 ### createTableTRElement() {#createTableTRElement--}
 ```
-общедоступный абстрактный TableTRElement createTableTRElement()
+public abstract TableTRElement createTableTRElement()
 ```
 
 
-Creates [TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement).
+ Создает[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement).
 
-**Returns:**
-[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement) - Created structure element.
+**Возвращает:**
+[TableTRElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletrelement) - Создан элемент структуры.
 ### createWarichuElement() {#createWarichuElement--}
 ```
-открытый абстрактный WarichuElement createWarichuElement()
+public abstract WarichuElement createWarichuElement()
 ```
 
 
-Creates [WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement).
+ Создает[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement).
 
-**Returns:**
-[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement) - Created structure element.
+**Возвращает:**
+[WarichuElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuelement) - Создан элемент структуры.
 ### getRootElement() {#getRootElement--}
 ```
-открытый абстрактный StructureElement getRootElement()
+public abstract StructureElement getRootElement()
 ```
 
 
-Gets root [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) of logical structure of PDF document.
+ Получает root[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) логической структуры документа PDF.
 
-**Returns:**
-[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) - Root [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) of logical structure of PDF document.
+**Возвращает:**
+[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) - Корень[StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) логической структуры документа PDF.
 ### getStructTreeRootElement() {#getStructTreeRootElement--}
 ```
-открытый абстрактный StructTreeRootElement getStructTreeRootElement()
+public abstract StructTreeRootElement getStructTreeRootElement()
 ```
 
 
-Gets [StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) of PDF document.
+ Получает[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) документа PDF.
 
-**Returns:**
-[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) - StructTreeRootElement of PDF document.
+**Возвращает:**
+[StructTreeRootElement](../../com.aspose.pdf.tagged.logicalstructure/structtreerootelement) - StructTreeRootElement документа PDF.
 ### getStructureTextState() {#getStructureTextState--}
 ```
-открытый абстрактный StructureTextState getStructureTextState()
+public abstract StructureTextState getStructureTextState()
 ```
 
 
-Get [StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) settings for whole document.
+ Получить[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) настройки для всего документа.
 
-**Returns:**
-[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) - Value: [StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) settings for whole document.
+**Возвращает:**
+[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) - Ценность:[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) настройки для всего документа.
 ### setLanguage(String lang) {#setLanguage-java.lang.String-}
 ```
-public abstract void setLanguage (String lang)
+public abstract void setLanguage(String lang)
 ```
 
 
-Sets natural language for pdf document.
+Устанавливает естественный язык для документа PDF.
 
-A language identifier that shall specify the natural language for all text in the document except where overridden by language specifications for structure elements or marked content.
+Идентификатор языка, который должен указывать естественный язык для всего текста в документе, за исключением случаев, когда он перекрывается спецификациями языка для элементов структуры или маркированного содержимого.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| lang | java.lang.String | A language identifier shall either be the empty text string, to indicate that the language is unknown, or a Language-Tag as defined in RFC 3066, Tags for the Identification of Languages. |
+| lang | java.lang.String | Идентификатор языка должен быть либо пустой текстовой строкой, чтобы указать, что язык неизвестен, либо тегом языка, как определено в RFC 3066, Теги для идентификации языков. |
 
 ### setTitle(String title) {#setTitle-java.lang.String-}
 ```
-public abstract void setTitle (заголовок строки)
+public abstract void setTitle(String title)
 ```
 
 
-Sets title for PDF document.
+Устанавливает заголовок для PDF-документа.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | java.lang.String | The title of PDF document. |
+| title | java.lang.String | Название PDF-документа. |

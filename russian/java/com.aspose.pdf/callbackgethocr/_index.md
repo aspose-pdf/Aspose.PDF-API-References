@@ -1,32 +1,34 @@
 ---
-Название: Document.CallBackGetHocr
+title: Document.CallBackGetHocr
 second_title: Aspose.PDF для справки по Java API
-описание: Процедура обратного вызова для распознавания hocr.
-тип: документы
-вес: 11
-URL-адрес: /java/com.aspose.pdf/document.callbackgethocr/
----```
-общедоступный статический интерфейс Document.CallBackGetHocr
+description: Процедура обратного вызова для распознавания hocr.
+type: docs
+weight: 11
+url: /ru/java/com.aspose.pdf/document.callbackgethocr/
+---
+```
+public static interface Document.CallBackGetHocr
 ```
 
-The call back procedure for hocr recognize.
-## Methods
+Процедура обратного вызова для распознавания hocr.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [invoke(BufferedImage img)](#invoke-java.awt.image.BufferedImage-) | The call back procedure for hocr recognize. |
+| [invoke(BufferedImage img)](#invoke-java.awt.image.BufferedImage-) | Процедура обратного вызова для распознавания hocr. |
 ### invoke(BufferedImage img) {#invoke-java.awt.image.BufferedImage-}
 ```
-публичный абстрактный вызов строки (BufferedImage img)
+public abstract String invoke(BufferedImage img)
 ```
 
 
-The call back procedure for hocr recognize.
+Процедура обратного вызова для распознавания hocr.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| img | java.awt.image.BufferedImage | The hocr image. |
+| img | java.awt.image.BufferedImage | Хокр изображение. |
 
-**Returns:**
-java.lang.String - The hocr text
+**Возвращает:**
+java.lang.String — текст hocr

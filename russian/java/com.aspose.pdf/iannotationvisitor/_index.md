@@ -1,295 +1,316 @@
 ---
 title: IAnnotationVisitor
 second_title: Aspose.PDF для справки по Java API
-описание: Определяет посетителя для посещения различных аннотаций документа.
-тип: документы
-вес: 430
-URL-адрес: /java/com.aspose.pdf/iannotationvisitor/
----```
-публичный интерфейс IAnnotationVisitor
+description: Определяет посетителя для посещения различных аннотаций документа.
+type: docs
+weight: 430
+url: /ru/java/com.aspose.pdf/iannotationvisitor/
+---
+```
+public interface IAnnotationVisitor
 ```
 
-Defines Visitor for visiting different document annotations.
-## Methods
+Определяет посетителя для посещения различных аннотаций документа.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [visit(CaretAnnotation caret)](#visit-com.aspose.pdf.CaretAnnotation-) | Visit/select caret annotation. |
-| [visit(CircleAnnotation circle)](#visit-com.aspose.pdf.CircleAnnotation-) | Visit/select circle annotation. |
-| [visit(FileAttachmentAnnotation attachment)](#visit-com.aspose.pdf.FileAttachmentAnnotation-) | Visit/select attachment annotation. |
-| [visit(FreeTextAnnotation freetext)](#visit-com.aspose.pdf.FreeTextAnnotation-) | Visit/select freetext annotation. |
-| [visit(HighlightAnnotation highlight)](#visit-com.aspose.pdf.HighlightAnnotation-) | Visit/select highlight annotation. |
-| [visit(InkAnnotation ink)](#visit-com.aspose.pdf.InkAnnotation-) | Visit/select ink annotation. |
-| [visit(LineAnnotation line)](#visit-com.aspose.pdf.LineAnnotation-) | Visit/select line annotation. |
-| [visit(LinkAnnotation link)](#visit-com.aspose.pdf.LinkAnnotation-) | Visit/select link annotation. |
-| [visit(MovieAnnotation movie)](#visit-com.aspose.pdf.MovieAnnotation-) | Visit/select movie annotation. |
-| [visit(PolygonAnnotation polygon)](#visit-com.aspose.pdf.PolygonAnnotation-) | Visit/select polygon annotation. |
-| [visit(PolylineAnnotation polyline)](#visit-com.aspose.pdf.PolylineAnnotation-) | Visit/select polyline annotation. |
-| [visit(PopupAnnotation popup)](#visit-com.aspose.pdf.PopupAnnotation-) | Visit/select popup annotation. |
-| [visit(ScreenAnnotation screen)](#visit-com.aspose.pdf.ScreenAnnotation-) | Visit/select screen annotation. |
-| [visit(SquareAnnotation square)](#visit-com.aspose.pdf.SquareAnnotation-) | Visit/select square annotation. |
-| [visit(SquigglyAnnotation squiggly)](#visit-com.aspose.pdf.SquigglyAnnotation-) | Visit/select squiggly annotation. |
-| [visit(StampAnnotation stamp)](#visit-com.aspose.pdf.StampAnnotation-) | Visit/select stamp annotation. |
-| [visit(StrikeOutAnnotation strikeOut)](#visit-com.aspose.pdf.StrikeOutAnnotation-) | Visit/select strikeOut annotation. |
-| [visit(TextAnnotation text)](#visit-com.aspose.pdf.TextAnnotation-) | Visit/select text annotation. |
-| [visit(UnderlineAnnotation underline)](#visit-com.aspose.pdf.UnderlineAnnotation-) | Visit/select underline annotation. |
-| [visit(WidgetAnnotation widget)](#visit-com.aspose.pdf.WidgetAnnotation-) | Visit/select widget annotation. |
+| [visit(CaretAnnotation caret)](#visit-com.aspose.pdf.CaretAnnotation-) | Посетите/выберите курсорную аннотацию. |
+| [visit(CircleAnnotation circle)](#visit-com.aspose.pdf.CircleAnnotation-) | Посетите/выберите круговую аннотацию. |
+| [visit(FileAttachmentAnnotation attachment)](#visit-com.aspose.pdf.FileAttachmentAnnotation-) | Посетите/выберите аннотацию вложения. |
+| [visit(FreeTextAnnotation freetext)](#visit-com.aspose.pdf.FreeTextAnnotation-) | Посетите/выберите аннотацию произвольного текста. |
+| [visit(HighlightAnnotation highlight)](#visit-com.aspose.pdf.HighlightAnnotation-) | Посетите/выберите выделенную аннотацию. |
+| [visit(InkAnnotation ink)](#visit-com.aspose.pdf.InkAnnotation-) | Посетите/выберите рукописную аннотацию. |
+| [visit(LineAnnotation line)](#visit-com.aspose.pdf.LineAnnotation-) | Посетите/выберите аннотацию строки. |
+| [visit(LinkAnnotation link)](#visit-com.aspose.pdf.LinkAnnotation-) | Посетите/выберите аннотацию ссылки. |
+| [visit(MovieAnnotation movie)](#visit-com.aspose.pdf.MovieAnnotation-) | Посетите/выберите аннотацию к фильму. |
+| [visit(PolygonAnnotation polygon)](#visit-com.aspose.pdf.PolygonAnnotation-) | Посетите/выберите аннотацию полигона. |
+| [visit(PolylineAnnotation polyline)](#visit-com.aspose.pdf.PolylineAnnotation-) | Посетите/выберите полилинейную аннотацию. |
+| [visit(PopupAnnotation popup)](#visit-com.aspose.pdf.PopupAnnotation-) | Посетите/выберите всплывающую аннотацию. |
+| [visit(ScreenAnnotation screen)](#visit-com.aspose.pdf.ScreenAnnotation-) | Посетите/выберите аннотацию экрана. |
+| [visit(SquareAnnotation square)](#visit-com.aspose.pdf.SquareAnnotation-) | Посетите/выберите квадратную аннотацию. |
+| [visit(SquigglyAnnotation squiggly)](#visit-com.aspose.pdf.SquigglyAnnotation-) | Посетите/выберите волнистую аннотацию. |
+| [visit(StampAnnotation stamp)](#visit-com.aspose.pdf.StampAnnotation-) | Посетите/выберите аннотацию штампа. |
+| [visit(StrikeOutAnnotation strikeOut)](#visit-com.aspose.pdf.StrikeOutAnnotation-) | Посетите/выберите аннотацию strikeOut. |
+| [visit(TextAnnotation text)](#visit-com.aspose.pdf.TextAnnotation-) | Посетите/выберите текстовую аннотацию. |
+| [visit(UnderlineAnnotation underline)](#visit-com.aspose.pdf.UnderlineAnnotation-) | Посетите/выберите подчеркнутую аннотацию. |
+| [visit(WidgetAnnotation widget)](#visit-com.aspose.pdf.WidgetAnnotation-) | Посетите/выберите аннотацию виджета. |
 ### visit(CaretAnnotation caret) {#visit-com.aspose.pdf.CaretAnnotation-}
 ```
-публичный абстрактный недействительный визит (CaretAnnotation caret)
+public abstract void visit(CaretAnnotation caret)
 ```
 
 
-Visit/select caret annotation.
+Посетите/выберите курсорную аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| caret | [CaretAnnotation](../../com.aspose.pdf/caretannotation) | CaretAnnotation object example/template. |
+| caret | [CaretAnnotation](../../com.aspose.pdf/caretannotation) | Пример/шаблон объекта CaretAnnotation. |
 
 ### visit(CircleAnnotation circle) {#visit-com.aspose.pdf.CircleAnnotation-}
 ```
-публичный абстрактный визит пустоты (круг CircleAnnotation)
+public abstract void visit(CircleAnnotation circle)
 ```
 
 
-Visit/select circle annotation.
+Посетите/выберите круговую аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| circle | [CircleAnnotation](../../com.aspose.pdf/circleannotation) | CircleAnnotation object example/template. |
+| circle | [CircleAnnotation](../../com.aspose.pdf/circleannotation) | Пример/шаблон объекта CircleAnnotation. |
 
 ### visit(FileAttachmentAnnotation attachment) {#visit-com.aspose.pdf.FileAttachmentAnnotation-}
 ```
-публичный абстрактный недействительный визит (вложение FileAttachmentAnnotation)
+public abstract void visit(FileAttachmentAnnotation attachment)
 ```
 
 
-Visit/select attachment annotation.
+Посетите/выберите аннотацию вложения.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| attachment | [FileAttachmentAnnotation](../../com.aspose.pdf/fileattachmentannotation) | FileAttachmentAnnotation object example/template. |
+| attachment | [FileAttachmentAnnotation](../../com.aspose.pdf/fileattachmentannotation) | Пример/шаблон объекта FileAttachmentAnnotation. |
 
 ### visit(FreeTextAnnotation freetext) {#visit-com.aspose.pdf.FreeTextAnnotation-}
 ```
-публичный абстрактный недействительный визит (свободный текст FreeTextAnnotation)
+public abstract void visit(FreeTextAnnotation freetext)
 ```
 
 
-Visit/select freetext annotation.
+Посетите/выберите аннотацию произвольного текста.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| freetext | [FreeTextAnnotation](../../com.aspose.pdf/freetextannotation) | FreeTextAnnotation object example/template. |
+| freetext | [FreeTextAnnotation](../../com.aspose.pdf/freetextannotation) | Пример/шаблон объекта FreeTextAnnotation. |
 
 ### visit(HighlightAnnotation highlight) {#visit-com.aspose.pdf.HighlightAnnotation-}
 ```
-публичный абстрактный недействительный визит (выделение HighlightAnnotation)
+public abstract void visit(HighlightAnnotation highlight)
 ```
 
 
-Visit/select highlight annotation.
+Посетите/выберите выделенную аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| highlight | [HighlightAnnotation](../../com.aspose.pdf/highlightannotation) | HighlightAnnotation object example/template. |
+| highlight | [HighlightAnnotation](../../com.aspose.pdf/highlightannotation) | Пример/шаблон объекта HighlightAnnotation. |
 
 ### visit(InkAnnotation ink) {#visit-com.aspose.pdf.InkAnnotation-}
 ```
-публичный абстрактный недействительный визит (чернила InkAnnotation)
+public abstract void visit(InkAnnotation ink)
 ```
 
 
-Visit/select ink annotation.
+Посетите/выберите рукописную аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| ink | [InkAnnotation](../../com.aspose.pdf/inkannotation) | InkAnnotation object example/template. |
+| ink | [InkAnnotation](../../com.aspose.pdf/inkannotation) | Пример/шаблон объекта InkAnnotation. |
 
 ### visit(LineAnnotation line) {#visit-com.aspose.pdf.LineAnnotation-}
 ```
-публичный абстрактный недействительный визит (строка LineAnnotation)
+public abstract void visit(LineAnnotation line)
 ```
 
 
-Visit/select line annotation.
+Посетите/выберите аннотацию строки.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| line | [LineAnnotation](../../com.aspose.pdf/lineannotation) | LineAnnotation object example/template. |
+| line | [LineAnnotation](../../com.aspose.pdf/lineannotation) | Пример/шаблон объекта LineAnnotation. |
 
 ### visit(LinkAnnotation link) {#visit-com.aspose.pdf.LinkAnnotation-}
 ```
-публичный абстрактный недействительный визит (ссылка LinkAnnotation)
+public abstract void visit(LinkAnnotation link)
 ```
 
 
-Visit/select link annotation.
+Посетите/выберите аннотацию ссылки.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| link | [LinkAnnotation](../../com.aspose.pdf/linkannotation) | LinkAnnotation object example/template. |
+| link | [LinkAnnotation](../../com.aspose.pdf/linkannotation) | Пример/шаблон объекта LinkAnnotation. |
 
 ### visit(MovieAnnotation movie) {#visit-com.aspose.pdf.MovieAnnotation-}
 ```
-публичный абстрактный визит пустоты (фильм MovieAnnotation)
+public abstract void visit(MovieAnnotation movie)
 ```
 
 
-Visit/select movie annotation.
+Посетите/выберите аннотацию к фильму.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| movie | [MovieAnnotation](../../com.aspose.pdf/movieannotation) | MovieAnnotation object example/template. |
+| movie | [MovieAnnotation](../../com.aspose.pdf/movieannotation) | Пример/шаблон объекта MovieAnnotation. |
 
 ### visit(PolygonAnnotation polygon) {#visit-com.aspose.pdf.PolygonAnnotation-}
 ```
-публичный абстрактный визит пустоты (полигон PolygonAnnotation)
+public abstract void visit(PolygonAnnotation polygon)
 ```
 
 
-Visit/select polygon annotation.
+Посетите/выберите аннотацию полигона.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| polygon | [PolygonAnnotation](../../com.aspose.pdf/polygonannotation) | PolygonAnnotation object example/template. |
+| polygon | [PolygonAnnotation](../../com.aspose.pdf/polygonannotation) | Пример/шаблон объекта PolygonAnnotation. |
 
 ### visit(PolylineAnnotation polyline) {#visit-com.aspose.pdf.PolylineAnnotation-}
 ```
-публичный абстрактный визит пустоты (ломаная линия PolylineAnnotation)
+public abstract void visit(PolylineAnnotation polyline)
 ```
 
 
-Visit/select polyline annotation.
+Посетите/выберите полилинейную аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| polyline | [PolylineAnnotation](../../com.aspose.pdf/polylineannotation) | PolylineAnnotation object example/template. |
+| polyline | [PolylineAnnotation](../../com.aspose.pdf/polylineannotation) | Пример/шаблон объекта PolylineAnnotation. |
 
 ### visit(PopupAnnotation popup) {#visit-com.aspose.pdf.PopupAnnotation-}
 ```
-публичный абстрактный недействительный визит (всплывающее окно PopupAnnotation)
+public abstract void visit(PopupAnnotation popup)
 ```
 
 
-Visit/select popup annotation.
+Посетите/выберите всплывающую аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| popup | [PopupAnnotation](../../com.aspose.pdf/popupannotation) | PopupAnnotation object example/template. |
+| popup | [PopupAnnotation](../../com.aspose.pdf/popupannotation) | Пример/шаблон объекта PopupAnnotation. |
 
 ### visit(ScreenAnnotation screen) {#visit-com.aspose.pdf.ScreenAnnotation-}
 ```
-публичный абстрактный недействительный визит (экран ScreenAnnotation)
+public abstract void visit(ScreenAnnotation screen)
 ```
 
 
-Visit/select screen annotation.
+Посетите/выберите аннотацию экрана.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| screen | [ScreenAnnotation](../../com.aspose.pdf/screenannotation) | ScreenAnnotation object example/template. |
+| screen | [ScreenAnnotation](../../com.aspose.pdf/screenannotation) | Пример/шаблон объекта ScreenAnnotation. |
 
 ### visit(SquareAnnotation square) {#visit-com.aspose.pdf.SquareAnnotation-}
 ```
-публичный абстрактный визит пустоты (квадрат SquareAnnotation)
+public abstract void visit(SquareAnnotation square)
 ```
 
 
-Visit/select square annotation.
+Посетите/выберите квадратную аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| square | [SquareAnnotation](../../com.aspose.pdf/squareannotation) | SquareAnnotation object example/template. |
+| square | [SquareAnnotation](../../com.aspose.pdf/squareannotation) | Пример/шаблон объекта SquareAnnotation. |
 
 ### visit(SquigglyAnnotation squiggly) {#visit-com.aspose.pdf.SquigglyAnnotation-}
 ```
-публичный абстрактный визит пустоты (SquigglyAnnotation волнистый)
+public abstract void visit(SquigglyAnnotation squiggly)
 ```
 
 
-Visit/select squiggly annotation.
+Посетите/выберите волнистую аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| squiggly | [SquigglyAnnotation](../../com.aspose.pdf/squigglyannotation) | SquigglyAnnotation object example/template. |
+| squiggly | [SquigglyAnnotation](../../com.aspose.pdf/squigglyannotation) | Пример/шаблон объекта SquigglyAnnotation. |
 
 ### visit(StampAnnotation stamp) {#visit-com.aspose.pdf.StampAnnotation-}
 ```
-публичный абстрактный недействительный визит (штамп StampAnnotation)
+public abstract void visit(StampAnnotation stamp)
 ```
 
 
-Visit/select stamp annotation.
+Посетите/выберите аннотацию штампа.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| stamp | [StampAnnotation](../../com.aspose.pdf/stampannotation) | StampAnnotation object example/template. |
+| stamp | [StampAnnotation](../../com.aspose.pdf/stampannotation) | Пример/шаблон объекта StampAnnotation. |
 
 ### visit(StrikeOutAnnotation strikeOut) {#visit-com.aspose.pdf.StrikeOutAnnotation-}
 ```
-публичный абстрактный недействительный визит (StrikeOutAnnotation strikeOut)
+public abstract void visit(StrikeOutAnnotation strikeOut)
 ```
 
 
-Visit/select strikeOut annotation.
+Посетите/выберите аннотацию strikeOut.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| strikeOut | [StrikeOutAnnotation](../../com.aspose.pdf/strikeoutannotation) | StrikeOutAnnotation object example/template. |
+| strikeOut | [StrikeOutAnnotation](../../com.aspose.pdf/strikeoutannotation) | Пример/шаблон объекта StrikeOutAnnotation. |
 
 ### visit(TextAnnotation text) {#visit-com.aspose.pdf.TextAnnotation-}
 ```
-публичный абстрактный недействительный визит (текст TextAnnotation)
+public abstract void visit(TextAnnotation text)
 ```
 
 
-Visit/select text annotation.
+Посетите/выберите текстовую аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | [TextAnnotation](../../com.aspose.pdf/textannotation) | TextAnnotation object example/template. |
+| text | [TextAnnotation](../../com.aspose.pdf/textannotation) | Пример/шаблон объекта TextAnnotation. |
 
 ### visit(UnderlineAnnotation underline) {#visit-com.aspose.pdf.UnderlineAnnotation-}
 ```
-публичный абстрактный недействительный визит (подчеркивание UnderlineAnnotation)
+public abstract void visit(UnderlineAnnotation underline)
 ```
 
 
-Visit/select underline annotation.
+Посетите/выберите подчеркнутую аннотацию.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| underline | [UnderlineAnnotation](../../com.aspose.pdf/underlineannotation) | UnderlineAnnotation object example/template. |
+| underline | [UnderlineAnnotation](../../com.aspose.pdf/underlineannotation) | Пример/шаблон объекта UnderlineAnnotation. |
 
 ### visit(WidgetAnnotation widget) {#visit-com.aspose.pdf.WidgetAnnotation-}
 ```
-публичный абстрактный недействительный визит (виджет WidgetAnnotation)
+public abstract void visit(WidgetAnnotation widget)
 ```
 
 
-Visit/select widget annotation.
+Посетите/выберите аннотацию виджета.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| widget | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | WidgetAnnotation object example/template. |
+| widget | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | Пример/шаблон объекта WidgetAnnotation. |

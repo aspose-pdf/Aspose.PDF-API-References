@@ -1,64 +1,68 @@
 ---
-标题：IIndexBitmapConverter
-second_title: Aspose.PDF for Java API 参考
-说明：此接口声明用于自定义量化算法。
-类型：文档
-重量：435
-网址：/java/com.aspose.pdf/iindexbitmapconverter/
----```
-公共接口 IIndexBitmapConverter
+title: IIndexBitmapConverter
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 该接口声明用于自定义量化算法。
+type: docs
+weight: 435
+url: /zh/java/com.aspose.pdf/iindexbitmapconverter/
+---
+```
+public interface IIndexBitmapConverter
 ```
 
-This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms based on unmanaged code).
-## Methods
+该接口声明用于自定义量化算法。用户可以实现自己的算法实现（例如基于非托管代码的算法）。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [get1BppImage(BufferedImage src)](#get1BppImage-java.awt.image.BufferedImage-) | Returns 1Bpp bitmap representation |
-| [get4BppImage(BufferedImage src)](#get4BppImage-java.awt.image.BufferedImage-) | Returns 4Bpp bitmap representation |
-| [get8BppImage(BufferedImage src)](#get8BppImage-java.awt.image.BufferedImage-) | Returns 4Bpp bitmap representation |
+| [get1BppImage(BufferedImage src)](#get1BppImage-java.awt.image.BufferedImage-) | 返回 1Bpp 位图表示 |
+| [get4BppImage(BufferedImage src)](#get4BppImage-java.awt.image.BufferedImage-) | 返回 4Bpp 位图表示 |
+| [get8BppImage(BufferedImage src)](#get8BppImage-java.awt.image.BufferedImage-) | 返回 4Bpp 位图表示 |
 ### get1BppImage(BufferedImage src) {#get1BppImage-java.awt.image.BufferedImage-}
 ```
-公共抽象 BufferedImage get1BppImage(BufferedImage src)
+public abstract BufferedImage get1BppImage(BufferedImage src)
 ```
 
 
-Returns 1Bpp bitmap representation
+返回 1Bpp 位图表示
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| src | java.awt.image.BufferedImage | Source bitmap. |
+| src | java.awt.image.BufferedImage | 源位图。 |
 
-**Returns:**
-java.awt.image.BufferedImage - Bitmap in 1 bpp image format.
+**退货：**
+java.awt.image.BufferedImage - 1 bpp 图像格式的位图。
 ### get4BppImage(BufferedImage src) {#get4BppImage-java.awt.image.BufferedImage-}
 ```
-公共抽象 BufferedImage get4BppImage(BufferedImage src)
+public abstract BufferedImage get4BppImage(BufferedImage src)
 ```
 
 
-Returns 4Bpp bitmap representation
+返回 4Bpp 位图表示
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| src | java.awt.image.BufferedImage | Source bitmap. |
+| src | java.awt.image.BufferedImage | 源位图。 |
 
-**Returns:**
-java.awt.image.BufferedImage - Bitmap in 4 bpp image format.
+**退货：**
+java.awt.image.BufferedImage - 4 bpp 图像格式的位图。
 ### get8BppImage(BufferedImage src) {#get8BppImage-java.awt.image.BufferedImage-}
 ```
-公共抽象 BufferedImage get8BppImage(BufferedImage src)
+public abstract BufferedImage get8BppImage(BufferedImage src)
 ```
 
 
-Returns 4Bpp bitmap representation
+返回 4Bpp 位图表示
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| src | java.awt.image.BufferedImage | Source bitmap. |
+| src | java.awt.image.BufferedImage | 源位图。 |
 
-**Returns:**
-java.awt.image.BufferedImage - Bitmap in 4 bpp image format.
+**退货：**
+java.awt.image.BufferedImage - 4 bpp 图像格式的位图。

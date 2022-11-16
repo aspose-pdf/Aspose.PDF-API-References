@@ -1,7 +1,7 @@
 ---
 title: IPdfFileEditor
 second_title: Aspose.PDF для справки по Java API
-description: Реализует операции с конкатенацией файлов PDF, разделением, извлечением страниц, созданием буклетов и т.д.
+description: Реализует операции с конкатенацией файлов PDF, разделением, извлечением страниц, созданием буклетов и т. д.
 type: docs
 weight: 70
 url: /ru/java/com.aspose.pdf.facades/ipdffileeditor/
@@ -10,1963 +10,2033 @@ url: /ru/java/com.aspose.pdf.facades/ipdffileeditor/
 public interface IPdfFileEditor
 ```
 
-Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.
-## Methods
+Реализует операции с файлом PDF: объединение, разбиение, извлечение страниц, создание буклета и др.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [addMargins(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMargins-java.io.InputStream-java.io.OutputStream-int---double-double-double-double-) | Resizes page contents and add specifed margins. |
-| [addMargins(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMargins-java.lang.String-java.lang.String-int---double-double-double-double-) | Resizes page contents and add specifed margins. |
-| [addMarginsPct(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMarginsPct-java.io.InputStream-java.io.OutputStream-int---double-double-double-double-) | Resizes page contents and add specified margins. |
-| [addMarginsPct(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMarginsPct-java.lang.String-java.lang.String-int---double-double-double-double-) | Resizes page contents and add specified margins. |
-| [append(InputStream inputStream, InputStream portStream, int startPage, int endPage, OutputStream outputStream)](#append-java.io.InputStream-java.io.InputStream-int-int-java.io.OutputStream-) | Appends pages,which are chosen from portStream within the range from startPage to endPage, in portStream at the end of firstInputStream. |
-| [append(InputStream inputStream, InputStream[] portStreams, int startPage, int endPage, OutputStream outputStream)](#append-java.io.InputStream-java.io.InputStream---int-int-java.io.OutputStream-) | Appends pages, which are chosen from array of documents in portStreams. |
-| [append(String inputFile, String portFile, int startPage, int endPage, String outputFile)](#append-java.lang.String-java.lang.String-int-int-java.lang.String-) | Appends pages, which are chosen from portFile within the range from startPage to endPage, in portFile at the end of firstInputFile. |
-| [append(String inputFile, String[] portFiles, int startPage, int endPage, String outputFile)](#append-java.lang.String-java.lang.String---int-int-java.lang.String-) | Appends pages, which are chosen from portFiles documents. |
-| [concatenate(IDocument[] src, IDocument dest)](#concatenate-com.aspose.pdf.IDocument---com.aspose.pdf.IDocument-) | Concatenates documents. |
-| [concatenate(InputStream firstInputStream, InputStream secInputStream, InputStream blankPageStream, OutputStream outputStream)](#concatenate-java.io.InputStream-java.io.InputStream-java.io.InputStream-java.io.OutputStream-) | Merges two Pdf documents into a new Pdf document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. |
-| [concatenate(InputStream firstInputStream, InputStream secInputStream, OutputStream outputStream)](#concatenate-java.io.InputStream-java.io.InputStream-java.io.OutputStream-) | Concatenates two files. |
-| [concatenate(InputStream[] inputStream, OutputStream outputStream)](#concatenate-java.io.InputStream---java.io.OutputStream-) | Concatenates files |
-| [concatenate(String firstInputFile, String secInputFile, String outputFile)](#concatenate-java.lang.String-java.lang.String-java.lang.String-) | Concatentates two files. |
-| [concatenate(String firstInputFile, String secInputFile, String blankPageFile, String outputFile)](#concatenate-java.lang.String-java.lang.String-java.lang.String-java.lang.String-) | Merges two Pdf documents into a new Pdf document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. |
-| [concatenate(String[] inputFiles, String outputFile)](#concatenate-java.lang.String---java.lang.String-) | Concatenates files into one file. |
-| [delete(InputStream inputStream, int[] pageNumber, OutputStream outputStream)](#delete-java.io.InputStream-int---java.io.OutputStream-) | Deletes pages specified by number array from input file, saves as a new Pdf file. |
-| [delete(String inputFile, int[] pageNumber, String outputFile)](#delete-java.lang.String-int---java.lang.String-) | Deletes pages specified by number array from input file, saves as a new Pdf file. |
-| [extract(InputStream inputStream, int startPage, int endPage, OutputStream outputStream)](#extract-java.io.InputStream-int-int-java.io.OutputStream-) | Extracts pages from input file,saves as a new Pdf file. |
-| [extract(InputStream inputStream, int[] pageNumber, OutputStream outputStream)](#extract-java.io.InputStream-int---java.io.OutputStream-) | Extracts pages specified by number array, saves as a new Pdf file. |
-| [extract(String inputFile, int startPage, int endPage, String outputFile)](#extract-java.lang.String-int-int-java.lang.String-) | Extracts pages from input file,saves as a new Pdf file. |
-| [extract(String inputFile, int[] pageNumber, String outputFile)](#extract-java.lang.String-int---java.lang.String-) | Extracts pages specified by number array, saves as a new PDF file. |
-| [getAllowConcatenateExceptions()](#getAllowConcatenateExceptions--) | is Allow Concatenate Exceptions |
-| [getAttachmentName()](#getAttachmentName--) | Gets name of attachment when result of operation is stored into HttpServletResponse objects as attachment. |
-| [getCloseConcatenatedStreams()](#getCloseConcatenatedStreams--) | If set to true, streams are closed after operation. |
-| [getContentDisposition()](#getContentDisposition--) | Gets how content will be stored when result of operation is stored into HttpServletResponse object. |
-| [getConversionLog()](#getConversionLog--) | Gets log of conversion process. |
-| [getCorruptedFileAction()](#getCorruptedFileAction--) | This property defines behavior when concatenating process met corrupted file. |
-| [getIncrementalUpdates()](#getIncrementalUpdates--) | If true, incremental updates are made during concatenation. |
-| [getKeepFieldsUnique()](#getKeepFieldsUnique--) | If true then field names will be made unique when forms are concatenated. |
-| [getLastException()](#getLastException--) | Gets last occured exception. |
-| [getMergeDuplicateLayers()](#getMergeDuplicateLayers--) | Optional contents of concatentated documents with equal names will be merged into one layer in resulstant document if this property is true. |
-| [getMergeDuplicateOutlines()](#getMergeDuplicateOutlines--) | If true, duplicate outlines are merged. |
-| [getOwnerPassword()](#getOwnerPassword--) | Gets owner's password if the source input Pdf file is encrypted. |
-| [getPreserveUserRights()](#getPreserveUserRights--) | If true, user rights of first document are applied to concatenated document. |
-| [getRemoveSignatures()](#getRemoveSignatures--) | If true, all signatures will be removed from fields (fields will remain); otherwise, you can get invalid signatures. |
-| [getSaveOptions()](#getSaveOptions--) | Gets or sets save options when result is stored as HttpServletResponse. |
-| [getUniqueSuffix()](#getUniqueSuffix--) | Get format of the suffix which is added to field name to make it unique when forms are concatenated. |
-| [insert(InputStream inputStream, int insertLocation, InputStream portStream, int startPage, int endPage, OutputStream outputStream)](#insert-java.io.InputStream-int-java.io.InputStream-int-int-java.io.OutputStream-) | Inserts pages from an other file into the input Pdf file. |
-| [insert(InputStream inputStream, int insertLocation, InputStream portStream, int[] pageNumber, OutputStream outputStream)](#insert-java.io.InputStream-int-java.io.InputStream-int---java.io.OutputStream-) | Inserts pages from an other file into the input Pdf file. |
-| [insert(String inputFile, int insertLocation, String portFile, int startPage, int endPage, String outputFile)](#insert-java.lang.String-int-java.lang.String-int-int-java.lang.String-) | Inserts pages from an other file into the Pdf file at a position. |
-| [insert(String inputFile, int insertLocation, String portFile, int[] pageNumber, String outputFile)](#insert-java.lang.String-int-java.lang.String-int---java.lang.String-) | Inserts pages from an other file into the input Pdf file. |
-| [makeBooklet(InputStream inputStream, OutputStream outputStream)](#makeBooklet-java.io.InputStream-java.io.OutputStream-) | Makes booklet from the InputStream to outputStream. |
-| [makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize)](#makeBooklet-java.io.InputStream-java.io.OutputStream-com.aspose.pdf.PageSize-) | Makes booklet from the input stream and save result into output stream. |
-| [makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize, int[] leftPages, int[] rightPages)](#makeBooklet-java.io.InputStream-java.io.OutputStream-com.aspose.pdf.PageSize-int---int---) | Makes booklet from the firstInputStream to outputStream. |
-| [makeBooklet(InputStream inputStream, OutputStream outputStream, int[] leftPages, int[] rightPages)](#makeBooklet-java.io.InputStream-java.io.OutputStream-int---int---) | Makes customized booklet from the firstInputStream to outputStream. |
-| [makeBooklet(String inputFile, String outputFile)](#makeBooklet-java.lang.String-java.lang.String-) | Makes booklet from the input file to output file. |
-| [makeBooklet(String inputFile, String outputFile, PageSize pageSize)](#makeBooklet-java.lang.String-java.lang.String-com.aspose.pdf.PageSize-) | Makes booklet from the inputFile to outputFile. |
-| [makeBooklet(String inputFile, String outputFile, PageSize pageSize, int[] leftPages, int[] rightPages)](#makeBooklet-java.lang.String-java.lang.String-com.aspose.pdf.PageSize-int---int---) | Makes customized booklet from the firstInputFile to outputFile. |
-| [makeBooklet(String inputFile, String outputFile, int[] leftPages, int[] rightPages)](#makeBooklet-java.lang.String-java.lang.String-int---int---) | Makes customized booklet from the firstInputFile to outputFile. |
-| [makeNUp(InputStream firstInputStream, InputStream secondInputStream, OutputStream outputStream)](#makeNUp-java.io.InputStream-java.io.InputStream-java.io.OutputStream-) | Makes N-Up document from the two input PDF streams to outputStream. |
-| [makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y)](#makeNUp-java.io.InputStream-java.io.OutputStream-int-int-) | Makes N-Up document from the input stream and saves result into output stream. |
-| [makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y, PageSize pageSize)](#makeNUp-java.io.InputStream-java.io.OutputStream-int-int-com.aspose.pdf.PageSize-) | Makes N-Up document from the first input stream to output stream. |
-| [makeNUp(InputStream[] inputStreams, OutputStream outputStream, boolean isSidewise)](#makeNUp-java.io.InputStream---java.io.OutputStream-boolean-) | Makes N-Up document from the multi input PDF streams to outputStream. |
-| [makeNUp(String inputFile, String outputFile, int x, int y)](#makeNUp-java.lang.String-java.lang.String-int-int-) | Makes N-Up document from the firstInputFile to outputFile. |
-| [makeNUp(String inputFile, String outputFile, int x, int y, PageSize pageSize)](#makeNUp-java.lang.String-java.lang.String-int-int-com.aspose.pdf.PageSize-) | Makes N-Up document from the input file to outputFile. |
-| [makeNUp(String firstInputFile, String secondInputFile, String outputFile)](#makeNUp-java.lang.String-java.lang.String-java.lang.String-) | Makes N-Up document from the two input PDF files to outputFile. |
-| [makeNUp(String[] inputFiles, String outputFile, boolean isSidewise)](#makeNUp-java.lang.String---java.lang.String-boolean-) | Makes N-Up document from the multi input PDF files to outputFile. |
-| [resizeContents(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight)](#resizeContents-java.io.InputStream-java.io.OutputStream-int---double-double-) | Resizes contents of document pages. |
-| [resizeContents(String source, String destination, int[] pages, double newWidth, double newHeight)](#resizeContents-java.lang.String-java.lang.String-int---double-double-) | Resizes contents of document pages. |
-| [resizeContentsPct(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight)](#resizeContentsPct-java.io.InputStream-java.io.OutputStream-int---double-double-) | Resizes contents of document pages. |
-| [resizeContentsPct(String source, String destination, int[] pages, double newWidth, double newHeight)](#resizeContentsPct-java.lang.String-java.lang.String-int---double-double-) | Resizes contents of document pages. |
-| [setAllowConcatenateExceptions(boolean value)](#setAllowConcatenateExceptions-boolean-) | If set to true, exceptions are thrown if error occured. |
-| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Sets name of attachment when result of operation is stored into HttpServletResponse objects as attachment. |
-| [setCloseConcatenatedStreams(boolean value)](#setCloseConcatenatedStreams-boolean-) | If set to true, streams are closed after operation. |
-| [setContentDisposition(int value)](#setContentDisposition-int-) | Sets how content will be stored when result of operation is stored into HttpServletResponse object. |
-| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Sets PDF file format. |
-| [setCorruptedFileAction(int value)](#setCorruptedFileAction-int-) | This property defines behavior when concatenating process met corrupted file. |
-| [setIncrementalUpdates(boolean value)](#setIncrementalUpdates-boolean-) | If true, incremental updates are made during concatenation. |
-| [setKeepFieldsUnique(boolean value)](#setKeepFieldsUnique-boolean-) | If true then field names will be made unique when forms are concatenated. |
-| [setMergeDuplicateLayers(boolean value)](#setMergeDuplicateLayers-boolean-) | Optional contents of concatentated documents with equal names will be merged into one layer in resulstant document if this property is true. |
-| [setMergeDuplicateOutlines(boolean value)](#setMergeDuplicateOutlines-boolean-) | If true, duplicate outlines are merged. |
-| [setOwnerPassword(String value)](#setOwnerPassword-java.lang.String-) | Sets owner's password if the source input Pdf file is encrypted. |
-| [setPreserveUserRights(boolean value)](#setPreserveUserRights-boolean-) | If true, user rights of first document are applied to concatenated document. |
-| [setRemoveSignatures(boolean value)](#setRemoveSignatures-boolean-) | If true, all signatures will be removed from fields (fields will remain); otherwise, you can get invalid signatures. |
-| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpServletResponse. |
-| [setUniqueSuffix(String value)](#setUniqueSuffix-java.lang.String-) | Set format of the suffix which is added to field name to make it unique when forms are concatenated. |
-| [splitFromFirst(InputStream inputStream, int location, OutputStream outputStream)](#splitFromFirst-java.io.InputStream-int-java.io.OutputStream-) | Splits from start to specified location,and saves the front part in output Stream. |
-| [splitFromFirst(String inputFile, int location, String outputFile)](#splitFromFirst-java.lang.String-int-java.lang.String-) | Splits Pdf file from first page to specified location,and saves the front part as a new file. |
-| [splitToBulks(InputStream inputStream, int[][] numberOfPage)](#splitToBulks-java.io.InputStream-int-----) | Splits the Pdf file into several documents.The documents can be single-page or multi-pages. |
-| [splitToBulks(String inputFile, int[][] numberOfPage)](#splitToBulks-java.lang.String-int-----) | Splits the Pdf file into several documents.The documents can be single-page or multi-pages. |
-| [splitToEnd(InputStream inputStream, int location, OutputStream outputStream)](#splitToEnd-java.io.InputStream-int-java.io.OutputStream-) | Splits from specified location, and saves the rear part as a new file Stream. |
-| [splitToEnd(String inputFile, int location, String outputFile)](#splitToEnd-java.lang.String-int-java.lang.String-) | Splits from location, and saves the rear part as a new file. |
-| [splitToPages(InputStream inputStream)](#splitToPages-java.io.InputStream-) | Splits the Pdf file into single-page documents. |
-| [splitToPages(InputStream inputStream, String fileNameTemplate)](#splitToPages-java.io.InputStream-java.lang.String-) | Split the Pdf file into single-page documents and saves it into specified path. |
-| [splitToPages(String inputFile)](#splitToPages-java.lang.String-) | Splits the PDF file into single-page documents. |
-| [splitToPages(String inputFile, String fileNameTemplate)](#splitToPages-java.lang.String-java.lang.String-) | Split the Pdf file into single-page documents and saves it into specified path. |
+| [addMargins(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMargins-java.io.InputStream-java.io.OutputStream-int---double-double-double-double-) | Изменяет размер содержимого страницы и добавляет указанные поля. |
+| [addMargins(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMargins-java.lang.String-java.lang.String-int---double-double-double-double-) | Изменяет размер содержимого страницы и добавляет указанные поля. |
+| [addMarginsPct(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMarginsPct-java.io.InputStream-java.io.OutputStream-int---double-double-double-double-) | Изменяет размер содержимого страницы и добавляет указанные поля. |
+| [addMarginsPct(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)](#addMarginsPct-java.lang.String-java.lang.String-int---double-double-double-double-) | Изменяет размер содержимого страницы и добавляет указанные поля. |
+| [append(InputStream inputStream, InputStream portStream, int startPage, int endPage, OutputStream outputStream)](#append-java.io.InputStream-java.io.InputStream-int-int-java.io.OutputStream-) | Добавляет страницы, выбранные из portStream в диапазоне от startPage до endPage, в portStream в конце firstInputStream. |
+| [append(InputStream inputStream, InputStream[] portStreams, int startPage, int endPage, OutputStream outputStream)](#append-java.io.InputStream-java.io.InputStream---int-int-java.io.OutputStream-) | Добавляет страницы, выбранные из массива документов в portStreams. |
+| [append(String inputFile, String portFile, int startPage, int endPage, String outputFile)](#append-java.lang.String-java.lang.String-int-int-java.lang.String-) | Добавляет страницы, выбранные из portFile в диапазоне от startPage до endPage, в portFile в конце firstInputFile. |
+| [append(String inputFile, String[] portFiles, int startPage, int endPage, String outputFile)](#append-java.lang.String-java.lang.String---int-int-java.lang.String-) | Добавляет страницы, выбранные из документов portFiles. |
+| [concatenate(IDocument[] src, IDocument dest)](#concatenate-com.aspose.pdf.IDocument---com.aspose.pdf.IDocument-) | Объединяет документы. |
+| [concatenate(InputStream firstInputStream, InputStream secInputStream, InputStream blankPageStream, OutputStream outputStream)](#concatenate-java.io.InputStream-java.io.InputStream-java.io.InputStream-java.io.OutputStream-) | Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: document1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. |
+| [concatenate(InputStream firstInputStream, InputStream secInputStream, OutputStream outputStream)](#concatenate-java.io.InputStream-java.io.InputStream-java.io.OutputStream-) | Объединяет два файла. |
+| [concatenate(InputStream[] inputStream, OutputStream outputStream)](#concatenate-java.io.InputStream---java.io.OutputStream-) | Объединяет файлы |
+| [concatenate(String firstInputFile, String secInputFile, String outputFile)](#concatenate-java.lang.String-java.lang.String-java.lang.String-) | Объединяет два файла. |
+| [concatenate(String firstInputFile, String secInputFile, String blankPageFile, String outputFile)](#concatenate-java.lang.String-java.lang.String-java.lang.String-java.lang.String-) | Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: document1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. |
+| [concatenate(String[] inputFiles, String outputFile)](#concatenate-java.lang.String---java.lang.String-) | Объединяет файлы в один файл. |
+| [delete(InputStream inputStream, int[] pageNumber, OutputStream outputStream)](#delete-java.io.InputStream-int---java.io.OutputStream-) | Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf. |
+| [delete(String inputFile, int[] pageNumber, String outputFile)](#delete-java.lang.String-int---java.lang.String-) | Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf. |
+| [extract(InputStream inputStream, int startPage, int endPage, OutputStream outputStream)](#extract-java.io.InputStream-int-int-java.io.OutputStream-) | Извлекает страницы из входного файла, сохраняет как новый файл Pdf. |
+| [extract(InputStream inputStream, int[] pageNumber, OutputStream outputStream)](#extract-java.io.InputStream-int---java.io.OutputStream-) | Извлекает страницы, указанные числовым массивом, сохраняет как новый файл Pdf. |
+| [extract(String inputFile, int startPage, int endPage, String outputFile)](#extract-java.lang.String-int-int-java.lang.String-) | Извлекает страницы из входного файла, сохраняет как новый файл Pdf. |
+| [extract(String inputFile, int[] pageNumber, String outputFile)](#extract-java.lang.String-int---java.lang.String-) | Извлекает страницы, указанные числовым массивом, сохраняет как новый файл PDF. |
+| [getAllowConcatenateExceptions()](#getAllowConcatenateExceptions--) | Разрешить объединение исключений |
+| [getAttachmentName()](#getAttachmentName--) | Получает имя вложения, когда результат операции сохраняется в объектах HttpServletResponse как вложение. |
+| [getCloseConcatenatedStreams()](#getCloseConcatenatedStreams--) | Если установлено значение true, потоки закрываются после операции. |
+| [getContentDisposition()](#getContentDisposition--) | Получает способ хранения содержимого при сохранении результата операции в объекте HttpServletResponse. |
+| [getConversionLog()](#getConversionLog--) | Получает журнал процесса преобразования. |
+| [getCorruptedFileAction()](#getCorruptedFileAction--) | Это свойство определяет поведение, когда процесс объединения встречает поврежденный файл. |
+| [getIncrementalUpdates()](#getIncrementalUpdates--) | Если true, во время конкатенации выполняются добавочные обновления. |
+| [getKeepFieldsUnique()](#getKeepFieldsUnique--) | Если true, то имена полей будут уникальными при объединении форм. |
+| [getLastException()](#getLastException--) | Получает последнее произошедшее исключение. |
+| [getMergeDuplicateLayers()](#getMergeDuplicateLayers--) | Необязательное содержимое объединенных документов с одинаковыми именами будет объединено в один слой результирующего документа, если это свойство истинно. |
+| [getMergeDuplicateOutlines()](#getMergeDuplicateOutlines--) | Если true, повторяющиеся контуры объединяются. |
+| [getOwnerPassword()](#getOwnerPassword--) | Получает пароль владельца, если исходный входной файл Pdf зашифрован. |
+| [getPreserveUserRights()](#getPreserveUserRights--) | Если true, права пользователя первого документа применяются к объединенному документу. |
+| [getRemoveSignatures()](#getRemoveSignatures--) | Если true, все подписи будут удалены с полей (поля останутся); в противном случае вы можете получить недействительные подписи. |
+| [getSaveOptions()](#getSaveOptions--) | Получает или задает параметры сохранения, когда результат сохраняется как HttpServletResponse. |
+| [getUniqueSuffix()](#getUniqueSuffix--) | Получить формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. |
+| [insert(InputStream inputStream, int insertLocation, InputStream portStream, int startPage, int endPage, OutputStream outputStream)](#insert-java.io.InputStream-int-java.io.InputStream-int-int-java.io.OutputStream-) | Вставляет страницы из другого файла во входной файл Pdf. |
+| [insert(InputStream inputStream, int insertLocation, InputStream portStream, int[] pageNumber, OutputStream outputStream)](#insert-java.io.InputStream-int-java.io.InputStream-int---java.io.OutputStream-) | Вставляет страницы из другого файла во входной файл Pdf. |
+| [insert(String inputFile, int insertLocation, String portFile, int startPage, int endPage, String outputFile)](#insert-java.lang.String-int-java.lang.String-int-int-java.lang.String-) | Вставляет страницы из другого файла в файл Pdf в позицию. |
+| [insert(String inputFile, int insertLocation, String portFile, int[] pageNumber, String outputFile)](#insert-java.lang.String-int-java.lang.String-int---java.lang.String-) | Вставляет страницы из другого файла во входной файл Pdf. |
+| [makeBooklet(InputStream inputStream, OutputStream outputStream)](#makeBooklet-java.io.InputStream-java.io.OutputStream-) | Создает буклет из InputStream в outputStream. |
+| [makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize)](#makeBooklet-java.io.InputStream-java.io.OutputStream-com.aspose.pdf.PageSize-) | Делает буклет из входного потока и сохраняет результат в выходной поток. |
+| [makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize, int[] leftPages, int[] rightPages)](#makeBooklet-java.io.InputStream-java.io.OutputStream-com.aspose.pdf.PageSize-int---int---) | Создает буклет из firstInputStream в outputStream. |
+| [makeBooklet(InputStream inputStream, OutputStream outputStream, int[] leftPages, int[] rightPages)](#makeBooklet-java.io.InputStream-java.io.OutputStream-int---int---) | Создает настраиваемый буклет из firstInputStream в outputStream. |
+| [makeBooklet(String inputFile, String outputFile)](#makeBooklet-java.lang.String-java.lang.String-) | Делает буклет из входного файла в выходной файл. |
+| [makeBooklet(String inputFile, String outputFile, PageSize pageSize)](#makeBooklet-java.lang.String-java.lang.String-com.aspose.pdf.PageSize-) | Делает буклет из inputFile в outputFile. |
+| [makeBooklet(String inputFile, String outputFile, PageSize pageSize, int[] leftPages, int[] rightPages)](#makeBooklet-java.lang.String-java.lang.String-com.aspose.pdf.PageSize-int---int---) | Создает настраиваемый буклет из файла firstInputFile в файл outputFile. |
+| [makeBooklet(String inputFile, String outputFile, int[] leftPages, int[] rightPages)](#makeBooklet-java.lang.String-java.lang.String-int---int---) | Создает настраиваемый буклет из файла firstInputFile в файл outputFile. |
+| [makeNUp(InputStream firstInputStream, InputStream secondInputStream, OutputStream outputStream)](#makeNUp-java.io.InputStream-java.io.InputStream-java.io.OutputStream-) | Создает документ N-Up из двух входных потоков PDF в outputStream. |
+| [makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y)](#makeNUp-java.io.InputStream-java.io.OutputStream-int-int-) | Создает документ N-Up из входного потока и сохраняет результат в выходной поток. |
+| [makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y, PageSize pageSize)](#makeNUp-java.io.InputStream-java.io.OutputStream-int-int-com.aspose.pdf.PageSize-) | Создает документ N-Up из первого входного потока в выходной поток. |
+| [makeNUp(InputStream[] inputStreams, OutputStream outputStream, boolean isSidewise)](#makeNUp-java.io.InputStream---java.io.OutputStream-boolean-) | Создает документ N-Up из нескольких входных потоков PDF в outputStream. |
+| [makeNUp(String inputFile, String outputFile, int x, int y)](#makeNUp-java.lang.String-java.lang.String-int-int-) | Создает документ N-Up из firstInputFile в outputFile. |
+| [makeNUp(String inputFile, String outputFile, int x, int y, PageSize pageSize)](#makeNUp-java.lang.String-java.lang.String-int-int-com.aspose.pdf.PageSize-) | Создает документ N-Up из входного файла в outputFile. |
+| [makeNUp(String firstInputFile, String secondInputFile, String outputFile)](#makeNUp-java.lang.String-java.lang.String-java.lang.String-) | Создает документ N-Up из двух входных PDF-файлов в outputFile. |
+| [makeNUp(String[] inputFiles, String outputFile, boolean isSidewise)](#makeNUp-java.lang.String---java.lang.String-boolean-) | Создает документ N-Up из нескольких входных PDF-файлов в outputFile. |
+| [resizeContents(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight)](#resizeContents-java.io.InputStream-java.io.OutputStream-int---double-double-) | Изменяет размер содержимого страниц документа. |
+| [resizeContents(String source, String destination, int[] pages, double newWidth, double newHeight)](#resizeContents-java.lang.String-java.lang.String-int---double-double-) | Изменяет размер содержимого страниц документа. |
+| [resizeContentsPct(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight)](#resizeContentsPct-java.io.InputStream-java.io.OutputStream-int---double-double-) | Изменяет размер содержимого страниц документа. |
+| [resizeContentsPct(String source, String destination, int[] pages, double newWidth, double newHeight)](#resizeContentsPct-java.lang.String-java.lang.String-int---double-double-) | Изменяет размер содержимого страниц документа. |
+| [setAllowConcatenateExceptions(boolean value)](#setAllowConcatenateExceptions-boolean-) | Если установлено значение true, при возникновении ошибки генерируются исключения. |
+| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Задает имя вложения, когда результат операции сохраняется в объектах HttpServletResponse как вложение. |
+| [setCloseConcatenatedStreams(boolean value)](#setCloseConcatenatedStreams-boolean-) | Если установлено значение true, потоки закрываются после операции. |
+| [setContentDisposition(int value)](#setContentDisposition-int-) | Устанавливает, как содержимое будет сохранено, когда результат операции будет сохранен в объекте HttpServletResponse. |
+| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Устанавливает формат файла PDF. |
+| [setCorruptedFileAction(int value)](#setCorruptedFileAction-int-) | Это свойство определяет поведение, когда процесс объединения встречает поврежденный файл. |
+| [setIncrementalUpdates(boolean value)](#setIncrementalUpdates-boolean-) | Если true, во время конкатенации выполняются добавочные обновления. |
+| [setKeepFieldsUnique(boolean value)](#setKeepFieldsUnique-boolean-) | Если true, то имена полей будут уникальными при объединении форм. |
+| [setMergeDuplicateLayers(boolean value)](#setMergeDuplicateLayers-boolean-) | Необязательное содержимое объединенных документов с одинаковыми именами будет объединено в один слой результирующего документа, если это свойство истинно. |
+| [setMergeDuplicateOutlines(boolean value)](#setMergeDuplicateOutlines-boolean-) | Если true, повторяющиеся контуры объединяются. |
+| [setOwnerPassword(String value)](#setOwnerPassword-java.lang.String-) | Устанавливает пароль владельца, если исходный входной файл Pdf зашифрован. |
+| [setPreserveUserRights(boolean value)](#setPreserveUserRights-boolean-) | Если true, права пользователя первого документа применяются к объединенному документу. |
+| [setRemoveSignatures(boolean value)](#setRemoveSignatures-boolean-) | Если true, все подписи будут удалены с полей (поля останутся); в противном случае вы можете получить недействительные подписи. |
+| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Задает параметры сохранения, когда результат сохраняется как HttpServletResponse. |
+| [setUniqueSuffix(String value)](#setUniqueSuffix-java.lang.String-) | Установите формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. |
+| [splitFromFirst(InputStream inputStream, int location, OutputStream outputStream)](#splitFromFirst-java.io.InputStream-int-java.io.OutputStream-) | Разбивается от начала до указанного места и сохраняет переднюю часть в выходном потоке. |
+| [splitFromFirst(String inputFile, int location, String outputFile)](#splitFromFirst-java.lang.String-int-java.lang.String-) | Разбивает файл Pdf с первой страницы в указанное место и сохраняет переднюю часть как новый файл. |
+| [splitToBulks(InputStream inputStream, int[][] numberOfPage)](#splitToBulks-java.io.InputStream-int-----) | Разбивает файл Pdf на несколько документов. Документы могут быть одностраничными или многостраничными. |
+| [splitToBulks(String inputFile, int[][] numberOfPage)](#splitToBulks-java.lang.String-int-----) | Разбивает файл Pdf на несколько документов. Документы могут быть одностраничными или многостраничными. |
+| [splitToEnd(InputStream inputStream, int location, OutputStream outputStream)](#splitToEnd-java.io.InputStream-int-java.io.OutputStream-) | Разбивается из указанного места и сохраняет заднюю часть как новый файловый поток. |
+| [splitToEnd(String inputFile, int location, String outputFile)](#splitToEnd-java.lang.String-int-java.lang.String-) | Отделяется от местоположения и сохраняет заднюю часть как новый файл. |
+| [splitToPages(InputStream inputStream)](#splitToPages-java.io.InputStream-) | Разбивает файл Pdf на одностраничные документы. |
+| [splitToPages(InputStream inputStream, String fileNameTemplate)](#splitToPages-java.io.InputStream-java.lang.String-) | Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. |
+| [splitToPages(String inputFile)](#splitToPages-java.lang.String-) | Разбивает файл PDF на одностраничные документы. |
+| [splitToPages(String inputFile, String fileNameTemplate)](#splitToPages-java.lang.String-java.lang.String-) | Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. |
 ### addMargins(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin) {#addMargins-java.io.InputStream-java.io.OutputStream-int---double-double-double-double-}
 ```
-общедоступный абстрактный логический addMargins (источник InputStream, назначение OutputStream, int[] страницы, двойное левое поле, двойное правое поле, двойное верхнее поле, двойное нижнее поле)
+public abstract boolean addMargins(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
 ```
 
 
-Resizes page contents and add specifed margins. Margins are specified in default space units.
+Изменяет размер содержимого страницы и добавляет указанные поля. Поля указаны в пространственных единицах по умолчанию.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream src = новый FileInputStream("input.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
- fileEditor.addMargins (источник, пункт назначения,
- // обрабатываем страницы 1, 2, 3
- 	новый инт[]
- 	{1, 2, 3},
- 	// левое поле 10 единиц
+ fileEditor.addMargins(src, dest,
+ // process pages 1, 2, 3
+ 	new int[]
+ 	{ 1, 2, 3 },
+ 	// left margin is 10 units
  	10,
- 	// правое поле 5 единиц
+ 	// right margin is 5 units
  	5,
- 	// верхнее поле 5 единиц
+ 	// top margin is 5 units
  	5,
- 	// нижнее поле 5 единиц
+ 	// bottom margin is 5 units
  	5);
- назначения.Закрыть();
+ dest.Close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.io.InputStream | Stream which contains source document. |
-| destination | java.io.OutputStream | Stream where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin. |
-| rightMargin | double | Right margin. |
-| topMargin | double | Top margin. |
-| bottomMargin | double | Bottom margin. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean value
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.io.InputStream | Поток, содержащий исходный документ. |
+| destination | java.io.OutputStream | Поток, где результирующий документ будет сохранен. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | double | Левое поле. |
+| rightMargin | double | Правая маржа. |
+| topMargin | double | Верхнее поле. |
+| bottomMargin | double | Нижний край. |
+
+**Возвращает:**
+boolean - логическое значение
 ### addMargins(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin) {#addMargins-java.lang.String-java.lang.String-int---double-double-double-double-}
 ```
-общедоступный абстрактный логический addMargins (источник строки, пункт назначения строки, int[] страницы, двойное левое поле, двойное правое поле, двойное верхнее поле, двойное нижнее поле)
+public abstract boolean addMargins(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
 ```
 
 
-Resizes page contents and add specifed margins. Margins are specified in default space units.
+Изменяет размер содержимого страницы и добавляет указанные поля. Поля указаны в пространственных единицах по умолчанию.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
+PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMargins("input.pdf", "output.pdf",
- // обрабатываем страницы 1, 2, 3
- 	новый инт[]
- 	{1, 2, 3},
- 	// левое поле 10 единиц
+ // process pages 1, 2, 3
+ 	new int[]
+ 	{ 1, 2, 3 },
+ 	// left margin is 10 units
  	10,
- 	// правое поле 5 единиц
+ 	// right margin is 5 units
  	5,
- 	// верхнее поле 5 единиц
+ 	// top margin is 5 units
  	5,
- 	// нижнее поле 5 единиц
+ 	// bottom margin is 5 units
  	5);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.lang.String | Path to source document. |
-| destination | java.lang.String | Path where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin. |
-| rightMargin | double | Right margin. |
-| topMargin | double | Top margin. |
-| bottomMargin | double | Bottom margin. |
+**Параметры:**
 
-**Returns:**
-boolean - true if resize was successful.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.lang.String | Путь к исходному документу. |
+| destination | java.lang.String | Путь, по которому будет сохранен результирующий документ. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | double | Левое поле. |
+| rightMargin | double | Правая маржа. |
+| topMargin | double | Верхнее поле. |
+| bottomMargin | double | Нижний край. |
+
+**Возвращает:**
+boolean - true, если изменение размера прошло успешно.
 ### addMarginsPct(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin) {#addMarginsPct-java.io.InputStream-java.io.OutputStream-int---double-double-double-double-}
 ```
-общедоступное абстрактное логическое значение addMarginsPct (источник InputStream, место назначения OutputStream, int[] страницы, двойное левое поле, двойное правое поле, двойное верхнее поле, двойное нижнее поле)
+public abstract boolean addMarginsPct(InputStream source, OutputStream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
 ```
 
 
-Resizes page contents and add specified margins. Margins are specified in percents of intitial page size.
+Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в процентах от исходного размера страницы.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream src = новый FileInputStream("input.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
- fileEditor.addMarginsPct (источник, пункт назначения,
- // обрабатываем страницы 1, 2, 3
- 	новый инт[]
- 	{1, 2, 3},
- 	// левое поле составляет 15% от ширины страницы
+ fileEditor.addMarginsPct(src, dest,
+ // process pages 1, 2, 3
+ 	new int[]
+ 	{ 1, 2, 3 },
+ 	// left margin is 15% of page width
  	15,
- 	// правое поле составляет 10% от ширины страницы
+ 	// right margin is 10% of page width
  	10,
- 	// верхнее поле составляет 20% от ширины страницы
+ 	// top margin is 20% of page width
  	20,
- 	// нижнее поле составляет 5% от ширины страницы
+ 	// bottom margin is 5% of page width
  	5);
- назначение.закрыть();
+ dest.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.io.InputStream | Stream which contains source document. |
-| destination | java.io.OutputStream | Stream where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin in percents of initial page size. |
-| rightMargin | double | Right margin in percents of initial page size. |
-| topMargin | double | Top margin in percents of initial page size. |
-| bottomMargin | double | Bottom margin in percents of initial page size. |
+**Параметры:**
 
-**Returns:**
-boolean - true if resize was successful
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.io.InputStream | Поток, содержащий исходный документ. |
+| destination | java.io.OutputStream | Поток, где результирующий документ будет сохранен. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | double | Левое поле в процентах от исходного размера страницы. |
+| rightMargin | double | Правое поле в процентах от исходного размера страницы. |
+| topMargin | double | Верхнее поле в процентах от исходного размера страницы. |
+| bottomMargin | double | Нижнее поле в процентах от исходного размера страницы. |
+
+**Возвращает:**
+boolean - true, если изменение размера прошло успешно
 ### addMarginsPct(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin) {#addMarginsPct-java.lang.String-java.lang.String-int---double-double-double-double-}
 ```
-общедоступный абстрактный логический addMarginsPct (источник строки, пункт назначения строки, int[] страницы, двойное левое поле, двойное правое поле, двойное верхнее поле, двойное нижнее поле)
+public abstract boolean addMarginsPct(String source, String destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
 ```
 
 
-Resizes page contents and add specified margins. Margins are specified in percents of intitial page size.
+Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в процентах от исходного размера страницы.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
+PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMarginsPct("input.pdf", "output.pdf",
- // обрабатываем страницы 1, 2, 3
- 	новый инт[]
- 	{1, 2, 3},
- 	// левое поле составляет 15% от ширины страницы
+ // process pages 1, 2, 3
+ 	new int[]
+ 	{ 1, 2, 3 },
+ 	// left margin is 15% of page width
  	15,
- 	// правое поле составляет 10% от ширины страницы
+ 	// right margin is 10% of page width
  	10,
- 	// верхнее поле составляет 20% от ширины страницы
+ 	// top margin is 20% of page width
  	20,
- 	// нижнее поле составляет 5% от ширины страницы
+ 	// bottom margin is 5% of page width
  	5);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.lang.String | Path to source document. |
-| destination | java.lang.String | Path where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin in percents of initial page size. |
-| rightMargin | double | Right margin in percents of initial page size. |
-| topMargin | double | Top margin in percents of initial page size. |
-| bottomMargin | double | Bottom margin in percents of initial page size. |
+**Параметры:**
 
-**Returns:**
-boolean - true if resize was successful
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.lang.String | Путь к исходному документу. |
+| destination | java.lang.String | Путь, по которому будет сохранен результирующий документ. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | double | Левое поле в процентах от исходного размера страницы. |
+| rightMargin | double | Правое поле в процентах от исходного размера страницы. |
+| topMargin | double | Верхнее поле в процентах от исходного размера страницы. |
+| bottomMargin | double | Нижнее поле в процентах от исходного размера страницы. |
+
+**Возвращает:**
+boolean - true, если изменение размера прошло успешно
 ### append(InputStream inputStream, InputStream portStream, int startPage, int endPage, OutputStream outputStream) {#append-java.io.InputStream-java.io.InputStream-int-int-java.io.OutputStream-}
 ```
-общедоступное абстрактное логическое добавление (InputStream inputStream, InputStream portStream, int startPage, int endPage, OutputStream outputStream)
+public abstract boolean append(InputStream inputStream, InputStream portStream, int startPage, int endPage, OutputStream outputStream)
 ```
 
 
-Appends pages,which are chosen from portStream within the range from startPage to endPage, in portStream at the end of firstInputStream.
+Добавляет страницы, выбранные из portStream в диапазоне от startPage до endPage, в portStream в конце firstInputStream.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream instream = новый FileInputStream("input.pdf");
- InputStream stream1 = новый FileInputStream("file1.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream instream = new FileInputStream("input.pdf");
+ InputStream stream1 = new FileInputStream("file1.pdf");
  OutputStream outstream = new FileOutputStream("outfile.pdf");
  fileEditor.append(instream, stream1, 3, 5, outstream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input file Stream. |
-| portStream | java.io.InputStream | Pages from Pdf file Stream. |
-| startPage | int | Page starts in portFile Stream. |
-| endPage | int | Page ends in portFile Stream. |
-| outputStream | java.io.OutputStream | Output Pdf file Stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной файл Поток. |
+| portStream | java.io.InputStream | Страницы из файла Pdf Stream. |
+| startPage | int | Страница начинается в порту File Stream. |
+| endPage | int | Страница заканчивается в portFile Stream. |
+| outputStream | java.io.OutputStream | Выходной файл Pdf Stream. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### append(InputStream inputStream, InputStream[] portStreams, int startPage, int endPage, OutputStream outputStream) {#append-java.io.InputStream-java.io.InputStream---int-int-java.io.OutputStream-}
 ```
-общедоступное абстрактное логическое добавление (InputStream inputStream, InputStream[] portStreams, int startPage, int endPage, OutputStream outputStream)
+public abstract boolean append(InputStream inputStream, InputStream[] portStreams, int startPage, int endPage, OutputStream outputStream)
 ```
 
 
-Appends pages, which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage.
+Добавляет страницы, выбранные из массива документов в portStreams. Результирующий документ включает страницы firstInputFile и всех документов portStreams в диапазоне от startPage до endPage.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream instream = новый FileInputStream("input.pdf");
- InputStream stream1 = новый FileInputStream("file1.pdf");
- InputStream stream2 = новый FileInputStream("file2.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream instream = new FileInputStream("input.pdf");
+ InputStream stream1 = new FileInputStream("file1.pdf");
+ InputStream stream2 = new FileInputStream("file2.pdf");
  OutputStream outstream = new FileOutputStream("outfile.pdf");
- fileEditor.append(instream, новый поток[]
- {поток1, поток2}, 3, 5, исходящий поток);
+ fileEditor.append(instream, new Stream[]
+ { stream1, stream2 }, 3, 5, outstream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input Pdf stream. |
-| portStreams | java.io.InputStream[] | Documents to copy pages from. |
-| startPage | int | Page starts in portStreams documents. |
-| endPage | int | Page ends in portStreams documents . |
-| outputStream | java.io.OutputStream | Output Pdf stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной поток PDF. |
+| portStreams | java.io.InputStream[] | Документы, из которых нужно скопировать страницы. |
+| startPage | int | Страница начинается в документах portStreams. |
+| endPage | int | Страница заканчивается в документах portStreams. |
+| outputStream | java.io.OutputStream | Выходной поток PDF. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### append(String inputFile, String portFile, int startPage, int endPage, String outputFile) {#append-java.lang.String-java.lang.String-int-int-java.lang.String-}
 ```
-общедоступное абстрактное логическое добавление (String inputFile, String portFile, int startPage, int endPage, String outputFile)
+public abstract boolean append(String inputFile, String portFile, int startPage, int endPage, String outputFile)
 ```
 
 
-Appends pages, which are chosen from portFile within the range from startPage to endPage, in portFile at the end of firstInputFile.
+Добавляет страницы, выбранные из portFile в диапазоне от startPage до endPage, в portFile в конце firstInputFile.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
+PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.append("input.pdf", "file1.pdf", 3, 5, "outfile.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input Pdf file. |
-| portFile | java.lang.String | Pages from Pdf file. |
-| startPage | int | Page starts in portFile. |
-| endPage | int | Page ends in portFile. |
-| outputFile | java.lang.String | Output Pdf document. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Входной файл PDF. |
+| portFile | java.lang.String | Страницы из файла PDF. |
+| startPage | int | Страница начинается в portFile. |
+| endPage | int | Страница заканчивается в portFile. |
+| outputFile | java.lang.String | Выходной PDF-документ. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### append(String inputFile, String[] portFiles, int startPage, int endPage, String outputFile) {#append-java.lang.String-java.lang.String---int-int-java.lang.String-}
 ```
-публичное абстрактное логическое добавление (String inputFile, String[] portFiles, int startPage, int endPage, String outputFile)
+public abstract boolean append(String inputFile, String[] portFiles, int startPage, int endPage, String outputFile)
 ```
 
 
-Appends pages, which are chosen from portFiles documents. The result document includes firstInputFile and all portFiles documents pages in the range startPage to endPage.
+Добавляет страницы, выбранные из документов portFiles. Результирующий документ включает firstInputFile и все страницы документов portFiles в диапазоне от startPage до endPage.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- fileEditor.append("input.pdf", новая строка[]
+PdfFileEditor fileEditor = new PdfFileEditor();
+ fileEditor.append("input.pdf", new string[]
  { "file1.pdf", "file2.pdf" }, 3, 5, "outfile.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input Pdf file. |
-| portFiles | java.lang.String[] | Documents to copy pages from. |
-| startPage | int | Page starts in portFiles documents. |
-| endPage | int | Page ends in portFiles documents . |
-| outputFile | java.lang.String | Output Pdf document. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Входной файл PDF. |
+| portFiles | java.lang.String[] | Документы, из которых нужно скопировать страницы. |
+| startPage | int | Страница начинается в документах portFiles. |
+| endPage | int | Страница заканчивается в документах portFiles. |
+| outputFile | java.lang.String | Выходной PDF-документ. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### concatenate(IDocument[] src, IDocument dest) {#concatenate-com.aspose.pdf.IDocument---com.aspose.pdf.IDocument-}
 ```
-общедоступная абстрактная логическая конкатенация (IDocument[] источник, пункт назначения IDocument)
+public abstract boolean concatenate(IDocument[] src, IDocument dest)
 ```
 
 
-Concatenates documents.
+Объединяет документы.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | [IDocument\[\]](../../com.aspose.pdf/idocument) | Array of source documents. |
-| dest | [IDocument](../../com.aspose.pdf/idocument) | Destination document. |
+| src | [IDocument\[\]](../../com.aspose.pdf/idocument) | Массив исходных документов. |
+| dest | [IDocument](../../com.aspose.pdf/idocument) | Документ назначения. |
 
-**Returns:**
-boolean - True if concatenation is successful.
+**Возвращает:**
+boolean — Истинно, если конкатенация прошла успешно.
 ### concatenate(InputStream firstInputStream, InputStream secInputStream, InputStream blankPageStream, OutputStream outputStream) {#concatenate-java.io.InputStream-java.io.InputStream-java.io.InputStream-java.io.OutputStream-}
 ```
-общедоступная абстрактная логическая конкатенация (InputStream firstInputStream, InputStream secInputStream, InputStream BlankPageStream, OutputStream outputStream)
+public abstract boolean concatenate(InputStream firstInputStream, InputStream secInputStream, InputStream blankPageStream, OutputStream outputStream)
 ```
 
 
-Merges two Pdf documents into a new Pdf document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. Merging the two Pdf document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
+Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: document1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf создаст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream stream1 = новый FileInputStream("file1.pdf");
- InputStream stream2 = новый FileInputStream("file2.pdf");
- Пустой InputStream = новый FileInputStream("blank.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream stream1 = new FileInputStream("file1.pdf");
+ InputStream stream2 = new FileInputStream("file2.pdf");
+ InputStream blank = new FileInputStream("blank.pdf");
  OutputStream outstream = new FileOutputStream("outfile.pdf");
- fileEditor.concatenate (новый поток[]
- {поток1, поток2, пустой}, исходящий);
+ fileEditor.concatenate(new Stream[]
+ { stream1, stream2, blank }, outstream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputStream | java.io.InputStream | The first Pdf Stream. |
-| secInputStream | java.io.InputStream | The second Pdf Stream. |
-| blankPageStream | java.io.InputStream | The Pdf Stream with blank page |
-| outputStream | java.io.OutputStream | Output Pdf Stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| firstInputStream | java.io.InputStream | Первый Pdf-поток. |
+| secInputStream | java.io.InputStream | Второй поток PDF. |
+| blankPageStream | java.io.InputStream | Поток Pdf с пустой страницей |
+| outputStream | java.io.OutputStream | Выходной поток PDF. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### concatenate(InputStream firstInputStream, InputStream secInputStream, OutputStream outputStream) {#concatenate-java.io.InputStream-java.io.InputStream-java.io.OutputStream-}
 ```
-общедоступная абстрактная логическая конкатенация (InputStream firstInputStream, InputStream secInputStream, OutputStream outputStream)
+public abstract boolean concatenate(InputStream firstInputStream, InputStream secInputStream, OutputStream outputStream)
 ```
 
 
-Concatenates two files.
+Объединяет два файла.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream stream1 = новый FileInputStream("file1.pdf");
- InputStream stream2 = новый FileInputStream("file2.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream stream1 = new FileInputStream("file1.pdf");
+ InputStream stream2 = new FileInputStream("file2.pdf");
  OutputStream outstream = new FileOutputStream("outfile.pdf");
- fileEditor.concatenate (поток1, поток2, исходящий поток);
+ fileEditor.concatenate(stream1, stream2, outstream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputStream | java.io.InputStream | Stream of first file. |
-| secInputStream | java.io.InputStream | Stream of second file. |
-| outputStream | java.io.OutputStream | Stream where result file will be stored. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| firstInputStream | java.io.InputStream | Поток первого файла. |
+| secInputStream | java.io.InputStream | Поток второго файла. |
+| outputStream | java.io.OutputStream | Поток, в котором будет храниться файл результатов. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### concatenate(InputStream[] inputStream, OutputStream outputStream) {#concatenate-java.io.InputStream---java.io.OutputStream-}
 ```
-публичная абстрактная логическая конкатенация (InputStream[] inputStream, OutputStream outputStream)
+public abstract boolean concatenate(InputStream[] inputStream, OutputStream outputStream)
 ```
 
 
-Concatenates files
+Объединяет файлы
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream stream1 = новый FileInputStream("file1.pdf");
- InputStream stream2 = новый FileInputStream("file2.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream stream1 = new FileInputStream("file1.pdf");
+ InputStream stream2 = new FileInputStream("file2.pdf");
  OutputStream outstream = new FileOutputStream("outfile.pdf");
- fileEditor.concatenate (новый поток[]
- {поток1, поток2}, исходящий поток);
+ fileEditor.concatenate(new Stream[]
+ { stream1, stream2 }, outstream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream[] | Array of streams to be concatenated. |
-| outputStream | java.io.OutputStream | Stream where result file will be stored. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream[] | Массив потоков для объединения. |
+| outputStream | java.io.OutputStream | Поток, в котором будет храниться файл результатов. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### concatenate(String firstInputFile, String secInputFile, String outputFile) {#concatenate-java.lang.String-java.lang.String-java.lang.String-}
 ```
-общедоступная абстрактная логическая конкатенация (String firstInputFile, String secInputFile, String outputFile)
+public abstract boolean concatenate(String firstInputFile, String secInputFile, String outputFile)
 ```
 
 
-Concatentates two files.
+Объединяет два файла.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
+PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputFile | java.lang.String | First file to concatenate. |
-| secInputFile | java.lang.String | Second file to concatenate. |
-| outputFile | java.lang.String | Output file. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| firstInputFile | java.lang.String | Первый файл для объединения. |
+| secInputFile | java.lang.String | Второй файл для объединения. |
+| outputFile | java.lang.String | Выходной файл. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### concatenate(String firstInputFile, String secInputFile, String blankPageFile, String outputFile) {#concatenate-java.lang.String-java.lang.String-java.lang.String-java.lang.String-}
 ```
-общедоступная абстрактная логическая конкатенация (String firstInputFile, String secInputFile, String BlankPageFile, String outputFile)
+public abstract boolean concatenate(String firstInputFile, String secInputFile, String blankPageFile, String outputFile)
 ```
 
 
-Merges two Pdf documents into a new Pdf document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. Merging the two Pdf document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
+Объединяет два документа Pdf в новый документ Pdf со страницами по-разному и заполняет пустые места пустыми страницами. например: document1 имеет 5 страниц: p1, p2, p3, p4, p5. document2 имеет 3 страницы: p1', p2', p3'. Объединение двух документов Pdf создаст результирующий документ со страницами: p1, p1', p2, p2', p3, p3', p4, пустая страница, p5, пустая страница.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputFile | java.lang.String | First file. |
-| secInputFile | java.lang.String | Second file. |
-| blankPageFile | java.lang.String | PDF file with blank page. |
-| outputFile | java.lang.String | Result file. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| firstInputFile | java.lang.String | Первый файл. |
+| secInputFile | java.lang.String | Второй файл. |
+| blankPageFile | java.lang.String | PDF-файл с пустой страницей. |
+| outputFile | java.lang.String | Файл результата. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### concatenate(String[] inputFiles, String outputFile) {#concatenate-java.lang.String---java.lang.String-}
 ```
-публичная абстрактная логическая конкатенация (строка[] inputFiles, String outputFile)
+public abstract boolean concatenate(String[] inputFiles, String outputFile)
 ```
 
 
-Concatenates files into one file.
+Объединяет файлы в один файл.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.concatenate (новая строка[]
- "src1.pdf", "src2.pdf" }, "dest.pdf");
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.concatenate(new string[]
+ { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFiles | java.lang.String[] | Array of files to concatenate. |
-| outputFile | java.lang.String | Name of output file. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFiles | java.lang.String[] | Массив файлов для объединения. |
+| outputFile | java.lang.String | Имя выходного файла. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### delete(InputStream inputStream, int[] pageNumber, OutputStream outputStream) {#delete-java.io.InputStream-int---java.io.OutputStream-}
 ```
-публичное абстрактное логическое удаление (InputStream inputStream, int[] pageNumber, OutputStream outputStream)
+public abstract boolean delete(InputStream inputStream, int[] pageNumber, OutputStream outputStream)
 ```
 
 
-Deletes pages specified by number array from input file, saves as a new Pdf file.
+Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream inputStream = новый FileInputStream("input.pdf");
- OutputStream outputStream = новый FileOutputStream("output.pdf");
- pfe.Delete (входной поток, новый интервал[]
- { 2, 3 }, выходной поток);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream intputStream = new FileInputStream("input.pdf");
+ OutputStream outputStream = new FileOutputStream("output.pdf");
+ pfe.Delete(inputStream, new int[]
+ { 2, 3 }, outputStream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input file Stream. |
-| pageNumber | int[] | Index of page out of the input file. |
-| outputStream | java.io.OutputStream | Output file stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной файл Поток. |
+| pageNumber | int[] | Индекс страницы из входного файла. |
+| outputStream | java.io.OutputStream | Выходной файловый поток. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### delete(String inputFile, int[] pageNumber, String outputFile) {#delete-java.lang.String-int---java.lang.String-}
 ```
-публичное абстрактное логическое удаление (String inputFile, int[] pageNumber, String outputFile)
+public abstract boolean delete(String inputFile, int[] pageNumber, String outputFile)
 ```
 
 
-Deletes pages specified by number array from input file, saves as a new Pdf file.
+Удаляет страницы, заданные числовым массивом, из входного файла, сохраняет как новый файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.delete("input.pdf", новый интервал[]
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.delete("input.pdf", new int[]
  { 2, 3 }, "out.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input file path. |
-| pageNumber | int[] | Index of page out of the input file. |
-| outputFile | java.lang.String | Output file path. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Путь к входному файлу. |
+| pageNumber | int[] | Индекс страницы из входного файла. |
+| outputFile | java.lang.String | Путь к выходному файлу. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### extract(InputStream inputStream, int startPage, int endPage, OutputStream outputStream) {#extract-java.io.InputStream-int-int-java.io.OutputStream-}
 ```
-открытый абстрактный логический экстракт (InputStream inputStream, int startPage, int endPage, OutputStream outputStream)
+public abstract boolean extract(InputStream inputStream, int startPage, int endPage, OutputStream outputStream)
 ```
 
 
-Extracts pages from input file,saves as a new Pdf file.
+Извлекает страницы из входного файла, сохраняет как новый файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream sourceStream = новый FileInputStream("file1.pdf");
- OutputStream outStream = новый FileOutputStream("out.pdf");
- pfe.extract (исходный поток, 1, 3, 6, исходящий поток);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream sourceStream = new FileInputStream("file1.pdf");
+ OutputStream outStream = new FileOutputStream("out.pdf");
+ pfe.extract(sourceStream, 1, 3, 6, outStream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input file Stream. |
-| startPage | int | Start page number. |
-| endPage | int | End page number. |
-| outputStream | java.io.OutputStream | Output Pdf file Stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной файл Поток. |
+| startPage | int | Номер стартовой страницы. |
+| endPage | int | Конечный номер страницы. |
+| outputStream | java.io.OutputStream | Выходной файл Pdf Stream. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### extract(InputStream inputStream, int[] pageNumber, OutputStream outputStream) {#extract-java.io.InputStream-int---java.io.OutputStream-}
 ```
-открытый абстрактный логический экстракт (InputStream inputStream, int[] pageNumber, OutputStream outputStream)
+public abstract boolean extract(InputStream inputStream, int[] pageNumber, OutputStream outputStream)
 ```
 
 
-Extracts pages specified by number array, saves as a new Pdf file.
+Извлекает страницы, указанные числовым массивом, сохраняет как новый файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream sourceStream = новый FileInputStream("file1.pdf");
- OutputStream outStream = новый FileOutputStream("out.pdf");
- pfe.extract (исходный поток, новый интервал[]
- {3, 5, 8}, outStream);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream sourceStream = new FileInputStream("file1.pdf");
+ OutputStream outStream = new FileOutputStream("out.pdf");
+ pfe.extract(sourceStream, new int[]
+ { 3, 5, 8 }, outStream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input file Stream. |
-| pageNumber | int[] | Index of page out of the input file. |
-| outputStream | java.io.OutputStream | Output file stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной файл Поток. |
+| pageNumber | int[] | Индекс страницы из входного файла. |
+| outputStream | java.io.OutputStream | Выходной файловый поток. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### extract(String inputFile, int startPage, int endPage, String outputFile) {#extract-java.lang.String-int-int-java.lang.String-}
 ```
-открытый абстрактный логический экстракт (String inputFile, int startPage, int endPage, String outputFile)
+public abstract boolean extract(String inputFile, int startPage, int endPage, String outputFile)
 ```
 
 
-Extracts pages from input file,saves as a new Pdf file.
+Извлекает страницы из входного файла, сохраняет как новый файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.extract("input.pdf", 3, 7, "output.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input Pdf file path. |
-| startPage | int | Start page number. |
-| endPage | int | End page number. |
-| outputFile | java.lang.String | Output Pdf file path. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Введите путь к файлу PDF. |
+| startPage | int | Номер стартовой страницы. |
+| endPage | int | Конечный номер страницы. |
+| outputFile | java.lang.String | Выходной путь к файлу Pdf. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### extract(String inputFile, int[] pageNumber, String outputFile) {#extract-java.lang.String-int---java.lang.String-}
 ```
-публичный абстрактный логический экстракт (String inputFile, int[] pageNumber, String outputFile)
+public abstract boolean extract(String inputFile, int[] pageNumber, String outputFile)
 ```
 
 
-Extracts pages specified by number array, saves as a new PDF file.
+Извлекает страницы, указанные числовым массивом, сохраняет как новый файл PDF.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.extract("input.pdf", новый интервал[]
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.extract("input.pdf", new int[]
  { 3, 5, 7 }, "output.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input file path. |
-| pageNumber | int[] | Index of page out of the input file. |
-| outputFile | java.lang.String | Output file path. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Путь к входному файлу. |
+| pageNumber | int[] | Индекс страницы из входного файла. |
+| outputFile | java.lang.String | Путь к выходному файлу. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### getAllowConcatenateExceptions() {#getAllowConcatenateExceptions--}
 ```
-публичное абстрактное логическое значение getAllowConcatenateExceptions()
+public abstract boolean getAllowConcatenateExceptions()
 ```
 
 
-is Allow Concatenate Exceptions
+Разрешить объединение исключений
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getAttachmentName() {#getAttachmentName--}
 ```
-общедоступная абстрактная строка getAttachmentName()
+public abstract String getAttachmentName()
 ```
 
 
-Gets name of attachment when result of operation is stored into HttpServletResponse objects as attachment.
+Получает имя вложения, когда результат операции сохраняется в объектах HttpServletResponse как вложение.
 
-**Returns:**
-java.lang.String - string value
+**Возвращает:**
+java.lang.String — строковое значение
 ### getCloseConcatenatedStreams() {#getCloseConcatenatedStreams--}
 ```
-публичное абстрактное логическое значение getCloseConcatenatedStreams()
+public abstract boolean getCloseConcatenatedStreams()
 ```
 
 
-If set to true, streams are closed after operation.
+Если установлено значение true, потоки закрываются после операции.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.setCloseConcatenatedStreams (истина);
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.setCloseConcatenatedStreams(true);
 ```
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getContentDisposition() {#getContentDisposition--}
 ```
-общедоступная абстракция int getContentDisposition()
+public abstract int getContentDisposition()
 ```
 
 
-Gets how content will be stored when result of operation is stored into HttpServletResponse object. Possible value: inline / attachment. Default: inline.
+Получает способ хранения содержимого при сохранении результата операции в объекте HttpServletResponse. Возможное значение: inline/attachment. По умолчанию: встроенный.
 
-**Returns:**
-int - ContentDisposition element
+**Возвращает:**
+int — элемент ContentDisposition
 ### getConversionLog() {#getConversionLog--}
 ```
-общедоступная абстрактная строка getConversionLog()
+public abstract String getConversionLog()
 ```
 
 
-Gets log of conversion process.
+Получает журнал процесса преобразования.
 
-**Returns:**
-java.lang.String - string value
+**Возвращает:**
+java.lang.String — строковое значение
 ### getCorruptedFileAction() {#getCorruptedFileAction--}
 ```
-общедоступная абстракция int getCorruptedFileAction()
+public abstract int getCorruptedFileAction()
 ```
 
 
-This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnoringCorrupted.
+Это свойство определяет поведение, когда процесс объединения встречает поврежденный файл. Возможные значения: StopWithError и ConcatenateIgnoringCorrupted.
 
-**Returns:**
-int - ConcatenateCorruptedFileAction element
+**Возвращает:**
+int — элемент ConcatenateCorruptedFileAction
 ### getIncrementalUpdates() {#getIncrementalUpdates--}
 ```
-публичное абстрактное логическое значение getIncrementalUpdates()
+public abstract boolean getIncrementalUpdates()
 ```
 
 
-If true, incremental updates are made during concatenation.
+Если true, во время конкатенации выполняются добавочные обновления.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getKeepFieldsUnique() {#getKeepFieldsUnique--}
 ```
-публичное абстрактное логическое значение getKeepFieldsUnique()
+public abstract boolean getKeepFieldsUnique()
 ```
 
 
-If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may be specified in UniqueSuffix property.
+Если true, то имена полей будут уникальными при объединении форм. К именам полей будут добавлены суффиксы, шаблон суффикса можно указать в свойстве UniqueSuffix.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getLastException() {#getLastException--}
 ```
-публичное абстрактное исключение getLastException()
+public abstract Exception getLastException()
 ```
 
 
-Gets last occured exception. May be used to check the reason of failure when AllowconcatenateExceptions = false.
+Получает последнее произошедшее исключение. Может использоваться для проверки причины сбоя, когда AllowconcatenateExceptions = false.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.setAllowConcatenateExceptions (ложь);
- если (!pfe.concatenate("", "", ""))
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.setAllowConcatenateExceptions(false);
+ if (!pfe.concatenate("", "", ""))
  {
-     Система.out.println("");
-     если (pfe.getLastException() != ноль)
+     System.out.println("");
+     if (pfe.getLastException() != null)
      {
  	System.out.println(pfe.getLastException().getMessage());
- 	если (pfe.getLastException().getCause() != ноль)
+ 	if (pfe.getLastException().getCause() != null)
  	    System.out.println(pfe.getLastException().getCause().getMessage());
      }
  }
 ```
 
-**Returns:**
-java.lang.Exception - java.lang.Exception object
+**Возвращает:**
+java.lang.Exception — объект java.lang.Exception
 ### getMergeDuplicateLayers() {#getMergeDuplicateLayers--}
 ```
-публичное абстрактное логическое значение getMergeDuplicateLayers()
+public abstract boolean getMergeDuplicateLayers()
 ```
 
 
-Optional contents of concatentated documents with equal names will be merged into one layer in resulstant document if this property is true. Else, layers with equal names will be save as different layers in resultant document.
+Необязательное содержимое объединенных документов с одинаковыми именами будет объединено в один слой результирующего документа, если это свойство истинно. В противном случае слои с одинаковыми именами будут сохранены в результирующем документе как разные слои.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getMergeDuplicateOutlines() {#getMergeDuplicateOutlines--}
 ```
-публичное абстрактное логическое значение getMergeDuplicateOutlines()
+public abstract boolean getMergeDuplicateOutlines()
 ```
 
 
-If true, duplicate outlines are merged.
+Если true, повторяющиеся контуры объединяются.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getOwnerPassword() {#getOwnerPassword--}
 ```
-общедоступная абстрактная строка getOwnerPassword()
+public abstract String getOwnerPassword()
 ```
 
 
-Gets owner's password if the source input Pdf file is encrypted. This property is not implemented yet.
+Получает пароль владельца, если исходный входной файл Pdf зашифрован. Это свойство еще не реализовано.
 
-**Returns:**
-java.lang.String - string value
+**Возвращает:**
+java.lang.String — строковое значение
 ### getPreserveUserRights() {#getPreserveUserRights--}
 ```
-публичное абстрактное логическое значение getPreserveUserRights()
+public abstract boolean getPreserveUserRights()
 ```
 
 
-If true, user rights of first document are applied to concatenated document. User rights of all other documents are ignored.
+Если true, права пользователя первого документа применяются к объединенному документу. Права пользователя на все остальные документы игнорируются.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getRemoveSignatures() {#getRemoveSignatures--}
 ```
-публичное абстрактное логическое значение getRemoveSignatures()
+public abstract boolean getRemoveSignatures()
 ```
 
 
-If true, all signatures will be removed from fields (fields will remain); otherwise, you can get invalid signatures.
+Если true, все подписи будут удалены с полей (поля останутся); в противном случае вы можете получить недействительные подписи.
 
-**Returns:**
-boolean - boolean value
+**Возвращает:**
+boolean - логическое значение
 ### getSaveOptions() {#getSaveOptions--}
 ```
-открытый абстрактный SaveOptions getSaveOptions()
+public abstract SaveOptions getSaveOptions()
 ```
 
 
-Gets or sets save options when result is stored as HttpServletResponse. Default value: PdfSaveOptions.
+Получает или задает параметры сохранения, когда результат сохраняется как HttpServletResponse. Значение по умолчанию: пдфсавеоптионс.
 
-**Returns:**
-[SaveOptions](../../com.aspose.pdf/saveoptions) - SaveOptions object
+**Возвращает:**
+[SaveOptions](../../com.aspose.pdf/saveoptions) - Объект SaveOptions
 ### getUniqueSuffix() {#getUniqueSuffix--}
 ```
-общедоступная абстрактная строка getUniqueSuffix()
+public abstract String getUniqueSuffix()
 ```
 
 
-Get format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain %NUM% substring which will be replaced with numbers. For example if UniqueSuffix = "ABC%NUM%" then for field "fieldName" names will be: fieldNameABC1, fieldNameABC2, fieldNameABC3 etc.
+Получить формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку %NUM%, которая будет заменена числами. Например, если UniqueSuffix = "ABC%NUM%", то для поля "fieldName" будут имена: fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д.
 
-**Returns:**
-java.lang.String - string value
+**Возвращает:**
+java.lang.String — строковое значение
 ### insert(InputStream inputStream, int insertLocation, InputStream portStream, int startPage, int endPage, OutputStream outputStream) {#insert-java.io.InputStream-int-java.io.InputStream-int-int-java.io.OutputStream-}
 ```
-общедоступная абстрактная логическая вставка (InputStream inputStream, int insertLocation, InputStream portStream, int startPage, int endPage, OutputStream outputStream)
+public abstract boolean insert(InputStream inputStream, int insertLocation, InputStream portStream, int startPage, int endPage, OutputStream outputStream)
 ```
 
 
-Inserts pages from an other file into the input Pdf file.
+Вставляет страницы из другого файла во входной файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream sourceStream = новый FileInputStream("file1.pdf");
- InputStream insertStream = новый FileInputStream ("file2.pdf");
- OutputStream outStream = новый FileOutputStream("out.pdf");
- pfe.insert (исходный поток, 1, вставленный поток, 2, 6, исходящий поток);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream sourceStream = new FileInputStream("file1.pdf");
+ InputStream insertedStream = new FileInputStream("file2.pdf");
+ OutputStream outStream = new FileOutputStream("out.pdf");
+ pfe.insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input Stream of Pdf file. |
-| insertLocation | int | Insert position in input file. |
-| portStream | java.io.InputStream | Stream of Pdf file for pages. |
-| startPage | int | From which page to start. |
-| endPage | int | To which page to end. |
-| outputStream | java.io.OutputStream | Output Stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной поток файла PDF. |
+| insertLocation | int | Вставить позицию во входной файл. |
+| portStream | java.io.InputStream | Поток файла Pdf для страниц. |
+| startPage | int | С какой страницы начать. |
+| endPage | int | На какой странице закончить. |
+| outputStream | java.io.OutputStream | Выходной поток. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### insert(InputStream inputStream, int insertLocation, InputStream portStream, int[] pageNumber, OutputStream outputStream) {#insert-java.io.InputStream-int-java.io.InputStream-int---java.io.OutputStream-}
 ```
-общедоступная абстрактная логическая вставка (InputStream inputStream, int insertLocation, InputStream portStream, int[] pageNumber, OutputStream outputStream)
+public abstract boolean insert(InputStream inputStream, int insertLocation, InputStream portStream, int[] pageNumber, OutputStream outputStream)
 ```
 
 
-Inserts pages from an other file into the input Pdf file.
+Вставляет страницы из другого файла во входной файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream sourceStream = новый FileInputStream("file1.pdf");
- InputStream insertStream = новый FileInputStream ("file2.pdf");
- OutputStream outStream = новый FileOutputStream("out.pdf");
- pfe.insert (исходный поток, 1, вставленный поток, новый интервал[]
- {3, 4, 5}, исходящий поток);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream sourceStream = new FileInputStream("file1.pdf");
+ InputStream insertedStream = new FileInputStream("file2.pdf");
+ OutputStream outStream = new FileOutputStream("out.pdf");
+ pfe.insert(sourceStream, 1, insertedStream, new int[]
+ { 3, 4, 5 }, outStream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input Stream of Pdf file. |
-| insertLocation | int | Insert position in input file. |
-| portStream | java.io.InputStream | Stream of Pdf file for pages. |
-| pageNumber | int[] | The page number of the ported in portFile. |
-| outputStream | java.io.OutputStream | Output Stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной поток файла PDF. |
+| insertLocation | int | Вставить позицию во входной файл. |
+| portStream | java.io.InputStream | Поток файла Pdf для страниц. |
+| pageNumber | int[] | Номер страницы портированного файла portFile. |
+| outputStream | java.io.OutputStream | Выходной поток. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### insert(String inputFile, int insertLocation, String portFile, int startPage, int endPage, String outputFile) {#insert-java.lang.String-int-java.lang.String-int-int-java.lang.String-}
 ```
-общедоступная абстрактная логическая вставка (String inputFile, int insertLocation, String portFile, int startPage, int endPage, String outputFile)
+public abstract boolean insert(String inputFile, int insertLocation, String portFile, int startPage, int endPage, String outputFile)
 ```
 
 
-Inserts pages from an other file into the Pdf file at a position.
+Вставляет страницы из другого файла в файл Pdf в позицию.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input Pdf file. |
-| insertLocation | int | Position in input file. |
-| portFile | java.lang.String | The porting Pdf file. |
-| startPage | int | Start position in portFile. |
-| endPage | int | End position in portFile. |
-| outputFile | java.lang.String | Output Pdf file. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Входной файл PDF. |
+| insertLocation | int | Позиция во входном файле. |
+| portFile | java.lang.String | Файл переноса в формате PDF. |
+| startPage | int | Начальная позиция в portFile. |
+| endPage | int | Конечная позиция в portFile. |
+| outputFile | java.lang.String | Выходной PDF-файл. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### insert(String inputFile, int insertLocation, String portFile, int[] pageNumber, String outputFile) {#insert-java.lang.String-int-java.lang.String-int---java.lang.String-}
 ```
-общедоступная абстрактная логическая вставка (String inputFile, int insertLocation, String portFile, int[] pageNumber, String outputFile)
+public abstract boolean insert(String inputFile, int insertLocation, String portFile, int[] pageNumber, String outputFile)
 ```
 
 
-Inserts pages from an other file into the input Pdf file.
+Вставляет страницы из другого файла во входной файл Pdf.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.insert("file1.pdf", 1, "out.pdf", 2, 6, "out.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input Pdf file. |
-| insertLocation | int | Insert position in input file. |
-| portFile | java.lang.String | Pages from the Pdf file. |
-| pageNumber | int[] | The page number of the ported in portFile. |
-| outputFile | java.lang.String | Output Pdf file. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Входной файл PDF. |
+| insertLocation | int | Вставить позицию во входной файл. |
+| portFile | java.lang.String | Страницы из файла PDF. |
+| pageNumber | int[] | Номер страницы портированного файла portFile. |
+| outputFile | java.lang.String | Выходной PDF-файл. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### makeBooklet(InputStream inputStream, OutputStream outputStream) {#makeBooklet-java.io.InputStream-java.io.OutputStream-}
 ```
-открытый абстрактный логический makeBooklet (InputStream inputStream, OutputStream outputStream)
+public abstract boolean makeBooklet(InputStream inputStream, OutputStream outputStream)
 ```
 
 
-Makes booklet from the InputStream to outputStream.
+Создает буклет из InputStream в outputStream.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream inputStream = новый FileInputStream ("input.pdf");
- OutputStream outputStream = новый FileOutputStream("output.pdf");
- pfe.makeBooklet (входной поток, выходной поток);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream inputStream = new FileInputStream("input.pdf");
+ OutputStream outputStream = new FileOutputStream("output.pdf");
+ pfe.makeBooklet(inputStream, outputStream);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input pdf stream. |
-| outputStream | java.io.OutputStream | output pdf stream. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной pdf-поток. |
+| outputStream | java.io.OutputStream | выходной pdf-поток. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize) {#makeBooklet-java.io.InputStream-java.io.OutputStream-com.aspose.pdf.PageSize-}
 ```
-открытый абстрактный логический makeBooklet (InputStream inputStream, OutputStream outputStream, PageSize pageSize)
+public abstract boolean makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize)
 ```
 
 
-Makes booklet from the input stream and save result into output stream.
+Делает буклет из входного потока и сохраняет результат в выходной поток.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream inputStream = новый FileInputStream ("input.pdf");
- OutputStream outputStream = новый FileOutputStream("output.pdf");
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream inputStream = new FileInputStream("input.pdf");
+ OutputStream outputStream = new FileOutputStream("output.pdf");
  pfe.makeBooklet(inputStream, outputStream, PageSize.A4);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input PDF stream. |
-| outputStream | java.io.OutputStream | output pdf stream. |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | The page size of the output pdf file. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной поток PDF. |
+| outputStream | java.io.OutputStream | выходной pdf-поток. |
+| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы выходного pdf-файла. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize, int[] leftPages, int[] rightPages) {#makeBooklet-java.io.InputStream-java.io.OutputStream-com.aspose.pdf.PageSize-int---int---}
 ```
-открытый абстрактный логический makeBooklet (InputStream inputStream, OutputStream outputStream, PageSize pageSize, int[] левые страницы, интервал[] правые страницы)
+public abstract boolean makeBooklet(InputStream inputStream, OutputStream outputStream, PageSize pageSize, int[] leftPages, int[] rightPages)
 ```
 
 
-Makes booklet from the firstInputStream to outputStream.
+Создает буклет из firstInputStream в outputStream.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream inputStream = новый FileInputStream ("input.pdf");
- OutputStream outputStream = новый FileOutputStream("output.pdf");
- pfe.makeBooklet (inputStream, outputStream, PageSize.A4, новый int[] { 2, 4, 6 }, новый интервал[] 1, 3, 5, 7 });
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream inputStream = new FileInputStream("input.pdf");
+ OutputStream outputStream = new FileOutputStream("output.pdf");
+ pfe.makeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | The input stream. |
-| outputStream | java.io.OutputStream | output pdf stream. |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | The page size of the output pdf file. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной поток. |
+| outputStream | java.io.OutputStream | выходной pdf-поток. |
+| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы выходного pdf-файла. |
+| leftPages | int[] | Левые страницы. |
+| rightPages | int[] | Правильные страницы. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeBooklet(InputStream inputStream, OutputStream outputStream, int[] leftPages, int[] rightPages) {#makeBooklet-java.io.InputStream-java.io.OutputStream-int---int---}
 ```
-открытый абстрактный логический makeBooklet (InputStream inputStream, OutputStream outputStream, int[] левые страницы, интервал[] правые страницы)
+public abstract boolean makeBooklet(InputStream inputStream, OutputStream outputStream, int[] leftPages, int[] rightPages)
 ```
 
 
-Makes customized booklet from the firstInputStream to outputStream.
+Создает настраиваемый буклет из firstInputStream в outputStream.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream inputStream = новый FileInputStream ("input.pdf");
- OutputStream outputStream = новый FileOutputStream("output.pdf");
- pfe.makeBooklet (входной поток, выходной поток, новый интервал[] { 2, 4, 6 }, новый интервал[] 1, 3, 5, 7 });
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream inputStream = new FileInputStream("input.pdf");
+ OutputStream outputStream = new FileOutputStream("output.pdf");
+ pfe.makeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | The input stream. |
-| outputStream | java.io.OutputStream | output pdf stream. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной поток. |
+| outputStream | java.io.OutputStream | выходной pdf-поток. |
+| leftPages | int[] | Левые страницы. |
+| rightPages | int[] | Правильные страницы. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeBooklet(String inputFile, String outputFile) {#makeBooklet-java.lang.String-java.lang.String-}
 ```
-открытый абстрактный логический makeBooklet (String inputFile, String outputFile)
+public abstract boolean makeBooklet(String inputFile, String outputFile)
 ```
 
 
-Makes booklet from the input file to output file.
+Делает буклет из входного файла в выходной файл.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.makeBooklet("input.pdf", "output.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input pdf file path and name. |
-| outputFile | java.lang.String | Output pdf file path and name. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Введите путь и имя файла PDF. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeBooklet(String inputFile, String outputFile, PageSize pageSize) {#makeBooklet-java.lang.String-java.lang.String-com.aspose.pdf.PageSize-}
 ```
-открытый абстрактный логический makeBooklet (String inputFile, String outputFile, PageSize pageSize)
+public abstract boolean makeBooklet(String inputFile, String outputFile, PageSize pageSize)
 ```
 
 
-Makes booklet from the inputFile to outputFile.
+Делает буклет из inputFile в outputFile.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.makeBooklet("input.pdf", "output.pdf", PageSize.A4);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input pdf file path and name. |
-| outputFile | java.lang.String | Output pdf file path and name. |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | The page size of the output pdf file. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation is succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Введите путь и имя файла PDF. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы выходного pdf-файла. |
+
+**Возвращает:**
+boolean — Истинно, если операция прошла успешно.
 ### makeBooklet(String inputFile, String outputFile, PageSize pageSize, int[] leftPages, int[] rightPages) {#makeBooklet-java.lang.String-java.lang.String-com.aspose.pdf.PageSize-int---int---}
 ```
-открытый абстрактный логический makeBooklet (String inputFile, String outputFile, PageSize pageSize, int[] левые страницы, интервал[] правые страницы)
+public abstract boolean makeBooklet(String inputFile, String outputFile, PageSize pageSize, int[] leftPages, int[] rightPages)
 ```
 
 
-Makes customized booklet from the firstInputFile to outputFile.
+Создает настраиваемый буклет из файла firstInputFile в файл outputFile.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.makeBooklet("input.pdf", "output.pdf", PageSize.A4, новый int[] { 2, 4, 6 }, новый интервал[] 1, 3, 5, 7 });
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.makeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | The input file. |
-| outputFile | java.lang.String | Output pdf file path and name. |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | The page size of the output pdf file. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Входной файл. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы выходного pdf-файла. |
+| leftPages | int[] | Левые страницы. |
+| rightPages | int[] | Правильные страницы. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeBooklet(String inputFile, String outputFile, int[] leftPages, int[] rightPages) {#makeBooklet-java.lang.String-java.lang.String-int---int---}
 ```
-открытый абстрактный логический makeBooklet (String inputFile, String outputFile, int[] левые страницы, интервал[] правые страницы)
+public abstract boolean makeBooklet(String inputFile, String outputFile, int[] leftPages, int[] rightPages)
 ```
 
 
-Makes customized booklet from the firstInputFile to outputFile.
+Создает настраиваемый буклет из файла firstInputFile в файл outputFile.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.makeBooklet("input.pdf", "output.pdf", новый интервал[] { 2, 4, 6 }, новый интервал[] 1, 3, 5, 7 });
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.makeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | The input file. |
-| outputFile | java.lang.String | Output pdf file path and name. |
-| leftPages | int[] | The left pages of the booklet. |
-| rightPages | int[] | The right pages of the booklet. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Входной файл. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+| leftPages | int[] | Левые страницы буклета. |
+| rightPages | int[] | Правые страницы буклета. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeNUp(InputStream firstInputStream, InputStream secondInputStream, OutputStream outputStream) {#makeNUp-java.io.InputStream-java.io.InputStream-java.io.OutputStream-}
 ```
-открытый абстрактный логический makeNUp (InputStream firstInputStream, InputStream secondInputStream, OutputStream outputStream)
+public abstract boolean makeNUp(InputStream firstInputStream, InputStream secondInputStream, OutputStream outputStream)
 ```
 
 
-Makes N-Up document from the two input PDF streams to outputStream.
+Создает документ N-Up из двух входных потоков PDF в outputStream.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream input1 = новый FileInputStream("input1.pdf");
- InputStream input2 = новый FileInputStream("input2.pdf");
- OutputStream output = новый FileOutputStream("output.pdf");
- pfe.makeNUp (вход1, ввод2, вывод);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream input1 = new FileInputStream("input1.pdf");
+ InputStream input2 = new FileInputStream("input2.pdf");
+ OutputStream output = new FileOutputStream("output.pdf");
+ pfe.makeNUp(input1, input2, output);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputStream | java.io.InputStream | first input stream. |
-| secondInputStream | java.io.InputStream | second input stream. |
-| outputStream | java.io.OutputStream | Output pdf stream. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| firstInputStream | java.io.InputStream | первый входной поток. |
+| secondInputStream | java.io.InputStream | второй входной поток. |
+| outputStream | java.io.OutputStream | Выходной pdf-поток. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y) {#makeNUp-java.io.InputStream-java.io.OutputStream-int-int-}
 ```
-открытый абстрактный логический makeNUp (InputStream inputStream, OutputStream outputStream, int x, int y)
+public abstract boolean makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y)
 ```
 
 
-Makes N-Up document from the input stream and saves result into output stream.
+Создает документ N-Up из входного потока и сохраняет результат в выходной поток.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream inputStream = новый FileInputStream ("input.pdf");
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream inputStream = new FileInputStream("input.pdf");
  OutputStream outputStream = new FileInputStream("output.pdf");
- pfe.makeNUp (входной поток, выходной поток, 3, 3);
+ pfe.makeNUp(inputStream, outputStream, 3, 3);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input pdf stream. |
-| outputStream | java.io.OutputStream | Output pdf stream. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной pdf-поток. |
+| outputStream | java.io.OutputStream | Выходной pdf-поток. |
+| x | int | Число столбцов. |
+| y | int | Количество рядов. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y, PageSize pageSize) {#makeNUp-java.io.InputStream-java.io.OutputStream-int-int-com.aspose.pdf.PageSize-}
 ```
-открытый абстрактный логический makeNUp (InputStream inputStream, OutputStream outputStream, int x, int y, PageSize pageSize)
+public abstract boolean makeNUp(InputStream inputStream, OutputStream outputStream, int x, int y, PageSize pageSize)
 ```
 
 
-Makes N-Up document from the first input stream to output stream.
+Создает документ N-Up из первого входного потока в выходной поток.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream inputStream = новый FileInputStream ("input.pdf");
- OutputStream outputStream = новый FileOutputStream("output.pdf");
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream inputStream = new FileInputStream("input.pdf");
+ OutputStream outputStream = new FileOutputStream("output.pdf");
  pfe.makeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | java.io.InputStream | Input pdf stream. |
-| outputStream | java.io.OutputStream | Output pdf stream. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | The page size of the output pdf file. |
+**Параметры:**
 
-**Returns:**
-boolean - True if operation was succeeded.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | java.io.InputStream | Входной pdf-поток. |
+| outputStream | java.io.OutputStream | Выходной pdf-поток. |
+| x | int | Число столбцов. |
+| y | int | Количество рядов. |
+| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы выходного pdf-файла. |
+
+**Возвращает:**
+boolean - Истинно, если операция прошла успешно.
 ### makeNUp(InputStream[] inputStreams, OutputStream outputStream, boolean isSidewise) {#makeNUp-java.io.InputStream---java.io.OutputStream-boolean-}
 ```
-открытый абстрактный логический makeNUp (InputStream[] inputStreams, OutputStream outputStream, boolean isSidewise)
+public abstract boolean makeNUp(InputStream[] inputStreams, OutputStream outputStream, boolean isSidewise)
 ```
 
 
-Makes N-Up document from the multi input PDF streams to outputStream. Each page of outputStream will contain multi pages, which are combination with pages in the input streams of the same page number. The multi-pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
+Создает документ N-Up из нескольких входных потоков PDF в outputStream. Каждая страница outputStream будет содержать несколько страниц, которые объединяются со страницами во входных потоках с тем же номером страницы. Многостраничные страницы складываются горизонтально, если isSidewise имеет значение true, и складываются вертикально, если isSidewise имеет значение false.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream stream1 = новый FileInputStream("input1.pdf");
- InputStream stream2 = новый FileInputStream("input2.pdf");
- InputStream stream3 = новый FileInputStream("input3.pdf");
- OutputStream output = новый FileOutputStream("output.pdf");
- pfe.makeNUp (новый поток[]
- {поток1, поток2, поток3}, вывод, ложь);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream stream1 = new FileInputStream("input1.pdf");
+ InputStream stream2 = new FileInputStream("input2.pdf");
+ InputStream stream3 = new FileInputStream("input3.pdf");
+ OutputStream output = new FileOutputStream("output.pdf");
+ pfe.makeNUp(new Stream[]
+ { stream1, stream2, stream3 }, output, false);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStreams | java.io.InputStream[] | Input Pdf streams. |
-| outputStream | java.io.OutputStream | Output pdf stream. |
-| isSidewise | boolean | Piled up way, true for horizontally and flase for vertically |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStreams | java.io.InputStream[] | Входные потоки Pdf. |
+| outputStream | java.io.OutputStream | Выходной pdf-поток. |
+| isSidewise | boolean | Нагроможденный путь, верный для горизонтального и плоский для вертикального |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeNUp(String inputFile, String outputFile, int x, int y) {#makeNUp-java.lang.String-java.lang.String-int-int-}
 ```
-открытый абстрактный логический makeNUp (String inputFile, String outputFile, int x, int y)
+public abstract boolean makeNUp(String inputFile, String outputFile, int x, int y)
 ```
 
 
-Makes N-Up document from the firstInputFile to outputFile.
+Создает документ N-Up из firstInputFile в outputFile.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.makeNUp("input.pdf", "output.pdf", 3, 3);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input pdf file path and name. |
-| outputFile | java.lang.String | Output pdf file path and name. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Введите путь и имя файла PDF. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+| x | int | Число столбцов. |
+| y | int | Количество рядов. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeNUp(String inputFile, String outputFile, int x, int y, PageSize pageSize) {#makeNUp-java.lang.String-java.lang.String-int-int-com.aspose.pdf.PageSize-}
 ```
-открытый абстрактный логический makeNUp (String inputFile, String outputFile, int x, int y, PageSize pageSize)
+public abstract boolean makeNUp(String inputFile, String outputFile, int x, int y, PageSize pageSize)
 ```
 
 
-Makes N-Up document from the input file to outputFile.
+Создает документ N-Up из входного файла в outputFile.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.makeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Input pdf file path and name. |
-| outputFile | java.lang.String | Output pdf file path and name. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | The page size of the output pdf file. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Введите путь и имя файла PDF. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+| x | int | Число столбцов. |
+| y | int | Количество рядов. |
+| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы выходного pdf-файла. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeNUp(String firstInputFile, String secondInputFile, String outputFile) {#makeNUp-java.lang.String-java.lang.String-java.lang.String-}
 ```
-открытый абстрактный логический makeNUp (строка firstInputFile, String secondInputFile, String outputFile)
+public abstract boolean makeNUp(String firstInputFile, String secondInputFile, String outputFile)
 ```
 
 
-Makes N-Up document from the two input PDF files to outputFile. Each page of outputFile will contain two pages, one page is from the first input file and another is from the second input file. The two pages are piled up horizontally.
+Создает документ N-Up из двух входных PDF-файлов в outputFile. Каждая страница outputFile будет содержать две страницы, одна страница из первого входного файла, а другая из второго входного файла. Две страницы сложены горизонтально.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.makeNUp("input1.pdf", "input2.pdf", "output.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputFile | java.lang.String | first input file. |
-| secondInputFile | java.lang.String | second input file. |
-| outputFile | java.lang.String | Output pdf file path and name. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| firstInputFile | java.lang.String | первый входной файл. |
+| secondInputFile | java.lang.String | второй входной файл. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### makeNUp(String[] inputFiles, String outputFile, boolean isSidewise) {#makeNUp-java.lang.String---java.lang.String-boolean-}
 ```
-общественное абстрактное логическое значение makeNUp(String[] inputFiles, String outputFile, boolean isSidewise)
+public abstract boolean makeNUp(String[] inputFiles, String outputFile, boolean isSidewise)
 ```
 
 
-Makes N-Up document from the multi input PDF files to outputFile. Each page of outputFile will contain multi pages, which are combination with pages in the input files of the same page number. The multi pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
+Создает документ N-Up из нескольких входных PDF-файлов в outputFile. Каждая страница outputFile будет содержать несколько страниц, которые объединяются со страницами во входных файлах с тем же номером страницы. Несколько страниц складываются горизонтально, если isSidewise имеет значение true, и складываются вертикально, если isSidewise имеет значение false.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.makeNUp (новая строка[]
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.makeNUp(new string[]
  { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.pdf", false);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFiles | java.lang.String[] | Input Pdf files. |
-| outputFile | java.lang.String | Output pdf file path and name. |
-| isSidewise | boolean | Piled up way, true for horizontally and flase for vertically. |
+**Параметры:**
 
-**Returns:**
-boolean - boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFiles | java.lang.String[] | Входные PDF-файлы. |
+| outputFile | java.lang.String | Выходной путь и имя файла PDF. |
+| isSidewise | boolean | Сложенный образ, верный для горизонтали и флаш для вертикали. |
+
+**Возвращает:**
+boolean - boolean - True для успеха или false.
 ### resizeContents(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight) {#resizeContents-java.io.InputStream-java.io.OutputStream-int---double-double-}
 ```
-открытый абстрактный логический resizeContents (источник InputStream, назначение OutputStream, int[] страницы, двойная новая ширина, двойная новая высота)
+public abstract boolean resizeContents(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight)
 ```
 
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в пространственных единицах по умолчанию.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream src = новый FileInputStream("input.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
- fileEditor.resizeContents (источник, пункт назначения,
- // изменить размер всех страниц документа
- 	нулевой,
- 	// ширина нового содержимого = 200
+ fileEditor.resizeContents(src, dest,
+ // resize all pages of document
+ 	null,
+ 	// new contents width = 200
  	200,
- 	// высота нового содержимого = 300
+ 	// new contents height = 300
  	300);
- // остальная часть страницы будет пустой
+ // rest area of page will be empty
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.io.InputStream | Stream which contains source document. |
-| destination | java.io.OutputStream | Stream where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| newWidth | double | New width of page contents in default space units. |
-| newHeight | double | New height of page contents in default space units. |
+**Параметры:**
 
-**Returns:**
-boolean - True if resize was successful.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.io.InputStream | Поток, содержащий исходный документ. |
+| destination | java.io.OutputStream | Поток, где результирующий документ будет сохранен. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| newWidth | double | Новая ширина содержимого страницы в пространственных единицах по умолчанию. |
+| newHeight | double | Новая высота содержимого страницы в пространственных единицах по умолчанию. |
+
+**Возвращает:**
+boolean - True, если изменение размера прошло успешно.
 ### resizeContents(String source, String destination, int[] pages, double newWidth, double newHeight) {#resizeContents-java.lang.String-java.lang.String-int---double-double-}
 ```
-общедоступный абстрактный логический resizeContents (источник строки, пункт назначения строки, int[] страницы, двойная новая ширина, двойная новая высота)
+public abstract boolean resizeContents(String source, String destination, int[] pages, double newWidth, double newHeight)
 ```
 
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в пространственных единицах по умолчанию.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
+PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizeContents("input.pdf", "output.pdf",
- // изменить размер всех страниц документа
- 	нулевой,
- 	// ширина нового содержимого = 200
+ // resize all pages of document
+ 	null,
+ 	// new contents width = 200
  	200,
- 	// высота нового содержимого = 300
+ 	// new contents height = 300
  	300);
- // остальная часть страницы будет пустой
+ // rest area of page will be empty
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.lang.String | Path to source document. |
-| destination | java.lang.String | Path where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| newWidth | double | New width of page contents in default space units. |
-| newHeight | double | New height of page contents in default space units. |
+**Параметры:**
 
-**Returns:**
-boolean - True if resize was successful.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.lang.String | Путь к исходному документу. |
+| destination | java.lang.String | Путь, по которому будет сохранен результирующий документ. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| newWidth | double | Новая ширина содержимого страницы в пространственных единицах по умолчанию. |
+| newHeight | double | Новая высота содержимого страницы в пространственных единицах по умолчанию. |
+
+**Возвращает:**
+boolean - True, если изменение размера прошло успешно.
 ### resizeContentsPct(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight) {#resizeContentsPct-java.io.InputStream-java.io.OutputStream-int---double-double-}
 ```
-открытый абстрактный логический resizeContentsPct (источник InputStream, назначение OutputStream, int[] страницы, двойная новая ширина, двойная новая высота)
+public abstract boolean resizeContentsPct(InputStream source, OutputStream destination, int[] pages, double newWidth, double newHeight)
 ```
 
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents.
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Размер нового содержимого указывается в процентах.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
- InputStream src = новый FileInputStream("input.pdf");
+PdfFileEditor fileEditor = new PdfFileEditor();
+ InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
- fileEditor.resizePct (источник, пункт назначения,
- // изменить размер всех страниц документа
- 	нулевой,
- 	// ширина нового содержимого = 60% от исходного размера
+ fileEditor.resizePct(src, dest,
+ // resize all pages of document
+ 	null,
+ 	// new contents width = 60% of initial size
  	60,
- 	// высота нового содержимого = 60% от исходного размера
+ 	// new contents height = 60% of initial size
  	60);
- // Остальная часть страницы будет пустой (поля страницы). Размер слева и справа
- // поля (100% - 60%) / 2 = 20%
- // То же самое для верхнего и нижнего полей.
+ // Rest area of page will be empty (page margins). Size of left and right
+ // margins is (100% - 60%) / 2 = 20%
+ // The same for top and bottom margins.
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.io.InputStream | Stream which contains source document. |
-| destination | java.io.OutputStream | Stream where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| newWidth | double | New width of page contents in percents. |
-| newHeight | double | New height of page contents in percetns. |
+**Параметры:**
 
-**Returns:**
-boolean - True if resize was successful.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.io.InputStream | Поток, содержащий исходный документ. |
+| destination | java.io.OutputStream | Поток, где результирующий документ будет сохранен. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| newWidth | double | Новая ширина содержимого страницы в процентах. |
+| newHeight | double | Новая высота содержимого страницы в процентах. |
+
+**Возвращает:**
+boolean - True, если изменение размера прошло успешно.
 ### resizeContentsPct(String source, String destination, int[] pages, double newWidth, double newHeight) {#resizeContentsPct-java.lang.String-java.lang.String-int---double-double-}
 ```
-общедоступный абстрактный логический resizeContentsPct (источник строки, пункт назначения строки, int[] страницы, двойная новая ширина, двойная новая высота)
+public abstract boolean resizeContentsPct(String source, String destination, int[] pages, double newWidth, double newHeight)
 ```
 
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents.
+Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Размер нового содержимого указывается в процентах.
 
 --------------------
 
 ```
-PdfFileEditor fileEditor = новый PdfFileEditor();
+PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizeContentsPct("input.pdf", "output.pdf",
- // изменить размер всех страниц документа
- 	нулевой,
- 	// ширина нового содержимого = 60% от исходного размера
+ // resize all pages of document
+ 	null,
+ 	// new contents width = 60% of initial size
  	60,
- 	// высота нового содержимого = 60% от исходного размера
+ 	// new contents height = 60% of initial size
  	60);
- // Остальная часть страницы будет пустой (поля страницы). Размер слева и справа
- // поля (100% - 60%) / 2 = 20%
- // То же самое для верхнего и нижнего полей.
+ // Rest area of page will be empty (page margins). Size of left and right
+ // margins is (100% - 60%) / 2 = 20%
+ // The same for top and bottom margins.
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | java.lang.String | Path to source document. |
-| destination | java.lang.String | Path where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| newWidth | double | New width of page contents in percents. |
-| newHeight | double | New height of page contents in percetns. |
+**Параметры:**
 
-**Returns:**
-boolean - true if resize was successful.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| source | java.lang.String | Путь к исходному документу. |
+| destination | java.lang.String | Путь, по которому будет сохранен результирующий документ. |
+| pages | int[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| newWidth | double | Новая ширина содержимого страницы в процентах. |
+| newHeight | double | Новая высота содержимого страницы в процентах. |
+
+**Возвращает:**
+boolean - true, если изменение размера прошло успешно.
 ### setAllowConcatenateExceptions(boolean value) {#setAllowConcatenateExceptions-boolean-}
 ```
-public abstract void setAllowConcatenateExceptions (логическое значение)
+public abstract void setAllowConcatenateExceptions(boolean value)
 ```
 
 
-If set to true, exceptions are thrown if error occured. Else excetion are not thrown and methods return false if failed.
+Если установлено значение true, при возникновении ошибки генерируются исключения. В противном случае исключение не генерируется, а методы возвращают false в случае сбоя.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.setAllowConcatenateException (истина);
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.setAllowConcatenatedException(true);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setAttachmentName(String value) {#setAttachmentName-java.lang.String-}
 ```
-public abstract void setAttachmentName (строковое значение)
+public abstract void setAttachmentName(String value)
 ```
 
 
-Sets name of attachment when result of operation is stored into HttpServletResponse objects as attachment.
+Задает имя вложения, когда результат операции сохраняется в объектах HttpServletResponse как вложение.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | string value |
+| value | java.lang.String | строковое значение |
 
 ### setCloseConcatenatedStreams(boolean value) {#setCloseConcatenatedStreams-boolean-}
 ```
-public abstract void setCloseConcatenatedStreams (логическое значение)
+public abstract void setCloseConcatenatedStreams(boolean value)
 ```
 
 
-If set to true, streams are closed after operation.
+Если установлено значение true, потоки закрываются после операции.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- pfe.setCloseConcatenatedStreams (истина);
+PdfFileEditor pfe = new PdfFileEditor();
+ pfe.setCloseConcatenatedStreams(true);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setContentDisposition(int value) {#setContentDisposition-int-}
 ```
-public abstract void setContentDisposition (значение int)
+public abstract void setContentDisposition(int value)
 ```
 
 
-Sets how content will be stored when result of operation is stored into HttpServletResponse object. Possible value: inline / attachment. Default: inline.
+Устанавливает, как содержимое будет сохранено, когда результат операции будет сохранен в объекте HttpServletResponse. Возможное значение: inline/attachment. По умолчанию: встроенный.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | int | ContentDisposition element |
+| value | int | Элемент ContentDisposition |
 
 ### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
 ```
-public abstract void setConvertTo (значение PdfFormat)
+public abstract void setConvertTo(PdfFormat value)
 ```
 
 
-Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
+Устанавливает формат файла PDF. Файл результата будет сохранен в указанном формате. Если это свойство не указано, файл будет сохранен в формате PDF по умолчанию без преобразования.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat element |
+| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | Элемент PdfFormat |
 
 ### setCorruptedFileAction(int value) {#setCorruptedFileAction-int-}
 ```
-public abstract void setCorruptedFileAction (значение int)
+public abstract void setCorruptedFileAction(int value)
 ```
 
 
-This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnoringCorrupted.
+Это свойство определяет поведение, когда процесс объединения встречает поврежденный файл. Возможные значения: StopWithError и ConcatenateIgnoringCorrupted.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | int | ConcatenateCorruptedFileAction element |
+| value | int | Элемент ConcatenateCorruptedFileAction |
 
 ### setIncrementalUpdates(boolean value) {#setIncrementalUpdates-boolean-}
 ```
-public abstract void setIncrementalUpdates (логическое значение)
+public abstract void setIncrementalUpdates(boolean value)
 ```
 
 
-If true, incremental updates are made during concatenation.
+Если true, во время конкатенации выполняются добавочные обновления.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setKeepFieldsUnique(boolean value) {#setKeepFieldsUnique-boolean-}
 ```
-public abstract void setKeepFieldsUnique (логическое значение)
+public abstract void setKeepFieldsUnique(boolean value)
 ```
 
 
-If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may be specified in UniqueSuffix property.
+Если true, то имена полей будут уникальными при объединении форм. К именам полей будут добавлены суффиксы, шаблон суффикса можно указать в свойстве UniqueSuffix.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setMergeDuplicateLayers(boolean value) {#setMergeDuplicateLayers-boolean-}
 ```
-public abstract void setMergeDuplicateLayers (логическое значение)
+public abstract void setMergeDuplicateLayers(boolean value)
 ```
 
 
-Optional contents of concatentated documents with equal names will be merged into one layer in resulstant document if this property is true. Else, layers with equal names will be save as different layers in resultant document.
+Необязательное содержимое объединенных документов с одинаковыми именами будет объединено в один слой результирующего документа, если это свойство истинно. В противном случае слои с одинаковыми именами будут сохранены в результирующем документе как разные слои.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setMergeDuplicateOutlines(boolean value) {#setMergeDuplicateOutlines-boolean-}
 ```
-public abstract void setMergeDuplicateOutlines (логическое значение)
+public abstract void setMergeDuplicateOutlines(boolean value)
 ```
 
 
-If true, duplicate outlines are merged.
+Если true, повторяющиеся контуры объединяются.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setOwnerPassword(String value) {#setOwnerPassword-java.lang.String-}
 ```
-public abstract void setOwnerPassword (строковое значение)
+public abstract void setOwnerPassword(String value)
 ```
 
 
-Sets owner's password if the source input Pdf file is encrypted. This property is not implemented yet.
+Устанавливает пароль владельца, если исходный входной файл Pdf зашифрован. Это свойство еще не реализовано.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | string value |
+| value | java.lang.String | строковое значение |
 
 ### setPreserveUserRights(boolean value) {#setPreserveUserRights-boolean-}
 ```
-public abstract void setPreserveUserRights (логическое значение)
+public abstract void setPreserveUserRights(boolean value)
 ```
 
 
-If true, user rights of first document are applied to concatenated document. User rights of all other documents are ignored.
+Если true, права пользователя первого документа применяются к объединенному документу. Права пользователя на все остальные документы игнорируются.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setRemoveSignatures(boolean value) {#setRemoveSignatures-boolean-}
 ```
-public abstract void setRemoveSignatures (логическое значение)
+public abstract void setRemoveSignatures(boolean value)
 ```
 
 
-If true, all signatures will be removed from fields (fields will remain); otherwise, you can get invalid signatures.
+Если true, все подписи будут удалены с полей (поля останутся); в противном случае вы можете получить недействительные подписи.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | логическое значение |
 
 ### setSaveOptions(SaveOptions value) {#setSaveOptions-com.aspose.pdf.SaveOptions-}
 ```
-public abstract void setSaveOptions (значение SaveOptions)
+public abstract void setSaveOptions(SaveOptions value)
 ```
 
 
-Sets save options when result is stored as HttpServletResponse. Default value: PdfSaveOptions.
+Задает параметры сохранения, когда результат сохраняется как HttpServletResponse. Значение по умолчанию: пдфсавеоптионс.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | SaveOptions object |
+| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | Объект SaveOptions |
 
 ### setUniqueSuffix(String value) {#setUniqueSuffix-java.lang.String-}
 ```
-public abstract void setUniqueSuffix (строковое значение)
+public abstract void setUniqueSuffix(String value)
 ```
 
 
-Set format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain %NUM% substring which will be replaced with numbers. For example if UniqueSuffix = "ABC%NUM%" then for field "fieldName" names will be: fieldNameABC1, fieldNameABC2, fieldNameABC3 etc.
+Установите формат суффикса, который добавляется к имени поля, чтобы сделать его уникальным при объединении форм. Эта строка должна содержать подстроку %NUM%, которая будет заменена числами. Например, если UniqueSuffix = "ABC%NUM%", то для поля "fieldName" будут имена: fieldNameABC1, fieldNameABC2, fieldNameABC3 и т.д.
 
 --------------------
 
 ```
-PdfFileEditor ed = новый PdfFileEditor();
- ed.setUniqueSuffix("_%ЧИСЛО%");
+PdfFileEditor ed = new PdfFileEditor();
+ ed.setUniqueSuffix("_%NUM%");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | java.lang.String | string value |
+| value | java.lang.String | строковое значение |
 
 ### splitFromFirst(InputStream inputStream, int location, OutputStream outputStream) {#splitFromFirst-java.io.InputStream-int-java.io.OutputStream-}
 ```
-открытый абстрактный логический splitFromFirst (InputStream inputStream, int location, OutputStream outputStream)
+public abstract boolean splitFromFirst(InputStream inputStream, int location, OutputStream outputStream)
 ```
 
 
-Splits from start to specified location,and saves the front part in output Stream.
+Разбивается от начала до указанного места и сохраняет переднюю часть в выходном потоке.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream sourceStream = новый FileInputStream("file1.pdf");
- OutputStream outStream = новый FileOutputStream("out.pdf");
- pfe.splitFromFirst (исходный поток, 5, исходящий поток);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream sourceStream = new FileInputStream("file1.pdf");
+ OutputStream outStream = new FileOutputStream("out.pdf");
+ pfe.splitFromFirst(sourceStream, 5, outStream);
 ```
 
 --------------------
 
-The streams are NOT closed after this operation.
+Потоки НЕ закрываются после этой операции.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | Source Pdf file Stream. |
-| location | int | The splitting point. |
-| outputStream | java.io.OutputStream | Output file Stream. |
+| inputStream | java.io.InputStream | Исходный файл Pdf Stream. |
+| location | int | Точка разделения. |
+| outputStream | java.io.OutputStream | Выходной файл Поток. |
 
-**Returns:**
-boolean - True for success, or false.
+**Возвращает:**
+boolean - True для успеха или false.
 ### splitFromFirst(String inputFile, int location, String outputFile) {#splitFromFirst-java.lang.String-int-java.lang.String-}
 ```
-открытый абстрактный логический splitFromFirst (String inputFile, int location, String outputFile)
+public abstract boolean splitFromFirst(String inputFile, int location, String outputFile)
 ```
 
 
-Splits Pdf file from first page to specified location,and saves the front part as a new file.
+Разбивает файл Pdf с первой страницы в указанное место и сохраняет переднюю часть как новый файл.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.splitFromFirst("input.pdf", 5, "out.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Source Pdf file. |
-| location | int | The splitting point. |
-| outputFile | java.lang.String | Output Pdf file. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Исходный PDF-файл. |
+| location | int | Точка разделения. |
+| outputFile | java.lang.String | Выходной PDF-файл. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### splitToBulks(InputStream inputStream, int[][] numberOfPage) {#splitToBulks-java.io.InputStream-int-----}
 ```
-открытый абстрактный ByteArrayInputStream[] splitToBulks(InputStream inputStream, int[][] количество страниц)
+public abstract ByteArrayInputStream[] splitToBulks(InputStream inputStream, int[][] numberOfPage)
 ```
 
 
-Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
+Разбивает файл Pdf на несколько документов. Документы могут быть одностраничными или многостраничными.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | Input PDF stream. |
-| numberOfPage | int[][] | The start page and the end page of each document. |
+| inputStream | java.io.InputStream | Входной поток PDF. |
+| numberOfPage | int[][] | Начальная страница и конечная страница каждого документа. |
 
-**Returns:**
-java.io.ByteArrayInputStream[] - Output PDF streams, each stream buffers a PDF document.
+**Возвращает:**
+java.io.ByteArrayInputStream[] - Выходные потоки PDF, каждый поток буферизует документ PDF.
 ### splitToBulks(String inputFile, int[][] numberOfPage) {#splitToBulks-java.lang.String-int-----}
 ```
-открытый абстрактный ByteArrayInputStream[] splitToBulks(String inputFile, int[][] количество страниц)
+public abstract ByteArrayInputStream[] splitToBulks(String inputFile, int[][] numberOfPage)
 ```
 
 
-Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
+Разбивает файл Pdf на несколько документов. Документы могут быть одностраничными или многостраничными.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | java.lang.String | Input PDF file. |
-| numberOfPage | int[][] | Array which contains array of double elements, which is start and end pages of document. |
+| inputFile | java.lang.String | Введите PDF-файл. |
+| numberOfPage | int[][] | Массив, содержащий массив двойных элементов, являющийся начальной и конечной страницами документа. |
 
-**Returns:**
-java.io.ByteArrayInputStream[] - Output PDF streams, each stream buffers a PDF document.
+**Возвращает:**
+java.io.ByteArrayInputStream[] - Выходные потоки PDF, каждый поток буферизует документ PDF.
 ### splitToEnd(InputStream inputStream, int location, OutputStream outputStream) {#splitToEnd-java.io.InputStream-int-java.io.OutputStream-}
 ```
-открытый абстрактный логический splitToEnd (InputStream inputStream, int location, OutputStream outputStream)
+public abstract boolean splitToEnd(InputStream inputStream, int location, OutputStream outputStream)
 ```
 
 
-Splits from specified location, and saves the rear part as a new file Stream.
+Разбивается из указанного места и сохраняет заднюю часть как новый файловый поток.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
- InputStream sourceStream = новый FileInputStream("file1.pdf");
- OutputStream outStream = новый FileOutputStream("out.pdf");
- pfe.splitToEnd (исходный поток, 5, исходящий поток);
+PdfFileEditor pfe = new PdfFileEditor();
+ InputStream sourceStream = new FileInputStream("file1.pdf");
+ OutputStream outStream = new FileOutputStream("out.pdf");
+ pfe.splitToEnd(sourceStream, 5, outStream);
 ```
 
 --------------------
 
-The streams are NOT closed after this operation unless CloseConcatedStreams is specified.
+Потоки НЕ закрываются после этой операции, если не указано значение CloseConcatedStreams.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | Source Pdf file Stream. |
-| location | int | The splitting position. |
-| outputStream | java.io.OutputStream | Output Pdf file Stream. |
+| inputStream | java.io.InputStream | Исходный файл Pdf Stream. |
+| location | int | Позиция разделения. |
+| outputStream | java.io.OutputStream | Выходной файл Pdf Stream. |
 
-**Returns:**
-boolean - True for success, or false.
+**Возвращает:**
+boolean - True для успеха или false.
 ### splitToEnd(String inputFile, int location, String outputFile) {#splitToEnd-java.lang.String-int-java.lang.String-}
 ```
-открытый абстрактный логический splitToEnd (String inputFile, int location, String outputFile)
+public abstract boolean splitToEnd(String inputFile, int location, String outputFile)
 ```
 
 
-Splits from location, and saves the rear part as a new file.
+Отделяется от местоположения и сохраняет заднюю часть как новый файл.
 
 --------------------
 
 ```
-PdfFileEditor pfe = новый PdfFileEditor();
+PdfFileEditor pfe = new PdfFileEditor();
  pfe.splitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | java.lang.String | Source Pdf file. |
-| location | int | The splitting position. |
-| outputFile | java.lang.String | Output Pdf file path. |
+**Параметры:**
 
-**Returns:**
-boolean - True for success, or false.
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | java.lang.String | Исходный PDF-файл. |
+| location | int | Позиция разделения. |
+| outputFile | java.lang.String | Выходной путь к файлу Pdf. |
+
+**Возвращает:**
+boolean - True для успеха или false.
 ### splitToPages(InputStream inputStream) {#splitToPages-java.io.InputStream-}
 ```
-открытый абстрактный ByteArrayInputStream[] splitToPages(InputStream inputStream)
+public abstract ByteArrayInputStream[] splitToPages(InputStream inputStream)
 ```
 
 
-Splits the Pdf file into single-page documents.
+Разбивает файл Pdf на одностраничные документы.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | Input Pdf stream. |
+| inputStream | java.io.InputStream | Входной поток PDF. |
 
-**Returns:**
-java.io.ByteArrayInputStream[] - ByteArrayInputStream[] array
+**Возвращает:**
+java.io.ByteArrayInputStream[] - ByteArrayInputStream[] множество
 ### splitToPages(InputStream inputStream, String fileNameTemplate) {#splitToPages-java.io.InputStream-java.lang.String-}
 ```
-public abstract void splitToPages (InputStream inputStream, String fileNameTemplate)
+public abstract void splitToPages(InputStream inputStream, String fileNameTemplate)
 ```
 
 
-Split the Pdf file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
+Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. Путь задается полем имени поля шаблона.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | Stream of the soruce document. |
-| fileNameTemplate | java.lang.String | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
+| inputStream | java.io.InputStream | Поток исходного документа. |
+| fileNameTemplate | java.lang.String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указано c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |
 
 ### splitToPages(String inputFile) {#splitToPages-java.lang.String-}
 ```
-открытый абстрактный ByteArrayInputStream[] splitToPages (строка inputFile)
+public abstract ByteArrayInputStream[] splitToPages(String inputFile)
 ```
 
 
-Splits the PDF file into single-page documents.
+Разбивает файл PDF на одностраничные документы.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | java.lang.String | Input PDF file name. |
+| inputFile | java.lang.String | Введите имя файла PDF. |
 
-**Returns:**
-java.io.ByteArrayInputStream[] - Output PDF streams, each stream buffers a single-page PDF document.
+**Возвращает:**
+java.io.ByteArrayInputStream[] - Выходные потоки PDF, каждый поток буферизует одностраничный документ PDF.
 ### splitToPages(String inputFile, String fileNameTemplate) {#splitToPages-java.lang.String-java.lang.String-}
 ```
-public abstract void splitToPages (String inputFile, String fileNameTemplate)
+public abstract void splitToPages(String inputFile, String fileNameTemplate)
 ```
 
 
-Split the Pdf file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
+Разделите файл Pdf на одностраничные документы и сохраните его по указанному пути. Путь задается полем имени поля шаблона.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | java.lang.String | Input file name. |
-| fileNameTemplate | java.lang.String | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
+| inputFile | java.lang.String | Введите имя файла. |
+| fileNameTemplate | java.lang.String | Шаблон результирующего имени файла. Должен содержать %NUM%, который заменяется номером страницы. Например, если указано c:/dir/page%NUM%.pdf, результирующие файлы будут иметь следующие имена: c:/dir/page1.pdf, c:/dir/page2.pdf и т. д. |

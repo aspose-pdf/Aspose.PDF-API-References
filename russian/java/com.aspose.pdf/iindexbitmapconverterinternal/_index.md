@@ -1,64 +1,68 @@
 ---
-название: IIndexBitmapConverterInternal
+title: IIndexBitmapConverterInternal
 second_title: Aspose.PDF для справки по Java API
-описание: Этот интерфейс заявлен для настройки алгоритмов квантования.
-тип: документы
-вес: 436
-URL-адрес: /java/com.aspose.pdf/iindexbitmapconverterinternal/
----```
-открытый интерфейс IIndexBitmapConverterInternal
+description: Этот интерфейс заявлен для настройки алгоритмов квантования.
+type: docs
+weight: 436
+url: /ru/java/com.aspose.pdf/iindexbitmapconverterinternal/
+---
+```
+public interface IIndexBitmapConverterInternal
 ```
 
-This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms based on unmanaged code).
-## Methods
+Этот интерфейс заявлен для настройки алгоритмов квантования. Пользователи могут реализовать свои собственные реализации этих алгоритмов (например, алгоритмы, основанные на неуправляемом коде).
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [get1BppImageInternal(System.Drawing.Bitmap src)](#get1BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-) | Internal only Returns 1Bpp bitmap representation |
-| [get4BppImageInternal(System.Drawing.Bitmap src)](#get4BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-) | Internal only Returns 4Bpp bitmap representation |
-| [get8BppImageInternal(System.Drawing.Bitmap src)](#get8BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-) | Internal only Returns 8Bpp bitmap representation |
+| [get1BppImageInternal(System.Drawing.Bitmap src)](#get1BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-) | Только для внутреннего использования Возвращает растровое представление 1Bpp |
+| [get4BppImageInternal(System.Drawing.Bitmap src)](#get4BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-) | Только для внутреннего использования Возвращает растровое представление 4Bpp |
+| [get8BppImageInternal(System.Drawing.Bitmap src)](#get8BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-) | Только для внутреннего использования Возвращает растровое представление 8Bpp |
 ### get1BppImageInternal(System.Drawing.Bitmap src) {#get1BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-}
 ```
-открытый абстрактный System.Drawing.Bitmap get1BppImageInternal (System.Drawing.Bitmap src)
+public abstract System.Drawing.Bitmap get1BppImageInternal(System.Drawing.Bitmap src)
 ```
 
 
-Internal only Returns 1Bpp bitmap representation
+Только для внутреннего использования Возвращает растровое представление 1Bpp
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | com.aspose.ms.System.Drawing.Bitmap | Source bitmap. |
+| src | com.aspose.ms.System.Drawing.Bitmap | Исходное растровое изображение. |
 
-**Returns:**
-com.aspose.ms.System.Drawing.Bitmap - Bitmap in 1 bpp image format.
+**Возвращает:**
+com.aspose.ms.System.Drawing.Bitmap — растровое изображение в формате изображения 1 бит на пиксель.
 ### get4BppImageInternal(System.Drawing.Bitmap src) {#get4BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-}
 ```
-открытый абстрактный System.Drawing.Bitmap get4BppImageInternal (System.Drawing.Bitmap src)
+public abstract System.Drawing.Bitmap get4BppImageInternal(System.Drawing.Bitmap src)
 ```
 
 
-Internal only Returns 4Bpp bitmap representation
+Только для внутреннего использования Возвращает растровое представление 4Bpp
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | com.aspose.ms.System.Drawing.Bitmap | Source bitmap. |
+| src | com.aspose.ms.System.Drawing.Bitmap | Исходное растровое изображение. |
 
-**Returns:**
-com.aspose.ms.System.Drawing.Bitmap - Bitmap in 4 bpp image format.
+**Возвращает:**
+com.aspose.ms.System.Drawing.Bitmap — растровое изображение в формате 4 бит/пиксель.
 ### get8BppImageInternal(System.Drawing.Bitmap src) {#get8BppImageInternal-com.aspose.ms.System.Drawing.Bitmap-}
 ```
-открытый абстрактный System.Drawing.Bitmap get8BppImageInternal (System.Drawing.Bitmap src)
+public abstract System.Drawing.Bitmap get8BppImageInternal(System.Drawing.Bitmap src)
 ```
 
 
-Internal only Returns 8Bpp bitmap representation
+Только для внутреннего использования Возвращает растровое представление 8Bpp
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| src | com.aspose.ms.System.Drawing.Bitmap | Source bitmap. |
+| src | com.aspose.ms.System.Drawing.Bitmap | Исходное растровое изображение. |
 
-**Returns:**
-com.aspose.ms.System.Drawing.Bitmap - Bitmap in 8 bpp image format.
+**Возвращает:**
+com.aspose.ms.System.Drawing.Bitmap — растровое изображение в формате изображения 8 бит на пиксель.

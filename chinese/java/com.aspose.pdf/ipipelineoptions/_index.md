@@ -1,40 +1,42 @@
 ---
-标题：IPipelineOptions
-second_title: Aspose.PDF for Java API 参考
-描述：定义与管道配置相关的转换选项。
-类型：文档
-重量：439
-网址：/java/com.aspose.pdf/ipipelineoptions/
----```
-公共接口 IPipelineOptions
+title: IPipelineOptions
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 定义与管道配置相关的转换选项。
+type: docs
+weight: 439
+url: /zh/java/com.aspose.pdf/ipipelineoptions/
+---
+```
+public interface IPipelineOptions
 ```
 
-Defines conversion options related to pipeline configuration.
-## Methods
+定义与管道配置相关的转换选项。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [getBatchSize()](#getBatchSize--) | Specifies the size of a portion of pages to pass from node to node. |
-| [setBatchSize(int value)](#setBatchSize-int-) | Specifies the size of a portion of pages to pass from node to node. |
+| [getBatchSize()](#getBatchSize--) | 指定要从一个节点传递到另一个节点的部分页面的大小。 |
+| [setBatchSize(int value)](#setBatchSize-int-) | 指定要从一个节点传递到另一个节点的部分页面的大小。 |
 ### getBatchSize() {#getBatchSize--}
 ```
-公共抽象 int getBatchSize()
+public abstract int getBatchSize()
 ```
 
 
-Specifies the size of a portion of pages to pass from node to node.
+指定要从一个节点传递到另一个节点的部分页面的大小。
 
-**Returns:**
-int - int value
+**退货：**
+int - 整数值
 ### setBatchSize(int value) {#setBatchSize-int-}
 ```
-公共抽象无效 setBatchSize（int 值）
+public abstract void setBatchSize(int value)
 ```
 
 
-Specifies the size of a portion of pages to pass from node to node.
+指定要从一个节点传递到另一个节点的部分页面的大小。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int value |
+| value | int | 整数值 |

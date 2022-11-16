@@ -1,32 +1,34 @@
 ---
-название: SvgSaveOptions.EmbeddedImagesSavingStrategy
+title: SvgSaveOptions.EmbeddedImagesSavingStrategy
 second_title: Aspose.PDF для справки по Java API
-описание: Свойству такого типа можно назначить делегат, созданный из пользовательского метода, который реализует обработку внешнего сохранения изображения, которое было извлечено из SVG, созданного из PDF и должно быть сохранено как внешний ресурс при преобразовании PDF в HTML.
-тип: документы
-вес: 12
-URL-адрес: /java/com.aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/
----```
-общедоступный статический интерфейс SvgSaveOptions.EmbeddedImagesSavingStrategy
+description: К свойству такого типа можно привязать делегат, созданный из пользовательского метода, реализующего обработку внешнего сохранения изображения, которое было извлечено из SVG, созданного из PDF и которое необходимо сохранить как внешний ресурс при преобразовании PDF в HTML.
+type: docs
+weight: 12
+url: /ru/java/com.aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/
+---
+```
+public static interface SvgSaveOptions.EmbeddedImagesSavingStrategy
 ```
 
-To property of such type You can assign delegate created from custom method that implements processing of external saving of image that was extracted from SVG created from PDF and must be saved as external resource during conversion of PDF to HTML. In such case processing (like self-made saving into stream or on disk) can be done in that custom code and that custom code must return path(or any another string without quotemarks) that will be afterwards incorporated into generated SVG instead of original supposed path to that image resource. In such case all the necessary actions for saving of image must be undertaken in code of supplied method, because saving of result in code of converter will be not in use. If processing for this or that file for some reason must be done by converter's code itself, not in custom code, please set in custom code flag 'CustomProcessingCancelled' of 'imageSavingInfo' parameter's variable It signals to converter that all the necessary steps for processing of that resource must be done in converter itself as if there was no any external custom code .
-## Methods
+К свойству такого типа можно привязать делегат, созданный из пользовательского метода, реализующего обработку внешнего сохранения изображения, которое было извлечено из SVG, созданного из PDF и которое необходимо сохранить как внешний ресурс при преобразовании PDF в HTML. В таком случае обработка (например, самодельное сохранение в поток или на диск) может быть выполнена в этом пользовательском коде, и этот пользовательский код должен возвращать путь (или любую другую строку без кавычек), которая впоследствии будет включена в сгенерированный SVG вместо исходного предполагаемого путь к этому ресурсу изображения. В таком случае все необходимые действия по сохранению изображения необходимо произвести в коде предоставленного метода, т.к. сохранение результата в коде конвертера не будет использоваться. Если обработка того или иного файла по каким-либо причинам должна производиться самим кодом конвертера, а не в пользовательском коде, установите в пользовательском коде флаг «CustomProcessingCancelled» переменной параметра «imageSavingInfo». этот ресурс должен быть сделан в самом конвертере, как если бы не было никакого внешнего пользовательского кода.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
 | [invoke(SvgSaveOptions.SvgImageSavingInfo imageSavingInfo)](#invoke-com.aspose.pdf.SvgSaveOptions.SvgImageSavingInfo-) |  |
 ### invoke(SvgSaveOptions.SvgImageSavingInfo imageSavingInfo) {#invoke-com.aspose.pdf.SvgSaveOptions.SvgImageSavingInfo-}
 ```
-общедоступная абстрактная строка вызова (SvgSaveOptions.SvgImageSavingInfo imageSavingInfo)
+public abstract String invoke(SvgSaveOptions.SvgImageSavingInfo imageSavingInfo)
 ```
 
 
 
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageSavingInfo | [SvgImageSavingInfo](../../com.aspose.pdf/svgimagesavinginfo) |  |
 
-**Returns:**
+**Возвращает:**
 java.lang.String

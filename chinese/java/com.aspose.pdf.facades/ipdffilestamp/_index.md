@@ -1,85 +1,86 @@
 ---
-标题：IPdfFileStamp
-second_title: Aspose.PDF for Java API 参考
-描述：为PDF文件添加图章水印或背景的界面。
-类型：文档
-体重：71
-网址：/java/com.aspose.pdf.facades/ipdffilestamp/
----```
-公共接口 IPdfFileStamp
+title: IPdfFileStamp
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 用于向 PDF 文件添加图章水印或背景的界面。
+type: docs
+weight: 71
+url: /zh/java/com.aspose.pdf.facades/ipdffilestamp/
+---
+```
+public interface IPdfFileStamp
 ```
 
-interface for adding stamps (watermark or background) to PDF files.
-## Fields
+用于向 PDF 文件添加图章（水印或背景）的界面。
+## 领域
 
-| Field | Description |
+| 场地 | 描述 |
 | --- | --- |
-| [POS_BOTTOM_LEFT](#POS-BOTTOM-LEFT) | Bottom left position. |
-| [POS_BOTTOM_MIDDLE](#POS-BOTTOM-MIDDLE) | Bottom middle position. |
-| [POS_BOTTOM_RIGHT](#POS-BOTTOM-RIGHT) | Bottom right position. |
-| [POS_SIDES_LEFT](#POS-SIDES-LEFT) | Left position. |
-| [POS_SIDES_RIGHT](#POS-SIDES-RIGHT) | Right position. |
-| [POS_UPPER_LEFT](#POS-UPPER-LEFT) | Upper let position. |
-| [POS_UPPER_MIDDLE](#POS-UPPER-MIDDLE) | Upper middle position. |
-| [POS_UPPER_RIGHT](#POS-UPPER-RIGHT) | Right upper position. |
-## Methods
+| [POS_BOTTOM_LEFT](#POS-BOTTOM-LEFT) | 左下位置。 |
+| [POS_BOTTOM_MIDDLE](#POS-BOTTOM-MIDDLE) | 底部中间位置。 |
+| [POS_BOTTOM_RIGHT](#POS-BOTTOM-RIGHT) | 右下位置。 |
+| [POS_SIDES_LEFT](#POS-SIDES-LEFT) | 左侧位置。 |
+| [POS_SIDES_RIGHT](#POS-SIDES-RIGHT) | 正确的位置。 |
+| [POS_UPPER_LEFT](#POS-UPPER-LEFT) | 上让位置。 |
+| [POS_UPPER_MIDDLE](#POS-UPPER-MIDDLE) | 中上位置。 |
+| [POS_UPPER_RIGHT](#POS-UPPER-RIGHT) | 右上位置。 |
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [addFooter(FormattedText formattedText, float bottomMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-) | Adds footer to the pages of the document. |
-| [addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-float-float-) | Adds footer to the pages of the document. |
-| [addFooter(InputStream imageStream, float bottomMargin)](#addFooter-java.io.InputStream-float-) | Adds image as footer of the page. |
-| [addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.io.InputStream-float-float-float-) | Adds image as footer of the page. |
-| [addFooter(String imageFile, float bottomMargin)](#addFooter-java.lang.String-float-) | Adds image as footer to the pages of the document. |
-| [addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.lang.String-float-float-float-) | Adds image as footer of the pages. |
-| [addHeader(FormattedText formattedText, float topMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-) | Adds header to the page. |
-| [addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-) | Adds header to the pages of file. |
-| [addHeader(InputStream imageStream, float topMargin)](#addHeader-java.io.InputStream-float-) | Adds image as header on the pages. |
-| [addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.io.InputStream-float-float-float-) | Adds image at the top of the page. |
-| [addHeader(String imageFile, float topMargin)](#addHeader-java.lang.String-float-) | Adds image as header to the pages of the file. |
-| [addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.lang.String-float-float-float-) | Adds image as header on the pages. |
-| [addPageNumber(FormattedText formattedText)](#addPageNumber-com.aspose.pdf.facades.FormattedText-) | Adds page number to the page. |
-| [addPageNumber(FormattedText formattedText, float x, float y)](#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-) | Adds page number at the specified position on the page. |
-| [addPageNumber(FormattedText formattedText, int position)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-) | Adds page number to the pages. |
-| [addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-) | Adds page number to the pages of document. |
-| [addPageNumber(String formatString)](#addPageNumber-java.lang.String-) | Add page number to file. |
-| [addPageNumber(String formatString, float x, float y)](#addPageNumber-java.lang.String-float-float-) | Adds page number at the specified position on the page. |
-| [addPageNumber(String formatString, int position)](#addPageNumber-java.lang.String-int-) | Adds page number to the pages. |
-| [addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-java.lang.String-int-float-float-float-float-) | Adds page number to the pages of document. |
-| [addStamp(Stamp stamp)](#addStamp-com.aspose.pdf.facades.Stamp-) | Adds stamp to the file. |
-| [close()](#close--) | Closes opened files and saves changes. |
-| [dispose()](#dispose--) | Closes opened files and saves changes. |
-| [getAttachmentName()](#getAttachmentName--) | Gets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [getContentDisposition()](#getContentDisposition--) | Gets how content will be stored when result of operation is stored into HttpResponse object. |
-| [getDocument()](#getDocument--) | Gets the document  PdfFileStamp  is working on. |
-| [getInputFile()](#getInputFile--) | Gets name and path of input file. |
-| [getInputStream()](#getInputStream--) | Gets input stream. |
-| [getKeepSecurity()](#getKeepSecurity--) | Keeps security if true. |
-| [getOutputFile()](#getOutputFile--) | Gets name and path of output file. |
-| [getOutputStream()](#getOutputStream--) | Gets output stream. |
-| [getPageHeight()](#getPageHeight--) | Gets height of first page in souorce file. |
-| [getPageNumberRotation()](#getPageNumberRotation--) | Gets rotation of page number. |
-| [getPageWidth()](#getPageWidth--) | Gets width of first page in input file. |
-| [getSaveOptions()](#getSaveOptions--) | Gets save options when result is stored as HttpResponse. |
-| [getStartingNumber()](#getStartingNumber--) | Gets or sets starting number for first page in input file. |
-| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | Sets name of attachment when result of operation is stored into HttpResponse objects as attachment. |
-| [setContentDisposition(int value)](#setContentDisposition-int-) | Sets how content will be stored when result of operation is stored into HttpResponse object. |
-| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | Sets PDF file format. |
-| [setInputFile(String value)](#setInputFile-java.lang.String-) | Sets name and path of input file. |
-| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | Sets input stream. |
-| [setKeepSecurity(boolean value)](#setKeepSecurity-boolean-) | Set Keep Security |
-| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | Sets name and path of output file. |
-| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | Sets or sets output stream. |
-| [setPageNumberRotation(float value)](#setPageNumberRotation-float-) | Sets rotation of page number. |
-| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpResponse. |
-| [setStartingNumber(int value)](#setStartingNumber-int-) | Sets starting number for first page in input file. |
+| [addFooter(FormattedText formattedText, float bottomMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-) | 将页脚添加到文档的页面。 |
+| [addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-com.aspose.pdf.facades.FormattedText-float-float-float-) | 将页脚添加到文档的页面。 |
+| [addFooter(InputStream imageStream, float bottomMargin)](#addFooter-java.io.InputStream-float-) | 添加图像作为页面的页脚。 |
+| [addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.io.InputStream-float-float-float-) | 添加图像作为页面的页脚。 |
+| [addFooter(String imageFile, float bottomMargin)](#addFooter-java.lang.String-float-) | 将图像作为页脚添加到文档的页面。 |
+| [addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin)](#addFooter-java.lang.String-float-float-float-) | 添加图像作为页面的页脚。 |
+| [addHeader(FormattedText formattedText, float topMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-) | 向页面添加页眉。 |
+| [addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)](#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-) | 将页眉添加到文件页面。 |
+| [addHeader(InputStream imageStream, float topMargin)](#addHeader-java.io.InputStream-float-) | 在页面上添加图像作为标题。 |
+| [addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.io.InputStream-float-float-float-) | 在页面顶部添加图像。 |
+| [addHeader(String imageFile, float topMargin)](#addHeader-java.lang.String-float-) | 将图像作为页眉添加到文件的页面。 |
+| [addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin)](#addHeader-java.lang.String-float-float-float-) | 在页面上添加图像作为标题。 |
+| [addPageNumber(FormattedText formattedText)](#addPageNumber-com.aspose.pdf.facades.FormattedText-) | 向页面添加页码。 |
+| [addPageNumber(FormattedText formattedText, float x, float y)](#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-) | 在页面的指定位置添加页码。 |
+| [addPageNumber(FormattedText formattedText, int position)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-) | 向页面添加页码。 |
+| [addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-) | 将页码添加到文档的页面。 |
+| [addPageNumber(String formatString)](#addPageNumber-java.lang.String-) | 将页码添加到文件。 |
+| [addPageNumber(String formatString, float x, float y)](#addPageNumber-java.lang.String-float-float-) | 在页面的指定位置添加页码。 |
+| [addPageNumber(String formatString, int position)](#addPageNumber-java.lang.String-int-) | 向页面添加页码。 |
+| [addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)](#addPageNumber-java.lang.String-int-float-float-float-float-) | 将页码添加到文档的页面。 |
+| [addStamp(Stamp stamp)](#addStamp-com.aspose.pdf.facades.Stamp-) | 向文件添加戳记。 |
+| [close()](#close--) | 关闭打开的文件并保存更改。 |
+| [dispose()](#dispose--) | 关闭打开的文件并保存更改。 |
+| [getAttachmentName()](#getAttachmentName--) | 当操作结果作为附件存储到 HttpResponse 对象时获取附件名称。 |
+| [getContentDisposition()](#getContentDisposition--) | 获取当操作结果存储到 HttpResponse 对象时将如何存储内容。 |
+| [getDocument()](#getDocument--) | 获取 PdfFileStamp 正在处理的文档。 |
+| [getInputFile()](#getInputFile--) | 获取输入文件的名称和路径。 |
+| [getInputStream()](#getInputStream--) | 获取输入流。 |
+| [getKeepSecurity()](#getKeepSecurity--) | 如果为真，则保持安全。 |
+| [getOutputFile()](#getOutputFile--) | 获取输出文件的名称和路径。 |
+| [getOutputStream()](#getOutputStream--) | 获取输出流。 |
+| [getPageHeight()](#getPageHeight--) | 获取源文件中第一页的高度。 |
+| [getPageNumberRotation()](#getPageNumberRotation--) | 获取页码的旋转。 |
+| [getPageWidth()](#getPageWidth--) | 获取输入文件中第一页的宽度。 |
+| [getSaveOptions()](#getSaveOptions--) | 当结果存储为 HttpResponse 时获取保存选项。 |
+| [getStartingNumber()](#getStartingNumber--) | 获取或设置输入文件中第一页的起始编号。 |
+| [setAttachmentName(String value)](#setAttachmentName-java.lang.String-) | 当操作结果作为附件存储到 HttpResponse 对象时，设置附件名称。 |
+| [setContentDisposition(int value)](#setContentDisposition-int-) | 设置当操作结果存储到 HttpResponse 对象时将如何存储内容。 |
+| [setConvertTo(PdfFormat value)](#setConvertTo-com.aspose.pdf.PdfFormat-) | 设置 PDF 文件格式。 |
+| [setInputFile(String value)](#setInputFile-java.lang.String-) | 设置输入文件的名称和路径。 |
+| [setInputStream(InputStream value)](#setInputStream-java.io.InputStream-) | 设置输入流。 |
+| [setKeepSecurity(boolean value)](#setKeepSecurity-boolean-) | 设置保持安全 |
+| [setOutputFile(String value)](#setOutputFile-java.lang.String-) | 设置输出文件的名称和路径。 |
+| [setOutputStream(OutputStream value)](#setOutputStream-java.io.OutputStream-) | 设置或设置输出流。 |
+| [setPageNumberRotation(float value)](#setPageNumberRotation-float-) | 设置页码的旋转。 |
+| [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | 当结果存储为 HttpResponse 时设置保存选项。 |
+| [setStartingNumber(int value)](#setStartingNumber-int-) | 设置输入文件第一页的起始编号。 |
 ### POS_BOTTOM_LEFT {#POS-BOTTOM-LEFT}
 ```
-公共静态最终 int POS_BOTTOM_LEFT
+public static final int POS_BOTTOM_LEFT
 ```
 
 
-Bottom left position.
+左下位置。
 
 ### POS_BOTTOM_MIDDLE {#POS-BOTTOM-MIDDLE}
 ```
@@ -87,7 +88,7 @@ public static final int POS_BOTTOM_MIDDLE
 ```
 
 
-Bottom middle position.
+底部中间位置。
 
 ### POS_BOTTOM_RIGHT {#POS-BOTTOM-RIGHT}
 ```
@@ -95,15 +96,15 @@ public static final int POS_BOTTOM_RIGHT
 ```
 
 
-Bottom right position.
+右下位置。
 
 ### POS_SIDES_LEFT {#POS-SIDES-LEFT}
 ```
-公共静态最终 int POS_SIDES_LEFT
+public static final int POS_SIDES_LEFT
 ```
 
 
-Left position.
+左侧位置。
 
 ### POS_SIDES_RIGHT {#POS-SIDES-RIGHT}
 ```
@@ -111,15 +112,15 @@ public static final int POS_SIDES_RIGHT
 ```
 
 
-Right position.
+正确的位置。
 
 ### POS_UPPER_LEFT {#POS-UPPER-LEFT}
 ```
-公共静态最终 int POS_UPPER_LEFT
+public static final int POS_UPPER_LEFT
 ```
 
 
-Upper let position.
+上让位置。
 
 ### POS_UPPER_MIDDLE {#POS-UPPER-MIDDLE}
 ```
@@ -127,7 +128,7 @@ public static final int POS_UPPER_MIDDLE
 ```
 
 
-Upper middle position.
+中上位置。
 
 ### POS_UPPER_RIGHT {#POS-UPPER-RIGHT}
 ```
@@ -135,7 +136,7 @@ public static final int POS_UPPER_RIGHT
 ```
 
 
-Right upper position.
+右上位置。
 
 ### addFooter(FormattedText formattedText, float bottomMargin) {#addFooter-com.aspose.pdf.facades.FormattedText-float-}
 ```
@@ -143,20 +144,21 @@ public abstract void addFooter(FormattedText formattedText, float bottomMargin)
 ```
 
 
-Adds footer to the pages of the document.
+将页脚添加到文档的页面。
 
 --------------------
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- stamp.addFooter(new FormattedText("页脚"), 10);
+ stamp.addFooter(new FormattedText("Foot of the page"), 10);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains text of the footer and text properties. |
-| bottomMargin | float | Margin at the top of page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 包含页脚文本和文本属性的 FormattedText 对象。 |
+| bottomMargin | float | 页面顶部的边距。 |
 
 ### addFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-com.aspose.pdf.facades.FormattedText-float-float-float-}
 ```
@@ -164,22 +166,23 @@ public abstract void addFooter(FormattedText formattedText, float bottomMargin, 
 ```
 
 
-Adds footer to the pages of the document.
+将页脚添加到文档的页面。
 
 --------------------
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- stamp.addFooter(new FormattedText("页脚"), 10, 50, 50);
+ stamp.addFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains footer text and text properties. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 包含页脚文本和文本属性的 FormattedText 对象。 |
+| bottomMargin | float | 页面底部的边距。 |
+| leftMargin | float | 页面左侧的边距。 |
+| rightMargin | float | 页面右侧的边距。 |
 
 ### addFooter(InputStream imageStream, float bottomMargin) {#addFooter-java.io.InputStream-float-}
 ```
@@ -187,21 +190,22 @@ public abstract void addFooter(InputStream imageStream, float bottomMargin)
 ```
 
 
-Adds image as footer of the page.
+添加图像作为页面的页脚。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", 输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
  fileStamp.addFooter(new FileInputStream("image.jpg"), 50);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | java.io.InputStream | Stream contains image data. |
-| bottomMargin | float | Margin at the bottom of the page. |
+| imageStream | java.io.InputStream | 流包含图像数据。 |
+| bottomMargin | float | 页面底部的边距。 |
 
 ### addFooter(InputStream imageStream, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-java.io.InputStream-float-float-float-}
 ```
@@ -209,23 +213,24 @@ public abstract void addFooter(InputStream imageStream, float bottomMargin, floa
 ```
 
 
-Adds image as footer of the page.
+添加图像作为页面的页脚。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", 输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
  fileStamp.addFooter(new FileInputStream("image.jpg"), 50, 50, 50);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | java.io.InputStream | Stream contains image data. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| imageStream | java.io.InputStream | 流包含图像数据。 |
+| bottomMargin | float | 页面底部的边距。 |
+| leftMargin | float | 页面左侧的边距。 |
+| rightMargin | float | 页面右侧的边距。 |
 
 ### addFooter(String imageFile, float bottomMargin) {#addFooter-java.lang.String-float-}
 ```
@@ -233,21 +238,22 @@ public abstract void addFooter(String imageFile, float bottomMargin)
 ```
 
 
-Adds image as footer to the pages of the document.
+将图像作为页脚添加到文档的页面。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", 输出.pdf");
- fileStamp.addFooter("图片.jpg", 50);
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addFooter("image.jpg", 50);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageFile | java.lang.String | Image file name and path. |
-| bottomMargin | float | Margin at the bottom of the page. |
+| imageFile | java.lang.String | 图像文件名和路径。 |
+| bottomMargin | float | 页面底部的边距。 |
 
 ### addFooter(String imageFile, float bottomMargin, float leftMargin, float rightMargin) {#addFooter-java.lang.String-float-float-float-}
 ```
@@ -255,15 +261,16 @@ public abstract void addFooter(String imageFile, float bottomMargin, float leftM
 ```
 
 
-Adds image as footer of the pages.
+添加图像作为页面的页脚。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageFile | java.lang.String | Iamge file name and path. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| imageFile | java.lang.String | 图片文件名和路径。 |
+| bottomMargin | float | 页面底部的边距。 |
+| leftMargin | float | 页面左侧的边距。 |
+| rightMargin | float | 页面右侧的边距。 |
 
 ### addHeader(FormattedText formattedText, float topMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-}
 ```
@@ -271,21 +278,22 @@ public abstract void addHeader(FormattedText formattedText, float topMargin)
 ```
 
 
-Adds header to the page.
+向页面添加页眉。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
- fileStamp.addHeader(new FormattedText("页眉"), 50);
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addHeader(new FormattedText("Head of the page"), 50);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Text for header and properties of the text. |
-| topMargin | float | Margin on the top of page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 标题文本和文本属性。 |
+| topMargin | float | 页面顶部的边距。 |
 
 ### addHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin) {#addHeader-com.aspose.pdf.facades.FormattedText-float-float-float-}
 ```
@@ -293,22 +301,23 @@ public abstract void addHeader(FormattedText formattedText, float topMargin, flo
 ```
 
 
-Adds header to the pages of file.
+将页眉添加到文件页面。
 
 --------------------
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- stamp.addHeader(new FormattedText("页眉"), 10, 50, 50);
+ stamp.addHeader(new FormattedText("Head of the page"), 10, 50, 50);
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text object which contains page text and its properties. |
-| topMargin | float | Margin on the top of the page. |
-| leftMargin | float | Margin on the left of the page. |
-| rightMargin | float | Margin on the right of the page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 包含页面文本及其属性的格式化文本对象。 |
+| topMargin | float | 页面顶部的边距。 |
+| leftMargin | float | 页面左侧的边距。 |
+| rightMargin | float | 页面右侧的边距。 |
 
 ### addHeader(InputStream imageStream, float topMargin) {#addHeader-java.io.InputStream-float-}
 ```
@@ -316,21 +325,22 @@ public abstract void addHeader(InputStream imageStream, float topMargin)
 ```
 
 
-Adds image as header on the pages.
+在页面上添加图像作为标题。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", 输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
  fileStamp.addHeader(new FileInputStream("image.jpg"), 50);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | java.io.InputStream | Stream of the image. |
-| topMargin | float | Margin at top of the page. |
+| imageStream | java.io.InputStream | 图像流。 |
+| topMargin | float | 页面顶部的边距。 |
 
 ### addHeader(InputStream inputStream, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.io.InputStream-float-float-float-}
 ```
@@ -338,23 +348,24 @@ public abstract void addHeader(InputStream inputStream, float topMargin, float l
 ```
 
 
-Adds image at the top of the page.
+在页面顶部添加图像。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", 输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
  fileStamp.addHeader(new FileInputStream("image.jpg"), 50, 100, 100);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | Stream which contains image data. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
+| inputStream | java.io.InputStream | 包含图像数据的流。 |
+| topMargin | float | 页面顶部的边距。 |
+| leftMargin | float | 页面左侧的边距。 |
+| rightMargin | float | 页面右侧的边距。 |
 
 ### addHeader(String imageFile, float topMargin) {#addHeader-java.lang.String-float-}
 ```
@@ -362,21 +373,22 @@ public abstract void addHeader(String imageFile, float topMargin)
 ```
 
 
-Adds image as header to the pages of the file.
+将图像作为页眉添加到文件的页面。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", 输出.pdf");
- fileStamp.addHeader("图片.jpg", 50);
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addHeader("image.jpg", 50);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageFile | java.lang.String | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
+| imageFile | java.lang.String | 图像文件的路径。 |
+| topMargin | float | 页面顶部的边距。 |
 
 ### addHeader(String imageFile, float topMargin, float leftMargin, float rightMargin) {#addHeader-java.lang.String-float-float-float-}
 ```
@@ -384,44 +396,46 @@ public abstract void addHeader(String imageFile, float topMargin, float leftMarg
 ```
 
 
-Adds image as header on the pages.
+在页面上添加图像作为标题。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", 输出.pdf");
- fileStamp.addHeader("图片.jpg", 50, 100, 100);
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+ fileStamp.addHeader("image.jpg", 50, 100, 100);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageFile | java.lang.String | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
+| imageFile | java.lang.String | 图像文件的路径。 |
+| topMargin | float | 页面顶部的边距。 |
+| leftMargin | float | 页面左侧的边距。 |
+| rightMargin | float | 页面右侧的边距。 |
 
 ### addPageNumber(FormattedText formattedText) {#addPageNumber-com.aspose.pdf.facades.FormattedText-}
 ```
-public abstract void addPageNumber(FormattedText 格式化文本)
+public abstract void addPageNumber(FormattedText formattedText)
 ```
 
 
-Adds page number to the page. Page number may contain \# sign which will be replaced with page number. Page number is placed in the bottom of the page centered horizontally.
+向页面添加页码。页码可能包含\将被页码替换的符号。页码位于页面底部，水平居中。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  fileStamp.addPageNumber(new FormattedText("Page #"));
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Format string for page number representes as FormattedText. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 页码的格式字符串表示为 FormattedText。 |
 
 ### addPageNumber(FormattedText formattedText, float x, float y) {#addPageNumber-com.aspose.pdf.facades.FormattedText-float-float-}
 ```
@@ -429,22 +443,23 @@ public abstract void addPageNumber(FormattedText formattedText, float x, float y
 ```
 
 
-Adds page number at the specified position on the page.
+在页面的指定位置添加页码。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
- fileStamp.addPageNumber(new FormattedText("Page #"), 123, 357);
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | Formatted text which represents page number format and properties of the text. Format string can contain \# sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 表示页码格式和文本属性的格式化文本。格式字符串可以包含\将被页码替换的符号。 |
+| x | float | 页码的 X 坐标。 |
+| y | float | 页码的 Y 坐标。 |
 
 ### addPageNumber(FormattedText formattedText, int position) {#addPageNumber-com.aspose.pdf.facades.FormattedText-int-}
 ```
@@ -452,21 +467,22 @@ public abstract void addPageNumber(FormattedText formattedText, int position)
 ```
 
 
-Adds page number to the pages.
+向页面添加页码。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  fileStamp.addPageNumber("Page #", PdfFileStamp.PosUpperRight);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which contains format of the page number and text properties. This text may contain \# which will be replaced with page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 包含页码格式和文本属性的 FormattedText 对象。这段文字可能包含\将替换为页码。 |
+| position | int | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上，3-右侧，4-中上，5-左下，6-左侧，7-左上。您可以使用以下常量：PosBottomMiddle = 0、PosBottomRight = 1、PosUpperRight = 2、PosSidesRight = 3、PosUpperMiddle、PosBottomLeft = 5、PosSidesLeft、PosUpperLeft |
 
 ### addPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-com.aspose.pdf.facades.FormattedText-int-float-float-float-float-}
 ```
@@ -474,25 +490,26 @@ public abstract void addPageNumber(FormattedText formattedText, int position, fl
 ```
 
 
-Adds page number to the pages of document.
+将页码添加到文档的页面。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  fileStamp.addPageNumber(new FormattedText("Page #"), PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText object which represents page number format and properties iof the text. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
+| formattedText | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | 表示页码格式和文本属性的 FormattedText 对象。 |
+| position | int | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上，3-右侧，4-中上，5-左下，6-左侧，7-左上。您可以使用以下常量：PosBottomMiddle = 0、PosBottomRight = 1、PosUpperRight = 2、PosSidesRight = 3、PosUpperMiddle、PosBottomLeft = 5、PosSidesLeft、PosUpperLeft |
+| leftMargin | float | 页面左边缘的边距。 |
+| rightMargin | float | 页面右边缘的边距。 |
+| topMargin | float | 页面上边缘的边距。 |
+| bottomMargin | float | 页面底部边缘的边距。 |
 
 ### addPageNumber(String formatString) {#addPageNumber-java.lang.String-}
 ```
@@ -500,20 +517,21 @@ public abstract void addPageNumber(String formatString)
 ```
 
 
-Add page number to file. Page number text may contain \# sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally.
+将页码添加到文件。页码文本可能包含\将替换为页码的符号。页码位于页面底部，水平居中。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
- fileStamp.addPageNumber("页号");
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber("Page #");
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatString | java.lang.String | Text of page number |
+| formatString | java.lang.String | 页码文字 |
 
 ### addPageNumber(String formatString, float x, float y) {#addPageNumber-java.lang.String-float-float-}
 ```
@@ -521,22 +539,23 @@ public abstract void addPageNumber(String formatString, float x, float y)
 ```
 
 
-Adds page number at the specified position on the page.
+在页面的指定位置添加页码。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
- fileStamp.addPageNumber(new FormattedText("Page #"), 123, 357);
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ fileStamp.addPageNumber(new FormattedText("Page  #"), 123, 357);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatString | java.lang.String | Format string. Format string can contain \# sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
+| formatString | java.lang.String | 格式化字符串。格式字符串可以包含\将被页码替换的符号。 |
+| x | float | 页码的 X 坐标。 |
+| y | float | 页码的 Y 坐标。 |
 
 ### addPageNumber(String formatString, int position) {#addPageNumber-java.lang.String-int-}
 ```
@@ -544,21 +563,22 @@ public abstract void addPageNumber(String formatString, int position)
 ```
 
 
-Adds page number to the pages.
+向页面添加页码。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  fileStamp.addPageNumber("Page #", PdfFileStamp.PosUpperRight);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatString | java.lang.String | Format of the page number. This text may contain \# which will be replaced with page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formatString | java.lang.String | 页码的格式。这段文字可能包含\将替换为页码。 |
+| position | int | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上，3-右侧，4-中上，5-左下，6-左侧，7-左上。您可以使用以下常量：PosBottomMiddle = 0、PosBottomRight = 1、PosUpperRight = 2、PosSidesRight = 3、PosUpperMiddle、PosBottomLeft = 5、PosSidesLeft、PosUpperLeft |
 
 ### addPageNumber(String formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin) {#addPageNumber-java.lang.String-int-float-float-float-float-}
 ```
@@ -566,381 +586,394 @@ public abstract void addPageNumber(String formatString, int position, float left
 ```
 
 
-Adds page number to the pages of document.
+将页码添加到文档的页面。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  fileStamp.addPageNumber("Page #", PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| formatString | java.lang.String | Format string for page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
+| formatString | java.lang.String | 页码的格式字符串。 |
+| position | int | 页码将放置在页面上的位置。 0-中下，1-右下，2-右上，3-右侧，4-中上，5-左下，6-左侧，7-左上。您可以使用以下常量：PosBottomMiddle = 0、PosBottomRight = 1、PosUpperRight = 2、PosSidesRight = 3、PosUpperMiddle、PosBottomLeft = 5、PosSidesLeft、PosUpperLeft |
+| leftMargin | float | 页面左边缘的边距。 |
+| rightMargin | float | 页面右边缘的边距。 |
+| topMargin | float | 页面上边缘的边距。 |
+| bottomMargin | float | 页面底部边缘的边距。 |
 
 ### addStamp(Stamp stamp) {#addStamp-com.aspose.pdf.facades.Stamp-}
 ```
-public abstract void addStamp(邮票邮票)
+public abstract void addStamp(Stamp stamp)
 ```
 
 
-Adds stamp to the file.
+向文件添加戳记。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
- stamp stamp = new com.aspose.pdf.facades.Stamp();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ Stamp stamp = new com.aspose.pdf.facades.Stamp();
  stamp.setOrigin(140, 400);
  stamp.setImageSize(50, 50);
  stamp.setOpacity(0.8f);
  stamp.isBackground(true);
- stamp.bindImage("图片.jpg");
- fileStamp.addStamp(邮票);
- 文件戳.close();
+ stamp.bindImage("image.jpg");
+ fileStamp.addStamp(stamp);
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stamp | [Stamp](../../com.aspose.pdf.facades/stamp) | Stamp object which. |
+| stamp | [Stamp](../../com.aspose.pdf.facades/stamp) | 邮票对象。 |
 
 ### close() {#close--}
 ```
-公共抽象无效关闭（）
+public abstract void close()
 ```
 
 
-Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by Close() method.
+关闭打开的文件并保存更改。警告。如果指定了输入或输出流，则它们不会被 Close() 方法关闭。
 
 --------------------
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- // 做一些工作...
- 邮票.close();
+ // do some work...
+ stamp.close();
 ```
 
 ### dispose() {#dispose--}
 ```
-公共抽象无效处置（）
+public abstract void dispose()
 ```
 
 
-Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by Close() method.
+关闭打开的文件并保存更改。警告。如果指定了输入或输出流，则它们不会被 Close() 方法关闭。
 
 --------------------
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- // 做一些工作...
- 邮票.处置（）；
+ // do some work...
+ stamp.dispose();
 ```
 
-This method is obsolete, use close() instead.
+此方法已过时，请改用 close() 。
 
 ### getAttachmentName() {#getAttachmentName--}
 ```
-公共抽象字符串 getAttachmentName()
+public abstract String getAttachmentName()
 ```
 
 
-Gets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+当操作结果作为附件存储到 HttpResponse 对象时获取附件名称。
 
-**Returns:**
-java.lang.String - String value
+**退货：**
+java.lang.String - 字符串值
 ### getContentDisposition() {#getContentDisposition--}
 ```
-公共抽象 int getContentDisposition()
+public abstract int getContentDisposition()
 ```
 
 
-Gets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+获取当操作结果存储到 HttpResponse 对象时将如何存储内容。可能的值：内联/附件。默认值：内联。
 
-**Returns:**
-int - ContentDisposition element
+**退货：**
+int - ContentDisposition 元素
 ### getDocument() {#getDocument--}
 ```
-公共抽象 IDocument getDocument()
+public abstract IDocument getDocument()
 ```
 
 
-Gets the document  PdfFileStamp  is working on.
+获取 PdfFileStamp 正在处理的文档。
 
-**Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument object
+**退货：**
+[IDocument](../../com.aspose.pdf/idocument) IDocument 对象
 ### getInputFile() {#getInputFile--}
 ```
-公共抽象字符串 getInputFile()
+public abstract String getInputFile()
 ```
 
 
-Gets name and path of input file.
+获取输入文件的名称和路径。
 
-**Returns:**
-java.lang.String - String object
+**退货：**
+java.lang.String - 字符串对象
 ### getInputStream() {#getInputStream--}
 ```
-公共抽象输入流 getInputStream()
+public abstract InputStream getInputStream()
 ```
 
 
-Gets input stream.
+获取输入流。
 
-**Returns:**
-java.io.InputStream - InputStream object
+**退货：**
+java.io.InputStream - InputStream 对象
 ### getKeepSecurity() {#getKeepSecurity--}
 ```
-公共抽象布尔值 getKeepSecurity()
+public abstract boolean getKeepSecurity()
 ```
 
 
-Keeps security if true. (This feature will be implemented in next versions).
+如果为真，则保持安全。 （此功能将在下一版本中实现）。
 
-**Returns:**
-boolean - boolean value
+**退货：**
+boolean - 布尔值
 ### getOutputFile() {#getOutputFile--}
 ```
-公共抽象字符串 getOutputFile()
+public abstract String getOutputFile()
 ```
 
 
-Gets name and path of output file.
+获取输出文件的名称和路径。
 
-**Returns:**
-java.lang.String - String object
+**退货：**
+java.lang.String - 字符串对象
 ### getOutputStream() {#getOutputStream--}
 ```
-公共抽象 OutputStream getOutputStream()
+public abstract OutputStream getOutputStream()
 ```
 
 
-Gets output stream.
+获取输出流。
 
-**Returns:**
-java.io.OutputStream - OutputStream object
+**退货：**
+java.io.OutputStream - OutputStream 对象
 ### getPageHeight() {#getPageHeight--}
 ```
-公共抽象浮动 getPageHeight()
+public abstract float getPageHeight()
 ```
 
 
-Gets height of first page in souorce file.
+获取源文件中第一页的高度。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  System.out.println("Height = " + fileStamp.getPageHeight());
- 文件戳.close();
+ fileStamp.close();
 ```
 
-**Returns:**
-float - float value
+**退货：**
+float - 浮点值
 ### getPageNumberRotation() {#getPageNumberRotation--}
 ```
-公共抽象浮动 getPageNumberRotation()
+public abstract float getPageNumberRotation()
 ```
 
 
-Gets rotation of page number. Rotation is in degrees. Default is 0.
+获取页码的旋转。旋转以度为单位。默认为 0。
 
-**Returns:**
-float - float value
+**退货：**
+float - 浮点值
 ### getPageWidth() {#getPageWidth--}
 ```
-公共抽象浮动 getPageWidth()
+public abstract float getPageWidth()
 ```
 
 
-Gets width of first page in input file.
+获取输入文件中第一页的宽度。
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
- System.out.println("宽度 = " + fileStamp.getPageWidth());
- 文件戳.close();
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+ System.out.println("Width = " + fileStamp.getPageWidth());
+ fileStamp.close();
 ```
 
-**Returns:**
-float - float value
+**退货：**
+float - 浮点值
 ### getSaveOptions() {#getSaveOptions--}
 ```
-公共抽象保存选项 getSaveOptions()
+public abstract SaveOptions getSaveOptions()
 ```
 
 
-Gets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+当结果存储为 HttpResponse 时获取保存选项。默认值：PdfSaveOptions。
 
-**Returns:**
-[SaveOptions](../../com.aspose.pdf/saveoptions) - SaveOptions object
+**退货：**
+[SaveOptions](../../com.aspose.pdf/saveoptions) - 保存选项对象
 ### getStartingNumber() {#getStartingNumber--}
 ```
-公共抽象 int getStartingNumber()
+public abstract int getStartingNumber()
 ```
 
 
-Gets or sets starting number for first page in input file. Next pages will be numbered starting from this value.
+获取或设置输入文件中第一页的起始编号。下一页将从该值开始编号。
 
-**Returns:**
-int - int value
+**退货：**
+int - 整数值
 ### setAttachmentName(String value) {#setAttachmentName-java.lang.String-}
 ```
-公共抽象无效 setAttachmentName（字符串值）
+public abstract void setAttachmentName(String value)
 ```
 
 
-Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+当操作结果作为附件存储到 HttpResponse 对象时，设置附件名称。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String | String value |
+| value | java.lang.String | 字符串值 |
 
 ### setContentDisposition(int value) {#setContentDisposition-int-}
 ```
-公共抽象无效 setContentDisposition（int 值）
+public abstract void setContentDisposition(int value)
 ```
 
 
-Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
+设置当操作结果存储到 HttpResponse 对象时将如何存储内容。可能的值：内联/附件。默认值：内联。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | ContentDisposition element |
+| value | int | ContentDisposition 元素 |
 
 ### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
 ```
-公共抽象无效 setConvertTo（PdfFormat 值）
+public abstract void setConvertTo(PdfFormat value)
 ```
 
 
-Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in default PDF format without conversion.
+设置 PDF 文件格式。结果文件将以指定的文件格式保存。如果未指定此属性，则文件将以默认 PDF 格式保存而不进行转换。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat element |
+| value | [PdfFormat](../../com.aspose.pdf/pdfformat) | PdfFormat 元素 |
 
 ### setInputFile(String value) {#setInputFile-java.lang.String-}
 ```
-公共抽象无效 setInputFile（字符串值）
+public abstract void setInputFile(String value)
 ```
 
 
-Sets name and path of input file.
+设置输入文件的名称和路径。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String | String value |
+| value | java.lang.String | 字符串值 |
 
 ### setInputStream(InputStream value) {#setInputStream-java.io.InputStream-}
 ```
-public abstract void setInputStream(InputStream 值)
+public abstract void setInputStream(InputStream value)
 ```
 
 
-Sets input stream.
+设置输入流。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.io.InputStream | InputStream object |
+| value | java.io.InputStream | 输入流对象 |
 
 ### setKeepSecurity(boolean value) {#setKeepSecurity-boolean-}
 ```
-公共抽象无效 setKeepSecurity（布尔值）
+public abstract void setKeepSecurity(boolean value)
 ```
 
 
-Set Keep Security
+设置保持安全
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | boolean | 布尔值 |
 
 ### setOutputFile(String value) {#setOutputFile-java.lang.String-}
 ```
-公共抽象无效 setOutputFile（字符串值）
+public abstract void setOutputFile(String value)
 ```
 
 
-Sets name and path of output file.
+设置输出文件的名称和路径。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.lang.String | String object |
+| value | java.lang.String | 字符串对象 |
 
 ### setOutputStream(OutputStream value) {#setOutputStream-java.io.OutputStream-}
 ```
-public abstract void setOutputStream(OutputStream 值)
+public abstract void setOutputStream(OutputStream value)
 ```
 
 
-Sets or sets output stream.
+设置或设置输出流。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | java.io.OutputStream | OutputStream object |
+| value | java.io.OutputStream | 输出流对象 |
 
 ### setPageNumberRotation(float value) {#setPageNumberRotation-float-}
 ```
-公共抽象无效 setPageNumberRotation（浮动值）
+public abstract void setPageNumberRotation(float value)
 ```
 
 
-Sets rotation of page number. Rotation is in degrees. Default is 0.
+设置页码的旋转。旋转以度为单位。默认为 0。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | float value |
+| value | float | 浮点值 |
 
 ### setSaveOptions(SaveOptions value) {#setSaveOptions-com.aspose.pdf.SaveOptions-}
 ```
-公共抽象无效 setSaveOptions（SaveOptions 值）
+public abstract void setSaveOptions(SaveOptions value)
 ```
 
 
-Sets save options when result is stored as HttpResponse. Default value: PdfSaveOptions.
+当结果存储为 HttpResponse 时设置保存选项。默认值：PdfSaveOptions。
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | SaveOptions value |
+| value | [SaveOptions](../../com.aspose.pdf/saveoptions) | 保存选项值 |
 
 ### setStartingNumber(int value) {#setStartingNumber-int-}
 ```
-公共抽象无效 setStartingNumber（int 值）
+public abstract void setStartingNumber(int value)
 ```
 
 
-Sets starting number for first page in input file. Next pages will be numbered starting from this value. For example if StartingNumber is set to 100, document pages will have numbers 100, 101, 102...
+设置输入文件第一页的起始编号。下一页将从该值开始编号。例如，如果 StartingNumber 设置为 100，则文档页面的编号将是 100、101、102...
 
 --------------------
 
 ```
-PdfFileStamp fileStamp = new PdfFileStamp("输入.pdf", "输出.pdf");
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  fileStamp.setStartingNumber(100);
- fileStamp.addPageNumber("页号");
- 文件戳.close();
+ fileStamp.addPageNumber("Page #");
+ fileStamp.close();
 ```
 
-**Parameters:**
-| Parameter | Type | Description |
+**参数：**
+
+| 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int value |
+| value | int | 整数值 |

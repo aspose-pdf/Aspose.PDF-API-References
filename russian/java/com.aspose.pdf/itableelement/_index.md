@@ -1,27 +1,28 @@
 ---
-Название: ITableElement
+title: ITableElement
 second_title: Aspose.PDF для справки по Java API
-описание: Этот интерфейс представляет собой элемент существующей таблицы, извлеченный TableAbsorber.
-тип: документы
-вес: 440
-URL-адрес: /java/com.aspose.pdf/itableelement/
----```
-открытый интерфейс ITableElement
+description: Этот интерфейс представляет собой элемент существующей таблицы, извлеченный TableAbsorber.
+type: docs
+weight: 440
+url: /ru/java/com.aspose.pdf/itableelement/
+---
+```
+public interface ITableElement
 ```
 
-This interface represents an element of existing table extracted by TableAbsorber.
-## Methods
+Этот интерфейс представляет собой элемент существующей таблицы, извлеченный TableAbsorber.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [getRectangle()](#getRectangle--) | Gets rectangle that describes position of table element on the page |
+| [getRectangle()](#getRectangle--) | Получает прямоугольник, описывающий положение элемента таблицы на странице |
 ### getRectangle() {#getRectangle--}
 ```
-публичный абстрактный прямоугольник getRectangle()
+public abstract Rectangle getRectangle()
 ```
 
 
-Gets rectangle that describes position of table element on the page
+Получает прямоугольник, описывающий положение элемента таблицы на странице
 
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
+**Возвращает:**
+[Rectangle](../../com.aspose.pdf/rectangle) - Прямоугольный объект

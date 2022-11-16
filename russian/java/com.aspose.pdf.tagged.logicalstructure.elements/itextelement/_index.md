@@ -1,40 +1,42 @@
 ---
-Название: ITextElement
+title: ITextElement
 second_title: Aspose.PDF для справки по Java API
-описание: Интерфейс для представления элементов текстовой структуры.
-тип: документы
-вес: 20
-URL-адрес: /java/com.aspose.pdf.tagged.logicalstructure.elements/itextelement/
----```
-открытый интерфейс ITextElement
+description: Интерфейс для представления элементов текстовой структуры.
+type: docs
+weight: 20
+url: /ru/java/com.aspose.pdf.tagged.logicalstructure.elements/itextelement/
+---
+```
+public interface ITextElement
 ```
 
-Interface for presenting text structure elements.
-## Methods
+Интерфейс для представления элементов текстовой структуры.
+## Методы
 
-| Method | Description |
+| Метод | Описание |
 | --- | --- |
-| [getStructureTextState()](#getStructureTextState--) | Gets  StructureTextState  object for text structure element. |
-| [setText(String text)](#setText-java.lang.String-) | Appends text content to current text element. |
+| [getStructureTextState()](#getStructureTextState--) | Получает объект StructureTextState для элемента текстовой структуры. |
+| [setText(String text)](#setText-java.lang.String-) | Добавляет текстовое содержимое к текущему текстовому элементу. |
 ### getStructureTextState() {#getStructureTextState--}
 ```
-открытый абстрактный StructureTextState getStructureTextState()
+public abstract StructureTextState getStructureTextState()
 ```
 
 
-Gets  StructureTextState  object for text structure element.
+Получает объект StructureTextState для элемента текстовой структуры.
 
-**Returns:**
-[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) - Value:  StructureTextState  object for text structure element.
+**Возвращает:**
+[StructureTextState](../../com.aspose.pdf.tagged.logicalstructure.elements/structuretextstate) Значение: объект StructureTextState для элемента текстовой структуры.
 ### setText(String text) {#setText-java.lang.String-}
 ```
-public abstract void setText (строковый текст)
+public abstract void setText(String text)
 ```
 
 
-Appends text content to current text element.
+Добавляет текстовое содержимое к текущему текстовому элементу.
 
-**Parameters:**
-| Parameter | Type | Description |
+**Параметры:**
+
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | java.lang.String | Text content |
+| text | java.lang.String | Текстовое содержимое |

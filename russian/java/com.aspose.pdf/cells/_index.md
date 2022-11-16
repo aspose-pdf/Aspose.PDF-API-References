@@ -160,7 +160,7 @@ public Cell get_Item(int index)
 | index | int | Индекс ячейки. |
 
 **Возвращает:**
-[Cell](../../com.aspose.pdf/cell) - Объект ячейки
+[Cell](../../com.aspose.pdf/cell) Объект ячейки
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

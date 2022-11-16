@@ -1,27 +1,28 @@
 ---
-标题：我的约会
-second_title: Aspose.PDF for Java API 参考
-描述：表示操作和目标的通用接口。
-类型：文档
-重量：431
-网址：/java/com.aspose.pdf/iappointment/
----```
-公共接口 IAppointment
+title: IAppointment
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 表示操作和目标的通用接口。
+type: docs
+weight: 431
+url: /zh/java/com.aspose.pdf/iappointment/
+---
+```
+public interface IAppointment
 ```
 
-Represents general interface for actions and destinations.
-## Methods
+表示操作和目标的通用接口。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [toString()](#toString--) | Returns string representation |
+| [toString()](#toString--) | 返回字符串表示 |
 ### toString() {#toString--}
 ```
-公共抽象字符串 toString()
+public abstract String toString()
 ```
 
 
-Returns string representation
+返回字符串表示
 
-**Returns:**
-java.lang.String - String representation
+**退货：**
+java.lang.String - 字符串表示

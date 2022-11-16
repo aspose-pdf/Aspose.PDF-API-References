@@ -160,7 +160,7 @@ public Cell get_Item(int index)
 | index | int | 细胞指数。 |
 
 **退货：**
-[Cell](../../com.aspose.pdf/cell) - 细胞对象
+[Cell](../../com.aspose.pdf/cell) 细胞对象
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

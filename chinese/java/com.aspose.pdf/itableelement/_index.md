@@ -1,27 +1,28 @@
 ---
-标题：ITableElement
-second_title: Aspose.PDF for Java API 参考
-描述：此接口表示由 TableAbsorber 提取的现有表的元素。
-类型：文档
-重量：440
-网址：/java/com.aspose.pdf/itableelement/
----```
-公共接口 ITableElement
+title: ITableElement
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 此接口表示由 TableAbsorber 提取的现有表格的元素。
+type: docs
+weight: 440
+url: /zh/java/com.aspose.pdf/itableelement/
+---
+```
+public interface ITableElement
 ```
 
-This interface represents an element of existing table extracted by TableAbsorber.
-## Methods
+此接口表示由 TableAbsorber 提取的现有表格的元素。
+## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [getRectangle()](#getRectangle--) | Gets rectangle that describes position of table element on the page |
+| [getRectangle()](#getRectangle--) | 获取描述页面上表格元素位置的矩形 |
 ### getRectangle() {#getRectangle--}
 ```
-公共抽象矩形 getRectangle()
+public abstract Rectangle getRectangle()
 ```
 
 
-Gets rectangle that describes position of table element on the page
+获取描述页面上表格元素位置的矩形
 
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
+**退货：**
+[Rectangle](../../com.aspose.pdf/rectangle) - 矩形对象
