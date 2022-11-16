@@ -112,15 +112,15 @@ public TextExtractionOptions getExtractionOptions()
 ```
 The example demonstrates how to set Pure text formatting mode and perform text extraction.
  
- // open document
+ // открыть документ
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text with formatting
+ // создать объект TextAbsorber для извлечения текста с форматированием
  TextAbsorber absorber = new TextAbsorber();
- // set pure text formatting mode
+ // установить режим форматирования чистого текста
  absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
- // accept the absorber for all document's pages
+ // принять поглотитель для всех страниц документа
  doc.getPages().accept(absorber);
- // get the extracted text
+ // получить извлеченный текст
  String extractedText = absorber.getText();
 ```
 
@@ -129,7 +129,7 @@ The example demonstrates how to set Pure text formatting mode and perform text e
 Позволяет определить режим форматирования текста TextExtractionOptions во время извлечения. Режим по умолчанию — TextExtractionOptions.TextFormattingMode.Pure. 
 
 **Возвращает:**
-[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) Значение TextExtractionOptions
+[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) - Значение TextExtractionOptions
 ### getRectangles() {#getRectangles--}
 ```
 public Rectangle[] getRectangles()
@@ -156,13 +156,13 @@ java.lang.String — строковое значение
 ```
 The example demonstrates how to extract text from all pages of the PDF document.
  
- // open document
+ // открыть документ
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text
+ // создать объект TextAbsorber для извлечения текста
  TextAbsorber absorber = new TextAbsorber();
- // accept the absorber for all document's pages
+ // принять поглотитель для всех страниц документа
  doc.getPages().accept(absorber);
- // get the extracted text
+ // получить извлеченный текст
  String extractedText = absorber.getText();
 ```
 ### getTextParagraphs() {#getTextParagraphs--}
@@ -236,15 +236,15 @@ public void setExtractionOptions(TextExtractionOptions value)
 ```
 The example demonstrates how to set Pure text formatting mode and perform text extraction.
  
- // open document
+ // открыть документ
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text with formatting
+ // создать объект TextAbsorber для извлечения текста с форматированием
  TextAbsorber absorber = new TextAbsorber();
- // set pure text formatting mode
+ // установить режим форматирования чистого текста
  absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
- // accept the absorber for all document's pages
+ // принять поглотитель для всех страниц документа
  doc.getPages().accept(absorber);
- // get the extracted text
+ // получить извлеченный текст
  String extractedText = absorber.getText();
 ```
 
@@ -325,13 +325,13 @@ public void visit(IDocument pdf)
 ```
 The example demonstrates how to extract text on PDF document.
  
- // open document
+ // открыть документ
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text
+ // создать объект TextAbsorber для извлечения текста
  TextAbsorber absorber = new TextAbsorber();
- // accept the absorber for all document's pages
+ // принять поглотитель для всех страниц документа
  absorber.visit(doc);
- // get the extracted text
+ // получить извлеченный текст
  String extractedText = absorber.getText();
 ```
 
@@ -368,16 +368,16 @@ public void visit(XForm form)
 ```
 The example demonstrates how to extract text on the first PDF document page.
  
-  // open document
+  // открыть документ
   Document doc = new Document(inFile);
   
-  // create TextAbsorber object to extract text
+  // создать объект TextAbsorber для извлечения текста
   TextAbsorber absorber = new TextAbsorber();
    
-  // accept the absorber for all document's pages
+  // принять поглотитель для всех страниц документа
   absorber.visit(doc.Pages().get(1).getResources().getForms().get("Xform1"));
      
-  // get the extracted text
+  // получить извлеченный текст
   String extractedText = absorber.getText();
 ```
 

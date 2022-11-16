@@ -421,7 +421,7 @@ public abstract void addPageNumber(FormattedText formattedText)
 ```
 
 
- Добавляет номер страницы к странице. Номер страницы может содержать\знак #, который будет заменен номером страницы. Номер страницы помещается внизу страницы по центру горизонтально.
+Добавляет номер страницы к странице. Номер страницы может содержать\знак #, который будет заменен номером страницы. Номер страницы помещается внизу страницы по центру горизонтально.
 
 --------------------
 
@@ -647,7 +647,7 @@ public abstract void close()
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- // do some work...
+ // поработай немного...
  stamp.close();
 ```
 
@@ -663,7 +663,7 @@ public abstract void dispose()
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- // do some work...
+ // поработай немного...
  stamp.dispose();
 ```
 

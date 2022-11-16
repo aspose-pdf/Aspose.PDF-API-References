@@ -32,7 +32,7 @@ public class XmpField
 | [isEmpty()](#isEmpty--) | 获取一个值，该值指示此实例是否为空。 |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [op_Equality(XmpField field1, XmpField field2)](#op-Equality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | 实现运算符 ==。 |
+| [op_Equality(XmpField field1, XmpField field2)](#op-Equality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | 实现运算符==. |
 | [op_Inequality(XmpField field1, XmpField field2)](#op-Inequality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | 实施运营商！ |
 | [setLocalName_Rename_Namesake(String value)](#setLocalName-Rename-Namesake-java.lang.String-) | 仅供内部使用 |
 | [setNamespaceUri_Rename_Namesake(String value)](#setNamespaceUri-Rename-Namesake-java.lang.String-) | 仅供内部使用 |
@@ -199,7 +199,7 @@ public static boolean op_Equality(XmpField field1, XmpField field2)
 ```
 
 
-实现运算符 ==。
+实现运算符==.
 
 **参数：**
 

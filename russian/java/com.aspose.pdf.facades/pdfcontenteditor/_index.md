@@ -1144,7 +1144,7 @@ public void createWebLink(Rectangle rect, String url, int originalPage, Color cl
 PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf("example.pdf");
  editor.createWebLink(new Rectangle(0, 0, 100, 100),
-     "http://www.aspose.com", 1, Color.red });
+     "http://www.aspose.com", 1, Цвет.красный });
  editor.save("example_out.pdf");
 ```
 
@@ -1171,7 +1171,7 @@ public void createWebLink(Rectangle rect, String url, int originalPage, Color cl
 PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf("example.pdf");
  editor.createWebLink(new Rectangle(0, 0, 100, 100),
-     "http://www.aspose.com", 1, Color.red,
+     "http://www.aspose.com", 1, Цвет.красный,
      new int[] { PredefinedAction.FirstPage, PredefinedAction.PrintDialog });
  editor.save("example_out.pdf");
 ```
@@ -1384,7 +1384,7 @@ public void drawCurve(LineInfo lineInfo, int page, Rectangle annotRect, String a
 PdfContentEditor editor = new PdfContentEditor();
  newApiEditor.bindPdf("example.pdf");
  LineInfo lineInfo = new LineInfo();
- lineInfo.setVerticeCoordinate ( new float[] { 0, 0, 100, 100 });  //x1, y1, x2, y2, .. xn, yn
+ lineInfo.setVerticeCoordinate ( new float[] { 0, 0, 100, 100 });  //х1, у1, х2, у2, .. хп, уп
  lineInfo.setVisibility ( true);
  editor.drawCurve(lineInfo, 1, new Rectangle(0, 0, 0, 0), "Welcome to Aspose");
  editor.save("example_out.pdf");
@@ -1432,7 +1432,7 @@ PdfContentEditor editor = new PdfContentEditor();
  for (object obj : links)
  {
      Link link = (Link)obj;
-     // work with Link instance
+     // работа с экземпляром Link
  }
 ```
 
@@ -1665,14 +1665,14 @@ public boolean replaceText(String srcString, int thePage, String destString)
 The example demonstrates how to replace text in PDF document on the specified page.
 
 
- // open document
+ // открыть документ
  Document doc = new Document(inFile);
- // create PdfContentEditor object to edit text
+ // создать объект PdfContentEditor для редактирования текста
  PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf(doc);
- // change text
+ // изменить текст
  editor.replaceText("hello world", 1, "hi world");
- // save document
+ // сохранить документ
  doc.save(outFile);
 ```
 
@@ -1782,19 +1782,19 @@ Replaces text in the PDF file using specified  TextState  object.
 
 
  Document doc = new Document(inFile);
- // Create font and mark it to be embedded
+ // Создайте шрифт и отметьте его для встраивания
  com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Courier New");
  font.isEmbedded ( true);
- // create PdfContentEditor object to edit text
+ // создать объект PdfContentEditor для редактирования текста
  PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf(doc);
- // create textState object
+ // создать объект textState
  com.aspose.pdf.TextState textState = new com.aspose.pdf.TextState();
  textState.setFont ( font);
  textState.setFontStyle ( com.aspose.pdf.FontStyles.Bold | com.aspose.pdf.FontStyles.Italic);
- // change text with specified font
+ // изменить текст с указанным шрифтом
  editor.replaceText("hello world", "hi world", textState);
- // save document
+ // сохранить документ
  doc.save(outFile);
 ```
 
@@ -1822,17 +1822,17 @@ public boolean replaceText(String srcString, String destString, int fontSize)
 The example demonstrates how to replace text and set font size for the new text.
 
 
- // open document
+ // открыть документ
  Document doc = new Document(inFile);
- // Create font and mark it to be embedded
+ // Создайте шрифт и отметьте его для встраивания
  com.aspose.pdf.Font font = FontRepository.FindFont("Courier New");
  font.isEmbedded ( true);
- // create PdfContentEditor object to edit text
+ // создать объект PdfContentEditor для редактирования текста
  PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf(doc);
- // change text with specified font
+ // изменить текст с указанным шрифтом
  editor.replaceText("hello world", "hi world", 14);
- // save document
+ // сохранить документ
  doc.save(outFile);
 ```
 

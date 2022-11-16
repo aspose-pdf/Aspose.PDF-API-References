@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.pdf.XmpPdfAExtensionObject](../../com.aspose.pdf/x
 public final class XmpPdfAExtensionProperty extends XmpPdfAExtensionField
 ```
 
-Описывает одно свойство. URI пространства имен схемы: http://www.aiim.org/pdfa/ns/property\# Обязательный префикс пространства имен схемы: pdfaProperty
+ Описывает одно свойство. URI пространства имен схемы:http://www.aiim.org/pdfa/ns/property\# Обязательный префикс пространства имен схемы: pdfaProperty
 ## Конструкторы
 
 | Конструктор | Описание |

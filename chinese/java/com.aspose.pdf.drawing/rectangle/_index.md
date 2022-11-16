@@ -156,7 +156,7 @@ public TextFragment getText()
 获取或设置形状的文本
 
 **退货：**
-[TextFragment](../../com.aspose.pdf/textfragment) TextFragment 对象
+[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment 对象
 ### getWidth() {#getWidth--}
 ```
 public double getWidth()

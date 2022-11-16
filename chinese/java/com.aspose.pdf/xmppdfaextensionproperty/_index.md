@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.pdf.XmpPdfAExtensionObject](../../com.aspose.pdf/x
 public final class XmpPdfAExtensionProperty extends XmpPdfAExtensionField
 ```
 
-描述单个属性。架构命名空间 URI：http://www.aiim.org/pdfa/ns/property\# 必需的架构命名空间前缀：pdfaProperty
+描述单个属性。架构名称空间 URI：http://www.aiim.org/pdfa/ns/property\#必需的架构命名空间前缀：pdfaProperty
 ## 构造函数
 
 | 构造函数 | 描述 |

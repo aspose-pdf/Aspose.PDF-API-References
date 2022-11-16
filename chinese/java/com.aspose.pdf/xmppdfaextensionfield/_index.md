@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.pdf.XmpPdfAExtensionObject](../../com.aspose.pdf/x
 public class XmpPdfAExtensionField extends XmpPdfAExtensionObject
 ```
 
-此架构描述结构化类型中的字段。它与 PDF/A 属性值类型模式非常相似，但在结构中定义了一个字段而不是属性。架构命名空间 URI：http://www.aiim.org/pdfa/ns/field\# 必需的架构命名空间前缀：pdfaField。
+此架构描述结构化类型中的字段。它与 PDF/A 属性值类型模式非常相似，但在结构中定义了一个字段而不是属性。架构命名空间 URI：http://www.aiim.org/pdfa/ns/field\#必需的架构命名空间前缀：pdfaField。
 ## 构造函数
 
 | 构造函数 | 描述 |

@@ -170,15 +170,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
   InmputStream src = new FileInputStream("input.pdf");
   OutputStream dest = new FileInputStream("output.pdf");
   fileEditor.addMargins(src, dest, 
-      //process pages 1, 2, 3
+      //обрабатывать страницы 1, 2, 3
       new int[] { 1, 2, 3}, 
-      //left margin is 10 units
+      //левое поле 10 единиц
       10, 
-      //right margin is 5 units
+      //правое поле 5 единиц
       5, 
-      //top margin is 5 units
+      //верхнее поле 5 единиц
       5, 
-      //bottom margin is 5 units
+      //нижнее поле 5 единиц
       5);
       dest.Close();
 ```
@@ -210,15 +210,15 @@ public boolean addMargins(String source, String destination, int[] pages, double
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
   fileEditor.addMargins("input.pdf", "output.pdf", 
-      //process pages 1, 2, 3
+      //обрабатывать страницы 1, 2, 3
       new int[] { 1, 2, 3}, 
-      //left margin is 10 units
+      //левое поле 10 единиц
       10, 
-      //right margin is 5 units
+      //правое поле 5 единиц
       5, 
-      //top margin is 5 units
+      //верхнее поле 5 единиц
       5, 
-      //bottom margin is 5 units
+      //нижнее поле 5 единиц
       5);
 ```
 
@@ -251,15 +251,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
   InmputStream src = new FileInputStream("input.pdf");
   OutputStream dest = new FileInputStream("output.pdf");
   fileEditor.addMarginsPct(src, dest, 
-      //process pages 1, 2, 3
+      //обрабатывать страницы 1, 2, 3
       new int[] { 1, 2, 3}, 
-      //left margin is 15% of page width 
+      // левое поле составляет 15% от ширины страницы
       15, 
-      //right margin is 10% of page width
+      //правое поле составляет 10% от ширины страницы
       10, 
-      //top margin is 20% of page width
+      //верхнее поле составляет 20% от ширины страницы
       20, 
-      //bottom margin is 5% of page width
+      //нижнее поле составляет 5% от ширины страницы
       5);
       dest.close();
 ```
@@ -291,15 +291,15 @@ public boolean addMarginsPct(String source, String destination, int[] pages, dou
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
   fileEditor.addMarginsPct("input.pdf", "output.pdf", 
-      //process pages 1, 2, 3
+      //обрабатывать страницы 1, 2, 3
       new int[] { 1, 2, 3}, 
-      //left margin is 15% of page width 
+      // левое поле составляет 15% от ширины страницы
       15, 
-      //right margin is 10% of page width
+      //правое поле составляет 10% от ширины страницы
       10, 
-      //top margin is 20% of page width
+      //верхнее поле составляет 20% от ширины страницы
       20, 
-      //bottom margin is 5% of page width
+      //нижнее поле составляет 5% от ширины страницы
       5);
 ```
 
@@ -965,7 +965,7 @@ public PdfFileEditor.CorruptedItem[] getCorruptedItems()
 --------------------
 
 ```
-//concatenate documents and show information about corrupted documents
+//объединять документы и показывать информацию о поврежденных документах
 	      PdfFileEditor pfe = new PdfFileEditor();
 	      pfe.setCorruptedFileAction(PdfFileEditor.ConcatenateCorruptedFileAction.ConcatenateIgnoringCorrupted);
 	      ```

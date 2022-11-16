@@ -129,7 +129,7 @@ public void bindPdf(InputStream pdfStream, int pageNumber)
 ```
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  Stamp stamp = new Stamp();
- //First page will be used as stamp.
+ //Первая страница будет использоваться как штамп.
  InputStream stream = new FileInputStream("stamp.pdf");
  stamp.bindPdf(stream, 1);
  fileStamp.addStamp(stamp);
@@ -156,7 +156,7 @@ public void bindPdf(String pdfFile, int pageNumber)
 ```
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  Stamp stamp = new Stamp();
- //First page will be used as stamp.
+ //Первая страница будет использоваться как штамп.
  stamp.bindPdf("stamp.pdf", 1);
  stamp.isBackground (true);
  fileStamp.addStamp(stamp);
@@ -430,7 +430,7 @@ public void setPages(int[] value)
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
  Stamp stamp = new com.aspose.pdf.facades.Stamp();
  stamp.bindLogo(new FormattedText(text));
- //put stamp only on 1st, 4th and 6th page.
+ //ставить штамп только на 1, 4 и 6 странице.
  stamp.setPages(new int[] { 1, 4, 6 });
  fileStamp.addStamp(stamp);
  fileStamp.close();

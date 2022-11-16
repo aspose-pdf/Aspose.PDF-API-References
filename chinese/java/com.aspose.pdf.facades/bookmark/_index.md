@@ -164,7 +164,7 @@ public String getDestination()
 ```
 
 
-获取书签的目标页面。如果操作设置为“”，则需要。
+获取书签的目标页面。如果操作设置为，则需要“”.
 
 **退货：**
 java.lang.String - 字符串值
@@ -404,7 +404,7 @@ public void setDestination(String value)
 ```
 
 
-设置书签的目标页面。如果操作设置为“”，则需要。
+设置书签的目标页面。如果操作设置为，则需要“”.
 
 **参数：**
 

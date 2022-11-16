@@ -150,7 +150,7 @@ public static final SaveFormat Pptx
 
 表示保存在 MHT(WebArchieve) ///
 
-将文档转换为 Mht 格式。这段代码是实验性的，在与 https://pdf.aspose.com/jira/browse/PDFNEWNET-36340 相关的工作中使用，不会投入生产，因为创建的 MHT 存在跨浏览器问题 - 因此，它可以使用将来如果最终有必要创建 MHT 本身。 PDFNEWNET-36340 已通过使用 DataSceme URL（将数据嵌入 HTML http://en.wikipedia.org/wiki/Data\_URI\_scheme) 所以，这个转换现在真的没有被使用。
+将文档转换为 Mht 格式。此代码是在与相关工作期间使用的实验性代码https://pdf.aspose.com/jira/browse/PDFNEWNET-36340不会投入生产，因为创建的 MHT 存在跨浏览器问题 - 因此，如果最终有必要创建 MHT 本身，它可以在将来使用。 PDFNEWNET-36340 已通过使用 DataSceme URL（将数据嵌入 HTMLhttp://en.wikipedia.org/wiki/Data\_URI\_scheme) 所以，这个转换现在真的没有用过。
 
 表示保存为PPTX格式
 

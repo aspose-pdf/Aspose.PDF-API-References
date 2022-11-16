@@ -19,18 +19,18 @@ public final class TextFragmentAbsorber extends TextAbsorber
 ```
 The example demonstrates how to find text on the first PDF document page and replace the text and it's font.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ //查找将用于更改文档文本字体的字体
  com.aspose.pdf.Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- // Accept the absorber for first page
+ //接受第一页的吸收器
  doc.getPages().get(1).accept(absorber);
- // Change text and font of the first text occurrence
+ //更改第一个文本出现的文本和字体
  absorber.getTextFragments().get_Item(1).setText ( "hi world");
  absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -102,19 +102,19 @@ public TextFragmentAbsorber()
 ```
 The example demonstrates how to find text on the first PDF document page and replace the text.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ //查找将用于更改文档文本字体的字体
  Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object
+ //创建 TextFragmentAbsorber 对象
  TextFragmentAbsorber absorber = new TextFragmentAbsorber();
- // Make the absorber to search all "hello world" text occurrences
+ //让吸收器搜索所有“hello world”文本出现
  absorber.setPhrase ( "hello world");
- // Accept the absorber for first page
+ //接受第一页的吸收器
  doc.getPages().get(1).accept(absorber);
- // Change text of the first text occurrence
+ //更改第一个文本出现的文本
  absorber.getTextFragments().get_Item(1).setText ( "hi world");
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -135,26 +135,26 @@ public TextFragmentAbsorber(TextEditOptions textEditOptions)
 ```
 The example demonstrates how to find all text fragments on the first PDF document page and replace font for them.
 
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object
+  //创建 TextFragmentAbsorber 对象
   TextFragmentAbsorber absorber = new TextFragmentAbsorber(new TextEditOptions(TextEditOptions.FontReplace
   .RemoveUnusedFonts));
 
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages()get(1).accept(absorber);
 
-  // Find Courier font
+  //查找 Courier 字体
   Font font = FontRepository.findFont("Courier");
-  // Set the font for all the text fragments
+  //设置所有文本片段的字体
   for (TextFragment textFragment : ```
 (Iterable)
 ```absorber.TextFragments)
   {
       textFragment.getTextState().setFont ( font);
   }
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -181,18 +181,18 @@ public TextFragmentAbsorber(String phrase)
 ```
 The example demonstrates how to find text on the first PDF document page and replace the text and it's font.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ //查找将用于更改文档文本字体的字体
  com.aspose.pdf.Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- // Accept the absorber for first page
+ //接受第一页的吸收器
  doc.getPages().get_Item(1).accept(absorber);
- // Change text and font of the first text occurrence
+ //更改第一个文本出现的文本和字体
  absorber.getTextFragments().get_Item(1).setText ( "hi world");
  absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -219,17 +219,17 @@ public TextFragmentAbsorber(Pattern regex)
 该示例演示了如何在第一个 PDF 文档页面上查找文本并替换文本及其字体。
 
 ```
-// Open document
+//打开文档
   Document doc = new Document("input.pdf");
-  // Find font that will be used to change document text font
+  //查找将用于更改文档文本字体的字体
   Font font = FontRepository.findFont("Arial");
-  // Create TextAbsorber object to find all instances of the input regex
+  //创建 TextAbsorber 对象以查找输入正则表达式的所有实例
   TextFragmentAbsorber absorber = new TextFragmentAbsorber(new Regex("h\\w*?o"));
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_item(1).accept(absorber);
-  // we should find "hello" word and replace it with "Hi"
+  //我们应该找到“你好”这个词并将其替换为“嗨”
   absorber.getTextFragments().get_item(1).setText("Hi");
-  // Save document
+  //保存文件
   doc.save("output.pdf");
 ```
 
@@ -257,16 +257,16 @@ public TextFragmentAbsorber(String phrase, TextSearchOptions textSearchOptions)
 The example demonstrates how to find text with regular expression on the first PDF document page and replace
  the text.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular
+ //创建 TextFragmentAbsorber 对象，该对象使用正则搜索以“h”开头和以“o”结尾的所有单词
  expression.
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("h\\w*?o", new TextSearchOptions(true));
- // we should find "hello" word and replace it with "Hi"
+ //我们应该找到“你好”这个词并将其替换为“嗨”
  doc.getPages().get_Item(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
 
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -294,14 +294,14 @@ public TextFragmentAbsorber(Pattern regex, TextSearchOptions textSearchOptions)
 该示例演示如何在第一个 PDF 文档页面上使用正则表达式查找文本并替换文本。
 
 ```
-// Open document
+//打开文档
   Document doc = new Document("input.pdf");
-  // Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+  //创建 TextFragmentAbsorber 对象，该对象使用正则表达式搜索以“h”开头和以“o”结尾的所有单词。
   TextFragmentAbsorber absorber = new TextFragmentAbsorber(new Regex("h\\w*?o"), new TextSearchOptions(true));
-  // we should find "hello" word and replace it with "Hi"
+  //我们应该找到“你好”这个词并将其替换为“嗨”
   doc.getPages().get_Item(1).accept(absorber);
   absorber.getTextFragments.get_Item(1).setText("Hi");
-  // Save document
+  //保存文件
   doc.save("output.pdf");
 ```
 
@@ -330,15 +330,15 @@ public TextFragmentAbsorber(String phrase, TextSearchOptions textSearchOptions, 
 The example demonstrates how to find text with regular expression on the first PDF document page and replace
  the text.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular
+ //创建 TextFragmentAbsorber 对象，该对象使用正则搜索以“h”开头和以“o”结尾的所有单词
  expression.
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("h\w*?o", new TextSearchOptions(true));
- // we should find "hello" word and replace it with "Hi"
+ //我们应该找到“你好”这个词并将其替换为“嗨”
  doc.getPages().get_item(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -497,17 +497,17 @@ java.lang.String - 字符串值
 ```
 The example demonstrates how to perform search text several times and perform text replacements.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object to find all "hello" text occurrences
+ //创建 TextFragmentAbsorber 对象以查找所有出现的“hello”文本
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
  doc.getPages().get(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // search another word and replace it
+ //搜索另一个词并替换它
  absorber.setPhrase ( "world");
  doc.getPages().get(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "John");
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 ### getText() {#getText--}
@@ -547,22 +547,22 @@ public TextFragmentCollection getTextFragments()
 The example demonstrates how to find text on the first PDF document page and replace all search occurrences
  with new text.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ //查找将用于更改文档文本字体的字体
  Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- // Accept the absorber for first page
+ //接受第一页的吸收器
  doc.getPages().get(1).accept(absorber);
- // Change text of all search occurrences
+ //更改所有搜索事件的文本
  for (TextFragment textFragment : ```
 (Iterable)
 ```absorber.getTextFragments())
  {
      textFragment.setText ( "hi world");
  }
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 ### getTextReplaceOptions() {#getTextReplaceOptions--}
@@ -591,17 +591,17 @@ public TextSearchOptions getTextSearchOptions()
 ```
 The example demonstrates how to perform search text using regular expression.
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object
+ //创建 TextFragmentAbsorber 对象
  TextFragmentAbsorber absorber = new TextFragmentAbsorber();
- // make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+ //让吸收器使用正则表达式搜索以“h”开头和以“o”结尾的所有单词。
  absorber.setPhrase ( "h\w*?o");
  absorber.setTextSearchOptions ( new TextSearchOptions(true));
- // we should find "hello" word and replace it with "Hi"
+ //我们应该找到“你好”这个词并将其替换为“嗨”
  doc.getPages().get(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 ### hasErrors() {#hasErrors--}
@@ -734,17 +734,17 @@ public void setPhrase(String value)
 ```
 The example demonstrates how to perform search text several times and perform text replacements.
 
-              // Open document
+              //打开文档
               Document doc = new Document("D:\\Tests\\input.pdf");
-              // Create TextFragmentAbsorber object to find all "hello" text occurrences
+              //创建 TextFragmentAbsorber 对象以查找所有出现的“hello”文本
               TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
               doc.getPages().get(1).accept(absorber);
               absorber.getTextFragments().get_Item(1).setText ( "Hi");
-              // search another word and replace it
+              //搜索另一个词并替换它
               absorber.setPhrase ( "world");
               doc.getPages().get(1).accept(absorber);
               absorber.getTextFragments().get_Item(1).setText ( "John");
-              // Save document
+              //保存文件
               doc.save("D:\\Tests\\output.pdf");
 ``` |
 
@@ -795,7 +795,7 @@ Sets collection of search occurrences that are presented with  TextFragment  obj
               {
                   textFragment.setText ( "hi world");
               }
-              // Save document
+              //保存文件
               doc.save("D:\\Tests\\output.pdf");
 ``` |
 
@@ -914,7 +914,7 @@ Performs search on the specified page.
  {
      textFragment.setText ( "hi world");
  }
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 

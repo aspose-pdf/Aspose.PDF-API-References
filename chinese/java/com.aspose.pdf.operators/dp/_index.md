@@ -195,7 +195,7 @@ public IPdfDictionary getPropertiesDictionary()
 获取属性字典
 
 **退货：**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdf字典值
+[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) IPdf字典值
 ### getPropertiesName() {#getPropertiesName--}
 ```
 public IPdfName getPropertiesName()

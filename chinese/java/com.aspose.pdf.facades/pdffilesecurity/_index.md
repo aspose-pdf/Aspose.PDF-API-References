@@ -241,8 +241,8 @@ public final boolean changePassword(String ownerPassword, String newUserPassword
 通过所有者密码更改用户密码和所有者密码，保持原来的安全设置。新用户密码和新所有者密码可以为空或为空。如果新所有者密码为 null 或为空，则所有者密码将替换为随机字符串。如果进程失败则抛出异常。
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
-  string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //可以重新分配 TestPath。
+  string outFile = "D:\\output.pdf";	//可以重新分配 TestPath。
   PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
   fileSecurity.changePassword("owner","newuser","newowner");
 ```
@@ -268,10 +268,10 @@ public boolean changePassword(String ownerPassword, String newUserPassword, Stri
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be
- 														// re-assigned.
- string outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+string inFile = "input.pdf"; //测试路径可能是
+ 														//重新分配。
+ string outFile = "output.pdf"; //测试路径可能是
+ 															//重新分配。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.changePassword("owner", "newuser", "newowner",
  		DocumentPrivilege.Print, KeySize.x256);
@@ -300,10 +300,10 @@ public boolean changePassword(String ownerPassword, String newUserPassword, Stri
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be
- 														// re-assigned.
- string outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+string inFile = "input.pdf"; //测试路径可能是
+ 														//重新分配。
+ string outFile = "output.pdf"; //测试路径可能是
+ 															//重新分配。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.changePassword("owner", "newuser", "newowner",
  		DocumentPrivilege.Print, KeySize.x256, Algorithm.AES);
@@ -339,8 +339,8 @@ public final boolean decryptFile(String ownerPassword)
 通过所有者密码解密加密的 Pdf 文档。如果文档没有所有者密码，则允许使用用户密码。如果进程失败则抛出异常。
 
 ```
-string inFile = "input.pdf"; //The TestPath may be re-assigned.
- string outFile = "output.pdf"; //The TestPath may be re-assigned.
+string inFile = "input.pdf"; //可以重新分配 TestPath。
+ string outFile = "output.pdf"; //可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  fileSecurity.decryptFile("ownerpass");
 ```
@@ -372,10 +372,10 @@ public boolean encryptFile(String userPassword, String ownerPassword, DocumentPr
 --------------------
 
 ```
-String inFile = "input.pdf"; // The TestPath may be
- 															// re-assigned.
- String outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+String inFile = "input.pdf"; //测试路径可能是
+ 															//重新分配。
+ String outFile = "output.pdf"; //测试路径可能是
+ 															//重新分配。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print,
  		KeySize.x256);
@@ -403,10 +403,10 @@ public boolean encryptFile(String userPassword, String ownerPassword, DocumentPr
 --------------------
 
 ```
-String inFile = "input.pdf"; // The TestPath may be
- 															// re-assigned.
- String outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+String inFile = "input.pdf"; //测试路径可能是
+ 															//重新分配。
+ String outFile = "output.pdf"; //测试路径可能是
+ 															//重新分配。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.encryptFile("userpass", "ownerpass", DocumentPrivilege.Print,
  		KeySize.x256, Algorithm.AES);
@@ -623,8 +623,8 @@ public boolean setPrivilege(DocumentPrivilege privilege)
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be re-assigned.
- string outFile = "output.pdf"; // The TestPath may be re-assigned.
+string inFile = "input.pdf"; //可以重新分配 TestPath。
+ string outFile = "output.pdf"; //可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.setPrivilege(DocumentPrivilege.Print);
 ```
@@ -648,8 +648,8 @@ public boolean setPrivilege(String userPassword, String ownerPassword, DocumentP
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be re-assigned.
- string outFile = "output.pdf"; // The TestPath may be re-assigned.
+string inFile = "input.pdf"; //可以重新分配 TestPath。
+ string outFile = "output.pdf"; //可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.setPrivilege(userPassword, ownerPassword, DocumentPrivilege.getPrint());
 ```
@@ -683,8 +683,8 @@ public final boolean tryChangePassword(String ownerPassword, String newUserPassw
 通过所有者密码更改用户密码和所有者密码，保持原来的安全设置。新用户密码和新所有者密码可以为空或为空。所有者密码将被替换 如果进程失败，则不会抛出异常。如果新所有者密码为 null 或为空，则使用随机字符串。
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
-  string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //可以重新分配 TestPath。
+  string outFile = "D:\\output.pdf";	//可以重新分配 TestPath。
   PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
   bool result = fileSecurity.tryChangePassword("owner","newuser","newowner");
 ```
@@ -708,8 +708,8 @@ public final boolean tryChangePassword(String ownerPassword, String newUserPassw
 通过所有者密码更改用户密码和密码，允许重置 Pdf 文档安全性。新用户密码和新所有者密码可以为空或为空。如果新所有者密码为 null 或为空，则所有者密码将替换为随机字符串。如果进程失败，则不会抛出异常。
 
 ```
-string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = ".D:\\input.pdf"; //可以重新分配 TestPath。
+ string outFile = "D:\\output.pdf";	//可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.tryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256);
 ```
@@ -735,8 +735,8 @@ public final boolean tryChangePassword(String ownerPassword, String newUserPassw
 通过所有者密码更改用户密码和密码，允许重置 Pdf 文档安全性。新用户密码和新所有者密码可以为空或为空。如果新所有者密码为 null 或为空，则所有者密码将替换为随机字符串。 KeySize 和 Algorithm 值有 6 种可能的组合。但是(KeySize.x40, Algorithm.AES) 和(KeySize.x256, Algorithm.RC4) 是无效的，如果kit遇到这个组合会抛出相应的异常。如果进程失败，则不会抛出异常。
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //可以重新分配 TestPath。
+ string outFile = "D:\\output.pdf";	//可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.changePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);
 ```
@@ -763,8 +763,8 @@ public final boolean tryDecryptFile(String ownerPassword)
 通过所有者密码解密加密的 Pdf 文档。如果文档没有所有者密码，则允许使用用户密码。如果进程失败，则不会抛出异常。
 
 ```
-string inFile = "input.pdf"; //The TestPath may be re-assigned.
- string outFile = "output.pdf"; //The TestPath may be re-assigned.
+string inFile = "input.pdf"; //可以重新分配 TestPath。
+ string outFile = "output.pdf"; //可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.TryDecryptFile("ownerpass");
 ```
@@ -786,8 +786,8 @@ public final boolean tryEncryptFile(String userPassword, String ownerPassword, D
 使用用户密码和所有者密码加密 Pdf 文件，并设置文档的访问权限。用户密码和所有者密码可以为 null 或为空。如果输入的所有者密码为 null 或为空，则所有者密码将替换为随机字符串。如果进程失败，则不会抛出异常。
 
 ```
-string inFile = "input.pdf"; //The TestPath may be re-assigned.
- string outFile = "output.pdf"; //The TestPath may be re-assigned.
+string inFile = "input.pdf"; //可以重新分配 TestPath。
+ string outFile = "output.pdf"; //可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.tryEncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256);
 ```
@@ -812,8 +812,8 @@ public final boolean trySetPrivilege(String userPassword, String ownerPassword, 
 使用原始密码设置 Pdf 文件安全性。如果进程失败，则不会抛出异常。
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //可以重新分配 TestPath。
+ string outFile = "D:\\output.pdf"; //可以重新分配 TestPath。
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.trySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
 ```

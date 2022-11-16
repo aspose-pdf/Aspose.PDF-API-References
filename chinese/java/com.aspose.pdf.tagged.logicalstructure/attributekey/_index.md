@@ -503,7 +503,7 @@ public static AttributeKey to_AttributeKey(String key)
 | key | java.lang.String | 属性键。 |
 
 **退货：**
-[AttributeKey](../../com.aspose.pdf.tagged.logicalstructure/attributekey) 转换的结果。
+[AttributeKey](../../com.aspose.pdf.tagged.logicalstructure/attributekey) - 转换的结果。
 ### wait() {#wait--}
 ```
 public final void wait()

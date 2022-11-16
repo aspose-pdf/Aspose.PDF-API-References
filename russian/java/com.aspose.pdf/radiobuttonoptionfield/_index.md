@@ -442,7 +442,7 @@ public TextFragment getCaption()
 Получает заголовок.
 
 **Возвращает:**
-[TextFragment](../../com.aspose.pdf/textfragment) Объект TextFragment
+[TextFragment](../../com.aspose.pdf/textfragment) - Объект TextFragment
 ### getCharacteristics() {#getCharacteristics--}
 ```
 public Characteristics getCharacteristics()

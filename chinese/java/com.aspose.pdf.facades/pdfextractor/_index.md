@@ -424,7 +424,7 @@ PdfExtractor extractor = new PdfExtractor();
 ```
 
 **退货：**
-java.io.ByteArrayOutputStream[] - pdf文档中附件文件的流数组。
+java.io.ByteArrayOutputStream[- pdf文档中附件文件的流数组。
 ### getAttachment(String outputPath) {#getAttachment-java.lang.String-}
 ```
 public void getAttachment(String outputPath)

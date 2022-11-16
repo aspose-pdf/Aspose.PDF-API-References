@@ -479,7 +479,7 @@ public void copyInnerField(String fieldName, String newFieldName, int pageNum)
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
- //Creates copy of text field on second page.
+ //Создает копию текстового поля на второй странице.
  formEditor.copyInnerField("textField", "textFieldCopy", 2);
 ```
 
@@ -503,7 +503,7 @@ public void copyInnerField(String fieldName, String newFieldName, int pageNum, f
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
- //Creates copy of text field on second page.
+ //Создает копию текстового поля на второй странице.
  formEditor.copyInnerField("textField", "textFieldCopy", 2, 100, 200);
 ```
 
@@ -529,7 +529,7 @@ public void copyOuterField(String srcFileName, String fieldName)
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
- //copies text field from source.pdf to PdfForm.pdf
+ //копирует текстовое поле из source.pdf в PdfForm.pdf
  formEditor.copyOuterField("source.pdf", "textField");
  formEditor.save();
 ```
@@ -592,7 +592,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor ( Color.blue);
  fe.getFacade().setBorderColor ( Color.Green);
  fe.getFacade().setAlignment( FormFieldFacade.AlignRight);
- //decorate all fields.
+ //украсить все поля.
  fe.decorateField();
 ```
 
@@ -613,7 +613,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor ( Color.blue);
  fe.getFacade().setBorderColor ( Color.green);
  fe.getFacade().setAlignment ( FormFieldFacade.AlignRight);
- //decorate all text fields.
+ //украсить все текстовые поля.
  fe.decorateField(FieldType.Text);
 ```
 

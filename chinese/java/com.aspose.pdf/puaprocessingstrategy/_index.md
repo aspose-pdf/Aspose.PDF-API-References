@@ -12,7 +12,7 @@ java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
 public static final class PdfFormatConversionOptions.PuaProcessingStrategy extends System.Enum
 ```
 
-一些 PDF 文档具有特殊的 unicode 符号，属于私人使用区 (PUA)，请参阅 https://en.wikipedia.org/wiki/Private 上的说明\_利用\_地区。此符号会导致 PDF/A 兼容错误，例如“文本映射到 Unicode 私人使用区域，但不存在 ActualText 条目”。此枚举声明了可用于处理 PUA 符号的策略。
+一些PDF文档有特殊的unicode符号，属于Private Use Area (PUA)，见说明https://en.wikipedia.org/wiki/Private\_Use\_Areas.此符号会导致 PDF/A 兼容错误，例如“文本映射到 Unicode 私人使用区域，但不存在 ActualText 条目”。此枚举声明了可用于处理 PUA 符号的策略。
 ## 领域
 
 | 场地 | 描述 |

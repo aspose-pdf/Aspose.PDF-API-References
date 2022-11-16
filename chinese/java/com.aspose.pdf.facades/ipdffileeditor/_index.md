@@ -116,16 +116,16 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.addMargins(src, dest,
- // process pages 1, 2, 3
+ //处理第 1、2、3 页
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 10 units
+ 	//左边距为 10 个单位
  	10,
- 	// right margin is 5 units
+ 	//右边距为 5 个单位
  	5,
- 	// top margin is 5 units
+ 	//顶部边距为 5 个单位
  	5,
- 	// bottom margin is 5 units
+ 	//底部边距为 5 个单位
  	5);
  dest.Close();
 ```
@@ -157,16 +157,16 @@ public abstract boolean addMargins(String source, String destination, int[] page
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMargins("input.pdf", "output.pdf",
- // process pages 1, 2, 3
+ //处理第 1、2、3 页
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 10 units
+ 	//左边距为 10 个单位
  	10,
- 	// right margin is 5 units
+ 	//右边距为 5 个单位
  	5,
- 	// top margin is 5 units
+ 	//顶部边距为 5 个单位
  	5,
- 	// bottom margin is 5 units
+ 	//底部边距为 5 个单位
  	5);
 ```
 
@@ -199,16 +199,16 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.addMarginsPct(src, dest,
- // process pages 1, 2, 3
+ //处理第 1、2、3 页
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 15% of page width
+ 	//左边距是页面宽度的 15%
  	15,
- 	// right margin is 10% of page width
+ 	//右边距是页面宽度的 10%
  	10,
- 	// top margin is 20% of page width
+ 	//上边距是页面宽度的 20%
  	20,
- 	// bottom margin is 5% of page width
+ 	//底部边距是页面宽度的 5%
  	5);
  dest.close();
 ```
@@ -240,16 +240,16 @@ public abstract boolean addMarginsPct(String source, String destination, int[] p
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMarginsPct("input.pdf", "output.pdf",
- // process pages 1, 2, 3
+ //处理第 1、2、3 页
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 15% of page width
+ 	//左边距是页面宽度的 15%
  	15,
- 	// right margin is 10% of page width
+ 	//右边距是页面宽度的 10%
  	10,
- 	// top margin is 20% of page width
+ 	//上边距是页面宽度的 20%
  	20,
- 	// bottom margin is 5% of page width
+ 	//底部边距是页面宽度的 5%
  	5);
 ```
 
@@ -1473,13 +1473,13 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.resizeContents(src, dest,
- // resize all pages of document
+ //调整文档所有页面的大小
  	null,
- 	// new contents width = 200
+ 	//新内容宽度 = 200
  	200,
- 	// new contents height = 300
+ 	//新内容高度 = 300
  	300);
- // rest area of page will be empty
+ //页面的其余区域将为空
 ```
 
 **参数：**
@@ -1507,13 +1507,13 @@ public abstract boolean resizeContents(String source, String destination, int[] 
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizeContents("input.pdf", "output.pdf",
- // resize all pages of document
+ //调整文档所有页面的大小
  	null,
- 	// new contents width = 200
+ 	//新内容宽度 = 200
  	200,
- 	// new contents height = 300
+ 	//新内容高度 = 300
  	300);
- // rest area of page will be empty
+ //页面的其余区域将为空
 ```
 
 **参数：**
@@ -1543,15 +1543,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.resizePct(src, dest,
- // resize all pages of document
+ //调整文档所有页面的大小
  	null,
- 	// new contents width = 60% of initial size
+ 	//新内容宽度 = 初始大小的 60%
  	60,
- 	// new contents height = 60% of initial size
+ 	//新内容高度 = 初始大小的 60%
  	60);
- // Rest area of page will be empty (page margins). Size of left and right
- // margins is (100% - 60%) / 2 = 20%
- // The same for top and bottom margins.
+ //页面的其余区域将为空（页边距）。左右尺寸
+ //利润率是 (100% - 60%) / 2 = 20%
+ //顶部和底部边距相同。
 ```
 
 **参数：**
@@ -1579,15 +1579,15 @@ public abstract boolean resizeContentsPct(String source, String destination, int
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizeContentsPct("input.pdf", "output.pdf",
- // resize all pages of document
+ //调整文档所有页面的大小
  	null,
- 	// new contents width = 60% of initial size
+ 	//新内容宽度 = 初始大小的 60%
  	60,
- 	// new contents height = 60% of initial size
+ 	//新内容高度 = 初始大小的 60%
  	60);
- // Rest area of page will be empty (page margins). Size of left and right
- // margins is (100% - 60%) / 2 = 20%
- // The same for top and bottom margins.
+ //页面的其余区域将为空（页边距）。左右尺寸
+ //利润率是 (100% - 60%) / 2 = 20%
+ //顶部和底部边距相同。
 ```
 
 **参数：**

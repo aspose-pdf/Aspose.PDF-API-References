@@ -144,7 +144,7 @@ public static StructureTypeCategory to_StructureTypeCategory(String name)
 | name | java.lang.String | 名字。 |
 
 **退货：**
-[StructureTypeCategory](../../com.aspose.pdf.tagged.logicalstructure/structuretypecategory) 转换的结果。
+[StructureTypeCategory](../../com.aspose.pdf.tagged.logicalstructure/structuretypecategory) - 转换的结果。
 ### wait() {#wait--}
 ```
 public final void wait()

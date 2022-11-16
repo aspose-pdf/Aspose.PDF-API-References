@@ -1004,7 +1004,7 @@ public void close()
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- //do some work... 
+ //做一些工作...
  stamp.close();
 ```
 

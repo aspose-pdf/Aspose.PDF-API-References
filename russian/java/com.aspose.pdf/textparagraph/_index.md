@@ -22,21 +22,21 @@ The example demonstrates how to create text paragraph object and append it to th
 
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text paragraph
+ // создать текстовый абзац
  TextParagraph paragraph = new TextParagraph();
 
- // set the paragraph rectangle
+ // установить прямоугольник абзаца
  paragraph.setRectangle ( new Rectangle(100, 600, 200, 700));
- // set word wrapping options
+ // установить параметры переноса слов
  paragraph.getFormattingOptions().setWrapMode ( TextFormattingOptions.WordWrapMode.ByWords);
- // append string lines
+ // добавить строковые строки
  paragraph.appendLine("the quick brown fox jumps over the lazy dog");
  paragraph.appendLine("line2");
  paragraph.appendLine("line3");
- // append the paragraph to the Pdf page with the TextBuilder
+ //добавить абзац на страницу Pdf с помощью TextBuilder
  TextBuilder textBuilder = new TextBuilder(page);
  textBuilder.appendParagraph(paragraph);
- // save Pdf document
+ // сохранить PDF-документ
  doc.save(outFile);
 ```
 ## Конструкторы

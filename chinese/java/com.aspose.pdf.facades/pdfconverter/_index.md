@@ -372,7 +372,7 @@ public void getNextImage(OutputStream outputStream, ImageType format, double ima
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
 | imageWidth | double | 图片的宽度，单位是像素。 |
 | imageHeight | double | 图像高度，单位为像素。 |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getNextImage(OutputStream outputStream, ImageType format, int quality) {#getNextImage-java.io.OutputStream-com.aspose.pdf.ImageType-int-}
 ```
@@ -388,7 +388,7 @@ public void getNextImage(OutputStream outputStream, ImageType format, int qualit
 | --- | --- | --- |
 | outputStream | java.io.OutputStream | 保存图像的流。 |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getNextImage(OutputStream outputStream, ImageType format, int imageWidth, int imageHeight) {#getNextImage-java.io.OutputStream-com.aspose.pdf.ImageType-int-int-}
 ```
@@ -423,7 +423,7 @@ public void getNextImage(OutputStream outputStream, ImageType format, int imageW
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
 | imageWidth | int | 图片的宽度，单位是像素。 |
 | imageHeight | int | 图像高度，单位为像素。 |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getNextImage(OutputStream outputStream, PageSize pageSize) {#getNextImage-java.io.OutputStream-com.aspose.pdf.PageSize-}
 ```
@@ -471,7 +471,7 @@ public void getNextImage(OutputStream outputStream, PageSize pageSize, ImageType
 | outputStream | java.io.OutputStream | 保存图像的流。 |
 | pageSize | [PageSize](../../com.aspose.pdf/pagesize) | 图像的页面大小。 |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getNextImage(String outputFile) {#getNextImage-java.lang.String-}
 ```
@@ -552,7 +552,7 @@ PdfConverter converter = new PdfConverter();
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
 | imageWidth | double | 图片的宽度，单位是像素。 |
 | imageHeight | double | 图片的高度，单位是像素.. |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getNextImage(String outputFile, ImageType format, int quality) {#getNextImage-java.lang.String-com.aspose.pdf.ImageType-int-}
 ```
@@ -568,7 +568,7 @@ public void getNextImage(String outputFile, ImageType format, int quality)
 | --- | --- | --- |
 | outputFile | java.lang.String | 保存图像的文件路径和名称。 |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getNextImage(String outputFile, ImageType format, int imageWidth, int imageHeight) {#getNextImage-java.lang.String-com.aspose.pdf.ImageType-int-int-}
 ```
@@ -635,7 +635,7 @@ PdfConverter converter = new PdfConverter();
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
 | imageWidth | int | 图片的宽度，单位是像素。 |
 | imageHeight | int | 图像高度，单位为像素。 |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getNextImage(String outputFile, PageSize pageSize) {#getNextImage-java.lang.String-com.aspose.pdf.PageSize-}
 ```
@@ -683,7 +683,7 @@ public void getNextImage(String outputFile, PageSize pageSize, ImageType format,
 | outputFile | java.lang.String | 保存图像的文件路径和名称。 |
 | pageSize | [PageSize](../../com.aspose.pdf/pagesize) | 图像的页面大小。 |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | 图片的格式。 |
-| quality | int | Jpeg 文件的质量 (0~100)，0 最低，100 最高 |
+| quality | int | Jpeg 文件的质量 (0~100），0 最低，100 最高 |
 
 ### getPageCount() {#getPageCount--}
 ```

@@ -188,7 +188,7 @@ public final TextFragment getBreakText()
 获取表格的中断文本
 
 **退货：**
-[TextFragment](../../com.aspose.pdf/textfragment) TextFragment 对象
+[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment 对象
 ### getBroken() {#getBroken--}
 ```
 public final int getBroken()

@@ -25,21 +25,21 @@ TextState
 ``` object.
 
 
-  // Open document
+  // Открыть документ
   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  // Создайте объект TextFragmentAbsorber, чтобы найти все вхождения текста «hello world».
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-  // Accept the absorber for first page
+  // Принять поглотитель для первой страницы
   doc.getPages().get(1).accept(absorber);
 
-  // Change foreground color of the first text segment of the first text occurrence
+  // Изменить цвет переднего плана первого текстового сегмента первого вхождения текста
   absorber.getTextFragments().get(1).getSegments().get(1).getTextState().setForegroundColor ( java.awt.Color.RED);
-  // Change font size of the first text segment of the first text occurrence
+  // Изменить размер шрифта первого текстового сегмента первого вхождения текста
   absorber.getTextFragments().get(1).getSegments().get_Item(1).getTextState().setFontSize ( 15);
 
-  // Save document
+  // Сохранить документ
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -125,23 +125,23 @@ The example demonstrates how to create text fragment object, add a text segment 
 
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text fragment
+ // создать фрагмент текста
  TextFragment tf = new TextFragment("main text");
  tf.setPosition ( new Position(100, 600));
- // set it's text properties
+ // установить свойства текста
  tf.getTextState().setFontSize ( 5);
  tf.getTextState().setFont ( FontRepository.FindFont("TimesNewRoman"));
  tf.getTextState().setBackgroundColor ( Color.GRAY);
  tf.getTextState().setForegroundColor ( Color.RED);
- // add one more segment to text fragment's Segments collection
+ // добавить еще один сегмент в коллекцию сегментов текстового фрагмента
  TextSegment segment2 = new TextSegment();
  segment2.setText ( "another segment");
  tf.getSegments().add(segment2);
- // create TextBuilder object
+ // создать объект TextBuilder
  TextBuilder builder = new TextBuilder(page);
- // append the text fragment to the Pdf page
+ // добавить фрагмент текста на страницу Pdf
  builder.appendText(tf);
- //save document
+ //сохранить документ
  doc.save(outFile);
 ```
 
@@ -159,22 +159,22 @@ The example demonstrates how to create text fragment object, add a text segment 
 
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text fragment
+ // создать фрагмент текста
  TextFragment tf = new TextFragment("main text");
  tf.setPosition ( new Position(100, 600));
- // set it's text properties
+ // установить свойства текста
  tf.getTextState().setFontSize ( 5);
  tf.getTextState().setFont ( FontRepository.FindFont("TimesNewRoman"));
  tf.getTextState().setBackgroundColor ( Color.GRAY);
  tf.getTextState().setForegroundColor ( Color.RED);
- // add one more segment to text fragment's Segments collection
+ // добавить еще один сегмент в коллекцию сегментов текстового фрагмента
  TextSegment segment2 = new TextSegment("another segment");
  tf.getSegments().add(segment2);
- // create TextBuilder object
+ // создать объект TextBuilder
  TextBuilder builder = new TextBuilder(page);
- // append the text fragment to the Pdf page
+ // добавить фрагмент текста на страницу Pdf
  builder.appendText(tf);
- //save document
+ //сохранить документ
  doc.save(outFile);
 ```
 

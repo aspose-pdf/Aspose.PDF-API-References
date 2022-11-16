@@ -534,7 +534,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.Green);
  fe.getFacade().setAlignment(FormFieldFacade.AlignRight);
- // decorate all fields.
+ //装饰所有领域。
  fe.decorateField();
 ```
 
@@ -555,7 +555,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor(Color.blue);
  fe.getFacade().setBorderColor(Color.green);
  fe.getFacade().setAlignment(FormFieldFacade.AlignRight);
- // decorate all text fields.
+ //装饰所有文本字段。
  fe.decorateField(FieldType.Text);
 ```
 

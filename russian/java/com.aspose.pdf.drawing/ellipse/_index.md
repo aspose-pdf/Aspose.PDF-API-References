@@ -144,7 +144,7 @@ public TextFragment getText()
 Получает или задает текст для формы
 
 **Возвращает:**
-[TextFragment](../../com.aspose.pdf/textfragment) Объект TextFragment
+[TextFragment](../../com.aspose.pdf/textfragment) - Объект TextFragment
 ### getWidth() {#getWidth--}
 ```
 public double getWidth()

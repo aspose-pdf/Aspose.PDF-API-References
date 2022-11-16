@@ -1038,7 +1038,7 @@ public DestinationCollection getDestinations()
 过时的。请使用 NamedDestinations。
 
 **退货：**
-[DestinationCollection](../../com.aspose.pdf/destinationcollection) - DestinationCollection 对象
+[DestinationCollection](../../com.aspose.pdf/destinationcollection) DestinationCollection 对象
 ### getDirection() {#getDirection--}
 ```
 public int getDirection()
@@ -1360,45 +1360,45 @@ public final ITaggedContent getTaggedContent()
 该示例演示了如何使用标记内容创建带有标题、段落和图像的新文档。
 
 ```
-// Create new document
+//创建新文档
      Document document = new Document();
 
-     // Get the tagged content
+     //获取标记的内容
      ITaggedContent taggedContent = document.getTaggedContent();
 
-     // Set language for document
+     //设置文档语言
      taggedContent.setLanguage("en-US");
 
-     // Set title for PDF document
+     //设置PDF文档的标题
      taggedContent.setTitle("Example document");
 
-     // Creating and adding Section
+     //创建和添加部分
      SectElement sect = taggedContent.createSectElement();
      taggedContent.getRootElement().appendChild(sect);
 
-     // Create Header
+     //创建标题
      HeaderElement h1 = taggedContent.createHeaderElement(1);
      h1.setText("The Header");
      sect.appendChild(h1);
 
-     // Create paragraph
+     //创建段落
      ParagraphElement p = taggedContent.createParagraphElement();
      p.setTag("Paragraph");
      p.setText("The text of paragraph.");
      sect.appendChild(p);
-     // Create illustration
+     //创建插图
      IllustrationElement figure1 = taggedContent.createFigureElement();
      sect.appendChild(figure1);
      figure1.setAlternativeText("Figure 1");
      figure1.setTitle("Image 1");
      figure1.setTag("Fig");
      figure1.setImage("path/of/image.jpg");
-     // Save document
+     //保存文件
      document.save("example.pdf");
 ```
 
 **退货：**
-[ITaggedContent](../../com.aspose.pdf.tagged/itaggedcontent) - ITaggedContent 实例
+[ITaggedContent](../../com.aspose.pdf.tagged/itaggedcontent) ITaggedContent 实例
 ### getVersion() {#getVersion--}
 ```
 public String getVersion()

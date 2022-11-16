@@ -19,8 +19,8 @@ public final class SanitizationException extends System.Exception
 | --- | --- |
 | [SanitizationException()](#SanitizationException--) |  Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception) учебный класс. |
 | [SanitizationException(String message)](#SanitizationException-java.lang.String-) |  Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception) учебный класс. |
-| [SanitizationException(String message, RuntimeException innerException)](#SanitizationException-java.lang.String-java.lang.RuntimeException-) |  Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
-| [SanitizationException(RuntimeException innerException)](#SanitizationException-java.lang.RuntimeException-) |  Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [SanitizationException(String message, RuntimeException innerException)](#SanitizationException-java.lang.String-java.lang.RuntimeException-) |  Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception)класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [SanitizationException(RuntimeException innerException)](#SanitizationException-java.lang.RuntimeException-) |  Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception)класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
 ## Методы
 
 | Метод | Описание |
@@ -76,7 +76,7 @@ public SanitizationException(String message, RuntimeException innerException)
 ```
 
 
- Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+ Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception)класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 **Параметры:**
 
@@ -91,7 +91,7 @@ public SanitizationException(RuntimeException innerException)
 ```
 
 
- Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception) класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+ Инициализирует новый экземпляр[SanitizationException](../../com.aspose.pdf.exceptions/sanitizationexception)класс с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
 
 **Параметры:**
 

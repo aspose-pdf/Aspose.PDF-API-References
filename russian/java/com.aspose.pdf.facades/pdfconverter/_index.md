@@ -372,7 +372,7 @@ public void getNextImage(OutputStream outputStream, ImageType format, double ima
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
 | imageWidth | double | Ширина изображения, единица измерения — пиксель. |
 | imageHeight | double | Высота изображения, единица измерения — пиксель. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getNextImage(OutputStream outputStream, ImageType format, int quality) {#getNextImage-java.io.OutputStream-com.aspose.pdf.ImageType-int-}
 ```
@@ -388,7 +388,7 @@ public void getNextImage(OutputStream outputStream, ImageType format, int qualit
 | --- | --- | --- |
 | outputStream | java.io.OutputStream | Поток для сохранения изображения. |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getNextImage(OutputStream outputStream, ImageType format, int imageWidth, int imageHeight) {#getNextImage-java.io.OutputStream-com.aspose.pdf.ImageType-int-int-}
 ```
@@ -423,7 +423,7 @@ public void getNextImage(OutputStream outputStream, ImageType format, int imageW
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
 | imageWidth | int | Ширина изображения, единица измерения — пиксель. |
 | imageHeight | int | Высота изображения, единица измерения — пиксель. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getNextImage(OutputStream outputStream, PageSize pageSize) {#getNextImage-java.io.OutputStream-com.aspose.pdf.PageSize-}
 ```
@@ -471,7 +471,7 @@ public void getNextImage(OutputStream outputStream, PageSize pageSize, ImageType
 | outputStream | java.io.OutputStream | Поток для сохранения изображения. |
 | pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы изображения. |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getNextImage(String outputFile) {#getNextImage-java.lang.String-}
 ```
@@ -552,7 +552,7 @@ PdfConverter converter = new PdfConverter();
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
 | imageWidth | double | Ширина изображения, единица измерения — пиксели. |
 | imageHeight | double | Высота изображения, единица измерения — пиксели. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getNextImage(String outputFile, ImageType format, int quality) {#getNextImage-java.lang.String-com.aspose.pdf.ImageType-int-}
 ```
@@ -568,7 +568,7 @@ public void getNextImage(String outputFile, ImageType format, int quality)
 | --- | --- | --- |
 | outputFile | java.lang.String | Путь и имя файла для сохранения изображения. |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getNextImage(String outputFile, ImageType format, int imageWidth, int imageHeight) {#getNextImage-java.lang.String-com.aspose.pdf.ImageType-int-int-}
 ```
@@ -635,7 +635,7 @@ PdfConverter converter = new PdfConverter();
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
 | imageWidth | int | Ширина изображения, единица измерения — пиксель. |
 | imageHeight | int | Высота изображения, единица измерения — пиксель. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getNextImage(String outputFile, PageSize pageSize) {#getNextImage-java.lang.String-com.aspose.pdf.PageSize-}
 ```
@@ -683,7 +683,7 @@ public void getNextImage(String outputFile, PageSize pageSize, ImageType format,
 | outputFile | java.lang.String | Путь и имя файла для сохранения изображения. |
 | pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Размер страницы изображения. |
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Формат изображения. |
-| quality | int | Качество файла Jpeg (0~100), 0 — самое низкое, 100 — самое высокое |
+| quality | int | Качество файла Jpeg (0~100), 0 — самый низкий уровень, а 100 — самый высокий. |
 
 ### getPageCount() {#getPageCount--}
 ```

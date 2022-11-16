@@ -20,7 +20,7 @@ public final class DocMDPAccessPermissions extends System.Enum
 | [AnnotationModification](#AnnotationModification) | 3 - 允许的更改与 2 相同，以及注释创建、删除和修改；其他更改会使签名无效。 |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
 | [FillingInForms](#FillingInForms) | 2 - 允许的更改包括填写表格、实例化页面模板和签名；其他更改会使签名无效。 |
-| [NoChanges](#NoChanges) | - 不允许对文档进行任何更改；对文档的任何更改都会使签名无效。 |
+| [NoChanges](#NoChanges) | 1 - 不允许对文档进行任何更改；对文档的任何更改都会使签名无效。 |
 ## 方法
 
 | Method | Description |
@@ -86,7 +86,7 @@ public static final int NoChanges
 ```
 
 
-- 不允许对文档进行任何更改；对文档的任何更改都会使签名无效。
+1 - 不允许对文档进行任何更改；对文档的任何更改都会使签名无效。
 
 ### Clone() {#Clone--}
 ```

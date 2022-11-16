@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.pdf.XmpPdfAExtensionObject](../../com.aspose.pdf/x
 public class XmpPdfAExtensionField extends XmpPdfAExtensionObject
 ```
 
-Эта схема описывает поле структурированного типа. Она очень похожа на схему типа значения свойства PDF/A, но определяет поле в структуре вместо свойства. URI пространства имен схемы: http://www.aiim.org/pdfa/ns/field\# Обязательный префикс пространства имен схемы: pdfaField.
+ Эта схема описывает поле структурированного типа. Она очень похожа на схему типа значения свойства PDF/A, но определяет поле в структуре вместо свойства. URI пространства имен схемы:http://www.aiim.org/pdfa/ns/field\# Требуемый префикс пространства имен схемы: pdfaField.
 ## Конструкторы
 
 | Конструктор | Описание |

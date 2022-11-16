@@ -22,27 +22,27 @@ public final class CharInfoCollection implements Iterable<CharInfo>
 ```
 The example demonstrates how to iterate thought all the characters and retrieve the character
 
- 	      //open document
+ 	      //打开文件
  	      Document pdfDocument = new Document(inFile);
- 	      //create TextFragmentAbsorber object to collect all the text objects of the page
+ 	      //创建 TextFragmentAbsorber 对象来收集页面的所有文本对象
  	      TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
- 	      //accept the absorber for all the pages
+ 	      //接受所有页面的吸收器
  	      pdfDocument.getPages().get_Item(1).accept(textFragmentAbsorber);
- 	      //get the extracted text fragments
+ 	      //获取提取的文本片段
  	      TextFragmentCollection textFragmentCollection = textFragmentAbsorber.getTextFragments();
 
 
- 	      //loop through the fragments
+ 	      //遍历片段
  	      for (TextFragment textFragment : (```
 Iterable
 ```)textFragmentCollection)
           {
- 	          //loop through the segments
+ 	          //遍历片段
  	          for (TextSegment textSegment : (```
 Iterable
 ```) textFragment.getSegments())
               {
- 	              //loop through the characters
+ 	              //遍历字符
                   ```
 for (int i = 1; i <= textSegment.getText().length(); i++)
 ```

@@ -116,16 +116,16 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.addMargins(src, dest,
- // process pages 1, 2, 3
+ // обрабатывать страницы 1, 2, 3
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 10 units
+ 	// левое поле 10 единиц
  	10,
- 	// right margin is 5 units
+ 	// правое поле 5 единиц
  	5,
- 	// top margin is 5 units
+ 	// верхнее поле 5 единиц
  	5,
- 	// bottom margin is 5 units
+ 	// нижнее поле 5 единиц
  	5);
  dest.Close();
 ```
@@ -157,16 +157,16 @@ public abstract boolean addMargins(String source, String destination, int[] page
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMargins("input.pdf", "output.pdf",
- // process pages 1, 2, 3
+ // обрабатывать страницы 1, 2, 3
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 10 units
+ 	// левое поле 10 единиц
  	10,
- 	// right margin is 5 units
+ 	// правое поле 5 единиц
  	5,
- 	// top margin is 5 units
+ 	// верхнее поле 5 единиц
  	5,
- 	// bottom margin is 5 units
+ 	// нижнее поле 5 единиц
  	5);
 ```
 
@@ -199,16 +199,16 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.addMarginsPct(src, dest,
- // process pages 1, 2, 3
+ // обрабатывать страницы 1, 2, 3
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 15% of page width
+ 	// левое поле составляет 15% от ширины страницы
  	15,
- 	// right margin is 10% of page width
+ 	// правое поле составляет 10% от ширины страницы
  	10,
- 	// top margin is 20% of page width
+ 	//верхнее поле составляет 20% от ширины страницы
  	20,
- 	// bottom margin is 5% of page width
+ 	// нижнее поле составляет 5% от ширины страницы
  	5);
  dest.close();
 ```
@@ -240,16 +240,16 @@ public abstract boolean addMarginsPct(String source, String destination, int[] p
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMarginsPct("input.pdf", "output.pdf",
- // process pages 1, 2, 3
+ // обрабатывать страницы 1, 2, 3
  	new int[]
  	{ 1, 2, 3 },
- 	// left margin is 15% of page width
+ 	// левое поле составляет 15% от ширины страницы
  	15,
- 	// right margin is 10% of page width
+ 	// правое поле составляет 10% от ширины страницы
  	10,
- 	// top margin is 20% of page width
+ 	//верхнее поле составляет 20% от ширины страницы
  	20,
- 	// bottom margin is 5% of page width
+ 	// нижнее поле составляет 5% от ширины страницы
  	5);
 ```
 
@@ -1473,13 +1473,13 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.resizeContents(src, dest,
- // resize all pages of document
+ // изменить размер всех страниц документа
  	null,
- 	// new contents width = 200
+ 	// ширина нового содержимого = 200
  	200,
- 	// new contents height = 300
+ 	// высота нового содержимого = 300
  	300);
- // rest area of page will be empty
+ // остальная часть страницы будет пустой
 ```
 
 **Параметры:**
@@ -1507,13 +1507,13 @@ public abstract boolean resizeContents(String source, String destination, int[] 
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizeContents("input.pdf", "output.pdf",
- // resize all pages of document
+ // изменить размер всех страниц документа
  	null,
- 	// new contents width = 200
+ 	// ширина нового содержимого = 200
  	200,
- 	// new contents height = 300
+ 	// высота нового содержимого = 300
  	300);
- // rest area of page will be empty
+ // остальная часть страницы будет пустой
 ```
 
 **Параметры:**
@@ -1543,15 +1543,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.resizePct(src, dest,
- // resize all pages of document
+ // изменить размер всех страниц документа
  	null,
- 	// new contents width = 60% of initial size
+ 	// ширина нового содержимого = 60% от исходного размера
  	60,
- 	// new contents height = 60% of initial size
+ 	//высота нового содержимого = 60% от исходного размера
  	60);
- // Rest area of page will be empty (page margins). Size of left and right
- // margins is (100% - 60%) / 2 = 20%
- // The same for top and bottom margins.
+ // Остальная часть страницы будет пустой (поля страницы). Размер слева и справа
+ // поля (100% - 60%) / 2 = 20%
+ // То же самое для верхнего и нижнего полей.
 ```
 
 **Параметры:**
@@ -1579,15 +1579,15 @@ public abstract boolean resizeContentsPct(String source, String destination, int
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizeContentsPct("input.pdf", "output.pdf",
- // resize all pages of document
+ // изменить размер всех страниц документа
  	null,
- 	// new contents width = 60% of initial size
+ 	// ширина нового содержимого = 60% от исходного размера
  	60,
- 	// new contents height = 60% of initial size
+ 	//высота нового содержимого = 60% от исходного размера
  	60);
- // Rest area of page will be empty (page margins). Size of left and right
- // margins is (100% - 60%) / 2 = 20%
- // The same for top and bottom margins.
+ // Остальная часть страницы будет пустой (поля страницы). Размер слева и справа
+ // поля (100% - 60%) / 2 = 20%
+ // То же самое для верхнего и нижнего полей.
 ```
 
 **Параметры:**

@@ -1045,7 +1045,7 @@ public DocumentActionCollection getActions()
 --------------------
 
 ```
-This example demonstrates how to obtain after open action of the document:
+//Этот пример демонстрирует, как получить после открытия действие документа:
 
  Document document = new Document("PdfWithOpenAction.pdf");
  DocumentActionCollection actions = document.getActions();
@@ -1344,7 +1344,7 @@ public IAppointment getOpenAction()
 --------------------
 
 ```
-Example demonstrates how to get CenterWindow flag:
+//Пример демонстрирует, как получить флаг CenterWindow:
 
  Document document = new Document("sample.pdf");
  IAppointment value = document.getOpenAction();
@@ -1426,8 +1426,8 @@ public PageCollection getPages()
 --------------------
 
 ```
-Example below demonstrates how to operate with the document pages:
- How to obtain number of pages and how to obtain rectangle of starting page of the document.
+// Пример ниже демонстрирует, как работать со страницами документа:
+// Как получить количество страниц и как получить прямоугольник начальной страницы документа.
 
  Document document = new Document("sample.pdf");
  PageCollection  pages = document.getPages();
@@ -1466,40 +1466,40 @@ public final ITaggedContent getTaggedContent()
 В примере показано, как использовать содержимое с тегами для создания нового документа с заголовком, абзацами и изображениями.
 
 ```
-// Create new document
+	// Создать новый документ
      Document document = new Document();
 
-     // Get the tagged content
+     // Получить помеченный контент
      ITaggedContent taggedContent = document.getTaggedContent();
 
-     // Set language for document
+     //Установить язык для документа
      taggedContent.setLanguage("en-US");
 
-     // Set title for PDF document
+     // Установить заголовок для PDF-документа
      taggedContent.setTitle("Example document");
 
-     // Creating and adding Section
+     // Создание и добавление раздела
      SectElement sect = taggedContent.createSectElement();
      taggedContent.getRootElement().appendChild(sect);
 
-     // Create Header
+     // Создать заголовок
      HeaderElement h1 = taggedContent.createHeaderElement(1);
      h1.setText("The Header");
      sect.appendChild(h1);
 
-     // Create paragraph
+     // Создать абзац
      ParagraphElement p = taggedContent.createParagraphElement();
      p.setTag("Paragraph");
      p.setText("The text of paragraph.");
      sect.appendChild(p);
-     // Create illustration
+     // Создать иллюстрацию
      IllustrationElement figure1 = taggedContent.createFigureElement();
      sect.appendChild(figure1);
      figure1.setAlternativeText("Figure 1");
      figure1.setTitle("Image 1");
      figure1.setTag("Fig");
      figure1.setImage("path/of/image.jpg");
-     // Save document
+     // Сохранить документ
      document.save("example.pdf");
 ```
 
@@ -1591,7 +1591,7 @@ boolean - логическое значение
 --------------------
 
 ```
-Example demonstrates how to get CenterWindow flag:
+//Пример демонстрирует, как получить флаг CenterWindow:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isCenterWindow();
@@ -1620,7 +1620,7 @@ boolean - логическое значение
 --------------------
 
 ```
-Example demonstrates how to get DisplayDocTitle flag:
+//Пример демонстрирует, как получить флаг DisplayDocTitle:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isDisplayDocTitle();
@@ -1688,7 +1688,7 @@ boolean - логическое значение
 --------------------
 
 ```
-Example demonstrates how to get HideMenubar flag:
+// Пример демонстрирует, как получить флаг HideMenubar:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideMenubar();
@@ -1707,7 +1707,7 @@ boolean - логическое значение
 --------------------
 
 ```
-Example demonstrates how to get HideToolBar flag:
+// Пример демонстрирует, как получить флаг HideToolBar:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideToolBar();
@@ -1726,7 +1726,7 @@ boolean - логическое значение
 --------------------
 
 ```
-Example demonstrates how to get HideWindowUI flag:
+// Пример демонстрирует, как получить флаг HideWindowUI:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideWindowUI();
@@ -1920,7 +1920,13 @@ public void save()
 
 --------------------
 
-Чтобы сохранить документ постепенно, мы должны открыть файл документа для записи. Поэтому Document нужно инициализировать не с помощью InputStream, а с путем к файлу, как в следующем фрагменте кода: Document doc = new Document("document.pdf"); // внести некоторые изменения и постепенно сохранить документ doc.save();
+Чтобы сохранить документ постепенно, мы должны открыть файл документа для записи. Поэтому Document нужно инициализировать не с помощью InputStream, а с путем к файлу, как в следующем фрагменте кода: 
+
+```
+Document doc = new Document("document.pdf"); 
+// внести некоторые изменения и постепенно сохранить документ
+doc.save();
+```
 
 В случае, когда документ был инициализирован с помощью InputStream, запись в InputStream невозможна, поэтому мы рекомендуем использовать отдельные методы «save» для сохранения документа или «saveIncrementally» для сохранения документа инкрементально.
 

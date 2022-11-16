@@ -20,13 +20,13 @@ public final class ImagePlacementAbsorber
 The example demonstrates how to find images on the first PDF document page and get the image placement properties.
 
 
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create ImagePlacementAbsorber object to perform image placement search
+ //创建 ImagePlacementAbsorber 对象以执行图像放置搜索
  ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
- // Accept the absorber for first page
+ //接受第一页的吸收器
  doc.getPages().get_Item(1).accept(abs);
- // Display image placement properties for all placements
+ //显示所有展示位置的图片展示位置属性
  for (ImagePlacement imagePlacement : ```
 (Iterable)
 ```abs.getImagePlacements())

@@ -21,21 +21,21 @@ The example demonstrates how to change text color and font size of the text with
 TextState
 ``` object.
  
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
   
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get(1).accept(absorber);
   
-  // Change foreground color of the first text occurrence
+  //更改第一个文本出现的前景色
   absorber.TgetextFragments().get(1).getTextState().setForegroundColor ( java.awt.Color.RED);
-  // Change font size of the first text occurrence
+  //更改第一个文本出现的字体大小
   absorber.getTextFragments().get(1).getTextState().setFontSize ( 15);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 

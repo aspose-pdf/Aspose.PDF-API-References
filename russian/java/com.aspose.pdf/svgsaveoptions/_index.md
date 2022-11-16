@@ -93,7 +93,7 @@ public SvgSaveOptions.EmbeddedImagesSavingStrategy getCustomStrategyOfEmbeddedIm
 Это поле может содержать стратегию сохранения, которую необходимо использовать (если она присутствует) во время преобразования для индивидуальной обработки созданных файлов внешних изображений (например, встроенных BMP или JPEG), встроенных в сохраненный SVG. Эта стратегия должна обрабатывать ресурсы и возвращать строку, представляющую желаемый URI сохраненного ресурса в сгенерированном SVG. Если обработка того или иного файла по каким-либо причинам должна производиться самим кодом конвертера, а не в пользовательском коде, установите в пользовательском коде флаг «CustomProcessingCancelled» переменной параметра «imageSavingInfo». этот ресурс должен быть сделан в самом конвертере, как если бы не было никакого внешнего пользовательского кода.
 
 **Возвращает:**
-[EmbeddedImagesSavingStrategy](../../com.aspose.pdf/embeddedimagessavingstrategy) Экземпляр EmbeddedImagesSavingStrategy
+[EmbeddedImagesSavingStrategy](../../com.aspose.pdf/embeddedimagessavingstrategy) - Экземпляр EmbeddedImagesSavingStrategy
 ### getProgressEventsRetranslator() {#getProgressEventsRetranslator--}
 ```
 public ConversionProgressEventsTranslator getProgressEventsRetranslator()

@@ -32,7 +32,7 @@ public class XmpField
 | [isEmpty()](#isEmpty--) | Получает значение, указывающее, является ли этот экземпляр пустым. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [op_Equality(XmpField field1, XmpField field2)](#op-Equality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | Реализует оператор ==. |
+| [op_Equality(XmpField field1, XmpField field2)](#op-Equality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) |  Реализует оператор==. |
 | [op_Inequality(XmpField field1, XmpField field2)](#op-Inequality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | Реализует оператор ! |
 | [setLocalName_Rename_Namesake(String value)](#setLocalName-Rename-Namesake-java.lang.String-) | Только для внутреннего использования |
 | [setNamespaceUri_Rename_Namesake(String value)](#setNamespaceUri-Rename-Namesake-java.lang.String-) | Только для внутреннего использования |
@@ -199,7 +199,7 @@ public static boolean op_Equality(XmpField field1, XmpField field2)
 ```
 
 
-Реализует оператор ==.
+ Реализует оператор==.
 
 **Параметры:**
 

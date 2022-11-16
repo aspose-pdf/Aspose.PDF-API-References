@@ -25,21 +25,21 @@ TextState
 ``` object.
 
 
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get(1).accept(absorber);
 
-  // Change foreground color of the first text segment of the first text occurrence
+  //更改第一个文本出现的第一个文本段的前景色
   absorber.getTextFragments().get(1).getSegments().get(1).getTextState().setForegroundColor ( java.awt.Color.RED);
-  // Change font size of the first text segment of the first text occurrence
+  //更改第一个文本出现的第一个文本段的字体大小
   absorber.getTextFragments().get(1).getSegments().get_Item(1).getTextState().setFontSize ( 15);
 
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -125,23 +125,23 @@ The example demonstrates how to create text fragment object, add a text segment 
 
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text fragment
+ //创建文本片段
  TextFragment tf = new TextFragment("main text");
  tf.setPosition ( new Position(100, 600));
- // set it's text properties
+ //设置它的文本属性
  tf.getTextState().setFontSize ( 5);
  tf.getTextState().setFont ( FontRepository.FindFont("TimesNewRoman"));
  tf.getTextState().setBackgroundColor ( Color.GRAY);
  tf.getTextState().setForegroundColor ( Color.RED);
- // add one more segment to text fragment's Segments collection
+ //在文本片段的 Segments 集合中再添加一个片段
  TextSegment segment2 = new TextSegment();
  segment2.setText ( "another segment");
  tf.getSegments().add(segment2);
- // create TextBuilder object
+ //创建 TextBuilder 对象
  TextBuilder builder = new TextBuilder(page);
- // append the text fragment to the Pdf page
+ //将文本片段附加到 Pdf 页面
  builder.appendText(tf);
- //save document
+ //保存文档
  doc.save(outFile);
 ```
 
@@ -159,22 +159,22 @@ The example demonstrates how to create text fragment object, add a text segment 
 
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text fragment
+ //创建文本片段
  TextFragment tf = new TextFragment("main text");
  tf.setPosition ( new Position(100, 600));
- // set it's text properties
+ //设置它的文本属性
  tf.getTextState().setFontSize ( 5);
  tf.getTextState().setFont ( FontRepository.FindFont("TimesNewRoman"));
  tf.getTextState().setBackgroundColor ( Color.GRAY);
  tf.getTextState().setForegroundColor ( Color.RED);
- // add one more segment to text fragment's Segments collection
+ //在文本片段的 Segments 集合中再添加一个片段
  TextSegment segment2 = new TextSegment("another segment");
  tf.getSegments().add(segment2);
- // create TextBuilder object
+ //创建 TextBuilder 对象
  TextBuilder builder = new TextBuilder(page);
- // append the text fragment to the Pdf page
+ //将文本片段附加到 Pdf 页面
  builder.appendText(tf);
- //save document
+ //保存文档
  doc.save(outFile);
 ```
 

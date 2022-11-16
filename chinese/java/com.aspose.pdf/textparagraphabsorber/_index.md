@@ -112,15 +112,15 @@ public TextExtractionOptions getExtractionOptions()
 ```
 The example demonstrates how to set Pure text formatting mode and perform text extraction.
  
- // open document
+ //打开文件
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text with formatting
+ //创建 TextAbsorber 对象以提取带格式的文本
  TextAbsorber absorber = new TextAbsorber();
- // set pure text formatting mode
+ //设置纯文本格式化模式
  absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
- // accept the absorber for all document's pages
+ //接受所有文档页面的吸收器
  doc.getPages().accept(absorber);
- // get the extracted text
+ //获取提取的文本
  String extractedText = absorber.getText();
 ```
 
@@ -129,7 +129,7 @@ The example demonstrates how to set Pure text formatting mode and perform text e
 允许在提取期间定义文本格式化模式 TextExtractionOptions。默认模式是 TextExtractionOptions.TextFormattingMode.Pure 
 
 **退货：**
-[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) TextExtractionOptions 值
+[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) - TextExtractionOptions 值
 ### getRectangles() {#getRectangles--}
 ```
 public Rectangle[] getRectangles()
@@ -156,13 +156,13 @@ java.lang.String - 字符串值
 ```
 The example demonstrates how to extract text from all pages of the PDF document.
  
- // open document
+ //打开文件
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text
+ //创建 TextAbsorber 对象以提取文本
  TextAbsorber absorber = new TextAbsorber();
- // accept the absorber for all document's pages
+ //接受所有文档页面的吸收器
  doc.getPages().accept(absorber);
- // get the extracted text
+ //获取提取的文本
  String extractedText = absorber.getText();
 ```
 ### getTextParagraphs() {#getTextParagraphs--}
@@ -236,15 +236,15 @@ public void setExtractionOptions(TextExtractionOptions value)
 ```
 The example demonstrates how to set Pure text formatting mode and perform text extraction.
  
- // open document
+ //打开文件
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text with formatting
+ //创建 TextAbsorber 对象以提取带格式的文本
  TextAbsorber absorber = new TextAbsorber();
- // set pure text formatting mode
+ //设置纯文本格式化模式
  absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
- // accept the absorber for all document's pages
+ //接受所有文档页面的吸收器
  doc.getPages().accept(absorber);
- // get the extracted text
+ //获取提取的文本
  String extractedText = absorber.getText();
 ```
 
@@ -325,13 +325,13 @@ public void visit(IDocument pdf)
 ```
 The example demonstrates how to extract text on PDF document.
  
- // open document
+ //打开文件
  Document doc = new Document(inFile);
- // create TextAbsorber object to extract text
+ //创建 TextAbsorber 对象以提取文本
  TextAbsorber absorber = new TextAbsorber();
- // accept the absorber for all document's pages
+ //接受所有文档页面的吸收器
  absorber.visit(doc);
- // get the extracted text
+ //获取提取的文本
  String extractedText = absorber.getText();
 ```
 
@@ -368,16 +368,16 @@ public void visit(XForm form)
 ```
 The example demonstrates how to extract text on the first PDF document page.
  
-  // open document
+  //打开文件
   Document doc = new Document(inFile);
   
-  // create TextAbsorber object to extract text
+  //创建 TextAbsorber 对象以提取文本
   TextAbsorber absorber = new TextAbsorber();
    
-  // accept the absorber for all document's pages
+  //接受所有文档页面的吸收器
   absorber.visit(doc.Pages().get(1).getResources().getForms().get("Xform1"));
      
-  // get the extracted text
+  //获取提取的文本
   String extractedText = absorber.getText();
 ```
 

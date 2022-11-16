@@ -127,7 +127,7 @@ public BorderInfo getBorder()
 Получает границу.
 
 **Возвращает:**
-[BorderInfo](../../com.aspose.pdf/borderinfo) Элемент BorderInfo
+[BorderInfo](../../com.aspose.pdf/borderinfo) - Элемент BorderInfo
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()

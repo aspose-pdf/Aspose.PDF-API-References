@@ -20,17 +20,17 @@ public final class DocumentPrivilege implements Comparable<Object>
 --------------------
 
 ```
-//Way1: Using predefined privilege directly.
+//方式一：直接使用预定义权限。
   DocumentPrivilege privilege = DocumentPrivilege.getPrint();
-  //Way2: Based on a predefined privilege and change some specifical permissions.
+  //Way2：基于预定义的权限，改变一些特定的权限。
   DocumentPrivilege privilege = DocumentPrivilege.getAllowAll();
   privilege.setAllowPrint(false);
   privilege.setAllowModifyContents(false);
-  //Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
+  //Way3：基于预定义的权限和更改一些特定的 Adobe Professional 权限组合。
   DocumentPrivilege privilege = DocumentPrivilege.getForbidAll();
   privilege.setChangeAllowLevel(1);
   privilege.setPrintAllowLevel(2);
-  //Way4: Mixes the way2 and way3
+  //方式4：混合方式2和方式3
   DocumentPrivilege privilege = DocumentPrivilege.getForbidAll();
   privilege.setChangeAllowLevel(1);
   privilege.setAllowPrint(true);

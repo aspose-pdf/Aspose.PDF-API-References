@@ -20,13 +20,13 @@ public final class ImagePlacement
 The example demonstrates how to find images on the first PDF document page and get images as bitmaps with visible dimensions.
  
   
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create ImagePlacementAbsorber object to perform image placement search
+ //创建 ImagePlacementAbsorber 对象以执行图像放置搜索
  ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
- // Accept the absorber for first page
+ //接受第一页的吸收器
  doc.getPages().get_Item(1).accept(abs);
- // Retrieve images with visible dimensions
+ //检索具有可见尺寸的图像
  for (ImagePlacement imagePlacement : ```
 (Iterable)
 ```abs.getImagePlacements())
@@ -34,10 +34,10 @@ The example demonstrates how to find images on the first PDF document page and g
      BufferedImage scaledImage;
      ByteArrayOutputStream imageStream = new ByteArrayOutputStream())
      
-         // Retrieve image from resources
+         //从资源中检索图像
          imagePlacement.getImage().save(imageStream, ImageFormatInternal.Png);
          BufferedImage resourceImage = (BufferedImage) ImageIO.read(imageStream);
-         // Create new bitmap with actual dimensions
+         //创建具有实际尺寸的新位图
          scaledImage = new BufferedImage(resourceImage, (int)imagePlacement.getRectangle().getWidth(), (int)imagePlacement.getRectangle().getHeight());
      
  }

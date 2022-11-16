@@ -24,11 +24,11 @@ The example demonstrates how to extract text on the first PDF document page.
 	       ByteArrayOutputStream ms = new ByteArrayOutputStream();
 	       try 
 	       {
-	           // create text device
+	           // создать текстовое устройство
 	           TextDevice device = new TextDevice();
-	           // convert the page and save text to the stream
+	           // преобразовать страницу и сохранить текст в поток
 	           device.process(doc.getPages().get_Item(1), ms);
-	           // use the extracted text	           
+	           // использовать извлеченный текст
 	           extractedText = Encoding.getUnicode().getString(ms.toByteArray());
 	           
 		    ms.close();
@@ -197,9 +197,9 @@ The example demonstrates how to represent extracted text in UTF-8 encoding.
  
 	       Document doc = new Document(inFile);
 	       String extractedText;
-	       // create text device
+	       // создать текстовое устройство
 	       TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
-	       // convert the page and save text to the stream
+	       // преобразовать страницу и сохранить текст в поток
 	       device.process(doc.getPages().get_Item(1), outFile);
 ```
 ### getEncodingInternal() {#getEncodingInternal--}
@@ -220,9 +220,9 @@ The example demonstrates how to represent extracted text in UTF-8 encoding.
  
 	       Document doc = new Document(inFile);
 	       String extractedText;
-	       // create text device
+	       // создать текстовое устройство
 	       TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
-	       // convert the page and save text to the stream
+	       // преобразовать страницу и сохранить текст в поток
 	       device.process(doc.getPages().get_Item(1), outFile);
 ```
 ### getExtractionOptions() {#getExtractionOptions--}
@@ -243,9 +243,9 @@ The example demonstrates how to extracted text in raw order.
  
 	       Document doc = new Document(inFile);
 	       String extractedText;
-	       // create text device
+	       // создать текстовое устройство
 	       TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
-	       // convert the page and save text to the stream
+	       // преобразовать страницу и сохранить текст в поток
 	       device.process(doc.getPages().get_Item(1), outFile);
 ```
 ### hashCode() {#hashCode--}
@@ -306,11 +306,11 @@ The example demonstrates how to extract text on the first PDF document page.
 	       String extractedText;
 	       ByteArrayOutputStream ms = new ByteArrayOutputStream();
 	       
-	           // create text device
+	           // создать текстовое устройство
 	           TextDevice device = new TextDevice();
-	           // convert the page and save text to the stream
+	           // преобразовать страницу и сохранить текст в поток
 	           device.process(doc.getPages().get_Item(1), ms);
-	           // use the extracted text
+	           //использовать извлеченный текст
 	           extractedText = Encoding.getUnicode().getString(ms.toByteArray());
 	           ms.close();
 ```
@@ -354,11 +354,11 @@ The example demonstrates how to extract text on the first PDF document page.
 	       String extractedText;
 	       ByteArrayOutputStream ms = new ByteArrayOutputStream();
 	       
-	           // create text device
+	           // создать текстовое устройство
 	           TextDevice device = new TextDevice();
-	           // convert the page and save text to the stream
+	           // преобразовать страницу и сохранить текст в поток
 	           device.process(doc.getPages().get_Item(1), ms);
-	           // use the extracted text
+	           //использовать извлеченный текст
 	           extractedText = Encoding.getUnicode().getString(ms.toByteArray());
 	           ms.close();
 ```
@@ -391,9 +391,9 @@ The example demonstrates how to represent extracted text in UTF-8 encoding.
  
 		       Document doc = new Document(inFile);
 		       String extractedText;
-		       // create text device
+		       // создать текстовое устройство
 		       TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
-		       // convert the page and save text to the stream
+		       // преобразовать страницу и сохранить текст в поток
 		       device.process(doc.getPages().get_Item(1), outFile);
 ``` |
 

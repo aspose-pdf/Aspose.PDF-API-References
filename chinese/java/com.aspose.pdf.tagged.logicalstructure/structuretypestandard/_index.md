@@ -630,7 +630,7 @@ public static StructureTypeStandard to_StructureTypeStandard(String tag)
 | tag | java.lang.String | 标记名称。 |
 
 **退货：**
-[StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) 转换的结果。
+[StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) - 转换的结果。
 ### wait() {#wait--}
 ```
 public final void wait()

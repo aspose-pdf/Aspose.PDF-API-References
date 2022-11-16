@@ -181,7 +181,7 @@ public abstract boolean fillField(String fieldName, boolean beChecked)
 Form form = new Form("PdfForm.pdf");
  form.fillField("checkboxField", true);
  
- // how to search field by its partial name:
+ // как искать поле по частичному имени:
  Form form = new Form("input.pdf", "output.pdf");
  for (String fieldName : form.getFieldNames())
  {
@@ -218,7 +218,7 @@ Form form = new Form("PdfForm.pdf");
  form.fillField("radiobuttonField", 2);
  
  
- // how to search field by its partial name:
+ // как искать поле по частичному имени:
  Form form = new Form("input.pdf", "output.pdf");
  for (String fieldName : form.getFieldNames())
  {
@@ -255,7 +255,7 @@ Form form = new Form("PdfForm.pdf");
  
  
  
- // how to search field by its partial name:
+ // как искать поле по частичному имени:
  Form form = new Form("input.pdf", "output.pdf");
  for (String fieldName : form.getFieldNames())
  {
@@ -782,7 +782,7 @@ public abstract int getSubmitFlags(String fieldName)
 Form form = new Form("PdfForm.pdf");
  System.out.println((form.getSubmitFlags("btnSubmit") | SubmitFormFlag.Xfdf != 0) ? " XFDF" : " ");
  // / System.out.println( ( form.getSubmitFlags("btnSubmit") | SubmitFormFlag.Fdf
- // != 0) ? " FDF" : " ");
+ // != 0) ? "ФДФ": "");
  System.out.println((form.getSubmitFlags("btnSubmit") | SubmitFormFlag.Pdf != 0) ? " PDF" : " ");
 ```
 

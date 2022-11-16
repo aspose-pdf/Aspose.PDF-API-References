@@ -23,10 +23,10 @@ public final class FontCollection implements Iterable<Font>
 The example demonstrates how to make all font declared on page as embedded.
 
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // ensure all fonts declared on page resources are embedded
- // note that if fonts are declared on form resources they are not accessible from page resources
+ // убедитесь, что все шрифты, объявленные на ресурсах страницы, встроены
+ //обратите внимание, что если шрифты объявлены в ресурсах формы, они недоступны из ресурсов страницы.
  for(com.aspsoe.pdf.Font font : doc.getPages().get_Item(1).getResources().getFonts())
  {
      if(!font.isEmbedded())

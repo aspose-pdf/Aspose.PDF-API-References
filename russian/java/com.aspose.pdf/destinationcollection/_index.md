@@ -136,7 +136,7 @@ public ExplicitDestination getExplicitDestination(String destinameName, boolean 
 | useCache | boolean | Определяет, используется ли кэшированная версия коллекции. |
 
 **Возвращает:**
-[ExplicitDestination](../../com.aspose.pdf/explicitdestination) Объект ExplicitDestination для пункта назначения найден; в противном случае ноль.
+[ExplicitDestination](../../com.aspose.pdf/explicitdestination) - Объект ExplicitDestination для пункта назначения найден; в противном случае ноль.
 ### getPageNumber(String destinameName, boolean useCache) {#getPageNumber-java.lang.String-boolean-}
 ```
 public int getPageNumber(String destinameName, boolean useCache)

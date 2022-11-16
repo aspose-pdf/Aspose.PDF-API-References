@@ -158,7 +158,7 @@ public PrintPaperSize getPaperSize()
 Получает размер бумаги для страницы.
 
 **Возвращает:**
-[PrintPaperSize](../../com.aspose.pdf.printing/printpapersize) - Объект PrintPaperSize
+[PrintPaperSize](../../com.aspose.pdf.printing/printpapersize) Объект PrintPaperSize
 ### getPaperSource() {#getPaperSource--}
 ```
 public PrintPaperSource getPaperSource()

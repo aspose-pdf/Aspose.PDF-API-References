@@ -442,7 +442,7 @@ public TextFragment getCaption()
 获取标题。
 
 **退货：**
-[TextFragment](../../com.aspose.pdf/textfragment) TextFragment 对象
+[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment 对象
 ### getCharacteristics() {#getCharacteristics--}
 ```
 public Characteristics getCharacteristics()

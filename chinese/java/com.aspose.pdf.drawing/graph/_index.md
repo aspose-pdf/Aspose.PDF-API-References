@@ -127,7 +127,7 @@ public BorderInfo getBorder()
 获取边框。
 
 **退货：**
-[BorderInfo](../../com.aspose.pdf/borderinfo) BorderInfo 元素
+[BorderInfo](../../com.aspose.pdf/borderinfo) - BorderInfo 元素
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()

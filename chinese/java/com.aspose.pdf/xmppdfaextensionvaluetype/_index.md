@@ -12,7 +12,7 @@ java.lang.Object, [com.aspose.pdf.XmpPdfAExtensionObject](../../com.aspose.pdf/x
 public final class XmpPdfAExtensionValueType extends XmpPdfAExtensionObject
 ```
 
-PDF/A ValueType 架构对于 XMP 2004 规范中未定义的所有属性值类型都是必需的，即对于以下列表之外的值类型： - 数组类型（这些是容器类型，可能包含一个或多个字段）： Alt、Bag、Seq - 基本值类型：Boolean、（开放式和封闭式）Choice、Date、Dimensions、Integer、Lang Alt、Locale、MIMEType、ProperName、Real、Text、Thumbnail、URI、URL、XPath - Media Management 值类型：AgentName、RenditionClass、ResourceEvent、ResourceRef、Version - Basic Job/Workflow 值类型：Job - EXIF 模式值类型：Flash、CFAPattern、DeviceSettings、GPSCoordinate、OECF/SFR、Rational Schema 命名空间 URI：http://www.aiim。组织/pdfa/ns/类型\必需的模式命名空间前缀：pdfaType
+PDF/A ValueType 架构对于 XMP 2004 规范中未定义的所有属性值类型都是必需的，即对于以下列表之外的值类型： - 数组类型（这些是容器类型，可能包含一个或多个字段）： Alt、Bag、Seq - 基本值类型：Boolean、（开放式和封闭式）Choice、Date、Dimensions、Integer、Lang Alt、Locale、MIMEType、ProperName、Real、Text、Thumbnail、URI、URL、XPath - Media Management 值类型：AgentName、RenditionClass、ResourceEvent、ResourceRef、Version - 基本作业/工作流值类型：作业 - EXIF 模式值类型：Flash、CFAPattern、DeviceSettings、GPSCoordinate、OECF/SFR、Rational Schema 命名空间 URI：http://www.aiim.org/pdfa/ns/type\#必需的架构命名空间前缀：pdfaType
 ## 构造函数
 
 | 构造函数 | 描述 |

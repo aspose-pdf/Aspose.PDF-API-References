@@ -193,7 +193,7 @@ public IPdfDictionary getPropertiesDictionary()
 Получает словарь свойств
 
 **Возвращает:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - Значение IPdfDictionary
+[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) Значение IPdfDictionary
 ### getPropertiesName() {#getPropertiesName--}
 ```
 public IPdfName getPropertiesName()

@@ -12,7 +12,7 @@ java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
 public final class ReplyType extends System.Enum
 ```
 
- Перечисляет виды отношений (т.\\u201тип сообщения\=) между аннотацией и аннотацией, указанной InReplyTo.
+Перечисляет виды отношений (т.\\u201тип сообщения\=) между аннотацией и аннотацией, указанной InReplyTo.
 ## Поля
 
 | Поле | Описание |

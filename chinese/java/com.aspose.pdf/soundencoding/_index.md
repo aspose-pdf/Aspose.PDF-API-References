@@ -20,7 +20,7 @@ public final class SoundEncoding extends System.Enum
 | [ALaw](#ALaw) | 一条法律\\u2013 编码样本。 |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
 | [MuLaw](#MuLaw) | \\u03bc-法律\\u2013 编码样本。 |
-| [Raw](#Raw) | 到 2^bits 范围内的未指定或无符号值。\\u2212�1。 |
+| [Raw](#Raw) | 到 2 范围内的未指定或无符号值^位�\\u2212�1。 |
 | [Signed](#Signed) | 二进制补码值。 |
 ## 方法
 
@@ -87,7 +87,7 @@ public static final int Raw
 ```
 
 
-到 2^bits 范围内的未指定或无符号值。\\u2212�1。
+到 2 范围内的未指定或无符号值^位�\\u2212�1。
 
 ### Signed {#Signed}
 ```

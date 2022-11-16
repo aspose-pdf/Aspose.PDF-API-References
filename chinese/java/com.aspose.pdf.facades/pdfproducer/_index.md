@@ -24,11 +24,11 @@ This sample shows how to produce Pdf file from CGM file.
  try
  {
      PdfProducer.produce(inputFile, ImportFormat.Cgm, outputFile);
-     // Success produced pdf file.
+     //成功制作pdf文件。
  }
  catch (Exception e)
  {
-     //  Do something...
+     //做一点事...
  }
 ```
 ## 方法

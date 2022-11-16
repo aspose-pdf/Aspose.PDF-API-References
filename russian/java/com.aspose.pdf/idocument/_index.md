@@ -599,7 +599,7 @@ public abstract DestinationCollection getDestinations()
 Получает коллекцию пунктов назначения.
 
 **Возвращает:**
-[DestinationCollection](../../com.aspose.pdf/destinationcollection) - Объект DestinationCollection
+[DestinationCollection](../../com.aspose.pdf/destinationcollection) Объект DestinationCollection
 ### getDirection() {#getDirection--}
 ```
 public abstract int getDirection()

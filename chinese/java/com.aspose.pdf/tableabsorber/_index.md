@@ -19,18 +19,18 @@ public class TableAbsorber
 ```
 The example demonstrates how to find table on the first PDF document page and replace the text in a table cell.
 
- 	// Open document
+ 	//打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TableAbsorber object to find tables
+ //创建 TableAbsorber 对象以查找表
  TableAbsorber absorber = new TableAbsorber();
- // Visit first page with absorber
+ //使用吸收器访问第一页
  absorber.visit(doc.getPages().get_Item(1));
- // Get access to first table on page, their first cell and text fragments in it
+ //访问页面上的第一个表格、第一个单元格和其中的文本片段
  TextFragment fragment = absorber.getTableList().get_Item(0).getRowList().get_Item(0).getCellList().get_Item(0)
  .getTextFragments().get_Item(1);
- // Change text of the first text fragment in the cell
+ //更改单元格中第一个文本片段的文本
  fragment.setText("hi world");
- // Save document
+ //保存文件
  doc.save("D:\\Tests\\output.pdf");
 ```
 ## 构造函数
@@ -269,18 +269,18 @@ public void visit(Page page)
 ```
 The example demonstrates how to extract table on the first PDF document page.
 
- // Open document
+ //打开文档
  Document doc = new Document(@"D:\Tests\input.pdf");
- // Create TableAbsorber object to find tables
+ //创建 TableAbsorber 对象以查找表
  TableAbsorber absorber = new TableAbsorber();
- // Visit first page with absorber
+ //使用吸收器访问第一页
  absorber.visit(pdfDocument.getPages.get_item(1));
- // Get access to first table on page, their first cell and text fragments in it
+ //访问页面上的第一个表格、第一个单元格和其中的文本片段
  TextFragment fragment = absorber.getTableList().get_item(0).getRowList.get_item(0).getCellList().get_item(0)
  .getTextFragments.get_item(1);
- // Change text of the first text fragment in the cell
+ //更改单元格中第一个文本片段的文本
  fragment.setText ("hi world");
- // Save document
+ //保存文件
  doc.save(@"D:\Tests\output.pdf");
 ```
 

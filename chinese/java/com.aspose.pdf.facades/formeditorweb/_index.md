@@ -479,7 +479,7 @@ public void copyInnerField(String fieldName, String newFieldName, int pageNum)
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
- //Creates copy of text field on second page.
+ //在第二页上创建文本字段的副本。
  formEditor.copyInnerField("textField", "textFieldCopy", 2);
 ```
 
@@ -488,7 +488,7 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | java.lang.String | 旧的完全限定字段名称。 |
-| newFieldName | java.lang.String | 新的完全限定字段名称。如果为 null，它将被设置为 fieldName + "~"。 |
+| newFieldName | java.lang.String | 新的完全限定字段名称。如果为 null，它将被设置为 fieldName + "~”。 |
 | pageNum | int | 容纳新字段的页数。如果为 -1，新字段将复制到与旧字段相同的页面。 |
 
 ### copyInnerField(String fieldName, String newFieldName, int pageNum, float abscissa, float ordinate) {#copyInnerField-java.lang.String-java.lang.String-int-float-float-}
@@ -503,7 +503,7 @@ public void copyInnerField(String fieldName, String newFieldName, int pageNum, f
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
- //Creates copy of text field on second page.
+ //在第二页上创建文本字段的副本。
  formEditor.copyInnerField("textField", "textFieldCopy", 2, 100, 200);
 ```
 
@@ -512,7 +512,7 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fieldName | java.lang.String | 旧的完全限定字段名称。 |
-| newFieldName | java.lang.String | 新的完全限定字段名称。如果为 null，它将被设置为 fieldName + "~"。 |
+| newFieldName | java.lang.String | 新的完全限定字段名称。如果为 null，它将被设置为 fieldName + "~”。 |
 | pageNum | int | 容纳新字段的页数。如果为 -1，新字段将复制到与旧字段相同的页面。 |
 | abscissa | float | 新字段的横坐标。如果-1，横坐标将等于原来的横坐标。 |
 | ordinate | float | 新字段的纵坐标。如果为-1，则纵坐标将等于原始坐标。 |
@@ -529,7 +529,7 @@ public void copyOuterField(String srcFileName, String fieldName)
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
- //copies text field from source.pdf to PdfForm.pdf
+ //将文本字段从 source.pdf 复制到 PdfForm.pdf
  formEditor.copyOuterField("source.pdf", "textField");
  formEditor.save();
 ```
@@ -570,7 +570,7 @@ public void copyOuterField(String srcFileName, String fieldName, int pageNum, fl
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | srcFileName | java.lang.String | 旧的完全限定字段名称。 |
-| fieldName | java.lang.String | 新的完全限定字段名称。如果为 null，它将被设置为 fieldName + "~"。 |
+| fieldName | java.lang.String | 新的完全限定字段名称。如果为 null，它将被设置为 fieldName + "~”。 |
 | pageNum | int | 容纳新字段的页数。如果为 -1，新字段将复制到与旧字段相同的页面。 |
 | abscissa | float | 新字段的横坐标。如果-1，横坐标将等于原来的横坐标。 |
 | ordinate | float | 新字段的纵坐标。如果为-1，则纵坐标将等于原始坐标。 |
@@ -592,7 +592,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor ( Color.blue);
  fe.getFacade().setBorderColor ( Color.Green);
  fe.getFacade().setAlignment( FormFieldFacade.AlignRight);
- //decorate all fields.
+ //装饰所有领域。
  fe.decorateField();
 ```
 
@@ -613,7 +613,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
  fe.getFacade().setTextColor ( Color.blue);
  fe.getFacade().setBorderColor ( Color.green);
  fe.getFacade().setAlignment ( FormFieldFacade.AlignRight);
- //decorate all text fields.
+ //装饰所有文本字段。
  fe.decorateField(FieldType.Text);
 ```
 

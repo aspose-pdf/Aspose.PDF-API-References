@@ -24,7 +24,7 @@ public final class LatexLoadOptions extends TeXLoadOptions
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getDateTime()](#getDateTime--) | Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время. |
+| [getDateTime()](#getDateTime--) |  Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время. |
 | [getInputDirectory()](#getInputDirectory--) | Получает/устанавливает входной каталог TeX. |
 | [getJobName()](#getJobName--) | Получает/устанавливает имя задания. |
 | [getLoadFormat()](#getLoadFormat--) | Представляет формат файла, который описывает LoadOptions. |
@@ -38,7 +38,7 @@ public final class LatexLoadOptions extends TeXLoadOptions
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setDateTime(Date value)](#setDateTime-java.util.Date-) | Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время. |
+| [setDateTime(Date value)](#setDateTime-java.util.Date-) |  Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время. |
 | [setInputDirectory(ITeXInputDirectory value)](#setInputDirectory-com.aspose.tex.ITeXInputDirectory-) | Получает/устанавливает входной каталог TeX. |
 | [setJobName(String value)](#setJobName-java.lang.String-) | Получает/устанавливает имя задания. |
 | [setNoLigatures(boolean value)](#setNoLigatures-boolean-) | Получает/устанавливает флаг, который отменяет лигатуры во всех шрифтах. |
@@ -90,7 +90,7 @@ public final Date getDateTime()
 ```
 
 
-Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время.
+ Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время.
 
 **Возвращает:**
 [Date](../../java.util/date) - экземпляр даты
@@ -226,7 +226,7 @@ public final void setDateTime(Date value)
 ```
 
 
-Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время.
+ Получает/устанавливает определенное значение для примитивов даты/времени, таких как\ \год,\ \месяц,\ \день и\\время.
 
 **Параметры:**
 

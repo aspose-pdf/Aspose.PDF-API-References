@@ -105,7 +105,7 @@ public float[] getPositionArray()
 获取表示位置数组的对象。该数组由直线各控制点的坐标组成。直接地。
 
 **退货：**
-漂浮[- 表示位置数组。
+漂浮[] - 表示位置数组。
 ### getText() {#getText--}
 ```
 public TextFragment getText()
@@ -115,7 +115,7 @@ public TextFragment getText()
 获取或设置形状的文本
 
 **退货：**
-[TextFragment](../../com.aspose.pdf/textfragment) TextFragment 对象
+[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment 对象
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

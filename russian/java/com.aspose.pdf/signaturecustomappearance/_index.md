@@ -100,7 +100,7 @@ public final Color getBackgroundColor()
 Получает/устанавливает цвет фона. Значение по умолчанию: Прозрачный.
 
 **Возвращает:**
-[Color](../../com.aspose.pdf/color) экземпляр com.aspose.pdf.Color
+[Color](../../com.aspose.pdf/color) - экземпляр com.aspose.pdf.Color
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -210,7 +210,7 @@ public final Color getForegroundColor()
 Получает/устанавливает цвет переднего плана (цвет текста). Значение по умолчанию: Синий.
 
 **Возвращает:**
-[Color](../../com.aspose.pdf/color) экземпляр com.aspose.pdf.Color
+[Color](../../com.aspose.pdf/color) - экземпляр com.aspose.pdf.Color
 ### getLocationLabel() {#getLocationLabel--}
 ```
 public final String getLocationLabel()

@@ -22,21 +22,21 @@ The example demonstrates how to create text paragraph object and append it to th
 
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text paragraph
+ //创建文本段落
  TextParagraph paragraph = new TextParagraph();
 
- // set the paragraph rectangle
+ //设置段落矩形
  paragraph.setRectangle ( new Rectangle(100, 600, 200, 700));
- // set word wrapping options
+ //设置自动换行选项
  paragraph.getFormattingOptions().setWrapMode ( TextFormattingOptions.WordWrapMode.ByWords);
- // append string lines
+ //附加字符串行
  paragraph.appendLine("the quick brown fox jumps over the lazy dog");
  paragraph.appendLine("line2");
  paragraph.appendLine("line3");
- // append the paragraph to the Pdf page with the TextBuilder
+ //使用 TextBuilder 将段落附加到 Pdf 页面
  TextBuilder textBuilder = new TextBuilder(page);
  textBuilder.appendParagraph(paragraph);
- // save Pdf document
+ //保存 Pdf 文件
  doc.save(outFile);
 ```
 ## 构造函数

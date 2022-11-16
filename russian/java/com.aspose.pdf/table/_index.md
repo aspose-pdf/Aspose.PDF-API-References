@@ -188,7 +188,7 @@ public final TextFragment getBreakText()
 Получает текст разрыва для таблицы
 
 **Возвращает:**
-[TextFragment](../../com.aspose.pdf/textfragment) Объект TextFragment
+[TextFragment](../../com.aspose.pdf/textfragment) - Объект TextFragment
 ### getBroken() {#getBroken--}
 ```
 public final int getBroken()

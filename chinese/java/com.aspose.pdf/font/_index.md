@@ -23,23 +23,23 @@ public final class Font implements Cloneable
 The example demonstrates how to search text on first page and change font of a first search occurrence.
  
   
-  // Open document
+  //打开文档
   Document doc = new Document("input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Create font and mark it to be embedded
+  //创建字体并将其标记为嵌入
   Font font = FontRepository.findFont("Arial");
   font.isEmbedded(true);
   
-  // Change font of the first text occurrence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).getTextState().setFont( font);
   
   
-  // Save document
+  //保存文件
   doc.save("output.pdf");
 ```
 ## 方法
@@ -149,15 +149,15 @@ java.lang.String - 字符串值
 ```
 The example demonstrates how to search text on first page and view font name of a first text occurrence.
  
-  // Open document
+  //打开文档
   Document doc = new Document(@"D:\Tests\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // View font name of first text occurrence
+  //查看第一个文本出现的字体名称
   System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getFontName());
 ```
 ### getFontOptions() {#getFontOptions--}
@@ -169,7 +169,7 @@ public IFontOptions getFontOptions()
 调整字体行为的有用属性
 
 **退货：**
-[IFontOptions](../../com.aspose.pdf/ifontoptions) - IFontOptions 对象
+[IFontOptions](../../com.aspose.pdf/ifontoptions) IFontOptions 对象
 ### getIFont() {#getIFont--}
 ```
 public IFont getIFont()
@@ -244,15 +244,15 @@ boolean - 布尔值
 ```
 The example demonstrates how to search text on first page and get the value that indicates whether the font is installed in the system.
  
- // Open document
+ //打开文档
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
  
- // Accept the absorber for first page
+ //接受第一页的吸收器
  doc.getPages().get_Item(1).accept(absorber);
  
- // View font's IsSubset value of first text occurrence
+ //查看第一个文本出现的字体的 IsSubset 值
  if (absorber.getTextFragments().get_Item(1).getTextState().getFont()
  		.isAccessible())
  	System.out.println("the font is installed in the system");
@@ -274,18 +274,18 @@ public boolean isEmbedded()
 ```
 The following example demonstrates how to find a font, mark it as embedded, search text on the document's page and replace the text font.
  
-	      // Create font and mark it to be embedded
+	      //创建字体并将其标记为嵌入
 	      com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Arial");
 	      font.isEmbedded ( true);
-	      // open document
+	      //打开文件
 	      com.aspose.pdf.Document doc = new com.aspose.pdf.Document("D:\\Tests\\input.pdf");
-	      // create TextFragmentAbsorber object to find all "hello world" text occurrences
+	      //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
 	      com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber("hello world");
-	      // accept the absorber for first page
+	      //接受第一页的吸收器
 	      doc.getPages().get_Item(1).accept(absorber);
-	      // change font for the first text occurrence
+	      //更改第一个文本出现的字体
 	      absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-	      // save document
+	      //保存文档
 	      doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -304,15 +304,15 @@ public boolean isSubset()
 ```
 The example demonstrates how to search text on first page and get the value that indicates whether the font is a subset.
   
-	       // Open document
+	       //打开文档
 	       Document doc = new Document("D:\\Tests\\input.pdf");
-	       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+	       //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
 	       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 	       
-	       // Accept the absorber for first page
+	       //接受第一页的吸收器
 	       doc.getPages().get_Item(1).accept(absorber);
 	       
-	       // View font's IsSubset value of first text occurrence
+	       //查看第一个文本出现的字体的 IsSubset 值
 	       if(absorber.TextFragments[1].TextState.Font.IsSubset)
 	          System.out.println("the font is a subset");
 ```

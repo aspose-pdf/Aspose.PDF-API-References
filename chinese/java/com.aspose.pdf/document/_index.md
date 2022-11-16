@@ -1045,7 +1045,7 @@ public DocumentActionCollection getActions()
 --------------------
 
 ```
-This example demonstrates how to obtain after open action of the document:
+//本例演示了如何获取文件打开后的动作：
 
  Document document = new Document("PdfWithOpenAction.pdf");
  DocumentActionCollection actions = document.getActions();
@@ -1344,7 +1344,7 @@ public IAppointment getOpenAction()
 --------------------
 
 ```
-Example demonstrates how to get CenterWindow flag:
+//示例演示如何获取 CenterWindow 标志：
 
  Document document = new Document("sample.pdf");
  IAppointment value = document.getOpenAction();
@@ -1426,8 +1426,8 @@ public PageCollection getPages()
 --------------------
 
 ```
-Example below demonstrates how to operate with the document pages:
- How to obtain number of pages and how to obtain rectangle of starting page of the document.
+//下面的示例演示了如何使用文档页面进行操作：
+//如何获取页数，如何获取文档起始页的矩形。
 
  Document document = new Document("sample.pdf");
  PageCollection  pages = document.getPages();
@@ -1444,7 +1444,7 @@ public PdfFormat getPdfFormat()
 获取pdfa格式
 
 **退货：**
-[PdfFormat](../../com.aspose.pdf/pdfformat) PdfFormat 元素
+[PdfFormat](../../com.aspose.pdf/pdfformat) - PdfFormat 元素
 ### getPermissions() {#getPermissions--}
 ```
 public int getPermissions()
@@ -1466,45 +1466,45 @@ public final ITaggedContent getTaggedContent()
 该示例演示了如何使用标记内容创建带有标题、段落和图像的新文档。
 
 ```
-// Create new document
+	//创建新文档
      Document document = new Document();
 
-     // Get the tagged content
+     //获取标记的内容
      ITaggedContent taggedContent = document.getTaggedContent();
 
-     // Set language for document
+     //设置文档语言
      taggedContent.setLanguage("en-US");
 
-     // Set title for PDF document
+     //设置PDF文档的标题
      taggedContent.setTitle("Example document");
 
-     // Creating and adding Section
+     //创建和添加部分
      SectElement sect = taggedContent.createSectElement();
      taggedContent.getRootElement().appendChild(sect);
 
-     // Create Header
+     //创建标题
      HeaderElement h1 = taggedContent.createHeaderElement(1);
      h1.setText("The Header");
      sect.appendChild(h1);
 
-     // Create paragraph
+     //创建段落
      ParagraphElement p = taggedContent.createParagraphElement();
      p.setTag("Paragraph");
      p.setText("The text of paragraph.");
      sect.appendChild(p);
-     // Create illustration
+     //创建插图
      IllustrationElement figure1 = taggedContent.createFigureElement();
      sect.appendChild(figure1);
      figure1.setAlternativeText("Figure 1");
      figure1.setTitle("Image 1");
      figure1.setTag("Fig");
      figure1.setImage("path/of/image.jpg");
-     // Save document
+     //保存文件
      document.save("example.pdf");
 ```
 
 **退货：**
-[ITaggedContent](../../com.aspose.pdf.tagged/itaggedcontent) - ITaggedContent 实例
+[ITaggedContent](../../com.aspose.pdf.tagged/itaggedcontent) ITaggedContent 实例
 ### getVersion() {#getVersion--}
 ```
 public String getVersion()
@@ -1591,7 +1591,7 @@ boolean - 布尔值
 --------------------
 
 ```
-Example demonstrates how to get CenterWindow flag:
+//示例演示如何获取 CenterWindow 标志：
 
  Document document = new Document("sample.pdf");
  boolean value = document.isCenterWindow();
@@ -1620,7 +1620,7 @@ boolean - 布尔值
 --------------------
 
 ```
-Example demonstrates how to get DisplayDocTitle flag:
+//示例演示如何获取 DisplayDocTitle 标志：
 
  Document document = new Document("sample.pdf");
  boolean value = document.isDisplayDocTitle();
@@ -1688,7 +1688,7 @@ boolean - 布尔值
 --------------------
 
 ```
-Example demonstrates how to get HideMenubar flag:
+//示例演示如何获取 HideMenubar 标志：
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideMenubar();
@@ -1707,7 +1707,7 @@ boolean - 布尔值
 --------------------
 
 ```
-Example demonstrates how to get HideToolBar flag:
+//示例演示如何获取 HideToolBar 标志：
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideToolBar();
@@ -1726,7 +1726,7 @@ boolean - 布尔值
 --------------------
 
 ```
-Example demonstrates how to get HideWindowUI flag:
+//示例演示如何获取 HideWindowUI 标志：
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideWindowUI();
@@ -1920,7 +1920,13 @@ public void save()
 
 --------------------
 
-为了增量保存文档，我们应该打开文档文件进行写入。因此，Document 不能使用 InputStream 进行初始化，而必须使用文件路径进行初始化，如下一个代码片段所示：Document doc = new Document("document.pdf"); // 进行一些更改并增量保存文档 doc.save();
+为了增量保存文档，我们应该打开文档文件进行写入。因此，Document 不得使用 InputStream 进行初始化，而必须使用文件路径进行初始化，如下一个代码片段所示： 
+
+```
+Document doc = new Document("document.pdf"); 
+//进行一些更改并逐步保存文档
+doc.save();
+```
 
 如果文档是用 InputStream 初始化的，写入 InputStream 是不可能的，所以我们建议使用单独的方法“save”来保存文档或“saveIncrementally”来增量保存文档。
 

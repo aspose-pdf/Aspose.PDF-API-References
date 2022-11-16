@@ -599,7 +599,7 @@ public abstract DestinationCollection getDestinations()
 获取目的地的集合。
 
 **退货：**
-[DestinationCollection](../../com.aspose.pdf/destinationcollection) - DestinationCollection 对象
+[DestinationCollection](../../com.aspose.pdf/destinationcollection) DestinationCollection 对象
 ### getDirection() {#getDirection--}
 ```
 public abstract int getDirection()
@@ -886,7 +886,7 @@ public abstract PdfFormat getPdfFormat()
 
 
 **退货：**
-[PdfFormat](../../com.aspose.pdf/pdfformat) PdfFormat 元素
+[PdfFormat](../../com.aspose.pdf/pdfformat) - PdfFormat 元素
 ### getPermissions() {#getPermissions--}
 ```
 public abstract int getPermissions()

@@ -454,7 +454,7 @@ public RenderingOptions getRenderingOptions()
 Получает параметры рендеринга.
 
 **Возвращает:**
-[RenderingOptions](../../com.aspose.pdf/renderingoptions) Объект RenderingOptions
+[RenderingOptions](../../com.aspose.pdf/renderingoptions) - Объект RenderingOptions
 ### getResolution() {#getResolution--}
 ```
 public int getResolution()
@@ -588,9 +588,9 @@ public void printDocument()
 ```
 PdfViewer viewer = new PdfViewer();
  viewer.openPdfFile("d:\\test.pdf");
- viewer.setAutoResize ( true);         //print the file with adjusted size
- viewer.setAutoRotate ( true);         //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);   //do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);         //распечатать файл с измененным размером
+ viewer.setAutoRotate ( true);         //распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog ( false);   //не создавать диалоговое окно номера страницы при печати
  viewer.printDocument(ps);
  viewer.closePdfFile();
 ```
@@ -608,9 +608,9 @@ public void printDocumentWithSettings(PdfPrinterSettings printerSettings)
 ```
 PdfViewer viewer = new PdfViewer();
  viewer.openPdfFile("d:\\test.pdf");
- viewer.setAutoResize ( true);         //print the file with adjusted size
- viewer.setAutoRotate ( true);         //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);   //do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);         //распечатать файл с измененным размером
+ viewer.setAutoRotate ( true);         //распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog ( false);   //не создавать диалоговое окно номера страницы при печати
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings().PrinterName());
@@ -637,9 +637,9 @@ public void printDocumentWithSettings(PrintPageSettings pageSettings, PdfPrinter
 ```
 PdfViewer viewer = new PdfViewer();
  viewer.openPdfFile("d:\\test.pdf");
- viewer.setAutoResize ( true);         //print the file with adjusted size
- viewer.setAutoRotate ( true);         //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);         //распечатать файл с измененным размером
+ viewer.setAutoRotate ( true);         //распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog ( false);//не создавать диалоговое окно номера страницы при печати
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings.getPrinterName());
@@ -659,7 +659,7 @@ PdfViewer viewer = new PdfViewer();
 
 --------------------
 
-Объект printerSettings используется для печати документа. Объект pageSettings.PrinterSettings игнорируется.|
+ Объект printerSettings используется для печати документа. Объект pageSettings.PrinterSettings игнорируется.|
 
 ### printLargePdf(InputStream inputStream) {#printLargePdf-java.io.InputStream-}
 ```
@@ -673,9 +673,9 @@ public void printLargePdf(InputStream inputStream)
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize ( true);        //print the file with adjusted size
- viewer.setAutoRotate ( true);        //print the file with adjusted rotation
- viewer.printPageDialog=false;//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);        //распечатать файл с измененным размером
+ viewer.setAutoRotate ( true);        //распечатать файл с отрегулированным поворотом
+ viewer.printPageDialog=false;//не создавать диалоговое окно номера страницы при печати
  viewer.printLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")));
  viewer.closePdfFile();
 ```
@@ -702,10 +702,10 @@ public void printLargePdf(InputStream inputStream, PdfPrinterSettings printerSet
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize(true); // print the file with adjusted size
- viewer.setAutoRotate(true); // print the file with adjusted rotation
- viewer.setPrintPageDialog(false); // do not produce the page number dialog when
- 				  // printing
+ viewer.setAutoResize(true); // распечатать файл с измененным размером
+ viewer.setAutoRotate(true); // распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog(false); // не создавать диалоговое окно номера страницы, когда
+ 				  // печать
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName(prtdoc.getPrinterSettings().getPrinterName());
@@ -736,9 +736,9 @@ public void printLargePdf(InputStream inputStream, PrintPageSettings pageSetting
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize ( true);       //print the file with adjusted size
- viewer.setAutoRotate ( true);       //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);       //распечатать файл с измененным размером
+ viewer.setAutoRotate ( true);       //распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog ( false);//не создавать диалоговое окно номера страницы при печати
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings().getPrinterName());
@@ -773,10 +773,10 @@ public void printLargePdf(String filePath)
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize(true); // print the file with adjusted size
- viewer.setAutoRotate(true); // print the file with adjusted rotation
- viewer.setPrintPageDialog(false);// do not produce the page number dialog when
- 									// printing
+ viewer.setAutoResize(true); // распечатать файл с измененным размером
+ viewer.setAutoRotate(true); // распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog(false);// не создавать диалоговое окно номера страницы, когда
+ 									// печать
  viewer.setPrintLargePdf("d:\test.pdf");
 ```
 
@@ -802,9 +802,9 @@ public void printLargePdf(String filePath, PdfPrinterSettings printerSettings)
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize ( true);       //print the file with adjusted size
- viewer.setAutoRotate ( true);       //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);       //распечатать файл с измененным размером
+ viewer.setAutoRotate ( true);       //распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog ( false);//не создавать диалоговое окно номера страницы при печати
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings().getPrinterName());
@@ -835,10 +835,10 @@ public void printLargePdf(String filePath, PrintPageSettings pageSettings, PdfPr
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize(true); // print the file with adjusted size
- viewer.setAutoRotate(true); // print the file with adjusted rotation
- viewer.setPrintPageDialog(false); // do not produce the page number dialog when
- 				  // printing
+ viewer.setAutoResize(true); // распечатать файл с измененным размером
+ viewer.setAutoRotate(true); // распечатать файл с отрегулированным поворотом
+ viewer.setPrintPageDialog(false); // не создавать диалоговое окно номера страницы, когда
+ 				  // печать
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName(prtdoc.getPrinterSettings().getPrinterName());
@@ -1021,7 +1021,7 @@ public void setPrintAsImage(boolean value)
 
 --------------------
 
-Если true, то всегда печатается как изображение (создается изображение, которое печатается). Если false, печатается непосредственно на устройство, если поддерживаются все функции. Если документ содержит неподдерживаемые функции, система может автоматически принять решение о печати в виде изображения. Значение по умолчанию — false.|
+ Если true, то всегда печатается как изображение (создается изображение, которое печатается). Если false, печатается непосредственно на устройство, если поддерживаются все функции. Если документ содержит неподдерживаемые функции, система может автоматически принять решение о печати в виде изображения. Значение по умолчанию — false.|
 
 ### setPrintPageDialog(boolean value) {#setPrintPageDialog-boolean-}
 ```

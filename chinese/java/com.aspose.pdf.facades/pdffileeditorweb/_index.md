@@ -196,15 +196,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
   InputStream src = new FileInputStream("input.pdf", FileMode.Open);
   OutputStream dest = new FileOutputStream("output.pdf", FileMode.Create);
   fileEditor.addMargins(src, dest,
-      //process pages 1, 2, 3
+      //处理第 1、2、3 页
       new int[] { 1, 2, 3},
-      //left margin is 10 units
+      //左边距为 10 个单位
       10,
-      //right margin is 5 units
+      //右边距为 5 个单位
       5,
-      //top margin is 5 units
+      //顶部边距为 5 个单位
       5,
-      //bottom margin is 5 units
+      //底部边距为 5 个单位
       5);
       dest.Close();
 ```
@@ -236,15 +236,15 @@ public boolean addMargins(String source, String destination, int[] pages, double
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
   fileEditor.addMargins("input.pdf", "output.pdf",
-      //process pages 1, 2, 3
+      //处理第 1、2、3 页
       new int[] { 1, 2, 3},
-      //left margin is 10 units
+      //左边距为 10 个单位
       10,
-      //right margin is 5 units
+      //右边距为 5 个单位
       5,
-      //top margin is 5 units
+      //顶部边距为 5 个单位
       5,
-      //bottom margin is 5 units
+      //底部边距为 5 个单位
       5);
 ```
 
@@ -277,15 +277,15 @@ PdfFileEditor fileEditor = new PdfFileEditor();
   InputStream src = new FileInputStream("input.pdf", FileMode.Open);
   OutputStream dest = new FileOutputStream("output.pdf", FileMode.Create);
   fileEditor.addMarginsPct(src, dest,
-      //process pages 1, 2, 3
+      //处理第 1、2、3 页
       new int[] { 1, 2, 3},
-      //left margin is 15% of page width
+      //左边距是页面宽度的 15%
       15,
-      //right margin is 10% of page width
+      //右边距是页面宽度的 10%
       10,
-      //top margin is 20% of page width
+      //上边距是页面宽度的 20%
       20,
-      //bottom margin is 5% of page width
+      //底部边距是页面宽度的 5%
       5);
       dest.Close();
 ```
@@ -317,15 +317,15 @@ public boolean addMarginsPct(String source, String destination, int[] pages, dou
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
   fileEditor.addMarginsPct("input.pdf", "output.pdf",
-      //process pages 1, 2, 3
+      //处理第 1、2、3 页
       new int[] { 1, 2, 3},
-      //left margin is 15% of page width
+      //左边距是页面宽度的 15%
       15,
-      //right margin is 10% of page width
+      //右边距是页面宽度的 10%
       10,
-      //top margin is 20% of page width
+      //上边距是页面宽度的 20%
       20,
-      //bottom margin is 5% of page width
+      //底部边距是页面宽度的 5%
       5);
 ```
 
@@ -1146,7 +1146,7 @@ public PdfFileEditor.CorruptedItem[] getCorruptedItems()
 --------------------
 
 ```
-//concatenate documents and show information about corrupted documents
+//连接文档并显示有关损坏文档的信息
  PdfFileEditor pfe = new PdfFileEditor();
  pfe.setCorruptedFileAction( PdfFileEditor.ConcatenateCorruptedFileAction.ConcatenateIgnoringCorrupted);
  ```
@@ -2140,17 +2140,17 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  Document src = new Document("input.pdf");
  Document dest = new Document();
  APdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-     //left margin = 10% of page width
+     //左边距 = 页面宽度的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+     //新内容宽度自动计算为宽度 - 左边距 - 右边距（100% - 10% - 10% = 80%）
      null,
-     //right margin is 10% of page
+     //右边距是页面的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //top margin = 10% of height
+     //上边距 = 高度的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //new contents height is calculated automatically (similar to width)
+     //新内容高度自动计算（类似于宽度）
      null,
-     //bottom margin is 10%
+     //底部保证金为 10%
      PdfFileEditor.ContentsResizeValue.percents(10)
         );
  fileEditor.resizeContents(doc, parameters);
@@ -2178,17 +2178,17 @@ public void resizeContents(IDocument source, int[] pages, IPdfFileEditor.Content
 PdfFileEditor fileEditor = new PdfFileEditor();
  Document doc = new Document("input.pdf");
  APdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-     //left margin = 10% of page width
+     //左边距 = 页面宽度的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+     //新内容宽度自动计算为宽度 - 左边距 - 右边距（100% - 10% - 10% = 80%）
      null,
-     //right margin is 10% of page
+     //右边距是页面的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //top margin = 10% of height
+     //上边距 = 高度的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //new contents height is calculated automatically (similar to width)
+     //新内容高度自动计算（类似于宽度）
      null,
-     //bottom margin is 10%
+     //底部保证金为 10%
      PdfFileEditor.ContentsResizeValue.percents(10)
         );
  fileEditor.resizeContents(doc, new int[] { 1, 2,.3}, parameters);
@@ -2218,17 +2218,17 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new fileOutputStream("output.pdf");
  APdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
- //left margin = 10% of page width
+ //左边距 = 页面宽度的 10%
  PdfFileEditor.ContentsResizeValue.percents(10),
- //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+ //新内容宽度自动计算为宽度 - 左边距 - 右边距（100% - 10% - 10% = 80%）
  null,
- //right margin is 10% of page
+ //右边距是页面的 10%
  PdfFileEditor.ContentsResizeValue.percents(10),
- //top margin = 10% of height
+ //上边距 = 高度的 10%
  PdfFileEditor.ContentsResizeValue.percents(10),
- //new contents height is calculated automatically (similar to width)
+ //新内容高度自动计算（类似于宽度）
  null,
- //bottom margin is 10%
+ //底部保证金为 10%
  PdfFileEditor.ContentsResizeValue.percents(10)
  );
  fileEditor.resizeContents(src, dest, new int[] { 1, 2, 3}, parameters);
@@ -2261,13 +2261,13 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.resizeContents(src, dest,
- //resize all pages of document
+ //调整文档所有页面的大小
  null,
- //new contents width = 200
+ //新内容宽度 = 200
  200,
- //new contents height = 300
+ //新内容高度 = 300
  300);
- // rest area of page will be empty
+ //页面的其余区域将为空
 ```
 
 **参数：**
@@ -2314,17 +2314,17 @@ public boolean resizeContents(String source, String destination, int[] pages, IP
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  APdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-     //left margin = 10% of page width
+     //左边距 = 页面宽度的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+     //新内容宽度自动计算为宽度 - 左边距 - 右边距（100% - 10% - 10% = 80%）
      null,
-     //right margin is 10% of page
+     //右边距是页面的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //top margin = 10% of height
+     //上边距 = 高度的 10%
      PdfFileEditor.ContentsResizeValue.percents(10),
-     //new contents height is calculated automatically (similar to width)
+     //新内容高度自动计算（类似于宽度）
      null,
-     //bottom margin is 10%
+     //底部保证金为 10%
      PdfFileEditor.ContentsResizeValue.percents(10)
         );
  fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2,.3}, parameters);
@@ -2354,13 +2354,13 @@ public boolean resizeContents(String source, String destination, int[] pages, do
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizeContents("input.pdf", "output.pdf",
- //resize all pages of document
+ //调整文档所有页面的大小
  null,
- //new contents width = 200
+ //新内容宽度 = 200
  200,
- //new contents height = 300
+ //新内容高度 = 300
  300);
- // rest area of page will be empty
+ //页面的其余区域将为空
 ```
 
 **参数：**
@@ -2390,14 +2390,14 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
  fileEditor.resizePct(src, dest,
- //resize all pages of document
+ //调整文档所有页面的大小
  null,
- //new contents width = 60% of initial size
+ //新内容宽度 = 初始大小的 60%
  60,
- //new contents height = 60% of initial size
+ //新内容高度 = 初始大小的 60%
  60);
- // Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
- // The same for top and bottom margins.
+ //页面的其余区域将为空（页边距）。左右边距的大小为 (100% - 60%) / 2 = 20%
+ //顶部和底部边距相同。
 ```
 
 **参数：**
@@ -2425,14 +2425,14 @@ public boolean resizeContentsPct(String source, String destination, int[] pages,
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizePct("input.pdf", "output.pdf",
- //resize all pages of document
+ //调整文档所有页面的大小
  null,
- //new contents width = 60% of initial size
+ //新内容宽度 = 初始大小的 60%
  60,
- //new contents height = 60% of initial size
+ //新内容高度 = 初始大小的 60%
  60);
- // Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
- // The same for top and bottom margins.
+ //页面的其余区域将为空（页边距）。左右边距的大小为 (100% - 60%) / 2 = 20%
+ //顶部和底部边距相同。
 ```
 
 **参数：**
@@ -3069,7 +3069,7 @@ public ByteArrayInputStream[] splitToPages(InputStream inputStream)
 | inputStream | java.io.InputStream | 输入 Pdf 流。 |
 
 **退货：**
-java.io.ByteArrayInputStream[- 包含文档页面的内存流数组。
+java.io.ByteArrayInputStream[] - 包含文档页面的内存流数组。
 ### splitToPages(InputStream inputStream, String fileNameTemplate) {#splitToPages-java.io.InputStream-java.lang.String-}
 ```
 public void splitToPages(InputStream inputStream, String fileNameTemplate)

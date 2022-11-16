@@ -53,7 +53,7 @@ public TextBuilder(Page page)
 
 --------------------
 
-TextBuilder позволяет добавлять текстовые объекты к страницам Pdf.|
+ TextBuilder позволяет добавлять текстовые объекты к страницам Pdf.|
 
 ### TextBuilder(Page page, BaseOperatorCollection operatorCollection) {#TextBuilder-com.aspose.pdf.Page-com.aspose.pdf.BaseOperatorCollection-}
 ```
@@ -85,21 +85,21 @@ The example demonstrates how to create text paragraph object and append it to th
  
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text paragraph
+ // создать текстовый абзац
  TextParagraph paragraph = new TextParagraph();
             
- // set the paragraph rectangle
+ // установить прямоугольник абзаца
  paragraph.setRectangle ( new Rectangle(100, 600, 200, 700));
- // set word wrapping options
+ // установить параметры переноса слов
  paragraph.getFormattingOptions().setWrapMode ( TextFormattingOptions.WordWrapMode.ByWords);
- // append string lines
+ // добавить строковые строки
  paragraph.appendLine("the quick brown fox jumps over the lazy dog");
  paragraph.appendLine("line2");
  paragraph.appendLine("line3");
- // append the paragraph to the Pdf page with the TextBuilder
+ //добавить абзац на страницу Pdf с помощью TextBuilder
  TextBuilder textBuilder = new TextBuilder(page);
  textBuilder.appendParagraph(paragraph);
- // save Pdf document
+ // сохранить PDF-документ
  doc.save(outFile);
 ```
 
@@ -139,23 +139,23 @@ The example demonstrates how to create text fragment object, customize it's text
  
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text fragment
+ // создать фрагмент текста
  TextFragment tf = new TextFragment("main text");
  tf.Position = new Position(100, 600);
- // set it's text properties
+ // установить свойства текста
  tf.getTextState().setFontSize ( 5);
  tf.getTextState().setFont ( FontRepository.FindFont("TimesNewRoman"));
  tf.getTextState().setBackgroundColor ( Color.GREY);
  tf.getTextState().setForegroundColor ( Color.Red);
- // add one more segment to text fragment's Segments collection
+ // добавить еще один сегмент в коллекцию сегментов текстового фрагмента
  TextSegment segment2 = new TextSegment();
  segment2.setText ( "another segment");
  tf.getSegments.add(segment2);
- // create TextBuilder object
+ // создать объект TextBuilder
  TextBuilder builder = new TextBuilder(page);
- // append the text fragment to the Pdf page
+ // добавить фрагмент текста на страницу Pdf
  builder.appendText(tf);
- //save document
+ //сохранить документ
  doc.save(outFile);
 ```
 

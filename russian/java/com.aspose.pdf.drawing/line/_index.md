@@ -105,7 +105,7 @@ public float[] getPositionArray()
 Получает объект, указывающий массив позиций. Массив состоит из координат каждой контрольной точки линии. напрямую.
 
 **Возвращает:**
-плавать[- это указывает на массив позиций.
+плавать[] - это указывает на массив позиций.
 ### getText() {#getText--}
 ```
 public TextFragment getText()
@@ -115,7 +115,7 @@ public TextFragment getText()
 Получает или задает текст для формы
 
 **Возвращает:**
-[TextFragment](../../com.aspose.pdf/textfragment) Объект TextFragment
+[TextFragment](../../com.aspose.pdf/textfragment) - Объект TextFragment
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

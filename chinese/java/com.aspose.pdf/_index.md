@@ -336,7 +336,7 @@ url: /zh/java/com.aspose.pdf/
 | [PdfEvent<T>](../com.aspose.pdf/pdfevent) | 表示事件的类 |
 | [PdfFormatConversionOptions](../com.aspose.pdf/pdfformatconversionoptions) | 表示转换 PDF 文档的选项集 |
 | [PdfFormatConversionOptions.PdfANonSpecificationFlags](../com.aspose.pdf/pdfformatconversionoptions.pdfanonspecificationflags) | 当源 PDF 文档不符合 PDF 规范时，此类包含控制 PDF/A 转换的标志。 |
-| [PdfFormatConversionOptions.PuaProcessingStrategy](../com.aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy) | 一些 PDF 文档具有特殊的 unicode 符号，属于私人使用区 (PUA)，请参阅 https://en.wikipedia.org/wiki/Private 上的说明\_利用\_地区。 |
+| [PdfFormatConversionOptions.PuaProcessingStrategy](../com.aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy) | 一些PDF文档有特殊的unicode符号，属于Private Use Area (PUA)，见说明https://en.wikipedia.org/wiki/Private\_Use\_Areas. |
 | [PdfFormatConversionOptions.RemoveFontsStrategy](../com.aspose.pdf/pdfformatconversionoptions.removefontsstrategy) | 有些文档在转换为PDF/A 格式后尺寸较大。 |
 | [PdfFormatConversionOptions.SegmentAlignStrategy](../com.aspose.pdf/pdfformatconversionoptions.segmentalignstrategy) | 描述用于对齐文档文本段的策略。 |
 | [PdfPageStamp](../com.aspose.pdf/pdfpagestamp) | 类表示使用 PDF 页面作为图章的图章。 |
@@ -511,7 +511,7 @@ url: /zh/java/com.aspose.pdf/
 | [XmpPdfAExtensionProperty](../com.aspose.pdf/xmppdfaextensionproperty) | 描述单个属性。 |
 | [XmpPdfAExtensionSchema](../com.aspose.pdf/xmppdfaextensionschema) | 描述由 PDF/A-1 提供的 XMP 扩展模式。 |
 | [XmpPdfAExtensionSchemaDescription](../com.aspose.pdf/xmppdfaextensionschemadescription) | 表示由 PDF/A-1 提供的 XMP 扩展模式的描述。 |
-| [XmpPdfAExtensionValueType](../com.aspose.pdf/xmppdfaextensionvaluetype) | PDF/A ValueType 架构对于 XMP 2004 规范中未定义的所有属性值类型都是必需的，即对于以下列表之外的值类型： - 数组类型（这些是容器类型，可能包含一个或多个字段）： Alt、Bag、Seq - 基本值类型：Boolean、（开放式和封闭式）Choice、Date、Dimensions、Integer、Lang Alt、Locale、MIMEType、ProperName、Real、Text、Thumbnail、URI、URL、XPath - Media Management 值类型：AgentName、RenditionClass、ResourceEvent、ResourceRef、Version - Basic Job/Workflow 值类型：Job - EXIF 模式值类型：Flash、CFAPattern、DeviceSettings、GPSCoordinate、OECF/SFR、Rational Schema 命名空间 URI：http://www.aiim。组织/pdfa/ns/类型\必需的模式命名空间前缀：pdfaType |
+| [XmpPdfAExtensionValueType](../com.aspose.pdf/xmppdfaextensionvaluetype) | PDF/A ValueType 架构对于 XMP 2004 规范中未定义的所有属性值类型都是必需的，即对于以下列表之外的值类型： - 数组类型（这些是容器类型，可能包含一个或多个字段）： Alt、Bag、Seq - 基本值类型：Boolean、（开放式和封闭式）Choice、Date、Dimensions、Integer、Lang Alt、Locale、MIMEType、ProperName、Real、Text、Thumbnail、URI、URL、XPath - Media Management 值类型：AgentName、RenditionClass、ResourceEvent、ResourceRef、Version - 基本作业/工作流值类型：作业 - EXIF 模式值类型：Flash、CFAPattern、DeviceSettings、GPSCoordinate、OECF/SFR、Rational Schema 命名空间 URI：http://www.aiim.org/pdfa/ns/type\#必需的架构命名空间前缀：pdfaType |
 | [XmpValue](../com.aspose.pdf/xmpvalue) | 表示 XMP 值 |
 | [XpsLoadOptions](../com.aspose.pdf/xpsloadoptions) | 表示将 xps 文件加载/导入 pdf 文档的选项。 |
 | [XpsSaveOptions](../com.aspose.pdf/xpssaveoptions) | 导出为 Xps 格式的保存选项 |

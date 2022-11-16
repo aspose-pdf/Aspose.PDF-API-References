@@ -19,18 +19,18 @@ public final class TextFragmentAbsorber extends TextAbsorber
 ```
 The example demonstrates how to find text on the first PDF document page and replace the text and it's font.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ // Найти шрифт, который будет использоваться для изменения шрифта текста документа
  com.aspose.pdf.Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ // Создайте объект TextFragmentAbsorber, чтобы найти все вхождения текста «hello world».
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- // Accept the absorber for first page
+ // Принять поглотитель для первой страницы
  doc.getPages().get(1).accept(absorber);
- // Change text and font of the first text occurrence
+ // Изменить текст и шрифт первого вхождения текста
  absorber.getTextFragments().get_Item(1).setText ( "hi world");
  absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -102,19 +102,19 @@ public TextFragmentAbsorber()
 ```
 The example demonstrates how to find text on the first PDF document page and replace the text.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ // Найти шрифт, который будет использоваться для изменения шрифта текста документа
  Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object
+ // Создайте объект TextFragmentAbsorber
  TextFragmentAbsorber absorber = new TextFragmentAbsorber();
- // Make the absorber to search all "hello world" text occurrences
+ // Заставьте поглотитель искать все вхождения текста «hello world»
  absorber.setPhrase ( "hello world");
- // Accept the absorber for first page
+ // Принять поглотитель для первой страницы
  doc.getPages().get(1).accept(absorber);
- // Change text of the first text occurrence
+ // Изменить текст первого вхождения текста
  absorber.getTextFragments().get_Item(1).setText ( "hi world");
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -135,26 +135,26 @@ public TextFragmentAbsorber(TextEditOptions textEditOptions)
 ```
 The example demonstrates how to find all text fragments on the first PDF document page and replace font for them.
 
-  // Open document
+  // Открыть документ
   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object
+  // Создайте объект TextFragmentAbsorber
   TextFragmentAbsorber absorber = new TextFragmentAbsorber(new TextEditOptions(TextEditOptions.FontReplace
   .RemoveUnusedFonts));
 
-  // Accept the absorber for first page
+  // Принять поглотитель для первой страницы
   doc.getPages()get(1).accept(absorber);
 
-  // Find Courier font
+  // Найти шрифт Courier
   Font font = FontRepository.findFont("Courier");
-  // Set the font for all the text fragments
+  // Установить шрифт для всех текстовых фрагментов
   for (TextFragment textFragment : ```
 (Iterable)
 ```absorber.TextFragments)
   {
       textFragment.getTextState().setFont ( font);
   }
-  // Save document
+  // Сохранить документ
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -166,7 +166,7 @@ The example demonstrates how to find all text fragments on the first PDF documen
 
 --------------------
 
- Выполняет текстовый поиск и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
+Выполняет текстовый поиск и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
 
 ### TextFragmentAbsorber(String phrase) {#TextFragmentAbsorber-java.lang.String-}
 ```
@@ -181,18 +181,18 @@ public TextFragmentAbsorber(String phrase)
 ```
 The example demonstrates how to find text on the first PDF document page and replace the text and it's font.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ // Найти шрифт, который будет использоваться для изменения шрифта текста документа
  com.aspose.pdf.Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ // Создайте объект TextFragmentAbsorber, чтобы найти все вхождения текста «hello world».
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- // Accept the absorber for first page
+ // Принять поглотитель для первой страницы
  doc.getPages().get_Item(1).accept(absorber);
- // Change text and font of the first text occurrence
+ // Изменить текст и шрифт первого вхождения текста
  absorber.getTextFragments().get_Item(1).setText ( "hi world");
  absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -204,7 +204,7 @@ The example demonstrates how to find text on the first PDF document page and rep
 
 --------------------
 
-Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
+ Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
 
 ### TextFragmentAbsorber(Pattern regex) {#TextFragmentAbsorber-java.util.regex.Pattern-}
 ```
@@ -219,17 +219,17 @@ public TextFragmentAbsorber(Pattern regex)
 В примере показано, как найти текст на первой странице документа PDF и заменить текст и его шрифт.
 
 ```
-// Open document
+// Открыть документ
   Document doc = new Document("input.pdf");
-  // Find font that will be used to change document text font
+  // Найти шрифт, который будет использоваться для изменения шрифта текста документа
   Font font = FontRepository.findFont("Arial");
-  // Create TextAbsorber object to find all instances of the input regex
+  // Создайте объект TextAbsorber, чтобы найти все экземпляры входного регулярного выражения.
   TextFragmentAbsorber absorber = new TextFragmentAbsorber(new Regex("h\\w*?o"));
-  // Accept the absorber for first page
+  // Принять поглотитель для первой страницы
   doc.getPages().get_item(1).accept(absorber);
-  // we should find "hello" word and replace it with "Hi"
+  // мы должны найти слово «привет» и заменить его на «Привет»
   absorber.getTextFragments().get_item(1).setText("Hi");
-  // Save document
+  // Сохранить документ
   doc.save("output.pdf");
 ```
 
@@ -257,16 +257,16 @@ public TextFragmentAbsorber(String phrase, TextSearchOptions textSearchOptions)
 The example demonstrates how to find text with regular expression on the first PDF document page and replace
  the text.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular
+ //Создайте объект TextFragmentAbsorber, который ищет все слова, начинающиеся с «h» и заканчивающиеся на «o», используя обычные
  expression.
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("h\\w*?o", new TextSearchOptions(true));
- // we should find "hello" word and replace it with "Hi"
+ // мы должны найти слово «привет» и заменить его на «Привет»
  doc.getPages().get_Item(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
 
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -279,7 +279,7 @@ The example demonstrates how to find text with regular expression on the first P
 
 --------------------
 
-Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
+ Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
 
 ### TextFragmentAbsorber(Pattern regex, TextSearchOptions textSearchOptions) {#TextFragmentAbsorber-java.util.regex.Pattern-com.aspose.pdf.TextSearchOptions-}
 ```
@@ -294,14 +294,14 @@ public TextFragmentAbsorber(Pattern regex, TextSearchOptions textSearchOptions)
 В примере показано, как найти текст с помощью регулярного выражения на первой странице документа PDF и заменить текст.
 
 ```
-// Open document
+// Открыть документ
   Document doc = new Document("input.pdf");
-  // Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+  // Создайте объект TextFragmentAbsorber, который ищет все слова, начинающиеся с «h» и заканчивающиеся на «o», с использованием регулярного выражения.
   TextFragmentAbsorber absorber = new TextFragmentAbsorber(new Regex("h\\w*?o"), new TextSearchOptions(true));
-  // we should find "hello" word and replace it with "Hi"
+  // мы должны найти слово «привет» и заменить его на «Привет»
   doc.getPages().get_Item(1).accept(absorber);
   absorber.getTextFragments.get_Item(1).setText("Hi");
-  // Save document
+  // Сохранить документ
   doc.save("output.pdf");
 ```
 
@@ -330,15 +330,15 @@ public TextFragmentAbsorber(String phrase, TextSearchOptions textSearchOptions, 
 The example demonstrates how to find text with regular expression on the first PDF document page and replace
  the text.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular
+ //Создайте объект TextFragmentAbsorber, который ищет все слова, начинающиеся с «h» и заканчивающиеся на «o», используя обычные
  expression.
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("h\w*?o", new TextSearchOptions(true));
- // we should find "hello" word and replace it with "Hi"
+ // мы должны найти слово «привет» и заменить его на «Привет»
  doc.getPages().get_item(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -352,7 +352,7 @@ The example demonstrates how to find text with regular expression on the first P
 
 --------------------
 
-Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
+ Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
 
 ### TextFragmentAbsorber(Pattern regex, TextEditOptions textEditOptions) {#TextFragmentAbsorber-java.util.regex.Pattern-com.aspose.pdf.TextEditOptions-}
 ```
@@ -390,7 +390,7 @@ public TextFragmentAbsorber(String phrase, TextEditOptions textEditOptions)
 
 --------------------
 
-Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
+ Выполняет текстовый поиск по указанной фразе и предоставляет доступ к результатам поиска через коллекцию TextFragmentAbsorber.TextFragments.|
 
 ### applyForAllFragments(Font font) {#applyForAllFragments-com.aspose.pdf.Font-}
 ```
@@ -497,17 +497,17 @@ java.lang.String — строковое значение
 ```
 The example demonstrates how to perform search text several times and perform text replacements.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object to find all "hello" text occurrences
+ // Создайте объект TextFragmentAbsorber, чтобы найти все вхождения текста «привет»
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
  doc.getPages().get(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // search another word and replace it
+ // найти другое слово и заменить его
  absorber.setPhrase ( "world");
  doc.getPages().get(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "John");
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 ### getText() {#getText--}
@@ -547,22 +547,22 @@ public TextFragmentCollection getTextFragments()
 The example demonstrates how to find text on the first PDF document page and replace all search occurrences
  with new text.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Find font that will be used to change document text font
+ // Найти шрифт, который будет использоваться для изменения шрифта текста документа
  Font font = FontRepository.findFont("Arial");
- // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ // Создайте объект TextFragmentAbsorber, чтобы найти все вхождения текста «hello world».
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- // Accept the absorber for first page
+ // Принять поглотитель для первой страницы
  doc.getPages().get(1).accept(absorber);
- // Change text of all search occurrences
+ //Изменить текст всех вхождений поиска
  for (TextFragment textFragment : ```
 (Iterable)
 ```absorber.getTextFragments())
  {
      textFragment.setText ( "hi world");
  }
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 ### getTextReplaceOptions() {#getTextReplaceOptions--}
@@ -591,17 +591,17 @@ public TextSearchOptions getTextSearchOptions()
 ```
 The example demonstrates how to perform search text using regular expression.
 
- // Open document
+ // Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TextFragmentAbsorber object
+ // Создайте объект TextFragmentAbsorber
  TextFragmentAbsorber absorber = new TextFragmentAbsorber();
- // make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+ // заставить поглотитель искать все слова, начинающиеся с «h» и заканчивающиеся на «o», используя регулярное выражение.
  absorber.setPhrase ( "h\w*?o");
  absorber.setTextSearchOptions ( new TextSearchOptions(true));
- // we should find "hello" word and replace it with "Hi"
+ // мы должны найти слово «привет» и заменить его на «Привет»
  doc.getPages().get(1).accept(absorber);
  absorber.getTextFragments().get_Item(1).setText ( "Hi");
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 ### hasErrors() {#hasErrors--}
@@ -734,17 +734,17 @@ public void setPhrase(String value)
 ```
 The example demonstrates how to perform search text several times and perform text replacements.
 
-              // Open document
+              // Открыть документ
               Document doc = new Document("D:\\Tests\\input.pdf");
-              // Create TextFragmentAbsorber object to find all "hello" text occurrences
+              // Создайте объект TextFragmentAbsorber, чтобы найти все вхождения текста «привет»
               TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
               doc.getPages().get(1).accept(absorber);
               absorber.getTextFragments().get_Item(1).setText ( "Hi");
-              // search another word and replace it
+              // найти другое слово и заменить его
               absorber.setPhrase ( "world");
               doc.getPages().get(1).accept(absorber);
               absorber.getTextFragments().get_Item(1).setText ( "John");
-              // Save document
+              // Сохранить документ
               doc.save("D:\\Tests\\output.pdf");
 ``` |
 
@@ -795,7 +795,7 @@ Sets collection of search occurrences that are presented with  TextFragment  obj
               {
                   textFragment.setText ( "hi world");
               }
-              // Save document
+              // Сохранить документ
               doc.save("D:\\Tests\\output.pdf");
 ``` |
 
@@ -914,7 +914,7 @@ Performs search on the specified page.
  {
      textFragment.setText ( "hi world");
  }
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 

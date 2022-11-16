@@ -93,7 +93,7 @@ public SvgSaveOptions.EmbeddedImagesSavingStrategy getCustomStrategyOfEmbeddedIm
 此字段可以包含在转换期间必须使用（如果存在）的保存策略，以自定义处理嵌入到保存的 SVG 中的已创建引用外部图像文件（如嵌入的 BMP 或 JPEG）。该策略必须处理资源并返回表示生成的 SVG 中已保存资源的理想 URI 的字符串。如果由于某种原因必须由转换器代码本身而不是自定义代码来处理这个或那个文件，请在“imageSavingInfo”参数变量的自定义代码标志“CustomProcessingCancelled”中设置它向转换器发出信号，表明所有必要的处理步骤该资源必须在转换器本身中完成，就好像没有任何外部自定义代码一样。
 
 **退货：**
-[EmbeddedImagesSavingStrategy](../../com.aspose.pdf/embeddedimagessavingstrategy) EmbeddedImagesSavingStrategy 实例
+[EmbeddedImagesSavingStrategy](../../com.aspose.pdf/embeddedimagessavingstrategy) - EmbeddedImagesSavingStrategy 实例
 ### getProgressEventsRetranslator() {#getProgressEventsRetranslator--}
 ```
 public ConversionProgressEventsTranslator getProgressEventsRetranslator()

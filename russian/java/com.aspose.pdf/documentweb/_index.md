@@ -1038,7 +1038,7 @@ public DestinationCollection getDestinations()
 Устаревший. Пожалуйста, используйте NamedDestinations.
 
 **Возвращает:**
-[DestinationCollection](../../com.aspose.pdf/destinationcollection) - Объект DestinationCollection
+[DestinationCollection](../../com.aspose.pdf/destinationcollection) Объект DestinationCollection
 ### getDirection() {#getDirection--}
 ```
 public int getDirection()
@@ -1360,40 +1360,40 @@ public final ITaggedContent getTaggedContent()
 В примере показано, как использовать содержимое с тегами для создания нового документа с заголовком, абзацами и изображениями.
 
 ```
-// Create new document
+// Создать новый документ
      Document document = new Document();
 
-     // Get the tagged content
+     // Получить помеченный контент
      ITaggedContent taggedContent = document.getTaggedContent();
 
-     // Set language for document
+     //Установить язык для документа
      taggedContent.setLanguage("en-US");
 
-     // Set title for PDF document
+     // Установить заголовок для PDF-документа
      taggedContent.setTitle("Example document");
 
-     // Creating and adding Section
+     // Создание и добавление раздела
      SectElement sect = taggedContent.createSectElement();
      taggedContent.getRootElement().appendChild(sect);
 
-     // Create Header
+     // Создать заголовок
      HeaderElement h1 = taggedContent.createHeaderElement(1);
      h1.setText("The Header");
      sect.appendChild(h1);
 
-     // Create paragraph
+     // Создать абзац
      ParagraphElement p = taggedContent.createParagraphElement();
      p.setTag("Paragraph");
      p.setText("The text of paragraph.");
      sect.appendChild(p);
-     // Create illustration
+     // Создать иллюстрацию
      IllustrationElement figure1 = taggedContent.createFigureElement();
      sect.appendChild(figure1);
      figure1.setAlternativeText("Figure 1");
      figure1.setTitle("Image 1");
      figure1.setTag("Fig");
      figure1.setImage("path/of/image.jpg");
-     // Save document
+     // Сохранить документ
      document.save("example.pdf");
 ```
 

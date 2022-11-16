@@ -1432,7 +1432,7 @@ PdfContentEditor editor = new PdfContentEditor();
  for (object obj : links)
  {
      Link link = (Link)obj;
-     // work with Link instance
+     //使用 Link 实例
  }
 ```
 
@@ -1529,7 +1529,7 @@ PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf("example.pdf");
  int prefValue = editor.GetViewerPreference();
  if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
- { // ... }
+ { //... }
 ```
 
 **退货：**
@@ -1665,14 +1665,14 @@ public boolean replaceText(String srcString, int thePage, String destString)
 The example demonstrates how to replace text in PDF document on the specified page.
 
 
- // open document
+ //打开文件
  Document doc = new Document(inFile);
- // create PdfContentEditor object to edit text
+ //创建 PdfContentEditor 对象来编辑文本
  PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf(doc);
- // change text
+ //更改文本
  editor.replaceText("hello world", 1, "hi world");
- // save document
+ //保存文档
  doc.save(outFile);
 ```
 
@@ -1782,19 +1782,19 @@ Replaces text in the PDF file using specified  TextState  object.
 
 
  Document doc = new Document(inFile);
- // Create font and mark it to be embedded
+ //创建字体并将其标记为嵌入
  com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Courier New");
  font.isEmbedded ( true);
- // create PdfContentEditor object to edit text
+ //创建 PdfContentEditor 对象来编辑文本
  PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf(doc);
- // create textState object
+ //创建文本状态对象
  com.aspose.pdf.TextState textState = new com.aspose.pdf.TextState();
  textState.setFont ( font);
  textState.setFontStyle ( com.aspose.pdf.FontStyles.Bold | com.aspose.pdf.FontStyles.Italic);
- // change text with specified font
+ //使用指定字体更改文本
  editor.replaceText("hello world", "hi world", textState);
- // save document
+ //保存文档
  doc.save(outFile);
 ```
 
@@ -1822,17 +1822,17 @@ public boolean replaceText(String srcString, String destString, int fontSize)
 The example demonstrates how to replace text and set font size for the new text.
 
 
- // open document
+ //打开文件
  Document doc = new Document(inFile);
- // Create font and mark it to be embedded
+ //创建字体并将其标记为嵌入
  com.aspose.pdf.Font font = FontRepository.FindFont("Courier New");
  font.isEmbedded ( true);
- // create PdfContentEditor object to edit text
+ //创建 PdfContentEditor 对象来编辑文本
  PdfContentEditor editor = new PdfContentEditor();
  editor.bindPdf(doc);
- // change text with specified font
+ //使用指定字体更改文本
  editor.replaceText("hello world", "hi world", 14);
- // save document
+ //保存文档
  doc.save(outFile);
 ```
 

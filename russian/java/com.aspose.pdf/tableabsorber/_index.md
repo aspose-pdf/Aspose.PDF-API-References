@@ -19,18 +19,18 @@ public class TableAbsorber
 ```
 The example demonstrates how to find table on the first PDF document page and replace the text in a table cell.
 
- 	// Open document
+ 	// Открыть документ
  Document doc = new Document("D:\\Tests\\input.pdf");
- // Create TableAbsorber object to find tables
+ // Создайте объект TableAbsorber для поиска таблиц
  TableAbsorber absorber = new TableAbsorber();
- // Visit first page with absorber
+ // Посетите первую страницу с поглотителем
  absorber.visit(doc.getPages().get_Item(1));
- // Get access to first table on page, their first cell and text fragments in it
+ // Получить доступ к первой таблице на странице, их первой ячейке и текстовым фрагментам в ней
  TextFragment fragment = absorber.getTableList().get_Item(0).getRowList().get_Item(0).getCellList().get_Item(0)
  .getTextFragments().get_Item(1);
- // Change text of the first text fragment in the cell
+ // Изменить текст первого текстового фрагмента в ячейке
  fragment.setText("hi world");
- // Save document
+ // Сохранить документ
  doc.save("D:\\Tests\\output.pdf");
 ```
 ## Конструкторы
@@ -76,7 +76,7 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 --------------------
 
- Выполняет поиск таблиц и предоставляет доступ к таблицам через объект TableList.|
+Выполняет поиск таблиц и предоставляет доступ к таблицам через объект TableList.|
 
 ### TableAbsorber() {#TableAbsorber--}
 ```
@@ -269,18 +269,18 @@ public void visit(Page page)
 ```
 The example demonstrates how to extract table on the first PDF document page.
 
- // Open document
+ // Открыть документ
  Document doc = new Document(@"D:\Tests\input.pdf");
- // Create TableAbsorber object to find tables
+ // Создайте объект TableAbsorber для поиска таблиц
  TableAbsorber absorber = new TableAbsorber();
- // Visit first page with absorber
+ // Посетите первую страницу с поглотителем
  absorber.visit(pdfDocument.getPages.get_item(1));
- // Get access to first table on page, their first cell and text fragments in it
+ // Получить доступ к первой таблице на странице, их первой ячейке и текстовым фрагментам в ней
  TextFragment fragment = absorber.getTableList().get_item(0).getRowList.get_item(0).getCellList().get_item(0)
  .getTextFragments.get_item(1);
- // Change text of the first text fragment in the cell
+ // Изменить текст первого текстового фрагмента в ячейке
  fragment.setText ("hi world");
- // Save document
+ // Сохранить документ
  doc.save(@"D:\Tests\output.pdf");
 ```
 

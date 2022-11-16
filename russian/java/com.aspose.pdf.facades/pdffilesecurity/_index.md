@@ -241,8 +241,8 @@ public final boolean changePassword(String ownerPassword, String newUserPassword
 Изменяет пароль пользователя и пароль владельца на пароль владельца, сохраняя исходные настройки безопасности. Новый пароль пользователя и новый пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если новый пароль владельца недействителен или пуст. Выдает исключение, если процесс завершился неудачно.
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
-  string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //TestPath может быть переназначен.
+  string outFile = "D:\\output.pdf";	//TestPath может быть переназначен.
   PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
   fileSecurity.changePassword("owner","newuser","newowner");
 ```
@@ -268,10 +268,10 @@ public boolean changePassword(String ownerPassword, String newUserPassword, Stri
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be
- 														// re-assigned.
- string outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+string inFile = "input.pdf"; // TestPath может быть
+ 														// переназначен.
+ string outFile = "output.pdf"; // TestPath может быть
+ 															// переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.changePassword("owner", "newuser", "newowner",
  		DocumentPrivilege.Print, KeySize.x256);
@@ -300,10 +300,10 @@ public boolean changePassword(String ownerPassword, String newUserPassword, Stri
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be
- 														// re-assigned.
- string outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+string inFile = "input.pdf"; // TestPath может быть
+ 														// переназначен.
+ string outFile = "output.pdf"; // TestPath может быть
+ 															// переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.changePassword("owner", "newuser", "newowner",
  		DocumentPrivilege.Print, KeySize.x256, Algorithm.AES);
@@ -339,8 +339,8 @@ public final boolean decryptFile(String ownerPassword)
 Расшифровывает зашифрованный документ Pdf по паролю владельца. Если документ не имеет пароля владельца, можно использовать пароль пользователя. Выдает исключение, если процесс завершился неудачно.
 
 ```
-string inFile = "input.pdf"; //The TestPath may be re-assigned.
- string outFile = "output.pdf"; //The TestPath may be re-assigned.
+string inFile = "input.pdf"; //TestPath может быть переназначен.
+ string outFile = "output.pdf"; //TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  fileSecurity.decryptFile("ownerpass");
 ```
@@ -372,10 +372,10 @@ public boolean encryptFile(String userPassword, String ownerPassword, DocumentPr
 --------------------
 
 ```
-String inFile = "input.pdf"; // The TestPath may be
- 															// re-assigned.
- String outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+String inFile = "input.pdf"; // TestPath может быть
+ 															// переназначен.
+ String outFile = "output.pdf"; // TestPath может быть
+ 															// переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print,
  		KeySize.x256);
@@ -403,10 +403,10 @@ public boolean encryptFile(String userPassword, String ownerPassword, DocumentPr
 --------------------
 
 ```
-String inFile = "input.pdf"; // The TestPath may be
- 															// re-assigned.
- String outFile = "output.pdf"; // The TestPath may be
- 															// re-assigned.
+String inFile = "input.pdf"; // TestPath может быть
+ 															// переназначен.
+ String outFile = "output.pdf"; // TestPath может быть
+ 															// переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.encryptFile("userpass", "ownerpass", DocumentPrivilege.Print,
  		KeySize.x256, Algorithm.AES);
@@ -623,8 +623,8 @@ public boolean setPrivilege(DocumentPrivilege privilege)
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be re-assigned.
- string outFile = "output.pdf"; // The TestPath may be re-assigned.
+string inFile = "input.pdf"; // TestPath может быть переназначен.
+ string outFile = "output.pdf"; // TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.setPrivilege(DocumentPrivilege.Print);
 ```
@@ -648,8 +648,8 @@ public boolean setPrivilege(String userPassword, String ownerPassword, DocumentP
 --------------------
 
 ```
-string inFile = "input.pdf"; // The TestPath may be re-assigned.
- string outFile = "output.pdf"; // The TestPath may be re-assigned.
+string inFile = "input.pdf"; // TestPath может быть переназначен.
+ string outFile = "output.pdf"; // TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile, outFile);
  fileSecurity.setPrivilege(userPassword, ownerPassword, DocumentPrivilege.getPrint());
 ```
@@ -683,8 +683,8 @@ public final boolean tryChangePassword(String ownerPassword, String newUserPassw
 Изменяет пароль пользователя и пароль владельца на пароль владельца, сохраняя исходные настройки безопасности. Новый пароль пользователя и новый пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен. Не генерирует исключение в случае сбоя процесса. со случайной строкой, если пароль нового владельца нулевой или пустой.
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
-  string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //TestPath может быть переназначен.
+  string outFile = "D:\\output.pdf";	//TestPath может быть переназначен.
   PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
   bool result = fileSecurity.tryChangePassword("owner","newuser","newowner");
 ```
@@ -708,8 +708,8 @@ public final boolean tryChangePassword(String ownerPassword, String newUserPassw
 Изменяет пароль пользователя и пароль на пароль владельца, позволяет сбросить безопасность документа Pdf. Новый пароль пользователя и новый пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если новый пароль владельца недействителен или пуст. Не генерирует исключение, если процесс завершился неудачно.
 
 ```
-string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = ".D:\\input.pdf"; //TestPath может быть переназначен.
+ string outFile = "D:\\output.pdf";	//TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.tryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256);
 ```
@@ -735,8 +735,8 @@ public final boolean tryChangePassword(String ownerPassword, String newUserPassw
 Изменяет пароль пользователя и пароль на пароль владельца, позволяет сбросить безопасность документа Pdf. Новый пароль пользователя и новый пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если новый пароль владельца недействителен или пуст. Существует 6 возможных комбинаций значений KeySize и Algorithm. Однако (KeySize.x40, Algorithm.AES) и (KeySize.x256, Algorithm.RC4) недействительны, и если комплект встретит эту комбинацию, будет возбуждено соответствующее исключение. Не генерирует исключение, если процесс завершился неудачно.
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //TestPath может быть переназначен.
+ string outFile = "D:\\output.pdf";	//TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.changePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);
 ```
@@ -763,8 +763,8 @@ public final boolean tryDecryptFile(String ownerPassword)
 Расшифровывает зашифрованный документ Pdf по паролю владельца. Если документ не имеет пароля владельца, можно использовать пароль пользователя. Не генерирует исключение, если процесс завершился неудачно.
 
 ```
-string inFile = "input.pdf"; //The TestPath may be re-assigned.
- string outFile = "output.pdf"; //The TestPath may be re-assigned.
+string inFile = "input.pdf"; //TestPath может быть переназначен.
+ string outFile = "output.pdf"; //TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.TryDecryptFile("ownerpass");
 ```
@@ -786,8 +786,8 @@ public final boolean tryEncryptFile(String userPassword, String ownerPassword, D
 Шифрует файл Pdf с помощью пароля пользователя и пароля владельца и устанавливает права доступа к документу. Пароль пользователя и пароль владельца могут быть нулевыми или пустыми. Пароль владельца будет заменен случайной строкой, если введенный пароль владельца нулевой или пустой. Не генерирует исключение, если процесс завершился неудачно.
 
 ```
-string inFile = "input.pdf"; //The TestPath may be re-assigned.
- string outFile = "output.pdf"; //The TestPath may be re-assigned.
+string inFile = "input.pdf"; //TestPath может быть переназначен.
+ string outFile = "output.pdf"; //TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.tryEncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256);
 ```
@@ -812,8 +812,8 @@ public final boolean trySetPrivilege(String userPassword, String ownerPassword, 
 Устанавливает безопасность файла Pdf с исходным паролем. Не генерирует исключение, если процесс завершился неудачно.
 
 ```
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
+string inFile = "D:\\input.pdf"; //TestPath может быть переназначен.
+ string outFile = "D:\\output.pdf"; //TestPath может быть переназначен.
  PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);
  bool result = fileSecurity.trySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
 ```

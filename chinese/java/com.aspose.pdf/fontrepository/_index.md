@@ -20,21 +20,21 @@ public final class FontRepository
 The example demonstrates how to find font and replace the font of text of first page.
  
   
-  // Find font
+  //查找字体
   Font font = FontRepository.findFont("Arial");
   
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Change font of the first text occurrence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 ## 构造函数
@@ -159,21 +159,21 @@ public static Font findFont(String fontName)
 ```
 The example demonstrates how to find font and replace the font of text of first page.
  
-  // Find font
+  //查找字体
   Font font = FontRepository.findFont("Arial");
   
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Change font of the first text occurrence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -198,21 +198,21 @@ public static Font findFont(String fontName, boolean ignoreCase)
 ```
 The example demonstrates how to find font and replace the font of text of first page.
  
-  // Find font
+  //查找字体
   Font font = FontRepository.findFont("Arial", FontStyles.Italic);
   
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Change font of the first text occurence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -238,21 +238,21 @@ public static Font findFont(String fontFamilyName, int stl)
 ```
 The example demonstrates how to find font and replace the font of text of first page.
  
-  // Find font
+  //查找字体
   Font font = FontRepository.findFont("Arial", FontStyles.Italic);
   
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Change font of the first text occurence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -278,22 +278,22 @@ public static Font findFont(String fontFamilyName, int stl, boolean ignoreCase)
 ```
 The example demonstrates how to find font and replace the font of text of first page.
  
-  // Find font
+  //查找字体
   
   Font font = FontRepository.findFont("Arial", FontStyles.Italic, true);
   
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Change font of the first text occurence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -420,23 +420,23 @@ public static Font openFont(InputStream fontStream, int fontType)
 ```
 The example demonstrates how to open font and replace the font of text of first page.
   
-  // Open font
+  //打开字体
   InputStream fontStream = new FileInputStream("C:\\WINDOWS\\Fonts\\arial.ttf"))
   {
       Font font = FontRepository.openFont(fontStream, , FontTypes.TTF);
   
-      // Open document
+      //打开文档
       Document doc = new Document("D:\\Tests\\input.pdf");
-      // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+      //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-      // Accept the absorber for first page
+      //接受第一页的吸收器
       doc.getPages().get_Item(1).accept(absorber);
   
-      // Change font of the first text occurrence
+      //更改第一个文本出现的字体
       absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
   
-      // Save document
+      //保存文件
       doc.save("D:\\Tests\\output.pdf"); 
   }
 ```
@@ -463,21 +463,21 @@ public static Font openFont(String fontFilePath)
 ```
 The example demonstrates how to open font and replace the font of text of first page.
  
-  // Open font
+  //打开字体
   Font font = FontRepository.openFont("C:\\WINDOWS\\Fonts\\arial.ttf");
   
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Change font of the first text occurrence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -502,21 +502,21 @@ public static Font openFont(String fontFilePath, String metricsFilePath)
 ```
 The example demonstrates how to open Type1 font with metrics and replace the font of text of first page.
   
-  // Open font
+  //打开字体
   Font font = FontRepository.openFont("courier.pfb", "courier.afm");
   
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
   
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get_Item(1).accept(absorber);
   
-  // Change font of the first text occurrence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).sgetTextState().setFont(font);
   
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 

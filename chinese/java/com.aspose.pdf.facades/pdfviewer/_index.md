@@ -454,7 +454,7 @@ public RenderingOptions getRenderingOptions()
 获取渲染选项。
 
 **退货：**
-[RenderingOptions](../../com.aspose.pdf/renderingoptions) 渲染选项对象
+[RenderingOptions](../../com.aspose.pdf/renderingoptions) - 渲染选项对象
 ### getResolution() {#getResolution--}
 ```
 public int getResolution()
@@ -588,9 +588,9 @@ public void printDocument()
 ```
 PdfViewer viewer = new PdfViewer();
  viewer.openPdfFile("d:\\test.pdf");
- viewer.setAutoResize ( true);         //print the file with adjusted size
- viewer.setAutoRotate ( true);         //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);   //do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);         //打印调整大小的文件
+ viewer.setAutoRotate ( true);         //打印调整后的旋转文件
+ viewer.setPrintPageDialog ( false);   //打印时不产生页码对话框
  viewer.printDocument(ps);
  viewer.closePdfFile();
 ```
@@ -608,9 +608,9 @@ public void printDocumentWithSettings(PdfPrinterSettings printerSettings)
 ```
 PdfViewer viewer = new PdfViewer();
  viewer.openPdfFile("d:\\test.pdf");
- viewer.setAutoResize ( true);         //print the file with adjusted size
- viewer.setAutoRotate ( true);         //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);   //do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);         //打印调整大小的文件
+ viewer.setAutoRotate ( true);         //打印调整后的旋转文件
+ viewer.setPrintPageDialog ( false);   //打印时不产生页码对话框
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings().PrinterName());
@@ -637,9 +637,9 @@ public void printDocumentWithSettings(PrintPageSettings pageSettings, PdfPrinter
 ```
 PdfViewer viewer = new PdfViewer();
  viewer.openPdfFile("d:\\test.pdf");
- viewer.setAutoResize ( true);         //print the file with adjusted size
- viewer.setAutoRotate ( true);         //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);         //打印调整大小的文件
+ viewer.setAutoRotate ( true);         //打印调整后的旋转文件
+ viewer.setPrintPageDialog ( false);//打印时不产生页码对话框
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings.getPrinterName());
@@ -659,7 +659,7 @@ PdfViewer viewer = new PdfViewer();
 
 --------------------
 
-printerSettings 对象用于打印文档。 pageSettings.PrinterSettings 对象被忽略。|
+ printerSettings 对象用于打印文档。 pageSettings.PrinterSettings 对象被忽略。|
 
 ### printLargePdf(InputStream inputStream) {#printLargePdf-java.io.InputStream-}
 ```
@@ -673,9 +673,9 @@ public void printLargePdf(InputStream inputStream)
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize ( true);        //print the file with adjusted size
- viewer.setAutoRotate ( true);        //print the file with adjusted rotation
- viewer.printPageDialog=false;//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);        //打印调整大小的文件
+ viewer.setAutoRotate ( true);        //打印调整后的旋转文件
+ viewer.printPageDialog=false;//打印时不产生页码对话框
  viewer.printLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")));
  viewer.closePdfFile();
 ```
@@ -702,10 +702,10 @@ public void printLargePdf(InputStream inputStream, PdfPrinterSettings printerSet
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize(true); // print the file with adjusted size
- viewer.setAutoRotate(true); // print the file with adjusted rotation
- viewer.setPrintPageDialog(false); // do not produce the page number dialog when
- 				  // printing
+ viewer.setAutoResize(true); //打印调整大小的文件
+ viewer.setAutoRotate(true); //打印调整后的旋转文件
+ viewer.setPrintPageDialog(false); //不产生页码对话框时
+ 				  //印刷
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName(prtdoc.getPrinterSettings().getPrinterName());
@@ -736,9 +736,9 @@ public void printLargePdf(InputStream inputStream, PrintPageSettings pageSetting
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize ( true);       //print the file with adjusted size
- viewer.setAutoRotate ( true);       //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);       //打印调整大小的文件
+ viewer.setAutoRotate ( true);       //打印调整后的旋转文件
+ viewer.setPrintPageDialog ( false);//打印时不产生页码对话框
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings().getPrinterName());
@@ -773,10 +773,10 @@ public void printLargePdf(String filePath)
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize(true); // print the file with adjusted size
- viewer.setAutoRotate(true); // print the file with adjusted rotation
- viewer.setPrintPageDialog(false);// do not produce the page number dialog when
- 									// printing
+ viewer.setAutoResize(true); //打印调整大小的文件
+ viewer.setAutoRotate(true); //打印调整后的旋转文件
+ viewer.setPrintPageDialog(false);//不产生页码对话框时
+ 									//印刷
  viewer.setPrintLargePdf("d:\test.pdf");
 ```
 
@@ -802,9 +802,9 @@ public void printLargePdf(String filePath, PdfPrinterSettings printerSettings)
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize ( true);       //print the file with adjusted size
- viewer.setAutoRotate ( true);       //print the file with adjusted rotation
- viewer.setPrintPageDialog ( false);//do not produce the page number dialog when printing
+ viewer.setAutoResize ( true);       //打印调整大小的文件
+ viewer.setAutoRotate ( true);       //打印调整后的旋转文件
+ viewer.setPrintPageDialog ( false);//打印时不产生页码对话框
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName ( prtdoc.getPrinterSettings().getPrinterName());
@@ -835,10 +835,10 @@ public void printLargePdf(String filePath, PrintPageSettings pageSettings, PdfPr
 
 ```
 PdfViewer viewer = new PdfViewer();
- viewer.setAutoResize(true); // print the file with adjusted size
- viewer.setAutoRotate(true); // print the file with adjusted rotation
- viewer.setPrintPageDialog(false); // do not produce the page number dialog when
- 				  // printing
+ viewer.setAutoResize(true); //打印调整大小的文件
+ viewer.setAutoRotate(true); //打印调整后的旋转文件
+ viewer.setPrintPageDialog(false); //不产生页码对话框时
+ 				  //印刷
  PrinterSettings ps = new PrinterSettings();
  PrintDocument prtdoc = new PrintDocument();
  ps.setPrinterName(prtdoc.getPrinterSettings().getPrinterName());

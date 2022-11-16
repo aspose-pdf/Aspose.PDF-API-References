@@ -424,7 +424,7 @@ PdfExtractor extractor = new PdfExtractor();
 ```
 
 **Возвращает:**
-java.io.ByteArrayOutputStream[] - Потоковый массив вложенного файла в pdf-документе.
+java.io.ByteArrayOutputStream[- Потоковый массив вложенного файла в pdf-документе.
 ### getAttachment(String outputPath) {#getAttachment-java.lang.String-}
 ```
 public void getAttachment(String outputPath)

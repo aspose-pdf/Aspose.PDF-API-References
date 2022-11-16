@@ -100,7 +100,7 @@ public final Color getBackgroundColor()
 获取/设置背景颜色。默认值：透明。
 
 **退货：**
-[Color](../../com.aspose.pdf/color) com.aspose.pdf.Color 实例
+[Color](../../com.aspose.pdf/color) - com.aspose.pdf.Color 实例
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -210,7 +210,7 @@ public final Color getForegroundColor()
 获取/设置前景颜色（文本颜色）。默认值：蓝色。
 
 **退货：**
-[Color](../../com.aspose.pdf/color) com.aspose.pdf.Color 实例
+[Color](../../com.aspose.pdf/color) - com.aspose.pdf.Color 实例
 ### getLocationLabel() {#getLocationLabel--}
 ```
 public final String getLocationLabel()

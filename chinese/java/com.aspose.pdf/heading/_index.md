@@ -282,16 +282,16 @@ The example demonstrates how to view placement of a text, represented by ```
 TextFragment
 ``` object.
 
-   // Open document
+   //打开文档
    Document doc = new Document("D:\\Tests\\input.pdf");
 
-   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+   //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
    TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-   // Accept the absorber for first page
+   //接受第一页的吸收器
    doc.getPages().get(1).accept(absorber);
 
-   // View text and placement info of first text occurrence
+   //查看第一个文本出现的文本和位置信息
    TextFragment firstOccurrence = absorber.getTextFragments().get_Item(1);
 
    System.out.println("fragment text: " + firstOccurrence.getText()));
@@ -338,16 +338,16 @@ TextSegment
 TextFragment
 ```.
 
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get(1).accept(absorber);
 
-  // Navigate all text segments and out their text and placement info
+  //导航所有文本段并找出它们的文本和位置信息
   for (TextSegment segment : (```
 Iterable
 ```)absorber.getTextFragments().get_Item(1).getSegments())
@@ -400,19 +400,19 @@ The example demonstrates how to search a text and replace first occurrence repre
   TextFragment
 ``` object .
 
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get(1).accept(absorber);
 
-  // Change font of the first text occurrence
+  //更改第一个文本出现的字体
   absorber.getTextFragments().get_Item(1).setText ( "hi world");
 
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 ### getTextState() {#getTextState--}
@@ -433,22 +433,22 @@ The example demonstrates how to change text color and font size of the text with
 TextState
 ``` object.
 
-  // Open document
+  //打开文档
   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-  // Accept the absorber for first page
+  //接受第一页的吸收器
   doc.getPages().get(1).accept(absorber);
 
-  // Change foreground color of the first text occurrence
+  //更改第一个文本出现的前景色
   absorber.getTextFragments().get_Item(1).getTextState().setForegroundColor(Color.RED);
 
-  // Change font size of the first text occurrence
+  //更改第一个文本出现的字体大小
   absorber.getTextFragments().get_Item(1).getTextState().setFontSize ( 15);
 
-  // Save document
+  //保存文件
   doc.save("D:\\Tests\\output.pdf");
 ```
 
@@ -944,19 +944,19 @@ Sets  string  text object that the  TextFragment  object represents.
 文本片段
 ``` object .
 
-                       // Open document
+                       //打开文档
                        Document doc = new Document("D:\\Tests\\input.pdf");
 
-                       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+                       //创建 TextFragmentAbsorber 对象以查找所有出现的“hello world”文本
                        TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-                       // Accept the absorber for first page
+                       //接受第一页的吸收器
                        doc.getPages().get(1).accept(absorber);
 
-                       // Change font of the first text occurrence
+                       //更改第一个文本出现的字体
                        absorber.getTextFragments().get_Item(1).setText ( "hi world");
 
-                       // Save document
+                       //保存文件
                        doc.save("D:\\Tests\\output.pdf");
 ``` |
 

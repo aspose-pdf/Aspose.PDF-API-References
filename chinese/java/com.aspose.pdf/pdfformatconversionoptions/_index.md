@@ -293,7 +293,7 @@ public PdfFormat getFormat()
 PDF 格式。
 
 **退货：**
-[PdfFormat](../../com.aspose.pdf/pdfformat) PdfFormat 元素
+[PdfFormat](../../com.aspose.pdf/pdfformat) - PdfFormat 元素
 ### getIccProfileFileName() {#getIccProfileFileName--}
 ```
 public String getIccProfileFileName()

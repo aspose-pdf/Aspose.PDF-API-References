@@ -136,7 +136,7 @@ public ExplicitDestination getExplicitDestination(String destinameName, boolean 
 | useCache | boolean | 确定是否使用缓存版本的集合。 |
 
 **退货：**
-[ExplicitDestination](../../com.aspose.pdf/explicitdestination) 找到目标的 ExplicitDestination 对象；否则为空。
+[ExplicitDestination](../../com.aspose.pdf/explicitdestination) - 找到目标的 ExplicitDestination 对象；否则为空。
 ### getPageNumber(String destinameName, boolean useCache) {#getPageNumber-java.lang.String-boolean-}
 ```
 public int getPageNumber(String destinameName, boolean useCache)

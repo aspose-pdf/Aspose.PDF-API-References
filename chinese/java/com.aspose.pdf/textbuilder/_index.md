@@ -53,7 +53,7 @@ public TextBuilder(Page page)
 
 --------------------
 
-TextBuilder 允许将文本对象附加到 Pdf 页面。|
+ TextBuilder 允许将文本对象附加到 Pdf 页面。|
 
 ### TextBuilder(Page page, BaseOperatorCollection operatorCollection) {#TextBuilder-com.aspose.pdf.Page-com.aspose.pdf.BaseOperatorCollection-}
 ```
@@ -85,21 +85,21 @@ The example demonstrates how to create text paragraph object and append it to th
  
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text paragraph
+ //创建文本段落
  TextParagraph paragraph = new TextParagraph();
             
- // set the paragraph rectangle
+ //设置段落矩形
  paragraph.setRectangle ( new Rectangle(100, 600, 200, 700));
- // set word wrapping options
+ //设置自动换行选项
  paragraph.getFormattingOptions().setWrapMode ( TextFormattingOptions.WordWrapMode.ByWords);
- // append string lines
+ //附加字符串行
  paragraph.appendLine("the quick brown fox jumps over the lazy dog");
  paragraph.appendLine("line2");
  paragraph.appendLine("line3");
- // append the paragraph to the Pdf page with the TextBuilder
+ //使用 TextBuilder 将段落附加到 Pdf 页面
  TextBuilder textBuilder = new TextBuilder(page);
  textBuilder.appendParagraph(paragraph);
- // save Pdf document
+ //保存 Pdf 文件
  doc.save(outFile);
 ```
 
@@ -139,23 +139,23 @@ The example demonstrates how to create text fragment object, customize it's text
  
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
- // create text fragment
+ //创建文本片段
  TextFragment tf = new TextFragment("main text");
  tf.Position = new Position(100, 600);
- // set it's text properties
+ //设置它的文本属性
  tf.getTextState().setFontSize ( 5);
  tf.getTextState().setFont ( FontRepository.FindFont("TimesNewRoman"));
  tf.getTextState().setBackgroundColor ( Color.GREY);
  tf.getTextState().setForegroundColor ( Color.Red);
- // add one more segment to text fragment's Segments collection
+ //在文本片段的 Segments 集合中再添加一个片段
  TextSegment segment2 = new TextSegment();
  segment2.setText ( "another segment");
  tf.getSegments.add(segment2);
- // create TextBuilder object
+ //创建 TextBuilder 对象
  TextBuilder builder = new TextBuilder(page);
- // append the text fragment to the Pdf page
+ //将文本片段附加到 Pdf 页面
  builder.appendText(tf);
- //save document
+ //保存文档
  doc.save(outFile);
 ```
 
