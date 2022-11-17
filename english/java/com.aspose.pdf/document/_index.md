@@ -1000,7 +1000,7 @@ Gets document actions. This property is instance of DocumentActions class which 
 --------------------
 
 ```
-This example demonstrates how to obtain after open action of the document:
+// This example demonstrates how to obtain after open action of the document:
 
  Document document = new Document("PdfWithOpenAction.pdf");
  DocumentActionCollection actions = document.getActions();
@@ -1297,7 +1297,7 @@ Gets action performed at document opening.
 --------------------
 
 ```
-Example demonstrates how to get CenterWindow flag:
+// Example demonstrates how to get CenterWindow flag:
 
  Document document = new Document("sample.pdf");
  IAppointment value = document.getOpenAction();
@@ -1379,8 +1379,8 @@ Gets collection of document pages. Note that pages are numbered from 1 in collec
 --------------------
 
 ```
-Example below demonstrates how to operate with the document pages:
- How to obtain number of pages and how to obtain rectangle of starting page of the document.
+// Example below demonstrates how to operate with the document pages:
+// How to obtain number of pages and how to obtain rectangle of starting page of the document.
 
  Document document = new Document("sample.pdf");
  PageCollection  pages = document.getPages();
@@ -1419,7 +1419,7 @@ Gets access to TaggedPdf content.
 The example demonstrates how to use tagged content for creating new document with header, paragraphs and images.
 
 ```
-// Create new document
+	// Create new document
      Document document = new Document();
 
      // Get the tagged content
@@ -1541,7 +1541,7 @@ boolean - boolean value
 --------------------
 
 ```
-Example demonstrates how to get CenterWindow flag:
+// Example demonstrates how to get CenterWindow flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isCenterWindow();
@@ -1570,7 +1570,7 @@ boolean - boolean value
 --------------------
 
 ```
-Example demonstrates how to get DisplayDocTitle flag:
+// Example demonstrates how to get DisplayDocTitle flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isDisplayDocTitle();
@@ -1638,7 +1638,7 @@ boolean - boolean value
 --------------------
 
 ```
-Example demonstrates how to get HideMenubar flag:
+// Example demonstrates how to get HideMenubar flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideMenubar();
@@ -1657,7 +1657,7 @@ boolean - boolean value
 --------------------
 
 ```
-Example demonstrates how to get HideToolBar flag:
+// Example demonstrates how to get HideToolBar flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideToolBar();
@@ -1676,7 +1676,7 @@ boolean - boolean value
 --------------------
 
 ```
-Example demonstrates how to get HideWindowUI flag:
+// Example demonstrates how to get HideWindowUI flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideWindowUI();
@@ -1868,7 +1868,13 @@ Save document incrementally (i.e. using incremental update technique).
 
 --------------------
 
-In order to save document incrementally we should open the document file for writing. Therefore Document must not be initialized with InputStream but with path to the file, like in the next code snippet: Document doc = new Document("document.pdf"); // make some changes and save the document incrementally doc.save();
+In order to save document incrementally we should open the document file for writing. Therefore Document must not be initialized with InputStream but with path to the file, like in the next code snippet: 
+
+```
+Document doc = new Document("document.pdf"); 
+// make some changes and save the document incrementally 
+doc.save();
+```
 
 In case when document was initialized with InputStream, writing to InputStream is impossible, so we recommend to use separate methods "save" to save document or "saveIncrementally" to save document incrementally.
 

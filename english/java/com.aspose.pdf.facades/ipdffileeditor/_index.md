@@ -5,7 +5,8 @@ description: Implements operations with PDF file concatenation splitting extract
 type: docs
 weight: 70
 url: /java/com.aspose.pdf.facades/ipdffileeditor/
----```
+---
+```
 public interface IPdfFileEditor
 ```
 

@@ -1,0 +1,174 @@
+---
+title: SelectorRendition
+second_title: 用于 Java API 参考的 Aspose.PDF
+description: 类描述选择器再现。
+type: docs
+weight: 322
+url: /zh/java/com.aspose.pdf/selectorrendition/
+---
+**遗产：**
+java.lang.Object, [com.aspose.pdf.Rendition](../../com.aspose.pdf/rendition)
+```
+public final class SelectorRendition extends Rendition
+```
+
+类描述选择器再现。
+## 方法
+
+| 方法 | 描述 |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getName()](#getName--) | 指定再现名称的文本字符串，用于用户界面和 JavaScript 操作的名称树查找。 |
+| [getRenditionType()](#getRenditionType--) | 获取再现类型。 |
+| [getRenditions()](#getRenditions--) | 获取演绎版数组。 |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setName(String value)](#setName-java.lang.String-) | 指定再现名称的文本字符串，用于用户界面和 JavaScript 操作的名称树查找。 |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**参数：**
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**退货：**
+布尔值
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**退货：**
+java.lang.Class<?>
+### getName() {#getName--}
+```
+public final String getName()
+```
+
+
+指定再现名称的文本字符串，用于用户界面和 JavaScript 操作的名称树查找。
+
+**退货：**
+java.lang.String - 字符串值
+### getRenditionType() {#getRenditionType--}
+```
+public final int getRenditionType()
+```
+
+
+获取再现类型。
+
+**退货：**
+int - RenditionType 元素
+### getRenditions() {#getRenditions--}
+```
+public final Rendition[] getRenditions()
+```
+
+
+获取演绎版数组。
+
+**退货：**
+com.aspose.pdf.Rendition[] - 演绎数组
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**退货：**
+整数
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setName(String value) {#setName-java.lang.String-}
+```
+public final void setName(String value)
+```
+
+
+指定再现名称的文本字符串，用于用户界面和 JavaScript 操作的名称树查找。
+
+**参数：**
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| value | java.lang.String | 字符串值 |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**退货：**
+java.lang.字符串
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**参数：**
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**参数：**
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
