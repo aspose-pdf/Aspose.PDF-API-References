@@ -45,6 +45,8 @@ public sealed class FormattedText
 | --- | --- |
 | [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext)(string) | Adds a new line to the FormattedText object and sets the newLineText to the next line's text. |
 | [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext#addnewlinetext_1)(string, float) | Adds a new line to the FormattedText object and sets the newLineText to the next line's text. |
+| [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk)() | Checks if text is CJK (Chinese, Japanese, or Korean). |
+| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle)() | Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font. |
 
 ### See Also
 

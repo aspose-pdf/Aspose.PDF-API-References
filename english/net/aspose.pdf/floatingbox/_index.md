@@ -24,7 +24,7 @@ public class FloatingBox : BaseParagraph
 | Name | Description |
 | --- | --- |
 | [BackgroundColor](../../aspose.pdf/floatingbox/backgroundcolor) { get; set; } | Gets or sets a [`Color`](../color) object that indicates the background color of the floating box. |
-| [BackgroundImage](../../aspose.pdf/floatingbox/backgroundimage) { get; set; } | Gets or sets background image for page (for generator only). |
+| [BackgroundImage](../../aspose.pdf/floatingbox/backgroundimage) { get; set; } | Gets or sets background image for page (for generator only, not filled in when reading document). |
 | [Border](../../aspose.pdf/floatingbox/border) { get; set; } | Gets or sets a [`BorderInfo`](../borderinfo) object that indicates the border info of the floating box. |
 | [ColumnInfo](../../aspose.pdf/floatingbox/columninfo) { get; set; } | Gets or sets a column info |
 | [Height](../../aspose.pdf/floatingbox/height) { get; set; } | Gets or sets a float value that indicates the height of the floating box. |
