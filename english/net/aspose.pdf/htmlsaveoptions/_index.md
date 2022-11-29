@@ -79,6 +79,47 @@ public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOpt
 | [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 | [TrySaveTextUnderliningAndStrikeoutingInCss](../../aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss) | PDF itself does not contain underlining markers for texts. It emulated with line situated under text. This option allows converter try guess that this or that line is a text's underlining and put this info into CSS instead of drawing of underlining graphically |
 
+## Examples
+
+The following example shows how to convert PDF file to HTML file
+
+```csharp
+[C#]
+// The path to the documents directory.
+string dataDir = "YOUR_DATA_DIRECTORY";
+// The path to your PDF File.
+var pdfFile = Path.Combine(dataDir, "PDF-to-HTML.pdf");
+// The path to output HTML File.
+var htmlFile= Path.Combine(dataDir, "PDF-to-HTML.html");
+    
+using (Document pdfDocument = new Document(pdfFile)){
+    // initialize HtmlSaveOptions 	
+    HtmlSaveOptions saveOptions = new HtmlSaveOptions();
+    
+    // Save HTML file
+    pdfDocument.Save(htmlFile, saveOptions);
+}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-HTML.pdf")
+    ' The path to output HTML File.
+    Dim htmlFile = Path.Combine(dataDir, "PDF-to-HTML.html")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' initialize HtmlSaveOptions    
+        Dim saveOptions As HtmlSaveOptions = New HtmlSaveOptions()
+ 
+        ' Save HTML file
+        pdfDocument.Save(htmlFile, saveOptions)
+    End Using
+```
+
 ### See Also
 
 * class [UnifiedSaveOptions](../unifiedsaveoptions)

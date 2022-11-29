@@ -27,6 +27,49 @@ public class ApsLoadOptions : LoadOptions
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
+## Examples
+
+The following example shows how to convert APS file to PDF file
+
+```csharp
+[C#]
+// The path to the documents directory.
+string dataDir = @"YOUR_DATA_DIRECTORY";
+// The path to your APS File.
+string apsFile = Path.Combine(dataDir, "APS-to-PDF.aps");
+// The path to output PDF File.
+string pdfFile = Path.Combine(dataDir, "APS-to-PDF.pdf");
+
+// initialize ApsLoadOptions  	
+    ApsLoadOptions apsLoadOptions = new ApsLoadOptions();
+    
+using (Document pdfDocument = new Document(apsFile, apsLoadOptions)){
+ 
+    // Save PDF file
+    pdfDocument.Save(pdfFile);
+}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The path to your APS File.
+    Dim apsFile = Path.Combine(dataDir, "APS-to-PDF.aps")
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "APS-to-PDF.pdf")
+ 
+    ' initialize ApsLoadOptions    
+    Dim apsLoadOptions As ApsLoadOptions = New ApsLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(apsFile, apsLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
 ### See Also
 
 * class [LoadOptions](../loadoptions)

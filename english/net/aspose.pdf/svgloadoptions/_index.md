@@ -35,6 +35,49 @@ public sealed class SvgLoadOptions : LoadOptions
 | --- | --- |
 | [ConversionEngine](../../aspose.pdf/svgloadoptions/conversionengine) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine |
 
+## Examples
+
+The following example shows how to convert SVG file to PDF file
+
+```csharp
+[C#]
+// The path to the documents directory.
+string dataDir = @"YOUR_DATA_DIRECTORY";
+// The path to your SVG File.
+string svgFile = Path.Combine(dataDir, "SVG-to-PDF.svg");
+// The path to output PDF File.
+string pdfFile = Path.Combine(dataDir, "SVG-to-PDF.pdf");
+
+// initialize SvgLoadOptions	
+    SvgLoadOptions svgLoadOptions = new SvgLoadOptions();
+    
+using (Document pdfDocument = new Document(svgFile, svgLoadOptions)){
+ 
+    // Save PDF file
+    pdfDocument.Save(pdfFile);
+}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The path to your SVG File.
+    Dim svgFile = Path.Combine(dataDir, "SVG-to-PDF.svg")
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "SVG-to-PDF.pdf")
+ 
+    ' initialize SvgLoadOptions
+    Dim svgLoadOptions As SvgLoadOptions = New SvgLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(svgFile, svgLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
 ### See Also
 
 * class [LoadOptions](../loadoptions)

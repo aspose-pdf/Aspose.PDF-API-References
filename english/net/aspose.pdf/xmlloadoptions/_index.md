@@ -30,6 +30,49 @@ public class XmlLoadOptions : LoadOptions
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 | [XslStream](../../aspose.pdf/xmlloadoptions/xslstream) { get; } | Gets xsl data for converting xml into pdf document. |
 
+## Examples
+
+The following example shows how to convert XML file to PDF file
+
+```csharp
+[C#]
+// The path to the documents directory.
+string dataDir = @"YOUR_DATA_DIRECTORY";
+// The path to your XML File.
+string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
+// The path to output PDF File.
+string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
+
+// initialize XmlLoadOptions	
+    XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
+    
+using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions)){
+ 
+    // Save XML file
+    pdfDocument.Save(pdfFile);
+}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The path to your XML File.
+    Dim xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml")
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf")
+ 
+    ' initialize XmlLoadOptions
+    Dim xmlLoadOptions As XmlLoadOptions = New XmlLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(xmlFile, xmlLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
 ### See Also
 
 * class [LoadOptions](../loadoptions)

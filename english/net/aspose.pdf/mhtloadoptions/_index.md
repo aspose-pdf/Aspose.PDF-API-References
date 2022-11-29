@@ -28,6 +28,49 @@ public sealed class MhtLoadOptions : LoadOptions
 | [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo) { get; } | Gets or sets document page info |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
+## Examples
+
+The following example shows how to convert MHT file to PDF file
+
+```csharp
+[C#]
+// The path to the documents directory.
+string dataDir = @"YOUR_DATA_DIRECTORY";
+// The path to your MHT File.
+string mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht");
+// The path to output PDF File.
+string pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf");
+
+// initialize MhtLoadOptions	
+    MhtLoadOptions mhtLoadOptions = new MhtLoadOptions();
+    
+using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions)){
+ 
+    // Save PDF file
+    pdfDocument.Save(pdfFile);
+}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The path to your MHT File.
+    Dim mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht")
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf")
+ 
+    ' initialize MhtLoadOptions
+    Dim mhtLoadOptions As MhtLoadOptions = New MhtLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(mhtFile, mhtLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+	
 ### See Also
 
 * class [LoadOptions](../loadoptions)

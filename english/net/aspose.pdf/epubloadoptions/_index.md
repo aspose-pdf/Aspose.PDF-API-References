@@ -37,6 +37,49 @@ public sealed class EpubLoadOptions : LoadOptions
 | [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
 | [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specified horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document). |
 
+## Examples
+
+The following example shows how to convert EPUB file to PDF file
+
+```csharp
+[C#]
+// The path to the documents directory.
+string dataDir = @"YOUR_DATA_DIRECTORY";
+// The path to your EPUB File.
+string epubFile = Path.Combine(dataDir, "EPUB-to-PDF.epub");
+// The path to output PDF File.
+string pdfFile = Path.Combine(dataDir, "EPUB-to-PDF.pdf");
+
+// initialize EpubLoadOptions 	
+    EpubLoadOptions epubLoadOptions = new EpubLoadOptions();
+    
+using (Document pdfDocument = new Document(epubFile, epubLoadOptions)){
+ 
+    // Save PDF file
+    pdfDocument.Save(pdfFile);
+}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The path to your EPUB File.
+    Dim epubFile = Path.Combine(dataDir, "EPUB-to-PDF.epub")
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "EPUB-to-PDF.pdf")
+ 
+    ' initialize EpubLoadOptions    
+    Dim epubLoadOptions As EpubLoadOptions = New EpubLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(epubFile, epubLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
 ### See Also
 
 * class [LoadOptions](../loadoptions)
