@@ -25,7 +25,7 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 ### Examples
 
-The following example shows how to encrypt PDF files with DocumentPrivilege
+The following example shows how to encrypt PDF files with [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
 
 ```csharp
 [C#]
@@ -84,7 +84,7 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 ### Examples
 
-The following example shows how to encrypt PDF files with Permissions
+The following example shows how to encrypt PDF files with [Permissions](../../permissions)
 
 ```csharp
 [C#]
