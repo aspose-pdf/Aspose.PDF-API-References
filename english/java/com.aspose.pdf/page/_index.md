@@ -49,7 +49,7 @@ Class representing page of PDF document.
 | [getArtBox()](#getArtBox--) | Gets art box of the page. |
 | [getArtifacts()](#getArtifacts--) | Gets collection of artifacts on the page. |
 | [getBackground()](#getBackground--) | Gets the background color of the page. |
-| [getBackgroundImage()](#getBackgroundImage--) | Gets or sets background image for page (for generator only). |
+| [getBackgroundImage()](#getBackgroundImage--) | Gets or sets background image for page (for generator only, not filled in when reading document). |
 | [getBleedBox()](#getBleedBox--) | Gets bleed box of the page. |
 | [getClass()](#getClass--) |  |
 | [getColorType()](#getColorType--) | Gets color type of the pages based on information getting from operators SetColor, images and forms. |
@@ -98,7 +98,7 @@ Class representing page of PDF document.
 | [setArtBox(Rectangle value)](#setArtBox-com.aspose.pdf.Rectangle-) | Sets art box of the page. |
 | [setBackground(Color value)](#setBackground-com.aspose.pdf.Color-) | Sets the background color of the page. |
 | [setBackground(Color value)](#setBackground-java.awt.Color-) | Sets the background color of the page. |
-| [setBackgroundImage(Image value)](#setBackgroundImage-com.aspose.pdf.Image-) | Gets or sets background image for page (for generator only). |
+| [setBackgroundImage(Image value)](#setBackgroundImage-com.aspose.pdf.Image-) | Gets or sets background image for page (for generator only, not filled in when reading document). |
 | [setBleedBox(Rectangle value)](#setBleedBox-com.aspose.pdf.Rectangle-) | Sets bleed box of the page. |
 | [setCropBox(Rectangle value)](#setCropBox-com.aspose.pdf.Rectangle-) | Sets crop box of the page. |
 | [setDuration(double value)](#setDuration-double-) | Sets page display duration. |
@@ -491,7 +491,7 @@ public final Image getBackgroundImage()
 ```
 
 
-Gets or sets background image for page (for generator only).
+Gets or sets background image for page (for generator only, not filled in when reading document).
 
 **Returns:**
 [Image](../../com.aspose.pdf/image) - Image instance
@@ -703,7 +703,7 @@ public GraphInfo getNoteLineStyle()
 ```
 
 
-Gets the line style for notes.(for generator only)
+Gets the line style for notes.(for generator only, not filled in when reading document)
 
 **Returns:**
 [GraphInfo](../../com.aspose.pdf/graphinfo) - GraphInfo value
@@ -743,7 +743,7 @@ public PageInfo getPageInfo()
 ```
 
 
-Gets the page info.(for generator only, not filled in when reading file).
+Gets the page info.(for generator only, not filled in when reading document).
 
 **Returns:**
 [PageInfo](../../com.aspose.pdf/pageinfo) - The page info.
@@ -1137,7 +1137,7 @@ public final void setBackgroundImage(Image value)
 ```
 
 
-Gets or sets background image for page (for generator only).
+Gets or sets background image for page (for generator only, not filled in when reading document).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1290,7 +1290,7 @@ public void setNoteLineStyle(GraphInfo value)
 ```
 
 
-Sets the line style for notes.(for generator only)
+Sets the line style for notes.(for generator only, not filled in when reading document)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1303,7 +1303,7 @@ public void setPageInfo(PageInfo value)
 ```
 
 
-Sets the page info.(for generator only, not filled in when reading file).
+Sets the page info.(for generator only, not filled in when reading document).
 
 **Parameters:**
 | Parameter | Type | Description |

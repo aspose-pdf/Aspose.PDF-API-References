@@ -96,6 +96,8 @@ interface representing PDF document
 | [optimize()](#optimize--) | Linearize document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. |
 | [optimizeResources()](#optimizeResources--) | Optimize resources in the document: 1. |
 | [optimizeResources(OptimizationOptions strategy)](#optimizeResources-com.aspose.pdf.optimization.OptimizationOptions-) | Optimize resources in the document according to defined optimization strategy. |
+| [pageNodesToBalancedTree()](#pageNodesToBalancedTree--) | Organizes page tree nodes in a document into a balanced tree. |
+| [pageNodesToBalancedTree(byte nodesNumInSubtrees)](#pageNodesToBalancedTree-byte-) | Organizes page tree nodes in a document into a balanced tree. |
 | [processParagraphs()](#processParagraphs--) | Stores document into stream. |
 | [removeMetadata()](#removeMetadata--) | Removes metadata from the document. |
 | [removePdfUaCompliance()](#removePdfUaCompliance--) | Remove pdfUa compliance from the document |
@@ -799,7 +801,7 @@ public abstract PageInfo getPageInfo()
 ```
 
 
-Gets the page info.(for generator only)
+Gets the page info.(for generator only, not filled in when reading document)
 
 **Returns:**
 [PageInfo](../../com.aspose.pdf/pageinfo) - The page info.
@@ -1134,6 +1136,27 @@ Optimize resources in the document according to defined optimization strategy.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | strategy | [OptimizationOptions](../../com.aspose.pdf.optimization/optimizationoptions) | Optimization strategy. |
+
+### pageNodesToBalancedTree() {#pageNodesToBalancedTree--}
+```
+public abstract void pageNodesToBalancedTree()
+```
+
+
+Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing.
+
+### pageNodesToBalancedTree(byte nodesNumInSubtrees) {#pageNodesToBalancedTree-byte-}
+```
+public abstract void pageNodesToBalancedTree(byte nodesNumInSubtrees)
+```
+
+
+Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| nodesNumInSubtrees | byte | Desired number of subnodes. |
 
 ### processParagraphs() {#processParagraphs--}
 ```
@@ -1669,7 +1692,7 @@ public abstract void setPageInfo(PageInfo value)
 ```
 
 
-Sets the page info.(for generator only)
+Sets the page info.(for generator only, not filled in when reading document)
 
 **Parameters:**
 | Parameter | Type | Description |

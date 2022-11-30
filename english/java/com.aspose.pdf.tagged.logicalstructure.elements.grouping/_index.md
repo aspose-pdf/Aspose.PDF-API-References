@@ -1,13 +1,13 @@
 ---
 title: com.aspose.pdf.tagged.logicalstructure.elements.grouping
 second_title: Aspose.PDF for Java API Reference
-description: The  com.aspose.pdf.tagged.logicalstructure.elements.grouping  is a namespace for PDF Logical Structure classes.
+description: The  com.aspose.pdf.tagged.logicalstructure.elements.grouping is a namespace for PDF Logical Structure classes.
 type: docs
 weight: 24
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.grouping/
 ---
 
-The ** com.aspose.pdf.tagged.logicalstructure.elements.grouping ** is a namespace for PDF Logical Structure classes.
+The **com.aspose.pdf.tagged.logicalstructure.elements.grouping** is a namespace for PDF Logical Structure classes.
 
 
 ## Classes

@@ -28,7 +28,7 @@ This class holds flags to control PDF/A conversion for cases when source PDF doc
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setCheckDifferentNamesInFontDictionaries(boolean value)](#setCheckDifferentNamesInFontDictionaries-boolean-) |  |
+| [setCheckDifferentNamesInFontDictionaries(boolean value)](#setCheckDifferentNamesInFontDictionaries-boolean-) | Some PDF documents contain fonts which have different names in internal data. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -65,7 +65,7 @@ public boolean getCheckDifferentNamesInFontDictionaries()
 Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different.
 
 **Returns:**
-boolean - 
+boolean - boolean value
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -108,12 +108,12 @@ public void setCheckDifferentNamesInFontDictionaries(boolean value)
 ```
 
 
-
+Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean |  |
+| value | boolean | boolean value |
 
 ### toString() {#toString--}
 ```

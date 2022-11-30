@@ -41,7 +41,9 @@ Class for editing forms (adding/deleting field etc)
 | [getExportItems()](#getExportItems--) | Gets options for combo box with export values. |
 | [getFacade()](#getFacade--) | Gets visual attributes of the field. |
 | [getItems()](#getItems--) | Returns item array |
-| [getRadioButtonItemSize()](#getRadioButtonItemSize--) | Gets or sets size of radio button item size (when new radio button field is added). |
+| [getRadioButtonItemSize()](#getRadioButtonItemSize--) | ```
+Gets or sets size of radio button item size (when new radio button field is added).
+``` |
 | [getRadioGap()](#getRadioGap--) | Get the member to record the gap between two neighboring radio buttons in pixels,default is 50. |
 | [getRadioHoriz()](#getRadioHoriz--) | Get the flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
 | [getSaveOptions()](#getSaveOptions--) | Gets save options when result is stored as HttpResponse. |
@@ -70,7 +72,9 @@ Class for editing forms (adding/deleting field etc)
 | [setFieldLimit(String fieldName, int fieldLimit)](#setFieldLimit-java.lang.String-int-) | Sets maximum character count of the text field. |
 | [setFieldScript(String fieldName, String script)](#setFieldScript-java.lang.String-java.lang.String-) | Set JavaScript for a PushButton field. |
 | [setItems(String[] value)](#setItems-java.lang.String---) | Sets items which will be added to newly created list box or combo box. |
-| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | Gets or sets size of radio button item size (when new radio button field is added).|
+| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | ```
+Gets or sets size of radio button item size (when new radio button field is added).
+``` |
 | [setRadioGap(float value)](#setRadioGap-float-) | Set the member to record the gap between two neighboring radio buttons in pixels,default is 50. |
 | [setRadioHoriz(boolean value)](#setRadioHoriz-boolean-) | Set the flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
 | [setSaveOptions(SaveOptions value)](#setSaveOptions-com.aspose.pdf.SaveOptions-) | Sets save options when result is stored as HttpResponse. |

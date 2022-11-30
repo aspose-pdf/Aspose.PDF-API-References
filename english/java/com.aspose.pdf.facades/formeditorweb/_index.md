@@ -100,7 +100,9 @@ Class for editing forms (ading/deleting field etc)
 | [setFieldLimit(String fieldName, int fieldLimit)](#setFieldLimit-java.lang.String-int-) | Sets maximum character count of the text field. |
 | [setFieldScript(String fieldName, String script)](#setFieldScript-java.lang.String-java.lang.String-) | Set JavaScript for a PushButton field. |
 | [setItems(String[] value)](#setItems-java.lang.String---) | Sets items which will be added to newly created list box or combo box. |
-| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | Gets or sets size of radio button item size (when new radio button field is added).|
+| [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | ```
+Gets or sets size of radio button item size (when new radio button field is added).
+``` |
 | [setRadioGap(float value)](#setRadioGap-float-) | Set the member to record the gap between two neighboring radio buttons in pixels,default is 50. |
 | [setRadioHoriz(boolean value)](#setRadioHoriz-boolean-) | Set the flag to indicate whether the radios are arranged horizontally or vertically, default value is true. |
 | [setResponse(HttpServletResponse value)](#setResponse-javax.servlet.http.HttpServletResponse-) | Sets Response object where result of operation will be stored. |
@@ -1351,8 +1353,10 @@ formEditor = new com.aspose.pdf.facadesFormEditor("input.pdf", "output.pdf");
 public void setRadioButtonItemSize(double value)
 ```
 
+
 ```
 Gets or sets size of radio button item size (when new radio button field is added).
+
 
  FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "
  FormEditor_AddField_RadioButton.pdf");
