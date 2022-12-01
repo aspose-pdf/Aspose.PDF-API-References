@@ -20,7 +20,8 @@ public enum TextFormattingMode
 | --- | --- | --- |
 | Pure | `0` | Represent pdf content with a bit of formatting routines. |
 | Raw | `1` | Represent pdf content as is, i.e. without formatting. |
-| MemorySaving | `2` | Extraction with memory saving. It is almost same to 'Raw' mode but works slightly faster and uses less memory. |
+| Flatten | `2` | Represent pdf content with positioning text fragments by their coordinates. It is basically similar to "Raw" mode. But while "Raw" focuses on preserving the structure of text fragments (operators) in a document, "Flatten" focuses on keeping text in the order it is read. |
+| MemorySaving | `3` | Extraction with memory saving. It is almost same to 'Raw' mode but works slightly faster and uses less memory. |
 
 ### See Also
 

@@ -26,7 +26,7 @@ Represents a FloatingBox in a Pdf document. FloatingBox is custom positioned.
 | [deepClone()](#deepClone--) | Clones a new  FloatingBox  object. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets a object that indicates the background color of the floating box. |
-| [getBackgroundImage()](#getBackgroundImage--) | Gets or sets background image for page (for generator only). |
+| [getBackgroundImage()](#getBackgroundImage--) | Gets or sets background image for page (for generator only, not filled in when reading document). |
 | [getBorder()](#getBorder--) | Gets a object that indicates the border info of the floating box. |
 | [getClass()](#getClass--) |  |
 | [getColumnInfo()](#getColumnInfo--) | Gets a column info |
@@ -50,7 +50,7 @@ Represents a FloatingBox in a Pdf document. FloatingBox is custom positioned.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets a object that indicates the background color of the floating box. |
-| [setBackgroundImage(Image value)](#setBackgroundImage-com.aspose.pdf.Image-) | Gets or sets background image for page (for generator only). |
+| [setBackgroundImage(Image value)](#setBackgroundImage-com.aspose.pdf.Image-) | Gets or sets background image for page (for generator only, not filled in when reading document). |
 | [setBorder(BorderInfo value)](#setBorder-com.aspose.pdf.BorderInfo-) | Sets a object that indicates the border info of the floating box. |
 | [setColumnInfo(ColumnInfo value)](#setColumnInfo-com.aspose.pdf.ColumnInfo-) | Sets a column info |
 | [setFirstParagraphInColumn(boolean value)](#setFirstParagraphInColumn-boolean-) | Gets or sets a bool value that indicates whether this paragraph will be at next column. |
@@ -136,7 +136,7 @@ public final Image getBackgroundImage()
 ```
 
 
-Gets or sets background image for page (for generator only).
+Gets or sets background image for page (for generator only, not filled in when reading document).
 
 **Returns:**
 [Image](../../com.aspose.pdf/image) - Image instance
@@ -375,7 +375,7 @@ public final void setBackgroundImage(Image value)
 ```
 
 
-Gets or sets background image for page (for generator only).
+Gets or sets background image for page (for generator only, not filled in when reading document).
 
 **Parameters:**
 | Parameter | Type | Description |

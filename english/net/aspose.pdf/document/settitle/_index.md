@@ -3,7 +3,7 @@ title: SetTitle
 second_title: Aspose.PDF for .NET API Reference
 description: Set Title for Pdf Document
 type: docs
-weight: 750
+weight: 760
 url: /net/aspose.pdf/document/settitle/
 ---
 ## Document.SetTitle method

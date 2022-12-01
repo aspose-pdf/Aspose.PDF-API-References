@@ -47,8 +47,10 @@ Class which represents formatted text. Contains information about text and its c
 | [getTextHeight()](#getTextHeight--) | Gets height of text. |
 | [getTextWidth()](#getTextWidth--) | Gets width of text. |
 | [hashCode()](#hashCode--) |  |
+| [isCjk()](#isCjk--) | Checks if text is CJK (Chinese, Japanese, or Korean). |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setCjkFontStyle()](#setCjkFontStyle--) | Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -420,6 +422,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isCjk() {#isCjk--}
+```
+public final boolean isCjk()
+```
+
+
+Checks if text is CJK (Chinese, Japanese, or Korean).
+
+**Returns:**
+boolean - True if text is CJK. Otherwise false.
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -435,6 +447,14 @@ public final native void notifyAll()
 
 
 
+
+### setCjkFontStyle() {#setCjkFontStyle--}
+```
+public final void setCjkFontStyle()
+```
+
+
+Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font.
 
 ### toString() {#toString--}
 ```

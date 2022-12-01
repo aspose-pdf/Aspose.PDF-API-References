@@ -1,13 +1,13 @@
 ---
 title: com.aspose.pdf.drawing
 second_title: Aspose.PDF for Java API Reference
-description: The com.aspose.pdf.drawing package provides classes describing graphic primitives like arc line circle etc.
+description: The  com.aspose.pdf.drawing package provides classes describing graphic primitives like arc line circle etc.
 type: docs
 weight: 12
 url: /java/com.aspose.pdf.drawing/
 ---
 
-The **com.aspose.pdf.drawing** package provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents.
+The  **com.aspose.pdf.drawing** package provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating new documents.
 
 
 ## Classes

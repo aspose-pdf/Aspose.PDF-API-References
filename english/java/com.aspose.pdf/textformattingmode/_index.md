@@ -18,6 +18,7 @@ Defines different modes which can be used while converting pdf document into tex
 | Field | Description |
 | --- | --- |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
+| [Flatten](#Flatten) | Represent pdf content with positioning text fragments by their coordinates. |
 | [MemorySaving](#MemorySaving) | Extraction with memory saving. |
 | [Pure](#Pure) | Represent pdf content with a bit of formatting routines. |
 | [Raw](#Raw) | Represent pdf content as is, i.e. without formatting. |
@@ -63,6 +64,14 @@ Defines different modes which can be used while converting pdf document into tex
 public static final char[] EnumSeparatorCharArray
 ```
 
+
+### Flatten {#Flatten}
+```
+public static final int Flatten
+```
+
+
+Represent pdf content with positioning text fragments by their coordinates. It is basically similar to "Raw" mode. But while "Raw" focuses on preserving the structure of text fragments (operators) in a document, "Flatten" focuses on keeping text in the order it is read.
 
 ### MemorySaving {#MemorySaving}
 ```

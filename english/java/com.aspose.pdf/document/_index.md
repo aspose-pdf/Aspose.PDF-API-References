@@ -150,6 +150,8 @@ Class representing PDF document
 | [optimize()](#optimize--) | Linearize document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. |
 | [optimizeResources()](#optimizeResources--) | Optimize resources in the document: 1. |
 | [optimizeResources(OptimizationOptions strategy)](#optimizeResources-com.aspose.pdf.optimization.OptimizationOptions-) | Optimize resources in the document according to defined optimization strategy. |
+| [pageNodesToBalancedTree()](#pageNodesToBalancedTree--) | Organizes page tree nodes in a document into a balanced tree. |
+| [pageNodesToBalancedTree(byte nodesNumInSubtrees)](#pageNodesToBalancedTree-byte-) | Organizes page tree nodes in a document into a balanced tree. |
 | [preSave(PageCollection pages, SaveOptions saveOptions)](#preSave-com.aspose.pdf.PageCollection-com.aspose.pdf.SaveOptions-) | Internal method |
 | [processParagraphs()](#processParagraphs--) | Stores document into stream. |
 | [removeMetadata()](#removeMetadata--) | Removes metadata from the document. |
@@ -1000,7 +1002,7 @@ Gets document actions. This property is instance of DocumentActions class which 
 --------------------
 
 ```
-// This example demonstrates how to obtain after open action of the document:
+This example demonstrates how to obtain after open action of the document:
 
  Document document = new Document("PdfWithOpenAction.pdf");
  DocumentActionCollection actions = document.getActions();
@@ -1297,7 +1299,7 @@ Gets action performed at document opening.
 --------------------
 
 ```
-// Example demonstrates how to get CenterWindow flag:
+Example demonstrates how to get CenterWindow flag:
 
  Document document = new Document("sample.pdf");
  IAppointment value = document.getOpenAction();
@@ -1331,7 +1333,7 @@ public PageInfo getPageInfo()
 ```
 
 
-Gets the page info.(for generator only)
+Gets the page info.(for generator only, not filled in when reading document)
 
 **Returns:**
 [PageInfo](../../com.aspose.pdf/pageinfo) - The page info.
@@ -1379,8 +1381,8 @@ Gets collection of document pages. Note that pages are numbered from 1 in collec
 --------------------
 
 ```
-// Example below demonstrates how to operate with the document pages:
-// How to obtain number of pages and how to obtain rectangle of starting page of the document.
+Example below demonstrates how to operate with the document pages:
+ How to obtain number of pages and how to obtain rectangle of starting page of the document.
 
  Document document = new Document("sample.pdf");
  PageCollection  pages = document.getPages();
@@ -1419,7 +1421,7 @@ Gets access to TaggedPdf content.
 The example demonstrates how to use tagged content for creating new document with header, paragraphs and images.
 
 ```
-	// Create new document
+// Create new document
      Document document = new Document();
 
      // Get the tagged content
@@ -1541,7 +1543,7 @@ boolean - boolean value
 --------------------
 
 ```
-// Example demonstrates how to get CenterWindow flag:
+Example demonstrates how to get CenterWindow flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isCenterWindow();
@@ -1570,7 +1572,7 @@ boolean - boolean value
 --------------------
 
 ```
-// Example demonstrates how to get DisplayDocTitle flag:
+Example demonstrates how to get DisplayDocTitle flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isDisplayDocTitle();
@@ -1638,7 +1640,7 @@ boolean - boolean value
 --------------------
 
 ```
-// Example demonstrates how to get HideMenubar flag:
+Example demonstrates how to get HideMenubar flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideMenubar();
@@ -1657,7 +1659,7 @@ boolean - boolean value
 --------------------
 
 ```
-// Example demonstrates how to get HideToolBar flag:
+Example demonstrates how to get HideToolBar flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideToolBar();
@@ -1676,7 +1678,7 @@ boolean - boolean value
 --------------------
 
 ```
-// Example demonstrates how to get HideWindowUI flag:
+Example demonstrates how to get HideWindowUI flag:
 
  Document document = new Document("sample.pdf");
  boolean value = document.isHideWindowUI();
@@ -1796,6 +1798,27 @@ Optimize resources in the document according to defined optimization strategy.
 | --- | --- | --- |
 | strategy | [OptimizationOptions](../../com.aspose.pdf.optimization/optimizationoptions) | Optimization strategy. |
 
+### pageNodesToBalancedTree() {#pageNodesToBalancedTree--}
+```
+public final void pageNodesToBalancedTree()
+```
+
+
+Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing.
+
+### pageNodesToBalancedTree(byte nodesNumInSubtrees) {#pageNodesToBalancedTree-byte-}
+```
+public final void pageNodesToBalancedTree(byte nodesNumInSubtrees)
+```
+
+
+Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| nodesNumInSubtrees | byte | Desired number of subnodes. |
+
 ### preSave(PageCollection pages, SaveOptions saveOptions) {#preSave-com.aspose.pdf.PageCollection-com.aspose.pdf.SaveOptions-}
 ```
 public static void preSave(PageCollection pages, SaveOptions saveOptions)
@@ -1868,13 +1891,7 @@ Save document incrementally (i.e. using incremental update technique).
 
 --------------------
 
-In order to save document incrementally we should open the document file for writing. Therefore Document must not be initialized with InputStream but with path to the file, like in the next code snippet: 
-
-```
-Document doc = new Document("document.pdf"); 
-// make some changes and save the document incrementally 
-doc.save();
-```
+In order to save document incrementally we should open the document file for writing. Therefore Document must not be initialized with InputStream but with path to the file, like in the next code snippet: Document doc = new Document("document.pdf"); // make some changes and save the document incrementally doc.save();
 
 In case when document was initialized with InputStream, writing to InputStream is impossible, so we recommend to use separate methods "save" to save document or "saveIncrementally" to save document incrementally.
 
@@ -2442,7 +2459,7 @@ public void setPageInfo(PageInfo value)
 ```
 
 
-Sets the page info.(for generator only)
+Sets the page info.(for generator only, not filled in when reading document)
 
 **Parameters:**
 | Parameter | Type | Description |

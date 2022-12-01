@@ -72,7 +72,7 @@ public sealed class Document : IDisposable
 | [OpenAction](../../aspose.pdf/document/openaction) { get; set; } | Gets or sets action performed at document opening. |
 | [OptimizeSize](../../aspose.pdf/document/optimizesize) { get; set; } | Gets or sets optimization flag. When pages are added to document, equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false. |
 | [Outlines](../../aspose.pdf/document/outlines) { get; } | Gets document outlines. |
-| [PageInfo](../../aspose.pdf/document/pageinfo) { get; set; } | Gets or sets the page info.(for generator only) |
+| [PageInfo](../../aspose.pdf/document/pageinfo) { get; set; } | Gets or sets the page info.(for generator only, not filled in when reading document) |
 | [PageLabels](../../aspose.pdf/document/pagelabels) { get; } | Gets page labels in the document. |
 | [PageLayout](../../aspose.pdf/document/pagelayout) { get; set; } | Gets or sets page layout which shall be used when the document is opened. |
 | [PageMode](../../aspose.pdf/document/pagemode) { get; set; } | Gets or sets page mode, specifying how document should be displayed when opened. |
@@ -121,6 +121,7 @@ public sealed class Document : IDisposable
 | [Optimize](../../aspose.pdf/document/optimize)() | Linearize document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. Invoking this method doesn't actually saves the document. On the contrary the document only is prepared to have optimized structure, call then Save to get optimized document. |
 | [OptimizeResources](../../aspose.pdf/document/optimizeresources#optimizeresources)() | Optimize resources in the document: 1. Resources which are not used on the document pages are removed; 2. Equal resources are joined into one object; 3. Unused objects are deleted. |
 | [OptimizeResources](../../aspose.pdf/document/optimizeresources#optimizeresources_1)(OptimizationOptions) | Optimize resources in the document according to defined optimization strategy. |
+| [PageNodesToBalancedTree](../../aspose.pdf/document/pagenodestobalancedtree)(byte) | Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing. |
 | [ProcessParagraphs](../../aspose.pdf/document/processparagraphs)() | Process paragraphs for generator. |
 | [RemoveMetadata](../../aspose.pdf/document/removemetadata)() | Removes metadata from the document. |
 | [RemovePdfaCompliance](../../aspose.pdf/document/removepdfacompliance)() | Remove pdfa compliance from the document |

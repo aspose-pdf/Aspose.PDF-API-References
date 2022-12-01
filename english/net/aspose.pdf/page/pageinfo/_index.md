@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Gets or sets the page info for generator only not filled in when reading file.
+description: Gets or sets the page info for generator only not filled in when reading document.
 type: docs
 weight: 210
 url: /net/aspose.pdf/page/pageinfo/
 ---
 ## Page.PageInfo property
 
-Gets or sets the page info (for generator only, not filled in when reading file).
+Gets or sets the page info (for generator only, not filled in when reading document).
 
 ```csharp
 public PageInfo PageInfo { get; set; }

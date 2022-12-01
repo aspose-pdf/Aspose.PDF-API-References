@@ -23,7 +23,7 @@ public sealed class Page : IDisposable
 | [ArtBox](../../aspose.pdf/page/artbox) { get; set; } | Gets or sets art box of the page. |
 | [Artifacts](../../aspose.pdf/page/artifacts) { get; } | Gets collection of artifacts on the page. |
 | [Background](../../aspose.pdf/page/background) { get; set; } | Gets or sets the background color of the page. |
-| [BackgroundImage](../../aspose.pdf/page/backgroundimage) { get; set; } | Gets or sets background image for page (for generator only). |
+| [BackgroundImage](../../aspose.pdf/page/backgroundimage) { get; set; } | Gets or sets background image for page (for generator only, not filled in when reading document). |
 | [BleedBox](../../aspose.pdf/page/bleedbox) { get; set; } | Gets or sets bleed box of the page. |
 | [ColorType](../../aspose.pdf/page/colortype) { get; } | Sets color type of the pages based on information getting from operators SetColor, images and forms. |
 | [Contents](../../aspose.pdf/page/contents) { get; } | Gets collection of operators in the content stream of the page. [`OperatorCollection`](../operatorcollection) |
@@ -36,9 +36,9 @@ public sealed class Page : IDisposable
 | [IsAddParagraphsAfterLast](../../aspose.pdf/page/isaddparagraphsafterlast) { get; set; } | Gets or sets the addition of paragraphs after the last paragraph of the page |
 | [Layers](../../aspose.pdf/page/layers) { get; set; } | Gets or sets layers collection. |
 | [MediaBox](../../aspose.pdf/page/mediabox) { get; set; } | Gets or sets media box of the page. |
-| [NoteLineStyle](../../aspose.pdf/page/notelinestyle) { get; set; } | Gets or sets the line style for notes.(for generator only) |
+| [NoteLineStyle](../../aspose.pdf/page/notelinestyle) { get; set; } | Gets or sets the line style for notes.(for generator only, not filled in when reading document) |
 | [Number](../../aspose.pdf/page/number) { get; } | Get number of the page. |
-| [PageInfo](../../aspose.pdf/page/pageinfo) { get; set; } | Gets or sets the page info (for generator only, not filled in when reading file). |
+| [PageInfo](../../aspose.pdf/page/pageinfo) { get; set; } | Gets or sets the page info (for generator only, not filled in when reading document). |
 | [Paragraphs](../../aspose.pdf/page/paragraphs) { get; set; } | Gets the paragraphs. |
 | [Rect](../../aspose.pdf/page/rect) { get; set; } | Gets or sets rectangle of the page. For get: page crop box is returned if specified, otherwise page media box is returned. For set: page media box always set. Please note that this property don't consider page rotation. To get page rectangle considering rotation please use ActualRect. |
 | [Resources](../../aspose.pdf/page/resources) { get; } | Gets page resources. Resources object contains collections of images, forms and fonts. [`Resources`](./resources) |
