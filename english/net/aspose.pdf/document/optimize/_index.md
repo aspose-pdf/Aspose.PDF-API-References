@@ -20,15 +20,19 @@ The following example shows how to optimize a PDF document for the web.
 
 ```csharp
 [C#]
-// The path to your PDF File.
-string pdfFilePath = "YOUR_PDF_FILE_PATH";
-// Open document
-using (Document pdfDocument = new Document(pdfFilePath)){
-// Optimize for web
-pdfDocument.Optimize();
-// Save output document
-pdfDocument.Save(pdfFilePath);
-}
+	// The path to your PDF File.
+	string pdfFilePath = "YOUR_PDF_FILE_PATH";
+
+	// Open document
+	using (Document pdfDocument = new Document(pdfFilePath))
+	{
+
+	// Optimize for web
+	pdfDocument.Optimize();
+
+	// Save output document
+	pdfDocument.Save(pdfFilePath);
+	}
 ```
 
 ```csharp

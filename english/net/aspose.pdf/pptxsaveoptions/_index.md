@@ -46,20 +46,23 @@ The following example shows how to convert PDF file to PPT or PPTX file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-PPTX.pdf");
-// The path to your PPT or PPTX File.
-var pptxFile= Path.Combine(dataDir, "PDF-to-PPTX.pptx");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize PptxSaveOptions	
-    PptxSaveOptions saveOptions = new PptxSaveOptions();
-    
-    // Save PPT or PPTX file
-    pdfDocument.Save(pptxFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-PPTX.pdf");
+
+	// The path to your PPT or PPTX File.
+	var pptxFile = Path.Combine(dataDir, "PDF-to-PPTX.pptx");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// initialize PptxSaveOptions	
+		PptxSaveOptions saveOptions = new PptxSaveOptions();
+		
+		// Save PPT or PPTX file
+		pdfDocument.Save(pptxFile, saveOptions);
+	}
 ```
 
 ```csharp

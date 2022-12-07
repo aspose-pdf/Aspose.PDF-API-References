@@ -20,15 +20,18 @@ The following sample code shows how to decrypt a PDF file.
 
 ```csharp
 [C#]
-// The path to your PDF File.
-string pdfFilePath = "YOUR_PDF_FILE_PATH";
-// Open document
-using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD")){
-// Decrypt PDF
-document.Decrypt();
-// Save updated PDF
-document.Save(pdfFilePath);
-}
+	// The path to your PDF File.
+	string pdfFilePath = "YOUR_PDF_FILE_PATH";
+
+	// Open document
+	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
+	{
+		// Decrypt PDF
+		document.Decrypt();
+
+		// Save updated PDF
+		document.Save(pdfFilePath);
+	}
 ```
 
 ```csharp
@@ -36,10 +39,13 @@ document.Save(pdfFilePath);
 
     ' The path to your PDF File.
     Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
+
     ' Open document
     Using document As Document = New Document(pdfFilePath, "YOUR_PASSWORD")
+
         ' Decrypt PDF
         document.Decrypt()
+
         ' Save updated PDF
         document.Save(pdfFilePath)
     End Using

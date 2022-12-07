@@ -52,26 +52,29 @@ The following example shows how to convert PDF file to DOC or DOCX file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-DOC.pdf");
-// The path to output DOC or DOCX File.
-var docFile = Path.Combine(dataDir, "PDF-to-DOC.doc");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    DocSaveOptions saveOptions = new DocSaveOptions
-    {
-        Format = DocSaveOptions.DocFormat.Doc,
-        // Set the recognition mode as Flow
-        Mode = DocSaveOptions.RecognitionMode.Flow,
-        // Set the Horizontal proximity as 2.5
-        RelativeHorizontalProximity = 2.5f,
-        // Enable the value to recognize bullets during conversion process
-        RecognizeBullets = true
-    };
-    pdfDocument.Save(docFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-DOC.pdf");
+
+	// The path to output DOC or DOCX File.
+	var docFile = Path.Combine(dataDir, "PDF-to-DOC.doc");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		DocSaveOptions saveOptions = new DocSaveOptions
+		{
+			Format = DocSaveOptions.DocFormat.Doc,
+			// Set the recognition mode as Flow
+			Mode = DocSaveOptions.RecognitionMode.Flow,
+			// Set the Horizontal proximity as 2.5
+			RelativeHorizontalProximity = 2.5f,
+			// Enable the value to recognize bullets during conversion process
+			RecognizeBullets = true
+		};
+		pdfDocument.Save(docFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -79,9 +82,11 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+	
     ' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-DOC.pdf")
-    ' The path to output DOC or DOCX File.
+    
+	' The path to output DOC or DOCX File.
     Dim docFile = Path.Combine(dataDir, "PDF-to-DOC.doc")
  
     Using pdfDocument As Document = New Document(pdfFile)

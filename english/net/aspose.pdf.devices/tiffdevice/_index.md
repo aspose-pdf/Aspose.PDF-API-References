@@ -64,32 +64,33 @@ The following example shows how to convert PDF file to TIFF Images.
 
 ```csharp
 [C#]
-// The path to your PDF Directory
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The file name of the PDF
-string pdfFile = @"YOUR_PDF_FILE";
+	// The path to your PDF Directory
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize instance of Document class
-using (Document pdfDocument = new  using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
-            {
-		  // Create Resolution object 	
-                Resolution resolution = new Resolution(300);
- // Create TiffSettings object
-    TiffSettings tiffSettings = new TiffSettings
-    {
-        Compression = CompressionType.None,
-        Depth = ColorDepth.Default,
-        Shape = ShapeType.Landscape,
-        SkipBlankPages = false
-    };
+	// The file name of the PDF
+	string pdfFile = @"YOUR_PDF_FILE";
 
-    // Create TIFF device
-    TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
+	// Initialize instance of Document class
+	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
+	{
+		// Create Resolution object 	
+		Resolution resolution = new Resolution(300);
+		
+		// Create TiffSettings object
+		TiffSettings tiffSettings = new TiffSettings
+		{
+			Compression = CompressionType.None,
+			Depth = ColorDepth.Default,
+			Shape = ShapeType.Landscape,
+			SkipBlankPages = false
+		};
 
-              // Convert a PDF document to TIFF image
-    		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
+		// Create TIFF device
+		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-            }
+		// Convert a PDF document to TIFF image
+		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
+	}
 ```
 
 ```csharp
@@ -97,31 +98,31 @@ using (Document pdfDocument = new  using (Document pdfDocument = new Document(Pa
 
     ' The path to your PDF Directory
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+	
     ' The file name of the PDF
     Dim pdfFile As String = "YOUR_PDF_FILE"
  
-    ' initialize instance of Document class
-    Using pdfDocument As Document = New _()
- 
-        Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
-            ' Create Resolution object  
-            Dim resolution As Resolution = New Resolution(300)
-            ' Create TiffSettings object
-            Dim tiffSettings As TiffSettings = New TiffSettings With {
-              .Compression = CompressionType.None,
-                .Depth = ColorDepth.[Default],
-                .Shape = ShapeType.Landscape,
-                .SkipBlankPages = False
-            }
- 
-            ' Create TIFF device
-            Dim tiffDevice As TiffDevice = New TiffDevice(resolution, tiffSettings)
- 
-            ' Convert a PDF document to TIFF image
-            tiffDevice.Process(pdfDocument, dataDir & "AllPagesToTIFF_out.tif")
- 
-        End Using
-    End Using
+    ' Initialize instance of Document class 
+	Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
+	
+		' Create Resolution object  
+		Dim resolution As Resolution = New Resolution(300)
+		
+		' Create TiffSettings object
+		Dim tiffSettings As TiffSettings = New TiffSettings With {
+		  .Compression = CompressionType.None,
+			.Depth = ColorDepth.[Default],
+			.Shape = ShapeType.Landscape,
+			.SkipBlankPages = False
+		}
+
+		' Create TIFF device
+		Dim tiffDevice As TiffDevice = New TiffDevice(resolution, tiffSettings)
+
+		' Convert a PDF document to TIFF image
+		tiffDevice.Process(pdfDocument, dataDir & "AllPagesToTIFF_out.tif")
+
+	End Using
 ```
 
 ### See Also

@@ -29,16 +29,19 @@ The following example shows how to encrypt PDF files with [DocumentPrivilege](..
 
 ```csharp
 [C#]
-// The path to your PDF File.
-string pdfFilePath = "YOUR_PDF_FILE_PATH";
-// Open document
 
-using (Document document = new Document(pdfFilePath)){
-// Encrypt PDF
-document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
-// Save updated PDF
-document.Save(pdfFilePath);
-}
+	// The path to your PDF File.
+	string pdfFilePath = "YOUR_PDF_FILE_PATH";
+
+	// Open document
+	using (Document document = new Document(pdfFilePath))
+	{
+	// Encrypt PDF
+	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
+
+	// Save updated PDF
+	document.Save(pdfFilePath);
+	}
 ```
 
 ```csharp
@@ -46,8 +49,8 @@ document.Save(pdfFilePath);
 
     ' The path to your PDF File.
     Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
-    ' Open document
- 
+    
+	' Open document
     Using document As Document = New Document(pdfFilePath)
         ' Encrypt PDF
         document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
@@ -88,16 +91,19 @@ The following example shows how to encrypt PDF files with [Permissions](../../pe
 
 ```csharp
 [C#]
-// The path to your PDF File.
-string pdfFilePath = "YOUR_PDF_FILE_PATH";
-// Open document
 
-using (Document document = new Document(pdfFilePath)){
-// Encrypt PDF
-document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", Permissions.ModifyContent, CryptoAlgorithm.RC4x128);
-// Save updated PDF
-document.Save(pdfFilePath);
-}
+	// The path to your PDF File.
+	string pdfFilePath = "YOUR_PDF_FILE_PATH";
+
+	// Open document
+	using (Document document = new Document(pdfFilePath))
+	{
+	// Encrypt PDF
+	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", Permissions.ModifyContent, CryptoAlgorithm.RC4x128);
+
+	// Save updated PDF
+	document.Save(pdfFilePath);
+	}
 ```
 
 ```csharp
@@ -105,12 +111,14 @@ document.Save(pdfFilePath);
 
     ' The path to your PDF File.
     Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
-    ' Open document
- 
+
+    ' Open document 
     Using document As Document = New Document(pdfFilePath)
-        ' Encrypt PDF
+        
+		' Encrypt PDF
         document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", Permissions.ModifyContent, CryptoAlgorithm.RC4x128)
-        ' Save updated PDF
+        
+		' Save updated PDF
         document.Save(pdfFilePath)
     End Using
 ```

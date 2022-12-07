@@ -53,33 +53,34 @@ The following example shows how to convert PDF file to JPEG Images.
 
 ```csharp
 [C#]
-// The path to your PDF Directory
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The file name of the PDF
-string pdfFile = @"YOUR_PDF_FILE";
+	// The path to your PDF Directory
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize instance of Document class
-using (Document pdfDocument = new  using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
-            {
-		  // Create Resolution object 	
-                Resolution resolution = new Resolution(300);
-  // initialize JpegDevice	
+	// The file name of the PDF
+	string pdfFile = @"YOUR_PDF_FILE";
 
-                JpegDevice jpegDevice = new JpegDevice(resolution);
-                for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
-                {
-                    using (FileStream jpegStream =
-                    new FileStream($"{dataDir}image{pageCount}_out.emf",
-                    FileMode.Create))
-                    {
-                        // Convert a particular page and save the image to stream
-                        jpegDevice.Process(pdfDocument.Pages[pageCount], jpegStream);
+	// Initialize instance of Document class
+	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
+	{
+		// Create Resolution object 	
+		Resolution resolution = new Resolution(300);
 
-                        // Close stream
-                        jpegStream.Close();
-                    }
-                }
-            }
+		// Initialize JpegDevice	
+		JpegDevice jpegDevice = new JpegDevice(resolution);
+		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
+		{
+			using (FileStream jpegStream =
+			new FileStream($"{dataDir}image{pageCount}_out.jpeg",
+			FileMode.Create))
+			{
+				// Convert a particular page and save the image to stream
+				jpegDevice.Process(pdfDocument.Pages[pageCount], jpegStream);
+
+				// Close stream
+				jpegStream.Close();
+			}
+		}
+	}
 ```
 
 ```csharp
@@ -87,28 +88,28 @@ using (Document pdfDocument = new  using (Document pdfDocument = new Document(Pa
 
     ' The path to your PDF Directory
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-    ' The file name of the PDF
+    
+	' The file name of the PDF
     Dim pdfFile As String = "YOUR_PDF_FILE"
  
-    ' initialize instance of Document class
-    Using pdfDocument As Document = New _()
- 
-        Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
-            ' Create Resolution object  
-            Dim resolution As Resolution = New Resolution(300)
-            ' initialize JpegDevice
- 
-            Dim jpegDevice As JpegDevice = New JpegDevice(resolution)
-            For pageCount As Integer = 1 To pdfDocument.Pages.Count
-                Using jpegStream As FileStream = New FileStream($"{dataDir}image{pageCount}_out.emf", FileMode.Create)
-                    ' Convert a particular page and save the image to stream
-                    jpegDevice.Process(pdfDocument.Pages(pageCount), jpegStream)
- 
-                    ' Close stream
-                    jpegStream.Close()
-                End Using
-            Next
-        End Using
+    ' Initialize instance of Document class 
+    Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
+	
+		' Create Resolution object  
+		Dim resolution As Resolution = New Resolution(300)
+		
+		' Initialize JpegDevice
+		Dim jpegDevice As JpegDevice = New JpegDevice(resolution)
+		For pageCount As Integer = 1 To pdfDocument.Pages.Count
+			Using jpegStream As FileStream = New FileStream($"{dataDir}image{pageCount}_out.jpeg", FileMode.Create)
+				
+				' Convert a particular page and save the image to stream
+				jpegDevice.Process(pdfDocument.Pages(pageCount), jpegStream)
+
+				' Close stream
+				jpegStream.Close()
+			End Using
+		Next
     End Using
 ```
 
