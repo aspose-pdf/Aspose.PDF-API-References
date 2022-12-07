@@ -35,15 +35,19 @@ The following example shows how to convert APS file to PDF file
 [C#]
 // The path to the documents directory.
 string dataDir = @"YOUR_DATA_DIRECTORY";
+
 // The path to your APS File.
 string apsFile = Path.Combine(dataDir, "APS-to-PDF.aps");
+
 // The path to output PDF File.
 string pdfFile = Path.Combine(dataDir, "APS-to-PDF.pdf");
 
-// initialize ApsLoadOptions  	
-    ApsLoadOptions apsLoadOptions = new ApsLoadOptions();
-    
-using (Document pdfDocument = new Document(apsFile, apsLoadOptions)){
+// Initialize ApsLoadOptions  	
+ApsLoadOptions apsLoadOptions = new ApsLoadOptions();
+
+// Initialize Document wiht ApsLoadOptions     
+using (Document pdfDocument = new Document(apsFile, apsLoadOptions))
+{
  
     // Save PDF file
     pdfDocument.Save(pdfFile);
@@ -55,14 +59,17 @@ using (Document pdfDocument = new Document(apsFile, apsLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+	
     ' The path to your APS File.
     Dim apsFile = Path.Combine(dataDir, "APS-to-PDF.aps")
+	
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "APS-to-PDF.pdf")
  
-    ' initialize ApsLoadOptions    
+    ' Initialize ApsLoadOptions    
     Dim apsLoadOptions As ApsLoadOptions = New ApsLoadOptions()
  
+	' Initialize Document wiht ApsLoadOptions
     Using pdfDocument As Document = New Document(apsFile, apsLoadOptions)
  
         ' Save PDF file
