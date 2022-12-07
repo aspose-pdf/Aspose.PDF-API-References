@@ -36,21 +36,24 @@ The following example shows how to convert XML file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your XML File.
-string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize XmlLoadOptions	
-    XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
-    
-using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions)){
- 
-    // Save XML file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your XML File.
+	string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
+
+	// Initialize XmlLoadOptions	
+	XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
+		
+	using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions))
+	{
+	 
+		// Save XML file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -58,12 +61,14 @@ using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your XML File.
     Dim xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf")
  
-    ' initialize XmlLoadOptions
+    ' Initialize XmlLoadOptions
     Dim xmlLoadOptions As XmlLoadOptions = New XmlLoadOptions()
  
     Using pdfDocument As Document = New Document(xmlFile, xmlLoadOptions)

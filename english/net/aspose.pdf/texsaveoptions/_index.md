@@ -50,20 +50,23 @@ The following example shows how to convert PDF file to TeX file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf");
-// The path to output TeX File.
-var texFile= Path.Combine(dataDir, "PDF-to-TeX.tex");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize TeXSaveOptions	
-    TeXSaveOptions saveOptions = new TeXSaveOptions();
-    
-    // Save TeX file
-    pdfDocument.Save(texFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf");
+
+	// The path to output TeX File.
+	var texFile= Path.Combine(dataDir, "PDF-to-TeX.tex");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize TeXSaveOptions	
+		TeXSaveOptions saveOptions = new TeXSaveOptions();
+		
+		// Save TeX file
+		pdfDocument.Save(texFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -71,13 +74,15 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf")
+
     ' The path to output TeX File.
     Dim texFile = Path.Combine(dataDir, "PDF-to-TeX.tex")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize TeXSaveOptions
+        ' Initialize TeXSaveOptions
         Dim saveOptions As TeXSaveOptions = New TeXSaveOptions()
  
         ' Save TeX file

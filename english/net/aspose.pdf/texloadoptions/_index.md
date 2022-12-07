@@ -42,21 +42,24 @@ The following example shows how to convert TeX file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your TeX File.
-string texFile = Path.Combine(dataDir, "TeX-to-PDF.tex");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "Tex-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize TeXLoadOptions	
-    TeXLoadOptions texLoadOptions = new TeXLoadOptions();
-    
-using (Document pdfDocument = new Document(texFile, texLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your TeX File.
+	string texFile = Path.Combine(dataDir, "TeX-to-PDF.tex");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "Tex-to-PDF.pdf");
+
+	// Initialize TeXLoadOptions	
+	TeXLoadOptions texLoadOptions = new TeXLoadOptions();
+		
+	using (Document pdfDocument = new Document(texFile, texLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -64,12 +67,14 @@ using (Document pdfDocument = new Document(texFile, texLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your TeX File.
     Dim texFile = Path.Combine(dataDir, "TeX-to-PDF.tex")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "Tex-to-PDF.pdf")
  
-    ' initialize TeXLoadOptions
+    ' Initialize TeXLoadOptions
     Dim texLoadOptions As TeXLoadOptions = New TeXLoadOptions()
  
     Using pdfDocument As Document = New Document(texFile, texLoadOptions)

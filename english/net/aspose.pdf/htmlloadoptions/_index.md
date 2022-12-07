@@ -48,21 +48,23 @@ The following example shows how to convert HTML file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your HTML File.
-string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize HtmlLoadOptions	
-    HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
-    
-using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your HTML File.
+	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
+
+	// Initialize HtmlLoadOptions	
+	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
+		
+	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
+	{ 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -70,12 +72,14 @@ using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your HTML File.
     Dim htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf")
  
-    ' initialize HtmlLoadOptions    
+    ' Initialize HtmlLoadOptions    
     Dim htmlLoadOptions As HtmlLoadOptions = New HtmlLoadOptions()
  
     Using pdfDocument As Document = New Document(htmlFile, htmlLoadOptions)

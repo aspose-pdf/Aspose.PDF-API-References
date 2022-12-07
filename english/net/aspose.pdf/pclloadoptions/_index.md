@@ -42,21 +42,24 @@ The following example shows how to convert PCL file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your PCL File.
-string pclFile = Path.Combine(dataDir, "PCL-to-PDF.pcl");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "PCL-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize PclLoadOptions	
-    PclLoadOptions pclLoadOptions = new PclLoadOptions();
-    
-using (Document pdfDocument = new Document(pclFile, pclLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your PCL File.
+	string pclFile = Path.Combine(dataDir, "PCL-to-PDF.pcl");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "PCL-to-PDF.pdf");
+
+	// Initialize PclLoadOptions	
+	PclLoadOptions pclLoadOptions = new PclLoadOptions();
+		
+	using (Document pdfDocument = new Document(pclFile, pclLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -64,12 +67,14 @@ using (Document pdfDocument = new Document(pclFile, pclLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PCL File.
     Dim pclFile = Path.Combine(dataDir, "PCL-to-PDF.pcl")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PCL-to-PDF.pdf")
  
-    ' initialize PclLoadOptions
+    ' Initialize PclLoadOptions
     Dim pclLoadOptions As PclLoadOptions = New PclLoadOptions()
  
     Using pdfDocument As Document = New Document(pclFile, pclLoadOptions)

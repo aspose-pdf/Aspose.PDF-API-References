@@ -34,21 +34,24 @@ The following example shows how to convert PS file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your PS File.
-string psFile = Path.Combine(dataDir, "PS-to-PDF.ps");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "PS-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize PsLoadOptions	
-    PsLoadOptions psLoadOptions = new PsLoadOptions();
-    
-using (Document pdfDocument = new Document(psFile, psLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your PS File.
+	string psFile = Path.Combine(dataDir, "PS-to-PDF.ps");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "PS-to-PDF.pdf");
+
+	// Initialize PsLoadOptions	
+	PsLoadOptions psLoadOptions = new PsLoadOptions();
+		
+	using (Document pdfDocument = new Document(psFile, psLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -56,12 +59,14 @@ using (Document pdfDocument = new Document(psFile, psLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PS File.
     Dim psFile = Path.Combine(dataDir, "PS-to-PDF.ps")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PS-to-PDF.pdf")
  
-    ' initialize PsLoadOptions  
+    ' Initialize PsLoadOptions  
     Dim psLoadOptions As PsLoadOptions = New PsLoadOptions()
  
     Using pdfDocument As Document = New Document(psFile, psLoadOptions)

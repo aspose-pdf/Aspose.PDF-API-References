@@ -56,25 +56,28 @@ The following example shows how to convert images (PNG, JPEG, GIF, BMP, or other
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your image (bmp, png, gif, jpeg, etc.) File.
-string imageFile = Path.Combine(dataDir, "Image-to-PDF.png");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
 
-//Initialize empty PDF document
-using(Document pdfDocument = new Document()) {
-  pdfDocument.Pages.Add();
-  Image image = new Image();
+	// The path to your image (bmp, png, gif, jpeg, etc.) File.
+	string imageFile = Path.Combine(dataDir, "Image-to-PDF.png");
 
-  // Load sample image file
-  image.File = imageFile;
-  pdfDocument.Pages[1].Paragraphs.Add(image);
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf");
 
-  // Save output PDF document
-  pdfDocument.Save(pdfFile);
-}
+	//Initialize empty PDF document
+	using(Document pdfDocument = new Document()) 
+	{
+	  pdfDocument.Pages.Add();
+	  Image image = new Image();
+
+	  // Load sample image file
+	  image.File = imageFile;
+	  pdfDocument.Pages[1].Paragraphs.Add(image);
+
+	  // Save output PDF document
+	  pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -82,8 +85,10 @@ using(Document pdfDocument = new Document()) {
 
     ' The path to the documents directory.
     Dim dataDir = "YOUR_DATA_DIRECTORY"
+
     ' The path to your image (bmp, png, gif, jpeg, etc.) File.
     Dim imageFile = Path.Combine(dataDir, "Image-to-PDF.png")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf")
  

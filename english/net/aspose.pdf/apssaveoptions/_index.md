@@ -41,20 +41,23 @@ The following example shows how to convert PDF file to APS file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-APS.pdf");
-// The path to output APS File.
-var apsFile = Path.Combine(dataDir, "PDF-to-APS.aps");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize ApsSaveOptions  	
-    ApsSaveOptions saveOptions = new ApsSaveOptions();
-    
-    // Save APS file
-    pdfDocument.Save(apsFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-APS.pdf");
+
+	// The path to output APS File.
+	var apsFile = Path.Combine(dataDir, "PDF-to-APS.aps");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize ApsSaveOptions  	
+		ApsSaveOptions saveOptions = new ApsSaveOptions();
+		
+		// Save APS file
+		pdfDocument.Save(apsFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -62,13 +65,16 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-APS.pdf")
+
     ' The path to output APS File.
     Dim apsFile = Path.Combine(dataDir, "PDF-to-APS.aps")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize ApsSaveOptions    
+
+        ' Initialize ApsSaveOptions    
         Dim saveOptions As ApsSaveOptions = New ApsSaveOptions()
  
         ' Save APS file

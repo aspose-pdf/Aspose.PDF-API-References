@@ -36,19 +36,21 @@ The following example shows how to set default font name while Saving PDF
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// Load an existing PDF document with missing font
-string documentName = dataDir + "input.pdf";
-string fontName = "Arial";
-using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
-using (Document document = new Document(fs))
-{
-    PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
-    // Specify Default Font Name
-    pdfSaveOptions.DefaultFontName = fontName;
-    document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// Load an existing PDF document with missing font
+	string documentName = dataDir + "input.pdf";
+	string fontName = "Arial";
+	using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
+	using (Document document = new Document(fs))
+	{
+		PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
+
+		// Specify Default Font Name
+		pdfSaveOptions.DefaultFontName = fontName;
+		document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
+	}
 ```
 
 ```csharp
@@ -56,6 +58,7 @@ using (Document document = new Document(fs))
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' Load an existing PDF document with missing font
     Dim documentName = dataDir & "input.pdf"
     Dim fontName = "Arial"
@@ -64,6 +67,7 @@ using (Document document = new Document(fs))
  
         Using document As Document = New Document(fs)
             Dim pdfSaveOptions As PdfSaveOptions = New PdfSaveOptions()
+
             ' Specify Default Font Name
             pdfSaveOptions.DefaultFontName = fontName
             document.Save(dataDir & "output_out.pdf", pdfSaveOptions)

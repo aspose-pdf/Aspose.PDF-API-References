@@ -33,21 +33,24 @@ The following example shows how to convert PDFXML file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your PDFXML File.
-string pdfXmlFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdfxml");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize PdfXmlLoadOptions	
-    PdfXmlLoadOptions pdfXmlLoadOptions = new PdfXmlLoadOptions();
-    
-using (Document pdfDocument = new Document(pdfXmlFile, pdfXmlLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your PDFXML File.
+	string pdfXmlFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdfxml");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdf");
+
+	// Initialize PdfXmlLoadOptions	
+	PdfXmlLoadOptions pdfXmlLoadOptions = new PdfXmlLoadOptions();
+		
+	using (Document pdfDocument = new Document(pdfXmlFile, pdfXmlLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -55,12 +58,14 @@ using (Document pdfDocument = new Document(pdfXmlFile, pdfXmlLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDFXML File.
     Dim pdfXmlFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdfxml")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdf")
  
-    ' initialize PdfXmlLoadOptions  
+    ' Initialize PdfXmlLoadOptions  
     Dim pdfXmlLoadOptions As PdfXmlLoadOptions = New PdfXmlLoadOptions()
  
     Using pdfDocument As Document = New Document(pdfXmlFile, pdfXmlLoadOptions)

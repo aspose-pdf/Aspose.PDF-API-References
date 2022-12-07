@@ -33,21 +33,24 @@ The following example shows how to convert MD file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your MD File.
-string mdFile = Path.Combine(dataDir, "MD-to-PDF.md");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize MdLoadOptions	
-    MdLoadOptions mdLoadOptions = new MdLoadOptions();
-    
-using (Document pdfDocument = new Document(mdFile, mdLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your MD File.
+	string mdFile = Path.Combine(dataDir, "MD-to-PDF.md");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf");
+
+	// Initialize MdLoadOptions	
+	MdLoadOptions mdLoadOptions = new MdLoadOptions();
+		
+	using (Document pdfDocument = new Document(mdFile, mdLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -55,12 +58,14 @@ using (Document pdfDocument = new Document(mdFile, mdLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your MD File.
     Dim mdFile = Path.Combine(dataDir, "MD-to-PDF.md")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf")
  
-    ' initialize MdLoadOptions  
+    ' Initialize MdLoadOptions  
     Dim mdLoadOptions As MdLoadOptions = New MdLoadOptions()
  
     Using pdfDocument As Document = New Document(mdFile, mdLoadOptions)

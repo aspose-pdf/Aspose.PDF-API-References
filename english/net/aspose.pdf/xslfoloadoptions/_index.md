@@ -46,15 +46,18 @@ The following example shows how to convert XSL-FO file to PDF file
 [C#]
 // The path to the documents directory.
 string dataDir = @"YOUR_DATA_DIRECTORY";
+
 // The path to your XSL-FO File.
 string xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo");
+
 // The path to output PDF File.
 string pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf");
 
-// initialize XslFoLoadOptions	
-    XslFoLoadOptions xslFoLoadOptions = new XslFoLoadOptions();
+// Initialize XslFoLoadOptions	
+XslFoLoadOptions xslFoLoadOptions = new XslFoLoadOptions();
     
-using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions)){
+using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
+{
  
     // Save PDF file
     pdfDocument.Save(pdfFile);
@@ -66,12 +69,14 @@ using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your XSL-FO File.
     Dim xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf")
  
-    ' initialize XslFoLoadOptions  
+    ' Initialize XslFoLoadOptions  
     Dim xslFoLoadOptions As XslFoLoadOptions = New XslFoLoadOptions()
  
     Using pdfDocument As Document = New Document(xslFoFile, xslFoLoadOptions)

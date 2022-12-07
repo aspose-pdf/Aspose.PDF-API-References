@@ -34,20 +34,22 @@ The following example shows how to convert PDF file to XML file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-XML.pdf");
-// The path to output XML File.
-var xmlFile= Path.Combine(dataDir, "PDF-to-XML.xml");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize XmlSaveOptions	
-    XmlSaveOptions saveOptions = new XmlSaveOptions();
-    
-    // Save XML file
-    pdfDocument.Save(xmlFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-XML.pdf");
+
+	// The path to output XML File.
+	var xmlFile= Path.Combine(dataDir, "PDF-to-XML.xml");
+		
+	using (Document pdfDocument = new Document(pdfFile)){
+		// Initialize XmlSaveOptions	
+		XmlSaveOptions saveOptions = new XmlSaveOptions();
+		
+		// Save XML file
+		pdfDocument.Save(xmlFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -55,13 +57,15 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-XML.pdf")
+
     ' The path to output XML File.
     Dim xmlFile = Path.Combine(dataDir, "PDF-to-XML.xml")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize XmlSaveOptions
+        ' Initialize XmlSaveOptions
         Dim saveOptions As XmlSaveOptions = New XmlSaveOptions()
  
         ' Save XML file

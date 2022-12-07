@@ -41,21 +41,25 @@ public class EpubSaveOptions : UnifiedSaveOptions
 The following example shows how to convert PDF file to EPUB file
 
 ```csharp
-[C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf");
-// The path to output EPUB File.
-var epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize EpubSaveOptions 	
-    EpubSaveOptions saveOptions = new EpubSaveOptions();
-    
-    // Save EPUB file
-    pdfDocument.Save(epubFile, saveOptions);
-}
+	[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf");
+
+	// The path to output EPUB File.
+	var epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+
+		// Initialize EpubSaveOptions 	
+		EpubSaveOptions saveOptions = new EpubSaveOptions();
+		
+		// Save EPUB file
+		pdfDocument.Save(epubFile, saveOptions);
+	}
 ````
 
 ```csharp
@@ -63,13 +67,16 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf")
+
     ' The path to output EPUB File.
     Dim epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize EpubSaveOptions    
+
+        ' Initialize EpubSaveOptions    
         Dim saveOptions As EpubSaveOptions = New EpubSaveOptions()
  
         ' Save EPUB file

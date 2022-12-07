@@ -33,33 +33,38 @@ The following example shows how to convert TXT file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your TXT File.
-string txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize TxtLoadOptions	
-    TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
-    
-using (Document pdfDocument = new Document(txtFile, txtLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your TXT File.
+	string txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf");
+
+	// Initialize TxtLoadOptions	
+	TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
+		
+	using (Document pdfDocument = new Document(txtFile, txtLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
 [VB.NET]
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your TXT File.
     Dim txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf")
  
-    ' initialize TxtLoadOptions
+    ' Initialize TxtLoadOptions
     Dim txtLoadOptions As TxtLoadOptions = New TxtLoadOptions()
  
     Using pdfDocument As Document = New Document(txtFile, txtLoadOptions)

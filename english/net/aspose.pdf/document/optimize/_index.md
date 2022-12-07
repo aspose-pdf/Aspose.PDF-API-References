@@ -40,10 +40,13 @@ The following example shows how to optimize a PDF document for the web.
 
     ' The path to your PDF File.
     Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
+	
     ' Open document
     Using pdfDocument As Document = New Document(pdfFilePath)
+
         ' Optimize for web
         pdfDocument.Optimize()
+
         ' Save output document
         pdfDocument.Save(pdfFilePath)
     End Using

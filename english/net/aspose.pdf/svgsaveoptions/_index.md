@@ -45,20 +45,23 @@ The following example shows how to convert PDF file to SVG file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf");
-// The path to output SVG File.
-var svgFile= Path.Combine(dataDir, "PDF-to-SVG.svg");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize SvgSaveOptions	
-    SvgSaveOptions saveOptions = new SvgSaveOptions();
-    
-    // Save SVG file
-    pdfDocument.Save(svgFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf");
+
+	// The path to output SVG File.
+	var svgFile= Path.Combine(dataDir, "PDF-to-SVG.svg");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize SvgSaveOptions	
+		SvgSaveOptions saveOptions = new SvgSaveOptions();
+		
+		// Save SVG file
+		pdfDocument.Save(svgFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -66,13 +69,15 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf")
+
     ' The path to output SVG File.
     Dim svgFile = Path.Combine(dataDir, "PDF-to-SVG.svg")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize SvgSaveOptions
+        ' Initialize SvgSaveOptions
         Dim saveOptions As SvgSaveOptions = New SvgSaveOptions()
  
         ' Save SVG file

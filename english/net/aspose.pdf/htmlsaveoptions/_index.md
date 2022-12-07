@@ -85,20 +85,23 @@ The following example shows how to convert PDF file to HTML file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-HTML.pdf");
-// The path to output HTML File.
-var htmlFile= Path.Combine(dataDir, "PDF-to-HTML.html");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize HtmlSaveOptions 	
-    HtmlSaveOptions saveOptions = new HtmlSaveOptions();
-    
-    // Save HTML file
-    pdfDocument.Save(htmlFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-HTML.pdf");
+
+	// The path to output HTML File.
+	var htmlFile= Path.Combine(dataDir, "PDF-to-HTML.html");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize HtmlSaveOptions 	
+		HtmlSaveOptions saveOptions = new HtmlSaveOptions();
+		
+		// Save HTML file
+		pdfDocument.Save(htmlFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -106,13 +109,15 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-HTML.pdf")
+
     ' The path to output HTML File.
     Dim htmlFile = Path.Combine(dataDir, "PDF-to-HTML.html")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize HtmlSaveOptions    
+        ' Initialize HtmlSaveOptions    
         Dim saveOptions As HtmlSaveOptions = New HtmlSaveOptions()
  
         ' Save HTML file

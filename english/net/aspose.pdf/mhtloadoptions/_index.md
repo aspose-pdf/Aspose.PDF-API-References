@@ -34,21 +34,24 @@ The following example shows how to convert MHT file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your MHT File.
-string mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize MhtLoadOptions	
-    MhtLoadOptions mhtLoadOptions = new MhtLoadOptions();
-    
-using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your MHT File.
+	string mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf");
+
+	// Initialize MhtLoadOptions	
+	MhtLoadOptions mhtLoadOptions = new MhtLoadOptions();
+		
+	using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -56,12 +59,14 @@ using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your MHT File.
     Dim mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf")
  
-    ' initialize MhtLoadOptions
+    ' Initialize MhtLoadOptions
     Dim mhtLoadOptions As MhtLoadOptions = New MhtLoadOptions()
  
     Using pdfDocument As Document = New Document(mhtFile, mhtLoadOptions)

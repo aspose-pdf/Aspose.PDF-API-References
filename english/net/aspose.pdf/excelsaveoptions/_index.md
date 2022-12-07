@@ -45,20 +45,23 @@ The following example shows how to convert PDF file to XLS or XLSX file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File.
-var pdfFile = Path.Combine(dataDir, "PDF-to-xlsx.pdf");
-// The path to output xls or xlsx File.
-var excelFile= Path.Combine(dataDir, "PDF-to-xlsx.xlsx");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize ExcelSaveOptions	
-    ExcelSaveOptions saveOptions = new ExcelSaveOptions();
-    
-    // Save xls or xlsx file
-    pdfDocument.Save(excelFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-xlsx.pdf");
+
+	// The path to output xls or xlsx File.
+	var excelFile= Path.Combine(dataDir, "PDF-to-xlsx.xlsx");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize ExcelSaveOptions	
+		ExcelSaveOptions saveOptions = new ExcelSaveOptions();
+		
+		// Save xls or xlsx file
+		pdfDocument.Save(excelFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -66,13 +69,15 @@ using (Document pdfDocument = new Document(pdfFile)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-    ' The path to your PDF File.
+    
+	' The path to your PDF File.
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-xlsx.pdf")
-    ' The path to output xls or xlsx File.
+    
+	' The path to output xls or xlsx File.
     Dim excelFile = Path.Combine(dataDir, "PDF-to-xlsx.xlsx")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize ExcelSaveOptions  
+        ' Initialize ExcelSaveOptions  
         Dim saveOptions As ExcelSaveOptions = New ExcelSaveOptions()
  
         ' Save xls or xlsx file

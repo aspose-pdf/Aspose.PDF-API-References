@@ -34,21 +34,23 @@ The following example shows how to convert XPS file to PDF file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-// The path to your XPS File.
-string xpsFile = Path.Combine(dataDir, "XPS-to-PDF.xps");
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "XPS-to-PDF.pdf");
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// initialize XpsLoadOptions	
-    XpsLoadOptions xpsLoadOptions = new XpsLoadOptions();
-    
-using (Document pdfDocument = new Document(xpsFile, xpsLoadOptions)){
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
+	// The path to your XPS File.
+	string xpsFile = Path.Combine(dataDir, "XPS-to-PDF.xps");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "XPS-to-PDF.pdf");
+
+	// Initialize XpsLoadOptions	
+	XpsLoadOptions xpsLoadOptions = new XpsLoadOptions();
+		
+	using (Document pdfDocument = new Document(xpsFile, xpsLoadOptions)){
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
 ```
 
 ```csharp
@@ -56,12 +58,14 @@ using (Document pdfDocument = new Document(xpsFile, xpsLoadOptions)){
 
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your XPS File.
     Dim xpsFile = Path.Combine(dataDir, "XPS-to-PDF.xps")
+
     ' The path to output PDF File.
     Dim pdfFile = Path.Combine(dataDir, "XPS-to-PDF.pdf")
  
-    ' initialize XpsLoadOptions
+    ' Initialize XpsLoadOptions
     Dim xpsLoadOptions As XpsLoadOptions = New XpsLoadOptions()
  
     Using pdfDocument As Document = New Document(xpsFile, xpsLoadOptions)

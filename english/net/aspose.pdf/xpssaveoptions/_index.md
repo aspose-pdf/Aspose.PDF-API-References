@@ -43,20 +43,23 @@ The following example shows how to convert PDF file to XPS file
 
 ```csharp
 [C#]
-// The path to the documents directory.
-string dataDir = "YOUR_DATA_DIRECTORY";
-// The path to your PDF File
-var pdfFile = Path.Combine(dataDir, "PDF-to-XPS.pdf");
-// The path to your XPS File
-var xpsFile= Path.Combine(dataDir, "PDF-to-XPS.xps");
-    
-using (Document pdfDocument = new Document(pdfFile)){
-    // initialize XpsSaveOptions	
-    XpsSaveOptions saveOptions = new XpsSaveOptions();
-    
-    // Save XPS file
-    pdfDocument.Save(xpsFile, saveOptions);
-}
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File
+	var pdfFile = Path.Combine(dataDir, "PDF-to-XPS.pdf");
+
+	// The path to your XPS File
+	var xpsFile= Path.Combine(dataDir, "PDF-to-XPS.xps");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize XpsSaveOptions	
+		XpsSaveOptions saveOptions = new XpsSaveOptions();
+		
+		// Save XPS file
+		pdfDocument.Save(xpsFile, saveOptions);
+	}
 ```
 
 ```csharp
@@ -64,13 +67,15 @@ using (Document pdfDocument = new Document(pdfFile)){
  
     ' The path to the documents directory.
     Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
     ' The path to your PDF File
     Dim pdfFile = Path.Combine(dataDir, "PDF-to-XPS.pdf")
+
     ' The path to your XPS File
     Dim xpsFile = Path.Combine(dataDir, "PDF-to-XPS.xps")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize XpsSaveOptions
+        ' Initialize XpsSaveOptions
         Dim saveOptions As XpsSaveOptions = New XpsSaveOptions()
  
         ' Save XPS file

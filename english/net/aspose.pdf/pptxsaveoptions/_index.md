@@ -57,7 +57,7 @@ The following example shows how to convert PDF file to PPT or PPTX file
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// initialize PptxSaveOptions	
+		// Initialize PptxSaveOptions	
 		PptxSaveOptions saveOptions = new PptxSaveOptions();
 		
 		// Save PPT or PPTX file
@@ -76,7 +76,7 @@ The following example shows how to convert PDF file to PPT or PPTX file
     Dim pptxFile = Path.Combine(dataDir, "PDF-to-PPTX.pptx")
  
     Using pdfDocument As Document = New Document(pdfFile)
-        ' initialize PptxSaveOptions    
+        ' Initialize PptxSaveOptions    
         Dim saveOptions As PptxSaveOptions = New PptxSaveOptions()
  
         ' Save PPT or PPTX file
