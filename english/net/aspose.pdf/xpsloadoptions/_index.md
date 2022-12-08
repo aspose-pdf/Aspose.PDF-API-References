@@ -28,6 +28,53 @@ public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
+## Examples
+
+The following example shows how to convert XPS file to PDF file
+
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The path to your XPS File.
+	string xpsFile = Path.Combine(dataDir, "XPS-to-PDF.xps");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "XPS-to-PDF.pdf");
+
+	// Initialize XpsLoadOptions	
+	XpsLoadOptions xpsLoadOptions = new XpsLoadOptions();
+		
+	using (Document pdfDocument = new Document(xpsFile, xpsLoadOptions)){
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your XPS File.
+    Dim xpsFile = Path.Combine(dataDir, "XPS-to-PDF.xps")
+
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "XPS-to-PDF.pdf")
+ 
+    ' Initialize XpsLoadOptions
+    Dim xpsLoadOptions As XpsLoadOptions = New XpsLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(xpsFile, xpsLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
 ### See Also
 
 * class [LoadOptions](../loadoptions)

@@ -43,6 +43,70 @@ public sealed class GifDevice : ImageDevice
 | override [Process](../../aspose.pdf.devices/gifdevice/process#process)(Page, Stream) | Converts the page into gif and saves it in the output stream. |
 | [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
+## Examples
+
+The following example shows how to convert PDF file to GIF Images.
+
+```csharp
+[C#]
+	// The path to your PDF Directory
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The file name of the PDF
+	string pdfFile = @"YOUR_PDF_FILE";
+
+	// Initialize instance of Document class
+	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
+	{
+		// Create Resolution object 	
+		Resolution resolution = new Resolution(300);
+
+		// Initialize GifDevice	
+		GifDevice gifDevice = new GifDevice(resolution);
+		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
+		{
+			using (FileStream gifStream =
+			new FileStream($"{dataDir}image{pageCount}_out.gif",
+			FileMode.Create))
+			{
+				// Convert a particular page and save the image to stream
+				gifDevice.Process(pdfDocument.Pages[pageCount], gifStream);
+
+				// Close stream
+				gifStream.Close();
+			}
+		}
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to your PDF Directory
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The file name of the PDF
+    Dim pdfFile As String = "YOUR_PDF_FILE"
+ 
+    ' Initialize instance of Document class 
+	Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
+		' Create Resolution object  
+		Dim resolution As Resolution = New Resolution(300)
+	
+		' Initialize GifDevice  
+		Dim gifDevice As GifDevice = New GifDevice(resolution)
+		For pageCount As Integer = 1 To pdfDocument.Pages.Count
+			Using gifStream As FileStream = New FileStream($"{dataDir}image{pageCount}_out.gif", FileMode.Create)
+		   
+				' Convert a particular page and save the image to stream
+				gifDevice.Process(pdfDocument.Pages(pageCount), gifStream)
+
+				' Close stream
+				gifStream.Close()
+			End Using
+		Next
+	End Using
+```
+
 ### See Also
 
 * class [ImageDevice](../imagedevice)
