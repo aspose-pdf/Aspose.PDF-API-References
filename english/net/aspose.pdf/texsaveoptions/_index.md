@@ -3,7 +3,7 @@ title: TeXSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to TeX format
 type: docs
-weight: 6600
+weight: 6610
 url: /net/aspose.pdf/texsaveoptions/
 ---
 ## TeXSaveOptions class
@@ -43,52 +43,6 @@ public class TeXSaveOptions : UnifiedSaveOptions
 | Name | Description |
 | --- | --- |
 | [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
-
-## Examples
-
-The following example shows how to convert PDF file to TeX file
-
-```csharp
-[C#]
-	// The path to the documents directory.
-	string dataDir = "YOUR_DATA_DIRECTORY";
-
-	// The path to your PDF File.
-	var pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf");
-
-	// The path to output TeX File.
-	var texFile= Path.Combine(dataDir, "PDF-to-TeX.tex");
-		
-	using (Document pdfDocument = new Document(pdfFile))
-	{
-		// Initialize TeXSaveOptions	
-		TeXSaveOptions saveOptions = new TeXSaveOptions();
-		
-		// Save TeX file
-		pdfDocument.Save(texFile, saveOptions);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-
-    ' The path to your PDF File.
-    Dim pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf")
-
-    ' The path to output TeX File.
-    Dim texFile = Path.Combine(dataDir, "PDF-to-TeX.tex")
- 
-    Using pdfDocument As Document = New Document(pdfFile)
-        ' Initialize TeXSaveOptions
-        Dim saveOptions As TeXSaveOptions = New TeXSaveOptions()
- 
-        ' Save TeX file
-        pdfDocument.Save(texFile, saveOptions)
-    End Using
-```
 
 ### See Also
 

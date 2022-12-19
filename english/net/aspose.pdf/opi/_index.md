@@ -3,7 +3,7 @@ title: Opi
 second_title: Aspose.PDF for .NET API Reference
 description: Represents The Open Prepress Interface OPI is a mechanism for creating low-resolution placeholders or proxies for such high-resolution images.
 type: docs
-weight: 5710
+weight: 5720
 url: /net/aspose.pdf/opi/
 ---
 ## Opi class

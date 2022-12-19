@@ -3,7 +3,7 @@ title: MdLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Load options for Markdown format conversion.
 type: docs
-weight: 4770
+weight: 4780
 url: /net/aspose.pdf/mdloadoptions/
 ---
 ## MdLoadOptions class
@@ -26,54 +26,6 @@ public class MdLoadOptions : LoadOptions
 | --- | --- |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
-
-## Examples
-
-The following example shows how to convert MD file to PDF file
-
-```csharp
-[C#]
-	// The path to the documents directory.
-	string dataDir = @"YOUR_DATA_DIRECTORY";
-
-	// The path to your MD File.
-	string mdFile = Path.Combine(dataDir, "MD-to-PDF.md");
-
-	// The path to output PDF File.
-	string pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf");
-
-	// Initialize MdLoadOptions	
-	MdLoadOptions mdLoadOptions = new MdLoadOptions();
-		
-	using (Document pdfDocument = new Document(mdFile, mdLoadOptions))
-	{
-	 
-		// Save PDF file
-		pdfDocument.Save(pdfFile);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-
-    ' The path to your MD File.
-    Dim mdFile = Path.Combine(dataDir, "MD-to-PDF.md")
-
-    ' The path to output PDF File.
-    Dim pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf")
- 
-    ' Initialize MdLoadOptions  
-    Dim mdLoadOptions As MdLoadOptions = New MdLoadOptions()
- 
-    Using pdfDocument As Document = New Document(mdFile, mdLoadOptions)
- 
-        ' Save PDF file
-        pdfDocument.Save(pdfFile)
-    End Using
-```
 
 ### See Also
 

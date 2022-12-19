@@ -3,7 +3,7 @@ title: Group
 second_title: Aspose.PDF for .NET API Reference
 description: A group attributes class specifying the attributes of the pages page group for use in the transparent imaging model.
 type: docs
-weight: 3290
+weight: 3300
 url: /net/aspose.pdf/group/
 ---
 ## Group class

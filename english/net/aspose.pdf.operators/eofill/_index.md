@@ -3,7 +3,7 @@ title: EOFill
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing f operator fill path using even-odd rule.
 type: docs
-weight: 5110
+weight: 5120
 url: /net/aspose.pdf.operators/eofill/
 ---
 ## EOFill class

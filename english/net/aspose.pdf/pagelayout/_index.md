@@ -3,7 +3,7 @@ title: PageLayout
 second_title: Aspose.PDF for .NET API Reference
 description: Descibes page layout.
 type: docs
-weight: 5880
+weight: 5890
 url: /net/aspose.pdf/pagelayout/
 ---
 ## PageLayout enumeration

@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates 14 types of font.
 type: docs
-weight: 2290
+weight: 2300
 url: /net/aspose.pdf.facades/fontstyle/
 ---
 ## FontStyle enumeration

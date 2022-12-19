@@ -23,42 +23,6 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 | cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm) for details. |
 | usePdf20 | Boolean | Support for revision 6 (Extension 8). |
 
-### Examples
-
-The following example shows how to encrypt PDF files with [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
-
-```csharp
-[C#]
-
-	// The path to your PDF File.
-	string pdfFilePath = "YOUR_PDF_FILE_PATH";
-
-	// Open document
-	using (Document document = new Document(pdfFilePath))
-	{
-	// Encrypt PDF
-	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
-
-	// Save updated PDF
-	document.Save(pdfFilePath);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to your PDF File.
-    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
-    
-	' Open document
-    Using document As Document = New Document(pdfFilePath)
-        ' Encrypt PDF
-        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
-        ' Save updated PDF
-        document.Save(pdfFilePath)
-    End Using
-```
-
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
@@ -84,44 +48,6 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | ownerPassword | String | Owner password. |
 | permissions | Permissions | Document permissions, see [`Permissions`](../permissions) for details. |
 | cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm) for details. |
-
-### Examples
-
-The following example shows how to encrypt PDF files with [Permissions](../../permissions)
-
-```csharp
-[C#]
-
-	// The path to your PDF File.
-	string pdfFilePath = "YOUR_PDF_FILE_PATH";
-
-	// Open document
-	using (Document document = new Document(pdfFilePath))
-	{
-	// Encrypt PDF
-	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", Permissions.ModifyContent, CryptoAlgorithm.RC4x128);
-
-	// Save updated PDF
-	document.Save(pdfFilePath);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to your PDF File.
-    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
-
-    ' Open document 
-    Using document As Document = New Document(pdfFilePath)
-        
-		' Encrypt PDF
-        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", Permissions.ModifyContent, CryptoAlgorithm.RC4x128)
-        
-		' Save updated PDF
-        document.Save(pdfFilePath)
-    End Using
-```
 
 ### See Also
 

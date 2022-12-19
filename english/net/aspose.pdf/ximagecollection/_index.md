@@ -3,7 +3,7 @@ title: XImageCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing XImage collection.
 type: docs
-weight: 7420
+weight: 7430
 url: /net/aspose.pdf/ximagecollection/
 ---
 ## XImageCollection class

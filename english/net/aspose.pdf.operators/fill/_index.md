@@ -3,7 +3,7 @@ title: Fill
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing f operator fill path with nonzero winding number rule.
 type: docs
-weight: 5160
+weight: 5170
 url: /net/aspose.pdf.operators/fill/
 ---
 ## Fill class

@@ -3,7 +3,7 @@ title: HtmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing html file into pdf document.
 type: docs
-weight: 3410
+weight: 3420
 url: /net/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class
@@ -41,53 +41,6 @@ public sealed class HtmlLoadOptions : LoadOptions
 | --- | --- |
 | [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources) | Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method that will get requested resources from somewhere. For example, during usage of Aspose.PDF in cloude direct access to referenced files impossible: in such case some custome code put into special method should be used, and delegate that refers that method should be assygned to this attribute. |
 | [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials) | If loading of external data referenced in HTML requirs credentials, You can put them into this parameter - they will be used during loading of external resources |
-
-## Examples
-
-The following example shows how to convert HTML file to PDF file
-
-```csharp
-[C#]
-	// The path to the documents directory.
-	string dataDir = @"YOUR_DATA_DIRECTORY";
-
-	// The path to your HTML File.
-	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
-
-	// The path to output PDF File.
-	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
-
-	// Initialize HtmlLoadOptions	
-	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
-		
-	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
-	{ 
-		// Save PDF file
-		pdfDocument.Save(pdfFile);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-
-    ' The path to your HTML File.
-    Dim htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html")
-
-    ' The path to output PDF File.
-    Dim pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf")
- 
-    ' Initialize HtmlLoadOptions    
-    Dim htmlLoadOptions As HtmlLoadOptions = New HtmlLoadOptions()
- 
-    Using pdfDocument As Document = New Document(htmlFile, htmlLoadOptions)
- 
-        ' Save PDF file
-        pdfDocument.Save(pdfFile)
-    End Using
-```
 
 ### See Also
 

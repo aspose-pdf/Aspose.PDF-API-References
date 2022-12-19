@@ -3,7 +3,7 @@ title: XslFoLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing XSL-FO file into pdf document.
 type: docs
-weight: 7590
+weight: 7600
 url: /net/aspose.pdf/xslfoloadoptions/
 ---
 ## XslFoLoadOptions class
@@ -37,54 +37,6 @@ public sealed class XslFoLoadOptions : XmlLoadOptions
 | Name | Description |
 | --- | --- |
 | [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype) | Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handking of that errors |
-
-## Examples
-
-The following example shows how to convert XSL-FO file to PDF file
-
-```csharp
-[C#]
-// The path to the documents directory.
-string dataDir = @"YOUR_DATA_DIRECTORY";
-
-// The path to your XSL-FO File.
-string xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo");
-
-// The path to output PDF File.
-string pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf");
-
-// Initialize XslFoLoadOptions	
-XslFoLoadOptions xslFoLoadOptions = new XslFoLoadOptions();
-    
-using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
-{
- 
-    // Save PDF file
-    pdfDocument.Save(pdfFile);
-}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-
-    ' The path to your XSL-FO File.
-    Dim xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo")
-
-    ' The path to output PDF File.
-    Dim pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf")
- 
-    ' Initialize XslFoLoadOptions  
-    Dim xslFoLoadOptions As XslFoLoadOptions = New XslFoLoadOptions()
- 
-    Using pdfDocument As Document = New Document(xslFoFile, xslFoLoadOptions)
- 
-        ' Save PDF file
-        pdfDocument.Save(pdfFile)
-    End Using
-```
 
 ### See Also
 

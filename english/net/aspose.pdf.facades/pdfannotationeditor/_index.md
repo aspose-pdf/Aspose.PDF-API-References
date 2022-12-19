@@ -3,7 +3,7 @@ title: PdfAnnotationEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class for work with PDF document annotations comments.
 type: docs
-weight: 2420
+weight: 2430
 url: /net/aspose.pdf.facades/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor class

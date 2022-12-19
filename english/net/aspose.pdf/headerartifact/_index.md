@@ -3,7 +3,7 @@ title: HeaderArtifact
 second_title: Aspose.PDF for .NET API Reference
 description: Class describes Heaader artifact. This artifacgt may be used to set heading of the page.
 type: docs
-weight: 3350
+weight: 3360
 url: /net/aspose.pdf/headerartifact/
 ---
 ## HeaderArtifact class

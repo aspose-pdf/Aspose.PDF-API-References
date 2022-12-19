@@ -3,7 +3,7 @@ title: TableTDElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents TD structure element in logical structure of the table.
 type: docs
-weight: 4650
+weight: 4660
 url: /net/aspose.pdf.logicalstructure/tabletdelement/
 ---
 ## TableTDElement class

@@ -3,7 +3,7 @@ title: ImageCompressionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Class contains set options for image compression.
 type: docs
-weight: 5720
+weight: 5730
 url: /net/aspose.pdf.optimization/imagecompressionoptions/
 ---
 ## ImageCompressionOptions class

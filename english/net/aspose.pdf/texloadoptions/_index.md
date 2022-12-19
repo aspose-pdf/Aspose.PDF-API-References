@@ -3,7 +3,7 @@ title: TeXLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing TeX file into PDF document.
 type: docs
-weight: 6580
+weight: 6590
 url: /net/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class
@@ -35,54 +35,6 @@ public class TeXLoadOptions : LoadOptions
 | [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput) { get; set; } | Gets/sets the flag indicating whether to show terminal output on the console. |
 | [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts) { get; set; } | Gets/sets the flag indicating whether to subset fonts in output file or not. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
-
-## Examples
-
-The following example shows how to convert TeX file to PDF file
-
-```csharp
-[C#]
-	// The path to the documents directory.
-	string dataDir = @"YOUR_DATA_DIRECTORY";
-
-	// The path to your TeX File.
-	string texFile = Path.Combine(dataDir, "TeX-to-PDF.tex");
-
-	// The path to output PDF File.
-	string pdfFile = Path.Combine(dataDir, "Tex-to-PDF.pdf");
-
-	// Initialize TeXLoadOptions	
-	TeXLoadOptions texLoadOptions = new TeXLoadOptions();
-		
-	using (Document pdfDocument = new Document(texFile, texLoadOptions))
-	{
-	 
-		// Save PDF file
-		pdfDocument.Save(pdfFile);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-
-    ' The path to your TeX File.
-    Dim texFile = Path.Combine(dataDir, "TeX-to-PDF.tex")
-
-    ' The path to output PDF File.
-    Dim pdfFile = Path.Combine(dataDir, "Tex-to-PDF.pdf")
- 
-    ' Initialize TeXLoadOptions
-    Dim texLoadOptions As TeXLoadOptions = New TeXLoadOptions()
- 
-    Using pdfDocument As Document = New Document(texFile, texLoadOptions)
- 
-        ' Save PDF file
-        pdfDocument.Save(pdfFile)
-    End Using
-```
 
 ### See Also
 

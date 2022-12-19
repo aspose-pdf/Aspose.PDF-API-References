@@ -3,7 +3,7 @@ title: PdfFileEditor.ContentsResizeValue
 second_title: Aspose.PDF for .NET API Reference
 description: Value of margin or content size specified in percents of default space units. This class is used in ContentsResizeParameters.
 type: docs
-weight: 2500
+weight: 2510
 url: /net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/
 ---
 ## PdfFileEditor.ContentsResizeValue class

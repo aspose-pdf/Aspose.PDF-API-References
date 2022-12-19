@@ -3,7 +3,7 @@ title: BX
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing BX operator begin compatibility section.
 type: docs
-weight: 4930
+weight: 4940
 url: /net/aspose.pdf.operators/bx/
 ---
 ## BX class

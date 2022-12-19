@@ -3,7 +3,7 @@ title: SvgSaveOptions.SvgExternalImageType
 second_title: Aspose.PDF for .NET API Reference
 description: enumerates possible types of image files that can be saved as external resources during during Pdf to SVG conversion
 type: docs
-weight: 6480
+weight: 6490
 url: /net/aspose.pdf/svgsaveoptions.svgexternalimagetype/
 ---
 ## SvgSaveOptions.SvgExternalImageType enumeration

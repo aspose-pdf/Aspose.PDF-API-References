@@ -3,7 +3,7 @@ title: AutoFiller
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class to receive data from database or other datasource fills them into the designed fields of the template pdf and at last generates new pdf file or stream. It has two template file input modesinput as a stream or a pdf file. It has four types of output modesone merged stream one merged file many small streams many small files. It can recieve literal data contained in a System.Data.DataTable.
 type: docs
-weight: 2170
+weight: 2180
 url: /net/aspose.pdf.facades/autofiller/
 ---
 ## AutoFiller class

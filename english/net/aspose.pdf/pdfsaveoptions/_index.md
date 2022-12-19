@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to Pdf format
 type: docs
-weight: 6090
+weight: 6100
 url: /net/aspose.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -29,51 +29,6 @@ public class PdfSaveOptions : SaveOptions
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format of data save. |
 | [TempPath](../../aspose.pdf/pdfsaveoptions/temppath) { get; set; } | Path for temporary files. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
-
-## Examples
-
-The following example shows how to set default font name while Saving PDF
-
-```csharp
-[C#]
-	// The path to the documents directory.
-	string dataDir = "YOUR_DATA_DIRECTORY";
-
-	// Load an existing PDF document with missing font
-	string documentName = dataDir + "input.pdf";
-	string fontName = "Arial";
-	using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
-	using (Document document = new Document(fs))
-	{
-		PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
-
-		// Specify Default Font Name
-		pdfSaveOptions.DefaultFontName = fontName;
-		document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-
-    ' Load an existing PDF document with missing font
-    Dim documentName = dataDir & "input.pdf"
-    Dim fontName = "Arial"
- 
-    Using fs As FileStream = New FileStream(documentName, FileMode.Open)
- 
-        Using document As Document = New Document(fs)
-            Dim pdfSaveOptions As PdfSaveOptions = New PdfSaveOptions()
-
-            ' Specify Default Font Name
-            pdfSaveOptions.DefaultFontName = fontName
-            document.Save(dataDir & "output_out.pdf", pdfSaveOptions)
-        End Using
-    End Using
-```
 
 ### See Also
 

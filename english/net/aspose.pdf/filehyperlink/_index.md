@@ -3,7 +3,7 @@ title: FileHyperlink
 second_title: Aspose.PDF for .NET API Reference
 description: Represents file hyperlink object.
 type: docs
-weight: 2800
+weight: 2810
 url: /net/aspose.pdf/filehyperlink/
 ---
 ## FileHyperlink class

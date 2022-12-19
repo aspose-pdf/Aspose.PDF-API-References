@@ -3,7 +3,7 @@ title: ElementList
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an ordered collection of elements.
 type: docs
-weight: 4170
+weight: 4180
 url: /net/aspose.pdf.logicalstructure/elementlist/
 ---
 ## ElementList class

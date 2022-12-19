@@ -3,7 +3,7 @@ title: PngDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Represents image device that helps to save pdf document pages into png.
 type: docs
-weight: 1750
+weight: 1760
 url: /net/aspose.pdf.devices/pngdevice/
 ---
 ## PngDevice class
@@ -43,70 +43,6 @@ public sealed class PngDevice : ImageDevice
 | --- | --- |
 | override [Process](../../aspose.pdf.devices/pngdevice/process#process)(Page, Stream) | Converts the page into png and saves it in the output stream. |
 | [Process](../../aspose.pdf.devices/pagedevice/process)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
-
-## Examples
-
-The following example shows how to convert PDF file to PNG Images.
-
-```csharp
-[C#]
-	// The path to your PDF Directory
-	string dataDir = @"YOUR_DATA_DIRECTORY";
-
-	// The file name of the PDF
-	string pdfFile = @"YOUR_PDF_FILE";
-
-	// Initialize instance of Document class
-	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
-	{
-		// Create Resolution object 	
-		Resolution resolution = new Resolution(300);
-
-		// Initialize PngDevice	
-		PngDevice pngDevice = new PngDevice(resolution);
-		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
-		{
-			using (FileStream pngStream =
-			new FileStream($"{dataDir}image{pageCount}_out.png",
-			FileMode.Create))
-			{
-				// Convert a particular page and save the image to stream
-				pngDevice.Process(pdfDocument.Pages[pageCount], pngStream);
-
-				// Close stream
-				pngStream.Close();
-			}
-		}
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to your PDF Directory
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-	
-    ' The file name of the PDF
-    Dim pdfFile As String = "YOUR_PDF_FILE"
- 
-    ' Initialize instance of Document class
-	Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
-		' Create Resolution object  
-		Dim resolution As Resolution = New Resolution(300)
-		' initialize PngDevice  
-
-		Dim pngDevice As PngDevice = New PngDevice(resolution)
-		For pageCount As Integer = 1 To pdfDocument.Pages.Count
-			Using pngStream As FileStream = New FileStream($"{dataDir}image{pageCount}_out.png", FileMode.Create)
-				' Convert a particular page and save the image to stream
-				pngDevice.Process(pdfDocument.Pages(pageCount), pngStream)
-
-				' Close stream
-				pngStream.Close()
-			End Using
-		Next
-	End Using
-```
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Form
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Acro form object.
 type: docs
-weight: 2300
+weight: 2310
 url: /net/aspose.pdf.facades/form/
 ---
 ## Form class

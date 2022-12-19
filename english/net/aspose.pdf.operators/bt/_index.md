@@ -3,7 +3,7 @@ title: BT
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing BT operator Begin of text block.
 type: docs
-weight: 4920
+weight: 4930
 url: /net/aspose.pdf.operators/bt/
 ---
 ## BT class

@@ -3,7 +3,7 @@ title: PdfProducer
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class to produce PDF from other formats. This sample shows how to produce Pdf file from CGM file.
 type: docs
-weight: 2620
+weight: 2630
 url: /net/aspose.pdf.facades/pdfproducer/
 ---
 ## PdfProducer class

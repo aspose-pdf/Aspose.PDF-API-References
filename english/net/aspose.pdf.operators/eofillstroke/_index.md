@@ -3,7 +3,7 @@ title: EOFillStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing B operator fill and stroke path usign even-odd rule.
 type: docs
-weight: 5120
+weight: 5130
 url: /net/aspose.pdf.operators/eofillstroke/
 ---
 ## EOFillStroke class

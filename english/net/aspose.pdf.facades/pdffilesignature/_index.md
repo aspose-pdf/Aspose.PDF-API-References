@@ -3,7 +3,7 @@ title: PdfFileSignature
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class to sign a pdf file with a certificate.
 type: docs
-weight: 2570
+weight: 2580
 url: /net/aspose.pdf.facades/pdffilesignature/
 ---
 ## PdfFileSignature class

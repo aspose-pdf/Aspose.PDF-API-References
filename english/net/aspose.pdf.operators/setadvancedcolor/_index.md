@@ -3,7 +3,7 @@ title: SetAdvancedColor
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing scn operator set color for non-stroking operations.
 type: docs
-weight: 5330
+weight: 5340
 url: /net/aspose.pdf.operators/setadvancedcolor/
 ---
 ## SetAdvancedColor class

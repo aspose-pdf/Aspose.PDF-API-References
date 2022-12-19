@@ -3,7 +3,7 @@ title: Bookmarks
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a collection of Bookmark./bookmark objects.
 type: docs
-weight: 2210
+weight: 2220
 url: /net/aspose.pdf.facades/bookmarks/
 ---
 ## Bookmarks class

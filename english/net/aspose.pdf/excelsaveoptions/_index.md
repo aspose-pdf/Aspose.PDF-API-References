@@ -3,7 +3,7 @@ title: ExcelSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to Excel format
 type: docs
-weight: 2120
+weight: 2130
 url: /net/aspose.pdf/excelsaveoptions/
 ---
 ## ExcelSaveOptions class
@@ -38,52 +38,6 @@ public class ExcelSaveOptions : UnifiedSaveOptions
 | Name | Description |
 | --- | --- |
 | [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
-
-## Examples
-
-The following example shows how to convert PDF file to XLS or XLSX file
-
-```csharp
-[C#]
-	// The path to the documents directory.
-	string dataDir = "YOUR_DATA_DIRECTORY";
-
-	// The path to your PDF File.
-	var pdfFile = Path.Combine(dataDir, "PDF-to-xlsx.pdf");
-
-	// The path to output xls or xlsx File.
-	var excelFile= Path.Combine(dataDir, "PDF-to-xlsx.xlsx");
-		
-	using (Document pdfDocument = new Document(pdfFile))
-	{
-		// Initialize ExcelSaveOptions	
-		ExcelSaveOptions saveOptions = new ExcelSaveOptions();
-		
-		// Save xls or xlsx file
-		pdfDocument.Save(excelFile, saveOptions);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to the documents directory.
-    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
-    
-	' The path to your PDF File.
-    Dim pdfFile = Path.Combine(dataDir, "PDF-to-xlsx.pdf")
-    
-	' The path to output xls or xlsx File.
-    Dim excelFile = Path.Combine(dataDir, "PDF-to-xlsx.xlsx")
- 
-    Using pdfDocument As Document = New Document(pdfFile)
-        ' Initialize ExcelSaveOptions  
-        Dim saveOptions As ExcelSaveOptions = New ExcelSaveOptions()
- 
-        ' Save xls or xlsx file
-        pdfDocument.Save(excelFile, saveOptions)
-    End Using
-```
 
 ### See Also
 

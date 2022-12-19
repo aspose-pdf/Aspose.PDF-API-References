@@ -3,7 +3,7 @@ title: LinkElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Link structure element in logical structure.
 type: docs
-weight: 4280
+weight: 4290
 url: /net/aspose.pdf.logicalstructure/linkelement/
 ---
 ## LinkElement class

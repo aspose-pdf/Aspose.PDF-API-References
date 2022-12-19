@@ -3,7 +3,7 @@ title: Algorithm
 second_title: Aspose.PDF for .NET API Reference
 description: Represents algorithms which can be used to encrypt pdf document.
 type: docs
-weight: 2160
+weight: 2170
 url: /net/aspose.pdf.facades/algorithm/
 ---
 ## Algorithm enumeration
