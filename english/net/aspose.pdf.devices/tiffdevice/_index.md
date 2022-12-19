@@ -58,6 +58,73 @@ public sealed class TiffDevice : DocumentDevice
 | override [Process](../../aspose.pdf.devices/tiffdevice/process#process)(Document, int, int, Stream) | Converts certain document pages into tiff and save it in the output stream. |
 | [Process](../../aspose.pdf.devices/documentdevice/process)(Document, int, int, string) | Processes certain pages of the document and saves results into file. |
 
+## Examples
+
+The following example shows how to convert PDF file to TIFF Images.
+
+```csharp
+[C#]
+	// The path to your PDF Directory
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The file name of the PDF
+	string pdfFile = @"YOUR_PDF_FILE";
+
+	// Initialize instance of Document class
+	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
+	{
+		// Create Resolution object 	
+		Resolution resolution = new Resolution(300);
+		
+		// Create TiffSettings object
+		TiffSettings tiffSettings = new TiffSettings
+		{
+			Compression = CompressionType.None,
+			Depth = ColorDepth.Default,
+			Shape = ShapeType.Landscape,
+			SkipBlankPages = false
+		};
+
+		// Create TIFF device
+		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
+
+		// Convert a PDF document to TIFF image
+		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to your PDF Directory
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+	
+    ' The file name of the PDF
+    Dim pdfFile As String = "YOUR_PDF_FILE"
+ 
+    ' Initialize instance of Document class 
+	Using pdfDocument As Document = New Document(Path.Combine(dataDir, pdfFile))
+	
+		' Create Resolution object  
+		Dim resolution As Resolution = New Resolution(300)
+		
+		' Create TiffSettings object
+		Dim tiffSettings As TiffSettings = New TiffSettings With {
+		  .Compression = CompressionType.None,
+			.Depth = ColorDepth.[Default],
+			.Shape = ShapeType.Landscape,
+			.SkipBlankPages = False
+		}
+
+		' Create TIFF device
+		Dim tiffDevice As TiffDevice = New TiffDevice(resolution, tiffSettings)
+
+		' Convert a PDF document to TIFF image
+		tiffDevice.Process(pdfDocument, dataDir & "AllPagesToTIFF_out.tif")
+
+	End Using
+```
+
 ### See Also
 
 * class [DocumentDevice](../documentdevice)

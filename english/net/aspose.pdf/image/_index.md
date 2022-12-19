@@ -50,6 +50,62 @@ public sealed class Image : BaseParagraph
 | override [Clone](../../aspose.pdf/image/clone)() | Clone the image. |
 | static [GetMimeType](../../aspose.pdf/image/getmimetype)(Image) | Returns mime type for image. |
 
+## Examples
+
+The following example shows how to convert images (PNG, JPEG, GIF, BMP, or other image formats) to a PDF file.
+
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your image (bmp, png, gif, jpeg, etc.) File.
+	string imageFile = Path.Combine(dataDir, "Image-to-PDF.png");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf");
+
+	//Initialize empty PDF document
+	using(Document pdfDocument = new Document()) 
+	{
+	  pdfDocument.Pages.Add();
+	  Image image = new Image();
+
+	  // Load sample image file
+	  image.File = imageFile;
+	  pdfDocument.Pages[1].Paragraphs.Add(image);
+
+	  // Save output PDF document
+	  pdfDocument.Save(pdfFile);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your image (bmp, png, gif, jpeg, etc.) File.
+    Dim imageFile = Path.Combine(dataDir, "Image-to-PDF.png")
+
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf")
+ 
+    'Initialize empty PDF document
+    Using pdfDocument As Document = New Document()
+        pdfDocument.Pages.Add()
+        Dim image As Image = New Image()
+ 
+        ' Load sample image file
+        image.File = imageFile
+        pdfDocument.Pages(1).Paragraphs.Add(image)
+ 
+        ' Save output PDF document
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
 ### See Also
 
 * class [BaseParagraph](../baseparagraph)

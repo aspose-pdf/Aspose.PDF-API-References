@@ -27,6 +27,53 @@ public class TxtLoadOptions : LoadOptions
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
+## Examples
+
+The following example shows how to convert TXT file to PDF file
+
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = @"YOUR_DATA_DIRECTORY";
+
+	// The path to your TXT File.
+	string txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt");
+
+	// The path to output PDF File.
+	string pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf");
+
+	// Initialize TxtLoadOptions	
+	TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
+		
+	using (Document pdfDocument = new Document(txtFile, txtLoadOptions))
+	{
+	 
+		// Save PDF file
+		pdfDocument.Save(pdfFile);
+	}
+```
+
+```csharp
+[VB.NET]
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+
+    ' The path to your TXT File.
+    Dim txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt")
+
+    ' The path to output PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf")
+ 
+    ' Initialize TxtLoadOptions
+    Dim txtLoadOptions As TxtLoadOptions = New TxtLoadOptions()
+ 
+    Using pdfDocument As Document = New Document(txtFile, txtLoadOptions)
+ 
+        ' Save PDF file
+        pdfDocument.Save(pdfFile)
+    End Using
+```
+
 ### See Also
 
 * class [LoadOptions](../loadoptions)

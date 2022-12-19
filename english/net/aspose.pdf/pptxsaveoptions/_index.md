@@ -40,6 +40,50 @@ public class PptxSaveOptions : UnifiedSaveOptions
 | --- | --- |
 | [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 
+## Examples
+
+The following example shows how to convert PDF file to PPT or PPTX file
+
+```csharp
+[C#]
+	// The path to the documents directory.
+	string dataDir = "YOUR_DATA_DIRECTORY";
+
+	// The path to your PDF File.
+	var pdfFile = Path.Combine(dataDir, "PDF-to-PPTX.pdf");
+
+	// The path to your PPT or PPTX File.
+	var pptxFile = Path.Combine(dataDir, "PDF-to-PPTX.pptx");
+		
+	using (Document pdfDocument = new Document(pdfFile))
+	{
+		// Initialize PptxSaveOptions	
+		PptxSaveOptions saveOptions = new PptxSaveOptions();
+		
+		// Save PPT or PPTX file
+		pdfDocument.Save(pptxFile, saveOptions);
+	}
+```
+
+```csharp
+[VB.NET]
+
+    ' The path to the documents directory.
+    Dim dataDir As String = "YOUR_DATA_DIRECTORY"
+    ' The path to your PDF File.
+    Dim pdfFile = Path.Combine(dataDir, "PDF-to-PPTX.pdf")
+    ' The path to your PPT or PPTX File.
+    Dim pptxFile = Path.Combine(dataDir, "PDF-to-PPTX.pptx")
+ 
+    Using pdfDocument As Document = New Document(pdfFile)
+        ' Initialize PptxSaveOptions    
+        Dim saveOptions As PptxSaveOptions = New PptxSaveOptions()
+ 
+        ' Save PPT or PPTX file
+        pdfDocument.Save(pptxFile, saveOptions)
+    End Using
+```
+
 ### See Also
 
 * class [UnifiedSaveOptions](../unifiedsaveoptions)
