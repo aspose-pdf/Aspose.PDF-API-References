@@ -1,5 +1,6 @@
 ---
 title: "function AsposePdfPagesToPng"
+second_title: Aspose.PDF for JavaScript via C++ API Reference
 description:  "Convert PDF file to PNG files."
 type: docs
 url: /javascript-cpp/main/asposepdfpagestopng/

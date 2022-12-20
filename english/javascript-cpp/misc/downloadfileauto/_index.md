@@ -1,5 +1,6 @@
 ---
 title: "function DownloadFileAuto"
+second_title: Aspose.PDF for JavaScript via C++ API Reference
 description:  "Make a link in HTML to download the file and start download after 2 seconds."
 type: docs
 url: /javascript-cpp/misc/downloadfileauto

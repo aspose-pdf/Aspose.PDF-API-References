@@ -1,5 +1,6 @@
 ---
 title: "Main functions"
+second_title: Aspose.PDF for JavaScript via C++ API Reference
 description:  "Main functions for working with PDF files."
 type: docs
 url: /javascript-cpp/main/

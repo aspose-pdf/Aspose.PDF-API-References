@@ -1,5 +1,6 @@
 ---
 title: "function AsposePdfMerge2Files"
+second_title: Aspose.PDF for JavaScript via C++ API Reference
 description:  "Merge two PDF files."
 type: docs
 url: /javascript-cpp/main/asposepdfmerge2files/

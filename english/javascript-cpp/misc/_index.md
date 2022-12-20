@@ -1,5 +1,6 @@
 ---
 title: "Secondary functions"
+second_title: Aspose.PDF for JavaScript via C++ API Reference
 description:  "Secondary functions for working with PDF files."
 url: /javascript-cpp/misc/
 ---

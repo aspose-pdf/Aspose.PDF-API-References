@@ -1,5 +1,6 @@
 ---
 title: "function AsposePdfAddStamp"
+second_title: Aspose.PDF for JavaScript via C++ API Reference
 description:  "Add stamp to PDF file."
 type: docs
 url: /javascript-cpp/main/asposepdfaddstamp/
