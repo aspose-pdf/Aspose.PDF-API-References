@@ -1,6 +1,7 @@
 ---
 title: "Main functions"
 description:  "Main functions for working with PDF files."
+type: docs
 url: /javascript-cpp/main/
 ---
 

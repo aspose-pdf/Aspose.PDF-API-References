@@ -3,9 +3,10 @@ title: "Aspose.PDF for JavaScript via C++ API Reference"
 description:  "Aspose.PDF for JavaScript via C++ API Reference"
 keywords:  "JavaScript via C++, JavaScript PDF toolkit"
 tags: ['pdf-to-jpg', 'pdf-to-png']
-is_root: true
 weight: 40
 url: /javascript-cpp/
+type: docs
+is_root: true
 ---
 
 ## Aspose.PDF for JavaScript via C++ API Reference
