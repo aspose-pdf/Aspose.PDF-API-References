@@ -1,5 +1,5 @@
 ---
-title: "function DownloadFile"
+title: "DownloadFile"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Make a link in HTML to download the file."
 type: docs

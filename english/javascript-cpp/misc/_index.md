@@ -1,22 +1,18 @@
 ---
-title: "Secondary functions"
+title: "Miscellaneous functions"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Secondary functions for working with PDF files."
 type: docs
 url: /javascript-cpp/misc/
 ---
-
-## Miscellaneous
-
-
-### Functions
+## Functions
 
 |      Name      |  Description   |
 | -------------- | -------------- |
 | [DownloadFile](./downloadfile/) | Make a link in HTML to download the file. |
 | [DownloadFileAuto](./downloadfileauto/) | Make a link in HTML to download the file and start download after 2 seconds. |
 
-### Detailed Description
+## Detailed Description
 
 Secondary functions for working with PDF files.
 

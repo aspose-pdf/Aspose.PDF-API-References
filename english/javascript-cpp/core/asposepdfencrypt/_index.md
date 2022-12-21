@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfEncrypt"
+title: "AsposePdfEncrypt"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Encrypt PDF file."
 type: docs
-url: /javascript-cpp/main/asposepdfencrypt/
+url: /javascript-cpp/core/asposepdfencrypt/
 ---
 
 _Encrypt PDF file._

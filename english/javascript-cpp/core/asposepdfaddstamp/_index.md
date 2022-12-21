@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfAddStamp"
+title: "AsposePdfAddStamp"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Add stamp to PDF file."
+description: "Add stamp to PDF file."
 type: docs
-url: /javascript-cpp/main/asposepdfaddstamp/
+url: /javascript-cpp/core/asposepdfaddstamp/
 ---
 
 _Add stamp to PDF file._
@@ -25,6 +25,7 @@ function AsposePdfAddStamp(
 ```
 
 **Parameters**:
+
 * **fileBlob** Blob object
 * **fileName** file name 
 * **fileStamp** stamp (image) file name 

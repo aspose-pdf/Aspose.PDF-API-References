@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfSplit2Files"
+title: "AsposePdfSplit2Files"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Split two PDF files."
 type: docs
-url: /javascript-cpp/main/asposepdfsplit2files/
+url: /javascript-cpp/core/asposepdfsplit2files/
 ---
 
 _Split two PDF files._

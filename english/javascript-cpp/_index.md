@@ -9,26 +9,24 @@ type: docs
 is_root: true
 ---
 
-## Aspose.PDF for JavaScript via C++
+> Aspose.PDF for JavaScript via C++ allows developers manipulate them PDF files directly in the Web.
 
-Aspose.PDF for JavaScript via C++ allows developers manipulate them PDF files directly in the Web.
-
-### Core Functions
+## Core Functions
 
 | Function | Description |
 | -------- | ----------- |
-| [AsposePdfAddImage](./main/asposepdfaddimage/) | Add image to end PDF file. |
-| [AsposePdfAddStamp](./main/asposepdfaddstamp/) | Add stamp to PDF file. |
-| [AsposePdfDecrypt](./main/asposepdfdecrypt/) | Decrypt PDF file. |
-| [AsposePdfEncrypt](./main/asposepdfencrypt/) | Encrypt PDF file. |
-| [AsposePdfExtractText](./main/asposepdfextracttext/) | Extract text from PDF file.|
-| [AsposePdfMerge2Files](./main/asposepdfmerge2files/) | Merge two PDF files. |
-| [AsposePdfOptimize](./main/asposepdfoptimize/) | Optimize PDF file. |
-| [AsposePdfPagesToJpg](./main/asposepdfpagestojpg/) | Convert PDF file to JPEG files. |
-| [AsposePdfPagesToPng](./main/asposepdfpagestopng/) | Convert PDF file to PNG files. |
-| [AsposePdfSplit2Files](./main/asposepdfsplit2files/) | Split PDF into 2 files (parts). |
+| [AsposePdfAddImage](./core/asposepdfaddimage/) | Add image to end PDF file. |
+| [AsposePdfAddStamp](./core/asposepdfaddstamp/) | Add stamp to PDF file. |
+| [AsposePdfDecrypt](./core/asposepdfdecrypt/) | Decrypt PDF file. |
+| [AsposePdfEncrypt](./core/asposepdfencrypt/) | Encrypt PDF file. |
+| [AsposePdfExtractText](./core/asposepdfextracttext/) | Extract text from PDF file.|
+| [AsposePdfMerge2Files](./core/asposepdfmerge2files/) | Merge two PDF files. |
+| [AsposePdfOptimize](./core/asposepdfoptimize/) | Optimize PDF file. |
+| [AsposePdfPagesToJpg](./core/asposepdfpagestojpg/) | Convert PDF file to JPEG files. |
+| [AsposePdfPagesToPng](./core/asposepdfpagestopng/) | Convert PDF file to PNG files. |
+| [AsposePdfSplit2Files](./core/asposepdfsplit2files/) | Split PDF into 2 files (parts). |
 
-### Miscellaneous
+## Miscellaneous
 
 |      Name      |  Description   |
 | -------------- | -------------- |

@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfAddImage"
+title: "AsposePdfAddImage"
 second_title: Aspose.PDF for JavaScript via C++
 description: "Add image to end PDF file."
 type: docs
-url: /javascript-cpp/main/asposepdfaddimage/
+url: /javascript-cpp/core/asposepdfaddimage/
 ---
 
 _Add image to end PDF file._

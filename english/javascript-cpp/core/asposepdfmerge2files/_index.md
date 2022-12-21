@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfMerge2Files"
+title: "AsposePdfMerge2Files"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Merge two PDF files."
 type: docs
-url: /javascript-cpp/main/asposepdfmerge2files/
+url: /javascript-cpp/core/asposepdfmerge2files/
 ---
 
 _Merge two PDF files._

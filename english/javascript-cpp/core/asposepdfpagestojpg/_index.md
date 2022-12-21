@@ -1,15 +1,15 @@
 ---
-title: "function AsposePdfPagesToPng"
+title: "AsposePdfPagesToJpg"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Convert PDF file to PNG files."
+description:  "Convert PDF file to JPG files."
 type: docs
-url: /javascript-cpp/main/asposepdfpagestopng/
+url: /javascript-cpp/core/asposepdfpagestojpg/
 ---
 
-_Convert PDF file to PNG files._
+_Convert PDF file to JPG files._
 
-```
-function AsposePdfPagesToPng(
+```js
+function AsposePdfPagesToJpg(
     fileBlob ,
     fileName 
 )
@@ -18,7 +18,7 @@ function AsposePdfPagesToPng(
 **Parameters**: 
   * **fileBlob** Blob object 
   * **fileName** file name 
-  * **fileResultName** result file name template (for sample: "ResultPdfToPng{0:D2}.png" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **fileResultName** result file name template (for sample: "ResultPdfToJpg{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
 
 **Return**: 
 JSON object 
@@ -31,18 +31,19 @@ JSON object
 
 **Example**:
 ```js
-  var ffileToPng = function (e) {
+  var ffileToJpg = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*convert a PDF file to png-files with template "ResultPdfToPng{0:D2}.png" ({0}, {0:D2}, {0:D3}, ... format page number) and save*/
-      const json = AsposePdfPagesToPng(event.target.result, e.target.files[0].name, "ResultPdfToPng{0:D2}.png");
+      /*convert a PDF file to jpg-files with template "ResultPdfToJpg{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number) and save*/
+      const json = AsposePdfPagesToJpg(event.target.result, e.target.files[0].name, "ResultPdfToJpg{0:D2}.jpg");
       if (json.errorCode == 0) {
         document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
         /*make links to result files*/
-        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/png");
+        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/jpeg");
       }
       else document.getElementById('output').textContent = json.errorText;
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
 ```
+

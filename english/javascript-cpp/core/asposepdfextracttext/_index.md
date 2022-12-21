@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfExtractText"
+title: "AsposePdfExtractText"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Extract text from PDF file."
 type: docs
-url: /javascript-cpp/main/asposepdfextracttext/
+url: /javascript-cpp/core/asposepdfextracttext/
 ---
 
 _Extract text from PDF file._

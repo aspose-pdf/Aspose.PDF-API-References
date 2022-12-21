@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfDecrypt"
+title: "AsposePdfDecrypt"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Decrypt PDF file."
 type: docs
-url: /javascript-cpp/main/asposepdfdecrypt/
+url: /javascript-cpp/core/asposepdfdecrypt/
 ---
 
 _Decrypt PDF file._
@@ -31,8 +31,6 @@ JSON object
 * **errorCode** - code error (0 no error)
 * **errorText** - text error ("" no error)
 * **fileNameResult** - result file name
-
-
 
 **Example**:
 

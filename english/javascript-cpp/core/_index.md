@@ -3,7 +3,7 @@ title: "Core functions"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Main functions for working with PDF files."
 type: docs
-url: /javascript-cpp/main/
+url: /javascript-cpp/core/
 ---
 
 ## Core functions

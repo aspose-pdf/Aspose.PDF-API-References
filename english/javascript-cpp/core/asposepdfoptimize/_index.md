@@ -1,9 +1,9 @@
 ---
-title: "function AsposePdfOptimize"
+title: "AsposePdfOptimize"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Optimize PDF file."
 type: docs
-url: /javascript-cpp/main/asposepdfoptimize/
+url: /javascript-cpp/core/asposepdfoptimize/
 ---
 
 _Optimize PDF file._
