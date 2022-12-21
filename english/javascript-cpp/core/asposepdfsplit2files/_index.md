@@ -19,20 +19,24 @@ function AsposePdfSplit2Files(
 ```
 
 **Parameters**: 
-  * **fileBlob** Blob object 
-  * **fileName** file name 
-  * **pageToSplit** number page for split 
-  * **fileResultName1** result file name #1 
-  * **fileResultName2** result file name #2 
 
-**Return**: 
-JSON object 
-  * **errorCode** - code error (0 no error)
-  * **errorText** - text error ("" no error)
-  * **fileNameResult1** - result file name #1
-  * **fileNameResult2** - result file name #2
+* **fileBlob** Blob object 
+* **fileName** file name 
+* **pageToSplit** number page for split 
+* **fileResultName1** result file name #1 
+* **fileResultName2** result file name #2 
+
+**Return**:
+
+JSON object
+
+* **errorCode** - code error (0 no error)
+* **errorText** - text error ("" no error)
+* **fileNameResult1** - result file name #1
+* **fileNameResult2** - result file name #2
 
 **Example**:
+
 ```js
   var ffileSplit = function (e) {
     const file_reader = new FileReader();
@@ -51,4 +55,3 @@ JSON object
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
 ```
-

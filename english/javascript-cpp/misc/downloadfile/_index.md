@@ -6,7 +6,7 @@ type: docs
 url: /javascript-cpp/misc/downloadfile/
 ---
 
-## function DownloadFile
+_Make a link in HTML to download the file._
 
 ```js
 function DownloadFile(
@@ -20,4 +20,4 @@ function DownloadFile(
 * **fileName** file name
 * **mime** string "mime/type"
 
-_Make a link in HTML to download the file._
+

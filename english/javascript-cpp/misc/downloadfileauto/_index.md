@@ -6,7 +6,7 @@ type: docs
 url: /javascript-cpp/misc/downloadfileauto/
 ---
 
-## function DownloadFileAuto
+_Make a link in HTML to download the file and start download after 2 seconds._
 
 ```js
 function DownloadFileAuto(
@@ -19,5 +19,3 @@ function DownloadFileAuto(
 
 * **fileName** file name
 * **mime** string "mime/type"
-
-_Make a link in HTML to download the file and start download after 2 seconds._
