@@ -1,12 +1,12 @@
 ---
 title: "function AsposePdfOptimize"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description:  "Optimize PDF file."
 type: docs
 url: /javascript-cpp/main/asposepdfoptimize/
 ---
 
-## function AsposePdfOptimize
+_Optimize PDF file._
 
 ```js
 function AsposePdfOptimize(
@@ -28,7 +28,6 @@ JSON object
   * **errorText** - text error ("" no error)
   * **fileNameResult** - result file name
 
-_Optimize PDF file._ 
 
 **Example**:
 ```js

@@ -1,19 +1,20 @@
 ---
 title: "Secondary functions"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description:  "Secondary functions for working with PDF files."
+type: docs
 url: /javascript-cpp/misc/
 ---
 
-## Secondary functions
+## Miscellaneous
 
 
 ### Functions
 
 |      Name      |  Description   |
 | -------------- | -------------- |
-| **[DownloadFile](downloadfile.md#function-downloadfile)** | Make a link in HTML to download the file. |
-| **[DownloadFileAuto](downloadfileauto.md#function-downloadfileauto)** | Make a link in HTML to download the file and start download after 2 seconds. |
+| [DownloadFile](./downloadfile/) | Make a link in HTML to download the file. |
+| [DownloadFileAuto](./downloadfileauto/) | Make a link in HTML to download the file and start download after 2 seconds. |
 
 ### Detailed Description
 

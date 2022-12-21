@@ -1,12 +1,12 @@
 ---
 title: "function AsposePdfEncrypt"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description:  "Encrypt PDF file."
 type: docs
 url: /javascript-cpp/main/asposepdfencrypt/
 ---
 
-## function AsposePdfEncrypt
+_Encrypt PDF file._
 
 ```js
 function AsposePdfEncrypt(
@@ -50,7 +50,7 @@ JSON object
 * **errorText** - text error ("" no error)
 * **fileNameResult** - result file name
 
-_Encrypt PDF file._
+
 
 **Example**:
 

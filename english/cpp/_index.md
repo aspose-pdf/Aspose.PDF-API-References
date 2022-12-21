@@ -2,9 +2,9 @@
 title: Aspose.PDF for C++
 type: docs
 weight: 30
-url: /net/
+url: /cpp/
 keywords: "Aspose.PDF for C++, Aspose PDF, Aspose API Reference."
-description: Aspose.PDF is a .NET component built to allow developers to create PDF documents, whether simple or complex, on the fly programmatically.
+description: Aspose.PDF is a C++ library built to allow developers to create PDF documents, whether simple or complex, on the fly programmatically.
 is_root: true
 ---
 

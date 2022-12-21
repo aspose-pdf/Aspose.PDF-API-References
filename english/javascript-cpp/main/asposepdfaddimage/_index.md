@@ -1,12 +1,12 @@
 ---
 title: "function AsposePdfAddImage"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description: "Add image to end PDF file."
 type: docs
-url: /javascript-cpp/main/asposepdfaddimage
+url: /javascript-cpp/main/asposepdfaddimage/
 ---
 
-## function AsposePdfAddImage
+_Add image to end PDF file._
 
 ```js
 function AsposePdfAddImage(
@@ -30,9 +30,9 @@ JSON object
   * **errorText** - text error ("" no error)
   * **fileNameResult** - result file name
 
-_Add image to end PDF file._
 
 **Example**:
+
 ```js
   /*set the default image filename*/
   var fileImage = "/Aspose.jpg";

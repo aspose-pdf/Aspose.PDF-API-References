@@ -1,12 +1,13 @@
 ---
 title: "function AsposePdfMerge2Files"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description:  "Merge two PDF files."
 type: docs
 url: /javascript-cpp/main/asposepdfmerge2files/
 ---
 
-### function AsposePdfMerge2Files
+_Merge two PDF files._
+
 ```js
 function AsposePdfMerge2Files(
     fileBlob1 ,
@@ -29,8 +30,6 @@ JSON object
   * **errorCode** - code error (0 no error)
   * **errorText** - text error ("" no error)
   * **fileNameResult** - result file name
-
-_Merge two PDF files._
 
 **Example**:
 ```js

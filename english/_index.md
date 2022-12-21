@@ -74,4 +74,4 @@ These are links to some useful resources:
 {{% /alert %}}
 
 These are links to some useful resources:
-- [Aspose.PDF for JavaScript via C++ API Reference](/pdf/javascript-cpp/)
+- [Aspose.PDF for JavaScript via C++](/pdf/javascript-cpp/)

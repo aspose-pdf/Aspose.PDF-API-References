@@ -1,12 +1,12 @@
 ---
 title: "function AsposePdfPagesToJpg"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description:  "Convert PDF file to JPG files."
 type: docs
 url: /javascript-cpp/main/asposepdfpagestojpg/
 ---
 
-## function AsposePdfPagesToJpg
+_Convert PDF file to JPG files._
 
 ```js
 function AsposePdfPagesToJpg(
@@ -27,7 +27,7 @@ JSON object
   * **filesCount** - jpg files count
   * **filesNameResult** - array of result filenames
 
-_Convert PDF file to JPG files._
+
 
 **Example**:
 ```js

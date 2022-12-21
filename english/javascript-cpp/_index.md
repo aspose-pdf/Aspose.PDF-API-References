@@ -1,6 +1,6 @@
 ---
-title: "Aspose.PDF for JavaScript via C++ API Reference"
-description:  "Aspose.PDF for JavaScript via C++ API Reference"
+title: "Aspose.PDF for JavaScript via C++"
+description:  "Aspose.PDF for JavaScript via C++"
 keywords:  "JavaScript via C++, JavaScript PDF toolkit"
 tags: ['pdf-to-jpg', 'pdf-to-png']
 weight: 40
@@ -9,11 +9,11 @@ type: docs
 is_root: true
 ---
 
-## Aspose.PDF for JavaScript via C++ API Reference
+## Aspose.PDF for JavaScript via C++
 
 Aspose.PDF for JavaScript via C++ allows developers manipulate them PDF files directly in the Web.
 
-## Core Functions
+### Core Functions
 
 | Function | Description |
 | -------- | ----------- |
@@ -28,7 +28,7 @@ Aspose.PDF for JavaScript via C++ allows developers manipulate them PDF files di
 | [AsposePdfPagesToPng](./main/asposepdfpagestopng/) | Convert PDF file to PNG files. |
 | [AsposePdfSplit2Files](./main/asposepdfsplit2files/) | Split PDF into 2 files (parts). |
 
-## Miscellaneous
+### Miscellaneous
 
 |      Name      |  Description   |
 | -------------- | -------------- |

@@ -1,12 +1,12 @@
 ---
 title: "function AsposePdfSplit2Files"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description:  "Split two PDF files."
 type: docs
 url: /javascript-cpp/main/asposepdfsplit2files/
 ---
 
-## function AsposePdfSplit2Files
+_Split two PDF files._
 
 ```js
 function AsposePdfSplit2Files(
@@ -31,8 +31,6 @@ JSON object
   * **errorText** - text error ("" no error)
   * **fileNameResult1** - result file name #1
   * **fileNameResult2** - result file name #2
-
-_Split two PDF files._
 
 **Example**:
 ```js

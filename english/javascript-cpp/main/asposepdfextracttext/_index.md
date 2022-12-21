@@ -1,12 +1,12 @@
 ---
 title: "function AsposePdfExtractText"
-second_title: Aspose.PDF for JavaScript via C++ API Reference
+second_title: Aspose.PDF for JavaScript via C++
 description:  "Extract text from PDF file."
 type: docs
 url: /javascript-cpp/main/asposepdfextracttext/
 ---
 
-## function AsposePdfExtractText
+_Extract text from PDF file._
 
 ```js
 function AsposePdfExtractText(
@@ -24,8 +24,6 @@ JSON object
   * **errorCode** - code error (0 no error)
   * **errorText** - text error ("" no error)
   * **extractText** - text from PDF
-
-_Extract text from PDF file._
 
 **Example**:
 ```js
