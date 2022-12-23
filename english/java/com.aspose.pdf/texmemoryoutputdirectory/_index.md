@@ -3,7 +3,7 @@ title: TeXMemoryOutputDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Implements fetching an output stream from memory.
 type: docs
-weight: 358
+weight: 359
 url: /java/com.aspose.pdf/texmemoryoutputdirectory/
 ---
 **Inheritance:**
@@ -25,19 +25,10 @@ Implements fetching an output stream from memory. You can use it, for example, w
 
 | Method | Description |
 | --- | --- |
-| [close()](#close--) | Disposes the instance. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
 | [getFile(String fileName, String[] fullName)](#getFile-java.lang.String-java.lang.String---) | Returns the stream to read from. |
 | [getFile(String fileName, String[] fullName, boolean searchSubdirectories)](#getFile-java.lang.String-java.lang.String---boolean-) | Returns the stream to read from. |
 | [getOutputFile(String fileName, String[] fullName)](#getOutputFile-java.lang.String-java.lang.String---) | Returns the stream to write to. |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [close()](#close--) | Disposes the instance. |
 ### TeXMemoryOutputDirectory() {#TeXMemoryOutputDirectory--}
 ```
 public TeXMemoryOutputDirectory()
@@ -46,39 +37,6 @@ public TeXMemoryOutputDirectory()
 
 Creates new instance.
 
-### close() {#close--}
-```
-public void close()
-```
-
-
-Disposes the instance.
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
 ### getFile(String fileName, String[] fullName) {#getFile-java.lang.String-java.lang.String---}
 ```
 public final InputStream getFile(String fileName, String[] fullName)
@@ -130,74 +88,11 @@ Returns the stream to write to.
 
 **Returns:**
 java.io.OutputStream - OutputStream instance
-### hashCode() {#hashCode--}
+### close() {#close--}
 ```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
+public void close()
 ```
 
 
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+Disposes the instance.
 

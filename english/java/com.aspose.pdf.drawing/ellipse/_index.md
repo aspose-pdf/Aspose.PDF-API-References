@@ -23,27 +23,14 @@ Represents ellipse.
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBottom()](#getBottom--) | Gets float value that indicates the bottom position of the ellipse. |
-| [getClass()](#getClass--) |  |
-| [getGraphInfo()](#getGraphInfo--) | Gets object that indicates the graph info,such as color, line width,etc. |
-| [getHeight()](#getHeight--) | Gets float value that indicates the height of the ellipse. |
 | [getLeft()](#getLeft--) | Gets float value that indicates the left position of the ellipse. |
-| [getText()](#getText--) | Gets or sets a text for shape |
-| [getWidth()](#getWidth--) | Gets float value that indicates the width of the ellipse. |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBottom(double value)](#setBottom-double-) | Sets float value that indicates the bottom position of the ellipse. |
-| [setGraphInfo(GraphInfo value)](#setGraphInfo-com.aspose.pdf.GraphInfo-) | Sets object that indicates the graph info,such as color, line width,etc. |
-| [setHeight(double value)](#setHeight-double-) | Sets float value that indicates the height of the ellipse. |
 | [setLeft(double value)](#setLeft-double-) | Sets float value that indicates the left position of the ellipse. |
-| [setText(TextFragment value)](#setText-com.aspose.pdf.TextFragment-) | Gets or sets a text for shape |
+| [getBottom()](#getBottom--) | Gets float value that indicates the bottom position of the ellipse. |
+| [setBottom(double value)](#setBottom-double-) | Sets float value that indicates the bottom position of the ellipse. |
+| [getWidth()](#getWidth--) | Gets float value that indicates the width of the ellipse. |
 | [setWidth(double value)](#setWidth-double-) | Gets float value that indicates the width of the ellipse. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getHeight()](#getHeight--) | Gets float value that indicates the height of the ellipse. |
+| [setHeight(double value)](#setHeight-double-) | Sets float value that indicates the height of the ellipse. |
 ### Ellipse() {#Ellipse--}
 ```
 public Ellipse()
@@ -68,61 +55,6 @@ Initializes a new instance of the  Ellipse  class.
 | width | double | The width of the ellipse. |
 | height | double | The height of the ellipse. |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getBottom() {#getBottom--}
-```
-public double getBottom()
-```
-
-
-Gets float value that indicates the bottom position of the ellipse.
-
-**Returns:**
-double - value that indicates the bottom position of the ellipse.
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getGraphInfo() {#getGraphInfo--}
-```
-public GraphInfo getGraphInfo()
-```
-
-
-Gets object that indicates the graph info,such as color, line width,etc.
-
-**Returns:**
-[GraphInfo](../../com.aspose.pdf/graphinfo) - object that indicates the graph info.
-### getHeight() {#getHeight--}
-```
-public double getHeight()
-```
-
-
-Gets float value that indicates the height of the ellipse.
-
-**Returns:**
-double - value that indicates the height of the ellipse
 ### getLeft() {#getLeft--}
 ```
 public double getLeft()
@@ -133,91 +65,6 @@ Gets float value that indicates the left position of the ellipse.
 
 **Returns:**
 double - value that indicates the left position of the ellipse.
-### getText() {#getText--}
-```
-public TextFragment getText()
-```
-
-
-Gets or sets a text for shape
-
-**Returns:**
-[TextFragment](../../com.aspose.pdf/textfragment) - TextFragment object
-### getWidth() {#getWidth--}
-```
-public double getWidth()
-```
-
-
-Gets float value that indicates the width of the ellipse.
-
-**Returns:**
-double - value that indicates the width of the ellipse.
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBottom(double value) {#setBottom-double-}
-```
-public void setBottom(double value)
-```
-
-
-Sets float value that indicates the bottom position of the ellipse.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | that indicates the bottom position of the ellipse. |
-
-### setGraphInfo(GraphInfo value) {#setGraphInfo-com.aspose.pdf.GraphInfo-}
-```
-public void setGraphInfo(GraphInfo value)
-```
-
-
-Sets object that indicates the graph info,such as color, line width,etc.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [GraphInfo](../../com.aspose.pdf/graphinfo) | that indicates the graph info. |
-
-### setHeight(double value) {#setHeight-double-}
-```
-public void setHeight(double value)
-```
-
-
-Sets float value that indicates the height of the ellipse.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | that indicates the height of the ellipse |
-
 ### setLeft(double value) {#setLeft-double-}
 ```
 public void setLeft(double value)
@@ -231,19 +78,39 @@ Sets float value that indicates the left position of the ellipse.
 | --- | --- | --- |
 | value | double | that indicates the left position of the ellipse. |
 
-### setText(TextFragment value) {#setText-com.aspose.pdf.TextFragment-}
+### getBottom() {#getBottom--}
 ```
-public void setText(TextFragment value)
+public double getBottom()
 ```
 
 
-Gets or sets a text for shape
+Gets float value that indicates the bottom position of the ellipse.
+
+**Returns:**
+double - value that indicates the bottom position of the ellipse.
+### setBottom(double value) {#setBottom-double-}
+```
+public void setBottom(double value)
+```
+
+
+Sets float value that indicates the bottom position of the ellipse.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [TextFragment](../../com.aspose.pdf/textfragment) | TextFragment object |
+| value | double | that indicates the bottom position of the ellipse. |
 
+### getWidth() {#getWidth--}
+```
+public double getWidth()
+```
+
+
+Gets float value that indicates the width of the ellipse.
+
+**Returns:**
+double - value that indicates the width of the ellipse.
 ### setWidth(double value) {#setWidth-double-}
 ```
 public void setWidth(double value)
@@ -257,48 +124,26 @@ Gets float value that indicates the width of the ellipse.
 | --- | --- | --- |
 | value | double | that indicates the width of the ellipse. |
 
-### toString() {#toString--}
+### getHeight() {#getHeight--}
 ```
-public String toString()
+public double getHeight()
 ```
 
 
-
+Gets float value that indicates the height of the ellipse.
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
+double - value that indicates the height of the ellipse
+### setHeight(double value) {#setHeight-double-}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public void setHeight(double value)
 ```
 
 
-
+Sets float value that indicates the height of the ellipse.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| value | double | that indicates the height of the ellipse |
 

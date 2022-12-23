@@ -3,7 +3,7 @@ title: ComHelper
 second_title: Aspose.PDF for Java API Reference
 description: Provides methods for COM clients to load a document into Aspose.PDF.
 type: docs
-weight: 68
+weight: 69
 url: /java/com.aspose.pdf/comhelper/
 ---
 **Inheritance:**
@@ -26,81 +26,101 @@ Use the ComHelper class to load a document from a file or stream into a Document
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
+| [openStream(InputStream input)](#openStream-java.io.InputStream-) | Initialize and return new Document instance from the  input  stream. |
+| [openStream(InputStream input, String password)](#openStream-java.io.InputStream-java.lang.String-) | Initialize and return new Document instance from the  input  stream. |
+| [openStream(InputStream input, boolean isManagedStream)](#openStream-java.io.InputStream-boolean-) | Initialize and return new Document instance from the  input  stream. |
+| [openStream(InputStream input, String password, boolean isManagedStream)](#openStream-java.io.InputStream-java.lang.String-boolean-) | Initialize and return new Document instance from the  input  stream. |
+| [openStream(InputStream input, LoadOptions options)](#openStream-java.io.InputStream-com.aspose.pdf.LoadOptions-) | Open and return an existing document from a stream providing necessary converting to get pdf document. |
 | [openFile(String filename)](#openFile-java.lang.String-) | Just create and return Document using  filename . |
-| [openFile(String filename, LoadOptions options)](#openFile-java.lang.String-com.aspose.pdf.LoadOptions-) | Open an existing document from a file providing necessary converting oprions to get pdf document. |
 | [openFile(String filename, String password)](#openFile-java.lang.String-java.lang.String-) | Initialize and return new instance of the  Document  class for working with encrypted document. |
 | [openFile(String filename, String password, boolean isManagedStream)](#openFile-java.lang.String-java.lang.String-boolean-) | Initialize new instance of the  Document  class for working with encrypted document. |
-| [openStream(InputStream input)](#openStream-java.io.InputStream-) | Initialize and return new Document instance from the  input  stream. |
-| [openStream(InputStream input, boolean isManagedStream)](#openStream-java.io.InputStream-boolean-) | Initialize and return new Document instance from the  input  stream. |
-| [openStream(InputStream input, LoadOptions options)](#openStream-java.io.InputStream-com.aspose.pdf.LoadOptions-) | Open and return an existing document from a stream providing necessary converting to get pdf document. |
-| [openStream(InputStream input, String password)](#openStream-java.io.InputStream-java.lang.String-) | Initialize and return new Document instance from the  input  stream. |
-| [openStream(InputStream input, String password, boolean isManagedStream)](#openStream-java.io.InputStream-java.lang.String-boolean-) | Initialize and return new Document instance from the  input  stream. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [openFile(String filename, LoadOptions options)](#openFile-java.lang.String-com.aspose.pdf.LoadOptions-) | Open an existing document from a file providing necessary converting oprions to get pdf document. |
 ### ComHelper() {#ComHelper--}
 ```
 public ComHelper()
 ```
 
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### openStream(InputStream input) {#openStream-java.io.InputStream-}
 ```
-public boolean equals(Object arg0)
+public Document openStream(InputStream input)
 ```
 
 
-
+Initialize and return new Document instance from the  input  stream.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| input | java.io.InputStream | Stream with pdf document. |
 
 **Returns:**
-boolean
-### getClass() {#getClass--}
+[Document](../../com.aspose.pdf/document) - Document object
+### openStream(InputStream input, String password) {#openStream-java.io.InputStream-java.lang.String-}
 ```
-public final native Class<?> getClass()
+public Document openStream(InputStream input, String password)
 ```
 
 
+Initialize and return new Document instance from the  input  stream.
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | java.io.InputStream | Input stream object, corresponding pdf is password protected. |
+| password | java.lang.String | User or owner password. |
 
 **Returns:**
-java.lang.Class<?>
-### hashCode() {#hashCode--}
+[Document](../../com.aspose.pdf/document) - Document object
+### openStream(InputStream input, boolean isManagedStream) {#openStream-java.io.InputStream-boolean-}
 ```
-public native int hashCode()
+public Document openStream(InputStream input, boolean isManagedStream)
 ```
 
 
+Initialize and return new Document instance from the  input  stream.
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | java.io.InputStream | Stream with pdf document. |
+| isManagedStream | boolean | if set to  true  inner stream is closed before exit; otherwise, is not. |
 
 **Returns:**
-int
-### notify() {#notify--}
+[Document](../../com.aspose.pdf/document) - Document object
+### openStream(InputStream input, String password, boolean isManagedStream) {#openStream-java.io.InputStream-java.lang.String-boolean-}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public Document openStream(InputStream input, String password, boolean isManagedStream)
 ```
 
 
+Initialize and return new Document instance from the  input  stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | java.io.InputStream | Stream with pdf document. |
+| password | java.lang.String | User or owner password. |
+| isManagedStream | boolean | if set to  true  inner stream is closed before exit; otherwise, is not. |
+
+**Returns:**
+[Document](../../com.aspose.pdf/document) - Document object
+### openStream(InputStream input, LoadOptions options) {#openStream-java.io.InputStream-com.aspose.pdf.LoadOptions-}
+```
+public Document openStream(InputStream input, LoadOptions options)
+```
 
 
+Open and return an existing document from a stream providing necessary converting to get pdf document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | java.io.InputStream | Input stream to convert into pdf document. |
+| options | [LoadOptions](../../com.aspose.pdf/loadoptions) | Represents properties for converting  input  into pdf document. |
+
+**Returns:**
+[Document](../../com.aspose.pdf/document) - Document object
 ### openFile(String filename) {#openFile-java.lang.String-}
 ```
 public Document openFile(String filename)
@@ -113,22 +133,6 @@ Just create and return Document using  filename . The same as  Document(Stream) 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filename | java.lang.String | The name of the pdf document file. |
-
-**Returns:**
-[Document](../../com.aspose.pdf/document) - Document object
-### openFile(String filename, LoadOptions options) {#openFile-java.lang.String-com.aspose.pdf.LoadOptions-}
-```
-public Document openFile(String filename, LoadOptions options)
-```
-
-
-Open an existing document from a file providing necessary converting oprions to get pdf document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | java.lang.String | Input file to convert into pdf document. |
-| options | [LoadOptions](../../com.aspose.pdf/loadoptions) | Represents properties for converting  filename  into pdf document. |
 
 **Returns:**
 [Document](../../com.aspose.pdf/document) - Document object
@@ -165,128 +169,19 @@ Initialize new instance of the  Document  class for working with encrypted docum
 
 **Returns:**
 [Document](../../com.aspose.pdf/document) - Document object
-### openStream(InputStream input) {#openStream-java.io.InputStream-}
+### openFile(String filename, LoadOptions options) {#openFile-java.lang.String-com.aspose.pdf.LoadOptions-}
 ```
-public Document openStream(InputStream input)
+public Document openFile(String filename, LoadOptions options)
 ```
 
 
-Initialize and return new Document instance from the  input  stream.
+Open an existing document from a file providing necessary converting oprions to get pdf document.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | java.io.InputStream | Stream with pdf document. |
+| filename | java.lang.String | Input file to convert into pdf document. |
+| options | [LoadOptions](../../com.aspose.pdf/loadoptions) | Represents properties for converting  filename  into pdf document. |
 
 **Returns:**
 [Document](../../com.aspose.pdf/document) - Document object
-### openStream(InputStream input, boolean isManagedStream) {#openStream-java.io.InputStream-boolean-}
-```
-public Document openStream(InputStream input, boolean isManagedStream)
-```
-
-
-Initialize and return new Document instance from the  input  stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | java.io.InputStream | Stream with pdf document. |
-| isManagedStream | boolean | if set to  true  inner stream is closed before exit; otherwise, is not. |
-
-**Returns:**
-[Document](../../com.aspose.pdf/document) - Document object
-### openStream(InputStream input, LoadOptions options) {#openStream-java.io.InputStream-com.aspose.pdf.LoadOptions-}
-```
-public Document openStream(InputStream input, LoadOptions options)
-```
-
-
-Open and return an existing document from a stream providing necessary converting to get pdf document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | java.io.InputStream | Input stream to convert into pdf document. |
-| options | [LoadOptions](../../com.aspose.pdf/loadoptions) | Represents properties for converting  input  into pdf document. |
-
-**Returns:**
-[Document](../../com.aspose.pdf/document) - Document object
-### openStream(InputStream input, String password) {#openStream-java.io.InputStream-java.lang.String-}
-```
-public Document openStream(InputStream input, String password)
-```
-
-
-Initialize and return new Document instance from the  input  stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | java.io.InputStream | Input stream object, corresponding pdf is password protected. |
-| password | java.lang.String | User or owner password. |
-
-**Returns:**
-[Document](../../com.aspose.pdf/document) - Document object
-### openStream(InputStream input, String password, boolean isManagedStream) {#openStream-java.io.InputStream-java.lang.String-boolean-}
-```
-public Document openStream(InputStream input, String password, boolean isManagedStream)
-```
-
-
-Initialize and return new Document instance from the  input  stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | java.io.InputStream | Stream with pdf document. |
-| password | java.lang.String | User or owner password. |
-| isManagedStream | boolean | if set to  true  inner stream is closed before exit; otherwise, is not. |
-
-**Returns:**
-[Document](../../com.aspose.pdf/document) - Document object
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-

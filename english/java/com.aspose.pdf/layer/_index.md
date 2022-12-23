@@ -3,7 +3,7 @@ title: Layer
 second_title: Aspose.PDF for Java API Reference
 description: Represents page layer.
 type: docs
-weight: 189
+weight: 190
 url: /java/com.aspose.pdf/layer/
 ---
 **Inheritance:**
@@ -22,18 +22,9 @@ Represents page layer.
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getContents()](#getContents--) | Gets the layer content. |
-| [getId()](#getId--) | Gets the layer id. |
 | [getName()](#getName--) | Gets the layer name. |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getId()](#getId--) | Gets the layer id. |
+| [getContents()](#getContents--) | Gets the layer content. |
 ### Layer(String id, String name) {#Layer-java.lang.String-java.lang.String-}
 ```
 public Layer(String id, String name)
@@ -48,51 +39,6 @@ Initializes a new instance of the  Layer  class.
 | id | java.lang.String | The layer id |
 | name | java.lang.String | The layer name |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getContents() {#getContents--}
-```
-public List<Operator> getContents()
-```
-
-
-Gets the layer content.
-
-**Returns:**
-java.util.List<com.aspose.pdf.Operator> -  List  object
-### getId() {#getId--}
-```
-public String getId()
-```
-
-
-Gets the layer id.
-
-**Returns:**
-java.lang.String - String value
 ### getName() {#getName--}
 ```
 public String getName()
@@ -103,74 +49,23 @@ Gets the layer name.
 
 **Returns:**
 java.lang.String - String value
-### hashCode() {#hashCode--}
+### getId() {#getId--}
 ```
-public native int hashCode()
+public String getId()
 ```
 
 
-
+Gets the layer id.
 
 **Returns:**
-int
-### notify() {#notify--}
+java.lang.String - String value
+### getContents() {#getContents--}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public List<Operator> getContents()
 ```
 
 
-
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
+Gets the layer content.
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-
+java.util.List<com.aspose.pdf.Operator> -  List  object

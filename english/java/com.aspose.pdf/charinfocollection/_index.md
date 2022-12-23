@@ -3,7 +3,7 @@ title: CharInfoCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents CharInfo objects collection.
 type: docs
-weight: 57
+weight: 58
 url: /java/com.aspose.pdf/charinfocollection/
 ---
 **Inheritance:**
@@ -72,27 +72,92 @@ Provides access to positioning information of text segment characters.
 
 | Method | Description |
 | --- | --- |
+| [size()](#size--) | Gets the number of  CharInfo  object elements actually contained in the collection. |
+| [getSyncRoot()](#getSyncRoot--) | Gets an object that can be used to synchronize access to the collection. |
+| [isSynchronized()](#isSynchronized--) | Gets a value indicating whether access to the collection is synchronized (thread safe). |
+| [isReadOnly()](#isReadOnly--) | Gets a value indicating whether collection is read-only |
+| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | Returns an enumerator for the entire collection. |
+| [iterator()](#iterator--) | Returns an enumerator for the entire collection. |
+| [copyTo(CharInfo[] array, int index)](#copyTo-com.aspose.pdf.CharInfo---int-) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
 | [add(CharInfo item)](#add-com.aspose.pdf.CharInfo-) | Not supported yet. |
 | [clear()](#clear--) | Not supported yet. |
 | [contains(CharInfo item)](#contains-com.aspose.pdf.CharInfo-) | Determines whether the collection contains a specific value. |
-| [copyTo(CharInfo[] array, int index)](#copyTo-com.aspose.pdf.CharInfo---int-) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getSyncRoot()](#getSyncRoot--) | Gets an object that can be used to synchronize access to the collection. |
-| [get_Item(int index)](#get-Item-int-) | Gets the CharInfo element at the specified index 1..n. |
-| [hashCode()](#hashCode--) |  |
-| [isReadOnly()](#isReadOnly--) | Gets a value indicating whether collection is read-only |
-| [isSynchronized()](#isSynchronized--) | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [iterator()](#iterator--) | Returns an enumerator for the entire collection. |
-| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | Returns an enumerator for the entire collection. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
 | [remove(CharInfo item)](#remove-com.aspose.pdf.CharInfo-) | Not supported yet. |
-| [size()](#size--) | Gets the number of  CharInfo  object elements actually contained in the collection. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [get_Item(int index)](#get-Item-int-) | Gets the CharInfo element at the specified index 1..n. |
+### size() {#size--}
+```
+public int size()
+```
+
+
+Gets the number of  CharInfo  object elements actually contained in the collection.
+
+**Returns:**
+int - int value
+### getSyncRoot() {#getSyncRoot--}
+```
+public Object getSyncRoot()
+```
+
+
+Gets an object that can be used to synchronize access to the collection.
+
+**Returns:**
+java.lang.Object - Object for synchronization
+### isSynchronized() {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+
+Gets a value indicating whether access to the collection is synchronized (thread safe).
+
+**Returns:**
+boolean - boolean value
+### isReadOnly() {#isReadOnly--}
+```
+public boolean isReadOnly()
+```
+
+
+Gets a value indicating whether collection is read-only
+
+**Returns:**
+boolean - boolean value
+### iterator_Rename_Namesake() {#iterator-Rename-Namesake--}
+```
+public System.Collections.IEnumerator iterator_Rename_Namesake()
+```
+
+
+Returns an enumerator for the entire collection.
+
+**Returns:**
+com.aspose.ms.System.Collections.IEnumerator - Enumerator object.
+### iterator() {#iterator--}
+```
+public System.Collections.IEnumerator<CharInfo> iterator()
+```
+
+
+Returns an enumerator for the entire collection.
+
+**Returns:**
+com.aspose.ms.System.Collections.IEnumerator<com.aspose.pdf.CharInfo> - Enumerator object.
+### copyTo(CharInfo[] array, int index) {#copyTo-com.aspose.pdf.CharInfo---int-}
+```
+public void copyTo(CharInfo[] array, int index)
+```
+
+
+Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | [CharInfo\[\]](../../com.aspose.pdf/charinfo) | Array of objects which will be copied. |
+| index | int | Starting index from which copying will be started. |
+
 ### add(CharInfo item) {#add-com.aspose.pdf.CharInfo-}
 ```
 public void add(CharInfo item)
@@ -133,136 +198,6 @@ Determines whether the collection contains a specific value.
 
 **Returns:**
 boolean - true if item is found in the collection; otherwise, false.
-### copyTo(CharInfo[] array, int index) {#copyTo-com.aspose.pdf.CharInfo---int-}
-```
-public void copyTo(CharInfo[] array, int index)
-```
-
-
-Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | [CharInfo\[\]](../../com.aspose.pdf/charinfo) | Array of objects which will be copied. |
-| index | int | Starting index from which copying will be started. |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Gets an object that can be used to synchronize access to the collection.
-
-**Returns:**
-java.lang.Object - Object for synchronization
-### get_Item(int index) {#get-Item-int-}
-```
-public CharInfo get_Item(int index)
-```
-
-
-Gets the CharInfo element at the specified index 1..n.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index within the collection. |
-
-**Returns:**
-[CharInfo](../../com.aspose.pdf/charinfo) - CharInfo object.
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets a value indicating whether collection is read-only
-
-**Returns:**
-boolean - boolean value
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
-
-
-Gets a value indicating whether access to the collection is synchronized (thread safe).
-
-**Returns:**
-boolean - boolean value
-### iterator() {#iterator--}
-```
-public System.Collections.IEnumerator<CharInfo> iterator()
-```
-
-
-Returns an enumerator for the entire collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator<com.aspose.pdf.CharInfo> - Enumerator object.
-### iterator_Rename_Namesake() {#iterator-Rename-Namesake--}
-```
-public System.Collections.IEnumerator iterator_Rename_Namesake()
-```
-
-
-Returns an enumerator for the entire collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator - Enumerator object.
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
 ### remove(CharInfo item) {#remove-com.aspose.pdf.CharInfo-}
 ```
 public boolean remove(CharInfo item)
@@ -280,58 +215,18 @@ Collection is read-only, throws exception.
 
 **Returns:**
 boolean - boolean value.
-### size() {#size--}
+### get_Item(int index) {#get-Item-int-}
 ```
-public int size()
-```
-
-
-Gets the number of  CharInfo  object elements actually contained in the collection.
-
-**Returns:**
-int - int value
-### toString() {#toString--}
-```
-public String toString()
+public CharInfo get_Item(int index)
 ```
 
 
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
+Gets the CharInfo element at the specified index 1..n.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| index | int | Index within the collection. |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-
+**Returns:**
+[CharInfo](../../com.aspose.pdf/charinfo) - CharInfo object.

@@ -31,17 +31,8 @@ Specifies a printer resolution.
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getNames()](#getNames--) | Get String names for PrinterResolutionKind |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toString()](#toString--) |  |
 | [toString(int printerResolutionKind)](#toString-int-) | Get String name for PrinterResolutionKind element |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getNames()](#getNames--) | Get String names for PrinterResolutionKind |
 ### PdfPrinterResolutionKind() {#PdfPrinterResolutionKind--}
 ```
 public PdfPrinterResolutionKind()
@@ -88,77 +79,6 @@ public static final int Medium
 
 Medium resolution.
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getNames() {#getNames--}
-```
-public static String[] getNames()
-```
-
-
-Get String names for PrinterResolutionKind
-
-**Returns:**
-java.lang.String[] - String[] object
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
 ### toString(int printerResolutionKind) {#toString-int-}
 ```
 public static String toString(int printerResolutionKind)
@@ -174,38 +94,13 @@ Get String name for PrinterResolutionKind element
 
 **Returns:**
 java.lang.String - String object
-### wait() {#wait--}
+### getNames() {#getNames--}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public static String[] getNames()
 ```
 
 
+Get String names for PrinterResolutionKind
 
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-
+**Returns:**
+java.lang.String[] - String[] object

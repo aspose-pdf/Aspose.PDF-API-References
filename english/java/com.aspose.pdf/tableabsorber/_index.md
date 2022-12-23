@@ -3,7 +3,7 @@ title: TableAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of table elements.
 type: docs
-weight: 353
+weight: 354
 url: /java/com.aspose.pdf/tableabsorber/
 ---
 **Inheritance:**
@@ -43,23 +43,14 @@ The example demonstrates how to find table on the first PDF document page and re
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getTableList()](#getTableList--) | Returns readonly IList containing tables that were found |
 | [getTextSearchOptions()](#getTextSearchOptions--) | Gets text search options. |
-| [hashCode()](#hashCode--) |  |
+| [setTextSearchOptions(TextSearchOptions value)](#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-) | Gets or sets text search options. |
+| [getTableList()](#getTableList--) | Returns readonly IList containing tables that were found |
 | [isUseFlowEngine()](#isUseFlowEngine--) | Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
+| [setUseFlowEngine(boolean useFlowEngine)](#setUseFlowEngine-boolean-) | Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. |
+| [visit(Page page)](#visit-com.aspose.pdf.Page-) | Extracts tables on the specified page |
 | [remove(AbsorbedTable table)](#remove-com.aspose.pdf.AbsorbedTable-) | Removes an  AbsorbedTable  from the page. |
 | [replace(Page page, AbsorbedTable oldTable, Table newTable)](#replace-com.aspose.pdf.Page-com.aspose.pdf.AbsorbedTable-com.aspose.pdf.Table-) | Replaces an  AbsorbedTable  with  Table  on the page. |
-| [setTextSearchOptions(TextSearchOptions value)](#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-) | Gets or sets text search options. |
-| [setUseFlowEngine(boolean useFlowEngine)](#setUseFlowEngine-boolean-) | Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. |
-| [toString()](#toString--) |  |
-| [visit(Page page)](#visit-com.aspose.pdf.Page-) | Extracts tables on the specified page |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### TableAbsorber(TextSearchOptions textSearchOptions) {#TableAbsorber-com.aspose.pdf.TextSearchOptions-}
 ```
 public TableAbsorber(TextSearchOptions textSearchOptions)
@@ -89,41 +80,6 @@ Initializes a new instance of the  TableAbsorber .
 
 Performs searching for tables and provides access to the tables via  TableList  object.
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getTableList() {#getTableList--}
-```
-public List<AbsorbedTable> getTableList()
-```
-
-
-Returns readonly IList containing tables that were found
-
-**Returns:**
-java.util.List<com.aspose.pdf.AbsorbedTable> -  IGenericList object 
 ### getTextSearchOptions() {#getTextSearchOptions--}
 ```
 public TextSearchOptions getTextSearchOptions()
@@ -138,16 +94,33 @@ Allows to define several options that will be used during search text containing
 
 **Returns:**
 [TextSearchOptions](../../com.aspose.pdf/textsearchoptions) - TextSearchOptions object
-### hashCode() {#hashCode--}
+### setTextSearchOptions(TextSearchOptions value) {#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-}
 ```
-public native int hashCode()
+public void setTextSearchOptions(TextSearchOptions value)
 ```
 
 
+Gets or sets text search options.
 
+--------------------
+
+Allows to define several options that will be used during search text containing in tables.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [TextSearchOptions](../../com.aspose.pdf/textsearchoptions) | TextSearchOptions object |
+
+### getTableList() {#getTableList--}
+```
+public List<AbsorbedTable> getTableList()
+```
+
+
+Returns readonly IList containing tables that were found
 
 **Returns:**
-int
+java.util.List<com.aspose.pdf.AbsorbedTable> -  IGenericList object 
 ### isUseFlowEngine() {#isUseFlowEngine--}
 ```
 public boolean isUseFlowEngine()
@@ -158,21 +131,51 @@ Activate an early alfa version of alternative table recognition engine that coul
 
 **Returns:**
 boolean - boolean value
-### notify() {#notify--}
+### setUseFlowEngine(boolean useFlowEngine) {#setUseFlowEngine-boolean-}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public void setUseFlowEngine(boolean useFlowEngine)
 ```
 
 
+Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesn't support editing tables and getting text styles yet. By default is false.
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| useFlowEngine | boolean | boolean value |
+
+### visit(Page page) {#visit-com.aspose.pdf.Page-}
+```
+public void visit(Page page)
+```
+
+
+Extracts tables on the specified page
+
+--------------------
+
+```
+The example demonstrates how to extract table on the first PDF document page.
+
+ // Open document
+ Document doc = new Document(@"D:\Tests\input.pdf");
+ // Create TableAbsorber object to find tables
+ TableAbsorber absorber = new TableAbsorber();
+ // Visit first page with absorber
+ absorber.visit(pdfDocument.getPages.get_item(1));
+ // Get access to first table on page, their first cell and text fragments in it
+ TextFragment fragment = absorber.getTableList().get_item(0).getRowList.get_item(0).getCellList().get_item(0)
+ .getTextFragments.get_item(1);
+ // Change text of the first text fragment in the cell
+ fragment.setText ("hi world");
+ // Save document
+ doc.save(@"D:\Tests\output.pdf");
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | [Page](../../com.aspose.pdf/page) | Pdf document page object. |
 
 ### remove(AbsorbedTable table) {#remove-com.aspose.pdf.AbsorbedTable-}
 ```
@@ -209,112 +212,4 @@ Please take into account it changes TableList collection. In case removing/repla
 | page | [Page](../../com.aspose.pdf/page) | Pdf pocument page object. |
 | oldTable | [AbsorbedTable](../../com.aspose.pdf/absorbedtable) |  AbsorbedTable  to be replaced. |
 | newTable | [Table](../../com.aspose.pdf/table) |  Table  to replace old table. |
-
-### setTextSearchOptions(TextSearchOptions value) {#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-}
-```
-public void setTextSearchOptions(TextSearchOptions value)
-```
-
-
-Gets or sets text search options.
-
---------------------
-
-Allows to define several options that will be used during search text containing in tables.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextSearchOptions](../../com.aspose.pdf/textsearchoptions) | TextSearchOptions object |
-
-### setUseFlowEngine(boolean useFlowEngine) {#setUseFlowEngine-boolean-}
-```
-public void setUseFlowEngine(boolean useFlowEngine)
-```
-
-
-Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesn't support editing tables and getting text styles yet. By default is false.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| useFlowEngine | boolean | boolean value |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### visit(Page page) {#visit-com.aspose.pdf.Page-}
-```
-public void visit(Page page)
-```
-
-
-Extracts tables on the specified page
-
---------------------
-
-```
-The example demonstrates how to extract table on the first PDF document page.
-
- // Open document
- Document doc = new Document(@"D:\Tests\input.pdf");
- // Create TableAbsorber object to find tables
- TableAbsorber absorber = new TableAbsorber();
- // Visit first page with absorber
- absorber.visit(pdfDocument.getPages.get_item(1));
- // Get access to first table on page, their first cell and text fragments in it
- TextFragment fragment = absorber.getTableList().get_item(0).getRowList.get_item(0).getCellList().get_item(0)
- .getTextFragments.get_item(1);
- // Change text of the first text fragment in the cell
- fragment.setText ("hi world");
- // Save document
- doc.save(@"D:\Tests\output.pdf");
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | Pdf document page object. |
-
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
 

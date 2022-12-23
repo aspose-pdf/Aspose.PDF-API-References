@@ -25,25 +25,16 @@ Represents font substitution strategies collection.
 
 | Method | Description |
 | --- | --- |
-| [add(FontSubstitution fontSubstitution)](#add-com.aspose.pdf.text.FontSubstitution-) | Adds new font substitution object to the collection. |
-| [clear()](#clear--) | Clears the font substitution collection. |
-| [contains(FontSubstitution item)](#contains-com.aspose.pdf.text.FontSubstitution-) | Determines whether an element is in the collection. |
-| [delete(FontSubstitution fontSubstitution)](#delete-com.aspose.pdf.text.FontSubstitution-) | For internal only |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getItem(int index)](#getItem-int-) | Gets the font element at the specified index. |
+| [size()](#size--) | Gets the number of Font object elements actually contained in the collection. |
 | [getSyncRoot()](#getSyncRoot--) | Gets an object that can be used to synchronize access to the collection. |
-| [hashCode()](#hashCode--) |  |
 | [isSynchronized()](#isSynchronized--) | Gets a value indicating whether access to the collection is synchronized (thread safe). |
 | [iterator()](#iterator--) | Returns an enumerator for the entire collection. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
+| [add(FontSubstitution fontSubstitution)](#add-com.aspose.pdf.text.FontSubstitution-) | Adds new font substitution object to the collection. |
+| [clear()](#clear--) | Clears the font substitution collection. |
+| [delete(FontSubstitution fontSubstitution)](#delete-com.aspose.pdf.text.FontSubstitution-) | For internal only |
+| [contains(FontSubstitution item)](#contains-com.aspose.pdf.text.FontSubstitution-) | Determines whether an element is in the collection. |
 | [remove(FontSubstitution item)](#remove-com.aspose.pdf.text.FontSubstitution-) | Deletes the font substitution element. |
-| [size()](#size--) | Gets the number of Font object elements actually contained in the collection. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getItem(int index)](#getItem-int-) | Gets the font element at the specified index. |
 ### FontSubstitutionCollection() {#FontSubstitutionCollection--}
 ```
 public FontSubstitutionCollection()
@@ -52,6 +43,46 @@ public FontSubstitutionCollection()
 
 Initializes collection object
 
+### size() {#size--}
+```
+public int size()
+```
+
+
+Gets the number of Font object elements actually contained in the collection.
+
+**Returns:**
+int - int value
+### getSyncRoot() {#getSyncRoot--}
+```
+public Object getSyncRoot()
+```
+
+
+Gets an object that can be used to synchronize access to the collection.
+
+**Returns:**
+java.lang.Object - Object for synchronization
+### isSynchronized() {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+
+Gets a value indicating whether access to the collection is synchronized (thread safe).
+
+**Returns:**
+boolean - boolean value
+### iterator() {#iterator--}
+```
+public System.Collections.Generic.List.Enumerator<FontSubstitution> iterator()
+```
+
+
+Returns an enumerator for the entire collection.
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List.Enumerator<com.aspose.pdf.text.FontSubstitution> - Enumerator object
 ### add(FontSubstitution fontSubstitution) {#add-com.aspose.pdf.text.FontSubstitution-}
 ```
 public void add(FontSubstitution fontSubstitution)
@@ -73,21 +104,6 @@ public void clear()
 
 Clears the font substitution collection.
 
-### contains(FontSubstitution item) {#contains-com.aspose.pdf.text.FontSubstitution-}
-```
-public boolean contains(FontSubstitution item)
-```
-
-
-Determines whether an element is in the collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [FontSubstitution](../../com.aspose.pdf.text/fontsubstitution) | FontSubstitution object to search. |
-
-**Returns:**
-boolean - True - if element found; otherwise, false.
 ### delete(FontSubstitution fontSubstitution) {#delete-com.aspose.pdf.text.FontSubstitution-}
 ```
 public void delete(FontSubstitution fontSubstitution)
@@ -103,102 +119,21 @@ Deletes the font substitution element.
 | --- | --- | --- |
 | fontSubstitution | [FontSubstitution](../../com.aspose.pdf.text/fontsubstitution) | FontSubstitution object |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### contains(FontSubstitution item) {#contains-com.aspose.pdf.text.FontSubstitution-}
 ```
-public boolean equals(Object arg0)
+public boolean contains(FontSubstitution item)
 ```
 
 
-
+Determines whether an element is in the collection.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| item | [FontSubstitution](../../com.aspose.pdf.text/fontsubstitution) | FontSubstitution object to search. |
 
 **Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getItem(int index) {#getItem-int-}
-```
-public FontSubstitution getItem(int index)
-```
-
-
-Gets the font element at the specified index.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index within the collection. |
-
-**Returns:**
-[FontSubstitution](../../com.aspose.pdf.text/fontsubstitution) - FontSubstitution object.
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Gets an object that can be used to synchronize access to the collection.
-
-**Returns:**
-java.lang.Object - Object for synchronization
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
-
-
-Gets a value indicating whether access to the collection is synchronized (thread safe).
-
-**Returns:**
-boolean - boolean value
-### iterator() {#iterator--}
-```
-public System.Collections.Generic.List.Enumerator<FontSubstitution> iterator()
-```
-
-
-Returns an enumerator for the entire collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.List.Enumerator<com.aspose.pdf.text.FontSubstitution> - Enumerator object
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
+boolean - True - if element found; otherwise, false.
 ### remove(FontSubstitution item) {#remove-com.aspose.pdf.text.FontSubstitution-}
 ```
 public boolean remove(FontSubstitution item)
@@ -214,58 +149,18 @@ Deletes the font substitution element.
 
 **Returns:**
 boolean - True - if element removed; otherwise, false.
-### size() {#size--}
+### getItem(int index) {#getItem-int-}
 ```
-public int size()
-```
-
-
-Gets the number of Font object elements actually contained in the collection.
-
-**Returns:**
-int - int value
-### toString() {#toString--}
-```
-public String toString()
+public FontSubstitution getItem(int index)
 ```
 
 
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
+Gets the font element at the specified index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| index | int | Index within the collection. |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-
+**Returns:**
+[FontSubstitution](../../com.aspose.pdf.text/fontsubstitution) - FontSubstitution object.

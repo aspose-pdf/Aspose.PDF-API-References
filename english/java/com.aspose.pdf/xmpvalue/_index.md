@@ -3,7 +3,7 @@ title: XmpValue
 second_title: Aspose.PDF for Java API Reference
 description: Represents XMP value
 type: docs
-weight: 426
+weight: 427
 url: /java/com.aspose.pdf/xmpvalue/
 ---
 **Inheritance:**
@@ -27,49 +27,41 @@ Represents XMP value
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [hashCode()](#hashCode--) |  |
-| [isArray()](#isArray--) | Returns true is XmpValue is array. |
-| [isDateTime()](#isDateTime--) | Returns true if value is DateTime. |
-| [isDouble()](#isDouble--) | Returns true if value is floating point value. |
-| [isField()](#isField--) | Returns true if XmpValue is field. |
-| [isInteger()](#isInteger--) | Returns true if value is integer. |
-| [isNamedValue()](#isNamedValue--) | Returns true if XmpValue is named value. |
-| [isNamedValues()](#isNamedValues--) | Returns true is XmpValue represents named values. |
-| [isRaw()](#isRaw--) | Value is unsupported/unknown and raw XML code is provided. |
 | [isString()](#isString--) | Returns true if value is string. |
+| [isInteger()](#isInteger--) | Returns true if value is integer. |
+| [isDouble()](#isDouble--) | Returns true if value is floating point value. |
+| [isDateTime()](#isDateTime--) | Returns true if value is DateTime. |
+| [isField()](#isField--) | Returns true if XmpValue is field. |
+| [isNamedValue()](#isNamedValue--) | Returns true if XmpValue is named value. |
+| [isRaw()](#isRaw--) | Value is unsupported/unknown and raw XML code is provided. |
+| [isNamedValues()](#isNamedValues--) | Returns true is XmpValue represents named values. |
 | [isStructure()](#isStructure--) | Returns true is XmpValue represents structure. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toArray()](#toArray--) | Returns array. |
-| [toDateTime()](#toDateTime--) | Converts to date time. |
-| [toDictionary()](#toDictionary--) | Returns dictionary which contains named values. |
-| [toDouble()](#toDouble--) | Converts to double. |
-| [toField()](#toField--) | Returns XMP value as XMP field. |
+| [isArray()](#isArray--) | Returns true is XmpValue is array. |
+| [toStringValue()](#toStringValue--) | Converts to string. |
 | [toInteger()](#toInteger--) | Converts to integer. |
+| [toDouble()](#toDouble--) | Converts to double. |
+| [toDateTime()](#toDateTime--) | Converts to date time. |
+| [toArray()](#toArray--) | Returns array. |
+| [toRaw()](#toRaw--) | Raw XML code for unknown/unsupported values. |
+| [toStructure()](#toStructure--) | Returns XMP value as structure (set of fields). |
+| [toField()](#toField--) | Returns XMP value as XMP field. |
 | [toNamedValue()](#toNamedValue--) | Returns XMP value as named value. |
 | [toNamedValueInternal()](#toNamedValueInternal--) | For Internal usage only |
 | [toNamedValues()](#toNamedValues--) | Returns XMP value as named value collection. |
 | [toNamedValuesInternal()](#toNamedValuesInternal--) |  |
-| [toRaw()](#toRaw--) | Raw XML code for unknown/unsupported values. |
+| [toDictionary()](#toDictionary--) | Returns dictionary which contains named values. |
 | [toString()](#toString--) | Returns string representation of XmpValue. |
 | [toString(System.IFormatProvider formatProvider)](#toString-com.aspose.ms.System.IFormatProvider-) | Returns string representation. |
-| [toStringValue()](#toStringValue--) | Converts to string. |
-| [toStructure()](#toStructure--) | Returns XMP value as structure (set of fields). |
-| [to_(XmpValue value)](#to--com.aspose.pdf.XmpValue-) | Converts XmpValue into array. |
-| [to_Array(XmpValue value)](#to-Array-com.aspose.pdf.XmpValue-) | Converts XmpValue to array. |
-| [to_Generic(XmpValue value)](#to-Generic-com.aspose.pdf.XmpValue-) | Get KeyValuePair array |
-| [to_KeyValuePair(XmpValue value)](#to-KeyValuePair-com.aspose.pdf.XmpValue-) | Converts XmpValue to named value. |
-| [to_String(XmpValue value)](#to-String-com.aspose.pdf.XmpValue-) | Converts XmpValue into string. |
-| [to_XmpValue(double value)](#to-XmpValue-double-) | Converts double into XmpValue. |
-| [to_XmpValue(int value)](#to-XmpValue-int-) | Converts integer into XmpValue. |
-| [to_XmpValue(Object[] value)](#to-XmpValue-java.lang.Object---) | Converts array to XmpValue. |
 | [to_XmpValue(String value)](#to-XmpValue-java.lang.String-) | Converts string to XmpValue. |
+| [to_XmpValue(int value)](#to-XmpValue-int-) | Converts integer into XmpValue. |
+| [to_XmpValue(double value)](#to-XmpValue-double-) | Converts double into XmpValue. |
 | [to_XmpValue(Date value)](#to-XmpValue-java.util.Date-) | Converts DateTime into XmpValue. |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [to_XmpValue(Object[] value)](#to-XmpValue-java.lang.Object---) | Converts array to XmpValue. |
+| [to_Array(XmpValue value)](#to-Array-com.aspose.pdf.XmpValue-) | Converts XmpValue to array. |
+| [to_(XmpValue value)](#to--com.aspose.pdf.XmpValue-) | Converts XmpValue into array. |
+| [to_String(XmpValue value)](#to-String-com.aspose.pdf.XmpValue-) | Converts XmpValue into string. |
+| [to_KeyValuePair(XmpValue value)](#to-KeyValuePair-com.aspose.pdf.XmpValue-) | Converts XmpValue to named value. |
+| [to_Generic(XmpValue value)](#to-Generic-com.aspose.pdf.XmpValue-) | Get KeyValuePair array |
 ### XmpValue(String value) {#XmpValue-java.lang.String-}
 ```
 public XmpValue(String value)
@@ -146,78 +138,13 @@ public XmpValue(Object value)
 | --- | --- | --- |
 | value | java.lang.Object |  |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### isString() {#isString--}
 ```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
+public boolean isString()
 ```
 
 
-
-
-**Returns:**
-java.lang.Class<?>
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### isArray() {#isArray--}
-```
-public boolean isArray()
-```
-
-
-Returns true is XmpValue is array.
-
-**Returns:**
-boolean - boolean value
-### isDateTime() {#isDateTime--}
-```
-public boolean isDateTime()
-```
-
-
-Returns true if value is DateTime.
-
-**Returns:**
-boolean - boolean value
-### isDouble() {#isDouble--}
-```
-public boolean isDouble()
-```
-
-
-Returns true if value is floating point value.
-
-**Returns:**
-boolean - boolean value
-### isField() {#isField--}
-```
-public boolean isField()
-```
-
-
-Returns true if XmpValue is field.
+Returns true if value is string.
 
 **Returns:**
 boolean - boolean value
@@ -231,6 +158,36 @@ Returns true if value is integer.
 
 **Returns:**
 boolean - boolean value
+### isDouble() {#isDouble--}
+```
+public boolean isDouble()
+```
+
+
+Returns true if value is floating point value.
+
+**Returns:**
+boolean - boolean value
+### isDateTime() {#isDateTime--}
+```
+public boolean isDateTime()
+```
+
+
+Returns true if value is DateTime.
+
+**Returns:**
+boolean - boolean value
+### isField() {#isField--}
+```
+public boolean isField()
+```
+
+
+Returns true if XmpValue is field.
+
+**Returns:**
+boolean - boolean value
 ### isNamedValue() {#isNamedValue--}
 ```
 public boolean isNamedValue()
@@ -238,16 +195,6 @@ public boolean isNamedValue()
 
 
 Returns true if XmpValue is named value.
-
-**Returns:**
-boolean - boolean value
-### isNamedValues() {#isNamedValues--}
-```
-public boolean isNamedValues()
-```
-
-
-Returns true is XmpValue represents named values.
 
 **Returns:**
 boolean - boolean value
@@ -261,13 +208,13 @@ Value is unsupported/unknown and raw XML code is provided.
 
 **Returns:**
 boolean - True if value returned as raw data.
-### isString() {#isString--}
+### isNamedValues() {#isNamedValues--}
 ```
-public boolean isString()
+public boolean isNamedValues()
 ```
 
 
-Returns true if value is string.
+Returns true is XmpValue represents named values.
 
 **Returns:**
 boolean - boolean value
@@ -281,72 +228,26 @@ Returns true is XmpValue represents structure.
 
 **Returns:**
 boolean - boolean value
-### notify() {#notify--}
+### isArray() {#isArray--}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public boolean isArray()
 ```
 
 
-
-
-### toArray() {#toArray--}
-```
-public XmpValue[] toArray()
-```
-
-
-Returns array.
+Returns true is XmpValue is array.
 
 **Returns:**
-com.aspose.pdf.XmpValue[] - XmpValue array
-### toDateTime() {#toDateTime--}
+boolean - boolean value
+### toStringValue() {#toStringValue--}
 ```
-public Date toDateTime()
+public String toStringValue()
 ```
 
 
-Converts to date time.
+Converts to string.
 
 **Returns:**
-[Date](../../java.util/date) - Date instance
-### toDictionary() {#toDictionary--}
-```
-public final System.Collections.Generic.Dictionary<String,XmpValue> toDictionary()
-```
-
-
-Returns dictionary which contains named values.
-
-**Returns:**
-[Dictionary](../../com.aspose.ms.system.collections.generic/dictionary) - Dictionary
-### toDouble() {#toDouble--}
-```
-public double toDouble()
-```
-
-
-Converts to double.
-
-**Returns:**
-double - double value
-### toField() {#toField--}
-```
-public XmpField toField()
-```
-
-
-Returns XMP value as XMP field.
-
-**Returns:**
-[XmpField](../../com.aspose.pdf/xmpfield) - XmpField instance
+java.lang.String - String value
 ### toInteger() {#toInteger--}
 ```
 public int toInteger()
@@ -357,6 +258,66 @@ Converts to integer.
 
 **Returns:**
 int - int value
+### toDouble() {#toDouble--}
+```
+public double toDouble()
+```
+
+
+Converts to double.
+
+**Returns:**
+double - double value
+### toDateTime() {#toDateTime--}
+```
+public Date toDateTime()
+```
+
+
+Converts to date time.
+
+**Returns:**
+[Date](../../java.util/date) - Date instance
+### toArray() {#toArray--}
+```
+public XmpValue[] toArray()
+```
+
+
+Returns array.
+
+**Returns:**
+com.aspose.pdf.XmpValue[] - XmpValue array
+### toRaw() {#toRaw--}
+```
+public final System.Xml.XmlNode toRaw()
+```
+
+
+Raw XML code for unknown/unsupported values.
+
+**Returns:**
+com.aspose.ms.System.Xml.XmlNode - XML node for this value.
+### toStructure() {#toStructure--}
+```
+public XmpField[] toStructure()
+```
+
+
+Returns XMP value as structure (set of fields).
+
+**Returns:**
+com.aspose.pdf.XmpField[] - XmpField array
+### toField() {#toField--}
+```
+public XmpField toField()
+```
+
+
+Returns XMP value as XMP field.
+
+**Returns:**
+[XmpField](../../com.aspose.pdf/xmpfield) - XmpField instance
 ### toNamedValue() {#toNamedValue--}
 ```
 public HashMap<String,XmpValue> toNamedValue()
@@ -397,16 +358,16 @@ public System.Collections.Generic.KeyValuePair<String,XmpValue>[] toNamedValuesI
 
 **Returns:**
 com.aspose.ms.System.Collections.Generic.KeyValuePair<java.lang.String,com.aspose.pdf.XmpValue>[]
-### toRaw() {#toRaw--}
+### toDictionary() {#toDictionary--}
 ```
-public final System.Xml.XmlNode toRaw()
+public final System.Collections.Generic.Dictionary<String,XmpValue> toDictionary()
 ```
 
 
-Raw XML code for unknown/unsupported values.
+Returns dictionary which contains named values.
 
 **Returns:**
-com.aspose.ms.System.Xml.XmlNode - XML node for this value.
+[Dictionary](../../com.aspose.ms.system.collections.generic/dictionary) - Dictionary
 ### toString() {#toString--}
 ```
 public String toString()
@@ -432,113 +393,18 @@ Returns string representation.
 
 **Returns:**
 java.lang.String - String representation
-### toStringValue() {#toStringValue--}
+### to_XmpValue(String value) {#to-XmpValue-java.lang.String-}
 ```
-public String toStringValue()
-```
-
-
-Converts to string.
-
-**Returns:**
-java.lang.String - String value
-### toStructure() {#toStructure--}
-```
-public XmpField[] toStructure()
+public static XmpValue to_XmpValue(String value)
 ```
 
 
-Returns XMP value as structure (set of fields).
-
-**Returns:**
-com.aspose.pdf.XmpField[] - XmpField array
-### to_(XmpValue value) {#to--com.aspose.pdf.XmpValue-}
-```
-public static XmpValue[] to_(XmpValue value)
-```
-
-
-Converts XmpValue into array.
+Converts string to XmpValue.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
-
-**Returns:**
-com.aspose.pdf.XmpValue[] - XmpValue array
-### to_Array(XmpValue value) {#to-Array-com.aspose.pdf.XmpValue-}
-```
-public static XmpValue[] to_Array(XmpValue value)
-```
-
-
-Converts XmpValue to array.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
-
-**Returns:**
-com.aspose.pdf.XmpValue[] - XmpValue array
-### to_Generic(XmpValue value) {#to-Generic-com.aspose.pdf.XmpValue-}
-```
-public static System.Collections.Generic.KeyValuePair<String,XmpValue>[] to_Generic(XmpValue value)
-```
-
-
-Get KeyValuePair array
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.KeyValuePair<java.lang.String,com.aspose.pdf.XmpValue>[] - Internal Array
-### to_KeyValuePair(XmpValue value) {#to-KeyValuePair-com.aspose.pdf.XmpValue-}
-```
-public static System.Collections.Generic.KeyValuePair<String,XmpValue> to_KeyValuePair(XmpValue value)
-```
-
-
-Converts XmpValue to named value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
-
-**Returns:**
-[KeyValuePair](../../com.aspose.ms.system.collections.generic/keyvaluepair) - Internal Array
-### to_String(XmpValue value) {#to-String-com.aspose.pdf.XmpValue-}
-```
-public static String to_String(XmpValue value)
-```
-
-
-Converts XmpValue into string.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
-
-**Returns:**
-java.lang.String - String value
-### to_XmpValue(double value) {#to-XmpValue-double-}
-```
-public static XmpValue to_XmpValue(double value)
-```
-
-
-Converts double into XmpValue.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value (Value to convert) |
+| value | java.lang.String | String value (Value to convert) |
 
 **Returns:**
 [XmpValue](../../com.aspose.pdf/xmpvalue) - XmpValue instance
@@ -557,33 +423,18 @@ Converts integer into XmpValue.
 
 **Returns:**
 [XmpValue](../../com.aspose.pdf/xmpvalue) - XmpValue instance
-### to_XmpValue(Object[] value) {#to-XmpValue-java.lang.Object---}
+### to_XmpValue(double value) {#to-XmpValue-double-}
 ```
-public static XmpValue to_XmpValue(Object[] value)
+public static XmpValue to_XmpValue(double value)
 ```
 
 
-Converts array to XmpValue.
+Converts double into XmpValue.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.Object[] | Array of Objects (Value to convert) |
-
-**Returns:**
-[XmpValue](../../com.aspose.pdf/xmpvalue) - XmpValue instance
-### to_XmpValue(String value) {#to-XmpValue-java.lang.String-}
-```
-public static XmpValue to_XmpValue(String value)
-```
-
-
-Converts string to XmpValue.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value (Value to convert) |
+| value | double | double value (Value to convert) |
 
 **Returns:**
 [XmpValue](../../com.aspose.pdf/xmpvalue) - XmpValue instance
@@ -602,38 +453,93 @@ Converts DateTime into XmpValue.
 
 **Returns:**
 [XmpValue](../../com.aspose.pdf/xmpvalue) - XmpValue instance
-### wait() {#wait--}
+### to_XmpValue(Object[] value) {#to-XmpValue-java.lang.Object---}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public static XmpValue to_XmpValue(Object[] value)
 ```
 
 
-
+Converts array to XmpValue.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| value | java.lang.Object[] | Array of Objects (Value to convert) |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+**Returns:**
+[XmpValue](../../com.aspose.pdf/xmpvalue) - XmpValue instance
+### to_Array(XmpValue value) {#to-Array-com.aspose.pdf.XmpValue-}
 ```
-public final void wait(long arg0, int arg1)
+public static XmpValue[] to_Array(XmpValue value)
 ```
 
 
-
+Converts XmpValue to array.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
 
+**Returns:**
+com.aspose.pdf.XmpValue[] - XmpValue array
+### to_(XmpValue value) {#to--com.aspose.pdf.XmpValue-}
+```
+public static XmpValue[] to_(XmpValue value)
+```
+
+
+Converts XmpValue into array.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
+
+**Returns:**
+com.aspose.pdf.XmpValue[] - XmpValue array
+### to_String(XmpValue value) {#to-String-com.aspose.pdf.XmpValue-}
+```
+public static String to_String(XmpValue value)
+```
+
+
+Converts XmpValue into string.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
+
+**Returns:**
+java.lang.String - String value
+### to_KeyValuePair(XmpValue value) {#to-KeyValuePair-com.aspose.pdf.XmpValue-}
+```
+public static System.Collections.Generic.KeyValuePair<String,XmpValue> to_KeyValuePair(XmpValue value)
+```
+
+
+Converts XmpValue to named value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
+
+**Returns:**
+[KeyValuePair](../../com.aspose.ms.system.collections.generic/keyvaluepair) - Internal Array
+### to_Generic(XmpValue value) {#to-Generic-com.aspose.pdf.XmpValue-}
+```
+public static System.Collections.Generic.KeyValuePair<String,XmpValue>[] to_Generic(XmpValue value)
+```
+
+
+Get KeyValuePair array
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [XmpValue](../../com.aspose.pdf/xmpvalue) | XmpValue instance (Value to convert) |
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.KeyValuePair<java.lang.String,com.aspose.pdf.XmpValue>[] - Internal Array

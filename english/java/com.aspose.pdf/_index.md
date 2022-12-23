@@ -48,6 +48,8 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [ApsLoadOptions](../com.aspose.pdf/apsloadoptions) | Class describes aps load options. |
 | [ApsSaveOptions](../com.aspose.pdf/apssaveoptions) | Save options for export to APS XML format. |
 | [ApsToFlowConverter](../com.aspose.pdf/apstoflowconverter) | APS to Flow Conversion \* !!! |
+| [ApsUsingConverter](../com.aspose.pdf/apsusingconverter) | Class for Internal usage only. |
+| [ApsUsingConverter.ImportResourceLoader](../com.aspose.pdf/apsusingconverter.importresourceloader) |  |
 | [Artifact](../com.aspose.pdf/artifact) | Class represents PDF Artifact object. |
 | [Artifact.ArtifactSubtype](../com.aspose.pdf/artifact.artifactsubtype) | Enumeration of possible artifacts subtype. |
 | [Artifact.ArtifactType](../com.aspose.pdf/artifact.artifacttype) | Enumeration of possuble artifact types. |

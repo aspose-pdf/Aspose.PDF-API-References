@@ -17,13 +17,13 @@ General facade interface that defines common facades methods.
 
 | Method | Description |
 | --- | --- |
-| [bindPdf(IDocument srcDoc)](#bindPdf-com.aspose.pdf.IDocument-) | Binds PDF document for editing. |
-| [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Binds PDF document for editing. |
 | [bindPdf(String srcFile)](#bindPdf-java.lang.String-) | Binds PDF document for editing. |
+| [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Binds PDF document for editing. |
+| [bindPdf(IDocument srcDoc)](#bindPdf-com.aspose.pdf.IDocument-) | Binds PDF document for editing. |
 | [close()](#close--) | Releases any resources associates with the current facade. |
-### bindPdf(IDocument srcDoc) {#bindPdf-com.aspose.pdf.IDocument-}
+### bindPdf(String srcFile) {#bindPdf-java.lang.String-}
 ```
-public abstract void bindPdf(IDocument srcDoc)
+public abstract void bindPdf(String srcFile)
 ```
 
 
@@ -32,7 +32,7 @@ Binds PDF document for editing.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | [IDocument](../../com.aspose.pdf/idocument) | Input PDF document. |
+| srcFile | java.lang.String | The path of input PDF document. |
 
 ### bindPdf(InputStream srcStream) {#bindPdf-java.io.InputStream-}
 ```
@@ -47,9 +47,9 @@ Binds PDF document for editing.
 | --- | --- | --- |
 | srcStream | java.io.InputStream | The stream of input PDF document. |
 
-### bindPdf(String srcFile) {#bindPdf-java.lang.String-}
+### bindPdf(IDocument srcDoc) {#bindPdf-com.aspose.pdf.IDocument-}
 ```
-public abstract void bindPdf(String srcFile)
+public abstract void bindPdf(IDocument srcDoc)
 ```
 
 
@@ -58,7 +58,7 @@ Binds PDF document for editing.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | java.lang.String | The path of input PDF document. |
+| srcDoc | [IDocument](../../com.aspose.pdf/idocument) | Input PDF document. |
 
 ### close() {#close--}
 ```

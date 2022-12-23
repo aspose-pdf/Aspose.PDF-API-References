@@ -34,27 +34,18 @@ Class which represents formatted text. Contains information about text and its c
 
 | Method | Description |
 | --- | --- |
-| [addNewLineText(String newLineText)](#addNewLineText-java.lang.String-) | Adds a new line to the FormattedText object and sets the newLineText to the next line's text. |
-| [addNewLineText(String newLineText, float lineSpacing)](#addNewLineText-java.lang.String-float-) | Adds a new line to the FormattedText object and sets the newLineText to the next line's text. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBackColor()](#getBackColor--) | Internal Gets back color |
-| [getClass()](#getClass--) |  |
+| [getText()](#getText--) | For Internal usage only |
 | [getFirstLine()](#getFirstLine--) | Gets first line |
+| [getTextColor()](#getTextColor--) | Internal Gets text color |
+| [getBackColor()](#getBackColor--) | Internal Gets back color |
 | [getFont()](#getFont--) | Gets font |
 | [getFontSize()](#getFontSize--) | Gets font size |
-| [getText()](#getText--) | For Internal usage only |
-| [getTextColor()](#getTextColor--) | Internal Gets text color |
 | [getTextHeight()](#getTextHeight--) | Gets height of text. |
 | [getTextWidth()](#getTextWidth--) | Gets width of text. |
-| [hashCode()](#hashCode--) |  |
+| [addNewLineText(String newLineText)](#addNewLineText-java.lang.String-) | Adds a new line to the FormattedText object and sets the newLineText to the next line's text. |
+| [addNewLineText(String newLineText, float lineSpacing)](#addNewLineText-java.lang.String-float-) | Adds a new line to the FormattedText object and sets the newLineText to the next line's text. |
 | [isCjk()](#isCjk--) | Checks if text is CJK (Chinese, Japanese, or Korean). |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
 | [setCjkFontStyle()](#setCjkFontStyle--) | Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### FormattedText() {#FormattedText--}
 ```
 public FormattedText()
@@ -280,6 +271,86 @@ Initializes FormattedText.
 | embedded | boolean | If true font will be embedded. |
 | fontSize | float | Size of the text. |
 
+### getText() {#getText--}
+```
+public System.Collections.Generic.List<String> getText()
+```
+
+
+For Internal usage only
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List<java.lang.String> - Internal object
+### getFirstLine() {#getFirstLine--}
+```
+public String getFirstLine()
+```
+
+
+Gets first line
+
+**Returns:**
+java.lang.String - String value
+### getTextColor() {#getTextColor--}
+```
+public System.Drawing.Color getTextColor()
+```
+
+
+Internal Gets text color
+
+**Returns:**
+[Color](../../com.aspose.ms.system.drawing/color) - Color element
+### getBackColor() {#getBackColor--}
+```
+public System.Drawing.Color getBackColor()
+```
+
+
+Internal Gets back color
+
+**Returns:**
+[Color](../../com.aspose.ms.system.drawing/color) - Color element
+### getFont() {#getFont--}
+```
+public Font getFont()
+```
+
+
+Gets font
+
+**Returns:**
+[Font](../../com.aspose.pdf/font) - Font element
+### getFontSize() {#getFontSize--}
+```
+public float getFontSize()
+```
+
+
+Gets font size
+
+**Returns:**
+float - float value
+### getTextHeight() {#getTextHeight--}
+```
+public float getTextHeight()
+```
+
+
+Gets height of text.
+
+**Returns:**
+float - float value
+### getTextWidth() {#getTextWidth--}
+```
+public float getTextWidth()
+```
+
+
+Gets width of text.
+
+**Returns:**
+float - float value
 ### addNewLineText(String newLineText) {#addNewLineText-java.lang.String-}
 ```
 public void addNewLineText(String newLineText)
@@ -307,121 +378,6 @@ Adds a new line to the FormattedText object and sets the newLineText to the next
 | newLineText | java.lang.String | Text of new added line. |
 | lineSpacing | float | Spacing of the line. |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getBackColor() {#getBackColor--}
-```
-public System.Drawing.Color getBackColor()
-```
-
-
-Internal Gets back color
-
-**Returns:**
-[Color](../../com.aspose.ms.system.drawing/color) - Color element
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getFirstLine() {#getFirstLine--}
-```
-public String getFirstLine()
-```
-
-
-Gets first line
-
-**Returns:**
-java.lang.String - String value
-### getFont() {#getFont--}
-```
-public Font getFont()
-```
-
-
-Gets font
-
-**Returns:**
-[Font](../../com.aspose.pdf/font) - Font element
-### getFontSize() {#getFontSize--}
-```
-public float getFontSize()
-```
-
-
-Gets font size
-
-**Returns:**
-float - float value
-### getText() {#getText--}
-```
-public System.Collections.Generic.List<String> getText()
-```
-
-
-For Internal usage only
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.List<java.lang.String> - Internal object
-### getTextColor() {#getTextColor--}
-```
-public System.Drawing.Color getTextColor()
-```
-
-
-Internal Gets text color
-
-**Returns:**
-[Color](../../com.aspose.ms.system.drawing/color) - Color element
-### getTextHeight() {#getTextHeight--}
-```
-public float getTextHeight()
-```
-
-
-Gets height of text.
-
-**Returns:**
-float - float value
-### getTextWidth() {#getTextWidth--}
-```
-public float getTextWidth()
-```
-
-
-Gets width of text.
-
-**Returns:**
-float - float value
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
 ### isCjk() {#isCjk--}
 ```
 public final boolean isCjk()
@@ -432,22 +388,6 @@ Checks if text is CJK (Chinese, Japanese, or Korean).
 
 **Returns:**
 boolean - True if text is CJK. Otherwise false.
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
 ### setCjkFontStyle() {#setCjkFontStyle--}
 ```
 public final void setCjkFontStyle()
@@ -455,49 +395,4 @@ public final void setCjkFontStyle()
 
 
 Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font.
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
 

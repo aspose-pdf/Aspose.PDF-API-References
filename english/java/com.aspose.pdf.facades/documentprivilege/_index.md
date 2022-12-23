@@ -44,46 +44,39 @@ Represents the privileges for accessing Pdf file. Refer to PdfFileSecurity . The
 
 | Method | Description |
 | --- | --- |
-| [compareTo(Object obj)](#compareTo-java.lang.Object-) | Compares two  DocumentPrivilege  objects. |
-| [equals(Object obj)](#equals-java.lang.Object-) | Indicates whether some other object is "equal to" this one. |
-| [getAllowAll()](#getAllowAll--) | All allowed. |
-| [getAssembly()](#getAssembly--) | Allows assemblying file. |
-| [getClass()](#getClass--) |  |
-| [getCopy()](#getCopy--) | Allows copying file. |
-| [getDegradedPrinting()](#getDegradedPrinting--) | Allows degraded printing. |
-| [getFillIn()](#getFillIn--) | Allows filling forms in file. |
-| [getForbidAll()](#getForbidAll--) | All Forbidded. |
-| [getModifyAnnotations()](#getModifyAnnotations--) | Allows modifying annotations of file. |
-| [getModifyContents()](#getModifyContents--) | Allows modifying file. |
-| [getPrint()](#getPrint--) | Allows printing file. |
-| [getScreenReaders()](#getScreenReaders--) | Allows to reader on screen only. |
 | [getValue()](#getValue--) | Gets value |
-| [hashCode()](#hashCode--) | Returns a hash code value for the object. |
-| [isAllowAssembly()](#isAllowAssembly--) | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
-| [isAllowCopy()](#isAllowCopy--) | Sets the permission which allow copy or not. true is allow and false is forbidden. |
-| [isAllowDegradedPrinting()](#isAllowDegradedPrinting--) | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
-| [isAllowFillIn()](#isAllowFillIn--) | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
-| [isAllowModifyAnnotations()](#isAllowModifyAnnotations--) | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
-| [isAllowModifyContents()](#isAllowModifyContents--) | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
 | [isAllowPrint()](#isAllowPrint--) | Sets the permission which allow print or not. true is allow and false is forbidden. |
-| [isAllowScreenReaders()](#isAllowScreenReaders--) | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setAllowAssembly(boolean value)](#setAllowAssembly-boolean-) | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
-| [setAllowCopy(boolean value)](#setAllowCopy-boolean-) | Sets the permission which allow copy or not. true is allow and false is forbidden. |
-| [setAllowDegradedPrinting(boolean value)](#setAllowDegradedPrinting-boolean-) | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
-| [setAllowFillIn(boolean value)](#setAllowFillIn-boolean-) | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
-| [setAllowModifyAnnotations(boolean value)](#setAllowModifyAnnotations-boolean-) | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
-| [setAllowModifyContents(boolean value)](#setAllowModifyContents-boolean-) | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
 | [setAllowPrint(boolean value)](#setAllowPrint-boolean-) | Sets the permission which allow print or not. true is allow and false is forbidden. |
+| [isAllowDegradedPrinting()](#isAllowDegradedPrinting--) | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
+| [setAllowDegradedPrinting(boolean value)](#setAllowDegradedPrinting-boolean-) | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
+| [isAllowModifyContents()](#isAllowModifyContents--) | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
+| [setAllowModifyContents(boolean value)](#setAllowModifyContents-boolean-) | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
+| [isAllowCopy()](#isAllowCopy--) | Sets the permission which allow copy or not. true is allow and false is forbidden. |
+| [setAllowCopy(boolean value)](#setAllowCopy-boolean-) | Sets the permission which allow copy or not. true is allow and false is forbidden. |
+| [isAllowModifyAnnotations()](#isAllowModifyAnnotations--) | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
+| [setAllowModifyAnnotations(boolean value)](#setAllowModifyAnnotations-boolean-) | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
+| [isAllowFillIn()](#isAllowFillIn--) | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
+| [setAllowFillIn(boolean value)](#setAllowFillIn-boolean-) | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
+| [isAllowScreenReaders()](#isAllowScreenReaders--) | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
 | [setAllowScreenReaders(boolean value)](#setAllowScreenReaders-boolean-) | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
+| [isAllowAssembly()](#isAllowAssembly--) | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
+| [setAllowAssembly(boolean value)](#setAllowAssembly-boolean-) | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
+| [setPrintAllowLevel(int value)](#setPrintAllowLevel-int-) | Sets the print level of document's privilege. |
 | [setChangeAllowLevel(int value)](#setChangeAllowLevel-int-) | Sets the change level of document's privilege. |
 | [setCopyAllowLevel(int value)](#setCopyAllowLevel-int-) | Sets the copy level of document's privilege. |
-| [setPrintAllowLevel(int value)](#setPrintAllowLevel-int-) | Sets the print level of document's privilege. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [compareTo(Object obj)](#compareTo-java.lang.Object-) | Compares two  DocumentPrivilege  objects. |
+| [hashCode()](#hashCode--) | Returns a hash code value for the object. |
+| [equals(Object obj)](#equals-java.lang.Object-) | Indicates whether some other object is "equal to" this one. |
+| [getDegradedPrinting()](#getDegradedPrinting--) | Allows degraded printing. |
+| [getPrint()](#getPrint--) | Allows printing file. |
+| [getModifyContents()](#getModifyContents--) | Allows modifying file. |
+| [getCopy()](#getCopy--) | Allows copying file. |
+| [getModifyAnnotations()](#getModifyAnnotations--) | Allows modifying annotations of file. |
+| [getFillIn()](#getFillIn--) | Allows filling forms in file. |
+| [getScreenReaders()](#getScreenReaders--) | Allows to reader on screen only. |
+| [getAssembly()](#getAssembly--) | Allows assemblying file. |
+| [getAllowAll()](#getAllowAll--) | All allowed. |
+| [getForbidAll()](#getForbidAll--) | All Forbidded. |
 ### DocumentPrivilege(int value) {#DocumentPrivilege-int-}
 ```
 public DocumentPrivilege(int value)
@@ -97,158 +90,6 @@ Constructor
 | --- | --- | --- |
 | value | int | document's Permissions |
 
-### compareTo(Object obj) {#compareTo-java.lang.Object-}
-```
-public int compareTo(Object obj)
-```
-
-
-Compares two  DocumentPrivilege  objects.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | java.lang.Object | The object to compare with. |
-
-**Returns:**
-int - A signed integer that indicates the relative values of this instance and value. Less than zero this instance is less than value. Zero this instance is equal to value. Greater than zero this instance is greater than value.
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
-
-
-Indicates whether some other object is "equal to" this one.
-
-The `equals` method implements an equivalence relation on non-null object references:
-
- *  It is *reflexive*: for any non-null reference value `x`, `x.equals(x)` should return `true`.
- *  It is *symmetric*: for any non-null reference values `x` and `y`, `x.equals(y)` should return `true` if and only if `y.equals(x)` returns `true`.
- *  It is *transitive*: for any non-null reference values `x`, `y`, and `z`, if `x.equals(y)` returns `true` and `y.equals(z)` returns `true`, then `x.equals(z)` should return `true`.
- *  It is *consistent*: for any non-null reference values `x` and `y`, multiple invocations of x.equals(y) consistently return `true` or consistently return `false`, provided no information used in `equals` comparisons on the objects is modified.
- *  For any non-null reference value `x`, `x.equals(null)` should return `false`.
-
-The equals method for class `Object` implements the most discriminating possible equivalence relation on objects; that is, for any non-null reference values `x` and `y`, this method returns `true` if and only if `x` and `y` refer to the same object (`x == y` has the value `true`).
-
-Note that it is generally necessary to override the hashCode method whenever this method is overridden, so as to maintain the general contract for the hashCode method, which states that equal objects must have equal hash codes.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | java.lang.Object | the reference object with which to compare. |
-
-**Returns:**
-boolean - `true` if this object is the same as the obj argument; `false` otherwise.
-### getAllowAll() {#getAllowAll--}
-```
-public static DocumentPrivilege getAllowAll()
-```
-
-
-All allowed.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getAssembly() {#getAssembly--}
-```
-public static DocumentPrivilege getAssembly()
-```
-
-
-Allows assemblying file.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getCopy() {#getCopy--}
-```
-public static DocumentPrivilege getCopy()
-```
-
-
-Allows copying file.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getDegradedPrinting() {#getDegradedPrinting--}
-```
-public static DocumentPrivilege getDegradedPrinting()
-```
-
-
-Allows degraded printing.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getFillIn() {#getFillIn--}
-```
-public static DocumentPrivilege getFillIn()
-```
-
-
-Allows filling forms in file.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getForbidAll() {#getForbidAll--}
-```
-public static DocumentPrivilege getForbidAll()
-```
-
-
-All Forbidded.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getModifyAnnotations() {#getModifyAnnotations--}
-```
-public static DocumentPrivilege getModifyAnnotations()
-```
-
-
-Allows modifying annotations of file.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getModifyContents() {#getModifyContents--}
-```
-public static DocumentPrivilege getModifyContents()
-```
-
-
-Allows modifying file.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getPrint() {#getPrint--}
-```
-public static DocumentPrivilege getPrint()
-```
-
-
-Allows printing file.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
-### getScreenReaders() {#getScreenReaders--}
-```
-public static DocumentPrivilege getScreenReaders()
-```
-
-
-Allows to reader on screen only.
-
-**Returns:**
-[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
 ### getValue() {#getValue--}
 ```
 public int getValue()
@@ -259,84 +100,6 @@ Gets value
 
 **Returns:**
 int - int value
-### hashCode() {#hashCode--}
-```
-public int hashCode()
-```
-
-
-Returns a hash code value for the object. This method is supported for the benefit of hashtables such as those provided by `java.util.Hashtable`.
-
-The general contract of `hashCode` is:
-
- *  Whenever it is invoked on the same object more than once during an execution of a Java application, the hashCode method must consistently return the same integer, provided no information used in equals comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application.
- *  If two objects are equal according to the equals(Object) method, then calling the `hashCode` method on each of the two objects must produce the same integer result.
- *  It is *not* required that if two objects are unequal according to the java.lang.Object\#equals(java.lang.Object).equals(java.lang.Object) method, then calling the hashCode method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hashtables.
-
-As much as is reasonably practical, the hashCode method defined by class Object does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the JavaTM programming language.)
-
-**Returns:**
-int - a hash code value for this object.
-### isAllowAssembly() {#isAllowAssembly--}
-```
-public boolean isAllowAssembly()
-```
-
-
-Sets the permission which allow assembly or not. true is allow and false is forbidden.
-
-**Returns:**
-boolean - boolean value
-### isAllowCopy() {#isAllowCopy--}
-```
-public boolean isAllowCopy()
-```
-
-
-Sets the permission which allow copy or not. true is allow and false is forbidden.
-
-**Returns:**
-boolean - boolean value
-### isAllowDegradedPrinting() {#isAllowDegradedPrinting--}
-```
-public boolean isAllowDegradedPrinting()
-```
-
-
-Sets the permission which allow degraded printing or not. true is allow and false is forbidden.
-
-**Returns:**
-boolean - boolean value
-### isAllowFillIn() {#isAllowFillIn--}
-```
-public boolean isAllowFillIn()
-```
-
-
-Sets the permission which allow fill in forms or not. true is allow and false is forbidden.
-
-**Returns:**
-boolean - boolean value
-### isAllowModifyAnnotations() {#isAllowModifyAnnotations--}
-```
-public boolean isAllowModifyAnnotations()
-```
-
-
-Sets the permission which allow modify annotations or not. true is allow and false is forbidden.
-
-**Returns:**
-boolean - boolean value
-### isAllowModifyContents() {#isAllowModifyContents--}
-```
-public boolean isAllowModifyContents()
-```
-
-
-Sets the permission which allow modify contents or not. true is allow and false is forbidden.
-
-**Returns:**
-boolean - boolean value
 ### isAllowPrint() {#isAllowPrint--}
 ```
 public boolean isAllowPrint()
@@ -347,110 +110,6 @@ Sets the permission which allow print or not. true is allow and false is forbidd
 
 **Returns:**
 boolean - boolean value
-### isAllowScreenReaders() {#isAllowScreenReaders--}
-```
-public boolean isAllowScreenReaders()
-```
-
-
-Sets the permission which allow screen readers or not. true is allow and false is forbidden.
-
-**Returns:**
-boolean - boolean value
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setAllowAssembly(boolean value) {#setAllowAssembly-boolean-}
-```
-public void setAllowAssembly(boolean value)
-```
-
-
-Sets the permission which allow assembly or not. true is allow and false is forbidden.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setAllowCopy(boolean value) {#setAllowCopy-boolean-}
-```
-public void setAllowCopy(boolean value)
-```
-
-
-Sets the permission which allow copy or not. true is allow and false is forbidden.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setAllowDegradedPrinting(boolean value) {#setAllowDegradedPrinting-boolean-}
-```
-public void setAllowDegradedPrinting(boolean value)
-```
-
-
-Sets the permission which allow degraded printing or not. true is allow and false is forbidden.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setAllowFillIn(boolean value) {#setAllowFillIn-boolean-}
-```
-public void setAllowFillIn(boolean value)
-```
-
-
-Sets the permission which allow fill in forms or not. true is allow and false is forbidden.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setAllowModifyAnnotations(boolean value) {#setAllowModifyAnnotations-boolean-}
-```
-public void setAllowModifyAnnotations(boolean value)
-```
-
-
-Sets the permission which allow modify annotations or not. true is allow and false is forbidden.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setAllowModifyContents(boolean value) {#setAllowModifyContents-boolean-}
-```
-public void setAllowModifyContents(boolean value)
-```
-
-
-Sets the permission which allow modify contents or not. true is allow and false is forbidden.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
 ### setAllowPrint(boolean value) {#setAllowPrint-boolean-}
 ```
 public void setAllowPrint(boolean value)
@@ -464,6 +123,131 @@ Sets the permission which allow print or not. true is allow and false is forbidd
 | --- | --- | --- |
 | value | boolean | boolean value |
 
+### isAllowDegradedPrinting() {#isAllowDegradedPrinting--}
+```
+public boolean isAllowDegradedPrinting()
+```
+
+
+Sets the permission which allow degraded printing or not. true is allow and false is forbidden.
+
+**Returns:**
+boolean - boolean value
+### setAllowDegradedPrinting(boolean value) {#setAllowDegradedPrinting-boolean-}
+```
+public void setAllowDegradedPrinting(boolean value)
+```
+
+
+Sets the permission which allow degraded printing or not. true is allow and false is forbidden.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### isAllowModifyContents() {#isAllowModifyContents--}
+```
+public boolean isAllowModifyContents()
+```
+
+
+Sets the permission which allow modify contents or not. true is allow and false is forbidden.
+
+**Returns:**
+boolean - boolean value
+### setAllowModifyContents(boolean value) {#setAllowModifyContents-boolean-}
+```
+public void setAllowModifyContents(boolean value)
+```
+
+
+Sets the permission which allow modify contents or not. true is allow and false is forbidden.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### isAllowCopy() {#isAllowCopy--}
+```
+public boolean isAllowCopy()
+```
+
+
+Sets the permission which allow copy or not. true is allow and false is forbidden.
+
+**Returns:**
+boolean - boolean value
+### setAllowCopy(boolean value) {#setAllowCopy-boolean-}
+```
+public void setAllowCopy(boolean value)
+```
+
+
+Sets the permission which allow copy or not. true is allow and false is forbidden.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### isAllowModifyAnnotations() {#isAllowModifyAnnotations--}
+```
+public boolean isAllowModifyAnnotations()
+```
+
+
+Sets the permission which allow modify annotations or not. true is allow and false is forbidden.
+
+**Returns:**
+boolean - boolean value
+### setAllowModifyAnnotations(boolean value) {#setAllowModifyAnnotations-boolean-}
+```
+public void setAllowModifyAnnotations(boolean value)
+```
+
+
+Sets the permission which allow modify annotations or not. true is allow and false is forbidden.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### isAllowFillIn() {#isAllowFillIn--}
+```
+public boolean isAllowFillIn()
+```
+
+
+Sets the permission which allow fill in forms or not. true is allow and false is forbidden.
+
+**Returns:**
+boolean - boolean value
+### setAllowFillIn(boolean value) {#setAllowFillIn-boolean-}
+```
+public void setAllowFillIn(boolean value)
+```
+
+
+Sets the permission which allow fill in forms or not. true is allow and false is forbidden.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### isAllowScreenReaders() {#isAllowScreenReaders--}
+```
+public boolean isAllowScreenReaders()
+```
+
+
+Sets the permission which allow screen readers or not. true is allow and false is forbidden.
+
+**Returns:**
+boolean - boolean value
 ### setAllowScreenReaders(boolean value) {#setAllowScreenReaders-boolean-}
 ```
 public void setAllowScreenReaders(boolean value)
@@ -476,6 +260,42 @@ Sets the permission which allow screen readers or not. true is allow and false i
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | boolean value |
+
+### isAllowAssembly() {#isAllowAssembly--}
+```
+public boolean isAllowAssembly()
+```
+
+
+Sets the permission which allow assembly or not. true is allow and false is forbidden.
+
+**Returns:**
+boolean - boolean value
+### setAllowAssembly(boolean value) {#setAllowAssembly-boolean-}
+```
+public void setAllowAssembly(boolean value)
+```
+
+
+Sets the permission which allow assembly or not. true is allow and false is forbidden.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### setPrintAllowLevel(int value) {#setPrintAllowLevel-int-}
+```
+public void setPrintAllowLevel(int value)
+```
+
+
+Sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
 
 ### setChangeAllowLevel(int value) {#setChangeAllowLevel-int-}
 ```
@@ -503,61 +323,163 @@ Sets the copy level of document's privilege. Just as the Adobe Professional's pe
 | --- | --- | --- |
 | value | int | int value |
 
-### setPrintAllowLevel(int value) {#setPrintAllowLevel-int-}
+### compareTo(Object obj) {#compareTo-java.lang.Object-}
 ```
-public void setPrintAllowLevel(int value)
+public int compareTo(Object obj)
 ```
 
 
-Sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution.
+Compares two  DocumentPrivilege  objects.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
+| obj | java.lang.Object | The object to compare with. |
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
+int - A signed integer that indicates the relative values of this instance and value. Less than zero this instance is less than value. Zero this instance is equal to value. Greater than zero this instance is greater than value.
+### hashCode() {#hashCode--}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public int hashCode()
 ```
 
 
+Returns a hash code value for the object. This method is supported for the benefit of hashtables such as those provided by `java.util.Hashtable`.
 
+The general contract of `hashCode` is:
+
+ *  Whenever it is invoked on the same object more than once during an execution of a Java application, the hashCode method must consistently return the same integer, provided no information used in equals comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application.
+ *  If two objects are equal according to the equals(Object) method, then calling the `hashCode` method on each of the two objects must produce the same integer result.
+ *  It is *not* required that if two objects are unequal according to the java.lang.Object\#equals(java.lang.Object)\#equals(java.lang.Object) method, then calling the hashCode method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hashtables.
+
+As much as is reasonably practical, the hashCode method defined by class Object does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the JavaTM programming language.)
+
+**Returns:**
+int - a hash code value for this object.
+### equals(Object obj) {#equals-java.lang.Object-}
+```
+public boolean equals(Object obj)
+```
+
+
+Indicates whether some other object is "equal to" this one.
+
+The `equals` method implements an equivalence relation on non-null object references:
+
+ *  It is *reflexive*: for any non-null reference value `x`, `x.equals(x)` should return `true`.
+ *  It is *symmetric*: for any non-null reference values `x` and `y`, `x.equals(y)` should return `true` if and only if `y.equals(x)` returns `true`.
+ *  It is *transitive*: for any non-null reference values `x`, `y`, and `z`, if `x.equals(y)` returns `true` and `y.equals(z)` returns `true`, then `x.equals(z)` should return `true`.
+ *  It is *consistent*: for any non-null reference values `x` and `y`, multiple invocations of x.equals(y) consistently return `true` or consistently return `false`, provided no information used in `equals` comparisons on the objects is modified.
+ *  For any non-null reference value `x`, `x.equals(null)` should return `false`.
+
+The equals method for class `Object` implements the most discriminating possible equivalence relation on objects; that is, for any non-null reference values `x` and `y`, this method returns `true` if and only if `x` and `y` refer to the same object (`x == y` has the value `true`).
+
+Note that it is generally necessary to override the hashCode method whenever this method is overridden, so as to maintain the general contract for the hashCode method, which states that equal objects must have equal hash codes.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| obj | java.lang.Object | the reference object with which to compare. |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+**Returns:**
+boolean - `true` if this object is the same as the obj argument; `false` otherwise.
+### getDegradedPrinting() {#getDegradedPrinting--}
 ```
-public final void wait(long arg0, int arg1)
+public static DocumentPrivilege getDegradedPrinting()
 ```
 
 
+Allows degraded printing.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getPrint() {#getPrint--}
+```
+public static DocumentPrivilege getPrint()
+```
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+Allows printing file.
 
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getModifyContents() {#getModifyContents--}
+```
+public static DocumentPrivilege getModifyContents()
+```
+
+
+Allows modifying file.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getCopy() {#getCopy--}
+```
+public static DocumentPrivilege getCopy()
+```
+
+
+Allows copying file.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getModifyAnnotations() {#getModifyAnnotations--}
+```
+public static DocumentPrivilege getModifyAnnotations()
+```
+
+
+Allows modifying annotations of file.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getFillIn() {#getFillIn--}
+```
+public static DocumentPrivilege getFillIn()
+```
+
+
+Allows filling forms in file.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getScreenReaders() {#getScreenReaders--}
+```
+public static DocumentPrivilege getScreenReaders()
+```
+
+
+Allows to reader on screen only.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getAssembly() {#getAssembly--}
+```
+public static DocumentPrivilege getAssembly()
+```
+
+
+Allows assemblying file.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getAllowAll() {#getAllowAll--}
+```
+public static DocumentPrivilege getAllowAll()
+```
+
+
+All allowed.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element
+### getForbidAll() {#getForbidAll--}
+```
+public static DocumentPrivilege getForbidAll()
+```
+
+
+All Forbidded.
+
+**Returns:**
+[DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) - DocumentPrivilege element

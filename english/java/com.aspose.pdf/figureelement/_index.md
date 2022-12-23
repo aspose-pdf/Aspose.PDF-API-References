@@ -3,7 +3,7 @@ title: FigureElement
 second_title: Aspose.PDF for Java API Reference
 description: Class representing logical structure figure.
 type: docs
-weight: 109
+weight: 110
 url: /java/com.aspose.pdf/figureelement/
 ---
 **Inheritance:**
@@ -22,25 +22,7 @@ Class representing logical structure figure.
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getActualText()](#getActualText--) | (Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. |
-| [getAlt()](#getAlt--) | (Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes. |
-| [getChildren()](#getChildren--) | Gets child elements collection. |
-| [getClass()](#getClass--) |  |
-| [getE()](#getE--) | (Optional; PDF 1.5) The expanded form of an abbreviation. |
 | [getImage()](#getImage--) | Gets the value of figure structure element. |
-| [getLang()](#getLang--) | (Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setActualText(String value)](#setActualText-java.lang.String-) | (Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. |
-| [setAlt(String value)](#setAlt-java.lang.String-) | (Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes. |
-| [setE(String value)](#setE-java.lang.String-) | (Optional; PDF 1.5) The expanded form of an abbreviation. |
-| [setLang(String value)](#setLang-java.lang.String-) | (Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### FigureElement(ITrailerable tr, IPdfDictionary engineDict) {#FigureElement-com.aspose.pdf.engine.data.ITrailerable-com.aspose.pdf.engine.data.IPdfDictionary-}
 ```
 public FigureElement(ITrailerable tr, IPdfDictionary engineDict)
@@ -53,71 +35,6 @@ public FigureElement(ITrailerable tr, IPdfDictionary engineDict)
 | tr | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) |  |
 | engineDict | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) |  |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getActualText() {#getActualText--}
-```
-public String getActualText()
-```
-
-
-(Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply to as small a piece of content as possible) is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
-
-**Returns:**
-java.lang.String - String object
-### getAlt() {#getAlt--}
-```
-public String getAlt()
-```
-
-
-(Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
-
-**Returns:**
-java.lang.String - String object
-### getChildren() {#getChildren--}
-```
-public List<Element> getChildren()
-```
-
-
-Gets child elements collection.
-
-**Returns:**
-java.util.List<com.aspose.pdf.Element> -  java.util.List  object
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getE() {#getE--}
-```
-public String getE()
-```
-
-
-(Optional; PDF 1.5) The expanded form of an abbreviation.
-
-**Returns:**
-java.lang.String - String object
 ### getImage() {#getImage--}
 ```
 public BufferedImage getImage()
@@ -128,136 +45,3 @@ Gets the value of figure structure element.
 
 **Returns:**
 java.awt.image.BufferedImage - Image object
-### getLang() {#getLang--}
-```
-public String getLang()
-```
-
-
-(Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content.
-
-**Returns:**
-java.lang.String - String object
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setActualText(String value) {#setActualText-java.lang.String-}
-```
-public void setActualText(String value)
-```
-
-
-(Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply to as small a piece of content as possible) is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-### setAlt(String value) {#setAlt-java.lang.String-}
-```
-public void setAlt(String value)
-```
-
-
-(Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-### setE(String value) {#setE-java.lang.String-}
-```
-public void setE(String value)
-```
-
-
-(Optional; PDF 1.5) The expanded form of an abbreviation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-### setLang(String value) {#setLang-java.lang.String-}
-```
-public void setLang(String value)
-```
-
-
-(Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-

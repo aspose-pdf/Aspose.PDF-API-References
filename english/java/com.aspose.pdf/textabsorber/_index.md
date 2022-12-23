@@ -3,7 +3,7 @@ title: TextAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of a text.
 type: docs
-weight: 360
+weight: 361
 url: /java/com.aspose.pdf/textabsorber/
 ---
 **Inheritance:**
@@ -44,25 +44,16 @@ The  TextAbsorber  object is used to extract text from a Pdf document or the doc
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getErrors()](#getErrors--) | List of  TextExtractionError  objects. |
-| [getExtractionOptions()](#getExtractionOptions--) | Gets text extraction options. |
 | [getText()](#getText--) | Gets extracted text that the  TextAbsorber  extracts on the PDF document or page. |
-| [getTextSearchOptions()](#getTextSearchOptions--) | Gets text search options. |
 | [hasErrors()](#hasErrors--) | Value indicates whether errors were found during text extraction. |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setExtractionOptions(TextExtractionOptions value)](#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-) | Sets text extraction options. |
-| [setTextSearchOptions(TextSearchOptions value)](#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-) | Sets text search options. |
-| [toString()](#toString--) |  |
-| [visit(IDocument pdf)](#visit-com.aspose.pdf.IDocument-) | Extracts text on the specified document |
+| [getErrors()](#getErrors--) | List of  TextExtractionError  objects. |
 | [visit(Page page)](#visit-com.aspose.pdf.Page-) | Extracts text on the specified page |
 | [visit(XForm form)](#visit-com.aspose.pdf.XForm-) | Extracts text on the specified XForm. |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [visit(IDocument pdf)](#visit-com.aspose.pdf.IDocument-) | Extracts text on the specified document |
+| [getExtractionOptions()](#getExtractionOptions--) | Gets text extraction options. |
+| [setExtractionOptions(TextExtractionOptions value)](#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-) | Sets text extraction options. |
+| [getTextSearchOptions()](#getTextSearchOptions--) | Gets text search options. |
+| [setTextSearchOptions(TextSearchOptions value)](#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-) | Sets text search options. |
 ### TextAbsorber() {#TextAbsorber--}
 ```
 public TextAbsorber()
@@ -159,72 +150,6 @@ Initializes a new instance of the  TextAbsorber  with text search options.
 
 Performs text extraction and provides access to the extracted text via  TextAbsorber.Text  object. |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getErrors() {#getErrors--}
-```
-public List<TextExtractionError> getErrors()
-```
-
-
-List of  TextExtractionError  objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
-
-**Returns:**
-java.util.List<com.aspose.pdf.TextExtractionError> - List of TextExtractionError objects
-### getExtractionOptions() {#getExtractionOptions--}
-```
-public TextExtractionOptions getExtractionOptions()
-```
-
-
-Gets text extraction options.
-
---------------------
-
-```
-The example demonstrates how to set Pure text formatting mode and perform text extraction.
- 
- // open document
- Document doc = new Document(inFile);
- // create TextAbsorber object to extract text with formatting
- TextAbsorber absorber = new TextAbsorber();
- // set pure text formatting mode
- absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
- // accept the absorber for all document's pages
- doc.getPages().accept(absorber);
- // get the extracted text
- String extractedText = absorber.getText();
-```
-
---------------------
-
-Allows to define text formatting mode  TextExtractionOptions  during extraction. The default mode is  TextExtractionOptions.TextFormattingMode.Pure 
-
-**Returns:**
-[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) - TextExtractionOptions value
 ### getText() {#getText--}
 ```
 public String getText()
@@ -250,18 +175,6 @@ The example demonstrates how to extract text from all pages of the PDF document.
  // get the extracted text
  String extractedText = absorber.getText();
 ```
-### getTextSearchOptions() {#getTextSearchOptions--}
-```
-public TextSearchOptions getTextSearchOptions()
-```
-
-
-Gets text search options.
-
-Allows to define rectangle which delimits the extracted text. By default the rectangle is empty. That means page boundaries only defines the text extraction region.
-
-**Returns:**
-[TextSearchOptions](../../com.aspose.pdf/textsearchoptions) - TextSearchOptions value
 ### hasErrors() {#hasErrors--}
 ```
 public boolean hasErrors()
@@ -272,119 +185,16 @@ Value indicates whether errors were found during text extraction. Searching for 
 
 **Returns:**
 boolean - boolean value
-### hashCode() {#hashCode--}
+### getErrors() {#getErrors--}
 ```
-public native int hashCode()
+public List<TextExtractionError> getErrors()
 ```
 
 
-
+List of  TextExtractionError  objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance.
 
 **Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setExtractionOptions(TextExtractionOptions value) {#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-}
-```
-public void setExtractionOptions(TextExtractionOptions value)
-```
-
-
-Sets text extraction options.
-
---------------------
-
-```
-The example demonstrates how to set Pure text formatting mode and perform text extraction.
- 
- // open document
- Document doc = new Document(inFile);
- // create TextAbsorber object to extract text with formatting
- TextAbsorber absorber = new TextAbsorber();
- // set pure text formatting mode
- absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
- // accept the absorber for all document's pages
- doc.getPages().accept(absorber);
- // get the extracted text
- String extractedText = absorber.getText();
-```
-
---------------------
-
-Allows to define text formatting mode  TextExtractionOptions  during extraction. The default mode is  TextExtractionOptions.TextFormattingMode.Pure 
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) | TextExtractionOptions value |
-
-### setTextSearchOptions(TextSearchOptions value) {#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-}
-```
-public void setTextSearchOptions(TextSearchOptions value)
-```
-
-
-Sets text search options.
-
-Allows to define rectangle which delimits the extracted text. By default the rectangle is empty. That means page boundaries only defines the text extraction region.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextSearchOptions](../../com.aspose.pdf/textsearchoptions) | TextSearchOptions value |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### visit(IDocument pdf) {#visit-com.aspose.pdf.IDocument-}
-```
-public void visit(IDocument pdf)
-```
-
-
-Extracts text on the specified document
-
---------------------
-
-```
-The example demonstrates how to extract text on PDF document.
- 
- // open document
- Document doc = new Document(inFile);
- // create TextAbsorber object to extract text
- TextAbsorber absorber = new TextAbsorber();
- // accept the absorber for all document's pages
- absorber.visit(doc);
- // get the extracted text
- String extractedText = absorber.getText();
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdf | [IDocument](../../com.aspose.pdf/idocument) | Pdf pocument object. |
-
+java.util.List<com.aspose.pdf.TextExtractionError> - List of TextExtractionError objects
 ### visit(Page page) {#visit-com.aspose.pdf.Page-}
 ```
 public void visit(Page page)
@@ -444,38 +254,123 @@ The example demonstrates how to extract text on the first PDF document page.
 | --- | --- | --- |
 | form | [XForm](../../com.aspose.pdf/xform) | Pdf form object. |
 
-### wait() {#wait--}
+### visit(IDocument pdf) {#visit-com.aspose.pdf.IDocument-}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public void visit(IDocument pdf)
 ```
 
 
+Extracts text on the specified document
 
+--------------------
+
+```
+The example demonstrates how to extract text on PDF document.
+ 
+ // open document
+ Document doc = new Document(inFile);
+ // create TextAbsorber object to extract text
+ TextAbsorber absorber = new TextAbsorber();
+ // accept the absorber for all document's pages
+ absorber.visit(doc);
+ // get the extracted text
+ String extractedText = absorber.getText();
+```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| pdf | [IDocument](../../com.aspose.pdf/idocument) | Pdf pocument object. |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### getExtractionOptions() {#getExtractionOptions--}
 ```
-public final void wait(long arg0, int arg1)
+public TextExtractionOptions getExtractionOptions()
 ```
 
 
+Gets text extraction options.
 
+--------------------
+
+```
+The example demonstrates how to set Pure text formatting mode and perform text extraction.
+ 
+ // open document
+ Document doc = new Document(inFile);
+ // create TextAbsorber object to extract text with formatting
+ TextAbsorber absorber = new TextAbsorber();
+ // set pure text formatting mode
+ absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
+ // accept the absorber for all document's pages
+ doc.getPages().accept(absorber);
+ // get the extracted text
+ String extractedText = absorber.getText();
+```
+
+--------------------
+
+Allows to define text formatting mode  TextExtractionOptions  during extraction. The default mode is  TextExtractionOptions.TextFormattingMode.Pure 
+
+**Returns:**
+[TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) - TextExtractionOptions value
+### setExtractionOptions(TextExtractionOptions value) {#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-}
+```
+public void setExtractionOptions(TextExtractionOptions value)
+```
+
+
+Sets text extraction options.
+
+--------------------
+
+```
+The example demonstrates how to set Pure text formatting mode and perform text extraction.
+ 
+ // open document
+ Document doc = new Document(inFile);
+ // create TextAbsorber object to extract text with formatting
+ TextAbsorber absorber = new TextAbsorber();
+ // set pure text formatting mode
+ absorber.setExtractionOptions ( new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
+ // accept the absorber for all document's pages
+ doc.getPages().accept(absorber);
+ // get the extracted text
+ String extractedText = absorber.getText();
+```
+
+--------------------
+
+Allows to define text formatting mode  TextExtractionOptions  during extraction. The default mode is  TextExtractionOptions.TextFormattingMode.Pure 
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| value | [TextExtractionOptions](../../com.aspose.pdf/textextractionoptions) | TextExtractionOptions value |
+
+### getTextSearchOptions() {#getTextSearchOptions--}
+```
+public TextSearchOptions getTextSearchOptions()
+```
+
+
+Gets text search options.
+
+Allows to define rectangle which delimits the extracted text. By default the rectangle is empty. That means page boundaries only defines the text extraction region.
+
+**Returns:**
+[TextSearchOptions](../../com.aspose.pdf/textsearchoptions) - TextSearchOptions value
+### setTextSearchOptions(TextSearchOptions value) {#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-}
+```
+public void setTextSearchOptions(TextSearchOptions value)
+```
+
+
+Sets text search options.
+
+Allows to define rectangle which delimits the extracted text. By default the rectangle is empty. That means page boundaries only defines the text extraction region.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [TextSearchOptions](../../com.aspose.pdf/textsearchoptions) | TextSearchOptions value |
 

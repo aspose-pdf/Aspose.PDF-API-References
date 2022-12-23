@@ -3,7 +3,7 @@ title: PdfASymbolicFontEncodingStrategy
 second_title: Aspose.PDF for Java API Reference
 description: This class describes rules which can be used to tune process of copy encoding data for cases when TrueType symbolic font has more than one encoding.
 type: docs
-weight: 274
+weight: 275
 url: /java/com.aspose.pdf/pdfasymbolicfontencodingstrategy/
 ---
 **Inheritance:**
@@ -24,19 +24,10 @@ This class describes rules which can be used to tune process of copy encoding da
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getCmapEncodingTablesPriorityQueue()](#getCmapEncodingTablesPriorityQueue--) | Specifies queue of encoding subtables to process. |
 | [getPreferredCmapEncodingTable()](#getPreferredCmapEncodingTable--) | Specifies subtable which will be used in precedence to mac subtable(1,0). |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value)](#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--) | Specifies queue of encoding subtables to process. |
 | [setPreferredCmapEncodingTable(short value)](#setPreferredCmapEncodingTable-short-) | Specifies subtable which will be used in precedence to mac subtable(1,0). |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getCmapEncodingTablesPriorityQueue()](#getCmapEncodingTablesPriorityQueue--) | Specifies queue of encoding subtables to process. |
+| [setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value)](#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--) | Specifies queue of encoding subtables to process. |
 ### PdfASymbolicFontEncodingStrategy() {#PdfASymbolicFontEncodingStrategy--}
 ```
 public PdfASymbolicFontEncodingStrategy()
@@ -71,41 +62,6 @@ Constructor
 | --- | --- | --- |
 | preferredEncodingTable | short | encoding subtable which will be used in precedence to mac subtable(1,0) |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getCmapEncodingTablesPriorityQueue() {#getCmapEncodingTablesPriorityQueue--}
-```
-public System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> getCmapEncodingTablesPriorityQueue()
-```
-
-
-Specifies queue of encoding subtables to process.
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.Queue<com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem> - Queue of QueueItem
 ### getPreferredCmapEncodingTable() {#getPreferredCmapEncodingTable--}
 ```
 public short getPreferredCmapEncodingTable()
@@ -116,45 +72,6 @@ Specifies subtable which will be used in precedence to mac subtable(1,0). Value 
 
 **Returns:**
 short - CMapEncodingTableType element
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value) {#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--}
-```
-public void setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value)
-```
-
-
-Specifies queue of encoding subtables to process.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.ms.System.Collections.Generic.Queue<com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem> | Queue of QueueItem |
-
 ### setPreferredCmapEncodingTable(short value) {#setPreferredCmapEncodingTable-short-}
 ```
 public void setPreferredCmapEncodingTable(short value)
@@ -168,48 +85,26 @@ Specifies subtable which will be used in precedence to mac subtable(1,0). Value 
 | --- | --- | --- |
 | value | short | preferredEncodingTable encoding subtable which will be used in precedence to mac subtable(1,0) |
 
-### toString() {#toString--}
+### getCmapEncodingTablesPriorityQueue() {#getCmapEncodingTablesPriorityQueue--}
 ```
-public String toString()
+public System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> getCmapEncodingTablesPriorityQueue()
 ```
 
 
-
+Specifies queue of encoding subtables to process.
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
+com.aspose.ms.System.Collections.Generic.Queue<com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem> - Queue of QueueItem
+### setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value) {#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public void setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value)
 ```
 
 
-
+Specifies queue of encoding subtables to process.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| value | com.aspose.ms.System.Collections.Generic.Queue<com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem> | Queue of QueueItem |
 

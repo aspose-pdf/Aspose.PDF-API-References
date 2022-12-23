@@ -26,29 +26,13 @@ class representing BDC operator (Begin marked-content sequence)
 | Method | Description |
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getCommand()](#getCommand--) | Gets command |
-| [getCommandName()](#getCommandName--) | Gets operator name. |
-| [getIndex()](#getIndex--) | Get Operator index in page operators list. |
-| [getParameters()](#getParameters--) | Gets array of operator parameters. |
-| [getPropertiesDictionary()](#getPropertiesDictionary--) | Gets properties dictionary |
-| [getPropertiesName()](#getPropertiesName--) | Gets properties name |
 | [getTag()](#getTag--) | Gets marked content tag |
-| [hashCode()](#hashCode--) |  |
-| [isTextShowOperator(Operator op)](#isTextShowOperator-com.aspose.pdf.Operator-) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [reset()](#reset--) | For internal usage only |
-| [setIndex(int value)](#setIndex-int-) | Set Operator index in page operators list. |
-| [setPropertiesDictionary(IPdfDictionary value)](#setPropertiesDictionary-com.aspose.pdf.engine.data.IPdfDictionary-) | Sets properties dictionary |
-| [setPropertiesName(IPdfName value)](#setPropertiesName-com.aspose.pdf.engine.data.IPdfName-) | Sets properties name |
 | [setTag(String value)](#setTag-java.lang.String-) | Sets marked content tag |
+| [getPropertiesDictionary()](#getPropertiesDictionary--) | Gets properties dictionary |
+| [setPropertiesDictionary(IPdfDictionary value)](#setPropertiesDictionary-com.aspose.pdf.engine.data.IPdfDictionary-) | Sets properties dictionary |
+| [getPropertiesName()](#getPropertiesName--) | Gets properties name |
+| [setPropertiesName(IPdfName value)](#setPropertiesName-com.aspose.pdf.engine.data.IPdfName-) | Sets properties name |
 | [toString()](#toString--) | Returns text representation of operator. |
-| [toString(IPdfPrimitive primitive)](#toString-com.aspose.pdf.engine.data.IPdfPrimitive-) | Returns text representation of Pdf primitive (string, array, dictionary etc.) according to PDF specification. |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### BDC(String tag) {#BDC-java.lang.String-}
 ```
 public BDC(String tag)
@@ -113,91 +97,6 @@ Accepts visitor object to process operator.
 | --- | --- | --- |
 | visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getCommand() {#getCommand--}
-```
-public ICommand getCommand()
-```
-
-
-Gets command
-
-**Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) - ICommand object
-### getCommandName() {#getCommandName--}
-```
-public String getCommandName()
-```
-
-
-Gets operator name.
-
-**Returns:**
-java.lang.String - String value
-### getIndex() {#getIndex--}
-```
-public int getIndex()
-```
-
-
-Get Operator index in page operators list.
-
-**Returns:**
-int - int value
-### getParameters() {#getParameters--}
-```
-public ArrayList<CommandParameter> getParameters()
-```
-
-
-Gets array of operator parameters.
-
-**Returns:**
-java.util.ArrayList<com.aspose.pdf.engine.commondata.pagecontent.operators.commands.CommandParameter> - ArrayList of CommandParameter value
-### getPropertiesDictionary() {#getPropertiesDictionary--}
-```
-public IPdfDictionary getPropertiesDictionary()
-```
-
-
-Gets properties dictionary
-
-**Returns:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary value
-### getPropertiesName() {#getPropertiesName--}
-```
-public IPdfName getPropertiesName()
-```
-
-
-Gets properties name
-
-**Returns:**
-[IPdfName](../../com.aspose.pdf.engine.data/ipdfname) - IPdfName value
 ### getTag() {#getTag--}
 ```
 public String getTag()
@@ -208,94 +107,6 @@ Gets marked content tag
 
 **Returns:**
 java.lang.String - String value
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### isTextShowOperator(Operator op) {#isTextShowOperator-com.aspose.pdf.Operator-}
-```
-public static boolean isTextShowOperator(Operator op)
-```
-
-
-Determines if the operator is operator which responsible for text output (Tj, TJ, etc)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| op | [Operator](../../com.aspose.pdf/operator) | Operator object |
-
-**Returns:**
-boolean - True if this is text output operator
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### reset() {#reset--}
-```
-public void reset()
-```
-
-
-For internal usage only
-
-### setIndex(int value) {#setIndex-int-}
-```
-public void setIndex(int value)
-```
-
-
-Set Operator index in page operators list.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### setPropertiesDictionary(IPdfDictionary value) {#setPropertiesDictionary-com.aspose.pdf.engine.data.IPdfDictionary-}
-```
-public void setPropertiesDictionary(IPdfDictionary value)
-```
-
-
-Sets properties dictionary
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) | IPdfDictionary value |
-
-### setPropertiesName(IPdfName value) {#setPropertiesName-com.aspose.pdf.engine.data.IPdfName-}
-```
-public void setPropertiesName(IPdfName value)
-```
-
-
-Sets properties name
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [IPdfName](../../com.aspose.pdf.engine.data/ipdfname) | IPdfName value |
-
 ### setTag(String value) {#setTag-java.lang.String-}
 ```
 public void setTag(String value)
@@ -309,6 +120,52 @@ Sets marked content tag
 | --- | --- | --- |
 | value | java.lang.String | String value |
 
+### getPropertiesDictionary() {#getPropertiesDictionary--}
+```
+public IPdfDictionary getPropertiesDictionary()
+```
+
+
+Gets properties dictionary
+
+**Returns:**
+[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary value
+### setPropertiesDictionary(IPdfDictionary value) {#setPropertiesDictionary-com.aspose.pdf.engine.data.IPdfDictionary-}
+```
+public void setPropertiesDictionary(IPdfDictionary value)
+```
+
+
+Sets properties dictionary
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) | IPdfDictionary value |
+
+### getPropertiesName() {#getPropertiesName--}
+```
+public IPdfName getPropertiesName()
+```
+
+
+Gets properties name
+
+**Returns:**
+[IPdfName](../../com.aspose.pdf.engine.data/ipdfname) - IPdfName value
+### setPropertiesName(IPdfName value) {#setPropertiesName-com.aspose.pdf.engine.data.IPdfName-}
+```
+public void setPropertiesName(IPdfName value)
+```
+
+
+Sets properties name
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [IPdfName](../../com.aspose.pdf.engine.data/ipdfname) | IPdfName value |
+
 ### toString() {#toString--}
 ```
 public String toString()
@@ -319,53 +176,3 @@ Returns text representation of operator.
 
 **Returns:**
 java.lang.String - Text representation of operator.
-### toString(IPdfPrimitive primitive) {#toString-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public static String toString(IPdfPrimitive primitive)
-```
-
-
-Returns text representation of Pdf primitive (string, array, dictionary etc.) according to PDF specification.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| primitive | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | Primitive |
-
-**Returns:**
-java.lang.String - Text represetation of the primitive
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-
