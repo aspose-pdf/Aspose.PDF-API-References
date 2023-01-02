@@ -1,7 +1,7 @@
 ---
 title: LightingSchemeType
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Enum LightingSchemeType: set of lighting scheme types.
+description: Enum LightingSchemeType set of lighting scheme types.
 type: docs
 weight: 1080
 url: /python-net/aspose.pdf.annotations/lightingschemetype/
