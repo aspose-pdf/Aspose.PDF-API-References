@@ -23,22 +23,14 @@ Use VerticalAlignment instead
 
 | Field | Description |
 | --- | --- |
-| [Bottom](#Bottom) | Bottom alignment type. |
-| [Center](#Center) | Center alignment type. |
 | [Top](#Top) | Top alignment. |
+| [Center](#Center) | Center alignment type. |
+| [Bottom](#Bottom) | Bottom alignment type. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
 | [toString()](#toString--) | Returns string representation. |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### VerticalAlignmentType(String name) {#VerticalAlignmentType-java.lang.String-}
 ```
 public VerticalAlignmentType(String name)
@@ -52,13 +44,13 @@ Initializes vertical alignment by its name.
 | --- | --- | --- |
 | name | java.lang.String | Vertical alignment type name. |
 
-### Bottom {#Bottom}
+### Top {#Top}
 ```
-public static final VerticalAlignmentType Bottom
+public static final VerticalAlignmentType Top
 ```
 
 
-Bottom alignment type.
+Top alignment.
 
 ### Center {#Center}
 ```
@@ -68,64 +60,13 @@ public static final VerticalAlignmentType Center
 
 Center alignment type.
 
-### Top {#Top}
+### Bottom {#Bottom}
 ```
-public static final VerticalAlignmentType Top
-```
-
-
-Top alignment.
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
+public static final VerticalAlignmentType Bottom
 ```
 
 
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
+Bottom alignment type.
 
 ### toString() {#toString--}
 ```
@@ -137,38 +78,3 @@ Returns string representation.
 
 **Returns:**
 java.lang.String - Name value.
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-

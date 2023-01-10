@@ -3,7 +3,7 @@ title: TextShowOperator
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract base class for all operators which used to out text Tj TJ etc.
 type: docs
-weight: 5690
+weight: 5700
 url: /net/aspose.pdf.operators/textshowoperator/
 ---
 ## TextShowOperator class

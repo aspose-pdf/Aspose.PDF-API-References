@@ -3,7 +3,7 @@ title: DP
 second_title: Aspose.PDF for .NET API Reference
 description: Class represeting DP operator designamte marked content point.
 type: docs
-weight: 5060
+weight: 5070
 url: /net/aspose.pdf.operators/dp/
 ---
 ## DP class

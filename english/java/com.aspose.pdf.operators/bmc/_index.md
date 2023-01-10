@@ -23,28 +23,12 @@ Class representing BMC operator (Begin marked-content sequence).
 
 | Method | Description |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
-| [getClass()](#getClass--) |  |
-| [getCommand()](#getCommand--) | Gets command |
-| [getCommandName()](#getCommandName--) | Gets operator name. |
-| [getIndex()](#getIndex--) | Get Operator index in page operators list. |
-| [getParameters()](#getParameters--) | Gets array of operator parameters. |
 | [getTag()](#getTag--) | Gets marked content tag |
-| [hashCode()](#hashCode--) |  |
-| [isTextShowOperator(Operator op)](#isTextShowOperator-com.aspose.pdf.Operator-) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [reset()](#reset--) | For internal usage only |
-| [setIndex(int value)](#setIndex-int-) | Set Operator index in page operators list. |
 | [setTag(String value)](#setTag-java.lang.String-) | Sets marked content tag |
-| [toCommand()](#toCommand--) |  |
+| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-| [toString(IPdfPrimitive primitive)](#toString-com.aspose.pdf.engine.data.IPdfPrimitive-) | Returns text representation of Pdf primitive (string, array, dictionary etc.) according to PDF specification. |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [toCommand()](#toCommand--) |  |
+| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 ### BMC(int index, ICommand command) {#BMC-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
 ```
 public BMC(int index, ICommand command)
@@ -72,97 +56,6 @@ Constructor for writing program.
 | --- | --- | --- |
 | tag | java.lang.String | Marked content tag. |
 
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
-Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getCommand() {#getCommand--}
-```
-public ICommand getCommand()
-```
-
-
-Gets command
-
-**Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) - ICommand object
-### getCommandName() {#getCommandName--}
-```
-public String getCommandName()
-```
-
-
-Gets operator name.
-
-**Returns:**
-java.lang.String - String value
-### getIndex() {#getIndex--}
-```
-public int getIndex()
-```
-
-
-Get Operator index in page operators list.
-
-**Returns:**
-int - int value
-### getParameters() {#getParameters--}
-```
-public ArrayList<CommandParameter> getParameters()
-```
-
-
-Gets array of operator parameters.
-
-**Returns:**
-java.util.ArrayList<com.aspose.pdf.engine.commondata.pagecontent.operators.commands.CommandParameter> - ArrayList of CommandParameter value
 ### getTag() {#getTag--}
 ```
 public String getTag()
@@ -173,68 +66,6 @@ Gets marked content tag
 
 **Returns:**
 java.lang.String - String value
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### isTextShowOperator(Operator op) {#isTextShowOperator-com.aspose.pdf.Operator-}
-```
-public static boolean isTextShowOperator(Operator op)
-```
-
-
-Determines if the operator is operator which responsible for text output (Tj, TJ, etc)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| op | [Operator](../../com.aspose.pdf/operator) | Operator object |
-
-**Returns:**
-boolean - True if this is text output operator
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### reset() {#reset--}
-```
-public void reset()
-```
-
-
-For internal usage only
-
-### setIndex(int value) {#setIndex-int-}
-```
-public void setIndex(int value)
-```
-
-
-Set Operator index in page operators list.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
 ### setTag(String value) {#setTag-java.lang.String-}
 ```
 public void setTag(String value)
@@ -248,16 +79,19 @@ Sets marked content tag
 | --- | --- | --- |
 | value | java.lang.String | String value |
 
-### toCommand() {#toCommand--}
+### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```
-public ICommand toCommand()
+public void accept(IOperatorSelector visitor)
 ```
 
 
+Accepts visitor object to process operator.
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
 
-**Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
 ### toString() {#toString--}
 ```
 public String toString()
@@ -268,32 +102,19 @@ Returns text representation of operator.
 
 **Returns:**
 java.lang.String - Text representation of operator.
-### toString(IPdfPrimitive primitive) {#toString-com.aspose.pdf.engine.data.IPdfPrimitive-}
+### toCommand() {#toCommand--}
 ```
-public static String toString(IPdfPrimitive primitive)
+public ICommand toCommand()
 ```
 
 
-Returns text representation of Pdf primitive (string, array, dictionary etc.) according to PDF specification.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| primitive | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | Primitive |
 
 **Returns:**
-java.lang.String - Text represetation of the primitive
-### wait() {#wait--}
+[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
+### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public void fromCommand(ICommand command)
 ```
 
 
@@ -302,19 +123,5 @@ public final native void wait(long arg0)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
 

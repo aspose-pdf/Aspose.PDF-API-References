@@ -3,7 +3,7 @@ title: PKCS7
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the PKCS7 object that conform to the PKCS7 specification in Internet RFC 2315 PKCS 7 Cryptographic Message Syntax Version 1.5. The SHA1 digest of the documents byte range is encapsulated in the PKCS7 SignedData field.
 type: docs
-weight: 3130
+weight: 3140
 url: /net/aspose.pdf.forms/pkcs7/
 ---
 ## PKCS7 class

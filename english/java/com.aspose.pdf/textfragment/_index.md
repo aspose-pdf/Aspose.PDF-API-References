@@ -3,7 +3,7 @@ title: TextFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents fragment of Pdf text.
 type: docs
-weight: 372
+weight: 373
 url: /java/com.aspose.pdf/textfragment/
 ---
 **Inheritance:**
@@ -83,59 +83,37 @@ Note that changing TextFragment properties may change inner  Segments  collectio
 
 | Method | Description |
 | --- | --- |
-| [cloneWithSegments()](#cloneWithSegments--) | Clone the fragment with all segments. |
-| [deepClone()](#deepClone--) | Clone the fragment. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBaselinePosition()](#getBaselinePosition--) | Gets text position for text, represented with  TextFragment  object. |
-| [getClass()](#getClass--) |  |
-| [getEndNote()](#getEndNote--) | Gets the paragraph end note. |
-| [getFootNote()](#getFootNote--) | Gets the paragraph foot note. |
-| [getForm()](#getForm--) | Gets form object that contains the TextFragment
-The value can be null in case the TextFragment object doesn't belong to a form. |
-| [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets a horizontal alignment of text fragment. |
-| [getHyperlink()](#getHyperlink--) | Gets the fragment hyperlink(for pdf generator). |
-| [getMargin()](#getMargin--) | Gets a outer margin for paragraph (for pdf generation) |
-| [getPage()](#getPage--) | Gets page that contains the TextFragment
-The value can be null in case the TextFragment object doesn't belong to any page. |
-| [getPosition()](#getPosition--) | Gets text position for text, represented with  TextFragment  object. |
-| [getRectangle()](#getRectangle--) | Gets rectangle of the TextFragment |
 | [getReplaceOptions()](#getReplaceOptions--) | Gets text replace options. |
-| [getSegments()](#getSegments--) | Gets text segments for current  TextFragment . |
 | [getText()](#getText--) | Gets  string  text object that the  TextFragment  object represents. |
-| [getTextState()](#getTextState--) | Gets or sets text state for the text that  TextFragment  object represents. |
+| [setText(String value)](#setText-java.lang.String-) | Sets  string  text object that the  TextFragment  object represents. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets a vertical alignment of text fragment. |
-| [getWrapLinesCount()](#getWrapLinesCount--) | Gets wrap lines count for this paragraph(for pdf generation only) |
-| [getZIndex()](#getZIndex--) | Gets an int value that indicates the Z-order of the graph. |
-| [hashCode()](#hashCode--) |  |
-| [isFirstParagraphInColumn()](#isFirstParagraphInColumn--) | Gets or sets a bool value that indicates whether this paragraph will be at next column. |
-| [isInLineParagraph()](#isInLineParagraph--) | Gets a paragraph is inline. |
-| [isInNewPage()](#isInNewPage--) | Gets a bool value that force this paragraph generates at new page. |
-| [isKeptWithNext()](#isKeptWithNext--) | Gets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. |
-| [isolateTextSegments(int startIndex, int length)](#isolateTextSegments-int-int-) | Gets  TextSegment (s) representing specified part of the  TextFragment  text. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBaselinePosition(Position value)](#setBaselinePosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextFragment  object. |
-| [setEndNote(Note value)](#setEndNote-com.aspose.pdf.Note-) | Sets the paragraph end note. |
-| [setFirstParagraphInColumn(boolean value)](#setFirstParagraphInColumn-boolean-) | Gets or sets a bool value that indicates whether this paragraph will be at next column. |
-| [setFootNote(Note value)](#setFootNote-com.aspose.pdf.Note-) | Sets the paragraph foot note. |
+| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets a vertical alignment of text fragment. |
+| [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets a horizontal alignment of text fragment. |
 | [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets a horizontal alignment of text fragment. |
 | [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | Sets the fragment hyperlink |
-| [setInLineParagraph(boolean value)](#setInLineParagraph-boolean-) | Sets a paragraph is inline. |
-| [setInNewPage(boolean value)](#setInNewPage-boolean-) | Sets a boolean value that force this paragraph generates at new page. |
-| [setKeptWithNext(boolean value)](#setKeptWithNext-boolean-) | Sets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | Sets a outer margin for paragraph (for pdf generation) |
-| [setMarkedContentProperties(String name, int id)](#setMarkedContentProperties-java.lang.String-int-) |  |
-| [setPosition(Position value)](#setPosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextFragment  object. |
-| [setRectangle(Rectangle value)](#setRectangle-com.aspose.pdf.Rectangle-) | Gets rectangle of the TextFragment |
+| [getTextState()](#getTextState--) | Gets or sets text state for the text that  TextFragment  object represents. |
+| [getSegments()](#getSegments--) | Gets text segments for current  TextFragment . |
 | [setSegments(TextSegmentCollection value)](#setSegments-com.aspose.pdf.TextSegmentCollection-) | Represent setSegments method |
-| [setText(String value)](#setText-java.lang.String-) | Sets  string  text object that the  TextFragment  object represents. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets a vertical alignment of text fragment. |
+| [getPosition()](#getPosition--) | Gets text position for text, represented with  TextFragment  object. |
+| [setPosition(Position value)](#setPosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextFragment  object. |
+| [getBaselinePosition()](#getBaselinePosition--) | Gets text position for text, represented with  TextFragment  object. |
+| [setBaselinePosition(Position value)](#setBaselinePosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextFragment  object. |
+| [getRectangle()](#getRectangle--) | Gets rectangle of the TextFragment |
+| [setRectangle(Rectangle value)](#setRectangle-com.aspose.pdf.Rectangle-) | Gets rectangle of the TextFragment |
+| [getPage()](#getPage--) | Gets page that contains the TextFragment
+The value can be null in case the TextFragment object doesn't belong to any page. |
+| [getForm()](#getForm--) | Gets form object that contains the TextFragment
+The value can be null in case the TextFragment object doesn't belong to a form. |
+| [getWrapLinesCount()](#getWrapLinesCount--) | Gets wrap lines count for this paragraph(for pdf generation only) |
 | [setWrapLinesCount(int value)](#setWrapLinesCount-int-) | Sets wrap lines count for this paragraph(for pdf generation only) |
-| [setZIndex(int value)](#setZIndex-int-) | Sets a int value that indicates the Z-order of the graph. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getEndNote()](#getEndNote--) | Gets the paragraph end note. |
+| [setEndNote(Note value)](#setEndNote-com.aspose.pdf.Note-) | Sets the paragraph end note. |
+| [getFootNote()](#getFootNote--) | Gets the paragraph foot note. |
+| [setFootNote(Note value)](#setFootNote-com.aspose.pdf.Note-) | Sets the paragraph foot note. |
+| [isolateTextSegments(int startIndex, int length)](#isolateTextSegments-int-int-) | Gets  TextSegment (s) representing specified part of the  TextFragment  text. |
+| [setMarkedContentProperties(String name, int id)](#setMarkedContentProperties-java.lang.String-int-) |  |
+| [deepClone()](#deepClone--) | Clone the fragment. |
+| [cloneWithSegments()](#cloneWithSegments--) | Clone the fragment with all segments. |
 ### TextFragment() {#TextFragment--}
 ```
 public TextFragment()
@@ -184,177 +162,6 @@ Creates  TextFragment  object with single  TextSegment  object inside and predef
 | text | java.lang.String | Text fragment's text. |
 | tabStops | [TabStops](../../com.aspose.pdf/tabstops) | Tabulation positions |
 
-### cloneWithSegments() {#cloneWithSegments--}
-```
-public Object cloneWithSegments()
-```
-
-
-Clone the fragment with all segments.
-
-**Returns:**
-java.lang.Object - The cloned object
-### deepClone() {#deepClone--}
-```
-public Object deepClone()
-```
-
-
-Clone the fragment.
-
-**Returns:**
-java.lang.Object - The cloned object
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getBaselinePosition() {#getBaselinePosition--}
-```
-public Position getBaselinePosition()
-```
-
-
-Gets text position for text, represented with  TextFragment  object. The YIndent of the Position structure represents baseline coordinate of the text fragment.
-
-**Returns:**
-[Position](../../com.aspose.pdf/position) - Position value
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getEndNote() {#getEndNote--}
-```
-public Note getEndNote()
-```
-
-
-Gets the paragraph end note.(for pdf generation only)
-
-**Returns:**
-[Note](../../com.aspose.pdf/note) - Note value
-### getFootNote() {#getFootNote--}
-```
-public Note getFootNote()
-```
-
-
-Gets the paragraph foot note.(for pdf generation only)
-
-**Returns:**
-[Note](../../com.aspose.pdf/note) - Note value
-### getForm() {#getForm--}
-```
-public XForm getForm()
-```
-
-
-Gets form object that contains the TextFragment
-The value can be null in case the TextFragment object doesn't belong to a form.
-
-**Returns:**
-[XForm](../../com.aspose.pdf/xform) - XForm value
-### getHorizontalAlignment() {#getHorizontalAlignment--}
-```
-public int getHorizontalAlignment()
-```
-
-
-Gets a horizontal alignment of text fragment.
-
-**Returns:**
-int - HorizontalAlignment value
-### getHyperlink() {#getHyperlink--}
-```
-public Hyperlink getHyperlink()
-```
-
-
-Gets the fragment hyperlink(for pdf generator).
-
-**Returns:**
-[Hyperlink](../../com.aspose.pdf/hyperlink) - the fragment hyperlink(for pdf generator).
-### getMargin() {#getMargin--}
-```
-public MarginInfo getMargin()
-```
-
-
-Gets a outer margin for paragraph (for pdf generation)
-
-**Returns:**
-[MarginInfo](../../com.aspose.pdf/margininfo) - MarginInfo value
-### getPage() {#getPage--}
-```
-public Page getPage()
-```
-
-
-Gets page that contains the TextFragment
-The value can be null in case the TextFragment object doesn't belong to any page.
-
-**Returns:**
-[Page](../../com.aspose.pdf/page) - Page object
-### getPosition() {#getPosition--}
-```
-public Position getPosition()
-```
-
-
-Gets text position for text, represented with  TextFragment  object.
-
-**Returns:**
-[Position](../../com.aspose.pdf/position) - Position value
-
---------------------
-
-```
-The example demonstrates how to view placement of a text, represented by ```
-TextFragment
-``` object.
-
-   // Open document
-   Document doc = new Document("D:\\Tests\\input.pdf");
-
-   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-
-   // Accept the absorber for first page
-   doc.getPages().get(1).accept(absorber);
-
-   // View text and placement info of first text occurrence
-   TextFragment firstOccurrence = absorber.getTextFragments().get_Item(1);
-
-   System.out.println("fragment text: " + firstOccurrence.getText()));
-   System.out.println("fragment X indent: "+ firstOccurrence.getPosition().getXIndent()));
-   System.out.println("fragment Y indent: "+ firstOccurrence.getPosition().getYIndent()));
-```
-### getRectangle() {#getRectangle--}
-```
-public Rectangle getRectangle()
-```
-
-
-Gets rectangle of the TextFragment
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
 ### getReplaceOptions() {#getReplaceOptions--}
 ```
 public final TextReplaceOptions getReplaceOptions()
@@ -365,6 +172,176 @@ Gets text replace options. The options define behavior when fragment text is rep
 
 **Returns:**
 [TextReplaceOptions](../../com.aspose.pdf/textreplaceoptions) - TextReplaceOptions instance
+### getText() {#getText--}
+```
+public String getText()
+```
+
+
+Gets  string  text object that the  TextFragment  object represents.
+
+**Returns:**
+java.lang.String - String value
+
+--------------------
+
+```
+The example demonstrates how to search a text and replace first occurrence represented with ```
+
+  TextFragment
+``` object .
+
+  // Open document
+  Document doc = new Document("D:\\Tests\\input.pdf");
+
+  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+  // Accept the absorber for first page
+  doc.getPages().get(1).accept(absorber);
+
+  // Change font of the first text occurrence
+  absorber.getTextFragments().get_Item(1).setText ( "hi world");
+
+  // Save document
+  doc.save("D:\\Tests\\output.pdf");
+```
+### setText(String value) {#setText-java.lang.String-}
+```
+public void setText(String value)
+```
+
+
+Sets  string  text object that the  TextFragment  object represents.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String value
+
+--------------------
+
+```
+The example demonstrates how to search a text and replace first occurrence represented with
+                       ```
+TextFragment
+``` object .
+
+                       // Open document
+                       Document doc = new Document("D:\\Tests\\input.pdf");
+
+                       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+                       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+                       // Accept the absorber for first page
+                       doc.getPages().get(1).accept(absorber);
+
+                       // Change font of the first text occurrence
+                       absorber.getTextFragments().get_Item(1).setText ( "hi world");
+
+                       // Save document
+                       doc.save("D:\\Tests\\output.pdf");
+``` |
+
+### getVerticalAlignment() {#getVerticalAlignment--}
+```
+public int getVerticalAlignment()
+```
+
+
+Gets a vertical alignment of text fragment.
+
+**Returns:**
+int - int value
+### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+```
+public void setVerticalAlignment(int value)
+```
+
+
+Sets a vertical alignment of text fragment.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | int value |
+
+### getHorizontalAlignment() {#getHorizontalAlignment--}
+```
+public int getHorizontalAlignment()
+```
+
+
+Gets a horizontal alignment of text fragment.
+
+**Returns:**
+int - HorizontalAlignment value
+### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+```
+public void setHorizontalAlignment(int value)
+```
+
+
+Sets a horizontal alignment of text fragment.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | HorizontalAlignment value |
+
+### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
+```
+public void setHyperlink(Hyperlink value)
+```
+
+
+Sets the fragment hyperlink
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Hyperlink](../../com.aspose.pdf/hyperlink) |  |
+
+### getTextState() {#getTextState--}
+```
+public TextFragmentState getTextState()
+```
+
+
+Gets or sets text state for the text that  TextFragment  object represents.
+
+**Returns:**
+[TextFragmentState](../../com.aspose.pdf/textfragmentstate) - TextFragmentState object
+
+--------------------
+
+```
+The example demonstrates how to change text color and font size of the text with ```
+TextState
+``` object.
+
+  // Open document
+  Document doc = new Document("D:\\Tests\\input.pdf");
+
+  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+  // Accept the absorber for first page
+  doc.getPages().get(1).accept(absorber);
+
+  // Change foreground color of the first text occurrence
+  absorber.getTextFragments().get_Item(1).getTextState().setForegroundColor(Color.RED);
+
+  // Change font size of the first text occurrence
+  absorber.getTextFragments().get_Item(1).getTextState().setFontSize ( 15);
+
+  // Save document
+  doc.save("D:\\Tests\\output.pdf");
+```
+
+--------------------
+
+Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
 ### getSegments() {#getSegments--}
 ```
 public TextSegmentCollection getSegments()
@@ -408,336 +385,53 @@ Iterable
 --------------------
 
 In a few words,  TextSegment  objects are children of  TextFragment  object. Advanced users may access segments directly to perform more complex text edit scenarios. For details, please look at  TextFragment  object description.
-### getText() {#getText--}
+### setSegments(TextSegmentCollection value) {#setSegments-com.aspose.pdf.TextSegmentCollection-}
 ```
-public String getText()
+public void setSegments(TextSegmentCollection value)
 ```
 
 
-Gets  string  text object that the  TextFragment  object represents.
+Represent setSegments method
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [TextSegmentCollection](../../com.aspose.pdf/textsegmentcollection) | TextSegmentCollection value |
+
+### getPosition() {#getPosition--}
+```
+public Position getPosition()
+```
+
+
+Gets text position for text, represented with  TextFragment  object.
 
 **Returns:**
-java.lang.String - String value
+[Position](../../com.aspose.pdf/position) - Position value
 
 --------------------
 
 ```
-The example demonstrates how to search a text and replace first occurrence represented with ```
-
-  TextFragment
-``` object .
-
-  // Open document
-  Document doc = new Document("D:\\Tests\\input.pdf");
-
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-
-  // Accept the absorber for first page
-  doc.getPages().get(1).accept(absorber);
-
-  // Change font of the first text occurrence
-  absorber.getTextFragments().get_Item(1).setText ( "hi world");
-
-  // Save document
-  doc.save("D:\\Tests\\output.pdf");
-```
-### getTextState() {#getTextState--}
-```
-public TextFragmentState getTextState()
-```
-
-
-Gets or sets text state for the text that  TextFragment  object represents.
-
-**Returns:**
-[TextFragmentState](../../com.aspose.pdf/textfragmentstate) - TextFragmentState object
-
---------------------
-
-```
-The example demonstrates how to change text color and font size of the text with ```
-TextState
+The example demonstrates how to view placement of a text, represented by ```
+TextFragment
 ``` object.
 
-  // Open document
-  Document doc = new Document("D:\\Tests\\input.pdf");
+   // Open document
+   Document doc = new Document("D:\\Tests\\input.pdf");
 
-  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-  // Accept the absorber for first page
-  doc.getPages().get(1).accept(absorber);
+   // Accept the absorber for first page
+   doc.getPages().get(1).accept(absorber);
 
-  // Change foreground color of the first text occurrence
-  absorber.getTextFragments().get_Item(1).getTextState().setForegroundColor(Color.RED);
+   // View text and placement info of first text occurrence
+   TextFragment firstOccurrence = absorber.getTextFragments().get_Item(1);
 
-  // Change font size of the first text occurrence
-  absorber.getTextFragments().get_Item(1).getTextState().setFontSize ( 15);
-
-  // Save document
-  doc.save("D:\\Tests\\output.pdf");
+   System.out.println("fragment text: " + firstOccurrence.getText()));
+   System.out.println("fragment X indent: "+ firstOccurrence.getPosition().getXIndent()));
+   System.out.println("fragment Y indent: "+ firstOccurrence.getPosition().getYIndent()));
 ```
-
---------------------
-
-Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
-### getVerticalAlignment() {#getVerticalAlignment--}
-```
-public int getVerticalAlignment()
-```
-
-
-Gets a vertical alignment of text fragment.
-
-**Returns:**
-int - int value
-### getWrapLinesCount() {#getWrapLinesCount--}
-```
-public int getWrapLinesCount()
-```
-
-
-Gets wrap lines count for this paragraph(for pdf generation only)
-
-**Returns:**
-int - int value
-### getZIndex() {#getZIndex--}
-```
-public int getZIndex()
-```
-
-
-Gets an int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page.
-
-**Returns:**
-int - int value
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### isFirstParagraphInColumn() {#isFirstParagraphInColumn--}
-```
-public boolean isFirstParagraphInColumn()
-```
-
-
-Gets or sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isInLineParagraph() {#isInLineParagraph--}
-```
-public boolean isInLineParagraph()
-```
-
-
-Gets a paragraph is inline. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isInNewPage() {#isInNewPage--}
-```
-public boolean isInNewPage()
-```
-
-
-Gets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isKeptWithNext() {#isKeptWithNext--}
-```
-public boolean isKeptWithNext()
-```
-
-
-Gets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isolateTextSegments(int startIndex, int length) {#isolateTextSegments-int-int-}
-```
-public TextSegmentCollection isolateTextSegments(int startIndex, int length)
-```
-
-
-Gets  TextSegment (s) representing specified part of the  TextFragment  text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| startIndex | int | Position in text from which new  TextSegment (s) will start. |
-| length | int | Length of the text that will isolated into  TextSegment (s). |
-
-**Returns:**
-[TextSegmentCollection](../../com.aspose.pdf/textsegmentcollection) -  TextSegmentCollection  containing text segments represeting text substring starting at a specifing position and having a specified length.
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBaselinePosition(Position value) {#setBaselinePosition-com.aspose.pdf.Position-}
-```
-public void setBaselinePosition(Position value)
-```
-
-
-Sets text position for text, represented with  TextFragment  object. The YIndent of the Position structure represents baseline coordinate of the text fragment.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Position](../../com.aspose.pdf/position) | Position value |
-
-### setEndNote(Note value) {#setEndNote-com.aspose.pdf.Note-}
-```
-public void setEndNote(Note value)
-```
-
-
-Sets the paragraph end note.(for pdf generation only)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Note](../../com.aspose.pdf/note) | Note value |
-
-### setFirstParagraphInColumn(boolean value) {#setFirstParagraphInColumn-boolean-}
-```
-public void setFirstParagraphInColumn(boolean value)
-```
-
-
-Gets or sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setFootNote(Note value) {#setFootNote-com.aspose.pdf.Note-}
-```
-public void setFootNote(Note value)
-```
-
-
-Sets the paragraph foot note.(for pdf generation only)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Note](../../com.aspose.pdf/note) | Note value |
-
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
-```
-public void setHorizontalAlignment(int value)
-```
-
-
-Sets a horizontal alignment of text fragment.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | HorizontalAlignment value |
-
-### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
-```
-public void setHyperlink(Hyperlink value)
-```
-
-
-Sets the fragment hyperlink
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Hyperlink](../../com.aspose.pdf/hyperlink) |  |
-
-### setInLineParagraph(boolean value) {#setInLineParagraph-boolean-}
-```
-public void setInLineParagraph(boolean value)
-```
-
-
-Sets a paragraph is inline. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setInNewPage(boolean value) {#setInNewPage-boolean-}
-```
-public void setInNewPage(boolean value)
-```
-
-
-Sets a boolean value that force this paragraph generates at new page. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setKeptWithNext(boolean value) {#setKeptWithNext-boolean-}
-```
-public final void setKeptWithNext(boolean value)
-```
-
-
-Sets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public void setMargin(MarginInfo value)
-```
-
-
-Sets a outer margin for paragraph (for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo object |
-
-### setMarkedContentProperties(String name, int id) {#setMarkedContentProperties-java.lang.String-int-}
-```
-public void setMarkedContentProperties(String name, int id)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
-| id | int |  |
-
 ### setPosition(Position value) {#setPosition-com.aspose.pdf.Position-}
 ```
 public void setPosition(Position value)
@@ -777,6 +471,39 @@ The example demonstrates how to view placement of a text, represented by ```
                         System.out.println("fragment Y indent: "+ firstOccurrence.getPosition().getYIndent()));
 ``` |
 
+### getBaselinePosition() {#getBaselinePosition--}
+```
+public Position getBaselinePosition()
+```
+
+
+Gets text position for text, represented with  TextFragment  object. The YIndent of the Position structure represents baseline coordinate of the text fragment.
+
+**Returns:**
+[Position](../../com.aspose.pdf/position) - Position value
+### setBaselinePosition(Position value) {#setBaselinePosition-com.aspose.pdf.Position-}
+```
+public void setBaselinePosition(Position value)
+```
+
+
+Sets text position for text, represented with  TextFragment  object. The YIndent of the Position structure represents baseline coordinate of the text fragment.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Position](../../com.aspose.pdf/position) | Position value |
+
+### getRectangle() {#getRectangle--}
+```
+public Rectangle getRectangle()
+```
+
+
+Gets rectangle of the TextFragment
+
+**Returns:**
+[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
 ### setRectangle(Rectangle value) {#setRectangle-com.aspose.pdf.Rectangle-}
 ```
 public void setRectangle(Rectangle value)
@@ -790,69 +517,38 @@ Gets rectangle of the TextFragment
 | --- | --- | --- |
 | value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle instance |
 
-### setSegments(TextSegmentCollection value) {#setSegments-com.aspose.pdf.TextSegmentCollection-}
+### getPage() {#getPage--}
 ```
-public void setSegments(TextSegmentCollection value)
-```
-
-
-Represent setSegments method
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextSegmentCollection](../../com.aspose.pdf/textsegmentcollection) | TextSegmentCollection value |
-
-### setText(String value) {#setText-java.lang.String-}
-```
-public void setText(String value)
+public Page getPage()
 ```
 
 
-Sets  string  text object that the  TextFragment  object represents.
+Gets page that contains the TextFragment
+The value can be null in case the TextFragment object doesn't belong to any page.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value
-
---------------------
-
+**Returns:**
+[Page](../../com.aspose.pdf/page) - Page object
+### getForm() {#getForm--}
 ```
-The example demonstrates how to search a text and replace first occurrence represented with
-                       ```
-TextFragment
-``` object .
-
-                       // Open document
-                       Document doc = new Document("D:\\Tests\\input.pdf");
-
-                       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-                       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-
-                       // Accept the absorber for first page
-                       doc.getPages().get(1).accept(absorber);
-
-                       // Change font of the first text occurrence
-                       absorber.getTextFragments().get_Item(1).setText ( "hi world");
-
-                       // Save document
-                       doc.save("D:\\Tests\\output.pdf");
-``` |
-
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
-```
-public void setVerticalAlignment(int value)
+public XForm getForm()
 ```
 
 
-Sets a vertical alignment of text fragment.
+Gets form object that contains the TextFragment
+The value can be null in case the TextFragment object doesn't belong to a form.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
+**Returns:**
+[XForm](../../com.aspose.pdf/xform) - XForm value
+### getWrapLinesCount() {#getWrapLinesCount--}
+```
+public int getWrapLinesCount()
+```
 
+
+Gets wrap lines count for this paragraph(for pdf generation only)
+
+**Returns:**
+int - int value
 ### setWrapLinesCount(int value) {#setWrapLinesCount-int-}
 ```
 public void setWrapLinesCount(int value)
@@ -866,40 +562,71 @@ Sets wrap lines count for this paragraph(for pdf generation only)
 | --- | --- | --- |
 | value | int | int value |
 
-### setZIndex(int value) {#setZIndex-int-}
+### getEndNote() {#getEndNote--}
 ```
-public void setZIndex(int value)
-```
-
-
-Sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### toString() {#toString--}
-```
-public String toString()
+public Note getEndNote()
 ```
 
 
-
+Gets the paragraph end note.(for pdf generation only)
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
+[Note](../../com.aspose.pdf/note) - Note value
+### setEndNote(Note value) {#setEndNote-com.aspose.pdf.Note-}
 ```
-public final void wait()
+public void setEndNote(Note value)
 ```
 
 
+Sets the paragraph end note.(for pdf generation only)
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Note](../../com.aspose.pdf/note) | Note value |
 
-### wait(long arg0) {#wait-long-}
+### getFootNote() {#getFootNote--}
 ```
-public final native void wait(long arg0)
+public Note getFootNote()
+```
+
+
+Gets the paragraph foot note.(for pdf generation only)
+
+**Returns:**
+[Note](../../com.aspose.pdf/note) - Note value
+### setFootNote(Note value) {#setFootNote-com.aspose.pdf.Note-}
+```
+public void setFootNote(Note value)
+```
+
+
+Sets the paragraph foot note.(for pdf generation only)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Note](../../com.aspose.pdf/note) | Note value |
+
+### isolateTextSegments(int startIndex, int length) {#isolateTextSegments-int-int-}
+```
+public TextSegmentCollection isolateTextSegments(int startIndex, int length)
+```
+
+
+Gets  TextSegment (s) representing specified part of the  TextFragment  text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| startIndex | int | Position in text from which new  TextSegment (s) will start. |
+| length | int | Length of the text that will isolated into  TextSegment (s). |
+
+**Returns:**
+[TextSegmentCollection](../../com.aspose.pdf/textsegmentcollection) -  TextSegmentCollection  containing text segments represeting text substring starting at a specifing position and having a specified length.
+### setMarkedContentProperties(String name, int id) {#setMarkedContentProperties-java.lang.String-int-}
+```
+public void setMarkedContentProperties(String name, int id)
 ```
 
 
@@ -908,19 +635,26 @@ public final native void wait(long arg0)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| name | java.lang.String |  |
+| id | int |  |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### deepClone() {#deepClone--}
 ```
-public final void wait(long arg0, int arg1)
+public Object deepClone()
 ```
 
 
+Clone the fragment.
+
+**Returns:**
+java.lang.Object - The cloned object
+### cloneWithSegments() {#cloneWithSegments--}
+```
+public Object cloneWithSegments()
+```
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+Clone the fragment with all segments.
 
+**Returns:**
+java.lang.Object - The cloned object

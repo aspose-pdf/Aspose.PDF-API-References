@@ -3,7 +3,7 @@ title: TableTHeadElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents THead structure element in logical structure of the table.
 type: docs
-weight: 4680
+weight: 4690
 url: /net/aspose.pdf.logicalstructure/tabletheadelement/
 ---
 ## TableTHeadElement class

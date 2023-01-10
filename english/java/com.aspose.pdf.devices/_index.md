@@ -18,6 +18,7 @@ The  **com.aspose.pdf.devices** package provides classes which are used for repr
 | [ColorDepth](../com.aspose.pdf.devices/colordepth) | Used to specify the parameter value passed to a Tiff image device. |
 | [CompressionType](../com.aspose.pdf.devices/compressiontype) | Used to specify the parameter value passed to a Tiff image device. |
 | [Device](../com.aspose.pdf.devices/device) | Abstract class for all types of devices. |
+| [DicomDevice](../com.aspose.pdf.devices/dicomdevice) | Represents image device that helps to save pdf document pages into Dicom format. |
 | [DocumentDevice](../com.aspose.pdf.devices/documentdevice) | Abstract class for all devices which is used to process the whole pdf document. |
 | [EmfDevice](../com.aspose.pdf.devices/emfdevice) | Represents image device that helps to save pdf document pages into emf. |
 | [FormPresentationMode](../com.aspose.pdf.devices/formpresentationmode) | Used to specify the form presentation mode when printing or converting to image pdf documents. |

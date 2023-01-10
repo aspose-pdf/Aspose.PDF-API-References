@@ -63,3 +63,15 @@ Aspose.PDF for C++ is a native C++ library that enables developers to create, re
 These are links to some useful resources:
 - [Aspose.PDF for C++ API Reference](/pdf/cpp/)
 
+## Aspose.PDF for JavaScript via C++
+
+{{% alert color="primary" %}}
+
+![Aspose.PDF for JavaScript via C++ Product Logo](aspose_pdf-for-javascript-cpp.png)
+
+ Aspose.PDF for JavaScript via C++ is a WebAssembly library that enables developers to create, read and manipulate PDF documents without using Adobe Acrobat. Aspose.PDF for JavaScript allows developers to create forms, add/edit text, manipulate PDF pages, add annotations, handle custom fonts and much more. Here in the documentation section of Aspose.PDF for JavaScript, you can explore all the features of the API along with the basic examples to demonstrate the implementation of those features in your JavaScript application.
+
+{{% /alert %}}
+
+These are links to some useful resources:
+- [Aspose.PDF for JavaScript via C++](/pdf/javascript-cpp/)

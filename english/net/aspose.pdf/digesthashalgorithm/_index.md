@@ -3,7 +3,7 @@ title: DigestHashAlgorithm
 second_title: Aspose.PDF for .NET API Reference
 description: Represent type of algoritm that maps data to a hash
 type: docs
-weight: 1820
+weight: 1830
 url: /net/aspose.pdf/digesthashalgorithm/
 ---
 ## DigestHashAlgorithm enumeration

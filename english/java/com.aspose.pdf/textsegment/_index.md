@@ -3,7 +3,7 @@ title: TextSegment
 second_title: Aspose.PDF for Java API Reference
 description: Represents segment of Pdf text.
 type: docs
-weight: 386
+weight: 387
 url: /java/com.aspose.pdf/textsegment/
 ---
 **Inheritance:**
@@ -82,32 +82,23 @@ Physically pdf text's representation is very complex. The text "hello world" may
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBaselinePosition()](#getBaselinePosition--) | Gets text position for text, represented with  TextSegment  object. |
-| [getCharacters()](#getCharacters--) | Gets collection of CharInfo objects that represent information on characters in the text segment. |
-| [getClass()](#getClass--) |  |
-| [getEndCharIndex()](#getEndCharIndex--) | Gets ending character index of current segment in the show text operator (Tj, TJ) segment. |
-| [getHyperlink()](#getHyperlink--) | Gets or sets the segment hyperlink(for pdf generator). |
-| [getPosition()](#getPosition--) | Gets text position for text, represented with  TextSegment  object. |
-| [getRectangle()](#getRectangle--) | Gets rectangle of the TextSegment |
 | [getStartCharIndex()](#getStartCharIndex--) | Gets starting character index of current segment in the show text operator (Tj, TJ) segment. |
+| [getEndCharIndex()](#getEndCharIndex--) | Gets ending character index of current segment in the show text operator (Tj, TJ) segment. |
 | [getText()](#getText--) | Gets  string  text object that the  TextSegment  object represents. |
-| [getTextEditOptions()](#getTextEditOptions--) | Gets text edit options. |
-| [getTextState()](#getTextState--) | Gets or sets text state for the text that  TextSegment  object represents. |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBaselinePosition(Position value)](#setBaselinePosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextSegment  object. |
-| [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | Gets or sets the segment hyperlink(for pdf generator). |
-| [setPosition(Position value)](#setPosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextSegment  object. |
-| [setText(String value)](#setText-java.lang.String-) | Sets  string  text object that the  TextSegment  object represents. |
-| [setTextEditOptions(TextEditOptions value)](#setTextEditOptions-com.aspose.pdf.TextEditOptions-) | Sets text edit options. |
-| [setTextState(TextState value)](#setTextState-com.aspose.pdf.TextState-) | Sets text state for the text that  TextSegment  object represents. |
 | [setTextSuppressedUpdate(String value)](#setTextSuppressedUpdate-java.lang.String-) | Sets  string  text object that the  TextSegment  object represents wish suppressed update. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [setText(String value)](#setText-java.lang.String-) | Sets  string  text object that the  TextSegment  object represents. |
+| [getTextState()](#getTextState--) | Gets or sets text state for the text that  TextSegment  object represents. |
+| [setTextState(TextState value)](#setTextState-com.aspose.pdf.TextState-) | Sets text state for the text that  TextSegment  object represents. |
+| [getPosition()](#getPosition--) | Gets text position for text, represented with  TextSegment  object. |
+| [setPosition(Position value)](#setPosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextSegment  object. |
+| [getRectangle()](#getRectangle--) | Gets rectangle of the TextSegment |
+| [getBaselinePosition()](#getBaselinePosition--) | Gets text position for text, represented with  TextSegment  object. |
+| [setBaselinePosition(Position value)](#setBaselinePosition-com.aspose.pdf.Position-) | Sets text position for text, represented with  TextSegment  object. |
+| [getTextEditOptions()](#getTextEditOptions--) | Gets text edit options. |
+| [setTextEditOptions(TextEditOptions value)](#setTextEditOptions-com.aspose.pdf.TextEditOptions-) | Sets text edit options. |
+| [getCharacters()](#getCharacters--) | Gets collection of CharInfo objects that represent information on characters in the text segment. |
+| [getHyperlink()](#getHyperlink--) | Gets or sets the segment hyperlink(for pdf generator). |
+| [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | Gets or sets the segment hyperlink(for pdf generator). |
 ### TextSegment() {#TextSegment--}
 ```
 public TextSegment()
@@ -183,91 +174,6 @@ The example demonstrates how to create text fragment object, add a text segment 
 | --- | --- | --- |
 | text | java.lang.String | Text segment's text. |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getBaselinePosition() {#getBaselinePosition--}
-```
-public Position getBaselinePosition()
-```
-
-
-Gets text position for text, represented with  TextSegment  object. The YIndent of the Position structure represents baseline coordinate of the text segment.
-
-**Returns:**
-[Position](../../com.aspose.pdf/position) - Position value
-### getCharacters() {#getCharacters--}
-```
-public CharInfoCollection getCharacters()
-```
-
-
-Gets collection of CharInfo objects that represent information on characters in the text segment.
-
-**Returns:**
-[CharInfoCollection](../../com.aspose.pdf/charinfocollection) - CharInfoCollection object
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getEndCharIndex() {#getEndCharIndex--}
-```
-public int getEndCharIndex()
-```
-
-
-Gets ending character index of current segment in the show text operator (Tj, TJ) segment.
-
-**Returns:**
-int - int value
-### getHyperlink() {#getHyperlink--}
-```
-public Hyperlink getHyperlink()
-```
-
-
-Gets or sets the segment hyperlink(for pdf generator).
-
-**Returns:**
-[Hyperlink](../../com.aspose.pdf/hyperlink) - Hyperlink object
-### getPosition() {#getPosition--}
-```
-public Position getPosition()
-```
-
-
-Gets text position for text, represented with  TextSegment  object.
-
-**Returns:**
-[Position](../../com.aspose.pdf/position) - Position value
-### getRectangle() {#getRectangle--}
-```
-public Rectangle getRectangle()
-```
-
-
-Gets rectangle of the TextSegment
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
 ### getStartCharIndex() {#getStartCharIndex--}
 ```
 public int getStartCharIndex()
@@ -275,6 +181,16 @@ public int getStartCharIndex()
 
 
 Gets starting character index of current segment in the show text operator (Tj, TJ) segment.
+
+**Returns:**
+int - int value
+### getEndCharIndex() {#getEndCharIndex--}
+```
+public int getEndCharIndex()
+```
+
+
+Gets ending character index of current segment in the show text operator (Tj, TJ) segment.
 
 **Returns:**
 int - int value
@@ -288,94 +204,18 @@ Gets  string  text object that the  TextSegment  object represents.
 
 **Returns:**
 java.lang.String - String value
-### getTextEditOptions() {#getTextEditOptions--}
+### setTextSuppressedUpdate(String value) {#setTextSuppressedUpdate-java.lang.String-}
 ```
-public TextEditOptions getTextEditOptions()
-```
-
-
-Gets text edit options. The options define special behavior when requested symbol cannot be written with font.
-
-**Returns:**
-[TextEditOptions](../../com.aspose.pdf/texteditoptions) - TextEditOptions value
-### getTextState() {#getTextState--}
-```
-public TextState getTextState()
+public void setTextSuppressedUpdate(String value)
 ```
 
 
-Gets or sets text state for the text that  TextSegment  object represents.
-
---------------------
-
-Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
-
-**Returns:**
-[TextState](../../com.aspose.pdf/textstate) - TextState value
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBaselinePosition(Position value) {#setBaselinePosition-com.aspose.pdf.Position-}
-```
-public void setBaselinePosition(Position value)
-```
-
-
-Sets text position for text, represented with  TextSegment  object. The YIndent of the Position structure represents baseline coordinate of the text segment.
+Sets  string  text object that the  TextSegment  object represents wish suppressed update.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Position](../../com.aspose.pdf/position) | Position value |
-
-### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
-```
-public void setHyperlink(Hyperlink value)
-```
-
-
-Gets or sets the segment hyperlink(for pdf generator).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Hyperlink](../../com.aspose.pdf/hyperlink) | Hyperlink object |
-
-### setPosition(Position value) {#setPosition-com.aspose.pdf.Position-}
-```
-public void setPosition(Position value)
-```
-
-
-Sets text position for text, represented with  TextSegment  object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Position](../../com.aspose.pdf/position) | Position value |
+| value | java.lang.String | String value |
 
 ### setText(String value) {#setText-java.lang.String-}
 ```
@@ -390,19 +230,20 @@ Sets  string  text object that the  TextSegment  object represents.
 | --- | --- | --- |
 | value | java.lang.String | String value |
 
-### setTextEditOptions(TextEditOptions value) {#setTextEditOptions-com.aspose.pdf.TextEditOptions-}
+### getTextState() {#getTextState--}
 ```
-public void setTextEditOptions(TextEditOptions value)
+public TextState getTextState()
 ```
 
 
-Sets text edit options. The options define special behavior when requested symbol cannot be written with font.
+Gets or sets text state for the text that  TextSegment  object represents.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextEditOptions](../../com.aspose.pdf/texteditoptions) | TextEditOptions value |
+--------------------
 
+Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
+
+**Returns:**
+[TextState](../../com.aspose.pdf/textstate) - TextState value
 ### setTextState(TextState value) {#setTextState-com.aspose.pdf.TextState-}
 ```
 public void setTextState(TextState value)
@@ -420,61 +261,115 @@ Provides a way to change following properties of the text: Font FontSize FontSty
 | --- | --- | --- |
 | value | [TextState](../../com.aspose.pdf/textstate) | TextState value |
 
-### setTextSuppressedUpdate(String value) {#setTextSuppressedUpdate-java.lang.String-}
+### getPosition() {#getPosition--}
 ```
-public void setTextSuppressedUpdate(String value)
-```
-
-
-Sets  string  text object that the  TextSegment  object represents wish suppressed update.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### toString() {#toString--}
-```
-public String toString()
+public Position getPosition()
 ```
 
 
-
+Gets text position for text, represented with  TextSegment  object.
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
+[Position](../../com.aspose.pdf/position) - Position value
+### setPosition(Position value) {#setPosition-com.aspose.pdf.Position-}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public void setPosition(Position value)
 ```
 
 
-
+Sets text position for text, represented with  TextSegment  object.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| value | [Position](../../com.aspose.pdf/position) | Position value |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### getRectangle() {#getRectangle--}
 ```
-public final void wait(long arg0, int arg1)
+public Rectangle getRectangle()
 ```
 
 
+Gets rectangle of the TextSegment
 
+**Returns:**
+[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
+### getBaselinePosition() {#getBaselinePosition--}
+```
+public Position getBaselinePosition()
+```
+
+
+Gets text position for text, represented with  TextSegment  object. The YIndent of the Position structure represents baseline coordinate of the text segment.
+
+**Returns:**
+[Position](../../com.aspose.pdf/position) - Position value
+### setBaselinePosition(Position value) {#setBaselinePosition-com.aspose.pdf.Position-}
+```
+public void setBaselinePosition(Position value)
+```
+
+
+Sets text position for text, represented with  TextSegment  object. The YIndent of the Position structure represents baseline coordinate of the text segment.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| value | [Position](../../com.aspose.pdf/position) | Position value |
+
+### getTextEditOptions() {#getTextEditOptions--}
+```
+public TextEditOptions getTextEditOptions()
+```
+
+
+Gets text edit options. The options define special behavior when requested symbol cannot be written with font.
+
+**Returns:**
+[TextEditOptions](../../com.aspose.pdf/texteditoptions) - TextEditOptions value
+### setTextEditOptions(TextEditOptions value) {#setTextEditOptions-com.aspose.pdf.TextEditOptions-}
+```
+public void setTextEditOptions(TextEditOptions value)
+```
+
+
+Sets text edit options. The options define special behavior when requested symbol cannot be written with font.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [TextEditOptions](../../com.aspose.pdf/texteditoptions) | TextEditOptions value |
+
+### getCharacters() {#getCharacters--}
+```
+public CharInfoCollection getCharacters()
+```
+
+
+Gets collection of CharInfo objects that represent information on characters in the text segment.
+
+**Returns:**
+[CharInfoCollection](../../com.aspose.pdf/charinfocollection) - CharInfoCollection object
+### getHyperlink() {#getHyperlink--}
+```
+public Hyperlink getHyperlink()
+```
+
+
+Gets or sets the segment hyperlink(for pdf generator).
+
+**Returns:**
+[Hyperlink](../../com.aspose.pdf/hyperlink) - Hyperlink object
+### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
+```
+public void setHyperlink(Hyperlink value)
+```
+
+
+Gets or sets the segment hyperlink(for pdf generator).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Hyperlink](../../com.aspose.pdf/hyperlink) | Hyperlink object |
 

@@ -3,7 +3,7 @@ title: ITableElement
 second_title: Aspose.PDF for Java API Reference
 description: This interface represents an element of existing table extracted by TableAbsorber.
 type: docs
-weight: 440
+weight: 441
 url: /java/com.aspose.pdf/itableelement/
 ---```
 public interface ITableElement

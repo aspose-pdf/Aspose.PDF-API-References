@@ -3,7 +3,7 @@ title: XmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing XML file into pdf document.
 type: docs
-weight: 7450
+weight: 7460
 url: /net/aspose.pdf/xmlloadoptions/
 ---
 ## XmlLoadOptions class

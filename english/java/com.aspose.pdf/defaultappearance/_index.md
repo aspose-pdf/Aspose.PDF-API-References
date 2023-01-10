@@ -3,7 +3,7 @@ title: DefaultAppearance
 second_title: Aspose.PDF for Java API Reference
 description: Describes default appearance of field font text size and color.
 type: docs
-weight: 82
+weight: 83
 url: /java/com.aspose.pdf/defaultappearance/
 ---
 **Inheritance:**
@@ -26,25 +26,16 @@ Describes default appearance of field (font, text size and color).
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getFont()](#getFont--) | Gets font specified as default for text. |
-| [getFontName()](#getFontName--) | Gets font name in the default appearance. |
-| [getFontResourceName()](#getFontResourceName--) | Gets font name in the default appearance. |
 | [getFontSize()](#getFontSize--) | Gets font size in default appearance. |
-| [getText()](#getText--) | Gets the list of pdf operators which represent appearence. |
-| [getTextColor()](#getTextColor--) | Gets color of text in the default appearance. |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setFontName(String value)](#setFontName-java.lang.String-) | Gets font name in the default appearance. |
-| [setFontResourceName(String value)](#setFontResourceName-java.lang.String-) | Gets font name in the default appearance. |
 | [setFontSize(double value)](#setFontSize-double-) | Sets font size in default appearance. |
+| [getTextColor()](#getTextColor--) | Gets color of text in the default appearance. |
 | [setTextColor(Color color)](#setTextColor-java.awt.Color-) | Sets color of text in the default appearance. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getFontName()](#getFontName--) | Gets font name in the default appearance. |
+| [setFontName(String value)](#setFontName-java.lang.String-) | Gets font name in the default appearance. |
+| [getFontResourceName()](#getFontResourceName--) | Gets font name in the default appearance. |
+| [setFontResourceName(String value)](#setFontResourceName-java.lang.String-) | Gets font name in the default appearance. |
+| [getFont()](#getFont--) | Gets font specified as default for text. |
+| [getText()](#getText--) | Gets the list of pdf operators which represent appearence. |
 ### DefaultAppearance() {#DefaultAppearance--}
 ```
 public DefaultAppearance()
@@ -105,61 +96,6 @@ Constructor of DefaultAppearance.
 | fontSize | double | Font size. |
 | textColor | java.awt.Color | Color of text. |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getFont() {#getFont--}
-```
-public Font getFont()
-```
-
-
-Gets font specified as default for text.
-
-**Returns:**
-[Font](../../com.aspose.pdf/font) - Font value
-### getFontName() {#getFontName--}
-```
-public String getFontName()
-```
-
-
-Gets font name in the default appearance.
-
-**Returns:**
-java.lang.String - String value
-### getFontResourceName() {#getFontResourceName--}
-```
-public final String getFontResourceName()
-```
-
-
-Gets font name in the default appearance.
-
-**Returns:**
-java.lang.String - String value
 ### getFontSize() {#getFontSize--}
 ```
 public double getFontSize()
@@ -170,78 +106,6 @@ Gets font size in default appearance.
 
 **Returns:**
 double - font size
-### getText() {#getText--}
-```
-public String getText()
-```
-
-
-Gets the list of pdf operators which represent appearence.
-
-**Returns:**
-java.lang.String - String value
-### getTextColor() {#getTextColor--}
-```
-public Color getTextColor()
-```
-
-
-Gets color of text in the default appearance.
-
-**Returns:**
-[Color](../../java.awt/color) - Color object
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setFontName(String value) {#setFontName-java.lang.String-}
-```
-public void setFontName(String value)
-```
-
-
-Gets font name in the default appearance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### setFontResourceName(String value) {#setFontResourceName-java.lang.String-}
-```
-public final void setFontResourceName(String value)
-```
-
-
-Gets font name in the default appearance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
 ### setFontSize(double value) {#setFontSize-double-}
 ```
 public void setFontSize(double value)
@@ -255,6 +119,16 @@ Sets font size in default appearance.
 | --- | --- | --- |
 | value | double | font size |
 
+### getTextColor() {#getTextColor--}
+```
+public Color getTextColor()
+```
+
+
+Gets color of text in the default appearance.
+
+**Returns:**
+[Color](../../java.awt/color) - Color object
 ### setTextColor(Color color) {#setTextColor-java.awt.Color-}
 ```
 public void setTextColor(Color color)
@@ -268,48 +142,69 @@ Sets color of text in the default appearance.
 | --- | --- | --- |
 | color | java.awt.Color | Color object |
 
-### toString() {#toString--}
+### getFontName() {#getFontName--}
 ```
-public String toString()
+public String getFontName()
 ```
 
 
-
+Gets font name in the default appearance.
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
+java.lang.String - String value
+### setFontName(String value) {#setFontName-java.lang.String-}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public void setFontName(String value)
 ```
 
 
-
+Gets font name in the default appearance.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
+| value | java.lang.String | String value |
 
-### wait(long arg0, int arg1) {#wait-long-int-}
+### getFontResourceName() {#getFontResourceName--}
 ```
-public final void wait(long arg0, int arg1)
+public final String getFontResourceName()
 ```
 
 
+Gets font name in the default appearance.
 
+**Returns:**
+java.lang.String - String value
+### setFontResourceName(String value) {#setFontResourceName-java.lang.String-}
+```
+public final void setFontResourceName(String value)
+```
+
+
+Gets font name in the default appearance.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| value | java.lang.String | String value |
 
+### getFont() {#getFont--}
+```
+public Font getFont()
+```
+
+
+Gets font specified as default for text.
+
+**Returns:**
+[Font](../../com.aspose.pdf/font) - Font value
+### getText() {#getText--}
+```
+public String getText()
+```
+
+
+Gets the list of pdf operators which represent appearence.
+
+**Returns:**
+java.lang.String - String value

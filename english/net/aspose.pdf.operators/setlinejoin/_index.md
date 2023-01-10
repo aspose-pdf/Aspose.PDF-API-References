@@ -3,7 +3,7 @@ title: SetLineJoin
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing j operator set line join style.
 type: docs
-weight: 5530
+weight: 5540
 url: /net/aspose.pdf.operators/setlinejoin/
 ---
 ## SetLineJoin class

@@ -3,7 +3,7 @@ title: XFormCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of XFormCollection.
 type: docs
-weight: 408
+weight: 409
 url: /java/com.aspose.pdf/xformcollection/
 ---
 **Inheritance:**
@@ -20,32 +20,63 @@ Class represents collection of XFormCollection.
 
 | Method | Description |
 | --- | --- |
-| [add(XForm xform)](#add-com.aspose.pdf.XForm-) | Adds new XForm into collection. |
-| [clear()](#clear--) | Clears all items from the collection. |
-| [contains(XForm item)](#contains-com.aspose.pdf.XForm-) | Determines whether the collection contains a specific value. |
-| [copyTo(XForm[] array, int index)](#copyTo-com.aspose.pdf.XForm---int-) | Copies XFormCollection into collection. |
-| [delete()](#delete--) | Deletes all XForms from collection. |
-| [delete(int index)](#delete-int-) | Delete XForm from collectin |
-| [delete(String name)](#delete-java.lang.String-) | Deletes XForm from collection by form name. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getFormName(XForm form)](#getFormName-com.aspose.pdf.XForm-) | Returns name of the form in this form collection |
+| [size()](#size--) | Gets count of XForms in collection. |
+| [isSynchronized()](#isSynchronized--) | Returns true if object is synchronized. |
 | [getSyncRoot()](#getSyncRoot--) | Synchronization object. |
+| [isReadOnly()](#isReadOnly--) | Gets a value indicating whether the collection is read-only. |
+| [add(XForm xform)](#add-com.aspose.pdf.XForm-) | Adds new XForm into collection. |
+| [delete(int index)](#delete-int-) | Delete XForm from collectin |
+| [delete()](#delete--) | Deletes all XForms from collection. |
+| [copyTo(XForm[] array, int index)](#copyTo-com.aspose.pdf.XForm---int-) | Copies XFormCollection into collection. |
+| [iterator()](#iterator--) | Returns collection enumerator. |
+| [delete(String name)](#delete-java.lang.String-) | Deletes XForm from collection by form name. |
 | [get_Item(int index)](#get-Item-int-) | Returns XForm by index. |
 | [get_Item(String name)](#get-Item-java.lang.String-) | Returns XForm by its name. |
+| [getFormName(XForm form)](#getFormName-com.aspose.pdf.XForm-) | Returns name of the form in this form collection |
 | [hasForm(String formName)](#hasForm-java.lang.String-) |  |
-| [hashCode()](#hashCode--) |  |
-| [isReadOnly()](#isReadOnly--) | Gets a value indicating whether the collection is read-only. |
-| [isSynchronized()](#isSynchronized--) | Returns true if object is synchronized. |
-| [iterator()](#iterator--) | Returns collection enumerator. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
+| [clear()](#clear--) | Clears all items from the collection. |
+| [contains(XForm item)](#contains-com.aspose.pdf.XForm-) | Determines whether the collection contains a specific value. |
 | [remove(XForm item)](#remove-com.aspose.pdf.XForm-) | Deletes specified item from collection. |
-| [size()](#size--) | Gets count of XForms in collection. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### size() {#size--}
+```
+public int size()
+```
+
+
+Gets count of XForms in collection.
+
+**Returns:**
+int - int value
+### isSynchronized() {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+
+Returns true if object is synchronized.
+
+**Returns:**
+boolean - boolean
+### getSyncRoot() {#getSyncRoot--}
+```
+public Object getSyncRoot()
+```
+
+
+Synchronization object.
+
+**Returns:**
+java.lang.Object - Object
+### isReadOnly() {#isReadOnly--}
+```
+public boolean isReadOnly()
+```
+
+
+Gets a value indicating whether the collection is read-only.
+
+**Returns:**
+boolean - boolean value
 ### add(XForm xform) {#add-com.aspose.pdf.XForm-}
 ```
 public void add(XForm xform)
@@ -58,51 +89,6 @@ Adds new XForm into collection.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xform | [XForm](../../com.aspose.pdf/xform) | XForm to add into collection |
-
-### clear() {#clear--}
-```
-public void clear()
-```
-
-
-Clears all items from the collection.
-
-### contains(XForm item) {#contains-com.aspose.pdf.XForm-}
-```
-public boolean contains(XForm item)
-```
-
-
-Determines whether the collection contains a specific value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [XForm](../../com.aspose.pdf/xform) | The object to locate in the collection |
-
-**Returns:**
-boolean - true if item is found in the collection; otherwise, false.
-### copyTo(XForm[] array, int index) {#copyTo-com.aspose.pdf.XForm---int-}
-```
-public void copyTo(XForm[] array, int index)
-```
-
-
-Copies XFormCollection into collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | [XForm\[\]](../../com.aspose.pdf/xform) | Array of XForm to be copied |
-| index | int | Index where XFormCollection will be copied |
-
-### delete() {#delete--}
-```
-public void delete()
-```
-
-
-Deletes all XForms from collection.
 
 ### delete(int index) {#delete-int-}
 ```
@@ -117,6 +103,38 @@ Delete XForm from collectin
 | --- | --- | --- |
 | index | int | Index of XForm which must be deleted |
 
+### delete() {#delete--}
+```
+public void delete()
+```
+
+
+Deletes all XForms from collection.
+
+### copyTo(XForm[] array, int index) {#copyTo-com.aspose.pdf.XForm---int-}
+```
+public void copyTo(XForm[] array, int index)
+```
+
+
+Copies XFormCollection into collection.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | [XForm\[\]](../../com.aspose.pdf/xform) | Array of XForm to be copied |
+| index | int | Index where XFormCollection will be copied |
+
+### iterator() {#iterator--}
+```
+public Iterator<XForm> iterator()
+```
+
+
+Returns collection enumerator.
+
+**Returns:**
+java.util.Iterator<com.aspose.pdf.XForm> - Enumerator for collection
 ### delete(String name) {#delete-java.lang.String-}
 ```
 public void delete(String name)
@@ -130,56 +148,6 @@ Deletes XForm from collection by form name.
 | --- | --- | --- |
 | name | java.lang.String | Name of XForm to be deleted. |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getFormName(XForm form) {#getFormName-com.aspose.pdf.XForm-}
-```
-public String getFormName(XForm form)
-```
-
-
-Returns name of the form in this form collection
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| form | [XForm](../../com.aspose.pdf/xform) | Form which name is searhced |
-
-**Returns:**
-java.lang.String - Form name in the collection; Null if form is not contained in the colleciton
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Synchronization object.
-
-**Returns:**
-java.lang.Object - Object
 ### get_Item(int index) {#get-Item-int-}
 ```
 public XForm get_Item(int index)
@@ -210,6 +178,21 @@ Returns XForm by its name. Exception is thrown if XForm with specified name is n
 
 **Returns:**
 [XForm](../../com.aspose.pdf/xform) - XForm object
+### getFormName(XForm form) {#getFormName-com.aspose.pdf.XForm-}
+```
+public String getFormName(XForm form)
+```
+
+
+Returns name of the form in this form collection
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| form | [XForm](../../com.aspose.pdf/xform) | Form which name is searhced |
+
+**Returns:**
+java.lang.String - Form name in the collection; Null if form is not contained in the colleciton
 ### hasForm(String formName) {#hasForm-java.lang.String-}
 ```
 public boolean hasForm(String formName)
@@ -225,62 +208,29 @@ public boolean hasForm(String formName)
 
 **Returns:**
 boolean
-### hashCode() {#hashCode--}
+### clear() {#clear--}
 ```
-public native int hashCode()
+public void clear()
 ```
 
 
+Clears all items from the collection.
 
+### contains(XForm item) {#contains-com.aspose.pdf.XForm-}
+```
+public boolean contains(XForm item)
+```
+
+
+Determines whether the collection contains a specific value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | [XForm](../../com.aspose.pdf/xform) | The object to locate in the collection |
 
 **Returns:**
-int
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets a value indicating whether the collection is read-only.
-
-**Returns:**
-boolean - boolean value
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
-
-
-Returns true if object is synchronized.
-
-**Returns:**
-boolean - boolean
-### iterator() {#iterator--}
-```
-public Iterator<XForm> iterator()
-```
-
-
-Returns collection enumerator.
-
-**Returns:**
-java.util.Iterator<com.aspose.pdf.XForm> - Enumerator for collection
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
+boolean - true if item is found in the collection; otherwise, false.
 ### remove(XForm item) {#remove-com.aspose.pdf.XForm-}
 ```
 public boolean remove(XForm item)
@@ -296,58 +246,3 @@ Deletes specified item from collection.
 
 **Returns:**
 boolean - true if item was deleted from collection; otherwise, false.
-### size() {#size--}
-```
-public int size()
-```
-
-
-Gets count of XForms in collection.
-
-**Returns:**
-int - int value
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-

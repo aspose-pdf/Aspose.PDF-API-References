@@ -3,7 +3,7 @@ title: TeXLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing TeX file into PDF document.
 type: docs
-weight: 6580
+weight: 6590
 url: /net/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class

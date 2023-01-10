@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.PDF for .NET API Reference
 description: This enum represents image formats.
 type: docs
-weight: 2000
+weight: 2010
 url: /net/aspose.pdf.drawing/imageformat/
 ---
 ## ImageFormat enumeration
@@ -24,6 +24,7 @@ public enum ImageFormat
 | Png | `3` | PNG format. |
 | Tiff | `4` | TIFF format. |
 | Emf | `5` | EMF format. |
+| Dicom | `6` | DICOM format. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: PdfExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Class for extracting images and text from PDF document.
 type: docs
-weight: 2460
+weight: 2470
 url: /net/aspose.pdf.facades/pdfextractor/
 ---
 ## PdfExtractor class

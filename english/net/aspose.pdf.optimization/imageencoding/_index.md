@@ -3,7 +3,7 @@ title: ImageEncoding
 second_title: Aspose.PDF for .NET API Reference
 description: Image encoding types.
 type: docs
-weight: 5740
+weight: 5750
 url: /net/aspose.pdf.optimization/imageencoding/
 ---
 ## ImageEncoding enumeration

@@ -3,7 +3,7 @@ title: Facade
 second_title: Aspose.PDF for .NET API Reference
 description: Base facade class.
 type: docs
-weight: 2260
+weight: 2270
 url: /net/aspose.pdf.facades/facade/
 ---
 ## Facade class

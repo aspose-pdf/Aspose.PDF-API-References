@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PDF for Java API Reference
 description: Represents font object.
 type: docs
-weight: 130
+weight: 131
 url: /java/com.aspose.pdf/font/
 ---
 **Inheritance:**
@@ -46,91 +46,32 @@ The example demonstrates how to search text on first page and change font of a f
 
 | Method | Description |
 | --- | --- |
-| [doesFontContainAllCharacters(String value)](#doesFontContainAllCharacters-java.lang.String-) | Determines if the font contains specified chars |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBaseFont()](#getBaseFont--) | Gets BaseFont value of PDF font object. |
-| [getClass()](#getClass--) |  |
-| [getDecodedFontName()](#getDecodedFontName--) | Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificical font name. |
-| [getFontName()](#getFontName--) | Gets font name of the  Font  object. |
-| [getFontOptions()](#getFontOptions--) | Useful properties to tune Font behavior |
-| [getIFont()](#getIFont--) | System font object. |
-| [getIPdfFont()](#getIPdfFont--) | Pdf font object. |
-| [getLastFontEmbeddingError()](#getLastFontEmbeddingError--) | An objective of this method - to return description of error if an attempt to embed font was failed. |
 | [getType()](#getType--) | The font's type Name |
-| [hashCode()](#hashCode--) |  |
-| [isAccessible()](#isAccessible--) | Gets indicating whether the font is present (installed) in the system. |
+| [getFontName()](#getFontName--) | Gets font name of the  Font  object. |
+| [getDecodedFontName()](#getDecodedFontName--) | Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificical font name. |
+| [getBaseFont()](#getBaseFont--) | Gets BaseFont value of PDF font object. |
+| [getLastFontEmbeddingError()](#getLastFontEmbeddingError--) | An objective of this method - to return description of error if an attempt to embed font was failed. |
 | [isEmbedded()](#isEmbedded--) | Gets a value that indicates whether the font is embedded. |
-| [isSubset()](#isSubset--) | Gets a value that indicates whether the font is a subset. |
-| [measureString(String str, float fontSize)](#measureString-java.lang.String-float-) | Measures the string. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [save(OutputStream stream)](#save-java.io.OutputStream-) | Saves the font into the stream. |
 | [setEmbedded(boolean value)](#setEmbedded-boolean-) | Sets a value that indicates whether the font is embedded. |
+| [isSubset()](#isSubset--) | Gets a value that indicates whether the font is a subset. |
 | [setSubset(boolean value)](#setSubset-boolean-) | Sets a value that indicates whether the font is a subset. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### doesFontContainAllCharacters(String value) {#doesFontContainAllCharacters-java.lang.String-}
+| [isAccessible()](#isAccessible--) | Gets indicating whether the font is present (installed) in the system. |
+| [getFontOptions()](#getFontOptions--) | Useful properties to tune Font behavior |
+| [getIPdfFont()](#getIPdfFont--) | Pdf font object. |
+| [getIFont()](#getIFont--) | System font object. |
+| [save(OutputStream stream)](#save-java.io.OutputStream-) | Saves the font into the stream. |
+| [measureString(String str, float fontSize)](#measureString-java.lang.String-float-) | Measures the string. |
+| [doesFontContainAllCharacters(String value)](#doesFontContainAllCharacters-java.lang.String-) | Determines if the font contains specified chars |
+### getType() {#getType--}
 ```
-public boolean doesFontContainAllCharacters(String value)
+public String getType()
 ```
 
 
-Determines if the font contains specified chars
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
+The font's type Name
 
 **Returns:**
-boolean - true if all the characters from text are present in the current font.
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getBaseFont() {#getBaseFont--}
-```
-public final String getBaseFont()
-```
-
-
-Gets BaseFont value of PDF font object. Also known as PostScript name of the font.
-
-**Returns:**
-java.lang.String - String value
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getDecodedFontName() {#getDecodedFontName--}
-```
-public String getDecodedFontName()
-```
-
-
-Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificical font name. This name is value of PDF font property "BaseFont" and sometimes this property could be represented in hexademical form. If read this name directly it could be represented in non-readable form. To get readable form it's necessary to decode font's name by rules specifical for this font. This property returns decoded font name, so use it for cases when you meet with a non-readable  FontName . If property  FontName  has readable form this property will be the same as  FontName , so you can use this property for any cases when you need to get font name in a readable form.
-
-**Returns:**
-java.lang.String - String value
+java.lang.String - String object
 ### getFontName() {#getFontName--}
 ```
 public String getFontName()
@@ -158,44 +99,26 @@ The example demonstrates how to search text on first page and view font name of 
   // View font name of first text occurrence
   System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getFontName());
 ```
-### getFontOptions() {#getFontOptions--}
+### getDecodedFontName() {#getDecodedFontName--}
 ```
-public IFontOptions getFontOptions()
+public String getDecodedFontName()
 ```
 
 
-Useful properties to tune Font behavior
+Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificical font name. This name is value of PDF font property "BaseFont" and sometimes this property could be represented in hexademical form. If read this name directly it could be represented in non-readable form. To get readable form it's necessary to decode font's name by rules specifical for this font. This property returns decoded font name, so use it for cases when you meet with a non-readable  FontName . If property  FontName  has readable form this property will be the same as  FontName , so you can use this property for any cases when you need to get font name in a readable form.
 
 **Returns:**
-[IFontOptions](../../com.aspose.pdf/ifontoptions) - IFontOptions object
-### getIFont() {#getIFont--}
+java.lang.String - String value
+### getBaseFont() {#getBaseFont--}
 ```
-public IFont getIFont()
+public final String getBaseFont()
 ```
 
 
-System font object.
-
---------------------
-
-For internal usage only
+Gets BaseFont value of PDF font object. Also known as PostScript name of the font.
 
 **Returns:**
-[IFont](../../com.aspose.font/ifont) - IFont object
-### getIPdfFont() {#getIPdfFont--}
-```
-public IPdfFont getIPdfFont()
-```
-
-
-Pdf font object.
-
---------------------
-
-For internal usage only
-
-**Returns:**
-[IPdfFont](../../com.aspose.pdf.engine.commondata.text.fonts/ipdffont) - IPdfFont object
+java.lang.String - String value
 ### getLastFontEmbeddingError() {#getLastFontEmbeddingError--}
 ```
 public String getLastFontEmbeddingError()
@@ -206,26 +129,90 @@ An objective of this method - to return description of error if an attempt to em
 
 **Returns:**
 java.lang.String - Error description
-### getType() {#getType--}
+### isEmbedded() {#isEmbedded--}
 ```
-public String getType()
+public boolean isEmbedded()
 ```
 
 
-The font's type Name
+Gets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded
+
+--------------------
+
+```
+The following example demonstrates how to find a font, mark it as embedded, search text on the document's page and replace the text font.
+ 
+	      // Create font and mark it to be embedded
+	      com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Arial");
+	      font.isEmbedded ( true);
+	      // open document
+	      com.aspose.pdf.Document doc = new com.aspose.pdf.Document("D:\\Tests\\input.pdf");
+	      // create TextFragmentAbsorber object to find all "hello world" text occurrences
+	      com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber("hello world");
+	      // accept the absorber for first page
+	      doc.getPages().get_Item(1).accept(absorber);
+	      // change font for the first text occurrence
+	      absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
+	      // save document
+	      doc.save("D:\\Tests\\output.pdf");
+```
 
 **Returns:**
-java.lang.String - String object
-### hashCode() {#hashCode--}
+boolean - boolean value
+### setEmbedded(boolean value) {#setEmbedded-boolean-}
 ```
-public native int hashCode()
+public void setEmbedded(boolean value)
 ```
 
 
+Sets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded
 
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
+### isSubset() {#isSubset--}
+```
+public boolean isSubset()
+```
+
+
+Gets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded
+
+--------------------
+
+```
+The example demonstrates how to search text on first page and get the value that indicates whether the font is a subset.
+  
+	       // Open document
+	       Document doc = new Document("D:\\Tests\\input.pdf");
+	       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+	       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+	       
+	       // Accept the absorber for first page
+	       doc.getPages().get_Item(1).accept(absorber);
+	       
+	       // View font's IsSubset value of first text occurrence
+	       if(absorber.TextFragments[1].TextState.Font.IsSubset)
+	          System.out.println("the font is a subset");
+```
 
 **Returns:**
-int
+boolean - boolean value
+### setSubset(boolean value) {#setSubset-boolean-}
+```
+public void setSubset(boolean value)
+```
+
+
+Sets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
 ### isAccessible() {#isAccessible--}
 ```
 public boolean isAccessible()
@@ -259,64 +246,57 @@ The example demonstrates how to search text on first page and get the value that
 --------------------
 
 Some operations are not available with fonts that could not be found in the system.
-### isEmbedded() {#isEmbedded--}
+### getFontOptions() {#getFontOptions--}
 ```
-public boolean isEmbedded()
+public IFontOptions getFontOptions()
 ```
 
 
-Gets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded
+Useful properties to tune Font behavior
+
+**Returns:**
+[IFontOptions](../../com.aspose.pdf/ifontoptions) - IFontOptions object
+### getIPdfFont() {#getIPdfFont--}
+```
+public IPdfFont getIPdfFont()
+```
+
+
+Pdf font object.
 
 --------------------
 
-```
-The following example demonstrates how to find a font, mark it as embedded, search text on the document's page and replace the text font.
- 
-	      // Create font and mark it to be embedded
-	      com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Arial");
-	      font.isEmbedded ( true);
-	      // open document
-	      com.aspose.pdf.Document doc = new com.aspose.pdf.Document("D:\\Tests\\input.pdf");
-	      // create TextFragmentAbsorber object to find all "hello world" text occurrences
-	      com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber("hello world");
-	      // accept the absorber for first page
-	      doc.getPages().get_Item(1).accept(absorber);
-	      // change font for the first text occurrence
-	      absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-	      // save document
-	      doc.save("D:\\Tests\\output.pdf");
-```
+For internal usage only
 
 **Returns:**
-boolean - boolean value
-### isSubset() {#isSubset--}
+[IPdfFont](../../com.aspose.pdf.engine.commondata.text.fonts/ipdffont) - IPdfFont object
+### getIFont() {#getIFont--}
 ```
-public boolean isSubset()
+public IFont getIFont()
 ```
 
 
-Gets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded
+System font object.
 
 --------------------
 
-```
-The example demonstrates how to search text on first page and get the value that indicates whether the font is a subset.
-  
-	       // Open document
-	       Document doc = new Document("D:\\Tests\\input.pdf");
-	       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-	       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-	       
-	       // Accept the absorber for first page
-	       doc.getPages().get_Item(1).accept(absorber);
-	       
-	       // View font's IsSubset value of first text occurrence
-	       if(absorber.TextFragments[1].TextState.Font.IsSubset)
-	          System.out.println("the font is a subset");
-```
+For internal usage only
 
 **Returns:**
-boolean - boolean value
+[IFont](../../com.aspose.font/ifont) - IFont object
+### save(OutputStream stream) {#save-java.io.OutputStream-}
+```
+public void save(OutputStream stream)
+```
+
+
+Saves the font into the stream. Note that the font is saved to intermediate TTF format intended to be used in a converted copy of the original document only. The font file is not intended to be used outside the original document context.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.OutputStream | OutputStream to save the font. |
+
 ### measureString(String str, float fontSize) {#measureString-java.lang.String-float-}
 ```
 public double measureString(String str, float fontSize)
@@ -333,103 +313,18 @@ Measures the string.
 
 **Returns:**
 double - Width of the string represented with this font and the specified size.
-### notify() {#notify--}
+### doesFontContainAllCharacters(String value) {#doesFontContainAllCharacters-java.lang.String-}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public boolean doesFontContainAllCharacters(String value)
 ```
 
 
-
-
-### save(OutputStream stream) {#save-java.io.OutputStream-}
-```
-public void save(OutputStream stream)
-```
-
-
-Saves the font into the stream. Note that the font is saved to intermediate TTF format intended to be used in a converted copy of the original document only. The font file is not intended to be used outside the original document context.
+Determines if the font contains specified chars
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | java.io.OutputStream | OutputStream to save the font. |
-
-### setEmbedded(boolean value) {#setEmbedded-boolean-}
-```
-public void setEmbedded(boolean value)
-```
-
-
-Sets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setSubset(boolean value) {#setSubset-boolean-}
-```
-public void setSubset(boolean value)
-```
-
-
-Sets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
+| value | java.lang.String | String value |
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-
+boolean - true if all the characters from text are present in the current font.

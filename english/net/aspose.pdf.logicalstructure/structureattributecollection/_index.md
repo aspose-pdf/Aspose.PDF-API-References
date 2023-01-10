@@ -3,7 +3,7 @@ title: StructureAttributeCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Represents collection of attributes of structure elements.
 type: docs
-weight: 4520
+weight: 4530
 url: /net/aspose.pdf.logicalstructure/structureattributecollection/
 ---
 ## StructureAttributeCollection class

@@ -19,9 +19,9 @@ public enum ColorDepth
 | Name | Value | Description |
 | --- | --- | --- |
 | Default | `0` | Default color depth. 32 bit depth is used by default. |
-| Format8bpp | `1` | 8 bits per pixel. Equal Format8bppIndexed |
-| Format4bpp | `2` | 4 bits per pixel. Equal Format4bppIndexed |
-| Format1bpp | `3` | 1 bit per pixel. Equal Format32bppRgb |
+| Format8bpp | `1` | 8 bits per pixel. Equal !:PixelFormat.Format8bppIndexed |
+| Format4bpp | `2` | 4 bits per pixel. Equal !:PixelFormat.Format4bppIndexed |
+| Format1bpp | `3` | 1 bit per pixel. Equal !:PixelFormat.Format32bppRgb |
 
 ### See Also
 

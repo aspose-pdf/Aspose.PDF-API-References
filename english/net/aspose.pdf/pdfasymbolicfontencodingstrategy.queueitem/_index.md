@@ -3,7 +3,7 @@ title: PdfASymbolicFontEncodingStrategy.QueueItem
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies encoding subtable. Each encoding subtable has unique combination of parameters PlatformID PlatformSpecificId. Enumeration CMapEncodingTableType./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype and property CMapEncodingTable./pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable were implemented to make easier set of encoding subtable needed.
 type: docs
-weight: 6000
+weight: 6010
 url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem class

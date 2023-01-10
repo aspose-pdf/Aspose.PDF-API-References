@@ -3,7 +3,7 @@ title: HideAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a hide action that hides or shows one or more annotations on the screen by setting or clearing their Hidden flags.
 type: docs
-weight: 152
+weight: 153
 url: /java/com.aspose.pdf/hideaction/
 ---
 **Inheritance:**
@@ -29,18 +29,8 @@ Represents a hide action that hides or shows one or more annotations on the scre
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getNext()](#getNext--) | Next actions in sequence. |
-| [hashCode()](#hashCode--) |  |
 | [isHidden()](#isHidden--) | Gets or sets status of the annotation(s) to hide/display. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
 | [setHidden(boolean value)](#setHidden-boolean-) | Gets or sets status of the annotation(s) to hide/display. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### HideAction(Annotation annotation) {#HideAction-com.aspose.pdf.Annotation-}
 ```
 public HideAction(Annotation annotation)
@@ -149,51 +139,6 @@ Initializes a new instance of the  HideAction  class for the specified field nam
 | names | java.lang.String[] | An array of strings giving the fully qualified field names of an interactive form fields. |
 | isHidden | boolean | A flag indicating whether to hide the fields (true) or show it (false). |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getNext() {#getNext--}
-```
-public ActionCollection getNext()
-```
-
-
-Next actions in sequence.
-
-**Returns:**
-[ActionCollection](../../com.aspose.pdf/actioncollection) - ActionCollection object
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
 ### isHidden() {#isHidden--}
 ```
 public boolean isHidden()
@@ -204,22 +149,6 @@ Gets or sets status of the annotation(s) to hide/display.
 
 **Returns:**
 boolean - boolean value
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
 ### setHidden(boolean value) {#setHidden-boolean-}
 ```
 public void setHidden(boolean value)
@@ -232,49 +161,4 @@ Gets or sets status of the annotation(s) to hide/display.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | boolean value |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
 

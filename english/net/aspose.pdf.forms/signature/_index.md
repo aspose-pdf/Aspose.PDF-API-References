@@ -3,7 +3,7 @@ title: Signature
 second_title: Aspose.PDF for .NET API Reference
 description: An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects the last contain data which is used to verify the document validity.
 type: docs
-weight: 3210
+weight: 3220
 url: /net/aspose.pdf.forms/signature/
 ---
 ## Signature class

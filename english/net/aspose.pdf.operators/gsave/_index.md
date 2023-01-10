@@ -3,7 +3,7 @@ title: GSave
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing q operator save graphics state.
 type: docs
-weight: 5200
+weight: 5210
 url: /net/aspose.pdf.operators/gsave/
 ---
 ## GSave class

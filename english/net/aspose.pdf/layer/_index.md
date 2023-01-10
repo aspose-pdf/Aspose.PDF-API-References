@@ -3,7 +3,7 @@ title: Layer
 second_title: Aspose.PDF for .NET API Reference
 description: Represents page layer.
 type: docs
-weight: 3920
+weight: 3930
 url: /net/aspose.pdf/layer/
 ---
 ## Layer class

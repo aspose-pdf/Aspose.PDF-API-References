@@ -3,7 +3,7 @@ title: CurveTo
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing c operator append curve to path.
 type: docs
-weight: 5030
+weight: 5040
 url: /net/aspose.pdf.operators/curveto/
 ---
 ## CurveTo class

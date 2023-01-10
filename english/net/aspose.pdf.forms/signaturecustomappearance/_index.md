@@ -3,7 +3,7 @@ title: SignatureCustomAppearance
 second_title: Aspose.PDF for .NET API Reference
 description: An abstract class which represents signature custon appearance object.
 type: docs
-weight: 3220
+weight: 3230
 url: /net/aspose.pdf.forms/signaturecustomappearance/
 ---
 ## SignatureCustomAppearance class

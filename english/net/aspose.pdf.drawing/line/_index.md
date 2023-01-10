@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.PDF for .NET API Reference
 description: Represents line.
 type: docs
-weight: 2010
+weight: 2020
 url: /net/aspose.pdf.drawing/line/
 ---
 ## Line class

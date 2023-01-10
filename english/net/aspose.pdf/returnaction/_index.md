@@ -3,7 +3,7 @@ title: ReturnAction
 second_title: Aspose.PDF for .NET API Reference
 description: Enum represented a program workflow action in case of invoking the Warning./iwarningcallback/warning method.
 type: docs
-weight: 6230
+weight: 6240
 url: /net/aspose.pdf/returnaction/
 ---
 ## ReturnAction enumeration

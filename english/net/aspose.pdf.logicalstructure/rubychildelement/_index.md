@@ -3,7 +3,7 @@ title: RubyChildElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for children elements of the Ruby in logical structure.
 type: docs
-weight: 4430
+weight: 4440
 url: /net/aspose.pdf.logicalstructure/rubychildelement/
 ---
 ## RubyChildElement class

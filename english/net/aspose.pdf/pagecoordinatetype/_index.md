@@ -3,7 +3,7 @@ title: PageCoordinateType
 second_title: Aspose.PDF for .NET API Reference
 description: Describes page coordinate type.
 type: docs
-weight: 5840
+weight: 5850
 url: /net/aspose.pdf/pagecoordinatetype/
 ---
 ## PageCoordinateType enumeration

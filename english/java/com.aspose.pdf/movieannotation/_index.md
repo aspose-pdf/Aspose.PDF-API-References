@@ -3,7 +3,7 @@ title: MovieAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen and through the speakers.
 type: docs
-weight: 224
+weight: 225
 url: /java/com.aspose.pdf/movieannotation/
 ---
 **Inheritance:**
@@ -26,94 +26,18 @@ Represents a movie annotation that contains animated graphics and sound to be pr
 
 | Method | Description |
 | --- | --- |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor object to process the annotation. |
-| [changeAfterResize(Matrix transform)](#changeAfterResize-com.aspose.pdf.Matrix-) | Update parameters and appearance, according to the matrix transform. |
-| [createAnnotation(IPdfObject annotEngineObj, Page page)](#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-) | For internal usage only |
-| [deepClone()](#deepClone--) | Clones this instance. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [flatten()](#flatten--) | Places annotation contents directly on the page, annotation object will be removed. |
-| [getActiveState()](#getActiveState--) | Gets current annotation appearance state. |
-| [getAlignment()](#getAlignment--) | Annotation alignment. |
-| [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
-| [getAppearance()](#getAppearance--) | Gets appearance dictionary of the annotation. |
-| [getAspect()](#getAspect--) | Gets or sets the width and height of the movie\\ufffds bounding box, in pixels. |
-| [getBorder()](#getBorder--) | Gets annotation border characteristics. |
-| [getCharacteristics()](#getCharacteristics--) | Gets annotation characteristics. |
-| [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) | Gets annotation color. |
-| [getContents()](#getContents--) | Gets annotation text. |
-| [getEngineDict()](#getEngineDict--) | Internal only |
-| [getEngineObj()](#getEngineObj--) | For Internal usage only |
-| [getFile()](#getFile--) | Gets a file specification identifying a self-describing movie file. |
-| [getFlags()](#getFlags--) | Get flags of the annotation. |
-| [getFullName()](#getFullName--) | Gets full qualified name of the annotation. |
-| [getHeight()](#getHeight--) | Gets height of the annotation. |
-| [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets a horizontal alignment of paragraph |
-| [getHorizontalAlignment_Annotation_New()](#getHorizontalAlignment-Annotation-New--) | Gets or sets text alignment for annotation. |
-| [getHyperlink()](#getHyperlink--) | Gets the fragment hyperlink(for pdf generator). |
-| [getMargin()](#getMargin--) | Gets a outer margin for paragraph (for pdf generation) |
-| [getModified()](#getModified--) | Gets date and time when annotation was recently modified. |
-| [getModifiedInternal()](#getModifiedInternal--) | Gets date and time when annotation was recently modified. |
-| [getName()](#getName--) | Gets annotation name on the page. |
-| [getNormalAppearance()](#getNormalAppearance--) | Gets normal appearance. |
-| [getPage()](#getPage--) | Gets the page object with which this annotation is associated. |
-| [getPageIndex()](#getPageIndex--) | Gets index of page which contains annotation. |
-| [getPageIndex(Annotation annotation)](#getPageIndex-com.aspose.pdf.Annotation-) | Gets index of page which contains annotation. |
-| [getPdfActions()](#getPdfActions--) | Gets list of annotation actions. |
-| [getPoster()](#getPoster--) | Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. |
-| [getRect()](#getRect--) | Gets annotation rectangle. |
-| [getRectangle(boolean considerRotation)](#getRectangle-boolean-) | Returns rectangle of annotation taking into consideration page rotation. |
-| [getRotate()](#getRotate--) | Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. |
-| [getStates()](#getStates--) | Gets appearance dictionary of annotation. |
-| [getTextHorizontalAlignment()](#getTextHorizontalAlignment--) | Gets text alignment for annotation. |
 | [getTitle()](#getTitle--) | Gets the title of the movie annotation. |
-| [getVerticalAlignment()](#getVerticalAlignment--) | Gets a vertical alignment of paragraph |
-| [getWidth()](#getWidth--) | Gets width of the annotation. |
-| [getZIndex()](#getZIndex--) | Gets an int value that indicates the Z-order of the graph. |
-| [hashCode()](#hashCode--) |  |
-| [initialize(IDocument doc)](#initialize-com.aspose.pdf.IDocument-) | Instance initialization |
-| [isFirstParagraphInColumn()](#isFirstParagraphInColumn--) | Gets or sets a bool value that indicates whether this paragraph will be at next column. |
-| [isInLineParagraph()](#isInLineParagraph--) | Gets a paragraph is inline. |
-| [isInNewPage()](#isInNewPage--) | Gets a bool value that force this paragraph generates at new page. |
-| [isKeptWithNext()](#isKeptWithNext--) | Gets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. |
-| [isUpdateAppearanceOnConvert()](#isUpdateAppearanceOnConvert--) | If true, annotation appearance will be updated before converting PF document into image. |
-| [isUseFontSubset()](#isUseFontSubset--) | If this property set to true, fonts will be added to document as subsets. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setActiveState(String value)](#setActiveState-java.lang.String-) | Sets current annotation appearance state. |
-| [setAlignment(int value)](#setAlignment-int-) | Annotation alignment. |
-| [setAspect(Point value)](#setAspect-com.aspose.pdf.Point-) | Gets or sets the width and height of the movie\\ufffds bounding box, in pixels. |
-| [setBorder(Border value)](#setBorder-com.aspose.pdf.Border-) | Sets annotation border characteristics. |
-| [setColor(Color value)](#setColor-com.aspose.pdf.Color-) | Sets annotation color. |
-| [setContents(String value)](#setContents-java.lang.String-) | Sets annotation text. |
-| [setFile(FileSpecification value)](#setFile-com.aspose.pdf.FileSpecification-) | Sets a file specification identifying a self-describing movie file. |
-| [setFirstParagraphInColumn(boolean value)](#setFirstParagraphInColumn-boolean-) | Gets or sets a bool value that indicates whether this paragraph will be at next column. |
-| [setFlags(int value)](#setFlags-int-) | Set flags of the annotation. |
-| [setHeight(double value)](#setHeight-double-) | Sets height of the annotation. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets a horizontal alignment of paragraph |
-| [setHorizontalAlignment_Annotation_New(int value)](#setHorizontalAlignment-Annotation-New-int-) | Gets or sets text alignment for annotation. |
-| [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | Sets hyperlink(for pdf generator). |
-| [setInLineParagraph(boolean value)](#setInLineParagraph-boolean-) | Sets a paragraph is inline. |
-| [setInNewPage(boolean value)](#setInNewPage-boolean-) | Sets a boolean value that force this paragraph generates at new page. |
-| [setKeptWithNext(boolean value)](#setKeptWithNext-boolean-) | Sets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | Sets a outer margin for paragraph (for pdf generation) |
-| [setModified(Date value)](#setModified-java.util.Date-) | Sets date and time when annotation was recently modified. |
-| [setModifiedInternal(System.DateTime value)](#setModifiedInternal-com.aspose.ms.System.DateTime-) | Sets date and time when annotation was recently modified. |
-| [setName(String value)](#setName-java.lang.String-) | Sets annotation name on the page. |
-| [setPoster(boolean value)](#setPoster-boolean-) | Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. |
-| [setRect(Rectangle value)](#setRect-com.aspose.pdf.Rectangle-) | Sets annotation rectangle. |
-| [setRotate(int value)](#setRotate-int-) | Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. |
-| [setTextHorizontalAlignment(int value)](#setTextHorizontalAlignment-int-) | Sets text alignmennt for annotation. |
 | [setTitle(String value)](#setTitle-java.lang.String-) | Sets the title of the movie annotation. |
-| [setUpdateAppearanceOnConvert(boolean value)](#setUpdateAppearanceOnConvert-boolean-) | If true, annotation appearance will be updated before converting PF document into image. |
-| [setUseFontSubset(boolean value)](#setUseFontSubset-boolean-) | If this property set to true, fonts will be added to document as subsets. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets a vertical alignment of paragraph |
-| [setWidth(double value)](#setWidth-double-) | Sets width of the annotation. |
-| [setZIndex(int value)](#setZIndex-int-) | Sets a int value that indicates the Z-order of the graph. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getFile()](#getFile--) | Gets a file specification identifying a self-describing movie file. |
+| [setFile(FileSpecification value)](#setFile-com.aspose.pdf.FileSpecification-) | Sets a file specification identifying a self-describing movie file. |
+| [getPoster()](#getPoster--) | Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. |
+| [setPoster(boolean value)](#setPoster-boolean-) | Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. |
+| [getAspect()](#getAspect--) | Gets or sets the width and height of the movie\\ufffds bounding box, in pixels. |
+| [setAspect(Point value)](#setAspect-com.aspose.pdf.Point-) | Gets or sets the width and height of the movie\\ufffds bounding box, in pixels. |
+| [getRotate()](#getRotate--) | Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. |
+| [setRotate(int value)](#setRotate-int-) | Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. |
+| [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
+| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor object to process the annotation. |
 ### MovieAnnotation(IDocument document, String movieFile) {#MovieAnnotation-com.aspose.pdf.IDocument-java.lang.String-}
 ```
 public MovieAnnotation(IDocument document, String movieFile)
@@ -143,433 +67,6 @@ Creates new Sound annotation on the specified page.
 | rect | [Rectangle](../../com.aspose.pdf/rectangle) | The annotation rectangle, defining the location of the annotation on the page. |
 | movieFile | java.lang.String | A movie file to be played when the annotation is activated. |
 
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
-```
-public void accept(AnnotationSelector visitor)
-```
-
-
-Accepts visitor object to process the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Visitor object. |
-
-### changeAfterResize(Matrix transform) {#changeAfterResize-com.aspose.pdf.Matrix-}
-```
-public void changeAfterResize(Matrix transform)
-```
-
-
-Update parameters and appearance, according to the matrix transform.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| transform | [Matrix](../../com.aspose.pdf/matrix) | Matrix that use for transformation (resize). |
-
-### createAnnotation(IPdfObject annotEngineObj, Page page) {#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-}
-```
-public static Annotation createAnnotation(IPdfObject annotEngineObj, Page page)
-```
-
-
-For internal usage only
-
-Initializes annotation from PDF object which describes the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotEngineObj | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) | PDF object describing annotation |
-| page | [Page](../../com.aspose.pdf/page) | Page object |
-
-**Returns:**
-[Annotation](../../com.aspose.pdf/annotation) - Created annotation object of appropriate type
-### deepClone() {#deepClone--}
-```
-public Object deepClone()
-```
-
-
-Clones this instance. Virtual method. Always return null.
-
-**Returns:**
-java.lang.Object - Null
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
-### flatten() {#flatten--}
-```
-public void flatten()
-```
-
-
-Places annotation contents directly on the page, annotation object will be removed.
-
-### getActiveState() {#getActiveState--}
-```
-public String getActiveState()
-```
-
-
-Gets current annotation appearance state.
-
-**Returns:**
-java.lang.String - String value
-### getAlignment() {#getAlignment--}
-```
-public int getAlignment()
-```
-
-
-Annotation alignment. This property is obsolete. Use getHorizontalAlignment\_Annotation\_New instead.
-
-**Returns:**
-int - TextAlignment element
-### getAnnotationType() {#getAnnotationType--}
-```
-public int getAnnotationType()
-```
-
-
-Gets type of annotation.
-
-**Returns:**
-int - AnnotationType element as int value
-### getAppearance() {#getAppearance--}
-```
-public AppearanceDictionary getAppearance()
-```
-
-
-Gets appearance dictionary of the annotation.
-
-**Returns:**
-[AppearanceDictionary](../../com.aspose.pdf/appearancedictionary) - AppearanceDictionary object
-### getAspect() {#getAspect--}
-```
-public final Point getAspect()
-```
-
-
-Gets or sets the width and height of the movie\\ufffds bounding box, in pixels.
-
-**Returns:**
-[Point](../../com.aspose.pdf/point) - Point instance
-### getBorder() {#getBorder--}
-```
-public Border getBorder()
-```
-
-
-Gets annotation border characteristics.  Border 
-
-**Returns:**
-[Border](../../com.aspose.pdf/border) - Border object
-### getCharacteristics() {#getCharacteristics--}
-```
-public Characteristics getCharacteristics()
-```
-
-
-Gets annotation characteristics.
-
-**Returns:**
-[Characteristics](../../com.aspose.pdf/characteristics) - Characteristics object
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
-### getColor() {#getColor--}
-```
-public Color getColor()
-```
-
-
-Gets annotation color.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color object
-### getContents() {#getContents--}
-```
-public String getContents()
-```
-
-
-Gets annotation text.
-
-**Returns:**
-java.lang.String - String value
-### getEngineDict() {#getEngineDict--}
-```
-public IPdfDictionary getEngineDict()
-```
-
-
-Internal only
-
-**Returns:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary object
-### getEngineObj() {#getEngineObj--}
-```
-public IPdfObject getEngineObj()
-```
-
-
-For Internal usage only
-
-**Returns:**
-[IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) - Internal onject
-### getFile() {#getFile--}
-```
-public FileSpecification getFile()
-```
-
-
-Gets a file specification identifying a self-describing movie file.
-
-**Returns:**
-[FileSpecification](../../com.aspose.pdf/filespecification) - FileSpecification value
-### getFlags() {#getFlags--}
-```
-public int getFlags()
-```
-
-
-Get flags of the annotation.
-
-**Returns:**
-int - Flags of the annotation
-### getFullName() {#getFullName--}
-```
-public String getFullName()
-```
-
-
-Gets full qualified name of the annotation.
-
-**Returns:**
-java.lang.String - String value
-### getHeight() {#getHeight--}
-```
-public double getHeight()
-```
-
-
-Gets height of the annotation.
-
-**Returns:**
-double - height of the annotation
-### getHorizontalAlignment() {#getHorizontalAlignment--}
-```
-public int getHorizontalAlignment()
-```
-
-
-Gets a horizontal alignment of paragraph
-
-**Returns:**
-int - HorizontalAlignment value
-### getHorizontalAlignment_Annotation_New() {#getHorizontalAlignment-Annotation-New--}
-```
-public final int getHorizontalAlignment_Annotation_New()
-```
-
-
-Gets or sets text alignment for annotation.
-
-**Returns:**
-int - text alignment for annotation.
-### getHyperlink() {#getHyperlink--}
-```
-public Hyperlink getHyperlink()
-```
-
-
-Gets the fragment hyperlink(for pdf generator).
-
-**Returns:**
-[Hyperlink](../../com.aspose.pdf/hyperlink) - the fragment hyperlink(for pdf generator).
-### getMargin() {#getMargin--}
-```
-public MarginInfo getMargin()
-```
-
-
-Gets a outer margin for paragraph (for pdf generation)
-
-**Returns:**
-[MarginInfo](../../com.aspose.pdf/margininfo) - MarginInfo value
-### getModified() {#getModified--}
-```
-public Date getModified()
-```
-
-
-Gets date and time when annotation was recently modified.
-
-**Returns:**
-[Date](../../java.util/date) - date and time when annotation was recently modified.
-### getModifiedInternal() {#getModifiedInternal--}
-```
-public System.DateTime getModifiedInternal()
-```
-
-
-Gets date and time when annotation was recently modified.
-
-**Returns:**
-com.aspose.ms.System.DateTime - DateTime object
-### getName() {#getName--}
-```
-public String getName()
-```
-
-
-Gets annotation name on the page.
-
-**Returns:**
-java.lang.String - String value
-### getNormalAppearance() {#getNormalAppearance--}
-```
-public XForm getNormalAppearance()
-```
-
-
-Gets normal appearance.
-
-**Returns:**
-[XForm](../../com.aspose.pdf/xform) - XForm object
-### getPage() {#getPage--}
-```
-public Page getPage()
-```
-
-
-Gets the page object with which this annotation is associated.
-
-**Returns:**
-[Page](../../com.aspose.pdf/page) - Page object
-### getPageIndex() {#getPageIndex--}
-```
-public int getPageIndex()
-```
-
-
-Gets index of page which contains annotation.
-
-**Returns:**
-int - int value
-### getPageIndex(Annotation annotation) {#getPageIndex-com.aspose.pdf.Annotation-}
-```
-public int getPageIndex(Annotation annotation)
-```
-
-
-Gets index of page which contains annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation object |
-
-**Returns:**
-int - int value
-### getPdfActions() {#getPdfActions--}
-```
-public PdfActionCollection getPdfActions()
-```
-
-
-Gets list of annotation actions.
-
-**Returns:**
-[PdfActionCollection](../../com.aspose.pdf/pdfactioncollection) - PdfActionCollection instance
-### getPoster() {#getPoster--}
-```
-public final boolean getPoster()
-```
-
-
-Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retrieved from the movie file; if it is false, no poster shall be displayed.
-
-**Returns:**
-boolean - boolean value
-### getRect() {#getRect--}
-```
-public Rectangle getRect()
-```
-
-
-Gets annotation rectangle.
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### getRectangle(boolean considerRotation) {#getRectangle-boolean-}
-```
-public Rectangle getRectangle(boolean considerRotation)
-```
-
-
-Returns rectangle of annotation taking into consideration page rotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| considerRotation | boolean | If true, page rotation is taken into consideration. |
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### getRotate() {#getRotate--}
-```
-public final int getRotate()
-```
-
-
-Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. The value shall be a multiple of 90.
-
-**Returns:**
-int - int value
-### getStates() {#getStates--}
-```
-public AppearanceDictionary getStates()
-```
-
-
-Gets appearance dictionary of annotation.
-
-**Returns:**
-[AppearanceDictionary](../../com.aspose.pdf/appearancedictionary) - AppearanceDictionary object
-### getTextHorizontalAlignment() {#getTextHorizontalAlignment--}
-```
-public int getTextHorizontalAlignment()
-```
-
-
-Gets text alignment for annotation.
-
-**Returns:**
-int - text alignment for annotation.
 ### getTitle() {#getTitle--}
 ```
 public String getTitle()
@@ -580,447 +77,6 @@ Gets the title of the movie annotation.
 
 **Returns:**
 java.lang.String - String value
-### getVerticalAlignment() {#getVerticalAlignment--}
-```
-public int getVerticalAlignment()
-```
-
-
-Gets a vertical alignment of paragraph
-
-**Returns:**
-int - VerticalAlignment element
-### getWidth() {#getWidth--}
-```
-public double getWidth()
-```
-
-
-Gets width of the annotation.
-
-**Returns:**
-double - double value, width of the annotation.
-### getZIndex() {#getZIndex--}
-```
-public int getZIndex()
-```
-
-
-Gets an int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page.
-
-**Returns:**
-int - int value
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
-### initialize(IDocument doc) {#initialize-com.aspose.pdf.IDocument-}
-```
-public void initialize(IDocument doc)
-```
-
-
-Instance initialization
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | [IDocument](../../com.aspose.pdf/idocument) | IDocument object |
-
-### isFirstParagraphInColumn() {#isFirstParagraphInColumn--}
-```
-public boolean isFirstParagraphInColumn()
-```
-
-
-Gets or sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isInLineParagraph() {#isInLineParagraph--}
-```
-public boolean isInLineParagraph()
-```
-
-
-Gets a paragraph is inline. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isInNewPage() {#isInNewPage--}
-```
-public boolean isInNewPage()
-```
-
-
-Gets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isKeptWithNext() {#isKeptWithNext--}
-```
-public boolean isKeptWithNext()
-```
-
-
-Gets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation)
-
-**Returns:**
-boolean - boolean value
-### isUpdateAppearanceOnConvert() {#isUpdateAppearanceOnConvert--}
-```
-public static synchronized boolean isUpdateAppearanceOnConvert()
-```
-
-
-If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probably demand more time.
-
-**Returns:**
-boolean - boolean value
-### isUseFontSubset() {#isUseFontSubset--}
-```
-public static synchronized boolean isUseFontSubset()
-```
-
-
-If this property set to true, fonts will be added to document as subsets. Default value is true.
-
-**Returns:**
-boolean - boolean value
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setActiveState(String value) {#setActiveState-java.lang.String-}
-```
-public void setActiveState(String value)
-```
-
-
-Sets current annotation appearance state.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### setAlignment(int value) {#setAlignment-int-}
-```
-public void setAlignment(int value)
-```
-
-
-Annotation alignment. This property is obsolete. Use getHorizontalAlignment\_Annotation\_New instead.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | TextAlignment element |
-
-### setAspect(Point value) {#setAspect-com.aspose.pdf.Point-}
-```
-public final void setAspect(Point value)
-```
-
-
-Gets or sets the width and height of the movie\\ufffds bounding box, in pixels.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Point](../../com.aspose.pdf/point) | Point instance |
-
-### setBorder(Border value) {#setBorder-com.aspose.pdf.Border-}
-```
-public void setBorder(Border value)
-```
-
-
-Sets annotation border characteristics.  Border 
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Border](../../com.aspose.pdf/border) | Border value |
-
-### setColor(Color value) {#setColor-com.aspose.pdf.Color-}
-```
-public void setColor(Color value)
-```
-
-
-Sets annotation color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color value |
-
-### setContents(String value) {#setContents-java.lang.String-}
-```
-public void setContents(String value)
-```
-
-
-Sets annotation text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### setFile(FileSpecification value) {#setFile-com.aspose.pdf.FileSpecification-}
-```
-public void setFile(FileSpecification value)
-```
-
-
-Sets a file specification identifying a self-describing movie file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [FileSpecification](../../com.aspose.pdf/filespecification) | FileSpecification object |
-
-### setFirstParagraphInColumn(boolean value) {#setFirstParagraphInColumn-boolean-}
-```
-public void setFirstParagraphInColumn(boolean value)
-```
-
-
-Gets or sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setFlags(int value) {#setFlags-int-}
-```
-public void setFlags(int value)
-```
-
-
-Set flags of the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | flags of the annotation |
-
-### setHeight(double value) {#setHeight-double-}
-```
-public void setHeight(double value)
-```
-
-
-Sets height of the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | height of the annotation |
-
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
-```
-public void setHorizontalAlignment(int value)
-```
-
-
-Sets a horizontal alignment of paragraph
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | HorizontalAlignment value |
-
-### setHorizontalAlignment_Annotation_New(int value) {#setHorizontalAlignment-Annotation-New-int-}
-```
-public final void setHorizontalAlignment_Annotation_New(int value)
-```
-
-
-Gets or sets text alignment for annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | text alignmennt for annotation. |
-
-### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
-```
-public void setHyperlink(Hyperlink value)
-```
-
-
-Sets hyperlink(for pdf generator).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Hyperlink](../../com.aspose.pdf/hyperlink) | hyperlink(for pdf generator). |
-
-### setInLineParagraph(boolean value) {#setInLineParagraph-boolean-}
-```
-public void setInLineParagraph(boolean value)
-```
-
-
-Sets a paragraph is inline. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setInNewPage(boolean value) {#setInNewPage-boolean-}
-```
-public void setInNewPage(boolean value)
-```
-
-
-Sets a boolean value that force this paragraph generates at new page. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setKeptWithNext(boolean value) {#setKeptWithNext-boolean-}
-```
-public final void setKeptWithNext(boolean value)
-```
-
-
-Sets a boolean value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public void setMargin(MarginInfo value)
-```
-
-
-Sets a outer margin for paragraph (for pdf generation)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo object |
-
-### setModified(Date value) {#setModified-java.util.Date-}
-```
-public void setModified(Date value)
-```
-
-
-Sets date and time when annotation was recently modified.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.util.Date | Date object |
-
-### setModifiedInternal(System.DateTime value) {#setModifiedInternal-com.aspose.ms.System.DateTime-}
-```
-public void setModifiedInternal(System.DateTime value)
-```
-
-
-Sets date and time when annotation was recently modified.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.ms.System.DateTime | DateTime object |
-
-### setName(String value) {#setName-java.lang.String-}
-```
-public void setName(String value)
-```
-
-
-Sets annotation name on the page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### setPoster(boolean value) {#setPoster-boolean-}
-```
-public final void setPoster(boolean value)
-```
-
-
-Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retrieved from the movie file; if it is false, no poster shall be displayed.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### setRect(Rectangle value) {#setRect-com.aspose.pdf.Rectangle-}
-```
-public void setRect(Rectangle value)
-```
-
-
-Sets annotation rectangle.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle value |
-
-### setRotate(int value) {#setRotate-int-}
-```
-public final void setRotate(int value)
-```
-
-
-Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. The value shall be a multiple of 90.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### setTextHorizontalAlignment(int value) {#setTextHorizontalAlignment-int-}
-```
-public void setTextHorizontalAlignment(int value)
-```
-
-
-Sets text alignmennt for annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | text alignmennt for annotation. |
-
 ### setTitle(String value) {#setTitle-java.lang.String-}
 ```
 public void setTitle(String value)
@@ -1034,113 +90,118 @@ Sets the title of the movie annotation.
 | --- | --- | --- |
 | value | java.lang.String | String value |
 
-### setUpdateAppearanceOnConvert(boolean value) {#setUpdateAppearanceOnConvert-boolean-}
+### getFile() {#getFile--}
 ```
-public static synchronized void setUpdateAppearanceOnConvert(boolean value)
+public FileSpecification getFile()
 ```
 
 
-If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probably demand more time.
+Gets a file specification identifying a self-describing movie file.
+
+**Returns:**
+[FileSpecification](../../com.aspose.pdf/filespecification) - FileSpecification value
+### setFile(FileSpecification value) {#setFile-com.aspose.pdf.FileSpecification-}
+```
+public void setFile(FileSpecification value)
+```
+
+
+Sets a file specification identifying a self-describing movie file.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [FileSpecification](../../com.aspose.pdf/filespecification) | FileSpecification object |
+
+### getPoster() {#getPoster--}
+```
+public final boolean getPoster()
+```
+
+
+Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retrieved from the movie file; if it is false, no poster shall be displayed.
+
+**Returns:**
+boolean - boolean value
+### setPoster(boolean value) {#setPoster-boolean-}
+```
+public final void setPoster(boolean value)
+```
+
+
+Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retrieved from the movie file; if it is false, no poster shall be displayed.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean | boolean value |
 
-### setUseFontSubset(boolean value) {#setUseFontSubset-boolean-}
+### getAspect() {#getAspect--}
 ```
-public static synchronized void setUseFontSubset(boolean value)
+public final Point getAspect()
 ```
 
 
-If this property set to true, fonts will be added to document as subsets. Default value is true.
+Gets or sets the width and height of the movie\\ufffds bounding box, in pixels.
+
+**Returns:**
+[Point](../../com.aspose.pdf/point) - Point instance
+### setAspect(Point value) {#setAspect-com.aspose.pdf.Point-}
+```
+public final void setAspect(Point value)
+```
+
+
+Gets or sets the width and height of the movie\\ufffds bounding box, in pixels.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value | [Point](../../com.aspose.pdf/point) | Point instance |
 
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+### getRotate() {#getRotate--}
 ```
-public void setVerticalAlignment(int value)
-```
-
-
-Sets a vertical alignment of paragraph
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | VerticalAlignment element |
-
-### setWidth(double value) {#setWidth-double-}
-```
-public void setWidth(double value)
+public final int getRotate()
 ```
 
 
-Sets width of the annotation.
+Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. The value shall be a multiple of 90.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | width of the annotation. |
-
-### setZIndex(int value) {#setZIndex-int-}
+**Returns:**
+int - int value
+### setRotate(int value) {#setRotate-int-}
 ```
-public void setZIndex(int value)
+public final void setRotate(int value)
 ```
 
 
-Sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page.
+Gets or sets the number of degrees by which the movie shall be rotated clockwise relative to the page. The value shall be a multiple of 90.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | int value |
 
-### toString() {#toString--}
+### getAnnotationType() {#getAnnotationType--}
 ```
-public String toString()
+public int getAnnotationType()
 ```
 
 
-
+Gets type of annotation.
 
 **Returns:**
-java.lang.String
-### wait() {#wait--}
+int - AnnotationType element as int value
+### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
+public void accept(AnnotationSelector visitor)
 ```
 
 
-
+Accepts visitor object to process the annotation.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Visitor object. |
 

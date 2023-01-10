@@ -31,14 +31,10 @@ Class representing Acro form object.
 
 | Method | Description |
 | --- | --- |
-| [bindPdf(IDocument srcDoc)](#bindPdf-com.aspose.pdf.IDocument-) | Initializes the facade. |
-| [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Initializes the facade. |
 | [bindPdf(InputStream srcStream, String password)](#bindPdf-java.io.InputStream-java.lang.String-) | Initializes the facade. |
-| [bindPdf(String srcFile)](#bindPdf-java.lang.String-) | Initializes the facade. |
 | [bindPdf(String srcFile, String password)](#bindPdf-java.lang.String-java.lang.String-) | Initializes the facade. |
 | [close()](#close--) | Closes opened files without any changes. |
 | [dispose()](#dispose--) | Closes all opened resources. |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [exportFdf(OutputStream outputFdfStream)](#exportFdf-java.io.OutputStream-) | Exports the content of the fields of the pdf into the fdf stream. |
 | [exportXfdf(OutputStream outputXfdfStream)](#exportXfdf-java.io.OutputStream-) | Exports the content of the fields of the pdf into the xml stream. |
 | [exportXml(OutputStream outputXmlStream)](#exportXml-java.io.OutputStream-) | Exports the content of the fields of the pdf into the xml stream. |
@@ -49,7 +45,6 @@ Class representing Acro form object.
 | [fillField(String fieldName, String fieldValue)](#fillField-java.lang.String-java.lang.String-) | Fills the field with a valid value according to a fully qualified field name. |
 | [fillField(String fieldName, String value, boolean fitFontSize)](#fillField-java.lang.String-java.lang.String-boolean-) | Fills field with specified value. |
 | [fillField(String fieldName, String[] fieldValues)](#fillField-java.lang.String-java.lang.String---) | Fill a field with multiple selections.Note: only for AcroForm List Box Field. |
-| [fillFields(String[] fieldNames, String[] fieldValues, OutputStream output)](#fillFields-java.lang.String---java.lang.String---java.io.OutputStream-) | Fills the text box fields with a text values and save the document. |
 | [fillImageField(String fieldName, InputStream imageStream)](#fillImageField-java.lang.String-java.io.InputStream-) | Overloads function of FillImageField. |
 | [fillImageField(String fieldName, String imageFileName)](#fillImageField-java.lang.String-java.lang.String-) | Pastes an image onto the existing button field as its appearance according to its fully qualified field name. |
 | [flattenAllFields()](#flattenAllFields--) | Flattens all the fields. |
@@ -58,11 +53,9 @@ Class representing Acro form object.
 | [getButtonOptionCurrentValue(String fieldName)](#getButtonOptionCurrentValue-java.lang.String-) | Returns the current value for radio button option fields. |
 | [getButtonOptionValues(String fieldName)](#getButtonOptionValues-java.lang.String-) | Gets the radio button option fields and related values based on the field name. |
 | [getButtonOptionValuesInternal(String fieldName)](#getButtonOptionValuesInternal-java.lang.String-) | Gets the radio button option fields and related values based on the field name. |
-| [getClass()](#getClass--) |  |
 | [getContentDisposition()](#getContentDisposition--) | Gets or sets how content will be stored when result of operation is stored into HttpResponse object. |
 | [getDestFileName()](#getDestFileName--) | Gets destination file name. |
 | [getDestStream()](#getDestStream--) | Gets or sets destination stream. |
-| [getDocument()](#getDocument--) | Gets the document facade is working on. |
 | [getField(String fieldName)](#getField-java.lang.String-) | Gets the field's value according to its field name. |
 | [getFieldFacade(String fieldName)](#getFieldFacade-java.lang.String-) | Returns FrofmFieldFacade object containing all appearance attributes. |
 | [getFieldFlag(String fieldName)](#getFieldFlag-java.lang.String-) | Returns flags of the field. |
@@ -77,15 +70,12 @@ Class representing Acro form object.
 | [getSrcFileName()](#getSrcFileName--) | Gets source file name. |
 | [getSrcStream()](#getSrcStream--) | Gets source stream. |
 | [getSubmitFlags(String fieldName)](#getSubmitFlags-java.lang.String-) | Returns the submit button's submission flags |
-| [hashCode()](#hashCode--) |  |
 | [importFdf(InputStream inputFdfStream)](#importFdf-java.io.InputStream-) | Imports the content of the fields from the fdf file and put them into the new pdf. |
 | [importXfdf(InputStream inputXfdfStream)](#importXfdf-java.io.InputStream-) | Imports the content of the fields from the xfdf(xml) file and put them into the new pdf. |
 | [importXml(InputStream inputXmlStream)](#importXml-java.io.InputStream-) | Imports the content of the fields from the xml file and put them into the new pdf. |
 | [importXml(InputStream inputXmlStream, boolean IgnoreFormTemplateChanges)](#importXml-java.io.InputStream-boolean-) | Imports the content of the fields from the xml file and put them into the new pdf. |
 | [importXml(String inputXml)](#importXml-java.lang.String-) | Imports the content of the fields from the xml file and put them into the new pdf. |
 | [isRequiredField(String fieldName)](#isRequiredField-java.lang.String-) | Determines whether field is required or not. |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
 | [renameField(String fieldName, String newFieldName)](#renameField-java.lang.String-java.lang.String-) | Renames a field. |
 | [save()](#save--) | Saves the value of the filled fields and close the opened Pdf document. |
 | [save(OutputStream destStream)](#save-java.io.OutputStream-) | Saves document into specified stream. |
@@ -99,10 +89,6 @@ Class representing Acro form object.
 | [setSrcFileName(String value)](#setSrcFileName-java.lang.String-) | Sets source file name. |
 | [setSrcStream(InputStream value)](#setSrcStream-java.io.InputStream-) | Gets source stream. |
 | [setXfaData(InputStream inputXmlStream)](#setXfaData-java.io.InputStream-) | Replaces XFA data with specified data packet. |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
 ### Form() {#Form--}
 ```
 public Form()
@@ -282,32 +268,6 @@ Form form = new Form("PdfForm.pdf", "PdfForm_Updated.pdf");
 | srcFileName | java.lang.String | Path of the source file. |
 | destFileName | java.lang.String | Path of the destination file. |
 
-### bindPdf(IDocument srcDoc) {#bindPdf-com.aspose.pdf.IDocument-}
-```
-public void bindPdf(IDocument srcDoc)
-```
-
-
-Initializes the facade.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcDoc | [IDocument](../../com.aspose.pdf/idocument) | The Document object. |
-
-### bindPdf(InputStream srcStream) {#bindPdf-java.io.InputStream-}
-```
-public void bindPdf(InputStream srcStream)
-```
-
-
-Initializes the facade.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcStream | java.io.InputStream | The stream of PDF file. |
-
 ### bindPdf(InputStream srcStream, String password) {#bindPdf-java.io.InputStream-java.lang.String-}
 ```
 public void bindPdf(InputStream srcStream, String password)
@@ -321,19 +281,6 @@ Initializes the facade.
 | --- | --- | --- |
 | srcStream | java.io.InputStream | The stream of PDF file. |
 | password | java.lang.String | The password of the PDF document. |
-
-### bindPdf(String srcFile) {#bindPdf-java.lang.String-}
-```
-public void bindPdf(String srcFile)
-```
-
-
-Initializes the facade.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcFile | java.lang.String | The PDF file. |
 
 ### bindPdf(String srcFile, String password) {#bindPdf-java.lang.String-java.lang.String-}
 ```
@@ -367,21 +314,6 @@ Closes all opened resources.
 
 This method is obsolete, use close() instead.
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**Returns:**
-boolean
 ### exportFdf(OutputStream outputFdfStream) {#exportFdf-java.io.OutputStream-}
 ```
 public void exportFdf(OutputStream outputFdfStream)
@@ -629,30 +561,6 @@ Form form = new com.aspose.pdf.Form("PdfForm.pdf", "Form_Updated.pdf");
 | fieldName | java.lang.String | The fully qualified field name. |
 | fieldValues | java.lang.String[] | A String array which contains several items to be selected. |
 
-### fillFields(String[] fieldNames, String[] fieldValues, OutputStream output) {#fillFields-java.lang.String---java.lang.String---java.io.OutputStream-}
-```
-public final boolean fillFields(String[] fieldNames, String[] fieldValues, OutputStream output)
-```
-
-
-Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice: Only be applied to Text Box. Both the fields' name and values are case sensitive.
-
---------------------
-
-```
-Form form = new Form(dataDir + "SignedPdfForm.pdf");
- form.FillFields(new string[] {"Field1"}, new string[] {"+"}, stream);
-```
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldNames | java.lang.String[] | Names of fields. |
-| fieldValues | java.lang.String[] | New values of the fields. |
-| output | java.io.OutputStream | Stream where document will be saved. |
-
-**Returns:**
-boolean - true if fields was found and successfully filled.
 ### fillImageField(String fieldName, InputStream imageStream) {#fillImageField-java.lang.String-java.io.InputStream-}
 ```
 public void fillImageField(String fieldName, InputStream imageStream)
@@ -811,16 +719,6 @@ Form form = new Form("PdfForm.pdf");
 
 **Returns:**
 [Dictionary](../../com.aspose.ms.system.collections.generic/dictionary) - Hash table of option values keyed by form item name
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**Returns:**
-java.lang.Class<?>
 ### getContentDisposition() {#getContentDisposition--}
 ```
 public int getContentDisposition()
@@ -851,16 +749,6 @@ Gets or sets destination stream.
 
 **Returns:**
 java.io.OutputStream - OutputStream object
-### getDocument() {#getDocument--}
-```
-public IDocument getDocument()
-```
-
-
-Gets the document facade is working on.
-
-**Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument element
 ### getField(String fieldName) {#getField-java.lang.String-}
 ```
 public String getField(String fieldName)
@@ -1135,16 +1023,6 @@ Form form = new Form("PdfForm.pdf");
 
 **Returns:**
 int - Submission flags of the button.
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**Returns:**
-int
 ### importFdf(InputStream inputFdfStream) {#importFdf-java.io.InputStream-}
 ```
 public void importFdf(InputStream inputFdfStream)
@@ -1261,22 +1139,6 @@ Determines whether field is required or not.
 
 **Returns:**
 boolean - True - the field is required; otherwise, false.
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
 ### renameField(String fieldName, String newFieldName) {#renameField-java.lang.String-java.lang.String-}
 ```
 public void renameField(String fieldName, String newFieldName)
@@ -1478,49 +1340,4 @@ Replaces XFA data with specified data packet. Data packet may be extracted using
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputXmlStream | java.io.InputStream | Stream where XML is stored. |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**Returns:**
-java.lang.String
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
 

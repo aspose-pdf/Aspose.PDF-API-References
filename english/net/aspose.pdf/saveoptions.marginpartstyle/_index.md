@@ -3,7 +3,7 @@ title: SaveOptions.MarginPartStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Represents information of one part of margintop botom left side or right side
 type: docs
-weight: 6350
+weight: 6360
 url: /net/aspose.pdf/saveoptions.marginpartstyle/
 ---
 ## SaveOptions.MarginPartStyle class

@@ -26,6 +26,7 @@ public void AddImage(Image image)
 
 ### See Also
 
+* class [Image](../../../aspose.pdf/image)
 * class [DateField](../../datefield)
 * namespace [Aspose.Pdf.Forms](../../datefield)
 * assembly [Aspose.PDF](../../../)

@@ -14,18 +14,8 @@ Holds functionality to tune fonts
 
 | Method | Description |
 | --- | --- |
-| [getAllFonts()](#getAllFonts--) | Returns all fonts from document |
 | [subsetFonts(byte subsetStrategy)](#subsetFonts-byte-) | Subsets all fonts in document |
-### getAllFonts() {#getAllFonts--}
-```
-public abstract Font[] getAllFonts()
-```
-
-
-Returns all fonts from document
-
-**Returns:**
-com.aspose.pdf.Font[] - fonts
+| [getAllFonts()](#getAllFonts--) | Returns all fonts from document |
 ### subsetFonts(byte subsetStrategy) {#subsetFonts-byte-}
 ```
 public abstract void subsetFonts(byte subsetStrategy)
@@ -39,3 +29,13 @@ Subsets all fonts in document
 | --- | --- | --- |
 | subsetStrategy | byte | FontSubsetStrategy element |
 
+### getAllFonts() {#getAllFonts--}
+```
+public abstract Font[] getAllFonts()
+```
+
+
+Returns all fonts from document
+
+**Returns:**
+com.aspose.pdf.Font[] - fonts

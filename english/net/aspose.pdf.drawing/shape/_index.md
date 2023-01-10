@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.PDF for .NET API Reference
 description: Represents shape - the base graphics object.
 type: docs
-weight: 2050
+weight: 2060
 url: /net/aspose.pdf.drawing/shape/
 ---
 ## Shape class

@@ -3,7 +3,7 @@ title: TextParagraph
 second_title: Aspose.PDF for .NET API Reference
 description: Represents text paragraphs as multiline text object.
 type: docs
-weight: 7160
+weight: 7170
 url: /net/aspose.pdf.text/textparagraph/
 ---
 ## TextParagraph class

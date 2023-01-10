@@ -3,7 +3,7 @@ title: HtmlMediaType
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies possible media types used during rendering.
 type: docs
-weight: 3420
+weight: 3430
 url: /net/aspose.pdf/htmlmediatype/
 ---
 ## HtmlMediaType enumeration

@@ -3,7 +3,7 @@ title: PdfFileEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Implements operations with PDF file concatenation splitting extracting pages making booklet etc.
 type: docs
-weight: 2470
+weight: 2480
 url: /net/aspose.pdf.facades/pdffileeditor/
 ---
 ## PdfFileEditor class

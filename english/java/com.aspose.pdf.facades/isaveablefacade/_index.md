@@ -17,21 +17,8 @@ Facade interface that defines methods common for all saveable facades.
 
 | Method | Description |
 | --- | --- |
-| [save(OutputStream destStream)](#save-java.io.OutputStream-) | Saves the result PDF document to stream. |
 | [save(String destFile)](#save-java.lang.String-) | Saves the result PDF document to file. |
-### save(OutputStream destStream) {#save-java.io.OutputStream-}
-```
-public abstract void save(OutputStream destStream)
-```
-
-
-Saves the result PDF document to stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destStream | java.io.OutputStream | OutputStream object |
-
+| [save(OutputStream destStream)](#save-java.io.OutputStream-) | Saves the result PDF document to stream. |
 ### save(String destFile) {#save-java.lang.String-}
 ```
 public abstract void save(String destFile)
@@ -44,4 +31,17 @@ Saves the result PDF document to file.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | destFile | java.lang.String | String object |
+
+### save(OutputStream destStream) {#save-java.io.OutputStream-}
+```
+public abstract void save(OutputStream destStream)
+```
+
+
+Saves the result PDF document to stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destStream | java.io.OutputStream | OutputStream object |
 
