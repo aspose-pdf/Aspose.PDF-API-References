@@ -75,3 +75,16 @@ These are links to some useful resources:
 
 These are links to some useful resources:
 - [Aspose.PDF for JavaScript via C++](/pdf/javascript-cpp/)
+
+## Aspose.PDF for Python via .NET
+
+{{% alert color="primary" %}}
+
+![Aspose.PDF for Python via .NET Product Logo](aspose_pdf-for-python-net.png)
+
+Aspose.PDF for Python via .NET is a native library that enables the developers to add PDF processing capabilities to their applications. It can be used to generate or read, convert and manipulate PDF files without the use of Adobe Acrobat. Aspose.PDF for Python via .NET allows to perform a range of document processing tasks such as form processing, get and set metadata information, text and page manipulation, management of annotations, add or remove bookmarks and watermarks, attachments, custom font handling and much more. 
+
+{{% /alert %}}
+
+These are links to some useful resources:
+- [Aspose.PDF for Python via .NET](/pdf/python-net/)
