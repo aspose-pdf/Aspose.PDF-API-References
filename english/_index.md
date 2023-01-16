@@ -35,21 +35,6 @@ Aspose.PDF is a Java component built to allow developers to create PDF documents
 These are links to some useful resources:
 - [Aspose.PDF for Java API Reference](/pdf/java/)
 
-
-## Aspose.PDF for Android via Java
-
-{{% alert color="primary" %}} 
-
-![Aspose.PDF for Android via Java Product Logo](aspose_pdf-for-java.png)
-
-Aspose.PDF is a Android via Java component built to allow developers to create PDF documents, whether simple or complex, on the fly programmatically. Aspose.PDF for Java allows developers to insert tables, graphs, images, hyperlinks, custom fonts - and more - into PDF documents. Moreover, it is also possible to compress PDF documents. Aspose.PDF for Android via Java provides excellent security features to develop secure PDF documents. And the most distinct feature of Aspose.PDF for Android via Java is that it supports the creation of PDF documents through both an API and from XML templates
-
-{{% /alert %}}
-
-These are links to some useful resources:
-- [Aspose.PDF for Android via Java API Reference](/pdf/androidjava/)
-
-
 ## Aspose.PDF for C++
 
 {{% alert color="primary" %}} 
