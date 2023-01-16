@@ -1,7 +1,7 @@
 ---
 title: RenderModeType
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Enum RenderModeType: set of render mode types
+description: Enum RenderModeType set of render mode types
 type: docs
 weight: 1140
 url: /python-net/aspose.pdf.annotations/rendermodetype/

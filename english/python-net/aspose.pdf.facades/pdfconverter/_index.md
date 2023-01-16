@@ -1,7 +1,7 @@
 ---
 title: PdfConverter
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now.<br/>            Supported content in pdfs: pictures, form, comment.
+description: Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now.<br/>            Supported content in pdfs pictures, form, comment.
 type: docs
 weight: 200
 url: /python-net/aspose.pdf.facades/pdfconverter/

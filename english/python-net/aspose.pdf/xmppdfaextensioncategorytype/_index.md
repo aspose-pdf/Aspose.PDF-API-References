@@ -1,7 +1,7 @@
 ---
 title: XmpPdfAExtensionCategoryType
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Property category: internal or external.
+description: Property category internal or external.
 type: docs
 weight: 6680
 url: /python-net/aspose.pdf/xmppdfaextensioncategorytype/

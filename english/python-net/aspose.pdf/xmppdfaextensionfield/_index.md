@@ -1,7 +1,7 @@
 ---
 title: XmpPdfAExtensionField
 second_title: Aspose.PDF for Python via .NET API Reference
-description: This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type <br/>            schema, but defines a field in a structure instead of a property.<br/>            Schema namespace URI: http://www.aiim.org/pdfa/ns/field#<br/>            Required schema namespace prefix: pdfaField.
+description: This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type <br/>            schema, but defines a field in a structure instead of a property.<br/>            Schema namespace URI http://www.aiim.org/pdfa/ns/field#<br/>            Required schema namespace prefix pdfaField.
 type: docs
 weight: 1730
 url: /python-net/aspose.pdf/xmppdfaextensionfield/
