@@ -1,7 +1,7 @@
 ---
 title: XmpPdfAExtensionProperty
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property#<br/>            Required schema namespace prefix: pdfaProperty
+description: Describes a single property. Schema namespace URI http://www.aiim.org/pdfa/ns/property#<br/>            Required schema namespace prefix pdfaProperty
 type: docs
 weight: 1750
 url: /python-net/aspose.pdf/xmppdfaextensionproperty/

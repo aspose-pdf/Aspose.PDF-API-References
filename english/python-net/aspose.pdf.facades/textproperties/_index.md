@@ -1,7 +1,7 @@
 ---
 title: TextProperties
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Represents text properties such as: text size, color, style etc.
+description: Represents text properties such as text size, color, style etc.
 type: docs
 weight: 430
 url: /python-net/aspose.pdf.facades/textproperties/

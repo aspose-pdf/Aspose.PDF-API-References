@@ -35,21 +35,6 @@ Aspose.PDF is a Java component built to allow developers to create PDF documents
 These are links to some useful resources:
 - [Aspose.PDF for Java API Reference](/pdf/java/)
 
-
-## Aspose.PDF for Android via Java
-
-{{% alert color="primary" %}} 
-
-![Aspose.PDF for Android via Java Product Logo](aspose_pdf-for-java.png)
-
-Aspose.PDF is a Android via Java component built to allow developers to create PDF documents, whether simple or complex, on the fly programmatically. Aspose.PDF for Java allows developers to insert tables, graphs, images, hyperlinks, custom fonts - and more - into PDF documents. Moreover, it is also possible to compress PDF documents. Aspose.PDF for Android via Java provides excellent security features to develop secure PDF documents. And the most distinct feature of Aspose.PDF for Android via Java is that it supports the creation of PDF documents through both an API and from XML templates
-
-{{% /alert %}}
-
-These are links to some useful resources:
-- [Aspose.PDF for Android via Java API Reference](/pdf/androidjava/)
-
-
 ## Aspose.PDF for C++
 
 {{% alert color="primary" %}} 
@@ -75,3 +60,16 @@ These are links to some useful resources:
 
 These are links to some useful resources:
 - [Aspose.PDF for JavaScript via C++](/pdf/javascript-cpp/)
+
+## Aspose.PDF for Python via .NET
+
+{{% alert color="primary" %}}
+
+![Aspose.PDF for Python via .NET Product Logo](aspose_pdf-for-python-net.png)
+
+Aspose.PDF for Python via .NET is a native library that enables the developers to add PDF processing capabilities to their applications. It can be used to generate or read, convert and manipulate PDF files without the use of Adobe Acrobat. Aspose.PDF for Python via .NET allows to perform a range of document processing tasks such as form processing, get and set metadata information, text and page manipulation, management of annotations, add or remove bookmarks and watermarks, attachments, custom font handling and much more. 
+
+{{% /alert %}}
+
+These are links to some useful resources:
+- [Aspose.PDF for Python via .NET](/pdf/python-net/)

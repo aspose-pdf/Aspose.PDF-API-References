@@ -1,7 +1,7 @@
 ---
 title: PDF3DActivation
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Enum PDF3DActivation: set of 3D annotation activation mode.
+description: Enum PDF3DActivation set of 3D annotation activation mode.
 type: docs
 weight: 1110
 url: /python-net/aspose.pdf.annotations/pdf3dactivation/

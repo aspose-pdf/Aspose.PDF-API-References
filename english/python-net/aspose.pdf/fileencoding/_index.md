@@ -1,7 +1,7 @@
 ---
 title: FileEncoding
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed.
+description: Encoding of the attached file. Possible values - Zip - file is compressed with ZIP, None - file is non compressed.
 type: docs
 weight: 6380
 url: /python-net/aspose.pdf/fileencoding/

@@ -1,7 +1,7 @@
 ---
 title: PdfFileEditor
 second_title: Aspose.PDF for Python via .NET API Reference
-description: Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc.
+description: Implements operations with PDF file concatenation, splitting, extracting pages, making booklet, etc.
 type: docs
 weight: 220
 url: /python-net/aspose.pdf.facades/pdffileeditor/

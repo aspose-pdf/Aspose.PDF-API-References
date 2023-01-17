@@ -1,13 +1,15 @@
 ---
 title: Aspose.PDF for Python via .NET
-second_title: Aspose.PDF for Python via .NET API Reference
 description: Aspose.PDF is a .NET component built to allow developers to create PDF documents, whether simple or complex, on the fly programmatically.
-type: docs
-weight: 10
+keywords: Python
+tags: [Python]
+weight: 50
 url: /python-net/
+type: docs
+is_root: true
 ---
-
 ## Namespaces
+
 | Namespace | Description |
 | :- | :- |
 |[aspose.pdf](/pdf/python-net/aspose.pdf/)|The aspose.pdf is a root namespace for all classes of Aspose.Pdf library which are either directly in it like Document or indirectly through several subnamespaces.|
