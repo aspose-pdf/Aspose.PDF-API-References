@@ -3,7 +3,7 @@ title: Matrix3D
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents transformation matrix.
 type: docs
-weight: 4770
+weight: 4800
 url: /net/aspose.pdf/matrix3d/
 ---
 ## Matrix3D class

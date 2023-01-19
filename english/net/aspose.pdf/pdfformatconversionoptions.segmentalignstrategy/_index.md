@@ -3,7 +3,7 @@ title: PdfFormatConversionOptions.SegmentAlignStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: Describes strategies used to align document text segments. Now only strategy to restore segments to original bounds is supported. In future another strategies could be added.
 type: docs
-weight: 6080
+weight: 6110
 url: /net/aspose.pdf/pdfformatconversionoptions.segmentalignstrategy/
 ---
 ## PdfFormatConversionOptions.SegmentAlignStrategy enumeration

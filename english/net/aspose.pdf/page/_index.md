@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 5810
+weight: 5840
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -77,6 +77,7 @@ public sealed class Page : IDisposable
 | [SendTo](../../aspose.pdf/page/sendto#sendto)(PageDevice, Stream) | Sends page to process with given page device. |
 | [SendTo](../../aspose.pdf/page/sendto#sendto_1)(PageDevice, string) | Sends page to process with given page device. |
 | [SetPageSize](../../aspose.pdf/page/setpagesize)(double, double) | Sets page size for page. |
+| [TrySaveVectorGraphics](../../aspose.pdf/page/trysavevectorgraphics)(string) | Tries to save vector graphics if they are present on the page. The save format is SVG. |
 | static [IntToRotation](../../aspose.pdf/page/inttorotation)(int) | Translates integer value into corresponding rotation enumeration member. |
 | static [RotationToInt](../../aspose.pdf/page/rotationtoint)(Rotation) | Translates rotation enumeration member into integer value. |
 

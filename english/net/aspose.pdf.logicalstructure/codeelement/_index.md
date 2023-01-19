@@ -3,7 +3,7 @@ title: CodeElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Code structure element in logical structure.
 type: docs
-weight: 4140
+weight: 4170
 url: /net/aspose.pdf.logicalstructure/codeelement/
 ---
 ## CodeElement class

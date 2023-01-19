@@ -3,7 +3,7 @@ title: DefaultMetadataProperties
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of standard XMP properties.
 type: docs
-weight: 2240
+weight: 2270
 url: /net/aspose.pdf.facades/defaultmetadataproperties/
 ---
 ## DefaultMetadataProperties enumeration

@@ -3,7 +3,7 @@ title: FitRExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Represents explicit destination that displays the page with its contents magnified just enough to fit the rectangle specified by the coordinates left bottom right and topentirely within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different use the smaller of the two centering the rectangle within the window in the other dimension. A null value for any of the parameters may result in unpredictable behavior.
 type: docs
-weight: 400
+weight: 420
 url: /net/aspose.pdf.annotations/fitrexplicitdestination/
 ---
 ## FitRExplicitDestination class

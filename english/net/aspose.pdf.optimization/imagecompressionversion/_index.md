@@ -3,7 +3,7 @@ title: ImageCompressionVersion
 second_title: Aspose.PDF for .NET API Reference
 description: Describes versions of image compression algorithm.
 type: docs
-weight: 5740
+weight: 5770
 url: /net/aspose.pdf.optimization/imagecompressionversion/
 ---
 ## ImageCompressionVersion enumeration

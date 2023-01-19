@@ -3,7 +3,7 @@ title: Margins
 second_title: Aspose.PDF for .NET API Reference
 description: This class represents margins of an image.
 type: docs
-weight: 1740
+weight: 1770
 url: /net/aspose.pdf.devices/margins/
 ---
 ## Margins class

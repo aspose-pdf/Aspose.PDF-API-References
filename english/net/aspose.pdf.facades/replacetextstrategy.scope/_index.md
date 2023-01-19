@@ -3,7 +3,7 @@ title: ReplaceTextStrategy.Scope
 second_title: Aspose.PDF for .NET API Reference
 description: Scope where replace text operation is applied REPLACE_FIRST by default
 type: docs
-weight: 2710
+weight: 2740
 url: /net/aspose.pdf.facades/replacetextstrategy.scope/
 ---
 ## ReplaceTextStrategy.Scope enumeration

@@ -3,7 +3,7 @@ title: PdfFileInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class for accessing meta information of PDF document.
 type: docs
-weight: 2540
+weight: 2570
 url: /net/aspose.pdf.facades/pdffileinfo/
 ---
 ## PdfFileInfo class

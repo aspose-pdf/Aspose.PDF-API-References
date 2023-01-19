@@ -3,7 +3,7 @@ title: Direction
 second_title: Aspose.PDF for .NET API Reference
 description: Text direction.
 type: docs
-weight: 1840
+weight: 1870
 url: /net/aspose.pdf/direction/
 ---
 ## Direction enumeration

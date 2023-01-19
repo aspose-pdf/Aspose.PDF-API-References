@@ -3,7 +3,7 @@ title: GlyphPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Class describes text and position to use with operator TJ set glyph with position
 type: docs
-weight: 5220
+weight: 5250
 url: /net/aspose.pdf.operators/glyphposition/
 ---
 ## GlyphPosition class

@@ -3,7 +3,7 @@ title: FieldType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of possible field types.
 type: docs
-weight: 2280
+weight: 2310
 url: /net/aspose.pdf.facades/fieldtype/
 ---
 ## FieldType enumeration

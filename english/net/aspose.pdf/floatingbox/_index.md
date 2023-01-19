@@ -3,7 +3,7 @@ title: FloatingBox
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 2850
+weight: 2880
 url: /net/aspose.pdf/floatingbox/
 ---
 ## FloatingBox class

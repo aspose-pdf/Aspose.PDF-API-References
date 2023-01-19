@@ -3,7 +3,7 @@ title: PolygonAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing polygon annotation.
 type: docs
-weight: 920
+weight: 940
 url: /net/aspose.pdf.annotations/polygonannotation/
 ---
 ## PolygonAnnotation class

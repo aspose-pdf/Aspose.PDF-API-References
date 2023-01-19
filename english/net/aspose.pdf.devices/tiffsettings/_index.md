@@ -3,7 +3,7 @@ title: TiffSettings
 second_title: Aspose.PDF for .NET API Reference
 description: This class represents settings for importing pdf to Tiff.
 type: docs
-weight: 1820
+weight: 1850
 url: /net/aspose.pdf.devices/tiffsettings/
 ---
 ## TiffSettings class

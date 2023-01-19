@@ -3,7 +3,7 @@ title: Heading
 second_title: Aspose.PDF for .NET API Reference
 description: Represents heading.
 type: docs
-weight: 3380
+weight: 3410
 url: /net/aspose.pdf/heading/
 ---
 ## Heading class

@@ -3,7 +3,7 @@ title: ExcelSaveOptions.ExcelFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Allows to specify .xlsx .xls/xml or csv file format. Default value is XLSX
 type: docs
-weight: 2140
+weight: 2170
 url: /net/aspose.pdf/excelsaveoptions.excelformat/
 ---
 ## ExcelSaveOptions.ExcelFormat enumeration

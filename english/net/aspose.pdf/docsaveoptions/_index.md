@@ -3,7 +3,7 @@ title: DocSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to Doc format
 type: docs
-weight: 1850
+weight: 1880
 url: /net/aspose.pdf/docsaveoptions/
 ---
 ## DocSaveOptions class

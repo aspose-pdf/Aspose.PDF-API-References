@@ -3,7 +3,7 @@ title: IAppointment
 second_title: Aspose.PDF for .NET API Reference
 description: Represents general interface for actions and destinations.
 type: docs
-weight: 520
+weight: 540
 url: /net/aspose.pdf.annotations/iappointment/
 ---
 ## IAppointment interface

@@ -3,7 +3,7 @@ title: PdfFileEditor.PageBreak
 second_title: Aspose.PDF for .NET API Reference
 description: Data of page break position.
 type: docs
-weight: 2530
+weight: 2560
 url: /net/aspose.pdf.facades/pdffileeditor.pagebreak/
 ---
 ## PdfFileEditor.PageBreak class

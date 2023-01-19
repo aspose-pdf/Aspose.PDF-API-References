@@ -3,7 +3,7 @@ title: Artifact.ArtifactType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of possuble artifact types.
 type: docs
-weight: 1330
+weight: 1360
 url: /net/aspose.pdf/artifact.artifacttype/
 ---
 ## Artifact.ArtifactType enumeration

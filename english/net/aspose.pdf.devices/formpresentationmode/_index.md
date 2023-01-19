@@ -3,7 +3,7 @@ title: FormPresentationMode
 second_title: Aspose.PDF for .NET API Reference
 description: Used to specify the form presentation mode when printing or converting to image pdf documents.
 type: docs
-weight: 1700
+weight: 1730
 url: /net/aspose.pdf.devices/formpresentationmode/
 ---
 ## FormPresentationMode enumeration

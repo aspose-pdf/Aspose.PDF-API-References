@@ -3,7 +3,7 @@ title: SetRGBColorStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing RG operator set RGB color for stroking operators.
 type: docs
-weight: 5580
+weight: 5610
 url: /net/aspose.pdf.operators/setrgbcolorstroke/
 ---
 ## SetRGBColorStroke class

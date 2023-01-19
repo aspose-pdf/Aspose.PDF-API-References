@@ -3,7 +3,7 @@ title: SelectorRendition
 second_title: Aspose.PDF for .NET API Reference
 description: Class describes selector rendition.
 type: docs
-weight: 1070
+weight: 1100
 url: /net/aspose.pdf.annotations/selectorrendition/
 ---
 ## SelectorRendition class

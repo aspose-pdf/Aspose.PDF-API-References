@@ -3,7 +3,7 @@ title: LineIntent
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the intents of the line annotation.
 type: docs
-weight: 620
+weight: 640
 url: /net/aspose.pdf.annotations/lineintent/
 ---
 ## LineIntent enumeration

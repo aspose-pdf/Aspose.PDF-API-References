@@ -3,7 +3,7 @@ title: ApsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Class describes aps load options.
 type: docs
-weight: 1290
+weight: 1320
 url: /net/aspose.pdf/apsloadoptions/
 ---
 ## ApsLoadOptions class

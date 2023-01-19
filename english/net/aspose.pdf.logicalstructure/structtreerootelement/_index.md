@@ -3,7 +3,7 @@ title: StructTreeRootElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents StructTreeRoot object in logical structure.
 type: docs
-weight: 4510
+weight: 4540
 url: /net/aspose.pdf.logicalstructure/structtreerootelement/
 ---
 ## StructTreeRootElement class

@@ -3,7 +3,7 @@ title: SoundIcon
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the icons to be used in displaying the annotation.
 type: docs
-weight: 1110
+weight: 1140
 url: /net/aspose.pdf.annotations/soundicon/
 ---
 ## SoundIcon enumeration

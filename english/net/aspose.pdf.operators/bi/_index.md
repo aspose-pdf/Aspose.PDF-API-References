@@ -3,7 +3,7 @@ title: BI
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing BI operator Begin inline image obect.
 type: docs
-weight: 4910
+weight: 4940
 url: /net/aspose.pdf.operators/bi/
 ---
 ## BI class

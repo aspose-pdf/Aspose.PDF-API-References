@@ -3,7 +3,7 @@ title: PdfViewer
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a class to view or print a pdf.
 type: docs
-weight: 2650
+weight: 2680
 url: /net/aspose.pdf.facades/pdfviewer/
 ---
 ## PdfViewer class

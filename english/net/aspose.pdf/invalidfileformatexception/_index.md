@@ -3,7 +3,7 @@ title: InvalidFileFormatException
 second_title: Aspose.PDF for .NET API Reference
 description: The exception that is thrown when a file is invalid.
 type: docs
-weight: 3870
+weight: 3900
 url: /net/aspose.pdf/invalidfileformatexception/
 ---
 ## InvalidFileFormatException class

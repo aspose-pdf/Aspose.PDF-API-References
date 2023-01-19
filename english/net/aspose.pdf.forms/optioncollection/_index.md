@@ -3,7 +3,7 @@ title: OptionCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing collection of options of the choice field.
 type: docs
-weight: 3120
+weight: 3150
 url: /net/aspose.pdf.forms/optioncollection/
 ---
 ## OptionCollection class

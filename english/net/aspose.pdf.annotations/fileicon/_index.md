@@ -3,7 +3,7 @@ title: FileIcon
 second_title: Aspose.PDF for .NET API Reference
 description: An icon to be used in displaying the annotation.
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.pdf.annotations/fileicon/
 ---
 ## FileIcon enumeration

@@ -3,7 +3,7 @@ title: IconCaptionPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Describes position of icon.
 type: docs
-weight: 3070
+weight: 3100
 url: /net/aspose.pdf.forms/iconcaptionposition/
 ---
 ## IconCaptionPosition enumeration

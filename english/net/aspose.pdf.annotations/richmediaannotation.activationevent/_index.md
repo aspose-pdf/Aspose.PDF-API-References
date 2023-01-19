@@ -3,7 +3,7 @@ title: RichMediaAnnotation.ActivationEvent
 second_title: Aspose.PDF for .NET API Reference
 description: Event which activates annotation.
 type: docs
-weight: 1040
+weight: 1070
 url: /net/aspose.pdf.annotations/richmediaannotation.activationevent/
 ---
 ## RichMediaAnnotation.ActivationEvent enumeration

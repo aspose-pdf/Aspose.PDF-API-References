@@ -3,7 +3,7 @@ title: Point3D
 second_title: Aspose.PDF for .NET API Reference
 description: Represent point with fractional coordinates.
 type: docs
-weight: 6150
+weight: 6180
 url: /net/aspose.pdf/point3d/
 ---
 ## Point3D class

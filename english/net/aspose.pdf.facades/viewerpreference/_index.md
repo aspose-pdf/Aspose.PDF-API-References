@@ -3,7 +3,7 @@ title: ViewerPreference
 second_title: Aspose.PDF for .NET API Reference
 description: Describes viewer prefereces page mode non full screen page mode page layout.
 type: docs
-weight: 2780
+weight: 2810
 url: /net/aspose.pdf.facades/viewerpreference/
 ---
 ## ViewerPreference class

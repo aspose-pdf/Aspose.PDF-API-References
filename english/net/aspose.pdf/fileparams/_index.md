@@ -3,7 +3,7 @@ title: FileParams
 second_title: Aspose.PDF for .NET API Reference
 description: Defines an embedded file parameter dictionary that shall contain additional file-specific information.
 type: docs
-weight: 2820
+weight: 2850
 url: /net/aspose.pdf/fileparams/
 ---
 ## FileParams class

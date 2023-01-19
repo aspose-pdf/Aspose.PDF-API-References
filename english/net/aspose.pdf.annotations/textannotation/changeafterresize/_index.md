@@ -1,14 +1,14 @@
 ---
 title: ChangeAfterResize
 second_title: Aspose.PDF for .NET API Reference
-description: Updates the Starting and Ending points according to the matrix transform.
+description: Overrides the definition in the base class with an empty body.
 type: docs
 weight: 70
 url: /net/aspose.pdf.annotations/textannotation/changeafterresize/
 ---
 ## TextAnnotation.ChangeAfterResize method
 
-Updates the Starting and Ending points, according to the matrix transform.
+Overrides the definition in the base class with an empty body.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)

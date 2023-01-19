@@ -3,7 +3,7 @@ title: BoxStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Represents styles of check box.
 type: docs
-weight: 2920
+weight: 2950
 url: /net/aspose.pdf.forms/boxstyle/
 ---
 ## BoxStyle enumeration

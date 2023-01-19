@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PDF for .NET API Reference
 description: Represents font object.
 type: docs
-weight: 6710
+weight: 6740
 url: /net/aspose.pdf.text/font/
 ---
 ## Font class

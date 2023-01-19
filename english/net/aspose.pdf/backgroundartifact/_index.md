@@ -3,7 +3,7 @@ title: BackgroundArtifact
 second_title: Aspose.PDF for .NET API Reference
 description: Class descibes background artifact. This artifact allows to set background of the page.
 type: docs
-weight: 1350
+weight: 1380
 url: /net/aspose.pdf/backgroundartifact/
 ---
 ## BackgroundArtifact class

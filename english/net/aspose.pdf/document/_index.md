@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing PDF document
 type: docs
-weight: 1880
+weight: 1910
 url: /net/aspose.pdf/document/
 ---
 ## Document class

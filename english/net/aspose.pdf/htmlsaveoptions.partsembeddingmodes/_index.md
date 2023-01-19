@@ -3,7 +3,7 @@ title: HtmlSaveOptions.PartsEmbeddingModes
 second_title: Aspose.PDF for .NET API Reference
 description: This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files HTML FontsImages CSSes will be embedded into main HTML file or will be generated as apart binary entities
 type: docs
-weight: 3600
+weight: 3630
 url: /net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/
 ---
 ## HtmlSaveOptions.PartsEmbeddingModes enumeration

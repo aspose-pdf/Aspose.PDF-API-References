@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Represents meta information of PDF document.
 type: docs
-weight: 1930
+weight: 1960
 url: /net/aspose.pdf/documentinfo/
 ---
 ## DocumentInfo class

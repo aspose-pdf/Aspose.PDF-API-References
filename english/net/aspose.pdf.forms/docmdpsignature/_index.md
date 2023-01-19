@@ -3,7 +3,7 @@ title: DocMDPSignature
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the class of document MDP modification detection and prevention signature type.
 type: docs
-weight: 2990
+weight: 3020
 url: /net/aspose.pdf.forms/docmdpsignature/
 ---
 ## DocMDPSignature class

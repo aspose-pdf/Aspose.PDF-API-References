@@ -3,7 +3,7 @@ title: GoToAction
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a go-to action that changes the view to a specified destination page location and magnification factor.
 type: docs
-weight: 450
+weight: 470
 url: /net/aspose.pdf.annotations/gotoaction/
 ---
 ## GoToAction class

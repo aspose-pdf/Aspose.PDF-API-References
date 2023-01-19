@@ -3,7 +3,7 @@ title: QuoteElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Quote structure element in logical structure.
 type: docs
-weight: 4420
+weight: 4450
 url: /net/aspose.pdf.logicalstructure/quoteelement/
 ---
 ## QuoteElement class

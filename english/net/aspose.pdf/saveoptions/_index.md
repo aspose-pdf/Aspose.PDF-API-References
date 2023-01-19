@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: SaveOptions type hold level of abstraction on individual save options
 type: docs
-weight: 6310
+weight: 6340
 url: /net/aspose.pdf/saveoptions/
 ---
 ## SaveOptions class
