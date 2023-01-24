@@ -3,7 +3,7 @@ title: ClosePath
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing h operator close path.
 type: docs
-weight: 4990
+weight: 5020
 url: /net/aspose.pdf.operators/closepath/
 ---
 ## ClosePath class

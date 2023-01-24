@@ -3,7 +3,7 @@ title: PDF3DCuttingPlaneOrientation
 second_title: Aspose.PDF for .NET API Reference
 description: Class PDF3DCuttingPlaneOrientation.
 type: docs
-weight: 820
+weight: 840
 url: /net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
 ## PDF3DCuttingPlaneOrientation class

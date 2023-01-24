@@ -3,7 +3,7 @@ title: IndexElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Index structure element in logical structure.
 type: docs
-weight: 4280
+weight: 4310
 url: /net/aspose.pdf.logicalstructure/indexelement/
 ---
 ## IndexElement class

@@ -3,7 +3,7 @@ title: FontNotFoundException
 second_title: Aspose.PDF for .NET API Reference
 description: The exception that is thrown when a font is not found.
 type: docs
-weight: 2870
+weight: 2900
 url: /net/aspose.pdf/fontnotfoundexception/
 ---
 ## FontNotFoundException class

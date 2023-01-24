@@ -3,7 +3,7 @@ title: Artifact
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents PDF Artifact object.
 type: docs
-weight: 1310
+weight: 1340
 url: /net/aspose.pdf/artifact/
 ---
 ## Artifact class

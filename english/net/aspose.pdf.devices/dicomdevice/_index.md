@@ -3,7 +3,7 @@ title: DicomDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Represents image device that helps to save pdf document pages into Dicom format.
 type: docs
-weight: 1670
+weight: 1700
 url: /net/aspose.pdf.devices/dicomdevice/
 ---
 ## DicomDevice class

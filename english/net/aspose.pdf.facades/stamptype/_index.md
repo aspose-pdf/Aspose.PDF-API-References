@@ -3,7 +3,7 @@ title: StampType
 second_title: Aspose.PDF for .NET API Reference
 description: Describes stamp types.
 type: docs
-weight: 2750
+weight: 2780
 url: /net/aspose.pdf.facades/stamptype/
 ---
 ## StampType enumeration

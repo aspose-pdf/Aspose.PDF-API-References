@@ -3,7 +3,7 @@ title: Document.IDocumentFontUtilities
 second_title: Aspose.PDF for .NET API Reference
 description: Holds functionality to tune fonts
 type: docs
-weight: 1910
+weight: 1940
 url: /net/aspose.pdf/document.idocumentfontutilities/
 ---
 ## Document.IDocumentFontUtilities interface

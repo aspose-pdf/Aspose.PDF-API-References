@@ -3,7 +3,7 @@ title: TextMarkupAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Abstract base class for text markup annotations.
 type: docs
-weight: 1220
+weight: 1250
 url: /net/aspose.pdf.annotations/textmarkupannotation/
 ---
 ## TextMarkupAnnotation class

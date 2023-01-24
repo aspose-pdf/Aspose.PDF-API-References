@@ -3,7 +3,7 @@ title: RedactionAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Redact annotation.
 type: docs
-weight: 960
+weight: 990
 url: /net/aspose.pdf.annotations/redactionannotation/
 ---
 ## RedactionAnnotation class

@@ -3,7 +3,7 @@ title: HtmlSaveOptions.ImageParentTypes
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates possible types of images parents Image can pertain to HTML page or to SVG parent image
 type: docs
-weight: 3580
+weight: 3610
 url: /net/aspose.pdf/htmlsaveoptions.imageparenttypes/
 ---
 ## HtmlSaveOptions.ImageParentTypes enumeration

@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of possible vertical alignment values.
 type: docs
-weight: 7340
+weight: 7370
 url: /net/aspose.pdf/verticalalignment/
 ---
 ## VerticalAlignment enumeration

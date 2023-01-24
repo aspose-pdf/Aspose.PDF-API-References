@@ -22,6 +22,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [CaretAnnotation](./caretannotation) | Class representing Caret annotation. |
 | [Characteristics](./characteristics) | Represents annotation characteristics |
 | [CircleAnnotation](./circleannotation) | Class representing Circle annotation. |
+| [ColorBarAnnotation](./colorbarannotation) | Class representing ColorBarAnnotation annotation. Property Color ignored, instead used ColorsOfCMYK color. On creation, the ratio of width and height determines the orientation of the annotation - horizontal or vertical. Next, it checks that the annotation rectangle is outside the TrimBox, and if not, then it is shifted to the nearest location outside the TrimBox, taking into account the orientation of the annotation. It is possible to reduce the width (height) so that the annotation fits outside the TrimBox. If there is no space for the layout, the width/height can be set to zero (in this case, the annotation is present on the page, but not displayed). |
 | [CommonFigureAnnotation](./commonfigureannotation) | Abstract class representing common figure annotation. |
 | [CustomExplicitDestination](./customexplicitdestination) | Represents custom explicit destination. |
 | [Dash](./dash) | Class representing line dash pattern. |
@@ -75,6 +76,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [PolygonAnnotation](./polygonannotation) | Class representing polygon annotation. |
 | [PolylineAnnotation](./polylineannotation) | Represents polyline annotation that is similar to polygon, except that the first and last vertex are not implicitly connected. |
 | [PopupAnnotation](./popupannotation) | Represents the pop-up annotation that displays text in a pop-up window for entry and editing. |
+| [PrinterMarkAnnotation](./printermarkannotation) | Abstract class representing printer mark annotation. |
 | [RedactionAnnotation](./redactionannotation) | Represents Redact annotation. |
 | [Rendition](./rendition) | Class which describes rendition object of RendtionAnnotation. |
 | [RenditionAction](./renditionaction) | A rendition action that controls the playing of multimedia content. |
@@ -116,6 +118,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [CapStyle](./capstyle) | Style of line ending of Ink annotation line. |
 | [CaptionPosition](./captionposition) | Enumeration of the annotation�s caption positioning. |
 | [CaretSymbol](./caretsymbol) | A symbol to be associated with the caret. |
+| [ColorsOfCMYK](./colorsofcmyk) | Colors included in the CMYK color model. |
 | [ExplicitDestinationType](./explicitdestinationtype) | Enumerates the types of explicit destinations. |
 | [FileIcon](./fileicon) | An icon to be used in displaying the annotation. |
 | [FreeTextIntent](./freetextintent) | Enumerates the intents of the free text annotation. |

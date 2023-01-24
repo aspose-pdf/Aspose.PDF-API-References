@@ -3,7 +3,7 @@ title: CgmImportOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Import option for import from Computer Graphics MetafileCGM format.
 type: docs
-weight: 1460
+weight: 1490
 url: /net/aspose.pdf/cgmimportoptions/
 ---
 ## CgmImportOptions class

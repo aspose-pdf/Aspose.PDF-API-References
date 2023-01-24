@@ -3,7 +3,7 @@ title: MovieAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen and through the speakers. When the annotation is activated the movie is played.
 type: docs
-weight: 730
+weight: 750
 url: /net/aspose.pdf.annotations/movieannotation/
 ---
 ## MovieAnnotation class

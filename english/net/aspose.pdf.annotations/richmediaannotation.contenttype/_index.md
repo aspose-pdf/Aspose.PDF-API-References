@@ -3,7 +3,7 @@ title: RichMediaAnnotation.ContentType
 second_title: Aspose.PDF for .NET API Reference
 description: Type of the multimedia.
 type: docs
-weight: 1050
+weight: 1080
 url: /net/aspose.pdf.annotations/richmediaannotation.contenttype/
 ---
 ## RichMediaAnnotation.ContentType enumeration

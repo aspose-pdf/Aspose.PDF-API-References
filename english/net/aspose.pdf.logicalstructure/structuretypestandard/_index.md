@@ -3,7 +3,7 @@ title: StructureTypeStandard
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Standard Structure Types.
 type: docs
-weight: 4580
+weight: 4610
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/
 ---
 ## StructureTypeStandard class

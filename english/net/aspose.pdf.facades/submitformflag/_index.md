@@ -3,7 +3,7 @@ title: SubmitFormFlag
 second_title: Aspose.PDF for .NET API Reference
 description: Enumeration of possible submit form flags.
 type: docs
-weight: 2760
+weight: 2790
 url: /net/aspose.pdf.facades/submitformflag/
 ---
 ## SubmitFormFlag enumeration

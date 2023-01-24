@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents rectangle.
 type: docs
-weight: 6210
+weight: 6240
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class

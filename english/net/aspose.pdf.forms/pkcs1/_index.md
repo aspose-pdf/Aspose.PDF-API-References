@@ -3,7 +3,7 @@ title: PKCS1
 second_title: Aspose.PDF for .NET API Reference
 description: Represents signature object regarding PKCS1 standard. RSA encryption algorithm and SHA-1 digest method are used for signing.
 type: docs
-weight: 3130
+weight: 3160
 url: /net/aspose.pdf.forms/pkcs1/
 ---
 ## PKCS1 class

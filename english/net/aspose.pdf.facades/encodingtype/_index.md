@@ -3,7 +3,7 @@ title: EncodingType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates encoding types of the text using.
 type: docs
-weight: 2260
+weight: 2290
 url: /net/aspose.pdf.facades/encodingtype/
 ---
 ## EncodingType enumeration

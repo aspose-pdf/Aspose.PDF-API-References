@@ -3,7 +3,7 @@ title: FreeTextAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a free text annotation that displays text directly on the page. Unlike an ordinary text annotation a free text annotation has no open or closed state instead of being displayed in a pop-up window the text is always visible.
 type: docs
-weight: 430
+weight: 450
 url: /net/aspose.pdf.annotations/freetextannotation/
 ---
 ## FreeTextAnnotation class

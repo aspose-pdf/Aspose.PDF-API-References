@@ -3,7 +3,7 @@ title: ColorDepth
 second_title: Aspose.PDF for .NET API Reference
 description: Used to specify the parameter value passed to a Tiff image device.
 type: docs
-weight: 1640
+weight: 1670
 url: /net/aspose.pdf.devices/colordepth/
 ---
 ## ColorDepth enumeration

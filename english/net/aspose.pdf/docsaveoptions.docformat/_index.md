@@ -3,7 +3,7 @@ title: DocSaveOptions.DocFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Allows to specify .doc or .docx file format.
 type: docs
-weight: 1860
+weight: 1890
 url: /net/aspose.pdf/docsaveoptions.docformat/
 ---
 ## DocSaveOptions.DocFormat enumeration

@@ -3,7 +3,7 @@ title: Cell
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a cell of the tables row.
 type: docs
-weight: 1440
+weight: 1470
 url: /net/aspose.pdf/cell/
 ---
 ## Cell class

@@ -3,7 +3,7 @@ title: ReplaceTextStrategy.NoCharacterAction
 second_title: Aspose.PDF for .NET API Reference
 description: Action to perform if font does not contain required character
 type: docs
-weight: 2700
+weight: 2730
 url: /net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
 ## ReplaceTextStrategy.NoCharacterAction enumeration

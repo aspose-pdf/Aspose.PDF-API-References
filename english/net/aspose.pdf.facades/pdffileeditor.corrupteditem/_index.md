@@ -3,7 +3,7 @@ title: PdfFileEditor.CorruptedItem
 second_title: Aspose.PDF for .NET API Reference
 description: Class which provides information about corrupted files in time of concatenation.
 type: docs
-weight: 2520
+weight: 2550
 url: /net/aspose.pdf.facades/pdffileeditor.corrupteditem/
 ---
 ## PdfFileEditor.CorruptedItem class

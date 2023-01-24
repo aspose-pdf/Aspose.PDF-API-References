@@ -3,7 +3,7 @@ title: ImageDeleteAction
 second_title: Aspose.PDF for .NET API Reference
 description: Action which performed with image object when image is removed from collection. If image object is removed
 type: docs
-weight: 3750
+weight: 3780
 url: /net/aspose.pdf/imagedeleteaction/
 ---
 ## ImageDeleteAction enumeration

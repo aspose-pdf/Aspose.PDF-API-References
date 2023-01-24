@@ -3,7 +3,7 @@ title: WatermarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Class describes Watermark annotation object.
 type: docs
-weight: 1250
+weight: 1280
 url: /net/aspose.pdf.annotations/watermarkannotation/
 ---
 ## WatermarkAnnotation class
@@ -58,7 +58,7 @@ public class WatermarkAnnotation : Annotation
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/watermarkannotation/accept)(AnnotationSelector) | Apply visitor for annotation. |
-| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Update parameters and appearance, according to the matrix transform. |
+| override [ChangeAfterResize](../../aspose.pdf.annotations/watermarkannotation/changeafterresize)(Matrix) | Overrides the definition in the base class with an empty body. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Clones this instance. Virtual method. Always return null. |
 | virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returns rectangle of annotation taking into consideration page rotation. |

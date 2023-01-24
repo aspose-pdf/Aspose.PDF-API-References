@@ -3,7 +3,7 @@ title: DocumentElement
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Document structure element in logical structure.
 type: docs
-weight: 4160
+weight: 4190
 url: /net/aspose.pdf.logicalstructure/documentelement/
 ---
 ## DocumentElement class

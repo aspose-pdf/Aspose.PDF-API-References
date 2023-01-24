@@ -3,7 +3,7 @@ title: HtmlDocumentType
 second_title: Aspose.PDF for .NET API Reference
 description: Represents enumeration of the Html document types.
 type: docs
-weight: 3400
+weight: 3430
 url: /net/aspose.pdf/htmldocumenttype/
 ---
 ## HtmlDocumentType enumeration

@@ -3,7 +3,7 @@ title: TextAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a text annotation that is a sticky note attached to a point in the PDF document.
 type: docs
-weight: 1200
+weight: 1230
 url: /net/aspose.pdf.annotations/textannotation/
 ---
 ## TextAnnotation class
@@ -68,7 +68,7 @@ public sealed class TextAnnotation : MarkupAnnotation
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/textannotation/accept)(AnnotationSelector) | Accepts visitor object to process the annotation. |
-| override [ChangeAfterResize](../../aspose.pdf.annotations/textannotation/changeafterresize)(Matrix) | Updates the Starting and Ending points, according to the matrix transform. |
+| override [ChangeAfterResize](../../aspose.pdf.annotations/textannotation/changeafterresize)(Matrix) | Overrides the definition in the base class with an empty body. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Clones this instance. Virtual method. Always return null. |
 | virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
