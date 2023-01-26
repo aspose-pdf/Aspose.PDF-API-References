@@ -3,7 +3,7 @@ title: FontSubsetStrategy
 second_title: Aspose.PDF for Java API Reference
 description: enumerates strategies for font subsetting
 type: docs
-weight: 138
+weight: 140
 url: /java/com.aspose.pdf/fontsubsetstrategy/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TextFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents fragment of Pdf text.
 type: docs
-weight: 373
+weight: 376
 url: /java/com.aspose.pdf/textfragment/
 ---
 **Inheritance:**
@@ -106,10 +106,10 @@ The value can be null in case the TextFragment object doesn't belong to any page
 The value can be null in case the TextFragment object doesn't belong to a form. |
 | [getWrapLinesCount()](#getWrapLinesCount--) | Gets wrap lines count for this paragraph(for pdf generation only) |
 | [setWrapLinesCount(int value)](#setWrapLinesCount-int-) | Sets wrap lines count for this paragraph(for pdf generation only) |
-| [getEndNote()](#getEndNote--) | Gets the paragraph end note. |
-| [setEndNote(Note value)](#setEndNote-com.aspose.pdf.Note-) | Sets the paragraph end note. |
-| [getFootNote()](#getFootNote--) | Gets the paragraph foot note. |
-| [setFootNote(Note value)](#setFootNote-com.aspose.pdf.Note-) | Sets the paragraph foot note. |
+| [getEndNote()](#getEndNote--) | Gets the paragraph end note.(for pdf generation only) |
+| [setEndNote(Note value)](#setEndNote-com.aspose.pdf.Note-) | Sets the paragraph end note.(for pdf generation only) |
+| [getFootNote()](#getFootNote--) | Gets the paragraph foot note.(for pdf generation only) |
+| [setFootNote(Note value)](#setFootNote-com.aspose.pdf.Note-) | Sets the paragraph foot note.(for pdf generation only) |
 | [isolateTextSegments(int startIndex, int length)](#isolateTextSegments-int-int-) | Gets  TextSegment (s) representing specified part of the  TextFragment  text. |
 | [setMarkedContentProperties(String name, int id)](#setMarkedContentProperties-java.lang.String-int-) |  |
 | [deepClone()](#deepClone--) | Clone the fragment. |

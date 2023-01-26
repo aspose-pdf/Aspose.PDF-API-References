@@ -3,7 +3,7 @@ title: HeaderArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Heaader artifact.
 type: docs
-weight: 150
+weight: 152
 url: /java/com.aspose.pdf/headerartifact/
 ---
 **Inheritance:**

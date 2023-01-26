@@ -3,7 +3,7 @@ title: ExternalSignature
 second_title: Aspose.PDF for Java API Reference
 description: Creates a detached PKCS7Detached signature using a X509Certificate2.
 type: docs
-weight: 107
+weight: 109
 url: /java/com.aspose.pdf/externalsignature/
 ---
 **Inheritance:**

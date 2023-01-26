@@ -3,7 +3,7 @@ title: HtmlMediaType
 second_title: Aspose.PDF for Java API Reference
 description: Specifies possible media types used during rendering.
 type: docs
-weight: 160
+weight: 162
 url: /java/com.aspose.pdf/htmlmediatype/
 ---
 **Inheritance:**

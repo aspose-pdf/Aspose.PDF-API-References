@@ -3,7 +3,7 @@ title: HtmlSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Html format
 type: docs
-weight: 162
+weight: 164
 url: /java/com.aspose.pdf/htmlsaveoptions/
 ---
 **Inheritance:**
@@ -28,16 +28,16 @@ Save options for export to Html format
 
 | Method | Description |
 | --- | --- |
-| [getCustomProgressHandler()](#getCustomProgressHandler--) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
-| [setCustomProgressHandler(UnifiedSaveOptions.ConversionProgressEventHandler customProgressHandler)](#setCustomProgressHandler-com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler-) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
+| [getCustomProgressHandler()](#getCustomProgressHandler--) | This handler can be used to handle conversion progress events f.e. |
+| [setCustomProgressHandler(UnifiedSaveOptions.ConversionProgressEventHandler customProgressHandler)](#setCustomProgressHandler-com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler-) | This handler can be used to handle conversion progress events f.e. |
 | [isSaveFullFont()](#isSaveFullFont--) | Indicates that full font will be saved, supports only True Type Fonts. |
 | [setSaveFullFont(boolean saveFullFont)](#setSaveFullFont-boolean-) | Indicates that full font will be saved, supports only True Type Fonts. |
 | [getAntialiasingProcessing()](#getAntialiasingProcessing--) | This parameter defines required antialiasing measures during conversion of compound background images from PDF to HTML |
 | [setAntialiasingProcessing(int antialiasingProcessing)](#setAntialiasingProcessing-int-) | This parameter defines required antialiasing measures during conversion of compound background images from PDF to HTML |
 | [isSaveTransparentTexts()](#isSaveTransparentTexts--) | Pdf can contain transparent texts that can be selected to clipboard (usually it happen when document contains images and OCRed texts extracted from it). |
 | [setSaveTransparentTexts(boolean saveTransparentTexts)](#setSaveTransparentTexts-boolean-) | Pdf can contain transparent texts that can be selected to clipboard (usually it happen when document contains images and OCRed texts extracted from it). |
-| [isSaveShadowedTextsAsTransparentTexts()](#isSaveShadowedTextsAsTransparentTexts--) | Pdf can contain texts that are shadowed by another elements (f.e. by images) but can be selected to clipboard in Acrobat Reader (usually it happen when document contains images and OCRed texts extracted from it). |
-| [setSaveShadowedTextsAsTransparentTexts(boolean saveShadowedTextsAsTransparentTexts)](#setSaveShadowedTextsAsTransparentTexts-boolean-) | Pdf can contain texts that are shadowed by another elements (f.e. by images) but can be selected to clipboard in Acrobat Reader (usually it happen when document contains images and OCRed texts extracted from it). |
+| [isSaveShadowedTextsAsTransparentTexts()](#isSaveShadowedTextsAsTransparentTexts--) | Pdf can contain texts that are shadowed by another elements (f.e. |
+| [setSaveShadowedTextsAsTransparentTexts(boolean saveShadowedTextsAsTransparentTexts)](#setSaveShadowedTextsAsTransparentTexts-boolean-) | Pdf can contain texts that are shadowed by another elements (f.e. |
 | [getFontSavingMode()](#getFontSavingMode--) | Defines font saving mode that will be used during saving of PDF to desirable format |
 | [setFontSavingMode(int fontSavingMode)](#setFontSavingMode-int-) | Defines font saving mode that will be used during saving of PDF to desirable format |
 | [getPageBorderIfAny()](#getPageBorderIfAny--) | This attribute represents set of settings used for drawing border (if any) in result HTML document around area that represent source PDF page. |
@@ -60,8 +60,8 @@ Save options for export to Html format
 | [setSpecialFolderForSvgImages(String specialFolderForSvgImages)](#setSpecialFolderForSvgImages-java.lang.String-) | Gets or sets path to directory to which must be saved only SVG-images if they are encountered during saving of document as HTML. |
 | [getSpecialFolderForAllImages()](#getSpecialFolderForAllImages--) | Gets or sets path to directory to which must be saved any images if they are encountered during saving of document as HTML. |
 | [setSpecialFolderForAllImages(String specialFolderForAllImages)](#setSpecialFolderForAllImages-java.lang.String-) | Gets or sets path to directory to which must be saved any images if they are encountered during saving of document as HTML. |
-| [getCssClassNamesPrefix()](#getCssClassNamesPrefix--) | When PDFtoHTML converter generates result CSSs, CSS class names (something like ".stl\_01 \{\}" ... ".stl\_NN \{\}) are generated and used in result CSS. |
-| [setCssClassNamesPrefix(String cssClassNamesPrefix)](#setCssClassNamesPrefix-java.lang.String-) | When PDFtoHTML converter generates result CSSs, CSS class names (something like ".stl\_01 \{\}" ... ".stl\_NN \{\}) are generated and used in result CSS. |
+| [getCssClassNamesPrefix()](#getCssClassNamesPrefix--) | When PDFtoHTML converter generates result CSSs, CSS class names (something like ".stl\_01 \{\}" ... |
+| [setCssClassNamesPrefix(String cssClassNamesPrefix)](#setCssClassNamesPrefix-java.lang.String-) | When PDFtoHTML converter generates result CSSs, CSS class names (something like ".stl\_01 \{\}" ... |
 | [getPartsEmbeddingMode()](#getPartsEmbeddingMode--) | It defines whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities |
 | [setPartsEmbeddingMode(int partsEmbeddingMode)](#setPartsEmbeddingMode-int-) | It defines whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities |
 | [getHtmlMarkupGenerationMode()](#getHtmlMarkupGenerationMode--) | Sometimes specific reqirments to generation of HTML markup are present. |

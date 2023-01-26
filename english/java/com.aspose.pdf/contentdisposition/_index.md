@@ -3,7 +3,7 @@ title: ContentDisposition
 second_title: Aspose.PDF for Java API Reference
 description: MIME protocol Content-Disposition header.
 type: docs
-weight: 73
+weight: 75
 url: /java/com.aspose.pdf/contentdisposition/
 ---
 **Inheritance:**

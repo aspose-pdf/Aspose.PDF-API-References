@@ -3,7 +3,7 @@ title: LocaleOptions
 second_title: Aspose.PDF for Java API Reference
 description: LocaleOptions type specifies locale configuration for Aspose.PDF.
 type: docs
-weight: 205
+weight: 207
 url: /java/com.aspose.pdf/localeoptions/
 ---
 **Inheritance:**

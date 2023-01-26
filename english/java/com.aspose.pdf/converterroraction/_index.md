@@ -3,7 +3,7 @@ title: ConvertErrorAction
 second_title: Aspose.PDF for Java API Reference
 description: This class represents action for conversion errors.
 type: docs
-weight: 75
+weight: 77
 url: /java/com.aspose.pdf/converterroraction/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Form
 second_title: Aspose.PDF for Java API Reference
 description: Class representing form object.
 type: docs
-weight: 140
+weight: 142
 url: /java/com.aspose.pdf/form/
 ---
 **Inheritance:**
@@ -25,8 +25,8 @@ Class representing form object.
 
 | Method | Description |
 | --- | --- |
-| [getSignDependentElementsRenderingModeWhenConverted()](#getSignDependentElementsRenderingModeWhenConverted--) | Forms can contain signing information, i.e. can be signed or unsigned. |
-| [setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)](#setSignDependentElementsRenderingModeWhenConverted-int-) | Forms can contain signing information, i.e. can be signed or unsigned. |
+| [getSignDependentElementsRenderingModeWhenConverted()](#getSignDependentElementsRenderingModeWhenConverted--) | Forms can contain signing information, i.e. |
+| [setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)](#setSignDependentElementsRenderingModeWhenConverted-int-) | Forms can contain signing information, i.e. |
 | [getDocument()](#getDocument--) | For internal usage only |
 | [get_xfa()](#get-xfa--) | For internal usage only |
 | [isSynchronized()](#isSynchronized--) | Returns true if object is thread-safe. |

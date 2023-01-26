@@ -3,7 +3,7 @@ title: PopupAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents the pop-up annotation that displays text in a pop-up window for entry and editing.
 type: docs
-weight: 291
+weight: 293
 url: /java/com.aspose.pdf/popupannotation/
 ---
 **Inheritance:**
@@ -17,7 +17,7 @@ Represents the pop-up annotation that displays text in a pop-up window for entry
 
 | Constructor | Description |
 | --- | --- |
-| [PopupAnnotation(IDocument document)](#PopupAnnotation-com.aspose.pdf.IDocument-) | Constructor. for using in Generator. |
+| [PopupAnnotation(IDocument document)](#PopupAnnotation-com.aspose.pdf.IDocument-) | Constructor. |
 | [PopupAnnotation(Page page, Rectangle rect)](#PopupAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Creates new Popup annotation on the specified page. |
 ## Methods
 

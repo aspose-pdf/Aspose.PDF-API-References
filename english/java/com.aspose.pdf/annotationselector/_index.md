@@ -51,6 +51,7 @@ This class is used for selecting annotations using Visitor template idea.
 | [visit(RichMediaAnnotation richMedia)](#visit-com.aspose.pdf.RichMediaAnnotation-) | Select movie annotation if AnnotationSelector was initialized with RichMedia annotation object. |
 | [visit(ScreenAnnotation screen)](#visit-com.aspose.pdf.ScreenAnnotation-) | Select screen annotation if AnnotationSelector was initialized with ScreenAnnotation object. |
 | [visit(PDF3DAnnotation pdf3D)](#visit-com.aspose.pdf.PDF3DAnnotation-) | Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object. |
+| [visit(ColorBarAnnotation colorBar)](#visit-com.aspose.pdf.ColorBarAnnotation-) | Select ColorBar annotation if AnnotationSelector was initialized with ColorBar object. |
 ### AnnotationSelector() {#AnnotationSelector--}
 ```
 public AnnotationSelector()
@@ -393,4 +394,17 @@ Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotati
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pdf3D | [PDF3DAnnotation](../../com.aspose.pdf/pdf3dannotation) | PDF3DAnnotation object for selecting. |
+
+### visit(ColorBarAnnotation colorBar) {#visit-com.aspose.pdf.ColorBarAnnotation-}
+```
+public final void visit(ColorBarAnnotation colorBar)
+```
+
+
+Select ColorBar annotation if AnnotationSelector was initialized with ColorBar object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colorBar | [ColorBarAnnotation](../../com.aspose.pdf/colorbarannotation) | PDF3DAnnotation object for selecting. |
 

@@ -3,7 +3,7 @@ title: TextReplaceOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text replace options
 type: docs
-weight: 385
+weight: 388
 url: /java/com.aspose.pdf/textreplaceoptions/
 ---
 **Inheritance:**

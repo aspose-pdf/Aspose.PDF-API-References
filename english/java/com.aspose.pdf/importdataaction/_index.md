@@ -3,7 +3,7 @@ title: ImportDataAction
 second_title: Aspose.PDF for Java API Reference
 description: Upon invocation of an import-data action Forms Data Format FDF data shall be imported into the documentu2019s interactive form from a specified file.
 type: docs
-weight: 177
+weight: 179
 url: /java/com.aspose.pdf/importdataaction/
 ---
 **Inheritance:**

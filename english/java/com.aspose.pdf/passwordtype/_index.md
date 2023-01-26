@@ -3,7 +3,7 @@ title: PasswordType
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents known password types used for password protected pdf documents.
 type: docs
-weight: 273
+weight: 275
 url: /java/com.aspose.pdf/passwordtype/
 ---
 **Inheritance:**

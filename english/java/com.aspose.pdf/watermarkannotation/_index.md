@@ -3,7 +3,7 @@ title: WatermarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Watermark annotation object.
 type: docs
-weight: 403
+weight: 406
 url: /java/com.aspose.pdf/watermarkannotation/
 ---
 **Inheritance:**
@@ -29,6 +29,7 @@ Class describes Watermark annotation object.
 | [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Apply visitor for annotation. |
 | [getOpacity()](#getOpacity--) | Gets or sets opacity of the annotation. |
 | [setOpacity(double value)](#setOpacity-double-) | Gets or sets opacity of the annotation. |
+| [changeAfterResize(Matrix transform)](#changeAfterResize-com.aspose.pdf.Matrix-) | Overrides the definition in the base class with an empty body. |
 ### WatermarkAnnotation(Page page, Rectangle rect) {#WatermarkAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
 ```
 public WatermarkAnnotation(Page page, Rectangle rect)
@@ -125,4 +126,17 @@ Gets or sets opacity of the annotation.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double | double value |
+
+### changeAfterResize(Matrix transform) {#changeAfterResize-com.aspose.pdf.Matrix-}
+```
+public void changeAfterResize(Matrix transform)
+```
+
+
+Overrides the definition in the base class with an empty body.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| transform | [Matrix](../../com.aspose.pdf/matrix) | Matrix specifying the transformation. |
 

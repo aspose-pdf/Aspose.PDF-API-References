@@ -3,7 +3,7 @@ title: LevelFormat
 second_title: Aspose.PDF for Java API Reference
 description: Represents format of the table of contents.
 type: docs
-weight: 192
+weight: 194
 url: /java/com.aspose.pdf/levelformat/
 ---
 **Inheritance:**

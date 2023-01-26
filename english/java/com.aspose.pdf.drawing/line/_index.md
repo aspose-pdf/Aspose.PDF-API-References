@@ -23,8 +23,8 @@ Represents line.
 
 | Method | Description |
 | --- | --- |
-| [getPositionArray()](#getPositionArray--) | Gets object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
-| [setPositionArray(float[] value)](#setPositionArray-float---) | Sets object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
+| [getPositionArray()](#getPositionArray--) | Gets object that indicates the position array.The array is composed by coordinates of each control point of the line. |
+| [setPositionArray(float[] value)](#setPositionArray-float---) | Sets object that indicates the position array.The array is composed by coordinates of each control point of the line. |
 ### Line() {#Line--}
 ```
 public Line()

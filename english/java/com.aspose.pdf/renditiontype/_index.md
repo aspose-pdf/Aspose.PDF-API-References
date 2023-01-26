@@ -3,7 +3,7 @@ title: RenditionType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration describes possible types of Rendition.
 type: docs
-weight: 309
+weight: 312
 url: /java/com.aspose.pdf/renditiontype/
 ---
 **Inheritance:**

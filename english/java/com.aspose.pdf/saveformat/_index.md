@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies format
 type: docs
-weight: 446
+weight: 449
 url: /java/com.aspose.pdf/saveformat/
 ---
 **Inheritance:**
@@ -17,19 +17,18 @@ Specifies format
 
 | Field | Description |
 | --- | --- |
-| [Pdf](#Pdf) | means saving without change of format, i.e. as PDF use it please instead of 'SaveFormat.None', that is obsolete one |
-| [None](#None) | means saving without change of format, i.e. as PDF It's obsolete one and will be deleted eventually, please use instead 'SaveFormat.Pdf' |
+| [Pdf](#Pdf) | means saving without change of format, i.e. |
+| [None](#None) | means saving without change of format, i.e. |
 | [Doc](#Doc) | means saving in DOC format |
 | [Xps](#Xps) | means saving in XPS format |
 | [Html](#Html) | means saving in HTML format |
 | [Xml](#Xml) | means saving in XML format |
-| [TeX](#TeX) | means saving in TEX format i.e. format suitable for Latex text editor |
+| [TeX](#TeX) | means saving in TEX format i.e. |
 | [DocX](#DocX) | means saving in DOCX format |
 | [Svg](#Svg) | means saving in SVG format |
 | [MobiXml](#MobiXml) | means saving in MobiXML format(special format of e-books) |
 | [Excel](#Excel) | means saving in MsExcel format |
 | [Epub](#Epub) | means saving in EPUB format(special format of e-books) |
-| [Plugin](#Plugin) | means saving with the aid of a plugin |
 | [Pptx](#Pptx) | means saving in MHT(WebArchieve) /// |
 | [Aps](#Aps) | Saving as APS XML file. |
 | [PdfXml](#PdfXml) | Internal PDF document structure in XML format |
@@ -135,14 +134,6 @@ public static final SaveFormat Epub
 
 
 means saving in EPUB format(special format of e-books)
-
-### Plugin {#Plugin}
-```
-public static final SaveFormat Plugin
-```
-
-
-means saving with the aid of a plugin
 
 ### Pptx {#Pptx}
 ```

@@ -18,7 +18,7 @@ Defines different modes which can be used while converting pdf document into tex
 | Field | Description |
 | --- | --- |
 | [Pure](#Pure) | Represent pdf content with a bit of formatting routines. |
-| [Raw](#Raw) | Represent pdf content as is, i.e. without formatting. |
+| [Raw](#Raw) | Represent pdf content as is, i.e. |
 | [Flatten](#Flatten) | Represent pdf content with positioning text fragments by their coordinates. |
 | [MemorySaving](#MemorySaving) | Extraction with memory saving. |
 ### Pure {#Pure}

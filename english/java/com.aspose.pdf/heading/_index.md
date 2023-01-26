@@ -3,7 +3,7 @@ title: Heading
 second_title: Aspose.PDF for Java API Reference
 description: Represents heading.
 type: docs
-weight: 152
+weight: 154
 url: /java/com.aspose.pdf/heading/
 ---
 **Inheritance:**

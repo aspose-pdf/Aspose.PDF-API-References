@@ -3,7 +3,7 @@ title: TextSegment
 second_title: Aspose.PDF for Java API Reference
 description: Represents segment of Pdf text.
 type: docs
-weight: 387
+weight: 390
 url: /java/com.aspose.pdf/textsegment/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: PDF3DCrossSectionArray
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DCrossSectionArray.
 type: docs
-weight: 248
+weight: 250
 url: /java/com.aspose.pdf/pdf3dcrosssectionarray/
 ---
 **Inheritance:**

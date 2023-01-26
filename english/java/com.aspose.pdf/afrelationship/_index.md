@@ -3,7 +3,7 @@ title: AFRelationship
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration describes associated files relationship.
 type: docs
-weight: 442
+weight: 445
 url: /java/com.aspose.pdf/afrelationship/
 ---
 **Inheritance:**

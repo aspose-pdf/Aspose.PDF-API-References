@@ -3,7 +3,7 @@ title: PageCoordinateType
 second_title: Aspose.PDF for Java API Reference
 description: Describes page coordinate type.
 type: docs
-weight: 261
+weight: 263
 url: /java/com.aspose.pdf/pagecoordinatetype/
 ---
 **Inheritance:**

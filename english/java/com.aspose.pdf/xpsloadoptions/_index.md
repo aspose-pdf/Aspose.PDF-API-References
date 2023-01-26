@@ -3,7 +3,7 @@ title: XpsLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing xps file into pdf document.
 type: docs
-weight: 428
+weight: 431
 url: /java/com.aspose.pdf/xpsloadoptions/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Field
 second_title: Aspose.PDF for Java API Reference
 description: Base class for acro form fields.
 type: docs
-weight: 109
+weight: 111
 url: /java/com.aspose.pdf/field/
 ---
 **Inheritance:**
@@ -43,7 +43,7 @@ Base class for acro form fields.
 | [isSynchronized()](#isSynchronized--) | Returns true if dictionary is synchronized. |
 | [size()](#size--) | Gets number of subfields in this field. |
 | [getSyncRoot()](#getSyncRoot--) | Synchronization object. |
-| [isGroup()](#isGroup--) | Gets boolean value which indicates is this field non-terminal field i.e. group of fields. |
+| [isGroup()](#isGroup--) | Gets boolean value which indicates is this field non-terminal field i.e. |
 | [copyTo(Field[] array, int index)](#copyTo-com.aspose.pdf.Field---int-) | Copies subfields of this field into array starting from specified index. |
 | [iterator()](#iterator--) | Returns enumerator of contained fields. |
 | [flatten()](#flatten--) | Removes this field and place its value directly on the page. |
@@ -60,10 +60,10 @@ Base class for acro form fields.
 | [setSharedField(boolean value)](#setSharedField-boolean-) | Property for Generator support. |
 | [isFitIntoRectangle()](#isFitIntoRectangle--) | If true then font size will reduced to fit text to specified rectangle. |
 | [setFitIntoRectangle(boolean value)](#setFitIntoRectangle-boolean-) | If true then font size will reduced to fit text to specified rectangle. |
-| [getMaxFontSize()](#getMaxFontSize--) | Maximal font size which can be used for field contents. -1 to don't check size. |
-| [setMaxFontSize(double value)](#setMaxFontSize-double-) | Maximal font size which can be used for field contents. -1 to don't check size. |
-| [getMinFontSize()](#getMinFontSize--) | Minimal font size which can be used for field contents. -1 to don't check size. |
-| [setMinFontSize(double value)](#setMinFontSize-double-) | Minimal font size which can be used for field contents. -1 to don't check size. |
+| [getMaxFontSize()](#getMaxFontSize--) | Maximal font size which can be used for field contents. |
+| [setMaxFontSize(double value)](#setMaxFontSize-double-) | Maximal font size which can be used for field contents. |
+| [getMinFontSize()](#getMinFontSize--) | Minimal font size which can be used for field contents. |
+| [setMinFontSize(double value)](#setMinFontSize-double-) | Minimal font size which can be used for field contents. |
 | [getTabOrder()](#getTabOrder--) | Gets or sets tab order of the field. |
 | [setTabOrder(int value)](#setTabOrder-int-) | Gets or sets tab order of the field. |
 | [add(WidgetAnnotation item)](#add-com.aspose.pdf.WidgetAnnotation-) |  |

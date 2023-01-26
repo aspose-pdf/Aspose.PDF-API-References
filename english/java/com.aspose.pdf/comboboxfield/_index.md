@@ -3,7 +3,7 @@ title: ComboBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Combobox field of the form.
 type: docs
-weight: 70
+weight: 72
 url: /java/com.aspose.pdf/comboboxfield/
 ---
 **Inheritance:**

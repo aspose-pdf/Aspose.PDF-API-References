@@ -3,7 +3,7 @@ title: Layer
 second_title: Aspose.PDF for Java API Reference
 description: Represents page layer.
 type: docs
-weight: 190
+weight: 192
 url: /java/com.aspose.pdf/layer/
 ---
 **Inheritance:**

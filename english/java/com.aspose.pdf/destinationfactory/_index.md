@@ -3,7 +3,7 @@ title: DestinationFactory
 second_title: Aspose.PDF for Java API Reference
 description: Represents DestinationFactory class
 type: docs
-weight: 86
+weight: 88
 url: /java/com.aspose.pdf/destinationfactory/
 ---
 **Inheritance:**

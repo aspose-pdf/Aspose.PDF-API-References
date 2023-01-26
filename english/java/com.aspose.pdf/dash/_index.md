@@ -3,7 +3,7 @@ title: Dash
 second_title: Aspose.PDF for Java API Reference
 description: Class representing line dash pattern.
 type: docs
-weight: 81
+weight: 83
 url: /java/com.aspose.pdf/dash/
 ---
 **Inheritance:**

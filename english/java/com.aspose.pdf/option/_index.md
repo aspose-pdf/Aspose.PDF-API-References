@@ -3,7 +3,7 @@ title: Option
 second_title: Aspose.PDF for Java API Reference
 description: Class represents option of choice field.
 type: docs
-weight: 238
+weight: 240
 url: /java/com.aspose.pdf/option/
 ---
 **Inheritance:**

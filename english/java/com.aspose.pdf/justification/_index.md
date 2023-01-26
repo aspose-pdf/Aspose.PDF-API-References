@@ -3,7 +3,7 @@ title: Justification
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the forms of quadding justification to be used in displaying the annotations text.
 type: docs
-weight: 184
+weight: 186
 url: /java/com.aspose.pdf/justification/
 ---
 **Inheritance:**

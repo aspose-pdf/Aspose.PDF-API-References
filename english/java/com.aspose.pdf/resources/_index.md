@@ -3,7 +3,7 @@ title: Resources
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page resources.
 type: docs
-weight: 311
+weight: 314
 url: /java/com.aspose.pdf/resources/
 ---
 **Inheritance:**
@@ -23,7 +23,7 @@ Class representing page resources.
 | [getFonts(boolean createIfAbsent)](#getFonts-boolean-) | Returns fonts collection. |
 | [getFonts()](#getFonts--) | Gets  Fonts  resources collection |
 | [getResourcesFor(Form form)](#getResourcesFor-com.aspose.pdf.Form-) | Gets resources for |
-| [isCommonResource()](#isCommonResource--) | True if this resources are common i.e. are shared for several pages (placed in pages dictionary or in every page as object reference) Manipulation with common resources must be performed very carefully for example deleting object form common resources in one page may cause errors on other pages if deleted object was used for other pages. |
+| [isCommonResource()](#isCommonResource--) | True if this resources are common i.e. |
 | [setResourceDictionary(IResourceDictionary resourceDictionary)](#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-) | For internal usage only! |
 ### clearImagesCache() {#clearImagesCache--}
 ```

@@ -3,7 +3,7 @@ title: PKCS7
 second_title: Aspose.PDF for Java API Reference
 description: Represents the PKCS7 object that conform to the PKCS7 specification in Internet RFC 2315 PKCS 7 Cryptographic Message Syntax Version 1.5.
 type: docs
-weight: 256
+weight: 258
 url: /java/com.aspose.pdf/pkcs7/
 ---
 **Inheritance:**

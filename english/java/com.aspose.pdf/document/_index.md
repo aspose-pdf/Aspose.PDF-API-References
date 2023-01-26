@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.PDF for Java API Reference
 description: Class representing PDF document
 type: docs
-weight: 92
+weight: 94
 url: /java/com.aspose.pdf/document/
 ---
 **Inheritance:**
@@ -37,8 +37,8 @@ Class representing PDF document
 
 | Method | Description |
 | --- | --- |
-| [getPageInfo()](#getPageInfo--) | Gets the page info. |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
+| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document) |
+| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document) |
 | [getDestinations()](#getDestinations--) | Gets the collection of destinations. |
 | [getPdfFormat()](#getPdfFormat--) | Gets pdfa format |
 | [getFontUtilities()](#getFontUtilities--) | IDocumentFontUtilities instance |
@@ -114,7 +114,7 @@ Class representing PDF document
 | [getPermissions()](#getPermissions--) | Gets permissions of the document. |
 | [isEncrypted()](#isEncrypted--) | Gets encrypted status of the document. |
 | [optimize()](#optimize--) | Linearize document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. |
-| [save()](#save--) | Save document incrementally (i.e. using incremental update technique). |
+| [save()](#save--) | Save document incrementally (i.e. |
 | [save(String outputFileName, SaveFormat format)](#save-java.lang.String-com.aspose.pdf.SaveFormat-) | Saves the document with a new name along with a file format. |
 | [saveIncrementally(OutputStream output)](#saveIncrementally-java.io.OutputStream-) | Saves incrementally the PDF Document to the specified stream. |
 | [saveIncrementally(System.IO.Stream output)](#saveIncrementally-com.aspose.ms.System.IO.Stream-) | Saves incrementally the PDF Document to the specified stream. |

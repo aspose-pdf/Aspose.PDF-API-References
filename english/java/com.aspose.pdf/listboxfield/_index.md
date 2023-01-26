@@ -3,7 +3,7 @@ title: ListBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class represents ListBox field.
 type: docs
-weight: 202
+weight: 204
 url: /java/com.aspose.pdf/listboxfield/
 ---
 **Inheritance:**

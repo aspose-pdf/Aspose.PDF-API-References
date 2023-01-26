@@ -3,7 +3,7 @@ title: MdLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Load options for Markdown format conversion.
 type: docs
-weight: 212
+weight: 214
 url: /java/com.aspose.pdf/mdloadoptions/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: JavaScriptCollection
 second_title: Aspose.PDF for Java API Reference
 description: This class represents collection of JavaScript.
 type: docs
-weight: 182
+weight: 184
 url: /java/com.aspose.pdf/javascriptcollection/
 ---
 **Inheritance:**
