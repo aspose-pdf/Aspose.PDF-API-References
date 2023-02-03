@@ -3,7 +3,7 @@ title: MarkupParagraph
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a paragraph.
 type: docs
-weight: 6860
+weight: 7050
 url: /net/aspose.pdf.text/markupparagraph/
 ---
 ## MarkupParagraph class

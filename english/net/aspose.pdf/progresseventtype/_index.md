@@ -3,7 +3,7 @@ title: ProgressEventType
 second_title: Aspose.PDF for .NET API Reference
 description: This enum describes possible progress event types that can occure during conversion
 type: docs
-weight: 6220
+weight: 6410
 url: /net/aspose.pdf/progresseventtype/
 ---
 ## ProgressEventType enumeration

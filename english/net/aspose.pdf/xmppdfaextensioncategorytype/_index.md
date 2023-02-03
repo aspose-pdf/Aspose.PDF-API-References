@@ -3,7 +3,7 @@ title: XmpPdfAExtensionCategoryType
 second_title: Aspose.PDF for .NET API Reference
 description: Property category internal or external.
 type: docs
-weight: 7530
+weight: 7720
 url: /net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
 ## XmpPdfAExtensionCategoryType enumeration

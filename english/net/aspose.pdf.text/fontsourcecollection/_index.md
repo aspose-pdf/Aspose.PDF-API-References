@@ -3,7 +3,7 @@ title: FontSourceCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Represents font sources collection.
 type: docs
-weight: 6790
+weight: 6980
 url: /net/aspose.pdf.text/fontsourcecollection/
 ---
 ## FontSourceCollection class
