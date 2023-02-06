@@ -3,7 +3,7 @@ title: LoadFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies load format.
 type: docs
-weight: 443
+weight: 446
 url: /java/com.aspose.pdf/loadformat/
 ---
 **Inheritance:**

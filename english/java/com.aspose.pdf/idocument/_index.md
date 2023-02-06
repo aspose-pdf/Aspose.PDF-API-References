@@ -3,7 +3,7 @@ title: IDocument
 second_title: Aspose.PDF for Java API Reference
 description: interface representing PDF document
 type: docs
-weight: 434
+weight: 437
 url: /java/com.aspose.pdf/idocument/
 ---
 **All Implemented Interfaces:**
@@ -64,8 +64,8 @@ interface representing PDF document
 | [setDuplex(int value)](#setDuplex-int-) | Gets or sets print duplex mode handling option to use when printing the file from the print dialog. |
 | [getFileName()](#getFileName--) | Name of the PDF file that caused this document |
 | [setLayersAdded(boolean value)](#setLayersAdded-boolean-) | Set LayersAdded value |
-| [getPageInfo()](#getPageInfo--) | Gets the page info. |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
+| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document) |
+| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document) |
 | [getEnableSignatureSanitization()](#getEnableSignatureSanitization--) | Gets or sets flag to manage signature fields sanitization. |
 | [setEnableSignatureSanitization(boolean value)](#setEnableSignatureSanitization-boolean-) | Gets or sets flag to manage signature fields sanitization. |
 | [getInfo()](#getInfo--) | Gets document info. |
@@ -106,7 +106,7 @@ interface representing PDF document
 | [getPermissions()](#getPermissions--) | Gets permissions of the document. |
 | [isEncrypted()](#isEncrypted--) | Gets encrypted status of the document. |
 | [optimize()](#optimize--) | Linearize document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. |
-| [save()](#save--) | Save document incrementally (i.e. using incremental update technique). |
+| [save()](#save--) | Save document incrementally (i.e. |
 | [saveIncrementally(String outputFileName)](#saveIncrementally-java.lang.String-) | Saves incrementally the PDF Document to the specified stream. |
 | [save(OutputStream outputStream, SaveFormat format)](#save-java.io.OutputStream-com.aspose.pdf.SaveFormat-) | Save document |
 | [save(String outputFileName, SaveOptions options)](#save-java.lang.String-com.aspose.pdf.SaveOptions-) | Saves the document with a new name setting its save options. |

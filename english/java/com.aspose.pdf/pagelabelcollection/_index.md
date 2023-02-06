@@ -3,7 +3,7 @@ title: PageLabelCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represeingting page label collection.
 type: docs
-weight: 264
+weight: 266
 url: /java/com.aspose.pdf/pagelabelcollection/
 ---
 **Inheritance:**

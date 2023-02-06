@@ -3,7 +3,7 @@ title: ColumnInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class represents a columns info.
 type: docs
-weight: 68
+weight: 70
 url: /java/com.aspose.pdf/columninfo/
 ---
 **Inheritance:**

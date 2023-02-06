@@ -3,7 +3,7 @@ title: MarkupParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents a paragraph.
 type: docs
-weight: 208
+weight: 210
 url: /java/com.aspose.pdf/markupparagraph/
 ---
 **Inheritance:**

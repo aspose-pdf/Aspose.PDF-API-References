@@ -3,7 +3,7 @@ title: XmpPdfAExtensionSchemaDescription
 second_title: Aspose.PDF for .NET API Reference
 description: Represents the description of XMP extension schema which is provided by PDF/A-1.
 type: docs
-weight: 7580
+weight: 7770
 url: /net/aspose.pdf/xmppdfaextensionschemadescription/
 ---
 ## XmpPdfAExtensionSchemaDescription class

@@ -3,7 +3,7 @@ title: TextSegmentCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text segments collection
 type: docs
-weight: 388
+weight: 391
 url: /java/com.aspose.pdf/textsegmentcollection/
 ---
 **Inheritance:**

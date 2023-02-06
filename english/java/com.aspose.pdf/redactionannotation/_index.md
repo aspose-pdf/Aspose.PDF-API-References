@@ -3,7 +3,7 @@ title: RedactionAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents Redact annotation.
 type: docs
-weight: 303
+weight: 306
 url: /java/com.aspose.pdf/redactionannotation/
 ---
 **Inheritance:**
@@ -40,9 +40,9 @@ Represents Redact annotation.
 | [setRepeat(boolean value)](#setRepeat-boolean-) | If true overlay text will be repated on the annotation. |
 | [getTextAlignment()](#getTextAlignment--) | Gets alignment of Overlay Text. |
 | [setTextAlignment(int value)](#setTextAlignment-int-) | Sets alignment of Overlay Text. |
-| [flatten()](#flatten--) | Flattens annotation i.e. removes annotation and adds its content |
-| [redact()](#redact--) | Flattens annotation and redacts page contents (i.e. removes text and image content under redacted annotation) |
-| [redactExact()](#redactExact--) | Flattens annotation and redacts page contents (i.e. removes text and image content exactly under redacted annotation) |
+| [flatten()](#flatten--) | Flattens annotation i.e. |
+| [redact()](#redact--) | Flattens annotation and redacts page contents (i.e. |
+| [redactExact()](#redactExact--) | Flattens annotation and redacts page contents (i.e. |
 | [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
 | [setFontSize(double fontSize)](#setFontSize-double-) | Font size of text to print on redact annotation. |
 ### RedactionAnnotation(IDocument document) {#RedactionAnnotation-com.aspose.pdf.IDocument-}

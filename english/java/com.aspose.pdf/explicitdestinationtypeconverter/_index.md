@@ -3,7 +3,7 @@ title: ExplicitDestinationTypeConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents ExplicitDestinationTypeConverter class
 type: docs
-weight: 105
+weight: 107
 url: /java/com.aspose.pdf/explicitdestinationtypeconverter/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: PrintDuplex
 second_title: Aspose.PDF for Java API Reference
 description: The paper handling option to use when printing the file from the print dialog..
 type: docs
-weight: 296
+weight: 298
 url: /java/com.aspose.pdf/printduplex/
 ---
 **Inheritance:**

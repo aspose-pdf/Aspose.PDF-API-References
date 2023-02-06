@@ -3,7 +3,7 @@ title: PdfXmlSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for PdfXml format.
 type: docs
-weight: 283
+weight: 285
 url: /java/com.aspose.pdf/pdfxmlsaveoptions/
 ---
 **Inheritance:**

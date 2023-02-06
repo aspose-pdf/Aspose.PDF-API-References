@@ -3,7 +3,7 @@ title: NamedDestination
 second_title: Aspose.PDF for Java API Reference
 description: Instead of being defined directly with the explicit syntax a destination may be referred to indirectly by means of a name object or a byte string.
 type: docs
-weight: 227
+weight: 229
 url: /java/com.aspose.pdf/nameddestination/
 ---
 **Inheritance:**

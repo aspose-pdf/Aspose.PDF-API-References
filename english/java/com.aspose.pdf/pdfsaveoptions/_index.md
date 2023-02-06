@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Pdf format
 type: docs
-weight: 281
+weight: 283
 url: /java/com.aspose.pdf/pdfsaveoptions/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TextStyle
 second_title: Aspose.PDF for Java API Reference
 description: Class representing checkbox field
 type: docs
-weight: 391
+weight: 394
 url: /java/com.aspose.pdf/textstyle/
 ---
 **Inheritance:**

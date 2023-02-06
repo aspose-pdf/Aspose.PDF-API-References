@@ -3,7 +3,7 @@ title: FitRExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents explicit destination that displays the page with its contents magnified just enough to fit the rectangle specified by the coordinates left bottom right and topentirely within the window both horizontally and vertically.
 type: docs
-weight: 125
+weight: 127
 url: /java/com.aspose.pdf/fitrexplicitdestination/
 ---
 **Inheritance:**

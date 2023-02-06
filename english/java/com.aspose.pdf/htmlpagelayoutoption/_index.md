@@ -3,7 +3,7 @@ title: HtmlPageLayoutOption
 second_title: Aspose.PDF for Java API Reference
 description: Specifies flags that together other options determine sizes and layouts of pages.
 type: docs
-weight: 161
+weight: 163
 url: /java/com.aspose.pdf/htmlpagelayoutoption/
 ---
 **Inheritance:**

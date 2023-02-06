@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.PDF for Java API Reference
 description: Class represents rectangle.
 type: docs
-weight: 301
+weight: 304
 url: /java/com.aspose.pdf/rectangle/
 ---
 **Inheritance:**
@@ -42,12 +42,12 @@ Class represents rectangle.
 | [toString()](#toString--) | Gets rectangle string representation. |
 | [parse(String value)](#parse-java.lang.String-) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
 | [getEmpty()](#getEmpty--) | Gets empty rectangle |
-| [getTrivial()](#getTrivial--) | Initializes trivial rectangle i.e. rectangle with zero position and size. |
-| [isTrivial()](#isTrivial--) | Checks if rectangle is trivial i.e. has zero size and position. |
+| [getTrivial()](#getTrivial--) | Initializes trivial rectangle i.e. |
+| [isTrivial()](#isTrivial--) | Checks if rectangle is trivial i.e. |
 | [isEmpty()](#isEmpty--) | Checks if rectangle is empty. |
 | [isPoint()](#isPoint--) | Checks if rectangle is point i.e. |
-| [equals(Object other)](#equals-java.lang.Object-) | Check if rectangles are equal i.e. have same position and sizes. |
-| [nearEquals(Rectangle other, double delta)](#nearEquals-com.aspose.pdf.Rectangle-double-) | Check if rectangles are near equal i.e. have near same (up to delta) position and sizes. |
+| [equals(Object other)](#equals-java.lang.Object-) | Check if rectangles are equal i.e. |
+| [nearEquals(Rectangle other, double delta)](#nearEquals-com.aspose.pdf.Rectangle-double-) | Check if rectangles are near equal i.e. |
 | [hashCode()](#hashCode--) | Returns a hash code value for the object. |
 | [intersect(Rectangle otherRect)](#intersect-com.aspose.pdf.Rectangle-) | Intersects to rectangles. |
 | [join(Rectangle otherRect)](#join-com.aspose.pdf.Rectangle-) | Joins rectangles. |

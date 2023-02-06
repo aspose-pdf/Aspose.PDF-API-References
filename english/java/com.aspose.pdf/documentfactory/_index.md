@@ -3,7 +3,7 @@ title: DocumentFactory
 second_title: Aspose.PDF for Java API Reference
 description: Class which allows to create/load documents of different types.
 type: docs
-weight: 94
+weight: 96
 url: /java/com.aspose.pdf/documentfactory/
 ---
 **Inheritance:**

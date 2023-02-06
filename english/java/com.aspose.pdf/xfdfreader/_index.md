@@ -3,7 +3,7 @@ title: XfdfReader
 second_title: Aspose.PDF for Java API Reference
 description: Class which peroformes reading of XFDF format.
 type: docs
-weight: 414
+weight: 417
 url: /java/com.aspose.pdf/xfdfreader/
 ---
 **Inheritance:**

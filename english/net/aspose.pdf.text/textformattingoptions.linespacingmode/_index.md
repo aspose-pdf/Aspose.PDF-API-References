@@ -3,7 +3,7 @@ title: TextFormattingOptions.LineSpacingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Defines line spacing specifics
 type: docs
-weight: 7130
+weight: 7320
 url: /net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
 ## TextFormattingOptions.LineSpacingMode enumeration

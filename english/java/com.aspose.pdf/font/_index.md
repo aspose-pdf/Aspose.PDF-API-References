@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PDF for Java API Reference
 description: Represents font object.
 type: docs
-weight: 131
+weight: 133
 url: /java/com.aspose.pdf/font/
 ---
 **Inheritance:**
@@ -48,6 +48,7 @@ The example demonstrates how to search text on first page and change font of a f
 | --- | --- |
 | [getType()](#getType--) | The font's type Name |
 | [getFontName()](#getFontName--) | Gets font name of the  Font  object. |
+| [getActualFontName()](#getActualFontName--) | Gets actual font name of the  Font  object if it is initialized. |
 | [getDecodedFontName()](#getDecodedFontName--) | Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificical font name. |
 | [getBaseFont()](#getBaseFont--) | Gets BaseFont value of PDF font object. |
 | [getLastFontEmbeddingError()](#getLastFontEmbeddingError--) | An objective of this method - to return description of error if an attempt to embed font was failed. |
@@ -98,6 +99,33 @@ The example demonstrates how to search text on first page and view font name of 
   
   // View font name of first text occurrence
   System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getFontName());
+```
+### getActualFontName() {#getActualFontName--}
+```
+public String getActualFontName()
+```
+
+
+Gets actual font name of the  Font  object if it is initialized. Even when the font is substituted or has internal name for pdf. Or empty string if the font is not initialized.
+
+**Returns:**
+java.lang.String - String value
+
+--------------------
+
+```
+The example demonstrates how to search text on first page and view actual font name of a first text occurrence.
+
+  // Open document
+  Document doc = new Document(@"D:\Tests\input.pdf");
+  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+  // Accept the absorber for first page
+  doc.getPages().get_Item(1).accept(absorber);
+
+  // View actual font name of first text occurrence
+  System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getActualFontName());
 ```
 ### getDecodedFontName() {#getDecodedFontName--}
 ```
@@ -283,7 +311,7 @@ System font object.
 For internal usage only
 
 **Returns:**
-[IFont](../../com.aspose.font/ifont) - IFont object
+com.aspose.font.IFont - IFont object
 ### save(OutputStream stream) {#save-java.io.OutputStream-}
 ```
 public void save(OutputStream stream)

@@ -3,7 +3,7 @@ title: ImagePlacement
 second_title: Aspose.PDF for Java API Reference
 description: Represents characteristics of an image placed to Pdf document page.
 type: docs
-weight: 172
+weight: 174
 url: /java/com.aspose.pdf/imageplacement/
 ---
 **Inheritance:**

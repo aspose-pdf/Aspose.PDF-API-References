@@ -3,7 +3,7 @@ title: GoToAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a go-to action that changes the view to a specified destination page location and magnification factor.
 type: docs
-weight: 145
+weight: 147
 url: /java/com.aspose.pdf/gotoaction/
 ---
 **Inheritance:**

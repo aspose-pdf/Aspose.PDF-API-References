@@ -3,7 +3,7 @@ title: TextAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text annotation that is a sticky note attached to a point in the PDF document.
 type: docs
-weight: 363
+weight: 366
 url: /java/com.aspose.pdf/textannotation/
 ---
 **Inheritance:**
@@ -33,7 +33,7 @@ Represents a text annotation that is a "sticky note" attached to a point in the 
 | [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
 | [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor object to process the annotation. |
 | [getStateModel()](#getStateModel--) | Gets state model |
-| [changeAfterResize(Matrix transform)](#changeAfterResize-com.aspose.pdf.Matrix-) | Updates the Starting and Ending points, according to the matrix transform. |
+| [changeAfterResize(Matrix transform)](#changeAfterResize-com.aspose.pdf.Matrix-) | Overrides the definition in the base class with an empty body. |
 ### TextAnnotation(IDocument document) {#TextAnnotation-com.aspose.pdf.IDocument-}
 ```
 public TextAnnotation(IDocument document)
@@ -177,7 +177,7 @@ public void changeAfterResize(Matrix transform)
 ```
 
 
-Updates the Starting and Ending points, according to the matrix transform.
+Overrides the definition in the base class with an empty body.
 
 **Parameters:**
 | Parameter | Type | Description |

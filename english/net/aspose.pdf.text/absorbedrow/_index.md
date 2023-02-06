@@ -3,7 +3,7 @@ title: AbsorbedRow
 second_title: Aspose.PDF for .NET API Reference
 description: Represents row of table that exist on the page
 type: docs
-weight: 6660
+weight: 6850
 url: /net/aspose.pdf.text/absorbedrow/
 ---
 ## AbsorbedRow class

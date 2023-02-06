@@ -3,7 +3,7 @@ title: ImageFilterType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration representing image filter type.
 type: docs
-weight: 170
+weight: 172
 url: /java/com.aspose.pdf/imagefiltertype/
 ---
 **Inheritance:**

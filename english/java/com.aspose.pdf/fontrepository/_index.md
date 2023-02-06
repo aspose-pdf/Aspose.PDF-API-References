@@ -3,7 +3,7 @@ title: FontRepository
 second_title: Aspose.PDF for Java API Reference
 description: Performs font search.
 type: docs
-weight: 135
+weight: 137
 url: /java/com.aspose.pdf/fontrepository/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: FontStyles
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies style information applied to text.
 type: docs
-weight: 6800
+weight: 6990
 url: /net/aspose.pdf.text/fontstyles/
 ---
 ## FontStyles enumeration

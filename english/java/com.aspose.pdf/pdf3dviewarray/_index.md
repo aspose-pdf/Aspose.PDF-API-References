@@ -3,7 +3,7 @@ title: PDF3DViewArray
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DViewArray.
 type: docs
-weight: 254
+weight: 256
 url: /java/com.aspose.pdf/pdf3dviewarray/
 ---
 **Inheritance:**

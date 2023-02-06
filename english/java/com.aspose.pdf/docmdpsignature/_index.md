@@ -3,7 +3,7 @@ title: DocMDPSignature
 second_title: Aspose.PDF for Java API Reference
 description: Represents the class of document MDP modification detection and prevention signature type.
 type: docs
-weight: 90
+weight: 92
 url: /java/com.aspose.pdf/docmdpsignature/
 ---
 **Inheritance:**

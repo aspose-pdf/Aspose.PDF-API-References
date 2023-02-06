@@ -3,7 +3,7 @@ title: WidgetAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing widget annotation.
 type: docs
-weight: 406
+weight: 409
 url: /java/com.aspose.pdf/widgetannotation/
 ---
 **Inheritance:**

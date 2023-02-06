@@ -3,7 +3,7 @@ title: UnsupportedFontTypeException
 second_title: Aspose.PDF for .NET API Reference
 description: The exception that is thrown when a font type is not supported.
 type: docs
-weight: 7360
+weight: 7550
 url: /net/aspose.pdf/unsupportedfonttypeexception/
 ---
 ## UnsupportedFontTypeException class

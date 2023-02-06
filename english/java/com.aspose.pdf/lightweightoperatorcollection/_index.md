@@ -3,7 +3,7 @@ title: LightweightOperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Lightweight operator collection.
 type: docs
-weight: 195
+weight: 197
 url: /java/com.aspose.pdf/lightweightoperatorcollection/
 ---
 **Inheritance:**

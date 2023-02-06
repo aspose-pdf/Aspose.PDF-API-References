@@ -3,7 +3,7 @@ title: FitHExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents explicit destination that displays the page with the vertical coordinate to positioned at the top edge of the window and the contents of the page magnified just enough to fit the entire width of the page within the window.
 type: docs
-weight: 124
+weight: 126
 url: /java/com.aspose.pdf/fithexplicitdestination/
 ---
 **Inheritance:**

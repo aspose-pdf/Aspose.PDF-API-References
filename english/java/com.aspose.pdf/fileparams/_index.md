@@ -3,7 +3,7 @@ title: FileParams
 second_title: Aspose.PDF for Java API Reference
 description: Defines an embedded file parameter dictionary that shall contain additional file-specific information.
 type: docs
-weight: 117
+weight: 119
 url: /java/com.aspose.pdf/fileparams/
 ---
 **Inheritance:**

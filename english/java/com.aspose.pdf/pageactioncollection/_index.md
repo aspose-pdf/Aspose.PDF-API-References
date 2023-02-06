@@ -3,7 +3,7 @@ title: PageActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: This class describes page actions
 type: docs
-weight: 259
+weight: 261
 url: /java/com.aspose.pdf/pageactioncollection/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Element
 second_title: Aspose.PDF for Java API Reference
 description: Class representing base element of logical structure.
 type: docs
-weight: 97
+weight: 99
 url: /java/com.aspose.pdf/element/
 ---
 **Inheritance:**

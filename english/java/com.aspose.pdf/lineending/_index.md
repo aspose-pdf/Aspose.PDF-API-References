@@ -3,7 +3,7 @@ title: LineEnding
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the line ending styles to be used in drawing the line.
 type: docs
-weight: 197
+weight: 199
 url: /java/com.aspose.pdf/lineending/
 ---
 **Inheritance:**

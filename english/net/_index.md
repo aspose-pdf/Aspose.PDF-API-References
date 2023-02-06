@@ -23,6 +23,7 @@ is_root: true
 | [Aspose.Pdf.Operators](./aspose.pdf.operators) | The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents. |
 | [Aspose.Pdf.Optimization](./aspose.pdf.optimization) | The **Aspose.Pdf.Optimization** is a namespace for classes for managing of document optimization process. |
 | [Aspose.Pdf.PdfAOptionClasses](./aspose.pdf.pdfaoptionclasses) | The **Aspose.PdfAOptionClasses** is a namespace for PDF/A convertsion optins. |
+| [Aspose.Pdf.Plugins](./aspose.pdf.plugins) | The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plugins classes which are either directly in it like **PdfOrganizer** or indirectly through several subnamespaces. |
 | [Aspose.Pdf.Sanitization](./aspose.pdf.sanitization) | The **Aspose.Pdf.Sanitization** is a namespace for sanitization operations. |
 | [Aspose.Pdf.Structure](./aspose.pdf.structure) | The **Aspose.Pdf.Structure** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes. |
 | [Aspose.Pdf.Tagged](./aspose.pdf.tagged) | The **Aspose.Pdf.Tagged** is a namespace for classes for support of Tagged PDF documents. |

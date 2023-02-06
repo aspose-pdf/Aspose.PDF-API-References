@@ -3,7 +3,7 @@ title: OcspSettings
 second_title: Aspose.PDF for Java API Reference
 description: Represents the ocsp settings using during signing process.
 type: docs
-weight: 232
+weight: 234
 url: /java/com.aspose.pdf/ocspsettings/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.PDF for Java API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 193
+weight: 195
 url: /java/com.aspose.pdf/license/
 ---
 **Inheritance:**

@@ -45,6 +45,7 @@ Enumeration of annotation types.
 | [RichMedia](#RichMedia) | Rich media annotation type |
 | [Unknown](#Unknown) | Unknown annotation. |
 | [PDF3D](#PDF3D) | PDF3D annotation |
+| [ColorBar](#ColorBar) | ColorBar annotation. |
 ### Text {#Text}
 ```
 public static final int Text
@@ -268,4 +269,12 @@ public static final int PDF3D
 
 
 PDF3D annotation
+
+### ColorBar {#ColorBar}
+```
+public static final int ColorBar
+```
+
+
+ColorBar annotation.
 

@@ -3,7 +3,7 @@ title: FileSelectBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Field for file select box element.
 type: docs
-weight: 118
+weight: 120
 url: /java/com.aspose.pdf/fileselectboxfield/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: IconFit
 second_title: Aspose.PDF for Java API Reference
 description: Describes how the widget annotations icon shall be displayed within its annotation rectangle.
 type: docs
-weight: 165
+weight: 167
 url: /java/com.aspose.pdf/iconfit/
 ---
 **Inheritance:**

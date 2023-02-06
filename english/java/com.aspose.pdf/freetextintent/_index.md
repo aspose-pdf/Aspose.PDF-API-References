@@ -3,7 +3,7 @@ title: FreeTextIntent
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the intents of the free text annotation.
 type: docs
-weight: 144
+weight: 146
 url: /java/com.aspose.pdf/freetextintent/
 ---
 **Inheritance:**

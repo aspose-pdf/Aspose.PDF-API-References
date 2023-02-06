@@ -3,7 +3,7 @@ title: GraphInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents graphics info.
 type: docs
-weight: 148
+weight: 150
 url: /java/com.aspose.pdf/graphinfo/
 ---
 **Inheritance:**

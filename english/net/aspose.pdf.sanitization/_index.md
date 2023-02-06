@@ -3,7 +3,7 @@ title: Aspose.Pdf.Sanitization
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Sanitization is a namespace for sanitization operations.
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf.sanitization/
 ---
 The **Aspose.Pdf.Sanitization** is a namespace for sanitization operations.
