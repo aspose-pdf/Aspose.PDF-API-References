@@ -227,7 +227,7 @@ The operation result
 
 ## Convert(CallBackGetHocr) {#convert_3}
 
-Convert document and save errors into the specified file.
+Recognize images inside the document and add hocr strings over it.
 
 ```csharp
 public bool Convert(CallBackGetHocr callback)
@@ -235,11 +235,11 @@ public bool Convert(CallBackGetHocr callback)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| callback | CallBackGetHocr | Action for objects that can not be converted |
+| callback | CallBackGetHocr | Action for images that will be processed by hocr recognize. |
 
 ### Return Value
 
-The operation result
+The operation result. If there are no images in the document returns !:false.
 
 ### See Also
 

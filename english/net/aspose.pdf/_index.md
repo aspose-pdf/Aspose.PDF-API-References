@@ -123,6 +123,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [PptxSaveOptions](./pptxsaveoptions) | Save options for export to SVG format |
 | [PrintController](./printcontroller) | Represents print controller. |
 | [PsLoadOptions](./psloadoptions) | Represents options for loading/importing of .mht-file into pdf document. |
+| [PsSaveOptions](./pssaveoptions) | Save options for export to PS (PostScript) or EPS format. |
 | [Rectangle](./rectangle) | Class represents rectangle. |
 | [RenderingOptions](./renderingoptions) | Represents rendering options. |
 | [Resources](./resources) | Class representing page resources. |

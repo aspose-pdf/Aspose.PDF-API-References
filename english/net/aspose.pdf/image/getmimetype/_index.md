@@ -16,7 +16,7 @@ public static string GetMimeType(Image i)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| i | Image | Image object/ |
+| i | Image | Image object. |
 
 ### Return Value
 

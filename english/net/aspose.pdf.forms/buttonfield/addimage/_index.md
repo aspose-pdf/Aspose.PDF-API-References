@@ -1,14 +1,14 @@
 ---
 title: AddImage
 second_title: Aspose.PDF for .NET API Reference
-description: Adds image into the field resources an draws it.
+description: Adds image into the field resources and draws it.
 type: docs
 weight: 100
 url: /net/aspose.pdf.forms/buttonfield/addimage/
 ---
 ## ButtonField.AddImage method
 
-Adds image into the field resources an draws it.
+Adds image into the field resources and draws it.
 
 ```csharp
 public void AddImage(Image image)

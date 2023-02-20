@@ -94,7 +94,7 @@ public sealed class Document : IDisposable
 | [BindXml](../../aspose.pdf/document/bindxml#bindxml_2)(Stream, Stream, XmlReaderSettings) | Bind xml/xsl to document |
 | [ChangePasswords](../../aspose.pdf/document/changepasswords)(string, string, string) | Changes document passwords. This action can be done only using owner password. |
 | [Check](../../aspose.pdf/document/check)(bool) | Validates document. |
-| [Convert](../../aspose.pdf/document/convert#convert_3)(CallBackGetHocr) | Convert document and save errors into the specified file. |
+| [Convert](../../aspose.pdf/document/convert#convert_3)(CallBackGetHocr) | Recognize images inside the document and add hocr strings over it. |
 | [Convert](../../aspose.pdf/document/convert#convert_2)(PdfFormatConversionOptions) | Convert document using specified conversion options |
 | [Convert](../../aspose.pdf/document/convert#convert_4)(Stream, PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified stream. |
 | [Convert](../../aspose.pdf/document/convert#convert_6)(string, PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified file. |
