@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies format
 type: docs
-weight: 6520
+weight: 6530
 url: /net/aspose.pdf/saveformat/
 ---
 ## SaveFormat enumeration
@@ -33,6 +33,8 @@ public enum SaveFormat
 | Pptx | `14` | means saving in PPTX format |
 | Aps | `15` | Saving as APS XML file. |
 | PdfXml | `16` | Internal PDF document structure in XML format |
+| Ps | `17` | means saving in PostScript format. |
+| Eps | `18` | means saving in Encapsulated PostScript format. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ITableElement
 second_title: Aspose.PDF for .NET API Reference
 description: This interface represents an element of existing table extracted by TableAbsorber.
 type: docs
-weight: 7040
+weight: 7050
 url: /net/aspose.pdf.text/itableelement/
 ---
 ## ITableElement interface

@@ -28,7 +28,7 @@ public sealed class Page : IDisposable
 | [ColorType](../../aspose.pdf/page/colortype) { get; } | Sets color type of the pages based on information getting from operators SetColor, images and forms. |
 | [Contents](../../aspose.pdf/page/contents) { get; } | Gets collection of operators in the content stream of the page. [`OperatorCollection`](../operatorcollection) |
 | [CropBox](../../aspose.pdf/page/cropbox) { get; set; } | Gets or sets crop box of the page. |
-| [Duration](../../aspose.pdf/page/duration) { get; set; } | Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returs -1 if duration is not defined. |
+| [Duration](../../aspose.pdf/page/duration) { get; set; } | Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined. |
 | [FieldsInTabOrder](../../aspose.pdf/page/fieldsintaborder) { get; } | Gets list of Field object in Tab order on this page. |
 | [Footer](../../aspose.pdf/page/footer) { get; set; } | Gets or sets page footer. |
 | [Group](../../aspose.pdf/page/group) { get; set; } | Gets or sets a group attributes class specifying the attributes of the page�s page group for use in the transparent imaging model. |

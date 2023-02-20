@@ -3,7 +3,7 @@ title: SaveOptions.BorderPartStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Represents information of one part of bordertop botom left side or right side
 type: docs
-weight: 6550
+weight: 6560
 url: /net/aspose.pdf/saveoptions.borderpartstyle/
 ---
 ## SaveOptions.BorderPartStyle class

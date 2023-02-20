@@ -3,7 +3,7 @@ title: TabLeaderType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the tab leader types.
 type: docs
-weight: 7160
+weight: 7170
 url: /net/aspose.pdf.text/tableadertype/
 ---
 ## TabLeaderType enumeration

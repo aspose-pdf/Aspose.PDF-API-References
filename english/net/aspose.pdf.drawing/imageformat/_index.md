@@ -25,6 +25,9 @@ public enum ImageFormat
 | Tiff | `4` | TIFF format. |
 | Emf | `5` | EMF format. |
 | Dicom | `6` | DICOM format. |
+| MemoryBmp | `7` | MemoryBmp format. |
+| Wmf | `8` | Wmf format. |
+| Exif | `9` | Exif format. |
 
 ### See Also
 

@@ -85,7 +85,7 @@ public class ButtonField : Field
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/widgetannotation/accept)(AnnotationSelector) | Accepts visitor. |
-| [AddImage](../../aspose.pdf.forms/buttonfield/addimage)(Image) | Adds image into the field resources an draws it. |
+| [AddImage](../../aspose.pdf.forms/buttonfield/addimage)(Image) | Adds image into the field resources and draws it. |
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Clones this instance. Virtual method. Always return null. |
 | [CopyTo](../../aspose.pdf.forms/field/copyto)(Field[], int) | Copies subfields of this field into array starting from specified index. |

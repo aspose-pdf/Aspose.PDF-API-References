@@ -16,11 +16,11 @@ public delegate string CallBackGetHocr(Image img);
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| img | Image | The hocr image. |
+| img | Image | The hocr image wrapper !:PdfImage. |
 
 ### Return Value
 
-The hocr text
+The hocr text.
 
 ### See Also
 
