@@ -23,9 +23,9 @@ function AsposePdfDeletePages(
 * **fileName** file name 
 * **fileResultName** result file name
 * **numPages** page numbers:
-  * string, include number pages with interval, like how "7, 20, 22, 30-32, 33, 36-40, 46"
-  * array, array of number pages, like how [1,3]
-  * number, number page, like how 2
+  * string, include page numbers with intervals as "7, 20, 22, 30-32, 33, 36-40, 46"
+  * array, array of page numbers, such as [1,3]
+  * number, page number as 2
 
 **Return**: 
 
