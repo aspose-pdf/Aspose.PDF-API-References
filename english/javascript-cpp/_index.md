@@ -25,6 +25,11 @@ is_root: true
 | [AsposePdfPagesToJpg](./core/asposepdfpagestojpg/) | Convert PDF file to JPEG files. |
 | [AsposePdfPagesToPng](./core/asposepdfpagestopng/) | Convert PDF file to PNG files. |
 | [AsposePdfSplit2Files](./core/asposepdfsplit2files/) | Split PDF into 2 files (parts). |
+| [AsposePdfDeletePages](./core/asposepdfdeletepages/) | Delete pages from PDF file. |
+| [AsposePdfAddPageNum](./core/asposepdfaddpagenum/) | Add page number to PDF file. |
+| [AsposePdfAddBackgroundImage](./core/asposepdfaddbackgroundimage/) | Add background image to PDF file. |
+| [AsposePdfGetInfo](./core/asposepdfgetinfo/) | Get info (metadata) from PDF file. |
+| [AsposePdfSetInfo](./core/asposepdfsetinfo/) | Set info (metadata) in PDF file. |
 
 ## Miscellaneous
 
