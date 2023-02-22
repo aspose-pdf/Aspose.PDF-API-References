@@ -17,9 +17,14 @@ url: /javascript-cpp/core/
 | [AsposePdfMerge2Files](./asposepdfmerge2files/) | Merge two PDF files. |
 | [AsposePdfSplit2Files](./asposepdfsplit2files/) | Split two PDF files. |
 | [AsposePdfAddImage](./asposepdfaddimage/) | Add image to end PDF file. |
-| [AsposePdfAddStamp](./asposepdfaddstamp) | Add stamp to PDF file. |
-| [AsposePdfPagesToJpg](./asposepdfpagestojpg) | Convert PDF file to JPG files. |
-| [AsposePdfPagesToPng](./asposepdfpagestopng) | Convert PDF file to PNG files. |
+| [AsposePdfAddStamp](./asposepdfaddstamp/) | Add stamp to PDF file. |
+| [AsposePdfPagesToJpg](./asposepdfpagestojpg/) | Convert PDF file to JPG files. |
+| [AsposePdfPagesToPng](./asposepdfpagestopng/) | Convert PDF file to PNG files. |
+| [AsposePdfDeletePages](./asposepdfdeletepages/) | Delete pages from PDF file. |
+| [AsposePdfAddPageNum](./asposepdfaddpagenum/) | Add page number to PDF file. |
+| [AsposePdfAddBackgroundImage](./asposepdfaddbackgroundimage/) | Add background image to PDF file. |
+| [AsposePdfGetInfo](./asposepdfgetinfo/) | Get info (metadata) from PDF file. |
+| [AsposePdfSetInfo](./asposepdfsetinfo/) | Set info (metadata) in PDF file. |
 
 ## Detailed Description
 

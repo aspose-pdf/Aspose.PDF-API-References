@@ -11,7 +11,9 @@ _Convert PDF file to PNG files._
 ```
 function AsposePdfPagesToPng(
     fileBlob ,
-    fileName 
+    fileName ,
+    fileResultName ,
+    resolution
 )
 ```
 
@@ -19,6 +21,7 @@ function AsposePdfPagesToPng(
   * **fileBlob** Blob object 
   * **fileName** file name 
   * **fileResultName** result file name template (for sample: "ResultPdfToPng{0:D2}.png" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **resolution** image resolution, default 300 dpi
 
 **Return**: 
 JSON object 
@@ -34,8 +37,8 @@ JSON object
   var ffileToPng = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*convert a PDF file to png-files with template "ResultPdfToPng{0:D2}.png" ({0}, {0:D2}, {0:D3}, ... format page number) and save*/
-      const json = AsposePdfPagesToPng(event.target.result, e.target.files[0].name, "ResultPdfToPng{0:D2}.png");
+      /*convert a PDF file to png-files with template "ResultPdfToPng{0:D2}.png" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/
+      const json = AsposePdfPagesToPng(event.target.result, e.target.files[0].name, "ResultPdfToPng{0:D2}.png", 150);
       if (json.errorCode == 0) {
         document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
         /*make links to result files*/
