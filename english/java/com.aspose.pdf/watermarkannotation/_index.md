@@ -3,7 +3,7 @@ title: WatermarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Watermark annotation object.
 type: docs
-weight: 406
+weight: 400
 url: /java/com.aspose.pdf/watermarkannotation/
 ---
 **Inheritance:**
@@ -83,14 +83,14 @@ Fixed print object of Watermark annotation.
 [FixedPrint](../../com.aspose.pdf/fixedprint) - FixedPrint object
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets annotation type.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
 ### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
 public void accept(AnnotationSelector visitor)

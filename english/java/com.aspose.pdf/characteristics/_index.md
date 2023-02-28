@@ -3,7 +3,7 @@ title: Characteristics
 second_title: Aspose.PDF for Java API Reference
 description: Represents annotation characteristics
 type: docs
-weight: 59
+weight: 57
 url: /java/com.aspose.pdf/characteristics/
 ---
 **Inheritance:**

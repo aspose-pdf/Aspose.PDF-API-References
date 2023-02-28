@@ -3,7 +3,7 @@ title: FontColor
 second_title: Aspose.PDF for Java API Reference
 description: Class representing color of the text.
 type: docs
-weight: 23
+weight: 21
 url: /java/com.aspose.pdf.facades/fontcolor/
 ---
 **Inheritance:**

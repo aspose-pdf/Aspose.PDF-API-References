@@ -3,7 +3,7 @@ title: SoundSampleData
 second_title: Aspose.PDF for Java API Reference
 description: Represents additional entries specific to a sound object Section 9.2 PDF1-7
 type: docs
-weight: 335
+weight: 331
 url: /java/com.aspose.pdf/soundsampledata/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TabLeaderType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the tab leader types.
 type: docs
-weight: 352
+weight: 348
 url: /java/com.aspose.pdf/tableadertype/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: SoundAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a sound annotation that contains sound recorded from the computers microphone or imported from a file.
 type: docs
-weight: 330
+weight: 326
 url: /java/com.aspose.pdf/soundannotation/
 ---
 **Inheritance:**
@@ -94,14 +94,14 @@ Gets a sound object defining the sound to be played when the annotation is activ
 [SoundData](../../com.aspose.pdf/sounddata) - SoundData value
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType value
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType value
 ### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
 public void accept(AnnotationSelector visitor)

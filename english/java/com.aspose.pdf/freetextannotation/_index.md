@@ -3,7 +3,7 @@ title: FreeTextAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a free text annotation that displays text directly on the page.
 type: docs
-weight: 145
+weight: 141
 url: /java/com.aspose.pdf/freetextannotation/
 ---
 **Inheritance:**
@@ -37,8 +37,8 @@ Represents a free text annotation that displays text directly on the page. Unlik
 | [setIntent(int value)](#setIntent-int-) | Sets the intent of the free text annotation. |
 | [getDefaultStyle()](#getDefaultStyle--) | Gets a default style string. |
 | [setDefaultStyle(String value)](#setDefaultStyle-java.lang.String-) | Sets a default style string. |
-| [getTextStyle()](#getTextStyle--) | Gets or sets style of the text in appearance. |
-| [setTextStyle(TextStyle value)](#setTextStyle-com.aspose.pdf.TextStyle-) | Sets style of the text in appearance. |
+| [getTextStyle()](#getTextStyle--) | Gets or sets style of the text in appearance. when text style is changed, text appearance is updated. |
+| [setTextStyle(TextStyle value)](#setTextStyle-com.aspose.pdf.TextStyle-) | Sets style of the text in appearance. when text style is changed, text appearance is updated. |
 | [getRotate()](#getRotate--) | Angle of annotation rotation. |
 | [setRotate(int value)](#setRotate-int-) | Angle of annotation rotation. |
 | [updateAppearance()](#updateAppearance--) | Updates the Appearance, after text has been changed/moved. |
@@ -293,14 +293,14 @@ Updates the Appearance, after text has been changed/moved.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - int value
+[AnnotationType](../../com.aspose.pdf/annotationtype) - int value
 ### getCallout() {#getCallout--}
 ```
 public final Point[] getCallout()

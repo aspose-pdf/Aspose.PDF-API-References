@@ -3,7 +3,7 @@ title: Stamp
 second_title: Aspose.PDF for Java API Reference
 description: Class represeting stamp.
 type: docs
-weight: 59
+weight: 54
 url: /java/com.aspose.pdf.facades/stamp/
 ---
 **Inheritance:**

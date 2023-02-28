@@ -3,7 +3,7 @@ title: Cell
 second_title: Aspose.PDF for Java API Reference
 description: Represents a cell of the tables row.
 type: docs
-weight: 53
+weight: 51
 url: /java/com.aspose.pdf/cell/
 ---
 **Inheritance:**
@@ -39,7 +39,7 @@ Represents a cell of the table's row.
 | [getAlignment()](#getAlignment--) | Gets the alignment. |
 | [getBackgroundImage()](#getBackgroundImage--) | Gets or sets the background image |
 | [setBackgroundImage(Image value)](#setBackgroundImage-com.aspose.pdf.Image-) | Gets or sets the background image |
-| [setAlignment(int value)](#setAlignment-int-) | Sets the alignment. |
+| [setAlignment(HorizontalAlignment value)](#setAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets the alignment. |
 | [getDefaultCellTextState()](#getDefaultCellTextState--) | Gets the default cell text state. |
 | [setDefaultCellTextState(TextState value)](#setDefaultCellTextState-com.aspose.pdf.TextState-) | Sets the default cell text state. |
 | [isOverrideByFragment()](#isOverrideByFragment--) | Sets the cell's TextState property is overriden by TextFragment TextState property. |
@@ -49,7 +49,7 @@ Represents a cell of the table's row.
 | [isWordWrapped()](#isWordWrapped--) | Gets the cell's text word wrapped. |
 | [setWordWrapped(boolean value)](#setWordWrapped-boolean-) | Sets the cell's text word wrapped. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets the vertical alignment. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets the vertical alignment. |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets the vertical alignment. |
 | [getColSpan()](#getColSpan--) | Gets or sets the column span. |
 | [setColSpan(int value)](#setColSpan-int-) | Sets the column span. |
 | [getRowSpan()](#getRowSpan--) | Gets the row span. |
@@ -195,14 +195,14 @@ Sets the background image file.
 
 ### getAlignment() {#getAlignment--}
 ```
-public int getAlignment()
+public HorizontalAlignment getAlignment()
 ```
 
 
 Gets the alignment.
 
 **Returns:**
-int - HorizontalAlignment element
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment element
 ### getBackgroundImage() {#getBackgroundImage--}
 ```
 public final Image getBackgroundImage()
@@ -226,9 +226,9 @@ Gets or sets the background image
 | --- | --- | --- |
 | value | [Image](../../com.aspose.pdf/image) | Image instance |
 
-### setAlignment(int value) {#setAlignment-int-}
+### setAlignment(HorizontalAlignment value) {#setAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setAlignment(int value)
+public void setAlignment(HorizontalAlignment value)
 ```
 
 
@@ -237,7 +237,7 @@ Sets the alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment element |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment element |
 
 ### getDefaultCellTextState() {#getDefaultCellTextState--}
 ```
@@ -333,17 +333,17 @@ Sets the cell's text word wrapped.
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets the vertical alignment.
 
 **Returns:**
-int - VerticalAlignment element
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignment(int value)
+public void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -352,7 +352,7 @@ Sets the vertical alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 
 ### getColSpan() {#getColSpan--}
 ```

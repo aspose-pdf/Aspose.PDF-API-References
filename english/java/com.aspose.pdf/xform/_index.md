@@ -3,7 +3,7 @@ title: XForm
 second_title: Aspose.PDF for Java API Reference
 description: Class represent XForm
 type: docs
-weight: 411
+weight: 405
 url: /java/com.aspose.pdf/xform/
 ---
 **Inheritance:**

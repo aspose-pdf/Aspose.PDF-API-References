@@ -3,7 +3,7 @@ title: CaretSymbol
 second_title: Aspose.PDF for Java API Reference
 description: A symbol to be associated with the caret.
 type: docs
-weight: 51
+weight: 49
 url: /java/com.aspose.pdf/caretsymbol/
 ---
 **Inheritance:**

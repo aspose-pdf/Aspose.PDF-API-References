@@ -3,7 +3,7 @@ title: Rendition
 second_title: Aspose.PDF for Java API Reference
 description: Class which describes rendition object of RendtionAnnotation.
 type: docs
-weight: 309
+weight: 305
 url: /java/com.aspose.pdf/rendition/
 ---
 **Inheritance:**

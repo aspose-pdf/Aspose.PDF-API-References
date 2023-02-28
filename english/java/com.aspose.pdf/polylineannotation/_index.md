@@ -3,7 +3,7 @@ title: PolylineAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents polyline annotation that is similar to polygon except that the first and last vertex are not implicitly connected.
 type: docs
-weight: 292
+weight: 287
 url: /java/com.aspose.pdf/polylineannotation/
 ---
 **Inheritance:**
@@ -54,11 +54,11 @@ Accepts visitor object to process the annotation.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element

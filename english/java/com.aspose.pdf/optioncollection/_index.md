@@ -3,7 +3,7 @@ title: OptionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing collection of options of the choice field.
 type: docs
-weight: 241
+weight: 236
 url: /java/com.aspose.pdf/optioncollection/
 ---
 **Inheritance:**

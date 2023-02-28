@@ -3,7 +3,7 @@ title: PdfExtractor
 second_title: Aspose.PDF for Java API Reference
 description: Class for extracting images and text from PDF document.
 type: docs
-weight: 38
+weight: 33
 url: /java/com.aspose.pdf.facades/pdfextractor/
 ---
 **Inheritance:**
@@ -37,8 +37,8 @@ Class for extracting images and text from PDF document.
 | [extractText()](#extractText--) | Extracts text from a Pdf document. |
 | [extractText(Charset encoding)](#extractText-java.nio.charset.Charset-) | Extracts text from a Pdf document using specified encoding. |
 | [extractTextInternal(TextEncodingInternal encoding)](#extractTextInternal-com.aspose.pdf.TextEncodingInternal-) | For Internal usage only |
-| [getText(String outputFile)](#getText-java.lang.String-) | Saves text to file. |
-| [getText(OutputStream outputStream)](#getText-java.io.OutputStream-) | Saves text to stream. |
+| [getText(String outputFile)](#getText-java.lang.String-) | Saves text to file. see also: ExtractText  |
+| [getText(OutputStream outputStream)](#getText-java.io.OutputStream-) | Saves text to stream. see also: ExtractText  |
 | [bindPdf(String inputFile)](#bindPdf-java.lang.String-) | Bind input PDF file. |
 | [bindPdf(InputStream inputStream)](#bindPdf-java.io.InputStream-) | Binds PDF document from stream. |
 | [extractImage()](#extractImage--) | Extract images from PDF file. |
@@ -54,7 +54,7 @@ Class for extracting images and text from PDF document.
 | [hasNextPageText()](#hasNextPageText--) | Indicates that whether can get more texts or not. |
 | [getNextPageText(String outputFile)](#getNextPageText-java.lang.String-) | Saves one page's text to file. |
 | [getNextPageText(OutputStream outputStream)](#getNextPageText-java.io.OutputStream-) | Saves one page's text to stream. |
-| [getText(OutputStream outputStream, boolean filterNotAscii)](#getText-java.io.OutputStream-boolean-) | Saves text to stream. |
+| [getText(OutputStream outputStream, boolean filterNotAscii)](#getText-java.io.OutputStream-boolean-) | Saves text to stream. see also: ExtractText  |
 | [getAttachment()](#getAttachment--) | Saves all the attachment file to streams. |
 | [getAttachmentInfo()](#getAttachmentInfo--) | Gets the list of attachments. |
 | [getResolution()](#getResolution--) | Gets resolution for extracted images. |

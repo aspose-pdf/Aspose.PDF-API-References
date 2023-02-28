@@ -3,7 +3,7 @@ title: TextParagraphCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text paragraphs collection
 type: docs
-weight: 386
+weight: 381
 url: /java/com.aspose.pdf/textparagraphcollection/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TextBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing text box field.
 type: docs
-weight: 367
+weight: 362
 url: /java/com.aspose.pdf/textboxfield/
 ---
 **Inheritance:**
@@ -36,10 +36,10 @@ Class representing text box field.
 | [getMaxLen()](#getMaxLen--) | Gets maximum length of text in the field. |
 | [setMaxLen(int value)](#setMaxLen-int-) | Sets maximum length of text in the field. |
 | [getTextVerticalAlignment()](#getTextVerticalAlignment--) | Gets or sets text vertical alignment for annotation. |
-| [setTextVerticalAlignment(int value)](#setTextVerticalAlignment-int-) | Gets or sets text vertical alignment for annotation. |
+| [setTextVerticalAlignment(VerticalAlignment value)](#setTextVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Gets or sets text vertical alignment for annotation. |
 | [getValue()](#getValue--) | Gets value of the field. |
 | [setValue(String value)](#setValue-java.lang.String-) | Sets value of the field. |
-| [addImage(BufferedImage image)](#addImage-java.awt.image.BufferedImage-) | Adds image into the field resources an draws it. |
+| [addImage(BufferedImage image)](#addImage-java.awt.image.BufferedImage-) | Adds image into the field resources and draws it. |
 | [addBarcode(String code)](#addBarcode-java.lang.String-) | Adds barcode 128 into the field. |
 | [setJustification(boolean value)](#setJustification-boolean-) | Sets justification |
 ### TextBoxField(IDocument doc) {#TextBoxField-com.aspose.pdf.IDocument-}
@@ -208,17 +208,17 @@ Sets maximum length of text in the field.
 
 ### getTextVerticalAlignment() {#getTextVerticalAlignment--}
 ```
-public final int getTextVerticalAlignment()
+public final VerticalAlignment getTextVerticalAlignment()
 ```
 
 
 Gets or sets text vertical alignment for annotation.
 
 **Returns:**
-int - VerticalAlignment element
-### setTextVerticalAlignment(int value) {#setTextVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
+### setTextVerticalAlignment(VerticalAlignment value) {#setTextVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public final void setTextVerticalAlignment(int value)
+public final void setTextVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -227,7 +227,7 @@ Gets or sets text vertical alignment for annotation.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 
 ### getValue() {#getValue--}
 ```
@@ -258,7 +258,7 @@ public void addImage(BufferedImage image)
 ```
 
 
-Adds image into the field resources an draws it.
+Adds image into the field resources and draws it.
 
 **Parameters:**
 | Parameter | Type | Description |

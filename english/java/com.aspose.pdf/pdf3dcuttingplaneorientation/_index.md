@@ -3,7 +3,7 @@ title: PDF3DCuttingPlaneOrientation
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DCuttingPlaneOrientation.
 type: docs
-weight: 251
+weight: 246
 url: /java/com.aspose.pdf/pdf3dcuttingplaneorientation/
 ---
 **Inheritance:**

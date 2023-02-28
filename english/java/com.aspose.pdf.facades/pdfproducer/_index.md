@@ -3,7 +3,7 @@ title: PdfProducer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to produce PDF from other formats.
 type: docs
-weight: 51
+weight: 46
 url: /java/com.aspose.pdf.facades/pdfproducer/
 ---
 **Inheritance:**

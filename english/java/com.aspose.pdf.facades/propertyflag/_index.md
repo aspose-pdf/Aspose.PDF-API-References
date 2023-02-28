@@ -3,7 +3,7 @@ title: PropertyFlag
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible field flags.
 type: docs
-weight: 56
+weight: 51
 url: /java/com.aspose.pdf.facades/propertyflag/
 ---
 **Inheritance:**

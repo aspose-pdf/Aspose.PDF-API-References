@@ -3,7 +3,7 @@ title: AlignmentType
 second_title: Aspose.PDF for Java API Reference
 description: Class contains possibly alignment types.
 type: docs
-weight: 11
+weight: 10
 url: /java/com.aspose.pdf.facades/alignmenttype/
 ---
 **Inheritance:**

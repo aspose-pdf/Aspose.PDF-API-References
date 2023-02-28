@@ -1,7 +1,7 @@
 ---
 title: LoadOptions.PageSizeAdjustmentModes
 second_title: Aspose.PDF for Java API Reference
-description: ATTENTION The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document.
+description: ATTENTION
 type: docs
 weight: 11
 url: /java/com.aspose.pdf/loadoptions.pagesizeadjustmentmodes/

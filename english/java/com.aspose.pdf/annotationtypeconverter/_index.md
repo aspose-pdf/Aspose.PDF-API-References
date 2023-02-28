@@ -3,7 +3,7 @@ title: AnnotationTypeConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents AnnotationTypeConverter class
 type: docs
-weight: 23
+weight: 21
 url: /java/com.aspose.pdf/annotationtypeconverter/
 ---
 **Inheritance:**
@@ -22,7 +22,7 @@ Represents AnnotationTypeConverter class
 
 | Method | Description |
 | --- | --- |
-| [toString(int value)](#toString-int-) | Converts the AnnotationType constant into its string value |
+| [toString(AnnotationType value)](#toString-com.aspose.pdf.AnnotationType-) | Converts the AnnotationType constant into its string value |
 | [toEnum(String value)](#toEnum-java.lang.String-) | Converts the AnnotationType string value into its constant value |
 ### AnnotationTypeConverter() {#AnnotationTypeConverter--}
 ```
@@ -30,9 +30,9 @@ public AnnotationTypeConverter()
 ```
 
 
-### toString(int value) {#toString-int-}
+### toString(AnnotationType value) {#toString-com.aspose.pdf.AnnotationType-}
 ```
-public static String toString(int value)
+public static String toString(AnnotationType value)
 ```
 
 
@@ -41,13 +41,13 @@ Converts the AnnotationType constant into its string value
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | AnnotationType element |
+| value | [AnnotationType](../../com.aspose.pdf/annotationtype) | AnnotationType element |
 
 **Returns:**
 java.lang.String - string value
 ### toEnum(String value) {#toEnum-java.lang.String-}
 ```
-public static int toEnum(String value)
+public static AnnotationType toEnum(String value)
 ```
 
 
@@ -59,4 +59,4 @@ Converts the AnnotationType string value into its constant value
 | value | java.lang.String | AnnotationType string name |
 
 **Returns:**
-int - AnnotationType constant value
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType constant value

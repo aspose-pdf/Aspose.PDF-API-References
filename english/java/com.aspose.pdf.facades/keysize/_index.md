@@ -3,13 +3,13 @@ title: KeySize
 second_title: Aspose.PDF for Java API Reference
 description: Defines different key sizes which can be used to encrypt pdf documents.
 type: docs
-weight: 32
+weight: 70
 url: /java/com.aspose.pdf.facades/keysize/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum
 ```
-public final class KeySize extends System.Enum
+public enum KeySize extends Enum<KeySize>
 ```
 
 Defines different key sizes which can be used to encrypt pdf documents.
@@ -20,9 +20,16 @@ Defines different key sizes which can be used to encrypt pdf documents.
 | [x40](#x40) | 40 bit key. |
 | [x128](#x128) | 128 bit key. |
 | [x256](#x256) | 256 bit key. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [values()](#values--) |  |
+| [valueOf(String name)](#valueOf-java.lang.String-) |  |
+| [getValue()](#getValue--) |  |
 ### x40 {#x40}
 ```
-public static final int x40
+public static final KeySize x40
 ```
 
 
@@ -30,7 +37,7 @@ public static final int x40
 
 ### x128 {#x128}
 ```
-public static final int x128
+public static final KeySize x128
 ```
 
 
@@ -38,9 +45,44 @@ public static final int x128
 
 ### x256 {#x256}
 ```
-public static final int x256
+public static final KeySize x256
 ```
 
 
 256 bit key. Such key size can be used only with AES and is recognized with the last Adobe Reader versions (starting from v.9).
 
+### values() {#values--}
+```
+public static KeySize[] values()
+```
+
+
+
+
+**Returns:**
+com.aspose.pdf.facades.KeySize[]
+### valueOf(String name) {#valueOf-java.lang.String-}
+```
+public static KeySize valueOf(String name)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String |  |
+
+**Returns:**
+[KeySize](../../com.aspose.pdf.facades/keysize)
+### getValue() {#getValue--}
+```
+public int getValue()
+```
+
+
+
+
+**Returns:**
+int

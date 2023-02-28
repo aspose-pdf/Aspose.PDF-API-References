@@ -3,7 +3,7 @@ title: XmpValue
 second_title: Aspose.PDF for Java API Reference
 description: Represents XMP value
 type: docs
-weight: 430
+weight: 424
 url: /java/com.aspose.pdf/xmpvalue/
 ---
 **Inheritance:**

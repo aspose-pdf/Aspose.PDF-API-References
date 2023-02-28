@@ -3,7 +3,7 @@ title: TextFormattingOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text formatting options
 type: docs
-weight: 375
+weight: 370
 url: /java/com.aspose.pdf/textformattingoptions/
 ---
 **Inheritance:**

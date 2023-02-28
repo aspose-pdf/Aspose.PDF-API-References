@@ -3,7 +3,7 @@ title: PDF3DLightingScheme
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DLightingScheme.
 type: docs
-weight: 252
+weight: 247
 url: /java/com.aspose.pdf/pdf3dlightingscheme/
 ---
 **Inheritance:**

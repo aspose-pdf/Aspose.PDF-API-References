@@ -3,7 +3,7 @@ title: Collection
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for Collection12.3.5 Collections.
 type: docs
-weight: 63
+weight: 61
 url: /java/com.aspose.pdf/collection/
 ---
 **Inheritance:**

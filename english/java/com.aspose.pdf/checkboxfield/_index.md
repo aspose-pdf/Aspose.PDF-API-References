@@ -3,7 +3,7 @@ title: CheckboxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing checkbox field
 type: docs
-weight: 60
+weight: 58
 url: /java/com.aspose.pdf/checkboxfield/
 ---
 **Inheritance:**

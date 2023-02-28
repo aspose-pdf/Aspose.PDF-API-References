@@ -3,7 +3,7 @@ title: PrintController
 second_title: Aspose.PDF for Java API Reference
 description: Represents print controller.
 type: docs
-weight: 297
+weight: 292
 url: /java/com.aspose.pdf/printcontroller/
 ---
 **Inheritance:**

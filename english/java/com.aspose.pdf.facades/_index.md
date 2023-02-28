@@ -14,7 +14,6 @@ The **com.aspose.pdf.facades** package provides classes originally came from Asp
 
 | Class | Description |
 | --- | --- |
-| [Algorithm](../com.aspose.pdf.facades/algorithm) | Represents algorithms which can be used to encrypt pdf document. |
 | [AlignmentType](../com.aspose.pdf.facades/alignmenttype) | Class contains possibly alignment types. |
 | [AutoRotateMode](../com.aspose.pdf.facades/autorotatemode) | Direction of the rotation when document is printed. |
 | [BlendingColorSpace](../com.aspose.pdf.facades/blendingcolorspace) | Class represents blending color space. |
@@ -26,9 +25,7 @@ The **com.aspose.pdf.facades** package provides classes originally came from Asp
 | [DocumentPrivilege](../com.aspose.pdf.facades/documentprivilege) | Represents the privileges for accessing Pdf file. |
 | [EncodingType](../com.aspose.pdf.facades/encodingtype) | Enumerates encoding types of the text using. |
 | [Facade](../com.aspose.pdf.facades/facade) | Base facade class. |
-| [FieldType](../com.aspose.pdf.facades/fieldtype) | Enumeration of possible field types. |
 | [FontColor](../com.aspose.pdf.facades/fontcolor) | Class representing color of the text. |
-| [FontStyle](../com.aspose.pdf.facades/fontstyle) | Enumerates 14 types of font. |
 | [Form](../com.aspose.pdf.facades/form) | Class representing Acro form object. |
 | [Form.ImportStatus](../com.aspose.pdf.facades/form.importstatus) | Status of imported field |
 | [FormEditor](../com.aspose.pdf.facades/formeditor) | Class for editing forms (adding/deleting field etc) |
@@ -36,8 +33,6 @@ The **com.aspose.pdf.facades** package provides classes originally came from Asp
 | [FormFieldFacade](../com.aspose.pdf.facades/formfieldfacade) | Class for representing field properties. |
 | [FormWeb](../com.aspose.pdf.facades/formweb) | Representing Acro form Interface. |
 | [FormattedText](../com.aspose.pdf.facades/formattedtext) | Class which represents formatted text. |
-| [ImageMergeMode](../com.aspose.pdf.facades/imagemergemode) | Represents modes for merging images. |
-| [KeySize](../com.aspose.pdf.facades/keysize) | Defines different key sizes which can be used to encrypt pdf documents. |
 | [LineInfo](../com.aspose.pdf.facades/lineinfo) | Represents the information of line. |
 | [PdfAnnotationEditor](../com.aspose.pdf.facades/pdfannotationeditor) | Represents a class for work with PDF document annotations (comments). |
 | [PdfBookmarkEditor](../com.aspose.pdf.facades/pdfbookmarkeditor) | Represents a class to work with PDF file's bookmarks including create, modify, export, import and delete. |
@@ -69,13 +64,9 @@ The **com.aspose.pdf.facades** package provides classes originally came from Asp
 | [PositioningMode](../com.aspose.pdf.facades/positioningmode) | Defines positioning mode. |
 | [PropertyFlag](../com.aspose.pdf.facades/propertyflag) | Enumeration of possible field flags. |
 | [ReplaceTextStrategy](../com.aspose.pdf.facades/replacetextstrategy) | This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed. |
-| [ReplaceTextStrategy.NoCharacterAction](../com.aspose.pdf.facades/replacetextstrategy.nocharacteraction) | Action to perform if font does not contain required character |
-| [ReplaceTextStrategy.Scope](../com.aspose.pdf.facades/replacetextstrategy.scope) | Scope where replace text operation is applied REPLACE\_FIRST by default |
 | [SaveableFacade](../com.aspose.pdf.facades/saveablefacade) | Base class for all saveable facades. |
 | [Stamp](../com.aspose.pdf.facades/stamp) | Class represeting stamp. |
 | [StampInfo](../com.aspose.pdf.facades/stampinfo) | Class representing stamp information. |
-| [StampType](../com.aspose.pdf.facades/stamptype) | Describes stamp types. |
-| [SubmitFormFlag](../com.aspose.pdf.facades/submitformflag) | Enumeration of possible submit form flags. |
 | [TextProperties](../com.aspose.pdf.facades/textproperties) | Represents text properties such as: text size, color, style etc. |
 | [VerticalAlignmentType](../com.aspose.pdf.facades/verticalalignmenttype) | Class representing possible vertical alignment values. |
 | [ViewerPreference](../com.aspose.pdf.facades/viewerpreference) | Describes viewer prefereces (page mode, non full screen page mode, page layout). |
@@ -91,3 +82,15 @@ The **com.aspose.pdf.facades** package provides classes originally came from Asp
 | [IPdfFileEditor](../com.aspose.pdf.facades/ipdffileeditor) | Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc. |
 | [IPdfFileStamp](../com.aspose.pdf.facades/ipdffilestamp) | interface for adding stamps (watermark or background) to PDF files. |
 | [ISaveableFacade](../com.aspose.pdf.facades/isaveablefacade) | Facade interface that defines methods common for all saveable facades. |
+
+## Enumerations
+
+| Enum | Description |
+| --- | --- |
+| [Algorithm](../com.aspose.pdf.facades/algorithm) | Represents algorithms which can be used to encrypt pdf document. |
+| [FieldType](../com.aspose.pdf.facades/fieldtype) | Enumeration of possible field types. |
+| [FontStyle](../com.aspose.pdf.facades/fontstyle) | Enumerates 14 types of font. |
+| [ImageMergeMode](../com.aspose.pdf.facades/imagemergemode) | Represents modes for merging images. |
+| [KeySize](../com.aspose.pdf.facades/keysize) | Defines different key sizes which can be used to encrypt pdf documents. |
+| [StampType](../com.aspose.pdf.facades/stamptype) | Describes stamp types. |
+| [SubmitFormFlag](../com.aspose.pdf.facades/submitformflag) | Enumeration of possible submit form flags. |

@@ -3,7 +3,7 @@ title: RadioButtonField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing radio button field.
 type: docs
-weight: 302
+weight: 298
 url: /java/com.aspose.pdf/radiobuttonfield/
 ---
 **Inheritance:**

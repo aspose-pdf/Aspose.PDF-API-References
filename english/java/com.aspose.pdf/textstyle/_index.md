@@ -3,7 +3,7 @@ title: TextStyle
 second_title: Aspose.PDF for Java API Reference
 description: Class representing checkbox field
 type: docs
-weight: 394
+weight: 389
 url: /java/com.aspose.pdf/textstyle/
 ---
 **Inheritance:**
@@ -22,9 +22,9 @@ Class representing checkbox field
 | [getFontSize()](#getFontSize--) | Get the Fonts size. |
 | [setFontSize(double value)](#setFontSize-double-) | Set the Fonts size. |
 | [getAlignment()](#getAlignment--) | Gets horizontal alignment of the text. |
-| [setAlignment(int value)](#setAlignment-int-) | Sets horizontal alignment of the text. |
+| [setAlignment(TextAlignment value)](#setAlignment-com.aspose.pdf.TextAlignment-) | Sets horizontal alignment of the text. |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Text alignment. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Text alignment. |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Text alignment. |
 | [getColor()](#getColor--) | Get the Color of the text. |
 | [setColor(Color value)](#setColor-java.awt.Color-) | Set the Color of the text. |
 | [toString()](#toString--) | String representation of TextStyle. |
@@ -76,17 +76,17 @@ Set the Fonts size.
 
 ### getAlignment() {#getAlignment--}
 ```
-public int getAlignment()
+public TextAlignment getAlignment()
 ```
 
 
 Gets horizontal alignment of the text.
 
 **Returns:**
-int - TextAlignment value
-### setAlignment(int value) {#setAlignment-int-}
+[TextAlignment](../../com.aspose.pdf/textalignment) - TextAlignment value
+### setAlignment(TextAlignment value) {#setAlignment-com.aspose.pdf.TextAlignment-}
 ```
-public void setAlignment(int value)
+public void setAlignment(TextAlignment value)
 ```
 
 
@@ -95,21 +95,21 @@ Sets horizontal alignment of the text.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | TextAlignment value |
+| value | [TextAlignment](../../com.aspose.pdf/textalignment) | TextAlignment value |
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
 Text alignment. Valid values are: Left, Center, Rigth.
 
 **Returns:**
-int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -118,7 +118,7 @@ Text alignment. Valid values are: Left, Center, Rigth.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### getColor() {#getColor--}
 ```

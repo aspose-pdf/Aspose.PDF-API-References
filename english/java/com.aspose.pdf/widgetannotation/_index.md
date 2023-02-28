@@ -3,7 +3,7 @@ title: WidgetAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing widget annotation.
 type: docs
-weight: 409
+weight: 403
 url: /java/com.aspose.pdf/widgetannotation/
 ---
 **Inheritance:**
@@ -211,14 +211,14 @@ Sets read only status of the field.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
 ### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
 public void accept(AnnotationSelector visitor)

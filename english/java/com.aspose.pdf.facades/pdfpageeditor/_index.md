@@ -3,7 +3,7 @@ title: PdfPageEditor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to edit the PDF files page including rotating page zooming page moving position and changing page size.
 type: docs
-weight: 49
+weight: 44
 url: /java/com.aspose.pdf.facades/pdfpageeditor/
 ---
 **Inheritance:**
@@ -62,11 +62,11 @@ Represents a class to edit the PDF file's page, including rotating page, zooming
 | [getAlignment()](#getAlignment--) | Gets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left. |
 | [setAlignment(AlignmentType value)](#setAlignment-com.aspose.pdf.facades.AlignmentType-) | Sets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left. |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left. |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom. |
 | [setVerticalAlignment(VerticalAlignmentType value)](#setVerticalAlignment-com.aspose.pdf.facades.VerticalAlignmentType-) | Sets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom. |
 | [getVerticalAlignmentType()](#getVerticalAlignmentType--) | Gets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom. |
-| [setVerticalAlignmentType(int value)](#setVerticalAlignmentType-int-) | Sets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom. |
+| [setVerticalAlignmentType(VerticalAlignment value)](#setVerticalAlignmentType-com.aspose.pdf.VerticalAlignment-) | Sets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom. |
 | [movePosition(float moveX, float moveY)](#movePosition-float-float-) | Moves the origin from (0, 0) to the point that appointted. |
 | [getPages()](#getPages--) | Returns total number of pages. |
 | [getPageSize(int page)](#getPageSize-int-) | Returns the page size of the specified page. |
@@ -446,17 +446,17 @@ Use setHorizontalAlignment instead
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
 Gets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left.
 
 **Returns:**
-int - HorizontalAlignment element
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment element
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -465,7 +465,7 @@ Sets the horizontal alignment of the original PDF content on the result page, de
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | int value |
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
@@ -494,17 +494,17 @@ Use setVerticalAlignmentType instead
 
 ### getVerticalAlignmentType() {#getVerticalAlignmentType--}
 ```
-public int getVerticalAlignmentType()
+public VerticalAlignment getVerticalAlignmentType()
 ```
 
 
 Gets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom.
 
 **Returns:**
-int - VerticalAlignmentType element
-### setVerticalAlignmentType(int value) {#setVerticalAlignmentType-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignmentType element
+### setVerticalAlignmentType(VerticalAlignment value) {#setVerticalAlignmentType-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignmentType(int value)
+public void setVerticalAlignmentType(VerticalAlignment value)
 ```
 
 
@@ -513,7 +513,7 @@ Sets the vertical alignment of the original PDF content on the result page, defa
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 
 ### movePosition(float moveX, float moveY) {#movePosition-float-float-}
 ```

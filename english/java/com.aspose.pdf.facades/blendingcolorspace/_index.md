@@ -3,7 +3,7 @@ title: BlendingColorSpace
 second_title: Aspose.PDF for Java API Reference
 description: Class represents blending color space.
 type: docs
-weight: 13
+weight: 12
 url: /java/com.aspose.pdf.facades/blendingcolorspace/
 ---
 **Inheritance:**

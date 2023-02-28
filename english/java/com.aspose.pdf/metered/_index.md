@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.PDF for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 224
+weight: 219
 url: /java/com.aspose.pdf/metered/
 ---
 **Inheritance:**

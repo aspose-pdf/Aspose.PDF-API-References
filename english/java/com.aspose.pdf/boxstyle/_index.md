@@ -3,7 +3,7 @@ title: BoxStyle
 second_title: Aspose.PDF for Java API Reference
 description: Represents styles of check box
 type: docs
-weight: 44
+weight: 42
 url: /java/com.aspose.pdf/boxstyle/
 ---
 **Inheritance:**

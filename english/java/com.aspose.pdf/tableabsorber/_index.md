@@ -3,7 +3,7 @@ title: TableAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of table elements.
 type: docs
-weight: 357
+weight: 353
 url: /java/com.aspose.pdf/tableabsorber/
 ---
 **Inheritance:**
@@ -49,6 +49,7 @@ The example demonstrates how to find table on the first PDF document page and re
 | [isUseFlowEngine()](#isUseFlowEngine--) | Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. |
 | [setUseFlowEngine(boolean useFlowEngine)](#setUseFlowEngine-boolean-) | Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. |
 | [visit(Page page)](#visit-com.aspose.pdf.Page-) | Extracts tables on the specified page |
+| [visit(IDocument pdf)](#visit-com.aspose.pdf.IDocument-) | Extracts tables on the specified document. |
 | [remove(AbsorbedTable table)](#remove-com.aspose.pdf.AbsorbedTable-) | Removes an  AbsorbedTable  from the page. |
 | [replace(Page page, AbsorbedTable oldTable, Table newTable)](#replace-com.aspose.pdf.Page-com.aspose.pdf.AbsorbedTable-com.aspose.pdf.Table-) | Replaces an  AbsorbedTable  with  Table  on the page. |
 ### TableAbsorber(TextSearchOptions textSearchOptions) {#TableAbsorber-com.aspose.pdf.TextSearchOptions-}
@@ -176,6 +177,39 @@ The example demonstrates how to extract table on the first PDF document page.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | [Page](../../com.aspose.pdf/page) | Pdf document page object. |
+
+### visit(IDocument pdf) {#visit-com.aspose.pdf.IDocument-}
+```
+public void visit(IDocument pdf)
+```
+
+
+Extracts tables on the specified document.
+
+--------------------
+
+```
+The example demonstrates how to extract table on the first PDF document page.
+
+ // Open document
+ Document doc = new Document(@"D:\Tests\input.pdf");
+ // Create TableAbsorber object to find tables
+ TableAbsorber absorber = new TableAbsorber();
+ // Visit first page with absorber
+ absorber.visit(pdfDocument);
+ // Get access to first table on page, their first cell and text fragments in it
+ TextFragment fragment = absorber.getTableList().get_item(0).getRowList.get_item(0).getCellList().get_item(0)
+ .getTextFragments.get_item(1);
+ // Change text of the first text fragment in the cell
+ fragment.setText ("hi world");
+ // Save document
+ doc.save(@"D:\Tests\output.pdf");
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf | [IDocument](../../com.aspose.pdf/idocument) | Pdf document object. |
 
 ### remove(AbsorbedTable table) {#remove-com.aspose.pdf.AbsorbedTable-}
 ```

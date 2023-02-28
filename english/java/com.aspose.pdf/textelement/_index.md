@@ -3,7 +3,7 @@ title: TextElement
 second_title: Aspose.PDF for Java API Reference
 description: General text element of document logical structure.
 type: docs
-weight: 371
+weight: 366
 url: /java/com.aspose.pdf/textelement/
 ---
 **Inheritance:**

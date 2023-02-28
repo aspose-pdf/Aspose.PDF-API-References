@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text search options
 type: docs
-weight: 389
+weight: 384
 url: /java/com.aspose.pdf/textsearchoptions/
 ---
 **Inheritance:**
@@ -32,12 +32,12 @@ Represents text search options
 | [setLimitToPageBounds(boolean value)](#setLimitToPageBounds-boolean-) | Sets indication that text is searched within the page bounds. |
 | [getRectangle()](#getRectangle--) | Gets rectangle that bounds the searched text. |
 | [setRectangle(Rectangle value)](#setRectangle-com.aspose.pdf.Rectangle-) | Sets rectangle that bounds the searched text. |
-| [getUseFontEngineEncoding()](#getUseFontEngineEncoding--) | Gets indication that text will be searched using font engine encoding. |
-| [setUseFontEngineEncoding(boolean value)](#setUseFontEngineEncoding-boolean-) | Sets indication that text will be searched using font engine encoding. |
-| [isIgnoreShadowText()](#isIgnoreShadowText--) | Gets or sets indication that text fragments representing shadow of normal text will be ignored during search. |
-| [setIgnoreShadowText(boolean value)](#setIgnoreShadowText-boolean-) | Gets or sets indication that text fragments representing shadow of normal text will be ignored during search. |
-| [getLogTextExtractionErrors()](#getLogTextExtractionErrors--) | Gets or sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. |
-| [setLogTextExtractionErrors(boolean value)](#setLogTextExtractionErrors-boolean-) | Gets or sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. |
+| [getUseFontEngineEncoding()](#getUseFontEngineEncoding--) | Gets indication that text will be searched using font engine encoding. true - means that font engine encoding will be used (try this if text search fails because of imperfect encoding in the document) false - means that document font encoding will be used (default value) |
+| [setUseFontEngineEncoding(boolean value)](#setUseFontEngineEncoding-boolean-) | Sets indication that text will be searched using font engine encoding. true - means that font engine encoding will be used (try this if text search fails because of imperfect encoding in the document) false - means that document font encoding will be used (default value) |
+| [isIgnoreShadowText()](#isIgnoreShadowText--) | Gets or sets indication that text fragments representing shadow of normal text will be ignored during search. true - means that shadow text will not be found (try this if text search returns duplicated fragments on the close positions) false - means that shadow text will be found as well as normal text (default value) |
+| [setIgnoreShadowText(boolean value)](#setIgnoreShadowText-boolean-) | Gets or sets indication that text fragments representing shadow of normal text will be ignored during search. true - means that shadow text will not be found (try this if text search returns duplicated fragments on the close positions) false - means that shadow text will be found as well as normal text (default value) |
+| [getLogTextExtractionErrors()](#getLogTextExtractionErrors--) | Gets or sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. true - means that text extraction (decoding) errors will be loged. |
+| [setLogTextExtractionErrors(boolean value)](#setLogTextExtractionErrors-boolean-) | Gets or sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. true - means that text extraction (decoding) errors will be loged. |
 | [getIgnoreResourceFontErrors()](#getIgnoreResourceFontErrors--) | Gets or sets indication that errors related to absence of font will be ignored by text (fragment) absorber. |
 | [setIgnoreResourceFontErrors(boolean value)](#setIgnoreResourceFontErrors-boolean-) | Gets or sets indication that errors related to absence of font will be ignored by text (fragment) absorber. |
 | [getSearchForTextRelatedGraphics()](#getSearchForTextRelatedGraphics--) | Gets or sets value that permits searching for text related graphics (underlining, background etc.) during text search. |

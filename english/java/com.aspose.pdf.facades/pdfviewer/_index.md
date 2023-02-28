@@ -3,7 +3,7 @@ title: PdfViewer
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to view or print a pdf.
 type: docs
-weight: 53
+weight: 48
 url: /java/com.aspose.pdf.facades/pdfviewer/
 ---
 **Inheritance:**
@@ -56,9 +56,9 @@ Represents a class to view or print a pdf.
 | [getRenderingOptions()](#getRenderingOptions--) | Gets rendering options. |
 | [setRenderingOptions(RenderingOptions value)](#setRenderingOptions-com.aspose.pdf.RenderingOptions-) | Sets rendering options. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets a value that indicates vertical alignment |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets a value that indicates vertical alignment |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets a value that indicates vertical alignment |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets a value that indicates horizontal alignment |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets a value that indicates horizontal alignment |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets a value that indicates horizontal alignment |
 | [getAutoResize()](#getAutoResize--) | Sets a bool value that indicates whether the file be printed with optimized size. |
 | [setAutoResize(boolean value)](#setAutoResize-boolean-) | Sets a bool value that indicates whether the file be printed with optimized size. |
 | [getAutoRotate()](#getAutoRotate--) | Gets a bool value that indicates whether the file be printed with auto rotation |
@@ -408,17 +408,17 @@ Sets rendering options.
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets a value that indicates vertical alignment
 
 **Returns:**
-int - VerticalAlignment element
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignment(int value)
+public void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -427,21 +427,21 @@ Sets a value that indicates vertical alignment
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
 Gets a value that indicates horizontal alignment
 
 **Returns:**
-int - HorizontalAlignment element
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment element
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -450,7 +450,7 @@ Sets a value that indicates horizontal alignment
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment element |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment element |
 
 ### getAutoResize() {#getAutoResize--}
 ```

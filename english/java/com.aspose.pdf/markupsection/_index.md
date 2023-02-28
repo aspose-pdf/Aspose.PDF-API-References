@@ -3,7 +3,7 @@ title: MarkupSection
 second_title: Aspose.PDF for Java API Reference
 description: Represents a markup section - the rectangular region of a page that contains text and can be visually divided from another text blocks.
 type: docs
-weight: 211
+weight: 206
 url: /java/com.aspose.pdf/markupsection/
 ---
 **Inheritance:**

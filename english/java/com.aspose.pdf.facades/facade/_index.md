@@ -3,7 +3,7 @@ title: Facade
 second_title: Aspose.PDF for Java API Reference
 description: Base facade class.
 type: docs
-weight: 21
+weight: 20
 url: /java/com.aspose.pdf.facades/facade/
 ---
 **Inheritance:**

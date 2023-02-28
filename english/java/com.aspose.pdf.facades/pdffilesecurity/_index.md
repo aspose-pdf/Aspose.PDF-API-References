@@ -3,7 +3,7 @@ title: PdfFileSecurity
 second_title: Aspose.PDF for Java API Reference
 description: Represents encrypting or decrypting a Pdf file with owner or user password changing the security setting and password.
 type: docs
-weight: 44
+weight: 39
 url: /java/com.aspose.pdf.facades/pdffilesecurity/
 ---
 **Inheritance:**
@@ -37,9 +37,9 @@ Represents encrypting or decrypting a Pdf file with owner or user password, chan
 | [getAllowExceptions()](#getAllowExceptions--) | If this value set to true, exception will be thrown on operation failure. |
 | [setAllowExceptions(boolean value)](#setAllowExceptions-boolean-) | If this value set to true, exception will be thrown on operation failure. |
 | [getLastException()](#getLastException--) | Returns exception which was thrown by last operation. |
-| [encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize)](#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
-| [tryEncryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize)](#tryEncryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
-| [encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize, int cipher)](#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-int-) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
+| [encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize)](#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
+| [tryEncryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize)](#tryEncryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
+| [encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)](#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-com.aspose.pdf.facades.Algorithm-) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
 | [decryptFile(String ownerPassword)](#decryptFile-java.lang.String-) | Decrypts an encrypted Pdf document by owner password. |
 | [tryDecryptFile(String ownerPassword)](#tryDecryptFile-java.lang.String-) | Decrypts an encrypted Pdf document by owner password. |
 | [setPrivilege(DocumentPrivilege privilege)](#setPrivilege-com.aspose.pdf.facades.DocumentPrivilege-) | Sets Pdf file security with empty user/owner passwords. |
@@ -47,10 +47,10 @@ Represents encrypting or decrypting a Pdf file with owner or user password, chan
 | [trySetPrivilege(String userPassword, String ownerPassword, DocumentPrivilege privilege)](#trySetPrivilege-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-) | Sets Pdf file security with original password. |
 | [changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword)](#changePassword-java.lang.String-java.lang.String-java.lang.String-) | Changes the user password and owner password by owner password, keeps the original security settings. |
 | [tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword)](#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-) | Changes the user password and owner password by owner password, keeps the original security settings. |
-| [changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize)](#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
-| [tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize)](#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
-| [changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize, int cipher)](#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-int-) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
-| [tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize, int cipher)](#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-int-) | Changes the user password and password by owner password, allows to reset Pdf document security. |
+| [changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)](#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
+| [tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)](#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
+| [changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)](#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-com.aspose.pdf.facades.Algorithm-) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
+| [tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)](#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-com.aspose.pdf.facades.Algorithm-) | Changes the user password and password by owner password, allows to reset Pdf document security. |
 | [bindPdf(String srcFile)](#bindPdf-java.lang.String-) | Initializes the facade. |
 | [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Initializes the facade. |
 | [close()](#close--) | Closes the facade. |
@@ -233,9 +233,9 @@ Returns exception which was thrown by last operation.
 
 **Returns:**
 java.lang.RuntimeException - java.lang.RuntimeException
-### encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize) {#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-}
+### encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize) {#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-}
 ```
-public boolean encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize)
+public boolean encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize)
 ```
 
 
@@ -259,13 +259,13 @@ String inFile = "input.pdf"; // The TestPath may be
 | userPassword | java.lang.String | User password. |
 | ownerPassword | java.lang.String | Owner password. |
 | privilege | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Set privilege. |
-| keySize | int | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
+| keySize | [KeySize](../../com.aspose.pdf.facades/keysize) | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
 
 **Returns:**
 boolean - True for success.
-### tryEncryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize) {#tryEncryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-}
+### tryEncryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize) {#tryEncryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-}
 ```
-public final boolean tryEncryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize)
+public final boolean tryEncryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize)
 ```
 
 
@@ -284,13 +284,13 @@ string inFile = "input.pdf"; //The TestPath may be re-assigned.
 | userPassword | java.lang.String | User password. |
 | ownerPassword | java.lang.String | Owner password. |
 | privilege | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Set privilege. |
-| keySize | int | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
+| keySize | [KeySize](../../com.aspose.pdf.facades/keysize) | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
 
 **Returns:**
 boolean - True for success, or false.
-### encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize, int cipher) {#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-int-}
+### encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher) {#encryptFile-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-com.aspose.pdf.facades.Algorithm-}
 ```
-public boolean encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, int keySize, int cipher)
+public boolean encryptFile(String userPassword, String ownerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)
 ```
 
 
@@ -314,8 +314,8 @@ String inFile = "input.pdf"; // The TestPath may be
 | userPassword | java.lang.String | User password. |
 | ownerPassword | java.lang.String | Owner password. |
 | privilege | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Set privilege. |
-| keySize | int | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
-| cipher | int | Algorithm.AES to encrypt using AES algorithm or Algorithm.RC4 for RC4 encryption. |
+| keySize | [KeySize](../../com.aspose.pdf.facades/keysize) | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
+| cipher | [Algorithm](../../com.aspose.pdf.facades/algorithm) | Algorithm.AES to encrypt using AES algorithm or Algorithm.RC4 for RC4 encryption. |
 
 **Returns:**
 boolean - True for success, or false.
@@ -485,9 +485,9 @@ string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
 
 **Returns:**
 boolean - True for success,or false.
-### changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize) {#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-}
+### changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize) {#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-}
 ```
-public boolean changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize)
+public boolean changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)
 ```
 
 
@@ -512,13 +512,13 @@ string inFile = "input.pdf"; // The TestPath may be
 | newUserPassword | java.lang.String | New User password. |
 | newOwnerPassword | java.lang.String | New Owner password. |
 | privilege | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Reset security. |
-| keySize | int | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
+| keySize | [KeySize](../../com.aspose.pdf.facades/keysize) | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
 
 **Returns:**
 boolean - True for success.
-### tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize) {#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-}
+### tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize) {#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-}
 ```
-public final boolean tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize)
+public final boolean tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)
 ```
 
 
@@ -538,13 +538,13 @@ string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
 | newUserPassword | java.lang.String | New User password. |
 | newOwnerPassword | java.lang.String | New Owner password. |
 | privilege | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Reset security. |
-| keySize | int | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
+| keySize | [KeySize](../../com.aspose.pdf.facades/keysize) | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
 
 **Returns:**
 boolean - True for success, or false.
-### changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize, int cipher) {#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-int-}
+### changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher) {#changePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-com.aspose.pdf.facades.Algorithm-}
 ```
-public boolean changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize, int cipher)
+public boolean changePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)
 ```
 
 
@@ -569,14 +569,14 @@ string inFile = "input.pdf"; // The TestPath may be
 | newUserPassword | java.lang.String | New User password. |
 | newOwnerPassword | java.lang.String | New Owner password. |
 | privilege | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Reset security. |
-| keySize | int | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
-| cipher | int | Algorithm.AES to encrypt using AES algorithm or Algorithm.RC4 for RC4 encryption. |
+| keySize | [KeySize](../../com.aspose.pdf.facades/keysize) | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
+| cipher | [Algorithm](../../com.aspose.pdf.facades/algorithm) | Algorithm.AES to encrypt using AES algorithm or Algorithm.RC4 for RC4 encryption. |
 
 **Returns:**
 boolean - True for success.
-### tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize, int cipher) {#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-int-}
+### tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher) {#tryChangePassword-java.lang.String-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.facades.KeySize-com.aspose.pdf.facades.Algorithm-}
 ```
-public final boolean tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, int keySize, int cipher)
+public final boolean tryChangePassword(String ownerPassword, String newUserPassword, String newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)
 ```
 
 
@@ -596,8 +596,8 @@ string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
 | newUserPassword | java.lang.String | New User password. |
 | newOwnerPassword | java.lang.String | New Owner password. |
 | privilege | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Reset security. |
-| keySize | int | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
-| cipher | int | Algorithm.AES to encrypt using AES algorithm or Algorithm.RC4 for RC4 encryption. |
+| keySize | [KeySize](../../com.aspose.pdf.facades/keysize) | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
+| cipher | [Algorithm](../../com.aspose.pdf.facades/algorithm) | Algorithm.AES to encrypt using AES algorithm or Algorithm.RC4 for RC4 encryption. |
 
 **Returns:**
 boolean - True for success, or false.

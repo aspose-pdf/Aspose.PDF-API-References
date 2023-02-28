@@ -3,7 +3,7 @@ title: PageMarkup
 second_title: Aspose.PDF for Java API Reference
 description: Page markup represented by collections of MarkupSection and MarkupParagraph.
 type: docs
-weight: 268
+weight: 263
 url: /java/com.aspose.pdf/pagemarkup/
 ---
 **Inheritance:**

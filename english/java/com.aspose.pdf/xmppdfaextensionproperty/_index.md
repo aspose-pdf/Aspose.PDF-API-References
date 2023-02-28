@@ -3,7 +3,7 @@ title: XmpPdfAExtensionProperty
 second_title: Aspose.PDF for Java API Reference
 description: Describes a single property.
 type: docs
-weight: 426
+weight: 420
 url: /java/com.aspose.pdf/xmppdfaextensionproperty/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: IPageSetOptions
 second_title: Aspose.PDF for Java API Reference
 description: Defines conversion options related to a set of pages to convert.
 type: docs
-weight: 442
+weight: 436
 url: /java/com.aspose.pdf/ipagesetoptions/
 ---```
 public interface IPageSetOptions

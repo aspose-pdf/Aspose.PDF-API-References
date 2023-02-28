@@ -3,7 +3,7 @@ title: DefaultDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Specifies default path for some purpose
 type: docs
-weight: 86
+weight: 83
 url: /java/com.aspose.pdf/defaultdirectory/
 ---
 **Inheritance:**

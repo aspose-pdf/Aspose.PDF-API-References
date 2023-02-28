@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies format
 type: docs
-weight: 449
+weight: 448
 url: /java/com.aspose.pdf/saveformat/
 ---
 **Inheritance:**
@@ -17,13 +17,13 @@ Specifies format
 
 | Field | Description |
 | --- | --- |
-| [Pdf](#Pdf) | means saving without change of format, i.e. |
-| [None](#None) | means saving without change of format, i.e. |
+| [Pdf](#Pdf) | means saving without change of format, i.e. as PDF use it please instead of 'SaveFormat.None', that is obsolete one |
+| [None](#None) | means saving without change of format, i.e. as PDF It's obsolete one and will be deleted eventually, please use instead 'SaveFormat.Pdf' |
 | [Doc](#Doc) | means saving in DOC format |
 | [Xps](#Xps) | means saving in XPS format |
 | [Html](#Html) | means saving in HTML format |
 | [Xml](#Xml) | means saving in XML format |
-| [TeX](#TeX) | means saving in TEX format i.e. |
+| [TeX](#TeX) | means saving in TEX format i.e. format suitable for Latex text editor |
 | [DocX](#DocX) | means saving in DOCX format |
 | [Svg](#Svg) | means saving in SVG format |
 | [MobiXml](#MobiXml) | means saving in MobiXML format(special format of e-books) |
@@ -32,6 +32,8 @@ Specifies format
 | [Pptx](#Pptx) | means saving in MHT(WebArchieve) /// |
 | [Aps](#Aps) | Saving as APS XML file. |
 | [PdfXml](#PdfXml) | Internal PDF document structure in XML format |
+| [Ps](#Ps) | means saving in PostScript format. |
+| [Eps](#Eps) | means saving in Encapsulated PostScript format. |
 ## Methods
 
 | Method | Description |
@@ -162,6 +164,22 @@ public static final SaveFormat PdfXml
 
 
 Internal PDF document structure in XML format
+
+### Ps {#Ps}
+```
+public static final SaveFormat Ps
+```
+
+
+means saving in PostScript format.
+
+### Eps {#Eps}
+```
+public static final SaveFormat Eps
+```
+
+
+means saving in Encapsulated PostScript format.
 
 ### values() {#values--}
 ```

@@ -1,9 +1,9 @@
 ---
 title: ApsToFlowConverter
 second_title: Aspose.PDF for Java API Reference
-description: APS to Flow Conversion   Dont port from C as could be ahead of .Net version
+description: APS to Flow Conversion
 type: docs
-weight: 27
+weight: 25
 url: /java/com.aspose.pdf/apstoflowconverter/
 ---
 **Inheritance:**

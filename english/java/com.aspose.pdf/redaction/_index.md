@@ -3,7 +3,7 @@ title: Redaction
 second_title: Aspose.PDF for Java API Reference
 description: For internal usage only
 type: docs
-weight: 305
+weight: 301
 url: /java/com.aspose.pdf/redaction/
 ---
 **Inheritance:**

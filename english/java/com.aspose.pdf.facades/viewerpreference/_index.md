@@ -3,7 +3,7 @@ title: ViewerPreference
 second_title: Aspose.PDF for Java API Reference
 description: Describes viewer prefereces page mode non full screen page mode page layout.
 type: docs
-weight: 65
+weight: 58
 url: /java/com.aspose.pdf.facades/viewerpreference/
 ---
 **Inheritance:**

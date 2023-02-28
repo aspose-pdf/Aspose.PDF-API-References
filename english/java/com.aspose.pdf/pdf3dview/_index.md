@@ -3,7 +3,7 @@ title: PDF3DView
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DView.
 type: docs
-weight: 255
+weight: 250
 url: /java/com.aspose.pdf/pdf3dview/
 ---
 **Inheritance:**

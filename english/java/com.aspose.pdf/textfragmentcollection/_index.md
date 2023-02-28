@@ -3,7 +3,7 @@ title: TextFragmentCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text fragments collection
 type: docs
-weight: 378
+weight: 373
 url: /java/com.aspose.pdf/textfragmentcollection/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: HighlightAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a highlight annotation that highlights a range of text in the document.
 type: docs
-weight: 156
+weight: 152
 url: /java/com.aspose.pdf/highlightannotation/
 ---
 **Inheritance:**
@@ -53,11 +53,11 @@ Accepts visitor object to process the annotation.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element

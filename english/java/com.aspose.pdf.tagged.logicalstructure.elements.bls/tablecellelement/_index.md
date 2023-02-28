@@ -30,13 +30,13 @@ Represents a base class for table cell elements (TH and TD) in logical structure
 | [getMargin()](#getMargin--) | Gets or sets the padding. |
 | [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | Gets or sets the padding. |
 | [getAlignment()](#getAlignment--) | Gets or sets the cell alignment. |
-| [setAlignment(int value)](#setAlignment-int-) | Gets or sets the cell alignment. |
+| [setAlignment(HorizontalAlignment value)](#setAlignment-com.aspose.pdf.HorizontalAlignment-) | Gets or sets the cell alignment. |
 | [getDefaultCellTextState()](#getDefaultCellTextState--) | Gets or sets the default cell text state. |
 | [setDefaultCellTextState(TextState value)](#setDefaultCellTextState-com.aspose.pdf.TextState-) | Gets or sets the default cell text state. |
 | [isWordWrapped()](#isWordWrapped--) | Gets or sets the cell's text word wrapped. |
 | [setWordWrapped(boolean value)](#setWordWrapped-boolean-) | Gets or sets the cell's text word wrapped. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets or sets the vertical alignment. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Gets or sets the vertical alignment. |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Gets or sets the vertical alignment. |
 | [getColSpan()](#getColSpan--) | Gets or sets the column span. |
 | [setColSpan(int value)](#setColSpan-int-) | Gets or sets the column span. |
 | [getRowSpan()](#getRowSpan--) | Gets or sets the row span. |
@@ -147,17 +147,17 @@ Gets or sets the padding.
 
 ### getAlignment() {#getAlignment--}
 ```
-public final int getAlignment()
+public final HorizontalAlignment getAlignment()
 ```
 
 
 Gets or sets the cell alignment.
 
 **Returns:**
-int - HorizontalAlignment element
-### setAlignment(int value) {#setAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment element
+### setAlignment(HorizontalAlignment value) {#setAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public final void setAlignment(int value)
+public final void setAlignment(HorizontalAlignment value)
 ```
 
 
@@ -166,7 +166,7 @@ Gets or sets the cell alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment element |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment element |
 
 ### getDefaultCellTextState() {#getDefaultCellTextState--}
 ```
@@ -216,17 +216,17 @@ Gets or sets the cell's text word wrapped.
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public final int getVerticalAlignment()
+public final VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets or sets the vertical alignment.
 
 **Returns:**
-int - VerticalAlignment element
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public final void setVerticalAlignment(int value)
+public final void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -235,7 +235,7 @@ Gets or sets the vertical alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 
 ### getColSpan() {#getColSpan--}
 ```

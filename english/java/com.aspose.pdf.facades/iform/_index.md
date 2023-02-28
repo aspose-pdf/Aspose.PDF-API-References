@@ -3,7 +3,7 @@ title: IForm
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Acro form object.
 type: docs
-weight: 68
+weight: 61
 url: /java/com.aspose.pdf.facades/iform/
 ---
 **All Implemented Interfaces:**
@@ -788,7 +788,7 @@ Form form = new Form("PdfForm.pdf");
 java.lang.String - Return a String containing formatting information of the Rich Text field.
 ### getSubmitFlags(String fieldName) {#getSubmitFlags-java.lang.String-}
 ```
-public abstract int getSubmitFlags(String fieldName)
+public abstract SubmitFormFlag getSubmitFlags(String fieldName)
 ```
 
 
@@ -810,10 +810,10 @@ Form form = new Form("PdfForm.pdf");
 | fieldName | java.lang.String | The qualified field name. |
 
 **Returns:**
-int - SubmitFormFlag element
+[SubmitFormFlag](../../com.aspose.pdf.facades/submitformflag) - SubmitFormFlag element
 ### getFieldType(String fieldName) {#getFieldType-java.lang.String-}
 ```
-public abstract int getFieldType(String fieldName)
+public abstract FieldType getFieldType(String fieldName)
 ```
 
 
@@ -835,7 +835,7 @@ Form form = new Form("PdfForm.pdf");
 | fieldName | java.lang.String | Field name. |
 
 **Returns:**
-int - Element of FileType enumeration corresponding to field type.
+[FieldType](../../com.aspose.pdf.facades/fieldtype) - Element of FileType enumeration corresponding to field type.
 ### getFieldFlag(String fieldName) {#getFieldFlag-java.lang.String-}
 ```
 public abstract int getFieldFlag(String fieldName)

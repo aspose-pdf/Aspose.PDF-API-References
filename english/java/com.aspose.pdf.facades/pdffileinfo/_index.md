@@ -3,7 +3,7 @@ title: PdfFileInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for accessing meta information of PDF document.
 type: docs
-weight: 41
+weight: 36
 url: /java/com.aspose.pdf.facades/pdffileinfo/
 ---
 **Inheritance:**

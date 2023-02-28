@@ -3,7 +3,7 @@ title: CaretSymbolConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents CaretSymbolConverter class
 type: docs
-weight: 52
+weight: 50
 url: /java/com.aspose.pdf/caretsymbolconverter/
 ---
 **Inheritance:**

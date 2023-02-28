@@ -3,7 +3,7 @@ title: ScreenAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: A screen annotation that specifies a region of a page upon which media clips may be played.
 type: docs
-weight: 325
+weight: 321
 url: /java/com.aspose.pdf/screenannotation/
 ---
 **Inheritance:**
@@ -107,11 +107,11 @@ Sets an action to be performed when the annotation is activated.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element

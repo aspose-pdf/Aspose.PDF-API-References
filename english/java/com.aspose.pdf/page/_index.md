@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 260
+weight: 255
 url: /java/com.aspose.pdf/page/
 ---
 **Inheritance:**
@@ -35,9 +35,10 @@ Class representing page of PDF document.
 | [setFooter(HeaderFooter value)](#setFooter-com.aspose.pdf.HeaderFooter-) | Sets page Footer. |
 | [getParagraphs()](#getParagraphs--) | Gets the paragraphs. |
 | [setParagraphs(Paragraphs value)](#setParagraphs-com.aspose.pdf.Paragraphs-) | Sets the paragraphs. |
-| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document). |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document). |
+| [getPageInfo()](#getPageInfo--) | Gets the page info. |
+| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
 | [convertToPNGMemoryStream()](#convertToPNGMemoryStream--) | Convert page to PNG for DSR, OMR, OCR image stream. |
+| [trySaveVectorGraphics(String pathToSave)](#trySaveVectorGraphics-java.lang.String-) | Tries to save vector graphics if they are present on the page. |
 | [getOnBeforePageGenerate()](#getOnBeforePageGenerate--) | Event for customize header and footer. |
 | [getEnginePage()](#getEnginePage--) | For Internal usage only |
 | [setEnginePage(IPage enginePage)](#setEnginePage-com.aspose.pdf.engine.commondata.IPage-) | For Internal usage only |
@@ -46,8 +47,8 @@ Class representing page of PDF document.
 | [getRect()](#getRect--) | Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. |
 | [setRect(Rectangle value)](#setRect-com.aspose.pdf.Rectangle-) | Gets or sets rectangle of the page. |
 | [getColorType()](#getColorType--) | Gets color type of the pages based on information getting from operators SetColor, images and forms. |
-| [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes.(for generator only, not filled in when reading document) |
-| [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes.(for generator only, not filled in when reading document) |
+| [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes. |
+| [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes. |
 | [isBlank(double fillThresholdFactor)](#isBlank-double-) | Gets the flag whether page is blank or not. |
 | [getPageRect(boolean considerRotation)](#getPageRect-boolean-) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
 | [calculateContentBBox()](#calculateContentBBox--) | Calculates bbox value - rectangle containing contents without visible margins. |
@@ -97,7 +98,7 @@ Class representing page of PDF document.
 | [setBackground(Color value)](#setBackground-com.aspose.pdf.Color-) | Sets the background color of the page. |
 | [getWatermark()](#getWatermark--) | Gets the watermark of the page. |
 | [setWatermark(Watermark value)](#setWatermark-com.aspose.pdf.Watermark-) | Sets the watermark of the page. |
-| [removeObjectReferences(String name)](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. |
+| [removeObjectReferences(String name)](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. all Do operators which use name of object). |
 | [removeObjectReferences(OperatorCollection contents, String name)](#removeObjectReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Remove object references |
 | [findReferences(String name)](#findReferences-java.lang.String-) | Find references |
 | [findReferences(OperatorCollection contents, String name)](#findReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Returns list of operators which uses resource with specified name. |
@@ -327,6 +328,21 @@ Convert page to PNG for DSR, OMR, OCR image stream.
 
 **Returns:**
 byte[] - Image stream in byte[] array.
+### trySaveVectorGraphics(String pathToSave) {#trySaveVectorGraphics-java.lang.String-}
+```
+public final boolean trySaveVectorGraphics(String pathToSave)
+```
+
+
+Tries to save vector graphics if they are present on the page. The save format is SVG.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pathToSave | java.lang.String | Output file |
+
+**Returns:**
+boolean - True if the page contains path construction operators; otherwise, False.
 ### getOnBeforePageGenerate() {#getOnBeforePageGenerate--}
 ```
 public PdfEvent<Page.BeforePageGenerate> getOnBeforePageGenerate()
@@ -527,7 +543,7 @@ public double getDuration()
 ```
 
 
-Gets page display duration. This is time in seconds that page shall be displayed during presentation. Returs -1 if duration is not defined.
+Gets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
 
 --------------------
 
@@ -543,7 +559,7 @@ public void setDuration(double value)
 ```
 
 
-Sets page display duration. This is time in seconds that page shall be displayed during presentation.
+Sets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
 
 **Parameters:**
 | Parameter | Type | Description |

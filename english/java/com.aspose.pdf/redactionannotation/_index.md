@@ -3,7 +3,7 @@ title: RedactionAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents Redact annotation.
 type: docs
-weight: 306
+weight: 302
 url: /java/com.aspose.pdf/redactionannotation/
 ---
 **Inheritance:**
@@ -39,10 +39,10 @@ Represents Redact annotation.
 | [isRepeat()](#isRepeat--) | If true overlay text will be repated on the annotation. |
 | [setRepeat(boolean value)](#setRepeat-boolean-) | If true overlay text will be repated on the annotation. |
 | [getTextAlignment()](#getTextAlignment--) | Gets alignment of Overlay Text. |
-| [setTextAlignment(int value)](#setTextAlignment-int-) | Sets alignment of Overlay Text. |
-| [flatten()](#flatten--) | Flattens annotation i.e. |
-| [redact()](#redact--) | Flattens annotation and redacts page contents (i.e. |
-| [redactExact()](#redactExact--) | Flattens annotation and redacts page contents (i.e. |
+| [setTextAlignment(HorizontalAlignment value)](#setTextAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets alignment of Overlay Text. |
+| [flatten()](#flatten--) | Flattens annotation i.e. removes annotation and adds its content |
+| [redact()](#redact--) | Flattens annotation and redacts page contents (i.e. removes text and image content under redacted annotation) |
+| [redactExact()](#redactExact--) | Flattens annotation and redacts page contents (i.e. removes text and image content exactly under redacted annotation) |
 | [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
 | [setFontSize(double fontSize)](#setFontSize-double-) | Font size of text to print on redact annotation. |
 ### RedactionAnnotation(IDocument document) {#RedactionAnnotation-com.aspose.pdf.IDocument-}
@@ -248,17 +248,17 @@ If true overlay text will be repated on the annotation.
 
 ### getTextAlignment() {#getTextAlignment--}
 ```
-public int getTextAlignment()
+public HorizontalAlignment getTextAlignment()
 ```
 
 
 Gets alignment of Overlay Text.
 
 **Returns:**
-int - HorizontalAlignment value
-### setTextAlignment(int value) {#setTextAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setTextAlignment(HorizontalAlignment value) {#setTextAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setTextAlignment(int value)
+public void setTextAlignment(HorizontalAlignment value)
 ```
 
 
@@ -267,7 +267,7 @@ Sets alignment of Overlay Text.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### flatten() {#flatten--}
 ```
@@ -295,14 +295,14 @@ Flattens annotation and redacts page contents (i.e. removes text and image conte
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
 ### setFontSize(double fontSize) {#setFontSize-double-}
 ```
 public void setFontSize(double fontSize)

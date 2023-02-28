@@ -3,7 +3,7 @@ title: XmpPdfAExtensionSchema
 second_title: Aspose.PDF for Java API Reference
 description: Describes the XMP extension schema which is provided by PDF/A-1.
 type: docs
-weight: 427
+weight: 421
 url: /java/com.aspose.pdf/xmppdfaextensionschema/
 ---
 **Inheritance:**

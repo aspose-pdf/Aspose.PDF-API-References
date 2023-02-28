@@ -3,7 +3,7 @@ title: BaseParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents a abstract base object can be added to the pagedoc.Paragraphs.Add.
 type: docs
-weight: 35
+weight: 33
 url: /java/com.aspose.pdf/baseparagraph/
 ---
 **Inheritance:**
@@ -26,9 +26,9 @@ Represents a abstract base object can be added to the page(doc.Paragraphs.Add())
 | Method | Description |
 | --- | --- |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets a vertical alignment of paragraph |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets a vertical alignment of paragraph |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets a vertical alignment of paragraph |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets a horizontal alignment of paragraph |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets a horizontal alignment of paragraph |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets a horizontal alignment of paragraph |
 | [getMargin()](#getMargin--) | Gets a outer margin for paragraph (for pdf generation) |
 | [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | Sets a outer margin for paragraph (for pdf generation) |
 | [isFirstParagraphInColumn()](#isFirstParagraphInColumn--) | Gets or sets a bool value that indicates whether this paragraph will be at next column. |
@@ -52,17 +52,17 @@ public BaseParagraph()
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets a vertical alignment of paragraph
 
 **Returns:**
-int - VerticalAlignment element
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignment(int value)
+public void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -71,21 +71,21 @@ Sets a vertical alignment of paragraph
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
 Gets a horizontal alignment of paragraph
 
 **Returns:**
-int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -94,7 +94,7 @@ Sets a horizontal alignment of paragraph
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### getMargin() {#getMargin--}
 ```

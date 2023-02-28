@@ -3,7 +3,7 @@ title: FileFontSource
 second_title: Aspose.PDF for Java API Reference
 description: Represents single font file source.
 type: docs
-weight: 115
+weight: 112
 url: /java/com.aspose.pdf/filefontsource/
 ---
 **Inheritance:**

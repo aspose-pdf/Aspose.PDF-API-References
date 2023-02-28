@@ -3,7 +3,7 @@ title: PdfPrintPageInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents an object that contains current printing page info.
 type: docs
-weight: 50
+weight: 45
 url: /java/com.aspose.pdf.facades/pdfprintpageinfo/
 ---
 **Inheritance:**

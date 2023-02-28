@@ -3,7 +3,7 @@ title: ColorBarAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing ColorBarAnnotation annotation.
 type: docs
-weight: 65
+weight: 63
 url: /java/com.aspose.pdf/colorbarannotation/
 ---
 **Inheritance:**
@@ -95,14 +95,14 @@ Accepts visitor object to process the annotation.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int
+[AnnotationType](../../com.aspose.pdf/annotationtype)
 ### changeAfterResize(Matrix transform) {#changeAfterResize-com.aspose.pdf.Matrix-}
 ```
 public void changeAfterResize(Matrix transform)

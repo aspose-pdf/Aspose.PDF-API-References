@@ -3,7 +3,7 @@ title: LineEndingsDrawer
 second_title: Aspose.PDF for Java API Reference
 description: Draws line endings for annotations.
 type: docs
-weight: 201
+weight: 196
 url: /java/com.aspose.pdf/lineendingsdrawer/
 ---
 **Inheritance:**

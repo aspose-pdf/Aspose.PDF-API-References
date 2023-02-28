@@ -3,7 +3,7 @@ title: CustomExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents custom explicit destination.
 type: docs
-weight: 82
+weight: 79
 url: /java/com.aspose.pdf/customexplicitdestination/
 ---
 **Inheritance:**

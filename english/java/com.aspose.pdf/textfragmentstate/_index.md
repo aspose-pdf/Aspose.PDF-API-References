@@ -3,7 +3,7 @@ title: TextFragmentState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text fragment.
 type: docs
-weight: 379
+weight: 374
 url: /java/com.aspose.pdf/textfragmentstate/
 ---
 **Inheritance:**
@@ -74,7 +74,7 @@ Provides a way to change following properties of the text: font ( TextFragmentSt
 | [setStrokingColor(Color value)](#setStrokingColor-com.aspose.pdf.Color-) | Gets or sets color stroking operations of  TextFragment  rendering (stroke text, rectangle border) |
 | [getBackgroundColor()](#getBackgroundColor--) | Sets background color of the text, represented by the  TextFragment  object |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets background color of the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object |
-| [getUnderline()](#getUnderline--) | Gets or sets underline for the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object |
+| [isUnderline()](#isUnderline--) | Gets or sets underline for the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object |
 | [setUnderline(boolean value)](#setUnderline-boolean-) | Sets underline for the text, represented by the  TextFragment  object |
 | [setStrikeOut(boolean value)](#setStrikeOut-boolean-) | Sets strikeout for the text, represented by the  TextFragment  object |
 | [getFontStyle()](#getFontStyle--) | Sets font style of the text, represented by the  TextFragment  object |
@@ -84,7 +84,7 @@ Provides a way to change following properties of the text: font ( TextFragmentSt
 | [getFontSize()](#getFontSize--) | Gets font size of the text, represented by the  TextFragment  object |
 | [setFontSize(float value)](#setFontSize-float-) | Sets font size of the text, represented by the  TextFragment  object |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment for the text. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets horizontal alignment for the text. |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets horizontal alignment for the text. |
 | [getFormattingOptions()](#getFormattingOptions--) | Gets or sets formatting options. |
 | [setFormattingOptions(TextFormattingOptions value)](#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-) | Gets or sets formatting options. |
 | [getTextHeight()](#getTextHeight--) | Gets text height, represented by the  TextFragment  object |
@@ -383,9 +383,9 @@ Sets background color of the text, represented by the [TextFragment](../../com.a
 | --- | --- | --- |
 | value | [Color](../../com.aspose.pdf/color) |  |
 
-### getUnderline() {#getUnderline--}
+### isUnderline() {#isUnderline--}
 ```
-public boolean getUnderline()
+public boolean isUnderline()
 ```
 
 
@@ -490,7 +490,7 @@ Sets font size of the text, represented by the  TextFragment  object
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
@@ -501,10 +501,10 @@ Gets horizontal alignment for the text.
 HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextFragmentState.VerticalAlignment property works in new document generation scenarios only.
 
 **Returns:**
-int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -517,7 +517,7 @@ HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextFra
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### getFormattingOptions() {#getFormattingOptions--}
 ```

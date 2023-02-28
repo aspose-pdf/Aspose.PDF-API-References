@@ -3,7 +3,7 @@ title: ButtonField
 second_title: Aspose.PDF for Java API Reference
 description: Class represents push button field.
 type: docs
-weight: 47
+weight: 45
 url: /java/com.aspose.pdf/buttonfield/
 ---
 **Inheritance:**
@@ -39,7 +39,7 @@ Class represents push button field.
 | [getIconFit()](#getIconFit--) | Gets icon fit object specifying how the widget annotation's icon shall be displayed within its annotation rectangle. |
 | [getICPosition()](#getICPosition--) | Gets icon caption position. |
 | [setICPosition(int value)](#setICPosition-int-) | Sets icon caption position. |
-| [addImage(BufferedImage image)](#addImage-java.awt.image.BufferedImage-) | Adds image into the field resources an draws it. |
+| [addImage(BufferedImage image)](#addImage-java.awt.image.BufferedImage-) | Adds image into the field resources and draws it. |
 | [addImage(BufferedImage image, boolean fillArea)](#addImage-java.awt.image.BufferedImage-boolean-) | Adds image into the field resources an draws it. |
 ### ButtonField() {#ButtonField--}
 ```
@@ -254,7 +254,7 @@ public void addImage(BufferedImage image)
 ```
 
 
-Adds image into the field resources an draws it.
+Adds image into the field resources and draws it.
 
 **Parameters:**
 | Parameter | Type | Description |

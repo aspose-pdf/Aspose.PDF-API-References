@@ -3,7 +3,7 @@ title: BorderSide
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the border sides.
 type: docs
-weight: 41
+weight: 39
 url: /java/com.aspose.pdf/borderside/
 ---
 **Inheritance:**

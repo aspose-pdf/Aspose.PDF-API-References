@@ -3,7 +3,7 @@ title: DocumentPrivilege
 second_title: Aspose.PDF for Java API Reference
 description: Represents the privileges for accessing Pdf file.
 type: docs
-weight: 19
+weight: 18
 url: /java/com.aspose.pdf.facades/documentprivilege/
 ---
 **Inheritance:**
@@ -45,22 +45,22 @@ Represents the privileges for accessing Pdf file. Refer to PdfFileSecurity . The
 | Method | Description |
 | --- | --- |
 | [getValue()](#getValue--) | Gets value |
-| [isAllowPrint()](#isAllowPrint--) | Sets the permission which allow print or not. |
-| [setAllowPrint(boolean value)](#setAllowPrint-boolean-) | Sets the permission which allow print or not. |
-| [isAllowDegradedPrinting()](#isAllowDegradedPrinting--) | Sets the permission which allow degraded printing or not. |
-| [setAllowDegradedPrinting(boolean value)](#setAllowDegradedPrinting-boolean-) | Sets the permission which allow degraded printing or not. |
-| [isAllowModifyContents()](#isAllowModifyContents--) | Sets the permission which allow modify contents or not. |
-| [setAllowModifyContents(boolean value)](#setAllowModifyContents-boolean-) | Sets the permission which allow modify contents or not. |
-| [isAllowCopy()](#isAllowCopy--) | Sets the permission which allow copy or not. |
-| [setAllowCopy(boolean value)](#setAllowCopy-boolean-) | Sets the permission which allow copy or not. |
-| [isAllowModifyAnnotations()](#isAllowModifyAnnotations--) | Sets the permission which allow modify annotations or not. |
-| [setAllowModifyAnnotations(boolean value)](#setAllowModifyAnnotations-boolean-) | Sets the permission which allow modify annotations or not. |
-| [isAllowFillIn()](#isAllowFillIn--) | Sets the permission which allow fill in forms or not. |
-| [setAllowFillIn(boolean value)](#setAllowFillIn-boolean-) | Sets the permission which allow fill in forms or not. |
-| [isAllowScreenReaders()](#isAllowScreenReaders--) | Sets the permission which allow screen readers or not. |
-| [setAllowScreenReaders(boolean value)](#setAllowScreenReaders-boolean-) | Sets the permission which allow screen readers or not. |
-| [isAllowAssembly()](#isAllowAssembly--) | Sets the permission which allow assembly or not. |
-| [setAllowAssembly(boolean value)](#setAllowAssembly-boolean-) | Sets the permission which allow assembly or not. |
+| [isAllowPrint()](#isAllowPrint--) | Sets the permission which allow print or not. true is allow and false is forbidden. |
+| [setAllowPrint(boolean value)](#setAllowPrint-boolean-) | Sets the permission which allow print or not. true is allow and false is forbidden. |
+| [isAllowDegradedPrinting()](#isAllowDegradedPrinting--) | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
+| [setAllowDegradedPrinting(boolean value)](#setAllowDegradedPrinting-boolean-) | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
+| [isAllowModifyContents()](#isAllowModifyContents--) | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
+| [setAllowModifyContents(boolean value)](#setAllowModifyContents-boolean-) | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
+| [isAllowCopy()](#isAllowCopy--) | Sets the permission which allow copy or not. true is allow and false is forbidden. |
+| [setAllowCopy(boolean value)](#setAllowCopy-boolean-) | Sets the permission which allow copy or not. true is allow and false is forbidden. |
+| [isAllowModifyAnnotations()](#isAllowModifyAnnotations--) | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
+| [setAllowModifyAnnotations(boolean value)](#setAllowModifyAnnotations-boolean-) | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
+| [isAllowFillIn()](#isAllowFillIn--) | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
+| [setAllowFillIn(boolean value)](#setAllowFillIn-boolean-) | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
+| [isAllowScreenReaders()](#isAllowScreenReaders--) | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
+| [setAllowScreenReaders(boolean value)](#setAllowScreenReaders-boolean-) | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
+| [isAllowAssembly()](#isAllowAssembly--) | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
+| [setAllowAssembly(boolean value)](#setAllowAssembly-boolean-) | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
 | [setPrintAllowLevel(int value)](#setPrintAllowLevel-int-) | Sets the print level of document's privilege. |
 | [setChangeAllowLevel(int value)](#setChangeAllowLevel-int-) | Sets the change level of document's privilege. |
 | [setCopyAllowLevel(int value)](#setCopyAllowLevel-int-) | Sets the copy level of document's privilege. |

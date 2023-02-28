@@ -3,7 +3,7 @@ title: WordWrapMode
 second_title: Aspose.PDF for Java API Reference
 description: Defines word wrapping strategies
 type: docs
-weight: 66
+weight: 59
 url: /java/com.aspose.pdf.facades/wordwrapmode/
 ---
 **Inheritance:**

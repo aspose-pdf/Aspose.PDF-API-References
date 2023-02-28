@@ -54,11 +54,11 @@ Class representing annotation object.
 | [getCharacteristics()](#getCharacteristics--) | Gets annotation characteristics. |
 | [getStates()](#getStates--) | Gets appearance dictionary of annotation. |
 | [getAlignment()](#getAlignment--) | Annotation alignment. |
-| [setAlignment(int value)](#setAlignment-int-) | Annotation alignment. |
+| [setAlignment(TextAlignment value)](#setAlignment-com.aspose.pdf.TextAlignment-) | Annotation alignment. |
 | [getHorizontalAlignment_Annotation_New()](#getHorizontalAlignment-Annotation-New--) | Gets or sets text alignment for annotation. |
-| [setHorizontalAlignment_Annotation_New(int value)](#setHorizontalAlignment-Annotation-New-int-) | Gets or sets text alignment for annotation. |
+| [setHorizontalAlignment_Annotation_New(HorizontalAlignment value)](#setHorizontalAlignment-Annotation-New-com.aspose.pdf.HorizontalAlignment-) | Gets or sets text alignment for annotation. |
 | [getTextHorizontalAlignment()](#getTextHorizontalAlignment--) | Gets text alignment for annotation. |
-| [setTextHorizontalAlignment(int value)](#setTextHorizontalAlignment-int-) | Sets text alignmennt for annotation. |
+| [setTextHorizontalAlignment(HorizontalAlignment value)](#setTextHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets text alignmennt for annotation. |
 | [createAnnotation(IPdfObject annotEngineObj, Page page)](#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-) | For internal usage only |
 | [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor for annotation processing. |
 | [flatten()](#flatten--) | Places annotation contents directly on the page, annotation object will be removed. |
@@ -191,14 +191,14 @@ Gets the page object with which this annotation is associated.
 [Page](../../com.aspose.pdf/page) - Page object
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public abstract int getAnnotationType()
+public abstract AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - int value
+[AnnotationType](../../com.aspose.pdf/annotationtype) - int value
 ### getWidth() {#getWidth--}
 ```
 public double getWidth()
@@ -476,17 +476,17 @@ Gets appearance dictionary of annotation.
 [AppearanceDictionary](../../com.aspose.pdf/appearancedictionary) - AppearanceDictionary object
 ### getAlignment() {#getAlignment--}
 ```
-public int getAlignment()
+public TextAlignment getAlignment()
 ```
 
 
 Annotation alignment. This property is obsolete. Use getHorizontalAlignment\_Annotation\_New instead.
 
 **Returns:**
-int - TextAlignment element
-### setAlignment(int value) {#setAlignment-int-}
+[TextAlignment](../../com.aspose.pdf/textalignment) - TextAlignment element
+### setAlignment(TextAlignment value) {#setAlignment-com.aspose.pdf.TextAlignment-}
 ```
-public void setAlignment(int value)
+public void setAlignment(TextAlignment value)
 ```
 
 
@@ -495,21 +495,21 @@ Annotation alignment. This property is obsolete. Use getHorizontalAlignment\_Ann
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | TextAlignment element |
+| value | [TextAlignment](../../com.aspose.pdf/textalignment) | TextAlignment element |
 
 ### getHorizontalAlignment_Annotation_New() {#getHorizontalAlignment-Annotation-New--}
 ```
-public final int getHorizontalAlignment_Annotation_New()
+public final HorizontalAlignment getHorizontalAlignment_Annotation_New()
 ```
 
 
 Gets or sets text alignment for annotation.
 
 **Returns:**
-int - text alignment for annotation.
-### setHorizontalAlignment_Annotation_New(int value) {#setHorizontalAlignment-Annotation-New-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - text alignment for annotation.
+### setHorizontalAlignment_Annotation_New(HorizontalAlignment value) {#setHorizontalAlignment-Annotation-New-com.aspose.pdf.HorizontalAlignment-}
 ```
-public final void setHorizontalAlignment_Annotation_New(int value)
+public final void setHorizontalAlignment_Annotation_New(HorizontalAlignment value)
 ```
 
 
@@ -518,21 +518,21 @@ Gets or sets text alignment for annotation.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | text alignmennt for annotation. |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | text alignmennt for annotation. |
 
 ### getTextHorizontalAlignment() {#getTextHorizontalAlignment--}
 ```
-public int getTextHorizontalAlignment()
+public HorizontalAlignment getTextHorizontalAlignment()
 ```
 
 
 Gets text alignment for annotation.
 
 **Returns:**
-int - text alignment for annotation.
-### setTextHorizontalAlignment(int value) {#setTextHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - text alignment for annotation.
+### setTextHorizontalAlignment(HorizontalAlignment value) {#setTextHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setTextHorizontalAlignment(int value)
+public void setTextHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -541,7 +541,7 @@ Sets text alignmennt for annotation.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | text alignmennt for annotation. |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | text alignmennt for annotation. |
 
 ### createAnnotation(IPdfObject annotEngineObj, Page page) {#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-}
 ```

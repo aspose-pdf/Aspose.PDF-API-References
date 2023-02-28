@@ -3,7 +3,7 @@ title: Signature
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class which represents signature object in the pdf document.
 type: docs
-weight: 327
+weight: 323
 url: /java/com.aspose.pdf/signature/
 ---
 **Inheritance:**
@@ -34,8 +34,8 @@ An abstract class which represents signature object in the pdf document. Signatu
 | [setLocation(String value)](#setLocation-java.lang.String-) | Sets the CPU host name or physical location of the signing. |
 | [getReason()](#getReason--) | Gets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412¦). |
 | [setReason(String value)](#setReason-java.lang.String-) | Sets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412¦). |
-| [getContactInfo()](#getContactInfo--) | Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. |
-| [setContactInfo(String value)](#setContactInfo-java.lang.String-) | Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. |
+| [getContactInfo()](#getContactInfo--) | Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
+| [setContactInfo(String value)](#setContactInfo-java.lang.String-) | Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [getByteRange()](#getByteRange--) | Get array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
 | [getTimestampSettings()](#getTimestampSettings--) | Gets timestamp settings. |
 | [setTimestampSettings(TimestampSettings value)](#setTimestampSettings-com.aspose.pdf.TimestampSettings-) | Sets timestamp settings. |

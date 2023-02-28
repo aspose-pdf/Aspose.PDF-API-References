@@ -3,7 +3,7 @@ title: ReplaceTextStrategy
 second_title: Aspose.PDF for Java API Reference
 description: This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed.
 type: docs
-weight: 57
+weight: 52
 url: /java/com.aspose.pdf.facades/replacetextstrategy/
 ---
 **Inheritance:**
@@ -25,9 +25,9 @@ This class contains parameters which define PdfContentEditor behavior when Repla
 | [isRegularExpressionUsed()](#isRegularExpressionUsed--) | If false, string to find is a simple text. |
 | [setRegularExpressionUsed(boolean value)](#setRegularExpressionUsed-boolean-) | If false, string to find is a simple text. |
 | [getNoCharacterBehavior()](#getNoCharacterBehavior--) | Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway). |
-| [setNoCharacterBehavior(int value)](#setNoCharacterBehavior-int-) | Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway). |
+| [setNoCharacterBehavior(ReplaceTextStrategy.NoCharacterAction value)](#setNoCharacterBehavior-com.aspose.pdf.facades.ReplaceTextStrategy.NoCharacterAction-) | Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway). |
 | [getReplaceScope()](#getReplaceScope--) | Scope of the replacement operation (replace first occurence or replace all occurences). |
-| [setReplaceScope(int value)](#setReplaceScope-int-) | Scope of the replacement operation (replace first occurence or replace all occurences). |
+| [setReplaceScope(ReplaceTextStrategy.Scope value)](#setReplaceScope-com.aspose.pdf.facades.ReplaceTextStrategy.Scope-) | Scope of the replacement operation (replace first occurence or replace all occurences). |
 ### ReplaceTextStrategy() {#ReplaceTextStrategy--}
 ```
 public ReplaceTextStrategy()
@@ -59,17 +59,17 @@ If false, string to find is a simple text. If true, string to find is regular ex
 
 ### getNoCharacterBehavior() {#getNoCharacterBehavior--}
 ```
-public int getNoCharacterBehavior()
+public ReplaceTextStrategy.NoCharacterAction getNoCharacterBehavior()
 ```
 
 
 Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway).
 
 **Returns:**
-int - NoCharacterAction value.
-### setNoCharacterBehavior(int value) {#setNoCharacterBehavior-int-}
+[NoCharacterAction](../../com.aspose.pdf.facades/nocharacteraction) - NoCharacterAction value.
+### setNoCharacterBehavior(ReplaceTextStrategy.NoCharacterAction value) {#setNoCharacterBehavior-com.aspose.pdf.facades.ReplaceTextStrategy.NoCharacterAction-}
 ```
-public void setNoCharacterBehavior(int value)
+public void setNoCharacterBehavior(ReplaceTextStrategy.NoCharacterAction value)
 ```
 
 
@@ -78,21 +78,21 @@ Action which is performed when no approppriate font found for changed text (Thro
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | NoCharacterAction value. |
+| value | [NoCharacterAction](../../com.aspose.pdf.facades/nocharacteraction) | NoCharacterAction value. |
 
 ### getReplaceScope() {#getReplaceScope--}
 ```
-public int getReplaceScope()
+public ReplaceTextStrategy.Scope getReplaceScope()
 ```
 
 
 Scope of the replacement operation (replace first occurence or replace all occurences).
 
 **Returns:**
-int - Scope element
-### setReplaceScope(int value) {#setReplaceScope-int-}
+[Scope](../../com.aspose.pdf.facades/scope) - Scope element
+### setReplaceScope(ReplaceTextStrategy.Scope value) {#setReplaceScope-com.aspose.pdf.facades.ReplaceTextStrategy.Scope-}
 ```
-public void setReplaceScope(int value)
+public void setReplaceScope(ReplaceTextStrategy.Scope value)
 ```
 
 
@@ -101,5 +101,5 @@ Scope of the replacement operation (replace first occurence or replace all occur
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
+| value | [Scope](../../com.aspose.pdf.facades/scope) | int value |
 

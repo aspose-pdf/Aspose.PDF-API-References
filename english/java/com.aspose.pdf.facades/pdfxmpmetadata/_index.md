@@ -3,7 +3,7 @@ title: PdfXmpMetadata
 second_title: Aspose.PDF for Java API Reference
 description: Class for manipulation with XMP metadata.
 type: docs
-weight: 54
+weight: 49
 url: /java/com.aspose.pdf.facades/pdfxmpmetadata/
 ---
 **Inheritance:**

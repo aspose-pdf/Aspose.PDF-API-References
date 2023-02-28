@@ -3,7 +3,7 @@ title: Hyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents abstract hyperlink.
 type: docs
-weight: 165
+weight: 160
 url: /java/com.aspose.pdf/hyperlink/
 ---
 **Inheritance:**

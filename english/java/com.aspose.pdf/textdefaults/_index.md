@@ -3,7 +3,7 @@ title: TextDefaults
 second_title: Aspose.PDF for Java API Reference
 description: Defines text subsystem defaults
 type: docs
-weight: 369
+weight: 364
 url: /java/com.aspose.pdf/textdefaults/
 ---
 **Inheritance:**

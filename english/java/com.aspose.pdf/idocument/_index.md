@@ -3,7 +3,7 @@ title: IDocument
 second_title: Aspose.PDF for Java API Reference
 description: interface representing PDF document
 type: docs
-weight: 437
+weight: 431
 url: /java/com.aspose.pdf/idocument/
 ---
 **All Implemented Interfaces:**
@@ -64,8 +64,8 @@ interface representing PDF document
 | [setDuplex(int value)](#setDuplex-int-) | Gets or sets print duplex mode handling option to use when printing the file from the print dialog. |
 | [getFileName()](#getFileName--) | Name of the PDF file that caused this document |
 | [setLayersAdded(boolean value)](#setLayersAdded-boolean-) | Set LayersAdded value |
-| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document) |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document) |
+| [getPageInfo()](#getPageInfo--) | Gets the page info. |
+| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
 | [getEnableSignatureSanitization()](#getEnableSignatureSanitization--) | Gets or sets flag to manage signature fields sanitization. |
 | [setEnableSignatureSanitization(boolean value)](#setEnableSignatureSanitization-boolean-) | Gets or sets flag to manage signature fields sanitization. |
 | [getInfo()](#getInfo--) | Gets document info. |
@@ -96,9 +96,9 @@ interface representing PDF document
 | [flatten()](#flatten--) | Removes all fields from the document and place their values instead. |
 | [flatten(Form.FlattenSettings flattenSettings)](#flatten-com.aspose.pdf.Form.FlattenSettings-) | Removes all fields from the document and place their values instead. |
 | [getCryptoAlgorithm()](#getCryptoAlgorithm--) | Gets security settings if document is encrypted. |
-| [encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, int cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-boolean-) | Encrypts the document. |
-| [encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm)](#encrypt-java.lang.String-java.lang.String-int-int-) | Encrypts the document. |
-| [encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-int-int-boolean-) | Encrypts the document. |
+| [encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.CryptoAlgorithm-boolean-) | Encrypts the document. |
+| [encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm)](#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-) | Encrypts the document. |
+| [encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-boolean-) | Encrypts the document. |
 | [changePasswords(String ownerPassword, String newUserPassword, String newOwnerPassword)](#changePasswords-java.lang.String-java.lang.String-java.lang.String-) | Changes document passwords. |
 | [isLinearized()](#isLinearized--) | Gets or sets a value indicating whether document is linearized. |
 | [setLinearized(boolean value)](#setLinearized-boolean-) | Sets a value indicating whether document is linearized. |
@@ -106,7 +106,7 @@ interface representing PDF document
 | [getPermissions()](#getPermissions--) | Gets permissions of the document. |
 | [isEncrypted()](#isEncrypted--) | Gets encrypted status of the document. |
 | [optimize()](#optimize--) | Linearize document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. |
-| [save()](#save--) | Save document incrementally (i.e. |
+| [save()](#save--) | Save document incrementally (i.e. using incremental update technique). |
 | [saveIncrementally(String outputFileName)](#saveIncrementally-java.lang.String-) | Saves incrementally the PDF Document to the specified stream. |
 | [save(OutputStream outputStream, SaveFormat format)](#save-java.io.OutputStream-com.aspose.pdf.SaveFormat-) | Save document |
 | [save(String outputFileName, SaveOptions options)](#save-java.lang.String-com.aspose.pdf.SaveOptions-) | Saves the document with a new name setting its save options. |
@@ -1178,17 +1178,17 @@ Removes all fields from the document and place their values instead.
 
 ### getCryptoAlgorithm() {#getCryptoAlgorithm--}
 ```
-public abstract int getCryptoAlgorithm()
+public abstract CryptoAlgorithm getCryptoAlgorithm()
 ```
 
 
-Gets security settings if document is encrypted. If document is not encrypted then corresponding exception will be raised in .net 1.1 or CryptoAlgorithm will be null for other .net versions.
+Gets security settings if document is encrypted. If document is not encrypted then will be null
 
 **Returns:**
-int - int value
-### encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, int cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-boolean-}
+[CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) - CryptoAlgorithm element or null
+### encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.CryptoAlgorithm-boolean-}
 ```
-public abstract void encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, int cryptoAlgorithm, boolean usePdf20)
+public abstract void encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)
 ```
 
 
@@ -1200,28 +1200,12 @@ Encrypts the document. Call then Save to get encrypted version of the document.
 | userPassword | java.lang.String | User password. |
 | ownerPassword | java.lang.String | Owner password. |
 | privileges | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Document permissions, see  Permissions  for details. |
-| cryptoAlgorithm | int | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
+| cryptoAlgorithm | [CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
 | usePdf20 | boolean | Support for revision 6 (Extension 8). |
 
-### encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm) {#encrypt-java.lang.String-java.lang.String-int-int-}
+### encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm) {#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-}
 ```
-public abstract void encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm)
-```
-
-
-Encrypts the document. Call then Save to get encrypted version of the document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| userPassword | java.lang.String | User password. |
-| ownerPassword | java.lang.String | Owner password. |
-| permissions | int | Document permissions, see  Permissions  for details. |
-| cryptoAlgorithm | int | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
-
-### encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-int-int-boolean-}
-```
-public abstract void encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm, boolean usePdf20)
+public abstract void encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm)
 ```
 
 
@@ -1233,7 +1217,23 @@ Encrypts the document. Call then Save to get encrypted version of the document.
 | userPassword | java.lang.String | User password. |
 | ownerPassword | java.lang.String | Owner password. |
 | permissions | int | Document permissions, see  Permissions  for details. |
-| cryptoAlgorithm | int | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
+| cryptoAlgorithm | [CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
+
+### encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-boolean-}
+```
+public abstract void encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)
+```
+
+
+Encrypts the document. Call then Save to get encrypted version of the document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| userPassword | java.lang.String | User password. |
+| ownerPassword | java.lang.String | Owner password. |
+| permissions | int | Document permissions, see  Permissions  for details. |
+| cryptoAlgorithm | [CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
 | usePdf20 | boolean | Support for revision 6 (Extension 8). |
 
 ### changePasswords(String ownerPassword, String newUserPassword, String newOwnerPassword) {#changePasswords-java.lang.String-java.lang.String-java.lang.String-}

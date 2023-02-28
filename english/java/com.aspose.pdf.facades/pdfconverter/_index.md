@@ -3,7 +3,7 @@ title: PdfConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to convert a pdf files each page to images supporting BMP JPEG PNG and TIFF now.
 type: docs
-weight: 37
+weight: 32
 url: /java/com.aspose.pdf.facades/pdfconverter/
 ---
 **Inheritance:**
@@ -94,7 +94,7 @@ Represents a class to convert a pdf file's each page to images, supporting BMP, 
 | [getNextImage(String outputFile, ImageType format, int quality)](#getNextImage-java.lang.String-com.aspose.pdf.ImageType-int-) | Saves image to file with given image format and quality. |
 | [getNextImage(String outputFile, PageSize pageSize, ImageType format, int quality)](#getNextImage-java.lang.String-com.aspose.pdf.PageSize-com.aspose.pdf.ImageType-int-) | Saves image to file with given page size, image format and quality. |
 | [dispose()](#dispose--) | Close the instance of PdfConverter and release the resources. |
-| [mergeImages(List<InputStream> inputImagesStreams, int outputImageFormat, int mergeMode, Integer horizontal, Integer vertical)](#mergeImages-java.util.List-java.io.InputStream--int-int-java.lang.Integer-java.lang.Integer-) | Merges list of image streams as one image stream. |
+| [mergeImages(List<InputStream> inputImagesStreams, int outputImageFormat, ImageMergeMode mergeMode, Integer horizontal, Integer vertical)](#mergeImages-java.util.List-java.io.InputStream--int-com.aspose.pdf.facades.ImageMergeMode-java.lang.Integer-java.lang.Integer-) | Merges list of image streams as one image stream. |
 | [mergeImagesAsTiff(List<InputStream> inputImagesStreams)](#mergeImagesAsTiff-java.util.List-java.io.InputStream--) | Merges list of tiff streams as one multiple frames tiff stream. |
 ### PdfConverter() {#PdfConverter--}
 ```
@@ -1201,9 +1201,9 @@ Close the instance of PdfConverter and release the resources.
 
 This method is obsolete, use close() instead.
 
-### mergeImages(List<InputStream> inputImagesStreams, int outputImageFormat, int mergeMode, Integer horizontal, Integer vertical) {#mergeImages-java.util.List-java.io.InputStream--int-int-java.lang.Integer-java.lang.Integer-}
+### mergeImages(List<InputStream> inputImagesStreams, int outputImageFormat, ImageMergeMode mergeMode, Integer horizontal, Integer vertical) {#mergeImages-java.util.List-java.io.InputStream--int-com.aspose.pdf.facades.ImageMergeMode-java.lang.Integer-java.lang.Integer-}
 ```
-public static InputStream mergeImages(List<InputStream> inputImagesStreams, int outputImageFormat, int mergeMode, Integer horizontal, Integer vertical)
+public static InputStream mergeImages(List<InputStream> inputImagesStreams, int outputImageFormat, ImageMergeMode mergeMode, Integer horizontal, Integer vertical)
 ```
 
 
@@ -1214,7 +1214,7 @@ Merges list of image streams as one image stream. Png/jpg/tiff outputs formats a
 | --- | --- | --- |
 | inputImagesStreams | java.util.List<java.io.InputStream> | The list of image streams to merge. |
 | outputImageFormat | int | Image output format for merged stream. |
-| mergeMode | int | Merge mode. Used for Png/Jpg formats. |
+| mergeMode | [ImageMergeMode](../../com.aspose.pdf.facades/imagemergemode) | Merge mode. Used for Png/Jpg formats. |
 | horizontal | java.lang.Integer | Horizontal ratio to set canvas width for output image stream. Used for Png/Jpg formats with ImageMergeMode.Center only. |
 | vertical | java.lang.Integer | Vertical ratio to set canvas height for output image stream. Used for Png/Jpg formats with ImageMergeMode.Center only. |
 

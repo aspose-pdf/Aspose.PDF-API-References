@@ -3,7 +3,7 @@ title: FigureElement
 second_title: Aspose.PDF for Java API Reference
 description: Class representing logical structure figure.
 type: docs
-weight: 112
+weight: 109
 url: /java/com.aspose.pdf/figureelement/
 ---
 **Inheritance:**

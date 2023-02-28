@@ -3,7 +3,7 @@ title: StampIcon
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the icons to be used in displaying the annotation.
 type: docs
-weight: 341
+weight: 337
 url: /java/com.aspose.pdf/stampicon/
 ---
 **Inheritance:**

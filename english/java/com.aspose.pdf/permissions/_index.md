@@ -3,7 +3,7 @@ title: Permissions
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents users permissions for a pdf.
 type: docs
-weight: 286
+weight: 281
 url: /java/com.aspose.pdf/permissions/
 ---
 **Inheritance:**

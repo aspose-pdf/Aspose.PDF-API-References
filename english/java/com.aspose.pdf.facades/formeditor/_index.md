@@ -3,7 +3,7 @@ title: FormEditor
 second_title: Aspose.PDF for Java API Reference
 description: Class for editing forms adding/deleting field etc
 type: docs
-weight: 26
+weight: 23
 url: /java/com.aspose.pdf.facades/formeditor/
 ---
 **Inheritance:**
@@ -52,17 +52,17 @@ Class for editing forms (adding/deleting field etc)
 | [getRadioButtonItemSize()](#getRadioButtonItemSize--) | Gets or sets size of radio button item size (when new radio button field is added). |
 | [setRadioButtonItemSize(double value)](#setRadioButtonItemSize-double-) | Gets or sets size of radio button item size (when new radio button field is added). |
 | [getSubmitFlag()](#getSubmitFlag--) | Get the submit button's submission flags |
-| [setSubmitFlag(int value)](#setSubmitFlag-int-) | Set the submit button's submission flags |
+| [setSubmitFlag(SubmitFormFlag value)](#setSubmitFlag-com.aspose.pdf.facades.SubmitFormFlag-) | Set the submit button's submission flags |
 | [save()](#save--) | Saves changes into destination file. |
 | [setFieldAttribute(String fieldName, int flag)](#setFieldAttribute-java.lang.String-int-) | Set attributes of field. |
 | [setFieldAppearance(String fieldName, int flags)](#setFieldAppearance-java.lang.String-int-) | Set field flags |
-| [setSubmitFlag(String fieldName, int submitFormFlag)](#setSubmitFlag-java.lang.String-int-) | Set submit flag of submit button. |
+| [setSubmitFlag(String fieldName, SubmitFormFlag submitFormFlag)](#setSubmitFlag-java.lang.String-com.aspose.pdf.facades.SubmitFormFlag-) | Set submit flag of submit button. |
 | [setSubmitUrl(String fieldName, String url)](#setSubmitUrl-java.lang.String-java.lang.String-) | Sets URL of the button. |
 | [setFieldLimit(String fieldName, int fieldLimit)](#setFieldLimit-java.lang.String-int-) | Sets maximum character count of the text field. |
 | [setFieldCombNumber(String fieldName, int combNumber)](#setFieldCombNumber-java.lang.String-int-) | Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter). |
 | [moveField(String fieldName, float llx, float lly, float urx, float ury)](#moveField-java.lang.String-float-float-float-float-) | Set new position of field. |
-| [addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
-| [addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)](#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
+| [addField(FieldType fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)](#addField-com.aspose.pdf.facades.FieldType-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
+| [addField(FieldType fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)](#addField-com.aspose.pdf.facades.FieldType-java.lang.String-java.lang.String-int-float-float-float-float-) | Add field of specified type to the form. |
 | [removeField(String fieldName)](#removeField-java.lang.String-) | Remove field from the form. |
 | [resetFacade()](#resetFacade--) | Reset all visual attribtues to empty value. |
 | [resetInnerFacade()](#resetInnerFacade--) | Reset all visual attribtues of inner facade to empty value. |
@@ -72,7 +72,7 @@ Class for editing forms (adding/deleting field etc)
 | [copyOuterField(String srcFileName, String fieldName, int pageNum)](#copyOuterField-java.lang.String-java.lang.String-int-) | Copies an existing field from one PDF document to another document with specified page number and original ordinates. |
 | [copyOuterField(String srcFileName, String fieldName, int pageNum, float abscissa, float ordinate)](#copyOuterField-java.lang.String-java.lang.String-int-float-float-) | Copies an existing field from one PDF document to another document with specified page number and ordinates. |
 | [decorateField(String fieldName)](#decorateField-java.lang.String-) | Changes visual attributes of the specified field. |
-| [decorateField(int fieldType)](#decorateField-int-) | Changes visual attributes of all fields with the specified field type. |
+| [decorateField(FieldType fieldType)](#decorateField-com.aspose.pdf.facades.FieldType-) | Changes visual attributes of all fields with the specified field type. |
 | [decorateField()](#decorateField--) | Changes visual attributes of all fields in the PDF document. |
 | [renameField(String fieldName, String newFieldName)](#renameField-java.lang.String-java.lang.String-) | Change name of the field. |
 | [removeFieldAction(String fieldName)](#removeFieldAction-java.lang.String-) | Remove submit action of the field. |
@@ -553,17 +553,17 @@ FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "Fo
 
 ### getSubmitFlag() {#getSubmitFlag--}
 ```
-public int getSubmitFlag()
+public SubmitFormFlag getSubmitFlag()
 ```
 
 
 Get the submit button's submission flags
 
 **Returns:**
-int - SubmitFormFlag element
-### setSubmitFlag(int value) {#setSubmitFlag-int-}
+[SubmitFormFlag](../../com.aspose.pdf.facades/submitformflag) - SubmitFormFlag element
+### setSubmitFlag(SubmitFormFlag value) {#setSubmitFlag-com.aspose.pdf.facades.SubmitFormFlag-}
 ```
-public void setSubmitFlag(int value)
+public void setSubmitFlag(SubmitFormFlag value)
 ```
 
 
@@ -572,7 +572,7 @@ Set the submit button's submission flags
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | SubmitFormFlag element |
+| value | [SubmitFormFlag](../../com.aspose.pdf.facades/submitformflag) | SubmitFormFlag element |
 
 ### save() {#save--}
 ```
@@ -630,9 +630,9 @@ FormEditor formEditor = new FormEditor("PdfForm1.pdf", "FormEditor_SetFieldAppea
 
 **Returns:**
 boolean - true if flags were updated successfully.
-### setSubmitFlag(String fieldName, int submitFormFlag) {#setSubmitFlag-java.lang.String-int-}
+### setSubmitFlag(String fieldName, SubmitFormFlag submitFormFlag) {#setSubmitFlag-java.lang.String-com.aspose.pdf.facades.SubmitFormFlag-}
 ```
-public boolean setSubmitFlag(String fieldName, int submitFormFlag)
+public boolean setSubmitFlag(String fieldName, SubmitFormFlag submitFormFlag)
 ```
 
 
@@ -649,7 +649,7 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitFlag.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fieldName | java.lang.String | Name of submit button. |
-| submitFormFlag | int | Submit flag. |
+| submitFormFlag | [SubmitFormFlag](../../com.aspose.pdf.facades/submitformflag) | Submit flag. |
 
 **Returns:**
 boolean - boolean value
@@ -748,9 +748,9 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_MoveField.pdf"
 
 **Returns:**
 boolean - true if field position was changed successfully.
-### addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury) {#addField-int-java.lang.String-int-float-float-float-float-}
+### addField(FieldType fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury) {#addField-com.aspose.pdf.facades.FieldType-java.lang.String-int-float-float-float-float-}
 ```
-public boolean addField(int fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)
+public boolean addField(FieldType fieldType, String fieldName, int pageNum, float llx, float lly, float urx, float ury)
 ```
 
 
@@ -767,7 +767,7 @@ FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "Fo
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldType | int | Type of the field which must be added. |
+| fieldType | [FieldType](../../com.aspose.pdf.facades/fieldtype) | Type of the field which must be added. |
 | fieldName | java.lang.String | Name of the field whic must be added. |
 | pageNum | int | Page number where new field must be placed. |
 | llx | float | Abscissa of the lower-left corner of the field. |
@@ -777,9 +777,9 @@ FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "Fo
 
 **Returns:**
 boolean - true if field was successfully added.
-### addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury) {#addField-int-java.lang.String-java.lang.String-int-float-float-float-float-}
+### addField(FieldType fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury) {#addField-com.aspose.pdf.facades.FieldType-java.lang.String-java.lang.String-int-float-float-float-float-}
 ```
-public boolean addField(int fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)
+public boolean addField(FieldType fieldType, String fieldName, String initValue, int pageNum, float llx, float lly, float urx, float ury)
 ```
 
 
@@ -788,7 +788,7 @@ Add field of specified type to the form.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldType | int | Type of the field which must be added. |
+| fieldType | [FieldType](../../com.aspose.pdf.facades/fieldtype) | Type of the field which must be added. |
 | fieldName | java.lang.String | Name of the field whic must be added. |
 | initValue | java.lang.String | Initial value of the field. |
 | pageNum | int | Page number where new field must be placed. |
@@ -939,9 +939,9 @@ FormEditor fe = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_DecorateField_
 | --- | --- | --- |
 | fieldName | java.lang.String | The fully qualified field name. |
 
-### decorateField(int fieldType) {#decorateField-int-}
+### decorateField(FieldType fieldType) {#decorateField-com.aspose.pdf.facades.FieldType-}
 ```
-public void decorateField(int fieldType)
+public void decorateField(FieldType fieldType)
 ```
 
 
@@ -963,7 +963,7 @@ FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldType | int | Type of fields which will be decorated. |
+| fieldType | [FieldType](../../com.aspose.pdf.facades/fieldtype) | Type of fields which will be decorated. |
 
 ### decorateField() {#decorateField--}
 ```

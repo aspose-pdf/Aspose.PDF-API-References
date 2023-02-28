@@ -3,7 +3,7 @@ title: TextFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents fragment of Pdf text.
 type: docs
-weight: 376
+weight: 371
 url: /java/com.aspose.pdf/textfragment/
 ---
 **Inheritance:**
@@ -87,9 +87,9 @@ Note that changing TextFragment properties may change inner  Segments  collectio
 | [getText()](#getText--) | Gets  string  text object that the  TextFragment  object represents. |
 | [setText(String value)](#setText-java.lang.String-) | Sets  string  text object that the  TextFragment  object represents. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets a vertical alignment of text fragment. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets a vertical alignment of text fragment. |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets a vertical alignment of text fragment. |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets a horizontal alignment of text fragment. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets a horizontal alignment of text fragment. |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets a horizontal alignment of text fragment. |
 | [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | Sets the fragment hyperlink |
 | [getTextState()](#getTextState--) | Gets or sets text state for the text that  TextFragment  object represents. |
 | [getSegments()](#getSegments--) | Gets text segments for current  TextFragment . |
@@ -106,10 +106,10 @@ The value can be null in case the TextFragment object doesn't belong to any page
 The value can be null in case the TextFragment object doesn't belong to a form. |
 | [getWrapLinesCount()](#getWrapLinesCount--) | Gets wrap lines count for this paragraph(for pdf generation only) |
 | [setWrapLinesCount(int value)](#setWrapLinesCount-int-) | Sets wrap lines count for this paragraph(for pdf generation only) |
-| [getEndNote()](#getEndNote--) | Gets the paragraph end note.(for pdf generation only) |
-| [setEndNote(Note value)](#setEndNote-com.aspose.pdf.Note-) | Sets the paragraph end note.(for pdf generation only) |
-| [getFootNote()](#getFootNote--) | Gets the paragraph foot note.(for pdf generation only) |
-| [setFootNote(Note value)](#setFootNote-com.aspose.pdf.Note-) | Sets the paragraph foot note.(for pdf generation only) |
+| [getEndNote()](#getEndNote--) | Gets the paragraph end note. |
+| [setEndNote(Note value)](#setEndNote-com.aspose.pdf.Note-) | Sets the paragraph end note. |
+| [getFootNote()](#getFootNote--) | Gets the paragraph foot note. |
+| [setFootNote(Note value)](#setFootNote-com.aspose.pdf.Note-) | Sets the paragraph foot note. |
 | [isolateTextSegments(int startIndex, int length)](#isolateTextSegments-int-int-) | Gets  TextSegment (s) representing specified part of the  TextFragment  text. |
 | [setMarkedContentProperties(String name, int id)](#setMarkedContentProperties-java.lang.String-int-) |  |
 | [deepClone()](#deepClone--) | Clone the fragment. |
@@ -245,17 +245,17 @@ TextFragment
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets a vertical alignment of text fragment.
 
 **Returns:**
-int - int value
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - int value
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignment(int value)
+public void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -264,21 +264,21 @@ Sets a vertical alignment of text fragment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | int value |
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
 Gets a horizontal alignment of text fragment.
 
 **Returns:**
-int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -287,7 +287,7 @@ Sets a horizontal alignment of text fragment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### setHyperlink(Hyperlink value) {#setHyperlink-com.aspose.pdf.Hyperlink-}
 ```

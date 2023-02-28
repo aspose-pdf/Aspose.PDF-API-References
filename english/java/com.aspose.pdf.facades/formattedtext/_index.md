@@ -3,7 +3,7 @@ title: FormattedText
 second_title: Aspose.PDF for Java API Reference
 description: Class which represents formatted text.
 type: docs
-weight: 30
+weight: 27
 url: /java/com.aspose.pdf.facades/formattedtext/
 ---
 **Inheritance:**
@@ -19,14 +19,14 @@ Class which represents formatted text. Contains information about text and its c
 | --- | --- |
 | [FormattedText()](#FormattedText--) | Initializes FormattedText. |
 | [FormattedText(String text)](#FormattedText-java.lang.String-) | Initializes FormattedText. |
-| [FormattedText(String text, FontColor fontColor, int fontStyle, int encodingType, boolean embedded, float textSize)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-int-int-boolean-float-) | Initializes FormattedText. |
-| [FormattedText(String text, FontColor fontColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-int-int-boolean-float-float-) | Initialize FormattedText. |
-| [FormattedText(String text, Color color, int textFont, int textEncoding, boolean embedded, float textSize)](#FormattedText-java.lang.String-java.awt.Color-int-int-boolean-float-) | Initializes FormattedText. |
-| [FormattedText(String text, Color textColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-java.awt.Color-int-int-boolean-float-float-) | Initializes FormattedText. |
-| [FormattedText(String text, FontColor textColor, FontColor backColor, int textFont, int textEncoding, boolean embedded, float textSize)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-int-int-boolean-float-) | Initializes FormattedText. |
-| [FormattedText(String text, FontColor textColor, FontColor backColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-int-int-boolean-float-float-) | Initializes FormattedText. |
-| [FormattedText(String text, Color textColor, Color backColor, int textFont, int encoding, boolean embedded, float textSize)](#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-int-int-boolean-float-) | Initializes FormattedText. |
-| [FormattedText(String text, Color textColor, Color backColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-int-int-boolean-float-float-) | Initializes FormattedText. |
+| [FormattedText(String text, FontColor fontColor, FontStyle fontStyle, int encodingType, boolean embedded, float textSize)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-) | Initializes FormattedText. |
+| [FormattedText(String text, FontColor fontColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-) | Initialize FormattedText. |
+| [FormattedText(String text, Color color, FontStyle textFont, int textEncoding, boolean embedded, float textSize)](#FormattedText-java.lang.String-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-) | Initializes FormattedText. |
+| [FormattedText(String text, Color textColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-) | Initializes FormattedText. |
+| [FormattedText(String text, FontColor textColor, FontColor backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-) | Initializes FormattedText. |
+| [FormattedText(String text, FontColor textColor, FontColor backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-) | Initializes FormattedText. |
+| [FormattedText(String text, Color textColor, Color backColor, FontStyle textFont, int encoding, boolean embedded, float textSize)](#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-) | Initializes FormattedText. |
+| [FormattedText(String text, Color textColor, Color backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)](#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-) | Initializes FormattedText. |
 | [FormattedText(String text, Color textColor, Color backColor, String fontName, int textEncoding, boolean embedded, float fontSize)](#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-java.lang.String-int-boolean-float-) | Initializes FormattedText. |
 | [FormattedText(String text, Color textColor, Color backColor)](#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-) | Initializes FormattedText. |
 | [FormattedText(String text, Color textColor, String fontName, int textEncoding, boolean embedded, float fontSize)](#FormattedText-java.lang.String-java.awt.Color-java.lang.String-int-boolean-float-) | Initializes FormattedText. |
@@ -67,9 +67,9 @@ Initializes FormattedText.
 | --- | --- | --- |
 | text | java.lang.String | Text which contained in FormattedText. |
 
-### FormattedText(String text, FontColor fontColor, int fontStyle, int encodingType, boolean embedded, float textSize) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-int-int-boolean-float-}
+### FormattedText(String text, FontColor fontColor, FontStyle fontStyle, int encodingType, boolean embedded, float textSize) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-}
 ```
-public FormattedText(String text, FontColor fontColor, int fontStyle, int encodingType, boolean embedded, float textSize)
+public FormattedText(String text, FontColor fontColor, FontStyle fontStyle, int encodingType, boolean embedded, float textSize)
 ```
 
 
@@ -80,14 +80,14 @@ Initializes FormattedText.
 | --- | --- | --- |
 | text | java.lang.String | Text content of the string. |
 | fontColor | [FontColor](../../com.aspose.pdf.facades/fontcolor) | Color of the text. |
-| fontStyle | int | Style of the text. |
+| fontStyle | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Style of the text. |
 | encodingType | int | Encoding type (value of EncodingType enumeration). |
 | embedded | boolean | True if the font will be embedded. |
 | textSize | float | Size of the text. |
 
-### FormattedText(String text, FontColor fontColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-int-int-boolean-float-float-}
+### FormattedText(String text, FontColor fontColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-}
 ```
-public FormattedText(String text, FontColor fontColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
+public FormattedText(String text, FontColor fontColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
 ```
 
 
@@ -98,15 +98,15 @@ Initialize FormattedText.
 | --- | --- | --- |
 | text | java.lang.String | Text content of the string. |
 | fontColor | [FontColor](../../com.aspose.pdf.facades/fontcolor) | Color of the text. |
-| textFont | int | Font of the text. |
+| textFont | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Font of the text. |
 | textEncoding | int | Encoding of the text. |
 | embedded | boolean | True if text will be embedded. |
 | textSize | float | Size of the text. |
 | lineSpacing | float | Additional spacing. |
 
-### FormattedText(String text, Color color, int textFont, int textEncoding, boolean embedded, float textSize) {#FormattedText-java.lang.String-java.awt.Color-int-int-boolean-float-}
+### FormattedText(String text, Color color, FontStyle textFont, int textEncoding, boolean embedded, float textSize) {#FormattedText-java.lang.String-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-}
 ```
-public FormattedText(String text, Color color, int textFont, int textEncoding, boolean embedded, float textSize)
+public FormattedText(String text, Color color, FontStyle textFont, int textEncoding, boolean embedded, float textSize)
 ```
 
 
@@ -117,14 +117,14 @@ Initializes FormattedText.
 | --- | --- | --- |
 | text | java.lang.String | Text content of the string. |
 | color | java.awt.Color | Color of the text. |
-| textFont | int | Font of the text. |
+| textFont | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Font of the text. |
 | textEncoding | int | Encoding of the text. |
 | embedded | boolean | True if text will be embedded. |
 | textSize | float | Size of the text. |
 
-### FormattedText(String text, Color textColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-java.awt.Color-int-int-boolean-float-float-}
+### FormattedText(String text, Color textColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-}
 ```
-public FormattedText(String text, Color textColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
+public FormattedText(String text, Color textColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
 ```
 
 
@@ -135,15 +135,15 @@ Initializes FormattedText.
 | --- | --- | --- |
 | text | java.lang.String | Text contents of the string. |
 | textColor | java.awt.Color | Color of the text. |
-| textFont | int | Font of the text. |
+| textFont | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Font of the text. |
 | textEncoding | int | Encoding of the text. |
 | embedded | boolean | If true font will be embedded. |
 | textSize | float | Size of the text. |
 | lineSpacing | float | Additional spacing. |
 
-### FormattedText(String text, FontColor textColor, FontColor backColor, int textFont, int textEncoding, boolean embedded, float textSize) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-int-int-boolean-float-}
+### FormattedText(String text, FontColor textColor, FontColor backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-}
 ```
-public FormattedText(String text, FontColor textColor, FontColor backColor, int textFont, int textEncoding, boolean embedded, float textSize)
+public FormattedText(String text, FontColor textColor, FontColor backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize)
 ```
 
 
@@ -155,14 +155,14 @@ Initializes FormattedText.
 | text | java.lang.String | Text content of the string. |
 | textColor | [FontColor](../../com.aspose.pdf.facades/fontcolor) | Color of the text. |
 | backColor | [FontColor](../../com.aspose.pdf.facades/fontcolor) | Color of background. |
-| textFont | int | Font of the text. |
+| textFont | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Font of the text. |
 | textEncoding | int | Encoding of the text. |
 | embedded | boolean | If true font will be embedded. |
 | textSize | float | Size of the text. |
 
-### FormattedText(String text, FontColor textColor, FontColor backColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-int-int-boolean-float-float-}
+### FormattedText(String text, FontColor textColor, FontColor backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontColor-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-}
 ```
-public FormattedText(String text, FontColor textColor, FontColor backColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
+public FormattedText(String text, FontColor textColor, FontColor backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
 ```
 
 
@@ -174,15 +174,15 @@ Initializes FormattedText.
 | text | java.lang.String | Text content. |
 | textColor | [FontColor](../../com.aspose.pdf.facades/fontcolor) | Color of the text. |
 | backColor | [FontColor](../../com.aspose.pdf.facades/fontcolor) | Color of background. |
-| textFont | int | Font of the text. |
+| textFont | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Font of the text. |
 | textEncoding | int | Encoding of the text. |
 | embedded | boolean | If true font will be embedded. |
 | textSize | float | Size of the text. |
 | lineSpacing | float | Additional spacing. |
 
-### FormattedText(String text, Color textColor, Color backColor, int textFont, int encoding, boolean embedded, float textSize) {#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-int-int-boolean-float-}
+### FormattedText(String text, Color textColor, Color backColor, FontStyle textFont, int encoding, boolean embedded, float textSize) {#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-}
 ```
-public FormattedText(String text, Color textColor, Color backColor, int textFont, int encoding, boolean embedded, float textSize)
+public FormattedText(String text, Color textColor, Color backColor, FontStyle textFont, int encoding, boolean embedded, float textSize)
 ```
 
 
@@ -194,14 +194,14 @@ Initializes FormattedText.
 | text | java.lang.String | Text content of the string. |
 | textColor | java.awt.Color | Color of the text. |
 | backColor | java.awt.Color | Color of background. |
-| textFont | int | Font of the text. |
+| textFont | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Font of the text. |
 | encoding | int | Encoding of the text. |
 | embedded | boolean | True if font will be embedded. |
 | textSize | float | Size of the text. |
 
-### FormattedText(String text, Color textColor, Color backColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-int-int-boolean-float-float-}
+### FormattedText(String text, Color textColor, Color backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing) {#FormattedText-java.lang.String-java.awt.Color-java.awt.Color-com.aspose.pdf.facades.FontStyle-int-boolean-float-float-}
 ```
-public FormattedText(String text, Color textColor, Color backColor, int textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
+public FormattedText(String text, Color textColor, Color backColor, FontStyle textFont, int textEncoding, boolean embedded, float textSize, float lineSpacing)
 ```
 
 
@@ -213,7 +213,7 @@ Initializes FormattedText.
 | text | java.lang.String | Text contents of the string. |
 | textColor | java.awt.Color | Color of the text. |
 | backColor | java.awt.Color | Color of the background. |
-| textFont | int | Font of the text. |
+| textFont | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | Font of the text. |
 | textEncoding | int | Encoding of the text. |
 | embedded | boolean | If true font is embedded. |
 | textSize | float | Size of the text. |

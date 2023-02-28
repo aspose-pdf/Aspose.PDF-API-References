@@ -3,7 +3,7 @@ title: Copier
 second_title: Aspose.PDF for Java API Reference
 description: Class for coping object
 type: docs
-weight: 80
+weight: 78
 url: /java/com.aspose.pdf/copier/
 ---
 **Inheritance:**

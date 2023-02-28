@@ -3,7 +3,7 @@ title: DocumentInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents meta information of PDF document.
 type: docs
-weight: 97
+weight: 94
 url: /java/com.aspose.pdf/documentinfo/
 ---
 **Inheritance:**

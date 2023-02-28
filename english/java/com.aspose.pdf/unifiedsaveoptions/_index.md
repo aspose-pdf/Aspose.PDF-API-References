@@ -3,7 +3,7 @@ title: UnifiedSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: This class represents saving options for saving that uses unified conversion way with unified internal document model
 type: docs
-weight: 400
+weight: 395
 url: /java/com.aspose.pdf/unifiedsaveoptions/
 ---
 **Inheritance:**

@@ -41,7 +41,7 @@ Represents TR structure element in logical structure of the table.
 | [getDefaultCellPadding()](#getDefaultCellPadding--) | Gets or sets default margin for row cells. |
 | [setDefaultCellPadding(MarginInfo value)](#setDefaultCellPadding-com.aspose.pdf.MarginInfo-) | Gets or sets default margin for row cells. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets or sets the vertical alignment. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Gets or sets the vertical alignment. |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Gets or sets the vertical alignment. |
 | [createTH()](#createTH--) | Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) and added it to current table. |
 | [createTD()](#createTD--) | Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) and added it to current table. |
 ### TableTRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TableTRElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
@@ -267,17 +267,17 @@ Gets or sets default margin for row cells.
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public final int getVerticalAlignment()
+public final VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets or sets the vertical alignment.
 
 **Returns:**
-int - VerticalAlignment element
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public final void setVerticalAlignment(int value)
+public final void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -286,7 +286,7 @@ Gets or sets the vertical alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 
 ### createTH() {#createTH--}
 ```

@@ -3,7 +3,7 @@ title: Table
 second_title: Aspose.PDF for Java API Reference
 description: Represents a table that can be added to the page.
 type: docs
-weight: 356
+weight: 352
 url: /java/com.aspose.pdf/table/
 ---
 **Inheritance:**
@@ -50,7 +50,7 @@ Represents a table that can be added to the page.
 | [getDefaultCellTextState()](#getDefaultCellTextState--) | Gets the default cell text state. |
 | [setDefaultCellTextState(TextState value)](#setDefaultCellTextState-com.aspose.pdf.TextState-) | Sets the default cell text state. |
 | [getAlignment()](#getAlignment--) | Gets the table alignment. |
-| [setAlignment(int value)](#setAlignment-int-) | Sets the table alignment. |
+| [setAlignment(HorizontalAlignment value)](#setAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets the table alignment. |
 | [getLeft()](#getLeft--) | Gets the table left coordinate. |
 | [setLeft(float value)](#setLeft-float-) | Sets the table left coordinate. |
 | [getTop()](#getTop--) | Gets the table top coordinate. |
@@ -387,17 +387,17 @@ Sets the default cell text state.
 
 ### getAlignment() {#getAlignment--}
 ```
-public final int getAlignment()
+public final HorizontalAlignment getAlignment()
 ```
 
 
 Gets the table alignment.
 
 **Returns:**
-int - HorizontalAlignment value
-### setAlignment(int value) {#setAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setAlignment(HorizontalAlignment value) {#setAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public final void setAlignment(int value)
+public final void setAlignment(HorizontalAlignment value)
 ```
 
 
@@ -406,7 +406,7 @@ Sets the table alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### getLeft() {#getLeft--}
 ```

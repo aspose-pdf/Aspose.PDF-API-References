@@ -3,7 +3,7 @@ title: RenditionOperation
 second_title: Aspose.PDF for Java API Reference
 description: The operation to perform when the action is triggered.
 type: docs
-weight: 311
+weight: 307
 url: /java/com.aspose.pdf/renditionoperation/
 ---
 **Inheritance:**

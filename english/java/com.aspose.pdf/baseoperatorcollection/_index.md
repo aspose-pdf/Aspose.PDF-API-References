@@ -3,7 +3,7 @@ title: BaseOperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents base class for operator collection.
 type: docs
-weight: 34
+weight: 32
 url: /java/com.aspose.pdf/baseoperatorcollection/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: MovieAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen and through the speakers.
 type: docs
-weight: 227
+weight: 222
 url: /java/com.aspose.pdf/movieannotation/
 ---
 **Inheritance:**
@@ -184,14 +184,14 @@ Gets or sets the number of degrees by which the movie shall be rotated clockwise
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element as int value
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element as int value
 ### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
 public void accept(AnnotationSelector visitor)

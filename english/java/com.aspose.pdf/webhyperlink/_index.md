@@ -3,7 +3,7 @@ title: WebHyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents web hyperlink object.
 type: docs
-weight: 408
+weight: 402
 url: /java/com.aspose.pdf/webhyperlink/
 ---
 **Inheritance:**

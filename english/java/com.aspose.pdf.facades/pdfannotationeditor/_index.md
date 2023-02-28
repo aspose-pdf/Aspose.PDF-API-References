@@ -3,7 +3,7 @@ title: PdfAnnotationEditor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class for work with PDF document annotations comments.
 type: docs
-weight: 34
+weight: 29
 url: /java/com.aspose.pdf.facades/pdfannotationeditor/
 ---
 **Inheritance:**
@@ -25,27 +25,27 @@ Represents a class for work with PDF document annotations (comments).
 | --- | --- |
 | [importAnnotationsFromXfdf(String xfdfFile)](#importAnnotationsFromXfdf-java.lang.String-) | Imports all annotations from XFDF file. |
 | [importAnnotationFromXfdf(String xfdfFile)](#importAnnotationFromXfdf-java.lang.String-) | Imports all annotations from XFDF file. |
-| [importAnnotationsFromXfdf(String xfdfFile, int[] annotType)](#importAnnotationsFromXfdf-java.lang.String-int---) | Imports the specified annotations from XFDF file. |
-| [importAnnotationsFromXfdf(InputStream xfdfStream, int[] annotType)](#importAnnotationsFromXfdf-java.io.InputStream-int---) | Imports the specified annotations from XFDF data stream. |
+| [importAnnotationsFromXfdf(String xfdfFile, AnnotationType[] annotType)](#importAnnotationsFromXfdf-java.lang.String-com.aspose.pdf.AnnotationType---) | Imports the specified annotations from XFDF file. |
+| [importAnnotationsFromXfdf(InputStream xfdfStream, AnnotationType[] annotType)](#importAnnotationsFromXfdf-java.io.InputStream-com.aspose.pdf.AnnotationType---) | Imports the specified annotations from XFDF data stream. |
 | [importAnnotationsFromXfdf(InputStream xfdfSteam)](#importAnnotationsFromXfdf-java.io.InputStream-) | Imports all annotations from XFDF data stream. |
 | [importAnnotationFromXfdf(InputStream xfdfStream)](#importAnnotationFromXfdf-java.io.InputStream-) | Imports all annotations from XFDF data stream. |
-| [importAnnotations(String[] annotFile, int[] annotType)](#importAnnotations-java.lang.String---int---) | Imports the specified annotations into document from array of another PDF documents. |
+| [importAnnotations(String[] annotFile, AnnotationType[] annotType)](#importAnnotations-java.lang.String---com.aspose.pdf.AnnotationType---) | Imports the specified annotations into document from array of another PDF documents. |
 | [importAnnotations(String[] annotFile)](#importAnnotations-java.lang.String---) | Imports annotations into document from array of another PDF documents. |
-| [importAnnotations(InputStream[] annotFileInputStream, int[] annotType)](#importAnnotations-java.io.InputStream---int---) | Imports the specified annotations into document from array of another PDF document streams. |
+| [importAnnotations(InputStream[] annotFileInputStream, AnnotationType[] annotType)](#importAnnotations-java.io.InputStream---com.aspose.pdf.AnnotationType---) | Imports the specified annotations into document from array of another PDF document streams. |
 | [importAnnotations(InputStream[] annotFileInputStream)](#importAnnotations-java.io.InputStream---) | Imports annotations into document from array of another PDF document streams. |
 | [modifyAnnotations(int start, int end, int annotType, Annotation annotation)](#modifyAnnotations-int-int-int-com.aspose.pdf.Annotation-) | "Use modifyAnnotations(int start, int end, Annotation annotation) instead." |
 | [modifyAnnotationsAuthor(int start, int end, String srcAuthor, String desAuthor)](#modifyAnnotationsAuthor-int-int-java.lang.String-java.lang.String-) | Modifies the author of annotations on the specified page range. |
 | [flatteningAnnotations()](#flatteningAnnotations--) | Flattens all annotations in the document. |
 | [flatteningAnnotations(Form.FlattenSettings flattenSettings)](#flatteningAnnotations-com.aspose.pdf.Form.FlattenSettings-) | Flattens all annotations in the document. |
-| [flatteningAnnotations(int start, int end, int[] annotType)](#flatteningAnnotations-int-int-int---) | Flattens the annotations of the specified types. |
+| [flatteningAnnotations(int start, int end, AnnotationType[] annotType)](#flatteningAnnotations-int-int-com.aspose.pdf.AnnotationType---) | Flattens the annotations of the specified types. |
 | [deleteAnnotations()](#deleteAnnotations--) | Deletes all annotations in the document. |
 | [deleteAnnotations(String annotType)](#deleteAnnotations-java.lang.String-) | Deletes all annotations of the specified type in the document. |
 | [deleteAnnotation(String annotName)](#deleteAnnotation-java.lang.String-) | Deletes the annotation with specified annotation name. |
 | [exportAnnotationsXfdf(OutputStream xmlOutputStream, int start, int end, String[] annotTypes)](#exportAnnotationsXfdf-java.io.OutputStream-int-int-java.lang.String---) | Exports the content of the specified annotations types into XFDF |
 | [exportAnnotationsToXfdf(OutputStream xmlOutputStream)](#exportAnnotationsToXfdf-java.io.OutputStream-) | Exports annotations to stream. |
-| [exportAnnotationsXfdf(OutputStream xmlOutputStream, int start, int end, int[] annotTypes)](#exportAnnotationsXfdf-java.io.OutputStream-int-int-int---) | Exports the content of the specified annotation types into XFDF |
+| [exportAnnotationsXfdf(OutputStream xmlOutputStream, int start, int end, AnnotationType[] annotTypes)](#exportAnnotationsXfdf-java.io.OutputStream-int-int-com.aspose.pdf.AnnotationType---) | Exports the content of the specified annotation types into XFDF |
 | [extractAnnotations(int start, int end, String[] annotTypes)](#extractAnnotations-int-int-java.lang.String---) | Gets the list of annotations of the specified types. |
-| [extractAnnotations(int start, int end, int[] annotTypes)](#extractAnnotations-int-int-int---) | Gets the list of annotations of the specified types. |
+| [extractAnnotations(int start, int end, AnnotationType[] annotTypes)](#extractAnnotations-int-int-com.aspose.pdf.AnnotationType---) | Gets the list of annotations of the specified types. |
 | [save(String outputFile)](#save-java.lang.String-) | Saves the result PDF to file. |
 | [save(OutputStream outputStream)](#save-java.io.OutputStream-) | Saves the result PDF to stream. |
 | [modifyAnnotations(int start, int end, Annotation annotation)](#modifyAnnotations-int-int-com.aspose.pdf.Annotation-) | Modifies the annotations of the specifed type on the specified page range. |
@@ -116,9 +116,9 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | --- | --- | --- |
 | xfdfFile | java.lang.String | The input XFDF file. |
 
-### importAnnotationsFromXfdf(String xfdfFile, int[] annotType) {#importAnnotationsFromXfdf-java.lang.String-int---}
+### importAnnotationsFromXfdf(String xfdfFile, AnnotationType[] annotType) {#importAnnotationsFromXfdf-java.lang.String-com.aspose.pdf.AnnotationType---}
 ```
-public void importAnnotationsFromXfdf(String xfdfFile, int[] annotType)
+public void importAnnotationsFromXfdf(String xfdfFile, AnnotationType[] annotType)
 ```
 
 
@@ -138,11 +138,11 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xfdfFile | java.lang.String | The input XFDF file. |
-| annotType | int[] | The annotations array to be imported. |
+| annotType | [AnnotationType\[\]](../../com.aspose.pdf/annotationtype) | The annotations array to be imported. |
 
-### importAnnotationsFromXfdf(InputStream xfdfStream, int[] annotType) {#importAnnotationsFromXfdf-java.io.InputStream-int---}
+### importAnnotationsFromXfdf(InputStream xfdfStream, AnnotationType[] annotType) {#importAnnotationsFromXfdf-java.io.InputStream-com.aspose.pdf.AnnotationType---}
 ```
-public void importAnnotationsFromXfdf(InputStream xfdfStream, int[] annotType)
+public void importAnnotationsFromXfdf(InputStream xfdfStream, AnnotationType[] annotType)
 ```
 
 
@@ -162,7 +162,7 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xfdfStream | java.io.InputStream | The input XFDF data stream. |
-| annotType | int[] | The array of annotation types to be imported. |
+| annotType | [AnnotationType\[\]](../../com.aspose.pdf/annotationtype) | The array of annotation types to be imported. |
 
 ### importAnnotationsFromXfdf(InputStream xfdfSteam) {#importAnnotationsFromXfdf-java.io.InputStream-}
 ```
@@ -208,9 +208,9 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | --- | --- | --- |
 | xfdfStream | java.io.InputStream | The input XFDF data stream. |
 
-### importAnnotations(String[] annotFile, int[] annotType) {#importAnnotations-java.lang.String---int---}
+### importAnnotations(String[] annotFile, AnnotationType[] annotType) {#importAnnotations-java.lang.String---com.aspose.pdf.AnnotationType---}
 ```
-public void importAnnotations(String[] annotFile, int[] annotType)
+public void importAnnotations(String[] annotFile, AnnotationType[] annotType)
 ```
 
 
@@ -231,7 +231,7 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotFile | java.lang.String[] | The array of paths of PDF documents that contain source annotations. |
-| annotType | int[] | The array of annotation types to be imported. |
+| annotType | [AnnotationType\[\]](../../com.aspose.pdf/annotationtype) | The array of annotation types to be imported. |
 
 ### importAnnotations(String[] annotFile) {#importAnnotations-java.lang.String---}
 ```
@@ -256,9 +256,9 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | --- | --- | --- |
 | annotFile | java.lang.String[] | The array of paths of PDF documents that contain source annotations. |
 
-### importAnnotations(InputStream[] annotFileInputStream, int[] annotType) {#importAnnotations-java.io.InputStream---int---}
+### importAnnotations(InputStream[] annotFileInputStream, AnnotationType[] annotType) {#importAnnotations-java.io.InputStream---com.aspose.pdf.AnnotationType---}
 ```
-public void importAnnotations(InputStream[] annotFileInputStream, int[] annotType)
+public void importAnnotations(InputStream[] annotFileInputStream, AnnotationType[] annotType)
 ```
 
 
@@ -283,7 +283,7 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotFileInputStream | java.io.InputStream[] | The array of streams of PDF documents that contain source annotations. |
-| annotType | int[] | The annotation types to be imported. |
+| annotType | [AnnotationType\[\]](../../com.aspose.pdf/annotationtype) | The annotation types to be imported. |
 
 ### importAnnotations(InputStream[] annotFileInputStream) {#importAnnotations-java.io.InputStream---}
 ```
@@ -401,9 +401,9 @@ Flattens all annotations in the document.
 | --- | --- | --- |
 | flattenSettings | [FlattenSettings](../../com.aspose.pdf/flattensettings) | Specifies modes of flattening. |
 
-### flatteningAnnotations(int start, int end, int[] annotType) {#flatteningAnnotations-int-int-int---}
+### flatteningAnnotations(int start, int end, AnnotationType[] annotType) {#flatteningAnnotations-int-int-com.aspose.pdf.AnnotationType---}
 ```
-public void flatteningAnnotations(int start, int end, int[] annotType)
+public void flatteningAnnotations(int start, int end, AnnotationType[] annotType)
 ```
 
 
@@ -424,7 +424,7 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | --- | --- | --- |
 | start | int | The start page. |
 | end | int | Then end page. |
-| annotType | int[] | The annotation types should be flattened. |
+| annotType | [AnnotationType\[\]](../../com.aspose.pdf/annotationtype) | The annotation types should be flattened. |
 
 ### deleteAnnotations() {#deleteAnnotations--}
 ```
@@ -527,9 +527,9 @@ Exports annotations to stream.
 | --- | --- | --- |
 | xmlOutputStream | java.io.OutputStream | OutputStream instance (Output stream) |
 
-### exportAnnotationsXfdf(OutputStream xmlOutputStream, int start, int end, int[] annotTypes) {#exportAnnotationsXfdf-java.io.OutputStream-int-int-int---}
+### exportAnnotationsXfdf(OutputStream xmlOutputStream, int start, int end, AnnotationType[] annotTypes) {#exportAnnotationsXfdf-java.io.OutputStream-int-int-com.aspose.pdf.AnnotationType---}
 ```
-public void exportAnnotationsXfdf(OutputStream xmlOutputStream, int start, int end, int[] annotTypes)
+public void exportAnnotationsXfdf(OutputStream xmlOutputStream, int start, int end, AnnotationType[] annotTypes)
 ```
 
 
@@ -552,7 +552,7 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | xmlOutputStream | java.io.OutputStream | The output XFDF stream. |
 | start | int | Start page from which the annotations of the document will be exported. |
 | end | int | End page to which the annotations of the document will be exported. |
-| annotTypes | int[] | The array of annotation types need be exported. |
+| annotTypes | [AnnotationType\[\]](../../com.aspose.pdf/annotationtype) | The array of annotation types need be exported. |
 
 ### extractAnnotations(int start, int end, String[] annotTypes) {#extractAnnotations-int-int-java.lang.String---}
 ```
@@ -580,9 +580,9 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 
 **Returns:**
 java.util.List<com.aspose.pdf.Annotation> - Annotations list.
-### extractAnnotations(int start, int end, int[] annotTypes) {#extractAnnotations-int-int-int---}
+### extractAnnotations(int start, int end, AnnotationType[] annotTypes) {#extractAnnotations-int-int-com.aspose.pdf.AnnotationType---}
 ```
-public List<Annotation> extractAnnotations(int start, int end, int[] annotTypes)
+public List<Annotation> extractAnnotations(int start, int end, AnnotationType[] annotTypes)
 ```
 
 
@@ -602,7 +602,7 @@ PdfAnnotationEditor editor = new PdfAnnotationEditor();
 | --- | --- | --- |
 | start | int | Start page from which the annotations will be selected. |
 | end | int | End page to which the annotations will be selected. |
-| annotTypes | int[] | The array of needed annotation types. |
+| annotTypes | [AnnotationType\[\]](../../com.aspose.pdf/annotationtype) | The array of needed annotation types. |
 
 **Returns:**
 java.util.List<com.aspose.pdf.Annotation> - Annotations list.

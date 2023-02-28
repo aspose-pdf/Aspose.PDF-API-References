@@ -3,7 +3,7 @@ title: DefaultMetadataProperties
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of standard XMP properties.
 type: docs
-weight: 18
+weight: 17
 url: /java/com.aspose.pdf.facades/defaultmetadataproperties/
 ---
 **Inheritance:**

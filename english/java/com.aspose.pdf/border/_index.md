@@ -3,7 +3,7 @@ title: Border
 second_title: Aspose.PDF for Java API Reference
 description: Class representing characteristics of annotation border.
 type: docs
-weight: 37
+weight: 35
 url: /java/com.aspose.pdf/border/
 ---
 **Inheritance:**

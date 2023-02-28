@@ -3,7 +3,7 @@ title: Operator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class representing operator.
 type: docs
-weight: 235
+weight: 230
 url: /java/com.aspose.pdf/operator/
 ---
 **Inheritance:**
