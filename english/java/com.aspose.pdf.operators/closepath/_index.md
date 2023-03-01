@@ -18,7 +18,6 @@ Class representing h operator (close path).
 | Constructor | Description |
 | --- | --- |
 | [ClosePath()](#ClosePath--) | Initializes operator. |
-| [ClosePath(int index, ICommand command)](#ClosePath-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -32,20 +31,6 @@ public ClosePath()
 
 
 Initializes operator.
-
-### ClosePath(int index, ICommand command) {#ClosePath-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public ClosePath(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### getCommandName() {#getCommandName--}
 ```

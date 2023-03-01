@@ -17,7 +17,6 @@ Class representing l operator (add line to the path).
 
 | Constructor | Description |
 | --- | --- |
-| [LineTo(int index, ICommand command)](#LineTo-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [LineTo(double x, double y)](#LineTo-double-double-) | Initializes line operator. |
 ## Methods
 
@@ -29,20 +28,6 @@ Class representing l operator (add line to the path).
 | [setY(double value)](#setY-double-) | Y coordinate of line point. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of the operator. |
-### LineTo(int index, ICommand command) {#LineTo-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public LineTo(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### LineTo(double x, double y) {#LineTo-double-double-}
 ```
 public LineTo(double x, double y)

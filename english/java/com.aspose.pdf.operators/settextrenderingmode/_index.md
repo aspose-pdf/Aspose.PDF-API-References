@@ -18,7 +18,6 @@ Class representing Tr operator (set text rendering mode).
 | Constructor | Description |
 | --- | --- |
 | [SetTextRenderingMode()](#SetTextRenderingMode--) | Initializes operator. |
-| [SetTextRenderingMode(int index, ICommand command)](#SetTextRenderingMode-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -31,20 +30,6 @@ public SetTextRenderingMode()
 
 
 Initializes operator.
-
-### SetTextRenderingMode(int index, ICommand command) {#SetTextRenderingMode-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetTextRenderingMode(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

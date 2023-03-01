@@ -405,16 +405,6 @@ Sets collection of document.
 | --- | --- | --- |
 | value | [Collection](../../com.aspose.pdf/collection) | Collection object |
 
-### getEngineDoc() {#getEngineDoc--}
-```
-public IPdfDocument getEngineDoc()
-```
-
-
-Instance of IPdfDocument used to access to internal document structure. Internal only
-
-**Returns:**
-[IPdfDocument](../../com.aspose.pdf.engine/ipdfdocument) - IPdfDocument object
 ### getVersion() {#getVersion--}
 ```
 public String getVersion()
@@ -1470,16 +1460,6 @@ Gets the ID.
 
 **Returns:**
 [Id](../../com.aspose.pdf/id) - Id object
-### getMetadataStream() {#getMetadataStream--}
-```
-public IPdfStreamAccessor getMetadataStream()
-```
-
-
-Returns raw metadata stream
-
-**Returns:**
-[IPdfStreamAccessor](../../com.aspose.pdf.engine.data.types/ipdfstreamaccessor) - IPdfStreamAccessor object
 ### suppressUpdate() {#suppressUpdate--}
 ```
 public void suppressUpdate()

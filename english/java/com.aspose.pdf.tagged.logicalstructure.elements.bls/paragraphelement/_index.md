@@ -17,16 +17,3 @@ Represents Paragraph structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [ParagraphElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#ParagraphElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### ParagraphElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#ParagraphElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public ParagraphElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

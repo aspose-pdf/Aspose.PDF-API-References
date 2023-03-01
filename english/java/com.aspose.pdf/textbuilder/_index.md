@@ -59,16 +59,6 @@ Initializes a new instance of  TextBuilder  class for the Pdf page.
 | page | [Page](../../com.aspose.pdf/page) | Page object. |
 | operatorCollection | [BaseOperatorCollection](../../com.aspose.pdf/baseoperatorcollection) | Operator collection. |
 
-### getSegmenter() {#getSegmenter--}
-```
-public TextSegmenter getSegmenter()
-```
-
-
-Gets TextSegmenter object
-
-**Returns:**
-[TextSegmenter](../../com.aspose.pdf.engine.commondata.text.segmenting/textsegmenter) - TextSegmenter object
 ### appendParagraph(TextParagraph textParagraph) {#appendParagraph-com.aspose.pdf.TextParagraph-}
 ```
 public void appendParagraph(TextParagraph textParagraph)

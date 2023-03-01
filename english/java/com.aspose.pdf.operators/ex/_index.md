@@ -18,7 +18,6 @@ Class representing EX operator (End of compatibility section).
 | Constructor | Description |
 | --- | --- |
 | [EX()](#EX--) | Initializes operator. |
-| [EX(int index, ICommand command)](#EX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -31,20 +30,6 @@ public EX()
 
 
 Initializes operator.
-
-### EX(int index, ICommand command) {#EX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public EX(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

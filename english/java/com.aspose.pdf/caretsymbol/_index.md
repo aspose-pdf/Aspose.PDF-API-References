@@ -18,7 +18,7 @@ A symbol to be associated with the caret.
 | Field | Description |
 | --- | --- |
 | [None](#None) | No symbol should be associated with the caret. |
-| [Paragraph](#Paragraph) | A new paragraph symbol (¶) should be associated with the caret. |
+| [Paragraph](#Paragraph) | A new paragraph symbol (ï¿½) should be associated with the caret. |
 ### None {#None}
 ```
 public static final int None
@@ -33,5 +33,5 @@ public static final int Paragraph
 ```
 
 
-A new paragraph symbol (¶) should be associated with the caret.
+A new paragraph symbol (ï¿½) should be associated with the caret.
 

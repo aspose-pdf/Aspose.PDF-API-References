@@ -488,7 +488,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [XImage](../com.aspose.pdf/ximage) | Class representing image X-Object. |
 | [XImage.RawParameters](../com.aspose.pdf/ximage.rawparameters) | Class representing image raw XImage parameters. |
 | [XImageCollection](../com.aspose.pdf/ximagecollection) | Class representing XImage collection. |
-| [XYZExplicitDestination](../com.aspose.pdf/xyzexplicitdestination) | Represents explicit destination that displays the page with the coordinates (left, top) positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom. |
+| [XYZExplicitDestination](../com.aspose.pdf/xyzexplicitdestination) | Represents explicit destination that displays the page with the coordinates (left,ï¿½top) positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom. |
 | [XfaParserOptions](../com.aspose.pdf/xfaparseroptions) | class to handle related data encapsulation |
 | [XfdfReader](../com.aspose.pdf/xfdfreader) | Class which peroformes reading of XFDF format. |
 | [XfdfWriter](../com.aspose.pdf/xfdfwriter) | Aggregates methods of writing annotations and fields to XFDF file format |

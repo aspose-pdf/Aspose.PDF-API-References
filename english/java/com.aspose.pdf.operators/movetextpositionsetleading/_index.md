@@ -17,7 +17,6 @@ Class representing TD operator (move position and set leading).
 
 | Constructor | Description |
 | --- | --- |
-| [MoveTextPositionSetLeading(int index, ICommand command)](#MoveTextPositionSetLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [MoveTextPositionSetLeading(double x, double y)](#MoveTextPositionSetLeading-double-double-) | Initializes operator. |
 ## Methods
 
@@ -28,20 +27,6 @@ Class representing TD operator (move position and set leading).
 | [getY()](#getY--) | Y coordinate of text position. |
 | [setY(double value)](#setY-double-) | Y coordinate of text position. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### MoveTextPositionSetLeading(int index, ICommand command) {#MoveTextPositionSetLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public MoveTextPositionSetLeading(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### MoveTextPositionSetLeading(double x, double y) {#MoveTextPositionSetLeading-double-double-}
 ```
 public MoveTextPositionSetLeading(double x, double y)

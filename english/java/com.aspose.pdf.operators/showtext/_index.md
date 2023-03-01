@@ -17,7 +17,6 @@ Class representing Tj operator (show text).
 
 | Constructor | Description |
 | --- | --- |
-| [ShowText(int index, ICommand command)](#ShowText-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
 | [ShowText(int index, String text)](#ShowText-int-java.lang.String-) | Initializes Tj opearor. |
 | [ShowText(String text)](#ShowText-java.lang.String-) | Initializes Tj operator. |
 | [ShowText(String text, Font font)](#ShowText-java.lang.String-com.aspose.pdf.Font-) |  |
@@ -30,20 +29,6 @@ Class representing Tj operator (show text).
 | [setText(String value)](#setText-java.lang.String-) | Set text of operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Produces text code of operator. |
-### ShowText(int index, ICommand command) {#ShowText-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public ShowText(int index, ICommand command)
-```
-
-
-Initializes operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### ShowText(int index, String text) {#ShowText-int-java.lang.String-}
 ```
 public ShowText(int index, String text)

@@ -19,7 +19,6 @@ Class representing ' operator (move to next line and show text).
 | --- | --- |
 | [MoveToNextLineShowText()](#MoveToNextLineShowText--) | Initializesoperator. |
 | [MoveToNextLineShowText(String text)](#MoveToNextLineShowText-java.lang.String-) | Initializes operator. |
-| [MoveToNextLineShowText(int index, ICommand command)](#MoveToNextLineShowText-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -46,20 +45,6 @@ Initializes operator.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | java.lang.String | The text. |
-
-### MoveToNextLineShowText(int index, ICommand command) {#MoveToNextLineShowText-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public MoveToNextLineShowText(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### getText() {#getText--}
 ```

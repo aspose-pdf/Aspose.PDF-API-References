@@ -17,7 +17,6 @@ Class representing c operator (append curve to path).
 
 | Constructor | Description |
 | --- | --- |
-| [CurveTo(int index, ICommand command)](#CurveTo-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)](#CurveTo-double-double-double-double-double-double-) | Initializes curve operator. |
 ## Methods
 
@@ -26,22 +25,7 @@ Class representing c operator (append curve to path).
 | [getPoints()](#getPoints--) | Points of the curve. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [toCommand()](#toCommand--) |  |
-### CurveTo(int index, ICommand command) {#CurveTo-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public CurveTo(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### CurveTo(double x1, double y1, double x2, double y2, double x3, double y3) {#CurveTo-double-double-double-double-double-double-}
 ```
 public CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)
@@ -93,19 +77,6 @@ Returns text representation of operator.
 
 **Returns:**
 java.lang.String - Text representation of operator.
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
 ### toCommand() {#toCommand--}
 ```
 public ICommand toCommand()
@@ -115,4 +86,3 @@ public ICommand toCommand()
 
 
 **Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)

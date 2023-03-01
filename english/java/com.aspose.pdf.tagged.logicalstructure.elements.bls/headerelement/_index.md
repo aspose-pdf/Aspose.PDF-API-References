@@ -17,30 +17,3 @@ Represents Header structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [HeaderElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#HeaderElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-| [HeaderElement(TaggedContext taggedContext, int level, IPdfPrimitive pdfEngineEntity)](#HeaderElement-com.aspose.pdf.tagged.TaggedContext-int-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### HeaderElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#HeaderElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public HeaderElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-
-### HeaderElement(TaggedContext taggedContext, int level, IPdfPrimitive pdfEngineEntity) {#HeaderElement-com.aspose.pdf.tagged.TaggedContext-int-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public HeaderElement(TaggedContext taggedContext, int level, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| level | int |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

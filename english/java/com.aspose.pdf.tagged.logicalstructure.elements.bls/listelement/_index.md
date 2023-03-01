@@ -17,16 +17,3 @@ Represents List structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [ListElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#ListElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### ListElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#ListElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public ListElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

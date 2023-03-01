@@ -32,8 +32,8 @@ An abstract class which represents signature object in the pdf document. Signatu
 | [setDate(Date value)](#setDate-java.util.Date-) | Set the time of signing. |
 | [getLocation()](#getLocation--) | Gets the CPU host name or physical location of the signing. |
 | [setLocation(String value)](#setLocation-java.lang.String-) | Sets the CPU host name or physical location of the signing. |
-| [getReason()](#getReason--) | Gets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412¦). |
-| [setReason(String value)](#setReason-java.lang.String-) | Sets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412¦). |
+| [getReason()](#getReason--) | Gets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412ï¿½). |
+| [setReason(String value)](#setReason-java.lang.String-) | Sets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412ï¿½). |
 | [getContactInfo()](#getContactInfo--) | Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [setContactInfo(String value)](#setContactInfo-java.lang.String-) | Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [getByteRange()](#getByteRange--) | Get array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
@@ -185,7 +185,7 @@ public String getReason()
 ```
 
 
-Gets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412¦).
+Gets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412ï¿½).
 
 **Returns:**
 java.lang.String - String value
@@ -195,7 +195,7 @@ public void setReason(String value)
 ```
 
 
-Sets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412¦).
+Sets the reason for the signing, such as (I agree\\u0420\\u0406\\u0420\\u201a\\u0412ï¿½).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -342,16 +342,6 @@ public void setImageInternal(System.IO.Stream value)
 | --- | --- | --- |
 | value | com.aspose.ms.System.IO.Stream |  |
 
-### getSignatureReferences() {#getSignatureReferences--}
-```
-public List<SignatureReference> getSignatureReferences()
-```
-
-
-get Signature References
-
-**Returns:**
-java.util.List<com.aspose.pdf.engine.security.impl.signatures.SignatureReference> -  java.util.List object 
 ### verify() {#verify--}
 ```
 public boolean verify()

@@ -17,7 +17,6 @@ Class representing y operator (append curve to path, final point replicated).
 
 | Constructor | Description |
 | --- | --- |
-| [CurveTo2(int index, ICommand command)](#CurveTo2-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [CurveTo2(double x1, double y1, double x3, double y3)](#CurveTo2-double-double-double-double-) | Initializes curve operator. |
 ## Methods
 
@@ -25,20 +24,6 @@ Class representing y operator (append curve to path, final point replicated).
 | --- | --- |
 | [getPoints()](#getPoints--) | Points of the curve. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### CurveTo2(int index, ICommand command) {#CurveTo2-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public CurveTo2(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### CurveTo2(double x1, double y1, double x3, double y3) {#CurveTo2-double-double-double-double-}
 ```
 public CurveTo2(double x1, double y1, double x3, double y3)

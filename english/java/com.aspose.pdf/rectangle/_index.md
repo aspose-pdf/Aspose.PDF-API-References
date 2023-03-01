@@ -38,7 +38,6 @@ Class represents rectangle.
 | [setURY(double value)](#setURY-double-) | Sets Y - coordinate of upper-right corner. |
 | [toRect()](#toRect--) | Converts rectangle to instance of System.Drawing.Rectangle. |
 | [fromRect(Rectangle src)](#fromRect-java.awt.Rectangle-) | Initializes new rectangle from given instance of System.Drawing.Rectangle. |
-| [toArray(ITrailerable trailerable)](#toArray-com.aspose.pdf.engine.data.ITrailerable-) |  |
 | [toString()](#toString--) | Gets rectangle string representation. |
 | [parse(String value)](#parse-java.lang.String-) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
 | [getEmpty()](#getEmpty--) | Gets empty rectangle |
@@ -232,21 +231,6 @@ Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
 **Returns:**
 [Rectangle](../../com.aspose.pdf/rectangle) - New rectangle.
-### toArray(ITrailerable trailerable) {#toArray-com.aspose.pdf.engine.data.ITrailerable-}
-```
-public PdfArray toArray(ITrailerable trailerable)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| trailerable | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) |  |
-
-**Returns:**
-[PdfArray](../../com.aspose.pdf.engine.data/pdfarray)
 ### toString() {#toString--}
 ```
 public String toString()

@@ -18,7 +18,6 @@ Class representing b operator (close, fill and stroke path with nonzer winding r
 | Constructor | Description |
 | --- | --- |
 | [ClosePathFillStroke()](#ClosePathFillStroke--) | Initializes operator. |
-| [ClosePathFillStroke(int index, ICommand command)](#ClosePathFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -33,20 +32,6 @@ public ClosePathFillStroke()
 
 
 Initializes operator.
-
-### ClosePathFillStroke(int index, ICommand command) {#ClosePathFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public ClosePathFillStroke(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

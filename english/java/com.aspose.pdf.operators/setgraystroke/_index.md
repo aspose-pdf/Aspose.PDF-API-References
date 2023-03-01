@@ -17,7 +17,6 @@ Class representing gray level for stroking operations.
 
 | Constructor | Description |
 | --- | --- |
-| [SetGrayStroke(int index, ICommand command)](#SetGrayStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetGrayStroke(double gray)](#SetGrayStroke-double-) | Initializes operator with the specified color. |
 ## Methods
 
@@ -26,20 +25,6 @@ Class representing gray level for stroking operations.
 | [getColor()](#getColor--) | Returns color specified by operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-### SetGrayStroke(int index, ICommand command) {#SetGrayStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetGrayStroke(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetGrayStroke(double gray) {#SetGrayStroke-double-}
 ```
 public SetGrayStroke(double gray)

@@ -17,7 +17,6 @@ Abstract base class for all operators which used to out text (Tj, TJ, etc).
 
 | Constructor | Description |
 | --- | --- |
-| [TextShowOperator(int index, ICommand command)](#TextShowOperator-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [TextShowOperator()](#TextShowOperator--) | Constructor for new TextShowOperator. |
 | [TextShowOperator(TextProperties textProperties)](#TextShowOperator-com.aspose.pdf.facades.TextProperties-) | Constructor for TextShowOperator which allows to pass TextProperties. |
 ## Methods
@@ -26,20 +25,6 @@ Abstract base class for all operators which used to out text (Tj, TJ, etc).
 | --- | --- |
 | [getText()](#getText--) | Gets text which operator out on the page. |
 | [setText(String value)](#setText-java.lang.String-) | Sets text which operator out on the page. |
-### TextShowOperator(int index, ICommand command) {#TextShowOperator-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public TextShowOperator(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### TextShowOperator() {#TextShowOperator--}
 ```
 public TextShowOperator()

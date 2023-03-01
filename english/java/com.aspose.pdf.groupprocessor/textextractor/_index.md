@@ -48,7 +48,6 @@ Represents instance to interact with extractor.
 | [dispose()](#dispose--) | Dispose object This method is obsolete, use close() instead. |
 | [getVersion()](#getVersion--) | For Internal usage only |
 | [isFastExtractionUsed()](#isFastExtractionUsed--) | Returns TRUE if the fast extraction was used |
-| [setVentureLicense(VentureLicense license)](#setVentureLicense-com.aspose.pdf.engine.licensemanagement.VentureLicense-) |  |
 | [getVentureLicense()](#getVentureLicense--) |  |
 ### TextExtractor() {#TextExtractor--}
 ```
@@ -294,19 +293,6 @@ Returns TRUE if the fast extraction was used
 
 **Returns:**
 boolean - boolean value
-### setVentureLicense(VentureLicense license) {#setVentureLicense-com.aspose.pdf.engine.licensemanagement.VentureLicense-}
-```
-public final void setVentureLicense(VentureLicense license)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| license | [VentureLicense](../../com.aspose.pdf.engine.licensemanagement/venturelicense) |  |
-
 ### getVentureLicense() {#getVentureLicense--}
 ```
 public final VentureLicense getVentureLicense()
@@ -316,4 +302,3 @@ public final VentureLicense getVentureLicense()
 
 
 **Returns:**
-[VentureLicense](../../com.aspose.pdf.engine.licensemanagement/venturelicense)

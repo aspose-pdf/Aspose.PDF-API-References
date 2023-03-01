@@ -17,16 +17,3 @@ Represents Formula structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [FormulaElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#FormulaElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### FormulaElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#FormulaElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public FormulaElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

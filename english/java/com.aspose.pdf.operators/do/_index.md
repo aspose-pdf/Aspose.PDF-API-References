@@ -17,7 +17,6 @@ Class representing Do operator (Invoke XObject).
 
 | Constructor | Description |
 | --- | --- |
-| [Do(int index, ICommand command)](#Do-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [Do(String name)](#Do-java.lang.String-) | Constructs new Do operator. |
 | [Do()](#Do--) | Constructs new Do operator. |
 ## Methods
@@ -30,21 +29,6 @@ Class representing Do operator (Invoke XObject).
 | [toString()](#toString--) | Returns text representation of operator. |
 | [getCommandName()](#getCommandName--) | Gets command name |
 | [toCommand()](#toCommand--) |  |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
-### Do(int index, ICommand command) {#Do-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public Do(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### Do(String name) {#Do-java.lang.String-}
 ```
 public Do(String name)
@@ -122,26 +106,3 @@ Gets command name
 
 **Returns:**
 java.lang.String - String value
-### toCommand() {#toCommand--}
-```
-public ICommand toCommand()
-```
-
-
-
-
-**Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-

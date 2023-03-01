@@ -17,7 +17,6 @@ Class representing w operator (set line width).
 
 | Constructor | Description |
 | --- | --- |
-| [SetLineWidth(int index, ICommand command)](#SetLineWidth-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetLineWidth(double width)](#SetLineWidth-double-) | Initializes operator with width value. |
 ## Methods
 
@@ -27,20 +26,6 @@ Class representing w operator (set line width).
 | [setWidth(double value)](#setWidth-double-) | Sets width of the line. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-### SetLineWidth(int index, ICommand command) {#SetLineWidth-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetLineWidth(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetLineWidth(double width) {#SetLineWidth-double-}
 ```
 public SetLineWidth(double width)

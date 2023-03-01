@@ -17,40 +17,9 @@ Internal class
 
 | Method | Description |
 | --- | --- |
-| [registerFont(TextProcessingContext value, IPdfFont font)](#registerFont-com.aspose.pdf.text.TextProcessingContext-com.aspose.pdf.engine.commondata.text.fonts.IPdfFont-) |  |
-| [getInstance(IContext context)](#getInstance-com.aspose.pdf.engine.data.IContext-) |  |
 | [getSubstitutionFontDefinition(FontSubstitution fs)](#getSubstitutionFontDefinition-com.aspose.pdf.text.FontSubstitution-) |  |
 | [setSubstitutionFontDefinition(FontSubstitution fs, FontDefinition value)](#setSubstitutionFontDefinition-com.aspose.pdf.text.FontSubstitution-com.aspose.font.FontDefinition-) |  |
 | [isForcedBySaveOption(SimpleFontSubstitution value)](#isForcedBySaveOption-com.aspose.pdf.text.SimpleFontSubstitution-) |  |
-### registerFont(TextProcessingContext value, IPdfFont font) {#registerFont-com.aspose.pdf.text.TextProcessingContext-com.aspose.pdf.engine.commondata.text.fonts.IPdfFont-}
-```
-public static void registerFont(TextProcessingContext value, IPdfFont font)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextProcessingContext](../../com.aspose.pdf.text/textprocessingcontext) |  |
-| font | [IPdfFont](../../com.aspose.pdf.engine.commondata.text.fonts/ipdffont) |  |
-
-### getInstance(IContext context) {#getInstance-com.aspose.pdf.engine.data.IContext-}
-```
-public static TextProcessingContext getInstance(IContext context)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| context | [IContext](../../com.aspose.pdf.engine.data/icontext) |  |
-
-**Returns:**
-[TextProcessingContext](../../com.aspose.pdf.text/textprocessingcontext)
 ### getSubstitutionFontDefinition(FontSubstitution fs) {#getSubstitutionFontDefinition-com.aspose.pdf.text.FontSubstitution-}
 ```
 public static FontDefinition getSubstitutionFontDefinition(FontSubstitution fs)

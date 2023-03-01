@@ -17,16 +17,3 @@ Represents Caption structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [CaptionElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#CaptionElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### CaptionElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#CaptionElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public CaptionElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

@@ -17,16 +17,3 @@ Represents WP structure element in logical structure of the Warichu.
 
 | Constructor | Description |
 | --- | --- |
-| [WarichuWPElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#WarichuWPElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### WarichuWPElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#WarichuWPElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public WarichuWPElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

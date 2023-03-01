@@ -20,7 +20,6 @@ Class representing embedded file.
 
 | Constructor | Description |
 | --- | --- |
-| [FileSpecification(IPdfPrimitive specification)](#FileSpecification-com.aspose.pdf.engine.data.IPdfPrimitive-) | File specification |
 | [FileSpecification(String file)](#FileSpecification-java.lang.String-) | Constructor for FileSpecification |
 | [FileSpecification(System.IO.Stream stream, String name)](#FileSpecification-com.aspose.ms.System.IO.Stream-java.lang.String-) | Constructor for file specification. |
 | [FileSpecification(InputStream stream, String name)](#FileSpecification-java.io.InputStream-java.lang.String-) | Constructor for file specification. |
@@ -63,19 +62,6 @@ Class representing embedded file.
 | [setValue(String key, String value)](#setValue-java.lang.String-java.lang.String-) | Sets application-specific parameter. |
 | [close()](#close--) | Dispose contents. |
 | [dispose()](#dispose--) | Dispose contents. |
-### FileSpecification(IPdfPrimitive specification) {#FileSpecification-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public FileSpecification(IPdfPrimitive specification)
-```
-
-
-File specification
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| specification | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | IPdfPrimitive object |
-
 ### FileSpecification(String file) {#FileSpecification-java.lang.String-}
 ```
 public FileSpecification(String file)
@@ -229,26 +215,6 @@ If true, contents of the file will be included in the file specification.
 | --- | --- | --- |
 | value | boolean | boolean value |
 
-### getEngineDict() {#getEngineDict--}
-```
-public IPdfDictionary getEngineDict()
-```
-
-
-Pdf dictionary containing information about the file. Internal only
-
-**Returns:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary object
-### getEngineObj() {#getEngineObj--}
-```
-public IPdfObject getEngineObj()
-```
-
-
-Internal only
-
-**Returns:**
-[IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) - IPdfObject object
 ### getEncryptedPayload() {#getEncryptedPayload--}
 ```
 public final EncryptedPayload getEncryptedPayload()

@@ -17,7 +17,6 @@ Class representing Tf operator (set text font and size).
 
 | Constructor | Description |
 | --- | --- |
-| [SelectFont(int index, ICommand command)](#SelectFont-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SelectFont(String resName, double size)](#SelectFont-java.lang.String-double-) | Constructor for writin program. |
 ## Methods
 
@@ -27,20 +26,6 @@ Class representing Tf operator (set text font and size).
 | [getSize()](#getSize--) | Gets size of text. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-### SelectFont(int index, ICommand command) {#SelectFont-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SelectFont(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SelectFont(String resName, double size) {#SelectFont-java.lang.String-double-}
 ```
 public SelectFont(String resName, double size)

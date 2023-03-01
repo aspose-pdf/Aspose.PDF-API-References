@@ -17,16 +17,3 @@ Represents Sect structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [SectElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#SectElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### SectElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#SectElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public SectElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

@@ -20,7 +20,6 @@ Class represents PDF Artifact object.
 
 | Constructor | Description |
 | --- | --- |
-| [Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties)](#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--com.aspose.pdf.engine.data.IPdfDictionary-) | This constructor is used when artifact is read from the page. |
 | [Artifact(String type, String subType)](#Artifact-java.lang.String-java.lang.String-) | Constructor of artifact with specified type and subtype |
 | [Artifact(Artifact.ArtifactType type, Artifact.ArtifactSubtype subType)](#Artifact-com.aspose.pdf.Artifact.ArtifactType-com.aspose.pdf.Artifact.ArtifactSubtype-) | Constructor of artifact with specified type and subtype |
 ## Methods
@@ -77,22 +76,6 @@ Class represents PDF Artifact object.
 | [saveUpdates()](#saveUpdates--) | Saves all updates in artifact which were made after BeginUpdates() call. |
 | [isBackground()](#isBackground--) | If true Artifact is placed behind page contents. |
 | [setBackground(boolean value)](#setBackground-boolean-) | If true Artifact is placed behind page contents. |
-### Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties) {#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--com.aspose.pdf.engine.data.IPdfDictionary-}
-```
-public Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties)
-```
-
-
-This constructor is used when artifact is read from the page. ARtifactCollection passes page resources, initial matrix, operators of the artifact ("contents") and properties dictionary.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| owner | [ArtifactCollection](../../com.aspose.pdf/artifactcollection) | ArtifactCollection object |
-| context | com.aspose.pdf.Artifact.ArtifactContext | ArtifactContext object |
-| _contents | com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> | Collection of Operators |
-| _properties | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) | IPdfDictionary object |
-
 ### Artifact(String type, String subType) {#Artifact-java.lang.String-java.lang.String-}
 ```
 public Artifact(String type, String subType)

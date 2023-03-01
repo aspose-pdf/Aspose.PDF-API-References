@@ -17,7 +17,6 @@ Class representing f operator (fill path with nonzero winding number rule).
 
 | Constructor | Description |
 | --- | --- |
-| [Fill(int index, ICommand command)](#Fill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [Fill()](#Fill--) | Initilizes new f operator. |
 ## Methods
 
@@ -25,20 +24,6 @@ Class representing f operator (fill path with nonzero winding number rule).
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-### Fill(int index, ICommand command) {#Fill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public Fill(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### Fill() {#Fill--}
 ```
 public Fill()

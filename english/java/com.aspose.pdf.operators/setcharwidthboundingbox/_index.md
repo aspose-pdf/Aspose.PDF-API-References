@@ -18,7 +18,6 @@ Class representing d1 operator (set glyph and bounding box).
 | Constructor | Description |
 | --- | --- |
 | [SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, double urx, double ury)](#SetCharWidthBoundingBox-double-double-double-double-double-double-) | Initializes operator. |
-| [SetCharWidthBoundingBox(int index, ICommand command)](#SetCharWidthBoundingBox-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -30,7 +29,6 @@ Class representing d1 operator (set glyph and bounding box).
 | [getUrx()](#getUrx--) | Upper-right horizontal coordinate of bounding rectangle. |
 | [getUry()](#getUry--) | Upper-right vertical coordinate of bounding rectangle. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [toCommand()](#toCommand--) |  |
 | [toString()](#toString--) | Returns text representation of operator. |
 ### SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, double urx, double ury) {#SetCharWidthBoundingBox-double-double-double-double-double-double-}
@@ -50,20 +48,6 @@ Initializes operator.
 | lly | double | double value |
 | urx | double | double value |
 | ury | double | double value |
-
-### SetCharWidthBoundingBox(int index, ICommand command) {#SetCharWidthBoundingBox-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetCharWidthBoundingBox(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### getWx() {#getWx--}
 ```
@@ -138,29 +122,6 @@ Accepts visitor object to process operator.
 | --- | --- | --- |
 | visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
 
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
-### toCommand() {#toCommand--}
-```
-public ICommand toCommand()
-```
-
-
-
-
-**Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
 ### toString() {#toString--}
 ```
 public String toString()

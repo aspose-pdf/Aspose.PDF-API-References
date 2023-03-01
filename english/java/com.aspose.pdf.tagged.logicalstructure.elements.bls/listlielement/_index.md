@@ -17,16 +17,3 @@ Represents LI structure element in logical structure of the list.
 
 | Constructor | Description |
 | --- | --- |
-| [ListLIElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#ListLIElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### ListLIElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#ListLIElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public ListLIElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

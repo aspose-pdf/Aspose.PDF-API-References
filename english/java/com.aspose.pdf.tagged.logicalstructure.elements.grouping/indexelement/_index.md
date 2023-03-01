@@ -17,16 +17,3 @@ Represents Index structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [IndexElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#IndexElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### IndexElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#IndexElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public IndexElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

@@ -17,7 +17,6 @@ Class representing T\* operator (Move to start of the next line).
 
 | Constructor | Description |
 | --- | --- |
-| [MoveToNextLine(int index, ICommand command)](#MoveToNextLine-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [MoveToNextLine()](#MoveToNextLine--) | Constructor for writing program. |
 ## Methods
 
@@ -25,20 +24,6 @@ Class representing T\* operator (Move to start of the next line).
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text of the operator. |
-### MoveToNextLine(int index, ICommand command) {#MoveToNextLine-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public MoveToNextLine(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### MoveToNextLine() {#MoveToNextLine--}
 ```
 public MoveToNextLine()

@@ -17,16 +17,3 @@ Represents Figure structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [FigureElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#FigureElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### FigureElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#FigureElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public FigureElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

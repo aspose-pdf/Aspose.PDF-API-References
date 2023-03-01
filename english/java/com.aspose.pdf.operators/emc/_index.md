@@ -17,7 +17,6 @@ Clsss representing EMC oeprator (End of marked-content sequence).
 
 | Constructor | Description |
 | --- | --- |
-| [EMC(int index, ICommand command)](#EMC-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [EMC()](#EMC--) | Constructor for writing program. |
 ## Methods
 
@@ -25,20 +24,6 @@ Clsss representing EMC oeprator (End of marked-content sequence).
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-### EMC(int index, ICommand command) {#EMC-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public EMC(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### EMC() {#EMC--}
 ```
 public EMC()

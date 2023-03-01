@@ -284,20 +284,6 @@ Useful properties to tune Font behavior
 
 **Returns:**
 [IFontOptions](../../com.aspose.pdf/ifontoptions) - IFontOptions object
-### getIPdfFont() {#getIPdfFont--}
-```
-public IPdfFont getIPdfFont()
-```
-
-
-Pdf font object.
-
---------------------
-
-For internal usage only
-
-**Returns:**
-[IPdfFont](../../com.aspose.pdf.engine.commondata.text.fonts/ipdffont) - IPdfFont object
 ### getIFont() {#getIFont--}
 ```
 public IFont getIFont()

@@ -17,7 +17,6 @@ Class representing Q operator (restore graphics state).
 
 | Constructor | Description |
 | --- | --- |
-| [GRestore(int index, ICommand command)](#GRestore-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [GRestore()](#GRestore--) | Constructor for Q operator. |
 ## Methods
 
@@ -25,20 +24,6 @@ Class representing Q operator (restore graphics state).
 | --- | --- |
 | [toString()](#toString--) | Returns text of the operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### GRestore(int index, ICommand command) {#GRestore-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public GRestore(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### GRestore() {#GRestore--}
 ```
 public GRestore()

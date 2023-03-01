@@ -71,16 +71,6 @@ Gets type of structure element.
 
 **Returns:**
 [StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) - Value:  StructureTypeStandard  object of structure element.
-### getS() {#getS--}
-```
-public final IPdfName getS()
-```
-
-
-
-
-**Returns:**
-[IPdfName](../../com.aspose.pdf.engine.data/ipdfname)
 ### getID() {#getID--}
 ```
 public final String getID()

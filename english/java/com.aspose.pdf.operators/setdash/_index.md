@@ -17,7 +17,6 @@ Class representing d operator (set line dash pattern).
 
 | Constructor | Description |
 | --- | --- |
-| [SetDash(int index, ICommand command)](#SetDash-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetDash(int[] pattern, int phase)](#SetDash-int---int-) | Creates set dash pattern operator. |
 ## Methods
 
@@ -29,22 +28,7 @@ Class representing d operator (set line dash pattern).
 | [setPhase(int value)](#setPhase-int-) | Dash phase. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Gets operator string representation. |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [toCommand()](#toCommand--) |  |
-### SetDash(int index, ICommand command) {#SetDash-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetDash(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetDash(int[] pattern, int phase) {#SetDash-int---int-}
 ```
 public SetDash(int[] pattern, int phase)
@@ -128,19 +112,6 @@ Gets operator string representation.
 
 **Returns:**
 java.lang.String - [x1 x2] y d, where x1 - dash length, x2 - gap length, y - phase.
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
 ### toCommand() {#toCommand--}
 ```
 public ICommand toCommand()
@@ -150,4 +121,3 @@ public ICommand toCommand()
 
 
 **Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)

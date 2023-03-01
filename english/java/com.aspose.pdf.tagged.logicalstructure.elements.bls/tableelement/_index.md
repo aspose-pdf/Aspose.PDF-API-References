@@ -17,7 +17,6 @@ Represents Table structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [TableElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#TableElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) | constructor for internal usage only |
 ## Methods
 
 | Method | Description |
@@ -62,20 +61,6 @@ Represents Table structure element in logical structure.
 | [createTHead()](#createTHead--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) and added it to current table. |
 | [createTBody()](#createTBody--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) and added it to current table. |
 | [createTFoot()](#createTFoot--) | Creates [TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement) and added it to current table. |
-### TableElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TableElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public TableElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-constructor for internal usage only
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) | TaggedContext instance |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | internal instance |
-
 ### getTable() {#getTable--}
 ```
 public final Table getTable()

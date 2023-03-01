@@ -17,7 +17,6 @@ Class for coping object
 
 | Constructor | Description |
 | --- | --- |
-| [Copier(ITrailerable trailerable)](#Copier-com.aspose.pdf.engine.data.ITrailerable-) | Constructor |
 ## Methods
 
 | Method | Description |
@@ -32,21 +31,6 @@ Class for coping object
 | [setUseStubs(boolean value)](#setUseStubs-boolean-) | set Use Stubs |
 | [getRestrictedKeys()](#getRestrictedKeys--) | get Restricted Keys |
 | [setRestrictedKeys(String[] value)](#setRestrictedKeys-java.lang.String---) | set Restricted Keys |
-| [duplicate(IPdfPrimitive src)](#duplicate-com.aspose.pdf.engine.data.IPdfPrimitive-) | Duplicates IPdfPrimitive |
-| [duplicate(IPdfPrimitive src, boolean IsResourceObject)](#duplicate-com.aspose.pdf.engine.data.IPdfPrimitive-boolean-) | Creates copy of object with all dependent object. |
-### Copier(ITrailerable trailerable) {#Copier-com.aspose.pdf.engine.data.ITrailerable-}
-```
-public Copier(ITrailerable trailerable)
-```
-
-
-Constructor
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| trailerable | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) | ITrailerable object |
-
 ### getIgnoreCorruptedObjects() {#getIgnoreCorruptedObjects--}
 ```
 public boolean getIgnoreCorruptedObjects()
@@ -162,34 +146,3 @@ set Restricted Keys
 | --- | --- | --- |
 | value | java.lang.String[] | String[] array |
 
-### duplicate(IPdfPrimitive src) {#duplicate-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public IPdfPrimitive duplicate(IPdfPrimitive src)
-```
-
-
-Duplicates IPdfPrimitive
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| src | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | IPdfPrimitive object |
-
-**Returns:**
-[IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) - IPdfPrimitive object
-### duplicate(IPdfPrimitive src, boolean IsResourceObject) {#duplicate-com.aspose.pdf.engine.data.IPdfPrimitive-boolean-}
-```
-public IPdfPrimitive duplicate(IPdfPrimitive src, boolean IsResourceObject)
-```
-
-
-Creates copy of object with all dependent object. The object may be from part of other document (e.g. coping pages between documents, etc.)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| src | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | IPdfPrimitive object |
-| IsResourceObject | boolean | boolean value |
-
-**Returns:**
-[IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) - IPdfPrimitive object

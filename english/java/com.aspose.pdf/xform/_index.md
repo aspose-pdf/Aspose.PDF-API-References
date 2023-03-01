@@ -32,22 +32,10 @@ Class represent XForm
 | [getResources(boolean allowCreate)](#getResources-boolean-) | Returns resources of Form X-Object |
 | [getResources()](#getResources--) | Returns resources of Form X-Object. |
 | [getResources2()](#getResources2--) | Gets Form XObject resources. |
-| [createNewForm(ITrailerable trailerable)](#createNewForm-com.aspose.pdf.engine.data.ITrailerable-) | Creates new XForm in the document. |
 | [containsOwnResources()](#containsOwnResources--) | Returns True if contains Own Resources |
-| [createNewForm(Page source, ITrailerable trailerable, Copier copier)](#createNewForm-com.aspose.pdf.Page-com.aspose.pdf.engine.data.ITrailerable-com.aspose.pdf.Copier-) |  |
 | [createNewForm(Page source, IDocument document)](#createNewForm-com.aspose.pdf.Page-com.aspose.pdf.IDocument-) | Creates XForm which duplicates contents of the page. |
 | [getRectangle()](#getRectangle--) | Gets rectangel of the form. |
 | [freeMemory()](#freeMemory--) | Clears cached data |
-### getEngineObj() {#getEngineObj--}
-```
-public IPdfObject getEngineObj()
-```
-
-
-Internal only
-
-**Returns:**
-[IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) - IPdfObject object
 ### getBBox() {#getBBox--}
 ```
 public Rectangle getBBox()
@@ -172,21 +160,6 @@ Gets Form XObject resources.
 
 **Returns:**
 [Resources](../../com.aspose.pdf/resources) - Resources instance. If For does not have resources, Resources will be automatically created for the form.
-### createNewForm(ITrailerable trailerable) {#createNewForm-com.aspose.pdf.engine.data.ITrailerable-}
-```
-public static XForm createNewForm(ITrailerable trailerable)
-```
-
-
-Creates new XForm in the document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| trailerable | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) | Describes ITrailerable object |
-
-**Returns:**
-[XForm](../../com.aspose.pdf/xform) - Newly created XForm
 ### containsOwnResources() {#containsOwnResources--}
 ```
 public boolean containsOwnResources()
@@ -197,23 +170,6 @@ Returns True if contains Own Resources
 
 **Returns:**
 boolean - boolean value
-### createNewForm(Page source, ITrailerable trailerable, Copier copier) {#createNewForm-com.aspose.pdf.Page-com.aspose.pdf.engine.data.ITrailerable-com.aspose.pdf.Copier-}
-```
-public static XForm createNewForm(Page source, ITrailerable trailerable, Copier copier)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | [Page](../../com.aspose.pdf/page) |  |
-| trailerable | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) |  |
-| copier | [Copier](../../com.aspose.pdf/copier) |  |
-
-**Returns:**
-[XForm](../../com.aspose.pdf/xform)
 ### createNewForm(Page source, IDocument document) {#createNewForm-com.aspose.pdf.Page-com.aspose.pdf.IDocument-}
 ```
 public static XForm createNewForm(Page source, IDocument document)
