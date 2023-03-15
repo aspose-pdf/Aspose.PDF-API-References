@@ -1,14 +1,14 @@
 ---
 title: Firebrick
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFB22222.
+description: Gets a system-defined color that has an ARGB value of c FFB22222.
 type: docs
 weight: 440
 url: /net/aspose.pdf/color/firebrick/
 ---
 ## Color.Firebrick property
 
-Gets a system-defined color that has an ARGB value of #FFB22222.
+Gets a system-defined color that has an ARGB value of \c \#FFB22222.
 
 ```csharp
 public static Color Firebrick { get; }

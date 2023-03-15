@@ -1,14 +1,14 @@
 ---
 title: DeepPink
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFF1493.
+description: Gets a system-defined color that has an ARGB value of c FFFF1493.
 type: docs
 weight: 400
 url: /net/aspose.pdf/color/deeppink/
 ---
 ## Color.DeepPink property
 
-Gets a system-defined color that has an ARGB value of #FFFF1493.
+Gets a system-defined color that has an ARGB value of \c \#FFFF1493.
 
 ```csharp
 public static Color DeepPink { get; }

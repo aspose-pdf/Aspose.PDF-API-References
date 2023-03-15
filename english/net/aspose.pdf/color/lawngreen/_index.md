@@ -1,14 +1,14 @@
 ---
 title: LawnGreen
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF7CFC00.
+description: Gets a system-defined color that has an ARGB value of c FF7CFC00.
 type: docs
 weight: 630
 url: /net/aspose.pdf/color/lawngreen/
 ---
 ## Color.LawnGreen property
 
-Gets a system-defined color that has an ARGB value of #FF7CFC00.
+Gets a system-defined color that has an ARGB value of \c \#FF7CFC00.
 
 ```csharp
 public static Color LawnGreen { get; }

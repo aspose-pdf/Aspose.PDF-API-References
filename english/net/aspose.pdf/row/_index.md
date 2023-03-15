@@ -18,7 +18,7 @@ public sealed class Row : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Row](row)() | The default constructor. |
+| [Row](row)() | Initializes a new instance of the Row class. |
 
 ## Properties
 

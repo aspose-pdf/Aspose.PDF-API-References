@@ -1,14 +1,14 @@
 ---
 title: MediumVioletRed
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFC71585.
+description: Gets a system-defined color that has an ARGB value of c FFC71585.
 type: docs
 weight: 910
 url: /net/aspose.pdf/color/mediumvioletred/
 ---
 ## Color.MediumVioletRed property
 
-Gets a system-defined color that has an ARGB value of #FFC71585.
+Gets a system-defined color that has an ARGB value of \c \#FFC71585.
 
 ```csharp
 public static Color MediumVioletRed { get; }

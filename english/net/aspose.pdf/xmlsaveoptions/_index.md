@@ -18,7 +18,7 @@ public class XmlSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [XmlSaveOptions](xmlsaveoptions)() | The default constructor. |
+| [XmlSaveOptions](xmlsaveoptions)() | Constructor |
 
 ## Properties
 

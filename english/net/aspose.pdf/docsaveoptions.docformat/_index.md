@@ -18,7 +18,7 @@ public enum DocFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Doc | `0` | [MS-DOC]: Word (.doc) Binary File Format |
+| Doc | `0` | \c \[MS-DOC]: Word (.doc) Binary File Format |
 | DocX | `1` | Office Open XML (.docx) File Format |
 
 ### See Also

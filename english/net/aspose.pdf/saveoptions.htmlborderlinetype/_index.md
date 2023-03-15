@@ -18,15 +18,15 @@ public enum HtmlBorderLineType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | No line will be shown |
-| Dotted | `1` | dotted line will be shown |
-| Dashed | `2` | dashed line will be shown |
-| Solid | `3` | solid line will be shown |
-| Double | `4` | double line will be shown |
-| Groove | `5` | grove line will be shown |
-| Ridge | `6` | ridhe line will be shown |
-| Inset | `7` | inset line will be shown |
-| Outset | `8` | outset line will be shown |
+| None | `0` | No line will be shown. |
+| Dotted | `1` | Dotted line will be shown. |
+| Dashed | `2` | Dashed line will be shown. |
+| Solid | `3` | Solid line will be shown. |
+| Double | `4` | Double line will be shown. |
+| Groove | `5` | Groove line will be shown. |
+| Ridge | `6` | Ridge line will be shown. |
+| Inset | `7` | Inset line will be shown. |
+| Outset | `8` | Outset line will be shown. |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: PaleVioletRed
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFDB7093.
+description: Gets a system-defined color that has an ARGB value of c FFDB7093.
 type: docs
 weight: 1070
 url: /net/aspose.pdf/color/palevioletred/
 ---
 ## Color.PaleVioletRed property
 
-Gets a system-defined color that has an ARGB value of #FFDB7093.
+Gets a system-defined color that has an ARGB value of \c \#FFDB7093.
 
 ```csharp
 public static Color PaleVioletRed { get; }

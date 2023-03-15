@@ -18,7 +18,7 @@ public sealed class SignatureCustomAppearance
 
 | Name | Description |
 | --- | --- |
-| [SignatureCustomAppearance](signaturecustomappearance)() | The default constructor. |
+| [SignatureCustomAppearance](signaturecustomappearance)() | Inititalizes new instance of the [`SignatureCustomAppearance`](../signaturecustomappearance) class. |
 
 ## Properties
 

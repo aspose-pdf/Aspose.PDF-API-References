@@ -1,14 +1,14 @@
 ---
 title: HotPink
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFF69B4.
+description: Gets a system-defined color that has an ARGB value of c FFFF69B4.
 type: docs
 weight: 560
 url: /net/aspose.pdf/color/hotpink/
 ---
 ## Color.HotPink property
 
-Gets a system-defined color that has an ARGB value of #FFFF69B4.
+Gets a system-defined color that has an ARGB value of \c \#FFFF69B4.
 
 ```csharp
 public static Color HotPink { get; }

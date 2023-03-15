@@ -18,7 +18,7 @@ public class PdfSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions)() | The default constructor. |
+| [PdfSaveOptions](pdfsaveoptions)() | Constructor |
 
 ## Properties
 

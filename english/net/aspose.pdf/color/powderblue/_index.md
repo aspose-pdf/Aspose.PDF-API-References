@@ -1,14 +1,14 @@
 ---
 title: PowderBlue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFB0E0E6.
+description: Gets a system-defined color that has an ARGB value of c FFB0E0E6.
 type: docs
 weight: 1130
 url: /net/aspose.pdf/color/powderblue/
 ---
 ## Color.PowderBlue property
 
-Gets a system-defined color that has an ARGB value of #FFB0E0E6.
+Gets a system-defined color that has an ARGB value of \c \#FFB0E0E6.
 
 ```csharp
 public static Color PowderBlue { get; }

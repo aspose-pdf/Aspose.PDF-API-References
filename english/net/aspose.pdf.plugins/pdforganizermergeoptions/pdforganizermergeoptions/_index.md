@@ -1,14 +1,14 @@
 ---
 title: PdfOrganizerMergeOptions
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes new instance of the PdfOrganizerMergeOptionsaspose.pdf.plugins/pdforganizermergeoptions object with default options.
 type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdforganizermergeoptions/pdforganizermergeoptions/
 ---
 ## PdfOrganizerMergeOptions constructor
 
-The default constructor.
+Initializes new instance of the [`PdfOrganizerMergeOptions`](../../pdforganizermergeoptions) object with default options.
 
 ```csharp
 public PdfOrganizerMergeOptions()

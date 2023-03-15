@@ -1,14 +1,14 @@
 ---
 title: PaleGreen
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF98FB98.
+description: Gets a system-defined color that has an ARGB value of c FF98FB98.
 type: docs
 weight: 1050
 url: /net/aspose.pdf/color/palegreen/
 ---
 ## Color.PaleGreen property
 
-Gets a system-defined color that has an ARGB value of #FF98FB98.
+Gets a system-defined color that has an ARGB value of \c \#FF98FB98.
 
 ```csharp
 public static Color PaleGreen { get; }

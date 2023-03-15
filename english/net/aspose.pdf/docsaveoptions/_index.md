@@ -18,7 +18,7 @@ public class DocSaveOptions : UnifiedSaveOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [DocSaveOptions](docsaveoptions)() | The default constructor. |
+| [DocSaveOptions](docsaveoptions)() | Constructor |
 
 ## Properties
 

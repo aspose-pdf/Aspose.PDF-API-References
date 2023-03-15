@@ -1,14 +1,14 @@
 ---
 title: DarkGoldenrod
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFB8860B.
+description: Gets a system-defined color that has an ARGB value of c FFB8860B.
 type: docs
 weight: 250
 url: /net/aspose.pdf/color/darkgoldenrod/
 ---
 ## Color.DarkGoldenrod property
 
-Gets a system-defined color that has an ARGB value of #FFB8860B.
+Gets a system-defined color that has an ARGB value of \c \#FFB8860B.
 
 ```csharp
 public static Color DarkGoldenrod { get; }

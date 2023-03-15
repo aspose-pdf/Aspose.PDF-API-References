@@ -1,14 +1,14 @@
 ---
 title: Brown
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFA52A2A.
+description: Gets a system-defined color that has an ARGB value of c FFA52A2A.
 type: docs
 weight: 130
 url: /net/aspose.pdf/color/brown/
 ---
 ## Color.Brown property
 
-Gets a system-defined color that has an ARGB value of #FFA52A2A.
+Gets a system-defined color that has an ARGB value of \c \#FFA52A2A.
 
 ```csharp
 public static Color Brown { get; }

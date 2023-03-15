@@ -18,7 +18,7 @@ public sealed class TextParagraph
 
 | Name | Description |
 | --- | --- |
-| [TextParagraph](textparagraph)() | The default constructor. |
+| [TextParagraph](textparagraph)() | Creates [`TextParagraph`](../textparagraph) object. |
 
 ## Properties
 

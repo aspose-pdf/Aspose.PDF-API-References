@@ -1,14 +1,14 @@
 ---
 title: OldLace
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFDF5E6.
+description: Gets a system-defined color that has an ARGB value of c FFFDF5E6.
 type: docs
 weight: 980
 url: /net/aspose.pdf/color/oldlace/
 ---
 ## Color.OldLace property
 
-Gets a system-defined color that has an ARGB value of #FFFDF5E6.
+Gets a system-defined color that has an ARGB value of \c \#FFFDF5E6.
 
 ```csharp
 public static Color OldLace { get; }

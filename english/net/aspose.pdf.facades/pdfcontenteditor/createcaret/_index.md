@@ -22,7 +22,7 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 | caretRect | Rectangle | The actual boundaries of the underlying caret. |
 | symbol | String | A symbol will be associated with the caret. Value can be: "P" (Paragraph), "None". |
 | annotContents | String | The contents of the annotation. |
-| color | Color | The colour of the annotation. |
+| color | Color | The color of the annotation. |
 
 ### Examples
 

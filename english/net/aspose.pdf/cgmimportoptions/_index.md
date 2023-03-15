@@ -18,7 +18,7 @@ public class CgmImportOptions : ImportOptions
 
 | Name | Description |
 | --- | --- |
-| [CgmImportOptions](cgmimportoptions)() | The default constructor. |
+| [CgmImportOptions](cgmimportoptions)() | Constructor |
 
 ## Properties
 

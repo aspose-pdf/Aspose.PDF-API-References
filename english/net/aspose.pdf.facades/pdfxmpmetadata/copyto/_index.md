@@ -1,16 +1,23 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Copy metadata into array.
 type: docs
 weight: 150
 url: /net/aspose.pdf.facades/pdfxmpmetadata/copyto/
 ---
 ## PdfXmpMetadata.CopyTo method
 
+Copy metadata into array.
+
 ```csharp
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | KeyValuePair`2[] | The destination array. |
+| index | Int32 | The starting index. |
 
 ### See Also
 

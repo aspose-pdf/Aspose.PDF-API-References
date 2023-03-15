@@ -1,14 +1,14 @@
 ---
 title: Gold
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFD700.
+description: Gets a system-defined color that has an ARGB value of c FFFFD700.
 type: docs
 weight: 500
 url: /net/aspose.pdf/color/gold/
 ---
 ## Color.Gold property
 
-Gets a system-defined color that has an ARGB value of #FFFFD700.
+Gets a system-defined color that has an ARGB value of \c \#FFFFD700.
 
 ```csharp
 public static Color Gold { get; }

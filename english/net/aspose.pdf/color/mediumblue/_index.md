@@ -1,14 +1,14 @@
 ---
 title: MediumBlue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF0000CD.
+description: Gets a system-defined color that has an ARGB value of c FF0000CD.
 type: docs
 weight: 840
 url: /net/aspose.pdf/color/mediumblue/
 ---
 ## Color.MediumBlue property
 
-Gets a system-defined color that has an ARGB value of #FF0000CD.
+Gets a system-defined color that has an ARGB value of \c \#FF0000CD.
 
 ```csharp
 public static Color MediumBlue { get; }

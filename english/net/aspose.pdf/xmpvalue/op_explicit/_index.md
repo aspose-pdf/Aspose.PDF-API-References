@@ -104,9 +104,19 @@ XmlValue.
 
 ## explicit operator {#op_explicit_2}
 
+Converts XmlValue to named collection value.
+
 ```csharp
 public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | XmpValue | Value to convert. |
+
+### Return Value
+
+XmlValue.
 
 ### See Also
 

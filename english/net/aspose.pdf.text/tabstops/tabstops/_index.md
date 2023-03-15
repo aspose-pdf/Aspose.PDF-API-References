@@ -1,14 +1,14 @@
 ---
 title: TabStops
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the TabStopsaspose.pdf.text/tabstops class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/tabstops/tabstops/
 ---
 ## TabStops constructor
 
-The default constructor.
+Initializes a new instance of the [`TabStops`](../../tabstops) class.
 
 ```csharp
 public TabStops()

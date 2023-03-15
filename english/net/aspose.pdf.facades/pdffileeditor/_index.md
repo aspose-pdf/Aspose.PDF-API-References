@@ -18,7 +18,7 @@ public sealed class PdfFileEditor
 
 | Name | Description |
 | --- | --- |
-| [PdfFileEditor](pdffileeditor)() | The default constructor. |
+| [PdfFileEditor](pdffileeditor)() | PdfFileEditor constructor. |
 
 ## Properties
 

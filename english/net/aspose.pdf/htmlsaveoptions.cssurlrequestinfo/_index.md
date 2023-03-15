@@ -18,7 +18,7 @@ public class CssUrlRequestInfo
 
 | Name | Description |
 | --- | --- |
-| [CssUrlRequestInfo](cssurlrequestinfo)() | The default constructor. |
+| [CssUrlRequestInfo](cssurlrequestinfo)() | Creates instance of CssUrlRequestInfo |
 
 ## Fields
 

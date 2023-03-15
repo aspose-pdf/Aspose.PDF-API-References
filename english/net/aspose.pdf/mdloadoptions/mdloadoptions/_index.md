@@ -1,14 +1,14 @@
 ---
 title: MdLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Creates load options for converting markdown into pdf document.
 type: docs
 weight: 10
 url: /net/aspose.pdf/mdloadoptions/mdloadoptions/
 ---
 ## MdLoadOptions constructor
 
-The default constructor.
+Creates load options for converting markdown into pdf document.
 
 ```csharp
 public MdLoadOptions()

@@ -18,7 +18,7 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [PclLoadOptions](pclloadoptions)() | The default constructor. |
+| [PclLoadOptions](pclloadoptions)() | Creates [`PclLoadOptions`](../pclloadoptions) object. |
 
 ## Properties
 

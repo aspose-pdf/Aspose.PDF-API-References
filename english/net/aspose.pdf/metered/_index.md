@@ -18,7 +18,7 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [Metered](metered)() | The default constructor. |
+| [Metered](metered)() | Initializes a new instance of this class. |
 
 ## Methods
 
@@ -35,14 +35,18 @@ In this example, an attempt will be made to set metered public and private key
 ```csharp
 [C#]
 
-Metered matered = new Metered();
-matered.SetMeteredKey("PublicKey", "PrivateKey");
-
+Metered metered = new Metered();
+metered.SetMeteredKey("PublicKey", "PrivateKey");
 
 [Visual Basic]
 
-Dim matered As Metered = New Metered
-matered.SetMeteredKey("PublicKey", "PrivateKey")
+Dim metered As Metered = New Metered
+metered.SetMeteredKey("PublicKey", "PrivateKey")
+
+[Java]
+the component jar file:
+Metered metered = new Metered();
+metered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
 ### See Also

@@ -1,14 +1,14 @@
 ---
 title: Teal
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF008080.
+description: Gets a system-defined color that has an ARGB value of c FF008080.
 type: docs
 weight: 1320
 url: /net/aspose.pdf/color/teal/
 ---
 ## Color.Teal property
 
-Gets a system-defined color that has an ARGB value of #FF008080.
+Gets a system-defined color that has an ARGB value of \c \#FF008080.
 
 ```csharp
 public static Color Teal { get; }

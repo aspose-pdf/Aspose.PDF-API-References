@@ -1,14 +1,12 @@
 ---
 title: DetectColorType
 second_title: Aspose.PDF for .NET API Reference
-description: Returns color type of image.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.pdf/ximage/detectcolortype/
 ---
 ## XImage.DetectColorType method
-
-Returns color type of image.
 
 ```csharp
 public static ColorType DetectColorType(Bitmap bmp)

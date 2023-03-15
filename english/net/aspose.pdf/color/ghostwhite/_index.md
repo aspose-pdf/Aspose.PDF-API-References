@@ -1,14 +1,14 @@
 ---
 title: GhostWhite
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFF8F8FF.
+description: Gets a system-defined color that has an ARGB value of c FFF8F8FF.
 type: docs
 weight: 490
 url: /net/aspose.pdf/color/ghostwhite/
 ---
 ## Color.GhostWhite property
 
-Gets a system-defined color that has an ARGB value of #FFF8F8FF.
+Gets a system-defined color that has an ARGB value of \c \#FFF8F8FF.
 
 ```csharp
 public static Color GhostWhite { get; }

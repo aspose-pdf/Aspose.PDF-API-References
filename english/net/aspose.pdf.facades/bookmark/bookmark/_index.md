@@ -1,14 +1,14 @@
 ---
 title: Bookmark
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the Bookmarkaspose.pdf.facades/bookmark class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/bookmark/bookmark/
 ---
 ## Bookmark constructor
 
-The default constructor.
+Initializes a new instance of the [`Bookmark`](../../bookmark) class.
 
 ```csharp
 public Bookmark()

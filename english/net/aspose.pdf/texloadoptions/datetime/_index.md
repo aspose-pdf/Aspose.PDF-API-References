@@ -8,7 +8,7 @@ url: /net/aspose.pdf/texloadoptions/datetime/
 ---
 ## TeXLoadOptions.DateTime property
 
-Gets/sets a certain value for date/time primitives like \year, \month, \day and \time.
+Gets/sets a certain value for date/time primitives like year, month, day and time.
 
 ```csharp
 public DateTime DateTime { get; set; }

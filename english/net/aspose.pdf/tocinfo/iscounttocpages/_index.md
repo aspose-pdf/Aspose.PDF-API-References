@@ -3,7 +3,7 @@ title: IsCountTocPages
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets is count or passed toc pages.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/tocinfo/iscounttocpages/
 ---
 ## TocInfo.IsCountTocPages property

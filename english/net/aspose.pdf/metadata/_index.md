@@ -41,7 +41,7 @@ public sealed class Metadata : IDictionary<string, XmpValue>
 | [Contains](../../aspose.pdf/metadata/contains#contains)(KeyValuePair&lt;string, XmpValue&gt;) | Checks does specified key-value pair is contained in the dictionary. |
 | [Contains](../../aspose.pdf/metadata/contains#contains_1)(string) | Checks does key is contained in metadata. |
 | [ContainsKey](../../aspose.pdf/metadata/containskey)(string) | Determines does this dictionary contasins specified key. |
-| [CopyTo](../../aspose.pdf/metadata/copyto)(KeyValuePair&lt;string, XmpValue&gt;[], int) |  |
+| [CopyTo](../../aspose.pdf/metadata/copyto)(KeyValuePair&lt;string, XmpValue&gt;[], int) | Copies elements of the collection into array. |
 | [GetEnumerator](../../aspose.pdf/metadata/getenumerator)() | Returns dictionary enumerator. |
 | [GetNamespaceUriByPrefix](../../aspose.pdf/metadata/getnamespaceuribyprefix)(string) | Returns namespace URI by prefix. |
 | [GetPrefixByNamespaceUri](../../aspose.pdf/metadata/getprefixbynamespaceuri)(string) | Returns prefix by namespace URI. |

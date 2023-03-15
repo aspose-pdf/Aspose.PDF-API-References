@@ -18,7 +18,7 @@ public class SvgSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgSaveOptions](svgsaveoptions)() | The default constructor. |
+| [SvgSaveOptions](svgsaveoptions)() | Constructor |
 
 ## Properties
 

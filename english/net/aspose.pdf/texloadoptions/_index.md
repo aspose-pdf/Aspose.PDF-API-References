@@ -18,13 +18,13 @@ public class TeXLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [TeXLoadOptions](texloadoptions)() | The default constructor. |
+| [TeXLoadOptions](texloadoptions)() | Creates default load options for converting TeX file into PDF document. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } | Gets/sets a certain value for date/time primitives like \year, \month, \day and \time. |
+| [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } | Gets/sets a certain value for date/time primitives like year, month, day and time. |
 | [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory) { get; set; } | Gets/sets TeX input directory. |
 | [JobName](../../aspose.pdf/texloadoptions/jobname) { get; set; } | Gets/set the name of the job. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |

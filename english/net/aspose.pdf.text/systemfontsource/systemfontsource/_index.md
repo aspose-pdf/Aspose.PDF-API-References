@@ -1,14 +1,14 @@
 ---
 title: SystemFontSource
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of SystemFontSourceaspose.pdf.text/systemfontsource class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/systemfontsource/systemfontsource/
 ---
 ## SystemFontSource constructor
 
-The default constructor.
+Initializes a new instance of [`SystemFontSource`](../../systemfontsource) class.
 
 ```csharp
 public SystemFontSource()

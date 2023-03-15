@@ -18,7 +18,7 @@ public sealed class SvgLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgLoadOptions](svgloadoptions)() | The default constructor. |
+| [SvgLoadOptions](svgloadoptions)() | Creates [`SvgLoadOptions`](../svgloadoptions) object. |
 
 ## Properties
 

@@ -1,14 +1,14 @@
 ---
 title: FontEmbeddingOptions
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor
 type: docs
 weight: 10
 url: /net/aspose.pdf.pdfaoptionclasses/fontembeddingoptions/fontembeddingoptions/
 ---
 ## FontEmbeddingOptions constructor
 
-The default constructor.
+Constructor
 
 ```csharp
 public FontEmbeddingOptions()

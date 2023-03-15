@@ -1,14 +1,14 @@
 ---
 title: Cornsilk
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFF8DC.
+description: Gets a system-defined color that has an ARGB value of c FFFFF8DC.
 type: docs
 weight: 200
 url: /net/aspose.pdf/color/cornsilk/
 ---
 ## Color.Cornsilk property
 
-Gets a system-defined color that has an ARGB value of #FFFFF8DC.
+Gets a system-defined color that has an ARGB value of \c \#FFFFF8DC.
 
 ```csharp
 public static Color Cornsilk { get; }

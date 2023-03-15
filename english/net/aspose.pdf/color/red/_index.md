@@ -1,14 +1,14 @@
 ---
 title: Red
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFF0000.
+description: Gets a system-defined color that has an ARGB value of c FFFF0000.
 type: docs
 weight: 1150
 url: /net/aspose.pdf/color/red/
 ---
 ## Color.Red property
 
-Gets a system-defined color that has an ARGB value of #FFFF0000.
+Gets a system-defined color that has an ARGB value of \c \#FFFF0000.
 
 ```csharp
 public static Color Red { get; }

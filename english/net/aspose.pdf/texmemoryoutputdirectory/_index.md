@@ -18,7 +18,7 @@ public class TeXMemoryOutputDirectory : ITeXOutputDirectory
 
 | Name | Description |
 | --- | --- |
-| [TeXMemoryOutputDirectory](texmemoryoutputdirectory)() | The default constructor. |
+| [TeXMemoryOutputDirectory](texmemoryoutputdirectory)() | Creates new instance. |
 
 ## Methods
 

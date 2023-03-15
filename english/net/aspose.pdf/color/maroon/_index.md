@@ -1,14 +1,14 @@
 ---
 title: Maroon
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF800000.
+description: Gets a system-defined color that has an ARGB value of c FF800000.
 type: docs
 weight: 820
 url: /net/aspose.pdf/color/maroon/
 ---
 ## Color.Maroon property
 
-Gets a system-defined color that has an ARGB value of #FF800000.
+Gets a system-defined color that has an ARGB value of \c \#FF800000.
 
 ```csharp
 public static Color Maroon { get; }

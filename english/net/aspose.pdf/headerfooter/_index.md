@@ -18,7 +18,7 @@ public sealed class HeaderFooter : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooter](headerfooter)() | The default constructor. |
+| [HeaderFooter](headerfooter)() | Default ctor |
 
 ## Properties
 

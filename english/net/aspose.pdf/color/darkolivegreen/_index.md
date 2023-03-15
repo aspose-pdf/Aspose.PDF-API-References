@@ -1,14 +1,14 @@
 ---
 title: DarkOliveGreen
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF556B2F.
+description: Gets a system-defined color that has an ARGB value of c FF556B2F.
 type: docs
 weight: 300
 url: /net/aspose.pdf/color/darkolivegreen/
 ---
 ## Color.DarkOliveGreen property
 
-Gets a system-defined color that has an ARGB value of #FF556B2F.
+Gets a system-defined color that has an ARGB value of \c \#FF556B2F.
 
 ```csharp
 public static Color DarkOliveGreen { get; }

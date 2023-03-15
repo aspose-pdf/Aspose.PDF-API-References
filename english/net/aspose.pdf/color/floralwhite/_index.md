@@ -1,14 +1,14 @@
 ---
 title: FloralWhite
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFFAF0.
+description: Gets a system-defined color that has an ARGB value of c FFFFFAF0.
 type: docs
 weight: 450
 url: /net/aspose.pdf/color/floralwhite/
 ---
 ## Color.FloralWhite property
 
-Gets a system-defined color that has an ARGB value of #FFFFFAF0.
+Gets a system-defined color that has an ARGB value of \c \#FFFFFAF0.
 
 ```csharp
 public static Color FloralWhite { get; }

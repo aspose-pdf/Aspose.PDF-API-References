@@ -38,6 +38,12 @@ Tries to find the license in the following locations:
 
 2. An embedded resource in the client's calling assembly.
 
+[Java]
+
+2. The folder that contains the Aspose component JAR file.
+
+3. The folder that contains the client's calling JAR file.
+
 ### See Also
 
 * class [License](../../license)

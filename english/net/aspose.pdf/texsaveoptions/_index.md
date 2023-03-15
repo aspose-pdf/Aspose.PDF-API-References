@@ -18,7 +18,7 @@ public class TeXSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [TeXSaveOptions](texsaveoptions)() | The default constructor. |
+| [TeXSaveOptions](texsaveoptions)() | Initializes a new instance of the [`TeXSaveOptions`](../texsaveoptions) class. |
 
 ## Properties
 

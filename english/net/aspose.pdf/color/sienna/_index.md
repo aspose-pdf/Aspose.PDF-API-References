@@ -1,14 +1,14 @@
 ---
 title: Sienna
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFA0522D.
+description: Gets a system-defined color that has an ARGB value of c FFA0522D.
 type: docs
 weight: 1230
 url: /net/aspose.pdf/color/sienna/
 ---
 ## Color.Sienna property
 
-Gets a system-defined color that has an ARGB value of #FFA0522D.
+Gets a system-defined color that has an ARGB value of \c \#FFA0522D.
 
 ```csharp
 public static Color Sienna { get; }

@@ -1,14 +1,14 @@
 ---
 title: LimeGreen
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF32CD32.
+description: Gets a system-defined color that has an ARGB value of c FF32CD32.
 type: docs
 weight: 790
 url: /net/aspose.pdf/color/limegreen/
 ---
 ## Color.LimeGreen property
 
-Gets a system-defined color that has an ARGB value of #FF32CD32.
+Gets a system-defined color that has an ARGB value of \c \#FF32CD32.
 
 ```csharp
 public static Color LimeGreen { get; }

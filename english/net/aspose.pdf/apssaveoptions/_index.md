@@ -18,7 +18,7 @@ public class ApsSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ApsSaveOptions](apssaveoptions)() | The default constructor. |
+| [ApsSaveOptions](apssaveoptions)() | Constructor of APsSaveOptions class. |
 
 ## Properties
 

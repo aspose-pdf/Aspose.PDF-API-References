@@ -1,14 +1,14 @@
 ---
 title: ForestGreen
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF228B22.
+description: Gets a system-defined color that has an ARGB value of c FF228B22.
 type: docs
 weight: 460
 url: /net/aspose.pdf/color/forestgreen/
 ---
 ## Color.ForestGreen property
 
-Gets a system-defined color that has an ARGB value of #FF228B22.
+Gets a system-defined color that has an ARGB value of \c \#FF228B22.
 
 ```csharp
 public static Color ForestGreen { get; }

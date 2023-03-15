@@ -1,14 +1,14 @@
 ---
 title: LemonChiffon
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFFACD.
+description: Gets a system-defined color that has an ARGB value of c FFFFFACD.
 type: docs
 weight: 640
 url: /net/aspose.pdf/color/lemonchiffon/
 ---
 ## Color.LemonChiffon property
 
-Gets a system-defined color that has an ARGB value of #FFFFFACD.
+Gets a system-defined color that has an ARGB value of \c \#FFFFFACD.
 
 ```csharp
 public static Color LemonChiffon { get; }

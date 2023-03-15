@@ -1,14 +1,14 @@
 ---
 title: ImagePlacementAbsorber
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes new instance of the ImagePlacementAbsorberaspose.pdf/imageplacementabsorber object.
 type: docs
 weight: 10
 url: /net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 ---
 ## ImagePlacementAbsorber constructor
 
-The default constructor.
+Initializes new instance of the [`ImagePlacementAbsorber`](../../imageplacementabsorber) object.
 
 ```csharp
 public ImagePlacementAbsorber()

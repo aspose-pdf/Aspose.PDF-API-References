@@ -1,14 +1,14 @@
 ---
 title: CadetBlue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF5F9EA0.
+description: Gets a system-defined color that has an ARGB value of c FF5F9EA0.
 type: docs
 weight: 150
 url: /net/aspose.pdf/color/cadetblue/
 ---
 ## Color.CadetBlue property
 
-Gets a system-defined color that has an ARGB value of #FF5F9EA0.
+Gets a system-defined color that has an ARGB value of \c \#FF5F9EA0.
 
 ```csharp
 public static Color CadetBlue { get; }

@@ -3,7 +3,7 @@ title: IsShowPageNumbers
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets is show page numbers at Toc.
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf/tocinfo/isshowpagenumbers/
 ---
 ## TocInfo.IsShowPageNumbers property

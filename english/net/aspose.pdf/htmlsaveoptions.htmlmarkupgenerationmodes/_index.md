@@ -19,7 +19,7 @@ public enum HtmlMarkupGenerationModes
 | Name | Value | Description |
 | --- | --- | --- |
 | WriteAllHtml | `0` | Default mode any specific requirments are absent. Will be generated output that will contain all parts of HTML without any special additional processing. |
-| WriteOnlyBodyContent | `1` | will be stripped away all HTML content that is outside HTML's body, i.e. will be left only content that is inside  tags |
+| WriteOnlyBodyContent | `1` | will be stripped away all HTML content that is outside HTML's body, i.e. will be left only content that is inside \c \ \c \ tags |
 
 ### See Also
 

@@ -1,16 +1,23 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Copies elements of the collection into array.
 type: docs
 weight: 150
 url: /net/aspose.pdf/metadata/copyto/
 ---
 ## Metadata.CopyTo method
 
+Copies elements of the collection into array.
+
 ```csharp
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | KeyValuePair`2[] | Destination array. |
+| index | Int32 | Starting index. |
 
 ### See Also
 
