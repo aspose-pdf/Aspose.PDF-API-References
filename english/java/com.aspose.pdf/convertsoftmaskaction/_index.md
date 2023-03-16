@@ -3,7 +3,7 @@ title: ConvertSoftMaskAction
 second_title: Aspose.PDF for Java API Reference
 description: This action represents actions for conversion of images with soft mask.
 type: docs
-weight: 78
+weight: 76
 url: /java/com.aspose.pdf/convertsoftmaskaction/
 ---
 **Inheritance:**

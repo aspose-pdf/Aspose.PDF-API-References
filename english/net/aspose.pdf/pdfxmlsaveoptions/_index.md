@@ -18,7 +18,7 @@ public class PdfXmlSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfXmlSaveOptions](pdfxmlsaveoptions)() | The default constructor. |
+| [PdfXmlSaveOptions](pdfxmlsaveoptions)() | Constructor ofr PdfXml format. |
 
 ## Properties
 

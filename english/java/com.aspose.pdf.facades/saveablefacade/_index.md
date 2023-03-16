@@ -3,7 +3,7 @@ title: SaveableFacade
 second_title: Aspose.PDF for Java API Reference
 description: Base class for all saveable facades.
 type: docs
-weight: 58
+weight: 53
 url: /java/com.aspose.pdf.facades/saveablefacade/
 ---
 **Inheritance:**

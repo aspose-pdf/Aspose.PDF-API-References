@@ -3,7 +3,7 @@ title: TextReplaceOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text replace options
 type: docs
-weight: 388
+weight: 383
 url: /java/com.aspose.pdf/textreplaceoptions/
 ---
 **Inheritance:**
@@ -17,22 +17,23 @@ Represents text replace options
 
 | Constructor | Description |
 | --- | --- |
-| [TextReplaceOptions(int scope)](#TextReplaceOptions-int-) | Initializes new instance of the  TextReplaceOptions  object for the specified scope. |
-| [TextReplaceOptions(int adjustment, int scope)](#TextReplaceOptions-int-int-) | Initializes new instance of the  TextReplaceOptions  object for the specified after replace action. |
+| [TextReplaceOptions(TextReplaceOptions.Scope scope)](#TextReplaceOptions-com.aspose.pdf.TextReplaceOptions.Scope-) | Initializes new instance of the  TextReplaceOptions  object for the specified scope. |
+| [TextReplaceOptions(TextReplaceOptions.ReplaceAdjustment adjustment)](#TextReplaceOptions-com.aspose.pdf.TextReplaceOptions.ReplaceAdjustment-) | Initializes new instance of the  TextReplaceOptions  object for the specified after replace action. |
+| [TextReplaceOptions(TextReplaceOptions.ReplaceAdjustment adjustment, TextReplaceOptions.Scope scope)](#TextReplaceOptions-com.aspose.pdf.TextReplaceOptions.ReplaceAdjustment-com.aspose.pdf.TextReplaceOptions.Scope-) | Initializes new instance of the  TextReplaceOptions  object for the specified after replace action. |
 | [TextReplaceOptions()](#TextReplaceOptions--) | Initializes new instance of the  TextReplaceOptions  object for the default adjustment and scope : ReplaceAdjustment.None and Scope.REPLACE\_FIRST |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getReplaceScope()](#getReplaceScope--) | Gets a scope where replace text operation is applied |
-| [setReplaceScope(int value)](#setReplaceScope-int-) | Sets a scope where replace text operation is applied |
+| [setReplaceScope(TextReplaceOptions.Scope value)](#setReplaceScope-com.aspose.pdf.TextReplaceOptions.Scope-) | Sets a scope where replace text operation is applied |
 | [getReplaceAdjustmentAction()](#getReplaceAdjustmentAction--) | Gets an action that will be done after replace of text fragment to more short. |
-| [setReplaceAdjustmentAction(int value)](#setReplaceAdjustmentAction-int-) | Sets an action that will be done after replace of text fragment to more short. |
+| [setReplaceAdjustmentAction(TextReplaceOptions.ReplaceAdjustment value)](#setReplaceAdjustmentAction-com.aspose.pdf.TextReplaceOptions.ReplaceAdjustment-) | Sets an action that will be done after replace of text fragment to more short. |
 | [getAdjustmentNewLineSpacing()](#getAdjustmentNewLineSpacing--) | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. |
 | [setAdjustmentNewLineSpacing(double value)](#setAdjustmentNewLineSpacing-double-) | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. |
-### TextReplaceOptions(int scope) {#TextReplaceOptions-int-}
+### TextReplaceOptions(TextReplaceOptions.Scope scope) {#TextReplaceOptions-com.aspose.pdf.TextReplaceOptions.Scope-}
 ```
-public TextReplaceOptions(int scope)
+public TextReplaceOptions(TextReplaceOptions.Scope scope)
 ```
 
 
@@ -41,11 +42,11 @@ Initializes new instance of the  TextReplaceOptions  object for the specified sc
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| scope | int | Scope object. |
+| scope | [Scope](../../com.aspose.pdf/scope) | Scope object. |
 
-### TextReplaceOptions(int adjustment, int scope) {#TextReplaceOptions-int-int-}
+### TextReplaceOptions(TextReplaceOptions.ReplaceAdjustment adjustment) {#TextReplaceOptions-com.aspose.pdf.TextReplaceOptions.ReplaceAdjustment-}
 ```
-public TextReplaceOptions(int adjustment, int scope)
+public TextReplaceOptions(TextReplaceOptions.ReplaceAdjustment adjustment)
 ```
 
 
@@ -54,8 +55,21 @@ Initializes new instance of the  TextReplaceOptions  object for the specified af
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| adjustment | int | ReplaceAdjustment object. |
-| scope | int | Scope object. |
+| adjustment | [ReplaceAdjustment](../../com.aspose.pdf/replaceadjustment) | ReplaceAdjustment object. |
+
+### TextReplaceOptions(TextReplaceOptions.ReplaceAdjustment adjustment, TextReplaceOptions.Scope scope) {#TextReplaceOptions-com.aspose.pdf.TextReplaceOptions.ReplaceAdjustment-com.aspose.pdf.TextReplaceOptions.Scope-}
+```
+public TextReplaceOptions(TextReplaceOptions.ReplaceAdjustment adjustment, TextReplaceOptions.Scope scope)
+```
+
+
+Initializes new instance of the  TextReplaceOptions  object for the specified after replace action.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| adjustment | [ReplaceAdjustment](../../com.aspose.pdf/replaceadjustment) | ReplaceAdjustment object. |
+| scope | [Scope](../../com.aspose.pdf/scope) | Scope object. |
 
 ### TextReplaceOptions() {#TextReplaceOptions--}
 ```
@@ -67,17 +81,17 @@ Initializes new instance of the  TextReplaceOptions  object for the default adju
 
 ### getReplaceScope() {#getReplaceScope--}
 ```
-public int getReplaceScope()
+public TextReplaceOptions.Scope getReplaceScope()
 ```
 
 
 Gets a scope where replace text operation is applied
 
 **Returns:**
-int - int value
-### setReplaceScope(int value) {#setReplaceScope-int-}
+[Scope](../../com.aspose.pdf/scope) - int value
+### setReplaceScope(TextReplaceOptions.Scope value) {#setReplaceScope-com.aspose.pdf.TextReplaceOptions.Scope-}
 ```
-public void setReplaceScope(int value)
+public void setReplaceScope(TextReplaceOptions.Scope value)
 ```
 
 
@@ -86,21 +100,21 @@ Sets a scope where replace text operation is applied
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
+| value | [Scope](../../com.aspose.pdf/scope) | int value |
 
 ### getReplaceAdjustmentAction() {#getReplaceAdjustmentAction--}
 ```
-public int getReplaceAdjustmentAction()
+public TextReplaceOptions.ReplaceAdjustment getReplaceAdjustmentAction()
 ```
 
 
 Gets an action that will be done after replace of text fragment to more short.
 
 **Returns:**
-int - ReplaceAdjustment element
-### setReplaceAdjustmentAction(int value) {#setReplaceAdjustmentAction-int-}
+[ReplaceAdjustment](../../com.aspose.pdf/replaceadjustment) - ReplaceAdjustment element
+### setReplaceAdjustmentAction(TextReplaceOptions.ReplaceAdjustment value) {#setReplaceAdjustmentAction-com.aspose.pdf.TextReplaceOptions.ReplaceAdjustment-}
 ```
-public void setReplaceAdjustmentAction(int value)
+public void setReplaceAdjustmentAction(TextReplaceOptions.ReplaceAdjustment value)
 ```
 
 
@@ -109,7 +123,7 @@ Sets an action that will be done after replace of text fragment to more short.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | ReplaceAdjustment element |
+| value | [ReplaceAdjustment](../../com.aspose.pdf/replaceadjustment) | ReplaceAdjustment element |
 
 ### getAdjustmentNewLineSpacing() {#getAdjustmentNewLineSpacing--}
 ```

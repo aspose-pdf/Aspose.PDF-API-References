@@ -17,16 +17,3 @@ Represents Art structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [ArtElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#ArtElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### ArtElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#ArtElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public ArtElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

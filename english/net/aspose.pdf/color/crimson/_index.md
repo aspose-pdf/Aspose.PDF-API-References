@@ -1,14 +1,14 @@
 ---
 title: Crimson
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFDC143C.
+description: Gets a system-defined color that has an ARGB value of c FFDC143C.
 type: docs
 weight: 210
 url: /net/aspose.pdf/color/crimson/
 ---
 ## Color.Crimson property
 
-Gets a system-defined color that has an ARGB value of #FFDC143C.
+Gets a system-defined color that has an ARGB value of \c \#FFDC143C.
 
 ```csharp
 public static Color Crimson { get; }

@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 260
+weight: 255
 url: /java/com.aspose.pdf/page/
 ---
 **Inheritance:**
@@ -35,19 +35,19 @@ Class representing page of PDF document.
 | [setFooter(HeaderFooter value)](#setFooter-com.aspose.pdf.HeaderFooter-) | Sets page Footer. |
 | [getParagraphs()](#getParagraphs--) | Gets the paragraphs. |
 | [setParagraphs(Paragraphs value)](#setParagraphs-com.aspose.pdf.Paragraphs-) | Sets the paragraphs. |
-| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document). |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document). |
+| [getPageInfo()](#getPageInfo--) | Gets the page info. |
+| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
 | [convertToPNGMemoryStream()](#convertToPNGMemoryStream--) | Convert page to PNG for DSR, OMR, OCR image stream. |
+| [trySaveVectorGraphics(String pathToSave)](#trySaveVectorGraphics-java.lang.String-) | Tries to save vector graphics if they are present on the page. |
 | [getOnBeforePageGenerate()](#getOnBeforePageGenerate--) | Event for customize header and footer. |
 | [getEnginePage()](#getEnginePage--) | For Internal usage only |
-| [setEnginePage(IPage enginePage)](#setEnginePage-com.aspose.pdf.engine.commondata.IPage-) | For Internal usage only |
 | [getDocument()](#getDocument--) | Get document |
 | [getRect_Rename_Namesake()](#getRect-Rename-Namesake--) | Returns rectangle of the page according to its CropBox and MediaBox; |
 | [getRect()](#getRect--) | Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. |
 | [setRect(Rectangle value)](#setRect-com.aspose.pdf.Rectangle-) | Gets or sets rectangle of the page. |
 | [getColorType()](#getColorType--) | Gets color type of the pages based on information getting from operators SetColor, images and forms. |
-| [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes.(for generator only, not filled in when reading document) |
-| [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes.(for generator only, not filled in when reading document) |
+| [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes. |
+| [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes. |
 | [isBlank(double fillThresholdFactor)](#isBlank-double-) | Gets the flag whether page is blank or not. |
 | [getPageRect(boolean considerRotation)](#getPageRect-boolean-) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
 | [calculateContentBBox()](#calculateContentBBox--) | Calculates bbox value - rectangle containing contents without visible margins. |
@@ -88,7 +88,6 @@ Class representing page of PDF document.
 | [accept(ImagePlacementAbsorber visitor)](#accept-com.aspose.pdf.ImagePlacementAbsorber-) | Accepts  ImagePlacementAbsorber  visitor object that provides functionality to work with image placement objects. |
 | [accept(TextAbsorber visitor)](#accept-com.aspose.pdf.TextAbsorber-) | Accepts  TextAbsorber  visitor object that provides functionality to work with text objects. |
 | [setPageSize(double width, double height)](#setPageSize-double-double-) | Sets page size for page. |
-| [setTransition(IPdfDictionary transition)](#setTransition-com.aspose.pdf.engine.data.IPdfDictionary-) | Set transition |
 | [getNumber()](#getNumber--) | Get number of the page. |
 | [getRotationMatrix()](#getRotationMatrix--) | Gets transfomation matrix for the page. |
 | [getContentsAppender()](#getContentsAppender--) | Gets current contents appender. |
@@ -97,13 +96,12 @@ Class representing page of PDF document.
 | [setBackground(Color value)](#setBackground-com.aspose.pdf.Color-) | Sets the background color of the page. |
 | [getWatermark()](#getWatermark--) | Gets the watermark of the page. |
 | [setWatermark(Watermark value)](#setWatermark-com.aspose.pdf.Watermark-) | Sets the watermark of the page. |
-| [removeObjectReferences(String name)](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. |
+| [removeObjectReferences(String name)](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. all Do operators which use name of object). |
 | [removeObjectReferences(OperatorCollection contents, String name)](#removeObjectReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Remove object references |
 | [findReferences(String name)](#findReferences-java.lang.String-) | Find references |
 | [findReferences(OperatorCollection contents, String name)](#findReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Returns list of operators which uses resource with specified name. |
 | [close()](#close--) | Closes all resources used by this document. |
 | [dispose()](#dispose--) | Frees up memory |
-| [fillUsedObjectsTable(System.Collections.Generic.Dictionary<Integer,Integer> usageTable, IPdfDictionary CommonResources)](#fillUsedObjectsTable-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--com.aspose.pdf.engine.data.IPdfDictionary-) |  |
 | [deleteUnusedResources(System.Collections.Generic.Dictionary<Integer,Integer> usageTable)](#deleteUnusedResources-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--) |  |
 | [clearContents()](#clearContents--) | For internal usage only |
 | [getArtifacts()](#getArtifacts--) | Gets collection of artifacts on the page. |
@@ -327,6 +325,21 @@ Convert page to PNG for DSR, OMR, OCR image stream.
 
 **Returns:**
 byte[] - Image stream in byte[] array.
+### trySaveVectorGraphics(String pathToSave) {#trySaveVectorGraphics-java.lang.String-}
+```
+public final boolean trySaveVectorGraphics(String pathToSave)
+```
+
+
+Tries to save vector graphics if they are present on the page. The save format is SVG.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pathToSave | java.lang.String | Output file |
+
+**Returns:**
+boolean - True if the page contains path construction operators; otherwise, False.
 ### getOnBeforePageGenerate() {#getOnBeforePageGenerate--}
 ```
 public PdfEvent<Page.BeforePageGenerate> getOnBeforePageGenerate()
@@ -337,29 +350,6 @@ Event for customize header and footer.
 
 **Returns:**
 [PdfEvent](../../com.aspose.pdf/pdfevent) -  PdfEvent instance 
-### getEnginePage() {#getEnginePage--}
-```
-public IPage getEnginePage()
-```
-
-
-For Internal usage only
-
-**Returns:**
-[IPage](../../com.aspose.pdf.engine.commondata/ipage) - internal instance
-### setEnginePage(IPage enginePage) {#setEnginePage-com.aspose.pdf.engine.commondata.IPage-}
-```
-public void setEnginePage(IPage enginePage)
-```
-
-
-For Internal usage only
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| enginePage | [IPage](../../com.aspose.pdf.engine.commondata/ipage) | internal instance |
-
 ### getDocument() {#getDocument--}
 ```
 public IDocument getDocument()
@@ -527,7 +517,7 @@ public double getDuration()
 ```
 
 
-Gets page display duration. This is time in seconds that page shall be displayed during presentation. Returs -1 if duration is not defined.
+Gets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
 
 --------------------
 
@@ -543,7 +533,7 @@ public void setDuration(double value)
 ```
 
 
-Sets page display duration. This is time in seconds that page shall be displayed during presentation.
+Sets page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -1064,19 +1054,6 @@ Sets page size for page.
 | width | double | Page width. |
 | height | double | Page size. |
 
-### setTransition(IPdfDictionary transition) {#setTransition-com.aspose.pdf.engine.data.IPdfDictionary-}
-```
-public void setTransition(IPdfDictionary transition)
-```
-
-
-Set transition
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| transition | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) | IPdfDictionary object |
-
 ### getNumber() {#getNumber--}
 ```
 public final int getNumber()
@@ -1241,20 +1218,6 @@ public void dispose()
 Frees up memory
 
 This method is obsolete, use close() instead.
-
-### fillUsedObjectsTable(System.Collections.Generic.Dictionary<Integer,Integer> usageTable, IPdfDictionary CommonResources) {#fillUsedObjectsTable-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--com.aspose.pdf.engine.data.IPdfDictionary-}
-```
-public void fillUsedObjectsTable(System.Collections.Generic.Dictionary<Integer,Integer> usageTable, IPdfDictionary CommonResources)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| usageTable | com.aspose.ms.System.Collections.Generic.Dictionary<java.lang.Integer,java.lang.Integer> |  |
-| CommonResources | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) |  |
 
 ### deleteUnusedResources(System.Collections.Generic.Dictionary<Integer,Integer> usageTable) {#deleteUnusedResources-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.Integer-java.lang.Integer--}
 ```

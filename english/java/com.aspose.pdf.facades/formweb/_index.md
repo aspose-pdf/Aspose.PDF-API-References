@@ -3,7 +3,7 @@ title: FormWeb
 second_title: Aspose.PDF for Java API Reference
 description: Representing Acro form Interface.
 type: docs
-weight: 29
+weight: 26
 url: /java/com.aspose.pdf.facades/formweb/
 ---
 **Inheritance:**

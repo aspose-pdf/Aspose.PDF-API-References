@@ -3,7 +3,7 @@ title: Row
 second_title: Aspose.PDF for Java API Reference
 description: Represents a row of the table.
 type: docs
-weight: 320
+weight: 316
 url: /java/com.aspose.pdf/row/
 ---
 **Inheritance:**
@@ -47,7 +47,7 @@ Represents a row of the table.
 | [getDefaultCellPadding()](#getDefaultCellPadding--) | Gets default margin for row getCells() |
 | [setDefaultCellPadding(MarginInfo value)](#setDefaultCellPadding-com.aspose.pdf.MarginInfo-) | Sets default margin for row getCells() |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets or sets the vertical alignment. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Gets or sets the vertical alignment. |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Gets or sets the vertical alignment. |
 ### Row() {#Row--}
 ```
 public Row()
@@ -300,17 +300,17 @@ Sets default margin for row getCells()
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets or sets the vertical alignment.
 
 **Returns:**
-int - VerticalAlignment element
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment element
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignment(int value)
+public void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -319,5 +319,5 @@ Gets or sets the vertical alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment element |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
 

@@ -30,9 +30,16 @@ public void CopyTo(XForm[] array, int index)
 
 ## CopyTo(KeyValuePair&lt;string, XForm&gt;[], int) {#copyto_1}
 
+Copies the elements of the ICollection to an Array, starting at a particular Array index.
+
 ```csharp
 public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | KeyValuePair`2[] | The one-dimensional Array that is the destination of the elements copied from ICollection. The Array must have zero-based indexing. |
+| arrayIndex | Int32 | The zero-based index in array at which copying begins. |
 
 ### See Also
 

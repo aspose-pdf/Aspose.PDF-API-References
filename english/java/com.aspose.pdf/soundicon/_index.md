@@ -3,7 +3,7 @@ title: SoundIcon
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the icons to be used in displaying the annotation.
 type: docs
-weight: 333
+weight: 329
 url: /java/com.aspose.pdf/soundicon/
 ---
 **Inheritance:**

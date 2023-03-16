@@ -3,7 +3,7 @@ title: TextExtractionOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text extraction options
 type: docs
-weight: 374
+weight: 369
 url: /java/com.aspose.pdf/textextractionoptions/
 ---
 **Inheritance:**

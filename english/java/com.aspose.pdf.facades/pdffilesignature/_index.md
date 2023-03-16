@@ -3,7 +3,7 @@ title: PdfFileSignature
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to sign a pdf file with a certificate.
 type: docs
-weight: 45
+weight: 40
 url: /java/com.aspose.pdf.facades/pdffilesignature/
 ---
 **Inheritance:**

@@ -3,13 +3,13 @@ title: AnnotationStateModel
 second_title: Aspose.PDF for Java API Reference
 description: The state model corresponding to state of annotation.
 type: docs
-weight: 21
+weight: 440
 url: /java/com.aspose.pdf/annotationstatemodel/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum
 ```
-public final class AnnotationStateModel extends System.Enum
+public enum AnnotationStateModel extends Enum<AnnotationStateModel>
 ```
 
 The state model corresponding to state of annotation.
@@ -20,9 +20,16 @@ The state model corresponding to state of annotation.
 | [Undefined](#Undefined) | Not defined state model. |
 | [Marked](#Marked) | The annotation has been marked (or unmarked) by the user. |
 | [Review](#Review) | The annotation has been reviewed (accepted, rejected, cancelled, completed, none) by the user. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [values()](#values--) |  |
+| [valueOf(String name)](#valueOf-java.lang.String-) |  |
+| [getValue()](#getValue--) |  |
 ### Undefined {#Undefined}
 ```
-public static final int Undefined
+public static final AnnotationStateModel Undefined
 ```
 
 
@@ -30,7 +37,7 @@ Not defined state model.
 
 ### Marked {#Marked}
 ```
-public static final int Marked
+public static final AnnotationStateModel Marked
 ```
 
 
@@ -38,9 +45,44 @@ The annotation has been marked (or unmarked) by the user.
 
 ### Review {#Review}
 ```
-public static final int Review
+public static final AnnotationStateModel Review
 ```
 
 
 The annotation has been reviewed (accepted, rejected, cancelled, completed, none) by the user.
 
+### values() {#values--}
+```
+public static AnnotationStateModel[] values()
+```
+
+
+
+
+**Returns:**
+com.aspose.pdf.AnnotationStateModel[]
+### valueOf(String name) {#valueOf-java.lang.String-}
+```
+public static AnnotationStateModel valueOf(String name)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String |  |
+
+**Returns:**
+[AnnotationStateModel](../../com.aspose.pdf/annotationstatemodel)
+### getValue() {#getValue--}
+```
+public int getValue()
+```
+
+
+
+
+**Returns:**
+int

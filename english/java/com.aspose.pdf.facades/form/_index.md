@@ -3,7 +3,7 @@ title: Form
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Acro form object.
 type: docs
-weight: 25
+weight: 22
 url: /java/com.aspose.pdf.facades/form/
 ---
 **Inheritance:**
@@ -864,7 +864,7 @@ Form form = new Form("PdfForm.pdf");
 java.lang.String[] - String[] object
 ### getFieldType(String fieldName) {#getFieldType-java.lang.String-}
 ```
-public int getFieldType(String fieldName)
+public FieldType getFieldType(String fieldName)
 ```
 
 
@@ -886,7 +886,7 @@ Form form = new Form("PdfForm.pdf");
 | fieldName | java.lang.String | Field name. |
 
 **Returns:**
-int - Element of FileType enumeration corresponding to field type.
+[FieldType](../../com.aspose.pdf.facades/fieldtype) - Element of FileType enumeration corresponding to field type.
 ### getFormSubmitButtonNames() {#getFormSubmitButtonNames--}
 ```
 public String[] getFormSubmitButtonNames()
@@ -1001,7 +1001,7 @@ Gets source stream.
 java.io.InputStream - InputStream object
 ### getSubmitFlags(String fieldName) {#getSubmitFlags-java.lang.String-}
 ```
-public int getSubmitFlags(String fieldName)
+public SubmitFormFlag getSubmitFlags(String fieldName)
 ```
 
 
@@ -1022,7 +1022,7 @@ Form form = new Form("PdfForm.pdf");
 | fieldName | java.lang.String | The qualified field name. |
 
 **Returns:**
-int - Submission flags of the button.
+[SubmitFormFlag](../../com.aspose.pdf.facades/submitformflag) - Submission flags of the button.
 ### importFdf(InputStream inputFdfStream) {#importFdf-java.io.InputStream-}
 ```
 public void importFdf(InputStream inputFdfStream)

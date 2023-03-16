@@ -1,14 +1,14 @@
 ---
 title: AntiqueWhite
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFAEBD7.
+description: Gets a system-defined color that has an ARGB value of c FFFAEBD7.
 type: docs
 weight: 30
 url: /net/aspose.pdf/color/antiquewhite/
 ---
 ## Color.AntiqueWhite property
 
-Gets a system-defined color that has an ARGB value of #FFFAEBD7.
+Gets a system-defined color that has an ARGB value of \c \#FFFAEBD7.
 
 ```csharp
 public static Color AntiqueWhite { get; }

@@ -3,7 +3,7 @@ title: CircleAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Circle annotation.
 type: docs
-weight: 62
+weight: 60
 url: /java/com.aspose.pdf/circleannotation/
 ---
 **Inheritance:**
@@ -67,11 +67,11 @@ Accepts visitor object to process the annotation.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element

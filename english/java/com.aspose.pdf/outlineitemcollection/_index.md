@@ -3,7 +3,7 @@ title: OutlineItemCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents outline entry in outline hierarchy of PDF document.
 type: docs
-weight: 243
+weight: 238
 url: /java/com.aspose.pdf/outlineitemcollection/
 ---
 **Inheritance:**
@@ -17,7 +17,6 @@ Represents outline entry in outline hierarchy of PDF document.
 
 | Constructor | Description |
 | --- | --- |
-| [OutlineItemCollection(IPdfObject outline)](#OutlineItemCollection-com.aspose.pdf.engine.data.IPdfObject-) | Initializes new instance of this class using internal engine outline entry object. |
 | [OutlineItemCollection(OutlineCollection outlines)](#OutlineItemCollection-com.aspose.pdf.OutlineCollection-) | Initializes outline item instance using root hierarchy object. |
 ## Methods
 
@@ -63,19 +62,6 @@ Represents outline entry in outline hierarchy of PDF document.
 | [size()](#size--) | Count of collection items. |
 | [get_Item(int index)](#get-Item-int-) | Gets outline item from the collection using index. |
 | [getLevel()](#getLevel--) | Gets hierarchy level of outline item. |
-### OutlineItemCollection(IPdfObject outline) {#OutlineItemCollection-com.aspose.pdf.engine.data.IPdfObject-}
-```
-public OutlineItemCollection(IPdfObject outline)
-```
-
-
-Initializes new instance of this class using internal engine outline entry object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outline | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) | Internal engine object of outline entry. |
-
 ### OutlineItemCollection(OutlineCollection outlines) {#OutlineItemCollection-com.aspose.pdf.OutlineCollection-}
 ```
 public OutlineItemCollection(OutlineCollection outlines)
@@ -89,26 +75,6 @@ Initializes outline item instance using root hierarchy object.
 | --- | --- | --- |
 | outlines | [OutlineCollection](../../com.aspose.pdf/outlinecollection) | Outlune collection. |
 
-### getEngineDict() {#getEngineDict--}
-```
-public IPdfDictionary getEngineDict()
-```
-
-
-Internal only
-
-**Returns:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary object
-### getEngineObj() {#getEngineObj--}
-```
-public IPdfObject getEngineObj()
-```
-
-
-Internal only
-
-**Returns:**
-[IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) - IPdfObject object
 ### getTitle() {#getTitle--}
 ```
 public String getTitle()

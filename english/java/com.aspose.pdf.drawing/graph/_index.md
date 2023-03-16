@@ -27,8 +27,8 @@ Represents graph - graphics generator paragraph.
 | [setGraphInfo(GraphInfo value)](#setGraphInfo-com.aspose.pdf.GraphInfo-) | Gets or sets a  GraphInfo  object that indicates the graph info,such as color, line width,etc. |
 | [getBorder()](#getBorder--) | Gets the border. |
 | [setBorder(BorderInfo value)](#setBorder-com.aspose.pdf.BorderInfo-) | Sets the border. |
-| [isChangePosition()](#isChangePosition--) | Gets change current position after process paragraph.(default true) |
-| [setChangePosition(boolean value)](#setChangePosition-boolean-) | Sets change current position after process paragraph.(default true) |
+| [isChangePosition()](#isChangePosition--) | Gets change current position after process paragraph. |
+| [setChangePosition(boolean value)](#setChangePosition-boolean-) | Sets change current position after process paragraph. |
 | [getLeft()](#getLeft--) | Gets table left coordinate. |
 | [setLeft(double value)](#setLeft-double-) | Sets table left coordinate. |
 | [getTop()](#getTop--) | Gets the table top coordinate. |

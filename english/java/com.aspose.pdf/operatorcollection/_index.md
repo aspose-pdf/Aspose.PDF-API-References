@@ -3,7 +3,7 @@ title: OperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of operators
 type: docs
-weight: 236
+weight: 231
 url: /java/com.aspose.pdf/operatorcollection/
 ---
 **Inheritance:**
@@ -17,7 +17,6 @@ Class represents collection of operators
 
 | Constructor | Description |
 | --- | --- |
-| [OperatorCollection(IPdfPrimitive contents)](#OperatorCollection-com.aspose.pdf.engine.data.IPdfPrimitive-) | For internal usage only! |
 ## Methods
 
 | Method | Description |
@@ -48,28 +47,13 @@ Class represents collection of operators
 | [clear()](#clear--) | Removes all operators from list. |
 | [toString()](#toString--) | Returns text representation of the operator. |
 | [add(Iterable<Operator> ops)](#add-java.lang.Iterable-com.aspose.pdf.Operator--) | Adds to collection all operators from other collection. |
-| [isBracketed()](#isBracketed--) | Gets bracketed status of operator sequence i.e. |
+| [isBracketed()](#isBracketed--) | Gets bracketed status of operator sequence i.e. is this operators are inside of q - Q blocks |
 | [suppressUpdate()](#suppressUpdate--) | Suppresses update contents data The contents stream is not updated until ResumeUpdate is called |
 | [resumeUpdate()](#resumeUpdate--) | Resumes document update. |
 | [cancelUpdate()](#cancelUpdate--) | Cancels last update. |
 | [toList()](#toList--) | Returns operator list. |
 | [remove(Operator op)](#remove-com.aspose.pdf.Operator-) | Remove operator from the collection. |
 | [contains(Operator op)](#contains-com.aspose.pdf.Operator-) | Returns true if the collection contains given operator. |
-### OperatorCollection(IPdfPrimitive contents) {#OperatorCollection-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public OperatorCollection(IPdfPrimitive contents)
-```
-
-
-For internal usage only!
-
-Constructor of OperatorCollection. Constructs operators from primitive contains operators list.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| contents | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | IPdfPrimitive object |
-
 ### isReadOnly() {#isReadOnly--}
 ```
 public boolean isReadOnly()

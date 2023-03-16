@@ -3,7 +3,7 @@ title: FileHyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents file hyperlink object.
 type: docs
-weight: 116
+weight: 113
 url: /java/com.aspose.pdf/filehyperlink/
 ---
 **Inheritance:**

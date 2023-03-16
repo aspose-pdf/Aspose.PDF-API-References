@@ -1,16 +1,22 @@
 ---
 title: SetArrayNumberValue
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Sets Value Number Array.
 type: docs
 weight: 90
 url: /net/aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/
 ---
 ## StructureAttribute.SetArrayNumberValue method
 
+Sets Value Number Array.
+
 ```csharp
 public void SetArrayNumberValue(double?[] arrayNumber)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arrayNumber | Nullable`1[] | Array of Numbers. |
 
 ### See Also
 

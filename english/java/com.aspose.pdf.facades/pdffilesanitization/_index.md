@@ -3,7 +3,7 @@ title: PdfFileSanitization
 second_title: Aspose.PDF for Java API Reference
 description: Represents sanitization and recovery API.
 type: docs
-weight: 43
+weight: 38
 url: /java/com.aspose.pdf.facades/pdffilesanitization/
 ---
 **Inheritance:**

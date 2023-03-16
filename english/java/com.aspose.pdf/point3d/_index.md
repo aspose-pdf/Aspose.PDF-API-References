@@ -3,7 +3,7 @@ title: Point3D
 second_title: Aspose.PDF for Java API Reference
 description: Represent point with fractional coordinates.
 type: docs
-weight: 288
+weight: 283
 url: /java/com.aspose.pdf/point3d/
 ---
 **Inheritance:**

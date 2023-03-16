@@ -3,7 +3,7 @@ title: EpubLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Contains options for loading/importing EPUB file into pdf document.
 type: docs
-weight: 102
+weight: 99
 url: /java/com.aspose.pdf/epubloadoptions/
 ---
 **Inheritance:**
@@ -28,8 +28,8 @@ Contains options for loading/importing EPUB file into pdf document.
 | [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | Gets reference on object that represent marging info. |
 | [getMarginsAreaUsageMode()](#getMarginsAreaUsageMode--) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
 | [setMarginsAreaUsageMode(int marginsAreaUsageMode)](#setMarginsAreaUsageMode-int-) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
-| [getPageSizeAdjustmentMode()](#getPageSizeAdjustmentMode--) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
-| [setPageSizeAdjustmentMode(int pageSizeAdjustmentMode)](#setPageSizeAdjustmentMode-int-) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
+| [getPageSizeAdjustmentMode()](#getPageSizeAdjustmentMode--) | ATTENTION! |
+| [setPageSizeAdjustmentMode(int pageSizeAdjustmentMode)](#setPageSizeAdjustmentMode-int-) | ATTENTION! |
 ### EpubLoadOptions() {#EpubLoadOptions--}
 ```
 public EpubLoadOptions()

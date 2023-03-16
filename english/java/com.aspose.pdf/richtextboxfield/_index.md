@@ -3,7 +3,7 @@ title: RichTextBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class describes rich text editor component.
 type: docs
-weight: 317
+weight: 313
 url: /java/com.aspose.pdf/richtextboxfield/
 ---
 **Inheritance:**

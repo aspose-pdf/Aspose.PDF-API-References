@@ -3,7 +3,7 @@ title: Brush
 second_title: Aspose.PDF for Java API Reference
 description: This class represents abstract brush
 type: docs
-weight: 45
+weight: 43
 url: /java/com.aspose.pdf/brush/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: FormatArray
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets format array for table of contents.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf/tocinfo/formatarray/
 ---
 ## TocInfo.FormatArray property

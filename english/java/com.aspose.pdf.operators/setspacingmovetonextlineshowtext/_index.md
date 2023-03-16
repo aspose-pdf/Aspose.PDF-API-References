@@ -17,7 +17,6 @@ Class representing " operator (set word and character spacing, move to the next 
 
 | Constructor | Description |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText(int index, ICommand command)](#SetSpacingMoveToNextLineShowText-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetSpacingMoveToNextLineShowText(double aw, double ac, String text)](#SetSpacingMoveToNextLineShowText-double-double-java.lang.String-) | Initializes operator. |
 | [SetSpacingMoveToNextLineShowText()](#SetSpacingMoveToNextLineShowText--) | Initializes operator. |
 ## Methods
@@ -28,20 +27,6 @@ Class representing " operator (set word and character spacing, move to the next 
 | [getAc()](#getAc--) | Get character spacing. |
 | [getText()](#getText--) | Gets text of operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### SetSpacingMoveToNextLineShowText(int index, ICommand command) {#SetSpacingMoveToNextLineShowText-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetSpacingMoveToNextLineShowText(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetSpacingMoveToNextLineShowText(double aw, double ac, String text) {#SetSpacingMoveToNextLineShowText-double-double-java.lang.String-}
 ```
 public SetSpacingMoveToNextLineShowText(double aw, double ac, String text)

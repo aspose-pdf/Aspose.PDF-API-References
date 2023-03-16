@@ -1,14 +1,14 @@
 ---
 title: SignatureCustomAppearance
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Inititalizes new instance of the SignatureCustomAppearanceaspose.pdf.forms/signaturecustomappearance class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.forms/signaturecustomappearance/signaturecustomappearance/
 ---
 ## SignatureCustomAppearance constructor
 
-The default constructor.
+Inititalizes new instance of the [`SignatureCustomAppearance`](../../signaturecustomappearance) class.
 
 ```csharp
 public SignatureCustomAppearance()

@@ -1,14 +1,14 @@
 ---
 title: FormDataConverter
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor for FormDataConverter class.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/formdataconverter/formdataconverter/
 ---
 ## FormDataConverter constructor
 
-The default constructor.
+Constructor for FormDataConverter class.
 
 ```csharp
 public FormDataConverter()

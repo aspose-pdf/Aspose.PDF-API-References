@@ -3,13 +3,13 @@ title: ImageMergeMode
 second_title: Aspose.PDF for Java API Reference
 description: Represents modes for merging images.
 type: docs
-weight: 31
+weight: 69
 url: /java/com.aspose.pdf.facades/imagemergemode/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum
 ```
-public final class ImageMergeMode extends System.Enum
+public enum ImageMergeMode extends Enum<ImageMergeMode>
 ```
 
 Represents modes for merging images.
@@ -20,9 +20,16 @@ Represents modes for merging images.
 | [Vertical](#Vertical) | Images merged vertically. |
 | [Horizontal](#Horizontal) | Images merged horizontally. |
 | [Center](#Center) | Images aligned by center. |
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [values()](#values--) |  |
+| [valueOf(String name)](#valueOf-java.lang.String-) |  |
+| [getValue()](#getValue--) |  |
 ### Vertical {#Vertical}
 ```
-public static final int Vertical
+public static final ImageMergeMode Vertical
 ```
 
 
@@ -30,7 +37,7 @@ Images merged vertically.
 
 ### Horizontal {#Horizontal}
 ```
-public static final int Horizontal
+public static final ImageMergeMode Horizontal
 ```
 
 
@@ -38,9 +45,44 @@ Images merged horizontally.
 
 ### Center {#Center}
 ```
-public static final int Center
+public static final ImageMergeMode Center
 ```
 
 
 Images aligned by center.
 
+### values() {#values--}
+```
+public static ImageMergeMode[] values()
+```
+
+
+
+
+**Returns:**
+com.aspose.pdf.facades.ImageMergeMode[]
+### valueOf(String name) {#valueOf-java.lang.String-}
+```
+public static ImageMergeMode valueOf(String name)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String |  |
+
+**Returns:**
+[ImageMergeMode](../../com.aspose.pdf.facades/imagemergemode)
+### getValue() {#getValue--}
+```
+public int getValue()
+```
+
+
+
+
+**Returns:**
+int

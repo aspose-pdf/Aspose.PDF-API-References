@@ -3,7 +3,7 @@ title: Bookmark
 second_title: Aspose.PDF for Java API Reference
 description: Represents a bookmark.
 type: docs
-weight: 14
+weight: 13
 url: /java/com.aspose.pdf.facades/bookmark/
 ---
 **Inheritance:**

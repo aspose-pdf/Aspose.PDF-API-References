@@ -3,7 +3,7 @@ title: UseNewImagingEngine
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets a flag determines whether new imaging engine is used or not.
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.pdf/renderingoptions/usenewimagingengine/
 ---
 ## RenderingOptions.UseNewImagingEngine property

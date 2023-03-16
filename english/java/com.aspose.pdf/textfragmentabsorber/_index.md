@@ -3,7 +3,7 @@ title: TextFragmentAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of text fragments.
 type: docs
-weight: 377
+weight: 372
 url: /java/com.aspose.pdf/textfragmentabsorber/
 ---
 **Inheritance:**

@@ -1,14 +1,14 @@
 ---
 title: ColumnInfo
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the ColumnInfo class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/columninfo/columninfo/
 ---
 ## ColumnInfo constructor
 
-The default constructor.
+Initializes a new instance of the ColumnInfo class.
 
 ```csharp
 public ColumnInfo()

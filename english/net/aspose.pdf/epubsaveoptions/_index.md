@@ -18,7 +18,7 @@ public class EpubSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [EpubSaveOptions](epubsaveoptions)() | The default constructor. |
+| [EpubSaveOptions](epubsaveoptions)() | Constructor |
 
 ## Properties
 

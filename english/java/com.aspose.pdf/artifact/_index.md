@@ -3,7 +3,7 @@ title: Artifact
 second_title: Aspose.PDF for Java API Reference
 description: Class represents PDF Artifact object.
 type: docs
-weight: 29
+weight: 27
 url: /java/com.aspose.pdf/artifact/
 ---
 **Inheritance:**
@@ -20,9 +20,8 @@ Class represents PDF Artifact object.
 
 | Constructor | Description |
 | --- | --- |
-| [Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties)](#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--com.aspose.pdf.engine.data.IPdfDictionary-) | This constructor is used when artifact is read from the page. |
 | [Artifact(String type, String subType)](#Artifact-java.lang.String-java.lang.String-) | Constructor of artifact with specified type and subtype |
-| [Artifact(int type, int subType)](#Artifact-int-int-) | Constructor of artifact with specified type and subtype |
+| [Artifact(Artifact.ArtifactType type, Artifact.ArtifactSubtype subType)](#Artifact-com.aspose.pdf.Artifact.ArtifactType-com.aspose.pdf.Artifact.ArtifactSubtype-) | Constructor of artifact with specified type and subtype |
 ## Methods
 
 | Method | Description |
@@ -32,9 +31,9 @@ Class represents PDF Artifact object.
 | [getCustomSubtype()](#getCustomSubtype--) | Gets name of artifact subtype. |
 | [setCustomSubtype(String value)](#setCustomSubtype-java.lang.String-) |  |
 | [getType()](#getType--) | Gets artifact type. |
-| [setType(int value)](#setType-int-) | Sets artifact type. |
+| [setType(Artifact.ArtifactType value)](#setType-com.aspose.pdf.Artifact.ArtifactType-) | Sets artifact type. |
 | [getSubtype()](#getSubtype--) | Gets artifact subtype. |
-| [setSubtype(int value)](#setSubtype-int-) | Sets artifact subtype. |
+| [setSubtype(Artifact.ArtifactSubtype value)](#setSubtype-com.aspose.pdf.Artifact.ArtifactSubtype-) | Sets artifact subtype. |
 | [getContents()](#getContents--) | Gets collection of artifact internal operators. |
 | [getForm()](#getForm--) | Gets XForm of the artifact (if XForm is used). |
 | [getRectangle()](#getRectangle--) | Gets rectangle of the artifact. |
@@ -49,9 +48,9 @@ Class represents PDF Artifact object.
 | [getBottomMargin()](#getBottomMargin--) | Gets bottom margin of artifact. |
 | [setBottomMargin(double value)](#setBottomMargin-double-) | Sets bottom margin of artifact. |
 | [getArtifactHorizontalAlignment()](#getArtifactHorizontalAlignment--) | Gets horizontal alignment of artifact. |
-| [setArtifactHorizontalAlignment(int value)](#setArtifactHorizontalAlignment-int-) | Gets horizontal alignment of artifact. |
+| [setArtifactHorizontalAlignment(HorizontalAlignment value)](#setArtifactHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Gets horizontal alignment of artifact. |
 | [getArtifactVerticalAlignment()](#getArtifactVerticalAlignment--) | Gets vertical alignment of artifact. |
-| [setArtifactVerticalAlignment(int value)](#setArtifactVerticalAlignment-int-) | Sets vertical alignment of artifact. |
+| [setArtifactVerticalAlignment(VerticalAlignment value)](#setArtifactVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets vertical alignment of artifact. |
 | [getRotation()](#getRotation--) | Gets artifact rotation angle. |
 | [setRotation(double value)](#setRotation-double-) | Sets artifact rotation angle. |
 | [getText()](#getText--) | Gets text of the artifact. |
@@ -77,22 +76,6 @@ Class represents PDF Artifact object.
 | [saveUpdates()](#saveUpdates--) | Saves all updates in artifact which were made after BeginUpdates() call. |
 | [isBackground()](#isBackground--) | If true Artifact is placed behind page contents. |
 | [setBackground(boolean value)](#setBackground-boolean-) | If true Artifact is placed behind page contents. |
-### Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties) {#Artifact-com.aspose.pdf.ArtifactCollection-com.aspose.pdf.Artifact.ArtifactContext-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--com.aspose.pdf.engine.data.IPdfDictionary-}
-```
-public Artifact(ArtifactCollection owner, Artifact.ArtifactContext context, System.Collections.Generic.List<Operator> _contents, IPdfDictionary _properties)
-```
-
-
-This constructor is used when artifact is read from the page. ARtifactCollection passes page resources, initial matrix, operators of the artifact ("contents") and properties dictionary.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| owner | [ArtifactCollection](../../com.aspose.pdf/artifactcollection) | ArtifactCollection object |
-| context | com.aspose.pdf.Artifact.ArtifactContext | ArtifactContext object |
-| _contents | com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> | Collection of Operators |
-| _properties | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) | IPdfDictionary object |
-
 ### Artifact(String type, String subType) {#Artifact-java.lang.String-java.lang.String-}
 ```
 public Artifact(String type, String subType)
@@ -107,9 +90,9 @@ Constructor of artifact with specified type and subtype
 | type | java.lang.String | Name of artifact type. |
 | subType | java.lang.String | NAme of artifact subtype. |
 
-### Artifact(int type, int subType) {#Artifact-int-int-}
+### Artifact(Artifact.ArtifactType type, Artifact.ArtifactSubtype subType) {#Artifact-com.aspose.pdf.Artifact.ArtifactType-com.aspose.pdf.Artifact.ArtifactSubtype-}
 ```
-public Artifact(int type, int subType)
+public Artifact(Artifact.ArtifactType type, Artifact.ArtifactSubtype subType)
 ```
 
 
@@ -118,8 +101,8 @@ Constructor of artifact with specified type and subtype
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | int | Artifact type. |
-| subType | int | Artifact subtype. |
+| type | [ArtifactType](../../com.aspose.pdf/artifacttype) | Artifact type. |
+| subType | [ArtifactSubtype](../../com.aspose.pdf/artifactsubtype) | Artifact subtype. |
 
 ### getCustomType() {#getCustomType--}
 ```
@@ -169,17 +152,17 @@ public void setCustomSubtype(String value)
 
 ### getType() {#getType--}
 ```
-public int getType()
+public Artifact.ArtifactType getType()
 ```
 
 
 Gets artifact type.
 
 **Returns:**
-int - artifact type value.
-### setType(int value) {#setType-int-}
+[ArtifactType](../../com.aspose.pdf/artifacttype) - artifact type value.
+### setType(Artifact.ArtifactType value) {#setType-com.aspose.pdf.Artifact.ArtifactType-}
 ```
-public void setType(int value)
+public void setType(Artifact.ArtifactType value)
 ```
 
 
@@ -188,21 +171,21 @@ Sets artifact type.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | artifact type. |
+| value | [ArtifactType](../../com.aspose.pdf/artifacttype) | artifact type. |
 
 ### getSubtype() {#getSubtype--}
 ```
-public int getSubtype()
+public Artifact.ArtifactSubtype getSubtype()
 ```
 
 
 Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype.
 
 **Returns:**
-int - artifact subtype.
-### setSubtype(int value) {#setSubtype-int-}
+[ArtifactSubtype](../../com.aspose.pdf/artifactsubtype) - artifact subtype.
+### setSubtype(Artifact.ArtifactSubtype value) {#setSubtype-com.aspose.pdf.Artifact.ArtifactSubtype-}
 ```
-public void setSubtype(int value)
+public void setSubtype(Artifact.ArtifactSubtype value)
 ```
 
 
@@ -211,7 +194,7 @@ Sets artifact subtype. If artifact has non-standard subtype, name of the subtype
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | artifact subtype. |
+| value | [ArtifactSubtype](../../com.aspose.pdf/artifactsubtype) | artifact subtype. |
 
 ### getContents() {#getContents--}
 ```
@@ -360,17 +343,17 @@ Sets bottom margin of artifact.
 
 ### getArtifactHorizontalAlignment() {#getArtifactHorizontalAlignment--}
 ```
-public int getArtifactHorizontalAlignment()
+public HorizontalAlignment getArtifactHorizontalAlignment()
 ```
 
 
 Gets horizontal alignment of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 **Returns:**
-int - HorizontalAlignment value
-### setArtifactHorizontalAlignment(int value) {#setArtifactHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setArtifactHorizontalAlignment(HorizontalAlignment value) {#setArtifactHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setArtifactHorizontalAlignment(int value)
+public void setArtifactHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -379,21 +362,21 @@ Gets horizontal alignment of artifact.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | horizontal alignment of artifact. |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | horizontal alignment of artifact. |
 
 ### getArtifactVerticalAlignment() {#getArtifactVerticalAlignment--}
 ```
-public int getArtifactVerticalAlignment()
+public VerticalAlignment getArtifactVerticalAlignment()
 ```
 
 
 Gets vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored.
 
 **Returns:**
-int - VerticalAlignment value.
-### setArtifactVerticalAlignment(int value) {#setArtifactVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment value.
+### setArtifactVerticalAlignment(VerticalAlignment value) {#setArtifactVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setArtifactVerticalAlignment(int value)
+public void setArtifactVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -402,7 +385,7 @@ Sets vertical alignment of artifact.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | vertical alignment of artifact. |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | vertical alignment of artifact. |
 
 ### getRotation() {#getRotation--}
 ```

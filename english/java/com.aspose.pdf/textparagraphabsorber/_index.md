@@ -3,7 +3,7 @@ title: TextParagraphAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of text paragraphs.
 type: docs
-weight: 385
+weight: 380
 url: /java/com.aspose.pdf/textparagraphabsorber/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: AppearanceDictionary
 second_title: Aspose.PDF for Java API Reference
 description: Annotation appearance dictionary specifying how the annotation shall be presented visually on the page.
 type: docs
-weight: 24
+weight: 22
 url: /java/com.aspose.pdf/appearancedictionary/
 ---
 **Inheritance:**
@@ -45,16 +45,6 @@ Annotation appearance dictionary specifying how the annotation shall be presente
 | [copyToTArray(System.Collections.Generic.KeyValuePair<String,XForm>[] array, int arrayIndex)](#copyToTArray-com.aspose.ms.System.Collections.Generic.KeyValuePair-java.lang.String-com.aspose.pdf.XForm----int-) | Copies the elements of the ICollection to an Array, starting at a particular Array index. |
 | [removeItem(System.Collections.Generic.KeyValuePair<String,XForm> item)](#removeItem-com.aspose.ms.System.Collections.Generic.KeyValuePair-java.lang.String-com.aspose.pdf.XForm--) | Removes key/value pair from the collection. |
 | [iterator__Rename_Namesake()](#iterator--Rename-Namesake--) | Enumerator for the collection. |
-### getDict() {#getDict--}
-```
-public IPdfDictionary getDict()
-```
-
-
-Gets pdf dictionary
-
-**Returns:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary object
 ### isReadOnly() {#isReadOnly--}
 ```
 public boolean isReadOnly()

@@ -18,7 +18,7 @@ public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [XpsLoadOptions](xpsloadoptions)() | The default constructor. |
+| [XpsLoadOptions](xpsloadoptions)() | Creates default load options for converting xps file into pdf document. |
 
 ## Properties
 

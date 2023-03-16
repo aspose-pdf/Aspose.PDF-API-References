@@ -28,7 +28,7 @@ iewer.ClosePdfFile();
 
 VisualBasic]
 im viewer As PdfViewer = new PdfViewer()
-iewer.OpenPdfFile(@"d:\test.pdf")   
+iewer.OpenPdfFile(@"d:\test.pdf")
 iewer.AutoResize = true          'print the file with adjusted size
 iewer.AutoRotate = true          'print the file with adjusted rotation
 iewer.PrintPageDialog=false;//do not produce the page number dialog when printing

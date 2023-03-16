@@ -18,7 +18,7 @@ public sealed class MhtLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [MhtLoadOptions](mhtloadoptions)() | The default constructor. |
+| [MhtLoadOptions](mhtloadoptions)() | Creates load options for converting html into pdf document with empty base path. |
 
 ## Properties
 

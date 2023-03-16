@@ -3,7 +3,7 @@ title: XmpPdfAExtensionSchema
 second_title: Aspose.PDF for Java API Reference
 description: Describes the XMP extension schema which is provided by PDF/A-1.
 type: docs
-weight: 427
+weight: 421
 url: /java/com.aspose.pdf/xmppdfaextensionschema/
 ---
 **Inheritance:**
@@ -307,21 +307,6 @@ Determines whether prefix value is a part of pdf-a extension.
 
 **Returns:**
 boolean - True - prefix is a part of pdf-a extension; otherwise, false.
-### createSchemasElement(System.Xml.XmlNode rootNode) {#createSchemasElement-com.aspose.ms.System.Xml.XmlNode-}
-```
-public static HashDictionary<String,XmpPdfAExtensionSchema> createSchemasElement(System.Xml.XmlNode rootNode)
-```
-
-
-Creates the list of schemas elements from xml tree.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rootNode | com.aspose.ms.System.Xml.XmlNode | The root node for schemas elements. |
-
-**Returns:**
-[HashDictionary](../../com.aspose.pdf.engine.collections/hashdictionary) - The dictionary of schemas elements in format (key, value): schema\_prefix, schema value.
 ### initializeSchemaValue(System.Xml.XmlNode node, XmpPdfAExtensionSchema schema) {#initializeSchemaValue-com.aspose.ms.System.Xml.XmlNode-com.aspose.pdf.XmpPdfAExtensionSchema-}
 ```
 public static void initializeSchemaValue(System.Xml.XmlNode node, XmpPdfAExtensionSchema schema)

@@ -3,7 +3,7 @@ title: GoToURIAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a URI action causes a URI to be resolved.
 type: docs
-weight: 149
+weight: 145
 url: /java/com.aspose.pdf/gotouriaction/
 ---
 **Inheritance:**

@@ -45,7 +45,7 @@ public void Certify(string sigName, DocMDPSignature docMdpSignature)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sigName | String | The name of the signature field. |
-| docMdpSignature | DocMDPSignature | The type of the signature, could be ,  and |
+| docMdpSignature | DocMDPSignature | The type of the signature, could be [`PKCS1`](../../../aspose.pdf.forms/pkcs1), [`PKCS7`](../../../aspose.pdf.forms/pkcs7) and [`PKCS7Detached`](../../../aspose.pdf.forms/pkcs7detached) |
 
 ### See Also
 

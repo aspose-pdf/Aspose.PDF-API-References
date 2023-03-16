@@ -18,7 +18,7 @@ public class TxtLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [TxtLoadOptions](txtloadoptions)() | The default constructor. |
+| [TxtLoadOptions](txtloadoptions)() | Creates load options for converting text into pdf document. |
 
 ## Properties
 

@@ -1,14 +1,14 @@
 ---
 title: DimGray
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF696969.
+description: Gets a system-defined color that has an ARGB value of c FF696969.
 type: docs
 weight: 420
 url: /net/aspose.pdf/color/dimgray/
 ---
 ## Color.DimGray property
 
-Gets a system-defined color that has an ARGB value of #FF696969.
+Gets a system-defined color that has an ARGB value of \c \#FF696969.
 
 ```csharp
 public static Color DimGray { get; }

@@ -17,16 +17,3 @@ Represents LBody structure element in logical structure of the list.
 
 | Constructor | Description |
 | --- | --- |
-| [ListLBodyElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#ListLBodyElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### ListLBodyElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#ListLBodyElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public ListLBodyElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

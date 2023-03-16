@@ -74,7 +74,6 @@ Represents Standard Structure Types.
 | [getCategory()](#getCategory--) | Gets category of Standard Structure Type. |
 | [to_StructureTypeStandard(String tag)](#to-StructureTypeStandard-java.lang.String-) | Performs an explicit conversion from String to [StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard). |
 | [toString()](#toString--) | Returns a string that represents the current object. |
-| [createElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#createElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
 | [canBeAppended(StructureTypeStandard structureType)](#canBeAppended-com.aspose.pdf.tagged.logicalstructure.StructureTypeStandard-) |  |
 ### Document {#Document}
 ```
@@ -537,22 +536,6 @@ Returns a string that represents the current object.
 
 **Returns:**
 java.lang.String - String that represents the current object.
-### createElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#createElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public final Element createElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-
-**Returns:**
-[Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element)
 ### canBeAppended(StructureTypeStandard structureType) {#canBeAppended-com.aspose.pdf.tagged.logicalstructure.StructureTypeStandard-}
 ```
 public final boolean canBeAppended(StructureTypeStandard structureType)

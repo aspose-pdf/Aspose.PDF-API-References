@@ -3,7 +3,7 @@ title: PptxSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to SVG format
 type: docs
-weight: 295
+weight: 290
 url: /java/com.aspose.pdf/pptxsaveoptions/
 ---
 **Inheritance:**
@@ -30,8 +30,8 @@ Save options for export to SVG format
 | [setSeparateImages(boolean value)](#setSeparateImages-boolean-) | If set to true then images are separated from all other graphics |
 | [isOptimizeTextBoxes()](#isOptimizeTextBoxes--) | Toggles text columns recognition |
 | [setOptimizeTextBoxes(boolean value)](#setOptimizeTextBoxes-boolean-) | Toggles text columns recognition |
-| [getCustomProgressHandler()](#getCustomProgressHandler--) | This handler can be used to handle conversion progress events f.e. |
-| [setCustomProgressHandler(UnifiedSaveOptions.ConversionProgressEventHandler value)](#setCustomProgressHandler-com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler-) | This handler can be used to handle conversion progress events f.e. |
+| [getCustomProgressHandler()](#getCustomProgressHandler--) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
+| [setCustomProgressHandler(UnifiedSaveOptions.ConversionProgressEventHandler value)](#setCustomProgressHandler-com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler-) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
 ### PptxSaveOptions() {#PptxSaveOptions--}
 ```
 public PptxSaveOptions()

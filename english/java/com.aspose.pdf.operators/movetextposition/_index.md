@@ -17,7 +17,6 @@ Class representing Td operator (move text position).
 
 | Constructor | Description |
 | --- | --- |
-| [MoveTextPosition(int index, ICommand command)](#MoveTextPosition-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
 | [MoveTextPosition(double x, double y)](#MoveTextPosition-double-double-) | Initializes operator. |
 ## Methods
 
@@ -29,20 +28,6 @@ Class representing Td operator (move text position).
 | [setY(double value)](#setY-double-) | Y coordinate of text position. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-### MoveTextPosition(int index, ICommand command) {#MoveTextPosition-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public MoveTextPosition(int index, ICommand command)
-```
-
-
-Initializes operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### MoveTextPosition(double x, double y) {#MoveTextPosition-double-double-}
 ```
 public MoveTextPosition(double x, double y)

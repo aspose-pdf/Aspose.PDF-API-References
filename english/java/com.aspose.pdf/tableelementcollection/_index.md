@@ -3,7 +3,7 @@ title: TableElementCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents a collection of elements absorbed from existing table
 type: docs
-weight: 359
+weight: 355
 url: /java/com.aspose.pdf/tableelementcollection/
 ---
 **Inheritance:**

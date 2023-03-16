@@ -3,7 +3,7 @@ title: LineDash
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets TOC line dash.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf/tocinfo/linedash/
 ---
 ## TocInfo.LineDash property

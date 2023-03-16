@@ -3,7 +3,7 @@ title: ImageDeleteAction
 second_title: Aspose.PDF for Java API Reference
 description: Action which performed with image object when image is removed from collection.
 type: docs
-weight: 170
+weight: 165
 url: /java/com.aspose.pdf/imagedeleteaction/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: ScalingMode
 second_title: Aspose.PDF for Java API Reference
 description: The type of scaling that shall be used.
 type: docs
-weight: 323
+weight: 319
 url: /java/com.aspose.pdf/scalingmode/
 ---
 **Inheritance:**

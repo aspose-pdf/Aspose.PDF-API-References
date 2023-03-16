@@ -18,7 +18,6 @@ Class representing BX operator (begin compatibility section).
 | Constructor | Description |
 | --- | --- |
 | [BX()](#BX--) | Initializes operator. |
-| [BX(int index, ICommand command)](#BX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -34,20 +33,6 @@ public BX()
 
 
 Initializes operator.
-
-### BX(int index, ICommand command) {#BX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public BX(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```
@@ -91,4 +76,3 @@ public ICommand toCommand()
 
 
 **Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)

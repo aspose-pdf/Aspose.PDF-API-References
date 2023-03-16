@@ -17,7 +17,6 @@ Class representing Ts operator (set text rise).
 
 | Constructor | Description |
 | --- | --- |
-| [SetTextRise(int index, ICommand command)](#SetTextRise-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetTextRise(double textRise)](#SetTextRise-double-) | Initializes operator. |
 ## Methods
 
@@ -26,20 +25,6 @@ Class representing Ts operator (set text rise).
 | [getTextRise()](#getTextRise--) | Gets the text rise. |
 | [setTextRise(double value)](#setTextRise-double-) | Sets the text rise. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### SetTextRise(int index, ICommand command) {#SetTextRise-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetTextRise(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetTextRise(double textRise) {#SetTextRise-double-}
 ```
 public SetTextRise(double textRise)

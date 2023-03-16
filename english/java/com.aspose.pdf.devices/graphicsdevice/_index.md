@@ -17,17 +17,17 @@ Represents image device that helps to render pdf document pages into graphics.
 
 | Constructor | Description |
 | --- | --- |
-| [GraphicsDevice(Point origin, int paperWidth, int paperHeight, System.Drawing.Rectangle marginBounds, float scaleFactor, Resolution resolution, int rotateDegrees, boolean autoSize, int verticalAlignment, int horizontalAlignment, boolean isXpsPrinting)](#GraphicsDevice-com.aspose.pdf.Point-int-int-com.aspose.ms.System.Drawing.Rectangle-float-com.aspose.pdf.devices.Resolution-int-boolean-int-int-boolean-) | Initializes a new instance of the  GraphicsDevice  class with provided image dimensions and resolution. |
+| [GraphicsDevice(Point origin, int paperWidth, int paperHeight, System.Drawing.Rectangle marginBounds, float scaleFactor, Resolution resolution, int rotateDegrees, boolean autoSize, VerticalAlignment verticalAlignment, HorizontalAlignment horizontalAlignment, boolean isXpsPrinting)](#GraphicsDevice-com.aspose.pdf.Point-int-int-com.aspose.ms.System.Drawing.Rectangle-float-com.aspose.pdf.devices.Resolution-int-boolean-com.aspose.pdf.VerticalAlignment-com.aspose.pdf.HorizontalAlignment-boolean-) | Initializes a new instance of the  GraphicsDevice  class with provided image dimensions and resolution. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [process(Page page, System.IO.Stream output)](#process-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | Perfoms some operation on the given page, e.g. |
+| [process(Page page, System.IO.Stream output)](#process-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
 | [process(Page page, System.Drawing.Graphics gr)](#process-com.aspose.pdf.Page-com.aspose.ms.System.Drawing.Graphics-) | renders page on the graphics |
 | [processInternal(Page page, System.IO.Stream output)](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | internal method |
-### GraphicsDevice(Point origin, int paperWidth, int paperHeight, System.Drawing.Rectangle marginBounds, float scaleFactor, Resolution resolution, int rotateDegrees, boolean autoSize, int verticalAlignment, int horizontalAlignment, boolean isXpsPrinting) {#GraphicsDevice-com.aspose.pdf.Point-int-int-com.aspose.ms.System.Drawing.Rectangle-float-com.aspose.pdf.devices.Resolution-int-boolean-int-int-boolean-}
+### GraphicsDevice(Point origin, int paperWidth, int paperHeight, System.Drawing.Rectangle marginBounds, float scaleFactor, Resolution resolution, int rotateDegrees, boolean autoSize, VerticalAlignment verticalAlignment, HorizontalAlignment horizontalAlignment, boolean isXpsPrinting) {#GraphicsDevice-com.aspose.pdf.Point-int-int-com.aspose.ms.System.Drawing.Rectangle-float-com.aspose.pdf.devices.Resolution-int-boolean-com.aspose.pdf.VerticalAlignment-com.aspose.pdf.HorizontalAlignment-boolean-}
 ```
-public GraphicsDevice(Point origin, int paperWidth, int paperHeight, System.Drawing.Rectangle marginBounds, float scaleFactor, Resolution resolution, int rotateDegrees, boolean autoSize, int verticalAlignment, int horizontalAlignment, boolean isXpsPrinting)
+public GraphicsDevice(Point origin, int paperWidth, int paperHeight, System.Drawing.Rectangle marginBounds, float scaleFactor, Resolution resolution, int rotateDegrees, boolean autoSize, VerticalAlignment verticalAlignment, HorizontalAlignment horizontalAlignment, boolean isXpsPrinting)
 ```
 
 
@@ -44,8 +44,8 @@ Initializes a new instance of the  GraphicsDevice  class with provided image dim
 | resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the result image file, see  Resolution  class. |
 | rotateDegrees | int | degrees |
 | autoSize | boolean | boolean value |
-| verticalAlignment | int | VerticalAlignment element |
-| horizontalAlignment | int | horizontalAlignment element |
+| verticalAlignment | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment element |
+| horizontalAlignment | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | horizontalAlignment element |
 | isXpsPrinting | boolean | boolean value |
 
 ### process(Page page, System.IO.Stream output) {#process-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}

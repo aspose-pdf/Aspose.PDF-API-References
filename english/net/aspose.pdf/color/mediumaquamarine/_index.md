@@ -1,14 +1,14 @@
 ---
 title: MediumAquamarine
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF66CDAA.
+description: Gets a system-defined color that has an ARGB value of c FF66CDAA.
 type: docs
 weight: 830
 url: /net/aspose.pdf/color/mediumaquamarine/
 ---
 ## Color.MediumAquamarine property
 
-Gets a system-defined color that has an ARGB value of #FF66CDAA.
+Gets a system-defined color that has an ARGB value of \c \#FF66CDAA.
 
 ```csharp
 public static Color MediumAquamarine { get; }

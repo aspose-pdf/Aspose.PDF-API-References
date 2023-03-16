@@ -3,7 +3,7 @@ title: TextStamp
 second_title: Aspose.PDF for Java API Reference
 description: Reresents textual stamp.
 type: docs
-weight: 392
+weight: 387
 url: /java/com.aspose.pdf/textstamp/
 ---
 **Inheritance:**
@@ -40,7 +40,7 @@ Reresents textual stamp.
 | [setValue(String value)](#setValue-java.lang.String-) | Sets string value which is used as stamp on the page. |
 | [getTextState()](#getTextState--) | Gets text properties of the stamp. |
 | [getTextAlignment()](#getTextAlignment--) | Alignment of the text inside the stamp. |
-| [setTextAlignment(int value)](#setTextAlignment-int-) | Alignment of the text inside the stamp. |
+| [setTextAlignment(HorizontalAlignment value)](#setTextAlignment-com.aspose.pdf.HorizontalAlignment-) | Alignment of the text inside the stamp. |
 | [put(Page page)](#put-com.aspose.pdf.Page-) | Adds textual stamp on the page. |
 | [getWidth()](#getWidth--) | Desired width of the stamp on the page. |
 | [setWidth(double value)](#setWidth-double-) | Desired width of the stamp on the page. |
@@ -258,17 +258,17 @@ Gets text properties of the stamp. See  TextState  for details.
 [TextState](../../com.aspose.pdf/textstate) - TextState element
 ### getTextAlignment() {#getTextAlignment--}
 ```
-public int getTextAlignment()
+public HorizontalAlignment getTextAlignment()
 ```
 
 
 Alignment of the text inside the stamp.
 
 **Returns:**
-int - HorizontalAlignment value
-### setTextAlignment(int value) {#setTextAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setTextAlignment(HorizontalAlignment value) {#setTextAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setTextAlignment(int value)
+public void setTextAlignment(HorizontalAlignment value)
 ```
 
 
@@ -277,7 +277,7 @@ Alignment of the text inside the stamp.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### put(Page page) {#put-com.aspose.pdf.Page-}
 ```

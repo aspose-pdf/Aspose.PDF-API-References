@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.PDF for Java API Reference
 description: Class representing PDF document
 type: docs
-weight: 94
+weight: 91
 url: /java/com.aspose.pdf/document/
 ---
 **Inheritance:**
@@ -37,15 +37,14 @@ Class representing PDF document
 
 | Method | Description |
 | --- | --- |
-| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document) |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document) |
+| [getPageInfo()](#getPageInfo--) | Gets the page info. |
+| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
 | [getDestinations()](#getDestinations--) | Gets the collection of destinations. |
 | [getPdfFormat()](#getPdfFormat--) | Gets pdfa format |
 | [getFontUtilities()](#getFontUtilities--) | IDocumentFontUtilities instance |
 | [removePdfaCompliance()](#removePdfaCompliance--) | Remove pdfa compliance from the document |
 | [getCollection()](#getCollection--) | Gets collection of document. |
 | [setCollection(Collection value)](#setCollection-com.aspose.pdf.Collection-) | Sets collection of document. |
-| [getEngineDoc()](#getEngineDoc--) | Instance of IPdfDocument used to access to internal document structure. |
 | [getVersion()](#getVersion--) | Gets a version of Pdf from Pdf file header. |
 | [getOpenAction()](#getOpenAction--) | Gets action performed at document opening. |
 | [setOpenAction(IAppointment value)](#setOpenAction-com.aspose.pdf.IAppointment-) | Sets action performed at document opening. |
@@ -93,7 +92,7 @@ Class representing PDF document
 | [convert(String outputLogFileName, PdfFormat format, int action)](#convert-java.lang.String-com.aspose.pdf.PdfFormat-int-) | Convert document and save errors into the specified file. |
 | [validate(OutputStream outputLogStream, PdfFormat format)](#validate-java.io.OutputStream-com.aspose.pdf.PdfFormat-) | Validate document into the specified file. |
 | [convert(String outputLogFileName, PdfFormat format, int action, int transparencyAction)](#convert-java.lang.String-com.aspose.pdf.PdfFormat-int-int-) | Convert document and save errors into the specified file. |
-| [convert(Document.CallBackGetHocr callback)](#convert-com.aspose.pdf.Document.CallBackGetHocr-) | Convert document to searchable document. |
+| [convert(Document.CallBackGetHocr callback)](#convert-com.aspose.pdf.Document.CallBackGetHocr-) | Recognize images inside the document and add hocr strings over it. |
 | [convertWithSkippingErrors(Document.CallBackGetHocr callback)](#convertWithSkippingErrors-com.aspose.pdf.Document.CallBackGetHocr-) | Convert document to searchable document and skip errors of hochr that can not be converted. |
 | [convertInternal(System.IO.Stream outputLogStream, PdfFormat format, int action)](#convertInternal-com.aspose.ms.System.IO.Stream-com.aspose.pdf.PdfFormat-int-) | Convert document and save errors into the specified stream. |
 | [convert(OutputStream outputLogStream, PdfFormat format, int action)](#convert-java.io.OutputStream-com.aspose.pdf.PdfFormat-int-) | Convert document and save errors into the specified stream. |
@@ -104,9 +103,9 @@ Class representing PDF document
 | [convert(int fixup, String outputLog, boolean onlyValidation, Object[] parameters)](#convert-int-java.lang.String-boolean-java.lang.Object---) | Convert document by applying the Fixup. |
 | [flatten()](#flatten--) | Removes all fields from the document and place their values instead. |
 | [getCryptoAlgorithm()](#getCryptoAlgorithm--) | Gets security settings if document is encrypted. |
-| [encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, int cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-boolean-) | Encrypts the document. |
-| [encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm)](#encrypt-java.lang.String-java.lang.String-int-int-) | Encrypts the document. |
-| [encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-int-int-boolean-) | Encrypts the document. |
+| [encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.CryptoAlgorithm-boolean-) | Encrypts the document. |
+| [encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm)](#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-) | Encrypts the document. |
+| [encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-boolean-) | Encrypts the document. |
 | [changePasswords(String ownerPassword, String newUserPassword, String newOwnerPassword)](#changePasswords-java.lang.String-java.lang.String-java.lang.String-) | Changes document passwords. |
 | [isLinearized()](#isLinearized--) | Gets a value indicating whether document is linearized. |
 | [setLinearized(boolean value)](#setLinearized-boolean-) | Sets a value indicating whether document is linearized. |
@@ -114,7 +113,7 @@ Class representing PDF document
 | [getPermissions()](#getPermissions--) | Gets permissions of the document. |
 | [isEncrypted()](#isEncrypted--) | Gets encrypted status of the document. |
 | [optimize()](#optimize--) | Linearize document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. |
-| [save()](#save--) | Save document incrementally (i.e. |
+| [save()](#save--) | Save document incrementally (i.e. using incremental update technique). |
 | [save(String outputFileName, SaveFormat format)](#save-java.lang.String-com.aspose.pdf.SaveFormat-) | Saves the document with a new name along with a file format. |
 | [saveIncrementally(OutputStream output)](#saveIncrementally-java.io.OutputStream-) | Saves incrementally the PDF Document to the specified stream. |
 | [saveIncrementally(System.IO.Stream output)](#saveIncrementally-com.aspose.ms.System.IO.Stream-) | Saves incrementally the PDF Document to the specified stream. |
@@ -405,16 +404,6 @@ Sets collection of document.
 | --- | --- | --- |
 | value | [Collection](../../com.aspose.pdf/collection) | Collection object |
 
-### getEngineDoc() {#getEngineDoc--}
-```
-public IPdfDocument getEngineDoc()
-```
-
-
-Instance of IPdfDocument used to access to internal document structure. Internal only
-
-**Returns:**
-[IPdfDocument](../../com.aspose.pdf.engine/ipdfdocument) - IPdfDocument object
 ### getVersion() {#getVersion--}
 ```
 public String getVersion()
@@ -1068,15 +1057,15 @@ public boolean convert(Document.CallBackGetHocr callback)
 ```
 
 
-Convert document to searchable document.
+Recognize images inside the document and add hocr strings over it.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| callback | [CallBackGetHocr](../../com.aspose.pdf/callbackgethocr) | The call back procedure for hocr recognize. |
+| callback | [CallBackGetHocr](../../com.aspose.pdf/callbackgethocr) | callback Action for images that will be processed by hocr recognize. |
 
 **Returns:**
-boolean - boolean value
+boolean - boolean value The operation result. If there are no images in the document returns  false .
 ### convertWithSkippingErrors(Document.CallBackGetHocr callback) {#convertWithSkippingErrors-com.aspose.pdf.Document.CallBackGetHocr-}
 ```
 public boolean convertWithSkippingErrors(Document.CallBackGetHocr callback)
@@ -1219,17 +1208,17 @@ Removes all fields from the document and place their values instead.
 
 ### getCryptoAlgorithm() {#getCryptoAlgorithm--}
 ```
-public int getCryptoAlgorithm()
+public CryptoAlgorithm getCryptoAlgorithm()
 ```
 
 
 Gets security settings if document is encrypted. If document is not encrypted then corresponding exception will be raised in .net 1.1 or CryptoAlgorithm will be null for other .net versions.
 
 **Returns:**
-int - CryptoAlgorithm element
-### encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, int cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-int-boolean-}
+[CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) - CryptoAlgorithm element
+### encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.CryptoAlgorithm-boolean-}
 ```
-public void encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, int cryptoAlgorithm, boolean usePdf20)
+public void encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)
 ```
 
 
@@ -1241,28 +1230,12 @@ Encrypts the document. Call then Save to get encrypted version of the document.
 | userPassword | java.lang.String | User password. |
 | ownerPassword | java.lang.String | Owner password. |
 | privileges | [DocumentPrivilege](../../com.aspose.pdf.facades/documentprivilege) | Document permissions, see  Permissions  for details. |
-| cryptoAlgorithm | int | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
+| cryptoAlgorithm | [CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
 | usePdf20 | boolean | Support for revision 6 (Extension 8). |
 
-### encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm) {#encrypt-java.lang.String-java.lang.String-int-int-}
+### encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm) {#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-}
 ```
-public void encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm)
-```
-
-
-Encrypts the document. Call then Save to get encrypted version of the document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| userPassword | java.lang.String | User password. |
-| ownerPassword | java.lang.String | Owner password. |
-| permissions | int | Document permissions, see  Permissions  for details. |
-| cryptoAlgorithm | int | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
-
-### encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-int-int-boolean-}
-```
-public void encrypt(String userPassword, String ownerPassword, int permissions, int cryptoAlgorithm, boolean usePdf20)
+public void encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm)
 ```
 
 
@@ -1274,7 +1247,23 @@ Encrypts the document. Call then Save to get encrypted version of the document.
 | userPassword | java.lang.String | User password. |
 | ownerPassword | java.lang.String | Owner password. |
 | permissions | int | Document permissions, see  Permissions  for details. |
-| cryptoAlgorithm | int | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
+| cryptoAlgorithm | [CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
+
+### encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20) {#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-boolean-}
+```
+public void encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)
+```
+
+
+Encrypts the document. Call then Save to get encrypted version of the document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| userPassword | java.lang.String | User password. |
+| ownerPassword | java.lang.String | Owner password. |
+| permissions | int | Document permissions, see  Permissions  for details. |
+| cryptoAlgorithm | [CryptoAlgorithm](../../com.aspose.pdf/cryptoalgorithm) | Cryptographic algorithm, see  CryptoAlgorithm  for details. |
 | usePdf20 | boolean | Support for revision 6 (Extension 8). |
 
 ### changePasswords(String ownerPassword, String newUserPassword, String newOwnerPassword) {#changePasswords-java.lang.String-java.lang.String-java.lang.String-}
@@ -1470,16 +1459,6 @@ Gets the ID.
 
 **Returns:**
 [Id](../../com.aspose.pdf/id) - Id object
-### getMetadataStream() {#getMetadataStream--}
-```
-public IPdfStreamAccessor getMetadataStream()
-```
-
-
-Returns raw metadata stream
-
-**Returns:**
-[IPdfStreamAccessor](../../com.aspose.pdf.engine.data.types/ipdfstreamaccessor) - IPdfStreamAccessor object
 ### suppressUpdate() {#suppressUpdate--}
 ```
 public void suppressUpdate()

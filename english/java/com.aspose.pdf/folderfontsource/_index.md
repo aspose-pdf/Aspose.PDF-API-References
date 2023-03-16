@@ -3,7 +3,7 @@ title: FolderFontSource
 second_title: Aspose.PDF for Java API Reference
 description: Represents the folder that contains font files.
 type: docs
-weight: 132
+weight: 129
 url: /java/com.aspose.pdf/folderfontsource/
 ---
 **Inheritance:**

@@ -17,7 +17,6 @@ Class representing RG operator (set RGB color for stroking operators).
 
 | Constructor | Description |
 | --- | --- |
-| [SetRGBColorStroke(int index, ICommand command)](#SetRGBColorStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetRGBColorStroke(double r, double g, double b)](#SetRGBColorStroke-double-double-double-) | Constructor for writing program. |
 | [SetRGBColorStroke(Color color)](#SetRGBColorStroke-java.awt.Color-) | Initializes operator with color. |
 ## Methods
@@ -28,20 +27,6 @@ Class representing RG operator (set RGB color for stroking operators).
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
 | [getCMYKColor(double[] rgb, double[] cmykOut)](#getCMYKColor-double---double---) |  |
-### SetRGBColorStroke(int index, ICommand command) {#SetRGBColorStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetRGBColorStroke(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetRGBColorStroke(double r, double g, double b) {#SetRGBColorStroke-double-double-double-}
 ```
 public SetRGBColorStroke(double r, double g, double b)

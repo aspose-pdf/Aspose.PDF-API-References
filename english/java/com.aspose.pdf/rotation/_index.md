@@ -3,7 +3,7 @@ title: Rotation
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible rotation values.
 type: docs
-weight: 319
+weight: 315
 url: /java/com.aspose.pdf/rotation/
 ---
 **Inheritance:**

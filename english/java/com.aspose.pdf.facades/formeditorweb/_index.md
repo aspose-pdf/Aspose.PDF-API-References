@@ -3,7 +3,7 @@ title: FormEditorWeb
 second_title: Aspose.PDF for Java API Reference
 description: Class for editing forms ading/deleting field etc
 type: docs
-weight: 27
+weight: 24
 url: /java/com.aspose.pdf.facades/formeditorweb/
 ---
 **Inheritance:**

@@ -18,7 +18,6 @@ Class representing i operator (set flatness toleracne).
 | Constructor | Description |
 | --- | --- |
 | [SetFlat(double flatness)](#SetFlat-double-) | Initializes operator. |
-| [SetFlat(int index, ICommand command)](#SetFlat-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -38,20 +37,6 @@ Initializes operator.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | flatness | double | The value of flatness. |
-
-### SetFlat(int index, ICommand command) {#SetFlat-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetFlat(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### getFlatness() {#getFlatness--}
 ```

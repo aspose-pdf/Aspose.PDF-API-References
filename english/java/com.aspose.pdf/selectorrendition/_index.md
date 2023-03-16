@@ -3,7 +3,7 @@ title: SelectorRendition
 second_title: Aspose.PDF for Java API Reference
 description: Class describes selector rendition.
 type: docs
-weight: 326
+weight: 322
 url: /java/com.aspose.pdf/selectorrendition/
 ---
 **Inheritance:**

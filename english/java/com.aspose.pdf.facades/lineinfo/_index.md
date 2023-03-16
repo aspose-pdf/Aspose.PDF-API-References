@@ -3,7 +3,7 @@ title: LineInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents the information of line.
 type: docs
-weight: 33
+weight: 28
 url: /java/com.aspose.pdf.facades/lineinfo/
 ---
 **Inheritance:**

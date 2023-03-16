@@ -3,7 +3,7 @@ title: MemoryCleaner
 second_title: Aspose.PDF for Java API Reference
 description: Represents MemoryCleaner class
 type: docs
-weight: 220
+weight: 215
 url: /java/com.aspose.pdf/memorycleaner/
 ---
 **Inheritance:**

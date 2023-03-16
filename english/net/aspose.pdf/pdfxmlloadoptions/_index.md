@@ -18,7 +18,7 @@ public class PdfXmlLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfXmlLoadOptions](pdfxmlloadoptions)() | The default constructor. |
+| [PdfXmlLoadOptions](pdfxmlloadoptions)() | Constructor of PdfXmlLoadOptions class. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: Direction
 second_title: Aspose.PDF for Java API Reference
 description: Text direction.
 type: docs
-weight: 90
+weight: 87
 url: /java/com.aspose.pdf/direction/
 ---
 **Inheritance:**

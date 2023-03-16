@@ -3,7 +3,7 @@ title: TextState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text
 type: docs
-weight: 393
+weight: 388
 url: /java/com.aspose.pdf/textstate/
 ---
 **Inheritance:**
@@ -71,7 +71,7 @@ Represents a text state of a text
 | [getFontStyle()](#getFontStyle--) | Sets font style of the text. |
 | [setFontStyle(int value)](#setFontStyle-int-) | Sets font style of the text. |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment for the text. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets horizontal alignment for the text. |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets horizontal alignment for the text. |
 | [measureString(String str, boolean insideLine)](#measureString-java.lang.String-boolean-) | Measures the string. |
 | [measureString(String str)](#measureString-java.lang.String-) | Measures the string. |
 | [calculateFontSize(String str, Rectangle rect)](#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-) | Calculates the font size for the rectangle. |
@@ -624,7 +624,7 @@ Sets font style of the text.
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
@@ -635,10 +635,10 @@ Gets horizontal alignment for the text.
 HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextState.HorizontalAlignment property works in new document generation scenarios only.
 
 **Returns:**
-int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -651,7 +651,7 @@ HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextSta
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### measureString(String str, boolean insideLine) {#measureString-java.lang.String-boolean-}
 ```

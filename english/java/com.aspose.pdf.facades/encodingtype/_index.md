@@ -3,7 +3,7 @@ title: EncodingType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates encoding types of the text using.
 type: docs
-weight: 20
+weight: 19
 url: /java/com.aspose.pdf.facades/encodingtype/
 ---
 **Inheritance:**

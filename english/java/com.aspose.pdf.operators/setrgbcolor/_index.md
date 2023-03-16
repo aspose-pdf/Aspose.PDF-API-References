@@ -17,7 +17,6 @@ Class representing rg operator (set RGB color for non-stroking operators).
 
 | Constructor | Description |
 | --- | --- |
-| [SetRGBColor(int index, ICommand command)](#SetRGBColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetRGBColor(double r, double g, double b)](#SetRGBColor-double-double-double-) | Constructor for writing program. |
 | [SetRGBColor(Color color)](#SetRGBColor-java.awt.Color-) | Initializes operator with color. |
 ## Methods
@@ -28,20 +27,6 @@ Class representing rg operator (set RGB color for non-stroking operators).
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of the operator. |
 | [getCMYKColor(double[] rgb, double[] cmykOut)](#getCMYKColor-double---double---) |  |
-### SetRGBColor(int index, ICommand command) {#SetRGBColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetRGBColor(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetRGBColor(double r, double g, double b) {#SetRGBColor-double-double-double-}
 ```
 public SetRGBColor(double r, double g, double b)

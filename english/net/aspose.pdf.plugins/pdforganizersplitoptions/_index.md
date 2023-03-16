@@ -18,7 +18,7 @@ public sealed class PdfOrganizerSplitOptions : PdfOrganizerOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfOrganizerSplitOptions](pdforganizersplitoptions)() | The default constructor. |
+| [PdfOrganizerSplitOptions](pdforganizersplitoptions)() | Initializes new instance of the [`PdfOrganizerSplitOptions`](../pdforganizersplitoptions) object with default options. |
 
 ## Properties
 

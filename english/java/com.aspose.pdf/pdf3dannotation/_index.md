@@ -3,7 +3,7 @@ title: PDF3DAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DAnnotation.
 type: docs
-weight: 246
+weight: 241
 url: /java/com.aspose.pdf/pdf3dannotation/
 ---
 **Inheritance:**
@@ -157,7 +157,7 @@ Value: The view array.
 [PDF3DViewArray](../../com.aspose.pdf/pdf3dviewarray) - PDF3DViewArray object
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
@@ -166,7 +166,7 @@ Gets type of annotation.
 Value: The type of the annotation.
 
 **Returns:**
-int
+[AnnotationType](../../com.aspose.pdf/annotationtype)
 ### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
 public void accept(AnnotationSelector visitor)

@@ -3,7 +3,7 @@ title: ComHelper
 second_title: Aspose.PDF for Java API Reference
 description: Provides methods for COM clients to load a document into Aspose.PDF.
 type: docs
-weight: 71
+weight: 69
 url: /java/com.aspose.pdf/comhelper/
 ---
 **Inheritance:**

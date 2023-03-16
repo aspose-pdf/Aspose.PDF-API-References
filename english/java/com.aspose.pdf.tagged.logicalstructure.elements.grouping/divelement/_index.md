@@ -17,16 +17,3 @@ Represents Div structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [DivElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#DivElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### DivElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#DivElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public DivElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

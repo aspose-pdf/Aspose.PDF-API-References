@@ -1,14 +1,14 @@
 ---
 title: Olive
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF808000.
+description: Gets a system-defined color that has an ARGB value of c FF808000.
 type: docs
 weight: 990
 url: /net/aspose.pdf/color/olive/
 ---
 ## Color.Olive property
 
-Gets a system-defined color that has an ARGB value of #FF808000.
+Gets a system-defined color that has an ARGB value of \c \#FF808000.
 
 ```csharp
 public static Color Olive { get; }

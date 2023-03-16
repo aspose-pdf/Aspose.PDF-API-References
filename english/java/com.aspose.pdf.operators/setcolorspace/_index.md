@@ -18,7 +18,6 @@ Class representing cs operator (set colorspace for non-stroking operations)
 | Constructor | Description |
 | --- | --- |
 | [SetColorSpace(String name)](#SetColorSpace-java.lang.String-) | Initializes operator. |
-| [SetColorSpace(int index, ICommand command)](#SetColorSpace-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -27,7 +26,6 @@ Class representing cs operator (set colorspace for non-stroking operations)
 | [setName(String value)](#setName-java.lang.String-) | Sets color space name. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [getCommandName()](#getCommandName--) | Gets command name. |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [toCommand()](#toCommand--) |  |
 ### SetColorSpace(String name) {#SetColorSpace-java.lang.String-}
 ```
@@ -41,20 +39,6 @@ Initializes operator.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | java.lang.String | Color space name. |
-
-### SetColorSpace(int index, ICommand command) {#SetColorSpace-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetColorSpace(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### getName() {#getName--}
 ```
@@ -102,19 +86,6 @@ Gets command name.
 
 **Returns:**
 java.lang.String - String value
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
 ### toCommand() {#toCommand--}
 ```
 public ICommand toCommand()
@@ -124,4 +95,3 @@ public ICommand toCommand()
 
 
 **Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)

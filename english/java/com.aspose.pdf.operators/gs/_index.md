@@ -17,7 +17,6 @@ Class representing gs operator (set parameters from graphic state parameter dict
 
 | Constructor | Description |
 | --- | --- |
-| [GS(int index, ICommand command)](#GS-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [GS(String name)](#GS-java.lang.String-) | Initializes gs operator. |
 ## Methods
 
@@ -27,20 +26,6 @@ Class representing gs operator (set parameters from graphic state parameter dict
 | [setName(String value)](#setName-java.lang.String-) | Sets name of graphic state resource. |
 | [toString()](#toString--) | Returns string represnetation of operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### GS(int index, ICommand command) {#GS-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public GS(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### GS(String name) {#GS-java.lang.String-}
 ```
 public GS(String name)

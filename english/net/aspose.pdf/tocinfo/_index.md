@@ -25,6 +25,7 @@ public sealed class TocInfo
 | Name | Description |
 | --- | --- |
 | [ColumnInfo](../../aspose.pdf/tocinfo/columninfo) { get; set; } | Gets or sets column info. |
+| [CopyToOutlines](../../aspose.pdf/tocinfo/copytooutlines) { get; set; } | Gets or sets is TOC copied to outlines. |
 | [FormatArray](../../aspose.pdf/tocinfo/formatarray) { get; set; } | Gets or sets format array for table of contents. |
 | [FormatArrayLength](../../aspose.pdf/tocinfo/formatarraylength) { get; set; } | Gets or sets format array length |
 | [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages) { get; set; } | Gets or sets is count or passed toc pages. |

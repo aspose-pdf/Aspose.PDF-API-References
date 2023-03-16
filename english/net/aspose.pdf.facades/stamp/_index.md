@@ -18,7 +18,7 @@ public sealed class Stamp
 
 | Name | Description |
 | --- | --- |
-| [Stamp](stamp)() | The default constructor. |
+| [Stamp](stamp)() | Constructor for Stamp object. |
 
 ## Properties
 

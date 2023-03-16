@@ -3,7 +3,7 @@ title: TextElement
 second_title: Aspose.PDF for Java API Reference
 description: General text element of document logical structure.
 type: docs
-weight: 371
+weight: 366
 url: /java/com.aspose.pdf/textelement/
 ---
 **Inheritance:**
@@ -17,23 +17,11 @@ General text element of document logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [TextElement(IPdfObject obj)](#TextElement-com.aspose.pdf.engine.data.IPdfObject-) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getText()](#getText--) | Gets the value of text structure element. |
-### TextElement(IPdfObject obj) {#TextElement-com.aspose.pdf.engine.data.IPdfObject-}
-```
-public TextElement(IPdfObject obj)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) |  |
-
 ### getText() {#getText--}
 ```
 public String getText()

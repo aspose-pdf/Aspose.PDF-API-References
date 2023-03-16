@@ -3,7 +3,7 @@ title: Stamp
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class for various kinds of stamps which come as descendants.
 type: docs
-weight: 339
+weight: 335
 url: /java/com.aspose.pdf/stamp/
 ---
 **Inheritance:**
@@ -37,9 +37,9 @@ An abstract class for various kinds of stamps which come as descendants.
 | [getYIndent()](#getYIndent--) | Get vertical stamp coordinate, starting from the bottom. |
 | [setYIndent(double value)](#setYIndent-double-) | Set vertical stamp coordinate, starting from the bottom. |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment of stamp on the page. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets Horizontal alignment of stamp on the page. |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets Horizontal alignment of stamp on the page. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets vertical alignment of stamp on page. |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets vertical alignment of stamp on page. |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets vertical alignment of stamp on page. |
 | [getLeftMargin()](#getLeftMargin--) | Gets left margin of stamp. |
 | [setLeftMargin(double value)](#setLeftMargin-double-) | Sets left margin of stamp. |
 | [getRightMargin()](#getRightMargin--) | Gets right margin of stamp. |
@@ -232,17 +232,17 @@ Set vertical stamp coordinate, starting from the bottom.
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
 Gets horizontal alignment of stamp on the page.
 
 **Returns:**
-int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -251,21 +251,21 @@ Sets Horizontal alignment of stamp on the page.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets vertical alignment of stamp on page.
 
 **Returns:**
-int - VerticalAlignment value
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment value
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignment(int value)
+public void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -274,7 +274,7 @@ Sets vertical alignment of stamp on page.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment value |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment value |
 
 ### getLeftMargin() {#getLeftMargin--}
 ```

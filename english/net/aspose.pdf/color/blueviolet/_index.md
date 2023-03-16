@@ -1,14 +1,14 @@
 ---
 title: BlueViolet
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF8A2BE2.
+description: Gets a system-defined color that has an ARGB value of c FF8A2BE2.
 type: docs
 weight: 120
 url: /net/aspose.pdf/color/blueviolet/
 ---
 ## Color.BlueViolet property
 
-Gets a system-defined color that has an ARGB value of #FF8A2BE2.
+Gets a system-defined color that has an ARGB value of \c \#FF8A2BE2.
 
 ```csharp
 public static Color BlueViolet { get; }

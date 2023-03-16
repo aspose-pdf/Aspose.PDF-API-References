@@ -18,7 +18,6 @@ Class representing B\* operator (fill and stroke path usign even-odd rule).
 | Constructor | Description |
 | --- | --- |
 | [EOFillStroke()](#EOFillStroke--) | Initializes operator. |
-| [EOFillStroke(int index, ICommand command)](#EOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -31,20 +30,6 @@ public EOFillStroke()
 
 
 Initializes operator.
-
-### EOFillStroke(int index, ICommand command) {#EOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public EOFillStroke(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

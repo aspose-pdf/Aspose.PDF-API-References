@@ -17,7 +17,6 @@ Class representing K operator (set CMYK color for stroking operations).
 
 | Constructor | Description |
 | --- | --- |
-| [SetCMYKColorStroke(int index, ICommand command)](#SetCMYKColorStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetCMYKColorStroke(double c, double m, double y, double k)](#SetCMYKColorStroke-double-double-double-double-) | Initializes operator. |
 ## Methods
 
@@ -26,20 +25,6 @@ Class representing K operator (set CMYK color for stroking operations).
 | [getColor()](#getColor--) | Returns the RGB color |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [getRGBColor(double[] cmyk, double[] rgbOut)](#getRGBColor-double---double---) |  |
-### SetCMYKColorStroke(int index, ICommand command) {#SetCMYKColorStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetCMYKColorStroke(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetCMYKColorStroke(double c, double m, double y, double k) {#SetCMYKColorStroke-double-double-double-double-}
 ```
 public SetCMYKColorStroke(double c, double m, double y, double k)

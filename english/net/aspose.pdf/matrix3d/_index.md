@@ -48,7 +48,7 @@ public sealed class Matrix3D
 | override [Equals](../../aspose.pdf/matrix3d/equals)(object) | Compares matrix against other object. |
 | override [GetHashCode](../../aspose.pdf/matrix3d/gethashcode)() | Hash-code for object. |
 | override [ToString](../../aspose.pdf/matrix3d/tostring)() | Returns text representation of the matrix. |
-| static [GetAngle](../../aspose.pdf/matrix3d/getangle)(Rotation) | Transaltes rotation into angle (degrees) |
+| static [GetAngle](../../aspose.pdf/matrix3d/getangle)(Rotation) | Translates rotation into angle (degrees) |
 
 ### See Also
 

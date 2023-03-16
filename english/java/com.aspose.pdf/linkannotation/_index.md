@@ -3,7 +3,7 @@ title: LinkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents either a hypertext link to a destination elsewhere in the document or an action to be performed.
 type: docs
-weight: 203
+weight: 198
 url: /java/com.aspose.pdf/linkannotation/
 ---
 **Inheritance:**
@@ -128,11 +128,11 @@ Set the visual effect to be used when the mouse button is pressed or held down i
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element

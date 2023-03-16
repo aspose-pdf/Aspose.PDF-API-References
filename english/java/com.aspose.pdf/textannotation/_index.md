@@ -3,7 +3,7 @@ title: TextAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text annotation that is a sticky note attached to a point in the PDF document.
 type: docs
-weight: 366
+weight: 361
 url: /java/com.aspose.pdf/textannotation/
 ---
 **Inheritance:**
@@ -140,14 +140,14 @@ Sets the state to which the original annotation should be set.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType value
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType value
 ### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
 public void accept(AnnotationSelector visitor)
@@ -163,14 +163,14 @@ Accepts visitor object to process the annotation.
 
 ### getStateModel() {#getStateModel--}
 ```
-public int getStateModel()
+public AnnotationStateModel getStateModel()
 ```
 
 
 Gets state model
 
 **Returns:**
-int - AnnotationStateModel value
+[AnnotationStateModel](../../com.aspose.pdf/annotationstatemodel) - AnnotationStateModel value
 ### changeAfterResize(Matrix transform) {#changeAfterResize-com.aspose.pdf.Matrix-}
 ```
 public void changeAfterResize(Matrix transform)

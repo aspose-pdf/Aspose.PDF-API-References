@@ -27,16 +27,6 @@ Represents a base class for element in logical structure.
 | [setParentElement(Element parentElement)](#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
 | [appendChild(Element element)](#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-) | Append  /Aspose.Pdf.LogicalStructure.Element  to collection of children. |
 | [toString()](#toString--) | Returns a string that represents the current object. |
-### getTrailer() {#getTrailer--}
-```
-public final ITrailerable getTrailer()
-```
-
-
-Internam method
-
-**Returns:**
-[ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) - Internal element
 ### getTaggedContent() {#getTaggedContent--}
 ```
 public final ITaggedContent getTaggedContent()

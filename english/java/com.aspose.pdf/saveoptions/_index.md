@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: SaveOptions type hold level of abstraction on individual save options
 type: docs
-weight: 322
+weight: 318
 url: /java/com.aspose.pdf/saveoptions/
 ---
 **Inheritance:**

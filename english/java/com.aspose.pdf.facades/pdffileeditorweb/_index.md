@@ -3,7 +3,7 @@ title: PdfFileEditorWeb
 second_title: Aspose.PDF for Java API Reference
 description: Represents PdfFileEditorWeb class
 type: docs
-weight: 40
+weight: 35
 url: /java/com.aspose.pdf.facades/pdffileeditorweb/
 ---
 **Inheritance:**

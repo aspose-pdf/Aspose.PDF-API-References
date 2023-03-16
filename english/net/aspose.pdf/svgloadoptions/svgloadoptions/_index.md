@@ -1,14 +1,14 @@
 ---
 title: SvgLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Creates SvgLoadOptionsaspose.pdf/svgloadoptions object.
 type: docs
 weight: 10
 url: /net/aspose.pdf/svgloadoptions/svgloadoptions/
 ---
 ## SvgLoadOptions constructor
 
-The default constructor.
+Creates [`SvgLoadOptions`](../../svgloadoptions) object.
 
 ```csharp
 public SvgLoadOptions()

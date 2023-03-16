@@ -17,7 +17,6 @@ Represents Table structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [TableElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#TableElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) | constructor for internal usage only |
 ## Methods
 
 | Method | Description |
@@ -28,7 +27,7 @@ Represents Table structure element in logical structure.
 | [getBorder()](#getBorder--) | Gets or sets the table border. |
 | [setBorder(BorderInfo value)](#setBorder-com.aspose.pdf.BorderInfo-) | Gets or sets the table border. |
 | [getAlignment()](#getAlignment--) | Gets or sets the table alignment. |
-| [setAlignment(int value)](#setAlignment-int-) | Gets or sets the table alignment. |
+| [setAlignment(HorizontalAlignment value)](#setAlignment-com.aspose.pdf.HorizontalAlignment-) | Gets or sets the table alignment. |
 | [getCornerStyle()](#getCornerStyle--) | Gets or sets the styles of the border corners |
 | [setCornerStyle(int value)](#setCornerStyle-int-) | Gets or sets the styles of the border corners |
 | [getBroken()](#getBroken--) | Gets or sets table vertical broken; |
@@ -62,20 +61,6 @@ Represents Table structure element in logical structure.
 | [createTHead()](#createTHead--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) and added it to current table. |
 | [createTBody()](#createTBody--) | Creates [TableTHeadElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletheadelement) and added it to current table. |
 | [createTFoot()](#createTFoot--) | Creates [TableTFootElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tabletfootelement) and added it to current table. |
-### TableElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TableElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public TableElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-constructor for internal usage only
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) | TaggedContext instance |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | internal instance |
-
 ### getTable() {#getTable--}
 ```
 public final Table getTable()
@@ -134,17 +119,17 @@ Gets or sets the table border.
 
 ### getAlignment() {#getAlignment--}
 ```
-public final int getAlignment()
+public final HorizontalAlignment getAlignment()
 ```
 
 
 Gets or sets the table alignment.
 
 **Returns:**
-int - HorizontalAlignment element
-### setAlignment(int value) {#setAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment element
+### setAlignment(HorizontalAlignment value) {#setAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public final void setAlignment(int value)
+public final void setAlignment(HorizontalAlignment value)
 ```
 
 
@@ -153,7 +138,7 @@ Gets or sets the table alignment.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment element |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment element |
 
 ### getCornerStyle() {#getCornerStyle--}
 ```

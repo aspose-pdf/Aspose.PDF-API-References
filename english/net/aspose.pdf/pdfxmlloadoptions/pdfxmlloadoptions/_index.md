@@ -1,14 +1,14 @@
 ---
 title: PdfXmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor of PdfXmlLoadOptions class.
 type: docs
 weight: 10
 url: /net/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/
 ---
 ## PdfXmlLoadOptions constructor
 
-The default constructor.
+Constructor of PdfXmlLoadOptions class.
 
 ```csharp
 public PdfXmlLoadOptions()

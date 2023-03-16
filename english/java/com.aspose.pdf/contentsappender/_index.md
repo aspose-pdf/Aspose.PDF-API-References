@@ -3,7 +3,7 @@ title: ContentsAppender
 second_title: Aspose.PDF for Java API Reference
 description: Performs contents modifications in APPEND mode only.
 type: docs
-weight: 76
+weight: 74
 url: /java/com.aspose.pdf/contentsappender/
 ---
 **Inheritance:**

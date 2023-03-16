@@ -3,7 +3,7 @@ title: PositioningMode
 second_title: Aspose.PDF for Java API Reference
 description: Defines positioning mode.
 type: docs
-weight: 55
+weight: 50
 url: /java/com.aspose.pdf.facades/positioningmode/
 ---
 **Inheritance:**
@@ -18,7 +18,7 @@ Defines positioning mode. Possible values include Legacy (backward compatibility
 | Field | Description |
 | --- | --- |
 | [Legacy](#Legacy) | Legacy text positioning |
-| [ModernLineSpacing](#ModernLineSpacing) | Updated line spacing, vertical position calculation is done by the old rules (i.e. |
+| [ModernLineSpacing](#ModernLineSpacing) | Updated line spacing, vertical position calculation is done by the old rules (i.e. text is positioned relative to bottom-left corner of the specified rectangle) |
 | [Current](#Current) | Updated line spacing and vertical position calculation is done based on left-top corner rather than left-bottom. |
 ### Legacy {#Legacy}
 ```

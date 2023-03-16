@@ -3,7 +3,7 @@ title: ColorsOfCMYK
 second_title: Aspose.PDF for Java API Reference
 description: Colors included in the CMYK color model.
 type: docs
-weight: 68
+weight: 66
 url: /java/com.aspose.pdf/colorsofcmyk/
 ---
 **Inheritance:**

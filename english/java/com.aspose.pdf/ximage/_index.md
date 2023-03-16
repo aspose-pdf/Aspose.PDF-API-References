@@ -3,7 +3,7 @@ title: XImage
 second_title: Aspose.PDF for Java API Reference
 description: Class representing image X-Object.
 type: docs
-weight: 413
+weight: 407
 url: /java/com.aspose.pdf/ximage/
 ---
 **Inheritance:**
@@ -17,7 +17,6 @@ Class representing image X-Object.
 
 | Constructor | Description |
 | --- | --- |
-| [XImage(IPdfDataStream image)](#XImage-com.aspose.pdf.engine.data.IPdfDataStream-) | for internal usage only |
 ## Methods
 
 | Method | Description |
@@ -41,7 +40,6 @@ Class representing image X-Object.
 | [save(OutputStream stream, int resolution)](#save-java.io.OutputStream-int-) | Saves image into stream with requested format with specified resolution. |
 | [saveInternal(System.IO.Stream stream, ImageType format, int resolution)](#saveInternal-com.aspose.ms.System.IO.Stream-com.aspose.pdf.ImageType-int-) |  |
 | [save(OutputStream stream, ImageType format, int resolution)](#save-java.io.OutputStream-com.aspose.pdf.ImageType-int-) | Saves image into stream with requested format. |
-| [isImage(IPdfPrimitive primitive)](#isImage-com.aspose.pdf.engine.data.IPdfPrimitive-) | Returns true if the primitive is an image. |
 | [getColorType()](#getColorType--) | Returns color type of image. |
 | [detectColorType(BufferedImage bmp)](#detectColorType-java.awt.image.BufferedImage-) | Returns color type of image. |
 | [isTheSameObject(XImage image)](#isTheSameObject-com.aspose.pdf.XImage-) | Returns true if both images references to the same object. |
@@ -51,19 +49,6 @@ Class representing image X-Object.
 | [getRawBytes()](#getRawBytes--) | Returns raw bytes for the image without decoding. |
 | [toStream()](#toStream--) | Returns the original image stream. |
 | [getMetadata()](#getMetadata--) | Metadata of the image. |
-### XImage(IPdfDataStream image) {#XImage-com.aspose.pdf.engine.data.IPdfDataStream-}
-```
-public XImage(IPdfDataStream image)
-```
-
-
-for internal usage only
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | [IPdfDataStream](../../com.aspose.pdf.engine.data/ipdfdatastream) | internal instance |
-
 ### containsTransparency() {#containsTransparency--}
 ```
 public boolean containsTransparency()
@@ -117,16 +102,6 @@ Replaces image onto stream specified in  image .
 | --- | --- | --- |
 | image | java.io.InputStream | Stream with image data. |
 
-### getEngineImg() {#getEngineImg--}
-```
-public IPdfDataStream getEngineImg()
-```
-
-
-IPdfImage object which decribes image. Internal only
-
-**Returns:**
-[IPdfDataStream](../../com.aspose.pdf.engine.data/ipdfdatastream) - IPdfDataStream
 ### getWidth() {#getWidth--}
 ```
 public int getWidth()
@@ -293,21 +268,6 @@ Saves image into stream with requested format.
 | format | [ImageType](../../com.aspose.pdf/imagetype) | Format which will be used for image enconding. |
 | resolution | int | Image resolution |
 
-### isImage(IPdfPrimitive primitive) {#isImage-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public static boolean isImage(IPdfPrimitive primitive)
-```
-
-
-Returns true if the primitive is an image.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| primitive | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | IPdfPrimitive |
-
-**Returns:**
-boolean - boolean
 ### getColorType() {#getColorType--}
 ```
 public int getColorType()

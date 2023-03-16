@@ -17,16 +17,3 @@ Represents TOCI structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [TOCIElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#TOCIElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### TOCIElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TOCIElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public TOCIElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

@@ -18,7 +18,7 @@ public sealed class PsLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [PsLoadOptions](psloadoptions)() | The default constructor. |
+| [PsLoadOptions](psloadoptions)() | Creates load options for converting PostScript into pdf document with empty base path. |
 
 ## Properties
 

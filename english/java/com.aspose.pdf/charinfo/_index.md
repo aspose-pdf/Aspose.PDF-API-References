@@ -3,7 +3,7 @@ title: CharInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents a character info object.
 type: docs
-weight: 57
+weight: 55
 url: /java/com.aspose.pdf/charinfo/
 ---
 **Inheritance:**

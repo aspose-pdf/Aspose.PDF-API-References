@@ -1,16 +1,23 @@
 ---
 title: CopyTo
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Copies the elements of the collection to an Array starting at a particular Array index.
 type: docs
 weight: 70
 url: /net/aspose.pdf/destinationcollection/copyto/
 ---
 ## DestinationCollection.CopyTo method
 
+Copies the elements of the collection to an Array, starting at a particular Array index.
+
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | KeyValuePair`2[] | The one-dimensional Array that is the destination of the elements copied from collection |
+| arrayIndex | Int32 | The zero-based index in array at which copying begins. |
 
 ### See Also
 

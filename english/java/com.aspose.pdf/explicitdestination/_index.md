@@ -3,7 +3,7 @@ title: ExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents the base class for explicit destinations in PDF document.
 type: docs
-weight: 105
+weight: 102
 url: /java/com.aspose.pdf/explicitdestination/
 ---
 **Inheritance:**
@@ -22,7 +22,6 @@ Represents the base class for explicit destinations in PDF document.
 | --- | --- |
 | [getPage()](#getPage--) | Gets the destination page object |
 | [getPageNumber()](#getPageNumber--) | Gets the destination page number |
-| [createDestination(IPdfArray engineDest)](#createDestination-com.aspose.pdf.engine.data.IPdfArray-) | Creates instance of ExplicitDestination descendant classes. |
 | [createDestination(Page page, int type, double[] values)](#createDestination-com.aspose.pdf.Page-int-double...-) | Creates instances of ExplicitDestination descendant classes. |
 | [createDestination(IDocument doc, int pageNumber, int type, double[] values)](#createDestination-com.aspose.pdf.IDocument-int-int-double...-) | Creates instances of ExplicitDestination descendant classes. |
 | [createDestination(int pageNumber, int type, double[] values)](#createDestination-int-int-double...-) | Creates instances of ExplicitDestination descendant classes. |
@@ -47,21 +46,6 @@ Gets the destination page number
 
 **Returns:**
 int - int value
-### createDestination(IPdfArray engineDest) {#createDestination-com.aspose.pdf.engine.data.IPdfArray-}
-```
-public static ExplicitDestination createDestination(IPdfArray engineDest)
-```
-
-
-Creates instance of ExplicitDestination descendant classes.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| engineDest | [IPdfArray](../../com.aspose.pdf.engine.data/ipdfarray) | Engine destination object. |
-
-**Returns:**
-[ExplicitDestination](../../com.aspose.pdf/explicitdestination) - DOM explicit destination object.
 ### createDestination(Page page, int type, double[] values) {#createDestination-com.aspose.pdf.Page-int-double...-}
 ```
 public static ExplicitDestination createDestination(Page page, int type, double[] values)

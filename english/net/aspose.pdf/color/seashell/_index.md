@@ -1,14 +1,14 @@
 ---
 title: SeaShell
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFF5EE.
+description: Gets a system-defined color that has an ARGB value of c FFFFF5EE.
 type: docs
 weight: 1220
 url: /net/aspose.pdf/color/seashell/
 ---
 ## Color.SeaShell property
 
-Gets a system-defined color that has an ARGB value of #FFFFF5EE.
+Gets a system-defined color that has an ARGB value of \c \#FFFFF5EE.
 
 ```csharp
 public static Color SeaShell { get; }

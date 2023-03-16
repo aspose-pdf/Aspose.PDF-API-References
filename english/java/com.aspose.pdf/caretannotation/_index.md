@@ -3,7 +3,7 @@ title: CaretAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Caret annotation.
 type: docs
-weight: 50
+weight: 48
 url: /java/com.aspose.pdf/caretannotation/
 ---
 **Inheritance:**
@@ -58,14 +58,14 @@ Creates new Caret annotation on the specified page.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
 ### getFrame() {#getFrame--}
 ```
 public Rectangle getFrame()

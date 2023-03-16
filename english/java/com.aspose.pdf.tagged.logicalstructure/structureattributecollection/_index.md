@@ -17,7 +17,6 @@ Represents collection of attributes of structure elements.
 
 | Constructor | Description |
 | --- | --- |
-| [StructureAttributeCollection(IPdfPrimitive entityA, StructureElement structureElement)](#StructureAttributeCollection-com.aspose.pdf.engine.data.IPdfPrimitive-com.aspose.pdf.tagged.logicalstructure.elements.StructureElement-) |  |
 | [StructureAttributeCollection(StructureElement structureElement)](#StructureAttributeCollection-com.aspose.pdf.tagged.logicalstructure.elements.StructureElement-) |  |
 ## Methods
 
@@ -26,18 +25,6 @@ Represents collection of attributes of structure elements.
 | [getEngineAttributeCollection()](#getEngineAttributeCollection--) |  |
 | [getAttributes(AttributeOwnerStandard ownerStandard)](#getAttributes-com.aspose.pdf.tagged.logicalstructure.AttributeOwnerStandard-) | Return [StructureAttributes](../../com.aspose.pdf.tagged.logicalstructure/structureattributes) of structure element by standard attribute owner. |
 | [createAttributes(AttributeOwnerStandard ownerStandard)](#createAttributes-com.aspose.pdf.tagged.logicalstructure.AttributeOwnerStandard-) | Create and return [StructureAttributes](../../com.aspose.pdf.tagged.logicalstructure/structureattributes) of structure element by standard attribute owner. |
-### StructureAttributeCollection(IPdfPrimitive entityA, StructureElement structureElement) {#StructureAttributeCollection-com.aspose.pdf.engine.data.IPdfPrimitive-com.aspose.pdf.tagged.logicalstructure.elements.StructureElement-}
-```
-public StructureAttributeCollection(IPdfPrimitive entityA, StructureElement structureElement)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entityA | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-| structureElement | [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) |  |
-
 ### StructureAttributeCollection(StructureElement structureElement) {#StructureAttributeCollection-com.aspose.pdf.tagged.logicalstructure.elements.StructureElement-}
 ```
 public StructureAttributeCollection(StructureElement structureElement)
@@ -49,16 +36,6 @@ public StructureAttributeCollection(StructureElement structureElement)
 | --- | --- | --- |
 | structureElement | [StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement) |  |
 
-### getEngineAttributeCollection() {#getEngineAttributeCollection--}
-```
-public final IPdfPrimitive getEngineAttributeCollection()
-```
-
-
-
-
-**Returns:**
-[IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive)
 ### getAttributes(AttributeOwnerStandard ownerStandard) {#getAttributes-com.aspose.pdf.tagged.logicalstructure.AttributeOwnerStandard-}
 ```
 public final StructureAttributes getAttributes(AttributeOwnerStandard ownerStandard)

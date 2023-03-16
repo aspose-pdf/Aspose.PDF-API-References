@@ -1,14 +1,14 @@
 ---
 title: Stamp
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Constructor for Stamp object.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/stamp/stamp/
 ---
 ## Stamp constructor
 
-The default constructor.
+Constructor for Stamp object.
 
 ```csharp
 public Stamp()

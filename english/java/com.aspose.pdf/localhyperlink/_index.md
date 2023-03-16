@@ -3,7 +3,7 @@ title: LocalHyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents local hyperlink object.
 type: docs
-weight: 206
+weight: 201
 url: /java/com.aspose.pdf/localhyperlink/
 ---
 **Inheritance:**

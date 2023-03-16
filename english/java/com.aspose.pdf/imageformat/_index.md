@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents image formats.
 type: docs
-weight: 173
+weight: 168
 url: /java/com.aspose.pdf/imageformat/
 ---
 **Inheritance:**
@@ -24,6 +24,9 @@ This enum represents image formats.
 | [Tiff](#Tiff) | TIFF format. |
 | [Emf](#Emf) | EMF format. |
 | [Dicom](#Dicom) | DICOM format. |
+| [MemoryBmp](#MemoryBmp) | MemoryBmp format. |
+| [Wmf](#Wmf) | Wmf format. |
+| [Exif](#Exif) | Exif format. |
 ### Bmp {#Bmp}
 ```
 public static final int Bmp
@@ -79,4 +82,28 @@ public static final int Dicom
 
 
 DICOM format.
+
+### MemoryBmp {#MemoryBmp}
+```
+public static final int MemoryBmp
+```
+
+
+MemoryBmp format.
+
+### Wmf {#Wmf}
+```
+public static final int Wmf
+```
+
+
+Wmf format.
+
+### Exif {#Exif}
+```
+public static final int Exif
+```
+
+
+Exif format.
 

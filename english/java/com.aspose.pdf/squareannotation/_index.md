@@ -3,7 +3,7 @@ title: SquareAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing square annotation.
 type: docs
-weight: 337
+weight: 333
 url: /java/com.aspose.pdf/squareannotation/
 ---
 **Inheritance:**
@@ -67,11 +67,11 @@ Accepts visitor to process annotation.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element

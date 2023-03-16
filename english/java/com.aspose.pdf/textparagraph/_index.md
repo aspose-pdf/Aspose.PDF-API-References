@@ -3,7 +3,7 @@ title: TextParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents text paragraphs as multiline text object.
 type: docs
-weight: 384
+weight: 379
 url: /java/com.aspose.pdf/textparagraph/
 ---
 **Inheritance:**
@@ -50,7 +50,7 @@ The example demonstrates how to create text paragraph object and append it to th
 | --- | --- |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets background color for the text paragraph. |
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets vertical alignment for the text inside paragrph's  Rectangle . |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | Sets vertical alignment for the text inside paragrph's  Rectangle . |
+| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets vertical alignment for the text inside paragrph's  Rectangle . |
 | [getSubsequentLinesIndent()](#getSubsequentLinesIndent--) | Gets subsequent lines indent value. |
 | [setSubsequentLinesIndent(float value)](#setSubsequentLinesIndent-float-) | Sets subsequent lines indent value. |
 | [getFirstLineIndent()](#getFirstLineIndent--) | Gets or sets subsequent lines indent value. |
@@ -58,7 +58,7 @@ The example demonstrates how to create text paragraph object and append it to th
 | [isJustify()](#isJustify--) | Gets value whether text is justified. |
 | [setJustify(boolean value)](#setJustify-boolean-) | Sets value whether text is justified. |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment for the text inside paragrph's Rectangle. |
-| [setHorizontalAlignment(int value)](#setHorizontalAlignment-int-) | Sets horizontal alignment for the text inside paragrph's Rectangle. |
+| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets horizontal alignment for the text inside paragrph's Rectangle. |
 | [getHyphenSymbol()](#getHyphenSymbol--) | Gets hyphen symbol that is used in hyphenation process. |
 | [setHyphenSymbol(String value)](#setHyphenSymbol-java.lang.String-) | Sets hyphen symbol that is used in hyphenation process. |
 | [getFormattingOptions()](#getFormattingOptions--) | Gets formatting options. |
@@ -107,17 +107,17 @@ Sets background color for the text paragraph.
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
 ```
-public int getVerticalAlignment()
+public VerticalAlignment getVerticalAlignment()
 ```
 
 
 Gets vertical alignment for the text inside paragrph's  Rectangle .
 
 **Returns:**
-int - VerticalAlignment value
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
+[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment value
+### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 ```
-public void setVerticalAlignment(int value)
+public void setVerticalAlignment(VerticalAlignment value)
 ```
 
 
@@ -128,7 +128,7 @@ VerticalAlignment.None is equal to VerticalAlignment.Bottom.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | VerticalAlignment value |
+| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment value |
 
 ### getSubsequentLinesIndent() {#getSubsequentLinesIndent--}
 ```
@@ -201,7 +201,7 @@ Sets value whether text is justified.
 
 ### getHorizontalAlignment() {#getHorizontalAlignment--}
 ```
-public int getHorizontalAlignment()
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
 
@@ -210,10 +210,10 @@ Gets horizontal alignment for the text inside paragrph's Rectangle.
 HorizontalAlignment.None is equal to HorizontalAlignment.Left.
 
 **Returns:**
-int - HorizontalAlignment value
-### setHorizontalAlignment(int value) {#setHorizontalAlignment-int-}
+[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
+### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
 ```
-public void setHorizontalAlignment(int value)
+public void setHorizontalAlignment(HorizontalAlignment value)
 ```
 
 
@@ -224,7 +224,7 @@ HorizontalAlignment.None is equal to HorizontalAlignment.Left.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | HorizontalAlignment value |
+| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
 
 ### getHyphenSymbol() {#getHyphenSymbol--}
 ```

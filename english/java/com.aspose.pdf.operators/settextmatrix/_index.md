@@ -17,7 +17,6 @@ Class representig Tm operator (set text matrix).
 
 | Constructor | Description |
 | --- | --- |
-| [SetTextMatrix(int index, ICommand command)](#SetTextMatrix-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
 | [SetTextMatrix(double a, double b, double c, double d, double e, double f)](#SetTextMatrix-double-double-double-double-double-double-) | Initializes operator. |
 | [SetTextMatrix(Matrix m)](#SetTextMatrix-com.aspose.pdf.Matrix-) | Initializes operator by matrix. |
 ## Methods
@@ -28,20 +27,6 @@ Class representig Tm operator (set text matrix).
 | [setMatrix(Matrix value)](#setMatrix-com.aspose.pdf.Matrix-) | Matrix argument of the operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-### SetTextMatrix(int index, ICommand command) {#SetTextMatrix-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetTextMatrix(int index, ICommand command)
-```
-
-
-Initializes operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetTextMatrix(double a, double b, double c, double d, double e, double f) {#SetTextMatrix-double-double-double-double-double-double-}
 ```
 public SetTextMatrix(double a, double b, double c, double d, double e, double f)

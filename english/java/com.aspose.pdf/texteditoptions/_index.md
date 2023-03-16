@@ -3,7 +3,7 @@ title: TextEditOptions
 second_title: Aspose.PDF for Java API Reference
 description: Descubes options of text edit operations.
 type: docs
-weight: 370
+weight: 365
 url: /java/com.aspose.pdf/texteditoptions/
 ---
 **Inheritance:**
@@ -18,8 +18,10 @@ Descubes options of text edit operations.
 | Constructor | Description |
 | --- | --- |
 | [TextEditOptions()](#TextEditOptions--) | Initializes new instance of the  TextEditOptions  object with default options. |
-| [TextEditOptions(int noCharacterBehavior)](#TextEditOptions-int-) | Initializes new instance of the  TextEditOptions  object for the specified no-character behavior mode. |
-| [TextEditOptions(int option, Class type)](#TextEditOptions-int-java.lang.Class-) | Initializes new instance of the  TextEditOptions  object for the specified no-character behavior mode. |
+| [TextEditOptions(TextEditOptions.NoCharacterAction noCharacterBehavior)](#TextEditOptions-com.aspose.pdf.TextEditOptions.NoCharacterAction-) | Initializes new instance of the  TextEditOptions  object for the specified no-character behavior mode. |
+| [TextEditOptions(TextEditOptions.TextRearrangement option)](#TextEditOptions-com.aspose.pdf.TextEditOptions.TextRearrangement-) | Initializes new instance of the  TextEditOptions  object for the specified FontReplace behavior mode. |
+| [TextEditOptions(TextEditOptions.FontReplace option)](#TextEditOptions-com.aspose.pdf.TextEditOptions.FontReplace-) | Initializes new instance of the  TextEditOptions  object for the specified FontReplace behavior mode. |
+| [TextEditOptions(TextEditOptions.LanguageTransformation option)](#TextEditOptions-com.aspose.pdf.TextEditOptions.LanguageTransformation-) | Initializes new instance of the  TextEditOptions  object for the specified LanguageTransformation behavior mode. |
 | [TextEditOptions(boolean allowLanguageTransformation)](#TextEditOptions-boolean-) | Initializes new instance of the  TextEditOptions  object for the specified language transformation permission. |
 ## Methods
 
@@ -28,15 +30,15 @@ Descubes options of text edit operations.
 | [getReplacementFont()](#getReplacementFont--) | Gets or sets font used for replacing if user font does not contain required character |
 | [setReplacementFont(Font value)](#setReplacementFont-com.aspose.pdf.Font-) | Gets or sets font used for replacing if user font does not contain required character |
 | [getNoCharacterBehavior()](#getNoCharacterBehavior--) | Gets mode that defines behavior in case fonts don't contain requested characters. |
-| [setNoCharacterBehavior(int value)](#setNoCharacterBehavior-int-) | Sets mode that defines behavior in case fonts don't contain requested characters. |
+| [setNoCharacterBehavior(TextEditOptions.NoCharacterAction value)](#setNoCharacterBehavior-com.aspose.pdf.TextEditOptions.NoCharacterAction-) | Sets mode that defines behavior in case fonts don't contain requested characters. |
 | [getFontReplaceBehavior()](#getFontReplaceBehavior--) | Gets mode that defines behavior for fonts replacement scenarios. |
-| [setFontReplaceBehavior(int value)](#setFontReplaceBehavior-int-) | Sets mode that defines behavior for fonts replacement scenarios. |
+| [setFontReplaceBehavior(TextEditOptions.FontReplace value)](#setFontReplaceBehavior-com.aspose.pdf.TextEditOptions.FontReplace-) | Sets mode that defines behavior for fonts replacement scenarios. |
 | [getAllowLanguageTransformation()](#getAllowLanguageTransformation--) | Gets value that permits usage of language transformation during adding or editing of text. |
 | [setAllowLanguageTransformation(boolean value)](#setAllowLanguageTransformation-boolean-) | Sets value that permits usage of language transformation during adding or editing of text. |
 | [getLanguageTransformationBehavior()](#getLanguageTransformationBehavior--) | Gets mode that defines behavior for language transformation scenarios. |
-| [setLanguageTransformationBehavior(int value)](#setLanguageTransformationBehavior-int-) | Sets mode that defines behavior for language transformation scenarios. |
+| [setLanguageTransformationBehavior(TextEditOptions.LanguageTransformation value)](#setLanguageTransformationBehavior-com.aspose.pdf.TextEditOptions.LanguageTransformation-) | Sets mode that defines behavior for language transformation scenarios. |
 | [getClippingPathsProcessing()](#getClippingPathsProcessing--) | Gets mode for processing clipping path of the edited text. |
-| [setClippingPathsProcessing(int value)](#setClippingPathsProcessing-int-) | Gets mode for processing clipping path of the edited text. |
+| [setClippingPathsProcessing(TextEditOptions.ClippingPathsProcessingMode value)](#setClippingPathsProcessing-com.aspose.pdf.TextEditOptions.ClippingPathsProcessingMode-) | Gets mode for processing clipping path of the edited text. |
 | [getToAttemptGetUnderlineFromSource()](#getToAttemptGetUnderlineFromSource--) | Gets or sets value that permits searching for text underlining on the page of source document. |
 | [setToAttemptGetUnderlineFromSource(boolean value)](#setToAttemptGetUnderlineFromSource-boolean-) | Gets or sets value that permits searching for text underlining on the page of source document. |
 ### TextEditOptions() {#TextEditOptions--}
@@ -47,32 +49,57 @@ public TextEditOptions()
 
 Initializes new instance of the  TextEditOptions  object with default options. NoCharacterAction.UseStandardFont LanguageTransformation.Default
 
-### TextEditOptions(int noCharacterBehavior) {#TextEditOptions-int-}
+### TextEditOptions(TextEditOptions.NoCharacterAction noCharacterBehavior) {#TextEditOptions-com.aspose.pdf.TextEditOptions.NoCharacterAction-}
 ```
-public TextEditOptions(int noCharacterBehavior)
+public TextEditOptions(TextEditOptions.NoCharacterAction noCharacterBehavior)
 ```
 
 
-Initializes new instance of the  TextEditOptions  object for the specified no-character behavior mode. Please init fontReplaceBehavior by using setFontReplaceBehavior(int)
+Initializes new instance of the  TextEditOptions  object for the specified no-character behavior mode.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| noCharacterBehavior | int | No-character behavior mode object. |
+| noCharacterBehavior | [NoCharacterAction](../../com.aspose.pdf/nocharacteraction) | No-character behavior mode object. |
 
-### TextEditOptions(int option, Class type) {#TextEditOptions-int-java.lang.Class-}
+### TextEditOptions(TextEditOptions.TextRearrangement option) {#TextEditOptions-com.aspose.pdf.TextEditOptions.TextRearrangement-}
 ```
-public TextEditOptions(int option, Class type)
+public TextEditOptions(TextEditOptions.TextRearrangement option)
 ```
 
 
-Initializes new instance of the  TextEditOptions  object for the specified no-character behavior mode. Please init fontReplaceBehavior by using setFontReplaceBehavior(int)
+Initializes new instance of the  TextEditOptions  object for the specified FontReplace behavior mode.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| option | int | value for one from the following classes: NoCharacterAction, LanguageTransformation, FontReplace, |
-| type | java.lang.Class | class of the option |
+| option | com.aspose.pdf.TextEditOptions.TextRearrangement | value for FontReplace |
+
+### TextEditOptions(TextEditOptions.FontReplace option) {#TextEditOptions-com.aspose.pdf.TextEditOptions.FontReplace-}
+```
+public TextEditOptions(TextEditOptions.FontReplace option)
+```
+
+
+Initializes new instance of the  TextEditOptions  object for the specified FontReplace behavior mode.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| option | [FontReplace](../../com.aspose.pdf/fontreplace) | FontReplace |
+
+### TextEditOptions(TextEditOptions.LanguageTransformation option) {#TextEditOptions-com.aspose.pdf.TextEditOptions.LanguageTransformation-}
+```
+public TextEditOptions(TextEditOptions.LanguageTransformation option)
+```
+
+
+Initializes new instance of the  TextEditOptions  object for the specified LanguageTransformation behavior mode.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| option | [LanguageTransformation](../../com.aspose.pdf/languagetransformation) | LanguageTransformation |
 
 ### TextEditOptions(boolean allowLanguageTransformation) {#TextEditOptions-boolean-}
 ```
@@ -112,17 +139,17 @@ Gets or sets font used for replacing if user font does not contain required char
 
 ### getNoCharacterBehavior() {#getNoCharacterBehavior--}
 ```
-public int getNoCharacterBehavior()
+public TextEditOptions.NoCharacterAction getNoCharacterBehavior()
 ```
 
 
 Gets mode that defines behavior in case fonts don't contain requested characters.
 
 **Returns:**
-int - NoCharacterAction value
-### setNoCharacterBehavior(int value) {#setNoCharacterBehavior-int-}
+[NoCharacterAction](../../com.aspose.pdf/nocharacteraction) - NoCharacterAction value
+### setNoCharacterBehavior(TextEditOptions.NoCharacterAction value) {#setNoCharacterBehavior-com.aspose.pdf.TextEditOptions.NoCharacterAction-}
 ```
-public void setNoCharacterBehavior(int value)
+public void setNoCharacterBehavior(TextEditOptions.NoCharacterAction value)
 ```
 
 
@@ -131,21 +158,21 @@ Sets mode that defines behavior in case fonts don't contain requested characters
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | NoCharacterAction value |
+| value | [NoCharacterAction](../../com.aspose.pdf/nocharacteraction) | NoCharacterAction value |
 
 ### getFontReplaceBehavior() {#getFontReplaceBehavior--}
 ```
-public int getFontReplaceBehavior()
+public TextEditOptions.FontReplace getFontReplaceBehavior()
 ```
 
 
 Gets mode that defines behavior for fonts replacement scenarios.
 
 **Returns:**
-int - FontReplace value
-### setFontReplaceBehavior(int value) {#setFontReplaceBehavior-int-}
+[FontReplace](../../com.aspose.pdf/fontreplace) - FontReplace value
+### setFontReplaceBehavior(TextEditOptions.FontReplace value) {#setFontReplaceBehavior-com.aspose.pdf.TextEditOptions.FontReplace-}
 ```
-public void setFontReplaceBehavior(int value)
+public void setFontReplaceBehavior(TextEditOptions.FontReplace value)
 ```
 
 
@@ -154,7 +181,7 @@ Sets mode that defines behavior for fonts replacement scenarios.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | FontReplace value |
+| value | [FontReplace](../../com.aspose.pdf/fontreplace) | FontReplace value |
 
 ### getAllowLanguageTransformation() {#getAllowLanguageTransformation--}
 ```
@@ -181,17 +208,17 @@ Sets value that permits usage of language transformation during adding or editin
 
 ### getLanguageTransformationBehavior() {#getLanguageTransformationBehavior--}
 ```
-public int getLanguageTransformationBehavior()
+public TextEditOptions.LanguageTransformation getLanguageTransformationBehavior()
 ```
 
 
 Gets mode that defines behavior for language transformation scenarios.
 
 **Returns:**
-int - LanguageTransformation value
-### setLanguageTransformationBehavior(int value) {#setLanguageTransformationBehavior-int-}
+[LanguageTransformation](../../com.aspose.pdf/languagetransformation) - LanguageTransformation value
+### setLanguageTransformationBehavior(TextEditOptions.LanguageTransformation value) {#setLanguageTransformationBehavior-com.aspose.pdf.TextEditOptions.LanguageTransformation-}
 ```
-public void setLanguageTransformationBehavior(int value)
+public void setLanguageTransformationBehavior(TextEditOptions.LanguageTransformation value)
 ```
 
 
@@ -200,21 +227,21 @@ Sets mode that defines behavior for language transformation scenarios.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | LanguageTransformation value |
+| value | [LanguageTransformation](../../com.aspose.pdf/languagetransformation) | LanguageTransformation value |
 
 ### getClippingPathsProcessing() {#getClippingPathsProcessing--}
 ```
-public final int getClippingPathsProcessing()
+public final TextEditOptions.ClippingPathsProcessingMode getClippingPathsProcessing()
 ```
 
 
 Gets mode for processing clipping path of the edited text.
 
 **Returns:**
-int - ClippingPathsProcessingMode element
-### setClippingPathsProcessing(int value) {#setClippingPathsProcessing-int-}
+[ClippingPathsProcessingMode](../../com.aspose.pdf/clippingpathsprocessingmode) - ClippingPathsProcessingMode element
+### setClippingPathsProcessing(TextEditOptions.ClippingPathsProcessingMode value) {#setClippingPathsProcessing-com.aspose.pdf.TextEditOptions.ClippingPathsProcessingMode-}
 ```
-public final void setClippingPathsProcessing(int value)
+public final void setClippingPathsProcessing(TextEditOptions.ClippingPathsProcessingMode value)
 ```
 
 
@@ -223,7 +250,7 @@ Gets mode for processing clipping path of the edited text.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | ClippingPathsProcessingMode element |
+| value | [ClippingPathsProcessingMode](../../com.aspose.pdf/clippingpathsprocessingmode) | ClippingPathsProcessingMode element |
 
 ### getToAttemptGetUnderlineFromSource() {#getToAttemptGetUnderlineFromSource--}
 ```

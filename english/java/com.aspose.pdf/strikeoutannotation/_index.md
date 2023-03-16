@@ -3,7 +3,7 @@ title: StrikeOutAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a strikeout annotation that appears as a strikeout in the text of the document.
 type: docs
-weight: 343
+weight: 339
 url: /java/com.aspose.pdf/strikeoutannotation/
 ---
 **Inheritance:**
@@ -53,11 +53,11 @@ Accepts visitor object to process the annotation.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element

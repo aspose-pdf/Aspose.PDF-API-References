@@ -17,17 +17,3 @@ Represents a base class for grouping structure elements in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [GroupingElement(TaggedContext taggedContext, StructureTypeStandard structureType, IPdfPrimitive pdfEngineEntity)](#GroupingElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.tagged.logicalstructure.StructureTypeStandard-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### GroupingElement(TaggedContext taggedContext, StructureTypeStandard structureType, IPdfPrimitive pdfEngineEntity) {#GroupingElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.tagged.logicalstructure.StructureTypeStandard-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public GroupingElement(TaggedContext taggedContext, StructureTypeStandard structureType, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| structureType | [StructureTypeStandard](../../com.aspose.pdf.tagged.logicalstructure/structuretypestandard) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

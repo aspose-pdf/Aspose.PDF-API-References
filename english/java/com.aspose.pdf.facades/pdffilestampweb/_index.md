@@ -3,7 +3,7 @@ title: PdfFileStampWeb
 second_title: Aspose.PDF for Java API Reference
 description: Class for adding stamps watermark or background to PDF files.
 type: docs
-weight: 47
+weight: 42
 url: /java/com.aspose.pdf.facades/pdffilestampweb/
 ---
 **Inheritance:**

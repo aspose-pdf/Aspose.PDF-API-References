@@ -3,7 +3,7 @@ title: NamedAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents named actions that PDF viewer applications are expected to support.
 type: docs
-weight: 228
+weight: 223
 url: /java/com.aspose.pdf/namedaction/
 ---
 **Inheritance:**

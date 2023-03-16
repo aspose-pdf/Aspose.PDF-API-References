@@ -18,7 +18,7 @@ public sealed class RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [RenderingOptions](renderingoptions)() | The default constructor. |
+| [RenderingOptions](renderingoptions)() | Initializes new instance of the [`RenderingOptions`](../renderingoptions) object. |
 
 ## Properties
 
@@ -33,7 +33,6 @@ public sealed class RenderingOptions
 | [MaxFontsCacheSize](../../aspose.pdf/renderingoptions/maxfontscachesize) { get; set; } | Maximum count of fonts in fonts cache. Default value is 10. |
 | [MaxSymbolsCacheSize](../../aspose.pdf/renderingoptions/maxsymbolscachesize) { get; set; } | Maximum count of symbols in symbol cache. Default value is 100. |
 | [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } | Gets or sets optimize dimensions mode. |
-| [ScaleImagesToFitPageWidth](../../aspose.pdf/renderingoptions/scaleimagestofitpagewidth) { get; set; } | Gets or sets a values used to scale all images on the page to fit page's width. |
 | [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } | Gets or sets a mode where system fonts are rendered natively. |
 | [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } | Usage of this flag turn on font hinting mechanism. Font hinting is the use of mathematical instructions to adjust the display of an outline font. In some cases turning this flag on may solve problems with text legibility. At current moment usage of this flag could give effect only for TTF fonts, if these fonts are used in source document. |
 | [UseNewImagingEngine](../../aspose.pdf/renderingoptions/usenewimagingengine) { get; set; } | Gets or sets a flag determines whether new imaging engine is used or not. |

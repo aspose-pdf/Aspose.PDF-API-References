@@ -3,7 +3,7 @@ title: BarcodeField
 second_title: Aspose.PDF for Java API Reference
 description: Class represents barcode field.
 type: docs
-weight: 32
+weight: 30
 url: /java/com.aspose.pdf/barcodefield/
 ---
 **Inheritance:**

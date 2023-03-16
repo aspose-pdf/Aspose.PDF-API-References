@@ -3,7 +3,7 @@ title: ImageStamp
 second_title: Aspose.PDF for Java API Reference
 description: Reresents graphic stamp.
 type: docs
-weight: 177
+weight: 172
 url: /java/com.aspose.pdf/imagestamp/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: IColorSpaceConversionStrategy
 second_title: Aspose.PDF for Java API Reference
 description: Interface for color space conversion strategies.
 type: docs
-weight: 436
+weight: 430
 url: /java/com.aspose.pdf/icolorspaceconversionstrategy/
 ---```
 public interface IColorSpaceConversionStrategy

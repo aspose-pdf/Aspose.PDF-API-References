@@ -3,7 +3,7 @@ title: DataType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates field types definitions.
 type: docs
-weight: 17
+weight: 16
 url: /java/com.aspose.pdf.facades/datatype/
 ---
 **Inheritance:**

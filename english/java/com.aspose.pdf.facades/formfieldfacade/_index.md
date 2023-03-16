@@ -3,7 +3,7 @@ title: FormFieldFacade
 second_title: Aspose.PDF for Java API Reference
 description: Class for representing field properties.
 type: docs
-weight: 28
+weight: 25
 url: /java/com.aspose.pdf.facades/formfieldfacade/
 ---
 **Inheritance:**
@@ -59,7 +59,7 @@ Class for representing field properties.
 | [getBorderWidth()](#getBorderWidth--) | Get width of a field border. |
 | [setBorderWidth(float value)](#setBorderWidth-float-) | Set width of a field border. |
 | [getFont()](#getFont--) | Gets the font style type of a field text. |
-| [setFont(int value)](#setFont-int-) | Sets the font style type of a field text. |
+| [setFont(FontStyle value)](#setFont-com.aspose.pdf.facades.FontStyle-) | Sets the font style type of a field text. |
 | [getCustomFont()](#getCustomFont--) | Gets the name of the font when this is non-standart (other then 14 standard fonts). |
 | [setCustomFont(String value)](#setCustomFont-java.lang.String-) | Sets the name of the font when this is non-standart (other then 14 standard fonts). |
 | [getFontSize()](#getFontSize--) | Gets the size of a field text. |
@@ -67,7 +67,6 @@ Class for representing field properties.
 | [getTextColor()](#getTextColor--) | Get the color of the field text. |
 | [setTextColor(Color value)](#setTextColor-java.awt.Color-) | Set the color of the field text. |
 | [getTextEncoding()](#getTextEncoding--) | Get the text encoding type of the field text. |
-| [setTextEncoding(int value)](#setTextEncoding-int-) | Set the [EncodingType](../../com.aspose.pdf.engine.commondata.text.encoding/encodingtype) text encoding type of the field text. |
 | [getAlignment()](#getAlignment--) | Get the alignment of a field text, default is left alignment. |
 | [setAlignment(int value)](#setAlignment-int-) | Set the alignment of a field text, default is left alignment. |
 | [getRotation()](#getRotation--) | Get the rotation of a field text. |
@@ -376,17 +375,17 @@ Set width of a field border.
 
 ### getFont() {#getFont--}
 ```
-public int getFont()
+public FontStyle getFont()
 ```
 
 
 Gets the font style type of a field text.
 
 **Returns:**
-int - FontStyle element
-### setFont(int value) {#setFont-int-}
+[FontStyle](../../com.aspose.pdf.facades/fontstyle) - FontStyle element
+### setFont(FontStyle value) {#setFont-com.aspose.pdf.facades.FontStyle-}
 ```
-public void setFont(int value)
+public void setFont(FontStyle value)
 ```
 
 
@@ -395,7 +394,7 @@ Sets the font style type of a field text.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | FontStyle |
+| value | [FontStyle](../../com.aspose.pdf.facades/fontstyle) | FontStyle |
 
 ### getCustomFont() {#getCustomFont--}
 ```
@@ -476,19 +475,6 @@ Get the text encoding type of the field text.
 
 **Returns:**
 int - EncodingType element
-### setTextEncoding(int value) {#setTextEncoding-int-}
-```
-public void setTextEncoding(int value)
-```
-
-
-Set the [EncodingType](../../com.aspose.pdf.engine.commondata.text.encoding/encodingtype) text encoding type of the field text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | EncodingType element |
-
 ### getAlignment() {#getAlignment--}
 ```
 public int getAlignment()

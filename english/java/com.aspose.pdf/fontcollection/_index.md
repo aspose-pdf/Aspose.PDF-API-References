@@ -3,7 +3,7 @@ title: FontCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents font collection.
 type: docs
-weight: 135
+weight: 132
 url: /java/com.aspose.pdf/fontcollection/
 ---
 **Inheritance:**
@@ -55,7 +55,6 @@ Font collections represented by  FontCollection  class are used in several scena
 | [get_Item(String name)](#get-Item-java.lang.String-) | Gets font from the collection by font name. |
 | [contains(String name)](#contains-java.lang.String-) | Checks if font exists in font collection. |
 | [getHash()](#getHash--) |  |
-| [add(String resName, IPdfObject newFont)](#add-java.lang.String-com.aspose.pdf.engine.data.IPdfObject-) | Add new font to font collection. |
 | [add(String resName, String baseFontName)](#add-java.lang.String-java.lang.String-) | Adds to font resources new font entry with specified base font name. |
 | [clear_Rename_Namesake()](#clear-Rename-Namesake--) | Clears all items from the collection. |
 | [contains(Font item)](#contains-com.aspose.pdf.Font-) | Determines whether the collection contains a specific value. |
@@ -206,30 +205,6 @@ Checks if font exists in font collection.
 
 **Returns:**
 boolean - True in case collection contains the font with specified name.
-### getHash() {#getHash--}
-```
-public HashDictionary<String,Font> getHash()
-```
-
-
-
-
-**Returns:**
-[HashDictionary](../../com.aspose.pdf.engine.collections/hashdictionary)
-### add(String resName, IPdfObject newFont) {#add-java.lang.String-com.aspose.pdf.engine.data.IPdfObject-}
-```
-public void add(String resName, IPdfObject newFont)
-```
-
-
-Add new font to font collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resName | java.lang.String | String object |
-| newFont | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) | IPdfObject object |
-
 ### add(String resName, String baseFontName) {#add-java.lang.String-java.lang.String-}
 ```
 public void add(String resName, String baseFontName)

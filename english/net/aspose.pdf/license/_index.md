@@ -18,7 +18,7 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [License](license)() | The default constructor. |
+| [License](license)() | Initializes a new instance of this class. |
 
 ## Methods
 

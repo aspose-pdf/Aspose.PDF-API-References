@@ -17,7 +17,6 @@ Represents text processing context
 
 | Method | Description |
 | --- | --- |
-| [getInstance(IContext context)](#getInstance-com.aspose.pdf.engine.data.IContext-) | get Instance |
 | [beginMassChanges()](#beginMassChanges--) | begin Mass Changes |
 | [endMassChanges()](#endMassChanges--) | end Mass Changes |
 | [isMassOperation()](#isMassOperation--) | is Mass Operation |
@@ -28,21 +27,6 @@ Represents text processing context
 | [getMcId()](#getMcId--) |  |
 | [setMcId(int value)](#setMcId-int-) |  |
 | [initializeMcProperties()](#initializeMcProperties--) |  |
-### getInstance(IContext context) {#getInstance-com.aspose.pdf.engine.data.IContext-}
-```
-public static TextProcessingContext getInstance(IContext context)
-```
-
-
-get Instance
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| context | [IContext](../../com.aspose.pdf.engine.data/icontext) | IContext object |
-
-**Returns:**
-[TextProcessingContext](../../com.aspose.pdf.text/textprocessingcontext) - TextProcessingContext object
 ### beginMassChanges() {#beginMassChanges--}
 ```
 public void beginMassChanges()

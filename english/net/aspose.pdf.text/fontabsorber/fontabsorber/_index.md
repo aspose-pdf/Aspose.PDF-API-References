@@ -1,14 +1,14 @@
 ---
 title: FontAbsorber
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the FontAbsorberaspose.pdf.text/fontabsorber that performs search for fonts of the document.
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/fontabsorber/fontabsorber/
 ---
 ## FontAbsorber constructor
 
-The default constructor.
+Initializes a new instance of the [`FontAbsorber`](../../fontabsorber) that performs search for fonts of the document.
 
 ```csharp
 public FontAbsorber()

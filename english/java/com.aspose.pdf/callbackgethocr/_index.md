@@ -26,7 +26,7 @@ The call back procedure for hocr recognize.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| img | java.awt.image.BufferedImage | The hocr image. |
+| img | java.awt.image.BufferedImage | The hocr image wrapper. |
 
 **Returns:**
-java.lang.String - The hocr text
+java.lang.String - The hocr text.

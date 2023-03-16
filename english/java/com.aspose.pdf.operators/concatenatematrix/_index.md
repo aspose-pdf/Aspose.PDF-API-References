@@ -17,7 +17,6 @@ Class representing cm operator (concatenate matrix to current transformation mat
 
 | Constructor | Description |
 | --- | --- |
-| [ConcatenateMatrix(int index, ICommand command)](#ConcatenateMatrix-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [ConcatenateMatrix(double a, double b, double c, double d, double e, double f)](#ConcatenateMatrix-double-double-double-double-double-double-) | Constructor for operator class. |
 | [ConcatenateMatrix(Matrix m)](#ConcatenateMatrix-com.aspose.pdf.Matrix-) | Initializes operator by matrix. |
 ## Methods
@@ -28,22 +27,7 @@ Class representing cm operator (concatenate matrix to current transformation mat
 | [setMatrix(Matrix value)](#setMatrix-com.aspose.pdf.Matrix-) | Matrix argument of the operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
-| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [toCommand()](#toCommand--) |  |
-### ConcatenateMatrix(int index, ICommand command) {#ConcatenateMatrix-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public ConcatenateMatrix(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### ConcatenateMatrix(double a, double b, double c, double d, double e, double f) {#ConcatenateMatrix-double-double-double-double-double-double-}
 ```
 public ConcatenateMatrix(double a, double b, double c, double d, double e, double f)
@@ -121,19 +105,6 @@ Returns text representation of operator.
 
 **Returns:**
 java.lang.String - Text representation of representation
-### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public void fromCommand(ICommand command)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
 ### toCommand() {#toCommand--}
 ```
 public ICommand toCommand()
@@ -143,4 +114,3 @@ public ICommand toCommand()
 
 
 **Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)

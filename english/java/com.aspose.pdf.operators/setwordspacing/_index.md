@@ -17,7 +17,6 @@ Class representing Tw operator (set word spacing).
 
 | Constructor | Description |
 | --- | --- |
-| [SetWordSpacing(int index, ICommand command)](#SetWordSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [SetWordSpacing(double wordSpacing)](#SetWordSpacing-double-) | Initializes operator. |
 ## Methods
 
@@ -26,18 +25,6 @@ Class representing Tw operator (set word spacing).
 | [getWordSpacing()](#getWordSpacing--) | Gets the word spacing. |
 | [setWordSpacing(double value)](#setWordSpacing-double-) | Sets the word spacing. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### SetWordSpacing(int index, ICommand command) {#SetWordSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetWordSpacing(int index, ICommand command)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int |  |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
 ### SetWordSpacing(double wordSpacing) {#SetWordSpacing-double-}
 ```
 public SetWordSpacing(double wordSpacing)

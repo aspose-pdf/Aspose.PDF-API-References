@@ -17,7 +17,6 @@ Class representing M operator (set miter limit).
 
 | Constructor | Description |
 | --- | --- |
-| [SetMiterLimit(int index, ICommand command)](#SetMiterLimit-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetMiterLimit(double miterLimit)](#SetMiterLimit-double-) | Initializes operator. |
 ## Methods
 
@@ -26,20 +25,6 @@ Class representing M operator (set miter limit).
 | [getMiterLimit()](#getMiterLimit--) | Gets the miter limit. |
 | [setMiterLimit(double value)](#setMiterLimit-double-) | Sets the miter limit. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### SetMiterLimit(int index, ICommand command) {#SetMiterLimit-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetMiterLimit(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetMiterLimit(double miterLimit) {#SetMiterLimit-double-}
 ```
 public SetMiterLimit(double miterLimit)

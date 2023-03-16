@@ -3,7 +3,7 @@ title: StampInfo
 second_title: Aspose.PDF for Java API Reference
 description: Class representing stamp information.
 type: docs
-weight: 60
+weight: 55
 url: /java/com.aspose.pdf.facades/stampinfo/
 ---
 **Inheritance:**
@@ -48,14 +48,14 @@ Gets stamp index on the page.
 int - int value
 ### getStampType() {#getStampType--}
 ```
-public int getStampType()
+public StampType getStampType()
 ```
 
 
 Gets stamp type (image / form).
 
 **Returns:**
-int - StampType element
+[StampType](../../com.aspose.pdf.facades/stamptype) - StampType element
 ### getRectangle() {#getRectangle--}
 ```
 public Rectangle getRectangle()

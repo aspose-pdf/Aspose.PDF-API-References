@@ -3,7 +3,7 @@ title: ImageFileType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the image file types.
 type: docs
-weight: 171
+weight: 166
 url: /java/com.aspose.pdf/imagefiletype/
 ---
 **Inheritance:**

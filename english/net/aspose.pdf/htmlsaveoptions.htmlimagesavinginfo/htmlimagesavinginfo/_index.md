@@ -1,14 +1,14 @@
 ---
 title: HtmlImageSavingInfo
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: creates new instance of SaveOptions.ResourceSavingInfo
 type: docs
 weight: 10
 url: /net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo constructor
 
-The default constructor.
+creates new instance of SaveOptions.ResourceSavingInfo
 
 ```csharp
 public HtmlImageSavingInfo()

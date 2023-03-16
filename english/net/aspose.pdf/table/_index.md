@@ -18,7 +18,7 @@ public sealed class Table : BaseParagraph
 
 | Name | Description |
 | --- | --- |
-| [Table](table)() | The default constructor. |
+| [Table](table)() | Default ctor |
 
 ## Properties
 

@@ -17,7 +17,6 @@ Represents marked-content reference object in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [MCRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#MCRElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) | Constructor |
 ## Methods
 
 | Method | Description |
@@ -40,20 +39,6 @@ Represents marked-content reference object in logical structure.
 | [setContent(String value)](#setContent-java.lang.String-) | Gets text content for marked-content reference element. |
 | [getMCID()](#getMCID--) | Gets MCID of marked-content reference object. |
 | [toString()](#toString--) | Returns a string that represents the current object. |
-### MCRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#MCRElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public MCRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-Constructor
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) | TaggedContext instance |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | Internal instance |
-
 ### setHyperlink(Hyperlink hyperlink) {#setHyperlink-com.aspose.pdf.Hyperlink-}
 ```
 public final void setHyperlink(Hyperlink hyperlink)

@@ -3,7 +3,7 @@ title: Form
 second_title: Aspose.PDF for Java API Reference
 description: Class representing form object.
 type: docs
-weight: 142
+weight: 139
 url: /java/com.aspose.pdf/form/
 ---
 **Inheritance:**
@@ -25,8 +25,8 @@ Class representing form object.
 
 | Method | Description |
 | --- | --- |
-| [getSignDependentElementsRenderingModeWhenConverted()](#getSignDependentElementsRenderingModeWhenConverted--) | Forms can contain signing information, i.e. |
-| [setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)](#setSignDependentElementsRenderingModeWhenConverted-int-) | Forms can contain signing information, i.e. |
+| [getSignDependentElementsRenderingModeWhenConverted()](#getSignDependentElementsRenderingModeWhenConverted--) | Forms can contain signing information, i.e. can be signed or unsigned. |
+| [setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)](#setSignDependentElementsRenderingModeWhenConverted-int-) | Forms can contain signing information, i.e. can be signed or unsigned. |
 | [getDocument()](#getDocument--) | For internal usage only |
 | [get_xfa()](#get-xfa--) | For internal usage only |
 | [isSynchronized()](#isSynchronized--) | Returns true if object is thread-safe. |
@@ -47,7 +47,7 @@ Class representing form object.
 | [getEmulateRequierdGroups()](#getEmulateRequierdGroups--) | If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced because absences of analogies for the exclGroup during conversion Xfa representation of forms to standard. |
 | [setEmulateRequierdGroups(boolean value)](#setEmulateRequierdGroups-boolean-) | If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced because absences of analogies for the exclGroup during conversion Xfa representation of forms to standard. |
 | [getType()](#getType--) | Gets type of the form. |
-| [setType(int value)](#setType-int-) | Gets type of the form. |
+| [setType(FormType value)](#setType-com.aspose.pdf.FormType-) | Gets type of the form. |
 | [copyTo(Field[] array, int index)](#copyTo-com.aspose.pdf.Field---int-) | Copies fields placed on the form into array. |
 | [iterator()](#iterator--) | Gets enumeration of form fields. |
 | [get(String name)](#get-java.lang.String-) | Searches field by field name. |
@@ -325,17 +325,17 @@ If this property is true then additional red boundary rectangles will be drawn f
 
 ### getType() {#getType--}
 ```
-public int getType()
+public FormType getType()
 ```
 
 
 Gets type of the form. Possible values are: Standard, Static, Dynamic.
 
 **Returns:**
-int - FormType value
-### setType(int value) {#setType-int-}
+[FormType](../../com.aspose.pdf/formtype) - FormType value
+### setType(FormType value) {#setType-com.aspose.pdf.FormType-}
 ```
-public void setType(int value)
+public void setType(FormType value)
 ```
 
 
@@ -344,7 +344,7 @@ Gets type of the form. Possible values are: Standard, Static, Dynamic.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | FormType value |
+| value | [FormType](../../com.aspose.pdf/formtype) | FormType value |
 
 ### copyTo(Field[] array, int index) {#copyTo-com.aspose.pdf.Field---int-}
 ```

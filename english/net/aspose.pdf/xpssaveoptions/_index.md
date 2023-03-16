@@ -18,7 +18,7 @@ public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [XpsSaveOptions](xpssaveoptions)() | The default constructor. |
+| [XpsSaveOptions](xpssaveoptions)() | Constructor |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: CommonFigureAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class representing common figure annotation.
 type: docs
-weight: 73
+weight: 71
 url: /java/com.aspose.pdf/commonfigureannotation/
 ---
 **Inheritance:**

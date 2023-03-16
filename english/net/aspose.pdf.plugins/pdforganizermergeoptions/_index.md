@@ -18,7 +18,7 @@ public sealed class PdfOrganizerMergeOptions : PdfOrganizerOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfOrganizerMergeOptions](pdforganizermergeoptions)() | The default constructor. |
+| [PdfOrganizerMergeOptions](pdforganizermergeoptions)() | Initializes new instance of the [`PdfOrganizerMergeOptions`](../pdforganizermergeoptions) object with default options. |
 
 ## Properties
 

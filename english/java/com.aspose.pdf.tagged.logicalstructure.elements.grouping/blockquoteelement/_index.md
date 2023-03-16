@@ -17,16 +17,3 @@ Represents BlockQuote structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
-| [BlockQuoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#BlockQuoteElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### BlockQuoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#BlockQuoteElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public BlockQuoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-

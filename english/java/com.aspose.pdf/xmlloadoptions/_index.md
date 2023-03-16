@@ -3,7 +3,7 @@ title: XmlLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing XML file into pdf document.
 type: docs
-weight: 419
+weight: 413
 url: /java/com.aspose.pdf/xmlloadoptions/
 ---
 **Inheritance:**

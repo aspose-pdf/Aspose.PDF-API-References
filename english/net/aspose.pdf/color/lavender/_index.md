@@ -1,14 +1,14 @@
 ---
 title: Lavender
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFE6E6FA.
+description: Gets a system-defined color that has an ARGB value of c FFE6E6FA.
 type: docs
 weight: 610
 url: /net/aspose.pdf/color/lavender/
 ---
 ## Color.Lavender property
 
-Gets a system-defined color that has an ARGB value of #FFE6E6FA.
+Gets a system-defined color that has an ARGB value of \c \#FFE6E6FA.
 
 ```csharp
 public static Color Lavender { get; }

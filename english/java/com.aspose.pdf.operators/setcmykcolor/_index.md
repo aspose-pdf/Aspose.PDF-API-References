@@ -18,7 +18,6 @@ Class representing k operator (set CMYK color for non-stroking operations).
 | Constructor | Description |
 | --- | --- |
 | [SetCMYKColor(double c, double m, double y, double k)](#SetCMYKColor-double-double-double-double-) | Initializes operator. |
-| [SetCMYKColor(int index, ICommand command)](#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 ## Methods
 
 | Method | Description |
@@ -41,18 +40,6 @@ Initializes operator.
 | m | double | The level of magenta from 0.0 to 1.0 |
 | y | double | The level of yellow from 0.0 to 1.0 |
 | k | double | The level of black from 0.0 to 1.0 |
-
-### SetCMYKColor(int index, ICommand command) {#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetCMYKColor(int index, ICommand command)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int |  |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
 
 ### getColor() {#getColor--}
 ```

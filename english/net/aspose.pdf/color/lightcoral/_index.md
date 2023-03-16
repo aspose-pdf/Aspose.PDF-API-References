@@ -1,14 +1,14 @@
 ---
 title: LightCoral
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFF08080.
+description: Gets a system-defined color that has an ARGB value of c FFF08080.
 type: docs
 weight: 660
 url: /net/aspose.pdf/color/lightcoral/
 ---
 ## Color.LightCoral property
 
-Gets a system-defined color that has an ARGB value of #FFF08080.
+Gets a system-defined color that has an ARGB value of \c \#FFF08080.
 
 ```csharp
 public static Color LightCoral { get; }

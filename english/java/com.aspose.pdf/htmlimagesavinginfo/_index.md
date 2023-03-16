@@ -24,8 +24,8 @@ This class represents set of data that related to external resource image file's
 | --- | --- |
 | [getImageType()](#getImageType--) | Represents type of saved image referenced in HTML. |
 | [setImageType(int imageType)](#setImageType-int-) | Represents type of saved image referenced in HTML. |
-| [getParentType()](#getParentType--) | Saved image can pertain to HTML itself or can be extracted. |
-| [setParentType(int parentType)](#setParentType-int-) | Saved image can pertain to HTML itself or can be extracted. |
+| [getParentType()](#getParentType--) | Saved image can pertain to HTML itself or can be extracted. from SVG embedded to HTML. |
+| [setParentType(int parentType)](#setParentType-int-) | Saved image can pertain to HTML itself or can be extracted. from SVG embedded to HTML. |
 | [getPdfHostPageNumber()](#getPdfHostPageNumber--) | Tells to custom code to what page of original PDF document pertains saved image Since it's possible that will be saved not all pages of original document, this value tells us about host page number in original PDF. |
 | [setPdfHostPageNumber(int pdfHostPageNumber)](#setPdfHostPageNumber-int-) | Tells to custom code to what page of original PDF document pertains saved image Since it's possible that will be saved not all pages of original document, this value tells us about host page number in original PDF. |
 | [getHtmlHostPageNumber()](#getHtmlHostPageNumber--) | Tells to custom code to what page of generated set of HTML page-files pertains saved image. |

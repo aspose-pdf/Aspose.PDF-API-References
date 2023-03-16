@@ -3,7 +3,7 @@ title: InkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a freehand scribble composed of one or more disjoint paths.
 type: docs
-weight: 182
+weight: 177
 url: /java/com.aspose.pdf/inkannotation/
 ---
 **Inheritance:**
@@ -129,14 +129,14 @@ Updates the Appearance, after text has been changed/moved.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - AnnotationType element
+[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
 ### changeAfterResize(Matrix transform) {#changeAfterResize-com.aspose.pdf.Matrix-}
 ```
 public void changeAfterResize(Matrix transform)

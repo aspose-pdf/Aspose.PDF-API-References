@@ -3,7 +3,7 @@ title: Image
 second_title: Aspose.PDF for Java API Reference
 description: Represents image.
 type: docs
-weight: 169
+weight: 164
 url: /java/com.aspose.pdf/image/
 ---
 **Inheritance:**
@@ -273,7 +273,7 @@ Returns mime type for image.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| i | com.aspose.ms.System.Drawing.Image | Image object/ |
+| i | com.aspose.ms.System.Drawing.Image | Image object. |
 
 **Returns:**
 java.lang.String - Mime type as string if found; otherwise, "image/unknown" value.

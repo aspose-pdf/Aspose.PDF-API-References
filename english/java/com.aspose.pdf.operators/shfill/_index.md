@@ -18,7 +18,6 @@ Class representing sh operator (paint area with shading pattern).
 | Constructor | Description |
 | --- | --- |
 | [ShFill()](#ShFill--) | Initializes operator. |
-| [ShFill(int index, ICommand command)](#ShFill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [ShFill(String shadingName)](#ShFill-java.lang.String-) | Initializes operator. |
 ## Methods
 
@@ -34,20 +33,6 @@ public ShFill()
 
 
 Initializes operator.
-
-### ShFill(int index, ICommand command) {#ShFill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public ShFill(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### ShFill(String shadingName) {#ShFill-java.lang.String-}
 ```

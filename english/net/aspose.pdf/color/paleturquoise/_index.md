@@ -1,14 +1,14 @@
 ---
 title: PaleTurquoise
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFAFEEEE.
+description: Gets a system-defined color that has an ARGB value of c FFAFEEEE.
 type: docs
 weight: 1060
 url: /net/aspose.pdf/color/paleturquoise/
 ---
 ## Color.PaleTurquoise property
 
-Gets a system-defined color that has an ARGB value of #FFAFEEEE.
+Gets a system-defined color that has an ARGB value of \c \#FFAFEEEE.
 
 ```csharp
 public static Color PaleTurquoise { get; }

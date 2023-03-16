@@ -1,14 +1,14 @@
 ---
 title: LightSkyBlue
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FF87CEFA.
+description: Gets a system-defined color that has an ARGB value of c FF87CEFA.
 type: docs
 weight: 740
 url: /net/aspose.pdf/color/lightskyblue/
 ---
 ## Color.LightSkyBlue property
 
-Gets a system-defined color that has an ARGB value of #FF87CEFA.
+Gets a system-defined color that has an ARGB value of \c \#FF87CEFA.
 
 ```csharp
 public static Color LightSkyBlue { get; }

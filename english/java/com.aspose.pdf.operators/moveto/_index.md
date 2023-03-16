@@ -17,7 +17,6 @@ Class representing  operators.m  (move to and begin new subpath).
 
 | Constructor | Description |
 | --- | --- |
-| [MoveTo(int index, ICommand command)](#MoveTo-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [MoveTo(double x, double y)](#MoveTo-double-double-) | Inintalizes new  Operator.m  (move to) operator. |
 ## Methods
 
@@ -29,18 +28,6 @@ Class representing  operators.m  (move to and begin new subpath).
 | [setY(double value)](#setY-double-) | Y coordinate |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of the operator. |
-### MoveTo(int index, ICommand command) {#MoveTo-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public MoveTo(int index, ICommand command)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int |  |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
 ### MoveTo(double x, double y) {#MoveTo-double-double-}
 ```
 public MoveTo(double x, double y)

@@ -18,7 +18,7 @@ public class HtmlImageSavingInfo : ResourceSavingInfo
 
 | Name | Description |
 | --- | --- |
-| [HtmlImageSavingInfo](htmlimagesavinginfo)() | The default constructor. |
+| [HtmlImageSavingInfo](htmlimagesavinginfo)() | creates new instance of SaveOptions.ResourceSavingInfo |
 
 ## Properties
 

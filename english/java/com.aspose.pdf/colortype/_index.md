@@ -3,7 +3,7 @@ title: ColorType
 second_title: Aspose.PDF for Java API Reference
 description: Specifies color type of elements on page.
 type: docs
-weight: 67
+weight: 65
 url: /java/com.aspose.pdf/colortype/
 ---
 **Inheritance:**

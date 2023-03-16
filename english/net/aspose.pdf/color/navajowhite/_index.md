@@ -1,14 +1,14 @@
 ---
 title: NavajoWhite
 second_title: Aspose.PDF for .NET API Reference
-description: Gets a system-defined color that has an ARGB value of FFFFDEAD.
+description: Gets a system-defined color that has an ARGB value of c FFFFDEAD.
 type: docs
 weight: 960
 url: /net/aspose.pdf/color/navajowhite/
 ---
 ## Color.NavajoWhite property
 
-Gets a system-defined color that has an ARGB value of #FFFFDEAD.
+Gets a system-defined color that has an ARGB value of \c \#FFFFDEAD.
 
 ```csharp
 public static Color NavajoWhite { get; }

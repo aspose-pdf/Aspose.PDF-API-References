@@ -22,8 +22,8 @@ Class contains set options for image compression.
 
 | Method | Description |
 | --- | --- |
-| [isCompressImages()](#isCompressImages--) | If this flag is set to true images will be compressed in the document. |
-| [setCompressImages(boolean value)](#setCompressImages-boolean-) | If this flag is set to true images will be compressed in the document. |
+| [isCompressImages()](#isCompressImages--) | If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property. |
+| [setCompressImages(boolean value)](#setCompressImages-boolean-) | If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property. |
 | [getResizeImages()](#getResizeImages--) | If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter. |
 | [setResizeImages(boolean value)](#setResizeImages-boolean-) | If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter. |
 | [getImageQuality()](#getImageQuality--) | Specifies level of image compression when CompressIamges flag is used. |

@@ -19,9 +19,9 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 | --- | --- | --- |
 | page | Int32 | The number of original page where the annotation will be created. |
 | annotRect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| icon | String | An icon is to be used in displaying the annotation. Default value: 'Draft'." |
+| icon | String | An icon is to be used in displaying the annotation. Default value: 'Draft'. |
 | annotContents | String | The contents of the annotation. |
-| color | Color | The colour of the annotation. |
+| color | Color | The color of the annotation. |
 
 ### Examples
 

@@ -3,7 +3,7 @@ title: Matrix
 second_title: Aspose.PDF for Java API Reference
 description: Class represents transformation matrix.
 type: docs
-weight: 212
+weight: 207
 url: /java/com.aspose.pdf/matrix/
 ---
 **Inheritance:**
@@ -42,7 +42,6 @@ Class represents transformation matrix.
 | [getElements()](#getElements--) | Elements of the matrix. |
 | [toString()](#toString--) | Returns text representation of the matrix. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Compares matrix agains other object. |
-| [getMatrix(ITrailerable trailer)](#getMatrix-com.aspose.pdf.engine.data.ITrailerable-) | Translates matrix into PDF array obect. |
 | [rotation(double alpha)](#rotation-double-) | Creates matrix for given rotation angle. |
 | [rotation(int rotation)](#rotation-int-) | Creates matrix for given rotation. |
 | [skew(double alpha, double beta)](#skew-double-double-) | Creates matrix for given rotation angle. |
@@ -330,21 +329,6 @@ Compares matrix agains other object.
 
 **Returns:**
 boolean - Returns true is other object is Matrix and all matrix member are equal to correspondim members of the matrix
-### getMatrix(ITrailerable trailer) {#getMatrix-com.aspose.pdf.engine.data.ITrailerable-}
-```
-public IPdfArray getMatrix(ITrailerable trailer)
-```
-
-
-Translates matrix into PDF array obect.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| trailer | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) | Trailerable object |
-
-**Returns:**
-[IPdfArray](../../com.aspose.pdf.engine.data/ipdfarray) - Result of converting
 ### rotation(double alpha) {#rotation-double-}
 ```
 public static Matrix rotation(double alpha)

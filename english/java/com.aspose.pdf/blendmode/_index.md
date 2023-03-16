@@ -3,7 +3,7 @@ title: BlendMode
 second_title: Aspose.PDF for Java API Reference
 description: The blend modes enumeration.
 type: docs
-weight: 36
+weight: 34
 url: /java/com.aspose.pdf/blendmode/
 ---
 **Inheritance:**

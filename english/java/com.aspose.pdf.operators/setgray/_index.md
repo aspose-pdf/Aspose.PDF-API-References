@@ -17,7 +17,6 @@ Set gray level for non-stroking operations.
 
 | Constructor | Description |
 | --- | --- |
-| [SetGray(int index, ICommand command)](#SetGray-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetGray(double gray)](#SetGray-double-) | Constructor for writing program. |
 ## Methods
 
@@ -26,20 +25,6 @@ Set gray level for non-stroking operations.
 | [getColor()](#getColor--) | Returns color specified by operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns string represnetation of operator. |
-### SetGray(int index, ICommand command) {#SetGray-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetGray(int index, ICommand command)
-```
-
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
 ### SetGray(double gray) {#SetGray-double-}
 ```
 public SetGray(double gray)

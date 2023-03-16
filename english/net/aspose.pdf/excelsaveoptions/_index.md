@@ -18,7 +18,7 @@ public class ExcelSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ExcelSaveOptions](excelsaveoptions)() | The default constructor. |
+| [ExcelSaveOptions](excelsaveoptions)() | Constructor |
 
 ## Properties
 

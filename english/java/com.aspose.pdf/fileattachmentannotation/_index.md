@@ -3,7 +3,7 @@ title: FileAttachmentAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class describes file attachment annotation.
 type: docs
-weight: 113
+weight: 110
 url: /java/com.aspose.pdf/fileattachmentannotation/
 ---
 **Inheritance:**
@@ -45,14 +45,14 @@ Creates new FileAttachment annotation on the specified page.
 
 ### getAnnotationType() {#getAnnotationType--}
 ```
-public int getAnnotationType()
+public AnnotationType getAnnotationType()
 ```
 
 
 Gets type of annotation.
 
 **Returns:**
-int - int value
+[AnnotationType](../../com.aspose.pdf/annotationtype) - int value
 ### getFile() {#getFile--}
 ```
 public FileSpecification getFile()

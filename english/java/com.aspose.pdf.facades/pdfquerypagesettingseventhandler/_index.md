@@ -3,7 +3,7 @@ title: PdfQueryPageSettingsEventHandler
 second_title: Aspose.PDF for Java API Reference
 description: Represents the method that handles the QueryPageSettings event of a PrintDocument.
 type: docs
-weight: 52
+weight: 47
 url: /java/com.aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: DigestHashAlgorithm
 second_title: Aspose.PDF for Java API Reference
 description: Represent type of algorithm that maps data to a hash
 type: docs
-weight: 89
+weight: 86
 url: /java/com.aspose.pdf/digesthashalgorithm/
 ---
 **Inheritance:**

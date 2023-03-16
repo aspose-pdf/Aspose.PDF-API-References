@@ -3,7 +3,7 @@ title: PdfContentEditor
 second_title: Aspose.PDF for Java API Reference
 description: Represents a class to edit PDF files content.
 type: docs
-weight: 36
+weight: 31
 url: /java/com.aspose.pdf.facades/pdfcontenteditor/
 ---
 **Inheritance:**

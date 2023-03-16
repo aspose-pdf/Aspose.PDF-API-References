@@ -3,7 +3,7 @@ title: SoundEncoding
 second_title: Aspose.PDF for Java API Reference
 description: The encoding format for the sample data.
 type: docs
-weight: 332
+weight: 328
 url: /java/com.aspose.pdf/soundencoding/
 ---
 **Inheritance:**
@@ -17,7 +17,7 @@ The encoding format for the sample data.
 
 | Field | Description |
 | --- | --- |
-| [Raw](#Raw) | Unspecified or unsigned values in the range 0 to 2^bits \\u2212 1. |
+| [Raw](#Raw) | Unspecified or unsigned values in the range 0 to 2^bitsï¿½\\u2212ï¿½1. |
 | [Signed](#Signed) | Twos-complement values. |
 | [MuLaw](#MuLaw) | \\u03bc-law\\u2013encoded samples. |
 | [ALaw](#ALaw) | A-law\\u2013encoded samples. |
@@ -27,7 +27,7 @@ public static final int Raw
 ```
 
 
-Unspecified or unsigned values in the range 0 to 2^bits \\u2212 1.
+Unspecified or unsigned values in the range 0 to 2^bitsï¿½\\u2212ï¿½1.
 
 ### Signed {#Signed}
 ```

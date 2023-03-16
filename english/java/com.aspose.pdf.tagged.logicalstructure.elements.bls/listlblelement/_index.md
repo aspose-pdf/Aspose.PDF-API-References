@@ -17,16 +17,3 @@ Represents Lbl structure element in logical structure of the list.
 
 | Constructor | Description |
 | --- | --- |
-| [ListLblElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#ListLblElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### ListLblElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#ListLblElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public ListLblElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-
