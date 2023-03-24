@@ -53,8 +53,8 @@ JSON object
   var ffileAddBackgroundImage = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*add a background image file a PDF-file and save the "ResultImage.pdf"*/
-      const json = AsposePdfAddBackgroundImage(event.target.result, e.target.files[0].name, fileBackgroundImage, "ResultImage.pdf");
+      /*add a background image file a PDF-file and save the "ResultBackgroundImage.pdf"*/
+      const json = AsposePdfAddBackgroundImage(event.target.result, e.target.files[0].name, fileBackgroundImage, "ResultBackgroundImage.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
       /*make a link to download the result file*/
