@@ -17,3 +17,16 @@ Represents Code structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [CodeElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#CodeElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### CodeElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#CodeElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public CodeElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

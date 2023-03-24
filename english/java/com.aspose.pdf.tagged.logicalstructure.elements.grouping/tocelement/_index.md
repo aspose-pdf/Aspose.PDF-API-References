@@ -17,3 +17,16 @@ Represents TOC structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [TOCElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#TOCElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### TOCElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TOCElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public TOCElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

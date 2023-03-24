@@ -18,6 +18,7 @@ Class representing W\* operator (set clipping path using even-odd rule).
 | Constructor | Description |
 | --- | --- |
 | [EOClip()](#EOClip--) | Initializes operator. |
+| [EOClip(int index, ICommand command)](#EOClip-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -30,6 +31,20 @@ public EOClip()
 
 
 Initializes operator.
+
+### EOClip(int index, ICommand command) {#EOClip-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public EOClip(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

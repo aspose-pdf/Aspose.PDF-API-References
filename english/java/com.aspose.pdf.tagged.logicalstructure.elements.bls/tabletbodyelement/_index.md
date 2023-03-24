@@ -17,3 +17,16 @@ Represents TBody structure element in logical structure of the table.
 
 | Constructor | Description |
 | --- | --- |
+| [TableTBodyElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#TableTBodyElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### TableTBodyElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TableTBodyElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public TableTBodyElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

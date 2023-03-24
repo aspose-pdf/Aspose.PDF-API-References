@@ -27,3 +27,4 @@ public System.Collections.Generic.IGenericList<ICommand> draw()
 Draws line endings.
 
 **Returns:**
+com.aspose.ms.System.Collections.Generic.IGenericList<com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand> - The list of commands that draw line endings.

@@ -18,6 +18,7 @@ Represents attribute of structure element.
 | Constructor | Description |
 | --- | --- |
 | [StructureAttribute(AttributeKey attributeKey)](#StructureAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-) | Initializes a new instance of the StructureAttribute. |
+| [StructureAttribute(AttributeKey attributeKey, IPdfPrimitive pdfEntity)](#StructureAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
 ## Methods
 
 | Method | Description |
@@ -48,6 +49,18 @@ Initializes a new instance of the StructureAttribute.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | attributeKey | [AttributeKey](../../com.aspose.pdf.tagged.logicalstructure/attributekey) | Attribute Key |
+
+### StructureAttribute(AttributeKey attributeKey, IPdfPrimitive pdfEntity) {#StructureAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public StructureAttribute(AttributeKey attributeKey, IPdfPrimitive pdfEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| attributeKey | [AttributeKey](../../com.aspose.pdf.tagged.logicalstructure/attributekey) |  |
+| pdfEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
 
 ### getKey() {#getKey--}
 ```

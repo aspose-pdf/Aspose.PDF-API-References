@@ -17,6 +17,7 @@ Represents TR structure element in logical structure of the table.
 
 | Constructor | Description |
 | --- | --- |
+| [TableTRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#TableTRElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) | constructor for internal usage only |
 ## Methods
 
 | Method | Description |
@@ -43,6 +44,20 @@ Represents TR structure element in logical structure of the table.
 | [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Gets or sets the vertical alignment. |
 | [createTH()](#createTH--) | Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) and added it to current table. |
 | [createTD()](#createTD--) | Creates [TableTHElement](../../com.aspose.pdf.tagged.logicalstructure.elements.bls/tablethelement) and added it to current table. |
+### TableTRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TableTRElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public TableTRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+constructor for internal usage only
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) | TaggedContext instance |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | internal instance |
+
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
 public final Color getBackgroundColor()

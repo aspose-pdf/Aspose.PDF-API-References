@@ -18,6 +18,7 @@ Lightweight operator collection. Intended to be used in scenarios when underlyin
 | Constructor | Description |
 | --- | --- |
 | [LightweightOperatorCollection()](#LightweightOperatorCollection--) | Initialize object |
+| [LightweightOperatorCollection(ITrailerable trailerable, System.Collections.Generic.List<Operator> operators)](#LightweightOperatorCollection-com.aspose.pdf.engine.data.ITrailerable-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--) | For internal usage only! |
 | [LightweightOperatorCollection(OperatorCollection operatorCollection)](#LightweightOperatorCollection-com.aspose.pdf.OperatorCollection-) | Initialize object |
 ## Methods
 
@@ -49,6 +50,20 @@ public LightweightOperatorCollection()
 
 
 Initialize object
+
+### LightweightOperatorCollection(ITrailerable trailerable, System.Collections.Generic.List<Operator> operators) {#LightweightOperatorCollection-com.aspose.pdf.engine.data.ITrailerable-com.aspose.ms.System.Collections.Generic.List-com.aspose.pdf.Operator--}
+```
+public LightweightOperatorCollection(ITrailerable trailerable, System.Collections.Generic.List<Operator> operators)
+```
+
+
+For internal usage only!
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| trailerable | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) | Internal object |
+| operators | com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.Operator> | Internal object |
 
 ### LightweightOperatorCollection(OperatorCollection operatorCollection) {#LightweightOperatorCollection-com.aspose.pdf.OperatorCollection-}
 ```

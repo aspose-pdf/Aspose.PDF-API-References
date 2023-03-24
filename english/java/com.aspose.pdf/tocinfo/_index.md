@@ -38,6 +38,8 @@ Represents table of contents info.
 | [setShowPageNumbers(boolean value)](#setShowPageNumbers-boolean-) | Sets is show page numbers at Toc. |
 | [getLineDash()](#getLineDash--) | Gets or sets TOC line dash. |
 | [setLineDash(int value)](#setLineDash-int-) | Gets or sets TOC line dash. |
+| [getCopyToOutlines()](#getCopyToOutlines--) | Gets or sets is TOC copied to outlines. |
+| [setCopyToOutlines(boolean value)](#setCopyToOutlines-boolean-) | Gets or sets is TOC copied to outlines. |
 | [setLevelIndentation(int value)](#setLevelIndentation-int-) | Set Level indentation |
 | [getLevelIndentation()](#getLevelIndentation--) | Get Level indentation |
 ### TocInfo() {#TocInfo--}
@@ -231,6 +233,29 @@ Gets or sets TOC line dash.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | TabLeaderType value |
+
+### getCopyToOutlines() {#getCopyToOutlines--}
+```
+public final boolean getCopyToOutlines()
+```
+
+
+Gets or sets is TOC copied to outlines.
+
+**Returns:**
+boolean - boolean value
+### setCopyToOutlines(boolean value) {#setCopyToOutlines-boolean-}
+```
+public final void setCopyToOutlines(boolean value)
+```
+
+
+Gets or sets is TOC copied to outlines.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
 
 ### setLevelIndentation(int value) {#setLevelIndentation-int-}
 ```

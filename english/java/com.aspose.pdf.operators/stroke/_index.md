@@ -17,6 +17,7 @@ Class representing S operator (stroke path).
 
 | Constructor | Description |
 | --- | --- |
+| [Stroke(int index, ICommand command)](#Stroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [Stroke()](#Stroke--) | Initializes operator. |
 ## Methods
 
@@ -24,6 +25,20 @@ Class representing S operator (stroke path).
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of the operator. |
+### Stroke(int index, ICommand command) {#Stroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public Stroke(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### Stroke() {#Stroke--}
 ```
 public Stroke()

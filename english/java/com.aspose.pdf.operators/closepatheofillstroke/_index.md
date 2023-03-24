@@ -18,6 +18,7 @@ Class representing b\* operator (close, fill and stroke path using even-odd rule
 | Constructor | Description |
 | --- | --- |
 | [ClosePathEOFillStroke()](#ClosePathEOFillStroke--) | Initializes operator. |
+| [ClosePathEOFillStroke(int index, ICommand command)](#ClosePathEOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -32,6 +33,20 @@ public ClosePathEOFillStroke()
 
 
 Initializes operator.
+
+### ClosePathEOFillStroke(int index, ICommand command) {#ClosePathEOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public ClosePathEOFillStroke(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

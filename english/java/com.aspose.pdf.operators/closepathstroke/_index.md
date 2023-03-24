@@ -17,6 +17,7 @@ Class representing s operator (Close and stroke path).
 
 | Constructor | Description |
 | --- | --- |
+| [ClosePathStroke(int index, ICommand command)](#ClosePathStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [ClosePathStroke()](#ClosePathStroke--) | Initializes operator. |
 ## Methods
 
@@ -24,6 +25,20 @@ Class representing s operator (Close and stroke path).
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of the operator. |
+### ClosePathStroke(int index, ICommand command) {#ClosePathStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public ClosePathStroke(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### ClosePathStroke() {#ClosePathStroke--}
 ```
 public ClosePathStroke()

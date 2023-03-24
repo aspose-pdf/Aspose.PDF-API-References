@@ -35,6 +35,21 @@ Remove key from number tree.
 
 **Returns:**
 boolean - boolean value
+### get(int key) {#get-int-}
+```
+public IPdfPrimitive get(int key)
+```
+
+
+Gets item by key.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | int | int value |
+
+**Returns:**
+[IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) - IPdfPrimitive object
 ### getKeys() {#getKeys--}
 ```
 public System.Collections.Generic.List<Integer> getKeys()

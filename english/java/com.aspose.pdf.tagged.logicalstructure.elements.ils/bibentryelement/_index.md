@@ -17,3 +17,16 @@ Represents BibEntry structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [BibEntryElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#BibEntryElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### BibEntryElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#BibEntryElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public BibEntryElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

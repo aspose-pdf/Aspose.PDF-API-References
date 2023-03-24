@@ -18,6 +18,7 @@ Class representing F operator (fill path using nonzero winding rule).
 | Constructor | Description |
 | --- | --- |
 | [ObsoleteFill()](#ObsoleteFill--) | Initializes operator. |
+| [ObsoleteFill(int index, ICommand command)](#ObsoleteFill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -30,6 +31,20 @@ public ObsoleteFill()
 
 
 Initializes operator.
+
+### ObsoleteFill(int index, ICommand command) {#ObsoleteFill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public ObsoleteFill(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

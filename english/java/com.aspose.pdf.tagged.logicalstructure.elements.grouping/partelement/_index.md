@@ -17,3 +17,16 @@ Represents Part structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [PartElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#PartElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### PartElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#PartElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public PartElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

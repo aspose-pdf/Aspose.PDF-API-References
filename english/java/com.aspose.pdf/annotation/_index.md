@@ -59,6 +59,7 @@ Class representing annotation object.
 | [setHorizontalAlignment_Annotation_New(HorizontalAlignment value)](#setHorizontalAlignment-Annotation-New-com.aspose.pdf.HorizontalAlignment-) | Gets or sets text alignment for annotation. |
 | [getTextHorizontalAlignment()](#getTextHorizontalAlignment--) | Gets text alignment for annotation. |
 | [setTextHorizontalAlignment(HorizontalAlignment value)](#setTextHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets text alignmennt for annotation. |
+| [createAnnotation(IPdfObject annotEngineObj, Page page)](#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-) | For internal usage only |
 | [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor for annotation processing. |
 | [flatten()](#flatten--) | Places annotation contents directly on the page, annotation object will be removed. |
 | [getFullName()](#getFullName--) | Gets full qualified name of the annotation. |
@@ -79,6 +80,26 @@ Instance initialization
 | --- | --- | --- |
 | doc | [IDocument](../../com.aspose.pdf/idocument) | IDocument object |
 
+### getEngineObj() {#getEngineObj--}
+```
+public IPdfObject getEngineObj()
+```
+
+
+For Internal usage only
+
+**Returns:**
+[IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) - Internal onject
+### getEngineDict() {#getEngineDict--}
+```
+public IPdfDictionary getEngineDict()
+```
+
+
+Internal only
+
+**Returns:**
+[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) - IPdfDictionary object
 ### isUpdateAppearanceOnConvert() {#isUpdateAppearanceOnConvert--}
 ```
 public static synchronized boolean isUpdateAppearanceOnConvert()
@@ -522,6 +543,24 @@ Sets text alignmennt for annotation.
 | --- | --- | --- |
 | value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | text alignmennt for annotation. |
 
+### createAnnotation(IPdfObject annotEngineObj, Page page) {#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-}
+```
+public static Annotation createAnnotation(IPdfObject annotEngineObj, Page page)
+```
+
+
+For internal usage only
+
+Initializes annotation from PDF object which describes the annotation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotEngineObj | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) | PDF object describing annotation |
+| page | [Page](../../com.aspose.pdf/page) | Page object |
+
+**Returns:**
+[Annotation](../../com.aspose.pdf/annotation) - Created annotation object of appropriate type
 ### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
 ```
 public abstract void accept(AnnotationSelector visitor)

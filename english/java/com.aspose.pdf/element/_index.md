@@ -18,14 +18,14 @@ Class representing base element of logical structure.
 | Method | Description |
 | --- | --- |
 | [getChildren()](#getChildren--) | Gets child elements collection. |
-| [getLang()](#getLang--) | (Optional; PDF�1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
-| [setLang(String value)](#setLang-java.lang.String-) | (Optional; PDF�1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
-| [getActualText()](#getActualText--) | (Optional; PDF�1.4) Text that is an exact replacement for the structure element and its children. |
-| [setActualText(String value)](#setActualText-java.lang.String-) | (Optional; PDF�1.4) Text that is an exact replacement for the structure element and its children. |
+| [getLang()](#getLang--) | (Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
+| [setLang(String value)](#setLang-java.lang.String-) | (Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
+| [getActualText()](#getActualText--) | (Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. |
+| [setActualText(String value)](#setActualText-java.lang.String-) | (Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. |
 | [getAlt()](#getAlt--) | (Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes. |
 | [setAlt(String value)](#setAlt-java.lang.String-) | (Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes. |
-| [getE()](#getE--) | (Optional; PDF�1.5) The expanded form of an abbreviation. |
-| [setE(String value)](#setE-java.lang.String-) | (Optional; PDF�1.5) The expanded form of an abbreviation. |
+| [getE()](#getE--) | (Optional; PDF 1.5) The expanded form of an abbreviation. |
+| [setE(String value)](#setE-java.lang.String-) | (Optional; PDF 1.5) The expanded form of an abbreviation. |
 ### getChildren() {#getChildren--}
 ```
 public List<Element> getChildren()
@@ -42,7 +42,7 @@ public String getLang()
 ```
 
 
-(Optional; PDF�1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content.
+(Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content.
 
 **Returns:**
 java.lang.String - String object
@@ -52,7 +52,7 @@ public void setLang(String value)
 ```
 
 
-(Optional; PDF�1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content.
+(Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -65,7 +65,7 @@ public String getActualText()
 ```
 
 
-(Optional; PDF�1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply to as small a piece of content as possible) is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
+(Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply to as small a piece of content as possible) is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
 
 **Returns:**
 java.lang.String - String object
@@ -75,7 +75,7 @@ public void setActualText(String value)
 ```
 
 
-(Optional; PDF�1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply to as small a piece of content as possible) is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
+(Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. This replacement text (which should apply to as small a piece of content as possible) is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -111,7 +111,7 @@ public String getE()
 ```
 
 
-(Optional; PDF�1.5) The expanded form of an abbreviation.
+(Optional; PDF 1.5) The expanded form of an abbreviation.
 
 **Returns:**
 java.lang.String - String object
@@ -121,7 +121,7 @@ public void setE(String value)
 ```
 
 
-(Optional; PDF�1.5) The expanded form of an abbreviation.
+(Optional; PDF 1.5) The expanded form of an abbreviation.
 
 **Parameters:**
 | Parameter | Type | Description |

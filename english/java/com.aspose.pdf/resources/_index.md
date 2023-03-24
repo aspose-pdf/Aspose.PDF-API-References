@@ -24,6 +24,7 @@ Class representing page resources.
 | [getFonts()](#getFonts--) | Gets  Fonts  resources collection |
 | [getResourcesFor(Form form)](#getResourcesFor-com.aspose.pdf.Form-) | Gets resources for |
 | [isCommonResource()](#isCommonResource--) | True if this resources are common i.e. are shared for several pages (placed in pages dictionary or in every page as object reference) Manipulation with common resources must be performed very carefully for example deleting object form common resources in one page may cause errors on other pages if deleted object was used for other pages. |
+| [setResourceDictionary(IResourceDictionary resourceDictionary)](#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-) | For internal usage only! |
 ### clearImagesCache() {#clearImagesCache--}
 ```
 public final void clearImagesCache()
@@ -102,3 +103,16 @@ True if this resources are common i.e. are shared for several pages (placed in p
 
 **Returns:**
 boolean - boolean value
+### setResourceDictionary(IResourceDictionary resourceDictionary) {#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-}
+```
+public void setResourceDictionary(IResourceDictionary resourceDictionary)
+```
+
+
+For internal usage only!
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resourceDictionary | [IResourceDictionary](../../com.aspose.pdf.engine.commondata.pagecontent/iresourcedictionary) | inernal instance |
+

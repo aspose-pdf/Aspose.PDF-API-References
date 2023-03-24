@@ -17,6 +17,7 @@ Class representing Tc operator (set character spacing).
 
 | Constructor | Description |
 | --- | --- |
+| [SetCharacterSpacing(int index, ICommand command)](#SetCharacterSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetCharacterSpacing(double charSpacing)](#SetCharacterSpacing-double-) | Initializes operator. |
 ## Methods
 
@@ -25,6 +26,20 @@ Class representing Tc operator (set character spacing).
 | [getCharSpacing()](#getCharSpacing--) | Gets the character spacing. |
 | [setCharSpacing(double value)](#setCharSpacing-double-) | Sets the character spacing. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+### SetCharacterSpacing(int index, ICommand command) {#SetCharacterSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetCharacterSpacing(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### SetCharacterSpacing(double charSpacing) {#SetCharacterSpacing-double-}
 ```
 public SetCharacterSpacing(double charSpacing)

@@ -17,3 +17,16 @@ Represents Private structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [PrivateElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#PrivateElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### PrivateElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#PrivateElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public PrivateElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

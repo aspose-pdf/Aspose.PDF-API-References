@@ -19,6 +19,7 @@ Class representing j operator (set line join style).
 | --- | --- |
 | [SetLineJoin()](#SetLineJoin--) | Initializes operator. |
 | [SetLineJoin(int join)](#SetLineJoin-int-) |  |
+| [SetLineJoin(int index, ICommand command)](#SetLineJoin-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -42,6 +43,20 @@ public SetLineJoin(int join)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | join | int |  |
+
+### SetLineJoin(int index, ICommand command) {#SetLineJoin-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetLineJoin(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

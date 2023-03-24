@@ -17,6 +17,7 @@ Class representing Tz operator (set horizontal text scaling).
 
 | Constructor | Description |
 | --- | --- |
+| [SetHorizontalTextScaling(int index, ICommand command)](#SetHorizontalTextScaling-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetHorizontalTextScaling(double horizintalScaling)](#SetHorizontalTextScaling-double-) | Initializes operator. |
 ## Methods
 
@@ -25,6 +26,20 @@ Class representing Tz operator (set horizontal text scaling).
 | [getHorizontalScaling()](#getHorizontalScaling--) | Gets the horizontal scaling. |
 | [setHorizontalScaling(double value)](#setHorizontalScaling-double-) | Sets the horizontal scaling. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+### SetHorizontalTextScaling(int index, ICommand command) {#SetHorizontalTextScaling-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetHorizontalTextScaling(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### SetHorizontalTextScaling(double horizintalScaling) {#SetHorizontalTextScaling-double-}
 ```
 public SetHorizontalTextScaling(double horizintalScaling)

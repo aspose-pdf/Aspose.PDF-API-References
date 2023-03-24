@@ -17,3 +17,16 @@ Represents RP structure element in logical structure of the Ruby.
 
 | Constructor | Description |
 | --- | --- |
+| [RubyRPElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#RubyRPElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### RubyRPElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#RubyRPElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public RubyRPElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

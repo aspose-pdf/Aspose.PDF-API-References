@@ -17,11 +17,24 @@ Class representing logical structure figure.
 
 | Constructor | Description |
 | --- | --- |
+| [FigureElement(ITrailerable tr, IPdfDictionary engineDict)](#FigureElement-com.aspose.pdf.engine.data.ITrailerable-com.aspose.pdf.engine.data.IPdfDictionary-) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getImage()](#getImage--) | Gets the value of figure structure element. |
+### FigureElement(ITrailerable tr, IPdfDictionary engineDict) {#FigureElement-com.aspose.pdf.engine.data.ITrailerable-com.aspose.pdf.engine.data.IPdfDictionary-}
+```
+public FigureElement(ITrailerable tr, IPdfDictionary engineDict)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tr | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) |  |
+| engineDict | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) |  |
+
 ### getImage() {#getImage--}
 ```
 public BufferedImage getImage()

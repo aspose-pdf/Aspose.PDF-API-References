@@ -17,3 +17,16 @@ Represents NonStruct structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [NonStructElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#NonStructElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### NonStructElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#NonStructElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public NonStructElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

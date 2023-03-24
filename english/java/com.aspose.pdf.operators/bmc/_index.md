@@ -17,6 +17,7 @@ Class representing BMC operator (Begin marked-content sequence).
 
 | Constructor | Description |
 | --- | --- |
+| [BMC(int index, ICommand command)](#BMC-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [BMC(String tag)](#BMC-java.lang.String-) | Constructor for writing program. |
 ## Methods
 
@@ -27,6 +28,21 @@ Class representing BMC operator (Begin marked-content sequence).
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
 | [toCommand()](#toCommand--) |  |
+| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
+### BMC(int index, ICommand command) {#BMC-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public BMC(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### BMC(String tag) {#BMC-java.lang.String-}
 ```
 public BMC(String tag)
@@ -86,3 +102,26 @@ Returns text representation of operator.
 
 **Returns:**
 java.lang.String - Text representation of operator.
+### toCommand() {#toCommand--}
+```
+public ICommand toCommand()
+```
+
+
+
+
+**Returns:**
+[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
+### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public void fromCommand(ICommand command)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
+

@@ -67,6 +67,7 @@ Class for representing field properties.
 | [getTextColor()](#getTextColor--) | Get the color of the field text. |
 | [setTextColor(Color value)](#setTextColor-java.awt.Color-) | Set the color of the field text. |
 | [getTextEncoding()](#getTextEncoding--) | Get the text encoding type of the field text. |
+| [setTextEncoding(int value)](#setTextEncoding-int-) | Set the [EncodingType](../../com.aspose.pdf.engine.commondata.text.encoding/encodingtype) text encoding type of the field text. |
 | [getAlignment()](#getAlignment--) | Get the alignment of a field text, default is left alignment. |
 | [setAlignment(int value)](#setAlignment-int-) | Set the alignment of a field text, default is left alignment. |
 | [getRotation()](#getRotation--) | Get the rotation of a field text. |
@@ -475,6 +476,19 @@ Get the text encoding type of the field text.
 
 **Returns:**
 int - EncodingType element
+### setTextEncoding(int value) {#setTextEncoding-int-}
+```
+public void setTextEncoding(int value)
+```
+
+
+Set the [EncodingType](../../com.aspose.pdf.engine.commondata.text.encoding/encodingtype) text encoding type of the field text.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | EncodingType element |
+
 ### getAlignment() {#getAlignment--}
 ```
 public int getAlignment()

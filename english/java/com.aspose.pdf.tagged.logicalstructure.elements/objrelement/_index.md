@@ -17,11 +17,24 @@ Represents object reference entity in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [OBJRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#OBJRElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [toString()](#toString--) | Returns a string that represents the current object. |
+### OBJRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#OBJRElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public OBJRElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+
 ### toString() {#toString--}
 ```
 public String toString()

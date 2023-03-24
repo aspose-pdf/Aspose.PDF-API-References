@@ -17,6 +17,7 @@ Class representing re operator (add rectangle to the path).
 
 | Constructor | Description |
 | --- | --- |
+| [Re(int index, ICommand command)](#Re-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [Re()](#Re--) | Constructor for extracting goals. |
 | [Re(double x, double y, double width, double height)](#Re-double-double-double-double-) | Constructor for writing program. |
 ## Methods
@@ -33,6 +34,20 @@ Class representing re operator (add rectangle to the path).
 | [setHeight(double value)](#setHeight-double-) | Height of the rectangle. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of the operator. |
+### Re(int index, ICommand command) {#Re-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public Re(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### Re() {#Re--}
 ```
 public Re()

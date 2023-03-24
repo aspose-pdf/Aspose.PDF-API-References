@@ -17,12 +17,27 @@ Class representing f\* operator (fill path using even-odd rule).
 
 | Constructor | Description |
 | --- | --- |
+| [EOFill(int index, ICommand command)](#EOFill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [EOFill()](#EOFill--) | Initializes operator. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+### EOFill(int index, ICommand command) {#EOFill-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public EOFill(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### EOFill() {#EOFill--}
 ```
 public EOFill()

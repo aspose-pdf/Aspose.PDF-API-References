@@ -19,6 +19,7 @@ Class representing ri operator (set color rendering intent).
 | --- | --- |
 | [SetColorRenderingIntent()](#SetColorRenderingIntent--) | Initializes operator. |
 | [SetColorRenderingIntent(String intentName)](#SetColorRenderingIntent-java.lang.String-) | Set Color Rendering Intent operator constructor. |
+| [SetColorRenderingIntent(int index, ICommand command)](#SetColorRenderingIntent-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -46,6 +47,20 @@ Set Color Rendering Intent operator constructor.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | intentName | java.lang.String | Color Rendering Intent. |
+
+### SetColorRenderingIntent(int index, ICommand command) {#SetColorRenderingIntent-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetColorRenderingIntent(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

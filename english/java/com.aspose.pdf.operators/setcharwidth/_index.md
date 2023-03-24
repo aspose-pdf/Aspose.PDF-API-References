@@ -18,6 +18,7 @@ Class representing d0 operator (set glyph width).
 | Constructor | Description |
 | --- | --- |
 | [SetCharWidth(double wx, double wy)](#SetCharWidth-double-double-) | Constructor. |
+| [SetCharWidth(int index, ICommand command)](#SetCharWidth-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -26,6 +27,7 @@ Class representing d0 operator (set glyph width).
 | [getWy()](#getWy--) | Vertical displacement of glyph coordinate. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toCommand()](#toCommand--) |  |
+| [fromCommand(ICommand command)](#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [toString()](#toString--) | Returns text representation of operator. |
 ### SetCharWidth(double wx, double wy) {#SetCharWidth-double-double-}
 ```
@@ -40,6 +42,20 @@ Constructor.
 | --- | --- | --- |
 | wx | double | Horizontal displacement of glyph. |
 | wy | double | Vertical displacement of glyph. |
+
+### SetCharWidth(int index, ICommand command) {#SetCharWidth-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetCharWidth(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### getWx() {#getWx--}
 ```
@@ -73,6 +89,29 @@ Accepts visitor object to process operator.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
+
+### toCommand() {#toCommand--}
+```
+public ICommand toCommand()
+```
+
+
+
+
+**Returns:**
+[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
+### fromCommand(ICommand command) {#fromCommand-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public void fromCommand(ICommand command)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
 
 ### toString() {#toString--}
 ```
