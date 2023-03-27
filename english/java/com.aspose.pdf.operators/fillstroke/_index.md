@@ -18,6 +18,7 @@ Class representing B operator (fill and stroke path using nonzero winding rule)
 | Constructor | Description |
 | --- | --- |
 | [FillStroke()](#FillStroke--) | Initializes operator. |
+| [FillStroke(int index, ICommand command)](#FillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -32,6 +33,20 @@ public FillStroke()
 
 
 Initializes operator.
+
+### FillStroke(int index, ICommand command) {#FillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public FillStroke(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

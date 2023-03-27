@@ -45,6 +45,7 @@ Class representing PDF document
 | [removePdfaCompliance()](#removePdfaCompliance--) | Remove pdfa compliance from the document |
 | [getCollection()](#getCollection--) | Gets collection of document. |
 | [setCollection(Collection value)](#setCollection-com.aspose.pdf.Collection-) | Sets collection of document. |
+| [getEngineDoc()](#getEngineDoc--) | Instance of IPdfDocument used to access to internal document structure. |
 | [getVersion()](#getVersion--) | Gets a version of Pdf from Pdf file header. |
 | [getOpenAction()](#getOpenAction--) | Gets action performed at document opening. |
 | [setOpenAction(IAppointment value)](#setOpenAction-com.aspose.pdf.IAppointment-) | Sets action performed at document opening. |
@@ -404,6 +405,16 @@ Sets collection of document.
 | --- | --- | --- |
 | value | [Collection](../../com.aspose.pdf/collection) | Collection object |
 
+### getEngineDoc() {#getEngineDoc--}
+```
+public IPdfDocument getEngineDoc()
+```
+
+
+Instance of IPdfDocument used to access to internal document structure. Internal only
+
+**Returns:**
+[IPdfDocument](../../com.aspose.pdf.engine/ipdfdocument) - IPdfDocument object
 ### getVersion() {#getVersion--}
 ```
 public String getVersion()
@@ -1459,6 +1470,16 @@ Gets the ID.
 
 **Returns:**
 [Id](../../com.aspose.pdf/id) - Id object
+### getMetadataStream() {#getMetadataStream--}
+```
+public IPdfStreamAccessor getMetadataStream()
+```
+
+
+Returns raw metadata stream
+
+**Returns:**
+[IPdfStreamAccessor](../../com.aspose.pdf.engine.data.types/ipdfstreamaccessor) - IPdfStreamAccessor object
 ### suppressUpdate() {#suppressUpdate--}
 ```
 public void suppressUpdate()

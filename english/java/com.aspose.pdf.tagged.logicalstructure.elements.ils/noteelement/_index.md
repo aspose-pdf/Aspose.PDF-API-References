@@ -17,3 +17,16 @@ Represents Note structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [NoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#NoteElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### NoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#NoteElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public NoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

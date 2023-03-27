@@ -17,6 +17,7 @@ Class representing scn operator (set color for non-stroking operations).
 
 | Constructor | Description |
 | --- | --- |
+| [SetAdvancedColor(int index, ICommand command)](#SetAdvancedColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [SetAdvancedColor()](#SetAdvancedColor--) | Initializes operator. |
 | [SetAdvancedColor(double g, String patternName)](#SetAdvancedColor-double-java.lang.String-) | Constructor for scn operator. |
 | [SetAdvancedColor(double g)](#SetAdvancedColor-double-) | Constructor for scn operator |
@@ -28,6 +29,20 @@ Class representing scn operator (set color for non-stroking operations).
 | --- | --- |
 | [getColor()](#getColor--) | Not supported yet. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+### SetAdvancedColor(int index, ICommand command) {#SetAdvancedColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetAdvancedColor(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### SetAdvancedColor() {#SetAdvancedColor--}
 ```
 public SetAdvancedColor()

@@ -22,6 +22,16 @@ Represents attributes of structure element for standard attribute owners.
 | [getAttribute(AttributeKey key)](#getAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-) | Gets StructureAttribute by AttributeKey. |
 | [hasAttribute(AttributeKey key)](#hasAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-) |  |
 | [setAttribute(StructureAttribute attribute)](#setAttribute-com.aspose.pdf.tagged.logicalstructure.elements.StructureAttribute-) | Sets StructureAttribute into StructureAttributes. |
+### getEngineAttributes() {#getEngineAttributes--}
+```
+public final IPdfDictionary getEngineAttributes()
+```
+
+
+
+
+**Returns:**
+[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary)
 ### getOwner() {#getOwner--}
 ```
 public final AttributeOwnerStandard getOwner()

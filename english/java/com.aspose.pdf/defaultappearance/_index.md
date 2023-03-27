@@ -18,6 +18,8 @@ Describes default appearance of field (font, text size and color).
 | Constructor | Description |
 | --- | --- |
 | [DefaultAppearance()](#DefaultAppearance--) | Constructor of DefaultAppearance. |
+| [DefaultAppearance(IPdfDictionary engineDict)](#DefaultAppearance-com.aspose.pdf.engine.data.IPdfDictionary-) |  |
+| [DefaultAppearance(IPdfPrimitive appearance)](#DefaultAppearance-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
 | [DefaultAppearance(String fontName, double fontSize, Color textColor)](#DefaultAppearance-java.lang.String-double-java.awt.Color-) | Constructor of DefaultAppearance. |
 | [DefaultAppearance(Font font, double fontSize, Color textColor)](#DefaultAppearance-com.aspose.pdf.Font-double-java.awt.Color-) | Constructor of DefaultAppearance. |
 ## Methods
@@ -41,6 +43,28 @@ public DefaultAppearance()
 
 
 Constructor of DefaultAppearance.
+
+### DefaultAppearance(IPdfDictionary engineDict) {#DefaultAppearance-com.aspose.pdf.engine.data.IPdfDictionary-}
+```
+public DefaultAppearance(IPdfDictionary engineDict)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| engineDict | [IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary) |  |
+
+### DefaultAppearance(IPdfPrimitive appearance) {#DefaultAppearance-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public DefaultAppearance(IPdfPrimitive appearance)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| appearance | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
 
 ### DefaultAppearance(String fontName, double fontSize, Color textColor) {#DefaultAppearance-java.lang.String-double-java.awt.Color-}
 ```

@@ -17,6 +17,7 @@ Class represenging TL operator (set text leading).
 
 | Constructor | Description |
 | --- | --- |
+| [SetTextLeading(int index, ICommand command)](#SetTextLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 | [SetTextLeading(double leading)](#SetTextLeading-double-) | Constructor for text leadign operator. |
 ## Methods
 
@@ -26,6 +27,18 @@ Class represenging TL operator (set text leading).
 | [setLeading(double value)](#setLeading-double-) | Sets the text leading. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Produces text code of operator. |
+### SetTextLeading(int index, ICommand command) {#SetTextLeading-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetTextLeading(int index, ICommand command)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
+
 ### SetTextLeading(double leading) {#SetTextLeading-double-}
 ```
 public SetTextLeading(double leading)

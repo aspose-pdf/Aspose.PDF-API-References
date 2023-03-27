@@ -18,6 +18,7 @@ Class representing MP operator (define marked-content point).
 | Constructor | Description |
 | --- | --- |
 | [MP(String tag)](#MP-java.lang.String-) | Initializes operator. |
+| [MP(int index, ICommand command)](#MP-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -37,6 +38,20 @@ Initializes operator.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | tag | java.lang.String | Marked content tag. |
+
+### MP(int index, ICommand command) {#MP-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public MP(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### getTag() {#getTag--}
 ```

@@ -2,7 +2,7 @@
 title: "Aspose.PDF for JavaScript via C++"
 description:  "Aspose.PDF for JavaScript via C++"
 keywords:  "JavaScript via C++, JavaScript PDF toolkit"
-tags: ['pdf-to-jpg', 'pdf-to-png']
+tags: ['pdf-to-jpg', 'pdf-to-png', 'pdf-convert', 'pdf-tools']
 weight: 40
 url: /javascript-cpp/
 type: docs
@@ -15,6 +15,8 @@ is_root: true
 
 | Function | Description |
 | -------- | ----------- |
+| [AsposePdfPrepare](./core/asposepdfprepare/) | Save the BLOB in the Memory FS for processing. |
+| [AsposePdfPrepareBase64](./core/asposepdfpreparebase64/) | Save the string representation BLOB in the Memory FS for processing. |
 | [AsposePdfAddImage](./core/asposepdfaddimage/) | Add image to end PDF file. |
 | [AsposePdfAddStamp](./core/asposepdfaddstamp/) | Add stamp to PDF file. |
 | [AsposePdfDecrypt](./core/asposepdfdecrypt/) | Decrypt PDF file. |
@@ -30,6 +32,11 @@ is_root: true
 | [AsposePdfAddBackgroundImage](./core/asposepdfaddbackgroundimage/) | Add background image to PDF file. |
 | [AsposePdfGetInfo](./core/asposepdfgetinfo/) | Get info (metadata) from PDF file. |
 | [AsposePdfSetInfo](./core/asposepdfsetinfo/) | Set info (metadata) in PDF file. |
+| [AsposePdfGetAllFonts](./core/asposepdfgetallfonts/) | Get list fonts of PDF file. |
+| [AsposePdfAddTextHeaderFooter](./core/asposepdfaddtextheaderfooter/) | Add text in Header/Footer of PDF file. |
+| [AsposePdfRotateAllPages](./core/asposepdfrotateallpages/) | Rotate PDF pages. |
+| [AsposePdfConvertToGrayscale](./core/asposepdfconverttograyscale/) | Convert PDF to grayscale. |
+| [AsposePdfSignPKCS7](./core/asposepdfsignpkcs7/) | Sign PDF with digital signatures. |
 
 ## Miscellaneous
 

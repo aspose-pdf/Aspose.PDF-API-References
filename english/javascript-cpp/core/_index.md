@@ -10,6 +10,8 @@ url: /javascript-cpp/core/
 
 |      Name      |  Description   |
 | -------------- | -------------- |
+| [AsposePdfPrepare](./asposepdfprepare/) | Save the BLOB in the Memory FS for processing. |
+| [AsposePdfPrepareBase64](./asposepdfpreparebase64/) | Save the string representation BLOB in the Memory FS for processing. |
 | [AsposePdfExtractText](./asposepdfextracttext/) | Extract text from PDF file. |
 | [AsposePdfOptimize](./asposepdfoptimize/) | Optimize PDF file. |
 | [AsposePdfEncrypt](./asposepdfencrypt/) | Encrypt PDF file. |
@@ -25,6 +27,11 @@ url: /javascript-cpp/core/
 | [AsposePdfAddBackgroundImage](./asposepdfaddbackgroundimage/) | Add background image to PDF file. |
 | [AsposePdfGetInfo](./asposepdfgetinfo/) | Get info (metadata) from PDF file. |
 | [AsposePdfSetInfo](./asposepdfsetinfo/) | Set info (metadata) in PDF file. |
+| [AsposePdfGetAllFonts](./asposepdfgetallfonts/) | Get list fonts of PDF file. |
+| [AsposePdfAddTextHeaderFooter](./asposepdfaddtextheaderfooter/) | Add text in Header/Footer of PDF file. |
+| [AsposePdfRotateAllPages](./asposepdfrotateallpages/) | Rotate PDF pages. |
+| [AsposePdfConvertToGrayscale](./asposepdfconverttograyscale/) | Convert PDF to grayscale. |
+| [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign PDF with digital signatures. |
 
 ## Detailed Description
 

@@ -17,6 +17,7 @@ Class represents collection of operators
 
 | Constructor | Description |
 | --- | --- |
+| [OperatorCollection(IPdfPrimitive contents)](#OperatorCollection-com.aspose.pdf.engine.data.IPdfPrimitive-) | For internal usage only! |
 ## Methods
 
 | Method | Description |
@@ -54,6 +55,21 @@ Class represents collection of operators
 | [toList()](#toList--) | Returns operator list. |
 | [remove(Operator op)](#remove-com.aspose.pdf.Operator-) | Remove operator from the collection. |
 | [contains(Operator op)](#contains-com.aspose.pdf.Operator-) | Returns true if the collection contains given operator. |
+### OperatorCollection(IPdfPrimitive contents) {#OperatorCollection-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public OperatorCollection(IPdfPrimitive contents)
+```
+
+
+For internal usage only!
+
+Constructor of OperatorCollection. Constructs operators from primitive contains operators list.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| contents | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) | IPdfPrimitive object |
+
 ### isReadOnly() {#isReadOnly--}
 ```
 public boolean isReadOnly()

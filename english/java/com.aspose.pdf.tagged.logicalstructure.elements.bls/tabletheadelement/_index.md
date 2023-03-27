@@ -17,3 +17,16 @@ Represents THead structure element in logical structure of the table.
 
 | Constructor | Description |
 | --- | --- |
+| [TableTHeadElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#TableTHeadElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### TableTHeadElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#TableTHeadElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public TableTHeadElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

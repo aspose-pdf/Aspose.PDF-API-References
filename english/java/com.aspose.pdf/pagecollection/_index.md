@@ -53,6 +53,7 @@ Collection of PDF document pages.
 | [add_Rename_Namesake(Page entity)](#add-Rename-Namesake-com.aspose.pdf.Page-) | Adds page to collection. |
 | [contains(Page item)](#contains-com.aspose.pdf.Page-) | Determines whether this instance contains the object. |
 | [remove(Page item)](#remove-com.aspose.pdf.Page-) | Removes the specified item, throws exception. |
+| [findByPdfObject(IPdfObject pdfObject)](#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-) |  |
 ### size() {#size--}
 ```
 public int size()
@@ -466,3 +467,18 @@ Removes the specified item, throws exception.
 
 **Returns:**
 boolean - boolean value
+### findByPdfObject(IPdfObject pdfObject) {#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-}
+```
+public final Page findByPdfObject(IPdfObject pdfObject)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfObject | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) |  |
+
+**Returns:**
+[Page](../../com.aspose.pdf/page)

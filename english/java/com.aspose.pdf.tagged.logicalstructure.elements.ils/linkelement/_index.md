@@ -20,6 +20,7 @@ Represents Link structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [LinkElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#LinkElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
 ## Methods
 
 | Method | Description |
@@ -28,6 +29,18 @@ Represents Link structure element in logical structure.
 | [setHyperlink(Hyperlink value)](#setHyperlink-com.aspose.pdf.Hyperlink-) | Gets or Sets Hyperlink for Link Element. |
 | [getStructureTextState()](#getStructureTextState--) | Gets  /Aspose.Pdf.LogicalStructure.StructureTextState  object for current element. |
 | [setText(String text)](#setText-java.lang.String-) | Appends text content to current text element. |
+### LinkElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#LinkElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public LinkElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+
 ### getHyperlink() {#getHyperlink--}
 ```
 public final Hyperlink getHyperlink()

@@ -17,6 +17,7 @@ Class representing n operator (end path without filling or stroking).
 
 | Constructor | Description |
 | --- | --- |
+| [EndPath(int index, ICommand command)](#EndPath-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [EndPath()](#EndPath--) | Constructor for writing program. |
 ## Methods
 
@@ -24,6 +25,20 @@ Class representing n operator (end path without filling or stroking).
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Text representation of operator. |
+### EndPath(int index, ICommand command) {#EndPath-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public EndPath(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### EndPath() {#EndPath--}
 ```
 public EndPath()

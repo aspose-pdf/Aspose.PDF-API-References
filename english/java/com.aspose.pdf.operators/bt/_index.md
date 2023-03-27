@@ -17,6 +17,7 @@ Class representing BT operator (Begin of text block).
 
 | Constructor | Description |
 | --- | --- |
+| [BT(int index, ICommand command)](#BT-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [BT()](#BT--) | Constructor for writing program. |
 ## Methods
 
@@ -25,6 +26,20 @@ Class representing BT operator (Begin of text block).
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Produces text code of operator. |
 | [toCommand()](#toCommand--) |  |
+### BT(int index, ICommand command) {#BT-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public BT(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### BT() {#BT--}
 ```
 public BT()
@@ -65,3 +80,4 @@ public ICommand toCommand()
 
 
 **Returns:**
+[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)

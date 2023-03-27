@@ -18,6 +18,7 @@ Class representing J operator (set line cap style).
 | Constructor | Description |
 | --- | --- |
 | [SetLineCap(int cap)](#SetLineCap-int-) |  |
+| [SetLineCap(int index, ICommand command)](#SetLineCap-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
 ## Methods
 
 | Method | Description |
@@ -33,6 +34,18 @@ public SetLineCap(int cap)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | cap | int |  |
+
+### SetLineCap(int index, ICommand command) {#SetLineCap-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public SetLineCap(int index, ICommand command)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

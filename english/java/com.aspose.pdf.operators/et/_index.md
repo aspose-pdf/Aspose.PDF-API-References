@@ -17,6 +17,7 @@ Class representing operator ET (End of text block).
 
 | Constructor | Description |
 | --- | --- |
+| [ET(int index, ICommand command)](#ET-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [ET()](#ET--) | Constructor for writing program. |
 ## Methods
 
@@ -24,6 +25,20 @@ Class representing operator ET (End of text block).
 | --- | --- |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Produces text code of operator. |
+### ET(int index, ICommand command) {#ET-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public ET(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### ET() {#ET--}
 ```
 public ET()

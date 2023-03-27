@@ -48,6 +48,16 @@ public final void updateLastMCID(int mcid)
 | --- | --- | --- |
 | mcid | int |  |
 
+### getTrailer() {#getTrailer--}
+```
+public final ITrailerable getTrailer()
+```
+
+
+
+
+**Returns:**
+[ITrailerable](../../com.aspose.pdf.engine.data/itrailerable)
 ### getDocument() {#getDocument--}
 ```
 public final IDocument getDocument()

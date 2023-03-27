@@ -17,3 +17,16 @@ Represents Quote structure element in logical structure.
 
 | Constructor | Description |
 | --- | --- |
+| [QuoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#QuoteElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
+### QuoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#QuoteElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
+```
+public QuoteElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
+| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
+

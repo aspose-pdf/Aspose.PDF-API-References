@@ -18,6 +18,7 @@ Class representing EI operator (End inline image object).
 | Constructor | Description |
 | --- | --- |
 | [EI()](#EI--) | Initializes operator. |
+| [EI(int index, ICommand command)](#EI-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
 | Method | Description |
@@ -31,6 +32,20 @@ public EI()
 
 
 Initializes operator.
+
+### EI(int index, ICommand command) {#EI-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public EI(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

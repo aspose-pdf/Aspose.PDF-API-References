@@ -17,6 +17,7 @@ Class representing q operator (save graphics state).
 
 | Constructor | Description |
 | --- | --- |
+| [GSave(int index, ICommand command)](#GSave-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 | [GSave()](#GSave--) | Constructor for q operator. |
 ## Methods
 
@@ -24,6 +25,20 @@ Class representing q operator (save graphics state).
 | --- | --- |
 | [toString()](#toString--) | Returns text of the operator. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+### GSave(int index, ICommand command) {#GSave-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+```
+public GSave(int index, ICommand command)
+```
+
+
+Constructor for operator class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of operator. |
+| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
 ### GSave() {#GSave--}
 ```
 public GSave()
