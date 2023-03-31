@@ -14,7 +14,7 @@ Enumerates possible types of image's parents Image can pertain to HTML page or t
 public enum ImageParentTypes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

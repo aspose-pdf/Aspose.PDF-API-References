@@ -14,7 +14,7 @@ Enumerates the intents of the free text annotation.
 public enum FreeTextIntent
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

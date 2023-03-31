@@ -14,7 +14,7 @@ This enum represents shape type for the extracted images.
 public enum ShapeType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

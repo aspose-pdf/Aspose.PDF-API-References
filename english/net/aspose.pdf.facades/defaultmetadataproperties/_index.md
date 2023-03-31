@@ -14,7 +14,7 @@ Enumeration of standard XMP properties.
 public enum DefaultMetadataProperties
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

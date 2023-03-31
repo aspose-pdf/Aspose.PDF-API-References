@@ -14,7 +14,7 @@ Enumerates the border corner styles for border.
 public enum BorderCornerStyle
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

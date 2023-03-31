@@ -3,7 +3,7 @@ title: TextAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an absorber object of a text. Performs text extraction and provides access to the result via Text./textabsorber/text object.
 type: docs
-weight: 7210
+weight: 7370
 url: /net/aspose.pdf.text/textabsorber/
 ---
 ## TextAbsorber class

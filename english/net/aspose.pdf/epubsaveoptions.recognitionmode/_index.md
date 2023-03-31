@@ -14,7 +14,7 @@ When PDF file (that usually has fixed layout) is being converted, the conversion
 public enum RecognitionMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

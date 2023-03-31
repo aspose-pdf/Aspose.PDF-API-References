@@ -14,7 +14,7 @@ Enumerates conversion engines that can be used for conversion
 public enum ConversionEngines
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

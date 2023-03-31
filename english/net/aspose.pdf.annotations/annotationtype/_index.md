@@ -14,7 +14,7 @@ Enumeration of annotation types.
 public enum AnnotationType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

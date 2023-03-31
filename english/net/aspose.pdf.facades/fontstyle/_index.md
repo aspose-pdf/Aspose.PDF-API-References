@@ -14,7 +14,7 @@ Enumerates 14 types of font.
 public enum FontStyle
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

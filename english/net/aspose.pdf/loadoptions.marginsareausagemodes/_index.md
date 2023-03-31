@@ -14,7 +14,7 @@ Represents mode of usage of margins area during conversion (like HTML, EPUB etc)
 public enum MarginsAreaUsageModes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

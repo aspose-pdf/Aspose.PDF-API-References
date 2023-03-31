@@ -14,7 +14,7 @@ Enumerates encoding types of the text using.
 public enum EncodingType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

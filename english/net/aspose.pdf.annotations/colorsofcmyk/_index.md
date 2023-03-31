@@ -14,7 +14,7 @@ Colors included in the CMYK color model.
 public enum ColorsOfCMYK
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ This action represents actions for conversion of images with soft mask.
 public enum ConvertSoftMaskAction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

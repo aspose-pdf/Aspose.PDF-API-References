@@ -14,7 +14,7 @@ Used to specify the form presentation mode when printing or converting to image 
 public enum FormPresentationMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

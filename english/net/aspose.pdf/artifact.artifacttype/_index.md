@@ -14,7 +14,7 @@ Enumeration of possuble artifact types.
 public enum ArtifactType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

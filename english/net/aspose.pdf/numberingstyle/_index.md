@@ -14,7 +14,7 @@ Enumeration of supported page numbering style for PageLabel class.
 public enum NumberingStyle
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

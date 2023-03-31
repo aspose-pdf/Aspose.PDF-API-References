@@ -14,7 +14,7 @@ enumerates strategies for font subsetting
 public enum FontSubsetStrategy : byte
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

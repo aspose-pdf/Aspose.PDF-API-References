@@ -3,7 +3,7 @@ title: TabAlignmentType
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the tab alignment types.
 type: docs
-weight: 7160
+weight: 7320
 url: /net/aspose.pdf.text/tabalignmenttype/
 ---
 ## TabAlignmentType enumeration
@@ -14,7 +14,7 @@ Enumerates the tab alignment types.
 public enum TabAlignmentType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

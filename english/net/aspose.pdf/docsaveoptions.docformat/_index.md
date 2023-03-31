@@ -14,7 +14,7 @@ Allows to specify .doc or .docx file format.
 public enum DocFormat
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

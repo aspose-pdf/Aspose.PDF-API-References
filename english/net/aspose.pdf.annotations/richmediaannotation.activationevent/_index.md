@@ -14,7 +14,7 @@ Event which activates annotation.
 public enum ActivationEvent
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

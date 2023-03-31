@@ -14,7 +14,7 @@ Declares set of some known encoding subtables
 public enum CMapEncodingTableType : short
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

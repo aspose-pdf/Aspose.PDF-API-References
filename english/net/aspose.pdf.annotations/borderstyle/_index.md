@@ -14,7 +14,7 @@ Describes style of the annotation border.
 public enum BorderStyle
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Enumerates the types of explicit destinations.
 public enum ExplicitDestinationType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

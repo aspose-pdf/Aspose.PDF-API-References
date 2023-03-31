@@ -14,7 +14,7 @@ Encoding of the attached file. Possible values: Zip - file is compressed with ZI
 public enum FileEncoding
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

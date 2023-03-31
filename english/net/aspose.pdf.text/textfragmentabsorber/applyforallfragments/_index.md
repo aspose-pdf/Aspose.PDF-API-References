@@ -1,32 +1,11 @@
 ---
 title: ApplyForAllFragments
 second_title: Aspose.PDF for .NET API Reference
-description: Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the pages were absorbed. Otherwise it works similar with looping.
+description: Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the pages were absorbed. Otherwise it works similar with looping.
 type: docs
 weight: 110
 url: /net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
 ---
-## ApplyForAllFragments(Font) {#applyforallfragments}
-
-Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
-```csharp
-public void ApplyForAllFragments(Font font)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | Font | [`Font`](../../font)of the text. |
-
-### See Also
-
-* class [Font](../../font)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## ApplyForAllFragments(float) {#applyforallfragments_2}
 
 Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
@@ -59,6 +38,27 @@ public void ApplyForAllFragments(Font font, float fontSize)
 | --- | --- | --- |
 | font | Font | [`Font`](../../font)of the text. |
 | fontSize | Single | Font size of the text. |
+
+### See Also
+
+* class [Font](../../font)
+* class [TextFragmentAbsorber](../../textfragmentabsorber)
+* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ApplyForAllFragments(Font) {#applyforallfragments}
+
+Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
+
+```csharp
+public void ApplyForAllFragments(Font font)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | Font | [`Font`](../../font)of the text. |
 
 ### See Also
 

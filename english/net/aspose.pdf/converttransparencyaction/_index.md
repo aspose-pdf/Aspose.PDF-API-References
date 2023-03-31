@@ -14,7 +14,7 @@ This class represents action for conversion of transparency.
 public enum ConvertTransparencyAction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

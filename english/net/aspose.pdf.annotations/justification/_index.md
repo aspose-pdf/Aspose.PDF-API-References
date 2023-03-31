@@ -14,7 +14,7 @@ Enumerates the forms of quadding (justification) to be used in displaying the an
 public enum Justification
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

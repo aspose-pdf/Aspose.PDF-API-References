@@ -14,7 +14,7 @@ Scope where replace text operation is applied REPLACE_FIRST by default
 public enum Scope
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

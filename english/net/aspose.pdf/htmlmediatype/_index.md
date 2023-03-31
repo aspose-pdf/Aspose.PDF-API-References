@@ -14,7 +14,7 @@ Specifies possible media types used during rendering.
 public enum HtmlMediaType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

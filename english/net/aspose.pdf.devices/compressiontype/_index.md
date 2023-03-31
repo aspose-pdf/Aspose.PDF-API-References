@@ -14,7 +14,7 @@ Used to specify the parameter value passed to a Tiff image device.
 public enum CompressionType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

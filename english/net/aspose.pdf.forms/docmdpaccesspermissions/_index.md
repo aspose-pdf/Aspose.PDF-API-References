@@ -14,7 +14,7 @@ The access permissions granted for this document. Valid values are: 1 - No chang
 public enum DocMDPAccessPermissions
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

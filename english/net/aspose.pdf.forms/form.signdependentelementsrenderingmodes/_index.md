@@ -14,7 +14,7 @@ Forms can contain signing information and can be signed or unsigned. Sometimes v
 public enum SignDependentElementsRenderingModes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

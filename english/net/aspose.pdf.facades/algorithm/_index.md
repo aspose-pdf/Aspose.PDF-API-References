@@ -14,7 +14,7 @@ Represents algorithms which can be used to encrypt pdf document.
 public enum Algorithm
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

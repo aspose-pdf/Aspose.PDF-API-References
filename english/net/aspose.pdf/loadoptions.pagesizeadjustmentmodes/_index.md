@@ -14,7 +14,7 @@ ATTENTION! The feature implemented but did not put yet to public API since block
 public enum PageSizeAdjustmentModes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

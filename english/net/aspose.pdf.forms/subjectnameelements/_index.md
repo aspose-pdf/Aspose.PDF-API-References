@@ -14,7 +14,7 @@ Enumeration describes elements in signature subject string.
 public enum SubjectNameElements
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

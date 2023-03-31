@@ -14,7 +14,7 @@ Value which indicates in which manner fraction values are displayed.
 public enum FractionStyle
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Enum RenderModeType: set of render mode types
 public enum RenderModeType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

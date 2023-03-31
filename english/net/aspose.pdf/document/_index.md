@@ -151,6 +151,18 @@ public sealed class Document : IDisposable
 | static [Convert](../../aspose.pdf/document/convert#convert_2)(string, LoadOptions, Stream, SaveOptions) | Converts source file in source format into stream in destination format. |
 | static [Convert](../../aspose.pdf/document/convert#convert_3)(string, LoadOptions, string, SaveOptions) | Converts source file in source format into destination file in destination format. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [DefaultNodesNumInSubtrees](../../aspose.pdf/document/defaultnodesnuminsubtrees) |  |
+
+## Events
+
+| Name | Description |
+| --- | --- |
+| event [FontSubstitution](../../aspose.pdf/document/fontsubstitution) | Occurs when font replaces another font in document. |
+
 ## Other Members
 
 | Name | Description |

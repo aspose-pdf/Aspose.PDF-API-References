@@ -14,7 +14,7 @@ This enum represents an type of Fixup.
 public enum Fixup
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

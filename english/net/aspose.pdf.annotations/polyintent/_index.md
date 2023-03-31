@@ -14,7 +14,7 @@ Enumerates the intents of the polygon or polyline annotation.
 public enum PolyIntent
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

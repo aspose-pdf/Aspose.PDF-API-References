@@ -14,7 +14,7 @@ It enumerates possible modes of positioning of letters in words in result HTML
 public enum LettersPositioningMethods
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

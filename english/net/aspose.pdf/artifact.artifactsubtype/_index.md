@@ -14,7 +14,7 @@ Enumeration of possible artifacts subtype.
 public enum ArtifactSubtype
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

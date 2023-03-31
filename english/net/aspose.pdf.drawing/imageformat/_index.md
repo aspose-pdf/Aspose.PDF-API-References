@@ -14,7 +14,7 @@ This enum represents image formats.
 public enum ImageFormat
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

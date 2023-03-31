@@ -14,7 +14,7 @@ This class represents action for conversion errors.
 public enum ConvertErrorAction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

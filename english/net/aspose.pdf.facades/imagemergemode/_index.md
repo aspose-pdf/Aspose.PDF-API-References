@@ -14,7 +14,7 @@ Represents modes for merging images.
 public enum ImageMergeMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Describes versions of image compression algorithm.
 public enum ImageCompressionVersion
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

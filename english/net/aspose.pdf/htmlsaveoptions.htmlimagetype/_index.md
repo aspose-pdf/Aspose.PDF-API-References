@@ -14,7 +14,7 @@ enumerates possible types of image files that can be saved as external resources
 public enum HtmlImageType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

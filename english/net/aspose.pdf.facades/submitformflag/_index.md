@@ -15,7 +15,7 @@ Enumeration of possible submit form flags.
 public enum SubmitFormFlag
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

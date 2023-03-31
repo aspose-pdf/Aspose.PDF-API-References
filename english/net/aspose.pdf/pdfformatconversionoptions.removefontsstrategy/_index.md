@@ -15,7 +15,7 @@ Some documens have large size after converison into PDF/A format. To reduce file
 public enum RemoveFontsStrategy : byte
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

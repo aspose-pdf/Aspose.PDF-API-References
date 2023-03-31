@@ -14,7 +14,7 @@ Type of the multimedia.
 public enum ContentType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

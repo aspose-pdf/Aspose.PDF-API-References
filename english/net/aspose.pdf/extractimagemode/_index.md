@@ -14,7 +14,7 @@ Defines different modes which can be used while extracting images from documents
 public enum ExtractImageMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

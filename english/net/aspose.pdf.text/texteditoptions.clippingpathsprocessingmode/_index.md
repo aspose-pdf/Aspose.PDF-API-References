@@ -3,7 +3,7 @@ title: TextEditOptions.ClippingPathsProcessingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Clipping path processing modes
 type: docs
-weight: 7240
+weight: 7400
 url: /net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/
 ---
 ## TextEditOptions.ClippingPathsProcessingMode enumeration
@@ -14,7 +14,7 @@ Clipping path processing modes
 public enum ClippingPathsProcessingMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

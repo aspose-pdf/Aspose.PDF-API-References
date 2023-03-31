@@ -3,7 +3,7 @@ title: XmpFieldType
 second_title: Aspose.PDF for .NET API Reference
 description: This enum represents types of a XMP field.
 type: docs
-weight: 7720
+weight: 7880
 url: /net/aspose.pdf/xmpfieldtype/
 ---
 ## XmpFieldType enumeration
@@ -14,7 +14,7 @@ This enum represents types of a XMP field.
 public enum XmpFieldType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

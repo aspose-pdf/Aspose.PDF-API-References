@@ -3,7 +3,7 @@ title: PrintDuplex
 second_title: Aspose.PDF for .NET API Reference
 description: The paper handling option to use when printing the file from the print dialog..
 type: docs
-weight: 6400
+weight: 6560
 url: /net/aspose.pdf/printduplex/
 ---
 ## PrintDuplex enumeration
@@ -14,7 +14,7 @@ The paper handling option to use when printing the file from the print dialog..
 public enum PrintDuplex
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

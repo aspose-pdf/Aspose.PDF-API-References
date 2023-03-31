@@ -14,7 +14,7 @@ Style of line ending of Ink annotation line.
 public enum CapStyle
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

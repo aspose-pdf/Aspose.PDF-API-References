@@ -14,7 +14,7 @@ Enumerates the operations to perform with document during launch action executin
 public enum LaunchActionOperation
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |
