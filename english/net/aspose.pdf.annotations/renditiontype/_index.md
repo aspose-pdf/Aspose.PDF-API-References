@@ -14,7 +14,7 @@ Enumeration describes possible types of Rendition.
 public enum RenditionType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

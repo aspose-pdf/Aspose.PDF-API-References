@@ -14,7 +14,7 @@ Class represents blending color space.
 public enum BlendingColorSpace
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

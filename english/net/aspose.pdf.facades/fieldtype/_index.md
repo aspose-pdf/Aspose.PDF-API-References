@@ -14,7 +14,7 @@ Enumeration of possible field types.
 public enum FieldType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

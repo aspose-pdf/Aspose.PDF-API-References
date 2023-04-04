@@ -14,7 +14,7 @@ Enumerates modes that can be used for saving of fonts referenced in saved PDF.
 public enum FontSavingModes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ This enum enumerates possible modes of embedding of files referenced in HTML It 
 public enum PartsEmbeddingModes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

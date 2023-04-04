@@ -3,7 +3,7 @@ title: XmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to Xml format
 type: docs
-weight: 7700
+weight: 7860
 url: /net/aspose.pdf/xmlsaveoptions/
 ---
 ## XmlSaveOptions class

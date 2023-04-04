@@ -14,7 +14,7 @@ Status of imported field
 public enum ImportStatus
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

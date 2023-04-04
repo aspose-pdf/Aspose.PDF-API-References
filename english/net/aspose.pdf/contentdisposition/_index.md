@@ -14,7 +14,7 @@ MIME protocol Content-Disposition header.
 public enum ContentDisposition
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

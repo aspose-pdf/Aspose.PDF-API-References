@@ -14,7 +14,7 @@ Enumerates the line ending styles to be used in drawing the line.
 public enum LineEnding
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

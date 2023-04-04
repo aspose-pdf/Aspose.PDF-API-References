@@ -14,7 +14,7 @@ Class descibes used components of the document page.
 public enum PageMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

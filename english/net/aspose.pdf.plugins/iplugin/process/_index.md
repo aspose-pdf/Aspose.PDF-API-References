@@ -16,11 +16,11 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containg instructions for the plugin |
+| options | IPluginOptions | An options object containing instructions for the plugin |
 
 ### Return Value
 
-An ResultContainer object containg the result of the processing
+An ResultContainer object containing the result of the processing
 
 ### See Also
 

@@ -14,7 +14,7 @@ Enumerates the image file types.
 public enum ImageFileType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

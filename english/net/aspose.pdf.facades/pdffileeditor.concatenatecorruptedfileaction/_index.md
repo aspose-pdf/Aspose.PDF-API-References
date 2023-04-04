@@ -14,7 +14,7 @@ Action performed when corrupted file was met in concatenation process.
 public enum ConcatenateCorruptedFileAction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

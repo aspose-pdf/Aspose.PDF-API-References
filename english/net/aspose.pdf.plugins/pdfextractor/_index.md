@@ -3,7 +3,7 @@ title: PdfExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Represents PdfExtractor plugin.
 type: docs
-weight: 6240
+weight: 6320
 url: /net/aspose.pdf.plugins/pdfextractor/
 ---
 ## PdfExtractor class
@@ -39,8 +39,8 @@ The example demonstrates how to extract text content of PDF document.
 // create PdfExtractor object to extract PDF contents
 using (PdfExtractor extractor = new PdfExtractor())
 {
-    // create PdfTextExtractionOptions or PdfImageExtractionOptions object to set instructions
-    extractorOptions = new PdfTextExtractionOptions();
+    // create PdfExtractorToTextOptions or PdfImageExtractionOptions object to set instructions
+    extractorOptions = new PdfExtractorToTextOptions();
     
     // add input file path to data sources
     extractorOptions.AddDataSource(new FileDataSource(inputPath));

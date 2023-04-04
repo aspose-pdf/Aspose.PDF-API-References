@@ -14,7 +14,7 @@ Defines different actions which can be triggered from a PDF file.
 public enum PredefinedAction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

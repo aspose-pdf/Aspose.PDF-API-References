@@ -14,7 +14,7 @@ The type of scaling that shall be used.
 public enum ScalingMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

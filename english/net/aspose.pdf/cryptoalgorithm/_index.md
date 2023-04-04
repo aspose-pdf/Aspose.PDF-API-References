@@ -14,7 +14,7 @@ Represent type of cryptographic algorithm that used in encryption/decryption rou
 public enum CryptoAlgorithm
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

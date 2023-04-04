@@ -3,7 +3,7 @@ title: TabOrder
 second_title: Aspose.PDF for .NET API Reference
 description: Tab order on the page
 type: docs
-weight: 6740
+weight: 6900
 url: /net/aspose.pdf/taborder/
 ---
 ## TabOrder enumeration
@@ -14,7 +14,7 @@ Tab order on the page
 public enum TabOrder
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

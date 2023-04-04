@@ -14,7 +14,7 @@ Specifies import format.
 public enum ImportFormat
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

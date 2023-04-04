@@ -14,7 +14,7 @@ Enumeration of the annotation�s caption positioning.
 public enum CaptionPosition
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

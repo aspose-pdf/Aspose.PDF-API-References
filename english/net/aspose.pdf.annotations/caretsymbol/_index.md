@@ -14,7 +14,7 @@ A symbol to be associated with the caret.
 public enum CaretSymbol
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ The state model corresponding to state of annotation.
 public enum AnnotationStateModel
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

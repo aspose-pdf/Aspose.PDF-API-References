@@ -14,7 +14,7 @@ Some PDF documents have special unicode symbols, which are belonged to Private U
 public enum PuaProcessingStrategy
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

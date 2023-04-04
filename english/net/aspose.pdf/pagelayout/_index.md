@@ -14,7 +14,7 @@ Descibes page layout.
 public enum PageLayout
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

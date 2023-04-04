@@ -14,7 +14,7 @@ The circumstances under which the icon shall be scaled inside the annotation rec
 public enum ScalingReason
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

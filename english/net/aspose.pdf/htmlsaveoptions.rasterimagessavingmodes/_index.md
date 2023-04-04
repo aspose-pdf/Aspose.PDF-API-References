@@ -14,7 +14,7 @@ Converted PDF can contain raster images(.png, *.jpeg etc.) This enum defines met
 public enum RasterImagesSavingModes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

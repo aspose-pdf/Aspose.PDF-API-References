@@ -14,7 +14,7 @@ The operation to perform when the action is triggered.
 public enum RenditionOperation
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

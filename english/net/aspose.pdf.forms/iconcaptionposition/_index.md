@@ -14,7 +14,7 @@ Describes position of icon.
 public enum IconCaptionPosition
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

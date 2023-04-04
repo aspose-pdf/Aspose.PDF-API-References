@@ -14,7 +14,7 @@ Represents styles of check box.
 public enum BoxStyle
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Text direction.
 public enum Direction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

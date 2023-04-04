@@ -14,7 +14,7 @@ Defines positioning mode. Possible values include Legacy (backward compatibility
 public enum PositioningMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

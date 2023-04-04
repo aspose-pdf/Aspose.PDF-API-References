@@ -14,7 +14,7 @@ Defines word wrapping strategies
 public enum WordWrapMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

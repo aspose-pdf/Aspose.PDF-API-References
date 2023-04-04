@@ -14,7 +14,7 @@ Represents boolean type that supports Undefined value.
 public enum ExtendedBoolean
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

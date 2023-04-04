@@ -14,7 +14,7 @@ Enumerates column adjustment types.
 public enum ColumnAdjustment
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

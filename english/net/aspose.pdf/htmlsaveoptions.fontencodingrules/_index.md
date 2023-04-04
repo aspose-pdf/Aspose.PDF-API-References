@@ -14,7 +14,7 @@ This enumeration defines rules which tune encoding logic
 public enum FontEncodingRules : byte
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

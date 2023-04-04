@@ -14,7 +14,7 @@ Enum PDF3DActivation: set of 3D annotation activation mode.
 public enum PDF3DActivation
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Enumerates the annotation�s highlighting mode, the visual effect to be used wh
 public enum HighlightingMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Image encoding types.
 public enum ImageEncoding
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

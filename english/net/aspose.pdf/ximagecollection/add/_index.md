@@ -60,13 +60,17 @@ Name of the added image.
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
 ```csharp
-public void Add(Stream image, ImageFilterType filterType)
+public string Add(Stream image, ImageFilterType filterType)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | image | Stream | Stream containing image data. |
 | filterType | ImageFilterType | The image filter type. |
+
+### Return Value
+
+Name of the added image.
 
 ### See Also
 

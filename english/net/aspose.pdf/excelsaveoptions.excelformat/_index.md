@@ -14,7 +14,7 @@ Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX;
 public enum ExcelFormat
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

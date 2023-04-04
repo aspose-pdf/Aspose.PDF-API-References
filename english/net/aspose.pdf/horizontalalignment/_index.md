@@ -14,7 +14,7 @@ Describes horizontal alignment.
 public enum HorizontalAlignment
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

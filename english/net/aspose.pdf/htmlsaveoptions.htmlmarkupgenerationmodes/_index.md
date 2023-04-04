@@ -14,7 +14,7 @@ Sometimes specific reqirments to created HTML are present. This enum defines HTM
 public enum HtmlMarkupGenerationModes
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -3,7 +3,7 @@ title: IPluginOptions
 second_title: Aspose.PDF for .NET API Reference
 description: General plugin option interface that defines common methods that concrete plugin option should implement.
 type: docs
-weight: 6230
+weight: 6250
 url: /net/aspose.pdf.plugins/ipluginoptions/
 ---
 ## IPluginOptions interface

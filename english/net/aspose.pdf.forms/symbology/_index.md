@@ -14,7 +14,7 @@ A (Barcode) Symbology defines the technical details of a particular type of barc
 public enum Symbology
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

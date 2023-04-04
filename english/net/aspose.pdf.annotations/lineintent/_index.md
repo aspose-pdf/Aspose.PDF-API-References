@@ -14,7 +14,7 @@ Enumerates the intents of the line annotation.
 public enum LineIntent
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

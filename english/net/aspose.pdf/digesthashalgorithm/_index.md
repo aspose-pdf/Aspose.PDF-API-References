@@ -14,7 +14,7 @@ Represent type of algoritm that maps data to a "hash"
 public enum DigestHashAlgorithm
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

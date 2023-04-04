@@ -14,7 +14,7 @@ Enumerates the kinds of the relationships (the “reply type”) between the ann
 public enum ReplyType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

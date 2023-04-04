@@ -14,7 +14,7 @@ The color spaces enumeration.
 public enum ColorSpace
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

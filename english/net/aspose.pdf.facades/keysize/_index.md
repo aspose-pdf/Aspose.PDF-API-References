@@ -14,7 +14,7 @@ Defines different key sizes which can be used to encrypt pdf documents.
 public enum KeySize
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

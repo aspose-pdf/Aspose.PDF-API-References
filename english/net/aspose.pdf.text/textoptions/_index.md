@@ -3,7 +3,7 @@ title: TextOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents text processing options
 type: docs
-weight: 7390
+weight: 7550
 url: /net/aspose.pdf.text/textoptions/
 ---
 ## TextOptions class

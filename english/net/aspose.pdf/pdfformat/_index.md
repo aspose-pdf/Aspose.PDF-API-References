@@ -14,7 +14,7 @@ This class represents an pdf format.
 public enum PdfFormat
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

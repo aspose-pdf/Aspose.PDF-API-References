@@ -14,7 +14,7 @@ The enumeration of states to which the original annotation can be set.
 public enum AnnotationState
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

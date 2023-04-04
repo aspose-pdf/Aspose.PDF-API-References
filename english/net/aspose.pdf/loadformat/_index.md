@@ -14,7 +14,7 @@ Specifies load format.
 public enum LoadFormat
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

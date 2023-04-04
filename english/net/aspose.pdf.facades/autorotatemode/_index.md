@@ -14,7 +14,7 @@ Direction of the rotation when document is printed.
 public enum AutoRotateMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

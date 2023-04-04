@@ -14,7 +14,7 @@ Enumeration representing image filter type.
 public enum ImageFilterType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Specifies color type of elements on page.
 public enum ColorType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ An icon to be used in displaying the annotation.
 public enum FileIcon
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

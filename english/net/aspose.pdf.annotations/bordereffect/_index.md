@@ -14,7 +14,7 @@ Describes effect which should be applied to the border of the annotations.
 public enum BorderEffect
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

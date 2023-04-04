@@ -3,7 +3,7 @@ title: AbsorbedTable
 second_title: Aspose.PDF for .NET API Reference
 description: Represents table that exist on the page
 type: docs
-weight: 6870
+weight: 7030
 url: /net/aspose.pdf.text/absorbedtable/
 ---
 ## AbsorbedTable class

@@ -1,14 +1,14 @@
 ---
 title: IOperationResult
 second_title: Aspose.PDF for .NET API Reference
-description: General operation result interface that defines common methods that concrete plugin operaion result should implement.
+description: General operation result interface that defines common methods that concrete plugin operation result should implement.
 type: docs
-weight: 6210
+weight: 6230
 url: /net/aspose.pdf.plugins/ioperationresult/
 ---
 ## IOperationResult interface
 
-General operation result interface that defines common methods that concrete plugin operaion result should implement.
+General operation result interface that defines common methods that concrete plugin operation result should implement.
 
 ```csharp
 public interface IOperationResult

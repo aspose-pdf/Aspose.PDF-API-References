@@ -14,7 +14,7 @@ The encoding format for the sample data.
 public enum SoundEncoding
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

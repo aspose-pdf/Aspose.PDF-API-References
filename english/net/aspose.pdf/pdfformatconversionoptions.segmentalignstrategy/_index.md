@@ -14,7 +14,7 @@ Describes strategies used to align document text segments. Now only strategy to 
 public enum SegmentAlignStrategy : byte
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

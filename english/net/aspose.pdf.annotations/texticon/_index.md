@@ -14,7 +14,7 @@ Enumerates the icons to be used in displaying the annotation.
 public enum TextIcon
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

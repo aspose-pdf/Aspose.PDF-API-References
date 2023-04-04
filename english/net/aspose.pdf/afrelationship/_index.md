@@ -14,7 +14,7 @@ Enumeration describes associated files relationship.
 public enum AFRelationship
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

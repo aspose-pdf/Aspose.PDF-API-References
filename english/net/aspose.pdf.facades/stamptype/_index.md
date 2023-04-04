@@ -14,7 +14,7 @@ Describes stamp types.
 public enum StampType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

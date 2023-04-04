@@ -14,7 +14,7 @@ Action to perform if font does not contain required character
 public enum NoCharacterAction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

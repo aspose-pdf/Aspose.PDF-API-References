@@ -14,7 +14,7 @@ Enumerates field types definitions.
 public enum DataType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

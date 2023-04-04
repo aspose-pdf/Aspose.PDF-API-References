@@ -14,7 +14,7 @@ Describes page coordinate type.
 public enum PageCoordinateType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

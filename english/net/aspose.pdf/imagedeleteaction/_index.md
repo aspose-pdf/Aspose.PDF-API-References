@@ -14,7 +14,7 @@ Action which performed with image object when image is removed from collection. 
 public enum ImageDeleteAction
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

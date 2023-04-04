@@ -14,7 +14,7 @@ Enumerates the border sides.
 public enum BorderSide
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

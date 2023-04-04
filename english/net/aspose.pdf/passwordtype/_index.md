@@ -14,7 +14,7 @@ This enum represents known password types used for password protected pdf docume
 public enum PasswordType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

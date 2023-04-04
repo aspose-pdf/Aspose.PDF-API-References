@@ -14,7 +14,7 @@ Specifies flags that together other options determine sizes and layouts of pages
 public enum HtmlPageLayoutOption
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

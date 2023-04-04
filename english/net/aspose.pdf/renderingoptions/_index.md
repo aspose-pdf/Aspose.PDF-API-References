@@ -3,7 +3,7 @@ title: RenderingOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents rendering options.
 type: docs
-weight: 6450
+weight: 6610
 url: /net/aspose.pdf/renderingoptions/
 ---
 ## RenderingOptions class

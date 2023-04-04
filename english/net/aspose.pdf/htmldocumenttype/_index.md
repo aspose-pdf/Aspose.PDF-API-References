@@ -14,7 +14,7 @@ Represents enumeration of the Html document types.
 public enum HtmlDocumentType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

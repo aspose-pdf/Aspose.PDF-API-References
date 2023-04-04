@@ -14,7 +14,7 @@ Defines different modes which can be used while converting a PDF document into t
 public enum TextFormattingMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

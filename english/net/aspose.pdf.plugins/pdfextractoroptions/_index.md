@@ -3,7 +3,7 @@ title: PdfExtractorOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for the PdfExtractor plugin.
 type: docs
-weight: 6250
+weight: 6330
 url: /net/aspose.pdf.plugins/pdfextractoroptions/
 ---
 ## PdfExtractorOptions class
@@ -29,7 +29,7 @@ public class PdfExtractorOptions : IPluginOptions
 
 ### Remarks
 
-The [`PdfExtractorOptions`](../pdfextractoroptions) contains base functions to add data (files, streams) representing input PDF documents. Please create [`PdfTextExtractionOptions`](../pdftextextractionoptions) or PdfImageExtractionOptions instead of this.
+The [`PdfExtractorOptions`](../pdfextractoroptions) contains base functions to add data (files, streams) representing input PDF documents. Please create [`PdfExtractorToTextOptions`](../pdfextractortotextoptions) or PdfExtractorToImageOptions instead of this.
 
 ### See Also
 

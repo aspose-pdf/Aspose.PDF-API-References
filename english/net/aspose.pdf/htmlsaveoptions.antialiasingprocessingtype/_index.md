@@ -14,7 +14,7 @@ This enum describes possible antialiasing measures during conversion
 public enum AntialiasingProcessingType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

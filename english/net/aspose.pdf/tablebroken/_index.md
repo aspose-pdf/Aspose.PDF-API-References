@@ -3,7 +3,7 @@ title: TableBroken
 second_title: Aspose.PDF for .NET API Reference
 description: Enumerates the table broken.
 type: docs
-weight: 6760
+weight: 6920
 url: /net/aspose.pdf/tablebroken/
 ---
 ## TableBroken enumeration
@@ -14,7 +14,7 @@ Enumerates the table broken.
 public enum TableBroken
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

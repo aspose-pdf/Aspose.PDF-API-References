@@ -14,7 +14,7 @@ Enumeration of posible types of Acro Form.
 public enum FormType
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

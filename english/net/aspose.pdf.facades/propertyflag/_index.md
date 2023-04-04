@@ -14,7 +14,7 @@ Enumeration of possible field flags.
 public enum PropertyFlag
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

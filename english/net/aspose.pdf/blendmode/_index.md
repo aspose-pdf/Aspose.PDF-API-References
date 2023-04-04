@@ -14,7 +14,7 @@ The blend modes enumeration.
 public enum BlendMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |

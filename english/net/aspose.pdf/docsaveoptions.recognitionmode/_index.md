@@ -14,7 +14,7 @@ Allows to control how a PDF document is converted into a word processing documen
 public enum RecognitionMode
 ```
 
-### Values
+### Values (decimal)
 
 | Name | Value | Description |
 | --- | --- | --- |
