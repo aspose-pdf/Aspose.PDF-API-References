@@ -1,14 +1,14 @@
 ---
 title: PclLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Creates PclLoadOptionsaspose.pdf/pclloadoptions object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/pclloadoptions/pclloadoptions/
 ---
 ## PclLoadOptions constructor
 
-Creates [`PclLoadOptions`](../../pclloadoptions) object.
+The default constructor.
 
 ```csharp
 public PclLoadOptions()

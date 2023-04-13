@@ -1,14 +1,14 @@
 ---
 title: MhtLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Creates load options for converting html into pdf document with empty base path.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/mhtloadoptions/mhtloadoptions/
 ---
 ## MhtLoadOptions constructor
 
-Creates load options for converting html into pdf document with empty base path.
+The default constructor.
 
 ```csharp
 public MhtLoadOptions()

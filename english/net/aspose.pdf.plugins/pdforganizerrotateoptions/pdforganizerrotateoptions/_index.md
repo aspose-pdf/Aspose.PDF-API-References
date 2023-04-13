@@ -1,14 +1,14 @@
 ---
 title: PdfOrganizerRotateOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the PdfOrganizerRotateOptionsaspose.pdf.plugins/pdforganizerrotateoptions object with default options.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdforganizerrotateoptions/pdforganizerrotateoptions/
 ---
 ## PdfOrganizerRotateOptions constructor
 
-Initializes new instance of the [`PdfOrganizerRotateOptions`](../../pdforganizerrotateoptions) object with default options.
+The default constructor.
 
 ```csharp
 public PdfOrganizerRotateOptions()

@@ -18,7 +18,7 @@ public sealed class FormDataConverter
 
 | Name | Description |
 | --- | --- |
-| [FormDataConverter](formdataconverter)() | Constructor for FormDataConverter class. |
+| [FormDataConverter](formdataconverter)() | The default constructor. |
 
 ## Properties
 

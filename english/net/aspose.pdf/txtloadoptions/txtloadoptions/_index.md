@@ -1,14 +1,14 @@
 ---
 title: TxtLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Creates load options for converting text into pdf document.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/txtloadoptions/txtloadoptions/
 ---
 ## TxtLoadOptions constructor
 
-Creates load options for converting text into pdf document.
+The default constructor.
 
 ```csharp
 public TxtLoadOptions()

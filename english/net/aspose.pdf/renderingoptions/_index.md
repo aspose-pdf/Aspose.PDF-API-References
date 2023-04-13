@@ -18,7 +18,7 @@ public sealed class RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [RenderingOptions](renderingoptions)() | Initializes new instance of the [`RenderingOptions`](../renderingoptions) object. |
+| [RenderingOptions](renderingoptions)() | The default constructor. |
 
 ## Properties
 

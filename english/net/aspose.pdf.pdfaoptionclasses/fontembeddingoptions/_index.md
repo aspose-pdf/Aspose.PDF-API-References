@@ -18,7 +18,7 @@ public class FontEmbeddingOptions
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingOptions](fontembeddingoptions)() | Constructor |
+| [FontEmbeddingOptions](fontembeddingoptions)() | The default constructor. |
 
 ## Properties
 

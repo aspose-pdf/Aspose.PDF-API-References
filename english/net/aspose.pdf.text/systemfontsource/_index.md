@@ -18,7 +18,7 @@ public sealed class SystemFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [SystemFontSource](systemfontsource)() | Initializes a new instance of [`SystemFontSource`](../systemfontsource) class. |
+| [SystemFontSource](systemfontsource)() | The default constructor. |
 
 ## Methods
 

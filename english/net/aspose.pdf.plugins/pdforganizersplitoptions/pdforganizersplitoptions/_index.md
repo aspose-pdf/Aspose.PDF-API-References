@@ -1,14 +1,14 @@
 ---
 title: PdfOrganizerSplitOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the PdfOrganizerSplitOptionsaspose.pdf.plugins/pdforganizersplitoptions object with default options.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdforganizersplitoptions/pdforganizersplitoptions/
 ---
 ## PdfOrganizerSplitOptions constructor
 
-Initializes new instance of the [`PdfOrganizerSplitOptions`](../../pdforganizersplitoptions) object with default options.
+The default constructor.
 
 ```csharp
 public PdfOrganizerSplitOptions()

@@ -18,7 +18,7 @@ public class SvgImageSavingInfo : ResourceSavingInfo
 
 | Name | Description |
 | --- | --- |
-| [SvgImageSavingInfo](svgimagesavinginfo)() | creates new instance of HtmlImageSavingInfo |
+| [SvgImageSavingInfo](svgimagesavinginfo)() | The default constructor. |
 
 ## Properties
 

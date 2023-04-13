@@ -18,7 +18,7 @@ public class TabStops : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [TabStops](tabstops)() | Initializes a new instance of the [`TabStops`](../tabstops) class. |
+| [TabStops](tabstops)() | The default constructor. |
 
 ## Properties
 

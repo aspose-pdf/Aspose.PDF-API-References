@@ -18,7 +18,7 @@ public sealed class PdfFileSanitization : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [PdfFileSanitization](pdffilesanitization)() | Initializes a new instance. |
+| [PdfFileSanitization](pdffilesanitization)() | The default constructor. |
 
 ## Properties
 

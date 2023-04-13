@@ -19,7 +19,7 @@ public sealed class StampInfo
 | Name | Description |
 | --- | --- |
 | [Form](../../aspose.pdf.facades/stampinfo/form) { get; } | Gets XForm of the stamp. |
-| [Image](../../aspose.pdf.facades/stampinfo/image) { get; } | Gets image of stamp. May be null if stamp does not contain images (for example for text stamp). |
+| [Image](../../aspose.pdf.facades/stampinfo/image) { get; } |  |
 | [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage) { get; } | Gets stamp index on the page. |
 | [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle) { get; } | Gets rectangle where stamp is placed. |
 | [StampId](../../aspose.pdf.facades/stampinfo/stampid) { get; } | Gets identifier of the stamp. |

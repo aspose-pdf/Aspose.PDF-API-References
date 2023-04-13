@@ -1,14 +1,14 @@
 ---
 title: Row
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the Row class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/row/row/
 ---
 ## Row constructor
 
-Initializes a new instance of the Row class.
+The default constructor.
 
 ```csharp
 public Row()

@@ -1,14 +1,14 @@
 ---
 title: PdfExtractorToImageOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the PdfExtractorToImageOptionsaspose.pdf.plugins/pdfextractortoimageoptions object.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdfextractortoimageoptions/pdfextractortoimageoptions/
 ---
 ## PdfExtractorToImageOptions constructor
 
-Initializes a new instance of the [`PdfExtractorToImageOptions`](../../pdfextractortoimageoptions) object.
+The default constructor.
 
 ```csharp
 public PdfExtractorToImageOptions()

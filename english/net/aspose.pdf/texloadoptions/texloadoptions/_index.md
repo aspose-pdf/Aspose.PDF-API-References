@@ -1,14 +1,14 @@
 ---
 title: TeXLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Creates default load options for converting TeX file into PDF document.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/texloadoptions/texloadoptions/
 ---
 ## TeXLoadOptions constructor
 
-Creates default load options for converting TeX file into PDF document.
+The default constructor.
 
 ```csharp
 public TeXLoadOptions()

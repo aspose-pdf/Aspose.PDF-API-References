@@ -18,7 +18,7 @@ public class MdLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [MdLoadOptions](mdloadoptions)() | Creates load options for converting markdown into pdf document. |
+| [MdLoadOptions](mdloadoptions)() | The default constructor. |
 
 ## Properties
 

@@ -29,7 +29,7 @@ public sealed class DestinationCollection : ICollection<KeyValuePair<string, obj
 | [Add](../../aspose.pdf/destinationcollection/add)(KeyValuePair&lt;string, object&gt;) | Adds the specified item. Collection is read-only. Always throws NotSupportedException exception. |
 | [Clear](../../aspose.pdf/destinationcollection/clear)() | Collection is read-only. Always throws NotSupportedException exception. |
 | [Contains](../../aspose.pdf/destinationcollection/contains)(KeyValuePair&lt;string, object&gt;) | Determines whether this instance contains the object. |
-| [CopyTo](../../aspose.pdf/destinationcollection/copyto)(KeyValuePair&lt;string, object&gt;[], int) | Copies the elements of the collection to an Array, starting at a particular Array index. |
+| [CopyTo](../../aspose.pdf/destinationcollection/copyto)(KeyValuePair&lt;string, object&gt;[], int) |  |
 | [GetEnumerator](../../aspose.pdf/destinationcollection/getenumerator)() | Returns the enumerator. |
 | [GetExplicitDestination](../../aspose.pdf/destinationcollection/getexplicitdestination)(string, bool) | Returns the explicit destination by the name. |
 | [GetPageNumber](../../aspose.pdf/destinationcollection/getpagenumber)(string, bool) | Returns the page number of destination by the name. |

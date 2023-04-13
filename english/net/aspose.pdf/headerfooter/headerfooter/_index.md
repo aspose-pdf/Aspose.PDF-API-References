@@ -1,14 +1,14 @@
 ---
 title: HeaderFooter
 second_title: Aspose.PDF for .NET API Reference
-description: Default ctor
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/headerfooter/headerfooter/
 ---
 ## HeaderFooter constructor
 
-Default ctor
+The default constructor.
 
 ```csharp
 public HeaderFooter()

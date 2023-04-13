@@ -18,7 +18,7 @@ public sealed class PdfOrganizerRotateOptions : PdfOrganizerOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfOrganizerRotateOptions](pdforganizerrotateoptions)() | Initializes new instance of the [`PdfOrganizerRotateOptions`](../pdforganizerrotateoptions) object with default options. |
+| [PdfOrganizerRotateOptions](pdforganizerrotateoptions)() | The default constructor. |
 
 ## Properties
 

@@ -1,14 +1,14 @@
 ---
 title: GetPageNumbers
 second_title: Aspose.PDF for .NET API Reference
-description: Gets set of pages on which ALL fields will be removed by method Process call.
+description: Gets set of pages on which fields will be removed by method Process call.
 type: docs
 weight: 20
 url: /net/aspose.pdf.plugins/pdfformremovefieldsoptions/getpagenumbers/
 ---
 ## PdfFormRemoveFieldsOptions.GetPageNumbers property
 
-Gets set of pages on which ALL fields will be removed by method Process call.
+Gets set of pages on which fields will be removed by method Process call.
 
 ```csharp
 public HashSet<int> GetPageNumbers { get; }

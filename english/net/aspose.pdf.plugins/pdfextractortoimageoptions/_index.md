@@ -18,7 +18,7 @@ public sealed class PdfExtractorToImageOptions : PdfExtractorOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfExtractorToImageOptions](pdfextractortoimageoptions)() | Initializes a new instance of the [`PdfExtractorToImageOptions`](../pdfextractortoimageoptions) object. |
+| [PdfExtractorToImageOptions](pdfextractortoimageoptions)() | The default constructor. |
 
 ## Properties
 

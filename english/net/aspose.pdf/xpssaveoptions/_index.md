@@ -18,7 +18,7 @@ public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [XpsSaveOptions](xpssaveoptions)() | Constructor |
+| [XpsSaveOptions](xpssaveoptions)() | The default constructor. |
 
 ## Properties
 
@@ -29,6 +29,7 @@ public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format of data save. |
 | [SaveTransparentTexts](../../aspose.pdf/xpssaveoptions/savetransparenttexts) { get; set; } | Indicates whether to preserve transparent (OCR'ed) text. |
+| [UseNewImagingEngine](../../aspose.pdf/xpssaveoptions/usenewimagingengine) { get; set; } | Gets or sets UseNewImagingEngine option. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Fields

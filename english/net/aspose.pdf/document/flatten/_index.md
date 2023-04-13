@@ -24,7 +24,7 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-Removes all fields from the document and place their values instead.
+Removes all fields (and annotations) from the document and place their values instead.
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)

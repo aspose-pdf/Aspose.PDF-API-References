@@ -1,14 +1,14 @@
 ---
 title: ApsSaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor of APsSaveOptions class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/apssaveoptions/apssaveoptions/
 ---
 ## ApsSaveOptions constructor
 
-Constructor of APsSaveOptions class.
+The default constructor.
 
 ```csharp
 public ApsSaveOptions()

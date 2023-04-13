@@ -14,6 +14,10 @@ Initializes a new instance of the [`PdfFormRemoveFieldsOptions`](../../pdfformre
 public PdfFormRemoveFieldsOptions(HashSet<int> pagesNumbers)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pagesNumbers | HashSet`1 | Set of page numbers on which fields should be removed. |
+
 ### See Also
 
 * class [PdfFormRemoveFieldsOptions](../../pdfformremovefieldsoptions)
@@ -30,6 +34,10 @@ Initializes a new instance of the [`PdfFormRemoveFieldsOptions`](../../pdfformre
 public PdfFormRemoveFieldsOptions(int pageNumber)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNumber | Int32 | Page number on which fields should be removed. |
+
 ### See Also
 
 * class [PdfFormRemoveFieldsOptions](../../pdfformremovefieldsoptions)
@@ -45,6 +53,11 @@ Initializes a new instance of the [`PdfFormRemoveFieldsOptions`](../../pdfformre
 ```csharp
 public PdfFormRemoveFieldsOptions(int pageFrom, int pageTo)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageFrom | Int32 | Page number, starting from which the fields will be deleted on the pages. |
+| pageTo | Int32 | Page number up to which the fields will be deleted on the pages. The fields on the page with number pageTo will also be removed. |
 
 ### See Also
 

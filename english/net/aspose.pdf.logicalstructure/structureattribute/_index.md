@@ -36,7 +36,7 @@ public class StructureAttribute
 | [GetNameValue](../../aspose.pdf.logicalstructure/structureattribute/getnamevalue)() | Gets Value Name. |
 | [GetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/getnumbervalue)() | Gets Value Number. |
 | [GetStringValue](../../aspose.pdf.logicalstructure/structureattribute/getstringvalue)() | Gets Value String. |
-| [SetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue)(double?[]) | Sets Value Number Array. |
+| [SetArrayNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue)(double?[]) |  |
 | [SetArrayValue](../../aspose.pdf.logicalstructure/structureattribute/setarrayvalue)(AttributeName[]) | Sets Value Name Array. |
 | [SetColorValue](../../aspose.pdf.logicalstructure/structureattribute/setcolorvalue)(Color) | Sets Value Color. |
 | [SetNameValue](../../aspose.pdf.logicalstructure/structureattribute/setnamevalue)(AttributeName) | Sets Value Name. |

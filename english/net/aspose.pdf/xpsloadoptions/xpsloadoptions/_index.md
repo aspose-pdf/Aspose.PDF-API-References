@@ -1,14 +1,14 @@
 ---
 title: XpsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Creates default load options for converting xps file into pdf document.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/xpsloadoptions/xpsloadoptions/
 ---
 ## XpsLoadOptions constructor
 
-Creates default load options for converting xps file into pdf document.
+The default constructor.
 
 ```csharp
 public XpsLoadOptions()

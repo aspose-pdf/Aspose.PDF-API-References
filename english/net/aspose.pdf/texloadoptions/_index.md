@@ -18,7 +18,7 @@ public class TeXLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [TeXLoadOptions](texloadoptions)() | Creates default load options for converting TeX file into PDF document. |
+| [TeXLoadOptions](texloadoptions)() | The default constructor. |
 
 ## Properties
 
