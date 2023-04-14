@@ -54,7 +54,7 @@ public sealed class PdfXmpMetadata : SaveableFacade, IDictionary<string, XmpValu
 | [Contains](../../aspose.pdf.facades/pdfxmpmetadata/contains#contains_1)(KeyValuePair&lt;string, XmpValue&gt;) | Checks does specified key-value pair is contained in the dictionary. |
 | [Contains](../../aspose.pdf.facades/pdfxmpmetadata/contains#contains_2)(string) | Checks if dictionary contains the specified key. |
 | [ContainsKey](../../aspose.pdf.facades/pdfxmpmetadata/containskey)(string) | Determines does this dictionary contasins specified key. |
-| [CopyTo](../../aspose.pdf.facades/pdfxmpmetadata/copyto)(KeyValuePair&lt;string, XmpValue&gt;[], int) | Copy metadata into array. |
+| [CopyTo](../../aspose.pdf.facades/pdfxmpmetadata/copyto)(KeyValuePair&lt;string, XmpValue&gt;[], int) |  |
 | [Dispose](../../aspose.pdf.facades/facade/dispose)() | Disposes the facade. |
 | [GetEnumerator](../../aspose.pdf.facades/pdfxmpmetadata/getenumerator)() | Gets enumerator object of the dictionary. |
 | [GetNamespaceURIByPrefix](../../aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix)(string) | Gets namespace URI by prefix. |

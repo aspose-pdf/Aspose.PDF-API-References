@@ -18,7 +18,7 @@ public sealed class Bookmark
 
 | Name | Description |
 | --- | --- |
-| [Bookmark](bookmark)() | Initializes a new instance of the [`Bookmark`](../bookmark) class. |
+| [Bookmark](bookmark)() | The default constructor. |
 
 ## Properties
 

@@ -1,24 +1,24 @@
 ---
-title: TextBoxFieldCreateOptions
+title: ComboBoxFieldCreateOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Represents options for creating TextBoxField.
+description: Represents options for creating ComboBoxField.
 type: docs
-weight: 6510
-url: /net/aspose.pdf.plugins/textboxfieldcreateoptions/
+weight: 6170
+url: /net/aspose.pdf.plugins/comboboxfieldcreateoptions/
 ---
-## TextBoxFieldCreateOptions class
+## ComboBoxFieldCreateOptions class
 
-Represents options for creating TextBoxField.
+Represents options for creating ComboBoxField.
 
 ```csharp
-public class TextBoxFieldCreateOptions : FieldCreateOptions
+public class ComboBoxFieldCreateOptions : FieldCreateOptions
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [TextBoxFieldCreateOptions](textboxfieldcreateoptions)(int, Rectangle) | Initializes a new instance of the [`TextBoxFieldCreateOptions`](../textboxfieldcreateoptions) object, that containing parameters for created and added TextBoxField. |
+| [ComboBoxFieldCreateOptions](comboboxfieldcreateoptions)(int, Rectangle) | Initializes a new instance of the [`ComboBoxFieldCreateOptions`](../comboboxfieldcreateoptions) object, that containing parameters for created and added ComboBoxField. |
 
 ## Properties
 
@@ -28,21 +28,20 @@ public class TextBoxFieldCreateOptions : FieldCreateOptions
 | [Color](../../aspose.pdf.plugins/fieldcreateoptions/color) { get; set; } |  |
 | [Contents](../../aspose.pdf.plugins/fieldcreateoptions/contents) { get; set; } |  |
 | [DefaultAppearance](../../aspose.pdf.plugins/fieldcreateoptions/defaultappearance) { get; set; } |  |
+| [Editable](../../aspose.pdf.plugins/comboboxfieldcreateoptions/editable) { get; set; } |  |
 | [Exportable](../../aspose.pdf.plugins/fieldcreateoptions/exportable) { get; set; } |  |
 | [FitIntoRectangle](../../aspose.pdf.plugins/fieldcreateoptions/fitintorectangle) { get; set; } |  |
 | [Flags](../../aspose.pdf.plugins/fieldcreateoptions/flags) { get; set; } |  |
-| [ForceCombs](../../aspose.pdf.plugins/textboxfieldcreateoptions/forcecombs) { get; set; } |  |
 | [IsSharedField](../../aspose.pdf.plugins/fieldcreateoptions/issharedfield) { get; set; } |  |
 | [MappingName](../../aspose.pdf.plugins/fieldcreateoptions/mappingname) { get; set; } |  |
 | [MaxFontSize](../../aspose.pdf.plugins/fieldcreateoptions/maxfontsize) { get; set; } |  |
-| [MaxLen](../../aspose.pdf.plugins/textboxfieldcreateoptions/maxlen) { get; set; } |  |
 | [MinFontSize](../../aspose.pdf.plugins/fieldcreateoptions/minfontsize) { get; set; } |  |
-| [Multiline](../../aspose.pdf.plugins/textboxfieldcreateoptions/multiline) { get; set; } |  |
 | [Name](../../aspose.pdf.plugins/fieldcreateoptions/name) { get; set; } |  |
+| [Options](../../aspose.pdf.plugins/comboboxfieldcreateoptions/options) { get; set; } |  |
 | [PartialName](../../aspose.pdf.plugins/fieldcreateoptions/partialname) { get; set; } |  |
 | [ReadOnly](../../aspose.pdf.plugins/fieldcreateoptions/readonly) { get; set; } |  |
 | [Required](../../aspose.pdf.plugins/fieldcreateoptions/required) { get; set; } |  |
-| [SpellCheck](../../aspose.pdf.plugins/textboxfieldcreateoptions/spellcheck) { get; set; } |  |
+| [Selected](../../aspose.pdf.plugins/comboboxfieldcreateoptions/selected) { get; set; } |  |
 | [TextHorizontalAlignment](../../aspose.pdf.plugins/fieldcreateoptions/texthorizontalalignment) { get; set; } |  |
 | [UpdateAppearanceOnConvert](../../aspose.pdf.plugins/fieldcreateoptions/updateappearanceonconvert) { get; set; } |  |
 | [UseFontSubset](../../aspose.pdf.plugins/fieldcreateoptions/usefontsubset) { get; set; } |  |

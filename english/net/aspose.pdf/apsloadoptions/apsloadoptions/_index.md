@@ -1,14 +1,14 @@
 ---
 title: ApsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Default constructor.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/apsloadoptions/apsloadoptions/
 ---
 ## ApsLoadOptions constructor
 
-Default constructor.
+The default constructor.
 
 ```csharp
 public ApsLoadOptions()

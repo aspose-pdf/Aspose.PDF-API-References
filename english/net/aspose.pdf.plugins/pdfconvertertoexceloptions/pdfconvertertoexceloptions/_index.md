@@ -1,14 +1,14 @@
 ---
 title: PdfConverterToExcelOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes new instance of the PdfConverterToExcelOptionsaspose.pdf.plugins/pdfconvertertoexceloptions object with default options.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdfconvertertoexceloptions/pdfconvertertoexceloptions/
 ---
 ## PdfConverterToExcelOptions constructor
 
-Initializes new instance of the [`PdfConverterToExcelOptions`](../../pdfconvertertoexceloptions) object with default options.
+The default constructor.
 
 ```csharp
 public PdfConverterToExcelOptions()

@@ -1,14 +1,14 @@
 ---
 title: PdfFileSanitization
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
 ---
 ## PdfFileSanitization constructor
 
-Initializes a new instance.
+The default constructor.
 
 ```csharp
 public PdfFileSanitization()

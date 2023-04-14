@@ -111,7 +111,7 @@ public sealed class Document : IDisposable
 | [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf#exportannotationstoxfdf)(Stream) | Export all document annotations into stream. |
 | [ExportAnnotationsToXfdf](../../aspose.pdf/document/exportannotationstoxfdf#exportannotationstoxfdf_1)(string) | Exports all document annotations to XFDF file |
 | [Flatten](../../aspose.pdf/document/flatten#flatten)() | Removes all fields from the document and place their values instead. |
-| [Flatten](../../aspose.pdf/document/flatten#flatten_1)(FlattenSettings) | Removes all fields from the document and place their values instead. |
+| [Flatten](../../aspose.pdf/document/flatten#flatten_1)(FlattenSettings) | Removes all fields (and annotations) from the document and place their values instead. |
 | [FreeMemory](../../aspose.pdf/document/freememory)() | Clears memory |
 | [GetCatalogValue](../../aspose.pdf/document/getcatalogvalue)(string) | Returns item value from catalog dictionary. |
 | [GetObjectById](../../aspose.pdf/document/getobjectbyid)(string) | Gets a object with specified ID in the document. |

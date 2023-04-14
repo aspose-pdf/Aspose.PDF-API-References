@@ -18,7 +18,7 @@ public class ApsLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [ApsLoadOptions](apsloadoptions)() | Default constructor. |
+| [ApsLoadOptions](apsloadoptions)() | The default constructor. |
 
 ## Properties
 

@@ -18,7 +18,7 @@ public sealed class ColumnInfo
 
 | Name | Description |
 | --- | --- |
-| [ColumnInfo](columninfo)() | Initializes a new instance of the ColumnInfo class. |
+| [ColumnInfo](columninfo)() | The default constructor. |
 
 ## Properties
 

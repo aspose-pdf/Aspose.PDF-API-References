@@ -1,14 +1,14 @@
 ---
 title: PdfFileEditor
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor constructor.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdffileeditor/pdffileeditor/
 ---
 ## PdfFileEditor constructor
 
-PdfFileEditor constructor.
+The default constructor.
 
 ```csharp
 public PdfFileEditor()

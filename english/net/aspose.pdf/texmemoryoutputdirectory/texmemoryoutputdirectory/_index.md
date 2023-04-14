@@ -1,14 +1,14 @@
 ---
 title: TeXMemoryOutputDirectory
 second_title: Aspose.PDF for .NET API Reference
-description: Creates new instance.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/
 ---
 ## TeXMemoryOutputDirectory constructor
 
-Creates new instance.
+The default constructor.
 
 ```csharp
 public TeXMemoryOutputDirectory()

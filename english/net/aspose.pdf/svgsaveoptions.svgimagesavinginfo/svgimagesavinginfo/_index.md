@@ -1,14 +1,14 @@
 ---
 title: SvgImageSavingInfo
 second_title: Aspose.PDF for .NET API Reference
-description: creates new instance of HtmlImageSavingInfo
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/svgimagesavinginfo/
 ---
 ## SvgSaveOptions.SvgImageSavingInfo constructor
 
-creates new instance of HtmlImageSavingInfo
+The default constructor.
 
 ```csharp
 public SvgImageSavingInfo()

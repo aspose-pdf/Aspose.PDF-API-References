@@ -18,7 +18,7 @@ public class FontAbsorber
 
 | Name | Description |
 | --- | --- |
-| [FontAbsorber](fontabsorber)() | Initializes a new instance of the [`FontAbsorber`](../fontabsorber) that performs search for fonts of the document. |
+| [FontAbsorber](fontabsorber)() | The default constructor. |
 
 ## Properties
 

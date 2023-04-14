@@ -1,14 +1,14 @@
 ---
 title: PdfXmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Constructor ofr PdfXml format.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/pdfxmlsaveoptions/pdfxmlsaveoptions/
 ---
 ## PdfXmlSaveOptions constructor
 
-Constructor ofr PdfXml format.
+The default constructor.
 
 ```csharp
 public PdfXmlSaveOptions()

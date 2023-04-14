@@ -1,32 +1,11 @@
 ---
 title: Visit
 second_title: Aspose.PDF for .NET API Reference
-description: Performs search on the specified form object.
+description: Performs search on the specified page.
 type: docs
 weight: 140
 url: /net/aspose.pdf.text/textfragmentabsorber/visit/
 ---
-## Visit(XForm) {#visit_2}
-
-Performs search on the specified form object.
-
-```csharp
-public void Visit(XForm xForm)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xForm | XForm | Pdf form object. |
-
-### See Also
-
-* class [XForm](../../../aspose.pdf/xform)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## Visit(Page) {#visit_1}
 
 Performs search on the specified page.
@@ -114,6 +93,27 @@ doc.Save(@"D:\Tests\output.pdf");
 ### See Also
 
 * class [Document](../../../aspose.pdf/document)
+* class [TextFragmentAbsorber](../../textfragmentabsorber)
+* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(XForm) {#visit_2}
+
+Performs search on the specified form object.
+
+```csharp
+public void Visit(XForm xForm)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xForm | XForm | Pdf form object. |
+
+### See Also
+
+* class [XForm](../../../aspose.pdf/xform)
 * class [TextFragmentAbsorber](../../textfragmentabsorber)
 * namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
 * assembly [Aspose.PDF](../../../)

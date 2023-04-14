@@ -1,14 +1,14 @@
 ---
 title: Metered
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of this class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/metered/metered/
 ---
 ## Metered constructor
 
-Initializes a new instance of this class.
+The default constructor.
 
 ```csharp
 public Metered()

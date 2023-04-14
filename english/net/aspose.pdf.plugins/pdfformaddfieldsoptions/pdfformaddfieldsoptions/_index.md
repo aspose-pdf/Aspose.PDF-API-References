@@ -14,6 +14,10 @@ Initializes a new instance of the [`PdfFormAddFieldsOptions`](../../pdfformaddfi
 public PdfFormAddFieldsOptions(List<FieldCreateOptions> fieldsCreateOptions)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldsCreateOptions | List`1 | List of FieldCreateOptions children that set the options for each added field. Each element of the list corresponds to one field to be added. |
+
 ### See Also
 
 * class [FieldCreateOptions](../../fieldcreateoptions)

@@ -18,7 +18,7 @@ public class PptxSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PptxSaveOptions](pptxsaveoptions)() | Constructor |
+| [PptxSaveOptions](pptxsaveoptions)() | The default constructor. |
 
 ## Properties
 

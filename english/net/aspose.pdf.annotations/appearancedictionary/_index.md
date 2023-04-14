@@ -36,7 +36,7 @@ public sealed class AppearanceDictionary : IDictionary<string, XForm>
 | [Clear](../../aspose.pdf.annotations/appearancedictionary/clear)() | Removes all elements from the dictionary. |
 | [Contains](../../aspose.pdf.annotations/appearancedictionary/contains)(KeyValuePair&lt;string, XForm&gt;) | Checks does specified key-value pair is contained in the dictionary. |
 | [ContainsKey](../../aspose.pdf.annotations/appearancedictionary/containskey)(string) | Determines does this dictionary contasins specified key. |
-| [CopyTo](../../aspose.pdf.annotations/appearancedictionary/copyto#copyto_1)(KeyValuePair&lt;string, XForm&gt;[], int) | Copies the elements of the ICollection to an Array, starting at a particular Array index. |
+| [CopyTo](../../aspose.pdf.annotations/appearancedictionary/copyto#copyto_1)(KeyValuePair&lt;string, XForm&gt;[], int) |  |
 | [CopyTo](../../aspose.pdf.annotations/appearancedictionary/copyto#copyto)(XForm[], int) | Copies the elements of the dictionary to an Array, starting at a particular Array index. |
 | [GetEnumerator](../../aspose.pdf.annotations/appearancedictionary/getenumerator)() | Returns an IDictionaryEnumerator object for the dictionary. |
 | [Remove](../../aspose.pdf.annotations/appearancedictionary/remove#remove)(KeyValuePair&lt;string, XForm&gt;) | Removes key/value pair from the collection. |

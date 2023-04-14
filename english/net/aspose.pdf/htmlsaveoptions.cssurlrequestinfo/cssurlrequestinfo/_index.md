@@ -1,14 +1,14 @@
 ---
 title: CssUrlRequestInfo
 second_title: Aspose.PDF for .NET API Reference
-description: Creates instance of CssUrlRequestInfo
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/cssurlrequestinfo/
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo constructor
 
-Creates instance of CssUrlRequestInfo
+The default constructor.
 
 ```csharp
 public CssUrlRequestInfo()

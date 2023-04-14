@@ -18,7 +18,7 @@ public class PdfANonSpecificationFlags
 
 | Name | Description |
 | --- | --- |
-| [PdfANonSpecificationFlags](pdfanonspecificationflags)() | Constructor |
+| [PdfANonSpecificationFlags](pdfanonspecificationflags)() | The default constructor. |
 
 ## Properties
 

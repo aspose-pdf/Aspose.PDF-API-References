@@ -1,17 +1,17 @@
 ---
-title: XpsSaveOptions
+title: UseNewImagingEngine
 second_title: Aspose.PDF for .NET API Reference
-description: The default constructor.
+description: Gets or sets UseNewImagingEngine option.
 type: docs
-weight: 10
-url: /net/aspose.pdf/xpssaveoptions/xpssaveoptions/
+weight: 40
+url: /net/aspose.pdf/xpssaveoptions/usenewimagingengine/
 ---
-## XpsSaveOptions constructor
+## XpsSaveOptions.UseNewImagingEngine property
 
-The default constructor.
+Gets or sets UseNewImagingEngine option.
 
 ```csharp
-public XpsSaveOptions()
+public bool UseNewImagingEngine { get; set; }
 ```
 
 ### See Also

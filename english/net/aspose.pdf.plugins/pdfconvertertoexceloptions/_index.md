@@ -18,7 +18,7 @@ public sealed class PdfConverterToExcelOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfConverterToExcelOptions](pdfconvertertoexceloptions)() | Initializes new instance of the [`PdfConverterToExcelOptions`](../pdfconvertertoexceloptions) object with default options. |
+| [PdfConverterToExcelOptions](pdfconvertertoexceloptions)() | The default constructor. |
 
 ## Properties
 

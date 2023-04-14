@@ -27,7 +27,7 @@ public sealed class PdfFormRemoveFieldsOptions : PdfFormOptions
 | Name | Description |
 | --- | --- |
 | [DataCollection](../../aspose.pdf.plugins/pdfformoptions/datacollection) { get; } | Returns FormOptions plugin data collection. |
-| [GetPageNumbers](../../aspose.pdf.plugins/pdfformremovefieldsoptions/getpagenumbers) { get; } | Gets set of pages on which ALL fields will be removed by method Process call. |
+| [GetPageNumbers](../../aspose.pdf.plugins/pdfformremovefieldsoptions/getpagenumbers) { get; } | Gets set of pages on which fields will be removed by method Process call. |
 | [SaveTargetsCollection](../../aspose.pdf.plugins/pdfformoptions/savetargetscollection) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
