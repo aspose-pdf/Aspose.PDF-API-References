@@ -10,15 +10,15 @@ _Set info (metadata) in PDF file._
 
 ```js
 function AsposePdfSetInfo(
-    fileBlob ,
-    fileName ,
-    title , 
-    creator , 
-    author ,
-    subject ,
-    keywords ,
-    creation ,
-    mod ,
+    fileBlob,
+    fileName,
+    title, 
+    creator, 
+    author,
+    subject,
+    keywords,
+    creation,
+    mod,
     fileNameResult
 )
 ```

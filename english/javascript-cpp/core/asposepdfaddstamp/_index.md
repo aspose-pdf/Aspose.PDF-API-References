@@ -10,16 +10,16 @@ _Add stamp to PDF file._
 
 ```js
 function AsposePdfAddStamp(
-    fileBlob ,
-    fileName ,
-    fileStamp ,
-    setBackground ,
-    setXIndent ,
-    setYIndent ,
-    setHeight ,
-    setWidth ,
-    rotation ,
-    setOpacity ,
+    fileBlob,
+    fileName,
+    fileStamp,
+    setBackground,
+    setXIndent,
+    setYIndent,
+    setHeight,
+    setWidth,
+    rotation,
+    setOpacity,
     fileNameResult 
 )
 ```

@@ -32,6 +32,8 @@ url: /javascript-cpp/core/
 | [AsposePdfRotateAllPages](./asposepdfrotateallpages/) | Rotate PDF pages. |
 | [AsposePdfConvertToGrayscale](./asposepdfconverttograyscale/) | Convert PDF to grayscale. |
 | [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign PDF with digital signatures. |
+| [AsposePdfConvertToPDFA](./asposepdfconverttopdfa/) | Convert a PDF-file to PDF/A. |
+| [AsposePdfAConvertToPDF](./asposepdfaconverttopdf/) | Convert a PDF/A-file to PDF. |
 
 ## Detailed Description
 

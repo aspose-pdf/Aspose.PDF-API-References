@@ -10,7 +10,7 @@ _Save the string representation BLOB in the Memory FS for processing._
 
 ```js
 function AsposePdfPrepareBase64(
-    base64Blob ,
+    base64Blob,
     fileName
 )
 ```

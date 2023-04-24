@@ -10,7 +10,7 @@ _Save the BLOB in the Memory FS for processing._
 
 ```js
 function AsposePdfPrepare(
-    fileBlob ,
+    fileBlob,
     fileName
 )
 ```

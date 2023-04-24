@@ -10,9 +10,9 @@ _Delete pages from PDF file._
 
 ```js
 function AsposePdfDeletePages(
-    fileBlob ,
-    fileName ,
-    fileResultName ,
+    fileBlob,
+    fileName,
+    fileResultName,
     numPages
 )
 ```

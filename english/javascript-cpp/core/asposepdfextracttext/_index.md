@@ -10,7 +10,7 @@ _Extract text from PDF file._
 
 ```js
 function AsposePdfExtractText(
-    fileBlob ,
+    fileBlob,
     fileName 
 )
 ```
