@@ -10,12 +10,12 @@ _Encrypt PDF file._
 
 ```js
 function AsposePdfEncrypt(
-    fileBlob ,
-    fileName ,
-    passwordUser ,
-    passwordOwner ,
-    permissions ,
-    cryptoAlgorithm ,
+    fileBlob,
+    fileName,
+    passwordUser,
+    passwordOwner,
+    permissions,
+    cryptoAlgorithm,
     fileResultName 
 )
 ```

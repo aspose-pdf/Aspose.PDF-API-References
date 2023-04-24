@@ -10,8 +10,8 @@ _Add page number to PDF file._
 
 ```js
 function AsposePdfAddPageNum(
-    fileBlob ,
-    fileName ,
+    fileBlob,
+    fileName,
     fileResultName
 )
 ```

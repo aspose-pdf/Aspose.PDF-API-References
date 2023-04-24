@@ -10,8 +10,8 @@ _Convert a PDF/A-file to PDF._
 
 ```js
 function AsposePdfAConvertToPDF(
-    fileBlob ,
-    fileName ,
+    fileBlob,
+    fileName,
     fileResultName 
 )
 ```

@@ -10,9 +10,9 @@ _Rotate PDF pages._
 
 ```js
 function AsposePdfRotateAllPages(
-    fileBlob ,
-    fileName ,
-    rotation ,
+    fileBlob,
+    fileName,
+    rotation,
     fileResultName 
 )
 ```

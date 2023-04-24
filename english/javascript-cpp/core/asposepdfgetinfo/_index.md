@@ -10,7 +10,7 @@ _Get info (metadata) from PDF file._
 
 ```js
 function AsposePdfGetInfo(
-    fileBlob ,
+    fileBlob,
     fileName
 )
 ```

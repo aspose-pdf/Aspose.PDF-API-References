@@ -10,10 +10,10 @@ _Add text in Header/Footer of PDF file._
 
 ```js
 function AsposePdfAddTextHeaderFooter(
-    fileBlob ,
-    fileName ,
-    header , 
-    footer ,
+    fileBlob,
+    fileName,
+    header, 
+    footer,
     fileResultName
 )
 ```
