@@ -37,6 +37,8 @@ is_root: true
 | [AsposePdfRotateAllPages](./core/asposepdfrotateallpages/) | Rotate PDF pages. |
 | [AsposePdfConvertToGrayscale](./core/asposepdfconverttograyscale/) | Convert PDF to grayscale. |
 | [AsposePdfSignPKCS7](./core/asposepdfsignpkcs7/) | Sign PDF with digital signatures. |
+| [AsposePdfConvertToPDFA](./core/asposepdfconverttopdfa/) | Convert a PDF-file to PDF/A. |
+| [AsposePdfAConvertToPDF](./core/asposepdfaconverttopdf/) | Convert a PDF/A-file to PDF. |
 
 ## Miscellaneous
 
