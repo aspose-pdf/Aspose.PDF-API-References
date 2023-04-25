@@ -10,20 +10,20 @@ _Sign PDF with digital signatures._
 
 ```js
 function AsposePdfSignPKCS7(
-    fileBlob ,
-    fileName ,
-    pageNum ,
-    fileSign ,
-    pswSign ,
-    setXIndent , 
-    setYIndent , 
-    setHeight ,
-    setWidth ,
-    reason ,
-    contact ,
-    location ,
-    isVisible ,
-    signatureAppearance ,
+    fileBlob,
+    fileName,
+    pageNum,
+    fileSign,
+    pswSign,
+    setXIndent, 
+    setYIndent, 
+    setHeight,
+    setWidth,
+    reason,
+    contact,
+    location,
+    isVisible,
+    signatureAppearance,
     fileNameResult 
 )
 ```

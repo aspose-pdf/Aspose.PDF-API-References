@@ -10,7 +10,7 @@ _Get list fonts of PDF file._
 
 ```js
 function AsposePdfGetAllFonts(
-    fileBlob ,
+    fileBlob,
     fileName
 )
 ```

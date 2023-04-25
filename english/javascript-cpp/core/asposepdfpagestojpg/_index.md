@@ -10,9 +10,9 @@ _Convert PDF file to JPG files._
 
 ```js
 function AsposePdfPagesToJpg(
-    fileBlob ,
-    fileName ,
-    fileResultName ,
+    fileBlob,
+    fileName,
+    fileResultName,
     resolution
 )
 ```

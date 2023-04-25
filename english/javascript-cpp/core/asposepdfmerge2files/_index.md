@@ -10,10 +10,10 @@ _Merge two PDF files._
 
 ```js
 function AsposePdfMerge2Files(
-    fileBlob1 ,
-    fileBlob2 ,
-    fileName1 ,
-    fileName2 ,
+    fileBlob1,
+    fileBlob2,
+    fileName1,
+    fileName2,
     fileResultName 
 )
 ```

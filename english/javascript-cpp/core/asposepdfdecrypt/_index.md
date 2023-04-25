@@ -10,9 +10,9 @@ _Decrypt PDF file._
 
 ```js
 function AsposePdfDecrypt(
-    fileBlob ,
-    fileName ,
-    password ,
+    fileBlob,
+    fileName,
+    password,
     fileResultName 
 )
 ```

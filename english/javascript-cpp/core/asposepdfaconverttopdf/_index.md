@@ -1,18 +1,18 @@
 ---
-title: "AsposePdfAddPageNum"
+title: "AsposePdfAConvertToPDF"
 second_title: Aspose.PDF for JavaScript via C++
-description: "Add page number to PDF file."
+description:  "Convert a PDF/A-file to PDF."
 type: docs
-url: /javascript-cpp/core/asposepdfaddpagenum/
+url: /javascript-cpp/core/asposepdfaconverttopdf/
 ---
 
-_Add page number to PDF file._
+_Convert a PDF/A-file to PDF._
 
 ```js
-function AsposePdfAddPageNum(
+function AsposePdfAConvertToPDF(
     fileBlob,
     fileName,
-    fileResultName
+    fileResultName 
 )
 ```
 
@@ -23,22 +23,19 @@ function AsposePdfAddPageNum(
 * **fileResultName** result file name 
 
 **Return**: 
-
 JSON object 
-
-* **errorCode** - code error (0 no error)
-* **errorText** - text error ("" no error)
-* **fileNameResult** - result file name
+  * **errorCode** - code error (0 no error)
+  * **errorText** - text error ("" no error)
+  * **fileNameResult** - result file name
 
 
 **Example**:
-
 ```js
-  var ffileAddPageNum = function (e) {
+  var ffilePdfAConvertToPDF = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*add page num a PDF-file and save the "ResultAddPageNum.pdf"*/
-      const json = AsposePdfAddPageNum(event.target.result, e.target.files[0].name, "ResultAddPageNum.pdf");
+      /*convert a PDF/A-file to PDF and save the "ResultConvertToPDF.pdf"*/
+      const json = AsposePdfAConvertToPDF(event.target.result, e.target.files[0].name, "ResultConvertToPDF.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
       /*make a link to download the result file*/

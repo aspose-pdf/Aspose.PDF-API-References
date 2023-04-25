@@ -10,8 +10,8 @@ _Optimize PDF file._
 
 ```js
 function AsposePdfOptimize(
-    fileBlob ,
-    fileName ,
+    fileBlob,
+    fileName,
     fileResultName 
 )
 ```

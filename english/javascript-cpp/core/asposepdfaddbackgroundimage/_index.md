@@ -10,9 +10,9 @@ _Add background image to PDF file._
 
 ```js
 function AsposePdfAddBackgroundImage(
-    fileBlob ,
-    fileName ,
-    fileBackgroundImage ,
+    fileBlob,
+    fileName,
+    fileBackgroundImage,
     fileResultName
 )
 ```

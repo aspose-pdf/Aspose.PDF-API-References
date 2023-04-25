@@ -10,9 +10,9 @@ _Convert PDF file to PNG files._
 
 ```
 function AsposePdfPagesToPng(
-    fileBlob ,
-    fileName ,
-    fileResultName ,
+    fileBlob,
+    fileName,
+    fileResultName,
     resolution
 )
 ```

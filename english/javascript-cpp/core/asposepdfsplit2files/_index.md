@@ -10,10 +10,10 @@ _Split two PDF files._
 
 ```js
 function AsposePdfSplit2Files(
-    fileBlob ,
-    fileName ,
-    pageToSplit ,
-    fileResultName1 ,
+    fileBlob,
+    fileName,
+    pageToSplit,
+    fileResultName1,
     fileResultName2 
 )
 ```

@@ -10,8 +10,8 @@ _Convert PDF to grayscale._
 
 ```js
 function AsposePdfConvertToGrayscale(
-    fileBlob ,
-    fileName ,
+    fileBlob,
+    fileName,
     fileResultName 
 )
 ```

@@ -10,9 +10,9 @@ _Add image to end PDF file._
 
 ```js
 function AsposePdfAddImage(
-    fileBlob ,
-    fileName ,
-    fileImage ,
+    fileBlob,
+    fileName,
+    fileImage,
     fileResultName 
 )
 ```
