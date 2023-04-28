@@ -3,7 +3,7 @@ title: FormType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of posible types of Acro Form.
 type: docs
-weight: 443
+weight: 444
 url: /java/com.aspose.pdf/formtype/
 ---
 **Inheritance:**

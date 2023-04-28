@@ -3,7 +3,7 @@ title: PptxSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to SVG format
 type: docs
-weight: 290
+weight: 291
 url: /java/com.aspose.pdf/pptxsaveoptions/
 ---
 **Inheritance:**

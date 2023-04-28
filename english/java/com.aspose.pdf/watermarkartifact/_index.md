@@ -3,7 +3,7 @@ title: WatermarkArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Class describes watermark artifact.
 type: docs
-weight: 401
+weight: 402
 url: /java/com.aspose.pdf/watermarkartifact/
 ---
 **Inheritance:**

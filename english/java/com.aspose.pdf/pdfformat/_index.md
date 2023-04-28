@@ -3,7 +3,7 @@ title: PdfFormat
 second_title: Aspose.PDF for Java API Reference
 description: This class represents an pdf format.
 type: docs
-weight: 446
+weight: 447
 url: /java/com.aspose.pdf/pdfformat/
 ---
 **Inheritance:**
@@ -17,8 +17,8 @@ This class represents an pdf format.
 
 | Field | Description |
 | --- | --- |
-| [PDF_A_1A](#PDF-A-1A) | Pdf/A-1a |
-| [PDF_A_1B](#PDF-A-1B) | Pdf/A-1b |
+| [PDF_A_1A](#PDF-A-1A) | Pdf/A-1a format |
+| [PDF_A_1B](#PDF-A-1B) | Pdf/A-1b format |
 | [PDF_A_2A](#PDF-A-2A) | Pdf/A-2a format |
 | [PDF_A_3A](#PDF-A-3A) | Pdf/A-3a format |
 | [PDF_A_2B](#PDF-A-2B) | Pdf/A-2b |
@@ -52,7 +52,7 @@ public static final PdfFormat PDF_A_1A
 ```
 
 
-Pdf/A-1a
+Pdf/A-1a format
 
 ### PDF_A_1B {#PDF-A-1B}
 ```
@@ -60,7 +60,7 @@ public static final PdfFormat PDF_A_1B
 ```
 
 
-Pdf/A-1b
+Pdf/A-1b format
 
 ### PDF_A_2A {#PDF-A-2A}
 ```

@@ -3,7 +3,7 @@ title: TeXFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents LaTeX fragment.
 type: docs
-weight: 356
+weight: 357
 url: /java/com.aspose.pdf/texfragment/
 ---
 **Inheritance:**

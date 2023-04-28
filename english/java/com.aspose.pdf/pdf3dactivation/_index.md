@@ -3,7 +3,7 @@ title: PDF3DActivation
 second_title: Aspose.PDF for Java API Reference
 description: Enum PDF3DActivation set of 3D annotation activation mode.
 type: docs
-weight: 240
+weight: 241
 url: /java/com.aspose.pdf/pdf3dactivation/
 ---
 **Inheritance:**

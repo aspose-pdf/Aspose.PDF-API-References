@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of annotation types.
 type: docs
-weight: 441
+weight: 442
 url: /java/com.aspose.pdf/annotationtype/
 ---
 **Inheritance:**

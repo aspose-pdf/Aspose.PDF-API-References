@@ -3,7 +3,7 @@ title: WatermarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Watermark annotation object.
 type: docs
-weight: 400
+weight: 401
 url: /java/com.aspose.pdf/watermarkannotation/
 ---
 **Inheritance:**

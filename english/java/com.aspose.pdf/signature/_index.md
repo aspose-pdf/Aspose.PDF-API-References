@@ -3,7 +3,7 @@ title: Signature
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class which represents signature object in the pdf document.
 type: docs
-weight: 323
+weight: 324
 url: /java/com.aspose.pdf/signature/
 ---
 **Inheritance:**

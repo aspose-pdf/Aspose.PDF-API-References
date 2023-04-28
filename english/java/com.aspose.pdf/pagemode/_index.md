@@ -3,7 +3,7 @@ title: PageMode
 second_title: Aspose.PDF for Java API Reference
 description: Class descibes used components of the document page.
 type: docs
-weight: 264
+weight: 265
 url: /java/com.aspose.pdf/pagemode/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: NumberTree
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Number tree structure of PDF file. 7.9.7Number Trees
 type: docs
-weight: 227
+weight: 228
 url: /java/com.aspose.pdf/numbertree/
 ---
 **Inheritance:**

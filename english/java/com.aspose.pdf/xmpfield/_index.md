@@ -3,7 +3,7 @@ title: XmpField
 second_title: Aspose.PDF for Java API Reference
 description: Represents XMP field.
 type: docs
-weight: 415
+weight: 416
 url: /java/com.aspose.pdf/xmpfield/
 ---
 **Inheritance:**
@@ -184,7 +184,7 @@ Indicates whether this instance and a specified object are equal.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | java.lang.Object | Another object to compare to.  2  |
+| obj | java.lang.Object | Another object to compare to. |
 
 **Returns:**
 boolean - true if obj and this instance are the same type and represent the same value; otherwise, false.

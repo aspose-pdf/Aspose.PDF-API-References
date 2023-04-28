@@ -3,7 +3,7 @@ title: JavascriptAction
 second_title: Aspose.PDF for Java API Reference
 description: Class representing javascript action.
 type: docs
-weight: 180
+weight: 181
 url: /java/com.aspose.pdf/javascriptaction/
 ---
 **Inheritance:**
@@ -17,7 +17,7 @@ Class representing javascript action.
 
 | Constructor | Description |
 | --- | --- |
-| [JavascriptAction(String javaScript)](#JavascriptAction-java.lang.String-) | Creates PDF dictionary which describes action. |
+| [JavascriptAction(String javaScript)](#JavascriptAction-java.lang.String-) | Constructor. |
 ## Methods
 
 | Method | Description |
@@ -29,8 +29,6 @@ Class representing javascript action.
 public JavascriptAction(String javaScript)
 ```
 
-
-Creates PDF dictionary which describes action.
 
 Constructor.
 

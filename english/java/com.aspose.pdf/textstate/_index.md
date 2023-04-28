@@ -3,7 +3,7 @@ title: TextState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text
 type: docs
-weight: 388
+weight: 389
 url: /java/com.aspose.pdf/textstate/
 ---
 **Inheritance:**

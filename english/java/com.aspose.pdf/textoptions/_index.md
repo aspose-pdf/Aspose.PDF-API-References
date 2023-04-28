@@ -3,7 +3,7 @@ title: TextOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text processing options
 type: docs
-weight: 378
+weight: 379
 url: /java/com.aspose.pdf/textoptions/
 ---
 **Inheritance:**

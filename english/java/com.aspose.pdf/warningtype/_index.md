@@ -3,7 +3,7 @@ title: WarningType
 second_title: Aspose.PDF for Java API Reference
 description: Enum represented warning type.
 type: docs
-weight: 398
+weight: 399
 url: /java/com.aspose.pdf/warningtype/
 ---
 **Inheritance:**

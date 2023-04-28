@@ -3,7 +3,7 @@ title: IDocument
 second_title: Aspose.PDF for Java API Reference
 description: interface representing PDF document
 type: docs
-weight: 431
+weight: 432
 url: /java/com.aspose.pdf/idocument/
 ---
 **All Implemented Interfaces:**
@@ -93,7 +93,7 @@ interface representing PDF document
 | [convert(Document.CallBackGetHocr callback, boolean isTestVisible)](#convert-com.aspose.pdf.Document.CallBackGetHocr-boolean-) | Convert document and save errors into the specified file. |
 | [convert(Document.CallBackGetHocr callback, boolean isTestVisible, boolean isOriginalImage)](#convert-com.aspose.pdf.Document.CallBackGetHocr-boolean-boolean-) | Convert document and save errors into the specified file. |
 | [convert(OutputStream outputLogStream, PdfFormat format, int action)](#convert-java.io.OutputStream-com.aspose.pdf.PdfFormat-int-) |  |
-| [flatten()](#flatten--) | Removes all fields from the document and place their values instead. |
+| [flatten()](#flatten--) | Removes all fields (and annotations) from the document and place their values instead. |
 | [flatten(Form.FlattenSettings flattenSettings)](#flatten-com.aspose.pdf.Form.FlattenSettings-) | Removes all fields from the document and place their values instead. |
 | [getCryptoAlgorithm()](#getCryptoAlgorithm--) | Gets security settings if document is encrypted. |
 | [encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.CryptoAlgorithm-boolean-) | Encrypts the document. |
@@ -1161,7 +1161,7 @@ public abstract void flatten()
 ```
 
 
-Removes all fields from the document and place their values instead.
+Removes all fields (and annotations) from the document and place their values instead.
 
 ### flatten(Form.FlattenSettings flattenSettings) {#flatten-com.aspose.pdf.Form.FlattenSettings-}
 ```

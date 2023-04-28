@@ -3,7 +3,7 @@ title: XpsSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Xps format
 type: docs
-weight: 426
+weight: 427
 url: /java/com.aspose.pdf/xpssaveoptions/
 ---
 **Inheritance:**
@@ -29,6 +29,8 @@ Save options for export to Xps format
 | [setSaveTransparentTexts(boolean value)](#setSaveTransparentTexts-boolean-) | Indicates whether to preserve transparent (OCR'ed) text. |
 | [getBatchSize()](#getBatchSize--) | Defines batch size if batched conversion is applicable to source and destination formats pair. |
 | [setBatchSize(int value)](#setBatchSize-int-) | Defines batch size if batched conversion is applicable to source and destination formats pair. |
+| [isUseNewImagingEngine()](#isUseNewImagingEngine--) | Gets or sets UseNewImagingEngine option. |
+| [setUseNewImagingEngine(boolean value)](#setUseNewImagingEngine-boolean-) | Gets or sets UseNewImagingEngine option. |
 ### XpsSaveOptions() {#XpsSaveOptions--}
 ```
 public XpsSaveOptions()
@@ -82,4 +84,27 @@ Defines batch size if batched conversion is applicable to source and destination
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | int value |
+
+### isUseNewImagingEngine() {#isUseNewImagingEngine--}
+```
+public final boolean isUseNewImagingEngine()
+```
+
+
+Gets or sets UseNewImagingEngine option.
+
+**Returns:**
+boolean
+### setUseNewImagingEngine(boolean value) {#setUseNewImagingEngine-boolean-}
+```
+public final void setUseNewImagingEngine(boolean value)
+```
+
+
+Gets or sets UseNewImagingEngine option.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 

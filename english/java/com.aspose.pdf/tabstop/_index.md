@@ -3,7 +3,7 @@ title: TabStop
 second_title: Aspose.PDF for Java API Reference
 description: Represents a custom Tab stop position in a paragraph.
 type: docs
-weight: 350
+weight: 351
 url: /java/com.aspose.pdf/tabstop/
 ---
 **Inheritance:**

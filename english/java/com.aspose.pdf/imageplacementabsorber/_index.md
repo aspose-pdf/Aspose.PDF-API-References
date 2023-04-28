@@ -3,7 +3,7 @@ title: ImagePlacementAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of image placement objects.
 type: docs
-weight: 170
+weight: 171
 url: /java/com.aspose.pdf/imageplacementabsorber/
 ---
 **Inheritance:**

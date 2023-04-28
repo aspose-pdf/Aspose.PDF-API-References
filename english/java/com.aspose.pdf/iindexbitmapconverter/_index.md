@@ -3,7 +3,7 @@ title: IIndexBitmapConverter
 second_title: Aspose.PDF for Java API Reference
 description: This interface declared for customization algorithms of quantization.
 type: docs
-weight: 433
+weight: 434
 url: /java/com.aspose.pdf/iindexbitmapconverter/
 ---```
 public interface IIndexBitmapConverter

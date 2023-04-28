@@ -3,7 +3,7 @@ title: ImageType
 second_title: Aspose.PDF for Java API Reference
 description: Represents image format types.
 type: docs
-weight: 173
+weight: 174
 url: /java/com.aspose.pdf/imagetype/
 ---
 **Inheritance:**

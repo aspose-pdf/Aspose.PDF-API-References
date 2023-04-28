@@ -3,7 +3,7 @@ title: Outlines
 second_title: Aspose.PDF for Java API Reference
 description: Class describes collection of outlines.
 type: docs
-weight: 239
+weight: 240
 url: /java/com.aspose.pdf/outlines/
 ---
 **Inheritance:**

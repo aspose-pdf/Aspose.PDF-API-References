@@ -3,7 +3,7 @@ title: TabAlignmentType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the tab alignment types.
 type: docs
-weight: 347
+weight: 348
 url: /java/com.aspose.pdf/tabalignmenttype/
 ---
 **Inheritance:**

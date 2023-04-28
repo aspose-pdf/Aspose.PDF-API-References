@@ -3,7 +3,7 @@ title: PDF3DAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DAnnotation.
 type: docs
-weight: 241
+weight: 242
 url: /java/com.aspose.pdf/pdf3dannotation/
 ---
 **Inheritance:**

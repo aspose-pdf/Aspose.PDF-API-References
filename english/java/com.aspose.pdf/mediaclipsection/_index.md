@@ -3,7 +3,7 @@ title: MediaClipSection
 second_title: Aspose.PDF for Java API Reference
 description: This class descibes Media clip section.
 type: docs
-weight: 213
+weight: 214
 url: /java/com.aspose.pdf/mediaclipsection/
 ---
 **Inheritance:**

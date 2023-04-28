@@ -3,7 +3,7 @@ title: Resources
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page resources.
 type: docs
-weight: 310
+weight: 311
 url: /java/com.aspose.pdf/resources/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies format
 type: docs
-weight: 448
+weight: 449
 url: /java/com.aspose.pdf/saveformat/
 ---
 **Inheritance:**

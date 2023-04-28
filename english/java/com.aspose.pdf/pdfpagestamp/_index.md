@@ -3,7 +3,7 @@ title: PdfPageStamp
 second_title: Aspose.PDF for Java API Reference
 description: Class represents stamp which uses PDF page as stamp.
 type: docs
-weight: 277
+weight: 278
 url: /java/com.aspose.pdf/pdfpagestamp/
 ---
 **Inheritance:**

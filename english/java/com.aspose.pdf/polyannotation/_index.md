@@ -3,7 +3,7 @@ title: PolyAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for poly-annotations.
 type: docs
-weight: 284
+weight: 285
 url: /java/com.aspose.pdf/polyannotation/
 ---
 **Inheritance:**

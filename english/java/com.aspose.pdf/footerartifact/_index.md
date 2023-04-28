@@ -3,7 +3,7 @@ title: FooterArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Describes footer artifact.
 type: docs
-weight: 138
+weight: 139
 url: /java/com.aspose.pdf/footerartifact/
 ---
 **Inheritance:**

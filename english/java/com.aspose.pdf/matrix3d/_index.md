@@ -3,7 +3,7 @@ title: Matrix3D
 second_title: Aspose.PDF for Java API Reference
 description: Class represents transformation matrix.
 type: docs
-weight: 208
+weight: 209
 url: /java/com.aspose.pdf/matrix3d/
 ---
 **Inheritance:**
@@ -20,7 +20,7 @@ Class represents transformation matrix.
 | [Matrix3D()](#Matrix3D--) | Constructor creates standard 1 to 1 matrix: [ A B C D E F G H I Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
 | [Matrix3D(double[] matrix3DArray)](#Matrix3D-double---) | Constructor accepts a matrix with following array representation: [ A B C D E F G H I Tx Ty Tz] |
 | [Matrix3D(Matrix3D matrix)](#Matrix3D-com.aspose.pdf.Matrix3D-) | Constructor accepts a matrix to create a copy |
-| [Matrix3D(double a, double b, double c, double d, double e, double f, double g, double h, double i, double tx, double ty, double tz)](#Matrix3D-double-double-double-double-double-double-double-double-double-double-double-double-) | Transforms point using this matrix. |
+| [Matrix3D(double a, double b, double c, double d, double e, double f, double g, double h, double i, double tx, double ty, double tz)](#Matrix3D-double-double-double-double-double-double-double-double-double-double-double-double-) | Initializes transformation matrix with specified coefficients. |
 ## Methods
 
 | Method | Description |
@@ -51,9 +51,9 @@ Class represents transformation matrix.
 | [setTz(double value)](#setTz-double-) | Tz member of the transformation matrix. |
 | [toString()](#toString--) | Returns text representation of the matrix. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Compares matrix against other object. |
-| [getAngle(int rotation)](#getAngle-int-) | Creates matrix for given rotation angle. |
-| [add(Matrix3D other)](#add-com.aspose.pdf.Matrix3D-) | Multiplies the matrix by other matrix. |
-| [hashCode()](#hashCode--) | Calculates reverse matrix. |
+| [getAngle(int rotation)](#getAngle-int-) | Translates rotation into angle (degrees) |
+| [add(Matrix3D other)](#add-com.aspose.pdf.Matrix3D-) | Adds matrix to other matrix. |
+| [hashCode()](#hashCode--) | Hash-code for object. |
 ### Matrix3D() {#Matrix3D--}
 ```
 public Matrix3D()
@@ -107,27 +107,7 @@ public Matrix3D(double a, double b, double c, double d, double e, double f, doub
 ```
 
 
-Transforms point using this matrix.
-
-Transforms rectangle. If angle is not 90 \* N degrees then bounding rectangle is returned.
-
 Initializes transformation matrix with specified coefficients.
-
---------------------
-
-```
-Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
-  Point p = new Point(5, 5);
-  Point p1 = m.transform(p);
-```
-
---------------------
-
-```
-Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
-  Rectangle r = new Rectangle(0, 0, 100, 100);
-  Rectangle r1 = m.transform(r1);
-```
 
 --------------------
 
@@ -458,31 +438,7 @@ public static double getAngle(int rotation)
 ```
 
 
-Creates matrix for given rotation angle.
-
-Creates matrix for given rotation angle.
-
-Creates matrix for given scale.
-
 Translates rotation into angle (degrees)
-
---------------------
-
-```
-Matrix m = Matrix.Rotation(Math.PI / 2);
-```
-
---------------------
-
-```
-Matrix m = Matrix.skew(Math.PI / 2, Math.PI / 2);
-```
-
---------------------
-
-```
-Matrix m = Matrix.scale(x, y);
-```
 
 --------------------
 
@@ -504,17 +460,9 @@ public Matrix3D add(Matrix3D other)
 ```
 
 
-Multiplies the matrix by other matrix.
-
 Adds matrix to other matrix.
 
 --------------------
-
-```
-Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 });
-  Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } );
-  Matrix c= a.Multiply(b);
-```
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -529,16 +477,9 @@ public int hashCode()
 ```
 
 
-Calculates reverse matrix.
-
 Hash-code for object.
 
 --------------------
-
-```
-Matrix m = Matrix.Rotation(Math.PI / 2);
-  Matrix m1 = m.reverse();
-```
 
 **Returns:**
 int - Hash-code.

@@ -3,7 +3,7 @@ title: TextAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of a text.
 type: docs
-weight: 360
+weight: 361
 url: /java/com.aspose.pdf/textabsorber/
 ---
 **Inheritance:**

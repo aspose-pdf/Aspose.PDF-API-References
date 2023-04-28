@@ -3,7 +3,7 @@ title: ScalingReason
 second_title: Aspose.PDF for Java API Reference
 description: The circumstances under which the icon shall be scaled inside the annotation rectangle.
 type: docs
-weight: 320
+weight: 321
 url: /java/com.aspose.pdf/scalingreason/
 ---
 **Inheritance:**
