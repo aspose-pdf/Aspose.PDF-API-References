@@ -3,7 +3,7 @@ title: XYZExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents explicit destination that displays the page with the coordinates left top positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom.
 type: docs
-weight: 409
+weight: 410
 url: /java/com.aspose.pdf/xyzexplicitdestination/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.PDF for Java API Reference
 description: Class represents rectangle.
 type: docs
-weight: 300
+weight: 301
 url: /java/com.aspose.pdf/rectangle/
 ---
 **Inheritance:**

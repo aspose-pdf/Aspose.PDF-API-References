@@ -3,7 +3,7 @@ title: TableBroken
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the table broken.
 type: docs
-weight: 354
+weight: 355
 url: /java/com.aspose.pdf/tablebroken/
 ---
 **Inheritance:**

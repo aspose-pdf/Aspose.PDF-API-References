@@ -3,7 +3,7 @@ title: Table
 second_title: Aspose.PDF for Java API Reference
 description: Represents a table that can be added to the page.
 type: docs
-weight: 352
+weight: 353
 url: /java/com.aspose.pdf/table/
 ---
 **Inheritance:**

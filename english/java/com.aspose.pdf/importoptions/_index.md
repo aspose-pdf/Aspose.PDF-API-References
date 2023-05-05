@@ -3,7 +3,7 @@ title: ImportOptions
 second_title: Aspose.PDF for Java API Reference
 description: ImportOptions type hold level of abstraction on individual import options.
 type: docs
-weight: 176
+weight: 177
 url: /java/com.aspose.pdf/importoptions/
 ---
 **Inheritance:**

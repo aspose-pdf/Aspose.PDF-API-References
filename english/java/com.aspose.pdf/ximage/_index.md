@@ -3,7 +3,7 @@ title: XImage
 second_title: Aspose.PDF for Java API Reference
 description: Class representing image X-Object.
 type: docs
-weight: 407
+weight: 408
 url: /java/com.aspose.pdf/ximage/
 ---
 **Inheritance:**
@@ -35,6 +35,7 @@ Class representing image X-Object.
 | [rename(String name)](#rename-java.lang.String-) | Renames image and replaces all references to the image with the new name |
 | [save(OutputStream stream)](#save-java.io.OutputStream-) | Saves image data into stream as JPEG image. |
 | [save(OutputStream stream, float xDpi, float yDpi)](#save-java.io.OutputStream-float-float-) | Saves image into stream with requested format. |
+| [saveInternal(System.IO.Stream stream, ImageType format)](#saveInternal-com.aspose.ms.System.IO.Stream-com.aspose.pdf.ImageType-) | Saves image into stream with requested format. |
 | [save(OutputStream stream, ImageType format)](#save-java.io.OutputStream-com.aspose.pdf.ImageType-) | Saves image into stream with requested format. |
 | [getImage()](#getImage--) | For internal use only |
 | [saveInternal(System.IO.Stream stream, int resolution)](#saveInternal-com.aspose.ms.System.IO.Stream-int-) | Saves image data into stream as JPEG image with specified resolution. |
@@ -210,6 +211,20 @@ Saves image into stream with requested format.
 | stream | java.io.OutputStream | OutputStream where image will be saved |
 | xDpi | float | Image horizontal resolution |
 | yDpi | float | Image vertical resolution |
+
+### saveInternal(System.IO.Stream stream, ImageType format) {#saveInternal-com.aspose.ms.System.IO.Stream-com.aspose.pdf.ImageType-}
+```
+public void saveInternal(System.IO.Stream stream, ImageType format)
+```
+
+
+Saves image into stream with requested format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | com.aspose.ms.System.IO.Stream | Stream where image will be saved |
+| format | [ImageType](../../com.aspose.pdf/imagetype) | Format which will be used for image enconding.  ImageFormat  |
 
 ### save(OutputStream stream, ImageType format) {#save-java.io.OutputStream-com.aspose.pdf.ImageType-}
 ```

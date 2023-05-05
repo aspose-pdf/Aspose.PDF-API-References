@@ -3,7 +3,7 @@ title: TableAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of table elements.
 type: docs
-weight: 353
+weight: 354
 url: /java/com.aspose.pdf/tableabsorber/
 ---
 **Inheritance:**

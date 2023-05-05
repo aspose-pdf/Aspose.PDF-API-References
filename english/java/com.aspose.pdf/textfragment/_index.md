@@ -3,7 +3,7 @@ title: TextFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents fragment of Pdf text.
 type: docs
-weight: 371
+weight: 372
 url: /java/com.aspose.pdf/textfragment/
 ---
 **Inheritance:**

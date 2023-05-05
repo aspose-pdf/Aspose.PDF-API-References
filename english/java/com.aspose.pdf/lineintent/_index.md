@@ -3,7 +3,7 @@ title: LineIntent
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the intents of the line annotation.
 type: docs
-weight: 197
+weight: 198
 url: /java/com.aspose.pdf/lineintent/
 ---
 **Inheritance:**

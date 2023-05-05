@@ -3,7 +3,7 @@ title: XfaParserOptions
 second_title: Aspose.PDF for Java API Reference
 description: class to handle related data encapsulation
 type: docs
-weight: 410
+weight: 411
 url: /java/com.aspose.pdf/xfaparseroptions/
 ---
 **Inheritance:**

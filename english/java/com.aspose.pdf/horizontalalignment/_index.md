@@ -3,7 +3,7 @@ title: HorizontalAlignment
 second_title: Aspose.PDF for Java API Reference
 description: Describes horizontal alignment.
 type: docs
-weight: 444
+weight: 445
 url: /java/com.aspose.pdf/horizontalalignment/
 ---
 **Inheritance:**

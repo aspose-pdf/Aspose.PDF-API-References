@@ -3,7 +3,7 @@ title: TeXLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing TeX file into PDF document.
 type: docs
-weight: 357
+weight: 358
 url: /java/com.aspose.pdf/texloadoptions/
 ---
 **Inheritance:**
@@ -34,8 +34,8 @@ Represents options for loading/importing TeX file into PDF document.
 | [setSubsetFonts(boolean value)](#setSubsetFonts-boolean-) | Gets/sets the flag indicating whether to subset fonts in output file or not. |
 | [getShowTerminalOutput()](#getShowTerminalOutput--) | Gets/sets the flag indicating whether to show terminal output on the console. |
 | [setShowTerminalOutput(boolean value)](#setShowTerminalOutput-boolean-) | Gets/sets the flag indicating whether to show terminal output on the console. |
-| [getDateTime()](#getDateTime--) | Gets/sets a certain value for date/time primitives like \\year, \\month, \\day and \\time. |
-| [setDateTime(Date value)](#setDateTime-java.util.Date-) | Gets/sets a certain value for date/time primitives like \\year, \\month, \\day and \\time. |
+| [getDateTime()](#getDateTime--) | Gets/sets a certain value for date/time primitives like year, month, day and time. |
+| [setDateTime(Date value)](#setDateTime-java.util.Date-) | Gets/sets a certain value for date/time primitives like year, month, day and time. |
 | [getNoLigatures()](#getNoLigatures--) | Gets/sets a flag that cancels ligatures in all fonts. |
 | [setNoLigatures(boolean value)](#setNoLigatures-boolean-) | Gets/sets a flag that cancels ligatures in all fonts. |
 | [getRasterizeFormulas()](#getRasterizeFormulas--) | Gets/sets a flag that allows to rasterize math formulas. |
@@ -192,7 +192,7 @@ public final Date getDateTime()
 ```
 
 
-Gets/sets a certain value for date/time primitives like \\year, \\month, \\day and \\time.
+Gets/sets a certain value for date/time primitives like year, month, day and time.
 
 **Returns:**
 [Date](../../java.util/date) - Date instance
@@ -202,7 +202,7 @@ public final void setDateTime(Date value)
 ```
 
 
-Gets/sets a certain value for date/time primitives like \\year, \\month, \\day and \\time.
+Gets/sets a certain value for date/time primitives like year, month, day and time.
 
 **Parameters:**
 | Parameter | Type | Description |

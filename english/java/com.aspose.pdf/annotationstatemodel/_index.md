@@ -3,7 +3,7 @@ title: AnnotationStateModel
 second_title: Aspose.PDF for Java API Reference
 description: The state model corresponding to state of annotation.
 type: docs
-weight: 440
+weight: 441
 url: /java/com.aspose.pdf/annotationstatemodel/
 ---
 **Inheritance:**

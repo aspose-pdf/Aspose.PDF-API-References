@@ -3,7 +3,7 @@ title: PageCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of PDF document pages.
 type: docs
-weight: 257
+weight: 258
 url: /java/com.aspose.pdf/pagecollection/
 ---
 **Inheritance:**

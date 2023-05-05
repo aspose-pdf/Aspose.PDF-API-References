@@ -3,7 +3,7 @@ title: FontAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of fonts.
 type: docs
-weight: 131
+weight: 132
 url: /java/com.aspose.pdf/fontabsorber/
 ---
 **Inheritance:**

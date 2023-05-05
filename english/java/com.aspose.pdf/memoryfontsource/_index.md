@@ -3,7 +3,7 @@ title: MemoryFontSource
 second_title: Aspose.PDF for Java API Reference
 description: Represents single font file source.
 type: docs
-weight: 217
+weight: 218
 url: /java/com.aspose.pdf/memoryfontsource/
 ---
 **Inheritance:**

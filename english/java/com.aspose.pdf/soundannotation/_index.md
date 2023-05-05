@@ -3,7 +3,7 @@ title: SoundAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a sound annotation that contains sound recorded from the computers microphone or imported from a file.
 type: docs
-weight: 326
+weight: 327
 url: /java/com.aspose.pdf/soundannotation/
 ---
 **Inheritance:**

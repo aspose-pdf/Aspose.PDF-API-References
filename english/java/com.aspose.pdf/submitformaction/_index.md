@@ -3,7 +3,7 @@ title: SubmitFormAction
 second_title: Aspose.PDF for Java API Reference
 description: Class which describes submit-form action.
 type: docs
-weight: 342
+weight: 343
 url: /java/com.aspose.pdf/submitformaction/
 ---
 **Inheritance:**

@@ -453,7 +453,7 @@ Certify the document with the MDP signature which is placed in already presented
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sigName | java.lang.String | The name of the signature field. |
-| docMdpSignature | [DocMDPSignature](../../com.aspose.pdf/docmdpsignature) | The type of the signature, could be   ,    and    |
+| docMdpSignature | [DocMDPSignature](../../com.aspose.pdf/docmdpsignature) | The type of the signature, could be PKCS1, PKCS7 and PKCS7Detached |
 
 ### getSignNames() {#getSignNames--}
 ```

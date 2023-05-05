@@ -155,6 +155,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [FixedPrint](../com.aspose.pdf/fixedprint) | Represent Fixed print data of Watermark Annotation. |
 | [Fixup](../com.aspose.pdf/fixup) | This enum represents an type of Fixup. |
 | [FloatingBox](../com.aspose.pdf/floatingbox) | Represents a FloatingBox in a Pdf document. |
+| [FlowConverter](../com.aspose.pdf/flowconverter) | Convert PDF Document to Flow formats (XLSX, ODS, XMLSpreedSheet2003, CSV) DOCX in EnchanedFlow mode, TableAbsorber in FlowEngine mode. !!! |
 | [FolderFontSource](../com.aspose.pdf/folderfontsource) | Represents the folder that contains font files. |
 | [Font](../com.aspose.pdf/font) | Represents font object. |
 | [FontAbsorber](../com.aspose.pdf/fontabsorber) | Represents an absorber object of fonts. |
@@ -194,7 +195,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [HtmlSaveOptions.CssUrlMakingStrategy](../com.aspose.pdf/htmlsaveoptions.cssurlmakingstrategy) | You can assign to this property delegate created from custom method that implements creation of URL of CSS referenced in generated HTML document. |
 | [HtmlSaveOptions.CssUrlRequestInfo](../com.aspose.pdf/htmlsaveoptions.cssurlrequestinfo) | Represents set of data that related to request from converter to custom code aimed to get desirable URL (or URL template)of subject CSS |
 | [HtmlSaveOptions.FontEncodingRules](../com.aspose.pdf/htmlsaveoptions.fontencodingrules) | This enumeration defines rules which tune encoding logic |
-| [HtmlSaveOptions.FontSavingModes](../com.aspose.pdf/htmlsaveoptions.fontsavingmodes) | Enumerates modes that can be used for saving of fonts referenced in saved PDF |
+| [HtmlSaveOptions.FontSavingModes](../com.aspose.pdf/htmlsaveoptions.fontsavingmodes) | Enumerates modes that can be used for saving of fonts referenced in saved PDF. |
 | [HtmlSaveOptions.HtmlImageSavingInfo](../com.aspose.pdf/htmlsaveoptions.htmlimagesavinginfo) | This class represents set of data that related to external resource image file's saving during PDF to HTML conversion. |
 | [HtmlSaveOptions.HtmlImageType](../com.aspose.pdf/htmlsaveoptions.htmlimagetype) | enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion |
 | [HtmlSaveOptions.HtmlMarkupGenerationModes](../com.aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes) | Sometimes specific reqirments to created HTML are present. |
@@ -381,7 +382,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [Rows](../com.aspose.pdf/rows) | Represents a rows collection of table. |
 | [SaveOptions](../com.aspose.pdf/saveoptions) | SaveOptions type hold level of abstraction on individual save options |
 | [SaveOptions.BorderInfo](../com.aspose.pdf/saveoptions.borderinfo) | Instance of this class represents information about border That can be drown on some result document. |
-| [SaveOptions.BorderPartStyle](../com.aspose.pdf/saveoptions.borderpartstyle) | Represents information of one part of border(top, botom, left side or right side) |
+| [SaveOptions.BorderPartStyle](../com.aspose.pdf/saveoptions.borderpartstyle) | Represents information of one part of border(top, bottom, left side or right side) |
 | [SaveOptions.HtmlBorderLineType](../com.aspose.pdf/saveoptions.htmlborderlinetype) | Represents line types that can be used in result document for drawing borders or another lines |
 | [SaveOptions.MarginInfo](../com.aspose.pdf/saveoptions.margininfo) | Instance of this class represents information about page margin That can be drown on some result document. |
 | [SaveOptions.MarginPartStyle](../com.aspose.pdf/saveoptions.marginpartstyle) | Represents information of one part of margin(top, botom, left side or right side) |

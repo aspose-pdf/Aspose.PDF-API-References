@@ -3,7 +3,7 @@ title: SubjectNameElements
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration describes elements in signature subject string.
 type: docs
-weight: 341
+weight: 342
 url: /java/com.aspose.pdf/subjectnameelements/
 ---
 **Inheritance:**

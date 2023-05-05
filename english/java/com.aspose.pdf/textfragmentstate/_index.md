@@ -3,7 +3,7 @@ title: TextFragmentState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text fragment.
 type: docs
-weight: 374
+weight: 375
 url: /java/com.aspose.pdf/textfragmentstate/
 ---
 **Inheritance:**

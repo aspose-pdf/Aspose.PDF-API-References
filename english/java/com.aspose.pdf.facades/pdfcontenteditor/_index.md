@@ -1057,7 +1057,7 @@ PdfContentEditor editor = new PdfContentEditor();
 | --- | --- | --- |
 | page | int | The number of original page where the annotation will be created. |
 | annotRect | java.awt.Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| icon | java.lang.String | String value |
+| icon | java.lang.String | icon An icon is to be used in displaying the annotation. Default value: 'Draft'. |
 | annotContents | java.lang.String | The contents of the annotation. |
 | color | java.awt.Color | The color of the annotation. |
 

@@ -3,7 +3,7 @@ title: PDF3DArtwork
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DArtwork.
 type: docs
-weight: 242
+weight: 243
 url: /java/com.aspose.pdf/pdf3dartwork/
 ---
 **Inheritance:**

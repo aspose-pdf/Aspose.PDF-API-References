@@ -3,7 +3,7 @@ title: OperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of operators
 type: docs
-weight: 231
+weight: 232
 url: /java/com.aspose.pdf/operatorcollection/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: LineAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing line annotation.
 type: docs
-weight: 193
+weight: 194
 url: /java/com.aspose.pdf/lineannotation/
 ---
 **Inheritance:**

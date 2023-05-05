@@ -102,7 +102,7 @@ Class representing PDF document
 | [convert(int fixup, OutputStream outputLog, boolean onlyValidation, Object[] parameters)](#convert-int-java.io.OutputStream-boolean-java.lang.Object---) | Convert document by applying the Fixup. |
 | [convert(int fixup, String outputLog)](#convert-int-java.lang.String-) | Convert document by applying the Fixup. |
 | [convert(int fixup, String outputLog, boolean onlyValidation, Object[] parameters)](#convert-int-java.lang.String-boolean-java.lang.Object---) | Convert document by applying the Fixup. |
-| [flatten()](#flatten--) | Removes all fields from the document and place their values instead. |
+| [flatten()](#flatten--) | Removes all fields (and annotations) from the document and place their values instead. |
 | [getCryptoAlgorithm()](#getCryptoAlgorithm--) | Gets security settings if document is encrypted. |
 | [encrypt(String userPassword, String ownerPassword, DocumentPrivilege privileges, CryptoAlgorithm cryptoAlgorithm, boolean usePdf20)](#encrypt-java.lang.String-java.lang.String-com.aspose.pdf.facades.DocumentPrivilege-com.aspose.pdf.CryptoAlgorithm-boolean-) | Encrypts the document. |
 | [encrypt(String userPassword, String ownerPassword, int permissions, CryptoAlgorithm cryptoAlgorithm)](#encrypt-java.lang.String-java.lang.String-int-com.aspose.pdf.CryptoAlgorithm-) | Encrypts the document. |
@@ -1215,7 +1215,7 @@ public void flatten()
 ```
 
 
-Removes all fields from the document and place their values instead.
+Removes all fields (and annotations) from the document and place their values instead.
 
 ### getCryptoAlgorithm() {#getCryptoAlgorithm--}
 ```

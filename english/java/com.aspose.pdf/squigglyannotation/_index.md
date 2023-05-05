@@ -3,7 +3,7 @@ title: SquigglyAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents the squiggly annotation that appears as a jagged underline in the text of a document.
 type: docs
-weight: 334
+weight: 335
 url: /java/com.aspose.pdf/squigglyannotation/
 ---
 **Inheritance:**

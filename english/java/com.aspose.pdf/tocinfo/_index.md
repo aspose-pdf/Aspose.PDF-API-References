@@ -3,7 +3,7 @@ title: TocInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents table of contents info.
 type: docs
-weight: 392
+weight: 393
 url: /java/com.aspose.pdf/tocinfo/
 ---
 **Inheritance:**

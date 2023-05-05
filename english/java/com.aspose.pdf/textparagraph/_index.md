@@ -3,7 +3,7 @@ title: TextParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents text paragraphs as multiline text object.
 type: docs
-weight: 379
+weight: 380
 url: /java/com.aspose.pdf/textparagraph/
 ---
 **Inheritance:**

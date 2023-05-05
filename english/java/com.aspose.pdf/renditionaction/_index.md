@@ -3,7 +3,7 @@ title: RenditionAction
 second_title: Aspose.PDF for Java API Reference
 description: A rendition action that controls the playing of multimedia content.
 type: docs
-weight: 306
+weight: 307
 url: /java/com.aspose.pdf/renditionaction/
 ---
 **Inheritance:**
