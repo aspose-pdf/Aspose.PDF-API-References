@@ -20,7 +20,7 @@ Aspose.PDF is a .NET component built to allow developers to create PDF documents
 
 These are links to some useful resources:
 - [Aspose.PDF for .NET API Reference](/pdf/net/)
-
+- [Aspose.PDF for .NET API Examples](/examples/pdf/net/)
 
 ## Aspose.PDF for Java
 
