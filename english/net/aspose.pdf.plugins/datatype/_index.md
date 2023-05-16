@@ -3,7 +3,7 @@ title: DataType
 second_title: Aspose.PDF for .NET API Reference
 description: Represents possible types of data for plugin processing.
 type: docs
-weight: 6180
+weight: 6210
 url: /net/aspose.pdf.plugins/datatype/
 ---
 ## DataType enumeration

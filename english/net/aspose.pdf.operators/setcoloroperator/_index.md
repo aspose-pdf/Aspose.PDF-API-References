@@ -3,7 +3,7 @@ title: SetColorOperator
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing set color operation.
 type: docs
-weight: 5450
+weight: 5470
 url: /net/aspose.pdf.operators/setcoloroperator/
 ---
 ## SetColorOperator class

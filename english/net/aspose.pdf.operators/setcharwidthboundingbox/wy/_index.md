@@ -3,7 +3,7 @@ title: Wy
 second_title: Aspose.PDF for .NET API Reference
 description: Vertical displacement of glyph.
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/wy/
 ---
 ## SetCharWidthBoundingBox.Wy property

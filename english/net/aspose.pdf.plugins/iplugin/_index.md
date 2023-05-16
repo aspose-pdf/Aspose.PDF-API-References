@@ -3,7 +3,7 @@ title: IPlugin
 second_title: Aspose.PDF for .NET API Reference
 description: General plugin interface that defines common methods that concrete plugin should implement.
 type: docs
-weight: 6240
+weight: 6300
 url: /net/aspose.pdf.plugins/iplugin/
 ---
 ## IPlugin interface

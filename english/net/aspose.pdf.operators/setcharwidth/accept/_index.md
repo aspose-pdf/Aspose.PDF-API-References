@@ -3,7 +3,7 @@ title: Accept
 second_title: Aspose.PDF for .NET API Reference
 description: Accepts visitor object to process operator.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.operators/setcharwidth/accept/
 ---
 ## SetCharWidth.Accept method

@@ -3,7 +3,7 @@ title: TeXSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Save options for export to TeX format
 type: docs
-weight: 7000
+weight: 7160
 url: /net/aspose.pdf/texsaveoptions/
 ---
 ## TeXSaveOptions class

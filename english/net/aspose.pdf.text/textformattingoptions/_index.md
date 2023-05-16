@@ -3,7 +3,7 @@ title: TextFormattingOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents text formatting options
 type: docs
-weight: 7480
+weight: 7640
 url: /net/aspose.pdf.text/textformattingoptions/
 ---
 ## TextFormattingOptions class

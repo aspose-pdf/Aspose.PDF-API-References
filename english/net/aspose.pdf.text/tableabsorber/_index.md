@@ -3,7 +3,7 @@ title: TableAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an absorber object of table elements. Performs search and provides access to search results via TableList./tableabsorber/tablelist collection.
 type: docs
-weight: 7360
+weight: 7520
 url: /net/aspose.pdf.text/tableabsorber/
 ---
 ## TableAbsorber class
@@ -35,7 +35,8 @@ public class TableAbsorber
 | --- | --- |
 | [Remove](../../aspose.pdf.text/tableabsorber/remove)(AbsorbedTable) | Removes an [`AbsorbedTable`](../absorbedtable) from the page. |
 | [Replace](../../aspose.pdf.text/tableabsorber/replace)(Page, AbsorbedTable, Table) | Replaces an [`AbsorbedTable`](../absorbedtable) with [`Table`](../../aspose.pdf/table) on the page. |
-| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit)(Page) | Extracts tables on the specified page |
+| [Visit](../../aspose.pdf.text/tableabsorber/visit#visit)(Document) | Extracts tables in the specified document. |
+| virtual [Visit](../../aspose.pdf.text/tableabsorber/visit#visit_1)(Page) | Extracts tables on the specified page |
 
 ### Examples
 

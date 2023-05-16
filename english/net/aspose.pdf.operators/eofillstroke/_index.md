@@ -14,6 +14,12 @@ Class representing B* operator (fill and stroke path usign even-odd rule).
 public class EOFillStroke : Operator
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [EOFillStroke](eofillstroke)() | Initializes operator. |
+
 ## Properties
 
 | Name | Description |

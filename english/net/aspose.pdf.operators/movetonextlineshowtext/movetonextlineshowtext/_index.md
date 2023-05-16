@@ -6,13 +6,33 @@ type: docs
 weight: 10
 url: /net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 ---
-## MoveToNextLineShowText constructor
+## MoveToNextLineShowText() {#constructor}
 
 Initializes operator.
 
 ```csharp
 public MoveToNextLineShowText()
 ```
+
+### See Also
+
+* class [MoveToNextLineShowText](../../movetonextlineshowtext)
+* namespace [Aspose.Pdf.Operators](../../movetonextlineshowtext)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## MoveToNextLineShowText(string) {#constructor_1}
+
+Initializes operator.
+
+```csharp
+public MoveToNextLineShowText(string text)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | The text. |
 
 ### See Also
 

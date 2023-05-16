@@ -3,7 +3,7 @@ title: SetGray
 second_title: Aspose.PDF for .NET API Reference
 description: Set gray level for non-stroking operations.
 type: docs
-weight: 5530
+weight: 5550
 url: /net/aspose.pdf.operators/setgray/
 ---
 ## SetGray class
@@ -24,6 +24,7 @@ public class SetGray : SetColorOperator
 
 | Name | Description |
 | --- | --- |
+| [Gray](../../aspose.pdf.operators/setgray/gray) { get; set; } | Gets or sets the level of gray value. |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
 
 ## Methods

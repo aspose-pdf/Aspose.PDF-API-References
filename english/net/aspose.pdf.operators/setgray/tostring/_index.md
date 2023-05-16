@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.PDF for .NET API Reference
 description: Returns string represnetation of operator.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.operators/setgray/tostring/
 ---
 ## SetGray.ToString method

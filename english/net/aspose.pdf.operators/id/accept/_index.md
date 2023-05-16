@@ -3,7 +3,7 @@ title: Accept
 second_title: Aspose.PDF for .NET API Reference
 description: Accepts visitor object to process operator.
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.pdf.operators/id/accept/
 ---
 ## ID.Accept method

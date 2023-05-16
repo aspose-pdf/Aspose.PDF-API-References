@@ -3,7 +3,7 @@ title: PdfException
 second_title: Aspose.PDF for .NET API Reference
 description: Represents errors that occur during PDF application execution.
 type: docs
-weight: 6060
+weight: 6080
 url: /net/aspose.pdf/pdfexception/
 ---
 ## PdfException class

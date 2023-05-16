@@ -3,7 +3,7 @@ title: TextAlignment
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets. Alignment of Overlay Text.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.annotations/redactionannotation/textalignment/
 ---
 ## RedactionAnnotation.TextAlignment property

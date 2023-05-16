@@ -3,7 +3,7 @@ title: PdfXmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Load options for PdfXml format.
 type: docs
-weight: 6140
+weight: 6160
 url: /net/aspose.pdf/pdfxmlloadoptions/
 ---
 ## PdfXmlLoadOptions class

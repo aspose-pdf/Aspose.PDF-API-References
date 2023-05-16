@@ -94,7 +94,7 @@ public SetColorStroke(double c, double m, double y, double k)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | Double | cyan component. |
+| c | Double | Cyan component. |
 | m | Double | Magenta component. |
 | y | Double | Yellow component. |
 | k | Double | Black component. |

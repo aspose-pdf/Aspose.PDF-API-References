@@ -3,7 +3,7 @@ title: Wx
 second_title: Aspose.PDF for .NET API Reference
 description: Horizontal displacement of glyph.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
 ## SetCharWidthBoundingBox.Wx property

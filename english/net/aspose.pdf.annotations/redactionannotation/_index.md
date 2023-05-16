@@ -38,6 +38,7 @@ public sealed class RedactionAnnotation : MarkupAnnotation
 | [DefaultAppearance](../../aspose.pdf.annotations/redactionannotation/defaultappearance) { get; set; } | Gets or sets the default appearance string to be used in formatting the text. |
 | [FillColor](../../aspose.pdf.annotations/redactionannotation/fillcolor) { get; set; } | Gets or sets color to fill annotation. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | Flags of the annotation. |
+| [FontSize](../../aspose.pdf.annotations/redactionannotation/fontsize) { get; set; } | Gets or sets font size for OverlayText. |
 | [FullName](../../aspose.pdf.annotations/annotation/fullname) { get; } | Gets full qualified name of the annotation. |
 | virtual [Height](../../aspose.pdf.annotations/annotation/height) { get; set; } | Gets or sets height of the annotation. |
 | virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink) { get; set; } | Gets or sets the fragment hyperlink(for pdf generator). |
@@ -50,7 +51,7 @@ public sealed class RedactionAnnotation : MarkupAnnotation
 | [Modified](../../aspose.pdf.annotations/annotation/modified) { get; set; } | Gets or sets date and time when annotation was recently modified. |
 | [Name](../../aspose.pdf.annotations/annotation/name) { get; set; } | Gets or sets annotation name on the page. |
 | [Opacity](../../aspose.pdf.annotations/markupannotation/opacity) { get; set; } | Gets or sets the constant opacity value to be used in painting the annotation. |
-| [OverlayText](../../aspose.pdf.annotations/redactionannotation/overlaytext) { get; set; } | Text to print on redact annotation. |
+| [OverlayText](../../aspose.pdf.annotations/redactionannotation/overlaytext) { get; set; } | Gets or sets text to print on redact annotation. |
 | virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex) { get; } | Gets index of page which contains annotation. |
 | [Popup](../../aspose.pdf.annotations/markupannotation/popup) { get; set; } | Pop-up annotation for entering or editing the text associated with this annotation. |
 | [QuadPoint](../../aspose.pdf.annotations/redactionannotation/quadpoint) { get; set; } | An array of 8xN numbers specifying the coordinates of content region that is intended to be removed. |

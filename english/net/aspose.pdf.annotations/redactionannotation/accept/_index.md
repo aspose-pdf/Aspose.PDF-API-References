@@ -3,7 +3,7 @@ title: Accept
 second_title: Aspose.PDF for .NET API Reference
 description: Accepts visitor object to process the annotation.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.annotations/redactionannotation/accept/
 ---
 ## RedactionAnnotation.Accept method

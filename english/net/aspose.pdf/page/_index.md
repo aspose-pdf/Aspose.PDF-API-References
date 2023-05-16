@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 5840
+weight: 5860
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -72,6 +72,7 @@ public sealed class Page : IDisposable
 | [FreeMemory](../../aspose.pdf/page/freememory)() | Clears cached data |
 | [GetNotifications](../../aspose.pdf/page/getnotifications)() | Returns notifications about inside operations with page content. (Only notifications about paragraph events in text adding scenarios are supported now.) |
 | [GetPageRect](../../aspose.pdf/page/getpagerect)(bool) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
+| [HasVectorGraphics](../../aspose.pdf/page/hasvectorgraphics)() | Detect of the presence of vector graphics, if it is present on the page. |
 | [IsBlank](../../aspose.pdf/page/isblank)(double) | Gets the flag whether page is blank or not. |
 | [MakeGrayscale](../../aspose.pdf/page/makegrayscale)() | Converts the page to grayscale. |
 | [SendTo](../../aspose.pdf/page/sendto#sendto)(PageDevice, Stream) | Sends page to process with given page device. |

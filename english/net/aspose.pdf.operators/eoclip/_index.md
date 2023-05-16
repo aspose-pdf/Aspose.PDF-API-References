@@ -14,6 +14,12 @@ Class representing W* operator (set clipping path using even-odd rule).
 public class EOClip : Operator
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [EOClip](eoclip)() | Initializes operator. |
+
 ## Properties
 
 | Name | Description |

@@ -3,7 +3,7 @@ title: Flatten
 second_title: Aspose.PDF for .NET API Reference
 description: Flattens annotation i.e. removes annotation and adds its
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf.annotations/redactionannotation/flatten/
 ---
 ## RedactionAnnotation.Flatten method

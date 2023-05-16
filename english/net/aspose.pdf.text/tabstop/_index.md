@@ -3,7 +3,7 @@ title: TabStop
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a custom Tab stop position in a paragraph.
 type: docs
-weight: 7340
+weight: 7500
 url: /net/aspose.pdf.text/tabstop/
 ---
 ## TabStop class
