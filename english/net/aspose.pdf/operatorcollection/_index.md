@@ -44,7 +44,8 @@ public class OperatorCollection : BaseOperatorCollection
 | [Insert](../../aspose.pdf/operatorcollection/insert#insert_1)(int, Operator[]) | Insert operators at the the given position. |
 | override [Remove](../../aspose.pdf/operatorcollection/remove)(Operator) | Remove operator from the collection. |
 | [Replace](../../aspose.pdf/operatorcollection/replace)(IList&lt;Operator&gt;) | Replace operators in collection with other operators. |
-| override [ResumeUpdate](../../aspose.pdf/operatorcollection/resumeupdate)() | Resumes document update. Updates contents stream in case there are any pending changes. |
+| override [ResumeUpdate](../../aspose.pdf/operatorcollection/resumeupdate#resumeupdate)() | Resumes document update. Updates contents stream in case there are any pending changes. |
+| [ResumeUpdate](../../aspose.pdf/operatorcollection/resumeupdate#resumeupdate_1)(bool) | Resumes document update. Updates contents stream in case there are any pending changes. Marks all operators as "changed" if invalidate parameter is true. |
 | override [SuppressUpdate](../../aspose.pdf/operatorcollection/suppressupdate)() | Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called. |
 | override [ToString](../../aspose.pdf/operatorcollection/tostring)() | Returns text representation of the operator. |
 

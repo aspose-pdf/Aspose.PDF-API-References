@@ -3,7 +3,7 @@ title: getColor
 second_title: Aspose.PDF for .NET API Reference
 description: Returns color specified by operator.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.operators/setgraystroke/getcolor/
 ---
 ## SetGrayStroke.getColor method

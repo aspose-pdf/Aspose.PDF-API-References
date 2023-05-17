@@ -3,7 +3,7 @@ title: MoveTo
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing m operator move to and begin new subpath.
 type: docs
-weight: 5310
+weight: 5330
 url: /net/aspose.pdf.operators/moveto/
 ---
 ## MoveTo class

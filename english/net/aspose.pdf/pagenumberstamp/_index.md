@@ -3,7 +3,7 @@ title: PageNumberStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Represents page number stamp and used to number pages.
 type: docs
-weight: 5940
+weight: 5960
 url: /net/aspose.pdf/pagenumberstamp/
 ---
 ## PageNumberStamp class

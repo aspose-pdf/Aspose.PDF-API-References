@@ -3,7 +3,7 @@ title: SetRGBColor
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing rg operator set RGB color for non-stroking operators.
 type: docs
-weight: 5600
+weight: 5620
 url: /net/aspose.pdf.operators/setrgbcolor/
 ---
 ## SetRGBColor class
@@ -25,7 +25,10 @@ public class SetRGBColor : SetColorOperator
 
 | Name | Description |
 | --- | --- |
+| [B](../../aspose.pdf.operators/setrgbcolor/b) { get; set; } | Gets or sets the blue component. |
+| [G](../../aspose.pdf.operators/setrgbcolor/g) { get; set; } | Gets or sets the green component. |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [R](../../aspose.pdf.operators/setrgbcolor/r) { get; set; } | Gets or sets the red component. |
 
 ## Methods
 

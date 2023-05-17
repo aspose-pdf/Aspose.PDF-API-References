@@ -12,6 +12,7 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 
 | Class | Description |
 | --- | --- |
+| [CheckBoxFieldCreateOptions](./checkboxfieldcreateoptions) | Represents options for creating CheckBoxField. |
 | [ComboBoxFieldCreateOptions](./comboboxfieldcreateoptions) | Represents options for creating ComboBoxField. |
 | [FieldCreateOptions](./fieldcreateoptions) | Represents options for creating Field. |
 | [FileDataSource](./filedatasource) | Represents file data source for load and save operations of a plugin. |
@@ -26,11 +27,20 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [PdfExtractorToTextOptions](./pdfextractortotextoptions) | Represents text extraction options for the PdfExtractor plugin. |
 | [PdfForm](./pdfform) | Represents PdfForm plugin. |
 | [PdfFormAddFieldsOptions](./pdfformaddfieldsoptions) | Represents options for add Fields to document by PdfForm plugin. |
+| [PdfFormFlattenFieldsOptions](./pdfformflattenfieldsoptions) | Represents options for flatten all Fields (not annotations) on specified pages of document by PdfForm plugin. |
 | [PdfFormOptions](./pdfformoptions) | Represents options for PdfForm plugin. |
 | [PdfFormRemoveFieldsOptions](./pdfformremovefieldsoptions) | Represents options for remove all Fields from specified pages of document by PdfForm plugin. |
+| [PdfGenerator](./pdfgenerator) | Represents PdfGenerator plugin. |
+| [PdfGeneratorOptions](./pdfgeneratoroptions) | Represents options for [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator) plugin. |
+| [PdfGeneratorTableOptions](./pdfgeneratortableoptions) | Represents options for add datatable to document by [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator) plugin. |
+| [PdfGeneratorTOCOptions](./pdfgeneratortocoptions) | Represents options for add table of contents to document by [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator) plugin. |
+| [PdfImage](./pdfimage) | Represents PdfImage plugin. |
+| [PdfImageOptions](./pdfimageoptions) | Represents options for the PdfImage plugin. |
+| [PdfImageToJpegOptions](./pdfimagetojpegoptions) | Represents Pdf to Jpeg convertor options for the PdfImage plugin. |
 | [PdfOrganizer](./pdforganizer) | Represents PdfOrganizer plugin. |
 | [PdfOrganizerMergeOptions](./pdforganizermergeoptions) | Represents Merge options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [PdfOrganizerOptions](./pdforganizeroptions) | Represents options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
+| [PdfOrganizerResizeOptions](./pdforganizerresizeoptions) | Represents Resize options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [PdfOrganizerRotateOptions](./pdforganizerrotateoptions) | Represents Rotate options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [PdfOrganizerSplitOptions](./pdforganizersplitoptions) | Represents Split options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [ResultContainer](./resultcontainer) | Represents container that contains the result collection of processing the plugin. |

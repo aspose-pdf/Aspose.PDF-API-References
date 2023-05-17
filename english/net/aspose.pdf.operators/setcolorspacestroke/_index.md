@@ -3,7 +3,7 @@ title: SetColorSpaceStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing CS operator set color for stroking operations.
 type: docs
-weight: 5480
+weight: 5500
 url: /net/aspose.pdf.operators/setcolorspacestroke/
 ---
 ## SetColorSpaceStroke class

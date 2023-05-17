@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.PDF for .NET API Reference
 description: Returns text representation of operator.
 type: docs
-weight: 40
+weight: 70
 url: /net/aspose.pdf.operators/setrgbcolorstroke/tostring/
 ---
 ## SetRGBColorStroke.ToString method

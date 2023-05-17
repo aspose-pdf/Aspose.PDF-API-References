@@ -1,12 +1,32 @@
 ---
 title: ResumeUpdate
 second_title: Aspose.PDF for .NET API Reference
-description: Resumes document update. Updates contents stream in case there are any pending changes.
+description: Resumes document update. Updates contents stream in case there are any pending changes. Marks all operators as changed if invalidate parameter is true.
 type: docs
 weight: 160
 url: /net/aspose.pdf/operatorcollection/resumeupdate/
 ---
-## OperatorCollection.ResumeUpdate method
+## ResumeUpdate(bool) {#resumeupdate_1}
+
+Resumes document update. Updates contents stream in case there are any pending changes. Marks all operators as "changed" if invalidate parameter is true.
+
+```csharp
+public void ResumeUpdate(bool updateAll)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| updateAll | Boolean | If true, all operators in the collection marked as updated. |
+
+### See Also
+
+* class [OperatorCollection](../../operatorcollection)
+* namespace [Aspose.Pdf](../../operatorcollection)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ResumeUpdate() {#resumeupdate}
 
 Resumes document update. Updates contents stream in case there are any pending changes.
 

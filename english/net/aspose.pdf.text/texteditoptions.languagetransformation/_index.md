@@ -3,7 +3,7 @@ title: TextEditOptions.LanguageTransformation
 second_title: Aspose.PDF for .NET API Reference
 description: Language transformation modes
 type: docs
-weight: 7420
+weight: 7580
 url: /net/aspose.pdf.text/texteditoptions.languagetransformation/
 ---
 ## TextEditOptions.LanguageTransformation enumeration

@@ -3,7 +3,7 @@ title: SetTextMatrix
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Tm operator set text matrix.
 type: docs
-weight: 5640
+weight: 5660
 url: /net/aspose.pdf.operators/settextmatrix/
 ---
 ## SetTextMatrix class

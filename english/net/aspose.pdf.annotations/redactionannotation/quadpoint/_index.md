@@ -3,7 +3,7 @@ title: QuadPoint
 second_title: Aspose.PDF for .NET API Reference
 description: An array of 8xN numbers specifying the coordinates of content region that is intended to be removed.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf.annotations/redactionannotation/quadpoint/
 ---
 ## RedactionAnnotation.QuadPoint property

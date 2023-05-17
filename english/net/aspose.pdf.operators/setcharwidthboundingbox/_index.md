@@ -3,7 +3,7 @@ title: SetCharWidthBoundingBox
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing d1 operator set glyph and bounding box.
 type: docs
-weight: 5420
+weight: 5440
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/
 ---
 ## SetCharWidthBoundingBox class
@@ -13,6 +13,12 @@ Class representing d1 operator (set glyph and bounding box).
 ```csharp
 public class SetCharWidthBoundingBox : Operator
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [SetCharWidthBoundingBox](setcharwidthboundingbox)(double, double, double, double, double, double) | Initializes SetCharWidthBoundingBox operator. |
 
 ## Properties
 

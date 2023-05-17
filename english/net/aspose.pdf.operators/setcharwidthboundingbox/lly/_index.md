@@ -3,7 +3,7 @@ title: Lly
 second_title: Aspose.PDF for .NET API Reference
 description: Lower-left vertical coordinate of bounding rectangle.
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/lly/
 ---
 ## SetCharWidthBoundingBox.Lly property

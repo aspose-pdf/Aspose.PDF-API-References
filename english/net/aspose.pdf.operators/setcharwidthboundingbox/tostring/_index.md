@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.PDF for .NET API Reference
 description: Returns text representation of operator.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/tostring/
 ---
 ## SetCharWidthBoundingBox.ToString method

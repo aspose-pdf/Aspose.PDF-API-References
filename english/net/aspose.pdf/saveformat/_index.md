@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Specifies format
 type: docs
-weight: 6690
+weight: 6850
 url: /net/aspose.pdf/saveformat/
 ---
 ## SaveFormat enumeration

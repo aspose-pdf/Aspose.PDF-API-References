@@ -14,6 +14,12 @@ Class representing ID operator (Begin inline image data).
 public class ID : Operator
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [ID](id)() | Initializes operator. |
+
 ## Properties
 
 | Name | Description |

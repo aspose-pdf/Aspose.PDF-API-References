@@ -3,7 +3,7 @@ title: PdfFormOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for PdfForm plugin.
 type: docs
-weight: 6400
+weight: 6470
 url: /net/aspose.pdf.plugins/pdfformoptions/
 ---
 ## PdfFormOptions class

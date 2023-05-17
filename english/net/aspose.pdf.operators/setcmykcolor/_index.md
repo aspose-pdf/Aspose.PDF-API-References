@@ -3,7 +3,7 @@ title: SetCMYKColor
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing k operator set CMYK color for non-stroking operations.
 type: docs
-weight: 5390
+weight: 5410
 url: /net/aspose.pdf.operators/setcmykcolor/
 ---
 ## SetCMYKColor class
@@ -24,7 +24,11 @@ public class SetCMYKColor : SetColorOperator
 
 | Name | Description |
 | --- | --- |
+| [C](../../aspose.pdf.operators/setcmykcolor/c) { get; set; } | Gets or sets the cyan component. |
 | [Index](../../aspose.pdf/operator/index) { get; set; } | Operator index in page operators list. |
+| [K](../../aspose.pdf.operators/setcmykcolor/k) { get; set; } | Gets or sets the black component. |
+| [M](../../aspose.pdf.operators/setcmykcolor/m) { get; set; } | Gets or sets the magenta component. |
+| [Y](../../aspose.pdf.operators/setcmykcolor/y) { get; set; } | Gets or sets the yellow component. |
 
 ## Methods
 

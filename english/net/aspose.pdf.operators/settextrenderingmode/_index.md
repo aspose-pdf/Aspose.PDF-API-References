@@ -3,7 +3,7 @@ title: SetTextRenderingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing Tr operator set text rendering mode.
 type: docs
-weight: 5650
+weight: 5670
 url: /net/aspose.pdf.operators/settextrenderingmode/
 ---
 ## SetTextRenderingMode class
@@ -13,6 +13,12 @@ Class representing Tr operator (set text rendering mode).
 ```csharp
 public class SetTextRenderingMode : TextStateOperator
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [SetTextRenderingMode](settextrenderingmode)() | Initializes operator. |
 
 ## Properties
 

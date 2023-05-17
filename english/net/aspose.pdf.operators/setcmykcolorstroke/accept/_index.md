@@ -3,7 +3,7 @@ title: Accept
 second_title: Aspose.PDF for .NET API Reference
 description: Accepts visitor object to process operator.
 type: docs
-weight: 20
+weight: 60
 url: /net/aspose.pdf.operators/setcmykcolorstroke/accept/
 ---
 ## SetCMYKColorStroke.Accept method

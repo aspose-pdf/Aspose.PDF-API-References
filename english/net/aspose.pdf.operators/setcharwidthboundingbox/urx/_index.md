@@ -3,7 +3,7 @@ title: Urx
 second_title: Aspose.PDF for .NET API Reference
 description: Upper-right horizontal coordinate of bounding rectangle.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/urx/
 ---
 ## SetCharWidthBoundingBox.Urx property

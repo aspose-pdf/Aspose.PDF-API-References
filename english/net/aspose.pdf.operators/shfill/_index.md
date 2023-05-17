@@ -3,7 +3,7 @@ title: ShFill
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing sh operator paint area with shading pattern.
 type: docs
-weight: 5680
+weight: 5700
 url: /net/aspose.pdf.operators/shfill/
 ---
 ## ShFill class
