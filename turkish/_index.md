@@ -20,6 +20,8 @@ Aspose.PDF, geliştiricilerin ister basit ister karmaşık olsun, anında progra
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Aspose.PDF for .NET API Referansı](/pdf/tr/net/)
+- [.NET API Öğreticileri için Aspose.PDF](/tutorials/tr/pdf/net/)
+
 
 
 ## Java için Aspose.PDF
