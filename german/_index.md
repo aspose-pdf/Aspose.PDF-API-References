@@ -20,6 +20,7 @@ Aspose.PDF ist eine .NET-Komponente, die entwickelt wurde, um es Entwicklern zu 
 
 Dies sind Links zu einigen nützlichen Ressourcen:
 - [Aspose.PDF für .NET-API-Referenz](/pdf/de/net/)
+- [Aspose.PDF für .NET API-Tutorials](/tutorials/de/pdf/net/)
 
 
 ## Aspose.PDF für Java
