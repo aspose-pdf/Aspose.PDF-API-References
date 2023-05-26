@@ -34,6 +34,8 @@ url: /javascript-cpp/core/
 | [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign PDF with digital signatures. |
 | [AsposePdfConvertToPDFA](./asposepdfconverttopdfa/) | Convert a PDF-file to PDF/A. |
 | [AsposePdfAConvertToPDF](./asposepdfaconverttopdf/) | Convert a PDF/A-file to PDF. |
+| [AsposePdfToDocX](./asposepdftodocx/) | Convert a PDF-file to DocX. |
+| [AsposePdfToXlsX](./asposepdftoxlsx/) | Convert a PDF-file to XlsX. |
 
 ## Detailed Description
 

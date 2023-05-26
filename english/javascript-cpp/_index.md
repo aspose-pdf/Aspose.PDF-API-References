@@ -39,6 +39,8 @@ is_root: true
 | [AsposePdfSignPKCS7](./core/asposepdfsignpkcs7/) | Sign PDF with digital signatures. |
 | [AsposePdfConvertToPDFA](./core/asposepdfconverttopdfa/) | Convert a PDF-file to PDF/A. |
 | [AsposePdfAConvertToPDF](./core/asposepdfaconverttopdf/) | Convert a PDF/A-file to PDF. |
+| [AsposePdfToDocX](./core/asposepdftodocx/) | Convert a PDF-file to DocX. |
+| [AsposePdfToXlsX](./core/asposepdftoxlsx/) | Convert a PDF-file to XlsX. |
 
 ## Miscellaneous
 
