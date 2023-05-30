@@ -3,7 +3,7 @@ title: SetCharWidthBoundingBox
 second_title: Aspose.PDF for Java API Reference
 description: Class representing d1 operator set glyph and bounding box.
 type: docs
-weight: 59
+weight: 61
 url: /java/com.aspose.pdf.operators/setcharwidthboundingbox/
 ---
 **Inheritance:**
@@ -17,7 +17,7 @@ Class representing d1 operator (set glyph and bounding box).
 
 | Constructor | Description |
 | --- | --- |
-| [SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, double urx, double ury)](#SetCharWidthBoundingBox-double-double-double-double-double-double-) | Initializes operator. |
+| [SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, double urx, double ury)](#SetCharWidthBoundingBox-double-double-double-double-double-double-) | Initializes SetCharWidthBoundingBox operator. |
 | [SetCharWidthBoundingBox(int index, ICommand command)](#SetCharWidthBoundingBox-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
 ## Methods
 
@@ -39,17 +39,17 @@ public SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, dou
 ```
 
 
-Initializes operator.
+Initializes SetCharWidthBoundingBox operator.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| wx | double | double value |
-| wy | double | double value |
-| llx | double | double value |
-| lly | double | double value |
-| urx | double | double value |
-| ury | double | double value |
+| wx | double | Denotes the horizontal displacement in the glyph coordinate. |
+| wy | double | Denotes the vertical displacement in the glyph coordinate. Shall be 0. |
+| llx | double | Denotes X coordinate of the lower-left corner. |
+| lly | double | Denotes Y coordinate of the lower-left corner. |
+| urx | double | Denotes X coordinate of upper-right corner. |
+| ury | double | Denotes Y coordinate of upper-right corner. |
 
 ### SetCharWidthBoundingBox(int index, ICommand command) {#SetCharWidthBoundingBox-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
 ```

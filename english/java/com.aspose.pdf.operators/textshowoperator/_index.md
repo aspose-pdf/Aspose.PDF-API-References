@@ -3,7 +3,7 @@ title: TextShowOperator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for all operators which used to out text Tj TJ etc.
 type: docs
-weight: 90
+weight: 92
 url: /java/com.aspose.pdf.operators/textshowoperator/
 ---
 **Inheritance:**

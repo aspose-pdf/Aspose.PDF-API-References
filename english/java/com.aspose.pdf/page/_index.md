@@ -39,6 +39,7 @@ Class representing page of PDF document.
 | [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
 | [convertToPNGMemoryStream()](#convertToPNGMemoryStream--) | Convert page to PNG for DSR, OMR, OCR image stream. |
 | [trySaveVectorGraphics(String pathToSave)](#trySaveVectorGraphics-java.lang.String-) | Tries to save vector graphics if they are present on the page. |
+| [hasVectorGraphics()](#hasVectorGraphics--) | Detect of the presence of vector graphics, if it is present on the page. |
 | [getOnBeforePageGenerate()](#getOnBeforePageGenerate--) | Event for customize header and footer. |
 | [getEnginePage()](#getEnginePage--) | For Internal usage only |
 | [setEnginePage(IPage enginePage)](#setEnginePage-com.aspose.pdf.engine.commondata.IPage-) | For Internal usage only |
@@ -340,6 +341,16 @@ Tries to save vector graphics if they are present on the page. The save format i
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pathToSave | java.lang.String | Output file |
+
+**Returns:**
+boolean - True if the page contains path construction operators; otherwise, False.
+### hasVectorGraphics() {#hasVectorGraphics--}
+```
+public final boolean hasVectorGraphics()
+```
+
+
+Detect of the presence of vector graphics, if it is present on the page.
 
 **Returns:**
 boolean - True if the page contains path construction operators; otherwise, False.

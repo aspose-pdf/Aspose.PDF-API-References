@@ -3,7 +3,7 @@ title: SetTextLeading
 second_title: Aspose.PDF for Java API Reference
 description: Class represenging TL operator set text leading.
 type: docs
-weight: 80
+weight: 82
 url: /java/com.aspose.pdf.operators/settextleading/
 ---
 **Inheritance:**

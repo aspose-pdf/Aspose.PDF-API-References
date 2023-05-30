@@ -3,7 +3,7 @@ title: MoveTo
 second_title: Aspose.PDF for Java API Reference
 description: Class representing operators.m move to and begin new subpath.
 type: docs
-weight: 48
+weight: 50
 url: /java/com.aspose.pdf.operators/moveto/
 ---
 **Inheritance:**

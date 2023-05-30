@@ -3,7 +3,7 @@ title: SetWordSpacing
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tw operator set word spacing.
 type: docs
-weight: 84
+weight: 86
 url: /java/com.aspose.pdf.operators/setwordspacing/
 ---
 **Inheritance:**

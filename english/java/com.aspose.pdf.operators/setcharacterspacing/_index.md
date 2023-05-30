@@ -3,7 +3,7 @@ title: SetCharacterSpacing
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tc operator set character spacing.
 type: docs
-weight: 60
+weight: 62
 url: /java/com.aspose.pdf.operators/setcharacterspacing/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: SetLineWidth
 second_title: Aspose.PDF for Java API Reference
 description: Class representing w operator set line width.
 type: docs
-weight: 75
+weight: 77
 url: /java/com.aspose.pdf.operators/setlinewidth/
 ---
 **Inheritance:**

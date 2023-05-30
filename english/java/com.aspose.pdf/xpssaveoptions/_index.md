@@ -94,7 +94,7 @@ public final boolean isUseNewImagingEngine()
 Gets or sets UseNewImagingEngine option.
 
 **Returns:**
-boolean
+boolean - boolean value
 ### setUseNewImagingEngine(boolean value) {#setUseNewImagingEngine-boolean-}
 ```
 public final void setUseNewImagingEngine(boolean value)
@@ -106,5 +106,5 @@ Gets or sets UseNewImagingEngine option.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean |  |
+| value | boolean | boolean value |
 

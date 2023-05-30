@@ -3,7 +3,7 @@ title: SelectFont
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tf operator set text font and size.
 type: docs
-weight: 53
+weight: 55
 url: /java/com.aspose.pdf.operators/selectfont/
 ---
 **Inheritance:**

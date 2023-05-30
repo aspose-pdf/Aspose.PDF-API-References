@@ -3,7 +3,7 @@ title: MoveTextPositionSetLeading
 second_title: Aspose.PDF for Java API Reference
 description: Class representing TD operator move position and set leading.
 type: docs
-weight: 47
+weight: 49
 url: /java/com.aspose.pdf.operators/movetextpositionsetleading/
 ---
 **Inheritance:**

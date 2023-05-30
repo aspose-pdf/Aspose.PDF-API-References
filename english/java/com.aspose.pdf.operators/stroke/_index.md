@@ -3,7 +3,7 @@ title: Stroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing S operator stroke path.
 type: docs
-weight: 87
+weight: 89
 url: /java/com.aspose.pdf.operators/stroke/
 ---
 **Inheritance:**

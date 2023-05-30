@@ -3,7 +3,7 @@ title: MoveTextPosition
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Td operator move text position.
 type: docs
-weight: 46
+weight: 48
 url: /java/com.aspose.pdf.operators/movetextposition/
 ---
 **Inheritance:**

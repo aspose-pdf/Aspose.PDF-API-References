@@ -3,7 +3,7 @@ title: TextStateOperator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for operators which changes current text state Tc Tf TL etc.
 type: docs
-weight: 91
+weight: 93
 url: /java/com.aspose.pdf.operators/textstateoperator/
 ---
 **Inheritance:**

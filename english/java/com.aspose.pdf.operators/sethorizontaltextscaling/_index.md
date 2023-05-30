@@ -3,7 +3,7 @@ title: SetHorizontalTextScaling
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tz operator set horizontal text scaling.
 type: docs
-weight: 72
+weight: 74
 url: /java/com.aspose.pdf.operators/sethorizontaltextscaling/
 ---
 **Inheritance:**

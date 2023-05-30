@@ -3,7 +3,7 @@ title: SetDash
 second_title: Aspose.PDF for Java API Reference
 description: Class representing d operator set line dash pattern.
 type: docs
-weight: 67
+weight: 69
 url: /java/com.aspose.pdf.operators/setdash/
 ---
 **Inheritance:**

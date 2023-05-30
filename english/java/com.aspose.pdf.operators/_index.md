@@ -48,6 +48,8 @@ The  **com.aspose.pdf.operators** is a package for Operator implementations. The
 | [GSave](../com.aspose.pdf.operators/gsave) | Class representing q operator (save graphics state). |
 | [GlyphPosition](../com.aspose.pdf.operators/glyphposition) | Class describes text and position to use with operator TJ (set glyph with position) |
 | [ID](../com.aspose.pdf.operators/id) | Class representing ID operator (Begin inline image data). |
+| [LineCap](../com.aspose.pdf.operators/linecap) | The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they are stroked. |
+| [LineJoin](../com.aspose.pdf.operators/linejoin) | The line join style shall specify the shape to be used at the corners of paths that are stroked. |
 | [LineTo](../com.aspose.pdf.operators/lineto) | Class representing l operator (add line to the path). |
 | [MP](../com.aspose.pdf.operators/mp) | Class representing MP operator (define marked-content point). |
 | [MoveTextPosition](../com.aspose.pdf.operators/movetextposition) | Class representing Td operator (move text position). |

@@ -3,7 +3,7 @@ title: SetAdvancedColorStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing SCN operator set color for stroking operations.
 type: docs
-weight: 55
+weight: 57
 url: /java/com.aspose.pdf.operators/setadvancedcolorstroke/
 ---
 **Inheritance:**

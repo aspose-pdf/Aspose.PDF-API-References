@@ -3,7 +3,7 @@ title: MP
 second_title: Aspose.PDF for Java API Reference
 description: Class representing MP operator define marked-content point.
 type: docs
-weight: 45
+weight: 47
 url: /java/com.aspose.pdf.operators/mp/
 ---
 **Inheritance:**

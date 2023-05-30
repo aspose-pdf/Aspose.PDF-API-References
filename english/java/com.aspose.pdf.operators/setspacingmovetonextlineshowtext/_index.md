@@ -3,7 +3,7 @@ title: SetSpacingMoveToNextLineShowText
 second_title: Aspose.PDF for Java API Reference
 description: Class representing  operator set word and character spacing move to the next line and show text.
 type: docs
-weight: 79
+weight: 81
 url: /java/com.aspose.pdf.operators/setspacingmovetonextlineshowtext/
 ---
 **Inheritance:**
