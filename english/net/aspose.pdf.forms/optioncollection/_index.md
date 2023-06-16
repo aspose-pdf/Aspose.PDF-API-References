@@ -29,7 +29,7 @@ public sealed class OptionCollection : ICollection<Option>
 | Name | Description |
 | --- | --- |
 | [Add](../../aspose.pdf.forms/optioncollection/add)(Option) | Adds item in collection, throws NotImplementedException. |
-| [Clear](../../aspose.pdf.forms/optioncollection/clear)() | Removes all items from collection, throws NotImplementedException. |
+| [Clear](../../aspose.pdf.forms/optioncollection/clear)() | Removes all items from collection. |
 | [Contains](../../aspose.pdf.forms/optioncollection/contains)(Option) | Checks if item exists in collection, throws NotImplementedException. |
 | [CopyTo](../../aspose.pdf.forms/optioncollection/copyto)(Option[], int) | Copies options into array. |
 | [get](../../aspose.pdf.forms/optioncollection/get#get)(int) | Gets option by index. |

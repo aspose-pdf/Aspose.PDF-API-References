@@ -37,7 +37,7 @@ public sealed class ListBoxField : ChoiceField
 | [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } | Gets or sets annotation color. |
 | [CommitImmediately](../../aspose.pdf.forms/choicefield/commitimmediately) { get; set; } | Gets or sets commit on selection change flag. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | Gets or sets annotation text. |
-| [Count](../../aspose.pdf.forms/field/count) { get; } | Gets or sets number of subfields in this field. (For example number of items in radio button field). |
+| [Count](../../aspose.pdf.forms/field/count) { get; } | Gets number of subfields in this field. (For example number of items in radio button field). |
 | [DefaultAppearance](../../aspose.pdf.annotations/widgetannotation/defaultappearance) { get; set; } | Gets or sets default appearance of the field. |
 | [Exportable](../../aspose.pdf.annotations/widgetannotation/exportable) { get; set; } | Gets or sets exportable flag of the field. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags) { get; set; } | Flags of the annotation. |

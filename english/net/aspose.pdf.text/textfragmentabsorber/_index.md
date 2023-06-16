@@ -3,7 +3,7 @@ title: TextFragmentAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an absorber object of text fragments. Performs text search and provides access to search results via TextFragments./textfragmentabsorber/textfragments collection.
 type: docs
-weight: 7680
+weight: 7780
 url: /net/aspose.pdf.text/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber class

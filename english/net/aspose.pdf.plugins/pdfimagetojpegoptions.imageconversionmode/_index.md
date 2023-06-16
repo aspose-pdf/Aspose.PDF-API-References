@@ -3,7 +3,7 @@ title: PdfImageToJpegOptions.ImageConversionMode
 second_title: Aspose.PDF for .NET API Reference
 description: Defines different modes which can be used while converting from PDF document to Jpeg image. See PdfImageToJpegOptions./pdfimagetojpegoptions class.
 type: docs
-weight: 6560
+weight: 6640
 url: /net/aspose.pdf.plugins/pdfimagetojpegoptions.imageconversionmode/
 ---
 ## PdfImageToJpegOptions.ImageConversionMode enumeration

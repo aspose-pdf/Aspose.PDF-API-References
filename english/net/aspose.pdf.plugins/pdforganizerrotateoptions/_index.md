@@ -3,7 +3,7 @@ title: PdfOrganizerRotateOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Rotate options for PdfOrganizer./pdforganizer plugin.
 type: docs
-weight: 6610
+weight: 6700
 url: /net/aspose.pdf.plugins/pdforganizerrotateoptions/
 ---
 ## PdfOrganizerRotateOptions class

@@ -3,7 +3,7 @@ title: PdfOrganizerSplitOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Split options for PdfOrganizer./pdforganizer plugin.
 type: docs
-weight: 6620
+weight: 6710
 url: /net/aspose.pdf.plugins/pdforganizersplitoptions/
 ---
 ## PdfOrganizerSplitOptions class

@@ -27,6 +27,7 @@ public class EpubSaveOptions : UnifiedSaveOptions
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format of data save. |
+| [Title](../../aspose.pdf/epubsaveoptions/title) { get; set; } | Gets or sets EPUB document title. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Fields

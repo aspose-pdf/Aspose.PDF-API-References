@@ -3,7 +3,7 @@ title: CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
 description: This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages example of handlers code that shows progress on console is 
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.pdf/htmlsaveoptions/customprogresshandler/
 ---
 ## HtmlSaveOptions.CustomProgressHandler field

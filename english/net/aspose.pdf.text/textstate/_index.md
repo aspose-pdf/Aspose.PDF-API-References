@@ -3,7 +3,7 @@ title: TextState
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a text state of a text
 type: docs
-weight: 7800
+weight: 7900
 url: /net/aspose.pdf.text/textstate/
 ---
 ## TextState class

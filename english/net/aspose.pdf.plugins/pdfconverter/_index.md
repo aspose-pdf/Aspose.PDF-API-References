@@ -3,7 +3,7 @@ title: PdfConverter
 second_title: Aspose.PDF for .NET API Reference
 description: Represents PdfConverter plugin.
 type: docs
-weight: 6320
+weight: 6330
 url: /net/aspose.pdf.plugins/pdfconverter/
 ---
 ## PdfConverter class
@@ -50,6 +50,20 @@ The example demonstrates how to convert PDF to XLSX document.
 var converter = new PdfConverter();
 // create PdfConverterToExcelOptions 
 var opt = new PdfConverterToExcelOptions();
+// add input file path
+opt.AddDataSource(new FileDataSource(inputPath));
+// set output file path
+opt.AddSaveDataSource(new FileDataSource(outputPath));
+converter.Process(opt);
+```
+
+The example demonstrates how to convert HTML to PDF document.
+
+```csharp
+// create PdfConverter
+var converter = new PdfConverter();
+// create PdfConverterHtmlToPdfOptions
+var opt = new PdfConverterHtmlToPdfOptions();
 // add input file path
 opt.AddDataSource(new FileDataSource(inputPath));
 // set output file path

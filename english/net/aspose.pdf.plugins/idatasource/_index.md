@@ -3,7 +3,7 @@ title: IDataSource
 second_title: Aspose.PDF for .NET API Reference
 description: General data source interface that defines common members that concrete data sources should implement.
 type: docs
-weight: 6280
+weight: 6290
 url: /net/aspose.pdf.plugins/idatasource/
 ---
 ## IDataSource interface
