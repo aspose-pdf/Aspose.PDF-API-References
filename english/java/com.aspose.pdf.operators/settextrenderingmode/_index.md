@@ -3,7 +3,7 @@ title: SetTextRenderingMode
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tr operator set text rendering mode.
 type: docs
-weight: 82
+weight: 84
 url: /java/com.aspose.pdf.operators/settextrenderingmode/
 ---
 **Inheritance:**

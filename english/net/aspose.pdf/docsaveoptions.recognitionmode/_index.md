@@ -20,7 +20,7 @@ public enum RecognitionMode
 | --- | --- | --- |
 | Textbox | `0` | This mode is fast and good for maximally preserving original look of the PDF file, but editability of the resulting document could be limited. |
 | Flow | `1` | Full recognition mode, the engine performs grouping and multi-level analysis to restore the original document author's intent and produce a maximally editable document. The downside is that the output document might look different from the original PDF file. |
-| EnhancedFlow | `2` | An early alfa version of a new Flow mode supporting recognition of tables. |
+| EnhancedFlow | `2` | An alternative Flow mode that supports the recognition of tables. |
 
 ### Remarks
 

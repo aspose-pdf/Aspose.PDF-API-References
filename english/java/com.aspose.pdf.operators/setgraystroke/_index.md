@@ -3,7 +3,7 @@ title: SetGrayStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing gray level for stroking operations.
 type: docs
-weight: 71
+weight: 73
 url: /java/com.aspose.pdf.operators/setgraystroke/
 ---
 **Inheritance:**
@@ -24,6 +24,8 @@ Class representing gray level for stroking operations.
 | Method | Description |
 | --- | --- |
 | [getColor()](#getColor--) | Returns color specified by operator. |
+| [getGray()](#getGray--) | Gets or sets the level of gray value. |
+| [setGray(double value)](#setGray-double-) | Gets or sets the level of gray value. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
 ### SetGrayStroke(int index, ICommand command) {#SetGrayStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
@@ -63,6 +65,29 @@ Returns color specified by operator.
 
 **Returns:**
 [Color](../../java.awt/color) - Color specified by operator.
+### getGray() {#getGray--}
+```
+public final double getGray()
+```
+
+
+Gets or sets the level of gray value.
+
+**Returns:**
+double - double value
+### setGray(double value) {#setGray-double-}
+```
+public final void setGray(double value)
+```
+
+
+Gets or sets the level of gray value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```
 public void accept(IOperatorSelector visitor)

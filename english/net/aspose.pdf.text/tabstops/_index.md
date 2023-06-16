@@ -3,7 +3,7 @@ title: TabStops
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a collection of TabStop./tabstop objects.
 type: docs
-weight: 7510
+weight: 7610
 url: /net/aspose.pdf.text/tabstops/
 ---
 ## TabStops class

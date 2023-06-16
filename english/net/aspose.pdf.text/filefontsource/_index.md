@@ -3,7 +3,7 @@ title: FileFontSource
 second_title: Aspose.PDF for .NET API Reference
 description: Represents single font file source.
 type: docs
-weight: 7240
+weight: 7340
 url: /net/aspose.pdf.text/filefontsource/
 ---
 ## FileFontSource class

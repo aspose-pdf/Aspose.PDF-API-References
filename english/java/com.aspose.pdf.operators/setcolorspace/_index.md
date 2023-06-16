@@ -3,7 +3,7 @@ title: SetColorSpace
 second_title: Aspose.PDF for Java API Reference
 description: Class representing cs operator set colorspace for non-stroking operations
 type: docs
-weight: 64
+weight: 66
 url: /java/com.aspose.pdf.operators/setcolorspace/
 ---
 **Inheritance:**

@@ -23,9 +23,9 @@ Convert PDF Document to Flow formats (XLSX, ODS, XMLSpreedSheet2003, CSV) DOCX i
 | Method | Description |
 | --- | --- |
 | [convert(ADocument doc, OutputStream outputStream, ExcelSaveOptions options)](#convert-com.aspose.pdf.ADocument-java.io.OutputStream-com.aspose.pdf.ExcelSaveOptions-) |  |
-| [convertPDFToTableAbsorber(Page page, IDocument document)](#convertPDFToTableAbsorber-com.aspose.pdf.Page-com.aspose.pdf.IDocument-) |  |
 | [convertInternal(ADocument doc, System.IO.Stream outputStream, ExcelSaveOptions options)](#convertInternal-com.aspose.pdf.ADocument-com.aspose.ms.System.IO.Stream-com.aspose.pdf.ExcelSaveOptions-) |  |
 | [convertWithNewEngine(ADocument doc, System.IO.Stream ouputStream, ExcelSaveOptions excelSaveOptions, DocSaveOptions docSaveOptions)](#convertWithNewEngine-com.aspose.pdf.ADocument-com.aspose.ms.System.IO.Stream-com.aspose.pdf.ExcelSaveOptions-com.aspose.pdf.DocSaveOptions-) |  |
+| [convertPDFToTableAbsorber(Page page, IDocument document)](#convertPDFToTableAbsorber-com.aspose.pdf.Page-com.aspose.pdf.IDocument-) |  |
 ### FlowConverter() {#FlowConverter--}
 ```
 public FlowConverter()
@@ -47,22 +47,6 @@ public static void convert(ADocument doc, OutputStream outputStream, ExcelSaveOp
 | outputStream | java.io.OutputStream |  |
 | options | [ExcelSaveOptions](../../com.aspose.pdf/excelsaveoptions) |  |
 
-### convertPDFToTableAbsorber(Page page, IDocument document) {#convertPDFToTableAbsorber-com.aspose.pdf.Page-com.aspose.pdf.IDocument-}
-```
-public static System.Collections.Generic.List<AbsorbedTable> convertPDFToTableAbsorber(Page page, IDocument document)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) |  |
-| document | [IDocument](../../com.aspose.pdf/idocument) |  |
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.AbsorbedTable>
 ### convertInternal(ADocument doc, System.IO.Stream outputStream, ExcelSaveOptions options) {#convertInternal-com.aspose.pdf.ADocument-com.aspose.ms.System.IO.Stream-com.aspose.pdf.ExcelSaveOptions-}
 ```
 public static void convertInternal(ADocument doc, System.IO.Stream outputStream, ExcelSaveOptions options)
@@ -94,3 +78,19 @@ public static void convertWithNewEngine(ADocument doc, System.IO.Stream ouputStr
 | excelSaveOptions | [ExcelSaveOptions](../../com.aspose.pdf/excelsaveoptions) |  |
 | docSaveOptions | [DocSaveOptions](../../com.aspose.pdf/docsaveoptions) |  |
 
+### convertPDFToTableAbsorber(Page page, IDocument document) {#convertPDFToTableAbsorber-com.aspose.pdf.Page-com.aspose.pdf.IDocument-}
+```
+public static System.Collections.Generic.List<AbsorbedTable> convertPDFToTableAbsorber(Page page, IDocument document)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | [Page](../../com.aspose.pdf/page) |  |
+| document | [IDocument](../../com.aspose.pdf/idocument) |  |
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.AbsorbedTable>

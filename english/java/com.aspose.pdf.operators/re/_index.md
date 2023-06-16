@@ -3,7 +3,7 @@ title: Re
 second_title: Aspose.PDF for Java API Reference
 description: Class representing re operator add rectangle to the path.
 type: docs
-weight: 52
+weight: 54
 url: /java/com.aspose.pdf.operators/re/
 ---
 **Inheritance:**

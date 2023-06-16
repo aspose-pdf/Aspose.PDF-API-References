@@ -3,7 +3,7 @@ title: PdfGeneratorTableCellBuilder
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents builder for table cell.
 type: docs
-weight: 6260
+weight: 6270
 url: /net/aspose.pdf.plugins.generator/pdfgeneratortablecellbuilder/
 ---
 ## PdfGeneratorTableCellBuilder class

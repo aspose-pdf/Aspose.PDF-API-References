@@ -3,7 +3,7 @@ title: SetColorOperator
 second_title: Aspose.PDF for Java API Reference
 description: Class representing set color operation.
 type: docs
-weight: 62
+weight: 64
 url: /java/com.aspose.pdf.operators/setcoloroperator/
 ---
 **Inheritance:**

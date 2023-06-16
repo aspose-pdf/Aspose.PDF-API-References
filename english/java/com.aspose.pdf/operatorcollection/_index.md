@@ -50,6 +50,7 @@ Class represents collection of operators
 | [add(Iterable<Operator> ops)](#add-java.lang.Iterable-com.aspose.pdf.Operator--) | Adds to collection all operators from other collection. |
 | [isBracketed()](#isBracketed--) | Gets bracketed status of operator sequence i.e. is this operators are inside of q - Q blocks |
 | [suppressUpdate()](#suppressUpdate--) | Suppresses update contents data The contents stream is not updated until ResumeUpdate is called |
+| [resumeUpdate(boolean updateAll)](#resumeUpdate-boolean-) | Resumes document update. |
 | [resumeUpdate()](#resumeUpdate--) | Resumes document update. |
 | [cancelUpdate()](#cancelUpdate--) | Cancels last update. |
 | [toList()](#toList--) | Returns operator list. |
@@ -474,6 +475,19 @@ public void suppressUpdate()
 
 
 Suppresses update contents data The contents stream is not updated until ResumeUpdate is called
+
+### resumeUpdate(boolean updateAll) {#resumeUpdate-boolean-}
+```
+public final void resumeUpdate(boolean updateAll)
+```
+
+
+Resumes document update. Updates contents stream in case there are any pending changes. Marks all operators as "changed" if invalidate parameter is true.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| updateAll | boolean | If true, all operators in the collection marked as updated. |
 
 ### resumeUpdate() {#resumeUpdate--}
 ```

@@ -3,7 +3,7 @@ title: ObsoleteFill
 second_title: Aspose.PDF for Java API Reference
 description: Class representing F operator fill path using nonzero winding rule.
 type: docs
-weight: 51
+weight: 53
 url: /java/com.aspose.pdf.operators/obsoletefill/
 ---
 **Inheritance:**

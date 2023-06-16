@@ -3,7 +3,7 @@ title: SetLineJoin
 second_title: Aspose.PDF for Java API Reference
 description: Class representing j operator set line join style.
 type: docs
-weight: 74
+weight: 76
 url: /java/com.aspose.pdf.operators/setlinejoin/
 ---
 **Inheritance:**
@@ -24,6 +24,8 @@ Class representing j operator (set line join style).
 
 | Method | Description |
 | --- | --- |
+| [getJoin()](#getJoin--) |  |
+| [setJoin(int value)](#setJoin-int-) |  |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 ### SetLineJoin() {#SetLineJoin--}
 ```
@@ -57,6 +59,29 @@ Constructor for operator class.
 | --- | --- | --- |
 | index | int | Index of operator. |
 | command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+
+### getJoin() {#getJoin--}
+```
+public final int getJoin()
+```
+
+
+
+
+**Returns:**
+int
+### setJoin(int value) {#setJoin-int-}
+```
+public final void setJoin(int value)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```

@@ -1,11 +1,54 @@
 ---
 title: ResizeContents
 second_title: Aspose.PDF for .NET API Reference
-description: Resizes contents of pages in document. If page is shrinked blank margins are added around the page.
+description: Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
 type: docs
 weight: 350
 url: /net/aspose.pdf.facades/pdffileeditor/resizecontents/
 ---
+## ResizeContents(string, string, int[], double, double) {#resizecontents_5}
+
+Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
+
+```csharp
+public bool ResizeContents(string source, string destination, int[] pages, double newWidth, 
+    double newHeight)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | String | Path to source document. |
+| destination | String | Path where resultant document will be saved. |
+| pages | Int32[] | Array of page indexes. If null then all document pages will be processed. |
+| newWidth | Double | New width of page contents in default space units. |
+| newHeight | Double | New height of page contents in default space units. |
+
+### Return Value
+
+true if resize was successful.
+
+### Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.ResizeContents("input.pdf", "output.pdf", 
+//resize all pages of document
+null, 
+//new contents width = 200
+200, 
+//new contents height = 300
+300);
+// rest area of page will be empty
+```
+
+### See Also
+
+* class [PdfFileEditor](../../pdffileeditor)
+* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_4}
 
 Resizes contents of pages in document. If page is shrinked blank margins are added around the page.

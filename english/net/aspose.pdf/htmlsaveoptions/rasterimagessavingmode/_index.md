@@ -3,7 +3,7 @@ title: RasterImagesSavingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Converted PDF can contain raster images This parameter defines how they should be handled during conversion of PDF to HTML
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.pdf/htmlsaveoptions/rasterimagessavingmode/
 ---
 ## HtmlSaveOptions.RasterImagesSavingMode field

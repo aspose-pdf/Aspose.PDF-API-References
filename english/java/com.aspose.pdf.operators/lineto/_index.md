@@ -3,7 +3,7 @@ title: LineTo
 second_title: Aspose.PDF for Java API Reference
 description: Class representing l operator add line to the path.
 type: docs
-weight: 44
+weight: 46
 url: /java/com.aspose.pdf.operators/lineto/
 ---
 **Inheritance:**

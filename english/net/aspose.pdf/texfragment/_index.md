@@ -3,7 +3,7 @@ title: TeXFragment
 second_title: Aspose.PDF for .NET API Reference
 description: Represents TeX fragment.
 type: docs
-weight: 7130
+weight: 7230
 url: /net/aspose.pdf/texfragment/
 ---
 ## TeXFragment class

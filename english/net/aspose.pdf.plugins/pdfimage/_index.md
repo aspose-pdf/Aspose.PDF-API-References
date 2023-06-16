@@ -3,7 +3,7 @@ title: PdfImage
 second_title: Aspose.PDF for .NET API Reference
 description: Represents PdfImage plugin.
 type: docs
-weight: 6530
+weight: 6610
 url: /net/aspose.pdf.plugins/pdfimage/
 ---
 ## PdfImage class

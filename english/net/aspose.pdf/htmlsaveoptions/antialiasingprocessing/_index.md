@@ -3,7 +3,7 @@ title: AntialiasingProcessing
 second_title: Aspose.PDF for .NET API Reference
 description: This parameter defines required antialiasing measures during conversion of compound background images from PDF to HTML
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf/htmlsaveoptions/antialiasingprocessing/
 ---
 ## HtmlSaveOptions.AntialiasingProcessing field

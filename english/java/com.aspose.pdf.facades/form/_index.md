@@ -57,7 +57,7 @@ Class representing Acro form object.
 | [getDestFileName()](#getDestFileName--) | Gets destination file name. |
 | [getDestStream()](#getDestStream--) | Gets or sets destination stream. |
 | [getField(String fieldName)](#getField-java.lang.String-) | Gets the field's value according to its field name. |
-| [getFieldFacade(String fieldName)](#getFieldFacade-java.lang.String-) | Returns FrofmFieldFacade object containing all appearance attributes. |
+| [getFieldFacade(String fieldName)](#getFieldFacade-java.lang.String-) | Returns FormFieldFacade object containing all appearance attributes. |
 | [getFieldFlag(String fieldName)](#getFieldFlag-java.lang.String-) | Returns flags of the field. |
 | [getFieldLimit(String fieldName)](#getFieldLimit-java.lang.String-) | Get the limitation of text field. |
 | [getFieldNames()](#getFieldNames--) | Gets list of field names on the form. |
@@ -625,7 +625,7 @@ public void flattenField(String fieldName)
 ```
 
 
-Flattens a specified field with the fully qualified field name. Any other field will remain unchangable. If the fieldName is invalid, all the fields will remain unchangable.
+Flattens a specified field with the fully qualified field name. Any other field will remain unchangeable. If the fieldName is invalid, all the fields will remain unchangeable.
 
 --------------------
 
@@ -670,7 +670,7 @@ Form form = new Form("PdfForm.pdf");
 | fieldName | java.lang.String | Field Name |
 
 **Returns:**
-java.lang.String - String value for the current radio group optino. See also  GetButtonOptionValues 
+java.lang.String - String value for the current radio group option. See also  GetButtonOptionValues 
 ### getButtonOptionValues(String fieldName) {#getButtonOptionValues-java.lang.String-}
 ```
 public Hashtable<String,String> getButtonOptionValues(String fieldName)
@@ -777,7 +777,7 @@ public FormFieldFacade getFieldFacade(String fieldName)
 ```
 
 
-Returns FrofmFieldFacade object containing all appearance attributes.
+Returns FormFieldFacade object containing all appearance attributes.
 
 --------------------
 

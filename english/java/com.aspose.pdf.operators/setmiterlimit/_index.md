@@ -3,7 +3,7 @@ title: SetMiterLimit
 second_title: Aspose.PDF for Java API Reference
 description: Class representing M operator set miter limit.
 type: docs
-weight: 76
+weight: 78
 url: /java/com.aspose.pdf.operators/setmiterlimit/
 ---
 **Inheritance:**

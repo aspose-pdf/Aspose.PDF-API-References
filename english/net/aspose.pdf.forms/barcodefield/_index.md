@@ -36,7 +36,7 @@ public sealed class BarcodeField : TextBoxField
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents) { get; set; } | Gets or sets annotation text. |
-| [Count](../../aspose.pdf.forms/field/count) { get; } | Gets or sets number of subfields in this field. (For example number of items in radio button field). |
+| [Count](../../aspose.pdf.forms/field/count) { get; } | Gets number of subfields in this field. (For example number of items in radio button field). |
 | [DefaultAppearance](../../aspose.pdf.annotations/widgetannotation/defaultappearance) { get; set; } | Gets or sets default appearance of the field. |
 | [ECC](../../aspose.pdf.forms/barcodefield/ecc) { get; } | Gets an integer value representing the error correction coefficient. For PDF417, shall be from 0 to 8. For QRCode, shall be from 0 to 3 (0 for �L�, 1 for �M�, 2 for �Q�, and 3 for �H�). |
 | [Exportable](../../aspose.pdf.annotations/widgetannotation/exportable) { get; set; } | Gets or sets exportable flag of the field. |

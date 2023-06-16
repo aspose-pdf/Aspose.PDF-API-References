@@ -3,7 +3,7 @@ title: TextPlaceOperator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract base class for operators which changes text position Tm Td etc.
 type: docs
-weight: 89
+weight: 91
 url: /java/com.aspose.pdf.operators/textplaceoperator/
 ---
 **Inheritance:**

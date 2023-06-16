@@ -3,7 +3,7 @@ title: SetCharWidth
 second_title: Aspose.PDF for Java API Reference
 description: Class representing d0 operator set glyph width.
 type: docs
-weight: 58
+weight: 60
 url: /java/com.aspose.pdf.operators/setcharwidth/
 ---
 **Inheritance:**

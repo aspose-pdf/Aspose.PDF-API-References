@@ -3,7 +3,7 @@ title: SetTextRise
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Ts operator set text rise.
 type: docs
-weight: 83
+weight: 85
 url: /java/com.aspose.pdf.operators/settextrise/
 ---
 **Inheritance:**

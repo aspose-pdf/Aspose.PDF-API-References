@@ -3,7 +3,7 @@ title: MoveToNextLine
 second_title: Aspose.PDF for Java API Reference
 description: Class representing T operator Move to start of the next line.
 type: docs
-weight: 49
+weight: 51
 url: /java/com.aspose.pdf.operators/movetonextline/
 ---
 **Inheritance:**

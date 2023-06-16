@@ -253,7 +253,7 @@ public final boolean getScaleImagesToFitPageWidth()
 Gets or sets a values used to scale all images on the page to fit page's width.
 
 **Returns:**
-boolean
+boolean - boolean value
 ### setScaleImagesToFitPageWidth(boolean value) {#setScaleImagesToFitPageWidth-boolean-}
 ```
 public final void setScaleImagesToFitPageWidth(boolean value)
@@ -265,7 +265,7 @@ Gets or sets a values used to scale all images on the page to fit page's width.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean |  |
+| value | boolean | boolean value |
 
 ### getInterpolationHighQuality() {#getInterpolationHighQuality--}
 ```

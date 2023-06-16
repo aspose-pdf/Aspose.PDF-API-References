@@ -3,7 +3,7 @@ title: SetTextMatrix
 second_title: Aspose.PDF for Java API Reference
 description: Class representig Tm operator set text matrix.
 type: docs
-weight: 81
+weight: 83
 url: /java/com.aspose.pdf.operators/settextmatrix/
 ---
 **Inheritance:**

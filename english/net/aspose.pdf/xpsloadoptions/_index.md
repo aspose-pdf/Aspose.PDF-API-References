@@ -3,7 +3,7 @@ title: XpsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing xps file into pdf document.
 type: docs
-weight: 8130
+weight: 8260
 url: /net/aspose.pdf/xpsloadoptions/
 ---
 ## XpsLoadOptions class

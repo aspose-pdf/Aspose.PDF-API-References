@@ -163,7 +163,7 @@ The example demonstrates how to extract table on the first PDF document page.
  // Create TableAbsorber object to find tables
  TableAbsorber absorber = new TableAbsorber();
  // Visit first page with absorber
- absorber.visit(pdfDocument.getPages.get_item(1));
+ absorber.visit(doc.getPages.get_item(1));
  // Get access to first table on page, their first cell and text fragments in it
  TextFragment fragment = absorber.getTableList().get_item(0).getRowList.get_item(0).getCellList().get_item(0)
  .getTextFragments.get_item(1);

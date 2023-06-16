@@ -1,12 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets/sets the value to determine property Style for created CheckboxField if will be set.
 type: docs
 weight: 30
 url: /net/aspose.pdf.plugins/checkboxfieldcreateoptions/style/
 ---
 ## CheckBoxFieldCreateOptions.Style property
+
+Gets/sets the value to determine property Style for created CheckboxField (if will be set).
 
 ```csharp
 public BoxStyle? Style { get; set; }

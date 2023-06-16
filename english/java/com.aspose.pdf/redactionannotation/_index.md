@@ -34,8 +34,10 @@ Represents Redact annotation.
 | [setFillColor(Color value)](#setFillColor-com.aspose.pdf.Color-) | Sets color to fill annotation. |
 | [getBorderColor()](#getBorderColor--) | Gets color of border which is drawn when redaction is not active. |
 | [setBorderColor(Color value)](#setBorderColor-com.aspose.pdf.Color-) | Sets color of border which is drawn when redaction is not active. |
-| [getOverlayText()](#getOverlayText--) | Text to print on redact annotation. |
-| [setOverlayText(String value)](#setOverlayText-java.lang.String-) | Text to print on redact annotation. |
+| [getOverlayText()](#getOverlayText--) | Gets text to print on redact annotation. |
+| [setOverlayText(String value)](#setOverlayText-java.lang.String-) | Sets text to print on redact annotation. |
+| [getFontSize()](#getFontSize--) | Gets font size for OverlayText. |
+| [setFontSize(float fontSize)](#setFontSize-float-) | Sets font size for OverlayText. |
 | [isRepeat()](#isRepeat--) | If true overlay text will be repated on the annotation. |
 | [setRepeat(boolean value)](#setRepeat-boolean-) | If true overlay text will be repated on the annotation. |
 | [getTextAlignment()](#getTextAlignment--) | Gets alignment of Overlay Text. |
@@ -44,7 +46,6 @@ Represents Redact annotation.
 | [redact()](#redact--) | Flattens annotation and redacts page contents (i.e. removes text and image content under redacted annotation) |
 | [redactExact()](#redactExact--) | Flattens annotation and redacts page contents (i.e. removes text and image content exactly under redacted annotation) |
 | [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
-| [setFontSize(double fontSize)](#setFontSize-double-) | Font size of text to print on redact annotation. |
 ### RedactionAnnotation(IDocument document) {#RedactionAnnotation-com.aspose.pdf.IDocument-}
 ```
 public RedactionAnnotation(IDocument document)
@@ -206,7 +207,7 @@ public String getOverlayText()
 ```
 
 
-Text to print on redact annotation.
+Gets text to print on redact annotation.
 
 **Returns:**
 java.lang.String - string value
@@ -216,12 +217,37 @@ public void setOverlayText(String value)
 ```
 
 
-Text to print on redact annotation.
+Sets text to print on redact annotation.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String | string object |
+
+### getFontSize() {#getFontSize--}
+```
+public final float getFontSize()
+```
+
+
+Gets font size for OverlayText.
+
+**Returns:**
+float - int value
+### setFontSize(float fontSize) {#setFontSize-float-}
+```
+public final void setFontSize(float fontSize)
+```
+
+
+Sets font size for OverlayText.
+
+Default value is 10.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontSize | float | int value |
 
 ### isRepeat() {#isRepeat--}
 ```
@@ -303,18 +329,3 @@ Gets type of annotation.
 
 **Returns:**
 [AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
-### setFontSize(double fontSize) {#setFontSize-double-}
-```
-public void setFontSize(double fontSize)
-```
-
-
-Font size of text to print on redact annotation.
-
-Default value is 10.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | double | int value |
-

@@ -3,7 +3,7 @@ title: SetGlyphsPositionShowText
 second_title: Aspose.PDF for Java API Reference
 description: Class representing TJ operator show text with glyph positioning.
 type: docs
-weight: 69
+weight: 71
 url: /java/com.aspose.pdf.operators/setglyphspositionshowtext/
 ---
 **Inheritance:**

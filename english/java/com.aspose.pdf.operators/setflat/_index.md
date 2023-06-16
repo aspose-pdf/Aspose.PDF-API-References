@@ -3,7 +3,7 @@ title: SetFlat
 second_title: Aspose.PDF for Java API Reference
 description: Class representing i operator set flatness toleracne.
 type: docs
-weight: 68
+weight: 70
 url: /java/com.aspose.pdf.operators/setflat/
 ---
 **Inheritance:**

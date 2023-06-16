@@ -3,7 +3,7 @@ title: MoveToNextLineShowText
 second_title: Aspose.PDF for Java API Reference
 description: Class representing  operator move to next line and show text.
 type: docs
-weight: 50
+weight: 52
 url: /java/com.aspose.pdf.operators/movetonextlineshowtext/
 ---
 **Inheritance:**

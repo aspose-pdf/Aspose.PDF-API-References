@@ -3,7 +3,7 @@ title: SetCMYKColorStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing K operator set CMYK color for stroking operations.
 type: docs
-weight: 57
+weight: 59
 url: /java/com.aspose.pdf.operators/setcmykcolorstroke/
 ---
 **Inheritance:**
@@ -24,6 +24,14 @@ Class representing K operator (set CMYK color for stroking operations).
 | Method | Description |
 | --- | --- |
 | [getColor()](#getColor--) | Returns the RGB color |
+| [getC()](#getC--) | Gets or sets the cyan component. |
+| [setC(double value)](#setC-double-) | Gets or sets the cyan component. |
+| [getM()](#getM--) | Gets or sets the magenta component. |
+| [setM(double value)](#setM-double-) | Gets or sets the magenta component. |
+| [getY()](#getY--) | Gets or sets the yellow component. |
+| [setY(double value)](#setY-double-) | Gets or sets the yellow component. |
+| [getK()](#getK--) | Gets or sets the black component. |
+| [setK(double value)](#setK-double-) | Gets or sets the black component. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [getRGBColor(double[] cmyk, double[] rgbOut)](#getRGBColor-double---double---) |  |
 ### SetCMYKColorStroke(int index, ICommand command) {#SetCMYKColorStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
@@ -66,6 +74,98 @@ Returns the RGB color
 
 **Returns:**
 [Color](../../java.awt/color) - Color specified by operator.
+### getC() {#getC--}
+```
+public final double getC()
+```
+
+
+Gets or sets the cyan component.
+
+**Returns:**
+double - doable value
+### setC(double value) {#setC-double-}
+```
+public final void setC(double value)
+```
+
+
+Gets or sets the cyan component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | doable value |
+
+### getM() {#getM--}
+```
+public final double getM()
+```
+
+
+Gets or sets the magenta component.
+
+**Returns:**
+double - doable value
+### setM(double value) {#setM-double-}
+```
+public final void setM(double value)
+```
+
+
+Gets or sets the magenta component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | doable value |
+
+### getY() {#getY--}
+```
+public final double getY()
+```
+
+
+Gets or sets the yellow component.
+
+**Returns:**
+double - doable value
+### setY(double value) {#setY-double-}
+```
+public final void setY(double value)
+```
+
+
+Gets or sets the yellow component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | doable value |
+
+### getK() {#getK--}
+```
+public final double getK()
+```
+
+
+Gets or sets the black component.
+
+**Returns:**
+double - doable value
+### setK(double value) {#setK-double-}
+```
+public final void setK(double value)
+```
+
+
+Gets or sets the black component.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | doable value |
+
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```
 public void accept(IOperatorSelector visitor)

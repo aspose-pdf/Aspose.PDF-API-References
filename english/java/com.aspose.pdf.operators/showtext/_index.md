@@ -3,7 +3,7 @@ title: ShowText
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Tj operator show text.
 type: docs
-weight: 86
+weight: 88
 url: /java/com.aspose.pdf.operators/showtext/
 ---
 **Inheritance:**

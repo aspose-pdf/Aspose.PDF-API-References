@@ -3,7 +3,7 @@ title: SetRGBColorStroke
 second_title: Aspose.PDF for Java API Reference
 description: Class representing RG operator set RGB color for stroking operators.
 type: docs
-weight: 78
+weight: 80
 url: /java/com.aspose.pdf.operators/setrgbcolorstroke/
 ---
 **Inheritance:**
@@ -25,6 +25,12 @@ Class representing RG operator (set RGB color for stroking operators).
 | Method | Description |
 | --- | --- |
 | [getColor()](#getColor--) | Returns color specified by operator. |
+| [getR()](#getR--) | Gets or sets the red component. |
+| [setR(double value)](#setR-double-) | Gets or sets the red component. |
+| [getG()](#getG--) | Gets or sets the green component. |
+| [setG(double value)](#setG-double-) | Gets or sets the green component. |
+| [getB()](#getB--) | Gets or sets the blue component. |
+| [setB(double value)](#setB-double-) | Gets or sets the blue component. |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
 | [toString()](#toString--) | Returns text representation of operator. |
 | [getCMYKColor(double[] rgb, double[] cmykOut)](#getCMYKColor-double---double---) |  |
@@ -80,6 +86,87 @@ Returns color specified by operator.
 
 **Returns:**
 [Color](../../java.awt/color) - Color specified by operator.
+### getR() {#getR--}
+```
+public final double getR()
+```
+
+
+Gets or sets the red component.
+
+Value: The level of red from 0.0 to 1.0
+
+**Returns:**
+double - doable value
+### setR(double value) {#setR-double-}
+```
+public final void setR(double value)
+```
+
+
+Gets or sets the red component.
+
+Value: The level of red from 0.0 to 1.0
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | doable value |
+
+### getG() {#getG--}
+```
+public final double getG()
+```
+
+
+Gets or sets the green component.
+
+Value: The level of green from 0.0 to 1.0
+
+**Returns:**
+double - doable value
+### setG(double value) {#setG-double-}
+```
+public final void setG(double value)
+```
+
+
+Gets or sets the green component.
+
+Value: The level of green from 0.0 to 1.0
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | doable value |
+
+### getB() {#getB--}
+```
+public final double getB()
+```
+
+
+Gets or sets the blue component.
+
+Value: The level of blue from 0.0 to 1.0
+
+**Returns:**
+double - doable value
+### setB(double value) {#setB-double-}
+```
+public final void setB(double value)
+```
+
+
+Gets or sets the blue component.
+
+Value: The level of blue from 0.0 to 1.0
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | doable value |
+
 ### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
 ```
 public void accept(IOperatorSelector visitor)

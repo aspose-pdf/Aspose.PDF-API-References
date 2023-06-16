@@ -1,12 +1,14 @@
 ---
 title: MaxLen
 second_title: Aspose.PDF for .NET API Reference
-description: 
+description: Gets/sets the value to determine property MaxLen for created TextBoxField if will be set.
 type: docs
 weight: 30
 url: /net/aspose.pdf.plugins/textboxfieldcreateoptions/maxlen/
 ---
 ## TextBoxFieldCreateOptions.MaxLen property
+
+Gets/sets the value to determine property MaxLen for created TextBoxField (if will be set).
 
 ```csharp
 public int? MaxLen { get; set; }

@@ -3,7 +3,7 @@ title: ShFill
 second_title: Aspose.PDF for Java API Reference
 description: Class representing sh operator paint area with shading pattern.
 type: docs
-weight: 85
+weight: 87
 url: /java/com.aspose.pdf.operators/shfill/
 ---
 **Inheritance:**

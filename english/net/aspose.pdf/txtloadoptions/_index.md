@@ -3,7 +3,7 @@ title: TxtLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Load options for TXT to PDF conversion.
 type: docs
-weight: 7840
+weight: 7940
 url: /net/aspose.pdf/txtloadoptions/
 ---
 ## TxtLoadOptions class

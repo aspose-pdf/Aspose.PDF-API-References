@@ -3,7 +3,7 @@ title: SetColorRenderingIntent
 second_title: Aspose.PDF for Java API Reference
 description: Class representing ri operator set color rendering intent.
 type: docs
-weight: 63
+weight: 65
 url: /java/com.aspose.pdf.operators/setcolorrenderingintent/
 ---
 **Inheritance:**
