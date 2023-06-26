@@ -19,3 +19,5 @@ function DownloadFile(
 
 * **fileName** file name
 * **mime** string "mime/type"
+
+**Doesn't work in Web Worker.**

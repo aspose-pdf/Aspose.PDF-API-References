@@ -44,3 +44,39 @@ JSON object
     file_reader.readAsArrayBuffer(e.target.files[0]);
   }
 ```
+**Web Worker**:
+```js
+  /*Create Web Worker*/
+  const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+  AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
+  AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
+    (evt.data == 'ready') ? 'loaded!' :
+      (evt.data.json.errorCode == 0) ?
+        `Result:\n${DownloadFile(evt.data.json.fileNameResult, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", evt.data.params[0])}` :
+        `Error: ${evt.data.json.errorText}`;
+
+  /*Event handler*/
+  const ffileToXlsX = e => {
+    const file_reader = new FileReader();
+    file_reader.onload = event => {
+      /*convert a PDF-file to XlsX and save the "ResultPDFtoXlsX.xlsx" - Ask Web Worker*/
+      AsposePDFWebWorker.postMessage(
+        { "operation": 'AsposePdfToXlsX', "params": [event.target.result, e.target.files[0].name, "ResultPDFtoXlsX.xlsx"] },
+        [event.target.result]
+      );
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  /*make a link to download the result file*/
+  const DownloadFile = (filename, mime, content) => {
+      mime = mime || "application/octet-stream";
+      var link = document.createElement("a"); 
+      link.href = URL.createObjectURL(new Blob([content], {type: mime}));
+      link.download = filename;
+      link.innerHTML = "Click here to download the file " + filename;
+      document.body.appendChild(link); 
+      document.body.appendChild(document.createElement("br"));
+      return filename;
+    }
+```

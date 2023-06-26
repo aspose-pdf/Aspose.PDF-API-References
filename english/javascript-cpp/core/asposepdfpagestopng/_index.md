@@ -49,3 +49,42 @@ JSON object
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
 ```
+**Web Worker**:
+```js
+  /*Create Web Worker*/
+  const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+  AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
+  AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
+    (evt.data == 'ready') ? 'loaded!' :
+      (evt.data.json.errorCode == 0) ? 
+        `Files(pages) count: ${evt.data.json.filesCount.toString()}\n${evt.data.params.forEach(
+          (element, index) => DownloadFile(evt.data.json.filesNameResult[index], "image/png", element) ) ?? ""}` : 
+        `Error: ${evt.data.json.errorText}`;
+
+  /*Event handler*/
+  const ffileToPng = e => {
+    const file_reader = new FileReader();
+    file_reader.onload = event => {
+      const password = 'owner';
+      /*convert a PDF file to png-files with template "ResultPdfToPng{0:D2}.png" ({0}, {0:D2}, {0:D3}, ... format page number),
+        resolution 150 DPI and save - Ask Web Worker*/
+      AsposePDFWebWorker.postMessage(
+        { "operation": 'AsposePdfPagesToPng', "params": [event.target.result, e.target.files[0].name, "ResultPdfToPng{0:D2}.png", 150] },
+        [event.target.result]
+      );
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  /*make a link to download the result file*/
+  const DownloadFile = (filename, mime, content) => {
+      mime = mime || "application/octet-stream";
+      var link = document.createElement("a"); 
+      link.href = URL.createObjectURL(new Blob([content], {type: mime}));
+      link.download = filename;
+      link.innerHTML = "Click here to download the file " + filename;
+      document.body.appendChild(link); 
+      document.body.appendChild(document.createElement("br"));
+      return filename;
+    }
+```
