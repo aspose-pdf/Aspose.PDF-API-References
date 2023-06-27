@@ -45,5 +45,11 @@ Main functions for working with PDF files.
 <!-- Load and initiate Aspose.PDF for JavaScript via C++ -->
 <script type="text/javascript" async src="AsposePDFforJS.js"></script>
 ```
+or
+```js
+/* Web Worker*/
+const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+```
+
 
 Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS) to manipulate PDF files.

@@ -39,4 +39,31 @@ Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS)
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
 ```
-
+**Web Worker:** doesn't work, use AsposePdfPrepare
+```js
+  const test_pfx = "data:application/octet-stream;base64,MIIEcQIBAzCCBDcGCSqGSIb ... ==";
+  /*Create Web Worker*/
+  const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+  AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
+  AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
+    (evt.data == 'ready') ? 
+      AsposePdfPrepareBase64(test_pfx, 'test.pfx') ?? 'loaded!' :
+        (evt.data.json.errorCode == 0) ?
+          `Result:${'Saved the base64 data to memory FS'}` :
+          `Error: ${evt.data.json.errorText}`;
+  
+  /* AsposePdfPrepareBase64 for Web Worker*/
+  const AsposePdfPrepareBase64 = (base64, filename) =>
+    fetch(base64)
+      .then(res => res.arrayBuffer())
+        .then(buffer => {
+            const file_reader = new FileReader();
+            /* Ask Web Worker */
+            file_reader.onload = event => AsposePDFWebWorker.postMessage(
+                 { "operation": 'AsposePdfPrepare', "params": [event.target.result, filename] },
+                 [event.target.result]
+               );
+            file_reader.readAsArrayBuffer(new File([new Uint8Array(buffer)], filename));
+          }
+        );
+```
