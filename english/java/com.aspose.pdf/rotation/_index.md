@@ -21,6 +21,7 @@ Enumeration of possible rotation values.
 | [on90](#on90) | Rotated on 90 degrees clockwise. |
 | [on180](#on180) | Rotated on 180 degrees. |
 | [on270](#on270) | Rotated on 270 degrees clockwise. |
+| [on360](#on360) | Rotated on 360 degrees clockwise. |
 ### None {#None}
 ```
 public static final int None
@@ -52,4 +53,12 @@ public static final int on270
 
 
 Rotated on 270 degrees clockwise.
+
+### on360 {#on360}
+```
+public static final int on360
+```
+
+
+Rotated on 360 degrees clockwise.
 

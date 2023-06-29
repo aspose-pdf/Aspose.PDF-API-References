@@ -109,6 +109,8 @@ Save options for export to Html format
 | [setSimpleTextboxModeGrouping(boolean value)](#setSimpleTextboxModeGrouping-boolean-) | This attribute specifies a sequential grouping of glyphs and words into strings For example tags and words has different order in converted HTML and you want them to match. |
 | [setRenderTextAsImage(boolean value)](#setRenderTextAsImage-boolean-) | If attribute RenderTextAsImage set to true, the text from the source becomes an image in HTML. |
 | [isRenderTextAsImage()](#isRenderTextAsImage--) | If attribute RenderTextAsImage set to true, the text from the source becomes an image in HTML. |
+| [getTitle()](#getTitle--) | Gets or sets HTML page title. |
+| [setTitle(String value)](#setTitle-java.lang.String-) | Gets or sets HTML page title. |
 ### HtmlSaveOptions() {#HtmlSaveOptions--}
 ```
 public HtmlSaveOptions()
@@ -1171,3 +1173,26 @@ If attribute RenderTextAsImage set to true, the text from the source becomes an 
 
 **Returns:**
 boolean - boolean value
+### getTitle() {#getTitle--}
+```
+public final String getTitle()
+```
+
+
+Gets or sets HTML page title.
+
+**Returns:**
+java.lang.String - String value
+### setTitle(String value) {#setTitle-java.lang.String-}
+```
+public final void setTitle(String value)
+```
+
+
+Gets or sets HTML page title.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String value |
+
