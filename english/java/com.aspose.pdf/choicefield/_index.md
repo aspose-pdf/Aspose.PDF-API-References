@@ -33,6 +33,7 @@ Represents base class for choice fields.
 | [getSelectedItems()](#getSelectedItems--) | Sets array of selected items. |
 | [setSelectedItems(int[] value)](#setSelectedItems-int---) | Sets array of selected items. |
 | [getOptions()](#getOptions--) | Gets collection of choice options. |
+| [setOptions(List<String> options)](#setOptions-java.util.List-java.lang.String--) | Replaces the available options with those whose names are given in the options parameter. |
 | [addOption(String optionName)](#addOption-java.lang.String-) | Adds new option with specified name. |
 | [addOption(String export, String name)](#addOption-java.lang.String-java.lang.String-) | Adds new option with specified export value and name. |
 | [deleteOption(String optionName)](#deleteOption-java.lang.String-) | Deletes option by its name. |
@@ -181,6 +182,19 @@ Gets collection of choice options.
 
 **Returns:**
 [OptionCollection](../../com.aspose.pdf/optioncollection) - OptionCollection object
+### setOptions(List<String> options) {#setOptions-java.util.List-java.lang.String--}
+```
+public final void setOptions(List<String> options)
+```
+
+
+Replaces the available options with those whose names are given in the options parameter.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | java.util.List<java.lang.String> | List of names for new options. |
+
 ### addOption(String optionName) {#addOption-java.lang.String-}
 ```
 public void addOption(String optionName)

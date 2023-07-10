@@ -24,6 +24,8 @@ Save options for export to EPUB format
 | --- | --- |
 | [getContentRecognitionMode()](#getContentRecognitionMode--) | When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform grouping and multi-level analysis to restore the original document author's intent and produce result in flow layout. |
 | [setContentRecognitionMode(int contentRecognitionMode)](#setContentRecognitionMode-int-) | When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform grouping and multi-level analysis to restore the original document author's intent and produce result in flow layout. |
+| [getTitle()](#getTitle--) | Gets or sets EPUB document title. |
+| [setTitle(String value)](#setTitle-java.lang.String-) | Gets or sets EPUB document title. |
 ### EpubSaveOptions() {#EpubSaveOptions--}
 ```
 public EpubSaveOptions()
@@ -54,4 +56,27 @@ When PDF file (that usually has fixed layout) is being converted, the conversion
 | Parameter | Type | Description |
 | --- | --- | --- |
 | contentRecognitionMode | int | RecognitionMode element |
+
+### getTitle() {#getTitle--}
+```
+public final String getTitle()
+```
+
+
+Gets or sets EPUB document title.
+
+**Returns:**
+java.lang.String - String value
+### setTitle(String value) {#setTitle-java.lang.String-}
+```
+public final void setTitle(String value)
+```
+
+
+Gets or sets EPUB document title.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | String value |
 

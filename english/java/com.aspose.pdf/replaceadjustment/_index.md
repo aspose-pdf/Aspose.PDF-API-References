@@ -20,6 +20,7 @@ Determines action that will be done after replace of text fragment to more short
 | [None](#None) | No action, replaced text may overlaps rest of the line |
 | [AdjustSpaceWidth](#AdjustSpaceWidth) | Tries adjust spaces between words to keep line length |
 | [WholeWordsHyphenation](#WholeWordsHyphenation) | Tries distribute words between paragraph lines to keep paragraph's right field |
+| [IsFormFillingMode](#IsFormFillingMode) | Tries to spread the words in the available white space using the paragraph width. |
 | [ShiftRestOfLine](#ShiftRestOfLine) | (Default) Shifts rest of the line according to changing length of text, length of the line may be changed |
 ## Methods
 
@@ -51,6 +52,14 @@ public static final TextReplaceOptions.ReplaceAdjustment WholeWordsHyphenation
 
 
 Tries distribute words between paragraph lines to keep paragraph's right field
+
+### IsFormFillingMode {#IsFormFillingMode}
+```
+public static final TextReplaceOptions.ReplaceAdjustment IsFormFillingMode
+```
+
+
+Tries to spread the words in the available white space using the paragraph width. If the text overflows, it will be hidden.
 
 ### ShiftRestOfLine {#ShiftRestOfLine}
 ```

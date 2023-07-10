@@ -32,7 +32,7 @@ Class representing collection of options of the choice field.
 | [get_Item(String name)](#get-Item-java.lang.String-) | Gets option by its name. |
 | [deleteOption(String name)](#deleteOption-java.lang.String-) | Deletes option by its name. |
 | [add(Option item)](#add-com.aspose.pdf.Option-) | Adds item in collection, throws . |
-| [clear()](#clear--) | Removes all items from collection, throws . |
+| [clear()](#clear--) | Removes all items from collection. |
 | [contains(Option item)](#contains-com.aspose.pdf.Option-) | Checks if item exists in collection, throws . |
 | [remove(Option item)](#remove-com.aspose.pdf.Option-) | Removes item from collection, throws . |
 ### isSynchronized() {#isSynchronized--}
@@ -189,9 +189,7 @@ public void clear()
 ```
 
 
-Removes all items from collection, throws .
-
-Not implemented yet.
+Removes all items from collection.
 
 ### contains(Option item) {#contains-com.aspose.pdf.Option-}
 ```
