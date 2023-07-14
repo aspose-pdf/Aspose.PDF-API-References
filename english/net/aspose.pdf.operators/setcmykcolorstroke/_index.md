@@ -35,6 +35,8 @@ public class SetCMYKColorStroke : SetColorOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setcmykcolorstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [getColor](../../aspose.pdf.operators/setcmykcolorstroke/getcolor)() | Returns the RGB color |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 

@@ -3,7 +3,7 @@ title: Watermark
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a watermark of the page.
 type: docs
-weight: 8050
+weight: 8070
 url: /net/aspose.pdf/watermark/
 ---
 ## Watermark class

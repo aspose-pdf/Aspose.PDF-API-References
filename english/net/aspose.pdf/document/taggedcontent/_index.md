@@ -3,7 +3,7 @@ title: TaggedContent
 second_title: Aspose.PDF for .NET API Reference
 description: Gets access to TaggedPdf content.
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.pdf/document/taggedcontent/
 ---
 ## Document.TaggedContent property

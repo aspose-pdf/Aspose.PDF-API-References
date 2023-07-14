@@ -25,6 +25,7 @@ public class OptimizationOptions
 | Name | Description |
 | --- | --- |
 | [AllowReusePageContent](../../aspose.pdf.optimization/optimizationoptions/allowreusepagecontent) { get; set; } | If true page contents will be reused when document is optimized for equal pages. |
+| [CompressObjects](../../aspose.pdf.optimization/optimizationoptions/compressobjects) { get; set; } | If this flag is set to `true`, Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size. |
 | [ImageCompressionOptions](../../aspose.pdf.optimization/optimizationoptions/imagecompressionoptions) { get; } | Set of options which describe will images in the document be compressed and parameters of the compression. |
 | [ImageEncoding](../../aspose.pdf.optimization/optimizationoptions/imageencoding) { get; set; } | Image encodre which will be used. |
 | [LinkDuplcateStreams](../../aspose.pdf.optimization/optimizationoptions/linkduplcatestreams) { get; set; } | If this flag is set to true, Resource streams will be analyzed. If duplicate streams are found (i.e. if stream contents is equal), then thes streams will be stored as one object. This allows to decrease document size in some cases (for example, when same document was concatenedted multiple times). |

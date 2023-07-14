@@ -35,6 +35,8 @@ public class ShowText : TextShowOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/showtext/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [ToString](../../aspose.pdf.operators/showtext/tostring)() | Produces text code of operator. |
 
 ### See Also

@@ -11,12 +11,12 @@ url: /net/aspose.pdf.vector/subpathcollection/contains/
 Determines whether an element is in the collection.
 
 ```csharp
-public bool Contains(SubPath subPath)
+public bool Contains(SubPath item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| subPath | SubPath | SubPath object to search. |
+| item | SubPath | SubPath object to search. |
 
 ### Return Value
 

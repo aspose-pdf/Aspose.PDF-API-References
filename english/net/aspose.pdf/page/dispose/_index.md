@@ -3,7 +3,7 @@ title: Dispose
 second_title: Aspose.PDF for .NET API Reference
 description: Frees up memory
 type: docs
-weight: 400
+weight: 420
 url: /net/aspose.pdf/page/dispose/
 ---
 ## Page.Dispose method

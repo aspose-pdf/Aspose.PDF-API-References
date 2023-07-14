@@ -72,6 +72,7 @@ public sealed class Document : IDisposable
 | [OpenAction](../../aspose.pdf/document/openaction) { get; set; } | Gets or sets action performed at document opening. |
 | [OptimizeSize](../../aspose.pdf/document/optimizesize) { get; set; } | Gets or sets optimization flag. When pages are added to document, equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false. |
 | [Outlines](../../aspose.pdf/document/outlines) { get; } | Gets document outlines. |
+| [OutputIntents](../../aspose.pdf/document/outputintents) { get; } | Gets the collection of Output intents in the document. |
 | [PageInfo](../../aspose.pdf/document/pageinfo) { get; set; } | Gets or sets the page info.(for generator only, not filled in when reading document) |
 | [PageLabels](../../aspose.pdf/document/pagelabels) { get; } | Gets page labels in the document. |
 | [PageLayout](../../aspose.pdf/document/pagelayout) { get; set; } | Gets or sets page layout which shall be used when the document is opened. |

@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 5860
+weight: 5880
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -63,10 +63,12 @@ public sealed class Page : IDisposable
 | [AddImage](../../aspose.pdf/page/addimage#addimage_3)(string, Stream, Rectangle) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](../../aspose.pdf/page/addimage#addimage_1)(Stream, Rectangle, int, int, bool) | Adds image on page and places it depend on image rectangle position. |
 | [AddStamp](../../aspose.pdf/page/addstamp)(Stamp) | Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo. |
+| [AddVectorGraphics](../../aspose.pdf/page/addvectorgraphics)(SubPathCollection, Rectangle) | Adds vector graphics inside given rectangle to the page. |
 | [AsByteArray](../../aspose.pdf/page/asbytearray)(Resolution) | Converts current page as bitmap and than returns array of bytes. |
 | [AsXml](../../aspose.pdf/page/asxml)() | Converts current page as xml in utf8 encoding. |
 | [CalculateContentBBox](../../aspose.pdf/page/calculatecontentbbox)() | Calculates bbox value - rectangle containing contents without visible margins. |
 | [ConvertToPNGMemoryStream](../../aspose.pdf/page/converttopngmemorystream)() | Convert page to PNG for DSR, OMR, OCR image stream. |
+| [DeleteVectorGraphics](../../aspose.pdf/page/deletevectorgraphics)(SubPathCollection) | Deletes vector graphics from the page. |
 | [Dispose](../../aspose.pdf/page/dispose)() | Frees up memory |
 | [Flatten](../../aspose.pdf/page/flatten)() | Removes all fields located on the page and place their values instead. |
 | [FreeMemory](../../aspose.pdf/page/freememory)() | Clears cached data |

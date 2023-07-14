@@ -8,8 +8,6 @@ url: /net/aspose.pdf/destinationcollection/copyto/
 ---
 ## DestinationCollection.CopyTo method
 
-Copies the elements of the collection to an Array, starting at a particular Array index.
-
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 ```

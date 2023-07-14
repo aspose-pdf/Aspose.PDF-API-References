@@ -3,7 +3,7 @@ title: PdfFormCheckBoxFieldSetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for set properties in CheckboxField.
 type: docs
-weight: 6480
+weight: 6500
 url: /net/aspose.pdf.plugins/pdfformcheckboxfieldsetoptions/
 ---
 ## PdfFormCheckBoxFieldSetOptions class

@@ -3,7 +3,7 @@ title: MakeGrayscale
 second_title: Aspose.PDF for .NET API Reference
 description: Converts the page to grayscale.
 type: docs
-weight: 470
+weight: 490
 url: /net/aspose.pdf/page/makegrayscale/
 ---
 ## Page.MakeGrayscale method

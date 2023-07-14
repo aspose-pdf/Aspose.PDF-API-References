@@ -3,7 +3,7 @@ title: RemovePrivateInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Remove private information page piece info.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 ---
 ## OptimizationOptions.RemovePrivateInfo property

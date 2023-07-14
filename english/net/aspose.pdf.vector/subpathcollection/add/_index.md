@@ -11,12 +11,12 @@ url: /net/aspose.pdf.vector/subpathcollection/add/
 Adds new SubPath object to the collection.
 
 ```csharp
-public void Add(SubPath subPath)
+public void Add(SubPath item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| subPath | SubPath | SubPath. |
+| item | SubPath | SubPath. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: FreeMemory
 second_title: Aspose.PDF for .NET API Reference
 description: Clears memory
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.pdf/document/freememory/
 ---
 ## Document.FreeMemory method

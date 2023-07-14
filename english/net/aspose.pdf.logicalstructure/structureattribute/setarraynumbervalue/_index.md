@@ -8,8 +8,6 @@ url: /net/aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/
 ---
 ## StructureAttribute.SetArrayNumberValue method
 
-Sets Value Number Array.
-
 ```csharp
 public void SetArrayNumberValue(double?[] arrayNumber)
 ```

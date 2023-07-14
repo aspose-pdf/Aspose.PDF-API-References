@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.pdf.plugins/pdfformexportvaluestocsvoptions/getdelimeter/
 ---
-## PdfFormExportValuesToCSVOptions.GetDelimeter property
+## PdfFormExportValuesToCsvOptions.GetDelimeter property
 
 Gets delimeter used for exported values.
 
@@ -16,7 +16,7 @@ public char GetDelimeter { get; }
 
 ### See Also
 
-* class [PdfFormExportValuesToCSVOptions](../../pdfformexportvaluestocsvoptions)
+* class [PdfFormExportValuesToCsvOptions](../../pdfformexportvaluestocsvoptions)
 * namespace [Aspose.Pdf.Plugins](../../pdfformexportvaluestocsvoptions)
 * assembly [Aspose.PDF](../../../)
 

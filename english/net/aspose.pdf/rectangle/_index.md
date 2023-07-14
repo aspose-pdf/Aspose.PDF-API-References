@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.PDF for .NET API Reference
 description: Class represents rectangle.
 type: docs
-weight: 6860
+weight: 6880
 url: /net/aspose.pdf/rectangle/
 ---
 ## Rectangle class
@@ -39,7 +39,8 @@ public sealed class Rectangle : ICloneable
 
 | Name | Description |
 | --- | --- |
-| static [FromRect](../../aspose.pdf/rectangle/fromrect)(Rectangle) | Initializes new rectangle from given instance of System.Drawing.Rectangle. |
+| static [FromRect](../../aspose.pdf/rectangle/fromrect#fromrect)(Rectangle) | Initializes new rectangle from given instance of System.Drawing.Rectangle. |
+| static [FromRect](../../aspose.pdf/rectangle/fromrect#fromrect_1)(RectangleF) | Initializes new rectangle from given instance of System.Drawing.Rectangle. |
 | static [Parse](../../aspose.pdf/rectangle/parse)(string) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
 | [Center](../../aspose.pdf/rectangle/center)() | Returncs coordinates of center of the rectangle. |
 | [Clone](../../aspose.pdf/rectangle/clone)() | Clones the Rectangle object. |

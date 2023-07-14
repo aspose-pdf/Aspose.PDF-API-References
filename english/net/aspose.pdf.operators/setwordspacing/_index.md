@@ -32,6 +32,8 @@ public class SetWordSpacing : TextStateOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setwordspacing/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 
 ### See Also

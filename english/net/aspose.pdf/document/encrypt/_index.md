@@ -3,7 +3,7 @@ title: Encrypt
 second_title: Aspose.PDF for .NET API Reference
 description: Encrypts the document. Call then Save to get encrypted version of the document.
 type: docs
-weight: 570
+weight: 580
 url: /net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}

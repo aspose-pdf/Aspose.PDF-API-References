@@ -44,6 +44,8 @@ public class SetColor : BasicSetColorOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setcolor/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [getColor](../../aspose.pdf.operators/setcolor/getcolor)() | Returns color specified by the operator. |
 | override [ToString](../../aspose.pdf.operators/setcolor/tostring)() | Returns string representation of color. |
 

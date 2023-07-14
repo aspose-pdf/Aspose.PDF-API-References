@@ -3,7 +3,7 @@ title: RemovePdfUaCompliance
 second_title: Aspose.PDF for .NET API Reference
 description: Remove pdfUa compliance from the document
 type: docs
-weight: 710
+weight: 720
 url: /net/aspose.pdf/document/removepdfuacompliance/
 ---
 ## Document.RemovePdfUaCompliance method

@@ -3,7 +3,7 @@ title: Dispose
 second_title: Aspose.PDF for .NET API Reference
 description: Closes all resources used by this document.
 type: docs
-weight: 560
+weight: 570
 url: /net/aspose.pdf/document/dispose/
 ---
 ## Document.Dispose method

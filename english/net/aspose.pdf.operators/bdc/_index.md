@@ -32,6 +32,8 @@ public class BDC : Operator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/bdc/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [ToString](../../aspose.pdf.operators/bdc/tostring)() | Returns text representation of operator. |
 
 ### See Also

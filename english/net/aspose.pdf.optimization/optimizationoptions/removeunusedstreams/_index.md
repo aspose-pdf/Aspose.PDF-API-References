@@ -3,7 +3,7 @@ title: RemoveUnusedStreams
 second_title: Aspose.PDF for .NET API Reference
 description: If this flag set to true every resource is checked on its usage. If resource is never used then resources is removed. This may decrease document size for example when pages were extracted from document.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.optimization/optimizationoptions/removeunusedstreams/
 ---
 ## OptimizationOptions.RemoveUnusedStreams property

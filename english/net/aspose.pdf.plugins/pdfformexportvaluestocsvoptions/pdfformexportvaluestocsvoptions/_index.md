@@ -1,17 +1,17 @@
 ---
-title: PdfFormExportValuesToCSVOptions
+title: PdfFormExportValuesToCsvOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the PdfFormExportValuesToCSVOptionsaspose.pdf.plugins/pdfformexportvaluestocsvoptions object in which the fields whose data will be exported and the separator for the exported data are specified.
+description: Initializes a new instance of the PdfFormExportValuesToCsvOptionsaspose.pdf.plugins/pdfformexportvaluestocsvoptions object in which the fields whose data will be exported and the separator for the exported data are specified.
 type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdfformexportvaluestocsvoptions/pdfformexportvaluestocsvoptions/
 ---
-## PdfFormExportValuesToCSVOptions constructor
+## PdfFormExportValuesToCsvOptions constructor
 
-Initializes a new instance of the [`PdfFormExportValuesToCSVOptions`](../../pdfformexportvaluestocsvoptions) object, in which the fields whose data will be exported and the separator for the exported data are specified.
+Initializes a new instance of the [`PdfFormExportValuesToCsvOptions`](../../pdfformexportvaluestocsvoptions) object, in which the fields whose data will be exported and the separator for the exported data are specified.
 
 ```csharp
-public PdfFormExportValuesToCSVOptions(SelectField selectField, char delimeter = ',')
+public PdfFormExportValuesToCsvOptions(SelectField selectField, char delimeter = ',')
 ```
 
 | Parameter | Type | Description |
@@ -22,7 +22,7 @@ public PdfFormExportValuesToCSVOptions(SelectField selectField, char delimeter =
 ### See Also
 
 * delegate [SelectField](../../selectfield)
-* class [PdfFormExportValuesToCSVOptions](../../pdfformexportvaluestocsvoptions)
+* class [PdfFormExportValuesToCsvOptions](../../pdfformexportvaluestocsvoptions)
 * namespace [Aspose.Pdf.Plugins](../../pdfformexportvaluestocsvoptions)
 * assembly [Aspose.PDF](../../../)
 

@@ -11,13 +11,13 @@ url: /net/aspose.pdf.vector/subpathcollection/copyto/
 Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array.
 
 ```csharp
-public void CopyTo(SubPath[] array, int index)
+public void CopyTo(SubPath[] array, int arrayIndex)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | SubPath[] | Array of objects which will be copied. |
-| index | Int32 | Starting index from which copying will be started. |
+| arrayIndex | Int32 | Starting index from which copying will be started. |
 
 ### See Also
 

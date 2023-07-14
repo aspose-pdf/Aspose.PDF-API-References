@@ -8,8 +8,6 @@ url: /net/aspose.pdf/metadata/copyto/
 ---
 ## Metadata.CopyTo method
 
-Copies elements of the collection into array.
-
 ```csharp
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```

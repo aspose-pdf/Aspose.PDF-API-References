@@ -18,7 +18,7 @@ public sealed class Graph : BaseParagraph
 
 | Name | Description |
 | --- | --- |
-| [Graph](graph)(float, float) | Initializes a new instance of the [`Graph`](../graph) class. |
+| [Graph](graph#constructor)(double, double) | Initializes a new instance of the [`Graph`](../graph) class. |
 
 ## Properties
 

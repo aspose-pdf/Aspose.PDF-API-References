@@ -3,7 +3,7 @@ title: ToString
 second_title: Aspose.PDF for .NET API Reference
 description: Returns text of operator and its parameters.
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf/operator/tostring/
 ---
 ## Operator.ToString method

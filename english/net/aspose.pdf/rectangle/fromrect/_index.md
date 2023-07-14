@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.pdf/rectangle/fromrect/
 ---
-## Rectangle.FromRect method
+## FromRect(Rectangle) {#fromrect}
 
 Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
@@ -17,6 +17,30 @@ public static Rectangle FromRect(Rectangle src)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | src | Rectangle | Source rectangle which position and size will be set to new rectangle. |
+
+### Return Value
+
+New rectangle.
+
+### See Also
+
+* class [Rectangle](../../rectangle)
+* namespace [Aspose.Pdf](../../rectangle)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FromRect(RectangleF) {#fromrect_1}
+
+Initializes new rectangle from given instance of System.Drawing.Rectangle.
+
+```csharp
+public static Rectangle FromRect(RectangleF src)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | RectangleF | Source rectangle which position and size will be set to new rectangle. |
 
 ### Return Value
 

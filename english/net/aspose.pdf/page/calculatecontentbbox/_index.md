@@ -3,7 +3,7 @@ title: CalculateContentBBox
 second_title: Aspose.PDF for .NET API Reference
 description: Calculates bbox value - rectangle containing contents without visible margins.
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.pdf/page/calculatecontentbbox/
 ---
 ## Page.CalculateContentBBox method

@@ -3,7 +3,7 @@ title: RenderingOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents rendering options.
 type: docs
-weight: 6870
+weight: 6890
 url: /net/aspose.pdf/renderingoptions/
 ---
 ## RenderingOptions class
@@ -35,7 +35,6 @@ public sealed class RenderingOptions
 | [OptimizeDimensions](../../aspose.pdf/renderingoptions/optimizedimensions) { get; set; } | Gets or sets optimize dimensions mode. |
 | [SystemFontsNativeRendering](../../aspose.pdf/renderingoptions/systemfontsnativerendering) { get; set; } | Gets or sets a mode where system fonts are rendered natively. |
 | [UseFontHinting](../../aspose.pdf/renderingoptions/usefonthinting) { get; set; } | Usage of this flag turn on font hinting mechanism. Font hinting is the use of mathematical instructions to adjust the display of an outline font. In some cases turning this flag on may solve problems with text legibility. At current moment usage of this flag could give effect only for TTF fonts, if these fonts are used in source document. |
-| [UseNewImagingEngine](../../aspose.pdf/renderingoptions/usenewimagingengine) { get; set; } | Gets or sets a flag determines whether new imaging engine is used or not. |
 | [WidthExtraUnits](../../aspose.pdf/renderingoptions/widthextraunits) { get; set; } | Gets or sets a value used to increase or decrease the width of rectangle for AppendRectangle operator. |
 
 ### See Also

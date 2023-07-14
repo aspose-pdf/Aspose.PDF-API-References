@@ -3,7 +3,7 @@ title: PdfOrganizerOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for PdfOrganizer./pdforganizer plugin.
 type: docs
-weight: 6680
+weight: 6700
 url: /net/aspose.pdf.plugins/pdforganizeroptions/
 ---
 ## PdfOrganizerOptions class

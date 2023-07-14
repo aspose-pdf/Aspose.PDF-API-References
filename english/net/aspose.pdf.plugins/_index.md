@@ -31,7 +31,7 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [PdfFormAddFieldsOptions](./pdfformaddfieldsoptions) | Represents options for add Fields to document by PdfForm plugin. |
 | [PdfFormCheckBoxFieldSetOptions](./pdfformcheckboxfieldsetoptions) | Represents options for set properties in CheckboxField. |
 | [PdfFormComboBoxFieldSetOptions](./pdfformcomboboxfieldsetoptions) | Represents options for set properties in ComboBoxField. |
-| [PdfFormExportValuesToCSVOptions](./pdfformexportvaluestocsvoptions) | Represents options for export Value property of specified fields (not annotations). |
+| [PdfFormExportValuesToCsvOptions](./pdfformexportvaluestocsvoptions) | Represents options for export Value property of specified fields (not annotations). |
 | [PdfFormFieldSetOptions](./pdfformfieldsetoptions) | Represents options for set properties in Field. |
 | [PdfFormFlattenFieldsOptions](./pdfformflattenfieldsoptions) | Represents options for flatten all Fields (not annotations) on specified pages of document by PdfForm plugin. |
 | [PdfFormOptions](./pdfformoptions) | Represents options for PdfForm plugin. |

@@ -3,7 +3,7 @@ title: PageSize
 second_title: Aspose.PDF for .NET API Reference
 description: Class representing size of page in PDF document.
 type: docs
-weight: 5970
+weight: 5990
 url: /net/aspose.pdf/pagesize/
 ---
 ## PageSize class

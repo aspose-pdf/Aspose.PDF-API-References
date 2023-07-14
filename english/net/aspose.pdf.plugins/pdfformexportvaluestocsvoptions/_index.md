@@ -1,24 +1,24 @@
 ---
-title: PdfFormExportValuesToCSVOptions
+title: PdfFormExportValuesToCsvOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for export Value property of specified fields not annotations.
 type: docs
-weight: 6500
+weight: 6520
 url: /net/aspose.pdf.plugins/pdfformexportvaluestocsvoptions/
 ---
-## PdfFormExportValuesToCSVOptions class
+## PdfFormExportValuesToCsvOptions class
 
 Represents options for export Value property of specified fields (not annotations).
 
 ```csharp
-public sealed class PdfFormExportValuesToCSVOptions : PdfFormOptions
+public sealed class PdfFormExportValuesToCsvOptions : PdfFormOptions
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [PdfFormExportValuesToCSVOptions](pdfformexportvaluestocsvoptions)(SelectField, char) | Initializes a new instance of the [`PdfFormExportValuesToCSVOptions`](../pdfformexportvaluestocsvoptions) object, in which the fields whose data will be exported and the separator for the exported data are specified. |
+| [PdfFormExportValuesToCsvOptions](pdfformexportvaluestocsvoptions)(SelectField, char) | Initializes a new instance of the [`PdfFormExportValuesToCsvOptions`](../pdfformexportvaluestocsvoptions) object, in which the fields whose data will be exported and the separator for the exported data are specified. |
 
 ## Properties
 
