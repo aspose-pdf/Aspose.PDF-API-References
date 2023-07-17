@@ -3,7 +3,7 @@ title: SubPath
 second_title: Aspose.PDF for .NET API Reference
 description: Represents vector graphics object on the page. Basically vector graphics objects are represented by two groups of SubPaths. One of them is represented by a set of lines and curves. Others are presented as rectangles and can sometimes be confused. Usually it is a rectangular area that has a color but very often this rectangle is placed at the beginning of the page and defines the entire space of the page in white. So you get the SubPath but visually you only see the text on the page.
 type: docs
-weight: 7990
+weight: 8010
 url: /net/aspose.pdf.vector/subpath/
 ---
 ## SubPath class
@@ -19,6 +19,8 @@ public sealed class SubPath
 | Name | Description |
 | --- | --- |
 | [Position](../../aspose.pdf.vector/subpath/position) { get; set; } | Gets or sets the position of the SubPaths in [`Point`](../../aspose.pdf/point). |
+| [Rectangle](../../aspose.pdf.vector/subpath/rectangle) { get; } | Gets the bounding rectangle of the SubPath. |
+| [SubPathOperators](../../aspose.pdf.vector/subpath/subpathoperators) { get; } | Gets operator collection that represents SubPath. |
 
 ### See Also
 

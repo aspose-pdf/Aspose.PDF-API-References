@@ -3,7 +3,7 @@ title: IsTextShowOperator
 second_title: Aspose.PDF for .NET API Reference
 description: Determines if the operator is operator which responsible for text output Tj TJ etc
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf/operator/istextshowoperator/
 ---
 ## Operator.IsTextShowOperator method

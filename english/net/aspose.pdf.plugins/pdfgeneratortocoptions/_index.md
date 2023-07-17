@@ -3,7 +3,7 @@ title: PdfGeneratorTOCOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for add table of contents to document by PdfGenerator./pdfgenerator plugin.
 type: docs
-weight: 6590
+weight: 6610
 url: /net/aspose.pdf.plugins/pdfgeneratortocoptions/
 ---
 ## PdfGeneratorTOCOptions class

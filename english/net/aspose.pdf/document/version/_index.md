@@ -3,7 +3,7 @@ title: Version
 second_title: Aspose.PDF for .NET API Reference
 description: Gets a version of Pdf from Pdf file header.
 type: docs
-weight: 490
+weight: 500
 url: /net/aspose.pdf/document/version/
 ---
 ## Document.Version property

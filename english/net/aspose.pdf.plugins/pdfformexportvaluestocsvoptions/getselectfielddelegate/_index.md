@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.pdf.plugins/pdfformexportvaluestocsvoptions/getselectfielddelegate/
 ---
-## PdfFormExportValuesToCSVOptions.GetSelectFieldDelegate property
+## PdfFormExportValuesToCsvOptions.GetSelectFieldDelegate property
 
 Gets delegate specifying the field(s) to which _settedOptions should be set.
 
@@ -17,7 +17,7 @@ public SelectField GetSelectFieldDelegate { get; }
 ### See Also
 
 * delegate [SelectField](../../selectfield)
-* class [PdfFormExportValuesToCSVOptions](../../pdfformexportvaluestocsvoptions)
+* class [PdfFormExportValuesToCsvOptions](../../pdfformexportvaluestocsvoptions)
 * namespace [Aspose.Pdf.Plugins](../../pdfformexportvaluestocsvoptions)
 * assembly [Aspose.PDF](../../../)
 

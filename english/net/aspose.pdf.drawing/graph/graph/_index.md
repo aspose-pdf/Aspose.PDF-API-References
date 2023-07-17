@@ -11,13 +11,13 @@ url: /net/aspose.pdf.drawing/graph/graph/
 Initializes a new instance of the [`Graph`](../../graph) class.
 
 ```csharp
-public Graph(float width, float height)
+public Graph(double width, double height)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | Single | The width of the graph. |
-| height | Single | The height of the graph. |
+| width | Double | The width of the graph. |
+| height | Double | The height of the graph. |
 
 ### See Also
 

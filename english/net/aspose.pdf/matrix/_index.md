@@ -49,9 +49,13 @@ public sealed class Matrix
 | override [GetHashCode](../../aspose.pdf/matrix/gethashcode)() | Hash-code for object. |
 | [Multiply](../../aspose.pdf/matrix/multiply)(Matrix) | Multiplies the matrix by other matrix. |
 | [Reverse](../../aspose.pdf/matrix/reverse)() | Calculates reverse matrix. |
+| [Scale](../../aspose.pdf/matrix/scale)(double, double, out double, out double) | Scales x and y with the matrix using the following formula: x1 = A*x + C*y; y1 = B*x + D*y; |
 | override [ToString](../../aspose.pdf/matrix/tostring)() | Returns text reporesentation of the matrix. |
 | [Transform](../../aspose.pdf/matrix/transform#transform)(Point) | Transforms point using this matrix. |
 | [Transform](../../aspose.pdf/matrix/transform#transform_1)(Rectangle) | Transformes rectangle. If angle is not 90 * N degrees then bounding rectangle is returned. |
+| [Transform](../../aspose.pdf/matrix/transform#transform_2)(double, double, out double, out double) | Transforms coordinates using this matrix. |
+| [UnScale](../../aspose.pdf/matrix/unscale)(double, double, out double, out double) | Scales back x1 and y1 and returns x and y before the matrix transformation using the following formula: x = (D * x1 - C * y1) / (A * D - C * B); y = (A* y1 - B* x1) / (A* D - C* B); |
+| [UnTransform](../../aspose.pdf/matrix/untransform)(double, double, out double, out double) | Transforms back x1 and y1 and returns x and y before the matrix transformation using the following formula: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B). |
 | static [GetAngle](../../aspose.pdf/matrix/getangle)(Rotation) | Transaltes rotation into angle (degrees) |
 
 ### See Also

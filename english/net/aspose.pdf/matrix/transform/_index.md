@@ -3,7 +3,7 @@ title: Transform
 second_title: Aspose.PDF for .NET API Reference
 description: Transforms point using this matrix.
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf/matrix/transform/
 ---
 ## Transform(Point) {#transform}
@@ -33,6 +33,37 @@ Aspose.Pdf.Rectangle r1 = m.Transform(r);
 ### See Also
 
 * class [Point](../../point)
+* class [Matrix](../../matrix)
+* namespace [Aspose.Pdf](../../matrix)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Transform(double, double, out double, out double) {#transform_2}
+
+Transforms coordinates using this matrix.
+
+```csharp
+public void Transform(double x, double y, out double x1, out double y1)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | X coordinate. |
+| y | Double | Y coordinate. |
+| x1 | Double& | Transformed X coordinate. |
+| y1 | Double& | Transformed Y coordinate. |
+
+### Examples
+
+```csharp
+Aspose.Pdf.Matrix m = new Aspose.Pdf.Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
+double x, y, x1, y1;
+m.Transform(double x, double y, out double x1, out double y1);
+```
+
+### See Also
+
 * class [Matrix](../../matrix)
 * namespace [Aspose.Pdf](../../matrix)
 * assembly [Aspose.PDF](../../../)

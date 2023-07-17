@@ -3,7 +3,7 @@ title: GetNotifications
 second_title: Aspose.PDF for .NET API Reference
 description: Returns notifications about inside operations with page content. Only notifications about paragraph events in text adding scenarios are supported now.
 type: docs
-weight: 430
+weight: 450
 url: /net/aspose.pdf/page/getnotifications/
 ---
 ## Page.GetNotifications method

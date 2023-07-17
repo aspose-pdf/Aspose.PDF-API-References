@@ -3,7 +3,7 @@ title: ChangePasswords
 second_title: Aspose.PDF for .NET API Reference
 description: Changes document passwords. This action can be done only using owner password.
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.pdf/document/changepasswords/
 ---
 ## Document.ChangePasswords method

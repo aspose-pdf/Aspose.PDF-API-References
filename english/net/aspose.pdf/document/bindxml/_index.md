@@ -3,7 +3,7 @@ title: BindXml
 second_title: Aspose.PDF for .NET API Reference
 description: Bind xml to document
 type: docs
-weight: 510
+weight: 520
 url: /net/aspose.pdf/document/bindxml/
 ---
 ## BindXml(string) {#bindxml_3}

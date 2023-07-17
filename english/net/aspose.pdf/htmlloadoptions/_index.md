@@ -26,6 +26,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 | Name | Description |
 | --- | --- |
 | [BasePath](../../aspose.pdf/htmlloadoptions/basepath) { get; } | The base path/url for the html file. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
 | [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype) { get; set; } | Gets or sets possible media types used during rendering. |
 | [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding) { get; set; } | Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
 | [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts) { get; set; } | Gets or sets fonts embedding to result document |

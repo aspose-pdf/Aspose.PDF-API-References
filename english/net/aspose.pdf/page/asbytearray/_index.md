@@ -3,7 +3,7 @@ title: AsByteArray
 second_title: Aspose.PDF for .NET API Reference
 description: Converts current page as bitmap and than returns array of bytes.
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.pdf/page/asbytearray/
 ---
 ## Page.AsByteArray method

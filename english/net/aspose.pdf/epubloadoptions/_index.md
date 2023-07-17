@@ -25,6 +25,7 @@ public sealed class EpubLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |
 | [Margin](../../aspose.pdf/epubloadoptions/margin) { get; set; } | Gets reference on object that represent marging info. |
 | [PageSize](../../aspose.pdf/epubloadoptions/pagesize) { get; } | Gets or sets output page size for import. |

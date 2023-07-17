@@ -11,12 +11,12 @@ url: /net/aspose.pdf.vector/subpathcollection/remove/
 Deletes the SubPath element.
 
 ```csharp
-public bool Remove(SubPath subPath)
+public bool Remove(SubPath item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| subPath | SubPath | SubPath object that will be deleted. |
+| item | SubPath | SubPath object that will be deleted. |
 
 ### Return Value
 

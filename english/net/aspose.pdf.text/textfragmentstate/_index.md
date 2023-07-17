@@ -3,7 +3,7 @@ title: TextFragmentState
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a text state of a text fragment.
 type: docs
-weight: 7800
+weight: 7820
 url: /net/aspose.pdf.text/textfragmentstate/
 ---
 ## TextFragmentState class
@@ -51,6 +51,7 @@ public sealed class TextFragmentState : TextState
 | Name | Description |
 | --- | --- |
 | override [ApplyChangesFrom](../../aspose.pdf.text/textfragmentstate/applychangesfrom)(TextState) | Applies settings from another textState. |
+| [IsFitRectangle](../../aspose.pdf.text/textfragmentstate/isfitrectangle)(string, Rectangle) | Checks if input string could be placed inside defined rectangle. |
 | override [MeasureString](../../aspose.pdf.text/textfragmentstate/measurestring)(string) | Measures the string. |
 
 ## Fields

@@ -3,7 +3,7 @@ title: PageInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets the page info.for generator only not filled in when reading document
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.pdf/document/pageinfo/
 ---
 ## Document.PageInfo property

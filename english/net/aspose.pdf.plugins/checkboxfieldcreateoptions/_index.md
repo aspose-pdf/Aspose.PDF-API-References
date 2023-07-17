@@ -3,7 +3,7 @@ title: CheckBoxFieldCreateOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for creating CheckBoxField.
 type: docs
-weight: 6190
+weight: 6210
 url: /net/aspose.pdf.plugins/checkboxfieldcreateoptions/
 ---
 ## CheckBoxFieldCreateOptions class

@@ -32,6 +32,8 @@ public class SetGray : SetColorOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setgray/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [getColor](../../aspose.pdf.operators/setgray/getcolor)() | Returns color specified by operator. |
 | override [ToString](../../aspose.pdf.operators/setgray/tostring)() | Returns string represnetation of operator. |
 

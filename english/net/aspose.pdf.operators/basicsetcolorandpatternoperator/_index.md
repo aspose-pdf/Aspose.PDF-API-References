@@ -35,6 +35,8 @@ public abstract class BasicSetColorAndPatternOperator : BasicSetColorOperator
 | Name | Description |
 | --- | --- |
 | abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor)() | Retirns color specified by the operator. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
 

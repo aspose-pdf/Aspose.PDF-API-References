@@ -38,15 +38,11 @@ In this example, an attempt will be made to set metered public and private key
 Metered metered = new Metered();
 metered.SetMeteredKey("PublicKey", "PrivateKey");
 
+
 [Visual Basic]
 
 Dim metered As Metered = New Metered
 metered.SetMeteredKey("PublicKey", "PrivateKey")
-
-[Java]
-the component jar file:
-Metered metered = new Metered();
-metered.setMeteredKey("PublicKey", "PrivateKey");
 ```
 
 ### See Also

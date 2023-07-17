@@ -3,7 +3,7 @@ title: PdfConverterHtmlToPdfOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents HTML to PDF converter options for PdfConverter./pdfconverter plugin.
 type: docs
-weight: 6340
+weight: 6360
 url: /net/aspose.pdf.plugins/pdfconverterhtmltopdfoptions/
 ---
 ## PdfConverterHtmlToPdfOptions class

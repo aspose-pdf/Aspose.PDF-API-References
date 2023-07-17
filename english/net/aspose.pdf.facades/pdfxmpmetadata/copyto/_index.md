@@ -8,8 +8,6 @@ url: /net/aspose.pdf.facades/pdfxmpmetadata/copyto/
 ---
 ## PdfXmpMetadata.CopyTo method
 
-Copy metadata into array.
-
 ```csharp
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```

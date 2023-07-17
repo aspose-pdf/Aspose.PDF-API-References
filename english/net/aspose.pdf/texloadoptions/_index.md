@@ -3,7 +3,7 @@ title: TeXLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing TeX file into PDF document.
 type: docs
-weight: 7240
+weight: 7260
 url: /net/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class
@@ -25,6 +25,7 @@ public class TeXLoadOptions : LoadOptions
 | Name | Description |
 | --- | --- |
 | [DateTime](../../aspose.pdf/texloadoptions/datetime) { get; set; } | Gets/sets a certain value for date/time primitives like year, month, day and time. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
 | [InputDirectory](../../aspose.pdf/texloadoptions/inputdirectory) { get; set; } | Gets/sets TeX input directory. |
 | [JobName](../../aspose.pdf/texloadoptions/jobname) { get; set; } | Gets/set the name of the job. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat) { get; } | Represents file format which [`LoadOptions`](../loadoptions) describes. |

@@ -3,7 +3,7 @@ title: TextFormattingOptions.WordWrapMode
 second_title: Aspose.PDF for .NET API Reference
 description: Defines word wrapping strategies
 type: docs
-weight: 7760
+weight: 7780
 url: /net/aspose.pdf.text/textformattingoptions.wordwrapmode/
 ---
 ## TextFormattingOptions.WordWrapMode enumeration

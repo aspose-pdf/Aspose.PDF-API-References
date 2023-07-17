@@ -3,7 +3,7 @@ title: Permissions
 second_title: Aspose.PDF for .NET API Reference
 description: Gets permissions of the document.
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.pdf/document/permissions/
 ---
 ## Document.Permissions property

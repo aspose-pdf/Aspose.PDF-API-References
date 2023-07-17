@@ -3,7 +3,7 @@ title: PdfOrganizerCompressOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents Compress options for PdfOrganizer./pdforganizer plugin.
 type: docs
-weight: 6660
+weight: 6680
 url: /net/aspose.pdf.plugins/pdforganizercompressoptions/
 ---
 ## PdfOrganizerCompressOptions class

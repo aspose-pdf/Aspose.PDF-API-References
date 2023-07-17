@@ -31,6 +31,8 @@ public class Stroke : Operator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/stroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
+| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [ToString](../../aspose.pdf.operators/stroke/tostring)() | Returns text representation of the operator. |
 
 ### See Also

@@ -3,7 +3,7 @@ title: Save
 second_title: Aspose.PDF for .NET API Reference
 description: Save document incrementally i.e. using incremental update technique.
 type: docs
-weight: 730
+weight: 740
 url: /net/aspose.pdf/document/save/
 ---
 ## Save() {#save}
