@@ -1,21 +1,22 @@
 ---
-title: "Core functions"
+title: "Metadata PDF functions"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Core functions for working with PDF files."
+description:  "Functions for working with Metadata PDF files"
 type: docs
-url: /javascript-cpp/core/
+url: /javascript-cpp/metadata/
 ---
 
-## Core Functions
+## Metadata PDF functions
 
 |      Name      |  Description   |
 | -------------- | -------------- |
-| [AsposePdfPrepare](./asposepdfprepare/) | Save the BLOB in the Memory FS for processing. |
-| [AsposePdfPrepareBase64](./asposepdfpreparebase64/) | Save the string representation BLOB in the Memory FS for processing. |
+| [AsposePdfSetInfo](./asposepdfsetinfo/) | Set info (metadata) in a PDF-file. |
+| [AsposePdfGetInfo](./asposepdfgetinfo/) | Get info (metadata) from a PDF-file. |
+| [AsposePdfGetAllFonts](./asposepdfgetallfonts/) | Get list fonts a PDF-file. |
 
 ## Detailed Description
 
-Core functions for working with PDF files.
+Functions for working with Metadata PDF files.
 
 ```html
 <!-- Load and initiate Aspose.PDF for JavaScript via C++ -->

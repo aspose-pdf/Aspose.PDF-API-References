@@ -26,14 +26,15 @@ Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS)
 ```js
   var ffileSignPKCS7 = function (e) {
     const test_pfx = "data:application/octet-stream;base64,MIIEcQIBAzCCBDcGCSqGSIb ... ==";
+    /*Save the string representation BLOB in the Memory FS for processing*/
     AsposePdfPrepareBase64(test_pfx,"test.pfx");
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*sign a PDF-file and save the "ResultSignPKCS7.pdf"*/
+      /*Sign a PDF-file and save the "ResultSignPKCS7.pdf"*/
       const json = AsposePdfSignPKCS7(event.target.result, e.target.files[0].name, 1, "test.pfx", "Password", 100, 100, 200, 100, "Reason", "Contact", "Location", 1, "/Aspose.jpg","ResultSignPKCS7.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
-      /*make a link to download the result file*/
+      /*Make a link to download the result file*/
       DownloadFile(json.fileNameResult, "application/pdf");
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
@@ -52,13 +53,13 @@ Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS)
           `Result:${'Saved the base64 data to memory FS'}` :
           `Error: ${evt.data.json.errorText}`;
   
-  /* AsposePdfPrepareBase64 for Web Worker*/
+  /*AsposePdfPrepareBase64 for Web Worker*/
   const AsposePdfPrepareBase64 = (base64, filename) =>
     fetch(base64)
       .then(res => res.arrayBuffer())
         .then(buffer => {
             const file_reader = new FileReader();
-            /* Ask Web Worker */
+            /*Ask Web Worker */
             file_reader.onload = event => AsposePDFWebWorker.postMessage(
                  { "operation": 'AsposePdfPrepare', "params": [event.target.result, filename] },
                  [event.target.result]

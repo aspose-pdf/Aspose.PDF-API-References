@@ -32,10 +32,10 @@ Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS)
 ```js
   var ffileImage = function (e) {
     const file_reader = new FileReader();
-    /*set the image filename*/
+    /*Set the image filename*/
     const fileImage = e.target.files[0].name;
     file_reader.onload = (event) => {
-      /*prepare(save) the image file from BLOB*/
+      /*Save the BLOB in the Memory FS for processing*/
       AsposePdfPrepare(event.target.result, fileImage);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
@@ -58,7 +58,7 @@ Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS)
   const ffileImage = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*prepare(save) the image file from BLOB*/
+      /*Save the BLOB in the Memory FS for processing*/
       AsposePDFWebWorker.postMessage(
         { "operation": 'AsposePdfPrepare', "params": [event.target.result, e.target.files[0].name] },
         [event.target.result]
