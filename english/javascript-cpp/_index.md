@@ -11,36 +11,70 @@ is_root: true
 
 > Aspose.PDF for JavaScript via C++ allows developers manipulate them PDF files directly in the Web.
 
+
+## Convert from PDF functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposePdfPagesToJpg](./convert/asposepdfpagestojpg/) | Convert a PDF-file to JPG. |
+| [AsposePdfPagesToPng](./convert/asposepdfpagestopng/) | Convert a PDF-file to PNG. |
+| [AsposePdfPagesToTiff](./convert/asposepdfpagestotiff/) | Convert a PDF-file to TIFF. |
+| [AsposePdfPagesToBmp](./convert/asposepdfpagestobmp/) | Convert a PDF-file to BMP. |
+| [AsposePdfPagesToSvg](./convert/asposepdfpagestosvg/) | Convert a PDF-file to SVG. |
+| [AsposePdfPagesToSvgZip](./convert/asposepdfpagestosvgzip/) | Convert a PDF-file to SVG(zip). |
+| [AsposePdfToTeX](./convert/asposepdftotex/) | Convert a PDF-file to TeX. |
+| [AsposePdfToXps](./convert/asposepdftoxps/) | Convert a PDF-file to Xps. |
+| [AsposePdfTablesToCSV](./convert/asposepdftablestocsv/) | Convert a PDF-file to CSV (extract tables). |
+| [AsposePdfToTxt](./convert/asposepdftotxt/) | Convert a PDF-file to Txt. |
+| [AsposePdfConvertToGrayscale](./convert/asposepdfconverttograyscale/) | Convert a PDF-file to grayscale. |
+| [AsposePdfConvertToPDFA](./convert/asposepdfconverttopdfa/) | Convert a PDF-file to PDF/A. |
+| [AsposePdfAConvertToPDF](./convert/asposepdfaconverttopdf/) | Convert a PDF/A-file to PDF. |
+| [AsposePdfToDocX](./convert/asposepdftodocx/) | Convert a PDF-file to DocX. |
+| [AsposePdfToXlsX](./convert/asposepdftoxlsx/) | Convert a PDF-file to XlsX. |
+| [AsposePdfExtractText](./convert/asposepdfextracttext/) | Extract text from a PDF-file.|
+
+
+## Organize PDF functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposePdfOptimize](./organize/asposepdfoptimize/) | Optimize a PDF-file. |
+| [AsposePdfMerge2Files](./organize/asposepdfmerge2files/) | Merge two PDF-files. |
+| [AsposePdfSplit2Files](./organize/asposepdfsplit2files/) | Split to two PDF-files. |
+| [AsposePdfRotateAllPages](./organize/asposepdfrotateallpages/) | Rotate PDF-pages. |
+| [AsposePdfDeletePages](./organize/asposepdfdeletepages/) | Delete pages from a PDF-file. |
+| [AsposePdfAddStamp](./organize/asposepdfaddstamp/) | Add stamp to a PDF-file. |
+| [AsposePdfAddImage](./organize/asposepdfaddimage/) | Add image to end a PDF-file. |
+| [AsposePdfAddPageNum](./organize/asposepdfaddpagenum/) | Add page number to a PDF-file. |
+| [AsposePdfAddBackgroundImage](./organize/asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
+| [AsposePdfAddTextHeaderFooter](./organize/asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |
+
+
+## Metadata PDF functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposePdfSetInfo](./metadata/asposepdfsetinfo/) | Set info (metadata) in a PDF-file. |
+| [AsposePdfGetInfo](./metadata/asposepdfgetinfo/) | Get info (metadata) from a PDF-file. |
+| [AsposePdfGetAllFonts](./metadata/asposepdfgetallfonts/) | Get list fonts a PDF-file. |
+
+
+## Security PDF functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposePdfEncrypt](./security/asposepdfencrypt/) | Encrypt a PDF-file. |
+| [AsposePdfDecrypt](./security/asposepdfdecrypt/) | Decrypt a PDF-file. |
+| [AsposePdfSignPKCS7](./security/asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
+
+
 ## Core Functions
 
 | Function | Description |
 | -------- | ----------- |
 | [AsposePdfPrepare](./core/asposepdfprepare/) | Save the BLOB in the Memory FS for processing. |
 | [AsposePdfPrepareBase64](./core/asposepdfpreparebase64/) | Save the string representation BLOB in the Memory FS for processing. |
-| [AsposePdfAddImage](./core/asposepdfaddimage/) | Add image to end PDF file. |
-| [AsposePdfAddStamp](./core/asposepdfaddstamp/) | Add stamp to PDF file. |
-| [AsposePdfDecrypt](./core/asposepdfdecrypt/) | Decrypt PDF file. |
-| [AsposePdfEncrypt](./core/asposepdfencrypt/) | Encrypt PDF file. |
-| [AsposePdfExtractText](./core/asposepdfextracttext/) | Extract text from PDF file.|
-| [AsposePdfMerge2Files](./core/asposepdfmerge2files/) | Merge two PDF files. |
-| [AsposePdfOptimize](./core/asposepdfoptimize/) | Optimize PDF file. |
-| [AsposePdfPagesToJpg](./core/asposepdfpagestojpg/) | Convert PDF file to JPEG files. |
-| [AsposePdfPagesToPng](./core/asposepdfpagestopng/) | Convert PDF file to PNG files. |
-| [AsposePdfSplit2Files](./core/asposepdfsplit2files/) | Split PDF into 2 files (parts). |
-| [AsposePdfDeletePages](./core/asposepdfdeletepages/) | Delete pages from PDF file. |
-| [AsposePdfAddPageNum](./core/asposepdfaddpagenum/) | Add page number to PDF file. |
-| [AsposePdfAddBackgroundImage](./core/asposepdfaddbackgroundimage/) | Add background image to PDF file. |
-| [AsposePdfGetInfo](./core/asposepdfgetinfo/) | Get info (metadata) from PDF file. |
-| [AsposePdfSetInfo](./core/asposepdfsetinfo/) | Set info (metadata) in PDF file. |
-| [AsposePdfGetAllFonts](./core/asposepdfgetallfonts/) | Get list fonts of PDF file. |
-| [AsposePdfAddTextHeaderFooter](./core/asposepdfaddtextheaderfooter/) | Add text in Header/Footer of PDF file. |
-| [AsposePdfRotateAllPages](./core/asposepdfrotateallpages/) | Rotate PDF pages. |
-| [AsposePdfConvertToGrayscale](./core/asposepdfconverttograyscale/) | Convert PDF to grayscale. |
-| [AsposePdfSignPKCS7](./core/asposepdfsignpkcs7/) | Sign PDF with digital signatures. |
-| [AsposePdfConvertToPDFA](./core/asposepdfconverttopdfa/) | Convert a PDF-file to PDF/A. |
-| [AsposePdfAConvertToPDF](./core/asposepdfaconverttopdf/) | Convert a PDF/A-file to PDF. |
-| [AsposePdfToDocX](./core/asposepdftodocx/) | Convert a PDF-file to DocX. |
-| [AsposePdfToXlsX](./core/asposepdftoxlsx/) | Convert a PDF-file to XlsX. |
+
 
 ## Miscellaneous
 

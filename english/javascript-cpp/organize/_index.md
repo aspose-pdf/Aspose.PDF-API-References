@@ -1,0 +1,39 @@
+---
+title: "Organize PDF functions"
+second_title: Aspose.PDF for JavaScript via C++
+description:  "Functions for organizing PDF files."
+type: docs
+url: /javascript-cpp/organize/
+---
+
+## Organize PDF functions
+
+|      Name      |  Description   |
+| -------------- | -------------- |
+| [AsposePdfOptimize](./asposepdfoptimize/) | Optimize a PDF-file. |
+| [AsposePdfMerge2Files](./asposepdfmerge2files/) | Merge two PDF-files. |
+| [AsposePdfSplit2Files](./asposepdfsplit2files/) | Split to two PDF-files. |
+| [AsposePdfRotateAllPages](./asposepdfrotateallpages/) | Rotate PDF-pages. |
+| [AsposePdfDeletePages](./asposepdfdeletepages/) | Delete pages from a PDF-file. |
+| [AsposePdfAddStamp](./asposepdfaddstamp/) | Add stamp to a PDF-file. |
+| [AsposePdfAddImage](./asposepdfaddimage/) | Add image to end a PDF-file. |
+| [AsposePdfAddPageNum](./asposepdfaddpagenum/) | Add page number to a PDF-file. |
+| [AsposePdfAddBackgroundImage](./asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
+| [AsposePdfAddTextHeaderFooter](./asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |
+
+## Detailed Description
+
+Functions for organizing PDF files.
+
+```html
+<!-- Load and initiate Aspose.PDF for JavaScript via C++ -->
+<script type="text/javascript" async src="AsposePDFforJS.js"></script>
+```
+or
+```js
+/* Web Worker*/
+const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+```
+
+
+Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS) to manipulate PDF files.
