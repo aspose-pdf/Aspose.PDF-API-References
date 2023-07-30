@@ -1,21 +1,22 @@
 ---
-title: "Core functions"
+title: "Security PDF functions"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Core functions for working with PDF files."
+description:  "Functions for working with security features PDF files."
 type: docs
-url: /javascript-cpp/core/
+url: /javascript-cpp/security/
 ---
 
-## Core Functions
+## Security PDF functions
 
 |      Name      |  Description   |
 | -------------- | -------------- |
-| [AsposePdfPrepare](./asposepdfprepare/) | Save the BLOB in the Memory FS for processing. |
-| [AsposePdfPrepareBase64](./asposepdfpreparebase64/) | Save the string representation BLOB in the Memory FS for processing. |
+| [AsposePdfEncrypt](./asposepdfencrypt/) | Encrypt a PDF-file. |
+| [AsposePdfDecrypt](./asposepdfdecrypt/) | Decrypt a PDF-file. |
+| [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
 
 ## Detailed Description
 
-Core functions for working with PDF files.
+Functions for working with security features PDF files.
 
 ```html
 <!-- Load and initiate Aspose.PDF for JavaScript via C++ -->
