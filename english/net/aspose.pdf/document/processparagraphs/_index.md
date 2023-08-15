@@ -3,7 +3,7 @@ title: ProcessParagraphs
 second_title: Aspose.PDF for .NET API Reference
 description: Process paragraphs for generator.
 type: docs
-weight: 690
+weight: 700
 url: /net/aspose.pdf/document/processparagraphs/
 ---
 ## Document.ProcessParagraphs method

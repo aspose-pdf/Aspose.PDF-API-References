@@ -82,10 +82,13 @@ public class CheckboxField : Field
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/widgetannotation/accept)(AnnotationSelector) | Accepts visitor. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption#addoption)(string) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption#addoption_1)(string, Rectangle) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | override [Clone](../../aspose.pdf.forms/checkboxfield/clone)() | Clone the checkbox. |
-| [CopyTo](../../aspose.pdf.forms/field/copyto)(Field[], int) | Copies subfields of this field into array starting from specified index. |
+| [CopyTo](../../aspose.pdf.forms/field/copyto)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
 | override [Flatten](../../aspose.pdf.forms/field/flatten)() | Removes this field and place its value directly on the page. |
+| [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename)() | Returns name of "checked" state according to existing state names. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator)() | Returns enumerator of contained fields. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 | [Recalculate](../../aspose.pdf.forms/field/recalculate)() | Recaculates all calculated fields on the form. |

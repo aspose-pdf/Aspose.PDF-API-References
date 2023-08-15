@@ -3,7 +3,7 @@ title: SetPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Move all subitems of radio button to specified positins on the page.
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.forms/radiobuttonfield/setposition/
 ---
 ## RadioButtonField.SetPosition method

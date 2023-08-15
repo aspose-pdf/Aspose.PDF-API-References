@@ -3,7 +3,7 @@ title: SaveOptions.HtmlBorderLineType
 second_title: Aspose.PDF for .NET API Reference
 description: Represents line types that can be used in result document for drawing borders or another lines
 type: docs
-weight: 7010
+weight: 7020
 url: /net/aspose.pdf/saveoptions.htmlborderlinetype/
 ---
 ## SaveOptions.HtmlBorderLineType enumeration

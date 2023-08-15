@@ -3,7 +3,7 @@ title: PdfExtractorToTextOptions.TextFormattingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Defines different modes which can be used while converting a PDF document into text. See PdfExtractorToTextOptions./pdfextractortotextoptions class.
 type: docs
-weight: 6470
+weight: 6440
 url: /net/aspose.pdf.plugins/pdfextractortotextoptions.textformattingmode/
 ---
 ## PdfExtractorToTextOptions.TextFormattingMode enumeration

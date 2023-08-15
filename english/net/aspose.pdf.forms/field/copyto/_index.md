@@ -11,16 +11,17 @@ url: /net/aspose.pdf.forms/field/copyto/
 Copies subfields of this field into array starting from specified index.
 
 ```csharp
-public void CopyTo(Field[] array, int index)
+public void CopyTo(WidgetAnnotation[] array, int index)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | Field[] | Array where field must be copied. |
+| array | WidgetAnnotation[] | Array where field must be copied. |
 | index | Int32 | Starting index where fields will be copied. |
 
 ### See Also
 
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation)
 * class [Field](../../field)
 * namespace [Aspose.Pdf.Forms](../../field)
 * assembly [Aspose.PDF](../../../)

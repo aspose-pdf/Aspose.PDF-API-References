@@ -3,7 +3,7 @@ title: PdfGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Represents PdfGenerator plugin.
 type: docs
-weight: 6590
+weight: 6560
 url: /net/aspose.pdf.plugins/pdfgenerator/
 ---
 ## PdfGenerator class

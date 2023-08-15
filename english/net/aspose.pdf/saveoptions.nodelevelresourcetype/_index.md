@@ -3,7 +3,7 @@ title: SaveOptions.NodeLevelResourceType
 second_title: Aspose.PDF for .NET API Reference
 description: enumerates possible types of saved external resources
 type: docs
-weight: 7040
+weight: 7050
 url: /net/aspose.pdf/saveoptions.nodelevelresourcetype/
 ---
 ## SaveOptions.NodeLevelResourceType enumeration

@@ -3,7 +3,7 @@ title: PsLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents options for loading/importing of .mht-file into pdf document.
 type: docs
-weight: 6860
+weight: 6870
 url: /net/aspose.pdf/psloadoptions/
 ---
 ## PsLoadOptions class

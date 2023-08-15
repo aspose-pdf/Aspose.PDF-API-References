@@ -3,7 +3,7 @@ title: PdfExtractorToTextOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents text extraction options for the PdfExtractor plugin.
 type: docs
-weight: 6460
+weight: 6430
 url: /net/aspose.pdf.plugins/pdfextractortotextoptions/
 ---
 ## PdfExtractorToTextOptions class

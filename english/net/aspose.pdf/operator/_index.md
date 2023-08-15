@@ -25,9 +25,8 @@ public abstract class Operator
 | Name | Description |
 | --- | --- |
 | abstract [Accept](../../aspose.pdf/operator/accept)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
-| override [Equals](../../aspose.pdf/operator/equals#equals_1)(object) | Compares this instance with the given object. |
-| [Equals](../../aspose.pdf/operator/equals#equals)(Operator) | Compares this instance with the given object. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals)(Operator) | Compares this instance with the given object. |
 | static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 
 ### See Also

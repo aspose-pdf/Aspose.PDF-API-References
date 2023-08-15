@@ -3,7 +3,7 @@ title: TextFragment
 second_title: Aspose.PDF for .NET API Reference
 description: Represents fragment of Pdf text.
 type: docs
-weight: 7790
+weight: 7800
 url: /net/aspose.pdf.text/textfragment/
 ---
 ## TextFragment class

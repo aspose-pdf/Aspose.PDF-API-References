@@ -1,14 +1,14 @@
 ---
 title: GetConsumptionQuantity
 second_title: Aspose.PDF for .NET API Reference
-description: Gets consumption file size
+description: Gets consumption file size.
 type: docs
 weight: 40
 url: /net/aspose.pdf/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
 
-Gets consumption file size
+Gets consumption file size.
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -16,7 +16,7 @@ public static decimal GetConsumptionQuantity()
 
 ### Return Value
 
-consumption quantity
+Consumption quantity.
 
 ### See Also
 

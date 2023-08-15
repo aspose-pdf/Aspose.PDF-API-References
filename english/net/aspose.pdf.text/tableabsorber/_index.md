@@ -3,7 +3,7 @@ title: TableAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Represents an absorber object of table elements. Performs search and provides access to search results via TableList./tableabsorber/tablelist collection.
 type: docs
-weight: 7640
+weight: 7650
 url: /net/aspose.pdf.text/tableabsorber/
 ---
 ## TableAbsorber class
@@ -27,7 +27,7 @@ public class TableAbsorber
 | --- | --- |
 | virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist) { get; } | Returns readonly IList containing tables that were found |
 | virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions) { get; set; } | Gets or sets text search options. |
-| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine) { get; set; } | * Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesn't support editing tables and getting text styles yet. Default value is false; |
+| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine) { get; set; } | * Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders. Doesn't support editing tables and getting text styles yet. Default value is false; |
 
 ## Methods
 

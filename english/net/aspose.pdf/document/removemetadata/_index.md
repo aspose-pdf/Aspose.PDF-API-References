@@ -3,7 +3,7 @@ title: RemoveMetadata
 second_title: Aspose.PDF for .NET API Reference
 description: Removes metadata from the document.
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.pdf/document/removemetadata/
 ---
 ## Document.RemoveMetadata method

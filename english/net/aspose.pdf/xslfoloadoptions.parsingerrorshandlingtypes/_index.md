@@ -3,7 +3,7 @@ title: XslFoLoadOptions.ParsingErrorsHandlingTypes
 second_title: Aspose.PDF for .NET API Reference
 description: Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handling of such formatting errors
 type: docs
-weight: 8310
+weight: 8340
 url: /net/aspose.pdf/xslfoloadoptions.parsingerrorshandlingtypes/
 ---
 ## XslFoLoadOptions.ParsingErrorsHandlingTypes enumeration

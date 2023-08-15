@@ -3,7 +3,7 @@ title: XfaTag
 second_title: Aspose.PDF for .NET API Reference
 description: The xfa stream tag
 type: docs
-weight: 8150
+weight: 8180
 url: /net/aspose.pdf/xfatag/
 ---
 ## XfaTag enumeration

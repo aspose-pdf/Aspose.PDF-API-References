@@ -32,9 +32,8 @@ public class CurveTo1 : Operator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/curveto1/accept)(IOperatorSelector) | Accepts operator selector. |
-| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
-| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

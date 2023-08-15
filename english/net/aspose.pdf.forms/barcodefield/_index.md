@@ -92,8 +92,9 @@ public sealed class BarcodeField : TextBoxField
 | [AddImage](../../aspose.pdf.forms/textboxfield/addimage)(Image) | Adds image into the field resources and draws it. |
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Clones this instance. Virtual method. Always return null. |
-| [CopyTo](../../aspose.pdf.forms/field/copyto)(Field[], int) | Copies subfields of this field into array starting from specified index. |
+| [CopyTo](../../aspose.pdf.forms/field/copyto)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
 | override [Flatten](../../aspose.pdf.forms/field/flatten)() | Removes this field and place its value directly on the page. |
+| [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename)() | Returns name of "checked" state according to existing state names. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator)() | Returns enumerator of contained fields. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 | [Recalculate](../../aspose.pdf.forms/field/recalculate)() | Recaculates all calculated fields on the form. |

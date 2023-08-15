@@ -3,7 +3,7 @@ title: CustomFontSubstitutionBase
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a base class for custom font substitution strategy.
 type: docs
-weight: 7340
+weight: 7350
 url: /net/aspose.pdf.text/customfontsubstitutionbase/
 ---
 ## CustomFontSubstitutionBase class

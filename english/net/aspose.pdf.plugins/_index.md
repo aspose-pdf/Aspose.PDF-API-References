@@ -40,7 +40,10 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [PdfFormTextBoxFieldSetOptions](./pdfformtextboxfieldsetoptions) | Represents options for set properties in TextBoxField. |
 | [PdfGenerator](./pdfgenerator) | Represents PdfGenerator plugin. |
 | [PdfGeneratorOptions](./pdfgeneratoroptions) | Represents options for [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator) plugin. |
+| [PdfGeneratorTableBuilder](./pdfgeneratortablebuilder) | Class represents builder for table in pdf page. |
+| [PdfGeneratorTableCellBuilder](./pdfgeneratortablecellbuilder) | Class represents builder for table cell. |
 | [PdfGeneratorTableOptions](./pdfgeneratortableoptions) | Represents options for add datatable to document by [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator) plugin. |
+| [PdfGeneratorTableRowBuidler](./pdfgeneratortablerowbuidler) | Class represents builder for table row. |
 | [PdfGeneratorTOCOptions](./pdfgeneratortocoptions) | Represents options for add table of contents to document by [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator) plugin. |
 | [PdfImage](./pdfimage) | Represents PdfImage plugin. |
 | [PdfImageOptions](./pdfimageoptions) | Represents options for the PdfImage plugin. |
@@ -48,6 +51,7 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [PdfOrganizer](./pdforganizer) | Represents PdfOrganizer plugin. |
 | [PdfOrganizerCompressOptions](./pdforganizercompressoptions) | Represents Compress options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [PdfOrganizerMergeOptions](./pdforganizermergeoptions) | Represents Merge options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
+| [PdfOrganizerOptimizeOptions](./pdforganizeroptimizeoptions) | Represents Optimize options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [PdfOrganizerOptions](./pdforganizeroptions) | Represents options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [PdfOrganizerResizeOptions](./pdforganizerresizeoptions) | Represents Resize options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
 | [PdfOrganizerRotateOptions](./pdforganizerrotateoptions) | Represents Rotate options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer) plugin. |
