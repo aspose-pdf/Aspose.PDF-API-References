@@ -33,9 +33,8 @@ public class SelectFont : TextStateOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/selectfont/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
-| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [ToString](../../aspose.pdf.operators/selectfont/tostring)() | Returns text representation of operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

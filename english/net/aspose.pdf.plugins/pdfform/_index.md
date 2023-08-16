@@ -3,7 +3,7 @@ title: PdfForm
 second_title: Aspose.PDF for .NET API Reference
 description: Represents PdfForm plugin.
 type: docs
-weight: 6480
+weight: 6450
 url: /net/aspose.pdf.plugins/pdfform/
 ---
 ## PdfForm class

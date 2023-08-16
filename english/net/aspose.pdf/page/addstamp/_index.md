@@ -3,7 +3,7 @@ title: AddStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Put stamp into page. Stamp can be page number image or simple text e.g. some logo.
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.pdf/page/addstamp/
 ---
 ## Page.AddStamp method

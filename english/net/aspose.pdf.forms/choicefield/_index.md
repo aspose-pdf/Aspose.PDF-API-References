@@ -86,9 +86,10 @@ public abstract class ChoiceField : Field
 | virtual [AddOption](../../aspose.pdf.forms/choicefield/addoption#addoption_1)(string, string) | Adds new option with specified export value and name. |
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Clones this instance. Virtual method. Always return null. |
-| [CopyTo](../../aspose.pdf.forms/field/copyto)(Field[], int) | Copies subfields of this field into array starting from specified index. |
+| [CopyTo](../../aspose.pdf.forms/field/copyto)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
 | virtual [DeleteOption](../../aspose.pdf.forms/choicefield/deleteoption)(string) | Deletes option by its name. |
 | override [Flatten](../../aspose.pdf.forms/field/flatten)() | Removes this field and place its value directly on the page. |
+| [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename)() | Returns name of "checked" state according to existing state names. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator)() | Returns enumerator of contained fields. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 | [Recalculate](../../aspose.pdf.forms/field/recalculate)() | Recaculates all calculated fields on the form. |

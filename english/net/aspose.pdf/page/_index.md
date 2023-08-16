@@ -58,17 +58,17 @@ public sealed class Page : IDisposable
 | [Accept](../../aspose.pdf/page/accept#accept_1)(ImagePlacementAbsorber) | Accepts [`ImagePlacementAbsorber`](../imageplacementabsorber) visitor object that provides functionality to work with image placement objects. |
 | [Accept](../../aspose.pdf/page/accept#accept_2)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber) visitor object that provides functionality to work with text objects. |
 | [Accept](../../aspose.pdf/page/accept#accept_3)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber) visitor object that provides functionality to work with text objects. |
+| [AddGraphics](../../aspose.pdf/page/addgraphics)(GraphicElementCollection, Rectangle) | Adds graphics to the page. Works faster than adding elements one by one with [`AddOnPage`](../../aspose.pdf.vector/graphicelement/addonpage) method. |
 | [AddImage](../../aspose.pdf/page/addimage#addimage)(Stream, Rectangle) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](../../aspose.pdf/page/addimage#addimage_2)(string, Rectangle) | Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](../../aspose.pdf/page/addimage#addimage_3)(string, Stream, Rectangle) | Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion. |
 | [AddImage](../../aspose.pdf/page/addimage#addimage_1)(Stream, Rectangle, int, int, bool) | Adds image on page and places it depend on image rectangle position. |
 | [AddStamp](../../aspose.pdf/page/addstamp)(Stamp) | Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo. |
-| [AddVectorGraphics](../../aspose.pdf/page/addvectorgraphics)(SubPathCollection, Rectangle) | Adds vector graphics inside given rectangle to the page. |
 | [AsByteArray](../../aspose.pdf/page/asbytearray)(Resolution) | Converts current page as bitmap and than returns array of bytes. |
 | [AsXml](../../aspose.pdf/page/asxml)() | Converts current page as xml in utf8 encoding. |
 | [CalculateContentBBox](../../aspose.pdf/page/calculatecontentbbox)() | Calculates bbox value - rectangle containing contents without visible margins. |
 | [ConvertToPNGMemoryStream](../../aspose.pdf/page/converttopngmemorystream)() | Convert page to PNG for DSR, OMR, OCR image stream. |
-| [DeleteVectorGraphics](../../aspose.pdf/page/deletevectorgraphics)(SubPathCollection) | Deletes vector graphics from the page. |
+| [DeleteGraphics](../../aspose.pdf/page/deletegraphics)(GraphicElementCollection) | Deletes graphics from the page. Works faster than deleting elements one by one with [`Remove`](../../aspose.pdf.vector/graphicelement/remove) method. |
 | [Dispose](../../aspose.pdf/page/dispose)() | Frees up memory |
 | [Flatten](../../aspose.pdf/page/flatten)() | Removes all fields located on the page and place their values instead. |
 | [FreeMemory](../../aspose.pdf/page/freememory)() | Clears cached data |

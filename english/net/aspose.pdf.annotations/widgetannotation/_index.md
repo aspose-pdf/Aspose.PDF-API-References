@@ -66,6 +66,7 @@ public class WidgetAnnotation : Annotation
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone)() | Clones this instance. Virtual method. Always return null. |
 | virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten)() | Places annotation contents directly on the page, annotation object will be removed. |
+| [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename)() | Returns name of "checked" state according to existing state names. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 
 ### See Also

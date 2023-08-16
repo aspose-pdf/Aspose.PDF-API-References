@@ -53,6 +53,7 @@ public sealed class Form : ICollection<WidgetAnnotation>
 | [GetFieldsInRect](../../aspose.pdf.forms/form/getfieldsinrect)(Rectangle) | Returns fields inside of specified rectangle. |
 | [HasField](../../aspose.pdf.forms/form/hasfield#hasfield)(Field) | Check if the form already has specified field. |
 | [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_1)(string) | Determines if the field with specified name already added to the Form. |
+| [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_2)(string, bool) | Determines if the field with specified name already added to the Form, with ability to look into children hierarchy of fields. |
 
 ## Fields
 

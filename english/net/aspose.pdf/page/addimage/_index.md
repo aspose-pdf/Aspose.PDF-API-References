@@ -3,7 +3,7 @@ title: AddImage
 second_title: Aspose.PDF for .NET API Reference
 description: Adds image onto the page and locates it in the middle of specified rectangle saving images proportion.
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.pdf/page/addimage/
 ---
 ## AddImage(Stream, Rectangle) {#addimage}

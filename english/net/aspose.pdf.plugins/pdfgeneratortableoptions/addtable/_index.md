@@ -16,11 +16,11 @@ public PdfGeneratorTableBuilder AddTable()
 
 ### Return Value
 
-New instance of [`PdfGeneratorTableBuilder`](../../../aspose.pdf.plugins.generator/pdfgeneratortablebuilder).
+New instance of [`PdfGeneratorTableBuilder`](../../pdfgeneratortablebuilder).
 
 ### See Also
 
-* class [PdfGeneratorTableBuilder](../../../aspose.pdf.plugins.generator/pdfgeneratortablebuilder)
+* class [PdfGeneratorTableBuilder](../../pdfgeneratortablebuilder)
 * class [PdfGeneratorTableOptions](../../pdfgeneratortableoptions)
 * namespace [Aspose.Pdf.Plugins](../../pdfgeneratortableoptions)
 * assembly [Aspose.PDF](../../../)

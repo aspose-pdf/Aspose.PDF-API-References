@@ -3,7 +3,7 @@ title: ImportAnnotationsFromXfdf
 second_title: Aspose.PDF for .NET API Reference
 description: Imports annotations from XFDF file to document.
 type: docs
-weight: 650
+weight: 660
 url: /net/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}

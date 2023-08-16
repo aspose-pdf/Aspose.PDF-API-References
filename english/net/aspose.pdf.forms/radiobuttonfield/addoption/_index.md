@@ -3,7 +3,7 @@ title: AddOption
 second_title: Aspose.PDF for .NET API Reference
 description: Add to radio button option with specifed rectangle.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.forms/radiobuttonfield/addoption/
 ---
 ## AddOption(string, Rectangle) {#addoption_1}

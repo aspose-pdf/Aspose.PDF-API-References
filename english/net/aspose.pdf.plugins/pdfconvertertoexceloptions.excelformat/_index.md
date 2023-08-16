@@ -3,7 +3,7 @@ title: PdfConverterToExcelOptions.ExcelFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Allows to specify .xlsx .xls/xml or csv file format. Default value is XLSX.
 type: docs
-weight: 6390
+weight: 6360
 url: /net/aspose.pdf.plugins/pdfconvertertoexceloptions.excelformat/
 ---
 ## PdfConverterToExcelOptions.ExcelFormat enumeration

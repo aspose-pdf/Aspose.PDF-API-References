@@ -35,10 +35,9 @@ public class SetRGBColor : SetColorOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setrgbcolor/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
-| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [getColor](../../aspose.pdf.operators/setrgbcolor/getcolor)() | Returns color specified by operator. |
 | override [ToString](../../aspose.pdf.operators/setrgbcolor/tostring)() | Returns text representation of the operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

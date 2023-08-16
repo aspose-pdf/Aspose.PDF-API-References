@@ -3,7 +3,7 @@ title: Clone
 second_title: Aspose.PDF for .NET API Reference
 description: Clone the checkbox.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.forms/checkboxfield/clone/
 ---
 ## CheckboxField.Clone method

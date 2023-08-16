@@ -36,7 +36,7 @@ public sealed class ImagePlacementAbsorber
 
 ### Remarks
 
-The [`ImagePlacementAbsorber`](../imageplacementabsorber) object is basically used in images search scenario. When the search is completed the occurrences are represented with [`ImagePlacement`](../imageplacement) objects that the [`ImagePlacements`](./imageplacements) collection contains. The [`ImagePlacement`](../imageplacement) object provides access to the image placement properties: dimensions, resolution etc.
+The [`ImagePlacementAbsorber`](../imageplacementabsorber) object is basically used in images search scenario. When the search is completed the occurrences are represented with [`ImagePlacement`](../imageplacement) objects that the [`ImagePlacements`](./imageplacements) collection contains. The [`ImagePlacement`](../imageplacement) object provides access to the image placement properties: dimensions, resolution etc. Image positive rotation is counterclockwise, for the page, it is clockwise. Here, we need to represent the image rotation angle, so we deduct the page angle from the image angle.
 
 ### Examples
 

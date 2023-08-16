@@ -3,7 +3,7 @@ title: PdfExtractorToImageOptions.ImageExtractionMode
 second_title: Aspose.PDF for .NET API Reference
 description: Defines different modes which can be used while extracting images from PDF document. See PdfExtractorToImageOptions./pdfextractortoimageoptions class.
 type: docs
-weight: 6450
+weight: 6420
 url: /net/aspose.pdf.plugins/pdfextractortoimageoptions.imageextractionmode/
 ---
 ## PdfExtractorToImageOptions.ImageExtractionMode enumeration

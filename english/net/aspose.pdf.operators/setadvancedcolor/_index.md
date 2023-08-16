@@ -20,7 +20,9 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 | --- | --- |
 | [SetAdvancedColor](setadvancedcolor#constructor)() | Initializes operator. |
 | [SetAdvancedColor](setadvancedcolor#constructor_1)(double) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor#constructor_6)(string) | Constructor for scn operator. |
 | [SetAdvancedColor](setadvancedcolor#constructor_4)(double, string) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor#constructor_5)(double[], string) | Constructor for scn operator. |
 | [SetAdvancedColor](setadvancedcolor#constructor_3)(double, double, double, string) | Constructor for scn operator. |
 | [SetAdvancedColor](setadvancedcolor#constructor_2)(double, double, double, double, string) | Constructor for scn operator. |
 
@@ -45,10 +47,9 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
-| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor)() | Returns color specified by operator. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

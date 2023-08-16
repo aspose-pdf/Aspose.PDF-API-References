@@ -3,7 +3,7 @@ title: Rows
 second_title: Aspose.PDF for .NET API Reference
 description: Represents a rows collection of table.
 type: docs
-weight: 6950
+weight: 6960
 url: /net/aspose.pdf/rows/
 ---
 ## Rows class

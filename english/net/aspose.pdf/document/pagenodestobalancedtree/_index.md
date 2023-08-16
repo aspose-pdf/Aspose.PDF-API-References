@@ -3,7 +3,7 @@ title: PageNodesToBalancedTree
 second_title: Aspose.PDF for .NET API Reference
 description: Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects otherwise it does nothing.
 type: docs
-weight: 680
+weight: 690
 url: /net/aspose.pdf/document/pagenodestobalancedtree/
 ---
 ## Document.PageNodesToBalancedTree method

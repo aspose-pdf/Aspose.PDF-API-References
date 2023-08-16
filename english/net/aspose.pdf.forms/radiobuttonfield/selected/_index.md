@@ -3,7 +3,7 @@ title: Selected
 second_title: Aspose.PDF for .NET API Reference
 description: Gets or sets index of selected item. Numbering of items is started from 1.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.forms/radiobuttonfield/selected/
 ---
 ## RadioButtonField.Selected property

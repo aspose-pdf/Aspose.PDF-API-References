@@ -21,6 +21,7 @@ public class SetAdvancedColorStroke : BasicSetColorAndPatternOperator
 | [SetAdvancedColorStroke](setadvancedcolorstroke#constructor)() | Initializes operator. |
 | [SetAdvancedColorStroke](setadvancedcolorstroke#constructor_1)(double) | Constructor for scn operator |
 | [SetAdvancedColorStroke](setadvancedcolorstroke#constructor_4)(double, string) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](setadvancedcolorstroke#constructor_5)(double[], string) | Constructor for scn operator. |
 | [SetAdvancedColorStroke](setadvancedcolorstroke#constructor_3)(double, double, double, string) | Constructor for scn operator. |
 | [SetAdvancedColorStroke](setadvancedcolorstroke#constructor_2)(double, double, double, double, string) | Constructor for scn operator. |
 
@@ -45,10 +46,9 @@ public class SetAdvancedColorStroke : BasicSetColorAndPatternOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setadvancedcolorstroke/accept)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [Equals](../../aspose.pdf/operator/equals)(object) | Compares this instance with the given object. |
-| [Equals](../../aspose.pdf/operator/equals)(Operator) | Compares this instance with the given object. |
 | override [getColor](../../aspose.pdf.operators/setadvancedcolorstroke/getcolor)() | Returns color specified by operator. |
 | override [ToString](../../aspose.pdf/operator/tostring)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

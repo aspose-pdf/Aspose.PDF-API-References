@@ -3,7 +3,7 @@ title: StreamResult
 second_title: Aspose.PDF for .NET API Reference
 description: Represents operation result in the form of Stream.
 type: docs
-weight: 6770
+weight: 6780
 url: /net/aspose.pdf.plugins/streamresult/
 ---
 ## StreamResult class

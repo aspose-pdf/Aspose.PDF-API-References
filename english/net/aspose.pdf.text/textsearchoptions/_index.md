@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Represents text search options
 type: docs
-weight: 7890
+weight: 7900
 url: /net/aspose.pdf.text/textsearchoptions/
 ---
 ## TextSearchOptions class

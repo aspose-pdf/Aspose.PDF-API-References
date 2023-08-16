@@ -3,7 +3,7 @@ title: PdfConverterToHtmlOptions.SaveDataType
 second_title: Aspose.PDF for .NET API Reference
 description: Defines output type of HTML file.
 type: docs
-weight: 6410
+weight: 6380
 url: /net/aspose.pdf.plugins/pdfconvertertohtmloptions.savedatatype/
 ---
 ## PdfConverterToHtmlOptions.SaveDataType enumeration
