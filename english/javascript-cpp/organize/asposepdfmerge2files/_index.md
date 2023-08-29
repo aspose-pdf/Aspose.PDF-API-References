@@ -14,7 +14,7 @@ function AsposePdfMerge2Files(
     fileBlob2,
     fileName1,
     fileName2,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -23,7 +23,7 @@ function AsposePdfMerge2Files(
   * **fileBlob2** Blob object #2 
   * **fileName1** file name #1 
   * **fileName2** file name #2 
-  * **fileResultName** result file name 
+  * **fileNameResult** result file name 
 
 **Return**: 
 JSON object 

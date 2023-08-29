@@ -12,7 +12,7 @@ _Delete pages from a PDF-file._
 function AsposePdfDeletePages(
     fileBlob,
     fileName,
-    fileResultName,
+    fileNameResult,
     numPages
 )
 ```
@@ -21,7 +21,7 @@ function AsposePdfDeletePages(
 
 * **fileBlob** Blob object 
 * **fileName** file name 
-* **fileResultName** result file name
+* **fileNameResult** result file name
 * **numPages** page numbers:
   * string, include page numbers with intervals as "7, 20, 22, 30-32, 33, 36-40, 46"
   * array, array of page numbers, such as [1,3]

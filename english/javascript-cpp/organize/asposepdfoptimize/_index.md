@@ -12,7 +12,7 @@ _Optimize a PDF-file._
 function AsposePdfOptimize(
     fileBlob,
     fileName,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -20,7 +20,7 @@ function AsposePdfOptimize(
 
 * **fileBlob** Blob object 
 * **fileName** file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 JSON object 

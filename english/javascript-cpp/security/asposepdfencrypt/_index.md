@@ -16,7 +16,7 @@ function AsposePdfEncrypt(
     passwordOwner,
     permissions,
     cryptoAlgorithm,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -40,7 +40,7 @@ function AsposePdfEncrypt(
   * Module.CryptoAlgorithm.RC4x128
   * Module.CryptoAlgorithm.AESx128
   * Module.CryptoAlgorithm.AESx256 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**:
 

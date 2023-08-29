@@ -12,7 +12,7 @@ _Add page number to a PDF-file._
 function AsposePdfAddPageNum(
     fileBlob,
     fileName,
-    fileResultName
+    fileNameResult
 )
 ```
 
@@ -20,7 +20,7 @@ function AsposePdfAddPageNum(
 
 * **fileBlob** Blob object 
 * **fileName** file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 

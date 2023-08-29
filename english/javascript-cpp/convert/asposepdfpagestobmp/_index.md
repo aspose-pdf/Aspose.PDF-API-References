@@ -12,7 +12,7 @@ _Convert a PDF-file to BMP._
 function AsposePdfPagesToBmp(
     fileBlob,
     fileName,
-    fileResultName,
+    fileNameResult,
     resolution
 )
 ```
@@ -20,7 +20,7 @@ function AsposePdfPagesToBmp(
 **Parameters**: 
   * **fileBlob** Blob object 
   * **fileName** file name 
-  * **fileResultName** result file name template (for sample: "ResultPdfToBmp{0:D2}.bmp" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **fileNameResult** result file name template (for sample: "ResultPdfToBmp{0:D2}.bmp" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
   * **resolution** image resolution, default 300 dpi
 
 **Return**: 

@@ -40,7 +40,7 @@ function AsposePdfAddStamp(
   * Module.Rotation.on180
   * Module.Rotation.on270 
 * **setOpacity** opacity stamp (decimal) 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**:
 

@@ -1,15 +1,15 @@
 ---
-title: "AsposePdfPagesToSvg"
+title: "AsposePdfRepair"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Convert a PDF-file to SVG."
+description:  "Repair a PDF-file."
 type: docs
-url: /javascript-cpp/convert/asposepdfpagestosvg/
+url: /javascript-cpp/organize/asposepdfrepair/
 ---
 
-_Convert a PDF-file to SVG._
+_Repair a PDF-file._
 
-```
-function AsposePdfPagesToSvg(
+```js
+function AsposePdfRepair(
     fileBlob,
     fileName,
     fileNameResult
@@ -17,35 +17,32 @@ function AsposePdfPagesToSvg(
 ```
 
 **Parameters**: 
-  * **fileBlob** Blob object 
-  * **fileName** file name 
-  * **fileNameResult** result file name
+
+* **fileBlob** Blob object 
+* **fileName** file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 JSON object 
   * **errorCode** - code error (0 no error)
   * **errorText** - text error ("" no error)
-  * **filesCount** - png files count
-  * **filesNameResult** - array of result filenames
-
+  * **fileNameResult** - result file name
 
 
 **Example**:
 ```js
-  var ffileToSvg = function (e) {
+  var ffilePdfRepair = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Convert a PDF-file to SVG*/
-      const json = AsposePdfPagesToSvg(event.target.result, e.target.files[0].name, "ResultPdfToSvg.svg");
-      if (json.errorCode == 0) {
-        document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
-        /*Make links to result files*/
-        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/svg");
-      }
+      /*Repair a PDF-file and save the "ResultPdfRepair.pdf"*/
+      const json = AsposePdfRepair(event.target.result, e.target.files[0].name, "ResultPdfRepair.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
-    }
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
     file_reader.readAsArrayBuffer(e.target.files[0]);
-  }
+  };
 ```
 **Web Worker**:
 ```js
@@ -54,17 +51,14 @@ JSON object
   AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
   AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
     (evt.data == 'ready') ? 'loaded!' :
-      (evt.data.json.errorCode == 0) ? 
-        `Files(pages) count: ${evt.data.json.filesCount.toString()}\n${evt.data.params.forEach(
-          (element, index) => DownloadFile(evt.data.json.filesNameResult[index], "image/svg", element) ) ?? ""}` : 
-        `Error: ${evt.data.json.errorText}`;
+      (evt.data.json.errorCode == 0) ? `Result:\n${DownloadFile(evt.data.json.fileNameResult, "application/pdf", evt.data.params[0])}` : `Error: ${evt.data.json.errorText}`;
 
   /*Event handler*/
-  const ffileToSvg = e => {
+  const ffilePdfRepair = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Convert a PDF-file to SVG - Ask Web Worker*/
-      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfPagesToSvg', "params": [event.target.result, e.target.files[0].name, "ResultPdfToSvg.svg"] }, [event.target.result]);
+      /*Repair a PDF-file and save the "ResultPdfRepair.pdf" - Ask Web Worker*/
+      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfRepair', "params": [event.target.result, e.target.files[0].name, "ResultPdfRepair.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };

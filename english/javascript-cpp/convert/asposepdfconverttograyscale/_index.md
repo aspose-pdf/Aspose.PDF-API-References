@@ -12,7 +12,7 @@ _Convert a PDF-file to grayscale._
 function AsposePdfConvertToGrayscale(
     fileBlob,
     fileName,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -20,7 +20,7 @@ function AsposePdfConvertToGrayscale(
 
 * **fileBlob** Blob object 
 * **fileName** file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 JSON object 

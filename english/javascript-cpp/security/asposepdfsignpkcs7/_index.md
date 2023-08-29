@@ -44,7 +44,7 @@ function AsposePdfSignPKCS7(
 * **location** location
 * **isVisible** visible (1 or 0)
 * **signatureAppearance** image (Sign Appearance) file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**:
 

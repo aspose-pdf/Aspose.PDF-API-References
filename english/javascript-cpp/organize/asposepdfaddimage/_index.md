@@ -13,7 +13,7 @@ function AsposePdfAddImage(
     fileBlob,
     fileName,
     fileImage,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -22,7 +22,7 @@ function AsposePdfAddImage(
 * **fileBlob** Blob object 
 * **fileName** file name 
 * **fileImage** image file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 JSON object 

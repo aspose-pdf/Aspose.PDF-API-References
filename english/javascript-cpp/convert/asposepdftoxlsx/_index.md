@@ -12,7 +12,7 @@ _Convert a PDF-file to XlsX._
 function AsposePdfToXlsX(
     fileBlob,
     fileName,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -20,7 +20,7 @@ function AsposePdfToXlsX(
 
 * **fileBlob** Blob object 
 * **fileName** file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 JSON object 

@@ -13,8 +13,8 @@ function AsposePdfSplit2Files(
     fileBlob,
     fileName,
     pageToSplit,
-    fileResultName1,
-    fileResultName2 
+    fileNameResult1,
+    fileNameResult2 
 )
 ```
 
@@ -23,8 +23,8 @@ function AsposePdfSplit2Files(
 * **fileBlob** Blob object 
 * **fileName** file name 
 * **pageToSplit** number page for split 
-* **fileResultName1** result file name #1 
-* **fileResultName2** result file name #2 
+* **fileNameResult1** result file name #1 
+* **fileNameResult2** result file name #2 
 
 **Return**:
 

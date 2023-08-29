@@ -13,7 +13,7 @@ function AsposePdfConvertToPDFA(
     fileBlob,
     fileName,
     pdfFormat,
-    fileResultName,
+    fileNameResult,
     fileNameLogResult
 )
 ```
@@ -30,7 +30,7 @@ function AsposePdfConvertToPDFA(
   * Module.PdfFormat.PDF_A_2U
   * Module.PdfFormat.PDF_A_3B
   * Module.PdfFormat.PDF_A_3U
-* **fileResultName** result file name
+* **fileNameResult** result file name
 * **fileNameLogResult** result Log (xml) file name
 
 **Return**: 

@@ -12,7 +12,7 @@ _Convert a PDF/A-file to PDF._
 function AsposePdfAConvertToPDF(
     fileBlob,
     fileName,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -20,7 +20,7 @@ function AsposePdfAConvertToPDF(
 
 * **fileBlob** Blob object 
 * **fileName** file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 JSON object 

@@ -12,7 +12,7 @@ _Convert a PDF-file to JPG._
 function AsposePdfPagesToJpg(
     fileBlob,
     fileName,
-    fileResultName,
+    fileNameResult,
     resolution
 )
 ```
@@ -20,7 +20,7 @@ function AsposePdfPagesToJpg(
 **Parameters**: 
   * **fileBlob** Blob object 
   * **fileName** file name 
-  * **fileResultName** result file name template (for sample: "ResultPdfToJpg{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **fileNameResult** result file name template (for sample: "ResultPdfToJpg{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
   * **resolution** image resolution, default 300 dpi
 
 **Return**: 
@@ -65,7 +65,6 @@ JSON object
   const ffileToJpg = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      const password = 'owner';
       /*Convert a PDF-file to JPG with template "ResultPdfToJpg{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number),
         resolution 150 DPI and save - Ask Web Worker*/
       AsposePDFWebWorker.postMessage(
