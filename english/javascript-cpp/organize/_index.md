@@ -20,6 +20,14 @@ url: /javascript-cpp/organize/
 | [AsposePdfAddPageNum](./asposepdfaddpagenum/) | Add page number to a PDF-file. |
 | [AsposePdfAddBackgroundImage](./asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
 | [AsposePdfAddTextHeaderFooter](./asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |
+| [AsposePdfRepair](./asposepdfrepair/) | Repair a PDF-file. |
+| [AsposePdfOptimizeResource](./asposepdfoptimizeresource/) | Optimize resources a PDF-file. |
+| [AsposePdfSetBackgroundColor](./asposepdfsetbackgroundcolor/) | Set background color a PDF-file. |
+| [AsposePdfDeleteAnnotations](./asposepdfdeleteannotations/) | Delete annotations a PDF-file. |
+| [AsposePdfDeleteBookmarks](./asposepdfdeletebookmarks/) | Delete bookmarks a PDF-file. |
+| [AsposePdfDeleteAttachments](./asposepdfdeleteattachments/) | Delete attachments a PDF-file. |
+| [AsposePdfDeleteImages](./asposepdfdeleteimages/) | Delete images a PDF-file. |
+| [AsposePdfDeleteJavaScripts](./asposepdfdeletejavascripts/) | Delete JavaScripts a PDF-file. |
 
 ## Detailed Description
 

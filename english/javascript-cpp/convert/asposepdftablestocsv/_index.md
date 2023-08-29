@@ -12,7 +12,7 @@ _Convert a PDF-file to CSV (extract tables)._
 function AsposePdfTablesToCSV(
     fileBlob,
     fileName,
-    fileResultName,
+    fileNameResult,
     delimiter
 )
 ```
@@ -20,7 +20,7 @@ function AsposePdfTablesToCSV(
 **Parameters**: 
   * **fileBlob** Blob object 
   * **fileName** file name 
-  * **fileResultName** result file name template (for sample: "ResultPdfTablesToCSV{0:D2}.csv" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **fileNameResult** result file name template (for sample: "ResultPdfTablesToCSV{0:D2}.csv" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
   * **delimiter** delimiter for csv (comma-separated value), default ";"
 
 **Return**: 

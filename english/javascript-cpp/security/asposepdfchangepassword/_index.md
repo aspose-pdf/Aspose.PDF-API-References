@@ -1,25 +1,21 @@
 ---
-title: "AsposePdfSetInfo"
+title: "AsposePdfChangePassword"
 second_title: Aspose.PDF for JavaScript via C++
-description: "Set info (metadata) in a PDF-file."
+description:  "Change passwords a PDF-file."
 type: docs
-url: /javascript-cpp/metadata/asposepdfsetinfo/
+url: /javascript-cpp/security/asposepdfchangepassword/
 ---
 
-_Set info (metadata) in a PDF-file._
+_Change passwords of the PDF file._
 
 ```js
-function AsposePdfSetInfo(
+function AsposePdfChangePassword(
     fileBlob,
     fileName,
-    title, 
-    creator, 
-    author,
-    subject,
-    keywords,
-    creation,
-    mod,
-    fileNameResult
+    ownerPassword,
+    newUserPassword,
+    newOwnerPassword,
+    fileNameResult 
 )
 ```
 
@@ -27,18 +23,12 @@ function AsposePdfSetInfo(
 
 * **fileBlob** Blob object 
 * **fileName** file name 
-* **title** title
-* **creator** creator
-* **author** author
-* **subject** subject
-* **keywords** list keywords
-* **creation** creation date
-* **mod** modify date
-* **fileNameResult** result file name
+* **ownerPassword** owner password
+* **newUserPassword** new user password
+* **newOwnerPassword** new owner password
+* **fileNameResult** result file name 
 
-For 'title', 'creator', 'author', 'subject', 'keywords', 'creation' and 'mod', if not need to set value, use undefined or "" (empty string)
-
-**Return**: 
+**Return**:
 
 JSON object 
 
@@ -47,16 +37,15 @@ JSON object
 * **fileNameResult** - result file name
 
 
+
 **Example**:
 
 ```js
-  var ffilePdfSetInfo = function (e) {
+  var ffilePdfChangePassword = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Set PDF info: title, creator, author, subject, keywords, creation (date), mod (date modify)*/
-      /*If not need to set value, use undefined or "" (empty string)*/
-      /*Set info (metadata) in a PDF-file and save the "ResultSetInfo.pdf"*/
-      const json = AsposePdfSetInfo(event.target.result, e.target.files[0].name, "Setting PDF Document Information", "", "Aspose", undefined, "Aspose.Pdf, DOM, API", undefined, "16/02/2023 11:55 PM", "ResultSetInfo.pdf");
+      /*Change passwords of the PDF file from "owner" to "newowner" and save the "ResultPdfChangePassword.pdf"*/
+      const json = AsposePdfChangePassword(event.target.result, e.target.files[0].name, "owner", "newuser", "newowner", "ResultPdfChangePassword.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
       /*Make a link to download the result file*/
@@ -77,21 +66,17 @@ JSON object
         `Error: ${evt.data.json.errorText}`;
 
   /*Event handler*/
-  const ffilePdfSetInfo = e => {
+  const ffilePdfChangePassword = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*PDF info: title, creator, author, subject, keywords, creation (date), mod (date modify)*/
-      const title = 'Setting PDF Document Information';
-      const creator = ''; /*if not need to set value, use: undefined or ""/'' (empty string)*/
-      const author = 'Aspose';
-      const subject = undefined;
-      const keywords = 'Aspose.Pdf, DOM, API';
-      const creation = undefined; /*create date*/
-      const mod = '16/02/2023 11:55 PM'; /*modify date*/
-      /*Set info (metadata) in a PDF-file and save the "ResultSetInfo.pdf" - Ask Web Worker*/
+      const ownerPassword = 'owner'; /*Owner password*/
+      const newUserPassword = "newuser"; /*New user password*/
+      const newOwnerPassword = "newowner"; /*New owner password*/
+      /*Change passwords of the PDF file from "owner" to "newowner" and save the "ResultPdfChangePassword.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage(
-        { "operation": 'AsposePdfSetInfo',
-          "params": [event.target.result, e.target.files[0].name, title, creator, author, subject, keywords, creation, mod, "ResultSetInfo.pdf"] },
+        { "operation": 'AsposePdfChangePassword',
+          "params": [event.target.result, e.target.files[0].name, ownerPassword, newUserPassword, newOwnerPassword,
+                     "ResultPdfChangePassword.pdf"] },
         [event.target.result]
       );
     };

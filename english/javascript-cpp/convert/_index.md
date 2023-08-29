@@ -26,6 +26,7 @@ url: /javascript-cpp/convert/
 | [AsposePdfToDocX](./asposepdftodocx/) | Convert a PDF-file to DocX. |
 | [AsposePdfToXlsX](./asposepdftoxlsx/) | Convert a PDF-file to XlsX. |
 | [AsposePdfExtractText](./asposepdfextracttext/) | Extract text from a PDF-file.|
+| [AsposePdfExtractImage](./asposepdfextractimage/) | Extract image from a PDF-file.|
 
 ## Detailed Description
 

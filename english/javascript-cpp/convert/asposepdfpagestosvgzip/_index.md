@@ -12,14 +12,14 @@ _Convert a PDF-file to SVG(zip)._
 function AsposePdfPagesToSvgZip(
     fileBlob,
     fileName,
-    fileResultName
+    fileNameResult
 )
 ```
 
 **Parameters**: 
   * **fileBlob** Blob object 
   * **fileName** file name 
-  * **fileResultName** result file name
+  * **fileNameResult** result file name
 
 **Return**: 
 JSON object 

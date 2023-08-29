@@ -32,6 +32,7 @@ is_root: true
 | [AsposePdfToDocX](./convert/asposepdftodocx/) | Convert a PDF-file to DocX. |
 | [AsposePdfToXlsX](./convert/asposepdftoxlsx/) | Convert a PDF-file to XlsX. |
 | [AsposePdfExtractText](./convert/asposepdfextracttext/) | Extract text from a PDF-file.|
+| [AsposePdfExtractImage](./convert/asposepdfextractimage/) | Extract image from a PDF-file.|
 
 
 ## Organize PDF functions
@@ -48,6 +49,14 @@ is_root: true
 | [AsposePdfAddPageNum](./organize/asposepdfaddpagenum/) | Add page number to a PDF-file. |
 | [AsposePdfAddBackgroundImage](./organize/asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
 | [AsposePdfAddTextHeaderFooter](./organize/asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |
+| [AsposePdfRepair](./organize/asposepdfrepair/) | Repair a PDF-file. |
+| [AsposePdfOptimizeResource](./organize/asposepdfoptimizeresource/) | Optimize resources a PDF-file. |
+| [AsposePdfSetBackgroundColor](./organize/asposepdfsetbackgroundcolor/) | Set background color a PDF-file. |
+| [AsposePdfDeleteAnnotations](./organize/asposepdfdeleteannotations/) | Delete annotations a PDF-file. |
+| [AsposePdfDeleteBookmarks](./organize/asposepdfdeletebookmarks/) | Delete bookmarks a PDF-file. |
+| [AsposePdfDeleteAttachments](./organize/asposepdfdeleteattachments/) | Delete attachments a PDF-file. |
+| [AsposePdfDeleteImages](./organize/asposepdfdeleteimages/) | Delete images a PDF-file. |
+| [AsposePdfDeleteJavaScripts](./organize/asposepdfdeletejavascripts/) | Delete JavaScripts a PDF-file. |
 
 
 ## Metadata PDF functions
@@ -56,7 +65,8 @@ is_root: true
 | -------- | ----------- |
 | [AsposePdfSetInfo](./metadata/asposepdfsetinfo/) | Set info (metadata) in a PDF-file. |
 | [AsposePdfGetInfo](./metadata/asposepdfgetinfo/) | Get info (metadata) from a PDF-file. |
-| [AsposePdfGetAllFonts](./metadata/asposepdfgetallfonts/) | Get list fonts a PDF-file. |
+| [AsposePdfGetAllFonts](./metadata/asposepdfgetallfonts/) | Get list fonts from a PDF-file. |
+| [AsposePdfRemoveMetadata](./metadata/asposepdfremovemetadata/) | Remove metadata a PDF-file. |
 
 
 ## Security PDF functions
@@ -66,6 +76,7 @@ is_root: true
 | [AsposePdfEncrypt](./security/asposepdfencrypt/) | Encrypt a PDF-file. |
 | [AsposePdfDecrypt](./security/asposepdfdecrypt/) | Decrypt a PDF-file. |
 | [AsposePdfSignPKCS7](./security/asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
+| [AsposePdfChangePassword](./security/asposepdfchangepassword/) | Change passwords a PDF-file. |
 
 
 ## Core Functions

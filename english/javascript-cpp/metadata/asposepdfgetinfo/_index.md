@@ -33,6 +33,13 @@ JSON object
 * **keywords** - keywords
 * **creation** - creation date
 * **mod** - modify date
+* **format** - PDF format
+* **version** - PDF version
+* **ispdfa** - PDF is PDF/A
+* **ispdfua** - PDF is PDF/UA
+* **permission** - PDF permission
+* **size** - PDF page size
+* **pagecount** - Page count
 
 
 **Example**:

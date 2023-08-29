@@ -1,7 +1,7 @@
 ---
 title: "AsposePdfGetAllFonts"
 second_title: Aspose.PDF for JavaScript via C++
-description: "Get list fonts a PDF-file."
+description: "Get list fonts from a PDF-file."
 type: docs
 url: /javascript-cpp/metadata/asposepdfgetallfonts/
 ---
@@ -38,7 +38,7 @@ JSON object
   var ffilePdfGetAllFonts = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Get list fonts a PDF-file*/
+      /*Get list fonts from a PDF-file*/
       const json = AsposePdfGetAllFonts(event.target.result, e.target.files[0].name);
       if (json.errorCode == 0) document.getElementById('output').textContent = "JSON:\n" + JSON.stringify(json, null, 4);
       else document.getElementById('output').textContent = json.errorText;
@@ -61,7 +61,7 @@ JSON object
   const ffilePdfGetAllFonts = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Get list fonts a PDF-file - Ask Web Worker*/
+      /*Get list fonts from a PDF-file - Ask Web Worker*/
       AsposePDFWebWorker.postMessage(
         { "operation": 'AsposePdfGetAllFonts', "params": [event.target.result, e.target.files[0].name] },
         [event.target.result]

@@ -14,7 +14,7 @@ function AsposePdfAddTextHeaderFooter(
     fileName,
     header, 
     footer,
-    fileResultName
+    fileNameResult
 )
 ```
 
@@ -24,7 +24,7 @@ function AsposePdfAddTextHeaderFooter(
 * **fileName** file name 
 * **header** page header, if not need to set, use undefined or "" (empty string)
 * **footer** page footer, if not need to set, use undefined or "" (empty string)
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 

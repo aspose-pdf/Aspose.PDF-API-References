@@ -13,7 +13,7 @@ function AsposePdfRotateAllPages(
     fileBlob,
     fileName,
     rotation,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -26,7 +26,7 @@ function AsposePdfRotateAllPages(
   * Module.Rotation.on90
   * Module.Rotation.on180
   * Module.Rotation.on270 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 JSON object 

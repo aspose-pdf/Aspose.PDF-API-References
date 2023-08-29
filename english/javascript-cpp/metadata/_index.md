@@ -12,7 +12,8 @@ url: /javascript-cpp/metadata/
 | -------------- | -------------- |
 | [AsposePdfSetInfo](./asposepdfsetinfo/) | Set info (metadata) in a PDF-file. |
 | [AsposePdfGetInfo](./asposepdfgetinfo/) | Get info (metadata) from a PDF-file. |
-| [AsposePdfGetAllFonts](./asposepdfgetallfonts/) | Get list fonts a PDF-file. |
+| [AsposePdfGetAllFonts](./asposepdfgetallfonts/) | Get list fonts from a PDF-file. |
+| [AsposePdfRemoveMetadata](./asposepdfremovemetadata/) | Remove metadata a PDF-file. |
 
 ## Detailed Description
 

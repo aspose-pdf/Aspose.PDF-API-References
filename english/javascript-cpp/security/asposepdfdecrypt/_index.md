@@ -13,7 +13,7 @@ function AsposePdfDecrypt(
     fileBlob,
     fileName,
     password,
-    fileResultName 
+    fileNameResult 
 )
 ```
 
@@ -22,7 +22,7 @@ function AsposePdfDecrypt(
 * **fileBlob** Blob object 
 * **fileName** file name 
 * **password** user password 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**:
 

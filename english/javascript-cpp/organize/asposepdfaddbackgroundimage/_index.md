@@ -13,7 +13,7 @@ function AsposePdfAddBackgroundImage(
     fileBlob,
     fileName,
     fileBackgroundImage,
-    fileResultName
+    fileNameResult
 )
 ```
 
@@ -22,7 +22,7 @@ function AsposePdfAddBackgroundImage(
 * **fileBlob** Blob object 
 * **fileName** file name 
 * **fileBackgroundImage** image file name 
-* **fileResultName** result file name 
+* **fileNameResult** result file name 
 
 **Return**: 
 

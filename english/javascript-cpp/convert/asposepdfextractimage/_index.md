@@ -1,46 +1,48 @@
 ---
-title: "AsposePdfPagesToSvg"
+title: "AsposePdfExtractImage"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Convert a PDF-file to SVG."
+description:  "Extract image from a PDF-file."
 type: docs
-url: /javascript-cpp/convert/asposepdfpagestosvg/
+url: /javascript-cpp/convert/asposepdfextractimage/
 ---
 
-_Convert a PDF-file to SVG._
+_Extract image from a PDF-file._
 
-```
-function AsposePdfPagesToSvg(
+```js
+function AsposePdfExtractImage(
     fileBlob,
     fileName,
-    fileNameResult
+    fileNameResult,
+    resolution
 )
 ```
 
 **Parameters**: 
   * **fileBlob** Blob object 
   * **fileName** file name 
-  * **fileNameResult** result file name
+  * **fileNameResult** result file name template (for sample: ""ResultPdfExtractImage{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **resolution** image resolution, default 300 dpi
 
 **Return**: 
 JSON object 
   * **errorCode** - code error (0 no error)
   * **errorText** - text error ("" no error)
-  * **filesCount** - png files count
+  * **filesCount** - image files count
   * **filesNameResult** - array of result filenames
 
 
 
 **Example**:
 ```js
-  var ffileToSvg = function (e) {
+  var ffileExtractImage = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Convert a PDF-file to SVG*/
-      const json = AsposePdfPagesToSvg(event.target.result, e.target.files[0].name, "ResultPdfToSvg.svg");
+      /*Extract image from a PDF-file with template "ResultPdfExtractImage{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/
+      const json = AsposePdfExtractImage(event.target.result, e.target.files[0].name, "ResultPdfExtractImage{0:D2}.jpg", 150);
       if (json.errorCode == 0) {
-        document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
+        document.getElementById('output').textContent = "Files(images) count: " + json.filesCount.toString();
         /*Make links to result files*/
-        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/svg");
+        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/jpeg");
       }
       else document.getElementById('output').textContent = json.errorText;
     }
@@ -55,16 +57,20 @@ JSON object
   AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
     (evt.data == 'ready') ? 'loaded!' :
       (evt.data.json.errorCode == 0) ? 
-        `Files(pages) count: ${evt.data.json.filesCount.toString()}\n${evt.data.params.forEach(
-          (element, index) => DownloadFile(evt.data.json.filesNameResult[index], "image/svg", element) ) ?? ""}` : 
+        `Files(images) count: ${evt.data.json.filesCount.toString()}\n${evt.data.params.forEach(
+          (element, index) => DownloadFile(evt.data.json.filesNameResult[index], "image/jpeg", element) ) ?? ""}` : 
         `Error: ${evt.data.json.errorText}`;
 
   /*Event handler*/
-  const ffileToSvg = e => {
+  const ffileExtractImage = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Convert a PDF-file to SVG - Ask Web Worker*/
-      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfPagesToSvg', "params": [event.target.result, e.target.files[0].name, "ResultPdfToSvg.svg"] }, [event.target.result]);
+      /*Extract image from a PDF-file with template "ResultPdfExtractImage{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number),
+        resolution 150 DPI and save - Ask Web Worker*/
+      AsposePDFWebWorker.postMessage(
+        { "operation": 'AsposePdfExtractImage', "params": [event.target.result, e.target.files[0].name, "ResultPdfExtractImage{0:D2}.jpg", 150] },
+        [event.target.result]
+      );
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };
