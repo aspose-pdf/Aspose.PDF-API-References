@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfDeleteBookmarks"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Delete bookmarks a PDF-file."
+description:  "Delete bookmarks from a PDF-file."
 type: docs
 url: /javascript-cpp/organize/asposepdfdeletebookmarks/
 ---
 
-_Delete bookmarks from PDF-file._
+_Delete bookmarks from a PDF-file._
 
 ```js
 function AsposePdfDeleteBookmarks(
@@ -34,7 +34,7 @@ JSON object
   var ffilePdfDeleteBookmarks = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Delete bookmarks from PDF-file and save the "ResultPdfDeleteBookmarks.pdf"*/
+      /*Delete bookmarks from a PDF-file and save the "ResultPdfDeleteBookmarks.pdf"*/
       const json = AsposePdfDeleteBookmarks(event.target.result, e.target.files[0].name, "ResultPdfDeleteBookmarks.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
@@ -57,7 +57,7 @@ JSON object
   const ffilePdfDeleteBookmarks = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Delete bookmarks from PDF-file and save the "ResultPdfDeleteBookmarks.pdf" - Ask Web Worker*/
+      /*Delete bookmarks from a PDF-file and save the "ResultPdfDeleteBookmarks.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfDeleteBookmarks', "params": [event.target.result, e.target.files[0].name, "ResultPdfDeleteBookmarks.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);

@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfAddImage"
 second_title: Aspose.PDF for JavaScript via C++
-description: "Add image to end a PDF-file."
+description: "Add an image to end a PDF file."
 type: docs
 url: /javascript-cpp/organize/asposepdfaddimage/
 ---
 
-_Add image to end a PDF-file._
+_Add an image to end a PDF file._
 
 ```js
 function AsposePdfAddImage(
@@ -51,7 +51,7 @@ JSON object
   var ffileAddImage = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Add image to end a PDF-file and save the "ResultImage.pdf"*/
+      /*Add an image to end a PDF file and save the "ResultImage.pdf"*/
       const json = AsposePdfAddImage(event.target.result, e.target.files[0].name, fileImage, "ResultImage.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
@@ -81,7 +81,7 @@ JSON object
   const ffileAddImage = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Add image to end a PDF-file and save the "ResultImage.pdf" - Ask Web Worker*/
+      /*Add an image to end a PDF file and save the "ResultImage.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage(
         { "operation": 'AsposePdfAddImage',
           "params": [event.target.result, e.target.files[0].name, fileImage, "ResultImage.pdf"] },

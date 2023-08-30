@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfDeleteAnnotations"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Delete annotations a PDF-file."
+description:  "Delete annotations from a PDF-file."
 type: docs
 url: /javascript-cpp/organize/asposepdfdeleteannotations/
 ---
 
-_Delete annotations from PDF-file._
+_Delete annotations from a PDF-file._
 
 ```js
 function AsposePdfDeleteAnnotations(
@@ -34,7 +34,7 @@ JSON object
   var ffilePdfDeleteAnnotations = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Delete annotations from PDF-file and save the "ResultPdfDeleteAnnotations.pdf"*/
+      /*Delete annotations from s PDF-file and save the "ResultPdfDeleteAnnotations.pdf"*/
       const json = AsposePdfDeleteAnnotations(event.target.result, e.target.files[0].name, "ResultPdfDeleteAnnotations.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
@@ -57,7 +57,7 @@ JSON object
   const ffilePdfDeleteAnnotations = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Delete annotations from PDF-file and save the "ResultPdfDeleteAnnotations.pdf" - Ask Web Worker*/
+      /*Delete annotations from a PDF-file and save the "ResultPdfDeleteAnnotations.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfDeleteAnnotations', "params": [event.target.result, e.target.files[0].name, "ResultPdfDeleteAnnotations.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
