@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfRemoveMetadata"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Remove metadata a PDF-file."
+description:  "Remove metadata from a PDF-file."
 type: docs
 url: /javascript-cpp/metadata/asposepdfremovemetadata/
 ---
 
-_Remove metadata a PDF-file._
+_Remove metadata from a PDF-file._
 
 ```js
 function AsposePdfRemoveMetadata(
@@ -34,7 +34,7 @@ JSON object
   var ffilePdfRemoveMetadata = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Remove metadata a PDF-file and save the "ResultPdfRemoveMetadata.pdf"*/
+      /*Remove metadata from a PDF-file and save the "ResultPdfRemoveMetadata.pdf"*/
       const json = AsposePdfRemoveMetadata(event.target.result, e.target.files[0].name, "ResultPdfRemoveMetadata.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
@@ -57,7 +57,7 @@ JSON object
   const ffilePdfRemoveMetadata = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Remove metadata a PDF-file and save the "ResultPdfRemoveMetadata.pdf" - Ask Web Worker*/
+      /*Remove metadata from a PDF-file and save the "ResultPdfRemoveMetadata.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfRemoveMetadata', "params": [event.target.result, e.target.files[0].name, "ResultPdfRemoveMetadata.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);

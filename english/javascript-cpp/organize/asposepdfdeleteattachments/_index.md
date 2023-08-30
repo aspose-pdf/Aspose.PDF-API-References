@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfDeleteAttachments"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Delete attachments a PDF-file."
+description:  "Delete attachments from a PDF-file."
 type: docs
 url: /javascript-cpp/organize/asposepdfdeleteattachments/
 ---
 
-_Delete attachments from PDF-file._
+_Delete attachments from a PDF-file._
 
 ```js
 function AsposePdfDeleteAttachments(
@@ -34,7 +34,7 @@ JSON object
   var ffilePdfDeleteAttachments = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Delete attachments from PDF-file and save the "ResultPdfDeleteAttachments.pdf"*/
+      /*Delete attachments from a PDF-file and save the "ResultPdfDeleteAttachments.pdf"*/
       const json = AsposePdfDeleteAttachments(event.target.result, e.target.files[0].name, "ResultPdfDeleteAttachments.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
@@ -57,7 +57,7 @@ JSON object
   const ffilePdfDeleteAttachments = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Delete attachments from PDF-file and save the "ResultPdfDeleteAttachments.pdf" - Ask Web Worker*/
+      /*Delete attachments from a PDF-file and save the "ResultPdfDeleteAttachments.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfDeleteAttachments', "params": [event.target.result, e.target.files[0].name, "ResultPdfDeleteAttachments.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);

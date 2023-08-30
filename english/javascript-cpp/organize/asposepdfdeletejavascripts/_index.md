@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfDeleteJavaScripts"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Delete JavaScripts a PDF-file."
+description:  "Delete JavaScripts from a PDF-file."
 type: docs
 url: /javascript-cpp/organize/asposepdfdeletejavascripts/
 ---
 
-_Delete JavaScripts from PDF-file._
+_Delete JavaScripts from a PDF-file._
 
 ```js
 function AsposePdfDeleteJavaScripts(
@@ -34,7 +34,7 @@ JSON object
   var ffilePdfDeleteJavaScripts = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Delete JavaScripts from PDF-file and save the "ResultPdfDeleteJavaScripts.pdf"*/
+      /*Delete JavaScripts from a PDF-file and save the "ResultPdfDeleteJavaScripts.pdf"*/
       const json = AsposePdfDeleteJavaScripts(event.target.result, e.target.files[0].name, "ResultPdfDeleteJavaScripts.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
@@ -57,7 +57,7 @@ JSON object
   const ffilePdfDeleteJavaScripts = e => {
     const file_reader = new FileReader();
     file_reader.onload = event => {
-      /*Delete JavaScripts from PDF-file and save the "ResultPdfDeleteJavaScripts.pdf" - Ask Web Worker*/
+      /*Delete JavaScripts from a PDF-file and save the "ResultPdfDeleteJavaScripts.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfDeleteJavaScripts', "params": [event.target.result, e.target.files[0].name, "ResultPdfDeleteJavaScripts.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
