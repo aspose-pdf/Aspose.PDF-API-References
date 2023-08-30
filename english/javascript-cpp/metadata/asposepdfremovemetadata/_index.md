@@ -3,10 +3,10 @@ title: "AsposePdfRemoveMetadata"
 second_title: Aspose.PDF for JavaScript via C++
 description:  "Remove metadata a PDF-file."
 type: docs
-url: /javascript-cpp/organize/asposepdfremovemetadata/
+url: /javascript-cpp/metadata/asposepdfremovemetadata/
 ---
 
-_Remove metadata from PDF-file._
+_Remove metadata a PDF-file._
 
 ```js
 function AsposePdfRemoveMetadata(
