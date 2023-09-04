@@ -50,8 +50,8 @@ is_root: true
 | [AsposePdfAddBackgroundImage](./organize/asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
 | [AsposePdfAddTextHeaderFooter](./organize/asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |
 | [AsposePdfRepair](./organize/asposepdfrepair/) | Repair a PDF-file. |
-| [AsposePdfOptimizeResource](./organize/asposepdfoptimizeresource/) | Optimize resources a PDF-file. |
-| [AsposePdfSetBackgroundColor](./organize/asposepdfsetbackgroundcolor/) | Set background color a PDF-file. |
+| [AsposePdfOptimizeResource](./organize/asposepdfoptimizeresource/) | Optimize resources of PDF-file. |
+| [AsposePdfSetBackgroundColor](./organize/asposepdfsetbackgroundcolor/) | Set the background color for the PDF-file. |
 | [AsposePdfDeleteAnnotations](./organize/asposepdfdeleteannotations/) | Delete annotations from a PDF-file. |
 | [AsposePdfDeleteBookmarks](./organize/asposepdfdeletebookmarks/) | Delete bookmarks from a PDF-file. |
 | [AsposePdfDeleteAttachments](./organize/asposepdfdeleteattachments/) | Delete attachments from a PDF-file. |
@@ -76,7 +76,7 @@ is_root: true
 | [AsposePdfEncrypt](./security/asposepdfencrypt/) | Encrypt a PDF-file. |
 | [AsposePdfDecrypt](./security/asposepdfdecrypt/) | Decrypt a PDF-file. |
 | [AsposePdfSignPKCS7](./security/asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
-| [AsposePdfChangePassword](./security/asposepdfchangepassword/) | Change passwords a PDF-file. |
+| [AsposePdfChangePassword](./security/asposepdfchangepassword/) | Change passwords of the PDF-file. |
 
 
 ## Core Functions

@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfSetBackgroundColor"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Set background color a PDF-file."
+description:  "Set the background color for the PDF-file."
 type: docs
 url: /javascript-cpp/organize/asposepdfsetbackgroundcolor/
 ---
 
-_Set the background color to a PDF file._
+_Set the background color for the PDF-file._
 
 ```js
 function AsposePdfSetBackgroundColor(
@@ -36,7 +36,7 @@ JSON object
   var ffilePdfSetBackgroundColor = function (e) {
     const file_reader = new FileReader();
     file_reader.onload = (event) => {
-      /*Set the background color to a PDF file and save the "ResultPdfSetBackgroundColor.pdf"*/
+      /*Set the background color for the PDF file and save the "ResultPdfSetBackgroundColor.pdf"*/
       const json = AsposePdfSetBackgroundColor(event.target.result, e.target.files[0].name, "#426bf4", "ResultPdfSetBackgroundColor.pdf");
       if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
       else document.getElementById('output').textContent = json.errorText;
@@ -60,7 +60,7 @@ JSON object
     const file_reader = new FileReader();
     file_reader.onload = event => {
       const backgroundColor= "#426bf4";
-      /*Set the background color to a PDF file and save the "ResultPdfSetBackgroundColor.pdf" - Ask Web Worker*/
+      /*Set the background color for the PDF file and save the "ResultPdfSetBackgroundColor.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfSetBackgroundColor', "params": [event.target.result, e.target.files[0].name, backgroundColor, "ResultPdfSetBackgroundColor.pdf"] }, [event.target.result]);
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);

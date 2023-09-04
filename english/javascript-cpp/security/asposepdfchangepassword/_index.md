@@ -1,7 +1,7 @@
 ---
 title: "AsposePdfChangePassword"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Change passwords a PDF-file."
+description:  "Change passwords of the PDF-file."
 type: docs
 url: /javascript-cpp/security/asposepdfchangepassword/
 ---
