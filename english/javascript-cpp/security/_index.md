@@ -13,7 +13,7 @@ url: /javascript-cpp/security/
 | [AsposePdfEncrypt](./asposepdfencrypt/) | Encrypt a PDF-file. |
 | [AsposePdfDecrypt](./asposepdfdecrypt/) | Decrypt a PDF-file. |
 | [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
-| [AsposePdfChangePassword](./asposepdfchangepassword/) | Change passwords a PDF-file. |
+| [AsposePdfChangePassword](./asposepdfchangepassword/) | Change passwords of the PDF-file. |
 
 ## Detailed Description
 

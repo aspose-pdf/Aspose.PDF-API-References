@@ -1,7 +1,7 @@
 ---
 title: "AsposePdfOptimizeResource"
 second_title: Aspose.PDF for JavaScript via C++
-description:  "Optimize resources a PDF-file."
+description:  "Optimize resources of PDF-file."
 type: docs
 url: /javascript-cpp/organize/asposepdfoptimizeresource/
 ---

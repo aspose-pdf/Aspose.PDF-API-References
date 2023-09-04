@@ -21,8 +21,8 @@ url: /javascript-cpp/organize/
 | [AsposePdfAddBackgroundImage](./asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
 | [AsposePdfAddTextHeaderFooter](./asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |
 | [AsposePdfRepair](./asposepdfrepair/) | Repair a PDF-file. |
-| [AsposePdfOptimizeResource](./asposepdfoptimizeresource/) | Optimize resources a PDF-file. |
-| [AsposePdfSetBackgroundColor](./asposepdfsetbackgroundcolor/) | Set background color a PDF-file. |
+| [AsposePdfOptimizeResource](./asposepdfoptimizeresource/) | Optimize resources of PDF-file. |
+| [AsposePdfSetBackgroundColor](./asposepdfsetbackgroundcolor/) | Set the background color for the PDF-file. |
 | [AsposePdfDeleteAnnotations](./asposepdfdeleteannotations/) | Delete annotations from a PDF-file. |
 | [AsposePdfDeleteBookmarks](./asposepdfdeletebookmarks/) | Delete bookmarks from a PDF-file. |
 | [AsposePdfDeleteAttachments](./asposepdfdeleteattachments/) | Delete attachments from a PDF-file. |
