@@ -84,6 +84,7 @@ public class CheckboxField : Field
 | override [Accept](../../aspose.pdf.annotations/widgetannotation/accept)(AnnotationSelector) | Accepts visitor. |
 | [AddOption](../../aspose.pdf.forms/checkboxfield/addoption#addoption)(string) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group. |
 | [AddOption](../../aspose.pdf.forms/checkboxfield/addoption#addoption_1)(string, Rectangle) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption#addoption_2)(string, int, Rectangle) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | override [Clone](../../aspose.pdf.forms/checkboxfield/clone)() | Clone the checkbox. |
 | [CopyTo](../../aspose.pdf.forms/field/copyto)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |

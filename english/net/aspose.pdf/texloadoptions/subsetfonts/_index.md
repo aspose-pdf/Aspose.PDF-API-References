@@ -3,7 +3,7 @@ title: SubsetFonts
 second_title: Aspose.PDF for .NET API Reference
 description: Gets/sets the flag indicating whether to subset fonts in output file or not.
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf/texloadoptions/subsetfonts/
 ---
 ## TeXLoadOptions.SubsetFonts property
