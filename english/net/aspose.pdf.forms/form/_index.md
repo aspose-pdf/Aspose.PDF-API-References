@@ -54,6 +54,7 @@ public sealed class Form : ICollection<WidgetAnnotation>
 | [HasField](../../aspose.pdf.forms/form/hasfield#hasfield)(Field) | Check if the form already has specified field. |
 | [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_1)(string) | Determines if the field with specified name already added to the Form. |
 | [HasField](../../aspose.pdf.forms/form/hasfield#hasfield_2)(string, bool) | Determines if the field with specified name already added to the Form, with ability to look into children hierarchy of fields. |
+| [RemoveFieldAppearance](../../aspose.pdf.forms/form/removefieldappearance)(Field, int) | Removes appearance of the field at specified index. If only one child appearance left, method embeds it into the field. |
 
 ## Fields
 
