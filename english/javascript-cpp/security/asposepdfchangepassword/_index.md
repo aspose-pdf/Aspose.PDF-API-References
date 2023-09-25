@@ -6,7 +6,7 @@ type: docs
 url: /javascript-cpp/security/asposepdfchangepassword/
 ---
 
-_Change passwords of the PDF file._
+_Change passwords of the PDF-file._
 
 ```js
 function AsposePdfChangePassword(

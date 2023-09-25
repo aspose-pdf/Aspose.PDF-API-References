@@ -20,6 +20,7 @@ is_root: true
 | [AsposePdfPagesToPng](./convert/asposepdfpagestopng/) | Convert a PDF-file to PNG. |
 | [AsposePdfPagesToTiff](./convert/asposepdfpagestotiff/) | Convert a PDF-file to TIFF. |
 | [AsposePdfPagesToBmp](./convert/asposepdfpagestobmp/) | Convert a PDF-file to BMP. |
+| [AsposePdfPagesToDICOM](./convert/asposepdfpagestodicom/) | Convert a PDF-file to DICOM. |
 | [AsposePdfPagesToSvg](./convert/asposepdfpagestosvg/) | Convert a PDF-file to SVG. |
 | [AsposePdfPagesToSvgZip](./convert/asposepdfpagestosvgzip/) | Convert a PDF-file to SVG(zip). |
 | [AsposePdfToTeX](./convert/asposepdftotex/) | Convert a PDF-file to TeX. |
@@ -31,6 +32,9 @@ is_root: true
 | [AsposePdfAConvertToPDF](./convert/asposepdfaconverttopdf/) | Convert a PDF/A-file to PDF. |
 | [AsposePdfToDocX](./convert/asposepdftodocx/) | Convert a PDF-file to DocX. |
 | [AsposePdfToXlsX](./convert/asposepdftoxlsx/) | Convert a PDF-file to XlsX. |
+| [AsposePdfToEPUB](./convert/asposepdftoepub/) | Convert a PDF-file to ePub. |
+| [AsposePdfToDoc](./convert/asposepdftodoc/) | Convert a PDF-file to Doc. |
+| [AsposePdfToPptX](./convert/asposepdftopptx/) | Convert a PDF-file to PptX. |
 | [AsposePdfExtractText](./convert/asposepdfextracttext/) | Extract text from a PDF-file.|
 | [AsposePdfExtractImage](./convert/asposepdfextractimage/) | Extract image from a PDF-file.|
 
@@ -45,7 +49,7 @@ is_root: true
 | [AsposePdfRotateAllPages](./organize/asposepdfrotateallpages/) | Rotate PDF-pages. |
 | [AsposePdfDeletePages](./organize/asposepdfdeletepages/) | Delete pages from a PDF-file. |
 | [AsposePdfAddStamp](./organize/asposepdfaddstamp/) | Add stamp to a PDF-file. |
-| [AsposePdfAddImage](./organize/asposepdfaddimage/) | Add an image to end a PDF file. |
+| [AsposePdfAddImage](./organize/asposepdfaddimage/) | Add an image to end a PDF-file. |
 | [AsposePdfAddPageNum](./organize/asposepdfaddpagenum/) | Add page number to a PDF-file. |
 | [AsposePdfAddBackgroundImage](./organize/asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
 | [AsposePdfAddTextHeaderFooter](./organize/asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |

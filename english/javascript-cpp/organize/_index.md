@@ -16,7 +16,7 @@ url: /javascript-cpp/organize/
 | [AsposePdfRotateAllPages](./asposepdfrotateallpages/) | Rotate PDF-pages. |
 | [AsposePdfDeletePages](./asposepdfdeletepages/) | Delete pages from a PDF-file. |
 | [AsposePdfAddStamp](./asposepdfaddstamp/) | Add stamp to a PDF-file. |
-| [AsposePdfAddImage](./asposepdfaddimage/) | Add an image to end a PDF file. |
+| [AsposePdfAddImage](./asposepdfaddimage/) | Add an image to end a PDF-file. |
 | [AsposePdfAddPageNum](./asposepdfaddpagenum/) | Add page number to a PDF-file. |
 | [AsposePdfAddBackgroundImage](./asposepdfaddbackgroundimage/) | Add background image to a PDF-file. |
 | [AsposePdfAddTextHeaderFooter](./asposepdfaddtextheaderfooter/) | Add text in Header/Footer of a PDF-file. |
