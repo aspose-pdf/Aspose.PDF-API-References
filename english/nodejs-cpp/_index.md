@@ -81,3 +81,9 @@ is_root: true
 | [AsposePdfDecrypt](./security/asposepdfdecrypt/) | Decrypt a PDF-file. |
 | [AsposePdfSignPKCS7](./security/asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
 | [AsposePdfChangePassword](./security/asposepdfchangepassword/) | Change passwords of the PDF-file. |
+
+## Miscellaneous
+
+|      Name      |  Description   |
+| -------------- | -------------- |
+| [AsposePdfAbout](./misc/asposepdfabout/) | Get info about. |
