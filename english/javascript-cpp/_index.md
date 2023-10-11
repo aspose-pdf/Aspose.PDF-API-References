@@ -95,5 +95,6 @@ is_root: true
 
 |      Name      |  Description   |
 | -------------- | -------------- |
+| [AsposePdfAbout](./misc/asposepdfabout/) | Get info about Product. |
 | [DownloadFile](./misc/downloadfile/) | Make a link in HTML to download the file. |
 | [DownloadFileAuto](./misc/downloadfileauto)| Make a link in HTML to download the file and start download after 2 seconds. |
