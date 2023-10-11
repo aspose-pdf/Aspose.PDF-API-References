@@ -1,12 +1,12 @@
 ---
 title: "AsposePdfAbout"
 second_title: Aspose.PDF for Node.js via C++
-description: "Get info about."
+description: "Get info about Product."
 type: docs
 url: /nodejs-cpp/misc/asposepdfabout/
 ---
 
-_Get info about._
+_Get info about Product._
 
 ```js
 function AsposePdfAbout()
@@ -30,7 +30,7 @@ JSON object
 ```js
 const AsposePdf = require('../AsposePDFforNode.cjs');
 AsposePdf().then(AsposePdfModule => {
-    /*AsposePdfAbout - Get info about*/
+    /*AsposePdfAbout - Get info about Product*/
     const json = AsposePdfModule.AsposePdfAbout();
     /* JSON
     Product name:       json.product
@@ -48,7 +48,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from '../AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-/*AsposePdfAbout - Get info about*/
+/*AsposePdfAbout - Get info about Product*/
 const json = AsposePdfModule.AsposePdfAbout();
 /* JSON
 Product name:       json.product

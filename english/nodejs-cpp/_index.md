@@ -86,4 +86,4 @@ is_root: true
 
 |      Name      |  Description   |
 | -------------- | -------------- |
-| [AsposePdfAbout](./misc/asposepdfabout/) | Get info about. |
+| [AsposePdfAbout](./misc/asposepdfabout/) | Get info about Product. |

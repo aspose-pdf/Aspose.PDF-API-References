@@ -10,7 +10,7 @@ url: /nodejs-cpp/misc/
 
 |      Name      |  Description   |
 | -------------- | -------------- |
-| [AsposePdfAbout](./asposepdfabout/) | Get info about. |
+| [AsposePdfAbout](./asposepdfabout/) | Get info about Product. |
 
 ## Detailed Description
 
