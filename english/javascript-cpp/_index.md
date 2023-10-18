@@ -10,6 +10,7 @@ is_root: true
 ---
 
 > Aspose.PDF for JavaScript via C++ allows developers manipulate them PDF files directly in the Web.
+Such operations are very time consuming, so we recommend using Web Worker. 
 
 
 ## Convert from PDF functions

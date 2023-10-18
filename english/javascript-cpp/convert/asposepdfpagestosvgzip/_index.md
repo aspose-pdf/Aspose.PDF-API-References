@@ -28,23 +28,7 @@ JSON object
   * **filesNameResult** - array of result filenames
 
 
-
-**Example**:
-```js
-  var ffileToSvgZip = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Convert a PDF-file to SVG(zip) and save the "ResultPdfToSvgZip.zip"*/
-      const json = AsposePdfPagesToSvgZip(event.target.result, e.target.files[0].name, "ResultPdfToSvgZip.zip");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
-      else document.getElementById('output').textContent = json.errorText;
-      /*Make a link to download the result file*/
-      DownloadFile(json.fileNameResult, "application/zip");
-    }
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  }
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -74,4 +58,19 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileToSvgZip = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Convert a PDF-file to SVG(zip) and save the "ResultPdfToSvgZip.zip"*/
+      const json = AsposePdfPagesToSvgZip(event.target.result, e.target.files[0].name, "ResultPdfToSvgZip.zip");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/zip");
+    }
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  }
 ```

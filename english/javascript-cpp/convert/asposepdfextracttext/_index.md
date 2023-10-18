@@ -25,20 +25,8 @@ JSON object
   * **errorText** - text error ("" no error)
   * **extractText** - text from PDF
 
-**Example**:
-```js
-  var ffileExtract = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Extract text from a PDF-file*/
-      const json = AsposePdfExtractText(event.target.result, e.target.files[0].name);
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.extractText;
-      else document.getElementById('output').textContent = json.errorText;
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -58,6 +46,19 @@ JSON object
         { "operation": 'AsposePdfExtractText', "params": [event.target.result, e.target.files[0].name] },
         [event.target.result]
       );
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+```
+**Simple example**:
+```js
+  var ffileExtract = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Extract text from a PDF-file*/
+      const json = AsposePdfExtractText(event.target.result, e.target.files[0].name);
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.extractText;
+      else document.getElementById('output').textContent = json.errorText;
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };

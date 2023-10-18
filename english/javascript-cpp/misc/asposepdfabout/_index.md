@@ -25,18 +25,7 @@ JSON object
 * **producer** - Full name/producer
 
 
-**Example**:
-
-```js
-  var onAsposePdfAbout = function () {
-    /*Get info about Product*/
-    const json = AsposePdfAbout();
-    if (json.errorCode == 0) document.getElementById('output').textContent = "JSON:\n" + JSON.stringify(json, null, 4);
-    else document.getElementById('output').textContent = json.errorText;
-  }
-
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -50,4 +39,13 @@ JSON object
     /*Get info about Product - Ask Web Worker*/
     AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfAbout', "params": [] }, []);
   };
+```
+**Simple example**:
+```js
+  var onAsposePdfAbout = function () {
+    /*Get info about Product*/
+    const json = AsposePdfAbout();
+    if (json.errorCode == 0) document.getElementById('output').textContent = "JSON:\n" + JSON.stringify(json, null, 4);
+    else document.getElementById('output').textContent = json.errorText;
+  }
 ```

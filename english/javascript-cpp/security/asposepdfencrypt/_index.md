@@ -51,24 +51,7 @@ JSON object
 * **fileNameResult** - result file name
 
 
-
-**Example**:
-
-```js
-  var ffileEncrypt = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Encrypt a PDF-file with passwords "user" and "owner", and save the "ResultDecrypt.pdf"*/
-      const json = AsposePdfEncrypt(event.target.result, e.target.files[0].name, "user", "owner", Module.Permissions.PrintDocument, Module.CryptoAlgorithm.RC4x40, "ResultEncrypt.pdf");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
-      else document.getElementById('output').textContent = json.errorText;
-      /*Make a link to download the result file*/
-      DownloadFile(json.fileNameResult, "application/pdf");
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -109,4 +92,19 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileEncrypt = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Encrypt a PDF-file with passwords "user" and "owner", and save the "ResultDecrypt.pdf"*/
+      const json = AsposePdfEncrypt(event.target.result, e.target.files[0].name, "user", "owner", Module.Permissions.PrintDocument, Module.CryptoAlgorithm.RC4x40, "ResultEncrypt.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

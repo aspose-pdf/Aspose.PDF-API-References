@@ -31,23 +31,7 @@ JSON object
 * **fileNameResult** - result file name
 
 
-**Example**:
-
-```js
-  var ffileAddPageNum = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Add page number to a PDF-file and save the "ResultAddPageNum.pdf"*/
-      const json = AsposePdfAddPageNum(event.target.result, e.target.files[0].name, "ResultAddPageNum.pdf");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
-      else document.getElementById('output').textContent = json.errorText;
-      /*Make a link to download the result file*/
-      DownloadFile(json.fileNameResult, "application/pdf");
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -82,4 +66,19 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileAddPageNum = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Add page number to a PDF-file and save the "ResultAddPageNum.pdf"*/
+      const json = AsposePdfAddPageNum(event.target.result, e.target.files[0].name, "ResultAddPageNum.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

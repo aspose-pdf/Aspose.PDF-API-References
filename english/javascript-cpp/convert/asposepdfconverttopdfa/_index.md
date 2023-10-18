@@ -41,28 +41,7 @@ JSON object
   * **fileNameLogResult** - result Log (xml) file name
 
 
-**Example**:
-```js
-var ffilePdfConvertToPDFA = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Convert a PDF-file to PDF/A(1A) and save the "ResultConvertToPDFA.pdf"*/
-      /*During conversion process, the validation is also performed, "ResultConvertToPDFA.xml"*/
-      const json = AsposePdfConvertToPDFA(event.target.result, e.target.files[0].name, Module.PdfFormat.PDF_A_1A, "ResultConvertToPDFA.pdf", "ResultConvertToPDFA.xml");
-      if (json.errorCode == 0)
-      {
-        document.getElementById('output').textContent = json.fileNameResult + "\nLog file (xml format): " + json.fileNameLogResult;
-        /*Make a link to download the result file*/
-        DownloadFile(json.fileNameResult, "application/pdf");
-      }
-      else document.getElementById('output').textContent = json.errorText + "\nLog file (xml format): " + json.fileNameLogResult;
-      /*Make a link to download the Log (xml)*/
-      DownloadFile(json.fileNameLogResult, "application/xml");
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -101,4 +80,25 @@ var ffilePdfConvertToPDFA = function (e) {
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+var ffilePdfConvertToPDFA = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Convert a PDF-file to PDF/A(1A) and save the "ResultConvertToPDFA.pdf"*/
+      /*During conversion process, the validation is also performed, "ResultConvertToPDFA.xml"*/
+      const json = AsposePdfConvertToPDFA(event.target.result, e.target.files[0].name, Module.PdfFormat.PDF_A_1A, "ResultConvertToPDFA.pdf", "ResultConvertToPDFA.xml");
+      if (json.errorCode == 0)
+      {
+        document.getElementById('output').textContent = json.fileNameResult + "\nLog file (xml format): " + json.fileNameLogResult;
+        /*Make a link to download the result file*/
+        DownloadFile(json.fileNameResult, "application/pdf");
+      }
+      else document.getElementById('output').textContent = json.errorText + "\nLog file (xml format): " + json.fileNameLogResult;
+      /*Make a link to download the Log (xml)*/
+      DownloadFile(json.fileNameLogResult, "application/xml");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

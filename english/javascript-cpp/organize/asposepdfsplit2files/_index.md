@@ -35,27 +35,8 @@ JSON object
 * **fileNameResult1** - result file name #1
 * **fileNameResult2** - result file name #2
 
-**Example**:
 
-```js
-  var ffileSplit = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Set number a page to split*/
-      const pageToSplit = 1;
-      /*Split to two PDF-files and save the "ResultSplit1.pdf", "ResultSplit2.pdf"*/
-      const json = AsposePdfSplit2Files(event.target.result, e.target.files[0].name, pageToSplit, "ResultSplit1.pdf", "ResultSplit2.pdf");
-      if (json.errorCode == 0) document.getElementById('output').textContent = e.target.files[0].name + " split: " + json.fileNameResult1 + ", " + json.fileNameResult2;
-      else document.getElementById('output').textContent = json.errorText;
-      /*Make a link to download the first result file*/
-      DownloadFile(json.fileNameResult1, "application/pdf");
-      /*Make a link to download the second result file*/
-      DownloadFile(json.fileNameResult2, "application/pdf");
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -94,4 +75,23 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileSplit = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Set number a page to split*/
+      const pageToSplit = 1;
+      /*Split to two PDF-files and save the "ResultSplit1.pdf", "ResultSplit2.pdf"*/
+      const json = AsposePdfSplit2Files(event.target.result, e.target.files[0].name, pageToSplit, "ResultSplit1.pdf", "ResultSplit2.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = e.target.files[0].name + " split: " + json.fileNameResult1 + ", " + json.fileNameResult2;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the first result file*/
+      DownloadFile(json.fileNameResult1, "application/pdf");
+      /*Make a link to download the second result file*/
+      DownloadFile(json.fileNameResult2, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

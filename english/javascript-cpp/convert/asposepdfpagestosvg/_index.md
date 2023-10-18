@@ -29,25 +29,7 @@ JSON object
   * **filesNameResult** - array of result filenames
 
 
-
-**Example**:
-```js
-  var ffileToSvg = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Convert a PDF-file to SVG*/
-      const json = AsposePdfPagesToSvg(event.target.result, e.target.files[0].name, "ResultPdfToSvg.svg");
-      if (json.errorCode == 0) {
-        document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
-        /*Make links to result files*/
-        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/svg");
-      }
-      else document.getElementById('output').textContent = json.errorText;
-    }
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  }
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -80,4 +62,21 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileToSvg = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Convert a PDF-file to SVG*/
+      const json = AsposePdfPagesToSvg(event.target.result, e.target.files[0].name, "ResultPdfToSvg.svg");
+      if (json.errorCode == 0) {
+        document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
+        /*Make links to result files*/
+        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/svg");
+      }
+      else document.getElementById('output').textContent = json.errorText;
+    }
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  }
 ```
