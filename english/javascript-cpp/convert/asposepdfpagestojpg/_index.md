@@ -31,7 +31,7 @@ JSON object
   * **filesNameResult** - array of result filenames
 
 
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
