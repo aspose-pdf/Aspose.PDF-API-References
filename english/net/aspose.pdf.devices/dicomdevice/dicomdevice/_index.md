@@ -1,14 +1,14 @@
 ---
-title: DicomDevice
+title: DicomDevice.DicomDevice
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the DicomDeviceaspose.pdf.devices/dicomdevice class with default resolution.
+description: DicomDevice constructor. Initializes a new instance of the DicomDevice class with default resolution
 type: docs
 weight: 10
 url: /net/aspose.pdf.devices/dicomdevice/dicomdevice/
 ---
 ## DicomDevice() {#constructor}
 
-Initializes a new instance of the [`DicomDevice`](../../dicomdevice) class with default resolution.
+Initializes a new instance of the [`DicomDevice`](../) class with default resolution.
 
 ```csharp
 public DicomDevice()
@@ -16,15 +16,15 @@ public DicomDevice()
 
 ### See Also
 
-* class [DicomDevice](../../dicomdevice)
-* namespace [Aspose.Pdf.Devices](../../dicomdevice)
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DicomDevice(Resolution) {#constructor_1}
 
-Initializes a new instance of the [`DicomDevice`](../../dicomdevice) class.  Resolution for the result image file, see [`Resolution`](../../resolution) class.
+Initializes a new instance of the [`DicomDevice`](../) class.  Resolution for the result image file, see [`Resolution`](../../resolution/) class.
 
 ```csharp
 public DicomDevice(Resolution resolution)
@@ -32,16 +32,16 @@ public DicomDevice(Resolution resolution)
 
 ### See Also
 
-* class [Resolution](../../resolution)
-* class [DicomDevice](../../dicomdevice)
-* namespace [Aspose.Pdf.Devices](../../dicomdevice)
+* class [Resolution](../../resolution/)
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DicomDevice(PageSize) {#constructor_2}
 
-Initializes a new instance of the [`DicomDevice`](../../dicomdevice) class with provided page size, with default resolution (=150).
+Initializes a new instance of the [`DicomDevice`](../) class with provided page size, with default resolution (=150).
 
 ```csharp
 public DicomDevice(PageSize pageSize)
@@ -53,16 +53,16 @@ public DicomDevice(PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [DicomDevice](../../dicomdevice)
-* namespace [Aspose.Pdf.Devices](../../dicomdevice)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DicomDevice(int, int) {#constructor_4}
 
-Initializes a new instance of the [`DicomDevice`](../../dicomdevice) class with provided image dimensions, with default resolution (=150).
+Initializes a new instance of the [`DicomDevice`](../) class with provided image dimensions, with default resolution (=150).
 
 ```csharp
 public DicomDevice(int width, int height)
@@ -75,15 +75,15 @@ public DicomDevice(int width, int height)
 
 ### See Also
 
-* class [DicomDevice](../../dicomdevice)
-* namespace [Aspose.Pdf.Devices](../../dicomdevice)
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DicomDevice(PageSize, Resolution) {#constructor_3}
 
-Initializes a new instance of the [`DicomDevice`](../../dicomdevice) class with provided page size and resolution.
+Initializes a new instance of the [`DicomDevice`](../) class with provided page size and resolution.
 
 ```csharp
 public DicomDevice(PageSize pageSize, Resolution resolution)
@@ -92,21 +92,21 @@ public DicomDevice(PageSize pageSize, Resolution resolution)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageSize | PageSize | Page size of the output image. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution) class. |
+| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution/) class. |
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [Resolution](../../resolution)
-* class [DicomDevice](../../dicomdevice)
-* namespace [Aspose.Pdf.Devices](../../dicomdevice)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DicomDevice(int, int, Resolution) {#constructor_5}
 
-Initializes a new instance of the [`DicomDevice`](../../dicomdevice) class with provided image dimensions and resolution.
+Initializes a new instance of the [`DicomDevice`](../) class with provided image dimensions and resolution.
 
 ```csharp
 public DicomDevice(int width, int height, Resolution resolution)
@@ -116,13 +116,13 @@ public DicomDevice(int width, int height, Resolution resolution)
 | --- | --- | --- |
 | width | Int32 | Image output width. |
 | height | Int32 | Image output height. |
-| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution) class. |
+| resolution | Resolution | Resolution for the result image file, see [`Resolution`](../../resolution/) class. |
 
 ### See Also
 
-* class [Resolution](../../resolution)
-* class [DicomDevice](../../dicomdevice)
-* namespace [Aspose.Pdf.Devices](../../dicomdevice)
+* class [Resolution](../../resolution/)
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

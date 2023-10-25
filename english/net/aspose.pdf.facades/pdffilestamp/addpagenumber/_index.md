@@ -1,7 +1,7 @@
 ---
-title: AddPageNumber
+title: PdfFileStamp.AddPageNumber
 second_title: Aspose.PDF for .NET API Reference
-description: Add page number to file. Page number text may contain  sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally.
+description: PdfFileStamp method. Add page number to file. Page number text may contain  sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally
 type: docs
 weight: 170
 url: /net/aspose.pdf.facades/pdffilestamp/addpagenumber/
@@ -18,7 +18,7 @@ public void AddPageNumber(string formatString)
 | --- | --- | --- |
 | formatString | String | Text of page number |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -28,8 +28,8 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void AddPageNumber(FormattedText formattedText)
 | --- | --- | --- |
 | formattedText | FormattedText | Format string for page number representes as FormattedText. |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -56,9 +56,9 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -81,7 +81,7 @@ public void AddPageNumber(string formatString, int position, float leftMargin, f
 | topMargin | Single | Margin on the top edge of the page. |
 | bottomMargin | Single | Margin on the bottom edge of the page. |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -91,8 +91,8 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -111,7 +111,7 @@ public void AddPageNumber(string formatString, float x, float y)
 | x | Single | X coordinate of page number. |
 | y | Single | Y coordinate of page number. |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -121,8 +121,8 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -145,7 +145,7 @@ public void AddPageNumber(FormattedText formattedText, int position, float leftM
 | topMargin | Single | Margin on the top edge of the page. |
 | bottomMargin | Single | Margin on the bottom edge of the page. |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -155,9 +155,9 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -176,7 +176,7 @@ public void AddPageNumber(FormattedText formattedText, float x, float y)
 | x | Single | X coordinate of page number. |
 | y | Single | Y coordinate of page number. |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -186,9 +186,9 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -206,7 +206,7 @@ public void AddPageNumber(string formatString, int position)
 | formatString | String | Format of the page number. This text may contain # which will be replaced with page number. |
 | position | Int32 | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -216,8 +216,8 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -235,7 +235,7 @@ public void AddPageNumber(FormattedText formattedText, int position)
 | formattedText | FormattedText | FormattedText object which contains format of the page number and text properties. This text may contain # which will be replaced with page number. |
 | position | Int32 | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left. You can use the following constants: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
@@ -245,9 +245,9 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext)
-* class [PdfFileStamp](../../pdffilestamp)
-* namespace [Aspose.Pdf.Facades](../../pdffilestamp)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

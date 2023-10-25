@@ -1,7 +1,7 @@
 ---
-title: ResizeContents
+title: PdfFileEditor.ResizeContents
 second_title: Aspose.PDF for .NET API Reference
-description: Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
+description: PdfFileEditor method. Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units
 type: docs
 weight: 350
 url: /net/aspose.pdf.facades/pdffileeditor/resizecontents/
@@ -27,7 +27,7 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 
 true if resize was successful.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -43,8 +43,8 @@ null,
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -69,7 +69,7 @@ public bool ResizeContents(string source, string destination, int[] pages,
 
 true if resize was successful.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -92,9 +92,9 @@ fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, para
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -113,7 +113,7 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 | pages | Int32[] | List of page indexes. |
 | parameters | ContentsResizeParameters | Resize parameters. |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -138,10 +138,10 @@ doc.Save("output.pdf");
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document)
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -159,7 +159,7 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 | source | Document | Source document. |
 | parameters | ContentsResizeParameters | Resize parameters. |
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -184,10 +184,10 @@ doc.Save("output.pdf");
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document)
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -212,7 +212,7 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 
 Returns true if success.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -238,9 +238,9 @@ dest.Close();
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -266,7 +266,7 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 
 True if resize was successful.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -284,8 +284,8 @@ null,
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -312,9 +312,9 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -341,9 +341,9 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

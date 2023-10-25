@@ -1,9 +1,9 @@
 ---
-title: PrintLargePdf
+title: PdfViewer.PrintLargePdf
 second_title: Aspose.PDF for .NET API Reference
-description: Opens and prints a large Pdf file. If your Pdf file has hundreds of pages or more or its size is more than 3 MB this method is recommended to get better performance.
+description: PdfViewer method. Opens and prints a large Pdf file. If your Pdf file has hundreds of pages or more or its size is more than 3 MB this method is recommended to get better performance
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
@@ -18,33 +18,34 @@ public void PrintLargePdf(string filePath)
 | --- | --- | --- |
 | filePath | String | The path of Pdf file. |
 
-### Remarks
+## Remarks
 
-This method has integrated the opening and the printing of the file and you need not calling the OpenPdfFile() explicitly.
+This method integrates the opening and the printing of the file and you don't need to call the BindPdf() explicitly.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
-dfViewer viewer = new PdfViewer();
-iewer.AutoResize = true;     //print the file with adjusted size
-iewer.AutoRotate = true;     //print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-iewer.PrintLargePdf(@"d:\test.pdf");
+PdfViewer viewer = new PdfViewer();
+viewer.AutoResize = true;     //print the file with adjusted size
+viewer.AutoRotate = true;     //print the file with adjusted rotation
+viewer.PrintPageDialog=false; //do not produce the page number dialog when printing
+viewer.PrintLargePdf(@"d:\test.pdf");
+viewer.Close();
 
-VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true      'print the file with adjusted size
-iewer.AutoRotate = true      'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-iewer.PrintLargePdf(@"d:\test.pdf")
-iewer.ClosePdfFile();
+[VisualBasic]
+Dim viewer As New PdfViewer()
+viewer.AutoResize = True       'print the file with adjusted size
+viewer.AutoRotate = True       'print the file with adjusted rotation
+viewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+viewer.PrintLargePdf(@"d:\test.pdf")
+viewer.Close()
 ```
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer)
-* namespace [Aspose.Pdf.Facades](../../pdfviewer)
+* class [PdfViewer](../../pdfviewer/)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -59,36 +60,36 @@ public void PrintLargePdf(Stream inputStream)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | The pdf stream to be opened and printed.. |
+| inputStream | Stream | The pdf stream to be opened and printed. |
 
-### Remarks
+## Remarks
 
-This method has integrated the opening and the printing of the file and you need not calling the OpenPdfFile() explicitly.
+This method integrates the opening and the printing of the file and you don't need to call the BindPdf() explicitly.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.AutoResize = true;        //print the file with adjusted size
 iewer.AutoRotate = true;        //print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
+iewer.PrintPageDialog=false;    //do not produce the page number dialog when printing
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")));
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true         'print the file with adjusted size
-iewer.AutoRotate = true         'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
+im viewer As New PdfViewer()
+iewer.AutoResize = True         'print the file with adjusted size
+iewer.AutoRotate = True         'print the file with adjusted rotation
+iewer.PrintPageDialog = False   'do not produce the page number dialog when printing
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer)
-* namespace [Aspose.Pdf.Facades](../../pdfviewer)
+* class [PdfViewer](../../pdfviewer/)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -106,40 +107,41 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 | filePath | String | The path of Pdf file. |
 | printerSettings | PrinterSettings | The printer settings. |
 
-### Remarks
+## Remarks
 
-This method has integrated the opening and the printing of the file and you need not calling the OpenPdfFile() explicitly.
+This method integrates the opening and the printing of the file and you don't need to call the BindPdf() explicitly.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.AutoResize = true;       //print the file with adjusted size
 iewer.AutoRotate = true;       //print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
 iewer.PrintLargePdf(@"d:\test.pdf",ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'print the file with adjusted size
-iewer.AutoRotate = true        'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True        'print the file with adjusted size
+iewer.AutoRotate = True        'print the file with adjusted rotation
+iewer.PrintPageDialog = False  'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
 iewer.PrintLargePdf(@"d:\test.pdf",ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer)
-* namespace [Aspose.Pdf.Facades](../../pdfviewer)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../../pdfviewer/)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -154,43 +156,44 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | The pdf stream to be opened and printed.. |
+| inputStream | Stream | The pdf stream to be opened and printed. |
 | printerSettings | PrinterSettings | The printer settings. |
 
-### Remarks
+## Remarks
 
-This method has integrated the opening and the printing of the file and you need not calling the OpenPdfFile() explicitly.
+This method has integrates the opening and the printing of the file and you don't need to call the BindPdf() explicitly.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.AutoResize = true;       //print the file with adjusted size
 iewer.AutoRotate = true;       //print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true        'print the file with adjusted size
-iewer.AutoRotate = true        'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True        'print the file with adjusted size
+iewer.AutoRotate = True        'print the file with adjusted rotation
+iewer.PrintPageDialog = False  'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer)
-* namespace [Aspose.Pdf.Facades](../../pdfviewer)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../../pdfviewer/)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -210,46 +213,48 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 | pageSettings | PageSettings | The page settings. |
 | printerSettings | PrinterSettings | The printer settings. |
 
-### Remarks
+## Remarks
 
-This method has integrated the opening and the printing of the file and you need not calling the OpenPdfFile() explicitly.
+This method integrates the opening and the printing of the file and you don't need to call the BindPdf() explicitly.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.AutoResize = true;       //print the file with adjusted size
 iewer.AutoRotate = true;       //print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'print the file with adjusted size
-iewer.AutoRotate = true       'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer)
-* namespace [Aspose.Pdf.Facades](../../pdfviewer)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../../pdfviewer/)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -269,46 +274,48 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 | pageSettings | PageSettings | The page settings. |
 | printerSettings | PrinterSettings | The printer settings. |
 
-### Remarks
+## Remarks
 
-This method has integrated the opening and the printing of the file and you need not calling the OpenPdfFile() explicitly.
+This method integrates the opening and the printing of the file and you don't need to call the BindPdf() explicitly.
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
 dfViewer viewer = new PdfViewer();
 iewer.AutoResize = true;       //print the file with adjusted size
 iewer.AutoRotate = true;       //print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-ystem.Drawing.Printing.PrinterSettings ps = new System.Drawing.Printing.PrinterSettings();
+iewer.PrintPageDialog = false; //do not produce the page number dialog when printing
+spose.Pdf.Printing.PrinterSettings ps = new Aspose.Pdf.Printing.PrinterSettings();
 rintDocument prtdoc = new PrintDocument();
 s.PrinterName = prtdoc.PrinterSettings.PrinterName;
-ageSettings pgs = new PageSettings();
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169);
-gs.Margins = new Margins(0, 0, 0, 0);
+spose.Pdf.Printing.PageSettings pgs = new Aspose.Pdf.Printing.PageSettings();
+gs.PaperSize = new Aspose.Pdf.Printing.PaperSize("A4", 827, 1169);
+gs.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pgs,ps);
-iewer.ClosePdfFile();
+iewer.Close();
 
 VisualBasic]
-im viewer As PdfViewer = new PdfViewer();
-iewer.AutoResize = true       'print the file with adjusted size
-iewer.AutoRotate = true       'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-im ps As System.Drawing.Printing.PrinterSettings = new System.Drawing.Printing.PrinterSettings()
-im prtdoc As PrintDocument = new PrintDocument()
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+im ps As New Aspose.Pdf.Printing.PrinterSettings()
+im prtdoc As New PrintDocument()
 s.PrinterName = prtdoc.PrinterSettings.PrinterName
-im pgs As PageSettings=new PageSettings()
-gs.PaperSize = new System.Drawing.Printing.PaperSize("A4", 827, 1169)
-gs.Margins = new Margins(0, 0, 0, 0)
+im pgs As New Aspose.Pdf.Printing.PageSettings()
+gs.PaperSize = New Aspose.Pdf.Printing.PaperSize("A4", 827, 1169)
+gs.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
 iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pgs,ps)
-iewer.ClosePdfFile()
+iewer.Close()
 ```
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer)
-* namespace [Aspose.Pdf.Facades](../../pdfviewer)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../../pdfviewer/)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

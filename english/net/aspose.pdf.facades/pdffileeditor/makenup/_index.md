@@ -1,7 +1,7 @@
 ---
-title: MakeNUp
+title: PdfFileEditor.MakeNUp
 second_title: Aspose.PDF for .NET API Reference
-description: Makes N-Up document from the firstInputFile to outputFile.
+description: PdfFileEditor method. Makes NUp document from the firstInputFile to outputFile
 type: docs
 weight: 340
 url: /net/aspose.pdf.facades/pdffileeditor/makenup/
@@ -25,7 +25,7 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -34,8 +34,8 @@ pfe.MakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -59,7 +59,7 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -70,8 +70,8 @@ pfe.MakeNUp(inputStream, outputStream, 3, 3);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -96,7 +96,7 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageS
 
 True if operation was succeeded.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -107,9 +107,9 @@ pfe.MakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -132,7 +132,7 @@ public bool MakeNUp(string firstInputFile, string secondInputFile, string output
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -141,8 +141,8 @@ pfe.MakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -165,7 +165,7 @@ public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream ou
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -177,8 +177,8 @@ pfe.MakeNUp(input1, input2, output);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -201,7 +201,7 @@ public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -210,8 +210,8 @@ pfe.MakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.p
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -234,7 +234,7 @@ public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -247,8 +247,8 @@ pfe.MakeNUp(new Stream[] { stream1, stream2, stream3 }, output, false);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -273,7 +273,7 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize 
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -282,9 +282,9 @@ pfe.MakeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -311,9 +311,9 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -340,9 +340,9 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -368,8 +368,8 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -395,8 +395,8 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

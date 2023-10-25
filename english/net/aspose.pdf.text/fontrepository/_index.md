@@ -1,9 +1,9 @@
 ---
-title: FontRepository
+title: Class FontRepository
 second_title: Aspose.PDF for .NET API Reference
-description: Performs font search. Searches in system installed fonts and standard Pdf fonts. Also provides functionality to open custom fonts.
+description: Aspose.Pdf.Text.FontRepository class. Performs font search. Searches in system installed fonts and standard Pdf fonts. Also provides functionality to open custom fonts
 type: docs
-weight: 7420
+weight: 7620
 url: /net/aspose.pdf.text/fontrepository/
 ---
 ## FontRepository class
@@ -18,30 +18,30 @@ public sealed class FontRepository
 
 | Name | Description |
 | --- | --- |
-| [FontRepository](fontrepository)() | The default constructor. |
+| [FontRepository](fontrepository/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [Sources](../../aspose.pdf.text/fontrepository/sources) { get; } | Gets font sources collection. |
-| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions) { get; } | Gets font substitution strategies collection. |
+| static [Sources](../../aspose.pdf.text/fontrepository/sources/) { get; } | Gets font sources collection. |
+| static [Substitutions](../../aspose.pdf.text/fontrepository/substitutions/) { get; } | Gets font substitution strategies collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont)(string) | Searches and returns font with specified font name. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_3)(string, bool) | Searches and returns font with specified font name ignoring or honoring case sensitivity. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_1)(string, FontStyles) | Searches and returns font with specified font name and font style. |
-| static [FindFont](../../aspose.pdf.text/fontrepository/findfont#findfont_2)(string, FontStyles, bool) | Searches and returns font with specified font name and font style ignoring or honoring case sensitivity. |
-| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts)() | Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. By default fonts are loaded on first request for any font. Use of this method loads system and standard Pdf fonts immediately before any Pdf document was open. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_1)(string) | Opens font with specified font file path. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont)(Stream, FontTypes) | Opens font with specified font stream. |
-| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont#openfont_2)(string, string) | Opens font with specified font file path and metrics file path. |
-| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts)() | Reloads all fonts specified by property [`Sources`](./sources) |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont)(string) | Searches and returns font with specified font name. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_3)(string, bool) | Searches and returns font with specified font name ignoring or honoring case sensitivity. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_1)(string, FontStyles) | Searches and returns font with specified font name and font style. |
+| static [FindFont](../../aspose.pdf.text/fontrepository/findfont/#findfont_2)(string, FontStyles, bool) | Searches and returns font with specified font name and font style ignoring or honoring case sensitivity. |
+| static [LoadFonts](../../aspose.pdf.text/fontrepository/loadfonts/)() | Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. By default fonts are loaded on first request for any font. Use of this method loads system and standard Pdf fonts immediately before any Pdf document was open. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_1)(string) | Opens font with specified font file path. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont)(Stream, FontTypes) | Opens font with specified font stream. |
+| static [OpenFont](../../aspose.pdf.text/fontrepository/openfont/#openfont_2)(string, string) | Opens font with specified font file path and metrics file path. |
+| static [ReloadFonts](../../aspose.pdf.text/fontrepository/reloadfonts/)() | Reloads all fonts specified by property [`Sources`](./sources/) |
 
-### Examples
+## Examples
 
 The example demonstrates how to find font and replace the font of text of first page.
 
@@ -67,9 +67,9 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextFragmentAbsorber](../textfragmentabsorber)
-* class [Document](../../aspose.pdf/document)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text)
+* class [TextFragmentAbsorber](../textfragmentabsorber/)
+* class [Document](../../aspose.pdf/document/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: AddImage
+title: PdfFileMend.AddImage
 second_title: Aspose.PDF for .NET API Reference
-description: Adds image to the specified page of PDF document at specified coordinates.
+description: PdfFileMend method. Adds image to the specified page of PDF document at specified coordinates
 type: docs
 weight: 50
 url: /net/aspose.pdf.facades/pdffilemend/addimage/
@@ -28,7 +28,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -41,8 +41,8 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -70,7 +70,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -83,9 +83,9 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -112,7 +112,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -125,8 +125,8 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -154,7 +154,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -167,9 +167,9 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -196,7 +196,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -206,8 +206,8 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -235,7 +235,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -245,9 +245,9 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -274,7 +274,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -284,8 +284,8 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -313,7 +313,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 
 True if success false otherwise.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
@@ -323,9 +323,9 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters)
-* class [PdfFileMend](../../pdffilemend)
-* namespace [Aspose.Pdf.Facades](../../pdffilemend)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

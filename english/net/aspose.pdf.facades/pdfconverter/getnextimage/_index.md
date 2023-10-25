@@ -1,7 +1,7 @@
 ---
-title: GetNextImage
+title: PdfConverter.GetNextImage
 second_title: Aspose.PDF for .NET API Reference
-description: Saves image to file with default image format - jpeg.
+description: PdfConverter method. Saves image to file with default image format  jpeg
 type: docs
 weight: 140
 url: /net/aspose.pdf.facades/pdfconverter/getnextimage/
@@ -20,8 +20,8 @@ public void GetNextImage(string outputFile)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,9 +41,9 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,7 +61,7 @@ public void GetNextImage(string outputFile, ImageFormat format)
 | outputFile | String | The file path and name to save the image. |
 | format | ImageFormat | The format of the image. |
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
@@ -92,8 +92,8 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -114,9 +114,9 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -135,8 +135,8 @@ public void GetNextImage(Stream outputStream)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -156,9 +156,9 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -178,8 +178,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -200,9 +200,9 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -224,7 +224,7 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 | imageHeight | Int32 | The image height, the unit is pixel. |
 | quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
@@ -255,8 +255,8 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -280,8 +280,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -303,7 +303,7 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 | imageHeight | Double | The image height, the unit is pixels.. |
 | quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
@@ -338,8 +338,8 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -363,8 +363,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -384,7 +384,7 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 | imageWidth | Int32 | The image width, the unit is pixel. |
 | imageHeight | Int32 | The image height, the unit is pixel. |
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
@@ -415,8 +415,8 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -438,8 +438,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -460,8 +460,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -483,9 +483,9 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -506,8 +506,8 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -529,9 +529,9 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+
