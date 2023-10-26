@@ -1,7 +1,7 @@
 ---
-title: MakeBooklet
+title: PdfFileEditor.MakeBooklet
 second_title: Aspose.PDF for .NET API Reference
-description: Makes booklet from the input file to output file.
+description: PdfFileEditor method. Makes booklet from the input file to output file
 type: docs
 weight: 330
 url: /net/aspose.pdf.facades/pdffileeditor/makebooklet/
@@ -23,7 +23,7 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -32,8 +32,8 @@ pfe.MakeBooklet("input.pdf", "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -55,7 +55,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 True if operation was succeeded.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -66,8 +66,8 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -90,7 +90,7 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 True if operation is succeeded.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -99,9 +99,9 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -124,7 +124,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 True if operation was succeeded.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -135,9 +135,9 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -161,7 +161,7 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -170,8 +170,8 @@ pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -195,7 +195,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -206,8 +206,8 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -233,7 +233,7 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, 
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -242,9 +242,9 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -270,7 +270,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 boolean - True for success, or false.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -281,9 +281,9 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -311,9 +311,9 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -341,9 +341,9 @@ True if operation was succeeded.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -368,9 +368,9 @@ True if operation is succeeded.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -395,9 +395,9 @@ true if booklet was built successfully.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: FormattedText
+title: FormattedText.FormattedText
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes FormattedText.
+description: FormattedText constructor. Initializes FormattedText
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -16,8 +16,8 @@ public FormattedText()
 
 ### See Also
 
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,8 +36,8 @@ public FormattedText(string text)
 
 ### See Also
 
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -62,11 +62,11 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 ### See Also
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -92,11 +92,11 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 ### See Also
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -121,10 +121,10 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -150,10 +150,10 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -179,11 +179,11 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ### See Also
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -210,11 +210,11 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ### See Also
 
-* class [FontColor](../../fontcolor)
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -240,10 +240,10 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -270,10 +270,10 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 ### See Also
 
-* enum [FontStyle](../../fontstyle)
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -299,9 +299,9 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 ### See Also
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -322,8 +322,8 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 ### See Also
 
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -348,9 +348,9 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 ### See Also
 
-* enum [EncodingType](../../encodingtype)
-* class [FormattedText](../../formattedtext)
-* namespace [Aspose.Pdf.Facades](../../formattedtext)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

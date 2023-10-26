@@ -47,25 +47,7 @@ JSON object
 * **fileNameResult** - result file name
 
 
-**Example**:
-
-```js
-  var ffilePdfSetInfo = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Set PDF info: title, creator, author, subject, keywords, creation (date), mod (date modify)*/
-      /*If not need to set value, use undefined or "" (empty string)*/
-      /*Set info (metadata) in a PDF-file and save the "ResultSetInfo.pdf"*/
-      const json = AsposePdfSetInfo(event.target.result, e.target.files[0].name, "Setting PDF Document Information", "", "Aspose", undefined, "Aspose.Pdf, DOM, API", undefined, "16/02/2023 11:55 PM", "ResultSetInfo.pdf");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
-      else document.getElementById('output').textContent = json.errorText;
-      /*Make a link to download the result file*/
-      DownloadFile(json.fileNameResult, "application/pdf");
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -87,7 +69,7 @@ JSON object
       const subject = undefined;
       const keywords = 'Aspose.Pdf, DOM, API';
       const creation = undefined; /*create date*/
-      const mod = '16/02/2023 11:55 PM'; /*modify date*/
+      const mod = '2008/12/21 12:15:12'; /*modify date*/
       /*Set info (metadata) in a PDF-file and save the "ResultSetInfo.pdf" - Ask Web Worker*/
       AsposePDFWebWorker.postMessage(
         { "operation": 'AsposePdfSetInfo',
@@ -109,4 +91,21 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffilePdfSetInfo = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Set PDF info: title, creator, author, subject, keywords, creation (date), mod (date modify)*/
+      /*If not need to set value, use undefined or "" (empty string)*/
+      /*Set info (metadata) in a PDF-file and save the "ResultSetInfo.pdf"*/
+      const json = AsposePdfSetInfo(event.target.result, e.target.files[0].name, "Setting PDF Document Information", "", "Aspose", undefined, "Aspose.Pdf, DOM, API", undefined, "2008/12/21 12:15:12", "ResultSetInfo.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

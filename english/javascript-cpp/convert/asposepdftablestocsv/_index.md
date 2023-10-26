@@ -31,25 +31,7 @@ JSON object
   * **filesNameResult** - array of result filenames
 
 
-
-**Example**:
-```js
-  var ffileToCSV = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Convert a PDF-file to CSV (extract tables) with template "ResultPdfTablesToCSV{0:D2}.csv" ({0}, {0:D2}, {0:D3}, ... format page number), TAB as delimiter*/
-      const json = AsposePdfTablesToCSV(event.target.result, e.target.files[0].name, "ResultPdfTablesToCSV{0:D2}.csv", "\t");
-      if (json.errorCode == 0) {
-        document.getElementById('output').textContent = "Files(tables) count: " + json.filesCount.toString();
-        /*Make links to result files*/
-        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "text/csv");
-      }
-      else document.getElementById('output').textContent = json.errorText;
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -82,4 +64,21 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileToCSV = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Convert a PDF-file to CSV (extract tables) with template "ResultPdfTablesToCSV{0:D2}.csv" ({0}, {0:D2}, {0:D3}, ... format page number), TAB as delimiter*/
+      const json = AsposePdfTablesToCSV(event.target.result, e.target.files[0].name, "ResultPdfTablesToCSV{0:D2}.csv", "\t");
+      if (json.errorCode == 0) {
+        document.getElementById('output').textContent = "Files(tables) count: " + json.filesCount.toString();
+        /*Make links to result files*/
+        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "text/csv");
+      }
+      else document.getElementById('output').textContent = json.errorText;
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

@@ -1,7 +1,7 @@
 ---
-title: Produce
+title: PdfProducer.Produce
 second_title: Aspose.PDF for .NET API Reference
-description: Produce the PDF stream using specified import format. This sample shows how to produce Pdf stream from CGM stream.
+description: PdfProducer method. Produce the PDF stream using specified import format. This sample shows how to produce Pdf stream from CGM stream
 type: docs
 weight: 10
 url: /net/aspose.pdf.facades/pdfproducer/produce/
@@ -34,14 +34,14 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentNullException | Input or output stream is null |
 
 ### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -73,15 +73,15 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentNullException | Output stream is null |
 | ArgumentException | Input file name is an empty string |
 
 ### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -114,15 +114,15 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentNullException | Input stream is null |
 | ArgumentException | Output file name is an empty string |
 
 ### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -151,14 +151,14 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentException | Input or output file name is an empty string |
 
 ### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -191,15 +191,15 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentNullException | Output stream is null |
 | ArgumentException | Input file name is an empty string |
 
 ### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -232,15 +232,15 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentNullException | Input stream is null |
 | ArgumentException | Output file name is an empty string |
 
 ### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -270,14 +270,14 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentException | Input or output file name is an empty string |
 
 ### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -311,14 +311,14 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 
 | exception | condition |
 | --- | --- |
-| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception) | The exception is thrown when a file is invalid. |
+| [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | The exception is thrown when a file is invalid. |
 | ArgumentNullException | Input or output stream is null. |
 
 ### See Also
 
-* class [ImportOptions](../../../aspose.pdf/importoptions)
-* class [PdfProducer](../../pdfproducer)
-* namespace [Aspose.Pdf.Facades](../../pdfproducer)
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
+* class [PdfProducer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

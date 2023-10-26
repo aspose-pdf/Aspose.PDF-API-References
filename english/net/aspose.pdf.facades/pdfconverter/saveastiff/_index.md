@@ -1,7 +1,7 @@
 ---
-title: SaveAsTIFF
+title: PdfConverter.SaveAsTIFF
 second_title: Aspose.PDF for .NET API Reference
-description: Converts each pages of a pdf document to images and saves images to a single TIFF file.
+description: PdfConverter method. Converts each pages of a pdf document to images and saves images to a single TIFF file
 type: docs
 weight: 160
 url: /net/aspose.pdf.facades/pdfconverter/saveastiff/
@@ -18,7 +18,7 @@ public void SaveAsTIFF(string outputFile)
 | --- | --- | --- |
 | outputFile | String | The file to save the TIFF image. |
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
@@ -36,8 +36,8 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -55,7 +55,7 @@ public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 | outputFile | String | The output file. |
 | compressionType | CompressionType | Type of the compression. |
 
-### Examples
+## Examples
 
 ```csharp
 [C#]
@@ -72,9 +72,9 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ### See Also
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -95,8 +95,8 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -116,9 +116,9 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -139,10 +139,10 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -165,9 +165,9 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 ### See Also
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -189,9 +189,9 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -215,10 +215,10 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -237,8 +237,8 @@ public void SaveAsTIFF(Stream outputStream)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -258,9 +258,9 @@ public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 
 ### See Also
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -280,9 +280,9 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -303,10 +303,10 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -327,8 +327,8 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 ### See Also
 
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -351,9 +351,9 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 ### See Also
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -375,9 +375,9 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -401,10 +401,10 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -424,9 +424,9 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -447,10 +447,10 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -470,9 +470,9 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -493,10 +493,10 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings)
-* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter)
-* class [PdfConverter](../../pdfconverter)
-* namespace [Aspose.Pdf.Facades](../../pdfconverter)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

@@ -31,37 +31,7 @@ JSON object
   * **fileNameResult** - result file name
 
 
-**Example**:
-
-```js
-  /*Set the default image filename*/
-  var fileImage = "/Aspose.jpg";
-
-  var ffileImage = function (e) {
-    const file_reader = new FileReader();
-    /*Set the image filename*/
-    fileImage = e.target.files[0].name;
-    file_reader.onload = (event) => {
-      /*Save the BLOB in the Memory FS for processing*/
-      AsposePdfPrepare(event.target.result, fileImage);
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-
-  var ffileAddImage = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Add an image to end a PDF-file and save the "ResultImage.pdf"*/
-      const json = AsposePdfAddImage(event.target.result, e.target.files[0].name, fileImage, "ResultImage.pdf");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
-      else document.getElementById('output').textContent = json.errorText;
-      /*Make a link to download the result file*/
-      DownloadFile(json.fileNameResult, "application/pdf");
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -116,4 +86,33 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  /*Set the default image filename*/
+  var fileImage = "/Aspose.jpg";
+
+  var ffileImage = function (e) {
+    const file_reader = new FileReader();
+    /*Set the image filename*/
+    fileImage = e.target.files[0].name;
+    file_reader.onload = (event) => {
+      /*Save the BLOB in the Memory FS for processing*/
+      AsposePdfPrepare(event.target.result, fileImage);
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  var ffileAddImage = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Add an image to end a PDF-file and save the "ResultImage.pdf"*/
+      const json = AsposePdfAddImage(event.target.result, e.target.files[0].name, fileImage, "ResultImage.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

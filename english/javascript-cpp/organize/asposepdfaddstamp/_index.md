@@ -50,37 +50,8 @@ JSON object
 * **errorText** - text error ("" no error)
 * **fileNameResult** - result file name
 
-**Example**:
 
-```js
-  /*Set the default stamp filename*/
-  var fileStamp = "/Aspose.jpg";
-
-  var ffileStamp = function (e) {
-    const file_reader = new FileReader();
-    /*Set the stamp filename*/
-    fileStamp = e.target.files[0].name;
-    file_reader.onload = (event) => {
-      /*Save the BLOB in the Memory FS for processing*/
-      AsposePdfPrepare(event.target.result, fileStamp);
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-
-  var ffileAddStamp = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Add stamp to a PDF-file and save the "ResultImage.pdf"*/
-      const json = AsposePdfAddStamp(event.target.result, e.target.files[0].name, fileStamp, 0, 5, 5, 40, 40, Module.Rotation.on270, 0.5, "ResultStamp.pdf");
-      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
-      else document.getElementById('output').textContent = json.errorText;
-      /*Make a link to download the result file*/
-      DownloadFile(json.fileNameResult, "application/pdf");
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -143,4 +114,33 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  /*Set the default stamp filename*/
+  var fileStamp = "/Aspose.jpg";
+
+  var ffileStamp = function (e) {
+    const file_reader = new FileReader();
+    /*Set the stamp filename*/
+    fileStamp = e.target.files[0].name;
+    file_reader.onload = (event) => {
+      /*Save the BLOB in the Memory FS for processing*/
+      AsposePdfPrepare(event.target.result, fileStamp);
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  var ffileAddStamp = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Add stamp to a PDF-file and save the "ResultImage.pdf"*/
+      const json = AsposePdfAddStamp(event.target.result, e.target.files[0].name, fileStamp, 0, 5, 5, 40, 40, Module.Rotation.on270, 0.5, "ResultStamp.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

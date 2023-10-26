@@ -42,21 +42,7 @@ JSON object
 * **pagecount** - Page count
 
 
-**Example**:
-
-```js
-  var ffilePdfGetInfo = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Get info (metadata) from a PDF-file*/
-      const json = AsposePdfGetInfo(event.target.result, e.target.files[0].name);
-      if (json.errorCode == 0) document.getElementById('output').textContent = "JSON:\n" + JSON.stringify(json, null, 4);
-      else document.getElementById('output').textContent = json.errorText;
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -76,6 +62,19 @@ JSON object
         { "operation": 'AsposePdfGetInfo', "params": [event.target.result, e.target.files[0].name] },
         [event.target.result]
       );
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+```
+**Simple example**:
+```js
+  var ffilePdfGetInfo = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Get info (metadata) from a PDF-file*/
+      const json = AsposePdfGetInfo(event.target.result, e.target.files[0].name);
+      if (json.errorCode == 0) document.getElementById('output').textContent = "JSON:\n" + JSON.stringify(json, null, 4);
+      else document.getElementById('output').textContent = json.errorText;
     };
     file_reader.readAsArrayBuffer(e.target.files[0]);
   };

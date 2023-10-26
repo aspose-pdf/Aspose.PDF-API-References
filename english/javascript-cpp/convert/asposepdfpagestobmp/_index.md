@@ -31,25 +31,7 @@ JSON object
   * **filesNameResult** - array of result filenames
 
 
-
-**Example**:
-```js
-  var ffileToBmp = function (e) {
-    const file_reader = new FileReader();
-    file_reader.onload = (event) => {
-      /*Convert a PDF-file to BMP with template "ResultPdfToBmp{0:D2}.bmp" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/
-      const json = AsposePdfPagesToBmp(event.target.result, e.target.files[0].name, "ResultPdfToBmp{0:D2}.bmp", 150);
-      if (json.errorCode == 0) {
-        document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
-        /*Make links to result files*/
-        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/bmp");
-      }
-      else document.getElementById('output').textContent = json.errorText;
-    };
-    file_reader.readAsArrayBuffer(e.target.files[0]);
-  };
-```
-**Web Worker**:
+**Web Worker example**:
 ```js
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
   AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
@@ -81,4 +63,21 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileToBmp = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Convert a PDF-file to BMP with template "ResultPdfToBmp{0:D2}.bmp" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/
+      const json = AsposePdfPagesToBmp(event.target.result, e.target.files[0].name, "ResultPdfToBmp{0:D2}.bmp", 150);
+      if (json.errorCode == 0) {
+        document.getElementById('output').textContent = "Files(pages) count: " + json.filesCount.toString();
+        /*Make links to result files*/
+        for (let fileIndex = 0; fileIndex < json.filesCount; fileIndex++) DownloadFile(json.filesNameResult[fileIndex], "image/bmp");
+      }
+      else document.getElementById('output').textContent = json.errorText;
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
 ```

@@ -1,9 +1,9 @@
 ---
-title: PptxSaveOptions
+title: Class PptxSaveOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Save options for export to SVG format
+description: Aspose.Pdf.PptxSaveOptions class. Save options for export to SVG format
 type: docs
-weight: 6830
+weight: 6870
 url: /net/aspose.pdf/pptxsaveoptions/
 ---
 ## PptxSaveOptions class
@@ -18,27 +18,27 @@ public class PptxSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PptxSaveOptions](pptxsaveoptions)() | The default constructor. |
+| [PptxSaveOptions](pptxsaveoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
-| [CustomProgressHandler](../../aspose.pdf/pptxsaveoptions/customprogresshandler) { get; set; } | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
-| [ImageResolution](../../aspose.pdf/pptxsaveoptions/imageresolution) { get; set; } | Gets or sets the image resolution (dpi). Default is 192 dpi. |
-| [OptimizeTextBoxes](../../aspose.pdf/pptxsaveoptions/optimizetextboxes) { get; set; } | Toggles text columns recognition |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat) { get; } | Format of data save. |
-| [SeparateImages](../../aspose.pdf/pptxsaveoptions/separateimages) { get; set; } | If set to true then images are separated from all other graphics |
-| [SlidesAsImages](../../aspose.pdf/pptxsaveoptions/slidesasimages) { get; set; } | If set to true then all the content is recognized as images (one per page) |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
+| [CustomProgressHandler](../../aspose.pdf/pptxsaveoptions/customprogresshandler/) { get; set; } | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
+| [ImageResolution](../../aspose.pdf/pptxsaveoptions/imageresolution/) { get; set; } | Gets or sets the image resolution (dpi). Default is 192 dpi. |
+| [OptimizeTextBoxes](../../aspose.pdf/pptxsaveoptions/optimizetextboxes/) { get; set; } | Toggles text columns recognition |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
+| [SeparateImages](../../aspose.pdf/pptxsaveoptions/separateimages/) { get; set; } | If set to true then images are separated from all other graphics |
+| [SlidesAsImages](../../aspose.pdf/pptxsaveoptions/slidesasimages/) { get; set; } | If set to true then all the content is recognized as images (one per page) |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 
 ## Examples
 
@@ -86,8 +86,8 @@ The following example shows how to convert PDF file to PPT or PPTX file
 
 ### See Also
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions)
-* namespace [Aspose.Pdf](../../aspose.pdf)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

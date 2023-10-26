@@ -1,7 +1,7 @@
 ---
-title: Visit
+title: IAnnotationVisitor.Visit
 second_title: Aspose.PDF for .NET API Reference
-description: Visit/select link annotation.
+description: IAnnotationVisitor method. Visit/select link annotation
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/iannotationvisitor/visit/
@@ -20,9 +20,9 @@ public void Visit(LinkAnnotation link)
 
 ### See Also
 
-* class [LinkAnnotation](../../linkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [LinkAnnotation](../../linkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,9 +41,9 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ### See Also
 
-* class [FileAttachmentAnnotation](../../fileattachmentannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -62,9 +62,9 @@ public void Visit(TextAnnotation text)
 
 ### See Also
 
-* class [TextAnnotation](../../textannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [TextAnnotation](../../textannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -83,9 +83,9 @@ public void Visit(FreeTextAnnotation freetext)
 
 ### See Also
 
-* class [FreeTextAnnotation](../../freetextannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -104,9 +104,9 @@ public void Visit(HighlightAnnotation highlight)
 
 ### See Also
 
-* class [HighlightAnnotation](../../highlightannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [HighlightAnnotation](../../highlightannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -125,9 +125,9 @@ public void Visit(UnderlineAnnotation underline)
 
 ### See Also
 
-* class [UnderlineAnnotation](../../underlineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -146,9 +146,9 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ### See Also
 
-* class [StrikeOutAnnotation](../../strikeoutannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -167,9 +167,9 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ### See Also
 
-* class [SquigglyAnnotation](../../squigglyannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -188,9 +188,9 @@ public void Visit(PopupAnnotation popup)
 
 ### See Also
 
-* class [PopupAnnotation](../../popupannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [PopupAnnotation](../../popupannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -209,9 +209,9 @@ public void Visit(LineAnnotation line)
 
 ### See Also
 
-* class [LineAnnotation](../../lineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [LineAnnotation](../../lineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -230,9 +230,9 @@ public void Visit(CircleAnnotation circle)
 
 ### See Also
 
-* class [CircleAnnotation](../../circleannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [CircleAnnotation](../../circleannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -251,9 +251,9 @@ public void Visit(SquareAnnotation square)
 
 ### See Also
 
-* class [SquareAnnotation](../../squareannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [SquareAnnotation](../../squareannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -272,9 +272,9 @@ public void Visit(InkAnnotation ink)
 
 ### See Also
 
-* class [InkAnnotation](../../inkannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [InkAnnotation](../../inkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -293,9 +293,9 @@ public void Visit(PolylineAnnotation polyline)
 
 ### See Also
 
-* class [PolylineAnnotation](../../polylineannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [PolylineAnnotation](../../polylineannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -314,9 +314,9 @@ public void Visit(PolygonAnnotation polygon)
 
 ### See Also
 
-* class [PolygonAnnotation](../../polygonannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [PolygonAnnotation](../../polygonannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -335,9 +335,9 @@ public void Visit(CaretAnnotation caret)
 
 ### See Also
 
-* class [CaretAnnotation](../../caretannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [CaretAnnotation](../../caretannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -356,9 +356,9 @@ public void Visit(StampAnnotation stamp)
 
 ### See Also
 
-* class [StampAnnotation](../../stampannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [StampAnnotation](../../stampannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -377,9 +377,9 @@ public void Visit(WidgetAnnotation widget)
 
 ### See Also
 
-* class [WidgetAnnotation](../../widgetannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [WidgetAnnotation](../../widgetannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -398,9 +398,9 @@ public void Visit(MovieAnnotation movie)
 
 ### See Also
 
-* class [MovieAnnotation](../../movieannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [MovieAnnotation](../../movieannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -419,9 +419,9 @@ public void Visit(ScreenAnnotation screen)
 
 ### See Also
 
-* class [ScreenAnnotation](../../screenannotation)
-* interface [IAnnotationVisitor](../../iannotationvisitor)
-* namespace [Aspose.Pdf.Annotations](../../iannotationvisitor)
+* class [ScreenAnnotation](../../screenannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

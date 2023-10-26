@@ -1,7 +1,7 @@
 ---
-title: Visit
+title: OperatorSelector.Visit
 second_title: Aspose.PDF for .NET API Reference
-description: Visit/select j operator.
+description: OperatorSelector method. Visit/select j operator
 type: docs
 weight: 30
 url: /net/aspose.pdf/operatorselector/visit/
@@ -20,9 +20,9 @@ public void Visit(SetLineJoin j)
 
 ### See Also
 
-* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,9 +41,9 @@ public void Visit(EX EX)
 
 ### See Also
 
-* class [EX](../../../aspose.pdf.operators/ex)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [EX](../../../aspose.pdf.operators/ex/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -62,9 +62,9 @@ public void Visit(ET ET)
 
 ### See Also
 
-* class [ET](../../../aspose.pdf.operators/et)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ET](../../../aspose.pdf.operators/et/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -83,9 +83,9 @@ public void Visit(EMC EMC)
 
 ### See Also
 
-* class [EMC](../../../aspose.pdf.operators/emc)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -104,9 +104,9 @@ public void Visit(EI EI)
 
 ### See Also
 
-* class [EI](../../../aspose.pdf.operators/ei)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [EI](../../../aspose.pdf.operators/ei/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -125,9 +125,9 @@ public void Visit(DP DP)
 
 ### See Also
 
-* class [DP](../../../aspose.pdf.operators/dp)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [DP](../../../aspose.pdf.operators/dp/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -146,9 +146,9 @@ public void Visit(Do Do)
 
 ### See Also
 
-* class [Do](../../../aspose.pdf.operators/do)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [Do](../../../aspose.pdf.operators/do/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -167,9 +167,9 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 ### See Also
 
-* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -188,9 +188,9 @@ public void Visit(SetCharWidth d0)
 
 ### See Also
 
-* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -209,9 +209,9 @@ public void Visit(SetDash d)
 
 ### See Also
 
-* class [SetDash](../../../aspose.pdf.operators/setdash)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -230,9 +230,9 @@ public void Visit(SetColorSpaceStroke CS)
 
 ### See Also
 
-* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -251,9 +251,9 @@ public void Visit(SetColorSpace cs)
 
 ### See Also
 
-* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -272,9 +272,9 @@ public void Visit(ConcatenateMatrix cm)
 
 ### See Also
 
-* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -293,9 +293,9 @@ public void Visit(CurveTo c)
 
 ### See Also
 
-* class [CurveTo](../../../aspose.pdf.operators/curveto)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -314,9 +314,9 @@ public void Visit(BX BX)
 
 ### See Also
 
-* class [BX](../../../aspose.pdf.operators/bx)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [BX](../../../aspose.pdf.operators/bx/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -335,9 +335,9 @@ public void Visit(BT BT)
 
 ### See Also
 
-* class [BT](../../../aspose.pdf.operators/bt)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [BT](../../../aspose.pdf.operators/bt/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -356,9 +356,9 @@ public void Visit(BMC BMC)
 
 ### See Also
 
-* class [BMC](../../../aspose.pdf.operators/bmc)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -377,9 +377,9 @@ public void Visit(BI BI)
 
 ### See Also
 
-* class [BI](../../../aspose.pdf.operators/bi)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [BI](../../../aspose.pdf.operators/bi/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -398,9 +398,9 @@ public void Visit(BDC BDC)
 
 ### See Also
 
-* class [BDC](../../../aspose.pdf.operators/bdc)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -419,9 +419,9 @@ public void Visit(FillStroke B)
 
 ### See Also
 
-* class [FillStroke](../../../aspose.pdf.operators/fillstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -440,9 +440,9 @@ public void Visit(ClosePathFillStroke b)
 
 ### See Also
 
-* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -461,9 +461,9 @@ public void Visit(EOFillStroke B_)
 
 ### See Also
 
-* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -482,9 +482,9 @@ public void Visit(ClosePathEOFillStroke b_)
 
 ### See Also
 
-* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -503,9 +503,9 @@ public void Visit(MoveToNextLineShowText _)
 
 ### See Also
 
-* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -524,9 +524,9 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 ### See Also
 
-* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -545,9 +545,9 @@ public void Visit(EOFill f_)
 
 ### See Also
 
-* class [EOFill](../../../aspose.pdf.operators/eofill)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -566,9 +566,9 @@ public void Visit(Fill f)
 
 ### See Also
 
-* class [Fill](../../../aspose.pdf.operators/fill)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [Fill](../../../aspose.pdf.operators/fill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -587,9 +587,9 @@ public void Visit(ObsoleteFill F)
 
 ### See Also
 
-* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -608,9 +608,9 @@ public void Visit(SetGray g)
 
 ### See Also
 
-* class [SetGray](../../../aspose.pdf.operators/setgray)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -629,9 +629,9 @@ public void Visit(SetGrayStroke G)
 
 ### See Also
 
-* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -650,9 +650,9 @@ public void Visit(GS gs)
 
 ### See Also
 
-* class [GS](../../../aspose.pdf.operators/gs)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [GS](../../../aspose.pdf.operators/gs/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -671,9 +671,9 @@ public void Visit(ClosePath h)
 
 ### See Also
 
-* class [ClosePath](../../../aspose.pdf.operators/closepath)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -692,9 +692,9 @@ public void Visit(SetFlat i)
 
 ### See Also
 
-* class [SetFlat](../../../aspose.pdf.operators/setflat)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -713,9 +713,9 @@ public void Visit(ID ID)
 
 ### See Also
 
-* class [ID](../../../aspose.pdf.operators/id)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ID](../../../aspose.pdf.operators/id/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -734,9 +734,9 @@ public void Visit(SetLineCap J)
 
 ### See Also
 
-* class [SetLineCap](../../../aspose.pdf.operators/setlinecap)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -755,9 +755,9 @@ public void Visit(SetCMYKColor k)
 
 ### See Also
 
-* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -776,9 +776,9 @@ public void Visit(SetCMYKColorStroke K)
 
 ### See Also
 
-* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -797,9 +797,9 @@ public void Visit(LineTo l)
 
 ### See Also
 
-* class [LineTo](../../../aspose.pdf.operators/lineto)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -818,9 +818,9 @@ public void Visit(MoveTo m)
 
 ### See Also
 
-* class [MoveTo](../../../aspose.pdf.operators/moveto)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -839,9 +839,9 @@ public void Visit(SetMiterLimit M)
 
 ### See Also
 
-* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -860,9 +860,9 @@ public void Visit(MP MP)
 
 ### See Also
 
-* class [MP](../../../aspose.pdf.operators/mp)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [MP](../../../aspose.pdf.operators/mp/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -881,9 +881,9 @@ public void Visit(EndPath n)
 
 ### See Also
 
-* class [EndPath](../../../aspose.pdf.operators/endpath)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -902,9 +902,9 @@ public void Visit(GSave q)
 
 ### See Also
 
-* class [GSave](../../../aspose.pdf.operators/gsave)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -923,9 +923,9 @@ public void Visit(GRestore Q)
 
 ### See Also
 
-* class [GRestore](../../../aspose.pdf.operators/grestore)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -944,9 +944,9 @@ public void Visit(Re re)
 
 ### See Also
 
-* class [Re](../../../aspose.pdf.operators/re)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [Re](../../../aspose.pdf.operators/re/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -965,9 +965,9 @@ public void Visit(SetRGBColor rg)
 
 ### See Also
 
-* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -986,9 +986,9 @@ public void Visit(SetRGBColorStroke RG)
 
 ### See Also
 
-* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1007,9 +1007,9 @@ public void Visit(SetColorRenderingIntent ri)
 
 ### See Also
 
-* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1028,9 +1028,9 @@ public void Visit(ClosePathStroke s)
 
 ### See Also
 
-* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1049,9 +1049,9 @@ public void Visit(Stroke S)
 
 ### See Also
 
-* class [Stroke](../../../aspose.pdf.operators/stroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [Stroke](../../../aspose.pdf.operators/stroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1070,9 +1070,9 @@ public void Visit(SetColor sc)
 
 ### See Also
 
-* class [SetColor](../../../aspose.pdf.operators/setcolor)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1091,9 +1091,9 @@ public void Visit(SetColorStroke SC)
 
 ### See Also
 
-* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1112,9 +1112,9 @@ public void Visit(SetAdvancedColor scn)
 
 ### See Also
 
-* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1133,9 +1133,9 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 ### See Also
 
-* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1154,9 +1154,9 @@ public void Visit(ShFill sh)
 
 ### See Also
 
-* class [ShFill](../../../aspose.pdf.operators/shfill)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1175,9 +1175,9 @@ public void Visit(MoveToNextLine T_)
 
 ### See Also
 
-* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1196,9 +1196,9 @@ public void Visit(SetCharacterSpacing Tc)
 
 ### See Also
 
-* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1217,9 +1217,9 @@ public void Visit(MoveTextPosition Td)
 
 ### See Also
 
-* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1238,9 +1238,9 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 ### See Also
 
-* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1259,9 +1259,9 @@ public void Visit(SelectFont Tf)
 
 ### See Also
 
-* class [SelectFont](../../../aspose.pdf.operators/selectfont)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1280,9 +1280,9 @@ public void Visit(ShowText Tj)
 
 ### See Also
 
-* class [ShowText](../../../aspose.pdf.operators/showtext)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [ShowText](../../../aspose.pdf.operators/showtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1301,9 +1301,9 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 ### See Also
 
-* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1322,9 +1322,9 @@ public void Visit(SetTextLeading TL)
 
 ### See Also
 
-* class [SetTextLeading](../../../aspose.pdf.operators/settextleading)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1343,9 +1343,9 @@ public void Visit(SetTextMatrix Tm)
 
 ### See Also
 
-* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1364,9 +1364,9 @@ public void Visit(SetTextRenderingMode Tr)
 
 ### See Also
 
-* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1385,9 +1385,9 @@ public void Visit(SetTextRise Ts)
 
 ### See Also
 
-* class [SetTextRise](../../../aspose.pdf.operators/settextrise)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1406,9 +1406,9 @@ public void Visit(SetWordSpacing Tw)
 
 ### See Also
 
-* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1427,9 +1427,9 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 ### See Also
 
-* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1448,9 +1448,9 @@ public void Visit(CurveTo1 v)
 
 ### See Also
 
-* class [CurveTo1](../../../aspose.pdf.operators/curveto1)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1469,9 +1469,9 @@ public void Visit(EOClip W_)
 
 ### See Also
 
-* class [EOClip](../../../aspose.pdf.operators/eoclip)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1490,9 +1490,9 @@ public void Visit(SetLineWidth w)
 
 ### See Also
 
-* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1511,9 +1511,9 @@ public void Visit(Clip W)
 
 ### See Also
 
-* class [Clip](../../../aspose.pdf.operators/clip)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1532,9 +1532,9 @@ public void Visit(CurveTo2 y)
 
 ### See Also
 
-* class [CurveTo2](../../../aspose.pdf.operators/curveto2)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1553,9 +1553,9 @@ public void Visit(TextOperator textOperator)
 
 ### See Also
 
-* class [TextOperator](../../../aspose.pdf.operators/textoperator)
-* class [OperatorSelector](../../operatorselector)
-* namespace [Aspose.Pdf](../../operatorselector)
+* class [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

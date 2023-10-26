@@ -1,14 +1,14 @@
 ---
-title: HideAction
+title: HideAction.HideAction
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the HideActionaspose.pdf.annotations/hideaction class for the specified annotation.
+description: HideAction constructor. Initializes a new instance of the HideAction class for the specified annotation
 type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/hideaction/hideaction/
 ---
 ## HideAction(Annotation) {#constructor}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified annotation.
+Initializes a new instance of the [`HideAction`](../) class for the specified annotation.
 
 ```csharp
 public HideAction(Annotation annotation)
@@ -20,16 +20,16 @@ public HideAction(Annotation annotation)
 
 ### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation, bool) {#constructor_1}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified annotation and invisibility flag.
+Initializes a new instance of the [`HideAction`](../) class for the specified annotation and invisibility flag.
 
 ```csharp
 public HideAction(Annotation annotation, bool isHidden)
@@ -42,16 +42,16 @@ public HideAction(Annotation annotation, bool isHidden)
 
 ### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string) {#constructor_4}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified field name.
+Initializes a new instance of the [`HideAction`](../) class for the specified field name.
 
 ```csharp
 public HideAction(string fieldName)
@@ -63,15 +63,15 @@ public HideAction(string fieldName)
 
 ### See Also
 
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string, bool) {#constructor_5}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified field name and invisibility flag.
+Initializes a new instance of the [`HideAction`](../) class for the specified field name and invisibility flag.
 
 ```csharp
 public HideAction(string fieldName, bool isHidden)
@@ -84,15 +84,15 @@ public HideAction(string fieldName, bool isHidden)
 
 ### See Also
 
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation[]) {#constructor_2}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified annotations.
+Initializes a new instance of the [`HideAction`](../) class for the specified annotations.
 
 ```csharp
 public HideAction(Annotation[] annotations)
@@ -104,16 +104,16 @@ public HideAction(Annotation[] annotations)
 
 ### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(Annotation[], bool) {#constructor_3}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified annotations and for invisibility flag.
+Initializes a new instance of the [`HideAction`](../) class for the specified annotations and for invisibility flag.
 
 ```csharp
 public HideAction(Annotation[] annotations, bool isHidden)
@@ -126,16 +126,16 @@ public HideAction(Annotation[] annotations, bool isHidden)
 
 ### See Also
 
-* class [Annotation](../../annotation)
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string[]) {#constructor_6}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified field names.
+Initializes a new instance of the [`HideAction`](../) class for the specified field names.
 
 ```csharp
 public HideAction(string[] names)
@@ -147,15 +147,15 @@ public HideAction(string[] names)
 
 ### See Also
 
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HideAction(string[], bool) {#constructor_7}
 
-Initializes a new instance of the [`HideAction`](../../hideaction) class for the specified field names and for invisibility flag.
+Initializes a new instance of the [`HideAction`](../) class for the specified field names and for invisibility flag.
 
 ```csharp
 public HideAction(string[] names, bool isHidden)
@@ -168,8 +168,8 @@ public HideAction(string[] names, bool isHidden)
 
 ### See Also
 
-* class [HideAction](../../hideaction)
-* namespace [Aspose.Pdf.Annotations](../../hideaction)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

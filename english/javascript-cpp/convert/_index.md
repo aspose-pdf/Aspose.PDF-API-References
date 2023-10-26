@@ -36,15 +36,13 @@ url: /javascript-cpp/convert/
 
 Functions for converting from PDF files.
 
-```html
-<!-- Load and initiate Aspose.PDF for JavaScript via C++ -->
-<script type="text/javascript" async src="AsposePDFforJS.js"></script>
-```
-or
 ```js
 /* Web Worker*/
 const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
 ```
+or
+```html
+<!-- Load and initiate Aspose.PDF for JavaScript via C++ -->
+<script type="text/javascript" async src="AsposePDFforJS.js"></script>
+```
 
-
-Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS) to manipulate PDF files.

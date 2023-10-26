@@ -1,7 +1,7 @@
 ---
-title: TryConcatenate
+title: PdfFileEditor.TryConcatenate
 second_title: Aspose.PDF for .NET API Reference
-description: Concatenates two files.
+description: PdfFileEditor method. Concatenates two files
 type: docs
 weight: 420
 url: /net/aspose.pdf.facades/pdffileeditor/tryconcatenate/
@@ -24,11 +24,11 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string ou
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -37,8 +37,8 @@ bool result = fileEditor.TryConcatenate("file1.pdf", "file2.pdf", "outfile.pdf")
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -60,15 +60,15 @@ public bool TryConcatenate(Document[] src, Document dest)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -90,11 +90,11 @@ public bool TryConcatenate(string[] inputFiles, string outputFile)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -103,8 +103,8 @@ bool result = pfe.TryConcatenate(new string[] { "src1.pdf", "src2.pdf" }, "dest.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -126,11 +126,11 @@ public bool TryConcatenate(Stream[] inputStream, Stream outputStream)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -142,8 +142,8 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -168,11 +168,11 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string bl
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -181,8 +181,8 @@ bool result = pfe.TryConcatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf"
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -207,11 +207,11 @@ public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Strea
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -224,8 +224,8 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2, blank } , outs
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -247,14 +247,14 @@ public bool TryConcatenate(string[] inputFiles, HttpResponse response)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -276,14 +276,14 @@ public bool TryConcatenate(Stream[] inputStream, HttpResponse response)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryConcatenate method is like the Concatenate method, except the TryConcatenate method does not throw an exception if the operation fails.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

@@ -9,6 +9,7 @@ url: /javascript-cpp/misc/
 
 |      Name      |  Description   |
 | -------------- | -------------- |
+| [AsposePdfAbout](./asposepdfabout/) | Get info about Product. |
 | [DownloadFile](./downloadfile/) | Make a link in HTML to download the file. |
 | [DownloadFileAuto](./downloadfileauto/) | Make a link in HTML to download the file and start download after 2 seconds. |
 
@@ -16,9 +17,12 @@ url: /javascript-cpp/misc/
 
 Secondary functions for working with PDF files.
 
+```js
+/* Web Worker*/
+const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+```
+or
 ```html
 <!-- Load and initiate Aspose.PDF for JavaScript via C++ -->
 <script type="text/javascript" async src="AsposePDFforJS.js"></script>
 ```
-
-Aspose.PDF for JavaScript via C++ uses an internal memory file system (MemoryFS) to manipulate PDF files. 

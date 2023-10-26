@@ -1,24 +1,24 @@
 ---
-title: TextFragmentAbsorber
+title: TextFragmentAbsorber.TextFragmentAbsorber
 second_title: Aspose.PDF for .NET API Reference
-description: Initializes a new instance of the TextFragmentAbsorberaspose.pdf.text/textfragmentabsorber that performs search of all text segments of the document or page.
+description: TextFragmentAbsorber constructor. Initializes a new instance of the TextFragmentAbsorber that performs search of all text segments of the document or page
 type: docs
 weight: 10
 url: /net/aspose.pdf.text/textfragmentabsorber/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber() {#constructor}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) that performs search of all text segments of the document or page.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) that performs search of all text segments of the document or page.
 
 ```csharp
 public TextFragmentAbsorber()
 ```
 
-### Remarks
+## Remarks
 
-Performs text search and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
-### Examples
+## Examples
 
 The example demonstrates how to find text on the first PDF document page and replace the text.
 
@@ -47,15 +47,15 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(TextEditOptions) {#constructor_1}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) with text edit options, that performs search of all text segments of the document or page.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) with text edit options, that performs search of all text segments of the document or page.
 
 ```csharp
 public TextFragmentAbsorber(TextEditOptions textEditOptions)
@@ -65,11 +65,11 @@ public TextFragmentAbsorber(TextEditOptions textEditOptions)
 | --- | --- | --- |
 | textEditOptions | TextEditOptions | Text edit options (Allows to turn on some edit features). |
 
-### Remarks
+## Remarks
 
-Performs text search and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
-### Examples
+## Examples
 
 The example demonstrates how to find all text fragments on the first PDF document page and replace font for them.
 
@@ -98,16 +98,16 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string) {#constructor_2}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) class for the specified text phrase.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase.
 
 ```csharp
 public TextFragmentAbsorber(string phrase)
@@ -115,13 +115,13 @@ public TextFragmentAbsorber(string phrase)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| phrase | String | Phrase that the [`TextFragmentAbsorber`](../../textfragmentabsorber) searches |
+| phrase | String | Phrase that the [`TextFragmentAbsorber`](../) searches |
 
-### Remarks
+## Remarks
 
-Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
-### Examples
+## Examples
 
 The example demonstrates how to find text on the first PDF document page and replace the text and it's font.
 
@@ -148,15 +148,15 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex) {#constructor_6}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) class for the specified System.Text.RegularExpressions.Regex class object.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified System.Text.RegularExpressions.Regex class object.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex)
@@ -164,13 +164,13 @@ public TextFragmentAbsorber(Regex regex)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex class object that the [`TextFragmentAbsorber`](../../textfragmentabsorber) searches |
+| regex | Regex | System.Text.RegularExpressions.Regex class object that the [`TextFragmentAbsorber`](../) searches |
 
-### Remarks
+## Remarks
 
-Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
-### Examples
+## Examples
 
 The example demonstrates how to find text on the first PDF document page and replace the text and it's font.
 
@@ -197,15 +197,15 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions) {#constructor_4}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) class for the specified text phrase and text search options.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase and text search options.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
@@ -213,14 +213,14 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| phrase | String | Phrase that the [`TextFragmentAbsorber`](../../textfragmentabsorber) searches |
+| phrase | String | Phrase that the [`TextFragmentAbsorber`](../) searches |
 | textSearchOptions | TextSearchOptions | Text search options (Allows to turn on some search features. For example, search with regular expression) |
 
-### Remarks
+## Remarks
 
-Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
-### Examples
+## Examples
 
 The example demonstrates how to find text with regular expression on the first PDF document page and replace the text.
 
@@ -241,16 +241,16 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextSearchOptions) {#constructor_8}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) class for the specified text phrase and text search options.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase and text search options.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
@@ -258,14 +258,14 @@ public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex class object that the [`TextFragmentAbsorber`](../../textfragmentabsorber) searches |
+| regex | Regex | System.Text.RegularExpressions.Regex class object that the [`TextFragmentAbsorber`](../) searches |
 | textSearchOptions | TextSearchOptions | Text search options (Allows to turn on some search features.) |
 
-### Remarks
+## Remarks
 
-Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
-### Examples
+## Examples
 
 The example demonstrates how to find text with regular expression on the first PDF document page and replace the text.
 
@@ -286,16 +286,16 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextSearchOptions, TextEditOptions) {#constructor_5}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) class for the specified text phrase, text search options and text edit options.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase, text search options and text edit options.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions, 
@@ -304,15 +304,15 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| phrase | String | Phrase that the [`TextFragmentAbsorber`](../../textfragmentabsorber) searches |
+| phrase | String | Phrase that the [`TextFragmentAbsorber`](../) searches |
 | textSearchOptions | TextSearchOptions | Text search options (Allows to turn on some search features. For example, search with regular expression) |
 | textEditOptions | TextEditOptions | Text edit options (Allows to turn on some edit features). |
 
-### Remarks
+## Remarks
 
-Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
-### Examples
+## Examples
 
 The example demonstrates how to find text with regular expression on the first PDF document page and replace the text.
 
@@ -333,17 +333,17 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextSearchOptions](../../textsearchoptions)
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(string, TextEditOptions) {#constructor_3}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) class for the specified text phrase and text edit options.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase and text edit options.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
@@ -351,25 +351,25 @@ public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| phrase | String | Phrase that the [`TextFragmentAbsorber`](../../textfragmentabsorber) searches |
+| phrase | String | Phrase that the [`TextFragmentAbsorber`](../) searches |
 | textEditOptions | TextEditOptions | Text edit options (Allows to turn on some edit features). |
 
-### Remarks
+## Remarks
 
-Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
 ### See Also
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragmentAbsorber(Regex, TextEditOptions) {#constructor_7}
 
-Initializes a new instance of the [`TextFragmentAbsorber`](../../textfragmentabsorber) class for the specified text phrase and text edit options.
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase and text edit options.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
@@ -377,18 +377,18 @@ public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| regex | Regex | System.Text.RegularExpressions.Regex class object that the [`TextFragmentAbsorber`](../../textfragmentabsorber) searches |
+| regex | Regex | System.Text.RegularExpressions.Regex class object that the [`TextFragmentAbsorber`](../) searches |
 | textEditOptions | TextEditOptions | Text edit options (Allows to turn on some edit features). |
 
-### Remarks
+## Remarks
 
-Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments) collection.
+Performs text search of the specified phrase and provides access to search results via [`TextFragments`](../textfragments/) collection.
 
 ### See Also
 
-* class [TextEditOptions](../../texteditoptions)
-* class [TextFragmentAbsorber](../../textfragmentabsorber)
-* namespace [Aspose.Pdf.Text](../../textfragmentabsorber)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

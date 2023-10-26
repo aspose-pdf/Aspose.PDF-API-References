@@ -1,7 +1,7 @@
 ---
-title: TryMakeNUp
+title: PdfFileEditor.TryMakeNUp
 second_title: Aspose.PDF for .NET API Reference
-description: Makes N-up document and stores result into HttpResponse object.
+description: PdfFileEditor method. Makes Nup document and stores result into HttpResponse object
 type: docs
 weight: 470
 url: /net/aspose.pdf.facades/pdffileeditor/trymakenup/
@@ -26,15 +26,15 @@ public bool TryMakeNUp(string inputFile, int x, int y, PageSize pageSize, HttpRe
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -59,15 +59,15 @@ public bool TryMakeNUp(Stream inputStream, int x, int y, PageSize pageSize, Http
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -91,14 +91,14 @@ public bool TryMakeNUp(string inputFile, int x, int y, HttpResponse response)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -122,14 +122,14 @@ public bool TryMakeNUp(Stream inputStream, int x, int y, HttpResponse response)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -153,11 +153,11 @@ public bool TryMakeNUp(string inputFile, string outputFile, int x, int y)
 
 true if operation was completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -166,8 +166,8 @@ bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -191,11 +191,11 @@ public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -206,8 +206,8 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -232,11 +232,11 @@ public bool TryMakeNUp(Stream inputStream, Stream outputStream, int x, int y, Pa
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -247,9 +247,9 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -272,11 +272,11 @@ public bool TryMakeNUp(string firstInputFile, string secondInputFile, string out
 
 true if operation was completed successfully; otherwise, false
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -285,8 +285,8 @@ bool result = pfe.TryMakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -309,11 +309,11 @@ public bool TryMakeNUp(Stream firstInputStream, Stream secondInputStream, Stream
 
 true if operation was completed successfully; otherwise, false
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -325,8 +325,8 @@ bool result = pfe.TryMakeNUp(input1, input2, output);
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -349,11 +349,11 @@ public bool TryMakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -362,8 +362,8 @@ bool result = pfe.TryMakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -386,11 +386,11 @@ public bool TryMakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewi
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -403,8 +403,8 @@ bool result = pfe.TryMakeNUp(new Stream[] { stream1, stream2, stream3 }, output,
 
 ### See Also
 
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -429,11 +429,11 @@ public bool TryMakeNUp(string inputFile, string outputFile, int x, int y, PageSi
 
 true if operation completed successfully; otherwise, false.
 
-### Remarks
+## Remarks
 
 The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
 
-### Examples
+## Examples
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -442,9 +442,9 @@ bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize)
-* class [PdfFileEditor](../../pdffileeditor)
-* namespace [Aspose.Pdf.Facades](../../pdffileeditor)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PDF.dll -->
+

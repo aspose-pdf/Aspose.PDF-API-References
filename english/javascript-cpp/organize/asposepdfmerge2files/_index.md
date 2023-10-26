@@ -31,33 +31,8 @@ JSON object
   * **errorText** - text error ("" no error)
   * **fileNameResult** - result file name
 
-**Example**:
-```js
-  var ffileMerge = function (e) {
-    const file_reader = new FileReader();
-    function readFile(index) {
-      /*Only two files*/
-      if (index >= e.target.files.length || index >= 2) {
-        /*Merge two PDF-files and save the "ResultMerge.pdf"*/
-        const json = AsposePdfMerge2Files(undefined, undefined, e.target.files[0].name, e.target.files[1].name, "ResultMerge.pdf");
-        if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
-        else document.getElementById('output').textContent = json.errorText;
-        /*Make a link to download the result file*/
-        DownloadFile(json.fileNameResult, "application/pdf");
-        return;
-      }
-      const file = e.target.files[index];
-      file_reader.onload = function (event) {
-        /*Save the BLOB in the Memory FS for processing*/
-        AsposePdfPrepare(event.target.result, file.name);
-        readFile(index + 1)
-      }
-      file_reader.readAsArrayBuffer(file);
-    }
-    readFile(0);
-  }
-```
-**Web Worker**:
+
+**Web Worker example**:
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -105,4 +80,30 @@ JSON object
       document.body.appendChild(document.createElement("br"));
       return filename;
     }
+```
+**Simple example**:
+```js
+  var ffileMerge = function (e) {
+    const file_reader = new FileReader();
+    function readFile(index) {
+      /*Only two files*/
+      if (index >= e.target.files.length || index >= 2) {
+        /*Merge two PDF-files and save the "ResultMerge.pdf"*/
+        const json = AsposePdfMerge2Files(undefined, undefined, e.target.files[0].name, e.target.files[1].name, "ResultMerge.pdf");
+        if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult;
+        else document.getElementById('output').textContent = json.errorText;
+        /*Make a link to download the result file*/
+        DownloadFile(json.fileNameResult, "application/pdf");
+        return;
+      }
+      const file = e.target.files[index];
+      file_reader.onload = function (event) {
+        /*Save the BLOB in the Memory FS for processing*/
+        AsposePdfPrepare(event.target.result, file.name);
+        readFile(index + 1)
+      }
+      file_reader.readAsArrayBuffer(file);
+    }
+    readFile(0);
+  }
 ```
