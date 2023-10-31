@@ -3,7 +3,7 @@ title: TaggedException
 second_title: Aspose.PDF for Java API Reference
 description: Represents exception for TaggedPDF content of document.
 type: docs
-weight: 30
+weight: 31
 url: /java/com.aspose.pdf.exceptions/taggedexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Artifact
 second_title: Aspose.PDF for Java API Reference
 description: Class represents PDF Artifact object.
 type: docs
-weight: 27
+weight: 25
 url: /java/com.aspose.pdf/artifact/
 ---
 **Inheritance:**

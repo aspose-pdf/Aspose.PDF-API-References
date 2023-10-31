@@ -3,7 +3,7 @@ title: Group
 second_title: Aspose.PDF for Java API Reference
 description: A group attributes class specifying the attributes of the pageu2019s page group for use in the transparent imaging model.
 type: docs
-weight: 148
+weight: 147
 url: /java/com.aspose.pdf/group/
 ---
 **Inheritance:**

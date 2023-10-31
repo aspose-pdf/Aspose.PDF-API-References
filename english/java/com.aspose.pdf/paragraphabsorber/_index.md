@@ -3,7 +3,7 @@ title: ParagraphAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of page structure objects such as sections and paragraphs.
 type: docs
-weight: 268
+weight: 269
 url: /java/com.aspose.pdf/paragraphabsorber/
 ---
 **Inheritance:**

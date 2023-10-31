@@ -3,7 +3,7 @@ title: BorderEffect
 second_title: Aspose.PDF for Java API Reference
 description: Describes effect which should be applied to the border of the annotations.
 type: docs
-weight: 37
+weight: 35
 url: /java/com.aspose.pdf/bordereffect/
 ---
 **Inheritance:**

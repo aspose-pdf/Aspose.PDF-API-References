@@ -18,6 +18,7 @@ Represents graph - graphics generator paragraph.
 | Constructor | Description |
 | --- | --- |
 | [Graph()](#Graph--) | For Internal usage only |
+| [Graph(double width, double height)](#Graph-double-double-) | Initializes a new instance of the [Graph](../../com.aspose.pdf.drawing/graph) class. |
 | [Graph(float width, float height)](#Graph-float-float-) | Initializes a new instance of the  Graph  class. |
 ## Methods
 
@@ -27,8 +28,8 @@ Represents graph - graphics generator paragraph.
 | [setGraphInfo(GraphInfo value)](#setGraphInfo-com.aspose.pdf.GraphInfo-) | Gets or sets a  GraphInfo  object that indicates the graph info,such as color, line width,etc. |
 | [getBorder()](#getBorder--) | Gets the border. |
 | [setBorder(BorderInfo value)](#setBorder-com.aspose.pdf.BorderInfo-) | Sets the border. |
-| [isChangePosition()](#isChangePosition--) | Gets change current position after process paragraph. |
-| [setChangePosition(boolean value)](#setChangePosition-boolean-) | Sets change current position after process paragraph. |
+| [isChangePosition()](#isChangePosition--) | Gets change current position after process paragraph.(default true) |
+| [setChangePosition(boolean value)](#setChangePosition-boolean-) | Sets change current position after process paragraph.(default true) |
 | [getLeft()](#getLeft--) | Gets table left coordinate. |
 | [setLeft(double value)](#setLeft-double-) | Sets table left coordinate. |
 | [getTop()](#getTop--) | Gets the table top coordinate. |
@@ -49,6 +50,20 @@ public Graph()
 
 
 For Internal usage only
+
+### Graph(double width, double height) {#Graph-double-double-}
+```
+public Graph(double width, double height)
+```
+
+
+Initializes a new instance of the [Graph](../../com.aspose.pdf.drawing/graph) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | double | The width of the graph. |
+| height | double | The height of the graph. |
 
 ### Graph(float width, float height) {#Graph-float-float-}
 ```

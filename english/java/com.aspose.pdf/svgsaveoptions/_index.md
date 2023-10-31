@@ -3,7 +3,7 @@ title: SvgSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to SVG format
 type: docs
-weight: 345
+weight: 347
 url: /java/com.aspose.pdf/svgsaveoptions/
 ---
 **Inheritance:**

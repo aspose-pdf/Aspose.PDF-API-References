@@ -3,7 +3,7 @@ title: Matrix
 second_title: Aspose.PDF for Java API Reference
 description: Class represents transformation matrix.
 type: docs
-weight: 208
+weight: 207
 url: /java/com.aspose.pdf/matrix/
 ---
 **Inheritance:**
@@ -21,6 +21,7 @@ Class represents transformation matrix.
 | [Matrix(double[] matrixArray)](#Matrix-double---) | Constructor accepts a matrix with following array representation: [ A B C D E F ] |
 | [Matrix(float[] matrixArray)](#Matrix-float---) | Constructor accepts a matrix with following array representation: [ A B C D E F ] |
 | [Matrix(Matrix matrix)](#Matrix-com.aspose.pdf.Matrix-) | Constructor accepts a matrix to create a copy |
+| [Matrix(System.Drawing.Drawing2D.Matrix matrix)](#Matrix-com.aspose.ms.System.Drawing.Drawing2D.Matrix-) | Constructor accepts a matrix to create a copy |
 | [Matrix(double a, double b, double c, double d, double e, double f)](#Matrix-double-double-double-double-double-double-) | Initializes transformation matrix with specified coefficients. |
 ## Methods
 
@@ -39,6 +40,7 @@ Class represents transformation matrix.
 | [setE(double value)](#setE-double-) | Set E member of the transformation matrix. |
 | [getF()](#getF--) | Get F member of the transformation matrix. |
 | [setF(double value)](#setF-double-) | Set F member of the transformation matrix. |
+| [isIdentity()](#isIdentity--) | Checks whether this matrix is identity. |
 | [getElements()](#getElements--) | Elements of the matrix. |
 | [toString()](#toString--) | Returns text representation of the matrix. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Compares matrix agains other object. |
@@ -47,11 +49,15 @@ Class represents transformation matrix.
 | [rotation(int rotation)](#rotation-int-) | Creates matrix for given rotation. |
 | [skew(double alpha, double beta)](#skew-double-double-) | Creates matrix for given rotation angle. |
 | [scale(double x, double y)](#scale-double-double-) | Creates matrix for given scale. |
+| [scale(double x, double y, double[] x1, double[] y1)](#scale-double-double-double---double---) | Scales x and y with the matrix using the following formula: x1 = A\*x + C\*y; y1 = B\*x + D\*y; |
+| [unScale(double x1, double y1, double[] x, double[] y)](#unScale-double-double-double---double---) | Scales back x1 and y1 and returns x and y before the matrix transformation using the following formula: x = (D \* x1 - C \* y1) / (A \* D - C \* B); y = (A\* y1 - B\* x1) / (A\* D - C\* B); |
 | [getAngle(int rotation)](#getAngle-int-) | Transaltes rotation into angle (degrees) |
 | [multiply(Matrix other)](#multiply-com.aspose.pdf.Matrix-) | Multiplies the matrix by other matrix. |
 | [add(Matrix other)](#add-com.aspose.pdf.Matrix-) | Adds matrix to other matrix. |
 | [transform(Point p)](#transform-com.aspose.pdf.Point-) | Transforms point using this matrix. |
-| [transform(Rectangle rect)](#transform-com.aspose.pdf.Rectangle-) | Transformes rectangle. |
+| [transform(double x, double y, double[] x1, double[] y1)](#transform-double-double-double---double---) | Transforms coordinates using this matrix. |
+| [unTransform(double x1, double y1, double[] x, double[] y)](#unTransform-double-double-double---double---) | Transforms back x1 and y1 and returns x and y before the matrix transformation using the following formula: x = (D \* x1 - C \* y1 + C \* F) / (A \* D - C \* B) y = (A \* y1 - B \* x1 + B \* E) / (A \* D - C \* B). |
+| [transform(Rectangle rect)](#transform-com.aspose.pdf.Rectangle-) | Transforms rectangle. |
 | [reverse()](#reverse--) | Calculates reverse matrix. |
 | [hashCode()](#hashCode--) | Hash-code for object. |
 | [isInt16(double value)](#isInt16-double-) | For Internal usage only |
@@ -122,6 +128,19 @@ Constructor accepts a matrix to create a copy
 | Parameter | Type | Description |
 | --- | --- | --- |
 | matrix | [Matrix](../../com.aspose.pdf/matrix) | Matrix object. |
+
+### Matrix(System.Drawing.Drawing2D.Matrix matrix) {#Matrix-com.aspose.ms.System.Drawing.Drawing2D.Matrix-}
+```
+public Matrix(System.Drawing.Drawing2D.Matrix matrix)
+```
+
+
+Constructor accepts a matrix to create a copy
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrix | com.aspose.ms.System.Drawing.Drawing2D.Matrix | Matrix object. |
 
 ### Matrix(double a, double b, double c, double d, double e, double f) {#Matrix-double-double-double-double-double-double-}
 ```
@@ -295,6 +314,16 @@ Set F member of the transformation matrix.
 | --- | --- | --- |
 | value | double | double value |
 
+### isIdentity() {#isIdentity--}
+```
+public final boolean isIdentity()
+```
+
+
+Checks whether this matrix is identity.
+
+**Returns:**
+boolean - boolean value
 ### getElements() {#getElements--}
 ```
 public float[] getElements()
@@ -423,6 +452,38 @@ Matrix m = Matrix.scale(x, y);
 
 **Returns:**
 [Matrix](../../com.aspose.pdf/matrix) - Transformation matrix.
+### scale(double x, double y, double[] x1, double[] y1) {#scale-double-double-double---double---}
+```
+public final void scale(double x, double y, double[] x1, double[] y1)
+```
+
+
+Scales x and y with the matrix using the following formula: x1 = A\*x + C\*y; y1 = B\*x + D\*y;
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | double | Input X coordinate |
+| y | double | Input Y coordinate |
+| x1 | double[] | Output X coordinate |
+| y1 | double[] | Output Y coordinate |
+
+### unScale(double x1, double y1, double[] x, double[] y) {#unScale-double-double-double---double---}
+```
+public final void unScale(double x1, double y1, double[] x, double[] y)
+```
+
+
+Scales back x1 and y1 and returns x and y before the matrix transformation using the following formula: x = (D \* x1 - C \* y1) / (A \* D - C \* B); y = (A\* y1 - B\* x1) / (A\* D - C\* B);
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x1 | double | Input X coordinate |
+| y1 | double | Input Y coordinate |
+| x | double[] | Output X coordinate |
+| y | double[] | Output Y coordinate |
+
 ### getAngle(int rotation) {#getAngle-int-}
 ```
 public static double getAngle(int rotation)
@@ -491,8 +552,6 @@ public Point transform(Point p)
 
 Transforms point using this matrix.
 
---------------------
-
 ```
 Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
  Point p = new Point(5, 5);
@@ -506,13 +565,51 @@ Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
 
 **Returns:**
 [Point](../../com.aspose.pdf/point) - Transformation result.
+### transform(double x, double y, double[] x1, double[] y1) {#transform-double-double-double---double---}
+```
+public final void transform(double x, double y, double[] x1, double[] y1)
+```
+
+
+Transforms coordinates using this matrix.
+
+```
+Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
+ double x, y, x1, y1;
+ m.transform(double x, double y, out double x1, out double y1);
+```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | double | X coordinate. |
+| y | double | Y coordinate. |
+| x1 | double[] | Transformed X coordinate. |
+| y1 | double[] | Transformed Y coordinate. |
+
+### unTransform(double x1, double y1, double[] x, double[] y) {#unTransform-double-double-double---double---}
+```
+public final void unTransform(double x1, double y1, double[] x, double[] y)
+```
+
+
+Transforms back x1 and y1 and returns x and y before the matrix transformation using the following formula: x = (D \* x1 - C \* y1 + C \* F) / (A \* D - C \* B) y = (A \* y1 - B \* x1 + B \* E) / (A \* D - C \* B).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x1 | double | Input X coordinate |
+| y1 | double | Input Y coordinate |
+| x | double[] | Output X coordinate |
+| y | double[] | Output Y coordinate |
+
 ### transform(Rectangle rect) {#transform-com.aspose.pdf.Rectangle-}
 ```
 public Rectangle transform(Rectangle rect)
 ```
 
 
-Transformes rectangle. If angle is not 90 \* N degrees then bounding rectangle is returned.
+Transforms rectangle. If angle is not 90 \* N degrees then bounding rectangle is returned.
 
 --------------------
 

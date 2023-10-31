@@ -3,7 +3,7 @@ title: XmpPdfAExtensionField
 second_title: Aspose.PDF for Java API Reference
 description: This schema describes a field in a structured type.
 type: docs
-weight: 419
+weight: 420
 url: /java/com.aspose.pdf/xmppdfaextensionfield/
 ---
 **Inheritance:**

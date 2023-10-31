@@ -3,7 +3,7 @@ title: PasswordBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class descibes text field for entering password.
 type: docs
-weight: 270
+weight: 271
 url: /java/com.aspose.pdf/passwordboxfield/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TextState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text
 type: docs
-weight: 389
+weight: 390
 url: /java/com.aspose.pdf/textstate/
 ---
 **Inheritance:**
@@ -74,6 +74,7 @@ Represents a text state of a text
 | [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets horizontal alignment for the text. |
 | [measureString(String str, boolean insideLine)](#measureString-java.lang.String-boolean-) | Measures the string. |
 | [measureString(String str)](#measureString-java.lang.String-) | Measures the string. |
+| [measureHeight(char character)](#measureHeight-char-) | Measures character height. |
 | [calculateFontSize(String str, Rectangle rect)](#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-) | Calculates the font size for the rectangle. |
 ### TextState() {#TextState--}
 ```
@@ -688,6 +689,21 @@ Measures the string.
 
 **Returns:**
 double - Width of the string represented with this text state.
+### measureHeight(char character) {#measureHeight-char-}
+```
+public double measureHeight(char character)
+```
+
+
+Measures character height.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| character | char | Character to measure. |
+
+**Returns:**
+double - Height of the character if we could get it from font; otherwise 0.
 ### calculateFontSize(String str, Rectangle rect) {#calculateFontSize-java.lang.String-com.aspose.pdf.Rectangle-}
 ```
 public double calculateFontSize(String str, Rectangle rect)

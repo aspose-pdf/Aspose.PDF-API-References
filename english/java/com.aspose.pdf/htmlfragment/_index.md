@@ -3,7 +3,7 @@ title: HtmlFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents html fragment.
 type: docs
-weight: 156
+weight: 155
 url: /java/com.aspose.pdf/htmlfragment/
 ---
 **Inheritance:**

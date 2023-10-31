@@ -3,7 +3,7 @@ title: CharInfoCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents CharInfo objects collection.
 type: docs
-weight: 56
+weight: 54
 url: /java/com.aspose.pdf/charinfocollection/
 ---
 **Inheritance:**

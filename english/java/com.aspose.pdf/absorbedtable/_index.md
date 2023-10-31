@@ -3,7 +3,7 @@ title: AbsorbedTable
 second_title: Aspose.PDF for Java API Reference
 description: Represents table that exist on the page
 type: docs
-weight: 13
+weight: 12
 url: /java/com.aspose.pdf/absorbedtable/
 ---
 **Inheritance:**

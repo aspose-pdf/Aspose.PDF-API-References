@@ -3,7 +3,7 @@ title: InkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a freehand scribble composed of one or more disjoint paths.
 type: docs
-weight: 178
+weight: 177
 url: /java/com.aspose.pdf/inkannotation/
 ---
 **Inheritance:**

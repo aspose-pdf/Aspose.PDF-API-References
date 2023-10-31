@@ -3,7 +3,7 @@ title: DocSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Doc format
 type: docs
-weight: 90
+weight: 88
 url: /java/com.aspose.pdf/docsaveoptions/
 ---
 **Inheritance:**
@@ -25,8 +25,8 @@ Save options for export to Doc format
 
 | Method | Description |
 | --- | --- |
-| [getCustomProgressHandler()](#getCustomProgressHandler--) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
-| [setCustomProgressHandler(UnifiedSaveOptions.ConversionProgressEventHandler customProgressHandler)](#setCustomProgressHandler-com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler-) | This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages, example of handler's code that shows progress on console is : |
+| [getCustomProgressHandler()](#getCustomProgressHandler--) | This handler can be used to handle conversion progress events f.e. |
+| [setCustomProgressHandler(UnifiedSaveOptions.ConversionProgressEventHandler customProgressHandler)](#setCustomProgressHandler-com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler-) | This handler can be used to handle conversion progress events f.e. |
 | [getMode()](#getMode--) | Recognition mode. |
 | [setMode(int value)](#setMode-int-) | Recognition mode. |
 | [getRelativeHorizontalProximity()](#getRelativeHorizontalProximity--) | In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. |

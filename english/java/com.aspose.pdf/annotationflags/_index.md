@@ -3,7 +3,7 @@ title: AnnotationFlags
 second_title: Aspose.PDF for Java API Reference
 description: A set of flags specifying various characteristics of the annotation.
 type: docs
-weight: 18
+weight: 17
 url: /java/com.aspose.pdf/annotationflags/
 ---
 **Inheritance:**

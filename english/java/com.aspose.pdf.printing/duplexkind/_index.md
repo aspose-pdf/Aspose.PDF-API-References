@@ -3,7 +3,7 @@ title: DuplexKind
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the printers duplex setting.
 type: docs
-weight: 10
+weight: 11
 url: /java/com.aspose.pdf.printing/duplexkind/
 ---
 **Inheritance:**

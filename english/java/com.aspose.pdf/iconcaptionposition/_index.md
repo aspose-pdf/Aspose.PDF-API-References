@@ -3,7 +3,7 @@ title: IconCaptionPosition
 second_title: Aspose.PDF for Java API Reference
 description: Describes position of icon.
 type: docs
-weight: 162
+weight: 161
 url: /java/com.aspose.pdf/iconcaptionposition/
 ---
 **Inheritance:**

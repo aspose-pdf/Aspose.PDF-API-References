@@ -3,7 +3,7 @@ title: Image
 second_title: Aspose.PDF for Java API Reference
 description: Represents image.
 type: docs
-weight: 165
+weight: 164
 url: /java/com.aspose.pdf/image/
 ---
 **Inheritance:**

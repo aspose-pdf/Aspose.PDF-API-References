@@ -3,7 +3,7 @@ title: BaseParagraph
 second_title: Aspose.PDF for Java API Reference
 description: Represents a abstract base object can be added to the pagedoc.Paragraphs.Add.
 type: docs
-weight: 33
+weight: 31
 url: /java/com.aspose.pdf/baseparagraph/
 ---
 **Inheritance:**

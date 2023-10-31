@@ -3,7 +3,7 @@ title: LineEndingConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents LineEndingConverter class
 type: docs
-weight: 196
+weight: 195
 url: /java/com.aspose.pdf/lineendingconverter/
 ---
 **Inheritance:**

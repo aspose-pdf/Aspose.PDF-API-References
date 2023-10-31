@@ -3,7 +3,7 @@ title: Id
 second_title: Aspose.PDF for Java API Reference
 description: Represents file identifier structure.
 type: docs
-weight: 164
+weight: 163
 url: /java/com.aspose.pdf/id/
 ---
 **Inheritance:**

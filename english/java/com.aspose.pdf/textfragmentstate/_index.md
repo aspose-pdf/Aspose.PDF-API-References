@@ -3,7 +3,7 @@ title: TextFragmentState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text fragment.
 type: docs
-weight: 375
+weight: 376
 url: /java/com.aspose.pdf/textfragmentstate/
 ---
 **Inheritance:**
@@ -93,7 +93,9 @@ Provides a way to change following properties of the text: font ( TextFragmentSt
 | [getDrawTextRectangleBorder()](#getDrawTextRectangleBorder--) | Gets if text rectangle border drawn flag. |
 | [setDrawTextRectangleBorder(boolean value)](#setDrawTextRectangleBorder-boolean-) | Sets if text rectangle border drawn flag. |
 | [measureString(String str)](#measureString-java.lang.String-) | Measures the string. |
+| [measureHeight(char character)](#measureHeight-char-) | Measures character height. |
 | [applyChangesFrom(TextState textState)](#applyChangesFrom-com.aspose.pdf.TextState-) | Applies settings from another textState |
+| [isFitRectangle(String str, Rectangle rect)](#isFitRectangle-java.lang.String-com.aspose.pdf.Rectangle-) | Checks if input string could be placed inside defined rectangle. |
 | [applyChangesFrom(TextState textState, boolean groupChangesOnly)](#applyChangesFrom-com.aspose.pdf.TextState-boolean-) | Applies settings from another textState |
 ### TextFragmentState(TextFragment fragment) {#TextFragmentState-com.aspose.pdf.TextFragment-}
 ```
@@ -613,6 +615,21 @@ Measures the string.
 
 **Returns:**
 double - double value, Width of the string.
+### measureHeight(char character) {#measureHeight-char-}
+```
+public final double measureHeight(char character)
+```
+
+
+Measures character height.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| character | char | Character to measure. |
+
+**Returns:**
+double - Height of the character if we could get it from font; otherwise 0.
 ### applyChangesFrom(TextState textState) {#applyChangesFrom-com.aspose.pdf.TextState-}
 ```
 public void applyChangesFrom(TextState textState)
@@ -630,6 +647,22 @@ Applies settings from another textState
 
 Only those properties will be copied that were changed explicitly. |
 
+### isFitRectangle(String str, Rectangle rect) {#isFitRectangle-java.lang.String-com.aspose.pdf.Rectangle-}
+```
+public final boolean isFitRectangle(String str, Rectangle rect)
+```
+
+
+Checks if input string could be placed inside defined rectangle.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| str | java.lang.String | String to check. |
+| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle to check. |
+
+**Returns:**
+boolean - True if string fit rectangle; otherwise false.
 ### applyChangesFrom(TextState textState, boolean groupChangesOnly) {#applyChangesFrom-com.aspose.pdf.TextState-boolean-}
 ```
 public void applyChangesFrom(TextState textState, boolean groupChangesOnly)

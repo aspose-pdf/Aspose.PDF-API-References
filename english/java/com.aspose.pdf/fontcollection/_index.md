@@ -3,7 +3,7 @@ title: FontCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents font collection.
 type: docs
-weight: 133
+weight: 132
 url: /java/com.aspose.pdf/fontcollection/
 ---
 **Inheritance:**

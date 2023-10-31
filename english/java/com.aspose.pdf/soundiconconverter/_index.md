@@ -3,7 +3,7 @@ title: SoundIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents SoundIconConverter class
 type: docs
-weight: 331
+weight: 333
 url: /java/com.aspose.pdf/soundiconconverter/
 ---
 **Inheritance:**

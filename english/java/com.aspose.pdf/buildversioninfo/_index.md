@@ -3,7 +3,7 @@ title: BuildVersionInfo
 second_title: Aspose.PDF for Java API Reference
 description: This class provides information about current product build.
 type: docs
-weight: 44
+weight: 42
 url: /java/com.aspose.pdf/buildversioninfo/
 ---
 **Inheritance:**

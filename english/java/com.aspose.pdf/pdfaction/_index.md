@@ -3,7 +3,7 @@ title: PdfAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents Action in PDF document
 type: docs
-weight: 274
+weight: 275
 url: /java/com.aspose.pdf/pdfaction/
 ---
 **Inheritance:**

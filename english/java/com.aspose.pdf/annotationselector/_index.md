@@ -3,7 +3,7 @@ title: AnnotationSelector
 second_title: Aspose.PDF for Java API Reference
 description: This class is used for selecting annotations using Visitor template idea.
 type: docs
-weight: 19
+weight: 18
 url: /java/com.aspose.pdf/annotationselector/
 ---
 **Inheritance:**

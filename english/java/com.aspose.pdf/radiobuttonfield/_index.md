@@ -3,7 +3,7 @@ title: RadioButtonField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing radio button field.
 type: docs
-weight: 299
+weight: 301
 url: /java/com.aspose.pdf/radiobuttonfield/
 ---
 **Inheritance:**
@@ -29,6 +29,8 @@ Class representing radio button field.
 | [getSelected()](#getSelected--) | Gets index of selected item. |
 | [setSelected(int value)](#setSelected-int-) | Sets index of selected item. |
 | [getOptions()](#getOptions--) | Gets collection of options of the radio button. |
+| [getNoToggleToOff()](#getNoToggleToOff--) | Get or sets the flag that allows the radiobutton to have no selected value. |
+| [setNoToggleToOff(boolean value)](#setNoToggleToOff-boolean-) | Get or sets the flag that allows the radiobutton to have no selected value. |
 | [updateAppearances()](#updateAppearances--) | Update appearances value. |
 | [add(RadioButtonOptionField newItem)](#add-com.aspose.pdf.RadioButtonOptionField-) | Adds new option field to RadioButton field |
 | [addOption(String optionName, Rectangle rect)](#addOption-java.lang.String-com.aspose.pdf.Rectangle-) | Add to radio button option with specifed rectangle. |
@@ -133,6 +135,37 @@ Gets collection of options of the radio button.
 
 **Returns:**
 [OptionCollection](../../com.aspose.pdf/optioncollection) - OptionCollection object
+### getNoToggleToOff() {#getNoToggleToOff--}
+```
+public final boolean getNoToggleToOff()
+```
+
+
+Get or sets the flag that allows the radiobutton to have no selected value. If  , exactly one radio button shall be selected at all times; selecting the currently selected button has no effect. If  , clicking the selected button deselects it, leaving no button selected.
+
+--------------------
+
+Some PDF readers (including Adobe Acrobat) may ignore the state of the flag.
+
+**Returns:**
+boolean - boolean value
+### setNoToggleToOff(boolean value) {#setNoToggleToOff-boolean-}
+```
+public final void setNoToggleToOff(boolean value)
+```
+
+
+Get or sets the flag that allows the radiobutton to have no selected value. If  , exactly one radio button shall be selected at all times; selecting the currently selected button has no effect. If  , clicking the selected button deselects it, leaving no button selected.
+
+--------------------
+
+Some PDF readers (including Adobe Acrobat) may ignore the state of the flag.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+
 ### updateAppearances() {#updateAppearances--}
 ```
 public void updateAppearances()

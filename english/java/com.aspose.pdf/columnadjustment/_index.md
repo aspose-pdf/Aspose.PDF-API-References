@@ -3,7 +3,7 @@ title: ColumnAdjustment
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates column adjustment types.
 type: docs
-weight: 67
+weight: 65
 url: /java/com.aspose.pdf/columnadjustment/
 ---
 **Inheritance:**

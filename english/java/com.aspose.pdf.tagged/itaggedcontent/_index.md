@@ -3,7 +3,7 @@ title: ITaggedContent
 second_title: Aspose.PDF for Java API Reference
 description: Represents interface for work with TaggedPdf content of document.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.pdf.tagged/itaggedcontent/
 ---```
 public interface ITaggedContent

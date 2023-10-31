@@ -3,7 +3,7 @@ title: SystemFontSource
 second_title: Aspose.PDF for Java API Reference
 description: Represents all fonts installed to the system.
 type: docs
-weight: 347
+weight: 349
 url: /java/com.aspose.pdf/systemfontsource/
 ---
 **Inheritance:**

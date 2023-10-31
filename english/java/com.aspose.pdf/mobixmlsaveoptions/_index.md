@@ -3,7 +3,7 @@ title: MobiXmlSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Xml format
 type: docs
-weight: 222
+weight: 221
 url: /java/com.aspose.pdf/mobixmlsaveoptions/
 ---
 **Inheritance:**

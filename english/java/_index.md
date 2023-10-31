@@ -26,5 +26,6 @@ is_root: true
 | [com.aspose.pdf.tagged.logicalstructure.elements.bls](./com.aspose.pdf.tagged.logicalstructure.elements.bls) | The **com.aspose.pdf.tagged.logicalstructure.elements.bls** is a namespace for PDF Logical Structure classes. |
 | [com.aspose.pdf.tagged.logicalstructure.elements.grouping](./com.aspose.pdf.tagged.logicalstructure.elements.grouping) | The **com.aspose.pdf.tagged.logicalstructure.elements.grouping** is a namespace for PDF Logical Structure classes. |
 | [com.aspose.pdf.tagged.logicalstructure.elements.ils](./com.aspose.pdf.tagged.logicalstructure.elements.ils) | The  **com.aspose.pdf.tagged.logicalstructure.elements.ils** is a namespace for PDF Logical Structure classes. |
+| [com.aspose.pdf.tex](./com.aspose.pdf.tex) |  |
 | [com.aspose.pdf.text](./com.aspose.pdf.text) | The **com.aspose.pdf.text** package provides classes that allow to extract text, add text, manipulate existing text of a document. |
-| [com.aspose.pdf.vector](./com.aspose.pdf.vector) |  |
+| [com.aspose.pdf.vector](./com.aspose.pdf.vector) | The **Aspose.Pdf.Vector** is a root namespace for graphics operations. |

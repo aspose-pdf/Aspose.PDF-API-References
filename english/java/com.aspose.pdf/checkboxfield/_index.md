@@ -3,7 +3,7 @@ title: CheckboxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing checkbox field
 type: docs
-weight: 58
+weight: 56
 url: /java/com.aspose.pdf/checkboxfield/
 ---
 **Inheritance:**
@@ -39,6 +39,9 @@ Class representing checkbox field
 | [deepClone()](#deepClone--) | Clone the checkbox. |
 | [getExportValue()](#getExportValue--) | Gets or sets export value of CheckBox field. |
 | [setExportValue(String value)](#setExportValue-java.lang.String-) | Gets or sets export value of CheckBox field. |
+| [addOption(String optionName)](#addOption-java.lang.String-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
+| [addOption(String optionName, Rectangle rect)](#addOption-java.lang.String-com.aspose.pdf.Rectangle-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
+| [addOption(String optionName, int page, Rectangle rect)](#addOption-java.lang.String-int-com.aspose.pdf.Rectangle-) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
 ### CheckboxField(Page page, Rectangle rect) {#CheckboxField-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
 ```
 public CheckboxField(Page page, Rectangle rect)
@@ -242,4 +245,46 @@ Gets or sets export value of CheckBox field.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String | String value |
+
+### addOption(String optionName) {#addOption-java.lang.String-}
+```
+public final void addOption(String optionName)
+```
+
+
+Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| optionName | java.lang.String | Value of the option represented by added checkbox. |
+
+### addOption(String optionName, Rectangle rect) {#addOption-java.lang.String-com.aspose.pdf.Rectangle-}
+```
+public final void addOption(String optionName, Rectangle rect)
+```
+
+
+Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| optionName | java.lang.String | Value of the option represented by added checkbox. |
+| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle of the added checkbox. |
+
+### addOption(String optionName, int page, Rectangle rect) {#addOption-java.lang.String-int-com.aspose.pdf.Rectangle-}
+```
+public final void addOption(String optionName, int page, Rectangle rect)
+```
+
+
+Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| optionName | java.lang.String | Value of the option represented by added checkbox. |
+| page | int | Number of the page where the added checkbox should be placed. |
+| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle of the added checkbox on the page. |
 

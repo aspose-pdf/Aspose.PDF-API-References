@@ -3,7 +3,7 @@ title: AnnotationCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing annotation collection.
 type: docs
-weight: 17
+weight: 16
 url: /java/com.aspose.pdf/annotationcollection/
 ---
 **Inheritance:**

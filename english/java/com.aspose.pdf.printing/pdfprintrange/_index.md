@@ -3,7 +3,7 @@ title: PdfPrintRange
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the part of the document to print.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.pdf.printing/pdfprintrange/
 ---
 **Inheritance:**

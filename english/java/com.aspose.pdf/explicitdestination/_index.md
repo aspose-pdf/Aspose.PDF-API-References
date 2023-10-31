@@ -3,7 +3,7 @@ title: ExplicitDestination
 second_title: Aspose.PDF for Java API Reference
 description: Represents the base class for explicit destinations in PDF document.
 type: docs
-weight: 102
+weight: 101
 url: /java/com.aspose.pdf/explicitdestination/
 ---
 **Inheritance:**

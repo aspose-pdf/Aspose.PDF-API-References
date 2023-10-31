@@ -1,7 +1,7 @@
 ---
 title: HtmlSaveOptions.RasterImagesSavingModes
 second_title: Aspose.PDF for Java API Reference
-description: Converted PDF can contain raster images.png .jpeg etc.
+description: Converted PDF can contain raster images.png .jpeg etc. This enum defines methods of how raster images can be handled during conversion of PDF to HTML
 type: docs
 weight: 24
 url: /java/com.aspose.pdf/htmlsaveoptions.rasterimagessavingmodes/
@@ -18,7 +18,7 @@ Converted PDF can contain raster images(.png, \*.jpeg etc.) This enum defines me
 | Field | Description |
 | --- | --- |
 | [AsPngImagesEmbeddedIntoSvg](#AsPngImagesEmbeddedIntoSvg) | for each distinct raster file will be generated wrapper SVG image, and raster image will be embedded as Base64 encoded strings into that SVG image |
-| [AsExternalPngFilesReferencedViaSvg](#AsExternalPngFilesReferencedViaSvg) | distinct raster images will be put apart as PNG files but will be referenced through wrapping SVG images, i.e. will be generated one PNG file and one SVG for each raster image, and each of such SVGs will contain links to relevant PNG file |
+| [AsExternalPngFilesReferencedViaSvg](#AsExternalPngFilesReferencedViaSvg) | distinct raster images will be put apart as PNG files but will be referenced through wrapping SVG images, i.e. |
 | [AsEmbeddedPartsOfPngPageBackground](#AsEmbeddedPartsOfPngPageBackground) | Will be generated one big PNG background file for each result page. |
 ### AsPngImagesEmbeddedIntoSvg {#AsPngImagesEmbeddedIntoSvg}
 ```

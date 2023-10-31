@@ -3,7 +3,7 @@ title: StampIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents StampIconConverter class
 type: docs
-weight: 339
+weight: 341
 url: /java/com.aspose.pdf/stampiconconverter/
 ---
 **Inheritance:**

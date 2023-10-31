@@ -3,7 +3,7 @@ title: LaunchAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a launch action that launches an application or opens or prints a document.
 type: docs
-weight: 186
+weight: 185
 url: /java/com.aspose.pdf/launchaction/
 ---
 **Inheritance:**

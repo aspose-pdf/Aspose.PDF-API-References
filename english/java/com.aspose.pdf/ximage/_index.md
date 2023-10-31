@@ -3,7 +3,7 @@ title: XImage
 second_title: Aspose.PDF for Java API Reference
 description: Class representing image X-Object.
 type: docs
-weight: 408
+weight: 409
 url: /java/com.aspose.pdf/ximage/
 ---
 **Inheritance:**

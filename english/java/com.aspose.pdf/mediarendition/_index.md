@@ -3,7 +3,7 @@ title: MediaRendition
 second_title: Aspose.PDF for Java API Reference
 description: Class describes media rendition.
 type: docs
-weight: 215
+weight: 214
 url: /java/com.aspose.pdf/mediarendition/
 ---
 **Inheritance:**

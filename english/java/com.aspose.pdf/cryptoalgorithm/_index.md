@@ -3,7 +3,7 @@ title: CryptoAlgorithm
 second_title: Aspose.PDF for Java API Reference
 description: Represent type of cryptographic algorithm that used in encryption/decryption routines.
 type: docs
-weight: 443
+weight: 444
 url: /java/com.aspose.pdf/cryptoalgorithm/
 ---
 **Inheritance:**

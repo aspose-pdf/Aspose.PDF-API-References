@@ -3,7 +3,7 @@ title: JavascriptAction
 second_title: Aspose.PDF for Java API Reference
 description: Class representing javascript action.
 type: docs
-weight: 181
+weight: 180
 url: /java/com.aspose.pdf/javascriptaction/
 ---
 **Inheritance:**

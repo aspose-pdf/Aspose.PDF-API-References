@@ -3,7 +3,7 @@ title: DefaultAppearance
 second_title: Aspose.PDF for Java API Reference
 description: Describes default appearance of field font text size and color.
 type: docs
-weight: 82
+weight: 80
 url: /java/com.aspose.pdf/defaultappearance/
 ---
 **Inheritance:**

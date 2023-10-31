@@ -3,7 +3,7 @@ title: BaseActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class encapsulates basic actions with page/annotation/field interactive actions
 type: docs
-weight: 31
+weight: 29
 url: /java/com.aspose.pdf/baseactioncollection/
 ---
 **Inheritance:**

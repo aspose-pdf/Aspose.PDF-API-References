@@ -3,7 +3,7 @@ title: FloatingBox
 second_title: Aspose.PDF for Java API Reference
 description: Represents a FloatingBox in a Pdf document.
 type: docs
-weight: 128
+weight: 127
 url: /java/com.aspose.pdf/floatingbox/
 ---
 **Inheritance:**

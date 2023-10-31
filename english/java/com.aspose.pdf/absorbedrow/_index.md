@@ -3,7 +3,7 @@ title: AbsorbedRow
 second_title: Aspose.PDF for Java API Reference
 description: Represents row of table that exist on the page
 type: docs
-weight: 12
+weight: 11
 url: /java/com.aspose.pdf/absorbedrow/
 ---
 **Inheritance:**

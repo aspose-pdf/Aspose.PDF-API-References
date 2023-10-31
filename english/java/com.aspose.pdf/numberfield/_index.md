@@ -3,7 +3,7 @@ title: NumberField
 second_title: Aspose.PDF for Java API Reference
 description: Text Field with specified valid chars
 type: docs
-weight: 227
+weight: 226
 url: /java/com.aspose.pdf/numberfield/
 ---
 **Inheritance:**

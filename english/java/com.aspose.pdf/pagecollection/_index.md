@@ -3,7 +3,7 @@ title: PageCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of PDF document pages.
 type: docs
-weight: 258
+weight: 259
 url: /java/com.aspose.pdf/pagecollection/
 ---
 **Inheritance:**
@@ -313,7 +313,7 @@ Gets page by index.
 | index | int | Index of page. |
 
 **Returns:**
-[Page](../../com.aspose.pdf/page) - Retreived page.
+[Page](../../com.aspose.pdf/page) - Retrieved page.
 ### accept(ImagePlacementAbsorber visitor) {#accept-com.aspose.pdf.ImagePlacementAbsorber-}
 ```
 public void accept(ImagePlacementAbsorber visitor)

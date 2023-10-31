@@ -3,7 +3,7 @@ title: IAppointment
 second_title: Aspose.PDF for Java API Reference
 description: Represents general interface for actions and destinations.
 type: docs
-weight: 430
+weight: 431
 url: /java/com.aspose.pdf/iappointment/
 ---```
 public interface IAppointment

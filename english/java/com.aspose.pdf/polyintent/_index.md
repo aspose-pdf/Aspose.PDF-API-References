@@ -3,7 +3,7 @@ title: PolyIntent
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the intents of the polygon or polyline annotation.
 type: docs
-weight: 286
+weight: 287
 url: /java/com.aspose.pdf/polyintent/
 ---
 **Inheritance:**

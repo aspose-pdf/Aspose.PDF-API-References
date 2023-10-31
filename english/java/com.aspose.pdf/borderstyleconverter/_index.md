@@ -3,7 +3,7 @@ title: BorderStyleConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents BorderStyleConverter class
 type: docs
-weight: 41
+weight: 39
 url: /java/com.aspose.pdf/borderstyleconverter/
 ---
 **Inheritance:**

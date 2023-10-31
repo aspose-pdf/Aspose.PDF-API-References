@@ -18,7 +18,7 @@ Sometimes specific reqirments to created HTML are present. This enum defines HTM
 | Field | Description |
 | --- | --- |
 | [WriteAllHtml](#WriteAllHtml) | Default mode any specific requirments are absent. |
-| [WriteOnlyBodyContent](#WriteOnlyBodyContent) | will be stripped away all HTML content that is outside HTML's body, i.e. will be left only content that is inside    tags |
+| [WriteOnlyBodyContent](#WriteOnlyBodyContent) | will be stripped away all HTML content that is outside HTML's body, i.e. |
 ### WriteAllHtml {#WriteAllHtml}
 ```
 public static final int WriteAllHtml

@@ -3,7 +3,7 @@ title: CapStyle
 second_title: Aspose.PDF for Java API Reference
 description: Style of line ending of Ink annotation line.
 type: docs
-weight: 46
+weight: 44
 url: /java/com.aspose.pdf/capstyle/
 ---
 **Inheritance:**

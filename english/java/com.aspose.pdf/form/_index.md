@@ -3,7 +3,7 @@ title: Form
 second_title: Aspose.PDF for Java API Reference
 description: Class representing form object.
 type: docs
-weight: 140
+weight: 139
 url: /java/com.aspose.pdf/form/
 ---
 **Inheritance:**
@@ -25,8 +25,8 @@ Class representing form object.
 
 | Method | Description |
 | --- | --- |
-| [getSignDependentElementsRenderingModeWhenConverted()](#getSignDependentElementsRenderingModeWhenConverted--) | Forms can contain signing information, i.e. can be signed or unsigned. |
-| [setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)](#setSignDependentElementsRenderingModeWhenConverted-int-) | Forms can contain signing information, i.e. can be signed or unsigned. |
+| [getSignDependentElementsRenderingModeWhenConverted()](#getSignDependentElementsRenderingModeWhenConverted--) | Forms can contain signing information, i.e. |
+| [setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)](#setSignDependentElementsRenderingModeWhenConverted-int-) | Forms can contain signing information, i.e. |
 | [getDocument()](#getDocument--) | For internal usage only |
 | [get_xfa()](#get-xfa--) | For internal usage only |
 | [isSynchronized()](#isSynchronized--) | Returns true if object is thread-safe. |
@@ -67,12 +67,14 @@ Class representing form object.
 | [add(Field field)](#add-com.aspose.pdf.Field-) | Adds field on the form. |
 | [add(Field field, String partialName, int pageNumber)](#add-com.aspose.pdf.Field-java.lang.String-int-) | Adds new field to the form; If this field is already placed on other or this form, the copy of field is created. |
 | [addFieldAppearance(Field field, int pageNumber, Rectangle rect)](#addFieldAppearance-com.aspose.pdf.Field-int-com.aspose.pdf.Rectangle-) | Adds additional appearance of the field to specified page of the document in the specified location. |
+| [removeFieldAppearance(Field field, int appearanceIndex)](#removeFieldAppearance-com.aspose.pdf.Field-int-) | Removes appearance of the field at specified index. |
 | [addFieldToAcroForm(Field field)](#addFieldToAcroForm-com.aspose.pdf.Field-) | Adds additional appearance of the field to specified page of the document. |
 | [hasXfa()](#hasXfa--) | Returns true if hasXfa |
 | [assignXfa(System.Xml.XmlDocument xml)](#assignXfa-com.aspose.ms.System.Xml.XmlDocument-) | Sets XFA of the form to specified value. |
 | [getFields()](#getFields--) | Gets list of all fields in lowest level of hierarhical form. |
 | [hasField(Field field)](#hasField-com.aspose.pdf.Field-) | Check if the form already has specified field. |
 | [hasField(String fieldName)](#hasField-java.lang.String-) | Determines if the field with specified name already added to the Form. |
+| [hasField(String fieldName, boolean searchChildren)](#hasField-java.lang.String-boolean-) | Determines if the field with specified name already added to the Form, with ability to look into children hierarchy of fields. |
 | [getFieldsInRect(Rectangle rect)](#getFieldsInRect-com.aspose.pdf.Rectangle-) | Returns fields inside of specified rectangle. |
 | [setCalculatedFields(List<Field> value)](#setCalculatedFields-java.util.List-com.aspose.pdf.Field--) | Allows to set order of field calculation. |
 | [getSignaturesExist()](#getSignaturesExist--) | If set, the document contains at least one signature field. |
@@ -600,6 +602,20 @@ Adds additional appearance of the field to specified page of the document in the
 | pageNumber | int | Number of the page where field must be placed. |
 | rect | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle where field will be placed. |
 
+### removeFieldAppearance(Field field, int appearanceIndex) {#removeFieldAppearance-com.aspose.pdf.Field-int-}
+```
+public final void removeFieldAppearance(Field field, int appearanceIndex)
+```
+
+
+Removes appearance of the field at specified index. If only one child appearance left, method embeds it into the field.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field | [Field](../../com.aspose.pdf/field) | Field with appearances. |
+| appearanceIndex | int | Appearances index. |
+
 ### addFieldToAcroForm(Field field) {#addFieldToAcroForm-com.aspose.pdf.Field-}
 ```
 public void addFieldToAcroForm(Field field)
@@ -672,10 +688,26 @@ Determines if the field with specified name already added to the Form.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | java.lang.String | PartialName of the field. |
+| fieldName | java.lang.String | Field.PartialName or Annotation.FullName of the field. |
 
 **Returns:**
-boolean -  true  if the specified field name added to Form; otherwise,  false .
+boolean - true if the specified field name added to Form; otherwise false.
+### hasField(String fieldName, boolean searchChildren) {#hasField-java.lang.String-boolean-}
+```
+public final boolean hasField(String fieldName, boolean searchChildren)
+```
+
+
+Determines if the field with specified name already added to the Form, with ability to look into children hierarchy of fields.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldName | java.lang.String | Field.PartialName or Annotation.FullName of the field. |
+| searchChildren | boolean | When set to   the whole hierarchy of form fields would be searched for the requested  fieldName  (note that in this case the Annotation.FullNameof the required field should be passed as  fieldName ). |
+
+**Returns:**
+boolean - true if the specified field name added to Form; otherwise, false.
 ### getFieldsInRect(Rectangle rect) {#getFieldsInRect-com.aspose.pdf.Rectangle-}
 ```
 public Field[] getFieldsInRect(Rectangle rect)

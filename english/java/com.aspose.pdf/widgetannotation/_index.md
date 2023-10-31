@@ -3,7 +3,7 @@ title: WidgetAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing widget annotation.
 type: docs
-weight: 404
+weight: 405
 url: /java/com.aspose.pdf/widgetannotation/
 ---
 **Inheritance:**
@@ -38,6 +38,7 @@ Class representing widget annotation.
 | [setExportable(boolean value)](#setExportable-boolean-) | Sets read only status of the field. |
 | [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
 | [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor. |
+| [getCheckedStateName()](#getCheckedStateName--) | Returns name of "checked" state according to existing state names. |
 ### WidgetAnnotation(IDocument doc) {#WidgetAnnotation-com.aspose.pdf.IDocument-}
 ```
 public WidgetAnnotation(IDocument doc)
@@ -232,3 +233,13 @@ Accepts visitor.
 | --- | --- | --- |
 | visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Visitor to be accepted. |
 
+### getCheckedStateName() {#getCheckedStateName--}
+```
+public final String getCheckedStateName()
+```
+
+
+Returns name of "checked" state according to existing state names.
+
+**Returns:**
+java.lang.String - The name of the "checked" state for this annotation.

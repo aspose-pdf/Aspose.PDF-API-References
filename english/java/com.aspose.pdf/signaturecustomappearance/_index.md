@@ -3,7 +3,7 @@ title: SignatureCustomAppearance
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class which represents signature custon appearance object.
 type: docs
-weight: 325
+weight: 327
 url: /java/com.aspose.pdf/signaturecustomappearance/
 ---
 **Inheritance:**

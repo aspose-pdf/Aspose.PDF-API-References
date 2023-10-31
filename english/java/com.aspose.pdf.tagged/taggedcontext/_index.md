@@ -3,7 +3,7 @@ title: TaggedContext
 second_title: Aspose.PDF for Java API Reference
 description: For internal usage only
 type: docs
-weight: 10
+weight: 11
 url: /java/com.aspose.pdf.tagged/taggedcontext/
 ---
 **Inheritance:**

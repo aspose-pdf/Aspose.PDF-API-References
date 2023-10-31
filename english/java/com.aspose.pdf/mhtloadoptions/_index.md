@@ -3,7 +3,7 @@ title: MhtLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing of .mht-file into pdf document.
 type: docs
-weight: 221
+weight: 220
 url: /java/com.aspose.pdf/mhtloadoptions/
 ---
 **Inheritance:**

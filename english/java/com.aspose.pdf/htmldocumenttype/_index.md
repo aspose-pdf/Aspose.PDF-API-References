@@ -3,7 +3,7 @@ title: HtmlDocumentType
 second_title: Aspose.PDF for Java API Reference
 description: Represents enumeration of the Html document types.
 type: docs
-weight: 155
+weight: 154
 url: /java/com.aspose.pdf/htmldocumenttype/
 ---
 **Inheritance:**

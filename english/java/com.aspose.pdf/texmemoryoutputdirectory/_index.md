@@ -3,14 +3,14 @@ title: TeXMemoryOutputDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Implements fetching an output stream from memory.
 type: docs
-weight: 359
+weight: 360
 url: /java/com.aspose.pdf/texmemoryoutputdirectory/
 ---
 **Inheritance:**
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.tex.ITeXOutputDirectory
+[com.aspose.pdf.tex.ITeXOutputDirectory](../../com.aspose.pdf.tex/itexoutputdirectory)
 ```
 public class TeXMemoryOutputDirectory implements ITeXOutputDirectory
 ```

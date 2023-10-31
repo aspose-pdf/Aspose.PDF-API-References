@@ -27,6 +27,7 @@ Represents a class to view or print a pdf.
 | Field | Description |
 | --- | --- |
 | [PdfQueryPageSettings](#PdfQueryPageSettings) | Adds/removes subscription on the last page printing event. |
+| [CustomPrint](#CustomPrint) |  |
 | [EndPrint](#EndPrint) | Adds/removes subscription on the last page printing event. |
 ## Methods
 
@@ -121,6 +122,12 @@ public final PdfEvent<PdfQueryPageSettingsEventHandler> PdfQueryPageSettings
 
 
 Adds/removes subscription on the last page printing event.
+
+### CustomPrint {#CustomPrint}
+```
+public final Event<System.EventHandler<CustomPrintEventArgs>> CustomPrint
+```
+
 
 ### EndPrint {#EndPrint}
 ```

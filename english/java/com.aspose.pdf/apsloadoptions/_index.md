@@ -3,7 +3,7 @@ title: ApsLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Class describes aps load options.
 type: docs
-weight: 23
+weight: 21
 url: /java/com.aspose.pdf/apsloadoptions/
 ---
 **Inheritance:**

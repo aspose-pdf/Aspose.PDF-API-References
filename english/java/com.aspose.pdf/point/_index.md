@@ -3,7 +3,7 @@ title: Point
 second_title: Aspose.PDF for Java API Reference
 description: Represent point with fractional coordinates.
 type: docs
-weight: 283
+weight: 284
 url: /java/com.aspose.pdf/point/
 ---
 **Inheritance:**
@@ -28,7 +28,7 @@ Represent point with fractional coordinates.
 | [setY(double value)](#setY-double-) | Sets Y coordinate value. |
 | [getTrivial()](#getTrivial--) | Gets point with zero coordinates. |
 | [toPoint()](#toPoint--) | Converts point into java.awt.geom.Point2D.Float object. |
-| [toString()](#toString--) |  |
+| [toString()](#toString--) | Return string representation current point. |
 ### Point(double x, double y) {#Point-double-double-}
 ```
 public Point(double x, double y)
@@ -115,7 +115,7 @@ public String toString()
 ```
 
 
-
+Return string representation current point.
 
 **Returns:**
-java.lang.String
+java.lang.String - String, representing current point.

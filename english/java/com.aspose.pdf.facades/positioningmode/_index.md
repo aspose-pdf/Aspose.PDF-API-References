@@ -18,7 +18,7 @@ Defines positioning mode. Possible values include Legacy (backward compatibility
 | Field | Description |
 | --- | --- |
 | [Legacy](#Legacy) | Legacy text positioning |
-| [ModernLineSpacing](#ModernLineSpacing) | Updated line spacing, vertical position calculation is done by the old rules (i.e. text is positioned relative to bottom-left corner of the specified rectangle) |
+| [ModernLineSpacing](#ModernLineSpacing) | Updated line spacing, vertical position calculation is done by the old rules (i.e. |
 | [Current](#Current) | Updated line spacing and vertical position calculation is done based on left-top corner rather than left-bottom. |
 ### Legacy {#Legacy}
 ```

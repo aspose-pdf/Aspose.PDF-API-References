@@ -3,7 +3,7 @@ title: ColorBarAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing ColorBarAnnotation annotation.
 type: docs
-weight: 63
+weight: 61
 url: /java/com.aspose.pdf/colorbarannotation/
 ---
 **Inheritance:**

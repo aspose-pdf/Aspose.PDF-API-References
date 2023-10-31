@@ -3,7 +3,7 @@ title: XmlSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Xml format
 type: docs
-weight: 415
+weight: 416
 url: /java/com.aspose.pdf/xmlsaveoptions/
 ---
 **Inheritance:**

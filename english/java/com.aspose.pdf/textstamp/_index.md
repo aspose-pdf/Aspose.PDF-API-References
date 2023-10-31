@@ -3,7 +3,7 @@ title: TextStamp
 second_title: Aspose.PDF for Java API Reference
 description: Reresents textual stamp.
 type: docs
-weight: 388
+weight: 389
 url: /java/com.aspose.pdf/textstamp/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: FileIcon
 second_title: Aspose.PDF for Java API Reference
 description: An icon to be used in displaying the annotation.
 type: docs
-weight: 114
+weight: 113
 url: /java/com.aspose.pdf/fileicon/
 ---
 **Inheritance:**

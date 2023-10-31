@@ -3,7 +3,7 @@ title: BackgroundArtifact
 second_title: Aspose.PDF for Java API Reference
 description: Class descibes background artifact.
 type: docs
-weight: 29
+weight: 27
 url: /java/com.aspose.pdf/backgroundartifact/
 ---
 **Inheritance:**

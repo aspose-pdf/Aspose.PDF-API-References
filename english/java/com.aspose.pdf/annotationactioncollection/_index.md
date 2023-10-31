@@ -3,7 +3,7 @@ title: AnnotationActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents the collection of annotation actions.
 type: docs
-weight: 16
+weight: 15
 url: /java/com.aspose.pdf/annotationactioncollection/
 ---
 **Inheritance:**

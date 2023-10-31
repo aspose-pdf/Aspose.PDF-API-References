@@ -3,7 +3,7 @@ title: SoundData
 second_title: Aspose.PDF for Java API Reference
 description: Represents a sound data defining the sound to be played when the annotation is activated.
 type: docs
-weight: 328
+weight: 330
 url: /java/com.aspose.pdf/sounddata/
 ---
 **Inheritance:**

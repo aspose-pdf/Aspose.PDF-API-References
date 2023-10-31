@@ -19,6 +19,7 @@ The exception that is thrown when a file is invalid.
 | --- | --- |
 | [InvalidFileFormatException()](#InvalidFileFormatException--) | Initializes a new instance of the  InvalidFileFormatException  class. |
 | [InvalidFileFormatException(String message)](#InvalidFileFormatException-java.lang.String-) | Initializes a new instance of the  InvalidFileFormatException  class. |
+| [InvalidFileFormatException(System.Exception innerException)](#InvalidFileFormatException-com.aspose.ms.System.Exception-) | Initializes a new instance of the  InvalidFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 ### InvalidFileFormatException() {#InvalidFileFormatException--}
 ```
 public InvalidFileFormatException()
@@ -39,4 +40,17 @@ Initializes a new instance of the  InvalidFileFormatException  class.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | message | java.lang.String | The message. |
+
+### InvalidFileFormatException(System.Exception innerException) {#InvalidFileFormatException-com.aspose.ms.System.Exception-}
+```
+public InvalidFileFormatException(System.Exception innerException)
+```
+
+
+Initializes a new instance of the  InvalidFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| innerException | com.aspose.ms.System.Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 

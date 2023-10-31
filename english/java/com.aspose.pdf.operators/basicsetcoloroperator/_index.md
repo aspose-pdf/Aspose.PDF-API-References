@@ -24,7 +24,7 @@ Base class for set color operators.
 | [getM()](#getM--) | Gets magenta component of CMYK color. |
 | [getY()](#getY--) | Gets yellow component of CMYK color. |
 | [getK()](#getK--) | Gets black component of CMYK color. |
-| [getGrey()](#getGrey--) | Gets black component of gray color. |
+| [getGray()](#getGray--) | Gets black component of gray color. |
 | [getColorArray()](#getColorArray--) | Gets array of color components. |
 ### getR() {#getR--}
 ```
@@ -96,9 +96,9 @@ Gets black component of CMYK color.
 
 **Returns:**
 double - double value
-### getGrey() {#getGrey--}
+### getGray() {#getGray--}
 ```
-public double getGrey()
+public double getGray()
 ```
 
 

@@ -3,7 +3,7 @@ title: ColorSpace
 second_title: Aspose.PDF for Java API Reference
 description: The color spaces enumeration.
 type: docs
-weight: 64
+weight: 62
 url: /java/com.aspose.pdf/colorspace/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TextExtractionError
 second_title: Aspose.PDF for Java API Reference
 description: Describes the text extraction error has appeared in the PDF document.
 type: docs
-weight: 368
+weight: 369
 url: /java/com.aspose.pdf/textextractionerror/
 ---
 **Inheritance:**

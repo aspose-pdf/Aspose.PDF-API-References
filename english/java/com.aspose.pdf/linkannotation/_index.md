@@ -3,7 +3,7 @@ title: LinkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents either a hypertext link to a destination elsewhere in the document or an action to be performed.
 type: docs
-weight: 199
+weight: 198
 url: /java/com.aspose.pdf/linkannotation/
 ---
 **Inheritance:**
