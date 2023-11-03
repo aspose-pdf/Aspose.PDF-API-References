@@ -3,7 +3,7 @@ title: PdfPrinterResolutionKind
 second_title: Aspose.PDF for Java API Reference
 description: Specifies a printer resolution.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.pdf.printing/pdfprinterresolutionkind/
 ---
 **Inheritance:**

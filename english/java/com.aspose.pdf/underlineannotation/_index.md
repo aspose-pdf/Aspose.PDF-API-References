@@ -3,7 +3,7 @@ title: UnderlineAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents an underline annotation that appears as an underline in the text of the document.
 type: docs
-weight: 395
+weight: 396
 url: /java/com.aspose.pdf/underlineannotation/
 ---
 **Inheritance:**

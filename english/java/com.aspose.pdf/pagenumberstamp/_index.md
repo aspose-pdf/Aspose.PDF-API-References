@@ -3,7 +3,7 @@ title: PageNumberStamp
 second_title: Aspose.PDF for Java API Reference
 description: Represents page number stamp and used to number pages.
 type: docs
-weight: 266
+weight: 267
 url: /java/com.aspose.pdf/pagenumberstamp/
 ---
 **Inheritance:**

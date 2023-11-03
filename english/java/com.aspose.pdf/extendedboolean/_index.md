@@ -3,7 +3,7 @@ title: ExtendedBoolean
 second_title: Aspose.PDF for Java API Reference
 description: Represents boolean type that supports Undefined value.
 type: docs
-weight: 105
+weight: 104
 url: /java/com.aspose.pdf/extendedboolean/
 ---
 **Inheritance:**

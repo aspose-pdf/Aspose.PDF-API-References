@@ -3,7 +3,7 @@ title: OperatorCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of operators
 type: docs
-weight: 232
+weight: 231
 url: /java/com.aspose.pdf/operatorcollection/
 ---
 **Inheritance:**
@@ -48,7 +48,7 @@ Class represents collection of operators
 | [clear()](#clear--) | Removes all operators from list. |
 | [toString()](#toString--) | Returns text representation of the operator. |
 | [add(Iterable<Operator> ops)](#add-java.lang.Iterable-com.aspose.pdf.Operator--) | Adds to collection all operators from other collection. |
-| [isBracketed()](#isBracketed--) | Gets bracketed status of operator sequence i.e. is this operators are inside of q - Q blocks |
+| [isBracketed()](#isBracketed--) | Gets bracketed status of operator sequence i.e. |
 | [suppressUpdate()](#suppressUpdate--) | Suppresses update contents data The contents stream is not updated until ResumeUpdate is called |
 | [resumeUpdate(boolean updateAll)](#resumeUpdate-boolean-) | Resumes document update. |
 | [resumeUpdate()](#resumeUpdate--) | Resumes document update. |

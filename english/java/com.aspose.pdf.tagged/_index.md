@@ -14,6 +14,7 @@ The **com.aspose.pdf.tagged** package provides classes that allow to work with T
 
 | Class | Description |
 | --- | --- |
+| [InternalHelper](../com.aspose.pdf.tagged/internalhelper) |  |
 | [TaggedContext](../com.aspose.pdf.tagged/taggedcontext) | For internal usage only |
 
 ## Interfaces

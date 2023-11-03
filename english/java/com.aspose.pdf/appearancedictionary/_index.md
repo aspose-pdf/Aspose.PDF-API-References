@@ -3,7 +3,7 @@ title: AppearanceDictionary
 second_title: Aspose.PDF for Java API Reference
 description: Annotation appearance dictionary specifying how the annotation shall be presented visually on the page.
 type: docs
-weight: 22
+weight: 20
 url: /java/com.aspose.pdf/appearancedictionary/
 ---
 **Inheritance:**

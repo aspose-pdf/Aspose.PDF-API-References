@@ -3,7 +3,7 @@ title: Cell
 second_title: Aspose.PDF for Java API Reference
 description: Represents a cell of the tables row.
 type: docs
-weight: 51
+weight: 49
 url: /java/com.aspose.pdf/cell/
 ---
 **Inheritance:**

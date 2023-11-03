@@ -3,7 +3,7 @@ title: XImageCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing XImage collection.
 type: docs
-weight: 409
+weight: 410
 url: /java/com.aspose.pdf/ximagecollection/
 ---
 **Inheritance:**

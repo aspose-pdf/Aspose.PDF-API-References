@@ -3,7 +3,7 @@ title: ButtonField
 second_title: Aspose.PDF for Java API Reference
 description: Class represents push button field.
 type: docs
-weight: 45
+weight: 43
 url: /java/com.aspose.pdf/buttonfield/
 ---
 **Inheritance:**

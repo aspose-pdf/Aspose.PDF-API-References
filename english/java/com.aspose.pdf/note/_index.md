@@ -3,7 +3,7 @@ title: Note
 second_title: Aspose.PDF for Java API Reference
 description: This class represents generator paragraph note.
 type: docs
-weight: 226
+weight: 225
 url: /java/com.aspose.pdf/note/
 ---
 **Inheritance:**

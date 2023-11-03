@@ -3,7 +3,7 @@ title: TextEditOptions
 second_title: Aspose.PDF for Java API Reference
 description: Descubes options of text edit operations.
 type: docs
-weight: 366
+weight: 367
 url: /java/com.aspose.pdf/texteditoptions/
 ---
 **Inheritance:**

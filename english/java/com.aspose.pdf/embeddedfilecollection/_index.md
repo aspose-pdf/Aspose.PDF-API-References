@@ -3,7 +3,7 @@ title: EmbeddedFileCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing embedded files collection.
 type: docs
-weight: 97
+weight: 96
 url: /java/com.aspose.pdf/embeddedfilecollection/
 ---
 **Inheritance:**

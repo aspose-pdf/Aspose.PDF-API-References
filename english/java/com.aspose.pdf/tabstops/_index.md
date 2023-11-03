@@ -3,7 +3,7 @@ title: TabStops
 second_title: Aspose.PDF for Java API Reference
 description: Represents a collection of TabStop objects.
 type: docs
-weight: 352
+weight: 354
 url: /java/com.aspose.pdf/tabstops/
 ---
 **Inheritance:**

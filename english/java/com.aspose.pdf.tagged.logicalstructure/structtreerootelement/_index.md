@@ -26,6 +26,7 @@ Represents StructTreeRoot object in logical structure.
 | [getRoleMap()](#getRoleMap--) |  |
 | [doPreSave()](#doPreSave--) |  |
 | [doSave()](#doSave--) |  |
+| [init()](#init--) |  |
 | [createStructParents()](#createStructParents--) |  |
 | [getStructParentsArray(IPdfNumber structParents)](#getStructParentsArray-com.aspose.pdf.engine.data.IPdfNumber-) |  |
 | [getAllElements()](#getAllElements--) |  |
@@ -73,6 +74,14 @@ public final void doPreSave()
 ### doSave() {#doSave--}
 ```
 public final void doSave()
+```
+
+
+
+
+### init() {#init--}
+```
+public final void init()
 ```
 
 

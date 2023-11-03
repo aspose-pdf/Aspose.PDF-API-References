@@ -3,7 +3,7 @@ title: ExplicitDestinationType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the types of explicit destinations.
 type: docs
-weight: 103
+weight: 102
 url: /java/com.aspose.pdf/explicitdestinationtype/
 ---
 **Inheritance:**

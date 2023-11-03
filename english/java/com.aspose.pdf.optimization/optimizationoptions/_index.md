@@ -22,17 +22,19 @@ Class which describes document optimization algorithm. Instance of this class ma
 
 | Method | Description |
 | --- | --- |
+| [isCompressObjects()](#isCompressObjects--) | If this flag is set to  , Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size. |
+| [setCompressObjects(boolean value)](#setCompressObjects-boolean-) | If this flag is set to  , Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size. |
 | [getLinkDuplcateStreams()](#getLinkDuplcateStreams--) | If this flag is set to true, Resource streams will be analyzed. |
 | [setLinkDuplcateStreams(boolean value)](#setLinkDuplcateStreams-boolean-) | If this flag is set to true, Resource streams will be analyzed. |
 | [getAllowReusePageContent()](#getAllowReusePageContent--) | If true page contents will be reused when document is optimized for equal pages. |
 | [setAllowReusePageContent(boolean value)](#setAllowReusePageContent-boolean-) | If true page contents will be reused when document is optimized for equal pages. |
 | [getRemoveUnusedStreams()](#getRemoveUnusedStreams--) | If this flag set to true, every resource is checked on it's usage. |
 | [setRemoveUnusedStreams(boolean value)](#setRemoveUnusedStreams-boolean-) | If this flag set to true, every resource is checked on it's usage. |
-| [getRemoveUnusedObjects()](#getRemoveUnusedObjects--) | If this flag is set to true, all document objects will be checked and unused objects (i.e. objects which does not have any reference) are removed from document. |
-| [setRemoveUnusedObjects(boolean value)](#setRemoveUnusedObjects-boolean-) | If this flag is set to true, all document objects will be checked and unused objects (i.e. objects which does not have any reference) are removed from document. |
+| [getRemoveUnusedObjects()](#getRemoveUnusedObjects--) | If this flag is set to true, all document objects will be checked and unused objects (i.e. |
+| [setRemoveUnusedObjects(boolean value)](#setRemoveUnusedObjects-boolean-) | If this flag is set to true, all document objects will be checked and unused objects (i.e. |
 | [getImageCompressionOptions()](#getImageCompressionOptions--) | Set of options which describe will images in the document be compressed and parameters of the compression. |
-| [getCompressImages()](#getCompressImages--) | If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property. |
-| [setCompressImages(boolean value)](#setCompressImages-boolean-) | If this flag is set to true images will be compressed in the document. compression level is specfied with ImageQuality property. |
+| [getCompressImages()](#getCompressImages--) | If this flag is set to true images will be compressed in the document. |
+| [setCompressImages(boolean value)](#setCompressImages-boolean-) | If this flag is set to true images will be compressed in the document. |
 | [getResizeImages()](#getResizeImages--) | If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter. |
 | [setResizeImages(boolean value)](#setResizeImages-boolean-) | If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter. |
 | [getImageQuality()](#getImageQuality--) | Specifies level of image compression when CompressIamges flag is used. |
@@ -53,6 +55,29 @@ Class which describes document optimization algorithm. Instance of this class ma
 public OptimizationOptions()
 ```
 
+
+### isCompressObjects() {#isCompressObjects--}
+```
+public final boolean isCompressObjects()
+```
+
+
+If this flag is set to  , Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size.
+
+**Returns:**
+boolean - boolean value
+### setCompressObjects(boolean value) {#setCompressObjects-boolean-}
+```
+public final void setCompressObjects(boolean value)
+```
+
+
+If this flag is set to  , Pdf objects will be packed into Objest Streams and compressed to reduce pdf file size.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
 
 ### getLinkDuplcateStreams() {#getLinkDuplcateStreams--}
 ```

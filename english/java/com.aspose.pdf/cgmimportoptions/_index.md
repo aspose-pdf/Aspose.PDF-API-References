@@ -3,7 +3,7 @@ title: CgmImportOptions
 second_title: Aspose.PDF for Java API Reference
 description: Import option for import from Computer Graphics MetafileCGM format.
 type: docs
-weight: 53
+weight: 51
 url: /java/com.aspose.pdf/cgmimportoptions/
 ---
 **Inheritance:**

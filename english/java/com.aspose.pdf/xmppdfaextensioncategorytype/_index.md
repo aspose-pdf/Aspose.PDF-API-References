@@ -3,7 +3,7 @@ title: XmpPdfAExtensionCategoryType
 second_title: Aspose.PDF for Java API Reference
 description: Property category internal or external.
 type: docs
-weight: 418
+weight: 419
 url: /java/com.aspose.pdf/xmppdfaextensioncategorytype/
 ---
 **Inheritance:**

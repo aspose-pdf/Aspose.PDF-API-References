@@ -22,15 +22,15 @@ Result of custom loading of resource
 
 | Method | Description |
 | --- | --- |
-| [getData()](#getData--) | Bynary data that loaded with custom loader - it must be set after loading |
+| [getData()](#getData--) | Binary data that loaded with custom loader - it must be set after loading |
 | [getEncodingIfKnown()](#getEncodingIfKnown--) | Sometimes encoding of resource is known after or during loading. |
 | [setEncodingIfKnown(Charset encodingIfKnown)](#setEncodingIfKnown-java.nio.charset.Charset-) | Sometimes encoding of resource is known after or during loading. |
 | [getExceptionOfLoadingIfAny()](#getExceptionOfLoadingIfAny--) | Sometimes it's impossible to load requested resource for some reason. |
 | [setExceptionOfLoadingIfAny(System.Exception exceptionOfLoadingIfAny)](#setExceptionOfLoadingIfAny-com.aspose.ms.System.Exception-) | Sometimes it's impossible to load requested resource for some reason. |
-| [getMIMETypeIfKnown()](#getMIMETypeIfKnown--) | Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME type(if it'd known after loading) in this parameter. |
+| [getMIMETypeIfKnown()](#getMIMETypeIfKnown--) | Sometimes knowledge about MIME type of loaded resource is useful for converter You can provide MIME type(if it'd known after loading) in this parameter. |
 | [setMIMETypeIfKnown(String MIMETypeIfKnown)](#setMIMETypeIfKnown-java.lang.String-) | Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME type(if it'd known after loading) in this parameter. |
-| [isLoadingCancelled()](#isLoadingCancelled--) | Sometimes for some reasons loading should not occure custom code. |
-| [setLoadingCancelled(boolean loadingCancelled)](#setLoadingCancelled-boolean-) | Sometimes for some reasons loading should not occure custom code. |
+| [isLoadingCancelled()](#isLoadingCancelled--) | Sometimes for some reasons loading should not occur custom code. |
+| [setLoadingCancelled(boolean loadingCancelled)](#setLoadingCancelled-boolean-) | Sometimes for some reasons loading should not occur custom code. |
 ### ResourceLoadingResult(byte[] data) {#ResourceLoadingResult-byte---}
 ```
 public ResourceLoadingResult(byte[] data)
@@ -42,7 +42,7 @@ Creates instance of loading result
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | byte[] | reult of custom loading must be allways provided, it can be zero-length array if it's impossible to get any result |
+| data | byte[] | result of custom loading must be always provided, it can be zero-length array if it's impossible to get any result |
 
 ### getData() {#getData--}
 ```
@@ -50,7 +50,7 @@ public byte[] getData()
 ```
 
 
-Bynary data that loaded with custom loader - it must be set after loading
+Binary data that loaded with custom loader - it must be set after loading
 
 **Returns:**
 byte[] - array of byte values
@@ -106,7 +106,7 @@ public String getMIMETypeIfKnown()
 ```
 
 
-Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME type(if it'd known after loading) in this parameter. Please leave parameter equal to null when MIME type unknown or it's not necessary to supply it.
+Sometimes knowledge about MIME type of loaded resource is useful for converter You can provide MIME type(if it'd known after loading) in this parameter. Please leave parameter equal to null when MIME type unknown or it's not necessary to supply it.
 
 **Returns:**
 java.lang.String - String value
@@ -129,7 +129,7 @@ public boolean isLoadingCancelled()
 ```
 
 
-Sometimes for some reasons loading should not occure custom code. In such case please set this flag as True. In such case converter will try use internal default resource loader to get that result(as it behave in situation when custom strategy not supplied).
+Sometimes for some reasons loading should not occur custom code. In such case please set this flag as True. In such case converter will try use internal default resource loader to get that result(as it behave in situation when custom strategy not supplied).
 
 **Returns:**
 boolean - boolean value
@@ -139,7 +139,7 @@ public void setLoadingCancelled(boolean loadingCancelled)
 ```
 
 
-Sometimes for some reasons loading should not occure custom code. In such case please set this flag as True. In such case converter will try use internal default resource loader to get that result(as it behave in situation when custom strategy not supplied).
+Sometimes for some reasons loading should not occur custom code. In such case please set this flag as True. In such case converter will try use internal default resource loader to get that result(as it behave in situation when custom strategy not supplied).
 
 **Parameters:**
 | Parameter | Type | Description |

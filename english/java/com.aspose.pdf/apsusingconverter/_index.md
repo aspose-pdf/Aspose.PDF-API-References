@@ -3,7 +3,7 @@ title: ApsUsingConverter
 second_title: Aspose.PDF for Java API Reference
 description: Class for Internal usage only.
 type: docs
-weight: 26
+weight: 24
 url: /java/com.aspose.pdf/apsusingconverter/
 ---
 **Inheritance:**

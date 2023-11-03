@@ -3,7 +3,7 @@ title: Watermark
 second_title: Aspose.PDF for Java API Reference
 description: Represents a watermark of the page.
 type: docs
-weight: 400
+weight: 401
 url: /java/com.aspose.pdf/watermark/
 ---
 **Inheritance:**

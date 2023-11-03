@@ -14,6 +14,7 @@ The  **com.aspose.pdf.printing** package provides classes which are used for con
 
 | Class | Description |
 | --- | --- |
+| [CustomPrintEventArgs](../com.aspose.pdf.printing/customprinteventargs) | Provides data for the PdfViewer.getCustomPrintDelegate() event. |
 | [DuplexKind](../com.aspose.pdf.printing/duplexkind) | Specifies the printer's duplex setting. |
 | [PdfPrintRange](../com.aspose.pdf.printing/pdfprintrange) | Specifies the part of the document to print. |
 | [PdfPrinterResolution](../com.aspose.pdf.printing/pdfprinterresolution) | Represents the resolution supported by a printer. |
@@ -21,6 +22,7 @@ The  **com.aspose.pdf.printing** package provides classes which are used for con
 | [PdfPrinterSettings](../com.aspose.pdf.printing/pdfprintersettings) | Specifies information about how a document is printed, including the printer that prints it. |
 | [PrintPageSettings](../com.aspose.pdf.printing/printpagesettings) | Specifies settings that apply to a single, printed page. |
 | [PrintPaperSize](../com.aspose.pdf.printing/printpapersize) | Specifies the size of a piece of paper. |
+| [PrintPaperSizes](../com.aspose.pdf.printing/printpapersizes) | Represents the standard paper sizes. |
 | [PrintPaperSource](../com.aspose.pdf.printing/printpapersource) | Specifies the paper tray from which the printer gets paper. |
 | [PrintPaperSourceKind](../com.aspose.pdf.printing/printpapersourcekind) | Standard paper sources. |
 | [PrinterMargins](../com.aspose.pdf.printing/printermargins) | Specifies the dimensions of the margins of a printed page. |

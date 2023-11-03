@@ -3,7 +3,7 @@ title: Operator
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class representing operator.
 type: docs
-weight: 231
+weight: 230
 url: /java/com.aspose.pdf/operator/
 ---
 **Inheritance:**
@@ -30,6 +30,8 @@ Abstract class representing operator.
 | [reset()](#reset--) | For internal usage only |
 | [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor IOperatorSelector which provides operators processing. |
 | [toString()](#toString--) | Translates command and parameters into string representation. |
+| [valueEquals(Operator op)](#valueEquals-com.aspose.pdf.Operator-) | Compares this instance with the given object. |
+| [equals(Operator op)](#equals-com.aspose.pdf.Operator-) | Compares this instance with the given object. |
 | [toString(IPdfPrimitive primitive)](#toString-com.aspose.pdf.engine.data.IPdfPrimitive-) | Returns text representation of Pdf primitive (string, array, dictionary etc.) according to PDF specification. |
 | [isTextShowOperator(Operator op)](#isTextShowOperator-com.aspose.pdf.Operator-) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 ### Operator(int index, ICommand command) {#Operator-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
@@ -132,6 +134,36 @@ Translates command and parameters into string representation.
 
 **Returns:**
 java.lang.String - Operator text
+### valueEquals(Operator op) {#valueEquals-com.aspose.pdf.Operator-}
+```
+public final boolean valueEquals(Operator op)
+```
+
+
+Compares this instance with the given object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| op | [Operator](../../com.aspose.pdf/operator) | Operator to compare. |
+
+**Returns:**
+boolean - True if objects are equal, otherwise false.
+### equals(Operator op) {#equals-com.aspose.pdf.Operator-}
+```
+public final boolean equals(Operator op)
+```
+
+
+Compares this instance with the given object.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| op | [Operator](../../com.aspose.pdf/operator) | Operator instance |
+
+**Returns:**
+boolean - boolean value
 ### toString(IPdfPrimitive primitive) {#toString-com.aspose.pdf.engine.data.IPdfPrimitive-}
 ```
 public static String toString(IPdfPrimitive primitive)

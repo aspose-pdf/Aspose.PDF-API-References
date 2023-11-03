@@ -3,7 +3,7 @@ title: BorderCornerStyle
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the border corner styles for border.
 type: docs
-weight: 36
+weight: 34
 url: /java/com.aspose.pdf/bordercornerstyle/
 ---
 **Inheritance:**

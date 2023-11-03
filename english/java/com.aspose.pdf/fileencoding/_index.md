@@ -3,7 +3,7 @@ title: FileEncoding
 second_title: Aspose.PDF for Java API Reference
 description: Encoding of the attached file.
 type: docs
-weight: 111
+weight: 110
 url: /java/com.aspose.pdf/fileencoding/
 ---
 **Inheritance:**

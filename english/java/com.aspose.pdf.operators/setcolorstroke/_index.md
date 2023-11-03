@@ -19,7 +19,7 @@ Class representing SC operator set color for stroking color operators.
 | --- | --- |
 | [SetColorStroke()](#SetColorStroke--) | Initializes operator. |
 | [SetColorStroke(int index, ICommand command)](#SetColorStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
-| [SetColorStroke(double g)](#SetColorStroke-double-) | Set color for stroking operators for DeviceGrey, CalGrey and Indexed color spaces. |
+| [SetColorStroke(double g)](#SetColorStroke-double-) | Set color for stroking operators for DeviceGray, CalGray and Indexed color spaces. |
 | [SetColorStroke(double r, double g, double b)](#SetColorStroke-double-double-double-) | Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces |
 | [SetColorStroke(double[] color)](#SetColorStroke-double---) | Constructor which allows to set color components. |
 | [SetColorStroke(double c, double m, double y, double k)](#SetColorStroke-double-double-double-double-) | Set color for stroking operator for CMYK color space |
@@ -71,7 +71,7 @@ public SetColorStroke(double g)
 ```
 
 
-Set color for stroking operators for DeviceGrey, CalGrey and Indexed color spaces.
+Set color for stroking operators for DeviceGray, CalGray and Indexed color spaces.
 
 **Parameters:**
 | Parameter | Type | Description |

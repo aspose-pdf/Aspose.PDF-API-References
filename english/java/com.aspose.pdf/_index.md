@@ -31,7 +31,6 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | Class | Description |
 | --- | --- |
 | [AbsorbedCell](../com.aspose.pdf/absorbedcell) | Represents cell of table that exist on the page |
-| [AbsorbedColumn](../com.aspose.pdf/absorbedcolumn) | Represents column of table that exist on the page |
 | [AbsorbedRow](../com.aspose.pdf/absorbedrow) | Represents row of table that exist on the page |
 | [AbsorbedTable](../com.aspose.pdf/absorbedtable) | Represents table that exist on the page |
 | [ActionCollection](../com.aspose.pdf/actioncollection) | Collection of actions |
@@ -41,11 +40,10 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [AnnotationFlags](../com.aspose.pdf/annotationflags) | A set of flags specifying various characteristics of the annotation. |
 | [AnnotationSelector](../com.aspose.pdf/annotationselector) | This class is used for selecting annotations using Visitor template idea. |
 | [AnnotationState](../com.aspose.pdf/annotationstate) | The enumeration of states to which the original annotation can be set. |
-| [AnnotationTypeConverter](../com.aspose.pdf/annotationtypeconverter) | Represents AnnotationTypeConverter class |
 | [AppearanceDictionary](../com.aspose.pdf/appearancedictionary) | Annotation appearance dictionary specifying how the annotation shall be presented visually on the page. |
 | [ApsLoadOptions](../com.aspose.pdf/apsloadoptions) | Class describes aps load options. |
 | [ApsSaveOptions](../com.aspose.pdf/apssaveoptions) | Save options for export to APS XML format. |
-| [ApsToFlowConverter](../com.aspose.pdf/apstoflowconverter) | APS to Flow Conversion \* !!! |
+| [ApsToFlowConverter](../com.aspose.pdf/apstoflowconverter) | APS to Flow Conversion \* !!! Don't port from C\# as could be ahead of .Net version !!!! |
 | [ApsUsingConverter](../com.aspose.pdf/apsusingconverter) | Class for Internal usage only. |
 | [ApsUsingConverter.ImportResourceLoader](../com.aspose.pdf/apsusingconverter.importresourceloader) |  |
 | [Artifact](../com.aspose.pdf/artifact) | Class represents PDF Artifact object. |
@@ -121,6 +119,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [DocumentInfo](../com.aspose.pdf/documentinfo) | Represents meta information of PDF document. |
 | [DocumentWeb](../com.aspose.pdf/documentweb) | Represents DocumentWeb class |
 | [Element](../com.aspose.pdf/element) | Class representing base element of logical structure. |
+| [ElementCollection](../com.aspose.pdf/elementcollection) | Collection of [Element](../com.aspose.pdf/element). |
 | [EmbeddedFileCollection](../com.aspose.pdf/embeddedfilecollection) | Class representing embedded files collection. |
 | [EncryptedPayload](../com.aspose.pdf/encryptedpayload) | Represents encrypted payload in file specification. |
 | [EpubLoadOptions](../com.aspose.pdf/epubloadoptions) | Contains options for loading/importing EPUB file into pdf document. |
@@ -155,7 +154,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [FixedPrint](../com.aspose.pdf/fixedprint) | Represent Fixed print data of Watermark Annotation. |
 | [Fixup](../com.aspose.pdf/fixup) | This enum represents an type of Fixup. |
 | [FloatingBox](../com.aspose.pdf/floatingbox) | Represents a FloatingBox in a Pdf document. |
-| [FlowConverter](../com.aspose.pdf/flowconverter) | Convert PDF Document to Flow formats (XLSX, ODS, XMLSpreedSheet2003, CSV) DOCX in EnchanedFlow mode, TableAbsorber in FlowEngine mode. !!! |
+| [FlowConverter](../com.aspose.pdf/flowconverter) | Convert PDF Document to Flow formats (XLSX, ODS, XMLSpreedSheet2003, CSV) DOCX in EnchanedFlow mode, TableAbsorber in FlowEngine mode. |
 | [FolderFontSource](../com.aspose.pdf/folderfontsource) | Represents the folder that contains font files. |
 | [Font](../com.aspose.pdf/font) | Represents font object. |
 | [FontAbsorber](../com.aspose.pdf/fontabsorber) | Represents an absorber object of fonts. |
@@ -203,7 +202,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [HtmlSaveOptions.HtmlPageMarkupSavingStrategy](../com.aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy) | Result of conversion can contain one or several HTML-pages ( that also can reference external files like images or fonts) You can assign to this property delegate created from custom method that implements processing of got HTML-page(HTML itself) that was created during conversion. |
 | [HtmlSaveOptions.ImageParentTypes](../com.aspose.pdf/htmlsaveoptions.imageparenttypes) | Enumerates possible types of image's parents Image can pertain to HTML page or to SVG parent image |
 | [HtmlSaveOptions.PartsEmbeddingModes](../com.aspose.pdf/htmlsaveoptions.partsembeddingmodes) | This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities |
-| [HtmlSaveOptions.RasterImagesSavingModes](../com.aspose.pdf/htmlsaveoptions.rasterimagessavingmodes) | Converted PDF can contain raster images(.png, \*.jpeg etc.) |
+| [HtmlSaveOptions.RasterImagesSavingModes](../com.aspose.pdf/htmlsaveoptions.rasterimagessavingmodes) | Converted PDF can contain raster images(.png, \*.jpeg etc.) This enum defines methods of how raster images can be handled during conversion of PDF to HTML |
 | [HtmlSaveOptions.ResourceSavingStrategy](../com.aspose.pdf/htmlsaveoptions.resourcesavingstrategy) | To this property You can assign delegate created from custom method that implements processing of external resource(Font or Image) that was extracted from PDF and must be saved as external resource during conversion of PDF to HTML. |
 | [Hyperlink](../com.aspose.pdf/hyperlink) | Represents abstract hyperlink. |
 | [IconCaptionPosition](../com.aspose.pdf/iconcaptionposition) | Describes position of icon. |
@@ -247,7 +246,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [ListBoxField](../com.aspose.pdf/listboxfield) | Class represents ListBox field. |
 | [LoadOptions](../com.aspose.pdf/loadoptions) | LoadOptions type holds level of abstraction on individual load options |
 | [LoadOptions.MarginsAreaUsageModes](../com.aspose.pdf/loadoptions.marginsareausagemodes) | Represents mode of usage of margins area during conversion (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins. |
-| [LoadOptions.PageSizeAdjustmentModes](../com.aspose.pdf/loadoptions.pagesizeadjustmentmodes) | ATTENTION! |
+| [LoadOptions.PageSizeAdjustmentModes](../com.aspose.pdf/loadoptions.pagesizeadjustmentmodes) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
 | [LoadOptions.ResourceLoadingResult](../com.aspose.pdf/loadoptions.resourceloadingresult) | Result of custom loading of resource |
 | [LocalHyperlink](../com.aspose.pdf/localhyperlink) | Represents local hyperlink object. |
 | [LocaleOptions](../com.aspose.pdf/localeoptions) | LocaleOptions type specifies locale configuration for Aspose.PDF. |
@@ -278,7 +277,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [NamedDestination](../com.aspose.pdf/nameddestination) | Instead of being defined directly with the explicit syntax, a destination may be referred to indirectly by means of a name object or a byte string. |
 | [Note](../com.aspose.pdf/note) | This class represents generator paragraph note. |
 | [NumberField](../com.aspose.pdf/numberfield) | Text Field with specified valid chars |
-| [NumberTree](../com.aspose.pdf/numbertree) | Class representing Number tree structure of PDF file. 7.9.7Number Trees |
+| [NumberTree](../com.aspose.pdf/numbertree) | Class representing Number tree structure of PDF file. |
 | [NumberingStyle](../com.aspose.pdf/numberingstyle) | Enumeration of supported page numbering style for PageLabel class. |
 | [OcspSettings](../com.aspose.pdf/ocspsettings) | Represents the ocsp settings using during signing process. |
 | [Operator](../com.aspose.pdf/operator) | Abstract class representing operator. |
@@ -292,6 +291,8 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [OutlineCollection](../com.aspose.pdf/outlinecollection) | Represents document outline hierarchy. |
 | [OutlineItemCollection](../com.aspose.pdf/outlineitemcollection) | Represents outline entry in outline hierarchy of PDF document. |
 | [Outlines](../com.aspose.pdf/outlines) | Class describes collection of outlines. |
+| [OutputIntent](../com.aspose.pdf/outputintent) | Represents an output intent that matches the color characteristics of a PDF document with those of a target output device or production environment in which the document will be printed. |
+| [OutputIntents](../com.aspose.pdf/outputintents) | Represents the collection of [OutputIntent](../com.aspose.pdf/outputintent). |
 | [PDF3DActivation](../com.aspose.pdf/pdf3dactivation) | Enum PDF3DActivation: set of 3D annotation activation mode. |
 | [PDF3DAnnotation](../com.aspose.pdf/pdf3dannotation) | Class PDF3DAnnotation. |
 | [PDF3DArtwork](../com.aspose.pdf/pdf3dartwork) | Class PDF3DArtwork. |
@@ -326,7 +327,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [PasswordType](../com.aspose.pdf/passwordtype) | This enum represents known password types used for password protected pdf documents. |
 | [PclLoadOptions](../com.aspose.pdf/pclloadoptions) | Represents options for loading(import) PCL file into pdf document. |
 | [PclLoadOptions.ConversionEngines](../com.aspose.pdf/pclloadoptions.conversionengines) | Enumerates conversion engines that can be used for conversion |
-| [PdfASymbolicFontEncodingStrategy](../com.aspose.pdf/pdfasymbolicfontencodingstrategy) | This class describes rules which can be used to tune process of copy encoding data for cases when TrueType symbolic font has more than one encoding. |
+| [PdfASymbolicFontEncodingStrategy](../com.aspose.pdf/pdfasymbolicfontencodingstrategy) | This class describes rules which can be used to tune process of copying encoding data for cases when TrueType symbolic font has more than one encoding. |
 | [PdfASymbolicFontEncodingStrategy.QueueItem](../com.aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem) | Specifies encoding subtable. |
 | [PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType](../com.aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype) | Declares set of some known encoding subtables |
 | [PdfAction](../com.aspose.pdf/pdfaction) | Represents Action in PDF document |
@@ -354,6 +355,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [PredefinedAction](../com.aspose.pdf/predefinedaction) | Defines different actions which can be triggered from a PDF file. |
 | [PrintController](../com.aspose.pdf/printcontroller) | Represents print controller. |
 | [PrintDuplex](../com.aspose.pdf/printduplex) | The paper handling option to use when printing the file from the print dialog.. |
+| [PrintScaling](../com.aspose.pdf/printscaling) | The page scaling option that shall be selected when a print dialog is displayed for this document. |
 | [PrinterMarkAnnotation](../com.aspose.pdf/printermarkannotation) | Abstract class representing printer mark annotation. |
 | [ProgressEventType](../com.aspose.pdf/progresseventtype) | This enum describes possible progress event types that can occure during conversion |
 | [PsLoadOptions](../com.aspose.pdf/psloadoptions) | Represents options for loading/importing of .mht-file into pdf document. |
@@ -371,6 +373,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [RenditionType](../com.aspose.pdf/renditiontype) | Enumeration describes possible types of Rendition. |
 | [ReplyType](../com.aspose.pdf/replytype) | Enumerates the kinds of the relationships (the \\u201creply type\\u201d) between the annotation and one specified by InReplyTo. |
 | [Resources](../com.aspose.pdf/resources) | Class representing page resources. |
+| [Resources.ExtGStateValue](../com.aspose.pdf/resources.extgstatevalue) | Represents ExtGStates with some values. |
 | [RgbToDeviceGrayConversionStrategy](../com.aspose.pdf/rgbtodevicegrayconversionstrategy) | Represents rgb to device gray color spaces conversion strategy. |
 | [RichMediaAnnotation](../com.aspose.pdf/richmediaannotation) | Class describes RichMediaAnnotation which allows embed video/audio data into PDF document. |
 | [RichMediaAnnotation.ActivationEvent](../com.aspose.pdf/richmediaannotation.activationevent) | Event which activates annotation. |
@@ -393,6 +396,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [ScreenAnnotation](../com.aspose.pdf/screenannotation) | A screen annotation that specifies a region of a page upon which media clips may be played. |
 | [SelectorRendition](../com.aspose.pdf/selectorrendition) | Class describes selector rendition. |
 | [Signature](../com.aspose.pdf/signature) | An abstract class which represents signature object in the pdf document. |
+| [Signature.SignHash](../com.aspose.pdf/signature.signhash) | Delegate for custom sign the document hash (Beta). |
 | [SignatureCustomAppearance](../com.aspose.pdf/signaturecustomappearance) | An abstract class which represents signature custon appearance object. |
 | [SignatureField](../com.aspose.pdf/signaturefield) | Represents signature form field. |
 | [SoundAnnotation](../com.aspose.pdf/soundannotation) | Represents a sound annotation that contains sound recorded from the computer's microphone or imported from a file. |
@@ -427,7 +431,6 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [Table](../com.aspose.pdf/table) | Represents a table that can be added to the page. |
 | [TableAbsorber](../com.aspose.pdf/tableabsorber) | Represents an absorber object of table elements. |
 | [TableBroken](../com.aspose.pdf/tablebroken) | Enumerates the table broken. |
-| [TableElementCollection<T1>](../com.aspose.pdf/tableelementcollection) | Represents a collection of elements absorbed from existing table |
 | [TeXFragment](../com.aspose.pdf/texfragment) | Represents LaTeX fragment. |
 | [TeXLoadOptions](../com.aspose.pdf/texloadoptions) | Represents options for loading/importing TeX file into PDF document. |
 | [TeXMemoryOutputDirectory](../com.aspose.pdf/texmemoryoutputdirectory) | Implements fetching an output stream from memory. |
@@ -503,7 +506,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [XmpPdfAExtensionProperty](../com.aspose.pdf/xmppdfaextensionproperty) | Describes a single property. |
 | [XmpPdfAExtensionSchema](../com.aspose.pdf/xmppdfaextensionschema) | Describes the XMP extension schema which is provided by PDF/A-1. |
 | [XmpPdfAExtensionSchemaDescription](../com.aspose.pdf/xmppdfaextensionschemadescription) | Represents the description of XMP extension schema which is provided by PDF/A-1. |
-| [XmpPdfAExtensionValueType](../com.aspose.pdf/xmppdfaextensionvaluetype) | The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specification, i.e. for value types outside of the following list: - Array types (these are container types which may contain one or more fields): Alt, Bag, Seq - Basic value types: Boolean, (open and closed) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Media Management value types: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Basic Job/Workflow value type: Job - EXIF schema value types: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema namespace URI: http://www.aiim.org/pdfa/ns/type\# Required schema namespace prefix: pdfaType |
+| [XmpPdfAExtensionValueType](../com.aspose.pdf/xmppdfaextensionvaluetype) | The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specification, i.e. |
 | [XmpValue](../com.aspose.pdf/xmpvalue) | Represents XMP value |
 | [XpsLoadOptions](../com.aspose.pdf/xpsloadoptions) | Represents options for loading/importing xps file into pdf document. |
 | [XpsSaveOptions](../com.aspose.pdf/xpssaveoptions) | Save options for export to Xps format |

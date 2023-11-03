@@ -3,7 +3,7 @@ title: PrintPaperSize
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the size of a piece of paper.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.pdf.printing/printpapersize/
 ---
 **Inheritance:**
@@ -19,6 +19,7 @@ Specifies the size of a piece of paper.
 | --- | --- |
 | [PrintPaperSize()](#PrintPaperSize--) | Initializes a new instance of the PaperSize class. |
 | [PrintPaperSize(String name, int width, int height)](#PrintPaperSize-java.lang.String-int-int-) | Initializes a new instance of the PaperSize class. |
+| [PrintPaperSize(int kind, String name, int width, int height)](#PrintPaperSize-int-java.lang.String-int-int-) | Initializes a new instance of the PaperSize class. |
 ## Methods
 
 | Method | Description |
@@ -51,6 +52,22 @@ Initializes a new instance of the PaperSize class.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
+| name | java.lang.String | String value |
+| width | int | int value |
+| height | int | int value |
+
+### PrintPaperSize(int kind, String name, int width, int height) {#PrintPaperSize-int-java.lang.String-int-int-}
+```
+public PrintPaperSize(int kind, String name, int width, int height)
+```
+
+
+Initializes a new instance of the PaperSize class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| kind | int | The kind of the paper. |
 | name | java.lang.String | String value |
 | width | int | int value |
 | height | int | int value |

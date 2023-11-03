@@ -3,7 +3,7 @@ title: Annotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing annotation object.
 type: docs
-weight: 15
+weight: 14
 url: /java/com.aspose.pdf/annotation/
 ---
 **Inheritance:**
@@ -20,8 +20,8 @@ Class representing annotation object.
 | [initialize(IDocument doc)](#initialize-com.aspose.pdf.IDocument-) | Instance initialization |
 | [getEngineObj()](#getEngineObj--) | For Internal usage only |
 | [getEngineDict()](#getEngineDict--) | Internal only |
-| [isUpdateAppearanceOnConvert()](#isUpdateAppearanceOnConvert--) | If true, annotation appearance will be updated before converting PF document into image. |
-| [setUpdateAppearanceOnConvert(boolean value)](#setUpdateAppearanceOnConvert-boolean-) | If true, annotation appearance will be updated before converting PF document into image. |
+| [isUpdateAppearanceOnConvert()](#isUpdateAppearanceOnConvert--) | If true, annotation appearance will be updated before converting PDF document into image. |
+| [setUpdateAppearanceOnConvert(boolean value)](#setUpdateAppearanceOnConvert-boolean-) | If true, annotation appearance will be updated before converting PDF document into image. |
 | [isUseFontSubset()](#isUseFontSubset--) | If this property set to true, fonts will be added to document as subsets. |
 | [setUseFontSubset(boolean value)](#setUseFontSubset-boolean-) | If this property set to true, fonts will be added to document as subsets. |
 | [getNormalAppearance()](#getNormalAppearance--) | Gets normal appearance. |
@@ -106,7 +106,7 @@ public static synchronized boolean isUpdateAppearanceOnConvert()
 ```
 
 
-If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probably demand more time.
+If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time.
 
 **Returns:**
 boolean - boolean value
@@ -116,7 +116,7 @@ public static synchronized void setUpdateAppearanceOnConvert(boolean value)
 ```
 
 
-If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probably demand more time.
+If true, annotation appearance will be updated before converting PDF document into image. This allows convert fields correctly but probably demand more time.
 
 **Parameters:**
 | Parameter | Type | Description |

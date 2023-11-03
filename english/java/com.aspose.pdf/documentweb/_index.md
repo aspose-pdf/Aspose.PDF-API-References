@@ -3,7 +3,7 @@ title: DocumentWeb
 second_title: Aspose.PDF for Java API Reference
 description: Represents DocumentWeb class
 type: docs
-weight: 95
+weight: 93
 url: /java/com.aspose.pdf/documentweb/
 ---
 **Inheritance:**

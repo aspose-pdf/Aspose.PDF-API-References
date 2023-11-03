@@ -3,7 +3,7 @@ title: Rows
 second_title: Aspose.PDF for Java API Reference
 description: Represents a rows collection of table.
 type: docs
-weight: 318
+weight: 320
 url: /java/com.aspose.pdf/rows/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 256
+weight: 257
 url: /java/com.aspose.pdf/page/
 ---
 **Inheritance:**
@@ -35,9 +35,12 @@ Class representing page of PDF document.
 | [setFooter(HeaderFooter value)](#setFooter-com.aspose.pdf.HeaderFooter-) | Sets page Footer. |
 | [getParagraphs()](#getParagraphs--) | Gets the paragraphs. |
 | [setParagraphs(Paragraphs value)](#setParagraphs-com.aspose.pdf.Paragraphs-) | Sets the paragraphs. |
-| [getPageInfo()](#getPageInfo--) | Gets the page info. |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info. |
+| [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document). |
+| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document). |
 | [convertToPNGMemoryStream()](#convertToPNGMemoryStream--) | Convert page to PNG for DSR, OMR, OCR image stream. |
+| [addGraphics(GraphicElementCollection elements)](#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-) | Adds graphics to the page. |
+| [addGraphics(GraphicElementCollection elements, Rectangle rectangle)](#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-com.aspose.pdf.Rectangle-) | Adds graphics to the page. |
+| [deleteGraphics(GraphicElementCollection elementsToDelete)](#deleteGraphics-com.aspose.pdf.vector.GraphicElementCollection-) | Deletes graphics from the page. |
 | [trySaveVectorGraphics(String pathToSave)](#trySaveVectorGraphics-java.lang.String-) | Tries to save vector graphics if they are present on the page. |
 | [hasVectorGraphics()](#hasVectorGraphics--) | Detect of the presence of vector graphics, if it is present on the page. |
 | [getOnBeforePageGenerate()](#getOnBeforePageGenerate--) | Event for customize header and footer. |
@@ -48,8 +51,8 @@ Class representing page of PDF document.
 | [getRect()](#getRect--) | Returns rectangle of the page according to its CropBox and MediaBox; For get: page crop box is returned if specified, otherwise page media box is returned. |
 | [setRect(Rectangle value)](#setRect-com.aspose.pdf.Rectangle-) | Gets or sets rectangle of the page. |
 | [getColorType()](#getColorType--) | Gets color type of the pages based on information getting from operators SetColor, images and forms. |
-| [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes. |
-| [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes. |
+| [getNoteLineStyle()](#getNoteLineStyle--) | Gets the line style for notes.(for generator only, not filled in when reading document) |
+| [setNoteLineStyle(GraphInfo value)](#setNoteLineStyle-com.aspose.pdf.GraphInfo-) | Sets the line style for notes.(for generator only, not filled in when reading document) |
 | [isBlank(double fillThresholdFactor)](#isBlank-double-) | Gets the flag whether page is blank or not. |
 | [getPageRect(boolean considerRotation)](#getPageRect-boolean-) | Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null). |
 | [calculateContentBBox()](#calculateContentBBox--) | Calculates bbox value - rectangle containing contents without visible margins. |
@@ -99,7 +102,7 @@ Class representing page of PDF document.
 | [setBackground(Color value)](#setBackground-com.aspose.pdf.Color-) | Sets the background color of the page. |
 | [getWatermark()](#getWatermark--) | Gets the watermark of the page. |
 | [setWatermark(Watermark value)](#setWatermark-com.aspose.pdf.Watermark-) | Sets the watermark of the page. |
-| [removeObjectReferences(String name)](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. all Do operators which use name of object). |
+| [removeObjectReferences(String name)](#removeObjectReferences-java.lang.String-) | Remove references to XObject from page contents (i.e. |
 | [removeObjectReferences(OperatorCollection contents, String name)](#removeObjectReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Remove object references |
 | [findReferences(String name)](#findReferences-java.lang.String-) | Find references |
 | [findReferences(OperatorCollection contents, String name)](#findReferences-com.aspose.pdf.OperatorCollection-java.lang.String-) | Returns list of operators which uses resource with specified name. |
@@ -329,6 +332,46 @@ Convert page to PNG for DSR, OMR, OCR image stream.
 
 **Returns:**
 byte[] - Image stream in byte[] array.
+### addGraphics(GraphicElementCollection elements) {#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-}
+```
+public final void addGraphics(GraphicElementCollection elements)
+```
+
+
+Adds graphics to the page. Works faster than adding elements one by one with GraphicElement\#addOnPage(Page) method.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| elements | [GraphicElementCollection](../../com.aspose.pdf.vector/graphicelementcollection) | Graphics collection. |
+
+### addGraphics(GraphicElementCollection elements, Rectangle rectangle) {#addGraphics-com.aspose.pdf.vector.GraphicElementCollection-com.aspose.pdf.Rectangle-}
+```
+public final void addGraphics(GraphicElementCollection elements, Rectangle rectangle)
+```
+
+
+Adds graphics to the page. Works faster than adding elements one by one with GraphicElement\#addOnPage(Page) method.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| elements | [GraphicElementCollection](../../com.aspose.pdf.vector/graphicelementcollection) | Graphics collection. |
+| rectangle | [Rectangle](../../com.aspose.pdf/rectangle) | Elements will be added to the page if it's (/) is inside the rectangle area. If rectangle is null, all graphic elements will be added |
+
+### deleteGraphics(GraphicElementCollection elementsToDelete) {#deleteGraphics-com.aspose.pdf.vector.GraphicElementCollection-}
+```
+public final void deleteGraphics(GraphicElementCollection elementsToDelete)
+```
+
+
+Deletes graphics from the page. Works faster than deleting elements one by one with [GraphicElement\#remove](../../com.aspose.pdf.engine.pagemodel/graphicelement\#remove) method.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| elementsToDelete | [GraphicElementCollection](../../com.aspose.pdf.vector/graphicelementcollection) | Graphics collection that will be deleted from the page. |
+
 ### trySaveVectorGraphics(String pathToSave) {#trySaveVectorGraphics-java.lang.String-}
 ```
 public final boolean trySaveVectorGraphics(String pathToSave)

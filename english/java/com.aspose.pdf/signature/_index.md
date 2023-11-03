@@ -3,7 +3,7 @@ title: Signature
 second_title: Aspose.PDF for Java API Reference
 description: An abstract class which represents signature object in the pdf document.
 type: docs
-weight: 324
+weight: 326
 url: /java/com.aspose.pdf/signature/
 ---
 **Inheritance:**
@@ -34,8 +34,8 @@ An abstract class which represents signature object in the pdf document. Signatu
 | [setLocation(String value)](#setLocation-java.lang.String-) | Sets the CPU host name or physical location of the signing. |
 | [getReason()](#getReason--) | Gets the reason for the signing, such as (I agreed!). |
 | [setReason(String value)](#setReason-java.lang.String-) | Sets the reason for the signing, such as (I agreed!). |
-| [getContactInfo()](#getContactInfo--) | Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
-| [setContactInfo(String value)](#setContactInfo-java.lang.String-) | Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
+| [getContactInfo()](#getContactInfo--) | Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. |
+| [setContactInfo(String value)](#setContactInfo-java.lang.String-) | Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. |
 | [getByteRange()](#getByteRange--) | Get array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
 | [getTimestampSettings()](#getTimestampSettings--) | Gets timestamp settings. |
 | [setTimestampSettings(TimestampSettings value)](#setTimestampSettings-com.aspose.pdf.TimestampSettings-) | Sets timestamp settings. |
@@ -47,6 +47,8 @@ An abstract class which represents signature object in the pdf document. Signatu
 | [setImage(InputStream _signatureAppearanceStream)](#setImage-java.io.InputStream-) | Sets image stream. |
 | [setImageInternal(System.IO.Stream value)](#setImageInternal-com.aspose.ms.System.IO.Stream-) |  |
 | [getSignatureReferences()](#getSignatureReferences--) | get Signature References |
+| [getCustomSignHash()](#getCustomSignHash--) | The delegate for custom sign the document hash (Beta). |
+| [setCustomSignHash(Signature.SignHash value)](#setCustomSignHash-com.aspose.pdf.Signature.SignHash-) | The delegate for custom sign the document hash (Beta). |
 | [verify()](#verify--) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
 | [isShowProperties()](#isShowProperties--) | Force to show/hide signature properties. |
 | [setShowProperties(boolean value)](#setShowProperties-boolean-) | Force to show/hide signature properties. |
@@ -352,6 +354,29 @@ get Signature References
 
 **Returns:**
 java.util.List<com.aspose.pdf.engine.security.impl.signatures.SignatureReference> -  java.util.List object 
+### getCustomSignHash() {#getCustomSignHash--}
+```
+public final Signature.SignHash getCustomSignHash()
+```
+
+
+The delegate for custom sign the document hash (Beta).
+
+**Returns:**
+[SignHash](../../com.aspose.pdf/signhash) - SignHash instance
+### setCustomSignHash(Signature.SignHash value) {#setCustomSignHash-com.aspose.pdf.Signature.SignHash-}
+```
+public final void setCustomSignHash(Signature.SignHash value)
+```
+
+
+The delegate for custom sign the document hash (Beta).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [SignHash](../../com.aspose.pdf/signhash) | SignHash instance |
+
 ### verify() {#verify--}
 ```
 public boolean verify()

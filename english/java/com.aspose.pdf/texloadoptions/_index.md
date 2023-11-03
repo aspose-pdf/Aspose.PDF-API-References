@@ -3,7 +3,7 @@ title: TeXLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing TeX file into PDF document.
 type: docs
-weight: 358
+weight: 359
 url: /java/com.aspose.pdf/texloadoptions/
 ---
 **Inheritance:**
@@ -25,9 +25,11 @@ Represents options for loading/importing TeX file into PDF document.
 | [getJobName()](#getJobName--) | Gets/set the name of the job. |
 | [setJobName(String value)](#setJobName-java.lang.String-) | Gets/set the name of the job. |
 | [getInputDirectory()](#getInputDirectory--) | Gets/sets TeX input directory. |
-| [setInputDirectory(ITeXInputDirectory value)](#setInputDirectory-com.aspose.tex.ITeXInputDirectory-) | Gets/sets TeX input directory. |
+| [setInputDirectory(ITeXInputDirectory value)](#setInputDirectory-com.aspose.pdf.tex.ITeXInputDirectory-) | Gets/sets TeX input directory. |
 | [getOutputDirectory()](#getOutputDirectory--) | Gets/sets TeX output directory. |
-| [setOutputDirectory(ITeXOutputDirectory value)](#setOutputDirectory-com.aspose.tex.ITeXOutputDirectory-) | Gets/sets TeX output directory. |
+| [setOutputDirectory(ITeXOutputDirectory value)](#setOutputDirectory-com.aspose.pdf.tex.ITeXOutputDirectory-) | Gets/sets TeX output directory. |
+| [getRequiredInputDirectory()](#getRequiredInputDirectory--) | Gets/sets TeX requires input directory. |
+| [setRequiredInputDirectory(ITeXInputDirectory value)](#setRequiredInputDirectory-com.aspose.pdf.tex.ITeXInputDirectory-) | Gets/sets TeX requires input directory. |
 | [getRepeat()](#getRepeat--) | Gets/sets the flag indicating whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). |
 | [setRepeat(boolean value)](#setRepeat-boolean-) | Gets/sets the flag indicating whether it is necessary to run the TeX job twice in case, for example, there are references in input TeX file(s). |
 | [getSubsetFonts()](#getSubsetFonts--) | Gets/sets the flag indicating whether to subset fonts in output file or not. |
@@ -80,8 +82,8 @@ public final ITeXInputDirectory getInputDirectory()
 Gets/sets TeX input directory.
 
 **Returns:**
-com.aspose.tex.ITeXInputDirectory - ITeXInputDirectory instance
-### setInputDirectory(ITeXInputDirectory value) {#setInputDirectory-com.aspose.tex.ITeXInputDirectory-}
+[ITeXInputDirectory](../../com.aspose.pdf.tex/itexinputdirectory) - ITeXInputDirectory instance
+### setInputDirectory(ITeXInputDirectory value) {#setInputDirectory-com.aspose.pdf.tex.ITeXInputDirectory-}
 ```
 public final void setInputDirectory(ITeXInputDirectory value)
 ```
@@ -92,7 +94,7 @@ Gets/sets TeX input directory.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | com.aspose.tex.ITeXInputDirectory | ITeXInputDirectory instance |
+| value | [ITeXInputDirectory](../../com.aspose.pdf.tex/itexinputdirectory) | ITeXInputDirectory instance |
 
 ### getOutputDirectory() {#getOutputDirectory--}
 ```
@@ -103,8 +105,8 @@ public final ITeXOutputDirectory getOutputDirectory()
 Gets/sets TeX output directory.
 
 **Returns:**
-com.aspose.tex.ITeXOutputDirectory - ITeXOutputDirectory instance
-### setOutputDirectory(ITeXOutputDirectory value) {#setOutputDirectory-com.aspose.tex.ITeXOutputDirectory-}
+[ITeXOutputDirectory](../../com.aspose.pdf.tex/itexoutputdirectory) - ITeXOutputDirectory instance
+### setOutputDirectory(ITeXOutputDirectory value) {#setOutputDirectory-com.aspose.pdf.tex.ITeXOutputDirectory-}
 ```
 public final void setOutputDirectory(ITeXOutputDirectory value)
 ```
@@ -115,7 +117,30 @@ Gets/sets TeX output directory.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | com.aspose.tex.ITeXOutputDirectory | ITeXOutputDirectory instance |
+| value | [ITeXOutputDirectory](../../com.aspose.pdf.tex/itexoutputdirectory) | ITeXOutputDirectory instance |
+
+### getRequiredInputDirectory() {#getRequiredInputDirectory--}
+```
+public final ITeXInputDirectory getRequiredInputDirectory()
+```
+
+
+Gets/sets TeX requires input directory. Required input is the files that are somehow included into the main .tex file, e.g., packages for which there's no built-in support.
+
+**Returns:**
+[ITeXInputDirectory](../../com.aspose.pdf.tex/itexinputdirectory) - ITeXInputDirectory instance
+### setRequiredInputDirectory(ITeXInputDirectory value) {#setRequiredInputDirectory-com.aspose.pdf.tex.ITeXInputDirectory-}
+```
+public final void setRequiredInputDirectory(ITeXInputDirectory value)
+```
+
+
+Gets/sets TeX requires input directory. Required input is the files that are somehow included into the main .tex file, e.g., packages for which there's no built-in support.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ITeXInputDirectory](../../com.aspose.pdf.tex/itexinputdirectory) | ITeXInputDirectory instance |
 
 ### getRepeat() {#getRepeat--}
 ```

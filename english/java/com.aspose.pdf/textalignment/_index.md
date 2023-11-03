@@ -3,7 +3,7 @@ title: TextAlignment
 second_title: Aspose.PDF for Java API Reference
 description: Alignment of text in annotation.
 type: docs
-weight: 450
+weight: 451
 url: /java/com.aspose.pdf/textalignment/
 ---
 **Inheritance:**

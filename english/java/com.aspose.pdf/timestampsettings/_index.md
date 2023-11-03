@@ -3,7 +3,7 @@ title: TimestampSettings
 second_title: Aspose.PDF for Java API Reference
 description: Represents the ocsp settings using during signing process.
 type: docs
-weight: 391
+weight: 392
 url: /java/com.aspose.pdf/timestampsettings/
 ---
 **Inheritance:**

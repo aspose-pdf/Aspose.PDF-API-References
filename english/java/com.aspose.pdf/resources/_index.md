@@ -3,7 +3,7 @@ title: Resources
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page resources.
 type: docs
-weight: 311
+weight: 313
 url: /java/com.aspose.pdf/resources/
 ---
 **Inheritance:**
@@ -22,8 +22,9 @@ Class representing page resources.
 | [getImages()](#getImages--) | Gets  Images  images collection |
 | [getFonts(boolean createIfAbsent)](#getFonts-boolean-) | Returns fonts collection. |
 | [getFonts()](#getFonts--) | Gets  Fonts  resources collection |
+| [getExtGStates()](#getExtGStates--) | Gets all ExGStates from resources. |
 | [getResourcesFor(Form form)](#getResourcesFor-com.aspose.pdf.Form-) | Gets resources for |
-| [isCommonResource()](#isCommonResource--) | True if this resources are common i.e. are shared for several pages (placed in pages dictionary or in every page as object reference) Manipulation with common resources must be performed very carefully for example deleting object form common resources in one page may cause errors on other pages if deleted object was used for other pages. |
+| [isCommonResource()](#isCommonResource--) | True if this resources are common i.e. |
 | [setResourceDictionary(IResourceDictionary resourceDictionary)](#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-) | For internal usage only! |
 ### clearImagesCache() {#clearImagesCache--}
 ```
@@ -78,6 +79,16 @@ Gets  Fonts  resources collection
 
 **Returns:**
 [FontCollection](../../com.aspose.pdf/fontcollection) - FontCollection object
+### getExtGStates() {#getExtGStates--}
+```
+public final System.Collections.Generic.Dictionary<String,Resources.ExtGStateValue> getExtGStates()
+```
+
+
+Gets all ExGStates from resources.
+
+**Returns:**
+[Dictionary](../../com.aspose.ms.system.collections.generic/dictionary) - Returns dictionary with ExGStates names keys.
 ### getResourcesFor(Form form) {#getResourcesFor-com.aspose.pdf.Form-}
 ```
 public static Resources getResourcesFor(Form form)

@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: LoadOptions type holds level of abstraction on individual load options
 type: docs
-weight: 201
+weight: 200
 url: /java/com.aspose.pdf/loadoptions/
 ---
 **Inheritance:**
@@ -25,6 +25,8 @@ LoadOptions type holds level of abstraction on individual load options
 | [getWarningHandler()](#getWarningHandler--) | Callback to handle any warnings generated. |
 | [setWarningHandler(WarningCallback value)](#setWarningHandler-com.aspose.pdf.WarningCallback-) | Callback to handle any warnings generated. |
 | [getLoadFormat()](#getLoadFormat--) | Represents file format which  LoadOptions  describes. |
+| [isDisableFontLicenseVerifications()](#isDisableFontLicenseVerifications--) | Gets or sets flag to disable any license restrictions for all fonts while loading the file. |
+| [setDisableFontLicenseVerifications(boolean value)](#setDisableFontLicenseVerifications-boolean-) | Gets or sets flag to disable any license restrictions for all fonts while loading the file. |
 ### LoadOptions() {#LoadOptions--}
 ```
 public LoadOptions()
@@ -64,3 +66,30 @@ Represents file format which  LoadOptions  describes.
 
 **Returns:**
 [LoadFormat](../../com.aspose.pdf/loadformat) - LoadFormat element
+### isDisableFontLicenseVerifications() {#isDisableFontLicenseVerifications--}
+```
+public final boolean isDisableFontLicenseVerifications()
+```
+
+
+Gets or sets flag to disable any license restrictions for all fonts while loading the file. When  , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default  .
+
+Be careful when using this flag. When it is set it means that person who sets this flag, takes all responsibility of possible license/law violations on himself. So he takes it on it's own risk. It's strongly recommended to use this flag only when you are fully confident that you are not breaking the copyright law.
+
+**Returns:**
+boolean - boolean value
+### setDisableFontLicenseVerifications(boolean value) {#setDisableFontLicenseVerifications-boolean-}
+```
+public final void setDisableFontLicenseVerifications(boolean value)
+```
+
+
+Gets or sets flag to disable any license restrictions for all fonts while loading the file. When  , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default  .
+
+Be careful when using this flag. When it is set it means that person who sets this flag, takes all responsibility of possible license/law violations on himself. So he takes it on it's own risk. It's strongly recommended to use this flag only when you are fully confident that you are not breaking the copyright law.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | boolean value |
+

@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PDF for Java API Reference
 description: Represents font object.
 type: docs
-weight: 131
+weight: 130
 url: /java/com.aspose.pdf/font/
 ---
 **Inheritance:**

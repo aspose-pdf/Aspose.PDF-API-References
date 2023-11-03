@@ -3,7 +3,7 @@ title: PrinterPaperKind
 second_title: Aspose.PDF for Java API Reference
 description: Specifies the standard paper sizes.
 type: docs
-weight: 20
+weight: 22
 url: /java/com.aspose.pdf.printing/printerpaperkind/
 ---
 **Inheritance:**
@@ -57,6 +57,7 @@ Specifies the standard paper sizes.
 | [C4Envelope](#C4Envelope) | Standard paper format |
 | [C5Envelope](#C5Envelope) | Standard paper format |
 | [C6Envelope](#C6Envelope) | Standard paper format |
+| [C65Envelope](#C65Envelope) | Standard paper format |
 | [CSheet](#CSheet) | Standard paper format |
 | [Custom](#Custom) | Standard paper format |
 | [DLEnvelope](#DLEnvelope) | Standard paper format |
@@ -424,6 +425,14 @@ Standard paper format
 ### C6Envelope {#C6Envelope}
 ```
 public static final int C6Envelope
+```
+
+
+Standard paper format
+
+### C65Envelope {#C65Envelope}
+```
+public static final int C65Envelope
 ```
 
 

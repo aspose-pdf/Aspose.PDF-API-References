@@ -47,6 +47,8 @@ Describes viewer prefereces (page mode, non full screen page mode, page layout).
 | [SIMPLEX](#SIMPLEX) | Print single-sided. |
 | [DUPLEX_FLIP_SHORT_EDGE](#DUPLEX-FLIP-SHORT-EDGE) | Duplex and flip on the short edge of the sheet. |
 | [DUPLEX_FLIP_LONG_EDGE](#DUPLEX-FLIP-LONG-EDGE) | Duplex and flip on the short edge of the sheet. |
+| [PRINT_SCALING_APP_DEFAULT](#PRINT-SCALING-APP-DEFAULT) | The conforming reader's default print scaling. |
+| [PRINT_SCALING_NONE](#PRINT-SCALING-NONE) | No page scaling. |
 ### ViewerPreference() {#ViewerPreference--}
 ```
 public ViewerPreference()
@@ -252,4 +254,20 @@ public static final int DUPLEX_FLIP_LONG_EDGE
 
 
 Duplex and flip on the short edge of the sheet.
+
+### PRINT_SCALING_APP_DEFAULT {#PRINT-SCALING-APP-DEFAULT}
+```
+public static final int PRINT_SCALING_APP_DEFAULT
+```
+
+
+The conforming reader's default print scaling.
+
+### PRINT_SCALING_NONE {#PRINT-SCALING-NONE}
+```
+public static final int PRINT_SCALING_NONE
+```
+
+
+No page scaling.
 

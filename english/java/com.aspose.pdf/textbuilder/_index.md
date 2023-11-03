@@ -3,7 +3,7 @@ title: TextBuilder
 second_title: Aspose.PDF for Java API Reference
 description: Appends text object to Pdf page.
 type: docs
-weight: 364
+weight: 365
 url: /java/com.aspose.pdf/textbuilder/
 ---
 **Inheritance:**

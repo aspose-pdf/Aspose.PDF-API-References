@@ -3,7 +3,7 @@ title: ReplyType
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the kinds of the relationships the u201creply typeu201d between the annotation and one specified by InReplyTo.
 type: docs
-weight: 310
+weight: 312
 url: /java/com.aspose.pdf/replytype/
 ---
 **Inheritance:**

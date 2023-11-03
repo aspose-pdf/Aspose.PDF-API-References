@@ -3,7 +3,7 @@ title: TableAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of table elements.
 type: docs
-weight: 354
+weight: 356
 url: /java/com.aspose.pdf/tableabsorber/
 ---
 **Inheritance:**
@@ -46,8 +46,8 @@ The example demonstrates how to find table on the first PDF document page and re
 | [getTextSearchOptions()](#getTextSearchOptions--) | Gets text search options. |
 | [setTextSearchOptions(TextSearchOptions value)](#setTextSearchOptions-com.aspose.pdf.TextSearchOptions-) | Gets or sets text search options. |
 | [getTableList()](#getTableList--) | Returns readonly IList containing tables that were found |
-| [isUseFlowEngine()](#isUseFlowEngine--) | Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. |
-| [setUseFlowEngine(boolean useFlowEngine)](#setUseFlowEngine-boolean-) | Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. |
+| [isUseFlowEngine()](#isUseFlowEngine--) | Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders. |
+| [setUseFlowEngine(boolean useFlowEngine)](#setUseFlowEngine-boolean-) | Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders. |
 | [visit(Page page)](#visit-com.aspose.pdf.Page-) | Extracts tables on the specified page |
 | [visit(IDocument pdf)](#visit-com.aspose.pdf.IDocument-) | Extracts tables on the specified document. |
 | [remove(AbsorbedTable table)](#remove-com.aspose.pdf.AbsorbedTable-) | Removes an  AbsorbedTable  from the page. |
@@ -128,7 +128,7 @@ public boolean isUseFlowEngine()
 ```
 
 
-Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesn't support editing tables and getting text styles yet. By default is false.
+Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders.
 
 **Returns:**
 boolean - boolean value
@@ -138,7 +138,7 @@ public void setUseFlowEngine(boolean useFlowEngine)
 ```
 
 
-Activate an early alfa version of alternative table recognition engine that could be used for conversion tables without borders. Doesn't support editing tables and getting text styles yet. By default is false.
+Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders.
 
 **Parameters:**
 | Parameter | Type | Description |

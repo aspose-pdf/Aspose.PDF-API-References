@@ -3,7 +3,7 @@ title: RichMediaAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class describes RichMediaAnnotation which allows embed video/audio data into PDF document.
 type: docs
-weight: 313
+weight: 315
 url: /java/com.aspose.pdf/richmediaannotation/
 ---
 **Inheritance:**

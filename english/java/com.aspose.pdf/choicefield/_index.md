@@ -3,7 +3,7 @@ title: ChoiceField
 second_title: Aspose.PDF for Java API Reference
 description: Represents base class for choice fields.
 type: docs
-weight: 59
+weight: 57
 url: /java/com.aspose.pdf/choicefield/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: XFormCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of XFormCollection.
 type: docs
-weight: 407
+weight: 408
 url: /java/com.aspose.pdf/xformcollection/
 ---
 **Inheritance:**

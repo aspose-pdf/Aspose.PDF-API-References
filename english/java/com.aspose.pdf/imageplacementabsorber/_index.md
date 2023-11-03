@@ -3,7 +3,7 @@ title: ImagePlacementAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of image placement objects.
 type: docs
-weight: 171
+weight: 170
 url: /java/com.aspose.pdf/imageplacementabsorber/
 ---
 **Inheritance:**
@@ -43,6 +43,8 @@ The example demonstrates how to find images on the first PDF document page and g
 --------------------
 
 The  ImagePlacementAbsorber  object is basically used in images search scenario. When the search is completed the occurrences are represented with  ImagePlacement  objects that the  ImagePlacementAbsorber.ImagePlacements  collection contains. The  ImagePlacement  object provides access to the image placement properties: dimensions, resolution etc.
+
+Image positive rotation is counterclockwise, for the page, it is clockwise. Here, we need to represent the image rotation angle, so we deduct the page angle from the image angle.
 ## Constructors
 
 | Constructor | Description |

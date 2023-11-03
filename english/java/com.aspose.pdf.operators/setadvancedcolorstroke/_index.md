@@ -23,6 +23,7 @@ Class representing SCN operator (set color for stroking operations).
 | [SetAdvancedColorStroke(double g, String patternName)](#SetAdvancedColorStroke-double-java.lang.String-) | Constructor for scn operator. |
 | [SetAdvancedColorStroke(double r, double g, double b, String patternName)](#SetAdvancedColorStroke-double-double-double-java.lang.String-) | Constructor for scn operator. |
 | [SetAdvancedColorStroke(double c, double m, double y, double k, String patternName)](#SetAdvancedColorStroke-double-double-double-double-java.lang.String-) | Constructor for scn operator. |
+| [SetAdvancedColorStroke(double[] colors, String patternName)](#SetAdvancedColorStroke-double---java.lang.String-) | Constructor for scn operator. |
 ## Methods
 
 | Method | Description |
@@ -110,6 +111,20 @@ Constructor for scn operator.
 | y | double | Yellow component of the color. |
 | k | double | Black component of the color |
 | patternName | java.lang.String | Name of the pattern. |
+
+### SetAdvancedColorStroke(double[] colors, String patternName) {#SetAdvancedColorStroke-double---java.lang.String-}
+```
+public SetAdvancedColorStroke(double[] colors, String patternName)
+```
+
+
+Constructor for scn operator.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colors | double[] | Color array. |
+| patternName | java.lang.String | Pattern name. |
 
 ### getColor() {#getColor--}
 ```

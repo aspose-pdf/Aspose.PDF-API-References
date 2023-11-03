@@ -3,7 +3,7 @@ title: FormattedFragment
 second_title: Aspose.PDF for Java API Reference
 description: Represents abstract formatted fragment.
 type: docs
-weight: 141
+weight: 140
 url: /java/com.aspose.pdf/formattedfragment/
 ---
 **Inheritance:**

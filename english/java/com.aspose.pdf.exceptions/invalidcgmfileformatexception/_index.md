@@ -19,6 +19,8 @@ The exception that is thrown when a Cgm file is invalid.
 | --- | --- |
 | [InvalidCgmFileFormatException()](#InvalidCgmFileFormatException--) | Initializes a new instance of the  InvalidCgmFileFormatException  class. |
 | [InvalidCgmFileFormatException(String message)](#InvalidCgmFileFormatException-java.lang.String-) | Initializes a new instance of the  InvalidCgmFileFormatException  class. |
+| [InvalidCgmFileFormatException(String message, System.Exception innerException)](#InvalidCgmFileFormatException-java.lang.String-com.aspose.ms.System.Exception-) | Initializes a new instance of the  InvalidCgmFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidCgmFileFormatException(System.Exception innerException)](#InvalidCgmFileFormatException-com.aspose.ms.System.Exception-) | Initializes a new instance of the  InvalidCgmFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 ### InvalidCgmFileFormatException() {#InvalidCgmFileFormatException--}
 ```
 public InvalidCgmFileFormatException()
@@ -39,4 +41,31 @@ Initializes a new instance of the  InvalidCgmFileFormatException  class.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | message | java.lang.String | The message. |
+
+### InvalidCgmFileFormatException(String message, System.Exception innerException) {#InvalidCgmFileFormatException-java.lang.String-com.aspose.ms.System.Exception-}
+```
+public InvalidCgmFileFormatException(String message, System.Exception innerException)
+```
+
+
+Initializes a new instance of the  InvalidCgmFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | java.lang.String | The error message that explains the reason for the exception. |
+| innerException | com.aspose.ms.System.Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### InvalidCgmFileFormatException(System.Exception innerException) {#InvalidCgmFileFormatException-com.aspose.ms.System.Exception-}
+```
+public InvalidCgmFileFormatException(System.Exception innerException)
+```
+
+
+Initializes a new instance of the  InvalidCgmFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| innerException | com.aspose.ms.System.Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 

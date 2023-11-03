@@ -3,7 +3,7 @@ title: PrintPaperSourceKind
 second_title: Aspose.PDF for Java API Reference
 description: Standard paper sources.
 type: docs
-weight: 18
+weight: 20
 url: /java/com.aspose.pdf.printing/printpapersourcekind/
 ---
 **Inheritance:**

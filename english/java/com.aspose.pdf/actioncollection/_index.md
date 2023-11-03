@@ -3,7 +3,7 @@ title: ActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of actions
 type: docs
-weight: 14
+weight: 13
 url: /java/com.aspose.pdf/actioncollection/
 ---
 **Inheritance:**

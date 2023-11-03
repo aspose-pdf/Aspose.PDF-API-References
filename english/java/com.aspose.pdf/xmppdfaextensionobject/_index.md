@@ -3,7 +3,7 @@ title: XmpPdfAExtensionObject
 second_title: Aspose.PDF for Java API Reference
 description: Represents the base class for field property value type instances.
 type: docs
-weight: 420
+weight: 421
 url: /java/com.aspose.pdf/xmppdfaextensionobject/
 ---
 **Inheritance:**

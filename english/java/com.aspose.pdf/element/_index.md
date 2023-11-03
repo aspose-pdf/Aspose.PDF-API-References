@@ -3,7 +3,7 @@ title: Element
 second_title: Aspose.PDF for Java API Reference
 description: Class representing base element of logical structure.
 type: docs
-weight: 96
+weight: 94
 url: /java/com.aspose.pdf/element/
 ---
 **Inheritance:**
@@ -26,16 +26,17 @@ Class representing base element of logical structure.
 | [setAlt(String value)](#setAlt-java.lang.String-) | (Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document\\u2019s contents in support of accessibility to users with disabilities or for other purposes. |
 | [getE()](#getE--) | (Optional; PDF 1.5) The expanded form of an abbreviation. |
 | [setE(String value)](#setE-java.lang.String-) | (Optional; PDF 1.5) The expanded form of an abbreviation. |
+| [remove()](#remove--) | Remove element. |
 ### getChildren() {#getChildren--}
 ```
-public List<Element> getChildren()
+public final ElementCollection getChildren()
 ```
 
 
 Gets child elements collection.
 
 **Returns:**
-java.util.List<com.aspose.pdf.Element> -  java.util.List  object
+[ElementCollection](../../com.aspose.pdf/elementcollection) - ElementCollection instance
 ### getLang() {#getLang--}
 ```
 public String getLang()
@@ -127,4 +128,12 @@ public void setE(String value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String | String object |
+
+### remove() {#remove--}
+```
+public final void remove()
+```
+
+
+Remove element.
 

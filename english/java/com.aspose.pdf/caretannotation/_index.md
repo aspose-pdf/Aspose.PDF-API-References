@@ -3,7 +3,7 @@ title: CaretAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Caret annotation.
 type: docs
-weight: 48
+weight: 46
 url: /java/com.aspose.pdf/caretannotation/
 ---
 **Inheritance:**

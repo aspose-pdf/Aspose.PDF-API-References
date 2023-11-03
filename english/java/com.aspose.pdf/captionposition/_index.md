@@ -3,7 +3,7 @@ title: CaptionPosition
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of the annotations caption positioning.
 type: docs
-weight: 47
+weight: 45
 url: /java/com.aspose.pdf/captionposition/
 ---
 **Inheritance:**

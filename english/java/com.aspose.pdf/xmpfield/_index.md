@@ -3,7 +3,7 @@ title: XmpField
 second_title: Aspose.PDF for Java API Reference
 description: Represents XMP field.
 type: docs
-weight: 416
+weight: 417
 url: /java/com.aspose.pdf/xmpfield/
 ---
 **Inheritance:**
@@ -33,7 +33,7 @@ Represents XMP field.
 | [equals(Object obj)](#equals-java.lang.Object-) | Indicates whether this instance and a specified object are equal. |
 | [hashCode()](#hashCode--) | Returns a hash code for this instance. |
 | [op_Equality(XmpField field1, XmpField field2)](#op-Equality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | Implements the operator ==. |
-| [op_Inequality(XmpField field1, XmpField field2)](#op-Inequality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | Implements the operator ! |
+| [op_Inequality(XmpField field1, XmpField field2)](#op-Inequality-com.aspose.pdf.XmpField-com.aspose.pdf.XmpField-) | Implements the operator !=. |
 | [toStructure()](#toStructure--) | Gets value as a structure. |
 | [toArray()](#toArray--) | Gets value as an array. |
 ### getEmpty() {#getEmpty--}
