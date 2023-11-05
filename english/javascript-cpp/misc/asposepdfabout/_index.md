@@ -23,6 +23,7 @@ JSON object
 * **version** - Product version
 * **releasedate** - Date release
 * **producer** - Full name/producer
+* **islicensed** - Product is licensed
 
 
 **Web Worker example**:
@@ -32,7 +33,13 @@ JSON object
   AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
   AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
     (evt.data == 'ready') ? 'loaded!' :
-      (evt.data.json.errorCode == 0) ? evt.data.json.producer : `Error: ${evt.data.json.errorText}`; 
+      (evt.data.json.errorCode !== 0) ? `Error: ${evt.data.json.errorText}` :
+                        "Product      : " + evt.data.json.product
+                    + "\nFamily       : " + evt.data.json.family
+                    + "\nVersion      : " + evt.data.json.version
+                    + "\nRelease date : " + evt.data.json.releasedate
+                    + "\nProducer     : " + evt.data.json.producer
+                    + "\nIs licensed  : " + evt.data.json.islicensed;
 
   /*Event handler*/
   const onAsposePdfAbout = e => {
@@ -45,7 +52,20 @@ JSON object
   var onAsposePdfAbout = function () {
     /*Get info about Product*/
     const json = AsposePdfAbout();
-    if (json.errorCode == 0) document.getElementById('output').textContent = "JSON:\n" + JSON.stringify(json, null, 4);
+    /* JSON
+    Product name       : json.product
+    Product family     : json.family
+    Product version    : json.version
+    Date release       : json.releasedate
+    Full name/producer : json.producer
+    Product is licensed: json.islicensed
+    */
+    if (json.errorCode == 0) document.getElementById('output').textContent = "Product      : " + json.product
+                                                                         + "\nFamily       : " + json.family
+                                                                         + "\nVersion      : " + json.version
+                                                                         + "\nRelease date : " + json.releasedate
+                                                                         + "\nProducer     : " + json.producer
+                                                                         + "\nIs licensed  : " + json.islicensed;
     else document.getElementById('output').textContent = json.errorText;
   }
 ```
