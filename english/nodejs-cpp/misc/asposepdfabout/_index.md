@@ -29,7 +29,7 @@ JSON object
 **CommonJS**:
 
 ```js
-const AsposePdf = require('../AsposePDFforNode.cjs');
+const AsposePdf = require('.//AsposePDFforNode.cjs');
 AsposePdf().then(AsposePdfModule => {
     /*AsposePdfAbout - Get info about Product*/
     const json = AsposePdfModule.AsposePdfAbout();
@@ -48,7 +48,7 @@ AsposePdf().then(AsposePdfModule => {
 **ECMAScript/ES6**:
 
 ```js
-import AsposePdf from '../AsposePDFforNode.mjs';
+import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
 /*AsposePdfAbout - Get info about Product*/
 const json = AsposePdfModule.AsposePdfAbout();

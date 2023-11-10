@@ -38,7 +38,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Set number a page to split*/
     const pageToSplit = 1;
@@ -53,7 +53,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Set number a page to split*/
 const pageToSplit = 1;
 /*Split to two PDF-files and save the "ResultSplit1.pdf", "ResultSplit2.pdf"*/

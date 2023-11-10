@@ -31,7 +31,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Optimize a PDF-file and save the "ResultOptimize.pdf"*/
     const json = AsposePdfModule.AsposePdfOptimize(pdf_file, "ResultOptimize.pdf");
@@ -44,7 +44,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Optimize a PDF-file and save the "ResultOptimize.pdf"*/
 const json = AsposePdfModule.AsposePdfOptimize(pdf_file, "ResultOptimize.pdf");
 console.log("AsposePdfOptimize => %O", json.errorCode == 0 ? json.fileNameResult : json.errorText);

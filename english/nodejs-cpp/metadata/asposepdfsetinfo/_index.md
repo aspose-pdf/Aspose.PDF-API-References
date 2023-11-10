@@ -49,7 +49,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Set PDF info: title, creator, author, subject, keywords, creation (date), mod (date modify)*/
     /*If not need to set value, use undefined or "" (empty string)*/
@@ -64,7 +64,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Set PDF info: title, creator, author, subject, keywords, creation (date), mod (date modify)*/
 /*If not need to set value, use undefined or "" (empty string)*/
 /*Set info (metadata) in a PDF-file and save the "ResultSetInfo.pdf"*/
