@@ -35,7 +35,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 const background_file = 'Aspose.jpg';
 AsposePdf().then(AsposePdfModule => {
     /*Add background image to a PDF-file and save the "ResultBackgroundImage.pdf"*/
@@ -49,7 +49,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 const background_file = 'Aspose.jpg';
 /*Add background image to a PDF-file and save the "ResultBackgroundImage.pdf"*/
 const json = AsposePdfModule.AsposePdfAddBackgroundImage(pdf_file, background_file, "ResultAddBackgroundImage.pdf");

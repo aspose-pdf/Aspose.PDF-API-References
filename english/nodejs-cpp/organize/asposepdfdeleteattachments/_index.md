@@ -31,7 +31,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Delete attachments from a PDF-file and save the "ResultPdfDeleteAttachments.pdf"*/
     const json = AsposePdfModule.AsposePdfDeleteAttachments(pdf_file, "ResultPdfDeleteAttachments.pdf");
@@ -44,7 +44,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Delete attachments from a PDF-file and save the "ResultPdfDeleteAttachments.pdf"*/
 const json = AsposePdfModule.AsposePdfDeleteAttachments(pdf_file, "ResultPdfDeleteAttachments.pdf");
 console.log("AsposePdfDeleteAttachments => %O", json.errorCode == 0 ? json.fileNameResult : json.errorText);

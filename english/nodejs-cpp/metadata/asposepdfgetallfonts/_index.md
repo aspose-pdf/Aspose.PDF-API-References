@@ -34,7 +34,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Get list fonts from a PDF-file*/
     const json = AsposePdfModule.AsposePdfGetAllFonts(pdf_file);
@@ -48,7 +48,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Get list fonts from a PDF-file*/
 const json = AsposePdfModule.AsposePdfGetAllFonts(pdf_file);
 /*json.fonts - array of fonts: { fontName: <string>, isEmbedded: <boolean>, isAccessible: <boolean> }*/

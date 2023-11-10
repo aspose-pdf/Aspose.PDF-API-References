@@ -18,7 +18,7 @@ function AsposePdfExtractImage(
 
 **Parameters**: 
   * **fileName** file name 
-  * **fileNameResult** result file name template (for sample: ""ResultPdfExtractImage{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **fileNameResult** result file name template (for sample: "ResultPdfExtractImage{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
   * **resolution** image resolution, default 300 dpi
 
 **Return**: 
@@ -33,7 +33,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Extract image from a PDF-file with template "ResultPdfExtractImage{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/
     const json = AsposePdfModule.AsposePdfExtractImage(pdf_file, "ResultPdfExtractImage{0:D2}.jpg", 150);
@@ -46,7 +46,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Extract image from a PDF-file with template "ResultPdfExtractImage{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/
 const json = AsposePdfModule.AsposePdfExtractImage(pdf_file, "ResultPdfExtractImage{0:D2}.jpg", 150);
 console.log("AsposePdfExtractImage => %O", json.errorCode == 0 ? json.filesNameResult : json.errorText);

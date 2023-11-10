@@ -49,8 +49,8 @@ JSON object
 **CommonJS**:
 
 ```js
-const AsposePdf = require('../AsposePDFforNode.cjs');
-const pdf_file = '../ReadMe.pdf';
+const AsposePdf = require('.//AsposePDFforNode.cjs');
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Get info (metadata) from a PDF-file*/
     const json = AsposePdfModule.AsposePdfGetInfo(pdf_file);
@@ -83,9 +83,9 @@ AsposePdf().then(AsposePdfModule => {
 **ECMAScript/ES6**:
 
 ```js
-import AsposePdf from '../AsposePDFforNode.mjs';
+import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = '../ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Get info (metadata) from a PDF-file*/
 const json = AsposePdfModule.AsposePdfGetInfo(pdf_file);
 /* JSON

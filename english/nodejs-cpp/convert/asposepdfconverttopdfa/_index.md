@@ -43,7 +43,7 @@ JSON object
 
 ```js
 const AsposePdf = require('.//AsposePDFforNode.cjs');
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Convert a PDF-file to PDF/A(1A) and save the "ResultConvertToPDFA.pdf"*/
     /*During conversion process, the validation is also performed, "ResultConvertToPDFA.xml"*/
@@ -57,7 +57,7 @@ AsposePdf().then(AsposePdfModule => {
 ```js
 import AsposePdf from './/AsposePDFforNode.mjs';
 const AsposePdfModule = await AsposePdf();
-const pdf_file = 'ReadMe.pdf';
+const pdf_file = 'Aspose.pdf';
 /*Convert a PDF-file to PDF/A(1A) and save the "ResultConvertToPDFA.pdf"*/
 /*During conversion process, the validation is also performed, "ResultConvertToPDFA.xml"*/
 const json = AsposePdfModule.AsposePdfConvertToPDFA(pdf_file, AsposePdfModule.PdfFormat.PDF_A_1A, "ResultConvertToPDFA.pdf", "ResultConvertToPDFALog.xml");
