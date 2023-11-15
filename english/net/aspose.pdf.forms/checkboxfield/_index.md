@@ -95,6 +95,34 @@ public class CheckboxField : Field
 | [Recalculate](../../aspose.pdf.forms/field/recalculate/)() | Recaculates all calculated fields on the form. |
 | virtual [SetPosition](../../aspose.pdf.forms/field/setposition/)(Point) | Set position of the field. |
 
+## Examples
+
+The example demonstrates how to create multi-value checkbox field.
+
+```csharp
+using (var document = new Document())
+{
+var page = document.Pages.Add();
+
+var checkbox = new CheckboxField(page, new Rectangle(50, 50, 70, 70));
+
+// Set the first checkbox group option value
+checkbox.ExportValue = "option 1";
+
+// Add new option right under existing ones
+checkbox.AddOption("option 2");
+
+// Add new option at the given rectangle
+checkbox.AddOption("option 3", new Rectangle(100, 100, 120, 120));
+
+document.Form.Add(checkbox);
+
+// Select the added checkbox
+checkbox.Value = "option 2";
+document.Save("checkbox_group.pdf");
+}
+```
+
 ### See Also
 
 * class [Field](../field/)
