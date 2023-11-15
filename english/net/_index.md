@@ -20,6 +20,7 @@ is_root: true
 | [Aspose.Pdf.GroupProcessor](./aspose.pdf.groupprocessor/) | The **Aspose.Pdf.GroupProcessor** namespace provides classes used to work text and fonts. |
 | [Aspose.Pdf.GroupProcessor.Creators](./aspose.pdf.groupprocessor.creators/) | The **Aspose.Pdf.GroupProcessor.Creators** namespace provides classes used to create instances of GroupProcessor classes. |
 | [Aspose.Pdf.LogicalStructure](./aspose.pdf.logicalstructure/) | The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Structure classes. |
+| [Aspose.Pdf.Multithreading](./aspose.pdf.multithreading/) | The **Aspose.Pdf.Multithreading** is a namespace for thread managing classes. |
 | [Aspose.Pdf.Operators](./aspose.pdf.operators/) | The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents. |
 | [Aspose.Pdf.Optimization](./aspose.pdf.optimization/) | The **Aspose.Pdf.Optimization** is a namespace for classes for managing of document optimization process. |
 | [Aspose.Pdf.PdfAOptionClasses](./aspose.pdf.pdfaoptionclasses/) | The **Aspose.PdfAOptionClasses** is a namespace for PDF/A convertsion optins. |
@@ -29,6 +30,8 @@ is_root: true
 | [Aspose.Pdf.Structure](./aspose.pdf.structure/) | The **Aspose.Pdf.Structure** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes. |
 | [Aspose.Pdf.Tagged](./aspose.pdf.tagged/) | The **Aspose.Pdf.Tagged** is a namespace for classes for support of Tagged PDF documents. |
 | [Aspose.Pdf.Text](./aspose.pdf.text/) | The **Aspose.Pdf.Text** namespace provides classes that allow to extract text, add text, manipulate existing text of a document. It also contain classes that allow to extract, replace, substitute fonts of a document. |
+| [Aspose.Pdf.Utils](./aspose.pdf.utils/) | The **Aspose.Pdf.Utils** namespace provides tools for low-level operations with Document Catalog and Page dictionaries. |
+| [Aspose.Pdf.Utils.PublicData](./aspose.pdf.utils.publicdata/) | The **Aspose.Pdf.Utils.PublicData** namespace provides data classes for low-level operations with Document Catalog and Page dictionaries. |
 | [Aspose.Pdf.Vector](./aspose.pdf.vector/) | The **Aspose.Pdf.Vector** is a root namespace for graphics operations. |
 | [Aspose.Pdf.XfaConverter](./aspose.pdf.xfaconverter/) | The **Aspose.Pdf.XfaConverter** namespace provides classes that allow to convert XFA. |
 

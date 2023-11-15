@@ -3,7 +3,7 @@ title: Class PdfGeneratorTableBuilder
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfGeneratorTableBuilder class. Class represents builder for table in pdf page
 type: docs
-weight: 6620
+weight: 6650
 url: /net/aspose.pdf.plugins/pdfgeneratortablebuilder/
 ---
 ## PdfGeneratorTableBuilder class

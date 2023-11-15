@@ -3,7 +3,7 @@ title: Class SetMiterLimit
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetMiterLimit class. Class representing M operator set miter limit
 type: docs
-weight: 5620
+weight: 5650
 url: /net/aspose.pdf.operators/setmiterlimit/
 ---
 ## SetMiterLimit class

@@ -1,0 +1,17 @@
+---
+title: Aspose.Pdf.Utils
+second_title: Aspose.PDF for .NET API Reference
+description: 
+type: docs
+weight: 230
+url: /net/aspose.pdf.utils/
+---
+
+
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [DictionaryEditor](./dictionaryeditor/) | A class for accessing an object's dictionary. |
+
+

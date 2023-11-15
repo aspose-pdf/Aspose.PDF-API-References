@@ -3,7 +3,7 @@ title: Class SimpleFontSubstitution
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.SimpleFontSubstitution class. Represents a class for simple font substitution strategy
 type: docs
-weight: 7770
+weight: 7800
 url: /net/aspose.pdf.text/simplefontsubstitution/
 ---
 ## SimpleFontSubstitution class

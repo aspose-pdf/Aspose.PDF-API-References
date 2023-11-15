@@ -3,7 +3,7 @@ title: Class PdfImageToJpegOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfImageToJpegOptions class. Represents Pdf to Jpeg convertor options for the PdfImage plugin
 type: docs
-weight: 6680
+weight: 6710
 url: /net/aspose.pdf.plugins/pdfimagetojpegoptions/
 ---
 ## PdfImageToJpegOptions class

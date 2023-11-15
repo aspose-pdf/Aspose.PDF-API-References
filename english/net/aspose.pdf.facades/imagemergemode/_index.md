@@ -3,7 +3,7 @@ title: Enum ImageMergeMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.ImageMergeMode enum. Represents modes for merging images
 type: docs
-weight: 2430
+weight: 2440
 url: /net/aspose.pdf.facades/imagemergemode/
 ---
 ## ImageMergeMode enumeration

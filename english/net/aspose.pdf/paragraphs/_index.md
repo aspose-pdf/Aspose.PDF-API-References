@@ -3,7 +3,7 @@ title: Class Paragraphs
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Paragraphs class. This class represents paragraph collection
 type: docs
-weight: 6010
+weight: 6040
 url: /net/aspose.pdf/paragraphs/
 ---
 ## Paragraphs class

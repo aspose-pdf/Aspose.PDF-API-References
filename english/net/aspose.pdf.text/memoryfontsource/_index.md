@@ -3,7 +3,7 @@ title: Class MemoryFontSource
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.MemoryFontSource class. Represents single font file source
 type: docs
-weight: 7730
+weight: 7760
 url: /net/aspose.pdf.text/memoryfontsource/
 ---
 ## MemoryFontSource class

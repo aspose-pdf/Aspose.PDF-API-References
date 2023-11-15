@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdfformflattenfieldsoptions/pdfformflattenfieldsoptions/
 ---
-## PdfFormFlattenFieldsOptions(HashSet&lt;int&gt;) {#constructor_2}
+## PdfFormFlattenFieldsOptions(HashSet&lt;int&gt;) {#constructor_3}
 
 Initializes a new instance of the [`PdfFormFlattenFieldsOptions`](../) object by set of pages, on which ALL fields will be flatten.
 
@@ -26,7 +26,7 @@ public PdfFormFlattenFieldsOptions(HashSet<int> pagesNumbers)
 
 ---
 
-## PdfFormFlattenFieldsOptions(int) {#constructor}
+## PdfFormFlattenFieldsOptions(int) {#constructor_1}
 
 Initializes a new instance of the [`PdfFormFlattenFieldsOptions`](../) object by page number, on which ALL fields will be flatten.
 
@@ -46,7 +46,7 @@ public PdfFormFlattenFieldsOptions(int pageNumber)
 
 ---
 
-## PdfFormFlattenFieldsOptions(int, int) {#constructor_1}
+## PdfFormFlattenFieldsOptions(int, int) {#constructor_2}
 
 Initializes a new instance of the [`PdfFormFlattenFieldsOptions`](../) object by page interval from pageFrom to pageTo (inclusive for both), on which ALL fields will be flatten.
 
@@ -61,6 +61,27 @@ public PdfFormFlattenFieldsOptions(int pageFrom, int pageTo)
 
 ### See Also
 
+* class [PdfFormFlattenFieldsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFormFlattenFieldsOptions(SelectField) {#constructor}
+
+Initializes a new instance of the [`PdfFormFlattenFieldsOptions`](../) object, by a delegate that specifies which fields to flatten.
+
+```csharp
+public PdfFormFlattenFieldsOptions(SelectField selectField)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| selectField | SelectField | Delegate that determines the fields to flatten. If the delegate returns true for the field, this field will be removed. |
+
+### See Also
+
+* delegate [SelectField](../../selectfield/)
 * class [PdfFormFlattenFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)

@@ -3,7 +3,7 @@ title: Class TextFragmentCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFragmentCollection class. Represents a text fragments collection
 type: docs
-weight: 8020
+weight: 8050
 url: /net/aspose.pdf.text/textfragmentcollection/
 ---
 ## TextFragmentCollection class

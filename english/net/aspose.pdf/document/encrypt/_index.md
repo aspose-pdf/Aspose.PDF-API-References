@@ -3,7 +3,7 @@ title: Document.Encrypt
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Encrypts the document. Call then Save to get encrypted version of the document
 type: docs
-weight: 590
+weight: 600
 url: /net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
@@ -63,7 +63,7 @@ The following example shows how to encrypt PDF files with [DocumentPrivilege](..
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* class [Document](../../document/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -89,7 +89,7 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 * enum [Permissions](../../permissions/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* class [Document](../../document/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -116,7 +116,7 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 * enum [Permissions](../../permissions/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* class [Document](../../document/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

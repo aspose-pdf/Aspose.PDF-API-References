@@ -3,7 +3,7 @@ title: Class PdfOrganizer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfOrganizer class. Represents PdfOrganizer plugin
 type: docs
-weight: 6700
+weight: 6730
 url: /net/aspose.pdf.plugins/pdforganizer/
 ---
 ## PdfOrganizer class

@@ -3,7 +3,7 @@ title: Document.HideMenubar
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets flag specifying whether menu bar should be hidden when document is active
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf/document/hidemenubar/
 ---
 ## Document.HideMenubar property

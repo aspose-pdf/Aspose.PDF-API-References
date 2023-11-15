@@ -3,7 +3,7 @@ title: Class BMC
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.BMC class. Class representing BMC operator Begin markedcontent sequence
 type: docs
-weight: 4960
+weight: 4990
 url: /net/aspose.pdf.operators/bmc/
 ---
 ## BMC class

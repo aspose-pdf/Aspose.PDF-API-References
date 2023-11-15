@@ -3,7 +3,7 @@ title: Class PdfOrganizerOptimizeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfOrganizerOptimizeOptions class. Represents Optimize options for PdfOrganizer plugin
 type: docs
-weight: 6730
+weight: 6760
 url: /net/aspose.pdf.plugins/pdforganizeroptimizeoptions/
 ---
 ## PdfOrganizerOptimizeOptions class

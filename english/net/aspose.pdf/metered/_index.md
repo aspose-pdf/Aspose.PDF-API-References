@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Metered class. Provides methods to set metered key
 type: docs
-weight: 4840
+weight: 4850
 url: /net/aspose.pdf/metered/
 ---
 ## Metered class

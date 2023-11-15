@@ -3,7 +3,7 @@ title: Class PdfFormAddFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfFormAddFieldsOptions class. Represents options for add Fields to document by PdfForm plugin
 type: docs
-weight: 6490
+weight: 6520
 url: /net/aspose.pdf.plugins/pdfformaddfieldsoptions/
 ---
 ## PdfFormAddFieldsOptions class

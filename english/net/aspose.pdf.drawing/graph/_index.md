@@ -3,7 +3,7 @@ title: Class Graph
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Graph class. Represents graph  graphics generator paragraph
 type: docs
-weight: 2030
+weight: 2040
 url: /net/aspose.pdf.drawing/graph/
 ---
 ## Graph class

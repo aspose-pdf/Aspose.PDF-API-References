@@ -3,7 +3,7 @@ title: Class PageLabel
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageLabel class. Class representing Page Label range
 type: docs
-weight: 5950
+weight: 5980
 url: /net/aspose.pdf/pagelabel/
 ---
 ## PageLabel class

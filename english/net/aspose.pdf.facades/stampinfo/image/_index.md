@@ -16,7 +16,7 @@ public Image Image { get; }
 
 ### See Also
 
-* class [StampInfo](../../stampinfo/)
+* class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

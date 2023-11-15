@@ -3,7 +3,7 @@ title: Class StringResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.StringResult class. Represents operation result in the form of string
 type: docs
-weight: 6830
+weight: 6860
 url: /net/aspose.pdf.plugins/stringresult/
 ---
 ## StringResult class

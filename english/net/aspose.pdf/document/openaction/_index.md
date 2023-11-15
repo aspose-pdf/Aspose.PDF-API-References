@@ -3,7 +3,7 @@ title: Document.OpenAction
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets action performed at document opening
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.pdf/document/openaction/
 ---
 ## Document.OpenAction property

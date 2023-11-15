@@ -3,7 +3,7 @@ title: Class PdfGeneratorTableOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfGeneratorTableOptions class. Represents options for add datatable to document by PdfGenerator plugin
 type: docs
-weight: 6640
+weight: 6670
 url: /net/aspose.pdf.plugins/pdfgeneratortableoptions/
 ---
 ## PdfGeneratorTableOptions class

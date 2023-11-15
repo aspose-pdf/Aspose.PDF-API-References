@@ -3,7 +3,7 @@ title: Class XFA
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.XFA class. Represents XML form regarding XML Forms Architecture XFA
 type: docs
-weight: 3320
+weight: 3330
 url: /net/aspose.pdf.forms/xfa/
 ---
 ## XFA class

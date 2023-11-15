@@ -89,6 +89,10 @@ public sealed class Document : IDisposable
 
 | Name | Description |
 | --- | --- |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments)(params Document[]) | Merges documents. |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments_3)(params string[]) | Merges pdf files. |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments_1)(MergeOptions, params Document[]) | Merges documents. |
+| static [MergeDocuments](../../aspose.pdf/document/mergedocuments/#mergedocuments_2)(MergeOptions, params string[]) | Merges documents. |
 | [BindXml](../../aspose.pdf/document/bindxml/#bindxml)(Stream) | Bind xml to document |
 | [BindXml](../../aspose.pdf/document/bindxml/#bindxml_3)(string) | Bind xml to document |
 | [BindXml](../../aspose.pdf/document/bindxml/#bindxml_1)(Stream, Stream) | Bind xml/xsl to document |
@@ -122,10 +126,14 @@ public sealed class Document : IDisposable
 | [HasIncrementalUpdate](../../aspose.pdf/document/hasincrementalupdate/)() | Checks if the current PDF document has been saved with incremental updates. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf/#importannotationsfromxfdf)(Stream) | Imports annotations from stream to document. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf/document/importannotationsfromxfdf/#importannotationsfromxfdf_1)(string) | Imports annotations from XFDF file to document. |
+| [Merge](../../aspose.pdf/document/merge/#merge)(params Document[]) | Merges documents. |
+| [Merge](../../aspose.pdf/document/merge/#merge_3)(params string[]) | Merges pdf files. |
+| [Merge](../../aspose.pdf/document/merge/#merge_1)(MergeOptions, params Document[]) | Merges documents. |
+| [Merge](../../aspose.pdf/document/merge/#merge_2)(MergeOptions, params string[]) | Merges documents. |
 | [Optimize](../../aspose.pdf/document/optimize/)() | Linearize the document in order to - open the first page as quickly as possible; - display next page or follow by link to the next page as quickly as possible; - display the page incrementally as it arrives when data for a page is delivered over a slow channel (display the most useful data first); - permit user interaction, such as following a link, to be performed even before the entire page has been received and displayed. Invoking this method doesn't actually saves the document. On the contrary the document only is prepared to have optimized structure, call then Save to get optimized document. |
 | [OptimizeResources](../../aspose.pdf/document/optimizeresources/#optimizeresources)() | Optimize resources in the document: 1. Resources which are not used on the document pages are removed; 2. Equal resources are joined into one object; 3. Unused objects are deleted. |
 | [OptimizeResources](../../aspose.pdf/document/optimizeresources/#optimizeresources_1)(OptimizationOptions) | Optimize resources in the document according to defined optimization strategy. |
-| [PageNodesToBalancedTree](../../aspose.pdf/document/pagenodestobalancedtree/)(byte) | Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing. |
+| [PageNodesToBalancedTree](../../aspose.pdf/document/pagenodestobalancedtree/)(byte) | Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing. Do not call this method while iterating over Pages elements, it may give unpredictable results |
 | [ProcessParagraphs](../../aspose.pdf/document/processparagraphs/)() | Process paragraphs for generator. |
 | [RemoveMetadata](../../aspose.pdf/document/removemetadata/)() | Removes metadata from the document. |
 | [RemovePdfaCompliance](../../aspose.pdf/document/removepdfacompliance/)() | Remove pdfa compliance from the document |
@@ -174,6 +182,7 @@ public sealed class Document : IDisposable
 | delegate [CallBackGetHocr](../../aspose.pdf/document.callbackgethocr) | The call back procedure for hocr recognize. |
 | delegate [FontSubstitutionHandler](../../aspose.pdf/document.fontsubstitutionhandler) | Represents the method that will handle FontSubstitution event. |
 | interface [IDocumentFontUtilities](../../aspose.pdf/document.idocumentfontutilities) | Holds functionality to tune fonts |
+| class [MergeOptions](../../aspose.pdf/document.mergeoptions) | Represents the options to Merge methods. |
 
 ### See Also
 

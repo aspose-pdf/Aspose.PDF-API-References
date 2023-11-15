@@ -3,7 +3,7 @@ title: Class PdfExtractorToImageOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfExtractorToImageOptions class. Represents images extraction options for the PdfExtractor plugin
 type: docs
-weight: 6440
+weight: 6470
 url: /net/aspose.pdf.plugins/pdfextractortoimageoptions/
 ---
 ## PdfExtractorToImageOptions class

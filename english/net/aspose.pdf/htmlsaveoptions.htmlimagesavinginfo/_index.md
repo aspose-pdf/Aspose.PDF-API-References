@@ -3,7 +3,7 @@ title: Class HtmlSaveOptions.HtmlImageSavingInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptionsHtmlImageSavingInfo class. This class represents set of data that related to external resource image files saving during PDF to HTML conversion
 type: docs
-weight: 3570
+weight: 3580
 url: /net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo class

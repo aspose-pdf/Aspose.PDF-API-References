@@ -3,7 +3,7 @@ title: Enum TableBroken
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TableBroken enum. Enumerates the table broken
 type: docs
-weight: 7410
+weight: 7440
 url: /net/aspose.pdf/tablebroken/
 ---
 ## TableBroken enumeration

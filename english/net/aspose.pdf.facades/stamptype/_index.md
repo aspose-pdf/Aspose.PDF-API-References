@@ -3,7 +3,7 @@ title: Enum StampType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.StampType enum. Describes stamp types
 type: docs
-weight: 2780
+weight: 2790
 url: /net/aspose.pdf.facades/stamptype/
 ---
 ## StampType enumeration

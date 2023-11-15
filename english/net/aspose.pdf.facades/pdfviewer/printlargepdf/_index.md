@@ -44,7 +44,7 @@ viewer.Close()
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -88,7 +88,7 @@ iewer.Close()
 
 ### See Also
 
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -140,7 +140,7 @@ iewer.Close()
 ### See Also
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -192,7 +192,7 @@ iewer.Close()
 ### See Also
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -253,7 +253,7 @@ iewer.Close()
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -314,7 +314,7 @@ iewer.Close()
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

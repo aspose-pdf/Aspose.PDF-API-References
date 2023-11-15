@@ -3,7 +3,7 @@ title: Document.HideToolBar
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets flag specifying whether toolbar should be hidden when document is active
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.pdf/document/hidetoolbar/
 ---
 ## Document.HideToolBar property

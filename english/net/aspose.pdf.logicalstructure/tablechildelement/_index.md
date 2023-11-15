@@ -3,7 +3,7 @@ title: Class TableChildElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TableChildElement class. Represents a base class for children elements of the Table in logical structure
 type: docs
-weight: 4660
+weight: 4670
 url: /net/aspose.pdf.logicalstructure/tablechildelement/
 ---
 ## TableChildElement class

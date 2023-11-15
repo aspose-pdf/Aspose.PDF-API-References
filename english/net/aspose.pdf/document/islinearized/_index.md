@@ -3,7 +3,7 @@ title: Document.IsLinearized
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets a value indicating whether document is linearized
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.pdf/document/islinearized/
 ---
 ## Document.IsLinearized property

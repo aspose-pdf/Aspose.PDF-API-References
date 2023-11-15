@@ -3,7 +3,7 @@ title: Document.CenterWindow
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets or sets flag specifying whether position of the documents window will be centerd on the screen
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/document/centerwindow/
 ---
 ## Document.CenterWindow property

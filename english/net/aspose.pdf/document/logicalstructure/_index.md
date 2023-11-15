@@ -3,7 +3,7 @@ title: Document.LogicalStructure
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets logical structure of the document
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.pdf/document/logicalstructure/
 ---
 ## Document.LogicalStructure property

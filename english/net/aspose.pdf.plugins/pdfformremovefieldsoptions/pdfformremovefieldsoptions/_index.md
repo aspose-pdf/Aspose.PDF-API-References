@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.pdf.plugins/pdfformremovefieldsoptions/pdfformremovefieldsoptions/
 ---
-## PdfFormRemoveFieldsOptions(HashSet&lt;int&gt;) {#constructor_2}
+## PdfFormRemoveFieldsOptions(HashSet&lt;int&gt;) {#constructor_3}
 
 Initializes a new instance of the [`PdfFormRemoveFieldsOptions`](../) object by set of pages, on which ALL fields will be removed.
 
@@ -26,7 +26,7 @@ public PdfFormRemoveFieldsOptions(HashSet<int> pagesNumbers)
 
 ---
 
-## PdfFormRemoveFieldsOptions(int) {#constructor}
+## PdfFormRemoveFieldsOptions(int) {#constructor_1}
 
 Initializes a new instance of the [`PdfFormRemoveFieldsOptions`](../) object by page number, on which ALL fields will be removed.
 
@@ -46,7 +46,7 @@ public PdfFormRemoveFieldsOptions(int pageNumber)
 
 ---
 
-## PdfFormRemoveFieldsOptions(int, int) {#constructor_1}
+## PdfFormRemoveFieldsOptions(int, int) {#constructor_2}
 
 Initializes a new instance of the [`PdfFormRemoveFieldsOptions`](../) object by page interval from pageFrom to pageTo (inclusive for both), on which ALL fields will be removed.
 
@@ -61,6 +61,27 @@ public PdfFormRemoveFieldsOptions(int pageFrom, int pageTo)
 
 ### See Also
 
+* class [PdfFormRemoveFieldsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFormRemoveFieldsOptions(SelectField) {#constructor}
+
+Initializes a new instance of the [`PdfFormRemoveFieldsOptions`](../) object, by a delegate that specifies which fields to remove.
+
+```csharp
+public PdfFormRemoveFieldsOptions(SelectField selectField)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| selectField | SelectField | Delegate that determines the fields to flatten. If the delegate returns true for the field, this field will be removed. |
+
+### See Also
+
+* delegate [SelectField](../../selectfield/)
 * class [PdfFormRemoveFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)

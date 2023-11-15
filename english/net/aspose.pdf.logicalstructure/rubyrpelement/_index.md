@@ -3,7 +3,7 @@ title: Class RubyRPElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.RubyRPElement class. Represents RP structure element in logical structure of the Ruby
 type: docs
-weight: 4510
+weight: 4520
 url: /net/aspose.pdf.logicalstructure/rubyrpelement/
 ---
 ## RubyRPElement class

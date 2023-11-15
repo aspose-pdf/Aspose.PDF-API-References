@@ -3,7 +3,7 @@ title: Document.Form
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets Acro Form of the document
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.pdf/document/form/
 ---
 ## Document.Form property

@@ -3,7 +3,7 @@ title: Class JavaScriptCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.JavaScriptCollection class. This class represents collection of JavaScript
 type: docs
-weight: 3960
+weight: 3970
 url: /net/aspose.pdf/javascriptcollection/
 ---
 ## JavaScriptCollection class

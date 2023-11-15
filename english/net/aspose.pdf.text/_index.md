@@ -3,7 +3,7 @@ title: Aspose.Pdf.Text
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Text namespace provides classes that allow to extract text add text manipulate existing text of a document. It also contain classes that allow to extract replace substitute fonts of a document
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.pdf.text/
 ---
 The **Aspose.Pdf.Text** namespace provides classes that allow to extract text, add text, manipulate existing text of a document. It also contain classes that allow to extract, replace, substitute fonts of a document.

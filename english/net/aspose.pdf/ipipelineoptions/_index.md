@@ -3,7 +3,7 @@ title: Interface IPipelineOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.IPipelineOptions interface. Defines conversion options related to pipeline configuration
 type: docs
-weight: 3730
+weight: 3740
 url: /net/aspose.pdf/ipipelineoptions/
 ---
 ## IPipelineOptions interface

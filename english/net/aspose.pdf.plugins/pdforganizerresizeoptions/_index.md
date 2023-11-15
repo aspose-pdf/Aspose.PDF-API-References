@@ -3,7 +3,7 @@ title: Class PdfOrganizerResizeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfOrganizerResizeOptions class. Represents Resize options for PdfOrganizer plugin
 type: docs
-weight: 6750
+weight: 6780
 url: /net/aspose.pdf.plugins/pdforganizerresizeoptions/
 ---
 ## PdfOrganizerResizeOptions class

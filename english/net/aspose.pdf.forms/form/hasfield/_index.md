@@ -1,11 +1,36 @@
 ---
 title: Form.HasField
 second_title: Aspose.PDF for .NET API Reference
-description: Form method. Determines if the field with specified name already added to the Form
+description: Form method. Check if the form already has specified field
 type: docs
 weight: 270
 url: /net/aspose.pdf.forms/form/hasfield/
 ---
+## HasField(Field) {#hasfield}
+
+Check if the form already has specified field.
+
+```csharp
+public bool HasField(Field field)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field | Field | Field to check. |
+
+### Return Value
+
+`true` if the specified field name added to Form; otherwise, `false`.
+
+### See Also
+
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## HasField(string) {#hasfield_1}
 
 Determines if the field with specified name already added to the Form.
@@ -49,31 +74,6 @@ public bool HasField(string fieldName, bool searchChildren)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## HasField(Field) {#hasfield}
-
-Check if the form already has specified field.
-
-```csharp
-public bool HasField(Field field)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| field | Field | Field to check. |
-
-### Return Value
-
-`true` if the specified field name added to Form; otherwise, `false`.
-
-### See Also
-
-* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

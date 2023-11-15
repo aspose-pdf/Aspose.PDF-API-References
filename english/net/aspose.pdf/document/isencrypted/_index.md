@@ -3,7 +3,7 @@ title: Document.IsEncrypted
 second_title: Aspose.PDF for .NET API Reference
 description: Document property. Gets encrypted status of the document. True if document is encrypted
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.pdf/document/isencrypted/
 ---
 ## Document.IsEncrypted property

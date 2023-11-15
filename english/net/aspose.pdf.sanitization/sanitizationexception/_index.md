@@ -3,7 +3,7 @@ title: Class SanitizationException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Sanitization.SanitizationException class. The exception that is thrown when an sanitization operation failed
 type: docs
-weight: 7160
+weight: 7190
 url: /net/aspose.pdf.sanitization/sanitizationexception/
 ---
 ## SanitizationException class

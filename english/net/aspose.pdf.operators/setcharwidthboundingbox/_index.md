@@ -3,7 +3,7 @@ title: Class SetCharWidthBoundingBox
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetCharWidthBoundingBox class. Class representing d1 operator set glyph and bounding box
 type: docs
-weight: 5450
+weight: 5480
 url: /net/aspose.pdf.operators/setcharwidthboundingbox/
 ---
 ## SetCharWidthBoundingBox class

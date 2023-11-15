@@ -3,7 +3,7 @@ title: Class PdfXmpMetadata
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfXmpMetadata class. Class for manipulation with XMP metadata
 type: docs
-weight: 2690
+weight: 2700
 url: /net/aspose.pdf.facades/pdfxmpmetadata/
 ---
 ## PdfXmpMetadata class

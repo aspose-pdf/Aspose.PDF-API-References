@@ -59,7 +59,7 @@ printerSettings object is used to print the document. pageSettings.PrinterSettin
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -108,7 +108,7 @@ iewer.ClosePdfFile()
 ### See Also
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PdfViewer](../../pdfviewer/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

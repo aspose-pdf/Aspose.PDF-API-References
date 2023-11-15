@@ -3,7 +3,7 @@ title: Document.FlattenTransparency
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Replaces transparent content with nontransparent raster and vector graphics
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.pdf/document/flattentransparency/
 ---
 ## Document.FlattenTransparency method

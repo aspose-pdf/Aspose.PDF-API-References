@@ -3,7 +3,7 @@ title: Class InvalidPasswordException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.InvalidPasswordException class. The exception that is thrown when invalid password is provided by user
 type: docs
-weight: 3930
+weight: 3940
 url: /net/aspose.pdf/invalidpasswordexception/
 ---
 ## InvalidPasswordException class

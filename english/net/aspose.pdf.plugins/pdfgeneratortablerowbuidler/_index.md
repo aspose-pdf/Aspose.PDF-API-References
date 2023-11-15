@@ -3,7 +3,7 @@ title: Class PdfGeneratorTableRowBuidler
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfGeneratorTableRowBuidler class. Class represents builder for table row
 type: docs
-weight: 6650
+weight: 6680
 url: /net/aspose.pdf.plugins/pdfgeneratortablerowbuidler/
 ---
 ## PdfGeneratorTableRowBuidler class

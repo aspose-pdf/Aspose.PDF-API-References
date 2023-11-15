@@ -3,7 +3,7 @@ title: Class PdfOrganizerMergeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfOrganizerMergeOptions class. Represents Merge options for PdfOrganizer plugin
 type: docs
-weight: 6720
+weight: 6750
 url: /net/aspose.pdf.plugins/pdforganizermergeoptions/
 ---
 ## PdfOrganizerMergeOptions class
