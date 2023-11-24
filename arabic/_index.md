@@ -20,7 +20,7 @@ Aspose.PDF هو مكون .NET مصمم للسماح للمطورين بإنشا�
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.PDF لمرجع .NET API](/pdf/ar/net/)
-- [Aspose.PDF لبرامج .NET API التعليمية](/tutorials/ar/pdf/net/)
+- [Aspose.PDF لبرامج .NET API التعليمية](/tutorials/pdf/ar/net/)
 
 
 ## Aspose.PDF لجافا
@@ -35,6 +35,7 @@ Aspose.PDF هو مكون Java مصمم للسماح للمطورين بإنشا�
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.PDF لمرجع Java API](/pdf/java/)
+- [Aspose.PDF لبرامج Java API التعليمية](/tutorials/pdf/ar/java/)
 
 
 ## Aspose.PDF لـ C ++

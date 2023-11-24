@@ -20,7 +20,7 @@ Aspose.PDF 是一个 .NET 组件，允许开发人员以编程方式动态创建
 
 这些是一些有用资源的链接：
 - [Aspose.PDF for .NET API 参考](/pdf/zh/net/)
-- [Aspose.PDF for .NET API 教程](/tutorials/zh/pdf/net/)
+- [Aspose.PDF for .NET API 教程](/tutorials/pdf/zh/net/)
 
 
 ## Aspose.PDF for Java
@@ -35,6 +35,7 @@ Aspose.PDF 是一个 Java 组件，允许开发人员以编程方式动态创建
 
 这些是一些有用资源的链接：
 - [Aspose.PDF for Java API 参考](/pdf/zh/java/)
+- [Aspose.PDF for Java API 教程](/tutorials/pdf/zh/java/)
 
 
 ## Aspose.PDF for C++

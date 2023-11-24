@@ -20,7 +20,7 @@ Aspose.PDF, geliştiricilerin ister basit ister karmaşık olsun, anında progra
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Aspose.PDF for .NET API Referansı](/pdf/tr/net/)
-- [.NET API Öğreticileri için Aspose.PDF](/tutorials/tr/pdf/net/)
+- [.NET API Öğreticileri için Aspose.PDF](/tutorials/pdf/tr/net/)
 
 
 
@@ -36,6 +36,7 @@ Aspose.PDF, geliştiricilerin ister basit ister karmaşık olsun, programlı ola
 
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 - [Java API Referansı için Aspose.PDF](/pdf/java/)
+- [Java API Eğitimleri için Aspose.PDF](/tutorials/pdf/tr/java/)
 
 
 ## C++ için Aspose.PDF
