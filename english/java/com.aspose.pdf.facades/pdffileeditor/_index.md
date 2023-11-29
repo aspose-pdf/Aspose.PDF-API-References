@@ -123,17 +123,17 @@ Array of encountered problems when concatenation was performed. For every corrup
 
 ```
 //concatenate documents and show information about corrupted documents
-	      PdfFileEditor pfe = new PdfFileEditor();
-	      pfe.setCorruptedFileAction(PdfFileEditor.ConcatenateCorruptedFileAction.ConcatenateIgnoringCorrupted);
-	      ```
+ PdfFileEditor pfe = new PdfFileEditor();
+ pfe.setCorruptedFileAction(PdfFileEditor.ConcatenateCorruptedFileAction.ConcatenateIgnoringCorrupted);
+ ```
 if (pfe.getCorruptedItems().length >0)
 ```
-	      {
-	        for(PdfFileEditor.CorruptedItem item : pfe.getCorruptedItems())
-	        {
-	           System.out.println(item.getIndex()+ " reason: " + item.getException());
-	        }
-	      }
+ {
+ for(PdfFileEditor.CorruptedItem item : pfe.getCorruptedItems())
+ {
+ System.out.println(item.getIndex()+ " reason: " + item.getException());
+ }
+ }
 ```
 
 **Returns:**
@@ -218,7 +218,7 @@ If set to true, exceptions are thrown if error occured. Else excetion are not th
 
 ```
 PdfFileEditor pfe = new PdfFileEditor();
-  pfe.setAllowConcatenatedException (true);
+               pfe.setAllowConcatenatedException (true);
 ``` |
 
 ### setConvertTo(PdfFormat value) {#setConvertTo-com.aspose.pdf.PdfFormat-}
@@ -261,7 +261,7 @@ If set to true, streams are closed after operation.
 
 ```
 PdfFileEditor pfe = new PdfFileEditor();
-  pfe.setCloseConcatenatedStreams (true);
+               pfe.setCloseConcatenatedStreams (true);
 ``` |
 
 ### getUniqueSuffix() {#getUniqueSuffix--}
@@ -1483,24 +1483,24 @@ Resizes contents of pages of the document.
 
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
-	      InputStream src = new FileInputStream("input.pdf");
-	      OutputStream dest = new FileOutputStream("output.pdf");
-	      PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-	          //left margin = 10% of page width
-	          PdfFileEditor.ContentsResizeValue.percents(10),
-	          //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
-	          null,
-	          //right margin is 10% of page 
-	          PdfFileEditor.ContentsResizeValue.percents(10),
-	          //top margin = 10% of height
-	          PdfFileEditor.ContentsResizeValue.percents(10),
-	          //new contents height is calculated automatically (similar to width)
-	          null,
-	          //bottom margin is 10%
-	          PdfFileEditor.ContentsResizeValue.percents(10)
-	             );
-	      fileEditor.resizeContents(src, dest, new int[] { 1, 2, 3}, parameters);
-	      dest.close();
+ InputStream src = new FileInputStream("input.pdf");
+ OutputStream dest = new FileOutputStream("output.pdf");
+ PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+ //left margin = 10% of page width
+ PdfFileEditor.ContentsResizeValue.percents(10),
+ //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+ null,
+ //right margin is 10% of page
+ PdfFileEditor.ContentsResizeValue.percents(10),
+ //top margin = 10% of height
+ PdfFileEditor.ContentsResizeValue.percents(10),
+ //new contents height is calculated automatically (similar to width)
+ null,
+ //bottom margin is 10%
+ PdfFileEditor.ContentsResizeValue.percents(10)
+ );
+ fileEditor.resizeContents(src, dest, new int[] { 1, 2, 3}, parameters);
+ dest.close();
 ```
 
 **Parameters:**
@@ -1527,11 +1527,11 @@ Resizes contents of document pages. Shrinks contents of page and adds margins. N
 PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
- fileEditor.resizeContents(src, dest, 
+ fileEditor.resizeContents(src, dest,
  //resize all pages of document
- null, 
+ null,
  //new contents width = 200
- 200, 
+ 200,
  //new contents height = 300
  300);
  // rest area of page will be empty
@@ -1562,11 +1562,11 @@ Resizes contents of document pages. Shrinks contents of page and adds margins. N
 PdfFileEditor fileEditor = new PdfFileEditor();
  InputStream src = new FileInputStream("input.pdf");
  OutputStream dest = new FileOutputStream("output.pdf");
- fileEditor.resizePct(src, dest, 
+ fileEditor.resizePct(src, dest,
  //resize all pages of document
- null, 
+ null,
  //new contents width = 60% of initial size
- 60, 
+ 60,
  //new contents height = 60% of initial size
  60);
  // Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
@@ -1598,15 +1598,15 @@ Resizes page contents and add specifed margins. Margins are specified in default
 PdfFileEditor fileEditor = new PdfFileEditor();
   InmputStream src = new FileInputStream("input.pdf");
   OutputStream dest = new FileInputStream("output.pdf");
-  fileEditor.addMargins(src, dest, 
+  fileEditor.addMargins(src, dest,
       //process pages 1, 2, 3
-      new int[] { 1, 2, 3}, 
+      new int[] { 1, 2, 3},
       //left margin is 10 units
-      10, 
+      10,
       //right margin is 5 units
-      5, 
+      5,
       //top margin is 5 units
-      5, 
+      5,
       //bottom margin is 5 units
       5);
       dest.Close();
@@ -1639,15 +1639,15 @@ Resizes page contents and add specified margins. Margins are specified in percen
 PdfFileEditor fileEditor = new PdfFileEditor();
   InmputStream src = new FileInputStream("input.pdf");
   OutputStream dest = new FileInputStream("output.pdf");
-  fileEditor.addMarginsPct(src, dest, 
+  fileEditor.addMarginsPct(src, dest,
       //process pages 1, 2, 3
-      new int[] { 1, 2, 3}, 
-      //left margin is 15% of page width 
-      15, 
+      new int[] { 1, 2, 3},
+      //left margin is 15% of page width
+      15,
       //right margin is 10% of page width
-      10, 
+      10,
       //top margin is 20% of page width
-      20, 
+      20,
       //bottom margin is 5% of page width
       5);
       dest.close();
@@ -1678,11 +1678,11 @@ Resizes contents of document pages. Shrinks contents of page and adds margins. N
 
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
- fileEditor.resizeContents("input.pdf", "output.pdf", 
+ fileEditor.resizeContents("input.pdf", "output.pdf",
  //resize all pages of document
- null, 
+ null,
  //new contents width = 200
- 200, 
+ 200,
  //new contents height = 300
  300);
  // rest area of page will be empty
@@ -1713,9 +1713,9 @@ Resizes contents of document pages. Shrinks contents of page and adds margins. N
 PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.resizePct("input.pdf", "output.pdf",
  //resize all pages of document
- null, 
+ null,
  //new contents width = 60% of initial size
- 60, 
+ 60,
  //new contents height = 60% of initial size
  60);
  // Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
@@ -1745,15 +1745,15 @@ Resizes page contents and add specifed margins. Margins are specified in default
 
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
-  fileEditor.addMargins("input.pdf", "output.pdf", 
+  fileEditor.addMargins("input.pdf", "output.pdf",
       //process pages 1, 2, 3
-      new int[] { 1, 2, 3}, 
+      new int[] { 1, 2, 3},
       //left margin is 10 units
-      10, 
+      10,
       //right margin is 5 units
-      5, 
+      5,
       //top margin is 5 units
-      5, 
+      5,
       //bottom margin is 5 units
       5);
 ```
@@ -1783,15 +1783,15 @@ Resizes page contents and add specified margins. Margins are specified in percen
 
 ```
 PdfFileEditor fileEditor = new PdfFileEditor();
-  fileEditor.addMarginsPct("input.pdf", "output.pdf", 
+  fileEditor.addMarginsPct("input.pdf", "output.pdf",
       //process pages 1, 2, 3
-      new int[] { 1, 2, 3}, 
-      //left margin is 15% of page width 
-      15, 
+      new int[] { 1, 2, 3},
+      //left margin is 15% of page width
+      15,
       //right margin is 10% of page width
-      10, 
+      10,
       //top margin is 20% of page width
-      20, 
+      20,
       //bottom margin is 5% of page width
       5);
 ```
@@ -1826,7 +1826,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
      PdfFileEditor.ContentsResizeValue.percents(10),
      //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
      null,
-     //right margin is 10% of page 
+     //right margin is 10% of page
      PdfFileEditor.ContentsResizeValue.percents(10),
      //top margin = 10% of height
      PdfFileEditor.ContentsResizeValue.percents(10),
@@ -1866,7 +1866,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
      PdfFileEditor.ContentsResizeValue.percents(10),
      //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
      null,
-     //right margin is 10% of page 
+     //right margin is 10% of page
      PdfFileEditor.ContentsResizeValue.percents(10),
      //top margin = 10% of height
      PdfFileEditor.ContentsResizeValue.percents(10),

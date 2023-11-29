@@ -119,7 +119,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [DocumentInfo](../com.aspose.pdf/documentinfo) | Represents meta information of PDF document. |
 | [DocumentWeb](../com.aspose.pdf/documentweb) | Represents DocumentWeb class |
 | [Element](../com.aspose.pdf/element) | Class representing base element of logical structure. |
-| [ElementCollection](../com.aspose.pdf/elementcollection) | Collection of [Element](../com.aspose.pdf/element). |
+| [ElementCollection](../com.aspose.pdf/elementcollection) | Collection of base logical structure elements. |
 | [EmbeddedFileCollection](../com.aspose.pdf/embeddedfilecollection) | Class representing embedded files collection. |
 | [EncryptedPayload](../com.aspose.pdf/encryptedpayload) | Represents encrypted payload in file specification. |
 | [EpubLoadOptions](../com.aspose.pdf/epubloadoptions) | Contains options for loading/importing EPUB file into pdf document. |

@@ -18,7 +18,7 @@ Represents an absorber object of a text. Performs text extraction and provides a
 
 ```
 The example demonstrates how to extract text on the first PDF document page.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text
@@ -66,7 +66,7 @@ Initializes a new instance of the  TextAbsorber .
 
 ```
 The example demonstrates how to extract text from all pages of the PDF document.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text
@@ -93,7 +93,7 @@ Initializes a new instance of the  TextAbsorber  with extraction options.
 
 ```
 The example demonstrates how to extract text from all pages of the PDF document.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text with formatting
@@ -165,7 +165,7 @@ java.lang.String - String value
 
 ```
 The example demonstrates how to extract text from all pages of the PDF document.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text
@@ -207,7 +207,7 @@ Extracts text on the specified page
 
 ```
 The example demonstrates how to extract text on the first PDF document page.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text
@@ -235,16 +235,16 @@ Extracts text on the specified XForm.
 
 ```
 The example demonstrates how to extract text on the first PDF document page.
- 
+
   // open document
   Document doc = new Document(inFile);
-  
+
   // create TextAbsorber object to extract text
   TextAbsorber absorber = new TextAbsorber();
-   
+
   // accept the absorber for all document's pages
   absorber.visit(doc.Pages().get(1).getResources().getForms().get("Xform1"));
-     
+
   // get the extracted text
   String extractedText = absorber.getText();
 ```
@@ -266,7 +266,7 @@ Extracts text on the specified document
 
 ```
 The example demonstrates how to extract text on PDF document.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text
@@ -294,7 +294,7 @@ Gets text extraction options.
 
 ```
 The example demonstrates how to set Pure text formatting mode and perform text extraction.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text with formatting
@@ -325,7 +325,7 @@ Sets text extraction options.
 
 ```
 The example demonstrates how to set Pure text formatting mode and perform text extraction.
- 
+
  // open document
  Document doc = new Document(inFile);
  // create TextAbsorber object to extract text with formatting

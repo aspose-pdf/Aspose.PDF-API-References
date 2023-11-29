@@ -183,8 +183,8 @@ Gets the mode for extract text's result.
 The example demonstratres the ```
 ExtractTextMode
 ``` property usage in text extraction scenario.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
  	extractor.bindPdf(@"D:\Text\text.pdf");
   extractor.setExtractTextMode(1);
@@ -210,8 +210,8 @@ Sets the mode for extract text's result.
 The example demonstratres the ```
 ExtractTextMode
 ``` property usage in text extraction scenario.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
  	extractor.bindPdf(@"D:\Text\text.pdf");
   extractor.setExtractTextMode(1);
@@ -302,8 +302,8 @@ Extracts text from a Pdf document.
 
 ```
 First example demonstratres how to extract all the text from PDF file.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
  	extractor.bindPdf("D:\Text\text.pdf");
  	extractor.extractText();
@@ -338,8 +338,8 @@ Extracts text from a Pdf document using specified encoding.
 
 ```
 First example demonstrates how to extract all the text from PDF file.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
  	extractor.bindPdf("D:\\Text\\text.pdf");
  	extractor.extractText(Encoding.Unicode);
@@ -463,9 +463,9 @@ PdfExtractor extractor = new PdfExtractor();
  	extractor.extractImage();
  	int i = 1;
  	while (extractor.HasNextImage())
- 	{
+    {
  	    extractor.getNextImage("image-" + i +".pdf");
- 	}
+    }
 ```
 
 ### hasNextImage() {#hasNextImage--}
@@ -484,9 +484,9 @@ PdfExtractor extractor = new PdfExtractor();
  	extractor.extractImage();
  	int i = 1;
  	while (extractor.hasNextImage())
- 	{
+    {
  	    extractor.getNextImage("image-" + i +".pdf");
- 	}
+    }
 ```
 
 **Returns:**
@@ -507,9 +507,9 @@ PdfExtractor extractor = new PdfExtractor();
  	extractor.extractImage();
  	int i = 1;
  	while (extractor.hasNextImage())
- 	{
+    {
  	    extractor.getNextImage("image-" + i +".pdf");
- 	}
+    }
 ```
 
 **Parameters:**
@@ -578,8 +578,8 @@ Returns list of attachments in PDF file. Note: ExtractAttachments must be called
 
 ```
 Example demonstrates how to extract attachment names form PDF file.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
  	extractor.bindPdf(TestSettings.GetInputFile("sample.pdf"));
  	extractor.ExtractAttachment();
@@ -640,8 +640,8 @@ Indicates that whether can get more texts or not.
 The example demonstratres the ```
 HasNextPageText
 ``` property usage in text extraction scenario.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
   extractor.bindPdf(TestPath + "Aspose.Pdf.Kit.Pdf");
   extractor.extractText(Encoding.Unicode);
@@ -669,8 +669,8 @@ Saves one page's text to file.
 
 ```
 The example demonstratres the GetNextPageText method usage in text extraction scenario.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
   extractor.bindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
   extractor.extractText(Encoding.Unicode);
@@ -703,8 +703,8 @@ Saves one page's text to stream.
 The example demonstratres the ```
 GetNextPageText
 ``` method usage in text extraction scenario.
- 
- 
+
+
   PdfExtractor extractor = new PdfExtractor();
   extractor.bindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
   extractor.extractText(Encoding.Unicode);
@@ -750,18 +750,18 @@ Saves all the attachment file to streams.
 --------------------
 
 ```
-PdfExtractor extractor = new PdfExtractor();     
+PdfExtractor extractor = new PdfExtractor();
  	extractor.bindPdf(path + "Attach.pdf");
  	extractor.extractAttachment();
  	IList names = extractor.getAttachNames();
  	ByteArrayOutputStream[] tempStreams =  extractor.getAttachment();
  	for (int i=0; i<tempStreams.Length; i++)
- 	{
+    {
  		string name = (string)names[i];
  		OutputStream fs = new FileOutputStream(path + name);
- 		fs.write(tempStreams[i].toByteArray()); 
+ 		fs.write(tempStreams[i].toByteArray());
  		fs.close();
- 	}
+    }
 ```
 
 **Returns:**

@@ -18,23 +18,23 @@ Represents class for converting pdf document pages into text.
 
 ```
 The example demonstrates how to extract text on the first PDF document page.
- 
-	       Document doc = new Document(inFile);
-	       String extractedText;
-	       ByteArrayOutputStream ms = new ByteArrayOutputStream();
-	       try 
-	       {
-	           // create text device
-	           TextDevice device = new TextDevice();
-	           // convert the page and save text to the stream
-	           device.process(doc.getPages().get_Item(1), ms);
-	           // use the extracted text	           
-	           extractedText = Encoding.getUnicode().getString(ms.toByteArray());
-	           
-		    ms.close();
-		} catch (IOException e) {
-		    e.printStackTrace();
-		}
+
+ Document doc = new Document(inFile);
+ String extractedText;
+ ByteArrayOutputStream ms = new ByteArrayOutputStream();
+ try
+ {
+ // create text device
+ TextDevice device = new TextDevice();
+ // convert the page and save text to the stream
+ device.process(doc.getPages().get_Item(1), ms);
+ // use the extracted text
+ extractedText = Encoding.getUnicode().getString(ms.toByteArray());
+
+ ms.close();
+ } catch (IOException e) {
+ e.printStackTrace();
+ }
 ```
 
 --------------------
@@ -152,13 +152,13 @@ Gets text extraction options.
 
 ```
 The example demonstrates how to extracted text in raw order.
- 
-	       Document doc = new Document(inFile);
-	       String extractedText;
-	       // create text device
-	       TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
-	       // convert the page and save text to the stream
-	       device.process(doc.getPages().get_Item(1), outFile);
+
+ Document doc = new Document(inFile);
+ String extractedText;
+ // create text device
+ TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
+ // convert the page and save text to the stream
+ device.process(doc.getPages().get_Item(1), outFile);
 ```
 ### setExtractionOptions(TextExtractionOptions value) {#setExtractionOptions-com.aspose.pdf.TextExtractionOptions-}
 ```
@@ -177,13 +177,13 @@ Sets text extraction options.
 
 ```
 The example demonstrates how to extracted text in raw order.
- 
-	       Document doc = new Document(inFile);
-	       String extractedText;
-	       // create text device
-	       TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
-	       // convert the page and save text to the stream
-	       device.process(doc.getPages().get_Item(1), outFile);
+
+              Document doc = new Document(inFile);
+              String extractedText;
+              // create text device
+              TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
+              // convert the page and save text to the stream
+              device.process(doc.getPages().get_Item(1), outFile);
 ``` |
 
 ### getEncodingInternal() {#getEncodingInternal--}
@@ -201,13 +201,13 @@ Gets encoding of extracted text.
 
 ```
 The example demonstrates how to represent extracted text in UTF-8 encoding.
- 
-	       Document doc = new Document(inFile);
-	       String extractedText;
-	       // create text device
-	       TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
-	       // convert the page and save text to the stream
-	       device.process(doc.getPages().get_Item(1), outFile);
+
+ Document doc = new Document(inFile);
+ String extractedText;
+ // create text device
+ TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
+ // convert the page and save text to the stream
+ device.process(doc.getPages().get_Item(1), outFile);
 ```
 ### getEncoding() {#getEncoding--}
 ```
@@ -224,13 +224,13 @@ java.nio.charset.Charset - Charset element
 
 ```
 The example demonstrates how to represent extracted text in UTF-8 encoding.
- 
-	       Document doc = new Document(inFile);
-	       String extractedText;
-	       // create text device
-	       TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
-	       // convert the page and save text to the stream
-	       device.process(doc.getPages().get_Item(1), outFile);
+
+ Document doc = new Document(inFile);
+ String extractedText;
+ // create text device
+ TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
+ // convert the page and save text to the stream
+ device.process(doc.getPages().get_Item(1), outFile);
 ```
 ### setEncodingInternal(TextEncodingInternal value) {#setEncodingInternal-com.aspose.pdf.TextEncodingInternal-}
 ```
@@ -249,13 +249,13 @@ Sets encoding of extracted text.
 
 ```
 The example demonstrates how to represent extracted text in UTF-8 encoding.
- 
-		       Document doc = new Document(inFile);
-		       String extractedText;
-		       // create text device
-		       TextDevice device = new TextDevice(TextEncodingInternal.getUTF8());
-		       // convert the page and save text to the stream
-		       device.process(doc.getPages().get_Item(1), outFile);
+
+              Document doc = new Document(inFile);
+              String extractedText;
+              // create text device
+              TextDevice device = new TextDevice(TextEncodingInternal.getUTF8());
+              // convert the page and save text to the stream
+              device.process(doc.getPages().get_Item(1), outFile);
 ``` |
 
 ### setEncoding(Charset value) {#setEncoding-java.nio.charset.Charset-}
@@ -275,13 +275,13 @@ Sets encoding of extracted text.
 
 ```
 The example demonstrates how to represent extracted text in UTF-8 encoding.
- 
-		       Document doc = new Document(inFile);
-		       String extractedText;
-		       // create text device
-		       TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
-		       // convert the page and save text to the stream
-		       device.process(doc.getPages().get_Item(1), outFile);
+
+              Document doc = new Document(inFile);
+              String extractedText;
+              // create text device
+              TextDevice device = new TextDevice(java.nio.charset.Charset.forName("UTF-8"));
+              // convert the page and save text to the stream
+              device.process(doc.getPages().get_Item(1), outFile);
 ``` |
 
 ### processInternal(Page page, System.IO.Stream output) {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
@@ -296,18 +296,18 @@ Convert page and save it as text stream.
 
 ```
 The example demonstrates how to extract text on the first PDF document page.
- 
-	       Document doc = new Document(inFile);
-	       String extractedText;
-	       ByteArrayOutputStream ms = new ByteArrayOutputStream();
-	       
-	           // create text device
-	           TextDevice device = new TextDevice();
-	           // convert the page and save text to the stream
-	           device.process(doc.getPages().get_Item(1), ms);
-	           // use the extracted text
-	           extractedText = Encoding.getUnicode().getString(ms.toByteArray());
-	           ms.close();
+
+ Document doc = new Document(inFile);
+ String extractedText;
+ ByteArrayOutputStream ms = new ByteArrayOutputStream();
+
+ // create text device
+ TextDevice device = new TextDevice();
+ // convert the page and save text to the stream
+ device.process(doc.getPages().get_Item(1), ms);
+ // use the extracted text
+ extractedText = Encoding.getUnicode().getString(ms.toByteArray());
+ ms.close();
 ```
 
 **Parameters:**
@@ -328,18 +328,18 @@ Convert page and save it as text stream.
 
 ```
 The example demonstrates how to extract text on the first PDF document page.
- 
-	       Document doc = new Document(inFile);
-	       String extractedText;
-	       ByteArrayOutputStream ms = new ByteArrayOutputStream();
-	       
-	           // create text device
-	           TextDevice device = new TextDevice();
-	           // convert the page and save text to the stream
-	           device.process(doc.getPages().get_Item(1), ms);
-	           // use the extracted text
-	           extractedText = Encoding.getUnicode().getString(ms.toByteArray());
-	           ms.close();
+
+ Document doc = new Document(inFile);
+ String extractedText;
+ ByteArrayOutputStream ms = new ByteArrayOutputStream();
+
+ // create text device
+ TextDevice device = new TextDevice();
+ // convert the page and save text to the stream
+ device.process(doc.getPages().get_Item(1), ms);
+ // use the extracted text
+ extractedText = Encoding.getUnicode().getString(ms.toByteArray());
+ ms.close();
 ```
 
 **Parameters:**

@@ -18,8 +18,8 @@ Represents characteristics of an image placed to Pdf document page.
 
 ```
 The example demonstrates how to find images on the first PDF document page and get images as bitmaps with visible dimensions.
- 
-  
+
+
  // Open document
  Document doc = new Document("D:\\Tests\\input.pdf");
  // Create ImagePlacementAbsorber object to perform image placement search
@@ -33,13 +33,13 @@ The example demonstrates how to find images on the first PDF document page and g
  {
      BufferedImage scaledImage;
      ByteArrayOutputStream imageStream = new ByteArrayOutputStream())
-     
+
          // Retrieve image from resources
          imagePlacement.getImage().save(imageStream, ImageFormatInternal.Png);
          BufferedImage resourceImage = (BufferedImage) ImageIO.read(imageStream);
          // Create new bitmap with actual dimensions
          scaledImage = new BufferedImage(resourceImage, (int)imagePlacement.getRectangle().getWidth(), (int)imagePlacement.getRectangle().getHeight());
-     
+
  }
 ```
 

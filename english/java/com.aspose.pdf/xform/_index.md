@@ -10,9 +10,9 @@ url: /java/com.aspose.pdf/xform/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.pdf.ISupportsMemoryCleanup
+com.aspose.pdf.ISupportsMemoryCleanup, [com.aspose.pdf.engine.IOperatorContainer](../../com.aspose.pdf.engine/ioperatorcontainer)
 ```
-public final class XForm implements ISupportsMemoryCleanup
+public final class XForm implements ISupportsMemoryCleanup, IOperatorContainer
 ```
 
 Class represent XForm

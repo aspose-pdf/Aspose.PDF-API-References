@@ -16,7 +16,9 @@ Represents an absorber object of page structure objects such as sections and par
 
 --------------------
 
-The example demonstrates how to find first text segment of each paragraph on the first PDF document page and highlight it. // Open document Document doc = new Document("input.pdf"); // Create ParagraphAbsorber object ParagraphAbsorber absorber = new ParagraphAbsorber(); // Accept the absorber for first page absorber.visit(doc.getPages.get\_Item(1)); // Get markup object of first page PageMarkup markup = absorber.getPageMarkups().get(0); // Loop through structure elements of the page text to find first text fragment of each paragraph for (MarkupSection section : markup.getSections()) \{ for (MarkupParagraph paragraph : section.getParagraphs()) \{ TextFragment fragment = paragraph.getFragments().get\_Item(0); // Update text properties fragment.getTextState().setBackgroundColor (Color.getLightBlue()); \} \} // Save document doc.save(GetOutputPath("output.pdf"));
+The example demonstrates how to find first text segment of each paragraph on the first PDF document page and highlight it.
+
+// Open document Document doc = new Document("input.pdf"); // Create ParagraphAbsorber object ParagraphAbsorber absorber = new ParagraphAbsorber(); // Accept the absorber for first page absorber.visit(doc.getPages.get\_Item(1)); // Get markup object of first page PageMarkup markup = absorber.getPageMarkups().get(0); // Loop through structure elements of the page text to find first text fragment of each paragraph for (MarkupSection section : markup.getSections()) \{ for (MarkupParagraph paragraph : section.getParagraphs()) \{ TextFragment fragment = paragraph.getFragments().get\_Item(0); // Update text properties fragment.getTextState().setBackgroundColor (Color.getLightBlue()); \} \} // Save document doc.save(GetOutputPath("output.pdf"));
 
 --------------------
 

@@ -429,10 +429,10 @@ Fills the check box field with a boolean value. Notice: Only be applied to Check
 ```
 Form form = new Form("PdfForm.pdf");
  form.fillField("checkboxField", true);
- 
- 
+
+
  //how to search field by its partial name:
- Form form = new Form("input.pdf", "output.pdf"); 
+ Form form = new Form("input.pdf", "output.pdf");
  for(String fieldName : form.getFieldNames())
  {
    if (fieldName.endsWith("CheckBoxField"))
@@ -466,10 +466,10 @@ Fills the radio box field with a valid index value according to a fully qualifie
  form.fillField("listboxField", 2);
  form.fillField("comboboxField", 2);
  form.fillField("radiobuttonField", 2);
- 
+
  //2
  //how to search field by its partial name:
- Form form = new Form("input.pdf", "output.pdf"); 
+ Form form = new Form("input.pdf", "output.pdf");
  for(String fieldName : form.getFieldNames())
  {
    if (fieldName.endsWith("ListBoxField"))
@@ -501,10 +501,10 @@ Fills the field with a valid value according to a fully qualified field name. Be
 Form form = new Form("PdfForm.pdf");
  form.fillField("FirstName", "John");
  form.fillField("LastName",  "Smith");
- 
+
 
  //how to search field by its partial name:
- Form form = new Form("input.pdf", "output.pdf"); 
+ Form form = new Form("input.pdf", "output.pdf");
  for(String fieldName : form.getFieldNames())
  {
    if (fieldName.endsWith("TextField"))
@@ -683,9 +683,9 @@ Gets the radio button option fields and related values based on the field name. 
 
 ```
 Form form = new Form("PdfForm.pdf");
-		  java.util.Map values = form.getButtonOptionValues("Color");
-		  System.out.println(values.get("White").toString());
-		  System.out.println(values.get("Black").toString());
+ java.util.Map values = form.getButtonOptionValues("Color");
+ System.out.println(values.get("White").toString());
+ System.out.println(values.get("Black").toString());
 ```
 
 **Parameters:**

@@ -21,24 +21,24 @@ Represents font object.
 
 ```
 The example demonstrates how to search text on first page and change font of a first search occurrence.
- 
-  
+
+
   // Open document
   Document doc = new Document("input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Create font and mark it to be embedded
   Font font = FontRepository.findFont("Arial");
   font.isEmbedded(true);
-  
+
   // Change font of the first text occurrence
   absorber.getTextFragments().get_Item(1).getTextState().setFont( font);
-  
-  
+
+
   // Save document
   doc.save("output.pdf");
 ```
@@ -88,15 +88,15 @@ java.lang.String - String value
 
 ```
 The example demonstrates how to search text on first page and view font name of a first text occurrence.
- 
+
   // Open document
   Document doc = new Document(@"D:\Tests\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // View font name of first text occurrence
   System.out.println(absorber.getTextFragments().get_Item(1).getTextState().getFont().getFontName());
 ```
@@ -169,20 +169,20 @@ Gets a value that indicates whether the font is embedded. Font based on IFont wi
 
 ```
 The following example demonstrates how to find a font, mark it as embedded, search text on the document's page and replace the text font.
- 
-	      // Create font and mark it to be embedded
-	      com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Arial");
-	      font.isEmbedded ( true);
-	      // open document
-	      com.aspose.pdf.Document doc = new com.aspose.pdf.Document("D:\\Tests\\input.pdf");
-	      // create TextFragmentAbsorber object to find all "hello world" text occurrences
-	      com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber("hello world");
-	      // accept the absorber for first page
-	      doc.getPages().get_Item(1).accept(absorber);
-	      // change font for the first text occurrence
-	      absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-	      // save document
-	      doc.save("D:\\Tests\\output.pdf");
+
+ // Create font and mark it to be embedded
+ com.aspose.pdf.Font font = com.aspose.pdf.FontRepository.findFont("Arial");
+ font.isEmbedded ( true);
+ // open document
+ com.aspose.pdf.Document doc = new com.aspose.pdf.Document("D:\\Tests\\input.pdf");
+ // create TextFragmentAbsorber object to find all "hello world" text occurrences
+ com.aspose.pdf.TextFragmentAbsorber absorber = new com.aspose.pdf.TextFragmentAbsorber("hello world");
+ // accept the absorber for first page
+ doc.getPages().get_Item(1).accept(absorber);
+ // change font for the first text occurrence
+ absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
+ // save document
+ doc.save("D:\\Tests\\output.pdf");
 ```
 
 **Returns:**
@@ -212,18 +212,18 @@ Gets a value that indicates whether the font is a subset. Font based on IFont wi
 
 ```
 The example demonstrates how to search text on first page and get the value that indicates whether the font is a subset.
-  
-	       // Open document
-	       Document doc = new Document("D:\\Tests\\input.pdf");
-	       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-	       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-	       
-	       // Accept the absorber for first page
-	       doc.getPages().get_Item(1).accept(absorber);
-	       
-	       // View font's IsSubset value of first text occurrence
-	       if(absorber.TextFragments[1].TextState.Font.IsSubset)
-	          System.out.println("the font is a subset");
+
+ // Open document
+ Document doc = new Document("D:\\Tests\\input.pdf");
+ // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+ // Accept the absorber for first page
+ doc.getPages().get_Item(1).accept(absorber);
+
+ // View font's IsSubset value of first text occurrence
+ if(absorber.TextFragments[1].TextState.Font.IsSubset)
+ System.out.println("the font is a subset");
 ```
 
 **Returns:**
@@ -256,15 +256,15 @@ boolean - boolean value
 
 ```
 The example demonstrates how to search text on first page and get the value that indicates whether the font is installed in the system.
- 
+
  // Open document
  Document doc = new Document("D:\\Tests\\input.pdf");
  // Create TextFragmentAbsorber object to find all "hello world" text occurrences
  TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
- 
+
  // Accept the absorber for first page
  doc.getPages().get_Item(1).accept(absorber);
- 
+
  // View font's IsSubset value of first text occurrence
  if (absorber.getTextFragments().get_Item(1).getTextState().getFont()
  		.isAccessible())

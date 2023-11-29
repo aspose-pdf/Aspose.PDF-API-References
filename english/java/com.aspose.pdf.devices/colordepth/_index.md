@@ -18,6 +18,7 @@ Used to specify the parameter value passed to a Tiff image device.
 | Field | Description |
 | --- | --- |
 | [Default](#Default) | Default color depth |
+| [Format24bpp](#Format24bpp) | Rgb 24 bit depth. |
 | [Format8bpp](#Format8bpp) | 8 bits per pixel. |
 | [Format4bpp](#Format4bpp) | 4 bits per pixel. |
 | [Format1bpp](#Format1bpp) | 1 bit per pixel. |
@@ -28,6 +29,14 @@ public static final int Default
 
 
 Default color depth
+
+### Format24bpp {#Format24bpp}
+```
+public static final int Format24bpp
+```
+
+
+Rgb 24 bit depth.
 
 ### Format8bpp {#Format8bpp}
 ```

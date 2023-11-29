@@ -20,7 +20,7 @@ In this example, an attempt will be made to set metered public and private key
 
 ```
 The component jar file:
-  
+
  	Metered matered = new Metered();
  	matered.setMeteredKey("PublicKey", "PrivateKey");
 ```

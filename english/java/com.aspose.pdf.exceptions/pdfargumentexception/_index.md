@@ -3,7 +3,7 @@ title: PdfArgumentException
 second_title: Aspose.PDF for Java API Reference
 description: Represents errors that occur when incorrect parameters appeared.
 type: docs
-weight: 27
+weight: 28
 url: /java/com.aspose.pdf.exceptions/pdfargumentexception/
 ---
 **Inheritance:**

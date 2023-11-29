@@ -1,7 +1,7 @@
 ---
 title: ElementCollection
 second_title: Aspose.PDF for Java API Reference
-description: Collection of .
+description: Collection of base logical structure elements.
 type: docs
 weight: 95
 url: /java/com.aspose.pdf/elementcollection/
@@ -15,7 +15,7 @@ com.aspose.ms.System.Collections.Generic.IGenericEnumerable
 public class ElementCollection implements System.Collections.Generic.IGenericEnumerable<Element>
 ```
 
-Collection of [Element](../../com.aspose.pdf/element).
+Collection of base logical structure elements.
 ## Methods
 
 | Method | Description |

@@ -3,7 +3,7 @@ title: PdfException
 second_title: Aspose.PDF for Java API Reference
 description: Represents errors that occur during PDF application execution.
 type: docs
-weight: 28
+weight: 29
 url: /java/com.aspose.pdf.exceptions/pdfexception/
 ---
 **Inheritance:**
