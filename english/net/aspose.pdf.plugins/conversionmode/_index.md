@@ -3,7 +3,7 @@ title: Enum ConversionMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.ConversionMode enum. Defines conversion mode of the output document
 type: docs
-weight: 6270
+weight: 6350
 url: /net/aspose.pdf.plugins/conversionmode/
 ---
 ## ConversionMode enumeration

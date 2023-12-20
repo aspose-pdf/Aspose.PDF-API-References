@@ -18,7 +18,7 @@ public sealed class FontNotFoundException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Initializes a new instance of the `FontNotFoundException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Initializes a new instance of the `FontNotFoundException` class with a reference to the inner exception that is the cause of this exception. |
 | [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | Initializes a new instance of the `FontNotFoundException` class. |
 | [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Initializes a new instance of the `FontNotFoundException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 

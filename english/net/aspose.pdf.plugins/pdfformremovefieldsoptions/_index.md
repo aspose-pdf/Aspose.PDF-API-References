@@ -3,7 +3,7 @@ title: Class PdfFormRemoveFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfFormRemoveFieldsOptions class. Represents options for remove all Fields from specified pages of document by PdfForm plugin
 type: docs
-weight: 6590
+weight: 6680
 url: /net/aspose.pdf.plugins/pdfformremovefieldsoptions/
 ---
 ## PdfFormRemoveFieldsOptions class

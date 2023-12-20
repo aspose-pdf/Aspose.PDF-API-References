@@ -3,7 +3,7 @@ title: XForm.GetResources
 second_title: Aspose.PDF for .NET API Reference
 description: XForm method. Returns resources of Form XObject
 type: docs
-weight: 100
+weight: 120
 url: /net/aspose.pdf/xform/getresources/
 ---
 ## GetResources(bool) {#getresources_1}

@@ -3,7 +3,7 @@ title: TextState.Superscript
 second_title: Aspose.PDF for .NET API Reference
 description: TextState property. Gets or sets superscript of the text
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf.text/textstate/superscript/
 ---
 ## TextState.Superscript property

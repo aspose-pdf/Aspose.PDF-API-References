@@ -3,7 +3,7 @@ title: Class AttributeName
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.AttributeName class. Represents class for Attribute Name Values
 type: docs
-weight: 4120
+weight: 4130
 url: /net/aspose.pdf.logicalstructure/attributename/
 ---
 ## AttributeName class

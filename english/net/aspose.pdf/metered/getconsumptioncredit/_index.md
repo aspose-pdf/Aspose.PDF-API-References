@@ -3,7 +3,7 @@ title: Metered.GetConsumptionCredit
 second_title: Aspose.PDF for .NET API Reference
 description: Metered method. Gets consumption credit
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method

@@ -3,7 +3,7 @@ title: TextFragmentState.LineSpacing
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets or sets line spacing of the text
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf.text/textfragmentstate/linespacing/
 ---
 ## TextFragmentState.LineSpacing property

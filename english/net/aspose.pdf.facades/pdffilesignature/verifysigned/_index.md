@@ -3,7 +3,7 @@ title: PdfFileSignature.VerifySigned
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Checks the validity of a signature
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.pdf.facades/pdffilesignature/verifysigned/
 ---
 ## PdfFileSignature.VerifySigned method

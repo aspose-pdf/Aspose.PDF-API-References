@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Metered class. Provides methods to set metered key
 type: docs
-weight: 4850
+weight: 4860
 url: /net/aspose.pdf/metered/
 ---
 ## Metered class
@@ -24,9 +24,11 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
+| [GetProductName](../../aspose.pdf/metered/getproductname/)() | Get the Product Name. |
 | [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
 | static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit/)() | Gets consumption credit. |
 | static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity/)() | Gets consumption file size. |
+| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | Check whether metered is licensed. |
 
 ## Examples
 

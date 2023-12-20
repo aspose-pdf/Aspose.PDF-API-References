@@ -3,7 +3,7 @@ title: DocSaveOptions.RelativeHorizontalProximity
 second_title: Aspose.PDF for .NET API Reference
 description: DocSaveOptions property. In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. So to detect words sometimes we need detect groups of independent chars that are in fact words. This setting defines width of space between text elementsletters syllables that must be treated as distance between words during recognition of words in source PDF. presence of empty space at least with this width between letters means that textual elements pertain to different words. Its normed to font size  1.0 means 100 of supposed words font size. ATTENTIONIts used only in cases when source PDF contains specific rarely used fonts for which optimal value cannot be calculated from font. So in vast majority of cases this parameter changes nothing in result document
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf/docsaveoptions/relativehorizontalproximity/
 ---
 ## DocSaveOptions.RelativeHorizontalProximity property

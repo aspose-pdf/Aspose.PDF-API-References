@@ -3,7 +3,7 @@ title: Class PdfFormTextBoxFieldSetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfFormTextBoxFieldSetOptions class. Represents options for set properties in TextBoxField
 type: docs
-weight: 6610
+weight: 6700
 url: /net/aspose.pdf.plugins/pdfformtextboxfieldsetoptions/
 ---
 ## PdfFormTextBoxFieldSetOptions class

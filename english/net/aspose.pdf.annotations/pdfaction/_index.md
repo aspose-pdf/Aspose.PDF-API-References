@@ -20,6 +20,12 @@ public abstract class PdfAction : IAppointment
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * interface [IAppointment](../iappointment/)

@@ -3,7 +3,7 @@ title: DocSaveOptions.Mode
 second_title: Aspose.PDF for .NET API Reference
 description: DocSaveOptions property. Recognition mode
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf/docsaveoptions/mode/
 ---
 ## DocSaveOptions.Mode property

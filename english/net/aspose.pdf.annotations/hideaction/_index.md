@@ -34,6 +34,12 @@ public class HideAction : PdfAction
 | [IsHidden](../../aspose.pdf.annotations/hideaction/ishidden/) { get; set; } | Gets or sets status of the annotation(s) to hide/display. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * class [PdfAction](../pdfaction/)

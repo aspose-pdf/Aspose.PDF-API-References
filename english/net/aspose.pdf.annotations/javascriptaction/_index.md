@@ -27,6 +27,12 @@ public sealed class JavascriptAction : PdfAction
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 | [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | Gets or sets javascript code. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * class [PdfAction](../pdfaction/)

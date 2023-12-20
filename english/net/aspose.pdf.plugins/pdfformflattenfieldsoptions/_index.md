@@ -3,7 +3,7 @@ title: Class PdfFormFlattenFieldsOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfFormFlattenFieldsOptions class. Represents options for flatten all Fields not annotations on specified pages of document by PdfForm plugin
 type: docs
-weight: 6570
+weight: 6660
 url: /net/aspose.pdf.plugins/pdfformflattenfieldsoptions/
 ---
 ## PdfFormFlattenFieldsOptions class

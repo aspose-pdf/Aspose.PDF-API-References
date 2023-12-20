@@ -3,7 +3,7 @@ title: TextFragmentState.MeasureString
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState method. Measures the string
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.pdf.text/textfragmentstate/measurestring/
 ---
 ## TextFragmentState.MeasureString method

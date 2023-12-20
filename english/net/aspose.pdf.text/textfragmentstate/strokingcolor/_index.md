@@ -3,7 +3,7 @@ title: TextFragmentState.StrokingColor
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets or sets color stroking operations of TextFragment rendering stroke text rectangle border
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.pdf.text/textfragmentstate/strokingcolor/
 ---
 ## TextFragmentState.StrokingColor property

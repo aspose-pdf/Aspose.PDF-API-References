@@ -19,7 +19,7 @@ public class InvalidFileFormatException : PdfException
 | Name | Description |
 | --- | --- |
 | [InvalidFileFormatException](invalidfileformatexception/#constructor)() | Initializes a new instance of the `InvalidFileFormatException` class. |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | Initializes a new instance of the `InvalidFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | Initializes a new instance of the `InvalidFileFormatException` class with a reference to the inner exception that is the cause of this exception. |
 | [InvalidFileFormatException](invalidfileformatexception/#constructor_2)(string) | Initializes a new instance of the `InvalidFileFormatException` class. |
 | [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | Initializes a new instance of the `InvalidFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 

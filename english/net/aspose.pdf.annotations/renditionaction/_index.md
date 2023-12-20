@@ -23,6 +23,12 @@ public sealed class RenditionAction : PdfAction
 | [Rendition](../../aspose.pdf.annotations/renditionaction/rendition/) { get; } | Gets or sets rendition associated with the action. |
 | [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | The operation to perform when the action is triggered. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * class [PdfAction](../pdfaction/)

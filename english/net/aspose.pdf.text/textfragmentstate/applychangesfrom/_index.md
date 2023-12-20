@@ -3,7 +3,7 @@ title: TextFragmentState.ApplyChangesFrom
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState method. Applies settings from another textState
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.pdf.text/textfragmentstate/applychangesfrom/
 ---
 ## TextFragmentState.ApplyChangesFrom method

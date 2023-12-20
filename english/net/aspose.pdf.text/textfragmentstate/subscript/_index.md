@@ -3,7 +3,7 @@ title: TextFragmentState.Subscript
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets or sets subscript of the text represented by the TextFragment object
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf.text/textfragmentstate/subscript/
 ---
 ## TextFragmentState.Subscript property

@@ -3,7 +3,7 @@ title: Class OperatorCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.OperatorCollection class. Class represents collection of operators
 type: docs
-weight: 4950
+weight: 4970
 url: /net/aspose.pdf/operatorcollection/
 ---
 ## OperatorCollection class

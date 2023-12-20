@@ -3,7 +3,7 @@ title: Class SetGray
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetGray class. Set gray level for nonstroking operations
 type: docs
-weight: 5590
+weight: 5610
 url: /net/aspose.pdf.operators/setgray/
 ---
 ## SetGray class

@@ -1,17 +1,17 @@
 ---
 title: Class PdfConverterOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfConverterOptions class. Represents options for PdfConverter plugin
+description: Aspose.Pdf.Plugins.PdfConverterOptions class. Represents options for Pdf converter plugins
 type: docs
-weight: 6390
+weight: 6510
 url: /net/aspose.pdf.plugins/pdfconverteroptions/
 ---
 ## PdfConverterOptions class
 
-Represents options for [`PdfConverter`](../pdfconverter/) plugin.
+Represents options for Pdf converter plugins.
 
 ```csharp
-public class PdfConverterOptions : IPluginOptions
+public abstract class PdfConverterOptions : IPluginOptions
 ```
 
 ## Properties
@@ -19,7 +19,7 @@ public class PdfConverterOptions : IPluginOptions
 | Name | Description |
 | --- | --- |
 | [DataCollection](../../aspose.pdf.plugins/pdfconverteroptions/datacollection/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| virtual [OperationName](../../aspose.pdf.plugins/pdfconverteroptions/operationname/) { get; } | Returns operation name. |
+| abstract [OperationName](../../aspose.pdf.plugins/pdfconverteroptions/operationname/) { get; } | Returns operation name. |
 | [SaveTargetsCollection](../../aspose.pdf.plugins/pdfconverteroptions/savetargetscollection/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods

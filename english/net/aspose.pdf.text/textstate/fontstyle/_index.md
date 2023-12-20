@@ -3,7 +3,7 @@ title: TextState.FontStyle
 second_title: Aspose.PDF for .NET API Reference
 description: TextState property. Sets font style of the text
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf.text/textstate/fontstyle/
 ---
 ## TextState.FontStyle property

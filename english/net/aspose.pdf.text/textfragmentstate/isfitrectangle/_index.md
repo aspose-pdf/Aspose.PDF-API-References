@@ -3,7 +3,7 @@ title: TextFragmentState.IsFitRectangle
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState method. Checks if input string could be placed inside defined rectangle
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.pdf.text/textfragmentstate/isfitrectangle/
 ---
 ## TextFragmentState.IsFitRectangle method

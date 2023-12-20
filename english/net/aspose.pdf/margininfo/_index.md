@@ -3,7 +3,7 @@ title: Class MarginInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.MarginInfo class. This class represents a margin for different objects
 type: docs
-weight: 4800
+weight: 4810
 url: /net/aspose.pdf/margininfo/
 ---
 ## MarginInfo class

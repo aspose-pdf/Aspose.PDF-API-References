@@ -3,7 +3,7 @@ title: Class SvgSaveOptions.SvgImageSavingInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.SvgSaveOptionsSvgImageSavingInfo class. This class represents set of data that related to external resource image files saving during PDF to HTML conversion
 type: docs
-weight: 7410
+weight: 7510
 url: /net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/
 ---
 ## SvgSaveOptions.SvgImageSavingInfo class

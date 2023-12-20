@@ -3,7 +3,7 @@ title: TextState.LineSpacing
 second_title: Aspose.PDF for .NET API Reference
 description: TextState property. Gets or sets line spacing of the text
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf.text/textstate/linespacing/
 ---
 ## TextState.LineSpacing property

@@ -3,7 +3,7 @@ title: TextFragmentState.TabStops
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets tabstops for the text
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.pdf.text/textfragmentstate/tabstops/
 ---
 ## TextFragmentState.TabStops property

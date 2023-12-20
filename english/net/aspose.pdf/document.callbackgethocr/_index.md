@@ -16,7 +16,7 @@ public delegate string CallBackGetHocr(Image img);
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| img | Image | The hocr image wrapper [`PdfImage`](../../aspose.pdf.plugins/pdfimage/). |
+| img | Image | The hocr image wrapper !:PdfImage. |
 
 ### Return Value
 

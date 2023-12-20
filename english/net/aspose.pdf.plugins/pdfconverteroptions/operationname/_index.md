@@ -11,7 +11,7 @@ url: /net/aspose.pdf.plugins/pdfconverteroptions/operationname/
 Returns operation name.
 
 ```csharp
-public virtual string OperationName { get; }
+public abstract string OperationName { get; }
 ```
 
 ### See Also

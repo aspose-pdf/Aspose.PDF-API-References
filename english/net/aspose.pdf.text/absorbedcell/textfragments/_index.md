@@ -3,7 +3,7 @@ title: AbsorbedCell.TextFragments
 second_title: Aspose.PDF for .NET API Reference
 description: AbsorbedCell property. Gets collection of TextFragment objects that describes text containing in the cell
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf.text/absorbedcell/textfragments/
 ---
 ## AbsorbedCell.TextFragments property

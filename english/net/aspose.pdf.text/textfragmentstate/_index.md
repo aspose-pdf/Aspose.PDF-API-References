@@ -3,7 +3,7 @@ title: Class TextFragmentState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFragmentState class. Represents a text state of a text fragment
 type: docs
-weight: 8060
+weight: 8170
 url: /net/aspose.pdf.text/textfragmentstate/
 ---
 ## TextFragmentState class
@@ -26,6 +26,7 @@ public sealed class TextFragmentState : TextState
 | --- | --- |
 | override [BackgroundColor](../../aspose.pdf.text/textfragmentstate/backgroundcolor/) { get; set; } | Sets background color of the text, represented by the [`TextFragment`](../textfragment/) object |
 | override [CharacterSpacing](../../aspose.pdf.text/textfragmentstate/characterspacing/) { get; set; } | Gets or sets character spacing of the text, represented by the [`TextFragment`](../textfragment/) object. |
+| override [CoordinateOrigin](../../aspose.pdf.text/textfragmentstate/coordinateorigin/) { get; set; } | Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering. |
 | [DrawTextRectangleBorder](../../aspose.pdf.text/textfragmentstate/drawtextrectangleborder/) { get; set; } | Gets or sets if text rectangle border drawn flag. |
 | override [Font](../../aspose.pdf.text/textfragmentstate/font/) { get; set; } | Gets or sets font of the text, represented by the [`TextFragment`](../textfragment/) object |
 | override [FontSize](../../aspose.pdf.text/textfragmentstate/fontsize/) { get; set; } | Gets or sets font size of the text, represented by the [`TextFragment`](../textfragment/) object |
@@ -38,7 +39,7 @@ public sealed class TextFragmentState : TextState
 | override [LineSpacing](../../aspose.pdf.text/textfragmentstate/linespacing/) { get; set; } | Gets or sets line spacing of the text. |
 | override [RenderingMode](../../aspose.pdf.text/textfragmentstate/renderingmode/) { get; set; } | Gets or sets rendering mode of the text. |
 | [Rotation](../../aspose.pdf.text/textfragmentstate/rotation/) { get; set; } | Gets or sets rotation angle in degrees. |
-| override [StrikeOut](../../aspose.pdf.text/textfragmentstate/strikeout/) { set; } | Sets strikeout for the text, represented by the [`TextFragment`](../textfragment/) object |
+| override [StrikeOut](../../aspose.pdf.text/textfragmentstate/strikeout/) { get; set; } | Gets or sets strikeout for the text, represented by the [`TextFragment`](../textfragment/) object |
 | override [StrokingColor](../../aspose.pdf.text/textfragmentstate/strokingcolor/) { get; set; } | Gets or sets color stroking operations of [`TextFragment`](../textfragment/) rendering (stroke text, rectangle border) |
 | override [Subscript](../../aspose.pdf.text/textfragmentstate/subscript/) { get; set; } | Gets or sets subscript of the text, represented by the [`TextFragment`](../textfragment/) object. |
 | override [Superscript](../../aspose.pdf.text/textfragmentstate/superscript/) { get; set; } | Gets or sets superscript of the text, represented by the [`TextFragment`](../textfragment/) object. |

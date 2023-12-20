@@ -59,6 +59,7 @@ public sealed class PdfFileSignature : SaveableFacade
 | [GetTotalRevision](../../aspose.pdf.facades/pdffilesignature/gettotalrevision/)() | Gets the toltal revision. |
 | [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature)(string) | Remove the signature according to the name of the signature. |
 | [RemoveSignature](../../aspose.pdf.facades/pdffilesignature/removesignature/#removesignature_1)(string, bool) | Removes the signature according to the name of the signature. |
+| [RemoveSignatures](../../aspose.pdf.facades/pdffilesignature/removesignatures/)() | Removes all signatures. |
 | [RemoveUsageRights](../../aspose.pdf.facades/pdffilesignature/removeusagerights/)() | Removes the usage rights entry. |
 | override [Save](../../aspose.pdf.facades/pdffilesignature/save/#save_1)(Stream) | Saves the result PDF to stream. |
 | override [Save](../../aspose.pdf.facades/pdffilesignature/save/#save_2)(string) | Saves the result PDF to file. |

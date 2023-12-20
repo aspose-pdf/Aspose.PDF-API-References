@@ -3,7 +3,7 @@ title: Class XFormCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XFormCollection class. Class represents collection of XFormCollection
 type: docs
-weight: 8440
+weight: 8550
 url: /net/aspose.pdf/xformcollection/
 ---
 ## XFormCollection class
@@ -32,10 +32,11 @@ public sealed class XFormCollection : ICollection<XForm>
 | [Clear](../../aspose.pdf/xformcollection/clear/)() | Clears all items from the collection. |
 | [Contains](../../aspose.pdf/xformcollection/contains/)(XForm) | Determines whether the collection contains a specific value. |
 | [CopyTo](../../aspose.pdf/xformcollection/copyto/)(XForm[], int) | Copies XFormCollection into collection. |
-| [Delete](../../aspose.pdf/xformcollection/delete/#delete)() | Deletes all XForms from collection. |
-| [Delete](../../aspose.pdf/xformcollection/delete/#delete_1)(int) | Delete XForm from collectin |
+| [Delete](../../aspose.pdf/xformcollection/delete/#delete)() | Deletes all XForms from the collection. |
+| [Delete](../../aspose.pdf/xformcollection/delete/#delete_1)(int) | Delete XForm from collection |
 | [Delete](../../aspose.pdf/xformcollection/delete/#delete_2)(string) | Deletes XForm from collection by form name. |
-| [GetEnumerator](../../aspose.pdf/xformcollection/getenumerator/)() | Retunrs collection enumerator. |
+| [GetEnumerator](../../aspose.pdf/xformcollection/getenumerator/)() | Returns collection enumerator. |
+| [GetFormName](../../aspose.pdf/xformcollection/getformname/)(XForm) | Returns name of the form in this form collection. |
 | [Remove](../../aspose.pdf/xformcollection/remove/)(XForm) | Deletes specified item from collection. |
 
 ### See Also

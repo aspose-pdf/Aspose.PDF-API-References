@@ -3,7 +3,7 @@ title: Class XFormPlacement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.XFormPlacement class. Represents XForm placement. If the XForm is displayed on the page more than 1 time all XformPlacements associated with this XForm will have common graphical elements but different graphical states
 type: docs
-weight: 8360
+weight: 8470
 url: /net/aspose.pdf.vector/xformplacement/
 ---
 ## XFormPlacement class

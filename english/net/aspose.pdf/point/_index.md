@@ -3,7 +3,7 @@ title: Class Point
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Point class. Represent point with fractional coordinates
 type: docs
-weight: 6880
+weight: 6980
 url: /net/aspose.pdf/point/
 ---
 ## Point class
@@ -34,6 +34,7 @@ public sealed class Point
 | --- | --- |
 | [ToPoint](../../aspose.pdf/point/topoint/)() | Converts point into System.Drawing.PointF object. |
 | override [ToString](../../aspose.pdf/point/tostring/)() | Return string represention current point. |
+| static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | Calculates distance between two points. |
 
 ### See Also
 

@@ -22,7 +22,7 @@ public void CopyTo(XForm[] array, int index)
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../../appearancedictionary/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../../appearancedictionary/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

@@ -3,7 +3,7 @@ title: Artifact.SetTextAndState
 second_title: Aspose.PDF for .NET API Reference
 description: Artifact method. Set text and text properties of the artifact
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.pdf/artifact/settextandstate/
 ---
 ## Artifact.SetTextAndState method

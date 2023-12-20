@@ -3,7 +3,7 @@ title: Interface ICosPdfPrimitive
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.PublicData.ICosPdfPrimitive interface. Interface for work with PDF data entity
 type: docs
-weight: 8310
+weight: 8420
 url: /net/aspose.pdf.utils.publicdata/icospdfprimitive/
 ---
 ## ICosPdfPrimitive interface

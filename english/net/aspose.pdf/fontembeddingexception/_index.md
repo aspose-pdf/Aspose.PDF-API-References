@@ -18,7 +18,7 @@ public sealed class FontEmbeddingException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingException](fontembeddingexception/#constructor)(Exception) | Initializes a new instance of the `FontEmbeddingException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontEmbeddingException](fontembeddingexception/#constructor)(Exception) | Initializes a new instance of the `FontEmbeddingException` class with a reference to the inner exception that is the cause of this exception. |
 | [FontEmbeddingException](fontembeddingexception/#constructor_1)(string) | Initializes a new instance of the `FontEmbeddingException` class. |
 | [FontEmbeddingException](fontembeddingexception/#constructor_2)(string, Exception) | Initializes a new instance of the `FontEmbeddingException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 

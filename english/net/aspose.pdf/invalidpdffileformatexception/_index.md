@@ -18,7 +18,7 @@ public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
 
 | Name | Description |
 | --- | --- |
-| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor)(Exception) | Initializes a new instance of the `InvalidPdfFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor)(Exception) | Initializes a new instance of the `InvalidPdfFileFormatException` class with a reference to the inner exception that is the cause of this exception. |
 | [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_1)(string) | Initializes a new instance of the `InvalidPdfFileFormatException` class. |
 | [InvalidPdfFileFormatException](invalidpdffileformatexception/#constructor_2)(string, Exception) | Initializes a new instance of the `InvalidPdfFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 

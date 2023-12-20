@@ -3,7 +3,7 @@ title: Artifact.SetText
 second_title: Aspose.PDF for .NET API Reference
 description: Artifact method. Sets text of the artifact
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.pdf/artifact/settext/
 ---
 ## Artifact.SetText method

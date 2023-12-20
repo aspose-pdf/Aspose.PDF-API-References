@@ -27,6 +27,12 @@ public sealed class GoToURIAction : PdfAction
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 | [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | Gets or sets the uniform resource identifier to resolve. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * class [PdfAction](../pdfaction/)

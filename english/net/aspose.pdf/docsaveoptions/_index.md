@@ -27,6 +27,7 @@ public class DocSaveOptions : UnifiedSaveOptions, IPipelineOptions
 | [AddReturnToLineEnd](../../aspose.pdf/docsaveoptions/addreturntolineend/) { get; set; } | Use paragraph or line breaks |
 | [BatchSize](../../aspose.pdf/docsaveoptions/batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
+| [ConvertType3Fonts](../../aspose.pdf/docsaveoptions/converttype3fonts/) { get; set; } | Gets or sets conversion for Type3 fonts. In Type 3 fonts, glyphs shall be defined by streams of graphics operators. This means that in the DOC/DOCX output we see images instead of text. Set this flag to true to convert Type3 fonts to TTF and get text in the resulting file. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
 | [Format](../../aspose.pdf/docsaveoptions/format/) { get; set; } | Output format |
 | [ImageResolutionX](../../aspose.pdf/docsaveoptions/imageresolutionx/) { get; set; } | Converted images X resolution. |

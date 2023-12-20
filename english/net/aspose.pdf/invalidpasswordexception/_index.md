@@ -18,7 +18,7 @@ public sealed class InvalidPasswordException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | Initializes a new instance of the `InvalidPasswordException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | Initializes a new instance of the `InvalidPasswordException` class with a reference to the inner exception that is the cause of this exception. |
 | [InvalidPasswordException](invalidpasswordexception/#constructor_1)(string) | Initializes a new instance of the `InvalidPasswordException` class. |
 | [InvalidPasswordException](invalidpasswordexception/#constructor_2)(string, Exception) | Initializes a new instance of the `InvalidPasswordException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 

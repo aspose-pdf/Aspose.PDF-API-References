@@ -11,12 +11,12 @@ url: /net/aspose.pdf/xformcollection/add/
 Adds new XForm into collection.
 
 ```csharp
-public void Add(XForm xform)
+public void Add(XForm item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xform | XForm | XForm to add into collection |
+| item | XForm | XForm to add into collection. |
 
 ### See Also
 

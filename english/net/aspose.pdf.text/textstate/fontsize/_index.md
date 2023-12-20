@@ -3,7 +3,7 @@ title: TextState.FontSize
 second_title: Aspose.PDF for .NET API Reference
 description: TextState property. Gets or sets font size of the text
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.text/textstate/fontsize/
 ---
 ## TextState.FontSize property

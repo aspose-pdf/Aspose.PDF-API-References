@@ -3,7 +3,7 @@ title: Aspose.Pdf.Plugins
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Plugins is a root namespace for all classes of Aspose.Pdf.Plugins classes which are either directly in it like PdfOrganizer or indirectly through several subnamespaces
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.pdf.plugins/
 ---
 The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plugins classes which are either directly in it like **PdfOrganizer** or indirectly through several subnamespaces.
@@ -18,12 +18,15 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [FieldOptions](./fieldoptions/) | Represents Field options. Base class for PdfFormFieldCreateOptions and PdfFormFillFieldOptions. |
 | [FileDataSource](./filedatasource/) | Represents file data source for load and save operations of a plugin. |
 | [FileResult](./fileresult/) | Represents operation result in the form of string path to file. |
-| [PdfConverter](./pdfconverter/) | Represents PdfConverter plugin. |
-| [PdfConverterHtmlToPdfOptions](./pdfconverterhtmltopdfoptions/) | Represents HTML to PDF converter options for [`PdfConverter`](../aspose.pdf.plugins/pdfconverter/) plugin. |
-| [PdfConverterOptions](./pdfconverteroptions/) | Represents options for [`PdfConverter`](../aspose.pdf.plugins/pdfconverter/) plugin. |
-| [PdfConverterToDocOptions](./pdfconvertertodocoptions/) | Represents PDF to DOC converter options for [`PdfConverter`](../aspose.pdf.plugins/pdfconverter/) plugin. |
-| [PdfConverterToExcelOptions](./pdfconvertertoexceloptions/) | Represents PDF to XLSX converter options for [`PdfConverter`](../aspose.pdf.plugins/pdfconverter/) plugin. |
-| [PdfConverterToHtmlOptions](./pdfconvertertohtmloptions/) | Represents PDF to HTML converter options for [`PdfConverter`](../aspose.pdf.plugins/pdfconverter/) plugin. |
+| [HtmlToPdfOptions](./htmltopdfoptions/) | Represents HTML to PDF converter options for [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
+| [Jpeg](./jpeg/) | Represents Pdf to Jpeg plugin. |
+| [JpegOptions](./jpegoptions/) | Represents Pdf to Jpeg converter options for the [`Jpeg`](../aspose.pdf.plugins/jpeg/) plugin. |
+| [MergeOptions](./mergeoptions/) | Represents Merge options for [`Merger`](../aspose.pdf.plugins/merger/) plugin. |
+| [Merger](./merger/) | Represents [`Merger`](../aspose.pdf.plugins/merger/) plugin. |
+| [ObjectResult](./objectresult/) | Represents operation result in the form of string. |
+| [PdfConverterOptions](./pdfconverteroptions/) | Represents options for Pdf converter plugins. |
+| [PdfDoc](./pdfdoc/) | Represents [`PdfDoc`](../aspose.pdf.plugins/pdfdoc/) plugin. |
+| [PdfExcel](./pdfexcel/) | Represents [`PdfExcel`](../aspose.pdf.plugins/pdfexcel/) plugin. |
 | [PdfExtractor](./pdfextractor/) | Represents PdfExtractor plugin. |
 | [PdfExtractorOptions](./pdfextractoroptions/) | Represents options for the PdfExtractor plugin. |
 | [PdfExtractorToImageOptions](./pdfextractortoimageoptions/) | Represents images extraction options for the PdfExtractor plugin. |
@@ -39,30 +42,29 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [PdfFormRemoveFieldsOptions](./pdfformremovefieldsoptions/) | Represents options for remove all Fields from specified pages of document by PdfForm plugin. |
 | [PdfFormSetFieldOptions](./pdfformsetfieldoptions/) | Represents options for set fields (not annotations) properties. |
 | [PdfFormTextBoxFieldSetOptions](./pdfformtextboxfieldsetoptions/) | Represents options for set properties in TextBoxField. |
-| [PdfGenerator](./pdfgenerator/) | Represents PdfGenerator plugin. |
-| [PdfGeneratorOptions](./pdfgeneratoroptions/) | Represents options for [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator/) plugin. |
-| [PdfGeneratorTableBuilder](./pdfgeneratortablebuilder/) | Class represents builder for table in pdf page. |
-| [PdfGeneratorTableCellBuilder](./pdfgeneratortablecellbuilder/) | Class represents builder for table cell. |
-| [PdfGeneratorTableOptions](./pdfgeneratortableoptions/) | Represents options for add datatable to document by [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator/) plugin. |
-| [PdfGeneratorTableRowBuidler](./pdfgeneratortablerowbuidler/) | Class represents builder for table row. |
-| [PdfGeneratorTOCOptions](./pdfgeneratortocoptions/) | Represents options for add table of contents to document by [`PdfGenerator`](../aspose.pdf.plugins/pdfgenerator/) plugin. |
-| [PdfImage](./pdfimage/) | Represents PdfImage plugin. |
-| [PdfImageOptions](./pdfimageoptions/) | Represents options for the PdfImage plugin. |
-| [PdfImageToJpegOptions](./pdfimagetojpegoptions/) | Represents Pdf to Jpeg convertor options for the PdfImage plugin. |
-| [PdfOrganizer](./pdforganizer/) | Represents PdfOrganizer plugin. |
-| [PdfOrganizerCompressOptions](./pdforganizercompressoptions/) | Represents Compress options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer/) plugin. |
-| [PdfOrganizerMergeOptions](./pdforganizermergeoptions/) | Represents Merge options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer/) plugin. |
-| [PdfOrganizerOptimizeOptions](./pdforganizeroptimizeoptions/) | Represents Optimize options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer/) plugin. |
-| [PdfOrganizerOptions](./pdforganizeroptions/) | Represents options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer/) plugin. |
-| [PdfOrganizerResizeOptions](./pdforganizerresizeoptions/) | Represents Resize options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer/) plugin. |
-| [PdfOrganizerRotateOptions](./pdforganizerrotateoptions/) | Represents Rotate options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer/) plugin. |
-| [PdfOrganizerSplitOptions](./pdforganizersplitoptions/) | Represents Split options for [`PdfOrganizer`](../aspose.pdf.plugins/pdforganizer/) plugin. |
+| [PdfGeneratorOptions](./pdfgeneratoroptions/) | Represents options for Generator plugins. |
+| [PdfHtml](./pdfhtml/) | Represents [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
+| [PdfOrganizerOptions](./pdforganizeroptions/) | Represents options for PdfOrganizer plugin. |
+| [PdfToDocOptions](./pdftodocoptions/) | Represents PDF to DOC converter options for [`PdfDoc`](../aspose.pdf.plugins/pdfdoc/) plugin. |
+| [PdfToExcelOptions](./pdftoexceloptions/) | Represents PDF to XLSX converter options for [`PdfExcel`](../aspose.pdf.plugins/pdfexcel/) plugin. |
+| [PdfToHtmlOptions](./pdftohtmloptions/) | Represents PDF to HTML converter options for [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
+| [PdfToImage](./pdftoimage/) | Represents PDF to image plugin. |
+| [PdfToImageOptions](./pdftoimageoptions/) | Represents options for the [`PdfToImage`](../aspose.pdf.plugins/pdftoimage/) plugin. |
+| [Png](./png/) | Represents Pdf to Png plugin. |
+| [PngOptions](./pngoptions/) | Represents Pdf to Png converter options for the [`Png`](../aspose.pdf.plugins/png/) plugin. |
 | [ResultContainer](./resultcontainer/) | Represents container that contains the result collection of processing the plugin. |
 | [SelectField](./selectfield/) |  |
 | [StreamDataSource](./streamdatasource/) | Represents stream data source for load and save operations of a plugin. |
 | [StreamResult](./streamresult/) | Represents operation result in the form of Stream. |
 | [StringResult](./stringresult/) | Represents operation result in the form of string. |
+| [TableBuilder](./tablebuilder/) | Class represents builder for table in pdf page. |
+| [TableCellBuilder](./tablecellbuilder/) | Class represents builder for table cell. |
+| [TableGenerator](./tablegenerator/) | Represents Aspose.PDF TableGenerator plugin. |
+| [TableOptions](./tableoptions/) | Represents options for add table to document by [`TableGenerator`](../aspose.pdf.plugins/tablegenerator/) plugin. |
+| [TableRowBuilder](./tablerowbuilder/) | Class represents builder for table row. |
 | [TextBoxFieldCreateOptions](./textboxfieldcreateoptions/) | Represents options for creating TextBoxField. |
+| [TocGenerator](./tocgenerator/) | Represents Aspose.PDF TocGenerator plugin. |
+| [TocOptions](./tocoptions/) | Represents options for add table of contents to document by [`TocGenerator`](../aspose.pdf.plugins/tocgenerator/) plugin. |
 ## Interfaces
 
 | Interface | Description |
