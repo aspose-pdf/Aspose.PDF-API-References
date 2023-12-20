@@ -20,7 +20,7 @@ Aspose.PDF es un componente .NET creado para permitir a los desarrolladores crea
 
 Estos son enlaces a algunos recursos útiles:
 - [Referencia de API de Aspose.PDF para .NET](/pdf/es/net/)
-- [Tutoriales de Aspose.PDF para la API de .NET](/tutorials/es/pdf/net/)
+- [Tutoriales de Aspose.PDF para la API de .NET](/tutorials/pdf/es/net/)
 
 
 ## Aspose.PDF para Java
@@ -35,6 +35,7 @@ Aspose.PDF es un componente de Java creado para permitir a los desarrolladores c
 
 Estos son enlaces a algunos recursos útiles:
 - [Referencia de la API de Aspose.PDF para Java](/pdf/java/)
+- [Aspose.PDF para tutoriales de API de Java](/tutorials/pdf/es/java/)
 
 
 ## Aspose.PDF para C++

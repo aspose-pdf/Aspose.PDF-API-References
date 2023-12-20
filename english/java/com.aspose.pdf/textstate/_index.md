@@ -47,8 +47,8 @@ Represents a text state of a text
 | [setSuperscript(boolean value)](#setSuperscript-boolean-) | Sets superscript of the text. |
 | [getWordSpacing()](#getWordSpacing--) | Gets word spacing of the text. |
 | [setWordSpacing(float value)](#setWordSpacing-float-) | Sets word spacing of the text. |
-| [isInvisible()](#isInvisible--) | Gets or sets the invisibility of text. |
-| [setInvisible(boolean value)](#setInvisible-boolean-) | Gets or sets the invisibility of text. |
+| [isInvisible()](#isInvisible--) | Gets the invisibility of text. |
+| [setInvisible(boolean value)](#setInvisible-boolean-) | Sets the invisibility of text. |
 | [getRenderingMode()](#getRenderingMode--) | Gets or sets rendering mode of text. |
 | [setRenderingMode(int value)](#setRenderingMode-int-) | Gets or sets rendering mode of text. |
 | [getFontSize()](#getFontSize--) | Gets font size of the text. |
@@ -355,7 +355,7 @@ public boolean isInvisible()
 ```
 
 
-Gets or sets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode\#getRenderingMode/\#setRenderingMode(int)\#setRenderingMode(int)) state, except for some special cases (like clipping).
+Gets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode\#getRenderingMode/\#setRenderingMode(int)\#setRenderingMode(int)) state, except for some special cases (like clipping).
 
 **Returns:**
 boolean - boolean value
@@ -365,7 +365,7 @@ public void setInvisible(boolean value)
 ```
 
 
-Gets or sets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode\#getRenderingMode/\#setRenderingMode(int)\#setRenderingMode(int)) state, except for some special cases (like clipping).
+Sets the invisibility of text. This basically reflects the  RenderingMode (\#getRenderingMode\#getRenderingMode/\#setRenderingMode(int)\#setRenderingMode(int)) state, except for some special cases (like clipping).
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -18,7 +18,7 @@ Represents a class to produce PDF from other formats.
 
 ```
 This sample shows how to produce Pdf file from CGM file.
- 
+
  String inputFile = "myImage.cgm";
  String outputFile = "myPdf.pdf";
  try
@@ -89,7 +89,7 @@ Produce the PDF file using specified import format.
 
 ```
 This sample shows how to produce Pdf file from CGM stream.
- 
+
  String inputFile = "myImage.cgm";
  String outputFile = "myPdf.pdf";
  using (FileInputStream inputStream = File.OpenRead(inputFile))
@@ -118,7 +118,7 @@ Produce the PDF file using specified import format.
 
 ```
 This sample shows how to produce Pdf file from CGM file.
- 
+
  String inputFile = "myImage.cgm";
  String outputFile = "myPdf.pdf";
  PdfProducer.produce(inputFile, ImportFormat.Cgm, outputFile);
@@ -173,7 +173,7 @@ Produce the PDF file using specified import option.
 
 ```
 This sample shows how to produce Pdf file from CGM file.
- 
+
  String inputFile = "myImage.cgm";
  String outputFile = "myPdf.pdf";
  ImportOptions importOptions = new CgmImportOptions();
@@ -199,7 +199,7 @@ Produce the PDF file using specified import option.
 
 ```
 This sample shows how to produce Pdf stream from CGM stream.
- 
+
  String inputFile = "myImage.cgm";
  String outputFile = "myPdf.pdf";
  ImportOptions importOptions = new CgmImportOptions();

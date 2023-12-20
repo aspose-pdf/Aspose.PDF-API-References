@@ -507,9 +507,9 @@ Sets starting number for first page in input file. Next pages will be numbered s
 
 ```
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- fileStamp.setStartingNumber(100);
- fileStamp.addPageNumber("Page #");
- fileStamp.close();
+              fileStamp.setStartingNumber(100);
+              fileStamp.addPageNumber("Page #");
+              fileStamp.close();
 ``` |
 
 ### close() {#close--}
@@ -524,7 +524,7 @@ Closes opened files and saves changes. Warning. If input or output streams are s
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- //do some work... 
+ //do some work...
  stamp.close();
 ```
 

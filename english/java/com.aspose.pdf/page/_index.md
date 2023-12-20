@@ -10,9 +10,9 @@ url: /java/com.aspose.pdf/page/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.ms.System.IDisposable, java.io.Closeable, com.aspose.pdf.ISupportsMemoryCleanup
+com.aspose.ms.System.IDisposable, java.io.Closeable, com.aspose.pdf.ISupportsMemoryCleanup, [com.aspose.pdf.engine.IOperatorContainer](../../com.aspose.pdf.engine/ioperatorcontainer)
 ```
-public final class Page implements System.IDisposable, Closeable, ISupportsMemoryCleanup
+public final class Page implements System.IDisposable, Closeable, ISupportsMemoryCleanup, IOperatorContainer
 ```
 
 Class representing page of PDF document.
@@ -226,7 +226,7 @@ public List<Layer> getLayers()
 Gets layers collection.
 
 **Returns:**
-java.util.List<com.aspose.pdf.Layer> - Value: The layers collection.
+java.util.List<com.aspose.pdf.Layer> - Value: The layers' collection.
 ### setLayers(ArrayList<Layer> value) {#setLayers-java.util.ArrayList-com.aspose.pdf.Layer--}
 ```
 public void setLayers(ArrayList<Layer> value)

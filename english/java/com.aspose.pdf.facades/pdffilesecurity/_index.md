@@ -491,7 +491,9 @@ public boolean changePassword(String ownerPassword, String newUserPassword, Stri
 ```
 
 
-Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed.
+Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty.
+
+Throws an exception if process failed.
 
 --------------------
 

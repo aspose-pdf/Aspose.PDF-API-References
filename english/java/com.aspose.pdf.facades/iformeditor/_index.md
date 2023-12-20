@@ -279,11 +279,11 @@ Sets options for combo box with export values.
 
 ```
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_Updated.pdf"));
- formEditor.setExportItems ( new String[][] 
- { 
-     new String[] { "1", "Firs" }, 
-     new String[] { "2", "Second" }, 
-     new String[] { "3", "Third" } 
+ formEditor.setExportItems ( new String[][]
+ {
+     new String[] { "1", "Firs" },
+     new String[] { "2", "Second" },
+     new String[] { "3", "Third" }
  });
  formEditor.addField(FieldType.ListBox, "AddedListBoxField", "Second", 1, 10, 30, 110, 130);
  formEditor.save();
@@ -408,8 +408,8 @@ public abstract double getRadioButtonItemSize()
 
 ```
 Gets or sets size of radio button item size (when new radio button field is added).
- 
- 
+
+
  FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
  formEditor.setRadioHoriz(false);
@@ -430,8 +430,8 @@ public abstract void setRadioButtonItemSize(double value)
 
 ```
 Gets or sets size of radio button item size (when new radio button field is added).
- 
- 
+
+
  FormEditor formEditor = new com.aspose.pdf.facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
  formEditor.setRadioGap(4);
  formEditor.setRadioHoriz(false);

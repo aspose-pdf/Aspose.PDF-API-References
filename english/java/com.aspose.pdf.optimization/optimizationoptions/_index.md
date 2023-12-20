@@ -33,6 +33,7 @@ Class which describes document optimization algorithm. Instance of this class ma
 | [getRemoveUnusedObjects()](#getRemoveUnusedObjects--) | If this flag is set to true, all document objects will be checked and unused objects (i.e. |
 | [setRemoveUnusedObjects(boolean value)](#setRemoveUnusedObjects-boolean-) | If this flag is set to true, all document objects will be checked and unused objects (i.e. |
 | [getImageCompressionOptions()](#getImageCompressionOptions--) | Set of options which describe will images in the document be compressed and parameters of the compression. |
+| [setImageCompressionOptions(ImageCompressionOptions value)](#setImageCompressionOptions-com.aspose.pdf.optimization.ImageCompressionOptions-) | Set of options which describe will images in the document be compressed and parameters of the compression. |
 | [getCompressImages()](#getCompressImages--) | If this flag is set to true images will be compressed in the document. |
 | [setCompressImages(boolean value)](#setCompressImages-boolean-) | If this flag is set to true images will be compressed in the document. |
 | [getResizeImages()](#getResizeImages--) | If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter. |
@@ -181,6 +182,19 @@ Set of options which describe will images in the document be compressed and para
 
 **Returns:**
 [ImageCompressionOptions](../../com.aspose.pdf.optimization/imagecompressionoptions) - ImageCompressionOptions instance
+### setImageCompressionOptions(ImageCompressionOptions value) {#setImageCompressionOptions-com.aspose.pdf.optimization.ImageCompressionOptions-}
+```
+public final void setImageCompressionOptions(ImageCompressionOptions value)
+```
+
+
+Set of options which describe will images in the document be compressed and parameters of the compression.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ImageCompressionOptions](../../com.aspose.pdf.optimization/imagecompressionoptions) | ImageCompressionOptions instance |
+
 ### getCompressImages() {#getCompressImages--}
 ```
 public final boolean getCompressImages()

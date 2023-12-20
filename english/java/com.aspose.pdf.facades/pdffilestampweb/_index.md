@@ -1094,7 +1094,7 @@ Closes opened files and saves changes. Warning. If input or output streams are s
 
 ```
 PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
- //do some work... 
+ //do some work...
  stamp.close();
 ```
 

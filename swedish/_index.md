@@ -20,7 +20,7 @@ Aspose.PDF är en .NET-komponent byggd för att göra det möjligt för utveckla
 
 Det här är länkar till några användbara resurser:
 - [Aspose.PDF för .NET API Referens](/pdf/sv/net/)
-- [Aspose.PDF för .NET API Tutorials](/tutorials/sv/pdf/net/)
+- [Aspose.PDF för .NET API Tutorials](/tutorials/pdf/sv/net/)
 
 
 ## Aspose.PDF för Java
@@ -35,7 +35,7 @@ Aspose.PDF är en Java-komponent byggd för att göra det möjligt för utveckla
 
 Det här är länkar till några användbara resurser:
 - [Aspose.PDF för Java API Referens](/pdf/java/)
-
+- [Aspose.PDF för Java API Tutorials](/tutorials/pdf/sv/java/)
 
 ## Aspose.PDF för C++
 

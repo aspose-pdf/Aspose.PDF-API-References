@@ -3,7 +3,7 @@ title: com.aspose.pdf.nameddestinations
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.nameddestinations package provides classes  which describes Named Destinations.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.pdf.nameddestinations/
 ---
 

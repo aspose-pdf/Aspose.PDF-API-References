@@ -31,7 +31,7 @@ Represents a rows collection of table.
 | [remove(Row row)](#remove-com.aspose.pdf.Row-) | Remove row from collection. |
 | [removeAt(int index)](#removeAt-int-) | Remove row at position from collection. |
 | [removeRange(int index, int count)](#removeRange-int-int-) | Remove row set from collection. |
-| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | ReservedForInternalUse For internal usage only. |
+| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | ReservedForInternalUse |
 | [iterator()](#iterator--) | Gets collection's enumerator. |
 | [getCount()](#getCount--) | The items count. |
 | [get_Item(int index)](#get-Item-int-) | Gets row. |
@@ -126,7 +126,9 @@ public System.Collections.IEnumerator iterator_Rename_Namesake()
 ```
 
 
-ReservedForInternalUse For internal usage only.
+ReservedForInternalUse
+
+For internal usage only.
 
 **Returns:**
 com.aspose.ms.System.Collections.IEnumerator - IEnumerator object

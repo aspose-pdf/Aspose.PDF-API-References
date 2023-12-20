@@ -20,7 +20,7 @@ Represents rubber stamp annotation. This type of annotation displays text or gra
 Next code snippet demonstrates how to add 2 stamps into the first pdf document page.
   Input document comes from inFile and changes are saved into the outFile.
   The first stamp has icon NotForPublicRelease and the second comes with image from rubber.jpg.
- 
+
   Document document = new Document(inFile);
   StampAnnotation stamp1 = new StampAnnotation(StampIcon.NotForPublicRelease);
  	stamp1.setRect ( new Rectangle(100, 100, 120, 120))

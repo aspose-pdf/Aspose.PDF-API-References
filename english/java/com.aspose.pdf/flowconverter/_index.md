@@ -12,7 +12,9 @@ java.lang.Object, [com.aspose.pdf.ApsUsingConverter](../../com.aspose.pdf/apsusi
 public class FlowConverter extends ApsUsingConverter
 ```
 
-Convert PDF Document to Flow formats (XLSX, ODS, XMLSpreedSheet2003, CSV) DOCX in EnchanedFlow mode, TableAbsorber in FlowEngine mode. !!! Don't port from C\# as could be ahead of .Net version !!!!
+Convert PDF Document to Flow formats (XLSX, ODS, XMLSpreedSheet2003, CSV) DOCX in EnchanedFlow mode, TableAbsorber in FlowEngine mode.
+
+!!! Don't port from C\# as could be ahead of .Net version !!!!
 ## Constructors
 
 | Constructor | Description |

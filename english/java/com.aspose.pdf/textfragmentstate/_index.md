@@ -20,28 +20,30 @@ Represents a text state of a text fragment.
 The example demonstrates how to change text color and font size of the text with ```
 TextState
 ``` object.
- 
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
-  
+
   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get(1).accept(absorber);
-  
+
   // Change foreground color of the first text occurrence
   absorber.TgetextFragments().get(1).getTextState().setForegroundColor ( java.awt.Color.RED);
   // Change font size of the first text occurrence
   absorber.getTextFragments().get(1).getTextState().setFontSize ( 15);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
 
 --------------------
 
-Provides a way to change following properties of the text: font ( TextFragmentState.Font  property) font size ( TextFragmentState.FontSize  property) font style (  TextFragmentState.FontStyle  property) foreground color (  TextFragmentState.ForegroundColor  property) background color (  TextFragmentState.BackgroundColor  property) Note that changing  TextFragmentState  properties may change inner  TextFragment.Segments  collection because TextFragment is an aggregate object and it may rearrange internal segments or merge them into single segment. If your requirement is to leave the  TextFragment.Segments  collection unchanged, please change inner segments individually.
+Provides a way to change following properties of the text: font ( TextFragmentState.Font  property) font size ( TextFragmentState.FontSize  property) font style (  TextFragmentState.FontStyle  property) foreground color (  TextFragmentState.ForegroundColor  property) background color (  TextFragmentState.BackgroundColor  property)
+
+Note that changing  TextFragmentState  properties may change inner  TextFragment.Segments  collection because TextFragment is an aggregate object and it may rearrange internal segments or merge them into single segment. If your requirement is to leave the  TextFragment.Segments  collection unchanged, please change inner segments individually.
 ## Constructors
 
 | Constructor | Description |

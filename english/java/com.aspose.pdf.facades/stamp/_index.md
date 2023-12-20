@@ -174,12 +174,12 @@ Sets array with numbers of pages which will be affected by stamp. If Pages = nul
 
 ```
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- Stamp stamp = new com.aspose.pdf.facades.Stamp();
- stamp.bindLogo(new FormattedText(text));
- //put stamp only on 1st, 4th and 6th page.
- stamp.setPages(new int[] { 1, 4, 6 });
- fileStamp.addStamp(stamp);
- fileStamp.close();
+              Stamp stamp = new com.aspose.pdf.facades.Stamp();
+              stamp.bindLogo(new FormattedText(text));
+              //put stamp only on 1st, 4th and 6th page.
+              stamp.setPages(new int[] { 1, 4, 6 });
+              fileStamp.addStamp(stamp);
+              fileStamp.close();
 ``` |
 
 ### bindTextState(TextState textState) {#bindTextState-com.aspose.pdf.TextState-}
@@ -222,11 +222,11 @@ Gets or sets rotation of the stamp in degrees.
 
 ```
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
- Stamp stamp = new Stamp();
- stamp.bindLogo(new FormattedText("STAMP"));
- stamp.setRotation(90);
- fileStamp.addStamp(stamp);
- fileStamp.close();
+              Stamp stamp = new Stamp();
+              stamp.bindLogo(new FormattedText("STAMP"));
+              stamp.setRotation(90);
+              fileStamp.addStamp(stamp);
+              fileStamp.close();
 ``` |
 
 ### isBackground() {#isBackground--}

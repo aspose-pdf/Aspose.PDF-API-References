@@ -223,24 +223,24 @@ Sets  string  text object that the  TextFragment  object represents.
 
 ```
 The example demonstrates how to search a text and replace first occurrence represented with
-                       ```
+                                    ```
 TextFragment
 ``` object .
 
-                       // Open document
-                       Document doc = new Document("D:\\Tests\\input.pdf");
+                                    // Open document
+                                    Document doc = new Document("D:\\Tests\\input.pdf");
 
-                       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-                       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+                                    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+                                    TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-                       // Accept the absorber for first page
-                       doc.getPages().get(1).accept(absorber);
+                                    // Accept the absorber for first page
+                                    doc.getPages().get(1).accept(absorber);
 
-                       // Change font of the first text occurrence
-                       absorber.getTextFragments().get_Item(1).setText ( "hi world");
+                                    // Change font of the first text occurrence
+                                    absorber.getTextFragments().get_Item(1).setText ( "hi world");
 
-                       // Save document
-                       doc.save("D:\\Tests\\output.pdf");
+                                    // Save document
+                                    doc.save("D:\\Tests\\output.pdf");
 ``` |
 
 ### getVerticalAlignment() {#getVerticalAlignment--}
@@ -450,25 +450,25 @@ Sets text position for text, represented with  TextFragment  object.
 ```
 The example demonstrates how to view placement of a text, represented by ```
 
-                       TextFragment
+                                    TextFragment
 ```
-                       object.
+                                    object.
 
-                        // Open document
-                        Document doc = new Document("D:\\Tests\\input.pdf");
+                                     // Open document
+                                     Document doc = new Document("D:\\Tests\\input.pdf");
 
-                        // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-                        TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+                                     // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+                                     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-                        // Accept the absorber for first page
-                        doc.getPages().get(1).accept(absorber);
+                                     // Accept the absorber for first page
+                                     doc.getPages().get(1).accept(absorber);
 
-                        // View text and placement info of first text occurrence
-                        TextFragment firstOccurrence = absorber.getTextFragments().get_Item(1);
+                                     // View text and placement info of first text occurrence
+                                     TextFragment firstOccurrence = absorber.getTextFragments().get_Item(1);
 
-                        System.out.println("fragment text: " + firstOccurrence.getText()));
-                        System.out.println("fragment X indent: "+ firstOccurrence.getPosition().getXIndent()));
-                        System.out.println("fragment Y indent: "+ firstOccurrence.getPosition().getYIndent()));
+                                     System.out.println("fragment text: " + firstOccurrence.getText()));
+                                     System.out.println("fragment X indent: "+ firstOccurrence.getPosition().getXIndent()));
+                                     System.out.println("fragment Y indent: "+ firstOccurrence.getPosition().getYIndent()));
 ``` |
 
 ### getBaselinePosition() {#getBaselinePosition--}

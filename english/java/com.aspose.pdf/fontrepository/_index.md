@@ -18,22 +18,22 @@ Performs font search. Searches in system installed fonts and standard Pdf fonts.
 
 ```
 The example demonstrates how to find font and replace the font of text of first page.
- 
-  
+
+
   // Find font
   Font font = FontRepository.findFont("Arial");
-  
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Change font of the first text occurrence
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
@@ -105,21 +105,21 @@ Searches and returns font with specified font name.
 
 ```
 The example demonstrates how to find font and replace the font of text of first page.
- 
+
   // Find font
   Font font = FontRepository.findFont("Arial");
-  
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Change font of the first text occurrence
   absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
@@ -143,21 +143,21 @@ Searches and returns font with specified font name ignoring or honoring case sen
 
 ```
 The example demonstrates how to find font and replace the font of text of first page.
- 
+
   // Find font
   Font font = FontRepository.findFont("Arial", FontStyles.Italic);
-  
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Change font of the first text occurence
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
@@ -182,21 +182,21 @@ Searches and returns font with specified font name and font style.
 
 ```
 The example demonstrates how to find font and replace the font of text of first page.
- 
+
   // Find font
   Font font = FontRepository.findFont("Arial", FontStyles.Italic);
-  
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Change font of the first text occurence
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
@@ -221,22 +221,22 @@ Searches and returns font with specified font name and font style ignoring or ho
 
 ```
 The example demonstrates how to find font and replace the font of text of first page.
- 
+
   // Find font
-  
+
   Font font = FontRepository.findFont("Arial", FontStyles.Italic, true);
-  
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Change font of the first text occurence
   absorber.getTextFragments().get_Item(1).getTextState().setFont(font);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
@@ -262,25 +262,25 @@ Opens font with specified font stream.
 
 ```
 The example demonstrates how to open font and replace the font of text of first page.
-  
+
   // Open font
   InputStream fontStream = new FileInputStream("C:\\WINDOWS\\Fonts\\arial.ttf"))
   {
       Font font = FontRepository.openFont(fontStream, , FontTypes.TTF);
-  
+
       // Open document
       Document doc = new Document("D:\\Tests\\input.pdf");
       // Create TextFragmentAbsorber object to find all "hello world" text occurrences
       TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
       // Accept the absorber for first page
       doc.getPages().get_Item(1).accept(absorber);
-  
+
       // Change font of the first text occurrence
       absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
-  
+
       // Save document
-      doc.save("D:\\Tests\\output.pdf"); 
+      doc.save("D:\\Tests\\output.pdf");
   }
 ```
 
@@ -304,21 +304,21 @@ Opens font with specified font file path.
 
 ```
 The example demonstrates how to open font and replace the font of text of first page.
- 
+
   // Open font
   Font font = FontRepository.openFont("C:\\WINDOWS\\Fonts\\arial.ttf");
-  
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Change font of the first text occurrence
   absorber.getTextFragments().get_Item(1).getTextState().setFont ( font);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
@@ -342,21 +342,21 @@ Opens font with specified font file path and metrics file path.
 
 ```
 The example demonstrates how to open Type1 font with metrics and replace the font of text of first page.
-  
+
   // Open font
   Font font = FontRepository.openFont("courier.pfb", "courier.afm");
-  
+
   // Open document
   Document doc = new Document("D:\\Tests\\input.pdf");
   // Create TextFragmentAbsorber object to find all "hello world" text occurrences
   TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-  
+
   // Accept the absorber for first page
   doc.getPages().get_Item(1).accept(absorber);
-  
+
   // Change font of the first text occurrence
   absorber.getTextFragments().get_Item(1).sgetTextState().setFont(font);
-  
+
   // Save document
   doc.save("D:\\Tests\\output.pdf");
 ```
