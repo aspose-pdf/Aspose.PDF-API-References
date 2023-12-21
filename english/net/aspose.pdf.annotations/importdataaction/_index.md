@@ -21,6 +21,12 @@ public class ImportDataAction : PdfAction
 | [Data](../../aspose.pdf.annotations/importdataaction/data/) { get; set; } | The FDF file from which to import the data. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * class [PdfAction](../pdfaction/)

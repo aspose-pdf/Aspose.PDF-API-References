@@ -65,7 +65,7 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class with a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)

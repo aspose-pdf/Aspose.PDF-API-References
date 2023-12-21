@@ -3,7 +3,7 @@ title: Artifact.SetValue
 second_title: Aspose.PDF for .NET API Reference
 description: Artifact method. Sets custom value of artifact
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.pdf/artifact/setvalue/
 ---
 ## Artifact.SetValue method

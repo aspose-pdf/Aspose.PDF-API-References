@@ -3,7 +3,7 @@ title: TextFragmentState.ForegroundColor
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets or sets foreground color of the text represented by the TextFragment object
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.text/textfragmentstate/foregroundcolor/
 ---
 ## TextFragmentState.ForegroundColor property

@@ -3,7 +3,7 @@ title: Class TextState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextState class. Represents a text state of a text
 type: docs
-weight: 8160
+weight: 8270
 url: /net/aspose.pdf.text/textstate/
 ---
 ## TextState class
@@ -32,6 +32,7 @@ public class TextState
 | --- | --- |
 | virtual [BackgroundColor](../../aspose.pdf.text/textstate/backgroundcolor/) { get; set; } | Sets background color of the text. |
 | virtual [CharacterSpacing](../../aspose.pdf.text/textstate/characterspacing/) { get; set; } | Gets or sets character spacing of the text. |
+| virtual [CoordinateOrigin](../../aspose.pdf.text/textstate/coordinateorigin/) { get; set; } | Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering. |
 | virtual [Font](../../aspose.pdf.text/textstate/font/) { get; set; } | Gets or sets font of the text. |
 | virtual [FontSize](../../aspose.pdf.text/textstate/fontsize/) { get; set; } | Gets or sets font size of the text. |
 | virtual [FontStyle](../../aspose.pdf.text/textstate/fontstyle/) { get; set; } | Sets font style of the text. |
@@ -41,7 +42,7 @@ public class TextState
 | virtual [Invisible](../../aspose.pdf.text/textstate/invisible/) { get; set; } | Gets or sets the invisibility of text. This basically reflects the [`RenderingMode`](./renderingmode/) state, except for some special cases (like clipping). |
 | virtual [LineSpacing](../../aspose.pdf.text/textstate/linespacing/) { get; set; } | Gets or sets line spacing of the text. |
 | virtual [RenderingMode](../../aspose.pdf.text/textstate/renderingmode/) { get; set; } | Gets or sets rendering mode of text. |
-| virtual [StrikeOut](../../aspose.pdf.text/textstate/strikeout/) { get; set; } | Sets strikeout for the text, represented by the [`TextFragment`](../textfragment/) object |
+| virtual [StrikeOut](../../aspose.pdf.text/textstate/strikeout/) { get; set; } | Gets or sets strikeout for the text, represented by the [`TextSegment`](../textsegment/) object |
 | virtual [StrokingColor](../../aspose.pdf.text/textstate/strokingcolor/) { get; set; } | Gets or sets foreground color of the text. |
 | virtual [Subscript](../../aspose.pdf.text/textstate/subscript/) { get; set; } | Gets or sets subscript of the text. |
 | virtual [Superscript](../../aspose.pdf.text/textstate/superscript/) { get; set; } | Gets or sets superscript of the text. |

@@ -3,7 +3,7 @@ title: TextState.MeasureHeight
 second_title: Aspose.PDF for .NET API Reference
 description: TextState method. Measures character height
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf.text/textstate/measureheight/
 ---
 ## TextState.MeasureHeight method

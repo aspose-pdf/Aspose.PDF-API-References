@@ -3,7 +3,7 @@ title: TextFragmentState.Superscript
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets or sets superscript of the text represented by the TextFragment object
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf.text/textfragmentstate/superscript/
 ---
 ## TextFragmentState.Superscript property

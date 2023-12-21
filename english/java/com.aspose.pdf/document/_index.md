@@ -1719,7 +1719,7 @@ By default method save closes internal streams and release memory resources. We 
 
 ### pageNodesToBalancedTree() {#pageNodesToBalancedTree--}
 ```
-public final void pageNodesToBalancedTree()
+public void pageNodesToBalancedTree()
 ```
 
 
@@ -1727,7 +1727,7 @@ Organizes page tree nodes in a document into a balanced tree. Only if the docume
 
 ### pageNodesToBalancedTree(byte nodesNumInSubtrees) {#pageNodesToBalancedTree-byte-}
 ```
-public final void pageNodesToBalancedTree(byte nodesNumInSubtrees)
+public void pageNodesToBalancedTree(byte nodesNumInSubtrees)
 ```
 
 

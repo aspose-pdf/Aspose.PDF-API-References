@@ -1,43 +1,11 @@
 ---
 title: PdfFileEditor.MakeBooklet
 second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Makes booklet from the input file to output file
+description: PdfFileEditor method. Makes booklet from the InputStream to outputStream
 type: docs
 weight: 330
 url: /net/aspose.pdf.facades/pdffileeditor/makebooklet/
 ---
-## MakeBooklet(string, string) {#makebooklet_8}
-
-Makes booklet from the input file to output file.
-
-```csharp
-public bool MakeBooklet(string inputFile, string outputFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Input pdf file path and name. |
-| outputFile | String | Output pdf file path and name. |
-
-### Return Value
-
-boolean - True for success, or false.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.MakeBooklet("input.pdf", "output.pdf");
-```
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## MakeBooklet(Stream, Stream) {#makebooklet_2}
 
 Makes booklet from the InputStream to outputStream.
@@ -282,6 +250,38 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, n
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## MakeBooklet(string, string) {#makebooklet_8}
+
+Makes booklet from the input file to output file.
+
+```csharp
+public bool MakeBooklet(string inputFile, string outputFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | Input pdf file path and name. |
+| outputFile | String | Output pdf file path and name. |
+
+### Return Value
+
+boolean - True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.MakeBooklet("input.pdf", "output.pdf");
+```
+
+### See Also
+
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

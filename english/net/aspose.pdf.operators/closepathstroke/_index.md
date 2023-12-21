@@ -3,7 +3,7 @@ title: Class ClosePathStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.ClosePathStroke class. Class representing s operator Close and stroke path
 type: docs
-weight: 5090
+weight: 5110
 url: /net/aspose.pdf.operators/closepathstroke/
 ---
 ## ClosePathStroke class

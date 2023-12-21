@@ -258,7 +258,9 @@ public boolean getToAttemptGetUnderlineFromSource()
 ```
 
 
-Gets or sets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this.
+Gets or sets value that permits searching for text underlining on the page of source document.
+
+(Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this.
 
 **Returns:**
 boolean - boolean value
@@ -268,7 +270,9 @@ public void setToAttemptGetUnderlineFromSource(boolean value)
 ```
 
 
-Gets or sets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this.
+Gets or sets value that permits searching for text underlining on the page of source document.
+
+(Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this.
 
 **Parameters:**
 | Parameter | Type | Description |

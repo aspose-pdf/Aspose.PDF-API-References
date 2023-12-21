@@ -3,7 +3,7 @@ title: com.aspose.pdf.text
 second_title: Aspose.PDF for Java API Reference
 description: The com.aspose.pdf.text package provides classes that allow to extract text add text manipulate existing text of a document.
 type: docs
-weight: 27
+weight: 28
 url: /java/com.aspose.pdf.text/
 ---
 

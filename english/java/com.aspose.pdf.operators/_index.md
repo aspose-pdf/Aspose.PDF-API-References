@@ -3,7 +3,7 @@ title: com.aspose.pdf.operators
 second_title: Aspose.PDF for Java API Reference
 description: The  com.aspose.pdf.operators is a package for Operator implementations.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.pdf.operators/
 ---
 

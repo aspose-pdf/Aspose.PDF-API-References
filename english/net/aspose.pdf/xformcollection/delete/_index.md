@@ -1,14 +1,14 @@
 ---
 title: XFormCollection.Delete
 second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection method. Delete XForm from collectin
+description: XFormCollection method. Delete XForm from collection
 type: docs
 weight: 100
 url: /net/aspose.pdf/xformcollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Delete XForm from collectin
+Delete XForm from collection
 
 ```csharp
 public void Delete(int index)
@@ -28,7 +28,7 @@ public void Delete(int index)
 
 ## Delete() {#delete}
 
-Deletes all XForms from collection.
+Deletes all XForms from the collection.
 
 ```csharp
 public void Delete()

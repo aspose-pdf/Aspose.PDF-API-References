@@ -28,6 +28,12 @@ public sealed class SubmitFormAction : PdfAction
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 | [Url](../../aspose.pdf.annotations/submitformaction/url/) { get; set; } | Destination URL. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ## Fields
 
 | Name | Description |

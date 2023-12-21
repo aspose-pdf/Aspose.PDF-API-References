@@ -1688,7 +1688,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMargins(src, dest,
  // process pages 1, 2, 3
  	new int[]
- 	{ 1, 2, 3 },
+    { 1, 2, 3 },
  	// left margin is 10 units
  	10,
  	// right margin is 5 units
@@ -1730,7 +1730,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMarginsPct(src, dest,
  // process pages 1, 2, 3
  	new int[]
- 	{ 1, 2, 3 },
+    { 1, 2, 3 },
  	// left margin is 15% of page width
  	15,
  	// right margin is 10% of page width
@@ -1838,7 +1838,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMargins("input.pdf", "output.pdf",
  // process pages 1, 2, 3
  	new int[]
- 	{ 1, 2, 3 },
+    { 1, 2, 3 },
  	// left margin is 10 units
  	10,
  	// right margin is 5 units
@@ -1877,7 +1877,7 @@ PdfFileEditor fileEditor = new PdfFileEditor();
  fileEditor.addMarginsPct("input.pdf", "output.pdf",
  // process pages 1, 2, 3
  	new int[]
- 	{ 1, 2, 3 },
+    { 1, 2, 3 },
  	// left margin is 15% of page width
  	15,
  	// right margin is 10% of page width

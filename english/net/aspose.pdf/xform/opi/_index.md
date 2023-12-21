@@ -3,7 +3,7 @@ title: XForm.Opi
 second_title: Aspose.PDF for .NET API Reference
 description: XForm property. Gets The Open Prepress Interface OPI
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf/xform/opi/
 ---
 ## XForm.Opi property

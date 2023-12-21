@@ -391,9 +391,9 @@ Sets zoom coefficient. Value 1.0 corresponds to 100%. Default value is 1.0.
 The following example demonstrates how to change zoom of the document pages.
 
 
-                 PdfPageEditor editor = new PdfPageEditor();
-                 editor.bindPdf("sample.pdf");
-                 editor.setZoom ( 0.5f);
+                              PdfPageEditor editor = new PdfPageEditor();
+                              editor.bindPdf("sample.pdf");
+                              editor.setZoom ( 0.5f);
 ``` |
 
 ### getPageSize() {#getPageSize--}

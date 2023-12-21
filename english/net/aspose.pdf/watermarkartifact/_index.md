@@ -3,7 +3,7 @@ title: Class WatermarkArtifact
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.WatermarkArtifact class. Class describes watermark artifact. This may be used to
 type: docs
-weight: 8410
+weight: 8520
 url: /net/aspose.pdf/watermarkartifact/
 ---
 ## WatermarkArtifact class
@@ -58,6 +58,7 @@ public class WatermarkArtifact : Artifact
 | [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Sets image of the artifact. |
 | [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Sets image of the artifact. |
 | [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Set text and text properties of the artifact. Allows to specify multiple lines. |
+| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sets what string will be replaced with the page number. The default value is #. |
 | [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Sets PDF page which is placed on the document page as artifact. |
 | [SetText](../../aspose.pdf/artifact/settext/)(FormattedText) | Sets text of the artifact. |
 | [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(string, TextState) | Set text and text properties of the artifact. |

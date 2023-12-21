@@ -65,7 +65,7 @@ public InvalidFileFormatException(string message, Exception innerException)
 
 ## InvalidFileFormatException(Exception) {#constructor_1}
 
-Initializes a new instance of the [`InvalidFileFormatException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`InvalidFileFormatException`](../) class with a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public InvalidFileFormatException(Exception innerException)

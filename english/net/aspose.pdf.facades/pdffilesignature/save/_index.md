@@ -3,7 +3,7 @@ title: PdfFileSignature.Save
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Saves the result PDF to file
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.pdf.facades/pdffilesignature/save/
 ---
 ## Save(string) {#save_2}
@@ -16,7 +16,7 @@ public override void Save(string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | String | output pdf file |
+| outputFile | String | Output pdf file. |
 
 ### See Also
 
@@ -36,7 +36,7 @@ public override void Save(Stream outputStream)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | Stream | output pdf stream |
+| outputStream | Stream | Output pdf stream. |
 
 ### See Also
 

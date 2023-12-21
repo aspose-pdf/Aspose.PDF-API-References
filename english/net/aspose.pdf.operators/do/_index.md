@@ -3,7 +3,7 @@ title: Class Do
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.Do class. Class representing Do operator Invoke XObject
 type: docs
-weight: 5150
+weight: 5170
 url: /net/aspose.pdf.operators/do/
 ---
 ## Do class

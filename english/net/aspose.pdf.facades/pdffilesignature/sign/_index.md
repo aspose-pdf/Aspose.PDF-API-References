@@ -3,7 +3,7 @@ title: PdfFileSignature.Sign
 second_title: Aspose.PDF for .NET API Reference
 description: PdfFileSignature method. Make a signature on the pdf document
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}

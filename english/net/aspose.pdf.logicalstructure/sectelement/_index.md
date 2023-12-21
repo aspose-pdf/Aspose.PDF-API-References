@@ -3,7 +3,7 @@ title: Class SectElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.SectElement class. Represents Sect structure element in logical structure
 type: docs
-weight: 4540
+weight: 4550
 url: /net/aspose.pdf.logicalstructure/sectelement/
 ---
 ## SectElement class

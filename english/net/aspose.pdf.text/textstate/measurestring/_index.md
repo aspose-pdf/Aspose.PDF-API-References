@@ -3,7 +3,7 @@ title: TextState.MeasureString
 second_title: Aspose.PDF for .NET API Reference
 description: TextState method. Measures the string
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.pdf.text/textstate/measurestring/
 ---
 ## TextState.MeasureString method

@@ -49,7 +49,7 @@ public FontNotFoundException(string message, Exception innerException)
 
 ## FontNotFoundException(Exception) {#constructor}
 
-Initializes a new instance of the [`FontNotFoundException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`FontNotFoundException`](../) class with a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public FontNotFoundException(Exception innerException)

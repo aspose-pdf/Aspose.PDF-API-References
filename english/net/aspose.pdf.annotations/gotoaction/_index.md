@@ -30,6 +30,12 @@ public class GoToAction : PdfAction
 | virtual [Destination](../../aspose.pdf.annotations/gotoaction/destination/) { get; set; } | Gets or sets the destination to jump to. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * class [PdfAction](../pdfaction/)

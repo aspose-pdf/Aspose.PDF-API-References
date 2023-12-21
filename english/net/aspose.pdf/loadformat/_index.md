@@ -3,7 +3,7 @@ title: Enum LoadFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LoadFormat enum. Specifies load format
 type: docs
-weight: 4010
+weight: 4020
 url: /net/aspose.pdf/loadformat/
 ---
 ## LoadFormat enumeration
@@ -33,6 +33,7 @@ public enum LoadFormat
 | TXT | `12` | means loading document is in TXT format. |
 | APS | `13` | means loading document in APS format. |
 | PDFXML | `14` | Internal PDF document structure in XML format. |
+| OFD | `15` | means loading document in OFD format. |
 
 ### See Also
 

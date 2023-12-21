@@ -18,7 +18,7 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 | Name | Description |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a reference to the inner exception that is the cause of this exception. |
 | [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | Initializes a new instance of the `IncorrectFontUsageException` class. |
 | [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 

@@ -16,11 +16,11 @@ public XForm this[int index] { get; }
 
 | Parameter | Description |
 | --- | --- |
-| index | Index of XFormCollection. XForms numbering is started from 1 |
+| index | Index of XFormCollection. XForms numbering is started from 1. |
 
 ### Return Value
 
-Retreived XForm
+Retrieved XForm.
 
 ### See Also
 
@@ -41,7 +41,11 @@ public XForm this[string name] { get; }
 
 | Parameter | Description |
 | --- | --- |
-| name | Name of XForm |
+| name | Name of the XForm. |
+
+### Return Value
+
+Retrieved XForm.
 
 ### See Also
 

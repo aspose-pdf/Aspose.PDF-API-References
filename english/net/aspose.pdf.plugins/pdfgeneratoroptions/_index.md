@@ -1,17 +1,17 @@
 ---
 title: Class PdfGeneratorOptions
 second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfGeneratorOptions class. Represents options for PdfGenerator plugin
+description: Aspose.Pdf.Plugins.PdfGeneratorOptions class. Represents options for Generator plugins
 type: docs
-weight: 6630
+weight: 6710
 url: /net/aspose.pdf.plugins/pdfgeneratoroptions/
 ---
 ## PdfGeneratorOptions class
 
-Represents options for [`PdfGenerator`](../pdfgenerator/) plugin.
+Represents options for Generator plugins.
 
 ```csharp
-public class PdfGeneratorOptions : IPluginOptions
+public abstract class PdfGeneratorOptions : IPluginOptions
 ```
 
 ## Properties

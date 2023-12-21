@@ -76,6 +76,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [InvalidPdfFileFormatException](./invalidpdffileformatexception/) | The exception that is thrown when a pdf file is invalid. |
 | [InvalidValueFormatException](./invalidvalueformatexception/) | Exception which thrown when requested value has incorrect format. |
 | [JavaScriptCollection](./javascriptcollection/) | This class represents collection of JavaScript. |
+| [JavascriptExtensionsException](./javascriptextensionsexception/) | The exception that is thrown on errors when working with JavascriptExtensions. |
 | [Layer](./layer/) | Represents page layer. |
 | [LevelFormat](./levelformat/) | Represents format of the table of contents. |
 | [License](./license/) | Provides methods to license the component. |
@@ -92,6 +93,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [NamedDestinationCollection](./nameddestinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [Note](./note/) | This class represents generator paragraph note. |
 | [OcspSettings](./ocspsettings/) | Represents the ocsp settings using during signing process. |
+| [OfdLoadOptions](./ofdloadoptions/) | Load options for OFD format. |
 | [Operator](./operator/) | Abstract class representing operator. |
 | [OperatorCollection](./operatorcollection/) | Class represents collection of operators |
 | [OperatorSelector](./operatorselector/) | This class is used for selecting operators using Visitor template idea. |

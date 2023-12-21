@@ -3,7 +3,7 @@ title: Class PaperSource
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.PaperSource class. Specifies the paper tray from which the printer gets paper
 type: docs
-weight: 7000
+weight: 7100
 url: /net/aspose.pdf.printing/papersource/
 ---
 ## PaperSource class

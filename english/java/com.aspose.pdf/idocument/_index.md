@@ -1839,10 +1839,10 @@ public abstract void pageNodesToBalancedTree(byte nodesNumInSubtrees)
 ```
 
 
-Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing.
+Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing. Do not call this method while iterating over Pages elements, it may give unpredictable results
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| nodesNumInSubtrees | byte | Desired number of subnodes. |
+| nodesNumInSubtrees | byte | Desired number of subnodes. Default value is ten. |
 

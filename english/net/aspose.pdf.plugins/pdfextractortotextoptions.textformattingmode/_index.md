@@ -3,7 +3,7 @@ title: Enum PdfExtractorToTextOptions.TextFormattingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfExtractorToTextOptionsTextFormattingMode enum. Defines different modes which can be used while converting a PDF document into text. See PdfExtractorToTextOptions class
 type: docs
-weight: 6500
+weight: 6590
 url: /net/aspose.pdf.plugins/pdfextractortotextoptions.textformattingmode/
 ---
 ## PdfExtractorToTextOptions.TextFormattingMode enumeration

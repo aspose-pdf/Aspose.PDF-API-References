@@ -3,7 +3,7 @@ title: Class WarichuWTElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.WarichuWTElement class. Represents WT structure element in logical structure of the Warichu
 type: docs
-weight: 4790
+weight: 4800
 url: /net/aspose.pdf.logicalstructure/warichuwtelement/
 ---
 ## WarichuWTElement class

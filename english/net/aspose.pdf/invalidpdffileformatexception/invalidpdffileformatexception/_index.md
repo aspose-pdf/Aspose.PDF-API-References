@@ -49,7 +49,7 @@ public InvalidPdfFileFormatException(string message, Exception innerException)
 
 ## InvalidPdfFileFormatException(Exception) {#constructor}
 
-Initializes a new instance of the [`InvalidPdfFileFormatException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`InvalidPdfFileFormatException`](../) class with a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public InvalidPdfFileFormatException(Exception innerException)

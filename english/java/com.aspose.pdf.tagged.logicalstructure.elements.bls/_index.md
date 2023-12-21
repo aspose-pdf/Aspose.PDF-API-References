@@ -3,7 +3,7 @@ title: com.aspose.pdf.tagged.logicalstructure.elements.bls
 second_title: Aspose.PDF for Java API Reference
 description: The  com.aspose.pdf.tagged.logicalstructure.elements.bls is a namespace for PDF Logical Structure classes.
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.bls/
 ---
 

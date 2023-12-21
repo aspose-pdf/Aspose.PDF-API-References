@@ -30,6 +30,12 @@ public sealed class GoToRemoteAction : GoToAction
 | [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+
 ### See Also
 
 * class [GoToAction](../gotoaction/)

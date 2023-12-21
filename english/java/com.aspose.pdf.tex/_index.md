@@ -3,7 +3,7 @@ title: com.aspose.pdf.tex
 second_title: Aspose.PDF for Java API Reference
 description: 
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.pdf.tex/
 ---
 

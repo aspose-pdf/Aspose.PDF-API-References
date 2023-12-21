@@ -3,7 +3,7 @@ title: com.aspose.pdf.tagged.logicalstructure.elements.ils
 second_title: Aspose.PDF for Java API Reference
 description: The   com.aspose.pdf.tagged.logicalstructure.elements.ils is a namespace for PDF Logical Structure classes.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.ils/
 ---
 

@@ -278,9 +278,9 @@ Fills the field with a valid value according to a fully qualified field name. Be
 Form form = new Form("PdfForm.pdf");
  form.fillField("FirstName", "John");
  form.fillField("LastName", "Smith");
- 
- 
- 
+
+
+
  // how to search field by its partial name:
  Form form = new Form("input.pdf", "output.pdf");
  for (String fieldName : form.getFieldNames())
@@ -315,8 +315,8 @@ Form form = new Form("PdfForm.pdf");
  form.fillField("listboxField", 2);
  form.fillField("comboboxField", 2);
  form.fillField("radiobuttonField", 2);
- 
- 
+
+
  // how to search field by its partial name:
  Form form = new Form("input.pdf", "output.pdf");
  for (String fieldName : form.getFieldNames())
@@ -349,7 +349,7 @@ Fills the check box field with a boolean value. Notice: Only be applied to Check
 ```
 Form form = new Form("PdfForm.pdf");
  form.fillField("checkboxField", true);
- 
+
  // how to search field by its partial name:
  Form form = new Form("input.pdf", "output.pdf");
  for (String fieldName : form.getFieldNames())

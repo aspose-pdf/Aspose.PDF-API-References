@@ -3,7 +3,7 @@ title: TextFragmentState.WordSpacing
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets or sets word spacing of the text
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf.text/textfragmentstate/wordspacing/
 ---
 ## TextFragmentState.WordSpacing property

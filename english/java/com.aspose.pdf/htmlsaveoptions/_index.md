@@ -171,38 +171,38 @@ This handler can be used to handle conversion progress events f.e. it can be use
 
 ```
 public static void ConvertWithShowingProgress()
-     {
-         (new com.aspose.pdf.License()).setLicense("Aspose.Total.lic");
-         Document doc = new Document("Booklet.pdf");
-         HtmlSaveOptions saveOptions = new HtmlSaveOptions();
-         saveOptions.CustomProgressHandler = new com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler() {
-        public void invoke(
-    	    UnifiedSaveOptions.ProgressEventHandlerInfo eventInfo) {
-    	showProgressOnConsole(eventInfo);
-        }
-    };
-         doc.save("Booklet.doc", saveOptions);
-     }
-     public static void showProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo eventInfo)
-     {
-         switch (eventInfo.EventType)
-         {
-             case HtmlSaveOptions.ProgressEventType.TotalProgress:
-                 System.out.println(String.format("%s  - Conversion progress : %d % .", (new Date()).toString(), eventInfo.Value));
-                 break;
-             case HtmlSaveOptions.ProgressEventType.SourcePageAnalized:
-        	 System.out.println(String.format("%s  - Source page %d of %d analyzed.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
-                 break;
-             case HtmlSaveOptions.ProgressEventType.ResultPageCreated:
-        	 System.out.println(String.format("%s  - Result page's %d of %d layout created.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
-                 break;
-             case HtmlSaveOptions.ProgressEventType.ResultPageSaved:
-        	 System.out.println(String.format("%s  - Result page %d of %d exported.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
-                 break;
-             default:
-                 break;
-         }
-      }
+ {
+ (new com.aspose.pdf.License()).setLicense("Aspose.Total.lic");
+ Document doc = new Document("Booklet.pdf");
+ HtmlSaveOptions saveOptions = new HtmlSaveOptions();
+ saveOptions.CustomProgressHandler = new com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler() {
+ public void invoke(
+ UnifiedSaveOptions.ProgressEventHandlerInfo eventInfo) {
+ showProgressOnConsole(eventInfo);
+ }
+ };
+ doc.save("Booklet.doc", saveOptions);
+ }
+ public static void showProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo eventInfo)
+ {
+ switch (eventInfo.EventType)
+ {
+ case HtmlSaveOptions.ProgressEventType.TotalProgress:
+ System.out.println(String.format("%s  - Conversion progress : %d % .", (new Date()).toString(), eventInfo.Value));
+ break;
+ case HtmlSaveOptions.ProgressEventType.SourcePageAnalized:
+ System.out.println(String.format("%s  - Source page %d of %d analyzed.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
+ break;
+ case HtmlSaveOptions.ProgressEventType.ResultPageCreated:
+ System.out.println(String.format("%s  - Result page's %d of %d layout created.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
+ break;
+ case HtmlSaveOptions.ProgressEventType.ResultPageSaved:
+ System.out.println(String.format("%s  - Result page %d of %d exported.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
+ break;
+ default:
+ break;
+ }
+ }
 ```
 
 **Returns:**
@@ -219,38 +219,38 @@ This handler can be used to handle conversion progress events f.e. it can be use
 
 ```
 public static void ConvertWithShowingProgress()
-     {
-     (new com.aspose.pdf.License()).setLicense("Aspose.Total.lic");
-     Document doc = new Document("Booklet.pdf");
-     HtmlSaveOptions saveOptions = new HtmlSaveOptions();
-     saveOptions.CustomProgressHandler = new com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler() {
-     public void invoke(
-     UnifiedSaveOptions.ProgressEventHandlerInfo eventInfo) {
-     showProgressOnConsole(eventInfo);
-     }
-     };
-     doc.save("Booklet.doc", saveOptions);
-     }
-     public static void showProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo eventInfo)
-     {
-     switch (eventInfo.EventType)
-     {
-     case HtmlSaveOptions.ProgressEventType.TotalProgress:
-     System.out.println(String.format("%s  - Conversion progress : %d % .", (new Date()).toString(), eventInfo.Value));
-     break;
-     case HtmlSaveOptions.ProgressEventType.SourcePageAnalized:
-     System.out.println(String.format("%s  - Source page %d of %d analyzed.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
-     break;
-     case HtmlSaveOptions.ProgressEventType.ResultPageCreated:
-     System.out.println(String.format("%s  - Result page's %d of %d layout created.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
-     break;
-     case HtmlSaveOptions.ProgressEventType.ResultPageSaved:
-     System.out.println(String.format("%s  - Result page %d of %d exported.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
-     break;
-     default:
-     break;
-     }
-     }
+ {
+ (new com.aspose.pdf.License()).setLicense("Aspose.Total.lic");
+ Document doc = new Document("Booklet.pdf");
+ HtmlSaveOptions saveOptions = new HtmlSaveOptions();
+ saveOptions.CustomProgressHandler = new com.aspose.pdf.UnifiedSaveOptions.ConversionProgressEventHandler() {
+ public void invoke(
+ UnifiedSaveOptions.ProgressEventHandlerInfo eventInfo) {
+ showProgressOnConsole(eventInfo);
+ }
+ };
+ doc.save("Booklet.doc", saveOptions);
+ }
+ public static void showProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo eventInfo)
+ {
+ switch (eventInfo.EventType)
+ {
+ case HtmlSaveOptions.ProgressEventType.TotalProgress:
+ System.out.println(String.format("%s  - Conversion progress : %d % .", (new Date()).toString(), eventInfo.Value));
+ break;
+ case HtmlSaveOptions.ProgressEventType.SourcePageAnalized:
+ System.out.println(String.format("%s  - Source page %d of %d analyzed.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
+ break;
+ case HtmlSaveOptions.ProgressEventType.ResultPageCreated:
+ System.out.println(String.format("%s  - Result page's %d of %d layout created.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
+ break;
+ case HtmlSaveOptions.ProgressEventType.ResultPageSaved:
+ System.out.println(String.format("%s  - Result page %d of %d exported.", (new Date()).toString(), eventInfo.Value, eventInfo.MaxValue));
+ break;
+ default:
+ break;
+ }
+ }
 ```
 
 **Parameters:**

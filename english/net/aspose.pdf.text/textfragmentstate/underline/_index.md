@@ -3,7 +3,7 @@ title: TextFragmentState.Underline
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentState property. Gets or sets underline for the text represented by the TextFragment object
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.pdf.text/textfragmentstate/underline/
 ---
 ## TextFragmentState.Underline property

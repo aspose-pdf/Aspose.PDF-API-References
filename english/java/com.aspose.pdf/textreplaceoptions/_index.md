@@ -31,6 +31,10 @@ Represents text replace options
 | [setReplaceAdjustmentAction(TextReplaceOptions.ReplaceAdjustment value)](#setReplaceAdjustmentAction-com.aspose.pdf.TextReplaceOptions.ReplaceAdjustment-) | Sets an action that will be done after replace of text fragment to more short. |
 | [getAdjustmentNewLineSpacing()](#getAdjustmentNewLineSpacing--) | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. |
 | [setAdjustmentNewLineSpacing(double value)](#setAdjustmentNewLineSpacing-double-) | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. |
+| [getRightAdjustment()](#getRightAdjustment--) | Sets or gets right position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHyphenation; - ReplaceAdjustmentAction = IsFormFillingMode; |
+| [setRightAdjustment(double value)](#setRightAdjustment-double-) | Sets or gets right position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHyphenation; - ReplaceAdjustmentAction = IsFormFillingMode; |
+| [getLeftAdjustment()](#getLeftAdjustment--) | Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode; |
+| [setLeftAdjustment(double value)](#setLeftAdjustment-double-) | Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode; |
 ### TextReplaceOptions(TextReplaceOptions.Scope scope) {#TextReplaceOptions-com.aspose.pdf.TextReplaceOptions.Scope-}
 ```
 public TextReplaceOptions(TextReplaceOptions.Scope scope)
@@ -142,6 +146,52 @@ public void setAdjustmentNewLineSpacing(double value)
 
 
 Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. The value expected is multiplier of font size of the replaced text. Default is 1.2.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### getRightAdjustment() {#getRightAdjustment--}
+```
+public final double getRightAdjustment()
+```
+
+
+Sets or gets right position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHyphenation; - ReplaceAdjustmentAction = IsFormFillingMode;
+
+**Returns:**
+double - double value
+### setRightAdjustment(double value) {#setRightAdjustment-double-}
+```
+public final void setRightAdjustment(double value)
+```
+
+
+Sets or gets right position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHyphenation; - ReplaceAdjustmentAction = IsFormFillingMode;
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double | double value |
+
+### getLeftAdjustment() {#getLeftAdjustment--}
+```
+public final double getLeftAdjustment()
+```
+
+
+Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode;
+
+**Returns:**
+double - double value
+### setLeftAdjustment(double value) {#setLeftAdjustment-double-}
+```
+public final void setLeftAdjustment(double value)
+```
+
+
+Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode;
 
 **Parameters:**
 | Parameter | Type | Description |

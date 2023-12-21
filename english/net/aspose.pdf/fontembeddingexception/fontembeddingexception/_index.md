@@ -49,7 +49,7 @@ public FontEmbeddingException(string message, Exception innerException)
 
 ## FontEmbeddingException(Exception) {#constructor}
 
-Initializes a new instance of the [`FontEmbeddingException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`FontEmbeddingException`](../) class with a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public FontEmbeddingException(Exception innerException)

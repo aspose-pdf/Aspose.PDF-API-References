@@ -3,7 +3,7 @@ title: Class PdfFormExportValuesToCsvOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfFormExportValuesToCsvOptions class. Represents options for export Value property of specified fields not annotations
 type: docs
-weight: 6550
+weight: 6640
 url: /net/aspose.pdf.plugins/pdfformexportvaluestocsvoptions/
 ---
 ## PdfFormExportValuesToCsvOptions class

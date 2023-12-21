@@ -1,17 +1,17 @@
 ---
 title: TextFragmentState.StrikeOut
 second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Sets strikeout for the text represented by the TextFragment object
+description: TextFragmentState property. Gets or sets strikeout for the text represented by the TextFragment object
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf.text/textfragmentstate/strikeout/
 ---
 ## TextFragmentState.StrikeOut property
 
-Sets strikeout for the text, represented by the [`TextFragment`](../../textfragment/) object
+Gets or sets strikeout for the text, represented by the [`TextFragment`](../../textfragment/) object
 
 ```csharp
-public override bool StrikeOut { set; }
+public override bool StrikeOut { get; set; }
 ```
 
 ### See Also

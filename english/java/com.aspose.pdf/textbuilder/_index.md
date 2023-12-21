@@ -81,12 +81,12 @@ Appends text paragraph to Pdf page.
 
 ```
 The example demonstrates how to create text paragraph object and append it to the Pdf page.
- 
+
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
  // create text paragraph
  TextParagraph paragraph = new TextParagraph();
-            
+
  // set the paragraph rectangle
  paragraph.setRectangle ( new Rectangle(100, 600, 200, 700));
  // set word wrapping options
@@ -119,7 +119,7 @@ Appends text fragment to Pdf page
 
 ```
 The example demonstrates how to create text fragment object, customize it's text segments and append it to the Pdf page.
- 
+
  Document doc = new Document(inFile);
  Page page = (Page)doc.getPages().get(1);
  // create text fragment

@@ -3,7 +3,7 @@ title: Class OutputIntents
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.OutputIntents class. Represents the collection of OutputIntent
 type: docs
-weight: 5910
+weight: 5930
 url: /net/aspose.pdf/outputintents/
 ---
 ## OutputIntents class

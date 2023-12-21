@@ -31,6 +31,7 @@ The  **com.aspose.pdf.exceptions** package provides classes for exceptions which
 | [InvalidValueFormatException](../com.aspose.pdf.exceptions/invalidvalueformatexception) | Exception which thrown when requested value has incorrect format. |
 | [NotImplementedException](../com.aspose.pdf.exceptions/notimplementedexception) | The exception that is thrown when a requested method or operation is not implemented. |
 | [NotSupportedException](../com.aspose.pdf.exceptions/notsupportedexception) | The exception that is thrown when an invoked method is not supported, or when there is an attempt to read, seek, or write to a stream that does not support the invoked functionality. |
+| [OperationCanceledException](../com.aspose.pdf.exceptions/operationcanceledexception) | Represents OperationCanceledException class |
 | [PdfArgumentException](../com.aspose.pdf.exceptions/pdfargumentexception) | Represents errors that occur when incorrect parameters appeared. |
 | [PdfException](../com.aspose.pdf.exceptions/pdfexception) | Represents errors that occur during PDF application execution. |
 | [PdfOutOfMemoryException](../com.aspose.pdf.exceptions/pdfoutofmemoryexception) | Represents OutOfMemory errors that occur during PDF application execution. |

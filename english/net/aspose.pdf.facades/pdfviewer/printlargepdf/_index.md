@@ -26,20 +26,20 @@ This method integrates the opening and the printing of the file and you don't ne
 
 ```csharp
 [C#]
-PdfViewer viewer = new PdfViewer();
-viewer.AutoResize = true;     //print the file with adjusted size
-viewer.AutoRotate = true;     //print the file with adjusted rotation
-viewer.PrintPageDialog=false; //do not produce the page number dialog when printing
-viewer.PrintLargePdf(@"d:\test.pdf");
-viewer.Close();
+dfViewer viewer = new PdfViewer();
+iewer.AutoResize = true;     //print the file with adjusted size
+iewer.AutoRotate = true;     //print the file with adjusted rotation
+iewer.PrintPageDialog=false; //do not produce the page number dialog when printing
+iewer.PrintLargePdf(@"d:\test.pdf");
+iewer.Close();
 
-[VisualBasic]
-Dim viewer As New PdfViewer()
-viewer.AutoResize = True       'print the file with adjusted size
-viewer.AutoRotate = True       'print the file with adjusted rotation
-viewer.PrintPageDialog = False 'do not produce the page number dialog when printing
-viewer.PrintLargePdf(@"d:\test.pdf")
-viewer.Close()
+VisualBasic]
+im viewer As New PdfViewer()
+iewer.AutoResize = True       'print the file with adjusted size
+iewer.AutoRotate = True       'print the file with adjusted rotation
+iewer.PrintPageDialog = False 'do not produce the page number dialog when printing
+iewer.PrintLargePdf(@"d:\test.pdf")
+iewer.Close()
 ```
 
 ### See Also

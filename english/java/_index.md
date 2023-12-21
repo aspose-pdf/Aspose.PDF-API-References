@@ -16,6 +16,7 @@ is_root: true
 | [com.aspose.pdf.exceptions](./com.aspose.pdf.exceptions) | The  **com.aspose.pdf.exceptions** package provides classes for exceptions which can occur while working with a document. |
 | [com.aspose.pdf.facades](./com.aspose.pdf.facades) | The **com.aspose.pdf.facades** package provides classes originally came from Aspose.Pdf.Kit. |
 | [com.aspose.pdf.groupprocessor](./com.aspose.pdf.groupprocessor) | **The GroupProcessor** namespace provides classes used to work text and fonts. |
+| [com.aspose.pdf.multithreading](./com.aspose.pdf.multithreading) |  |
 | [com.aspose.pdf.nameddestinations](./com.aspose.pdf.nameddestinations) | The **com.aspose.pdf.nameddestinations** package provides classes which describes Named Destinations. |
 | [com.aspose.pdf.operators](./com.aspose.pdf.operators) | The  **com.aspose.pdf.operators** is a package for Operator implementations. |
 | [com.aspose.pdf.optimization](./com.aspose.pdf.optimization) | The  **com.aspose.pdf.optimization** is a package for classes for managing of document optimization process. |
@@ -28,4 +29,5 @@ is_root: true
 | [com.aspose.pdf.tagged.logicalstructure.elements.ils](./com.aspose.pdf.tagged.logicalstructure.elements.ils) | The  **com.aspose.pdf.tagged.logicalstructure.elements.ils** is a namespace for PDF Logical Structure classes. |
 | [com.aspose.pdf.tex](./com.aspose.pdf.tex) |  |
 | [com.aspose.pdf.text](./com.aspose.pdf.text) | The **com.aspose.pdf.text** package provides classes that allow to extract text, add text, manipulate existing text of a document. |
+| [com.aspose.pdf.utils.publicdata](./com.aspose.pdf.utils.publicdata) |  |
 | [com.aspose.pdf.vector](./com.aspose.pdf.vector) | The **Aspose.Pdf.Vector** is a root namespace for graphics operations. |
