@@ -3,7 +3,7 @@ title: FileSpecification
 second_title: Aspose.PDF for Java API Reference
 description: Class representing embedded file.
 type: docs
-weight: 117
+weight: 118
 url: /java/com.aspose.pdf/filespecification/
 ---
 **Inheritance:**

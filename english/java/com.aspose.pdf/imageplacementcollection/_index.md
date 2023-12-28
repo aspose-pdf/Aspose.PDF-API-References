@@ -3,7 +3,7 @@ title: ImagePlacementCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents an image placements collection
 type: docs
-weight: 171
+weight: 172
 url: /java/com.aspose.pdf/imageplacementcollection/
 ---
 **Inheritance:**

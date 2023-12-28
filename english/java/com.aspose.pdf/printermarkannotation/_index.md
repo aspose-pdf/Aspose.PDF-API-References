@@ -3,7 +3,7 @@ title: PrinterMarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class representing printer mark annotation.
 type: docs
-weight: 297
+weight: 298
 url: /java/com.aspose.pdf/printermarkannotation/
 ---
 **Inheritance:**

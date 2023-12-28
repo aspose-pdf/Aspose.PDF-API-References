@@ -3,7 +3,7 @@ title: XmpPdfAExtensionValueType
 second_title: Aspose.PDF for Java API Reference
 description: The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specification i.e.
 type: docs
-weight: 425
+weight: 426
 url: /java/com.aspose.pdf/xmppdfaextensionvaluetype/
 ---
 **Inheritance:**

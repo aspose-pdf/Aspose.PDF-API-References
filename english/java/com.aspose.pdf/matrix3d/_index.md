@@ -3,7 +3,7 @@ title: Matrix3D
 second_title: Aspose.PDF for Java API Reference
 description: Class represents transformation matrix.
 type: docs
-weight: 208
+weight: 209
 url: /java/com.aspose.pdf/matrix3d/
 ---
 **Inheritance:**

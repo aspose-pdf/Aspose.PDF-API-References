@@ -3,7 +3,7 @@ title: TextBoxField
 second_title: Aspose.PDF for Java API Reference
 description: Class representing text box field.
 type: docs
-weight: 364
+weight: 365
 url: /java/com.aspose.pdf/textboxfield/
 ---
 **Inheritance:**

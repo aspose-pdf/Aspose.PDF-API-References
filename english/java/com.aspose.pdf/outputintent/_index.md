@@ -3,7 +3,7 @@ title: OutputIntent
 second_title: Aspose.PDF for Java API Reference
 description: Represents an output intent that matches the color characteristics of a PDF document with those of a target output device or production environment in which the document will be printed.
 type: docs
-weight: 240
+weight: 241
 url: /java/com.aspose.pdf/outputintent/
 ---
 **Inheritance:**

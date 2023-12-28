@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page of PDF document.
 type: docs
-weight: 257
+weight: 258
 url: /java/com.aspose.pdf/page/
 ---
 **Inheritance:**

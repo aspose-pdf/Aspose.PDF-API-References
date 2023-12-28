@@ -3,7 +3,7 @@ title: DeprecatedFeatureException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a feature is deprecated in current pdf version.
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.pdf.exceptions/deprecatedfeatureexception/
 ---
 **Inheritance:**

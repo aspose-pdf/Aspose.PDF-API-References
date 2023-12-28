@@ -3,7 +3,7 @@ title: LaTeXSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to TeX format.
 type: docs
-weight: 182
+weight: 183
 url: /java/com.aspose.pdf/latexsaveoptions/
 ---
 **Inheritance:**

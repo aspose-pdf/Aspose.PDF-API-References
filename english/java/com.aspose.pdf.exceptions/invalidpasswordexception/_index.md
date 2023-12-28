@@ -3,7 +3,7 @@ title: InvalidPasswordException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when invalid password is provided by user.
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.pdf.exceptions/invalidpasswordexception/
 ---
 **Inheritance:**

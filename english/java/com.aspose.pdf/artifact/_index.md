@@ -63,6 +63,7 @@ Class represents PDF Artifact object.
 | [getLines()](#getLines--) | Lines of multiline text artifact. |
 | [getTextState()](#getTextState--) | Text state for artifact text. |
 | [setTextState(TextState value)](#setTextState-com.aspose.pdf.TextState-) | Text state for artifact text. |
+| [setPageNumberReplacementString(String value)](#setPageNumberReplacementString-java.lang.String-) | Sets what string will be replaced with the page number. |
 | [setTextAndState(String text, TextState textState)](#setTextAndState-java.lang.String-com.aspose.pdf.TextState-) | Set text and text properties of the artifact. |
 | [setLinesAndState(String[] text, TextState textState)](#setLinesAndState-java.lang.String---com.aspose.pdf.TextState-) | Set text and text properties of the artifact. |
 | [setImage(InputStream imageStream)](#setImage-java.io.InputStream-) | Sets image of the artifact. |
@@ -528,6 +529,19 @@ Text state for artifact text.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [TextState](../../com.aspose.pdf/textstate) | TextState instance |
+
+### setPageNumberReplacementString(String value) {#setPageNumberReplacementString-java.lang.String-}
+```
+public final void setPageNumberReplacementString(String value)
+```
+
+
+Sets what string will be replaced with the page number. The default value is \#.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### setTextAndState(String text, TextState textState) {#setTextAndState-java.lang.String-com.aspose.pdf.TextState-}
 ```

@@ -3,7 +3,7 @@ title: FontNotFoundException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a font is not found.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.aspose.pdf.exceptions/fontnotfoundexception/
 ---
 **Inheritance:**

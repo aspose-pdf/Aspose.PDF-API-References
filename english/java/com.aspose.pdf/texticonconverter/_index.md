@@ -3,7 +3,7 @@ title: TextIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents TextIconConverter class
 type: docs
-weight: 378
+weight: 379
 url: /java/com.aspose.pdf/texticonconverter/
 ---
 **Inheritance:**

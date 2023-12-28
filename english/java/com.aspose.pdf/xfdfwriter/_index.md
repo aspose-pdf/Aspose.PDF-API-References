@@ -3,7 +3,7 @@ title: XfdfWriter
 second_title: Aspose.PDF for Java API Reference
 description: Aggregates methods of writing annotations and fields to XFDF file format
 type: docs
-weight: 414
+weight: 415
 url: /java/com.aspose.pdf/xfdfwriter/
 ---
 **Inheritance:**

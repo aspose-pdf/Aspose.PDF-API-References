@@ -3,7 +3,7 @@ title: XmpField
 second_title: Aspose.PDF for Java API Reference
 description: Represents XMP field.
 type: docs
-weight: 417
+weight: 418
 url: /java/com.aspose.pdf/xmpfield/
 ---
 **Inheritance:**

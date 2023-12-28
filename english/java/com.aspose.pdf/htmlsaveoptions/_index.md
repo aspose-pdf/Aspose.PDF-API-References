@@ -3,7 +3,7 @@ title: HtmlSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Html format
 type: docs
-weight: 159
+weight: 160
 url: /java/com.aspose.pdf/htmlsaveoptions/
 ---
 **Inheritance:**

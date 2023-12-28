@@ -97,6 +97,7 @@ The **com.aspose.pdf** is a root package for all classes of Aspose.PDF for Java 
 | [ConvertErrorAction](../com.aspose.pdf/converterroraction) | This class represents action for conversion errors. |
 | [ConvertSoftMaskAction](../com.aspose.pdf/convertsoftmaskaction) | This action represents actions for conversion of images with soft mask. |
 | [ConvertTransparencyAction](../com.aspose.pdf/converttransparencyaction) | This class represents action for conversion of transparency. |
+| [CoordinateOrigin](../com.aspose.pdf/coordinateorigin) |  |
 | [Copier](../com.aspose.pdf/copier) | Class for coping object |
 | [CustomExplicitDestination](../com.aspose.pdf/customexplicitdestination) | Represents custom explicit destination. |
 | [Dash](../com.aspose.pdf/dash) | Class representing line dash pattern. |

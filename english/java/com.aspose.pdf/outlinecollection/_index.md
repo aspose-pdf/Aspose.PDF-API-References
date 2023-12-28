@@ -3,7 +3,7 @@ title: OutlineCollection
 second_title: Aspose.PDF for Java API Reference
 description: Represents document outline hierarchy.
 type: docs
-weight: 237
+weight: 238
 url: /java/com.aspose.pdf/outlinecollection/
 ---
 **Inheritance:**

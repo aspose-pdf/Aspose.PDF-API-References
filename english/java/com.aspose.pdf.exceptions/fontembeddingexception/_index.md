@@ -3,7 +3,7 @@ title: FontEmbeddingException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when an attempt to embed font became failed
 type: docs
-weight: 14
+weight: 15
 url: /java/com.aspose.pdf.exceptions/fontembeddingexception/
 ---
 **Inheritance:**
@@ -19,7 +19,7 @@ The exception that is thrown when an attempt to embed font became failed
 | --- | --- |
 | [FontEmbeddingException(String message)](#FontEmbeddingException-java.lang.String-) | Initializes a new instance of the  FontEmbeddingException  class. |
 | [FontEmbeddingException(String message, System.Exception innerException)](#FontEmbeddingException-java.lang.String-com.aspose.ms.System.Exception-) | Initializes a new instance of the  FontEmbeddingException  class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| [FontEmbeddingException(System.Exception innerException)](#FontEmbeddingException-com.aspose.ms.System.Exception-) | Initializes a new instance of the  FontEmbeddingException  class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontEmbeddingException(System.Exception innerException)](#FontEmbeddingException-com.aspose.ms.System.Exception-) | Initializes a new instance of the  FontEmbeddingException  class with a reference to the inner exception that is the cause of this exception. |
 ### FontEmbeddingException(String message) {#FontEmbeddingException-java.lang.String-}
 ```
 public FontEmbeddingException(String message)
@@ -53,7 +53,7 @@ public FontEmbeddingException(System.Exception innerException)
 ```
 
 
-Initializes a new instance of the  FontEmbeddingException  class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the  FontEmbeddingException  class with a reference to the inner exception that is the cause of this exception.
 
 **Parameters:**
 | Parameter | Type | Description |

@@ -3,7 +3,7 @@ title: Field
 second_title: Aspose.PDF for Java API Reference
 description: Base class for acro form fields.
 type: docs
-weight: 107
+weight: 108
 url: /java/com.aspose.pdf/field/
 ---
 **Inheritance:**

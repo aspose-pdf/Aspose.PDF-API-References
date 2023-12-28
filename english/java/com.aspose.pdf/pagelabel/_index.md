@@ -3,7 +3,7 @@ title: PageLabel
 second_title: Aspose.PDF for Java API Reference
 description: Class representing Page Label range.
 type: docs
-weight: 262
+weight: 263
 url: /java/com.aspose.pdf/pagelabel/
 ---
 **Inheritance:**

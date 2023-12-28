@@ -3,7 +3,7 @@ title: PdfXmlLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Load options for PdfXml format.
 type: docs
-weight: 281
+weight: 282
 url: /java/com.aspose.pdf/pdfxmlloadoptions/
 ---
 **Inheritance:**

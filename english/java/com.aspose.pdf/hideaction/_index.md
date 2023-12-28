@@ -3,7 +3,7 @@ title: HideAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents a hide action that hides or shows one or more annotations on the screen by setting or clearing their Hidden flags.
 type: docs
-weight: 151
+weight: 152
 url: /java/com.aspose.pdf/hideaction/
 ---
 **Inheritance:**

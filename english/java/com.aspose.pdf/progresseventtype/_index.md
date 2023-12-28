@@ -3,7 +3,7 @@ title: ProgressEventType
 second_title: Aspose.PDF for Java API Reference
 description: This enum describes possible progress event types that can occure during conversion
 type: docs
-weight: 298
+weight: 299
 url: /java/com.aspose.pdf/progresseventtype/
 ---
 **Inheritance:**

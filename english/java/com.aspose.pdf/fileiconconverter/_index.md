@@ -3,7 +3,7 @@ title: FileIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents FileIconConverter class
 type: docs
-weight: 114
+weight: 115
 url: /java/com.aspose.pdf/fileiconconverter/
 ---
 **Inheritance:**

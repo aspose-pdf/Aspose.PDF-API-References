@@ -3,7 +3,7 @@ title: Form
 second_title: Aspose.PDF for Java API Reference
 description: Class representing form object.
 type: docs
-weight: 139
+weight: 140
 url: /java/com.aspose.pdf/form/
 ---
 **Inheritance:**

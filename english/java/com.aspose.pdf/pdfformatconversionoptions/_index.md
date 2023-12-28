@@ -3,7 +3,7 @@ title: PdfFormatConversionOptions
 second_title: Aspose.PDF for Java API Reference
 description: represents set of options for convert PDF document
 type: docs
-weight: 278
+weight: 279
 url: /java/com.aspose.pdf/pdfformatconversionoptions/
 ---
 **Inheritance:**

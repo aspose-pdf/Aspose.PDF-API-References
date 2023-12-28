@@ -3,7 +3,7 @@ title: ImportFormat
 second_title: Aspose.PDF for Java API Reference
 description: Specifies import format.
 type: docs
-weight: 175
+weight: 176
 url: /java/com.aspose.pdf/importformat/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: PDF3DStream
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DStream.
 type: docs
-weight: 251
+weight: 252
 url: /java/com.aspose.pdf/pdf3dstream/
 ---
 **Inheritance:**

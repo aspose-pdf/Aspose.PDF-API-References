@@ -3,7 +3,7 @@ title: UnsupportedFontTypeException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a font type is not supported.
 type: docs
-weight: 33
+weight: 35
 url: /java/com.aspose.pdf.exceptions/unsupportedfonttypeexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: StampAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents rubber stamp annotation.
 type: docs
-weight: 339
+weight: 340
 url: /java/com.aspose.pdf/stampannotation/
 ---
 **Inheritance:**

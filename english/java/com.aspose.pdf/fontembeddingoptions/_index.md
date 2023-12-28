@@ -3,7 +3,7 @@ title: FontEmbeddingOptions
 second_title: Aspose.PDF for Java API Reference
 description: PDF/A standard requires that all fonts must be embedded into document.
 type: docs
-weight: 133
+weight: 134
 url: /java/com.aspose.pdf/fontembeddingoptions/
 ---
 **Inheritance:**

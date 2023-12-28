@@ -3,7 +3,7 @@ title: PdfOutOfMemoryException
 second_title: Aspose.PDF for Java API Reference
 description: Represents OutOfMemory errors that occur during PDF application execution.
 type: docs
-weight: 30
+weight: 32
 url: /java/com.aspose.pdf.exceptions/pdfoutofmemoryexception/
 ---
 **Inheritance:**

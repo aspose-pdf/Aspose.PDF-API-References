@@ -3,7 +3,7 @@ title: PolygonAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class representing polygon annotation.
 type: docs
-weight: 288
+weight: 289
 url: /java/com.aspose.pdf/polygonannotation/
 ---
 **Inheritance:**

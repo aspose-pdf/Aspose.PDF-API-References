@@ -3,7 +3,7 @@ title: LaunchActionOperation
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the operations to perform with document during launch action executing.
 type: docs
-weight: 186
+weight: 187
 url: /java/com.aspose.pdf/launchactionoperation/
 ---
 **Inheritance:**

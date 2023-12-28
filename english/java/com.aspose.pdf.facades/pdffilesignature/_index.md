@@ -56,6 +56,7 @@ Represents a class to sign a pdf file with a certificate.
 | [removeUsageRights()](#removeUsageRights--) | Removes the usage rights entry. |
 | [removeSignature(String signName)](#removeSignature-java.lang.String-) | Remove the signature according to the name of the signature. |
 | [removeSignature(String signName, boolean removeField)](#removeSignature-java.lang.String-boolean-) | Removes the signature according to the name of the signature. |
+| [removeSignatures()](#removeSignatures--) | Removes all signatures. |
 | [verifySigned(String signName)](#verifySigned-java.lang.String-) | Checks the validity of a signature. |
 | [getSignerName(String signName)](#getSignerName-java.lang.String-) | Gets the name of person or organization who signing the pdf document. |
 | [getDateTime(String signName)](#getDateTime-java.lang.String-) | Gets the signature's datetime. |
@@ -659,6 +660,22 @@ String inFile = TestPath + "example1.pdf";
 | --- | --- | --- |
 | signName | java.lang.String | The name of signature. |
 | removeField | boolean | If set to true, than removes both of signature and field from document; otherwise, signature only. |
+
+### removeSignatures() {#removeSignatures--}
+```
+public final void removeSignatures()
+```
+
+
+Removes all signatures.
+
+```
+string inFile = TestPath + "example1.pdf";
+ var pdfSign = new PdfFileSignature();
+ pdfSign.bindPdf(inFile);
+ pdfSign.removeSignatures();
+ pdfSign.save(TestPath + "signed_removed.pdf");
+```
 
 ### verifySigned(String signName) {#verifySigned-java.lang.String-}
 ```

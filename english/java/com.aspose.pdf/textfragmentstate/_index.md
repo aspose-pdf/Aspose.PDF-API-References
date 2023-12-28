@@ -3,7 +3,7 @@ title: TextFragmentState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text fragment.
 type: docs
-weight: 376
+weight: 377
 url: /java/com.aspose.pdf/textfragmentstate/
 ---
 **Inheritance:**
@@ -78,6 +78,7 @@ Note that changing  TextFragmentState  properties may change inner  TextFragment
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets background color of the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object |
 | [isUnderline()](#isUnderline--) | Gets or sets underline for the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object |
 | [setUnderline(boolean value)](#setUnderline-boolean-) | Sets underline for the text, represented by the  TextFragment  object |
+| [getStrikeOut()](#getStrikeOut--) | Gets or sets strikeout for the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object |
 | [setStrikeOut(boolean value)](#setStrikeOut-boolean-) | Sets strikeout for the text, represented by the  TextFragment  object |
 | [getFontStyle()](#getFontStyle--) | Sets font style of the text, represented by the  TextFragment  object |
 | [setFontStyle(int value)](#setFontStyle-int-) | Sets font style of the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object |
@@ -90,6 +91,8 @@ Note that changing  TextFragmentState  properties may change inner  TextFragment
 | [getFormattingOptions()](#getFormattingOptions--) | Gets or sets formatting options. |
 | [setFormattingOptions(TextFormattingOptions value)](#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-) | Gets or sets formatting options. |
 | [getTextHeight()](#getTextHeight--) | Gets text height, represented by the  TextFragment  object |
+| [getCoordinateOrigin()](#getCoordinateOrigin--) | Gets or sets text CoordinateOrigin. |
+| [setCoordinateOrigin(int value)](#setCoordinateOrigin-int-) | Gets or sets text CoordinateOrigin. |
 | [getRotation()](#getRotation--) | Gets or sets rotation angle in degrees. |
 | [setRotation(double value)](#setRotation-double-) | Gets or sets rotation angle in degrees. |
 | [getDrawTextRectangleBorder()](#getDrawTextRectangleBorder--) | Gets if text rectangle border drawn flag. |
@@ -410,6 +413,16 @@ Sets underline for the text, represented by the  TextFragment  object
 | --- | --- | --- |
 | value | boolean | boolean value |
 
+### getStrikeOut() {#getStrikeOut--}
+```
+public boolean getStrikeOut()
+```
+
+
+Gets or sets strikeout for the text, represented by the [TextFragment](../../com.aspose.pdf/textfragment) object
+
+**Returns:**
+boolean - boolean value
 ### setStrikeOut(boolean value) {#setStrikeOut-boolean-}
 ```
 public void setStrikeOut(boolean value)
@@ -556,6 +569,29 @@ Gets text height, represented by the  TextFragment  object
 
 **Returns:**
 float - float value
+### getCoordinateOrigin() {#getCoordinateOrigin--}
+```
+public int getCoordinateOrigin()
+```
+
+
+Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
+
+**Returns:**
+int - CoordinateOrigin element
+### setCoordinateOrigin(int value) {#setCoordinateOrigin-int-}
+```
+public void setCoordinateOrigin(int value)
+```
+
+
+Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | CoordinateOrigin element |
+
 ### getRotation() {#getRotation--}
 ```
 public double getRotation()

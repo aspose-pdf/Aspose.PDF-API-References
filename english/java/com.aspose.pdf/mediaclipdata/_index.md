@@ -3,7 +3,7 @@ title: MediaClipData
 second_title: Aspose.PDF for Java API Reference
 description: Class describes media clip data.
 type: docs
-weight: 212
+weight: 213
 url: /java/com.aspose.pdf/mediaclipdata/
 ---
 **Inheritance:**

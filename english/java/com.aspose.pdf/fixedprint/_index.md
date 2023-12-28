@@ -3,7 +3,7 @@ title: FixedPrint
 second_title: Aspose.PDF for Java API Reference
 description: Represent Fixed print data of Watermark Annotation.
 type: docs
-weight: 125
+weight: 126
 url: /java/com.aspose.pdf/fixedprint/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: StrikeOutAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a strikeout annotation that appears as a strikeout in the text of the document.
 type: docs
-weight: 342
+weight: 343
 url: /java/com.aspose.pdf/strikeoutannotation/
 ---
 **Inheritance:**

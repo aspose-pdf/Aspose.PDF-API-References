@@ -3,7 +3,7 @@ title: InvalidPdfFileFormatException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a pdf file is invalid.
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.pdf.exceptions/invalidpdffileformatexception/
 ---
 **Inheritance:**

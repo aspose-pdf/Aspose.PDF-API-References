@@ -3,7 +3,7 @@ title: IncorrectCMapUsageException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when font usage is incorrect.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.pdf.exceptions/incorrectcmapusageexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: EmptyValueException
 second_title: Aspose.PDF for Java API Reference
 description: Exception which thrown when requirested value does not exists.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.pdf.exceptions/emptyvalueexception/
 ---
 **Inheritance:**

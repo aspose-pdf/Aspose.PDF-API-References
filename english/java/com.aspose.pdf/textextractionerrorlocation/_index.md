@@ -3,7 +3,7 @@ title: TextExtractionErrorLocation
 second_title: Aspose.PDF for Java API Reference
 description: Represents the location in the PDF document where text extraction error has appeared.
 type: docs
-weight: 370
+weight: 371
 url: /java/com.aspose.pdf/textextractionerrorlocation/
 ---
 **Inheritance:**

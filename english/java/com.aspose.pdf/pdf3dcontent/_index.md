@@ -3,7 +3,7 @@ title: PDF3DContent
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DContent.
 type: docs
-weight: 245
+weight: 246
 url: /java/com.aspose.pdf/pdf3dcontent/
 ---
 **Inheritance:**

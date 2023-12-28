@@ -3,7 +3,7 @@ title: PdfAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents Action in PDF document
 type: docs
-weight: 275
+weight: 276
 url: /java/com.aspose.pdf/pdfaction/
 ---
 **Inheritance:**
@@ -26,6 +26,7 @@ Represents Action in PDF document
 | Method | Description |
 | --- | --- |
 | [getNext()](#getNext--) | Next actions in sequence. |
+| [getECMAScriptString()](#getECMAScriptString--) | Gets string for ECMAScript Action. |
 ### PdfAction() {#PdfAction--}
 ```
 public PdfAction()
@@ -42,3 +43,13 @@ Next actions in sequence.
 
 **Returns:**
 [ActionCollection](../../com.aspose.pdf/actioncollection) - ActionCollection object
+### getECMAScriptString() {#getECMAScriptString--}
+```
+public final String getECMAScriptString()
+```
+
+
+Gets string for ECMAScript Action.
+
+**Returns:**
+java.lang.String - Return string for JS entry for ECMAScript Action or null else.

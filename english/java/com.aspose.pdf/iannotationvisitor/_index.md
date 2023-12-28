@@ -3,7 +3,7 @@ title: IAnnotationVisitor
 second_title: Aspose.PDF for Java API Reference
 description: Defines Visitor for visiting different document annotations.
 type: docs
-weight: 430
+weight: 431
 url: /java/com.aspose.pdf/iannotationvisitor/
 ---```
 public interface IAnnotationVisitor

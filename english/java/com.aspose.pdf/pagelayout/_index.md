@@ -3,7 +3,7 @@ title: PageLayout
 second_title: Aspose.PDF for Java API Reference
 description: Descibes page layout.
 type: docs
-weight: 264
+weight: 265
 url: /java/com.aspose.pdf/pagelayout/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: DocumentActionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class describes actions performed on some actions with document
 type: docs
-weight: 90
+weight: 91
 url: /java/com.aspose.pdf/documentactioncollection/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TextState
 second_title: Aspose.PDF for Java API Reference
 description: Represents a text state of a text
 type: docs
-weight: 390
+weight: 391
 url: /java/com.aspose.pdf/textstate/
 ---
 **Inheritance:**
@@ -72,6 +72,8 @@ Represents a text state of a text
 | [setFontStyle(int value)](#setFontStyle-int-) | Sets font style of the text. |
 | [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment for the text. |
 | [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets horizontal alignment for the text. |
+| [getCoordinateOrigin()](#getCoordinateOrigin--) | Gets or sets text CoordinateOrigin. |
+| [setCoordinateOrigin(int value)](#setCoordinateOrigin-int-) | Gets or sets text CoordinateOrigin. |
 | [measureString(String str, boolean insideLine)](#measureString-java.lang.String-boolean-) | Measures the string. |
 | [measureString(String str)](#measureString-java.lang.String-) | Measures the string. |
 | [measureHeight(char character)](#measureHeight-char-) | Measures character height. |
@@ -653,6 +655,29 @@ HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextSta
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
+
+### getCoordinateOrigin() {#getCoordinateOrigin--}
+```
+public int getCoordinateOrigin()
+```
+
+
+Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
+
+**Returns:**
+int - CoordinateOrigin element
+### setCoordinateOrigin(int value) {#setCoordinateOrigin-int-}
+```
+public void setCoordinateOrigin(int value)
+```
+
+
+Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | CoordinateOrigin element |
 
 ### measureString(String str, boolean insideLine) {#measureString-java.lang.String-boolean-}
 ```
