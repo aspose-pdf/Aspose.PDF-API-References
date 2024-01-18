@@ -3,7 +3,7 @@ title: Class PdfHtml
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfHtml class. Represents PdfHtml plugin
 type: docs
-weight: 6720
+weight: 6830
 url: /net/aspose.pdf.plugins/pdfhtml/
 ---
 ## PdfHtml class
@@ -37,9 +37,9 @@ var converter = new PdfHtml();
 // create PdfToHtmlOptions object to set output data type as file with embedded resources
 var opt = new PdfToHtmlOptions(PdfToHtmlOptions.SaveDataType.FileWithEmbeddedResources);
 // add input file path
-opt.AddDataSource(new FileDataSource(inputPath));
+opt.AddInput(new FileDataSource(inputPath));
 // set output file path
-opt.AddSaveDataSource(new FileDataSource(outputPath));
+opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
@@ -51,9 +51,9 @@ var converter = new PdfHtml();
 // create HtmlToPdfOptions
 var opt = new HtmlToPdfOptions();
 // add input file path
-opt.AddDataSource(new FileDataSource(inputPath));
+opt.AddInput(new FileDataSource(inputPath));
 // set output file path
-opt.AddSaveDataSource(new FileDataSource(outputPath));
+opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 

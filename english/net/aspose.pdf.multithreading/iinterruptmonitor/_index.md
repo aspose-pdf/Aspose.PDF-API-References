@@ -3,7 +3,7 @@ title: Interface IInterruptMonitor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Multithreading.IInterruptMonitor interface. Represents information about interruption
 type: docs
-weight: 4890
+weight: 4900
 url: /net/aspose.pdf.multithreading/iinterruptmonitor/
 ---
 ## IInterruptMonitor interface

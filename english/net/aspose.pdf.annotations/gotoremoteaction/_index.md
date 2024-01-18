@@ -3,7 +3,7 @@ title: Class GoToRemoteAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.GoToRemoteAction class. Represents a remote goto action that is similar to an ordinary goto action but jumps to a destination in another PDF file instead of the current file
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.pdf.annotations/gotoremoteaction/
 ---
 ## GoToRemoteAction class

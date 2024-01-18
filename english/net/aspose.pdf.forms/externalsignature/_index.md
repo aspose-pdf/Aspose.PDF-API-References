@@ -3,7 +3,7 @@ title: Class ExternalSignature
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.ExternalSignature class. Creates a detached PKCS7Detached signature using a X509Certificate2. It supports usb smartcards tokens without exportable private keys
 type: docs
-weight: 3040
+weight: 3050
 url: /net/aspose.pdf.forms/externalsignature/
 ---
 ## ExternalSignature class

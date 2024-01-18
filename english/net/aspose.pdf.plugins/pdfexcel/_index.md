@@ -3,7 +3,7 @@ title: Class PdfExcel
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfExcel class. Represents PdfExcel plugin
 type: docs
-weight: 6530
+weight: 6790
 url: /net/aspose.pdf.plugins/pdfexcel/
 ---
 ## PdfExcel class
@@ -37,9 +37,9 @@ var converter = new PdfExcel();
 // create PdfToExcelOptions 
 var opt = new PdfToExcelOptions();
 // add input file path
-opt.AddDataSource(new FileDataSource(inputPath));
+opt.AddInput(new FileDataSource(inputPath));
 // set output file path
-opt.AddSaveDataSource(new FileDataSource(outputPath));
+opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 

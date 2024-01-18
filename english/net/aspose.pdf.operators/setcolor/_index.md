@@ -3,7 +3,7 @@ title: Class SetColor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetColor class. Represents class for sc operator set color for nonstroking operations
 type: docs
-weight: 5520
+weight: 5530
 url: /net/aspose.pdf.operators/setcolor/
 ---
 ## SetColor class

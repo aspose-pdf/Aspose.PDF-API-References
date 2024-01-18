@@ -3,7 +3,7 @@ title: Class PopupAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PopupAnnotation class. Represents the popup annotation that displays text in a popup window for entry and editing
 type: docs
-weight: 960
+weight: 970
 url: /net/aspose.pdf.annotations/popupannotation/
 ---
 ## PopupAnnotation class

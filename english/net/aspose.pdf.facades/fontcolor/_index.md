@@ -3,7 +3,7 @@ title: Class FontColor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.FontColor class. Class representing color of the text
 type: docs
-weight: 2330
+weight: 2340
 url: /net/aspose.pdf.facades/fontcolor/
 ---
 ## FontColor class

@@ -3,7 +3,7 @@ title: Class Measure.NumberFormatList
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.MeasureNumberFormatList class. Represents list of number formats
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.pdf.annotations/measure.numberformatlist/
 ---
 ## Measure.NumberFormatList class

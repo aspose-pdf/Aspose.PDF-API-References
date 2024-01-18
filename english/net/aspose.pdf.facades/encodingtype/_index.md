@@ -3,7 +3,7 @@ title: Enum EncodingType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.EncodingType enum. Enumerates encoding types of the text using
 type: docs
-weight: 2300
+weight: 2310
 url: /net/aspose.pdf.facades/encodingtype/
 ---
 ## EncodingType enumeration

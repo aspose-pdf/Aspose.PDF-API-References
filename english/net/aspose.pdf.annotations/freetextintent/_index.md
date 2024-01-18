@@ -3,7 +3,7 @@ title: Enum FreeTextIntent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FreeTextIntent enum. Enumerates the intents of the free text annotation
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.pdf.annotations/freetextintent/
 ---
 ## FreeTextIntent enumeration

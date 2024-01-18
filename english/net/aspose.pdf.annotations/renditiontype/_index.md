@@ -3,7 +3,7 @@ title: Enum RenditionType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.RenditionType enum. Enumeration describes possible types of Rendition
 type: docs
-weight: 1040
+weight: 1050
 url: /net/aspose.pdf.annotations/renditiontype/
 ---
 ## RenditionType enumeration

@@ -3,7 +3,7 @@ title: Enum Measure.NumberFormat.FractionStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.MeasureNumberFormatFractionStyle enum. Value which indicates in which manner fraction values are displayed
 type: docs
-weight: 690
+weight: 700
 url: /net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
 ---
 ## Measure.NumberFormat.FractionStyle enumeration

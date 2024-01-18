@@ -3,7 +3,7 @@ title: Class MergeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.MergeOptions class. Represents Merge options for Merger plugin
 type: docs
-weight: 6480
+weight: 6720
 url: /net/aspose.pdf.plugins/mergeoptions/
 ---
 ## MergeOptions class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf.plugins/mergeoptions/
 Represents Merge options for [`Merger`](../merger/) plugin.
 
 ```csharp
-public sealed class MergeOptions : PdfOrganizerOptions
+public sealed class MergeOptions : OrganizerBaseOptions
 ```
 
 ## Constructors
@@ -24,21 +24,21 @@ public sealed class MergeOptions : PdfOrganizerOptions
 
 | Name | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/pdforganizeroptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/pdforganizeroptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [DataCollection](../../aspose.pdf.plugins/pdforganizeroptions/datacollection/) { get; } | Returns OrganizerOptions plugin data collection. |
-| [SaveTargetsCollection](../../aspose.pdf.plugins/pdforganizeroptions/savetargetscollection/) { get; } | Gets collection of added targets for saving operation results. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddDataSource](../../aspose.pdf.plugins/pdforganizeroptions/adddatasource/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
-| [AddSaveDataSource](../../aspose.pdf.plugins/pdforganizeroptions/addsavedatasource/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
+| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
+| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
 
 ### See Also
 
-* class [PdfOrganizerOptions](../pdforganizeroptions/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
 

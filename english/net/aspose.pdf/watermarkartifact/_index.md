@@ -3,7 +3,7 @@ title: Class WatermarkArtifact
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.WatermarkArtifact class. Class describes watermark artifact. This may be used to
 type: docs
-weight: 8520
+weight: 8690
 url: /net/aspose.pdf/watermarkartifact/
 ---
 ## WatermarkArtifact class

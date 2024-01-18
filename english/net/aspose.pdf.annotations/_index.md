@@ -29,6 +29,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [DefaultAppearance](./defaultappearance/) | Describes default appearance of field (font, text size and color). |
 | [DocumentActionCollection](./documentactioncollection/) | Class describes actions performed on some actions with document |
 | [ExplicitDestination](./explicitdestination/) | Represents the base class for explicit destinations in PDF document. |
+| [FdfReader](./fdfreader/) | Class which performes reading of FDF format. |
 | [FileAttachmentAnnotation](./fileattachmentannotation/) | Class describes file attachment annotation. |
 | [FitBExplicitDestination](./fitbexplicitdestination/) | Represents explicit destination that displays the page with its contents magnified just enough to fit its bounding box entirely within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different, use the smaller of the two, centering the bounding box within the window in the other dimension. |
 | [FitBHExplicitDestination](./fitbhexplicitdestination/) | Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page magnified just enough to fit the entire width of its bounding box within the window. A null value for top specifies that the current value of that parameter is to be retained unchanged. |

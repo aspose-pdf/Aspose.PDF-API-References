@@ -3,7 +3,7 @@ title: PdfAnnotationEditor.ImportAnnotationsFromXfdf
 second_title: Aspose.PDF for .NET API Reference
 description: PdfAnnotationEditor method. Imports all annotations from XFDF file
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}

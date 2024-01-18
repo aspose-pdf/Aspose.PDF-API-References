@@ -3,7 +3,7 @@ title: PdfAnnotationEditor.ModifyAnnotations
 second_title: Aspose.PDF for .NET API Reference
 description: PdfAnnotationEditor method. Modifies the annotations of the specifed type on the specified page range. It supports to modify next annotation properties Modified Title Contents Color Subject and Open
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
 ## PdfAnnotationEditor.ModifyAnnotations method

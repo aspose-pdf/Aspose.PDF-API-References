@@ -3,7 +3,7 @@ title: Class MoveTextPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.MoveTextPosition class. Class representing Td operator move text position
 type: docs
-weight: 5370
+weight: 5380
 url: /net/aspose.pdf.operators/movetextposition/
 ---
 ## MoveTextPosition class

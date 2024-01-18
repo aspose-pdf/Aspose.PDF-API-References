@@ -3,7 +3,7 @@ title: Class FormulaElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.FormulaElement class. Represents Formula structure element in logical structure
 type: docs
-weight: 4270
+weight: 4280
 url: /net/aspose.pdf.logicalstructure/formulaelement/
 ---
 ## FormulaElement class

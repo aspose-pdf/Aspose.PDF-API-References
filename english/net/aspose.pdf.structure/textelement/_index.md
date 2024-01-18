@@ -3,7 +3,7 @@ title: Class TextElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Structure.TextElement class. General text element of document logical structure
 type: docs
-weight: 7450
+weight: 7620
 url: /net/aspose.pdf.structure/textelement/
 ---
 ## TextElement class

@@ -3,7 +3,7 @@ title: Class XmpPdfAExtensionField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XmpPdfAExtensionField class. This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema but defines a field in a structure instead of a property. Schema namespace URI http//www.aiim.org/pdfa/ns/field Required schema namespace prefix pdfaField
 type: docs
-weight: 8650
+weight: 8820
 url: /net/aspose.pdf/xmppdfaextensionfield/
 ---
 ## XmpPdfAExtensionField class

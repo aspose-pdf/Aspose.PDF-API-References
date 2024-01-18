@@ -3,7 +3,7 @@ title: Class TocGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TocGenerator class. Represents Aspose.PDF TocGenerator plugin
 type: docs
-weight: 6960
+weight: 7130
 url: /net/aspose.pdf.plugins/tocgenerator/
 ---
 ## TocGenerator class
@@ -37,10 +37,10 @@ var generator = new TocGenerator();
 // create TocOptions object to set instructions
 var opt = new TocOptions();
 // add input file paths
-opt.AddDataSource(new FileDataSource(inputPath1));
-opt.AddDataSource(new FileDataSource(inputPath2));
+opt.AddInput(new FileDataSource(inputPath1));
+opt.AddInput(new FileDataSource(inputPath2));
 // set output file path
-opt.AddSaveDataSource(new FileDataSource(outputPath));
+opt.AddOutput(new FileDataSource(outputPath));
 // perform extraction process
 generator.Process(opt);
 ```

@@ -3,7 +3,7 @@ title: Class ID
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.ID class. Class representing ID operator Begin inline image data
 type: docs
-weight: 5320
+weight: 5330
 url: /net/aspose.pdf.operators/id/
 ---
 ## ID class

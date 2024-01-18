@@ -3,7 +3,7 @@ title: Enum PropertyFlag
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PropertyFlag enum. Enumeration of possible field flags
 type: docs
-weight: 2720
+weight: 2730
 url: /net/aspose.pdf.facades/propertyflag/
 ---
 ## PropertyFlag enumeration

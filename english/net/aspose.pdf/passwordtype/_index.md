@@ -3,7 +3,7 @@ title: Enum PasswordType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PasswordType enum. This enum represents known password types used for password protected pdf documents
 type: docs
-weight: 6070
+weight: 6080
 url: /net/aspose.pdf/passwordtype/
 ---
 ## PasswordType enumeration

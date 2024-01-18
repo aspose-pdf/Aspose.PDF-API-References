@@ -3,7 +3,7 @@ title: Class DictionaryEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.DictionaryEditor class. A class for accessing an objects dictionary
 type: docs
-weight: 8360
+weight: 8530
 url: /net/aspose.pdf.utils/dictionaryeditor/
 ---
 ## DictionaryEditor class

@@ -3,7 +3,7 @@ title: PdfExtractor.Process
 second_title: Aspose.PDF for .NET API Reference
 description: PdfExtractor method. Starts PdfExtractor processing with the specified parameters
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.pdf.plugins/pdfextractor/process/
 ---
 ## PdfExtractor.Process method

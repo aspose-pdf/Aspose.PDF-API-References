@@ -3,7 +3,7 @@ title: Class XImage
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XImage class. Class representing image XObject
 type: docs
-weight: 8560
+weight: 8730
 url: /net/aspose.pdf/ximage/
 ---
 ## XImage class

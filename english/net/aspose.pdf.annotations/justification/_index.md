@@ -3,7 +3,7 @@ title: Enum Justification
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.Justification enum. Enumerates the forms of quadding justification to be used in displaying the annotations text
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.pdf.annotations/justification/
 ---
 ## Justification enumeration

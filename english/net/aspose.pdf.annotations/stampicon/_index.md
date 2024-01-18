@@ -3,7 +3,7 @@ title: Enum StampIcon
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.StampIcon enum. Enumerates the icons to be used in displaying the annotation
 type: docs
-weight: 1200
+weight: 1210
 url: /net/aspose.pdf.annotations/stampicon/
 ---
 ## StampIcon enumeration

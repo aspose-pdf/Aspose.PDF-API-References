@@ -3,7 +3,7 @@ title: Class MediaRendition
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.MediaRendition class. Class describes media rendition
 type: docs
-weight: 740
+weight: 750
 url: /net/aspose.pdf.annotations/mediarendition/
 ---
 ## MediaRendition class

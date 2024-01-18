@@ -3,7 +3,7 @@ title: PdfAnnotationEditor.RedactArea
 second_title: Aspose.PDF for .NET API Reference
 description: PdfAnnotationEditor method. Redacts area on the specified page. All contents is removed
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf.facades/pdfannotationeditor/redactarea/
 ---
 ## PdfAnnotationEditor.RedactArea method

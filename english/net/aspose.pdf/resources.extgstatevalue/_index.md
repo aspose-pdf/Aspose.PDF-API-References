@@ -3,7 +3,7 @@ title: Class Resources.ExtGStateValue
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ResourcesExtGStateValue class. Represents ExtGStates with some values
 type: docs
-weight: 7230
+weight: 7400
 url: /net/aspose.pdf/resources.extgstatevalue/
 ---
 ## Resources.ExtGStateValue class

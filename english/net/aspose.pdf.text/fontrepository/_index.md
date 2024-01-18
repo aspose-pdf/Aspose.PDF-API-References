@@ -3,7 +3,7 @@ title: Class FontRepository
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.FontRepository class. Performs font search. Searches in system installed fonts and standard Pdf fonts. Also provides functionality to open custom fonts
 type: docs
-weight: 7760
+weight: 7930
 url: /net/aspose.pdf.text/fontrepository/
 ---
 ## FontRepository class

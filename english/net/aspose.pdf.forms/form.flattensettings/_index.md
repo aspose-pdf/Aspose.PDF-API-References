@@ -3,7 +3,7 @@ title: Class Form.FlattenSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.FormFlattenSettings class. Class which describes settings for Form flattening procedure
 type: docs
-weight: 3080
+weight: 3090
 url: /net/aspose.pdf.forms/form.flattensettings/
 ---
 ## Form.FlattenSettings class

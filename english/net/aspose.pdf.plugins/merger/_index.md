@@ -3,7 +3,7 @@ title: Class Merger
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Merger class. Represents Merger plugin
 type: docs
-weight: 6490
+weight: 6730
 url: /net/aspose.pdf.plugins/merger/
 ---
 ## Merger class
@@ -36,10 +36,10 @@ var merger = new Merger();
 // create MergeOptions object to set instructions
 var opt = new MergeOptions();
 // add input file paths
-opt.AddDataSource(new FileDataSource(inputPath1));
-opt.AddDataSource(new FileDataSource(inputPath2));
+opt.AddInput(new FileDataSource(inputPath1));
+opt.AddInput(new FileDataSource(inputPath2));
 // set output file path
-opt.AddSaveDataSource(new FileDataSource(outputPath));
+opt.AddOutput(new FileDataSource(outputPath));
 // perform extraction process
 merger.Process(opt);
 ```

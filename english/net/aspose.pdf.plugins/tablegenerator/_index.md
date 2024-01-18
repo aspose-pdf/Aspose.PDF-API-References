@@ -3,7 +3,7 @@ title: Class TableGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TableGenerator class. Represents Aspose.PDF TableGenerator plugin
 type: docs
-weight: 6920
+weight: 7070
 url: /net/aspose.pdf.plugins/tablegenerator/
 ---
 ## TableGenerator class
@@ -37,10 +37,10 @@ var generator = new TableGenerator();
 // create TableOptions object to set instructions
 var opt = new TableOptions();
 // add input file paths
-opt.AddDataSource(new FileDataSource(inputPath1));
-opt.AddDataSource(new FileDataSource(inputPath2));
+opt.AddInput(new FileDataSource(inputPath1));
+opt.AddInput(new FileDataSource(inputPath2));
 // set output file path
-opt.AddSaveDataSource(new FileDataSource(outputPath));
+opt.AddOutput(new FileDataSource(outputPath));
 // perform extraction process
 generator.Process(opt);
 ```
