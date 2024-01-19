@@ -3,7 +3,7 @@ title: Class MhtLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.MhtLoadOptions class. Represents options for loading/importing of .mhtfile into pdf document
 type: docs
-weight: 4870
+weight: 4880
 url: /net/aspose.pdf/mhtloadoptions/
 ---
 ## MhtLoadOptions class

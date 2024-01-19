@@ -3,7 +3,7 @@ title: IncorrectFontUsageException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when font usage is incorrect.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.pdf.exceptions/incorrectfontusageexception/
 ---
 **Inheritance:**

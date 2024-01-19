@@ -3,7 +3,7 @@ title: Class PdfToImage
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToImage class. Represents PDF to image plugin
 type: docs
-weight: 6790
+weight: 6880
 url: /net/aspose.pdf.plugins/pdftoimage/
 ---
 ## PdfToImage class

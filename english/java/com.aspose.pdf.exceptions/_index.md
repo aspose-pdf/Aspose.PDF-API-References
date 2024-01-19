@@ -14,6 +14,7 @@ The  **com.aspose.pdf.exceptions** package provides classes for exceptions which
 
 | Class | Description |
 | --- | --- |
+| [ArgumentException](../com.aspose.pdf.exceptions/argumentexception) | The exception that is thrown when one of the arguments provided to a method is not valid. |
 | [CorruptContentException](../com.aspose.pdf.exceptions/corruptcontentexception) | Represents CorruptContentException class |
 | [CrossTableNotFoundException](../com.aspose.pdf.exceptions/crosstablenotfoundexception) | Represents CrossTableNotFoundException class |
 | [DeprecatedFeatureException](../com.aspose.pdf.exceptions/deprecatedfeatureexception) | The exception that is thrown when a feature is deprecated in current pdf version. |
@@ -29,6 +30,7 @@ The  **com.aspose.pdf.exceptions** package provides classes for exceptions which
 | [InvalidPasswordException](../com.aspose.pdf.exceptions/invalidpasswordexception) | The exception that is thrown when invalid password is provided by user. |
 | [InvalidPdfFileFormatException](../com.aspose.pdf.exceptions/invalidpdffileformatexception) | The exception that is thrown when a pdf file is invalid. |
 | [InvalidValueFormatException](../com.aspose.pdf.exceptions/invalidvalueformatexception) | Exception which thrown when requested value has incorrect format. |
+| [JavascriptExtensionsException](../com.aspose.pdf.exceptions/javascriptextensionsexception) | The exception that is thrown on errors when working with JavascriptExtensions. |
 | [NotImplementedException](../com.aspose.pdf.exceptions/notimplementedexception) | The exception that is thrown when a requested method or operation is not implemented. |
 | [NotSupportedException](../com.aspose.pdf.exceptions/notsupportedexception) | The exception that is thrown when an invoked method is not supported, or when there is an attempt to read, seek, or write to a stream that does not support the invoked functionality. |
 | [OperationCanceledException](../com.aspose.pdf.exceptions/operationcanceledexception) | Represents OperationCanceledException class |

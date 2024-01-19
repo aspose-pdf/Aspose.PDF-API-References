@@ -3,7 +3,7 @@ title: RootElement
 second_title: Aspose.PDF for Java API Reference
 description: Root structure element.
 type: docs
-weight: 317
+weight: 318
 url: /java/com.aspose.pdf/rootelement/
 ---
 **Inheritance:**

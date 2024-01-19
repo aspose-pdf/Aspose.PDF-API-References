@@ -3,7 +3,7 @@ title: XFormCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class represents collection of XFormCollection.
 type: docs
-weight: 408
+weight: 409
 url: /java/com.aspose.pdf/xformcollection/
 ---
 **Inheritance:**
@@ -162,7 +162,7 @@ Returns XForm by index.
 | index | int | Index of XFormCollection. XForms numbering is started from 1 |
 
 **Returns:**
-[XForm](../../com.aspose.pdf/xform) - Retreived XForm
+[XForm](../../com.aspose.pdf/xform) - Retrieved XForm
 ### get_Item(String name) {#get-Item-java.lang.String-}
 ```
 public XForm get_Item(String name)
@@ -177,7 +177,7 @@ Returns XForm by its name. Exception is thrown if XForm with specified name is n
 | name | java.lang.String | Name of XForm |
 
 **Returns:**
-[XForm](../../com.aspose.pdf/xform) - XForm object
+[XForm](../../com.aspose.pdf/xform) - Retrieved XForm object
 ### getFormName(XForm form) {#getFormName-com.aspose.pdf.XForm-}
 ```
 public String getFormName(XForm form)
@@ -189,10 +189,10 @@ Returns name of the form in this form collection
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| form | [XForm](../../com.aspose.pdf/xform) | Form which name is searhced |
+| form | [XForm](../../com.aspose.pdf/xform) | Form which name is searched |
 
 **Returns:**
-java.lang.String - Form name in the collection; Null if form is not contained in the colleciton
+java.lang.String - Form name in the collection; Null if form is not contained in the collection
 ### hasForm(String formName) {#hasForm-java.lang.String-}
 ```
 public boolean hasForm(String formName)

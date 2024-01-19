@@ -39,6 +39,13 @@ is_root: true
 | [AsposePdfExtractImage](./convert/asposepdfextractimage/) | Extract image from a PDF-file.|
 
 
+## Convert to PDF functions
+
+| Function | Description |
+| -------- | ----------- |
+| [AsposePdfFromTxt](./convertpdf/asposepdffromtxt/) | Convert a TXT-file to PDF. |
+
+
 ## Organize PDF functions
 
 | Function | Description |
@@ -61,6 +68,8 @@ is_root: true
 | [AsposePdfDeleteAttachments](./organize/asposepdfdeleteattachments/) | Delete attachments from a PDF-file. |
 | [AsposePdfDeleteImages](./organize/asposepdfdeleteimages/) | Delete images from a PDF-file. |
 | [AsposePdfDeleteJavaScripts](./organize/asposepdfdeletejavascripts/) | Delete JavaScripts from a PDF-file. |
+| [AsposePdfAddAttachment](./organize/asposepdfaddattachment/) | Add attachment to a PDF-file. |
+| [AsposePdfGetAttachment](./organize/asposepdfgetattachment/) | Get attachment from a PDF-file. |
 
 
 ## Metadata PDF functions

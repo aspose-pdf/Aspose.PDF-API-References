@@ -3,7 +3,7 @@ title: Document.SendTo
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Sends the whole document to the document device for processing
 type: docs
-weight: 810
+weight: 820
 url: /net/aspose.pdf/document/sendto/
 ---
 ## SendTo(DocumentDevice, Stream) {#sendto_2}

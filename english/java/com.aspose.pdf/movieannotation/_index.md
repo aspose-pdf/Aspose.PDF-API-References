@@ -3,7 +3,7 @@ title: MovieAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen and through the speakers.
 type: docs
-weight: 222
+weight: 223
 url: /java/com.aspose.pdf/movieannotation/
 ---
 **Inheritance:**

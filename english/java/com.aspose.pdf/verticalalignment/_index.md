@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: Aspose.PDF for Java API Reference
 description: Enumeration of possible vertical alignment values.
 type: docs
-weight: 452
+weight: 453
 url: /java/com.aspose.pdf/verticalalignment/
 ---
 **Inheritance:**

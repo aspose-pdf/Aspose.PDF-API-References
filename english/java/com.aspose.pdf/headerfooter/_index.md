@@ -3,7 +3,7 @@ title: HeaderFooter
 second_title: Aspose.PDF for Java API Reference
 description: Class represents header or footer pdf page.
 type: docs
-weight: 149
+weight: 150
 url: /java/com.aspose.pdf/headerfooter/
 ---
 **Inheritance:**

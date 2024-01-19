@@ -3,7 +3,7 @@ title: ElementCollection
 second_title: Aspose.PDF for Java API Reference
 description: Collection of base logical structure elements.
 type: docs
-weight: 95
+weight: 96
 url: /java/com.aspose.pdf/elementcollection/
 ---
 **Inheritance:**

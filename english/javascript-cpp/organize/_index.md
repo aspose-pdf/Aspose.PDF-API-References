@@ -28,6 +28,9 @@ url: /javascript-cpp/organize/
 | [AsposePdfDeleteAttachments](./asposepdfdeleteattachments/) | Delete attachments from a PDF-file. |
 | [AsposePdfDeleteImages](./asposepdfdeleteimages/) | Delete images from a PDF-file. |
 | [AsposePdfDeleteJavaScripts](./asposepdfdeletejavascripts/) | Delete JavaScripts from a PDF-file. |
+| [AsposePdfAddAttachment](./asposepdfaddattachment/) | Add attachment to a PDF-file. |
+| [AsposePdfGetAttachment](./asposepdfgetattachment/) | Get attachment from a PDF-file. |
+
 
 ## Detailed Description
 

@@ -3,7 +3,7 @@ title: PsSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to PS PostScript or EPS format.
 type: docs
-weight: 300
+weight: 301
 url: /java/com.aspose.pdf/pssaveoptions/
 ---
 **Inheritance:**

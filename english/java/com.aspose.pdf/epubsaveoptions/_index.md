@@ -3,7 +3,7 @@ title: EpubSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to EPUB format
 type: docs
-weight: 99
+weight: 100
 url: /java/com.aspose.pdf/epubsaveoptions/
 ---
 **Inheritance:**

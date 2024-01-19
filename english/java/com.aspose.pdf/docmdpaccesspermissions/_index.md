@@ -3,7 +3,7 @@ title: DocMDPAccessPermissions
 second_title: Aspose.PDF for Java API Reference
 description: The access permissions granted for this document.
 type: docs
-weight: 86
+weight: 87
 url: /java/com.aspose.pdf/docmdpaccesspermissions/
 ---
 **Inheritance:**

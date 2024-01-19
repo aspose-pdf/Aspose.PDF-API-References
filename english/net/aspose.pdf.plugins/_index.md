@@ -12,48 +12,64 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 
 | Class | Description |
 | --- | --- |
-| [CheckBoxFieldCreateOptions](./checkboxfieldcreateoptions/) | Represents options for creating CheckBoxField. |
-| [ComboBoxFieldCreateOptions](./comboboxfieldcreateoptions/) | Represents options for creating ComboBoxField. |
-| [FieldCreateOptions](./fieldcreateoptions/) | Represents options for creating Field. |
-| [FieldOptions](./fieldoptions/) | Represents Field options. Base class for PdfFormFieldCreateOptions and PdfFormFillFieldOptions. |
+| [CompressOptions](./compressoptions/) | Represents Compress options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [FileDataSource](./filedatasource/) | Represents file data source for load and save operations of a plugin. |
 | [FileResult](./fileresult/) | Represents operation result in the form of string path to file. |
+| [FormCheckBoxFieldCreateOptions](./formcheckboxfieldcreateoptions/) | Represents options for creating CheckBoxField by FormEditor plugin. |
+| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/) | Represents options for set properties in CheckboxField by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormComboBoxFieldCreateOptions](./formcomboboxfieldcreateoptions/) | Represents options for creating ComboBoxField by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/) | Represents options for set properties in ComboBoxField by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormEditor](./formeditor/) | Represents FormEditor plugin. |
+| [FormEditorAddOptions](./formeditoraddoptions/) | Represents options for add Fields to document by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormEditorOptions](./formeditoroptions/) | Represents options for [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormEditorRemoveOptions](./formeditorremoveoptions/) | Base class for option classes for remove fields in document by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormEditorSetOptions](./formeditorsetoptions/) | Represents options for set fields (not annotations) properties. |
+| [FormExporter](./formexporter/) | Represents FormExporter plugin. |
+| [FormExporterOptions](./formexporteroptions/) | Represents options for FormExporter plugin. |
+| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/) | Represents options for export Value property(s) of specified field(s) (not annotations). |
+| [FormFieldCreateOptions](./formfieldcreateoptions/) | Represents options for creating Field. |
+| [FormFieldOptions](./formfieldoptions/) | Represents Field options. Base class for PdfFormFieldCreateOptions and PdfFormFillFieldOptions. |
+| [FormFieldSetOptions](./formfieldsetoptions/) | Represents options for set properties in Field. |
+| [FormFlattenAllFieldsOptions](./formflattenallfieldsoptions/) | Represents options for flatten all fields (not annotations) in document by [`FormFlattener`](../aspose.pdf.plugins/formflattener/) plugin. |
+| [FormFlattener](./formflattener/) | Represents FormFlattener plugin. |
+| [FormFlattenerOptions](./formflatteneroptions/) | Base class for option classes for flatten fields (not annotations) in document by FormFlattener plugin. |
+| [FormFlattenSelectedFieldsOptions](./formflattenselectedfieldsoptions/) | Represents options for flatten selected fields (not annotations) in document by [`FormFlattener`](../aspose.pdf.plugins/formflattener/) plugin. |
+| [FormOptions](./formoptions/) | Represents options for a family Form.... plugins. |
+| [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/) | Represents options for remove all fields in document by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/) | Represents options for remove selected fields in document by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormTextBoxFieldCreateOptions](./formtextboxfieldcreateoptions/) | Represents options for creating TextBoxField by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
+| [FormTextBoxFieldSetOptions](./formtextboxfieldsetoptions/) | Represents options for set properties in TextBoxField by [`FormEditor`](../aspose.pdf.plugins/formeditor/) plugin. |
 | [HtmlToPdfOptions](./htmltopdfoptions/) | Represents HTML to PDF converter options for [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
+| [ImageExtractor](./imageextractor/) | Represents ImageExtractor plugin. |
+| [ImageExtractorOptions](./imageextractoroptions/) | Represents images extraction options for the ImageExtractor plugin. |
 | [Jpeg](./jpeg/) | Represents Pdf to Jpeg plugin. |
 | [JpegOptions](./jpegoptions/) | Represents Pdf to Jpeg converter options for the [`Jpeg`](../aspose.pdf.plugins/jpeg/) plugin. |
 | [MergeOptions](./mergeoptions/) | Represents Merge options for [`Merger`](../aspose.pdf.plugins/merger/) plugin. |
 | [Merger](./merger/) | Represents [`Merger`](../aspose.pdf.plugins/merger/) plugin. |
 | [ObjectResult](./objectresult/) | Represents operation result in the form of string. |
+| [OptimizeOptions](./optimizeoptions/) | Represents Optimize options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
+| [Optimizer](./optimizer/) | Represents [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
+| [OrganizerBaseOptions](./organizerbaseoptions/) | Represents base options for plugins. |
 | [PdfConverterOptions](./pdfconverteroptions/) | Represents options for Pdf converter plugins. |
-| [PdfDoc](./pdfdoc/) | Represents [`PdfDoc`](../aspose.pdf.plugins/pdfdoc/) plugin. |
 | [PdfExcel](./pdfexcel/) | Represents [`PdfExcel`](../aspose.pdf.plugins/pdfexcel/) plugin. |
-| [PdfExtractor](./pdfextractor/) | Represents PdfExtractor plugin. |
-| [PdfExtractorOptions](./pdfextractoroptions/) | Represents options for the PdfExtractor plugin. |
-| [PdfExtractorToImageOptions](./pdfextractortoimageoptions/) | Represents images extraction options for the PdfExtractor plugin. |
-| [PdfExtractorToTextOptions](./pdfextractortotextoptions/) | Represents text extraction options for the PdfExtractor plugin. |
-| [PdfForm](./pdfform/) | Represents PdfForm plugin. |
-| [PdfFormAddFieldsOptions](./pdfformaddfieldsoptions/) | Represents options for add Fields to document by PdfForm plugin. |
-| [PdfFormCheckBoxFieldSetOptions](./pdfformcheckboxfieldsetoptions/) | Represents options for set properties in CheckboxField. |
-| [PdfFormComboBoxFieldSetOptions](./pdfformcomboboxfieldsetoptions/) | Represents options for set properties in ComboBoxField. |
-| [PdfFormExportValuesToCsvOptions](./pdfformexportvaluestocsvoptions/) | Represents options for export Value property of specified fields (not annotations). |
-| [PdfFormFieldSetOptions](./pdfformfieldsetoptions/) | Represents options for set properties in Field. |
-| [PdfFormFlattenFieldsOptions](./pdfformflattenfieldsoptions/) | Represents options for flatten all Fields (not annotations) on specified pages of document by PdfForm plugin. |
-| [PdfFormOptions](./pdfformoptions/) | Represents options for PdfForm plugin. |
-| [PdfFormRemoveFieldsOptions](./pdfformremovefieldsoptions/) | Represents options for remove all Fields from specified pages of document by PdfForm plugin. |
-| [PdfFormSetFieldOptions](./pdfformsetfieldoptions/) | Represents options for set fields (not annotations) properties. |
-| [PdfFormTextBoxFieldSetOptions](./pdfformtextboxfieldsetoptions/) | Represents options for set properties in TextBoxField. |
+| [PdfExtractor](./pdfextractor/) | Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF documents. |
+| [PdfExtractorOptions](./pdfextractoroptions/) | Represents options for the TextExtractor and ImageExtractor plugins. |
 | [PdfGeneratorOptions](./pdfgeneratoroptions/) | Represents options for Generator plugins. |
 | [PdfHtml](./pdfhtml/) | Represents [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
-| [PdfOrganizerOptions](./pdforganizeroptions/) | Represents options for PdfOrganizer plugin. |
-| [PdfToDocOptions](./pdftodocoptions/) | Represents PDF to DOC converter options for [`PdfDoc`](../aspose.pdf.plugins/pdfdoc/) plugin. |
 | [PdfToExcelOptions](./pdftoexceloptions/) | Represents PDF to XLSX converter options for [`PdfExcel`](../aspose.pdf.plugins/pdfexcel/) plugin. |
 | [PdfToHtmlOptions](./pdftohtmloptions/) | Represents PDF to HTML converter options for [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
 | [PdfToImage](./pdftoimage/) | Represents PDF to image plugin. |
 | [PdfToImageOptions](./pdftoimageoptions/) | Represents options for the [`PdfToImage`](../aspose.pdf.plugins/pdftoimage/) plugin. |
+| [PdfToWordOptions](./pdftowordoptions/) | Represents PDF to DOC converter options for [`PdfWord`](../aspose.pdf.plugins/pdfword/) plugin. |
+| [PdfWord](./pdfword/) | Represents [`PdfWord`](../aspose.pdf.plugins/pdfword/) plugin. |
 | [Png](./png/) | Represents Pdf to Png plugin. |
 | [PngOptions](./pngoptions/) | Represents Pdf to Png converter options for the [`Png`](../aspose.pdf.plugins/png/) plugin. |
+| [ResizeOptions](./resizeoptions/) | Represents Resize options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [ResultContainer](./resultcontainer/) | Represents container that contains the result collection of processing the plugin. |
+| [RotateOptions](./rotateoptions/) | Represents Rotate options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [SelectField](./selectfield/) |  |
+| [SplitOptions](./splitoptions/) | Represents Split options for [`Splitter`](../aspose.pdf.plugins/splitter/) plugin. |
+| [Splitter](./splitter/) | Represents [`Splitter`](../aspose.pdf.plugins/splitter/) plugin. |
 | [StreamDataSource](./streamdatasource/) | Represents stream data source for load and save operations of a plugin. |
 | [StreamResult](./streamresult/) | Represents operation result in the form of Stream. |
 | [StringResult](./stringresult/) | Represents operation result in the form of string. |
@@ -62,7 +78,8 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [TableGenerator](./tablegenerator/) | Represents Aspose.PDF TableGenerator plugin. |
 | [TableOptions](./tableoptions/) | Represents options for add table to document by [`TableGenerator`](../aspose.pdf.plugins/tablegenerator/) plugin. |
 | [TableRowBuilder](./tablerowbuilder/) | Class represents builder for table row. |
-| [TextBoxFieldCreateOptions](./textboxfieldcreateoptions/) | Represents options for creating TextBoxField. |
+| [TextExtractor](./textextractor/) | Represents TextExtractor plugin. |
+| [TextExtractorOptions](./textextractoroptions/) | Represents text extraction options for the TextExtractor plugin. |
 | [TocGenerator](./tocgenerator/) | Represents Aspose.PDF TocGenerator plugin. |
 | [TocOptions](./tocoptions/) | Represents options for add table of contents to document by [`TocGenerator`](../aspose.pdf.plugins/tocgenerator/) plugin. |
 ## Interfaces

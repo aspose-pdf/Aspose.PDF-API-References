@@ -3,7 +3,7 @@ title: Class TextStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TextStamp class. Reresents textual stamp
 type: docs
-weight: 8280
+weight: 8450
 url: /net/aspose.pdf/textstamp/
 ---
 ## TextStamp class

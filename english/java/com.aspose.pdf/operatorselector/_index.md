@@ -3,7 +3,7 @@ title: OperatorSelector
 second_title: Aspose.PDF for Java API Reference
 description: This class is used for selecting operators using Visitor template idea.
 type: docs
-weight: 232
+weight: 233
 url: /java/com.aspose.pdf/operatorselector/
 ---
 **Inheritance:**

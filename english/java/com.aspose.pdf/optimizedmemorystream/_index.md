@@ -3,7 +3,7 @@ title: OptimizedMemoryStream
 second_title: Aspose.PDF for Java API Reference
 description: Defines a MemoryStream that can contains more standard capacity
 type: docs
-weight: 234
+weight: 235
 url: /java/com.aspose.pdf/optimizedmemorystream/
 ---
 **Inheritance:**

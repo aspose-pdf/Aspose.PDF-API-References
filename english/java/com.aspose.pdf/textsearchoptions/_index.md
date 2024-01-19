@@ -3,7 +3,7 @@ title: TextSearchOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents text search options
 type: docs
-weight: 386
+weight: 387
 url: /java/com.aspose.pdf/textsearchoptions/
 ---
 **Inheritance:**

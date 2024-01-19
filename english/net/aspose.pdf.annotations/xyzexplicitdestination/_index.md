@@ -3,7 +3,7 @@ title: Class XYZExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.XYZExplicitDestination class. Represents explicit destination that displays the page with the coordinates left top positioned at the upperleft corner of the window and the contents of the page magnified by the factor zoom. A null value for any of the parameters left top or zoom specifies that the current value of that parameter is to be retained unchanged. A zoom value of 0 has the same meaning as a null value
 type: docs
-weight: 1300
+weight: 1310
 url: /net/aspose.pdf.annotations/xyzexplicitdestination/
 ---
 ## XYZExplicitDestination class

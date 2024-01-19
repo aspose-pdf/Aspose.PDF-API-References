@@ -3,7 +3,7 @@ title: Enum PDF3DActivation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PDF3DActivation enum. Enum PDF3DActivation set of 3D annotation activation mode
 type: docs
-weight: 780
+weight: 790
 url: /net/aspose.pdf.annotations/pdf3dactivation/
 ---
 ## PDF3DActivation enumeration

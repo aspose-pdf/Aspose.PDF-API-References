@@ -3,7 +3,7 @@ title: RedactionAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents Redact annotation.
 type: docs
-weight: 305
+weight: 306
 url: /java/com.aspose.pdf/redactionannotation/
 ---
 **Inheritance:**

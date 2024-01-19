@@ -3,7 +3,7 @@ title: ExtractImageMode
 second_title: Aspose.PDF for Java API Reference
 description: Defines different modes which can be used while extracting images from documents.
 type: docs
-weight: 106
+weight: 107
 url: /java/com.aspose.pdf/extractimagemode/
 ---
 **Inheritance:**

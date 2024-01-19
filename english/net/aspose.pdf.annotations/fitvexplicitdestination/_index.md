@@ -3,7 +3,7 @@ title: Class FitVExplicitDestination
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.FitVExplicitDestination class. Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of the page within the window. A null value for left specifies that the current value of that parameter is to be retained unchanged
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.pdf.annotations/fitvexplicitdestination/
 ---
 ## FitVExplicitDestination class

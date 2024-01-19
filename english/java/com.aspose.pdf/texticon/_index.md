@@ -3,7 +3,7 @@ title: TextIcon
 second_title: Aspose.PDF for Java API Reference
 description: Enumerates the icons to be used in displaying the annotation.
 type: docs
-weight: 377
+weight: 378
 url: /java/com.aspose.pdf/texticon/
 ---
 **Inheritance:**

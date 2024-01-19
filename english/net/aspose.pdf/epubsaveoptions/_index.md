@@ -3,7 +3,7 @@ title: Class EpubSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.EpubSaveOptions class. Save options for export to EPUB format
 type: docs
-weight: 2150
+weight: 2160
 url: /net/aspose.pdf/epubsaveoptions/
 ---
 ## EpubSaveOptions class

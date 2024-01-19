@@ -3,7 +3,7 @@ title: CorruptContentException
 second_title: Aspose.PDF for Java API Reference
 description: Represents CorruptContentException class
 type: docs
-weight: 10
+weight: 11
 url: /java/com.aspose.pdf.exceptions/corruptcontentexception/
 ---
 **Inheritance:**

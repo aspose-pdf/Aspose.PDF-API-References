@@ -3,7 +3,7 @@ title: Paragraphs
 second_title: Aspose.PDF for Java API Reference
 description: This class represents paragraph collection.
 type: docs
-weight: 270
+weight: 271
 url: /java/com.aspose.pdf/paragraphs/
 ---
 **Inheritance:**

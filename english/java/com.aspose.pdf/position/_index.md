@@ -3,7 +3,7 @@ title: Position
 second_title: Aspose.PDF for Java API Reference
 description: Represents a position object
 type: docs
-weight: 291
+weight: 292
 url: /java/com.aspose.pdf/position/
 ---
 **Inheritance:**

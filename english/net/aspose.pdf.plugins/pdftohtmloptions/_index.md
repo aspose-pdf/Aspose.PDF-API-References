@@ -3,7 +3,7 @@ title: Class PdfToHtmlOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToHtmlOptions class. Represents PDF to HTML converter options for PdfHtml plugin
 type: docs
-weight: 6770
+weight: 6860
 url: /net/aspose.pdf.plugins/pdftohtmloptions/
 ---
 ## PdfToHtmlOptions class
@@ -25,17 +25,17 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [DataCollection](../../aspose.pdf.plugins/pdfconverteroptions/datacollection/) { get; } | Returns PdfConverterOptions plugin data collection. |
+| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
 | override [OperationName](../../aspose.pdf.plugins/pdftohtmloptions/operationname/) { get; } | Gets name of the operation. |
 | [OutputDataType](../../aspose.pdf.plugins/pdftohtmloptions/outputdatatype/) { get; } | Gets output data type. |
-| [SaveTargetsCollection](../../aspose.pdf.plugins/pdfconverteroptions/savetargetscollection/) { get; } | Gets collection of added targets for saving operation results. |
+| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddDataSource](../../aspose.pdf.plugins/pdfconverteroptions/adddatasource/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
-| [AddSaveDataSource](../../aspose.pdf.plugins/pdfconverteroptions/addsavedatasource/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
+| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
+| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
 
 ## Other Members
 

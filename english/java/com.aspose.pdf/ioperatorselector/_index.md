@@ -3,7 +3,7 @@ title: IOperatorSelector
 second_title: Aspose.PDF for Java API Reference
 description: Defines Visitor for visiting different pdf operators.
 type: docs
-weight: 437
+weight: 438
 url: /java/com.aspose.pdf/ioperatorselector/
 ---```
 public interface IOperatorSelector

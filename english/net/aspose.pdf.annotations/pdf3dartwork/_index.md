@@ -3,7 +3,7 @@ title: Class PDF3DArtwork
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PDF3DArtwork class. Class PDF3DArtwork
 type: docs
-weight: 800
+weight: 810
 url: /net/aspose.pdf.annotations/pdf3dartwork/
 ---
 ## PDF3DArtwork class

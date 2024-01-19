@@ -3,7 +3,7 @@ title: Class PdfAnnotationEditor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfAnnotationEditor class. Represents a class for work with PDF document annotations comments
 type: docs
-weight: 2470
+weight: 2480
 url: /net/aspose.pdf.facades/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor class
@@ -53,6 +53,7 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations/#importannotations_2)(string[]) | Imports annotations into document from array of another PDF documents. |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations/#importannotations_1)(Stream[], AnnotationType[]) | Imports the specified annotations into document from array of another PDF document streams. |
 | [ImportAnnotations](../../aspose.pdf.facades/pdfannotationeditor/importannotations/#importannotations_3)(string[], AnnotationType[]) | Imports the specified annotations into document from array of another PDF documents. |
+| [ImportAnnotationsFromFdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/)(string) | Imports all annotations from FDF file. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/#importannotationsfromxfdf)(Stream) | Imports all annotations from XFDF data stream. |
 | [ImportAnnotationsFromXfdf](../../aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/#importannotationsfromxfdf_1)(string) | Imports all annotations from XFDF file. |
 | [ModifyAnnotations](../../aspose.pdf.facades/pdfannotationeditor/modifyannotations/#modifyannotations)(int, int, Annotation) | Modifies the annotations of the specifed type on the specified page range. It supports to modify next annotation properties: Modified, Title, Contents, Color, Subject and Open. |

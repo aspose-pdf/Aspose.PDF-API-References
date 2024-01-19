@@ -3,7 +3,7 @@ title: ReturnAction
 second_title: Aspose.PDF for Java API Reference
 description: Enum represented a program workflow action in case of invoking the IWarningCallback.WarningWarningInfo method.
 type: docs
-weight: 449
+weight: 450
 url: /java/com.aspose.pdf/returnaction/
 ---
 **Inheritance:**

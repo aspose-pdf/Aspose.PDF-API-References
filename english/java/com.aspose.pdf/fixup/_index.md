@@ -3,7 +3,7 @@ title: Fixup
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents an type of Fixup.
 type: docs
-weight: 126
+weight: 127
 url: /java/com.aspose.pdf/fixup/
 ---
 **Inheritance:**

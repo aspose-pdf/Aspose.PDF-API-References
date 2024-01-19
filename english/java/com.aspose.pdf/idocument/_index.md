@@ -3,7 +3,7 @@ title: IDocument
 second_title: Aspose.PDF for Java API Reference
 description: interface representing PDF document
 type: docs
-weight: 433
+weight: 434
 url: /java/com.aspose.pdf/idocument/
 ---
 **All Implemented Interfaces:**
@@ -65,7 +65,6 @@ interface representing PDF document
 | [getPrintScaling()](#getPrintScaling--) | Gets print scaling handling option to use when printing the file from the print dialog. |
 | [setPrintScaling(int value)](#setPrintScaling-int-) | Sets print scaling handling option to use when printing the file from the print dialog. |
 | [getFileName()](#getFileName--) | Name of the PDF file that caused this document |
-| [setLayersAdded(boolean value)](#setLayersAdded-boolean-) | Set LayersAdded value |
 | [getPageInfo()](#getPageInfo--) | Gets the page info.(for generator only, not filled in when reading document) |
 | [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets the page info.(for generator only, not filled in when reading document) |
 | [getEnableSignatureSanitization()](#getEnableSignatureSanitization--) | Gets or sets flag to manage signature fields sanitization. |
@@ -772,19 +771,6 @@ Name of the PDF file that caused this document
 
 **Returns:**
 java.lang.String - String object
-### setLayersAdded(boolean value) {#setLayersAdded-boolean-}
-```
-public abstract void setLayersAdded(boolean value)
-```
-
-
-Set LayersAdded value
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
 ### getPageInfo() {#getPageInfo--}
 ```
 public abstract PageInfo getPageInfo()

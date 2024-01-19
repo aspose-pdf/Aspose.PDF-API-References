@@ -3,7 +3,7 @@ title: SoundEncoding
 second_title: Aspose.PDF for Java API Reference
 description: The encoding format for the sample data.
 type: docs
-weight: 331
+weight: 332
 url: /java/com.aspose.pdf/soundencoding/
 ---
 **Inheritance:**

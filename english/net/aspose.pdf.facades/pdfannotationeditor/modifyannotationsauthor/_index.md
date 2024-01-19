@@ -3,7 +3,7 @@ title: PdfAnnotationEditor.ModifyAnnotationsAuthor
 second_title: Aspose.PDF for .NET API Reference
 description: PdfAnnotationEditor method. Modifies the author of annotations on the specified page range
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 ---
 ## PdfAnnotationEditor.ModifyAnnotationsAuthor method

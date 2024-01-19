@@ -3,7 +3,7 @@ title: Class PDF3DView
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PDF3DView class. Class PDF3DView
 type: docs
-weight: 880
+weight: 890
 url: /net/aspose.pdf.annotations/pdf3dview/
 ---
 ## PDF3DView class

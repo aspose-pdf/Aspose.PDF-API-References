@@ -3,7 +3,7 @@ title: XFA
 second_title: Aspose.PDF for Java API Reference
 description: Represents XML form regarding XML Forms Architecture XFA.
 type: docs
-weight: 406
+weight: 407
 url: /java/com.aspose.pdf/xfa/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Class UnderlineAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.UnderlineAnnotation class. Represents an underline annotation that appears as an underline in the text of the document
 type: docs
-weight: 1270
+weight: 1280
 url: /net/aspose.pdf.annotations/underlineannotation/
 ---
 ## UnderlineAnnotation class

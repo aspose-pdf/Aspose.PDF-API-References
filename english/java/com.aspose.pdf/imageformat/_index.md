@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.PDF for Java API Reference
 description: This enum represents image formats.
 type: docs
-weight: 168
+weight: 169
 url: /java/com.aspose.pdf/imageformat/
 ---
 **Inheritance:**

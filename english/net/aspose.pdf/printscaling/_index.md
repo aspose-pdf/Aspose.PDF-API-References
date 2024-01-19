@@ -3,7 +3,7 @@ title: Enum PrintScaling
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PrintScaling enum. The page scaling option that shall be selected when a print dialog is displayed for this document
 type: docs
-weight: 7030
+weight: 7200
 url: /net/aspose.pdf/printscaling/
 ---
 ## PrintScaling enumeration

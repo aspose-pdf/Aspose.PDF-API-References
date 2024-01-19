@@ -3,7 +3,7 @@ title: Enum SoundEncoding
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SoundEncoding enum. The encoding format for the sample data
 type: docs
-weight: 1130
+weight: 1140
 url: /net/aspose.pdf.annotations/soundencoding/
 ---
 ## SoundEncoding enumeration

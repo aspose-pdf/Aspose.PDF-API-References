@@ -3,7 +3,7 @@ title: InvalidValueFormatException
 second_title: Aspose.PDF for Java API Reference
 description: Exception which thrown when requested value has incorrect format.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.pdf.exceptions/invalidvalueformatexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: InvalidFileFormatException
 second_title: Aspose.PDF for Java API Reference
 description: The exception that is thrown when a file is invalid.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.pdf.exceptions/invalidfileformatexception/
 ---
 **Inheritance:**
@@ -19,7 +19,7 @@ The exception that is thrown when a file is invalid.
 | --- | --- |
 | [InvalidFileFormatException()](#InvalidFileFormatException--) | Initializes a new instance of the  InvalidFileFormatException  class. |
 | [InvalidFileFormatException(String message)](#InvalidFileFormatException-java.lang.String-) | Initializes a new instance of the  InvalidFileFormatException  class. |
-| [InvalidFileFormatException(System.Exception innerException)](#InvalidFileFormatException-com.aspose.ms.System.Exception-) | Initializes a new instance of the  InvalidFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidFileFormatException(System.Exception innerException)](#InvalidFileFormatException-com.aspose.ms.System.Exception-) | Initializes a new instance of the  InvalidFileFormatException  class with a reference to the inner exception that is the cause of this exception. |
 ### InvalidFileFormatException() {#InvalidFileFormatException--}
 ```
 public InvalidFileFormatException()
@@ -47,7 +47,7 @@ public InvalidFileFormatException(System.Exception innerException)
 ```
 
 
-Initializes a new instance of the  InvalidFileFormatException  class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the  InvalidFileFormatException  class with a reference to the inner exception that is the cause of this exception.
 
 **Parameters:**
 | Parameter | Type | Description |

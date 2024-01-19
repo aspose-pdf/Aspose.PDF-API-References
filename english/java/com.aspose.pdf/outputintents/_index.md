@@ -3,7 +3,7 @@ title: OutputIntents
 second_title: Aspose.PDF for Java API Reference
 description: Represents the collection of .
 type: docs
-weight: 241
+weight: 242
 url: /java/com.aspose.pdf/outputintents/
 ---
 **Inheritance:**

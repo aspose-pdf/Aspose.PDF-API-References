@@ -3,7 +3,7 @@ title: Class PngDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.PngDevice class. Represents image device that helps to save pdf document pages into png
 type: docs
-weight: 1790
+weight: 1800
 url: /net/aspose.pdf.devices/pngdevice/
 ---
 ## PngDevice class

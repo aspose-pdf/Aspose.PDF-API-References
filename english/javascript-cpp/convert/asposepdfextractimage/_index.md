@@ -20,7 +20,7 @@ function AsposePdfExtractImage(
 **Parameters**: 
   * **fileBlob** Blob object 
   * **fileName** file name 
-  * **fileNameResult** result file name template (for sample: ""ResultPdfExtractImage{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
+  * **fileNameResult** result file name template (for sample: "ResultPdfExtractImage{0:D2}.jpg" where {0}, {0:D2}, {0:D3}, {0:Dn} - format page number) 
   * **resolution** image resolution, default 300 dpi
 
 **Return**: 

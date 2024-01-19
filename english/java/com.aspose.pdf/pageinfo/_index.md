@@ -3,7 +3,7 @@ title: PageInfo
 second_title: Aspose.PDF for Java API Reference
 description: Represents the page information for pdf generator.
 type: docs
-weight: 261
+weight: 262
 url: /java/com.aspose.pdf/pageinfo/
 ---
 **Inheritance:**

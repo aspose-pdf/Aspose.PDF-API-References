@@ -3,7 +3,7 @@ title: Class WidgetAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.WidgetAnnotation class. Class representing widget annotation
 type: docs
-weight: 1290
+weight: 1300
 url: /net/aspose.pdf.annotations/widgetannotation/
 ---
 ## WidgetAnnotation class

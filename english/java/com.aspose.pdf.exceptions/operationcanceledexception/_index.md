@@ -3,7 +3,7 @@ title: OperationCanceledException
 second_title: Aspose.PDF for Java API Reference
 description: Represents OperationCanceledException class
 type: docs
-weight: 27
+weight: 29
 url: /java/com.aspose.pdf.exceptions/operationcanceledexception/
 ---
 **Inheritance:**

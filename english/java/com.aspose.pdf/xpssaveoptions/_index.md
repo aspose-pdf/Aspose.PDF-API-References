@@ -3,7 +3,7 @@ title: XpsSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Xps format
 type: docs
-weight: 428
+weight: 429
 url: /java/com.aspose.pdf/xpssaveoptions/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: Class FigureElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Structure.FigureElement class. Class representing logical structure figure
 type: docs
-weight: 7420
+weight: 7590
 url: /net/aspose.pdf.structure/figureelement/
 ---
 ## FigureElement class

@@ -3,7 +3,7 @@ title: EncryptedPayload
 second_title: Aspose.PDF for Java API Reference
 description: Represents encrypted payload in file specification.
 type: docs
-weight: 97
+weight: 98
 url: /java/com.aspose.pdf/encryptedpayload/
 ---
 **Inheritance:**

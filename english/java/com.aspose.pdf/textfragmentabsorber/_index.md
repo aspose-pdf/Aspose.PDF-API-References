@@ -3,7 +3,7 @@ title: TextFragmentAbsorber
 second_title: Aspose.PDF for Java API Reference
 description: Represents an absorber object of text fragments.
 type: docs
-weight: 374
+weight: 375
 url: /java/com.aspose.pdf/textfragmentabsorber/
 ---
 **Inheritance:**
@@ -426,25 +426,25 @@ Sets collection of search occurrences that are presented with  TextFragment  obj
 
 ```
 The example demonstrates how to find text on the first PDF document page and replace all search
-                           occurrences with new text.
+                                        occurrences with new text.
 
-                           // Open document
-                           Document doc = new Document("D:\\Tests\\input.pdf");
-                           // Find font that will be used to change document text font
-                           Font font = FontRepository.findFont("Arial");
-                           // Create TextFragmentAbsorber object to find all "hello world" text occurrences
-                           TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-                           // Accept the absorber for first page
-                           doc.getPages().get(1).accept(absorber);
-                           // Change text of all search occurrences
-                           for (TextFragment textFragment : ```
+                                        // Open document
+                                        Document doc = new Document("D:\\Tests\\input.pdf");
+                                        // Find font that will be used to change document text font
+                                        Font font = FontRepository.findFont("Arial");
+                                        // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+                                        TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+                                        // Accept the absorber for first page
+                                        doc.getPages().get(1).accept(absorber);
+                                        // Change text of all search occurrences
+                                        for (TextFragment textFragment : ```
 (Iterable)
 ```absorber.getTextFragments())
-                           {
-                               textFragment.setText ( "hi world");
-                           }
-                           // Save document
-                           doc.save("D:\\Tests\\output.pdf");
+                                        {
+                                            textFragment.setText ( "hi world");
+                                        }
+                                        // Save document
+                                        doc.save("D:\\Tests\\output.pdf");
 ``` |
 
 ### getPhrase() {#getPhrase--}
@@ -494,18 +494,18 @@ Sets phrase that the  TextFragmentAbsorber  searches on the PDF document or page
 ```
 The example demonstrates how to perform search text several times and perform text replacements.
 
-                           // Open document
-                           Document doc = new Document("D:\\Tests\\input.pdf");
-                           // Create TextFragmentAbsorber object to find all "hello" text occurrences
-                           TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
-                           doc.getPages().get(1).accept(absorber);
-                           absorber.getTextFragments().get_Item(1).setText ( "Hi");
-                           // search another word and replace it
-                           absorber.setPhrase ( "world");
-                           doc.getPages().get(1).accept(absorber);
-                           absorber.getTextFragments().get_Item(1).setText ( "John");
-                           // Save document
-                           doc.save("D:\\Tests\\output.pdf");
+                                        // Open document
+                                        Document doc = new Document("D:\\Tests\\input.pdf");
+                                        // Create TextFragmentAbsorber object to find all "hello" text occurrences
+                                        TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
+                                        doc.getPages().get(1).accept(absorber);
+                                        absorber.getTextFragments().get_Item(1).setText ( "Hi");
+                                        // search another word and replace it
+                                        absorber.setPhrase ( "world");
+                                        doc.getPages().get(1).accept(absorber);
+                                        absorber.getTextFragments().get_Item(1).setText ( "John");
+                                        // Save document
+                                        doc.save("D:\\Tests\\output.pdf");
 ``` |
 
 ### getTextSearchOptions() {#getTextSearchOptions--}
@@ -555,18 +555,18 @@ Sets search options. The options enable search using regular expressions.
 ```
 The example demonstrates how to perform search text using regular expression.
 
-                           // Open document
-                           Document doc = new Document("D:\\Tests\\input.pdf");
-                           // Create TextFragmentAbsorber object
-                           TextFragmentAbsorber absorber = new TextFragmentAbsorber();
-                           // make the absorber to search all words starting 'h' and ending 'o' using regular expression.
-                           absorber.setPhrase ( "h\w*?o");
-                           absorber.setTextSearchOptions ( new TextSearchOptions(true));
-                           // we should find "hello" word and replace it with "Hi"
-                           doc.getPages().get(1).accept(absorber);
-                           absorber.getTextFragments().get_Item(1).setText ( "Hi");
-                           // Save document
-                           doc.save("D:\\Tests\\output.pdf");
+                                        // Open document
+                                        Document doc = new Document("D:\\Tests\\input.pdf");
+                                        // Create TextFragmentAbsorber object
+                                        TextFragmentAbsorber absorber = new TextFragmentAbsorber();
+                                        // make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+                                        absorber.setPhrase ( "h\w*?o");
+                                        absorber.setTextSearchOptions ( new TextSearchOptions(true));
+                                        // we should find "hello" word and replace it with "Hi"
+                                        doc.getPages().get(1).accept(absorber);
+                                        absorber.getTextFragments().get_Item(1).setText ( "Hi");
+                                        // Save document
+                                        doc.save("D:\\Tests\\output.pdf");
 ``` |
 
 ### getTextEditOptions() {#getTextEditOptions--}

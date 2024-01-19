@@ -3,7 +3,7 @@ title: SvgLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing SVG file into pdf document.
 type: docs
-weight: 346
+weight: 347
 url: /java/com.aspose.pdf/svgloadoptions/
 ---
 **Inheritance:**

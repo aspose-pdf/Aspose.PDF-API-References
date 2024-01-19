@@ -3,7 +3,7 @@ title: Class SoundSampleData
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SoundSampleData class. Represents additional entries specific to a sound object Section 9.2 PDF17
 type: docs
-weight: 1150
+weight: 1160
 url: /net/aspose.pdf.annotations/soundsampledata/
 ---
 ## SoundSampleData class

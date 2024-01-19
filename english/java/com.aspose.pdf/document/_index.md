@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.PDF for Java API Reference
 description: Class representing PDF document
 type: docs
-weight: 89
+weight: 90
 url: /java/com.aspose.pdf/document/
 ---
 **Inheritance:**

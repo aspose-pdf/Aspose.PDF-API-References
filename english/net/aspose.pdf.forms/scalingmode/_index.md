@@ -3,7 +3,7 @@ title: Enum ScalingMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.ScalingMode enum. The type of scaling that shall be used
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.pdf.forms/scalingmode/
 ---
 ## ScalingMode enumeration

@@ -3,7 +3,7 @@ title: FreeTextAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents a free text annotation that displays text directly on the page.
 type: docs
-weight: 141
+weight: 142
 url: /java/com.aspose.pdf/freetextannotation/
 ---
 **Inheritance:**

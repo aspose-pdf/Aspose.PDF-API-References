@@ -22,6 +22,7 @@ Represents cell of table that exist on the page
 | --- | --- |
 | [getTextFragments()](#getTextFragments--) | Gets collection of  TextFragment  objects that describes text containing in the cell |
 | [getRectangle()](#getRectangle--) | Gets rectangle that describes position of the cell on page |
+| [getColSpan()](#getColSpan--) | Return the number of columns the cell should span when TableAbsorber.UseFlowEngine is true. |
 ### getTextFragments() {#getTextFragments--}
 ```
 public TextFragmentCollection getTextFragments()
@@ -42,3 +43,13 @@ Gets rectangle that describes position of the cell on page
 
 **Returns:**
 [Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
+### getColSpan() {#getColSpan--}
+```
+public final int getColSpan()
+```
+
+
+Return the number of columns the cell should span when TableAbsorber.UseFlowEngine is true.
+
+**Returns:**
+int - int value

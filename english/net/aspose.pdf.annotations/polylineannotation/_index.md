@@ -3,7 +3,7 @@ title: Class PolylineAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PolylineAnnotation class. Represents polyline annotation that is similar to polygon except that the first and last vertex are not implicitly connected
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.pdf.annotations/polylineannotation/
 ---
 ## PolylineAnnotation class

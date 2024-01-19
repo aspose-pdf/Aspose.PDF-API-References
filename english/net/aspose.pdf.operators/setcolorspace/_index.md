@@ -3,7 +3,7 @@ title: Class SetColorSpace
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetColorSpace class. Class representing cs operator set colorspace for nonstroking operations
 type: docs
-weight: 5550
+weight: 5560
 url: /net/aspose.pdf.operators/setcolorspace/
 ---
 ## SetColorSpace class

@@ -3,7 +3,7 @@ title: XForm
 second_title: Aspose.PDF for Java API Reference
 description: Class represent XForm
 type: docs
-weight: 407
+weight: 408
 url: /java/com.aspose.pdf/xform/
 ---
 **Inheritance:**
@@ -25,6 +25,8 @@ Class represent XForm
 | [setBBox(Rectangle value)](#setBBox-com.aspose.pdf.Rectangle-) | Sets form bounding box. |
 | [getName()](#getName--) | Gets form name. |
 | [setName(String value)](#setName-java.lang.String-) | Sets form name. |
+| [getIT()](#getIT--) | Gets form IT. |
+| [getSubtype()](#getSubtype--) | Gets form Subtype. |
 | [getContents()](#getContents--) | Gets operators of the form. |
 | [getOpi()](#getOpi--) | Gets The Open Prepress Interface (OPI). |
 | [getMatrix()](#getMatrix--) | Gets matrix of the form. |
@@ -94,6 +96,26 @@ Sets form name. Form name is name which used to reference form in XObejct dictio
 | --- | --- | --- |
 | value | java.lang.String | String object |
 
+### getIT() {#getIT--}
+```
+public final String getIT()
+```
+
+
+Gets form IT. Form IT is a name describing the intent of the XObject.
+
+**Returns:**
+java.lang.String
+### getSubtype() {#getSubtype--}
+```
+public final String getSubtype()
+```
+
+
+Gets form Subtype.
+
+**Returns:**
+java.lang.String
 ### getContents() {#getContents--}
 ```
 public OperatorCollection getContents()

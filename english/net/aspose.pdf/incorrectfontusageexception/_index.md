@@ -3,7 +3,7 @@ title: Class IncorrectFontUsageException
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.IncorrectFontUsageException class. The exception that is thrown when font usage is incorrect
 type: docs
-weight: 3900
+weight: 3910
 url: /net/aspose.pdf/incorrectfontusageexception/
 ---
 ## IncorrectFontUsageException class

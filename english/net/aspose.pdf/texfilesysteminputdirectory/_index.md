@@ -3,7 +3,7 @@ title: Class TeXFileSystemInputDirectory
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TeXFileSystemInputDirectory class. Implements the regular file systems method for getting a file stream to read from
 type: docs
-weight: 7570
+weight: 7740
 url: /net/aspose.pdf/texfilesysteminputdirectory/
 ---
 ## TeXFileSystemInputDirectory class
