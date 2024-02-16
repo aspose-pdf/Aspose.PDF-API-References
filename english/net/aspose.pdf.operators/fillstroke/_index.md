@@ -3,7 +3,7 @@ title: Class FillStroke
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.FillStroke class. Class representing B operator fill and stroke path using nonzero winding rule
 type: docs
-weight: 5280
+weight: 5310
 url: /net/aspose.pdf.operators/fillstroke/
 ---
 ## FillStroke class

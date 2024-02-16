@@ -3,7 +3,7 @@ title: Class ImageStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ImageStamp class. Reresents graphic stamp
 type: docs
-weight: 3870
+weight: 3900
 url: /net/aspose.pdf/imagestamp/
 ---
 ## ImageStamp class

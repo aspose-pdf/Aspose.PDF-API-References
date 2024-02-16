@@ -3,7 +3,7 @@ title: Class Form.FormImportResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.FormFormImportResult class. Class which describes result if field import
 type: docs
-weight: 2370
+weight: 2400
 url: /net/aspose.pdf.facades/form.formimportresult/
 ---
 ## Form.FormImportResult class

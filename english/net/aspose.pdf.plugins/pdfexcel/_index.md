@@ -3,7 +3,7 @@ title: Class PdfExcel
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfExcel class. Represents PdfExcel plugin
 type: docs
-weight: 6790
+weight: 6820
 url: /net/aspose.pdf.plugins/pdfexcel/
 ---
 ## PdfExcel class

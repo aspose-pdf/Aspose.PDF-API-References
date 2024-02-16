@@ -3,7 +3,7 @@ title: Class PdfPageStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfPageStamp class. Class represents stamp which uses PDF page as stamp
 type: docs
-weight: 6230
+weight: 6260
 url: /net/aspose.pdf/pdfpagestamp/
 ---
 ## PdfPageStamp class

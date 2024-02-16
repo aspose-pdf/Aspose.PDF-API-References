@@ -3,7 +3,7 @@ title: Class StructureTextState
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.StructureTextState class. Represents text state settings for Text Structure Elements and TaggedContent ITextElement ITaggedContent
 type: docs
-weight: 4630
+weight: 4660
 url: /net/aspose.pdf.logicalstructure/structuretextstate/
 ---
 ## StructureTextState class

@@ -3,7 +3,7 @@ title: OperatorCollection.ResumeUpdate
 second_title: Aspose.PDF for .NET API Reference
 description: OperatorCollection method. Resumes document update. Updates contents stream in case there are any pending changes. Marks all operators as changed if invalidate parameter is true
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf/operatorcollection/resumeupdate/
 ---
 ## ResumeUpdate(bool) {#resumeupdate_1}

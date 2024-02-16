@@ -3,7 +3,7 @@ title: Enum SubstitutionFontCategories
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.SubstitutionFontCategories enum. Represents font categories that can be substituted
 type: docs
-weight: 8090
+weight: 8140
 url: /net/aspose.pdf.text/substitutionfontcategories/
 ---
 ## SubstitutionFontCategories enumeration

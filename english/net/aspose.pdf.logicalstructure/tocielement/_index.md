@@ -3,7 +3,7 @@ title: Class TOCIElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.TOCIElement class. Represents TOCI structure element in logical structure
 type: docs
-weight: 4670
+weight: 4700
 url: /net/aspose.pdf.logicalstructure/tocielement/
 ---
 ## TOCIElement class

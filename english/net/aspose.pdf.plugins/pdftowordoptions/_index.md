@@ -3,7 +3,7 @@ title: Class PdfToWordOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToWordOptions class. Represents PDF to DOC converter options for PdfWord plugin
 type: docs
-weight: 6910
+weight: 6940
 url: /net/aspose.pdf.plugins/pdftowordoptions/
 ---
 ## PdfToWordOptions class

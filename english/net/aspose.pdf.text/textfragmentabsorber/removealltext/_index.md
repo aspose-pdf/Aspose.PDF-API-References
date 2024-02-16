@@ -3,7 +3,7 @@ title: TextFragmentAbsorber.RemoveAllText
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentAbsorber method. Removes all text from the specified page
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf.text/textfragmentabsorber/removealltext/
 ---
 ## RemoveAllText(Page) {#removealltext_1}

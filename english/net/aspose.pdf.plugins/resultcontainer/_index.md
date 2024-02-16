@@ -3,7 +3,7 @@ title: Class ResultContainer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.ResultContainer class. Represents container that contains the result collection of processing the plugin
 type: docs
-weight: 6960
+weight: 6990
 url: /net/aspose.pdf.plugins/resultcontainer/
 ---
 ## ResultContainer class

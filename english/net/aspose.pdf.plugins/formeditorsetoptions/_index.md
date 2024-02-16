@@ -3,7 +3,7 @@ title: Class FormEditorSetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormEditorSetOptions class. Represents options for set fields not annotations properties
 type: docs
-weight: 6470
+weight: 6500
 url: /net/aspose.pdf.plugins/formeditorsetoptions/
 ---
 ## FormEditorSetOptions class

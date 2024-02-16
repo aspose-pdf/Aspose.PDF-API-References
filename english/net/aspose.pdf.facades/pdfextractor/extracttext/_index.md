@@ -16,7 +16,7 @@ public void ExtractText()
 
 ## Examples
 
-First example demonstratres how to extract all the text from PDF file.
+First example demonstrates how to extract all the text from PDF file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -32,7 +32,7 @@ extractor.ExtractText()
 extractor.GetText("D:\Text\text.txt")
 ```
 
-Second example demonstratres how to extract each page's text into one txt file.
+Second example demonstrates how to extract each page's text into one txt file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -83,7 +83,7 @@ public void ExtractText(Encoding encoding)
 
 ## Examples
 
-First example demonstratres how to extract all the text from PDF file.
+First example demonstrates how to extract all the text from PDF file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -99,7 +99,7 @@ extractor.ExtractText(Encoding.Unicode)
 extractor.GetText("D:\Text\text.txt")
 ```
 
-Second example demonstratres how to extract each page's text into one txt file.
+Second example demonstrates how to extract each page's text into one txt file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();

@@ -22,6 +22,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [BaseParagraph](./baseparagraph/) | Represents a abstract base object can be added to the page(doc.Paragraphs.Add()). |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
+| [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
 | [Cell](./cell/) | Represents a cell of the table's row. |
 | [Cells](./cells/) | Represents a cells collection of row. |
 | [CgmImportOptions](./cgmimportoptions/) | Import option for import from Computer Graphics Metafile(CGM) format. |
@@ -33,6 +34,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [CompositingParameters](./compositingparameters/) | Represents an object containing graphics compositing parameters of current graphics state. |
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) | The exception that is thrown when a feature is deprecated in current pdf version. |
 | [DestinationCollection](./destinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
+| [DjvuLoadOptions](./djvuloadoptions/) | Class describes DJVU load options. |
 | [DocSaveOptions](./docsaveoptions/) | Save options for export to Doc format |
 | [Document](./document/) | Class representing PDF document |
 | [DocumentFactory](./documentfactory/) | Class which allows to create/load documents of different types. |
@@ -232,6 +234,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [SaveFormat](./saveformat/) | Specifies format |
 | [TableBroken](./tablebroken/) | Enumerates the table broken. |
 | [TabOrder](./taborder/) | Tab order on the page |
+| [TeXLoadResult](./texloadresult/) | Results for TeX load and compiling. |
 | [VerticalAlignment](./verticalalignment/) | Enumeration of possible vertical alignment values. |
 | [WarningType](./warningtype/) | Enum represented warning type. |
 | [XfaTag](./xfatag/) | The xfa stream tag |

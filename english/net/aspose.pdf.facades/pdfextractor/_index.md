@@ -3,7 +3,7 @@ title: Class PdfExtractor
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfExtractor class. Class for extracting images and text from PDF document
 type: docs
-weight: 2520
+weight: 2550
 url: /net/aspose.pdf.facades/pdfextractor/
 ---
 ## PdfExtractor class
@@ -52,11 +52,11 @@ public sealed class PdfExtractor : Facade
 | [GetAttachment](../../aspose.pdf.facades/pdfextractor/getattachment/#getattachment)() | Saves all the attachment file to streams. |
 | [GetAttachment](../../aspose.pdf.facades/pdfextractor/getattachment/#getattachment_1)(string) | Stores attachment into file. |
 | [GetAttachmentInfo](../../aspose.pdf.facades/pdfextractor/getattachmentinfo/)() | Gets the list of attachments. |
-| [GetAttachNames](../../aspose.pdf.facades/pdfextractor/getattachnames/)() | Returns list of attachments in PDF file. Note: ExtractAttachments must be called befor using this method. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage)(Stream) | Retreive next image from PDF file and stores it into stream. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_2)(string) | Retreives next image from PDF document. Note: ExtractImage must be called before using of this method. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_1)(Stream, ImageFormat) | Retreive next image from PDF file and stores it into stream with given image format. |
-| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_3)(string, ImageFormat) | Retreives next image from PDF document with given image format. Note: ExtractImage must be called before using of this method. |
+| [GetAttachNames](../../aspose.pdf.facades/pdfextractor/getattachnames/)() | Returns list of attachments in PDF file. Note: ExtractAttachments must be called before using this method. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage)(Stream) | Retrieve next image from PDF file and stores it into stream. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_2)(string) | Retrieves next image from PDF document. Note: ExtractImage must be called before using of this method. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_1)(Stream, ImageFormat) | Retrieve next image from PDF file and stores it into stream with given image format. |
+| [GetNextImage](../../aspose.pdf.facades/pdfextractor/getnextimage/#getnextimage_3)(string, ImageFormat) | Retrieves next image from PDF document with given image format. Note: ExtractImage must be called before using of this method. |
 | [GetNextPageText](../../aspose.pdf.facades/pdfextractor/getnextpagetext/#getnextpagetext)(Stream) | Saves one page's text to stream. |
 | [GetNextPageText](../../aspose.pdf.facades/pdfextractor/getnextpagetext/#getnextpagetext_1)(string) | Saves one page's text to file. |
 | [GetText](../../aspose.pdf.facades/pdfextractor/gettext/#gettext)(Stream) | Saves text to stream. see also:[`ExtractText`](./extracttext/) |

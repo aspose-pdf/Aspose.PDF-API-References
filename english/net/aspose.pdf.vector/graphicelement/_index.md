@@ -3,7 +3,7 @@ title: Class GraphicElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.GraphicElement class. Represents base class for graphics object on the page
 type: docs
-weight: 8600
+weight: 8650
 url: /net/aspose.pdf.vector/graphicelement/
 ---
 ## GraphicElement class

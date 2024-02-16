@@ -3,7 +3,7 @@ title: Class FormTextBoxFieldCreateOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormTextBoxFieldCreateOptions class. Represents options for creating TextBoxField by FormEditor plugin
 type: docs
-weight: 6610
+weight: 6640
 url: /net/aspose.pdf.plugins/formtextboxfieldcreateoptions/
 ---
 ## FormTextBoxFieldCreateOptions class

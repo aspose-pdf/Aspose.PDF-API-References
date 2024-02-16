@@ -3,7 +3,7 @@ title: XFormCollection.GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
 description: XFormCollection method. Returns collection enumerator
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf/xformcollection/getenumerator/
 ---
 ## XFormCollection.GetEnumerator method

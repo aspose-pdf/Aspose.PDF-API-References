@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | PDF fiel to bind |
+| inputFile | String | PDF file to bind |
 
 ## Examples
 

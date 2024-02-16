@@ -3,7 +3,7 @@ title: Class FormExporterOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormExporterOptions class. Represents options for FormExporter plugin
 type: docs
-weight: 6490
+weight: 6520
 url: /net/aspose.pdf.plugins/formexporteroptions/
 ---
 ## FormExporterOptions class

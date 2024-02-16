@@ -3,7 +3,7 @@ title: Class ParagraphElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.ParagraphElement class. Represents Paragraph structure element in logical structure
 type: docs
-weight: 4460
+weight: 4490
 url: /net/aspose.pdf.logicalstructure/paragraphelement/
 ---
 ## ParagraphElement class

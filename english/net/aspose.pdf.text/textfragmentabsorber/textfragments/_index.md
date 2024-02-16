@@ -3,7 +3,7 @@ title: TextFragmentAbsorber.TextFragments
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentAbsorber property. Gets collection of search occurrences that are presented with TextFragment objects
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.text/textfragmentabsorber/textfragments/
 ---
 ## TextFragmentAbsorber.TextFragments property

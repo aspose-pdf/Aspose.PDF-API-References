@@ -3,7 +3,7 @@ title: Class TableOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TableOptions class. Represents options for add table to document by TableGenerator plugin
 type: docs
-weight: 7080
+weight: 7110
 url: /net/aspose.pdf.plugins/tableoptions/
 ---
 ## TableOptions class

@@ -3,7 +3,7 @@ title: Class UnifiedSaveOptions.ProgressEventHandlerInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.UnifiedSaveOptionsProgressEventHandlerInfo class. This class represents information about conversion progress that can be used in external applicatuion to show conversion progress to end user
 type: docs
-weight: 8510
+weight: 8560
 url: /net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo class

@@ -3,7 +3,7 @@ title: Enum ImageEncoding
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Optimization.ImageEncoding enum. Image encoding types
 type: docs
-weight: 5870
+weight: 5900
 url: /net/aspose.pdf.optimization/imageencoding/
 ---
 ## ImageEncoding enumeration

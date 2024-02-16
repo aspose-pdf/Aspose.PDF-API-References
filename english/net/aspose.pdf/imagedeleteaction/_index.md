@@ -3,7 +3,7 @@ title: Enum ImageDeleteAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ImageDeleteAction enum. Action which performed with image object when image is removed from collection. If image object is removed
 type: docs
-weight: 3810
+weight: 3840
 url: /net/aspose.pdf/imagedeleteaction/
 ---
 ## ImageDeleteAction enumeration

@@ -3,7 +3,7 @@ title: Class CosPdfNumber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.PublicData.CosPdfNumber class. This class represents Pdf Number type
 type: docs
-weight: 8560
+weight: 8610
 url: /net/aspose.pdf.utils.publicdata/cospdfnumber/
 ---
 ## CosPdfNumber class

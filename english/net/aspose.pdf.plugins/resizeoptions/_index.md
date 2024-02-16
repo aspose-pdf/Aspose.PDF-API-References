@@ -3,7 +3,7 @@ title: Class ResizeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.ResizeOptions class. Represents Resize options for Optimizer plugin
 type: docs
-weight: 6950
+weight: 6980
 url: /net/aspose.pdf.plugins/resizeoptions/
 ---
 ## ResizeOptions class

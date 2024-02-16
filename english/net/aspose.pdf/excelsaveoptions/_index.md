@@ -3,7 +3,7 @@ title: Class ExcelSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ExcelSaveOptions class. Save options for export to Excel format
 type: docs
-weight: 2180
+weight: 2210
 url: /net/aspose.pdf/excelsaveoptions/
 ---
 ## ExcelSaveOptions class

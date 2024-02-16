@@ -3,7 +3,7 @@ title: Class CosPdfName
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.PublicData.CosPdfName class. This class represents Pdf Name object
 type: docs
-weight: 8550
+weight: 8600
 url: /net/aspose.pdf.utils.publicdata/cospdfname/
 ---
 ## CosPdfName class

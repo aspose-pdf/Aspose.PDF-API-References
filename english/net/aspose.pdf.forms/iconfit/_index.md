@@ -3,7 +3,7 @@ title: Class IconFit
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.IconFit class. Describes how the widget annotations icon shall be displayed within its annotation rectangle
 type: docs
-weight: 3130
+weight: 3160
 url: /net/aspose.pdf.forms/iconfit/
 ---
 ## IconFit class

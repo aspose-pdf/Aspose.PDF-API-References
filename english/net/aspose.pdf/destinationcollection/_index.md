@@ -3,7 +3,7 @@ title: Class DestinationCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DestinationCollection class. Class represents the collection of all destinations a name tree mapping name strings to destinations see 12.3.2.3 Named Destinations and see 7.7.4 Name Dictionary in the pdf document
 type: docs
-weight: 1660
+weight: 1670
 url: /net/aspose.pdf/destinationcollection/
 ---
 ## DestinationCollection class

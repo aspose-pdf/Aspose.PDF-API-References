@@ -110,7 +110,7 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dst
 
 ---
 
-## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_7}
+## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
 
 Convert document and save errors into the specified file.
 
@@ -141,7 +141,7 @@ The operation result
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_5}
+## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_6}
 
 Convert document and save errors into the specified file.
 
@@ -172,7 +172,7 @@ The operation result
 
 ---
 
-## Convert(string, PdfFormat, ConvertErrorAction) {#convert_6}
+## Convert(string, PdfFormat, ConvertErrorAction) {#convert_7}
 
 Convert document and save errors into the specified file.
 
@@ -225,17 +225,44 @@ The operation result
 
 ---
 
-## Convert(CallBackGetHocr) {#convert_3}
+## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
 Recognize images inside the document and add hocr strings over it.
 
 ```csharp
-public bool Convert(CallBackGetHocr callback)
+public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| callback | CallBackGetHocrWithPage | Action for images that will be processed by hocr recognize. |
+| flattenImages | Boolean | Text in pdf images can be painted using the mechanics of masks, in which case the images must be flattened. |
+
+### Return Value
+
+The operation result. If there are no images in the document returns !:false.
+
+### See Also
+
+* delegate [CallBackGetHocrWithPage](../../document.callbackgethocrwithpage/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(CallBackGetHocr, bool) {#convert_3}
+
+Recognize images inside the document and add hocr strings over it.
+
+```csharp
+public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | callback | CallBackGetHocr | Action for images that will be processed by hocr recognize. |
+| flattenImages | Boolean | Text in pdf images can be painted using the mechanics of masks, in which case the images must be flattened. |
 
 ### Return Value
 
@@ -250,7 +277,7 @@ The operation result. If there are no images in the document returns !:false.
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_4}
+## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_5}
 
 Convert document and save errors into the specified stream.
 

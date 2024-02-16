@@ -3,7 +3,7 @@ title: Class PdfToImageOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToImageOptions class. Represents options for the PdfToImage plugin
 type: docs
-weight: 6890
+weight: 6920
 url: /net/aspose.pdf.plugins/pdftoimageoptions/
 ---
 ## PdfToImageOptions class

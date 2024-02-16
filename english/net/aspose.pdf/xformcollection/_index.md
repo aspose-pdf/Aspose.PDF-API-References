@@ -3,7 +3,7 @@ title: Class XFormCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XFormCollection class. Class represents collection of XFormCollection
 type: docs
-weight: 8720
+weight: 8780
 url: /net/aspose.pdf/xformcollection/
 ---
 ## XFormCollection class
@@ -35,6 +35,7 @@ public sealed class XFormCollection : ICollection<XForm>
 | [Delete](../../aspose.pdf/xformcollection/delete/#delete)() | Deletes all XForms from the collection. |
 | [Delete](../../aspose.pdf/xformcollection/delete/#delete_1)(int) | Delete XForm from collection |
 | [Delete](../../aspose.pdf/xformcollection/delete/#delete_2)(string) | Deletes XForm from collection by form name. |
+| [FreeMemory](../../aspose.pdf/xformcollection/freememory/)() | Clears cached data, frees memory etc. |
 | [GetEnumerator](../../aspose.pdf/xformcollection/getenumerator/)() | Returns collection enumerator. |
 | [GetFormName](../../aspose.pdf/xformcollection/getformname/)(XForm) | Returns name of the form in this form collection. |
 | [Remove](../../aspose.pdf/xformcollection/remove/)(XForm) | Deletes specified item from collection. |

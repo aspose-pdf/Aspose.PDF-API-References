@@ -3,7 +3,7 @@ title: Class TableBuilder
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TableBuilder class. Class represents builder for table in pdf page
 type: docs
-weight: 7050
+weight: 7080
 url: /net/aspose.pdf.plugins/tablebuilder/
 ---
 ## TableBuilder class

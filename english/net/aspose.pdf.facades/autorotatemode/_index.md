@@ -3,7 +3,7 @@ title: Enum AutoRotateMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.AutoRotateMode enum. Direction of the rotation when document is printed
 type: docs
-weight: 2240
+weight: 2270
 url: /net/aspose.pdf.facades/autorotatemode/
 ---
 ## AutoRotateMode enumeration

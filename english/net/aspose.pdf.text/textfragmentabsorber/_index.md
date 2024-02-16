@@ -3,7 +3,7 @@ title: Class TextFragmentAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextFragmentAbsorber class. Represents an absorber object of text fragments. Performs text search and provides access to search results via TextFragments collection
 type: docs
-weight: 8320
+weight: 8370
 url: /net/aspose.pdf.text/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber class
@@ -24,6 +24,7 @@ public sealed class TextFragmentAbsorber : TextAbsorber
 | [TextFragmentAbsorber](textfragmentabsorber/#constructor_1)(TextEditOptions) | Initializes a new instance of the `TextFragmentAbsorber` with text edit options, that performs search of all text segments of the document or page. |
 | [TextFragmentAbsorber](textfragmentabsorber/#constructor_7)(Regex, TextEditOptions) | Initializes a new instance of the `TextFragmentAbsorber` class for the specified text phrase and text edit options. |
 | [TextFragmentAbsorber](textfragmentabsorber/#constructor_8)(Regex, TextSearchOptions) | Initializes a new instance of the `TextFragmentAbsorber` class for the specified text phrase and text search options. |
+| [TextFragmentAbsorber](textfragmentabsorber/#constructor_9)(Regex[], TextSearchOptions) | Initializes a new instance of the `TextFragmentAbsorber` class for the specified text phrase and text search options. |
 | [TextFragmentAbsorber](textfragmentabsorber/#constructor_3)(string, TextEditOptions) | Initializes a new instance of the `TextFragmentAbsorber` class for the specified text phrase and text edit options. |
 | [TextFragmentAbsorber](textfragmentabsorber/#constructor_4)(string, TextSearchOptions) | Initializes a new instance of the `TextFragmentAbsorber` class for the specified text phrase and text search options. |
 | [TextFragmentAbsorber](textfragmentabsorber/#constructor_5)(string, TextSearchOptions, TextEditOptions) | Initializes a new instance of the `TextFragmentAbsorber` class for the specified text phrase, text search options and text edit options. |
@@ -36,6 +37,7 @@ public sealed class TextFragmentAbsorber : TextAbsorber
 | override [ExtractionOptions](../../aspose.pdf.text/textfragmentabsorber/extractionoptions/) { get; set; } | Gets or sets text extraction options. |
 | [HasErrors](../../aspose.pdf.text/textfragmentabsorber/haserrors/) { get; } | Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance. |
 | [Phrase](../../aspose.pdf.text/textfragmentabsorber/phrase/) { get; set; } | Gets or sets phrase that the `TextFragmentAbsorber` searches on the PDF document or page. |
+| [RegexResults](../../aspose.pdf.text/textfragmentabsorber/regexresults/) { get; } | Gets dictionary of search occurrences that are presented with System.Text.RegularExpressions.Regex class as key and [`TextFragment`](../textfragment/) as value. |
 | override [Text](../../aspose.pdf.text/textfragmentabsorber/text/) { get; } | Gets extracted text that the [`TextAbsorber`](../textabsorber/) extracts on the PDF document or page. |
 | [TextEditOptions](../../aspose.pdf.text/textfragmentabsorber/texteditoptions/) { get; set; } | Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [TextFragments](../../aspose.pdf.text/textfragmentabsorber/textfragments/) { get; set; } | Gets collection of search occurrences that are presented with [`TextFragment`](../textfragment/) objects. |

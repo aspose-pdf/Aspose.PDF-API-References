@@ -3,7 +3,7 @@ title: HtmlSaveOptions.SaveFullFont
 second_title: Aspose.PDF for .NET API Reference
 description: HtmlSaveOptions field. Indicates that full font will be saved supports only True Type Fonts. By default SaveFullFont  false and the converter saves the subset of the initial font needed to display the text of the document
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.pdf/htmlsaveoptions/savefullfont/
 ---
 ## HtmlSaveOptions.SaveFullFont field

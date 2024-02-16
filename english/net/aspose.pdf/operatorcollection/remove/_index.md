@@ -3,7 +3,7 @@ title: OperatorCollection.Remove
 second_title: Aspose.PDF for .NET API Reference
 description: OperatorCollection method. Remove operator from the collection
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.pdf/operatorcollection/remove/
 ---
 ## OperatorCollection.Remove method

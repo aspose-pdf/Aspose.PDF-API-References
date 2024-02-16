@@ -3,7 +3,7 @@ title: Enum DataType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.DataType enum. Represents possible types of data for plugin processing
 type: docs
-weight: 6360
+weight: 6390
 url: /net/aspose.pdf.plugins/datatype/
 ---
 ## DataType enumeration

@@ -3,7 +3,7 @@ title: HtmlSaveOptions.ImageResolution
 second_title: Aspose.PDF for .NET API Reference
 description: HtmlSaveOptions property. Gets or sets resolution for image rendering
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
 ## HtmlSaveOptions.ImageResolution property

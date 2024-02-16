@@ -3,7 +3,7 @@ title: OperatorCollection.ToString
 second_title: Aspose.PDF for .NET API Reference
 description: OperatorCollection method. Returns text representation of the operator
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf/operatorcollection/tostring/
 ---
 ## OperatorCollection.ToString method

@@ -3,7 +3,7 @@ title: Class BibEntryElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.BibEntryElement class. Represents BibEntry structure element in logical structure
 type: docs
-weight: 4180
+weight: 4210
 url: /net/aspose.pdf.logicalstructure/bibentryelement/
 ---
 ## BibEntryElement class

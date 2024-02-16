@@ -3,7 +3,7 @@ title: Class PdfFileSanitization
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfFileSanitization class. Represents sanitization and recovery API. Use it if you cant create/open documents in any other way
 type: docs
-weight: 2610
+weight: 2640
 url: /net/aspose.pdf.facades/pdffilesanitization/
 ---
 ## PdfFileSanitization class

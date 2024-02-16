@@ -3,7 +3,7 @@ title: Enum EpubSaveOptions.RecognitionMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.EpubSaveOptionsRecognitionMode enum. When PDF file that usually has fixed layout is being converted the conversion engine tries to perform grouping and multilevel analysis to restore the original document authors intent and produce result in flow layout. This property tunes that conversion for this or that desirable method of recognition of content
 type: docs
-weight: 2170
+weight: 2200
 url: /net/aspose.pdf/epubsaveoptions.recognitionmode/
 ---
 ## EpubSaveOptions.RecognitionMode enumeration

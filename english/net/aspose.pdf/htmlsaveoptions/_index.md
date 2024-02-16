@@ -3,7 +3,7 @@ title: Class HtmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptions class. Save options for export to Html format
 type: docs
-weight: 3510
+weight: 3540
 url: /net/aspose.pdf/htmlsaveoptions/
 ---
 ## HtmlSaveOptions class
@@ -39,6 +39,7 @@ public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOpt
 | [FlowLayoutParagraphFullWidth](../../aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/) { get; set; } | This attribute specifies full width paragraph text for Flow mode, FixedLayout = false |
 | [FontSources](../../aspose.pdf/htmlsaveoptions/fontsources/) { get; } | Font sources of pre-saved fonts. |
 | [IgnoredTextFontSize](../../aspose.pdf/htmlsaveoptions/ignoredtextfontsize/) { get; set; } | Text with the specified size or less will be ignored during conversion. We do not remove this text, we ignore it and do not transfer it to the output file |
+| [IgnoreResourceFontErrors](../../aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/) { get; set; } | Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing. false by default |
 | [ImageResolution](../../aspose.pdf/htmlsaveoptions/imageresolution/) { get; set; } | Gets or sets resolution for image rendering. |
 | [MinimalLineWidth](../../aspose.pdf/htmlsaveoptions/minimallinewidth/) { get; set; } | This attribute sets minimal width of graphic path line. If thickness of line is less than 1px Adobe Acrobat rounds it to this value. So this attribute can be used to emulate this behavior for HTML browsers. |
 | [PreventGlyphsGrouping](../../aspose.pdf/htmlsaveoptions/preventglyphsgrouping/) { get; set; } | This attribute switch on the mode when text glyphs will not be grouped into words and strings This mode allows to keep maximum precision during positioning of glyphs on the page and it can be used for conversion documents with music notes or glyphs that should be placed separately each other. This parameter will be applied to document only when the value of FixedLayout attribute is true. |

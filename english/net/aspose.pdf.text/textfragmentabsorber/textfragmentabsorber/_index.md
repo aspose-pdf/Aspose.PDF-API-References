@@ -293,6 +293,52 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ---
 
+## TextFragmentAbsorber(Regex[], TextSearchOptions) {#constructor_9}
+
+Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase and text search options.
+
+```csharp
+public TextFragmentAbsorber(Regex[] regexes, TextSearchOptions textSearchOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| regexes | Regex[] | Array of System.Text.RegularExpressions.Regex class object that the [`TextFragmentAbsorber`](../) searches. |
+| textSearchOptions | TextSearchOptions | Text search options (Allows to turn on some search features.). |
+
+## Remarks
+
+Performs text search of the specified array of phrases and provides access to search results via [`RegexResults`](../regexresults/) dictionary.
+
+## Examples
+
+The example demonstrates how to find text with array of regular expressions on the first PDF document page.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+var regexes = new Regex[]
+{
+new Regex( @"expression1", RegexOptions.IgnoreCase),
+new Regex( @"expression2", RegexOptions.IgnoreCase),
+};
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
+doc.Pages[1].Accept(absorber);
+// Get results of 
+var results = absorber.RegexResults;
+```
+
+### See Also
+
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## TextFragmentAbsorber(string, TextSearchOptions, TextEditOptions) {#constructor_5}
 
 Initializes a new instance of the [`TextFragmentAbsorber`](../) class for the specified text phrase, text search options and text edit options.
