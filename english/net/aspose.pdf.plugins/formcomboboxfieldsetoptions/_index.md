@@ -3,7 +3,7 @@ title: Class FormComboBoxFieldSetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormComboBoxFieldSetOptions class. Represents options for set properties in ComboBoxField by FormEditor plugin
 type: docs
-weight: 6420
+weight: 6450
 url: /net/aspose.pdf.plugins/formcomboboxfieldsetoptions/
 ---
 ## FormComboBoxFieldSetOptions class

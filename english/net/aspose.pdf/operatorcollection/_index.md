@@ -3,7 +3,7 @@ title: Class OperatorCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.OperatorCollection class. Class represents collection of operators
 type: docs
-weight: 4980
+weight: 5010
 url: /net/aspose.pdf/operatorcollection/
 ---
 ## OperatorCollection class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf/operatorcollection/
 Class represents collection of operators
 
 ```csharp
-public class OperatorCollection : BaseOperatorCollection
+public class OperatorCollection : BaseOperatorCollection, IDisposable
 ```
 
 ## Properties
@@ -38,6 +38,7 @@ public class OperatorCollection : BaseOperatorCollection
 | [Delete](../../aspose.pdf/operatorcollection/delete/#delete_2)(IList&lt;Operator&gt;) | Deletes operators from collection. |
 | [Delete](../../aspose.pdf/operatorcollection/delete/#delete_1)(int) | Deletes operator from collection. |
 | [Delete](../../aspose.pdf/operatorcollection/delete/#delete)(Operator[]) | Deletes operators from collection. |
+| [Dispose](../../aspose.pdf/operatorcollection/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | override [GetEnumerator](../../aspose.pdf/operatorcollection/getenumerator/)() | Returns enumerator for collection |
 | [Insert](../../aspose.pdf/operatorcollection/insert/#insert_2)(int, IList&lt;Operator&gt;) | Insert operators at the the given position. |
 | override [Insert](../../aspose.pdf/operatorcollection/insert/#insert)(int, Operator) | Inserts operator into collection. |

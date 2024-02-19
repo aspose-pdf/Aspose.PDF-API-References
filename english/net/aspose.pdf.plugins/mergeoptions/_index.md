@@ -3,7 +3,7 @@ title: Class MergeOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.MergeOptions class. Represents Merge options for Merger plugin
 type: docs
-weight: 6720
+weight: 6750
 url: /net/aspose.pdf.plugins/mergeoptions/
 ---
 ## MergeOptions class

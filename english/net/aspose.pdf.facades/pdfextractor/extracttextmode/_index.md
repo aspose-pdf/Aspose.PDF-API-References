@@ -20,7 +20,7 @@ public int ExtractTextMode { get; set; }
 
 ## Examples
 
-The example demonstratres the `ExtractTextMode` property usage in text extraction scenario.
+The example demonstrates the `ExtractTextMode` property usage in text extraction scenario.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();

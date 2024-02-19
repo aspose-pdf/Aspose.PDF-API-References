@@ -3,7 +3,7 @@ title: TextAnnotation.Accept
 second_title: Aspose.PDF for .NET API Reference
 description: TextAnnotation method. Accepts visitor object to process the annotation
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.pdf.annotations/textannotation/accept/
 ---
 ## TextAnnotation.Accept method

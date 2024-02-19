@@ -3,7 +3,7 @@ title: Enum HtmlMediaType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlMediaType enum. Specifies possible media types used during rendering
 type: docs
-weight: 3490
+weight: 3520
 url: /net/aspose.pdf/htmlmediatype/
 ---
 ## HtmlMediaType enumeration

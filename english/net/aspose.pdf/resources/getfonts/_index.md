@@ -3,7 +3,7 @@ title: Resources.GetFonts
 second_title: Aspose.PDF for .NET API Reference
 description: Resources method. Returns fonts collection. If resources dont contain fonts entry it will be created in depends of CreateIfAbsent flag
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/resources/getfonts/
 ---
 ## Resources.GetFonts method

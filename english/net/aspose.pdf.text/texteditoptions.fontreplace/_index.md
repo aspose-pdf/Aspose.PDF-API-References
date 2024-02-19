@@ -3,7 +3,7 @@ title: Enum TextEditOptions.FontReplace
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextEditOptionsFontReplace enum. Font replacement behavior
 type: docs
-weight: 8210
+weight: 8260
 url: /net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
 ## TextEditOptions.FontReplace enumeration

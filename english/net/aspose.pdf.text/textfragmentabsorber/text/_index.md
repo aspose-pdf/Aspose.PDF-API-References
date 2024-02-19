@@ -3,7 +3,7 @@ title: TextFragmentAbsorber.Text
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentAbsorber property. Gets extracted text that the TextAbsorber extracts on the PDF document or page
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf.text/textfragmentabsorber/text/
 ---
 ## TextFragmentAbsorber.Text property

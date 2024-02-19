@@ -3,7 +3,7 @@ title: OperatorCollection.GetEnumerator
 second_title: Aspose.PDF for .NET API Reference
 description: OperatorCollection method. Returns enumerator for collection
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf/operatorcollection/getenumerator/
 ---
 ## OperatorCollection.GetEnumerator method

@@ -3,7 +3,7 @@ title: Class HtmlLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlLoadOptions class. Represents options for loading/importing html file into pdf document
 type: docs
-weight: 3480
+weight: 3510
 url: /net/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class
@@ -30,6 +30,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 | [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
 | [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
 | [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Gets or sets fonts embedding to result document |
+| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | Gets or sets the flag that specifies that @page rules defined in css will override values defined in PageInfo. |
 | [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
 | [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Gets or sets document page info |

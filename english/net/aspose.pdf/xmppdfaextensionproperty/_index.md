@@ -3,7 +3,7 @@ title: Class XmpPdfAExtensionProperty
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XmpPdfAExtensionProperty class. Describes a single property. Schema namespace URI http//www.aiim.org/pdfa/ns/property Required schema namespace prefix pdfaProperty
 type: docs
-weight: 8840
+weight: 8900
 url: /net/aspose.pdf/xmppdfaextensionproperty/
 ---
 ## XmpPdfAExtensionProperty class

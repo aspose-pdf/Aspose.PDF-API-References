@@ -3,7 +3,7 @@ title: Class XForm
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XForm class. Class represent XForm
 type: docs
-weight: 8710
+weight: 8770
 url: /net/aspose.pdf/xform/
 ---
 ## XForm class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf/xform/
 Class represent XForm
 
 ```csharp
-public sealed class XForm
+public sealed class XForm : IDisposable
 ```
 
 ## Properties
@@ -33,6 +33,7 @@ public sealed class XForm
 | Name | Description |
 | --- | --- |
 | static [CreateNewForm](../../aspose.pdf/xform/createnewform/)(Page, Document) | Creates XForm which duplicates contents of the page. |
+| [Dispose](../../aspose.pdf/xform/dispose/)() | Frees up memory |
 | [FreeMemory](../../aspose.pdf/xform/freememory/)() | Clears cached data |
 | [GetResources](../../aspose.pdf/xform/getresources/#getresources)() | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
 | [GetResources](../../aspose.pdf/xform/getresources/#getresources_1)(bool) | Returns resources of Form X-Object |

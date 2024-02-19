@@ -1,14 +1,14 @@
 ---
 title: PdfExtractor.GetNextImage
 second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Retreives next image from PDF document. Note ExtractImage must be called before using of this method
+description: PdfExtractor method. Retrieves next image from PDF document. Note ExtractImage must be called before using of this method
 type: docs
 weight: 170
 url: /net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-Retreives next image from PDF document. Note: ExtractImage must be called before using of this method.
+Retrieves next image from PDF document. Note: ExtractImage must be called before using of this method.
 
 ```csharp
 public bool GetNextImage(string outputFile)
@@ -45,7 +45,7 @@ while (extractor.HasNextImage())
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-Retreives next image from PDF document with given image format. Note: ExtractImage must be called before using of this method.
+Retrieves next image from PDF document with given image format. Note: ExtractImage must be called before using of this method.
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
@@ -70,7 +70,7 @@ True is image is successfully extracted
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-Retreive next image from PDF file and stores it into stream with given image format.
+Retrieve next image from PDF file and stores it into stream with given image format.
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
@@ -95,7 +95,7 @@ True in case the image is successfully extracted.
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Retreive next image from PDF file and stores it into stream.
+Retrieve next image from PDF file and stores it into stream.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)

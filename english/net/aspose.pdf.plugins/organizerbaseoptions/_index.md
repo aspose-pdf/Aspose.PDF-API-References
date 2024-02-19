@@ -3,7 +3,7 @@ title: Class OrganizerBaseOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.OrganizerBaseOptions class. Represents base options for plugins
 type: docs
-weight: 6770
+weight: 6800
 url: /net/aspose.pdf.plugins/organizerbaseoptions/
 ---
 ## OrganizerBaseOptions class

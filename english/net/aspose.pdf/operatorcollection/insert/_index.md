@@ -3,7 +3,7 @@ title: OperatorCollection.Insert
 second_title: Aspose.PDF for .NET API Reference
 description: OperatorCollection method. Inserts operator into collection
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf/operatorcollection/insert/
 ---
 ## Insert(int, Operator) {#insert}

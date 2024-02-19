@@ -17,6 +17,7 @@ url: /net/aspose.pdf.printing/
 | [PaperSize](./papersize/) | Specifies the size of a piece of paper. |
 | [PaperSizes](./papersizes/) | Represents the standard paper sizes. |
 | [PaperSource](./papersource/) | Specifies the paper tray from which the printer gets paper. |
+| [PaperSources](./papersources/) | Provides a set of predefined [`PaperSource`](../aspose.pdf.printing/papersource/) instances representing common paper sources. |
 | [PdfQueryPageSettingsEventArgs](./pdfquerypagesettingseventargs/) | Provides data for the [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) event. |
 | [PrinterResolution](./printerresolution/) | Represents the resolution supported by a printer. |
 | [PrinterSettings](./printersettings/) | Specifies information about how a document is printed, including the printer that prints it. |

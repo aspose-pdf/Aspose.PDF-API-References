@@ -3,7 +3,7 @@ title: Enum HeadingStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfToMarkdown.HeadingStyle enum. Defines the available serialization styles for headings. For specification see CommonMark  ATX headings respectively CommonMark  Setext headings
 type: docs
-weight: 6280
+weight: 6310
 url: /net/aspose.pdf.pdftomarkdown/headingstyle/
 ---
 ## HeadingStyle enumeration

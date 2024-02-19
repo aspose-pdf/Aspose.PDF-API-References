@@ -3,7 +3,7 @@ title: XFormCollection.GetFormName
 second_title: Aspose.PDF for .NET API Reference
 description: XFormCollection method. Returns name of the form in this form collection
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf/xformcollection/getformname/
 ---
 ## XFormCollection.GetFormName method

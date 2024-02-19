@@ -3,7 +3,7 @@ title: Class EmbeddedFileCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.EmbeddedFileCollection class. Class representing embedded files collection
 type: docs
-weight: 2120
+weight: 2150
 url: /net/aspose.pdf/embeddedfilecollection/
 ---
 ## EmbeddedFileCollection class

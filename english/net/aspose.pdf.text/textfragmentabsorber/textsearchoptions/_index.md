@@ -3,7 +3,7 @@ title: TextFragmentAbsorber.TextSearchOptions
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentAbsorber property. Gets or sets search options. The options enable search using regular expressions
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
 ---
 ## TextFragmentAbsorber.TextSearchOptions property

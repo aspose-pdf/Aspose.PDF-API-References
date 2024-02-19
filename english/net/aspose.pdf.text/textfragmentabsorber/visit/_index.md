@@ -3,7 +3,7 @@ title: TextFragmentAbsorber.Visit
 second_title: Aspose.PDF for .NET API Reference
 description: TextFragmentAbsorber method. Performs search on the specified page
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.pdf.text/textfragmentabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}

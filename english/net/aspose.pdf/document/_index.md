@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 1920
+weight: 1940
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -100,14 +100,15 @@ public sealed class Document : IDisposable
 | [BindXml](../../aspose.pdf/document/bindxml/#bindxml_2)(Stream, Stream, XmlReaderSettings) | Bind xml/xsl to document |
 | [ChangePasswords](../../aspose.pdf/document/changepasswords/)(string, string, string) | Changes document passwords. This action can be done only using owner password. |
 | [Check](../../aspose.pdf/document/check/)(bool) | Validates document. |
-| [Convert](../../aspose.pdf/document/convert/#convert_3)(CallBackGetHocr) | Recognize images inside the document and add hocr strings over it. |
 | [Convert](../../aspose.pdf/document/convert/#convert_2)(PdfFormatConversionOptions) | Convert document using specified conversion options |
-| [Convert](../../aspose.pdf/document/convert/#convert_4)(Stream, PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified stream. |
-| [Convert](../../aspose.pdf/document/convert/#convert_6)(string, PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified file. |
+| [Convert](../../aspose.pdf/document/convert/#convert_3)(CallBackGetHocr, bool) | Recognize images inside the document and add hocr strings over it. |
+| [Convert](../../aspose.pdf/document/convert/#convert_4)(CallBackGetHocrWithPage, bool) | Recognize images inside the document and add hocr strings over it. |
+| [Convert](../../aspose.pdf/document/convert/#convert_5)(Stream, PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified stream. |
+| [Convert](../../aspose.pdf/document/convert/#convert_7)(string, PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified file. |
 | [Convert](../../aspose.pdf/document/convert/#convert)(Fixup, Stream, bool, object[]) | Convert document by applying the Fixup. |
 | [Convert](../../aspose.pdf/document/convert/#convert_1)(Fixup, string, bool, object[]) | Convert document by applying the Fixup. |
-| [Convert](../../aspose.pdf/document/convert/#convert_5)(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
-| [Convert](../../aspose.pdf/document/convert/#convert_7)(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
+| [Convert](../../aspose.pdf/document/convert/#convert_6)(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
+| [Convert](../../aspose.pdf/document/convert/#convert_8)(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
 | [ConvertPageToPNGMemoryStream](../../aspose.pdf/document/convertpagetopngmemorystream/)(Page) | Convert page to PNG for DSR, OMR, OCR image stream. |
 | [Decrypt](../../aspose.pdf/document/decrypt/)() | Decrypts the document. Call then Save to obtain decrypted version of the document. |
 | [Dispose](../../aspose.pdf/document/dispose/)() | Closes all resources used by this document. |
@@ -181,6 +182,7 @@ public sealed class Document : IDisposable
 | Name | Description |
 | --- | --- |
 | delegate [CallBackGetHocr](../../aspose.pdf/document.callbackgethocr) | The call back procedure for hocr recognize. |
+| delegate [CallBackGetHocrWithPage](../../aspose.pdf/document.callbackgethocrwithpage) |  |
 | delegate [FontSubstitutionHandler](../../aspose.pdf/document.fontsubstitutionhandler) | Represents the method that will handle FontSubstitution event. |
 | interface [IDocumentFontUtilities](../../aspose.pdf/document.idocumentfontutilities) | Holds functionality to tune fonts |
 | class [MergeOptions](../../aspose.pdf/document.mergeoptions) | Represents the options to Merge methods. |

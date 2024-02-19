@@ -3,7 +3,7 @@ title: Class PdfHtml
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfHtml class. Represents PdfHtml plugin
 type: docs
-weight: 6830
+weight: 6860
 url: /net/aspose.pdf.plugins/pdfhtml/
 ---
 ## PdfHtml class

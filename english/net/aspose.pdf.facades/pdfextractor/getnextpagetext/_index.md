@@ -20,7 +20,7 @@ public void GetNextPageText(string outputFile)
 
 ## Examples
 
-The example demonstratres the GetNextPageText method usage in text extraction scenario.
+The example demonstrates the GetNextPageText method usage in text extraction scenario.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -71,7 +71,7 @@ public void GetNextPageText(Stream outputStream)
 
 ## Examples
 
-The example demonstratres the `GetNextPageText` method usage in text extraction scenario.
+The example demonstrates the `GetNextPageText` method usage in text extraction scenario.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();

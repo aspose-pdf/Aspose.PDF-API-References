@@ -3,7 +3,7 @@ title: DocSaveOptions.CustomProgressHandler
 second_title: Aspose.PDF for .NET API Reference
 description: DocSaveOptions field. This handler can be used to handle conversion progress events f.e. it can be used to show progress bar or messages about current amount of processed pages example of handlers code that shows progress on console is 
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf/docsaveoptions/customprogresshandler/
 ---
 ## DocSaveOptions.CustomProgressHandler field

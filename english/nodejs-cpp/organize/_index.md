@@ -30,6 +30,9 @@ url: /nodejs-cpp/organize/
 | [AsposePdfDeleteJavaScripts](./asposepdfdeletejavascripts/) | Delete JavaScripts from a PDF-file. |
 | [AsposePdfAddAttachment](./asposepdfaddattachment/) | Add attachment to a PDF-file. |
 | [AsposePdfGetAttachment](./asposepdfgetattachment/) | Get attachment from a PDF-file. |
+| [AsposePdfReplaceText](./asposepdfreplacetext/) | Replace text in a PDF-file. |
+| [AsposePdfFindText](./asposepdffindtext/) | Find text in a PDF-file. |
+
 
 ## Detailed Description
 

@@ -3,7 +3,7 @@ title: Class DocSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DocSaveOptions class. Save options for export to Doc format
 type: docs
-weight: 1890
+weight: 1910
 url: /net/aspose.pdf/docsaveoptions/
 ---
 ## DocSaveOptions class
@@ -37,6 +37,7 @@ public class DocSaveOptions : UnifiedSaveOptions, IPipelineOptions
 | [Mode](../../aspose.pdf/docsaveoptions/mode/) { get; set; } | Recognition mode. |
 | [RecognizeBullets](../../aspose.pdf/docsaveoptions/recognizebullets/) { get; set; } | Switch on the recognition of bullets |
 | [RelativeHorizontalProximity](../../aspose.pdf/docsaveoptions/relativehorizontalproximity/) { get; set; } | In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. So, to detect words sometimes we need detect groups of independent chars that are in fact words. This setting defines width of space between text elements(letters, syllables) that must be treated as distance between words during recognition of words in source PDF. (presence of empty space at least with this width between letters means that textual elements pertain to different words). It's normed to font size - 1.0 means 100% of supposed word's font size. ATTENTION!It's used only in cases when source PDF contains specific rarely used fonts for which optimal value cannot be calculated from font. So, in vast majority of cases this parameter changes nothing in result document. |
+| [ReSaveFonts](../../aspose.pdf/docsaveoptions/resavefonts/) { get; set; } | Gets or sets the procedure for resaving fonts. If set to true, we reload fonts on every page to avoid the influence of previous font properties and load the newly created font from scratch. Set this option to false if you want to improve performance. The default value is true; |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 

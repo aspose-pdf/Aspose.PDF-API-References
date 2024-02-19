@@ -3,7 +3,7 @@ title: Enum XmpPdfAExtensionCategoryType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XmpPdfAExtensionCategoryType enum. Property category internal or external
 type: docs
-weight: 8810
+weight: 8870
 url: /net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
 ## XmpPdfAExtensionCategoryType enumeration

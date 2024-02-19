@@ -3,7 +3,7 @@ title: TextAnnotation.ChangeAfterResize
 second_title: Aspose.PDF for .NET API Reference
 description: TextAnnotation method. Overrides the definition in the base class with an empty body
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.pdf.annotations/textannotation/changeafterresize/
 ---
 ## TextAnnotation.ChangeAfterResize method

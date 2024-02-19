@@ -3,7 +3,7 @@ title: Enum ImageFileType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ImageFileType enum. Enumerates the image file types
 type: docs
-weight: 3820
+weight: 3850
 url: /net/aspose.pdf/imagefiletype/
 ---
 ## ImageFileType enumeration

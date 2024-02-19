@@ -3,7 +3,7 @@ title: Class FormEditorRemoveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormEditorRemoveOptions class. Base class for option classes for remove fields in document by FormEditor plugin
 type: docs
-weight: 6460
+weight: 6490
 url: /net/aspose.pdf.plugins/formeditorremoveoptions/
 ---
 ## FormEditorRemoveOptions class

@@ -31,6 +31,10 @@ url: /javascript-cpp/convert/
 | [AsposePdfToPptX](./asposepdftopptx/) | Convert a PDF-file to PptX. |
 | [AsposePdfExtractText](./asposepdfextracttext/) | Extract text from a PDF-file.|
 | [AsposePdfExtractImage](./asposepdfextractimage/) | Extract image from a PDF-file.|
+| [AsposePdfExportFdf](./asposepdfexportfdf/) | Export from a PDF-file with AcroForm to FDF.|
+| [AsposePdfExportXfdf](./asposepdfexportxfdf/) | Export from a PDF-file with AcroForm to XFDF.|
+| [AsposePdfExportXml](./asposepdfexportxml/) | Export from a PDF-file with AcroForm to XML.|
+
 
 ## Detailed Description
 

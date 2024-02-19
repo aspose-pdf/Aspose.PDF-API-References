@@ -20,7 +20,7 @@ Can get more texts or not, true is can, or false.
 
 ## Examples
 
-The example demonstratres the `HasNextPageText` property usage in text extraction scenario.
+The example demonstrates the `HasNextPageText` property usage in text extraction scenario.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();

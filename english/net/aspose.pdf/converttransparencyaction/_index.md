@@ -3,7 +3,7 @@ title: Enum ConvertTransparencyAction
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ConvertTransparencyAction enum. This class represents action for conversion of transparency
 type: docs
-weight: 1630
+weight: 1640
 url: /net/aspose.pdf/converttransparencyaction/
 ---
 ## ConvertTransparencyAction enumeration

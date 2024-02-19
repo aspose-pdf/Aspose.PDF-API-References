@@ -3,7 +3,7 @@ title: XFormCollection.Remove
 second_title: Aspose.PDF for .NET API Reference
 description: XFormCollection method. Deletes specified item from collection
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf/xformcollection/remove/
 ---
 ## XFormCollection.Remove method

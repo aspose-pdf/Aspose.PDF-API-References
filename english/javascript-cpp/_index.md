@@ -38,7 +38,9 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfToPptX](./convert/asposepdftopptx/) | Convert a PDF-file to PptX. |
 | [AsposePdfExtractText](./convert/asposepdfextracttext/) | Extract text from a PDF-file.|
 | [AsposePdfExtractImage](./convert/asposepdfextractimage/) | Extract image from a PDF-file.|
-
+| [AsposePdfExportFdf](./convert/asposepdfexportfdf/) | Export from a PDF-file with AcroForm to FDF.|
+| [AsposePdfExportXfdf](./convert/asposepdfexportxfdf/) | Export from a PDF-file with AcroForm to XFDF.|
+| [AsposePdfExportXml](./convert/asposepdfexportxml/) | Export from a PDF-file with AcroForm to XML.|
 
 ## Convert to PDF functions
 
@@ -71,6 +73,8 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfDeleteJavaScripts](./organize/asposepdfdeletejavascripts/) | Delete JavaScripts from a PDF-file. |
 | [AsposePdfAddAttachment](./organize/asposepdfaddattachment/) | Add attachment to a PDF-file. |
 | [AsposePdfGetAttachment](./organize/asposepdfgetattachment/) | Get attachment from a PDF-file. |
+| [AsposePdfReplaceText](./organize/asposepdfreplacetext/) | Replace text in a PDF-file. |
+| [AsposePdfFindText](./organize/asposepdffindtext/) | Find text in a PDF-file. |
 
 
 ## Metadata PDF functions

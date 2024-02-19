@@ -3,7 +3,7 @@ title: Class TeXLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TeXLoadOptions class. Represents options for loading/importing TeX file into PDF document
 type: docs
-weight: 7770
+weight: 7810
 url: /net/aspose.pdf/texloadoptions/
 ---
 ## TeXLoadOptions class
@@ -37,6 +37,12 @@ public class TeXLoadOptions : LoadOptions
 | [ShowTerminalOutput](../../aspose.pdf/texloadoptions/showterminaloutput/) { get; set; } | Gets/sets the flag indicating whether to show terminal output on the console. |
 | [SubsetFonts](../../aspose.pdf/texloadoptions/subsetfonts/) { get; set; } | Gets/sets the flag indicating whether to subset fonts in output file or not. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetLoadResult](../../aspose.pdf/texloadoptions/getloadresult/)() | Gets result for TeX load and compiling - did everything go smoothly or were there any comments/errors. |
 
 ## Examples
 

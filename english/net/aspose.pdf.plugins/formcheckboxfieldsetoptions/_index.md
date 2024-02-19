@@ -3,7 +3,7 @@ title: Class FormCheckBoxFieldSetOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.FormCheckBoxFieldSetOptions class. Represents options for set properties in CheckboxField by FormEditor plugin
 type: docs
-weight: 6400
+weight: 6430
 url: /net/aspose.pdf.plugins/formcheckboxfieldsetoptions/
 ---
 ## FormCheckBoxFieldSetOptions class

@@ -3,7 +3,7 @@ title: Resources.GetExtGStates
 second_title: Aspose.PDF for .NET API Reference
 description: Resources method. Gets all ExGStates from resources
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf/resources/getextgstates/
 ---
 ## Resources.GetExtGStates method

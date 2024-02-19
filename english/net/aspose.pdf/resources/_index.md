@@ -3,7 +3,7 @@ title: Class Resources
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Resources class. Class representing page resources
 type: docs
-weight: 7390
+weight: 7430
 url: /net/aspose.pdf/resources/
 ---
 ## Resources class
@@ -26,6 +26,7 @@ public sealed class Resources
 
 | Name | Description |
 | --- | --- |
+| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Clears cached data, frees memory etc. |
 | [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Gets all ExGStates from resources. |
 | [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag. |
 
