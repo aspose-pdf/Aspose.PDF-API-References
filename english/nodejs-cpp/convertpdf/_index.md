@@ -11,6 +11,7 @@ url: /nodejs-cpp/convertpdf/
 |      Name      |  Description   |
 | -------------- | -------------- |
 | [AsposePdfFromTxt](./asposepdffromtxt/) | Convert a TXT-file to PDF. |
+| [AsposePdfFromImage](./asposepdffromimage/) | Convert a Image-file to PDF. |
 
 ## Detailed Description
 
