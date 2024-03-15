@@ -3,7 +3,7 @@ title: TextReplaceOptions.ReplaceScope
 second_title: Aspose.PDF for .NET API Reference
 description: TextReplaceOptions property. Gets or sets a scope where replace text operation is applied
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.text/textreplaceoptions/replacescope/
 ---
 ## TextReplaceOptions.ReplaceScope property

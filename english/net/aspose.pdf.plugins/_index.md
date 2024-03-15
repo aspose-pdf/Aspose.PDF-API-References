@@ -50,18 +50,23 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [OptimizeOptions](./optimizeoptions/) | Represents Optimize options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [Optimizer](./optimizer/) | Represents [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [OrganizerBaseOptions](./organizerbaseoptions/) | Represents base options for plugins. |
+| [PdfAConverter](./pdfaconverter/) | Represents a plugin for handling the conversion of PDF documents in a PDF/A format and for validation of the PDF/A conformance. |
+| [PdfAConvertOptions](./pdfaconvertoptions/) | Represents options for converting PDF documents to PDF/A format with the [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/) plugin. |
+| [PdfAOptionsBase](./pdfaoptionsbase/) | Represents the base class for the [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/) plugin options. This class provides properties and methods for configuring the PDF/A conversion and validation process. |
+| [PdfAValidateOptions](./pdfavalidateoptions/) | Represents options for validating PDF/A compliance of PDF documents with the [`PdfAConverter`](../aspose.pdf.plugins/pdfaconverter/) plugin. |
+| [PdfAValidationResult](./pdfavalidationresult/) | Represents the result of a PDF/A validation process. |
 | [PdfConverterOptions](./pdfconverteroptions/) | Represents options for Pdf converter plugins. |
-| [PdfExcel](./pdfexcel/) | Represents [`PdfExcel`](../aspose.pdf.plugins/pdfexcel/) plugin. |
+| [PdfDoc](./pdfdoc/) | Represents [`PdfDoc`](../aspose.pdf.plugins/pdfdoc/) plugin. |
 | [PdfExtractor](./pdfextractor/) | Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF documents. |
 | [PdfExtractorOptions](./pdfextractoroptions/) | Represents options for the TextExtractor and ImageExtractor plugins. |
 | [PdfGeneratorOptions](./pdfgeneratoroptions/) | Represents options for Generator plugins. |
 | [PdfHtml](./pdfhtml/) | Represents [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
-| [PdfToExcelOptions](./pdftoexceloptions/) | Represents PDF to XLSX converter options for [`PdfExcel`](../aspose.pdf.plugins/pdfexcel/) plugin. |
+| [PdfToDocOptions](./pdftodocoptions/) | Represents PDF to DOC converter options for [`PdfDoc`](../aspose.pdf.plugins/pdfdoc/) plugin. |
 | [PdfToHtmlOptions](./pdftohtmloptions/) | Represents PDF to HTML converter options for [`PdfHtml`](../aspose.pdf.plugins/pdfhtml/) plugin. |
 | [PdfToImage](./pdftoimage/) | Represents PDF to image plugin. |
 | [PdfToImageOptions](./pdftoimageoptions/) | Represents options for the [`PdfToImage`](../aspose.pdf.plugins/pdftoimage/) plugin. |
-| [PdfToWordOptions](./pdftowordoptions/) | Represents PDF to DOC converter options for [`PdfWord`](../aspose.pdf.plugins/pdfword/) plugin. |
-| [PdfWord](./pdfword/) | Represents [`PdfWord`](../aspose.pdf.plugins/pdfword/) plugin. |
+| [PdfToXlsOptions](./pdftoxlsoptions/) | Represents PDF to XLSX converter options for [`PdfXls`](../aspose.pdf.plugins/pdfxls/) plugin. |
+| [PdfXls](./pdfxls/) | Represents [`PdfXls`](../aspose.pdf.plugins/pdfxls/) plugin. |
 | [Png](./png/) | Represents Pdf to Png plugin. |
 | [PngOptions](./pngoptions/) | Represents Pdf to Png converter options for the [`Png`](../aspose.pdf.plugins/png/) plugin. |
 | [ResizeOptions](./resizeoptions/) | Represents Resize options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
@@ -96,6 +101,7 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | --- | --- |
 | [ConversionMode](./conversionmode/) | Defines conversion mode of the output document. |
 | [DataType](./datatype/) | Represents possible types of data for plugin processing. |
+| [PdfAStandardVersion](./pdfastandardversion/) | Specifies the PDF/A standard version for a PDF document. |
 | [SaveFormat](./saveformat/) | Allows to specify .doc or .docx file format. |
 
 

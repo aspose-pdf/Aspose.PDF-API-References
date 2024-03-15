@@ -3,7 +3,7 @@ title: Class AbsorbedCell
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.AbsorbedCell class. Represents cell of table that exist on the page
 type: docs
-weight: 7850
+weight: 7910
 url: /net/aspose.pdf.text/absorbedcell/
 ---
 ## AbsorbedCell class
@@ -11,7 +11,7 @@ url: /net/aspose.pdf.text/absorbedcell/
 Represents cell of table that exist on the page
 
 ```csharp
-public class AbsorbedCell : ITableElement
+public class AbsorbedCell : IComparable<AbsorbedCell>, ITableElement
 ```
 
 ## Properties
@@ -21,6 +21,12 @@ public class AbsorbedCell : ITableElement
 | [ColSpan](../../aspose.pdf.text/absorbedcell/colspan/) { get; } | Return the number of columns the cell should span when TableAbsorber.UseFlowEngine is true. |
 | [Rectangle](../../aspose.pdf.text/absorbedcell/rectangle/) { get; } | Gets rectangle that describes position of the cell on page |
 | [TextFragments](../../aspose.pdf.text/absorbedcell/textfragments/) { get; } | Gets collection of [`TextFragment`](../textfragment/) objects that describes text containing in the cell |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [CompareTo](../../aspose.pdf.text/absorbedcell/compareto/)(AbsorbedCell) | Compares the current AbsorbedCell object with another AbsorbedCell object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
 
 ### See Also
 

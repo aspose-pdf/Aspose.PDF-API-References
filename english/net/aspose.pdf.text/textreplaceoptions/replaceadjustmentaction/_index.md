@@ -3,7 +3,7 @@ title: TextReplaceOptions.ReplaceAdjustmentAction
 second_title: Aspose.PDF for .NET API Reference
 description: TextReplaceOptions property. Gets or sets an action that will be done after replace of text fragment to more short
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/
 ---
 ## TextReplaceOptions.ReplaceAdjustmentAction property

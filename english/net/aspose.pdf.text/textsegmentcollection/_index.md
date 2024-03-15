@@ -3,7 +3,7 @@ title: Class TextSegmentCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextSegmentCollection class. Represents a text segments collection
 type: docs
-weight: 8480
+weight: 8540
 url: /net/aspose.pdf.text/textsegmentcollection/
 ---
 ## TextSegmentCollection class

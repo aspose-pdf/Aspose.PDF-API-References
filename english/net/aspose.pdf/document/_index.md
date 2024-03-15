@@ -181,7 +181,7 @@ public sealed class Document : IDisposable
 
 | Name | Description |
 | --- | --- |
-| delegate [CallBackGetHocr](../../aspose.pdf/document.callbackgethocr) | The call back procedure for hocr recognize. |
+| delegate [CallBackGetHocr](../../aspose.pdf/document.callbackgethocr) |  |
 | delegate [CallBackGetHocrWithPage](../../aspose.pdf/document.callbackgethocrwithpage) |  |
 | delegate [FontSubstitutionHandler](../../aspose.pdf/document.fontsubstitutionhandler) | Represents the method that will handle FontSubstitution event. |
 | interface [IDocumentFontUtilities](../../aspose.pdf/document.idocumentfontutilities) | Holds functionality to tune fonts |

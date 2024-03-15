@@ -3,7 +3,7 @@ title: Class GraphicsAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.GraphicsAbsorber class. Represents an absorber object of graphics elements. Performs graphics search and provides access to search results via Elements collection
 type: docs
-weight: 8680
+weight: 8740
 url: /net/aspose.pdf.vector/graphicsabsorber/
 ---
 ## GraphicsAbsorber class

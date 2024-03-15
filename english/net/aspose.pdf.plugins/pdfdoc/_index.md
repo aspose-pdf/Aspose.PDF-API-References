@@ -3,7 +3,7 @@ title: Class PdfDoc
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfDoc class. Represents PdfDoc plugin
 type: docs
-weight: 6520
+weight: 6880
 url: /net/aspose.pdf.plugins/pdfdoc/
 ---
 ## PdfDoc class

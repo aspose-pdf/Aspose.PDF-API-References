@@ -3,7 +3,7 @@ title: Class RotateOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.RotateOptions class. Represents Rotate options for Optimizer plugin
 type: docs
-weight: 7000
+weight: 7060
 url: /net/aspose.pdf.plugins/rotateoptions/
 ---
 ## RotateOptions class

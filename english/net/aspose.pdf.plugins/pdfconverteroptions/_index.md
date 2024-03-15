@@ -3,7 +3,7 @@ title: Class PdfConverterOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfConverterOptions class. Represents options for Pdf converter plugins
 type: docs
-weight: 6810
+weight: 6870
 url: /net/aspose.pdf.plugins/pdfconverteroptions/
 ---
 ## PdfConverterOptions class

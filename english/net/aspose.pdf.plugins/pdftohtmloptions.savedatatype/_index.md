@@ -3,7 +3,7 @@ title: Enum PdfToHtmlOptions.SaveDataType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType enum. Defines output type of HTML file
 type: docs
-weight: 6900
+weight: 6950
 url: /net/aspose.pdf.plugins/pdftohtmloptions.savedatatype/
 ---
 ## PdfToHtmlOptions.SaveDataType enumeration

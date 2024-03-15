@@ -3,7 +3,7 @@ title: Class CosPdfBoolean
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.PublicData.CosPdfBoolean class. This class represents boolean type
 type: docs
-weight: 8590
+weight: 8650
 url: /net/aspose.pdf.utils.publicdata/cospdfboolean/
 ---
 ## CosPdfBoolean class

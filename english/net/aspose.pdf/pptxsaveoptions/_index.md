@@ -3,7 +3,7 @@ title: Class PptxSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PptxSaveOptions class. Save options for export to SVG format
 type: docs
-weight: 7200
+weight: 7260
 url: /net/aspose.pdf/pptxsaveoptions/
 ---
 ## PptxSaveOptions class

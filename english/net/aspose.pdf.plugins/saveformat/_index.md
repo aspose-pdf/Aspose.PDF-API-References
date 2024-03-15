@@ -3,7 +3,7 @@ title: Enum SaveFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.SaveFormat enum. Allows to specify .doc or .docx file format
 type: docs
-weight: 7010
+weight: 7070
 url: /net/aspose.pdf.plugins/saveformat/
 ---
 ## SaveFormat enumeration

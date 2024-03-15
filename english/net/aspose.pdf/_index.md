@@ -147,7 +147,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [TeXLoadOptions](./texloadoptions/) | Represents options for loading/importing TeX file into PDF document. |
 | [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/) | Implements fetching an output stream from memory. You can use it, for example, when you don't want the accompanying output (like a log file) to be written to disk but you'd like to read it afterwards from memory. |
 | [TeXSaveOptions](./texsaveoptions/) | Save options for export to TeX format |
-| [TextStamp](./textstamp/) | Reresents textual stamp. |
+| [TextStamp](./textstamp/) | Represents textual stamp. |
 | [TimestampSettings](./timestampsettings/) | Represents the ocsp settings using during signing process. |
 | [TocInfo](./tocinfo/) | Represents table of contents info. |
 | [TxtLoadOptions](./txtloadoptions/) | Load options for TXT to PDF conversion. |

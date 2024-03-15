@@ -51,7 +51,7 @@ public sealed class PageNumberStamp : TextStamp
 | [Value](../../aspose.pdf/textstamp/value/) { get; set; } | Gets or sets string value which is used as stamp on the page. |
 | [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Gets or sets vertical alignment of stamp on page. |
 | override [Width](../../aspose.pdf/textstamp/width/) { get; set; } | Desired width of the stamp on the page. |
-| [WordWrap](../../aspose.pdf/textstamp/wordwrap/) { get; set; } | Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default value: false. |
+| [WordWrapMode](../../aspose.pdf/textstamp/wordwrapmode/) { get; set; } | Gets or sets the word wrap mode for text rendering. |
 | [XIndent](../../aspose.pdf/stamp/xindent/) { get; set; } | Horizontal stamp coordinate, starting from the left. |
 | [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | Vertical stamp coordinate, starting from the bottom. |
 | [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Zooming factor of the stamp. Allows to scale stamp. Please note that pair of properties ZoomX and ZoomY allows to set zoom factor for every axe separately. Setting of this property changes both ZoomX and ZoomY properties. If ZoomX and ZoomY are different then Zoom property returns ZoomX value. |
