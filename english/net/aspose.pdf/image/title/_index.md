@@ -3,7 +3,7 @@ title: Image.Title
 second_title: Aspose.PDF for .NET API Reference
 description: Image property. Gets or sets a string value that indicates the title of the image
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf/image/title/
 ---
 ## Image.Title property

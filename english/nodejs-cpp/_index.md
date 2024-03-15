@@ -47,6 +47,7 @@ is_root: true
 | Function | Description |
 | -------- | ----------- |
 | [AsposePdfFromTxt](./convertpdf/asposepdffromtxt/) | Convert a TXT-file to PDF. |
+| [AsposePdfFromImage](./convertpdf/asposepdffromimage/) | Convert a Image-file to PDF. |
 
 
 ## Organize PDF functions

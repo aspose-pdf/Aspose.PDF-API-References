@@ -3,7 +3,7 @@ title: Image.File
 second_title: Aspose.PDF for .NET API Reference
 description: Image property. Gets or sets the image file
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf/image/file/
 ---
 ## Image.File property

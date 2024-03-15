@@ -3,7 +3,7 @@ title: Delegate SelectField
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 7020
+weight: 7080
 url: /net/aspose.pdf.plugins/selectfield/
 ---
 ## SelectField delegate

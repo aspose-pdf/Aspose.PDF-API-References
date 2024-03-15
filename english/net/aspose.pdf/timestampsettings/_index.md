@@ -3,7 +3,7 @@ title: Class TimestampSettings
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TimestampSettings class. Represents the ocsp settings using during signing process
 type: docs
-weight: 8510
+weight: 8570
 url: /net/aspose.pdf/timestampsettings/
 ---
 ## TimestampSettings class

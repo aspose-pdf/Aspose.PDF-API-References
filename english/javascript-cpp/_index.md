@@ -42,11 +42,13 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfExportXfdf](./convert/asposepdfexportxfdf/) | Export from a PDF-file with AcroForm to XFDF.|
 | [AsposePdfExportXml](./convert/asposepdfexportxml/) | Export from a PDF-file with AcroForm to XML.|
 
+
 ## Convert to PDF functions
 
 | Function | Description |
 | -------- | ----------- |
 | [AsposePdfFromTxt](./convertpdf/asposepdffromtxt/) | Convert a TXT-file to PDF. |
+| [AsposePdfFromImage](./convertpdf/asposepdffromimage/) | Convert a Image-file to PDF. |
 
 
 ## Organize PDF functions

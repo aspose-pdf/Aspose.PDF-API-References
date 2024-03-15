@@ -3,7 +3,7 @@ title: Image.GetMimeType
 second_title: Aspose.PDF for .NET API Reference
 description: Image method. Returns mime type for image
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf/image/getmimetype/
 ---
 ## Image.GetMimeType method

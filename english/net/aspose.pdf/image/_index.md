@@ -24,6 +24,7 @@ public sealed class Image : BaseParagraph
 
 | Name | Description |
 | --- | --- |
+| [BitmapSize](../../aspose.pdf/image/bitmapsize/) { get; } | Gets the image bitmap size. |
 | [File](../../aspose.pdf/image/file/) { get; set; } | Gets or sets the image file. |
 | [FileType](../../aspose.pdf/image/filetype/) { get; set; } | Gets or sets the image file type. |
 | [FixHeight](../../aspose.pdf/image/fixheight/) { get; set; } | Gets or sets the image height. |

@@ -3,7 +3,7 @@ title: Enum TabLeaderType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TabLeaderType enum. Enumerates the tab leader types
 type: docs
-weight: 8180
+weight: 8240
 url: /net/aspose.pdf.text/tableadertype/
 ---
 ## TabLeaderType enumeration

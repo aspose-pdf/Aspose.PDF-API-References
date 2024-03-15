@@ -3,7 +3,7 @@ title: Class CosPdfPrimitive
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Utils.PublicData.CosPdfPrimitive class. This class represents base public type CosPdfPrimitive
 type: docs
-weight: 8620
+weight: 8680
 url: /net/aspose.pdf.utils.publicdata/cospdfprimitive/
 ---
 ## CosPdfPrimitive class

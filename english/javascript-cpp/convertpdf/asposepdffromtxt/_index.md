@@ -31,6 +31,7 @@ JSON object
 
 **Web Worker example**:
 ```js
+  /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
   AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
   AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 

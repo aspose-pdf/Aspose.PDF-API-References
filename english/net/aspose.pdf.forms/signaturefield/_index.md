@@ -80,6 +80,7 @@ public sealed class SignatureField : Field
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Update parameters and appearance, according to the matrix transform. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Clones this instance. Virtual method. Always return null. |
 | [CopyTo](../../aspose.pdf.forms/field/copyto/)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
+| [ExecuteFieldJavaScript](../../aspose.pdf.forms/field/executefieldjavascript/)(JavascriptAction) | Executes a specified JavaScript action for the field. |
 | [ExtractCertificate](../../aspose.pdf.forms/signaturefield/extractcertificate/)() | Extracts the single X.509 certificate in DER format as a stream. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage)() | Extracts signature's image as jpeg encoded stream. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage_1)(ImageFormat) | Extracts signature's image as encoded stream. |

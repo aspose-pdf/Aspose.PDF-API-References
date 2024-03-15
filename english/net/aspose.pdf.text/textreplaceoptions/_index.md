@@ -3,7 +3,7 @@ title: Class TextReplaceOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.TextReplaceOptions class. Represents text replace options
 type: docs
-weight: 8430
+weight: 8490
 url: /net/aspose.pdf.text/textreplaceoptions/
 ---
 ## TextReplaceOptions class
@@ -26,6 +26,7 @@ public sealed class TextReplaceOptions : TextOptions
 | Name | Description |
 | --- | --- |
 | [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/) { get; set; } | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. The value expected is multiplier of font size of the replaced text. Default is 1.2. |
+| [IgnoreParagraphs](../../aspose.pdf.text/textreplaceoptions/ignoreparagraphs/) { get; set; } | Gets or sets a value indicating whether to ignore distinct paragraphs when adjusting text on the page after text replacement. |
 | [LeftAdjustment](../../aspose.pdf.text/textreplaceoptions/leftadjustment/) { get; set; } | Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode; |
 | [ReplaceAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/) { get; set; } | Gets or sets an action that will be done after replace of text fragment to more short. |
 | [ReplaceScope](../../aspose.pdf.text/textreplaceoptions/replacescope/) { get; set; } | Gets or sets a scope where replace text operation is applied |
