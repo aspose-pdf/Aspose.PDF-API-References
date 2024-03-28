@@ -37,7 +37,7 @@ JSON object
 **CommonJS**:
 
 ```js
-const AsposePdf = require('.//AsposePDFforNode.cjs');
+const AsposePdf = require('asposepdfnodejs');
 const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*string, include number pages with interval: "7, 20, 22, 30-32, 33, 36-40, 46"*/
@@ -55,7 +55,7 @@ AsposePdf().then(AsposePdfModule => {
 **ECMAScript/ES6**:
 
 ```js
-import AsposePdf from './/AsposePDFforNode.mjs';
+import AsposePdf from 'asposepdfnodejs';
 const AsposePdfModule = await AsposePdf();
 const pdf_file = 'Aspose.pdf';
 /*string, include number pages with interval: "7, 20, 22, 30-32, 33, 36-40, 46"*/

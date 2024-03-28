@@ -43,11 +43,11 @@ Functions for converting from PDF files.
 CommonJS
 
 ```js
-const AsposePdf = require('.//AsposePDFforNode.cjs');
+const AsposePdf = require('asposepdfnodejs');
 ```
 
 ECMAScript/ES6
 
 ```js
-import AsposePdf from './/AsposePDFforNode.mjs';
+import AsposePdf from 'asposepdfnodejs';
 ```

@@ -32,7 +32,7 @@ JSON object
 **CommonJS**:
 
 ```js
-const AsposePdf = require('.//AsposePDFforNode.cjs');
+const AsposePdf = require('asposepdfnodejs');
 const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Convert a PDF-file to JPG with template "ResultPdfToJpg{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/
@@ -44,7 +44,7 @@ AsposePdf().then(AsposePdfModule => {
 **ECMAScript/ES6**:
 
 ```js
-import AsposePdf from './/AsposePDFforNode.mjs';
+import AsposePdf from 'asposepdfnodejs';
 const AsposePdfModule = await AsposePdf();
 const pdf_file = 'Aspose.pdf';
 /*Convert a PDF-file to JPG with template "ResultPdfToJpg{0:D2}.jpg" ({0}, {0:D2}, {0:D3}, ... format page number), resolution 150 DPI and save*/

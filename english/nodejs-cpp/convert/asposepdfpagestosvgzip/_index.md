@@ -29,7 +29,7 @@ JSON object
 **CommonJS**:
 
 ```js
-const AsposePdf = require('.//AsposePDFforNode.cjs');
+const AsposePdf = require('asposepdfnodejs');
 const pdf_file = 'Aspose.pdf';
 AsposePdf().then(AsposePdfModule => {
     /*Convert a PDF-file to SVG(zip) and save the "ResultPdfToSvgZip.zip"*/
@@ -41,7 +41,7 @@ AsposePdf().then(AsposePdfModule => {
 **ECMAScript/ES6**:
 
 ```js
-import AsposePdf from './/AsposePDFforNode.mjs';
+import AsposePdf from 'asposepdfnodejs';
 const AsposePdfModule = await AsposePdf();
 const pdf_file = 'Aspose.pdf';
 /*convert a PDF-file to SVG zip and save the "ResultPdfToSvgZip.zip"*/

@@ -49,7 +49,7 @@ JSON object
 **CommonJS**:
 
 ```js
-const AsposePdf = require('.//AsposePDFforNode.cjs');
+const AsposePdf = require('asposepdfnodejs');
 const aspose_file = 'Aspose.jpg';
 AsposePdf().then(AsposePdfModule => {
     /*Convert a Image-file to PDF and save the "ResultPDFFromImage.pdf"*/
@@ -61,7 +61,7 @@ AsposePdf().then(AsposePdfModule => {
 **ECMAScript/ES6**:
 
 ```js
-import AsposePdf from './/AsposePDFforNode.mjs';
+import AsposePdf from 'asposepdfnodejs';
 const AsposePdfModule = await AsposePdf();
 const aspose_file = 'Aspose.jpg';
 /*Convert a Image-file to PDF and save the "ResultPDFFromImage.pdf"*/

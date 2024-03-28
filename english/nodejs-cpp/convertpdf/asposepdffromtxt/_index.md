@@ -30,7 +30,7 @@ JSON object
 **CommonJS**:
 
 ```js
-const AsposePdf = require('.//AsposePDFforNode.cjs');
+const AsposePdf = require('asposepdfnodejs');
 const txt_file = 'ReadMe.txt';
 AsposePdf().then(AsposePdfModule => {
     /*Convert a TXT-file to PDF and save the "ResultPDFFromTxt.pdf"*/
@@ -42,7 +42,7 @@ AsposePdf().then(AsposePdfModule => {
 **ECMAScript/ES6**:
 
 ```js
-import AsposePdf from './/AsposePDFforNode.mjs';
+import AsposePdf from 'asposepdfnodejs';
 const AsposePdfModule = await AsposePdf();
 const txt_file = 'ReadMe.txt';
 /*Convert a TXT-file to PDF and save the "ResultPDFFromTxt.pdf"*/
