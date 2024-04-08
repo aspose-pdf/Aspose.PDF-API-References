@@ -32,6 +32,7 @@ url: /nodejs-cpp/organize/
 | [AsposePdfGetAttachment](./asposepdfgetattachment/) | Get attachment from a PDF-file. |
 | [AsposePdfReplaceText](./asposepdfreplacetext/) | Replace text in a PDF-file. |
 | [AsposePdfFindText](./asposepdffindtext/) | Find text in a PDF-file. |
+| [AsposePdfReplaceFont](./asposepdfreplacefont/) | Replace font in a PDF-file. |
 
 
 ## Detailed Description

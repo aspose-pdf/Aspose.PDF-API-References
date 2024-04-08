@@ -77,6 +77,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfGetAttachment](./organize/asposepdfgetattachment/) | Get attachment from a PDF-file. |
 | [AsposePdfReplaceText](./organize/asposepdfreplacetext/) | Replace text in a PDF-file. |
 | [AsposePdfFindText](./organize/asposepdffindtext/) | Find text in a PDF-file. |
+| [AsposePdfReplaceFont](./organize/asposepdfreplacefont/) | Replace font in a PDF-file. |
 
 
 ## Metadata PDF functions
