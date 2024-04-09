@@ -22,7 +22,7 @@ function AsposePdfReplaceFont(
 
 * **fileBlob** Blob object
 * **fileName** file name
-* **findFont** font name font to be replaced
+* **findFont** name font to be replaced
 * **replaceFont** replacement font name
 * **fileNameResult** result file name
 
