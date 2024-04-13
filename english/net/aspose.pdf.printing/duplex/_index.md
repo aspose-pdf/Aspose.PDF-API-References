@@ -3,7 +3,7 @@ title: Enum Duplex
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.Duplex enum. Specifies the printers duplex setting
 type: docs
-weight: 7310
+weight: 7350
 url: /net/aspose.pdf.printing/duplex/
 ---
 ## Duplex enumeration

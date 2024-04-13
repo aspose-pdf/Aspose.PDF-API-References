@@ -3,7 +3,7 @@ title: ViewerPreference.PrintScalingNone
 second_title: Aspose.PDF for .NET API Reference
 description: ViewerPreference field. No page scaling
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.pdf.facades/viewerpreference/printscalingnone/
 ---
 ## ViewerPreference.PrintScalingNone field

@@ -3,7 +3,7 @@ title: Interface ITaggedContent
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Tagged.ITaggedContent interface. Represents interface for work with TaggedPdf content of document
 type: docs
-weight: 7820
+weight: 7910
 url: /net/aspose.pdf.tagged/itaggedcontent/
 ---
 ## ITaggedContent interface

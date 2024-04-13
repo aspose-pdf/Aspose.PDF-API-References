@@ -3,7 +3,7 @@ title: Class XImage
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XImage class. Class representing image XObject
 type: docs
-weight: 8850
+weight: 8950
 url: /net/aspose.pdf/ximage/
 ---
 ## XImage class
@@ -30,6 +30,7 @@ public sealed class XImage
 
 | Name | Description |
 | --- | --- |
+| [AddStencilMask](../../aspose.pdf/ximage/addstencilmask/)(Stream) | Adds a stencil mask to the XImage. |
 | [GetColorType](../../aspose.pdf/ximage/getcolortype/)() | Returns color type of image. |
 | [GetNameInCollection](../../aspose.pdf/ximage/getnameincollection/)() | Returns name of the image in ints collection. |
 | [IsTheSameObject](../../aspose.pdf/ximage/isthesameobject/)(XImage) | Returns true if both images references to the same object. |

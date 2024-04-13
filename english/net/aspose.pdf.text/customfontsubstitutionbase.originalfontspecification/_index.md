@@ -3,7 +3,7 @@ title: Class CustomFontSubstitutionBase.OriginalFontSpecification
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.CustomFontSubstitutionBaseOriginalFontSpecification class. Represents original font specification
 type: docs
-weight: 7980
+weight: 8070
 url: /net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification class

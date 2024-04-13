@@ -73,6 +73,8 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [ResultContainer](./resultcontainer/) | Represents container that contains the result collection of processing the plugin. |
 | [RotateOptions](./rotateoptions/) | Represents Rotate options for [`Optimizer`](../aspose.pdf.plugins/optimizer/) plugin. |
 | [SelectField](./selectfield/) |  |
+| [Signature](./signature/) | Represents [`Signature`](../aspose.pdf.plugins/signature/) plugin. |
+| [SignOptions](./signoptions/) | Represents Sign Options for [`Signature`](../aspose.pdf.plugins/signature/) plugin. |
 | [SplitOptions](./splitoptions/) | Represents Split options for [`Splitter`](../aspose.pdf.plugins/splitter/) plugin. |
 | [Splitter](./splitter/) | Represents [`Splitter`](../aspose.pdf.plugins/splitter/) plugin. |
 | [StreamDataSource](./streamdatasource/) | Represents stream data source for load and save operations of a plugin. |
@@ -85,6 +87,8 @@ The **Aspose.Pdf.Plugins** is a root namespace for all classes of Aspose.Pdf.Plu
 | [TableRowBuilder](./tablerowbuilder/) | Class represents builder for table row. |
 | [TextExtractor](./textextractor/) | Represents TextExtractor plugin. |
 | [TextExtractorOptions](./textextractoroptions/) | Represents text extraction options for the TextExtractor plugin. |
+| [Tiff](./tiff/) | Represents Pdf to Tiff plugin. |
+| [TiffOptions](./tiffoptions/) | Represents Pdf to Tiff converter options for the [`Tiff`](../aspose.pdf.plugins/tiff/) plugin. |
 | [TocGenerator](./tocgenerator/) | Represents Aspose.PDF TocGenerator plugin. |
 | [TocOptions](./tocoptions/) | Represents options for add table of contents to document by [`TocGenerator`](../aspose.pdf.plugins/tocgenerator/) plugin. |
 ## Interfaces

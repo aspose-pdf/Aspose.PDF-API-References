@@ -3,7 +3,7 @@ title: Enum Rotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Rotation enum. Enumeration of possible rotation values
 type: docs
-weight: 7530
+weight: 7620
 url: /net/aspose.pdf/rotation/
 ---
 ## Rotation enumeration

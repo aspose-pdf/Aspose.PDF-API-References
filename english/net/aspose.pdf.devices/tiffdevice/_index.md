@@ -52,9 +52,11 @@ public sealed class TiffDevice : DocumentDevice
 
 | Name | Description |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/documentdevice/binarizebradley/)(Stream, Stream, double) | Do Bradley binarization for input stream. |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Do Bradley binarization for input stream. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | Processes the whole document and saves results into stream. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | Processes the whole document and saves results into file. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Converts certain document pages into tiff and save it in the output stream. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Processes certain pages of the document and saves results into file. |
 

@@ -39,7 +39,7 @@ var opt = new OptimizeOptions();
 opt.AddInput(new FileDataSource(inputPath));
 // set output file path
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// perform the process
 optimizer.Process(opt);
 ```
 

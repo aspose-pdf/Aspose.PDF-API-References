@@ -3,7 +3,7 @@ title: ParagraphAbsorber.Visit
 second_title: Aspose.PDF for .NET API Reference
 description: ParagraphAbsorber method. Performs search for sections and paragraphs on the specified Document
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.text/paragraphabsorber/visit/
 ---
 ## Visit(Document) {#visit}
