@@ -3,7 +3,7 @@ title: Class Splitter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.Splitter class. Represents Splitter plugin
 type: docs
-weight: 7100
+weight: 7120
 url: /net/aspose.pdf.plugins/splitter/
 ---
 ## Splitter class
@@ -40,7 +40,7 @@ opt.AddInput(new FileDataSource(inputPath));
 // set output file paths
 opt.AddOutput(new FileDataSource(outputPath1));
 opt.AddOutput(new FileDataSource(outputPath2));
-// perform extraction process
+// perform the process
 splitter.Process(opt);
 ```
 

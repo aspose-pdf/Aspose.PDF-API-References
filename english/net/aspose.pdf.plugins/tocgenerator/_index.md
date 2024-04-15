@@ -3,7 +3,7 @@ title: Class TocGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Plugins.TocGenerator class. Represents Aspose.PDF TocGenerator plugin
 type: docs
-weight: 7220
+weight: 7260
 url: /net/aspose.pdf.plugins/tocgenerator/
 ---
 ## TocGenerator class

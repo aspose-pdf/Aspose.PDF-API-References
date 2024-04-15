@@ -18,14 +18,16 @@ public sealed class Dash
 
 | Name | Description |
 | --- | --- |
-| [Dash](dash/)(int, int) | Constructor for Dash. |
+| [Dash](dash/#constructor_1)(int[]) | Constructor for Dash. Defines a pattern of dashes and gaps that shall be used in drawing a dashed border. |
+| [Dash](dash/#constructor)(int, int) | Constructor for Dash. Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Gets or sets length of gap between dashes. |
-| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Gets or sets length of dash. |
+| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Gets or sets length of first gap between dashes. |
+| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Gets or sets length of first dash. |
+| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Gets dash array defining a pattern of dashes and gaps that shall be used in drawing a dashed border. |
 
 ### See Also
 

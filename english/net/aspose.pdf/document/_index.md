@@ -80,6 +80,7 @@ public sealed class Document : IDisposable
 | [Pages](../../aspose.pdf/document/pages/) { get; } | Gets or sets collection of document pages. Note that pages are numbered from 1 in collection. |
 | [PdfFormat](../../aspose.pdf/document/pdfformat/) { get; } | Gets PDF format |
 | [Permissions](../../aspose.pdf/document/permissions/) { get; } | Gets permissions of the document. |
+| [PickTrayByPdfSize](../../aspose.pdf/document/picktraybypdfsize/) { get; set; } | Gets or sets a flag specifying whether the PDF page size shall be used to select the input paper tray. |
 | [PrintScaling](../../aspose.pdf/document/printscaling/) { get; set; } | Gets or sets the page scaling option that shall be selected when a print dialog is displayed for this document. |
 | [TaggedContent](../../aspose.pdf/document/taggedcontent/) { get; } | Gets access to TaggedPdf content. |
 | [Version](../../aspose.pdf/document/version/) { get; } | Gets a version of Pdf from Pdf file header. |

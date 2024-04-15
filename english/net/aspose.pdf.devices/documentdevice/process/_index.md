@@ -3,7 +3,7 @@ title: DocumentDevice.Process
 second_title: Aspose.PDF for .NET API Reference
 description: DocumentDevice method. Each device represents some operation on the document e.g. we can convert pdf document into another format
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.pdf.devices/documentdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}

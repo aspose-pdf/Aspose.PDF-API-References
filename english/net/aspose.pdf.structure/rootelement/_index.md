@@ -3,7 +3,7 @@ title: Class RootElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Structure.RootElement class. Root structure element
 type: docs
-weight: 7700
+weight: 7790
 url: /net/aspose.pdf.structure/rootelement/
 ---
 ## RootElement class

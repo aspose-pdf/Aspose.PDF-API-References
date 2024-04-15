@@ -40,7 +40,7 @@ opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
 // set output file path
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// perform the process
 merger.Process(opt);
 ```
 

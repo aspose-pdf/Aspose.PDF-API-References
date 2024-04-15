@@ -30,6 +30,7 @@ public sealed class JpegOptions : PdfToImageOptions
 | [OutputResolution](../../aspose.pdf.plugins/pdftoimageoptions/outputresolution/) { get; set; } | Gets or sets the resolution value of the resulting images. |
 | [Outputs](../../aspose.pdf.plugins/pdftoimageoptions/outputs/) { get; } |  |
 | [PageList](../../aspose.pdf.plugins/pdftoimageoptions/pagelist/) { get; set; } | Gets or sets a list of pages for the process. |
+| [Quality](../../aspose.pdf.plugins/jpegoptions/quality/) { get; set; } | Gets and sets Jpeg quality |
 
 ## Methods
 

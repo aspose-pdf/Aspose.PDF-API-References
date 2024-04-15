@@ -3,7 +3,7 @@ title: ViewerPreference.Simplex
 second_title: Aspose.PDF for .NET API Reference
 description: ViewerPreference field. Print singlesided
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.pdf.facades/viewerpreference/simplex/
 ---
 ## ViewerPreference.Simplex field

@@ -48,6 +48,7 @@ public sealed class ViewerPreference
 | const [PageModeUseOC](../../aspose.pdf.facades/viewerpreference/pagemodeuseoc/) | Optional content group panel visible. |
 | const [PageModeUseOutlines](../../aspose.pdf.facades/viewerpreference/pagemodeuseoutlines/) | Document outline visible. |
 | const [PageModeUseThumbs](../../aspose.pdf.facades/viewerpreference/pagemodeusethumbs/) | Thumbnail images visible. |
+| const [PickTrayByPDFSize](../../aspose.pdf.facades/viewerpreference/picktraybypdfsize/) | Use the PDF page size to select the input paper tray. |
 | const [PrintScalingAppDefault](../../aspose.pdf.facades/viewerpreference/printscalingappdefault/) | The conforming reader's default print scaling. |
 | const [PrintScalingNone](../../aspose.pdf.facades/viewerpreference/printscalingnone/) | No page scaling. |
 | const [Simplex](../../aspose.pdf.facades/viewerpreference/simplex/) | Print single-sided. |

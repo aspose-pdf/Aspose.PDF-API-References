@@ -3,7 +3,7 @@ title: Class SaveOptions.BorderInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.SaveOptionsBorderInfo class. Instance of this class represents information about border That can be drown on some result document
 type: docs
-weight: 7590
+weight: 7680
 url: /net/aspose.pdf/saveoptions.borderinfo/
 ---
 ## SaveOptions.BorderInfo class

@@ -25,6 +25,7 @@ public sealed class FileHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
+| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
 | [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Gets or sets the path to file. |
 
 ### See Also
