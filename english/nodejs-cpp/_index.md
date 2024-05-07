@@ -40,6 +40,7 @@ is_root: true
 | [AsposePdfExportFdf](./convert/asposepdfexportfdf/) | Export from a PDF-file with AcroForm to FDF.|
 | [AsposePdfExportXfdf](./convert/asposepdfexportxfdf/) | Export from a PDF-file with AcroForm to XFDF.|
 | [AsposePdfExportXml](./convert/asposepdfexportxml/) | Export from a PDF-file with AcroForm to XML.|
+| [AsposePdfPagesToPDF](./convert/asposepdfpagestopdf/) | Convert a PDF-file to PDF (separate pages). |
 
 
 ## Convert to PDF functions

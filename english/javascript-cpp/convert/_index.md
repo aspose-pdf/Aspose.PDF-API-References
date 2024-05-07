@@ -34,6 +34,7 @@ url: /javascript-cpp/convert/
 | [AsposePdfExportFdf](./asposepdfexportfdf/) | Export from a PDF-file with AcroForm to FDF.|
 | [AsposePdfExportXfdf](./asposepdfexportxfdf/) | Export from a PDF-file with AcroForm to XFDF.|
 | [AsposePdfExportXml](./asposepdfexportxml/) | Export from a PDF-file with AcroForm to XML.|
+| [AsposePdfPagesToPDF](./asposepdfpagestopdf/) | Convert a PDF-file to PDF (separate pages). |
 
 
 ## Detailed Description
