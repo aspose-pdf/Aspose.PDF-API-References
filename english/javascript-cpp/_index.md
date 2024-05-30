@@ -79,6 +79,7 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfReplaceText](./organize/asposepdfreplacetext/) | Replace text in a PDF-file. |
 | [AsposePdfFindText](./organize/asposepdffindtext/) | Find text in a PDF-file. |
 | [AsposePdfReplaceFont](./organize/asposepdfreplacefont/) | Replace font in a PDF-file. |
+| [AsposePdfValidatePDFA](./organize/asposepdfvalidatepdfa/) | Validate PDF/A compatibility a PDF-file. |
 
 
 ## Metadata PDF functions

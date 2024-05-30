@@ -33,6 +33,7 @@ url: /javascript-cpp/organize/
 | [AsposePdfReplaceText](./asposepdfreplacetext/) | Replace text in a PDF-file. |
 | [AsposePdfFindText](./asposepdffindtext/) | Find text in a PDF-file. |
 | [AsposePdfReplaceFont](./asposepdfreplacefont/) | Replace font in a PDF-file. |
+| [AsposePdfValidatePDFA](./asposepdfvalidatepdfa/) | Validate PDF/A compatibility a PDF-file. |
 
 
 ## Detailed Description
