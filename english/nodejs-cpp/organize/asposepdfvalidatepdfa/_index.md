@@ -29,7 +29,8 @@ function AsposePdfValidatePDFA(
   * Module.PdfFormat.PDF_A_3U
 * **fileNameResult** result file name where verification comments will be stored (xml format)
 
-**Return**: 
+**Return**:
+ 
 JSON object 
   * **errorCode** - code error (0 no error)
   * **errorText** - text error ("" no error)

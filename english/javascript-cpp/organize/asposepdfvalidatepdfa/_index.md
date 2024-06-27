@@ -32,6 +32,7 @@ function AsposePdfValidatePDFA(
 * **fileNameResult** result file name where verification comments will be stored (xml format)
 
 **Return**: 
+
 JSON object 
   * **errorCode** - code error (0 no error)
   * **errorText** - text error ("" no error)
@@ -39,6 +40,7 @@ JSON object
 
 
 **Web Worker example**:
+
 ```js
   /*Create Web Worker*/
   const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
@@ -70,7 +72,9 @@ JSON object
       return filename;
     }
 ```
+
 **Simple example**:
+
 ```js
 var ffilePdfValidatePDFA = function (e) {
     const file_reader = new FileReader();
