@@ -3,7 +3,7 @@ title: Class Resolution
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.Resolution class. Represents class for holding image resolution
 type: docs
-weight: 1820
+weight: 2110
 url: /net/aspose.pdf.devices/resolution/
 ---
 ## Resolution class

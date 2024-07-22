@@ -3,7 +3,7 @@ title: MarkdownSaveOptions.LineBreakStyle
 second_title: Aspose.PDF for .NET API Reference
 description: MarkdownSaveOptions property. Gets or sets the line break style for generated document
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.pdf.pdftomarkdown/markdownsaveoptions/linebreakstyle/
 ---
 ## MarkdownSaveOptions.LineBreakStyle property

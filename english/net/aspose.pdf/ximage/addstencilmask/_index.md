@@ -3,7 +3,7 @@ title: XImage.AddStencilMask
 second_title: Aspose.PDF for .NET API Reference
 description: XImage method. Adds a stencil mask to the XImage
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf/ximage/addstencilmask/
 ---
 ## XImage.AddStencilMask method

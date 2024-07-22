@@ -3,7 +3,7 @@ title: MarkdownSaveOptions.HeadingStyle
 second_title: Aspose.PDF for .NET API Reference
 description: MarkdownSaveOptions property. Gets or sets the heading style for generated document
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.pdf.pdftomarkdown/markdownsaveoptions/headingstyle/
 ---
 ## MarkdownSaveOptions.HeadingStyle property

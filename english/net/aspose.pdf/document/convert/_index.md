@@ -1,11 +1,69 @@
 ---
 title: Document.Convert
 second_title: Aspose.PDF for .NET API Reference
-description: Document method. Converts source file in source format into destination file in destination format
+description: Document method. Convert document by applying the Fixup
 type: docs
-weight: 890
+weight: 580
 url: /net/aspose.pdf/document/convert/
 ---
+## Convert(Fixup, Stream, bool, object[]) {#convert}
+
+Convert document by applying the Fixup.
+
+```csharp
+public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
+    object[] parameters = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fixup | Fixup | The Fixup type. |
+| outputLog | Stream | The log of process. |
+| onlyValidation | Boolean | Only document validation. |
+| parameters | Object[] | Properties for Fixup that can not be set. |
+
+### Return Value
+
+The operation result.
+
+### See Also
+
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Convert(Fixup, string, bool, object[]) {#convert_1}
+
+Convert document by applying the Fixup.
+
+```csharp
+public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
+    object[] parameters = null)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fixup | Fixup | The Fixup type. |
+| outputLog | String | The log of process. |
+| onlyValidation | Boolean | Only document validation. |
+| parameters | Object[] | Properties for Fixup that can not be set. |
+
+### Return Value
+
+The operation result.
+
+### See Also
+
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
 
 Converts source file in source format into destination file in destination format.
@@ -299,64 +357,6 @@ The operation result
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Convert(Fixup, Stream, bool, object[]) {#convert}
-
-Convert document by applying the Fixup.
-
-```csharp
-public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
-    object[] parameters = null)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fixup | Fixup | The Fixup type. |
-| outputLog | Stream | The log of process. |
-| onlyValidation | Boolean | Only document validation. |
-| parameters | Object[] | Properties for Fixup that can not be set. |
-
-### Return Value
-
-The operation result.
-
-### See Also
-
-* enum [Fixup](../../fixup/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Convert(Fixup, string, bool, object[]) {#convert_1}
-
-Convert document by applying the Fixup.
-
-```csharp
-public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
-    object[] parameters = null)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fixup | Fixup | The Fixup type. |
-| outputLog | String | The log of process. |
-| onlyValidation | Boolean | Only document validation. |
-| parameters | Object[] | Properties for Fixup that can not be set. |
-
-### Return Value
-
-The operation result.
-
-### See Also
-
-* enum [Fixup](../../fixup/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

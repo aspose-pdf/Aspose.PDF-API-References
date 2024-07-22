@@ -8,7 +8,7 @@ url: /net/aspose.pdf.annotations/annotationactioncollection/onexit/
 ---
 ## AnnotationActionCollection.OnExit property
 
-Gets or sets an action to be performed when the cursor exits the annotation�s active area.
+Gets or sets an action to be performed when the cursor exits the annotation's active area.
 
 ```csharp
 public PdfAction OnExit { get; set; }

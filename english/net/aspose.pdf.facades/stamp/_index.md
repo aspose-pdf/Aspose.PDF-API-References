@@ -3,7 +3,7 @@ title: Class Stamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.Stamp class. Class represeting stamp
 type: docs
-weight: 2810
+weight: 3170
 url: /net/aspose.pdf.facades/stamp/
 ---
 ## Stamp class

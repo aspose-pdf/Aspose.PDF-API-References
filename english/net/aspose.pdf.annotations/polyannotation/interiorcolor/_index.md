@@ -8,7 +8,7 @@ url: /net/aspose.pdf.annotations/polyannotation/interiorcolor/
 ---
 ## PolyAnnotation.InteriorColor property
 
-Gets or sets the interior color with which to fill the annotation�s line endings.
+Gets or sets the interior color with which to fill the annotation's line endings.
 
 ```csharp
 public Color InteriorColor { get; set; }

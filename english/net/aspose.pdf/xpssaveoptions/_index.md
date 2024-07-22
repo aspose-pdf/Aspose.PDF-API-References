@@ -3,7 +3,7 @@ title: Class XpsSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XpsSaveOptions class. Save options for export to Xps format
 type: docs
-weight: 9120
+weight: 8620
 url: /net/aspose.pdf/xpssaveoptions/
 ---
 ## XpsSaveOptions class
@@ -25,6 +25,7 @@ public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
 | Name | Description |
 | --- | --- |
 | [BatchSize](../../aspose.pdf/xpssaveoptions/batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
@@ -35,6 +36,7 @@ public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Process pages in few threads. |
 | [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 
 ## Examples

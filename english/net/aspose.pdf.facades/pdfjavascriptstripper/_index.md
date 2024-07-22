@@ -3,7 +3,7 @@ title: Class PdfJavaScriptStripper
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.PdfJavaScriptStripper class. Class for removing all Java Script code
 type: docs
-weight: 2680
+weight: 3040
 url: /net/aspose.pdf.facades/pdfjavascriptstripper/
 ---
 ## PdfJavaScriptStripper class

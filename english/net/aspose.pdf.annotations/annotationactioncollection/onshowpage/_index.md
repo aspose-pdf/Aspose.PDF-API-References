@@ -8,7 +8,7 @@ url: /net/aspose.pdf.annotations/annotationactioncollection/onshowpage/
 ---
 ## AnnotationActionCollection.OnShowPage property
 
-Gets or sets an action to be performed when the page containing the annotation becomes visible in the viewer application�s user interface.
+Gets or sets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface.
 
 ```csharp
 public PdfAction OnShowPage { get; set; }

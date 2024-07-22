@@ -3,7 +3,7 @@ title: Enum ColorsOfCMYK
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.ColorsOfCMYK enum. Colors included in the CMYK color model
 type: docs
-weight: 270
+weight: 260
 url: /net/aspose.pdf.annotations/colorsofcmyk/
 ---
 ## ColorsOfCMYK enumeration

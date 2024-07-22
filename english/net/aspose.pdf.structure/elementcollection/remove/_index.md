@@ -18,6 +18,10 @@ public bool Remove(Element item)
 | --- | --- | --- |
 | item | Element | Item to remove. |
 
+### Return Value
+
+True if element was removed.
+
 ### See Also
 
 * class [Element](../../element/)

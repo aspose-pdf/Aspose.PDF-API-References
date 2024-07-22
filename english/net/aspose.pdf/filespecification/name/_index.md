@@ -3,7 +3,7 @@ title: FileSpecification.Name
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. Gets or sets file specification name
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf/filespecification/name/
 ---
 ## FileSpecification.Name property

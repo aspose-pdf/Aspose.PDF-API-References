@@ -8,7 +8,7 @@ url: /net/aspose.pdf.annotations/justification/
 ---
 ## Justification enumeration
 
-Enumerates the forms of quadding (justification) to be used in displaying the annotation�s text.
+Enumerates the forms of quadding (justification) to be used in displaying the annotation's text.
 
 ```csharp
 public enum Justification

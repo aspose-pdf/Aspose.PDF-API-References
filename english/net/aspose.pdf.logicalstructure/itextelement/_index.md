@@ -3,7 +3,7 @@ title: Interface ITextElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.ITextElement interface. Interface for presenting text structure elements
 type: docs
-weight: 4360
+weight: 4730
 url: /net/aspose.pdf.logicalstructure/itextelement/
 ---
 ## ITextElement interface

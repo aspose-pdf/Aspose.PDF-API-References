@@ -3,7 +3,7 @@ title: Aspose.Pdf.Annotations
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Annotations namespace provides classes for working with various types of actions destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.pdf.annotations/
 ---
 The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it.
@@ -18,12 +18,14 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [AnnotationCollection](./annotationcollection/) | Class representing annotation collection. |
 | [AnnotationSelector](./annotationselector/) | This class is used for selecting annotations using Visitor template idea. |
 | [AppearanceDictionary](./appearancedictionary/) | Annotation appearance dictionary specifying how the annotation shall be presented visually on the page. |
+| [BleedMarkAnnotation](./bleedmarkannotation/) | Represents a Bleed Mark annotation. |
 | [Border](./border/) | Class representing characteristics of annotation border. |
 | [CaretAnnotation](./caretannotation/) | Class representing Caret annotation. |
 | [Characteristics](./characteristics/) | Represents annotation characteristics |
 | [CircleAnnotation](./circleannotation/) | Class representing Circle annotation. |
 | [ColorBarAnnotation](./colorbarannotation/) | Class representing ColorBarAnnotation annotation. Property Color ignored, instead used ColorsOfCMYK color. On creation, the ratio of width and height determines the orientation of the annotation - horizontal or vertical. Next, it checks that the annotation rectangle is outside the TrimBox, and if not, then it is shifted to the nearest location outside the TrimBox, taking into account the orientation of the annotation. It is possible to reduce the width (height) so that the annotation fits outside the TrimBox. If there is no space for the layout, the width/height can be set to zero (in this case, the annotation is present on the page, but not displayed). |
 | [CommonFigureAnnotation](./commonfigureannotation/) | Abstract class representing common figure annotation. |
+| [CornerPrinterMarkAnnotation](./cornerprintermarkannotation/) | Represents annotation types that are placed in the corners of the printed page. |
 | [CustomExplicitDestination](./customexplicitdestination/) | Represents custom explicit destination. |
 | [Dash](./dash/) | Class representing line dash pattern. |
 | [DefaultAppearance](./defaultappearance/) | Describes default appearance of field (font, text size and color). |
@@ -45,7 +47,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [GoToURIAction](./gotouriaction/) | Represents a URI action causes a URI to be resolved. |
 | [HideAction](./hideaction/) | Represents a hide action that hides or shows one or more annotations on the screen by setting or clearing their Hidden flags. |
 | [HighlightAnnotation](./highlightannotation/) | Represents a highlight annotation that highlights a range of text in the document. |
-| [ImportDataAction](./importdataaction/) | Upon invocation of an import-data action, Forms Data Format (FDF) data shall be imported into the document’s interactive form from a specified file. |
+| [ImportDataAction](./importdataaction/) | Upon invocation of an import-data action, Forms Data Format (FDF) data shall be imported into the document's interactive form from a specified file. |
 | [InkAnnotation](./inkannotation/) | Represents a freehand "scribble" composed of one or more disjoint paths. |
 | [JavascriptAction](./javascriptaction/) | Class representing javascript action. |
 | [LaunchAction](./launchaction/) | Represents a launch action that launches an application or opens or prints a document. |
@@ -60,6 +62,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [MovieAnnotation](./movieannotation/) | Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen and through the speakers. When the annotation is activated, the movie is played. |
 | [NamedAction](./namedaction/) | Represents named actions that PDF viewer applications are expected to support. |
 | [NamedDestination](./nameddestination/) | Instead of being defined directly with the explicit syntax, a destination may be referred to indirectly by means of a name object or a byte string. |
+| [PageInformationAnnotation](./pageinformationannotation/) | Represents a Page Information annotation in a PDF document. This annotation contains the file name, page number, and the date and time of the annotation creation. |
 | [PDF3DAnnotation](./pdf3dannotation/) | Class PDF3DAnnotation. This class cannot be inherited. |
 | [PDF3DArtwork](./pdf3dartwork/) | Class PDF3DArtwork. |
 | [PDF3DContent](./pdf3dcontent/) | Class PDF3DContent. |
@@ -78,13 +81,15 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [PolylineAnnotation](./polylineannotation/) | Represents polyline annotation that is similar to polygon, except that the first and last vertex are not implicitly connected. |
 | [PopupAnnotation](./popupannotation/) | Represents the pop-up annotation that displays text in a pop-up window for entry and editing. |
 | [PrinterMarkAnnotation](./printermarkannotation/) | Abstract class representing printer mark annotation. |
+| [PrinterMarksKindExtensions](./printermarkskindextensions/) | Provides extension methods for the [`PrinterMarksKind`](../aspose.pdf.annotations/printermarkskind/) enumeration. |
 | [RedactionAnnotation](./redactionannotation/) | Represents Redact annotation. |
+| [RegistrationMarkAnnotation](./registrationmarkannotation/) | Represents a Registration Mark annotation. |
 | [Rendition](./rendition/) | Class which describes rendition object of RendtionAnnotation. |
 | [RenditionAction](./renditionaction/) | A rendition action that controls the playing of multimedia content. |
 | [RichMediaAnnotation](./richmediaannotation/) | Class describes RichMediaAnnotation which allows embed video/audio data into PDF document. |
 | [ScreenAnnotation](./screenannotation/) | A screen annotation that specifies a region of a page upon which media clips may be played. |
 | [SelectorRendition](./selectorrendition/) | Class describes selector rendition. |
-| [SoundAnnotation](./soundannotation/) | Represents a sound annotation that contains sound recorded from the computer�s microphone or imported from a file. |
+| [SoundAnnotation](./soundannotation/) | Represents a sound annotation that contains sound recorded from the computer's microphone or imported from a file. |
 | [SoundData](./sounddata/) | Represents a sound data defining the sound to be played when the annotation is activated. |
 | [SoundSampleData](./soundsampledata/) | Represents additional entries specific to a sound object (Section 9.2 PDF1-7) |
 | [SquareAnnotation](./squareannotation/) | Class representing square annotation. |
@@ -92,9 +97,10 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [StampAnnotation](./stampannotation/) | Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp. |
 | [StrikeOutAnnotation](./strikeoutannotation/) | Represents a strikeout annotation that appears as a strikeout in the text of the document. |
 | [SubmitFormAction](./submitformaction/) | Class which describes submit-form action. |
-| [TextAnnotation](./textannotation/) | Represents a text annotation that is a �sticky note� attached to a point in the PDF document. |
+| [TextAnnotation](./textannotation/) | Represents a text annotation that is a 'sticky note' attached to a point in the PDF document. |
 | [TextMarkupAnnotation](./textmarkupannotation/) | Abstract base class for text markup annotations. |
 | [TextStyle](./textstyle/) | Class represents style of text in annotation |
+| [TrimMarkAnnotation](./trimmarkannotation/) | Represents a Trim Mark annotation. |
 | [UnderlineAnnotation](./underlineannotation/) | Represents an underline annotation that appears as an underline in the text of the document. |
 | [WatermarkAnnotation](./watermarkannotation/) | Class describes Watermark annotation object. |
 | [WidgetAnnotation](./widgetannotation/) | Class representing widget annotation. |
@@ -117,14 +123,14 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [BorderEffect](./bordereffect/) | Describes effect which should be applied to the border of the annotations. |
 | [BorderStyle](./borderstyle/) | Describes style of the annotation border. |
 | [CapStyle](./capstyle/) | Style of line ending of Ink annotation line. |
-| [CaptionPosition](./captionposition/) | Enumeration of the annotation�s caption positioning. |
+| [CaptionPosition](./captionposition/) | Enumeration of the annotation's caption positioning. |
 | [CaretSymbol](./caretsymbol/) | A symbol to be associated with the caret. |
 | [ColorsOfCMYK](./colorsofcmyk/) | Colors included in the CMYK color model. |
 | [ExplicitDestinationType](./explicitdestinationtype/) | Enumerates the types of explicit destinations. |
 | [FileIcon](./fileicon/) | An icon to be used in displaying the annotation. |
 | [FreeTextIntent](./freetextintent/) | Enumerates the intents of the free text annotation. |
-| [HighlightingMode](./highlightingmode/) | Enumerates the annotation�s highlighting mode, the visual effect to be used when the mouse button is pressed or held down inside its active area. |
-| [Justification](./justification/) | Enumerates the forms of quadding (justification) to be used in displaying the annotation�s text. |
+| [HighlightingMode](./highlightingmode/) | Enumerates the annotation's highlighting mode, the visual effect to be used when the mouse button is pressed or held down inside its active area. |
+| [Justification](./justification/) | Enumerates the forms of quadding (justification) to be used in displaying the annotation's text. |
 | [LaunchActionOperation](./launchactionoperation/) | Enumerates the operations to perform with document during launch action executing. |
 | [LightingSchemeType](./lightingschemetype/) | Enum LightingSchemeType: set of lighting scheme types. |
 | [LineEnding](./lineending/) | Enumerates the line ending styles to be used in drawing the line. |
@@ -132,10 +138,13 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [PDF3DActivation](./pdf3dactivation/) | Enum PDF3DActivation: set of 3D annotation activation mode. |
 | [PolyIntent](./polyintent/) | Enumerates the intents of the polygon or polyline annotation. |
 | [PredefinedAction](./predefinedaction/) | Defines different actions which can be triggered from a PDF file. |
+| [PrinterMarkCornerPosition](./printermarkcornerposition/) | Represents a position of a mark in a corner of a page. |
+| [PrinterMarkSidePosition](./printermarksideposition/) | Represents a position of a registration mark on a page. |
+| [PrinterMarksKind](./printermarkskind/) | Specifies the types of printer's marks to be added to a document. |
 | [RenderModeType](./rendermodetype/) | Enum RenderModeType: set of render mode types |
 | [RenditionOperation](./renditionoperation/) | The operation to perform when the action is triggered. |
 | [RenditionType](./renditiontype/) | Enumeration describes possible types of Rendition. |
-| [ReplyType](./replytype/) | Enumerates the kinds of the relationships (the “reply type”) between the annotation and one specified by InReplyTo. |
+| [ReplyType](./replytype/) | Enumerates the kinds of the relationships (the "reply type") between the annotation and one specified by InReplyTo. |
 | [SoundEncoding](./soundencoding/) | The encoding format for the sample data. |
 | [SoundIcon](./soundicon/) | Enumerates the icons to be used in displaying the annotation. |
 | [SoundSampleDataEncodingFormat](./soundsampledataencodingformat/) | The encoding format for the sound sample data. |

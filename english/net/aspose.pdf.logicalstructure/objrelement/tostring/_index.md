@@ -3,7 +3,7 @@ title: OBJRElement.ToString
 second_title: Aspose.PDF for .NET API Reference
 description: OBJRElement method. Returns a string that represents the current object
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.pdf.logicalstructure/objrelement/tostring/
 ---
 ## OBJRElement.ToString method

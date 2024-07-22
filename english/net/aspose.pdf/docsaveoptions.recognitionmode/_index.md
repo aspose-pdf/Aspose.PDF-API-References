@@ -3,7 +3,7 @@ title: Enum DocSaveOptions.RecognitionMode
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.DocSaveOptionsRecognitionMode enum. Allows to control how a PDF document is converted into a word processing document
 type: docs
-weight: 1930
+weight: 2220
 url: /net/aspose.pdf/docsaveoptions.recognitionmode/
 ---
 ## DocSaveOptions.RecognitionMode enumeration

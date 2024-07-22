@@ -3,7 +3,7 @@ title: ImageStamp.Width
 second_title: Aspose.PDF for .NET API Reference
 description: ImageStamp property. Gets or sets image width. Setting this property allos to scal image horizontally
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/imagestamp/width/
 ---
 ## ImageStamp.Width property

@@ -3,7 +3,7 @@ title: Enum AnnotationType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.AnnotationType enum. Enumeration of annotation types
 type: docs
-weight: 150
+weight: 130
 url: /net/aspose.pdf.annotations/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -47,6 +47,10 @@ public enum AnnotationType
 | Unknown | `26` | Unknown annotation. |
 | PDF3D | `27` | 3D annotation. |
 | ColorBar | `28` | ColorBar annotation. |
+| TrimMark | `29` | Trim mark annotation. |
+| BleedMark | `30` | Bleed mark annotation. |
+| RegistrationMark | `31` | Registration mark annotation. |
+| PageInformation | `32` | Page information annotation. |
 
 ### See Also
 

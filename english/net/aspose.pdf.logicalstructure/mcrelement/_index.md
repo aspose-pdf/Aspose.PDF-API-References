@@ -3,7 +3,7 @@ title: Class MCRElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.MCRElement class. Represents markedcontent reference object in logical structure
 type: docs
-weight: 4450
+weight: 4820
 url: /net/aspose.pdf.logicalstructure/mcrelement/
 ---
 ## MCRElement class
@@ -29,7 +29,15 @@ public sealed class MCRElement : Element
 | Name | Description |
 | --- | --- |
 | [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element) | Append Element to collection of children. |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
 | [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Find Elements of a given type |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int) | Insert Element to collection of children at specified index. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_2)(Annotation) | Bind a structure element to the Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag)(Artifact) | Bind a structure element to the Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_1)(BDC) | Bind a structure element to the content stream BDC operator. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_3)(XForm) | Bind a structure element to the content stream XForm. |
+| override [Tag](../../aspose.pdf.logicalstructure/mcrelement/tag/#tag_4)(XImage) | Bind a structure element to the XImage. |
 | override [ToString](../../aspose.pdf.logicalstructure/mcrelement/tostring/)() | Returns a string that represents the current object. |
 
 ### See Also

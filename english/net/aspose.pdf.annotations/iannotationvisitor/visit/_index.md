@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
-## Visit(LinkAnnotation) {#visit_7}
+## Visit(LinkAnnotation) {#visit_8}
 
 Visit/select link annotation.
 
@@ -27,7 +27,7 @@ public void Visit(LinkAnnotation link)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_2}
+## Visit(FileAttachmentAnnotation) {#visit_3}
 
 Visit/select attachment annotation.
 
@@ -48,7 +48,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ---
 
-## Visit(TextAnnotation) {#visit_17}
+## Visit(TextAnnotation) {#visit_20}
 
 Visit/select text annotation.
 
@@ -69,7 +69,7 @@ public void Visit(TextAnnotation text)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_3}
+## Visit(FreeTextAnnotation) {#visit_4}
 
 Visit/select freetext annotation.
 
@@ -90,7 +90,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_4}
+## Visit(HighlightAnnotation) {#visit_5}
 
 Visit/select highlight annotation.
 
@@ -111,7 +111,7 @@ public void Visit(HighlightAnnotation highlight)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_18}
+## Visit(UnderlineAnnotation) {#visit_22}
 
 Visit/select underline annotation.
 
@@ -132,7 +132,7 @@ public void Visit(UnderlineAnnotation underline)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_16}
+## Visit(StrikeOutAnnotation) {#visit_19}
 
 Visit/select strikeOut annotation.
 
@@ -153,7 +153,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_14}
+## Visit(SquigglyAnnotation) {#visit_17}
 
 Visit/select squiggly annotation.
 
@@ -174,7 +174,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_11}
+## Visit(PopupAnnotation) {#visit_13}
 
 Visit/select popup annotation.
 
@@ -195,7 +195,7 @@ public void Visit(PopupAnnotation popup)
 
 ---
 
-## Visit(LineAnnotation) {#visit_6}
+## Visit(LineAnnotation) {#visit_7}
 
 Visit/select line annotation.
 
@@ -216,7 +216,7 @@ public void Visit(LineAnnotation line)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
 Visit/select circle annotation.
 
@@ -237,7 +237,7 @@ public void Visit(CircleAnnotation circle)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_13}
+## Visit(SquareAnnotation) {#visit_16}
 
 Visit/select square annotation.
 
@@ -258,7 +258,7 @@ public void Visit(SquareAnnotation square)
 
 ---
 
-## Visit(InkAnnotation) {#visit_5}
+## Visit(InkAnnotation) {#visit_6}
 
 Visit/select ink annotation.
 
@@ -279,7 +279,7 @@ public void Visit(InkAnnotation ink)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_10}
+## Visit(PolylineAnnotation) {#visit_12}
 
 Visit/select polyline annotation.
 
@@ -300,7 +300,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_9}
+## Visit(PolygonAnnotation) {#visit_11}
 
 Visit/select polygon annotation.
 
@@ -321,7 +321,7 @@ public void Visit(PolygonAnnotation polygon)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
 Visit/select caret annotation.
 
@@ -342,7 +342,7 @@ public void Visit(CaretAnnotation caret)
 
 ---
 
-## Visit(StampAnnotation) {#visit_15}
+## Visit(StampAnnotation) {#visit_18}
 
 Visit/select stamp annotation.
 
@@ -363,7 +363,7 @@ public void Visit(StampAnnotation stamp)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_19}
+## Visit(WidgetAnnotation) {#visit_23}
 
 Visit/select widget annotation.
 
@@ -384,7 +384,7 @@ public void Visit(WidgetAnnotation widget)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_8}
+## Visit(MovieAnnotation) {#visit_9}
 
 Visit/select movie annotation.
 
@@ -405,7 +405,7 @@ public void Visit(MovieAnnotation movie)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_12}
+## Visit(ScreenAnnotation) {#visit_15}
 
 Visit/select screen annotation.
 
@@ -420,6 +420,90 @@ public void Visit(ScreenAnnotation screen)
 ### See Also
 
 * class [ScreenAnnotation](../../screenannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(TrimMarkAnnotation) {#visit_21}
+
+Visit/select a trim mark annotation.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | The [`TrimMarkAnnotation`](../../trimmarkannotation/) object example/template. |
+
+### See Also
+
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Visit/select a bleed mark annotation.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | The [`BleedMarkAnnotation`](../../bleedmarkannotation/) object example/template. |
+
+### See Also
+
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_14}
+
+Visit/select a registration mark annotation.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | The [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) object example/template. |
+
+### See Also
+
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* interface [IAnnotationVisitor](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_10}
+
+Visit/select a page information annotation.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | The [`PageInformationAnnotation`](../../pageinformationannotation/) object example/template. |
+
+### See Also
+
+* class [PageInformationAnnotation](../../pageinformationannotation/)
 * interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

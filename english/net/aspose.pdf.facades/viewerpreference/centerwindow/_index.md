@@ -8,7 +8,7 @@ url: /net/aspose.pdf.facades/viewerpreference/centerwindow/
 ---
 ## ViewerPreference.CenterWindow field
 
-A flag specifying whether to position the document�s window in the center of the screen.
+A flag specifying whether to position the document's window in the center of the screen.
 
 ```csharp
 public const int CenterWindow;

@@ -3,7 +3,7 @@ title: Class ViewerPreference
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.ViewerPreference class. Describes viewer prefereces page mode non full screen page mode page layout
 type: docs
-weight: 2860
+weight: 3220
 url: /net/aspose.pdf.facades/viewerpreference/
 ---
 ## ViewerPreference class
@@ -24,16 +24,16 @@ public sealed class ViewerPreference
 
 | Name | Description |
 | --- | --- |
-| const [CenterWindow](../../aspose.pdf.facades/viewerpreference/centerwindow/) | A flag specifying whether to position the document�s window in the center of the screen. |
+| const [CenterWindow](../../aspose.pdf.facades/viewerpreference/centerwindow/) | A flag specifying whether to position the document's window in the center of the screen. |
 | const [DirectionL2R](../../aspose.pdf.facades/viewerpreference/directionl2r/) | Text reading order left to right. |
 | const [DirectionR2L](../../aspose.pdf.facades/viewerpreference/directionr2l/) | Text reading order right to left. |
-| const [DisplayDocTitle](../../aspose.pdf.facades/viewerpreference/displaydoctitle/) | A flag specifying whether the window�s title bar should display the document title |
+| const [DisplayDocTitle](../../aspose.pdf.facades/viewerpreference/displaydoctitle/) | A flag specifying whether the window's title bar should display the document title |
 | const [DuplexFlipLongEdge](../../aspose.pdf.facades/viewerpreference/duplexfliplongedge/) | Duplex and flip on the short edge of the sheet. |
 | const [DuplexFlipShortEdge](../../aspose.pdf.facades/viewerpreference/duplexflipshortedge/) | Duplex and flip on the short edge of the sheet. |
-| const [FitWindow](../../aspose.pdf.facades/viewerpreference/fitwindow/) | A flag specifying whether to resize the document�s window to fit the size of the first displayed page. |
-| const [HideMenubar](../../aspose.pdf.facades/viewerpreference/hidemenubar/) | A flag specifying whether to hide the conforming reader�s menu bar when the document is active. |
-| const [HideToolbar](../../aspose.pdf.facades/viewerpreference/hidetoolbar/) | A flag specifying whether to hide the conforming reader�s tool bars when the document is active. |
-| const [HideWindowUI](../../aspose.pdf.facades/viewerpreference/hidewindowui/) | A flag specifying whether to hide user interface elements in the document�s window (such as scroll bars and navigation controls), leaving only the document�s contents displayed. |
+| const [FitWindow](../../aspose.pdf.facades/viewerpreference/fitwindow/) | A flag specifying whether to resize the document's window to fit the size of the first displayed page. |
+| const [HideMenubar](../../aspose.pdf.facades/viewerpreference/hidemenubar/) | A flag specifying whether to hide the conforming reader's menu bar when the document is active. |
+| const [HideToolbar](../../aspose.pdf.facades/viewerpreference/hidetoolbar/) | A flag specifying whether to hide the conforming reader's tool bars when the document is active. |
+| const [HideWindowUI](../../aspose.pdf.facades/viewerpreference/hidewindowui/) | A flag specifying whether to hide user interface elements in the document's window (such as scroll bars and navigation controls), leaving only the document's contents displayed. |
 | const [NonFullScreenPageModeUseNone](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/) | Neither document outline nor thumbnail images visible. |
 | const [NonFullScreenPageModeUseOC](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/) | Optional content group panel visible. |
 | const [NonFullScreenPageModeUseOutlines](../../aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/) | Document outline visible. |

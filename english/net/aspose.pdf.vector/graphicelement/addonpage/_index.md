@@ -3,7 +3,7 @@ title: GraphicElement.AddOnPage
 second_title: Aspose.PDF for .NET API Reference
 description: GraphicElement method. Adds current element on the page. If there are many elements to add better use AddGraphics
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.pdf.vector/graphicelement/addonpage/
 ---
 ## GraphicElement.AddOnPage method

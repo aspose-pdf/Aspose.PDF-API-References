@@ -3,7 +3,7 @@ title: StructureElement.StructureType
 second_title: Aspose.PDF for .NET API Reference
 description: StructureElement property. Gets type of structure element
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
 ## StructureElement.StructureType property

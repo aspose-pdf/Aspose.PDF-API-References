@@ -3,7 +3,7 @@ title: Rectangle.ToString
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Gets rectangle string representation
 type: docs
-weight: 260
+weight: 280
 url: /net/aspose.pdf/rectangle/tostring/
 ---
 ## Rectangle.ToString method

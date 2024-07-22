@@ -3,7 +3,7 @@ title: Class BDC
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.BDC class. class representing BDC operator Begin markedcontent sequence
 type: docs
-weight: 5030
+weight: 5400
 url: /net/aspose.pdf.operators/bdc/
 ---
 ## BDC class
@@ -18,13 +18,15 @@ public class BDC : Operator
 
 | Name | Description |
 | --- | --- |
-| [BDC](bdc/)(string) | Initializes operator. |
+| [BDC](bdc/#constructor)(string) | Initializes operator. |
+| [BDC](bdc/#constructor_1)(string, BDCProperties) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| [Properties](../../aspose.pdf.operators/bdc/properties/) { get; } |  |
 | [Tag](../../aspose.pdf.operators/bdc/tag/) { get; set; } | Gets or sets marked content tag |
 
 ## Methods

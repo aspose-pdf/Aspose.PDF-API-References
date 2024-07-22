@@ -3,7 +3,7 @@ title: Class XImage
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XImage class. Class representing image XObject
 type: docs
-weight: 8950
+weight: 8450
 url: /net/aspose.pdf/ximage/
 ---
 ## XImage class
@@ -22,6 +22,7 @@ public sealed class XImage
 | [FilterType](../../aspose.pdf/ximage/filtertype/) { get; } | Gets image filter type. |
 | [Grayscaled](../../aspose.pdf/ximage/grayscaled/) { get; } | Gets grayscaled version of image. |
 | [Height](../../aspose.pdf/ximage/height/) { get; } | Gets height of the image. |
+| [ImageMask](../../aspose.pdf/ximage/imagemask/) { get; } | Gets a flag indicating whether the image shall be treated as an image mask (see 8.9.6, "Masked Images"). If this flag is true, the value of BitsPerComponent shall be 1 and Mask and ColorSpace shall not be specified; unmasked areas shall bepainted using the current nonstroking colour. Default value: false. |
 | [Metadata](../../aspose.pdf/ximage/metadata/) { get; } | Metadata of the image. |
 | [Name](../../aspose.pdf/ximage/name/) { get; set; } | Gets or sets image name. Please note that if you change name of the image which has references in page contents, document may became incorrect. Please use XImage.Rename method in this case. |
 | [Width](../../aspose.pdf/ximage/width/) { get; } | Gets width of the image. |

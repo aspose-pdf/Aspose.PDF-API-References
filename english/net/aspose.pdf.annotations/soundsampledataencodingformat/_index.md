@@ -3,7 +3,7 @@ title: Enum SoundSampleDataEncodingFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SoundSampleDataEncodingFormat enum. The encoding format for the sound sample data
 type: docs
-weight: 1170
+weight: 1230
 url: /net/aspose.pdf.annotations/soundsampledataencodingformat/
 ---
 ## SoundSampleDataEncodingFormat enumeration
@@ -18,10 +18,10 @@ public enum SoundSampleDataEncodingFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Raw | `0` | Unspecified or unsigned values in the range 0 to 2B − 1. |
+| Raw | `0` | Unspecified or unsigned values in the range 0 to 2B - 1. |
 | Signed | `1` | Twos-complement values. |
-| muLaw | `2` | μ-law–encoded samples. |
-| ALaw | `3` | A-law–encoded samples. |
+| muLaw | `2` | Mu-law-encoded samples. |
+| ALaw | `3` | A-law-encoded samples. |
 
 ### See Also
 

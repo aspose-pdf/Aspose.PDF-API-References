@@ -3,7 +3,7 @@ title: Enum HtmlPageLayoutOption
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlPageLayoutOption enum. Specifies flags that together other options determine sizes and layouts of pages
 type: docs
-weight: 3530
+weight: 3900
 url: /net/aspose.pdf/htmlpagelayoutoption/
 ---
 ## HtmlPageLayoutOption enumeration

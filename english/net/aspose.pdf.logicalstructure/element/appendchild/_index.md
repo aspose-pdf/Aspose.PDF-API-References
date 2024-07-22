@@ -22,6 +22,12 @@ public Element AppendChild(Element element)
 
 Element which has been added.
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
+
 ### See Also
 
 * class [Element](../)

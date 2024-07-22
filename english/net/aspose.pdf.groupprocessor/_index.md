@@ -3,7 +3,7 @@ title: Aspose.Pdf.GroupProcessor
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.GroupProcessor namespace provides classes used to work text and fonts
 type: docs
-weight: 100
+weight: 140
 url: /net/aspose.pdf.groupprocessor/
 ---
 The **Aspose.Pdf.GroupProcessor** namespace provides classes used to work text and fonts.

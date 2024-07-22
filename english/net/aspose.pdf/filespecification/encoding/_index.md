@@ -3,7 +3,7 @@ title: FileSpecification.Encoding
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. Gets or sets encoding format. Possible values Zip  file is compressed with ZIP None  file is not compressed
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/filespecification/encoding/
 ---
 ## FileSpecification.Encoding property

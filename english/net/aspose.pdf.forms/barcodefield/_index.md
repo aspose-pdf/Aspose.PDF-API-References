@@ -3,7 +3,7 @@ title: Class BarcodeField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.BarcodeField class. Class represents barcode field
 type: docs
-weight: 2990
+weight: 3360
 url: /net/aspose.pdf.forms/barcodefield/
 ---
 ## BarcodeField class
@@ -38,7 +38,7 @@ public sealed class BarcodeField : TextBoxField
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
 | [Count](../../aspose.pdf.forms/field/count/) { get; } | Gets number of subfields in this field. (For example number of items in radio button field). |
 | [DefaultAppearance](../../aspose.pdf.annotations/widgetannotation/defaultappearance/) { get; set; } | Gets or sets default appearance of the field. |
-| [ECC](../../aspose.pdf.forms/barcodefield/ecc/) { get; } | Gets an integer value representing the error correction coefficient. For PDF417, shall be from 0 to 8. For QRCode, shall be from 0 to 3 (0 for �L�, 1 for �M�, 2 for �Q�, and 3 for �H�). |
+| [ECC](../../aspose.pdf.forms/barcodefield/ecc/) { get; } | Gets an integer value representing the error correction coefficient. For PDF417, shall be from 0 to 8. For QRCode, shall be from 0 to 3 (0 for 'L', 1 for 'M', 2 for 'Q', and 3 for 'H'). |
 | [Exportable](../../aspose.pdf.annotations/widgetannotation/exportable/) { get; set; } | Gets or sets exportable flag of the field. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |
 | [ForceCombs](../../aspose.pdf.forms/textboxfield/forcecombs/) { get; set; } | Gets or sets flag which indicates is field divided into spaced positions. |

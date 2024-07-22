@@ -3,7 +3,7 @@ title: Class PageSettingsExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.Extensions.PageSettingsExtensions class. Represents extensions methods for PageSettings
 type: docs
-weight: 7360
+weight: 6820
 url: /net/aspose.pdf.printing.extensions/pagesettingsextensions/
 ---
 ## PageSettingsExtensions class

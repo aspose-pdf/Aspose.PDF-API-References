@@ -3,7 +3,7 @@ title: Matrix.D
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix property. D member of the transformation matrix
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf/matrix/d/
 ---
 ## Matrix.D property

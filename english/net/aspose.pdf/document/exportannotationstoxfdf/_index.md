@@ -3,7 +3,7 @@ title: Document.ExportAnnotationsToXfdf
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Exports all document annotations to XFDF file
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}

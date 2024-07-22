@@ -3,7 +3,7 @@ title: Class EncryptedPayload
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.EncryptedPayload class. Represents encrypted payload in file specification
 type: docs
-weight: 2170
+weight: 2480
 url: /net/aspose.pdf/encryptedpayload/
 ---
 ## EncryptedPayload class

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.pdf.operators/bdc/bdc/
 ---
-## BDC constructor
+## BDC(string) {#constructor}
 
 Initializes operator.
 
@@ -20,6 +20,21 @@ public BDC(string tag)
 
 ### See Also
 
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BDC(string, BDCProperties) {#constructor_1}
+
+```csharp
+public BDC(string tag, BDCProperties properties)
+```
+
+### See Also
+
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
 * class [BDC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

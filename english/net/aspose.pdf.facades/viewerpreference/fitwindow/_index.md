@@ -8,7 +8,7 @@ url: /net/aspose.pdf.facades/viewerpreference/fitwindow/
 ---
 ## ViewerPreference.FitWindow field
 
-A flag specifying whether to resize the document�s window to fit the size of the first displayed page.
+A flag specifying whether to resize the document's window to fit the size of the first displayed page.
 
 ```csharp
 public const int FitWindow;

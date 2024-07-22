@@ -29,7 +29,7 @@ public sealed class MovieAnnotation : Annotation
 | virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate/) { get; set; } | Gets or sets current annotation appearance state. |
 | override [AnnotationType](../../aspose.pdf.annotations/movieannotation/annotationtype/) { get; } | Gets type of annotation. |
 | [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Gets appearance dictionary of the annotation. |
-| [Aspect](../../aspose.pdf.annotations/movieannotation/aspect/) { get; set; } | Gets or sets the width and height of the movie�s bounding box, in pixels. |
+| [Aspect](../../aspose.pdf.annotations/movieannotation/aspect/) { get; set; } | Gets or sets the width and height of the movie's bounding box, in pixels. |
 | [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Gets or sets annotation border characteristics. [`Border`](../annotation/border/) |
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |

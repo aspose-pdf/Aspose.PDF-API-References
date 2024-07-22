@@ -3,7 +3,7 @@ title: Document.Flatten
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Removes all fields from the document and place their values instead
 type: docs
-weight: 630
+weight: 640
 url: /net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}

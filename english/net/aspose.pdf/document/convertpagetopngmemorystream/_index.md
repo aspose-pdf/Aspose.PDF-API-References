@@ -3,7 +3,7 @@ title: Document.ConvertPageToPNGMemoryStream
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Convert page to PNG for DSR OMR OCR image stream
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.pdf/document/convertpagetopngmemorystream/
 ---
 ## Document.ConvertPageToPNGMemoryStream method

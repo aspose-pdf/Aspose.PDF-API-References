@@ -3,7 +3,7 @@ title: Rectangle.Rotate
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Rotate rectangle by the specified angle
 type: docs
-weight: 230
+weight: 250
 url: /net/aspose.pdf/rectangle/rotate/
 ---
 ## Rotate(Rotation) {#rotate}

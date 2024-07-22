@@ -8,7 +8,7 @@ url: /net/aspose.pdf.facades/viewerpreference/displaydoctitle/
 ---
 ## ViewerPreference.DisplayDocTitle field
 
-A flag specifying whether the window�s title bar should display the document title
+A flag specifying whether the window's title bar should display the document title
 
 ```csharp
 public const int DisplayDocTitle;

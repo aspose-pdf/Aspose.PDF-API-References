@@ -3,7 +3,7 @@ title: Class Matrix
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Matrix class. Class represents transformation matrix
 type: docs
-weight: 4860
+weight: 5230
 url: /net/aspose.pdf/matrix/
 ---
 ## Matrix class
@@ -43,7 +43,9 @@ public sealed class Matrix
 | --- | --- |
 | static [Rotation](../../aspose.pdf/matrix/rotation/#rotation_1)(double) | Creates matrix for given rotation angle. |
 | static [Rotation](../../aspose.pdf/matrix/rotation/#rotation)(Rotation) | Creates matrix for given rotation. |
+| static [Scale](../../aspose.pdf/matrix/scale/)(double, double, Matrix) | Applies scaling to the given matrix. |
 | static [Skew](../../aspose.pdf/matrix/skew/)(double, double) | Creates matrix for given rotation angle. |
+| static [Translate](../../aspose.pdf/matrix/translate/)(double, double, Matrix) | Translates a matrix by the specified amount in the x and y direction. |
 | [Add](../../aspose.pdf/matrix/add/)(Matrix) | Adds matrix to other matrix. |
 | override [Equals](../../aspose.pdf/matrix/equals/)(object) | Compares matrix agains other object. |
 | override [GetHashCode](../../aspose.pdf/matrix/gethashcode/)() | Hash-code for object. |

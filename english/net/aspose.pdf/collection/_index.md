@@ -3,7 +3,7 @@ title: Class Collection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Collection class. Represents class for Collection12.3.5 Collections
 type: docs
-weight: 1530
+weight: 1600
 url: /net/aspose.pdf/collection/
 ---
 ## Collection class
@@ -29,6 +29,7 @@ public class Collection : EmbeddedFileCollection
 | [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized/) { get; } | Gets a value indicating whether access to this collection is synchronized (thread safe). |
 | [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | Gets embedded file by its index. (2 indexers) |
 | [Keys](../../aspose.pdf/embeddedfilecollection/keys/) { get; } | Returns list of file attachment keys. |
+| [Schema](../../aspose.pdf/collection/schema/) { get; } | Gets a "Schema" of a document collection. |
 | [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot/) { get; } | Gets an object that can be used to synchronize access to this collection. |
 
 ## Methods
@@ -43,6 +44,7 @@ public class Collection : EmbeddedFileCollection
 | [DeleteByKey](../../aspose.pdf/embeddedfilecollection/deletebykey/)(string) | Deletes file from the collection by its key in the collection. |
 | [FindByName](../../aspose.pdf/embeddedfilecollection/findbyname/)(string) | Returns embedded file by its name. |
 | [GetEnumerator](../../aspose.pdf/embeddedfilecollection/getenumerator/)() | Returns colleciton enumerator. |
+| [GetSortedCollection](../../aspose.pdf/collection/getsortedcollection/)() | Gets a collection of files sorted according to the specification. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Element.ToString
 second_title: Aspose.PDF for .NET API Reference
 description: Element method. Returns a string that represents the current object
 type: docs
-weight: 50
+weight: 90
 url: /net/aspose.pdf.logicalstructure/element/tostring/
 ---
 ## Element.ToString method

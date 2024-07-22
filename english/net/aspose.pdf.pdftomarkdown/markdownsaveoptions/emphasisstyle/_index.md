@@ -3,7 +3,7 @@ title: MarkdownSaveOptions.EmphasisStyle
 second_title: Aspose.PDF for .NET API Reference
 description: MarkdownSaveOptions property. Gets or sets the style of emphasis for generated document
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf.pdftomarkdown/markdownsaveoptions/emphasisstyle/
 ---
 ## MarkdownSaveOptions.EmphasisStyle property

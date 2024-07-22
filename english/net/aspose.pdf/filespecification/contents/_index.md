@@ -3,7 +3,7 @@ title: FileSpecification.Contents
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. Gets or sets contents file. This property returns data loaded in memory which may cause Out of memory exception for large data. To decrease memory usage please use StreamContents
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf/filespecification/contents/
 ---
 ## FileSpecification.Contents property

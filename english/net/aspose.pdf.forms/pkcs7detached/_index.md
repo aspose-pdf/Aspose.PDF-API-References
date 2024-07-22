@@ -3,7 +3,7 @@ title: Class PKCS7Detached
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.PKCS7Detached class. Represents the PKCS7 object that conform to the PKCS7 specification in Internet RFC 2315 PKCS 7 Cryptographic Message Syntax Version 1.5. The original signed message digest over the documents byte range is incorporated as the normal PKCS7 SignedData field. No data shall is encapsulated in the PKCS7 SignedData field
 type: docs
-weight: 3230
+weight: 3600
 url: /net/aspose.pdf.forms/pkcs7detached/
 ---
 ## PKCS7Detached class
@@ -35,7 +35,7 @@ public sealed class PKCS7Detached : Signature
 | [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | The time of signing. |
 | [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | The CPU host name or physical location of the signing. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Gets/sets ocsp settings. |
-| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | The reason for the signing, such as (I agreeРІР‚В¦). |
+| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | The reason for the signing, such as (I agree, Pip B.). |
 | [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- where {X} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default. |
 | [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Gets/sets timestamp settings. |
 | [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Gets/sets ltv validation flag. |

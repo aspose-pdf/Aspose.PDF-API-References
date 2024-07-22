@@ -3,7 +3,7 @@ title: FileSpecification.SetValue
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification method. Sets applicationspecific parameter
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf/filespecification/setvalue/
 ---
 ## FileSpecification.SetValue method

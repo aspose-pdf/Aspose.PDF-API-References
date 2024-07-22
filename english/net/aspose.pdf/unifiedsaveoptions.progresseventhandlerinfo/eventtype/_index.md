@@ -1,14 +1,14 @@
 ---
 title: UnifiedSaveOptions.ProgressEventHandlerInfo.EventType
 second_title: Aspose.PDF for .NET API Reference
-description: ProgressEventHandlerInfo field. Type of progress event that occured
+description: ProgressEventHandlerInfo field. Type of progress event that occurred
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.EventType field
 
-Type of progress event that occured
+Type of progress event that occurred.
 
 ```csharp
 public ProgressEventType EventType;

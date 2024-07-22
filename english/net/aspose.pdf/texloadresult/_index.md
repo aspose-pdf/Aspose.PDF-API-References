@@ -3,7 +3,7 @@ title: Enum TeXLoadResult
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TeXLoadResult enum. Results for TeX load and compiling
 type: docs
-weight: 7970
+weight: 7430
 url: /net/aspose.pdf/texloadresult/
 ---
 ## TeXLoadResult enumeration
@@ -23,6 +23,7 @@ public enum TeXLoadResult
 | WarningIssued | `2` | Warnings present on loading and compiling. |
 | ErrorMessageIssued | `3` | Errors present on loading and compiling. |
 | FatalErrorStop | `4` | Fatal errors present on loading and compiling. |
+| InvalidResult | `5` | Invalid result of loading and compiling. |
 
 ### See Also
 

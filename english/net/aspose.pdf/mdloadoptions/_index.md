@@ -3,7 +3,7 @@ title: Class MdLoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.MdLoadOptions class. Load options for Markdown format conversion
 type: docs
-weight: 4880
+weight: 5250
 url: /net/aspose.pdf/mdloadoptions/
 ---
 ## MdLoadOptions class

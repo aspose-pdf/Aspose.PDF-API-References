@@ -3,7 +3,7 @@ title: SaveOptions.SaveFormat
 second_title: Aspose.PDF for .NET API Reference
 description: SaveOptions property. Format of data save
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf/saveoptions/saveformat/
 ---
 ## SaveOptions.SaveFormat property

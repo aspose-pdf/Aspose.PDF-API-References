@@ -3,7 +3,7 @@ title: Class HtmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HtmlSaveOptions class. Save options for export to Html format
 type: docs
-weight: 3540
+weight: 3910
 url: /net/aspose.pdf/htmlsaveoptions/
 ---
 ## HtmlSaveOptions class
@@ -28,6 +28,7 @@ public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOpt
 | Name | Description |
 | --- | --- |
 | [BatchSize](../../aspose.pdf/htmlsaveoptions/batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
 | [CompressSvgGraphicsIfAny](../../aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/) { get; set; } | Gets or sets the flag that indicates whether found SVG graphics(if any) will be compressed(zipped) into SVGZ format during saving |
 | [ConvertMarkedContentToLayers](../../aspose.pdf/htmlsaveoptions/convertmarkedcontenttolayers/) { get; set; } | If attribute ConvertMarkedContentToLayers set to true then an all elements inside a PDF marked content (layer) will be put into an HTML div with "data-pdflayer" attribute specifying a layer name. This layer name will be extracted from optional properties of PDF marked content. If this attribute is false (by default) then no any layers will be created from PDF marked content. |
@@ -49,6 +50,7 @@ public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOpt
 | [SplitCssIntoPages](../../aspose.pdf/htmlsaveoptions/splitcssintopages/) { get; set; } | When multipage-mode selected(i.e 'SplitIntoPages' is 'true'), then this attribute defines whether should be created separate CSS-file for each result HTML page. By default this attribute is false, so, will be created one big common CSS for all created pages. Summary size of all CSSes generated in this mode(one CSS per page) usually much more than size of one big CSS file, because in former case CSS classes are duplicates in such case in several CSS files for each page. So, this setting is worse to be used only when You are interested in future processing of each HTML page independently, and therefore size of CSS of each one page taken apart is the most critical issue. |
 | [SplitIntoPages](../../aspose.pdf/htmlsaveoptions/splitintopages/) { get; set; } | Gets or sets the flag that indicates whether each page of source document will be converted into it's own target HTML document, i.e whether result HTML will be splitted into several HTML-pages. |
 | [Title](../../aspose.pdf/htmlsaveoptions/title/) { get; set; } | Gets or sets HTML page title. |
+| [TryMergeFragments](../../aspose.pdf/htmlsaveoptions/trymergefragments/) { get; set; } | The flag for combining image fragments into one picture. |
 | [UseZOrder](../../aspose.pdf/htmlsaveoptions/usezorder/) { get; set; } | If attribute UseZORder set to true, graphics and text are added to resultant HTML document accordingly Z-order in original PDF document. If this attribute is false all graphics is put as single layer which may cause some unnecessary effects for overlapped objects. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
@@ -67,6 +69,7 @@ public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOpt
 | [FontEncodingStrategy](../../aspose.pdf/htmlsaveoptions/fontencodingstrategy/) | Defines encoding special rule to tune PDF decoding for current document |
 | [FontSavingMode](../../aspose.pdf/htmlsaveoptions/fontsavingmode/) | Defines font saving mode that will be used during saving of PDF to desirable format |
 | [HtmlMarkupGenerationMode](../../aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/) | Sometimes specific reqirments to generation of HTML markup are present. This parameter defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Process pages in few threads. |
 | [LettersPositioningMethod](../../aspose.pdf/htmlsaveoptions/letterspositioningmethod/) | Sets mode of positioning of letters in words in result HTML |
 | [PageBorderIfAny](../../aspose.pdf/htmlsaveoptions/pageborderifany/) | This attribute represents set of settings used for drawing border (if any) in result HTML document around area that represent source PDF page. In essence it concerns of showing of page's paper edges, not page border referenced in PDF page itself. |
 | [PageMarginIfAny](../../aspose.pdf/htmlsaveoptions/pagemarginifany/) | This attribute represents set of extra page margin (if any) in result HTML document around area that represent source PDF page. |

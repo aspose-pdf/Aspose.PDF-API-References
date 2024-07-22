@@ -3,7 +3,7 @@ title: Class MarkdownSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfToMarkdown.MarkdownSaveOptions class. Represents the document save option class in the markdown format
 type: docs
-weight: 6330
+weight: 6700
 url: /net/aspose.pdf.pdftomarkdown/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class
@@ -24,9 +24,12 @@ public class MarkdownSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
+| [AreaToExtract](../../aspose.pdf.pdftomarkdown/markdownsaveoptions/areatoextract/) { get; set; } | Get or set an rectangle area to extract content to markdown. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
 | [EmphasisStyle](../../aspose.pdf.pdftomarkdown/markdownsaveoptions/emphasisstyle/) { get; set; } | Gets or sets the style of emphasis for generated document. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
+| [ExtractVectorGraphics](../../aspose.pdf.pdftomarkdown/markdownsaveoptions/extractvectorgraphics/) { get; set; } | Gets and sets a property indicating whether vector graphics should be extracted. |
 | [HeadingLevels](../../aspose.pdf.pdftomarkdown/markdownsaveoptions/headinglevels/) { get; set; } | Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition Heuristic strategy will be selected when set Auto strategies even if the document contains bookmarks. |
 | [HeadingRecognitionStrategy](../../aspose.pdf.pdftomarkdown/markdownsaveoptions/headingrecognitionstrategy/) { get; set; } | Gets or sets the heading recognition strategy. |
 | [HeadingStyle](../../aspose.pdf.pdftomarkdown/markdownsaveoptions/headingstyle/) { get; set; } | Gets or sets the heading style for generated document. |
@@ -41,6 +44,7 @@ public class MarkdownSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Process pages in few threads. |
 | [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 
 ### See Also

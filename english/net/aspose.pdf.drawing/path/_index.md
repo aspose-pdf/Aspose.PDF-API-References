@@ -3,7 +3,7 @@ title: Class Path
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Path class. Represents arc
 type: docs
-weight: 2110
+weight: 2420
 url: /net/aspose.pdf.drawing/path/
 ---
 ## Path class

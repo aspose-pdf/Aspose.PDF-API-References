@@ -3,7 +3,7 @@ title: FileSpecification.GetValue
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification method. Gets applicationspecific parameter
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.pdf/filespecification/getvalue/
 ---
 ## FileSpecification.GetValue method

@@ -3,7 +3,7 @@ title: Document.LoadFrom
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Loads a file converting it to PDF
 type: docs
-weight: 710
+weight: 720
 url: /net/aspose.pdf/document/loadfrom/
 ---
 ## Document.LoadFrom method

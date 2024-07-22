@@ -3,7 +3,7 @@ title: Enum ColumnAdjustment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ColumnAdjustment enum. Enumerates column adjustment types
 type: docs
-weight: 1570
+weight: 1690
 url: /net/aspose.pdf/columnadjustment/
 ---
 ## ColumnAdjustment enumeration

@@ -8,7 +8,7 @@ url: /net/aspose.pdf.facades/viewerpreference/hidemenubar/
 ---
 ## ViewerPreference.HideMenubar field
 
-A flag specifying whether to hide the conforming reader�s menu bar when the document is active.
+A flag specifying whether to hide the conforming reader's menu bar when the document is active.
 
 ```csharp
 public const int HideMenubar;

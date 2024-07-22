@@ -3,7 +3,7 @@ title: XImage.GetNameInCollection
 second_title: Aspose.PDF for .NET API Reference
 description: XImage method. Returns name of the image in ints collection
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf/ximage/getnameincollection/
 ---
 ## XImage.GetNameInCollection method

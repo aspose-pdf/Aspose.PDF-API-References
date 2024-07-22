@@ -3,7 +3,7 @@ title: FileSpecification.Params
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. Gets file paramteres
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf/filespecification/params/
 ---
 ## FileSpecification.Params property

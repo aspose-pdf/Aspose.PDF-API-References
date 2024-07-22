@@ -3,7 +3,7 @@ title: Matrix.B
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix property. B member of the transformation matrix
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/matrix/b/
 ---
 ## Matrix.B property

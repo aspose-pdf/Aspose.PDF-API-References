@@ -3,7 +3,7 @@ title: Rectangle.ToRect
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Converts rectangle to instance of System.Drawing.Rectangle. Floatingpoint positions and size are truncated
 type: docs
-weight: 250
+weight: 270
 url: /net/aspose.pdf/rectangle/torect/
 ---
 ## Rectangle.ToRect method

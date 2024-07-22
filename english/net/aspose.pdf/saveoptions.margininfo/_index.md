@@ -3,7 +3,7 @@ title: Class SaveOptions.MarginInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.SaveOptionsMarginInfo class. Instance of this class represents information about page margin That can be drown on some result document
 type: docs
-weight: 7710
+weight: 7170
 url: /net/aspose.pdf/saveoptions.margininfo/
 ---
 ## SaveOptions.MarginInfo class

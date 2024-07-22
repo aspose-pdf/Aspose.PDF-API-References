@@ -3,7 +3,7 @@ title: Class GradientRadialShading
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.GradientRadialShading class. Represents gradient radial shading type
 type: docs
-weight: 2070
+weight: 2380
 url: /net/aspose.pdf.drawing/gradientradialshading/
 ---
 ## GradientRadialShading class

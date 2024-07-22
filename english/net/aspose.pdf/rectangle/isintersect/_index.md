@@ -3,7 +3,7 @@ title: Rectangle.IsIntersect
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Determines whether this rectangle intersects with other rectangle
 type: docs
-weight: 200
+weight: 220
 url: /net/aspose.pdf/rectangle/isintersect/
 ---
 ## Rectangle.IsIntersect method
