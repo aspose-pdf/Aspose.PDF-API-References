@@ -3,7 +3,7 @@ title: StructureElement.Title
 second_title: Aspose.PDF for .NET API Reference
 description: StructureElement property. Gets or sets the title for structure element
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf.logicalstructure/structureelement/title/
 ---
 ## StructureElement.Title property

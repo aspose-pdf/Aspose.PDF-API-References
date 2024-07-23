@@ -3,7 +3,7 @@ title: Class TextStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.TextStamp class. Represents textual stamp
 type: docs
-weight: 8660
+weight: 8120
 url: /net/aspose.pdf/textstamp/
 ---
 ## TextStamp class
@@ -34,9 +34,11 @@ public class TextStamp : Stamp
 | [Justify](../../aspose.pdf/textstamp/justify/) { get; set; } | Defines text justification. If this property is set to true, both left and right edges of the text are aligned. Default value: false. |
 | [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Gets or sets left margin of stamp. |
 | [MaxRowWidth](../../aspose.pdf/textstamp/maxrowwidth/) { get; set; } | Max row height for WordWrap option. |
+| [NoCharacterBehavior](../../aspose.pdf/textstamp/nocharacterbehavior/) { get; set; } | Gets or sets mode that defines behavior in case fonts don't contain requested characters. |
 | [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Gets or sets a value to indicate the stamp opacity. The value is from 0.0 to 1.0. By default the value is 1.0. |
 | [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Gets or sets a value to indicate the stamp outline opacity. The value is from 0.0 to 1.0. By default the value is 1.0. |
 | [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Gets or sets a value of the stamp outline width. By default the value is 1.0. |
+| [ReplacementFont](../../aspose.pdf/textstamp/replacementfont/) { get; set; } | Gets or sets font used for replacing if user font does not contain required character. |
 | [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Gets or sets right margin of stamp. |
 | [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Sets or gets the rotation of stamp content according [`Rotation`](../rotation/) values. Note. This property is for set angles which are multiples of 90 degrees (0, 90, 180, 270 degrees). To set arbitrary angle use RotateAngle property. If angle set by ArbitraryAngle is not multiple of 90 then Rotate property returns Rotation.None. |
 | [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Gets or sets rotate angle of stamp in degrees. This property allows to set arbitrary rotate angle. |
@@ -62,6 +64,12 @@ public class TextStamp : Stamp
 | [getStampId](../../aspose.pdf/stamp/getstampid/)() | Returns stamp ID. |
 | override [Put](../../aspose.pdf/textstamp/put/)(Page) | Adds textual stamp on the page. |
 | [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | Sets stamp Id. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [NoCharacterAction](../../aspose.pdf/textstamp.nocharacteraction) | Action to perform if font does not contain required character. |
 
 ### See Also
 

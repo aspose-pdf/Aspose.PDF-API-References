@@ -3,7 +3,7 @@ title: Class PaperSizeExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.Extensions.PaperSizeExtensions class. Represents extensions methods for PaperSize
 type: docs
-weight: 7370
+weight: 6830
 url: /net/aspose.pdf.printing.extensions/papersizeextensions/
 ---
 ## PaperSizeExtensions class

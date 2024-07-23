@@ -3,7 +3,7 @@ title: Class ParagraphAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.ParagraphAbsorber class. Represents an absorber object of page structure objects such as sections and paragraphs. Performs search for sections and paragraphs of text and provides access for rectangles and polydons that describes it in text coordinate space. Also performs text segments search and provides access to search results via TextFragments collections grouped by structure elements
 type: docs
-weight: 8260
+weight: 7720
 url: /net/aspose.pdf.text/paragraphabsorber/
 ---
 ## ParagraphAbsorber class
@@ -31,6 +31,7 @@ public class ParagraphAbsorber
 | [PageMarkups](../../aspose.pdf.text/paragraphabsorber/pagemarkups/) { get; } | Gets collection of [`PageMarkup`](../pagemarkup/) that were absorbed. |
 | [ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/) { get; set; } | Gets or sets the ParagraphAbsorberOptions. |
 | [SectionsSearchDepth](../../aspose.pdf.text/paragraphabsorber/sectionssearchdepth/) { get; set; } | Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. Default search depth is 3. It means three searches for horizontally divided sections (headers, paragraphs etc) and three searches for vertically divided ones (columns). |
+| [TextReplaceOptions](../../aspose.pdf.text/paragraphabsorber/textreplaceoptions/) { get; set; } | Gets or sets the TextReplaceOptions. |
 
 ## Methods
 

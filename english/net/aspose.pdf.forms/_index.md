@@ -3,7 +3,7 @@ title: Aspose.Pdf.Forms
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Forms namespace has classes which describes forms standard static dynamic and various types of fields like text box list box radio button etc
 type: docs
-weight: 90
+weight: 130
 url: /net/aspose.pdf.forms/
 ---
 The **Aspose.Pdf.Forms** namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc.

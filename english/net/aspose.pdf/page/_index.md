@@ -3,7 +3,7 @@ title: Class Page
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Page class. Class representing page of PDF document
 type: docs
-weight: 5980
+weight: 6350
 url: /net/aspose.pdf/page/
 ---
 ## Page class
@@ -31,7 +31,7 @@ public sealed class Page : IDisposable
 | [Duration](../../aspose.pdf/page/duration/) { get; set; } | Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined. |
 | [FieldsInTabOrder](../../aspose.pdf/page/fieldsintaborder/) { get; } | Gets list of Field object in Tab order on this page. |
 | [Footer](../../aspose.pdf/page/footer/) { get; set; } | Gets or sets page footer. |
-| [Group](../../aspose.pdf/page/group/) { get; set; } | Gets or sets a group attributes class specifying the attributes of the page�s page group for use in the transparent imaging model. |
+| [Group](../../aspose.pdf/page/group/) { get; set; } | Gets or sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
 | [Header](../../aspose.pdf/page/header/) { get; set; } | Gets or sets page header. |
 | [IsAddParagraphsAfterLast](../../aspose.pdf/page/isaddparagraphsafterlast/) { get; set; } | Gets or sets the addition of paragraphs after the last paragraph of the page |
 | [Layers](../../aspose.pdf/page/layers/) { get; set; } | Gets or sets layers collection. |
@@ -47,7 +47,7 @@ public sealed class Page : IDisposable
 | [TabOrder](../../aspose.pdf/page/taborder/) { get; set; } | Gets or sets tab order of the page. Possible values: Row, Column. Default, Manual |
 | [TocInfo](../../aspose.pdf/page/tocinfo/) { get; set; } | Gets or sets table of contents info. |
 | [TrimBox](../../aspose.pdf/page/trimbox/) { get; set; } | Gets or sets trim box of the page. |
-| [UserUnit](../../aspose.pdf/page/userunit/) { get; set; } | Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 ⁄ 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page. |
+| [UserUnit](../../aspose.pdf/page/userunit/) { get; set; } | Gets or sets UserUnit value. A positive number giving the size of default user space units, in multiples of 1 / 72 inch. Default value is 1. Please set zero or negative value in order to clear this entry in page. |
 | [Watermark](../../aspose.pdf/page/watermark/) { get; set; } | Gets or sets the watermark of the page. |
 
 ## Methods
@@ -77,6 +77,9 @@ public sealed class Page : IDisposable
 | [HasVectorGraphics](../../aspose.pdf/page/hasvectorgraphics/)() | Detect of the presence of vector graphics, if it is present on the page. |
 | [IsBlank](../../aspose.pdf/page/isblank/)(double) | Gets the flag whether page is blank or not. |
 | [MakeGrayscale](../../aspose.pdf/page/makegrayscale/)() | Converts the page to grayscale. |
+| [MergeLayers](../../aspose.pdf/page/mergelayers/#mergelayers)(string) | Merges all layers on the page into a single layer with the specified new layer name. |
+| [MergeLayers](../../aspose.pdf/page/mergelayers/#mergelayers_1)(string, string) | Merges all layers on the page into a single layer with the specified new layer name and optional content group Id. |
+| [Resize](../../aspose.pdf/page/resize/)(PageSize) | Resizes the page. |
 | [SendTo](../../aspose.pdf/page/sendto/#sendto)(PageDevice, Stream) | Sends page to process with given page device. |
 | [SendTo](../../aspose.pdf/page/sendto/#sendto_1)(PageDevice, string) | Sends page to process with given page device. |
 | [SetPageSize](../../aspose.pdf/page/setpagesize/)(double, double) | Sets page size for page. |

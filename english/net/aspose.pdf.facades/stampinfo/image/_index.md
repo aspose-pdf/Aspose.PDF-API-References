@@ -8,8 +8,6 @@ url: /net/aspose.pdf.facades/stampinfo/image/
 ---
 ## StampInfo.Image property
 
-Gets image of stamp. May be null if stamp does not contain images (for example for text stamp).
-
 ```csharp
 public Image Image { get; }
 ```

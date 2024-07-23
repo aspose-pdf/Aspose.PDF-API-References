@@ -3,7 +3,7 @@ title: Matrix.C
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix property. C member of the transformation matrix
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf/matrix/c/
 ---
 ## Matrix.C property

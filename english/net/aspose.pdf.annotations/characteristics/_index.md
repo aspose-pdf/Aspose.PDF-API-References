@@ -3,7 +3,7 @@ title: Class Characteristics
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.Characteristics class. Represents annotation characteristics
 type: docs
-weight: 240
+weight: 230
 url: /net/aspose.pdf.annotations/characteristics/
 ---
 ## Characteristics class

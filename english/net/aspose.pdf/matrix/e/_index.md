@@ -3,7 +3,7 @@ title: Matrix.E
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix property. E member of the transformation matrix
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.pdf/matrix/e/
 ---
 ## Matrix.E property

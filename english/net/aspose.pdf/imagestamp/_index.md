@@ -3,7 +3,7 @@ title: Class ImageStamp
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ImageStamp class. Reresents graphic stamp
 type: docs
-weight: 3900
+weight: 4270
 url: /net/aspose.pdf/imagestamp/
 ---
 ## ImageStamp class
@@ -25,6 +25,7 @@ public sealed class ImageStamp : Stamp
 
 | Name | Description |
 | --- | --- |
+| [AlternativeText](../../aspose.pdf/imagestamp/alternativetext/) { get; set; } | Gets or sets Alternative Text for image stamp. |
 | [Background](../../aspose.pdf/stamp/background/) { get; set; } | Sets or gets a bool value that indicates the content is stamped as background. If the value is true, the stamp content is layed at the bottom. By defalt, the value is false, the stamp content is layed at the top. |
 | [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Gets or sets bottom margin of stamp. |
 | [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | Gets or sets image height. Setting this image allows to scale image vertically. |

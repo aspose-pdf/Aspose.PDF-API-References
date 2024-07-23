@@ -3,7 +3,7 @@ title: GraphicElement.Parent
 second_title: Aspose.PDF for .NET API Reference
 description: GraphicElement property. Gets the current XFormPlacement in which the element is located
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.pdf.vector/graphicelement/parent/
 ---
 ## GraphicElement.Parent property

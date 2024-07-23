@@ -8,7 +8,7 @@ url: /net/aspose.pdf.operators/setdash/pattern/
 ---
 ## SetDash.Pattern property
 
-Dash pattern. Array�s elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal.
+Dash pattern. Array's elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal.
 
 ```csharp
 public int[] Pattern { get; set; }

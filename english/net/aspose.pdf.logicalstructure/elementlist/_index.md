@@ -3,7 +3,7 @@ title: Class ElementList
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.ElementList class. Represents an ordered collection of elements
 type: docs
-weight: 4280
+weight: 4650
 url: /net/aspose.pdf.logicalstructure/elementlist/
 ---
 ## ElementList class

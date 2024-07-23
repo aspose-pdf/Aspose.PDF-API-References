@@ -26,28 +26,6 @@ public Document(Stream input)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_5}
-
-Initialize new Document instance from the *input* stream.
-
-```csharp
-public Document(Stream input, string password, bool isManagedStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Stream with pdf document. |
-| password | String | User or owner password. |
-| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## Document(Stream, bool) {#constructor_3}
 
 Initialize new Document instance from the *input* stream.
@@ -60,26 +38,6 @@ public Document(Stream input, bool isManagedStream)
 | --- | --- | --- |
 | input | Stream | Stream with pdf document. |
 | isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Document(string) {#constructor_6}
-
-Just init Document using *filename*. The same as `Document`.
-
-```csharp
-public Document(string filename)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | The name of the pdf document file. |
 
 ### See Also
 
@@ -110,13 +68,19 @@ public Document(Stream input, string password)
 
 ---
 
-## Document() {#constructor}
+## Document(Stream, string, bool) {#constructor_5}
 
-Initializes empty document.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
-public Document()
+public Document(Stream input, string password, bool isManagedStream)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Stream with pdf document. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | If set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### See Also
 
@@ -126,7 +90,48 @@ public Document()
 
 ---
 
-## Document(string, string) {#constructor_8}
+## Document(string) {#constructor_6}
+
+Just init Document using *filename*. The same as `Document`.
+
+```csharp
+public Document(string filename)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | The name of the pdf document file. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, bool) {#constructor_8}
+
+Just init Document using *filename*. The same as `Document`.
+
+```csharp
+public Document(string filename, bool isManagedStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | The name of the pdf document file. |
+| isManagedStream | Boolean | If set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string) {#constructor_9}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -147,7 +152,7 @@ public Document(string filename, string password)
 
 ---
 
-## Document(string, string, bool) {#constructor_9}
+## Document(string, string, bool) {#constructor_10}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -160,6 +165,22 @@ public Document(string filename, string password, bool isManagedStream)
 | filename | String | Document file name. |
 | password | String | User or owner password. |
 | isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document() {#constructor}
+
+Initializes empty document.
+
+```csharp
+public Document()
+```
 
 ### See Also
 

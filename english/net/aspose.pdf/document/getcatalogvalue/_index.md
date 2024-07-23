@@ -3,7 +3,7 @@ title: Document.GetCatalogValue
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Returns item value from catalog dictionary
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.pdf/document/getcatalogvalue/
 ---
 ## Document.GetCatalogValue method

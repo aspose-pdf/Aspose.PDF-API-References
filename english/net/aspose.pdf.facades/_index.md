@@ -3,7 +3,7 @@ title: Aspose.Pdf.Facades
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf.Facades namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating stamping signing annotating etc. but on the high level without access to a documents inner structure
 type: docs
-weight: 80
+weight: 120
 url: /net/aspose.pdf.facades/
 ---
 The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
@@ -13,6 +13,7 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | Class | Description |
 | --- | --- |
 | [AutoFiller](./autofiller/) | Represents a class to receive data from database or other datasource, fills them into the designed fields of the template pdf and at last generates new pdf file or stream. It has two template file input modes:input as a stream or a pdf file. It has four types of output modes:one merged stream, one merged file, many small streams, many small files. It can recieve literal data contained in a System.Data.DataTable. |
+| [BDCProperties](./bdcproperties/) | BDC operator properties. |
 | [Bookmark](./bookmark/) | Represents a bookmark. |
 | [Bookmarks](./bookmarks/) | Represents a collection of [`Bookmark`](../aspose.pdf.facades/bookmark/) objects. |
 | [DocumentPrivilege](./documentprivilege/) | Represents the privileges for accessing Pdf file. Refer to[`PdfFileSecurity`](../aspose.pdf.facades/pdffilesecurity/). There are 4 ways using this class: 1.Using predefined privilege directly. 2.Based on a predefined privilege and change some specifical permissions. 3.Based on a predefined privilege and change some specifical Adobe Professional permissions combination. 4.Mixes the way2 and way3. |

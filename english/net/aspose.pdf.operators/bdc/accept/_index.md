@@ -3,7 +3,7 @@ title: BDC.Accept
 second_title: Aspose.PDF for .NET API Reference
 description: BDC method. Accepts visitor object to process operator
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf.operators/bdc/accept/
 ---
 ## BDC.Accept method

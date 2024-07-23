@@ -3,7 +3,7 @@ title: Aspose.Pdf
 second_title: Aspose.PDF for .NET API Reference
 description: The Aspose.Pdf is a root namespace for all classes of Aspose.Pdf library which are either directly in it like Document or indirectly through several subnamespaces
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.pdf/
 ---
 The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **Document** or indirectly through several subnamespaces.
@@ -28,6 +28,9 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [CgmImportOptions](./cgmimportoptions/) | Import option for import from Computer Graphics Metafile(CGM) format. |
 | [CgmLoadOptions](./cgmloadoptions/) | Contains options for loading/importing CGM file into pdf document. |
 | [Collection](./collection/) | Represents class for Collection(12.3.5 Collections). |
+| [CollectionField](./collectionfield/) | Represents a document collection schema field class. |
+| [CollectionItem](./collectionitem/) | Represents a collection item class. The collection item contains the data described by the collection schema. |
+| [CollectionSchema](./collectionschema/) | Represents a class that describes the "Schema" of a document collection. |
 | [Color](./color/) | Represents class for color value which can be expressed in different color space. |
 | [ColumnInfo](./columninfo/) | This class represents a columns info. |
 | [ComHelper](./comhelper/) | Provides methods for COM clients to load a document into Aspose.Pdf. |
@@ -37,6 +40,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [DjvuLoadOptions](./djvuloadoptions/) | Class describes DJVU load options. |
 | [DocSaveOptions](./docsaveoptions/) | Save options for export to Doc format |
 | [Document](./document/) | Class representing PDF document |
+| [DocumentExtensions](./documentextensions/) | Provides additional capabilities for the Document class. |
 | [DocumentFactory](./documentfactory/) | Class which allows to create/load documents of different types. |
 | [DocumentInfo](./documentinfo/) | Represents meta information of PDF document. |
 | [EmbeddedFileCollection](./embeddedfilecollection/) | Class representing embedded files collection. |
@@ -54,7 +58,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [FooterArtifact](./footerartifact/) | Describes footer artifact. This may be used to set footer of the page. |
 | [FormattedFragment](./formattedfragment/) | Represents abstract formatted fragment. |
 | [GraphInfo](./graphinfo/) | Represents graphics info. |
-| [Group](./group/) | A group attributes class specifying the attributes of the page’s page group for use in the transparent imaging model. |
+| [Group](./group/) | A group attributes class specifying the attributes of the page's page group for use in the transparent imaging model. |
 | [HeaderArtifact](./headerartifact/) | Class describes Heaader artifact. This artifacgt may be used to set heading of the page. |
 | [HeaderFooter](./headerfooter/) | Class represents header or footer pdf page. |
 | [Heading](./heading/) | Represents heading. |
@@ -79,7 +83,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [InvalidValueFormatException](./invalidvalueformatexception/) | Exception which thrown when requested value has incorrect format. |
 | [JavaScriptCollection](./javascriptcollection/) | This class represents collection of JavaScript. |
 | [JavascriptExtensionsException](./javascriptextensionsexception/) | The exception that is thrown on errors when working with JavascriptExtensions. |
-| [Layer](./layer/) | Represents page layer. |
+| [Layer](./layer/) | Represents a layer within a PDF page. |
 | [LevelFormat](./levelformat/) | Represents format of the table of contents. |
 | [License](./license/) | Provides methods to license the component. |
 | [LoadOptions](./loadoptions/) | LoadOptions type holds level of abstraction on individual load options |
@@ -195,6 +199,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [BlendMode](./blendmode/) | The blend modes enumeration. |
 | [BorderCornerStyle](./bordercornerstyle/) | Enumerates the border corner styles for border. |
 | [BorderSide](./borderside/) | Enumerates the border sides. |
+| [CollectionFieldSubtype](./collectionfieldsubtype/) | Represents the subtype parameter of a field in a sceme collection. |
 | [ColorSpace](./colorspace/) | The color spaces enumeration. |
 | [ColorType](./colortype/) | Specifies color type of elements on page. |
 | [ColumnAdjustment](./columnadjustment/) | Enumerates column adjustment types. |
@@ -207,6 +212,7 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [Direction](./direction/) | Text direction. |
 | [ExtendedBoolean](./extendedboolean/) | Represents boolean type that supports Undefined value. |
 | [ExtractImageMode](./extractimagemode/) | Defines different modes which can be used while extracting images from documents. |
+| [FieldValueType](./fieldvaluetype/) | Represents the type of a field value in a schema collection. |
 | [FileEncoding](./fileencoding/) | Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed. |
 | [Fixup](./fixup/) | This enum represents an type of Fixup. |
 | [FontSubsetStrategy](./fontsubsetstrategy/) | enumerates strategies for font subsetting |

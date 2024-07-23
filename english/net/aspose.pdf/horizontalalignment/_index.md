@@ -3,7 +3,7 @@ title: Enum HorizontalAlignment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.HorizontalAlignment enum. Describes horizontal alignment
 type: docs
-weight: 3480
+weight: 3850
 url: /net/aspose.pdf/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration

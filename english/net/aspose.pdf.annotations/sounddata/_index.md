@@ -3,7 +3,7 @@ title: Class SoundData
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.SoundData class. Represents a sound data defining the sound to be played when the annotation is activated
 type: docs
-weight: 1130
+weight: 1190
 url: /net/aspose.pdf.annotations/sounddata/
 ---
 ## SoundData class

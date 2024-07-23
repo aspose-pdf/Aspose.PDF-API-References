@@ -8,7 +8,7 @@ url: /net/aspose.pdf.structure/element/alt/
 ---
 ## Element.Alt property
 
-(Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document’s contents in support of accessibility to users with disabilities or for other purposes.
+(Optional) An alternate description of the structure element and its children in human-readableform, which is useful when extracting the document's contents in support of accessibility to users with disabilities or for other purposes.
 
 ```csharp
 public virtual string Alt { get; set; }

@@ -3,7 +3,7 @@ title: Class FileSpecification
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FileSpecification class. Class representing embedded file
 type: docs
-weight: 2910
+weight: 3280
 url: /net/aspose.pdf/filespecification/
 ---
 ## FileSpecification class
@@ -30,6 +30,7 @@ public sealed class FileSpecification : IDisposable
 | Name | Description |
 | --- | --- |
 | [AFRelationship](../../aspose.pdf/filespecification/afrelationship/) { get; set; } | Associated file Relationship. |
+| [CollectionItem](../../aspose.pdf/filespecification/collectionitem/) { get; } | Gets a collection item of the file specification. |
 | [Contents](../../aspose.pdf/filespecification/contents/) { get; set; } | Gets or sets contents file. This property returns data loaded in memory which may cause Out of memory exception for large data. To decrease memory usage please use StreamContents. |
 | [Description](../../aspose.pdf/filespecification/description/) { get; set; } | Gets or sets text associated with the file specification. |
 | [Encoding](../../aspose.pdf/filespecification/encoding/) { get; set; } | Gets or sets encoding format. Possible values: Zip - file is compressed with ZIP, None - file is not compressed. |

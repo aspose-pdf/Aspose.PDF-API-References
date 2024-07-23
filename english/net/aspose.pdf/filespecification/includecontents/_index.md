@@ -3,7 +3,7 @@ title: FileSpecification.IncludeContents
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. If true contents of the file will be included in the file specification
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.pdf/filespecification/includecontents/
 ---
 ## FileSpecification.IncludeContents property

@@ -8,7 +8,7 @@ url: /net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
 ## StructureTypeStandard.TOCI field
 
-(Table of contents item) An individual member of a table of contents. This entry’s children may be any of the following structure types:
+(Table of contents item) An individual member of a table of contents. This entry's children may be any of the following structure types:
 
 **Lbl**
 

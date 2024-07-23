@@ -3,7 +3,7 @@ title: Enum RenditionOperation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.RenditionOperation enum. The operation to perform when the action is triggered
 type: docs
-weight: 1040
+weight: 1100
 url: /net/aspose.pdf.annotations/renditionoperation/
 ---
 ## RenditionOperation enumeration

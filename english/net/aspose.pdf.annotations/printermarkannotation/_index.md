@@ -3,7 +3,7 @@ title: Class PrinterMarkAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PrinterMarkAnnotation class. Abstract class representing printer mark annotation
 type: docs
-weight: 990
+weight: 1000
 url: /net/aspose.pdf.annotations/printermarkannotation/
 ---
 ## PrinterMarkAnnotation class
@@ -54,6 +54,8 @@ public abstract class PrinterMarkAnnotation : Annotation
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Clones this instance. Virtual method. Always return null. |
 | virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
+| static [AddPrinterMarks](../../aspose.pdf.annotations/printermarkannotation/addprintermarks/#addprintermarks)(Document, PrinterMarksKind) | Adds printer's marks to all pages in the specified document. |
+| static [AddPrinterMarks](../../aspose.pdf.annotations/printermarkannotation/addprintermarks/#addprintermarks_1)(Page, PrinterMarksKind) | Adds printer's marks to the specified page. |
 
 ### See Also
 

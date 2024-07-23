@@ -3,7 +3,7 @@ title: XImage.Metadata
 second_title: Aspose.PDF for .NET API Reference
 description: XImage property. Metadata of the image
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf/ximage/metadata/
 ---
 ## XImage.Metadata property

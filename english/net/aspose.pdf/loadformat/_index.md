@@ -3,7 +3,7 @@ title: Enum LoadFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LoadFormat enum. Specifies load format
 type: docs
-weight: 4060
+weight: 4430
 url: /net/aspose.pdf/loadformat/
 ---
 ## LoadFormat enumeration

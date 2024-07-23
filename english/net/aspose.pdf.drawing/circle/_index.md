@@ -3,7 +3,7 @@ title: Class Circle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Drawing.Circle class. Represents circle
 type: docs
-weight: 2030
+weight: 2340
 url: /net/aspose.pdf.drawing/circle/
 ---
 ## Circle class

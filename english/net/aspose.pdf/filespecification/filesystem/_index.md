@@ -3,7 +3,7 @@ title: FileSpecification.FileSystem
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. Gets or sets name of the file system
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf/filespecification/filesystem/
 ---
 ## FileSpecification.FileSystem property

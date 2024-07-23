@@ -8,7 +8,7 @@ url: /net/aspose.pdf/page/group/
 ---
 ## Page.Group property
 
-Gets or sets a group attributes class specifying the attributes of the page�s page group for use in the transparent imaging model.
+Gets or sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
 
 ```csharp
 public Group Group { get; set; }

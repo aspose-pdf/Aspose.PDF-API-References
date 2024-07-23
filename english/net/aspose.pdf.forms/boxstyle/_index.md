@@ -3,7 +3,7 @@ title: Enum BoxStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.BoxStyle enum. Represents styles of check box
 type: docs
-weight: 3000
+weight: 3370
 url: /net/aspose.pdf.forms/boxstyle/
 ---
 ## BoxStyle enumeration

@@ -3,7 +3,7 @@ title: Rectangle.Intersect
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Intersects to rectangles
 type: docs
-weight: 190
+weight: 210
 url: /net/aspose.pdf/rectangle/intersect/
 ---
 ## Rectangle.Intersect method

@@ -8,7 +8,7 @@ url: /net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/
 ---
 ## CommonFigureAnnotation.InteriorColor property
 
-Interior color with which to fill the annotation�s rectangle or ellipse.
+Interior color with which to fill the annotation's rectangle or ellipse.
 
 ```csharp
 public Color InteriorColor { get; set; }

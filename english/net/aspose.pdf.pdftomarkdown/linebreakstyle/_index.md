@@ -3,7 +3,7 @@ title: Enum LineBreakStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfToMarkdown.LineBreakStyle enum. Represents the possible line break styles for a file
 type: docs
-weight: 6320
+weight: 6690
 url: /net/aspose.pdf.pdftomarkdown/linebreakstyle/
 ---
 ## LineBreakStyle enumeration

@@ -3,7 +3,7 @@ title: Class UnifiedSaveOptions.ProgressEventHandlerInfo
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.UnifiedSaveOptionsProgressEventHandlerInfo class. This class represents information about conversion progress that can be used in external applicatuion to show conversion progress to end user
 type: docs
-weight: 8720
+weight: 8190
 url: /net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo class
@@ -18,9 +18,10 @@ public class ProgressEventHandlerInfo
 
 | Name | Description |
 | --- | --- |
-| [EventType](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype) | Type of progress event that occured |
-| [MaxValue](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue) | maximum possible value of progress value |
-| [Value](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value) | current value of progress value |
+| [DocumentId](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid) | The unique document ID. |
+| [EventType](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype) | Type of progress event that occurred. |
+| [MaxValue](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue) | Maximum possible value of progress value. |
+| [Value](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value) | Current value of progress value. |
 
 ### See Also
 

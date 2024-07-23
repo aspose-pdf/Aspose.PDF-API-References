@@ -8,7 +8,7 @@ url: /net/aspose.pdf.annotations/annotationactioncollection/onenter/
 ---
 ## AnnotationActionCollection.OnEnter property
 
-Gets or sets an action to be performed when the cursor enters the annotation�s active area.
+Gets or sets an action to be performed when the cursor enters the annotation's active area.
 
 ```csharp
 public PdfAction OnEnter { get; set; }

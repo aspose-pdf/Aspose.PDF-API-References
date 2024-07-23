@@ -3,7 +3,7 @@ title: MCRElement.ToString
 second_title: Aspose.PDF for .NET API Reference
 description: MCRElement method. Returns a string that represents the current object
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.logicalstructure/mcrelement/tostring/
 ---
 ## MCRElement.ToString method

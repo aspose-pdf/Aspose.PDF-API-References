@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LoadOptions class. LoadOptions type holds level of abstraction on individual load options
 type: docs
-weight: 4070
+weight: 4440
 url: /net/aspose.pdf/loadoptions/
 ---
 ## LoadOptions class

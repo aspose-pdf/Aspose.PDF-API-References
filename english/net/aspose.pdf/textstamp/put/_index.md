@@ -3,7 +3,7 @@ title: TextStamp.Put
 second_title: Aspose.PDF for .NET API Reference
 description: TextStamp method. Adds textual stamp on the page
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.pdf/textstamp/put/
 ---
 ## TextStamp.Put method

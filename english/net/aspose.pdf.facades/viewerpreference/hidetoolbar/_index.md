@@ -8,7 +8,7 @@ url: /net/aspose.pdf.facades/viewerpreference/hidetoolbar/
 ---
 ## ViewerPreference.HideToolbar field
 
-A flag specifying whether to hide the conforming reader�s tool bars when the document is active.
+A flag specifying whether to hide the conforming reader's tool bars when the document is active.
 
 ```csharp
 public const int HideToolbar;

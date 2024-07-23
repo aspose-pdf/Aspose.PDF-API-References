@@ -3,7 +3,7 @@ title: Class PKCS1
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.PKCS1 class. Represents signature object regarding PKCS1 standard. RSA encryption algorithm and SHA1 digest method are used for signing
 type: docs
-weight: 3210
+weight: 3580
 url: /net/aspose.pdf.forms/pkcs1/
 ---
 ## PKCS1 class
@@ -35,7 +35,7 @@ public sealed class PKCS1 : Signature
 | [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | The time of signing. |
 | [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | The CPU host name or physical location of the signing. |
 | [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Gets/sets ocsp settings. |
-| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | The reason for the signing, such as (I agreeРІР‚В¦). |
+| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | The reason for the signing, such as (I agree, Pip B.). |
 | [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- where {X} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default. |
 | [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Gets/sets timestamp settings. |
 | [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Gets/sets ltv validation flag. |

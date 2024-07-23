@@ -3,7 +3,7 @@ title: Element.FindElements
 second_title: Aspose.PDF for .NET API Reference
 description: Element method. Find Elements of a given type
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.logicalstructure/element/findelements/
 ---
 ## Element.FindElements&lt;T&gt; method

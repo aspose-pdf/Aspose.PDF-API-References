@@ -3,7 +3,7 @@ title: Rectangle.Join
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Joins rectangles
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.pdf/rectangle/join/
 ---
 ## Rectangle.Join method

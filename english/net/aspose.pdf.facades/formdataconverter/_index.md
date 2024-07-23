@@ -3,7 +3,7 @@ title: Class FormDataConverter
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.FormDataConverter class. Represents a class to convert data from one format to another format. It can convert the data in fdf/xml/pdf/xfdf to the OLEDB/OdbcDB. It also can convert the data in the OLEDB/OdbcDB to the data in fdf/xml/xfdf. It can convert the fdf to the xml with hardnamed tag
 type: docs
-weight: 2420
+weight: 2780
 url: /net/aspose.pdf.facades/formdataconverter/
 ---
 ## FormDataConverter class

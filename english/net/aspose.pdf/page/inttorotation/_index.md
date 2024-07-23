@@ -3,7 +3,7 @@ title: Page.IntToRotation
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Translates integer value into corresponding rotation enumeration member
 type: docs
-weight: 530
+weight: 550
 url: /net/aspose.pdf/page/inttorotation/
 ---
 ## Page.IntToRotation method

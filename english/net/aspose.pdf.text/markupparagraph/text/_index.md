@@ -1,17 +1,17 @@
 ---
 title: MarkupParagraph.Text
 second_title: Aspose.PDF for .NET API Reference
-description: MarkupParagraph property. Gets String text object that the MarkupParagraph object represents
+description: MarkupParagraph property. Gets or sets the paragraph text
 type: docs
 weight: 60
 url: /net/aspose.pdf.text/markupparagraph/text/
 ---
 ## MarkupParagraph.Text property
 
-Gets String text object that the [`MarkupParagraph`](../) object represents.
+Gets or sets the paragraph text.
 
 ```csharp
-public string Text { get; }
+public string Text { get; set; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: FileSpecification.UnicodeName
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. Gets or sets file specification unicode name
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.pdf/filespecification/unicodename/
 ---
 ## FileSpecification.UnicodeName property

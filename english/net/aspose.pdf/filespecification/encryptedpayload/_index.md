@@ -3,7 +3,7 @@ title: FileSpecification.EncryptedPayload
 second_title: Aspose.PDF for .NET API Reference
 description: FileSpecification property. Gets encrypted payload
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf/filespecification/encryptedpayload/
 ---
 ## FileSpecification.EncryptedPayload property

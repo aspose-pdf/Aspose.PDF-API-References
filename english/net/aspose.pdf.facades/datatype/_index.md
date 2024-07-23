@@ -3,7 +3,7 @@ title: Enum DataType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Facades.DataType enum. Enumerates field types definitions
 type: docs
-weight: 2310
+weight: 2670
 url: /net/aspose.pdf.facades/datatype/
 ---
 ## DataType enumeration

@@ -3,7 +3,7 @@ title: Class Document
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Document class. Class representing PDF document
 type: docs
-weight: 1940
+weight: 2230
 url: /net/aspose.pdf/document/
 ---
 ## Document class
@@ -24,10 +24,11 @@ public sealed class Document : IDisposable
 | [Document](document/#constructor_3)(Stream, bool) | Initialize new Document instance from the *input* stream. |
 | [Document](document/#constructor_2)(Stream, LoadOptions) | Opens an existing document from a stream providing necessary converting to get pdf document. |
 | [Document](document/#constructor_4)(Stream, string) | Initialize new Document instance from the *input* stream. |
+| [Document](document/#constructor_8)(string, bool) | Just init Document using *filename*. The same as [`Document`](./document/). |
 | [Document](document/#constructor_7)(string, LoadOptions) | Opens an existing document from a file providing necessary converting options to get pdf document. |
-| [Document](document/#constructor_8)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_9)(string, string) | Initializes new instance of the `Document` class for working with encrypted document. |
 | [Document](document/#constructor_5)(Stream, string, bool) | Initialize new Document instance from the *input* stream. |
-| [Document](document/#constructor_9)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
+| [Document](document/#constructor_10)(string, string, bool) | Initializes new instance of the `Document` class for working with encrypted document. |
 
 ## Properties
 
@@ -84,6 +85,7 @@ public sealed class Document : IDisposable
 | [PrintScaling](../../aspose.pdf/document/printscaling/) { get; set; } | Gets or sets the page scaling option that shall be selected when a print dialog is displayed for this document. |
 | [TaggedContent](../../aspose.pdf/document/taggedcontent/) { get; } | Gets access to TaggedPdf content. |
 | [Version](../../aspose.pdf/document/version/) { get; } | Gets a version of Pdf from Pdf file header. |
+| static [FileSizeLimitToMemoryLoading](../../aspose.pdf/document/filesizelimittomemoryloading/) { get; set; } | Get and set the file size limit for loading an entire file into memory. The value is set in megabytes. The default value is 210 Mb. |
 | static [IsLicensed](../../aspose.pdf/document/islicensed/) { get; } | Gets licensed state of the system. Returns true is system works in licensed mode and false otherwise. |
 
 ## Methods
@@ -141,7 +143,7 @@ public sealed class Document : IDisposable
 | [RemoveMetadata](../../aspose.pdf/document/removemetadata/)() | Removes metadata from the document. |
 | [RemovePdfaCompliance](../../aspose.pdf/document/removepdfacompliance/)() | Remove pdfa compliance from the document |
 | [RemovePdfUaCompliance](../../aspose.pdf/document/removepdfuacompliance/)() | Remove pdfUa compliance from the document |
-| [Repair](../../aspose.pdf/document/repair/)() | Repairs broken document. |
+| [Repair](../../aspose.pdf/document/repair/)(RepairOptions) | Repairs broken document. |
 | [Save](../../aspose.pdf/document/save/#save)() | Save document incrementally (i.e. using incremental update technique). |
 | [Save](../../aspose.pdf/document/save/#save_1)(SaveOptions) | Saves the document with save options. |
 | [Save](../../aspose.pdf/document/save/#save_2)(Stream) | Stores document into stream. |
@@ -165,6 +167,7 @@ public sealed class Document : IDisposable
 | static [Convert](../../aspose.pdf/document/convert/#convert_1)(Stream, LoadOptions, string, SaveOptions) | Converts stream in source format into destination file in destination format. |
 | static [Convert](../../aspose.pdf/document/convert/#convert_2)(string, LoadOptions, Stream, SaveOptions) | Converts source file in source format into stream in destination format. |
 | static [Convert](../../aspose.pdf/document/convert/#convert_3)(string, LoadOptions, string, SaveOptions) | Converts source file in source format into destination file in destination format. |
+| static [SetDefaultFileSizeLimitToMemoryLoading](../../aspose.pdf/document/setdefaultfilesizelimittomemoryloading/)() | Sets the file size limit for loading an entire file into memory to default value equals 210 Mb. |
 
 ## Fields
 
@@ -187,6 +190,7 @@ public sealed class Document : IDisposable
 | delegate [FontSubstitutionHandler](../../aspose.pdf/document.fontsubstitutionhandler) | Represents the method that will handle FontSubstitution event. |
 | interface [IDocumentFontUtilities](../../aspose.pdf/document.idocumentfontutilities) | Holds functionality to tune fonts |
 | class [MergeOptions](../../aspose.pdf/document.mergeoptions) | Represents the options to Merge methods. |
+| class [RepairOptions](../../aspose.pdf/document.repairoptions) | Represents options for repairing a PDF document. |
 
 ### See Also
 

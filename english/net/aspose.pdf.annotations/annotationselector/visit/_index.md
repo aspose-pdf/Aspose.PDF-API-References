@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.pdf.annotations/annotationselector/visit/
 ---
-## Visit(LinkAnnotation) {#visit_8}
+## Visit(LinkAnnotation) {#visit_9}
 
 Select link annotation if AnnotationSelector was initialized with LinkAnnotation object.
 
@@ -27,7 +27,7 @@ public void Visit(LinkAnnotation link)
 
 ---
 
-## Visit(FileAttachmentAnnotation) {#visit_3}
+## Visit(FileAttachmentAnnotation) {#visit_4}
 
 Select attachment annotation if AnnotationSelector was initialized with FileAttachmentAnnotation object.
 
@@ -48,7 +48,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ---
 
-## Visit(TextAnnotation) {#visit_21}
+## Visit(TextAnnotation) {#visit_24}
 
 Select text annotation if AnnotationSelector was initialized with TextAnnotation object.
 
@@ -69,7 +69,7 @@ public void Visit(TextAnnotation text)
 
 ---
 
-## Visit(RedactionAnnotation) {#visit_14}
+## Visit(RedactionAnnotation) {#visit_16}
 
 Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object.
 
@@ -90,7 +90,7 @@ public void Visit(RedactionAnnotation redact)
 
 ---
 
-## Visit(FreeTextAnnotation) {#visit_4}
+## Visit(FreeTextAnnotation) {#visit_5}
 
 Select freetext annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
 
@@ -111,7 +111,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 ---
 
-## Visit(HighlightAnnotation) {#visit_5}
+## Visit(HighlightAnnotation) {#visit_6}
 
 Select attachment annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
 
@@ -132,7 +132,7 @@ public void Visit(HighlightAnnotation highlight)
 
 ---
 
-## Visit(UnderlineAnnotation) {#visit_22}
+## Visit(UnderlineAnnotation) {#visit_26}
 
 Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object.
 
@@ -153,7 +153,7 @@ public void Visit(UnderlineAnnotation underline)
 
 ---
 
-## Visit(StrikeOutAnnotation) {#visit_20}
+## Visit(StrikeOutAnnotation) {#visit_23}
 
 Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object.
 
@@ -174,7 +174,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ---
 
-## Visit(SquigglyAnnotation) {#visit_18}
+## Visit(SquigglyAnnotation) {#visit_21}
 
 Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object.
 
@@ -195,7 +195,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ---
 
-## Visit(PopupAnnotation) {#visit_13}
+## Visit(PopupAnnotation) {#visit_15}
 
 Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object.
 
@@ -216,7 +216,7 @@ public void Visit(PopupAnnotation popup)
 
 ---
 
-## Visit(LineAnnotation) {#visit_7}
+## Visit(LineAnnotation) {#visit_8}
 
 Select line annotation if AnnotationSelector was initialized with LineAnnotation object.
 
@@ -237,7 +237,7 @@ public void Visit(LineAnnotation line)
 
 ---
 
-## Visit(CircleAnnotation) {#visit_1}
+## Visit(CircleAnnotation) {#visit_2}
 
 Select circle annotation if AnnotationSelector was initialized with CircleAnnotation object.
 
@@ -258,7 +258,7 @@ public void Visit(CircleAnnotation circle)
 
 ---
 
-## Visit(SquareAnnotation) {#visit_17}
+## Visit(SquareAnnotation) {#visit_20}
 
 Select square annotation if AnnotationSelector was initialized with SquareAnnotation object.
 
@@ -279,7 +279,7 @@ public void Visit(SquareAnnotation square)
 
 ---
 
-## Visit(InkAnnotation) {#visit_6}
+## Visit(InkAnnotation) {#visit_7}
 
 Select ink annotation if AnnotationSelector was initialized with InkAnnotation object.
 
@@ -300,7 +300,7 @@ public void Visit(InkAnnotation ink)
 
 ---
 
-## Visit(PolylineAnnotation) {#visit_12}
+## Visit(PolylineAnnotation) {#visit_14}
 
 Select polyline annotation if AnnotationSelector was initialized with PolylineAnnotation object.
 
@@ -321,7 +321,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ---
 
-## Visit(PolygonAnnotation) {#visit_11}
+## Visit(PolygonAnnotation) {#visit_13}
 
 Select polygon annotation if AnnotationSelector was initialized with PolygonAnnotation object.
 
@@ -342,7 +342,7 @@ public void Visit(PolygonAnnotation polygon)
 
 ---
 
-## Visit(CaretAnnotation) {#visit}
+## Visit(CaretAnnotation) {#visit_1}
 
 Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object.
 
@@ -363,7 +363,7 @@ public void Visit(CaretAnnotation caret)
 
 ---
 
-## Visit(StampAnnotation) {#visit_19}
+## Visit(StampAnnotation) {#visit_22}
 
 Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object.
 
@@ -384,7 +384,7 @@ public void Visit(StampAnnotation stamp)
 
 ---
 
-## Visit(WidgetAnnotation) {#visit_24}
+## Visit(WidgetAnnotation) {#visit_28}
 
 Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object.
 
@@ -405,7 +405,7 @@ public void Visit(WidgetAnnotation widget)
 
 ---
 
-## Visit(WatermarkAnnotation) {#visit_23}
+## Visit(WatermarkAnnotation) {#visit_27}
 
 Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object.
 
@@ -426,7 +426,7 @@ public void Visit(WatermarkAnnotation watermark)
 
 ---
 
-## Visit(MovieAnnotation) {#visit_9}
+## Visit(MovieAnnotation) {#visit_10}
 
 Select movie annotation if AnnotationSelector was initialized with MovieAnnotation object.
 
@@ -447,7 +447,7 @@ public void Visit(MovieAnnotation movie)
 
 ---
 
-## Visit(RichMediaAnnotation) {#visit_15}
+## Visit(RichMediaAnnotation) {#visit_18}
 
 Select movie annotation if AnnotationSelector was initialized with RichMedia annotation object.
 
@@ -468,7 +468,7 @@ public void Visit(RichMediaAnnotation richMedia)
 
 ---
 
-## Visit(ScreenAnnotation) {#visit_16}
+## Visit(ScreenAnnotation) {#visit_19}
 
 Select screen annotation if AnnotationSelector was initialized with ScreenAnnotation object.
 
@@ -489,7 +489,7 @@ public void Visit(ScreenAnnotation screen)
 
 ---
 
-## Visit(PDF3DAnnotation) {#visit_10}
+## Visit(PDF3DAnnotation) {#visit_12}
 
 Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object.
 
@@ -510,7 +510,7 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 ---
 
-## Visit(ColorBarAnnotation) {#visit_2}
+## Visit(ColorBarAnnotation) {#visit_3}
 
 Select ColorBar annotation if AnnotationSelector was initialized with ColorBar object.
 
@@ -525,6 +525,90 @@ public void Visit(ColorBarAnnotation colorBar)
 ### See Also
 
 * class [ColorBarAnnotation](../../colorbarannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(TrimMarkAnnotation) {#visit_25}
+
+Selects the *trimMark* if the [`AnnotationSelector`](../) was initialized with a [`TrimMarkAnnotation`](../../trimmarkannotation/) object.
+
+```csharp
+public void Visit(TrimMarkAnnotation trimMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| trimMark | TrimMarkAnnotation | The [`TrimMarkAnnotation`](../../trimmarkannotation/) object for selection. |
+
+### See Also
+
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BleedMarkAnnotation) {#visit}
+
+Selects the *bleedMark* if the [`AnnotationSelector`](../) was initialized with a [`BleedMarkAnnotation`](../../bleedmarkannotation/) object.
+
+```csharp
+public void Visit(BleedMarkAnnotation bleedMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bleedMark | BleedMarkAnnotation | The [`BleedMarkAnnotation`](../../bleedmarkannotation/) object for selection. |
+
+### See Also
+
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(RegistrationMarkAnnotation) {#visit_17}
+
+Selects the *registrationMark* if the [`AnnotationSelector`](../) was initialized with a [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) object.
+
+```csharp
+public void Visit(RegistrationMarkAnnotation registrationMark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| registrationMark | RegistrationMarkAnnotation | The [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) object for selection. |
+
+### See Also
+
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(PageInformationAnnotation) {#visit_11}
+
+Selects the *pageInformation* if the [`AnnotationSelector`](../) was initialized with a [`PageInformationAnnotation`](../../pageinformationannotation/) object.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | The [`PageInformationAnnotation`](../../pageinformationannotation/) object for selection. |
+
+### See Also
+
+* class [PageInformationAnnotation](../../pageinformationannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

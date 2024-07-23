@@ -3,7 +3,7 @@ title: Class ImageDevice
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Devices.ImageDevice class. An abstract class for image devices
 type: docs
-weight: 1770
+weight: 2060
 url: /net/aspose.pdf.devices/imagedevice/
 ---
 ## ImageDevice class

@@ -3,12 +3,12 @@ title: Class Group
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Group class. A group attributes class specifying the attributes of the pages page group for use in the transparent imaging model
 type: docs
-weight: 3390
+weight: 3760
 url: /net/aspose.pdf/group/
 ---
 ## Group class
 
-A group attributes class specifying the attributes of the page’s page group for use in the transparent imaging model.
+A group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
 
 ```csharp
 public sealed class Group

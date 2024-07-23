@@ -3,7 +3,7 @@ title: StructureElement.ChangeParentElement
 second_title: Aspose.PDF for .NET API Reference
 description: StructureElement method. Change parent element for current structure element
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 ---
 ## StructureElement.ChangeParentElement method

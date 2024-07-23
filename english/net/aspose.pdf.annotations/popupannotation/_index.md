@@ -3,7 +3,7 @@ title: Class PopupAnnotation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.PopupAnnotation class. Represents the popup annotation that displays text in a popup window for entry and editing
 type: docs
-weight: 970
+weight: 980
 url: /net/aspose.pdf.annotations/popupannotation/
 ---
 ## PopupAnnotation class
@@ -46,7 +46,7 @@ public sealed class PopupAnnotation : Annotation
 | [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Gets or sets annotation name on the page. |
 | [Open](../../aspose.pdf.annotations/popupannotation/open/) { get; set; } | Gets or sets a flag specifying whether the pop-up annotation should initially be displayed open. |
 | virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex/) { get; } | Gets index of page which contains annotation. |
-| [Parent](../../aspose.pdf.annotations/popupannotation/parent/) { get; set; } | Gets or sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation�s Contents, M, C, and T entries shall override those of the pop-up annotation itself. |
+| [Parent](../../aspose.pdf.annotations/popupannotation/parent/) { get; set; } | Gets or sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation's Contents, M, C, and T entries shall override those of the pop-up annotation itself. |
 | virtual [Rect](../../aspose.pdf.annotations/annotation/rect/) { get; set; } | Gets or sets annotation rectangle. |
 | [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Gets appearance dictionary of annotation. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Gets or sets text alignment for annotation. |

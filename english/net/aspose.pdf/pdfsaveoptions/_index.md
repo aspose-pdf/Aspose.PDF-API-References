@@ -3,7 +3,7 @@ title: Class PdfSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfSaveOptions class. Save options for export to Pdf format
 type: docs
-weight: 6270
+weight: 6640
 url: /net/aspose.pdf/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -24,6 +24,7 @@ public class PdfSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
 | [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that are not available in the document itself and on the device, API replaces this fonts with the default font(if font with [`DefaultFontName`](./defaultfontname/) is found on device) |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |

@@ -3,7 +3,7 @@ title: Layer.Name
 second_title: Aspose.PDF for .NET API Reference
 description: Layer property. Gets the layer name
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf/layer/name/
 ---
 ## Layer.Name property

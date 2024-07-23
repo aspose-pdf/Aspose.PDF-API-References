@@ -3,7 +3,7 @@ title: Class SetDash
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.SetDash class. Class representing d operator set line dash pattern
 type: docs
-weight: 5620
+weight: 5990
 url: /net/aspose.pdf.operators/setdash/
 ---
 ## SetDash class
@@ -25,7 +25,7 @@ public class SetDash : Operator
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Pattern](../../aspose.pdf.operators/setdash/pattern/) { get; set; } | Dash pattern. Array�s elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal. |
+| [Pattern](../../aspose.pdf.operators/setdash/pattern/) { get; set; } | Dash pattern. Array's elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal. |
 | [Phase](../../aspose.pdf.operators/setdash/phase/) { get; set; } | Dash phase. Before beginning to stroke a path, the dash array shall be cycled through, adding up the lengths of dashes and gaps. When the accumulated length equals the value specified by the dash phase, stroking of the path shall begin, and the dash array shall be used cyclically from that point onward. |
 
 ## Methods

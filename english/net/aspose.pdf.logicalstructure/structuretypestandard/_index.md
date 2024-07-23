@@ -3,7 +3,7 @@ title: Class StructureTypeStandard
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.StructureTypeStandard class. Represents Standard Structure Types
 type: docs
-weight: 4680
+weight: 5050
 url: /net/aspose.pdf.logicalstructure/structuretypestandard/
 ---
 ## StructureTypeStandard class
@@ -76,7 +76,7 @@ public sealed class StructureTypeStandard
 | static readonly [TH](../../aspose.pdf.logicalstructure/structuretypestandard/th/) | (Table header cell) A table cell containing header text describing one or more rows or columns of the table. |
 | static readonly [THead](../../aspose.pdf.logicalstructure/structuretypestandard/thead/) | (Table header row group; PDF 1.5) A group of rows that constitute the header of a table. If the table is split across multiple pages, these rows may be redrawn at the top of each table fragment (although there is only one THead element). |
 | static readonly [TOC](../../aspose.pdf.logicalstructure/structuretypestandard/toc/) | (Table of contents) A list made up of table of contents item entries (structure type TOCI) and/or other nested table of contents entries (TOC). |
-| static readonly [TOCI](../../aspose.pdf.logicalstructure/structuretypestandard/toci/) | (Table of contents item) An individual member of a table of contents. This entry’s children may be any of the following structure types: |
+| static readonly [TOCI](../../aspose.pdf.logicalstructure/structuretypestandard/toci/) | (Table of contents item) An individual member of a table of contents. This entry's children may be any of the following structure types: |
 | static readonly [TR](../../aspose.pdf.logicalstructure/structuretypestandard/tr/) | (Table row) A row of headings or data in a table. It may contain table header cells and table data cells (structure types TH and TD). |
 | static readonly [Warichu](../../aspose.pdf.logicalstructure/structuretypestandard/warichu/) | (Warichu; PDF 1.5) A comment or annotation in a smaller text size and formatted onto two smaller lines within the height of the containing text line and placed following (inline) the base text to which it refers. A Warichu element may also contain the WT and WP elements. |
 | static readonly [WP](../../aspose.pdf.logicalstructure/structuretypestandard/wp/) | (Warichu punctuation) The punctuation that surrounds the WT text. It contains text (usually a single LEFT or RIGHT PARENTHESIS or similar bracketing character). According to JIS X 4051-1995, the parentheses surrounding a warichu may be converted to a SPACE (nominally 1/4 EM in width) at the discretion of the formatter. |

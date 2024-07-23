@@ -3,12 +3,12 @@ title: Enum CaptionPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Annotations.CaptionPosition enum. Enumeration of the annotations caption positioning
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.pdf.annotations/captionposition/
 ---
 ## CaptionPosition enumeration
 
-Enumeration of the annotation�s caption positioning.
+Enumeration of the annotation's caption positioning.
 
 ```csharp
 public enum CaptionPosition

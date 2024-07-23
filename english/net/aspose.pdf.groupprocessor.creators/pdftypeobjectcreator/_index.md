@@ -3,7 +3,7 @@ title: Class PdfTypeObjectCreator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.GroupProcessor.Creators.PdfTypeObjectCreator class. Represents an creator of IPdfTypeExtractor object
 type: docs
-weight: 3400
+weight: 3770
 url: /net/aspose.pdf.groupprocessor.creators/pdftypeobjectcreator/
 ---
 ## PdfTypeObjectCreator class

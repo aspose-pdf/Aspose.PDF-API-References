@@ -3,7 +3,7 @@ title: Matrix.Transform
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix method. Transforms point using this matrix
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.pdf/matrix/transform/
 ---
 ## Transform(Point) {#transform}

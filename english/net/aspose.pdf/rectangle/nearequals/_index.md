@@ -3,7 +3,7 @@ title: Rectangle.NearEquals
 second_title: Aspose.PDF for .NET API Reference
 description: Rectangle method. Check if rectangles are near equal i.e. have near same up to delta position and sizes
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.pdf/rectangle/nearequals/
 ---
 ## Rectangle.NearEquals method

@@ -3,7 +3,7 @@ title: GraphicsAbsorber.Visit
 second_title: Aspose.PDF for .NET API Reference
 description: GraphicsAbsorber method. Performs search on the specified page
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.pdf.vector/graphicsabsorber/visit/
 ---
 ## GraphicsAbsorber.Visit method
