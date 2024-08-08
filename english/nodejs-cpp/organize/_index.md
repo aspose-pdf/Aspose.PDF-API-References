@@ -34,6 +34,8 @@ url: /nodejs-cpp/organize/
 | [AsposePdfFindText](./asposepdffindtext/) | Find text in a PDF-file. |
 | [AsposePdfReplaceFont](./asposepdfreplacefont/) | Replace font in a PDF-file. |
 | [AsposePdfValidatePDFA](./asposepdfvalidatepdfa/) | Validate PDF/A compatibility a PDF-file. |
+| [AsposePdfFindHiddenText](./asposepdffindhiddentext/) | Find hidden text in a PDF-file. |
+| [AsposePdfDeleteHiddenText](./asposepdfdeletehiddentext/) | Delete hidden text from a PDF-file. |
 
 
 ## Detailed Description
