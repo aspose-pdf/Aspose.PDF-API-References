@@ -80,6 +80,8 @@ Such operations are very time consuming, so we recommend using Web Worker.
 | [AsposePdfFindText](./organize/asposepdffindtext/) | Find text in a PDF-file. |
 | [AsposePdfReplaceFont](./organize/asposepdfreplacefont/) | Replace font in a PDF-file. |
 | [AsposePdfValidatePDFA](./organize/asposepdfvalidatepdfa/) | Validate PDF/A compatibility a PDF-file. |
+| [AsposePdfFindHiddenText](./organize/asposepdffindhiddentext/) | Find hidden text in a PDF-file. |
+| [AsposePdfDeleteHiddenText](./organize/asposepdfdeletehiddentext/) | Delete hidden text from a PDF-file. |
 
 
 ## Metadata PDF functions
