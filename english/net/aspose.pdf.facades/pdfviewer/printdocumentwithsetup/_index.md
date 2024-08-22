@@ -3,7 +3,7 @@ title: PdfViewer.PrintDocumentWithSetup
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Prints the Pdf document with a setup dialog. Choose a printer using the dialog
 type: docs
-weight: 320
+weight: 340
 url: /net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
 ## PdfViewer.PrintDocumentWithSetup method

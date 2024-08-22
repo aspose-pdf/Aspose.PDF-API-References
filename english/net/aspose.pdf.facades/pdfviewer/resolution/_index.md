@@ -14,6 +14,10 @@ Gets or sets resolution during viewing and printing. The higher resolution, the 
 public int Resolution { get; set; }
 ```
 
+## Remarks
+
+This property changes the image resolution in page-to-image conversion flows: when the [`PrintAsImage`](../printasimage/) is set to `true`, or when [`DecodePage`](../decodepage/) or [`DecodeAllPages`](../decodeallpages/) method is called. To set a printer resolution for direct printing to a printer, use the [`PrinterResolution`](../../../aspose.pdf.printing/pagesettings/printerresolution/) property in the [`PageSettings`](../../../aspose.pdf.printing/pagesettings/) class.
+
 ### See Also
 
 * class [PdfViewer](../)

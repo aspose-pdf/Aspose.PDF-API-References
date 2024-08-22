@@ -3,7 +3,7 @@ title: PdfViewer.PrintDocument
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Prints the Pdf document using default printer
 type: docs
-weight: 300
+weight: 320
 url: /net/aspose.pdf.facades/pdfviewer/printdocument/
 ---
 ## PdfViewer.PrintDocument method

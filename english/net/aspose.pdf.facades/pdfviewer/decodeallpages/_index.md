@@ -3,7 +3,7 @@ title: PdfViewer.DecodeAllPages
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Get pages of current pdf file
 type: docs
-weight: 250
+weight: 270
 url: /net/aspose.pdf.facades/pdfviewer/decodeallpages/
 ---
 ## PdfViewer.DecodeAllPages method

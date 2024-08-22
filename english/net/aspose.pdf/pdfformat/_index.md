@@ -40,6 +40,9 @@ public enum PdfFormat
 | PDF_X_1A | `19` |  |
 | PDF_X_3 | `20` |  |
 | ZUGFeRD | `21` | ZUGFeRD format |
+| PDF_A_4 | `22` | PDF/A-4 format |
+| PDF_A_4E | `23` | PDF/A-4e format |
+| PDF_A_4F | `24` | PDF/A-4f format |
 
 ### See Also
 

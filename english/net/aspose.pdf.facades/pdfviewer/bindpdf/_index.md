@@ -3,7 +3,7 @@ title: PdfViewer.BindPdf
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Initializes the facade
 type: docs
-weight: 230
+weight: 250
 url: /net/aspose.pdf.facades/pdfviewer/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}

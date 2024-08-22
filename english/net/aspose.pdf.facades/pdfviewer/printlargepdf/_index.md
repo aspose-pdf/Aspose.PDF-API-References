@@ -3,7 +3,7 @@ title: PdfViewer.PrintLargePdf
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Opens and prints a large Pdf file. If your Pdf file has hundreds of pages or more or its size is more than 3 MB this method is recommended to get better performance
 type: docs
-weight: 330
+weight: 350
 url: /net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
