@@ -26,6 +26,7 @@ public sealed class PaperSource
 | Name | Description |
 | --- | --- |
 | [Kind](../../aspose.pdf.printing/papersource/kind/) { get; set; } | Gets or sets a value indicating the type of paper source. |
+| [RawKind](../../aspose.pdf.printing/papersource/rawkind/) { get; set; } | Same as [`Kind`](./kind/), but values larger than DMBIN_USER do not map to Custom. |
 | [SourceName](../../aspose.pdf.printing/papersource/sourcename/) { get; set; } | Gets or sets the name of the paper source. |
 
 ## Methods

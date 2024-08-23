@@ -3,7 +3,7 @@ title: PdfViewer.GetDefaultPageSettings
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Gets the default page settings
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/
 ---
 ## PdfViewer.GetDefaultPageSettings method

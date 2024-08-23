@@ -3,7 +3,7 @@ title: PaperSource.ToString
 second_title: Aspose.PDF for .NET API Reference
 description: PaperSource method. Provides some interesting information about the PaperSource in String form
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.pdf.printing/papersource/tostring/
 ---
 ## PaperSource.ToString method

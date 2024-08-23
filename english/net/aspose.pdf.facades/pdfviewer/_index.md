@@ -75,8 +75,10 @@ public sealed class PdfViewer : IFacade
 | Name | Description |
 | --- | --- |
 | event [CustomPrint](../../aspose.pdf.facades/pdfviewer/customprint/) | Occurs before printing starts and allows to provide custom print handlers instead of the default one. |
+| event [EndPage](../../aspose.pdf.facades/pdfviewer/endpage/) | Occurs when the printing of a page ends in the PdfViewer. |
 | event [EndPrint](../../aspose.pdf.facades/pdfviewer/endprint/) | Adds/removes subscription on the last page printing event. |
 | event [PdfQueryPageSettings](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) | Adds/removes subscription on the last page printing event. |
+| event [StartPage](../../aspose.pdf.facades/pdfviewer/startpage/) | Occurs before a page starts to print. |
 
 ### See Also
 

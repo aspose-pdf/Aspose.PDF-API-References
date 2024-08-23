@@ -3,7 +3,7 @@ title: PdfViewer.PrintDocumentWithSettings
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Prints the Pdf document with settings. If the document size does not correspond to page size it will be extended to fit page size
 type: docs
-weight: 310
+weight: 330
 url: /net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}

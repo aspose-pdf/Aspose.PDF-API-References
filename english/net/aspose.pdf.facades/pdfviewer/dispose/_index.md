@@ -3,7 +3,7 @@ title: PdfViewer.Dispose
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Disposes the facade resources
 type: docs
-weight: 270
+weight: 290
 url: /net/aspose.pdf.facades/pdfviewer/dispose/
 ---
 ## PdfViewer.Dispose method

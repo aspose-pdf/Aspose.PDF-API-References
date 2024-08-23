@@ -3,7 +3,7 @@ title: Class RgbToDeviceGrayConversionStrategy
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.RgbToDeviceGrayConversionStrategy class. Represents rgb to device gray color spaces conversion strategy
 type: docs
-weight: 7070
+weight: 7080
 url: /net/aspose.pdf/rgbtodevicegrayconversionstrategy/
 ---
 ## RgbToDeviceGrayConversionStrategy class

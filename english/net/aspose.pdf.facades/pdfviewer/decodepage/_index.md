@@ -3,7 +3,7 @@ title: PdfViewer.DecodePage
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer method. Decodes a page of one Pdf file
 type: docs
-weight: 260
+weight: 280
 url: /net/aspose.pdf.facades/pdfviewer/decodepage/
 ---
 ## PdfViewer.DecodePage method

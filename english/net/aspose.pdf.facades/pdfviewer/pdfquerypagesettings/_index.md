@@ -3,7 +3,7 @@ title: PdfViewer.PdfQueryPageSettings
 second_title: Aspose.PDF for .NET API Reference
 description: PdfViewer event. Adds/removes subscription on the last page printing event
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.pdf.facades/pdfviewer/pdfquerypagesettings/
 ---
 ## PdfViewer.PdfQueryPageSettings event

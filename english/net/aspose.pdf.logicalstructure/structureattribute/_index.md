@@ -43,6 +43,7 @@ public class StructureAttribute
 | [SetNumberValue](../../aspose.pdf.logicalstructure/structureattribute/setnumbervalue/)(double) | Sets Value Number. |
 | [SetRectangleValue](../../aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/)(Rectangle) | Sets Value Rectangle. |
 | [SetStringValue](../../aspose.pdf.logicalstructure/structureattribute/setstringvalue/)(string) | Sets Value String. |
+| override [ToString](../../aspose.pdf.logicalstructure/structureattribute/tostring/)() |  |
 
 ### See Also
 

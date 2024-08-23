@@ -21,6 +21,7 @@ url: /net/aspose.pdf.printing/
 | [PdfQueryPageSettingsEventArgs](./pdfquerypagesettingseventargs/) | Provides data for the [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) event. |
 | [PrinterResolution](./printerresolution/) | Represents the resolution supported by a printer. |
 | [PrinterSettings](./printersettings/) | Specifies information about how a document is printed, including the printer that prints it. |
+| [StartEndPageEventArgs](./startendpageeventargs/) | Provides data for the [`StartPage`](../aspose.pdf.facades/pdfviewer/startpage/) and [`EndPage`](../aspose.pdf.facades/pdfviewer/endpage/) events of the [`PdfViewer`](../aspose.pdf.facades/pdfviewer/) class. |
 ## Enumeration
 
 | Enumeration | Description |

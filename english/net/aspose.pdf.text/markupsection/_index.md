@@ -3,7 +3,7 @@ title: Class MarkupSection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.MarkupSection class. Represents a markup section  the rectangular region of a page that contains text and can be visually divided from another text blocks
 type: docs
-weight: 7690
+weight: 7700
 url: /net/aspose.pdf.text/markupsection/
 ---
 ## MarkupSection class
