@@ -14,6 +14,8 @@ url: /javascript-cpp/metadata/
 | [AsposePdfGetInfo](./asposepdfgetinfo/) | Get info (metadata) from a PDF-file. |
 | [AsposePdfGetAllFonts](./asposepdfgetallfonts/) | Get list fonts from a PDF-file. |
 | [AsposePdfRemoveMetadata](./asposepdfremovemetadata/) | Remove metadata from a PDF-file. |
+| [AsposePdfGetWordsCharactersCount](./asposepdfgetwordscharacterscount/) | Get words and characters count in a PDF-file. |
+
 
 ## Detailed Description
 
