@@ -1,0 +1,29 @@
+---
+title: Aspose::Pdf::Color::get_SlateBlue method
+linktitle: get_SlateBlue
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Color::get_SlateBlue method. Gets a system-defined color that has an ARGB value of #FF6A5ACD in C++.'
+type: docs
+weight: 13500
+url: /cpp/aspose.pdf/color/get_slateblue/
+---
+## Color::get_SlateBlue method
+
+
+Gets a system-defined color that has an ARGB value of **#FF6A5ACD**.
+
+```cpp
+static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_SlateBlue()
+```
+
+
+### ReturnValue
+
+A representing a system-defined color.
+
+## See Also
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

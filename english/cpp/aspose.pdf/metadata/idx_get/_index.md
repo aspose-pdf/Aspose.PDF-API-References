@@ -1,0 +1,45 @@
+---
+title: Aspose::Pdf::Metadata::idx_get method
+linktitle: idx_get
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Metadata::idx_get method. Gets data from metadata in C++.'
+type: docs
+weight: 1800
+url: /cpp/aspose.pdf/metadata/idx_get/
+---
+## Metadata::idx_get method
+
+
+Gets data from metadata.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<XmpValue> Aspose::Pdf::Metadata::idx_get(const System::String &key) const override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | const System::String\& | The key name. |
+
+### ReturnValue
+
+[Metadata](../) object.
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>key</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The key name.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [XmpValue](../../xmpvalue/)
+* Class [Metadata](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

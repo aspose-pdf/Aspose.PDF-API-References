@@ -1,0 +1,32 @@
+---
+title: Aspose::Pdf::Facades::PdfFileSecurity::get_AllowExceptions method
+linktitle: get_AllowExceptions
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Facades::PdfFileSecurity::get_AllowExceptions method. If this value set to true, exception will be thrown on opearation failure. Else, method returns false on failure and last exception can be checked with LastException property in C++.'
+type: docs
+weight: 500
+url: /cpp/aspose.pdf.facades/pdffilesecurity/get_allowexceptions/
+---
+## PdfFileSecurity::get_AllowExceptions method
+
+
+If this value set to true, exception will be thrown on opearation failure. Else, method returns false on failure and last exception can be checked with LastException property.
+
+```cpp
+ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSecurity::get_AllowExceptions()
+```
+
+## Remarks
+
+
+<xrefsect id="deprecated_1_deprecated000073">
+  <xreftitle>Deprecated</xreftitle>
+  <xrefdescription>
+    <para>This property is deprecated and can not be used to allow throwing exceptions. </para>
+  </xrefdescription>
+</xrefsect>
+## See Also
+
+* Class [PdfFileSecurity](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)

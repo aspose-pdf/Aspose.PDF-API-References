@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::PsLoadOptions::set_FontsFolders method
+linktitle: set_FontsFolders
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::PsLoadOptions::set_FontsFolders method. Sets fonts folders paths in C++.'
+type: docs
+weight: 200
+url: /cpp/aspose.pdf/psloadoptions/set_fontsfolders/
+---
+## PsLoadOptions::set_FontsFolders method
+
+
+Sets fonts folders paths.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::PsLoadOptions::set_FontsFolders(System::ArrayPtr<System::String> value)
+```
+
+## See Also
+
+* Class [PsLoadOptions](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

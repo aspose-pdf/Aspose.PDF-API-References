@@ -1,0 +1,31 @@
+---
+title: Aspose::Pdf::Text::TextBuilder class
+linktitle: TextBuilder
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Text::TextBuilder class. Appends text object to Pdf page in C++.'
+type: docs
+weight: 3600
+url: /cpp/aspose.pdf.text/textbuilder/
+---
+## TextBuilder class
+
+
+Appends text object to [Pdf](../../aspose.pdf/) page.
+
+```cpp
+class TextBuilder : public System::Object
+```
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [AppendParagraph](./appendparagraph/)(System::SharedPtr\<TextParagraph\>) | Appends text paragraph to [Pdf](../../aspose.pdf/) page. |
+| [AppendText](./appendtext/)(System::SharedPtr\<TextFragment\>) | Appends text fragment to [Pdf](../../aspose.pdf/) page. |
+| [AppendText](./appendtext/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<TextFragment\>\>\>) | /// |
+| [TextBuilder](./textbuilder/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Initializes a new instance of [TextBuilder](./) class for the [Pdf](../../aspose.pdf/) page. |
+| [TextBuilder](./textbuilder/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<BaseOperatorCollection\>) | Initializes a new instance of [TextBuilder](./) class for the [Pdf](../../aspose.pdf/) page. |
+## See Also
+
+* Namespace [Aspose::Pdf::Text](../)
+* Library [Aspose.PDF for C++](../../)

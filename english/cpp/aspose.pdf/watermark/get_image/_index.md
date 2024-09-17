@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Watermark::get_Image method
+linktitle: get_Image
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Watermark::get_Image method. Gets an image of the watermark in C++.'
+type: docs
+weight: 100
+url: /cpp/aspose.pdf/watermark/get_image/
+---
+## Watermark::get_Image method
+
+
+Gets an image of the watermark.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<System::Drawing::Image> Aspose::Pdf::Watermark::get_Image() const
+```
+
+## See Also
+
+* Class [Watermark](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

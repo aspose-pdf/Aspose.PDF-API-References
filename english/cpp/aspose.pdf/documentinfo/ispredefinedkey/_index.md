@@ -1,0 +1,44 @@
+---
+title: Aspose::Pdf::DocumentInfo::IsPredefinedKey method
+linktitle: IsPredefinedKey
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::DocumentInfo::IsPredefinedKey method. Determines if the key is predefined (Title, Author, etc.), not custom in C++.'
+type: docs
+weight: 3100
+url: /cpp/aspose.pdf/documentinfo/ispredefinedkey/
+---
+## DocumentInfo::IsPredefinedKey method
+
+
+Determines if the key is predefined (Title, Author, etc.), not custom.
+
+```cpp
+static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::DocumentInfo::IsPredefinedKey(System::String key)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | System::String | Selected key |
+
+### ReturnValue
+
+True in case the key is predefined.
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>key</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>Selected key</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [DocumentInfo](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

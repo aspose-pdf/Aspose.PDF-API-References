@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Annotations::PolyIntentConverter::ToString method
+linktitle: ToString
+second_title: Aspose.PDF for C++ API Reference
+description: 'How to use ToString method of Aspose::Pdf::Annotations::PolyIntentConverter class in C++.'
+type: docs
+weight: 100
+url: /cpp/aspose.pdf.annotations/polyintentconverter/tostring/
+---
+## PolyIntentConverter::ToString method
+
+
+
+
+```cpp
+static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::PolyIntentConverter::ToString(PolyIntent value)
+```
+
+## See Also
+
+* Enum [PolyIntent](../../polyintent/)
+* Class [PolyIntentConverter](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)

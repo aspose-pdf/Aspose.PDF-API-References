@@ -1,0 +1,30 @@
+---
+title: Aspose::Pdf::PdfToMarkdown::LineBreakStyle enum
+linktitle: LineBreakStyle
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::PdfToMarkdown::LineBreakStyle enum. Represents the possible line break styles for a file in C++.'
+type: docs
+weight: 600
+url: /cpp/aspose.pdf.pdftomarkdown/linebreakstyle/
+---
+## LineBreakStyle enum
+
+
+Represents the possible line break styles for a file.
+
+```cpp
+enum class LineBreakStyle
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Windows | 0 | Selects the Windows string wrap style(CRLF). |
+| Unix | 1 | Select the Unix string wrap style(LF). Also used for OSX. |
+| Auto | 2 | Automatically select the type of string wrapping based on the operating system. |
+
+## See Also
+
+* Namespace [Aspose::Pdf::PdfToMarkdown](../)
+* Library [Aspose.PDF for C++](../../)

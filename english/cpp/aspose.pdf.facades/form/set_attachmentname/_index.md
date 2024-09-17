@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Facades::Form::set_AttachmentName method
+linktitle: set_AttachmentName
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Facades::Form::set_AttachmentName method. Sets name of attachment when result of operation is stored into HttpResponse objects as attachment in C++.'
+type: docs
+weight: 2000
+url: /cpp/aspose.pdf.facades/form/set_attachmentname/
+---
+## Form::set_AttachmentName method
+
+
+Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Form::set_AttachmentName(System::String value)
+```
+
+## See Also
+
+* Class [Form](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)

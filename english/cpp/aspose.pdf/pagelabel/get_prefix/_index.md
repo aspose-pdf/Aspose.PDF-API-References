@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::PageLabel::get_Prefix method
+linktitle: get_Prefix
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::PageLabel::get_Prefix method. Gets page number prefix in C++.'
+type: docs
+weight: 500
+url: /cpp/aspose.pdf/pagelabel/get_prefix/
+---
+## PageLabel::get_Prefix method
+
+
+Gets page number prefix.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::PageLabel::get_Prefix()
+```
+
+## See Also
+
+* Class [PageLabel](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

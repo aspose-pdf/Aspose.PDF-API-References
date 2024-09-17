@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Artifact::set_Text method
+linktitle: set_Text
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Artifact::set_Text method. Gets text of the artifact in C++.'
+type: docs
+weight: 2900
+url: /cpp/aspose.pdf/artifact/set_text/
+---
+## Artifact::set_Text method
+
+
+Gets text of the artifact.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Artifact::set_Text(System::String value)
+```
+
+## See Also
+
+* Class [Artifact](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

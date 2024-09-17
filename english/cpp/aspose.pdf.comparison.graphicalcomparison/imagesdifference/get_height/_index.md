@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::get_Height method
+linktitle: get_Height
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::get_Height method. The height of difference in C++.'
+type: docs
+weight: 400
+url: /cpp/aspose.pdf.comparison.graphicalcomparison/imagesdifference/get_height/
+---
+## ImagesDifference::get_Height method
+
+
+The height of difference.
+
+```cpp
+ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::get_Height() const
+```
+
+## See Also
+
+* Class [ImagesDifference](../)
+* Namespace [Aspose::Pdf::Comparison::GraphicalComparison](../../)
+* Library [Aspose.PDF for C++](../../../)

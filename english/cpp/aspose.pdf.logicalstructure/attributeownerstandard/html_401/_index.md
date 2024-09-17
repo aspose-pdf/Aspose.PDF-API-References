@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Html_401 method
+linktitle: Html_401
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Html_401 method. HTML-4.01 attribute owner in C++.'
+type: docs
+weight: 900
+url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/html_401/
+---
+## AttributeOwnerStandard::Html_401 method
+
+
+HTML-4.01 attribute owner.
+
+```cpp
+static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Html_401()
+```
+
+## See Also
+
+* Class [AttributeOwnerStandard](../)
+* Class [AttributeOwnerStandard](../)
+* Namespace [Aspose::Pdf::LogicalStructure](../../)
+* Library [Aspose.PDF for C++](../../../)

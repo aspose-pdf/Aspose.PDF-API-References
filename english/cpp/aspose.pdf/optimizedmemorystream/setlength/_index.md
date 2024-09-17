@@ -1,0 +1,40 @@
+---
+title: Aspose::Pdf::OptimizedMemoryStream::SetLength method
+linktitle: SetLength
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::OptimizedMemoryStream::SetLength method. When overridden in a derived class, sets the length of the current stream in C++.'
+type: docs
+weight: 1600
+url: /cpp/aspose.pdf/optimizedmemorystream/setlength/
+---
+## OptimizedMemoryStream::SetLength method
+
+
+When overridden in a derived class, sets the length of the current stream.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::OptimizedMemoryStream::SetLength(int64_t value) override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int64_t | The desired length of the current stream in bytes. |
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>value</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The desired length of the current stream in bytes.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [OptimizedMemoryStream](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

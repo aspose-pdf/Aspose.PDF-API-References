@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Forms::XFA::get_NamespaceManager method
+linktitle: get_NamespaceManager
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Forms::XFA::get_NamespaceManager method. Gets the namespace for the XFA form. The following namepsaces are defined: "data" for form data and "tpl" for form template in C++.'
+type: docs
+weight: 700
+url: /cpp/aspose.pdf.forms/xfa/get_namespacemanager/
+---
+## XFA::get_NamespaceManager method
+
+
+Gets the namespace for the [XFA](../) form. The following namepsaces are defined: "data" for form data and "tpl" for form template.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlNamespaceManager> Aspose::Pdf::Forms::XFA::get_NamespaceManager()
+```
+
+## See Also
+
+* Class [XFA](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)

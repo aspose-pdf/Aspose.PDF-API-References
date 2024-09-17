@@ -1,0 +1,29 @@
+---
+title: Aspose::Pdf::XmpValue::ToNamedValues method
+linktitle: ToNamedValues
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::XmpValue::ToNamedValues method. Returns XMP value as named value collection in C++.'
+type: docs
+weight: 2100
+url: /cpp/aspose.pdf/xmpvalue/tonamedvalues/
+---
+## XmpValue::ToNamedValues method
+
+
+Returns XMP value as named value collection.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::ArrayPtr<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>>> Aspose::Pdf::XmpValue::ToNamedValues()
+```
+
+
+### ReturnValue
+
+Named collection value.
+
+## See Also
+
+* Class [XmpValue](../)
+* Class [XmpValue](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

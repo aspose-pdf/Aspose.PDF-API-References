@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Text::TextEditOptions::set_NoCharacterBehavior method
+linktitle: set_NoCharacterBehavior
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Text::TextEditOptions::set_NoCharacterBehavior method. Sets mode that defines behavior in case fonts don''t contain requested characters in C++.'
+type: docs
+weight: 400
+url: /cpp/aspose.pdf.text/texteditoptions/set_nocharacterbehavior/
+---
+## TextEditOptions::set_NoCharacterBehavior method
+
+
+Sets mode that defines behavior in case fonts don't contain requested characters.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextEditOptions::set_NoCharacterBehavior(TextEditOptions::NoCharacterAction value)
+```
+
+## See Also
+
+* Class [TextEditOptions](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)

@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Row::set_Border method
+linktitle: set_Border
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Row::set_Border method. Sets the border in C++.'
+type: docs
+weight: 400
+url: /cpp/aspose.pdf/row/set_border/
+---
+## Row::set_Border method
+
+
+Sets the border.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Row::set_Border(System::SharedPtr<BorderInfo> value)
+```
+
+## See Also
+
+* Class [BorderInfo](../../borderinfo/)
+* Class [Row](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Forms::Field::get_Value method
+linktitle: get_Value
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Forms::Field::get_Value method. Gets value of the field in C++.'
+type: docs
+weight: 700
+url: /cpp/aspose.pdf.forms/field/get_value/
+---
+## Field::get_Value method
+
+
+Gets value of the field.
+
+```cpp
+virtual ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::Field::get_Value()
+```
+
+## See Also
+
+* Class [Field](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)

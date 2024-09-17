@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Id::get_Original method
+linktitle: get_Original
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Id::get_Original method. Permanent identifier based on the contents of the document at the time it was originally created in C++.'
+type: docs
+weight: 100
+url: /cpp/aspose.pdf/id/get_original/
+---
+## Id::get_Original method
+
+
+Permanent identifier based on the contents of the document at the time it was originally created.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Id::get_Original() const
+```
+
+## See Also
+
+* Class [Id](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

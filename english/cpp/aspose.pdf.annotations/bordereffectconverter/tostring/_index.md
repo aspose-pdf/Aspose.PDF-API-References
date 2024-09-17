@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Annotations::BorderEffectConverter::ToString method
+linktitle: ToString
+second_title: Aspose.PDF for C++ API Reference
+description: 'How to use ToString method of Aspose::Pdf::Annotations::BorderEffectConverter class in C++.'
+type: docs
+weight: 100
+url: /cpp/aspose.pdf.annotations/bordereffectconverter/tostring/
+---
+## BorderEffectConverter::ToString method
+
+
+
+
+```cpp
+static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::BorderEffectConverter::ToString(BorderEffect value)
+```
+
+## See Also
+
+* Enum [BorderEffect](../../bordereffect/)
+* Class [BorderEffectConverter](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)

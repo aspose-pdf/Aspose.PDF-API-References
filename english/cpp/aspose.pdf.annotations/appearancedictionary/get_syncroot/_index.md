@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Annotations::AppearanceDictionary::get_SyncRoot method
+linktitle: get_SyncRoot
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Annotations::AppearanceDictionary::get_SyncRoot method. Gets an object that can be used to synchronize access to the dictionary in C++.'
+type: docs
+weight: 600
+url: /cpp/aspose.pdf.annotations/appearancedictionary/get_syncroot/
+---
+## AppearanceDictionary::get_SyncRoot method
+
+
+Gets an object that can be used to synchronize access to the dictionary.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Annotations::AppearanceDictionary::get_SyncRoot() const
+```
+
+## See Also
+
+* Class [AppearanceDictionary](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)

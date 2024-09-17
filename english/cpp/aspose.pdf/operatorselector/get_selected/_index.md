@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::OperatorSelector::get_Selected method
+linktitle: get_Selected
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::OperatorSelector::get_Selected method. The list of selected objects in C++.'
+type: docs
+weight: 100
+url: /cpp/aspose.pdf/operatorselector/get_selected/
+---
+## OperatorSelector::get_Selected method
+
+
+The list of selected objects.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Operator>>> Aspose::Pdf::OperatorSelector::get_Selected() const
+```
+
+## See Also
+
+* Class [Operator](../../operator/)
+* Class [OperatorSelector](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

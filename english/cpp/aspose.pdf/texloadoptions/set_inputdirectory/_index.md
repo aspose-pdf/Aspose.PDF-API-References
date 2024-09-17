@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::TeXLoadOptions::set_InputDirectory method
+linktitle: set_InputDirectory
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::TeXLoadOptions::set_InputDirectory method. Gets/sets TeX input directory in C++.'
+type: docs
+weight: 400
+url: /cpp/aspose.pdf/texloadoptions/set_inputdirectory/
+---
+## TeXLoadOptions::set_InputDirectory method
+
+
+Gets/sets TeX input directory.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::TeXLoadOptions::set_InputDirectory(System::SharedPtr<ITeXInputDirectory> value)
+```
+
+## See Also
+
+* Class [ITeXInputDirectory](../../itexinputdirectory/)
+* Class [TeXLoadOptions](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

@@ -1,0 +1,45 @@
+---
+title: Aspose::Pdf::XFormCollection::GetFormName method
+linktitle: GetFormName
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::XFormCollection::GetFormName method. Returns name of the form in this form collection in C++.'
+type: docs
+weight: 1000
+url: /cpp/aspose.pdf/xformcollection/getformname/
+---
+## XFormCollection::GetFormName method
+
+
+Returns name of the form in this form collection.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XFormCollection::GetFormName(System::SharedPtr<XForm> form)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| form | System::SharedPtr\<XForm\> | Form which name is searched. |
+
+### ReturnValue
+
+Form name in the collection; Null if form is not contained in the collection.
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>form</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>Form which name is searched.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [XForm](../../xform/)
+* Class [XFormCollection](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Heading::set_DestinationPage method
+linktitle: set_DestinationPage
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Heading::set_DestinationPage method. Gets the destination page in C++.'
+type: docs
+weight: 1200
+url: /cpp/aspose.pdf/heading/set_destinationpage/
+---
+## Heading::set_DestinationPage method
+
+
+Gets the destination page.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Heading::set_DestinationPage(System::SharedPtr<Aspose::Pdf::Page> value)
+```
+
+## See Also
+
+* Class [Page](../../page/)
+* Class [Heading](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
