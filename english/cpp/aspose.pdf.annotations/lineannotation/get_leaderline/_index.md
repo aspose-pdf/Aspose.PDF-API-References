@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_leaderline/
 Gets leader line length.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLine()
+double Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLine()
 ```
 
 ## See Also

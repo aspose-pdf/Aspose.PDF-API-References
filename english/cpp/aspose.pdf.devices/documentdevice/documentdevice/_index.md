@@ -4,7 +4,7 @@ linktitle: DocumentDevice
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use DocumentDevice constructor of Aspose::Pdf::Devices::DocumentDevice class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.devices/documentdevice/documentdevice/
 ---
 ## DocumentDevice::DocumentDevice constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/documentdevice/documentdevice/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Devices::DocumentDevice::DocumentDevice()
+Aspose::Pdf::Devices::DocumentDevice::DocumentDevice()
 ```
 
 ## See Also

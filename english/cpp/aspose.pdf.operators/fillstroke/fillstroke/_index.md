@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/fillstroke/fillstroke/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::FillStroke::FillStroke()
+Aspose::Pdf::Operators::FillStroke::FillStroke()
 ```
 
 ## See Also

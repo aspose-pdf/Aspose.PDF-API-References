@@ -4,7 +4,7 @@ linktitle: get_Path
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionErrorLocation::get_Path method. Location of the PDF document where text extraction error has appeared in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.pdf.text/textextractionerrorlocation/get_path/
 ---
 ## TextExtractionErrorLocation::get_Path method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerrorlocation/get_path/
 Location of the PDF document where text extraction error has appeared.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextExtractionErrorLocation::get_Path() const
+System::String Aspose::Pdf::Text::TextExtractionErrorLocation::get_Path() const
 ```
 
 ## See Also

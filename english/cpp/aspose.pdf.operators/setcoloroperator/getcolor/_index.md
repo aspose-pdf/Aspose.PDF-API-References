@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcoloroperator/getcolor/
 Retirns color specified by the operator.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Operators::SetColorOperator::getColor()=0
+virtual System::Drawing::Color Aspose::Pdf::Operators::SetColorOperator::getColor()=0
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_IsSynchronized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::get_IsSynchronized method. Returns true of object is synchorinzed in C++.'
 type: docs
-weight: 200
+weight: 1200
 url: /cpp/aspose.pdf/pagecollection/get_issynchronized/
 ---
 ## PageCollection::get_IsSynchronized method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/get_issynchronized/
 Returns true of object is synchorinzed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PageCollection::get_IsSynchronized()
+bool Aspose::Pdf::PageCollection::get_IsSynchronized()
 ```
 
 ## See Also

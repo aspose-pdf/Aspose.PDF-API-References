@@ -4,7 +4,7 @@ linktitle: CenterWindow
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::CenterWindow field. A flag specifying whether to position the document''s window in the center of the screen in C++.'
 type: docs
-weight: 1700
+weight: 100
 url: /cpp/aspose.pdf.facades/viewerpreference/centerwindow/
 ---
 ## CenterWindow field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/centerwindow/
 A flag specifying whether to position the document's window in the center of the screen.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::CenterWindow
+static int32_t Aspose::Pdf::Facades::ViewerPreference::CenterWindow
 ```
 
 ## See Also

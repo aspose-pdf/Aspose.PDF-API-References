@@ -4,7 +4,7 @@ linktitle: get_Matrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XForm::get_Matrix method. Gets matrix of the form in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf/xform/get_matrix/
 ---
 ## XForm::get_Matrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/get_matrix/
 Gets matrix of the form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::XForm::get_Matrix()
+System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::XForm::get_Matrix()
 ```
 
 ## See Also

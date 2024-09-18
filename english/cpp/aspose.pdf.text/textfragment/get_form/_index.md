@@ -4,7 +4,7 @@ linktitle: get_Form
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_Form method. Gets form object that contains the TextFragment in C++.'
 type: docs
-weight: 1800
+weight: 700
 url: /cpp/aspose.pdf.text/textfragment/get_form/
 ---
 ## TextFragment::get_Form method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_form/
 Gets form object that contains the [TextFragment](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XForm> Aspose::Pdf::Text::TextFragment::get_Form() const
+System::SharedPtr<XForm> Aspose::Pdf::Text::TextFragment::get_Form() const
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: get_Poster
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MovieAnnotation::get_Poster method. Gets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retrieved from the movie file; if it is false, no poster shall be displayed in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.annotations/movieannotation/get_poster/
 ---
 ## MovieAnnotation::get_Poster method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/movieannotation/get_poster/
 Gets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retrieved from the movie file; if it is false, no poster shall be displayed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::MovieAnnotation::get_Poster()
+bool Aspose::Pdf::Annotations::MovieAnnotation::get_Poster()
 ```
 
 ## See Also

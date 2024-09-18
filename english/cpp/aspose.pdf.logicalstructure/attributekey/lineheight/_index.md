@@ -4,7 +4,7 @@ linktitle: LineHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::LineHeight field. LineHeight attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 2700
+weight: 2400
 url: /cpp/aspose.pdf.logicalstructure/attributekey/lineheight/
 ---
 ## LineHeight field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/lineheight/
 LineHeight attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::LineHeight
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::LineHeight
 ```
 
 ## See Also

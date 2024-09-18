@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcharwidthboundingbox/get_ury/
 Upper-right vertical coordinate of bounding rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Ury() const
+double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Ury() const
 ```
 
 ## See Also

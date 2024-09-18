@@ -4,7 +4,7 @@ linktitle: AlignRight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::AlignRight field. Defines aglignment to right style in C++.'
 type: docs
-weight: 5100
+weight: 4400
 url: /cpp/aspose.pdf.facades/formfieldfacade/alignright/
 ---
 ## AlignRight field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/alignright/
 Defines aglignment to right style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignRight
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignRight
 ```
 
 ## See Also

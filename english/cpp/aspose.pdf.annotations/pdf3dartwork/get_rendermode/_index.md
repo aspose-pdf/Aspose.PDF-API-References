@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dartwork/get_rendermode/
 Gets the render mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DArtwork::get_RenderMode() const
+System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DArtwork::get_RenderMode() const
 ```
 
 ## Remarks

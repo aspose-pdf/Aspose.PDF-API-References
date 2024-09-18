@@ -4,7 +4,7 @@ linktitle: Role_rb
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Role_rb field. Attribute Role: rb - Radio button in C++.'
 type: docs
-weight: 6100
+weight: 4500
 url: /cpp/aspose.pdf.logicalstructure/attributename/role_rb/
 ---
 ## Role_rb field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/role_rb/
 Attribute Role: rb - Radio button.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Role_rb
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Role_rb
 ```
 
 ## See Also

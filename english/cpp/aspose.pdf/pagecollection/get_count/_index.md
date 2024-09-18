@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::get_Count method. Gets count of pages in the document in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.pdf/pagecollection/get_count/
 ---
 ## PageCollection::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/get_count/
 Gets count of pages in the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::PageCollection::get_Count() const override
+int32_t Aspose::Pdf::PageCollection::get_Count() const override
 ```
 
 ## See Also

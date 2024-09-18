@@ -4,7 +4,7 @@ linktitle: PsLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PsLoadOptions::PsLoadOptions constructor. Creates load options for converting PostScript into pdf document with empty base path in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf/psloadoptions/psloadoptions/
 ---
 ## PsLoadOptions::PsLoadOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/psloadoptions/psloadoptions/
 Creates load options for converting PostScript into pdf document with empty base path.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PsLoadOptions::PsLoadOptions()
+Aspose::Pdf::PsLoadOptions::PsLoadOptions()
 ```
 
 ## See Also

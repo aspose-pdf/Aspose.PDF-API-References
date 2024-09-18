@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/markupparagraph/set_text/
 Sets the paragraph text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::MarkupParagraph::set_Text(System::String value)
+void Aspose::Pdf::Text::MarkupParagraph::set_Text(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_HandleSignatureChange
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_HandleSignatureChange method. Throw Exception if the document will save with changes and have signature in C++.'
 type: docs
-weight: 6000
+weight: 9500
 url: /cpp/aspose.pdf/document/set_handlesignaturechange/
 ---
 ## Document::set_HandleSignatureChange method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_handlesignaturechange/
 Throw Exception if the document will save with changes and have signature.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::set_HandleSignatureChange(bool value)
+void Aspose::Pdf::Document::set_HandleSignatureChange(bool value)
 ```
 
 ## See Also

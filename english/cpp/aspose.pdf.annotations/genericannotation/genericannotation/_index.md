@@ -4,7 +4,7 @@ linktitle: GenericAnnotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use GenericAnnotation constructor of Aspose::Pdf::Annotations::GenericAnnotation class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.annotations/genericannotation/genericannotation/
 ---
 ## GenericAnnotation::GenericAnnotation constructor

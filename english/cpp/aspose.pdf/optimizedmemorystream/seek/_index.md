@@ -4,7 +4,7 @@ linktitle: Seek
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream::Seek method. When overridden in a derived class, sets the position within the current stream in C++.'
 type: docs
-weight: 1400
+weight: 1200
 url: /cpp/aspose.pdf/optimizedmemorystream/seek/
 ---
 ## OptimizedMemoryStream::Seek method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/seek/
 When overridden in a derived class, sets the position within the current stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int64_t Aspose::Pdf::OptimizedMemoryStream::Seek(int64_t offset, System::IO::SeekOrigin origin) override
+int64_t Aspose::Pdf::OptimizedMemoryStream::Seek(int64_t offset, System::IO::SeekOrigin origin) override
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API int64_t Aspose::Pdf::OptimizedMemoryStream::Seek(int64_t o
 ### ReturnValue
 
 The new position within the current stream.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>offset</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>A byte offset relative to the <emphasis>origin</emphasis>  parameter.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>origin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>A value of type <ref refid="" kindref="compound">T:System::IO::SeekOrigin</ref> indicating the reference point used to obtain the new position.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OptimizedMemoryStream](../)

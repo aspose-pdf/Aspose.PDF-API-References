@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerrorlocation/get_textstartpoint/
 Key (name) of the PDF [Font](../../font/) object that is used for showing of the operator that causes text extraction error.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Text::TextExtractionErrorLocation::get_TextStartPoint() const
+System::SharedPtr<Point> Aspose::Pdf::Text::TextExtractionErrorLocation::get_TextStartPoint() const
 ```
 
 ## See Also

@@ -2,20 +2,20 @@
 title: Aspose::Pdf::Forms::OptionCollection::Contains method
 linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Forms::OptionCollection::Contains method. Checks if item exists in collection, throws 
+description: 'Aspose::Pdf::Forms::OptionCollection::Contains method. Checks if item exists in collection, throws NotImplementedException
  in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.pdf.forms/optioncollection/contains/
 ---
 ## OptionCollection::Contains method
 
 
-Checks if item exists in collection, throws 
+Checks if item exists in collection, throws NotImplementedException
 .
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::OptionCollection::Contains(const System::SharedPtr<Option> &item) const override
+bool Aspose::Pdf::Forms::OptionCollection::Contains(const System::SharedPtr<Option> &item) const override
 ```
 
 
@@ -25,21 +25,8 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::OptionCollection::Contains(const 
 
 ### ReturnValue
 
-Throws
-## Remarks
+Throws NotImplementedException
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_operator" kindref="compound">Operator</ref> item to find.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Option](../../option/)

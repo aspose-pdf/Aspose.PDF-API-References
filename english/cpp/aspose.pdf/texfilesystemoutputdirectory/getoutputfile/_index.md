@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texfilesystemoutputdirectory/getoutputfile/
 Returns the stream to write to.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::TeXFileSystemOutputDirectory::GetOutputFile(System::String fileName, System::String &fullName) override
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::TeXFileSystemOutputDirectory::GetOutputFile(System::String fileName, System::String &fullName) override
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::TeXFile
 ### ReturnValue
 
 The stream.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fileName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The file name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fullName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The full file name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TeXFileSystemOutputDirectory](../)

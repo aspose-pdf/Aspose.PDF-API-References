@@ -4,7 +4,7 @@ linktitle: TextSearchOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions constructor. Initializes new instance of the TextSearchOptions object. Specifies regular expression usage mode in C++.'
 type: docs
-weight: 2100
+weight: 100
 url: /cpp/aspose.pdf.text/textsearchoptions/textsearchoptions/
 ---
 ## TextSearchOptions::TextSearchOptions(bool) constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.text/textsearchoptions/textsearchoptions/
 Initializes new instance of the [TextSearchOptions](../) object. Specifies regular expression usage mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(bool isRegularExpressionUsed)
+Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(bool isRegularExpressionUsed)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | isRegularExpressionUsed | bool | Value that indicates that regularexpression is used. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>isRegularExpressionUsed</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Value that indicates that regularexpression is used.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextSearchOptions](../)
@@ -44,27 +32,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(bo
 Initializes new instance of the [TextSearchOptions](../) object. Specifies rectangle that delimits the searched text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose::Pdf::Rectangle> rectangle)
+Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose::Pdf::Rectangle> rectangle)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rectangle | System::SharedPtr\<Aspose::Pdf::Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) that includes the extracted text. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rectangle</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> that includes the extracted text.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -77,7 +52,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(Sy
 Initializes new instance of the [TextSearchOptions](../) object. Specifies rectangle that delimits the searched text and regular expression usage mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose::Pdf::Rectangle> rectangle, bool isRegularExpressionUsed)
+Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose::Pdf::Rectangle> rectangle, bool isRegularExpressionUsed)
 ```
 
 
@@ -85,28 +60,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(Sy
 | --- | --- | --- |
 | rectangle | System::SharedPtr\<Aspose::Pdf::Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) that includes the extracted text. |
 | isRegularExpressionUsed | bool | Value that indicates that regularexpression is used. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rectangle</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> that includes the extracted text.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>isRegularExpressionUsed</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Value that indicates that regularexpression is used.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../../../aspose.pdf/rectangle/)

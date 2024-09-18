@@ -4,7 +4,7 @@ linktitle: Figure
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::Figure field. (Figure) An item of graphical content. Its placement may be specified with the Placement layout attribute in C++.'
 type: docs
-weight: 5100
+weight: 1300
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/figure/
 ---
 ## Figure field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/figure/
 (Figure) An item of graphical content. Its placement may be specified with the Placement layout attribute.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Figure
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Figure
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: GetPages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageLabelCollection::GetPages method. Gets page indexes in collection in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf/pagelabelcollection/getpages/
 ---
 ## PageLabelCollection::GetPages method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagelabelcollection/getpages/
 Gets page indexes in collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<int32_t> Aspose::Pdf::PageLabelCollection::GetPages()
+System::ArrayPtr<int32_t> Aspose::Pdf::PageLabelCollection::GetPages()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/destinationcollection/remove/
 Removes the specified item. [Collection](../../collection/) is read-only. Always throws NotSupportedException exception.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::DestinationCollection::Remove(const System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<System::Object>> &item) override
+bool Aspose::Pdf::DestinationCollection::Remove(const System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<System::Object>> &item) override
 ```
 
 
@@ -24,26 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::DestinationCollection::Remove(const Syst
 ### ReturnValue
 
 
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The item.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist><parameterlist kind="exception">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>NotSupportedException</parametername>
-    </parameternamelist>
-    <parameterdescription></parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DestinationCollection](../)

@@ -4,7 +4,7 @@ linktitle: get_EditOperationsOrder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::ComparisonOptions::get_EditOperationsOrder method. Gets and sets the edit operations order in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pdf.comparison/comparisonoptions/get_editoperationsorder/
 ---
 ## ComparisonOptions::get_EditOperationsOrder method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/comparisonoptions/get_editoperationsorder/
 Gets and sets the edit operations order.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Comparison::EditOperationsOrder Aspose::Pdf::Comparison::ComparisonOptions::get_EditOperationsOrder() const
+Aspose::Pdf::Comparison::EditOperationsOrder Aspose::Pdf::Comparison::ComparisonOptions::get_EditOperationsOrder() const
 ```
 
 ## See Also

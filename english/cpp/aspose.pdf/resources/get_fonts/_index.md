@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/resources/get_fonts/
 Gets [Fonts](../) resources collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Text::FontCollection> Aspose::Pdf::Resources::get_Fonts()
+System::SharedPtr<Text::FontCollection> Aspose::Pdf::Resources::get_Fonts()
 ```
 
 ## See Also

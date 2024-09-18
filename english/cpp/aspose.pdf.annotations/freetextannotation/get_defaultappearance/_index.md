@@ -4,7 +4,7 @@ linktitle: get_DefaultAppearance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::get_DefaultAppearance method. Gets the default appearance string to be used in formatting the text in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf.annotations/freetextannotation/get_defaultappearance/
 ---
 ## FreeTextAnnotation::get_DefaultAppearance method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/get_defaultappearance/
 Gets the default appearance string to be used in formatting the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::FreeTextAnnotation::get_DefaultAppearance()
+System::String Aspose::Pdf::Annotations::FreeTextAnnotation::get_DefaultAppearance()
 ```
 
 ## See Also

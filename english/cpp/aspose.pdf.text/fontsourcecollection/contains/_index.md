@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FontSourceCollection::Contains method. Determines whether an element is in the collection in C++.'
 type: docs
-weight: 1000
+weight: 300
 url: /cpp/aspose.pdf.text/fontsourcecollection/contains/
 ---
 ## FontSourceCollection::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontsourcecollection/contains/
 Determines whether an element is in the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::FontSourceCollection::Contains(const System::SharedPtr<FontSource> &item) const override
+bool Aspose::Pdf::Text::FontSourceCollection::Contains(const System::SharedPtr<FontSource> &item) const override
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::FontSourceCollection::Contains(con
 ### ReturnValue
 
 True - if element found; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font_source" kindref="compound">FontSource</ref> object to search.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FontSource](../../fontsource/)

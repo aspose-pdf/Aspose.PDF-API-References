@@ -4,7 +4,7 @@ linktitle: PdfSaveOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfSaveOptions::PdfSaveOptions constructor. Constructor in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf/pdfsaveoptions/pdfsaveoptions/
 ---
 ## PdfSaveOptions::PdfSaveOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfsaveoptions/pdfsaveoptions/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PdfSaveOptions::PdfSaveOptions()
+Aspose::Pdf::PdfSaveOptions::PdfSaveOptions()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Selected
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ChoiceField::get_Selected method. Gets index of selected option. This property allows to change selection in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.forms/choicefield/get_selected/
 ---
 ## ChoiceField::get_Selected method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/choicefield/get_selected/
 Gets index of selected option. This property allows to change selection.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::ChoiceField::get_Selected()
+virtual int32_t Aspose::Pdf::Forms::ChoiceField::get_Selected()
 ```
 
 ## See Also

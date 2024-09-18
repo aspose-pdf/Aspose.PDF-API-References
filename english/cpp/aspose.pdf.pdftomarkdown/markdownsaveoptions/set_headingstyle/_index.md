@@ -4,7 +4,7 @@ linktitle: set_HeadingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_HeadingStyle method. Sets the heading style for generated document in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/set_headingstyle/
 ---
 ## MarkdownSaveOptions::set_HeadingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.pdftomarkdown/markdownsaveoptions/set_headingstyle/
 Sets the heading style for generated document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_HeadingStyle(Aspose::Pdf::PdfToMarkdown::HeadingStyle value)
+void Aspose::Pdf::PdfToMarkdown::MarkdownSaveOptions::set_HeadingStyle(Aspose::Pdf::PdfToMarkdown::HeadingStyle value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_MaxRowWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::get_MaxRowWidth method. Max row height for WordWrap option in C++.'
 type: docs
-weight: 2600
+weight: 500
 url: /cpp/aspose.pdf/textstamp/get_maxrowwidth/
 ---
 ## TextStamp::get_MaxRowWidth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/get_maxrowwidth/
 Max row height for WordWrap option.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::TextStamp::get_MaxRowWidth() const
+double Aspose::Pdf::TextStamp::get_MaxRowWidth() const
 ```
 
 ## See Also

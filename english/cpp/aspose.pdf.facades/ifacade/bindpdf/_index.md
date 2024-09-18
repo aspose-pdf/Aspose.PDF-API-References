@@ -7,34 +7,23 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.facades/ifacade/bindpdf/
 ---
-## IFacade::BindPdf(System::String) method
+## IFacade::BindPdf(System::SharedPtr\<Document\>) method
 
 
 Binds PDF document for editing.
 
 ```cpp
-virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::String srcFile)=0
+virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::SharedPtr<Document> srcDoc)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | System::String | The path of input PDF document. |
-## Remarks
+| srcDoc | System::SharedPtr\<Document\> | Input PDF document. |
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>srcFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of input PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
+* Class [Document](../../../aspose.pdf/document/)
 * Class [IFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -51,53 +40,28 @@ virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::SharedPtr<System::IO
 | Parameter | Type | Description |
 | --- | --- | --- |
 | srcStream | System::SharedPtr\<System::IO::Stream\> | The stream of input PDF document. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>srcStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The stream of input PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [IFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## IFacade::BindPdf(System::SharedPtr\<Document\>) method
+## IFacade::BindPdf(System::String) method
 
 
 Binds PDF document for editing.
 
 ```cpp
-virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::SharedPtr<Document> srcDoc)=0
+virtual void Aspose::Pdf::Facades::IFacade::BindPdf(System::String srcFile)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | System::SharedPtr\<Document\> | Input PDF document. |
-## Remarks
+| srcFile | System::String | The path of input PDF document. |
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>srcDoc</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
-* Class [Document](../../../aspose.pdf/document/)
 * Class [IFacade](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

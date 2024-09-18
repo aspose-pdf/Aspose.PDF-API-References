@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Facade::Close method. Disposes Aspose.Pdf.Document bound with a facade in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.facades/facade/close/
 ---
 ## Facade::Close method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/facade/close/
 Disposes [Aspose.Pdf.Document](../../../aspose.pdf/document/) bound with a facade.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Facade::Close() override
+void Aspose::Pdf::Facades::Facade::Close() override
 ```
 
 ## See Also

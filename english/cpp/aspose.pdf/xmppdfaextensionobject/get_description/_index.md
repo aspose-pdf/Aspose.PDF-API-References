@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionobject/get_description/
 Gets the description.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionObject::get_Description() const
+System::String Aspose::Pdf::XmpPdfAExtensionObject::get_Description() const
 ```
 
 ## See Also

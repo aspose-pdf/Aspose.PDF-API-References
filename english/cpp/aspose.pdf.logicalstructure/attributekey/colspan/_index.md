@@ -4,7 +4,7 @@ linktitle: ColSpan
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::ColSpan field. ColSpan attribute (Table attribute owner) in C++.'
 type: docs
-weight: 4200
+weight: 1400
 url: /cpp/aspose.pdf.logicalstructure/attributekey/colspan/
 ---
 ## ColSpan field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/colspan/
 ColSpan attribute ([Table](../../../aspose.pdf/table/) attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::ColSpan
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::ColSpan
 ```
 
 ## See Also

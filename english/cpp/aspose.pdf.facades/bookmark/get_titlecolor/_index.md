@@ -4,7 +4,7 @@ linktitle: get_TitleColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_TitleColor method. Gets the color of bookmark''s title in C++.'
 type: docs
-weight: 3300
+weight: 2000
 url: /cpp/aspose.pdf.facades/bookmark/get_titlecolor/
 ---
 ## Bookmark::get_TitleColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/get_titlecolor/
 Gets the color of bookmark's title.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Facades::Bookmark::get_TitleColor() const
+System::Drawing::Color Aspose::Pdf::Facades::Bookmark::get_TitleColor() const
 ```
 
 ## See Also

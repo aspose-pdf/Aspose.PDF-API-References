@@ -4,7 +4,7 @@ linktitle: IsFitRectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::IsFitRectangle method. Checks if input string could be placed inside defined rectangle in C++.'
 type: docs
-weight: 4800
+weight: 2500
 url: /cpp/aspose.pdf.text/textfragmentstate/isfitrectangle/
 ---
 ## TextFragmentState::IsFitRectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/isfitrectangle/
 Checks if input string could be placed inside defined rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentState::IsFitRectangle(System::String str, System::SharedPtr<Rectangle> rect)
+bool Aspose::Pdf::Text::TextFragmentState::IsFitRectangle(System::String str, System::SharedPtr<Rectangle> rect)
 ```
 
 
@@ -25,28 +25,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentState::IsFitRectangle(
 ### ReturnValue
 
 True if string fit rectangle; otherwise false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>str</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>String to check.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> to check.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../../../aspose.pdf/rectangle/)

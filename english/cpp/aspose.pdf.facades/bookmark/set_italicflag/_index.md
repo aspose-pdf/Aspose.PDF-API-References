@@ -4,7 +4,7 @@ linktitle: set_ItalicFlag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::set_ItalicFlag method. Sets the italic flag of bookmark''s title in C++.'
 type: docs
-weight: 1200
+weight: 2600
 url: /cpp/aspose.pdf.facades/bookmark/set_italicflag/
 ---
 ## Bookmark::set_ItalicFlag method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_italicflag/
 Sets the italic flag of bookmark's title.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Bookmark::set_ItalicFlag(bool value)
+void Aspose::Pdf::Facades::Bookmark::set_ItalicFlag(bool value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmlsaveoptions/xmlsaveoptions/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::XmlSaveOptions::XmlSaveOptions()
+Aspose::Pdf::XmlSaveOptions::XmlSaveOptions()
 ```
 
 ## See Also

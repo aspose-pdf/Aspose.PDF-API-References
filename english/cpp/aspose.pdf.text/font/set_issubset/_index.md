@@ -4,7 +4,7 @@ linktitle: set_IsSubset
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::Font::set_IsSubset method. Sets a value that indicates whether the font is a subset. Font based on IFont will automatically be subset and embedded in C++.'
 type: docs
-weight: 700
+weight: 1300
 url: /cpp/aspose.pdf.text/font/set_issubset/
 ---
 ## Font::set_IsSubset method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/font/set_issubset/
 Sets a value that indicates whether the font is a subset. [Font](../) based on IFont will automatically be subset and embedded.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::Font::set_IsSubset(bool value)
+void Aspose::Pdf::Text::Font::set_IsSubset(bool value)
 ```
 
 

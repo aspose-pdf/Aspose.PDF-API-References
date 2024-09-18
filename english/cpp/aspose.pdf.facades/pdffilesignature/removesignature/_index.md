@@ -4,7 +4,7 @@ linktitle: RemoveSignature
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature method. Remove the signature according to the name of the signature in C++.'
 type: docs
-weight: 2300
+weight: 2600
 url: /cpp/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## PdfFileSignature::RemoveSignature(System::String) method
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/removesignature/
 Remove the signature according to the name of the signature.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::String signName)
+void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::String signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | signName | System::String | The name of signature. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>signName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of signature.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSignature](../)
@@ -44,7 +32,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignatu
 Removes the signature according to the name of the signature.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::String signName, bool removeField)
+void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::String signName, bool removeField)
 ```
 
 
@@ -52,27 +40,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignatu
 | --- | --- | --- |
 | signName | System::String | The name of signature. |
 | removeField | bool | If set to true, than removes both of signature and field from document; otherwise, signature only. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>signName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of signature.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>removeField</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>If set to true, than removes both of signature and field from document; otherwise, signature only.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSignature](../)

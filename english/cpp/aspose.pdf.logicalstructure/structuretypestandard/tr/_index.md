@@ -4,7 +4,7 @@ linktitle: TR
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::TR field. (Table row) A row of headings or data in a table. It may contain table header cells and table data cells (structure types TH and TD) in C++.'
 type: docs
-weight: 3300
+weight: 5000
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/tr/
 ---
 ## TR field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/tr/
 ([Table](../../../aspose.pdf/table/) row) A row of headings or data in a table. It may contain table header cells and table data cells (structure types TH and TD).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::TR
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::TR
 ```
 
 ## See Also

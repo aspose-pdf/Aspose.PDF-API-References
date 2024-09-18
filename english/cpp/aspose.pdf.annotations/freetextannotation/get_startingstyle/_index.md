@@ -4,7 +4,7 @@ linktitle: get_StartingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::get_StartingStyle method. Gets line ending style for line ending point. OThis property is obsolete, please use EndingStyle in C++.'
 type: docs
-weight: 100
+weight: 1200
 url: /cpp/aspose.pdf.annotations/freetextannotation/get_startingstyle/
 ---
 ## FreeTextAnnotation::get_StartingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/get_startingstyle/
 Gets line ending style for line ending point. OThis property is obsolete, please use EndingStyle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API LineEnding Aspose::Pdf::Annotations::FreeTextAnnotation::get_StartingStyle()
+LineEnding Aspose::Pdf::Annotations::FreeTextAnnotation::get_StartingStyle()
 ```
 
 ## See Also

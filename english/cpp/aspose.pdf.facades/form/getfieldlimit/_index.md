@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/getfieldlimit/
 Get the limitation of text field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::Form::GetFieldLimit(System::String fieldName)
+int32_t Aspose::Pdf::Facades::Form::GetFieldLimit(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::Form::GetFieldLimit(System::
 ### ReturnValue
 
 Return the limitation number of characters a text field can be filled. It not set, return 0.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The qualified field name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Form](../)

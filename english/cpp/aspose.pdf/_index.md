@@ -199,76 +199,76 @@ url: /cpp/aspose.pdf/
 | --- | --- |
 | [AFRelationship](./afrelationship/) | Enumeration describes associated files relationship. |
 | [BlendMode](./blendmode/) | The blend modes enumeration. |
-| [FieldValueType](./fieldvaluetype/) | Represents the type of a field value in a schema collection. |
+| [BorderCornerStyle](./bordercornerstyle/) | Enumerates the border corner styles for border. |
+| [BorderSide](./borderside/) | Enumerates the border sides. |
 | [CollectionFieldSubtype](./collectionfieldsubtype/) | Represents the subtype parameter of a field in a sceme collection. |
 | [ColorSpace](./colorspace/) | The color spaces enumeration. |
 | [ColorType](./colortype/) | Specifies color type of elements on page. |
-| [FontSubsetStrategy](./fontsubsetstrategy/) | enumerates strategies for font subsetting |
+| [ColumnAdjustment](./columnadjustment/) | Enumerates column adjustment types. |
 | [ContentDisposition](./contentdisposition/) | MIME protocol Content-Disposition header. |
-| [XmpFieldType](./xmpfieldtype/) | This enum represents types of a XMP field. |
+| [ConvertErrorAction](./converterroraction/) | This class represents action for conversion errors. |
+| [ConvertSoftMaskAction](./convertsoftmaskaction/) | This action represents actions for conversion of images with soft mask. |
+| [ConvertTransparencyAction](./converttransparencyaction/) | This class represents action for conversion of transparency. |
+| [CryptoAlgorithm](./cryptoalgorithm/) | Represent type of cryptographic algorithm that used in encryption/decryption routines. |
+| [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algoritm that maps data to a "hash". |
 | [Direction](./direction/) | [Text](../aspose.pdf.text/) direction. |
-| [PageMode](./pagemode/) | Class descibes used components of the document page. |
+| [EditionType](./editiontype/) | Specifies the edition type of the license. |
 | [ExtendedBoolean](./extendedboolean/) | Represents boolean type that supports Undefined value. |
 | [ExtractImageMode](./extractimagemode/) | Defines different modes which can be used while extracting images from documents. |
+| [FieldValueType](./fieldvaluetype/) | Represents the type of a field value in a schema collection. |
 | [FileEncoding](./fileencoding/) | Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed. |
-| [BorderCornerStyle](./bordercornerstyle/) | Enumerates the border corner styles for border. |
-| [BorderSide](./borderside/) | Enumerates the border sides. |
-| [ColumnAdjustment](./columnadjustment/) | Enumerates column adjustment types. |
-| [ImageFileType](./imagefiletype/) | Enumerates the image file types. |
+| [Fixup](./fixup/) | This enum represents an type of Fixup. |
+| [FontSubsetStrategy](./fontsubsetstrategy/) | enumerates strategies for font subsetting |
 | [HorizontalAlignment](./horizontalalignment/) | Describes horizontal alignment. |
 | [HtmlDocumentType](./htmldocumenttype/) | Represents enumeration of the Html document types. |
 | [HtmlMediaType](./htmlmediatype/) | Specifies possible media types used during rendering. |
 | [HtmlPageLayoutOption](./htmlpagelayoutoption/) | Specifies flags that together other options determine sizes and layouts of pages. |
+| [ImageDeleteAction](./imagedeleteaction/) | Action which performed with image object when image is removed from collection. If image object is removed. |
+| [ImageFileType](./imagefiletype/) | Enumerates the image file types. |
 | [ImageFilterType](./imagefiltertype/) | Enumeration representing image filter type. |
 | [ImportFormat](./importformat/) | Specifies import format. |
-| [ConvertErrorAction](./converterroraction/) | This class represents action for conversion errors. |
-| [ConvertSoftMaskAction](./convertsoftmaskaction/) | This action represents actions for conversion of images with soft mask. |
-| [ConvertTransparencyAction](./converttransparencyaction/) | This class represents action for conversion of transparency. |
-| [PdfFormat](./pdfformat/) | This class represents an pdf format. |
-| [PdfVersion](./pdfversion/) | This enum represents version of pdf file. |
+| [LicenseState](./licensestate/) | Represents possible license states. |
 | [LoadFormat](./loadformat/) | Specifies load format. |
-| [WarningType](./warningtype/) | Enum represented warning type. |
-| [ReturnAction](./returnaction/) | Enum represented a program workflow action in case of invoking the [IWarningCallback::Warning(Aspose::Pdf::WarningInfo)](../) method. |
 | [NumberingStyle](./numberingstyle/) | Enumeration of supported page numbering style for [PageLabel](./pagelabel/) class. |
 | [PageCoordinateType](./pagecoordinatetype/) | Describes page coordinate type. |
 | [PageLayout](./pagelayout/) | Descibes page layout. |
+| [PageMode](./pagemode/) | Class descibes used components of the document page. |
 | [PasswordType](./passwordtype/) | This enum represents known password types used for password protected pdf documents. |
-| [EditionType](./editiontype/) | Specifies the edition type of the license. |
-| [ProductType](./producttype/) | Which product of the license or black list : **Aspose**, Conholdate, Market. |
-| [LicenseState](./licensestate/) | Represents possible license states. |
+| [PdfFormat](./pdfformat/) | This class represents an pdf format. |
+| [PdfVersion](./pdfversion/) | This enum represents version of pdf file. |
 | [Permissions](./permissions/) | This enum represents user's permissions for a pdf. |
 | [PrintDuplex](./printduplex/) | The paper handling option to use when printing the file from the print dialog.. |
 | [PrintScaling](./printscaling/) | The page scaling option that shall be selected when a print dialog is displayed for this document. |
+| [ProductType](./producttype/) | Which product of the license or black list : **Aspose**, Conholdate, Market. |
+| [ProgressEventType](./progresseventtype/) | This enum describes possible progress event types that can occure during conversion. |
+| [ReturnAction](./returnaction/) | Enum represented a program workflow action in case of invoking the [IWarningCallback::Warning(Aspose::Pdf::WarningInfo)](../) method. |
 | [Rotation](./rotation/) | Enumeration of possible rotation values. |
-| [Fixup](./fixup/) | This enum represents an type of Fixup. |
 | [SaveFormat](./saveformat/) | Specifies format. |
-| [CryptoAlgorithm](./cryptoalgorithm/) | Represent type of cryptographic algorithm that used in encryption/decryption routines. |
-| [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algoritm that maps data to a "hash". |
 | [TableBroken](./tablebroken/) | Enumerates the table broken. |
 | [TabOrder](./taborder/) | Tab order on the page. |
 | [TeXLoadResult](./texloadresult/) | Results for TeX load and compiling. |
-| [ProgressEventType](./progresseventtype/) | This enum describes possible progress event types that can occure during conversion. |
 | [VerticalAlignment](./verticalalignment/) | Enumeration of possible vertical alignment values. |
+| [WarningType](./warningtype/) | Enum represented warning type. |
 | [XfaTag](./xfatag/) | The xfa stream tag. |
-| [ImageDeleteAction](./imagedeleteaction/) | Action which performed with image object when image is removed from collection. If image object is removed. |
+| [XmpFieldType](./xmpfieldtype/) | This enum represents types of a XMP field. |
 | [XmpPdfAExtensionCategoryType](./xmppdfaextensioncategorytype/) | Property category: internal or external. |
 ## Typedefs
 
 | Typedef | Description |
 | --- | --- |
-| [EmbeddedFilesDoesNotExists](./embeddedfilesdoesnotexists/) |  |
-| [PdfException](./pdfexception/) |  |
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) |  |
+| [EmbeddedFilesDoesNotExists](./embeddedfilesdoesnotexists/) |  |
 | [EmptyValueException](./emptyvalueexception/) |  |
 | [FontEmbeddingException](./fontembeddingexception/) |  |
 | [FontNotFoundException](./fontnotfoundexception/) |  |
 | [IncorrectCMapUsageException](./incorrectcmapusageexception/) |  |
 | [IncorrectFontUsageException](./incorrectfontusageexception/) |  |
-| [InvalidFormTypeOperationException](./invalidformtypeoperationexception/) |  |
 | [InvalidCgmFileFormatException](./invalidcgmfileformatexception/) |  |
 | [InvalidFileFormatException](./invalidfileformatexception/) |  |
+| [InvalidFormTypeOperationException](./invalidformtypeoperationexception/) |  |
 | [InvalidPasswordException](./invalidpasswordexception/) |  |
 | [InvalidPdfFileFormatException](./invalidpdffileformatexception/) |  |
 | [InvalidValueFormatException](./invalidvalueformatexception/) |  |
 | [JavascriptExtensionsException](./javascriptextensionsexception/) |  |
+| [PdfException](./pdfexception/) |  |
 | [UnsupportedFontTypeException](./unsupportedfonttypeexception/) |  |

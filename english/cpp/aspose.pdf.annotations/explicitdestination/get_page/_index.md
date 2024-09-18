@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/explicitdestination/get_page/
 Gets the destination page object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::Annotations::ExplicitDestination::get_Page() const
+System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::Annotations::ExplicitDestination::get_Page() const
 ```
 
 ## See Also

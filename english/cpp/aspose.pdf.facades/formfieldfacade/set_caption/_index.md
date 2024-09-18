@@ -4,7 +4,7 @@ linktitle: set_Caption
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::set_Caption method. The normal caption of form field in C++.'
 type: docs
-weight: 2200
+weight: 2800
 url: /cpp/aspose.pdf.facades/formfieldfacade/set_caption/
 ---
 ## FormFieldFacade::set_Caption method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_caption/
 The normal caption of form field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormFieldFacade::set_Caption(System::String value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_Caption(System::String value)
 ```
 
 ## See Also

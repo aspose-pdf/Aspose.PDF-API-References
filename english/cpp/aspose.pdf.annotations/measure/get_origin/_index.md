@@ -4,7 +4,7 @@ linktitle: get_Origin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Measure::get_Origin method. Point that shall specify the origin of the measurement coordinate system in default user space coordinates in C++.'
 type: docs
-weight: 1500
+weight: 500
 url: /cpp/aspose.pdf.annotations/measure/get_origin/
 ---
 ## Measure::get_Origin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/get_origin/
 [Point](../../../aspose.pdf/point/) that shall specify the origin of the measurement coordinate system in default user space coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Annotations::Measure::get_Origin()
+System::SharedPtr<Point> Aspose::Pdf::Annotations::Measure::get_Origin()
 ```
 
 ## See Also

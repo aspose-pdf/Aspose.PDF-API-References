@@ -4,7 +4,7 @@ linktitle: ToField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToField method. Returns XMP value as XMP field in C++.'
 type: docs
-weight: 1900
+weight: 1600
 url: /cpp/aspose.pdf/xmpvalue/tofield/
 ---
 ## XmpValue::ToField method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/tofield/
 Returns XMP value as XMP field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XmpField> Aspose::Pdf::XmpValue::ToField()
+System::SharedPtr<XmpField> Aspose::Pdf::XmpValue::ToField()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_VerticalAlignmentType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::get_VerticalAlignmentType method. Gets or Sets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom in C++.'
 type: docs
-weight: 1900
+weight: 1100
 url: /cpp/aspose.pdf.facades/pdfpageeditor/get_verticalalignmenttype/
 ---
 ## PdfPageEditor::get_VerticalAlignmentType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/get_verticalalignmenttype/
 Gets or Sets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::VerticalAlignment Aspose::Pdf::Facades::PdfPageEditor::get_VerticalAlignmentType()
+Aspose::Pdf::VerticalAlignment Aspose::Pdf::Facades::PdfPageEditor::get_VerticalAlignmentType()
 ```
 
 ## See Also

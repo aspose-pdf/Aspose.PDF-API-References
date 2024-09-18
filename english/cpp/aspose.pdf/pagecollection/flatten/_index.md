@@ -4,7 +4,7 @@ linktitle: Flatten
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::Flatten method. Removes all fields located on the pages and place their values instead in C++.'
 type: docs
-weight: 1500
+weight: 800
 url: /cpp/aspose.pdf/pagecollection/flatten/
 ---
 ## PageCollection::Flatten method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/flatten/
 Removes all fields located on the pages and place their values instead.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageCollection::Flatten()
+void Aspose::Pdf::PageCollection::Flatten()
 ```
 
 ## See Also

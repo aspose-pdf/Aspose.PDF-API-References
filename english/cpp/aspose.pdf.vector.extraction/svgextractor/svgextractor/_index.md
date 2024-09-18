@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector.extraction/svgextractor/svgextractor/
 Represents a class to extract SVG images from a page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Vector::Extraction::SvgExtractor::SvgExtractor()
+Aspose::Pdf::Vector::Extraction::SvgExtractor::SvgExtractor()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Vector::Extraction::SvgExtractor::SvgExtracto
 Represents a class to extract SVG images from a page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Vector::Extraction::SvgExtractor::SvgExtractor(System::SharedPtr<SvgExtractionOptions> options)
+Aspose::Pdf::Vector::Extraction::SvgExtractor::SvgExtractor(System::SharedPtr<SvgExtractionOptions> options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | options | System::SharedPtr\<SvgExtractionOptions\> | The extraction options. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>options</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The extraction options.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SvgExtractionOptions](../../svgextractionoptions/)

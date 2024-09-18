@@ -4,7 +4,7 @@ linktitle: get_AreaFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Measure::get_AreaFormat method. A number format array for measurement of area in C++.'
 type: docs
-weight: 900
+weight: 300
 url: /cpp/aspose.pdf.annotations/measure/get_areaformat/
 ---
 ## Measure::get_AreaFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/get_areaformat/
 A number format array for measurement of area.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Measure::NumberFormatList> Aspose::Pdf::Annotations::Measure::get_AreaFormat()
+System::SharedPtr<Measure::NumberFormatList> Aspose::Pdf::Annotations::Measure::get_AreaFormat()
 ```
 
 ## See Also

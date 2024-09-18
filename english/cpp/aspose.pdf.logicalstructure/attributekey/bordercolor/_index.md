@@ -4,7 +4,7 @@ linktitle: BorderColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::BorderColor field. BorderColor attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/attributekey/bordercolor/
 ---
 ## BorderColor field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/bordercolor/
 BorderColor attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BorderColor
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::BorderColor
 ```
 
 ## See Also

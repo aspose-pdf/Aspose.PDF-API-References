@@ -4,7 +4,7 @@ linktitle: SetWordSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetWordSpacing::SetWordSpacing constructor. Initializes operator in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/setwordspacing/setwordspacing/
 ---
 ## SetWordSpacing::SetWordSpacing constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.operators/setwordspacing/setwordspacing/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetWordSpacing::SetWordSpacing(double wordSpacing)
+Aspose::Pdf::Operators::SetWordSpacing::SetWordSpacing(double wordSpacing)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | wordSpacing | double | Word spacing. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>wordSpacing</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Word spacing.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SetWordSpacing](../)

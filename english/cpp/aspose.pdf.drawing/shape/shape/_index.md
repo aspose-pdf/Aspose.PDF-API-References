@@ -4,7 +4,7 @@ linktitle: Shape
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Shape constructor of Aspose::Pdf::Drawing::Shape class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf.drawing/shape/shape/
 ---
 ## Shape::Shape constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/shape/shape/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Drawing::Shape::Shape()
+Aspose::Pdf::Drawing::Shape::Shape()
 ```
 
 ## See Also

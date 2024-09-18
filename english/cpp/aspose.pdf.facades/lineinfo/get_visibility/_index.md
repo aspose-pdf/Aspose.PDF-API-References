@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/lineinfo/get_visibility/
 Gets the visibility of a line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::LineInfo::get_Visibility() const
+bool Aspose::Pdf::Facades::LineInfo::get_Visibility() const
 ```
 
 ## See Also

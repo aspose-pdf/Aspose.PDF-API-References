@@ -4,7 +4,7 @@ linktitle: get_Level
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::get_Level method. Gets hierarchy level of outline item in C++.'
 type: docs
-weight: 2600
+weight: 1800
 url: /cpp/aspose.pdf/outlineitemcollection/get_level/
 ---
 ## OutlineItemCollection::get_Level method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/get_level/
 Gets hierarchy level of outline item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::OutlineItemCollection::get_Level()
+int32_t Aspose::Pdf::OutlineItemCollection::get_Level()
 ```
 
 ## See Also

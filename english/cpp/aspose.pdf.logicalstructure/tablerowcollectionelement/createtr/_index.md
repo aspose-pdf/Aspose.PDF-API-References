@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 Creates [Aspose::Pdf::LogicalStructure::TableTRElement](../../tabletrelement/) and added it to current table.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<TableTRElement> Aspose::Pdf::LogicalStructure::TableRowCollectionElement::CreateTR()
+virtual System::SharedPtr<TableTRElement> Aspose::Pdf::LogicalStructure::TableRowCollectionElement::CreateTR()
 ```
 
 

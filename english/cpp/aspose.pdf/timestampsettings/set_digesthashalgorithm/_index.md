@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/timestampsettings/set_digesthashalgorithm/
 Gets/sets the digest algorithm for internal hash functions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TimestampSettings::set_DigestHashAlgorithm(Aspose::Pdf::DigestHashAlgorithm value)
+void Aspose::Pdf::TimestampSettings::set_DigestHashAlgorithm(Aspose::Pdf::DigestHashAlgorithm value)
 ```
 
 ## See Also

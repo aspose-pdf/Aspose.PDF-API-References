@@ -4,7 +4,7 @@ linktitle: Primary
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DLightingScheme::Primary field. The "Primary" lighting scheme in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/primary/
 ---
 ## Primary field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/primary/
 The "Primary" lighting scheme.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Primary
+static System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Primary
 ```
 
 ## See Also

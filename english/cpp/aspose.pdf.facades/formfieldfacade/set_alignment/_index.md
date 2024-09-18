@@ -4,7 +4,7 @@ linktitle: set_Alignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::set_Alignment method. The alignment of a field text, default is left alignment in C++.'
 type: docs
-weight: 1800
+weight: 2100
 url: /cpp/aspose.pdf.facades/formfieldfacade/set_alignment/
 ---
 ## FormFieldFacade::set_Alignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_alignment/
 The alignment of a field text, default is left alignment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormFieldFacade::set_Alignment(int32_t value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_Alignment(int32_t value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_CreationDate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileParams::get_CreationDate method. The date and time when the embedded file was created in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/fileparams/get_creationdate/
 ---
 ## FileParams::get_CreationDate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/fileparams/get_creationdate/
 The date and time when the embedded file was created.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::DateTime Aspose::Pdf::FileParams::get_CreationDate()
+System::DateTime Aspose::Pdf::FileParams::get_CreationDate()
 ```
 
 ## See Also

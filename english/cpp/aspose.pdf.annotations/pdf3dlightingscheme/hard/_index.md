@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dlightingscheme/hard/
 The "Hard" lighting scheme.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Hard
+static System::SharedPtr<PDF3DLightingScheme> Aspose::Pdf::Annotations::PDF3DLightingScheme::Hard
 ```
 
 ## See Also

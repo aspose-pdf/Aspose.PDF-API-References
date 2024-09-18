@@ -4,7 +4,7 @@ linktitle: DefaultFieldNamespacePrefix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionSchema::DefaultFieldNamespacePrefix field. Default field namespace prefix in C++.'
 type: docs
-weight: 1800
+weight: 1200
 url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/
 ---
 ## DefaultFieldNamespacePrefix field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/
 Default field namespace prefix.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultFieldNamespacePrefix
+static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultFieldNamespacePrefix
 ```
 
 

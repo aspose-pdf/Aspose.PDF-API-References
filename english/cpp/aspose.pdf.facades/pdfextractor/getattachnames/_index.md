@@ -4,7 +4,7 @@ linktitle: GetAttachNames
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::GetAttachNames method. Returns list of attachments in PDF file. Note: ExtractAttachments must be called before using this method in C++.'
 type: docs
-weight: 2200
+weight: 1600
 url: /cpp/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
 ## PdfExtractor::GetAttachNames method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/getattachnames/
 Returns list of attachments in PDF file. [Note](../../../aspose.pdf/note/): ExtractAttachments must be called before using this method.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::Facades::PdfExtractor::GetAttachNames()
+System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::Facades::PdfExtractor::GetAttachNames()
 ```
 
 

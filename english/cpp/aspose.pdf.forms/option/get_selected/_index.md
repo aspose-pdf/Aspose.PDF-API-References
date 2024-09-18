@@ -4,7 +4,7 @@ linktitle: get_Selected
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Option::get_Selected method. Gets selected status of option. Returns true if option is selected in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.forms/option/get_selected/
 ---
 ## Option::get_Selected method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/option/get_selected/
 Gets selected status of option. Returns true if option is selected.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Option::get_Selected()
+bool Aspose::Pdf::Forms::Option::get_Selected()
 ```
 
 ## See Also

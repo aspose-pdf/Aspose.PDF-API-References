@@ -4,7 +4,7 @@ linktitle: set_Rect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::set_Rect method. Sets annotation rectangle in C++.'
 type: docs
-weight: 1400
+weight: 3900
 url: /cpp/aspose.pdf.annotations/annotation/set_rect/
 ---
 ## Annotation::set_Rect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_rect/
 Sets annotation rectangle.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Annotation::set_Rect(System::SharedPtr<Rectangle> value)
+virtual void Aspose::Pdf::Annotations::Annotation::set_Rect(System::SharedPtr<Rectangle> value)
 ```
 
 ## See Also

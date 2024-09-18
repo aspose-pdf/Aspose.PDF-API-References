@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintent/get_registryname/
 Gets a text that identifies the registry in which the condition designated by [OutputConditionIdentifier](../) is defined.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::OutputIntent::get_RegistryName()
+System::String Aspose::Pdf::OutputIntent::get_RegistryName()
 ```
 
 ## See Also

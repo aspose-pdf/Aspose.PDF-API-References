@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rows::virtualizeEndIterator method. Gets iterator pointing right after the last element (if any) of the collection in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/aspose.pdf/rows/virtualizeenditerator/
 ---
 ## Rows::virtualizeEndIterator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/virtualizeenditerator/
 Gets iterator pointing right after the last element (if any) of the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API virtualized_iterator * Aspose::Pdf::Rows::virtualizeEndIterator() override
+virtualized_iterator * Aspose::Pdf::Rows::virtualizeEndIterator() override
 ```
 
 

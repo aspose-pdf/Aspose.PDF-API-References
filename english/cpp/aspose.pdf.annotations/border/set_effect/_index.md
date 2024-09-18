@@ -4,7 +4,7 @@ linktitle: set_Effect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::set_Effect method. Sets border effect in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/aspose.pdf.annotations/border/set_effect/
 ---
 ## Border::set_Effect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/set_effect/
 Sets border effect.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Border::set_Effect(BorderEffect value)
+void Aspose::Pdf::Annotations::Border::set_Effect(BorderEffect value)
 ```
 
 ## Remarks

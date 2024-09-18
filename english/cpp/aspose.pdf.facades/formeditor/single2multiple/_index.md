@@ -4,7 +4,7 @@ linktitle: Single2Multiple
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::Single2Multiple method. Change a single-lined text field to a multiple-lined one in C++.'
 type: docs
-weight: 5600
+weight: 5900
 url: /cpp/aspose.pdf.facades/formeditor/single2multiple/
 ---
 ## FormEditor::Single2Multiple method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/single2multiple/
 Change a single-lined text field to a multiple-lined one.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::Single2Multiple(System::String fieldName)
+bool Aspose::Pdf::Facades::FormEditor::Single2Multiple(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::Single2Multiple(Sys
 ### ReturnValue
 
 If success, return true;else false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The qualified field name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FormEditor](../)

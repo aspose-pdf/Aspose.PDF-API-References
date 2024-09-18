@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_xyfactor/
 A factor that shall be used to convert the largest units along the y axis to the largest units along the x axis.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Measure::set_XYFactor(double value)
+void Aspose::Pdf::Annotations::Measure::set_XYFactor(double value)
 ```
 
 ## See Also

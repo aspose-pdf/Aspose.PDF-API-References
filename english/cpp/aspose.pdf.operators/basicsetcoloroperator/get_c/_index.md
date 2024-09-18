@@ -4,7 +4,7 @@ linktitle: get_C
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::BasicSetColorOperator::get_C method. Gets cyan component of CMYK color in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_c/
 ---
 ## BasicSetColorOperator::get_C method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_c/
 Gets cyan component of CMYK color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::BasicSetColorOperator::get_C()
+double Aspose::Pdf::Operators::BasicSetColorOperator::get_C()
 ```
 
 ## See Also

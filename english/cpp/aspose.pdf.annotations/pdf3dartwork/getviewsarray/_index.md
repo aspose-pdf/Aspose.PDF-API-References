@@ -4,7 +4,7 @@ linktitle: GetViewsArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DArtwork::GetViewsArray method. Gets the views array in C++.'
 type: docs
-weight: 800
+weight: 500
 url: /cpp/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 ---
 ## PDF3DArtwork::GetViewsArray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 Gets the views array.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<PDF3DView>> Aspose::Pdf::Annotations::PDF3DArtwork::GetViewsArray()
+System::ArrayPtr<System::SharedPtr<PDF3DView>> Aspose::Pdf::Annotations::PDF3DArtwork::GetViewsArray()
 ```
 
 

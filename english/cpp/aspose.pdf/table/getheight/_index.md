@@ -4,7 +4,7 @@ linktitle: GetHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::GetHeight method. Get height in C++.'
 type: docs
-weight: 4200
+weight: 2300
 url: /cpp/aspose.pdf/table/getheight/
 ---
 ## Table::GetHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/getheight/
 Get height.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Table::GetHeight(System::SharedPtr<Page> parentPage=nullptr)
+double Aspose::Pdf::Table::GetHeight(System::SharedPtr<Page> parentPage=nullptr)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API double Aspose::Pdf::Table::GetHeight(System::SharedPtr<Pag
 ### ReturnValue
 
 The table height.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>parentPage</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The table's parent page (optional).</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

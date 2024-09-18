@@ -4,7 +4,7 @@ linktitle: set_Matrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FixedPrint::set_Matrix method. Sets matrix value in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.annotations/fixedprint/set_matrix/
 ---
 ## FixedPrint::set_Matrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fixedprint/set_matrix/
 Sets matrix value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::FixedPrint::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
+void Aspose::Pdf::Annotations::FixedPrint::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Utils::PublicData::CosPdfNumber::get_Value method. Gets the value in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.utils.publicdata/cospdfnumber/get_value/
 ---
 ## CosPdfNumber::get_Value method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfnumber/get_value/
 Gets the value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Utils::PublicData::CosPdfNumber::get_Value() const
+double Aspose::Pdf::Utils::PublicData::CosPdfNumber::get_Value() const
 ```
 
 ## Remarks

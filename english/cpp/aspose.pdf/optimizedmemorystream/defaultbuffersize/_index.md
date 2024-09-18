@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/defaultbuffersize/
 Default buffer size value in bytes.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::OptimizedMemoryStream::DefaultBufferSize
+static const int32_t Aspose::Pdf::OptimizedMemoryStream::DefaultBufferSize
 ```
 
 ## See Also

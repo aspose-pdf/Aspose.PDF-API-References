@@ -4,7 +4,7 @@ linktitle: get_Fonts
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FontAbsorber::get_Fonts method. Gets collection of search occurrences that are presented with Font objects in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.text/fontabsorber/get_fonts/
 ---
 ## FontAbsorber::get_Fonts method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontabsorber/get_fonts/
 Gets collection of search occurrences that are presented with [Font](../../font/) objects.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FontCollection> Aspose::Pdf::Text::FontAbsorber::get_Fonts() const
+System::SharedPtr<FontCollection> Aspose::Pdf::Text::FontAbsorber::get_Fonts() const
 ```
 
 ## See Also

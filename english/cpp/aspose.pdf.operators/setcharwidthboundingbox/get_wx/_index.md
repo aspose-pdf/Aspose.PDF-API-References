@@ -4,7 +4,7 @@ linktitle: get_Wx
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Wx method. Horizontal displacement of glyph in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.pdf.operators/setcharwidthboundingbox/get_wx/
 ---
 ## SetCharWidthBoundingBox::get_Wx method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcharwidthboundingbox/get_wx/
 Horizontal displacement of glyph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Wx() const
+double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Wx() const
 ```
 
 ## See Also

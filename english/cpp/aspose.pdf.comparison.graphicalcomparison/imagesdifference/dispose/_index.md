@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::Dispose method. Performs any necessary clean up operations before the object is destroyed in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.pdf.comparison.graphicalcomparison/imagesdifference/dispose/
 ---
 ## ImagesDifference::Dispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.graphicalcomparison/imagesdifference/dispose/
 Performs any necessary clean up operations before the object is destroyed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::Dispose() override
+void Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::Dispose() override
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_DefaultCellPadding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Row::set_DefaultCellPadding method. Sets default margin for row cells in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/aspose.pdf/row/set_defaultcellpadding/
 ---
 ## Row::set_DefaultCellPadding method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/set_defaultcellpadding/
 Sets default margin for row cells.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Row::set_DefaultCellPadding(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::Row::set_DefaultCellPadding(System::SharedPtr<MarginInfo> value)
 ```
 
 ## See Also

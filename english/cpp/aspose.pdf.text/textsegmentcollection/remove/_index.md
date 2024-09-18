@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegmentcollection/remove/
 Deletes specified item from collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextSegmentCollection::Remove(const System::SharedPtr<TextSegment> &item) override
+bool Aspose::Pdf::Text::TextSegmentCollection::Remove(const System::SharedPtr<TextSegment> &item) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextSegmentCollection::Remove(cons
 ### ReturnValue
 
 true if item was deleted from collection; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to delete</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextSegment](../../textsegment/)

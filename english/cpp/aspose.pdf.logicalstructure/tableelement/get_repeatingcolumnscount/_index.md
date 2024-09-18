@@ -4,7 +4,7 @@ linktitle: get_RepeatingColumnsCount
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_RepeatingColumnsCount method. Gets the maximum columns count for table in C++.'
 type: docs
-weight: 3100
+weight: 1800
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_repeatingcolumnscount/
 ---
 ## TableElement::get_RepeatingColumnsCount method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/get_repeatingcolumnscount/
 Gets the maximum columns count for table.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::LogicalStructure::TableElement::get_RepeatingColumnsCount() const
+int32_t Aspose::Pdf::LogicalStructure::TableElement::get_RepeatingColumnsCount() const
 ```
 
 ## See Also

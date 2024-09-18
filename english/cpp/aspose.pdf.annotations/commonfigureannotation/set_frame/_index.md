@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/commonfigureannotation/set_frame/
 The rectangle describing the numerical differences between two rectangles: the Rect entry of the annotation and the actual boundaries of the underlying square or circle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::CommonFigureAnnotation::set_Frame(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Annotations::CommonFigureAnnotation::set_Frame(System::SharedPtr<Rectangle> value)
 ```
 
 ## See Also

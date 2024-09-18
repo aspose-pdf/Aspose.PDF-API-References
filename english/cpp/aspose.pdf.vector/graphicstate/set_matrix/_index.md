@@ -4,7 +4,7 @@ linktitle: set_Matrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicState::set_Matrix method. Gets the current transformation matrix in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.vector/graphicstate/set_matrix/
 ---
 ## GraphicState::set_Matrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicstate/set_matrix/
 Gets the current transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Vector::GraphicState::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
+void Aspose::Pdf::Vector::GraphicState::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
 ```
 
 ## See Also

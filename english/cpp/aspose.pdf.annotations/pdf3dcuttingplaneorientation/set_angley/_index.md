@@ -4,7 +4,7 @@ linktitle: set_AngleY
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::set_AngleY method. Sets the angle to Y axis in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.pdf.annotations/pdf3dcuttingplaneorientation/set_angley/
 ---
 ## PDF3DCuttingPlaneOrientation::set_AngleY method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcuttingplaneorientation/set_angley/
 Sets the angle to Y axis.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::set_AngleY(System::Nullable<double> value)
+void Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::set_AngleY(System::Nullable<double> value)
 ```
 
 ## Remarks

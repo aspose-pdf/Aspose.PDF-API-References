@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentCollection::Remove method. Deletes specified item from collection in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf.text/textfragmentcollection/remove/
 ---
 ## TextFragmentCollection::Remove method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentcollection/remove/
 Deletes specified item from collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentCollection::Remove(const System::SharedPtr<TextFragment> &item) override
+bool Aspose::Pdf::Text::TextFragmentCollection::Remove(const System::SharedPtr<TextFragment> &item) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentCollection::Remove(con
 ### ReturnValue
 
 true if item was deleted from collection; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to delete</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextFragment](../../textfragment/)

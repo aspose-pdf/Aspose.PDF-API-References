@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/textplaceoperator/textplaceoperator/
 Initializes [TextPlaceOperator](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperator()
+Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperator()
 ```
 
 ## See Also
@@ -27,27 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperat
 Initializes [TextPlaceOperator](../) which accepts TextProperties.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperator(System::SharedPtr<Aspose::Pdf::Facades::TextProperties> textProperties)
+Aspose::Pdf::Operators::TextPlaceOperator::TextPlaceOperator(System::SharedPtr<Aspose::Pdf::Facades::TextProperties> textProperties)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | textProperties | System::SharedPtr\<Aspose::Pdf::Facades::TextProperties\> | [Text](../../../aspose.pdf.text/) properties. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>textProperties</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_aspose_1_1_pdf_1_1_text" kindref="compound">Text</ref> properties.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextProperties](../../../aspose.pdf.facades/textproperties/)

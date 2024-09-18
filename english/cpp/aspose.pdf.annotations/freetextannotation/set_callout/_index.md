@@ -4,7 +4,7 @@ linktitle: set_Callout
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::set_Callout method. Array of point specifying callout line in C++.'
 type: docs
-weight: 2000
+weight: 1500
 url: /cpp/aspose.pdf.annotations/freetextannotation/set_callout/
 ---
 ## FreeTextAnnotation::set_Callout method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/set_callout/
 Array of point specifying callout line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::FreeTextAnnotation::set_Callout(System::ArrayPtr<System::SharedPtr<Point>> value)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::set_Callout(System::ArrayPtr<System::SharedPtr<Point>> value)
 ```
 
 ## See Also

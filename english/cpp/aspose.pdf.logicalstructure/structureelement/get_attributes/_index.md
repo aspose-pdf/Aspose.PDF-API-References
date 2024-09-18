@@ -4,7 +4,7 @@ linktitle: get_Attributes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::get_Attributes method. Gets T:/Aspose::Pdf::LogicalStructure::StructureAttributeCollection object in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.pdf.logicalstructure/structureelement/get_attributes/
 ---
 ## StructureElement::get_Attributes method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/get_attributes/
 Gets [T:/Aspose::Pdf::LogicalStructure::StructureAttributeCollection](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<StructureAttributeCollection> Aspose::Pdf::LogicalStructure::StructureElement::get_Attributes() const
+System::SharedPtr<StructureAttributeCollection> Aspose::Pdf::LogicalStructure::StructureElement::get_Attributes() const
 ```
 
 ## Remarks

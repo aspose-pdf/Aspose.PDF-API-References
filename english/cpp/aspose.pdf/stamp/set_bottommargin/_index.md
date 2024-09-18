@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/set_bottommargin/
 Sets bottom margin of stamp.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Stamp::set_BottomMargin(double value)
+void Aspose::Pdf::Stamp::set_BottomMargin(double value)
 ```
 
 ## See Also

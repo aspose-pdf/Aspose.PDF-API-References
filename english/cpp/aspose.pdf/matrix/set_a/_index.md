@@ -4,7 +4,7 @@ linktitle: set_A
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::set_A method. A member of the transformation matrix in C++.'
 type: docs
-weight: 300
+weight: 1700
 url: /cpp/aspose.pdf/matrix/set_a/
 ---
 ## Matrix::set_A method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/set_a/
 A member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Matrix::set_A(double value)
+void Aspose::Pdf::Matrix::set_A(double value)
 ```
 
 ## See Also

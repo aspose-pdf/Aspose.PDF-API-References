@@ -4,7 +4,7 @@ linktitle: get_PageInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::get_PageInfo method. Gets document page info in C++.'
 type: docs
-weight: 1400
+weight: 800
 url: /cpp/aspose.pdf/htmlloadoptions/get_pageinfo/
 ---
 ## HtmlLoadOptions::get_PageInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlloadoptions/get_pageinfo/
 Gets document page info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::PageInfo> & Aspose::Pdf::HtmlLoadOptions::get_PageInfo() const
+const System::SharedPtr<Aspose::Pdf::PageInfo> & Aspose::Pdf::HtmlLoadOptions::get_PageInfo() const
 ```
 
 ## See Also

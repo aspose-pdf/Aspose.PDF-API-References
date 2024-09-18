@@ -4,7 +4,7 @@ linktitle: get_WrapMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFormattingOptions::get_WrapMode method. Gets word wrap mode. Default value is WordWrapMode.NoWrap in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.pdf.text/textformattingoptions/get_wrapmode/
 ---
 ## TextFormattingOptions::get_WrapMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/get_wrapmode/
 Gets word wrap mode. Default value is **WordWrapMode.NoWrap**.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TextFormattingOptions::WordWrapMode Aspose::Pdf::Text::TextFormattingOptions::get_WrapMode() const
+TextFormattingOptions::WordWrapMode Aspose::Pdf::Text::TextFormattingOptions::get_WrapMode() const
 ```
 
 ## See Also

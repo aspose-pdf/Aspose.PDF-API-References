@@ -4,7 +4,7 @@ linktitle: get_SearchRectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::ParagraphAbsorberOptions::get_SearchRectangle method. Gets paragraph search rectangle in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pdf.text/paragraphabsorberoptions/get_searchrectangle/
 ---
 ## ParagraphAbsorberOptions::get_SearchRectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorberoptions/get_searchrectangle/
 Gets paragraph search rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Text::ParagraphAbsorberOptions::get_SearchRectangle() const
+System::SharedPtr<Rectangle> Aspose::Pdf::Text::ParagraphAbsorberOptions::get_SearchRectangle() const
 ```
 
 ## See Also

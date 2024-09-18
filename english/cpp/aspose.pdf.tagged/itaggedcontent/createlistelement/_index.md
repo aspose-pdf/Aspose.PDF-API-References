@@ -4,7 +4,7 @@ linktitle: CreateListElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateListElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 1900
+weight: 1400
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createlistelement/
 ---
 ## ITaggedContent::CreateListElement method

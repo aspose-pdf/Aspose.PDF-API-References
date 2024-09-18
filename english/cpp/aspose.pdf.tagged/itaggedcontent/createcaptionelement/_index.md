@@ -4,7 +4,7 @@ linktitle: CreateCaptionElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateCaptionElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 1100
+weight: 500
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
 ## ITaggedContent::CreateCaptionElement method

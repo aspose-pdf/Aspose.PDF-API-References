@@ -4,7 +4,7 @@ linktitle: set_Highlighting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WidgetAnnotation::set_Highlighting method. Annotation highlighting mode in C++.'
 type: docs
-weight: 500
+weight: 1500
 url: /cpp/aspose.pdf.annotations/widgetannotation/set_highlighting/
 ---
 ## WidgetAnnotation::set_Highlighting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_highlighting/
 [Annotation](../../annotation/) highlighting mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::WidgetAnnotation::set_Highlighting(HighlightingMode value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_Highlighting(HighlightingMode value)
 ```
 
 ## See Also

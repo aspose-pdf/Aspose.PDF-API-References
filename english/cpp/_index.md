@@ -24,12 +24,6 @@ is_root: true
 | [Aspose::Pdf::Comparison::SideBySideComparison](./aspose.pdf.comparison.sidebysidecomparison/) |  |
 | [Aspose::Pdf::Devices](./aspose.pdf.devices/) |  |
 | [Aspose::Pdf::Drawing](./aspose.pdf.drawing/) |  |
-| [Aspose::Pdf::Engine::CommonData](./aspose.pdf.engine.commondata/) |  |
-| [Aspose::Pdf::Engine::CommonData::Text::CMaps](./aspose.pdf.engine.commondata.text.cmaps/) |  |
-| [Aspose::Pdf::Engine::CommonData::Text::Fonts::Utilities](./aspose.pdf.engine.commondata.text.fonts.utilities/) |  |
-| [Aspose::Pdf::Engine::Data](./aspose.pdf.engine.data/) |  |
-| [Aspose::Pdf::Engine::Filters](./aspose.pdf.engine.filters/) |  |
-| [Aspose::Pdf::Engine::IO::ConvertStrategies::ConvertHelpers](./aspose.pdf.engine.io.convertstrategies.converthelpers/) |  |
 | [Aspose::Pdf::Facades](./aspose.pdf.facades/) |  |
 | [Aspose::Pdf::Forms](./aspose.pdf.forms/) |  |
 | [Aspose::Pdf::GroupProcessor](./aspose.pdf.groupprocessor/) |  |

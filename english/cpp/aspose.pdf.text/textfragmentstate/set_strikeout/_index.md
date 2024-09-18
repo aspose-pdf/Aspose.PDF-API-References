@@ -4,7 +4,7 @@ linktitle: set_StrikeOut
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::set_StrikeOut method. Sets strikeout for the text, represented by the TextFragment object in C++.'
 type: docs
-weight: 2700
+weight: 4300
 url: /cpp/aspose.pdf.text/textfragmentstate/set_strikeout/
 ---
 ## TextFragmentState::set_StrikeOut method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/set_strikeout/
 Sets strikeout for the text, represented by the [TextFragment](../../textfragment/) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragmentState::set_StrikeOut(bool value) override
+void Aspose::Pdf::Text::TextFragmentState::set_StrikeOut(bool value) override
 ```
 
 ## See Also

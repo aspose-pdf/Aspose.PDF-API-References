@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagelabelcollection/removelabel/
 Remove label by page index (page index is started from 0).
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PageLabelCollection::RemoveLabel(int32_t pageIndex)
+bool Aspose::Pdf::PageLabelCollection::RemoveLabel(int32_t pageIndex)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PageLabelCollection::RemoveLabel(int32_t
 ### ReturnValue
 
 true if operation was executed successfully.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageIndex</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of page where label must be deleted.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PageLabelCollection](../)

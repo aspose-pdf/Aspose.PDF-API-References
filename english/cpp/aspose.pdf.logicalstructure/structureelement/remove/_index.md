@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::Remove method. Removes: an element from the structure, a reference to it from the parent object, references to it from child objects, the corresponding object from the document in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/aspose.pdf.logicalstructure/structureelement/remove/
 ---
 ## StructureElement::Remove method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/remove/
 Removes: an element from the structure, a reference to it from the parent object, references to it from child objects, the corresponding object from the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureElement::Remove()
+void Aspose::Pdf::LogicalStructure::StructureElement::Remove()
 ```
 
 ## See Also

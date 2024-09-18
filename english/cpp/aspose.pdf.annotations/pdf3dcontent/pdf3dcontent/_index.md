@@ -4,7 +4,7 @@ linktitle: PDF3DContent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent constructor. Initializes a new instance of the PDF3DContent class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
 ---
 ## PDF3DContent::PDF3DContent() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
 Initializes a new instance of the [PDF3DContent](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent()
+Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent()
 ```
 
 ## See Also
@@ -27,35 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent()
 Initializes a new instance of the [PDF3DContent](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent(System::String filename)
+Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent(System::String filename)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filename | System::String | The filename. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>filename</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The filename.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist><parameterlist kind="exception">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>ArgumentException</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Unknown 3D Artwork type</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PDF3DContent](../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/get_formpresentationmode/
 Gets form presentation mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Devices::FormPresentationMode Aspose::Pdf::Facades::PdfConverter::get_FormPresentationMode() const
+Aspose::Pdf::Devices::FormPresentationMode Aspose::Pdf::Facades::PdfConverter::get_FormPresentationMode() const
 ```
 
 ## See Also

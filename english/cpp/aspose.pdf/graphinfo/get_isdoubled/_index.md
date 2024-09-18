@@ -4,7 +4,7 @@ linktitle: get_IsDoubled
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::get_IsDoubled method. Gets is border doubled in C++.'
 type: docs
-weight: 1100
+weight: 700
 url: /cpp/aspose.pdf/graphinfo/get_isdoubled/
 ---
 ## GraphInfo::get_IsDoubled method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/get_isdoubled/
 Gets is border doubled.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::GraphInfo::get_IsDoubled() const
+bool Aspose::Pdf::GraphInfo::get_IsDoubled() const
 ```
 
 ## See Also

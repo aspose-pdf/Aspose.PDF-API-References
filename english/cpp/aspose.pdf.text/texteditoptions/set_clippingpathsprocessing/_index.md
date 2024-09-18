@@ -4,7 +4,7 @@ linktitle: set_ClippingPathsProcessing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextEditOptions::set_ClippingPathsProcessing method. Gets mode for processing clipping path of the edited text in C++.'
 type: docs
-weight: 1200
+weight: 1000
 url: /cpp/aspose.pdf.text/texteditoptions/set_clippingpathsprocessing/
 ---
 ## TextEditOptions::set_ClippingPathsProcessing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/texteditoptions/set_clippingpathsprocessing/
 Gets mode for processing clipping path of the edited text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextEditOptions::set_ClippingPathsProcessing(TextEditOptions::ClippingPathsProcessingMode value)
+void Aspose::Pdf::Text::TextEditOptions::set_ClippingPathsProcessing(TextEditOptions::ClippingPathsProcessingMode value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Selected
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RadioButtonField::get_Selected method. Gets index of selected item. Numbering of items is started from 1 in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.pdf.forms/radiobuttonfield/get_selected/
 ---
 ## RadioButtonField::get_Selected method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonfield/get_selected/
 Gets index of selected item. Numbering of items is started from 1.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::RadioButtonField::get_Selected() override
+int32_t Aspose::Pdf::Forms::RadioButtonField::get_Selected() override
 ```
 
 ## See Also

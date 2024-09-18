@@ -4,7 +4,7 @@ linktitle: set_LeftMargin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp::set_LeftMargin method. Sets left margin of stamp in C++.'
 type: docs
-weight: 2000
+weight: 2700
 url: /cpp/aspose.pdf/stamp/set_leftmargin/
 ---
 ## Stamp::set_LeftMargin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/set_leftmargin/
 Sets left margin of stamp.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Stamp::set_LeftMargin(double value)
+void Aspose::Pdf::Stamp::set_LeftMargin(double value)
 ```
 
 ## See Also

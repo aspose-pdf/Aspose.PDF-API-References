@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximage/tostream/
 Returns the original image stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::XImage::ToStream()
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::XImage::ToStream()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/importdataaction/get_data/
 The FDF file from which to import the data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::ImportDataAction::get_Data()
+System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::ImportDataAction::get_Data()
 ```
 
 ## See Also

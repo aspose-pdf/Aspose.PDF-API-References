@@ -4,7 +4,7 @@ linktitle: AddFieldScript
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::AddFieldScript method. Add JavaScript for a PushButton field. If old event exists, new event is added after it in C++.'
 type: docs
-weight: 5500
+weight: 300
 url: /cpp/aspose.pdf.facades/formeditor/addfieldscript/
 ---
 ## FormEditor::AddFieldScript method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/addfieldscript/
 Add JavaScript for a PushButton field. If old event exists, new event is added after it.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::AddFieldScript(System::String fieldName, System::String script)
+bool Aspose::Pdf::Facades::FormEditor::AddFieldScript(System::String fieldName, System::String script)
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::AddFieldScript(Syst
 ### ReturnValue
 
 True in case script was added successfully.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The fully qualified field name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>script</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The Java script to be added/placed into a push button field.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FormEditor](../)

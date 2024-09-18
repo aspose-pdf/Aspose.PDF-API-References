@@ -4,7 +4,7 @@ linktitle: set_ContentDisposition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::set_ContentDisposition method. Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline in C++.'
 type: docs
-weight: 2500
+weight: 3500
 url: /cpp/aspose.pdf.facades/formeditor/set_contentdisposition/
 ---
 ## FormEditor::set_ContentDisposition method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_contentdisposition/
 Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormEditor::set_ContentDisposition(Aspose::Pdf::ContentDisposition value)
+void Aspose::Pdf::Facades::FormEditor::set_ContentDisposition(Aspose::Pdf::ContentDisposition value)
 ```
 
 ## See Also

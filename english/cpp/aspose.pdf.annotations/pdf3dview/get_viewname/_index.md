@@ -4,7 +4,7 @@ linktitle: get_ViewName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::get_ViewName method. Gets the name of the view in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf.annotations/pdf3dview/get_viewname/
 ---
 ## PDF3DView::get_ViewName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/get_viewname/
 Gets the name of the view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::PDF3DView::get_ViewName() const
+System::String Aspose::Pdf::Annotations::PDF3DView::get_ViewName() const
 ```
 
 ## Remarks

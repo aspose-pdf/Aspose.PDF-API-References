@@ -4,7 +4,7 @@ linktitle: AddGraphics
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::AddGraphics method. Adds graphics to the page. Works faster than adding elements one by one with GraphicElement::AddOnPage(Page) method in C++.'
 type: docs
-weight: 5600
+weight: 200
 url: /cpp/aspose.pdf/page/addgraphics/
 ---
 ## Page::AddGraphics method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/addgraphics/
 Adds graphics to the page. Works faster than adding elements one by one with [GraphicElement::AddOnPage(Page)](../) method.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::AddGraphics(System::SharedPtr<Vector::GraphicElementCollection> elements, System::SharedPtr<Aspose::Pdf::Rectangle> rectangle=nullptr)
+void Aspose::Pdf::Page::AddGraphics(System::SharedPtr<Vector::GraphicElementCollection> elements, System::SharedPtr<Aspose::Pdf::Rectangle> rectangle=nullptr)
 ```
 
 
@@ -25,28 +25,7 @@ GraphicElement::Position
 
 
 is inside the rectangle area. If rectangle is null, all graphic elements will be added |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>elements</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Graphics collection.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rectangle</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Elements will be added to the page if it's <simplesect kind="see"><para>GraphicElement::Position</para></simplesect></para>
-      <para>is inside the rectangle area. If rectangle is null, all graphic elements will be added</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)

@@ -4,7 +4,7 @@ linktitle: set_Tx
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D::set_Tx method. Tx member of the transformation matrix in C++.'
 type: docs
-weight: 2000
+weight: 2600
 url: /cpp/aspose.pdf/matrix3d/set_tx/
 ---
 ## Matrix3D::set_Tx method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/set_tx/
 Tx member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Matrix3D::set_Tx(double value)
+void Aspose::Pdf::Matrix3D::set_Tx(double value)
 ```
 
 ## See Also

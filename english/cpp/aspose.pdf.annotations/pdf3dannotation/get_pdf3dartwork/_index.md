@@ -4,7 +4,7 @@ linktitle: get_Pdf3DArtwork
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DAnnotation::get_Pdf3DArtwork method. Gets the 3D Artwork in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.pdf.annotations/pdf3dannotation/get_pdf3dartwork/
 ---
 ## PDF3DAnnotation::get_Pdf3DArtwork method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dannotation/get_pdf3dartwork/
 Gets the 3D Artwork.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DArtwork> Aspose::Pdf::Annotations::PDF3DAnnotation::get_Pdf3DArtwork() const
+System::SharedPtr<PDF3DArtwork> Aspose::Pdf::Annotations::PDF3DAnnotation::get_Pdf3DArtwork() const
 ```
 
 ## Remarks

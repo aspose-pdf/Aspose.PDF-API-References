@@ -4,7 +4,7 @@ linktitle: get_TextAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::get_TextAlignment method. Gets. Alignment of Overlay Text in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/aspose.pdf.annotations/redactionannotation/get_textalignment/
 ---
 ## RedactionAnnotation::get_TextAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/get_textalignment/
 Gets. Alignment of Overlay [Text](../../../aspose.pdf.text/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Annotations::RedactionAnnotation::get_TextAlignment()
+Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Annotations::RedactionAnnotation::get_TextAlignment()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_linespacing/
 Sets line spacing of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureTextState::set_LineSpacing(System::Nullable<float> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_LineSpacing(System::Nullable<float> value)
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximage/get_height/
 Gets height of the image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::XImage::get_Height()
+int32_t Aspose::Pdf::XImage::get_Height()
 ```
 
 ## See Also

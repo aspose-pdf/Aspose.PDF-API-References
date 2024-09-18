@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/glyphposition/get_position/
 Position off the text in the operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::GlyphPosition::get_Position() const
+double Aspose::Pdf::Operators::GlyphPosition::get_Position() const
 ```
 
 ## See Also

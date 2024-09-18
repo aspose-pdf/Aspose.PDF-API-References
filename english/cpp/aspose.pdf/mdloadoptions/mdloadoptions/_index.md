@@ -4,7 +4,7 @@ linktitle: MdLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MdLoadOptions::MdLoadOptions constructor. Creates load options for converting markdown into pdf document in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf/mdloadoptions/mdloadoptions/
 ---
 ## MdLoadOptions::MdLoadOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/mdloadoptions/mdloadoptions/
 Creates load options for converting markdown into pdf document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::MdLoadOptions::MdLoadOptions()
+Aspose::Pdf::MdLoadOptions::MdLoadOptions()
 ```
 
 ## See Also

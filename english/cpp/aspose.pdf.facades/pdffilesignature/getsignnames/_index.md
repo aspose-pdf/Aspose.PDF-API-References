@@ -4,7 +4,7 @@ linktitle: GetSignNames
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetSignNames method. Gets the names of all not empty signatures in C++.'
 type: docs
-weight: 1300
+weight: 2200
 url: /cpp/aspose.pdf.facades/pdffilesignature/getsignnames/
 ---
 ## PdfFileSignature::GetSignNames method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/getsignnames/
 Gets the names of all not empty signatures.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::Facades::PdfFileSignature::GetSignNames(bool onlyActive=true)
+System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::Facades::PdfFileSignature::GetSignNames(bool onlyActive=true)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<Syst
 ### ReturnValue
 
 Return an IList<string>.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>onlyActive</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>if true, return only active signatures; otherwise, return all signatures.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSignature](../)

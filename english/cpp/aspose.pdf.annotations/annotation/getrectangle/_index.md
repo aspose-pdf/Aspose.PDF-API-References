@@ -4,7 +4,7 @@ linktitle: GetRectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::GetRectangle method. Returns rectangle of annotation taking into consideration page rotation in C++.'
 type: docs
-weight: 3800
+weight: 2800
 url: /cpp/aspose.pdf.annotations/annotation/getrectangle/
 ---
 ## Annotation::GetRectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/getrectangle/
 Returns rectangle of annotation taking into consideration page rotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::Annotation::GetRectangle(bool considerRotation)
+System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::Annotation::GetRectangle(bool considerRotation)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Annotations::Ann
 ### ReturnValue
 
 True - if rectangle found; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>considerRotation</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>If true, page rotation is takein into consideration.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../../../aspose.pdf/rectangle/)

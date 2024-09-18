@@ -17,7 +17,7 @@ Resume update for [Page::Contents](../) and all [XForm::Contents](../) Was made 
 .
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Vector::GraphicsAbsorber::ResumeUpdate()
+void Aspose::Pdf::Vector::GraphicsAbsorber::ResumeUpdate()
 ```
 
 ## See Also

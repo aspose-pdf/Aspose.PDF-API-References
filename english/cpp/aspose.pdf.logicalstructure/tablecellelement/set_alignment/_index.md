@@ -4,7 +4,7 @@ linktitle: set_Alignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableCellElement::set_Alignment method. Sets the cell alignment in C++.'
 type: docs
-weight: 1000
+weight: 1200
 url: /cpp/aspose.pdf.logicalstructure/tablecellelement/set_alignment/
 ---
 ## TableCellElement::set_Alignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/set_alignment/
 Sets the cell alignment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::TableCellElement::set_Alignment(HorizontalAlignment value)
+void Aspose::Pdf::LogicalStructure::TableCellElement::set_Alignment(HorizontalAlignment value)
 ```
 
 ## See Also

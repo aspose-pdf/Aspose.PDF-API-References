@@ -4,7 +4,7 @@ linktitle: SolidOutline
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::SolidOutline field. The "SolidOutline" render mode in C++.'
 type: docs
-weight: 2300
+weight: 1700
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/solidoutline/
 ---
 ## SolidOutline field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/solidoutline/
 The "SolidOutline" render mode.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SolidOutline
+static System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SolidOutline
 ```
 
 ## See Also

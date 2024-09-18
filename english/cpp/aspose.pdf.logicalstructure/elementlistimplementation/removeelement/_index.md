@@ -4,7 +4,7 @@ linktitle: RemoveElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::ElementListImplementation::RemoveElement method. Remove element from list in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.logicalstructure/elementlistimplementation/removeelement/
 ---
 ## ElementListImplementation::RemoveElement method
@@ -21,27 +21,7 @@ void Aspose::Pdf::LogicalStructure::ElementListImplementation::RemoveElement(Sys
 | --- | --- | --- |
 | element | System::SharedPtr\<Element\> | The [T:/Aspose::Pdf::LogicalStructure::Element](../). |
 | updatePdfDictionary | bool | Should the pdf dictionary be updated. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>element</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The <ref refid="" kindref="compound">T:/Aspose::Pdf::LogicalStructure::Element</ref>.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>updatePdfDictionary</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Should the pdf dictionary be updated.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Element](../../element/)

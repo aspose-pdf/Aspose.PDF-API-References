@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/checkboxstylecross/
 Defines a cross check box style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleCross
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleCross
 ```
 
 ## See Also

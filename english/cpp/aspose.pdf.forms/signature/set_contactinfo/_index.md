@@ -4,7 +4,7 @@ linktitle: set_ContactInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::set_ContactInfo method. Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number in C++.'
 type: docs
-weight: 1200
+weight: 1500
 url: /cpp/aspose.pdf.forms/signature/set_contactinfo/
 ---
 ## Signature::set_ContactInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_contactinfo/
 Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Signature::set_ContactInfo(System::String value)
+void Aspose::Pdf::Forms::Signature::set_ContactInfo(System::String value)
 ```
 
 ## See Also

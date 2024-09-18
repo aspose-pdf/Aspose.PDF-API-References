@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElementCollection::Add method. Adds a new GraphicElement to the collection. All items in the collection must have the same GraphicElement::Parent in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.vector/graphicelementcollection/add/
 ---
 ## GraphicElementCollection::Add method
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.vector/graphicelementcollection/add/
 Adds a new [GraphicElement](../../graphicelement/) to the collection. All items in the collection must have the same [GraphicElement::Parent](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Vector::GraphicElementCollection::Add(const System::SharedPtr<GraphicElement> &item) override
+void Aspose::Pdf::Vector::GraphicElementCollection::Add(const System::SharedPtr<GraphicElement> &item) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | item | const System::SharedPtr\<GraphicElement\>\& | IGraphicElement. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>IGraphicElement.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [GraphicElement](../../graphicelement/)

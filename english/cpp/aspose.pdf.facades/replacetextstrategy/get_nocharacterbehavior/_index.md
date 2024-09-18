@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/replacetextstrategy/get_nocharacterbehavior/
 Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway).
 
 ```cpp
-ASPOSE_PDF_SHARED_API ReplaceTextStrategy::NoCharacterAction Aspose::Pdf::Facades::ReplaceTextStrategy::get_NoCharacterBehavior() const
+ReplaceTextStrategy::NoCharacterAction Aspose::Pdf::Facades::ReplaceTextStrategy::get_NoCharacterBehavior() const
 ```
 
 ## See Also

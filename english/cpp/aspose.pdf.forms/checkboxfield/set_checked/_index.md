@@ -4,7 +4,7 @@ linktitle: set_Checked
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::CheckboxField::set_Checked method. Sets state of check box in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.pdf.forms/checkboxfield/set_checked/
 ---
 ## CheckboxField::set_Checked method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/checkboxfield/set_checked/
 Sets state of check box.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::CheckboxField::set_Checked(bool value)
+void Aspose::Pdf::Forms::CheckboxField::set_Checked(bool value)
 ```
 
 ## See Also

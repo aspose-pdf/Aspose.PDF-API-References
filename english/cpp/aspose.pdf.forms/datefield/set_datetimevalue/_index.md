@@ -4,7 +4,7 @@ linktitle: set_DateTimeValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::DateField::set_DateTimeValue method. Sets Date in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pdf.forms/datefield/set_datetimevalue/
 ---
 ## DateField::set_DateTimeValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/datefield/set_datetimevalue/
 Sets Date.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::DateField::set_DateTimeValue(System::DateTime value)
+void Aspose::Pdf::Forms::DateField::set_DateTimeValue(System::DateTime value)
 ```
 
 ## See Also

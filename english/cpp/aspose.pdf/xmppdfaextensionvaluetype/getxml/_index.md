@@ -4,7 +4,7 @@ linktitle: GetXml
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionValueType::GetXml method. Returns the list of xml elements that represent value type in xml tree in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/getxml/
 ---
 ## XmpPdfAExtensionValueType::GetXml method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/getxml/
 Returns the list of xml elements that represent value type in xml tree.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionValueType::GetXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument) override
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionValueType::GetXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<Syste
 ### ReturnValue
 
 The list of xml elements.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>xmlDocument</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The source xml document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpPdfAExtensionValueType](../)

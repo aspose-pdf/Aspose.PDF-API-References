@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collection/get_defaultentry/
 Default embedded file name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Collection::get_DefaultEntry()
+System::String Aspose::Pdf::Collection::get_DefaultEntry()
 ```
 
 ## See Also

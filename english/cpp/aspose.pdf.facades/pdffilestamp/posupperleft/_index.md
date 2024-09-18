@@ -4,7 +4,7 @@ linktitle: PosUpperLeft
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::PosUpperLeft field. Upper let position in C++.'
 type: docs
-weight: 4600
+weight: 4400
 url: /cpp/aspose.pdf.facades/pdffilestamp/posupperleft/
 ---
 ## PosUpperLeft field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/posupperleft/
 Upper let position.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileStamp::PosUpperLeft
+static const int32_t Aspose::Pdf::Facades::PdfFileStamp::PosUpperLeft
 ```
 
 ## See Also

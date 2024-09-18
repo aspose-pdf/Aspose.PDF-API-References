@@ -4,7 +4,7 @@ linktitle: TrimBottom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSanitization::TrimBottom method. Removes data after last %EOF in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.pdf.facades/pdffilesanitization/trimbottom/
 ---
 ## PdfFileSanitization::TrimBottom method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesanitization/trimbottom/
 Removes data after last %EOF.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSanitization::TrimBottom() override
+void Aspose::Pdf::Facades::PdfFileSanitization::TrimBottom() override
 ```
 
 ## See Also

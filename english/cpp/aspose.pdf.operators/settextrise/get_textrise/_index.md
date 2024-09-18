@@ -4,7 +4,7 @@ linktitle: get_TextRise
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetTextRise::get_TextRise method. Gets the text rise in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.operators/settextrise/get_textrise/
 ---
 ## SetTextRise::get_TextRise method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/settextrise/get_textrise/
 Gets the text rise.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetTextRise::get_TextRise() const
+double Aspose::Pdf::Operators::SetTextRise::get_TextRise() const
 ```
 
 ## See Also

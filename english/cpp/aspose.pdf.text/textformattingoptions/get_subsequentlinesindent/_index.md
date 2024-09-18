@@ -4,7 +4,7 @@ linktitle: get_SubsequentLinesIndent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFormattingOptions::get_SubsequentLinesIndent method. Gets subsequent lines indent value in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf.text/textformattingoptions/get_subsequentlinesindent/
 ---
 ## TextFormattingOptions::get_SubsequentLinesIndent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/get_subsequentlinesindent/
 Gets subsequent lines indent value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Text::TextFormattingOptions::get_SubsequentLinesIndent() const
+float Aspose::Pdf::Text::TextFormattingOptions::get_SubsequentLinesIndent() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/
 Exports bookmarks to HTML file.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToHtml(System::String inPdfFile, System::String outHtmlFile)
+static void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToHtml(System::String inPdfFile, System::String outHtmlFile)
 ```
 
 
@@ -21,27 +21,7 @@ static ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfBookmarkEditor::Expor
 | --- | --- | --- |
 | inPdfFile | System::String | Input PDF file which bookmarks will be exported. |
 | outHtmlFile | System::String | Output HTML file |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inPdfFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input PDF file which bookmarks will be exported.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>outHtmlFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output HTML file</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfBookmarkEditor](../)

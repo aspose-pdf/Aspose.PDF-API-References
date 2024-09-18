@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/id/id/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::ID::ID()
+Aspose::Pdf::Operators::ID::ID()
 ```
 
 ## See Also

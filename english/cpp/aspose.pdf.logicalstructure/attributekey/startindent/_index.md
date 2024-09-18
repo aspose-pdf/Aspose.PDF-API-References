@@ -4,7 +4,7 @@ linktitle: StartIndent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::StartIndent field. StartIndent attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 1500
+weight: 3500
 url: /cpp/aspose.pdf.logicalstructure/attributekey/startindent/
 ---
 ## StartIndent field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/startindent/
 StartIndent attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::StartIndent
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::StartIndent
 ```
 
 ## See Also

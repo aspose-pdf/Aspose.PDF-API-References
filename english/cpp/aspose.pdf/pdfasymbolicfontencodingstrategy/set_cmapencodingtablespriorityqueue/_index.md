@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfasymbolicfontencodingstrategy/set_cmapencodingtablesprio
 Specifies queue of encoding subtables to process.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfASymbolicFontEncodingStrategy::set_CmapEncodingTablesPriorityQueue(System::SharedPtr<System::Collections::Generic::Queue<System::SharedPtr<PdfASymbolicFontEncodingStrategy::QueueItem>>> value)
+void Aspose::Pdf::PdfASymbolicFontEncodingStrategy::set_CmapEncodingTablesPriorityQueue(System::SharedPtr<System::Collections::Generic::Queue<System::SharedPtr<PdfASymbolicFontEncodingStrategy::QueueItem>>> value)
 ```
 
 ## See Also

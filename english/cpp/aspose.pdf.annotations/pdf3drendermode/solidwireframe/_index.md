@@ -4,7 +4,7 @@ linktitle: SolidWireframe
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::SolidWireframe field. The "SolidWireFrame" render mode in C++.'
 type: docs
-weight: 1200
+weight: 1800
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/solidwireframe/
 ---
 ## SolidWireframe field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/solidwireframe/
 The "SolidWireFrame" render mode.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SolidWireframe
+static System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SolidWireframe
 ```
 
 ## See Also

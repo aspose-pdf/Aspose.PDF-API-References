@@ -4,7 +4,7 @@ linktitle: AddText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileMend::AddText method. Not implemented in C++.'
 type: docs
-weight: 1500
+weight: 300
 url: /cpp/aspose.pdf.facades/pdffilemend/addtext/
 ---
 ## PdfFileMend::AddText(System::SharedPtr\<FormattedText\>, int32_t, float, float) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilemend/addtext/
 Not implemented.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::SharedPtr<FormattedText> text, int32_t pageNum, float lowerLeftX, float lowerLeftY)
+bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::SharedPtr<FormattedText> text, int32_t pageNum, float lowerLeftX, float lowerLeftY)
 ```
 
 
@@ -27,45 +27,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::Sh
 ### ReturnValue
 
 True in case text was successfully added.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_facades_1_1_formatted_text" kindref="compound">FormattedText</ref> object.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNum</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> number.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Lower left X coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Lower left Y coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FormattedText](../../formattedtext/)
@@ -78,7 +40,7 @@ True in case text was successfully added.
 Not implemented.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::SharedPtr<FormattedText> text, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::SharedPtr<FormattedText> text, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
 ```
 
 
@@ -94,61 +56,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::Sh
 ### ReturnValue
 
 True in case text was successfully added.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_facades_1_1_formatted_text" kindref="compound">FormattedText</ref> object.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNum</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> number.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Lower left X coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Lower left Y coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Upper right X coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Upper right Y coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FormattedText](../../formattedtext/)
@@ -161,7 +69,7 @@ True in case text was successfully added.
 Not implemented.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::SharedPtr<FormattedText> text, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::SharedPtr<FormattedText> text, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
 ```
 
 
@@ -177,61 +85,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddText(System::Sh
 ### ReturnValue
 
 True in case text was successfully added.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_facades_1_1_formatted_text" kindref="compound">FormattedText</ref> object.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNums</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> numbers array.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Lower left X coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Lower left Y coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Upper right X coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Upper right Y coordinate.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FormattedText](../../formattedtext/)

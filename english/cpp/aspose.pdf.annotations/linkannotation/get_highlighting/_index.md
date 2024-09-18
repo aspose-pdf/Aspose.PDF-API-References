@@ -4,7 +4,7 @@ linktitle: get_Highlighting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LinkAnnotation::get_Highlighting method. The visual effect to be used when the mouse button is pressed or held down inside its active area in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.annotations/linkannotation/get_highlighting/
 ---
 ## LinkAnnotation::get_Highlighting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/linkannotation/get_highlighting/
 The visual effect to be used when the mouse button is pressed or held down inside its active area.
 
 ```cpp
-ASPOSE_PDF_SHARED_API HighlightingMode Aspose::Pdf::Annotations::LinkAnnotation::get_Highlighting()
+HighlightingMode Aspose::Pdf::Annotations::LinkAnnotation::get_Highlighting()
 ```
 
 ## See Also

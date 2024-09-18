@@ -4,7 +4,7 @@ linktitle: get_Format
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ExcelSaveOptions::get_Format method. Output format in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.pdf/excelsaveoptions/get_format/
 ---
 ## ExcelSaveOptions::get_Format method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/excelsaveoptions/get_format/
 Output format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API ExcelSaveOptions::ExcelFormat Aspose::Pdf::ExcelSaveOptions::get_Format() const
+ExcelSaveOptions::ExcelFormat Aspose::Pdf::ExcelSaveOptions::get_Format() const
 ```
 
 ## See Also

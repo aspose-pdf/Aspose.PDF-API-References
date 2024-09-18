@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::Equals method. Returns true if two Colors are equal in C++.'
 type: docs
-weight: 800
+weight: 200
 url: /cpp/aspose.pdf/color/equals/
 ---
 ## Color::Equals method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/equals/
 Returns true if two Colors are equal.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Color::Equals(System::SharedPtr<System::Object> obj) override
+bool Aspose::Pdf::Color::Equals(System::SharedPtr<System::Object> obj) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Color::Equals(System::SharedPtr<System::
 ### ReturnValue
 
 True in case [Color](../) objects are equal.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>obj</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Object to compare.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Color](../)

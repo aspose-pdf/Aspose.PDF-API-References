@@ -4,7 +4,7 @@ linktitle: get_IsPoint
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::get_IsPoint method. Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/aspose.pdf/rectangle/get_ispoint/
 ---
 ## Rectangle::get_IsPoint method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/get_ispoint/
 Checks if rectangle is point i.e. LLX is equal URX and LLY is equal URY.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::get_IsPoint()
+bool Aspose::Pdf::Rectangle::get_IsPoint()
 ```
 
 ## See Also

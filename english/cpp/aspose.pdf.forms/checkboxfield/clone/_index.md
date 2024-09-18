@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::CheckboxField::Clone method. Clone the checkbox in C++.'
 type: docs
-weight: 1300
+weight: 300
 url: /cpp/aspose.pdf.forms/checkboxfield/clone/
 ---
 ## CheckboxField::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/checkboxfield/clone/
 Clone the checkbox.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Forms::CheckboxField::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::Forms::CheckboxField::Clone() override
 ```
 
 

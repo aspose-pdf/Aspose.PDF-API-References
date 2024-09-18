@@ -4,7 +4,7 @@ linktitle: get_IsGrayScaleSoftMasked
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_IsGrayScaleSoftMasked method of Aspose::Pdf::XImageAddingParams class in C++.'
 type: docs
-weight: 2000
+weight: 900
 url: /cpp/aspose.pdf/ximageaddingparams/get_isgrayscalesoftmasked/
 ---
 ## XImageAddingParams::get_IsGrayScaleSoftMasked method

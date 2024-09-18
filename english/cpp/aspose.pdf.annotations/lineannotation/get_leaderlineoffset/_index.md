@@ -4,7 +4,7 @@ linktitle: get_LeaderLineOffset
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLineOffset method. Gets leader line offset in C++.'
 type: docs
-weight: 1700
+weight: 1300
 url: /cpp/aspose.pdf.annotations/lineannotation/get_leaderlineoffset/
 ---
 ## LineAnnotation::get_LeaderLineOffset method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_leaderlineoffset/
 Gets leader line offset.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLineOffset()
+double Aspose::Pdf::Annotations::LineAnnotation::get_LeaderLineOffset()
 ```
 
 ## See Also

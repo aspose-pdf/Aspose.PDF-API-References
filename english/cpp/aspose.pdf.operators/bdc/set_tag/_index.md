@@ -4,7 +4,7 @@ linktitle: set_Tag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::BDC::set_Tag method. Sets marked content tag in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.operators/bdc/set_tag/
 ---
 ## BDC::set_Tag method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bdc/set_tag/
 Sets marked content tag.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::BDC::set_Tag(System::String value)
+void Aspose::Pdf::Operators::BDC::set_Tag(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_TextSearchOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TableAbsorber::set_TextSearchOptions method. Sets text search options in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pdf.text/tableabsorber/set_textsearchoptions/
 ---
 ## TableAbsorber::set_TextSearchOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tableabsorber/set_textsearchoptions/
 Sets text search options.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TableAbsorber::set_TextSearchOptions(System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> value)
+virtual void Aspose::Pdf::Text::TableAbsorber::set_TextSearchOptions(System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> value)
 ```
 
 ## Remarks

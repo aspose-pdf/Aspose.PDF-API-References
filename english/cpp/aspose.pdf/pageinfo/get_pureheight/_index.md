@@ -4,7 +4,7 @@ linktitle: get_PureHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageInfo::get_PureHeight method. Gets page pure height without margins in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf/pageinfo/get_pureheight/
 ---
 ## PageInfo::get_PureHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/get_pureheight/
 Gets page pure height without margins.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::PageInfo::get_PureHeight()
+double Aspose::Pdf::PageInfo::get_PureHeight()
 ```
 
 ## See Also

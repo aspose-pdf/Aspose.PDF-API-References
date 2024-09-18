@@ -4,7 +4,7 @@ linktitle: VerifySigned
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::VerifySigned method. Checks the validity of a signature in C++.'
 type: docs
-weight: 2500
+weight: 3500
 url: /cpp/aspose.pdf.facades/pdffilesignature/verifysigned/
 ---
 ## PdfFileSignature::VerifySigned method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/verifysigned/
 Checks the validity of a signature.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSignature::VerifySigned(System::String signName)
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySigned(System::String signName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSignature::VerifySigned(
 ### ReturnValue
 
 Return a result of bool type.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>signName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of signature.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSignature](../)

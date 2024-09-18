@@ -4,7 +4,7 @@ linktitle: set_Repeat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::set_Repeat method. If true overlay text will be repated on the annotation in C++.'
 type: docs
-weight: 1400
+weight: 1900
 url: /cpp/aspose.pdf.annotations/redactionannotation/set_repeat/
 ---
 ## RedactionAnnotation::set_Repeat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_repeat/
 If true overlay text will be repated on the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::RedactionAnnotation::set_Repeat(bool value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_Repeat(bool value)
 ```
 
 ## See Also

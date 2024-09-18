@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/set_rowspan/
 Sets the row span.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::TableCellElement::set_RowSpan(int32_t value)
+void Aspose::Pdf::LogicalStructure::TableCellElement::set_RowSpan(int32_t value)
 ```
 
 ## See Also

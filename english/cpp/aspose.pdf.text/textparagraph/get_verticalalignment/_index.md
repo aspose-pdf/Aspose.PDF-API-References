@@ -4,7 +4,7 @@ linktitle: get_VerticalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::get_VerticalAlignment method. Gets vertical alignment for the text inside paragrph''s Rectangle in C++.'
 type: docs
-weight: 100
+weight: 1500
 url: /cpp/aspose.pdf.text/textparagraph/get_verticalalignment/
 ---
 ## TextParagraph::get_VerticalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/get_verticalalignment/
 Gets vertical alignment for the text inside paragrph's [Rectangle](../../../aspose.pdf/rectangle/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::VerticalAlignment Aspose::Pdf::Text::TextParagraph::get_VerticalAlignment() const
+Aspose::Pdf::VerticalAlignment Aspose::Pdf::Text::TextParagraph::get_VerticalAlignment() const
 ```
 
 ## Remarks

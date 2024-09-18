@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fixedprint/set_horizontaltranslation/
 Sets horizontal translation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::FixedPrint::set_HorizontalTranslation(double value)
+void Aspose::Pdf::Annotations::FixedPrint::set_HorizontalTranslation(double value)
 ```
 
 ## See Also

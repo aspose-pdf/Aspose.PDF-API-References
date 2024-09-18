@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::get_Position method. Gets position of the paragraph in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/aspose.pdf.text/textparagraph/get_position/
 ---
 ## TextParagraph::get_Position method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/get_position/
 Gets position of the paragraph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::TextParagraph::get_Position() const
+System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::TextParagraph::get_Position() const
 ```
 
 ## See Also

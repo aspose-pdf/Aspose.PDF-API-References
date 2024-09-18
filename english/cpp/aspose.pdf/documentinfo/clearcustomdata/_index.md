@@ -4,7 +4,7 @@ linktitle: ClearCustomData
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocumentInfo::ClearCustomData method. Clears custom data only, leaves all other predefined values (Title, Author, etc.) in C++.'
 type: docs
-weight: 2900
+weight: 400
 url: /cpp/aspose.pdf/documentinfo/clearcustomdata/
 ---
 ## DocumentInfo::ClearCustomData method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/clearcustomdata/
 Clears custom data only, leaves all other predefined values (Title, Author, etc.).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::DocumentInfo::ClearCustomData()
+void Aspose::Pdf::DocumentInfo::ClearCustomData()
 ```
 
 ## See Also

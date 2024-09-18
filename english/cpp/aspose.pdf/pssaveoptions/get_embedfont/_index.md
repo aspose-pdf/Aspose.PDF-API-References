@@ -4,7 +4,7 @@ linktitle: get_EmbedFont
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PsSaveOptions::get_EmbedFont method. Gets/sets flag that indicates if fonts must be embedded in resulting PS document in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/pssaveoptions/get_embedfont/
 ---
 ## PsSaveOptions::get_EmbedFont method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pssaveoptions/get_embedfont/
 Gets/sets flag that indicates if fonts must be embedded in resulting PS document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PsSaveOptions::get_EmbedFont() const
+bool Aspose::Pdf::PsSaveOptions::get_EmbedFont() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.outputgenerator/markdowndiffoutputgenerator/mark
 Creates an instance of [MarkdownDiffOutputGenerator](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Comparison::OutputGenerator::MarkdownDiffOutputGenerator::MarkdownDiffOutputGenerator()
+Aspose::Pdf::Comparison::OutputGenerator::MarkdownDiffOutputGenerator::MarkdownDiffOutputGenerator()
 ```
 
 ## See Also

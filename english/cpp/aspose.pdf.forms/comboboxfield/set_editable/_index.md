@@ -4,7 +4,7 @@ linktitle: set_Editable
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ComboBoxField::set_Editable method. Sets editable status of the field in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.forms/comboboxfield/set_editable/
 ---
 ## ComboBoxField::set_Editable method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/comboboxfield/set_editable/
 Sets editable status of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ComboBoxField::set_Editable(bool value)
+void Aspose::Pdf::Forms::ComboBoxField::set_Editable(bool value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_RotationMatrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_RotationMatrix method. Gets transofmation matrix for the page in C++.'
 type: docs
-weight: 4400
+weight: 3800
 url: /cpp/aspose.pdf/page/get_rotationmatrix/
 ---
 ## Page::get_RotationMatrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_rotationmatrix/
 Gets transofmation matrix for the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Matrix> Aspose::Pdf::Page::get_RotationMatrix()
+System::SharedPtr<Matrix> Aspose::Pdf::Page::get_RotationMatrix()
 ```
 
 ## See Also

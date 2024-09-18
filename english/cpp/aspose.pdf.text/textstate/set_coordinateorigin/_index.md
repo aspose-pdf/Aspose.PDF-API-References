@@ -4,7 +4,7 @@ linktitle: set_CoordinateOrigin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_CoordinateOrigin method. Sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font''s lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font''s baseline. The default value is Descender. If the font''s Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering in C++.'
 type: docs
-weight: 3600
+weight: 2500
 url: /cpp/aspose.pdf.text/textstate/set_coordinateorigin/
 ---
 ## TextState::set_CoordinateOrigin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/set_coordinateorigin/
 Sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextState::set_CoordinateOrigin(Aspose::Pdf::Text::CoordinateOrigin value)
+virtual void Aspose::Pdf::Text::TextState::set_CoordinateOrigin(Aspose::Pdf::Text::CoordinateOrigin value)
 ```
 
 ## See Also

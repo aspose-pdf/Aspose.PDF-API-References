@@ -4,7 +4,7 @@ linktitle: get_IsLowMemoryMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_IsLowMemoryMode method. Is low memory conversion mode enabled in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_islowmemorymode/
 ---
 ## PdfFormatConversionOptions::get_IsLowMemoryMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_islowmemorymode/
 Is low memory conversion mode enabled.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PdfFormatConversionOptions::get_IsLowMemoryMode() const
+bool Aspose::Pdf::PdfFormatConversionOptions::get_IsLowMemoryMode() const
 ```
 
 ## See Also

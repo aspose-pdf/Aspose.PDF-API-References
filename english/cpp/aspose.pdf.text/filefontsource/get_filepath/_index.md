@@ -4,7 +4,7 @@ linktitle: get_FilePath
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FileFontSource::get_FilePath method. Path to the font file in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.text/filefontsource/get_filepath/
 ---
 ## FileFontSource::get_FilePath method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/filefontsource/get_filepath/
 Path to the font file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::FileFontSource::get_FilePath() const
+System::String Aspose::Pdf::Text::FileFontSource::get_FilePath() const
 ```
 
 ## See Also

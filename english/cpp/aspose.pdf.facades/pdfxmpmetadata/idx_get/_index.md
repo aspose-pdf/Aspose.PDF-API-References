@@ -2,54 +2,18 @@
 title: Aspose::Pdf::Facades::PdfXmpMetadata::idx_get method
 linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfXmpMetadata::idx_get method. Gets value by key in C++.'
+description: 'Aspose::Pdf::Facades::PdfXmpMetadata::idx_get method. Gets value of XMP metadata by key in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/idx_get/
 ---
-## PdfXmpMetadata::idx_get(const System::String\&) const method
-
-
-Gets value by key.
-
-```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XmpValue> Aspose::Pdf::Facades::PdfXmpMetadata::idx_get(const System::String &key) const override
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | const System::String\& | The key name to get/set. |
-
-### ReturnValue
-
-Object by key
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The key name to get/set.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* Class [PdfXmpMetadata](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## PdfXmpMetadata::idx_get(const DefaultMetadataProperties\&) const method
 
 
 Gets value of XMP metadata by key.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XmpValue> Aspose::Pdf::Facades::PdfXmpMetadata::idx_get(const DefaultMetadataProperties &key) const
+System::SharedPtr<XmpValue> Aspose::Pdf::Facades::PdfXmpMetadata::idx_get(const DefaultMetadataProperties &key) const
 ```
 
 
@@ -60,23 +24,35 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<XmpValue> Aspose::Pdf::Facades::PdfXmpMe
 ### ReturnValue
 
 Value from XMP metadata.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Key of the value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* Class [PdfXmpMetadata](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfXmpMetadata::idx_get(const System::String\&) const method
+
+
+Gets value by key.
+
+```cpp
+System::SharedPtr<XmpValue> Aspose::Pdf::Facades::PdfXmpMetadata::idx_get(const System::String &key) const override
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | const System::String\& | The key name to get/set. |
+
+### ReturnValue
+
+Object by key
+
+## See Also
+
+* Class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

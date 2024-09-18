@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionObject::set_Value method. Sets the value in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf/xmppdfaextensionobject/set_value/
 ---
 ## XmpPdfAExtensionObject::set_Value method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionobject/set_value/
 Sets the value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XmpPdfAExtensionObject::set_Value(System::String value)
+void Aspose::Pdf::XmpPdfAExtensionObject::set_Value(System::String value)
 ```
 
 ## See Also

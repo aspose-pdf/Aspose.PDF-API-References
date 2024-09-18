@@ -4,7 +4,7 @@ linktitle: set_Subject
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::set_Subject method. Sets the Subject information of PDF document in C++.'
 type: docs
-weight: 2500
+weight: 4300
 url: /cpp/aspose.pdf.facades/pdffileinfo/set_subject/
 ---
 ## PdfFileInfo::set_Subject method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_subject/
 Sets the Subject information of PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileInfo::set_Subject(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_Subject(System::String value)
 ```
 
 ## See Also

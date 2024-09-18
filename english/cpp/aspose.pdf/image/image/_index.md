@@ -4,7 +4,7 @@ linktitle: Image
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Image constructor of Aspose::Pdf::Image class in C++.'
 type: docs
-weight: 2200
+weight: 100
 url: /cpp/aspose.pdf/image/image/
 ---
 ## Image::Image constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/image/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Image::Image()
+Aspose::Pdf::Image::Image()
 ```
 
 ## See Also

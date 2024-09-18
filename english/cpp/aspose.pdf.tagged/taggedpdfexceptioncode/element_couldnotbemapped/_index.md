@@ -4,7 +4,7 @@ linktitle: Element_CouldNotBeMapped
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Element_CouldNotBeMapped field of Aspose::Pdf::Tagged::TaggedPdfExceptionCode class in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf.tagged/taggedpdfexceptioncode/element_couldnotbemapped/
 ---
 ## Element_CouldNotBeMapped field

@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::OptionCollection::idx_get method. Gets option by index in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.pdf.forms/optioncollection/idx_get/
 ---
 ## OptionCollection::idx_get(int32_t) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/idx_get/
 Gets option by index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::idx_get(int32_t index)
+System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollec
 ### ReturnValue
 
 [Option](../../option/) on the specified index.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of the option.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Option](../../option/)
@@ -49,7 +37,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollec
 Gets option by its name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::idx_get(System::String name)
+System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::idx_get(System::String name)
 ```
 
 
@@ -60,19 +48,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollec
 ### ReturnValue
 
 Found option.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of the option.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Option](../../option/)

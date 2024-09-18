@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setgray/tostring/
 Returns string representation of operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::SetGray::ToString() const override
+System::String Aspose::Pdf::Operators::SetGray::ToString() const override
 ```
 
 

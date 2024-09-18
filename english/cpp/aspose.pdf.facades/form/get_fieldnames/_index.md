@@ -4,7 +4,7 @@ linktitle: get_FieldNames
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::get_FieldNames method. Gets list of field names on the form in C++.'
 type: docs
-weight: 1100
+weight: 1700
 url: /cpp/aspose.pdf.facades/form/get_fieldnames/
 ---
 ## Form::get_FieldNames method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/get_fieldnames/
 Gets list of field names on the form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::String> Aspose::Pdf::Facades::Form::get_FieldNames()
+System::ArrayPtr<System::String> Aspose::Pdf::Facades::Form::get_FieldNames()
 ```
 
 ## See Also

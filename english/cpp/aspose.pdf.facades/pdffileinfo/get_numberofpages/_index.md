@@ -4,7 +4,7 @@ linktitle: get_NumberOfPages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::get_NumberOfPages method. Gets the number of document pages in C++.'
 type: docs
-weight: 2200
+weight: 1800
 url: /cpp/aspose.pdf.facades/pdffileinfo/get_numberofpages/
 ---
 ## PdfFileInfo::get_NumberOfPages method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/get_numberofpages/
 Gets the number of document pages.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileInfo::get_NumberOfPages()
+int32_t Aspose::Pdf::Facades::PdfFileInfo::get_NumberOfPages()
 ```
 
 ## See Also

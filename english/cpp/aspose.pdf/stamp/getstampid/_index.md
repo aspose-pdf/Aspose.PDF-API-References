@@ -4,7 +4,7 @@ linktitle: getStampId
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp::getStampId method. Returns stamp ID in C++.'
 type: docs
-weight: 4100
+weight: 2100
 url: /cpp/aspose.pdf/stamp/getstampid/
 ---
 ## Stamp::getStampId method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/getstampid/
 Returns stamp ID.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Stamp::getStampId()
+int32_t Aspose::Pdf::Stamp::getStampId()
 ```
 
 

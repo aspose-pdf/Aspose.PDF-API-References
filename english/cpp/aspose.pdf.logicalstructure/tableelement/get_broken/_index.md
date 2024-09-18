@@ -4,7 +4,7 @@ linktitle: get_Broken
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableElement::get_Broken method. Gets table vertial broken; in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.pdf.logicalstructure/tableelement/get_broken/
 ---
 ## TableElement::get_Broken method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/get_broken/
 Gets table vertial broken;.
 
 ```cpp
-ASPOSE_PDF_SHARED_API TableBroken Aspose::Pdf::LogicalStructure::TableElement::get_Broken() const
+TableBroken Aspose::Pdf::LogicalStructure::TableElement::get_Broken() const
 ```
 
 ## See Also

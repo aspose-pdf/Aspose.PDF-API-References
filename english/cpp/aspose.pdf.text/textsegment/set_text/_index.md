@@ -4,7 +4,7 @@ linktitle: set_Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSegment::set_Text method. Sets System::String text object that the TextSegment object represents in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/aspose.pdf.text/textsegment/set_text/
 ---
 ## TextSegment::set_Text method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegment/set_text/
 Sets **System::String** text object that the [TextSegment](../) object represents.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextSegment::set_Text(System::String value)
+void Aspose::Pdf::Text::TextSegment::set_Text(System::String value)
 ```
 
 ## See Also

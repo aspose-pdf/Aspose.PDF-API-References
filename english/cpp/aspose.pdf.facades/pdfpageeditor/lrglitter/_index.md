@@ -4,7 +4,7 @@ linktitle: LRGLITTER
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::LRGLITTER field. Left-Right Glitter in C++.'
 type: docs
-weight: 4200
+weight: 3500
 url: /cpp/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
 ## LRGLITTER field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/lrglitter/
 Left-Right Glitter.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::LRGLITTER
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::LRGLITTER
 ```
 
 ## See Also

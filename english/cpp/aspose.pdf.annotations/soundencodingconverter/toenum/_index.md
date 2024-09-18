@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::Annotations::SoundEncodingConverter class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.annotations/soundencodingconverter/toenum/
 ---
 ## SoundEncodingConverter::ToEnum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundencodingconverter/toenum/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API SoundEncoding Aspose::Pdf::Annotations::SoundEncodingConverter::ToEnum(System::String value)
+static SoundEncoding Aspose::Pdf::Annotations::SoundEncodingConverter::ToEnum(System::String value)
 ```
 
 ## See Also

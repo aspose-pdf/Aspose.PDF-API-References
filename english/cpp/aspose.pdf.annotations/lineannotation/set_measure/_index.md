@@ -4,7 +4,7 @@ linktitle: set_Measure
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::set_Measure method. Measure units specifed for this annotation in C++.'
 type: docs
-weight: 2400
+weight: 2700
 url: /cpp/aspose.pdf.annotations/lineannotation/set_measure/
 ---
 ## LineAnnotation::set_Measure method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_measure/
 [Measure](../../measure/) units specifed for this annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LineAnnotation::set_Measure(System::SharedPtr<Aspose::Pdf::Annotations::Measure> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_Measure(System::SharedPtr<Aspose::Pdf::Annotations::Measure> value)
 ```
 
 ## See Also

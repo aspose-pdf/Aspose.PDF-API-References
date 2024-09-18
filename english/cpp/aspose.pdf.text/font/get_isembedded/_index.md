@@ -4,7 +4,7 @@ linktitle: get_IsEmbedded
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::Font::get_IsEmbedded method. Gets a value that indicates whether the font is embedded. Font based on IFont will automatically be subset and embedded in C++.'
 type: docs
-weight: 400
+weight: 700
 url: /cpp/aspose.pdf.text/font/get_isembedded/
 ---
 ## Font::get_IsEmbedded method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/font/get_isembedded/
 Gets a value that indicates whether the font is embedded. [Font](../) based on IFont will automatically be subset and embedded.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::Font::get_IsEmbedded() const
+bool Aspose::Pdf::Text::Font::get_IsEmbedded() const
 ```
 
 

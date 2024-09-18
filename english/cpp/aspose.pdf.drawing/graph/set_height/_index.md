@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::set_Height method. Sets a float value that indicates the graph height. The unit is point in C++.'
 type: docs
-weight: 1800
+weight: 1400
 url: /cpp/aspose.pdf.drawing/graph/set_height/
 ---
 ## Graph::set_Height method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/set_height/
 Sets a float value that indicates the graph height. The unit is point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Graph::set_Height(double value)
+void Aspose::Pdf::Drawing::Graph::set_Height(double value)
 ```
 
 ## See Also

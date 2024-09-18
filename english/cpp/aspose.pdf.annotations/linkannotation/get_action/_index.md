@@ -4,7 +4,7 @@ linktitle: get_Action
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LinkAnnotation::get_Action method. An action to be performed when the link annotation is activated in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.annotations/linkannotation/get_action/
 ---
 ## LinkAnnotation::get_Action method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/linkannotation/get_action/
 An action to be performed when the link annotation is activated.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::LinkAnnotation::get_Action() const
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::LinkAnnotation::get_Action() const
 ```
 
 ## See Also

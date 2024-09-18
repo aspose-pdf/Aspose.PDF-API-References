@@ -4,7 +4,7 @@ linktitle: set_ScalingMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::IconFit::set_ScalingMode method. The type of scaling that shall be used. /// in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.pdf.forms/iconfit/set_scalingmode/
 ---
 ## IconFit::set_ScalingMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/iconfit/set_scalingmode/
 The type of scaling that shall be used. ///.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::IconFit::set_ScalingMode(Aspose::Pdf::Forms::ScalingMode value)
+void Aspose::Pdf::Forms::IconFit::set_ScalingMode(Aspose::Pdf::Forms::ScalingMode value)
 ```
 
 ## See Also

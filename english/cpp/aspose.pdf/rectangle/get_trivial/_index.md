@@ -4,7 +4,7 @@ linktitle: get_Trivial
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::get_Trivial method. Initializes trivial rectangle i.e. rectangle with zero position and size in C++.'
 type: docs
-weight: 2900
+weight: 3000
 url: /cpp/aspose.pdf/rectangle/get_trivial/
 ---
 ## Rectangle::get_Trivial method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/get_trivial/
 Initializes trivial rectangle i.e. rectangle with zero position and size.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::get_Trivial()
+static System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::get_Trivial()
 ```
 
 ## See Also

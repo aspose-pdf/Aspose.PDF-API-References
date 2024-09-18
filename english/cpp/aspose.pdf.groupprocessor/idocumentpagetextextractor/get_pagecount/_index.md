@@ -4,7 +4,7 @@ linktitle: get_PageCount
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GroupProcessor::IDocumentPageTextExtractor::get_PageCount method. Returns page count in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.groupprocessor/idocumentpagetextextractor/get_pagecount/
 ---
 ## IDocumentPageTextExtractor::get_PageCount method

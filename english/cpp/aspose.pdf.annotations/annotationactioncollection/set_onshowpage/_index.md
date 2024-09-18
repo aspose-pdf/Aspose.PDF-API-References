@@ -4,7 +4,7 @@ linktitle: set_OnShowPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnShowPage method. Sets an action to be performed when the page containing the annotation becomes visible in the viewer application''s user interface in C++.'
 type: docs
-weight: 1600
+weight: 2700
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onshowpage/
 ---
 ## AnnotationActionCollection::set_OnShowPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onshowpage/
 Sets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnShowPage(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnShowPage(System::SharedPtr<PdfAction> value)
 ```
 
 ## See Also

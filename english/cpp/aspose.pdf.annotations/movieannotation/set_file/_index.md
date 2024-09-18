@@ -4,7 +4,7 @@ linktitle: set_File
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MovieAnnotation::set_File method. Sets a file specification identifying a self-describing movie file in C++.'
 type: docs
-weight: 400
+weight: 1000
 url: /cpp/aspose.pdf.annotations/movieannotation/set_file/
 ---
 ## MovieAnnotation::set_File method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/movieannotation/set_file/
 Sets a file specification identifying a self-describing movie file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::MovieAnnotation::set_File(System::SharedPtr<FileSpecification> value)
+void Aspose::Pdf::Annotations::MovieAnnotation::set_File(System::SharedPtr<FileSpecification> value)
 ```
 
 ## See Also

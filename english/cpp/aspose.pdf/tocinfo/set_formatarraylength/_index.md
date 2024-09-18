@@ -4,7 +4,7 @@ linktitle: set_FormatArrayLength
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo::set_FormatArrayLength method. Sets format array length in C++.'
 type: docs
-weight: 600
+weight: 1400
 url: /cpp/aspose.pdf/tocinfo/set_formatarraylength/
 ---
 ## TocInfo::set_FormatArrayLength method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_formatarraylength/
 Sets format array length.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TocInfo::set_FormatArrayLength(int32_t value)
+void Aspose::Pdf::TocInfo::set_FormatArrayLength(int32_t value)
 ```
 
 ## See Also

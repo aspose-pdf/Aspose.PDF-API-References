@@ -4,7 +4,7 @@ linktitle: CreateArtElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateArtElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createartelement/
 ---
 ## ITaggedContent::CreateArtElement method

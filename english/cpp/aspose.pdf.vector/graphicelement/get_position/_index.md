@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElement::get_Position method. Gets the position in the current coordinate space. If Parent is not null then the element have xForm coordinate space in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.pdf.vector/graphicelement/get_position/
 ---
 ## GraphicElement::get_Position method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelement/get_position/
 Gets the position in the current coordinate space. If [Parent](../) is not [null](../) then the element have xForm coordinate space.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Vector::GraphicElement::get_Position()
+virtual System::SharedPtr<Point> Aspose::Pdf::Vector::GraphicElement::get_Position()
 ```
 
 ## See Also

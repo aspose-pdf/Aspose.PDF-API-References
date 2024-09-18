@@ -4,7 +4,7 @@ linktitle: get_Header
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_Header method. Gets page header in C++.'
 type: docs
-weight: 700
+weight: 2700
 url: /cpp/aspose.pdf/page/get_header/
 ---
 ## Page::get_Header method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_header/
 Gets page header.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<HeaderFooter> Aspose::Pdf::Page::get_Header() const
+System::SharedPtr<HeaderFooter> Aspose::Pdf::Page::get_Header() const
 ```
 
 ## Remarks

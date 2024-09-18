@@ -4,7 +4,7 @@ linktitle: Cells
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Cells constructor of Aspose::Pdf::Cells class in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.pdf/cells/cells/
 ---
 ## Cells::Cells constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cells/cells/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Cells::Cells()
+Aspose::Pdf::Cells::Cells()
 ```
 
 ## See Also

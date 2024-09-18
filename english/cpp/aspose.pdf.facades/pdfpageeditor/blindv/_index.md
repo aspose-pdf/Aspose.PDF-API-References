@@ -4,7 +4,7 @@ linktitle: BLINDV
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::BLINDV field. Vertical Blinds in C++.'
 type: docs
-weight: 3300
+weight: 3000
 url: /cpp/aspose.pdf.facades/pdfpageeditor/blindv/
 ---
 ## BLINDV field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/blindv/
 Vertical Blinds.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::BLINDV
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::BLINDV
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Password
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::get_Password method. Gets input file''s password in C++.'
 type: docs
-weight: 1400
+weight: 1000
 url: /cpp/aspose.pdf.facades/pdfextractor/get_password/
 ---
 ## PdfExtractor::get_Password method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/get_password/
 Gets input file's password.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfExtractor::get_Password() const
+System::String Aspose::Pdf::Facades::PdfExtractor::get_Password() const
 ```
 
 ## See Also

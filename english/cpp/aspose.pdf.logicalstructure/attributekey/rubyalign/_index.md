@@ -4,7 +4,7 @@ linktitle: RubyAlign
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::RubyAlign field. RubyAlign attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 3100
+weight: 3000
 url: /cpp/aspose.pdf.logicalstructure/attributekey/rubyalign/
 ---
 ## RubyAlign field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/rubyalign/
 RubyAlign attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::RubyAlign
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::RubyAlign
 ```
 
 ## See Also

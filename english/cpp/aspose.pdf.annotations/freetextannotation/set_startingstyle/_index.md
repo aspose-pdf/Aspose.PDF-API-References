@@ -4,7 +4,7 @@ linktitle: set_StartingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::set_StartingStyle method. Sets line ending style for line ending point. OThis property is obsolete, please use EndingStyle in C++.'
 type: docs
-weight: 200
+weight: 2200
 url: /cpp/aspose.pdf.annotations/freetextannotation/set_startingstyle/
 ---
 ## FreeTextAnnotation::set_StartingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/set_startingstyle/
 Sets line ending style for line ending point. OThis property is obsolete, please use EndingStyle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::FreeTextAnnotation::set_StartingStyle(LineEnding value)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::set_StartingStyle(LineEnding value)
 ```
 
 ## See Also

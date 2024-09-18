@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ChoiceField::set_Value method. Sets value of the field in C++.'
 type: docs
-weight: 1100
+weight: 1400
 url: /cpp/aspose.pdf.forms/choicefield/set_value/
 ---
 ## ChoiceField::set_Value method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/choicefield/set_value/
 Sets value of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ChoiceField::set_Value(System::String value) override
+void Aspose::Pdf::Forms::ChoiceField::set_Value(System::String value) override
 ```
 
 ## See Also

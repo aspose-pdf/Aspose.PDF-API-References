@@ -4,7 +4,7 @@ linktitle: GetNameInCollection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImage::GetNameInCollection method. Returns the name of the image in its collection in C++.'
 type: docs
-weight: 1500
+weight: 1100
 url: /cpp/aspose.pdf/ximage/getnameincollection/
 ---
 ## XImage::GetNameInCollection method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximage/getnameincollection/
 Returns the name of the image in its collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XImage::GetNameInCollection()
+System::String Aspose::Pdf::XImage::GetNameInCollection()
 ```
 
 

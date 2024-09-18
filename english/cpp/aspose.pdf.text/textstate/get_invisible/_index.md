@@ -4,7 +4,7 @@ linktitle: get_Invisible
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::get_Invisible method. Gets the invisibility of text. This basically reflects the RenderingMode state, except for some special cases (like clipping) in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.pdf.text/textstate/get_invisible/
 ---
 ## TextState::get_Invisible method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/get_invisible/
 Gets the invisibility of text. This basically reflects the [RenderingMode](../) state, except for some special cases (like clipping).
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextState::get_Invisible()
+virtual bool Aspose::Pdf::Text::TextState::get_Invisible()
 ```
 
 ## See Also

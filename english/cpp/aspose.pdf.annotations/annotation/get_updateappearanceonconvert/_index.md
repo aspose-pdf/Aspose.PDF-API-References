@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/get_updateappearanceonconvert/
 If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probably demand more time.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::Annotation::get_UpdateAppearanceOnConvert()
+static bool Aspose::Pdf::Annotations::Annotation::get_UpdateAppearanceOnConvert()
 ```
 
 ## See Also

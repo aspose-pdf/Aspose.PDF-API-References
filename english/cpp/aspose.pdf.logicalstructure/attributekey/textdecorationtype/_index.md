@@ -4,7 +4,7 @@ linktitle: TextDecorationType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::TextDecorationType field. TextDecorationType attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 3000
+weight: 4100
 url: /cpp/aspose.pdf.logicalstructure/attributekey/textdecorationtype/
 ---
 ## TextDecorationType field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/textdecorationtype/
 TextDecorationType attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::TextDecorationType
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::TextDecorationType
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/listboxfield/set_selecteditems/
 Sets array of the selected items in the multiselect list. For single-select list returns array with single item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ListBoxField::set_SelectedItems(System::ArrayPtr<int32_t> value) override
+void Aspose::Pdf::Forms::ListBoxField::set_SelectedItems(System::ArrayPtr<int32_t> value) override
 ```
 
 ## See Also

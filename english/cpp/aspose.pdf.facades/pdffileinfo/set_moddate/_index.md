@@ -4,7 +4,7 @@ linktitle: set_ModDate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::set_ModDate method. Sets the ModDate date information of PDF document in C++.'
 type: docs
-weight: 2100
+weight: 4200
 url: /cpp/aspose.pdf.facades/pdffileinfo/set_moddate/
 ---
 ## PdfFileInfo::set_ModDate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_moddate/
 Sets the ModDate date information of PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileInfo::set_ModDate(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_ModDate(System::String value)
 ```
 
 ## See Also

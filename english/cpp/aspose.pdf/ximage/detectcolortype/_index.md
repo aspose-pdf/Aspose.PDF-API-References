@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximage/detectcolortype/
 Returns color type of image.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API Aspose::Pdf::ColorType Aspose::Pdf::XImage::DetectColorType(System::SharedPtr<System::Drawing::Bitmap> bmp)
+static Aspose::Pdf::ColorType Aspose::Pdf::XImage::DetectColorType(System::SharedPtr<System::Drawing::Bitmap> bmp)
 ```
 
 ## See Also

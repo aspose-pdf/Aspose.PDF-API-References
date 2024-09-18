@@ -4,7 +4,7 @@ linktitle: set_Top
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::Margins::set_Top method. Sets the top in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.pdf.devices/margins/set_top/
 ---
 ## Margins::set_Top method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/margins/set_top/
 Sets the top.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::Margins::set_Top(int32_t value)
+void Aspose::Pdf::Devices::Margins::set_Top(int32_t value)
 ```
 
 ## Remarks

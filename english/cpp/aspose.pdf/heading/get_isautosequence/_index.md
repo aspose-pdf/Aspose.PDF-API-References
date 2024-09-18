@@ -4,7 +4,7 @@ linktitle: get_IsAutoSequence
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::get_IsAutoSequence method. Gets the heading should be numered automatically in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf/heading/get_isautosequence/
 ---
 ## Heading::get_IsAutoSequence method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/get_isautosequence/
 Gets the heading should be numered automatically.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Heading::get_IsAutoSequence() const
+bool Aspose::Pdf::Heading::get_IsAutoSequence() const
 ```
 
 ## See Also

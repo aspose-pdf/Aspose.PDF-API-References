@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collectionschema/get_allnames/
 Gets all schema's fields names.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::ICollection<System::String>> Aspose::Pdf::CollectionSchema::get_AllNames()
+System::SharedPtr<System::Collections::Generic::ICollection<System::String>> Aspose::Pdf::CollectionSchema::get_AllNames()
 ```
 
 ## See Also

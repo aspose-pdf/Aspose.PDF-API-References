@@ -4,7 +4,7 @@ linktitle: get_Y
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::BasicSetColorOperator::get_Y method. Gets yellow component of CMYK color in C++.'
 type: docs
-weight: 600
+weight: 900
 url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_y/
 ---
 ## BasicSetColorOperator::get_Y method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/basicsetcoloroperator/get_y/
 Gets yellow component of CMYK color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::BasicSetColorOperator::get_Y()
+double Aspose::Pdf::Operators::BasicSetColorOperator::get_Y()
 ```
 
 ## See Also

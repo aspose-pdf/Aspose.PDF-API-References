@@ -4,7 +4,7 @@ linktitle: get_PageNum
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::AbsorbedTable::get_PageNum method. Gets number of the page containing this table in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.text/absorbedtable/get_pagenum/
 ---
 ## AbsorbedTable::get_PageNum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/absorbedtable/get_pagenum/
 Gets number of the page containing this table.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Text::AbsorbedTable::get_PageNum() const
+int32_t Aspose::Pdf::Text::AbsorbedTable::get_PageNum() const
 ```
 
 ## See Also

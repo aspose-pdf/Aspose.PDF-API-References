@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BorderInfo::Clone method. Clones a new BorderInfo object in C++.'
 type: docs
-weight: 1200
+weight: 200
 url: /cpp/aspose.pdf/borderinfo/clone/
 ---
 ## BorderInfo::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/borderinfo/clone/
 Clones a new [BorderInfo](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::BorderInfo::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::BorderInfo::Clone() override
 ```
 
 

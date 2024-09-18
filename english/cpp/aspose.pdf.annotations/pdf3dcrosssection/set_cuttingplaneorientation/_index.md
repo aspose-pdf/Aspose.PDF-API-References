@@ -4,7 +4,7 @@ linktitle: set_CuttingPlaneOrientation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneOrientation method. Sets the cutting plane orientation in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_cuttingplaneorientation/
 ---
 ## PDF3DCrossSection::set_CuttingPlaneOrientation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_cuttingplaneorientation/
 Sets the cutting plane orientation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneOrientation(System::SharedPtr<PDF3DCuttingPlaneOrientation> value)
+void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneOrientation(System::SharedPtr<PDF3DCuttingPlaneOrientation> value)
 ```
 
 ## Remarks
@@ -21,16 +21,6 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DCrossSection::set_Cutt
 
 The cutting plane orientation.
 
-<parameterlist kind="exception">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>Exception</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Only one of the values shall be Null </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)

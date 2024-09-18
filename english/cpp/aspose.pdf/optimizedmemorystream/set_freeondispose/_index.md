@@ -4,7 +4,7 @@ linktitle: set_FreeOnDispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream::set_FreeOnDispose method. Sets a value indicating whether to free the underlying buffers on dispose in C++.'
 type: docs
-weight: 1000
+weight: 1400
 url: /cpp/aspose.pdf/optimizedmemorystream/set_freeondispose/
 ---
 ## OptimizedMemoryStream::set_FreeOnDispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/set_freeondispose/
 Sets a value indicating whether to free the underlying buffers on dispose.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OptimizedMemoryStream::set_FreeOnDispose(bool value)
+void Aspose::Pdf::OptimizedMemoryStream::set_FreeOnDispose(bool value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collectionfield/get_n/
 Gets the textual field name that shall be presented to the user by the interactive PDF processor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::CollectionField::get_N() const
+System::String Aspose::Pdf::CollectionField::get_N() const
 ```
 
 ## See Also

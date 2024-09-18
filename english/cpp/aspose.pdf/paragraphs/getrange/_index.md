@@ -4,7 +4,7 @@ linktitle: GetRange
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::GetRange method. Remove paragraphs range in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/aspose.pdf/paragraphs/getrange/
 ---
 ## Paragraphs::GetRange method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/getrange/
 Remove paragraphs range.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Paragraphs> Aspose::Pdf::Paragraphs::GetRange(int32_t index, int32_t count)
+System::SharedPtr<Paragraphs> Aspose::Pdf::Paragraphs::GetRange(int32_t index, int32_t count)
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Paragraphs> Aspose::Pdf::Paragraphs::Get
 ### ReturnValue
 
 The paragraphs collection
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The first paragraph index.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>count</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The paragraphs count.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Paragraphs](../)

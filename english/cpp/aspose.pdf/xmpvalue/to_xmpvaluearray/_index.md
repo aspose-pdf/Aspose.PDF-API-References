@@ -4,7 +4,7 @@ linktitle: to_XmpValueArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use to_XmpValueArray method of Aspose::Pdf::XmpValue class in C++.'
 type: docs
-weight: 2500
+weight: 2900
 url: /cpp/aspose.pdf/xmpvalue/to_xmpvaluearray/
 ---
 ## XmpValue::to_XmpValueArray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/to_xmpvaluearray/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::to_XmpValueArray(System::SharedPtr<XmpValue> value)
+static System::ArrayPtr<System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::to_XmpValueArray(System::SharedPtr<XmpValue> value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_M
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColor::get_M method. Gets the magenta component in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.pdf.operators/setcolor/get_m/
 ---
 ## SetColor::get_M method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolor/get_m/
 Gets the magenta component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetColor::get_M() const
+double Aspose::Pdf::Operators::SetColor::get_M() const
 ```
 
 ## See Also

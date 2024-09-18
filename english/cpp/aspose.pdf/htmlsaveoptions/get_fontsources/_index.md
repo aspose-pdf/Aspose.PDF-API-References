@@ -4,7 +4,7 @@ linktitle: get_FontSources
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::get_FontSources method. Font sources of pre-saved fonts in C++.'
 type: docs
-weight: 2500
+weight: 1100
 url: /cpp/aspose.pdf/htmlsaveoptions/get_fontsources/
 ---
 ## HtmlSaveOptions::get_FontSources method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/get_fontsources/
 Font sources of pre-saved fonts.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Text::FontSourceCollection> Aspose::Pdf::HtmlSaveOptions::get_FontSources() const
+System::SharedPtr<Text::FontSourceCollection> Aspose::Pdf::HtmlSaveOptions::get_FontSources() const
 ```
 
 ## Remarks

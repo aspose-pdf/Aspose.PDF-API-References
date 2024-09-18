@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::Close method. Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by Close() method in C++.'
 type: docs
-weight: 3300
+weight: 600
 url: /cpp/aspose.pdf.facades/pdffilestamp/close/
 ---
 ## PdfFileStamp::Close method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/close/
 Closes opened files and saves changes. Warning. If input or output streams are specified they are not closed by [Close()](./) method.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileStamp::Close() override
+void Aspose::Pdf::Facades::PdfFileStamp::Close() override
 ```
 
 ## See Also

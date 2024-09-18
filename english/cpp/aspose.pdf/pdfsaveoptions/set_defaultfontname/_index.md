@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfsaveoptions/set_defaultfontname/
 Font name used by default for fonts which are absent on computer. When the PDF document that is saved into PDF contains fonts, that are not available in the document itself and on the device, API replaces this fonts with the default font(if font with [DefaultFontName](../) is found on device)
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfSaveOptions::set_DefaultFontName(System::String value)
+void Aspose::Pdf::PdfSaveOptions::set_DefaultFontName(System::String value)
 ```
 
 ## See Also

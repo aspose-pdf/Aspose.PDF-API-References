@@ -4,7 +4,7 @@ linktitle: set_RemoveSignatures
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::set_RemoveSignatures method. If true, all signatures will be removed from fields (fields will remain); otherwise, you can get invalid signatures in C++.'
 type: docs
-weight: 3300
+weight: 5400
 url: /cpp/aspose.pdf.facades/pdffileeditor/set_removesignatures/
 ---
 ## PdfFileEditor::set_RemoveSignatures method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/set_removesignatures/
 If true, all signatures will be removed from fields (fields will remain); otherwise, you can get invalid signatures.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::set_RemoveSignatures(bool value)
+void Aspose::Pdf::Facades::PdfFileEditor::set_RemoveSignatures(bool value)
 ```
 
 ## See Also

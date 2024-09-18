@@ -4,7 +4,7 @@ linktitle: get_Effect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Border::get_Effect method. Gets border effect in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.pdf.annotations/border/get_effect/
 ---
 ## Border::get_Effect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/get_effect/
 Gets border effect.
 
 ```cpp
-ASPOSE_PDF_SHARED_API BorderEffect Aspose::Pdf::Annotations::Border::get_Effect() const
+BorderEffect Aspose::Pdf::Annotations::Border::get_Effect() const
 ```
 
 ## Remarks

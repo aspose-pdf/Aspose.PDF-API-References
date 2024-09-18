@@ -4,7 +4,7 @@ linktitle: get_HorizontalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_HorizontalAlignment method. Gets a horizontal alignment of text fragment in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf.text/textfragment/get_horizontalalignment/
 ---
 ## TextFragment::get_HorizontalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_horizontalalignment/
 Gets a horizontal alignment of text fragment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Text::TextFragment::get_HorizontalAlignment() override
+Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Text::TextFragment::get_HorizontalAlignment() override
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_Popup
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MarkupAnnotation::set_Popup method. Pop-up annotation for entering or editing the text associated with this annotation in C++.'
 type: docs
-weight: 900
+weight: 1500
 url: /cpp/aspose.pdf.annotations/markupannotation/set_popup/
 ---
 ## MarkupAnnotation::set_Popup method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/set_popup/
 Pop-up annotation for entering or editing the text associated with this annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::MarkupAnnotation::set_Popup(System::SharedPtr<PopupAnnotation> value)
+void Aspose::Pdf::Annotations::MarkupAnnotation::set_Popup(System::SharedPtr<PopupAnnotation> value)
 ```
 
 ## See Also

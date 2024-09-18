@@ -4,7 +4,7 @@ linktitle: set_Ending
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::set_Ending method. Sets line ending point in C++.'
 type: docs
-weight: 600
+weight: 2000
 url: /cpp/aspose.pdf.annotations/lineannotation/set_ending/
 ---
 ## LineAnnotation::set_Ending method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_ending/
 Sets line ending point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LineAnnotation::set_Ending(System::SharedPtr<Point> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_Ending(System::SharedPtr<Point> value)
 ```
 
 ## See Also

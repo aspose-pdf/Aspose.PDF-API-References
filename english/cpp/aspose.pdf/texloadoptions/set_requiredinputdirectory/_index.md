@@ -4,7 +4,7 @@ linktitle: set_RequiredInputDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXLoadOptions::set_RequiredInputDirectory method. Gets/sets TeX requires input directory. Required input is the files that are somehow included into the main .tex file, e.g., packages for which there''s no built-in support in C++.'
 type: docs
-weight: 800
+weight: 2000
 url: /cpp/aspose.pdf/texloadoptions/set_requiredinputdirectory/
 ---
 ## TeXLoadOptions::set_RequiredInputDirectory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/set_requiredinputdirectory/
 Gets/sets TeX requires input directory. Required input is the files that are somehow included into the main .tex file, e.g., packages for which there's no built-in support.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TeXLoadOptions::set_RequiredInputDirectory(System::SharedPtr<ITeXInputDirectory> value)
+void Aspose::Pdf::TeXLoadOptions::set_RequiredInputDirectory(System::SharedPtr<ITeXInputDirectory> value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/setdefaultfilesizelimittomemoryloading/
 Sets the file size limit for loading an entire file into memory to default value equals 210 Mb.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::SetDefaultFileSizeLimitToMemoryLoading()
+static void Aspose::Pdf::Document::SetDefaultFileSizeLimitToMemoryLoading()
 ```
 
 ## See Also

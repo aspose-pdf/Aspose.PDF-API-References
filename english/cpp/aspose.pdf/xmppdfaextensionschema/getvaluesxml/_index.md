@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/getvaluesxml/
 Gets the values of properties as xml tree representation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XmpPdfAExtensionSchema::GetValuesXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument, System::SharedPtr<System::Xml::XmlElement> rootElement)
+void Aspose::Pdf::XmpPdfAExtensionSchema::GetValuesXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument, System::SharedPtr<System::Xml::XmlElement> rootElement)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::XmpPdfAExtensionSchema::GetValuesXml(Sys
 | --- | --- | --- |
 | xmlDocument | System::SharedPtr\<System::Xml::XmlDocument\> | The source xml document. |
 | rootElement | System::SharedPtr\<System::Xml::XmlElement\> | The root node of properties values list. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>xmlDocument</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The source xml document.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rootElement</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The root node of properties values list.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

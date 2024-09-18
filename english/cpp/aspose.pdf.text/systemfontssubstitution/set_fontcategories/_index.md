@@ -4,7 +4,7 @@ linktitle: set_FontCategories
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::SystemFontsSubstitution::set_FontCategories method. Sets substitution font categories that should be substituted with system fonts in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.text/systemfontssubstitution/set_fontcategories/
 ---
 ## SystemFontsSubstitution::set_FontCategories method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/systemfontssubstitution/set_fontcategories/
 Sets substitution font categories that should be substituted with system fonts.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::SystemFontsSubstitution::set_FontCategories(SubstitutionFontCategories value)
+void Aspose::Pdf::Text::SystemFontsSubstitution::set_FontCategories(SubstitutionFontCategories value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_DimGray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_DimGray method. Gets a system-defined color that has an ARGB value of #FF696969 in C++.'
 type: docs
-weight: 5100
+weight: 5400
 url: /cpp/aspose.pdf/color/get_dimgray/
 ---
 ## Color::get_DimGray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_dimgray/
 Gets a system-defined color that has an ARGB value of **#FF696969**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_DimGray()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_DimGray()
 ```
 
 

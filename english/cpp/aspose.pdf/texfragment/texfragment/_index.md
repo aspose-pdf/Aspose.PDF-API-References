@@ -4,7 +4,7 @@ linktitle: TeXFragment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TeXFragment::TeXFragment constructor. Initializes a new instance of the HtmlFragment class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf/texfragment/texfragment/
 ---
 ## TeXFragment::TeXFragment(System::String) constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf/texfragment/texfragment/
 Initializes a new instance of the [HtmlFragment](../../htmlfragment/) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::TeXFragment::TeXFragment(System::String text)
+Aspose::Pdf::TeXFragment::TeXFragment(System::String text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | System::String | The fragment text |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The fragment text</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TeXFragment](../)
@@ -44,7 +32,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::TeXFragment::TeXFragment(System::String text)
 Initializes a new instance of the [HtmlFragment](../../htmlfragment/) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::TeXFragment::TeXFragment(System::String text, bool removeIndents)
+Aspose::Pdf::TeXFragment::TeXFragment(System::String text, bool removeIndents)
 ```
 
 
@@ -52,27 +40,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::TeXFragment::TeXFragment(System::String text,
 | --- | --- | --- |
 | text | System::String | The fragment text |
 | removeIndents | bool | Determines whether not to make indents while typesetting LaTeX fragment |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>text</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The fragment text</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>removeIndents</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Determines whether not to make indents while typesetting LaTeX fragment</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TeXFragment](../)

@@ -4,7 +4,7 @@ linktitle: get_FileSizeLimitToMemoryLoading
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_FileSizeLimitToMemoryLoading method. Get and set the file size limit for loading an entire file into memory. The value is set in megabytes. The default value is 210 Mb in C++.'
 type: docs
-weight: 11400
+weight: 11300
 url: /cpp/aspose.pdf/document/get_filesizelimittomemoryloading/
 ---
 ## Document::get_FileSizeLimitToMemoryLoading method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_filesizelimittomemoryloading/
 Get and set the file size limit for loading an entire file into memory. The value is set in megabytes. The default value is 210 Mb.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Document::get_FileSizeLimitToMemoryLoading()
+static int32_t Aspose::Pdf::Document::get_FileSizeLimitToMemoryLoading()
 ```
 
 ## See Also

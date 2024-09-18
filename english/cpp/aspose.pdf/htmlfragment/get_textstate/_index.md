@@ -4,7 +4,7 @@ linktitle: get_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlFragment::get_TextState method. Gets font in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf/htmlfragment/get_textstate/
 ---
 ## HtmlFragment::get_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlfragment/get_textstate/
 Gets font.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::Text::TextState> & Aspose::Pdf::HtmlFragment::get_TextState() const
+const System::SharedPtr<Aspose::Pdf::Text::TextState> & Aspose::Pdf::HtmlFragment::get_TextState() const
 ```
 
 ## See Also

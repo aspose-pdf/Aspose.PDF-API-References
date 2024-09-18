@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagelabelcollection/getlabel/
 Gets page label by page index (page index is started from 0).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PageLabel> Aspose::Pdf::PageLabelCollection::GetLabel(int32_t pageIndex)
+System::SharedPtr<PageLabel> Aspose::Pdf::PageLabelCollection::GetLabel(int32_t pageIndex)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<PageLabel> Aspose::Pdf::PageLabelCollect
 ### ReturnValue
 
 [Page](../../page/) label for specified page index or null if page label does not exist.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageIndex</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of the page.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PageLabel](../../pagelabel/)

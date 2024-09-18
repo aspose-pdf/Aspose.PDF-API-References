@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionSchema::Contains method. Determines whether obj exists in schema in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf/xmppdfaextensionschema/contains/
 ---
 ## XmpPdfAExtensionSchema::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/contains/
 Determines whether obj exists in schema.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpPdfAExtensionSchema::Contains(System::SharedPtr<XmpPdfAExtensionObject> obj)
+bool Aspose::Pdf::XmpPdfAExtensionSchema::Contains(System::SharedPtr<XmpPdfAExtensionObject> obj)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpPdfAExtensionSchema::Contains(System:
 ### ReturnValue
 
 True - object exists in schema; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>obj</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The obj to find.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)

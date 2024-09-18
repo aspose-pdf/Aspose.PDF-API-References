@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CompareTo method of Aspose::Pdf::Facades::Bookmark class in C++.'
 type: docs
-weight: 3800
+weight: 200
 url: /cpp/aspose.pdf.facades/bookmark/compareto/
 ---
 ## Bookmark::CompareTo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/compareto/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::Bookmark::CompareTo(const System::SharedPtr<Bookmark> &value)
+int32_t Aspose::Pdf::Facades::Bookmark::CompareTo(const System::SharedPtr<Bookmark> &value)
 ```
 
 ## See Also

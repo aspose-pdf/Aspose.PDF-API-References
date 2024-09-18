@@ -4,7 +4,7 @@ linktitle: get_Superscript
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_Superscript method. Gets superscript of the text, represented by the TextFragment object in C++.'
 type: docs
-weight: 1300
+weight: 2100
 url: /cpp/aspose.pdf.text/textfragmentstate/get_superscript/
 ---
 ## TextFragmentState::get_Superscript method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_superscript/
 Gets superscript of the text, represented by the [TextFragment](../../textfragment/) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentState::get_Superscript() override
+bool Aspose::Pdf::Text::TextFragmentState::get_Superscript() override
 ```
 
 ## See Also

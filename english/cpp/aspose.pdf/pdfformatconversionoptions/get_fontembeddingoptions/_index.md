@@ -4,7 +4,7 @@ linktitle: get_FontEmbeddingOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_FontEmbeddingOptions method. Options for cases when it''s not possible to embed some fonts into PDF document in C++.'
 type: docs
-weight: 2800
+weight: 600
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_fontembeddingoptions/
 ---
 ## PdfFormatConversionOptions::get_FontEmbeddingOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_fontembeddingoptions/
 Options for cases when it's not possible to embed some fonts into PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::PdfAOptionClasses::FontEmbeddingOptions> Aspose::Pdf::PdfFormatConversionOptions::get_FontEmbeddingOptions() const
+System::SharedPtr<Aspose::Pdf::PdfAOptionClasses::FontEmbeddingOptions> Aspose::Pdf::PdfFormatConversionOptions::get_FontEmbeddingOptions() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_BatchSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XpsSaveOptions::set_BatchSize method. Defines batch size if batched conversion is applicable to source and destination formats pair in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/xpssaveoptions/set_batchsize/
 ---
 ## XpsSaveOptions::set_BatchSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xpssaveoptions/set_batchsize/
 Defines batch size if batched conversion is applicable to source and destination formats pair.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XpsSaveOptions::set_BatchSize(int32_t value) override
+void Aspose::Pdf::XpsSaveOptions::set_BatchSize(int32_t value) override
 ```
 
 ## See Also

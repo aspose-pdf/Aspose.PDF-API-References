@@ -4,7 +4,7 @@ linktitle: set_Radius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Arc::set_Radius method. Sets a float value that indicates the radius of the arc in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/aspose.pdf.drawing/arc/set_radius/
 ---
 ## Arc::set_Radius method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/arc/set_radius/
 Sets a float value that indicates the radius of the arc.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Arc::set_Radius(double value)
+void Aspose::Pdf::Drawing::Arc::set_Radius(double value)
 ```
 
 ## See Also

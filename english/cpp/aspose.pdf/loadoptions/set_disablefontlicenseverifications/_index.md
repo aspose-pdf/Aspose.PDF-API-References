@@ -17,7 +17,7 @@ Sets flag to disable any license restrictions for all fonts while loading the fi
 .
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LoadOptions::set_DisableFontLicenseVerifications(bool value)
+void Aspose::Pdf::LoadOptions::set_DisableFontLicenseVerifications(bool value)
 ```
 
 ## Remarks

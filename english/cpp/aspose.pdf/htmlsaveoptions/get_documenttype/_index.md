@@ -4,7 +4,7 @@ linktitle: get_DocumentType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::get_DocumentType method. Gets the HtmlDocumentType in C++.'
 type: docs
-weight: 100
+weight: 700
 url: /cpp/aspose.pdf/htmlsaveoptions/get_documenttype/
 ---
 ## HtmlSaveOptions::get_DocumentType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/get_documenttype/
 Gets the [HtmlDocumentType](../../htmldocumenttype/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API HtmlDocumentType Aspose::Pdf::HtmlSaveOptions::get_DocumentType() const
+HtmlDocumentType Aspose::Pdf::HtmlSaveOptions::get_DocumentType() const
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: HighlightingMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::HighlightingMode enum. Enumerates the annotation''s highlighting mode, the visual effect to be used when the mouse button is pressed or held down inside its active area in C++.'
 type: docs
-weight: 15200
+weight: 13400
 url: /cpp/aspose.pdf.annotations/highlightingmode/
 ---
 ## HighlightingMode enum

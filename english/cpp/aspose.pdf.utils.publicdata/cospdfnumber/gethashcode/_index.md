@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfnumber/gethashcode/
 Get hashcode for current object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Utils::PublicData::CosPdfNumber::GetHashCode() const override
+int32_t Aspose::Pdf::Utils::PublicData::CosPdfNumber::GetHashCode() const override
 ```
 
 

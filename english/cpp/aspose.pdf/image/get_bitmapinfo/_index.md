@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/get_bitmapinfo/
 Gets uncompressed image bytes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::BitmapInfo> & Aspose::Pdf::Image::get_BitmapInfo() const
+const System::SharedPtr<Aspose::Pdf::BitmapInfo> & Aspose::Pdf::Image::get_BitmapInfo() const
 ```
 
 ## See Also

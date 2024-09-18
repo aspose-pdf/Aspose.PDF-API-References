@@ -4,16 +4,16 @@ linktitle: CreateWebLink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink method. Creates a web link in PDF document in C++.'
 type: docs
-weight: 1100
+weight: 2600
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/createweblink/
 ---
-## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, System::String, int32_t, System::Drawing::Color, System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>) method
+## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, System::String, int32_t) method
 
 
 Creates a web link in PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage, System::Drawing::Color clr, System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> actionName)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage)
 ```
 
 
@@ -21,54 +21,8 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
 | url | System::String | The web link destination. |
-| originalPage | int32_t | The number of original page on which rectangle bound with web link will be created. |
-| clr | System::Drawing::Color | The colour of rectangle for active click. |
-| actionName | System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\> | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
-## Remarks
+| originalPage | int32_t | The number of original page where rectangle bound with web link will be created. |
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The rectangle for active click.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>url</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The web link destination.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>originalPage</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of original page on which rectangle bound with web link will be created.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>clr</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The colour of rectangle for active click.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>actionName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfContentEditor](../)
@@ -80,7 +34,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink
 Creates a web link in PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage, System::Drawing::Color clr)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage, System::Drawing::Color clr)
 ```
 
 
@@ -90,55 +44,19 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink
 | url | System::String | The web link destination. |
 | originalPage | int32_t | The number of original page where rectangle bound with web link will be created. |
 | clr | System::Drawing::Color | The colour of rectangle for active click. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The rectangle for active click.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>url</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The web link destination.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>originalPage</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of original page where rectangle bound with web link will be created.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>clr</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The colour of rectangle for active click.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, System::String, int32_t) method
+## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, System::String, int32_t, System::Drawing::Color, System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>) method
 
 
 Creates a web link in PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage, System::Drawing::Color clr, System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> actionName)
 ```
 
 
@@ -146,36 +64,10 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
 | url | System::String | The web link destination. |
-| originalPage | int32_t | The number of original page where rectangle bound with web link will be created. |
-## Remarks
+| originalPage | int32_t | The number of original page on which rectangle bound with web link will be created. |
+| clr | System::Drawing::Color | The colour of rectangle for active click. |
+| actionName | System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\> | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The rectangle for active click.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>url</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The web link destination.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>originalPage</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of original page where rectangle bound with web link will be created.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfContentEditor](../)

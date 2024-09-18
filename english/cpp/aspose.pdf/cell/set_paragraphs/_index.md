@@ -4,7 +4,7 @@ linktitle: set_Paragraphs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::set_Paragraphs method. Sets the cell''s formatted text in C++.'
 type: docs
-weight: 2000
+weight: 2900
 url: /cpp/aspose.pdf/cell/set_paragraphs/
 ---
 ## Cell::set_Paragraphs method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/set_paragraphs/
 Sets the cell's formatted text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Cell::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
+void Aspose::Pdf::Cell::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
 ```
 
 ## See Also

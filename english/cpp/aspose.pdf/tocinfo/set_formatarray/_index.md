@@ -4,7 +4,7 @@ linktitle: set_FormatArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo::set_FormatArray method. Sets format array for table of contents in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/aspose.pdf/tocinfo/set_formatarray/
 ---
 ## TocInfo::set_FormatArray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_formatarray/
 Sets format array for table of contents.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TocInfo::set_FormatArray(System::ArrayPtr<System::SharedPtr<LevelFormat>> value)
+void Aspose::Pdf::TocInfo::set_FormatArray(System::ArrayPtr<System::SharedPtr<LevelFormat>> value)
 ```
 
 ## See Also

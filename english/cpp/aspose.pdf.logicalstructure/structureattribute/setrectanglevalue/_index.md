@@ -13,27 +13,14 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 Sets Value [Rectangle](../../../aspose.pdf/rectangle/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureAttribute::SetRectangleValue(System::SharedPtr<Rectangle> rectangle)
+void Aspose::Pdf::LogicalStructure::StructureAttribute::SetRectangleValue(System::SharedPtr<Rectangle> rectangle)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rectangle | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/). |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rectangle</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref>.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../../../aspose.pdf/rectangle/)

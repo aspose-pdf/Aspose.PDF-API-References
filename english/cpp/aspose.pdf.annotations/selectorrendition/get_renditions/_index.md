@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/selectorrendition/get_renditions/
 Gets array of renditions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<Rendition>> Aspose::Pdf::Annotations::SelectorRendition::get_Renditions()
+System::ArrayPtr<System::SharedPtr<Rendition>> Aspose::Pdf::Annotations::SelectorRendition::get_Renditions()
 ```
 
 ## See Also

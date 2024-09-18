@@ -4,7 +4,7 @@ linktitle: get_Rotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImagePlacement::get_Rotation method. Gets rotation angle of the Image in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.pdf/imageplacement/get_rotation/
 ---
 ## ImagePlacement::get_Rotation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/imageplacement/get_rotation/
 Gets rotation angle of the [Image](../../image/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::ImagePlacement::get_Rotation() const
+float Aspose::Pdf::ImagePlacement::get_Rotation() const
 ```
 
 ## See Also

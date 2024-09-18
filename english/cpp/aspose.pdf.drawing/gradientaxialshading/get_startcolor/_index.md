@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/get_startcolor/
 Gets start color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Color> & Aspose::Pdf::Drawing::GradientAxialShading::get_StartColor() const
+const System::SharedPtr<Color> & Aspose::Pdf::Drawing::GradientAxialShading::get_StartColor() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: Stamp
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Stamp constructor of Aspose::Pdf::Stamp class in C++.'
 type: docs
-weight: 4200
+weight: 100
 url: /cpp/aspose.pdf/stamp/stamp/
 ---
 ## Stamp::Stamp constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/stamp/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Stamp::Stamp()
+Aspose::Pdf::Stamp::Stamp()
 ```
 
 ## See Also

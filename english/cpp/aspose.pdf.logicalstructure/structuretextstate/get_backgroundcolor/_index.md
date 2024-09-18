@@ -4,7 +4,7 @@ linktitle: get_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::get_BackgroundColor method. Gets background color of the text in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_backgroundcolor/
 ---
 ## StructureTextState::get_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_backgroundcolor/
 Gets background color of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::LogicalStructure::StructureTextState::get_BackgroundColor() const
+System::SharedPtr<Color> Aspose::Pdf::LogicalStructure::StructureTextState::get_BackgroundColor() const
 ```
 
 ## Remarks

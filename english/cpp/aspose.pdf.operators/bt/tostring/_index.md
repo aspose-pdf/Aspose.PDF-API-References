@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bt/tostring/
 Produces text code of operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::BT::ToString() const override
+System::String Aspose::Pdf::Operators::BT::ToString() const override
 ```
 
 

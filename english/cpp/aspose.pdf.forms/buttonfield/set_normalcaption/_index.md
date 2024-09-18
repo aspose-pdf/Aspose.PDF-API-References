@@ -4,7 +4,7 @@ linktitle: set_NormalCaption
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ButtonField::set_NormalCaption method. Sets normal caption in C++.'
 type: docs
-weight: 200
+weight: 1400
 url: /cpp/aspose.pdf.forms/buttonfield/set_normalcaption/
 ---
 ## ButtonField::set_NormalCaption method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_normalcaption/
 Sets normal caption.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ButtonField::set_NormalCaption(System::String value)
+void Aspose::Pdf::Forms::ButtonField::set_NormalCaption(System::String value)
 ```
 
 ## See Also

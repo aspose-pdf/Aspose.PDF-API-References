@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_a3/
 A3 size (420x297 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A3()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A3()
 ```
 
 ## See Also

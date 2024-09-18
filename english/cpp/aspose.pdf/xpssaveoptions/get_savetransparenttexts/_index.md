@@ -4,7 +4,7 @@ linktitle: get_SaveTransparentTexts
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XpsSaveOptions::get_SaveTransparentTexts method. Indicates whether to preserve transparent (OCR''ed) text in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf/xpssaveoptions/get_savetransparenttexts/
 ---
 ## XpsSaveOptions::get_SaveTransparentTexts method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xpssaveoptions/get_savetransparenttexts/
 Indicates whether to preserve transparent (OCR'ed) text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XpsSaveOptions::get_SaveTransparentTexts() const
+bool Aspose::Pdf::XpsSaveOptions::get_SaveTransparentTexts() const
 ```
 
 ## See Also

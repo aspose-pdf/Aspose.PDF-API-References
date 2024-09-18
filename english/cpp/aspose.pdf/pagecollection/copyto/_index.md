@@ -4,7 +4,7 @@ linktitle: CopyTo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::CopyTo method. Copyies pages into document in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf/pagecollection/copyto/
 ---
 ## PageCollection::CopyTo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/copyto/
 Copyies pages into document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageCollection::CopyTo(System::ArrayPtr<System::SharedPtr<Page>> array, int32_t index) override
+void Aspose::Pdf::PageCollection::CopyTo(System::ArrayPtr<System::SharedPtr<Page>> array, int32_t index) override
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageCollection::CopyTo(System::ArrayPtr<
 | --- | --- | --- |
 | array | System::ArrayPtr\<System::SharedPtr\<Page\>\> | Array containing Pages object to insert into document. It must be Object[] or [Page](../../page/)[]. |
 | index | int32_t | Starting index where pages will be inserted |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>array</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Array containing Pages object to insert into document. It must be Object[] or <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref>[].</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Starting index where pages will be inserted</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

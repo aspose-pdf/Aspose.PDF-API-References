@@ -4,7 +4,7 @@ linktitle: set_StartNumber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::set_StartNumber method. Gets the heading start number in C++.'
 type: docs
-weight: 600
+weight: 1700
 url: /cpp/aspose.pdf/heading/set_startnumber/
 ---
 ## Heading::set_StartNumber method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/set_startnumber/
 Gets the heading start number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Heading::set_StartNumber(int32_t value)
+void Aspose::Pdf::Heading::set_StartNumber(int32_t value)
 ```
 
 ## See Also

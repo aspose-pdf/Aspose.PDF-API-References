@@ -4,7 +4,7 @@ linktitle: ComparisonOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::ComparisonOptions::ComparisonOptions constructor. Creates a ComparisonOptions class instance in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/aspose.pdf.comparison/comparisonoptions/comparisonoptions/
 ---
 ## ComparisonOptions::ComparisonOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/comparisonoptions/comparisonoptions/
 Creates a [ComparisonOptions](../) class instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Comparison::ComparisonOptions::ComparisonOptions()
+Aspose::Pdf::Comparison::ComparisonOptions::ComparisonOptions()
 ```
 
 ## See Also

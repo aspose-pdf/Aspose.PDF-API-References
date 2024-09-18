@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/grestore/tostring/
 Returns text of the operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::GRestore::ToString() const override
+System::String Aspose::Pdf::Operators::GRestore::ToString() const override
 ```
 
 

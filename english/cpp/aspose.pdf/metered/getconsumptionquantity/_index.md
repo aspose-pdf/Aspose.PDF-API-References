@@ -4,7 +4,7 @@ linktitle: GetConsumptionQuantity
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Metered::GetConsumptionQuantity method. Gets consumption file size in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/metered/getconsumptionquantity/
 ---
 ## Metered::GetConsumptionQuantity method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metered/getconsumptionquantity/
 Gets consumption file size.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::Decimal Aspose::Pdf::Metered::GetConsumptionQuantity()
+static System::Decimal Aspose::Pdf::Metered::GetConsumptionQuantity()
 ```
 
 

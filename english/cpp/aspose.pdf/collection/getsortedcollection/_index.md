@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collection/getsortedcollection/
 Gets a collection of files sorted according to the specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<FileSpecification>>> Aspose::Pdf::Collection::GetSortedCollection()
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<FileSpecification>>> Aspose::Pdf::Collection::GetSortedCollection()
 ```
 
 

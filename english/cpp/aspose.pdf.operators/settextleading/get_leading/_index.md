@@ -4,7 +4,7 @@ linktitle: get_Leading
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetTextLeading::get_Leading method. Gets the text leading in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.operators/settextleading/get_leading/
 ---
 ## SetTextLeading::get_Leading method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/settextleading/get_leading/
 Gets the text leading.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetTextLeading::get_Leading() const
+double Aspose::Pdf::Operators::SetTextLeading::get_Leading() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_CopyOutlines
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::get_CopyOutlines method. If true then outlines will be copied in C++.'
 type: docs
-weight: 400
+weight: 1600
 url: /cpp/aspose.pdf.facades/pdffileeditor/get_copyoutlines/
 ---
 ## PdfFileEditor::get_CopyOutlines method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/get_copyoutlines/
 If true then outlines will be copied.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::get_CopyOutlines() const
+bool Aspose::Pdf::Facades::PdfFileEditor::get_CopyOutlines() const
 ```
 
 ## See Also

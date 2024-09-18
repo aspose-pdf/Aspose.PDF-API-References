@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_alternateicon/
 Sets alternate icon which shall be displayed when the mouse button is pressed within its active area.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ButtonField::set_AlternateIcon(System::SharedPtr<XForm> value)
+void Aspose::Pdf::Forms::ButtonField::set_AlternateIcon(System::SharedPtr<XForm> value)
 ```
 
 ## See Also

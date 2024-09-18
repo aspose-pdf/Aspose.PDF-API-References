@@ -4,7 +4,7 @@ linktitle: SvgLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SvgLoadOptions::SvgLoadOptions constructor. Creates SvgLoadOptions object in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf/svgloadoptions/svgloadoptions/
 ---
 ## SvgLoadOptions::SvgLoadOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/svgloadoptions/svgloadoptions/
 Creates [SvgLoadOptions](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::SvgLoadOptions::SvgLoadOptions()
+Aspose::Pdf::SvgLoadOptions::SvgLoadOptions()
 ```
 
 ## See Also

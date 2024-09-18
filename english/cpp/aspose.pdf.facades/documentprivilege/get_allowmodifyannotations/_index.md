@@ -4,7 +4,7 @@ linktitle: get_AllowModifyAnnotations
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_AllowModifyAnnotations method. Sets the permission which allow modify annotations or not. true is allow and false is forbidden in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf.facades/documentprivilege/get_allowmodifyannotations/
 ---
 ## DocumentPrivilege::get_AllowModifyAnnotations method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/get_allowmodifyannotations/
 Sets the permission which allow modify annotations or not. true is allow and false is forbidden.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::DocumentPrivilege::get_AllowModifyAnnotations()
+bool Aspose::Pdf::Facades::DocumentPrivilege::get_AllowModifyAnnotations()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: PdfFileEditor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::PdfFileEditor constructor. PdfFileEditor constructor in C++.'
 type: docs
-weight: 4500
+weight: 100
 url: /cpp/aspose.pdf.facades/pdffileeditor/pdffileeditor/
 ---
 ## PdfFileEditor::PdfFileEditor constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/pdffileeditor/
 [PdfFileEditor](../) constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Facades::PdfFileEditor::PdfFileEditor()
+Aspose::Pdf::Facades::PdfFileEditor::PdfFileEditor()
 ```
 
 ## See Also

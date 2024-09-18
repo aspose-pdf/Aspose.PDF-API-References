@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XForm::get_Name method. Gets form name. Form name is name which used to reference form in XObejct ductionary in page resources in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.pdf/xform/get_name/
 ---
 ## XForm::get_Name method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/get_name/
 Gets form name. Form name is name which used to reference form in XObejct ductionary in page resources.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XForm::get_Name()
+System::String Aspose::Pdf::XForm::get_Name()
 ```
 
 ## See Also

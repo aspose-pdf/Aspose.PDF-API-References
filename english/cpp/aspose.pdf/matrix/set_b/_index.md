@@ -4,7 +4,7 @@ linktitle: set_B
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::set_B method. B member of the transformation matrix in C++.'
 type: docs
-weight: 500
+weight: 1800
 url: /cpp/aspose.pdf/matrix/set_b/
 ---
 ## Matrix::set_B method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/set_b/
 B member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Matrix::set_B(double value)
+void Aspose::Pdf::Matrix::set_B(double value)
 ```
 
 ## See Also

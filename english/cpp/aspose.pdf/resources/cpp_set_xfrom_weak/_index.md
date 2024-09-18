@@ -4,7 +4,7 @@ linktitle: cpp_set_xfrom_weak
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use cpp_set_xfrom_weak method of Aspose::Pdf::Resources class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.pdf/resources/cpp_set_xfrom_weak/
 ---
 ## Resources::cpp_set_xfrom_weak method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/resources/cpp_set_xfrom_weak/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Resources::cpp_set_xfrom_weak(System::SharedPtr<XForm> from)
+void Aspose::Pdf::Resources::cpp_set_xfrom_weak(System::SharedPtr<XForm> from)
 ```
 
 ## See Also

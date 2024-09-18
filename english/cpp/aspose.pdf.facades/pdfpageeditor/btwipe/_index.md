@@ -4,7 +4,7 @@ linktitle: BTWIPE
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::BTWIPE field. Bottom-Top Wipe in C++.'
 type: docs
-weight: 3900
+weight: 3100
 url: /cpp/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
 ## BTWIPE field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/btwipe/
 Bottom-Top Wipe.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::BTWIPE
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::BTWIPE
 ```
 
 ## See Also

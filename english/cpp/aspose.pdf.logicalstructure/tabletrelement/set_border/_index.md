@@ -4,7 +4,7 @@ linktitle: set_Border
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::TableTRElement::set_Border method. Sets the row border in C++.'
 type: docs
-weight: 400
+weight: 1400
 url: /cpp/aspose.pdf.logicalstructure/tabletrelement/set_border/
 ---
 ## TableTRElement::set_Border method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/set_border/
 Sets the row border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::TableTRElement::set_Border(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::LogicalStructure::TableTRElement::set_Border(System::SharedPtr<BorderInfo> value)
 ```
 
 ## See Also

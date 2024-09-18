@@ -4,7 +4,7 @@ linktitle: get_RichTextValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RichTextBoxField::get_RichTextValue method. Gets rich text value in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.forms/richtextboxfield/get_richtextvalue/
 ---
 ## RichTextBoxField::get_RichTextValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/get_richtextvalue/
 Gets rich text value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::RichTextBoxField::get_RichTextValue()
+System::String Aspose::Pdf::Forms::RichTextBoxField::get_RichTextValue()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Rectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSearchOptions::get_Rectangle method. Gets rectangle that bounds the searched text in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.text/textsearchoptions/get_rectangle/
 ---
 ## TextSearchOptions::get_Rectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsearchoptions/get_rectangle/
 Gets rectangle that bounds the searched text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::TextSearchOptions::get_Rectangle() const
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Text::TextSearchOptions::get_Rectangle() const
 ```
 
 ## Remarks

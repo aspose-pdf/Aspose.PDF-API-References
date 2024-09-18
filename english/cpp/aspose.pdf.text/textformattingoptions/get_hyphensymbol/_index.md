@@ -4,7 +4,7 @@ linktitle: get_HyphenSymbol
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFormattingOptions::get_HyphenSymbol method. Gets hyphen symbol that is used in hyphenation process in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.text/textformattingoptions/get_hyphensymbol/
 ---
 ## TextFormattingOptions::get_HyphenSymbol method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/get_hyphensymbol/
 Gets hyphen symbol that is used in hyphenation process.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextFormattingOptions::get_HyphenSymbol() const
+System::String Aspose::Pdf::Text::TextFormattingOptions::get_HyphenSymbol() const
 ```
 
 ## Remarks

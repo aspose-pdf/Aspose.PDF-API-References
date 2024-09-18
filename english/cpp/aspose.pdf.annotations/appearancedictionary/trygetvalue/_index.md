@@ -4,7 +4,7 @@ linktitle: TryGetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AppearanceDictionary::TryGetValue method. Tries to find key in the dictionary and retreives value if found in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.pdf.annotations/appearancedictionary/trygetvalue/
 ---
 ## AppearanceDictionary::TryGetValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/trygetvalue/
 Tries to find key in the dictionary and retreives value if found.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::AppearanceDictionary::TryGetValue(const System::String &key, System::SharedPtr<XForm> &value) const override
+bool Aspose::Pdf::Annotations::AppearanceDictionary::TryGetValue(const System::String &key, System::SharedPtr<XForm> &value) const override
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::AppearanceDictionary::TryGe
 ### ReturnValue
 
 true if key was found.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Key to search in the dictionary.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Retreived value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XForm](../../../aspose.pdf/xform/)

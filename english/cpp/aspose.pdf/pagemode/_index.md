@@ -4,7 +4,7 @@ linktitle: PageMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageMode enum. Class descibes used components of the document page in C++.'
 type: docs
-weight: 19000
+weight: 21500
 url: /cpp/aspose.pdf/pagemode/
 ---
 ## PageMode enum

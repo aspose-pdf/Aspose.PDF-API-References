@@ -4,7 +4,7 @@ linktitle: PageLabel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageLabel::PageLabel constructor. Constructor for page label in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.pdf/pagelabel/pagelabel/
 ---
 ## PageLabel::PageLabel constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagelabel/pagelabel/
 Constructor for page label.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PageLabel::PageLabel()
+Aspose::Pdf::PageLabel::PageLabel()
 ```
 
 ## See Also

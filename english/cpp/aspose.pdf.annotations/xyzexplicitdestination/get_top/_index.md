@@ -4,7 +4,7 @@ linktitle: get_Top
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::XYZExplicitDestination::get_Top method. Gets top vertical coordinate of the upper-left corner of the window in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.annotations/xyzexplicitdestination/get_top/
 ---
 ## XYZExplicitDestination::get_Top method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/xyzexplicitdestination/get_top/
 Gets top vertical coordinate of the upper-left corner of the window.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::XYZExplicitDestination::get_Top()
+double Aspose::Pdf::Annotations::XYZExplicitDestination::get_Top()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_ExcludeFontsStrategy
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::set_ExcludeFontsStrategy method. Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag OptimizeFileSize is set to true. By default combination of strategies SubsetFonts and RemoveDuplicatedFonts is used in C++.'
 type: docs
-weight: 2700
+weight: 2400
 url: /cpp/aspose.pdf/pdfformatconversionoptions/set_excludefontsstrategy/
 ---
 ## PdfFormatConversionOptions::set_ExcludeFontsStrategy method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_excludefontsstrategy/
 Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies **SubsetFonts** and **RemoveDuplicatedFonts** is used.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfFormatConversionOptions::set_ExcludeFontsStrategy(PdfFormatConversionOptions::RemoveFontsStrategy value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_ExcludeFontsStrategy(PdfFormatConversionOptions::RemoveFontsStrategy value)
 ```
 
 ## See Also

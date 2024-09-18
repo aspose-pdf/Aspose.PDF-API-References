@@ -4,7 +4,7 @@ linktitle: get_BaseFont
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::Font::get_BaseFont method. Gets BaseFont value of PDF font object. Also known as PostScript name of the font in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.text/font/get_basefont/
 ---
 ## Font::get_BaseFont method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/font/get_basefont/
 Gets BaseFont value of PDF font object. Also known as PostScript name of the font.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::Font::get_BaseFont()
+System::String Aspose::Pdf::Text::Font::get_BaseFont()
 ```
 
 ## See Also

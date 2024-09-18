@@ -4,7 +4,7 @@ linktitle: SaveNewInfoWithXmp
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfoWithXmp method. Changes the properties specified explicitly by setting file information, other properties remain in C++.'
 type: docs
-weight: 4500
+weight: 3400
 url: /cpp/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 ---
 ## PdfFileInfo::SaveNewInfoWithXmp method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 Changes the properties specified explicitly by setting file information, other properties remain.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfoWithXmp(System::String outputFileName)
+bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfoWithXmp(System::String outputFileName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfoWithXmp
 ### ReturnValue
 
 True for success, or false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>outputFileName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output file.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileInfo](../)

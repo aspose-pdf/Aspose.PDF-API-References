@@ -4,7 +4,7 @@ linktitle: get_Sienna
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Sienna method. Gets a system-defined color that has an ARGB value of #FFA0522D in C++.'
 type: docs
-weight: 13200
+weight: 13500
 url: /cpp/aspose.pdf/color/get_sienna/
 ---
 ## Color::get_Sienna method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_sienna/
 Gets a system-defined color that has an ARGB value of **#FFA0522D**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Sienna()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Sienna()
 ```
 
 

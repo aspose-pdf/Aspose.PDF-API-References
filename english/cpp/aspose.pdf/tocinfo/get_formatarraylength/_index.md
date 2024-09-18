@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/get_formatarraylength/
 Gets format array length.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::TocInfo::get_FormatArrayLength()
+int32_t Aspose::Pdf::TocInfo::get_FormatArrayLength()
 ```
 
 ## See Also

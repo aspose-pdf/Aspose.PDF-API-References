@@ -24,19 +24,7 @@ virtual System::String Aspose::Pdf::Comparison::OutputGenerator::IStringOutputGe
 ### ReturnValue
 
 [Text](../../../aspose.pdf.text/) representation of output.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>diffrences</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of differences between texts.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
@@ -60,19 +48,7 @@ virtual System::String Aspose::Pdf::Comparison::OutputGenerator::IStringOutputGe
 ### ReturnValue
 
 [Text](../../../aspose.pdf.text/) representation of output.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>diffrences</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of differences between texts.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)

@@ -4,7 +4,7 @@ linktitle: set_LineWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::LineInfo::set_LineWidth method. Sets the width of a line in C++.'
 type: docs
-weight: 600
+weight: 1100
 url: /cpp/aspose.pdf.facades/lineinfo/set_linewidth/
 ---
 ## LineInfo::set_LineWidth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/lineinfo/set_linewidth/
 Sets the width of a line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::LineInfo::set_LineWidth(int32_t value)
+void Aspose::Pdf::Facades::LineInfo::set_LineWidth(int32_t value)
 ```
 
 ## See Also

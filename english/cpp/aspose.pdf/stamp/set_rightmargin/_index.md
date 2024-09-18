@@ -4,7 +4,7 @@ linktitle: set_RightMargin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp::set_RightMargin method. Sets right margin of stamp in C++.'
 type: docs
-weight: 2200
+weight: 3100
 url: /cpp/aspose.pdf/stamp/set_rightmargin/
 ---
 ## Stamp::set_RightMargin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/set_rightmargin/
 Sets right margin of stamp.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Stamp::set_RightMargin(double value)
+void Aspose::Pdf::Stamp::set_RightMargin(double value)
 ```
 
 ## See Also

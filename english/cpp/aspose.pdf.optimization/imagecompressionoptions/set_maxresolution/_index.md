@@ -4,7 +4,7 @@ linktitle: set_MaxResolution
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::ImageCompressionOptions::set_MaxResolution method. Specifies maximum resolution of images. If image has higher resolition it will be scaled in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.pdf.optimization/imagecompressionoptions/set_maxresolution/
 ---
 ## ImageCompressionOptions::set_MaxResolution method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/imagecompressionoptions/set_maxresolution/
 Specifies maximum resolution of images. If image has higher resolition it will be scaled.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Optimization::ImageCompressionOptions::set_MaxResolution(int32_t value)
+void Aspose::Pdf::Optimization::ImageCompressionOptions::set_MaxResolution(int32_t value)
 ```
 
 ## See Also

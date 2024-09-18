@@ -4,7 +4,7 @@ linktitle: get_Top
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::get_Top method. Gets the top Y of this headings in C++.'
 type: docs
-weight: 300
+weight: 1100
 url: /cpp/aspose.pdf/heading/get_top/
 ---
 ## Heading::get_Top method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/get_top/
 Gets the top Y of this headings.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Heading::get_Top() const
+double Aspose::Pdf::Heading::get_Top() const
 ```
 
 ## See Also

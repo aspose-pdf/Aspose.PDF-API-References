@@ -4,7 +4,7 @@ linktitle: get_IsNoBorder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_IsNoBorder method. Gets the cell have border in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.pdf/cell/get_isnoborder/
 ---
 ## Cell::get_IsNoBorder method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/get_isnoborder/
 Gets the cell have border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Cell::get_IsNoBorder() const
+bool Aspose::Pdf::Cell::get_IsNoBorder() const
 ```
 
 ## See Also

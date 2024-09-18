@@ -4,7 +4,7 @@ linktitle: set_Zoom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp::set_Zoom method. Zooming factor of the stamp. Allows to scale stamp. Please note that pair of properties ZoomX and ZoomY allows to set zoom factor for every axe separately. Setting of this property changes both ZoomX and ZoomY properties. If ZoomX and ZoomY are different then Zoom property returns ZoomX value in C++.'
 type: docs
-weight: 3600
+weight: 3900
 url: /cpp/aspose.pdf/stamp/set_zoom/
 ---
 ## Stamp::set_Zoom method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/set_zoom/
 Zooming factor of the stamp. Allows to scale stamp. Please note that pair of properties ZoomX and ZoomY allows to set zoom factor for every axe separately. Setting of this property changes both ZoomX and ZoomY properties. If ZoomX and ZoomY are different then Zoom property returns ZoomX value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Stamp::set_Zoom(double value)
+void Aspose::Pdf::Stamp::set_Zoom(double value)
 ```
 
 ## See Also

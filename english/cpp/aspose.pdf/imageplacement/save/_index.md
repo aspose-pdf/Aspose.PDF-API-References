@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf/imageplacement/save/
 Saves image with corresponding transformations: scaling, rotation and resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | System::SharedPtr\<System::IO::Stream\> | Stream where image will be saved |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>stream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream where image will be saved</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [ImagePlacement](../)
@@ -44,7 +32,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<S
 Saves image with corresponding transformations: scaling, rotation and resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
+void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
 ```
 
 
@@ -52,27 +40,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::ImagePlacement::Save(System::SharedPtr<S
 | --- | --- | --- |
 | stream | System::SharedPtr\<System::IO::Stream\> | Stream where image will be saved |
 | format | System::SharedPtr\<System::Drawing::Imaging::ImageFormat\> | Format which will be used for image enconding. [ImageFormat](../) |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>stream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream where image will be saved</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>format</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Format which will be used for image enconding. <ref refid="" kindref="compound">ImageFormat</ref></para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [ImagePlacement](../)

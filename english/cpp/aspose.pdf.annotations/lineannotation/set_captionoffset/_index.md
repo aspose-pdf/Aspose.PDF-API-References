@@ -4,7 +4,7 @@ linktitle: set_CaptionOffset
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::set_CaptionOffset method. Sets caption text offset from its normal position in C++.'
 type: docs
-weight: 2000
+weight: 1800
 url: /cpp/aspose.pdf.annotations/lineannotation/set_captionoffset/
 ---
 ## LineAnnotation::set_CaptionOffset method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_captionoffset/
 Sets caption text offset from its normal position.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LineAnnotation::set_CaptionOffset(System::SharedPtr<Point> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_CaptionOffset(System::SharedPtr<Point> value)
 ```
 
 ## See Also

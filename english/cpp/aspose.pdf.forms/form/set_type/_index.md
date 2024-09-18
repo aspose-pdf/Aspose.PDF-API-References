@@ -4,7 +4,7 @@ linktitle: set_Type
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::set_Type method. Gets type of the form. Possible values are: Standard, Static, Dynamic in C++.'
 type: docs
-weight: 1800
+weight: 3700
 url: /cpp/aspose.pdf.forms/form/set_type/
 ---
 ## Form::set_Type method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/set_type/
 Gets type of the form. Possible values are: Standard, Static, Dynamic.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Form::set_Type(FormType value)
+void Aspose::Pdf::Forms::Form::set_Type(FormType value)
 ```
 
 ## See Also

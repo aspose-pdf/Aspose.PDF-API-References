@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::MobiXmlSaveOptions::MobiXmlSaveOptions()
+Aspose::Pdf::MobiXmlSaveOptions::MobiXmlSaveOptions()
 ```
 
 ## See Also

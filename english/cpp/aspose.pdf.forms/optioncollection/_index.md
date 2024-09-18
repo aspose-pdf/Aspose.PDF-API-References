@@ -20,10 +20,10 @@ class OptionCollection : public System::Collections::Generic::ICollection<System
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(const System::SharedPtr\<Option\>\&) override | Adds item in collection, throws 
+| [Add](./add/)(const System::SharedPtr\<Option\>\&) override | Adds item in collection, throws NotImplementedException
 . |
 | [Clear](./clear/)() override | Removes all items from collection. |
-| [Contains](./contains/)(const System::SharedPtr\<Option\>\&) const override | Checks if item exists in collection, throws 
+| [Contains](./contains/)(const System::SharedPtr\<Option\>\&) const override | Checks if item exists in collection, throws NotImplementedException
 . |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Option\>\>, int32_t) override | Copies options into array. |
 | [get](./get/)(int32_t) | Gets option by index. |
@@ -35,7 +35,7 @@ class OptionCollection : public System::Collections::Generic::ICollection<System
 | [GetEnumerator](./getenumerator/)() override | Returns enumerator for options in collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets option by index. |
 | [idx_get](./idx_get/)(System::String) | Gets option by its name. |
-| [Remove](./remove/)(const System::SharedPtr\<Option\>\&) override | Removes item from collection, throws 
+| [Remove](./remove/)(const System::SharedPtr\<Option\>\&) override | Removes item from collection, throws NotImplementedException
 . |
 ## See Also
 

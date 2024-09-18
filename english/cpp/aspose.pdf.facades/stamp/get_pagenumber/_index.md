@@ -4,7 +4,7 @@ linktitle: get_PageNumber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Stamp::get_PageNumber method. Gets page number in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.pdf.facades/stamp/get_pagenumber/
 ---
 ## Stamp::get_PageNumber method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/stamp/get_pagenumber/
 Gets page number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::Stamp::get_PageNumber() const
+int32_t Aspose::Pdf::Facades::Stamp::get_PageNumber() const
 ```
 
 ## See Also

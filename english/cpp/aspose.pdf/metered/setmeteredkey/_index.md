@@ -4,7 +4,7 @@ linktitle: SetMeteredKey
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Metered::SetMeteredKey method. Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/metered/setmeteredkey/
 ---
 ## Metered::SetMeteredKey method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metered/setmeteredkey/
 Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metered::SetMeteredKey(System::String publicKey, System::String privateKey)
+void Aspose::Pdf::Metered::SetMeteredKey(System::String publicKey, System::String privateKey)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metered::SetMeteredKey(System::String pu
 | --- | --- | --- |
 | publicKey | System::String | public key |
 | privateKey | System::String | private key |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>publicKey</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>public key</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>privateKey</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>private key</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Metered](../)

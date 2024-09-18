@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffDevice::get_Width method. Gets image output width in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.devices/tiffdevice/get_width/
 ---
 ## TiffDevice::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffdevice/get_width/
 Gets image output width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Devices::TiffDevice::get_Width() const
+int32_t Aspose::Pdf::Devices::TiffDevice::get_Width() const
 ```
 
 ## See Also

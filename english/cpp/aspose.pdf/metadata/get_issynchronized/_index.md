@@ -4,7 +4,7 @@ linktitle: get_IsSynchronized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Metadata::get_IsSynchronized method. Checks if collection is synchronized in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/aspose.pdf/metadata/get_issynchronized/
 ---
 ## Metadata::get_IsSynchronized method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/get_issynchronized/
 Checks if collection is synchronized.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Metadata::get_IsSynchronized()
+bool Aspose::Pdf::Metadata::get_IsSynchronized()
 ```
 
 ## See Also

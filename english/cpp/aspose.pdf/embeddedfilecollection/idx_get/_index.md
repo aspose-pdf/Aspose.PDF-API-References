@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/embeddedfilecollection/idx_get/
 Gets embedded file by its index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::idx_get(int32_t index)
+System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::Embedded
 ### ReturnValue
 
 Retreived embedded file specification
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of embedded file. Numbering is started from 1.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FileSpecification](../../filespecification/)
@@ -49,7 +37,7 @@ Retreived embedded file specification
 Gets embedded file by its name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::idx_get(System::String name)
+System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::idx_get(System::String name)
 ```
 
 
@@ -60,19 +48,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::Embedded
 ### ReturnValue
 
 Retreived embedded file specification.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Embedded file name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FileSpecification](../../filespecification/)

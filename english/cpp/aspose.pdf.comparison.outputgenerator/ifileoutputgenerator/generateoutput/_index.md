@@ -21,27 +21,7 @@ virtual void Aspose::Pdf::Comparison::OutputGenerator::IFileOutputGenerator::Gen
 | --- | --- | --- |
 | diffrences | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Pdf::Comparison::Diff::DiffOperation\>\>\> | The list of differences between texts. |
 | targetFilePath | System::String | The path of the target file to save the output. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>diffrences</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of differences between texts.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>targetFilePath</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of the target file to save the output.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)
@@ -62,27 +42,7 @@ virtual void Aspose::Pdf::Comparison::OutputGenerator::IFileOutputGenerator::Gen
 | --- | --- | --- |
 | diffrences | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<Aspose::Pdf::Comparison::Diff::DiffOperation\>\>\>\>\> | The list of differences between texts. |
 | targetFilePath | System::String | The path of the target file to save the output. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>diffrences</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The list of differences between texts.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>targetFilePath</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of the target file to save the output.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DiffOperation](../../../aspose.pdf.comparison.diff/diffoperation/)

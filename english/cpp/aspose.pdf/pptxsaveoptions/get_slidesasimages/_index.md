@@ -4,7 +4,7 @@ linktitle: get_SlidesAsImages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PptxSaveOptions::get_SlidesAsImages method. If set to true then all the content is recognized as images (one per page) in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.pdf/pptxsaveoptions/get_slidesasimages/
 ---
 ## PptxSaveOptions::get_SlidesAsImages method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pptxsaveoptions/get_slidesasimages/
 If set to true then all the content is recognized as images (one per page)
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PptxSaveOptions::get_SlidesAsImages() const
+bool Aspose::Pdf::PptxSaveOptions::get_SlidesAsImages() const
 ```
 
 ## See Also

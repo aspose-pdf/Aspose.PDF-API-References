@@ -4,7 +4,7 @@ linktitle: BorderStyle_Dashed
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::BorderStyle_Dashed field. Attribute BorderStyle: Dashed - The border is a series of short line segments in C++.'
 type: docs
-weight: 1600
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/
 ---
 ## BorderStyle_Dashed field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/
 Attribute BorderStyle: Dashed - The border is a series of short line segments.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::BorderStyle_Dashed
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::BorderStyle_Dashed
 ```
 
 ## See Also

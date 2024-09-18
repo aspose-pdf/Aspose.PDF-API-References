@@ -4,7 +4,7 @@ linktitle: set_PdfPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfPageStamp::set_PdfPage method. Sets page which will be used as stamp in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf/pdfpagestamp/set_pdfpage/
 ---
 ## PdfPageStamp::set_PdfPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfpagestamp/set_pdfpage/
 Sets page which will be used as stamp.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfPageStamp::set_PdfPage(System::SharedPtr<Page> value)
+void Aspose::Pdf::PdfPageStamp::set_PdfPage(System::SharedPtr<Page> value)
 ```
 
 ## See Also

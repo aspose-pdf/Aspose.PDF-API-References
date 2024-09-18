@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::Clear method. Removes all elements from the object in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/clear/
 ---
 ## PdfXmpMetadata::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfxmpmetadata/clear/
 Removes all elements from the object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfXmpMetadata::Clear() override
+void Aspose::Pdf::Facades::PdfXmpMetadata::Clear() override
 ```
 
 ## See Also

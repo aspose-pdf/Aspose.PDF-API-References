@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonfield/get_options/
 Gets collection of options of the radio button.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<OptionCollection> Aspose::Pdf::Forms::RadioButtonField::get_Options() override
+System::SharedPtr<OptionCollection> Aspose::Pdf::Forms::RadioButtonField::get_Options() override
 ```
 
 ## See Also

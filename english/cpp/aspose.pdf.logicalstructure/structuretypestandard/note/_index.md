@@ -4,7 +4,7 @@ linktitle: Note
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Note field of Aspose::Pdf::LogicalStructure::StructureTypeStandard class in C++.'
 type: docs
-weight: 3800
+weight: 3000
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/note/
 ---
 ## Note field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/note/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Note
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Note
 ```
 
 ## Remarks

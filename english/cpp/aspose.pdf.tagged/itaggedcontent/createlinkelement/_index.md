@@ -4,7 +4,7 @@ linktitle: CreateLinkElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateLinkElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 3300
+weight: 1300
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createlinkelement/
 ---
 ## ITaggedContent::CreateLinkElement method

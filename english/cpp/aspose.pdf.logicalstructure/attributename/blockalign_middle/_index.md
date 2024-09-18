@@ -4,7 +4,7 @@ linktitle: BlockAlign_Middle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::BlockAlign_Middle field. Attribute BlockAlign: Middle- Children centered within the table cell. The distance between the before edge of the first child''s allocation rectangle and that of the table cell''s content rectangle shall be the same as the distance between the after edge of the last child''s allocation rectangle and that of the table cell''s content rectangle in C++.'
 type: docs
-weight: 3000
+weight: 800
 url: /cpp/aspose.pdf.logicalstructure/attributename/blockalign_middle/
 ---
 ## BlockAlign_Middle field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/blockalign_middle/
 Attribute BlockAlign: Middle- Children centered within the table cell. The distance between the before edge of the first child's allocation rectangle and that of the table cell's content rectangle shall be the same as the distance between the after edge of the last child's allocation rectangle and that of the table cell's content rectangle.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::BlockAlign_Middle
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::BlockAlign_Middle
 ```
 
 ## See Also

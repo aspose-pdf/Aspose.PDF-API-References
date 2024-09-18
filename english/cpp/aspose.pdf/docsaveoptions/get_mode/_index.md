@@ -4,7 +4,7 @@ linktitle: get_Mode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::get_Mode method. Recognition mode in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.pdf/docsaveoptions/get_mode/
 ---
 ## DocSaveOptions::get_Mode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/docsaveoptions/get_mode/
 Recognition mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API DocSaveOptions::RecognitionMode Aspose::Pdf::DocSaveOptions::get_Mode() const
+DocSaveOptions::RecognitionMode Aspose::Pdf::DocSaveOptions::get_Mode() const
 ```
 
 ## See Also

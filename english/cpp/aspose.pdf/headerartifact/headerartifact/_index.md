@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerartifact/headerartifact/
 Creates Header [Artifact](../../artifact/) instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::HeaderArtifact::HeaderArtifact()
+Aspose::Pdf::HeaderArtifact::HeaderArtifact()
 ```
 
 ## See Also

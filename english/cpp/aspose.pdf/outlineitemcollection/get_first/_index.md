@@ -4,7 +4,7 @@ linktitle: get_First
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::get_First method. Gets the outline item representing the first top-level item in the outline hierarchy in C++.'
 type: docs
-weight: 1300
+weight: 1200
 url: /cpp/aspose.pdf/outlineitemcollection/get_first/
 ---
 ## OutlineItemCollection::get_First method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/get_first/
 Gets the outline item representing the first top-level item in the outline hierarchy.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<OutlineItemCollection> Aspose::Pdf::OutlineItemCollection::get_First() const
+System::SharedPtr<OutlineItemCollection> Aspose::Pdf::OutlineItemCollection::get_First() const
 ```
 
 ## See Also

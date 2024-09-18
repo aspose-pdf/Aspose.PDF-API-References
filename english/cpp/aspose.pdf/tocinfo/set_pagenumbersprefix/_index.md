@@ -4,7 +4,7 @@ linktitle: set_PageNumbersPrefix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo::set_PageNumbersPrefix method. Sets is prefix before page number in C++.'
 type: docs
-weight: 1200
+weight: 1800
 url: /cpp/aspose.pdf/tocinfo/set_pagenumbersprefix/
 ---
 ## TocInfo::set_PageNumbersPrefix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_pagenumbersprefix/
 Sets is prefix before page number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TocInfo::set_PageNumbersPrefix(System::String value)
+void Aspose::Pdf::TocInfo::set_PageNumbersPrefix(System::String value)
 ```
 
 ## See Also

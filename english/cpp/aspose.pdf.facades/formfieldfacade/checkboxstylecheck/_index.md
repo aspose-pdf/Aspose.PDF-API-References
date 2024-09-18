@@ -4,7 +4,7 @@ linktitle: CheckBoxStyleCheck
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleCheck field. Defines the shape of a check box field when it checked in C++.'
 type: docs
-weight: 5800
+weight: 5700
 url: /cpp/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 ---
 ## CheckBoxStyleCheck field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 Defines the shape of a check box field when it checked.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleCheck
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleCheck
 ```
 
 ## See Also

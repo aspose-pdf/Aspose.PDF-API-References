@@ -4,7 +4,7 @@ linktitle: get_LineDash
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo::get_LineDash method. Gets TOC line dash in C++.'
 type: docs
-weight: 1500
+weight: 800
 url: /cpp/aspose.pdf/tocinfo/get_linedash/
 ---
 ## TocInfo::get_LineDash method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/get_linedash/
 Gets TOC line dash.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Text::TabLeaderType Aspose::Pdf::TocInfo::get_LineDash() const
+Text::TabLeaderType Aspose::Pdf::TocInfo::get_LineDash() const
 ```
 
 ## See Also

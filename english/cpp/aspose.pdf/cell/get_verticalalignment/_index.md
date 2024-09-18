@@ -4,7 +4,7 @@ linktitle: get_VerticalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_VerticalAlignment method. Gets the vertical alignment in C++.'
 type: docs
-weight: 2300
+weight: 1600
 url: /cpp/aspose.pdf/cell/get_verticalalignment/
 ---
 ## Cell::get_VerticalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/get_verticalalignment/
 Gets the vertical alignment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::VerticalAlignment Aspose::Pdf::Cell::get_VerticalAlignment() const
+Aspose::Pdf::VerticalAlignment Aspose::Pdf::Cell::get_VerticalAlignment() const
 ```
 
 ## See Also

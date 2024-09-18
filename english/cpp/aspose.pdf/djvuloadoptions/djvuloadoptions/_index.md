@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/djvuloadoptions/djvuloadoptions/
 Default constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::DjvuLoadOptions::DjvuLoadOptions()
+Aspose::Pdf::DjvuLoadOptions::DjvuLoadOptions()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_contentdisposition/
 Sets how content will be stored when result of operation is stored into HttpResponse object. Possible value: inline / attachment. Default: inline.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileStamp::set_ContentDisposition(Aspose::Pdf::ContentDisposition value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_ContentDisposition(Aspose::Pdf::ContentDisposition value)
 ```
 
 ## See Also

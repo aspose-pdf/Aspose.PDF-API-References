@@ -4,7 +4,7 @@ linktitle: HeaderFooter
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeaderFooter::HeaderFooter constructor. Default ctor in C++.'
 type: docs
-weight: 800
+weight: 100
 url: /cpp/aspose.pdf/headerfooter/headerfooter/
 ---
 ## HeaderFooter::HeaderFooter constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfooter/headerfooter/
 Default ctor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::HeaderFooter::HeaderFooter()
+Aspose::Pdf::HeaderFooter::HeaderFooter()
 ```
 
 ## See Also

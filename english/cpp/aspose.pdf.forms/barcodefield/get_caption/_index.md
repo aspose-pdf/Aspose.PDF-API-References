@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/barcodefield/get_caption/
 Gets the caption of the barcode object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::BarcodeField::get_Caption()
+System::String Aspose::Pdf::Forms::BarcodeField::get_Caption()
 ```
 
 ## See Also

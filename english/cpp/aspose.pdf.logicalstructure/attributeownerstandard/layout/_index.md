@@ -4,7 +4,7 @@ linktitle: Layout
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Layout method. Layout attribute owner in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
 ## AttributeOwnerStandard::Layout method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 Layout attribute owner.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Layout()
+static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Layout()
 ```
 
 ## See Also

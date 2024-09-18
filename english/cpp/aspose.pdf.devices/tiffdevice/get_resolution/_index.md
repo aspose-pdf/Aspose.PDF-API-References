@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffdevice/get_resolution/
 Gets image resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Devices::Resolution> Aspose::Pdf::Devices::TiffDevice::get_Resolution() const
+System::SharedPtr<Aspose::Pdf::Devices::Resolution> Aspose::Pdf::Devices::TiffDevice::get_Resolution() const
 ```
 
 ## See Also

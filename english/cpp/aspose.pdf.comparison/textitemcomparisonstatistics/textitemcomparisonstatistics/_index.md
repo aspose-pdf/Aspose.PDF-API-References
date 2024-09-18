@@ -4,7 +4,7 @@ linktitle: TextItemComparisonStatistics
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use TextItemComparisonStatistics constructor of Aspose::Pdf::Comparison::TextItemComparisonStatistics class in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisonstatistics/
 ---
 ## TextItemComparisonStatistics::TextItemComparisonStatistics constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisons
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Comparison::TextItemComparisonStatistics::TextItemComparisonStatistics()
+Aspose::Pdf::Comparison::TextItemComparisonStatistics::TextItemComparisonStatistics()
 ```
 
 ## See Also

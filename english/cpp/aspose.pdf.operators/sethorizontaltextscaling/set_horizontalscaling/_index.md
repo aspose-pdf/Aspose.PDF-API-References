@@ -4,7 +4,7 @@ linktitle: set_HorizontalScaling
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetHorizontalTextScaling::set_HorizontalScaling method. Sets the horizontal scaling in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/sethorizontaltextscaling/set_horizontalscaling/
 ---
 ## SetHorizontalTextScaling::set_HorizontalScaling method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/sethorizontaltextscaling/set_horizontalscaling/
 Sets the horizontal scaling.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetHorizontalTextScaling::set_HorizontalScaling(double value)
+void Aspose::Pdf::Operators::SetHorizontalTextScaling::set_HorizontalScaling(double value)
 ```
 
 ## See Also

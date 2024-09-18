@@ -4,7 +4,7 @@ linktitle: SetCMYKColorStroke
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetCMYKColorStroke::SetCMYKColorStroke constructor. Initializes operator in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.pdf.operators/setcmykcolorstroke/setcmykcolorstroke/
 ---
 ## SetCMYKColorStroke::SetCMYKColorStroke constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcmykcolorstroke/setcmykcolorstroke/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetCMYKColorStroke::SetCMYKColorStroke(double c, double m, double y, double k)
+Aspose::Pdf::Operators::SetCMYKColorStroke::SetCMYKColorStroke(double c, double m, double y, double k)
 ```
 
 
@@ -23,43 +23,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetCMYKColorStroke::SetCMYKColorSt
 | m | double | The level of magenta from 0.0 to 1.0 |
 | y | double | The level of yellow from 0.0 to 1.0 |
 | k | double | The level of black from 0.0 to 1.0 |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>c</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The level of cyan from 0.0 to 1.0</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>m</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The level of magenta from 0.0 to 1.0</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>y</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The level of yellow from 0.0 to 1.0</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>k</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The level of black from 0.0 to 1.0</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SetCMYKColorStroke](../)

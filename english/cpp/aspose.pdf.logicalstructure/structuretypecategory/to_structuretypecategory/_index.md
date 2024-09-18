@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/to_structuretypecate
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::StructureTypeCategory::to_StructureTypeCategory(System::String name)
+static System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::StructureTypeCategory::to_StructureTypeCategory(System::String name)
 ```
 
 ## See Also

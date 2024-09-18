@@ -4,7 +4,7 @@ linktitle: set_MinRowHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Row::set_MinRowHeight method. Gets height for row; in C++.'
 type: docs
-weight: 1000
+weight: 2300
 url: /cpp/aspose.pdf/row/set_minrowheight/
 ---
 ## Row::set_MinRowHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/set_minrowheight/
 Gets height for row;.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Row::set_MinRowHeight(double value)
+void Aspose::Pdf::Row::set_MinRowHeight(double value)
 ```
 
 ## See Also

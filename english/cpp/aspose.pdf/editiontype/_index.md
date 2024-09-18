@@ -4,7 +4,7 @@ linktitle: EditionType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EditionType enum. Specifies the edition type of the license in C++.'
 type: docs
-weight: 21600
+weight: 19500
 url: /cpp/aspose.pdf/editiontype/
 ---
 ## EditionType enum

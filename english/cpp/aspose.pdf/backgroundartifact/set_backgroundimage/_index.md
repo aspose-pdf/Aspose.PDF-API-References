@@ -4,7 +4,7 @@ linktitle: set_BackgroundImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BackgroundArtifact::set_BackgroundImage method. Sets bacground image of background artifact in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/backgroundartifact/set_backgroundimage/
 ---
 ## BackgroundArtifact::set_BackgroundImage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/backgroundartifact/set_backgroundimage/
 Sets bacground image of background artifact.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::BackgroundArtifact::set_BackgroundImage(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::BackgroundArtifact::set_BackgroundImage(System::SharedPtr<System::IO::Stream> value)
 ```
 
 ## See Also

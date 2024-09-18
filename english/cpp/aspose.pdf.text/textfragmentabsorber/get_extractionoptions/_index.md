@@ -4,7 +4,7 @@ linktitle: get_ExtractionOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentAbsorber::get_ExtractionOptions method. Gets text extraction options in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/aspose.pdf.text/textfragmentabsorber/get_extractionoptions/
 ---
 ## TextFragmentAbsorber::get_ExtractionOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/get_extractionoptions/
 Gets text extraction options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextExtractionOptions> Aspose::Pdf::Text::TextFragmentAbsorber::get_ExtractionOptions() override
+System::SharedPtr<TextExtractionOptions> Aspose::Pdf::Text::TextFragmentAbsorber::get_ExtractionOptions() override
 ```
 
 ## See Also

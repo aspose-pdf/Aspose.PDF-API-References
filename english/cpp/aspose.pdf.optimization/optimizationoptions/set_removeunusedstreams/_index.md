@@ -4,7 +4,7 @@ linktitle: set_RemoveUnusedStreams
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_RemoveUnusedStreams method. If this flag set to true, every resource is checked on it''s usage. If resource is never used, then resources is removed. This may decrease document size for example when pages were extracted from document in C++.'
 type: docs
-weight: 800
+weight: 2500
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_removeunusedstreams/
 ---
 ## OptimizationOptions::set_RemoveUnusedStreams method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/set_removeunusedstreams/
 If this flag set to true, every resource is checked on it's usage. If resource is never used, then resources is removed. This may decrease document size for example when pages were extracted from document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Optimization::OptimizationOptions::set_RemoveUnusedStreams(bool value)
+void Aspose::Pdf::Optimization::OptimizationOptions::set_RemoveUnusedStreams(bool value)
 ```
 
 ## See Also

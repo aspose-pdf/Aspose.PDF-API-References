@@ -4,7 +4,7 @@ linktitle: ToPoints
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::ToPoints method. Converts rectangle into array of points ("QuadPoints") in C++.'
 type: docs
-weight: 2700
+weight: 2600
 url: /cpp/aspose.pdf/rectangle/topoints/
 ---
 ## Rectangle::ToPoints method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/topoints/
 Converts rectangle into array of points ("QuadPoints").
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Rectangle::ToPoints()
+System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Rectangle::ToPoints()
 ```
 
 

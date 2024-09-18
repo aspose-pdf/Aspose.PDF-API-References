@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/patterncolorspace/patterncolorspace/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Drawing::PatternColorSpace::PatternColorSpace()
+Aspose::Pdf::Drawing::PatternColorSpace::PatternColorSpace()
 ```
 
 ## See Also

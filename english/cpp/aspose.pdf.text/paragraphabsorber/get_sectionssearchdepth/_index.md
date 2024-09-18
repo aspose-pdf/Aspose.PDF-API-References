@@ -4,7 +4,7 @@ linktitle: get_SectionsSearchDepth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::ParagraphAbsorber::get_SectionsSearchDepth method. Gets value that instructs how many times sequential searches for more fine elements of structure will be performed. Default search depth is 3. It means three searches for horizontally divided sections (headers, paragraphs etc) and three searches for vertically divided ones (columns) in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.text/paragraphabsorber/get_sectionssearchdepth/
 ---
 ## ParagraphAbsorber::get_SectionsSearchDepth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/get_sectionssearchdepth/
 Gets value that instructs how many times sequential searches for more fine elements of structure will be performed. Default search depth is 3. It means three searches for horizontally divided sections (headers, paragraphs etc) and three searches for vertically divided ones (columns).
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Text::ParagraphAbsorber::get_SectionsSearchDepth() const
+int32_t Aspose::Pdf::Text::ParagraphAbsorber::get_SectionsSearchDepth() const
 ```
 
 ## Remarks

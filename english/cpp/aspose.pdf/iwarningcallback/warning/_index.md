@@ -24,19 +24,7 @@ virtual ReturnAction Aspose::Pdf::IWarningCallback::Warning(System::SharedPtr<Wa
 ### ReturnValue
 
 the result of further program workflow
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>warning</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>the warning information for some happened warning </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [ReturnAction](../../returnaction/)

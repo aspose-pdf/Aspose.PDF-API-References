@@ -4,7 +4,7 @@ linktitle: get_TempPath
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfSaveOptions::get_TempPath method. Path for temporary files in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf/pdfsaveoptions/get_temppath/
 ---
 ## PdfSaveOptions::get_TempPath method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfsaveoptions/get_temppath/
 Path for temporary files.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::PdfSaveOptions::get_TempPath() const
+System::String Aspose::Pdf::PdfSaveOptions::get_TempPath() const
 ```
 
 ## See Also

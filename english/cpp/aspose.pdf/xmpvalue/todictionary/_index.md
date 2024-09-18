@@ -4,7 +4,7 @@ linktitle: ToDictionary
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToDictionary method. Returns dictionary which contains named values in C++.'
 type: docs
-weight: 2200
+weight: 1400
 url: /cpp/aspose.pdf/xmpvalue/todictionary/
 ---
 ## XmpValue::ToDictionary method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/todictionary/
 Returns dictionary which contains named values.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<XmpValue>>> Aspose::Pdf::XmpValue::ToDictionary()
+System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<XmpValue>>> Aspose::Pdf::XmpValue::ToDictionary()
 ```
 
 

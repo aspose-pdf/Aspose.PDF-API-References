@@ -4,7 +4,7 @@ linktitle: set_StrokingColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_StrokingColor method. Sets foreground color of the text in C++.'
 type: docs
-weight: 2400
+weight: 3600
 url: /cpp/aspose.pdf.text/textstate/set_strokingcolor/
 ---
 ## TextState::set_StrokingColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/set_strokingcolor/
 Sets foreground color of the text.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextState::set_StrokingColor(System::SharedPtr<Color> value)
+virtual void Aspose::Pdf::Text::TextState::set_StrokingColor(System::SharedPtr<Color> value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ArtifactCollection::get_IsReadOnly method. Gets if collection is readonly. Always returns false in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.pdf/artifactcollection/get_isreadonly/
 ---
 ## ArtifactCollection::get_IsReadOnly method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifactcollection/get_isreadonly/
 Gets if collection is readonly. Always returns false.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::ArtifactCollection::get_IsReadOnly() const override
+bool Aspose::Pdf::ArtifactCollection::get_IsReadOnly() const override
 ```
 
 ## See Also

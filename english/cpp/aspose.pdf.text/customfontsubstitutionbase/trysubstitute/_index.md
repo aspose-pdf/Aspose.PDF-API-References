@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/customfontsubstitutionbase/trysubstitute/
 Substitutes original font with another font.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::CustomFontSubstitutionBase::TrySubstitute(System::SharedPtr<CustomFontSubstitutionBase::OriginalFontSpecification> originalFontSpecification, System::SharedPtr<Font> &substitutionFont)
+virtual bool Aspose::Pdf::Text::CustomFontSubstitutionBase::TrySubstitute(System::SharedPtr<CustomFontSubstitutionBase::OriginalFontSpecification> originalFontSpecification, System::SharedPtr<Font> &substitutionFont)
 ```
 
 
@@ -32,24 +32,6 @@ The class [CustomFontSubstitutionBase](../) should be inherited to implement cus
 
 Must return true in case substitution is required. substitutionFont must be set to valid [Font](../../font/) object. Must return false in case no substitution is required. substitutionFont may be set to null. 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>originalFontSpecification</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Original font specification.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>substitutionFont</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Substitution font.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Font](../../font/)

@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::ShFill::set_Name method. Sets the shading name in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/shfill/set_name/
 ---
 ## ShFill::set_Name method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/shfill/set_name/
 Sets the shading name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::ShFill::set_Name(System::String value)
+void Aspose::Pdf::Operators::ShFill::set_Name(System::String value)
 ```
 
 ## See Also

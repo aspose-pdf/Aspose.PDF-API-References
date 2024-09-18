@@ -4,7 +4,7 @@ linktitle: to_AttributeOwnerStandard
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use to_AttributeOwnerStandard method of Aspose::Pdf::LogicalStructure::AttributeOwnerStandard class in C++.'
 type: docs
-weight: 1400
+weight: 1300
 url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/to_attributeownerstandard/
 ---
 ## AttributeOwnerStandard::to_AttributeOwnerStandard method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/to_attributeownerst
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::to_AttributeOwnerStandard(System::String owner)
+static System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::to_AttributeOwnerStandard(System::String owner)
 ```
 
 ## See Also

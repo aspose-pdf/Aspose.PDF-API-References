@@ -4,7 +4,7 @@ linktitle: set_Off
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Dash::set_Off method. Sets length of first gap between dashes in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.annotations/dash/set_off/
 ---
 ## Dash::set_Off method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/dash/set_off/
 Sets length of first gap between dashes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Dash::set_Off(int32_t value)
+void Aspose::Pdf::Annotations::Dash::set_Off(int32_t value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/stroke/stroke/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::Stroke::Stroke()
+Aspose::Pdf::Operators::Stroke::Stroke()
 ```
 
 ## See Also

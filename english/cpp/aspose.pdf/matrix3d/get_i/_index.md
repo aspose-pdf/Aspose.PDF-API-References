@@ -4,7 +4,7 @@ linktitle: get_I
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D::get_I method. I member of the transformation matrix in C++.'
 type: docs
-weight: 1700
+weight: 1200
 url: /cpp/aspose.pdf/matrix3d/get_i/
 ---
 ## Matrix3D::get_I method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/get_i/
 I member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix3D::get_I()
+double Aspose::Pdf::Matrix3D::get_I()
 ```
 
 ## See Also

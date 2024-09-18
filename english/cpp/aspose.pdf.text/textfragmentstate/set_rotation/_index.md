@@ -4,7 +4,7 @@ linktitle: set_Rotation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::set_Rotation method. Sets rotation angle in degrees in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/aspose.pdf.text/textfragmentstate/set_rotation/
 ---
 ## TextFragmentState::set_Rotation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/set_rotation/
 Sets rotation angle in degrees.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragmentState::set_Rotation(double value)
+void Aspose::Pdf::Text::TextFragmentState::set_Rotation(double value)
 ```
 
 ## See Also

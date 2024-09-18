@@ -2,7 +2,7 @@
 title: Aspose::Pdf::Forms::OptionCollection::Remove method
 linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Forms::OptionCollection::Remove method. Removes item from collection, throws 
+description: 'Aspose::Pdf::Forms::OptionCollection::Remove method. Removes item from collection, throws NotImplementedException
  in C++.'
 type: docs
 weight: 1200
@@ -11,11 +11,11 @@ url: /cpp/aspose.pdf.forms/optioncollection/remove/
 ## OptionCollection::Remove method
 
 
-Removes item from collection, throws 
+Removes item from collection, throws NotImplementedException
 .
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::OptionCollection::Remove(const System::SharedPtr<Option> &item) override
+bool Aspose::Pdf::Forms::OptionCollection::Remove(const System::SharedPtr<Option> &item) override
 ```
 
 
@@ -25,21 +25,8 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::OptionCollection::Remove(const Sy
 
 ### ReturnValue
 
-Throws
-## Remarks
+Throws NotImplementedException
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_operator" kindref="compound">Operator</ref> item to remove.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Option](../../option/)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_fitwindow/
 Gets flag specifying whether document window must be resized to fit the first displayed page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Document::get_FitWindow()
+bool Aspose::Pdf::Document::get_FitWindow()
 ```
 
 ## See Also

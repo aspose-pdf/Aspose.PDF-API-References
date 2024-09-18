@@ -4,7 +4,7 @@ linktitle: TextDecorationType_None
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::TextDecorationType_None field. Attribute TextDecorationType: None - No text decoration in C++.'
 type: docs
-weight: 3800
+weight: 6400
 url: /cpp/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/
 ---
 ## TextDecorationType_None field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/
 Attribute TextDecorationType: None - No text decoration.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextDecorationType_None
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextDecorationType_None
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_ShowReason
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::get_ShowReason method. Gets/sets reason visibility. Default value: true in C++.'
 type: docs
-weight: 1100
+weight: 1800
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_showreason/
 ---
 ## SignatureCustomAppearance::get_ShowReason method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_showreason/
 Gets/sets reason visibility. Default value: true.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::SignatureCustomAppearance::get_ShowReason() const
+bool Aspose::Pdf::Forms::SignatureCustomAppearance::get_ShowReason() const
 ```
 
 ## See Also

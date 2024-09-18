@@ -4,7 +4,7 @@ linktitle: get_R
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColorStroke::get_R method. Gets the red component in C++.'
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.pdf.operators/setcolorstroke/get_r/
 ---
 ## SetColorStroke::get_R method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorstroke/get_r/
 Gets the red component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetColorStroke::get_R() const
+double Aspose::Pdf::Operators::SetColorStroke::get_R() const
 ```
 
 ## Remarks

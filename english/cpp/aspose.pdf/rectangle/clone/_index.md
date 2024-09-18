@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::Clone method. Clones the Rectangle object in C++.'
 type: docs
-weight: 2600
+weight: 300
 url: /cpp/aspose.pdf/rectangle/clone/
 ---
 ## Rectangle::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/clone/
 Clones the [Rectangle](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Rectangle::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::Rectangle::Clone() override
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_ColorsAndStyles
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicState::get_ColorsAndStyles method. Gets the operators representing colorspaces, colors and line styles in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.vector/graphicstate/get_colorsandstyles/
 ---
 ## GraphicState::get_ColorsAndStyles method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicstate/get_colorsandstyles/
 Gets the operators representing colorspaces, colors and line styles.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::SortedDictionary<uint8_t, System::SharedPtr<Operator>>> Aspose::Pdf::Vector::GraphicState::get_ColorsAndStyles() const
+System::SharedPtr<System::Collections::Generic::SortedDictionary<uint8_t, System::SharedPtr<Operator>>> Aspose::Pdf::Vector::GraphicState::get_ColorsAndStyles() const
 ```
 
 ## See Also

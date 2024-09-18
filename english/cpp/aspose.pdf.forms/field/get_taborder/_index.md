@@ -4,7 +4,7 @@ linktitle: get_TabOrder
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_TabOrder method. Gets tab order of the field in C++.'
 type: docs
-weight: 2000
+weight: 1600
 url: /cpp/aspose.pdf.forms/field/get_taborder/
 ---
 ## Field::get_TabOrder method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_taborder/
 Gets tab order of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::Field::get_TabOrder()
+int32_t Aspose::Pdf::Forms::Field::get_TabOrder()
 ```
 
 ## See Also

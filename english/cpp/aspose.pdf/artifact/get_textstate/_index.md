@@ -4,7 +4,7 @@ linktitle: get_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::get_TextState method. Text state for artifact text in C++.'
 type: docs
-weight: 3400
+weight: 2200
 url: /cpp/aspose.pdf/artifact/get_textstate/
 ---
 ## Artifact::get_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/get_textstate/
 [Text](../../../aspose.pdf.text/) state for artifact text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::Artifact::get_TextState() const
+System::SharedPtr<Aspose::Pdf::Text::TextState> Aspose::Pdf::Artifact::get_TextState() const
 ```
 
 ## See Also

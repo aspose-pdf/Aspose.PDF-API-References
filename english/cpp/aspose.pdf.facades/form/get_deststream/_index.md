@@ -4,7 +4,7 @@ linktitle: get_DestStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::get_DestStream method. Gets destination stream in C++.'
 type: docs
-weight: 900
+weight: 1600
 url: /cpp/aspose.pdf.facades/form/get_deststream/
 ---
 ## Form::get_DestStream method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/form/get_deststream/
 Gets destination stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::Form::get_DestStream() const
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::Form::get_DestStream() const
 ```
 
-## Remarks
 
+## Deprecated
+Use Save(outputStream) method for getting facade results. 
 
-<xrefsect id="deprecated_1_deprecated000019">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use Save(outputStream) method for getting facade results. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [Form](../)

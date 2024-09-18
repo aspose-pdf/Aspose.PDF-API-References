@@ -4,7 +4,7 @@ linktitle: get_Rate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundData::get_Rate method. Gets the sampling rate, in samples per second in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pdf.annotations/sounddata/get_rate/
 ---
 ## SoundData::get_Rate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/sounddata/get_rate/
 Gets the sampling rate, in samples per second.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SoundData::get_Rate()
+int32_t Aspose::Pdf::Annotations::SoundData::get_Rate()
 ```
 
 ## See Also

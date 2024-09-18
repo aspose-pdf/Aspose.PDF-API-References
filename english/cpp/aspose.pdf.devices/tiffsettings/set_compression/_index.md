@@ -4,7 +4,7 @@ linktitle: set_Compression
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::set_Compression method. Sets the type of the compression in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/aspose.pdf.devices/tiffsettings/set_compression/
 ---
 ## TiffSettings::set_Compression method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/set_compression/
 Sets the type of the compression.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffSettings::set_Compression(CompressionType value)
+void Aspose::Pdf::Devices::TiffSettings::set_Compression(CompressionType value)
 ```
 
 ## Remarks

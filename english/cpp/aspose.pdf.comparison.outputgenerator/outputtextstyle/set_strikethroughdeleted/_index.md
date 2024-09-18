@@ -4,7 +4,7 @@ linktitle: set_StrikethroughDeleted
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::set_StrikethroughDeleted method. Get or set text-decoration: line-through style for the delete operation. Default value is False in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/set_strikethroughdeleted/
 ---
 ## OutputTextStyle::set_StrikethroughDeleted method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.outputgenerator/outputtextstyle/set_strikethroug
 Get or set text-decoration: line-through style for the delete operation. Default value is **False**.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::set_StrikethroughDeleted(bool value)
+void Aspose::Pdf::Comparison::OutputGenerator::OutputTextStyle::set_StrikethroughDeleted(bool value)
 ```
 
 ## See Also

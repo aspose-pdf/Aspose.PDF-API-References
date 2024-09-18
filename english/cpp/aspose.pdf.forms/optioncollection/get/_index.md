@@ -4,7 +4,7 @@ linktitle: get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::OptionCollection::get method. Gets option by index in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf.forms/optioncollection/get/
 ---
 ## OptionCollection::get(int32_t) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/get/
 Gets option by index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::get(int32_t index)
+System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::get(int32_t index)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollec
 ### ReturnValue
 
 Retreived option.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_forms_1_1_option" kindref="compound">Option</ref> index. Index should be in range [1..n] where n is options count.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Option](../../option/)
@@ -50,7 +37,7 @@ Retreived option.
 Gets option from colleciton by option name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::get(System::String name)
+System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::get(System::String name)
 ```
 
 
@@ -61,20 +48,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollec
 ### ReturnValue
 
 Retreived option.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_forms_1_1_option" kindref="compound">Option</ref> name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Option](../../option/)

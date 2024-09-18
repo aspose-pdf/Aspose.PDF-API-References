@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionoptions/get_scalefactor/
 Gets factor that will be applied to scale font size during extraction in pure mode. Setting of less value leads to more spaces in the extracted text. Default value is 1 - no scaling; Setting value to zero allows algorithm choose scaling automatically.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextExtractionOptions::get_ScaleFactor() const
+double Aspose::Pdf::Text::TextExtractionOptions::get_ScaleFactor() const
 ```
 
 ## See Also

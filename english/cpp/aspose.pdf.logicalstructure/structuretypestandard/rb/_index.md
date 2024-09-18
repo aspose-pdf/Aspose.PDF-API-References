@@ -4,7 +4,7 @@ linktitle: RB
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::RB field. (Ruby base text) The full-size text to which the ruby annotation is applied. RB may contain text, other inline elements, or a mixture of both. It may have the RubyAlignattribute in C++.'
 type: docs
-weight: 4500
+weight: 3500
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/rb/
 ---
 ## RB field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/rb/
 (Ruby base text) The full-size text to which the ruby annotation is applied. RB may contain text, other inline elements, or a mixture of both. It may have the RubyAlignattribute.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::RB
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::RB
 ```
 
 ## See Also

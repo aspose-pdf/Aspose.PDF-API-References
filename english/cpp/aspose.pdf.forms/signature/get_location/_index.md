@@ -4,7 +4,7 @@ linktitle: get_Location
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_Location method. The CPU host name or physical location of the signing in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.forms/signature/get_location/
 ---
 ## Signature::get_Location method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/get_location/
 The CPU host name or physical location of the signing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::Signature::get_Location() const
+System::String Aspose::Pdf::Forms::Signature::get_Location() const
 ```
 
 ## See Also

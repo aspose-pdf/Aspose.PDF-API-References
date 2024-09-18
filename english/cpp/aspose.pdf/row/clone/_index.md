@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Row::Clone method. Clone the row in C++.'
 type: docs
-weight: 2400
+weight: 200
 url: /cpp/aspose.pdf/row/clone/
 ---
 ## Row::Clone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/clone/
 Clone the row.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Row::Clone() override
+System::SharedPtr<System::Object> Aspose::Pdf::Row::Clone() override
 ```
 
 

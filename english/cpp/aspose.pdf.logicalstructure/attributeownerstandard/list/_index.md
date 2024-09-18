@@ -4,7 +4,7 @@ linktitle: List
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::List method. List attribute owner in C++.'
 type: docs
-weight: 400
+weight: 800
 url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
 ## AttributeOwnerStandard::List method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/list/
 List attribute owner.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::List()
+static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::List()
 ```
 
 ## See Also

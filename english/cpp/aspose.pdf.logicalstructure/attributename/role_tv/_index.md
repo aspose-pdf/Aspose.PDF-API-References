@@ -4,7 +4,7 @@ linktitle: Role_tv
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Role_tv field. Attribute Role: tv - Text-value field in C++.'
 type: docs
-weight: 6400
+weight: 4600
 url: /cpp/aspose.pdf.logicalstructure/attributename/role_tv/
 ---
 ## Role_tv field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/role_tv/
 Attribute Role: tv - Text-value field.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Role_tv
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Role_tv
 ```
 
 ## See Also

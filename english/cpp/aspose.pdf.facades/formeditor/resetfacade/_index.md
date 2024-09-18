@@ -4,7 +4,7 @@ linktitle: ResetFacade
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::ResetFacade method. Reset all visual attribtues to empty value in C++.'
 type: docs
-weight: 4400
+weight: 3100
 url: /cpp/aspose.pdf.facades/formeditor/resetfacade/
 ---
 ## FormEditor::ResetFacade method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/resetfacade/
 Reset all visual attribtues to empty value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormEditor::ResetFacade()
+void Aspose::Pdf::Facades::FormEditor::ResetFacade()
 ```
 
 ## See Also

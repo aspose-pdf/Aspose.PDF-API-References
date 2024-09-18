@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/markupparagraph/get_text/
 Gets the paragraph text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::MarkupParagraph::get_Text()
+System::String Aspose::Pdf::Text::MarkupParagraph::get_Text()
 ```
 
 ## See Also

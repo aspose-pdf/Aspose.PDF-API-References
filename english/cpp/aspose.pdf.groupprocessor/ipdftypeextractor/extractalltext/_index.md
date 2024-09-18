@@ -4,7 +4,7 @@ linktitle: ExtractAllText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GroupProcessor::IPdfTypeExtractor::ExtractAllText method. Returns collection of extracted text values in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.groupprocessor/ipdftypeextractor/extractalltext/
 ---
 ## IPdfTypeExtractor::ExtractAllText method

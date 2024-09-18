@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/to_string/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpValue::to_String(System::SharedPtr<XmpValue> value)
+static System::String Aspose::Pdf::XmpValue::to_String(System::SharedPtr<XmpValue> value)
 ```
 
 ## See Also

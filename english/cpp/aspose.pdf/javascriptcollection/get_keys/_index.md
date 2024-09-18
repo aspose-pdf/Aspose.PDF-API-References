@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/javascriptcollection/get_keys/
 List of keys in JavaScript collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::JavaScriptCollection::get_Keys()
+System::SharedPtr<System::Collections::Generic::IList<System::String>> Aspose::Pdf::JavaScriptCollection::get_Keys()
 ```
 
 ## See Also

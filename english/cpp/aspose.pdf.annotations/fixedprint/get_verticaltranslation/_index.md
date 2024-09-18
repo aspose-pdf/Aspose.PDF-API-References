@@ -4,7 +4,7 @@ linktitle: get_VerticalTranslation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FixedPrint::get_VerticalTranslation method. Gets vertical translation in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.annotations/fixedprint/get_verticaltranslation/
 ---
 ## FixedPrint::get_VerticalTranslation method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fixedprint/get_verticaltranslation/
 Gets vertical translation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::FixedPrint::get_VerticalTranslation() const
+double Aspose::Pdf::Annotations::FixedPrint::get_VerticalTranslation() const
 ```
 
 ## See Also

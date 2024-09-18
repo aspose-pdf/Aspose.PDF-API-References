@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcharwidthboundingbox/get_urx/
 Upper-right horizontal coordinate of bounding rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Urx() const
+double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Urx() const
 ```
 
 ## See Also

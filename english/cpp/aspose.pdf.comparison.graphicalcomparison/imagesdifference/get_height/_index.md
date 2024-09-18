@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.graphicalcomparison/imagesdifference/get_height/
 The height of difference.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::get_Height() const
+int32_t Aspose::Pdf::Comparison::GraphicalComparison::ImagesDifference::get_Height() const
 ```
 
 ## See Also

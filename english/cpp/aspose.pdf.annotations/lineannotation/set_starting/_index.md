@@ -4,7 +4,7 @@ linktitle: set_Starting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::set_Starting method. Sets starting point of line in C++.'
 type: docs
-weight: 200
+weight: 2900
 url: /cpp/aspose.pdf.annotations/lineannotation/set_starting/
 ---
 ## LineAnnotation::set_Starting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_starting/
 Sets starting point of line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LineAnnotation::set_Starting(System::SharedPtr<Point> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_Starting(System::SharedPtr<Point> value)
 ```
 
 ## See Also

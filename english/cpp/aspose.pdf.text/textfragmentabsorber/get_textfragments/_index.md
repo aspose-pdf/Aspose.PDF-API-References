@@ -4,7 +4,7 @@ linktitle: get_TextFragments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentAbsorber::get_TextFragments method. Gets collection of search occurrences that are presented with TextFragment objects in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.pdf.text/textfragmentabsorber/get_textfragments/
 ---
 ## TextFragmentAbsorber::get_TextFragments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/get_textfragments/
 Gets collection of search occurrences that are presented with [TextFragment](../../textfragment/) objects.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextFragmentCollection> Aspose::Pdf::Text::TextFragmentAbsorber::get_TextFragments()
+System::SharedPtr<TextFragmentCollection> Aspose::Pdf::Text::TextFragmentAbsorber::get_TextFragments()
 ```
 
 ## See Also

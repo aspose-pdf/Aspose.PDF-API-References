@@ -4,7 +4,7 @@ linktitle: ToArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToArray method. Returns array in C++.'
 type: docs
-weight: 1600
+weight: 1200
 url: /cpp/aspose.pdf/xmpvalue/toarray/
 ---
 ## XmpValue::ToArray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/toarray/
 Returns array.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::ToArray()
+System::ArrayPtr<System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::ToArray()
 ```
 
 

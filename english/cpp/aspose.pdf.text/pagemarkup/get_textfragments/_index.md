@@ -4,7 +4,7 @@ linktitle: get_TextFragments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::PageMarkup::get_TextFragments method. Gets collection of TextFragment that was found on the page in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf.text/pagemarkup/get_textfragments/
 ---
 ## PageMarkup::get_TextFragments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/pagemarkup/get_textfragments/
 Gets collection of [TextFragment](../../textfragment/) that was found on the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextFragment>>> Aspose::Pdf::Text::PageMarkup::get_TextFragments() const
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<TextFragment>>> Aspose::Pdf::Text::PageMarkup::get_TextFragments() const
 ```
 
 ## Remarks

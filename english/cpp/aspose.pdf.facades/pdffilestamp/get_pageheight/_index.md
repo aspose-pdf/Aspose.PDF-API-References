@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_pageheight/
 Gets height of first page in souorce file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Facades::PdfFileStamp::get_PageHeight()
+float Aspose::Pdf::Facades::PdfFileStamp::get_PageHeight()
 ```
 
 ## See Also

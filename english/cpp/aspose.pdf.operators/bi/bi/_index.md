@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bi/bi/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::BI::BI()
+Aspose::Pdf::Operators::BI::BI()
 ```
 
 ## See Also

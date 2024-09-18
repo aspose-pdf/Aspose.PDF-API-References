@@ -4,7 +4,7 @@ linktitle: get_RadioGap
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::get_RadioGap method. The member to record the gap between two neighboring radio buttons in pixels,default is 50 in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/aspose.pdf.facades/formeditor/get_radiogap/
 ---
 ## FormEditor::get_RadioGap method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/get_radiogap/
 The member to record the gap between two neighboring radio buttons in pixels,default is 50.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Facades::FormEditor::get_RadioGap()
+float Aspose::Pdf::Facades::FormEditor::get_RadioGap()
 ```
 
 ## See Also

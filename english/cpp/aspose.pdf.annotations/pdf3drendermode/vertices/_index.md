@@ -4,7 +4,7 @@ linktitle: Vertices
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::Vertices field. The "Vertices" render mode in C++.'
 type: docs
-weight: 2000
+weight: 2300
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/vertices/
 ---
 ## Vertices field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/vertices/
 The "Vertices" render mode.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::Vertices
+static System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::Vertices
 ```
 
 ## See Also

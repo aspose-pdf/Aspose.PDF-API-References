@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/mcrelement/get_mcid/
 Gets MCID of marked-content reference object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::LogicalStructure::MCRElement::get_MCID()
+int32_t Aspose::Pdf::LogicalStructure::MCRElement::get_MCID()
 ```
 
 ## Remarks

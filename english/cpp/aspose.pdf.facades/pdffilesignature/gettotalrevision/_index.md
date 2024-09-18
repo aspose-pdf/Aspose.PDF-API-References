@@ -4,7 +4,7 @@ linktitle: GetTotalRevision
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetTotalRevision method. Gets the toltal revision in C++.'
 type: docs
-weight: 2100
+weight: 2300
 url: /cpp/aspose.pdf.facades/pdffilesignature/gettotalrevision/
 ---
 ## PdfFileSignature::GetTotalRevision method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/gettotalrevision/
 Gets the toltal revision.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfFileSignature::GetTotalRevision()
+int32_t Aspose::Pdf::Facades::PdfFileSignature::GetTotalRevision()
 ```
 
 

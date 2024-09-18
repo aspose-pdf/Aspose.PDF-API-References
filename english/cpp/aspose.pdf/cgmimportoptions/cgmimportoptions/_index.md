@@ -4,7 +4,7 @@ linktitle: CgmImportOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CgmImportOptions::CgmImportOptions constructor. Constructor in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
 ## CgmImportOptions::CgmImportOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cgmimportoptions/cgmimportoptions/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::CgmImportOptions::CgmImportOptions()
+Aspose::Pdf::CgmImportOptions::CgmImportOptions()
 ```
 
 ## See Also

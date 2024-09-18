@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xslfoloadoptions/get_xsltargumentlist/
 XsltArgumentList for inserting values into existing xls parameters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::Xsl::XsltArgumentList> Aspose::Pdf::XslFoLoadOptions::get_XsltArgumentList() const
+System::SharedPtr<System::Xml::Xsl::XsltArgumentList> Aspose::Pdf::XslFoLoadOptions::get_XsltArgumentList() const
 ```
 
 ## See Also

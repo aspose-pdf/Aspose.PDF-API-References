@@ -4,7 +4,7 @@ linktitle: HasNextPageText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::HasNextPageText method. Indicates that whether can get more texts or not in C++.'
 type: docs
-weight: 2500
+weight: 2100
 url: /cpp/aspose.pdf.facades/pdfextractor/hasnextpagetext/
 ---
 ## PdfExtractor::HasNextPageText method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/hasnextpagetext/
 Indicates that whether can get more texts or not.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfExtractor::HasNextPageText()
+bool Aspose::Pdf::Facades::PdfExtractor::HasNextPageText()
 ```
 
 

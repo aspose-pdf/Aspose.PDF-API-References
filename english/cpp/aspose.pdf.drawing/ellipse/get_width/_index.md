@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/ellipse/get_width/
 Gets a float value that indicates the width of the ellipse.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::Ellipse::get_Width() const
+double Aspose::Pdf::Drawing::Ellipse::get_Width() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_CommitImmediately
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ChoiceField::get_CommitImmediately method. Gets commit on selection change flag in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.forms/choicefield/get_commitimmediately/
 ---
 ## ChoiceField::get_CommitImmediately method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/choicefield/get_commitimmediately/
 Gets commit on selection change flag.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::ChoiceField::get_CommitImmediately()
+bool Aspose::Pdf::Forms::ChoiceField::get_CommitImmediately()
 ```
 
 ## See Also

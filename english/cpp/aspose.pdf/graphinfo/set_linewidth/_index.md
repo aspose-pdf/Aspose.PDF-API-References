@@ -4,7 +4,7 @@ linktitle: set_LineWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::set_LineWidth method. Sets a float value that indicates the line width of the graph in C++.'
 type: docs
-weight: 200
+weight: 1900
 url: /cpp/aspose.pdf/graphinfo/set_linewidth/
 ---
 ## GraphInfo::set_LineWidth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_linewidth/
 Sets a float value that indicates the line width of the graph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::GraphInfo::set_LineWidth(float value)
+void Aspose::Pdf::GraphInfo::set_LineWidth(float value)
 ```
 
 ## See Also

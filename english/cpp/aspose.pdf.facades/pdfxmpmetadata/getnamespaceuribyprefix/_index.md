@@ -4,7 +4,7 @@ linktitle: GetNamespaceURIByPrefix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::GetNamespaceURIByPrefix method. Gets namespace URI by prefix in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix/
 ---
 ## PdfXmpMetadata::GetNamespaceURIByPrefix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix/
 Gets namespace URI by prefix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfXmpMetadata::GetNamespaceURIByPrefix(System::String prefix)
+System::String Aspose::Pdf::Facades::PdfXmpMetadata::GetNamespaceURIByPrefix(System::String prefix)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfXmpMetadata::GetNa
 ### ReturnValue
 
 Namespace URI.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>prefix</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The prefix.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfXmpMetadata](../)

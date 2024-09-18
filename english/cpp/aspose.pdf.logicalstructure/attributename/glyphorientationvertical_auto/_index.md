@@ -4,7 +4,7 @@ linktitle: GlyphOrientationVertical_Auto
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::GlyphOrientationVertical_Auto field. Attribute GlyphOrientationVertical: Auto - Specifies a default orientation for text, depending on whether it is fullwidth (as wide as it is high) in C++.'
 type: docs
-weight: 5100
+weight: 2200
 url: /cpp/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/
 ---
 ## GlyphOrientationVertical_Auto field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_aut
 Attribute GlyphOrientationVertical: Auto - Specifies a default orientation for text, depending on whether it is fullwidth (as wide as it is high).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::GlyphOrientationVertical_Auto
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::GlyphOrientationVertical_Auto
 ```
 
 ## See Also

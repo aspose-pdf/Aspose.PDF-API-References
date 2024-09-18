@@ -4,7 +4,7 @@ linktitle: get_PdfPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfPageStamp::get_PdfPage method. Gets page which will be used as stamp in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/pdfpagestamp/get_pdfpage/
 ---
 ## PdfPageStamp::get_PdfPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfpagestamp/get_pdfpage/
 Gets page which will be used as stamp.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Page> Aspose::Pdf::PdfPageStamp::get_PdfPage() const
+System::SharedPtr<Page> Aspose::Pdf::PdfPageStamp::get_PdfPage() const
 ```
 
 ## See Also

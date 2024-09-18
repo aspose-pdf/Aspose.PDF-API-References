@@ -4,7 +4,7 @@ linktitle: get_PapayaWhip
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_PapayaWhip method. Gets a system-defined color that has an ARGB value of #FFFFEFD5 in C++.'
 type: docs
-weight: 11700
+weight: 12000
 url: /cpp/aspose.pdf/color/get_papayawhip/
 ---
 ## Color::get_PapayaWhip method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_papayawhip/
 Gets a system-defined color that has an ARGB value of **#FFFFEFD5**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_PapayaWhip()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_PapayaWhip()
 ```
 
 

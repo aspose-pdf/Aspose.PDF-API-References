@@ -4,7 +4,7 @@ linktitle: get_HorizontalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Stamp::get_HorizontalAlignment method. Gets Horizontal alignment of stamp on the page in C++.'
 type: docs
-weight: 1500
+weight: 500
 url: /cpp/aspose.pdf/stamp/get_horizontalalignment/
 ---
 ## Stamp::get_HorizontalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/stamp/get_horizontalalignment/
 Gets Horizontal alignment of stamp on the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Stamp::get_HorizontalAlignment() const
+Aspose::Pdf::HorizontalAlignment Aspose::Pdf::Stamp::get_HorizontalAlignment() const
 ```
 
 ## See Also

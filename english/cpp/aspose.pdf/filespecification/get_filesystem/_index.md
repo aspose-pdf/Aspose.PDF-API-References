@@ -4,7 +4,7 @@ linktitle: get_FileSystem
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::get_FileSystem method. Gets name of the file system in C++.'
 type: docs
-weight: 2200
+weight: 900
 url: /cpp/aspose.pdf/filespecification/get_filesystem/
 ---
 ## FileSpecification::get_FileSystem method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/get_filesystem/
 Gets name of the file system.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::FileSpecification::get_FileSystem()
+System::String Aspose::Pdf::FileSpecification::get_FileSystem()
 ```
 
 ## See Also

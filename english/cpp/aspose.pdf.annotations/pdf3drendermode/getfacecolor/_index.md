@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 Gets the color of the face.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Annotations::PDF3DRenderMode::GetFaceColor()
+System::SharedPtr<System::Object> Aspose::Pdf::Annotations::PDF3DRenderMode::GetFaceColor()
 ```
 
 

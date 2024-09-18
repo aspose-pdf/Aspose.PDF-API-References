@@ -4,7 +4,7 @@ linktitle: set_CalculatedFields
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::set_CalculatedFields method. Allows to set order of field calculation in C++.'
 type: docs
-weight: 2000
+weight: 3000
 url: /cpp/aspose.pdf.forms/form/set_calculatedfields/
 ---
 ## Form::set_CalculatedFields method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/set_calculatedfields/
 Allows to set order of field calculation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Form::set_CalculatedFields(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<Field>>> value)
+void Aspose::Pdf::Forms::Form::set_CalculatedFields(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<Field>>> value)
 ```
 
 ## See Also

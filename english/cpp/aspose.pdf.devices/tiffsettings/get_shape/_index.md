@@ -4,7 +4,7 @@ linktitle: get_Shape
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::get_Shape method. Gets the type of the shape in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pdf.devices/tiffsettings/get_shape/
 ---
 ## TiffSettings::get_Shape method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/get_shape/
 Gets the type of the shape.
 
 ```cpp
-ASPOSE_PDF_SHARED_API ShapeType Aspose::Pdf::Devices::TiffSettings::get_Shape() const
+ShapeType Aspose::Pdf::Devices::TiffSettings::get_Shape() const
 ```
 
 ## Remarks

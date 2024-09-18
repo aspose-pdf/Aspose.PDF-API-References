@@ -4,7 +4,7 @@ linktitle: get_PageInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_PageInfo method. Gets the page info (for generator only, not filled in when reading document) in C++.'
 type: docs
-weight: 1500
+weight: 3300
 url: /cpp/aspose.pdf/page/get_pageinfo/
 ---
 ## Page::get_PageInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_pageinfo/
 Gets the page info (for generator only, not filled in when reading document).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::PageInfo> Aspose::Pdf::Page::get_PageInfo()
+System::SharedPtr<Aspose::Pdf::PageInfo> Aspose::Pdf::Page::get_PageInfo()
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri/
 Default property namespace uri.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultPropertyNamespaceUri
+static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultPropertyNamespaceUri
 ```
 
 

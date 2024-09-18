@@ -4,7 +4,7 @@ linktitle: get_Height
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::get_Height method. Gets a float value that indicates the graph height. The unit is point in C++.'
 type: docs
-weight: 1700
+weight: 500
 url: /cpp/aspose.pdf.drawing/graph/get_height/
 ---
 ## Graph::get_Height method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/get_height/
 Gets a float value that indicates the graph height. The unit is point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::Graph::get_Height() const
+double Aspose::Pdf::Drawing::Graph::get_Height() const
 ```
 
 ## See Also

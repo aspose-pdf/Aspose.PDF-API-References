@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/trygetvalue/
 Tries to find key in the dictionary and retreives value if found.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Metadata::TryGetValue(const System::String &key, System::SharedPtr<XmpValue> &value) const override
+bool Aspose::Pdf::Metadata::TryGetValue(const System::String &key, System::SharedPtr<XmpValue> &value) const override
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Metadata::TryGetValue(const System::Stri
 ### ReturnValue
 
 true if key was found.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Key to search in the dictionary.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Retreived value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpValue](../../xmpvalue/)

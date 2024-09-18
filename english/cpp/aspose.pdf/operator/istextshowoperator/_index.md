@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/operator/istextshowoperator/
 Determines if the operator is operator which responsible for text output (Tj, TJ, etc)
 
 ```cpp
-static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Operator::IsTextShowOperator(System::SharedPtr<Operator> op)
+static bool Aspose::Pdf::Operator::IsTextShowOperator(System::SharedPtr<Operator> op)
 ```
 
 
@@ -24,20 +24,7 @@ static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Operator::IsTextShowOperator(Syst
 ### ReturnValue
 
 True if this is text output operator
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>op</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_operator" kindref="compound">Operator</ref> object</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Operator](../)

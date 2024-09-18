@@ -4,7 +4,7 @@ linktitle: set_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::set_Title method. Sets a string value that indicates the title of the image in C++.'
 type: docs
-weight: 2100
+weight: 2300
 url: /cpp/aspose.pdf/image/set_title/
 ---
 ## Image::set_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_title/
 Sets a string value that indicates the title of the image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Image::set_Title(System::SharedPtr<Text::TextFragment> value)
+void Aspose::Pdf::Image::set_Title(System::SharedPtr<Text::TextFragment> value)
 ```
 
 ## See Also

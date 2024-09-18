@@ -4,7 +4,7 @@ linktitle: get_RenderMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::get_RenderMode method. Gets the render mode of view in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.pdf.annotations/pdf3dview/get_rendermode/
 ---
 ## PDF3DView::get_RenderMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/get_rendermode/
 Gets the render mode of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DView::get_RenderMode() const
+System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DView::get_RenderMode() const
 ```
 
 ## Remarks

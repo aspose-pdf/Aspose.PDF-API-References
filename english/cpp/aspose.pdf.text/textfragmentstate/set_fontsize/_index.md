@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/set_fontsize/
 Sets font size of the text, represented by the [TextFragment](../../textfragment/) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragmentState::set_FontSize(float value) override
+void Aspose::Pdf::Text::TextFragmentState::set_FontSize(float value) override
 ```
 
 ## See Also

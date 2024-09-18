@@ -4,7 +4,7 @@ linktitle: CreateTOCIElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateTOCIElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 1300
+weight: 3300
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createtocielement/
 ---
 ## ITaggedContent::CreateTOCIElement method

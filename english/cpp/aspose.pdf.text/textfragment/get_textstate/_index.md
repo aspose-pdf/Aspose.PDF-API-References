@@ -4,7 +4,7 @@ linktitle: get_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_TextState method. Gets text state for the text that TextFragment object represents in C++.'
 type: docs
-weight: 900
+weight: 1500
 url: /cpp/aspose.pdf.text/textfragment/get_textstate/
 ---
 ## TextFragment::get_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_textstate/
 Gets text state for the text that [TextFragment](../) object represents.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextFragmentState> Aspose::Pdf::Text::TextFragment::get_TextState()
+System::SharedPtr<TextFragmentState> Aspose::Pdf::Text::TextFragment::get_TextState()
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: MoveField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::MoveField method. Set new position of field in C++.'
 type: docs
-weight: 4100
+weight: 2700
 url: /cpp/aspose.pdf.facades/formeditor/movefield/
 ---
 ## FormEditor::MoveField method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/movefield/
 Set new position of field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::MoveField(System::String fieldName, float llx, float lly, float urx, float ury)
+bool Aspose::Pdf::Facades::FormEditor::MoveField(System::String fieldName, float llx, float lly, float urx, float ury)
 ```
 
 
@@ -28,51 +28,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::FormEditor::MoveField(System::S
 ### ReturnValue
 
 true if field position was changed successfully.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of field which must be moved.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>llx</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Abscissa of the lower-left corner of the field.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lly</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Ordinate of the lower-left coerner of the field.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>urx</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Abscissa of the upper-right corner of the field.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>ury</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Ordinate of the upper-right corner of the field.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FormEditor](../)

@@ -4,7 +4,7 @@ linktitle: set_UniqueSuffix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::set_UniqueSuffix method. Format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain NUM% substring which will be replaced with numbers. For example if UniqueSuffix = "ABC%NUM%" then for field "fieldName" names will be: fieldNameABC1, fieldNameABC2, fieldNameABC3 etc in C++.'
 type: docs
-weight: 2700
+weight: 5600
 url: /cpp/aspose.pdf.facades/pdffileeditor/set_uniquesuffix/
 ---
 ## PdfFileEditor::set_UniqueSuffix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/set_uniquesuffix/
 Format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain NUM% substring which will be replaced with numbers. For example if UniqueSuffix = "ABC%NUM%" then for field "fieldName" names will be: fieldNameABC1, fieldNameABC2, fieldNameABC3 etc.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::set_UniqueSuffix(System::String value)
+void Aspose::Pdf::Facades::PdfFileEditor::set_UniqueSuffix(System::String value)
 ```
 
 ## See Also

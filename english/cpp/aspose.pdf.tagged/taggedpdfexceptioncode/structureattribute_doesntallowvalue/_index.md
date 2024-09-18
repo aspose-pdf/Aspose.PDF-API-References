@@ -4,7 +4,7 @@ linktitle: StructureAttribute_DoesntAllowValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use StructureAttribute_DoesntAllowValue field of Aspose::Pdf::Tagged::TaggedPdfExceptionCode class in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf.tagged/taggedpdfexceptioncode/structureattribute_doesntallowvalue/
 ---
 ## StructureAttribute_DoesntAllowValue field

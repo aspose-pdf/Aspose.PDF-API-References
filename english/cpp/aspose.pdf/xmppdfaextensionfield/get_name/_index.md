@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionField::get_Name method. Field name. Field names must be valid XML element names in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/xmppdfaextensionfield/get_name/
 ---
 ## XmpPdfAExtensionField::get_Name method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionfield/get_name/
 Field name. Field names must be valid XML element names.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionField::get_Name() const
+System::String Aspose::Pdf::XmpPdfAExtensionField::get_Name() const
 ```
 
 ## See Also

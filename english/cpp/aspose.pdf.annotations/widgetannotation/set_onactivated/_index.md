@@ -4,7 +4,7 @@ linktitle: set_OnActivated
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WidgetAnnotation::set_OnActivated method. An action which shall be performed when the annotation is activated in C++.'
 type: docs
-weight: 200
+weight: 1600
 url: /cpp/aspose.pdf.annotations/widgetannotation/set_onactivated/
 ---
 ## WidgetAnnotation::set_OnActivated method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_onactivated/
 An action which shall be performed when the annotation is activated.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::WidgetAnnotation::set_OnActivated(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_OnActivated(System::SharedPtr<PdfAction> value)
 ```
 
 ## See Also

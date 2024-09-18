@@ -4,7 +4,7 @@ linktitle: get_OptimizeTextBoxes
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PptxSaveOptions::get_OptimizeTextBoxes method. Toggles text columns recognition in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf/pptxsaveoptions/get_optimizetextboxes/
 ---
 ## PptxSaveOptions::get_OptimizeTextBoxes method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pptxsaveoptions/get_optimizetextboxes/
 Toggles text columns recognition.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PptxSaveOptions::get_OptimizeTextBoxes() const
+bool Aspose::Pdf::PptxSaveOptions::get_OptimizeTextBoxes() const
 ```
 
 ## See Also

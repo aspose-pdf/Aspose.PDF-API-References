@@ -4,7 +4,7 @@ linktitle: CreateBlockQuoteElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateBlockQuoteElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 1000
+weight: 400
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/
 ---
 ## ITaggedContent::CreateBlockQuoteElement method

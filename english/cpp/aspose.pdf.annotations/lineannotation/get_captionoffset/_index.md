@@ -4,7 +4,7 @@ linktitle: get_CaptionOffset
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_CaptionOffset method. Gets caption text offset from its normal position in C++.'
 type: docs
-weight: 1900
+weight: 500
 url: /cpp/aspose.pdf.annotations/lineannotation/get_captionoffset/
 ---
 ## LineAnnotation::get_CaptionOffset method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_captionoffset/
 Gets caption text offset from its normal position.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Annotations::LineAnnotation::get_CaptionOffset()
+System::SharedPtr<Point> Aspose::Pdf::Annotations::LineAnnotation::get_CaptionOffset()
 ```
 
 ## See Also

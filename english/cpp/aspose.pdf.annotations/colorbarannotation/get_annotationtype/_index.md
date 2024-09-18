@@ -4,7 +4,7 @@ linktitle: get_AnnotationType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::ColorBarAnnotation::get_AnnotationType method. Gets type of annotation in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.annotations/colorbarannotation/get_annotationtype/
 ---
 ## ColorBarAnnotation::get_AnnotationType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/colorbarannotation/get_annotationtype/
 Gets type of annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::ColorBarAnnotation::get_AnnotationType() override
+Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::ColorBarAnnotation::get_AnnotationType() override
 ```
 
 ## See Also

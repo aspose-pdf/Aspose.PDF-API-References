@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/get_rows/
 Gets the rows of the table.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rows> Aspose::Pdf::Table::get_Rows() const
+System::SharedPtr<Aspose::Pdf::Rows> Aspose::Pdf::Table::get_Rows() const
 ```
 
 ## See Also

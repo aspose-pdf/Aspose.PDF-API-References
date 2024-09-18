@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElementCollection::Remove method. Deletes the GraphicElement element in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.vector/graphicelementcollection/remove/
 ---
 ## GraphicElementCollection::Remove method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelementcollection/remove/
 Deletes the [GraphicElement](../../graphicelement/) element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Vector::GraphicElementCollection::Remove(const System::SharedPtr<GraphicElement> &item) override
+bool Aspose::Pdf::Vector::GraphicElementCollection::Remove(const System::SharedPtr<GraphicElement> &item) override
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Vector::GraphicElementCollection::Remove
 ### ReturnValue
 
 True - if element found; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_vector_1_1_graphic_element" kindref="compound">GraphicElement</ref> object that will be deleted.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [GraphicElement](../../graphicelement/)

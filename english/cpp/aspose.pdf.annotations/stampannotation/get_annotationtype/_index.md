@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/stampannotation/get_annotationtype/
 Gets type of annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::StampAnnotation::get_AnnotationType() override
+Aspose::Pdf::Annotations::AnnotationType Aspose::Pdf::Annotations::StampAnnotation::get_AnnotationType() override
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/hasnextimage/
 Checks if more images are accessible in PDF document. [Note](../../../aspose.pdf/note/): ExtractImage must be called before using of this method.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfExtractor::HasNextImage()
+bool Aspose::Pdf::Facades::PdfExtractor::HasNextImage()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_Italic
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::get_Italic method. Gets italic flag for the title text of this outline item in C++.'
 type: docs
-weight: 900
+weight: 1600
 url: /cpp/aspose.pdf/outlineitemcollection/get_italic/
 ---
 ## OutlineItemCollection::get_Italic method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/get_italic/
 Gets italic flag for the title text of this outline item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OutlineItemCollection::get_Italic()
+bool Aspose::Pdf::OutlineItemCollection::get_Italic()
 ```
 
 ## See Also

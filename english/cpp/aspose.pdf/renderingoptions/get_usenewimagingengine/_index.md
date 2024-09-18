@@ -4,7 +4,7 @@ linktitle: get_UseNewImagingEngine
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_UseNewImagingEngine method. Gets a flag determines whether new imaging engine is used or not in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/aspose.pdf/renderingoptions/get_usenewimagingengine/
 ---
 ## RenderingOptions::get_UseNewImagingEngine method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf/renderingoptions/get_usenewimagingengine/
 Gets a flag determines whether new imaging engine is used or not.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::RenderingOptions::get_UseNewImagingEngine() const
+bool Aspose::Pdf::RenderingOptions::get_UseNewImagingEngine() const
 ```
 
-## Remarks
 
+## Deprecated
+UseNewImagingEngine is deprecated 
 
-<xrefsect id="deprecated_1_deprecated000136">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>UseNewImagingEngine is deprecated </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [RenderingOptions](../)

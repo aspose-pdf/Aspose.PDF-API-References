@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/explicitdestination/tostring/
 Returns string representation of [ExplicitDestination](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::ExplicitDestination::ToString() const override=0
+System::String Aspose::Pdf::Annotations::ExplicitDestination::ToString() const override=0
 ```
 
 

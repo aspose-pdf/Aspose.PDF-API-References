@@ -4,7 +4,7 @@ linktitle: set_ScaleImagesToFitPageWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::set_ScaleImagesToFitPageWidth method. Sets a values used to scale all images on the page to fit page''s width in C++.'
 type: docs
-weight: 1800
+weight: 2500
 url: /cpp/aspose.pdf/renderingoptions/set_scaleimagestofitpagewidth/
 ---
 ## RenderingOptions::set_ScaleImagesToFitPageWidth method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf/renderingoptions/set_scaleimagestofitpagewidth/
 Sets a values used to scale all images on the page to fit page's width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::RenderingOptions::set_ScaleImagesToFitPageWidth(bool value)
+void Aspose::Pdf::RenderingOptions::set_ScaleImagesToFitPageWidth(bool value)
 ```
 
-## Remarks
 
+## Deprecated
+ScaleImagesToFitPageWidth is deprecated. 
 
-<xrefsect id="deprecated_1_deprecated000139">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>ScaleImagesToFitPageWidth is deprecated. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [RenderingOptions](../)

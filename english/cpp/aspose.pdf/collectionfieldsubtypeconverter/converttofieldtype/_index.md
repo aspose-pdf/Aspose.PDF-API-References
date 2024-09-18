@@ -24,19 +24,7 @@ static FieldValueType Aspose::Pdf::CollectionFieldSubtypeConverter::ConvertToFie
 ### ReturnValue
 
 The FieldValueType value corresponding to the given subtype.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>subtype</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The CollectionFieldSubtype value to convert.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [FieldValueType](../../fieldvaluetype/)

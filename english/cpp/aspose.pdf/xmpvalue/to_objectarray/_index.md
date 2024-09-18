@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/to_objectarray/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<System::Object>> Aspose::Pdf::XmpValue::to_ObjectArray(System::SharedPtr<XmpValue> value)
+static System::ArrayPtr<System::SharedPtr<System::Object>> Aspose::Pdf::XmpValue::to_ObjectArray(System::SharedPtr<XmpValue> value)
 ```
 
 ## See Also

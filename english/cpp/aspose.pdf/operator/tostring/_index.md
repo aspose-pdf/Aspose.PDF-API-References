@@ -4,7 +4,7 @@ linktitle: ToString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operator::ToString method. Returns text of operator and its parameters in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.pdf/operator/tostring/
 ---
 ## Operator::ToString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/operator/tostring/
 Returns text of operator and its parameters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operator::ToString() const override
+System::String Aspose::Pdf::Operator::ToString() const override
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_Forms
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Resources::get_Forms method. Gets Forms forms collection in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf/resources/get_forms/
 ---
 ## Resources::get_Forms method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/resources/get_forms/
 Gets [Forms](../../../aspose.pdf.forms/) forms collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XFormCollection> Aspose::Pdf::Resources::get_Forms()
+System::SharedPtr<XFormCollection> Aspose::Pdf::Resources::get_Forms()
 ```
 
 ## See Also

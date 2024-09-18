@@ -4,7 +4,7 @@ linktitle: get_InterpolationHighQuality
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::RenderingOptions::get_InterpolationHighQuality method. Gets hiqh quality mode for interpolation in C++.'
 type: docs
-weight: 1900
+weight: 700
 url: /cpp/aspose.pdf/renderingoptions/get_interpolationhighquality/
 ---
 ## RenderingOptions::get_InterpolationHighQuality method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/renderingoptions/get_interpolationhighquality/
 Gets hiqh quality mode for interpolation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::RenderingOptions::get_InterpolationHighQuality() const
+bool Aspose::Pdf::RenderingOptions::get_InterpolationHighQuality() const
 ```
 
 ## See Also

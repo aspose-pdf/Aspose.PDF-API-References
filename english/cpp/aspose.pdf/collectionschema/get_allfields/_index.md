@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collectionschema/get_allfields/
 Gets all schema's fields.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<CollectionField>>> Aspose::Pdf::CollectionSchema::get_AllFields()
+System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<CollectionField>>> Aspose::Pdf::CollectionSchema::get_AllFields()
 ```
 
 ## See Also

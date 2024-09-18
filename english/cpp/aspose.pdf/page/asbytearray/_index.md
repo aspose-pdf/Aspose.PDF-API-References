@@ -4,7 +4,7 @@ linktitle: AsByteArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::AsByteArray method. Converts current page as bitmap and than returns array of bytes in C++.'
 type: docs
-weight: 7300
+weight: 500
 url: /cpp/aspose.pdf/page/asbytearray/
 ---
 ## Page::AsByteArray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/asbytearray/
 Converts current page as bitmap and than returns array of bytes.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<uint8_t> Aspose::Pdf::Page::AsByteArray(System::SharedPtr<Devices::Resolution> resolution)
+System::ArrayPtr<uint8_t> Aspose::Pdf::Page::AsByteArray(System::SharedPtr<Devices::Resolution> resolution)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::ArrayPtr<uint8_t> Aspose::Pdf::Page::AsByteArray(S
 ### ReturnValue
 
 Converted array of image bytes.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>resolution</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The resolution.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Resolution](../../../aspose.pdf.devices/resolution/)

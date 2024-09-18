@@ -4,7 +4,7 @@ linktitle: get_Rotate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::get_Rotate method. Angle of annotation rotation in C++.'
 type: docs
-weight: 1600
+weight: 1100
 url: /cpp/aspose.pdf.annotations/freetextannotation/get_rotate/
 ---
 ## FreeTextAnnotation::get_Rotate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/get_rotate/
 Angle of annotation rotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Rotation Aspose::Pdf::Annotations::FreeTextAnnotation::get_Rotate()
+Rotation Aspose::Pdf::Annotations::FreeTextAnnotation::get_Rotate()
 ```
 
 ## See Also

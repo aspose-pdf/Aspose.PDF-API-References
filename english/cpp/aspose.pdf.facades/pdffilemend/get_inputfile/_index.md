@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilemend/get_inputfile/
 Sets the input file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileMend::get_InputFile() const
+System::String Aspose::Pdf::Facades::PdfFileMend::get_InputFile() const
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputFile) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000061">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputFile) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileMend](../)

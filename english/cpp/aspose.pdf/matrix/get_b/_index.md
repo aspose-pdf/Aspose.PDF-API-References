@@ -4,7 +4,7 @@ linktitle: get_B
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::get_B method. B member of the transformation matrix in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf/matrix/get_b/
 ---
 ## Matrix::get_B method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/get_b/
 B member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix::get_B()
+double Aspose::Pdf::Matrix::get_B()
 ```
 
 ## See Also

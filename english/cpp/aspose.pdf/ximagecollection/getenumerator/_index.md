@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XImageCollection::GetEnumerator method. Returns collection enumerator in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/aspose.pdf/ximagecollection/getenumerator/
 ---
 ## XImageCollection::GetEnumerator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximagecollection/getenumerator/
 Returns collection enumerator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Pdf::XImage>>> Aspose::Pdf::XImageCollection::GetEnumerator() override
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<Aspose::Pdf::XImage>>> Aspose::Pdf::XImageCollection::GetEnumerator() override
 ```
 
 

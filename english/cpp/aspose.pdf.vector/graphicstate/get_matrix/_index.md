@@ -4,7 +4,7 @@ linktitle: get_Matrix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicState::get_Matrix method. Gets the current transformation matrix in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.vector/graphicstate/get_matrix/
 ---
 ## GraphicState::get_Matrix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicstate/get_matrix/
 Gets the current transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::Vector::GraphicState::get_Matrix() const
+System::SharedPtr<Aspose::Pdf::Matrix> Aspose::Pdf::Vector::GraphicState::get_Matrix() const
 ```
 
 ## See Also

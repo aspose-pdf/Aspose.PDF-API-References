@@ -4,7 +4,7 @@ linktitle: set_Selected
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RadioButtonField::set_Selected method. Sets index of selected item. Numbering of items is started from 1 in C++.'
 type: docs
-weight: 400
+weight: 1100
 url: /cpp/aspose.pdf.forms/radiobuttonfield/set_selected/
 ---
 ## RadioButtonField::set_Selected method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonfield/set_selected/
 Sets index of selected item. Numbering of items is started from 1.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::RadioButtonField::set_Selected(int32_t value) override
+void Aspose::Pdf::Forms::RadioButtonField::set_Selected(int32_t value) override
 ```
 
 ## See Also

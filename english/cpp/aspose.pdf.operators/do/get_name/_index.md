@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::Do::get_Name method. Name of XObject argument of the operator in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.operators/do/get_name/
 ---
 ## Do::get_Name method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/do/get_name/
 Name of XObject argument of the operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::Do::get_Name() const
+System::String Aspose::Pdf::Operators::Do::get_Name() const
 ```
 
 ## See Also

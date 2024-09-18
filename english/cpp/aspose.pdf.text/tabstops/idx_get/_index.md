@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/tabstops/idx_get/
 Gets a [TabStop](../../tabstop/) object from the collection according to [TabStop](../../tabstop/) index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TabStop> Aspose::Pdf::Text::TabStops::idx_get(int32_t index)
+System::SharedPtr<TabStop> Aspose::Pdf::Text::TabStops::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<TabStop> Aspose::Pdf::Text::TabStops::id
 ### ReturnValue
 
 [TabStop](../../tabstop/) object.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Zero-based index of element in <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_tab_stops" kindref="compound">TabStops</ref> collection.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TabStop](../../tabstop/)

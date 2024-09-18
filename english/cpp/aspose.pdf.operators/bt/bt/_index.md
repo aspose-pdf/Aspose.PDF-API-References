@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bt/bt/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::BT::BT()
+Aspose::Pdf::Operators::BT::BT()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_Bold
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::set_Bold method. Sets bold flag for the title text of this outline item in C++.'
 type: docs
-weight: 1200
+weight: 3100
 url: /cpp/aspose.pdf/outlineitemcollection/set_bold/
 ---
 ## OutlineItemCollection::set_Bold method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/set_bold/
 Sets bold flag for the title text of this outline item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OutlineItemCollection::set_Bold(bool value)
+void Aspose::Pdf::OutlineItemCollection::set_Bold(bool value)
 ```
 
 ## See Also

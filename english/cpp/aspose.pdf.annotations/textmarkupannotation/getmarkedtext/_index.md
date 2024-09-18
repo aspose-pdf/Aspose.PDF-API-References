@@ -4,7 +4,7 @@ linktitle: GetMarkedText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedText method. Gets text under markup annotation as string in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 ---
 ## TextMarkupAnnotation::GetMarkedText method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 Gets text under markup annotation as string.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedText()
+System::String Aspose::Pdf::Annotations::TextMarkupAnnotation::GetMarkedText()
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfprimitive/tocospdfname/
 Tries cast this instance to [CosPdfName](../../cospdfname/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<CosPdfName> Aspose::Pdf::Utils::PublicData::CosPdfPrimitive::ToCosPdfName() override
+System::SharedPtr<CosPdfName> Aspose::Pdf::Utils::PublicData::CosPdfPrimitive::ToCosPdfName() override
 ```
 
 

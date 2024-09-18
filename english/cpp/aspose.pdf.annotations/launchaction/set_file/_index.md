@@ -4,7 +4,7 @@ linktitle: set_File
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LaunchAction::set_File method. Sets the application to be launched or the document to be opened or printed in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.annotations/launchaction/set_file/
 ---
 ## LaunchAction::set_File method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/launchaction/set_file/
 Sets the application to be launched or the document to be opened or printed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::LaunchAction::set_File(System::String value)
+void Aspose::Pdf::Annotations::LaunchAction::set_File(System::String value)
 ```
 
 ## See Also

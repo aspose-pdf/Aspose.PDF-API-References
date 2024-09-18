@@ -4,7 +4,7 @@ linktitle: get_OrangeRed
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_OrangeRed method. Gets a system-defined color that has an ARGB value of #FFFF4500 in C++.'
 type: docs
-weight: 11100
+weight: 11400
 url: /cpp/aspose.pdf/color/get_orangered/
 ---
 ## Color::get_OrangeRed method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_orangered/
 Gets a system-defined color that has an ARGB value of **#FFFF4500**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_OrangeRed()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_OrangeRed()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: get_HideMenubar
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_HideMenubar method. Gets flag specifying whether menu bar should be hidden when document is active in C++.'
 type: docs
-weight: 2600
+weight: 3400
 url: /cpp/aspose.pdf/document/get_hidemenubar/
 ---
 ## Document::get_HideMenubar method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_hidemenubar/
 Gets flag specifying whether menu bar should be hidden when document is active.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Document::get_HideMenubar()
+bool Aspose::Pdf::Document::get_HideMenubar()
 ```
 
 ## See Also

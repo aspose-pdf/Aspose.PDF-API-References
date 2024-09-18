@@ -4,7 +4,7 @@ linktitle: FindByName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EmbeddedFileCollection::FindByName method. Returns embedded file by its name in C++.'
 type: docs
-weight: 900
+weight: 500
 url: /cpp/aspose.pdf/embeddedfilecollection/findbyname/
 ---
 ## EmbeddedFileCollection::FindByName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/embeddedfilecollection/findbyname/
 Returns embedded file by its name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::FindByName(System::String name)
+System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::FindByName(System::String name)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::Embedded
 ### ReturnValue
 
 File specification object if found; otherwise, null.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of the file.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [FileSpecification](../../filespecification/)

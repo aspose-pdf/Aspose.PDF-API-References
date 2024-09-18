@@ -4,7 +4,7 @@ linktitle: set_Required
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WidgetAnnotation::set_Required method. Sets required status of the field in C++.'
 type: docs
-weight: 1200
+weight: 1800
 url: /cpp/aspose.pdf.annotations/widgetannotation/set_required/
 ---
 ## WidgetAnnotation::set_Required method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_required/
 Sets required status of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::WidgetAnnotation::set_Required(bool value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_Required(bool value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlines/getenumerator/
 Returns an enumerator that iterates through the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<OutlineItemCollection>>> Aspose::Pdf::Outlines::GetEnumerator() override=0
+System::SharedPtr<System::Collections::Generic::IEnumerator<System::SharedPtr<OutlineItemCollection>>> Aspose::Pdf::Outlines::GetEnumerator() override=0
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix3D::Equals method. Compares matrix against other object in C++.'
 type: docs
-weight: 2600
+weight: 300
 url: /cpp/aspose.pdf/matrix3d/equals/
 ---
 ## Matrix3D::Equals method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/equals/
 Compares matrix against other object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Matrix3D::Equals(System::SharedPtr<System::Object> obj) override
+bool Aspose::Pdf::Matrix3D::Equals(System::SharedPtr<System::Object> obj) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Matrix3D::Equals(System::SharedPtr<Syste
 ### ReturnValue
 
 Returns true is other object is [Matrix3D](../) and all matrix members are equal to corresponding members of the matrix
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>obj</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Object to compare.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Matrix3D](../)

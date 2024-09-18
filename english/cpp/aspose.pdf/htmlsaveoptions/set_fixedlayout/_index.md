@@ -4,7 +4,7 @@ linktitle: set_FixedLayout
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::set_FixedLayout method. Sets a value indicating whether that HTML is created as fixed layout in C++.'
 type: docs
-weight: 1200
+weight: 3100
 url: /cpp/aspose.pdf/htmlsaveoptions/set_fixedlayout/
 ---
 ## HtmlSaveOptions::set_FixedLayout method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/set_fixedlayout/
 Sets a value indicating whether that HTML is created as fixed layout.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlSaveOptions::set_FixedLayout(bool value)
+void Aspose::Pdf::HtmlSaveOptions::set_FixedLayout(bool value)
 ```
 
 ## Remarks

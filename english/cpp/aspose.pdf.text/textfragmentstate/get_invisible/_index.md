@@ -4,7 +4,7 @@ linktitle: get_Invisible
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_Invisible method. Gets invisibility of the text in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/aspose.pdf.text/textfragmentstate/get_invisible/
 ---
 ## TextFragmentState::get_Invisible method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_invisible/
 Gets invisibility of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Text::TextFragmentState::get_Invisible() override
+bool Aspose::Pdf::Text::TextFragmentState::get_Invisible() override
 ```
 
 ## See Also

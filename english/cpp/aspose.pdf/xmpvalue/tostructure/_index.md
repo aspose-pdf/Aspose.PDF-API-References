@@ -4,7 +4,7 @@ linktitle: ToStructure
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToStructure method. Returns XMP value as structure (set of fields) in C++.'
 type: docs
-weight: 1800
+weight: 2300
 url: /cpp/aspose.pdf/xmpvalue/tostructure/
 ---
 ## XmpValue::ToStructure method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/tostructure/
 Returns XMP value as structure (set of fields).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<XmpField>> Aspose::Pdf::XmpValue::ToStructure()
+System::ArrayPtr<System::SharedPtr<XmpField>> Aspose::Pdf::XmpValue::ToStructure()
 ```
 
 

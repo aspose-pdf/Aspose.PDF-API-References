@@ -4,7 +4,7 @@ linktitle: ReadByte
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream::ReadByte method. Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/aspose.pdf/optimizedmemorystream/readbyte/
 ---
 ## OptimizedMemoryStream::ReadByte method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/readbyte/
 Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::OptimizedMemoryStream::ReadByte() override
+int32_t Aspose::Pdf::OptimizedMemoryStream::ReadByte() override
 ```
 
 

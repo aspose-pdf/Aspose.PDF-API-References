@@ -4,7 +4,7 @@ linktitle: get_Justification
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::get_Justification method. Gets or set a code specifying the form of quadding (justification) to be used in displaying the annotation''s text in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/aspose.pdf.annotations/freetextannotation/get_justification/
 ---
 ## FreeTextAnnotation::get_Justification method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/get_justification/
 Gets or set a code specifying the form of quadding (justification) to be used in displaying the annotation's text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::Justification Aspose::Pdf::Annotations::FreeTextAnnotation::get_Justification()
+Aspose::Pdf::Annotations::Justification Aspose::Pdf::Annotations::FreeTextAnnotation::get_Justification()
 ```
 
 ## See Also

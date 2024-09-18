@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/point/tostring/
 Return string represention current point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Point::ToString() const override
+System::String Aspose::Pdf::Point::ToString() const override
 ```
 
 

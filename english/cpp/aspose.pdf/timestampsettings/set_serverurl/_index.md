@@ -4,7 +4,7 @@ linktitle: set_ServerUrl
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TimestampSettings::set_ServerUrl method. Gets/sets the timestamp server url in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pdf/timestampsettings/set_serverurl/
 ---
 ## TimestampSettings::set_ServerUrl method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/timestampsettings/set_serverurl/
 Gets/sets the timestamp server url.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TimestampSettings::set_ServerUrl(System::String value)
+void Aspose::Pdf::TimestampSettings::set_ServerUrl(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Page
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_Page method. Gets page that contains the TextFragment in C++.'
 type: docs
-weight: 1700
+weight: 900
 url: /cpp/aspose.pdf.text/textfragment/get_page/
 ---
 ## TextFragment::get_Page method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_page/
 Gets page that contains the [TextFragment](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::Text::TextFragment::get_Page() const
+System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::Text::TextFragment::get_Page() const
 ```
 
 ## Remarks

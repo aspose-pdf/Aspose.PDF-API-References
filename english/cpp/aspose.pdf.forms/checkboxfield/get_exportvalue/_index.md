@@ -4,7 +4,7 @@ linktitle: get_ExportValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::CheckboxField::get_ExportValue method. Gets export value of CheckBox field in C++.'
 type: docs
-weight: 1000
+weight: 700
 url: /cpp/aspose.pdf.forms/checkboxfield/get_exportvalue/
 ---
 ## CheckboxField::get_ExportValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/checkboxfield/get_exportvalue/
 Gets export value of CheckBox field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::CheckboxField::get_ExportValue()
+System::String Aspose::Pdf::Forms::CheckboxField::get_ExportValue()
 ```
 
 ## See Also

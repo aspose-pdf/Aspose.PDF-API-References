@@ -4,7 +4,7 @@ linktitle: set_Subscript
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::set_Subscript method. Sets subscript of the text in C++.'
 type: docs
-weight: 1800
+weight: 2500
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_subscript/
 ---
 ## StructureTextState::set_Subscript method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_subscript/
 Sets subscript of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureTextState::set_Subscript(System::Nullable<bool> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_Subscript(System::Nullable<bool> value)
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: Dash
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Dash::Dash constructor. Constructor for Dash. Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border in C++.'
 type: docs
-weight: 600
+weight: 100
 url: /cpp/aspose.pdf.annotations/dash/dash/
 ---
 ## Dash::Dash(int32_t, int32_t) constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/dash/dash/
 Constructor for [Dash](../). Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::Dash::Dash(int32_t on, int32_t off)
+Aspose::Pdf::Annotations::Dash::Dash(int32_t on, int32_t off)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::Dash::Dash(int32_t on, int32_t o
 | --- | --- | --- |
 | on | int32_t | Length of the dash. |
 | off | int32_t | Length of the gap. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>on</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Length of the dash.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>off</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Length of the gap.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Dash](../)
@@ -53,26 +33,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::Dash::Dash(int32_t on, int32_t o
 Constructor for [Dash](../). Defines a pattern of dashes and gaps that shall be used in drawing a dashed border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::Dash::Dash(System::ArrayPtr<int32_t> pattern)
+Aspose::Pdf::Annotations::Dash::Dash(System::ArrayPtr<int32_t> pattern)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pattern | System::ArrayPtr\<int32_t\> | A dash array (of two values minimum) defining a pattern of dashes and gaps that shall be used in drawing a dashed border. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pattern</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>A dash array (of two values minimum) defining a pattern of dashes and gaps that shall be used in drawing a dashed border.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Dash](../)

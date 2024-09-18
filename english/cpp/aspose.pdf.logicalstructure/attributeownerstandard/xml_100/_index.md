@@ -4,7 +4,7 @@ linktitle: Xml_100
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Xml_100 method. XML-1.0.0 attribute owner in C++.'
 type: docs
-weight: 700
+weight: 1400
 url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/xml_100/
 ---
 ## AttributeOwnerStandard::Xml_100 method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/xml_100/
 XML-1.0.0 attribute owner.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Xml_100()
+static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Xml_100()
 ```
 
 ## See Also

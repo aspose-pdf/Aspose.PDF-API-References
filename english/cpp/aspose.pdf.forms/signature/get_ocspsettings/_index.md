@@ -4,7 +4,7 @@ linktitle: get_OcspSettings
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_OcspSettings method. Gets/sets ocsp settings in C++.'
 type: docs
-weight: 1600
+weight: 900
 url: /cpp/aspose.pdf.forms/signature/get_ocspsettings/
 ---
 ## Signature::get_OcspSettings method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/get_ocspsettings/
 Gets/sets ocsp settings.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::OcspSettings> Aspose::Pdf::Forms::Signature::get_OcspSettings() const
+System::SharedPtr<Aspose::Pdf::OcspSettings> Aspose::Pdf::Forms::Signature::get_OcspSettings() const
 ```
 
 ## See Also

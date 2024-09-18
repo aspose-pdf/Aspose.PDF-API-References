@@ -4,7 +4,7 @@ linktitle: Transparent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DRenderMode::Transparent field. The "Transparent" render mode in C++.'
 type: docs
-weight: 1300
+weight: 1900
 url: /cpp/aspose.pdf.annotations/pdf3drendermode/transparent/
 ---
 ## Transparent field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/transparent/
 The "Transparent" render mode.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::Transparent
+static System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::Transparent
 ```
 
 ## See Also

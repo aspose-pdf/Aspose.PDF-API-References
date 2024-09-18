@@ -4,7 +4,7 @@ linktitle: get_FilterType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CompositingParameters::get_FilterType method. Gets the image filter type in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/compositingparameters/get_filtertype/
 ---
 ## CompositingParameters::get_FilterType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/compositingparameters/get_filtertype/
 Gets the image filter type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API ImageFilterType Aspose::Pdf::CompositingParameters::get_FilterType() const
+ImageFilterType Aspose::Pdf::CompositingParameters::get_FilterType() const
 ```
 
 ## See Also

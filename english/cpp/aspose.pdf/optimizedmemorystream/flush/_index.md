@@ -4,7 +4,7 @@ linktitle: Flush
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream::Flush method. The function overrided in C++.'
 type: docs
-weight: 1500
+weight: 200
 url: /cpp/aspose.pdf/optimizedmemorystream/flush/
 ---
 ## OptimizedMemoryStream::Flush method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/flush/
 The function overrided.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OptimizedMemoryStream::Flush() override
+void Aspose::Pdf::OptimizedMemoryStream::Flush() override
 ```
 
 ## See Also

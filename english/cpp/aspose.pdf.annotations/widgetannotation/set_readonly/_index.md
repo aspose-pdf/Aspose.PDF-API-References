@@ -4,7 +4,7 @@ linktitle: set_ReadOnly
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::WidgetAnnotation::set_ReadOnly method. Sets read only status of the field in C++.'
 type: docs
-weight: 1000
+weight: 1700
 url: /cpp/aspose.pdf.annotations/widgetannotation/set_readonly/
 ---
 ## WidgetAnnotation::set_ReadOnly method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_readonly/
 Sets read only status of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::WidgetAnnotation::set_ReadOnly(bool value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_ReadOnly(bool value)
 ```
 
 ## See Also

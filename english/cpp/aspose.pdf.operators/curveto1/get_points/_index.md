@@ -4,7 +4,7 @@ linktitle: get_Points
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::CurveTo1::get_Points method. Points of the curve in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.operators/curveto1/get_points/
 ---
 ## CurveTo1::get_Points method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/curveto1/get_points/
 Points of the curve.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Operators::CurveTo1::get_Points() const
+System::ArrayPtr<System::SharedPtr<Point>> Aspose::Pdf::Operators::CurveTo1::get_Points() const
 ```
 
 ## See Also

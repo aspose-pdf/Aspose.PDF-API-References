@@ -4,7 +4,7 @@ linktitle: P
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::P field. (Paragraph) A low-level division of text in C++.'
 type: docs
-weight: 1700
+weight: 3100
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/p/
 ---
 ## P field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/p/
 (Paragraph) A low-level division of text.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::P
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::P
 ```
 
 ## See Also

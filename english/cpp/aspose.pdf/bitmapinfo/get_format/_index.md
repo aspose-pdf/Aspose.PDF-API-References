@@ -4,7 +4,7 @@ linktitle: get_Format
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BitmapInfo::get_Format method. Gets the pixel format of the bitmap in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf/bitmapinfo/get_format/
 ---
 ## BitmapInfo::get_Format method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/bitmapinfo/get_format/
 Gets the pixel format of the bitmap.
 
 ```cpp
-ASPOSE_PDF_SHARED_API BitmapInfo::PixelFormat Aspose::Pdf::BitmapInfo::get_Format() const
+BitmapInfo::PixelFormat Aspose::Pdf::BitmapInfo::get_Format() const
 ```
 
 ## See Also

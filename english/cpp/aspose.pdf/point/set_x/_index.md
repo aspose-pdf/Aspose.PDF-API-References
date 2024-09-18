@@ -4,7 +4,7 @@ linktitle: set_X
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Point::set_X method. X coordinate value in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf/point/set_x/
 ---
 ## Point::set_X method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/point/set_x/
 X coordinate value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Point::set_X(double value)
+void Aspose::Pdf::Point::set_X(double value)
 ```
 
 ## See Also

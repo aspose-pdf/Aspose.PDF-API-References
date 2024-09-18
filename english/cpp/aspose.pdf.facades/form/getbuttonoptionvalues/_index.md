@@ -4,7 +4,7 @@ linktitle: GetButtonOptionValues
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::GetButtonOptionValues method. Gets the radio button option fields and related values based on the field name. This method has meaning for radio button groups in C++.'
 type: docs
-weight: 2600
+weight: 2500
 url: /cpp/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
 ## Form::GetButtonOptionValues method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/getbuttonoptionvalues/
 Gets the radio button option fields and related values based on the field name. This method has meaning for radio button groups.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Facades::Form::GetButtonOptionValues(System::String fieldName)
+System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Facades::Form::GetButtonOptionValues(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::Dictionary
 ### ReturnValue
 
 Hash table of option values keyed by form item name
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Field Name</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Form](../)

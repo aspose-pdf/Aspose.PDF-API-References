@@ -4,7 +4,7 @@ linktitle: get_K
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetCMYKColor::get_K method. Gets the black component in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf.operators/setcmykcolor/get_k/
 ---
 ## SetCMYKColor::get_K method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcmykcolor/get_k/
 Gets the black component.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetCMYKColor::get_K() const
+double Aspose::Pdf::Operators::SetCMYKColor::get_K() const
 ```
 
 ## See Also

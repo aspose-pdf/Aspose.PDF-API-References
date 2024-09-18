@@ -4,7 +4,7 @@ linktitle: get_Paragraphs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::get_Paragraphs method. Gets a Paragraphs collection that indicates all paragraphs in the cell in C++.'
 type: docs
-weight: 900
+weight: 1100
 url: /cpp/aspose.pdf/floatingbox/get_paragraphs/
 ---
 ## FloatingBox::get_Paragraphs method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/get_paragraphs/
 Gets a [Paragraphs](../../paragraphs/) collection that indicates all paragraphs in the cell.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Paragraphs> Aspose::Pdf::FloatingBox::get_Paragraphs() const
+System::SharedPtr<Aspose::Pdf::Paragraphs> Aspose::Pdf::FloatingBox::get_Paragraphs() const
 ```
 
 ## See Also

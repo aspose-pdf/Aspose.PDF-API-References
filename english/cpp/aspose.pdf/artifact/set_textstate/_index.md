@@ -4,7 +4,7 @@ linktitle: set_TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::set_TextState method. Text state for artifact text in C++.'
 type: docs
-weight: 3500
+weight: 4100
 url: /cpp/aspose.pdf/artifact/set_textstate/
 ---
 ## Artifact::set_TextState method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_textstate/
 [Text](../../../aspose.pdf.text/) state for artifact text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Artifact::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::Artifact::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
 ```
 
 ## See Also

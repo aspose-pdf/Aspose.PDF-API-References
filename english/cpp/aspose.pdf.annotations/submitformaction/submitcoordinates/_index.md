@@ -4,7 +4,7 @@ linktitle: SubmitCoordinates
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SubmitFormAction::SubmitCoordinates field. If set, the coordinates of the mouse click that caused the submit-form action shall be transmitted as part of the form data in C++.'
 type: docs
-weight: 1000
+weight: 1600
 url: /cpp/aspose.pdf.annotations/submitformaction/submitcoordinates/
 ---
 ## SubmitCoordinates field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/submitcoordinates/
 If set, the coordinates of the mouse click that caused the submit-form action shall be transmitted as part of the form data.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::SubmitCoordinates
+static int32_t Aspose::Pdf::Annotations::SubmitFormAction::SubmitCoordinates
 ```
 
 ## See Also

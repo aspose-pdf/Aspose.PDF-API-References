@@ -4,7 +4,7 @@ linktitle: set_OnFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnFormat method. Sets an action to be performed to format field value in C++.'
 type: docs
-weight: 2600
+weight: 1900
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onformat/
 ---
 ## AnnotationActionCollection::set_OnFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onformat/
 Sets an action to be performed to format field value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnFormat(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnFormat(System::SharedPtr<PdfAction> value)
 ```
 
 ## See Also

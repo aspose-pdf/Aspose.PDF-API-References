@@ -4,7 +4,7 @@ linktitle: get_EncryptedPayload
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::get_EncryptedPayload method. Gets encrypted payload in C++.'
 type: docs
-weight: 600
+weight: 800
 url: /cpp/aspose.pdf/filespecification/get_encryptedpayload/
 ---
 ## FileSpecification::get_EncryptedPayload method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/get_encryptedpayload/
 Gets encrypted payload.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::EncryptedPayload> Aspose::Pdf::FileSpecification::get_EncryptedPayload()
+System::SharedPtr<Aspose::Pdf::EncryptedPayload> Aspose::Pdf::FileSpecification::get_EncryptedPayload()
 ```
 
 ## See Also

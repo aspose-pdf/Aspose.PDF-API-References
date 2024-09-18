@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/importoptions/get_importformat/
 Import format.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ImportFormat Aspose::Pdf::ImportOptions::get_ImportFormat() const
+Aspose::Pdf::ImportFormat Aspose::Pdf::ImportOptions::get_ImportFormat() const
 ```
 
 ## See Also

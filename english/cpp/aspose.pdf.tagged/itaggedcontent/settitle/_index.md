@@ -4,7 +4,7 @@ linktitle: SetTitle
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use SetTitle method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 500
+weight: 3900
 url: /cpp/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
 ## ITaggedContent::SetTitle method
@@ -25,16 +25,6 @@ virtual void Aspose::Pdf::Tagged::ITaggedContent::SetTitle(System::String title)
 
 Sets title for PDF document.
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>title</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The title of PDF document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [ITaggedContent](../)

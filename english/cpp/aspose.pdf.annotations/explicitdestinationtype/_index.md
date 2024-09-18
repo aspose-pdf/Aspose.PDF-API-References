@@ -4,7 +4,7 @@ linktitle: ExplicitDestinationType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::ExplicitDestinationType enum. Enumerates the types of explicit destinations in C++.'
 type: docs
-weight: 15100
+weight: 13100
 url: /cpp/aspose.pdf.annotations/explicitdestinationtype/
 ---
 ## ExplicitDestinationType enum

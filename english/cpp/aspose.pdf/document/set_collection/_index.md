@@ -4,7 +4,7 @@ linktitle: set_Collection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_Collection method. Gets collection of document in C++.'
 type: docs
-weight: 2000
+weight: 8600
 url: /cpp/aspose.pdf/document/set_collection/
 ---
 ## Document::set_Collection method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_collection/
 Gets collection of document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::set_Collection(System::SharedPtr<Aspose::Pdf::Collection> value)
+void Aspose::Pdf::Document::set_Collection(System::SharedPtr<Aspose::Pdf::Collection> value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/get_firstlineindent/
 Gets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Text::TextParagraph::get_FirstLineIndent() const
+float Aspose::Pdf::Text::TextParagraph::get_FirstLineIndent() const
 ```
 
 ## See Also

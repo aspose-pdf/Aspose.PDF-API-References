@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/
 Gets the auxiliary colour.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DRenderMode::GetAuxiliaryColour()
+System::SharedPtr<Color> Aspose::Pdf::Annotations::PDF3DRenderMode::GetAuxiliaryColour()
 ```
 
 

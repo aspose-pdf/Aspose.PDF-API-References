@@ -4,7 +4,7 @@ linktitle: GetExtGStates
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Resources::GetExtGStates method. Gets all ExGStates from resources in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf/resources/getextgstates/
 ---
 ## Resources::GetExtGStates method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/resources/getextgstates/
 Gets all ExGStates from resources.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<Resources::ExtGStateValue>>> Aspose::Pdf::Resources::GetExtGStates()
+System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::SharedPtr<Resources::ExtGStateValue>>> Aspose::Pdf::Resources::GetExtGStates()
 ```
 
 

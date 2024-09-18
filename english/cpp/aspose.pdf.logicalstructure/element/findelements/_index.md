@@ -28,28 +28,7 @@ template<typename T> System::SharedPtr<System::Collections::Generic::List<T>> As
 ### ReturnValue
 
 List of found Elements
-## Remarks
 
-
-<parameterlist kind="templateparam">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>T</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Type of <ref refid="namespace_aspose_1_1_pdf_1_1_structure" kindref="compound">Structure</ref><ref refid="class_aspose_1_1_pdf_1_1_logical_structure_1_1_element" kindref="compound">Element</ref> for search</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist><parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>recursiveSearch</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>(Optional) Recursive Search (default false, search only from direct children)</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Element](../)

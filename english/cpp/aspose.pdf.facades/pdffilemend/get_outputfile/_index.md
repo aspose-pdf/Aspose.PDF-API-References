@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilemend/get_outputfile/
 Sets the output file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileMend::get_OutputFile() const
+System::String Aspose::Pdf::Facades::PdfFileMend::get_OutputFile() const
 ```
 
-## Remarks
 
+## Deprecated
+Use Save(outputFile) method for getting facade results. 
 
-<xrefsect id="deprecated_1_deprecated000063">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use Save(outputFile) method for getting facade results. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileMend](../)

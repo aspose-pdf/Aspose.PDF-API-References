@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::Dispose method. Frees up memory in C++.'
 type: docs
-weight: 6900
+weight: 1000
 url: /cpp/aspose.pdf/page/dispose/
 ---
 ## Page::Dispose method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/dispose/
 Frees up memory.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::Dispose() override
+void Aspose::Pdf::Page::Dispose() override
 ```
 
 ## See Also

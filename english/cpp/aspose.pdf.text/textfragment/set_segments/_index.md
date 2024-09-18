@@ -4,7 +4,7 @@ linktitle: set_Segments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::set_Segments method. Gets text segments for current TextFragment in C++.'
 type: docs
-weight: 1100
+weight: 2500
 url: /cpp/aspose.pdf.text/textfragment/set_segments/
 ---
 ## TextFragment::set_Segments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_segments/
 Gets text segments for current [TextFragment](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragment::set_Segments(System::SharedPtr<TextSegmentCollection> value)
+void Aspose::Pdf::Text::TextFragment::set_Segments(System::SharedPtr<TextSegmentCollection> value)
 ```
 
 ## Remarks

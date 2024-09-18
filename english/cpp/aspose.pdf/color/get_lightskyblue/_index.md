@@ -4,7 +4,7 @@ linktitle: get_LightSkyBlue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_LightSkyBlue method. Gets a system-defined color that has an ARGB value of #FF87CEFA in C++.'
 type: docs
-weight: 8300
+weight: 8600
 url: /cpp/aspose.pdf/color/get_lightskyblue/
 ---
 ## Color::get_LightSkyBlue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_lightskyblue/
 Gets a system-defined color that has an ARGB value of **#FF87CEFA**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_LightSkyBlue()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_LightSkyBlue()
 ```
 
 

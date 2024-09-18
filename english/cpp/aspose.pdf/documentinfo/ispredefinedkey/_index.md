@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/ispredefinedkey/
 Determines if the key is predefined (Title, Author, etc.), not custom.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::DocumentInfo::IsPredefinedKey(System::String key)
+static bool Aspose::Pdf::DocumentInfo::IsPredefinedKey(System::String key)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::DocumentInfo::IsPredefinedKey(Sys
 ### ReturnValue
 
 True in case the key is predefined.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Selected key</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [DocumentInfo](../)

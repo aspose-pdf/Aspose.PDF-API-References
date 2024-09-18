@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcharwidthboundingbox/get_lly/
 Lower-left vertical coordinate of bounding rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Lly() const
+double Aspose::Pdf::Operators::SetCharWidthBoundingBox::get_Lly() const
 ```
 
 ## See Also

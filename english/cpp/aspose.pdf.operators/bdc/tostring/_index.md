@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bdc/tostring/
 Returns text representation of operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::BDC::ToString() const override
+System::String Aspose::Pdf::Operators::BDC::ToString() const override
 ```
 
 

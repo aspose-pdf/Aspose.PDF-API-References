@@ -4,7 +4,7 @@ linktitle: AlignMiddle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::AlignMiddle field. Defines vertical aglignment as middle style in C++.'
 type: docs
-weight: 5500
+weight: 4300
 url: /cpp/aspose.pdf.facades/formfieldfacade/alignmiddle/
 ---
 ## AlignMiddle field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/alignmiddle/
 Defines vertical aglignment as middle style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignMiddle
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignMiddle
 ```
 
 ## See Also

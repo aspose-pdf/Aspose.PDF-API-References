@@ -4,7 +4,7 @@ linktitle: get_AllowModifyContents
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_AllowModifyContents method. Sets the permission which allow modify contents or not. true is allow and false is forbidden in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.facades/documentprivilege/get_allowmodifycontents/
 ---
 ## DocumentPrivilege::get_AllowModifyContents method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/get_allowmodifycontents/
 Sets the permission which allow modify contents or not. true is allow and false is forbidden.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::DocumentPrivilege::get_AllowModifyContents()
+bool Aspose::Pdf::Facades::DocumentPrivilege::get_AllowModifyContents()
 ```
 
 ## See Also

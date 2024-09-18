@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/collectionitem/hasname/
 Checks if the given name exists in the collection item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::CollectionItem::HasName(System::String name)
+bool Aspose::Pdf::CollectionItem::HasName(System::String name)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::CollectionItem::HasName(System::String n
 ### ReturnValue
 
 True if the name exists in the collection item, otherwise false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name to check.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CollectionItem](../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfprintpageinfo/get_pagenumber/
 Gets currently printed page number;.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPrintPageInfo::get_PageNumber() const
+int32_t Aspose::Pdf::Facades::PdfPrintPageInfo::get_PageNumber() const
 ```
 
 ## See Also

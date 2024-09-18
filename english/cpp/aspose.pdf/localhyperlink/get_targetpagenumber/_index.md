@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/localhyperlink/get_targetpagenumber/
 Gets the target page number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::LocalHyperlink::get_TargetPageNumber() const
+int32_t Aspose::Pdf::LocalHyperlink::get_TargetPageNumber() const
 ```
 
 ## See Also

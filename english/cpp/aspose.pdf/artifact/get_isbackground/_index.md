@@ -4,7 +4,7 @@ linktitle: get_IsBackground
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::get_IsBackground method. If true Artifact is placed behind page contents in C++.'
 type: docs
-weight: 3600
+weight: 1200
 url: /cpp/aspose.pdf/artifact/get_isbackground/
 ---
 ## Artifact::get_IsBackground method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/get_isbackground/
 If true [Artifact](../) is placed behind page contents.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Artifact::get_IsBackground() const
+bool Aspose::Pdf::Artifact::get_IsBackground() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_CoordinateType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::set_CoordinateType method. Get or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/aspose.pdf.devices/tiffsettings/set_coordinatetype/
 ---
 ## TiffSettings::set_CoordinateType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/set_coordinatetype/
 Get or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffSettings::set_CoordinateType(PageCoordinateType value)
+void Aspose::Pdf::Devices::TiffSettings::set_CoordinateType(PageCoordinateType value)
 ```
 
 ## See Also

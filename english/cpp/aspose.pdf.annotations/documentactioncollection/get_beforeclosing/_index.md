@@ -4,7 +4,7 @@ linktitle: get_BeforeClosing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforeClosing method. Gets action that will be performed before documetn closing in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.annotations/documentactioncollection/get_beforeclosing/
 ---
 ## DocumentActionCollection::get_BeforeClosing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/get_beforeclosing/
 Gets action that will be performed before documetn closing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforeClosing() const
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_BeforeClosing() const
 ```
 
 ## See Also

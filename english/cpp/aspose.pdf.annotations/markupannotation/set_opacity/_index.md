@@ -4,7 +4,7 @@ linktitle: set_Opacity
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MarkupAnnotation::set_Opacity method. Sets the constant opacity value to be used in painting the annotation in C++.'
 type: docs
-weight: 1100
+weight: 1400
 url: /cpp/aspose.pdf.annotations/markupannotation/set_opacity/
 ---
 ## MarkupAnnotation::set_Opacity method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/set_opacity/
 Sets the constant opacity value to be used in painting the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::MarkupAnnotation::set_Opacity(double value)
+void Aspose::Pdf::Annotations::MarkupAnnotation::set_Opacity(double value)
 ```
 
 ## See Also

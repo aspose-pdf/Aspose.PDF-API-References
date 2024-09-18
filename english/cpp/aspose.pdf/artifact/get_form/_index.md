@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/get_form/
 Gets [XForm](../../xform/) of the artifact (if [XForm](../../xform/) is used).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XForm> Aspose::Pdf::Artifact::get_Form()
+System::SharedPtr<XForm> Aspose::Pdf::Artifact::get_Form()
 ```
 
 ## See Also

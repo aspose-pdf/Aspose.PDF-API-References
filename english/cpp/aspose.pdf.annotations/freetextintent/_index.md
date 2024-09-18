@@ -4,7 +4,7 @@ linktitle: FreeTextIntent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextIntent enum. Enumerates the intents of the free text annotation in C++.'
 type: docs
-weight: 13200
+weight: 13300
 url: /cpp/aspose.pdf.annotations/freetextintent/
 ---
 ## FreeTextIntent enum

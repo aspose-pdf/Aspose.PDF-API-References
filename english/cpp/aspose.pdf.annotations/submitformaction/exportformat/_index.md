@@ -4,7 +4,7 @@ linktitle: ExportFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SubmitFormAction::ExportFormat field. If set, field names and values shall be submitted in HTML Form format in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.pdf.annotations/submitformaction/exportformat/
 ---
 ## ExportFormat field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/exportformat/
 If set, field names and values shall be submitted in HTML Form format.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::ExportFormat
+static int32_t Aspose::Pdf::Annotations::SubmitFormAction::ExportFormat
 ```
 
 ## See Also

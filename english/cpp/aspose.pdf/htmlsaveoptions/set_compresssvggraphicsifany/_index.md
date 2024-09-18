@@ -4,7 +4,7 @@ linktitle: set_CompressSvgGraphicsIfAny
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlSaveOptions::set_CompressSvgGraphicsIfAny method. Sets the flag that indicates whether found SVG graphics(if any) will be compressed(zipped) into SVGZ format during saving in C++.'
 type: docs
-weight: 400
+weight: 2600
 url: /cpp/aspose.pdf/htmlsaveoptions/set_compresssvggraphicsifany/
 ---
 ## HtmlSaveOptions::set_CompressSvgGraphicsIfAny method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/set_compresssvggraphicsifany/
 Sets the flag that indicates whether found SVG graphics(if any) will be compressed(zipped) into SVGZ format during saving.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlSaveOptions::set_CompressSvgGraphicsIfAny(bool value)
+void Aspose::Pdf::HtmlSaveOptions::set_CompressSvgGraphicsIfAny(bool value)
 ```
 
 ## Remarks

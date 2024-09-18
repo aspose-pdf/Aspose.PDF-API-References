@@ -4,7 +4,7 @@ linktitle: LaunchActionOperation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LaunchActionOperation enum. Enumerates the operations to perform with document during launch action executing in C++.'
 type: docs
-weight: 15400
+weight: 13600
 url: /cpp/aspose.pdf.annotations/launchactionoperation/
 ---
 ## LaunchActionOperation enum

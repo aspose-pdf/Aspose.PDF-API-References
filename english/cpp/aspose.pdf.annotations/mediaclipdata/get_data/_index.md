@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/mediaclipdata/get_data/
 Return file specification which contains actual media data .
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::MediaClipData::get_Data()
+System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::MediaClipData::get_Data()
 ```
 
 ## See Also

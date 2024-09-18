@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::idx_get method. Gets paragraph from or to collection in C++.'
 type: docs
-weight: 900
+weight: 1300
 url: /cpp/aspose.pdf/paragraphs/idx_get/
 ---
 ## Paragraphs::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/idx_get/
 Gets paragraph from or to collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<BaseParagraph> Aspose::Pdf::Paragraphs::idx_get(int32_t index)
+System::SharedPtr<BaseParagraph> Aspose::Pdf::Paragraphs::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<BaseParagraph> Aspose::Pdf::Paragraphs::
 ### ReturnValue
 
 
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The paragraph index.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [BaseParagraph](../../baseparagraph/)

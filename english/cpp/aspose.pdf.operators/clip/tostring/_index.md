@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/clip/tostring/
 Returns text representation of operators.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::Clip::ToString() const override
+System::String Aspose::Pdf::Operators::Clip::ToString() const override
 ```
 
 

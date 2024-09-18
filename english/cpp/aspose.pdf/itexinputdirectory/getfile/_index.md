@@ -26,35 +26,7 @@ virtual System::SharedPtr<System::IO::Stream> Aspose::Pdf::ITeXInputDirectory::G
 ### ReturnValue
 
 The stream.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fileName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The file name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fullName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The full file name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>searchSubdirectories</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Indicates whether to look for a file in subdirectories.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [ITeXInputDirectory](../)

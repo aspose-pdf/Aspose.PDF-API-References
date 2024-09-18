@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/get_url/
 Destination URL.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::SubmitFormAction::get_Url()
+System::SharedPtr<FileSpecification> Aspose::Pdf::Annotations::SubmitFormAction::get_Url()
 ```
 
 ## See Also

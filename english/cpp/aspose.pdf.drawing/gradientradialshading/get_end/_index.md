@@ -4,7 +4,7 @@ linktitle: get_End
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::GradientRadialShading::get_End method. Gets ending circle center point in C++.'
 type: docs
-weight: 300
+weight: 200
 url: /cpp/aspose.pdf.drawing/gradientradialshading/get_end/
 ---
 ## GradientRadialShading::get_End method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientradialshading/get_end/
 Gets ending circle center point.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Drawing::GradientRadialShading::get_End() const
+System::SharedPtr<Point> Aspose::Pdf::Drawing::GradientRadialShading::get_End() const
 ```
 
 ## See Also

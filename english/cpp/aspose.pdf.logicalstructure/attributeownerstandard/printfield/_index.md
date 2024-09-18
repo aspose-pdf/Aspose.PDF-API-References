@@ -4,7 +4,7 @@ linktitle: PrintField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::PrintField method. PrintField attribute owner in C++.'
 type: docs
-weight: 500
+weight: 1000
 url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/printfield/
 ---
 ## AttributeOwnerStandard::PrintField method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/printfield/
 PrintField attribute owner.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::PrintField()
+static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::PrintField()
 ```
 
 ## See Also

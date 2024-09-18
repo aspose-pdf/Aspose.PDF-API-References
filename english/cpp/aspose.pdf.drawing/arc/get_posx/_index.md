@@ -4,7 +4,7 @@ linktitle: get_PosX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Arc::get_PosX method. Gets a float value that indicates the x-coordinate of the center of the arc in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.drawing/arc/get_posx/
 ---
 ## Arc::get_PosX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/arc/get_posx/
 Gets a float value that indicates the x-coordinate of the center of the arc.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::Arc::get_PosX() const
+double Aspose::Pdf::Drawing::Arc::get_PosX() const
 ```
 
 ## See Also

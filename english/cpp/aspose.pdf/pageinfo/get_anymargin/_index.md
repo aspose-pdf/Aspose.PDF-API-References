@@ -4,7 +4,7 @@ linktitle: get_AnyMargin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageInfo::get_AnyMargin method. Gets page margin for any page except first in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf/pageinfo/get_anymargin/
 ---
 ## PageInfo::get_AnyMargin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/get_anymargin/
 Gets page margin for any page except first.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<MarginInfo> & Aspose::Pdf::PageInfo::get_AnyMargin() const
+const System::SharedPtr<MarginInfo> & Aspose::Pdf::PageInfo::get_AnyMargin() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: GetValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::GetValue method. Gets custom value of artifact in C++.'
 type: docs
-weight: 4600
+weight: 2500
 url: /cpp/aspose.pdf/artifact/getvalue/
 ---
 ## Artifact::GetValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/getvalue/
 Gets custom value of artifact.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Artifact::GetValue(System::String name)
+System::String Aspose::Pdf::Artifact::GetValue(System::String name)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Artifact::GetValue(System::Str
 ### ReturnValue
 
 Value, or null if value does not exists.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Artifact](../)

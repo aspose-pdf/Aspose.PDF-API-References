@@ -4,7 +4,7 @@ linktitle: set_OutputStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileMend::set_OutputStream method. Sets the output stream in C++.'
 type: docs
-weight: 400
+weight: 1600
 url: /cpp/aspose.pdf.facades/pdffilemend/set_outputstream/
 ---
 ## PdfFileMend::set_OutputStream method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilemend/set_outputstream/
 Sets the output stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileMend::set_OutputStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::PdfFileMend::set_OutputStream(System::SharedPtr<System::IO::Stream> value)
 ```
 
-## Remarks
 
+## Deprecated
+Use Save(outputStream) method for getting facade results. 
 
-<xrefsect id="deprecated_1_deprecated000060">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use Save(outputStream) method for getting facade results. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileMend](../)

@@ -4,7 +4,7 @@ linktitle: getColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetGrayStroke::getColor method. Returns color specified by operator in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.operators/setgraystroke/getcolor/
 ---
 ## SetGrayStroke::getColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setgraystroke/getcolor/
 Returns color specified by operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Color Aspose::Pdf::Operators::SetGrayStroke::getColor() override
+System::Drawing::Color Aspose::Pdf::Operators::SetGrayStroke::getColor() override
 ```
 
 

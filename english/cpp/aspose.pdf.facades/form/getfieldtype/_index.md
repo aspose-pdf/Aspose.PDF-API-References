@@ -4,7 +4,7 @@ linktitle: GetFieldType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::GetFieldType method. Returns type of field in C++.'
 type: docs
-weight: 4600
+weight: 3000
 url: /cpp/aspose.pdf.facades/form/getfieldtype/
 ---
 ## Form::GetFieldType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/getfieldtype/
 Returns type of field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API FieldType Aspose::Pdf::Facades::Form::GetFieldType(System::String fieldName)
+FieldType Aspose::Pdf::Facades::Form::GetFieldType(System::String fieldName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API FieldType Aspose::Pdf::Facades::Form::GetFieldType(System:
 ### ReturnValue
 
 Element of FileType enumeration corresponding to field type.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fieldName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Field name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [FieldType](../../fieldtype/)

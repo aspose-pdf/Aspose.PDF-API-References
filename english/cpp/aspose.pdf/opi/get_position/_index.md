@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/opi/get_position/
 Gets an array of eight numbers of the form specifying the location on the page of the cropped image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<double> Aspose::Pdf::Opi::get_Position()
+System::ArrayPtr<double> Aspose::Pdf::Opi::get_Position()
 ```
 
 ## See Also

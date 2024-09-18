@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/eofill/eofill/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::EOFill::EOFill()
+Aspose::Pdf::Operators::EOFill::EOFill()
 ```
 
 ## See Also

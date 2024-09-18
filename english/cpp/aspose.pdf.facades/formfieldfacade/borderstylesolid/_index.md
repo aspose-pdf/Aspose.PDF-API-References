@@ -4,7 +4,7 @@ linktitle: BorderStyleSolid
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::BorderStyleSolid field. Defines a solid border style in C++.'
 type: docs
-weight: 4300
+weight: 5000
 url: /cpp/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 ---
 ## BorderStyleSolid field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 Defines a solid border style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::BorderStyleSolid
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::BorderStyleSolid
 ```
 
 ## See Also

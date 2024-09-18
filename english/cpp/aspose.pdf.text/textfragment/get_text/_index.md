@@ -4,7 +4,7 @@ linktitle: get_Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragment::get_Text method. Gets System::String text object that the TextFragment object represents in C++.'
 type: docs
-weight: 200
+weight: 1400
 url: /cpp/aspose.pdf.text/textfragment/get_text/
 ---
 ## TextFragment::get_Text method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/get_text/
 Gets **System::String** text object that the [TextFragment](../) object represents.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextFragment::get_Text()
+System::String Aspose::Pdf::Text::TextFragment::get_Text()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::LogicalStructure
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::LogicalStructure namespace in C++.'
 type: docs
-weight: 2100
+weight: 1500
 url: /cpp/aspose.pdf.logicalstructure/
 ---
 

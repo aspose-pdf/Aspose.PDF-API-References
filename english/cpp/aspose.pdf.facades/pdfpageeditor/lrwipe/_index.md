@@ -4,7 +4,7 @@ linktitle: LRWIPE
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::LRWIPE field. Left-Right Wipe in C++.'
 type: docs
-weight: 3700
+weight: 3600
 url: /cpp/aspose.pdf.facades/pdfpageeditor/lrwipe/
 ---
 ## LRWIPE field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/lrwipe/
 Left-Right Wipe.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::LRWIPE
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::LRWIPE
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSegment::get_Position method. Gets text position for text, represented with TextSegment object in C++.'
 type: docs
-weight: 700
+weight: 600
 url: /cpp/aspose.pdf.text/textsegment/get_position/
 ---
 ## TextSegment::get_Position method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegment/get_position/
 Gets text position for text, represented with [TextSegment](../) object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::TextSegment::get_Position() const
+System::SharedPtr<Aspose::Pdf::Text::Position> Aspose::Pdf::Text::TextSegment::get_Position() const
 ```
 
 ## See Also

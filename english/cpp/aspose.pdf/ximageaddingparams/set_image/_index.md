@@ -4,7 +4,7 @@ linktitle: set_Image
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use set_Image method of Aspose::Pdf::XImageAddingParams class in C++.'
 type: docs
-weight: 700
+weight: 1600
 url: /cpp/aspose.pdf/ximageaddingparams/set_image/
 ---
 ## XImageAddingParams::set_Image method

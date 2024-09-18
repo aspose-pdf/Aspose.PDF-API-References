@@ -4,7 +4,7 @@ linktitle: get_Hyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseParagraph::get_Hyperlink method. Gets the fragment hyperlink(for pdf generator) in C++.'
 type: docs
-weight: 1500
+weight: 400
 url: /cpp/aspose.pdf/baseparagraph/get_hyperlink/
 ---
 ## BaseParagraph::get_Hyperlink method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseparagraph/get_hyperlink/
 Gets the fragment hyperlink(for pdf generator).
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Hyperlink> Aspose::Pdf::BaseParagraph::get_Hyperlink()
+virtual System::SharedPtr<Aspose::Pdf::Hyperlink> Aspose::Pdf::BaseParagraph::get_Hyperlink()
 ```
 
 ## See Also

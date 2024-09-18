@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/textelement/get_text/
 Gets the value of text structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Structure::TextElement::get_Text()
+System::String Aspose::Pdf::Structure::TextElement::get_Text()
 ```
 
 ## See Also

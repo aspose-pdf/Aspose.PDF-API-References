@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formattedtext/setcjkfontstyle/
 Changes [FormattedText](../) font style for CJK (Chinese, Japanese, or Korean) font.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormattedText::SetCjkFontStyle()
+void Aspose::Pdf::Facades::FormattedText::SetCjkFontStyle()
 ```
 
 ## See Also

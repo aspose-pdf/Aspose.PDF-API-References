@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/explicitdestination/get_pagenumber/
 Gets the destination page number.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::ExplicitDestination::get_PageNumber() const
+int32_t Aspose::Pdf::Annotations::ExplicitDestination::get_PageNumber() const
 ```
 
 ## See Also

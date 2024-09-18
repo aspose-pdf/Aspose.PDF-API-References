@@ -4,7 +4,7 @@ linktitle: CalculateContentBBox
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::CalculateContentBBox method. Calculates bbox value - rectangle containing contents without visible margins in C++.'
 type: docs
-weight: 6200
+weight: 700
 url: /cpp/aspose.pdf/page/calculatecontentbbox/
 ---
 ## Page::CalculateContentBBox method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/calculatecontentbbox/
 Calculates bbox value - rectangle containing contents without visible margins.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Page::CalculateContentBBox()
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Page::CalculateContentBBox()
 ```
 
 

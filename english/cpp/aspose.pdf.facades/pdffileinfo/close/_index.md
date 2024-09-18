@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::Close method. Deinitializes the instance in C++.'
 type: docs
-weight: 4600
+weight: 400
 url: /cpp/aspose.pdf.facades/pdffileinfo/close/
 ---
 ## PdfFileInfo::Close method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/close/
 Deinitializes the instance.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileInfo::Close() override
+void Aspose::Pdf::Facades::PdfFileInfo::Close() override
 ```
 
 ## See Also

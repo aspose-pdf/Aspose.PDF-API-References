@@ -4,7 +4,7 @@ linktitle: get_Category
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::get_Category method. Gets category of Standard Structure Type in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/get_category/
 ---
 ## StructureTypeStandard::get_Category method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/get_category/
 Gets category of Standard [Structure](../../../aspose.pdf.structure/) Type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::StructureTypeStandard::get_Category() const
+System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::StructureTypeStandard::get_Category() const
 ```
 
 ## Remarks

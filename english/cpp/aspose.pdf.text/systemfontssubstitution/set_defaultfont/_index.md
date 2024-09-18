@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/systemfontssubstitution/set_defaultfont/
 Sets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category ([FontCategories](../)).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::SystemFontsSubstitution::set_DefaultFont(System::SharedPtr<Font> value)
+void Aspose::Pdf::Text::SystemFontsSubstitution::set_DefaultFont(System::SharedPtr<Font> value)
 ```
 
 ## See Also

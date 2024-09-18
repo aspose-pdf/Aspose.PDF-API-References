@@ -4,7 +4,7 @@ linktitle: get_BorderInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::AbsorbedCell::get_BorderInfo method. Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.text/absorbedcell/get_borderinfo/
 ---
 ## AbsorbedCell::get_BorderInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/absorbedcell/get_borderinfo/
 Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::BorderInfo> Aspose::Pdf::Text::AbsorbedCell::get_BorderInfo() const
+System::SharedPtr<Aspose::Pdf::BorderInfo> Aspose::Pdf::Text::AbsorbedCell::get_BorderInfo() const
 ```
 
 ## See Also

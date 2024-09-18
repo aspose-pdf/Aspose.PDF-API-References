@@ -4,7 +4,7 @@ linktitle: get_Margins
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::get_Margins method. Gets the margins in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.pdf.devices/tiffsettings/get_margins/
 ---
 ## TiffSettings::get_Margins method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/get_margins/
 Gets the margins.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Devices::Margins> Aspose::Pdf::Devices::TiffSettings::get_Margins() const
+System::SharedPtr<Aspose::Pdf::Devices::Margins> Aspose::Pdf::Devices::TiffSettings::get_Margins() const
 ```
 
 ## See Also

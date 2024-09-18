@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionobject/get_value/
 Gets the value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionObject::get_Value() const
+System::String Aspose::Pdf::XmpPdfAExtensionObject::get_Value() const
 ```
 
 ## See Also

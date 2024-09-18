@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/iconfit/set_spreadonborder/
 If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::IconFit::set_SpreadOnBorder(bool value)
+void Aspose::Pdf::Forms::IconFit::set_SpreadOnBorder(bool value)
 ```
 
 ## See Also

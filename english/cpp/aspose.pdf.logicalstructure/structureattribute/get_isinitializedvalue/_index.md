@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/get_isinitializedvalue/
 Gets status of structure attribute value. True if value is set.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::LogicalStructure::StructureAttribute::get_IsInitializedValue()
+bool Aspose::Pdf::LogicalStructure::StructureAttribute::get_IsInitializedValue()
 ```
 
 ## See Also

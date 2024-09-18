@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.annotations/annotation/set_alignment/
 [Annotation](../) alignment. This property is obsolete. Use HorizontalAligment instead.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Annotation::set_Alignment(TextAlignment value)
+void Aspose::Pdf::Annotations::Annotation::set_Alignment(TextAlignment value)
 ```
 
-## Remarks
 
+## Deprecated
+Use TextHorizontalAlignment property 
 
-<xrefsect id="deprecated_1_deprecated000108">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use TextHorizontalAlignment property </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Enum [TextAlignment](../../textalignment/)

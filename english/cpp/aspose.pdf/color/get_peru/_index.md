@@ -4,7 +4,7 @@ linktitle: get_Peru
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Peru method. Gets a system-defined color that has an ARGB value of #FFCD853F in C++.'
 type: docs
-weight: 11900
+weight: 12200
 url: /cpp/aspose.pdf/color/get_peru/
 ---
 ## Color::get_Peru method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_peru/
 Gets a system-defined color that has an ARGB value of **#FFCD853F**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Peru()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Peru()
 ```
 
 

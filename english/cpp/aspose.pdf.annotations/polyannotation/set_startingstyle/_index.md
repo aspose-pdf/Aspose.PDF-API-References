@@ -4,7 +4,7 @@ linktitle: set_StartingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PolyAnnotation::set_StartingStyle method. Sets the style of first line ending in C++.'
 type: docs
-weight: 800
+weight: 1200
 url: /cpp/aspose.pdf.annotations/polyannotation/set_startingstyle/
 ---
 ## PolyAnnotation::set_StartingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/polyannotation/set_startingstyle/
 Sets the style of first line ending.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PolyAnnotation::set_StartingStyle(LineEnding value)
+void Aspose::Pdf::Annotations::PolyAnnotation::set_StartingStyle(LineEnding value)
 ```
 
 ## See Also

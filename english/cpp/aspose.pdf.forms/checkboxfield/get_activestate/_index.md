@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/checkboxfield/get_activestate/
 Gets current annotation appearance state.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::CheckboxField::get_ActiveState() override
+System::String Aspose::Pdf::Forms::CheckboxField::get_ActiveState() override
 ```
 
 ## See Also

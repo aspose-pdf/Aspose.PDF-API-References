@@ -4,7 +4,7 @@ linktitle: get_ShowHiddenAreas
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfConverter::get_ShowHiddenAreas method. Gets flag that controls visibility of hidden areas on the page in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/aspose.pdf.facades/pdfconverter/get_showhiddenareas/
 ---
 ## PdfConverter::get_ShowHiddenAreas method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdfconverter/get_showhiddenareas/
 Gets flag that controls visibility of hidden areas on the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfConverter::get_ShowHiddenAreas() const
+bool Aspose::Pdf::Facades::PdfConverter::get_ShowHiddenAreas() const
 ```
 
-## Remarks
 
+## Deprecated
+CoordinateType property should be used instead of ShowHiddenAreas. 
 
-<xrefsect id="deprecated_1_deprecated000048">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>CoordinateType property should be used instead of ShowHiddenAreas. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfConverter](../)

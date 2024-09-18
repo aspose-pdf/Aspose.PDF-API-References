@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/get_isnamedvalues/
 Returns true is [XmpValue](../) represents named values.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpValue::get_IsNamedValues()
+bool Aspose::Pdf::XmpValue::get_IsNamedValues()
 ```
 
 ## See Also

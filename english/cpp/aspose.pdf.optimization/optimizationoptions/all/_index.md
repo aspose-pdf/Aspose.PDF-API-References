@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/all/
 Creates optimization strategy will all options activated. Please note that activated only options which does not change any functionality of the document. I.e. image compressing and fonts unembedding will not enabled (and can be embedded manually).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<OptimizationOptions> Aspose::Pdf::Optimization::OptimizationOptions::All()
+static System::SharedPtr<OptimizationOptions> Aspose::Pdf::Optimization::OptimizationOptions::All()
 ```
 
 

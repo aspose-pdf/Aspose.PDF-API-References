@@ -4,7 +4,7 @@ linktitle: get_CameraOrbit
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::get_CameraOrbit method. Gets the camera orbit of view in C++.'
 type: docs
-weight: 1000
+weight: 300
 url: /cpp/aspose.pdf.annotations/pdf3dview/get_cameraorbit/
 ---
 ## PDF3DView::get_CameraOrbit method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/get_cameraorbit/
 Gets the camera orbit of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::PDF3DView::get_CameraOrbit() const
+double Aspose::Pdf::Annotations::PDF3DView::get_CameraOrbit() const
 ```
 
 ## Remarks

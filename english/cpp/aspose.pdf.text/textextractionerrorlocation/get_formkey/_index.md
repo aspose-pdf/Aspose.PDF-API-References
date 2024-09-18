@@ -4,7 +4,7 @@ linktitle: get_FormKey
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionErrorLocation::get_FormKey method. Key (name) of the PDF Form XObject in which contents stream text extraction error has located. Not empty if ObjectType == ''xForm'' in C++.'
 type: docs
-weight: 400
+weight: 200
 url: /cpp/aspose.pdf.text/textextractionerrorlocation/get_formkey/
 ---
 ## TextExtractionErrorLocation::get_FormKey method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerrorlocation/get_formkey/
 Key (name) of the PDF Form XObject in which contents stream text extraction error has located. Not empty if ObjectType == 'xForm'.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextExtractionErrorLocation::get_FormKey() const
+System::String Aspose::Pdf::Text::TextExtractionErrorLocation::get_FormKey() const
 ```
 
 ## See Also

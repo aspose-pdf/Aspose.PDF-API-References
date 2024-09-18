@@ -4,7 +4,7 @@ linktitle: set_ImageScale
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::set_ImageScale method. Sets the image scale in C++.'
 type: docs
-weight: 1300
+weight: 1900
 url: /cpp/aspose.pdf/image/set_imagescale/
 ---
 ## Image::set_ImageScale method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_imagescale/
 Sets the image scale.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Image::set_ImageScale(double value)
+void Aspose::Pdf::Image::set_ImageScale(double value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_Destination
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::GoToRemoteAction::set_Destination method. Sets the destination to jump to in C++.'
 type: docs
-weight: 600
+weight: 500
 url: /cpp/aspose.pdf.annotations/gotoremoteaction/set_destination/
 ---
 ## GoToRemoteAction::set_Destination method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/gotoremoteaction/set_destination/
 Sets the destination to jump to.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::GoToRemoteAction::set_Destination(System::SharedPtr<IAppointment> value) override
+void Aspose::Pdf::Annotations::GoToRemoteAction::set_Destination(System::SharedPtr<IAppointment> value) override
 ```
 
 ## See Also

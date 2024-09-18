@@ -4,7 +4,7 @@ linktitle: set_DisplayDocTitle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::set_DisplayDocTitle method. Sets flag specifying whether document''s window title bar should display document title in C++.'
 type: docs
-weight: 3500
+weight: 8900
 url: /cpp/aspose.pdf/document/set_displaydoctitle/
 ---
 ## Document::set_DisplayDocTitle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_displaydoctitle/
 Sets flag specifying whether document's window title bar should display document title.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::set_DisplayDocTitle(bool value)
+void Aspose::Pdf::Document::set_DisplayDocTitle(bool value)
 ```
 
 ## See Also

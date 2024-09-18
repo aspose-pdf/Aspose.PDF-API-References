@@ -4,7 +4,7 @@ linktitle: get_Resolution
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::BarcodeField::get_Resolution method. Gets the resolution, in dots-per-inch (dpi), at which the barcode object is rendered in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.forms/barcodefield/get_resolution/
 ---
 ## BarcodeField::get_Resolution method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/barcodefield/get_resolution/
 Gets the resolution, in dots-per-inch (dpi), at which the barcode object is rendered.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::BarcodeField::get_Resolution()
+int32_t Aspose::Pdf::Forms::BarcodeField::get_Resolution()
 ```
 
 ## See Also

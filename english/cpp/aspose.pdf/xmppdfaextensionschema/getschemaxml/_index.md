@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 Returns the xml element (tag - li) that represents schema in xml tree.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlElement> Aspose::Pdf::XmpPdfAExtensionSchema::GetSchemaXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument)
+System::SharedPtr<System::Xml::XmlElement> Aspose::Pdf::XmpPdfAExtensionSchema::GetSchemaXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Xml::XmlElement> Aspose::Pdf::Xm
 ### ReturnValue
 
 The xml element.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>xmlDocument</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The source xml document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpPdfAExtensionSchema](../)

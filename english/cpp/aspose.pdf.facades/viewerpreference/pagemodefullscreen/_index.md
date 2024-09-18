@@ -4,7 +4,7 @@ linktitle: PageModeFullScreen
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::PageModeFullScreen field. Full-screen mode, with no menu bar, window controls, or any other window visible in C++.'
 type: docs
-weight: 1100
+weight: 1900
 url: /cpp/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 ---
 ## PageModeFullScreen field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 Full-screen mode, with no menu bar, window controls, or any other window visible.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::PageModeFullScreen
+static int32_t Aspose::Pdf::Facades::ViewerPreference::PageModeFullScreen
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ResetInnerFacade
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::ResetInnerFacade method. Reset all visual attribtues of inner facade to empty value in C++.'
 type: docs
-weight: 4500
+weight: 3200
 url: /cpp/aspose.pdf.facades/formeditor/resetinnerfacade/
 ---
 ## FormEditor::ResetInnerFacade method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/resetinnerfacade/
 Reset all visual attribtues of inner facade to empty value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormEditor::ResetInnerFacade()
+void Aspose::Pdf::Facades::FormEditor::ResetInnerFacade()
 ```
 
 ## See Also

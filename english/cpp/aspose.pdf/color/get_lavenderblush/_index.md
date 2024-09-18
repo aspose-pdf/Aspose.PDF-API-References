@@ -4,7 +4,7 @@ linktitle: get_LavenderBlush
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_LavenderBlush method. Gets a system-defined color that has an ARGB value of #FFFFF0F5 in C++.'
 type: docs
-weight: 7100
+weight: 7400
 url: /cpp/aspose.pdf/color/get_lavenderblush/
 ---
 ## Color::get_LavenderBlush method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_lavenderblush/
 Gets a system-defined color that has an ARGB value of **#FFFFF0F5**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_LavenderBlush()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_LavenderBlush()
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: GetPdfVersion
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::GetPdfVersion method. Gets the version info of PDF document in C++.'
 type: docs
-weight: 4100
+weight: 3100
 url: /cpp/aspose.pdf.facades/pdffileinfo/getpdfversion/
 ---
 ## PdfFileInfo::GetPdfVersion method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/getpdfversion/
 Gets the version info of PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileInfo::GetPdfVersion()
+System::String Aspose::Pdf::Facades::PdfFileInfo::GetPdfVersion()
 ```
 
 

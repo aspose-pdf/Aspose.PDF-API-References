@@ -4,7 +4,7 @@ linktitle: RegisterNamespaceUri
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Metadata::RegisterNamespaceUri method. Registers namespace URI in C++.'
 type: docs
-weight: 1000
+weight: 2000
 url: /cpp/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## Metadata::RegisterNamespaceUri(System::String, System::String) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metadata/registernamespaceuri/
 Registers namespace URI.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::String namespaceUri)
+void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::String namespaceUri)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::S
 | --- | --- | --- |
 | prefix | System::String | The value of prefix. |
 | namespaceUri | System::String | The value of namespace URI. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>prefix</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The value of prefix.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>namespaceUri</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The value of namespace URI.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Metadata](../)
@@ -53,7 +33,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::S
 Registers namespace URI.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::String namespaceUri, System::String schemaDescription)
+void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::String namespaceUri, System::String schemaDescription)
 ```
 
 
@@ -62,35 +42,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::S
 | prefix | System::String | The value of prefix. |
 | namespaceUri | System::String | The value of namespace URI. |
 | schemaDescription | System::String | The value of schema description. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>prefix</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The value of prefix.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>namespaceUri</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The value of namespace URI.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>schemaDescription</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The value of schema description.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Metadata](../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/includeannotations/
 If set, the submitted FDF file shall include includes all markup annotations in the underlying PDF document.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::IncludeAnnotations
+static int32_t Aspose::Pdf::Annotations::SubmitFormAction::IncludeAnnotations
 ```
 
 ## See Also

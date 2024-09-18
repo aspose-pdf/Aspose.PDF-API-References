@@ -4,7 +4,7 @@ linktitle: get_CustomSubtype
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Artifact::get_CustomSubtype method. Gets name of artifact subtype. May be used if artifact subtype is not standard subtype in C++.'
 type: docs
-weight: 300
+weight: 800
 url: /cpp/aspose.pdf/artifact/get_customsubtype/
 ---
 ## Artifact::get_CustomSubtype method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/get_customsubtype/
 Gets name of artifact subtype. May be used if artifact subtype is not standard subtype.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Artifact::get_CustomSubtype()
+System::String Aspose::Pdf::Artifact::get_CustomSubtype()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cdrloadoptions/cdrloadoptions/
 Default constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::CdrLoadOptions::CdrLoadOptions()
+Aspose::Pdf::CdrLoadOptions::CdrLoadOptions()
 ```
 
 ## See Also

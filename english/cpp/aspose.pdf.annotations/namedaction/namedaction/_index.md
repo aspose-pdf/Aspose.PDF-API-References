@@ -4,7 +4,7 @@ linktitle: NamedAction
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::NamedAction::NamedAction constructor. Constructor for Named Action class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.annotations/namedaction/namedaction/
 ---
 ## NamedAction::NamedAction constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.annotations/namedaction/namedaction/
 Constructor for Named Action class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::NamedAction::NamedAction(PredefinedAction action)
+Aspose::Pdf::Annotations::NamedAction::NamedAction(PredefinedAction action)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | action | PredefinedAction | Action for which this object is created. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>action</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Action for which this object is created.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [PredefinedAction](../../predefinedaction/)

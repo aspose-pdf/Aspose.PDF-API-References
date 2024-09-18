@@ -4,7 +4,7 @@ linktitle: set_Border
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Annotation::set_Border method. Sets annotation border characteristics. Border in C++.'
 type: docs
-weight: 2400
+weight: 3100
 url: /cpp/aspose.pdf.annotations/annotation/set_border/
 ---
 ## Annotation::set_Border method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_border/
 Sets annotation border characteristics. [Border](../../border/)
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Annotation::set_Border(System::SharedPtr<Aspose::Pdf::Annotations::Border> value)
+void Aspose::Pdf::Annotations::Annotation::set_Border(System::SharedPtr<Aspose::Pdf::Annotations::Border> value)
 ```
 
 ## See Also

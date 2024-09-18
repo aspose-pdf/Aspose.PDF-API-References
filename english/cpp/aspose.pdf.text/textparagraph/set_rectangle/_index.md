@@ -4,7 +4,7 @@ linktitle: set_Rectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::set_Rectangle method. Sets rectangle of the paragraph in C++.'
 type: docs
-weight: 1700
+weight: 2200
 url: /cpp/aspose.pdf.text/textparagraph/set_rectangle/
 ---
 ## TextParagraph::set_Rectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/set_rectangle/
 Sets rectangle of the paragraph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextParagraph::set_Rectangle(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Text::TextParagraph::set_Rectangle(System::SharedPtr<Aspose::Pdf::Rectangle> value)
 ```
 
 ## See Also

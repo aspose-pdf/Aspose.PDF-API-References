@@ -4,7 +4,7 @@ linktitle: CreateSectElement
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use CreateSectElement method of Aspose::Pdf::Tagged::ITaggedContent class in C++.'
 type: docs
-weight: 800
+weight: 2300
 url: /cpp/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
 ## ITaggedContent::CreateSectElement method

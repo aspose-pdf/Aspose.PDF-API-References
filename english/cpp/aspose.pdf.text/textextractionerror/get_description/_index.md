@@ -4,7 +4,7 @@ linktitle: get_Description
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextExtractionError::get_Description method. Expanded description of the error in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.text/textextractionerror/get_description/
 ---
 ## TextExtractionError::get_Description method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerror/get_description/
 Expanded description of the error.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextExtractionError::get_Description() const
+System::String Aspose::Pdf::Text::TextExtractionError::get_Description() const
 ```
 
 ## See Also

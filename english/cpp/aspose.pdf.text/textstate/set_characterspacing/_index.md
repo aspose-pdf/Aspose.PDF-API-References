@@ -4,7 +4,7 @@ linktitle: set_CharacterSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::set_CharacterSpacing method. Sets character spacing of the text in C++.'
 type: docs
-weight: 200
+weight: 2400
 url: /cpp/aspose.pdf.text/textstate/set_characterspacing/
 ---
 ## TextState::set_CharacterSpacing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/set_characterspacing/
 Sets character spacing of the text.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextState::set_CharacterSpacing(float value)
+virtual void Aspose::Pdf::Text::TextState::set_CharacterSpacing(float value)
 ```
 
 ## See Also

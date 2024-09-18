@@ -4,7 +4,7 @@ linktitle: GetAccessPermissions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::GetAccessPermissions method. Returns the access permissions value of certified document by the MDP signature type in C++.'
 type: docs
-weight: 1100
+weight: 1400
 url: /cpp/aspose.pdf.facades/pdffilesignature/getaccesspermissions/
 ---
 ## PdfFileSignature::GetAccessPermissions method
@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/getaccesspermissions/
 Returns the access permissions value of certified document by the MDP signature type.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::DocMDPAccessPermissions Aspose::Pdf::Facades::PdfFileSignature::GetAccessPermissions()
+Aspose::Pdf::Forms::DocMDPAccessPermissions Aspose::Pdf::Facades::PdfFileSignature::GetAccessPermissions()
 ```
 
 
 ### ReturnValue
 
-If the document is being certified, than returns access permissions value; otherwise, 
+If the document is being certified, than returns access permissions value; otherwise, System::PdfException
 is thrown.
 
 ## See Also

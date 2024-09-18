@@ -4,7 +4,7 @@ linktitle: set_Underline
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::set_Underline method. Sets underline for the text in C++.'
 type: docs
-weight: 1200
+weight: 2700
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_underline/
 ---
 ## StructureTextState::set_Underline method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_underline/
 Sets underline for the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureTextState::set_Underline(System::Nullable<bool> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_Underline(System::Nullable<bool> value)
 ```
 
 ## Remarks

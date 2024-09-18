@@ -4,7 +4,7 @@ linktitle: get_NonSpecificationCases
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfFormatConversionOptions::get_NonSpecificationCases method. Holds flags to control PDF/A conversion process for cases when source document doesn''t correspond to PDF/A specification in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/aspose.pdf/pdfformatconversionoptions/get_nonspecificationcases/
 ---
 ## PdfFormatConversionOptions::get_NonSpecificationCases method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/get_nonspecificationcases/
 Holds flags to control PDF/A conversion process for cases when source document doesn't correspond to PDF/A specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfANonSpecificationFlags> Aspose::Pdf::PdfFormatConversionOptions::get_NonSpecificationCases() const
+System::SharedPtr<PdfANonSpecificationFlags> Aspose::Pdf::PdfFormatConversionOptions::get_NonSpecificationCases() const
 ```
 
 ## See Also

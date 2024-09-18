@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/checkboxstyleundefined/
 Defines an undefined check box style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleUndefined
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::CheckBoxStyleUndefined
 ```
 
 ## See Also

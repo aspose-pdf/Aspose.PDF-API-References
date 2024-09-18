@@ -4,7 +4,7 @@ linktitle: set_KeepFieldsUnique
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::set_KeepFieldsUnique method. If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may be specified in UniqueSuffix property in C++.'
 type: docs
-weight: 3100
+weight: 4800
 url: /cpp/aspose.pdf.facades/pdffileeditor/set_keepfieldsunique/
 ---
 ## PdfFileEditor::set_KeepFieldsUnique method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/set_keepfieldsunique/
 If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may be specified in UniqueSuffix property.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::set_KeepFieldsUnique(bool value)
+void Aspose::Pdf::Facades::PdfFileEditor::set_KeepFieldsUnique(bool value)
 ```
 
 ## See Also

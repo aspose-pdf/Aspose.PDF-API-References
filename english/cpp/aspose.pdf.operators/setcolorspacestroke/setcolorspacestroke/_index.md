@@ -4,7 +4,7 @@ linktitle: SetColorSpaceStroke
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColorSpaceStroke::SetColorSpaceStroke constructor. Initializes operator in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/setcolorspacestroke/setcolorspacestroke/
 ---
 ## SetColorSpaceStroke::SetColorSpaceStroke constructor
@@ -13,27 +13,14 @@ url: /cpp/aspose.pdf.operators/setcolorspacestroke/setcolorspacestroke/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetColorSpaceStroke::SetColorSpaceStroke(System::String name)
+Aspose::Pdf::Operators::SetColorSpaceStroke::SetColorSpaceStroke(System::String name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | System::String | [Color](../../../aspose.pdf/color/) space name. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_color" kindref="compound">Color</ref> space name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SetColorSpaceStroke](../)

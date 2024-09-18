@@ -4,7 +4,7 @@ linktitle: set_Group
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_Group method. Sets a group attributes class specifying the attributes of the page''s page group for use in the transparent imaging model in C++.'
 type: docs
-weight: 2800
+weight: 5900
 url: /cpp/aspose.pdf/page/set_group/
 ---
 ## Page::set_Group method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_group/
 Sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::set_Group(System::SharedPtr<Aspose::Pdf::Group> value)
+void Aspose::Pdf::Page::set_Group(System::SharedPtr<Aspose::Pdf::Group> value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ApplyChangesFrom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::ApplyChangesFrom method. Applies settings from another textState in C++.'
 type: docs
-weight: 4700
+weight: 200
 url: /cpp/aspose.pdf.text/textfragmentstate/applychangesfrom/
 ---
 ## TextFragmentState::ApplyChangesFrom method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/applychangesfrom/
 Applies settings from another textState.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragmentState::ApplyChangesFrom(System::SharedPtr<TextState> textState) override
+void Aspose::Pdf::Text::TextFragmentState::ApplyChangesFrom(System::SharedPtr<TextState> textState) override
 ```
 
 
@@ -25,17 +25,6 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextFragmentState::ApplyChangesFro
 
 Only those properties will be copied that were changed explicitly. 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>textState</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="namespace_aspose_1_1_pdf_1_1_text" kindref="compound">Text</ref> state object.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../../textstate/)

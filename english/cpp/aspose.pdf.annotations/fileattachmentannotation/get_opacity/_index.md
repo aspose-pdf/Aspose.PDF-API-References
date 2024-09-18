@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fileattachmentannotation/get_opacity/
 Gets icon's opacity from 0 to 1: 0 - completely transparant, 1 - completely opaque.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Annotations::FileAttachmentAnnotation::get_Opacity()
+double Aspose::Pdf::Annotations::FileAttachmentAnnotation::get_Opacity()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_a4/
 A4 size (297x210 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A4()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A4()
 ```
 
 ## See Also

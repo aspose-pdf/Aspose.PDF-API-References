@@ -4,7 +4,7 @@ linktitle: Family
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Family field of Aspose::Pdf::AssemblyConstants class in C++.'
 type: docs
-weight: 400
+weight: 100
 url: /cpp/aspose.pdf/assemblyconstants/family/
 ---
 ## Family field

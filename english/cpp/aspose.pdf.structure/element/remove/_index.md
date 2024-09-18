@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Structure::Element::Remove method. Remove element in C++.'
 type: docs
-weight: 1000
+weight: 600
 url: /cpp/aspose.pdf.structure/element/remove/
 ---
 ## Element::Remove method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/element/remove/
 Remove element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Structure::Element::Remove()
+void Aspose::Pdf::Structure::Element::Remove()
 ```
 
 ## See Also

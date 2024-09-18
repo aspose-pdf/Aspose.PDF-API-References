@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::ActionCollection::Remove method. Removes item from collection in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.pdf.annotations/actioncollection/remove/
 ---
 ## ActionCollection::Remove method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/actioncollection/remove/
 Removes item from collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::ActionCollection::Remove(const System::SharedPtr<PdfAction> &item) override
+bool Aspose::Pdf::Annotations::ActionCollection::Remove(const System::SharedPtr<PdfAction> &item) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::ActionCollection::Remove(co
 ### ReturnValue
 
 Not implemented.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Item to delete.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfAction](../../pdfaction/)

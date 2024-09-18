@@ -4,7 +4,7 @@ linktitle: WritingMode_TbRl
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::WritingMode_TbRl field. Attribute WritingMode: TbRl - Inline progression from top to bottom; block progression from right to left. This is the typical writing mode for Chinese and Japanese writing systems in C++.'
 type: docs
-weight: 1200
+weight: 7000
 url: /cpp/aspose.pdf.logicalstructure/attributename/writingmode_tbrl/
 ---
 ## WritingMode_TbRl field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/writingmode_tbrl/
 Attribute WritingMode: TbRl - Inline progression from top to bottom; block progression from right to left. This is the typical writing mode for Chinese and Japanese writing systems.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::WritingMode_TbRl
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::WritingMode_TbRl
 ```
 
 ## See Also

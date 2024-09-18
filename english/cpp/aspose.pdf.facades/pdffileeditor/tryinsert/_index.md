@@ -4,89 +4,16 @@ linktitle: TryInsert
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::TryInsert method. Inserts pages from an other file into the input Pdf file in C++.'
 type: docs
-weight: 6400
+weight: 6600
 url: /cpp/aspose.pdf.facades/pdffileeditor/tryinsert/
 ---
-## PdfFileEditor::TryInsert(System::String, int32_t, System::String, System::ArrayPtr\<int32_t\>, System::String) method
-
-
-Inserts pages from an other file into the input [Pdf](../../../aspose.pdf/) file.
-
-```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::String inputFile, int32_t insertLocation, System::String portFile, System::ArrayPtr<int32_t> pageNumber, System::String outputFile)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | System::String | Input [Pdf](../../../aspose.pdf/) file. |
-| insertLocation | int32_t | Insert position in input file. |
-| portFile | System::String | Pages from the [Pdf](../../../aspose.pdf/) file. |
-| pageNumber | System::ArrayPtr\<int32_t\> | The page number of the ported in portFile. |
-| outputFile | System::String | Output [Pdf](../../../aspose.pdf/) file. |
-
-### ReturnValue
-
-True for success, or false.
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>insertLocation</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Insert position in input file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>portFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Pages from the <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNumber</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page number of the ported in portFile.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>outputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-
-The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails. 
-## See Also
-
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## PdfFileEditor::TryInsert(System::SharedPtr\<System::IO::Stream\>, int32_t, System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<int32_t\>, System::SharedPtr\<System::IO::Stream\>) method
 
 
 Inserts pages from an other file into the input [Pdf](../../../aspose.pdf/) file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::SharedPtr<System::IO::Stream> inputStream, int32_t insertLocation, System::SharedPtr<System::IO::Stream> portStream, System::ArrayPtr<int32_t> pageNumber, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::SharedPtr<System::IO::Stream> inputStream, int32_t insertLocation, System::SharedPtr<System::IO::Stream> portStream, System::ArrayPtr<int32_t> pageNumber, System::SharedPtr<System::IO::Stream> outputStream)
 ```
 
 
@@ -104,122 +31,6 @@ true if operation completed successfully; otherwise, false.
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input Stream of <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>insertLocation</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Insert position in input file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>portStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream of <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> file for pages.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNumber</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page number of the ported in portFile.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>outputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Output Stream.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-
-The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails. 
-## See Also
-
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryInsert(System::String, int32_t, System::String, System::ArrayPtr\<int32_t\>, System::SharedPtr\<System::Web::HttpResponse\>) method
-
-
-Inserts contents of file into source file and stores result into HttpResponse object.
-
-```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::String inputFile, int32_t insertLocation, System::String portFile, System::ArrayPtr<int32_t> pageNumber, System::SharedPtr<System::Web::HttpResponse> response)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | System::String | Source file name. |
-| insertLocation | int32_t | [Page](../../../aspose.pdf/page/) number where second file will be inserted. |
-| portFile | System::String | Path to file which will be inserted. |
-| pageNumber | System::ArrayPtr\<int32_t\> | Array of page numbers in source file wihich will be inserted. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | Response object where result will be stored. |
-
-### ReturnValue
-
-true if operation completed successfully; otherwise, false.
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Source file name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>insertLocation</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> number where second file will be inserted.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>portFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Path to file which will be inserted.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNumber</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Array of page numbers in source file wihich will be inserted.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>response</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Response object where result will be stored.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 
 The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails. 
 ## See Also
@@ -233,7 +44,7 @@ The TryInsert method is like the Insert method, except the TryInsert method does
 Inserts document into other document and stores result into response object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::SharedPtr<System::IO::Stream> inputStream, int32_t insertLocation, System::SharedPtr<System::IO::Stream> portStream, System::ArrayPtr<int32_t> pageNumber, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::SharedPtr<System::IO::Stream> inputStream, int32_t insertLocation, System::SharedPtr<System::IO::Stream> portStream, System::ArrayPtr<int32_t> pageNumber, System::SharedPtr<System::Web::HttpResponse> response)
 ```
 
 
@@ -251,49 +62,68 @@ true if operation completed successfully; otherwise, false.
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream with source document</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>insertLocation</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Location where other document will be inserted.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>portStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_document" kindref="compound">Document</ref> to be inserted.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNumber</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Array of page numbers in second document which will be inserted.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>response</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Response object where result will be stored.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+
+The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails. 
+## See Also
+
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::TryInsert(System::String, int32_t, System::String, System::ArrayPtr\<int32_t\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+
+
+Inserts contents of file into source file and stores result into HttpResponse object.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::String inputFile, int32_t insertLocation, System::String portFile, System::ArrayPtr<int32_t> pageNumber, System::SharedPtr<System::Web::HttpResponse> response)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | System::String | Source file name. |
+| insertLocation | int32_t | [Page](../../../aspose.pdf/page/) number where second file will be inserted. |
+| portFile | System::String | Path to file which will be inserted. |
+| pageNumber | System::ArrayPtr\<int32_t\> | Array of page numbers in source file wihich will be inserted. |
+| response | System::SharedPtr\<System::Web::HttpResponse\> | Response object where result will be stored. |
+
+### ReturnValue
+
+true if operation completed successfully; otherwise, false.
+## Remarks
+
+
+
+The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails. 
+## See Also
+
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::TryInsert(System::String, int32_t, System::String, System::ArrayPtr\<int32_t\>, System::String) method
+
+
+Inserts pages from an other file into the input [Pdf](../../../aspose.pdf/) file.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileEditor::TryInsert(System::String inputFile, int32_t insertLocation, System::String portFile, System::ArrayPtr<int32_t> pageNumber, System::String outputFile)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | System::String | Input [Pdf](../../../aspose.pdf/) file. |
+| insertLocation | int32_t | Insert position in input file. |
+| portFile | System::String | Pages from the [Pdf](../../../aspose.pdf/) file. |
+| pageNumber | System::ArrayPtr\<int32_t\> | The page number of the ported in portFile. |
+| outputFile | System::String | Output [Pdf](../../../aspose.pdf/) file. |
+
+### ReturnValue
+
+True for success, or false.
+## Remarks
+
+
 
 The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails. 
 ## See Also

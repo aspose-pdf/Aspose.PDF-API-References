@@ -4,7 +4,7 @@ linktitle: GetWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::GetWidth method. Get width in C++.'
 type: docs
-weight: 4100
+weight: 2400
 url: /cpp/aspose.pdf/table/getwidth/
 ---
 ## Table::GetWidth method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/getwidth/
 Get width.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Table::GetWidth()
+double Aspose::Pdf::Table::GetWidth()
 ```
 
 

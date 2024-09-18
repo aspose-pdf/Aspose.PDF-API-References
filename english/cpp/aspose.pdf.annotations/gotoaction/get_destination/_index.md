@@ -4,7 +4,7 @@ linktitle: get_Destination
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::GoToAction::get_Destination method. Gets the destination to jump to in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/gotoaction/get_destination/
 ---
 ## GoToAction::get_Destination method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/gotoaction/get_destination/
 Gets the destination to jump to.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<IAppointment> Aspose::Pdf::Annotations::GoToAction::get_Destination()
+virtual System::SharedPtr<IAppointment> Aspose::Pdf::Annotations::GoToAction::get_Destination()
 ```
 
 ## See Also

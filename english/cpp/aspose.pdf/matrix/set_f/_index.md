@@ -4,7 +4,7 @@ linktitle: set_F
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::set_F method. F member of the transformation matrix in C++.'
 type: docs
-weight: 1300
+weight: 2200
 url: /cpp/aspose.pdf/matrix/set_f/
 ---
 ## Matrix::set_F method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/set_f/
 F member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Matrix::set_F(double value)
+void Aspose::Pdf::Matrix::set_F(double value)
 ```
 
 ## See Also

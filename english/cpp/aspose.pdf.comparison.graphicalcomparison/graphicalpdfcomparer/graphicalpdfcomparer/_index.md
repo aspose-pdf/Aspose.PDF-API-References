@@ -4,7 +4,7 @@ linktitle: GraphicalPdfComparer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::GraphicalPdfComparer constructor. Creates an instance of GraphicalPdfComparer class in C++.'
 type: docs
-weight: 700
+weight: 100
 url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/graphicalpdfcomparer/
 ---
 ## GraphicalPdfComparer::GraphicalPdfComparer constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison.graphicalcomparison/graphicalpdfcomparer/graphic
 Creates an instance of [GraphicalPdfComparer](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::GraphicalPdfComparer()
+Aspose::Pdf::Comparison::GraphicalComparison::GraphicalPdfComparer::GraphicalPdfComparer()
 ```
 
 ## See Also

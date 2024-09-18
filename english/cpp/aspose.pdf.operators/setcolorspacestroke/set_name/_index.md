@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetColorSpaceStroke::set_Name method. Sets color space name in C++.'
 type: docs
-weight: 200
+weight: 400
 url: /cpp/aspose.pdf.operators/setcolorspacestroke/set_name/
 ---
 ## SetColorSpaceStroke::set_Name method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorspacestroke/set_name/
 Sets color space name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetColorSpaceStroke::set_Name(System::String value)
+void Aspose::Pdf::Operators::SetColorSpaceStroke::set_Name(System::String value)
 ```
 
 ## See Also

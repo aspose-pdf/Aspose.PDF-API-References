@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textreplaceoptions/get_rightadjustment/
 Sets or gets right position adjustment for replaced text when using [TextReplaceOptions](../):
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextReplaceOptions::get_RightAdjustment() const
+double Aspose::Pdf::Text::TextReplaceOptions::get_RightAdjustment() const
 ```
 
 ## Remarks

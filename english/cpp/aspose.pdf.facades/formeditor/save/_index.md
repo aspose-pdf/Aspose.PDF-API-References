@@ -13,18 +13,15 @@ url: /cpp/aspose.pdf.facades/formeditor/save/
 Saves changes into destination file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormEditor::Save()
+void Aspose::Pdf::Facades::FormEditor::Save()
 ```
 
 ## Remarks
 
 
-<xrefsect id="deprecated_1_deprecated000040">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use Save(destination) method for saving facade results. </para>
-  </xrefdescription>
-</xrefsect>[FormEditor](../) formEditor = new [FormEditor](../)("InFile.pdf", "OutFile.pdf"); //make some changes... formEditor.Save(); 
+## Deprecated
+Use Save(destination) method for saving facade results. 
+[FormEditor](../) formEditor = new [FormEditor](../)("InFile.pdf", "OutFile.pdf"); //make some changes... formEditor.Save(); 
 ## See Also
 
 * Class [FormEditor](../)

@@ -4,7 +4,7 @@ linktitle: Fixup
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Fixup enum. This enum represents an type of Fixup in C++.'
 type: docs
-weight: 22300
+weight: 20000
 url: /cpp/aspose.pdf/fixup/
 ---
 ## Fixup enum

@@ -4,7 +4,7 @@ linktitle: set_Border
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::set_Border method. Sets the border in C++.'
 type: docs
-weight: 400
+weight: 1200
 url: /cpp/aspose.pdf.drawing/graph/set_border/
 ---
 ## Graph::set_Border method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/set_border/
 Sets the border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Graph::set_Border(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::Drawing::Graph::set_Border(System::SharedPtr<BorderInfo> value)
 ```
 
 ## See Also

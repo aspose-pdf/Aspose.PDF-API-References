@@ -4,7 +4,7 @@ linktitle: ContainsPoint
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::ContainsPoint method. Determines whether the given point is contained within the rectangle in C++.'
 type: docs
-weight: 2300
+weight: 600
 url: /cpp/aspose.pdf/rectangle/containspoint/
 ---
 ## Rectangle::ContainsPoint method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/containspoint/
 Determines whether the given point is contained within the rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::ContainsPoint(double x, double y)
+bool Aspose::Pdf::Rectangle::ContainsPoint(double x, double y)
 ```
 
 
@@ -25,27 +25,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Rectangle::ContainsPoint(double x, doubl
 ### ReturnValue
 
 **true** if the point is contained within the rectangle; otherwise, **false**.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>x</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>X-coordinate of the point.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>y</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Y-coordinate of the point.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../)

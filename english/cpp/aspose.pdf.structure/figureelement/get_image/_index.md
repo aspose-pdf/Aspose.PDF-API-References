@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/figureelement/get_image/
 Gets the value of figure structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Drawing::Image> Aspose::Pdf::Structure::FigureElement::get_Image()
+System::SharedPtr<System::Drawing::Image> Aspose::Pdf::Structure::FigureElement::get_Image()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix3d/getangle/
 Translates rotation into angle (degrees)
 
 ```cpp
-static ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix3D::GetAngle(Rotation rotation)
+static double Aspose::Pdf::Matrix3D::GetAngle(Rotation rotation)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix3D::GetAngle(Rotation rot
 ### ReturnValue
 
 Angle value.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rotation</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Rotation value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 
 ## See Also
 

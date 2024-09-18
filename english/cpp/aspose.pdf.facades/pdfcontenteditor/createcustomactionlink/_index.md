@@ -4,7 +4,7 @@ linktitle: CreateCustomActionLink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::CreateCustomActionLink method. Creates a link to custom actions in PDF document in C++.'
 type: docs
-weight: 1400
+weight: 1000
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/
 ---
 ## PdfContentEditor::CreateCustomActionLink method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/
 Creates a link to custom actions in PDF document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateCustomActionLink(System::Drawing::Rectangle rect, int32_t originalPage, System::Drawing::Color color, System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> actionName)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateCustomActionLink(System::Drawing::Rectangle rect, int32_t originalPage, System::Drawing::Color color, System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> actionName)
 ```
 
 
@@ -26,40 +26,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfContentEditor::CreateCustomA
 ## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The rectangle for active click.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>originalPage</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of original page where rectangle bound with link will be created.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>color</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The colour of rectangle for active click.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>actionName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+
 /// 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: set_Gray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetGray::set_Gray method. Sets the level of gray value in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.operators/setgray/set_gray/
 ---
 ## SetGray::set_Gray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setgray/set_gray/
 Sets the level of gray value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Operators::SetGray::set_Gray(double value)
+void Aspose::Pdf::Operators::SetGray::set_Gray(double value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_NumberingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::get_NumberingStyle method. Gets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase in C++.'
 type: docs
-weight: 2000
+weight: 1200
 url: /cpp/aspose.pdf.facades/pdffilestamp/get_numberingstyle/
 ---
 ## PdfFileStamp::get_NumberingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_numberingstyle/
 Gets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::NumberingStyle Aspose::Pdf::Facades::PdfFileStamp::get_NumberingStyle() const
+Aspose::Pdf::NumberingStyle Aspose::Pdf::Facades::PdfFileStamp::get_NumberingStyle() const
 ```
 
 ## See Also

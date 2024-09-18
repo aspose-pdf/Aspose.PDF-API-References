@@ -4,7 +4,7 @@ linktitle: set_CrashReportDirectory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CrashReportOptions::set_CrashReportDirectory method. Output directory for crash report. By default is set to current directory in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.pdf/crashreportoptions/set_crashreportdirectory/
 ---
 ## CrashReportOptions::set_CrashReportDirectory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/crashreportoptions/set_crashreportdirectory/
 Output directory for crash report. By default is set to current directory.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::CrashReportOptions::set_CrashReportDirectory(System::String value)
+void Aspose::Pdf::CrashReportOptions::set_CrashReportDirectory(System::String value)
 ```
 
 ## See Also

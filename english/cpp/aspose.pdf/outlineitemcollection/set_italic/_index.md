@@ -4,7 +4,7 @@ linktitle: set_Italic
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineItemCollection::set_Italic method. Sets italic flag for the title text of this outline item in C++.'
 type: docs
-weight: 1000
+weight: 3400
 url: /cpp/aspose.pdf/outlineitemcollection/set_italic/
 ---
 ## OutlineItemCollection::set_Italic method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/set_italic/
 Sets italic flag for the title text of this outline item.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::OutlineItemCollection::set_Italic(bool value)
+void Aspose::Pdf::OutlineItemCollection::set_Italic(bool value)
 ```
 
 ## See Also

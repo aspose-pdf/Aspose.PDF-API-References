@@ -4,7 +4,7 @@ linktitle: set_ParagraphAbsorberOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::ParagraphAbsorber::set_ParagraphAbsorberOptions method. Sets the ParagraphAbsorberOptions in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.text/paragraphabsorber/set_paragraphabsorberoptions/
 ---
 ## ParagraphAbsorber::set_ParagraphAbsorberOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/set_paragraphabsorberoptions/
 Sets the [ParagraphAbsorberOptions](../../paragraphabsorberoptions/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::ParagraphAbsorber::set_ParagraphAbsorberOptions(System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> value)
+void Aspose::Pdf::Text::ParagraphAbsorber::set_ParagraphAbsorberOptions(System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> value)
 ```
 
 ## See Also

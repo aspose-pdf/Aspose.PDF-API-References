@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/encryptedpayload/get_subtype/
 Gets subtype.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::EncryptedPayload::get_Subtype()
+System::String Aspose::Pdf::EncryptedPayload::get_Subtype()
 ```
 
 ## See Also

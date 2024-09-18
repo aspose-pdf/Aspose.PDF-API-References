@@ -4,7 +4,7 @@ linktitle: Placement
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::Placement field. Placement attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 500
+weight: 2700
 url: /cpp/aspose.pdf.logicalstructure/attributekey/placement/
 ---
 ## Placement field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/placement/
 Placement attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Placement
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::Placement
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_IsKeptWithNext
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BaseParagraph::set_IsKeptWithNext method. Sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation) in C++.'
 type: docs
-weight: 1000
+weight: 1700
 url: /cpp/aspose.pdf/baseparagraph/set_iskeptwithnext/
 ---
 ## BaseParagraph::set_IsKeptWithNext method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseparagraph/set_iskeptwithnext/
 Sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation)
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::BaseParagraph::set_IsKeptWithNext(bool value)
+void Aspose::Pdf::BaseParagraph::set_IsKeptWithNext(bool value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: cbegin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Structure::ElementCollection::cbegin method. Gets iterator pointing to the first const-qualified element (if any) of the collection in C++.'
 type: docs
-weight: 700
+weight: 200
 url: /cpp/aspose.pdf.structure/elementcollection/cbegin/
 ---
 ## ElementCollection::cbegin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.structure/elementcollection/cbegin/
 Gets iterator pointing to the first const-qualified element (if any) of the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const_iterator Aspose::Pdf::Structure::ElementCollection::cbegin() const noexcept
+const_iterator Aspose::Pdf::Structure::ElementCollection::cbegin() const noexcept
 ```
 
 

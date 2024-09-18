@@ -4,7 +4,7 @@ linktitle: Ruby
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Ruby field of Aspose::Pdf::LogicalStructure::StructureTypeStandard class in C++.'
 type: docs
-weight: 4400
+weight: 3900
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/ruby/
 ---
 ## Ruby field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/ruby/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Ruby
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Ruby
 ```
 
 ## Remarks

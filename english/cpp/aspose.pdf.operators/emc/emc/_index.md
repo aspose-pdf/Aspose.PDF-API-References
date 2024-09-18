@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/emc/emc/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::EMC::EMC()
+Aspose::Pdf::Operators::EMC::EMC()
 ```
 
 ## See Also

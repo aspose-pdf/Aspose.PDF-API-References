@@ -4,7 +4,7 @@ linktitle: set_IsRenderToSinglePage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlLoadOptions::set_IsRenderToSinglePage method. Sets rendering all document to single page in C++.'
 type: docs
-weight: 200
+weight: 1400
 url: /cpp/aspose.pdf/htmlloadoptions/set_isrendertosinglepage/
 ---
 ## HtmlLoadOptions::set_IsRenderToSinglePage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlloadoptions/set_isrendertosinglepage/
 Sets rendering all document to single page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HtmlLoadOptions::set_IsRenderToSinglePage(bool value)
+void Aspose::Pdf::HtmlLoadOptions::set_IsRenderToSinglePage(bool value)
 ```
 
 ## See Also

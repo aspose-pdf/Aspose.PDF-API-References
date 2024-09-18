@@ -4,7 +4,7 @@ linktitle: Code
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::Code field. (Code) A fragment of computer program text in C++.'
 type: docs
-weight: 4100
+weight: 1000
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/code/
 ---
 ## Code field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/code/
 (Code) A fragment of computer program text.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Code
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::Code
 ```
 
 ## See Also

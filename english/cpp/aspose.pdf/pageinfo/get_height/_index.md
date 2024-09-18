@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/get_height/
 Gets page height.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::PageInfo::get_Height() const
+double Aspose::Pdf::PageInfo::get_Height() const
 ```
 
 ## See Also

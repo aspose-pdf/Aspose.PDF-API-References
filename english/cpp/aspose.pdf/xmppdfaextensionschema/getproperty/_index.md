@@ -4,7 +4,7 @@ linktitle: GetProperty
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpPdfAExtensionSchema::GetProperty method. Returns PDF/A property by its name in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf/xmppdfaextensionschema/getproperty/
 ---
 ## XmpPdfAExtensionSchema::GetProperty method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/getproperty/
 Returns PDF/A property by its name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<XmpPdfAExtensionProperty> Aspose::Pdf::XmpPdfAExtensionSchema::GetProperty(System::String name)
+System::SharedPtr<XmpPdfAExtensionProperty> Aspose::Pdf::XmpPdfAExtensionSchema::GetProperty(System::String name)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<XmpPdfAExtensionProperty> Aspose::Pdf::X
 ### ReturnValue
 
 The property.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Property name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpPdfAExtensionProperty](../../xmppdfaextensionproperty/)

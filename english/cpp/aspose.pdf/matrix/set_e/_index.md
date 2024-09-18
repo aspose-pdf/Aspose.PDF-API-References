@@ -4,7 +4,7 @@ linktitle: set_E
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Matrix::set_E method. E member of the transformation matrix in C++.'
 type: docs
-weight: 1100
+weight: 2100
 url: /cpp/aspose.pdf/matrix/set_e/
 ---
 ## Matrix::set_E method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/set_e/
 E member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Matrix::set_E(double value)
+void Aspose::Pdf::Matrix::set_E(double value)
 ```
 
 ## See Also

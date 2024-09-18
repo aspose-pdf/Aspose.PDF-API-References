@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/textproperties/get_iscolorspecified/
 Gets a value that indicates whether the [Color](../../../aspose.pdf/color/) property is specified.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::TextProperties::get_IsColorSpecified() const
+bool Aspose::Pdf::Facades::TextProperties::get_IsColorSpecified() const
 ```
 
 ## See Also

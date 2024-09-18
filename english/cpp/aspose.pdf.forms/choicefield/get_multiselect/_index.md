@@ -4,7 +4,7 @@ linktitle: get_MultiSelect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ChoiceField::get_MultiSelect method. Gets multiselection flag in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.forms/choicefield/get_multiselect/
 ---
 ## ChoiceField::get_MultiSelect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/choicefield/get_multiselect/
 Gets multiselection flag.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::ChoiceField::get_MultiSelect()
+bool Aspose::Pdf::Forms::ChoiceField::get_MultiSelect()
 ```
 
 ## See Also

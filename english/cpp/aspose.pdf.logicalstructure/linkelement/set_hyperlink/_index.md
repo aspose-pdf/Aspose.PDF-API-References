@@ -4,7 +4,7 @@ linktitle: set_Hyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::LinkElement::set_Hyperlink method. Gets or Sets Hyperlink for Link Element in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.logicalstructure/linkelement/set_hyperlink/
 ---
 ## LinkElement::set_Hyperlink method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/linkelement/set_hyperlink/
 Gets or Sets [Hyperlink](../../../aspose.pdf/hyperlink/) for Link [Element](../../element/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::LinkElement::set_Hyperlink(System::SharedPtr<Aspose::Pdf::Hyperlink> value)
+void Aspose::Pdf::LogicalStructure::LinkElement::set_Hyperlink(System::SharedPtr<Aspose::Pdf::Hyperlink> value)
 ```
 
 ## See Also

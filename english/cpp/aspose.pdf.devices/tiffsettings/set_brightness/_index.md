@@ -4,7 +4,7 @@ linktitle: set_Brightness
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::set_Brightness method. Get or sets a value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle or ColorDepth.Format1bpp == 1 in C++.'
 type: docs
-weight: 1100
+weight: 900
 url: /cpp/aspose.pdf.devices/tiffsettings/set_brightness/
 ---
 ## TiffSettings::set_Brightness method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/set_brightness/
 Get or sets a value boundary of the transformation of colors in white and black. This parameter can be applied with EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle or [ColorDepth.Format1bpp](../../colordepth/) == 1.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Devices::TiffSettings::set_Brightness(float value)
+void Aspose::Pdf::Devices::TiffSettings::set_Brightness(float value)
 ```
 
 ## Remarks

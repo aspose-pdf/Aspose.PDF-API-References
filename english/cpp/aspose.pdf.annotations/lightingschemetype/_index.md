@@ -4,7 +4,7 @@ linktitle: LightingSchemeType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LightingSchemeType enum. Enum LightingSchemeType: set of lighting scheme types in C++.'
 type: docs
-weight: 13600
+weight: 13700
 url: /cpp/aspose.pdf.annotations/lightingschemetype/
 ---
 ## LightingSchemeType enum

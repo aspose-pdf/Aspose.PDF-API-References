@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/systemfontsource/systemfontsource/
 Initializes a new instance of [SystemFontSource](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::SystemFontSource::SystemFontSource()
+Aspose::Pdf::Text::SystemFontSource::SystemFontSource()
 ```
 
 ## See Also

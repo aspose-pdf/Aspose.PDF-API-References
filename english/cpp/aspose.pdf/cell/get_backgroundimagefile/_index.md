@@ -4,7 +4,7 @@ linktitle: get_BackgroundImageFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_BackgroundImageFile method. Gets the background image file in C++.'
 type: docs
-weight: 900
+weight: 600
 url: /cpp/aspose.pdf/cell/get_backgroundimagefile/
 ---
 ## Cell::get_BackgroundImageFile method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf/cell/get_backgroundimagefile/
 Gets the background image file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Cell::get_BackgroundImageFile() const
+System::String Aspose::Pdf::Cell::get_BackgroundImageFile() const
 ```
 
-## Remarks
 
+## Deprecated
+Property was expanded please use BackgroundImage 
 
-<xrefsect id="deprecated_1_deprecated000141">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Property was expanded please use BackgroundImage </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [Cell](../)

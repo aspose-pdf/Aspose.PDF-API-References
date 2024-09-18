@@ -4,7 +4,7 @@ linktitle: set_Height
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageInfo::set_Height method. Sets page height in C++.'
 type: docs
-weight: 600
+weight: 1200
 url: /cpp/aspose.pdf/pageinfo/set_height/
 ---
 ## PageInfo::set_Height method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/set_height/
 Sets page height.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PageInfo::set_Height(double value)
+void Aspose::Pdf::PageInfo::set_Height(double value)
 ```
 
 ## See Also

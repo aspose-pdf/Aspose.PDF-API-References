@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::set_Position method. Sets position of the paragraph in C++.'
 type: docs
-weight: 1400
+weight: 2100
 url: /cpp/aspose.pdf.text/textparagraph/set_position/
 ---
 ## TextParagraph::set_Position method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/set_position/
 Sets position of the paragraph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextParagraph::set_Position(System::SharedPtr<Aspose::Pdf::Text::Position> value)
+void Aspose::Pdf::Text::TextParagraph::set_Position(System::SharedPtr<Aspose::Pdf::Text::Position> value)
 ```
 
 ## See Also

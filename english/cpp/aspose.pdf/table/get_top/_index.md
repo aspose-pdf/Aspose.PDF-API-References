@@ -4,7 +4,7 @@ linktitle: get_Top
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::get_Top method. Gets the table top coordinate in C++.'
 type: docs
-weight: 3200
+weight: 2200
 url: /cpp/aspose.pdf/table/get_top/
 ---
 ## Table::get_Top method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/get_top/
 Gets the table top coordinate.
 
 ```cpp
-ASPOSE_PDF_SHARED_API float Aspose::Pdf::Table::get_Top() const
+float Aspose::Pdf::Table::get_Top() const
 ```
 
 ## See Also

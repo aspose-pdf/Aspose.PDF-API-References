@@ -4,7 +4,7 @@ linktitle: CoversWholeDocument
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDocument method. Checks if the signature covers the whole document in C++.'
 type: docs
-weight: 1900
+weight: 700
 url: /cpp/aspose.pdf.facades/pdffilesignature/coverswholedocument/
 ---
 ## PdfFileSignature::CoversWholeDocument method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/coverswholedocument/
 Checks if the signature covers the whole document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDocument(System::String signName)
+bool Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDocument(System::String signName)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDo
 ### ReturnValue
 
 Return a result of bool type.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>signName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The name of signature.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileSignature](../)

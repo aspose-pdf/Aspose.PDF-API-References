@@ -4,7 +4,7 @@ linktitle: get_BorderColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RedactionAnnotation::get_BorderColor method. Gets color of border which is drawn when redaction is not active in C++.'
 type: docs
-weight: 700
+weight: 400
 url: /cpp/aspose.pdf.annotations/redactionannotation/get_bordercolor/
 ---
 ## RedactionAnnotation::get_BorderColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/get_bordercolor/
 Gets color of border which is drawn when redaction is not active.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::Annotations::RedactionAnnotation::get_BorderColor()
+System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::Annotations::RedactionAnnotation::get_BorderColor()
 ```
 
 ## See Also

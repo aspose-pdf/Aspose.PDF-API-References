@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Utils::PublicData::CosPdfBoolean::Equals method. // in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pdf.utils.publicdata/cospdfboolean/equals/
 ---
 ## CosPdfBoolean::Equals method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.utils.publicdata/cospdfboolean/equals/
 //
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Utils::PublicData::CosPdfBoolean::Equals(System::SharedPtr<System::Object> obj) override
+bool Aspose::Pdf::Utils::PublicData::CosPdfBoolean::Equals(System::SharedPtr<System::Object> obj) override
 ```
 
 
@@ -29,16 +29,6 @@ true if specified object is equal to the current object; otherwise, false.
 
 Determines that the specified object is equal to the current object.
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>obj</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The object to compare with current object</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CosPdfBoolean](../)

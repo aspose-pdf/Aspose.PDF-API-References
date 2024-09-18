@@ -4,7 +4,7 @@ linktitle: set_UriResolver
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XfaConverter::XfaParserOptions::set_UriResolver method. Sets the URI resolver in C++.'
 type: docs
-weight: 200
+weight: 1100
 url: /cpp/aspose.pdf.xfaconverter/xfaparseroptions/set_uriresolver/
 ---
 ## XfaParserOptions::set_UriResolver method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.xfaconverter/xfaparseroptions/set_uriresolver/
 Sets the URI resolver.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::XfaConverter::XfaParserOptions::set_UriResolver(System::SharedPtr<Aspose::Foundation::UriResolver::UriResolver> value)
+void Aspose::Pdf::XfaConverter::XfaParserOptions::set_UriResolver(System::SharedPtr<Aspose::Foundation::UriResolver::UriResolver> value)
 ```
 
 ## Remarks

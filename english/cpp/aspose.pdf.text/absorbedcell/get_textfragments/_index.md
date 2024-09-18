@@ -4,7 +4,7 @@ linktitle: get_TextFragments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::AbsorbedCell::get_TextFragments method. Gets collection of TextFragment objects that describes text containing in the cell in C++.'
 type: docs
-weight: 100
+weight: 500
 url: /cpp/aspose.pdf.text/absorbedcell/get_textfragments/
 ---
 ## AbsorbedCell::get_TextFragments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/absorbedcell/get_textfragments/
 Gets collection of [TextFragment](../../textfragment/) objects that describes text containing in the cell.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextFragmentCollection> Aspose::Pdf::Text::AbsorbedCell::get_TextFragments() const
+System::SharedPtr<TextFragmentCollection> Aspose::Pdf::Text::AbsorbedCell::get_TextFragments() const
 ```
 
 ## See Also

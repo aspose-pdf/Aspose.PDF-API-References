@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AppearanceDictionary::Clear method. Removes all elements from the dictionary in C++.'
 type: docs
-weight: 800
+weight: 200
 url: /cpp/aspose.pdf.annotations/appearancedictionary/clear/
 ---
 ## AppearanceDictionary::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/appearancedictionary/clear/
 Removes all elements from the dictionary.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::AppearanceDictionary::Clear() override
+void Aspose::Pdf::Annotations::AppearanceDictionary::Clear() override
 ```
 
 ## See Also

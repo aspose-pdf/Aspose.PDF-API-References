@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metered/ismeteredlicensed/
 Check whether metered is licensed.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Metered::IsMeteredLicensed()
+static bool Aspose::Pdf::Metered::IsMeteredLicensed()
 ```
 
 

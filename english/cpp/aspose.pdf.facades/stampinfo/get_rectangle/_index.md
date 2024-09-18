@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/stampinfo/get_rectangle/
 Gets rectangle where stamp is placed.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Facades::StampInfo::get_Rectangle() const
+System::SharedPtr<Aspose::Pdf::Rectangle> Aspose::Pdf::Facades::StampInfo::get_Rectangle() const
 ```
 
 ## See Also

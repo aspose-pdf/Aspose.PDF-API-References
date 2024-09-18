@@ -4,7 +4,7 @@ linktitle: get_Names
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::INamedDestinationCollection::get_Names method. Gets array of names of the destinations in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/inameddestinationcollection/get_names/
 ---
 ## INamedDestinationCollection::get_Names method

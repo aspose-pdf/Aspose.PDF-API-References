@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/bitmapinfo/get_height/
 Gets the height of the bitmap.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::BitmapInfo::get_Height() const
+int32_t Aspose::Pdf::BitmapInfo::get_Height() const
 ```
 
 ## See Also

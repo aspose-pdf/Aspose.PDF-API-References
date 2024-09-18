@@ -4,7 +4,7 @@ linktitle: set_TocPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::set_TocPage method. Gets the page that contains this heading in C++.'
 type: docs
-weight: 200
+weight: 1900
 url: /cpp/aspose.pdf/heading/set_tocpage/
 ---
 ## Heading::set_TocPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/set_tocpage/
 Gets the page that contains this heading.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Heading::set_TocPage(System::SharedPtr<Aspose::Pdf::Page> value)
+void Aspose::Pdf::Heading::set_TocPage(System::SharedPtr<Aspose::Pdf::Page> value)
 ```
 
 ## See Also

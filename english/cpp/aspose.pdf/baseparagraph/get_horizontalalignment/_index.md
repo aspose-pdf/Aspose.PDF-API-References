@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseparagraph/get_horizontalalignment/
 Gets a horizontal alignment of paragraph.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API Aspose::Pdf::HorizontalAlignment Aspose::Pdf::BaseParagraph::get_HorizontalAlignment()
+virtual Aspose::Pdf::HorizontalAlignment Aspose::Pdf::BaseParagraph::get_HorizontalAlignment()
 ```
 
 ## See Also

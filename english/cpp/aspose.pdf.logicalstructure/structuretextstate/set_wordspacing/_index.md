@@ -4,7 +4,7 @@ linktitle: set_WordSpacing
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::set_WordSpacing method. Sets word spacing of the text in C++.'
 type: docs
-weight: 2600
+weight: 2800
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_wordspacing/
 ---
 ## StructureTextState::set_WordSpacing method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_wordspacing/
 Sets word spacing of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::StructureTextState::set_WordSpacing(System::Nullable<float> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_WordSpacing(System::Nullable<float> value)
 ```
 
 ## Remarks

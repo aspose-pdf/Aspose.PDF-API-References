@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textextractionerrorlocation/get_objecttype/
 Type of the PDF object ([Page](../../../aspose.pdf/page/) or xForm) in which contents stream text extraction error has located.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Text::TextExtractionErrorLocation::get_ObjectType() const
+System::String Aspose::Pdf::Text::TextExtractionErrorLocation::get_ObjectType() const
 ```
 
 ## See Also

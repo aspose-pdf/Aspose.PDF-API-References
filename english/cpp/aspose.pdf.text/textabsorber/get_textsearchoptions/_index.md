@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textabsorber/get_textsearchoptions/
 Gets text search options.
 
 ```cpp
-virtual ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> Aspose::Pdf::Text::TextAbsorber::get_TextSearchOptions()
+virtual System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> Aspose::Pdf::Text::TextAbsorber::get_TextSearchOptions()
 ```
 
 ## Remarks

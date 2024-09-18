@@ -4,7 +4,7 @@ linktitle: get_SignaturesAppendOnly
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Form::get_SignaturesAppendOnly method. If set, the document contains signatures that may be invalidated if the file is saved (written) in a way that alters its previous contents, as opposed to an incremental update in C++.'
 type: docs
-weight: 2300
+weight: 1700
 url: /cpp/aspose.pdf.forms/form/get_signaturesappendonly/
 ---
 ## Form::get_SignaturesAppendOnly method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/get_signaturesappendonly/
 If set, the document contains signatures that may be invalidated if the file is saved (written) in a way that alters its previous contents, as opposed to an incremental update.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Form::get_SignaturesAppendOnly()
+bool Aspose::Pdf::Forms::Form::get_SignaturesAppendOnly()
 ```
 
 ## See Also

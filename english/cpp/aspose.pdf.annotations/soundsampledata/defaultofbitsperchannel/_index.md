@@ -4,7 +4,7 @@ linktitle: DefaultOfBitsPerChannel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundSampleData::DefaultOfBitsPerChannel field. Default value for BitsPerchannel parameter in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/
 ---
 ## DefaultOfBitsPerChannel field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/
 Default value for BitsPerchannel parameter.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SoundSampleData::DefaultOfBitsPerChannel
+static const int32_t Aspose::Pdf::Annotations::SoundSampleData::DefaultOfBitsPerChannel
 ```
 
 ## See Also

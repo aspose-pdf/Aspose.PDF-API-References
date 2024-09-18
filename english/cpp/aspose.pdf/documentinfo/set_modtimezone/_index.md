@@ -4,7 +4,7 @@ linktitle: set_ModTimeZone
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocumentInfo::set_ModTimeZone method. Time zone of modification date in C++.'
 type: docs
-weight: 1800
+weight: 2500
 url: /cpp/aspose.pdf/documentinfo/set_modtimezone/
 ---
 ## DocumentInfo::set_ModTimeZone method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/set_modtimezone/
 Time zone of modification date.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::DocumentInfo::set_ModTimeZone(System::TimeSpan value)
+void Aspose::Pdf::DocumentInfo::set_ModTimeZone(System::TimeSpan value)
 ```
 
 ## See Also

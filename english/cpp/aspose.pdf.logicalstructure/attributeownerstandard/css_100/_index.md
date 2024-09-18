@@ -4,7 +4,7 @@ linktitle: Css_100
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Css_100 method. CSS-1.00 attribute owner in C++.'
 type: docs
-weight: 1200
+weight: 300
 url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/css_100/
 ---
 ## AttributeOwnerStandard::Css_100 method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/css_100/
 CSS-1.00 attribute owner.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Css_100()
+static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Css_100()
 ```
 
 ## See Also

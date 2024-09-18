@@ -4,7 +4,7 @@ linktitle: get_DarkOrange
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_DarkOrange method. Gets a system-defined color that has an ARGB value of #FFFF8C00 in C++.'
 type: docs
-weight: 4000
+weight: 4300
 url: /cpp/aspose.pdf/color/get_darkorange/
 ---
 ## Color::get_DarkOrange method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_darkorange/
 Gets a system-defined color that has an ARGB value of **#FFFF8C00**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_DarkOrange()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_DarkOrange()
 ```
 
 

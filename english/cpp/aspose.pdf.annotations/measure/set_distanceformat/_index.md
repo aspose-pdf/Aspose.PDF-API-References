@@ -4,7 +4,7 @@ linktitle: set_DistanceFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Measure::set_DistanceFormat method. A number format array for measurement of distance in any direction in C++.'
 type: docs
-weight: 800
+weight: 1300
 url: /cpp/aspose.pdf.annotations/measure/set_distanceformat/
 ---
 ## Measure::set_DistanceFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_distanceformat/
 A number format array for measurement of distance in any direction.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Measure::set_DistanceFormat(System::SharedPtr<Measure::NumberFormatList> value)
+void Aspose::Pdf::Annotations::Measure::set_DistanceFormat(System::SharedPtr<Measure::NumberFormatList> value)
 ```
 
 ## See Also

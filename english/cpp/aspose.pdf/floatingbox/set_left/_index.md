@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_left/
 Sets the table left coordinate.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::FloatingBox::set_Left(double value)
+void Aspose::Pdf::FloatingBox::set_Left(double value)
 ```
 
 ## See Also

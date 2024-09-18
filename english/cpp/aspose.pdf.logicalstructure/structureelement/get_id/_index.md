@@ -4,7 +4,7 @@ linktitle: get_ID
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::get_ID method. Gets the ID for structure element in C++.'
 type: docs
-weight: 400
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/structureelement/get_id/
 ---
 ## StructureElement::get_ID method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/get_id/
 Gets the ID for structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::StructureElement::get_ID()
+System::String Aspose::Pdf::LogicalStructure::StructureElement::get_ID()
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::Annotations::FileIconConverter class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.annotations/fileiconconverter/toenum/
 ---
 ## FileIconConverter::ToEnum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fileiconconverter/toenum/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API FileIcon Aspose::Pdf::Annotations::FileIconConverter::ToEnum(System::String value)
+static FileIcon Aspose::Pdf::Annotations::FileIconConverter::ToEnum(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: DocumentPrinted
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::DocumentPrinted field. A document event type. Excute a action after printing in C++.'
 type: docs
-weight: 5600
+weight: 5300
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/documentprinted/
 ---
 ## DocumentPrinted field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/documentprinted/
 A document event type. Excute a action after printing.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfContentEditor::DocumentPrinted
+static const System::String Aspose::Pdf::Facades::PdfContentEditor::DocumentPrinted
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/update/
 Updates data with specified parameters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::RichMediaAnnotation::Update()
+void Aspose::Pdf::Annotations::RichMediaAnnotation::Update()
 ```
 
 ## See Also

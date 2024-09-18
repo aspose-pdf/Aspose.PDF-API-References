@@ -4,7 +4,7 @@ linktitle: get_FontSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::get_FontSize method. Gets font size of the text in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_fontsize/
 ---
 ## StructureTextState::get_FontSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_fontsize/
 Gets font size of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<float> Aspose::Pdf::LogicalStructure::StructureTextState::get_FontSize() const
+System::Nullable<float> Aspose::Pdf::LogicalStructure::StructureTextState::get_FontSize() const
 ```
 
 ## Remarks

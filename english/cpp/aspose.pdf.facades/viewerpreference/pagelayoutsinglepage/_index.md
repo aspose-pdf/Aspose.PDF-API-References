@@ -4,7 +4,7 @@ linktitle: PageLayoutSinglePage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::ViewerPreference::PageLayoutSinglePage field. Display one page at a time in C++.'
 type: docs
-weight: 400
+weight: 1600
 url: /cpp/aspose.pdf.facades/viewerpreference/pagelayoutsinglepage/
 ---
 ## PageLayoutSinglePage field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/viewerpreference/pagelayoutsinglepage/
 Display one page at a time.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::ViewerPreference::PageLayoutSinglePage
+static int32_t Aspose::Pdf::Facades::ViewerPreference::PageLayoutSinglePage
 ```
 
 ## See Also

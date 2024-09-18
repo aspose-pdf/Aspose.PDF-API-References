@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicElementCollection::Contains method. Determines whether an element is in the collection in C++.'
 type: docs
-weight: 600
+weight: 400
 url: /cpp/aspose.pdf.vector/graphicelementcollection/contains/
 ---
 ## GraphicElementCollection::Contains method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicelementcollection/contains/
 Determines whether an element is in the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Vector::GraphicElementCollection::Contains(const System::SharedPtr<GraphicElement> &item) const override
+bool Aspose::Pdf::Vector::GraphicElementCollection::Contains(const System::SharedPtr<GraphicElement> &item) const override
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Vector::GraphicElementCollection::Contai
 ### ReturnValue
 
 True - if element found; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_vector_1_1_graphic_element" kindref="compound">GraphicElement</ref> to search.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [GraphicElement](../../graphicelement/)

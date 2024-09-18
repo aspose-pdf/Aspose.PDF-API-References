@@ -4,7 +4,7 @@ linktitle: get_Style
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::get_Style method. Gets style in C++.'
 type: docs
-weight: 1500
+weight: 900
 url: /cpp/aspose.pdf/heading/get_style/
 ---
 ## Heading::get_Style method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/get_style/
 Gets style.
 
 ```cpp
-ASPOSE_PDF_SHARED_API NumberingStyle Aspose::Pdf::Heading::get_Style() const
+NumberingStyle Aspose::Pdf::Heading::get_Style() const
 ```
 
 ## See Also

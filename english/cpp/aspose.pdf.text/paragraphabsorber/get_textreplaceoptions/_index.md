@@ -4,7 +4,7 @@ linktitle: get_TextReplaceOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::ParagraphAbsorber::get_TextReplaceOptions method. Gets the TextReplaceOptions in C++.'
 type: docs
-weight: 800
+weight: 600
 url: /cpp/aspose.pdf.text/paragraphabsorber/get_textreplaceoptions/
 ---
 ## ParagraphAbsorber::get_TextReplaceOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/get_textreplaceoptions/
 Gets the [TextReplaceOptions](../../textreplaceoptions/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> Aspose::Pdf::Text::ParagraphAbsorber::get_TextReplaceOptions() const
+System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> Aspose::Pdf::Text::ParagraphAbsorber::get_TextReplaceOptions() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagesize/get_a5/
 A5 size (210x148 mm).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A5()
+static System::SharedPtr<PageSize> Aspose::Pdf::PageSize::get_A5()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_ClipsAndMatrices
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::GraphicState::get_ClipsAndMatrices method. Gets the operators representing clips and concatenation matrices in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.vector/graphicstate/get_clipsandmatrices/
 ---
 ## GraphicState::get_ClipsAndMatrices method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicstate/get_clipsandmatrices/
 Gets the operators representing clips and concatenation matrices.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Operator>>> Aspose::Pdf::Vector::GraphicState::get_ClipsAndMatrices() const
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Operator>>> Aspose::Pdf::Vector::GraphicState::get_ClipsAndMatrices() const
 ```
 
 ## See Also

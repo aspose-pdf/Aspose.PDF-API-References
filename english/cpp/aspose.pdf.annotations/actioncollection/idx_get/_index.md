@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::ActionCollection::idx_get method. Gets action by its index in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.pdf.annotations/actioncollection/idx_get/
 ---
 ## ActionCollection::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/actioncollection/idx_get/
 Gets action by its index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::ActionCollection::idx_get(int32_t index)
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::ActionCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::Act
 ### ReturnValue
 
 Retreived action.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of action.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfAction](../../pdfaction/)

@@ -4,7 +4,7 @@ linktitle: RubyPosition_Inline
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::RubyPosition_Inline field. Attribute RubyPosition: Inline - The RT and associated RP elements shall be formatted as a parenthesis comment, following the RB element in C++.'
 type: docs
-weight: 5000
+weight: 5400
 url: /cpp/aspose.pdf.logicalstructure/attributename/rubyposition_inline/
 ---
 ## RubyPosition_Inline field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/rubyposition_inline/
 Attribute RubyPosition: Inline - The RT and associated RP elements shall be formatted as a parenthesis comment, following the RB element.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::RubyPosition_Inline
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::RubyPosition_Inline
 ```
 
 ## See Also

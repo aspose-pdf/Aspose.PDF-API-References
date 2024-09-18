@@ -4,7 +4,7 @@ linktitle: Rows
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Rows constructor of Aspose::Pdf::Rows class in C++.'
 type: docs
-weight: 1100
+weight: 100
 url: /cpp/aspose.pdf/rows/rows/
 ---
 ## Rows::Rows constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/rows/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Rows::Rows()
+Aspose::Pdf::Rows::Rows()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_FormattingOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::get_FormattingOptions method. Gets formatting options. Setting of the options will be effective in generator scenarios only in C++.'
 type: docs
-weight: 3600
+weight: 1100
 url: /cpp/aspose.pdf.text/textfragmentstate/get_formattingoptions/
 ---
 ## TextFragmentState::get_FormattingOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/get_formattingoptions/
 Gets formatting options. Setting of the options will be effective in generator scenarios only.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<TextFormattingOptions> Aspose::Pdf::Text::TextFragmentState::get_FormattingOptions() const
+System::SharedPtr<TextFormattingOptions> Aspose::Pdf::Text::TextFragmentState::get_FormattingOptions() const
 ```
 
 ## See Also

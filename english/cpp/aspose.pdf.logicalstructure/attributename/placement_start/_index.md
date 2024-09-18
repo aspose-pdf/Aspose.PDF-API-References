@@ -4,7 +4,7 @@ linktitle: Placement_Start
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Placement_Start field. Attribute Placement: Start - Placed so that the start edge of the element''s allocation rectangle coincides with that of the nearest enclosing reference area in C++.'
 type: docs
-weight: 800
+weight: 4200
 url: /cpp/aspose.pdf.logicalstructure/attributename/placement_start/
 ---
 ## Placement_Start field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/placement_start/
 Attribute Placement: Start - Placed so that the start edge of the element's allocation rectangle coincides with that of the nearest enclosing reference area.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Placement_Start
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Placement_Start
 ```
 
 ## See Also

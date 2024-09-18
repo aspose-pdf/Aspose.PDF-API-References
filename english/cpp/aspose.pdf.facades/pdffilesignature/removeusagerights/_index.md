@@ -4,7 +4,7 @@ linktitle: RemoveUsageRights
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::RemoveUsageRights method. Removes the usage rights entry in C++.'
 type: docs
-weight: 2200
+weight: 2800
 url: /cpp/aspose.pdf.facades/pdffilesignature/removeusagerights/
 ---
 ## PdfFileSignature::RemoveUsageRights method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/removeusagerights/
 Removes the usage rights entry.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSignature::RemoveUsageRights()
+void Aspose::Pdf::Facades::PdfFileSignature::RemoveUsageRights()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_BitsPerChannel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundSampleData::get_BitsPerChannel method. Gets the number of bits per sample value per channel in C++.'
 type: docs
-weight: 500
+weight: 200
 url: /cpp/aspose.pdf.annotations/soundsampledata/get_bitsperchannel/
 ---
 ## SoundSampleData::get_BitsPerChannel method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundsampledata/get_bitsperchannel/
 Gets the number of bits per sample value per channel.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SoundSampleData::get_BitsPerChannel() const
+int32_t Aspose::Pdf::Annotations::SoundSampleData::get_BitsPerChannel() const
 ```
 
 ## See Also

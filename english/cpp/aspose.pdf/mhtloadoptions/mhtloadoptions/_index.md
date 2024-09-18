@@ -4,7 +4,7 @@ linktitle: MhtLoadOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::MhtLoadOptions::MhtLoadOptions constructor. Creates load options for converting html into pdf document with empty base path in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf/mhtloadoptions/mhtloadoptions/
 ---
 ## MhtLoadOptions::MhtLoadOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/mhtloadoptions/mhtloadoptions/
 Creates load options for converting html into pdf document with empty base path.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::MhtLoadOptions::MhtLoadOptions()
+Aspose::Pdf::MhtLoadOptions::MhtLoadOptions()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: TextState
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::TextState constructor. Creates text state object in C++.'
 type: docs
-weight: 3800
+weight: 100
 url: /cpp/aspose.pdf.text/textstate/textstate/
 ---
 ## TextState::TextState() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/textstate/
 Creates text state object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState()
+Aspose::Pdf::Text::TextState::TextState()
 ```
 
 ## See Also
@@ -27,27 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState()
 Creates text state object with font size specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(double fontSize)
+Aspose::Pdf::Text::TextState::TextState(double fontSize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontSize | double | [Font](../../font/) size. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fontSize</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font" kindref="compound">Font</ref> size.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)
@@ -59,26 +46,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(double fontSize)
 Creates text state object with foreground color specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::Drawing::Color foregroundColor)
+Aspose::Pdf::Text::TextState::TextState(System::Drawing::Color foregroundColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | foregroundColor | System::Drawing::Color | Foreground color. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>foregroundColor</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Foreground color.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)
@@ -90,7 +65,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::Drawing::C
 Creates text state object with foreground color and font size specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::Drawing::Color foregroundColor, double fontSize)
+Aspose::Pdf::Text::TextState::TextState(System::Drawing::Color foregroundColor, double fontSize)
 ```
 
 
@@ -98,28 +73,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::Drawing::C
 | --- | --- | --- |
 | foregroundColor | System::Drawing::Color | Foreground color. |
 | fontSize | double | [Font](../../font/) size. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>foregroundColor</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Foreground color.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fontSize</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font" kindref="compound">Font</ref> size.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)
@@ -131,27 +85,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::Drawing::C
 Creates text state object with font family specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::String fontFamily)
+Aspose::Pdf::Text::TextState::TextState(System::String fontFamily)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontFamily | System::String | [Font](../../font/) family. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fontFamily</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font" kindref="compound">Font</ref> family.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)
@@ -163,7 +104,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::String fon
 Creates text state object with font family and font style specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, bool bold, bool italic)
+Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, bool bold, bool italic)
 ```
 
 
@@ -172,36 +113,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::String fon
 | fontFamily | System::String | [Font](../../font/) family. |
 | bold | bool | Bold font style. |
 | italic | bool | Italic font style. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fontFamily</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font" kindref="compound">Font</ref> family.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>bold</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Bold font style.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>italic</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Italic font style.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)
@@ -213,7 +125,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::String fon
 Creates text state object with font family and font size specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, double fontSize)
+Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, double fontSize)
 ```
 
 
@@ -221,29 +133,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::TextState::TextState(System::String fon
 | --- | --- | --- |
 | fontFamily | System::String | [Font](../../font/) family. |
 | fontSize | double | [Font](../../font/) size. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fontFamily</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font" kindref="compound">Font</ref> family.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fontSize</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_font" kindref="compound">Font</ref> size.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)

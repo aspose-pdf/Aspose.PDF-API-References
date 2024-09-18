@@ -4,7 +4,7 @@ linktitle: get_Compression
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Devices::TiffSettings::get_Compression method. Gets the type of the compression in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.devices/tiffsettings/get_compression/
 ---
 ## TiffSettings::get_Compression method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/tiffsettings/get_compression/
 Gets the type of the compression.
 
 ```cpp
-ASPOSE_PDF_SHARED_API CompressionType Aspose::Pdf::Devices::TiffSettings::get_Compression() const
+CompressionType Aspose::Pdf::Devices::TiffSettings::get_Compression() const
 ```
 
 ## Remarks

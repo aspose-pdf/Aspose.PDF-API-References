@@ -4,7 +4,7 @@ linktitle: get_BorderStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::get_BorderStyle method. The style of a field border in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.facades/formfieldfacade/get_borderstyle/
 ---
 ## FormFieldFacade::get_BorderStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/get_borderstyle/
 The style of a field border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::get_BorderStyle() const
+int32_t Aspose::Pdf::Facades::FormFieldFacade::get_BorderStyle() const
 ```
 
 ## See Also

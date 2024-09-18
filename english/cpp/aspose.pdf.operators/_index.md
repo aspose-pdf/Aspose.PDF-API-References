@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Operators
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Operators namespace in C++.'
 type: docs
-weight: 2300
+weight: 1700
 url: /cpp/aspose.pdf.operators/
 ---
 
@@ -100,5 +100,5 @@ url: /cpp/aspose.pdf.operators/
 
 | Enum | Description |
 | --- | --- |
-| [LineJoin](./linejoin/) | The line join style shall specify the shape to be used at the corners of paths that are stroked. |
 | [LineCap](./linecap/) | The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they are stroked. |
+| [LineJoin](./linejoin/) | The line join style shall specify the shape to be used at the corners of paths that are stroked. |

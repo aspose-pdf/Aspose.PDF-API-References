@@ -4,7 +4,7 @@ linktitle: get_Open
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::get_Open method. Gets bookmark state (open, close) in C++.'
 type: docs
-weight: 3500
+weight: 1000
 url: /cpp/aspose.pdf.facades/bookmark/get_open/
 ---
 ## Bookmark::get_Open method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/get_open/
 Gets bookmark state (open, close).
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::Bookmark::get_Open() const
+bool Aspose::Pdf::Facades::Bookmark::get_Open() const
 ```
 
 ## See Also

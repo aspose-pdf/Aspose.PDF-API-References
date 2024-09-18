@@ -4,7 +4,7 @@ linktitle: get_IsFastExtractionUsed
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GroupProcessor::IPdfTypeExtractor::get_IsFastExtractionUsed method. Returns if fast extraction mechanism used in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.groupprocessor/ipdftypeextractor/get_isfastextractionused/
 ---
 ## IPdfTypeExtractor::get_IsFastExtractionUsed method

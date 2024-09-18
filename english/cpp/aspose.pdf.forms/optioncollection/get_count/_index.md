@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::OptionCollection::get_Count method. Gets number of options in C++.'
 type: docs
-weight: 400
+weight: 600
 url: /cpp/aspose.pdf.forms/optioncollection/get_count/
 ---
 ## OptionCollection::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/optioncollection/get_count/
 Gets number of options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Forms::OptionCollection::get_Count() const override
+int32_t Aspose::Pdf::Forms::OptionCollection::get_Count() const override
 ```
 
 ## See Also

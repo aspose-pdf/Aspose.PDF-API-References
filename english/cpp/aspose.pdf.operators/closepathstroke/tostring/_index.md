@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/closepathstroke/tostring/
 Returns text representation of the operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::ClosePathStroke::ToString() const override
+System::String Aspose::Pdf::Operators::ClosePathStroke::ToString() const override
 ```
 
 

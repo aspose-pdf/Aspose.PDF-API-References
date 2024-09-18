@@ -4,7 +4,7 @@ linktitle: get_CanWrite
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream::get_CanWrite method. When overridden in a derived class, gets a value indicating whether the current stream supports writing in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.pdf/optimizedmemorystream/get_canwrite/
 ---
 ## OptimizedMemoryStream::get_CanWrite method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/get_canwrite/
 When overridden in a derived class, gets a value indicating whether the current stream supports writing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::OptimizedMemoryStream::get_CanWrite() const override
+bool Aspose::Pdf::OptimizedMemoryStream::get_CanWrite() const override
 ```
 
 

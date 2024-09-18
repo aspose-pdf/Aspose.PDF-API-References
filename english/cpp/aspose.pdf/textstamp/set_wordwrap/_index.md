@@ -4,7 +4,7 @@ linktitle: set_WordWrap
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TextStamp::set_WordWrap method. Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default value: false in C++.'
 type: docs
-weight: 600
+weight: 2800
 url: /cpp/aspose.pdf/textstamp/set_wordwrap/
 ---
 ## TextStamp::set_WordWrap method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf/textstamp/set_wordwrap/
 Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default value: false.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::TextStamp::set_WordWrap(bool value)
+void Aspose::Pdf::TextStamp::set_WordWrap(bool value)
 ```
 
-## Remarks
 
+## Deprecated
+Use WordWrapMode instead. 
 
-<xrefsect id="deprecated_1_deprecated000146">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use WordWrapMode instead. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [TextStamp](../)

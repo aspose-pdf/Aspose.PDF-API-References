@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/ei/ei/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::EI::EI()
+Aspose::Pdf::Operators::EI::EI()
 ```
 
 ## See Also

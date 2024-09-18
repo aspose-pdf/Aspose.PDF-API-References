@@ -4,7 +4,7 @@ linktitle: get_Position
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OptimizedMemoryStream::get_Position method. When overridden in a derived class, gets or sets the position within the current stream in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.pdf/optimizedmemorystream/get_position/
 ---
 ## OptimizedMemoryStream::get_Position method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/optimizedmemorystream/get_position/
 When overridden in a derived class, gets or sets the position within the current stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int64_t Aspose::Pdf::OptimizedMemoryStream::get_Position() const override
+int64_t Aspose::Pdf::OptimizedMemoryStream::get_Position() const override
 ```
 
 

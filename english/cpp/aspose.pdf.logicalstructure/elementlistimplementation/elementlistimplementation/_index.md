@@ -4,7 +4,7 @@ linktitle: ElementListImplementation
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ElementListImplementation constructor of Aspose::Pdf::LogicalStructure::ElementListImplementation class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf.logicalstructure/elementlistimplementation/elementlistimplementation/
 ---
 ## ElementListImplementation::ElementListImplementation constructor

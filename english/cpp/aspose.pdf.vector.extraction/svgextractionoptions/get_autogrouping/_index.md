@@ -4,7 +4,7 @@ linktitle: get_AutoGrouping
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_AutoGrouping method. Gets and sets the option to automatically group subpaths into images. This option excludes the GroupStrength option in C++.'
 type: docs
-weight: 1300
+weight: 200
 url: /cpp/aspose.pdf.vector.extraction/svgextractionoptions/get_autogrouping/
 ---
 ## SvgExtractionOptions::get_AutoGrouping method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector.extraction/svgextractionoptions/get_autogrouping/
 Gets and sets the option to automatically group subpaths into images. This option excludes the [GroupStrength](../) option.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_AutoGrouping() const
+bool Aspose::Pdf::Vector::Extraction::SvgExtractionOptions::get_AutoGrouping() const
 ```
 
 ## See Also

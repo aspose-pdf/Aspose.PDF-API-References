@@ -4,7 +4,7 @@ linktitle: get_IsEmpty
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpField::get_IsEmpty method. Gets a value indicating whether this instance is empty in C++.'
 type: docs
-weight: 1200
+weight: 500
 url: /cpp/aspose.pdf/xmpfield/get_isempty/
 ---
 ## XmpField::get_IsEmpty method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/get_isempty/
 Gets a value indicating whether this instance is empty.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XmpField::get_IsEmpty()
+bool Aspose::Pdf::XmpField::get_IsEmpty()
 ```
 
 ## Remarks

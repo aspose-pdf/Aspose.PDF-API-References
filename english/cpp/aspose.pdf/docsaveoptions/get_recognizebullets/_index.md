@@ -4,7 +4,7 @@ linktitle: get_RecognizeBullets
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::get_RecognizeBullets method. Switch on the recognition of bullets in C++.'
 type: docs
-weight: 700
+weight: 1100
 url: /cpp/aspose.pdf/docsaveoptions/get_recognizebullets/
 ---
 ## DocSaveOptions::get_RecognizeBullets method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/docsaveoptions/get_recognizebullets/
 Switch on the recognition of bullets.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::DocSaveOptions::get_RecognizeBullets() const
+bool Aspose::Pdf::DocSaveOptions::get_RecognizeBullets() const
 ```
 
 ## See Also

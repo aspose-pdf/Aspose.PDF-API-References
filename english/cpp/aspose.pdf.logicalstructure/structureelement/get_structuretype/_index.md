@@ -4,7 +4,7 @@ linktitle: get_StructureType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureElement::get_StructureType method. Gets type of structure element in C++.'
 type: docs
-weight: 300
+weight: 1200
 url: /cpp/aspose.pdf.logicalstructure/structureelement/get_structuretype/
 ---
 ## StructureElement::get_StructureType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/get_structuretype/
 Gets type of structure element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureElement::get_StructureType() const
+System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureElement::get_StructureType() const
 ```
 
 ## Remarks

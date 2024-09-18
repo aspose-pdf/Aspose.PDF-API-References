@@ -4,7 +4,7 @@ linktitle: set_Opacity
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FileAttachmentAnnotation::set_Opacity method. Sets icon''s opacity from 0 to 1: 0 - completely transparant, 1 - completely opaque in C++.'
 type: docs
-weight: 700
+weight: 900
 url: /cpp/aspose.pdf.annotations/fileattachmentannotation/set_opacity/
 ---
 ## FileAttachmentAnnotation::set_Opacity method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fileattachmentannotation/set_opacity/
 Sets icon's opacity from 0 to 1: 0 - completely transparant, 1 - completely opaque.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::FileAttachmentAnnotation::set_Opacity(double value)
+void Aspose::Pdf::Annotations::FileAttachmentAnnotation::set_Opacity(double value)
 ```
 
 ## See Also

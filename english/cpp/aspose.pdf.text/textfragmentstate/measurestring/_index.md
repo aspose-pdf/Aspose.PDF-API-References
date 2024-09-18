@@ -4,7 +4,7 @@ linktitle: MeasureString
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextFragmentState::MeasureString method. Measures the string in C++.'
 type: docs
-weight: 4400
+weight: 2700
 url: /cpp/aspose.pdf.text/textfragmentstate/measurestring/
 ---
 ## TextFragmentState::MeasureString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/measurestring/
 Measures the string.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextFragmentState::MeasureString(System::String str) override
+double Aspose::Pdf::Text::TextFragmentState::MeasureString(System::String str) override
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextFragmentState::MeasureString
 ### ReturnValue
 
 Width of the string.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>str</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The string.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextFragmentState](../)

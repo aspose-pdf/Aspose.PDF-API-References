@@ -4,7 +4,7 @@ linktitle: LoadFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LoadFormat enum. Specifies load format in C++.'
 type: docs
-weight: 20900
+weight: 21100
 url: /cpp/aspose.pdf/loadformat/
 ---
 ## LoadFormat enum

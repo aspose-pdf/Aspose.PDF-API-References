@@ -4,7 +4,7 @@ linktitle: get_ReasonLabel
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::get_ReasonLabel method. Gets/sets reason label. Default value: "Reason" in C++.'
 type: docs
-weight: 1700
+weight: 1400
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_reasonlabel/
 ---
 ## SignatureCustomAppearance::get_ReasonLabel method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_reasonlabel/
 Gets/sets reason label. Default value: "Reason".
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::SignatureCustomAppearance::get_ReasonLabel() const
+System::String Aspose::Pdf::Forms::SignatureCustomAppearance::get_ReasonLabel() const
 ```
 
 ## See Also

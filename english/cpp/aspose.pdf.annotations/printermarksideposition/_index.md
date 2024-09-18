@@ -4,7 +4,7 @@ linktitle: PrinterMarkSidePosition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PrinterMarkSidePosition enum. Represents a position of a registration mark on a page in C++.'
 type: docs
-weight: 14000
+weight: 14400
 url: /cpp/aspose.pdf.annotations/printermarksideposition/
 ---
 ## PrinterMarkSidePosition enum

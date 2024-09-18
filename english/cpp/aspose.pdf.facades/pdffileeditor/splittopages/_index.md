@@ -2,53 +2,18 @@
 title: Aspose::Pdf::Facades::PdfFileEditor::SplitToPages method
 linktitle: SplitToPages
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Facades::PdfFileEditor::SplitToPages method. Splits the PDF file into single-page documents in C++.'
+description: 'Aspose::Pdf::Facades::PdfFileEditor::SplitToPages method. Splits the Pdf file into single-page documents in C++.'
 type: docs
-weight: 5500
+weight: 6100
 url: /cpp/aspose.pdf.facades/pdffileeditor/splittopages/
 ---
-## PdfFileEditor::SplitToPages(System::String) method
-
-
-Splits the PDF file into single-page documents.
-
-```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::String inputFile)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | System::String | Input PDF file name. |
-
-### ReturnValue
-
-Output PDF streams, each stream buffers a single-page PDF document.
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input PDF file name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## PdfFileEditor::SplitToPages(System::SharedPtr\<System::IO::Stream\>) method
 
 
 Splits the [Pdf](../../../aspose.pdf/) file into single-page documents.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::SharedPtr<System::IO::Stream> inputStream)
+System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::SharedPtr<System::IO::Stream> inputStream)
 ```
 
 
@@ -59,59 +24,7 @@ ASPOSE_PDF_SHARED_API System::ArrayPtr<System::SharedPtr<System::IO::MemoryStrea
 ### ReturnValue
 
 Array of memory streams which contain pages of the document.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input <ref refid="namespace_aspose_1_1_pdf" kindref="compound">Pdf</ref> stream.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::SplitToPages(System::String, System::String) method
-
-
-Split the [Pdf](../../../aspose.pdf/) file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
-
-```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::String inputFile, System::String fileNameTemplate)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | System::String | Input file name. |
-| fileNameTemplate | System::String | Template of resultant file name. Must contain NUM% which is replaced with page number. For example, if c:/dir/pageNUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputFile</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input file name.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fileNameTemplate</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Template of resultant file name. Must contain NUM% which is replaced with page number. For example, if c:/dir/pageNUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileEditor](../)
@@ -123,7 +36,7 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(Sys
 Split the [Pdf](../../../aspose.pdf/) file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::SharedPtr<System::IO::Stream> inputStream, System::String fileNameTemplate)
+void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::SharedPtr<System::IO::Stream> inputStream, System::String fileNameTemplate)
 ```
 
 
@@ -131,27 +44,50 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(Sys
 | --- | --- | --- |
 | inputStream | System::SharedPtr\<System::IO::Stream\> | Stream of the soruce document. |
 | fileNameTemplate | System::String | Template of resultant file name. Must contain NUM% which is replaced with page number. For example, if c:/dir/pageNUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
-## Remarks
+
+## See Also
+
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::SplitToPages(System::String) method
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>inputStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream of the soruce document.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>fileNameTemplate</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Template of resultant file name. Must contain NUM% which is replaced with page number. For example, if c:/dir/pageNUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+Splits the PDF file into single-page documents.
+
+```cpp
+System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::String inputFile)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | System::String | Input PDF file name. |
+
+### ReturnValue
+
+Output PDF streams, each stream buffers a single-page PDF document.
+
+## See Also
+
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::SplitToPages(System::String, System::String) method
+
+
+Split the [Pdf](../../../aspose.pdf/) file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
+
+```cpp
+void Aspose::Pdf::Facades::PdfFileEditor::SplitToPages(System::String inputFile, System::String fileNameTemplate)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | System::String | Input file name. |
+| fileNameTemplate | System::String | Template of resultant file name. Must contain NUM% which is replaced with page number. For example, if c:/dir/pageNUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
+
 ## See Also
 
 * Class [PdfFileEditor](../)

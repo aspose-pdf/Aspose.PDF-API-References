@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/listboxfield/set_selected/
 Sets index of the selected item. Items are numbered from 1.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ListBoxField::set_Selected(int32_t value) override
+void Aspose::Pdf::Forms::ListBoxField::set_Selected(int32_t value) override
 ```
 
 ## See Also

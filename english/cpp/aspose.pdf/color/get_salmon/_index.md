@@ -4,7 +4,7 @@ linktitle: get_Salmon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Salmon method. Gets a system-defined color that has an ARGB value of #FFFA8072 in C++.'
 type: docs
-weight: 12800
+weight: 13100
 url: /cpp/aspose.pdf/color/get_salmon/
 ---
 ## Color::get_Salmon method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_salmon/
 Gets a system-defined color that has an ARGB value of **#FFFA8072**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Salmon()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Salmon()
 ```
 
 

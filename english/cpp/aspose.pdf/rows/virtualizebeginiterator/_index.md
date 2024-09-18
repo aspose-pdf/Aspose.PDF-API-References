@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rows::virtualizeBeginIterator method. Gets iterator pointing to the first element (if any) of the collection in C++.'
 type: docs
-weight: 1600
+weight: 1700
 url: /cpp/aspose.pdf/rows/virtualizebeginiterator/
 ---
 ## Rows::virtualizeBeginIterator method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/virtualizebeginiterator/
 Gets iterator pointing to the first element (if any) of the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API virtualized_iterator * Aspose::Pdf::Rows::virtualizeBeginIterator() override
+virtualized_iterator * Aspose::Pdf::Rows::virtualizeBeginIterator() override
 ```
 
 

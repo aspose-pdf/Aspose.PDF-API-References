@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/get_allowexceptions/
 If this value set to true, exception will be thrown on opearation failure. Else, method returns false on failure and last exception can be checked with LastException property.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileSecurity::get_AllowExceptions()
+bool Aspose::Pdf::Facades::PdfFileSecurity::get_AllowExceptions()
 ```
 
-## Remarks
 
+## Deprecated
+This property is deprecated and can not be used to allow throwing exceptions. 
 
-<xrefsect id="deprecated_1_deprecated000073">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>This property is deprecated and can not be used to allow throwing exceptions. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileSecurity](../)

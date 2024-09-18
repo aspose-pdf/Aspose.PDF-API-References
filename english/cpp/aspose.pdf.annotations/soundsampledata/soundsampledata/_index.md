@@ -4,7 +4,7 @@ linktitle: SoundSampleData
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData constructor. Initializes new sound sample data in C++.'
 type: docs
-weight: 900
+weight: 100
 url: /cpp/aspose.pdf.annotations/soundsampledata/soundsampledata/
 ---
 ## SoundSampleData::SoundSampleData(int64_t) constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.annotations/soundsampledata/soundsampledata/
 Initializes new sound sample data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate)
+Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | samplingRate | int64_t | The sampling rate. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>samplingRate</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The sampling rate.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SoundSampleData](../)
@@ -44,7 +32,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData
 Initializes new sound sample data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate, int32_t numberOfSoundChannels)
+Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate, int32_t numberOfSoundChannels)
 ```
 
 
@@ -52,27 +40,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData
 | --- | --- | --- |
 | samplingRate | int64_t | The sampling rate. |
 | numberOfSoundChannels | int32_t | The number of sound channels. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>samplingRate</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The sampling rate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>numberOfSoundChannels</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of sound channels.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SoundSampleData](../)
@@ -84,7 +52,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData
 Initializes new sound sample data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate, int32_t numberOfSoundChannels, int32_t bitsPerChannel)
+Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate, int32_t numberOfSoundChannels, int32_t bitsPerChannel)
 ```
 
 
@@ -93,35 +61,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData
 | samplingRate | int64_t | The sampling rate. |
 | numberOfSoundChannels | int32_t | The number of sound channels. |
 | bitsPerChannel | int32_t | The number of bits per sample value per channel. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>samplingRate</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The sampling rate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>numberOfSoundChannels</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of sound channels.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>bitsPerChannel</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of bits per sample value per channel.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SoundSampleData](../)
@@ -133,7 +73,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData
 Initializes new sound sample data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate, int32_t numberOfSoundChannels, int32_t bitsPerChannel, SoundSampleDataEncodingFormat soundSampleDataEncodingFormat)
+Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData(int64_t samplingRate, int32_t numberOfSoundChannels, int32_t bitsPerChannel, SoundSampleDataEncodingFormat soundSampleDataEncodingFormat)
 ```
 
 
@@ -143,43 +83,8 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Annotations::SoundSampleData::SoundSampleData
 | numberOfSoundChannels | int32_t | The number of sound channels. |
 | bitsPerChannel | int32_t | The number of bits per sample value per channel. |
 | soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | The encoding format for the sample data. |
-## Remarks
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>samplingRate</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The sampling rate.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>numberOfSoundChannels</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of sound channels.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>bitsPerChannel</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of bits per sample value per channel.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>soundSampleDataEncodingFormat</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The encoding format for the sample data.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 
 ## See Also
 

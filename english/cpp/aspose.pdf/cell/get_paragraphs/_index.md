@@ -4,7 +4,7 @@ linktitle: get_Paragraphs
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_Paragraphs method. Gets the cell''s formatted text in C++.'
 type: docs
-weight: 1900
+weight: 1400
 url: /cpp/aspose.pdf/cell/get_paragraphs/
 ---
 ## Cell::get_Paragraphs method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/get_paragraphs/
 Gets the cell's formatted text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::Paragraphs> & Aspose::Pdf::Cell::get_Paragraphs() const
+const System::SharedPtr<Aspose::Pdf::Paragraphs> & Aspose::Pdf::Cell::get_Paragraphs() const
 ```
 
 ## See Also

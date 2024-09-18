@@ -4,7 +4,7 @@ linktitle: TBWIPE
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::TBWIPE field. Top-Bottom Wipe in C++.'
 type: docs
-weight: 4000
+weight: 4400
 url: /cpp/aspose.pdf.facades/pdfpageeditor/tbwipe/
 ---
 ## TBWIPE field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/tbwipe/
 Top-Bottom Wipe.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::TBWIPE
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::TBWIPE
 ```
 
 ## See Also

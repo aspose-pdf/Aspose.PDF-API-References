@@ -4,7 +4,7 @@ linktitle: get_StrikeOut
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::get_StrikeOut method. Gets strikeout for the text in C++.'
 type: docs
-weight: 1300
+weight: 1000
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_strikeout/
 ---
 ## StructureTextState::get_StrikeOut method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_strikeout/
 Gets strikeout for the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<bool> Aspose::Pdf::LogicalStructure::StructureTextState::get_StrikeOut() const
+System::Nullable<bool> Aspose::Pdf::LogicalStructure::StructureTextState::get_StrikeOut() const
 ```
 
 ## Remarks

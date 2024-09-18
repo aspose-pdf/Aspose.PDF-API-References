@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::ActionCollection::Clear method. Clear collection in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pdf.annotations/actioncollection/clear/
 ---
 ## ActionCollection::Clear method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/actioncollection/clear/
 Clear collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::ActionCollection::Clear() override
+void Aspose::Pdf::Annotations::ActionCollection::Clear() override
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_ICPosition
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ButtonField::get_ICPosition method. Gets icon caption position in C++.'
 type: docs
-weight: 1400
+weight: 600
 url: /cpp/aspose.pdf.forms/buttonfield/get_icposition/
 ---
 ## ButtonField::get_ICPosition method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/get_icposition/
 Gets icon caption position.
 
 ```cpp
-ASPOSE_PDF_SHARED_API IconCaptionPosition Aspose::Pdf::Forms::ButtonField::get_ICPosition()
+IconCaptionPosition Aspose::Pdf::Forms::ButtonField::get_ICPosition()
 ```
 
 ## See Also

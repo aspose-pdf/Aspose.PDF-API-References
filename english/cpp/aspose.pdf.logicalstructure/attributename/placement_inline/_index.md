@@ -4,7 +4,7 @@ linktitle: Placement_Inline
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Placement_Inline field. Attribute Placement: Inline - Packed in the inline-progression direction within an enclosing BLSE in C++.'
 type: docs
-weight: 600
+weight: 4100
 url: /cpp/aspose.pdf.logicalstructure/attributename/placement_inline/
 ---
 ## Placement_Inline field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/placement_inline/
 Attribute Placement: Inline - Packed in the inline-progression direction within an enclosing BLSE.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Placement_Inline
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Placement_Inline
 ```
 
 ## See Also

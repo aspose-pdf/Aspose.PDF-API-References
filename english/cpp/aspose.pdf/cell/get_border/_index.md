@@ -4,7 +4,7 @@ linktitle: get_Border
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cell::get_Border method. Gets the border in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf/cell/get_border/
 ---
 ## Cell::get_Border method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/get_border/
 Gets the border.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<BorderInfo> & Aspose::Pdf::Cell::get_Border() const
+const System::SharedPtr<BorderInfo> & Aspose::Pdf::Cell::get_Border() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Intent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_Intent method. Gets the intent of the line annotation in C++.'
 type: docs
-weight: 2500
+weight: 900
 url: /cpp/aspose.pdf.annotations/lineannotation/get_intent/
 ---
 ## LineAnnotation::get_Intent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_intent/
 Gets the intent of the line annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API LineIntent Aspose::Pdf::Annotations::LineAnnotation::get_Intent()
+LineIntent Aspose::Pdf::Annotations::LineAnnotation::get_Intent()
 ```
 
 ## See Also

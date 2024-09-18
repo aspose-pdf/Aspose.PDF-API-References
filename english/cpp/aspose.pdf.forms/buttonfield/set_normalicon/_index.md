@@ -4,7 +4,7 @@ linktitle: set_NormalIcon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ButtonField::set_NormalIcon method. Sets normal icon of the button which shall be displayed when it is not interacting with the user in C++.'
 type: docs
-weight: 800
+weight: 1500
 url: /cpp/aspose.pdf.forms/buttonfield/set_normalicon/
 ---
 ## ButtonField::set_NormalIcon method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_normalicon/
 Sets normal icon of the button which shall be displayed when it is not interacting with the user.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::ButtonField::set_NormalIcon(System::SharedPtr<XForm> value)
+void Aspose::Pdf::Forms::ButtonField::set_NormalIcon(System::SharedPtr<XForm> value)
 ```
 
 ## See Also

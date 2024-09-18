@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/saveoptions/get_saveformat/
 Format of data save.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::SaveFormat Aspose::Pdf::SaveOptions::get_SaveFormat() const
+Aspose::Pdf::SaveFormat Aspose::Pdf::SaveOptions::get_SaveFormat() const
 ```
 
 ## See Also

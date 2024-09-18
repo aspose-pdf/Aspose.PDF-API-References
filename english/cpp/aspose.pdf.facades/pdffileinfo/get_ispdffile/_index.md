@@ -4,7 +4,7 @@ linktitle: get_IsPdfFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::get_IsPdfFile method. Checkes whether the source input is a valid PDF file in C++.'
 type: docs
-weight: 400
+weight: 1500
 url: /cpp/aspose.pdf.facades/pdffileinfo/get_ispdffile/
 ---
 ## PdfFileInfo::get_IsPdfFile method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/get_ispdffile/
 Checkes whether the source input is a valid PDF file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileInfo::get_IsPdfFile()
+bool Aspose::Pdf::Facades::PdfFileInfo::get_IsPdfFile()
 ```
 
 ## See Also

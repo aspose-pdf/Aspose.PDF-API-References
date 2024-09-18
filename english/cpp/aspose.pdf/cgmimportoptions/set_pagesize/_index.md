@@ -4,7 +4,7 @@ linktitle: set_PageSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::CgmImportOptions::set_PageSize method. Sets output page size for import. Default page size - A4 300dpi 2480 X 3508 in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/cgmimportoptions/set_pagesize/
 ---
 ## CgmImportOptions::set_PageSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cgmimportoptions/set_pagesize/
 Sets output page size for import. Default page size - A4 300dpi 2480 X 3508.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::CgmImportOptions::set_PageSize(System::Drawing::SizeF value)
+void Aspose::Pdf::CgmImportOptions::set_PageSize(System::Drawing::SizeF value)
 ```
 
 ## See Also

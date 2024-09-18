@@ -4,7 +4,7 @@ linktitle: Center
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::Center method. Returncs coordinates of center of the rectangle in C++.'
 type: docs
-weight: 2400
+weight: 200
 url: /cpp/aspose.pdf/rectangle/center/
 ---
 ## Rectangle::Center method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/center/
 Returncs coordinates of center of the rectangle.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Point> Aspose::Pdf::Rectangle::Center()
+System::SharedPtr<Point> Aspose::Pdf::Rectangle::Center()
 ```
 
 

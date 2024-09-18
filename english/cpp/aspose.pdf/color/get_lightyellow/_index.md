@@ -4,7 +4,7 @@ linktitle: get_LightYellow
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_LightYellow method. Gets a system-defined color that has an ARGB value of #FFFFFFE0 in C++.'
 type: docs
-weight: 8600
+weight: 8900
 url: /cpp/aspose.pdf/color/get_lightyellow/
 ---
 ## Color::get_LightYellow method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_lightyellow/
 Gets a system-defined color that has an ARGB value of **#FFFFFFE0**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_LightYellow()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_LightYellow()
 ```
 
 

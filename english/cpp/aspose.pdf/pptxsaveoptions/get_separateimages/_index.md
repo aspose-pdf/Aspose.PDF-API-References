@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pptxsaveoptions/get_separateimages/
 If set to true then images are separated from all other graphics.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PptxSaveOptions::get_SeparateImages() const
+bool Aspose::Pdf::PptxSaveOptions::get_SeparateImages() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_BackGroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::set_BackGroundColor method. Sets the color of the back ground of view in C++.'
 type: docs
-weight: 1300
+weight: 900
 url: /cpp/aspose.pdf.annotations/pdf3dview/set_backgroundcolor/
 ---
 ## PDF3DView::set_BackGroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_backgroundcolor/
 Sets the color of the back ground of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DView::set_BackGroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Annotations::PDF3DView::set_BackGroundColor(System::SharedPtr<Color> value)
 ```
 
 ## Remarks

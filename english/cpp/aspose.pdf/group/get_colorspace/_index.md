@@ -4,7 +4,7 @@ linktitle: get_ColorSpace
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Group::get_ColorSpace method. The group color space in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/group/get_colorspace/
 ---
 ## Group::get_ColorSpace method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/group/get_colorspace/
 The group color space.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ColorSpace Aspose::Pdf::Group::get_ColorSpace()
+Aspose::Pdf::ColorSpace Aspose::Pdf::Group::get_ColorSpace()
 ```
 
 ## See Also

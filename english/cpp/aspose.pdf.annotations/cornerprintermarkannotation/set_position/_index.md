@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/cornerprintermarkannotation/set_position/
 Get or sets the position of the mark on the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::CornerPrinterMarkAnnotation::set_Position(PrinterMarkCornerPosition value)
+void Aspose::Pdf::Annotations::CornerPrinterMarkAnnotation::set_Position(PrinterMarkCornerPosition value)
 ```
 
 ## See Also

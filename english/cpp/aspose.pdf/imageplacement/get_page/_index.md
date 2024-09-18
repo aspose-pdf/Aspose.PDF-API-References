@@ -4,7 +4,7 @@ linktitle: get_Page
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::ImagePlacement::get_Page method. Gets the page containing the image in C++.'
 type: docs
-weight: 700
+weight: 500
 url: /cpp/aspose.pdf/imageplacement/get_page/
 ---
 ## ImagePlacement::get_Page method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/imageplacement/get_page/
 Gets the page containing the image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::ImagePlacement::get_Page() const
+System::SharedPtr<Aspose::Pdf::Page> Aspose::Pdf::ImagePlacement::get_Page() const
 ```
 
 ## See Also

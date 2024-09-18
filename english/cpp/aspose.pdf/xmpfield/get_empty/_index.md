@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/get_empty/
 Gets an Empty xmp field.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<XmpField> Aspose::Pdf::XmpField::get_Empty()
+static System::SharedPtr<XmpField> Aspose::Pdf::XmpField::get_Empty()
 ```
 
 ## See Also

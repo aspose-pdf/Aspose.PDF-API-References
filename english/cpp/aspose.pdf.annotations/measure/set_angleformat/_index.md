@@ -4,7 +4,7 @@ linktitle: set_AngleFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Measure::set_AngleFormat method. A number format array for measurement of angles in C++.'
 type: docs
-weight: 1200
+weight: 1100
 url: /cpp/aspose.pdf.annotations/measure/set_angleformat/
 ---
 ## Measure::set_AngleFormat method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_angleformat/
 A number format array for measurement of angles.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Measure::set_AngleFormat(System::SharedPtr<Measure::NumberFormatList> value)
+void Aspose::Pdf::Annotations::Measure::set_AngleFormat(System::SharedPtr<Measure::NumberFormatList> value)
 ```
 
 ## See Also

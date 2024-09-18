@@ -4,7 +4,7 @@ linktitle: SetLineJoin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetLineJoin::SetLineJoin constructor. Initializes operator in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/setlinejoin/setlinejoin/
 ---
 ## SetLineJoin::SetLineJoin() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setlinejoin/setlinejoin/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetLineJoin::SetLineJoin()
+Aspose::Pdf::Operators::SetLineJoin::SetLineJoin()
 ```
 
 ## See Also
@@ -27,7 +27,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetLineJoin::SetLineJoin()
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetLineJoin::SetLineJoin(LineJoin join)
+Aspose::Pdf::Operators::SetLineJoin::SetLineJoin(LineJoin join)
 ```
 
 ## See Also

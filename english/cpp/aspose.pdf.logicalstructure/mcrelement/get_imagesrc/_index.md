@@ -4,7 +4,7 @@ linktitle: get_ImageSrc
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use get_ImageSrc method of Aspose::Pdf::LogicalStructure::MCRElement class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.logicalstructure/mcrelement/get_imagesrc/
 ---
 ## MCRElement::get_ImageSrc method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/mcrelement/get_imagesrc/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::MCRElement::get_ImageSrc() const
+System::String Aspose::Pdf::LogicalStructure::MCRElement::get_ImageSrc() const
 ```
 
 ## Remarks

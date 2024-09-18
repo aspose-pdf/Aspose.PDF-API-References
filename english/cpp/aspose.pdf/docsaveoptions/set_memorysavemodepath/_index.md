@@ -4,7 +4,7 @@ linktitle: set_MemorySaveModePath
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::set_MemorySaveModePath method. Defines the path (file name or directory name) to hold temporary data when converting in memory save mode in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.pdf/docsaveoptions/set_memorysavemodepath/
 ---
 ## DocSaveOptions::set_MemorySaveModePath method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/docsaveoptions/set_memorysavemodepath/
 Defines the path (file name or directory name) to hold temporary data when converting in memory save mode.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::DocSaveOptions::set_MemorySaveModePath(System::String value)
+void Aspose::Pdf::DocSaveOptions::set_MemorySaveModePath(System::String value)
 ```
 
 ## See Also

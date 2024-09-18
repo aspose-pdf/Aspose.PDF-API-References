@@ -4,7 +4,7 @@ linktitle: BorderWidthUndefined
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::BorderWidthUndefined field. Undefined border width in C++.'
 type: docs
-weight: 3900
+weight: 5600
 url: /cpp/aspose.pdf.facades/formfieldfacade/borderwidthundefined/
 ---
 ## BorderWidthUndefined field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/borderwidthundefined/
 Undefined border width.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API float Aspose::Pdf::Facades::FormFieldFacade::BorderWidthUndefined
+static float Aspose::Pdf::Facades::FormFieldFacade::BorderWidthUndefined
 ```
 
 ## See Also

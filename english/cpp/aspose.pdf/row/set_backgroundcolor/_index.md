@@ -4,7 +4,7 @@ linktitle: set_BackgroundColor
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Row::set_BackgroundColor method. Sets the background color in C++.'
 type: docs
-weight: 200
+weight: 1400
 url: /cpp/aspose.pdf/row/set_backgroundcolor/
 ---
 ## Row::set_BackgroundColor method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/set_backgroundcolor/
 Sets the background color.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Row::set_BackgroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Row::set_BackgroundColor(System::SharedPtr<Color> value)
 ```
 
 ## See Also

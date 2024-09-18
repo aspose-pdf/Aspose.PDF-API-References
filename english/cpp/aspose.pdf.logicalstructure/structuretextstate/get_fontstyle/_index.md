@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_fontstyle/
 Gets font style of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<Aspose::Pdf::Text::FontStyles> Aspose::Pdf::LogicalStructure::StructureTextState::get_FontStyle() const
+System::Nullable<Aspose::Pdf::Text::FontStyles> Aspose::Pdf::LogicalStructure::StructureTextState::get_FontStyle() const
 ```
 
 ## Remarks

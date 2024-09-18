@@ -4,7 +4,7 @@ linktitle: SetLineWidth
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetLineWidth::SetLineWidth constructor. Initializes operator with width value in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.operators/setlinewidth/setlinewidth/
 ---
 ## SetLineWidth::SetLineWidth constructor
@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.operators/setlinewidth/setlinewidth/
 Initializes operator with width value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::SetLineWidth::SetLineWidth(double width)
+Aspose::Pdf::Operators::SetLineWidth::SetLineWidth(double width)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | width | double | Line width. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>width</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Line width.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [SetLineWidth](../)

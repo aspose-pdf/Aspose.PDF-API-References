@@ -4,7 +4,7 @@ linktitle: SPLITHOUT
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::SPLITHOUT field. Out Horizontal Split in C++.'
 type: docs
-weight: 3000
+weight: 4000
 url: /cpp/aspose.pdf.facades/pdfpageeditor/splithout/
 ---
 ## SPLITHOUT field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/splithout/
 Out Horizontal Split.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::SPLITHOUT
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::SPLITHOUT
 ```
 
 ## See Also

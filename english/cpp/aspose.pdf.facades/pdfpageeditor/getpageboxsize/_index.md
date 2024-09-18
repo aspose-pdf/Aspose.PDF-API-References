@@ -4,7 +4,7 @@ linktitle: GetPageBoxSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::GetPageBoxSize method. Returns size of specified box in document in C++.'
 type: docs
-weight: 2600
+weight: 1300
 url: /cpp/aspose.pdf.facades/pdfpageeditor/getpageboxsize/
 ---
 ## PdfPageEditor::GetPageBoxSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/getpageboxsize/
 Returns size of specified box in document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::Rectangle Aspose::Pdf::Facades::PdfPageEditor::GetPageBoxSize(int32_t page, System::String pageBoxName)
+System::Drawing::Rectangle Aspose::Pdf::Facades::PdfPageEditor::GetPageBoxSize(int32_t page, System::String pageBoxName)
 ```
 
 
@@ -25,28 +25,7 @@ ASPOSE_PDF_SHARED_API System::Drawing::Rectangle Aspose::Pdf::Facades::PdfPageEd
 ### ReturnValue
 
 [Rectangle](../../../aspose.pdf/rectangle/) which contains requested box.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> index. <ref refid="class_aspose_1_1_pdf_1_1_document" kindref="compound">Document</ref> pages are numbered from 1.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageBoxName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Box type name. Valid values are: "art", "bleed", "crop", "media", "trim".</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfPageEditor](../)

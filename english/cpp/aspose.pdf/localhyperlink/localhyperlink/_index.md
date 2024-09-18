@@ -4,7 +4,7 @@ linktitle: LocalHyperlink
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LocalHyperlink::LocalHyperlink constructor. Initializes a new instance of the LocalHyperlink class in C++.'
 type: docs
-weight: 500
+weight: 100
 url: /cpp/aspose.pdf/localhyperlink/localhyperlink/
 ---
 ## LocalHyperlink::LocalHyperlink() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/localhyperlink/localhyperlink/
 Initializes a new instance of the [LocalHyperlink](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::LocalHyperlink::LocalHyperlink()
+Aspose::Pdf::LocalHyperlink::LocalHyperlink()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::LocalHyperlink::LocalHyperlink()
 Initializes a new instance of the [LocalHyperlink](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::LocalHyperlink::LocalHyperlink(System::SharedPtr<BaseParagraph> target)
+Aspose::Pdf::LocalHyperlink::LocalHyperlink(System::SharedPtr<BaseParagraph> target)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | target | System::SharedPtr\<BaseParagraph\> | Target paragraph. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>target</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Target paragraph.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [BaseParagraph](../../baseparagraph/)

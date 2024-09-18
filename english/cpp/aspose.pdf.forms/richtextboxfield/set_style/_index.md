@@ -4,7 +4,7 @@ linktitle: set_Style
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RichTextBoxField::set_Style method. Sets default style string of the rich text field in C++.'
 type: docs
-weight: 200
+weight: 1000
 url: /cpp/aspose.pdf.forms/richtextboxfield/set_style/
 ---
 ## RichTextBoxField::set_Style method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/set_style/
 Sets default style string of the rich text field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::RichTextBoxField::set_Style(System::String value)
+void Aspose::Pdf::Forms::RichTextBoxField::set_Style(System::String value)
 ```
 
 ## See Also

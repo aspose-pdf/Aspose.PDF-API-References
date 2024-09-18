@@ -4,7 +4,7 @@ linktitle: RenditionOperation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RenditionOperation enum. The operation to perform when the action is triggered in C++.'
 type: docs
-weight: 14200
+weight: 14700
 url: /cpp/aspose.pdf.annotations/renditionoperation/
 ---
 ## RenditionOperation enum

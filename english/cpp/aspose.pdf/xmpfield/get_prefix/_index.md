@@ -4,7 +4,7 @@ linktitle: get_Prefix
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpField::get_Prefix method. Gets the prefix in C++.'
 type: docs
-weight: 300
+weight: 900
 url: /cpp/aspose.pdf/xmpfield/get_prefix/
 ---
 ## XmpField::get_Prefix method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/get_prefix/
 Gets the prefix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpField::get_Prefix() const
+System::String Aspose::Pdf::XmpField::get_Prefix() const
 ```
 
 ## Remarks

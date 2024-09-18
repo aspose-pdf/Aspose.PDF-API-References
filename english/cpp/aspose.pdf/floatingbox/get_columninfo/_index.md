@@ -4,7 +4,7 @@ linktitle: get_ColumnInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::get_ColumnInfo method. Gets a column info in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.pdf/floatingbox/get_columninfo/
 ---
 ## FloatingBox::get_ColumnInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/get_columninfo/
 Gets a column info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::ColumnInfo> & Aspose::Pdf::FloatingBox::get_ColumnInfo() const
+const System::SharedPtr<Aspose::Pdf::ColumnInfo> & Aspose::Pdf::FloatingBox::get_ColumnInfo() const
 ```
 
 

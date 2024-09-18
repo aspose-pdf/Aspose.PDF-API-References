@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::RichTextBoxField::set_Value method. Value of RichTextField in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.pdf.forms/richtextboxfield/set_value/
 ---
 ## RichTextBoxField::set_Value method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/set_value/
 Value of RichTextField.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::RichTextBoxField::set_Value(System::String value) override
+void Aspose::Pdf::Forms::RichTextBoxField::set_Value(System::String value) override
 ```
 
 ## See Also

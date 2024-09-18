@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/radiobuttonfield/get_value/
 Gets value of field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Forms::RadioButtonField::get_Value() override
+System::String Aspose::Pdf::Forms::RadioButtonField::get_Value() override
 ```
 
 ## See Also

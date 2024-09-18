@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/
 Default extension namespace prefix.
 
 ```cpp
-static const ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultExtensionNamespacePrefix
+static const System::String Aspose::Pdf::XmpPdfAExtensionSchema::DefaultExtensionNamespacePrefix
 ```
 
 ## See Also

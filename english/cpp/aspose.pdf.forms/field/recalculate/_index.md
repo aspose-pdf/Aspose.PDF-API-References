@@ -4,7 +4,7 @@ linktitle: Recalculate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::Recalculate method. Recaculates all calculated fields on the form in C++.'
 type: docs
-weight: 2200
+weight: 2000
 url: /cpp/aspose.pdf.forms/field/recalculate/
 ---
 ## Field::Recalculate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/recalculate/
 Recaculates all calculated fields on the form.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Field::Recalculate()
+bool Aspose::Pdf::Forms::Field::Recalculate()
 ```
 
 

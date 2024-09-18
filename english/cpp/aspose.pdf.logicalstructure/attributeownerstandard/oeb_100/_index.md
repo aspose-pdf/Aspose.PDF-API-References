@@ -4,7 +4,7 @@ linktitle: Oeb_100
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Oeb_100 method. OEB-1.00 attribute owner in C++.'
 type: docs
-weight: 1000
+weight: 900
 url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/
 ---
 ## AttributeOwnerStandard::Oeb_100 method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/
 OEB-1.00 attribute owner.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Oeb_100()
+static System::SharedPtr<AttributeOwnerStandard> & Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::Oeb_100()
 ```
 
 ## See Also

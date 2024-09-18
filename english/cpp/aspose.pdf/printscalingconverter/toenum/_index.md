@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PrintScalingConverter::ToEnum method. Converts string representation of the value to the corresponding PrintScaling value in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf/printscalingconverter/toenum/
 ---
 ## PrintScalingConverter::ToEnum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/printscalingconverter/toenum/
 Converts string representation of the value to the corresponding [PrintScaling](../../printscaling/) value.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API PrintScaling Aspose::Pdf::PrintScalingConverter::ToEnum(System::String value)
+static PrintScaling Aspose::Pdf::PrintScalingConverter::ToEnum(System::String value)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API PrintScaling Aspose::Pdf::PrintScalingConverter::To
 ### ReturnValue
 
 Corresponding [PrintScaling](../../printscaling/) value.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>value</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>String value to convert.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [PrintScaling](../../printscaling/)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textitemcomparisonstatistics/get_insertoperation
 Gets and sets the number of insert operations.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Comparison::TextItemComparisonStatistics::get_InsertOperationsCount() const
+int32_t Aspose::Pdf::Comparison::TextItemComparisonStatistics::get_InsertOperationsCount() const
 ```
 
 ## See Also

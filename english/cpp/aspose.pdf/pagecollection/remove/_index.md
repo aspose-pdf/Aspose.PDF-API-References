@@ -2,7 +2,7 @@
 title: Aspose::Pdf::PageCollection::Remove method
 linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::PageCollection::Remove method. Removes the specified item, throws 
+description: 'Aspose::Pdf::PageCollection::Remove method. Removes the specified item, throws NotSupportedException
  in C++.'
 type: docs
 weight: 1800
@@ -11,11 +11,11 @@ url: /cpp/aspose.pdf/pagecollection/remove/
 ## PageCollection::Remove method
 
 
-Removes the specified item, throws 
+Removes the specified item, throws NotSupportedException
 .
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PageCollection::Remove(const System::SharedPtr<Page> &item) override
+bool Aspose::Pdf::PageCollection::Remove(const System::SharedPtr<Page> &item) override
 ```
 
 
@@ -25,20 +25,8 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::PageCollection::Remove(const System::Sha
 
 ### ReturnValue
 
+NotSupportedException
 
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>item</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The item.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

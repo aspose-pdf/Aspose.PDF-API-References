@@ -4,7 +4,7 @@ linktitle: CloneWithSegments
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Heading::CloneWithSegments method. Clone the heading with all segments in C++.'
 type: docs
-weight: 2100
+weight: 300
 url: /cpp/aspose.pdf/heading/clonewithsegments/
 ---
 ## Heading::CloneWithSegments method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/clonewithsegments/
 Clone the heading with all segments.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Heading::CloneWithSegments() override
+System::SharedPtr<System::Object> Aspose::Pdf::Heading::CloneWithSegments() override
 ```
 
 

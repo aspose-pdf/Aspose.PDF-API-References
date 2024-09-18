@@ -4,7 +4,7 @@ linktitle: get_InputFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileStamp::get_InputFile method. Gets name and path of input file in C++.'
 type: docs
-weight: 500
+weight: 900
 url: /cpp/aspose.pdf.facades/pdffilestamp/get_inputfile/
 ---
 ## PdfFileStamp::get_InputFile method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/get_inputfile/
 Gets name and path of input file.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Facades::PdfFileStamp::get_InputFile() const
+System::String Aspose::Pdf::Facades::PdfFileStamp::get_InputFile() const
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputFile) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000085">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputFile) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [PdfFileStamp](../)

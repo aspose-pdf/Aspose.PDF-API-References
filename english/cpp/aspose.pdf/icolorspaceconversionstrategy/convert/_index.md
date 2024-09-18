@@ -20,19 +20,7 @@ virtual void Aspose::Pdf::IColorSpaceConversionStrategy::Convert(System::SharedP
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | System::SharedPtr\<Page\> | The page of document. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The page of document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

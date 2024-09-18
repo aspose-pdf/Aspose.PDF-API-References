@@ -4,7 +4,7 @@ linktitle: ExtractAttachment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment method. Extracts attachments from a Pdf document in C++.'
 type: docs
-weight: 2300
+weight: 300
 url: /cpp/aspose.pdf.facades/pdfextractor/extractattachment/
 ---
 ## PdfExtractor::ExtractAttachment() method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/extractattachment/
 Extracts attachments from a [Pdf](../../../aspose.pdf/) document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment()
+void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment()
 ```
 
 ## See Also
@@ -27,26 +27,14 @@ ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment
 Extracts attachment to PDF file by attachment name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment(System::String attachmentFileName)
+void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment(System::String attachmentFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | attachmentFileName | System::String | Name of attachment to extract |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>attachmentFileName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name of attachment to extract</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfExtractor](../)

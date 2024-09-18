@@ -4,7 +4,7 @@ linktitle: get_Tag
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTypeStandard::get_Tag method. Gets tag name of Aspose::Pdf::LogicalStructure::StructureElement in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/get_tag/
 ---
 ## StructureTypeStandard::get_Tag method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/get_tag/
 Gets tag name of [Aspose::Pdf::LogicalStructure::StructureElement](../../structureelement/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::LogicalStructure::StructureTypeStandard::get_Tag() const
+System::String Aspose::Pdf::LogicalStructure::StructureTypeStandard::get_Tag() const
 ```
 
 ## Remarks

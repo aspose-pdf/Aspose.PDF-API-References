@@ -4,7 +4,7 @@ linktitle: set_PositionArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Curve::set_PositionArray method. Sets a float position array in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.drawing/curve/set_positionarray/
 ---
 ## Curve::set_PositionArray method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/curve/set_positionarray/
 Sets a float position array.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Drawing::Curve::set_PositionArray(System::ArrayPtr<float> value)
+void Aspose::Pdf::Drawing::Curve::set_PositionArray(System::ArrayPtr<float> value)
 ```
 
 ## See Also

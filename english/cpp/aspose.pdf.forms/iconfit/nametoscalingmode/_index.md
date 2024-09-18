@@ -4,7 +4,7 @@ linktitle: NameToScalingMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::IconFit::NameToScalingMode method. Converts scaling mode name into ScalingMode object in C++.'
 type: docs
-weight: 1300
+weight: 1100
 url: /cpp/aspose.pdf.forms/iconfit/nametoscalingmode/
 ---
 ## IconFit::NameToScalingMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/iconfit/nametoscalingmode/
 Converts scaling mode name into ScalingMode object.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ScalingMode Aspose::Pdf::Forms::IconFit::NameToScalingMode(System::String mode)
+static Aspose::Pdf::Forms::ScalingMode Aspose::Pdf::Forms::IconFit::NameToScalingMode(System::String mode)
 ```
 
 
@@ -24,19 +24,7 @@ static ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ScalingMode Aspose::Pdf::Forms:
 ### ReturnValue
 
 Scaling mode object.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>mode</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Scaling mode name.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Enum [ScalingMode](../../scalingmode/)

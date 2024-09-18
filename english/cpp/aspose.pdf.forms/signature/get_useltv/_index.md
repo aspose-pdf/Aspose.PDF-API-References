@@ -4,7 +4,7 @@ linktitle: get_UseLtv
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Signature::get_UseLtv method. Gets/sets ltv validation flag in C++.'
 type: docs
-weight: 1800
+weight: 1300
 url: /cpp/aspose.pdf.forms/signature/get_useltv/
 ---
 ## Signature::get_UseLtv method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/get_useltv/
 Gets/sets ltv validation flag.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Signature::get_UseLtv() const
+bool Aspose::Pdf::Forms::Signature::get_UseLtv() const
 ```
 
 ## See Also

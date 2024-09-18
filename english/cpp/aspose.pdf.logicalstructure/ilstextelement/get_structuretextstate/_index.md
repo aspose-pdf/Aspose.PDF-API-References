@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/ilstextelement/get_structuretextstate/
 Gets [T:/Aspose::Pdf::LogicalStructure::StructureTextState](../) object for current element.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTextState> Aspose::Pdf::LogicalStructure::ILSTextElement::get_StructureTextState() override
+System::SharedPtr<Aspose::Pdf::LogicalStructure::StructureTextState> Aspose::Pdf::LogicalStructure::ILSTextElement::get_StructureTextState() override
 ```
 
 ## Remarks

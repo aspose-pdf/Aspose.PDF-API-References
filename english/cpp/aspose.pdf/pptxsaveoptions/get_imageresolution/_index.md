@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pptxsaveoptions/get_imageresolution/
 Gets the image resolution (dpi). Default is 192 dpi.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::PptxSaveOptions::get_ImageResolution() const
+int32_t Aspose::Pdf::PptxSaveOptions::get_ImageResolution() const
 ```
 
 ## See Also

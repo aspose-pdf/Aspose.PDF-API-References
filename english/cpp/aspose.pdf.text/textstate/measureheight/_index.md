@@ -4,7 +4,7 @@ linktitle: MeasureHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextState::MeasureHeight method. Measures character height in C++.'
 type: docs
-weight: 4000
+weight: 2100
 url: /cpp/aspose.pdf.text/textstate/measureheight/
 ---
 ## TextState::MeasureHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textstate/measureheight/
 Measures character height.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextState::MeasureHeight(char16_t character)
+double Aspose::Pdf::Text::TextState::MeasureHeight(char16_t character)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::TextState::MeasureHeight(char16_
 ### ReturnValue
 
 Height of the character if we could get it from font; otherwise 0.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>character</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Character to measure.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [TextState](../)

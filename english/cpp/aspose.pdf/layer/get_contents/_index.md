@@ -4,7 +4,7 @@ linktitle: get_Contents
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Layer::get_Contents method. Gets the layer content in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf/layer/get_contents/
 ---
 ## Layer::get_Contents method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/layer/get_contents/
 Gets the layer content.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Operator>>> & Aspose::Pdf::Layer::get_Contents() const
+const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Operator>>> & Aspose::Pdf::Layer::get_Contents() const
 ```
 
 ## See Also

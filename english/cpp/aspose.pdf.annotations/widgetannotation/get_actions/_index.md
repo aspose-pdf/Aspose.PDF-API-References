@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/get_actions/
 Gets the annotation actions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<AnnotationActionCollection> Aspose::Pdf::Annotations::WidgetAnnotation::get_Actions() const
+System::SharedPtr<AnnotationActionCollection> Aspose::Pdf::Annotations::WidgetAnnotation::get_Actions() const
 ```
 
 ## See Also

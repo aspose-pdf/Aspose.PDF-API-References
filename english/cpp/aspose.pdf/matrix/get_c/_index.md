@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/get_c/
 C member of the transformation matrix.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Matrix::get_C()
+double Aspose::Pdf::Matrix::get_C()
 ```
 
 ## See Also

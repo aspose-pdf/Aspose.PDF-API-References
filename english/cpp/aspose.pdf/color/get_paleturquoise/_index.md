@@ -4,7 +4,7 @@ linktitle: get_PaleTurquoise
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_PaleTurquoise method. Gets a system-defined color that has an ARGB value of #FFAFEEEE in C++.'
 type: docs
-weight: 11500
+weight: 11800
 url: /cpp/aspose.pdf/color/get_paleturquoise/
 ---
 ## Color::get_PaleTurquoise method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_paleturquoise/
 Gets a system-defined color that has an ARGB value of **#FFAFEEEE**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_PaleTurquoise()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_PaleTurquoise()
 ```
 
 

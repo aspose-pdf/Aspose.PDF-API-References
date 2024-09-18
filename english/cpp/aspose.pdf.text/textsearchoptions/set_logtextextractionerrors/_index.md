@@ -4,7 +4,7 @@ linktitle: set_LogTextExtractionErrors
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextSearchOptions::set_LogTextExtractionErrors method. Sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. true - means that text extraction (decoding) errors will be loged. It may decrease performance. false (default) - no error loging in C++.'
 type: docs
-weight: 1200
+weight: 1600
 url: /cpp/aspose.pdf.text/textsearchoptions/set_logtextextractionerrors/
 ---
 ## TextSearchOptions::set_LogTextExtractionErrors method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsearchoptions/set_logtextextractionerrors/
 Sets indication that text extraction (decoding) errors will be logged in the text (fragment) absorber. true - means that text extraction (decoding) errors will be loged. It may decrease performance. false (default) - no error loging.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextSearchOptions::set_LogTextExtractionErrors(bool value)
+void Aspose::Pdf::Text::TextSearchOptions::set_LogTextExtractionErrors(bool value)
 ```
 
 ## See Also

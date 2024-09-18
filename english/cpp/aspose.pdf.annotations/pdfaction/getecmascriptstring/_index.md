@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdfaction/getecmascriptstring/
 Gets string for ECMAScript Action.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::PdfAction::GetECMAScriptString()
+System::String Aspose::Pdf::Annotations::PdfAction::GetECMAScriptString()
 ```
 
 

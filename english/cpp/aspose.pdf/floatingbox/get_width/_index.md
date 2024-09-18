@@ -4,7 +4,7 @@ linktitle: get_Width
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FloatingBox::get_Width method. Gets a float value that indicates the width of the floating box in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/aspose.pdf/floatingbox/get_width/
 ---
 ## FloatingBox::get_Width method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/get_width/
 Gets a float value that indicates the width of the floating box.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::FloatingBox::get_Width() const
+double Aspose::Pdf::FloatingBox::get_Width() const
 ```
 
 ## See Also

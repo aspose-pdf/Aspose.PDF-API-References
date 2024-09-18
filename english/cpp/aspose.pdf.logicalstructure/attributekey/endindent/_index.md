@@ -4,7 +4,7 @@ linktitle: EndIndent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeKey::EndIndent field. EndIndent attribute (Layout attribute owner) in C++.'
 type: docs
-weight: 1600
+weight: 1900
 url: /cpp/aspose.pdf.logicalstructure/attributekey/endindent/
 ---
 ## EndIndent field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/endindent/
 EndIndent attribute (Layout attribute owner).
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::EndIndent
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::EndIndent
 ```
 
 ## See Also

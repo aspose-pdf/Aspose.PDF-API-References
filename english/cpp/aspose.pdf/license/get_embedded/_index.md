@@ -4,7 +4,7 @@ linktitle: get_Embedded
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::License::get_Embedded method. License number was added as embedded resource in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf/license/get_embedded/
 ---
 ## License::get_Embedded method
@@ -13,16 +13,13 @@ url: /cpp/aspose.pdf/license/get_embedded/
 [License](../) number was added as embedded resource.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::License::get_Embedded() const
+bool Aspose::Pdf::License::get_Embedded() const
 ```
 
-## Remarks
+
+## Deprecated
 
 
-<xrefsect id="deprecated_1_deprecated000132">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription></xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [License](../)

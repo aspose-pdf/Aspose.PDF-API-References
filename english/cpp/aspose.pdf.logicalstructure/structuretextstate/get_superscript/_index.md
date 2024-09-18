@@ -4,7 +4,7 @@ linktitle: get_Superscript
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::StructureTextState::get_Superscript method. Gets superscript of the text in C++.'
 type: docs
-weight: 1500
+weight: 1200
 url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_superscript/
 ---
 ## StructureTextState::get_Superscript method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/get_superscript/
 Gets superscript of the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Nullable<bool> Aspose::Pdf::LogicalStructure::StructureTextState::get_Superscript() const
+System::Nullable<bool> Aspose::Pdf::LogicalStructure::StructureTextState::get_Superscript() const
 ```
 
 ## Remarks

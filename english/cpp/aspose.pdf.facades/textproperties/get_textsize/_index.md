@@ -4,7 +4,7 @@ linktitle: get_TextSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::TextProperties::get_TextSize method. Gets text size in C++.'
 type: docs
-weight: 400
+weight: 500
 url: /cpp/aspose.pdf.facades/textproperties/get_textsize/
 ---
 ## TextProperties::get_TextSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/textproperties/get_textsize/
 Gets text size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Facades::TextProperties::get_TextSize() const
+double Aspose::Pdf::Facades::TextProperties::get_TextSize() const
 ```
 
 ## See Also

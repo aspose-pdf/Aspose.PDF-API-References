@@ -4,7 +4,7 @@ linktitle: Justification
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Justification enum. Enumerates the forms of quadding (justification) to be used in displaying the annotation''s text in C++.'
 type: docs
-weight: 15300
+weight: 13500
 url: /cpp/aspose.pdf.annotations/justification/
 ---
 ## Justification enum

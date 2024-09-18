@@ -4,7 +4,7 @@ linktitle: OptimizationOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use OptimizationOptions constructor of Aspose::Pdf::Optimization::OptimizationOptions class in C++.'
 type: docs
-weight: 2800
+weight: 100
 url: /cpp/aspose.pdf.optimization/optimizationoptions/optimizationoptions/
 ---
 ## OptimizationOptions::OptimizationOptions constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/optimizationoptions/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Optimization::OptimizationOptions::OptimizationOptions()
+Aspose::Pdf::Optimization::OptimizationOptions::OptimizationOptions()
 ```
 
 ## See Also

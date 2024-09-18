@@ -4,7 +4,7 @@ linktitle: get_IsSynchronized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationCollection::get_IsSynchronized method. Gets a value indicating whether access to the Aspose.Pdf.Annotations.AnnotationCollection is synchronized (thread safe) in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.pdf.annotations/annotationcollection/get_issynchronized/
 ---
 ## AnnotationCollection::get_IsSynchronized method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationcollection/get_issynchronized/
 Gets a value indicating whether access to the [Aspose.Pdf.Annotations.AnnotationCollection](../) is synchronized (thread safe).
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Annotations::AnnotationCollection::get_IsSynchronized()
+bool Aspose::Pdf::Annotations::AnnotationCollection::get_IsSynchronized()
 ```
 
 ## See Also

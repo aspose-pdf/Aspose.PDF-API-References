@@ -4,7 +4,7 @@ linktitle: Role_pb
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::Role_pb field. Attribute Role: pb - Push button in C++.'
 type: docs
-weight: 6300
+weight: 4400
 url: /cpp/aspose.pdf.logicalstructure/attributename/role_pb/
 ---
 ## Role_pb field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/role_pb/
 Attribute Role: pb - Push button.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Role_pb
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::Role_pb
 ```
 
 ## See Also

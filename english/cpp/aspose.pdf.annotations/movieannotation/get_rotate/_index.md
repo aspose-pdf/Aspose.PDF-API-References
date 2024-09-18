@@ -4,7 +4,7 @@ linktitle: get_Rotate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::MovieAnnotation::get_Rotate method. Gets the number of degrees by which the movie shall be rotated clockwise relative to the page. The value shall be a multiple of 90 in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.pdf.annotations/movieannotation/get_rotate/
 ---
 ## MovieAnnotation::get_Rotate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/movieannotation/get_rotate/
 Gets the number of degrees by which the movie shall be rotated clockwise relative to the page. The value shall be a multiple of 90.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::MovieAnnotation::get_Rotate()
+int32_t Aspose::Pdf::Annotations::MovieAnnotation::get_Rotate()
 ```
 
 ## See Also

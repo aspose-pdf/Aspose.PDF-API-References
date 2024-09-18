@@ -4,7 +4,7 @@ linktitle: get_EndingStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::LineAnnotation::get_EndingStyle method. Gets ending style for end point of line in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.annotations/lineannotation/get_endingstyle/
 ---
 ## LineAnnotation::get_EndingStyle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/get_endingstyle/
 Gets ending style for end point of line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API LineEnding Aspose::Pdf::Annotations::LineAnnotation::get_EndingStyle()
+LineEnding Aspose::Pdf::Annotations::LineAnnotation::get_EndingStyle()
 ```
 
 ## See Also

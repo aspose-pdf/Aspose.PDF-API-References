@@ -4,7 +4,7 @@ linktitle: get_YIndent
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::Position::get_YIndent method. Gets the Y coordinate of the object in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/aspose.pdf.text/position/get_yindent/
 ---
 ## Position::get_YIndent method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/position/get_yindent/
 Gets the Y coordinate of the object.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Text::Position::get_YIndent() const
+double Aspose::Pdf::Text::Position::get_YIndent() const
 ```
 
 ## See Also

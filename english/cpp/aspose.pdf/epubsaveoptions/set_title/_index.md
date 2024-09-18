@@ -4,7 +4,7 @@ linktitle: set_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::EpubSaveOptions::set_Title method. Sets EPUB document title in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/epubsaveoptions/set_title/
 ---
 ## EpubSaveOptions::set_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/epubsaveoptions/set_title/
 Sets EPUB document title.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::EpubSaveOptions::set_Title(System::String value)
+void Aspose::Pdf::EpubSaveOptions::set_Title(System::String value)
 ```
 
 ## See Also

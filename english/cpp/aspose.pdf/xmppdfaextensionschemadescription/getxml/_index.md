@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionschemadescription/getxml/
 Returns the list of xml elements that represent schema description in xml tree.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionSchemaDescription::GetXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument)
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionSchemaDescription::GetXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::List<Syste
 ### ReturnValue
 
 The list of xml elements.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>xmlDocument</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The source xml document.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [XmpPdfAExtensionSchemaDescription](../)

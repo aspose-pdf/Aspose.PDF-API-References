@@ -4,7 +4,7 @@ linktitle: Intersect
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Rectangle::Intersect method. Intersects to rectangles in C++.'
 type: docs
-weight: 1800
+weight: 1700
 url: /cpp/aspose.pdf/rectangle/intersect/
 ---
 ## Rectangle::Intersect method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rectangle/intersect/
 Intersects to rectangles.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Intersect(System::SharedPtr<Rectangle> otherRect)
+System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Intersect(System::SharedPtr<Rectangle> otherRect)
 ```
 
 
@@ -24,20 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Inter
 ### ReturnValue
 
 Intersection of rectangles; null if rectangles are not intersected.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>otherRect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> to which this recatangle be intersected.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Rectangle](../)

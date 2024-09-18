@@ -4,7 +4,7 @@ linktitle: FreeMemory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::FreeMemory method. Clears memory in C++.'
 type: docs
-weight: 10200
+weight: 1300
 url: /cpp/aspose.pdf/document/freememory/
 ---
 ## Document::FreeMemory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/freememory/
 Clears memory.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::FreeMemory() override
+void Aspose::Pdf::Document::FreeMemory() override
 ```
 
 ## See Also

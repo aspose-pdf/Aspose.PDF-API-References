@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/get_textstyle/
 Gets style of the text in appearance. when text style is changed, text appearance is updated.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Annotations::TextStyle> Aspose::Pdf::Annotations::FreeTextAnnotation::get_TextStyle()
+System::SharedPtr<Aspose::Pdf::Annotations::TextStyle> Aspose::Pdf::Annotations::FreeTextAnnotation::get_TextStyle()
 ```
 
 ## See Also

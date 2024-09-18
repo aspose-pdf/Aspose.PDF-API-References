@@ -4,7 +4,7 @@ linktitle: set_RenderMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DView::set_RenderMode method. Sets the render mode of view in C++.'
 type: docs
-weight: 400
+weight: 1300
 url: /cpp/aspose.pdf.annotations/pdf3dview/set_rendermode/
 ---
 ## PDF3DView::set_RenderMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_rendermode/
 Sets the render mode of view.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DView::set_RenderMode(System::SharedPtr<PDF3DRenderMode> value)
+void Aspose::Pdf::Annotations::PDF3DView::set_RenderMode(System::SharedPtr<PDF3DRenderMode> value)
 ```
 
 ## Remarks

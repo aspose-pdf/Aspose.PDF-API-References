@@ -4,7 +4,7 @@ linktitle: SoundIcon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundIcon enum. Enumerates the icons to be used in displaying the annotation in C++.'
 type: docs
-weight: 14600
+weight: 15100
 url: /cpp/aspose.pdf.annotations/soundicon/
 ---
 ## SoundIcon enum

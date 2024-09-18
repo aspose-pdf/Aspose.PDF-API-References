@@ -4,7 +4,7 @@ linktitle: set_HorizontalAlignment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::TextParagraph::set_HorizontalAlignment method. Sets horizontal alignment for the text inside paragrph''s Rectangle in C++.'
 type: docs
-weight: 1000
+weight: 1800
 url: /cpp/aspose.pdf.text/textparagraph/set_horizontalalignment/
 ---
 ## TextParagraph::set_HorizontalAlignment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/set_horizontalalignment/
 Sets horizontal alignment for the text inside paragrph's [Rectangle](../../../aspose.pdf/rectangle/).
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextParagraph::set_HorizontalAlignment(Aspose::Pdf::HorizontalAlignment value)
+void Aspose::Pdf::Text::TextParagraph::set_HorizontalAlignment(Aspose::Pdf::HorizontalAlignment value)
 ```
 
 ## Remarks

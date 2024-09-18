@@ -4,7 +4,7 @@ linktitle: set_TransitionType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::set_TransitionType method. Sets transition style to use when moving to this page from another during a presentation in C++.'
 type: docs
-weight: 400
+weight: 2600
 url: /cpp/aspose.pdf.facades/pdfpageeditor/set_transitiontype/
 ---
 ## PdfPageEditor::set_TransitionType method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/set_transitiontype/
 Sets transition style to use when moving to this page from another during a presentation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfPageEditor::set_TransitionType(int32_t value)
+void Aspose::Pdf::Facades::PdfPageEditor::set_TransitionType(int32_t value)
 ```
 
 ## See Also

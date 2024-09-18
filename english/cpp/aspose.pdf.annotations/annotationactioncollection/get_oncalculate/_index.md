@@ -4,7 +4,7 @@ linktitle: get_OnCalculate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnCalculate method. Gets an action to calculate field value in C++.'
 type: docs
-weight: 2700
+weight: 100
 url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_oncalculate/
 ---
 ## AnnotationActionCollection::get_OnCalculate method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/get_oncalculate/
 Gets an action to calculate field value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnCalculate()
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::AnnotationActionCollection::get_OnCalculate()
 ```
 
 ## See Also

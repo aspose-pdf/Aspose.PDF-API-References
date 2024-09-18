@@ -4,7 +4,7 @@ linktitle: set_Margin
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HeaderFooter::set_Margin method. Sets the margin info in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/aspose.pdf/headerfooter/set_margin/
 ---
 ## HeaderFooter::set_Margin method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfooter/set_margin/
 Sets the margin info.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::HeaderFooter::set_Margin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::HeaderFooter::set_Margin(System::SharedPtr<MarginInfo> value)
 ```
 
 ## See Also

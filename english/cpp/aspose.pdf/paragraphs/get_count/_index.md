@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Paragraphs::get_Count method. Get paragraphs count in C++.'
 type: docs
-weight: 100
+weight: 1000
 url: /cpp/aspose.pdf/paragraphs/get_count/
 ---
 ## Paragraphs::get_Count method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/paragraphs/get_count/
 Get paragraphs count.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Paragraphs::get_Count()
+int32_t Aspose::Pdf::Paragraphs::get_Count()
 ```
 
 ## See Also

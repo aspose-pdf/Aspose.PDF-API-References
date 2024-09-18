@@ -4,7 +4,7 @@ linktitle: set_DefaultAppearance
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::FreeTextAnnotation::set_DefaultAppearance method. Sets the default appearance string to be used in formatting the text in C++.'
 type: docs
-weight: 800
+weight: 1600
 url: /cpp/aspose.pdf.annotations/freetextannotation/set_defaultappearance/
 ---
 ## FreeTextAnnotation::set_DefaultAppearance method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/set_defaultappearance/
 Sets the default appearance string to be used in formatting the text.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::FreeTextAnnotation::set_DefaultAppearance(System::String value)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::set_DefaultAppearance(System::String value)
 ```
 
 ## See Also

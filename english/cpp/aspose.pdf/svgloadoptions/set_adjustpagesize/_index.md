@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/svgloadoptions/set_adjustpagesize/
 Adust pdf page size to svg size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::SvgLoadOptions::set_AdjustPageSize(bool value)
+void Aspose::Pdf::SvgLoadOptions::set_AdjustPageSize(bool value)
 ```
 
 ## See Also

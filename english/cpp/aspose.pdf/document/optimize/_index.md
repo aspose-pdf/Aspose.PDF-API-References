@@ -4,7 +4,7 @@ linktitle: Optimize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::Optimize method. Linearize the document in order to in C++.'
 type: docs
-weight: 9800
+weight: 7200
 url: /cpp/aspose.pdf/document/optimize/
 ---
 ## Document::Optimize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/optimize/
 Linearize the document in order to.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Document::Optimize()
+void Aspose::Pdf::Document::Optimize()
 ```
 
 ## Remarks

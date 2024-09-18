@@ -4,7 +4,7 @@ linktitle: get_Rectangle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::HtmlFragment::get_Rectangle method. Gets rectangle of the HtmlFragment in C++.'
 type: docs
-weight: 100
+weight: 600
 url: /cpp/aspose.pdf/htmlfragment/get_rectangle/
 ---
 ## HtmlFragment::get_Rectangle method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlfragment/get_rectangle/
 Gets rectangle of the [HtmlFragment](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::Drawing::RectangleF Aspose::Pdf::HtmlFragment::get_Rectangle() const
+System::Drawing::RectangleF Aspose::Pdf::HtmlFragment::get_Rectangle() const
 ```
 
 ## See Also

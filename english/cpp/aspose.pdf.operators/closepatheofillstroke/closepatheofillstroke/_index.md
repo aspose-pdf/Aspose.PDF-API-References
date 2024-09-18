@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/closepatheofillstroke/closepatheofillstroke/
 Initializes operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Operators::ClosePathEOFillStroke::ClosePathEOFillStroke()
+Aspose::Pdf::Operators::ClosePathEOFillStroke::ClosePathEOFillStroke()
 ```
 
 ## See Also

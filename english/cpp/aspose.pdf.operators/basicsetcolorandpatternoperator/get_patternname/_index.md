@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/basicsetcolorandpatternoperator/get_patternname/
 Gets Pattern Name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::BasicSetColorAndPatternOperator::get_PatternName() const
+System::String Aspose::Pdf::Operators::BasicSetColorAndPatternOperator::get_PatternName() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: set_CheckDifferentNamesInFontDictionaries
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PdfANonSpecificationFlags::set_CheckDifferentNamesInFontDictionaries method. Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/pdfanonspecificationflags/set_checkdifferentnamesinfontdictionaries/
 ---
 ## PdfANonSpecificationFlags::set_CheckDifferentNamesInFontDictionaries method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfanonspecificationflags/set_checkdifferentnamesinfontdict
 Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfANonSpecificationFlags::set_CheckDifferentNamesInFontDictionaries(bool value)
+void Aspose::Pdf::PdfANonSpecificationFlags::set_CheckDifferentNamesInFontDictionaries(bool value)
 ```
 
 ## See Also

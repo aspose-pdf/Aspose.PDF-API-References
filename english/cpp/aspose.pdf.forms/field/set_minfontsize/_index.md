@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/set_minfontsize/
 Minimal font size which can be used for field contents. -1 to don't check size.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Field::set_MinFontSize(double value)
+static void Aspose::Pdf::Forms::Field::set_MinFontSize(double value)
 ```
 
 ## See Also

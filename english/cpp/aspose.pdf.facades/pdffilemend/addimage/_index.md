@@ -4,7 +4,7 @@ linktitle: AddImage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileMend::AddImage method. Adds image to the specified page of PDF document at specified coordinates in C++.'
 type: docs
-weight: 1400
+weight: 200
 url: /cpp/aspose.pdf.facades/pdffilemend/addimage/
 ---
 ## PdfFileMend::AddImage(System::SharedPtr\<System::IO::Stream\>, int32_t, float, float, float, float) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilemend/addimage/
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
 ```
 
 
@@ -29,59 +29,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input image stream.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNum</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of page that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileMend](../)
@@ -93,7 +41,7 @@ True if success false otherwise.
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
 ```
 
 
@@ -110,67 +58,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input image stream.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNum</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of page that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>compositingParameters</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The graphics compositing parameters for the image.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
@@ -183,7 +71,7 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
 ```
 
 
@@ -199,59 +87,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input image stream.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNums</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The numbers of pages that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileMend](../)
@@ -263,7 +99,7 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
 ```
 
 
@@ -280,67 +116,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageStream</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Input image stream.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNums</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The numbers of pages that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>compositingParameters</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The graphics compositing parameters for the images.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
@@ -353,7 +129,7 @@ True if success false otherwise.
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
 ```
 
 
@@ -369,59 +145,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of input image file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNum</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of page that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileMend](../)
@@ -433,7 +157,7 @@ True if success false otherwise.
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, int32_t pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
 ```
 
 
@@ -450,67 +174,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of input image file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNum</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The number of page that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>compositingParameters</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The graphics compositing parameters for the images.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
@@ -523,7 +187,7 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
 ```
 
 
@@ -539,59 +203,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of input image file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNums</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The numbers of pages that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileMend](../)
@@ -603,7 +215,7 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
+bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::String imageName, System::ArrayPtr<int32_t> pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, System::SharedPtr<CompositingParameters> compositingParameters)
 ```
 
 
@@ -620,67 +232,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileMend::AddImage(System::S
 ### ReturnValue
 
 True if success false otherwise.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>imageName</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The path of input image file.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNums</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The numbers of pages that will receive the image.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>lowerLeftY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The lower left y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightX</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right x of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>upperRightY</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The upper right y of image rectangle.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>compositingParameters</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The graphics compositing parameters for the images.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [CompositingParameters](../../../aspose.pdf/compositingparameters/)

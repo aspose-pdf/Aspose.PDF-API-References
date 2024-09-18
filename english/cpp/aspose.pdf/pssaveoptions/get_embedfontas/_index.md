@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pssaveoptions/get_embedfontas/
 Gets/sets type in which fonts must be embedded in resulting PS document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::PsSaveOptions::get_EmbedFontAs() const
+System::String Aspose::Pdf::PsSaveOptions::get_EmbedFontAs() const
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: Xfdf
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SubmitFormAction::Xfdf field. If set, field names and values shall be submitted as XFDF in C++.'
 type: docs
-weight: 1100
+weight: 1800
 url: /cpp/aspose.pdf.annotations/submitformaction/xfdf/
 ---
 ## Xfdf field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/xfdf/
 If set, field names and values shall be submitted as XFDF.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Annotations::SubmitFormAction::Xfdf
+static int32_t Aspose::Pdf::Annotations::SubmitFormAction::Xfdf
 ```
 
 ## See Also

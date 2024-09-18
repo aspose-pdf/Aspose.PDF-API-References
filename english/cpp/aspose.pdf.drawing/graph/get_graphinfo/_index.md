@@ -4,7 +4,7 @@ linktitle: get_GraphInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::get_GraphInfo method. Gets a GraphInfo object that indicates the graph info,such as color, line width,etc in C++.'
 type: docs
-weight: 100
+weight: 400
 url: /cpp/aspose.pdf.drawing/graph/get_graphinfo/
 ---
 ## Graph::get_GraphInfo method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/get_graphinfo/
 Gets a [GraphInfo](../../../aspose.pdf/graphinfo/) object that indicates the graph info,such as color, line width,etc.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::GraphInfo> Aspose::Pdf::Drawing::Graph::get_GraphInfo() const
+System::SharedPtr<Aspose::Pdf::GraphInfo> Aspose::Pdf::Drawing::Graph::get_GraphInfo() const
 ```
 
 ## See Also

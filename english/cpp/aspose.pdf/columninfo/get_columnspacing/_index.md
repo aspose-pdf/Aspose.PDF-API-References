@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/columninfo/get_columnspacing/
 Gets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch".
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::ColumnInfo::get_ColumnSpacing() const
+System::String Aspose::Pdf::ColumnInfo::get_ColumnSpacing() const
 ```
 
 ## Remarks

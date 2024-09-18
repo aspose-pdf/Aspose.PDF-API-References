@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/get_cuttingplaneorientation/
 Gets the cutting plane orientation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DCuttingPlaneOrientation> Aspose::Pdf::Annotations::PDF3DCrossSection::get_CuttingPlaneOrientation() const
+System::SharedPtr<PDF3DCuttingPlaneOrientation> Aspose::Pdf::Annotations::PDF3DCrossSection::get_CuttingPlaneOrientation() const
 ```
 
 ## Remarks
@@ -21,16 +21,6 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<PDF3DCuttingPlaneOrientation> Aspose::Pd
 
 The cutting plane orientation.
 
-<parameterlist kind="exception">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>Exception</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Only one of the values shall be Null </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)

@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::INamedDestinationCollection::Remove method. Removes destination by its name in C++.'
 type: docs
-weight: 500
+weight: 600
 url: /cpp/aspose.pdf/inameddestinationcollection/remove/
 ---
 ## INamedDestinationCollection::Remove method
@@ -20,19 +20,7 @@ virtual void Aspose::Pdf::INamedDestinationCollection::Remove(System::String nam
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | System::String | Name value. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>name</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Name value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [INamedDestinationCollection](../)

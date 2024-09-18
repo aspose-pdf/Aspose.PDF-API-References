@@ -4,7 +4,7 @@ linktitle: get_FixHeight
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::get_FixHeight method. Gets the image height in C++.'
 type: docs
-weight: 800
+weight: 700
 url: /cpp/aspose.pdf/image/get_fixheight/
 ---
 ## Image::get_FixHeight method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/get_fixheight/
 Gets the image height.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Image::get_FixHeight() const
+double Aspose::Pdf::Image::get_FixHeight() const
 ```
 
 ## See Also

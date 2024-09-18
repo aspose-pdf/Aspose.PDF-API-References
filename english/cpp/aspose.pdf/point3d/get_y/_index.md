@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/point3d/get_y/
 Y coordinate value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Point3D::get_Y() const
+double Aspose::Pdf::Point3D::get_Y() const
 ```
 
 ## See Also

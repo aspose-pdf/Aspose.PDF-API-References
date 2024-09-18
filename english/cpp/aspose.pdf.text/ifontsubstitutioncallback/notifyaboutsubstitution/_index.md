@@ -21,27 +21,7 @@ virtual void Aspose::Pdf::Text::IFontSubstitutionCallback::NotifyAboutSubstituti
 | --- | --- | --- |
 | oldFont | System::SharedPtr\<Aspose::Pdf::Text::Font\> | original font |
 | newFont | System::SharedPtr\<Aspose::Pdf::Text::Font\> | new font |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>oldFont</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>original font</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>newFont</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>new font</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Font](../../font/)

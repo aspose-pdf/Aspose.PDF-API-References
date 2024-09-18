@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/empty/
 Represents empty color.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::Empty
+static System::SharedPtr<Color> Aspose::Pdf::Color::Empty
 ```
 
 ## See Also

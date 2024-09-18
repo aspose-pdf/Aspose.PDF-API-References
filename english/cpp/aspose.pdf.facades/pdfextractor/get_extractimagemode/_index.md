@@ -4,7 +4,7 @@ linktitle: get_ExtractImageMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfExtractor::get_ExtractImageMode method. Sets the mode for extract images process in C++.'
 type: docs
-weight: 900
+weight: 700
 url: /cpp/aspose.pdf.facades/pdfextractor/get_extractimagemode/
 ---
 ## PdfExtractor::get_ExtractImageMode method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/get_extractimagemode/
 Sets the mode for extract images process.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::ExtractImageMode Aspose::Pdf::Facades::PdfExtractor::get_ExtractImageMode() const
+Aspose::Pdf::ExtractImageMode Aspose::Pdf::Facades::PdfExtractor::get_ExtractImageMode() const
 ```
 
 ## Remarks

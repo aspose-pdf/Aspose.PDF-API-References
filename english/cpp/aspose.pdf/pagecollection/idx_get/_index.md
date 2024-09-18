@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::idx_get method. Gets page by index in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.pdf/pagecollection/idx_get/
 ---
 ## PageCollection::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/idx_get/
 Gets page by index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Page> Aspose::Pdf::PageCollection::idx_get(int32_t index)
+System::SharedPtr<Page> Aspose::Pdf::PageCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<Page> Aspose::Pdf::PageCollection::idx_g
 ### ReturnValue
 
 Retreived page.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of page.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../page/)

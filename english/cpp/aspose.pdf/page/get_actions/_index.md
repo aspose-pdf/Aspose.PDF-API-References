@@ -4,7 +4,7 @@ linktitle: get_Actions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_Actions method. Gets collection of page properties in C++.'
 type: docs
-weight: 5000
+weight: 1300
 url: /cpp/aspose.pdf/page/get_actions/
 ---
 ## Page::get_Actions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/get_actions/
 Gets collection of page properties.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PageActionCollection> Aspose::Pdf::Page::get_Actions()
+System::SharedPtr<PageActionCollection> Aspose::Pdf::Page::get_Actions()
 ```
 
 ## See Also

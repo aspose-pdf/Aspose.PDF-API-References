@@ -4,7 +4,7 @@ linktitle: get_Encoding
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::ImageCompressionOptions::get_Encoding method. Gets encoding used to store images in C++.'
 type: docs
-weight: 1100
+weight: 300
 url: /cpp/aspose.pdf.optimization/imagecompressionoptions/get_encoding/
 ---
 ## ImageCompressionOptions::get_Encoding method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.optimization/imagecompressionoptions/get_encoding/
 Gets encoding used to store images.
 
 ```cpp
-ASPOSE_PDF_SHARED_API ImageEncoding Aspose::Pdf::Optimization::ImageCompressionOptions::get_Encoding() const
+ImageEncoding Aspose::Pdf::Optimization::ImageCompressionOptions::get_Encoding() const
 ```
 
 ## See Also

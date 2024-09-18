@@ -13,26 +13,14 @@ url: /cpp/aspose.pdf.forms/radiobuttonfield/setposition/
 Move all subitems of radio button to specified positins on the page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::RadioButtonField::SetPosition(System::SharedPtr<Point> point) override
+void Aspose::Pdf::Forms::RadioButtonField::SetPosition(System::SharedPtr<Point> point) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | point | System::SharedPtr\<Point\> | Sets position of RadioButton field annotations. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>point</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Sets position of RadioButton field annotations.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Point](../../../aspose.pdf/point/)

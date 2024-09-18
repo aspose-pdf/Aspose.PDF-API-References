@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/get_color/
 Gets a [Color](../../color/) object that indicates the color of the graph.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::GraphInfo::get_Color() const
+System::SharedPtr<Aspose::Pdf::Color> Aspose::Pdf::GraphInfo::get_Color() const
 ```
 
 ## See Also

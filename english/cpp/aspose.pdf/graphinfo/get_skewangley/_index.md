@@ -4,7 +4,7 @@ linktitle: get_SkewAngleY
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GraphInfo::get_SkewAngleY method. Gets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system in C++.'
 type: docs
-weight: 1500
+weight: 1300
 url: /cpp/aspose.pdf/graphinfo/get_skewangley/
 ---
 ## GraphInfo::get_SkewAngleY method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/get_skewangley/
 Gets a float value that indicates the skew angle of the y-coordinate when transforming a coordinate system.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::GraphInfo::get_SkewAngleY() const
+double Aspose::Pdf::GraphInfo::get_SkewAngleY() const
 ```
 
 ## See Also

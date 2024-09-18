@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/metered/metered/
 Initializes a new instance of this class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Metered::Metered()
+Aspose::Pdf::Metered::Metered()
 ```
 
 ## See Also

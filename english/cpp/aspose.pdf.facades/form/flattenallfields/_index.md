@@ -4,7 +4,7 @@ linktitle: FlattenAllFields
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Form::FlattenAllFields method. Flattens all the fields in C++.'
 type: docs
-weight: 3200
+weight: 1100
 url: /cpp/aspose.pdf.facades/form/flattenallfields/
 ---
 ## Form::FlattenAllFields method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/flattenallfields/
 Flattens all the fields.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Form::FlattenAllFields()
+void Aspose::Pdf::Facades::Form::FlattenAllFields()
 ```
 
 ## See Also

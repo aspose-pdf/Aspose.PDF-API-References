@@ -4,7 +4,7 @@ linktitle: set_Symbol
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::CaretAnnotation::set_Symbol method. Sets symbol associated with caret in C++.'
 type: docs
-weight: 500
+weight: 700
 url: /cpp/aspose.pdf.annotations/caretannotation/set_symbol/
 ---
 ## CaretAnnotation::set_Symbol method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/caretannotation/set_symbol/
 Sets symbol associated with caret.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::CaretAnnotation::set_Symbol(CaretSymbol value)
+void Aspose::Pdf::Annotations::CaretAnnotation::set_Symbol(CaretSymbol value)
 ```
 
 ## Remarks

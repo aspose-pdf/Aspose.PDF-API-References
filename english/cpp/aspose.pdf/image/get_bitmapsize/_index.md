@@ -4,7 +4,7 @@ linktitle: get_BitmapSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Image::get_BitmapSize method. Gets the image bitmap size in C++.'
 type: docs
-weight: 500
+weight: 400
 url: /cpp/aspose.pdf/image/get_bitmapsize/
 ---
 ## Image::get_BitmapSize method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/get_bitmapsize/
 Gets the image bitmap size.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Rectangle> Aspose::Pdf::Image::get_BitmapSize()
+System::SharedPtr<Rectangle> Aspose::Pdf::Image::get_BitmapSize()
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: Graph
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Drawing::Graph::Graph constructor. Initializes a new instance of the Graph class in C++.'
 type: docs
-weight: 1900
+weight: 100
 url: /cpp/aspose.pdf.drawing/graph/graph/
 ---
 ## Graph::Graph(double, double) constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/graph/
 Initializes a new instance of the [Graph](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Drawing::Graph::Graph(double width, double height)
+Aspose::Pdf::Drawing::Graph::Graph(double width, double height)
 ```
 
 
@@ -21,27 +21,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Drawing::Graph::Graph(double width, double he
 | --- | --- | --- |
 | width | double | The width of the graph. |
 | height | double | The height of the graph. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>width</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The width of the graph.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>height</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The height of the graph.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Graph](../)
@@ -53,7 +33,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Drawing::Graph::Graph(double width, double he
 Initializes a new instance of the [Graph](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Drawing::Graph::Graph(float width, float height)
+Aspose::Pdf::Drawing::Graph::Graph(float width, float height)
 ```
 
 
@@ -61,32 +41,10 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Drawing::Graph::Graph(float width, float heig
 | --- | --- | --- |
 | width | float | The width of the graph. |
 | height | float | The height of the graph. |
-## Remarks
 
+## Deprecated
+Constructor is deprecated. Please use constructor with double instead 
 
-<xrefsect id="deprecated_1_deprecated000101">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Constructor is deprecated. Please use constructor with double instead </para>
-  </xrefdescription>
-</xrefsect><parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>width</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The width of the graph.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>height</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The height of the graph.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Graph](../)

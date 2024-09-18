@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/javascriptcollection/remove/
 Removes JavaScript by its name.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::JavaScriptCollection::Remove(System::String key)
+bool Aspose::Pdf::JavaScriptCollection::Remove(System::String key)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::JavaScriptCollection::Remove(System::Str
 ### ReturnValue
 
 True - if javascript removed; otherwise, false.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Key value.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [JavaScriptCollection](../)

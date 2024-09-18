@@ -4,7 +4,7 @@ linktitle: TextAlign_End
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::LogicalStructure::AttributeName::TextAlign_End field. Attribute TextAlign: End - Aligned with the end edge in C++.'
 type: docs
-weight: 2500
+weight: 6000
 url: /cpp/aspose.pdf.logicalstructure/attributename/textalign_end/
 ---
 ## TextAlign_End field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/textalign_end/
 Attribute TextAlign: End - Aligned with the end edge.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextAlign_End
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::TextAlign_End
 ```
 
 ## See Also

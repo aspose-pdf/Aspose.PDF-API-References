@@ -4,7 +4,7 @@ linktitle: get_AfterPrinting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::DocumentActionCollection::get_AfterPrinting method. Action that will be performed after document printing in C++.'
 type: docs
-weight: 900
+weight: 200
 url: /cpp/aspose.pdf.annotations/documentactioncollection/get_afterprinting/
 ---
 ## DocumentActionCollection::get_AfterPrinting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/get_afterprinting/
 Action that will be performed after document printing.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_AfterPrinting() const
+System::SharedPtr<PdfAction> Aspose::Pdf::Annotations::DocumentActionCollection::get_AfterPrinting() const
 ```
 
 ## See Also

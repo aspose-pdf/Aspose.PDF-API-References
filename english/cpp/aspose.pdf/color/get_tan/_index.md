@@ -4,7 +4,7 @@ linktitle: get_Tan
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Tan method. Gets a system-defined color that has an ARGB value of #FFD2B48C in C++.'
 type: docs
-weight: 14000
+weight: 14300
 url: /cpp/aspose.pdf/color/get_tan/
 ---
 ## Color::get_Tan method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_tan/
 Gets a system-defined color that has an ARGB value of **#FFD2B48C**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Tan()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Tan()
 ```
 
 

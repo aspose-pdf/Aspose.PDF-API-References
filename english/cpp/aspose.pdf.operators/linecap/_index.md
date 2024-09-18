@@ -4,7 +4,7 @@ linktitle: LineCap
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::LineCap enum. The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they are stroked in C++.'
 type: docs
-weight: 8400
+weight: 8300
 url: /cpp/aspose.pdf.operators/linecap/
 ---
 ## LineCap enum

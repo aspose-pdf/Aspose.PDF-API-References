@@ -4,7 +4,7 @@ linktitle: set_EndPage
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfConverter::set_EndPage method. Sets end position which you want to convert in C++.'
 type: docs
-weight: 1400
+weight: 2000
 url: /cpp/aspose.pdf.facades/pdfconverter/set_endpage/
 ---
 ## PdfConverter::set_EndPage method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/set_endpage/
 Sets end position which you want to convert.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfConverter::set_EndPage(int32_t value)
+void Aspose::Pdf::Facades::PdfConverter::set_EndPage(int32_t value)
 ```
 
 ## See Also

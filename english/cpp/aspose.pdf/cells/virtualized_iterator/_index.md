@@ -4,7 +4,7 @@ linktitle: virtualized_iterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Cells::virtualized_iterator typedef. Virtualized type in C++.'
 type: docs
-weight: 2300
+weight: 2200
 url: /cpp/aspose.pdf/cells/virtualized_iterator/
 ---
 ## virtualized_iterator typedef

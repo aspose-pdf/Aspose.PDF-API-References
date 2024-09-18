@@ -4,7 +4,7 @@ linktitle: set_AngleX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::set_AngleX method. Sets the angle to X axis in C++.'
 type: docs
-weight: 200
+weight: 500
 url: /cpp/aspose.pdf.annotations/pdf3dcuttingplaneorientation/set_anglex/
 ---
 ## PDF3DCuttingPlaneOrientation::set_AngleX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcuttingplaneorientation/set_anglex/
 Sets the angle to X axis.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::set_AngleX(System::Nullable<double> value)
+void Aspose::Pdf::Annotations::PDF3DCuttingPlaneOrientation::set_AngleX(System::Nullable<double> value)
 ```
 
 ## Remarks

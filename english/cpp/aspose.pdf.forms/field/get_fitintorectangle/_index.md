@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_fitintorectangle/
 If true then font size will reduced to fit text to specified rectangle.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Field::get_FitIntoRectangle()
+static bool Aspose::Pdf::Forms::Field::get_FitIntoRectangle()
 ```
 
 ## See Also

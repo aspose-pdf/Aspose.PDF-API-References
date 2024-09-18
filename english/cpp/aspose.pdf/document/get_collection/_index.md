@@ -4,7 +4,7 @@ linktitle: get_Collection
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::get_Collection method. Gets collection of document in C++.'
 type: docs
-weight: 1900
+weight: 1800
 url: /cpp/aspose.pdf/document/get_collection/
 ---
 ## Document::get_Collection method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/get_collection/
 Gets collection of document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Collection> Aspose::Pdf::Document::get_Collection()
+System::SharedPtr<Aspose::Pdf::Collection> Aspose::Pdf::Document::get_Collection()
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.xfaconverter/xfaparseroptions/get_signed/
 If this property is true then document will be converted with using of xfa form stream (if it exists). If it is false then xfa form stream will be ignored. This property was inrtoduced because it's not clear how to calculate check sum that used for checking sygnature.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::XfaConverter::XfaParserOptions::get_Signed() const
+bool Aspose::Pdf::XfaConverter::XfaParserOptions::get_Signed() const
 ```
 
 ## See Also

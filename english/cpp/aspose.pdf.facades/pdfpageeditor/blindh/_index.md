@@ -4,7 +4,7 @@ linktitle: BLINDH
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::BLINDH field. Vertical Blinds in C++.'
 type: docs
-weight: 3400
+weight: 2900
 url: /cpp/aspose.pdf.facades/pdfpageeditor/blindh/
 ---
 ## BLINDH field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/blindh/
 Vertical Blinds.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::BLINDH
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::BLINDH
 ```
 
 ## See Also

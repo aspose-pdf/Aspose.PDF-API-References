@@ -4,7 +4,7 @@ linktitle: ToInteger
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::XmpValue::ToInteger method. Converts to integer in C++.'
 type: docs
-weight: 1300
+weight: 1700
 url: /cpp/aspose.pdf/xmpvalue/tointeger/
 ---
 ## XmpValue::ToInteger method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpvalue/tointeger/
 Converts to integer.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::XmpValue::ToInteger()
+int32_t Aspose::Pdf::XmpValue::ToInteger()
 ```
 
 

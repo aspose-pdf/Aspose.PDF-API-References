@@ -4,7 +4,7 @@ linktitle: get_IsReadOnly
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfXmpMetadata::get_IsReadOnly method. Returns true if collection is read-only in C++.'
 type: docs
-weight: 300
+weight: 1000
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/get_isreadonly/
 ---
 ## PdfXmpMetadata::get_IsReadOnly method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfxmpmetadata/get_isreadonly/
 Returns true if collection is read-only.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfXmpMetadata::get_IsReadOnly() const override
+bool Aspose::Pdf::Facades::PdfXmpMetadata::get_IsReadOnly() const override
 ```
 
 ## See Also

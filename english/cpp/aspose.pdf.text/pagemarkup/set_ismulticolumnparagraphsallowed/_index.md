@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/pagemarkup/set_ismulticolumnparagraphsallowed/
 Sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::PageMarkup::set_IsMulticolumnParagraphsAllowed(bool value)
+void Aspose::Pdf::Text::PageMarkup::set_IsMulticolumnParagraphsAllowed(bool value)
 ```
 
 ## See Also

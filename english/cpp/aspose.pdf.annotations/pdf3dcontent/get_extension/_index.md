@@ -4,7 +4,7 @@ linktitle: get_Extension
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DContent::get_Extension method. Gets the extension  in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/pdf3dcontent/get_extension/
 ---
 ## PDF3DContent::get_Extension method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcontent/get_extension/
 Gets the extension .
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::PDF3DContent::get_Extension() const
+System::String Aspose::Pdf::Annotations::PDF3DContent::get_Extension() const
 ```
 
 ## Remarks

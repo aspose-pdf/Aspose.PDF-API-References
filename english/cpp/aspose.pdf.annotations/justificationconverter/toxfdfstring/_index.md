@@ -4,7 +4,7 @@ linktitle: ToXfdfString
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToXfdfString method of Aspose::Pdf::Annotations::JustificationConverter class in C++.'
 type: docs
-weight: 100
+weight: 200
 url: /cpp/aspose.pdf.annotations/justificationconverter/toxfdfstring/
 ---
 ## JustificationConverter::ToXfdfString method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/justificationconverter/toxfdfstring/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::JustificationConverter::ToXfdfString(Justification value)
+static System::String Aspose::Pdf::Annotations::JustificationConverter::ToXfdfString(Justification value)
 ```
 
 ## See Also

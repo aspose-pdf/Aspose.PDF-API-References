@@ -4,7 +4,7 @@ linktitle: Aspose::Pdf::Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use Aspose::Pdf::Text namespace in C++.'
 type: docs
-weight: 3000
+weight: 2400
 url: /cpp/aspose.pdf.text/
 ---
 
@@ -71,10 +71,10 @@ url: /cpp/aspose.pdf.text/
 
 | Enum | Description |
 | --- | --- |
-| [SubstitutionFontCategories](./substitutionfontcategories/) | Represents font categories that can be substituted. |
 | [CoordinateOrigin](./coordinateorigin/) | [Text](./) CoordinateOrigin enumeration. |
 | [FontStyles](./fontstyles/) | Specifies style information applied to text. |
 | [FontTypes](./fonttypes/) | Supported font types enumeration. |
+| [SubstitutionFontCategories](./substitutionfontcategories/) | Represents font categories that can be substituted. |
 | [TabAlignmentType](./tabalignmenttype/) | Enumerates the tab alignment types. |
 | [TabLeaderType](./tableadertype/) | Enumerates the tab leader types. |
 | [TextRenderingMode](./textrenderingmode/) | The text rendering mode, Tmode, determines whether showing text shall cause glyph outlines to be stroked, filled, used as a clipping boundary, or some combination of the three. |

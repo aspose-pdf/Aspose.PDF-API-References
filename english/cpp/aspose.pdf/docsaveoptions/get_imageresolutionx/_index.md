@@ -4,7 +4,7 @@ linktitle: get_ImageResolutionX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::get_ImageResolutionX method. Converted images X resolution in C++.'
 type: docs
-weight: 1100
+weight: 600
 url: /cpp/aspose.pdf/docsaveoptions/get_imageresolutionx/
 ---
 ## DocSaveOptions::get_ImageResolutionX method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/docsaveoptions/get_imageresolutionx/
 Converted images X resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::DocSaveOptions::get_ImageResolutionX() const
+int32_t Aspose::Pdf::DocSaveOptions::get_ImageResolutionX() const
 ```
 
 ## See Also

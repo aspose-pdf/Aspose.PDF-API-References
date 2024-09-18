@@ -4,7 +4,7 @@ linktitle: Bookmark
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::Bookmark::Bookmark constructor. Initializes a new instance of the Bookmark class in C++.'
 type: docs
-weight: 3700
+weight: 100
 url: /cpp/aspose.pdf.facades/bookmark/bookmark/
 ---
 ## Bookmark::Bookmark constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/bookmark/
 Initializes a new instance of the [Bookmark](../) class.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Facades::Bookmark::Bookmark()
+Aspose::Pdf::Facades::Bookmark::Bookmark()
 ```
 
 ## See Also

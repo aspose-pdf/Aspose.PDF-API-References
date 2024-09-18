@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/get_left/
 Gets the table left coordinate.
 
 ```cpp
-ASPOSE_PDF_SHARED_API double Aspose::Pdf::Drawing::Graph::get_Left() const
+double Aspose::Pdf::Drawing::Graph::get_Left() const
 ```
 
 ## See Also

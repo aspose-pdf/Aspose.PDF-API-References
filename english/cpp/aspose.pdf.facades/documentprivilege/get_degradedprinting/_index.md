@@ -4,7 +4,7 @@ linktitle: get_DegradedPrinting
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::DocumentPrivilege::get_DegradedPrinting method. Allows degraded printing in C++.'
 type: docs
-weight: 2100
+weight: 2400
 url: /cpp/aspose.pdf.facades/documentprivilege/get_degradedprinting/
 ---
 ## DocumentPrivilege::get_DegradedPrinting method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/documentprivilege/get_degradedprinting/
 Allows degraded printing.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_DegradedPrinting()
+static System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::DocumentPrivilege::get_DegradedPrinting()
 ```
 
 ## See Also

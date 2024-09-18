@@ -4,7 +4,7 @@ linktitle: set_MappingName
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::set_MappingName method. Sets mapping name of the field that shall be used when exporting interactive form field data from the document in C++.'
 type: docs
-weight: 600
+weight: 2400
 url: /cpp/aspose.pdf.forms/field/set_mappingname/
 ---
 ## Field::set_MappingName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/set_mappingname/
 Sets mapping name of the field that shall be used when exporting interactive form field data from the document.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Field::set_MappingName(System::String value)
+void Aspose::Pdf::Forms::Field::set_MappingName(System::String value)
 ```
 
 ## See Also

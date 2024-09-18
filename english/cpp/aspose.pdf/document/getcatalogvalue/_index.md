@@ -4,7 +4,7 @@ linktitle: GetCatalogValue
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Document::GetCatalogValue method. Returns item value from catalog dictionary in C++.'
 type: docs
-weight: 10100
+weight: 6500
 url: /cpp/aspose.pdf/document/getcatalogvalue/
 ---
 ## Document::GetCatalogValue method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/getcatalogvalue/
 Returns item value from catalog dictionary.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Document::GetCatalogValue(System::String key)
+System::SharedPtr<System::Object> Aspose::Pdf::Document::GetCatalogValue(System::String key)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::Document::G
 ### ReturnValue
 
 Item value - if key was successfully found; otherwise, null.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>key</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The key of item.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Document](../)

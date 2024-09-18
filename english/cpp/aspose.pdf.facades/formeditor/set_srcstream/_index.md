@@ -4,7 +4,7 @@ linktitle: set_SrcStream
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormEditor::set_SrcStream method. Sets source stream in C++.'
 type: docs
-weight: 600
+weight: 4800
 url: /cpp/aspose.pdf.facades/formeditor/set_srcstream/
 ---
 ## FormEditor::set_SrcStream method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/set_srcstream/
 Sets source stream.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::FormEditor::set_SrcStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::FormEditor::set_SrcStream(System::SharedPtr<System::IO::Stream> value)
 ```
 
-## Remarks
 
+## Deprecated
+Use BindPdf(inputStream) method for facade initialization. 
 
-<xrefsect id="deprecated_1_deprecated000035">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use BindPdf(inputStream) method for facade initialization. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [FormEditor](../)

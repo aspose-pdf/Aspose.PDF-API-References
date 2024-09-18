@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::AutoFiller::Close method. Closes the object and output streams in C++.'
 type: docs
-weight: 1800
+weight: 300
 url: /cpp/aspose.pdf.facades/autofiller/close/
 ---
 ## AutoFiller::Close method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/close/
 Closes the object and output streams.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::AutoFiller::Close() override
+void Aspose::Pdf::Facades::AutoFiller::Close() override
 ```
 
 ## See Also

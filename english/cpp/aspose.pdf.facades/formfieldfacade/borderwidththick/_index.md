@@ -4,7 +4,7 @@ linktitle: BorderWidthThick
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::BorderWidthThick field. Defines a thick border width in C++.'
 type: docs
-weight: 4200
+weight: 5400
 url: /cpp/aspose.pdf.facades/formfieldfacade/borderwidththick/
 ---
 ## BorderWidthThick field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/borderwidththick/
 Defines a thick border width.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API float Aspose::Pdf::Facades::FormFieldFacade::BorderWidthThick
+static float Aspose::Pdf::Facades::FormFieldFacade::BorderWidthThick
 ```
 
 ## See Also

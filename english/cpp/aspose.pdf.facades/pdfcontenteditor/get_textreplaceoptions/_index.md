@@ -4,7 +4,7 @@ linktitle: get_TextReplaceOptions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfContentEditor::get_TextReplaceOptions method. Gets text replace options in C++.'
 type: docs
-weight: 500
+weight: 3600
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/get_textreplaceoptions/
 ---
 ## PdfContentEditor::get_TextReplaceOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/get_textreplaceoptions/
 Gets text replace options.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> Aspose::Pdf::Facades::PdfContentEditor::get_TextReplaceOptions() const
+System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> Aspose::Pdf::Facades::PdfContentEditor::get_TextReplaceOptions() const
 ```
 
 ## See Also

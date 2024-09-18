@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/tbglitter/
 Top-Bottom Glitter.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::TBGLITTER
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::TBGLITTER
 ```
 
 ## See Also

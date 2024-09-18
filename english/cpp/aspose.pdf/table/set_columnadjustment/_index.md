@@ -4,7 +4,7 @@ linktitle: set_ColumnAdjustment
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::set_ColumnAdjustment method. Sets the table column adjustment in C++.'
 type: docs
-weight: 3900
+weight: 3000
 url: /cpp/aspose.pdf/table/set_columnadjustment/
 ---
 ## Table::set_ColumnAdjustment method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_columnadjustment/
 Sets the table column adjustment.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Table::set_ColumnAdjustment(Aspose::Pdf::ColumnAdjustment value)
+void Aspose::Pdf::Table::set_ColumnAdjustment(Aspose::Pdf::ColumnAdjustment value)
 ```
 
 ## See Also

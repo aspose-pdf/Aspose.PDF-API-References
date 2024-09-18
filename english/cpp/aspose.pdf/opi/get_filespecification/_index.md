@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/opi/get_filespecification/
 Gets the external file containing the low- resolution proxy image.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Opi::get_FileSpecification()
+System::String Aspose::Pdf::Opi::get_FileSpecification()
 ```
 
 ## See Also

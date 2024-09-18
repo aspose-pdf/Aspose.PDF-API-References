@@ -4,7 +4,7 @@ linktitle: set_ResizeImages
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Optimization::OptimizationOptions::set_ResizeImages method. If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter in C++.'
 type: docs
-weight: 1500
+weight: 2600
 url: /cpp/aspose.pdf.optimization/optimizationoptions/set_resizeimages/
 ---
 ## OptimizationOptions::set_ResizeImages method
@@ -13,18 +13,13 @@ url: /cpp/aspose.pdf.optimization/optimizationoptions/set_resizeimages/
 If this flag set to true and CompressImages is true images will be resized if image resoultion is greater then specified MaxResolution parameter.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Optimization::OptimizationOptions::set_ResizeImages(bool value)
+void Aspose::Pdf::Optimization::OptimizationOptions::set_ResizeImages(bool value)
 ```
 
-## Remarks
 
+## Deprecated
+Please use ImageCompressionOptions.ResizeImages instead. 
 
-<xrefsect id="deprecated_1_deprecated000129">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Please use ImageCompressionOptions.ResizeImages instead. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [OptimizationOptions](../)

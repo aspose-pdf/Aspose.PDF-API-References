@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/lineinfo/get_linewidth/
 Gets the width of a line.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::LineInfo::get_LineWidth() const
+int32_t Aspose::Pdf::Facades::LineInfo::get_LineWidth() const
 ```
 
 ## See Also

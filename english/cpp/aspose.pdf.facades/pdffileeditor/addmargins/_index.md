@@ -4,7 +4,7 @@ linktitle: AddMargins
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::AddMargins method. Resizes page contents and add specifed margins. Margins are specified in default space units in C++.'
 type: docs
-weight: 5900
+weight: 200
 url: /cpp/aspose.pdf.facades/pdffileeditor/addmargins/
 ---
 ## PdfFileEditor::AddMargins(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<int32_t\>, double, double, double, double) method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/addmargins/
 Resizes page contents and add specifed margins. Margins are specified in default space units.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::AddMargins(System::SharedPtr<System::IO::Stream> source, System::SharedPtr<System::IO::Stream> destination, System::ArrayPtr<int32_t> pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
+bool Aspose::Pdf::Facades::PdfFileEditor::AddMargins(System::SharedPtr<System::IO::Stream> source, System::SharedPtr<System::IO::Stream> destination, System::ArrayPtr<int32_t> pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
 ```
 
 
@@ -30,67 +30,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::AddMargins(Syste
 ### ReturnValue
 
 true if operation was successful.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>source</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream which contains source document.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>destination</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Stream where resultant document will be saved.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pages</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Array of page indexes. If null then all document pages will be processed.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>leftMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Left margin.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rightMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Right margin.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>topMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Top margin.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>bottomMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Bottom margin.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileEditor](../)
@@ -102,7 +42,7 @@ true if operation was successful.
 Resizes page contents and add specifed margins. Margins are specified in default space units.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::AddMargins(System::String source, System::String destination, System::ArrayPtr<int32_t> pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
+bool Aspose::Pdf::Facades::PdfFileEditor::AddMargins(System::String source, System::String destination, System::ArrayPtr<int32_t> pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
 ```
 
 
@@ -119,67 +59,7 @@ ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Facades::PdfFileEditor::AddMargins(Syste
 ### ReturnValue
 
 true if resize was successful.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>source</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Path to source document.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>destination</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Path where resultant document will be saved.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pages</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Array of page indexes. If null then all document pages will be processed.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>leftMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Left margin.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rightMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Right margin.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>topMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Top margin.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>bottomMargin</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Bottom margin.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [PdfFileEditor](../)

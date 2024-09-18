@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_exportable/
 Sets exportable flag of the field.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::WidgetAnnotation::set_Exportable(bool value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_Exportable(bool value)
 ```
 
 ## See Also

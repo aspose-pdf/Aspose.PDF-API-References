@@ -4,7 +4,7 @@ linktitle: get_BreakText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Table::get_BreakText method. Gets break text for table in C++.'
 type: docs
-weight: 300
+weight: 600
 url: /cpp/aspose.pdf/table/get_breaktext/
 ---
 ## Table::get_BreakText method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/get_breaktext/
 Gets break text for table.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::Table::get_BreakText() const
+const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::Table::get_BreakText() const
 ```
 
 ## See Also

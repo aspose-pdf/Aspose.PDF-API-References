@@ -4,7 +4,7 @@ linktitle: get_CustomPlayer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RichMediaAnnotation::get_CustomPlayer method. Sets or gets custom flash player to play video/audio data in C++.'
 type: docs
-weight: 200
+weight: 800
 url: /cpp/aspose.pdf.annotations/richmediaannotation/get_customplayer/
 ---
 ## RichMediaAnnotation::get_CustomPlayer method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/get_customplayer/
 Sets or gets custom flash player to play video/audio data.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::IO::Stream> Aspose::Pdf::Annotations::RichMediaAnnotation::get_CustomPlayer() const
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Annotations::RichMediaAnnotation::get_CustomPlayer() const
 ```
 
 ## See Also

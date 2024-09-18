@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::PrintDuplexConverter class in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/aspose.pdf/printduplexconverter/toenum/
 ---
 ## PrintDuplexConverter::ToEnum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/printduplexconverter/toenum/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API PrintDuplex Aspose::Pdf::PrintDuplexConverter::ToEnum(System::String value)
+static PrintDuplex Aspose::Pdf::PrintDuplexConverter::ToEnum(System::String value)
 ```
 
 ## See Also

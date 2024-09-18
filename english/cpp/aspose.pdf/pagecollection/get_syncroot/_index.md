@@ -4,7 +4,7 @@ linktitle: get_SyncRoot
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::PageCollection::get_SyncRoot method. Gets synchronization object of the collection in C++.'
 type: docs
-weight: 300
+weight: 1300
 url: /cpp/aspose.pdf/pagecollection/get_syncroot/
 ---
 ## PageCollection::get_SyncRoot method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagecollection/get_syncroot/
 Gets synchronization object of the collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Object> Aspose::Pdf::PageCollection::get_SyncRoot() const
+System::SharedPtr<System::Object> Aspose::Pdf::PageCollection::get_SyncRoot() const
 ```
 
 ## See Also

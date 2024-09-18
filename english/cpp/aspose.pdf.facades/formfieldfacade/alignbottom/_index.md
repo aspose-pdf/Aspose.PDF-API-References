@@ -4,7 +4,7 @@ linktitle: AlignBottom
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::FormFieldFacade::AlignBottom field. Defines vertical aglignment as bottom style in C++.'
 type: docs
-weight: 5600
+weight: 3900
 url: /cpp/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
 ## AlignBottom field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/alignbottom/
 Defines vertical aglignment as bottom style.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignBottom
+static int32_t Aspose::Pdf::Facades::FormFieldFacade::AlignBottom
 ```
 
 ## See Also

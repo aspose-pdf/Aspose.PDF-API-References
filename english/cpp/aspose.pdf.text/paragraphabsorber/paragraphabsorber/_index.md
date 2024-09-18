@@ -4,7 +4,7 @@ linktitle: ParagraphAbsorber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber constructor. Initializes a new instance of the ParagraphAbsorber that performs search for sections/paragraphs of the document or page in C++.'
 type: docs
-weight: 1000
+weight: 100
 url: /cpp/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 ---
 ## ParagraphAbsorber::ParagraphAbsorber() constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 Initializes a new instance of the [ParagraphAbsorber](../) that performs search for sections/paragraphs of the document or page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber()
+Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber()
 ```
 
 ## See Also
@@ -27,7 +27,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber()
 Initializes a new instance of the [ParagraphAbsorber](../) that performs search for sections/paragraphs of the document or page.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(int32_t sectionsSearchDepth)
+Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(int32_t sectionsSearchDepth)
 ```
 
 
@@ -39,50 +39,8 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(in
 
 See [ParagraphAbsorber::SectionsSearchDepth](../) property for more hints about the parameter. 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>sectionsSearchDepth</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Number of sequential searches for more fine elements of structure that will be performed.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
-* Class [ParagraphAbsorber](../)
-* Namespace [Aspose::Pdf::Text](../../)
-* Library [Aspose.PDF for C++](../../../)
-## ParagraphAbsorber::ParagraphAbsorber(System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>) constructor
-
-
-Initializes a new instance of the [ParagraphAbsorber](../) that performs search for sections/paragraphs of the document or page with the specified parameters.
-
-```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> paragraphAbsorberOptions)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| paragraphAbsorberOptions | System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\> | The [ParagraphAbsorberOptions](../../paragraphabsorberoptions/). |
-## Remarks
-
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>paragraphAbsorberOptions</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_paragraph_absorber_options" kindref="compound">ParagraphAbsorberOptions</ref>.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
-## See Also
-
-* Class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -92,7 +50,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(Sy
 Initializes a new instance of the [ParagraphAbsorber](../) that performs search for sections/paragraphs of the document or page with the specified parameters.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(int32_t sectionsSearchDepth, System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> paragraphAbsorberOptions)
+Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(int32_t sectionsSearchDepth, System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> paragraphAbsorberOptions)
 ```
 
 
@@ -100,27 +58,27 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(in
 | --- | --- | --- |
 | sectionsSearchDepth | int32_t | Number of sequential searches for more fine elements of structure that will be performed. |
 | paragraphAbsorberOptions | System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\> | The [ParagraphAbsorberOptions](../../paragraphabsorberoptions/). |
-## Remarks
+
+## See Also
+
+* Class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* Class [ParagraphAbsorber](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)
+## ParagraphAbsorber::ParagraphAbsorber(System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>) constructor
 
 
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>sectionsSearchDepth</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Number of sequential searches for more fine elements of structure that will be performed.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>paragraphAbsorberOptions</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>The <ref refid="class_aspose_1_1_pdf_1_1_text_1_1_paragraph_absorber_options" kindref="compound">ParagraphAbsorberOptions</ref>.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
+Initializes a new instance of the [ParagraphAbsorber](../) that performs search for sections/paragraphs of the document or page with the specified parameters.
+
+```cpp
+Aspose::Pdf::Text::ParagraphAbsorber::ParagraphAbsorber(System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> paragraphAbsorberOptions)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| paragraphAbsorberOptions | System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\> | The [ParagraphAbsorberOptions](../../paragraphabsorberoptions/). |
+
 ## See Also
 
 * Class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)

@@ -4,7 +4,7 @@ linktitle: get_Substitutions
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Text::FontRepository::get_Substitutions method. Gets font substitution strategies collection in C++.'
 type: docs
-weight: 100
+weight: 300
 url: /cpp/aspose.pdf.text/fontrepository/get_substitutions/
 ---
 ## FontRepository::get_Substitutions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/fontrepository/get_substitutions/
 Gets font substitution strategies collection.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<FontSubstitutionCollection> Aspose::Pdf::Text::FontRepository::get_Substitutions()
+static System::SharedPtr<FontSubstitutionCollection> Aspose::Pdf::Text::FontRepository::get_Substitutions()
 ```
 
 ## See Also

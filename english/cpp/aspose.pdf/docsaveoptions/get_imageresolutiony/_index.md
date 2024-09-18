@@ -4,7 +4,7 @@ linktitle: get_ImageResolutionY
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::DocSaveOptions::get_ImageResolutionY method. Converted images Y resolution in C++.'
 type: docs
-weight: 1300
+weight: 700
 url: /cpp/aspose.pdf/docsaveoptions/get_imageresolutiony/
 ---
 ## DocSaveOptions::get_ImageResolutionY method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/docsaveoptions/get_imageresolutiony/
 Converted images Y resolution.
 
 ```cpp
-ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::DocSaveOptions::get_ImageResolutionY() const
+int32_t Aspose::Pdf::DocSaveOptions::get_ImageResolutionY() const
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/svgsaveoptions/svgsaveoptions/
 Constructor.
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::SvgSaveOptions::SvgSaveOptions()
+Aspose::Pdf::SvgSaveOptions::SvgSaveOptions()
 ```
 
 ## See Also

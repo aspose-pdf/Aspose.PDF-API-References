@@ -4,7 +4,7 @@ linktitle: ToCosPdfNumber
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Utils::PublicData::ICosPdfPrimitive::ToCosPdfNumber method. Tries cast this instance to CosPdfNumber in C++.'
 type: docs
-weight: 400
+weight: 300
 url: /cpp/aspose.pdf.utils.publicdata/icospdfprimitive/tocospdfnumber/
 ---
 ## ICosPdfPrimitive::ToCosPdfNumber method

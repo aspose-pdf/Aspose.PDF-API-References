@@ -4,7 +4,7 @@ linktitle: PageInfo
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use PageInfo constructor of Aspose::Pdf::PageInfo class in C++.'
 type: docs
-weight: 1400
+weight: 100
 url: /cpp/aspose.pdf/pageinfo/pageinfo/
 ---
 ## PageInfo::PageInfo constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/pageinfo/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::PageInfo::PageInfo()
+Aspose::Pdf::PageInfo::PageInfo()
 ```
 
 ## See Also

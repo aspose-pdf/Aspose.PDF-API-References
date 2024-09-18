@@ -4,7 +4,7 @@ linktitle: set_Url
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::WebHyperlink::set_Url method. Sets the web url in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf/webhyperlink/set_url/
 ---
 ## WebHyperlink::set_Url method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/webhyperlink/set_url/
 Sets the web url.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::WebHyperlink::set_Url(System::String value)
+void Aspose::Pdf::WebHyperlink::set_Url(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: get_Title
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::TocInfo::get_Title method. Gets table of contents title in C++.'
 type: docs
-weight: 700
+weight: 1000
 url: /cpp/aspose.pdf/tocinfo/get_title/
 ---
 ## TocInfo::get_Title method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/get_title/
 Gets table of contents title.
 
 ```cpp
-ASPOSE_PDF_SHARED_API const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::TocInfo::get_Title() const
+const System::SharedPtr<Text::TextFragment> & Aspose::Pdf::TocInfo::get_Title() const
 ```
 
 ## See Also

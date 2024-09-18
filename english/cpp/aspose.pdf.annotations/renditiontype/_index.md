@@ -4,7 +4,7 @@ linktitle: RenditionType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::RenditionType enum. Enumeration describes possible types of Rendition in C++.'
 type: docs
-weight: 14300
+weight: 14800
 url: /cpp/aspose.pdf.annotations/renditiontype/
 ---
 ## RenditionType enum

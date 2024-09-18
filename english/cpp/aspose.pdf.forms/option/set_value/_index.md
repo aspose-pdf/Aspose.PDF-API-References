@@ -4,7 +4,7 @@ linktitle: set_Value
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Option::set_Value method. Sets option export value in C++.'
 type: docs
-weight: 200
+weight: 700
 url: /cpp/aspose.pdf.forms/option/set_value/
 ---
 ## Option::set_Value method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/option/set_value/
 Sets option export value.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Forms::Option::set_Value(System::String value)
+void Aspose::Pdf::Forms::Option::set_Value(System::String value)
 ```
 
 ## See Also

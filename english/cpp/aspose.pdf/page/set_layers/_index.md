@@ -4,7 +4,7 @@ linktitle: set_Layers
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::set_Layers method. Sets layers collection in C++.'
 type: docs
-weight: 1000
+weight: 6200
 url: /cpp/aspose.pdf/page/set_layers/
 ---
 ## Page::set_Layers method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_layers/
 Sets layers collection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::set_Layers(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Layer>>> value)
+void Aspose::Pdf::Page::set_Layers(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Layer>>> value)
 ```
 
 ## Remarks

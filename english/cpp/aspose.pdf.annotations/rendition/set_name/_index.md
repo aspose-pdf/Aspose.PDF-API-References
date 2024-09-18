@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::Rendition::set_Name method. Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions in C++.'
 type: docs
-weight: 200
+weight: 300
 url: /cpp/aspose.pdf.annotations/rendition/set_name/
 ---
 ## Rendition::set_Name method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/rendition/set_name/
 [Text](../../../aspose.pdf.text/) string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::Rendition::set_Name(System::String value)
+void Aspose::Pdf::Annotations::Rendition::set_Name(System::String value)
 ```
 
 ## See Also

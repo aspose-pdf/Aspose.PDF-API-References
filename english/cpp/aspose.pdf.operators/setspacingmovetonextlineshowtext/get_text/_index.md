@@ -4,7 +4,7 @@ linktitle: get_Text
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::get_Text method. Gets text of operator in C++.'
 type: docs
-weight: 300
+weight: 500
 url: /cpp/aspose.pdf.operators/setspacingmovetonextlineshowtext/get_text/
 ---
 ## SetSpacingMoveToNextLineShowText::get_Text method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setspacingmovetonextlineshowtext/get_text/
 Gets text of operator.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::get_Text() override
+System::String Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::get_Text() override
 ```
 
 ## See Also

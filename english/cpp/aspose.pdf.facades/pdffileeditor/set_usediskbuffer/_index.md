@@ -4,7 +4,7 @@ linktitle: set_UseDiskBuffer
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileEditor::set_UseDiskBuffer method. If this option used then destination document will be saved on disk periodically and further concatenation will appllied to it as incremental updates in C++.'
 type: docs
-weight: 3600
+weight: 5700
 url: /cpp/aspose.pdf.facades/pdffileeditor/set_usediskbuffer/
 ---
 ## PdfFileEditor::set_UseDiskBuffer method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/set_usediskbuffer/
 If this option used then destination document will be saved on disk periodically and further concatenation will appllied to it as incremental updates.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileEditor::set_UseDiskBuffer(bool value)
+void Aspose::Pdf::Facades::PdfFileEditor::set_UseDiskBuffer(bool value)
 ```
 
 ## See Also

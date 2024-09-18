@@ -4,7 +4,7 @@ linktitle: SoundSampleDataEncodingFormat
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundSampleDataEncodingFormat enum. The encoding format for the sound sample data in C++.'
 type: docs
-weight: 14700
+weight: 15200
 url: /cpp/aspose.pdf.annotations/soundsampledataencodingformat/
 ---
 ## SoundSampleDataEncodingFormat enum

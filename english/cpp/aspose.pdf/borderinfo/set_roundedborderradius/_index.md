@@ -4,7 +4,7 @@ linktitle: set_RoundedBorderRadius
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::BorderInfo::set_RoundedBorderRadius method. Sets a rouded border radius in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf/borderinfo/set_roundedborderradius/
 ---
 ## BorderInfo::set_RoundedBorderRadius method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/borderinfo/set_roundedborderradius/
 Sets a rouded border radius.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::BorderInfo::set_RoundedBorderRadius(double value)
+void Aspose::Pdf::BorderInfo::set_RoundedBorderRadius(double value)
 ```
 
 ## See Also

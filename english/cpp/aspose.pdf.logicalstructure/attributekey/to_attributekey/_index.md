@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/to_attributekey/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::to_AttributeKey(System::String key)
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::to_AttributeKey(System::String key)
 ```
 
 ## See Also

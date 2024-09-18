@@ -4,7 +4,7 @@ linktitle: ToEnum
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use ToEnum method of Aspose::Pdf::Annotations::ReplyTypeConverter class in C++.'
 type: docs
-weight: 300
+weight: 100
 url: /cpp/aspose.pdf.annotations/replytypeconverter/toenum/
 ---
 ## ReplyTypeConverter::ToEnum method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/replytypeconverter/toenum/
 
 
 ```cpp
-static ASPOSE_PDF_SHARED_API ReplyType Aspose::Pdf::Annotations::ReplyTypeConverter::ToEnum(System::String value)
+static ReplyType Aspose::Pdf::Annotations::ReplyTypeConverter::ToEnum(System::String value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ChoiceField
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::ChoiceField::ChoiceField constructor. Constructor for ChoiceField in C++.'
 type: docs
-weight: 1200
+weight: 100
 url: /cpp/aspose.pdf.forms/choicefield/choicefield/
 ---
 ## ChoiceField::ChoiceField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/choicefield/choicefield/
 Constructor for [ChoiceField](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
 ```
 
 
@@ -21,29 +21,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::Share
 | --- | --- | --- |
 | page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where field is situated. |
 | rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) of the field. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>page</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> where field is situated.</para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> of the field.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Page](../../../aspose.pdf/page/)
@@ -57,27 +35,14 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::Share
 Creates choice field (for Generator)
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Document> doc)
+Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Document> doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where choice field will be created. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>doc</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_document" kindref="compound">Document</ref> where choice field will be created.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Document](../../../aspose.pdf/document/)
@@ -90,7 +55,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::Share
 Constructor for [ChoiceField](../).
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
 ```
 
 
@@ -98,29 +63,7 @@ ASPOSE_PDF_SHARED_API Aspose::Pdf::Forms::ChoiceField::ChoiceField(System::Share
 | --- | --- | --- |
 | doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field will be created. |
 | rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) of the field. |
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>doc</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_document" kindref="compound">Document</ref> where field will be created. </para>
-    </parameterdescription>
-  </parameteritem>
-  <parameteritem>
-    <parameternamelist>
-      <parametername>rect</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_rectangle" kindref="compound">Rectangle</ref> of the field. </para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [Document](../../../aspose.pdf/document/)

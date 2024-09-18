@@ -4,7 +4,7 @@ linktitle: get_Culture
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::SignatureCustomAppearance::get_Culture method. Gets/sets culture info value. Default value: InvariantCulture in C++.'
 type: docs
-weight: 3300
+weight: 400
 url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_culture/
 ---
 ## SignatureCustomAppearance::get_Culture method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/get_culture/
 Gets/sets culture info value. Default value: InvariantCulture.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<System::Globalization::CultureInfo> Aspose::Pdf::Forms::SignatureCustomAppearance::get_Culture() const
+System::SharedPtr<System::Globalization::CultureInfo> Aspose::Pdf::Forms::SignatureCustomAppearance::get_Culture() const
 ```
 
 ## See Also

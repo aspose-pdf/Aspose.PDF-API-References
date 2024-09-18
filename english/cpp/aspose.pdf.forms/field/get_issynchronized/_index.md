@@ -4,7 +4,7 @@ linktitle: get_IsSynchronized
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Forms::Field::get_IsSynchronized method. Returns true if dictionary is synchronized in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf.forms/field/get_issynchronized/
 ---
 ## Field::get_IsSynchronized method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/get_issynchronized/
 Returns true if dictionary is synchronized.
 
 ```cpp
-ASPOSE_PDF_SHARED_API bool Aspose::Pdf::Forms::Field::get_IsSynchronized()
+bool Aspose::Pdf::Forms::Field::get_IsSynchronized()
 ```
 
 ## See Also

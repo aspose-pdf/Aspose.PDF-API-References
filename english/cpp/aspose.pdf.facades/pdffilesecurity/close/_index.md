@@ -4,7 +4,7 @@ linktitle: Close
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSecurity::Close method. Closes the facade in C++.'
 type: docs
-weight: 1800
+weight: 400
 url: /cpp/aspose.pdf.facades/pdffilesecurity/close/
 ---
 ## PdfFileSecurity::Close method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/close/
 Closes the facade.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::PdfFileSecurity::Close() override
+void Aspose::Pdf::Facades::PdfFileSecurity::Close() override
 ```
 
 ## See Also

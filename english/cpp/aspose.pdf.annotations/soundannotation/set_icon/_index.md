@@ -4,7 +4,7 @@ linktitle: set_Icon
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::SoundAnnotation::set_Icon method. Sets an icon to be used in displaying the annotation in C++.'
 type: docs
-weight: 200
+weight: 600
 url: /cpp/aspose.pdf.annotations/soundannotation/set_icon/
 ---
 ## SoundAnnotation::set_Icon method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundannotation/set_icon/
 Sets an icon to be used in displaying the annotation.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::SoundAnnotation::set_Icon(SoundIcon value)
+void Aspose::Pdf::Annotations::SoundAnnotation::set_Icon(SoundIcon value)
 ```
 
 ## See Also

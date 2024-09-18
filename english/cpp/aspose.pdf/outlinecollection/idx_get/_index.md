@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::OutlineCollection::idx_get method. Gets outline item from collection by index in C++.'
 type: docs
-weight: 1500
+weight: 1400
 url: /cpp/aspose.pdf/outlinecollection/idx_get/
 ---
 ## OutlineCollection::idx_get method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlinecollection/idx_get/
 Gets outline item from collection by index.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<OutlineItemCollection> Aspose::Pdf::OutlineCollection::idx_get(int32_t index)
+System::SharedPtr<OutlineItemCollection> Aspose::Pdf::OutlineCollection::idx_get(int32_t index)
 ```
 
 
@@ -24,19 +24,7 @@ ASPOSE_PDF_SHARED_API System::SharedPtr<OutlineItemCollection> Aspose::Pdf::Outl
 ### ReturnValue
 
 
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>index</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>Index of requested item.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [OutlineItemCollection](../../outlineitemcollection/)

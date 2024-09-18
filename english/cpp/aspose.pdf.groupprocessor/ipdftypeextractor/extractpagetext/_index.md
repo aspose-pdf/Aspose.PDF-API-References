@@ -4,7 +4,7 @@ linktitle: ExtractPageText
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::GroupProcessor::IPdfTypeExtractor::ExtractPageText method. Returns page text in C++.'
 type: docs
-weight: 500
+weight: 300
 url: /cpp/aspose.pdf.groupprocessor/ipdftypeextractor/extractpagetext/
 ---
 ## IPdfTypeExtractor::ExtractPageText method
@@ -24,20 +24,7 @@ System::String Aspose::Pdf::GroupProcessor::IPdfTypeExtractor::ExtractPageText(i
 ### ReturnValue
 
 [Page](../../../aspose.pdf/page/) text.
-## Remarks
 
-
-<parameterlist kind="param">
-  <parameteritem>
-    <parameternamelist>
-      <parametername>pageNumber</parametername>
-    </parameternamelist>
-    <parameterdescription>
-      <para>
-        <ref refid="class_aspose_1_1_pdf_1_1_page" kindref="compound">Page</ref> number.</para>
-    </parameterdescription>
-  </parameteritem>
-</parameterlist>
 ## See Also
 
 * Class [IPdfTypeExtractor](../)

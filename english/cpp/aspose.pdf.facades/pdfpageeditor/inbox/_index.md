@@ -4,7 +4,7 @@ linktitle: INBOX
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfPageEditor::INBOX field. Inward Box in C++.'
 type: docs
-weight: 3500
+weight: 3400
 url: /cpp/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
 ## INBOX field
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/inbox/
 Inward Box.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API int32_t Aspose::Pdf::Facades::PdfPageEditor::INBOX
+static int32_t Aspose::Pdf::Facades::PdfPageEditor::INBOX
 ```
 
 ## See Also

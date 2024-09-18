@@ -4,7 +4,7 @@ linktitle: AutoFiller
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use AutoFiller constructor of Aspose::Pdf::Facades::AutoFiller class in C++.'
 type: docs
-weight: 2000
+weight: 100
 url: /cpp/aspose.pdf.facades/autofiller/autofiller/
 ---
 ## AutoFiller::AutoFiller constructor
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/autofiller/
 
 
 ```cpp
-ASPOSE_PDF_SHARED_API Aspose::Pdf::Facades::AutoFiller::AutoFiller()
+Aspose::Pdf::Facades::AutoFiller::AutoFiller()
 ```
 
 ## See Also

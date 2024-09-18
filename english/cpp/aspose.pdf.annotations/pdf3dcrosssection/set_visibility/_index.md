@@ -4,7 +4,7 @@ linktitle: set_Visibility
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Annotations::PDF3DCrossSection::set_Visibility method. Sets a value indicating visibility of the cutting planes intersection in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_visibility/
 ---
 ## PDF3DCrossSection::set_Visibility method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_visibility/
 Sets a value indicating visibility of the cutting planes intersection.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::Annotations::PDF3DCrossSection::set_Visibility(bool value)
+void Aspose::Pdf::Annotations::PDF3DCrossSection::set_Visibility(bool value)
 ```
 
 ## Remarks

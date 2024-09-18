@@ -4,7 +4,7 @@ linktitle: set_IncludeContents
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::FileSpecification::set_IncludeContents method. If true, contents of the file will be included in the file specification in C++.'
 type: docs
-weight: 400
+weight: 2200
 url: /cpp/aspose.pdf/filespecification/set_includecontents/
 ---
 ## FileSpecification::set_IncludeContents method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_includecontents/
 If true, contents of the file will be included in the file specification.
 
 ```cpp
-ASPOSE_PDF_SHARED_API void Aspose::Pdf::FileSpecification::set_IncludeContents(bool value)
+void Aspose::Pdf::FileSpecification::set_IncludeContents(bool value)
 ```
 
 ## See Also

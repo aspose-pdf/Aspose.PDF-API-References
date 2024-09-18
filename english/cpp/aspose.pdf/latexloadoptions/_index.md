@@ -56,15 +56,10 @@ class LatexLoadOptions : public Aspose::Pdf::TeXLoadOptions
 | [set_SubsetFonts](../texloadoptions/set_subsetfonts/)(bool) | Gets/sets the flag indicating whether to subset fonts in output file or not. |
 | [set_WarningHandler](../loadoptions/set_warninghandler/)(System::SharedPtr\<IWarningCallback\>) | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 | [TeXLoadOptions](../texloadoptions/texloadoptions/)() | Creates default load options for converting TeX file into PDF document. |
-## Remarks
 
+## Deprecated
+Use TeXLoadOptions instead. 
 
-<xrefsect id="deprecated_1_deprecated000143">
-  <xreftitle>Deprecated</xreftitle>
-  <xrefdescription>
-    <para>Use <ref refid="class_aspose_1_1_pdf_1_1_te_x_load_options" kindref="compound">TeXLoadOptions</ref> instead. </para>
-  </xrefdescription>
-</xrefsect>
 ## See Also
 
 * Class [TeXLoadOptions](../texloadoptions/)

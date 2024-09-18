@@ -4,7 +4,7 @@ linktitle: GetDocumentPrivilege
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileInfo::GetDocumentPrivilege method. Gets the PDF document privilege settings in C++.'
 type: docs
-weight: 3400
+weight: 2400
 url: /cpp/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/
 ---
 ## PdfFileInfo::GetDocumentPrivilege method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/
 Gets the PDF document privilege settings.
 
 ```cpp
-ASPOSE_PDF_SHARED_API System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::PdfFileInfo::GetDocumentPrivilege()
+System::SharedPtr<DocumentPrivilege> Aspose::Pdf::Facades::PdfFileInfo::GetDocumentPrivilege()
 ```
 
 

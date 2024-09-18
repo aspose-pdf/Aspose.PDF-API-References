@@ -4,7 +4,7 @@ linktitle: get_Ivory
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Color::get_Ivory method. Gets a system-defined color that has an ARGB value of #FFFFFFF0 in C++.'
 type: docs
-weight: 6800
+weight: 7100
 url: /cpp/aspose.pdf/color/get_ivory/
 ---
 ## Color::get_Ivory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/get_ivory/
 Gets a system-defined color that has an ARGB value of **#FFFFFFF0**.
 
 ```cpp
-static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Ivory()
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_Ivory()
 ```
 
 
