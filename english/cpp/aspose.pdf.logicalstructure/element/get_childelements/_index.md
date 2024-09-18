@@ -1,0 +1,28 @@
+---
+title: Aspose::Pdf::LogicalStructure::Element::get_ChildElements method
+linktitle: get_ChildElements
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::LogicalStructure::Element::get_ChildElements method. Gets children collection of T:/Aspose::Pdf::LogicalStructure::Element objects in C++.'
+type: docs
+weight: 200
+url: /cpp/aspose.pdf.logicalstructure/element/get_childelements/
+---
+## Element::get_ChildElements method
+
+
+Gets children collection of [T:/Aspose::Pdf::LogicalStructure::Element](../) objects.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<ElementList> Aspose::Pdf::LogicalStructure::Element::get_ChildElements()
+```
+
+## Remarks
+
+
+Children collection of [T:/Aspose::Pdf::LogicalStructure::Element](../) objects. 
+## See Also
+
+* Class [ElementList](../../elementlist/)
+* Class [Element](../)
+* Namespace [Aspose::Pdf::LogicalStructure](../../)
+* Library [Aspose.PDF for C++](../../../)

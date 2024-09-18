@@ -1,0 +1,30 @@
+---
+title: Aspose::Pdf::PdfToMarkdown::HeadingLevels class
+linktitle: HeadingLevels
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::PdfToMarkdown::HeadingLevels class. Represents a class to work with header levels based on font size in C++.'
+type: docs
+weight: 100
+url: /cpp/aspose.pdf.pdftomarkdown/headinglevels/
+---
+## HeadingLevels class
+
+
+Represents a class to work with header levels based on font size.
+
+```cpp
+class HeadingLevels : public System::Object
+```
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [AddLevels](./addlevels/)(System::SharedPtr\<System::Collections::Generic::ICollection\<double\>\>) | Adds heading levels. Font size collection should be sorted by decreasing size. |
+| [get_AllLevels](./get_alllevels/)() | Gets all heading levels. |
+| [HeadingLevels](./headinglevels/)() | Creates a new instance of the [HeadingLevels](./) class. |
+| [HeadingLevels](./headinglevels/)(double) | Creates a new instance of the [HeadingLevels](./) class. |
+## See Also
+
+* Namespace [Aspose::Pdf::PdfToMarkdown](../)
+* Library [Aspose.PDF for C++](../../)

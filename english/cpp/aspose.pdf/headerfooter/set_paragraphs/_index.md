@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::HeaderFooter::set_Paragraphs method
+linktitle: set_Paragraphs
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::HeaderFooter::set_Paragraphs method. Sets the end note paragraphs in C++.'
+type: docs
+weight: 400
+url: /cpp/aspose.pdf/headerfooter/set_paragraphs/
+---
+## HeaderFooter::set_Paragraphs method
+
+
+Sets the end note paragraphs.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::HeaderFooter::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
+```
+
+## See Also
+
+* Class [Paragraphs](../../paragraphs/)
+* Class [HeaderFooter](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

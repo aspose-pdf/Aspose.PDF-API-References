@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Document::get_LogicalStructure method
+linktitle: get_LogicalStructure
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Document::get_LogicalStructure method. Gets logical structure of the document in C++.'
+type: docs
+weight: 5800
+url: /cpp/aspose.pdf/document/get_logicalstructure/
+---
+## Document::get_LogicalStructure method
+
+
+Gets logical structure of the document.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<Structure::RootElement> Aspose::Pdf::Document::get_LogicalStructure()
+```
+
+## See Also
+
+* Class [RootElement](../../../aspose.pdf.structure/rootelement/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

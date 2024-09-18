@@ -1,0 +1,28 @@
+---
+title: Aspose::Pdf::Text::TextAbsorber::set_ExtractionOptions method
+linktitle: set_ExtractionOptions
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Text::TextAbsorber::set_ExtractionOptions method. Sets text extraction options in C++.'
+type: docs
+weight: 500
+url: /cpp/aspose.pdf.text/textabsorber/set_extractionoptions/
+---
+## TextAbsorber::set_ExtractionOptions method
+
+
+Sets text extraction options.
+
+```cpp
+virtual ASPOSE_PDF_SHARED_API void Aspose::Pdf::Text::TextAbsorber::set_ExtractionOptions(System::SharedPtr<TextExtractionOptions> value)
+```
+
+## Remarks
+
+
+Allows to define text formatting mode [TextExtractionOptions](../../textextractionoptions/) during extraction. The default mode is **TextExtractionOptions::TextFormattingMode::Pure**
+## See Also
+
+* Class [TextExtractionOptions](../../textextractionoptions/)
+* Class [TextAbsorber](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)

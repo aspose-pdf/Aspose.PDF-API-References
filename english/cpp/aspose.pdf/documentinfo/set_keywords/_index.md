@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::DocumentInfo::set_Keywords method
+linktitle: set_Keywords
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::DocumentInfo::set_Keywords method. Gets or set the keywords of the document in C++.'
+type: docs
+weight: 1000
+url: /cpp/aspose.pdf/documentinfo/set_keywords/
+---
+## DocumentInfo::set_Keywords method
+
+
+Gets or set the keywords of the document.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::DocumentInfo::set_Keywords(System::String value)
+```
+
+## See Also
+
+* Class [DocumentInfo](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

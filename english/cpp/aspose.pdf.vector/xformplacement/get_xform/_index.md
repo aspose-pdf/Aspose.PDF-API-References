@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Vector::XFormPlacement::get_XForm method
+linktitle: get_XForm
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Vector::XFormPlacement::get_XForm method. Gets XForm associated with this XFormPlacement in C++.'
+type: docs
+weight: 200
+url: /cpp/aspose.pdf.vector/xformplacement/get_xform/
+---
+## XFormPlacement::get_XForm method
+
+
+Gets [XForm](../../../aspose.pdf/xform/) associated with this [XFormPlacement](../).
+
+```cpp
+ASPOSE_PDF_SHARED_API const System::SharedPtr<Aspose::Pdf::XForm> & Aspose::Pdf::Vector::XFormPlacement::get_XForm() const
+```
+
+## See Also
+
+* Class [XForm](../../../aspose.pdf/xform/)
+* Class [XFormPlacement](../)
+* Namespace [Aspose::Pdf::Vector](../../)
+* Library [Aspose.PDF for C++](../../../)

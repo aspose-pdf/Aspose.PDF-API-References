@@ -91,6 +91,7 @@ is_root: true
 | [AsposePdfGetInfo](./metadata/asposepdfgetinfo/) | Get info (metadata) from a PDF-file. |
 | [AsposePdfGetAllFonts](./metadata/asposepdfgetallfonts/) | Get list fonts from a PDF-file. |
 | [AsposePdfRemoveMetadata](./metadata/asposepdfremovemetadata/) | Remove metadata from a PDF-file. |
+| [AsposePdfGetWordsCharactersCount](./metadata/asposepdfgetwordscharacterscount/) | Get words and characters count in a PDF-file. |
 
 
 ## Security PDF functions

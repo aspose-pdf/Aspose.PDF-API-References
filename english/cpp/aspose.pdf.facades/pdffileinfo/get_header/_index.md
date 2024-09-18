@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::Facades::PdfFileInfo::get_Header method
+linktitle: get_Header
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Facades::PdfFileInfo::get_Header method. Gets the customized information of PDF document in C++.'
+type: docs
+weight: 1200
+url: /cpp/aspose.pdf.facades/pdffileinfo/get_header/
+---
+## PdfFileInfo::get_Header method
+
+
+Gets the customized information of PDF document.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Facades::PdfFileInfo::get_Header() const
+```
+
+## See Also
+
+* Class [PdfFileInfo](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)

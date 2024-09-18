@@ -1,0 +1,29 @@
+---
+title: Aspose::Pdf::Color::get_Maroon method
+linktitle: get_Maroon
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Color::get_Maroon method. Gets a system-defined color that has an ARGB value of #FF800000 in C++.'
+type: docs
+weight: 9100
+url: /cpp/aspose.pdf/color/get_maroon/
+---
+## Color::get_Maroon method
+
+
+Gets a system-defined color that has an ARGB value of **#FF800000**.
+
+```cpp
+static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_Maroon()
+```
+
+
+### ReturnValue
+
+A representing a system-defined color.
+
+## See Also
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

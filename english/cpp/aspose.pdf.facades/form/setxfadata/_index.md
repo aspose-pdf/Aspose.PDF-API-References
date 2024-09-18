@@ -1,0 +1,40 @@
+---
+title: Aspose::Pdf::Facades::Form::SetXfaData method
+linktitle: SetXfaData
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Facades::Form::SetXfaData method. Replaces XFA data with specified data packet. Data packet may be extracted using ExtractXfaData in C++.'
+type: docs
+weight: 4000
+url: /cpp/aspose.pdf.facades/form/setxfadata/
+---
+## Form::SetXfaData method
+
+
+Replaces XFA data with specified data packet. Data packet may be extracted using ExtractXfaData.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Form::SetXfaData(System::SharedPtr<System::IO::Stream> inputXmlStream)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputXmlStream | System::SharedPtr\<System::IO::Stream\> | Stream where XML is stored. |
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>inputXmlStream</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>Stream where XML is stored.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [Form](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)

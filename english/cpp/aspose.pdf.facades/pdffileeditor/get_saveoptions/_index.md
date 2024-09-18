@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Facades::PdfFileEditor::get_SaveOptions method
+linktitle: get_SaveOptions
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Facades::PdfFileEditor::get_SaveOptions method. Gets save options when result is stored as HttpResponse. Default value: PdfSaveOptions in C++.'
+type: docs
+weight: 4100
+url: /cpp/aspose.pdf.facades/pdffileeditor/get_saveoptions/
+---
+## PdfFileEditor::get_SaveOptions method
+
+
+Gets save options when result is stored as HttpResponse. Default value: [PdfSaveOptions](../../../aspose.pdf/pdfsaveoptions/).
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::SaveOptions> Aspose::Pdf::Facades::PdfFileEditor::get_SaveOptions() const
+```
+
+## See Also
+
+* Class [SaveOptions](../../../aspose.pdf/saveoptions/)
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)

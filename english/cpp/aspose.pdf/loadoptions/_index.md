@@ -1,0 +1,45 @@
+---
+title: Aspose::Pdf::LoadOptions class
+linktitle: LoadOptions
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::LoadOptions class. LoadOptions type holds level of abstraction on individual load options in C++.'
+type: docs
+weight: 8500
+url: /cpp/aspose.pdf/loadoptions/
+---
+## LoadOptions class
+
+
+[LoadOptions](./) type holds level of abstraction on individual load options.
+
+```cpp
+class LoadOptions : public virtual System::Object
+```
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [get_DisableFontLicenseVerifications](./get_disablefontlicenseverifications/)() const | Gets flag to disable any license restrictions for all fonts while loading the file. When **true**
+
+, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default **false**
+
+. |
+| [get_LoadFormat](./get_loadformat/)() const | Represents file format which [LoadOptions](./) describes. |
+| [get_WarningHandler](./get_warninghandler/)() const | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [LoadOptions](./loadoptions/)() |  |
+| [set_DisableFontLicenseVerifications](./set_disablefontlicenseverifications/)(bool) | Sets flag to disable any license restrictions for all fonts while loading the file. When **true**
+
+, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default **false**
+
+. |
+| [set_WarningHandler](./set_warninghandler/)(System::SharedPtr\<IWarningCallback\>) | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+## Typedefs
+
+| Typedef | Description |
+| --- | --- |
+| [ResourceLoadingStrategy](./resourceloadingstrategy/) |  |
+## See Also
+
+* Namespace [Aspose::Pdf](../)
+* Library [Aspose.PDF for C++](../../)

@@ -1,0 +1,29 @@
+---
+title: Aspose::Pdf::Color::get_DarkGray method
+linktitle: get_DarkGray
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Color::get_DarkGray method. Gets a system-defined color that has an ARGB value of #FFA9A9A9 in C++.'
+type: docs
+weight: 3500
+url: /cpp/aspose.pdf/color/get_darkgray/
+---
+## Color::get_DarkGray method
+
+
+Gets a system-defined color that has an ARGB value of **#FFA9A9A9**.
+
+```cpp
+static ASPOSE_PDF_SHARED_API System::SharedPtr<Color> Aspose::Pdf::Color::get_DarkGray()
+```
+
+
+### ReturnValue
+
+A representing a system-defined color.
+
+## See Also
+
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

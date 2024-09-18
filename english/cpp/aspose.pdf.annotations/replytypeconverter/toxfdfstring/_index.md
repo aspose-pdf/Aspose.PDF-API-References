@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Annotations::ReplyTypeConverter::ToXfdfString method
+linktitle: ToXfdfString
+second_title: Aspose.PDF for C++ API Reference
+description: 'How to use ToXfdfString method of Aspose::Pdf::Annotations::ReplyTypeConverter class in C++.'
+type: docs
+weight: 200
+url: /cpp/aspose.pdf.annotations/replytypeconverter/toxfdfstring/
+---
+## ReplyTypeConverter::ToXfdfString method
+
+
+
+
+```cpp
+static ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Annotations::ReplyTypeConverter::ToXfdfString(ReplyType value)
+```
+
+## See Also
+
+* Enum [ReplyType](../../replytype/)
+* Class [ReplyTypeConverter](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)

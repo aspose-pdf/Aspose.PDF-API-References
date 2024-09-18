@@ -1,0 +1,45 @@
+---
+title: Aspose::Pdf::Page::IntToRotation method
+linktitle: IntToRotation
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Page::IntToRotation method. Translates integer value into corresponding rotation enumeration member in C++.'
+type: docs
+weight: 7700
+url: /cpp/aspose.pdf/page/inttorotation/
+---
+## Page::IntToRotation method
+
+
+Translates integer value into corresponding rotation enumeration member.
+
+```cpp
+static ASPOSE_PDF_SHARED_API Rotation Aspose::Pdf::Page::IntToRotation(int32_t rotation)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rotation | int32_t | Integer value to convert |
+
+### ReturnValue
+
+Rotation enumeration member
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>rotation</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>Integer value to convert</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Enum [Rotation](../../rotation/)
+* Class [Page](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

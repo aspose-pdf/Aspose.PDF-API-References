@@ -1,0 +1,28 @@
+---
+title: Aspose::Pdf::Operators::BT::ToString method
+linktitle: ToString
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Operators::BT::ToString method. Produces text code of operator in C++.'
+type: docs
+weight: 300
+url: /cpp/aspose.pdf.operators/bt/tostring/
+---
+## BT::ToString method
+
+
+Produces text code of operator.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::String Aspose::Pdf::Operators::BT::ToString() const override
+```
+
+
+### ReturnValue
+
+[Text](../../../aspose.pdf.text/) representation of operator.
+
+## See Also
+
+* Class [BT](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)

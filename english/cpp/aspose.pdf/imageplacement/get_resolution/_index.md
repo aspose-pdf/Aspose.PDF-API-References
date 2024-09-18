@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::ImagePlacement::get_Resolution method
+linktitle: get_Resolution
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::ImagePlacement::get_Resolution method. Gets resolution of the Image in C++.'
+type: docs
+weight: 500
+url: /cpp/aspose.pdf/imageplacement/get_resolution/
+---
+## ImagePlacement::get_Resolution method
+
+
+Gets resolution of the [Image](../../image/).
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::Devices::Resolution> Aspose::Pdf::ImagePlacement::get_Resolution() const
+```
+
+## See Also
+
+* Class [Resolution](../../../aspose.pdf.devices/resolution/)
+* Class [ImagePlacement](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

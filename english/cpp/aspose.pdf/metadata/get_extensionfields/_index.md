@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Metadata::get_ExtensionFields method
+linktitle: get_ExtensionFields
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Metadata::get_ExtensionFields method. Gets the dictionary of extension fields in C++.'
+type: docs
+weight: 500
+url: /cpp/aspose.pdf/metadata/get_extensionfields/
+---
+## Metadata::get_ExtensionFields method
+
+
+Gets the dictionary of extension fields.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<System::Collections::Generic::IDictionary<System::String, System::SharedPtr<XmpPdfAExtensionSchema>>> Aspose::Pdf::Metadata::get_ExtensionFields()
+```
+
+## See Also
+
+* Class [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
+* Class [Metadata](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::TocInfo::get_FormatArray method
+linktitle: get_FormatArray
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::TocInfo::get_FormatArray method. Gets format array for table of contents in C++.'
+type: docs
+weight: 300
+url: /cpp/aspose.pdf/tocinfo/get_formatarray/
+---
+## TocInfo::get_FormatArray method
+
+
+Gets format array for table of contents.
+
+```cpp
+ASPOSE_PDF_SHARED_API const System::ArrayPtr<System::SharedPtr<LevelFormat>> & Aspose::Pdf::TocInfo::get_FormatArray() const
+```
+
+## See Also
+
+* Class [LevelFormat](../../levelformat/)
+* Class [TocInfo](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

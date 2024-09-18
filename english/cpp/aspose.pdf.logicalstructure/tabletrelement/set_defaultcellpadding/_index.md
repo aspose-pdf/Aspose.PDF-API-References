@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::LogicalStructure::TableTRElement::set_DefaultCellPadding method
+linktitle: set_DefaultCellPadding
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::LogicalStructure::TableTRElement::set_DefaultCellPadding method. Sets default margin for row cells in C++.'
+type: docs
+weight: 1800
+url: /cpp/aspose.pdf.logicalstructure/tabletrelement/set_defaultcellpadding/
+---
+## TableTRElement::set_DefaultCellPadding method
+
+
+Sets default margin for row cells.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::LogicalStructure::TableTRElement::set_DefaultCellPadding(System::SharedPtr<MarginInfo> value)
+```
+
+## See Also
+
+* Class [MarginInfo](../../../aspose.pdf/margininfo/)
+* Class [TableTRElement](../)
+* Namespace [Aspose::Pdf::LogicalStructure](../../)
+* Library [Aspose.PDF for C++](../../../)

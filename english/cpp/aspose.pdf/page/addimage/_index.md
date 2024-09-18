@@ -1,0 +1,209 @@
+---
+title: Aspose::Pdf::Page::AddImage method
+linktitle: AddImage
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Page::AddImage method. Adds image onto the page and locates it in the middle of specified rectangle saving image''s proportion in C++.'
+type: docs
+weight: 6600
+url: /cpp/aspose.pdf/page/addimage/
+---
+## Page::AddImage(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) method
+
+
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::SharedPtr<Aspose::Pdf::Rectangle> imageRect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageStream | System::SharedPtr\<System::IO::Stream\> | The stream of the image. |
+| imageRect | System::SharedPtr\<Aspose::Pdf::Rectangle\> | The position of the image. |
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageStream</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The stream of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageRect</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The position of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [Rectangle](../../rectangle/)
+* Class [Page](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Page::AddImage(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>) method
+
+
+Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::AddImage(System::String hocr, System::SharedPtr<System::IO::Stream> imageStream, System::SharedPtr<Aspose::Pdf::Rectangle> imageRect)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| hocr | System::String | The hocr of the image. |
+| imageStream | System::SharedPtr\<System::IO::Stream\> | The stream of the image. |
+| imageRect | System::SharedPtr\<Aspose::Pdf::Rectangle\> | The position of the image. |
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>hocr</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The hocr of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageStream</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The stream of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageRect</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The position of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [Rectangle](../../rectangle/)
+* Class [Page](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Page::AddImage(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::Pdf::Rectangle\>, int32_t, int32_t, bool) method
+
+
+Adds image on page and places it depend on image rectangle position.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::AddImage(System::SharedPtr<System::IO::Stream> imageStream, System::SharedPtr<Aspose::Pdf::Rectangle> imageRect, int32_t imageWidth, int32_t imageHeight, bool saveImageProportions)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageStream | System::SharedPtr\<System::IO::Stream\> | The stream of the image. |
+| imageRect | System::SharedPtr\<Aspose::Pdf::Rectangle\> | The default position of the image on page. |
+| imageWidth | int32_t | The width of the image. |
+| imageHeight | int32_t | The height of the image. |
+| saveImageProportions | bool | If the flag set to true than image placed in rectangle position; otherwise, the size of rectange is becoming equal to image size. |
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageStream</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The stream of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageRect</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The default position of the image on page.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageWidth</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The width of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imageHeight</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The height of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>saveImageProportions</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>If the flag set to true than image placed in rectangle position; otherwise, the size of rectange is becoming equal to image size.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [Rectangle](../../rectangle/)
+* Class [Page](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Page::AddImage(System::String, System::SharedPtr\<Aspose::Pdf::Rectangle\>) method
+
+
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Page::AddImage(System::String imagePath, System::SharedPtr<Aspose::Pdf::Rectangle> rectangle)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imagePath | System::String | The path to image. |
+| rectangle | System::SharedPtr\<Aspose::Pdf::Rectangle\> | The position of the image. |
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>imagePath</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The path to image.</para>
+    </parameterdescription>
+  </parameteritem>
+  <parameteritem>
+    <parameternamelist>
+      <parametername>rectangle</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The position of the image.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [Rectangle](../../rectangle/)
+* Class [Page](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

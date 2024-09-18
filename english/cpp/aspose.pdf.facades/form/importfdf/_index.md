@@ -1,0 +1,40 @@
+---
+title: Aspose::Pdf::Facades::Form::ImportFdf method
+linktitle: ImportFdf
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Facades::Form::ImportFdf method. Imports the content of the fields from the fdf file and put them into the new pdf in C++.'
+type: docs
+weight: 3500
+url: /cpp/aspose.pdf.facades/form/importfdf/
+---
+## Form::ImportFdf method
+
+
+Imports the content of the fields from the fdf file and put them into the new pdf.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::Facades::Form::ImportFdf(System::SharedPtr<System::IO::Stream> inputFdfStream)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFdfStream | System::SharedPtr\<System::IO::Stream\> | The input fdf stream. |
+## Remarks
+
+
+<parameterlist kind="param">
+  <parameteritem>
+    <parameternamelist>
+      <parametername>inputFdfStream</parametername>
+    </parameternamelist>
+    <parameterdescription>
+      <para>The input fdf stream.</para>
+    </parameterdescription>
+  </parameteritem>
+</parameterlist>
+## See Also
+
+* Class [Form](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)

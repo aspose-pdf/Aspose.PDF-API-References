@@ -1,0 +1,29 @@
+---
+title: Aspose::Pdf::Utils::PublicData::ICosPdfPrimitive::ToCosPdfBoolean method
+linktitle: ToCosPdfBoolean
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Utils::PublicData::ICosPdfPrimitive::ToCosPdfBoolean method. Tries cast this instance to CosPdfBoolean in C++.'
+type: docs
+weight: 300
+url: /cpp/aspose.pdf.utils.publicdata/icospdfprimitive/tocospdfboolean/
+---
+## ICosPdfPrimitive::ToCosPdfBoolean method
+
+
+Tries cast this instance to [CosPdfBoolean](../../cospdfboolean/).
+
+```cpp
+virtual System::SharedPtr<CosPdfBoolean> Aspose::Pdf::Utils::PublicData::ICosPdfPrimitive::ToCosPdfBoolean()=0
+```
+
+
+### ReturnValue
+
+null if instance is not [CosPdfBoolean](../../cospdfboolean/) else [CosPdfBoolean](../../cospdfboolean/).
+
+## See Also
+
+* Class [CosPdfBoolean](../../cospdfboolean/)
+* Class [ICosPdfPrimitive](../)
+* Namespace [Aspose::Pdf::Utils::PublicData](../../)
+* Library [Aspose.PDF for C++](../../../)

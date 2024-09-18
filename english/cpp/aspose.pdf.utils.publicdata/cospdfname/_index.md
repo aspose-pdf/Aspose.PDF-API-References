@@ -1,0 +1,36 @@
+---
+title: Aspose::Pdf::Utils::PublicData::CosPdfName class
+linktitle: CosPdfName
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Utils::PublicData::CosPdfName class. This class represents Pdf Name object in C++.'
+type: docs
+weight: 200
+url: /cpp/aspose.pdf.utils.publicdata/cospdfname/
+---
+## CosPdfName class
+
+
+This class represents [Pdf](../../aspose.pdf/) Name object.
+
+```cpp
+class CosPdfName : public Aspose::Pdf::Utils::PublicData::CosPdfPrimitive
+```
+
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [CosPdfName](./cospdfname/)(System::String) | Initializes a new instance of the [CosPdfName](./) class. |
+| [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines that the specified object is equal to the current object. |
+| [get_Value](./get_value/)() const | Gets the value. |
+| [GetHashCode](./gethashcode/)() const override | Get hashcode for current object. |
+| [ToCosPdfBoolean](../cospdfprimitive/tocospdfboolean/)() override | Tries cast this instance to [CosPdfBoolean](../cospdfboolean/). |
+| [ToCosPdfName](./tocospdfname/)() override | Tries cast this instance to [CosPdfName](./). |
+| [ToCosPdfNumber](../cospdfprimitive/tocospdfnumber/)() override | Tries cast this instance to [CosPdfNumber](../cospdfnumber/). |
+| [ToCosPdfString](../cospdfprimitive/tocospdfstring/)() override | Tries cast this instance to [CosPdfString](../cospdfstring/). |
+| [ToString](./tostring/)() const override | Returns a **System::String** that represents the current [CosPdfName](./). |
+## See Also
+
+* Class [CosPdfPrimitive](../cospdfprimitive/)
+* Namespace [Aspose::Pdf::Utils::PublicData](../)
+* Library [Aspose.PDF for C++](../../)

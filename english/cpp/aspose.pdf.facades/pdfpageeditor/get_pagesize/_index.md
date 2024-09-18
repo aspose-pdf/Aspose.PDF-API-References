@@ -1,0 +1,24 @@
+---
+title: Aspose::Pdf::Facades::PdfPageEditor::get_PageSize method
+linktitle: get_PageSize
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::Facades::PdfPageEditor::get_PageSize method. Gets the output file''s page size in C++.'
+type: docs
+weight: 1500
+url: /cpp/aspose.pdf.facades/pdfpageeditor/get_pagesize/
+---
+## PdfPageEditor::get_PageSize method
+
+
+Gets the output file's page size.
+
+```cpp
+ASPOSE_PDF_SHARED_API System::SharedPtr<Aspose::Pdf::PageSize> Aspose::Pdf::Facades::PdfPageEditor::get_PageSize()
+```
+
+## See Also
+
+* Class [PageSize](../../../aspose.pdf/pagesize/)
+* Class [PdfPageEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)

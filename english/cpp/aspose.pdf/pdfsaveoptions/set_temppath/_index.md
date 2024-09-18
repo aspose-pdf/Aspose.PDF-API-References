@@ -1,0 +1,23 @@
+---
+title: Aspose::Pdf::PdfSaveOptions::set_TempPath method
+linktitle: set_TempPath
+second_title: Aspose.PDF for C++ API Reference
+description: 'Aspose::Pdf::PdfSaveOptions::set_TempPath method. Path for temporary files in C++.'
+type: docs
+weight: 200
+url: /cpp/aspose.pdf/pdfsaveoptions/set_temppath/
+---
+## PdfSaveOptions::set_TempPath method
+
+
+Path for temporary files.
+
+```cpp
+ASPOSE_PDF_SHARED_API void Aspose::Pdf::PdfSaveOptions::set_TempPath(System::String value)
+```
+
+## See Also
+
+* Class [PdfSaveOptions](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
