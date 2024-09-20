@@ -3,7 +3,7 @@ title: Aspose.Pdf.Engine.IO.ConvertStrategies.ConvertHelpers
 second_title: Aspose.PDF for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.pdf.engine.io.convertstrategies.converthelpers/
 ---
 

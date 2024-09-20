@@ -3,7 +3,7 @@ title: Matrix.UnScale
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix method. Scales back x1 and y1 and returns x and y before the matrix transformation using the following formula x  D  x1  C  y1 / A  D  C  B y  A y1  B x1 / A D  C B
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.pdf/matrix/unscale/
 ---
 ## Matrix.UnScale method

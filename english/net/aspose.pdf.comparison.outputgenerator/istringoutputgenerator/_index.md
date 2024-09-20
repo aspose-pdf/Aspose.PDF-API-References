@@ -3,7 +3,7 @@ title: Interface IStringOutputGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.OutputGenerator.IStringOutputGenerator interface. Represents an interface for generating output to a string of differences between texts
 type: docs
-weight: 1790
+weight: 1830
 url: /net/aspose.pdf.comparison.outputgenerator/istringoutputgenerator/
 ---
 ## IStringOutputGenerator interface

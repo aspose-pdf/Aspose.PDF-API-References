@@ -15,6 +15,7 @@ is_root: true
 | [Aspose.Pdf.Annotations](./aspose.pdf.annotations/) | The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it. |
 | [Aspose.Pdf.Comparison](./aspose.pdf.comparison/) |  |
 | [Aspose.Pdf.Comparison.Diff](./aspose.pdf.comparison.diff/) |  |
+| [Aspose.Pdf.Comparison.GraphicalComparison](./aspose.pdf.comparison.graphicalcomparison/) |  |
 | [Aspose.Pdf.Comparison.OutputGenerator](./aspose.pdf.comparison.outputgenerator/) |  |
 | [Aspose.Pdf.Comparison.SideBySideComparison](./aspose.pdf.comparison.sidebysidecomparison/) |  |
 | [Aspose.Pdf.Devices](./aspose.pdf.devices/) | The **Aspose.Pdf.Devices** namespace provides classes which are used for representing document as image(s) or a plain text. So document can be sent on to textual or various graphic devices which means we want to get it textual or graphic representation. |

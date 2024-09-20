@@ -3,7 +3,7 @@ title: Interface INamedDestinationCollection
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.INamedDestinationCollection interface. Collection of Named Destinations
 type: docs
-weight: 4120
+weight: 4170
 url: /net/aspose.pdf/inameddestinationcollection/
 ---
 ## INamedDestinationCollection interface

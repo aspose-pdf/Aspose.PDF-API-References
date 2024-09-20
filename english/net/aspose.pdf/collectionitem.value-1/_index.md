@@ -3,7 +3,7 @@ title: Class CollectionItem.ValueT
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.CollectionItemValue1T class. Represents a class for a value of colection item
 type: docs
-weight: 1640
+weight: 1660
 url: /net/aspose.pdf/collectionitem.value-1/
 ---
 ## CollectionItem.Value&lt;T&gt; class

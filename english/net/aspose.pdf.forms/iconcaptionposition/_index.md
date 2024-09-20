@@ -3,7 +3,7 @@ title: Enum IconCaptionPosition
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.IconCaptionPosition enum. Describes position of icon
 type: docs
-weight: 3520
+weight: 3570
 url: /net/aspose.pdf.forms/iconcaptionposition/
 ---
 ## IconCaptionPosition enumeration

@@ -3,7 +3,7 @@ title: Matrix.Multiply
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix method. Multiplies the matrix by other matrix
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.pdf/matrix/multiply/
 ---
 ## Matrix.Multiply method

@@ -3,7 +3,7 @@ title: Class CustomPrintEventArgs
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Printing.CustomPrintEventArgs class. Provides data for the CustomPrint event
 type: docs
-weight: 6800
+weight: 6860
 url: /net/aspose.pdf.printing/customprinteventargs/
 ---
 ## CustomPrintEventArgs class

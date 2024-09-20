@@ -3,7 +3,7 @@ title: Enum EmphasisStyle
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfToMarkdown.EmphasisStyle enum. Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark  Emphasis and strong emphasis
 type: docs
-weight: 6650
+weight: 6700
 url: /net/aspose.pdf.pdftomarkdown/emphasisstyle/
 ---
 ## EmphasisStyle enumeration

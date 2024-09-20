@@ -3,7 +3,7 @@ title: Matrix.GetHashCode
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix method. Hashcode for object
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.pdf/matrix/gethashcode/
 ---
 ## Matrix.GetHashCode method

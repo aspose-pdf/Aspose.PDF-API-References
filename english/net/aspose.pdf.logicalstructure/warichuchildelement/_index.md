@@ -3,7 +3,7 @@ title: Class WarichuChildElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.WarichuChildElement class. Represents a base class for children elements of the Warichu in logical structure
 type: docs
-weight: 5180
+weight: 5230
 url: /net/aspose.pdf.logicalstructure/warichuchildelement/
 ---
 ## WarichuChildElement class

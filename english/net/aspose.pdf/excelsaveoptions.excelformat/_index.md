@@ -3,7 +3,7 @@ title: Enum ExcelSaveOptions.ExcelFormat
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.ExcelSaveOptionsExcelFormat enum. Allows to specify .xlsx .xls/xml or csv file format. Default value is XLSX
 type: docs
-weight: 2570
+weight: 2620
 url: /net/aspose.pdf/excelsaveoptions.excelformat/
 ---
 ## ExcelSaveOptions.ExcelFormat enumeration

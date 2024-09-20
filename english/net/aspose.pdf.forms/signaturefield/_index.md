@@ -3,7 +3,7 @@ title: Class SignatureField
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.SignatureField class. Represents signature form field
 type: docs
-weight: 3700
+weight: 3750
 url: /net/aspose.pdf.forms/signaturefield/
 ---
 ## SignatureField class
@@ -84,7 +84,7 @@ public sealed class SignatureField : Field
 | [ExtractCertificate](../../aspose.pdf.forms/signaturefield/extractcertificate/)() | Extracts the single X.509 certificate in DER format as a stream. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage)() | Extracts signature's image as jpeg encoded stream. |
 | [ExtractImage](../../aspose.pdf.forms/signaturefield/extractimage/#extractimage_1)(ImageFormat) | Extracts signature's image as encoded stream. |
-| override [Flatten](../../aspose.pdf.forms/field/flatten/)() | Removes this field and place its value directly on the page. |
+| [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Places annotation contents directly on the page, annotation object will be removed. |
 | [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename/)() | Returns name of "checked" state according to existing state names. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator/)() | Returns enumerator of contained fields. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |

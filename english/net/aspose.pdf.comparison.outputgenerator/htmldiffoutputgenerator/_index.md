@@ -3,7 +3,7 @@ title: Class HtmlDiffOutputGenerator
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.OutputGenerator.HtmlDiffOutputGenerator class. Represents a class for generating html representation of texts differences. Deleted line breaks are indicated by paragraph mark
 type: docs
-weight: 1770
+weight: 1810
 url: /net/aspose.pdf.comparison.outputgenerator/htmldiffoutputgenerator/
 ---
 ## HtmlDiffOutputGenerator class

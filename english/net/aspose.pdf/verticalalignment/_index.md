@@ -3,7 +3,7 @@ title: Enum VerticalAlignment
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.VerticalAlignment enum. Enumeration of possible vertical alignment values
 type: docs
-weight: 8380
+weight: 8440
 url: /net/aspose.pdf/verticalalignment/
 ---
 ## VerticalAlignment enumeration

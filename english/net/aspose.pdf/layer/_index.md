@@ -3,7 +3,7 @@ title: Class Layer
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Layer class. Represents a layer within a PDF page
 type: docs
-weight: 4400
+weight: 4450
 url: /net/aspose.pdf/layer/
 ---
 ## Layer class
@@ -36,7 +36,8 @@ public class Layer
 | [Delete](../../aspose.pdf/layer/delete/)() | Deletes the current layer from the PDF document. |
 | [Flatten](../../aspose.pdf/layer/flatten/)(bool) | Flattens the specified layer. |
 | [Lock](../../aspose.pdf/layer/lock/)() | Locks the layer. |
-| [Save](../../aspose.pdf/layer/save/)(string) | Saves the current layer to a PDF document. |
+| [Save](../../aspose.pdf/layer/save/#save)(Stream) | Saves the current layer to a PDF document. |
+| [Save](../../aspose.pdf/layer/save/#save_1)(string) | Saves the current layer to a PDF document. |
 | [Unlock](../../aspose.pdf/layer/unlock/)() | Unlocks the layer. |
 
 ### See Also

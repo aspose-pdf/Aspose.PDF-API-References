@@ -3,7 +3,7 @@ title: Image.FixWidth
 second_title: Aspose.PDF for .NET API Reference
 description: Image property. Gets or sets the image width
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.pdf/image/fixwidth/
 ---
 ## Image.FixWidth property

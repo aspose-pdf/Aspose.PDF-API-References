@@ -3,7 +3,7 @@ title: Enum FieldSerializationStatus
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Engine.IO.ConvertStrategies.ConvertHelpers.FieldSerializationStatus enum. Represents the status of the form field serialization
 type: docs
-weight: 2520
+weight: 2570
 url: /net/aspose.pdf.engine.io.convertstrategies.converthelpers/fieldserializationstatus/
 ---
 ## FieldSerializationStatus enumeration

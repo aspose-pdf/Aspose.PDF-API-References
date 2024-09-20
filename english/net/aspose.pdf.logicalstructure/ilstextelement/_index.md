@@ -3,7 +3,7 @@ title: Class ILSTextElement
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.LogicalStructure.ILSTextElement class. Represents a base class for inlinelevel text structure elements in logical structure
 type: docs
-weight: 4720
+weight: 4770
 url: /net/aspose.pdf.logicalstructure/ilstextelement/
 ---
 ## ILSTextElement class

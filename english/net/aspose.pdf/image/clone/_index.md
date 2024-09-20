@@ -3,7 +3,7 @@ title: Image.Clone
 second_title: Aspose.PDF for .NET API Reference
 description: Image method. Clone the image
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.pdf/image/clone/
 ---
 ## Image.Clone method

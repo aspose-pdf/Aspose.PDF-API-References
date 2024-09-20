@@ -3,7 +3,7 @@ title: Enum Operation
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Comparison.Diff.Operation enum. Represents a difference operation type
 type: docs
-weight: 1740
+weight: 1760
 url: /net/aspose.pdf.comparison.diff/operation/
 ---
 ## Operation enumeration

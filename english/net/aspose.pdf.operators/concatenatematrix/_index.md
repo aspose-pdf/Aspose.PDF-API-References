@@ -3,7 +3,7 @@ title: Class ConcatenateMatrix
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Operators.ConcatenateMatrix class. Class representing cm operator concatenate matrix to current transformation matrix
 type: docs
-weight: 5530
+weight: 5580
 url: /net/aspose.pdf.operators/concatenatematrix/
 ---
 ## ConcatenateMatrix class

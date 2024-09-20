@@ -3,7 +3,7 @@ title: Matrix.Scale
 second_title: Aspose.PDF for .NET API Reference
 description: Matrix method. Scales x and y with the matrix using the following formula x1  Ax  Cy y1  Bx  Dy
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.pdf/matrix/scale/
 ---
 ## Scale(double, double, out double, out double)

@@ -3,7 +3,7 @@ title: EpubLoadOptions.PageSize
 second_title: Aspose.PDF for .NET API Reference
 description: EpubLoadOptions property. Gets or sets output page size for import
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.pdf/epubloadoptions/pagesize/
 ---
 ## EpubLoadOptions.PageSize property

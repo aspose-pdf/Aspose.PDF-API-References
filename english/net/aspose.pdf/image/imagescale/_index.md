@@ -3,7 +3,7 @@ title: Image.ImageScale
 second_title: Aspose.PDF for .NET API Reference
 description: Image property. Gets or sets the image scale
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.pdf/image/imagescale/
 ---
 ## Image.ImageScale property

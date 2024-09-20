@@ -3,7 +3,7 @@ title: Enum FormType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Forms.FormType enum. Enumeration of posible types of Acro Form
 type: docs
-weight: 3510
+weight: 3560
 url: /net/aspose.pdf.forms/formtype/
 ---
 ## FormType enumeration

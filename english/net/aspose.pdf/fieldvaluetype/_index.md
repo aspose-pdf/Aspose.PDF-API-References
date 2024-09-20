@@ -3,7 +3,7 @@ title: Enum FieldValueType
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.FieldValueType enum. Represents the type of a field value in a schema collection
 type: docs
-weight: 3240
+weight: 3290
 url: /net/aspose.pdf/fieldvaluetype/
 ---
 ## FieldValueType enumeration
